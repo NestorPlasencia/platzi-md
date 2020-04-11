@@ -3,9 +3,7 @@
 ## 0010. ¿Qué es React.js
 
 ### Descripción:
-
-
- **React** cumple su función como _biblioteca_ ya que para utilizar su código se debe importar. También es un _Framework_ aunque las convenciones de cómo debe ser organizado todo no son estrictas.  
+**React** cumple su función como _biblioteca_ ya que para utilizar su código se debe importar. También es un _Framework_ aunque las convenciones de cómo debe ser organizado todo no son estrictas.  
 En este curso aprenderás las prácticas que la comunidad ha decidido que son buenas.
 
 **React es declarativo** , lo que quiere decir que se le indica qué debe hacer pero no cómo debe hacerse, ahorrando de esta manera muchos pasos.
