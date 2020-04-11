@@ -3,8 +3,6 @@
 ## 0010. ¿Qué significa ser un profesional de JavaScript
 
 ### Descripción:
-
-
 **Richard Kaufman** trabaja para **KickAss Partners** como **Senior Front End Engineer** y es organizador de la comunidad de Javascript en Ciudad De México. Richard será tu profesor en este curso, él te va a enseñar **Javascript puro** , repasando los fundamentos clave del lenguaje, explorando **APIs del DOM** , implementando **TypeScript** y aplicando las mejores prácticas con **Patrones de Diseño**.
 
 Vamos a necesitar:
