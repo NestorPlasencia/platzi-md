@@ -5,8 +5,6 @@
 ## 0010. ¿Por qué aprender Programación Orientada a Objetos [16669](https://platzi.com/clases/1474-oop/16669-por-que-aprender-programacion-orientada-a-objetos/)
 
 ### Descripción:
-
-
 * **Vas a programar más rápido**. Tener un análisis previo de lo que estás realizando te ayudará a generar código mucho más veloz
 
 * **Dejas de ser Programador Jr**. Podrás responder preguntas como ¿Qué es encapsulamiento?, ¿Qué es Abstracción?, ¿Qué es Herencia?, ¿Qué es Polimorfismo? en futuras entrevistas de trabajo

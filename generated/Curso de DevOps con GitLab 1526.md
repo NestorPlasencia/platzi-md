@@ -5,6 +5,8 @@
 ## 0010. Introducción al curso [19271](https://platzi.com/clases/1526-gitlab/19271-introduccion-al-curso/)
 
 ### Descripción:
+
+
 Todas las computadores que tienes a tu alrededor corren software que nosotros como desarrolladores escribimos, sin embargo las prácticas tradicionales han hecho que tanto las entregas, seguridad, entre otras no sean óptimas o no podamos movernos a la velocidad que nos gustaría cuando automatizamos.
 
 **DevOps** es una serie de prácticas culturales, pero también de herramientas que nos permiten llevar software de manera ágil a los usuarios. Cuentas con herramientas como manejo de repositorio(Github o Gitlab), CI o CD(CircleCI, TravisCI o Gitlab), manejo de proyectos (Trello, Asana o Gitlab).
