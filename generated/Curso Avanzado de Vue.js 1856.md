@@ -1,6 +1,8 @@
-# Bienvenida al curso
+[Curso Avanzado de Vue.js 1856](https://platzi.com/cursos/avanzado-vue)
 
-## 0010. Qué es Vue y bienvenida al curso
+# Bienvenida al curso [5649]
+
+## 0010. Qué es Vue y bienvenida al curso [27675](https://platzi.com/clases/1856-avanzado-vue/27675-que-es-vue-y-bienvenida-al-curso/)
 
 ### Descripción:
 
@@ -13,26 +15,22 @@
 
 ### Comentarios:
 
-* **Kevin Nick Pascual Tuesta** (3)
+* **Kevin Nick Pascual Tuesta** (3) [1074584](https://platzi.com/comentario/1074584/) 
 
-	
 	Como lo menciona por la complejidad del proyecto. Si quisieran hacer en video facilmente es un curso que llega a las 40h (si lo hacen paso a paso y explicando cada detalle en secciones). Esto lo pueden hacer para cursos complejos que por el tiempo y recursos no son eficientes.
 	
 	Aca les hago una confesión siempre crei que platzi carecia de profundidad a la hora de sus proyectos. Pero con esto veo que se están enfocando en los estudiantes que requieren más que una introducción.
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1074584] (2)
 
-		
 		Efectivamente Kevin, es como dices. Hacer esto en video hubieran sido muchas horas de contenido. Este curso es hacer un proyecto 100% real completo desde 0. En realidad es un proyecto muy sencillo, pero a nivel didáctico, se ve fantástico. Además, no solo trata de Vue.js, es el ciclo completo del desarrollo de una app web, desde la creación hasta la puesta en marcha.
 
-	* **raziel.carvajal** (1)
+	* **raziel.carvajal** [1074584] (1)
 
-		
 		De que sirve tener profundidad si esta en texto? La razón de estar en platzi es los vídeos, por que es ir paso a paso, tener tutoriales de texto, mmm… no tiene mucho caso, es como buscar la documentación en google e ir armando, te ahorra la búsqueda pero pierde el encanto.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1074584] (1)
 
-		
 		Raziel, creo que si completas el curso cambiarás de opinión.  
 		De todas formas, ya hay alumnos que lo han completado y han visto las ventajas de tenerlo en modo texto. Cada formato tiene sus pros y sus contras.  
 		En el caso de este curso, se crea una aplicación real completamente desde 0. No es solamente ejercicios o contenido didáctico. Es un pasó mas, es el flujo completo de una aplicación, desde la creación hasta la puesta en marcha en la nube. En este curso se tratan estos temas: Llamadas a las APIs de Diablo III, aseguradas con OAuth, técnicas de lazy load de rutas, lazy load de componentes, propiedades dinámicas, Sprites CSS, estructura o arquitectura de directorios y ficheros en un proyecto profesional… y más conceptos que descubrirás si completas el curso.
@@ -41,94 +39,79 @@
 		
 		Si tienes más dudas, no dudes en preguntarme 😃
 
-* **Kevin Nick Pascual Tuesta** (3)
+* **Kevin Nick Pascual Tuesta** (3) [1074568](https://platzi.com/comentario/1074568/) 
 
-	
 	Uso vue + nuxt casi diario por el trabajo. Este nuevo formato cuando lo vi me genero un poco de ansiedad ya que no estoy acostumbrado. Pero si lo comparo con muchos blogs de tutoriales o cursos como mediums. Este tiene mejor potencial, además que es como una entrada a futuro. Quien no busca un tuto o blog cuando trabaja en determinado tema. Esto es un buen inicio.
 
-* **Jorge Baumann** (3)
+* **Jorge Baumann** (3) [1072573](https://platzi.com/comentario/1072573/) 
 
-	
 	Esta es la app que vamos a construir: <https://diablo3.netlify.com/#/>
 	
 	Si no tienes perfil del juego, puedes probar con estos datos:
 	
-	  * BattleTag: `SuperRambo#2613`
-	  * Región: `EU`
+	* BattleTag: `SuperRambo#2613`
+	* Región: `EU`
 	
 	
 
-* **eddyarellanes** (3)
+* **eddyarellanes** (3) [1072267](https://platzi.com/comentario/1072267/) 
 
-	
 	El Frontend de Gitlab está hecho con Vue
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072267] (1)
 
-		
 		¡Eso es correcto! Hay muchas grandes empresas que han usado Vue para hacer sus aplicaciones.
 		
 		Durante todo este tiempo trabajando con Vue, la mayoría de personas que lo han probado siempre me han dicho lo mismo, que le gusta el framework porque es simple de utilizar y potente para desarrollar.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072267] (1)
 
-		
 		Cada día se ven más ejemplos de grandes empresas que están migrando a Vue, o que están usando Vue en algunas partes de su aplicación. Por poner un ejemplo, Facebook usa Vue.js para algunos sitios web de marketing.
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1072267] (2)
 
-		
 		El sitio para consultar tus stats de Call of Duty también está en Vue  
 		<https://my.callofduty.com/login>
 		
 		👀
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072267] (1)
 
-		
 		Cierto, ¿cómo lo descubriste? Este sitio lo desconocía totalmente
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1072267] (2)
 
-		
 		Juego CoD MW y pues en todo navegador que tengo instalado tiene las Dev Tools de Vue, y cuando entré a ver mis Stats vi que la extensión estaba habilitada 👌
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072267] (1)
 
-		
 		Gran aporte!
 
-* **Michael Torres Morán** (3)
+* **Michael Torres Morán** (3) [1071793](https://platzi.com/comentario/1071793/) 
 
-	
 	Aquí se ve cuando a un dev le encanta el lenguaje que usa, se nota que será un excelente curso.
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1071793] (2)
 
-		
 		Gracias por tu comentario, la verdad es que me gusta mucho Vue, demasiado diría yo 😁
 
-* **chris_x** (2)
+* **chris_x** (2) [1101777](https://platzi.com/comentario/1101777/) 
 
-	
 	Me alegro que sigan sacando contenido de Vue, pero con respeto, este formato no es el correcto en lo absoluto (por que ya deja de ser Platzi esto), espero poder verlo a Jorge en otro curso!
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1101777] (1)
 
-		
 		Hola Chris_x, gracias por el comentario. ¿Por qué piensas que este formato no es el correcto?
 
-* **pblfergt** (2)
+* **pblfergt** (2) [1094666](https://platzi.com/comentario/1094666/) 
 
-	
 	Que emoción, seguro sera una nueva experiencia no ver tanto vídeo como lo es normalmente, se nota que es un nuevo paso para los cursos avanzados de platzi.🙌🎉🎉🎉🎉🎉🎉🎉
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1094666] (1)
 Es un curso muy completo. Si lo haces crearas una aplicación completamente funcional de cero a cien
 
-* **David Alejandro Abreu Abreu** (2)
+* **David Alejandro Abreu Abreu** (2) [1086472](https://platzi.com/comentario/1086472/) 
 
-	
 	Hola! Estoy entusiasmado por hacer el curso y reforzar mis conocimientos, lo tengo en mi “Read List” 😄 los cursos anteriores han sido muy buenos, para quienes están acostumbrados a leer documentación no tendrán problema con este curso. Pero quiero realizar algunas sugerencias. Disculpen si cometo el error de sugerir muy pronto. Se que tanto Nacho como Jorge son excelentes profesores!
 	
 	  1. A los cursos les hace falta una botón al lado de “Reportar un Problema” que diga “Realizar Sugerencia” seria mas cómodo que escribir a Team Platzi y se podría recopilar que se debe mejorar en los cursos.
@@ -150,9 +133,8 @@ Es un curso muy completo. Si lo haces crearas una aplicación completamente func
 	
 	Gracias @Jorge ! 💪🏽
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1086472] (2)
 
-		
 		Hoooola. Gracias por tu comentario. No sé qué significa DRF. Te voy respondiendo al punto 2, que es el único que puedo responderte, los demás corresponden al team-platzi:
 		
 		En el transcurso de este curso se tocan varios temas como los que mencionas. En este caso no hay validación de formularios, pero sí hay llamadas a APIs, arquitecturas de directorios escalables, modularización con Vuex, funciones de utilidad, buenas prácticas y muchas más cosas que no mencionas.
@@ -163,25 +145,22 @@ Es un curso muy completo. Si lo haces crearas una aplicación completamente func
 		
 		Te animo a que hagas el curso, que está muy interesante. Y ya sabes, para cualquier duda, me encuentras por aquí o en las redes (twitter, IG, github) bajo el nick de @baumannzone.
 
-	* **David Alejandro Abreu Abreu** (2)
+	* **David Alejandro Abreu Abreu** [1086472] (2)
 
-		
 		Gracias Jorge, DRF es Django Rest Framework, es el framework que ocupamos en el Curso Avanzado de Django.
 		
 		Y tu puedes! Envíale las sugerencias a Freddy 😄
 		
 		Así sera! Haré el curso! 💪🏽
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1086472] (1)
 
-		
 		Perfecto, gracias por la aclaración :DD
 		
 		Y por cierto… ya les hice llegar al equipo de Platzi las recomendaciones.
 
-* **Daniee** (2)
+* **Daniee** (2) [1081654](https://platzi.com/comentario/1081654/) 
 
-	
 	Estoy haciendo el curso y tengo que ser sincero al decir que me chochó un poco al principio el ver que el curso sea sólo texto.
 	
 	Pero cuando empecé a hacerlo tengo que reconocer que me está gustando el hecho de estar creando conforme voy leyendo, porqué si que es verdad que en algunas clases cuando estoy haciendo lo que el profesor hace en video en “tiempo real” es un poco rápido de seguir a veces y no siempre veía el video 2 veces…
@@ -194,9 +173,8 @@ Es un curso muy completo. Si lo haces crearas una aplicación completamente func
 	
 	Mis respetos a Jorge porque se nota que te encanta lo que haces, soy un apasionado de Vue y pensaba hacer el curso de todas formas (texto, video o como fuera), pero reconozco que cuando vi que el proyecto era acerca de **Diablo 3** , me pusiste en la obligación de hacerlo 💚. Gracias por esta temática para el proyecto y por vuestro gran trabajo !
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1081654] (2)
 
-		
 		Muchas gracias por tu comentario, @Daniee. Comentarios como el tuyo no abundan en este curso, ya que es un formato que la gente no está acostumbrado a ver. Sin embargo, esto no debería ser excusa para hacer comentarios ofensivos.  
 		Si te soy sincero, para mi también fue un “choque” empezar a hacer el curso en formato texto. Sin embargo, estoy super orgulloso del curso, hay muy buen contenido y tiene algunas ventajas que no tienen los cursos en modo video.  
 		Como ya dije en otro comentario, cada formato tiene sus pros y sus contras. Obviamente no me imagino la plataforma con el 100% de los cursos en texto, pero si no experimentas con otras opciones (como este curso en texto), nunca vas a poder mejorar. Y para eso estamos aquí todos, ¡para mejorar! El proyecto es realmente fascinante, tiene mucho esfuerzo y muchas horas de trabajo detrás.
@@ -205,98 +183,82 @@ Es un curso muy completo. Si lo haces crearas una aplicación completamente func
 		
 		PD: Tengo pensado ampliar el proyecto original, con algunas nuevas **features**. Si quieren estar al tanto, marca la estrellita ⭐️ desde el repositorio: <https://github.com/baumannzone/diablo3-vue-platzi> . Recuerda que si quieres contribuir al proyecto, todas las aportaciones son bienvenidas.
 
-* **Andrés Campuzano Garzón** (2)
+* **Andrés Campuzano Garzón** (2) [1072785](https://platzi.com/comentario/1072785/) 
 
-	
 	Excelente este curso y su nuevo formato. Una vez tenga los conocimientos suficientes, volveré para tomarlo ya que me Interesa demasiado. 😊😊
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072785] (1)
 
-		
 		Revisa el curso de iniciación y después, cuando lo apruebes, vuelve con este. Siempre puedes pedir ayuda si no entiendes algo. Estaré atento a las posibles dudas de los estudiantes 👍
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [1071426](https://platzi.com/comentario/1071426/) 
 
-	
 	Por si quieren variar también está la API de Call of Duty  
 	<https://documenter.getpostman.com/view/7896975/SW7aXSo5?version=latest>
 	
 	👀
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1071426] (1)
 
-		
 		No la conocía, la voy a tener que probar…
 		
 		¿Terminamos el curso y hacemos otra app con la API de CoD?
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1071426] (2)
 
-		
 		Es un hecho 👌
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1071426] (2)
 
-		
 		Lo prometido es deuda:  
 		<https://callofduty-playerfinder.netlify.com/#/>
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1071426] (1)
 
-		
 		Wow! Qué bueno. Veo que este proyecto te sirvió de inspiración 🤙
 
-* **David Vargas Domínguez** (2)
+* **David Vargas Domínguez** (2) [1071396](https://platzi.com/comentario/1071396/) 
 
-	
 	Super emocionado con este curso, su proyecto y el nuevo formato. Vamos con todo. 😃
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1071396] (1)
 
-		
 		Si te surge alguna duda, deja tu pregunta y lo resolveremos inmediatamente 😊
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1071396] (1)
 
-		
 		Ya lo terminaste? Publicaste tu aplicación?
 
-* **raziel.carvajal** (1)
+* **raziel.carvajal** (1) [1080723](https://platzi.com/comentario/1080723/) 
 
-	
 	Me estan dicendo que este curso es solo texto? en serio?
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1080723] (2)
 Totalmente en serio, te sorprenderá cuando lo termines 👌
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1080723] (1)
 
-		
 		Hola Raziel, ya vi que completaste el curso. También vi que prefieres el formato video al de texto. Me gustaría preguntarte un par de cosas: ¿Aprendiste algo nuevo? ¿Había algo que no conocías y ahora ya sí? Gracias
 
-	* **raziel.carvajal** (2)
+	* **raziel.carvajal** [1080723] (2)
 
-		
 		Hola Jorge, siempre se aprende algo nuevo en cada curso, actualmente pensé que estaría enfocado o otro tipo de ‘avanzado’, pero me gustan los videojuegos y el toque de D3 me gusto.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1080723] (1)
 
-		
 		¿Qué te hubiera gustado ver? ¿Qué es otro tipo de avanzado? 😄 Me dejaste con la duda jaja
 
-* **josealbertolopeznext2** (1)
+* **josealbertolopeznext2** (1) [1075331](https://platzi.com/comentario/1075331/) 
 
-	
 	Mejor me leo la documentación de Vue.js, el formato de este curso es igual que buscar en Internet lo que buscáis, no aportáis mas que una guía con pasos muy calculados de happy path el curso, en esto se me ha ido la pasta y solo ponéis textos, como os lo digo, esta mejor consultar la documentación de Vue.js
 
-	* **Jorge Baumann** (3)
+	* **Jorge Baumann** [1075331] (3)
 
-		
 		@josealbertolopeznext2, me gustaría aclarar dos cosas:
 		
-		  * En primer lugar, si querías dar tu opinión sobre el curso, esa no es la forma correcta. No hay necesidad de ser tan agresivo. Que no te guste el formato texto, es totalmente válido. Que lo hayas dicho de esa forma, no es aceptable.
+		* En primer lugar, si querías dar tu opinión sobre el curso, esa no es la forma correcta. No hay necesidad de ser tan agresivo. Que no te guste el formato texto, es totalmente válido. Que lo hayas dicho de esa forma, no es aceptable.
 		
-		  * En segundo lugar, este curso es el ciclo completo del desarrollo de una app de Vue.js desde 0 hasta su puesta en producción. Hay una cosa en la que tienes razón, toda la información que hay acerca de Vue.js la puedes sacar de internet, pero para eso es el curso. La documentación de Vue.js la he estudiado y la he preparado, consiguiendo así hacer más fácil la tarea de aprender, tienes todos los recursos necesarios y explicados con ejemplos desarrollados a medida que avanzas en el del curso.  
+		* En segundo lugar, este curso es el ciclo completo del desarrollo de una app de Vue.js desde 0 hasta su puesta en producción. Hay una cosa en la que tienes razón, toda la información que hay acerca de Vue.js la puedes sacar de internet, pero para eso es el curso. La documentación de Vue.js la he estudiado y la he preparado, consiguiendo así hacer más fácil la tarea de aprender, tienes todos los recursos necesarios y explicados con ejemplos desarrollados a medida que avanzas en el del curso.  
 		Como se trata de un ciclo completo, **no es solo leerse la documentación de Vue** y ya. Hay llamadas a **APIs** , hay control de seguridad con **OAuth** , explicamos técnicas de **CSS** que nada tienen que ver con Vue (pero que deberías conocer como buen desarrollador Front), algunos trucos de **Webpack** y, por último, despliegue de la app en una plataforma en la nube. Imagino que ya habrás podido comprender que todo esto de lo que hablo no viene en la documentación de Vue.
 		
 		
@@ -306,34 +268,28 @@ Totalmente en serio, te sorprenderá cuando lo termines 👌
 		
 		Si decides hacer el curso y tienes alguna duda, siempre será un placer ayudarte.
 
-	* **raziel.carvajal** (1)
+	* **raziel.carvajal** [1075331] (1)
 
-		
 		Estoy de acuerdo contigo, tutoriales en texto no es lo que uno espera encontrar en la plataforma, si como apoyo, pero no full texto. Hay plataformas como Udemy que te dan cursos de +20 horas por 100 - 200 MXN. De hecho aprendí Vue con uno de esos, y es puro video, no veo por que aquí no querer poner un curso de 20 ó mas horas en video.
 
-	* **soyelwaldo** (1)
+	* **soyelwaldo** [1075331] (1)
 
-		
 		Con qué curso aprendiste Vue amigo en vdd me interesa
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1075331] (2)
 
-		
 		Ya hay cursos de Vue en video en Platzi. Te recomiendo que los hagas y cuando hayas obtenido tu diploma, vuelvas a este.
 
-	* **Daniee** (2)
+	* **Daniee** [1075331] (2)
 
-		
 		Creo que tu comentario está totalmente fuera de lugar, hay maneras y maneras de expresar tu forma de vista, si escribes algo en la sección de comentarios debería ser para aportar, si lo que quieres es criticar a alguien, podrías ahorrarte tu comentario la verdad…
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1075331] (2)
 
-		
 		Gracias @Daniee. Tienes toda la razón del mundo. Eso mismo dije yo…
 
-	* **raziel.carvajal** (1)
+	* **raziel.carvajal** [1075331] (1)
 
-		
 		@soyelwaldo con este:  
 		<https://www.udemy.com/course/vuejs-2-the-complete-guide/>
 		
@@ -341,19 +297,18 @@ Totalmente en serio, te sorprenderá cuando lo termines 👌
 		
 		Esta en ingles, creo que tienes subtitulos al español, no recuerdo bien.
 
-	* **raziel.carvajal** (1)
+	* **raziel.carvajal** [1075331] (1)
 
-		
 		@Daniee una queja tambien es un aporte, la razon de platzi para mi son los videos, me es muy complicado para aprender con solo texto, por eso recurro a plataformas en video.
 		
 		No es una queja contra el profesor, él es punto y aparte, no lo cuestiono a él, ni a su trabajo, solo cuestiono el formato de entrega que seguramente no fue su culpa.
 
-* **jesus-alejandro-montoya** (1)
+* **jesus-alejandro-montoya** (1) [1073531](https://platzi.com/comentario/1073531/) 
 La verdad sigo prefiriendo el formato en video :/
 
-# VueCli, configuración inicial del proyecto y consumo del API de Blizzard
+# VueCli, configuración inicial del proyecto y consumo del API de Blizzard [5666]
 
-## 0020. Crea tu app con el Vue CLI
+## 0020. Crea tu app con el Vue CLI [27755](https://platzi.com/clases/1856-avanzado-vue/27755-crea-tu-app-con-el-vue-cli/)
 
 ### Descripción:
 
@@ -368,8 +323,8 @@ La verdad sigo prefiriendo el formato en video :/
 
 * * *
 
-  * **Demo** : Revisa esta demo online para que veas qué es lo que vamos a construir juntos · <https://diablo3.netlify.com>. Puedes utilizar este usuario en el formulario `SuperRambo#2613` para probar en la region `EU`.
-  * **Github** : En este enlace encontrarás el repositorio completo · <https://github.com/baumannzone/diablo3-vue-platzi>
+* **Demo** : Revisa esta demo online para que veas qué es lo que vamos a construir juntos · <https://diablo3.netlify.com>. Puedes utilizar este usuario en el formulario `SuperRambo#2613` para probar en la region `EU`.
+* **Github** : En este enlace encontrarás el repositorio completo · <https://github.com/baumannzone/diablo3-vue-platzi>
 
 
 
@@ -395,8 +350,8 @@ Desde tu terminal, escribe el siguiente comando:
 
 Una vez instalada la herramienta, podemos empezar a crear nuestro proyecto. Existen 2 formas de crear un proyecto con el CLI de Vue.
 
-  * A través de la terminal: `vue create nombre_proyecto` (esta es la que vamos a usar nosotros)
-  * A través de una interfaz gráfica: `vue ui` (a través del navegador, vas seleccionando con el ratón las opciones que te interesan)
+* A través de la terminal: `vue create nombre_proyecto` (esta es la que vamos a usar nosotros)
+* A través de una interfaz gráfica: `vue ui` (a través del navegador, vas seleccionando con el ratón las opciones que te interesan)
 
 
 
@@ -414,13 +369,13 @@ Eliges la forma `manual` y después te debería aparece lo siguiente:
 
 El CLI de Vue nos está preguntando que _features_ quieres instalar en el proyecto. Vamos a instalar todas las que están marcadas en verde (para que marcar una opción usa la tecla `space` y para moverte usa las flechas de ⬆️ / ⬇️).
 
-  * Babel
-  * VueRouter, para el manejo de rutas
-  * Vuex para la gestión del estado
-  * Pre-procesador CSS
-  * Linter estricto. Si no has usado uno antes, seguro que te cuesta adaptarte. Pero verás que merece la pena.  
+* Babel
+* VueRouter, para el manejo de rutas
+* Vuex para la gestión del estado
+* Pre-procesador CSS
+* Linter estricto. Si no has usado uno antes, seguro que te cuesta adaptarte. Pero verás que merece la pena.  
 Ahora todo tu código, incluso si trabajas con varias personas en el proyecto, va a tener el mismo estilo, pues de esto se va a encagar el linter. ¡Le va a dar un toque muy profesional a tu aplicación! 😉
-  * Testing: Unitario y End to End (E2E)
+* Testing: Unitario y End to End (E2E)
 
 
 
@@ -430,15 +385,15 @@ Estas son las opciones que debes elegir:
 
 ![create-2](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/index/create-2.png)
 
-  * History Mode: Elegimos **No**. Esto sirve para dejar o quitar el hash (#) de la url. En nuestro caso lo hemos dejado.
-  * El pre-procesador de CSS que vamos a elegir es **Stylus** , me gusta porque es potente, simple y elegante.
-  * Linter, vamos a tener 2 opciones: 
-    * La primera: **Standard Config**. Es la configuracion de linteado que mas me gusta. Está basado en [Standard Js](https://standardjs.com/).
-    * La segunda: Marcamos las dos opciones **Lint on save** y **Lint and fix on commit**. Con esta configuración no vamos a poder hacer commit si tenemos algun error de linteado.
-  * Como herramienta de testing unitario utilizaremos **Jest**.
-  * Para testing E2E usaremos **Cypress**.
-  * En esta opción elegimos **In package.json**. Esto guardará las configuraciones de algunas librerias dentro de ese fichero.
-  * Y por último, nos pregunta si queremos guardar estas opciones para poder usarlas por defecto en el futuro. Puedes elegir la que quieras, en esta ocasión vamos a marcar **No**
+* History Mode: Elegimos **No**. Esto sirve para dejar o quitar el hash (#) de la url. En nuestro caso lo hemos dejado.
+* El pre-procesador de CSS que vamos a elegir es **Stylus** , me gusta porque es potente, simple y elegante.
+* Linter, vamos a tener 2 opciones: 
+  * La primera: **Standard Config**. Es la configuracion de linteado que mas me gusta. Está basado en [Standard Js](https://standardjs.com/).
+  * La segunda: Marcamos las dos opciones **Lint on save** y **Lint and fix on commit**. Con esta configuración no vamos a poder hacer commit si tenemos algun error de linteado.
+* Como herramienta de testing unitario utilizaremos **Jest**.
+* Para testing E2E usaremos **Cypress**.
+* En esta opción elegimos **In package.json**. Esto guardará las configuraciones de algunas librerias dentro de ese fichero.
+* Y por último, nos pregunta si queremos guardar estas opciones para poder usarlas por defecto en el futuro. Puedes elegir la que quieras, en esta ocasión vamos a marcar **No**
 
 
 
@@ -450,8 +405,8 @@ Ahora empezará a instalarse todo lo que hemos ido marcando. Cuando termine, si 
 
 Por lo tanto, para arrancar la aplicación desde la terminal hacemos lo siguiente:
 
-  * Vamos a la carpeta del proyecto: `cd diablo3/`
-  * Ejecutamos el servidor en modo desarrollo. Bien con `npm run serve` o con `yarn serve`
+* Vamos a la carpeta del proyecto: `cd diablo3/`
+* Ejecutamos el servidor en modo desarrollo. Bien con `npm run serve` o con `yarn serve`
 
 
 
@@ -491,27 +446,23 @@ En la siguiente sección repasaremos la documentacion de las APIs de Blizzard pa
 
 ### Comentarios:
 
-* **David Alejandro Abreu Abreu** (3)
+* **David Alejandro Abreu Abreu** (3) [1093668](https://platzi.com/comentario/1093668/) 
 
-	
 	Por que **no** usar el _History Mode_? 🤔
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1093668] (2)
 Puedes usarlo o puedes no usarlo. para mí es más cómodo no usarlo ya que no requiere de ninguna configuración adicional en el servidor. Lo único que haces al no usarlo es dejar que el hashtag # aparezca en la url de tu aplicación. Como no supone ninguna molestia, yo personalmente lo prefiero así. Si por estética prefieres tener la URL limpia, puedes usarlo pero en el servidor en el que lo vayas a desplegar vas a tener que hacer una configuración extra.
 
-* **Daniel Esteves** (3)
+* **Daniel Esteves** (3) [1076004](https://platzi.com/comentario/1076004/) 
 
-	
 	Mmm, los textos siguen teniendo muchos errores de compilación del Markdown
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1076004] (1)
 
-		
 		Ya se arreglaron.
 
-* **Leyvi Silván** (2)
+* **Leyvi Silván** (2) [1097966](https://platzi.com/comentario/1097966/) 
 
-	
 	Seria bueno agregar que después de realizar el cambio en las versiones del paquete que menciona e la última parte es necesario ejecutar nuevamente:
 	``` 
 	    npm install
@@ -520,20 +471,18 @@ Puedes usarlo o puedes no usarlo. para mí es más cómodo no usarlo ya que no r
 	
 	Esto revisa tu archivo package.json para instalar las versiones especificadas para cada paquete
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1097966] (1)
 
-		
 		Totalmente cierto. ¡Eso deben hacer!
 
-* **Alexander  Silvera** (2)
+* **Alexander  Silvera** (2) [1076297](https://platzi.com/comentario/1076297/) 
 
-	
 	Hola tengo este error en la consola VSC:
 	
 	ERROR Failed to compile with 1 errors 2:01:23  
 	This relative module was not found:
 	
-	  * …/assets/logo.png in ./node_modules/cache-loader/dist/cjs.js?{“cacheDirectory”:“node_modules/.cache/vue-loader”,“cacheIdentifier”:“4701ba98-vue-loader-template”}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref–0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/Home/Index.vue?vue&type=template&id=d5e59f88&
+	* …/assets/logo.png in ./node_modules/cache-loader/dist/cjs.js?{“cacheDirectory”:“node_modules/.cache/vue-loader”,“cacheIdentifier”:“4701ba98-vue-loader-template”}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref–0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/views/Home/Index.vue?vue&type=template&id=d5e59f88&
 	
 	
 	
@@ -550,25 +499,22 @@ Puedes usarlo o puedes no usarlo. para mí es más cómodo no usarlo ya que no r
 	✖ 1 problem (1 error, 0 warnings)  
 	1 error and 0 warnings potentially fixable with the `--fix` option.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1076297] (1)
 Puede ser que tienes que dejar una línea en blanco al final del archivo. Prueba y me dices.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1076297] (1)
 
-		
 		¿Lo conseguiste arreglar?
 		
 		Otra opcion puede ser ser que antes de hacer el `npm run serve`, hagas: `npm run lint --fix`
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1076297] (2)
 
-		
 		El error en si te dice que la imagen no se puede encontrar  
 		¿Ya verificaste si el logo se encuentra en esa carpeta?
 
-	* **Alexander  Silvera** (2)
+	* **Alexander  Silvera** [1076297] (2)
 
-		
 		Hola el problema esta en la ruta del logo (imagen), que en el index.js de la carpeta Home indica la siguiente ruta:  
 		…/assets/logo.png  
 		y debe de corregirse por haber cambiado la ruta de la siguiente manera:  
@@ -576,30 +522,26 @@ Puede ser que tienes que dejar una línea en blanco al final del archivo. Prueba
 		
 		Por si alguien tiene el mismo problema, saludos y gracias.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1076297] (1)
 
-		
 		Muchas gracias. Me di cuenta que mi editor de texto, cada vez que cambio un archivo de ruta, me actualiza automáticamente las referencias (en este caso la imagen) y por eso en mi caso no tenía error.
 
-* **Kevin Nick Pascual Tuesta** (2)
+* **Kevin Nick Pascual Tuesta** (2) [1074629](https://platzi.com/comentario/1074629/) 
 
-	
 	Es idea mia o los textos tienen un bug
 
-	* **Jorge Baumann** (3)
+	* **Jorge Baumann** [1074629] (3)
 
-		
 		Hay algunos que tienen algunos errores, pero ya está reportado el fallo.  
 		Cualquier cosa que te impida continuar, puedes pedirme ayuda.
 		
 		Además, recuerda que también puedes ver repositorio oficial completo: <https://github.com/baumannzone/diablo3-vue-platzi>
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1074629] (1)
 
-		
 		Ya están arreglados.
 
-## 0030. Blizzard Developer Portal
+## 0030. Blizzard Developer Portal [27713](https://platzi.com/clases/1856-avanzado-vue/27713-blizzard-developer-portal/)
 
 ### Descripción:
 
@@ -625,8 +567,8 @@ El Authenticator de Blizzard es obligatorio y ofrece una capa extra de seguridad
 
 **Descarga** la aplicación Blizzard Authenticator de la App Store o desde Google Play para continuar.
 
-  * Android: <https://play.google.com/store/apps/details?id=com.blizzard.bma>
-  * iPhone: <https://apps.apple.com/app/blizzard-authenticator/id306862897>
+* Android: <https://play.google.com/store/apps/details?id=com.blizzard.bma>
+* iPhone: <https://apps.apple.com/app/blizzard-authenticator/id306862897>
 
 
 
@@ -720,10 +662,10 @@ Crea tu cliente de acceso a APIs desde este enlace: <https://develop.battle.net/
 
 Rellena el formulario y dale a crear:
 
-  * **Client Name** : te va a servir para identificar los distintos clientes que tengas. Puedes poner, por ejemplo, “D3PF” que es el nombre de la app.
-  * **Redirect URIs** : Este campo no lo vamos a usar por el tipo de flujo OAuth que estamos usando.
-  * **Service URL** : De momento lo dejas en blanco. No te olvides de marcar el checkbox de “I do not have a service URL for this client.” Cuando tengas tu app subida en la nube, deberás volver a editar la información de este cliente y actualizar este campo.
-  * **Intended Use** : ¿Para qué lo vas a usar? ¿Cómo lo vas a usar? Responde a estas preguntas.  
+* **Client Name** : te va a servir para identificar los distintos clientes que tengas. Puedes poner, por ejemplo, “D3PF” que es el nombre de la app.
+* **Redirect URIs** : Este campo no lo vamos a usar por el tipo de flujo OAuth que estamos usando.
+* **Service URL** : De momento lo dejas en blanco. No te olvides de marcar el checkbox de “I do not have a service URL for this client.” Cuando tengas tu app subida en la nube, deberás volver a editar la información de este cliente y actualizar este campo.
+* **Intended Use** : ¿Para qué lo vas a usar? ¿Cómo lo vas a usar? Responde a estas preguntas.  
 Para el caso de esta app puedes poner algo parecido a esto: “ _Try the new apis and provide players information about their D3 characters_ ”, que significa que vas a usar las APIs para “probar las nuevas APIs y proporcionar información sobre los personajes de D3”
 
 
@@ -738,8 +680,8 @@ Más adelante verás un posible método para tener estos datos de forma privada,
 
 Todos los clientes tienen unos límites a la hora de consumir APIs. Para evitar sobrecargas en los servidores, las APIs tienen las siguientes restricciones:
 
-  * Cuota a largo plazo: `36,000` peticiones por hora
-  * Cuota a corto plazo: `100` peticiones por segundo
+* Cuota a largo plazo: `36,000` peticiones por hora
+* Cuota a corto plazo: `100` peticiones por segundo
 
 
 
@@ -753,20 +695,18 @@ Antes de pasar a la siguiente lectura deberías haber creado tu cliente y tener 
 
 ### Comentarios:
 
-* **David Alejandro Abreu Abreu** (2)
+* **David Alejandro Abreu Abreu** (2) [1093793](https://platzi.com/comentario/1093793/) 
 
-	
 	Opino que para hacer el curso como corresponde Platzi debe entregar una licencia de Diablo 3 a cada quien 😄5820
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1093793] (1)
 Me gusta mucho tu propuesta 😂😂
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1093793] (1)
 
-		
 		Ya les hice la propuesta en twitter, ¿tú crees que te van a hacer caso? :DD <https://twitter.com/baumannzone/status/1246872628838699012>
 
-## 0040. Comandos del Proyecto
+## 0040. Comandos del Proyecto [27714](https://platzi.com/clases/1856-avanzado-vue/27714-comandos-del-proyecto/)
 
 ### Descripción:
 
@@ -819,19 +759,19 @@ Esta es una de las características que me gustan de Vue, la libertad que ofrece
 
 Vamos a explicar que haremos con cada carpeta:
 
-  * `/api`: Archivos con las llamadas HTTP a las APIs. Importaremos _[axios](https://github.com/axios/axios)_ y lo utilizaremos para obtener los datos del juego.
-  * `/assets`: En esta carpeta tendremos archivos CSS globales e imágenes, es decir, contenido estático.
-  * `/componets`: Aquí estarán los componentes reusables de nuestra aplicación. Piensa por ejemplo, en un componente _loading_ que podrá ser usado varias veces a lo largo de la app.
-  * `/directives`: Las directivas personalizadas que hagas estarán aquí. Ejemplos de directivas en vue son: `v-if`, `v-for`, etc. Cuando creemos una directiva personalizada, la alojaremos en esta carpeta.
-  * `/filters`: Dentro de esta carpeta estarán los filtros que usaremos para darle formato a los datos de nuestra vista.
-  * `/layouts`: Los layouts de nuestra app. Serán la estructura base sobre la que inyectaremos nuestras vistas. Suelen tener el _header-bar_ y el _footer_ común a toda la app.
-  * `/mixins`: Los mixins (fragmentos de código reusable por nuestros componentes) los encuentras en esta carpeta.
-  * `/plugins`: Esta carpeta puede llevar a confusión porque, realmente, lo que alojaremos aquí no son plugins que creemos para Vue, sino que tendremos librerías de terceros.  
+* `/api`: Archivos con las llamadas HTTP a las APIs. Importaremos _[axios](https://github.com/axios/axios)_ y lo utilizaremos para obtener los datos del juego.
+* `/assets`: En esta carpeta tendremos archivos CSS globales e imágenes, es decir, contenido estático.
+* `/componets`: Aquí estarán los componentes reusables de nuestra aplicación. Piensa por ejemplo, en un componente _loading_ que podrá ser usado varias veces a lo largo de la app.
+* `/directives`: Las directivas personalizadas que hagas estarán aquí. Ejemplos de directivas en vue son: `v-if`, `v-for`, etc. Cuando creemos una directiva personalizada, la alojaremos en esta carpeta.
+* `/filters`: Dentro de esta carpeta estarán los filtros que usaremos para darle formato a los datos de nuestra vista.
+* `/layouts`: Los layouts de nuestra app. Serán la estructura base sobre la que inyectaremos nuestras vistas. Suelen tener el _header-bar_ y el _footer_ común a toda la app.
+* `/mixins`: Los mixins (fragmentos de código reusable por nuestros componentes) los encuentras en esta carpeta.
+* `/plugins`: Esta carpeta puede llevar a confusión porque, realmente, lo que alojaremos aquí no son plugins que creemos para Vue, sino que tendremos librerías de terceros.  
 Por ejemplo _[Bootstrap-Vue](https://bootstrap-vue.js.org/)_ , la librería de componentes que usaremos a lo largo del curso.
-  * `/router`: Controlaremos las rutas de nuestra aplicación desde aquí.
-  * `/store`: El estado de nuestra aplicación. Lo gestionaremos a través de _[Vuex](https://vuex.vuejs.org/)_.
-  * `/utils`: Carpeta con funciones generales o que no tienen una temática definida. No es conveniente abusar de esto. Si tienes mucho contenido aquí quiere decir que deberías agrupar funcionalidades en otro directorio.
-  * `/views`: Aquí estarán todas las vistas de nuestra aplicación. Hay que recordar que, en Vue, todo son componentes, y, en este caso, dichos componentes hacen de vistas de nuestra aplicación.
+* `/router`: Controlaremos las rutas de nuestra aplicación desde aquí.
+* `/store`: El estado de nuestra aplicación. Lo gestionaremos a través de _[Vuex](https://vuex.vuejs.org/)_.
+* `/utils`: Carpeta con funciones generales o que no tienen una temática definida. No es conveniente abusar de esto. Si tienes mucho contenido aquí quiere decir que deberías agrupar funcionalidades en otro directorio.
+* `/views`: Aquí estarán todas las vistas de nuestra aplicación. Hay que recordar que, en Vue, todo son componentes, y, en este caso, dichos componentes hacen de vistas de nuestra aplicación.
 
 
 
@@ -852,9 +792,9 @@ Dentro de la carpeta `/views` vamos a cambiar los componentes de `Home.vue` y `A
 
 Para este proyecto la forma de trabajar con la mayoría de ficheros va a ser la siguiente:
 
-  * Primero creamos una carpeta que tendrá el nombre de nuestro componente (en este caso, de nuestra vista). Por lo tanto, creamos la carpeta `/Home`.
-  * Lo segundo, es mover el componente `Home.vue` a la carpeta `/Home`.
-  * Por último, tenemos que renombrar el componente vista que acabamos de mover. Le cambiamos el nombre de `Home.vue` a `Index.vue`. (Recuerda, todos los nombres de las carpetas dentro de la carpeta de vistas (`/views`) los vas a crear con la primera letra en mayúscula)  
+* Primero creamos una carpeta que tendrá el nombre de nuestro componente (en este caso, de nuestra vista). Por lo tanto, creamos la carpeta `/Home`.
+* Lo segundo, es mover el componente `Home.vue` a la carpeta `/Home`.
+* Por último, tenemos que renombrar el componente vista que acabamos de mover. Le cambiamos el nombre de `Home.vue` a `Index.vue`. (Recuerda, todos los nombres de las carpetas dentro de la carpeta de vistas (`/views`) los vas a crear con la primera letra en mayúscula)  
 Durante este proyecto, todos los componentes que veas que se llamen `Index.vue` van a ser el componente de entrada principal, del cual dependerán los demás componentes.
 
 
@@ -942,17 +882,15 @@ Una vez hayas cambiado esto, no deberías tener ningún error en la consola. Má
 
 ### Comentarios:
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [1071822](https://platzi.com/comentario/1071822/) 
 
-	
 	¿Existe algún problema si en lugar de mixins llego a utilizar composables con el [Composition API](https://github.com/vuejs/composition-api) para Vue 2?
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1071822] (2)
 
-		
 		No deberías tener problema. Si lo usas, comparte el código para que lo podamos ver todos 😄
 
-## 0050. Instalar librerías
+## 0050. Instalar librerías [27715](https://platzi.com/clases/1856-avanzado-vue/27715-instalar-librerias/)
 
 ### Descripción:
 
@@ -1051,15 +989,15 @@ Si vas al navegador, y abres tu aplicación, deberías ver el botón que acabamo
 
 ### Comentarios:
 
-## 0060. Carpeta API
+## 0060. Carpeta API [27722](https://platzi.com/clases/1856-avanzado-vue/27722-carpeta-api/)
 
 ### Descripción:
 
 
 Hora de configurar **axios** , la librería que utilizaremos para hacer las llamadas a las APIs de Diablo III. Vamos a tener dos tipos de llamadas a las APIs:
 
-  * La llamada de OAuth, para obtener el token de acceso.
-  * Las llamadas a las APIs que nos van a devolver los datos del juego: perfil de usuario, objetos, etc.
+* La llamada de OAuth, para obtener el token de acceso.
+* Las llamadas a las APIs que nos van a devolver los datos del juego: perfil de usuario, objetos, etc.
 
 
 
@@ -1145,9 +1083,9 @@ Lo único que hemos hecho ha sido seguir lo que dice la [documentación](https:/
 
 🔥 Bonus: Los formularios de HTML tienen 3 tipos de _encoding_ :
 
-  * `application/x-www-form-urlencoded` (valor por defecto)
-  * `multipart/form-data` (este es el que hemos usado)
-  * `text/plain` (no deberías usar este nunca)
+* `application/x-www-form-urlencoded` (valor por defecto)
+* `multipart/form-data` (este es el que hemos usado)
+* `text/plain` (no deberías usar este nunca)
 
 
 
@@ -1159,29 +1097,24 @@ Lo siguiente que vamos a hacer es ir al fichero principal (`main.js`) y trabajar
 
 ### Comentarios:
 
-* **David Alejandro Abreu Abreu** (2)
+* **David Alejandro Abreu Abreu** (2) [1103604](https://platzi.com/comentario/1103604/) 
 
-	
 	Seria bueno formatear el código con color para legibilidad, nueva feature para los frontend developers de platzi 😄
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1103604] (1)
 
-		
 		¿Qué tema de color sugieres tú?
 
-	* **David Alejandro Abreu Abreu** (1)
+	* **David Alejandro Abreu Abreu** [1103604] (1)
 
-		
 		Lo formatearon recién? O no cargaba en mi navegador por el internet? 😮 Así esta excelente 👍🏽
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1103604] (1)
 
-		
 		Hubo algun error en los primeros días, pero desde entonces se veía bien (en modo web).
 
-	* **David Alejandro Abreu Abreu** (1)
+	* **David Alejandro Abreu Abreu** [1103604] (1)
 
-		
 		Que eficiencia, gracias jorge 👍🏽 Seria bueno que nos sugirieras que plugins usas para tu editor, Ademas de _ESLint _y _Vetur_ , Yo recomiendo:
 		
 		  1. _[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)_
@@ -1190,45 +1123,38 @@ Lo siguiente que vamos a hacer es ir al fichero principal (`main.js`) y trabajar
 		
 		
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1103604] (1)
 
-		
 		Yo hace tiempo que uso WebStorm, renuevo la licencia cada año. Casi no necesito instalar nada, pues es un IDE muy completo, pero a su vez más pesado que otras alternativas.  
 		Este es el que recomiendo: <https://github.com/sdras/vue-vscode-snippets>
 
-* **Angel Infanti** (2)
+* **Angel Infanti** (2) [1076086](https://platzi.com/comentario/1076086/) 
 
-	
 	Postman también tiene una extensión para los navegadores
 
-* **Daniel Ortez** (2)
+* **Daniel Ortez** (2) [1073960](https://platzi.com/comentario/1073960/) 
 
-	
 	Una buena alternativa a Postman es Insomnia: <https://insomnia.rest/>
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1073960] (2)
 
-		
 		También lo he usado, es más ligero que postman y eso me gusta 👌
 
-* **Anthony Sebastian Mayol** (1)
+* **Anthony Sebastian Mayol** (1) [1083785](https://platzi.com/comentario/1083785/) 
 
-	
 	Buenas! alguien sería tan amable de indicarme como hacer la prueba con Postman o Insomnia?  
 	Muchas Gracias! 😃  
 	me envía un mensajito por whatsapp o telegram +5493764110177
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1083785] (1)
 
-		
 		¿Ya tienes tu **clientSecret** y tu **clientId**?
 
-	* **Anthony Sebastian Mayol** (2)
+	* **Anthony Sebastian Mayol** [1083785] (2)
 
-		
 		Profe! recién veo la notificación de tu respuesta! tenía si el clientSecret y el clientId, aún no se como usar Postman.
 
-## 0070. Obtener el token
+## 0070. Obtener el token [27723](https://platzi.com/clases/1856-avanzado-vue/27723-obtener-el-token/)
 
 ### Descripción:
 
@@ -1237,8 +1163,8 @@ En el fichero `main.js` tenemos la instancia principal de Vue. Aquí es donde va
 
 El proceso que hay que seguir es el siguiente:
 
-  * En el momento en el que la instancia principal de Vue dispare el hook `created`, hay que llamar a la función que acabamos de crear para obtener el token
-  * Lo segundo es guardar el token en el estado de nuestra aplicación con la ayuda de Vuex
+* En el momento en el que la instancia principal de Vue dispare el hook `created`, hay que llamar a la función que acabamos de crear para obtener el token
+* Lo segundo es guardar el token en el estado de nuestra aplicación con la ayuda de Vuex
 
 
 
@@ -1309,9 +1235,9 @@ Abrimos el recién creado módulo `oauth.js` y escribimos lo siguiente:
 
 Estos son los tres bloques que vamos a usar en nuestro módulo:
 
-  * _state_ (el estado de nuestro módulo)
-  * _mutations_ (las mutaciones que, valga la redundancia, mutarán nuestro estado)
-  * _actions_ (las acciones que llamarán a nuestras mutaciones).
+* _state_ (el estado de nuestro módulo)
+* _mutations_ (las mutaciones que, valga la redundancia, mutarán nuestro estado)
+* _actions_ (las acciones que llamarán a nuestras mutaciones).
 
 
 
@@ -1447,23 +1373,20 @@ En la parte izquierda se ve un registro (log) de las mutaciones que han ocurrido
 
 ### Comentarios:
 
-* **Efrén Martínez Rodríguez** (2)
+* **Efrén Martínez Rodríguez** (2) [1088370](https://platzi.com/comentario/1088370/) 
 
-	
 	Hola me sale este error cuando se hace el dispatch
 	``` 
 	    {"error":"unauthorized","error_description":"An Authentication object was not found in the SecurityContext"}
 	    
 	```
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1088370] (2)
 
-		
 		Hola, ¿has revisado bien la función de oauth? ¿Puedes compartir el fragmento de código de la función de vuex de `getToken`?
 
-	* **Efrén Martínez Rodríguez** (1)
+	* **Efrén Martínez Rodríguez** [1088370] (1)
 
-		
 		Esta de esta manera:
 		``` 
 		    import { post } from 'axios'
@@ -1495,9 +1418,8 @@ En la parte izquierda se ve un registro (log) de las mutaciones que han ocurrido
 		    
 		```
 
-	* **Efrén Martínez Rodríguez** (1)
+	* **Efrén Martínez Rodríguez** [1088370] (1)
 
-		
 		este es mi archivo vuex
 		``` 
 		    import * as oauth from '@/api/oauth.js'
@@ -1533,36 +1455,30 @@ En la parte izquierda se ve un registro (log) de las mutaciones que han ocurrido
 		    
 		```
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1088370] (1)
 
-		
 		Es extraño, parece que está todo bien. Voy a hacer unas pruebas y ahora te aviso.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1088370] (1)
 
-		
 		No me hizo falta probar, pero creo que ya se lo que es:
 		
 		Usaste `header` en vez de `headers` (te falta la **s** )
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1088370] (1)
 
-		
 		¿Te ha funcionado?
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1088370] (1)
 
-		
 		¿Qué tal fue? ¿Te ha funcionado?
 
-	* **Efrén Martínez Rodríguez** (2)
+	* **Efrén Martínez Rodríguez** [1088370] (2)
 
-		
 		Listo, si funciono 😃
 
-* **Michael Torres Morán** (2)
+* **Michael Torres Morán** (2) [1075001](https://platzi.com/comentario/1075001/) 
 
-	
 	Tengo un “problema” que realmente no se si sea eso. Al momento de revisar en Vue DevTools los `commits` hechos por Vuex, no veo reflejados los cambios en la consola.
 	
 	![Vuex console](https://i.imgur.com/H24lCwbl.png)
@@ -1620,9 +1536,8 @@ En la parte izquierda se ve un registro (log) de las mutaciones que han ocurrido
 	    
 	```
 
-	* **Michael Torres Morán** (2)
+	* **Michael Torres Morán** [1075001] (2)
 
-		
 		Solucionado!  
 		`modules\oauth.js`
 		``` 
@@ -1660,16 +1575,15 @@ En la parte izquierda se ve un registro (log) de las mutaciones que han ocurrido
 		    
 		```
 
-* **Anthony Sebastian Mayol** (1)
+* **Anthony Sebastian Mayol** (1) [1087344](https://platzi.com/comentario/1087344/) 
 
-	
 	Buenas!  
 	No se pierdan este vídeo que está genial la explicación:  
 	<https://vuex.vuejs.org/#what-is-vuex>
 
-# Creación de los componentes y layouts de nuestro proyecto
+# Creación de los componentes y layouts de nuestro proyecto [5667]
 
-## 0080. Componente Loading
+## 0080. Componente Loading [27756](https://platzi.com/clases/1856-avanzado-vue/27756-componente-loading/)
 
 ### Descripción:
 
@@ -1743,17 +1657,17 @@ Vamos a nuestra carpeta `/components` y creamos un archivo con el nombre `BaseLo
 Copiamos el siguiente código en nuestro archivo, que lo único que va a hacer es poner un componente de _Spinner_ de Bootstrap en nuestra página, de forma centrada y con un margen y un padding específico.  
 Además, a través de las `props` le hemos dicho a nuestro componente que puede soportar 2 atributos (o propiedades):
 
-  * `variant`: que es el color del spinner (puede ser ‘primray’, ‘secondary’, etc). No es obligatorio pasarle esa propiedad, y en caso de que no se le pase ningún valor, por defecto el `variant` será `info`.
-  * `type`: puede ser de dos tipos: un círculo que crece ( _grow_ ) o un spinner que gira sobre si mismo ( _border_ ), por defecto, si no le pasamos ningún valor, será `border`.
+* `variant`: que es el color del spinner (puede ser ‘primray’, ‘secondary’, etc). No es obligatorio pasarle esa propiedad, y en caso de que no se le pase ningún valor, por defecto el `variant` será `info`.
+* `type`: puede ser de dos tipos: un círculo que crece ( _grow_ ) o un spinner que gira sobre si mismo ( _border_ ), por defecto, si no le pasamos ningún valor, será `border`.
 
 
 
 Ambas propiedades tienen una función que valida el valor de nuestra prop:
 
-  * Tiene que ser de tipo `String`
-  * No es obligatorio pasarle un valor
-  * Definimos un valor por defecto
-  * Validamos, a través de una función, que el valor de la cadena de texto que le pasemos sea una de las que hemos definido en nuestra función validadora
+* Tiene que ser de tipo `String`
+* No es obligatorio pasarle un valor
+* Definimos un valor por defecto
+* Validamos, a través de una función, que el valor de la cadena de texto que le pasemos sea una de las que hemos definido en nuestra función validadora
 
 
 
@@ -1763,9 +1677,8 @@ Esto es lo que haremos en la siguiente lectura.
 
 ### Comentarios:
 
-* **Michael Torres Morán** (4)
+* **Michael Torres Morán** (4) [1075017](https://platzi.com/comentario/1075017/) 
 
-	
 	Para quien le este dando problemas al copiar el `template` del `BaseLoading.vue`. Aquí lo dejo.
 	``` 
 	    <template>
@@ -1830,9 +1743,8 @@ Esto es lo que haremos en la siguiente lectura.
 	    
 	```
 
-* **David Alejandro Abreu Abreu** (3)
+* **David Alejandro Abreu Abreu** (3) [1106241](https://platzi.com/comentario/1106241/) 
 
-	
 	Del Curso de nacho me quede con [_PUG_](https://pugjs.org/) me parece ideal para reducir el codigo y facilitar su lectura, ademas de las funcionalidades que de por si ya [trae.Si](http://trae.Si) bien en un principio confunde un poco, luego te facilita mucho codear, para instalarlo solo hace falta correr el siguiente comando:
 	``` 
 	    npm install pug pug-plain-loader  --save
@@ -1852,12 +1764,11 @@ Esto es lo que haremos en la siguiente lectura.
 	Mucho mas corto y legible.  
 	Cuestión de gustos 😉
 
-	* **Jorge Baumann** (3)
+	* **Jorge Baumann** [1106241] (3)
 
-		
 		Justo te comenté en otra clase. Me encanta **pug** , es muy fácil instalarlo y como dices, se ve mas limpio el código
 
-## 0090. ¡Limpiemos el proyecto!
+## 0090. ¡Limpiemos el proyecto! [27757](https://platzi.com/clases/1856-avanzado-vue/27757-limpiemos-el-proyecto/)
 
 ### Descripción:
 
@@ -1938,9 +1849,9 @@ No hace falta que uses `;` para terminar las sentencias, o los `:` para separar 
 
 Durante este curso, intentaremos seguir este estilo a la hora de escribir CSS con **Stylus** :
 
-  * No llaves `{}`
-  * No punto y coma `;`
-  * No dos puntos `:`
+* No llaves `{}`
+* No punto y coma `;`
+* No dos puntos `:`
 
 
 
@@ -1948,33 +1859,28 @@ Como son opcionales, los puedes usar si lo prefieres. Durante el curso, intentar
 
 ### Comentarios:
 
-* **Jorge Baumann** (3)
+* **Jorge Baumann** (3) [1088688](https://platzi.com/comentario/1088688/) 
 
-	
 	¿Conocías **Stylus**? ¿Qué te parece?
 
-	* **Anthony Sebastian Mayol** (2)
+	* **Anthony Sebastian Mayol** [1088688] (2)
 
-		
 		No tenía ni idea! jajaja!  
 		Pero… [@baumanzone](https://platzi.com/@baumannzone), espero se vengan mas cursoriales tuyos! ( curso + tutoriales ) hasta el momento vengo aprendiendo mucho!
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1088688] (1)
 
-		
 		¡Gracias, compañero! De eso se trata, de aprender 🤘
 
-	* **David Alejandro Abreu Abreu** (2)
+	* **David Alejandro Abreu Abreu** [1088688] (2)
 
-		
 		Al estilo _[PUG](https://pugjs.org/)_!
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1088688] (1)
 
-		
 		Totalmente, **Pug** y **Stylus** son mi equipo perfecto.
 
-## 0100. Layouts y Vuex Modules
+## 0100. Layouts y Vuex Modules [27758](https://platzi.com/clases/1856-avanzado-vue/27758-layouts-y-vuex-modules/)
 
 ### Descripción:
 
@@ -2141,12 +2047,12 @@ Y la parte del `<script>` tendría este contenido:
 
 El proceso es el siguiente:
 
-  * Desde Vuex nos traemos la funcionalidad de `mapState`
-  * Importamos los 3 componentes que necesitamos (los 2 layouts que acabamos de crear y el componente de Loading)
-  * A través de `mapState` podemos acceder a los valores del estado de nuestro módulo (en este caso nos interesa el módulo de `loading`) y utilizarlos en nuestro componente. 
-    * Para usar `mapState` con _namespaces_ lo único que tenemos que hacer es indicarle, antes de empezar a mapear el estado, a qué módulo nos referimos, es decir, ‘loading’. El nombre del módulo se corresponde con el nombre del fichero.  
+* Desde Vuex nos traemos la funcionalidad de `mapState`
+* Importamos los 3 componentes que necesitamos (los 2 layouts que acabamos de crear y el componente de Loading)
+* A través de `mapState` podemos acceder a los valores del estado de nuestro módulo (en este caso nos interesa el módulo de `loading`) y utilizarlos en nuestro componente. 
+  * Para usar `mapState` con _namespaces_ lo único que tenemos que hacer es indicarle, antes de empezar a mapear el estado, a qué módulo nos referimos, es decir, ‘loading’. El nombre del módulo se corresponde con el nombre del fichero.  
 Como el módulo se llama `loading.js` tendremos que usar de nombre `loading` (sin la extensión). Con esto le decimos que solo nos interesa el estado del _loading_.
-  * Con las directivas `v-if` y `v-else` mostramos un componente u otro según esté cargando o no. Si está _loading_ mostramos loading, en caso contrario mostramos la vista.
+* Con las directivas `v-if` y `v-else` mostramos un componente u otro según esté cargando o no. Si está _loading_ mostramos loading, en caso contrario mostramos la vista.
 
 
 
@@ -2226,9 +2132,8 @@ Vamos a la siguiente lectura, en la que veremos cómo mejorar nuestro _Layout
 
 ### Comentarios:
 
-* **Manuel Ojeda** (4)
+* **Manuel Ojeda** (4) [1072394](https://platzi.com/comentario/1072394/) 
 
-	
 	Aquí les dejo el fix.
 	
 	En la parte de store/index.js debemos agregar el modulo de Loading por lo que debería quedar así:
@@ -2272,9 +2177,8 @@ Vamos a la siguiente lectura, en la que veremos cómo mejorar nuestro _Layout
 	    
 	```
 
-	* **Cristian Arteaga** (4)
+	* **Cristian Arteaga** [1072394] (4)
 
-		
 		Hola, sólo quería hacer un alance al código. El profesor puso este código en la parte del script, por alguna razón no tomo los estilos css y quedo oculto bajo los comentarios:
 		
 		de todas formas ambos códigos funcionan, el cambio es que acá ocupa la función mapState de vuex
@@ -2300,19 +2204,16 @@ Vamos a la siguiente lectura, en la que veremos cómo mejorar nuestro _Layout
 		    
 		```
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072394] (1)
 
-		
 		Gracias por el aporte, ¡te me adelantaste!
 
-* **Omar Jesus Hernández Bastos** (3)
+* **Omar Jesus Hernández Bastos** (3) [1075665](https://platzi.com/comentario/1075665/) 
 
-	
 	¿Que significa el {root:true} dentro de commit(‘loading/SET_LOADING’, true, { root: true })?
 
-	* **Jorge Baumann** (5)
+	* **Jorge Baumann** [1075665] (5)
 
-		
 		Es necesario ponerlo cuando, en Vuex, estás usando módulos con `namespace: true`.  
 		Para más información, revisa estos 2 enlaces:
 		
@@ -2325,14 +2226,12 @@ Vamos a la siguiente lectura, en la que veremos cómo mejorar nuestro _Layout
 		
 		![commit](https://user-images.githubusercontent.com/5422102/77852378-a00b6080-71de-11ea-95bb-48445d751c02.png)
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1075665] (1)
 
-		
 		Buena pregunta Omar, seguro que hay más estudiantes que lo consideran importante. Gracias. Ahí te dejé la explicación.
 
-* **Daniee** (2)
+* **Daniee** (2) [1082153](https://platzi.com/comentario/1082153/) 
 
-	
 	Como pequeño aporte me gustaría añadir que a_ mapState_ también es posible enviarle como segundo paramétro un Array de elementos con los estados que queremos traernos, que a mí personalmente, me gusta más como queda:
 	``` 
 	    //...mapState('loading', { isLoading: 'isLoading })
@@ -2342,31 +2241,27 @@ Vamos a la siguiente lectura, en la que veremos cómo mejorar nuestro _Layout
 	
 	Seguimos con el curso !! 👍🏻
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1082153] (1)
 
-		
 		Ambas opciones son válidas, usando la forma de objeto puedes cambiarle el nombre a nivel local, sin embargo con el formato array te lo traes con el nombre que tenga.
 
-* **Leonel Rojas** (2)
+* **Leonel Rojas** (2) [1072356](https://platzi.com/comentario/1072356/) 
 
-	
 	Hola! en esté y varios documentos más están cortadas algunas etiquetas de cierre de componentes y el contenido está incompleto.
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1072356] (2)
 
-		
 		Si, ya este problema está reportado, y estamos buscando la solución, muchas gracias por el reporte 😄
 
-	* **Jorge Baumann** (3)
+	* **Jorge Baumann** [1072356] (3)
 
-		
 		¡Estamos con el fix! Gracias por la paciencia.
 		
 		De todas formas, recuerda que siempre puedes consultar el repositorio oficial de la aplicación en github: <https://github.com/baumannzone/diablo3-vue-platzi>
 		
 		Márcalo con estrellita (⭐️) para tenerlo a mano
 
-## 0110. Assets
+## 0110. Assets [27747](https://platzi.com/clases/1856-avanzado-vue/27747-assets/)
 
 ### Descripción:
 
@@ -2455,7 +2350,7 @@ Creo que ya podemos pasar al siguiente bloque de contenido, donde trabajaremos s
 
 ### Comentarios:
 
-## 0120. NavBar y Footer
+## 0120. NavBar y Footer [27759](https://platzi.com/clases/1856-avanzado-vue/27759-navbar-y-footer/)
 
 ### Descripción:
 
@@ -2773,18 +2668,16 @@ Además hemos visto como instalar varias librerías, entre ellas _FontAwesome_ ,
 
 ### Comentarios:
 
-* **Manuel Ojeda** (3)
+* **Manuel Ojeda** (3) [1073831](https://platzi.com/comentario/1073831/) 
 
-	
 	Hice una variación a esta clase, cree una carpeta nueva en src llamado **imports** , ahi agregué un archivo llamado **FontAwesome** y metí la llamada de los iconos. Esto con el fin de mantener un poco más limpio el código.
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1073831] (2)
 
-		
 		Te adelantaste, amigo.  
 		En una clase posterior hacemos justo eso que acabas de decir 😜😁👏
 
-## 0130. Refactorizando
+## 0130. Refactorizando [27752](https://platzi.com/clases/1856-avanzado-vue/27752-refactorizando/)
 
 ### Descripción:
 
@@ -2901,19 +2794,16 @@ No te preocupes, no vamos a tener código duplicado y nuestra aplicación no va 
 
 ### Comentarios:
 
-* **Manuel Ojeda** (3)
+* **Manuel Ojeda** (3) [1073839](https://platzi.com/comentario/1073839/) 
 
-	
 	Ups, creo que me adelanté una clase 😅
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1073839] (1)
 
-		
 		Sí, pero tuviste bien ojo 😜
 
-* **Michael Torres Morán** (2)
+* **Michael Torres Morán** (2) [1075187](https://platzi.com/comentario/1075187/) 
 
-	
 	Debido a que pueden haber varios `plugins` a implementarse en la App, lo que se puede optar la mantener la app más limpia aún seria crear un archivo `index.js` dentro de la carpeta plugins, en donde vayan todos los imports.
 	
 	`plugins/index.js`
@@ -2955,10 +2845,10 @@ No te preocupes, no vamos a tener código duplicado y nuestra aplicación no va 
 	    
 	```
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1075187] (1)
 Es totalmente válido y correcto. Más adelante, cuando llegue el tema de las custom directives hacemos eso que mencionas. Las dos formas son válidas.
 
-## 0140. Home Page
+## 0140. Home Page [27760](https://platzi.com/clases/1856-avanzado-vue/27760-home-page/)
 
 ### Descripción:
 
@@ -2967,8 +2857,8 @@ Llevamos bastante tiempo trasteando con nuestro proyecto, pero apenas estamos av
 
 Lo primero que tenemos que hacer es crear un formulario que busque el usuario según la región en la que estemos. Esto es importante ya que un usuario puede existir en una región, pero no estar en otra. Por lo tanto necesitamos los 2 parámetros:
 
-  * BattleTag o Identificador de usuario, con el formato: _NombreCool#1234_
-  * Región, que puede ser una de las siguientes: ‘US’, ‘EU’, ‘KR’, ‘TW’. La región de CN (China) la dejamos fuera en este ejemplo, que tiene una configuración especial, distinta al resto.
+* BattleTag o Identificador de usuario, con el formato: _NombreCool#1234_
+* Región, que puede ser una de las siguientes: ‘US’, ‘EU’, ‘KR’, ‘TW’. La región de CN (China) la dejamos fuera en este ejemplo, que tiene una configuración especial, distinta al resto.
 
 
 
@@ -3252,13 +3142,13 @@ Se debería ver así:
 
 Para ver si el formulario hace lo que estamos esperando que haga, necesitamos comprobar varios casos:
 
-  * No se envía el formulario
+* No se envía el formulario
 
-    * No escribimos nada en el input y enviamos el formulario a través del botón ( _submit_ )
-    * (Con el foco en el input) no escribimos nada en el formulario y le damos a la tecla _Enter_ del teclado  
+  * No escribimos nada en el input y enviamos el formulario a través del botón ( _submit_ )
+  * (Con el foco en el input) no escribimos nada en el formulario y le damos a la tecla _Enter_ del teclado  
 ![input-required](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/12/input-required.png)Se envía el formulario
-  *     * Escribimos algo en el input y le damos a la tecla _Enter_ del teclado
-    * Escribimos un texto en el input y le damos a enviar  
+*   * Escribimos algo en el input y le damos a la tecla _Enter_ del teclado
+  * Escribimos un texto en el input y le damos a enviar  
 ![warning-router](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/12/warn-router.png)
 
 
@@ -3269,9 +3159,8 @@ Lo arreglaremos en las siguientes lecturas.
 
 ### Comentarios:
 
-* **Omar Jesus Hernández Bastos** (2)
+* **Omar Jesus Hernández Bastos** (2) [1075724](https://platzi.com/comentario/1075724/) 
 
-	
 	En mi caso estoy utilizando vuetify y el HomeForm.vue quedaria de la siguiente forma
 	``` 
 	    <template>
@@ -3309,33 +3198,30 @@ Lo arreglaremos en las siguientes lecturas.
 	    
 	```
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1075724] (1)
 
-		
 		_Vuetify_ era otra de las alternativas a _BootstrapVue_ que tenía. Cuando lo tengas completo, comparte enlace de la app 😄
 
-	* **David Alejandro Abreu Abreu** (1)
+	* **David Alejandro Abreu Abreu** [1075724] (1)
 
-		
 		No soy muy bueno en Javascript aún, podrían explicar que hace esta linea?🤔
 		``` 
 		    battletagRules: [v => !!v || "BattleTag is required"]
 		    
 		```
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1075724] (1)
 
-		
 		Vuetify tiene su propio sistema de formularios y validaciones.
 		
 		Con vuetify, defines unas reglas que si no se cumplen, se muestra el texto correspondiente, en este caso: “BattleTag is required”.
 		
-		  * `v => !!v` es una arrow function
-		  * La doble exclamación `!!` convierte el valor (cualquier cosa) en `Boolean`. <https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript>
+		* `v => !!v` es una arrow function
+		* La doble exclamación `!!` convierte el valor (cualquier cosa) en `Boolean`. <https://stackoverflow.com/questions/784929/what-is-the-not-not-operator-in-javascript>
 		
 		
 
-## 0150. Vue Router
+## 0150. Vue Router [27761](https://platzi.com/clases/1856-avanzado-vue/27761-vue-router/)
 
 ### Descripción:
 
@@ -3344,9 +3230,9 @@ Hasta ahora teníamos 2 rutas en nuestra app, la ruta de `Home` y la de `About`.
 
 Vamos a crear el resto de rutas ( _like a pro_ ) que nos van a hacer falta para nuestra app de Diablo III. Las rutas que necesitaremos son las siguientes:
 
-  * **Profile** : muestra los datos generales del usuario (BattleTag) en una región determinada.
-  * **Hero** : muestra los datos específicos de un héroe (HeroId) de un usuario (BattleTag) en una región determinada.
-  * **Error** : en caso de error, redireccionamos y mostramos el mensaje que nos devuelva la API.
+* **Profile** : muestra los datos generales del usuario (BattleTag) en una región determinada.
+* **Hero** : muestra los datos específicos de un héroe (HeroId) de un usuario (BattleTag) en una región determinada.
+* **Error** : en caso de error, redireccionamos y mostramos el mensaje que nos devuelva la API.
 
 
 
@@ -3356,9 +3242,9 @@ La ruta de `Hero` es la más divertida. A través de las APIs del juego de Diabl
 
 Antes de tocar las rutas, vamos a crear los componentes vista vacíos para poder trabajar luego con el fichero de rutas. Tenemos que crear las siguientes carpetas dentro de `/views`:
 
-  * `/Profile`
-  * `/Hero`
-  * `/Error`
+* `/Profile`
+* `/Hero`
+* `/Error`
 
 
 
@@ -3376,7 +3262,7 @@ Ahora hay que crear, dentro de cada una, un nuevo fichero llamado `Index.vue`. D
 
 Vamos a dotar de contenido a nuestros recién creados archivos, para diferenciar nuestras vistas. Con un `h1` nos vale:
 
-  * `/Profile/Index.vue`
+* `/Profile/Index.vue`
 
 
 ``` 
@@ -3394,7 +3280,7 @@ Vamos a dotar de contenido a nuestros recién creados archivos, para diferenciar
     
 ```
 
-  * `/Hero/Index.vue`
+* `/Hero/Index.vue`
 
 
 ``` 
@@ -3412,7 +3298,7 @@ Vamos a dotar de contenido a nuestros recién creados archivos, para diferenciar
     
 ```
 
-  * `/Error/Index.vue`
+* `/Error/Index.vue`
 
 
 ``` 
@@ -3436,9 +3322,9 @@ Ahora ya podemos trabajar con nuestras rutas.
 
 Tenemos que pensar, antes de empezar a picar código, qué es lo que necesitamos para poder trabajar con nuestras rutas. Tenemos varios escenarios:
 
-  * Ruta _Home_ , _About_ y _Error_ : No necesitan parámetros en la URL. Renderizan contenido estático. En el caso de la pág. de error, dinámico, pero no require de parámetros en la URL.
-  * Ruta _Profile_ : Necesitamos la región del usuario y el identificador del usuario en la URL.
-  * Ruta _Hero_ : Necesitamos lo mismo que en _Profile_ más el identificador de héroe en la URL.
+* Ruta _Home_ , _About_ y _Error_ : No necesitan parámetros en la URL. Renderizan contenido estático. En el caso de la pág. de error, dinámico, pero no require de parámetros en la URL.
+* Ruta _Profile_ : Necesitamos la región del usuario y el identificador del usuario en la URL.
+* Ruta _Hero_ : Necesitamos lo mismo que en _Profile_ más el identificador de héroe en la URL.
 
 
 
@@ -3494,8 +3380,8 @@ Ahora vamos a crear otra variable llamada `routes`, que va a ser el resultado de
 
 Expliquemos esto. La variable `routes` es un array de objetos, que va a tener el mismo número de elementos que `routerOptions`. El contenido de dichos elementos va a ser un objeto primitivo que va a tener `path`, `name` y `component`:
 
-  * `...r`: es decir, lo que tenía el propio elemento `routerOptions`.
-  * `component`: que en vez de hacer referencia al componente, vamos a cargar el componente de manera lazy load usando los [import dinámicos de Webpack](https://router.vuejs.org/guide/advanced/lazy-loading.html).  
+* `...r`: es decir, lo que tenía el propio elemento `routerOptions`.
+* `component`: que en vez de hacer referencia al componente, vamos a cargar el componente de manera lazy load usando los [import dinámicos de Webpack](https://router.vuejs.org/guide/advanced/lazy-loading.html).  
 Esto quiere decir que dividiremos nuestro código en pequeñas partes, y solo se cargará la parte correspondiente a la ruta que estemos visitando.
 
 
@@ -3653,9 +3539,8 @@ Ahora ya sabes cómo hacer lazy loading de rutas en tus proyectos Vue. Ya podemo
 
 ### Comentarios:
 
-* **Leonel Rojas** (6)
+* **Leonel Rojas** (6) [1072920](https://platzi.com/comentario/1072920/) 
 
-	
 	De esta manera obtendrán el webpackChunkName de manera dinámica
 	``` 
 	    // Rutas
@@ -3685,14 +3570,12 @@ Ahora ya sabes cómo hacer lazy loading de rutas en tus proyectos Vue. Ya podemo
 	    
 	```
 
-	* **Daniee** (2)
+	* **Daniee** [1072920] (2)
 
-		
 		Gran aporte 😄, yo también pensé en como hacer el comentario dinámico y tu respuesta me ayudo !
 
-* **Cristian Arteaga** (3)
+* **Cristian Arteaga** (3) [1073248](https://platzi.com/comentario/1073248/) 
 
-	
 	Si alguno le aparece un error “TypeError: Cannot read property ‘range’ of null” es porque no ha hecho el la actualización de babel-eslint que se hace en la clase número 2.
 	
 	“Actualiza la versión que tengas de babel-eslint a la 7.2.3. En mi caso, he pasado de la versión ^10.0.3 a la 7.2.3”
@@ -3707,12 +3590,11 @@ Ahora ya sabes cómo hacer lazy loading de rutas en tus proyectos Vue. Ya podemo
 	    
 	```
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1073248] (1)
 
-		
 		Correcto, es lo que explicamos al principio. Gracias por tu aporte 😄
 
-## 0160. Vista Profile
+## 0160. Vista Profile [27762](https://platzi.com/clases/1856-avanzado-vue/27762-vista-profile/)
 
 ### Descripción:
 
@@ -3720,13 +3602,13 @@ Ahora ya sabes cómo hacer lazy loading de rutas en tus proyectos Vue. Ya podemo
 En esta vista vamos a trabajar con muchos componentes que a su vez tienen más componentes hijos.  
 Tenemos los componentes divididos en 2 grandes bloques:
 
-  * Bloque Principal ( _MainBlock_ ), que a su vez contiene: 
-    * **Top Héroes** : los tres últimos héroes del juego con los que el usuario ha jugado
-    * **Listado de héroes** : listado restante de héroes.
-    * **Progreso de actos** : si hemos completado la historia o campaña del juego.
-    * **Estadísticas generales** : élites, nivel de leyenda, etc.
-    * **Tiempo de jugado** : porcentaje de tiempo jugado por héroe.
-  * Bloque Artesanos ( _ArtisansBlock_ ): información de los artesanos.
+* Bloque Principal ( _MainBlock_ ), que a su vez contiene: 
+  * **Top Héroes** : los tres últimos héroes del juego con los que el usuario ha jugado
+  * **Listado de héroes** : listado restante de héroes.
+  * **Progreso de actos** : si hemos completado la historia o campaña del juego.
+  * **Estadísticas generales** : élites, nivel de leyenda, etc.
+  * **Tiempo de jugado** : porcentaje de tiempo jugado por héroe.
+* Bloque Artesanos ( _ArtisansBlock_ ): información de los artesanos.
 
 
 
@@ -3741,10 +3623,10 @@ Si retomamos una de las lecturas anteriores, nos habíamos quedado en que al hac
 
 Los pasos a seguir son los siguientes:
 
-  * Recuperar los datos a través de la ruta (URL): región y _battleTag_.
-  * Llamar a la API oficial de Diablo III para que nos devuelva los datos del jugador de esa región 
-    * Si hay error, redirigir a la página de error y mostrar el mensaje de error
-    * Si no hay error, mostrar los datos a través de los componentes que vamos a ir creando
+* Recuperar los datos a través de la ruta (URL): región y _battleTag_.
+* Llamar a la API oficial de Diablo III para que nos devuelva los datos del jugador de esa región 
+  * Si hay error, redirigir a la página de error y mostrar el mensaje de error
+  * Si no hay error, mostrar los datos a través de los componentes que vamos a ir creando
 
 
 
@@ -3808,10 +3690,10 @@ El _endpoint_ al que vamos a apuntar desde nuestra web para que nos devuelva los
 
 Para hacer la llamada a la API vamos a necesitar varias cosas:
 
-  * El token de acceso, que lo tenemos guardado en el _Store_ de nuestra app.
-  * El **BattleTag** del usuario.
-  * La **región** en la cual se encuentra dicho usuario.
-  * El **_locale_** o lenguaje en el que queremos que nos devuelva los datos. Esto lo dejaremos fijo, es decir, cada región tendrá asociado un _locale_ por defecto, a través de una funcionalidad (muy sencilla) que explicaremos más abajo.
+* El token de acceso, que lo tenemos guardado en el _Store_ de nuestra app.
+* El **BattleTag** del usuario.
+* La **región** en la cual se encuentra dicho usuario.
+* El **_locale_** o lenguaje en el que queremos que nos devuelva los datos. Esto lo dejaremos fijo, es decir, cada región tendrá asociado un _locale_ por defecto, a través de una funcionalidad (muy sencilla) que explicaremos más abajo.
 
 
 
@@ -3840,12 +3722,12 @@ Continuamos, ahora sí, con el proceso de creación de nuestra función encargad
     // /api/search.js
     
     /**
-     * Returns the specified account profile.
-     * GET – /d3/profile/{account}
-     * Los parámetros que hemos obtenido a través de la URL
-     *  - @param region {String}
-     *  - @param account {String}
-     * @returns {Promise}
+   * Returns the specified account profile.
+   * GET – /d3/profile/{account}
+   * Los parámetros que hemos obtenido a través de la URL
+   *  - @param region {String}
+   *  - @param account {String}
+   * @returns {Promise}
      */
     function getApiAccount ({ region, account }) {
       // Recurso de la API al que queremos acceder
@@ -3889,11 +3771,11 @@ El código completo de `/api/search.js` se vería así:
     const host = '.api.blizzard.com/'
     
     /**
-     * Returns the specified account profile.
-     * GET – /d3/profile/{account}
-     * @param region {String}
-     * @param account {String}
-     * @returns {Promise}
+   * Returns the specified account profile.
+   * GET – /d3/profile/{account}
+   * @param region {String}
+   * @param account {String}
+   * @returns {Promise}
      */
     function getApiAccount ({ region, account }) {
       const resource = `d3/profile/${account}/`
@@ -3942,8 +3824,8 @@ Volvemos al componente principal de _Profile_ en `/views/Profile/Index.vue` y de
 
 La llamada a `getApiAccount` , que recibe como parámetro un objeto con `region` y `account` como claves, nos va a devolver una promesa que puede terminar exitosamente ( _then_ ) o con error ( _catch_ ):
 
-  * **Éxito** : guardamos los datos en una variable local al componente. Con esto ya podemos propagar los datos ( _props_ ) por los componentes hijos que vayamos creando.
-  * **Error** : guardar respuesta de error en el _Store_ , cambiar de ruta a vista de _Error_ y recuperar los datos.
+* **Éxito** : guardamos los datos en una variable local al componente. Con esto ya podemos propagar los datos ( _props_ ) por los componentes hijos que vayamos creando.
+* **Error** : guardar respuesta de error en el _Store_ , cambiar de ruta a vista de _Error_ y recuperar los datos.
 
 
 
@@ -4016,8 +3898,8 @@ Creo que el nombre del fichero te da una pista de que es lo que tenemos que hace
           setError: 'SET_ERROR'
         }),
         /**
-         * API response error.
-         * @param params {Object || null} Error Object
+       * API response error.
+       * @param params {Object || null} Error Object
          */
         setApiErr (params) {
           this.setError(params)
@@ -4035,8 +3917,8 @@ Para hacer uso de este método, lo primero que tenemos que hacer es importarlo d
 
 Su uso es muy sencillo. En este ejemplo, `mapMutations` recibe 2 argumentos:
 
-  * El primer argumento es el _bloque_ al que hacemos referencia, en este caso, lleva por nombre `error`.
-  * El segundo argumento es un objeto con las funciones que queremos mapear, es decir, le hemos dicho que nuestra mutación `SET_ERROR`, se convierta en un método de nombre `setError` en nuestro componente.  
+* El primer argumento es el _bloque_ al que hacemos referencia, en este caso, lleva por nombre `error`.
+* El segundo argumento es un objeto con las funciones que queremos mapear, es decir, le hemos dicho que nuestra mutación `SET_ERROR`, se convierta en un método de nombre `setError` en nuestro componente.  
 De esta forma podemos usarlo como un componente local con la sintaxis de siempre `this.setError()`.
 
 
@@ -4167,8 +4049,8 @@ Veamos como queda el código completo hasta ahora.
       },
       methods: {
         /**
-         * Obtener los datos de la API
-         * Guardarlos en 'profileData'
+       * Obtener los datos de la API
+       * Guardarlos en 'profileData'
          */
         fetchData (region, account) {
           getApiAccount({ region, account })
@@ -4202,9 +4084,8 @@ Ya tenemos el _loading_ funcionando. Es hora de crear los componentes que muestr
 
 ### Comentarios:
 
-* **Manuel Ojeda** (5)
+* **Manuel Ojeda** (5) [1074257](https://platzi.com/comentario/1074257/) 
 
-	
 	En mi caso tuve que hacer un pequeño workaround donde tengo que mandar el hash a la función **getApiAccount** y dentro de ella reemplazar el **#** por un **-** , además tuve que formatear el **API_URL** por completo, por alguna razón los params no se mandaban al ejecutar **axios.get**
 	
 	Así quedó (una disculpa, ando usando TypeScript)
@@ -4226,7 +4107,7 @@ Ya tenemos el _loading_ funcionando. Es hora de crear los componentes que muestr
 	    
 	```
 
-## 0170. ¡Más Componentes!
+## 0170. ¡Más Componentes! [27763](https://platzi.com/clases/1856-avanzado-vue/27763-mas-componentes/)
 
 ### Descripción:
 
@@ -4266,9 +4147,9 @@ Ahora desde el componente padre (es decir `/views/Profile/Index.vue`) podemos pa
 En este caso le vamos a pasar el valor de `profileData`, que es dónde acabamos de guardar la información traída de la API.  
 Como siempre los pasos serán:
 
-  * Importar componente
-  * Dar de alta
-  * Usar el componente
+* Importar componente
+* Dar de alta
+* Usar el componente
 
 
 ``` 
@@ -4284,8 +4165,8 @@ Como siempre los pasos serán:
 
 En el componente `MainBlock` hemos definido una propiedad llamada `profileData`. Desde el padre se puede usar de 2 formas:
 
-  * `:profile-data="profileData"`
-  * `:profileData="profileData"`
+* `:profile-data="profileData"`
+* `:profileData="profileData"`
 
 
 
@@ -4329,8 +4210,8 @@ Dentro de este componente, como ya vimos en una imagen anteriormente, vamos a cr
 
 Nuestro grid se divide en 2 bloques principales: bloque izquierdo y bloque derecho.
 
-  * En el izquierdo vamos a tener un listado de héroes, los últimos héroes jugados y el progreso en la historia del juego.
-  * En el derecho mostraremos algunas de las estadísticas del jugador como: número de bichos normales y jefes asesinados, tiempo de juego por personaje, etc.
+* En el izquierdo vamos a tener un listado de héroes, los últimos héroes jugados y el progreso en la historia del juego.
+* En el derecho mostraremos algunas de las estadísticas del jugador como: número de bichos normales y jefes asesinados, tiempo de juego por personaje, etc.
 
 
 
@@ -4634,8 +4515,8 @@ Actualizamos `/views/Profile/MainBlock/Index.vue`:
 >  Por ejemplo `2 + 2` es una expresión. Esto lo puedes poner en un componente o puedes crear una _computed_ para no dejar la lógica en el HTML y llevarla al JavaScript.  
 >  La documentación lo explica muy bien: <https://vuejs.org/v2/guide/computed.html>
 
-  * Comprobamos que, en el array de héroes que nos llega del componente padre, haya elementos.
-  * En caso de que haya elementos, nos quedamos con los tres primeros y se los pasamos al componente hijo para que los pinte.
+* Comprobamos que, en el array de héroes que nos llega del componente padre, haya elementos.
+* En caso de que haya elementos, nos quedamos con los tres primeros y se los pasamos al componente hijo para que los pinte.
 
 
 ``` 
@@ -4674,7 +4555,7 @@ Por ahora, nuestra app web se vería así:
 ![preview-1](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/15/preview-1.png)Y la estructura de carpetas debería ser esta:  
 ![folders-1](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/15/folders-1.png)Y los componentes, de abajo hacia arriba, por el momento tienen este contenido:
 
-  * `/views/Profile/MainBlock/TopHeroes/TopHero.vue`
+* `/views/Profile/MainBlock/TopHeroes/TopHero.vue`
 
 
 ``` 
@@ -4698,7 +4579,7 @@ Por ahora, nuestra app web se vería así:
     
 ```
 
-  * `/views/Profile/MainBlock/TopHeroes/Index.vue`
+* `/views/Profile/MainBlock/TopHeroes/Index.vue`
 
 
 ``` 
@@ -4723,7 +4604,7 @@ Por ahora, nuestra app web se vería así:
     
 ```
 
-  * `/views/Profile/MainBlock/Index.vue`
+* `/views/Profile/MainBlock/Index.vue`
 
 
 ``` 
@@ -4936,8 +4817,8 @@ Según lo que hemos definido en el CSS global, si queremos mostrar la cara del _
 Para controlar esto, vamos a crear una propiedad computada que nos diga qué clase es la que nos corresponde según el héroe que tengamos.  
 Necesitamos dos cosas para poder generar la clase CSS correcta:
 
-  * El género (masculino o femenino)
-  * Tipo de personaje (mago, cruzado, monje, etc.)
+* El género (masculino o femenino)
+* Tipo de personaje (mago, cruzado, monje, etc.)
 
 
 
@@ -5025,7 +4906,7 @@ Continuamos en la siguiente lectura.
 
 ### Comentarios:
 
-## 0180. Listado de Héroes
+## 0180. Listado de Héroes [27764](https://platzi.com/clases/1856-avanzado-vue/27764-listado-de-heroes/)
 
 ### Descripción:
 
@@ -5224,7 +5105,7 @@ Aparte de los _items_ que le hemos pasado y la definición de las columnas que q
 
 OJO: Las propiedades de tipo `Boolean` de un componente _Vue_ , cuando estas pasando el valor `true`, las puedes usar de 2 formas:
 
-  * Forma larga:
+* Forma larga:
 
 
 ``` 
@@ -5232,7 +5113,7 @@ OJO: Las propiedades de tipo `Boolean` de un componente _Vue_ , cuando estas pas
     
 ```
 
-  * Forma corta
+* Forma corta
 
 
 ``` 
@@ -5249,8 +5130,8 @@ Ahora tenemos que darle formato a las filas de la tabla, por ejemplo, en base a 
 
 Para personalizar el contenido de la tabla vamos a hacer uso de los _Scoped Slots_ de _Vue_ junto con la funcionalidad de las tablas de _Bootstrap-vue_ :
 
-  * <https://vuejs.org/v2/guide/components-slots.html#Scoped-Slots>
-  * <https://bootstrap-vue.js.org/docs/components/table#scoped-field-slots>
+* <https://vuejs.org/v2/guide/components-slots.html#Scoped-Slots>
+* <https://bootstrap-vue.js.org/docs/components/table#scoped-field-slots>
 
 
 
@@ -5262,7 +5143,7 @@ Estaría bien mostrar la imagen correspondiente al héroe, que representa su cla
 
 En el componente `HeroIco` vamos a encargarnos de mostrar: la imagen del héroe, el nombre, si es de temporada o no (🍃) y si es hardcore.
 
-  * `HeroIco.vue`:
+* `HeroIco.vue`:
 
 
 ``` 
@@ -5325,7 +5206,7 @@ Ya por último, un par de líneas de CSS para personalizar un poco más el dise�
     
 ```
 
-  * `HeroClassLevel.vue`:
+* `HeroClassLevel.vue`:
 
 
 
@@ -5394,8 +5275,8 @@ Para hacer esto en nuestro componente `HeroClassLevel.vue`, en el bloque de `jav
 
 Ahora tenemos acceso al método desde cualquier parte del componente, como si fuera un _method_ normal:
 
-  * En el HTML, `classToName(val)`
-  * Desde JavaScript, `this.classToName(val)`
+* En el HTML, `classToName(val)`
+* Desde JavaScript, `this.classToName(val)`
 
 
 
@@ -5421,7 +5302,7 @@ Hemos creado un mixin de Vue que hace uso de otros archivos y lo hemos usado en 
 
 El código completo de lo que hemos hecho hasta el momento se vería así:
 
-  * `HeroIco.vue`
+* `HeroIco.vue`
 
 
 ``` 
@@ -5473,7 +5354,7 @@ El código completo de lo que hemos hecho hasta el momento se vería así:
     
 ```
 
-  * `HeroClassLevel.vue`
+* `HeroClassLevel.vue`
 
 
 ``` 
@@ -5583,9 +5464,9 @@ Vamos a crear un filtro de Vue, es decir, una función JavaScript que cuando le 
 
 Para eso, en nuestra carpeta `/filters` creamos un archivo llamado `numeral.js`. Los pasos a seguir son 3:
 
-  * Importar la librería
-  * Crear la función que será nuestro filtro Vue
-  * Exportar la función para que pueda ser usada
+* Importar la librería
+* Crear la función que será nuestro filtro Vue
+* Exportar la función para que pueda ser usada
 
 
 ``` 
@@ -5614,7 +5495,7 @@ Puedes usarlo a nivel global de la app o usarlo a nivel local en el componente q
 
 Para ello, en el componente donde tenemos la tabla que estamos usando, es decir, en `/Profile/MainBlock/HeroesList/Index.vue`, agregamos lo siguiente:
 
-  * Lo primero, traer la función que acabamos de crear
+* Lo primero, traer la función que acabamos de crear
 
 
 ``` 
@@ -5622,7 +5503,7 @@ Para ello, en el componente donde tenemos la tabla que estamos usando, es decir,
     
 ```
 
-  * Lo segundo, dar de alta esta función (`formatNumber`) en el componente, para que pueda ser usado desde el template. Como se trata de un filtro, lo haremos desde el bloque de _filters_ :
+* Lo segundo, dar de alta esta función (`formatNumber`) en el componente, para que pueda ser usado desde el template. Como se trata de un filtro, lo haremos desde el bloque de _filters_ :
 
 
 ``` 
@@ -5680,7 +5561,7 @@ Y ahora el componente de `TopHeroes` se vería así:
 
 Este es el código completo de los componentes que hemos usado en este tema:
 
-  * `/HeroesList/Index.vue`
+* `/HeroesList/Index.vue`
 
 
 ``` 
@@ -5753,7 +5634,7 @@ Este es el código completo de los componentes que hemos usado en este tema:
     
 ```
 
-  * `/HeroesList/HeroIco.vue`
+* `/HeroesList/HeroIco.vue`
 
 
 ``` 
@@ -5804,7 +5685,7 @@ Este es el código completo de los componentes que hemos usado en este tema:
     
 ```
 
-  * `/HeroesList/HeroClassLevel.vue`
+* `/HeroesList/HeroClassLevel.vue`
 
 
 ``` 
@@ -5833,7 +5714,7 @@ Este es el código completo de los componentes que hemos usado en este tema:
     
 ```
 
-  * `/mixins/heroName.js`
+* `/mixins/heroName.js`
 
 
 ``` 
@@ -5849,7 +5730,7 @@ Este es el código completo de los componentes que hemos usado en este tema:
     
 ```
 
-  * `/utils/heroClasses.js`
+* `/utils/heroClasses.js`
 
 
 ``` 
@@ -5873,25 +5754,22 @@ El componente que veremos en la siguiente lectura mostrará el progreso del usua
 
 ### Comentarios:
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [1074987](https://platzi.com/comentario/1074987/) 
 
-	
 	Como nota aclaratoria, para el próximo Vue 3 el Core Team tomó la decisión de eliminar los **filters** , por lo que cada filtro personalizado pasaría a ser como una función.  
 	Esto viene a una confusión que existe de entre si utilizar una función o un filtro para dar formato a un texto.
 	
 	[![Alex Kyriakidis - What you'll love in Vue 3 - Vue.js Amsterdam 2020](https://i.ytimg.com/vi/eQpVcZa8dVQ/maxresdefault.jpg)](https://youtu.be/eQpVcZa8dVQ?t=908)
 
-	* **Michael Torres Morán** (2)
+	* **Michael Torres Morán** [1074987] (2)
 
-		
 		Siendo honestos, me gustaba mucho la sintaxis al aplicar filtros en Vue, asumo que esto cambiará al momento de pasarlo a ser netamente una función 😦
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1074987] (2)
 
-		
 		Siendo sincero si llega a existir una confusión, pues al final ambos son funciones y todo depende del resultado que quieres. Ambos caminos son correctos y en lo personal el nuevo camino de función me gusta más.
 
-## 0190. Progreso (Actos)
+## 0190. Progreso (Actos) [27765](https://platzi.com/clases/1856-avanzado-vue/27765-progreso-actos/)
 
 ### Descripción:
 
@@ -6034,8 +5912,8 @@ Empezamos con el componente principal, es decir, con `/ProgressList/Index.vue`:
       },
       computed: {
         /**
-           * Order acts from 1 to 5
-           * @returns {Object} Ordered acts
+         * Order acts from 1 to 5
+         * @returns {Object} Ordered acts
            */
         sortedActs () {
           return Object.keys(this.acts)
@@ -6118,9 +5996,9 @@ El componente `ProgressItem.vue` tiene el siguiente contenido:
 
 Aunque este componente es bastante sencillo, vamos a comentar un par de cosas:
 
-  * La prop _act_ tiene una función de validación distinta a las que hemos visto anteriormente. No es gran cosa, pero está comprobando que el numero de claves del objeto que recibe sea igual a 2. Muy simple.
+* La prop _act_ tiene una función de validación distinta a las que hemos visto anteriormente. No es gran cosa, pero está comprobando que el numero de claves del objeto que recibe sea igual a 2. Muy simple.
 
-  * La _computed property_ `actTitle` nos devuelve un `String` dependiendo del valor del acto, es decir, si está completado o no. Para poder ver este texto, deberías dejar el ratón encima de dicho elemento unos segundos.  
+* La _computed property_ `actTitle` nos devuelve un `String` dependiendo del valor del acto, es decir, si está completado o no. Para poder ver este texto, deberías dejar el ratón encima de dicho elemento unos segundos.  
 Lo diferencial de esto es que estamos incluyendo emojis (íconos) en el texto. ¡Sí! Los emojis los podemos usar como texto normal, usando las comillas, como si de un texto se tratara. 🤘😏🤘
 
 
@@ -6139,9 +6017,8 @@ Quédate con lo de los emojis en mente, pues los volveremos a utilizar más adel
 
 ### Comentarios:
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [1075074](https://platzi.com/comentario/1075074/) 
 
-	
 	A la clase .act en **main.styl** falta añadir:
 	``` 
 	    .act 
@@ -6153,7 +6030,7 @@ Quédate con lo de los emojis en mente, pues los volveremos a utilizar más adel
 	    
 	```
 
-## 0200. Stats y Tiempo Jugado
+## 0200. Stats y Tiempo Jugado [27766](https://platzi.com/clases/1856-avanzado-vue/27766-stats-y-tiempo-jugado/)
 
 ### Descripción:
 
@@ -6208,10 +6085,10 @@ La _prop_ que le estamos pasando a `PlayerStats` con el nombre de _stats_ , es u
 
 Lo que devuelve `statsData` son los datos que necesita nuestro componente de _stats_ :
 
-  * Paragon level: nivel de leyenda.
-  * Kills: monstruos y élites.
-  * Time played: Tiempo jugado por héroe en porcentaje. 
-    * Esto quiere decir que si has jugado 10 minutos con el monje y 5 minutos con el cruzado vas a tener el monje al 100% y el cruzado al 50%. No está basado en horas o minutos.
+* Paragon level: nivel de leyenda.
+* Kills: monstruos y élites.
+* Time played: Tiempo jugado por héroe en porcentaje. 
+  * Esto quiere decir que si has jugado 10 minutos con el monje y 5 minutos con el cruzado vas a tener el monje al 100% y el cruzado al 50%. No está basado en horas o minutos.
 
 
 
@@ -6456,11 +6333,11 @@ Esto es lo que vamos a hacer en nuestro componente `TimePlayed`: vamos a crearno
 Lo primero que vamos a hacer es crear la función _tipo_. Vamos a crearla en la carpeta `/utils`. Al fichero, le vamos a dar el nombre de `typeValidation.js`. El contenido es el siguiente:
 ``` 
     /**
-     * Used for custom validations
-     * @param hero {String}
-     * @param time {String}
-     * @param classSlug {String}
-     * @constructor
+   * Used for custom validations
+   * @param hero {String}
+   * @param time {String}
+   * @param classSlug {String}
+   * @constructor
      */
     function HeroData (hero, time, classSlug) {
       this.hero = hero
@@ -6577,7 +6454,7 @@ Un _v-for_ para recorrer el array de elementos de tipo _HeroData_ que le hemos p
 
 Vamos a explicar el componente `TimePlayedHero.vue`:
 
-  * El bloque de JavaScript tiene lo siguiente:
+* El bloque de JavaScript tiene lo siguiente:
 
 
 ``` 
@@ -6624,7 +6501,7 @@ En este caso, para forzar el error, he usado un objeto en vez del tipo _HeroData
 Recuerda que vamos a hacer uso del componente _progress_ de bootstrap-vue, que se utiliza bajo el nombre de `<b-progress>`.  
 Más info: <https://bootstrap-vue.js.org/docs/components/progress>
 
-  * El HTML (de _TimePlayedHero_ ) es el siguiente:
+* El HTML (de _TimePlayedHero_ ) es el siguiente:
 
 
 ``` 
@@ -6689,8 +6566,8 @@ Con la clase CSS resultante de ejecutar `classHeroBg`, estamos estableciendo un 
     
 ```
 
-  * `{hero}` se va a sustituir por la clave en `$heroesBg`, que correspondería a: ‘barbarian’, ‘crusader’, ‘monk’, ‘necromancer’, etc.
-  * `bgColor` es el valor, es decir, los colores que hemos definido: ‘#4e1c16’, ‘#795548’, etc.
+* `{hero}` se va a sustituir por la clave en `$heroesBg`, que correspondería a: ‘barbarian’, ‘crusader’, ‘monk’, ‘necromancer’, etc.
+* `bgColor` es el valor, es decir, los colores que hemos definido: ‘#4e1c16’, ‘#795548’, etc.
 
 
 
@@ -6805,7 +6682,7 @@ No te preocupes, todavía no hemos terminado. Te espero en la siguiente lectura.
 
 ### Comentarios:
 
-## 0210. Cerrando vista Profile
+## 0210. Cerrando vista Profile [27767](https://platzi.com/clases/1856-avanzado-vue/27767-cerrando-vista-profile/)
 
 ### Descripción:
 
@@ -6834,8 +6711,8 @@ Creamos nuestro mixin en la carpeta `/mixins`. Como se trata de una función ( _
     export default {
       methods: {
         /**
-         * Go to hero Id
-         * @param heroId {String | Number}
+       * Go to hero Id
+       * @param heroId {String | Number}
          */
         goToHero (heroId) {
           // Sacar los datos de la URL
@@ -6850,7 +6727,7 @@ Creamos nuestro mixin en la carpeta `/mixins`. Como se trata de una función ( _
 
 Para poder usarlo, primero lo importamos y después lo declaramos en el componente. Vamos a usarlo en dos componentes:
 
-  * ### `TopHero.vue`
+* ### `TopHero.vue`
 
 
 
@@ -6888,7 +6765,7 @@ Para poder usarlo, primero lo importamos y después lo declaramos en el componen
     
 ```
 
-  * ### `HeroIco.vue`
+* ### `HeroIco.vue`
 
 
 
@@ -6943,7 +6820,7 @@ Al final de este fichero, agregamos lo siguiente:
 
 Y aplicamos los cambios, es decir, agregamos la clase CSS `.hover-cursor-pointer` a los dos componentes:
 
-  * `TopHero.vue`
+* `TopHero.vue`
 
 
 ``` 
@@ -6952,7 +6829,7 @@ Y aplicamos los cambios, es decir, agregamos la clase CSS `.hover-cursor-pointer
     
 ```
 
-  * `HeroIco.vue`
+* `HeroIco.vue`
 
 
 ``` 
@@ -6976,7 +6853,7 @@ Para empezar, vamos a crear todos los archivos necesarios. Dentro de la carpeta 
 
 Ahora toca actualizar el componente vista `/views/Profile/Index.vue`, y agregarle el nuevo componente de _ArtisansBlock_ que acabamos de crear.
 
-  * `/views/Profile/Index.vue`
+* `/views/Profile/Index.vue`
 
 
 
@@ -7092,10 +6969,10 @@ El código completo del componente `/Profile/Index.vue` es este:
       },
       methods: {
         /**
-           * Obtener los datos de la API
-           * Guardarlos en 'profileData'
-           * @param region {String}
-           * @param account {String}
+         * Obtener los datos de la API
+         * Guardarlos en 'profileData'
+         * @param region {String}
+         * @param account {String}
            */
         fetchData (region, account) {
           getApiAccount({
@@ -7372,7 +7249,7 @@ El HTML lo explicamos un poquito más, aunque es muy simple, ya verás. ¿Recuer
 
 Usarlo es tan sencillo como esto:
 
-  * Opción uno
+* Opción uno
 
 
 ``` 
@@ -7411,7 +7288,7 @@ Si abres el navegador, tu app se debería ver ~~maravillosamente~~ así:
 
 ![preview-3.png](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/19/preview-3.png)Nos queda ver la segunda opción, usando iconos de FontAwesome.
 
-  * Opción dos
+* Opción dos
 
 
 ``` 
@@ -7436,35 +7313,30 @@ Lo vemos en el siguiente tema.
 
 ### Comentarios:
 
-* **Angel Infanti** (2)
+* **Angel Infanti** (2) [1080145](https://platzi.com/comentario/1080145/) 
 
-	
 	Me gustaron mas los emojis se ven mas elegantes
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1080145] (1)
 
-		
 		Misma opción que use yo :DD
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [1075981](https://platzi.com/comentario/1075981/) 
 
-	
 	Decidí dejar los font awesome para dar un toque uniforme a la app.  
 	Así miraremos el mismo resultado en cada cliente.
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1075981] (1)
 
-		
 		Sabia decisión, me la apunto. Sin embargo, para que pudieran ver que con emojis también se podía trabajar, decidí dejarlo con emojis, en vez de font-awesome.
 		
 		Pero está claro que para un cliente o un proyecto más formal, siempre usaría la opción que propones.
 
-* **Moisés Cedeño** (1)
+* **Moisés Cedeño** (1) [1113521](https://platzi.com/comentario/1113521/) 
 
-	
 	La opción de los emojis me parece que se ve mejor, por lo menos para mi.
 
-## 0220. Hero View
+## 0220. Hero View [27768](https://platzi.com/clases/1856-avanzado-vue/27768-hero-view/)
 
 ### Descripción:
 
@@ -7491,12 +7363,12 @@ Vamos a hacer uso de `getApiHero` y de `getApiDetailedHeroItems`. Con esto vamos
 Tenemos que definir las dos nuevas funciones que hagan las llamadas a las APIs. Para ello, vamos a la carpeta `/api` y abrimos el fichero `search.js`. Agregamos estas 2 funciones:
 ``` 
     /**
-     * Returns a single hero
-     * GET – /d3/profile/{account}/hero/{heroId}
-     * @param region {String}
-     * @param account {String}
-     * @param heroId {String}
-     * @returns {Promise}
+   * Returns a single hero
+   * GET – /d3/profile/{account}/hero/{heroId}
+   * @param region {String}
+   * @param account {String}
+   * @param heroId {String}
+   * @returns {Promise}
      */
     function getApiHero ({ region, account, heroId }) {
       const resource = `d3/profile/${account}/hero/${heroId}`
@@ -7512,12 +7384,12 @@ Tenemos que definir las dos nuevas funciones que hagan las llamadas a las APIs. 
     }
     
     /**
-     * Returns a list of items for the specified hero.
-     * GET – /d3/profile/{account}/hero/{heroId}/items
-     * @param region {String}
-     * @param account {String}
-     * @param heroId {String}
-     * @returns {Promise}
+   * Returns a list of items for the specified hero.
+   * GET – /d3/profile/{account}/hero/{heroId}/items
+   * @param region {String}
+   * @param account {String}
+   * @param heroId {String}
+   * @returns {Promise}
      */
     function getApiDetailedHeroItems ({ region, account, heroId }) {
       const resource = `d3/profile/${account}/hero/${heroId}/items`
@@ -7639,19 +7511,19 @@ Personalmente, creo que esta es la página más divertida de toda la app 🤙�
 
 Vamos a pintar en pantalla:
 
-  * Los atributos (fuerza, vida, inteligencia, etc.) del personaje, incluyendo sus recursos: 
-    * Recursos:  
+* Los atributos (fuerza, vida, inteligencia, etc.) del personaje, incluyendo sus recursos: 
+  * Recursos:  
 ![resources-preview.jpg](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/20/resources-preview.jpg)
-  * Sus habilidades, tanto las activas como las pasivas (si las tiene, depende del nivel del personaje) y las runas (en caso de que tenga alguna, también dependen del nivel).  
+* Sus habilidades, tanto las activas como las pasivas (si las tiene, depende del nivel del personaje) y las runas (en caso de que tenga alguna, también dependen del nivel).  
 En esta parte veremos como crear componentes asíncronos (parecido a lo que hacíamos con las rutas y el _lazy load_ , solo serán cargados cuando se requieran)
-  * Los [objetos](https://eu.diablo3.com/es/item/), junto con las [joyas o gemas](https://us.diablo3.com/es/item/gem/) que puedan tener engarzadas. 
-    * Para los objetos, pintaremos una barra de color según la calidad de los objetos: <https://eu.diablo3.com/es/game/guide/items/equipment#item-quality>
-      * Color blanco: Normal
-      * Color azul: Mágico
-      * Color amarillo: Raro
-      * Color verde: Conjunto (otorgan bonificación extra cuando llevas el _set_ completo)
-      * Color naranja: Legendarios
-    * Vamos a construir algo parecido a esto, que es como se ven los objetos del personaje (en PC, para consola cambia):  
+* Los [objetos](https://eu.diablo3.com/es/item/), junto con las [joyas o gemas](https://us.diablo3.com/es/item/gem/) que puedan tener engarzadas. 
+  * Para los objetos, pintaremos una barra de color según la calidad de los objetos: <https://eu.diablo3.com/es/game/guide/items/equipment#item-quality>
+    * Color blanco: Normal
+    * Color azul: Mágico
+    * Color amarillo: Raro
+    * Color verde: Conjunto (otorgan bonificación extra cuando llevas el _set_ completo)
+    * Color naranja: Legendarios
+  * Vamos a construir algo parecido a esto, que es como se ven los objetos del personaje (en PC, para consola cambia):  
 ![items.jpg](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/20/items.jpg)  
 Aquí hay objetos azules (mágicos) y amarillos (raros). Además vemos algunas gemas, por ejemplo, en el arma. Algo parecido a esto es lo que vamos a construir con los datos que nos devuelva la API de _items_.
 
@@ -7742,7 +7614,7 @@ Esto es lo que recibe el componente `HeroDetailHeader` en la _prop_ `detail`.
 
 Ahora, abrimos el recién creado componente de `HeroDetailHeader` y le damos este contenido:
 
-  * JavaScript
+* JavaScript
 
 
 ``` 
@@ -7771,7 +7643,7 @@ Ahora, abrimos el recién creado componente de `HeroDetailHeader` y le damos est
 
 Con la _computed_ `heroClass` vamos a crear la clase de CSS necesaria para mostrar la cara correspondiente a nuestro personaje. Ya lo hemos usado con anterioridad; estamos usando las mismas clases para generar el avatar de nuestro héroe.
 
-  * CSS:
+* CSS:
 
 
 ``` 
@@ -7787,7 +7659,7 @@ Con la _computed_ `heroClass` vamos a crear la clase de CSS necesaria para mostr
     
 ```
 
-  * HTML
+* HTML
 
 
 ``` 
@@ -7909,7 +7781,7 @@ El componente de _Skills_ recibe el dato intacto de `hero.skills`. Para el compo
 
 Para evitar errores en consola, vamos a crear también el fichero de _HeroSkills_. Dentro de la carpeta creamos su `Index.vue` correspondiente y le damos este contenido:
 
-  * `/Hero/HeroSkills/Index.vue`
+* `/Hero/HeroSkills/Index.vue`
 
 
 ``` 
@@ -8197,17 +8069,17 @@ Al igual que hemos hecho antes con los nombres de los héroes, vamos a crear un 
     export default {
       methods: {
         /**
-         * Get the name of the primary resource by class
-         * @param classSlug {String}
-         * @returns {String}
+       * Get the name of the primary resource by class
+       * @param classSlug {String}
+       * @returns {String}
          */
         resourceClassName (classSlug) {
           return resourceClassName[classSlug]
         },
         /**
-         * Resource Normalized name
-         * @param classSlug {String}
-         * @returns {String}
+       * Resource Normalized name
+       * @param classSlug {String}
+       * @returns {String}
          */
         resourceDisplayName (classSlug) {
           return resourceDisplayName[classSlug]
@@ -8380,7 +8252,7 @@ Estamos cargando los _skills_ activos y los pasivos, sin más.
 Vamos a editar los componentes de las habilidades, empezando por el habiliades activas.  
 Como tenemos un array de _skills_ lo que vamos a hacer es iterar, con `v-for`, para utilizar el componente de habilidad individual, `ActiveSkill`.
 
-  * `ActiveSkills.vue`:
+* `ActiveSkills.vue`:
 
 
 ``` 
@@ -8455,7 +8327,7 @@ Para identificar qué habilidad estamos mostrando, vamos a agregar estas líneas
 
 Con `slot` nos estamos refiriendo a qué habilidad es, siendo `slot-1` el boton princila del ratón y `slot-2` el botón secundario. Aguanta un poco, que con un ejemplo lo verás mejor.
 
-  * `ActiveSkill.vue`:
+* `ActiveSkill.vue`:
 
 
 ``` 
@@ -8538,7 +8410,7 @@ Perfecto, ya tenemos las habilidaes activas de nuestro personaje cargadas, que s
 
 Hora de cargar las habilidades pasivas, que son casi lo mismo que las activas, pero más sencillas. Solo imagen y nombre de la habilidad.
 
-  * `PassiveSkills.vue`:
+* `PassiveSkills.vue`:
 
 
 ``` 
@@ -8572,7 +8444,7 @@ Hora de cargar las habilidades pasivas, que son casi lo mismo que las activas, p
     
 ```
 
-  * `PassiveSkill.vue`:
+* `PassiveSkill.vue`:
 
 
 ``` 
@@ -8628,14 +8500,13 @@ Con esto hemos terminado la parte de _skills_ … en modo normal. En el siguient
 
 ### Comentarios:
 
-* **Moisés Cedeño** (1)
+* **Moisés Cedeño** (1) [1113542](https://platzi.com/comentario/1113542/) 
 
-	
 	En respuesta a la pregunta de la clase: Si se le coloca esa propiedad a algún elemento de recurso sucede que la imagen se descoloca y se visualizan 4 recursos pero todos recordados de mala forma. Al estar trabajando con 1 sola imagen para todos los recursos el posicionamiento debería ser el adecuado y la linea que se le añade lo distorsiona.
 
-# Agregando funcionalidades avanzadas a nuestro proyecto
+# Agregando funcionalidades avanzadas a nuestro proyecto [5668]
 
-## 0230. Componentes asíncronos
+## 0230. Componentes asíncronos [27769](https://platzi.com/clases/1856-avanzado-vue/27769-componentes-asincronos/)
 
 ### Descripción:
 
@@ -8813,8 +8684,8 @@ Y unas _computed properties_ :
 ``` 
     computed: {
       /**
-       * Dinamyc props for async dynamic components
-       * @returns {String}
+     * Dinamyc props for async dynamic components
+     * @returns {String}
        */
       // Con esto estamos generando "props" dinámicas
       // Si el componente es ActiveSkills pasa como props las activas, si no, las pasivas
@@ -8885,8 +8756,8 @@ El código completo se vería así:
       },
       computed: {
         /**
-           * Dinamyc props for dynamic components
-           * @returns {String}
+         * Dinamyc props for dynamic components
+         * @returns {String}
            */
         componentProps () {
           return this.activeComponent === 'ActiveSkills' ? this.skills.active : this.skills.passive
@@ -8988,27 +8859,23 @@ En el siguiente, vamos a terminar con esta vista, donde cargaremos los items (�
 
 ### Comentarios:
 
-* **Jorge Baumann** (4)
+* **Jorge Baumann** (4) [1072558](https://platzi.com/comentario/1072558/) 
 
-	
 	¿Qué te ha parecido? ¿Conocías `keep-alive`? ¿Lo has usado alguna vez? Para mí esta es de las mejores clases del curso.
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1072558] (2)
 
-		
 		Realmente algo nuevo para mí 🤯
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072558] (1)
 
-		
 		La verdad que cuando lo conoces por primera vez es mind-blowing 😁Esa fue mi reacción tambien al conocerlo por primera vez 😄
 
-	* **Moisés Cedeño** (2)
+	* **Moisés Cedeño** [1072558] (2)
 
-		
 		No lo conocía pero ahora que lo conozco me parece genial. Excelente forma de mejorar el rendimiento y optimizar nuestras apps.
 
-## 0240. Objetos del Héroe
+## 0240. Objetos del Héroe [27770](https://platzi.com/clases/1856-avanzado-vue/27770-objetos-del-heroe/)
 
 ### Descripción:
 
@@ -9630,7 +9497,7 @@ En la siguiente lectura veremos cómo crear directivas personalizadas ( _custom 
 
 ### Comentarios:
 
-## 0250. Custom Directives
+## 0250. Custom Directives [27754](https://platzi.com/clases/1856-avanzado-vue/27754-custom-directives/)
 
 ### Descripción:
 
@@ -9717,8 +9584,8 @@ Vamos a darle contenido a la directiva. Tenemos que conseguir que el input que t
     // Registra una directiva global llamada `v-focus`
     Vue.directive('focus', {
       /**
-       * inserted hook: Cuando el elemento es insertado en el DOM
-       * @param el {HTMLElement} El elemento al que está dirigida la directiva
+     * inserted hook: Cuando el elemento es insertado en el DOM
+     * @param el {HTMLElement} El elemento al que está dirigida la directiva
        */
       inserted: function (el) {
         // Enfoca el elemento
@@ -9743,17 +9610,17 @@ Vamos a crear otra directiva, un poco más compleja. Agregamos lo siguiente al f
 
 Es importante que revises estos 2 temas antes de pasar al siguiente punto:
 
-  * Al igual que los componentes, las directivas también tienen _hooks_ : <https://es.vuejs.org/v2/guide/custom-directive.html#Funciones-Hook>
-  * Estos son los argumentos que soportan dichas funciones ( _hooks_ ): <https://es.vuejs.org/v2/guide/custom-directive.html#Argumentos-en-Hooks>
+* Al igual que los componentes, las directivas también tienen _hooks_ : <https://es.vuejs.org/v2/guide/custom-directive.html#Funciones-Hook>
+* Estos son los argumentos que soportan dichas funciones ( _hooks_ ): <https://es.vuejs.org/v2/guide/custom-directive.html#Argumentos-en-Hooks>
 
 
 
 Vamos a crear una directiva para usarla en los títulos (`<h1>`). Esta directiva, que la llamaremos `v-diablo` va a transformar el estilo del componente.  
 Como es una directiva más compleja, tiene múltiples formas de ser usada. Estas son las modificaciones que va a tener:
 
-  * De manera obligatoria, va a poner la tipografía de `DiabloHeavy` sobre el elemento que recibe la directiva. Para esto no hay que hacer nada especial, solo usar la directiva.
-  * Las directivas soportan argumentos a través de los dos puntos `:`. Es decir, que si le quiero pasar un argumento a la directiva `v-diablo` lo que tendria que hacer es esto: `v-diablo:platzi`. En este caso el argumento es `platzi`.
-  * Aparte de los argumentos, tendremos modificadores, que se usan con el punto simple (`.`) Un ejemplo sería así: `v-diablo.top`
+* De manera obligatoria, va a poner la tipografía de `DiabloHeavy` sobre el elemento que recibe la directiva. Para esto no hay que hacer nada especial, solo usar la directiva.
+* Las directivas soportan argumentos a través de los dos puntos `:`. Es decir, que si le quiero pasar un argumento a la directiva `v-diablo` lo que tendria que hacer es esto: `v-diablo:platzi`. En este caso el argumento es `platzi`.
+* Aparte de los argumentos, tendremos modificadores, que se usan con el punto simple (`.`) Un ejemplo sería así: `v-diablo.top`
 
 
 
@@ -9765,8 +9632,8 @@ La función quedaría de la siguiente forma:
 ``` 
     Vue.directive('diablo', {
       /**
-       * @param el {HTMLElement} Elemento al que aplica la directiva
-       * @param binding {DirectiveBinding} Datos que recibe la directiva a traves de argumentos, modificadores, etc
+     * @param el {HTMLElement} Elemento al que aplica la directiva
+     * @param binding {DirectiveBinding} Datos que recibe la directiva a traves de argumentos, modificadores, etc
        */
       bind (el, binding) {
         // Definimos los colores
@@ -9821,16 +9688,16 @@ La función quedaría de la siguiente forma:
     
 ```
 
-  * Argumento: Accedes a su valor a través de `binding.arg`. Recuerda, solo puedes pasar 1 argumento. Lo usas con los dos puntos (`:`). Ejemplo “`v-diablo:argumento`”.
+* Argumento: Accedes a su valor a través de `binding.arg`. Recuerda, solo puedes pasar 1 argumento. Lo usas con los dos puntos (`:`). Ejemplo “`v-diablo:argumento`”.
 
-  * Modificadores: Se usan con el punto (`.`) y puedes acceder a ellos a través de `binding.modifiers`, que es un objeto.
+* Modificadores: Se usan con el punto (`.`) y puedes acceder a ellos a través de `binding.modifiers`, que es un objeto.
 
-    * Si usamos esto “`v-diablo.modificador1.modificador2`”, en el objeto de modificadores recibimos esto:
+  * Si usamos esto “`v-diablo.modificador1.modificador2`”, en el objeto de modificadores recibimos esto:
 ```         { modificador1: true, modificador2: true }
         
 ```
 
-  * Valor: Lo usas con el símbolo igual (`=`) en la directiva y pasándole un valor, ejemplo: `v-diablo="42"`. Accedes a su valor a través de `binding.value`
+* Valor: Lo usas con el símbolo igual (`=`) en la directiva y pasándole un valor, ejemplo: `v-diablo="42"`. Accedes a su valor a través de `binding.value`
 
 
 
@@ -9839,8 +9706,8 @@ La función quedaría de la siguiente forma:
 
 **Color del texto** :
 
-  * `bone`
-  * `white` (color por defecto)
+* `bone`
+* `white` (color por defecto)
 
 
 
@@ -9848,8 +9715,8 @@ La función quedaría de la siguiente forma:
 
 **Posición de la línea:**
 
-  * `bottom`
-  * `top`
+* `bottom`
+* `top`
 
 
 
@@ -9857,25 +9724,25 @@ La función quedaría de la siguiente forma:
 
 **Grosor de la línea en`px`:**
 
-  * Si no le pasas valor, por defecto es 1 (px)
-  * Valor numérico. Si le pasas valor, recibe el número que se le pasa (en px)
+* Si no le pasas valor, por defecto es 1 (px)
+* Valor numérico. Si le pasas valor, recibe el número que se le pasa (en px)
 
 
 
 Con esto claro, tenemos varias opciones para usar nuestra directiva:
 
-  * `v-diablo:bone`, color _blanco hueso_ en el texto.
-  * `v-diablo:white` que es lo mismo que `v-diablo`. El blanco es el color que hemos puesto por defecto.
-  * `v-diablo:bone.bottom`: Le pone un `border-bottom` de color `bone` de `1px`.
-  * `v-diablo:bone.top`: Le pone un `border-top` de color `bone` de `1px`.
-  * `v-diablo:bone.top="10"`: Le pone un `border-top` de color `bone` de `10px`
-  * `v-diablo:white.top="10"`: Le pone un `border-top` de color blanco de `10px`
+* `v-diablo:bone`, color _blanco hueso_ en el texto.
+* `v-diablo:white` que es lo mismo que `v-diablo`. El blanco es el color que hemos puesto por defecto.
+* `v-diablo:bone.bottom`: Le pone un `border-bottom` de color `bone` de `1px`.
+* `v-diablo:bone.top`: Le pone un `border-top` de color `bone` de `1px`.
+* `v-diablo:bone.top="10"`: Le pone un `border-top` de color `bone` de `10px`
+* `v-diablo:white.top="10"`: Le pone un `border-top` de color blanco de `10px`
 
 
 
 Para el título principal de la vista `Home` y para el nombre del héroe, en la vista `Hero`, me gusta usar `v-diablo:bone`, para que resalte un poco más del resto de títulos.
 
-  * `/Home/HomeTitle.vue`:
+* `/Home/HomeTitle.vue`:
 
 
 ``` 
@@ -9883,7 +9750,7 @@ Para el título principal de la vista `Home` y para el nombre del héroe, en la 
     
 ```
 
-  * `/Hero/HeroDetailHeader.vue`:
+* `/Hero/HeroDetailHeader.vue`:
 
 
 ``` 
@@ -9913,20 +9780,19 @@ En la siguiente clase veremos cómo subir y desplegar automáticamente nuestra a
 
 ### Comentarios:
 
-* **Manuel Ojeda** (2)
-![MindBlown](https://i.pinimg.com/originals/0c/11/9d/0c119d1e5901e83563072eb67774c035.gif)
+* **Manuel Ojeda** (2) [1076341](https://platzi.com/comentario/1076341/) 
+	
+	![MindBlown](https://i.pinimg.com/originals/0c/11/9d/0c119d1e5901e83563072eb67774c035.gif)
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1076341] (1)
 
-		
 		¿Qué fue lo que te hizo explotar la cabeza Manuel? 😄
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1076341] (2)
 
-		
 		Lo poderoso que llega a ser una directiva personalizada 👌
 
-## 0260. Netlify
+## 0260. Netlify [27771](https://platzi.com/clases/1856-avanzado-vue/27771-netlify/)
 
 ### Descripción:
 
@@ -9946,8 +9812,8 @@ Lo primero que deberíamos hacer antes de subir nuestra app a Netlify es buscar 
 
 Esto lo vamos a hacer usando variables de entorno. Las variables de entorno nos van a permitir 2 cosas:
 
-  * La primera, securizar nuestra app, pues no vamos a compartir nuestras claves del cliente de Diablo III (<https://develop.battle.net/access/clients>)
-  * La segunda es que la app sea más flexible y modular, pues vamos a poder configurarla a través de un fichero.
+* La primera, securizar nuestra app, pues no vamos a compartir nuestras claves del cliente de Diablo III (<https://develop.battle.net/access/clients>)
+* La segunda es que la app sea más flexible y modular, pues vamos a poder configurarla a través de un fichero.
 
 
 
@@ -10007,10 +9873,10 @@ Continuando con el proceso anterior, si abres la web, deberías ver algo como es
 
 😳 ¡El título ha desaparecido! No pasa nada, está todo controlado. Solo necesitamos **reiniciar** el servidor (`npm run serve`) para que se reflejen los cambios. Y ahora sí, deberías ver esto:
 
-  * Levantamos server:  
+* Levantamos server:  
 ![server](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/24/server.png)
 
-  * Abrir la web:  
+* Abrir la web:  
 ![env3](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/24/env3.png)
 
 
@@ -10074,15 +9940,15 @@ Una vez que hayas elegido el repositorio que quieres desplegar, deberías estar 
 
 Vamos a revisar las opciones que tenemos para configurar:
 
-  * Owner: Lo dejamos tal cual está.
-  * Branch to deploy: Elige la rama dónde está el código para subir, en este caso, en `master`.
+* Owner: Lo dejamos tal cual está.
+* Branch to deploy: Elige la rama dónde está el código para subir, en este caso, en `master`.
 
 
 
 Ahora viene lo más importante (y lo que más me gusta 😍)
 
-  * **Build command** : El comando con el que hacemos el `build` de nuestra aplicación. Escribimos `npm run build`.
-  * **Publish directory** : El directorio que se genera al hacer el _build_. Escribimos `dist`.
+* **Build command** : El comando con el que hacemos el `build` de nuestra aplicación. Escribimos `npm run build`.
+* **Publish directory** : El directorio que se genera al hacer el _build_. Escribimos `dist`.
 
 
 
@@ -10096,10 +9962,10 @@ Si te interesa cambiar el nombre debes hacer click en `Site settings` y luego en
 
 Si aún no te has enamorado de Netlify, te cuento más:
 
-  * Cada vez que subas un cambio a la rama `master` (o la rama que hayas configurado), tus cambios se desplegarán automágicamente 😱.
-  * Tienes acceso al historial de todos los despliegues ( _deploys_ ) de tu app, vas a poder ver cómo estaba tu app hace 1 semana (por ejemplo) 🤯.
-  * En caso de que hagan un _Pull Request_ en Github, te genera un deploy (automático) del PR para que puedas ver cómo queda 🤯🤯
-  * ¡Todo esto de manera gratuita! 👏
+* Cada vez que subas un cambio a la rama `master` (o la rama que hayas configurado), tus cambios se desplegarán automágicamente 😱.
+* Tienes acceso al historial de todos los despliegues ( _deploys_ ) de tu app, vas a poder ver cómo estaba tu app hace 1 semana (por ejemplo) 🤯.
+* En caso de que hagan un _Pull Request_ en Github, te genera un deploy (automático) del PR para que puedas ver cómo queda 🤯🤯
+* ¡Todo esto de manera gratuita! 👏
 
 
 
@@ -10128,9 +9994,9 @@ La app no puede funcionar correctamente, ya que no las hemos configurado en Netl
 
 Para configurar las variables de entorno vamos a `Site settings` > `Build & Deploy` (del menú de la derecha) > `Environment`. Le das a `Edit variables` y metes las variables de entorno que hemos configurado antes:
 
-  * VUE_APP_CLIENT_ID
-  * VUE_APP_CLIENT_SECRET
-  * VUE_APP_TITLE
+* VUE_APP_CLIENT_ID
+* VUE_APP_CLIENT_SECRET
+* VUE_APP_TITLE
 
 ![env-var](https://raw.githubusercontent.com/baumannzone/d3pf-images/master/24/env-var.png)
 
@@ -10140,32 +10006,28 @@ Ahora que ya tienes tu app corriendo en Netlify, es el momento de que compartas 
 
 ### Comentarios:
 
-* **Angel Infanti** (2)
+* **Angel Infanti** (2) [1081589](https://platzi.com/comentario/1081589/) 
 
-	
 	<https://d3pf.netlify.com/#/>
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1081589] (1)
 Excelente!
 
-* **Jorge Baumann** (2)
+* **Jorge Baumann** (2) [1072560](https://platzi.com/comentario/1072560/) 
 
-	
 	¿Has subido tu aplicación a Netlify? Comparte tu enlace aquí 👇
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1072560] (2)
 
-		
 		<https://darkjeda-diablo3-player-finder.netlify.com/#/>
 		
 		😎
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1072560] (1)
 
-		
 		Bien @darkjeda, ¡el primero en publicar! 👏
 
-## 0270. About y Error
+## 0270. About y Error [27772](https://platzi.com/clases/1856-avanzado-vue/27772-about-y-error/)
 
 ### Descripción:
 
@@ -10342,8 +10204,8 @@ Para forzar el error y poder ver la página de error puedes borrar o renombrar l
 
 Error 401, no autorizado (ya que no hemos conseguido el token de acceso), junto con los parámetros de búsqueda:
 
-  * BattleTag: `SuperRambo-2613`
-  * Región: `EU`
+* BattleTag: `SuperRambo-2613`
+* Región: `EU`
 
 
 
@@ -10363,26 +10225,22 @@ Por último, me gustaría decirte que el [repositorio oficial de la aplicación]
 
 ### Comentarios:
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [1076442](https://platzi.com/comentario/1076442/) 
 
-	
 	Muy buen curso, me gustó la manera de abordar los temas en escrito pues es más fácil regresar a resolver dudas 👌
 	
 	Como añadido le agregue un poco de TypeScript y un plugin para Vue 2 donde usamos la nueva Composition API, aquí les dejo el repositorio: <https://github.com/manuelojeda/d3pf>
 
-	* **Jorge Baumann** (1)
+	* **Jorge Baumann** [1076442] (1)
 
-		
 		Que interesante suena, voy a revisarlo en cuanto pueda. Siempre está bien ver cómo lo hacen otros. Siempre se puede aprender algo nuevo. Gracias por compartir ✌️
 
-	* **Jorge Baumann** (2)
+	* **Jorge Baumann** [1076442] (2)
 
-		
 		Ya lo revisé. Muy bien, usando TS y Composition API 👏👏
 
-* **Jorge Baumann** (2)
+* **Jorge Baumann** (2) [1072563](https://platzi.com/comentario/1072563/) 
 
-	
 	¿Quieres colaborar con el proyecto? Todas las aportaciones son bienvenidas. Es una buena forma de iniciarse en el mundo open source y colaborar. Para participar empieza creando una **issue** o un **pull request** en el repositorio oficial del proyecto: <https://github.com/baumannzone/diablo3-vue-platzi>
 	
 	Añadir documentación o corregir una simple coma en un `readme.md` o mejorar la suite de tests… ¡cualquier aportación es **válida**!

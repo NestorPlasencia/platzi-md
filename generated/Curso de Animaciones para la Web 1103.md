@@ -1,6 +1,8 @@
-# Introducción
+[Curso de Animaciones para la Web 1103](https://platzi.com/cursos/animaciones-web)
 
-## 0010. Bienvenido al curso
+# Introducción [1095]
+
+## 0010. Bienvenido al curso [6820](https://platzi.com/clases/1103-animaciones-web/6820-bienvenido-al-curso1754/)
 
 ### Descripción:
 
@@ -9,273 +11,220 @@ Te damos la bienvenida al curso de **Animaciones para la Web** donde vas a apren
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (63)
+* **Leonidas Esteban Gonzalez** (63) [171594](https://platzi.com/comentario/171594/) 
 
-	
 	Bienvenido al curso, este en especial es mi favorito porque combina mi pasión por el frontend con las animaciones en general para conectar con el usuario. Espero que te guste, veas todo el curso, tomes el examen (no está fácil) y logres tener este bonito badge en tu perfil y contagiarte de ganas por programar mucho.
 
-	* **rafnixg** (4)
+	* **rafnixg** [171594] (4)
 
-		
 		Que alegria saber que este curso lo daras tu estoy haciendo la carrera **Arquitecto Frontend** y tus cursos han sido muy buenos! el de _Responsive Design_ me enseño muchisimo!
 
-	* **Juan Carlos Felizzola Vega** (1)
+	* **Juan Carlos Felizzola Vega** [171594] (1)
 
-		
 		Comenzamos con el curso favorito de Leonidas!
 
-	* **Ivan Robles** (2)
+	* **Ivan Robles** [171594] (2)
 
-		
 		Apenas inciando este curso como lo prometí 😄
 
-	* **Christian Navarro Urra** (1)
+	* **Christian Navarro Urra** [171594] (1)
 
-		
 		Leo eres un grande, estas como profesor en todos los cursos hasta ahora en la carrera de “Arquitectura Frontend”
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [171594] (1)
 
-		
 		Gran maestro ❤️
 
-	* **Espasa** (1)
+	* **Espasa** [171594] (1)
 
-		
 		Ver la pasión que pone tu profesor al enseñar te da aún más ganas de aprender, ¡Muchas gracias Leonidas!
 
-	* **Mildred Guerra Rodríguez** (1)
+	* **Mildred Guerra Rodríguez** [171594] (1)
 
-		
 		Gracias Leonidas! me encantan sus cursos
 
-* **Luis Fernando Valladares Castro** (10)
+* **Luis Fernando Valladares Castro** (10) [551783](https://platzi.com/comentario/551783/) 
 
-	
 	Hola a todos, soy un viejo alumno del curso y deseo compartirles una **Guia de Animaciones para la Web** basada en los conocimientos adquiridos en este curso para que pueda servirles como una referencia y ayuda extra a lo largo del mismo.
 	
 	Cabe mencionar que la guía cuenta con un _pagina web demostrativa_ , la cual, integra la mayoría de las animaciones diseñadas a lo largo del curso.
 	
 	**Enlace:**<https://github.com/LuisValladaresC/animaciones-css>
 
-	* **Hugo Rivera** (2)
+	* **Hugo Rivera** [551783] (2)
 
-		
 		😮 men que buen packetazo genial muchas gracias
 
-	* **Luis Fernando Valladares Castro** (2)
+	* **Luis Fernando Valladares Castro** [551783] (2)
 
-		
 		Es un placer ayudarte a ti y a esta comunidad en el camino como programador
 
-	* **Hugo Rivera** (2)
+	* **Hugo Rivera** [551783] (2)
 
-		
 		Gracias en serio 😃
 
-	* **AUGUSTO CACERES SUAREZ** (2)
+	* **AUGUSTO CACERES SUAREZ** [551783] (2)
 
-		```
-		    thank you!
+		```    thank you!
 		    
 		```
 
-	* **juandiego-acosta** (2)
+	* **juandiego-acosta** [551783] (2)
 
-		
 		gracias
 
-* **Ada Parra** (5)
+* **Ada Parra** (5) [181107](https://platzi.com/comentario/181107/) 
 
-	
 	Iniciando el curso 😄 emocionada, a la expectativa sobre como crear estas animaciones. Iniciando en: 3…2…1 Woow!.
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [181107] (1)
 
-		
 		Bienvenida a mi curso favorito, espero estar a la altura de las expectativas y enseñarte todo lo que necesitas para mejorar la experiencia de tus usuarios. 😊
 
-* **jonathan-mtz** (3)
+* **jonathan-mtz** (3) [1085036](https://platzi.com/comentario/1085036/) 
 
-	
 	Gran curso, gran oportunidad de aprender sin parar en esta cuarentena
 
-* **davidbr** (3)
+* **davidbr** (3) [483211](https://platzi.com/comentario/483211/) 
 
-	
 	Anoche termine el curso de responsive design y hoy comienzo este con mucha emoción y expectativa.
 
-* **Fernando  Gonzales** (3)
+* **Fernando  Gonzales** (3) [164876](https://platzi.com/comentario/164876/) 
 
-	
 	Que tan recomendable es el uso de animaciones en una web responsiva, es decir como repercute en un mobile (cantidad de request, experiencia usuario, etc )
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [164876] (0)
 
-		
 		Si la animación requiere de assets como imágenes hay un peso extra ahi, pero animaciones que corren lo más de perfecto son las que usan transforms u opacity.
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [164876] (1)
 
-		
 		Lo más recomendable en dispositivos móviles son las animaciones de tipo smoth para que parezca que son aplicaciones, y en desktop tengan un comportamiento diferente
 
-* **Dario-German-Mansilla** (2)
+* **Dario-German-Mansilla** (2) [893704](https://platzi.com/comentario/893704/) 
 
-	
 	Hola! estoy a full haciendo la carrera front end… y me gustaría saber de donde descargar modelos de diseños web (no templates sino de diseñadores) para aprender a traducir diseño a código.
 
-* **Jessen Mercado** (2)
+* **Jessen Mercado** (2) [806256](https://platzi.com/comentario/806256/) 
 
-	
 	Venga, otro cursito con Leonidas
 
-* **33andres33** (2)
+* **33andres33** (2) [799459](https://platzi.com/comentario/799459/) 
 
-	
 	otro mas mas para ser arquitecto fronted y despues aprender backend
 
-* **Everson Vidal Mamani Huayta** (2)
+* **Everson Vidal Mamani Huayta** (2) [760023](https://platzi.com/comentario/760023/) 
 
-	
 	pense que lo habia puesto a velocidad 3x pero habia sido su forma normal de hablar XD
 
-	* **Luis Alberto Vilcapaza Perez** (1)
+	* **Luis Alberto Vilcapaza Perez** [760023] (1)
 
-		
 		x2
 
-* **Ian Mande** (2)
+* **Ian Mande** (2) [550662](https://platzi.com/comentario/550662/) 
 
-	
 	Te vez como mas cachetón esteban
 
-* **David Farinango** (2)
+* **David Farinango** (2) [403229](https://platzi.com/comentario/403229/) 
 
-	
 	Vamos por otro diploma mas!
 
-* **Andrés Felipe Eslava Zuluaga** (2)
+* **Andrés Felipe Eslava Zuluaga** (2) [179528](https://platzi.com/comentario/179528/) 
 
-	
 	Profesor Esteban Leonidas, me agrada que usted sea quién dirige de un curso cómo éste. a Platzi, escogieron un excelente curso para éste señor. Lo esperaba con ansias. Ustedes han logrado que en mí crezca un gusto por el código. (8
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [179528] (2)
 
-		
 		Espero estar a la altura y que te guste mucho el curso, muchas gracias por la confianza!
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1037591](https://platzi.com/comentario/1037591/) 
 
-	
 	Me encanta tomar toda esta ruta de desarrollo… muy emocionado por aprender cada dia y convertirme en uno de los mejores desarrolladores de Frontend!
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1005373](https://platzi.com/comentario/1005373/) 
 
-	
 	Es otro curso con leonidas y me sigo emocionando con lo que puedo aprender a hacer
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1005373] (1)
 
-		
 		Retomando después de un buen tiempo !!!
 
-* **Angélica María Rocha García** (1)
+* **Angélica María Rocha García** (1) [979016](https://platzi.com/comentario/979016/) 
 
-	
 	Gracias Leonidas, desde ya emocionada por el curso.
 
-* **John W. Martínez** (1)
+* **John W. Martínez** (1) [951483](https://platzi.com/comentario/951483/) 
 
-	
 	Excelente Leonidas, eres de los mejores maestros de la plataforma junto a Fajardo y Freddier (sin desmeritar a los otros que me han tocado que también son excelentes).
 
-* **Carlos Eduardo Diaz Polanco** (1)
+* **Carlos Eduardo Diaz Polanco** (1) [947976](https://platzi.com/comentario/947976/) 
 
-	
 	Ayer, Responsiveando.Hoy, Animawevenado 🤣🤣🤣🤣
 
-* **Emanuel Valero** (1)
+* **Emanuel Valero** (1) [920124](https://platzi.com/comentario/920124/) 
 
-	
 	Excelente! Seguimos aprendiendo arquitectura frontend, para hacer webs increíbles
 
-* **Giovanni Muñoz** (1)
+* **Giovanni Muñoz** (1) [895396](https://platzi.com/comentario/895396/) 
 
-	
 	vamos! @Leonidas Esteban Gonzalez
 
-* **J Michael Hernández González** (1)
+* **J Michael Hernández González** (1) [871322](https://platzi.com/comentario/871322/) 
 
-	
 	motivado terminando la segunda seccion de arquitecto front end ¿Pero porque los cursos mas largos son con leonidas 😦?
 
-* **Luis  Aldair Quispe Rios** (1)
+* **Luis  Aldair Quispe Rios** (1) [828461](https://platzi.com/comentario/828461/) 
 
-	
 	Vamos con otro curso de Leonidas! Wuuu!
 
-* **lmoran** (1)
+* **lmoran** (1) [784094](https://platzi.com/comentario/784094/) 
 
-	
 	Un curso más al Skill.
 
-* **roxydev** (1)
+* **roxydev** (1) [773941](https://platzi.com/comentario/773941/) 
 
-	
 	el profe de webpack 😃
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [768214](https://platzi.com/comentario/768214/) 
 
-	
 	Una nueva experiencia más para el repertorio 👍👏
 
-* **Jose Armando Acevedo Angarita** (1)
+* **Jose Armando Acevedo Angarita** (1) [748176](https://platzi.com/comentario/748176/) 
 
-	
 	Vamos a darle!!!
 
-* **José Pablo Machuca González** (1)
+* **José Pablo Machuca González** (1) [699823](https://platzi.com/comentario/699823/) 
 
-	
 	¡Comenzando mi 7o u 8o curso en Platzi!
 
-* **Moises10** (1)
+* **Moises10** (1) [625850](https://platzi.com/comentario/625850/) 
 
-	
 	Buen comienzo
 
-* **Alejo Fonseca** (1)
+* **Alejo Fonseca** (1) [623429](https://platzi.com/comentario/623429/) 
 
-	
 	A empezar el curso!!
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [596733](https://platzi.com/comentario/596733/) 
 
-	
 	 _ **siiii a hacer animaciones geniales!!!**_
 
-* **RamonDiegoA** (1)
+* **RamonDiegoA** (1) [528601](https://platzi.com/comentario/528601/) 
 
-	
 	Hola estoy por comenzar el curso pero tengo una consultas antes,porque? en varios códigos css con animaciones, andan perfecto para web, pero no asi en un dispositivo móvil, es decir pierden el efecto, por ejemplo el efecto parallax entre otros.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [528601] (2)
 
-		
 		Por las capacidades que tienes los navegadores móviles, no todas las características que existen en los navegadores de escritorio existen en las versiones móviles.
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [528601] (1)
 
-		
 		Hay propiedades que los navegadores móviles aún no aceptan, pero ya ahorita en casi 2020 casi todas las animaciones se pueden realizar en un dispositivo móvil, lo puedes verificar en la web de CanIUse
 
-* **fredic yohany rojas** (1)
+* **fredic yohany rojas** (1) [515158](https://platzi.com/comentario/515158/) 
 
-	
 	Ayyyyyyy!!! KEHERMOSO!!!
-	``` 
-	    .canasta:hover.pelota.a{
+	```     .canasta:hover.pelota.a{
 	                width: 200px;
 	                height: 200px;
 	                left: calc(50% - 100px);
@@ -290,140 +239,115 @@ Te damos la bienvenida al curso de **Animaciones para la Web** donde vas a apren
 	    
 	```
 
-* **lee-edmar** (1)
+* **lee-edmar** (1) [512171](https://platzi.com/comentario/512171/) 
 
-	
 	Que entusiasmo inspiras a los estudiantes gracias Leonidas
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [490289](https://platzi.com/comentario/490289/) 
 
-	
 	Bueno, un cursito más con Leonidas.  
 	A sacar provecho!
 
-* **vanessahema93** (1)
+* **vanessahema93** (1) [478396](https://platzi.com/comentario/478396/) 
 
-	
 	Leonidas eres muy pro! Tengo unas super expectativas de este curso pues es algo que me falta, adoro tus cursos los he hecho casi todos!
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [475280](https://platzi.com/comentario/475280/) 
 
-	
 	Siguiendo la ruta propuesta por Leonidas para converitme en un desarrollador frontend. Inquieto sobre que clase de animaciones podemos hacer.
 
-* **zalotesta** (1)
+* **zalotesta** (1) [455780](https://platzi.com/comentario/455780/) 
 
-	
 	Es uno de los cursos que mas curiosidad me inspira. A darle!!! 😄
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [454702](https://platzi.com/comentario/454702/) 
 Motivado para iniciar
 
-* **karinaportuguez** (1)
+* **karinaportuguez** (1) [450267](https://platzi.com/comentario/450267/) 
 
-	
 	Interesante, el curso que me faltaba
 
-* **Enrique Mont** (1)
+* **Enrique Mont** (1) [436012](https://platzi.com/comentario/436012/) 
 
-	
 	Let’s get it on! 😃
 
-* **JuanDAC** (1)
+* **JuanDAC** (1) [425455](https://platzi.com/comentario/425455/) 
 
-	
 	Ahora si a ser todo un Experto Pro en animaciones CSS \^-^/
 
-* **Jorge Wenner Arévalo Alvis** (1)
+* **Jorge Wenner Arévalo Alvis** (1) [420886](https://platzi.com/comentario/420886/) 
 
-	
 	iniciando…!
 
-* **camilo rincon** (1)
+* **camilo rincon** (1) [403922](https://platzi.com/comentario/403922/) 
 
-	
 	Excelente muy motivado en la carrera de arquitectura Frontend
 
-* **kikemadrigal** (1)
+* **kikemadrigal** (1) [338164](https://platzi.com/comentario/338164/) 
 
-	
 	Hoy iniciando este nuevo curso con el mejor Leonidas Esteban!..
 
-* **Rafael Jair Sanchez Alviso** (1)
+* **Rafael Jair Sanchez Alviso** (1) [279405](https://platzi.com/comentario/279405/) 
 
-	
 	Here we go
 
-* **Esteban Jossue  Galdamez Perez** (1)
+* **Esteban Jossue  Galdamez Perez** (1) [189924](https://platzi.com/comentario/189924/) 
 
-	
 	Espero mucho de este curso.
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [189924] (1)
 
-		
 		Y que tal estuvo? 😃
 
-* **Gabriel Alejandro Nuñez Natera** (1)
+* **Gabriel Alejandro Nuñez Natera** (1) [173734](https://platzi.com/comentario/173734/) 
 
-	
 	FUCK YEA
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [173734] (1)
 
-		
 		Bienvenido!
 
-	* **Geraldyn Daniela Chirinos De Sousa** (1)
+	* **Geraldyn Daniela Chirinos De Sousa** [173734] (1)
 
-		
 		ajaaaa te cache por aquí abuelo jaja!!!  
 		A hacer animaciones!!
 
-* **Alan Santiago** (0)
+* **Alan Santiago** (0) [319694](https://platzi.com/comentario/319694/) 
 
-	
 	 **Leonidas** es un **crack** B)
 
-* **Alan Santiago** (0)
+* **Alan Santiago** (0) [319693](https://platzi.com/comentario/319693/) 
 **Leonidas** es el mejor :D
 
-* **esdraspavon** (0)
+* **esdraspavon** (0) [303132](https://platzi.com/comentario/303132/) 
 
-	
 	manos a la obra! 💪
 
-* **iSebastiandiaz** (0)
+* **iSebastiandiaz** (0) [218215](https://platzi.com/comentario/218215/) 
 
-	
 	Mucho entusiasmo al empezar este curso, muy buenos los dos anteriores (Diseño web y Diseño web responsive), espero este también este a la altura!
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [218215] (1)
 
-		
 		Es particularmente mi curso favorito ❤️
 
-* **David Daniel Castillo Nava** (0)
+* **David Daniel Castillo Nava** (0) [175862](https://platzi.com/comentario/175862/) 
 
-	
 	Pagar suscripcion para comezar este curso :p!
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [175862] (0)
 
-		
 		Bienvenido, espero supere tus expectativas 😊😊
 
-* **henrytabimagiraldo** (0)
+* **henrytabimagiraldo** (0) [164723](https://platzi.com/comentario/164723/) 
 
-	
 	Genial!.. desde el diplomado esperando este curso 😄
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [164723] (1)
 
-		
 		Espero que aprendas mucho, recuerda que estoy para cualquier duda.
 
-## 0020. Introducción a las animaciones y micro interacciones en la web
+## 0020. Introducción a las animaciones y micro interacciones en la web [6821](https://platzi.com/clases/1103-animaciones-web/6821-introduccion-a-las-animaciones-y-micro-interaccion/)
 
 ### Descripción:
 
@@ -436,104 +360,84 @@ Motivado para iniciar
   * Ayudan a conectar una interfaz que solo está programada en algo que realmente está vivo.
   * La acción de un usuario interactuando con la interfaz y que ésta le de feedback de lo que está ocurriendo.
 
-
-
 **Recuerda:**  
 Las animaciones en una interfaz web son necesarias, ya que ninguna acción que ocurre en ésta se da de forma instantánea.
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (73)
+* **Leonidas Esteban Gonzalez** (73) [171595](https://platzi.com/comentario/171595/) 
 
-	
 	En 3 minutos veamos de donde y por qué son importantes las animaciones en nuestras interfaces ❤️
 
-	* **Juan Carlos Felizzola Vega** (3)
+	* **Juan Carlos Felizzola Vega** [171595] (3)
 
-		
 		Este curso va a estar genial!
 
-	* **Pablo Elias   Mercado Moreno** (2)
+	* **Pablo Elias   Mercado Moreno** [171595] (2)
 
-		
 		Empecé mi suscripción anual con un curso de Leonidas (des. web online) y acabe con un curso de Leonidas (animaciones) Grande Leonidas, excelentes cursos !
 
-	* **Jorge Wenner Arévalo Alvis** (1)
+	* **Jorge Wenner Arévalo Alvis** [171595] (1)
 
-		
 		😃
 
-	* **Enrique Mont** (1)
+	* **Enrique Mont** [171595] (1)
 
-		
 		Yei, siempre con toda la actitud Leonidas!
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [171595] (2)
 
-		
 		Wow, este curso ya tiene dos años y yo sin saber esto todavía … 😯
 
-	* **Félix Alejandro Zelaya Orellana** (1)
+	* **Félix Alejandro Zelaya Orellana** [171595] (1)
 
-		
 		Genial!!
 
-	* **Hdas** (1)
+	* **Hdas** [171595] (1)
 
-		
 		Sos un muy buen profesor
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [171595] (1)
 
-		
 		Con muchas ganas de terminar este curso sensei
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [171595] (1)
 
-		
 		Genial
 
-	* **jesus-gallardo** (1)
+	* **jesus-gallardo** [171595] (1)
 
-		
 		Muy bueno !
 
-* **Luis Osvaldo  Ledo Torrez** (10)
+* **Luis Osvaldo  Ledo Torrez** (10) [184931](https://platzi.com/comentario/184931/) 
 
-	
 	me gusto mucho la relación entre Windows y lento jejeje
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [184931] (2)
 
-		
 		je je je no necesariamente es lento pero siempre recuerdo mucho los loading pages
 
-	* **Rene Ismael Barrios Rojas** (0)
+	* **Rene Ismael Barrios Rojas** [184931] (0)
 
-		
 		Si tienes windows con un ssd de estado solido y le das mantenimiento aun así windows vuela, aunque yo prefiero Mac iOs jajaj
 
-	* **Flor Viviana  Mireles Rivera** (0)
+	* **Flor Viviana  Mireles Rivera** [184931] (0)
 
-		
 		se nota el fanatismo -.-’’ a la manzana
 
-	* **Christian Navarro Urra** (1)
+	* **Christian Navarro Urra** [184931] (1)
 
-		
 		SSD de estado solido? jajajaj dijiste lo mismo dos veces compañero,  
 		Utilizas SSD o unidad de estado solido no al mismo tiempo 😉
 		
 		Y en respuesta a lo que dice @vivian93 no necesariamente fanatismo, yo utilizo un macbook y aún así considero que Windows es un gran sistema
 
-* **Diego Fernando Berrio Meza** (9)
+* **Diego Fernando Berrio Meza** (9) [410142](https://platzi.com/comentario/410142/) 
 
-	
 	Leonidas es un pro hasta la cancion nos tarareo jaajajja
 
-* **Juan Carlos García Esquivel** (5)
+* **Juan Carlos García Esquivel** (5) [865893](https://platzi.com/comentario/865893/) 
 
-	
 	## Animaciones
 	
 	Las animaciones se definen cómo el proceso de dar la sensación de movimiento, se producen por la transición de un punto **A** a un punto **B** ● ➡️ ⦿, sirven para indicar al usuario que algo esta pasando y son una forma de darle vida a la interfaz.
@@ -543,89 +447,72 @@ Las animaciones en una interfaz web son necesarias, ya que ninguna acción que o
 	  * **Transition**
 	  * **Transform**
 	  * **Animation**
-	
-	
 
-* **Santiago Restrepo Rueda** (5)
+* **Santiago Restrepo Rueda** (5) [633572](https://platzi.com/comentario/633572/) 
 
-	
 	Las animaciones son una forma natural de enseñanza, nos ayuda a retroalimentar y dar feedback sobre lo ocurre en nuestra aplicación; es uno de los principios de usabilidad de que ha definido Jakob Nielsen.
 
-	* **dbustamante** (1)
+	* **dbustamante** [633572] (1)
 
-		
 		Buen dato, Santiago, muchas gracias. Investigué un poco más sobre los principios de Nielsen y están súper interesantes!!
 
-* **juanadolfomaldonadopolo** (5)
+* **juanadolfomaldonadopolo** (5) [343369](https://platzi.com/comentario/343369/) 
 Una aclaración un computador no "Piensa" - Procesa!
 
-* **Emanuel Valero** (3)
+* **Emanuel Valero** (3) [920131](https://platzi.com/comentario/920131/) 
 
-	
 	Aca comparto la documentación de W3S sobre animaciones: <https://www.w3schools.com/css/css3_animations.asp>. En la página aparece la definición de animación en CSS, así como varios ejemplos ilustrativos.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [920131] (1)
 
-		
 		Que buen aporte compañero !!
 
-* **karinaportuguez** (3)
+* **karinaportuguez** (3) [450268](https://platzi.com/comentario/450268/) 
 
-	
 	tarara ra raran tara ra rara raran tarara rara taratan jajajaja mejor explicado imposible
 
-	* **Cristian Orozco Benjumea** (2)
+	* **Cristian Orozco Benjumea** [450268] (2)
 
-		
 		aventuras animadas de ayer y hoy 😄
 
-	* **Hdas** (2)
+	* **Hdas** [450268] (2)
 
-		
 		Un clásico
 
-* **LiamDi89** (3)
+* **LiamDi89** (3) [444876](https://platzi.com/comentario/444876/) 
 
-	
 	Mi cuarto curso con Leonidas!!! Buen Profesor, sus clases muy entretenidas y lo mejor, es colega maestro pókemon!!!
 
-* **Billi Ramirez** (3)
+* **Billi Ramirez** (3) [373414](https://platzi.com/comentario/373414/) 
 
-	
 	Las animaciones en las interfaces web son necesarias para dar feedback a los usuarios, ya sea cuando una acción se completó rápido, o cuando necesitas que tu usuario espere un poco de algún proceso que se está ejecutando. CSS provee herramientas, para cada vez más dar mejor UX a nuestros usuarios.
 
-	* **Hdas** (1)
+	* **Hdas** [373414] (1)
 
-		
 		Buena información gracias
 
-* **Victor Alejandro Alvarez Tallada** (3)
+* **Victor Alejandro Alvarez Tallada** (3) [356337](https://platzi.com/comentario/356337/) 
 
-	
 	Muy buena introducción, siempre me a llamado la atención la animación, poder hacer las paginas mas fluidas con css, me motiva mucho 😄
 
-* **Kevin Vega** (2)
+* **Kevin Vega** (2) [1048689](https://platzi.com/comentario/1048689/) 
 
-	
 	 **por si quedaron perdidos al oir engagement al igual que yo**  
 	La palabra engagement proviene del inglés y su traducción literal es «compromiso». No obstante, el término se utiliza en marketing online para denominar el grado de implicación emocional que tienen los seguidores de una empresa en redes sociales con dicha empresa.
 
-* **Diego Guillermo Yovera Coveñas** (2)
+* **Diego Guillermo Yovera Coveñas** (2) [1026435](https://platzi.com/comentario/1026435/) 
 
-	
 	Nadie, absolutamente nadie  
 	Leonidas Esteban (seg 45):  
 	tararararan tararararan tarararan tan tan tan
 
-* **jorge-gianareas** (2)
+* **jorge-gianareas** (2) [984437](https://platzi.com/comentario/984437/) 
 
-	
 	Recuerda:  
 	Las animaciones en una interfaz web son necesarias, ya que ninguna acción que ocurre en ésta se da de forma instantánea.
 
-* **jorge-gianareas** (2)
+* **jorge-gianareas** (2) [984436](https://platzi.com/comentario/984436/) 
 
-	
 	¿Qué son la animaciones?
 	
 	La transición que ocurre entre un punto A y un punto B.  
@@ -634,14 +521,12 @@ Una aclaración un computador no "Piensa" - Procesa!
 	Ayudan a conectar una interfaz que solo está programada en algo que realmente está vivo.  
 	La acción de un usuario interactuando con la interfaz y que ésta le de feedback de lo que está ocurriendo.
 
-* **maria-del-carmen-rodriguez** (2)
+* **maria-del-carmen-rodriguez** (2) [968562](https://platzi.com/comentario/968562/) 
 
-	
 	Ningún curso mejor que uno del gran Leonidas Esteban
 
-* **Carlos Eduardo Diaz Polanco** (2)
+* **Carlos Eduardo Diaz Polanco** (2) [948117](https://platzi.com/comentario/948117/) 
 
-	
 	![0_vUKJTBhnHua6SzZG.png](https://static.platzi.com/media/user_upload/0_vUKJTBhnHua6SzZG-63d3e471-4979-4dc0-b097-09bda2aa2241.jpg)  
 	⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️  
 	**Animaciones CSS**
@@ -653,30 +538,24 @@ Una aclaración un computador no "Piensa" - Procesa!
 	🎈 Transform.  
 	🎈 Animation.
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [814557](https://platzi.com/comentario/814557/) 
 
-	
 	Muy emocionado de este curso de animación. La animación, me encanta!
 
-* **David Alejandro Mosquera Moreno** (2)
+* **David Alejandro Mosquera Moreno** (2) [811253](https://platzi.com/comentario/811253/) 
 
-	
 	Pilares:
 	
 	  * **Transitions**
 	  * **Transforms**
 	  * **Animations**
-	
-	
 
-* **jose-morales-varon** (2)
+* **jose-morales-varon** (2) [768226](https://platzi.com/comentario/768226/) 
 
-	
 	Implementar animaciones nunca se había visto tan fácil 👌
 
-* **Enrique Felix Garcia Stave** (2)
+* **Enrique Felix Garcia Stave** (2) [612672](https://platzi.com/comentario/612672/) 
 
-	
 	 **¿Qué es animación?**
 	
 	Una animación es esa transición de lo que ocurre entre un punto A y un punto B, es decir, Lo que ocurre en medio, por ejemplo: Un dibujo animado.
@@ -687,14 +566,12 @@ Una aclaración un computador no "Piensa" - Procesa!
 	
 	CSS3 nos permite implementar transiciones (Transitions), transformaciones (Transforms) y animaciones (Animations).
 
-	* **Alejo Fonseca** (1)
+	* **Alejo Fonseca** [612672] (1)
 
-		
 		Excelente
 
-* **Paola_Porras** (2)
+* **Paola_Porras** (2) [604739](https://platzi.com/comentario/604739/) 
 
-	
 	**¿Qué son la animaciones?  
 	**
 	
@@ -707,115 +584,92 @@ Una aclaración un computador no "Piensa" - Procesa!
 	
 	  * La acción de un usuario interactuando con la interfaz y que ésta le de feedback de lo que está ocurriendo.
 	
-	
-	
-	
 	**Recuerda:**  
 	Las animaciones en una interfaz web son necesarias, ya que ninguna acción que ocurre en ésta se da de forma instantánea.
 
-* **Davison Pimentel** (2)
+* **Davison Pimentel** (2) [556556](https://platzi.com/comentario/556556/) 
 
-	
 	Leonidas eres Grande
 
-* **Luis Fernando Valladares Castro** (2)
+* **Luis Fernando Valladares Castro** (2) [551784](https://platzi.com/comentario/551784/) 
 
-	
 	Hola a todos, soy un viejo alumno del curso y deseo compartirles una **Guia de Animaciones para la Web** basada en los conocimientos adquiridos en este curso para que pueda servirles como una referencia y ayuda extra a lo largo del mismo.
 	
 	Cabe mencionar que la guía cuenta con un _pagina web demostrativa_ , la cual, integra la mayoría de las animaciones diseñadas a lo largo del curso.
 	
 	**Enlace:**<https://github.com/LuisValladaresC/animaciones-css>
 
-* **platzipcimx** (2)
+* **platzipcimx** (2) [483482](https://platzi.com/comentario/483482/) 
 
-	
 	De nuevo, con toda la actitud, rumbo al ser un Desarrollador Frontend…
 
-* **Pablo Domínguez Durán** (2)
+* **Pablo Domínguez Durán** (2) [467098](https://platzi.com/comentario/467098/) 
 
-	
 	Este curso podría ser una introducción a UX?
 
-	* **Jann Carlo Moreno Jiménez** (4)
+	* **Jann Carlo Moreno Jiménez** [467098] (4)
 
-		
 		No conozco mucho sobre el tema, pero más que ser una introducción yo lo tomaría como un plus al momento de aplicar UX.
 
-	* **Julián Cipagauta** (1)
+	* **Julián Cipagauta** [467098] (1)
 
-		
 		El ux es mucho más que los elementos de una web se muevan para ser más afín al usuario. Para ux tienes que aprender a escribir eficientemente, organizar y diseñar de forma objetiva, hacer que la interfaz sea intuitiva, no bonita per se.
 
-	* **Julián Rodríguez** (1)
+	* **Julián Rodríguez** [467098] (1)
 
-		
 		Dependiendo de la animación, sin embargo, si son animaciones de feedback al usuario, es decir le permiten al usuario entender el estado de la situación (cargando, grabando, cargó, etc), son animaciones que son necesarias y muy importantes en el diseño interactivo y por lo tanto en UX
 
-	* **Alessandri** (1)
+	* **Alessandri** [467098] (1)
 
-		
 		Si quieres dedicarte al UX lo ideal es que primero estudies acerca de las interfaces y cuales son las maneras mas adecuadas de dar feedback al usuario. Luego aprendes a realizarlas en tus paginas web con este curso
 
-* **JuanDAC** (2)
+* **JuanDAC** (2) [425459](https://platzi.com/comentario/425459/) 
 
-	
 	la trinidad de CSS ❤️
 
-* **Nicolas Esteban Prieto Sarmiento** (2)
+* **Nicolas Esteban Prieto Sarmiento** (2) [410009](https://platzi.com/comentario/410009/) 
 
-	
 	mikey russian
 
-* **JOVANNY NOGUEZ MORADO** (2)
+* **JOVANNY NOGUEZ MORADO** (2) [388201](https://platzi.com/comentario/388201/) 
 
-	
 	Me dio mucha risa el ejemplo de Peter.
 
-	* **Hdas** (1)
+	* **Hdas** [388201] (1)
 
-		
 		La rompe también me partí de risa
 
-* **Rafael Pardo Rodriguez** (2)
+* **Rafael Pardo Rodriguez** (2) [301035](https://platzi.com/comentario/301035/) 
 
-	
 	Leonidas habla muy rápido 😦
 
-	* **Ivan Robles** (3)
+	* **Ivan Robles** [301035] (3)
 
-		
 		Puedes cambiar la **velocidad de reproducción** a en los controles del video a un lado de la calidad, donde dice 1x puedes bajar hasta 0.5x o 0.85x si lo prefieres 😉
 
-	* **Rafael Pardo Rodriguez** (0)
+	* **Rafael Pardo Rodriguez** [301035] (0)
 
-		
 		Bueno, no habia pensado en eso :_D, ❤️
 
-* **David Behar** (1)
+* **David Behar** (1) [1091034](https://platzi.com/comentario/1091034/) 
 
-	
 	## [Les recomiendo los 12 principios de la animación de disney](https://www.notodoanimacion.es/los-12-principios-de-la-animacion-disney-libro/)
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1040672](https://platzi.com/comentario/1040672/) 
 
-	
 	Las animaciones son las transiciones que suceden de un elemento en un punto A que se transforma, se mueve o se desplaza hasta un punto. Es decir, la animación es cada uno de los detalles del proceso de un cambio que de manera rápida se ve de forma animada.  
 	Las animaciones nos permiten generar una sensación vida, es decir, si un elemento esta animado las personas tendrán un mayor enganche y relación con el elemento que están viendo.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1017001](https://platzi.com/comentario/1017001/) 
 
-	
 	Las **animaciones** se definen como la **transición** entre un **punto A y un punto B**. Las animaciones son **parte natural de las interfaces web** y son una interfaz web necesaria, ya que son una **forma natural de enseñanza** para el usuario, ayudan a conectar una interfaz que solo esta programada con la sensación que algo está realmente vivo. **Son necesarias la interacción de un usuario con la interfaz y que esta le dé retroalimentación ya que ninguna ocurre por si sola e instantánea **
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1017001] (1)
 
-		
 		En **CSS3** se introduce uno de los aspectos más interesantes en la web interactiva: las **transiciones**. En versiones anteriores de CSS sólo se podían utilizar ciertas funcionalidades interactivas con pseudoclases como :hover o :focus. Sin embargo, dichas transiciones ocurrían de golpe, pasando de un estado a otro. Ahora, con las transiciones, tenemos a nuestra disposición una **gran flexibilidad** que nos permitirá dotar de atractivos y elegantes efectos de transición que multiplicarán por mil las posibilidades de nuestros diseños.
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [954308](https://platzi.com/comentario/954308/) 
 
-	
 	Propiedades:
 	
 	  * transitions
@@ -823,70 +677,55 @@ Una aclaración un computador no "Piensa" - Procesa!
 	  * transform
 	
 	  * animations
-	
-	
-	
 
-* **juan esteban garcia** (1)
+* **juan esteban garcia** (1) [926542](https://platzi.com/comentario/926542/) 
 
-	
 	excelente!!!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [830120](https://platzi.com/comentario/830120/) 
 
-	
 	transitions transforms animations
 
-* **lmoran** (1)
+* **lmoran** (1) [784100](https://platzi.com/comentario/784100/) 
 
-	
 	Interesante, a aprender animaciones.
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [768225](https://platzi.com/comentario/768225/) 
 
-	
 	Transiciones entre A y B son igual a animaciones.
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [768206](https://platzi.com/comentario/768206/) 
 
-	
 	Espero aprender a hacer cosas increibles!
 
-* **Omar Alberto Alvarez Ortiz** (1)
+* **Omar Alberto Alvarez Ortiz** (1) [764936](https://platzi.com/comentario/764936/) 
 
-	
 	Super buena introducción Leonidas !
 
-* **Juan Torrealba** (1)
+* **Juan Torrealba** (1) [750298](https://platzi.com/comentario/750298/) 
 
-	
 	vamos a ello!!!
 
-* **cgsalvador13** (1)
+* **cgsalvador13** (1) [719420](https://platzi.com/comentario/719420/) 
 
-	
 	excelente!!!
 
-* **Moises10** (1)
+* **Moises10** (1) [625854](https://platzi.com/comentario/625854/) 
 
-	
 	La animaciones para mejorar la interactividad con los usuarios
 
-* **Aaron Felipe Isaacs** (1)
+* **Aaron Felipe Isaacs** (1) [580385](https://platzi.com/comentario/580385/) 
 
-	
 	He visto páginas que cuando están realizando ajustes o mantenimiento a la página muestran animaciones increíbles!
 	
 	Con toda la expectativa en este curso para aprender a crearlas!
 
-* **Vittorio Carlos Toledo Huarez** (1)
+* **Vittorio Carlos Toledo Huarez** (1) [530836](https://platzi.com/comentario/530836/) 
 
-	
 	Este curso va a estar bien chingón ♥
 
-* **Pmartinez** (1)
+* **Pmartinez** (1) [523033](https://platzi.com/comentario/523033/) 
 
-	
 	Qué son las animaciones??
 	
 	animaciones es generar sensación de movimiento de algo
@@ -895,34 +734,28 @@ Una aclaración un computador no "Piensa" - Procesa!
 	
 	Las animaciones son una forma natural de enseñanza
 
-* **elreydavid** (1)
+* **elreydavid** (1) [507958](https://platzi.com/comentario/507958/) 
 
-	
 	me interesa este curso
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [506366](https://platzi.com/comentario/506366/) 
 
-	
 	Es realmente increíble todo lo que se puede hacer con CSS!
 
-	* **Hdas** (1)
+	* **Hdas** [506366] (1)
 
-		
 		Es una herramienta muy versátil
 
-* **Félix Alejandro Zelaya Orellana** (1)
+* **Félix Alejandro Zelaya Orellana** (1) [506255](https://platzi.com/comentario/506255/) 
 
-	
 	Muy emocionado!!
 
-* **LucasFer** (1)
+* **LucasFer** (1) [502287](https://platzi.com/comentario/502287/) 
 
-	
 	Genio leonidas!!! Todos tus cursos pienso ver. Un crack enseñando. Gracias por todo
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [490357](https://platzi.com/comentario/490357/) 
 
-	
 	## Animaciones
 	
 	Animación es lo que ocurre en la transición de un punto ‘a’ a un punto ‘b’.
@@ -932,43 +765,36 @@ Una aclaración un computador no "Piensa" - Procesa!
 	  * Transitions
 	  * Transform
 	  * Animations
-	
-	
 
-* **davidbr** (1)
+* **davidbr** (1) [485814](https://platzi.com/comentario/485814/) 
 
-	
 	Ahora si vayamos al codigo
 
-* **Mateo Arias** (1)
+* **Mateo Arias** (1) [441909](https://platzi.com/comentario/441909/) 
 
-	
 	Las animaciones son parte natural de las interfaces, teniendo en cuenta que ninguna acción es instantánea, y hace ver que las acciones demoradas no se vean tan lentas, ejemplos claros son los de twitter o en uber, las animaciones son una forma natural de enseñanza que ayudan a mejorar el engagement.
 
-* **camilo rincon** (1)
+* **camilo rincon** (1) [406708](https://platzi.com/comentario/406708/) 
 
-	
 	Excelente introducción.
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [49418](https://platzi.com/comentario/467098/) 
 Este curso podría ser una introducción a UX?
 
-	* **Jann Carlo Moreno Jiménez** (4)
+	* **Jann Carlo Moreno Jiménez** [49418] (4)
 
-		
 		No conozco mucho sobre el tema, pero más que ser una introducción yo lo tomaría como un plus al momento de aplicar UX.
 
-* **Jonatan David Padilla** (0)
+* **Jonatan David Padilla** (0) [325953](https://platzi.com/comentario/325953/) 
 
-	
 	 **“Es una forma de conectar una interfaz programada a algo que realmente esta vivo”**
 
-* **Alan Santiago** (0)
+* **Alan Santiago** (0) [320649](https://platzi.com/comentario/320649/) 
 Muy buena introducción :0
 
-# Transiciones 
+# Transiciones  [1096]
 
-## 0030. Sintaxis de transiciones
+## 0030. Sintaxis de transiciones [6822](https://platzi.com/clases/1103-animaciones-web/6822-sintaxis-de-transiciones/)
 
 ### Descripción:
 
@@ -979,12 +805,10 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 
 ### Comentarios:
 
-* **Gabriel Alejandro Nuñez Natera** (86)
+* **Gabriel Alejandro Nuñez Natera** (86) [173769](https://platzi.com/comentario/173769/) 
 
-	
 	Las transiciones CSS pueden especificarse usando varias propiedades:
-	``` 
-	    /*Qué propiedades va a cambiar en la transición*/
+	```     /*Qué propiedades va a cambiar en la transición*/
 	    transition-property: width, height;
 	    
 	    /*Cuánto tiempo va a durar la transición*/
@@ -999,51 +823,42 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	```
 	
 	O en una sola línea:
-	``` 
-	    /*Cada propiedad a cambiar se separa con una coma*/
+	```     /*Cada propiedad a cambiar se separa con una coma*/
 	    transition: width1s 250ms ease, height1s 250ms ease;
 	    
 	```
 
-	* **Jorge Wenner Arévalo Alvis** (2)
+	* **Jorge Wenner Arévalo Alvis** [173769] (2)
 
-		
 		genial
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [173769] (1)
 
-		
 		Gracias!!
 
-	* **zalotesta** (1)
+	* **zalotesta** [173769] (1)
 
-		
 		Superb!!! 😃
 
-	* **lee-edmar** (1)
+	* **lee-edmar** [173769] (1)
 
-		
 		Excelente aporte…
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [173769] (1)
 
-		
 		Gracias
 
-	* **EdwFabMar** (1)
+	* **EdwFabMar** [173769] (1)
 
-		
 		Muy buen aporte, gracias
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [173769] (1)
 
-		
 		crack !!!  
 		buen aporte compañero
 
-* **deveeup** (21)
+* **deveeup** (21) [198098](https://platzi.com/comentario/198098/) 
 
-	
 	Transition es compatible con todos los navegadores excepto Opera Mini.  
 	<http://caniuse.com/#search=transition>
 	
@@ -1055,42 +870,33 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	  * ease-out: Especifica un efecto de transición con un final lento.
 	  * ease-in-out: Especifica un efecto de transición con un inicio y fin lentos.
 	  * cubic-bezier(n,n,n,n): Le permite definir sus propios valores en una función.
-	
-	
 
-* **Jonatan Ruben Sosa Caycay** (13)
+* **Jonatan Ruben Sosa Caycay** (13) [278979](https://platzi.com/comentario/278979/) 
 
-	
 	Para los que usan VS code como yo, usen el plugin [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer), te genera un servidor local que se recarga en vivo para páginas estáticas y dinámicas, así ya no recargas en cada cambio.
 
-	* **Johan_Marcel** (1)
+	* **Johan_Marcel** [278979] (1)
 
-		
 		Es cierto, es muy util. Yo tambien lo uso. 😃
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [278979] (1)
 
-		
 		Live Server te super echa el paro!
 
-	* **Hdas** (1)
+	* **Hdas** [278979] (1)
 
-		
 		Muchas gracias buen aporte
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [278979] (1)
 
-		
 		Cierto tambien lo uso, muy chevre y util.
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [278979] (1)
 
-		
 		Cierto tambien lo uso, muy chevre y util.
 
-* **Marco Aurelio Elizalde Torres** (10)
+* **Marco Aurelio Elizalde Torres** (10) [204991](https://platzi.com/comentario/204991/) 
 
-	
 	Con **transiciones** CSS, podemos hacer un cambio de un punto “A” a “B”, ya se color, tamaño, posición.
 	
 	Las propiedades de **transition** son:  
@@ -1099,34 +905,26 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	**transition-delay** : tiempo que espera para iniciar la transición  
 	**transition-timing-function** : una propiedad de aceleración
 
-* **Fabian Gutierrez** (7)
+* **Fabian Gutierrez** (7) [168655](https://platzi.com/comentario/168655/) 
 
-	
 	para no estar descargando pueden usar browser-sync con node
 
-	* **Leonidas Esteban Gonzalez** (16)
+	* **Leonidas Esteban Gonzalez** [168655] (16)
 
-		
 		  * recargando
-		
-		
 
-	* **Fabian Gutierrez** (2)
+	* **Fabian Gutierrez** [168655] (2)
 
-		
 		xD
 
-	* **irma-davila** (2)
+	* **irma-davila** [168655] (2)
 
-		
 		jajajajaj
 
-* **Jhosep Pérez** (6)
+* **Jhosep Pérez** (6) [622611](https://platzi.com/comentario/622611/) 
 
-	
 	Parte de mi documentación.
-	``` 
-	    Propiedad Transition.
+	```     Propiedad Transition.
 	    
 	    Documentación completa:
 	    https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function
@@ -1150,42 +948,35 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	    
 	```
 
-	* **DavidArmandoVelazquez** (1)
+	* **DavidArmandoVelazquez** [622611] (1)
 
-		
 		Gracias 😃
 
-* **Esteban Jossue  Galdamez Perez** (6)
+* **Esteban Jossue  Galdamez Perez** (6) [190023](https://platzi.com/comentario/190023/) 
 
-	
 	¿qué ventaja supone CSS contra libs de js animación?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (7)
+	* **Diego Alexander Forero Higuera (Platzi)** [190023] (7)
 
-		
 		Las animaciones con CSS a mi parecer son más livianas en cuanto a consumo de recursos del cliente.
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [190023] (4)
 
-		
 		Si la lib de js no están optimizadas pueden ser lentas. Pero es muy simple. Si loquera quieres hacer es posible con CSS usa CSS, sino ahí si piensa en usar una lib.
 
-	* **Ricardo Medina** (0)
+	* **Ricardo Medina** [190023] (0)
 
-		
 		Para mi las animaciones en css son mas elegantes y fluidas en el navegador…
 
-	* **Victor Alejandro Alvarez Tallada** (5)
+	* **Victor Alejandro Alvarez Tallada** [190023] (5)
 
-		
 		css -> mejor rendimiento  
 		js -> mayor control  
 		dejo vídeo para complementar:  
 		[https://www.youtube.com/watch?v=AmtuzkiB2Yo&t=755s](https://www.youtube.com/watch?v=AmtuzkiB2Yo&t=755s)
 
-* **Carlos Eduardo Diaz Polanco** (5)
+* **Carlos Eduardo Diaz Polanco** (5) [948188](https://platzi.com/comentario/948188/) 
 
-	
 	 **Transition:**
 	
 	Una transicion sucede cuando existe un cambio en una o mas propiedades css asignadas a un selector, normalmente el cambio es de manera inmediata, pero mediante la propiedad Transition podremos personalizar como se visualizara.  
@@ -1200,24 +991,21 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	────────────────────────────────────────────────
 	
 	**transition-duration:** define el tiempo en segundos o ms que durara la transición cuando ocurra un cambio es las propiedades de la etiqueta al que el selector CSS hace referencia. Esta propiedad es la única requerida para establecer una transición.
-	``` 
-	    .selector {                                          
+	```     .selector {                                          
 	                 transition-duration: 2000ms ó 2s  
 	            }
 	    
 	```
 	
 	**transition-delay:** define un retardo en el comienzo de la transición cuando ocurra un cambio es las propiedades de la etiqueta al que el selector CSS hace referencia.
-	``` 
-	    .selector {                                          
+	```     .selector {                                          
 	                transition-duration: background-color, width, height;
 	            }
 	    
 	```
 	
 	**transition-property:** define un listado de propiedades separado por coma que podrán ser afectadas por la transición si ocurre algún cambio en su valor. Por defecto todas las propiedades podrán reaccionar.
-	``` 
-	     .selector {                                          
+	```      .selector {                                          
 	                transition-duration: background-color, width, height;
 	            } 
 	    
@@ -1231,8 +1019,7 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	🍀 **linear** : define un efecto sin aceleración, es decir, constante durante todo el trazo  
 	🍀 **steps(0)** : define la aceleración en frames, que son los pasos que dará el selector para completarla.  
 	🍀 **cubic-bezier (0, 0, 0, 0)** : define una aceleración personalizada mediante una configuración avanzada, la cual, consta de 4 valores de -1 a 1.
-	``` 
-	    .selector {                                          
+	```     .selector {                                          
 	               transition-timing-function: ease;
 	               transition-timing-function: ease-in;
 	               transition-timing-function: ease-out;
@@ -1244,14 +1031,12 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	    
 	```
 
-	* **Eduardo Hernand** (1)
+	* **Eduardo Hernand** [948188] (1)
 
-		
 		Excelente aporte, Gracias!!!
 
-* **Juan Carlos García Esquivel** (4)
+* **Juan Carlos García Esquivel** (4) [865964](https://platzi.com/comentario/865964/) 
 
-	
 	## Sintaxis de transiciones
 	
 	**Transición:** paso o cambio de estado.⚪️⚫️🔵
@@ -1259,62 +1044,51 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	La propiedad **transition** permite definir un cambio entre dos estados de un elemento,  
 	Hay diferentes estados que pueden ser definidos por pseudo-clases de CSS como:
 	
-	  1. **:hover**
-	  2. **:active**
-	  3. o en su defecto con JavaScript
-	
-	
+	    1. **:hover**
+	    2. **:active**
+	    3. o en su defecto con JavaScript
 	
 	**Propiedades de una transición**
 	
-	  1. **transition-property:** 🔴  
+	    1. **transition-property:** 🔴  
 	Se colocan las propiedades que van a cambiar.
-	  2. **transition-duration:** ⌛️  
+	    2. **transition-duration:** ⌛️  
 	Cuánto tiempo (segundos o milisegundos) va a durar el cambio de las propiedades.
-	  3. **transition-delay:** ⌛️  
+	    3. **transition-delay:** ⌛️  
 	Tiempo de espera (segundos o milisegundos) antes de comenzar la transición.
-	  4. **transition-timing-function:** 🏁  
+	    4. **transition-timing-function:** 🏁  
 	Define la aceleración de la animación.
-	
-	
 	
 	**Es unico requisito es una interacción por parte el usuario 👩🏽‍💻**
 
-* **Pablo Domínguez Durán** (4)
+* **Pablo Domínguez Durán** (4) [467147](https://platzi.com/comentario/467147/) 
 
-	
 	Si les gusta tener un material de apoyo como a mí, les dejo la página de [CSS Tricks](https://css-tricks.com/almanac/properties/a/animation/)
 
-	* **Hdas** (1)
+	* **Hdas** [467147] (1)
 
-		
 		Muchas gracias buen aporte
 
-* **Sebastian_Arbona** (4)
+* **Sebastian_Arbona** (4) [453544](https://platzi.com/comentario/453544/) 
 
-	
 	recuerden que pusieron tiempo de delay así que tienen que esperar la animación. yo pensaba que lo estaba haciendo mal pero no era así solo tenia el delay jaja
 
-* **Jonatan David Padilla** (4)
+* **Jonatan David Padilla** (4) [325956](https://platzi.com/comentario/325956/) 
 
-	
 	Les dejo un enlace con un tutorial a cerca de las trasniciones que hice hace poco
 	
 	<https://platzi.com/html5-css3/tutoriales/transiciones-de-css/>
 
-* **Emanuel Valero** (3)
+* **Emanuel Valero** (3) [920136](https://platzi.com/comentario/920136/) 
 
-	
 	Las transiciones en CSS permiten observar cambios suaves del valor de una propiedad, durante un tiempo determinado. En el sitio del W3C se puede consultar más información y ejemplos: <https://www.w3schools.com/css/css3_transitions.asp>
 
-* **amir-schneider** (3)
+* **amir-schneider** (3) [839817](https://platzi.com/comentario/839817/) 
 
-	
 	El like en Platzi, No?
 
-* **lmoran** (3)
+* **lmoran** (3) [784363](https://platzi.com/comentario/784363/) 
 
-	
 	 **SINTAXIS DE TRANSICIONES:**  
 	• **Transition:** Para agregar un efecto  
 	• **transition-delay:** Es el tiempo de espera para que ocurra la transición, especifica un retraso (en segundos) para el efecto de transición.  
@@ -1329,59 +1103,49 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	 _ease-in-out_ \- especifica un efecto de transición con inicio y fin lentos  
 	 _cubic-bezier(n,n,n,n)_ \- le permite definir sus propios valores en una función de cubic-bezier
 
-* **durbonca** (3)
+* **durbonca** (3) [711550](https://platzi.com/comentario/711550/) 
 
-	
 	Les dejo acá el código realizado y mejorado para quien les sirva
 	
 	<https://codepen.io/durbonca/pen/GRKEojg>
 
-	* **Cristobal Vega** (1)
+	* **Cristobal Vega** [711550] (1)
 
-		
 		:v
 
-* **Moises10** (3)
+* **Moises10** (3) [625912](https://platzi.com/comentario/625912/) 
 
-	
 	Aquí pueden leer la documentación de las animaciones .  
 	<https://www.w3schools.com/css/css3_animations.asp>
 
-	* **Manuel Antonio Reyes** (1)
+	* **Manuel Antonio Reyes** [625912] (1)
 
-		
 		Es una excelente referencia, después de cada clase de Leonidas siempre lo complemento con esa WEB.
 
-* **vanessahema93** (3)
+* **vanessahema93** (3) [478421](https://platzi.com/comentario/478421/) 
 
-	
 	Es irónico que ahora tu preferido sea VSCode Leonidas :V Lo dijiste en el curso de Desarrollo Web :V
 
-	* **Hdas** (1)
+	* **Hdas** [478421] (1)
 
-		
 		VS Code tiene muchas herramientas incorporadas muy útiles
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [478421] (1)
 
-		
 		¡Hola! Aparte de que VSCode es el más usado nos provee de diferentes herramientas a nosotros como desarrolladores para lograr nuestros objetivos
 
-* **Andrés Aristizabal** (3)
+* **Andrés Aristizabal** (3) [452601](https://platzi.com/comentario/452601/) 
 
-	
 	Es posible unificar las propiedades:  
 	transition-property, transition-delay y transition-timing-function de la siguiente manera.  
 	.circle { transition: all 1s ease: }
 
-* **lenielluzardo** (2)
+* **lenielluzardo** (2) [842591](https://platzi.com/comentario/842591/) 
 
-	
 	Cuando solamente usas la propiedad "transition"  
 	y tengas mas de una propiedad que sufre cambios (en este caso width y heigh), puedes usar el valor/atributo “all” para indicarle a CSS que tome en cuenta todas las propiedades que sufren cambios.  
 	Ejemplo:
-	``` 
-	    <.pelota {
+	```     <.pelota {
 	    background-color: red;
 	    width: 100px;
 	    height:100x;
@@ -1398,12 +1162,10 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	
 	[fuente](https://css-tricks.com/almanac/properties/t/transition/)
 
-	* **conejo22** (1)
+	* **conejo22** [842591] (1)
 
-		
 		No es necesario poner el all, incluso el ease tampoco ya que es el que está por defecto , tan solo con esto serviría si quieres animar todas las propiedades de dicho elemento
-		``` 
-		    < 
+		```     < 
 		    .pelota {
 		    background-color: red;
 		    width: 100px;
@@ -1415,49 +1177,41 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 		    
 		```
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [814642](https://platzi.com/comentario/814642/) 
 
-	
 	Les recomiendo mucho el libro: “The animator´s Survival Kit”.  
 	Les ayudará mucho a comprender la animación.  
 	[https://www.amazon.com.mx/Animators-Survival-Kit-Principles-Classical/dp/086547897X/ref=asc_df_086547897X/?tag=gledskshopmx-20&linkCode=df0&hvadid=316044388519&hvpos=1o1&hvnetw=g&hvrand=15907546350822655155&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047093&hvtargid=pla-395340047230&psc=1](https://www.amazon.com.mx/Animators-Survival-Kit-Principles-Classical/dp/086547897X/ref=asc_df_086547897X/?tag=gledskshopmx-20&linkCode=df0&hvadid=316044388519&hvpos=1o1&hvnetw=g&hvrand=15907546350822655155&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047093&hvtargid=pla-395340047230&psc=1)
 
-* **Jhon Alexander Alvarez Romero** (2)
+* **Jhon Alexander Alvarez Romero** (2) [808416](https://platzi.com/comentario/808416/) 
 
-	
 	cual seria el transition-timing-function mas utilizado?
 
-	* **Daniel Esteves** (2)
+	* **Daniel Esteves** [808416] (2)
 
-		
 		`ease-in-out` 👈 es el más utilizado ya que provee un smoth al momento de realizar la animación, su desarrollo y final
 
-* **Rafael Cisneros Torres** (2)
+* **Rafael Cisneros Torres** (2) [804179](https://platzi.com/comentario/804179/) 
 
-	
 	Para utilizar ambas el WIDTH Y HEIGHT se tienen que separar con una coma “,” al utilizar solo TRANSITION.
 	
 	transition: width 1s 1s ease, height 1s 1s ease;
 
-* **33andres33** (2)
+* **33andres33** (2) [799464](https://platzi.com/comentario/799464/) 
 
-	
 	No se si esta funcion ya existia hace mucho pero se puede reproducir el video en cualquier parte de la pantalla
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [799464] (1)
 
-		
 		Hasta hace poco la integraron en Platzi. Pero ya se había visto en otros motores de búsqueda como Opera.
 
-	* **Daniel Esteves** (2)
+	* **Daniel Esteves** [799464] (2)
 
-		
 		¡Hola! Esta función se llama Picture-in-Picture es un esfuerzo que pusimos en el equipo para lograr hacer más cómodo el aprendizaje de todos nuestros estudiantes 💪
 
-* **Omar Alberto Alvarez Ortiz** (2)
+* **Omar Alberto Alvarez Ortiz** (2) [764945](https://platzi.com/comentario/764945/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -1489,47 +1243,40 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	    
 	```
 
-* **Yasin Sama** (2)
+* **Yasin Sama** (2) [714457](https://platzi.com/comentario/714457/) 
 
-	
 	alguien me podría ayudar con lo siguiente?
 	
 	Cuando pongo hover a “.pelota”, y le paso el mouse por encima del elemento, la animación ocurre perfectamente y de forma **lenta** (1s), el tema es cuando le saco el mouse, la animación vuelve a la normalidad pero de una forma rapidísima y no lenta, sutil, a que se debe esto??. Me explico con la pregunta??
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [714457] (1)
 
-		
 		Prueba con un delay para ver como se comporta.
 
-* **Jhon Alexander Perez Valencia** (2)
+* **Jhon Alexander Perez Valencia** (2) [596736](https://platzi.com/comentario/596736/) 
 
-	
 	#TeamVSCODE
 
-* **adevesa** (2)
+* **adevesa** (2) [566944](https://platzi.com/comentario/566944/) 
 
-	
 	Se pueden acceder a todos los ejemplos en el curso desde el Github de Leonidas Esteban.
 	
 	<https://github.com/LeonidasEsteban/css-grid-layout-curso>
 	
 	Para aquellos que lo necesiten.
 
-* **Davison Pimentel** (2)
+* **Davison Pimentel** (2) [556585](https://platzi.com/comentario/556585/) 
 
-	```
-	    transition: all 1s ease;
+	```    transition: all 1s ease;
 	    
 	```
 
-* **maoacrlearn** (2)
+* **maoacrlearn** (2) [514090](https://platzi.com/comentario/514090/) 
 
-	
 	comienzo a convercerme de que lo mio es el Frontend
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [490831](https://platzi.com/comentario/490831/) 
 
-	
 	## Transitions
 	
 	_**transition**_ es una propiedad de CSS3 para crear animaciones.
@@ -1548,44 +1295,34 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	
 	  * `transition: porperty | duration | delay | timing-function ;` /* shorthand */
 	
-	
-	
-	
 	_**transition-duration**_ es la única propiedad requerida para que funcione el efecto de transición. Si sólo uso esta propiedad, las _propiedades que cambian son todas_ , el _delay es 0ms_ y el _timing-function_ es _ease_.
 
-* **Cristian Orozco Benjumea** (2)
+* **Cristian Orozco Benjumea** (2) [475867](https://platzi.com/comentario/475867/) 
 
-	
 	Todo lo de style realmente debería ir en un archivo aparte .css?
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [475867] (1)
 
-		
 		Normalmente si, pero no es necesario.
 
-	* **vanessahema93** (1)
+	* **vanessahema93** [475867] (1)
 
-		
 		No es necesario, pero en casos en los que tu CSS o tu HTML son muy extensos, si es muy útil tener tus estilos separados para no generar confusiones. Es una práctica recomendable.
 
-	* **David Camilo Latorre Monroy (Platzi)** (1)
+	* **David Camilo Latorre Monroy (Platzi)** [475867] (1)
 
-		
 		No es necesario, pero es una buena práctica para evitar código spaghetti
 
-	* **Hdas** (1)
+	* **Hdas** [475867] (1)
 
-		
 		También hace mas fácil la depuración
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [475867] (1)
 
-		
 		Es recomendable en todos los casos a menos que solo tengas 15 líneas de CSS, ahí es mejor ponerlo en el HTML y listo
 
-* **Rob Arroyo** (2)
+* **Rob Arroyo** (2) [470754](https://platzi.com/comentario/470754/) 
 
-	
 	 **transition-property:** nos indica las propiedades que cambiarán durante la transición de un elemento
 	
 	**transition-duration:** nos indica el tiempo que durará la transición
@@ -1595,39 +1332,33 @@ Para que una transición ocurra debe existir una interacción del usuario contem
 	**transition-timing-function:** indica la propiedad de aceleración con la que se ejecutará la transición
 	
 	**transition:** es la manera corta de ejecutar todas las fases de la transición, separando con comas cada propiedad a ejecutar, por ejemplo:
-	``` 
-	     transition: width1s ease, height1s ease;
+	```      transition: width1s ease, height1s ease;
 	    
 	```
 
-	* **Alejo Fonseca** (2)
+	* **Alejo Fonseca** [470754] (2)
 Muchas gracias
 
-* **Edwin** (2)
+* **Edwin** (2) [170653](https://platzi.com/comentario/170653/) 
 
-	
 	Hello. Una pregunta ¿las páginas renderizan mucho más lento la página web o al ser css y actuar en el cliente se puede poner cualquier cantidad de animaciones ?  
 	Espero respuestas gracias…
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [170653] (4)
 
-		
 		En un computador muy viejo seguramente se va a notar alguna lentitud pero en general no tienes nada de que preocuparte y en especial los métodos usados en el curso están pensados en que las animaciones corran con muy buen rendimiento.
 
-	* **Edwin** (1)
+	* **Edwin** [170653] (1)
 
-		
 		Muy bien Leonidas seguiremos aprendiendo un poco más gracias.
 
-* **mauroquinteros** (1)
+* **mauroquinteros** (1) [1056517](https://platzi.com/comentario/1056517/) 
 
-	
 	Por los que no entendieron lo que hace transition-timing-function aquí habla más sobre eso  
 	<http://w3.unpocodetodo.info/css3/transitions.php>
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1048714](https://platzi.com/comentario/1048714/) 
 
-	
 	atajo para comentar en sublime Text: CTRL + } => comenta todo el texto seleccionado
 	
 	en visual studio code es => CTRL + k y luego CTRL + C
@@ -1635,44 +1366,32 @@ Muchas gracias
 	**Mas sobre transiciones**  
 	<https://developer.mozilla.org/es/docs/Web/CSS/Transiciones_de_CSS>
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1040681](https://platzi.com/comentario/1040681/) 
 
-	
 	Css de forma nativa nos ofrece una propiedad que nos permite crear animaciones de una manera ágil, esta propiedad es transition, por defecto hará que el elemento que tenga esta propiedad, sufra de una animación si en algún momento llega a ver un cambio en el mismo elemento, la forma en que se anime va a depender de como lo especifiquemos con ciertos valores u otras propiedades.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1019648](https://platzi.com/comentario/1019648/) 
 
-	
 	Las **transiciones** se basan en un principio muy básico, conseguir un efecto suavizado entre un estado inicial y un estado final. Las propiedades relacionadas que existen son las siguientes:
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1019648] (1)
 
-		
 		  * La propiedad **transition-property** se utiliza para especificar la propiedad a la que afectará. Podemos especificar la propiedad concreta (width o color, por ejemplo) o simplemente especificar all para que se aplique a todos los elementos con los que se encuentre.
-		
-		
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1019648] (1)
 
 		  * la propiedad **transition-duration** especificaremos la duración de la transición, desde el inicio de la transición, hasta su finalización. `Se recomienda siempre comenzar con valores cortos, para que las transiciones sean rápidas y elegantes. Si establecemos una duración demasiado grande, el navegador realizará la transición con detención intermitentes, lo que hará que la transición vaya a golpes. Además, transiciones muy largas pueden resultar molestas a muchos usuarios.`
-		
-		
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1019648] (1)
 
 		  * La propiedad **transition-timing-function** permite indicar el tipo de transición que queremos conseguir. Cuando comenzamos, recomiendo utilizar linear, que realiza una transición lineal, siempre a velocidad constante. Sin embargo, podemos variar dicha velocidad para que sea más rápida al principio y más lenta al final, o viceversa, entre otras posibilidades.
-		
-		
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1019648] (1)
 
 		  * a propiedad **transition-delay** nos ofrece la posibilidad de retrasar el inicio de la transición los segundos especificados.
-		
-		
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1019648] (1)
 
-		
 		`<!DOCTYPE html>`  
 		`<html lang="es">`  
 		`<head>`  
@@ -1705,9 +1424,8 @@ Muchas gracias
 		`</body>`  
 		`</html>`
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984443](https://platzi.com/comentario/984443/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -1725,8 +1443,7 @@ Muchas gracias
 	/ _transition-timing-function: ease;_ /  
 	transition: width 1s ease;  
 	}
-	``` 
-	    .pelota:hover {
+	```     .pelota:hover {
 	      width: 200px;
 	      height: 200px;
 	    }
@@ -1740,36 +1457,30 @@ Muchas gracias
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984439](https://platzi.com/comentario/984439/) 
 
-	
 	Para que una transición ocurra debe existir una interacción del usuario contemplada en un sitio web
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [968586](https://platzi.com/comentario/968586/) 
 
-	
 	transition: all 1s 1s ease  
 	donde all es las propiedades donde se aplicara, 1s 1s, son la duración y el delay respectivamente y ease es la timing-function
 
-* **jargopa1** (1)
+* **jargopa1** (1) [952153](https://platzi.com/comentario/952153/) 
 
-	
 	Para una duración de menos de un segundo puedes también poner desde .1s hasta .9s
 
-* **aojalla12** (1)
+* **aojalla12** (1) [897595](https://platzi.com/comentario/897595/) 
 
-	
 	muy buen inicio para empezar
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [844950](https://platzi.com/comentario/844950/) 
 
-	
 	Estoy muy contento con esta clase.
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [830321](https://platzi.com/comentario/830321/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -1808,16 +1519,14 @@ Muchas gracias
 	    
 	```
 
-* **Enrique Devars (Platzi)** (1)
+* **Enrique Devars (Platzi)** (1) [828218](https://platzi.com/comentario/828218/) 
 
-	
 	Les recomiendo mucho este paquete de node para actualizar automáticamente su html
 	
 	<https://www.npmjs.com/package/simple-hot-reload-server>
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [812560](https://platzi.com/comentario/812560/) 
 
-	
 	  * transition-property > cambia e ancho y el alto
 	
 	  * transition-duration > cuanto dura mi animación
@@ -1825,43 +1534,33 @@ Muchas gracias
 	  * transition-delay > tiempo de espera para que responda
 	
 	  * transition-timing-function > especifica la velocidad del efecto de transición
-	
-	
-	
 
-* **Yazmin Lizeth Nava Cisneros** (1)
+* **Yazmin Lizeth Nava Cisneros** (1) [735203](https://platzi.com/comentario/735203/) 
 
-	
 	¿cual era el comando rapido para convertir codigo a comentario? Ctrl +
 
-	* **Jose Armando Acevedo Angarita** (2)
+	* **Jose Armando Acevedo Angarita** [735203] (2)
 
-		
 		Lo puedes hacer con: Ctrl + presionando este simbolo => }
 
-	* **tbc** (1)
+	* **tbc** [735203] (1)
 
-		
 		Yo en Atom comento con: **CTRL + SHIFT + 7**
 
-	* **Jorge Luis Montes Castro** (1)
+	* **Jorge Luis Montes Castro** [735203] (1)
 
-		
 		Hola Vladia yo utilizo Vscode y la combinación es CTRL + /. Éxitos.
 
-	* **Jonathan Uriel Jiménez Soveranes** (2)
+	* **Jonathan Uriel Jiménez Soveranes** [735203] (2)
 
-		
 		en Visual Studio Ctrl + K + C
 
-* **José Pablo Machuca González** (1)
+* **José Pablo Machuca González** (1) [703131](https://platzi.com/comentario/703131/) 
 
-	
 	TW: ¡Leonidas; no nos cambies de editor hijo de tu madre!
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [612884](https://platzi.com/comentario/612884/) 
 
-	
 	**Anotaciones: **
 	
 	  * En CSS3 podemos implementar transiciones por medio de la propiedad transition:[valor];, que permite recrear el cambio de las declaraciones que asignamos a una o muchas propiedades.
@@ -1871,82 +1570,68 @@ Muchas gracias
 	  * Con la propiedad transition-delay: [valor];, podemos asignar un tiempo de espera para que la transición se ejecute o lleve a cabo (lo cual no es netamente necesario). Finalmente con la propiedad transition-timing-function: [valor];, la cual nos permite asignar un valor de aceleración a la transición para que reaccione de una manera más suave (por defecto viene configurada con el valor de ease).
 	
 	  * Para resumir todo este proceso podemos optar por escribir simplemente la propiedad transition: [valor propiedad] [valor tiempo] [valor timing];, y de esta forma resumir ese tiempo.
-	
-	
-	
 
-* **Miguel Sanchez** (1)
+* **Miguel Sanchez** (1) [598534](https://platzi.com/comentario/598534/) 
 
-	
 	Puede usar el preprocesador sass para crear todas las transiciones
 
-* **BitCharly** (1)
+* **BitCharly** (1) [566039](https://platzi.com/comentario/566039/) 
 
-	
 	Como animar un objeto en CSS =>
 	
 	Dentro del selector de CSS que queremos animar usamos:
-	``` 
-	    transition-property: width, height;
+	```     transition-property: width, height;
 	    
 	```
 	
 	// Esto para indicar que propiedades del elemento queremos animar
-	``` 
-	    transition-duration: 1s500ms;
+	```     transition-duration: 1s500ms;
 	    
 	```
 	
 	// Esto para indicar que tanto va a durar la nimacion en segundos con s o milisegundos con ms
-	``` 
-	    transition-delay: 500ms;
+	```     transition-delay: 500ms;
 	    
 	```
 	
 	// Esto significa que queremos un atraso en la animacion antes que ocurra
-	``` 
-	    transition-timing-function: ease;
+	```     transition-timing-function: ease;
 	    
 	```
 	
 	// Esto indica como se va a animar el elmeno como tal. Que si lento al principio y lento al final. Hay varias versiones  
 	Para conocer mas sobre las opciones de timing pueden leer este articulo de Mozilla: <https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function>
-	``` 
-	    Transition: width1s 300ms linear;
+	```     Transition: width1s 300ms linear;
 	    
 	```
 	
 	// Podemos simplificar todas las opciones anteriores en esta. Lo que desimos es exactamente lo mismo. La propiedad que va a ser animada la duracion, el atraso y el estilo de animacion.
 
-* **Davison Pimentel** (1)
+* **Davison Pimentel** (1) [556584](https://platzi.com/comentario/556584/) 
 
-	```
-	    transition: all1s ease;```
+	```    transition: all1s ease;```
 	    
 	```
 
-* **Davison Pimentel** (1)
+* **Davison Pimentel** (1) [556583](https://platzi.com/comentario/556583/) 
 
-	```
-	    Hola
+	```    Hola
 	    
 	```
 
-* **Davison Pimentel** (1)
+* **Davison Pimentel** (1) [556582](https://platzi.com/comentario/556582/) 
 
-	
 	Se puede reducir aun mas:  
 	transition: all 1s ease;
 
-* **diegasho** (1)
+* **diegasho** (1) [555918](https://platzi.com/comentario/555918/) 
 
-	
 	powerr!!
 
-* **Luis Miguel Ramos Hernández** (1)
-![rgb.png](https://static.platzi.com/media/user_upload/rgb-f3a5038f-f668-43d2-86b8-0d184941f140.jpg)
-	``` 
-	    <!DOCTYPE html>
+* **Luis Miguel Ramos Hernández** (1) [518425](https://platzi.com/comentario/518425/) 
+	
+	![rgb.png](https://static.platzi.com/media/user_upload/rgb-f3a5038f-f668-43d2-86b8-0d184941f140.jpg)
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	    	<metacharset="UTF-8">
@@ -2020,158 +1705,133 @@ Muchas gracias
 	    
 	```
 
-* **kokotzin** (1)
+* **kokotzin** (1) [508436](https://platzi.com/comentario/508436/) 
 
-	
 	a algo desactualizado el curso pero bueno me sirve una que otra cosa.
 
-	* **Hdas** (1)
+	* **Hdas** [508436] (1)
 
-		
 		Siempre se pueden aprender cosas nuevas
 
-* **Félix Alejandro Zelaya Orellana** (1)
+* **Félix Alejandro Zelaya Orellana** (1) [506324](https://platzi.com/comentario/506324/) 
 
-	
 	Increíble!!
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [467144](https://platzi.com/comentario/467144/) 
 
-	
 	Encontré este post que hablasobre animaciones y transiciones. Sé que se tratarán más adelante pero si hay algún curioso ->[aquí](https://cssanimation.rocks/es/transition-vs-animation/)
 
-	* **Hdas** (1)
+	* **Hdas** [467144] (1)
 
-		
 		Muchas gracias buen aporte
 
-* **allberttosanchez** (1)
+* **allberttosanchez** (1) [419425](https://platzi.com/comentario/419425/) 
 
-	
 	Que diferencia existe entre escribir dos clases solas por ejemplo:
-	``` 
-	    .pelota {//code}
+	```     .pelota {//code}
 	    .b {//code}
 	    
 	```
 	
 	A escribir juntas:
-	``` 
-	    .pelota.b { //code}
+	```     .pelota.b { //code}
 	    
 	```
 
-	* **Héctor Manuel Hernández Ortega** (1)
+	* **Héctor Manuel Hernández Ortega** [419425] (1)
 
-		
 		En la primera son dos clases independientes y no se afectan una a la otra.
 		
 		En la segunda, afectará a todo lo que apliques la clase pelota, para su propiedad b
 
-	* **Hdas** (1)
+	* **Hdas** [419425] (1)
 
-		
 		Recuerda la herencia entre elementos padre e hijos
 
-	* **Mildred Guerra Rodríguez** (2)
+	* **Mildred Guerra Rodríguez** [419425] (2)
 
-		
 		En esté enlace lo explican <https://lenguajecss.com/p/css/selectores/selectores-avanzados>
 
-* **jangove** (1)
+* **jangove** (1) [223887](https://platzi.com/comentario/223887/) 
 
-	
 	para hacer transition en un <a href=“services”>  
 	con scroll  
 	<section =“serives”>
 
-	* **ordep96** (1)
+	* **ordep96** [223887] (1)
 
-		
 		para eso tendrías que usar javascript
 
-* **Santiago Escalante** (1)
+* **Santiago Escalante** (1) [207025](https://platzi.com/comentario/207025/) 
 
-	
 	Es muy interesante resaltar que con el simple hecho de setear **transition-duration** la transición se lleva a cabo, donde **transition-property** y **transition-timing-function** toman sus valores por defectos para lograr la transición ( _all_ y _ease_ respectivamente).
 
-* **DIEGO JEHOVA  GUTIERREZ BECERRA** (1)
+* **DIEGO JEHOVA  GUTIERREZ BECERRA** (1) [164999](https://platzi.com/comentario/164999/) 
 
-	
 	Lo único que necesitaras en el curso es un navegador y un editor de código.
 	
 	Como editor de código puedes descargar Sublime text en
 	
 	[https://www.sublimetext.com/](url)
 
-* **crisdiaz** (1)
+* **crisdiaz** (1) [77059](https://platzi.com/comentario/897501/) 
 5:57 por alguna razón se anima tanto el ancho como el alto de la pelota, a pesar de que el código está idéntico a como lo tiene Leonidas....
 
-* **axlina90** (1)
+* **axlina90** (1) [70351](https://platzi.com/comentario/773648/) 
 Saludos, en el caso que que quiera colocar: transition: width height 1s ease; como puedo separar las propiedad para que me tome width y ...
 
-	* **Juliette Cetina** (1)
+	* **Juliette Cetina** [70351] (1)
 
-		
 		transition: width 2s ease, height 4s ease;
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [50098](https://platzi.com/comentario/475867/) 
 Todo lo de style realmente debería ir en un archivo aparte .css?
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [50098] (1)
 
-		
 		Normalmente si, pero no es necesario.
 
-* **allberttosanchez** (1)
+* **allberttosanchez** (1) [45420](https://platzi.com/comentario/419425/) 
 Que diferencia existe entre escribir dos clases solas por ejemplo: .pelota {//code} .b {//code} A escribir juntas: .p...
 
-	* **Héctor Manuel Hernández Ortega** (1)
+	* **Héctor Manuel Hernández Ortega** [45420] (1)
 
-		
 		En la primera son dos clases independientes y no se afectan una a la otra.
 		
 		En la segunda, afectará a todo lo que apliques la clase pelota, para su propiedad b
 
-* **GAVA_UX** (0)
+* **GAVA_UX** (0) [243044](https://platzi.com/comentario/243044/) 
 
-	
 	Hola Leonides ¿que es lo que debo de tener instalado para que me genere el código?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [243044] (2)
 
-		
 		El plugin se llama emmet <https://github.com/sergeche/emmet-sublime>
 
-	* **karinaportuguez** (1)
+	* **karinaportuguez** [243044] (1)
 
-		
 		Eso me sera de mucha ayuda
 
-* **prsanchez** (0)
+* **prsanchez** (0) [240104](https://platzi.com/comentario/240104/) 
 
-	
 	Muy interesante esta propiedad, siempre la había usado mal, gracias por el curso Leonidas y gracias por la oportunidad, platzi.
 
-* **alvaritokore** (0)
+* **alvaritokore** (0) [164937](https://platzi.com/comentario/164937/) 
 
-	
 	¿entonces la propiedad transition-timing-funcion tambien puede ser opcional ? ya que ease es el valor default ?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [164937] (4)
 
-		
 		Así es, es opcional teniendo **ease** (que es un muy buen sweet spot) de valor default.
 
-* **Anyeliytomas** (0)
+* **Anyeliytomas** (0) [69422](https://platzi.com/comentario/756933/) 
 hola buenas tardes descargue sublime text ,pero cuando le escribo html:5 no me sale los mismo que hago?
 
-	* **jairyara** (1)
+	* **jairyara** [69422] (1)
 
-		
 		Tienes que instalar emet
 
-## 0040. Transiciones de interacción
+## 0040. Transiciones de interacción [6823](https://platzi.com/clases/1103-animaciones-web/6823-transiciones-de-interaccion/)
 
 ### Descripción:
 
@@ -2180,147 +1840,119 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 
 ### Comentarios:
 
-* **Gabriel Alejandro Nuñez Natera** (59)
+* **Gabriel Alejandro Nuñez Natera** (59) [173773](https://platzi.com/comentario/173773/) 
 
-	
 	Este es el Hola Mundo más divertido que he hecho 😃
 
-	* **Leonidas Esteban Gonzalez** (40)
+	* **Leonidas Esteban Gonzalez** [173773] (40)
 
-		
 		Y recién vamos empezando. Te prometo que se pondrá aún más divertido.
 
-	* **Melina Jacqueline onoriaga** (2)
+	* **Melina Jacqueline onoriaga** [173773] (2)
 
-		
 		jajajajaja
 
-	* **Jhon Carlos   Romo Ramirez** (3)
+	* **Jhon Carlos   Romo Ramirez** [173773] (3)
 
-		
 		Me encanta esto!
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [173773] (1)
 
-		
 		Fue muy divertida la clase
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [173773] (1)
 
-		
 		Genial 😄
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [173773] (1)
 
-		
 		De acuerdo contigo
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [173773] (1)
 
-		
 		De acuerdo contigo
 
-	* **diegasho** (1)
+	* **diegasho** [173773] (1)
 
-		
 		muy creativo!!
 
-* **hidalgolopezdaniel** (41)
+* **hidalgolopezdaniel** (41) [178095](https://platzi.com/comentario/178095/) 
 
-	
 	minuto 1:24 “quiero que mis pelotas se muevan” jajaja suena curioso :p
 
-	* **Leonidas Esteban Gonzalez** (22)
+	* **Leonidas Esteban Gonzalez** [178095] (22)
 
-		
 		😅 ah caray
 
-	* **Luis Felipe Silgado Cortázar** (2)
+	* **Luis Felipe Silgado Cortázar** [178095] (2)
 
-		
 		Anda la osa o.O
 
-	* **Henry Alejandro  Palacios Lemus** (1)
+	* **Henry Alejandro  Palacios Lemus** [178095] (1)
 
-		
 		HAHAHAHA!
 
-	* **Misael García** (1)
+	* **Misael García** [178095] (1)
 
-		
 		pffff jajaja
 
-	* **paulo silva  silva** (1)
+	* **paulo silva  silva** [178095] (1)
 
-		
 		ahahahah
 
-	* **GerAlfonso** (1)
+	* **GerAlfonso** [178095] (1)
 
-		
 		jajajajjajaja que risa
 
-	* **Henry Gabriel Rodríguez Tovar** (10)
+	* **Henry Gabriel Rodríguez Tovar** [178095] (10)
 
-		
 		“Ahora puedes ver que nuestras pelotas se quedan pegadas” ![](http://cdn2.gamedots.mx/media/gd/meme_pervertido.jpg)
 
-	* **Rob Arroyo** (2)
+	* **Rob Arroyo** [178095] (2)
 
-		
 		lol
 
-	* **Cristian Orozco Benjumea** (2)
+	* **Cristian Orozco Benjumea** [178095] (2)
 
-		
 		jajaja que mente, que mente 😸
 
-	* **Chunchunmaru** (2)
+	* **Chunchunmaru** [178095] (2)
 
-		
 		jajaja
 
-	* **Wilson Marino Pablo Mendez** (2)
+	* **Wilson Marino Pablo Mendez** [178095] (2)
 
-		
 		Rayos teacher jajaja
 
-	* **Félix Alejandro Zelaya Orellana** (2)
+	* **Félix Alejandro Zelaya Orellana** [178095] (2)
 
-		
 		Pensé que fui el único! jajajaj
 
-	* **Jesús Antonio Chacón Rodriguez** (1)
+	* **Jesús Antonio Chacón Rodriguez** [178095] (1)
 
-		
 		Jajajaja
 
-	* **irma-davila** (1)
+	* **irma-davila** [178095] (1)
 
-		
 		niños!
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [178095] (1)
 
-		
 		JAJAJA
 
-	* **diegasho** (1)
+	* **diegasho** [178095] (1)
 
-		
 		jajajja…andale!!
 
-* **LuisDark123** (18)
+* **LuisDark123** (18) [404263](https://platzi.com/comentario/404263/) 
 
-	
 	Hize la practica con el ejemplo de RGB que al juntarlos da blanco.  
 	![2018-10-19.png](https://static.platzi.com/media/user_upload/2018-10-19-719855d5-8c3e-4ee9-b6dd-5706cfecd0b0.jpg)  
 	![2018-10-19 \(2\).png](https://static.platzi.com/media/user_upload/2018-10-19%20%282%29-bd7f8463-b00e-44a9-b61e-72e6809ec475.jpg)  
 	![2018-10-19 \(1\).png](https://static.platzi.com/media/user_upload/2018-10-19%20%281%29-ad36f769-9bfe-40e1-94a9-9539d332fe06.jpg)
 	
 	Aqui mi codigo
-	``` 
-	    HTML
+	```     HTML
 	    
 	    <divclass="canasta">
 	    	<center><h1 class="h1-white">RGB</h1></center>
@@ -2331,8 +1963,7 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    </div>
 	    
 	```
-	``` 
-	    CSS
+	```     CSS
 	    
 	    body{
 	    	padding: 0;
@@ -2409,99 +2040,81 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-	* **Cristhian Camilo Perez Veloza** (3)
+	* **Cristhian Camilo Perez Veloza** [404263] (3)
 
-		
 		muy creativo
 
-	* **Pablo Domínguez Durán** (3)
+	* **Pablo Domínguez Durán** [404263] (3)
 
-		
 		Cool
 
-	* **Rob Arroyo** (3)
+	* **Rob Arroyo** [404263] (3)
 
-		
 		bastante cool
 
-	* **Cristian Orozco Benjumea** (3)
+	* **Cristian Orozco Benjumea** [404263] (3)
 
-		
 		buena idea, que bien por tu curiosidad
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [404263] (2)
 
-		
 		Está buenísimo! Muy bien hecho
 
-	* **Hdas** (2)
+	* **Hdas** [404263] (2)
 
-		
 		Que buen aporte
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [404263] (1)
 
-		
 		Muy Cool!
 
-* **Yeraldine Martinez** (12)
+* **Yeraldine Martinez** (12) [223097](https://platzi.com/comentario/223097/) 
 
-	
 	😮 no sabia que podía agregar cálculos a las propiedades CSS  
 	**no duerme viendo clases de animaciones web**
 
-	* **Cristian Orozco Benjumea** (2)
+	* **Cristian Orozco Benjumea** [223097] (2)
 
-		
 		Igual me sorprendió, de todo se aprende
 
-	* **Félix Alejandro Zelaya Orellana** (1)
+	* **Félix Alejandro Zelaya Orellana** [223097] (1)
 
-		
 		Si!! tampoco me lo esperaba!
 
-	* **irma-davila** (1)
+	* **irma-davila** [223097] (1)
 
-		
 		idem
 
-* **pablojorgeandres** (9)
+* **pablojorgeandres** (9) [493035](https://platzi.com/comentario/493035/) 
 
-	
 	Me quedó un poquito cursi creo …
 	
 	![](https://pablojorgeandres.000webhostapp.com/Store/images/CSStransc.gif)
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [493035] (1)
 
-		
 		Lindo! El amor siempre venciendo 😄  
 		Muy lindas transiciones.
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [493035] (1)
 
-		
 		😊
 
-	* **diegasho** (1)
+	* **diegasho** [493035] (1)
 
-		
 		como montas esas animaciones aqui?
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [493035] (2)
 
-		
 		Hola Diego, lo que hago es generar un gif (lo hago con Kap en mac) y después simplemente lo agregas como imágen.
 
-* **Ivan Robles** (9)
+* **Ivan Robles** (9) [303209](https://platzi.com/comentario/303209/) 
 
-	
 	Me agradó mas como se vé así:  
 	![](https://i.imgur.com/cW0AEBQ.gif)
 	
 	Usando left y right en 50% en CSS:
-	``` 
-	    .canasta:hover.pelota.a {
+	```     .canasta:hover.pelota.a {
 	          left: 50%;
 	    }
 	    .canasta:hover.pelota.b {
@@ -2511,71 +2124,57 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	```
 	
 	En HTML:
-	``` 
-	    <divclass="canasta">
+	```     <divclass="canasta">
 	        <divclass="pelota a">Mundo!</div>
 	        <divclass="pelota b">Hola</div>
 	    </div>
 	    
 	```
 
-	* **AlxSan** (2)
+	* **AlxSan** [303209] (2)
 
-		
 		De hecho si!
 
-	* **Georgie Duarte** (2)
+	* **Georgie Duarte** [303209] (2)
 
-		
 		como haces para integrar aqui las animaciones?
 
-	* **Ivan Robles** (4)
+	* **Ivan Robles** [303209] (4)
 
-		
 		Hey **@geodu07** es un Gif que grabé con la herramienta **Giphy Capture** de mi pantalla, lo que estas viendo es una imagen **.gif** jalada de un servicio como **Imgur** (De hecho eso es lo que es xD).
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [303209] (1)
 
-		
 		Digo lo mismo 😛
 
-* **Juan Sáez García** (9)
+* **Juan Sáez García** (9) [252379](https://platzi.com/comentario/252379/) 
 
-	
 	lo del cacl me acabo de quedar estupefacto ahora puedo hacer un montón de cosas a la perfección
 
-* **David Camilo Latorre Monroy (Platzi)** (8)
+* **David Camilo Latorre Monroy (Platzi)** (8) [455590](https://platzi.com/comentario/455590/) 
 
-	
 	Para evitarse la creación de nuevos archivos, carpetas y copiar y pegar pueden sencillamente usar branches de git, elegante, sencillo y rápido, todo en un único archivo 😃
 
-	* **Hdas** (1)
+	* **Hdas** [455590] (1)
 
-		
 		Muy buen aporte excelente solución
 
-* **fernando-castelan** (7)
+* **fernando-castelan** (7) [777962](https://platzi.com/comentario/777962/) 
 
-	
 	Esta es una muy buena página donde puedes ver de manera visual como funcionan las propiedades de transición y algunas de animación en css. Se las recomiendo mucho
 	
 	**[cssreference.io](https://cssreference.io/transitions/)**
 
-	* **julian orrego** (1)
+	* **julian orrego** [777962] (1)
 
-		
 		Gracias por la página. Esta genial.
 
-* **Joaquin Araujo** (7)
+* **Joaquin Araujo** (7) [326074](https://platzi.com/comentario/326074/) 
 
-	
 	Si te sorprendió CSS en esta clase, pues mira el código tan lindo que puedes hacer con PostCSS:
 	
 	  * **Ejemplo de este ejercicio escrito usando nesting de PostCSS:**
-	
-	
-	``` 
-	    .canasta {
+	```     .canasta {
 	      border: 1px solid red;
 	      position: relative;
 	      height: 200px;
@@ -2616,88 +2215,74 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [326074] (1)
 
-		
 		Muy interesante
 
-* **irma-davila** (6)
+* **irma-davila** (6) [549232](https://platzi.com/comentario/549232/) 
 
-	
 	Ojo con esto
-	``` 
-	    left: calc(50%-100px);
+	```     left: calc(50%-100px);
 	    
 	```
 	
 	no es lo mismo que
-	``` 
-	    left: calc(50% - 100px);
+	```     left: calc(50% - 100px);
 	    
 	```
 	
 	con la primera línea el objeto no se mueve, acabo percatarme.
 
-* **Aufsten** (6)
+* **Aufsten** (6) [360156](https://platzi.com/comentario/360156/) 
 
-	
 	Siempre me he enfocado más al back-end pero vaya que también es divertido el front-end.  
 	Muy buen curso!
 
-* **Melina Jacqueline onoriaga** (6)
+* **Melina Jacqueline onoriaga** (6) [175966](https://platzi.com/comentario/175966/) 
 
-	
 	Me agarra un terrible ataque de imaginación! quiero aprender mas!
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [175966] (5)
 
-		
 		Maravilloso
 
-* **Juan Carlos García Esquivel** (5)
+* **Juan Carlos García Esquivel** (5) [848907](https://platzi.com/comentario/848907/) 
 
-	
 	Recordando el curso de responsive design **“Un elemento con posición absoluta se va a posicionar de acuerdo al próximo elemento con posicion relativa, de no existir uno se posiciona según el body o el html”** , en este caso por eso se le coloca el posicion relative a la canasta para que las pelotas se posicionen en ese elemento.
 
-* **durbonca** (5)
+* **durbonca** (5) [715385](https://platzi.com/comentario/715385/) 
 
-	
 	like si te gusto la clase de animarme mis pelotas…
 
-* **Alejo Fonseca** (4)
+* **Alejo Fonseca** (4) [633981](https://platzi.com/comentario/633981/) 
 
-	
 	Que buena es la función **calc()** me solucionó la vida!!
 
-* **Nicolas Esteban Prieto Sarmiento** (4)
-![](https://media.giphy.com/media/2tSjKOTFvlsbauLi1w/giphy.gif)
+* **Nicolas Esteban Prieto Sarmiento** (4) [417314](https://platzi.com/comentario/417314/) 
+	
+	![](https://media.giphy.com/media/2tSjKOTFvlsbauLi1w/giphy.gif)
 	
 	<https://np66.github.io/hola-mundo-con-animacion/>
 
-* **Emilio Ian Camacho Mejia** (3)
+* **Emilio Ian Camacho Mejia** (3) [598068](https://platzi.com/comentario/598068/) 
 
-	
 	Me gusto como se ve así: [Animación](https://codepen.io/IanCM/pen/wbjLJV)
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [598068] (1)
 
-		
 		Si a mi también
 
-* **manuelmelendezb** (2)
+* **manuelmelendezb** (2) [968615](https://platzi.com/comentario/968615/) 
 
-	
 	<https://codepen.io/manuelmelendez/pen/RwPwRgr>  
 	![transiciones.jpg](https://static.platzi.com/media/user_upload/transiciones-5e1a5931-5330-4436-9f50-11c97d73816e.jpg)
 
-* **Esau Rosales** (2)
+* **Esau Rosales** (2) [636056](https://platzi.com/comentario/636056/) 
 
-	
 	Y si quiero que al hacer hover en otro elemento que no es el padre de la pelota, haga una animación,  
 	Como lo hago?  
 	Pense que asi podria:
-	``` 
-	    <body>
+	```     <body>
 	        <divclass="canasta">
 	    
 	            <divclass="pelota a"></div>
@@ -2724,37 +2309,30 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [636056] (2)
 
-		
 		En este caso debes usar javascript para poder cambiar o agregar una clase al contenedor pelota cuando se haga hover en prueba.
 
-* **irma-davila** (2)
+* **irma-davila** (2) [549228](https://platzi.com/comentario/549228/) 
 
-	
 	ufff no solo calcula, sino que lo hace en aparentemente unidades diferentes, porcentaje y pixceles!
 
-* **karinaportuguez** (2)
+* **karinaportuguez** (2) [450284](https://platzi.com/comentario/450284/) 
 
-	
 	Me encanta este curso, con esto ahora podre hacer infinidad de cosas útiles para mis trabajos
 
-* **Cristhian Camilo Perez Veloza** (2)
+* **Cristhian Camilo Perez Veloza** (2) [426352](https://platzi.com/comentario/426352/) 
 
-	
 	Este es mi resultado: [Circlulo animado](https://codepen.io/Chris245/pen/wQPWJX)
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [320472](https://platzi.com/comentario/320472/) 
 
-	
 	No sabia lo de **calc()** 😮
 
-* **Sergio Veloza** (1)
+* **Sergio Veloza** (1) [1036163](https://platzi.com/comentario/1036163/) 
 
-	
 	Usando la propiedad z-index se puede superponer elementos por css
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="es">
 	    <head>
 	        <metacharset="UTF-8">
@@ -2837,9 +2415,8 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984449](https://platzi.com/comentario/984449/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -2872,8 +2449,7 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	background: red;  
 	left: 0;  
 	}
-	``` 
-	    .pelota.b {
+	```     .pelota.b {
 	      background: blue;
 	      right: 0;
 	    }
@@ -2902,33 +2478,31 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	</body>  
 	</html>
 
-* **Angélica María Rocha García** (1)
+* **Angélica María Rocha García** (1) [979848](https://platzi.com/comentario/979848/) 
 
-	
 	Gracias por esta buena clase.
 
-* **maria-del-carmen-rodriguez** (1)
-![Captura de pantalla de 2020-02-05 17-13-40.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-05%2017-13-40-c5bb7bc6-1681-42dc-8a28-03e8ab20da3c.jpg)
-
-* **Carlos Eduardo Diaz Polanco** (1)
-![corazon.jpg](https://static.platzi.com/media/user_upload/corazon-eda0ed1c-e7d6-4223-bfc2-bf4ab382ef59.jpg)
-
-* **Osvaldo Arzate Santiago** (1)
-
+* **maria-del-carmen-rodriguez** (1) [968643](https://platzi.com/comentario/968643/) 
 	
+	![Captura de pantalla de 2020-02-05 17-13-40.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-05%2017-13-40-c5bb7bc6-1681-42dc-8a28-03e8ab20da3c.jpg)
+
+* **Carlos Eduardo Diaz Polanco** (1) [948239](https://platzi.com/comentario/948239/) 
+	
+	![corazon.jpg](https://static.platzi.com/media/user_upload/corazon-eda0ed1c-e7d6-4223-bfc2-bf4ab382ef59.jpg)
+
+* **Osvaldo Arzate Santiago** (1) [945574](https://platzi.com/comentario/945574/) 
+
 	![](![pregunta.jpg](https://static.platzi.com/media/user_upload/pregunta-bf57ffff-f7a0-4f78-8c48-3b6cdc681db0.jpg)  
 	Una gran duda, ¿porque para que la animación en vertical funcione igual que en horizontal tiene que moverse 50% sobre el mismo valor (bottom, top)?, ejemplo:  
 	![codigo.jpg](https://static.platzi.com/media/user_upload/codigo-9d95acc5-278d-427b-817f-d512c396d627.jpg)
 
-	* **manuelmelendezb** (2)
+	* **manuelmelendezb** [945574] (2)
 
-		
 		Hola podrias compartir el resto de tu codigo tengo curiosidad
 
-	* **Osvaldo Arzate Santiago** (1)
+	* **Osvaldo Arzate Santiago** [945574] (1)
 
-		```
-		    <!DOCTYPE html>
+		```    <!DOCTYPE html>
 		    <htmllang="es">
 		    <head>
 		        <metacharset="UTF-8">
@@ -2953,10 +2527,9 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 		    
 		```
 
-	* **Osvaldo Arzate Santiago** (1)
+	* **Osvaldo Arzate Santiago** [945574] (1)
 
-		```
-		    body{
+		```    body{
 		        display: flex;
 		        justify-content: center;
 		        align-items: center;
@@ -3042,30 +2615,25 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 		    
 		```
 
-* **wilkinsbrito** (1)
+* **wilkinsbrito** (1) [940937](https://platzi.com/comentario/940937/) 
 
-	
 	Se nota que el sr. del video sabe bastante, muy bien lo que enseña, nada más que habla muy rápido y hay cosas que no se detiene a explicar porque parece que **asume** que todo le están entendiendo a la perfección y que quizás ya son cosas que el resto conocemos. No me mal interpreten, se ve que es too un experto, pero hay que bajarle las revoluciones desacelerarlo un poco.
 
-	* **Carlos Eduardo Diaz Polanco** (1)
+	* **Carlos Eduardo Diaz Polanco** [940937] (1)
 
-		
 		Yo paso al menos 1 hora en cada video, googleando, pacticando y documentando mi propia guia, esto me ha servido para llevarle el ritmo, tambien todos estos videos llevan una secuencia de aprendizaje, llevando la ruta (cosa que recomiendan), cada concepto explicado en ese video ya lo vi en los cursos anteriores.
 
-* **lenielluzardo** (1)
+* **lenielluzardo** (1) [842700](https://platzi.com/comentario/842700/) 
 
-	
 	[Aqui](https://codepen.io/lenielluzardo/pen/QWwLKar) esta mi codigo hasta ahora. Se aceptan criticas constructivas😁👍
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [838515](https://platzi.com/comentario/838515/) 
 
-	
 	Listo!
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [835372](https://platzi.com/comentario/835372/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -3138,14 +2706,12 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	```
 	
 	<code>
-	``` 
-	    
+	```     
 	```
 
-* **Alessandri** (1)
+* **Alessandri** (1) [832213](https://platzi.com/comentario/832213/) 
 
-	```
-	    <style>
+	```    <style>
 	        .canasta{
 	            height: 200px;
 	            border: red solid 1px;
@@ -3182,25 +2748,21 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-* **Luis  Aldair Quispe Rios** (1)
+* **Luis  Aldair Quispe Rios** (1) [830953](https://platzi.com/comentario/830953/) 
 
-	
 	Que buena clase!
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [814756](https://platzi.com/comentario/814756/) 
 
-	
 	Muy buena clase!
 
-* **lmoran** (1)
+* **lmoran** (1) [785445](https://platzi.com/comentario/785445/) 
 
-	
 	Buena explicación,
 
-* **Omar Alberto Alvarez Ortiz** (1)
+* **Omar Alberto Alvarez Ortiz** (1) [764979](https://platzi.com/comentario/764979/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -3276,41 +2838,34 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-* **ElianaHuamaniChirre** (1)
+* **ElianaHuamaniChirre** (1) [749911](https://platzi.com/comentario/749911/) 
 
-	
 	calc is not working !
 
-	* **tbc** (1)
+	* **tbc** [749911] (1)
 
-		
 		Puede que sea porqué estés escribiendo la operación sin espacios, prueba a ponerla separada tal cual la escribe Leonidas.  
 		calc(50% - 100px)
 
-	* **sysdent** (1)
+	* **sysdent** [749911] (1)
 
-		
 		Me sucedia que no me funcionaba y era porque la operacion no estaba separa por espacios. De esta manera me funciona – left: calc(50% - 100px);
 
-* **Eduardo Rodriguez Yapur** (1)
+* **Eduardo Rodriguez Yapur** (1) [698168](https://platzi.com/comentario/698168/) 
 
-	
 	Comparto un documento en donde se detalla las propiedades: transition, transition-property, transition-duration, transition-timing-function y transition-delay basada en la documentacion de CSS:  
 	<https://docs.google.com/document/d/1KJnLTcryq2XXd3LO4DN66DyTqpXCxcY5jyoND58ITkc/edit?usp=sharing>
 
-* **irvingsan** (1)
+* **irvingsan** (1) [629829](https://platzi.com/comentario/629829/) 
 
-	
 	uff para un jiggle physics Dead or alive
 
-* **Moises10** (1)
+* **Moises10** (1) [626258](https://platzi.com/comentario/626258/) 
 
-	
 	Muy interesante esta clase
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [613047](https://platzi.com/comentario/613047/) 
 
-	
 	 **Anotaciones:**
 	
 	Para incluir mas elementos en nuestra interacción, podemos añadir la clase del elemento que queremos sumar, por ejemplo:
@@ -3319,26 +2874,21 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	
 	Una buena manera de asignar un tamaño a una propiedad (como width o height) es a traves de la funcion calc(medida1 - medida2).
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [596738](https://platzi.com/comentario/596738/) 
 
-	
 	lo que mejor me parece del frontend es poder todo este tipo de cosas, ejemplo el hello world mas divertido del mundo
 
-* **Jose Luis Colmenares** (1)
+* **Jose Luis Colmenares** (1) [580887](https://platzi.com/comentario/580887/) 
 
-	
 	Pero que maravilla la función calc(). De verdad la necesitaba y no la conocía. Gracias Leonidas
-	``` 
-	    <code>
+	```     <code>
 	    
 	```
 
-* **Cristian Florez** (1)
+* **Cristian Florez** (1) [560928](https://platzi.com/comentario/560928/) 
 
-	
 	Html
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -3369,8 +2919,7 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	```
 	
 	Css
-	``` 
-	    *{
+	```     *{
 	      margin: 0;
 	    }
 	    body{
@@ -3439,19 +2988,17 @@ En este vídeo vamos a ver cómo aplicar **transiciones a múltiples elementos**
 	    
 	```
 
-* **Davison Pimentel** (1)
+* **Davison Pimentel** (1) [556652](https://platzi.com/comentario/556652/) 
 https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 
-* **Carlos Zea** (1)
+* **Carlos Zea** (1) [546692](https://platzi.com/comentario/546692/) 
 
-	
 	Que loco! si habia visto un poco de transiciones pero esto literalmente me bolo la cabeza.
 	
 	![f6b15db9887ef550994c3e2795634fe1.jpg](https://static.platzi.com/media/user_upload/f6b15db9887ef550994c3e2795634fe1-9cb51aab-1f13-4875-bf28-2bd80c3f8405.jpg)
 
-* **Jhony32** (1)
+* **Jhony32** (1) [541005](https://platzi.com/comentario/541005/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -3470,8 +3017,7 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	display: flex;  
 	align-items: center;  
 	justify-content: center;
-	``` 
-	    		}
+	```     		}
 	    		.caja:hover .pelota
 	    		{
 	    			width: 100px;
@@ -3535,8 +3081,7 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	{  
 	background-color: red;  
 	top: 0;
-	``` 
-	    		}
+	```     		}
 	    		.pelota.d
 	    		{
 	    			background-color: yellow;
@@ -3576,11 +3121,9 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	</html>
 	```
 	```
-	
 
-* **Jhony32** (1)
+* **Jhony32** (1) [540918](https://platzi.com/comentario/540918/) 
 
-	
 	no me dan las dos pelotas. solo una. el siquiente codigo.  
 	<!DOCTYPE html>  
 	<html lang=“en”>  
@@ -3598,8 +3141,7 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	background-color: blue;  
 	transition:width 1s ease;  
 	}
-	``` 
-	    		.pelota:hover 
+	```     		.pelota:hover 
 	    		{
 	    			width: 100px;
 	    			
@@ -3619,37 +3161,30 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	</body>  
 	</html>
 
-	* **Jhony32** (1)
+	* **Jhony32** [540918] (1)
 
-		
 		ok. solucione el problem.
 
-* **Eduardo P. Rivero** (1)
+* **Eduardo P. Rivero** (1) [522669](https://platzi.com/comentario/522669/) 
 
-	
 	[Mi demo agregando transiciones a una etiqueta p](https://codesandbox.io/s/x23n6v0qn4)
 
-* **elreydavid** (1)
+* **elreydavid** (1) [509154](https://platzi.com/comentario/509154/) 
 
-	
 	me gusto este tema veo la preparacion de la explicacion gracias leonidas .``
 
-* **elreydavid** (1)
+* **elreydavid** (1) [508820](https://platzi.com/comentario/508820/) 
 
-	
 	se puede aplicar este tema ala fisica para colegios una pratica de choques de pelotas
 
-* **Félix Alejandro Zelaya Orellana** (1)
+* **Félix Alejandro Zelaya Orellana** (1) [506551](https://platzi.com/comentario/506551/) 
 
-	
 	Que super!!!
 
-* **juan_prieto_r** (1)
+* **juan_prieto_r** (1) [440898](https://platzi.com/comentario/440898/) 
 
-	
 	Practicando con este tema de las transformaciones, he asignado 2 pelotitas mas, aquí el código:
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	    	<metacharset="UTF-8">
@@ -3734,22 +3269,18 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	    
 	```
 
-* **Jorge Wenner Arévalo Alvis** (1)
+* **Jorge Wenner Arévalo Alvis** (1) [420918](https://platzi.com/comentario/420918/) 
 
-	
 	el mejor Hola mundo 😃
 
-* **Alan Sergio Rossi** (1)
+* **Alan Sergio Rossi** (1) [402703](https://platzi.com/comentario/402703/) 
 
-	
 	Increible la cantidad de cosas que se me ocurren hacer con esto en tan solo la cuarta clase!!
 
-* **kikemadrigal** (1)
+* **kikemadrigal** (1) [340634](https://platzi.com/comentario/340634/) 
 
-	
 	Agregando algunas otras propiedades logre un efecto un poco diferente.
-	``` 
-	    <!-- transiciones a multiples elementos -->
+	```     <!-- transiciones a multiples elementos -->
 	    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
@@ -3832,12 +3363,10 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 	    
 	```
 
-	* **Jose Enrique Marquez** (1)
+	* **Jose Enrique Marquez** [340634] (1)
 
-		
 		Como el `width`, el `height` y el font-size es el mismo lo pudiste haber agregado a este selector.
-		``` 
-		    .canasta:hover.pelota {
+		```     .canasta:hover.pelota {
 		      width: 150px;
 		      height: 150px;
 		      font-size: 24px;
@@ -3845,44 +3374,36 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 		    
 		```
 
-* **antoniogongora** (1)
+* **antoniogongora** (1) [317096](https://platzi.com/comentario/317096/) 
 
-	
 	Excelente curso!!, me estoy imaginando todas las posibilidades que se abren a partir de ahora para mis próximos proyectos…
 
-* **Daniela Yumi Ota** (1)
+* **Daniela Yumi Ota** (1) [270766](https://platzi.com/comentario/270766/) 
 
-	
 	Me encanto hacer este Hola Mundo 😃!!
 
-* **Esteban Jossue  Galdamez Perez** (1)
+* **Esteban Jossue  Galdamez Perez** (1) [189925](https://platzi.com/comentario/189925/) 
 
-	
 	Me encanta. ya quiero usarlo
 
-* **** (1)
+* **** (1) [175551](https://platzi.com/comentario/175551/) 
 
-	
 	Me gusta bastante este tema, utilicé por muchos años flash para animaciones sencillas, pero con las opciones que nos está enseñando, se abre un mundo de posibilidades muy interesante. Gracias
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [175551] (0)
 
-		
 		por supuesto, cuéntame que ha parecido el curso 😃
 
-* **mauro-sergio** (0)
+* **mauro-sergio** (0) [558702](https://platzi.com/comentario/558702/) 
 
-	
 	Hola necesito ayuda , pongo el codigo y lo ejecuto en la pagina pero no hace nada (aparecen las dos bolitas)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [558702] (1)
 
-		
 		Hola, revisas que en la consola no salga ningún error y que no tengas ningún error de digitación en los nombres de las clases?
 
-	* **Eduardo Rodriguez Yapur** (2)
+	* **Eduardo Rodriguez Yapur** [558702] (2)
 
-		
 		Revisa que cuando escribas el :hover no este separado por un espacio es decir .canasta:hover debe estar todo unido sin espacio.
 		
 		Incorrecto:  
@@ -3892,47 +3413,39 @@ https://i.ibb.co/Y20tZPs/ezgif-com-video-to-gif.gif
 		.canasta:hover .pelota.a{  
 		left:528px;
 
-* **BOGAR** (0)
+* **BOGAR** (0) [452549](https://platzi.com/comentario/452549/) 
 
-	
 	que es lo que permite hacer la funcion, position: relative?
 
-	* **Carmen Sánchez Salgado** (1)
+	* **Carmen Sánchez Salgado** [452549] (1)
 
-		
 		En este caso,** position: relative ** hace que la posición absoluta de las pelotas sea con respecto al elemento padre que las contiene, es decir, **canasta**. Si comentas ese pedazo de código veras que la posición absoluta es ahora con respecto a body
 		
 		=)
 
-* **JuanDAC** (0)
+* **JuanDAC** (0) [424531](https://platzi.com/comentario/424531/) 
 Este es el Hola Mundo más animado que he visto 🤗
 
-* **Alan Santiago** (0)
+* **Alan Santiago** (0) [320473](https://platzi.com/comentario/320473/) 
 
-	
 	El mejor **Hola Mundo** 😄
 
-* **CarlosAlba** (0)
+* **CarlosAlba** (0) [267339](https://platzi.com/comentario/267339/) 
 
-	
 	Hola @LeonidasEsteban, en un ejercicio como este hay problemas de visualización, en Firefox se muestra diferente a Chrome. Será necesario con animaciones tan basicas usar “normalize”
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [267339] (1)
 
-		
 		Si se arregla con normalice debe ser un detallito de padding o margin, es mejor inspeccionar donde esta el bug y hacer el arreglito, En este curso ya están muy preparados para todo esto
 
-	* **CarlosAlba** (0)
+	* **CarlosAlba** [267339] (0)
 
-		
 		Gracias por responder!
 
-* **Pablo Elias   Mercado Moreno** (0)
+* **Pablo Elias   Mercado Moreno** (0) [260898](https://platzi.com/comentario/260898/) 
 
-	
 	Hola, en mis animaciones no se encuentran, tengo el codigo igual a leonidas, ayuda !
-	``` 
-	    <html>
+	```     <html>
 	    <head>
 	    	<title>Transiciones</title>
 	    	<style>
@@ -4001,39 +3514,33 @@ Este es el Hola Mundo más animado que he visto 🤗
 	    
 	```
 
-	* **elias benitez** (1)
+	* **elias benitez** [260898] (1)
 
-		
 		<divclass=" “>  
 		la etiqueta esta toda pegada, separala.  
 		<div class=” ">
 
-	* **Pablo Elias   Mercado Moreno** (1)
+	* **Pablo Elias   Mercado Moreno** [260898] (1)
 
-		
 		Hola amigo, ya lo hice y sigue sin funcionar, no se encuentran. Aparece todo, pero no se juntan.
 
-	* **gusgonzalez060** (1)
+	* **gusgonzalez060** [260898] (1)
 
-		
 		Quiat la clase .pelota:hover
 
-	* **Pablo Elias   Mercado Moreno** (1)
+	* **Pablo Elias   Mercado Moreno** [260898] (1)
 
-		
 		Tambien lo hice hermano y sigue sin funcionar, copie el codigo que esta en el material de la clase para probar y funciono, pero comparando y no doy con el error esta casi 99% identico, ustedes que saben mas de esto, podrian ayudarme, por favor !
 
-	* **Alejandro Bracho** (3)
+	* **Alejandro Bracho** [260898] (3)
 
-		
 		Buenas amigo despues de ver bastante el codigo me di cuenta que tenias tan solo unos pequeñisimos detalles que si bien sabemos una simple coma puede romper todo un codigo y horas de trabajo, algunos de los detalles son:  
 		1- donde pusiste .canasta:hover .pelota.a y .b colocaste un calc(50% - 100%) y debias colocar un calc(50% - 100px) ya que 100px es el tamaño de nuestro .pelota  
 		2- es muy importante tomar en cuenta la separación de cada elemento en nuestro codigo en donde tienes calc(50%-100%) se coloca (50% - 100px) debe existir una separacion entre el 50% el - y los 100px que estan encerrados en el ()  
 		3- en el .canasta colocaste un width: 100px y debes de poner un width: 100%, ya que 100% es el ancho de nuestro canvas de nuesta page
 		
 		sin mas que decir amigo, al igual que tu soy un novato en esto, y te felicito por tu codigo mi unico consejo que me sirve hasta a mi es que tengamos mucho detalle y ojo con nuestro codigo siempre me acuerdo de lo que dice Freddy en el curso de fundamentos de programación, los programadores y developers pasamos el 80% de nuestra vida leyendo codigo, el otro 20% escribiendolo saludos desde Venezuela
-		``` 
-		    <html>
+		```     <html>
 		    <head>
 		    	<title>Transiciones</title>
 		    	<style>
@@ -4103,43 +3610,35 @@ Este es el Hola Mundo más animado que he visto 🤗
 		    
 		```
 
-	* **Alejandro Bracho** (1)
+	* **Alejandro Bracho** [260898] (1)
 
-		
 		se me olvido decirte el .pelota:hover debes de comentar para que no cause conflicto con .canasta:hover .pelota.a y b, en tu código
 
-	* **Pablo Elias   Mercado Moreno** (2)
+	* **Pablo Elias   Mercado Moreno** [260898] (2)
 
-		
 		@alebracho Excelente Bro, no había caído en cuenta lo de separar los elementos dentro del paréntesis, funciono al 100% de inmediato, Muchas gracias amigo, Genio !
 
-* **José Padrón** (0)
+* **José Padrón** (0) [248779](https://platzi.com/comentario/248779/) 
 
-	
 	En mi código las pelotas se juntan pero aumentan de tamaño, por que? tengo el código igual al de Leonidas
 
-	* **inquiridor** (0)
+	* **inquiridor** [248779] (0)
 
-		
 		A ver, sube el código… para que lo veamos y seguro podamos ser de ayuda 😄
 
-* **prsanchez** (0)
+* **prsanchez** (0) [240115](https://platzi.com/comentario/240115/) 
 
-	
 	Interesante
 
-* **MauricioHernanCabrera** (0)
+* **MauricioHernanCabrera** (0) [211333](https://platzi.com/comentario/211333/) 
 
-	
 	mi version de asunto  
 	<https://hernanmc10.github.io/holamundo.css/>
 
-* **jhonatandev** (0)
+* **jhonatandev** (0) [193462](https://platzi.com/comentario/193462/) 
 
-	
 	Intento que lpase al lado derecho cuando esté al 100% pero no sucede, alguien le dio solución a este problema ?
-	``` 
-	    .content-box{
+	```     .content-box{
 	    			display: flex;
 	    			position: relative;
 	    			width: 100%;
@@ -4169,14 +3668,12 @@ Este es el Hola Mundo más animado que he visto 🤗
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [193462] (1)
 
-		
 		Puedes compartir el html para ver la estructura y ver si el error esta en ese lado.
 
-	* **jhonatandev** (0)
+	* **jhonatandev** [193462] (0)
 
-		
 		`<!DOCTYPE html>  
 		<html lang=“es”>  
 		<head>  
@@ -4188,8 +3685,7 @@ Este es el Hola Mundo más animado que he visto 🤗
 		position: relative;  
 		width: 100%;  
 		}
-		``` 
-		    	.box{
+		```     	.box{
 		    		background: green;
 		    		height: 200px;
 		    		width: 200px;
@@ -4222,41 +3718,35 @@ Este es el Hola Mundo más animado que he visto 🤗
 		</body>  
 		</html>`
 
-* **Esteban Jossue  Galdamez Perez** (0)
+* **Esteban Jossue  Galdamez Perez** (0) [189926](https://platzi.com/comentario/189926/) 
 
-	
 	¿es compatible con todos los browsers?
 
-	* **deveeup** (1)
+	* **deveeup** [189926] (1)
 
-		
 		Con todos excepto con Opera Mini.
 		
 		<http://caniuse.com/#search=transition>
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [189926] (1)
 
-		
 		¡Claro que si! Actualmente todos los navegadores son compatibles con todas las reglas de CSS a no ser que estés usando un navegador con una versión muy antigua
 
-* **Marcos Ga** (0)
+* **Marcos Ga** (0) [175571](https://platzi.com/comentario/175571/) 
 
-	
 	se atoran mucho los videos ¿no se pueden ver con Edge?
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [175571] (1)
 
-		
 		Chispas, excribe a [cursos@platzi.com](mailto:cursos@platzi.com) con una captura de pantalla de la consola de tu navegador en el tab de network y filtrados por xhr. estamos trabajando también en un nuevo server de video (D) ayudame a probarlo en programación básica y desarrollo web si ahi te funciona perfecto quiere decir que vamos por buen camino.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [175571] (0)
 
-		
 		Ahora tenemos PlatziCDN, ya te van mejor todas las clases?
 
-# Transformaciones CSS
+# Transformaciones CSS [1097]
 
-## 0050. Sintaxis de Transformaciones
+## 0050. Sintaxis de Transformaciones [6824](https://platzi.com/clases/1103-animaciones-web/6824-sintaxis-de-transformaciones/)
 
 ### Descripción:
 
@@ -4268,34 +3758,27 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
   * Cambiar la posición de un elemento.
   * Cambiar el tamaño de un elemento.
 
-
-
 ### Comentarios:
 
-* **Kevin Javier Morales (Platzi)** (45)
+* **Kevin Javier Morales (Platzi)** (45) [196320](https://platzi.com/comentario/196320/) 
 
-	
 	**Rotar** elemento = `rotate(grados)`  
 	**Sesgar** elemento = `skew(grados)`  
 	Cambiar posición = translate(pixeles)  
 	Cambiar tamaño = `scale(1 = 100%, 2 = 200%, 0 )`
 
-	* **Chunchunmaru** (0)
+	* **Chunchunmaru** [196320] (0)
 
-		
 		Gracias!
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [196320] (1)
 
-		
 		Gracias
 
-* **Ivan Robles** (15)
+* **Ivan Robles** (15) [303219](https://platzi.com/comentario/303219/) 
 
-	
 	Sintaxis de Transformaciones:
-	``` 
-	    .canasta {
+	```     .canasta {
 	      transform: rotate(5deg) skew(10deg) translate(100px) scale(1.5);
 	    }
 	    
@@ -4303,51 +3786,42 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	
 	![](https://i.imgur.com/D8cZ2do.gif)
 
-	* **Jorge Wenner Arévalo Alvis** (2)
+	* **Jorge Wenner Arévalo Alvis** [303219] (2)
 
-		
 		bueno
 
-	* **Pablo Domínguez Durán** (2)
+	* **Pablo Domínguez Durán** [303219] (2)
 
-		
 		Cool!
 
-	* **Hdas** (2)
+	* **Hdas** [303219] (2)
 
-		
 		Gracias
 
-	* **Gabriel Andreí Barceló Alfaro** (2)
+	* **Gabriel Andreí Barceló Alfaro** [303219] (2)
 
-		
 		Hola @elSharmaz ¿Qué programa utilizaste para pasar la animación a gif?
 
-	* **Kevin Humberto León Santamaria** (2)
+	* **Kevin Humberto León Santamaria** [303219] (2)
 
-		
 		Genial…
 
-	* **Ivan Robles** (1)
+	* **Ivan Robles** [303219] (1)
 
-		
 		AndreyAlth para grabar esa parte de mi pantalla y convertirla en in gif utilizo Giphy Capture 😃
 
-* **Marco Aurelio Elizalde Torres** (8)
+* **Marco Aurelio Elizalde Torres** (8) [204999](https://platzi.com/comentario/204999/) 
 
-	
 	La propiedad **Transform** , nos permite escalar, mover, sesgar o rotar.
-	``` 
-	    **Rotar** = rotate(grados)
+	```     **Rotar** = rotate(grados)
 	    **Sesgar** = skew(grados)
 	    **Mover** = translate(pixeles)
 	    **Tamaño** = scale(1=100%,2=200%)
 	    
 	```
 
-* **Juan Carlos García Esquivel** (5)
+* **Juan Carlos García Esquivel** (5) [866513](https://platzi.com/comentario/866513/) 
 
-	
 	## Sintaxis de las transformaciones
 	
 	**Transformación:** Hacer que algo o alguien cambie de forma o aspecto.
@@ -4359,100 +3833,84 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	  * **Sesgar - skew(x, y)**
 	  * **Rotar - rotate(degrees)**
 	
-	
-	
 	**Las transformaciones a diferencia de las transiciones no dependen de la interacción con el usuario.**
 
-* **Alejo Fonseca** (5)
+* **Alejo Fonseca** (5) [633999](https://platzi.com/comentario/633999/) 
 
-	
 	 **Transform:**  
 	**rotate:** rota el elemento  
 	**skew:** sesgar el elemento  
 	**translate:** posición del elemento  
 	**scale:** tamaño del elemento
 
-* **Pablo Domínguez Durán** (5)
+* **Pablo Domínguez Durán** (5) [467283](https://platzi.com/comentario/467283/) 
 
-	
 	Me da muchas ideas para backgrounds de landings!  
 	[](https://i.imgur.com/TcjtMBL.gifv)
 
-	* **Pablo Domínguez Durán** (4)
+	* **Pablo Domínguez Durán** [467283] (4)
 ![Una captura](https://i.imgur.com/TcjtMBL.gif)
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [467283] (1)
 
-		
 		jajaja se ve bonito
 
-	* **Hdas** (1)
+	* **Hdas** [467283] (1)
 
-		
 		Es verdad buena idea
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [467283] (1)
 
-		
 		Genial compañero
 
-* **Pau Rolon** (5)
+* **Pau Rolon** (5) [209038](https://platzi.com/comentario/209038/) 
 
-	
 	Posición. No Poscicion.
 
-* **Juan Carlos García Esquivel** (4)
+* **Juan Carlos García Esquivel** (4) [849189](https://platzi.com/comentario/849189/) 
 
-	
 	Les dejo una pagina de referencia 😃  
 	[Transform CSS](https://cssreference.io/property/transform/)
 
-* **Antonio Madrid** (4)
+* **Antonio Madrid** (4) [541853](https://platzi.com/comentario/541853/) 
 
-	
 	Menos mal que en futuros cursos ya no se crea una copia del mismo documento en cada clase con la consecuente perdida de tiempo jajajaja.
 	
 	Por cierto, menuda evolución la de Leonidas, tanto física como en la oratoria jajajajaja.
 
-* **Yomar Esteban Miranda Sarmiento** (4)
+* **Yomar Esteban Miranda Sarmiento** (4) [208447](https://platzi.com/comentario/208447/) 
 
-	
 	Transformaciones:  
 	Rotar: rotate(deg)  
 	Sesgar: skew(deg)  
 	Trasladar: translate(px, %, em, etc)  
 	Aumentar o Disminuir: scale(%)
 
-* **Carlos Eduardo Diaz Polanco** (3)
+* **Carlos Eduardo Diaz Polanco** (3) [961657](https://platzi.com/comentario/961657/) 
 
-	
 	![guia.jpg](https://static.platzi.com/media/user_upload/guia-c4f57fce-c2cc-4c2b-a378-c6ae8e3940b2.jpg)  
 	Estoy trabajando en esta guia, creo que esta genial  
 	<https://diazpolanco13.github.io/mis-guias/guia-animation.html>
 
-* **Emanuel Valero** (3)
+* **Emanuel Valero** (3) [920205](https://platzi.com/comentario/920205/) 
 
-	
 	Este tipo de transformaciones ocurren en 2D, pero también se pueden implementar transformaciones en 3D. Aca comparto un par de enlaces al respecto:  
 	2D: <https://www.w3schools.com/css/css3_2dtransforms.asp>  
 	3D: <https://www.w3schools.com/css/css3_3dtransforms.asp>
 
-* **WSJedp** (2)
+* **WSJedp** (2) [1040688](https://platzi.com/comentario/1040688/) 
 
-	
 	La propiedad transform en sí, es una propiedad que nos permite modificar 4 propiedades, nos permitirá cambiar la position con transalate, cambiar su tamaño con scale, nos permitirá segarlo con skew y nos permitirá rotarlo con rotate.  
 	Todos estos valores son funciones que reciben valores como parámetros, rotate recibe grados, rotate(45deg), al igual que skew, skew(90deg), scale recibe un valor numérico e interpreta que 1 es el 100% de la escala del elemento, por último, esta translate que suele recibir valores en pixeles.
 
-* **Carlos Eduardo Diaz Polanco** (2)
+* **Carlos Eduardo Diaz Polanco** (2) [948290](https://platzi.com/comentario/948290/) 
 
-	
 	 **Transform:**  
 	Define una o varias transformaciones en un selector, las cuales, pueden ser su rotación en grados, el sesgado / inclinación en grados, la posición en X & Y y la escala / tamaño en base a porcentaje.
 	
 	**Rotar:**  
 	Para ROTAR un elemento podemos utilizar diferentes valores, los cuales, llevan dentro de paréntesis la medida en grados (0deg) positivos o negativos que se aplicaran:
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: rotate(90deg);
 	    
 	    }
@@ -4461,8 +3919,7 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	
 	**SESGAR:**  
 	Para SESGAR O INCLINAR un elemento utilizamos el valor skew(x, y), y dentro de sus paréntesis definimos la medida en grados positivos o negativos que se aplicaran para los ejes X & Y.
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: skew(45deg, 45deg);
 	    }
 	    
@@ -4470,8 +3927,7 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	
 	**TRASLADAR:**  
 	Para TRASLADAR o modificar la posición de un elemento podemos utilizar diferentes valores los siguientes valores, los cuales, llevan dentro de paréntesis la medida positiva o negativa que se aplicara:
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: traslate(100px, 200px);  [mueve el elemento a lo largo de su eje X & Y.]
 	    	
 	    }
@@ -4483,33 +3939,28 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	Para ESCALAR un elemento utilizamos el valor scale(x, y), y dentro de sus paréntesis definimos la medida o medidas en porcentaje para sus ejes por separados que sera escalado el elemento. Dichos valores se definen mediante un numero en el que 0 es 0%, 1 es 100% o tamaño normal y así en adelante.
 	
 	**transform: scale(2); = transform: scale(2, 2);**
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: scale(2);
 	    }
 	    
 	```
 
-* **Jessen Mercado** (2)
+* **Jessen Mercado** (2) [832227](https://platzi.com/comentario/832227/) 
 
-	
 	En transform se puede rotar, sesgar, mover posición o mover tamaño
 
-* **Wuilfredo Azócar** (2)
+* **Wuilfredo Azócar** (2) [796444](https://platzi.com/comentario/796444/) 
 
-	
 	Es importante recalcar que la aceleración por hardware se activa usando esta propiedad (transform). Bien sea usándolo desde CSS (como en el ejemplo anterior) o por JavaScript como puede ser el caso: elementoHTML.style.transform= “translateX(100px);”
 	
 	Ya que en ambos casos se esta accediendo a la propiedad transform de CSS y para el navegador no importa desde donde se establezca dicha propiedad.
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [796444] (1)
 
-		
 		Que buen dato! También lo noté gracias al ventilador de mi pc.
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [492975](https://platzi.com/comentario/492975/) 
 
-	
 	## [Sintaxis de Transformaciones](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase5)
 	
 	_Transform_ es una propiedad muy utilizada en CSS3.  
@@ -4520,17 +3971,13 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	  * `sesgar`
 	  * `rotar`
 	
-	
-	
 	Sintaxis:
-	``` 
-	    transform: none|transform-functions|initial|inherit;
+	```     transform: none|transform-functions|initial|inherit;
 	    
 	```
 	
 	Sintaxis JavaScript
-	``` 
-	    object.style.transform="rotate(7deg)"
+	```     object.style.transform="rotate(7deg)"
 	    
 	```
 	
@@ -4541,11 +3988,8 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	  * rotate()
 	  * skew()
 	
-	
-	
 	Ejemplo de sintaxis:
-	``` 
-	      <style>
+	```       <style>
 	        .canasta {
 	          transform: translate(50px) scale(1.5) rotate(15deg) skew(30deg);
 	        }
@@ -4559,44 +4003,36 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	    
 	```
 
-* **Luis Angel José Portillo Arévalo** (2)
+* **Luis Angel José Portillo Arévalo** (2) [470976](https://platzi.com/comentario/470976/) 
 
-	
 	“El contenedor de las dos pelotas” suena a alguien muy molesto aguantando su rabia.
 
-* **Pablo Domínguez Durán** (2)
+* **Pablo Domínguez Durán** (2) [467257](https://platzi.com/comentario/467257/) 
 
-	
 	Un poco de [documentanción ](https://css-tricks.com/almanac/properties/t/transform/)de transformaciones para las próximas clases 😄
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1023186](https://platzi.com/comentario/1023186/) 
 
-	
 	Las **transformaciones** es uno de los elementos más interesantes que se introducen en CSS3 para convertir el lenguaje de hojas de estilo en un sistema capaz de realizar todo tipo de efectos visuales, incluido 2D y 3D. Las propiedades principales para realizar transformaciones son las siguientes:
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1023186] (1)
 
-		
 		Las funciones de **translación** son aquellas que realizan una transformación en la que mueven un elemento de un lugar a otro. Si especificamos un valor positivo en el eje X (horizontal), lo moveremos hacia la derecha, y si especificamos un valor negativo, lo moveremos hacia la izquierda. Lo mismo con el eje Y (vertical):
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1023186] (1)
 
-		
 		Las funciones de **escalado** realizan una transformación en la que aumentan o reducen el tamaño de un elemento, basándose en el parámetro indicado, que no es más que un factor de escala:
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1023186] (1)
 
-		
 		Las funciones de **rotación** simplemente giran el elemento el número de grados indicado.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1023186] (1)
 
-		
 		Las funciones de **deformación** establecen un ángulo para torcer o inclinar un elemento en 2D
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984457](https://platzi.com/comentario/984457/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -4629,8 +4065,7 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	background: red;  
 	left: 0;  
 	}
-	``` 
-	    .pelota.b {
+	```     .pelota.b {
 	      background: blue;
 	      right: 0;
 	    }
@@ -4661,9 +4096,8 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984455](https://platzi.com/comentario/984455/) 
 
-	
 	Algunas de las cosas que podemos lograr en un elemento con transform son:
 	
 	Rotar un elemento.  
@@ -4671,34 +4105,28 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	Cambiar la posición de un elemento.  
 	Cambiar el tamaño de un elemento.
 
-* **Guillermo Moreno Lopez** (1)
+* **Guillermo Moreno Lopez** (1) [955606](https://platzi.com/comentario/955606/) 
 
-	
 	Este curso esta incríble, ya he tomado varios con leonidas y me gusta su forma de enseñar. Ademas acabo de hacer el curos de git y estoy practicando lo aprendido ahi, les dejo el enlace a mi repositorio [](https://github.com/MemoBrown/arquitectura-frontend)
 
-* **Alessandri** (1)
+* **Alessandri** (1) [832222](https://platzi.com/comentario/832222/) 
 
-	```
-	    transform: rotate(30deg) skew(20deg) scale(1.5);```
+	```    transform: rotate(30deg) skew(20deg) scale(1.5);```
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [831411](https://platzi.com/comentario/831411/) 
 
-	
 	/ _transform: rotar sesgar paosicion tamaño_ /
 
-* **Migrant** (1)
+* **Migrant** (1) [823443](https://platzi.com/comentario/823443/) 
 
-	
 	Leonidas eres demasiado crack, pero me sangraron los ojos con ese ‘poscicion’!!! jaja saludos desde Argentina capo!!!
 
-* **Dilia Lucia Prieto Hernández** (1)
+* **Dilia Lucia Prieto Hernández** (1) [818921](https://platzi.com/comentario/818921/) 
 
-	
 	Como la introducción de una película:
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	    	<metacharset="UTF-8">
@@ -4765,39 +4193,32 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	    
 	```
 
-* **lmoran** (1)
+* **lmoran** (1) [785479](https://platzi.com/comentario/785479/) 
 
-	
 	Excelente.
 
-* **Juan Torrealba** (1)
+* **Juan Torrealba** (1) [755908](https://platzi.com/comentario/755908/) 
 
-	
 	Excelente! ya estoy imaginando todo lo que podemos hacer!
 
-* **Moises10** (1)
+* **Moises10** (1) [626271](https://platzi.com/comentario/626271/) 
 
-	
 	Una propiedad muy útil a la hora de hacer animaciones.
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [618877](https://platzi.com/comentario/618877/) 
 
-	
 	La sintaxis para transformaciones es muy útil a la hora de alterar el estado actual del elemento, a través de transformaciones nos podemos permitir rotar, sesgar, reubicar un elemento o incluso cambiar el tamaño, con las respectivas propiedades de rotate(tamaño en grados (deg)), skew(tamaño en grados (deg)),), translate(tamaño en medidas (como pixeles)) y scale(tamaño en escala(1 es 100%)).
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [596745](https://platzi.com/comentario/596745/) 
 
-	
 	las transformaciones te vuelan la cabeza puuufff
 
-* **kokotzin** (1)
+* **kokotzin** (1) [508468](https://platzi.com/comentario/508468/) 
 
-	
 	muy bueno.
 
-* **raulandres13** (1)
+* **raulandres13** (1) [446232](https://platzi.com/comentario/446232/) 
 
-	
 	Un resumen  
 	transform: rotate(5deg) skew(10deg) translate(100px) scale(1.5);
 	
@@ -4806,53 +4227,45 @@ Algunas de las cosas que podemos lograr en un elemento con **_transform_** son:
 	translate(pixeles) Cambiar posición  
 	scale(1 = 100%, 2 = 200%, 0) Cambiar tamaño
 
-* **LuisDark123** (1)
-![2018-10-19 \(5\).png](https://static.platzi.com/media/user_upload/2018-10-19%20%285%29-95a912c3-bf96-4746-a43e-1d761ee8f9de.jpg)
-
-* **Jean Caret Almenar** (1)
-
+* **LuisDark123** (1) [404275](https://platzi.com/comentario/404275/) 
 	
+	![2018-10-19 \(5\).png](https://static.platzi.com/media/user_upload/2018-10-19%20%285%29-95a912c3-bf96-4746-a43e-1d761ee8f9de.jpg)
+
+* **Jean Caret Almenar** (1) [365806](https://platzi.com/comentario/365806/) 
+
 	Genial
 
-* **José Rubial** (1)
+* **José Rubial** (1) [304943](https://platzi.com/comentario/304943/) 
 
-	
 	En estos ejemplos estamos usando hover, pero que tipo de suceso tienen que ocurrir para que se disparen los transform y transition ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [304943] (6)
 
-		
 		Tanto transform como transition son propiedades que se pueden aplicar a los contenedores, en css el más normal es usar hover, pero usando clases de css que tengan transform y transition y con la ayuuda de JavaScript puedes añadir esa clase a un elemento con base en otros eventos como presionar teclas, click del mouse, salir de un elemento etc.
 
-	* **davidbr** (1)
+	* **davidbr** [304943] (1)
 
-		
 		Esto aclaro esta misma duda que tenia.
 
-* **Jesus Eduardo Huerta Solis** (1)
+* **Jesus Eduardo Huerta Solis** (1) [296592](https://platzi.com/comentario/296592/) 
 
-	
 	Cual es la diferencia entre cambiar la altura y posición con transition y cambiarla con transform? Cuando es recomendable usar una u otra?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [296592] (3)
 
-		
 		transitions permite cambiar las propiedades de un elemento en un determinado tiempo, transform permite hacer cambios o transformaciones en dos o tres dimensiones.
 
-	* **JuanDAC** (1)
+	* **JuanDAC** [296592] (1)
 Con transform haces el cambio de posición en relación a la posición del elemento
 
-* **flavia cazon Cazon** (1)
+* **flavia cazon Cazon** (1) [173257](https://platzi.com/comentario/173257/) 
 
-	
 	scale es el tamaño?
 
-	* **choijavier** (1)
+	* **choijavier** [173257] (1)
 
-		
 		No es clara tu pregunta. Te copio un ejemplo de sintaxis de scale() donde el primer parametro corresponde al eje X y el segundo al eje Y. A modo de referencia el valor 1 seria equivalente al tamaño original del elemento.
-		``` 
-		    div {
+		```     div {
 		        -ms-transform: scale(2, 3); /* IE 9 */
 		        -webkit-transform: scale(2, 3); /* Safari */
 		        transform: scale(2, 3);
@@ -4861,15 +4274,13 @@ Con transform haces el cambio de posición en relación a la posición del eleme
 		    
 		```
 
-	* **Isar Ramses Cadena Gaona** (2)
+	* **Isar Ramses Cadena Gaona** [173257] (2)
 
-		
 		en pocas palabras si, es la “escala”.  
 		Como dijo choijavier; también se pueden poner dos valores, si quieres por ejemplo que tenga forma de huevo pondrías poner por parámetro (3, 5), que seria como pedirle que el elemento tenga tres veces su ancho y 5 veces su alto.
 
-	* **deveeup** (3)
+	* **deveeup** [173257] (3)
 
-		
 		Con ** scale() ** puedes escalar el tamaño de tu elemento, donde:
 		
 		  * .5 es el 50% del tamaño de tu elemento.
@@ -4877,22 +4288,17 @@ Con transform haces el cambio de posición en relación a la posición del eleme
 		  * 2 es el 200% del tamaño de tu elemento.
 		  * Y así sucesivamente…
 		
-		
-		
 		En el caso de que quieras especificar el tamaño para cada eje, puedes hacer referencia al valor del eje X y al valor del eje Y, de la siguiente manera: scale(X, Y)
 		
 		  * Ejemplo: scale (1, 2)
 		
-		
-		
 		De esta manera tu elemento va a escalar su tamaño el 100% en el eje X y el 200% en el eje Y.
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [173257] (4)
 
-		
 		Si, aunque imagina que vas a estirar tus elementos como si fueran imagenes. El scale aplica a todo lo que lleve dentro
 
-## 0060. Transformaciones de rotación
+## 0060. Transformaciones de rotación [6825](https://platzi.com/clases/1103-animaciones-web/6825-transformaciones-de-rotacion/)
 
 ### Descripción:
 
@@ -4901,13 +4307,11 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 
 ### Comentarios:
 
-* **Ivan Robles** (51)
+* **Ivan Robles** (51) [303480](https://platzi.com/comentario/303480/) 
 
-	
 	Transformaciones de Rotación:  
 	![](https://i.imgur.com/8gEwXhG.gif)
-	``` 
-	    .container:hover.cuadrado.a {
+	```     .container:hover.cuadrado.a {
 	      transform: rotate(-45deg);
 	    }
 	    .container:hover.cuadrado.b {
@@ -4928,67 +4332,55 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-	* **AlxSan** (4)
+	* **AlxSan** [303480] (4)
 
-		
 		SE VE MUY COOL!
 
-	* **Jorge Wenner Arévalo Alvis** (2)
+	* **Jorge Wenner Arévalo Alvis** [303480] (2)
 
-		
 		bueno!
 
-	* **Fernando Alejandro Yerena Ramos** (3)
+	* **Fernando Alejandro Yerena Ramos** [303480] (3)
 
-		
 		Esta increíble.  
 		Una pregunta ¿Cómo generaste el gif? ¿Fue directo del navegador o mediante un programa?
 		
 		Por cierto tomé como inspiración el [ejercicio](https://github.com/ferdinandalexa/RotacionCSS) que compartiste para practicar por mi cuenta espero no haya ningún problema. Cualquier consejo que pudieras darme seria excelente.
 
-	* **cristiancgl** (2)
+	* **cristiancgl** [303480] (2)
 
-		
 		Gracias!
 
-	* **Ivan Robles** (4)
+	* **Ivan Robles** [303480] (4)
 
-		
 		 **FerdinandAlexa** , yo utilicé [GiphyCapture](https://giphy.com/apps/giphycapture) para grabar un gif desde mi pantalla, cualquier capturador de Gifs de pantalla te puede servir!!
 		
 		Un consejo… Pues nada, a seguir practicando!! xD
 
-	* **Jose Alfredo Cordoba Cadavid** (2)
+	* **Jose Alfredo Cordoba Cadavid** [303480] (2)
 
-		
 		¡Gracias!
 
-	* **Fernando Alejandro Yerena Ramos** (2)
+	* **Fernando Alejandro Yerena Ramos** [303480] (2)
 
-		
 		@elSharmaz Gracias por la respuesta y el consejo!! Saludos ñ.ñ/
 
-	* **Pablo Colqui** (2)
+	* **Pablo Colqui** [303480] (2)
 
-		
 		Es demasiado adictivo todas las transformaciones que se le pueden hacer, las posibilidades son infinitas.
 
-	* **Hdas** (2)
+	* **Hdas** [303480] (2)
 
-		
 		Muchas gracias muy buen aporte
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [303480] (1)
 
-		
 		Genial
 
-* **Marco Aurelio Elizalde Torres** (20)
+* **Marco Aurelio Elizalde Torres** (20) [205035](https://platzi.com/comentario/205035/) 
 
-	
 	Transform tiene las siguientes propiedades:
-	``` 
-	    /* Rotación en el eje X */
+	```     /* Rotación en el eje X */
 	    transform: rotateX(45deg);
 	    /* Rotación en el eje X */
 	    transform: rotateY(45deg);
@@ -5004,14 +4396,14 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-	* **Ricardo Medina** (1)
+	* **Ricardo Medina** [205035] (1)
 
-		
 		/* Anidando transformaciones */  
 		transform: rotateX(45deg) rotateY(45deg) rotateZ(45deg);
 
-* **Fernando Alejandro Yerena Ramos** (12)
-![](https://lh3.googleusercontent.com/uX1wfLFGsWohO560BiZojuxvhww1FTxPn3BoHwtmdNPl4YWccmcGgIgGxYiweBBqxFrplq786EBk-WURdppR9CNPtHfvPim0mxhpLrM8WsqJ8wQxeq6U6R29eAN5cQQCSIU1Rmg0HiwkC9-leVaBJIExvbuWKkLZppNVZh-tSll3ZuRBE9hDs4xBtAQzjsZZsmKL4Q6xbNiwnxGS2qKcrl0sNDt_PJL6gwEXIcuTKTP1hjlJU7oGnNYChJh8Usdeca8aGu0bjXQ6IMn6kWTRqZ3U37xB_NY7qODTHqjLOy1se8XkiAkDDiHbK0HR81o6QpNyxphJJE8gh8NTBvszJQsDDHx_b98bCt1D-j0HOxnyYm5mlxO0v_p2b5ABL-sJObl-4k1qZ_7_iZXTJFNB5qzHFyWXc5q2Cj_WfWI16g__gAjK-hiAzjK5bqj7uDtMk7QKsNOL2hyfVaYlpmSJxfZwikYGsRQBlvudTKpOD_RzWokLev7l4BPGN8801KgE4-iIqXralrUKFAeknLEyXb88-rKxW-z7gOdx20S3C-pFMBe-y2QPipKjCDqy56FVbZ6GwOluME-nJ0s9CQXV_LsaOGGoTwQAreK_atC_56G8vg_hSnmjVs56IXgUuMMfcrtRt25OGao2XRz4kpNpOsUn=w1775-h688-no)
+* **Fernando Alejandro Yerena Ramos** (12) [437311](https://platzi.com/comentario/437311/) 
+	
+	![](https://lh3.googleusercontent.com/uX1wfLFGsWohO560BiZojuxvhww1FTxPn3BoHwtmdNPl4YWccmcGgIgGxYiweBBqxFrplq786EBk-WURdppR9CNPtHfvPim0mxhpLrM8WsqJ8wQxeq6U6R29eAN5cQQCSIU1Rmg0HiwkC9-leVaBJIExvbuWKkLZppNVZh-tSll3ZuRBE9hDs4xBtAQzjsZZsmKL4Q6xbNiwnxGS2qKcrl0sNDt_PJL6gwEXIcuTKTP1hjlJU7oGnNYChJh8Usdeca8aGu0bjXQ6IMn6kWTRqZ3U37xB_NY7qODTHqjLOy1se8XkiAkDDiHbK0HR81o6QpNyxphJJE8gh8NTBvszJQsDDHx_b98bCt1D-j0HOxnyYm5mlxO0v_p2b5ABL-sJObl-4k1qZ_7_iZXTJFNB5qzHFyWXc5q2Cj_WfWI16g__gAjK-hiAzjK5bqj7uDtMk7QKsNOL2hyfVaYlpmSJxfZwikYGsRQBlvudTKpOD_RzWokLev7l4BPGN8801KgE4-iIqXralrUKFAeknLEyXb88-rKxW-z7gOdx20S3C-pFMBe-y2QPipKjCDqy56FVbZ6GwOluME-nJ0s9CQXV_LsaOGGoTwQAreK_atC_56G8vg_hSnmjVs56IXgUuMMfcrtRt25OGao2XRz4kpNpOsUn=w1775-h688-no)
 	
 	Me inspiré en el comentario otro compañero en esta clase para esta [practica](https://ferdinandalexa.github.io/RotacionCSS/).
 	
@@ -5019,72 +4411,60 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	
 	En el repositiorio podran encontrar un archivo " _.md_ " con las notas que tomé de la clase. Espero a alguien pueda servirle.
 
-	* **irma-davila** (1)
+	* **irma-davila** [437311] (1)
 
-		
 		genial
 
-	* **platzerito02112019 platzerito02112019** (1)
+	* **platzerito02112019 platzerito02112019** [437311] (1)
 
-		
 		me gusto mucho este ejemplos
 
-	* **platzerito02112019 platzerito02112019** (3)
+	* **platzerito02112019 platzerito02112019** [437311] (3)
 
-		
 		 **Tome tu codigo y le agrege mas rotaciones en todos los ejes**
 		
 		![](https://static.platzi.com/media/user_upload/rotacion-12caa9af-4885-40b3-ac62-61ac3561de66.jpg))
 
-* **Felipoch** (8)
+* **Felipoch** (8) [822869](https://platzi.com/comentario/822869/) 
 
-	
 	15 Fun and Inspiring Examples of CSS Animation:
 	
 	<https://1stwebdesigner.com/15-fun-and-inspiring-examples-of-css-animation/>
 
-	* **Dario-German-Mansilla** (1)
+	* **Dario-German-Mansilla** [822869] (1)
 
-		
 		Thanks!
 
-	* **Jaime Gonzalez** (1)
+	* **Jaime Gonzalez** [822869] (1)
 
-		
 		cool
 
-* **Sergio Marquez** (7)
+* **Sergio Marquez** (7) [279703](https://platzi.com/comentario/279703/) 
 
-	
 	Encuentro que estas dos instrucciones no son equivalentes (Ambas rotan en los tres ejes pero el tamaño final es otro). Porque?  
 	transform: rotateX(45deg) rotateY(45deg) rotateZ(45deg);  
 	transform: rotate3d(1,1,1,45deg);
 
-	* **Jcion** (1)
+	* **Jcion** [279703] (1)
 
-		
 		Sí, no son iguales
 
-	* **irma-davila** (1)
+	* **irma-davila** [279703] (1)
 
-		
 		cierto
 
-* **Andres Felipe Valencia Benitez** (4)
+* **Andres Felipe Valencia Benitez** (4) [707841](https://platzi.com/comentario/707841/) 
 
-	
 	¿Por qué cuando recargo la página, todas las propiedades del objeto quedan con animación, es decir, se puede apreciar la forma en que cambian de color tanto el fondo, la fuente de letra, aumenta el margin del cuadrado? Si en la propiedad transition defino un valor de 10s. Se puede ver todo el proceso del cambio del cuadrado, no es algo que aplique solo al hover.
 	
 	![Cuadro.png](https://static.platzi.com/media/user_upload/Cuadro-5177948c-b9e0-46b7-b379-5770771ab692.jpg)
 
-	* **Anthony Williams Moreno Cordova** (2)
+	* **Anthony Williams Moreno Cordova** [707841] (2)
 
-		
 		Creo que es debido a que transition engloba a transition-property al no declarar cual es el atributo a modificar y solo poner el tiempo este agarra a los atributos y te muestra su cambio desde que se le es asignado por defecto hasta el cambio que tu le diste en el css
 
-* **pablojorgeandres** (4)
+* **pablojorgeandres** (4) [493406](https://platzi.com/comentario/493406/) 
 
-	
 	## [Transformaciones de rotación](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase6)
 	
 	La propiedad _ transform: rotate(angle)_ nos permite hacer la rotación de un objeto.
@@ -5095,11 +4475,8 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	  * Y - rotateY() - rotación vertical - ↔️
 	  * Z _ rotateZ() - rotación eje central - 🔄
 	
-	
-	
 	Por defecto _rotate()_ refiere a la rotación del eje Z, por lo tanto:
-	``` 
-	    rotate(Xdeg) == rotateZ(Xdeg)
+	```     rotate(Xdeg) == rotateZ(Xdeg)
 	    
 	```
 	
@@ -5110,16 +4487,14 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	`rotate(-45deg)` ↪️
 	
 	También puedo rotar el elemento en 2 o 3 ejes a la vez:
-	``` 
-	    transform: rotateX(Xdeg) rotateY(Xdeg) rotateZ(Xdeg);
+	```     transform: rotateX(Xdeg) rotateY(Xdeg) rotateZ(Xdeg);
 	    
 	    transform: rotate3d(0, 1, 0, -45deg);
 	    
 	```
 	
 	Cuando aplico _transition_ , una buena práctica es referirse siempre al padre del elemento, ya que si por ejemplo hago un hover en la esquina del mismo, cuando este empieza a rotar mi hover ya no está sobre el elemento porque este se “corrió” y esto generalmente provoca un fallo en el funcionamiento.
-	``` 
-	        <style>
+	```         <style>
 	            .cuadrado {
 	                transition-duration: Xs;
 	            }
@@ -5135,78 +4510,64 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-	* **Kevin Chipana Chucare** (2)
+	* **Kevin Chipana Chucare** [493406] (2)
 
-		
 		Genial, gracias.
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [493406] (2)
 
-		
 		Que bueno que te sirva.  
 		[Acá](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md) está el resumen de todo el curso.  
 		Saludos.
 
-	* **Hdas** (1)
+	* **Hdas** [493406] (1)
 
-		
 		Muchas gracias
 
-* **Clebert** (4)
+* **Clebert** (4) [450262](https://platzi.com/comentario/450262/) 
 
-	
 	Me gustaría un curso de animación 3D para la web y su aplicación a la localización. Que cursos me recomiendan en Platzi?
 
-	* **JuanDAC** (3)
+	* **JuanDAC** [450262] (3)
 
-		
 		Te recomiendo la carera de matemáticas ya que el 3D tiene bastantes matemáticas y estas te ayudaran a entender mejor un curso de animaciones 3D para la web (Spoiler: las transformaciones en CSS se utilizan parar hacer animaciones 3D y 2D en la web, estas transformaciones son operaciones matemáticas de matrices).
 
-	* **Pablo Domínguez Durán** (3)
+	* **Pablo Domínguez Durán** [450262] (3)
 
-		
 		Más precisamente el curso de algebra lineal te serviría!
 
-	* **Hdas** (2)
+	* **Hdas** [450262] (2)
 
-		
 		Muy interesante
 
-* **Teofilo Rosales Gama** (4)
+* **Teofilo Rosales Gama** (4) [278210](https://platzi.com/comentario/278210/) 
 
-	
 	esta clase me recordo a cierta temp de Pokemon, a ustedes?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [278210] (4)
 
-		
 		Yo apruebo cualquier cosa que te recuerde a Pokemon
 
-	* **Teofilo Rosales Gama** (1)
+	* **Teofilo Rosales Gama** [278210] (1)
 
-		
 		gracias estoy justo en tu curso gracias por notarme
 
-* **Omar Gaston Chalas** (4)
+* **Omar Gaston Chalas** (4) [274812](https://platzi.com/comentario/274812/) 
 
-	
 	 **TIP Importante** Aplicar el hover a la etiqueta padre.
 
-* **Pablo Domínguez Durán** (3)
+* **Pablo Domínguez Durán** (3) [467374](https://platzi.com/comentario/467374/) 
 
-	
 	Encontré este cubo hecho con CSS ![](https://i.imgur.com/b7MQhRd.gif)
 	
 	**Cómo lo harían ustedes?**
 
-* **Cristhian Camilo Perez Veloza** (3)
+* **Cristhian Camilo Perez Veloza** (3) [426606](https://platzi.com/comentario/426606/) 
 
-	
 	hice este ejemplo : [Frame rotate](https://codepen.io/Chris245/pen/aQVyJy?editors=1100)
 	
 	**html**
-	``` 
-	    <body>
+	```     <body>
 	      <divclass="container">
 	        <divclass="cuadrado">
 	          <h1>Cris</h1>
@@ -5217,8 +4578,7 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	```
 	
 	**css**
-	``` 
-	    body{
+	```     body{
 	      background: #485460;
 	      display: flex;
 	      align-items: center;
@@ -5253,42 +4613,35 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [426606] (1)
 
-		
 		Que buen aporte se aprecia muy bien
 
-* **Omar Rueda** (3)
+* **Omar Rueda** (3) [376330](https://platzi.com/comentario/376330/) 
 
-	
 	transform: rotateY(-90deg) skewY(10deg);  
 	asi parece que tiene perspectiva
 
-	* **karinaportuguez** (1)
+	* **karinaportuguez** [376330] (1)
 
-		
 		Si, así se mira mejor
 
-* **Jordi Santamaría Portolés** (3)
+* **Jordi Santamaría Portolés** (3) [281550](https://platzi.com/comentario/281550/) 
 
-	
 	siempre me preguntare, xk crear el proyecto de 0 cada video, xk no simplemente hacer una nueva rama de git y listo?
 
-	* **Jcion** (2)
+	* **Jcion** [281550] (2)
 
-		
 		Porque no todos los que ven este curso saben lo que es git…
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [281550] (1)
 
-		
 		En mi caso me gusta igual por practicidad tener las carpetas e ir a ellas con un solo clic y no tener que manejarlo por consola aunque lo sepa hacer, me ahorra tiempo si quiero devolverme y estudiar algo específico.
 		
 		Igual en mi repo en Github, tener las carpetas me resulta mejor.
 
-* **Yomar Esteban Miranda Sarmiento** (3)
+* **Yomar Esteban Miranda Sarmiento** (3) [208450](https://platzi.com/comentario/208450/) 
 
-	
 	Transformaciones:
 	
 	Rotación en X:  
@@ -5308,54 +4661,47 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	
 	NOTA: Los grados prueden ser negativos.
 
-* **Carlos Eduardo Diaz Polanco** (2)
-![rotate.jpg](https://static.platzi.com/media/user_upload/rotate-d0a397fb-e2aa-4b94-80d8-477906aa8446.jpg)
+* **Carlos Eduardo Diaz Polanco** (2) [961678](https://platzi.com/comentario/961678/) 
+	
+	![rotate.jpg](https://static.platzi.com/media/user_upload/rotate-d0a397fb-e2aa-4b94-80d8-477906aa8446.jpg)
 	
 	Estoy creando una guia de los cursos que realizo de platzi, espero que sea de su agrado  
 	<https://diazpolanco13.github.io/mis-guias/guia-animation.html>
 
-	* **Emerson Cedeño Salazar** (1)
+	* **Emerson Cedeño Salazar** [961678] (1)
 
-		
 		excelente, gracias por compartir! 👏🏼
 
-* **Carlos Eduardo Diaz Polanco** (2)
+* **Carlos Eduardo Diaz Polanco** (2) [948345](https://platzi.com/comentario/948345/) 
 
-	
 	 **Sintaxis de la propiedad rotacion:**  
 	💫 rotate() / rotateZ() - rotar el elemento en un plano 2D. Por defecto dirección de las manecillas del reloj.
-	``` 
-	    transform: rotate(90deg);
+	```     transform: rotate(90deg);
 	    
 	```
 	
 	💫 rotateX() - rotar el elemento en un plano 3D, tirando la parte superior (top) del elemento hacia el fondo por defecto.
-	``` 
-	    transform: rotateX(90deg);
+	```     transform: rotateX(90deg);
 	    
 	```
 	
 	💫 rotateY() - rotar el elemento en un plano 3D, tirando la parte izquierda (left) del elemento hacia el fondo por defecto.
-	``` 
-	    transform: rotateY(90deg);
+	```     transform: rotateY(90deg);
 	    
 	    
 	```
 	
 	💫 rotate3d() - rota de manera totalmente 3D el elemento, uniendo los 3 valores anteriores. Define con un 1 los valores a utilizar y como 4to parámetro la medida en grados que usaran (x, y, z, deg).
-	``` 
-	    transform: rotate3d(1,1,1,90deg);
+	```     transform: rotate3d(1,1,1,90deg);
 	    
 	```
 
-* **Emanuel Valero** (2)
+* **Emanuel Valero** (2) [920235](https://platzi.com/comentario/920235/) 
 
-	
 	Aca un ejemplo para crear un loading spinner utilizando svg y animaciones CSS: <https://glennmccomb.com/articles/building-a-pure-css-animated-svg-spinner/>
 
-* **Alejo Fonseca** (2)
+* **Alejo Fonseca** (2) [634303](https://platzi.com/comentario/634303/) 
 
-	
 	La propiedad CSS transform te permite modificar el espacio de coordenadas del modelo de formato visual CSS. Usándola, los elementos pueden ser trasladados, rotados, escalados o sesgados de acuerdo a los valores establecidos.  
 	**Función rotate()**  
 	La función CSS rotate() define una transformación que gira un elemento alrededor de un punto fijo.  
@@ -5365,40 +4711,33 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	**rotateZ:** Rotará siguiendo la linea del eje cartesiano “Z”.  
 	**rotate3d:** Es una manera de colocar las tres propiedades anteriores de manera corta. **rotate3d:** (x,y,z,ángulo)
 
-* **Moises10** (2)
+* **Moises10** (2) [626316](https://platzi.com/comentario/626316/) 
 
-	
 	Siempre es bueno que se aclaren las buenas prácticas  
 	muy buena clase.  
 	Aqui un poco de documentación de rotate  
 	<https://www.w3schools.com/css/css3_3dtransforms.asp>
 
-* **jangove** (2)
+* **jangove** (2) [350531](https://platzi.com/comentario/350531/) 
 
-	
 	.container:hover .cuadrado  
 	APLICAR ESTE HOVER ES BUENA PRACTICA
 
-* **Juan Andrés Cuevas** (2)
+* **Juan Andrés Cuevas** (2) [338552](https://platzi.com/comentario/338552/) 
 
-	
 	Qué pasa si por casualidad pongo?
-	``` 
-	    transform: rotate3d(3, 2, 1, 45deg);
+	```     transform: rotate3d(3, 2, 1, 45deg);
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [338552] (2)
 
-		
 		Prueba, es la mejor forma de aprender.
 
-* **David Behar** (1)
+* **David Behar** (1) [1091270](https://platzi.com/comentario/1091270/) 
 
-	
 	Cabe destacar que las rotaciones aceptan números mayores a los 360deg, por lo tanto podríamos hacer que rote 360deg desde el 0deg.
-	``` 
-	    .square {
+	```     .square {
 	      display: flex;
 	      align-items: center;
 	      justify-content: center;
@@ -5423,30 +4762,26 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1040701](https://platzi.com/comentario/1040701/) 
 
-	
 	Rotate nos ofrece una gran variedad de formas sobre como rotar un elemento, nos permite rotar un elemento en uno de los 3 ejes específicos o directamente manipular todos los ejes en un solo valor.  
 	Para controlar un eje en específico solo deberemos especificar cuál será este eje, con la misma propiedad de rotate, es decir, rotateX(90deg), rotateY(35deg), rotateZ(10deg).  
 	O en caso de querer manipular todos los ejes sin necesidad de especificar cada uno usamos la propiedad rotate3d, que recibe como parámetros los ejes que serán afectados con valores booleanos numéricos y por ultimo los grados en que los rotaremos. Rotate(1,0,0 45deg)
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1023226](https://platzi.com/comentario/1023226/) 
 
-	
 	`/* Voy aplicar la transformación de rotación al cuadrado pero con base a una`transición que ocurra en su elemento padre _/`.container:hover .cuadrado{ transform: rotate(45deg);`/_ usando grado negativos en la rotacion _/`transform: rotate(-45deg);`/_ Usando el eje X _/`transform: rotateX(45deg);`/_ Usando el eje y _/`transform: rotateY(-45deg);`/_ Usando el eje z _/`transform: rotateZ(45deg);`/_ Usando los tres ejes al mismo tiempo*/`transform: rotateX(45deg) rotateY(45deg) rotateZ(45deg);`/* Usando los tres ejes de manera resumida`  
 	transform: rotate3d(x,y,z, angulos); */  
 	transform: rotate3d(1,0,0, 45deg);  
 	transform: rotate3d(0,1,0, -45deg);  
 	transform: rotate3d(0,0,1, 45deg);
 
-* **Francisca Alejandra Salinas Castillo** (1)
+* **Francisca Alejandra Salinas Castillo** (1) [1018486](https://platzi.com/comentario/1018486/) 
 
-	
 	Me encanta! está muy divertido este curso
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984463](https://platzi.com/comentario/984463/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -5495,27 +4830,22 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	</body>  
 	</html>
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [968705](https://platzi.com/comentario/968705/) 
 
-	
 	cuando le haces una rotación a un elemento con esquinas, el hover pierde el foco cuando el elemento rota y el mouse deja de estar sobre el elemento
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [819842](https://platzi.com/comentario/819842/) 
 
-	
 	Muy buena clase!
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [814032](https://platzi.com/comentario/814032/) 
 
-	
 	que interesante clase!
 
-* **lmoran** (1)
+* **lmoran** (1) [786340](https://platzi.com/comentario/786340/) 
 
-	
 	Anotaciones:
-	``` 
-	    /* rotar a la derecha */
+	```     /* rotar a la derecha */
 	                /*  transform: rotate(45deg); */
 	                /*   rotar a la izquierda */
 	                /*  transform: rotate(-45deg); */
@@ -5535,10 +4865,9 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-* **Omar Alberto Alvarez Ortiz** (1)
+* **Omar Alberto Alvarez Ortiz** (1) [764999](https://platzi.com/comentario/764999/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -5591,9 +4920,8 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-* **tbc** (1)
+* **tbc** (1) [754794](https://platzi.com/comentario/754794/) 
 
-	
 	¿Porqué
 	
 	transform: rotateX(45deg)rotateY(45deg)rotateZ(45deg);
@@ -5604,20 +4932,15 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	
 	?
 
-* **Camilo Tabares** (1)
+* **Camilo Tabares** (1) [753138](https://platzi.com/comentario/753138/) 
 
-	
-	  1. Como activar la animación de cuadrado haciendo click/hover en un botón?
-	  2. Con el ejercicio se nota que las letras y los borders se pixelan un poco, como puedo prevenir este issue?
-	
-	
+	    1. Como activar la animación de cuadrado haciendo click/hover en un botón?
+	    2. Con el ejercicio se nota que las letras y los borders se pixelan un poco, como puedo prevenir este issue?
 
-* **Jhosep Pérez** (1)
+* **Jhosep Pérez** (1) [623803](https://platzi.com/comentario/623803/) 
 
-	
 	😄
-	``` 
-	    // ----------> ROTACION:
+	```     // ----------> ROTACION:
 	    
 	    transform: rotate(45deg);
 	    transform: rotate(-45deg);
@@ -5636,124 +4959,105 @@ En este vídeo vamos a ver las distintas formas de _**rotar**_ un elemento web c
 	    
 	```
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [619037](https://platzi.com/comentario/619037/) 
 
-	
 	**Anotaciones:**
 	
 	Una rotación positiva va en dirección de las agujas del reloj, una negativa lo hace de modo contrario. Para rotar en el eje X, se hace con la propiedad rotateX: [valor], para hacerlo con el eje Y, se hace con la propiedad rotateY: [valor], y con el eje Z (lo que seria por defecto), se hace con la propiedad rotateZ: [valor].
 
-* **Cristian Florez** (1)
+* **Cristian Florez** (1) [561805](https://platzi.com/comentario/561805/) 
 
-	
 	Girando En el eje x o en el eje Y 180deg podemos hacer que el texto este escrito de atras hacia delante o de cabeza
 	
 	![](Descargas/Captura.PNG)
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [557475](https://platzi.com/comentario/557475/) 
 
-	
 	Genial buena practica..
 
-* **Fabián Nava Pereda** (1)
+* **Fabián Nava Pereda** (1) [534559](https://platzi.com/comentario/534559/) 
 
-	
 	¿Como podría hacer para que el contenido. en este caso el “Hola mundo” no se rotara junto con el cuadro?
 
-	* **ebar0n (Platzi)** (2)
+	* **ebar0n (Platzi)** [534559] (2)
 
-		
 		Hola, como el texto esta dentro del cuadrado, tomara los movimientos, lo que puedes hacer para separarlos, es poner el texto en un nivel superior.
 
-* **elreydavid** (1)
+* **elreydavid** (1) [510356](https://platzi.com/comentario/510356/) 
 
-	
 	se aplica alas matematicas geometria espacial
 
-* **Clebert** (1)
+* **Clebert** (1) [450260](https://platzi.com/comentario/450260/) 
 
-	
 	Gracias!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [73271](https://platzi.com/comentario/831424/) 
 porque esto /transform: rotateX(45deg) rotateY(45deg) rotatez(45deg);/ no me da el mismo resultado que esto transform: rotate3...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [73271] (1)
 
-		
 		Mira esta [página](https://meyerweb.com/eric/css/tests/rotate3d-explore.html) te va a encantar, ahí puedes probar tú código y ver una representación visual de las diferentes rotaciones para comparar.
 
-* **Juan Ledesma** (1)
+* **Juan Ledesma** (1) [61783](https://platzi.com/comentario/627747/) 
 hola, como puedo hacer que un div pueda rotar 180º y mostrar algo en la parte posterior. Algo como esta web: 
 
-	* **Alex Fabian Moreno Acero** (1)
+	* **Alex Fabian Moreno Acero** [61783] (1)
 
-		
 		como una carta?
 
-* **Fabián Nava Pereda** (1)
+* **Fabián Nava Pereda** (1) [54840](https://platzi.com/comentario/534559/) 
 ¿Como podría hacer para que el contenido. en este caso el “Hola mundo” no se rotara junto con el cuadro?
 
-	* **ebar0n (Platzi)** (2)
+	* **ebar0n (Platzi)** [54840] (2)
 
-		
 		Hola, como el texto esta dentro del cuadrado, tomara los movimientos, lo que puedes hacer para separarlos, es poner el texto en un nivel superior.
 
-* **Clebert** (1)
+* **Clebert** (1) [48041](https://platzi.com/comentario/450262/) 
 Me gustaría un curso de animación 3D para la web y su aplicación a la localización. Que cursos me recomiendan en Platzi?
 
-	* **JuanDAC** (3)
+	* **JuanDAC** [48041] (3)
 
-		
 		Te recomiendo la carera de matemáticas ya que el 3D tiene bastantes matemáticas y estas te ayudaran a entender mejor un curso de animaciones 3D para la web (Spoiler: las transformaciones en CSS se utilizan parar hacer animaciones 3D y 2D en la web, estas transformaciones son operaciones matemáticas de matrices).
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [37924](https://platzi.com/comentario/338552/) 
 Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg); 
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [37924] (2)
 
-		
 		Prueba, es la mejor forma de aprender.
 
-* **Michele Di Turi** (0)
+* **Michele Di Turi** (0) [194531](https://platzi.com/comentario/194531/) 
 
-	
 	Y si quisiera mover el punto de anclaje para cambiar el tipo de rotacion del objeto, cómo se haría?
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [194531] (2)
 
-		
 		Cambiando el punto de transformación y te enseño en esta clase <https://platzi.com/clases/animaciones-web/concepto/transformaciones-css/punto-de-transformacion/material/>
 
-* **erickblanco** (0)
+* **erickblanco** (0) [165969](https://platzi.com/comentario/165969/) 
 
-	
 	la transformación se puede aplicar a una imagen? o solo a objetos creados en css?
 
-	* **Leonidas Esteban Gonzalez** (15)
+	* **Leonidas Esteban Gonzalez** [165969] (15)
 
-		
 		 **Funciona perfecto en imágenes también**. Cualquier cosa en html la puedes animar… _te animo a seguir tomando el curso_ #badumtss
 
-	* **Santiago Escalante** (11)
+	* **Santiago Escalante** [165969] (11)
 
-		
 		Las transformaciones se pueden aplicar a cualquier elemento que exista dentro de tu archivo HTML.
 		
 		Por ejemplo, mirá esto (HTML&CSS only level EXPERT):  
 		<https://codepen.io/thebabydino/pen/MeeqLB>
 
-	* **Luis Felipe Silgado Cortázar** (0)
+	* **Luis Felipe Silgado Cortázar** [165969] (0)
 
-		
 		Wow eso si esta op
 
-	* **Carmen Sánchez Salgado** (2)
+	* **Carmen Sánchez Salgado** [165969] (2)
 
-		
 		Wooow vaya que si es nivel expert, no conocía esa sintaxis ni para html ni para CSS
 
-## 0070. Transformaciones de traslación y perspectiva
+## 0070. Transformaciones de traslación y perspectiva [6826](https://platzi.com/clases/1103-animaciones-web/6826-transformaciones-de-traslacion-y-perspectiva/)
 
 ### Descripción:
 
@@ -5763,120 +5067,98 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
   * _**Translate**_ nos sirve para poder mover un elemento arriba, abajo, derecha e izquierda.
   * Utilizamos la propiedad _**perspective**_ para poder darle profundidad a un elemento y obtener un efecto 3D.
 
-
-
 ### Comentarios:
 
-* **Adrián Okri** (54)
+* **Adrián Okri** (54) [165508](https://platzi.com/comentario/165508/) 
 
-	
 	No tengo idea de si esto le servirá a alguien, pero si tuvieron el mismo problema con la perspectiva 3D, en .container escriban:
 	
 	transform-style: preserve-3d;
 	
 	(Al menos a mí me funciono XD )
 
-	* **Bautista Moran** (0)
+	* **Bautista Moran** [165508] (0)
 
-		
 		Muchas gracias!
 
-	* **Ivan Robles** (19)
+	* **Ivan Robles** [165508] (19)
 
-		
 		Gracias, en Chrome corre natural, pero esa linea es necesaria en **Firefox**.
 		
 		**transform-style** sirve para determinar si el hijo de un elemento se encuentra en un espacio 3D o en uno Plano, para mas información aqui esta la documentación:  
 		[transform-style](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-style)
 
-	* **CarlosAlba** (1)
+	* **CarlosAlba** [165508] (1)
 
-		
 		Muchas gracias, importante aporte para quienes usamos Firefox
 
-	* **Jorge Wenner Arévalo Alvis** (1)
+	* **Jorge Wenner Arévalo Alvis** [165508] (1)
 
-		
 		gracias
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [165508] (1)
 
-		
 		gracias!
 
-	* **Hdas** (1)
+	* **Hdas** [165508] (1)
 
-		
 		Buen aporte muchas gracias
 
-	* **Diego Cuevas** (1)
+	* **Diego Cuevas** [165508] (1)
 
-		
 		Estuve como decimos en Colombia “Cacharreando” y ademas del aporte del compañero, tambien se puede dee la siguiente forma:
 		
 		En el .container colocamos **-webkit-perspective** : 200px;
 		
 		Esto para quienes utilizamos Firefox, espero que pueda complementar la ayuda de AdrianOkri =).
 
-	* **BitCharly** (1)
+	* **BitCharly** [165508] (1)
 
-		
 		Me frustre mucho porque no funcionaba en Firefox jaja gracias por el aporte 😃
 
-* **Geraldyn Daniela Chirinos De Sousa** (19)
+* **Geraldyn Daniela Chirinos De Sousa** (19) [181403](https://platzi.com/comentario/181403/) 
 
-	
 	Esta clase me hace recordar a After effects! algunos conceptos son parecidos, y gracias a eso entendi mejor el concepto de perspective-origin que en AE seria algo asi como el punto de anclaje 😄
 
-	* **Leonidas Esteban Gonzalez** (34)
+	* **Leonidas Esteban Gonzalez** [181403] (34)
 
-		
 		Es exactamente igual pero para el navegador. Off topic antes de ser programador yo quería hacer post producción de video y aprendí after effect y me enamoré de los motion graphics, mi compu no era tan bueno así que me volví dev y así redescubrí con las animaciones en CSS ^ ^
 
-	* **Wilson Marino Pablo Mendez** (2)
+	* **Wilson Marino Pablo Mendez** [181403] (2)
 
-		
 		Al parecer tengo al en común con Leonidas… Yo quería estudiar Comunicación Audiovisual estudie algunos conceptos por mi propia cuenta y en esos esta After effects…
 
-* **LuisDark123** (13)
+* **LuisDark123** (13) [404359](https://platzi.com/comentario/404359/) 
 
-	
 	Encontre este boton en codepen  
 	![2018-10-19 \(6\).png](https://static.platzi.com/media/user_upload/2018-10-19%20%286%29-2991aa45-bbb8-4a39-900c-e5e69d5e0284.jpg)
 
-	* **LuisDark123** (3)
+	* **LuisDark123** [404359] (3)
 
-		
 		Este es el link  
 		<https://codepen.io/anon/pen/MPGMEW?editors=0100>
 
-	* **Hdas** (2)
+	* **Hdas** [404359] (2)
 
-		
 		Muchas gracias agregando al proyecto
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [404359] (1)
 
-		
 		Se ve interesante
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [404359] (1)
 
-		
 		Esta genial ese botón, gracias por compartirlo
 
-	* **MizaelpVielma** (1)
+	* **MizaelpVielma** [404359] (1)
 
-		
 		En vez de solo copiar el código, hagan un fork de los proyectos. 😃
 
-* **Ivan Robles** (13)
+* **Ivan Robles** (13) [303518](https://platzi.com/comentario/303518/) 
 
-	
 	Transformaciones de traslación y perspectiva:  
 	![](https://i.imgur.com/8cThyTM.gif)
-	``` 
-	    body {
+	```     body {
 	      perspective: 400px;
 	      perspective-origin: center;
 	    }
@@ -5898,31 +5180,26 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	    
 	```
 
-	* **Hdas** (2)
+	* **Hdas** [303518] (2)
 
-		
 		Muchas gracias buen aporte
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [303518] (1)
 
-		
 		Genial compañero
 
-* **Juan Carlos García Esquivel** (10)
+* **Juan Carlos García Esquivel** (10) [866598](https://platzi.com/comentario/866598/) 
 
-	
 	Les comparto un ejercicio que hice con las propiedades 😀  
 	[Transform examples](https://codepen.io/juanCGE/pen/MWYjNVL)  
 	![Captura de Pantalla 2019-12-15 a la\(s\) 22.36.38.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-12-15%20a%20la%28s%29%2022.36.38-70b75ff9-5ca4-42fe-b494-754d7bd315fa.jpg)
 
-* **Diego Alexander Forero Higuera (Platzi)** (10)
+* **Diego Alexander Forero Higuera (Platzi)** (10) [169718](https://platzi.com/comentario/169718/) 
 
-	
 	`perspective-origin` mueve el punto de fuga para poder ver los cambios al usar translateZ.
 
-* **Marco Aurelio Elizalde Torres** (6)
+* **Marco Aurelio Elizalde Torres** (6) [205327](https://platzi.com/comentario/205327/) 
 
-	
 	Podemos agregar un perspectiva, para ver los efectos en el eje Z con **perspective**
 	
 	Con **perspective-origin** podemos definir el punto de origen de la perspectiva, podemos también combinaciones,
@@ -5931,10 +5208,7 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	  * top left
 	  * botoom left
 	  * botoom right
-	
-	
-	``` 
-	    /*Mueve 100px en el eje X hacia la derecha*/
+	```     /*Mueve 100px en el eje X hacia la derecha*/
 	    transform: translate(100px);
 	    /*Mueve 100px en el eje X hacia la izquierda*/
 	    transform: translate(-100px);
@@ -5953,43 +5227,36 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	    
 	```
 
-	* **Facundo Nicolás García Martoni (Platzi)** (1)
+	* **Facundo Nicolás García Martoni (Platzi)** [205327] (1)
 
-		
 		Best resumen+
 
-* **Juan Diego Villamizar Leal** (5)
+* **Juan Diego Villamizar Leal** (5) [413860](https://platzi.com/comentario/413860/) 
 
-	
 	Soy el unico que piensa que deberian primero mostrar como quedan los efectos y luego ir al codigo?
 
-	* **Kreespyn** (2)
+	* **Kreespyn** [413860] (2)
 
-		
 		Definitivamente sería una mejor metodología!!
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [413860] (1)
 
-		
 		En lo personal me gusta mirar el código primero, pero entiendo la necesidad.
 
-* **Uralberto** (4)
+* **Uralberto** (4) [503228](https://platzi.com/comentario/503228/) 
 
-	
 	Hice esta Imagen para entender la propiedad _perspective_. ¿Estoy bien?
 	
 	![perspectiva-css.jpeg.jpg](https://static.platzi.com/media/user_upload/perspectiva-css.jpeg-98c2f524-a7ea-4fc3-a4f9-a5e73b6bf790.jpg)
 
-* **pablojorgeandres** (3)
+* **pablojorgeandres** (3) [493684](https://platzi.com/comentario/493684/) 
 
-	
 	## [Transformaciones de translación y perspectiva](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase7)
 	
 	La propiedad _transform: translate()_ nos permite hacer la translación de un objeto.
 	
 	Hablando de animaciones en 2D, puedo mover los objetos sobre el eje X o sobre el eje Y:
-	``` 
-	    translate(x,y)
+	```     translate(x,y)
 	    translateX(n)
 	    translateY(n)
 	    
@@ -5999,14 +5266,12 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	
 	Al agregar la propiedad _perspective-origin_ al padre, body en este caso, puedo mover el foco de la perspectiva a cualquier lugar de la ventana. Por defecto el punto de foco de la perspectiva es el centro.  
 	La propiedad que nos lo permite:
-	``` 
-	    perspective-origin: x y | px | % | ... | top | left | bottom | right
+	```     perspective-origin: x y | px | % | ... | top | left | bottom | right
 	    
 	```
 	
 	Ej:
-	``` 
-	      <style>
+	```       <style>
 	        body{
 	          display: flex;
 	          align-items: center;
@@ -6030,12 +5295,10 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	```
 	
 	La propiedad _translate3d()_ nos permite manipular todos los ejes a la vez:
-	``` 
-	    translate3d(x, y, z)
+	```     translate3d(x, y, z)
 	    
 	```
-	``` 
-	        .container:hover .box {
+	```         .container:hover .box {
 	          transform: translate3d(20px, -50px, 35px);
 	        }
 	    
@@ -6043,35 +5306,31 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	    
 	```
 
-	* **Kevin Chipana Chucare** (2)
+	* **Kevin Chipana Chucare** [493684] (2)
 
-		
 		Graciasss
 
-	* **Hdas** (1)
+	* **Hdas** [493684] (1)
 
-		
 		Buen aporte gracias
 
-* **Fernando Alejandro Yerena Ramos** (3)
-![](https://lh3.googleusercontent.com/tUSHIQ1luCVY9lPHYBdZRQFiTLQxFu6u1t-pgDhaXXD9atVqx2O-LlDMaLdf2q-5vSuK6d1-uLKtNC7vs5gMG_hokqjsk_fHPHceP-7Hnm1wF4345w2XS9mMHJzFxGdNq-4fBVe_ci4omQAhlCevCFmBnOvGOJJwxcaxPnFsXamVMvvqe5fincaogcEVZNSTz4KLdWHM1H9vVLZj5RUUzs-omqjXYoJOBJyRXaCWI5-xkWkeh3CxXeEJUMJlXUNq6n8Ixj1dG8iC77hH_RYUwRkjO8UbRQ9TFBbY4YETapCa9arCYhP6puNKnd7yFyg9v9Lu065cQNWtirNW8EmKGlxZOywmRLz7_1pop-DEfrpb-3s8NN3Y0JZgCrvCNJVvmrOFz-m8fznJmkhT2LN3Lfh085GleQai6JxmWZ2fdO9CGc_OaJpGjqo0DZZtpU58RLPQLb6FiphXwlgkZF2L-19bgNvgpI7B-HInst_ad3I4A9hiQ3SeO2BLA3Klq90x_fKy-US8QxzP7g2a3RuTy2CSPfIIzisbD8vfcABZv6DmvGMn6TOrvYdiJ1fg__CSlsdut8Re56QPeJqBiWaokzrWP7toZih7iUpbxi3iTKh6pk_Gp-B1BMgjNwkWOZKjcSUYbS6kZxEzNxsj52fAOHDz=w1775-h763-no)
+* **Fernando Alejandro Yerena Ramos** (3) [437299](https://platzi.com/comentario/437299/) 
+	
+	![](https://lh3.googleusercontent.com/tUSHIQ1luCVY9lPHYBdZRQFiTLQxFu6u1t-pgDhaXXD9atVqx2O-LlDMaLdf2q-5vSuK6d1-uLKtNC7vs5gMG_hokqjsk_fHPHceP-7Hnm1wF4345w2XS9mMHJzFxGdNq-4fBVe_ci4omQAhlCevCFmBnOvGOJJwxcaxPnFsXamVMvvqe5fincaogcEVZNSTz4KLdWHM1H9vVLZj5RUUzs-omqjXYoJOBJyRXaCWI5-xkWkeh3CxXeEJUMJlXUNq6n8Ixj1dG8iC77hH_RYUwRkjO8UbRQ9TFBbY4YETapCa9arCYhP6puNKnd7yFyg9v9Lu065cQNWtirNW8EmKGlxZOywmRLz7_1pop-DEfrpb-3s8NN3Y0JZgCrvCNJVvmrOFz-m8fznJmkhT2LN3Lfh085GleQai6JxmWZ2fdO9CGc_OaJpGjqo0DZZtpU58RLPQLb6FiphXwlgkZF2L-19bgNvgpI7B-HInst_ad3I4A9hiQ3SeO2BLA3Klq90x_fKy-US8QxzP7g2a3RuTy2CSPfIIzisbD8vfcABZv6DmvGMn6TOrvYdiJ1fg__CSlsdut8Re56QPeJqBiWaokzrWP7toZih7iUpbxi3iTKh6pk_Gp-B1BMgjNwkWOZKjcSUYbS6kZxEzNxsj52fAOHDz=w1775-h763-no)
 	
 	Comparto el [repositorio ](https://github.com/ferdinandalexa/TraslacionesCSS) que realicé para practicar lo visto en esta clase. Quienes quieran entrar directamente a la pagina directamente [este es el enlace](https://ferdinandalexa.github.io/TraslacionesCSS/). Cualquier comentario, consejo o corrección, estaré muy agradecido.
 	
 	En el repositorio podran encontrar un archivo _.md_ donde se encuentran las notas que tomé sobre esta clase, sobre el uso de **_translate_** en **CSS**. Espero a alguno le pueda servir. ñ.ñ/
 
-	* **Hdas** (1)
+	* **Hdas** [437299] (1)
 
-		
 		Muchas gracias
 
-* **Carlos Eduardo Diaz Polanco** (2)
+* **Carlos Eduardo Diaz Polanco** (2) [948557](https://platzi.com/comentario/948557/) 
 
-	
 	 **TRASLADAR:**  
 	Para TRASLADAR o modificar la posición de un elemento podemos utilizar diferentes valores los siguientes valores, los cuales, llevan dentro de paréntesis la medida positiva o negativa que se aplicara:
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: traslate(100px, 200px);  [mueve el elemento a lo largo de su eje X & Y.]
 	    	
 	    }
@@ -6088,8 +5347,7 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	** traslateZ()**- mueve el elemento en su profundidad (3D), el cual se acerca por defecto. Requiere que se defina la propiedad ‘perspective’ en el elemento padre de referencia.
 	
 	**Nota:** La propiedad perspective puede cambiar su punto eje de referencia, a traves del atributo.
-	``` 
-	    Perspective-origin: [top, right, left, bottom]
+	```     Perspective-origin: [top, right, left, bottom]
 	    		
 	    		        .padre {
 	    		            Perspective: 200px;
@@ -6105,25 +5363,21 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	
 	**transform: traslate3d(100px, 200px, 400px);**
 
-* **LeoEsp** (2)
+* **LeoEsp** (2) [913754](https://platzi.com/comentario/913754/) 
 
-	
 	Al parecer estas animaciones no funcionan para firefox 😕
 
-	* **wilkinsbrito** (1)
+	* **wilkinsbrito** [913754] (1)
 
-		
 		ya decía yo, gracias por notificarlo. En mi firefox tampoco sirve la animación 3D
 
-	* **Eduardo P. Rivero** (1)
+	* **Eduardo P. Rivero** [913754] (1)
 
-		
 		Deberían funcionar sin problemas a partir de la versión 16 en adelante. A mi si me funcionan en firefox 72.
 
-* **John Steven Bernal Gonzalez** (2)
+* **John Steven Bernal Gonzalez** (2) [844642](https://platzi.com/comentario/844642/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -6177,14 +5431,12 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	    
 	```
 
-* **jangove** (2)
+* **jangove** (2) [787686](https://platzi.com/comentario/787686/) 
 
-	
 	con referente a grid auto-fill y fit tienen prefijo para todos los navegadores
 
-* **Alejo Fonseca** (2)
+* **Alejo Fonseca** (2) [634409](https://platzi.com/comentario/634409/) 
 
-	
 	 **Translate**  
 	La function de CSS translate() recoloca un elemento en el eje.  
 	**translateX:** Recoloca al elemento en la linea del eje cartesiano "X"  
@@ -6196,12 +5448,10 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	La propiedad perspective CSS determina la distancia entre el plano z=0 y el usuario para dar algo de perspectiva al elemento 3D posicionado.  
 	La posición de origen que se usará para la transformación es por defecto colocado en el centro del elemento, pero su posición puede ser cambiada usando la propiedad perspective-origin.
 
-* **Jhosep Pérez** (2)
+* **Jhosep Pérez** (2) [623806](https://platzi.com/comentario/623806/) 
 
-	
 	😃
-	``` 
-	    // ----------> TRASLACION: Posicion
+	```     // ----------> TRASLACION: Posicion
 	    
 	    transform: translate(x);
 	    transform: translate(x, y);
@@ -6230,50 +5480,41 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	    
 	```
 
-* **Bernardo Ayala Montezuma** (2)
+* **Bernardo Ayala Montezuma** (2) [584126](https://platzi.com/comentario/584126/) 
 
-	
 	Cuando la imagen se amplía el texto en su interior se pixelea un poco. Me parece curioso por qué cuando uno cambia el tamaño del texto desde la propiedad “font-size” no importa el tamaño que uno ponga el texto nunca pierde calidad. ¿Hay alguna propiedad especial para manipular la transformación de textos?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [584126] (2)
 
-		
 		Si el texto es de la imagen se va a pixelar porque así funcionan las imágenes de mapa de bits (jpg, png, gif) si tienes una fuente es similar a trabajar con vectores por eso no pierden nunca definición. Puedes subir una captura para entender mejor el problema que tienes.
 
-	* **Bernardo Ayala Montezuma** (2)
+	* **Bernardo Ayala Montezuma** [584126] (2)
 
-		
 		Es que creo que no es un problema sino que al tratarse no de un cambio de tamaño sino más de un cambio de perspectiva (El cuadrado se acerca o se aleja) entonces las letras no se comportan como un vector escalable ya que realmente nada está cambiando de tamaño, me di cuenta en la siguiente clase dónde efectivamente se le hace un cambio de tamaño al elemento y el texto en su interior se ajusta.
 
-* **Luis Fernando Mendez** (2)
+* **Luis Fernando Mendez** (2) [521735](https://platzi.com/comentario/521735/) 
 
-	
 	En FireFox Dev si agregas la perspectiva en Body veras que el elemento se amplia subiendo un poco en lugar de anclarse en el centro en su valor por defecto, esto es, porque en FireFox debes agregar la perspectiva desde el elemento en el que te fijaras como ancla. Si pasan el perspective al container junto al
-	``` 
-	    transform-style: preserve-3d
+	```     transform-style: preserve-3d
 	    
 	```
 	
 	Podrán verlo justo como el ejemplo en Chrome.
 
-	* **angelrivas321** (1)
+	* **angelrivas321** [521735] (1)
 
-		
 		Qué buen servicio, crack.
 
-* **Jose Enrique Marquez** (2)
+* **Jose Enrique Marquez** (2) [403979](https://platzi.com/comentario/403979/) 
 
-	
 	No compredi de un todo como calcular el valor a poner en las perspectiva si coloco uno muy grande no se mueve mucho pero si coloco lo contrario si, alguien sabe como hacer un calculo exacto?
 
-	* **czapatacampos** (0)
+	* **czapatacampos** [403979] (0)
 
-		
 		tengo la misma duda
 
-* **Yomar Esteban Miranda Sarmiento** (2)
+* **Yomar Esteban Miranda Sarmiento** (2) [208458](https://platzi.com/comentario/208458/) 
 
-	
 	Tranformaciones -> Translaciones (translate):
 	
 	Translación X:  
@@ -6294,21 +5535,18 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	Nota: La propiedad translate puede recibir valores en px, %, em, etc. Además esos valores pueden ser negativos.  
 	Para poder utilizar “translateZ()” hay que configurar la perspectiva al elemento contenedor.
 
-* **Flavio Rico Mendez** (1)
+* **Flavio Rico Mendez** (1) [1050511](https://platzi.com/comentario/1050511/) 
 
-	
 	Hola, ya vimos como modificar algunas características mediante las transformaciones, me gustaría saber cómo puedo cambiar el texto de mi elemento mediante estas transformaciones.
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1042014](https://platzi.com/comentario/1042014/) 
 
-	
 	Css nos ofrece la propiedad translate para desplazar un elemento con gran facilidad en los 3 ejes de dimensión, x, y, z.  
 	Pero para realmente poder realizar estos desplazamientos debemos primero indicar la perspectiva, es decir, darle un contexto al elemento para que se pueda desplazar en el eje z correctamente, la perspectiva recibe como valor la distancia del espectador, que seria el usuario, es decir la pantalla, ese sería el punto de vista.  
 	Con la perspectiva definida, solo nos queda desplazar nuestro elemento, para esto al igual que el rotate, podemos especificar que lo haremos con los tres ejes con la propiedad translate3d(x, y, z), y especificar la distancia que se moverá en cada eje.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1023266](https://platzi.com/comentario/1023266/) 
 
-	
 	<style>  
 	/* Voy a darle unas propiedades basicas al cuadrado*/  
 	body{  
@@ -6336,8 +5574,7 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	.container{  
 	border: 1px solid darkgreen;  
 	}
-	``` 
-	        .container:hover .cuadrado{
+	```         .container:hover .cuadrado{
 	            /* Voy aplicar la transformacion de traslacion al cuadrado pero con base a una transicion que ocurra en su elemento padre */
 	            /* Para mover el elemento a la derecha */
 	            transform: translate(100px);
@@ -6373,9 +5610,8 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	    </style>
 	```
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984474](https://platzi.com/comentario/984474/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -6436,31 +5672,26 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984467](https://platzi.com/comentario/984467/) 
 
-	
 	Translate nos sirve para poder mover un elemento arriba, abajo, derecha e izquierda.  
 	Utilizamos la propiedad perspective para poder darle profundidad a un elemento y obtener un efecto 3D.
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [970398](https://platzi.com/comentario/970398/) 
 
-	
 	origin de la perspectiva por defecto esta en el centro  
 	pero puede ser: center, bottom, left y right tanto para x como para y
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [970388](https://platzi.com/comentario/970388/) 
 
-	
 	La propiedad CSS determina la posición en la que mira el espectador. Se utiliza como punto de fuga por la propiedad.perspective-origin perspective
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [970379](https://platzi.com/comentario/970379/) 
 
-	
 	La propiedad perspective CSS determina la distancia entre el plano z=0 y el usuario para dar algo de perspectiva al elemento 3D posicionado. Cada elemento 3D con z>0 se hace más grande y con z<0 se vuelve más pequeño. La intensidad del efecto es determinado por el valor de esta propiedad.
 
-* **Jessen Mercado** (1)
+* **Jessen Mercado** (1) [835431](https://platzi.com/comentario/835431/) 
 
-	
 	/*.cuadrado:hover _/  
 	.container:hover .cuadrado{  
 	/_ transform: translate(x); _/  
@@ -6473,163 +5704,136 @@ Qué pasa si por casualidad pongo? transform: rotate3d(3, 2, 1, 45deg);
 	transform: translateZ(100px);  
 	/_ transform: translate3d(x,y,z); */  
 	transform: translate3d(100px,100px,100px);
-	``` 
-	        }
+	```         }
 	```
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [828070](https://platzi.com/comentario/828070/) 
 
-	
 	Por qué cuando se pone un valor bajo en la propiedad perspective el dibujado que se hace en el eje z es mayor??  
 	Ej:  
 	`perspective: 50px;`
 	
 	Muchas gracias
 
-* **Migrant** (1)
+* **Migrant** (1) [823971](https://platzi.com/comentario/823971/) 
 
-	
 	Tengo una duda desde hace como dos vídeos atrás. Soy solo yo al que le parece que Leonidas se confunde al mencionar los ejes X y Y? porque se me hace raro que hable del movimiento del translate en horizontal y se refiera a el como el eje Y. O por el contrario hay algo que no estoy entendiendo? Gracias por la ayuda compañeras y compañeros.
 
-	* **julian orrego** (1)
+	* **julian orrego** [823971] (1)
 
-		
 		Hola. Tuve la misma impresión, pero más adelante especifica que los movimientos horizontales corresponden al eje X y los verticales al eje Y. Así que no estamos perdidos. Saludos.
 
-* **PabloGM** (1)
+* **PabloGM** (1) [823042](https://platzi.com/comentario/823042/) 
 
-	
 	Hola Tengo una Pregunta ¿Cómo se hace Para que los Signos “/ _" y "_/” Aparezcan automáticamente? Como por ejemplo: / _transform: translate(X)_ /
 
-	* **Migrant** (1)
+	* **Migrant** [823042] (1)
 
-		
 		Buscula en google bro, sale al toque!
 
-	* **julian orrego** (2)
+	* **julian orrego** [823042] (2)
 
-		
 		Hola, depende ¿qué editor de código estás usando?  
 		En sublime text te puede servir este post [https://medium.com/@Isidro/solución-comentar-bloques-en-sublime-text-3-563b9b93d03](https://medium.com/@Isidro/soluci%C3%B3n-comentar-bloques-en-sublime-text-3-563b9b93d03)
 		
 		Yo uso Visual Studio y para comentar el shorcut es ctrl + k + c.
 
-* **Wuilfredo Azócar** (1)
+* **Wuilfredo Azócar** (1) [796616](https://platzi.com/comentario/796616/) 
 
-	
 	 **Tengo una duda:** Buscando en Can I Use dice que la propiedad perspective **no **es soportada por muchos navegadores, entonces por ende no seria buena idea (por ahora) hacer uso del translateZ? Ya que el mismo depende de que perspective este declarada.
 	
 	<https://caniuse.com/#search=perspective>
 
-	* **durbonca** (2)
+	* **durbonca** [796616] (2)
 
-		
 		Lo que estas viendo es una API experimental que todavia esta en desarrollo… la “propiedad” perspectiva tiene amplia compatibilidad con navegadores, esta propiedad ya tiene tiempo entre nosotros, el enlace correcto es este:
 		
 		<https://caniuse.com/#feat=mdn-css_properties_perspective>
 
-	* **Wuilfredo Azócar** (1)
+	* **Wuilfredo Azócar** [796616] (1)
 
-		
 		Ahhh vale. Excelente entonces, gracias por la aclaratoria.
 
-* **lmoran** (1)
+* **lmoran** (1) [788137](https://platzi.com/comentario/788137/) 
 
-	
 	Cada vez más interesante.
 
-* **Moises10** (1)
+* **Moises10** (1) [626427](https://platzi.com/comentario/626427/) 
 
-	
 	No me quedo muy clara la propiedad translate y la perspective  
 	Pero investigare mas a fondo .  
 	Documentation here  
 	<https://www.w3schools.com/cssref/css3_pr_perspective.asp>
 
-	* **asanchez2091** (4)
+	* **asanchez2091** [626427] (4)
 
-		
 		con **perspective** lo que haces es darle la profundidad necesaria a tu dibujo para que tu animación pueda usar **transform: translateZ()** es decir pueda moverse en el eje Z por que por defecto no tienes esa dimensión.  
 		Ahora **translate** te sirve para mover tu dibujo. Simple!!! xD
 
-	* **Moises10** (1)
+	* **Moises10** [626427] (1)
 
-		
 		Gracias amigo por tu aporte saludos
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [619079](https://platzi.com/comentario/619079/) 
 
-	
 	 **Anotaciones:**
 	
 	Se pueden lograr transformaciones de translación, de esta forma los elementos pueden moverse n unidades a cualquier tipo de dirección, para lograr esto, podemos usar la declaración transform: translate([valor]). Usando esta declaración también podemos poner más de un valor, para especificar si también queremos que se mueva el elemento en el eje Y.
 
-* **Nigtdreams** (1)
+* **Nigtdreams** (1) [576157](https://platzi.com/comentario/576157/) 
 
-	
 	The** perspective()** CSS function defines a transformation that sets the distance between the user and the z=0 plane. Its result is a <transform-function> data type.  
 	<https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/perspective>
 
-* **Cristian Florez** (1)
+* **Cristian Florez** (1) [562002](https://platzi.com/comentario/562002/) 
 
-	
 	Pregunta seria.  
 	Si el contenedor tiene una perspectiva de 200px por que si ponemos un movimiento en z de mas de 200px sigue funcionando?? el 200px no seria el tope de profundidad? es decir si podemos poner perspective: 1px; y translateZ(1000px) y aun así funciona.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [562002] (1)
 
-		
 		Hola, como tienes implementada la perspectiva, aquí explica como funciona <https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateZ> y si un container tiene perspectiva de un valor el translateZ no puede ser mayor, pero si la perspectiva esta sobre un contenedor padre si va a funcionar.
 
-* **elreydavid** (1)
+* **elreydavid** (1) [510754](https://platzi.com/comentario/510754/) 
 
-	
 	en este tema no sale un cubo para rotarlo y ponerle musica o sonido
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [463895](https://platzi.com/comentario/463895/) 
 
-	
 	Esto de las animaciones me está emocionando demasiado.
 
-	* **Guillermo Castillo** (1)
+	* **Guillermo Castillo** [463895] (1)
 
-		
 		Somo 2 entonces
 
-* **Kevin Kleber Rivamontan Alvarado** (1)
+* **Kevin Kleber Rivamontan Alvarado** (1) [343600](https://platzi.com/comentario/343600/) 
 
-	
 	Genial, eso quiere decir que se puede en JavaScript Cambiar la perspectiva de Body, y hacer efectos parralax :3
 
-* **Jhonny Stiven Agudelo Tenorio** (1)
+* **Jhonny Stiven Agudelo Tenorio** (1) [280547](https://platzi.com/comentario/280547/) 
 
-	
 	1.Porque en mozilla no me funciona y en chrome si? y si coloco perspective en el contenedor, en mozilla si me funciona a que se debe esto?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [280547] (3)
 
-		
 		Hay características de css que necesitan prefijos propietarios para que funcionen ya que no están implementados aún de forma estándar en todos los navegadores. Estos prefijos son por ejemplo moz- para el caso de firefox o ms- en el caso de Internet Explore, no recuerdo en este momento el de chrome.
 
-	* **Roy_Ramirez** (4)
+	* **Roy_Ramirez** [280547] (4)
 
-		
 		En mozilla me sirvio agregar:  
 		transform-style: preserve-3d;  
 		al contenedor.
 
-* **MauricioHernanCabrera** (1)
+* **MauricioHernanCabrera** (1) [211841](https://platzi.com/comentario/211841/) 
 
-	
 	Utilizando una parte de lo aprendido, diganme que les parece  
 	<https://hernanmc10.github.io/items/>
 
-* **Edgardo Marcano** (1)
+* **Edgardo Marcano** (1) [76614](https://platzi.com/comentario/890426/) 
 Es decir que perspective es similar a utilizar scale?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [76614] (1)
 
-		
 		Podemos decir que **`scale`** trabaja en 2D y **`perspective`** en (algo muy parecido a) 3D.
 		
 		> La función perspective() define la distancia entre el plano z=0 y el usuario, para dar cierta perspectiva al elemento posicionado en tercera dimensión. Cada elemento 3D con z>0 se vuelve más grande; cada elemento 3D con z<0 se vuelve más pequeño. La magnitud del efecto se determina por el valor de esta propiedad.
@@ -6637,73 +5841,62 @@ Es decir que perspective es similar a utilizar scale?
 		> La función scale() modifica el tamaño del elemento. Puede aumentar o disminuir su tamaño, y ya que la cantidad de escalada es definida por un vector, puede hacerlo más hacia una dirección que a otra. Esta transformación se caracteriza por un vector cuyas coordenadas definen qué tanto se escalará hacia cada dirección. Si ambas coordenadas del vector son iguales, el ajuste es uniforme, o isotrópico, y la figura del elemento es conservada. En ese caso, la función de escalada define una homotecia.  
 		>  – <https://developer.mozilla.org/es/docs/Web/CSS/transform-function>
 
-* **Jose Armando Acevedo Angarita** (1)
+* **Jose Armando Acevedo Angarita** (1) [69002](https://platzi.com/comentario/749643/) 
 Una pregunta ¿Por que en el navegador firefox no funciona transform:translateZ(100px) y la perspectiva.¿ Oh soy el unico que le ocurre?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [69002] (1)
 
-		
 		¡Hola! En esta pregunta seguro encuentras la solución: [translateZ not working on Firefox](https://stackoverflow.com/questions/46625224/translatez-not-working-on-firefox).
 		
 		Si continua el error puedes decirnos y te ayudamos a resolverlo. 😉
 
-* **RamonDiegoA** (1)
+* **RamonDiegoA** (1) [63529](https://platzi.com/comentario/660516/) 
 Amigos! les dejo un problema a ver si me dan una ayuda! : <div class="container"> <div class="barner1"></div&gt...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [63529] (2)
 
-		
 		Prueba ajustando el perspective a 0 del elemento que quieres poner dentro.
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [58931](https://platzi.com/comentario/584126/) 
 Cuando la imagen se amplía el texto en su interior se pixelea un poco. Me parece curioso por qué cuando uno cambia el tamaño del texto de...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [58931] (2)
 
-		
 		Si el texto es de la imagen se va a pixelar porque así funcionan las imágenes de mapa de bits (jpg, png, gif) si tienes una fuente es similar a trabajar con vectores por eso no pierden nunca definición. Puedes subir una captura para entender mejor el problema que tienes.
 
-* **Cristian Florez** (1)
+* **Cristian Florez** (1) [57207](https://platzi.com/comentario/562002/) 
 Pregunta seria. Si el contenedor tiene una perspectiva de 200px por que si ponemos un movimiento en z de mas de 200px sigue funcionando??...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57207] (1)
 
-		
 		Hola, como tienes implementada la perspectiva, aquí explica como funciona <https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateZ> y si un container tiene perspectiva de un valor el translateZ no puede ser mayor, pero si la perspectiva esta sobre un contenedor padre si va a funcionar.
 
-* **Danny Velásquez** (0)
+* **Danny Velásquez** (0) [310743](https://platzi.com/comentario/310743/) 
 
-	
 	Perspective no funciona Firefox developers
 
-	* **delriver** (1)
+	* **delriver** [310743] (1)
 
-		
 		transform-style: preserve-3d;
 		
 		Con esa opción en principio ya te funcionaría
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [304622](https://platzi.com/comentario/304622/) 
 
-	
 	no me funciona lo de 3d
 
-* **sergio andres navarro melendez** (0)
+* **sergio andres navarro melendez** (0) [242707](https://platzi.com/comentario/242707/) 
 
-	
 	al colocar perspective: 200px; la caja verde sigue sin hacer nada!! que hago???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [242707] (1)
 
-		
 		Revisa las herramientas de desarrollador y verifica que este tomando la propiedad y que nada la este sobreescribiendo.
 
-* **John Jairo Castillo Cortes** (0)
+* **John Jairo Castillo Cortes** (0) [188583](https://platzi.com/comentario/188583/) 
 
-	
 	la persperctiva no funciona tal cual la pones, no se si sea yo.
-	``` 
-	    .test1{
+	```     .test1{
 	        position: fixed;
 	        bottom: 0;
 	        left:0;
@@ -6743,12 +5936,11 @@ Pregunta seria. Si el contenedor tiene una perspectiva de 200px por que si ponem
 	    
 	```
 
-	* **Santiago Escalante** (3)
+	* **Santiago Escalante** [188583] (3)
 
-		
 		La propiedad **perspective** se la tienes que dar/setear al padre del elemento el cual quieres trasladar ( _translate_ ).
 
-## 0080. Transformaciones de escala
+## 0080. Transformaciones de escala [6828](https://platzi.com/clases/1103-animaciones-web/6828-transformaciones-de-escala7357/)
 
 ### Descripción:
 
@@ -6760,13 +5952,10 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
   * 0 = 0% del tamaño.
   * 1 = 100% del tamaño.
 
-
-
 ### Comentarios:
 
-* **Yomar Esteban Miranda Sarmiento** (22)
+* **Yomar Esteban Miranda Sarmiento** (22) [208467](https://platzi.com/comentario/208467/) 
 
-	
 	Tranformaciones -> Scale:
 	
 	De esta manera escalamos el elemento tanto en X como Y por igual.  
@@ -6782,28 +5971,23 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	1.5 = 150%  
 	2 = 200%
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [208467] (1)
 
-		
 		Gracias por este aporte!!
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [208467] (1)
 
-		
 		gracias!
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [208467] (1)
 
-		
 		Bien gracias por el aporte.
 
-* **Ivan Robles** (15)
+* **Ivan Robles** (15) [303571](https://platzi.com/comentario/303571/) 
 
-	
 	Transformaciones de Escala:  
 	![](https://i.imgur.com/u7fcHw2.gif)
-	``` 
-	    .container:hover.cuadrado.a {
+	```     .container:hover.cuadrado.a {
 	      transform: scale(1.5);      
 	    }
 	    .container:hover.cuadrado.b {
@@ -6815,28 +5999,25 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	    
 	```
 
-	* **Jorge Wenner Arévalo Alvis** (2)
+	* **Jorge Wenner Arévalo Alvis** [303571] (2)
 
-		
 		cool!
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [303571] (1)
 
-		
 		Tus ejemplos son muy buenos amigo, xD
 
-* **lagosmanuel** (9)
+* **lagosmanuel** (9) [870928](https://platzi.com/comentario/870928/) 
 
-	
 	 _" Un rectángulo es tan solo un cuadrado gordito_", **Leonidas Esteban**
 
-	* **daniel-zurita** (2)
+	* **daniel-zurita** [870928] (2)
 
-		
 		Confirmo jajaja
 
-* **Fernando Alejandro Yerena Ramos** (9)
-![](https://lh3.googleusercontent.com/2pEFo-C1yFislmNq8waKqGlfQMM1tyyJiI8A3tTQzzZH7hdzZwRKZYP7t5ls_A3d7SQJ7NY-tEpIRvEBItpGY0dWH6NBDg78yKhbfoQQzieyA9Gya9TDglwwmEf6wtmpp3F15YDX2wNeawLvrj3tvWXuaP5R0iprh3aO_LI8aOWuxeknSO9cKBZVrovx6hZnCucryciKArbJf4G2Lq40V7BCs1NGX25fZfna6MxQmqyMdu1CGPstEC7mJzqSIduKBgXfWNOmgwLDBHctybczJS3Og9s4e5YFxsR6m0jOHUMOHSw6C2MGIpJ5Bsxafw0oV3Dz5NcIVMdy4cPrbN_RDozMbxABL8DU5A1XEDQTifHC0bSIdaRshefVkJHd3RH_i8ZpuWScpEEVCjaoHQ0283JdmUOiD4mnRKFZ5uOMhShz3Dj8PmXgOTPNsUABCMVqKl3uE7Z0n8vNr2xQOi9e5omqC6QTGkYYC2oGREAzxDRQ9OlFUbbta6UKvTJpSwY4HUIQkvRoKhSbOTqB8X_MZJ9SUEeU8eTLvpLhsClBfkRpDM7mwgA_pJqHnSuCglEXRaTIxuu0CaCuKklIwc3mweRFD-ozNvMKSXQwcamX6-fHkZlTBrn_s2hvXg6MvshoZsA4bj98W8treIcJj7SmFbA5=w1775-h843-no)
+* **Fernando Alejandro Yerena Ramos** (9) [437308](https://platzi.com/comentario/437308/) 
+	
+	![](https://lh3.googleusercontent.com/2pEFo-C1yFislmNq8waKqGlfQMM1tyyJiI8A3tTQzzZH7hdzZwRKZYP7t5ls_A3d7SQJ7NY-tEpIRvEBItpGY0dWH6NBDg78yKhbfoQQzieyA9Gya9TDglwwmEf6wtmpp3F15YDX2wNeawLvrj3tvWXuaP5R0iprh3aO_LI8aOWuxeknSO9cKBZVrovx6hZnCucryciKArbJf4G2Lq40V7BCs1NGX25fZfna6MxQmqyMdu1CGPstEC7mJzqSIduKBgXfWNOmgwLDBHctybczJS3Og9s4e5YFxsR6m0jOHUMOHSw6C2MGIpJ5Bsxafw0oV3Dz5NcIVMdy4cPrbN_RDozMbxABL8DU5A1XEDQTifHC0bSIdaRshefVkJHd3RH_i8ZpuWScpEEVCjaoHQ0283JdmUOiD4mnRKFZ5uOMhShz3Dj8PmXgOTPNsUABCMVqKl3uE7Z0n8vNr2xQOi9e5omqC6QTGkYYC2oGREAzxDRQ9OlFUbbta6UKvTJpSwY4HUIQkvRoKhSbOTqB8X_MZJ9SUEeU8eTLvpLhsClBfkRpDM7mwgA_pJqHnSuCglEXRaTIxuu0CaCuKklIwc3mweRFD-ozNvMKSXQwcamX6-fHkZlTBrn_s2hvXg6MvshoZsA4bj98W8treIcJj7SmFbA5=w1775-h843-no)
 	
 	Les comparto mi [practica de esta clase](https://ferdinandalexa.github.io/EscaladoCSS/) y su respectivo [repositorio](https://github.com/ferdinandalexa/EscaladoCSS).
 	
@@ -6846,25 +6027,21 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	
 	En estos días subiré las notas, que tomé sobre esta clase, en el repositorio.
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [437308] (1)
 
-		
 		Está muy chévere este aporte!
 
-	* **Hdas** (1)
+	* **Hdas** [437308] (1)
 
-		
 		Buen aporte muchas gracias
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [437308] (1)
 
-		
 		Te quedo muy bien, buen aporte
 
-* **Marco Aurelio Elizalde Torres** (5)
+* **Marco Aurelio Elizalde Torres** (5) [205328](https://platzi.com/comentario/205328/) 
 
-	```
-	    /*transform: scale(x,y);*/
+	```    /*transform: scale(x,y);*/
 	    transform: scale(2,.5);
 	    /*Si colocamos un solo elementos tomara como una escana en X y Y*/
 	    transform: scale(2);
@@ -6873,9 +6050,8 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	    
 	```
 
-* **jasanhdz** (4)
+* **jasanhdz** (4) [431879](https://platzi.com/comentario/431879/) 
 
-	
 	## Transformaciones de escala
 	
 	Nosotros podemos modificar el tamaño del elemento usando una transformación con la propiedad de **scale();** y scale puede estar tanto en x como en y. Si yo le especifico simplemente un solo valor al scale de ese elemento quiere decir que estoy modificando tanto x como y de una forma resumida.
@@ -6885,18 +6061,15 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	  * El 0 es = al 0% del tamaño.
 	  * El 1 es = al 100% del tamaño.
 	
-	
-	
 	Si yo quiero modificar la escala de mi elemento y decirle que tenga 2 significa que su tamaño aumentará 200%. De igual manerá si deseo cambiar su tamaño original sería igual `.5 o 0.5`.
 	
 	**IMPORTANTE:** Gracias a que estó es CSS, cada vez que yo he cambiado el tamaño estó se escala de una forma vectorial es decir que no pierde la resolución.
 	
 	Podemos escalar nuestro Elemento en el eje(X, Y) de esta manera podemos cambiar la forma de nuestro elemento. De está manera podemos modificar el ancho y el alto independiente o de forma conjunta.
 
-* **John Steven Bernal Gonzalez** (2)
+* **John Steven Bernal Gonzalez** (2) [845073](https://platzi.com/comentario/845073/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -6940,38 +6113,32 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	    
 	```
 
-* **Alejo Fonseca** (2)
+* **Alejo Fonseca** (2) [634430](https://platzi.com/comentario/634430/) 
 
-	
 	**Scale**  
 	La función CSS scale() define una transformación que modifica el tamaño de un elemento en el plano 2D. Debido a que la cantidad de escalado está definida por un vector, puede cambiar el tamaño de la dimensiones horizontal y vertical a diferentes escalas  
 	**scale:** 0 es el 0% del tamaño del elemento, 1 es el 100% y de esta manera vamos representando los valores. Para poner el ancho y alto podemos usar **scale(ancho,alto)**
 
-* **Luis Fernando Florián Rosales** (2)
+* **Luis Fernando Florián Rosales** (2) [180109](https://platzi.com/comentario/180109/) 
 
-	
 	se puede con** scale** también reducir el tamaño original?
 	
 	probando coloque un negativo y lo que hizo fue colocarlo boca abajo, creo que puede ser útil en algunas situaciones
 
-	* **lagapog** (1)
+	* **lagapog** [180109] (1)
 
-		
 		Claro, en el ejemplo muestra como colocar la mitad del tamaño usando como valor 0.5 (50% del tamaño original).
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [180109] (5)
 
-		
 		Si por defecto el scale está en 1 pero puede poner por ejemplo scale(.1) y solo tendrás el 10% del tamaño original del elemento
 
-	* **Hdas** (1)
+	* **Hdas** [180109] (1)
 
-		
 		Gracias
 
-* **David Behar** (1)
+* **David Behar** (1) [1091317](https://platzi.com/comentario/1091317/) 
 
-	
 	La última animación que hace Leo es muy usada en la animación tradicional, en ella utiliza 3 concepto de animación de disney  
 	.
 	
@@ -6994,9 +6161,8 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	Acá se muestran como funcionan los 12 principios de la animación  
 	![](https://media.giphy.com/media/KZQjBqiiBYZdS/200w_d.gif)
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1023280](https://platzi.com/comentario/1023280/) 
 
-	
 	<style>  
 	/* Voy a darle unas propiedades basicas al cuadrado*/  
 	body{  
@@ -7006,8 +6172,7 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	height: 100vh;  
 	color: white;  
 	font-family: system-ui;
-	``` 
-	        }
+	```         }
 	        .container{
 	            border: 1px solid darkgreen;
 	        }
@@ -7039,9 +6204,8 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	    </style>
 	```
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984480](https://platzi.com/comentario/984480/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -7085,9 +6249,8 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984477](https://platzi.com/comentario/984477/) 
 
-	
 	Transform-scale nos permite modificar el tamaño de nuestros elementos a nuestro gusto.
 	
 	La medición del tamaño de un elemento con scale, es la siguiente:
@@ -7095,10 +6258,9 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	0 = 0% del tamaño.  
 	1 = 100% del tamaño.
 
-* **joseantoniorodriguezsegura** (1)
+* **joseantoniorodriguezsegura** (1) [970794](https://platzi.com/comentario/970794/) 
 
-	```
-	    <code>
+	```    <code>
 	    
 	```
 	
@@ -7117,8 +6279,7 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	color: white;  
 	font-family: Arial;  
 	}
-	``` 
-	    	.container
+	```     	.container
 	    	{
 	    		border: 1px solid red;
 	    	}
@@ -7188,68 +6349,56 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	</body>  
 	</html>
 
-* **Carlos Eduardo Diaz Polanco** (1)
+* **Carlos Eduardo Diaz Polanco** (1) [948566](https://platzi.com/comentario/948566/) 
 
-	
 	 **ESCALAR:**
 	
 	Para ESCALAR un elemento utilizamos el valor scale(x, y), y dentro de sus paréntesis definimos la medida o medidas en porcentaje para sus ejes por separados que sera escalado el elemento. Dichos valores se definen mediante un numero en el que 0 es 0%, 1 es 100% o tamaño normal y así en adelante.
 	
 	transform: scale(2); = transform: scale(2, 2);
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: scale(2);
 	    }
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [831465](https://platzi.com/comentario/831465/) 
 
-	
 	/ _transform: scale(x,y);_ /  
 	/ _transform: scale(0 = 0% , 1=100%);_ /
 
-* **damon steve valenciano** (1)
+* **damon steve valenciano** (1) [831309](https://platzi.com/comentario/831309/) 
 
-	
 	jajaja me encanto el cuadrado gordito
 
-* **33andres33** (1)
+* **33andres33** (1) [802166](https://platzi.com/comentario/802166/) 
 
-	
 	esta es un poco parecida al traslatez
 
-	* **durbonca** (1)
+	* **durbonca** [802166] (1)
 
-		
 		yep… pero sin perspectiva ni translación… solo el puro tamaño desde el centro… 😛
 
-* **lmoran** (1)
+* **lmoran** (1) [788181](https://platzi.com/comentario/788181/) 
 
-	
 	Unas de las más usadas en la web.
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [768407](https://platzi.com/comentario/768407/) 
 
-	
 	Esta es una de las tantas animaciones más importantes 👌
 
-	* **EmersonMatijasevic** (2)
+	* **EmersonMatijasevic** [768407] (2)
 
-		
 		cual no?
 
-	* **jose-morales-varon** (1)
+	* **jose-morales-varon** [768407] (1)
 
-		
 		Una de las más usadas en la mayorías de website´s.
 
-* **Omar Alberto Alvarez Ortiz** (1)
+* **Omar Alberto Alvarez Ortiz** (1) [765103](https://platzi.com/comentario/765103/) 
 
-	
 	Modificar el ancho y el alto, tener en cuenta que es en porcentaje por lo que los valores dentro de scale() van desde 0-1.
-	``` 
-	    .container:hover.cuadrado
+	```     .container:hover.cuadrado
 	      {
 	        /* transform: scale(x, y); se mide de 0-1 */
 	        /* transform: scale(2); */
@@ -7257,24 +6406,21 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	        transform: scale(2, .5)
 	      }```
 	    
-	    * Lacantidad 2 representael 200%
-	    * Lacantidad.5representa 50%
+	  * Lacantidad 2 representael 200%
+	  * Lacantidad.5representa 50%
 	    
 	```
 
-* **Moises10** (1)
+* **Moises10** (1) [626500](https://platzi.com/comentario/626500/) 
 
-	
 	quedo muy clara esta clase los que quieran saber mas de esta propiedad.  
 	documentation here  
 	<https://www.w3schools.com>
 
-* **Jhosep Pérez** (1)
+* **Jhosep Pérez** (1) [623808](https://platzi.com/comentario/623808/) 
 
-	
 	😛
-	``` 
-	    // ----------> SCALE:
+	```     // ----------> SCALE:
 	    
 	    Medida = 0 a 1.
 	    0 = 0%
@@ -7289,87 +6435,73 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	    
 	```
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [620246](https://platzi.com/comentario/620246/) 
 
-	
 	**Anotaciones**
 	
 	Las transformaciones de escala tienen que ver con el crecimiento del elemento a nivel de escala, ya que con la propiedad transform: scale(), estamos dándole a la escala un valor entre 0 y 1 (siendo 0, el 0% del tamaño del elemento y 1 el 100%). Como segundo valor a la propiedad, se puede modificar el alto y el ancho independientemente.
 
-* **jangove** (1)
+* **jangove** (1) [612203](https://platzi.com/comentario/612203/) 
 
-	
 	Alquien sabe un truco en manipular selectores en boostrap 4
 
-* **Camilo Andrés Santana Lizcano** (1)
+* **Camilo Andrés Santana Lizcano** (1) [596413](https://platzi.com/comentario/596413/) 
 
-	
 	Según los estudios el 100% de los cuadrados gorditos son rectangulos
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [584129](https://platzi.com/comentario/584129/) 
 
-	
 	En el ejercico anterior me pasa algo curioso con el texto, cuando la imagen se acerca a uno, y por consiguiente se amplía, el texto pierde resolución, en ese caso el texto no se escala de forma vectorial.
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [493717](https://platzi.com/comentario/493717/) 
 
-	
 	## [Transformaciones de escala](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase8)
 	
 	`transform: scale()` modifica el tamaño de cualquier objeto dentro del DOM.
 	
 	`scale()` recibe x e y como parámetros en decimales, es decir entre 0 y 1 correspondiendo con el porcentaje de tamaño.
-	``` 
-	    0 == 0%
+	```     0 == 0%
 	    0.5 == 50%
 	    1 == 100%
 	    
 	```
 	
 	Ej:
-	``` 
-	    transform: scale(.7, 1.3)
+	```     transform: scale(.7, 1.3)
 	    
 	```
 	
 	Si en vez de cargar los datos _x_ e _y_ cargo sólo un dato, el objeto se modificará en igual proporción tanto en el eje _x_ como en el _y_
 	
 	Ej:
-	``` 
-	    transform: scale(.5)
+	```     transform: scale(.5)
 	    
 	```
 
-* **jangove** (1)
+* **jangove** (1) [351619](https://platzi.com/comentario/351619/) 
 
-	
 	transform: scale(2); estirando el % tanto en el eje X y eje Y
 
-* **Jorge Giraldo Guerrero R.** (1)
+* **Jorge Giraldo Guerrero R.** (1) [252301](https://platzi.com/comentario/252301/) 
 
-	
 	Profe me puedes facilitar un pdf de lo que enseñas? gracias
 
-	* **Diego Alexander Forero Higuera (Platzi)** (7)
+	* **Diego Alexander Forero Higuera (Platzi)** [252301] (7)
 
-		
 		Lo mejor es que practiques y tomes los apuntes de forma que te sirvan, cada persona tiene procesos diferentes de aprendizaje.
 
-* **sergio andres navarro melendez** (1)
+* **sergio andres navarro melendez** (1) [244823](https://platzi.com/comentario/244823/) 
 
-	
 	como se usa scale3d???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [244823] (5)
 
-		
 		Te dejo la documentación <https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale3d>,
 		
 		Básicamente recibe 3 parámetros que es el cambio de escala en x, y, z los más visibles son x, y pero con z el cambio es difícil ver.
 
-	* **Fernando Alejandro Yerena Ramos** (3)
+	* **Fernando Alejandro Yerena Ramos** [244823] (3)
 
-		
 		Te comparto el [ejercicio](https://ferdinandalexa.github.io/EscaladoCSS/) que realicé para esta clase y el [repositorio](https://github.com/ferdinandalexa/EscaladoCSS) del mismo. Ahí utilizo la función **_scale3d()_** de forma que sea mas fácil ver los cambios que realiza.
 		
 		![](https://lh3.googleusercontent.com/2pEFo-C1yFislmNq8waKqGlfQMM1tyyJiI8A3tTQzzZH7hdzZwRKZYP7t5ls_A3d7SQJ7NY-tEpIRvEBItpGY0dWH6NBDg78yKhbfoQQzieyA9Gya9TDglwwmEf6wtmpp3F15YDX2wNeawLvrj3tvWXuaP5R0iprh3aO_LI8aOWuxeknSO9cKBZVrovx6hZnCucryciKArbJf4G2Lq40V7BCs1NGX25fZfna6MxQmqyMdu1CGPstEC7mJzqSIduKBgXfWNOmgwLDBHctybczJS3Og9s4e5YFxsR6m0jOHUMOHSw6C2MGIpJ5Bsxafw0oV3Dz5NcIVMdy4cPrbN_RDozMbxABL8DU5A1XEDQTifHC0bSIdaRshefVkJHd3RH_i8ZpuWScpEEVCjaoHQ0283JdmUOiD4mnRKFZ5uOMhShz3Dj8PmXgOTPNsUABCMVqKl3uE7Z0n8vNr2xQOi9e5omqC6QTGkYYC2oGREAzxDRQ9OlFUbbta6UKvTJpSwY4HUIQkvRoKhSbOTqB8X_MZJ9SUEeU8eTLvpLhsClBfkRpDM7mwgA_pJqHnSuCglEXRaTIxuu0CaCuKklIwc3mweRFD-ozNvMKSXQwcamX6-fHkZlTBrn_s2hvXg6MvshoZsA4bj98W8treIcJj7SmFbA5=w1775-h843-no)
@@ -7377,9 +6509,8 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 		Cuando vi tu comentario decidí agregarlo y probarlo.  
 		Espero pueda servirte y no sea algo tarde u.u.
 
-* **Yomar Esteban Miranda Sarmiento** (1)
+* **Yomar Esteban Miranda Sarmiento** (1) [208478](https://platzi.com/comentario/208478/) 
 
-	
 	Transformaciones -> Scale:
 	
 	De esta manera escalamos el elemento tanto en X como Y por igual.  
@@ -7395,7 +6526,7 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
 	1.5 = 150%  
 	2 = 200%
 
-## 0090. Transformaciones de sesgados
+## 0090. Transformaciones de sesgados [6827](https://platzi.com/clases/1103-animaciones-web/6827-transformaciones-de-escala/)
 
 ### Descripción:
 
@@ -7403,8 +6534,7 @@ La medición del tamaño de un elemento con _**scale**_ , es la siguiente:
  **Sesgar** es esa inclinación que puede sufrir un elemento gracias a una transformación en **CSS**.
 
 Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
-``` 
-    	transform: skew (x);
+```     	transform: skew (x);
     	transform: skew (y);
     	transform: skew (x, y);
     
@@ -7412,9 +6542,8 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 
 ### Comentarios:
 
-* **Yomar Esteban Miranda Sarmiento** (22)
+* **Yomar Esteban Miranda Sarmiento** (22) [208476](https://platzi.com/comentario/208476/) 
 
-	
 	Transformaciones -> Skew (Sesgar o Inclinar):
 	
 	Sesgar en el eje X:  
@@ -7429,23 +6558,19 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	
 	Nota: Esta propiedad recibe valores en grados (deg) y radianes (rad).
 
-	* **Hdas** (1)
+	* **Hdas** [208476] (1)
 
-		
 		Gracias por el buen resumen
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [208476] (1)
 
-		
 		Gracias
 
-* **Ivan Robles** (17)
+* **Ivan Robles** (17) [303578](https://platzi.com/comentario/303578/) 
 
-	
 	Transformaciones de Sesgados:  
 	![](https://i.imgur.com/FLnKisG.gif)
-	``` 
-	    .container:hover.cuadrado.a {
+	```     .container:hover.cuadrado.a {
 	      transform: skew(45deg);      
 	    }
 	    .container:hover.cuadrado.b {
@@ -7457,35 +6582,29 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	    
 	```
 
-	* **Jorge Wenner Arévalo Alvis** (3)
+	* **Jorge Wenner Arévalo Alvis** [303578] (3)
 
-		
 		bueno!
 
-	* **Cristian Orozco Benjumea** (4)
+	* **Cristian Orozco Benjumea** [303578] (4)
 
-		
 		como haces para los cuadrados queden uno al lado del otro, ya que a mí me quedan en columnas. Intente poniendo en el body:
-		``` 
-		    display: inline-block
+		```     display: inline-block
 		    
 		```
 		
 		Pero no me funcionó
 
-	* **Ivan Robles** (4)
+	* **Ivan Robles** [303578] (4)
 
-		
 		 **@crea** … para que cada elemento quede a lado del otro debes tomar en cuenta de que un **block** por default ocupa el **100%** del ancho en pantalla (en realidad del objeto que lo contiene). Si tienes **3** bloques deben ocupar un **30%** (De esta manera ocuparías un **90%** del 100% del elemento contenedor) también hay que recordar que los margenes y los paddings ocupan espacio.
 		
 		Te dejo la guía de [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), es otra manera de ordenar elementos en filas y columnas 😃
 
-	* **Juan Manuel Martínez Ortiz** (5)
+	* **Juan Manuel Martínez Ortiz** [303578] (5)
 
-		
 		Echate el curso de CSS GRID LAYOUT ❤️
-		``` 
-		    .container {
+		```     .container {
 		        border: 1px solid red;
 		        display: grid;
 		        grid-template-columns: repeat(3, 1fr)
@@ -7493,33 +6612,28 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 		    
 		```
 
-	* **Hdas** (2)
+	* **Hdas** [303578] (2)
 
-		
 		Buen dato muchas gracias
 
-* **Luis Miguel Ramos Hernández** (5)
+* **Luis Miguel Ramos Hernández** (5) [521616](https://platzi.com/comentario/521616/) 
 
-	
 	Un atomo bien Random 😄  
 	<https://codepen.io/mickTesla/pen/MxYYbR>
 
-* **pablojorgeandres** (4)
+* **pablojorgeandres** (4) [494007](https://platzi.com/comentario/494007/) 
 
-	
 	## [Transformaciones de sesgado](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase9)
 	
 	Con `transform: skew(Xdeg)` podemos manipular el sesgado del elemento.  
 	`transform: skew()` recibe dos parámetros en grados, parámetro ‘x’ y parámetro ‘y’, cada uno modifica el eje que representa. Si sólo inserto 1 valor el eje modificado será el eje ‘x’.
 	
 	Al igual que los otros métodos de _transform_ , `skew` tiene sus variables para cada eje:
-	``` 
-	      skewX()
+	```       skewX()
 	      skewY()
 	    
 	```
-	``` 
-	      transform: skew(25deg);
+	```       transform: skew(25deg);
 	    
 	      transform: skew(25deg, 10deg);
 	    
@@ -7530,22 +6644,19 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	    
 	```
 
-* **John Steven Bernal Gonzalez** (3)
+* **John Steven Bernal Gonzalez** (3) [845260](https://platzi.com/comentario/845260/) 
 
-	
 	**Sesgado**  
 	es la inclinación que sufre un elemento  
 	este lo aplicamos con skew y podemos alterar sus valores en x o y con valores en grados deg
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [819986](https://platzi.com/comentario/819986/) 
 
-	
 	Cada vez, me encanta más poder lograr programar, y animar.
 
-* **lmoran** (2)
+* **lmoran** (2) [788209](https://platzi.com/comentario/788209/) 
 
-	```
-	    /* se mide en grados(deg) sintaxis: */
+	```    /* se mide en grados(deg) sintaxis: */
 	                /*  transform: skew(x,y); */
 	    		/*TAMBIEN PODEMOS COLOCAR EN UNO SOLO:*/
 	    		/* transform: skewX(20deg); */
@@ -7557,16 +6668,14 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	    
 	```
 
-* **Alejo Fonseca** (2)
+* **Alejo Fonseca** (2) [634442](https://platzi.com/comentario/634442/) 
 
-	
 	**Sesgado:**  
 	La función **skew** define una transformación que sesga un elemento en el plano 2D.  
 	**skew:** Podemos sesgar un elemento de manera vertical y horizontal así: **skew:(x,y)**
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1023288](https://platzi.com/comentario/1023288/) 
 
-	
 	<style>  
 	/* Voy a darle unas propiedades basicas al cuadrado*/  
 	body{  
@@ -7576,8 +6685,7 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	height: 100vh;  
 	color: white;  
 	font-family: system-ui;
-	``` 
-	        }
+	```         }
 	        .container{
 	            border: 1px solid darkgreen;
 	        }
@@ -7609,9 +6717,8 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	    </style>
 	```
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984485](https://platzi.com/comentario/984485/) 
 
-	
 	<html lang=“en”>  
 	<head>  
 	<meta charset=“UTF-8”>  
@@ -7653,42 +6760,35 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984482](https://platzi.com/comentario/984482/) 
 
-	
 	Sesgar es esa inclinación que puede sufrir un elemento gracias a una transformación en CSS.
 	
 	Se puede sesgar un elemento tanto de un solo eje, como de ambos:
-	``` 
-	    transform: skew (x);
+	```     transform: skew (x);
 	    transform: skew (y);
 	    transform: skew (x, y)
 	```
 
-* **Carlos Eduardo Diaz Polanco** (1)
+* **Carlos Eduardo Diaz Polanco** (1) [948572](https://platzi.com/comentario/948572/) 
 
-	
 	 **SESGAR:**  
 	Para SESGAR O INCLINAR un elemento utilizamos el valor skew(x, y), y dentro de sus paréntesis definimos la medida en grados positivos o negativos que se aplicaran para los ejes X & Y.
-	``` 
-	    .selector {
+	```     .selector {
 	    	transform: skew(45deg, 45deg);
 	    }
 	    
 	    
 	```
 
-* **Moises10** (1)
+* **Moises10** (1) [626513](https://platzi.com/comentario/626513/) 
 
-	
 	Si quieren saber mas sobre esta propiedad busquen documentación sobre el tema .
 
-* **Jhosep Pérez** (1)
+* **Jhosep Pérez** (1) [623809](https://platzi.com/comentario/623809/) 
 
-	
 	:B
-	``` 
-	    // ----------> SKEW: Sesgado.
+	```     // ----------> SKEW: Sesgado.
 	    
 	    transform: skew(x);
 	    transform: skew(y);
@@ -7699,22 +6799,19 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	    
 	```
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [620251](https://platzi.com/comentario/620251/) 
 
-	
 	**Anotaciones**
 	
 	Las transformaciones también nos permiten sesgar un elemento, a través de la propiedad transform: skew(x, y) y como valores podemos añadirle grados.
 
-* **josescapolatempo** (1)
+* **josescapolatempo** (1) [590194](https://platzi.com/comentario/590194/) 
 
-	
 	Considero que si eres seguidor activo del canal de youuve de platzi, escuchaste varias veces a freddy diciendo la palabra sesgo
 
-* **Marco Aurelio Elizalde Torres** (1)
+* **Marco Aurelio Elizalde Torres** (1) [205329](https://platzi.com/comentario/205329/) 
 
-	```
-	    /*transform: skew(x,y);*/
+	```    /*transform: skew(x,y);*/
 	    /*Es sesgado lo hace en grados, y si solo colocamos y valor lo hace horizontalmente*/
 	    transform: skew(45deg)
 	    /*Hacemos el sesgado vertical y horizontal*/
@@ -7722,22 +6819,19 @@ Se puede _**sesgar**_ un elemento tanto de un solo eje, como de ambos:
 	    
 	```
 
-* **William Arevalo** (1)
+* **William Arevalo** (1) [186875](https://platzi.com/comentario/186875/) 
 
-	
 	Este vídeo no me carga desde móvil, estaba haciendo todo el curso desde el, pero este vídeo no carga y no me permite cambiar de servidor, además de que Chrome me dice que esta pagina esta en ingles
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [186875] (2)
 
-		
 		La ip que tiene la conexión del celular debe estar identificada como si fuera una ip de un país de habla inglesa y por esto te muestra en ingles, en cuanto al video, el player es el nativo del sistema operativo y no tiene la opción de switch pero debería hacerlo automáticamente.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [186875] (0)
 
-		
 		¿Qué tal ahora?
 
-## 0100. Punto de transformación
+## 0100. Punto de transformación [6829](https://platzi.com/clases/1103-animaciones-web/6829-punto-de-transformacion/)
 
 ### Descripción:
 
@@ -7748,63 +6842,51 @@ Sin embargo, podemos jugar con la posición de este punto según el tipo de anim
 
 ### Comentarios:
 
-* **Denis Huamán** (33)
+* **Denis Huamán** (33) [166172](https://platzi.com/comentario/166172/) 
 
-	
 	Si se pone perspective se ve en 3D los rotateX y los rotateY 😄 .
 
-	* **Leonidas Esteban Gonzalez** (10)
+	* **Leonidas Esteban Gonzalez** [166172] (10)
 
-		
 		MUY BIEN!
 
-	* **exequiel_gomez** (1)
+	* **exequiel_gomez** [166172] (1)
 
-		
 		Excelente
 
-	* **Hdas** (1)
+	* **Hdas** [166172] (1)
 
-		
 		Muchas gracias
 
-* **Daniel H. Guissepe** (15)
+* **Daniel H. Guissepe** (15) [647044](https://platzi.com/comentario/647044/) 
 
-	
 	A mí me surgió un error al aplicar los ejemplos de Leonidas en esta clase. El detalle es que tarda más en definir el punto de transformación que lo que tarda en ejecutar la animación. Por esa misma razón ejecuta la transición antes con el punto de transformación por defecto y luego el elemento se mueve al designado. He llegado a la conclusión de que es un problema de hardware en mi pc. Para todos aquellos que tengan ese problema, escriban la propiedad transform-origin en la regla del elemento sin el hover, y ya no tendrán ningún movimiento brusco o distinto al que se desea.
 
-	* **Almu_timkerbell** (2)
+	* **Almu_timkerbell** [647044] (2)
 
-		
 		A mi me pasó igual, y estaba pensando cómo explicarlo en los comentarios cuando vi el tuyo:) Lo que pasa que al hacer la solución que has expuesto, solo me hace la transformación hacia el centro, es decir, no va ni a top, bottom, left or right. Habrá que seguir investigando.
 
-	* **EnriqueAL** (1)
+	* **EnriqueAL** [647044] (1)
 
-		
 		Gracias compañero, en mi computadora si me sirvió tu solución
 
-	* **lmoran** (1)
+	* **lmoran** [647044] (1)
 
-		
 		buena solución me pasó lo mismo. Gracias.
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [647044] (1)
 
-		
 		Esto soluciona perfectamente el problema.
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [647044] (1)
 
-		
 		Gracias por la observación.
 
-* **Ivan Robles** (14)
+* **Ivan Robles** (14) [303589](https://platzi.com/comentario/303589/) 
 
-	
 	Punto de Transformación:  
 	![](https://i.imgur.com/CLi8mux.gif)
-	``` 
-	    .container:hover.cuadrado.b {
+	```     .container:hover.cuadrado.b {
 	      transform: rotateX(-90deg);
 	      transform-origin: top;    
 	    }
@@ -7819,31 +6901,26 @@ Sin embargo, podemos jugar con la posición de este punto según el tipo de anim
 	    
 	```
 
-	* **Jorge Wenner Arévalo Alvis** (2)
+	* **Jorge Wenner Arévalo Alvis** [303589] (2)
 
-		
 		😃
 
-	* **Chunchunmaru** (2)
+	* **Chunchunmaru** [303589] (2)
 
-		
 		🙌
 
-	* **Hdas** (2)
+	* **Hdas** [303589] (2)
 
-		
 		Buen aporte gracias
 
-* **angelygranados** (12)
+* **angelygranados** (12) [649419](https://platzi.com/comentario/649419/) 
 
-	
 	## Punto de transformación
 	
 	El punto de transformación por defecto está en el centro, pero puede ser modificado.  
 	La propiedad a utilizar se llama _transform-origin_ por defecto viene configurada en 50% 50% (x, y).  
 	**Valores:** top, bottom, right, left.
-	``` 
-	    transform-origin: left top;
+	```     transform-origin: left top;
 	    
 	```
 	
@@ -7855,68 +6932,54 @@ Sin embargo, podemos jugar con la posición de este punto según el tipo de anim
 	  * bottom - left (x,y) = 0% 100%
 	  * bottom - right (x,y)= 100% - 100%
 	
-	
-	
 	> OJO: se debe estar atento al eje en el que se está ejecutando el tipo de transformación (por ejemplo rotateX), con respecto al punto de transformación para que el movimiento sea visible en el plano.
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [649419] (1)
 
-		
 		Gracias por el resumen, me sirvió mucho! Está excelente!
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [649419] (1)
 
-		
 		Gracias!
 
-* **Nicolas Esteban Prieto Sarmiento** (11)
+* **Nicolas Esteban Prieto Sarmiento** (11) [418589](https://platzi.com/comentario/418589/) 
 
-	
 	Hace mucho que quería crear una puerta  
 	![](https://media.giphy.com/media/8mzbCc3VpSHhaWZFgl/giphy.gif)
 
-	* **Bryan Estiven Silva Mercado** (1)
+	* **Bryan Estiven Silva Mercado** [418589] (1)
 
-		
 		Ya la creaste  
 		?
 
-	* **Nicolas Esteban Prieto Sarmiento** (1)
+	* **Nicolas Esteban Prieto Sarmiento** [418589] (1)
 
-		
 		si
 
-	* **Nicolas Esteban Prieto Sarmiento** (1)
+	* **Nicolas Esteban Prieto Sarmiento** [418589] (1)
 
-		
 		es esa misma
 
-	* **Bryan Estiven Silva Mercado** (2)
+	* **Bryan Estiven Silva Mercado** [418589] (2)
 
-		
 		Genial , felicidades
 
-	* **Martin Emanuel Gonzalez** (1)
+	* **Martin Emanuel Gonzalez** [418589] (1)
 
-		
 		jajaja muy bueno
 
-	* **Kevin Humberto León Santamaria** (3)
+	* **Kevin Humberto León Santamaria** [418589] (3)
 
-		
 		Genial, un gran ejemplo, yo también pensé en la puerta, me ganaste amigo jejej
 
-	* **Oscar Téllez** (2)
+	* **Oscar Téllez** [418589] (2)
 
-		
 		XD
 
-* **conejo22** (7)
+* **conejo22** (7) [860762](https://platzi.com/comentario/860762/) 
 
-	
 	El transform-origin debe estar dentro del cuadro y no cuando le hacemos hover a container Ej …
-	``` 
-	    <.
+	```     <.
 	    cuadro{
 	                transform-origin: right top;
 	                background: chartreuse;
@@ -7929,47 +6992,38 @@ Sin embargo, podemos jugar con la posición de este punto según el tipo de anim
 	    
 	```
 
-	* **Anthony Farias** (2)
+	* **Anthony Farias** [860762] (2)
 
-		
 		Cierto, como lo tiene leonidas me pegaba un salto raro.
 
-	* **Carlos Guillermo Sánchez Cabezas** (3)
+	* **Carlos Guillermo Sánchez Cabezas** [860762] (3)
 
-		
 		Gracias, a mi tambien me pasaba lo del salto raro…
 
-* **lmoran** (6)
+* **lmoran** (6) [789728](https://platzi.com/comentario/789728/) 
 
-	
 	Es verdad cuando ejecutamos el código de Leonidas hay una tardanza en el transform-origin primero se ejecuta en el centro y luego se va al código que indicamos.  
 	Es un problema de Chrome?
 
-	* **Fernando Villalba** (2)
+	* **Fernando Villalba** [789728] (2)
 
-		
 		tengo el mismo problema
 
-	* **BrysonFlorez** (1)
+	* **BrysonFlorez** [789728] (1)
 
-		
 		Igualmente,
 
-	* **Enrique Devars (Platzi)** (3)
+	* **Enrique Devars (Platzi)** [789728] (3)
 
-		
 		La manera de resolver eso es especificando que transición se va a realizar:
-		``` 
-		    transition: transform 300ms ease-in-out;
+		```     transition: transform 300ms ease-in-out;
 		    
 		```
 
-	* **Enrique Devars (Platzi)** (6)
+	* **Enrique Devars (Platzi)** [789728] (6)
 
-		
 		Otra solucion es definir la propiedad **_transform-origin_** en la clase cuadrado sin el hover
-		``` 
-		    .cuadrado {
+		```     .cuadrado {
 		            width: 200px;
 		            height: 200px;
 		            background: rgb(77, 255, 151);
@@ -7983,121 +7037,100 @@ Sin embargo, podemos jugar con la posición de este punto según el tipo de anim
 		    
 		```
 
-	* **Miguel Arenas Villalobos** (1)
+	* **Miguel Arenas Villalobos** [789728] (1)
 
-		
 		Gracias. Lo solucionó.
 
-	* **John Steven Bernal Gonzalez** (1)
+	* **John Steven Bernal Gonzalez** [789728] (1)
 
-		
 		gracias!
 
-* **irvingsan** (4)
+* **irvingsan** (4) [631205](https://platzi.com/comentario/631205/) 
 
-	
 	a mi no me funcionaba bien la tracisicon en el “pendulo” , por alguna razon el movimineto era muy brusco, asi que necesite agregar lo siguient en el codigo:
-	``` 
-	    transition: transform .5s ease-out;
+	```     transition: transform .5s ease-out;
 	    
 	```
 	
 	nadie mas parece haber tenido este problema, pudiera ser alguna cuestion de google chrome en versiones mas recientes
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [631205] (1)
 
-		
 		Me parece tener el mismo problema que tienes
 
-	* **irvingsan** (1)
+	* **irvingsan** [631205] (1)
 
-		
 		Espero te funcione el codigo que puse, le pregunte a Leonidas y me dijo que pudera ser una cuestion de hardware o usar 3d, pero mas bien parece una cuestion de codigo para estas nuevas versiones
 
-	* **Alejo Fonseca** (1)
+	* **Alejo Fonseca** [631205] (1)
 
-		
 		Con ese código el problema ya no se da al inicio de la animación, sino al final, cuando el péndulo quiere volver a la posición normal.
 
-	* **irvingsan** (2)
+	* **irvingsan** [631205] (2)
 
-		
 		prueba ease in-out, se me hace un caso curioso, pero en los ejercicios que van despues del examen viene uno que usa el mismo efecto y que pasa? que ya no hay problema ¯_(ツ)_/¯
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [631205] (1)
 
-		
 		Alguien pudo solucionar este tema?
 
-* **Alan Santiago** (4)
+* **Alan Santiago** (4) [320844](https://platzi.com/comentario/320844/) 
 Desde hace mucho tiempo que quería hacer esa animación del ‘transform-origin: left top;’
 
-* **melendez-kevin** (3)
+* **melendez-kevin** (3) [872334](https://platzi.com/comentario/872334/) 
 
-	
 	Resumen de transforms y transform-origin  
 	<https://codepen.io/kevin_mdez_hdez/pen/rNajEEY>
 
-	* **Edgardo Marcano** (1)
+	* **Edgardo Marcano** [872334] (1)
 
-		
 		Buenisimo!
 
-* **alejandroszg** (3)
+* **alejandroszg** (3) [429646](https://platzi.com/comentario/429646/) 
 
-	
 	He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas en VS Code, siempre tengo que sombrear toda la linea y luego comentarla… Por si saben 😁
 
-	* **Sergio Minei** (3)
+	* **Sergio Minei** [429646] (3)
 
-		
 		En mi caso, para comentar una línea lo hago con `Control + }`.
 		
 		[Aquí](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) puedes ver la lista shortcuts que hay.
 		
 		También, si entras a configuración del VS Code, puedes asignar nuevos keybindings.
 
-	* **Johan_Marcel** (3)
+	* **Johan_Marcel** [429646] (3)
 
-		
 		alt+shift+a  
 		Pruebalo y avisas.
 
-	* **alejandroszg** (3)
+	* **alejandroszg** [429646] (3)
 
-		
 		Ninguna de las dos opciones me funcionó amigos, así que lo voy a configurar manualmente. Saludos 👍
 
-	* **alejandroszg** (3)
+	* **alejandroszg** [429646] (3)
 
-		
 		Y graciaaaaaaaas😁
 
-	* **kevyyar** (3)
+	* **kevyyar** [429646] (3)
 
-		
 		solamente usa CTRL + / y listo
 
-	* **Johan_Marcel** (4)
+	* **Johan_Marcel** [429646] (4)
 
-		
 		CTRL +K CTRL+C —> Uno despues del otro
 
-	* **jhonsfran90** (2)
+	* **jhonsfran90** [429646] (2)
 
-		
 		CTRL +K +C
 
-	* **Fabián Veliz** (2)
+	* **Fabián Veliz** [429646] (2)
 
-		
 		Buenas!  
 		También podes instalar los **shortcuts** de cualquier editor automáticamente.  
 		Solo buscá en extensiones, por ejemplo: `Sublime shortcuts`.
 
-	* **Cristian Orozco Benjumea** (2)
+	* **Cristian Orozco Benjumea** [429646] (2)
 
-		
 		Por defecto está:
 		
 		`ctrl + }`
@@ -8106,64 +7139,55 @@ Desde hace mucho tiempo que quería hacer esa animación del ‘transform-origin
 		
 		`ctrl + shift + 7`
 
-	* **Hdas** (2)
+	* **Hdas** [429646] (2)
 
-		
 		alt+shift+a
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [429646] (1)
 
-		
 		control + /
 		
 		revisa la configuracion de VScode. Ahora estas claro que esta usando Subliment???
 
-* **agustiniturbee** (3)
+* **agustiniturbee** (3) [60939](https://platzi.com/comentario/613494/) 
 que teclas utiliza leonidas para comentar
 
-	* **osmandi (Platzi)** (1)
+	* **osmandi (Platzi)** [60939] (1)
 
-		
 		Si te refieres a comentarios desde Sublime Text eso depende de los Keyboard Shortcuts que tengas configurados y tu Sistema Operativo. Por defecto sería _Ctrl + /_ y puedes tener más detalles en <http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html>
 
-* **alejandroszg** (3)
+* **alejandroszg** (3) [46277](https://platzi.com/comentario/429646/) 
 He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas en VS Code, siempre tengo que sombrear toda la linea y lue...
 
-	* **Sergio Minei** (3)
+	* **Sergio Minei** [46277] (3)
 
-		
 		En mi caso, para comentar una línea lo hago con `Control + }`.
 		
 		[Aquí](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) puedes ver la lista shortcuts que hay.
 		
 		También, si entras a configuración del VS Code, puedes asignar nuevos keybindings.
 
-* **WSJedp** (2)
+* **WSJedp** (2) [1042049](https://platzi.com/comentario/1042049/) 
 
-	
 	todas las demás propiedades de rotate, scale, skew, translate, comienzan desde el centro, esto es debido a que el punto central donde se enfoca las transformaciones esta en el medio, pero esto se puede alterar con la propiedad transform-origin, que recibe como valor la posición en la que se encontrar a través de porcentajes, siendo cero la izquierda en el eje X, que es el primer valor y siendo cero arriba en el eje Y como segundo valor.  
 	Transform-origin: 50% 0%;
 
-* **Mariano Acuña** (2)
+* **Mariano Acuña** (2) [876249](https://platzi.com/comentario/876249/) 
 
-	
 	Leonidas es muy buen profe porq presenta ejemplos sencillos, asociados con cosas cotidianas…
 
-* **lenielluzardo** (2)
+* **lenielluzardo** (2) [843235](https://platzi.com/comentario/843235/) 
 
-	
 	Buenísimo este modulo, me gusta mucho lo que va del curso.  
 	[Aqui ](https://codepen.io/lenielluzardo/pen/PowYWLZ)dejo mi código de practica hasta este punto. Se aceptan criticas y/o sugerencias! Saludos😁👍
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [494092](https://platzi.com/comentario/494092/) 
 
-	
 	## [Punto de transformación](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase10)
 	
 	Por defecto, el punto de transformación de los objetos en la propiedad de CSS _transform_ está en el centro.  
 	Podemos modificar la ubicación del punto con la propiedad [_transform-origin_](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin).
-	``` 
-	    transform-origin: x% y% z%; /*   % || <length>  values  */
+	```     transform-origin: x% y% z%; /*   % || <length>  values  */
 	    
 	    transform-origin: center top right; /* sugar syntax */
 	    
@@ -8171,14 +7195,12 @@ He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas
 	
 	Por defecto, si inserto sólo un valor se modificará solamente el eje ‘x’ y los otros dos segiran centrados, si inserto 2 valores, ‘x’ e ‘y’, ‘z’ será ‘center’.
 
-	* **Hdas** (1)
+	* **Hdas** [494092] (1)
 
-		
 		Muchas gracias
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1023300](https://platzi.com/comentario/1023300/) 
 
-	
 	<style>  
 	/* Voy a darle unas propiedades basicas al cuadrado*/  
 	body{  
@@ -8224,9 +7246,8 @@ He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas
 	}  
 	</style>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984491](https://platzi.com/comentario/984491/) 
 
-	
 	<!DOCTYPE html>  
 	<!DOCTYPE html>  
 	<html lang=“en”>  
@@ -8289,54 +7310,46 @@ He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984488](https://platzi.com/comentario/984488/) 
 
-	
 	El punto de transformación de un elemento está clavado en alguna parte de la interfaz, y por defecto se encuentra en el centro.
 	
 	Sin embargo, podemos jugar con la posición de este punto según el tipo de animación que queramos crear.
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [971546](https://platzi.com/comentario/971546/) 
 
-	
 	La propiedad CSS transform-origin le permite modificar el origen de las transformaciones de un elemento. Por ejemplo, el transform-origin de la función rotate() es el centro de rotación. (Esta propiedad es aplicada a la primera translación del elemento por el valor negativo de la propiedad. A continuación, aplicar la transformación del elemento y después trasladar el valor de la propiedad).  
 	<https://developer.mozilla.org/es/docs/Web/CSS/transform-origin>
 
-* **Carlos Eduardo Diaz Polanco** (1)
+* **Carlos Eduardo Diaz Polanco** (1) [948621](https://platzi.com/comentario/948621/) 
 
-	
 	**PUNTO DE TRASNFORMACION:**  
 	La transform-originpropiedad le permite cambiar la posición de los elementos transformados.  
 	Las transformaciones 2D pueden cambiar los ejes x & y de un elemento. Las transformaciones 3D también pueden cambiar el eje z de un elemento.
 
-* **Emanuel Valero** (1)
+* **Emanuel Valero** (1) [932745](https://platzi.com/comentario/932745/) 
 
-	
 	La propiedad transform-origin permite definir la posición del punto de transformación. El valor XY por omisión es de 50%. Como complemento a la clase de Leonidas, comparto un encace con ejemplo similar al que él explica.  
 	<https://www.w3schools.com/cssref/css3_pr_transform-origin.asp>
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [845709](https://platzi.com/comentario/845709/) 
 
-	
 	**Punto de transformación **  
 	el punto de transformación por defecto está en el centro pero eso se puede cambiar con  
 	**transform-origin**  
 	que por defecto el centro es el 50% en x 50% en y  
 	también podemos cambiarlo con valores como left right bottom top
 
-* **PabloGM** (1)
+* **PabloGM** (1) [824833](https://platzi.com/comentario/824833/) 
 
-	
 	Yo Utilizo Opera y me ocurre Exactamente lo mismo del centro se desplaza se ejecuta desde El Centro hacia donde lo indiciamos, pero de forma repentina.
 
-	* **Camilo Alexander Velandia Velandia** (1)
+	* **Camilo Alexander Velandia Velandia** [824833] (1)
 
-		
 		igual me pasa tambien uso opera
 
-	* **Camilo Alexander Velandia Velandia** (1)
+	* **Camilo Alexander Velandia Velandia** [824833] (1)
 
-		
 		.cuadrado{  
 		width: 200px;  
 		height: 200px;  
@@ -8345,73 +7358,60 @@ He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas
 		transition: transform .3s ease-in-out;  
 		}
 
-* **Alejo Fonseca** (1)
+* **Alejo Fonseca** (1) [645402](https://platzi.com/comentario/645402/) 
 
-	
 	La propiedad CSS **transform-origin** le permite modificar el origen de las transformaciones de un elemento. Por ejemplo, el transform-origin de la función `rotate()` es el centro de rotación.
 	
 	**transform-origin:** Con este codgo posicionamos la tranformacion, en el primer lugar el **eje x** , en el segundo lugar el **eje y** ( **transform-origin: x y** ) por degecto viene con un valor centrado, es decir ( **transform-origin: 50% 50%** ) pero podemos cambiar la posición con **top, bottom, left, right o %**
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [635911](https://platzi.com/comentario/635911/) 
 
-	
 	No me funciona como a Leonidas hace un movimiento medio extraño y luego hace el movimiento como se muestra en el video.
 
-	* **Alejo Fonseca** (2)
+	* **Alejo Fonseca** [635911] (2)
 
-		
 		A mi tampoco me funciona como debería, hace un gesto raro yéndose al centro y luego se posiciona normalmente como debería
 
-	* **Luis Xavier Perez Miramontes** (3)
+	* **Luis Xavier Perez Miramontes** [635911] (3)
 
-		
 		Lo que yo hice para solucionar ese error fue escribir la propiedad _**transform-origin**_ en la clase **_.cuadrado_** sin el _**hover**_ , ya que asi va a tomar primero el origen y después hará el _rotate_ en la clase con el ‘hover’
 
-* **Moises10** (1)
+* **Moises10** (1) [626555](https://platzi.com/comentario/626555/) 
 
-	
 	Esta propiedad nos ayuda mucho a la hora de obtener una transformación deseada.
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [620267](https://platzi.com/comentario/620267/) 
 
-	
 	 **Anotaciones:**  
 	Se puede lograr cambiar el punto de referencia desde el cual se realiza la transformación con la propiedad transform-origin, de esta forma se logra un efecto parecido al de la propiedad perspective-origin. Podemos poner valores como “sugar syntax” como left, right, bottom, top y center, así como también valores numericos en porcentajes. El primer valor corresponde a la orientación de izquierda y derecha y el segundo valor corresponde a la orientación de arriba y abajo.
 
-* **agustiniturbee** (1)
+* **agustiniturbee** (1) [613491](https://platzi.com/comentario/613491/) 
 
-	
 	que teclas utiliza leonidas para comentar?
 
-	* **almudenaguerras** (2)
+	* **almudenaguerras** [613491] (2)
 
-		
 		En Visual Studio Code se utiliza el siguiente atajo: Cmd-Shift-/
 
-	* **Camilo Andrés Santana Lizcano** (1)
+	* **Camilo Andrés Santana Lizcano** [613491] (1)
 
-		
 		Selecciona la linea de codigo y …  
 		![comentar.jpg](https://static.platzi.com/media/user_upload/comentar-0614727f-b48a-4a84-af20-5a3e8cbf1f46.jpg)
 
-* **Carlos Martinez** (1)
+* **Carlos Martinez** (1) [345494](https://platzi.com/comentario/345494/) 
 
-	
 	hola, hice un ejercicio de que una barra rotara 90 grados, utilize transform-origin: left top; pero no me gusta la animación que hace porque en un momento no se ve parte de la barra, osea, se desaparece por encima de la vista del navegador .  
 	les dejo un enlace a codepen donde pueden ver q hay una parte en la q no se ve la barra. OJO: la animacion termina perfecta como yo quiero pero es al inicio que no me gusta que desaparesca, como podria mejorar eso??  
 	<https://codepen.io/Carlosvenz/pen/bjvjxB?editors=1000>
 
-	* **Montserrat Palacios** (1)
+	* **Montserrat Palacios** [345494] (1)
 
-		
 		agrega el transform origin fuera del hover , osea dentro de .barra
 
-	* **Montserrat Palacios** (1)
+	* **Montserrat Palacios** [345494] (1)
 
-		
 		de esta manera
-		``` 
-		    .contenedor:hover.barra{
+		```     .contenedor:hover.barra{
 		    			transform: rotateZ(90deg);
 		    		}
 		    		.barra{
@@ -8426,45 +7426,37 @@ He Googleado pero no consigo cómo comentar una línea entera como hace Leonidas
 		    
 		```
 
-	* **Carlos Martinez** (2)
+	* **Carlos Martinez** [345494] (2)
 
-		
 		que bien!! gracias @montse_palacios no se porque no se me habia ocurrido antes jeje. gracias nuevamente.
 
-	* **Hdas** (2)
+	* **Hdas** [345494] (2)
 
-		
 		Buen aporte
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [320839](https://platzi.com/comentario/320839/) 
 Haces las clases muy practicas, eres muy buen profesor :D
 
-* **Javier  Padrón** (1)
+* **Javier  Padrón** (1) [221585](https://platzi.com/comentario/221585/) 
 
-	
 	Hola a todos una consulta, necesito una propiedad que al cargar una pagina vaya apareciendo un boton , es decir , que el boton pase de invisble a visible mientras vaya cargando la pagina, no recuerdo si en el curso lo han mencionado , gracias
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [221585] (6)
 
-		
 		Es complejo hacerlo porque dependiendo de la conexión del usuario puede tardar más o menos en cargar tu sitio, lo que puedes hacer es detectar cuando el sitio esta completamente cargado y hacer un efecto de fade-in para que aparezca tu botón.
 
-	* **Byhako** (0)
+	* **Byhako** [221585] (0)
 
-		
 		Podria hacerse con la opacidad. Al inicio que este en 0, osea totalmente transparente, y luego aumente progresivamente la opacidad hasta 1, donde quedaria totalmente visible.
 
-	* **Mateo Gonzales Navarrete** (1)
+	* **Mateo Gonzales Navarrete** [221585] (1)
 
-		
 		Puedes hacerlo con lo con un patrón de diseño que se llama Lazy Loading. En el [Curso de Responsive Design 2016](https://platzi.com/clases/responsive-design-2016/) en su clase [Optimizando la carga de imágenes con lazy loading](https://platzi.com/clases/1036-responsive-design-2016/4537-optimizando-la-carga-de-imagenes-con-lazy-loading/), con la cual te podrás hacer una mejor idea, y con un poco de investigación lo podrás aplicar como quieres.
 
-* **Marco Aurelio Elizalde Torres** (1)
+* **Marco Aurelio Elizalde Torres** (1) [205337](https://platzi.com/comentario/205337/) 
 
-	
 	El **punto de transformación** es desde donde va a partir nuestras transformación, por defecto es el centro.
-	``` 
-	    /*transform-origin: x y;*/
+	```     /*transform-origin: x y;*/
 	    /*Valores por defecto*/
 	    transform-origin: 50%50%;
 	    transform-origin: left top;
@@ -8472,38 +7464,34 @@ Haces las clases muy practicas, eres muy buen profesor :D
 	    
 	```
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [62210](https://platzi.com/comentario/635930/) 
 Uso Chrome y no he logrado que las animaciones se vean como a Leonidas no entiendo xq hacen movimientos extraños (saltan). ???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [62210] (1)
 
-		
 		Hola, comparte tu código para ayudarte a revisar y encontrar el problema.
 
-* **Carlos Martinez** (1)
+* **Carlos Martinez** (1) [38564](https://platzi.com/comentario/345494/) 
 hola, hice un ejercicio de que una barra rotara 90 grados, utilize transform-origin: left top; pero no me gusta la animación que hace por...
 
-	* **Montserrat Palacios** (1)
+	* **Montserrat Palacios** [38564] (1)
 
-		
 		agrega el transform origin fuera del hover , osea dentro de .barra
 
-* **Baltazar Ortega** (0)
+* **Baltazar Ortega** (0) [279583](https://platzi.com/comentario/279583/) 
 
-	
 	¿Porque si pongo transform-origin: left top;  
 	transform-origin: rotateZ(-45deg);  
 	el cuadrado se rota hacia arriba, y cuando en lugar de left pongo right se rota hacia abajo?
 
-	* **Juan Carlos Felizzola Vega** (1)
+	* **Juan Carlos Felizzola Vega** [279583] (1)
 
-		
 		Porque como vimos anteriormente, con rotateZ le estás dando un giro de 45 grados, y este se mueve segun las manecillas del reloj, cuando le colocas “-” se mueve al contrario.  
 		Como con transform-origin lo que haces es ubicar un punto de origen para la transformación, este funciona como un clavo en el cuadro que está dibujado. Por eso hace ese movimiento.
 
-# Animaciones CSS
+# Animaciones CSS [1098]
 
-## 0110. Sintaxis
+## 0110. Sintaxis [6830](https://platzi.com/clases/1103-animaciones-web/6830-sintaxis/)
 
 ### Descripción:
 
@@ -8512,9 +7500,8 @@ En este vídeo vamos a aprender la _**sintaxis**_ que podemos utilizar en CSS pa
 
 ### Comentarios:
 
-* **Yomar Esteban Miranda Sarmiento** (77)
+* **Yomar Esteban Miranda Sarmiento** (77) [208859](https://platzi.com/comentario/208859/) 
 
-	
 	Para crear una animación CSS usaremos la propiedad `animation` y sus sub-propiedades, con las cuales podemos configurar el ritmo, la duración, etc.
 	
 	Las subpropiedades de `animation` son:
@@ -8543,66 +7530,54 @@ En este vídeo vamos a aprender la _**sintaxis**_ que podemos utilizar en CSS pa
 	`animation-fill-mode`  
 	Especifica qué valores tendrán las propiedades después de finalizar la animación (los de antes de ejecutarla, los del último fotograma de la animación o ambos).
 
-	* **samvarcia** (5)
+	* **samvarcia** [208859] (5)
 
-		
 		Gran aporte 😃
 
-	* **Jorge Wenner Arévalo Alvis** (1)
+	* **Jorge Wenner Arévalo Alvis** [208859] (1)
 
-		
 		gracias
 
-	* **Johan_Marcel** (1)
+	* **Johan_Marcel** [208859] (1)
 
-		
 		Muy buen resumen. Thanks.
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [208859] (1)
 
-		
 		Gracias por las notas
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [208859] (1)
 
-		
 		Buen resumen!
 
-	* **Hdas** (1)
+	* **Hdas** [208859] (1)
 
-		
 		Buen resumen
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [208859] (1)
 
-		
 		Muchas gracias
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [208859] (1)
 
-		
 		Buen Resumen
 
-	* **David Rodriguez** (1)
+	* **David Rodriguez** [208859] (1)
 
-		
 		muy bien!!!
 
-* **durbonca** (13)
+* **durbonca** (13) [718374](https://platzi.com/comentario/718374/) 
 
-	
 	Reto para la clase… Realizar animación como esta:
 	
 	<https://codepen.io/miocene/pen/aPwrpw>
 	
 	Salu2
 
-* **Imderf** (10)
+* **Imderf** (10) [320854](https://platzi.com/comentario/320854/) 
 
-	
 	Sintaxis que podemos utilizar para poder animar en CSS con “animation”:
-	``` 
-	    .cuadrado{
+	```     .cuadrado{
 	          /* Nombramos la animación a ejecutar*/
 	          animation-name: cuadrado;
 	          /*Dirección de la animación*/
@@ -8642,9 +7617,8 @@ En este vídeo vamos a aprender la _**sintaxis**_ que podemos utilizar en CSS pa
 	    
 	```
 
-* **Alejo Fonseca** (9)
+* **Alejo Fonseca** (9) [645489](https://platzi.com/comentario/645489/) 
 
-	
 	Las animaciones CSS3 permiten animar la transición entre un estilo CSS y otro. Las animaciones constan de dos componentes: un estilo que describe la animación CSS y un conjunto de fotogramas que indican su estado inicial y final, así como posibles puntos intermedios en la misma.  
 	**Configurando la animacion**  
 	Para crear una secuencia de animación CSS, tu estilizarás el elemento que quieras animar con la propiedad animation y sus sub-propiedades. Con ellas podemos no solo configurar el ritmo y la duración de la animación sino otros detalles sobre la secuencia de la animación. Con ellas no configuramos la apariencia actual de la animación, para ello disponemos de @keyframes  
@@ -8658,20 +7632,17 @@ En este vídeo vamos a aprender la _**sintaxis**_ que podemos utilizar en CSS pa
 	**animation-timing-function:** Indica el ritmo de la animación, es decir, como se muestran los fotogramas de la animación, estableciendo curvas de aceleración.  
 	**animation-fill-mode:** Especifica qué valores tendrán las propiedades después de finalizar la animación (los de antes de ejecutarla, los del último fotograma de la animación o ambos).
 
-* **Emmanuel García** (7)
+* **Emmanuel García** (7) [812781](https://platzi.com/comentario/812781/) 
 
-	
 	Una página ya con un montón de animaciones preestablecidas por si alguien quiere hecharle un vistazo e inspirarse <https://daneden.github.io/animate.css/>
 
-* **pablojorgeandres** (7)
+* **pablojorgeandres** (7) [494539](https://platzi.com/comentario/494539/) 
 
-	
 	## [Sintaxis](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#sintaxis-1)
 	
 	Con la propiedad [`animation`](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) puedo hacer animaciones de cualquier propiedad visual de CSS en una cantidad determinada de tiempo.  
 	Para que funcione, la sintaxis básica es `animation-name` y `animation-duration` en el elemento que deseamos animar. Y un `@keyframes` apuntando al nombre previamente seteado.
-	``` 
-	      .objeto {
+	```       .objeto {
 	        animation-name: objeto1;
 	        animation-time: 2s;
 	      }
@@ -8685,8 +7656,7 @@ En este vídeo vamos a aprender la _**sintaxis**_ que podemos utilizar en CSS pa
 	```
 	
 	El `@keyframes` puede usarse con los keywords “from” y “to” ó con porcentajes cuándo necesito más de un cambio durante el tiempo seteado.
-	``` 
-	      @keyframes objeto1 {
+	```       @keyframes objeto1 {
 	        0% { background-color: red; }
 	        25% { background-color: orange; }
 	        50% { background-color: dark-orange; }
@@ -8707,100 +7677,82 @@ En este vídeo vamos a aprender la _**sintaxis**_ que podemos utilizar en CSS pa
 	  * `animation-direction: normal | reverse | alternate` determina la dirección de la animación y si se repite y de qué manera. [Referencia](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction)
 	  * `animation-fill-mode: forwards | backwards | both` setear estilos antes y después de la animación. [Referencia](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode)
 	  * `animation-play-state: running | paused` detiene la animación en el momento en el que está. [Referencia](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-play-state)
-	
-	
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [494539] (2)
 
-		
 		Buen resumen!
 
-	* **Hdas** (2)
+	* **Hdas** [494539] (2)
 
-		
 		Buen aporte muchas gracias
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [494539] (1)
 
-		
 		Gracias, me alegra que les sea de utilidad.  
 		[Aquí está el link](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md) al resumen completo.  
 		Saludos
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [494539] (1)
 
-		
 		Gracias!
 
-* **Alan Santiago** (6)
+* **Alan Santiago** (6) [320919](https://platzi.com/comentario/320919/) 
 
-	
 	Para hacer que la animacion parezca un rebote verdadero pueden usar **ease-in** o **ease-out** en la clase **cuadrado** :
-	``` 
-	    animation-timing-function: ease-in;
+	```     animation-timing-function: ease-in;
 	    
 	```
 
-* **ecmanrique** (6)
+* **ecmanrique** (6) [175244](https://platzi.com/comentario/175244/) 
 
-	
 	No sabía de animation-fill-mode ni de animation-direction. Realmente bastante útiles.
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [175244] (5)
 
-		
 		Un gusto verte por acá, espero el curso este al nivel y lo aproveches mucho 😊
 
-* **Henry Gabriel Rodríguez Tovar** (5)
+* **Henry Gabriel Rodríguez Tovar** (5) [376068](https://platzi.com/comentario/376068/) 
 
-	
 	No pensé que se pudieran lograr este tipo de animaciones con CSS, pensé que estas sólo se hacían con Js 😮
 
-	* **Hdas** (1)
+	* **Hdas** [376068] (1)
 
-		
 		Antes era así
 
-* **Alan Santiago** (5)
+* **Alan Santiago** (5) [320856](https://platzi.com/comentario/320856/) 
 Esta es una de las mejores clases que he visto :0, empiezas con algo sencillo y terminas con una animación decente :D
 
-	* **Hdas** (1)
+	* **Hdas** [320856] (1)
 
-		
 		Muy buena clase
 
-* **Henry Castro Pinilla** (5)
+* **Henry Castro Pinilla** (5) [183084](https://platzi.com/comentario/183084/) 
 
-	
 	Que buenas etiquetas muy útiles
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [183084] (3)
 
-		
 		¿Qué tal va el curso? sigue con las clases y no lo dejes hasta que tengas el certificado contigo
 
-* **Carlos Eduardo Diaz Polanco** (3)
-![animation.jpg](https://static.platzi.com/media/user_upload/animation-658c2d8d-84b8-4a62-980b-5eb96a4df251.jpg)
+* **Carlos Eduardo Diaz Polanco** (3) [962001](https://platzi.com/comentario/962001/) 
+	
+	![animation.jpg](https://static.platzi.com/media/user_upload/animation-658c2d8d-84b8-4a62-980b-5eb96a4df251.jpg)
 	
 	Los invito a pasar por mi guia  
 	<https://diazpolanco13.github.io/mis-guias/guia-animation.html#sintaxis>
 
-	* **manuelmelendezb** (1)
+	* **manuelmelendezb** [962001] (1)
 
-		
 		va cool., el sitio
 
-* **lenielluzardo** (3)
+* **lenielluzardo** (3) [843207](https://platzi.com/comentario/843207/) 
 
-	
 	al final como que esta clase canso a Leonidas😂😂😂
 
-* **Jhosep Pérez** (3)
+* **Jhosep Pérez** (3) [623885](https://platzi.com/comentario/623885/) 
 
-	
 	Espero que no se desacomode mucho esto que voy a pegar aquí D:
-	``` 
-	    ANIMACIONES. <-----------------------------------------------------------------------//
+	```     ANIMACIONES. <-----------------------------------------------------------------------//
 	    
 	    animation-name = al nombre dela animación a la cual nos referiremos dentro de un @keyframes.
 	    
@@ -8852,194 +7804,160 @@ Esta es una de las mejores clases que he visto :0, empiezas con algo sencillo y 
 	    
 	```
 
-* **Javier Gomez Velasco** (3)
+* **Javier Gomez Velasco** (3) [297035](https://platzi.com/comentario/297035/) 
 
-	
 	Mi animacion sencilla con lo visto hasta ahorita  
 	<https://codepen.io/xjgv5/pen/vjdEQb>
 
-	* **Alejandro Moreno** (1)
+	* **Alejandro Moreno** [297035] (1)
 
-		
 		Muy buen ejemplo aplicado.  
 		Podrias usar solo dos estados y usar el animation direction para ahorrarte lineas de código.
 		
 		`.container:hover .pokebola{ transform: rotate(15deg); animation-name: moving; animation-iteration-count: infinite; animation-duration: .10s; animation-direction: alternate; } @keyframes moving{ 0%{ transform: rotate(8deg); } 100%{ transform: rotate(0deg) } }`
 
-	* **Hdas** (1)
+	* **Hdas** [297035] (1)
 
-		
 		buen ejemplo muchas gracias
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [297035] (1)
 
-		
 		Amante de Pokemon XD, muy buen desempeño
 
-* **jl.bautista** (2)
+* **jl.bautista** (2) [983808](https://platzi.com/comentario/983808/) 
 
-	
 	Me estuve un rato intentando realizar este ejercicio y no me salía. Resultó ser una cuestión de la función calc().
 	
 	Ya investigué y les comparto la explicación que encontré al respecto:
 	
 	[](https://developer.mozilla.org/es/docs/Web/CSS/calc)
-	``` 
-	    Nota: las operaciones + y - siempre deben estar separadas de sus operandos mediante espacios en blanco. La expresión calc(50% -8px) será tomada como un operando de porcentaje seguido de otro operando de signo negativo (una expresión inválida, dado queno hay operador en medio), mientras quela expresión calc(50% - 8px) es un porcentaje seguido de una operaciónde resta.
+	```     Nota: las operaciones + y - siempre deben estar separadas de sus operandos mediante espacios en blanco. La expresión calc(50% -8px) será tomada como un operando de porcentaje seguido de otro operando de signo negativo (una expresión inválida, dado queno hay operador en medio), mientras quela expresión calc(50% - 8px) es un porcentaje seguido de una operaciónde resta.
 	    Los operadores * y / no requieren espacio en blanco, pero es recomendable añadirlo por consistencia.
 	    
 	```
 
-* **conejo22** (2)
+* **conejo22** (2) [860829](https://platzi.com/comentario/860829/) 
 
-	
 	Si vamos a trabajar con flex-box sería mejor darle un flex : 0 1 100%; a .container y ya …
 
-* **Miguel Arenas Villalobos** (2)
+* **Miguel Arenas Villalobos** (2) [842325](https://platzi.com/comentario/842325/) 
 
-	
 	Eres mi héroe Leonidas
 
-* **BrysonFlorez** (2)
+* **BrysonFlorez** (2) [830782](https://platzi.com/comentario/830782/) 
 
-	
 	Por qué se debe poner en el left 100%, lo intenté con right: 0; y no funciona.  
 	Muchas gracias
 
-	* **Jonathan Uriel Jiménez Soveranes** (3)
+	* **Jonathan Uriel Jiménez Soveranes** [830782] (3)
 
-		
 		Recuerda que las animaciones en si, son cambios que realizas de un estado a otro. Es decir, al colocar left:0 y despues right:0 estos dos estados se contraponen, porque son completamente distintos. El cambio debe surgir sobre la base que estas utilizando, en este caso tu base es left, por eso se coloca left:0 y después left:100%.  
 		En resumen, es como si dijeras que de vacío, se va a ir llenando hasta llegar a lleno. Del otro modo (con right:0) es como si estuviera vacío pero lo quisieras cambiar por otro elemento que este lleno y no que el mismo elemento se vaya llenando.  
 		Es como lo entiendo, espero haberme explicado.
 
-* **davidbr** (2)
+* **davidbr** (2) [496712](https://platzi.com/comentario/496712/) 
 
-	
 	Si esto es la capacidad de CSS3 no quiero imaginar si lo combinamos con JS, esto se pone bueno.
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [494658](https://platzi.com/comentario/494658/) 
 
-	
 	Animation: Buenísimo!
-	``` 
-	    													😎
+	```     													😎
 	    
 	```
 	
 	![](https://developerathome.tk/Store/images/CSS-animation.gif)
 
-* **jangove** (2)
+* **jangove** (2) [351639](https://platzi.com/comentario/351639/) 
 
-	
 	Por que fue el margen en animation lo resto en 40 si fue 20 %
 
-	* **Carlos Eduardo Jesús León** (2)
+	* **Carlos Eduardo Jesús León** [351639] (2)
 
-		
 		porque el cuadrado tenia un margen de 20px, pero tiene 20px a cada lado ósea que son 40px, **mucho ojo** , que son pixeles no porcentajes.
 		
 		Aunque como en este caso solo vamos hacia el lado derecho, con ponerle 20px es suficiente.
 
-	* **Hdas** (1)
+	* **Hdas** [351639] (1)
 
-		
 		Buena aclaración
 
-* **Jonatan David Padilla** (2)
+* **Jonatan David Padilla** (2) [326817](https://platzi.com/comentario/326817/) 
 
-	
 	con `animation-fill-mode` es la forma de decrile al css como quiero que quedeel elemento cuando se acabe la animacion.
 	
 	`forwards` = Le decimos que el elemento que tiene la animacion se quede como termina la animacion.
 	
 	Era lo que buscaba, me gusto mucho y por eso lo **resalto.**
 
-* **Edgar Valdez Moises** (2)
+* **Edgar Valdez Moises** (2) [271726](https://platzi.com/comentario/271726/) 
 
-	
 	Que diferencia hay entre usar transforme translate y left, right ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [271726] (1)
 
-		
 		Para usar left, right, top o bottom tienes que tener la propiedad position definida como absolute. Si usas transform: translate no necesitas definir el position.
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [271726] (0)
 
-		
 		Si… Entiendo, pero hay alguna otra diferencia entre ambos ?  
 		O son lo mismo ?
 
-* **Yeraldine Martinez** (2)
+* **Yeraldine Martinez** (2) [223333](https://platzi.com/comentario/223333/) 
 
-	
 	Soy fan de las animaciones 😍
 
-	* **Hdas** (1)
+	* **Hdas** [223333] (1)
 
-		
 		Son una muy buena herramienta
 
-* **T-gold** (1)
+* **T-gold** (1) [1047233](https://platzi.com/comentario/1047233/) 
 
-	
 	como puedo hacer que la animacion comienze cuando el elemento esta dentro del viewport?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1047233] (1)
 
-		
 		Debes detectar con JavaScript usando la posición del scroll y la posición distancia que hay del contenedor de la animación si ya esta o no en el viewport para iniciar la animación.
 
-	* **T-gold** (1)
+	* **T-gold** [1047233] (1)
 
-		
 		GRACIAS!
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1047233] (1)
 
-		
 		También puedes hacerlo con [IntersectionObserver](https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API), que es una tecnología un poco más nueva 😄
 
-	* **T-gold** (1)
+	* **T-gold** [1047233] (1)
 
-		
 		gracias gabriel!!  
 		ese concepto lo aprendi en el curso profesional de javascript!
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1043077](https://platzi.com/comentario/1043077/) 
 
-	
 	Css de forma nativa nos ofrece la propiedad änimation, esta nos permitirá crear animaciones con varios estados, es decir, con transitions podemos animar elementos de un punto A a un punto B, pero con animation podremos crear varios puntos de referencia, para que el elemento pueda tener mas de un estado, como puntos A, B, C y D.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1025671](https://platzi.com/comentario/1025671/) 
 
-	
 	Aunque las transiciones son la manera de suavizar un cambio de un estado inicial a un estado final. La idea de las **animaciones CSS** es permitir la adición de más estados, pudiendo realizar cambios desde un estado inicial, a un estado posterior, y luego a otro estado posterior, y así sucesivamente.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1025671] (1)
 
-		
 		Una vez conocemos las **transiciones CSS** , es muy fácil adaptarnos al concepto de **animaciones CSS** , el cual amplia el concepto de transiciones convirtiéndolo en algo mucho más flexible y potente.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1025671] (1)
 
-		
 		La propiedad **animation-name** permite especificar el nombre del fotógrafa a utilizar
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1025671] (1)
 
-		
 		las propiedades **animation-duration** , **animation-timing-function** y **animation-delay** funcionan exactamente igual que en el tema de transiciones.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1025671] (1)
 
-		
 		La propiedad **animation-iteration-count** permite indicar el número de veces que se repite la animación, pudiendo establecer un número concreto de repeticiones o indicando **infinite** para que se repita continuamente. Por otra parte, especificando un valor en animation-direction conseguiremos indicar el orden en el que se reproducirán los fotogramas
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984495](https://platzi.com/comentario/984495/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -9111,34 +8029,28 @@ Esta es una de las mejores clases que he visto :0, empiezas con algo sencillo y 
 	</body>  
 	</html>
 
-* **Angélica María Rocha García** (1)
+* **Angélica María Rocha García** (1) [980412](https://platzi.com/comentario/980412/) 
 
-	
 	excelente clase Leonidas, gracias
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [830760](https://platzi.com/comentario/830760/) 
 
-	
 	La documentación de está clase se puede encontrar en [animations](https://developer.mozilla.org/es/docs/Web/CSS/animation), se encuentran todas las propiedades de animation
 
-* **33andres33** (1)
+* **33andres33** (1) [805087](https://platzi.com/comentario/805087/) 
 
-	
 	muy buena clase
 
-* **lmoran** (1)
+* **lmoran** (1) [789892](https://platzi.com/comentario/789892/) 
 
-	
 	Excelente clase, muy buen explicado.
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [689564](https://platzi.com/comentario/689564/) 
 
-	
 	Apliqué animaciones a los ejemplos de transformaciones que vimos en clases anteriores. Les invito a chequearlos ustedes mismos:
 	
 	HTML
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -9199,8 +8111,7 @@ Esta es una de las mejores clases que he visto :0, empiezas con algo sencillo y 
 	```
 	
 	CSS:
-	``` 
-	    body {
+	```     body {
 	        font-family: Arial, sans-serif;
 	    }
 	    .main-title {
@@ -9341,45 +8252,37 @@ Esta es una de las mejores clases que he visto :0, empiezas con algo sencillo y 
 	    
 	```
 
-	* **Rafael Alvarez Cardona** (1)
+	* **Rafael Alvarez Cardona** [689564] (1)
 
-		
 		Bro quise copiar el codigo, pero no me sale, parece que tuviera un error o no sé ayudame, quiero ver tu proyecto o si lo tienes en github
 
-* **Moises10** (1)
+* **Moises10** (1) [626578](https://platzi.com/comentario/626578/) 
 
-	
 	con esta clase quede ok
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [620328](https://platzi.com/comentario/620328/) 
 
-	
 	Todo un mundo se puede hacer con las animaciones 😄😄😄
 
-* **Hdas** (1)
+* **Hdas** (1) [516537](https://platzi.com/comentario/516537/) 
 
-	
 	[https://codepen.io/anon/pen/BMEPZE](url)
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [509832](https://platzi.com/comentario/509832/) 
 
-	
 	Wow, animations realmente te vuela la mente. Se pueden lograr resultados súper profesionales con pocas líneas. Qué hermoso
 
-	* **Hdas** (1)
+	* **Hdas** [509832] (1)
 
-		
 		Es una herramienta muy versátil
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [509832] (1)
 
-		
 		Puedes ser totalmente creativo 😃
 
-* **Victor Alejandro Alvarez Tallada** (1)
+* **Victor Alejandro Alvarez Tallada** (1) [357374](https://platzi.com/comentario/357374/) 
 
-	```
-	    <code>
+	```    <code>
 	    //la propiedad  animation en sintaxis resumida 
 	    animation: name duration
 	    		timing-function
@@ -9407,145 +8310,121 @@ Esta es una de las mejores clases que he visto :0, empiezas con algo sencillo y 
 	    
 	```
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [357374] (1)
 
-		
 		Gracias!
 
-* **ShadowAeon** (1)
+* **ShadowAeon** (1) [349267](https://platzi.com/comentario/349267/) 
 
-	
 	Alguien sabe cómo se puede animar un elemento que cambia su height desde 0 hasta auto (altura dependiente del contenido). Quiero hacer un acordeón que puede contener n elementos y necesito hacer una animación para mostrar y econder dichos elementos que de el efecto de ir reveando el contenido. Al parecer CSS no anima la transición a un height de auto y el scaleY no se ve bien porque comprime el contenido. Muchas gracias.
 
-	* **Jonatan David Padilla** (1)
+	* **Jonatan David Padilla** [349267] (1)
 
-		
 		prueba usando `@keyframes` para las animaciones. todo acerca de `@keyframes` lo explica leonidas en el [Curso de animaciones para la web](https://platzi.com/clases/animaciones-web/)
 
-	* **ShadowAeon** (1)
+	* **ShadowAeon** [349267] (1)
 
-		
 		Ya usé keyframes y no anima el height auto D:
 
-	* **RomarioEstradaFlorez** (1)
+	* **RomarioEstradaFlorez** [349267] (1)
 
-		
 		Tienes que usar js y detectar el alto del contenido cuando se recarga la página.
 
-	* **Hdas** (1)
+	* **Hdas** [349267] (1)
 
-		
 		Buena información
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [349267] (1)
 
-		
 		Puedes animarlo por porcentaje
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [349267] (1)
 
-		
 		xq no usas porcentaje y ya???
 
-* **José Rubial** (1)
+* **José Rubial** (1) [305086](https://platzi.com/comentario/305086/) 
 
-	
 	Como podría hacer para calcular un ancho que no es fijo o que esta automatico?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [305086] (2)
 
-		
 		Puedes usar porcentaje por ejemplo
-		``` 
-		    width: 100%;
+		```     width: 100%;
 		    
 		```
 		
 		o el porcentaje que quieres, este tomara todo el ancho disponible, si esta dentro de otro contenedor tomara todo el ancho de ese contenedor.
 
-* **Henry Alejandro  Palacios Lemus** (1)
+* **Henry Alejandro  Palacios Lemus** (1) [275263](https://platzi.com/comentario/275263/) 
 
-	
 	¿Que MacBook usas Leonitas?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [275263] (2)
 
-		
 		MacBook pro.
 
-	* **Henry Alejandro  Palacios Lemus** (0)
+	* **Henry Alejandro  Palacios Lemus** [275263] (0)
 
-		
 		¿Pero que año? Ya que todos dan los cursos en Macbook, decidí comprarme una 😄
 
-	* **Teofilo Rosales Gama** (1)
+	* **Teofilo Rosales Gama** [275263] (1)
 
-		
 		no es necesario yo lo hago en una laptop acer core i3 de hace 5 años y sin problemas
 
-	* **Hdas** (1)
+	* **Hdas** [275263] (1)
 
-		
 		Depende del programador no del computador
 
-* **Jesús Enrique Rojas** (1)
+* **Jesús Enrique Rojas** (1) [272052](https://platzi.com/comentario/272052/) 
 
-	
 	Las animaciones siempre tienen que tener una nombre y una duración
 
-* **Diego Burlando** (1)
+* **Diego Burlando** (1) [217540](https://platzi.com/comentario/217540/) 
 
-	
 	@LeonidasEsteban, gracias por tan buena explicacion.
 
-* **Rubenlam** (1)
+* **Rubenlam** (1) [82030](https://platzi.com/comentario/995778/) 
 Al hacer animaciones ¿Estoy usando el internet para que se efectue la animación o ya está precargada al cargar la página?
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [82030] (1)
 
-		
 		La animación es un comportamiento nativo del navegador, por lo que no necesitas una conexión a internet para que estas funcionen
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [73337](https://platzi.com/comentario/832884/) 
 tengo un problema con los keyframes no me funciona
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [73337] (2)
 
-		
 		Hola! Nos podrías facilitar el código? De esta manera podremos ayudarte de forma más efectiva, también revisa que no esté mal escrito, generalmente como desarrolladores nos saltamos letras o escribimos las cosas mal y esa es la principal fuente de nuestros dolores de cabeza 😛
 
-* **Juan Sebastian Cardenas Arevalo** (1)
+* **Juan Sebastian Cardenas Arevalo** (1) [72194](https://platzi.com/comentario/812167/) 
 yo quiero que un contenedor div no tenga animación pero si genere una ilusión de 3D como que saliera un poco de la pantalla, esto como se...
 
-	* **Bikatti** (1)
+	* **Bikatti** [72194] (1)
 
-		
 		Si, pero eso ya sería otra cosa, como una imagen que ya venga con un efecto que le de esa ilusión, como un mockups, o así. Puedes ver el website de Lifti, donde hacen un buen uso de eso y animaciones.
 		
 		<https://liftit.co/>
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [62216](https://platzi.com/comentario/635985/) 
 Monte la animación que corre Leonidas en el minuto 15:01 y no se me igual me parece que me falta mas memoria ram o necesito mas capacidad...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [62216] (2)
 
-		
 		Es probable que sea rendimiento del video si no tienes una tarjeta de video dedicada.
 
-* **ShadowAeon** (1)
+* **ShadowAeon** (1) [38921](https://platzi.com/comentario/349267/) 
 Alguien sabe cómo se puede animar un elemento que cambia su height desde 0 hasta auto (altura dependiente del contenido). Quiero hacer un...
 
-	* **Jonatan David Padilla** (1)
+	* **Jonatan David Padilla** [38921] (1)
 
-		
 		prueba usando `@keyframes` para las animaciones. todo acerca de `@keyframes` lo explica leonidas en el [Curso de animaciones para la web](https://platzi.com/clases/animaciones-web/)
 
-* **Kevin Javier Morales (Platzi)** (0)
+* **Kevin Javier Morales (Platzi)** (0) [196441](https://platzi.com/comentario/196441/) 
 
-	
 	`@keyframes: nombre-de-la-animacíón` se coloca en porcentajes lo que sería un 0% (el inicio) y un 100% (el final)
 
-## 0120. Aceleración y curva de bezier
+## 0120. Aceleración y curva de bezier [6831](https://platzi.com/clases/1103-animaciones-web/6831-aceleracion-y-curva-de-bezier/)
 
 ### Descripción:
 
@@ -9554,121 +8433,98 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (93)
+* **Leonidas Esteban Gonzalez** (93) [164439](https://platzi.com/comentario/164439/) 
 
-	
 	Soy fan de esta clase
 
-	* **César Daniel Bañuelos Gómez** (18)
+	* **César Daniel Bañuelos Gómez** [164439] (18)
 
-		
 		Soy fan del curso ❤️
 
-	* **Angela  Cordova** (25)
+	* **Angela  Cordova** [164439] (25)
 
-		
 		yo soy fan del profe, ojala todos enseñen como él… todo muy claro
 
-	* **fredy bustos** (12)
+	* **fredy bustos** [164439] (12)
 
-		
 		Leonidas con muchos fans…  
 		aqui uno mas…
 
-	* **jhon de la rosa toxqui De la RosaToxqui** (5)
+	* **jhon de la rosa toxqui De la RosaToxqui** [164439] (5)
 
-		
 		soy fan del profe x2, Leonidas enseña bastante bien al igual que sasha
 
-	* **TheGh0st** (2)
+	* **TheGh0st** [164439] (2)
 
-		
 		Soy fan del profe x 3 !!! Enserio, explica una NOTA ! 😃
 
-	* **Joaquín Andrés Moreno Quinteros** (3)
+	* **Joaquín Andrés Moreno Quinteros** [164439] (3)
 
-		
 		 **Leonidas Fan Club**
 
-	* **samvarcia** (4)
+	* **samvarcia** [164439] (4)
 
-		
 		Leonidas , nos traes locos eh
 
-	* **Alan Santiago** (2)
+	* **Alan Santiago** [164439] (2)
 
-		
 		Para cuando el **Fan Club de Leonidas**? 😄
 
-	* **Samuel Marin** (4)
+	* **Samuel Marin** [164439] (4)
 
-		
 		Lo siento ya existe el Club de Leonidas se llama 300 y ninguno va a estar ahí. El club cerró las inscripciones para nuevos miembros hace muuucho tiempo.
 
-	* **Bryan Estiven Silva Mercado** (2)
+	* **Bryan Estiven Silva Mercado** [164439] (2)
 
-		
 		Fan de platzi , fan del curso , fan del profe que explica de lo mejor.
 
-	* **Fco Castro** (2)
+	* **Fco Castro** [164439] (2)
 
-		
 		Soy fan de Beizer
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [164439] (2)
 
-		
 		Y bueno …  
 		Otro fan de todo!! 😊👍
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [164439] (2)
 
-		
 		Otra fan para el club. Del curso y de Leonidas ❤️
 
-	* **Jesús Antonio Chacón Rodriguez** (2)
+	* **Jesús Antonio Chacón Rodriguez** [164439] (2)
 
-		
 		Soy fan de curva de bezier!!
 
-	* **Hdas** (2)
+	* **Hdas** [164439] (2)
 
-		
 		Muy buena clase
 
-	* **asaenz** (2)
+	* **asaenz** [164439] (2)
 
-		
 		Ese Leonidas es todo un personaje, yo digo que debería de dar todos los cursos, es el unico que me agrada como explica… bueno tambien sasha
 
-	* **Gabriel Andreí Barceló Alfaro** (2)
+	* **Gabriel Andreí Barceló Alfaro** [164439] (2)
 
-		
 		Tus clases son divertidas y entretenidas
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [164439] (1)
 
-		
 		Soy Fan de la Clase
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [164439] (1)
 
-		
 		a Tambien soy fan del profe
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [164439] (1)
 
-		
 		Si, cuando un grupo en facebook?
 
-	* **jesus-gallardo** (1)
+	* **jesus-gallardo** [164439] (1)
 
-		
 		Soy fan del curso ❤️
 
-* **Kevin Javier Morales (Platzi)** (22)
+* **Kevin Javier Morales (Platzi)** (22) [196442](https://platzi.com/comentario/196442/) 
 
-	
 	`ease`: por defecto  
 	`ease-in`: se suaviza al entrar o al inicio  
 	`ease-out`: se suaviza al salir o al finalizar  
@@ -9678,12 +8534,10 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	
 	[Cubic Bezier](http://cubic-bezier.com/)
 
-* **David Daniel Castillo Nava** (18)
+* **David Daniel Castillo Nava** (18) [175906](https://platzi.com/comentario/175906/) 
 
-	
 	Aui hice un ejemplo donde se muestran los distintos tipos de timing-function :d para que vean las diferencias de cada uno
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -9773,56 +8627,47 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	    
 	```
 
-	* **Diego Gutiérrez** (5)
+	* **Diego Gutiérrez** [175906] (5)
 
-		
 		¡Excelente! Me sirvió mucho verlo graficamente, ¡Gracias! Por alguna razón al solo copiar y pegar no funciona porque se pierden algunos espacios. Lo subí a mi dropbox por si a alguien le sirve:  
 		[clic aquí](https://www.dropbox.com/s/m3ppgjmcf2h8xs6/timings.html?dl=0)
 
-* **Andrés Campuzano Garzón** (10)
+* **Andrés Campuzano Garzón** (10) [851293](https://platzi.com/comentario/851293/) 
 
-	
 	Les dejo el primer “arte” que hago con CSS y HTML para practicar lo aprendido en la clase ⭐🌟. Espero les guste y recibo sugerencias para mejorar. ![traffic-light.JPG](https://static.platzi.com/media/user_upload/traffic-light-953ba4ea-d9cf-4435-a9c4-10effc00ada4.jpg)  
 	<https://andrescampuzano.github.io/traffic-light/>  
 	<https://codepen.io/andres-campuzano-garzon/pen/MWYwjBO>
 
-* **Yomar Esteban Miranda Sarmiento** (9)
+* **Yomar Esteban Miranda Sarmiento** (9) [209189](https://platzi.com/comentario/209189/) 
 
-	
 	Aquí les dejo en Links para que realicen sus propias pruebas:  
 	<http://cubic-bezier.com/#.17,.67,.83,.67>
 
-* **davidbr** (6)
+* **davidbr** (6) [496827](https://platzi.com/comentario/496827/) 
 
-	
 	Sugerencia al team platzi: Me gustaria poder guardar algunos comentarios (Aportes) como favoritos ya que son muy valiosos algunos aportes que los estudiantes hacen valdria la pena guardar.
 
-	* **Hdas** (1)
+	* **Hdas** [496827] (1)
 
-		
 		Es verdad vengo pensando lo mismo desde hace un curso atrás
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [496827] (1)
 
-		
 		Muy buen aporte
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [496827] (1)
 
-		
 		Opino lo mismo.
 
-* **pablojorgeandres** (6)
+* **pablojorgeandres** (6) [495091](https://platzi.com/comentario/495091/) 
 
-	
 	## [Aceleración y curva de bezier](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase12)
 	
 	Para hacer animaciones debemos tener en cuenta el factor de la aceleración.  
 	El parámetro que nos permite hacer esto es [`animation-timing-function`](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function).
 	
 	`animation-timing-function` presenta varias opciones para modificar el tipo de aceleración que podemos darle a nuesto objeto.
-	``` 
-	    /* valores predefinidos - keywords */
+	```     /* valores predefinidos - keywords */
 	        animation-timing-function: ease;
 	        animation-timing-function: ease-in;
 	        animation-timing-function: ease-out;
@@ -9858,16 +8703,14 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	Las funciones nos permiten personalizar el tipo de aceleración más allá de las posibilidades de los keywords.
 	
 	La función [`cubic-bezier()`](https://developer.mozilla.org/en-US/docs/Web/CSS/timing-function) nos permite generar nuestra propia curva de movimiento a partir de 4 parámetros entre 0 y 1 positivo o negativos para generar ‘rebotes’.
-	``` 
-	      cubic-bezier(x1, y1, x2, y2)
+	```       cubic-bezier(x1, y1, x2, y2)
 	    
 	```
 	
 	Una herramienta gráfica para modificar los valores de la curva [aquí](http://cubic-bezier.com).
 	
 	La función [`steps()`](https://developer.mozilla.org/en-US/docs/Web/CSS/timing-function) funciona con 2 parámetros, un número entero para la cantidad de ‘pasos’ y un keyword que indica si la función es continua hacia izquierda o derecha.
-	``` 
-	      steps( n, <direction> )
+	```       steps( n, <direction> )
 	    
 	```
 	
@@ -9878,92 +8721,75 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	  * end - se queda en su lugar hasta el siguiente step en el que se mueve y repite el movimiento.
 	  * none
 	  * both
-	
-	
 
-	* **davidbr** (2)
+	* **davidbr** [495091] (2)
 
-		
 		Excelente aporte!
 
-	* **Hdas** (2)
+	* **Hdas** [495091] (2)
 
-		
 		Excelente aporte
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [495091] (1)
 
-		
 		Me alegra que les sea útil.  
 		[Aquí](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md) está el resumen completo.  
 		Saludos.
 
-* **johnBeto20** (6)
+* **johnBeto20** (6) [298152](https://platzi.com/comentario/298152/) 
 
-	
 	por el inspector de chrome también se puede controlar el cubic-bezier() 😉
 
-	* **Cristian Orozco Benjumea** (3)
+	* **Cristian Orozco Benjumea** [298152] (3)
 
-		
 		Que bien no lo sabía. 👍  
 		Para verlo accedemos a la pestaña `div.cuadrado` y nos ubicamos en el ícono de `cubic-bezier` para editarlo
 
-	* **Hdas** (1)
+	* **Hdas** [298152] (1)
 
-		
 		Muchas gracias
 
-	* **Aaron Felipe Isaacs** (1)
+	* **Aaron Felipe Isaacs** [298152] (1)
 
-		
 		Excelente! Se puede modificar el cubic bezier y además ver el cambio que tiene directamente en el componente!
 
-* **dariofedes** (4)
+* **dariofedes** (4) [782930](https://platzi.com/comentario/782930/) 
 
-	
 	No sé si ya conocíais esta página, pero por si a caso os la dejo, me resultó muy útil para entender y recordar algunas cosas de forma rápida.  
 	En este post hablan de la notación abreviada de animation. Muy buena, yo ya la tengo en marcadores.
 	
 	<https://alligator.io/css/animation-shorthand/>
 
-* **ordep96** (4)
+* **ordep96** (4) [266542](https://platzi.com/comentario/266542/) 
 
-	
 	Hice el péndulo de Newton practicando lo aprendido, espero que les guste
 	
 	[https://codepen.io/ordep96/pen/WMPVOw](url)
 
-	* **Alex Rodríguez P** (1)
+	* **Alex Rodríguez P** [266542] (1)
 
-		
 		buenisimo!
 
-	* **Bryan Estiven Silva Mercado** (2)
+	* **Bryan Estiven Silva Mercado** [266542] (2)
 
-		
 		404
 
-	* **Hdas** (1)
+	* **Hdas** [266542] (1)
 
-		
 		link roto
 
-* **DanielVM19** (3)
+* **DanielVM19** (3) [947013](https://platzi.com/comentario/947013/) 
 
-	
 	Les recomiendo que usen el inspector de google chrome, en lo personal me gusto bastante esta alternativa ![](![Screen Shot 2020-01-25 at 19.59.17.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-25%20at%2019.59.17-bcd40033-1796-4e4b-a846-50bf963ac1dd.jpg)
 
-* **Juan Carlos García Esquivel** (3)
+* **Juan Carlos García Esquivel** (3) [867965](https://platzi.com/comentario/867965/) 
 
-	
 	Les comparto un ejemplo comparando los valores de la propiedad timing-function 😁  
 	[Demo](https://codepen.io/jcmexdev/pen/LYEbeXG)  
 	![Picture.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-12-16%20a%20la%28s%29%2019.31.57-8fc2392f-3a5c-40b4-a951-bd3ec6d10d44.jpg)
 
-* **Alejo Fonseca** (3)
+* **Alejo Fonseca** (3) [645554](https://platzi.com/comentario/645554/) 
 
-	
 	La propiedad CSS animation-timing-function especifica cómo una animación CSS debe avanzar sobre la duración de cada ciclo.  
 	Valores de **animation-timing-function:**  
 	**ease:** Es el suavizado que viene por defecto  
@@ -9975,28 +8801,23 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	**cubic-bezier:** Esta función define una curva Bezier cúbica.  
 	Una curva Bezier cúbica se define por cuatro puntos P0, P1, P2 y P3. P0 y P3 son el inicio y el final de la curva y, en CSS, estos puntos se fijan ya que las coordenadas son relaciones. P0 es (0, 0) y representa el tiempo inicial y el estado inicial, P3 es (1, 1) y representa el tiempo final y el estado final.
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (3)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [645554] (3)
 
-		
 		Qué buen resumen! Gracias!
 
-* **carlos_sanchez** (3)
+* **carlos_sanchez** (3) [386003](https://platzi.com/comentario/386003/) 
 
-	
 	Complejo lo de la curva de bezier! Aunque muy interesante, se pueden lograr cosas geniales.
 
-	* **Hdas** (1)
+	* **Hdas** [386003] (1)
 
-		
 		Practicarla para llegar a la perfección
 
-* **MauricioHernanCabrera** (3)
+* **MauricioHernanCabrera** (3) [212413](https://platzi.com/comentario/212413/) 
 
-	
 	hice un pendulo utilizando lo aprendido, que les parece?  
 	<https://hernanmc10.github.io/pendulo-en-css/>
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	    	<metacharset="UTF-8">
@@ -10084,89 +8905,73 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	    
 	```
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [212413] (1)
 
-		
 		Te quedó muy bien, felicitaciones
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [212413] (0)
 
-		
 		Gracias a ti, te quedo muy bueno el video y el curso en general
 
-	* **Alexis** (0)
+	* **Alexis** [212413] (0)
 
-		
 		muy bueno!
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [212413] (0)
 
-		
 		<https://hernancabrera.github.io/pendulo-en-css/>
 
-	* **Bryan Estiven Silva Mercado** (1)
+	* **Bryan Estiven Silva Mercado** [212413] (1)
 
-		
 		404
 
-* **PabloGM** (2)
+* **PabloGM** (2) [829464](https://platzi.com/comentario/829464/) 
 
-	
 	¡Link Directo a Cubic-bezier 😎😎😎😎!  
 	Increible.  
 	[Cubic-Bezier 😎](https://cubic-bezier.com/#.17,.67,.73,.91)
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [820267](https://platzi.com/comentario/820267/) 
 
-	
 	Interesante página.
 
-* **lmoran** (2)
+* **lmoran** (2) [790024](https://platzi.com/comentario/790024/) 
 
-	
 	En el siguiente enlace pueden reforzar con respecto a las animaciones:
 	
 	[Enlace](https://www.w3schools.com/css/css3_animations.asp)
 
-* **José Pablo Machuca González** (2)
+* **José Pablo Machuca González** (2) [705034](https://platzi.com/comentario/705034/) 
 
-	
 	¿Cual es el valor por defecto de animation-timing-function?  
 	Es Ease; ¿cierto?
 
-	* **Alvaro Garracini** (2)
+	* **Alvaro Garracini** [705034] (2)
 
-		
 		Exacto, el valor por defecto es **ease**
 
-	* **lmoran** (2)
+	* **lmoran** [705034] (2)
 
-		
 		Es correcto el valor por defecto es Ease.
 
-	* **José Pablo Machuca González** (1)
+	* **José Pablo Machuca González** [705034] (1)
 
-		
 		@lmoran gracias por tu tiempo pero hace meses que terminé este curso.
 
-	* **José Pablo Machuca González** (2)
+	* **José Pablo Machuca González** [705034] (2)
 
-		
 		Y gracias también a @alvaro-garracini por su tiempo.
 
-* **conejo22** (2)
+* **conejo22** (2) [684079](https://platzi.com/comentario/684079/) 
 
-	
 	Debería de haber una manera de darle ❤️ a esta clase . Y si la hay diganmela por fa .-.
 
-	* **José Pablo Machuca González** (1)
+	* **José Pablo Machuca González** [684079] (1)
 
-		
 		Le puedes dar a la Estrella junto al botón de ver la clase anterior.
 
-* **Cristian Florez** (2)
+* **Cristian Florez** (2) [562819](https://platzi.com/comentario/562819/) 
 
-	
 	la curva de bezier utiliza los siguientes parametros:  
 	los primeros dos son las cordenadas del punto que va a hacer fuerza a el punto inicial  
 	y los siguientes dos son las cordenadas del punto que hace fuerza al punto final.  
@@ -10179,104 +8984,85 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	ease-out(0,0,58,1)  
 	ease-in-out==(42,0,58,1)
 
-* **Ian Mande** (2)
+* **Ian Mande** (2) [559033](https://platzi.com/comentario/559033/) 
 
-	
 	Leonidas te ves diferentes sin lentes XD
 
-* **Christian Navarro Urra** (2)
+* **Christian Navarro Urra** (2) [427734](https://platzi.com/comentario/427734/) 
 
-	
 	Es genial la sensación que tienes al ver un animación con
-	``` 
-	    animation-timing-function: steps(60);
+	```     animation-timing-function: steps(60);
 	    
 	```
 	
 	Se siente como si fuera aún más rápido
 
-	* **Hdas** (1)
+	* **Hdas** [427734] (1)
 
-		
 		los 60fps son perfectos para la vista humana
 
-* **David Farinango** (2)
+* **David Farinango** (2) [406659](https://platzi.com/comentario/406659/) 
 
-	
 	Soy fan del profe x1000
 
-* **camilo rincon** (2)
+* **camilo rincon** (2) [404260](https://platzi.com/comentario/404260/) 
 
-	
 	Excelente Curso Leonidas, Gracias.
 
-	* **Hdas** (1)
+	* **Hdas** [404260] (1)
 
-		
 		Muy buen profesor y un excelente curso
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [404260] (1)
 
-		
 		Tienes razon Hdas
 
-* **Enyelber Altube** (2)
+* **Enyelber Altube** (2) [362619](https://platzi.com/comentario/362619/) 
 
-	
 	 **Genial** Me gusta esta clase
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [362619] (1)
 
-		
 		A mi tambien como todas las demas 😃
 
-* **José Rubial** (2)
+* **José Rubial** (2) [305132](https://platzi.com/comentario/305132/) 
 
-	
 	estoy tratando de hacer un efecto de que un texto se caiga desde una esquina y luego hacia abajo, pero en vez de quedar rotado y luego caer, se endereza y después cae, que podría hacer para lograr el efecto? <https://codepen.io/franjorub/pen/GdVMgv>
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [305132] (1)
 
-		
 		Lo que quieres es volverlo a dejar horizontal y que caiga?
 
-	* **José Rubial** (1)
+	* **José Rubial** [305132] (1)
 
-		
 		No, lo que quería era que se inclinara y cayera inclinado, pero ya lo pude resolver, era que usaba un transform de grados en 0% y el de translate en 100% y revise que hacer eso pisa por efecto cascada el valor de transform, para usar dos transform simultaneos en la animacion hay que usar ambas propiedades en un sola declaración transform: translate() rotate(); tanto al principio como al final
 
-* **Gabriel Palma** (2)
+* **Gabriel Palma** (2) [193135](https://platzi.com/comentario/193135/) 
 
-	
 	Q linda voz Leonidas
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [193135] (1)
 
-		
 		😳
 
-	* **Jcion** (1)
+	* **Jcion** [193135] (1)
 😂 😂 😂 😂
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [193135] (1)
 
-		
 		JAJAJAJA
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1043097](https://platzi.com/comentario/1043097/) 
 
-	
 	La propiedad animation-timing-function, recibe el valor de cubic-bezier, la cual es la curva de animación de un elemento, esta curva es la que nos ayudara a controlar y personalizar aun más las animaciones de un elemento en CSS, ya que podremos manipular las velocidades y posiciones del elemento que está siendo animado.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1029655](https://platzi.com/comentario/1029655/) 
 
-	
 	[www.cubic-bezier.com](http://www.cubic-bezier.com)
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1029655] (1)
 
-		```
-		    <style>
+		```    <style>
 		        /* Voy a darle unas propiedades basicas al cuadrado*/
 		        body {
 		            display: flex;
@@ -10374,9 +9160,8 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 		    </style>
 		```
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984499](https://platzi.com/comentario/984499/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -10451,39 +9236,32 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984497](https://platzi.com/comentario/984497/) 
 
-	
 	En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los elementos web por medio de animation-timing-function: ease
 
-* **paconity** (1)
+* **paconity** (1) [974370](https://platzi.com/comentario/974370/) 
 
-	
 	animation-timing-function: linear; es la aceleración del logo del DVD
 
-* **PabloGM** (1)
+* **PabloGM** (1) [829487](https://platzi.com/comentario/829487/) 
 
-	
 	Está Excelente Me Pareció muy útil Este Link, Con Esto haré un descansador de pantalla jajaja 😂😂😂
 
-* **Esau Rosales** (1)
+* **Esau Rosales** (1) [654242](https://platzi.com/comentario/654242/) 
 
-	
 	[cubic-bezier.com](https://cubic-bezier.com/#.17,.67,.83,.67)
 
-* **Moises10** (1)
+* **Moises10** (1) [628950](https://platzi.com/comentario/628950/) 
 
-	
 	Muy interesantes esta propiedad de aceleración y curva bezier .
 
-* **diego salazar** (1)
+* **diego salazar** (1) [626925](https://platzi.com/comentario/626925/) 
 
-	
 	uffff que clase. Me gusto mucho!
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [620430](https://platzi.com/comentario/620430/) 
 
-	
 	 **animation-timing-function:**
 	
 	**ease:** Es la configuración por defecto.
@@ -10500,114 +9278,93 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	
 	Una manera mas manual de configurar la aceleración de nuestra animación es a través de la curva de bezier, la cual se establece con la propiedad **animation-timing-function: cubic-bezier([valor], [valor], [valor], [valor])** , cada valor puede estar entre -1 y 1 (con números decimales incluyendo).
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597275](https://platzi.com/comentario/597275/) 
 
-	
 	Increíble
 
-* **RamonDiegoA** (1)
+* **RamonDiegoA** (1) [539670](https://platzi.com/comentario/539670/) 
 
-	
 	buenas, consulta porque las animaciones no andan en dispositivos móviles con android por ejemplo, que es lo recomendable?
 
-	* **Pablo Sozko** (1)
+	* **Pablo Sozko** [539670] (1)
 
-		
 		no entiendo por que dices que no andan? acabo de probarlo en mi movil android y funciono al 100%
 
-	* **RamonDiegoA** (1)
+	* **RamonDiegoA** [539670] (1)
 
-		
 		si en realidad me corrijo andan , en algunos casos me paso en un sitio con perspective q no, pero debe ser por el rendimiento del navegador en el móvil, pero en un sitio porque despues en animaciones simples también me andan de lujo las propiedades,
 
-* **RamonDiegoA** (1)
+* **RamonDiegoA** (1) [539461](https://platzi.com/comentario/539461/) 
 
-	
 	gente! nueva consulta, donde le encuentro a leonidas jajaj, bueno la consulta es porque las animaciones no funcionan en dispositivos móviles, ?? que se recomienda para android?
 
-* **Vittorio Carlos Toledo Huarez** (1)
+* **Vittorio Carlos Toledo Huarez** (1) [536694](https://platzi.com/comentario/536694/) 
 
-	
 	El Sr. Disco
 
-* **roguesquid** (1)
+* **roguesquid** (1) [528017](https://platzi.com/comentario/528017/) 
 
-	
 	Amo esta clase.
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [509889](https://platzi.com/comentario/509889/) 
 
-	
 	Una de mis clases favoritas del curso!
 
-	* **Hdas** (1)
+	* **Hdas** [509889] (1)
 
-		
 		Muy buena clase
 
-* **davidbr** (1)
+* **davidbr** (1) [496840](https://platzi.com/comentario/496840/) 
 
-	
 	Link para practicar con la Curva de Bezier [](http://cubic-bezier.com/#.17,.67,.83,.67)
 
-	* **davidbr** (1)
+	* **davidbr** [496840] (1)
 
-		
 		[Link](http://cubic-bezier.com/#.17,.67,.83,.67)
 
-	* **Hdas** (1)
+	* **Hdas** [496840] (1)
 
-		
 		Tremendo aporte muchas gracias
 
-* **Juan Vicente Cordero** (1)
+* **Juan Vicente Cordero** (1) [493345](https://platzi.com/comentario/493345/) 
 
-	
 	Fantastica clase.
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [421056](https://platzi.com/comentario/421056/) 
 
-	
 	Ese disco no es de la torre de hanoi?  
 	![](https://panamericana.vteximg.com.br/arquivos/ids/185417-650-650/juego-torre-de-hanoi-1-799489304814.jpg?v=636245080800530000)
 
-	* **Hdas** (1)
+	* **Hdas** [421056] (1)
 
-		
 		Pareciera
 
-* **Yefferson Guarnizo** (1)
+* **Yefferson Guarnizo** (1) [296796](https://platzi.com/comentario/296796/) 
 
-	
 	demasiado cool el cubo bezier 😮
 
-* **Victor Manuel Lorenzo Lorenzo** (1)
+* **Victor Manuel Lorenzo Lorenzo** (1) [210021](https://platzi.com/comentario/210021/) 
 
-	
 	Una consulta, cómo sería para tener la misma aceleracion a la vuelta que a la ida…
 	
 	Por ejemplo que sea ease a la ida y a la vuelta.
 	
 	Osea, sale rapido de la izquierda y llega lento a la derecha, Y cuando va de derecha a izquierda sale rapido de la derecha y llega lento a la izquierda. ¿A alguien se le ocurre?
 
-	* **Alejandro Bracho** (0)
+	* **Alejandro Bracho** [210021] (0)
 
-		
 		Buenas amigo victorlorenzow3 para obtener eso que tu dices, debes usar el animation-timing-function: ease-in-out; ya que te da el mismo movimiento en la salida y en la llegada de la animación.
 
-	* **Hdas** (1)
+	* **Hdas** [210021] (1)
 
-		
 		Buen aporte
 
-* **Victor Zapata** (0)
+* **Victor Zapata** (0) [298688](https://platzi.com/comentario/298688/) 
 
-	
 	Excelente material todas las opciones que tenemos para trabajar son geniales, y la explicación aun mas
 
-* **Alexis** (0)
+* **Alexis** (0) [212819](https://platzi.com/comentario/212819/) 
 
-	
 	Hola, a alguien que le pase que al descargar el código fuente la pelota igual se salga de los márgenes al rebotar? (está cn la propiedad calc)  
 	He probado en firefox y chrome y me pasa igual
 	
@@ -10615,7 +9372,7 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 	
 	pd: Muy buena esta parte del curso
 
-## 0130. Múltiples animaciones
+## 0130. Múltiples animaciones [6832](https://platzi.com/clases/1103-animaciones-web/6832-multiples-animaciones/)
 
 ### Descripción:
 
@@ -10623,50 +9380,40 @@ En este vídeo vamos a aprender a dar aceleración y movimientos curvos a los el
 En este vídeo vamos a aprender a hacer **múltiples animaciones** y cómo trabajar en cada una para realizar movimientos más complejos en los elementos.
 
 Para nombrar más de una animación podemos nombrarlas en la misma línea de código:
-``` 
-    	animation-name: nombre1, nombre2;
+```     	animation-name: nombre1, nombre2;
     
 ```
 
 ### Comentarios:
 
-* **Kevin Javier Morales (Platzi)** (24)
+* **Kevin Javier Morales (Platzi)** (24) [196445](https://platzi.com/comentario/196445/) 
 
-	
 	Shortcus en keyframes:
 	
 	  * `from` = 0%
 	  * `to` = 100%
-	
-	
 
-	* **Hdas** (1)
+	* **Hdas** [196445] (1)
 
-		
 		Buen dato
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [196445] (1)
 
-		
 		gracias
 
-* **Andrew321q** (10)
+* **Andrew321q** (10) [594516](https://platzi.com/comentario/594516/) 
 
-	
 	He hecho este efecto, la prueba pura de que css y johannes keppler se llevan muy bien, espero les guste  
 	![](https://media.giphy.com/media/ZatJFM6dw59gwpjzWz/source.gif)
 
-	* **diego salazar** (3)
+	* **diego salazar** [594516] (3)
 
-		
 		comparte el codigo. 😃
 
-* **Juan Jacobo Vargas Londoño** (9)
+* **Juan Jacobo Vargas Londoño** (9) [273395](https://platzi.com/comentario/273395/) 
 
-	
 	Un pequeño resumen de lo que hasta el momento hemos visto _(copiar y pegar en un archivo HTML)_ :
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html>
 	      <head>
 	        <metacharset="utf-8">
@@ -10920,64 +9667,52 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    
 	```
 
-* **Erick Neftalí Sarmiento Cortes** (8)
+* **Erick Neftalí Sarmiento Cortes** (8) [182487](https://platzi.com/comentario/182487/) 
 
-	
 	Genial seguro lo usare de inmediato
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [182487] (4)
 
-		
 		Por supuesto, el del día a día encadenar animaciones
 
-* **Jonatan Ruben Sosa Caycay** (6)
+* **Jonatan Ruben Sosa Caycay** (6) [280573](https://platzi.com/comentario/280573/) 
 
-	
 	Anidar animaciones, un sueño, excelente curso.
 
-	* **Hdas** (1)
+	* **Hdas** [280573] (1)
 
-		
 		Excelente curso
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [280573] (1)
 
-		
 		El Mejor
 
-* **Cristian Orozco Benjumea** (5)
+* **Cristian Orozco Benjumea** (5) [476583](https://platzi.com/comentario/476583/) 
 
-	
 	Recuerdo a mi hijo aprendiendo este tipo de animaciones en un curso de **KhanAcademy** dictado por Pixar
 
-* **samvarcia** (4)
+* **samvarcia** (4) [279120](https://platzi.com/comentario/279120/) 
 
-	
 	Las animaciones son geniales!
 
-	* **Nicolas Esteban Prieto Sarmiento** (1)
+	* **Nicolas Esteban Prieto Sarmiento** [279120] (1)
 
-		
 		Es cierto
 
-* **Alejandro Bracho** (4)
+* **Alejandro Bracho** (4) [275954](https://platzi.com/comentario/275954/) 
 
-	
 	jajajaja wow, cada vez más y más enamorado de la carrera frontend y de todas sus posibilidades, deverdad Leonidas eres lo máximo 😃
 
-	* **Leonidas Esteban Gonzalez** (6)
+	* **Leonidas Esteban Gonzalez** [275954] (6)
 
-		
 		Muchas gracias, este es mi curso favorito.
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [275954] (1)
 
-		
 		Nuestro Curso Favorito!
 
-* **David Behar** (3)
+* **David Behar** (3) [1092104](https://platzi.com/comentario/1092104/) 
 
-	
 	## 12 principios animación de disney
 	
 	Creo que es un buen momento para hablar de los 12 principios de la animación definidos por Disney:
@@ -11060,85 +9795,70 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	
 	![](https://66.media.tumblr.com/5d4cb8e2abb700da4ba4108bb9dcbbbd/tumblr_n4robdL86D1tx30c0o1_500.gifv)
 
-* **Sneyder Alfonso Barreto Buitrago** (3)
+* **Sneyder Alfonso Barreto Buitrago** (3) [917998](https://platzi.com/comentario/917998/) 
 
-	
 	Con la propiedad **animation** , podemos definir todas las propiedades en una sola línea:
-	``` 
-	    animation: name duration timing-function delay iteration-count direction fill-mode play-state;
+	```     animation: name duration timing-function delay iteration-count direction fill-mode play-state;
 	    
 	```
 	
 	Con el ejemplo:
-	``` 
-	    animation: cuadrado 3s linear infinite alternate;
+	```     animation: cuadrado 3s linear infinite alternate;
 	    
 	```
 	
 	Múltiples animaciones:
-	``` 
-	    animation: cuadrado 3s linear infinite alternate, rebote .3s ease-in-out infinite alternate;
+	```     animation: cuadrado 3s linear infinite alternate, rebote .3s ease-in-out infinite alternate;
 	    
 	```
 	
 	El orden en el que se ponen las propiedades en realidad no importa, lo que sí importa es al definir la **duration** y el **delay**. El primer valor pasado será tomado como la duration y el segundo como el delay.
 
-* **leotangram** (3)
+* **leotangram** (3) [460492](https://platzi.com/comentario/460492/) 
 
-	
 	Ver el efecto que la pelota se contrae y se expande ha sido lo mejor de este curso! realmente se siente que rebota!  
 	transform: translateY(0) scale(1, .8);
 
-	* **Hdas** (1)
+	* **Hdas** [460492] (1)
 
-		
 		muy buen ejemplo
 
-* **antoniogongora** (3)
+* **antoniogongora** (3) [347082](https://platzi.com/comentario/347082/) 
 
-	
 	excelente curso, se abre una oportunidad enorme para realizar mejores diseños web…
 
-* **Henry Alejandro  Palacios Lemus** (3)
+* **Henry Alejandro  Palacios Lemus** (3) [275687](https://platzi.com/comentario/275687/) 
 
-	
 	No se si lo dijo Leonidas pero no lo recuerdo
 	
 	¿Que son los keyframes?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (10)
+	* **Diego Alexander Forero Higuera (Platzi)** [275687] (10)
 
-		
 		Las animaciones funcionan bajo el mismo concepto de un video, los videos son simplemente una cantidad inmensa de fotos una detras de la otra (una en cada frame) que se van mostrando de manera secuencial dando el efecto de movimiento del video. Este mismo concepto aplica a las animaciones un KeyFrame o fotograma clave son puntos donde defines donde va a estar tu elemento en ese momento y luego el se encarga de calcular la posición del objeto para ir completando la información y mostrar la animación.
 
-* **marcos-kevin-gavela** (2)
+* **marcos-kevin-gavela** (2) [689396](https://platzi.com/comentario/689396/) 
 
-	
 	Min 6:45, la miro y … Jaja. A todo esto las animaciones parecen mágia pura!
 
-* **Enrique Felix Garcia Stave** (2)
+* **Enrique Felix Garcia Stave** (2) [620504](https://platzi.com/comentario/620504/) 
 
-	
 	 **Anotaciones**
 	
 	Se puede lograr aplicar mas de una animación a un elemento usando la (,) para ello, empezando por la propiedad animation-name:; y aplicando a las distintas propiedades para lograr una animación más dinámica deseada.
 
-	* **DavidArmandoVelazquez** (1)
+	* **DavidArmandoVelazquez** [620504] (1)
 
-		
 		cool!
 
-* **colotux** (2)
+* **colotux** (2) [605628](https://platzi.com/comentario/605628/) 
 
-	
 	Este curso es magia pura🔥🔥
 
-* **Nicolas Esteban Prieto Sarmiento** (2)
+* **Nicolas Esteban Prieto Sarmiento** (2) [424458](https://platzi.com/comentario/424458/) 
 
-	
 	Nose que pasa pero se ejecuta solo una
-	``` 
-	    .box4
+	```     .box4
 	    {
 	      width: 200px;
 	      height: 200px;
@@ -11183,12 +9903,10 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    
 	```
 
-	* **oteka21** (5)
+	* **oteka21** [424458] (5)
 
-		
 		Bueno, básicamente lo que sucede es que la propiedad transform solo puede usarse una sola vez en un elemento lo que quiere decir que si la utilizas dos veces como por ejemplo:
-		``` 
-		    .caja{
+		```     .caja{
 		    transform: translateY(0);//<--esta sera remplazada 
 		    transform: translateX(100);//<--- por esta
 		    }
@@ -11201,26 +9919,22 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 		
 		Espero que te sirva de mucho mi aporte
 
-	* **Nicolas Esteban Prieto Sarmiento** (1)
+	* **Nicolas Esteban Prieto Sarmiento** [424458] (1)
 
-		
 		Muchísimas gracias
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [424458] (1)
 
-		
 		Si no funciona xq se sobre escriben mostrándote el efecto de la ultima declarada en tu caso seria el translateX.  
 		Espero haber podido ayudar.
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1043115](https://platzi.com/comentario/1043115/) 
 
-	
 	En Css podemos agregar más de una animación a un solo elemento al mismo tiempo, para esto solo deberemos separar con una coma los nombres de las animaciones que tendrá el elemento, ahora lo realmente importante es, que al momento de hacer esto, todas las propiedades de las animaciones dentro del elemento, tendremos que especificar los valores de cada animación separados también por una coma, si no hacemos esto, las animaciones que tenga el elemento tendrán el mismo valor.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1029761](https://platzi.com/comentario/1029761/) 
 
-	```
-	    <style>
+	```    <style>
 	        /* Voy a darle unas propiedades basicas al cuadrado*/
 	        body {
 	            display: flex;
@@ -11326,16 +10040,14 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    </style>
 	```
 
-* **Rodrigo Cuenca Mayuri** (1)
+* **Rodrigo Cuenca Mayuri** (1) [1009447](https://platzi.com/comentario/1009447/) 
 
-	
 	Hola, aquí comparto todo lo apredido hasta esta clase por si alguien quiere verlo.
 	
 	<https://rcuencam.github.io/Animaciones/>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984508](https://platzi.com/comentario/984508/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“en”>  
 	<head>  
@@ -11421,64 +10133,52 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	</body>  
 	</html>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984502](https://platzi.com/comentario/984502/) 
 
-	
 	Para nombrar más de una animación podemos nombrarlas en la misma línea de código:
-	``` 
-	    animation-name: nombre1, nombre2;
+	```     animation-name: nombre1, nombre2;
 	```
 
-* **Pedro Puerta** (1)
+* **Pedro Puerta** (1) [853803](https://platzi.com/comentario/853803/) 
 
-	
 	Super esta clase
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [838598](https://platzi.com/comentario/838598/) 
 
-	
 	Va quedando super!
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [821094](https://platzi.com/comentario/821094/) 
 
-	
 	Interesante clase.
 
-* **Israel Urbina** (1)
+* **Israel Urbina** (1) [808370](https://platzi.com/comentario/808370/) 
 
-	
 	wow siempre me habían facinado las animaciones de la web y nunca me había dado el tiempo de aprenderlas, ahora que lo estoy aprendiendo me parecen fascinantes como muchas cosas que no persibia pasaban detrás de código.
 
-* **33andres33** (1)
+* **33andres33** (1) [807544](https://platzi.com/comentario/807544/) 
 
-	
 	muy buena clase, con esto me llegan un sin fin de animaciones cool
 
-* **lmoran** (1)
+* **lmoran** (1) [790088](https://platzi.com/comentario/790088/) 
 
-	
 	Excelente vamos aprendiendo más,
 
-* **Juan Torrealba** (1)
+* **Juan Torrealba** (1) [757308](https://platzi.com/comentario/757308/) 
 
-	
 	Fantastico!
 
-* **Alejo Fonseca** (1)
+* **Alejo Fonseca** (1) [645933](https://platzi.com/comentario/645933/) 
 
-	
 	 **Increíble!**
 
-* **Moises10** (1)
+* **Moises10** (1) [629036](https://platzi.com/comentario/629036/) 
 
-	
 	Mejor que da haciendo que rebote dentro del cuadro respetando los margenes .  
 	¡Saludos!
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597333](https://platzi.com/comentario/597333/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -11565,24 +10265,18 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    
 	```
 
-* **jesus-gallardo** (1)
+* **jesus-gallardo** (1) [585079](https://platzi.com/comentario/585079/) 
 
-	
 	Shortcuts para keyframes:
 	
 	  * from = 0%
 	
 	  * to = 100%
-	
-	
-	
 
-* **cris-medina** (1)
+* **cris-medina** (1) [559580](https://platzi.com/comentario/559580/) 
 
-	
 	En mí código estoy encestando el balón en una caja
-	``` 
-	    <style>
+	```     <style>
 	            body{
 	                height: 100vh;
 	                margin: 0;
@@ -11658,10 +10352,9 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    
 	```
 
-* **Miguel Angel Jardinez Ramos** (1)
+* **Miguel Angel Jardinez Ramos** (1) [514387](https://platzi.com/comentario/514387/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -11684,8 +10377,7 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    
 	    
 	```
-	``` 
-	    body{
+	```     body{
 	    	background: #555;
 	    }
 	    
@@ -11789,94 +10481,79 @@ Para nombrar más de una animación podemos nombrarlas en la misma línea de có
 	    
 	```
 
-	* **Hdas** (2)
+	* **Hdas** [514387] (2)
 
-		
 		Tremenda animación que buen aporte
 
-* **kokotzin** (1)
+* **kokotzin** (1) [510458](https://platzi.com/comentario/510458/) 
 
-	
 	waooo es impresionante.
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [494690](https://platzi.com/comentario/494690/) 
 
-	
 	## [Animaciones Múltiples](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase13)
 	
 	Para generar una múltiple animación a un mismo objeto tengo que configurar otro `@keyframes`.  
 	Para esto, tengo primero que generar otro `animation-name`, lo que hago agregando una ‘,’ al `action-name` ya declarado:
-	``` 
-	    animation-name: cuadrado, otraAnimacion;
+	```     animation-name: cuadrado, otraAnimacion;
 	    
 	```
 	
 	Esto nos permite generar otro `@keyframes` con una nueva animación.
-	``` 
-	    @keyframes otraAnimacion { }
+	```     @keyframes otraAnimacion { }
 	    
 	```
 	
 	Todas las propiedades de animación ya declaradas se pasan automáticamente a este segundo `@keyframes`. Si quiero propiedades diferentes las agrego luego de una ‘,’ a las propiedades ya declaradas.
 	
 	Ej:
-	``` 
-	      animation-timing-function: linear, ease-out;
+	```       animation-timing-function: linear, ease-out;
 	      animation-duration: 3s, 300ms;
 	```
 
-* **Jorge Wenner Arévalo Alvis** (1)
+* **Jorge Wenner Arévalo Alvis** (1) [437465](https://platzi.com/comentario/437465/) 
 
-	
 	muy bueno 😃
 
-* **alejandroszg** (1)
+* **alejandroszg** (1) [429738](https://platzi.com/comentario/429738/) 
 
-	
 	Esta es mi clase favorita del curso
 
-* **JuanDAC** (1)
+* **JuanDAC** (1) [426422](https://platzi.com/comentario/426422/) 
 
-	
 	Wow eso no lo sabia, ¡Gracias ❤️!
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [406599](https://platzi.com/comentario/406599/) 
 
-	
 	Anidar animaciones de un circulo es facil pero que tan dificil será en imagenes o en juegos?
 
-* **Aufsten** (1)
+* **Aufsten** (1) [365589](https://platzi.com/comentario/365589/) 
 
-	
 	Esto puede aplicarse para paginas web poseen características realistas o de videojuegos. Fenomenal!
 
-* **José Rubial** (1)
+* **José Rubial** (1) [305138](https://platzi.com/comentario/305138/) 
 
-	
 	animacion anidada <https://codepen.io/franjorub/pen/GdVMgv>
 
-* **PabloGM** (1)
+* **PabloGM** (1) [73247](https://platzi.com/comentario/831065/) 
 El Container estaba De un tamaño muy pequeño alguien sabe como puedo escribir dentro del container.
 
-* **PabloGM** (1)
+* **PabloGM** (1) [73246](https://platzi.com/comentario/831064/) 
 Tengo Una Duda Yo Quería Escribir De Dentro Del Container, Más Sin embargo lo único que ocurrió fue una locura 😮 El Container estaba de u...
 
-	* **BrysonFlorez** (1)
+	* **BrysonFlorez** [73246] (1)
 
-		
 		Pasa tu código para probar que es lo que está pasando y darte una ayuda.
 		
 		Saludos
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [45820](https://platzi.com/comentario/424458/) 
 Nose que pasa pero se ejecuta solo una .box4 { width: 200px; height: 200px; font-size: 40px; background-color: black; co...
 
-	* **oteka21** (5)
+	* **oteka21** [45820] (5)
 
-		
 		Bueno, básicamente lo que sucede es que la propiedad transform solo puede usarse una sola vez en un elemento lo que quiere decir que si la utilizas dos veces como por ejemplo:
-		``` 
-		    .caja{
+		```     .caja{
 		    transform: translateY(0);//<--esta sera remplazada 
 		    transform: translateX(100);//<--- por esta
 		    }
@@ -11889,15 +10566,14 @@ Nose que pasa pero se ejecuta solo una .box4 { width: 200px; height: 200px; font
 		
 		Espero que te sirva de mucho mi aporte
 
-* **Luis Alejandro Cortes Chacón** (0)
+* **Luis Alejandro Cortes Chacón** (0) [243399](https://platzi.com/comentario/243399/) 
 
-	
 	Excelente clase, no sabía que se podían aplicar varias animaciones a un mismo elemento
 
-* **Nelson Alayón** (0)
+* **Nelson Alayón** (0) [34799](https://platzi.com/discusiones/1103-animaciones-web/34799-cuando-uno-hace-dos-animaciones-distintas-y-en-ambas-se-utiliza-transform-ambas-transformaciones-funcionan-o-se-anulan/) 
 Cuando uno hace dos animaciones distintas y en ambas se utiliza transform, ambas transformaciones funcionan o se anulan?
 
-## 0140. Detectar eventos de animaciones CSS desde JS
+## 0140. Detectar eventos de animaciones CSS desde JS [6833](https://platzi.com/clases/1103-animaciones-web/6833-detectar-eventos-de-animaciones-css-desde-js/)
 
 ### Descripción:
 
@@ -11908,9 +10584,8 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 
 ### Comentarios:
 
-* **Oscar Aguayo Mora** (173)
+* **Oscar Aguayo Mora** (173) [199361](https://platzi.com/comentario/199361/) 
 
-	
 	Buenas!
 	
 	Yo he hecho un eclipse solar con las animaciones:  
@@ -11918,72 +10593,59 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Saludos!
 
-	* **Juan Ponce** (1)
+	* **Juan Ponce** [199361] (1)
 
-		
 		Increible animacion!
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [199361] (1)
 
-		
 		Qué bonito!!
 
-	* **Pmartinez** (1)
+	* **Pmartinez** [199361] (1)
 
-		
 		 _woow que bien_
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [199361] (1)
 
-		
 		Me gusto mucho tu eclipse amigo, te quedo genial
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [199361] (1)
 
-		
 		woow super
 
-	* **anadecanha** (1)
+	* **anadecanha** [199361] (1)
 
-		
 		Aawwww! 🧡
 
-	* **EdwFabMar** (1)
+	* **EdwFabMar** [199361] (1)
 
-		
 		Muy buen aporte, esta muy bien logrado
 
-* **Carlos Eduardo Jesús León** (41)
+* **Carlos Eduardo Jesús León** (41) [379108](https://platzi.com/comentario/379108/) 
 
-	
 	Les dejo mi reto: [Tangram de números](https://eduardojesus12.github.io/tangram-numeros/)
 	
 	Me resulto muy útil la detección de eventos con JavaScript para poder lograrlo.
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [379108] (1)
 
-		
 		Genial, muy buena idea!  
 		Gracias.
 
-	* **Hdas** (1)
+	* **Hdas** [379108] (1)
 
-		
 		Esta genial muy buena animación
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [379108] (1)
 
-		
 		Muy bueno, felicitaciones compañero
 
-	* **Nigtdreams** (1)
+	* **Nigtdreams** [379108] (1)
 
-		
 		super interesante
 
-* **Yefferson Guarnizo** (37)
+* **Yefferson Guarnizo** (37) [299986](https://platzi.com/comentario/299986/) 
 
-	
 	Holaaa!!
 	
 	hice una pequeña animacion de un UFO (ovni) raptando una oveja
@@ -11992,79 +10654,65 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Saludos 😄
 
-	* **Hdas** (2)
+	* **Hdas** [299986] (2)
 
-		
 		Muy buen aporte
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [299986] (1)
 
-		
 		bastante creativo, genial compañero
 
-* **deveeup** (28)
+* **deveeup** (28) [246317](https://platzi.com/comentario/246317/) 
 
-	
 	<https://codepen.io/deveeup/pen/baJOQj>
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [246317] (1)
 
-		
 		Wooow, qupe buen proyecto
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [246317] (1)
 
-		
 		Muy curioso, te quedo muy bien, felicidades amigo
 
-* **mcamelo** (26)
+* **mcamelo** (26) [312012](https://platzi.com/comentario/312012/) 
 
-	
 	<https://jcamelo.github.io/AnimacionCubo/cubo.html>
 	
 	Reto realizado!
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [312012] (1)
 
-		
 		Buenísimo.
 
-	* **Hdas** (1)
+	* **Hdas** [312012] (1)
 
-		
 		Buen aporte
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [312012] (1)
 
-		
 		Genial, muy buena animación amigo
 
-* **hepam57** (25)
+* **hepam57** (25) [349420](https://platzi.com/comentario/349420/) 
 
-	
 	<https://hepam57.github.io/MemoryGame/>
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [349420] (1)
 
-		
 		Muy buenos los muñecos!!  
 		Fuck tea!! =D
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [349420] (1)
 
-		
 		Muy creativo, no esperaba encontrarme un juego entre los proyectos
 
-	* **jesus-gallardo** (1)
+	* **jesus-gallardo** [349420] (1)
 
-		
 		Basado en el proyecto final de Fundamentos de JavaScript ?
 		
 		PD: Te quedo buenisimo (Y)
 
-* **Alan Santiago** (17)
+* **Alan Santiago** (17) [350267](https://platzi.com/comentario/350267/) 
 
-	
 	Hola! 😄
 	
 	Soy fan de **Braking Bad** , asi que decidi “recrear” la intro con animaciones. Incluso le puse la cancion, si, me emocione JAJAJA
@@ -12075,40 +10723,34 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Para poder escuchar la cancion no pueden tener **ninguna pestaña con audio** 😃
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [350267] (1)
 
-		
 		404…
 
-	* **Alan Santiago** (5)
+	* **Alan Santiago** [350267] (5)
 
-		
 		Lo siento jaja  
 		**Código:**<https://alanzzant.github.io/BreakingBadAnimation/>  
 		**Animación:**<https://github.com/alanzzant/BreakingBadAnimation>
 
-	* **Hdas** (1)
+	* **Hdas** [350267] (1)
 
-		
 		Muy buena animación para una perfecta serie
 
-* **EmersonMatijasevic** (15)
+* **EmersonMatijasevic** (15) [781776](https://platzi.com/comentario/781776/) 
 
-	
 	Les comparto mi animación:  
 	<https://codepen.io/emer-matijasevic/pen/LYYNeWw>  
 	Un gato que se despierta/duerme cuando le haces click!! 😄  
 	![](![pen.PNG](https://static.platzi.com/media/user_upload/pen-8fb93bdb-0f8f-43c3-aa9d-29b2312b8d48.jpg)
 
-	* **Rodrigo Cuenca Mayuri** (1)
+	* **Rodrigo Cuenca Mayuri** [781776] (1)
 
-		
 		Que Chevere!
 
-* **henrytabimagiraldo** (13)
+* **henrytabimagiraldo** (13) [165205](https://platzi.com/comentario/165205/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <html>
 	      <head>
 	        <metacharset="utf-8">
@@ -12200,142 +10842,117 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	    
 	```
 
-* **Carlos Jesús Fernández Salazar** (10)
+* **Carlos Jesús Fernández Salazar** (10) [421386](https://platzi.com/comentario/421386/) 
 
-	
 	Hola,  
 	Yo hice una representación de las fases lunares <https://codepen.io/Cajotafer/full/yQgvja/> me inspiró ver lo que hizo @aguayoscar
 	
 	😄
 
-	* **Hdas** (1)
+	* **Hdas** [421386] (1)
 
-		
 		Muchas gracias que buen aporte
 
-* **AUGUSTO CACERES SUAREZ** (8)
+* **AUGUSTO CACERES SUAREZ** (8) [614824](https://platzi.com/comentario/614824/) 
 
-	
 	<https://codepen.io/AusgustSky/pen/GbpZjB>
 	
 	galaxy
 
-	* **Tlacaelel León Villaseñor** (3)
+	* **Tlacaelel León Villaseñor** [614824] (3)
 
-		
 		wow, esta muy interesante, me inspiraste.
 
-	* **AUGUSTO CACERES SUAREZ** (1)
+	* **AUGUSTO CACERES SUAREZ** [614824] (1)
 
-		
 		Con gusto esa es la idea motivarnos y nunca parar de aprender.muchas gracias por el buen comentario
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [614824] (1)
 
-		
 		jajaja ta cool!
 
-	* **Juan ortiz** (2)
+	* **Juan ortiz** [614824] (2)
 
-		
 		Exelente animacion, Gracias por compartir el codigo.
 
-* **Luis Alejandro Cortes Chacón** (8)
+* **Luis Alejandro Cortes Chacón** (8) [246434](https://platzi.com/comentario/246434/) 
 
-	
 	Este es mi ejercicio <https://luis2021.github.io/animaciones-web-ejercicio1/>, no es nada del otro mundo como los que hay por ahí, pero me sirvió para practicar.
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [246434] (1)
 
-		
 		404…
 
-	* **Hdas** (1)
+	* **Hdas** [246434] (1)
 
-		
 		link roto
 
-* **Wuilfredo Azócar** (7)
+* **Wuilfredo Azócar** (7) [928603](https://platzi.com/comentario/928603/) 
 
-	
 	![Ejercicio](https://i.imgur.com/uU5GEgB.gif)  
 	Aquí les dejo mi versión del ejercicio. Es un menú que había visto hace mucho tiempo atrás e intente realizarlo con lo aprendido en esta clase.
 	
 	  * [Repo](https://github.com/WuilfredoAz/animate-Secuencia)
 	  * [Vista previa](https://wuilfredoaz.github.io/animate-Secuencia/)
 	
-	
-	
 	**_NOTA DE LA CLASE_** : Es importante recalcar que cuando se emplean estilos con JavaScript de la siguiente manera: **elemento.style…** estos estilos son aplicados **directamente dentro de la etiqueta HTML del elemento** haciendo que el código al final se vea un poco mas confuso de lo que en realidad es.
 
-	* **wilkinsbrito** (1)
+	* **wilkinsbrito** [928603] (1)
 
-		
 		excelente proyecto el tuyo, te felicito y gracias por la contribución.
 
-	* **Carlos Eduardo Diaz Polanco** (1)
+	* **Carlos Eduardo Diaz Polanco** [928603] (1)
 
-		
 		Como añades una imagen Gif a los comentarios?
 
-	* **Wuilfredo Azócar** (1)
+	* **Wuilfredo Azócar** [928603] (1)
 
-		
 		Saludos, para este caso lo que hice fue grabar mi pantalla mostrando el ejercicio y busque por internet una página para convertir videos en gif.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [928603] (1)
 
-		
 		ushhh pero ya eres un super pro !!!  
 		Felicitaciones compañero se ve muy bien todo !!!
 
-* **Cristian Orozco Benjumea** (7)
+* **Cristian Orozco Benjumea** (7) [477053](https://platzi.com/comentario/477053/) 
 
-	
 	Les comparto mi animación de la tierra girando:  
 	<https://codepen.io/cree4/pen/wRQLLK>
 	
 	Lo aprendí en este [tutorial](https://www.youtube.com/watch?v=u4n3fgUzJcQ&index=24&list=WL). Queda grandioso
 
-	* **Hdas** (1)
+	* **Hdas** [477053] (1)
 
-		
 		Muchas gracias
 
-* **Gabriel De Andrade (Platzi)** (7)
+* **Gabriel De Andrade (Platzi)** (7) [407470](https://platzi.com/comentario/407470/) 
 
-	
 	¡Buenas!
 	
 	Este definitivamente es el reto que mas me ha divertido hasta ahora  
 	[aqui](https://codepen.io/gabrielelpidio/pen/gBQoyK) el enlace a codepen
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [407470] (1)
 
-		
 		=P
 
-	* **Hdas** (1)
+	* **Hdas** [407470] (1)
 
-		
 		Buen aporte
 
-* **Andrés Felipe Chaparro Grimaldo** (7)
+* **Andrés Felipe Chaparro Grimaldo** (7) [304144](https://platzi.com/comentario/304144/) 
 
-	
 	Acá les dejo mi ejercicio, por algo se empieza 😄  
 	<https://dyabel03.github.io/animaciones_prt1/>
 
-* **Luis Enrique Galindo Arenas** (7)
+* **Luis Enrique Galindo Arenas** (7) [219065](https://platzi.com/comentario/219065/) 
 
-	
 	Aquí va mi repsuesta al reto del profe @LeonidasEsteban, por cierto tremendo curso!
 	
 	Básicamente hice un fork del excelente trabajo del compañero @aguayoscar que me gustó mucho, y agregue algunas animaciones extras al final como la puesta del sol y el texto del fin, ambos usando javascript para detectar y lanzar eventos que “despausan” animaciones y modifican propiedades css de algunos elementos para el correcto funcionamiento de otras animaciones.
 	
 	En código javascript este es mi aporte:
-	``` 
-	    const $sol = document.getElementById('sol');
+	```     const $sol = document.getElementById('sol');
 	    const $luna = document.getElementById('luna');
 	    const $fin = document.getElementById('fin');
 	    
@@ -12364,15 +10981,13 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Espero que también le sirva de guía a alguien más, saludos desde Venezuela ;p
 
-* **lenielluzardo** (6)
+* **lenielluzardo** (6) [843742](https://platzi.com/comentario/843742/) 
 
-	
 	Platzi, esta genial la clase, pero para aquel que no tenga una noción básica de Javascript, se saltaron algunos conceptos básicos así de una. Deben considerarlo, ya que la idea es que el proceso de aprendizaje sea fluido y no frenar a algunos mientras aprenden cosas como “arrow functions” o el “triple igual” por ejemplo. Una opinión  
 	☝🙂🤔
 
-* **Byron Vargas** (6)
+* **Byron Vargas** (6) [508909](https://platzi.com/comentario/508909/) 
 
-	
 	Muy buen curso
 	
 	Aca esta mi reto  
@@ -12385,61 +11000,51 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Mucha suerte a todos
 
-	* **Rodolfo Ramírez Cedillo** (1)
+	* **Rodolfo Ramírez Cedillo** [508909] (1)
 
-		
 		Te quedó excelente, me gustó bastante.
 
-	* **Byron Vargas** (1)
+	* **Byron Vargas** [508909] (1)
 
-		
 		muchas gracias
 
-	* **Hdas** (1)
+	* **Hdas** [508909] (1)
 
-		
 		Que buen aporte muchas gracias
 
-	* **irma-davila** (1)
+	* **irma-davila** [508909] (1)
 
-		
 		me encantó
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [508909] (1)
 
-		
 		Crack!
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [508909] (1)
 
-		
 		excelente!
 
-* **pablojorgeandres** (6)
+* **pablojorgeandres** (6) [495279](https://platzi.com/comentario/495279/) 
 
-	
 	## [Detectar eventos de animaciones](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase14)
 	
 	Para detectar un evento en las animaciones puedo usar javascript.
 	
 	En principio localizo el objeto con `document.getElementById()` pasando como parámetro el id del objeto sobre el que se ejecuta la animación.
-	``` 
-	      const $objeto = document.getElementById('objeto')
+	```       const $objeto = document.getElementById('objeto')
 	    
 	```
 	
 	Cargo luego un oyente de eventos `addEventListener()` para detectar el fin de la animación con `animationend`.  
 	Y finalmente gatillo la animación extra a travez de la función del listener.
-	``` 
-	      $objeto.addEventListener('animationend', function(){
+	```       $objeto.addEventListener('animationend', function(){
 	        /* disparo la siguiente animación aquí */
 	      })
 	    
 	```
 	
 	Para gatillar la función siguiente utilizo la propiedad [`.style.animation`](https://www.w3schools.com/jsref/prop_style_animation.asp) de javascript. Los básicos para que funcione son `animationName` y `animationDuration`.
-	``` 
-	      $objeto.style.animationName = 'animacionDeObjeto'
+	```       $objeto.style.animationName = 'animacionDeObjeto'
 	      $objeto.style.animationDuration = 'Xs'
 	    
 	```
@@ -12455,58 +11060,46 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	  * [animationFillMode](https://www.w3schools.com/jsref/prop_style_animationfillmode.asp)
 	  * [animationPlayState](https://www.w3schools.com/jsref/prop_style_animationplaystate.asp)
 	
-	
-	
 	Otros listeners:
 	
 	  * [`animationstart`](https://www.w3schools.com/jsref/event_animationstart.asp)
 	  * [`animationiteration`](https://www.w3schools.com/jsref/event_animationiteration.asp)
 	  * [`animationend`](https://www.w3schools.com/jsref/event_animationend.asp)
-	
-	
 
-	* **Kevin Chipana Chucare** (1)
+	* **Kevin Chipana Chucare** [495279] (1)
 
-		
 		Gracias por compartir tus resumen
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [495279] (2)
 
-		
 		Seguro! Merece!  
 		A mi me ayuda a entender y fijar lo que voy aprendiendo.  
 		Si a alguien más le aporta en cualquier sentido, entonces estoy siendo útil para otros y eso es un valor que me interesa cultivar.  
 		Saludos.
 
-	* **Hdas** (1)
+	* **Hdas** [495279] (1)
 
-		
 		Muchísimas gracias que buen resumen
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [495279] (1)
 
-		
 		Muy buen aporte compañero !!
 
-* **dslopez** (5)
+* **dslopez** (5) [739489](https://platzi.com/comentario/739489/) 
 
-	
 	Para el reto cree un burguer animado con unos burgues minis  
 	<https://codepen.io/dslopez/pen/mdbGEex>
 
-	* **Edgardo Marcano** (1)
+	* **Edgardo Marcano** [739489] (1)
 
-		
 		Omg está genial!
 
-	* **manuelmelendezb** (1)
+	* **manuelmelendezb** [739489] (1)
 
-		
 		Cool!
 
-* **aldairgaro** (5)
+* **aldairgaro** (5) [683504](https://platzi.com/comentario/683504/) 
 
-	
 	Este es mi reto  
 	[Animated burger menu](https://codepen.io/aldairgaro/pen/KOGMoR)
 	
@@ -12514,80 +11107,66 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Saludos!
 
-	* **Israel Urbina** (1)
+	* **Israel Urbina** [683504] (1)
 
-		
 		Excelente pagina Gracias!
 
-	* **manuelmelendezb** (1)
+	* **manuelmelendezb** [683504] (1)
 
-		
 		jejeje esta super mi inspiraste a cambiar el burger menu of my website;D
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [683504] (1)
 
-		
 		Excelente aporte
 
-* **Julián Cipagauta** (5)
+* **Julián Cipagauta** (5) [606579](https://platzi.com/comentario/606579/) 
 
-	
 	Aquí esta mi reto!! Un simple avión que llega a una meta!  
 	[Clic aquí](https://codepen.io/JulianC606/pen/byygmd)
 
-* **Juan Osio** (4)
+* **Juan Osio** (4) [895275](https://platzi.com/comentario/895275/) 
 
-	
 	Feliz año 2020, [este es mi ejercicio ](https://codepen.io/juanosio/pen/LYEzapo)
 
-	* **Edgardo Marcano** (1)
+	* **Edgardo Marcano** [895275] (1)
 
-		
 		Te quedó excelente
 
-	* **Jaime Gonzalez** (1)
+	* **Jaime Gonzalez** [895275] (1)
 
-		
 		Excelente!
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [895275] (1)
 
-		
 		Quedo muy bien compañero !!
 
-* **Tlacaelel León Villaseñor** (4)
+* **Tlacaelel León Villaseñor** (4) [640407](https://platzi.com/comentario/640407/) 
 
-	
 	Les comparto mi intento de animacion, intente hacerla bonita lo mas que pude.  
 	<https://codepen.io/Tlaca/pen/GbYRZP>
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [640407] (1)
 
-		
 		bien
 
-	* **Santiago Restrepo Rueda** (1)
+	* **Santiago Restrepo Rueda** [640407] (1)
 
-		
 		Muy buen aporte, pero con unos segundos más en la duración queda mucho mejor.
 		
 		animation-duration: 3s,6s;
 		
 		Obviamente es mi percepción. Gracias por el aporte
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [640407] (1)
 
-		
 		Parece un planeta dando vueltas al sol,  
 		con un super turbo jajaja  
 		Quedo muy bien compañero
 
-* **Tlacaelel León Villaseñor** (4)
+* **Tlacaelel León Villaseñor** (4) [640360](https://platzi.com/comentario/640360/) 
 
-	
 	Al momento de usar _**cuadrado.style.animationName**_ Leonidas no separo los nombres de las animaciones, al hacer debug el javascript no agrega bien los nombres.
-	``` 
-	    //Codigo de Leonidas
+	```     //Codigo de Leonidas
 	    cuadrado.style.animationName='cuadrado escalera';
 	    //Codigo con comas
 	    cuadrado.style.animationName='cuadrado, escalera';
@@ -12596,56 +11175,47 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	se obtiene un resultado diferente con estos cambios.
 
-	* **Almu_timkerbell** (1)
+	* **Almu_timkerbell** [640360] (1)
 
-		
 		yo al principio le puse la coma, y al ver que no me salía igual me desesperé un poco! Así que gracias por apuntarlo:)
 
-	* **manuelmelendezb** (1)
+	* **manuelmelendezb** [640360] (1)
 
-		
 		Gracias buen aporte., no entendía porque al quererle cambiar la iterationCount a mi segunda animación no ocurría nada xD
 
-* **Iair Poloniecki** (4)
+* **Iair Poloniecki** (4) [558307](https://platzi.com/comentario/558307/) 
 
-	
 	Yo hice un amanecer. Algo bastante simple pero creo que quedó bonito:  
 	<https://codepen.io/iairpolo/full/MRmxeq>  
 	Espero que les guste y sugerencias para mejorarlo  
 	Saludos!
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [558307] (1)
 
-		
 		si quedó cool!
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [558307] (1)
 
-		
 		crack !!
 
-* **Carmen Sánchez Salgado** (4)
+* **Carmen Sánchez Salgado** (4) [480283](https://platzi.com/comentario/480283/) 
 
-	
 	¡Qué tal comunidad! Les comparto mi animación  
 	**Prisma de Newton**
 	
 	<https://codepen.io/eessm01/pen/jXJJgg>
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [480283] (1)
 
-		
 		Genial!  
 		Gracias!
 
-	* **Hdas** (1)
+	* **Hdas** [480283] (1)
 
-		
 		Gracias que buen ejemplo
 
-* **Danielespinozar** (4)
+* **Danielespinozar** (4) [477257](https://platzi.com/comentario/477257/) 
 
-	
 	Buenas! una consulta.
 	
 	El script sabe que cuando termina la animación de rebote, inicia la de escalera porque en el JS se lo estamos diciendo.  
@@ -12654,21 +11224,18 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	
 	Agradeceria su ayuda 😄
 
-	* **davidbr** (1)
+	* **davidbr** [477257] (1)
 
-		
 		En JS se declara un escuchador de eventos para cuando el objeto ‘cuadrado’ termine una animación,  
 		Esta linea en CSS:
-		``` 
-		    animation-iteration-count: infinite,20;
+		```     animation-iteration-count: infinite,20;
 		    
 		```
 		
 		le indica cuantas iteraciones (repeticiones) tendrán las animaciones declaradas, en este caso, ‘ _cuadrado_ ’ y ‘ _rebote_ ’
 		
 		El escuchador de eventos en JS:
-		``` 
-		    $cuadrado.addEventListener('animationend', (event)=>{
+		```     $cuadrado.addEventListener('animationend', (event)=>{
 		          if (event.animationName === 'rebote') {
 		            $cuadrado.style.animationName = 'cuadrado, escalera';
 		            $cuadrado.style.animationDuration = '3s'
@@ -12681,76 +11248,64 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 		
 		Es decir el fin de la animación ‘ _rebote_ ’ dispara la función declarada en el escuchador.
 
-	* **Hdas** (1)
+	* **Hdas** [477257] (1)
 
-		
 		Muchas gracias
 
-* **Jhonny Stiven Agudelo Tenorio** (4)
+* **Jhonny Stiven Agudelo Tenorio** (4) [281482](https://platzi.com/comentario/281482/) 
 
-	
 	tome la idea de otro lado, pero con mucho esfuerzo lo realice yo mismo.
 	
 	<https://codepen.io/jhonny3120/pen/ZxqbgY>
 
-* **jangove** (4)
+* **jangove** (4) [194471](https://platzi.com/comentario/194471/) 
 
-	
 	el triple igual === como se puede definir
 
-* **Espasa** (3)
+* **Espasa** (3) [701554](https://platzi.com/comentario/701554/) 
 
-	
 	He creado un header con el burger menu animado:
 	
 	<https://codepen.io/aaronespasa/pen/xxKgZrw>
 
-* **Nicolas Esteban Prieto Sarmiento** (3)
+* **Nicolas Esteban Prieto Sarmiento** (3) [425745](https://platzi.com/comentario/425745/) 
 
-	
 	hice un programa que cuenta infinitamente los revotes que da la pelota (Es un juego para probar tu paciencia) si te sales del navegador para de revotar
 	
 	![](https://media.giphy.com/media/EQBnRyytEY7rdWizeL/giphy.gif)  
 	<https://np66.github.io/Paciencia-/>
 
-	* **irma-davila** (1)
+	* **irma-davila** [425745] (1)
 
-		
 		jajjajajajaj
 
-* **MauricioHernanCabrera** (3)
+* **MauricioHernanCabrera** (3) [212729](https://platzi.com/comentario/212729/) 
 
-	
 	Hice un Pendulo de Newton, que opinan del codigo y la animación?  
 	<https://hernanmc10.github.io/pendulo-de-newton/>
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [212729] (1)
 
-		
 		404…
 
-	* **irma-davila** (1)
+	* **irma-davila** [212729] (1)
 
-		
 		ya no está
 
-* **Emilio Rafael Hernandez Perez** (3)
+* **Emilio Rafael Hernandez Perez** (3) [189890](https://platzi.com/comentario/189890/) 
 
-	
 	Comparto mi aporte desde Codepen
 	
 	<https://codepen.io/emilio2505/pen/vJrEGE>
 
-* **Cristian Marin** (2)
+* **Cristian Marin** (2) [1013998](https://platzi.com/comentario/1013998/) 
 
-	
 	<https://codepen.io/CristianMarin05/pen/ZEGyxbO>
 	
 	el reto!
 
-* **Jaime Gonzalez** (2)
+* **Jaime Gonzalez** (2) [903660](https://platzi.com/comentario/903660/) 
 
-	
 	Los operadores === y !== son los operadores de comparación estricta. Esto significa que si los elementos que se están comparando tienen tipos diferentes, no son iguales. Por ejemplo:
 	
 	1 == "1"  
@@ -12758,234 +11313,196 @@ También veremos cómo cambiar o encadenar animaciones de forma más programada 
 	1 === "1"  
 	false
 
-* **paulmejiamendoza** (2)
+* **paulmejiamendoza** (2) [805870](https://platzi.com/comentario/805870/) 
 
-	
 	demasiado rapido yo creo que vas…
 
-	* **durbonca** (1)
+	* **durbonca** [805870] (1)
 
-		
 		esperate a que llegue a la parte de react XD
 
-* **durbonca** (2)
+* **durbonca** (2) [718433](https://platzi.com/comentario/718433/) 
 
-	
 	anime algunos elementos dentro del formulario:
 	
 	<https://durbonca.github.io/frontend-qr-app/>
 
-	* **manuelmelendezb** (1)
+	* **manuelmelendezb** [718433] (1)
 
-		
 		cool
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [659707](https://platzi.com/comentario/659707/) 
 
-	
 	Y volví por aquí para repasar!!! 😄
 
-* **Armando Duarte Quiñones** (2)
+* **Armando Duarte Quiñones** (2) [602971](https://platzi.com/comentario/602971/) 
 
-	
 	<https://codepen.io/surucobe/pen/BeObqq?editors=0100>  
 	aun esta muy sencilla, pero tengo como meta presentar algo muchisimo mejor al final del curso!
 
-* **Emmanuel Guerra** (2)
+* **Emmanuel Guerra** (2) [592566](https://platzi.com/comentario/592566/) 
 
-	
 	<https://codepen.io/anon/pen/joGzJR>
 	
 	La letra de una canción con animaciones 😄
 
-* **marcos-nabukodonosor** (2)
+* **marcos-nabukodonosor** (2) [585899](https://platzi.com/comentario/585899/) 
 
-	
 	necesito empezar la animacion cuando el scrollY llegue a determinado punto como hago eso_?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [585899] (1)
 
-		
 		Programa un EventListener y cuando el scrollY esté entre ciertos valores le pides que haga lo que tu quieras 😅…
 
-	* **marcos-nabukodonosor** (1)
+	* **marcos-nabukodonosor** [585899] (1)
 
-		
 		EN realidad lo que dices es lo que se supone, por eso pregunte. como hago eso?  
 		igual gracias ya lo hice.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [585899] (3)
 
-		
 		Hola, pudiste resolver tu problema? cuéntanos que has intentado para ayudarte, recuerda que parte de aprender a programar es probar cosas.
 
-	* **marcos-nabukodonosor** (1)
+	* **marcos-nabukodonosor** [585899] (1)
 
-		
 		@gollum23 ya esta listo gracias, lo que queria saber en si era como hacer ese codigo.
 
-* **Jehaann Manzanares** (2)
+* **Jehaann Manzanares** (2) [570113](https://platzi.com/comentario/570113/) 
 
-	
 	Reto Cumplido ! Muy buena practica.  
 	Una animación sencilla pero funcional.
 	
 	<https://github.com/Jehaann07/page-404-animation>
 
-* **Cristian Florez** (2)
+* **Cristian Florez** (2) [563978](https://platzi.com/comentario/563978/) 
 
-	
 	Hice un pequeño reloj analógico  
 	[Click](https://krisyupher.github.io/Reloj-Animacion-Css/)
 
-* **miguelgz18** (2)
+* **miguelgz18** (2) [539014](https://platzi.com/comentario/539014/) 
 
-	
 	Mi reto con las excusas de mi novia  
 	<https://miguelguerreroz.github.io/no_time/>
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [539014] (1)
 
-		
 		crack !!!
 
-* **kokotzin** (2)
+* **kokotzin** (2) [510815](https://platzi.com/comentario/510815/) 
 
-	
 	leonidas e recuperado la fe en ti ahora que tome el de react y es igual de bueno como este me cae que cuando andes por la condesa en la cdmx te invitare unas chelas bien frias.
 
-* **platzipcimx** (2)
+* **platzipcimx** (2) [500619](https://platzi.com/comentario/500619/) 
 
-	
 	Hola, cada clase me va envolviendo mas, por eso aquí dejo mi desafió.  
 	[Desafió](https://isael50.github.io/AnimacionD1/)
 	
 	A seguir aprendiendo…  
 	Saludos
 
-	* **Hdas** (1)
+	* **Hdas** [500619] (1)
 
-		
 		Buen ejemplo
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [497177](https://platzi.com/comentario/497177/) 
 
-	
 	Bueno, finalmente se me ocurrió qué hacer para este desafío.  
 	Debo decir que fue muuuuy entretenido hacerlo y que me he inspirado en los trabajos de los demás compañeros, así que gracias!
 	
 	![](https://developerathome.tk/Store/images/CSS-animaationTask.gif)  
 	Completo y HD [aquí](https://developerathome.tk/Store/platzi-exs/CSSanimations/) =P
 
-	* **Hdas** (1)
+	* **Hdas** [497177] (1)
 
-		
 		Buen aporte muchas gracias
 
-	* **irma-davila** (1)
+	* **irma-davila** [497177] (1)
 
-		
 		muy chevere
 
-* **davidricardo** (2)
+* **davidricardo** (2) [476267](https://platzi.com/comentario/476267/) 
 
-	
 	Hola, qué tal, les comparto mi ejercicio:  
 	<https://keyeneye.github.io/animaciones/>  
 	Que pasen un bonito día
 
-	* **Hdas** (1)
+	* **Hdas** [476267] (1)
 
-		
 		Gracias buen aporte
 
-* **Sergio Alejandro Niño Monroy** (2)
+* **Sergio Alejandro Niño Monroy** (2) [474746](https://platzi.com/comentario/474746/) 
 
-	
 	Hola!
 	
 	Comparto el reto de animaciones haciendo que una figura tome diferentes formas y colores:  
 	<https://srcyco.github.io/animations/>
 
-	* **Hdas** (1)
+	* **Hdas** [474746] (1)
 
-		
 		Buen comentario psicodelia fija
 
-	* **Jose Padron (Platzi)** (1)
+	* **Jose Padron (Platzi)** [474746] (1)
 
-		
 		Cuidado con los que sufren de epilepsia con este ejemplo XD
 
-	* **irma-davila** (1)
+	* **irma-davila** [474746] (1)
 
-		
 		me dolió el ojo… ahora mismo no puedo ver bien. jejeje good job
 
-* **Aufsten** (2)
+* **Aufsten** (2) [365670](https://platzi.com/comentario/365670/) 
 
-	
 	Aquí un proyecto hasta el momento.
 	
 	<https://codepen.io/fernando-monares/pen/OoXLJg>
 	
 	Saludos!
 
-* **Rafael Jair Sanchez Alviso** (2)
+* **Rafael Jair Sanchez Alviso** (2) [283644](https://platzi.com/comentario/283644/) 
 
-	
 	Cual es la diferencia de utilizar en JS  
 	const $cuadrado  
 	var $cuadrado  
 	tendría alguna repercusión?
 
-* **wilkinsbrito** (2)
+* **wilkinsbrito** (2) [80184](https://platzi.com/comentario/954018/) 
 jodidisimo, paso.
 
-	* **María José Ledesma (Platzi)** (1)
+	* **María José Ledesma (Platzi)** [80184] (1)
 
-		
 		¿Qué es lo que te pareció difícil? Cuéntanos, para ayudarte.
 		
 		**¡Nunca pares de aprender!** 🦄
 
-* **Gabriel Andreí Barceló Alfaro** (2)
+* **Gabriel Andreí Barceló Alfaro** (2) [54802](https://platzi.com/comentario/534254/) 
 ¿Hay algún significado de porqué Leonidas utilizó $ en el nombre de la variable?
 
-	* **AlexGarrixen** (1)
+	* **AlexGarrixen** [54802] (1)
 
-		
 		Hola AndreyAlth,es solo convencion,realmente no es necesario ponerlo
 
-* **David Behar** (1)
+* **David Behar** (1) [1092130](https://platzi.com/comentario/1092130/) 
 
-	
 	El efecto de pausar la animación me recuerda bastante a los fantasmas de Mario World.  
 	![](http://g.recordit.co/c3JRUPiy6z.gif)
 
-* **FerPM** (1)
+* **FerPM** (1) [1087717](https://platzi.com/comentario/1087717/) 
 
-	
 	Esto se esta poniendo verdaderamente interesante!
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1043143](https://platzi.com/comentario/1043143/) 
 
-	
 	Una vez ya tengamos nuestras animaciones realizadas, nos puede surgir el problema de hacer que una animación se inicie cuando acabe otra o viceversa, para encadenar estas animaciones haremos uso de JavaScript, donde capturaremos el elemento al cual queremos agregar o quitar la animación.  
 	Para saber cuando termina o comienza una animación hacemos uso del addEventLIstener, la cual nos permitirá saber cuando ocurre un cambio, con el evento animationend o animationstart, una vez detectado el cambio solo deberemos agregar a nuestro elemento capturado los estilos relacionados con la animación, para agregarle el nombre y la duración de la misma.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1037959](https://platzi.com/comentario/1037959/) 
 
-	
 	 **Detectar eventos de animaciones CSS**  
 	En ocaciones tendremos que encadenar animaciones y para eso tenemos que ver cuándo termina una para que la siguiente empiece.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1037959] (1)
 
-		
 		Primero tengo que crear mi nueva animación con @keyframes en mi archivo de estilos.
-		``` 
-		    @keyframes escalera {
+		```     @keyframes escalera {
 		    from{
 		    transform: translateY(0); 
 		    }
@@ -12995,23 +11512,19 @@ jodidisimo, paso.
 		    
 		```
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1037959] (1)
 
-		
 		Ya esta lista mi nueva animación y es hora de asignarla a nuestro elemento, en el orden correcto, pero ……………
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1037959] (1)
 
-		
 		 **¿Cómo detectamos el fin de una animacion?**  
 		Podemos hacerlo con JavaScript y lo vamos a hacer así.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1037959] (1)
 
-		
 		Voy a agregarle un `atributo_id` a nuestro elemento en el html para identificar a quién quiero escuchar.
-		``` 
-		    <body>
+		```     <body>
 		    <divclass="container">
 		    	<divclass="cuadrado"id="cuadrado">
 		    ………………/* ↑  Son diferentes ↑ */
@@ -13021,42 +11534,35 @@ jodidisimo, paso.
 		    
 		```
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984512](https://platzi.com/comentario/984512/) 
 
-	
 	También veremos cómo cambiar o encadenar animaciones de forma más programada escuchando los eventos del elemento animado a través también de JavaScript.
 
-* **salajhon69** (1)
+* **salajhon69** (1) [977133](https://platzi.com/comentario/977133/) 
 
-	
 	Hice esto pequeño  
 	<https://codepen.io/eduardoalexis/project/editor/ZqmNBn>
 
-* **pablopoggiog** (1)
+* **pablopoggiog** (1) [965215](https://platzi.com/comentario/965215/) 
 
-	
 	Estoy usando React, y cuando quiero apuntar a un elemento con document.getElementById(‘idDelElemento’) para asignarle el addEventListener, no reconoce el elemento y me lo muestra como null (como si no existiera en el DOM, siendo que el id esta bien puesto en el elemento, y bien llamado luego). Lei algo por ahi sobre que no deberia usarse el getElementById en React, y sobre React.createRef(), pero no termino de entender como llamar al elemento con ese ref desde otro componente para asignarle el addEventListener, ni si esta deberia ser la forma de manejar esta cuestion. Ashuda ):
 
-* **Manuel Alvarez** (1)
+* **Manuel Alvarez** (1) [956815](https://platzi.com/comentario/956815/) 
 
-	
 	Un pequeño ejemplo.  
 	<https://codepen.io/manuelalvarezco/pen/bGNPgaQ?editors=1000>  
 	![menu.PNG](https://static.platzi.com/media/user_upload/menu-aa8c0aad-a2da-412c-ac87-806dafed1f6a.jpg)
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [947048](https://platzi.com/comentario/947048/) 
 
-	
 	Comienzo a ver JS y solo pienso en tener paciencia, que todo esto algún día lo entenderé perfecto.
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [900411](https://platzi.com/comentario/900411/) 
 
-	
 	Excesivamente rápido para los que no tenemos nociones en js.
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [900411] (1)
 
-		
 		Se recomienda tener las bases de html, css, y js. antes de profundizar en cada uno de ellos para que se te faciliten más los cursos.
 		
 		1.- Lo que hace es crear una constante $cuadrado, obteniendo el objeto html que tiene el id ‘cuadrado’.  
@@ -13083,27 +11589,22 @@ jodidisimo, paso.
 		
 		5.- Listo, ya tienes una chulada de animación .
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [838621](https://platzi.com/comentario/838621/) 
 
-	
 	Excelente!
 
-* **PabloGM** (1)
+* **PabloGM** (1) [832170](https://platzi.com/comentario/832170/) 
 
-	
 	Ok 😀 Lo Intentare 😥 😥 😥 😥
 
-* **_deiviiss** (1)
+* **_deiviiss** (1) [790268](https://platzi.com/comentario/790268/) 
 
-	
 	Eventos en JavaScript.
 
-* **dariofedes** (1)
+* **dariofedes** (1) [788177](https://platzi.com/comentario/788177/) 
 
-	
 	¿Por qué este código devuelve por consola el AimationEvent?
-	``` 
-	    cuadrado.addEventListener('animationend', (event) => {
+	```     cuadrado.addEventListener('animationend', (event) => {
 	    	console.log(event)
 	    })
 	    
@@ -13111,47 +11612,39 @@ jodidisimo, paso.
 	
 	¿Por qué la arrow function recibe automáticamente como parámetro AnimationEvent?
 
-	* **Omar Alberto Alvarez Ortiz** (1)
+	* **Omar Alberto Alvarez Ortiz** [788177] (1)
 
-		
 		Los addEventListener registra un evento a un objeto específico, en este caso el evento es ‘animationend’ y cuando este ocurre (cuando la animación termina) se ejecuta la arrow function la cual te va a mostrar en consola lo que acabo de ocurrir.  
 		Espero que te sirva 😁
 
-* **eduardocorona** (1)
+* **eduardocorona** (1) [765092](https://platzi.com/comentario/765092/) 
 
-	
 	a mi me marca un error en consola,  
 	Uncaught TypeError: Cannot read property ‘addEventListener’ of null  
 	osea que cuadrado es null ¿que me esta faltando?
 
-	* **EmersonMatijasevic** (1)
+	* **EmersonMatijasevic** [765092] (1)
 
-		
 		Seguro es tu tag <script> en tu html.  
 		Esta etiqueta tiene que estar al final , justo antes del cierre del body.  
 		Avisa si te funcionó. saludos
 
-* **Alfredo Gonzalez** (1)
+* **Alfredo Gonzalez** (1) [692526](https://platzi.com/comentario/692526/) 
 
-	
 	Aqui mi aporte ![](![Screen Shot 2019-08-16 at 19.32.21.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-16%20at%2019.32.21-f653c824-ecbe-4525-bbba-311169e88754.jpg)
 
-* **conejo22** (1)
+* **conejo22** (1) [684186](https://platzi.com/comentario/684186/) 
 
-	
 	Esto no tiene nada que ver con esta clase , pero si alguien sabe como puedo detectar el fin de una transition , he usado el transitioend , utilizando elapsedTime para detectar la diferencia de tiempo de una transition a otra, pero ahora no puedo 😦 …
 
-* **alisterdiazd** (1)
+* **alisterdiazd** (1) [652747](https://platzi.com/comentario/652747/) 
 
-	
 	Pues no lo entendí del todo, pero pues a ver si practicando lo voy entendiendo!
 
-* **Miguel Angel Valverde Meregildo** (1)
+* **Miguel Angel Valverde Meregildo** (1) [625490](https://platzi.com/comentario/625490/) 
 
-	
 	No es responsive así que véanlo a pantalla completa jejeje
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -13366,101 +11859,84 @@ jodidisimo, paso.
 	    
 	```
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [621144](https://platzi.com/comentario/621144/) 
 
-	
 	**Anotaciones:**
 	
 	Para hacer una detección de eventos con JavaScript, debemos requerir por medio de la función [$selector].addEventListener(‘evento’, ‘que pasa cuando ocurra el evento’){ proceso }.
 
-* **bryan.carmodi** (1)
+* **bryan.carmodi** (1) [615385](https://platzi.com/comentario/615385/) 
 
-	
 	¿Con que combinación de tecla hago esto?  
 	"=>"  
 	Trabajo con windows 10
 
-	* **Aram Ceballos Gonzalez** (2)
+	* **Aram Ceballos Gonzalez** [615385] (2)
 
-		
 		El simbolo “=” lo haces con shift + 0, y el simbolo “>” lo haces con alt + 62. Esto en el teclado español
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597337](https://platzi.com/comentario/597337/) 
 
-	
 	cada vez queda mcho mas COOL
 
-* **Kingsman7** (1)
+* **Kingsman7** (1) [578938](https://platzi.com/comentario/578938/) 
 Justo lo que necesito. Gracias profe Leónidas
 
-* **cris-medina** (1)
+* **cris-medina** (1) [567965](https://platzi.com/comentario/567965/) 
 
-	
 	Aquí dejo un ejemplo de animaciones:  
 	[](https://codepen.io/cristhian-medina/pen/yroMbW)
 
-	* **cris-medina** (1)
+	* **cris-medina** [567965] (1)
 
-		
 		[https://codepen.io/cristhian-medina/pen/yroMbW](url)
 
-	* **cris-medina** (1)
+	* **cris-medina** [567965] (1)
 
-		
 		[ball & basket](https://codepen.io/cristhian-medina/pen/yroMbW)
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [558799](https://platzi.com/comentario/558799/) 
 
-	
 	Llego JS se pone buena la cosa.
 
-* **irma-davila** (1)
+* **irma-davila** (1) [553545](https://platzi.com/comentario/553545/) 
 
-	
 	Hola, no me salió como quería ([Ver](https://codepen.io/irmaDevelop/pen/mgEwvy)). Pero logré que la animación de dos objetos diferentes empezara al finalizar el de un tercer objeto.
 
-	* **irma-davila** (1)
+	* **irma-davila** [553545] (1)
 
-		
 		<https://codepen.io/irmaDevelop/pen/mgEwvy>
 
-* **Gabriel Andreí Barceló Alfaro** (1)
+* **Gabriel Andreí Barceló Alfaro** (1) [534254](https://platzi.com/comentario/534254/) 
 
-	
 	¿Hay algún significado de porqué Leonidas utilizó $ en el nombre de la variable?
 
-	* **AlexGarrixen** (1)
+	* **AlexGarrixen** [534254] (1)
 
-		
 		Hola AndreyAlth,es solo convencion,realmente no es necesario ponerlo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [534254] (3)
 
-		
 		Es una convención que viene desde el uso de jQuery, no es necesario pero se usa comúnmente para indicar que es un objeto del dom el que esta guardado en esa variable.
 
-	* **ThAlan** (1)
+	* **ThAlan** [534254] (1)
 
-		
 		Es una convención que usó Leonidas para referirse a los objetos del DOM que se están guardando en esa variable, para que cuando leas el código después sepas que las variables que inician con $ tienen un objeto del DOM de manera más fácil.
 
-* **Jesús Antonio Chacón Rodriguez** (1)
+* **Jesús Antonio Chacón Rodriguez** (1) [525957](https://platzi.com/comentario/525957/) 
 
-	
 	Hola!!  
 	Yo he hecho el juego de Atari Pong, con las animaciones  
 	<https://chjesus.github.io/Pong/>
 	
 	Saludos.
 
-	* **Yeison Fuentes Chacon** (1)
+	* **Yeison Fuentes Chacon** [525957] (1)
 
-		
 		Jesus aparece error 404
 
-* **Mateo Gonzales Navarrete** (1)
+* **Mateo Gonzales Navarrete** (1) [522802](https://platzi.com/comentario/522802/) 
 
-	
 	Hola!
 	
 	Yo he hecho una animación interactiva de cómo cocinar un huevo:  
@@ -13469,22 +11945,18 @@ Justo lo que necesito. Gracias profe Leónidas
 	Puede haber elementos que no estén exactamente alineados según el tamaño de sus pantallas ya que no lo he hecho responsive.  
 	Hagan click en los objetos para interactuar 😃
 
-* **Hdas** (1)
+* **Hdas** (1) [520783](https://platzi.com/comentario/520783/) 
 
-	
 	[https://codepen.io/corpsehdas/pen/NJWvqB](url)
 
-* **Camilo Castillo** (1)
+* **Camilo Castillo** (1) [374514](https://platzi.com/comentario/374514/) 
 
-	
 	como hace para seleccionar solo la palabra rebote, y dejarla como un comentario
 
-* **Carlos David Sanchez Moreno** (1)
+* **Carlos David Sanchez Moreno** (1) [369534](https://platzi.com/comentario/369534/) 
 
-	
 	Hice un cronometro que usa como motor las iteraciones de la animación.
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	    	<metacharset="UTF-8">
@@ -13576,9 +12048,8 @@ Justo lo que necesito. Gracias profe Leónidas
 	    
 	```
 
-* **Aufsten** (1)
+* **Aufsten** (1) [365665](https://platzi.com/comentario/365665/) 
 
-	
 	<!DOCTYPE html>  
 	<html lang=“es” dir=“ltr”>
 	
@@ -13607,8 +12078,7 @@ Justo lo que necesito. Gracias profe Leónidas
 	animation-delay: 5s;  
 	animation-iteration-count: infinite;  
 	animation-direction: alternate;
-	``` 
-	    }
+	```     }
 	     .l-columna.izq{
 	      transform-origin: right bottom;;  /*Le damos el origen inicial a la izquierda y abajo*/
 	      animation-name: animarColIzq, cambiarColorColumna;
@@ -13710,8 +12180,7 @@ Justo lo que necesito. Gracias profe Leónidas
 	<body>  
 	<div class=“container”>  
 	<div class=“linea l-base”>
-	``` 
-	    </div>
+	```     </div>
 	    <div class="linea l-columna izq">
 	    
 	    </div>
@@ -13730,32 +12199,27 @@ Justo lo que necesito. Gracias profe Leónidas
 	</body>
 	
 	</html>
-	``` 
-	    `<code>
+	```     `<code>
 	    
 	```
 
-* **David Vargas Domínguez** (1)
+* **David Vargas Domínguez** (1) [311174](https://platzi.com/comentario/311174/) 
 
-	
 	Que tal!
 	
 	Hice mi desafío. Una especie de bomberman xD
 	
 	<https://codepen.io/davos_/pen/OERgKM>
 
-* **jangove** (1)
+* **jangove** (1) [194472](https://platzi.com/comentario/194472/) 
 
-	
 	en js => ?
 
-* **Andrés Felipe Eslava Zuluaga** (1)
+* **Andrés Felipe Eslava Zuluaga** (1) [181547](https://platzi.com/comentario/181547/) 
 
-	
 	Haalloo. Les comparto.  
 	Tengo una observación que quisiera saber el por qué ocurre y si podría funcionar con otra cosa: ¿Por qué para hacer que se vaya rebotando mediante baja las escalas, sólo funciona si se configura así:
-	``` 
-	    from {
+	```     from {
 	              bottom: 0;
 	            }
 	            to {
@@ -13768,50 +12232,44 @@ Justo lo que necesito. Gracias profe Leónidas
 	?  
 	Sucede que probé `transform: translateY(XXXpx)` y lo que hace es llevar el cuadrado hacia abajo. Pienso que al ser un `@keyframe` y al hacer el reemplazo por JS no permite que se ejecuten dos animaciones al tiempo, sino que es mejor configurar en la animación otra propiedad. Estoy en lo cierto? Por favor me corrigen. Gracias - Leonidas es el mejor.
 
-* **Daniel Esteban Santos Mendez** (1)
+* **Daniel Esteban Santos Mendez** (1) [82065](https://platzi.com/comentario/996622/) 
 Cuando se encadena la animación con JS la ‘escalera’ omite los px que se le dieron en el @keyframe escalera, transform: translateY(), y t...
 
-* **DavidArmandoVelazquez** (1)
+* **DavidArmandoVelazquez** (1) [66514](https://platzi.com/comentario/708583/) 
 ¿Al poner console.log(event); lo que aparece en la consola es el nombre del evento: animationend?
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [66514] (1)
 
-		
 		Si, te saldrá los eventos que quieras mostrar en el `log`
 
-* **agustiniturbee** (1)
+* **agustiniturbee** (1) [64647](https://platzi.com/comentario/679665/) 
 En que curso puedo aprender sobre los eventos en JS?
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [64647] (2)
 
-		
 		<https://platzi.com/clases/fundamentos-javascript/>
 		
 		Y próximamente:  
 		<https://platzi.com/clases/javascript-profesional/>
 
-* **marcos-nabukodonosor** (1)
+* **marcos-nabukodonosor** (1) [59039](https://platzi.com/comentario/585899/) 
 necesito empezar la animacion cuando el scrollY llegue a determinado punto como hago eso_?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [59039] (1)
 
-		
 		Programa un EventListener y cuando el scrollY esté entre ciertos valores le pides que haga lo que tu quieras 😅…
 
-* **Danielespinozar** (1)
+* **Danielespinozar** (1) [50229](https://platzi.com/comentario/477257/) 
 Buenas! una consulta. El script sabe que cuando termina la animación de rebote, inicia la de escalera porque en el JS se lo estamos dicie...
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [50229] (1)
 
-		
 		JS sabe que la animacion termina ahi por animation-duration y tambien por el animation-iteration-count que se declara.
 
-* **victorAguilera** (0)
+* **victorAguilera** (0) [286087](https://platzi.com/comentario/286087/) 
 
-	
 	Esto se parece mas a una escalera.
-	``` 
-	    		@keyframes escalera {
+	```     		@keyframes escalera {
 	    			from {
 	    				bottom: 0;
 	    			}
@@ -13822,7 +12280,7 @@ Buenas! una consulta. El script sabe que cuando termina la animación de rebote,
 	    
 	```
 
-## 0150. Optimizar render con will-change y developer tools
+## 0150. Optimizar render con will-change y developer tools [6834](https://platzi.com/clases/1103-animaciones-web/6834-optimizar-render-con-will-change-y-developer-tools/)
 
 ### Descripción:
 
@@ -13834,34 +12292,28 @@ Inspeccionando desde la consola del navegador los elementos web podemos ver las 
 
 ### Comentarios:
 
-* **ecmanrique** (18)
+* **ecmanrique** (18) [176598](https://platzi.com/comentario/176598/) 
 
-	
 	Acabo de leer que no siempre es recomendable usar will-change <https://developer.mozilla.org/en/docs/Web/CSS/will-change>. Leonidas nos puedes comentar en que casos es idoneo?
 
-	* **Leonidas Esteban Gonzalez** (30)
+	* **Leonidas Esteban Gonzalez** [176598] (30)
 
-		
 		Por supuesto, will change es genial en transformaciones y opacity pero no tendrá el mismo rendimiento cambiando altos o anchos, estos siempre invocaran un re render
 
-	* **Hdas** (1)
+	* **Hdas** [176598] (1)
 
-		
 		Muchas gracias
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [176598] (1)
 
-		
 		Gracias Leonidas
 
-	* **jesus-gallardo** (1)
+	* **jesus-gallardo** [176598] (1)
 
-		
 		Muy bueno !
 
-* **pablojorgeandres** (12)
+* **pablojorgeandres** (12) [497770](https://platzi.com/comentario/497770/) 
 
-	
 	## [Optimizar render con will-change y developer tools](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase15)
 	
 	Con los developer tools de Chrome podemos verificar varias cosas en las animaciones con CSS3; podemos incluso probar cambios y optimizar el rendering.
@@ -13878,8 +12330,7 @@ Inspeccionando desde la consola del navegador los elementos web podemos ver las 
 	Dicho esto los recursos para los que `will-change`está optimizado son `opacity` y `transform` aunque mozilla agrega [otros](https://developer.mozilla.org/es/docs/Web/CSS/will-change).
 	
 	Sintaxis ejemplo:
-	``` 
-	        .cuadrado {
+	```         .cuadrado {
 	            width: 200px;
 	            height: 200px;
 	            background-color: #000;
@@ -13896,97 +12347,79 @@ Inspeccionando desde la consola del navegador los elementos web podemos ver las 
 	    
 	```
 
-	* **Hdas** (2)
+	* **Hdas** [497770] (2)
 
-		
 		Muchas gracias
 
-	* **diegasho** (2)
+	* **diegasho** [497770] (2)
 
-		
 		buen aporte!!
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [497770] (1)
 
-		
 		¿Cómo haces captura de eso, amigo?
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [497770] (1)
 
-		
 		quieres decir que si uso will-change en firefox tengo problemas??
 
-	* **Luis Xavier Perez Miramontes** (1)
+	* **Luis Xavier Perez Miramontes** [497770] (1)
 
-		
 		Excelente aporte amigo!
 
-* **Erick Neftalí Sarmiento Cortes** (6)
+* **Erick Neftalí Sarmiento Cortes** (6) [182493](https://platzi.com/comentario/182493/) 
 
-	
 	Esto se pone cada vez mas bueno, gracias
 
-	* **Leonidas Esteban Gonzalez** (8)
+	* **Leonidas Esteban Gonzalez** [182493] (8)
 
-		
 		Ahora viene lo chido!
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [182493] (1)
 
-		
 		Jaajaa
 
-* **Alejo Fonseca** (5)
+* **Alejo Fonseca** (5) [648320](https://platzi.com/comentario/648320/) 
 
-	
 	La propiedad CSS sugiere a los navegadores cómo se espera que cambie un elemento. Los navegadores pueden configurar optimizaciones antes de que un elemento sea realmente cambiado. will-change Este tipo de optimizaciones puede aumentar la capacidad de respuesta de una página al realizar un trabajo potencialmente costoso antes de que sea realmente necesario.  
 	**Importante:** will-change está destinado a ser utilizado como último recurso para tratar de resolver los problemas de rendimiento existentes. No debe utilizarse para anticipar problemas de rendimiento.
 
-	* **alisterdiazd** (1)
+	* **alisterdiazd** [648320] (1)
 
-		
 		muy bien
 
-* **antoniogongora** (5)
+* **antoniogongora** (5) [369858](https://platzi.com/comentario/369858/) 
 
-	
 	Will-change: nos ayuda a comunicarle al navegador desde que se carga por 1era vez que el elemento va a ejecutar algún cambio/animación.
 
-	* **Hdas** (1)
+	* **Hdas** [369858] (1)
 
-		
 		para renderizar el futuro XD
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [369858] (1)
 
-		
 		Gracias por el aporte
 
-* **Diego Ezequiel Medina** (5)
+* **Diego Ezequiel Medina** (5) [166144](https://platzi.com/comentario/166144/) 
 
-	
 	Excelente clase ! Realmente se aprende mucho sobre la optimización de las animaciónes , como tambien el uso completo de las developer tools
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [166144] (4)
 
-		
 		Esto es algo que muchas veces olvidamos y si le damos importancia podemos mejorar mucho la experiencia de nuestros usuarios
 
-* **Cristian Orozco Benjumea** (4)
+* **Cristian Orozco Benjumea** (4) [477279](https://platzi.com/comentario/477279/) 
 
-	
 	“Las propiedades optimizadas son **opacity** y **transformaciones**.  
 	Las transformaciones son esenciales dentro del mundo de las animaciones porque están pre-optimizadas para que se puedan ejecutar y no hayan cambios drásticos dentro del navegador, es decir que haya una _acelaración por hardware_ y el navegador nos de lo mejor de sí para que ese render ocurra y se vea una animación totalmente fuida.”
 
-* **julian orrego** (3)
+* **julian orrego** (3) [827730](https://platzi.com/comentario/827730/) 
 
-	
 	Les dejo este post donde se sugiere evitar animar propiedades que activen diseño o pintura y limitar las animaciones a las propiedades opacity y transform, ya que los navegadores pueden optimizar estas últimas con mayor facilidad.  
 	<https://developers.google.com/web/fundamentals/design-and-ux/animations/animations-and-performance?hl=es>
 
-* **Fco Castro** (3)
+* **Fco Castro** (3) [487900](https://platzi.com/comentario/487900/) 
 
-	
 	Transform no necesita will-change.  
 	Transform está precargado en el navegador.  
 	El navegador ya espera un transform aunque no vaya a suceder el mismo.  
@@ -13999,117 +12432,97 @@ Inspeccionando desde la consola del navegador los elementos web podemos ver las 
 	En general, contamos con un transform como recurso superoptimizado.  
 	I love transform.
 
-	* **Hdas** (1)
+	* **Hdas** [487900] (1)
 
-		
 		Gracias que buen dato
 
-* **Bryan Estiven Silva Mercado** (2)
+* **Bryan Estiven Silva Mercado** (2) [458985](https://platzi.com/comentario/458985/) 
 
-	
 	Excelente que hayamos usado la consola , había todo un mundo que desconocía
 
-* **paulo silva  silva** (2)
+* **paulo silva  silva** (2) [281044](https://platzi.com/comentario/281044/) 
 
-	
 	gracias! estos tipos de tips no se encuentran facilmente 😃
 
-	* **Hdas** (1)
+	* **Hdas** [281044] (1)
 
-		
 		Muy buena clase
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [281044] (1)
 
-		
 		Definitivamente
 
-* **TheGh0st** (2)
+* **TheGh0st** (2) [202340](https://platzi.com/comentario/202340/) 
 
-	
 	Muchísimas gracias por enseñarnos estas herramientas !!! muy muy útiles… excelente :3
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [202340] (3)
 
-		
 		Con mucho gusto, me alegra que te este sirviendo el curso. Ahora vamos hasta aprobar todo el curso
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1043174](https://platzi.com/comentario/1043174/) 
 
-	
 	Cuando creamos animaciones con CSS siempre debemos tener en cuenta el peso de procesamiento que esta puede generar en el navegador, haciendo nuestro sitio web más lento, por eso siempre deberemos estar pendiente de la renderización y su tiempo de carga, Google Chrome nos ofrece dos herramientas para conocer estos datos, animations y rendering, donde podemos ver exactamente cual es el peso de cada animación y cuando se ejecuta.  
 	Por lo general, el navegador suele renderizar cada vez que hay un cambio en la pantalla, cada vez que esto sucede, la memoria del navegador necesita de mas potencia, es decir, consume recursos lo que puede hacer nuestro sitio mas lento, pero CSS nos ofrece la propiedad Will-change, para definir que propiedades cambiaran del elemento, esto le indicara al navegador que cierto elemento cambiara, lo cual le permitirá al navegador preprocesar este cambio para ahorrar recursos y memoria y así obtener una navegación más estable.
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984524](https://platzi.com/comentario/984524/) 
 
-	
 	Inspeccionando desde la consola del navegador los elementos web podemos ver las propiedades de las animaciones y el render y visualizar nuevas modificaciones.
 
-* **Wuilfredo Azócar** (1)
+* **Wuilfredo Azócar** (1) [922611](https://platzi.com/comentario/922611/) 
 
-	
 	He probado el ejemplo de esta clase y tengo algunas dudas: Al colocar que cambie solo 1 propiedad (bien sea el opacity o el transform) **_sin_** el wil-change si me sale que hay un repinteo volviéndose a dibujar el circulo en color verde. Luego de esto probé agregarle el wil-chance solo al transform y ya no repintaba (aun estando la propiedad opacity). Entonces:
 	
 	Si las propiedades transform y opacity están optimizadas porque si no agrego el wil-change al hacer el hover se repintea el elemento?
 	
 	Porque al agregar una propiedad en dicho ejemplo bien sea el opacity o el transform ya no se sigue repintado si he omitido otra propiedad?
 
-* **PabloGM** (1)
+* **PabloGM** (1) [832204](https://platzi.com/comentario/832204/) 
 
-	
 	Tendré Que repasar el video 14 de nuevo ya que no consigo que me funcione el GetElemntbyId.
 
-	* **OscarPalomino** (1)
+	* **OscarPalomino** [832204] (1)
 
-		
 		de pronto por el nombre, es
-		``` 
-		    document.getElementById('elemento');
+		```     document.getElementById('elemento');
 		    
 		```
 		
 		Ahora, si lo tienes bien, y no te funcione, es por el nombre que le pusiste al listener, a mi me pasó, el listener NO puede contener letras capitales, o sea, mayúsculas.
-		``` 
-		    $cuadrado.addEventListener('animationEnd', (evento) => {
+		```     $cuadrado.addEventListener('animationEnd', (evento) => {
 		            console.log(evento); -> Esto no funcionará.
 		    $cuadrado.addEventListener('animationend', (evento) => {
 		            console.log(evento); -> Esto sí funcionará.
 		    
 		```
 
-* **Mateo Aquino** (1)
+* **Mateo Aquino** (1) [831871](https://platzi.com/comentario/831871/) 
 
-	
 	Hola, a mi no me genera ningun cambio will-change. Es mas, VSC no de detecta opacity y transform, en el inspector no me aparece tachado como si fuera invalido pero tampoco desaparece el fondo verde, y me continua consumiendo recursos
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [821431](https://platzi.com/comentario/821431/) 
 
-	
 	Muy emocionante curso.
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [621279](https://platzi.com/comentario/621279/) 
 
-	
 	 **Anotaciones**  
 	A través del inspector de elementos podemos visualizar herramientas de ayuda para las animaciones y el rendering del navegador. Para activar estas herramientas podemos dar clic en el menú del costado superior derecho de Chrome en el inspector de elementos.
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597338](https://platzi.com/comentario/597338/) 
 
-	
 	 ** _el navegador de leonidas hizo BUUUM_**
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [486631](https://platzi.com/comentario/486631/) 
 
-	
 	No logro que se pinten los bordes de la naranja.  
 	.  
 	![Captura de pantalla 2019-01-22 a las 8.20.11.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-01-22%20a%20las%208.20.11-172d655a-f3a8-4b31-bb6c-703eb08d2409.jpg).  
 	Y sin embargo se me llena de cuadrícula el escenario.  
 	¿Qué estoy haciendo mal?
 
-	* **Mon Avellaneda** (1)
+	* **Mon Avellaneda** [486631] (1)
 
-		
 		Hola ,
 		
 		Si pones tu código seguro que otros estudiantes te ayudan a ver qué está sucediendo.
@@ -14118,66 +12531,55 @@ Inspeccionando desde la consola del navegador los elementos web podemos ver las 
 		
 		Mon
 
-* **CarlosAlba** (1)
+* **CarlosAlba** (1) [384291](https://platzi.com/comentario/384291/) 
 
-	
 	Eso significa que bien podría usar en la transición de un menú responsivo el Will Change, cierto?
 
-	* **CarlosAlba** (1)
+	* **CarlosAlba** [384291] (1)
 
-		
 		Oohhh no, ya veo, es para opacity y transformaciones.
 
-* **Freddy Córdova Arana** (1)
+* **Freddy Córdova Arana** (1) [357206](https://platzi.com/comentario/357206/) 
 
-	
 	Google Chrome es fascinante !
 
-	* **irma-davila** (1)
+	* **irma-davila** [357206] (1)
 
-		
 		definitivamente!
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [351907](https://platzi.com/comentario/351907/) 
 
-	
 	Esto esta genial 😄
 	
 	Ni siquiera imaginaba que esto existia 😮
 
-* **Jorge-Delfino** (1)
+* **Jorge-Delfino** (1) [351470](https://platzi.com/comentario/351470/) 
 
-	
 	¡Muy poderosa la clase!
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [351470] (1)
 
-		
 		Leonidas es el mejor
 
-* **Alexis** (1)
+* **Alexis** (1) [212922](https://platzi.com/comentario/212922/) 
 
-	
 	Excelente curso! Una pregunta sí, para término de recursos, seguridad o lo que sea, es mejor tener las animaciones con css o mejos desde js crear el canvas? o también depende del caso?’
 	
 	Saludos!
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [212922] (5)
 
-		
 		Cavas solo úsalo si necesitas algo especial del canvas, como mapear una imagen o dibujar en tiempo real. Si la animación la puedes hacer con CSS hazla con CSS
 
-	* **Hdas** (1)
+	* **Hdas** [212922] (1)
 
-		
 		Gracias por la aclaración
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [51040](https://platzi.com/comentario/486631/) 
 No logro que se pinten los bordes de la naranja. . . Y sin embargo se me llena de cuadrícula el escenario. ¿Qué estoy haciendo mal?
 
-	* **Mon Avellaneda** (1)
+	* **Mon Avellaneda** [51040] (1)
 
-		
 		Hola ,
 		
 		Si pones tu código seguro que otros estudiantes te ayudan a ver qué está sucediendo.
@@ -14186,15 +12588,14 @@ No logro que se pinten los bordes de la naranja. . . Y sin embargo se me llena d
 		
 		Mon
 
-* **CarlosAlba** (1)
+* **CarlosAlba** (1) [42198](https://platzi.com/comentario/384291/) 
 Eso significa que bien podría usar en la transición de un menú responsivo el Will Change, cierto?
 
-	* **CarlosAlba** (1)
+	* **CarlosAlba** [42198] (1)
 
-		
 		Oohhh no, ya veo, es para opacity y transformaciones.
 
-## 0160. Propiedades animables
+## 0160. Propiedades animables [6835](https://platzi.com/clases/1103-animaciones-web/6835-propiedades-animables/)
 
 ### Descripción:
 
@@ -14207,161 +12608,133 @@ Existen muchas propiedades de los elementos web que se pueden animar, descarga e
 
 ### Comentarios:
 
-* **Iván Darío Sánchez Jiménez** (64)
+* **Iván Darío Sánchez Jiménez** (64) [231907](https://platzi.com/comentario/231907/) 
 
-	
 	Les comparto mi animación, algo de formas desplazandose y transformandose.
 	
 	[Animación de formas](https://codepen.io/cosmosoftroot/full/ZvWZEp/)
 
-	* **deveeup** (6)
+	* **deveeup** [231907] (6)
 
-		
 		Está cri-cri criminal :p
 
-	* **exequiel_gomez** (0)
+	* **exequiel_gomez** [231907] (0)
 
-		
 		Buenìsimo
 
-	* **Alan Santiago** (3)
+	* **Alan Santiago** [231907] (3)
 
-		
 		Quede hipnotizado 😮
 
-	* **Enyelber Altube** (1)
+	* **Enyelber Altube** [231907] (1)
 
-		
 		Bien
 
-	* **AlxSan** (2)
+	* **AlxSan** [231907] (2)
 
-		
 		Está genial!! hubiera estado excelente que los círculos no botarán al mismo tiempo, eso se hubiera visto muy bien también!
 
-	* **Iván Darío Sánchez Jiménez** (2)
+	* **Iván Darío Sánchez Jiménez** [231907] (2)
 
-		
 		AlxSan lo tendré en cuenta para una versión.
 
-	* **Hdas** (1)
+	* **Hdas** [231907] (1)
 
-		
 		Tremenda animación muy buen aporte
 
-	* **Pmartinez** (1)
+	* **Pmartinez** [231907] (1)
 
-		
 		Que bien
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [231907] (1)
 
-		
 		Te quedo muy bien
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [231907] (1)
 
-		
 		Impresionante!
 
-	* **david1906** (1)
+	* **david1906** [231907] (1)
 
-		
 		Muy cool.
 
-	* **jesus-gallardo** (1)
+	* **jesus-gallardo** [231907] (1)
 
-		
 		Quedo increible
 
-* **Emilio Rafael Hernandez Perez** (21)
+* **Emilio Rafael Hernandez Perez** (21) [189882](https://platzi.com/comentario/189882/) 
 
-	
 	Dejo mi aporte de animación, lo pueden ver tambien en [Codepen](https://codepen.io/emilio2505/pen/OjEJBV)
 	
 	y en GitHub  
 	<https://github.com/emiliowd/animation-planet>
 
-	* **Hdas** (1)
+	* **Hdas** [189882] (1)
 
-		
 		Buena animación
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [189882] (1)
 
-		
 		Me gusto tu animación
 
-* **Jonatan Ruben Sosa Caycay** (8)
+* **Jonatan Ruben Sosa Caycay** (8) [281141](https://platzi.com/comentario/281141/) 
 
-	
 	Hola, como están? les comparto mi desafió:
 	
 	Pacman [Codepen.io](https://codepen.io/jjonatansosa/pen/BrOpbG)
 
-* **Wuilfredo Azócar** (7)
-![Mi ejercicio](https://i.imgur.com/zxIxC4C.gif)
+* **Wuilfredo Azócar** (7) [936400](https://platzi.com/comentario/936400/) 
+	
+	![Mi ejercicio](https://i.imgur.com/zxIxC4C.gif)
 	
 	Aquí les dejo mi versión del desafío. Las propiedades que utilicé fueron: **margin-top** , **bottom** y **opacity**. Me base en usar **em** como unidades de medidas para que la animación que mueve el texto se vea bien en cualquier tamaño de fuente. A continuación dejo los links para visualizarlo o revisar el código.
 	
 	  * [Vista previa](https://wuilfredoaz.github.io/animate-3Propiedades/)
 	  * [Repositorio](https://github.com/WuilfredoAz/animate-3Propiedades)
-	
-	
 
-	* **Juan Ventrone** (1)
+	* **Juan Ventrone** [936400] (1)
 
-		
 		Como lograste que te funcione en ese cuadro?, usaste un Iframe?
 
-	* **Wuilfredo Azócar** (1)
+	* **Wuilfredo Azócar** [936400] (1)
 
-		
 		No, el cuadro es solo un div contenedor que use solo para fines estéticos y para usarlo como “regulador” del tamaño de fuente de las demás para el responsive.
 
-	* **Rodrigo Cuenca Mayuri** (1)
+	* **Rodrigo Cuenca Mayuri** [936400] (1)
 
-		
 		juanventrone para que desaparezca el texto en cada iteración usa el overflow:hidden
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [936400] (1)
 
-		
 		crack !!!
 
-* **david1906** (7)
+* **david1906** (7) [570398](https://platzi.com/comentario/570398/) 
 
-	
 	Hola, les comparto mi super animación de un** Péndulo de Newton**.
 	
 	Link: [Link A Péndulo](https://codepen.io/david1906/pen/rbqePz)
 	
 	**Contiene una Sorpresa, no te la pierdas.**
 
-	* **Juan mora** (1)
+	* **Juan mora** [570398] (1)
 
-		
 		jajaja excelente manejo de sorpresas 🤣
 
-	* **Camilo Andrés Santana Lizcano** (1)
+	* **Camilo Andrés Santana Lizcano** [570398] (1)
 
-		
 		Excelente ejemplo !
 
-	* **Daniel Hurtado** (1)
+	* **Daniel Hurtado** [570398] (1)
 
-		
 		Mejor imposible jajajaja
 
-* **Luis Miguel Ramos Hernández** (7)
+* **Luis Miguel Ramos Hernández** (7) [523075](https://platzi.com/comentario/523075/) 
 
-	
 	Les comparto mi animación un cubo rubik 3D  
 	<https://codepen.io/mickTesla/pen/vPOpVm>
 
-* **Alan Santiago** (6)
+* **Alan Santiago** (6) [352031](https://platzi.com/comentario/352031/) 
 
-	
 	Yo hice una animación de la intro de Braking Bad 😄
 	
 	Codigo: <https://github.com/alan4dev/BreakingBadAnimation>  
@@ -14369,85 +12742,70 @@ Existen muchas propiedades de los elementos web que se pueden animar, descarga e
 	
 	PD: Si recargan la pagina de la animacion pueden escuchar la cancion de la intro 😃
 
-	* **Freddy Córdova Arana** (2)
+	* **Freddy Córdova Arana** [352031] (2)
 
-		
 		Cool !
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [352031] (1)
 
-		
 		Gracias Jaja 😃
 
-	* **Bryan Estiven Silva Mercado** (2)
+	* **Bryan Estiven Silva Mercado** [352031] (2)
 
-		
 		esta increíble
 
-	* **davidbr** (4)
+	* **davidbr** [352031] (4)
 
-		
 		404
 
-	* **Hdas** (2)
+	* **Hdas** [352031] (2)
 
-		
 		link roto
 
-* **SKILLON** (6)
+* **SKILLON** (6) [311285](https://platzi.com/comentario/311285/) 
 
-	
 	Acá dejo mi animación: [CODEPEN](https://codepen.io/andresv54/pen/mKOxQo)
 
-* **José Rubial** (6)
+* **José Rubial** (6) [305361](https://platzi.com/comentario/305361/) 
 
-	
 	mi ejercicio <https://codepen.io/franjorub/pen/dexLQo>
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [305361] (1)
 
-		
 		Te quedo genial 😄
 
-* **Daniel H. Guissepe** (5)
+* **Daniel H. Guissepe** (5) [649922](https://platzi.com/comentario/649922/) 
 
-	
 	Me animé a hacer esta pequeña animación, espero que les guste. Intenté optimizarla lo mejor que pude <https://dhguissepe.github.io/VenezuelaAnimation/>
 
-	* **conejo22** (1)
+	* **conejo22** [649922] (1)
 
-		
 		Excelente amigo… Maracay- Venezuela ❤️
 
-	* **durbonca** (1)
+	* **durbonca** [649922] (1)
 
-		
 		hola, se le puede agregar una animacion:
 		
 		animation-iteration-count: infinite;
 		
 		de un dolar que inicie from: bottom 0 pero que se valla a la parte de arriba del navegador y desaparezca? salu2
 
-* **Luis Angel José Portillo Arévalo** (4)
+* **Luis Angel José Portillo Arévalo** (4) [472100](https://platzi.com/comentario/472100/) 
 
-	
 	Una animación básica, pero me gustó porque se ve un poco minimalista:
 	
 	[Book animated](https://codepen.io/luisxxor/pen/XoBRmp)
 
-* **Freddy Córdova Arana** (4)
+* **Freddy Córdova Arana** (4) [361848](https://platzi.com/comentario/361848/) 
 
-	
 	Comparto mi animación de South Park
 	
 	[South Park Animation](https://freddycordovadd.github.io/southParkAnimation/)
 
-* **Willy Bardales** (4)
+* **Willy Bardales** (4) [171625](https://platzi.com/comentario/171625/) 
 
-	
 	Animación de pacman
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -14558,204 +12916,170 @@ Existen muchas propiedades de los elementos web que se pueden animar, descarga e
 	    
 	```
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [171625] (0)
 
-		
 		Te quedo muy buena la animacion!  
 		El codigo se te junto un poco para poder ejecutarlo tuve que espaciar muchas cosas
 
-	* **deveeup** (0)
+	* **deveeup** [171625] (0)
 
-		
 		Está bien chevere, aunque puedes subirlo a codepen 😄 para que sea más fácil de visualizar 😛
 
-* **Angel Infanti** (3)
+* **Angel Infanti** (3) [803732](https://platzi.com/comentario/803732/) 
 
-	
 	Acá mi reto, esta tematizado en **Halloween**. Disfruten: <https://camolio.github.io/animations/>  
 	![](https://i.imgur.com/H2FoAMe.png)
 
-* **samvarcia** (3)
+* **samvarcia** (3) [279581](https://platzi.com/comentario/279581/) 
 
-	
 	Hola les muestro mi animacion , que les parece <https://zamiijoke.github.io/reto-animaciones-1/> 😃
 
-	* **Bryan Estiven Silva Mercado** (1)
+	* **Bryan Estiven Silva Mercado** [279581] (1)
 
-		
 		404
 
-	* **Jehaann Manzanares** (1)
+	* **Jehaann Manzanares** [279581] (1)
 
-		
 		404
 
-* **Yomar Esteban Miranda Sarmiento** (3)
+* **Yomar Esteban Miranda Sarmiento** (3) [209668](https://platzi.com/comentario/209668/) 
 
-	
 	[Link](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) de propiedades que se pueden animar.
 
-	* **Hdas** (1)
+	* **Hdas** [209668] (1)
 
-		
 		Gracias
 
-* **Jaime Gonzalez** (2)
+* **Jaime Gonzalez** (2) [905908](https://platzi.com/comentario/905908/) 
 
-	
 	Allí va mi ¡pokeball!  
 	<https://codepen.io/jaime-gabriel-gonzalez/pen/mdypavB>
 
-	* **daniel-zurita** (2)
+	* **daniel-zurita** [905908] (2)
 
-		
 		Te quedó muy bien!
 
-* **guerrerorodrigo14** (2)
+* **guerrerorodrigo14** (2) [834772](https://platzi.com/comentario/834772/) 
 
-	
 	[https://codepen.io/rodrigo_g/pen/ExxJRvR](url)  
 	esta sencillo pero al menos tiene un bonito efecto  
 	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-c5159296-9b24-4c63-a94d-67db5b208d03.jpg)
 
-* **David Alejandro Mosquera Moreno** (2)
+* **David Alejandro Mosquera Moreno** (2) [818018](https://platzi.com/comentario/818018/) 
 
-	
 	Listo el reto > <https://j6yqe.csb.app/>  
 	![](http://i.imgur.com/amvZWjI.gif)
 
-* **yulyka** (2)
+* **yulyka** (2) [662254](https://platzi.com/comentario/662254/) 
 
-	
 	Mi reto, [Ping Pong clásico](https://codepen.io/yuly-ka3d/pen/LwNVBg)
 
-* **Iair Poloniecki** (2)
+* **Iair Poloniecki** (2) [559180](https://platzi.com/comentario/559180/) 
 
-	
 	El amanecer  
 	<https://iairpolo.github.io/amanecer/>
 
-* **irma-davila** (2)
+* **irma-davila** (2) [554136](https://platzi.com/comentario/554136/) 
 
-	
 	Hola hice esta [animación](https://codepen.io/irmaDevelop/pen/axZrvO)  
 	Corre perfecto, excepto que, el texto no debería subir ni perder la sombra al hacer que se junten las palabras.  
 	Alguien que me pueda ayudar please?
 
-	* **irma-davila** (4)
+	* **irma-davila** [554136] (4)
 
-		
 		Listo, ya quedó como lo quería:  
 		<https://codepen.io/irmaDevelop/pen/axZrvO>
 
-* **Mateo Gonzales Navarrete** (2)
+* **Mateo Gonzales Navarrete** (2) [523907](https://platzi.com/comentario/523907/) 
 
-	
 	Hola!
 	
 	Yo he hecho una animación al estilo de visualizador de música.  
 	<https://codepen.io/Pikksaar/pen/Geopda>
 
-* **Carmen Sánchez Salgado** (2)
+* **Carmen Sánchez Salgado** (2) [489527](https://platzi.com/comentario/489527/) 
 
-	
 	¡Qué tal comunidad!.. aquí mi animación:
 	
 	<https://eessm01.github.io/jupiter/>
 	
 	utilizando propiedades: box-shadow, scale, background-position, rotate, translate
 
-	* **Carmen Sánchez Salgado** (1)
+	* **Carmen Sánchez Salgado** [489527] (1)
 
-		
 		Con ayuda de este video que recomendaron: <https://youtu.be/u4n3fgUzJcQ>
 
-* **Jann Carlo Moreno Jiménez** (2)
+* **Jann Carlo Moreno Jiménez** (2) [471760](https://platzi.com/comentario/471760/) 
 
-	
 	Es súper básico pero anime la propiedad de background, border y border-radius :3  
 	<https://codepen.io/janncarlo/pen/jXpWjO>
 
-* **alejandroszg** (2)
+* **alejandroszg** (2) [430329](https://platzi.com/comentario/430329/) 
 
-	
 	Hola, les comparto mi animación. Transformaciones, cambios de color, medidas y bordes:  
 	[Propiedades Animables](https://codepen.io/alejandroszg/pen/JevNaM)
 
-* **EmilyViri** (2)
+* **EmilyViri** (2) [356534](https://platzi.com/comentario/356534/) 
 
-	
 	Plasme lo que tenía enfrente o sea unas lucecitas que encienden y apagan…
 	
 	[Luces](https://codepen.io/EmilyVi/full/qyGebQ/)
 
-* **Andrés Felipe Chaparro Grimaldo** (2)
+* **Andrés Felipe Chaparro Grimaldo** (2) [313522](https://platzi.com/comentario/313522/) 
 
-	
 	Aquí mi aporte [Animación web](https://dyabel03.github.io/animaciones_prt1/)
 
-* **Yefferson Guarnizo** (2)
+* **Yefferson Guarnizo** (2) [300318](https://platzi.com/comentario/300318/) 
 
-	
 	les comparto algo sencillito que hice.  
 	pasale el mouse tambien 😛  
 	[Animacion Sencilla](https://codepen.io/izofer/full/xjyrmY/)
 
-* **irma-davila** (2)
+* **irma-davila** (2) [56552](https://platzi.com/comentario/554136/) 
 Hola hice esta animación Corre perfecto, excepto que, el texto no debería subir n...
 
-	* **irma-davila** (4)
+	* **irma-davila** [56552] (4)
 
-		
 		Listo, ya quedó como lo quería:  
 		<https://codepen.io/irmaDevelop/pen/axZrvO>
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984529](https://platzi.com/comentario/984529/) 
 
-	
 	Existen muchas propiedades de los elementos web que se pueden animar, descarga el archivo y practica creando una animación con alguna de las propiedades que pueden ser animadas.
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [973479](https://platzi.com/comentario/973479/) 
 
-	
 	<https://caja-3d.netlify.com/>
 	
 	:v
 
-* **Edgardo Marcano** (1)
+* **Edgardo Marcano** (1) [904187](https://platzi.com/comentario/904187/) 
 
-	
 	Ya estoy fabricnado mi concepto de page personal, ahi va, aun falta. <https://codepen.io/edgardo-marcano/pen/oNgpZvg>
 	
 	Pd: no se veran las imagenes, pero luego lo subiré a github pages
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [900484](https://platzi.com/comentario/900484/) 
 
-	
 	Es increíble darse cuenta de todo lo que se puede llegar a modificar dentro de una página web. Excelente aporte.
 
-* **Rafael eduardo sanchez paz** (1)
+* **Rafael eduardo sanchez paz** (1) [853011](https://platzi.com/comentario/853011/) 
 
-	
 	Es algo sencillo.  
 	<https://codepen.io/juan-moriones/pen/qBEdGPe>
 
-* **PabloGM** (1)
+* **PabloGM** (1) [832229](https://platzi.com/comentario/832229/) 
 
-	
 	[Aquí](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties) Pueden entrar en la página que nos dio el tutor
 
-* **juandiego-acosta** (1)
+* **juandiego-acosta** (1) [755598](https://platzi.com/comentario/755598/) 
 
-	
 	mi challenge [https://juandiegoacostat.github.io/JuanDiegoAcostaT/](url)
 
-* **getaone** (1)
+* **getaone** (1) [753095](https://platzi.com/comentario/753095/) 
 
-	
 	el reto
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    
 	    <head>
@@ -14865,61 +13189,53 @@ Hola hice esta animación Corre perfecto, excepto que, el texto no debería subi
 	    
 	```
 
-* **Alfredo Gonzalez** (1)
-![Screen Shot 2019-08-24 at 19.51.21.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-24%20at%2019.51.21-d565ed43-0317-404a-904c-0bfbe429cf05.jpg)
+* **Alfredo Gonzalez** (1) [705908](https://platzi.com/comentario/705908/) 
+	
+	![Screen Shot 2019-08-24 at 19.51.21.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-24%20at%2019.51.21-d565ed43-0317-404a-904c-0bfbe429cf05.jpg)
 	
 	Mi animación :a :3
 
-	* **durbonca** (3)
+	* **durbonca** [705908] (3)
 
-		
 		y que hace?
 
-* **Esau Rosales** (1)
+* **Esau Rosales** (1) [656856](https://platzi.com/comentario/656856/) 
 
-	
 	Hola, hice una animacion usando HTML, CSS y Javascript
 	
 	[Pulso Animation](https://esaur22.github.io/excercisee/)
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [645423](https://platzi.com/comentario/645423/) 
 
-	
 	Aquí subo el repo de mi desafio. xD <https://github.com/alejandrohetaroi/CSS-Platzi-Projects/blob/master/index.html>
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [621308](https://platzi.com/comentario/621308/) 
 
-	
 	Excelente pagina de ayuda!
 
-* **Armando Duarte Quiñones** (1)
+* **Armando Duarte Quiñones** (1) [609539](https://platzi.com/comentario/609539/) 
 
-	
 	<https://codepen.io/surucobe/pen/ZNVMxE>  
 	algo pequeño pero divertido de hacer 😄
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597340](https://platzi.com/comentario/597340/) 
 
-	
 	 ** _😃_**
 
-* **Jhon_Marin** (1)
+* **Jhon_Marin** (1) [562016](https://platzi.com/comentario/562016/) 
 
-	
 	Aquí dejo el mio  
 	<https://yoned1996.github.io/Animacion-para-la-web/>
 
-* **Gabriel Andreí Barceló Alfaro** (1)
+* **Gabriel Andreí Barceló Alfaro** (1) [556223](https://platzi.com/comentario/556223/) 
 
-	
 	Hola comunidad de Platzi, aqui esta mi animacion  
 	<https://andreyalth.github.io/Animation/>  
 	Me base de este portafolio  
 	<http://www.rleonardi.com/>
 
-* **irvingmeyer** (1)
+* **irvingmeyer** (1) [549367](https://platzi.com/comentario/549367/) 
 
-	
 	Hasta aquí llegan las animaciones por CSS. Así que les dejo un resumen del curso para que sirva de guía a las futuras generaciones.
 	
 	**<https://1drv.ms/u/s!Arzk71O75YeXuXruFA6jRk-qId1A>**
@@ -14928,89 +13244,74 @@ Hola hice esta animación Corre perfecto, excepto que, el texto no debería subi
 	
 	Espero les sirva! =)
 
-	* **david1906** (1)
+	* **david1906** [549367] (1)
 
-		
 		Thanks 😉
 
-* **maria_paulina_aa** (1)
+* **maria_paulina_aa** (1) [543148](https://platzi.com/comentario/543148/) 
 
-	
 	Genial!
 
-* **Hdas** (1)
+* **Hdas** (1) [520745](https://platzi.com/comentario/520745/) 
 
-	
 	[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties](url)
 
-* **Hdas** (1)
+* **Hdas** (1) [520741](https://platzi.com/comentario/520741/) 
 
-	
 	[https://codepen.io/corpsehdas/pen/PLojZz](url)
 
-* **platzipcimx** (1)
+* **platzipcimx** (1) [514118](https://platzi.com/comentario/514118/) 
 
-	
 	Hola, les comparto mi [**Logo-Platzi-Animacion**](https://codepen.io/IsaelH/pen/pGVrYV).
 
-* **Juan Ponce** (1)
+* **Juan Ponce** (1) [512517](https://platzi.com/comentario/512517/) 
 
-	
 	Les comparto mi animación, aplicando los conocimientos en algo sencillo.
 	
 	[As Deck](https://eljuanii00.github.io/Animaciones_Para_La_Web/)
 
-* **Uralberto** (1)
+* **Uralberto** (1) [508004](https://platzi.com/comentario/508004/) 
 
-	
 	Lo siento, el enlace no quedó. Es de CodePen. A ver si ahora se puede ver.  
 	<https://codepen.io/Uralberto/pen/LqmJNX>
 
-* **Uralberto** (1)
+* **Uralberto** (1) [507988](https://platzi.com/comentario/507988/) 
 
-	
 	Bueno, aquí les comparto mi animación. Pude afianzar muchos conocimiento de CSS mientras la desarrollé. Espero les sea útil. Me cuentan.  
 	[](https://codepen.io/Uralberto/pen/LqmJNX)
 
-* **osvaldo-trejo** (1)
+* **osvaldo-trejo** (1) [502450](https://platzi.com/comentario/502450/) 
 
-	
 	Le comparto mi animaión es un ovni muy infantil.  
 	[Ovni](https://codepen.io/osvaldotr07/pen/vbempq)
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [500239](https://platzi.com/comentario/500239/) 
 
-	
 	Acá les dejo mi animación. Es un slide hecho solamente con CSS.  
 	Animación:  
 	[developerathome.tk](https://developerathome.tk/Store/platzi-exs/CSSAnimations-task2/)  
 	Código:  
 	[GitHub](https://github.com/pablojorgeandres/animation-slide/blob/master/index.html)
 
-* **davidricardo** (1)
+* **davidricardo** (1) [476305](https://platzi.com/comentario/476305/) 
 
-	
 	Les comparto mi ejercicio, no es la gran cosa pero me divertí haciéndolo: <https://codepen.io/keyeneye/pen/NeEaeJ>
 
-* **Efrén Sánchez** (1)
+* **Efrén Sánchez** (1) [387152](https://platzi.com/comentario/387152/) 
 
-	
 	Comparto el menu de busqueda que hize:[presiona aqui](https://codepen.io/efrensanchez/full/NLVXzo) si presionas el boton aparece la barra y si vuelves a presionar el fondo azul, desaparece
 
-	* **Hdas** (1)
+	* **Hdas** [387152] (1)
 
-		
 		Buen aporte
 
-* **Jesús Enrique Prieto Treviño** (1)
+* **Jesús Enrique Prieto Treviño** (1) [359813](https://platzi.com/comentario/359813/) 
 
-	
 	OMG!
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [341016](https://platzi.com/comentario/341016/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en"dir="ltr">
 	      <head>
 	        <metacharset="utf-8">
@@ -15085,31 +13386,26 @@ Hola hice esta animación Corre perfecto, excepto que, el texto no debería subi
 	    
 	```
 
-* **Teofilo Rosales Gama** (1)
+* **Teofilo Rosales Gama** (1) [280352](https://platzi.com/comentario/280352/) 
 
-	
 	aqui esta mi proyecto <https://codepen.io/KOLEN94/pen/EEREzw> no es mucho y ay cosas que mejorar y espero sus opiniones
 
-* **Joel suarez** (1)
+* **Joel suarez** (1) [186605](https://platzi.com/comentario/186605/) 
 
-	
 	No se por que no puedo colocar el codigo aqui, pero por si les interesa, en el enlace hay un ejercicio de un laberinto hecho con animaciones y controlandolas por js, para el que le pueda interesar.
 	
 	<https://github.com/thirty33/Laberinto-con-Animanciones>
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [186605] (0)
 
-		
 		Me encanta tu animacion, es tan perfecta!. Sigue asi!
 
-* **Andrés Felipe Eslava Zuluaga** (1)
+* **Andrés Felipe Eslava Zuluaga** (1) [182043](https://platzi.com/comentario/182043/) 
 
-	
 	Acá les dejo mi aporte. Espero que les pueda ayudar: <https://afelipelds.github.io/Animaciones-web/animation-reto.html>
 	
 	Tengo una pregunta que espero que alguien me la pueda solucionar- 1. Cómo hago reset en las animaciones?
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -15221,18 +13517,15 @@ Hola hice esta animación Corre perfecto, excepto que, el texto no debería subi
 	    
 	```
 
-	* **deveeup** (1)
+	* **deveeup** [182043] (1)
 
-		
 		Yo también estuve buscando como hacer reset, pero no conseguí.  
 		Lo que hice fue colocar la animación en una clase y le daba un classList.remove o classList.toggle
 
-* **Adrián Okri** (1)
+* **Adrián Okri** (1) [167319](https://platzi.com/comentario/167319/) 
 
-	
 	Bueno, aquí mi pequeño aporte.
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html>
 	    <head>
 	    	<metacharset="utf-8">
@@ -15294,12 +13587,11 @@ Hola hice esta animación Corre perfecto, excepto que, el texto no debería subi
 	    
 	```
 
-	* **Leonidas Esteban Gonzalez** (7)
+	* **Leonidas Esteban Gonzalez** [167319] (7)
 ![](https://media.giphy.com/media/3og0ISA9FJJQHjWJIA/giphy.gif)
 
-	* **Supervisa Project** (0)
+	* **Supervisa Project** [167319] (0)
 
-		
 		Hola! Os comparto lo que he implementado:
 		
 		[Animaciones con Mario Bros](https://github.com/vicmonmena/animaciones-para-la-web/blob/master/ejercicios/mario-bros.html)
@@ -15308,23 +13600,20 @@ Hola hice esta animación Corre perfecto, excepto que, el texto no debería subi
 		
 		Un saludo!
 
-* **Flavio Rico Mendez** (1)
+* **Flavio Rico Mendez** (1) [84756](https://platzi.com/comentario/1058112/) 
 Una pregunta, espero me las puedan resolver. ¿Cómo hago para que dos elementos estén en el mismo contenedor sin alterar el tamaño del mis...
 
-	* **nova12** (1)
+	* **nova12** [84756] (1)
 
-		
 		Para eso el contenedor padre le das position : relative, tylos contenedores hijos los que necesitas los dejas con position :absolute. ya a cada uno le das la posion que decess con left, top , botton, top
 
-* **eliasmmata** (1)
+* **eliasmmata** (1) [73332](https://platzi.com/comentario/832777/) 
 Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no recupera toda la opacidad. Probé con will-change y opacit...
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [73332] (2)
 
-		
 		Hey! Intenta esto:
-		``` 
-		    .comeback_blog:hover {
+		```     .comeback_blog:hover {
 		      transform: scale(1.25,1.25);
 		      opacity: 1;
 		      animation-play-state: paused;
@@ -15346,14 +13635,12 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 		
 		Y si no te resulta, nos puedes pasar el código de la animación también? 😄
 
-* **Freddy Valentin Iriza Lopez** (0)
+* **Freddy Valentin Iriza Lopez** (0) [371151](https://platzi.com/comentario/371151/) 
 
-	
 	<https://codepen.io/Firiza/pen/bxWbqG> aun en construcción, fruto de mi esfuerzo, gracias Leonidas
 
-* **EmilyViri** (0)
+* **EmilyViri** (0) [356532](https://platzi.com/comentario/356532/) 
 
-	
 	Creo que soy poco creativa, pero lo que tenía frente a mi eran unas lucecitas y es lo que trate de plasmar en mi animación…
 	
 	Algo hiper sencillo 😛
@@ -15362,10 +13649,9 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 	
 	Saludos
 
-* **sergio andres navarro melendez** (0)
+* **sergio andres navarro melendez** (0) [252849](https://platzi.com/comentario/252849/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <html>
 	      <head>
 	        <metacharset="utf-8">
@@ -15467,12 +13753,10 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 	
 	Alguien me dice por que la animación no mantiene la pelota??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [252849] (1)
 
-		
 		Cuando la animación termina vuelve al punto inicial osea a la forma de barra, una cosa que puedes hacer es definir desde javascript los nuevos estilos de la pelota, algo como esto
-		``` 
-		    elseif(ev === 'pelota') {
+		```     elseif(ev === 'pelota') {
 		            $barra.style.width = '5%';
 		            $barra.style.borderRadius = '50%';
 		            $barra.style.background = 'white';
@@ -15487,15 +13771,13 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 		    
 		```
 
-	* **sergio andres navarro melendez** (0)
+	* **sergio andres navarro melendez** [252849] (0)
 
-		
 		para que es el forwards???
 
-* **yend** (0)
+* **yend** (0) [210677](https://platzi.com/comentario/210677/) 
 
-	```
-	    <code>
+	```    <code>
 	    <styletype="text/css">
 	    
 	    		body{
@@ -15576,14 +13858,12 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 	    
 	```
 
-* **Cesar Octavio de Jesús Meza Carrillo** (0)
+* **Cesar Octavio de Jesús Meza Carrillo** (0) [195516](https://platzi.com/comentario/195516/) 
 
-	
 	No puedo subir mi codigo
 
-	* **Cesar Octavio de Jesús Meza Carrillo** (0)
+	* **Cesar Octavio de Jesús Meza Carrillo** [195516] (0)
 
-		
 		<!DOCTYPE html>  
 		<html lang=“en”>  
 		<head>  
@@ -15598,8 +13878,7 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 		color: white;  
 		font-family: Arial;  
 		}
-		``` 
-		      .container{
+		```       .container{
 		        border: 1px solid blue;
 		    
 		      }
@@ -15615,8 +13894,7 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 		height: 200px;  
 		background: #7dc900;  
 		margin: 20px;
-		``` 
-		      border-radius: 50%;
+		```       border-radius: 50%;
 		      transition: 0.3s; 
 		      
 		      display: flex;
@@ -15680,12 +13958,10 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 		</body>  
 		</html>
 
-* **Henry Castro Pinilla** (0)
+* **Henry Castro Pinilla** (0) [183797](https://platzi.com/comentario/183797/) 
 
-	
 	Algo simple pero tal vez a alguien le sirva.
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html lang="en">
 	    <head>
 	      <meta charset="UTF-8">
@@ -15841,12 +14117,10 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 	    
 	```
 
-* **Geraldyn Daniela Chirinos De Sousa** (0)
+* **Geraldyn Daniela Chirinos De Sousa** (0) [181688](https://platzi.com/comentario/181688/) 
 
-	
 	Aquí mi mini reto, es como un molino creo yo xD, Además sirve para apreciar al cambio de la propiedad perspective-origin y transform-origin 😄
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html>
 	    <head>
 	    	<title>Transformaciones y Cambio de la perspectiva</title>
@@ -15979,10 +14253,9 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 	    
 	```
 
-* **María del Carmen Ramírez Arana** (0)
+* **María del Carmen Ramírez Arana** (0) [171180](https://platzi.com/comentario/171180/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <html>
 	      <head>
 	        <metacharset="utf-8">
@@ -16054,12 +14327,12 @@ Hola! Hice una animación y cuando el cursor pasa por encima se detiene pero no 
 	    
 	```
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [171180] (1)
 ![](https://media.giphy.com/media/3o7bucnBFvIozgF6r6/giphy.gif)
 
-# Web Animations API (Animaciones en JS)
+# Web Animations API (Animaciones en JS) [1099]
 
-## 0170. element.animate
+## 0170. element.animate [6836](https://platzi.com/clases/1103-animaciones-web/6836-elementanimate/)
 
 ### Descripción:
 
@@ -16068,14 +14341,12 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 
 ### Comentarios:
 
-* **pablojorgeandres** (14)
+* **pablojorgeandres** (14) [500801](https://platzi.com/comentario/500801/) 
 
-	
 	## [element.animate](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase17)
 	
 	Puedo hacer también animaciones con `element.animate` que es una propiedad de JavaScript.
-	``` 
-	    $element.animate()
+	```     $element.animate()
 	    
 	```
 	
@@ -16085,24 +14356,19 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 	<h3>[La sintaxis](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API):</h3>
 	
 	Primero obtengo el elemento que quiero animar:
-	``` 
-	    const $element = document.getElementById('element')
+	```     const $element = document.getElementById('element')
 	    
 	```
 	
 	Luego le agrego el método `.animate()`:
-	``` 
-	    $element.animate()
+	```     $element.animate()
 	    
 	```
 	
 	`.animate()` recibe dos objetos:
 	
 	  * 1 - el objeto correspondiente al @keyframes:
-	
-	
-	``` 
-	      let keyFrames = [
+	```       let keyFrames = [
 	        // from
 	        { transform: 'rotate() translate()', color: '#xxxxxx' },
 	        // to
@@ -16113,10 +14379,7 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 	```
 	
 	  * 2 - un objeto correspondiente a las propiedades de animación:
-	
-	
-	``` 
-	      let animateProperties = {
+	```       let animateProperties = {
 	          duration: ms // CSS == animation-duration
 	          delay: ms  // CSS == animation-delay
 	          direction: // CSS == animation-direction
@@ -16131,8 +14394,7 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 	```
 	
 	Código completo:
-	``` 
-	        $element.animate(
+	```         $element.animate(
 	          keyFrames,
 	          animateProperties
 	        )
@@ -16144,124 +14406,99 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 	Notar que los dos objetos van separados por una ‘,’ simple.
 	
 	  * No hace falta generar variables.
-	
-	
 
-	* **Hdas** (2)
+	* **Hdas** [500801] (2)
 
-		
 		Gracias por la información
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [500801] (1)
 
-		
 		Gracias
 
-	* **Facundo Nicolás García Martoni (Platzi)** (1)
+	* **Facundo Nicolás García Martoni (Platzi)** [500801] (1)
 
-		
 		Te daría 100 likes si pudiera, excelente resumen!
 
-* **Edgardo Tupiño** (9)
+* **Edgardo Tupiño** (9) [177688](https://platzi.com/comentario/177688/) 
 
-	
 	Es notable para muchos que Safari es un navegador dificil de complacer. Al ver que “.animate” no es soportado por tal, lo mejor para un proyecto con animaciones es ir casi siempre por css. Aun asi siempre hay prefijos propietarios que agregar o incluso algunos que no son compatibles, pero en base a mi experiencia hay un mejor rango de aceptación en safari desde css que desde JS. Personalmente me parece el navegador mas engorroso despues de mi querido amigo “IE, ahora Edge”.
 
-	* **Samuel Marin** (5)
+	* **Samuel Marin** [177688] (5)
 
-		
 		Ahora si. Desde v11.1 Safari si puede usar animate.
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [177688] (2)
 
-		
 		Es tan engorroso que no estandaricen las cosas u.u
 
-	* **César Rotela** (1)
+	* **César Rotela** [177688] (1)
 
-		
 		Últimamente safari se volvió el nuevo IE
 
-* **henrytabimagiraldo** (7)
+* **henrytabimagiraldo** (7) [165210](https://platzi.com/comentario/165210/) 
 
-	
 	como es mejor hacer las animaciones, css o js?
 
-	* **Ricardo Azpeitia P.** (4)
+	* **Ricardo Azpeitia P.** [165210] (4)
 
-		
 		Cualquiera de los dos da igual.
 		
 		En caso que creas que las animaciones de CSS son mas rápidas porque usan el GPU recomiendo leer esto.  
 		<https://css-tricks.com/myth-busting-css-animations-vs-javascript/>
 
-	* **Leonidas Esteban Gonzalez** (22)
+	* **Leonidas Esteban Gonzalez** [165210] (22)
 
-		
 		En rendimiento es igual a menos que uses jQuery. Pero lo más importante aquí es la practicidad, muchas veces una animación se puede resolver con solo CSS y si ese es el caso recomiendo que vayas por ese camino mientras que algo muy custom requiere de muchos eventos y variaciones al punto de modificar constantemente una regla de css en ese caso javascript será tu salvador
 
-	* **Luis Enrique Galindo Arenas** (0)
+	* **Luis Enrique Galindo Arenas** [165210] (0)
 
-		
 		Sólo para que quede claro para todos, @LeonidasEsteban cuando dices que las animaciones con CSS o Javascript “En rendimiento es igual a menos que uses jQuery”, debemos suponer que son más lentas/pesadas o más rápidas/optimizadas usando jQuery? Muchas Gracias!
 
-	* **henrytabimagiraldo** (0)
+	* **henrytabimagiraldo** [165210] (0)
 
-		
 		creo que se refiere a que jquery las hace mas lentas/pesada
 
-	* **Jordi Santamaría Portolés** (5)
+	* **Jordi Santamaría Portolés** [165210] (5)
 
-		
 		basicamente, Jquery tal como comento leonidas en el curso de webpack, es una libreria que pesa mucho, si tu vas a incluir jquery para hacer algo que ya haces sin jquery, al pesar mas tu codigo, va a tardar mas a cargarse la pagina, asi que si puedes evitar usar jquery en tu proyecto, muchissimo mejor.
 
-	* **Hdas** (1)
+	* **Hdas** [165210] (1)
 
-		
 		Muchísimas gracias por la información que buen aporte
 
-	* **Davison Pimentel** (1)
+	* **Davison Pimentel** [165210] (1)
 
-		
 		Muy buen aporte
 
-* **Alan Santiago** (5)
+* **Alan Santiago** (5) [352736](https://platzi.com/comentario/352736/) 
 
-	
 	Link para ver que navegadores soportan **Web Animations API** :  
 	<https://caniuse.com/#search=web%20animations%20api>
 
-	* **Hdas** (1)
+	* **Hdas** [352736] (1)
 
-		
 		Gracias
 
-* **elias benitez** (5)
+* **elias benitez** (5) [268378](https://platzi.com/comentario/268378/) 
 
-	
 	por que no funciono el valor de “ **Infinity** ” ?
 
-	* **exequiel_gomez** (8)
+	* **exequiel_gomez** [268378] (8)
 
-		
 		Porque escribió mal “iterations”, se le escapó una “n”
 
-	* **Hdas** (1)
+	* **Hdas** [268378] (1)
 
-		
 		error de sintaxis
 
-	* **irma-davila** (1)
+	* **irma-davila** [268378] (1)
 
-		
 		menudo problema
 
-* **Jhon Alexander Perez Valencia** (4)
+* **Jhon Alexander Perez Valencia** (4) [597342](https://platzi.com/comentario/597342/) 
 
-	
 	 ** _JavaScript_**
-	``` 
-	    <script>
+	```     <script>
 	        const $pelota = document.getElementById('pelota');
 	    
 	        // element.animate(keyframes = [], option = {})
@@ -16288,17 +14525,14 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 	    
 	```
 
-* **julian orrego** (3)
+* **julian orrego** (3) [828588](https://platzi.com/comentario/828588/) 
 
-	
 	Noté que la animación de Leonidas no se reproduce infinitamente porque hay un error de sintaxis en la opción iterations: Infinity y lo escribió como interations.
 
-* **andrerivera** (3)
+* **andrerivera** (3) [389260](https://platzi.com/comentario/389260/) 
 
-	
 	lo descubri realmente no tiene importancia el signo de dolar =) me salen arcoirirs de los ojos =)
-	``` 
-	    <html>
+	```     <html>
 	        <head>
 	            <style>
 	                .caja{
@@ -16339,35 +14573,29 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 	    
 	```
 
-	* **ZylonZ** (5)
+	* **ZylonZ** [389260] (5)
 
-		
 		No es necesario el signo $ delante de una variable, pero para las personas que escribimos código en JS se nos queda como buena práctica hacerlo debido a que sabemos que una variable con el signo $ adelante guarda el valor de un elemento del DOM en todos sus casos, esto se nota más su uso cuando trabajas en equipo, aunque esto depende ya de ti como programador, saludos.
 
-	* **Hdas** (2)
+	* **Hdas** [389260] (2)
 
-		
 		Buena información gracias
 
-	* **Davison Pimentel** (2)
+	* **Davison Pimentel** [389260] (2)
 
-		
 		Muy buen aporte
 
-* **Fabian Gutierrez** (3)
+* **Fabian Gutierrez** (3) [168773](https://platzi.com/comentario/168773/) 
 
-	
 	Hola @LeonidasSteban como puedo reemplazar el 0% 25% o 100% de las animaciones creadas en css dentro de @keyframes??
 
-	* **Leonidas Esteban Gonzalez** (6)
+	* **Leonidas Esteban Gonzalez** [168773] (6)
 
-		
 		Muy buena pregunta, aún no se puede 😅 Pero es parte del API poder hacer esto solo que aún está en progreso lo que recomiendan en este momento es usar múltiples animaciones y concatenarlas, lo bueno de esto es que puedes tu programar esos keyframes en js tranquilamente solo requiere algo más de código. Si lo que necesitas hacer no necesita algo extra a lo que te brinda css sigue usándolo sin problema.
 
-	* **deveeup** (5)
+	* **deveeup** [168773] (5)
 
-		```
-		    $container = document.getElementById("container");
+		```    $container = document.getElementById("container");
 		    $pelota = document.getElementById("pelota");
 		    
 		    
@@ -16386,158 +14614,130 @@ En este vídeo vamos a aprender cómo podemos crear animaciones desde **JavaScri
 		    
 		```
 
-* **lmoran** (2)
+* **lmoran** (2) [793935](https://platzi.com/comentario/793935/) 
 
-	
 	Creando animaciones desde Javascript con el Element.animate:
 	
 	sintaxis:
 	
 	elemento.animate(Keyframe=[], option {});
 
-* **luis-carlos-zabala** (2)
+* **luis-carlos-zabala** (2) [575332](https://platzi.com/comentario/575332/) 
 
-	
 	Hola a todos, tengo una duda, ¿es necesario agregar $ delante de la constante que se está declarando?
-	``` 
-	    const pelota = document.getElementById('pelota')
+	```     const pelota = document.getElementById('pelota')
 	    
 	```
 	
 	ó
-	``` 
-	    const $pelota = document.getElementById('pelota')
+	```     const $pelota = document.getElementById('pelota')
 	    
 	```
 	
 	Saludos
 
-	* **Julio Cesar junior Rivera Pacaya** (1)
+	* **Julio Cesar junior Rivera Pacaya** [575332] (1)
 No es necesario puedes llamar a tu variable como gustes
 
-	* **Jesus Alejandro Niño Moreno** (3)
+	* **Jesus Alejandro Niño Moreno** [575332] (3)
 
-		
 		Hola Luis!, No es necesario pero es una practica que se utilizar por convencion, para saber cuales son las variables que representan a los elementos que tenemos en nuestra pagina, asi que es muy bueno aplicar dicha convencion, Saludos!
 
-	* **luis-carlos-zabala** (1)
+	* **luis-carlos-zabala** [575332] (1)
 
-		
 		Muchas gracias por sus aclaratorias.
 		
 		Saludos
 
-	* **Gtiseira** (1)
+	* **Gtiseira** [575332] (1)
 
-		
 		Las constantes en realidad se declaran en mayúscula por convención
 
-	* **conejo22** (1)
+	* **conejo22** [575332] (1)
 
-		
 		Las variables no se declaran en Mayúscula amigo, esto no es PHP … Primera vez que escucho eso en Js y ya tengo tiempo programando en dicho lenguaje .
 
-	* **conejo22** (1)
+	* **conejo22** [575332] (1)
 
-		
 		 **Las constantes** *
 
-* **luarsan** (2)
+* **luarsan** (2) [504802](https://platzi.com/comentario/504802/) 
 
-	
 	Estuve haciendo pruebas, y si agrego el código javascript desde un archivo externo no funciona la animación, pero si lo agrego directo en el html si funciona, lo probé en chrome y firefox, no se si esto se deba por parte de los navegadores o algo estoy haciendo mal ¿Alguien sabe exactamente por que pasa esto?.
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [504802] (2)
 
-		
 		El error más común es no poner bien la ruta del archivo css en el tag link. Puedes verificar si hay algún error a través de las Web Developer Tools tanto en chrome como en firefox.
 		
 		Comparte tu código y tal vez podamos ayudarte mejor.
 
-	* **luarsan** (1)
+	* **luarsan** [504802] (1)
 
-		
 		La ruta estaba correcta, si lo verifique, de hecho puse un alert(“hola mundo”); en el archivo Js para verificar que estuviera bien la ruta, pero seguía sin funcionar el animate, y solo copie y pegue el codigo en una etiqueta script dentro del mismo documento HTML y ya funciono, por eso se me hizo bastante extraño que dentro del mismo HTML el animate funcionara, pero como archivo de Js externo no.🤔
 
-	* **Sergio Minei** (1)
+	* **Sergio Minei** [504802] (1)
 
-		
 		Pásanos tu código para poder ayudarte mejor 😃
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [504802] (1)
 
-		
 		Yo trabaje en un archivo externo y me funcionó.
 
-* **CarlosAlba** (2)
+* **CarlosAlba** (2) [384297](https://platzi.com/comentario/384297/) 
 
-	
 	Esto esta genial! sobre todo considerando que PostCSS es más controlado desde JS, las animaciones van más a JS con las propiedades de CSS
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1046563](https://platzi.com/comentario/1046563/) 
 
-	
 	Para realizar animaciones web podemos usar las técnicas de CSS que ya vimos o JavaScript, JS también nos ofrece una funcionalidad que nos permite crear animaciones de una manera muy similar a CSS, esta funcionalidad se llama anímate, y recibe dos parámetros, el primer, es un arreglo de objetos indicando los estados de la animación, mientras que el segundo parámetro es un objeto con las reglas de la animación.  
 	Estas reglas son las mismas que en CSS, duration, delay, direction, easing, interations, fill. Pero recibe dos nuevas, iterationStart y endDelay, la primera especifica en qué momento la animación va a comenzar y la segunda determina cuanto tiempo se va a demorar en una animación en su último estado después de que toda la animación termine.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1038555](https://platzi.com/comentario/1038555/) 
 
-	
 	nice
 
-* **jorge-gianareas** (1)
+* **jorge-gianareas** (1) [984532](https://platzi.com/comentario/984532/) 
 
-	
 	En este vídeo vamos a aprender cómo podemos crear animaciones desde JavaScript con element.animate, que es parte de la especificación del API de animaciones de JavaScript.
 
-* **PabloGM** (1)
+* **PabloGM** (1) [833574](https://platzi.com/comentario/833574/) 
 
-	
 	Según Lo Que Dijiste De Los Navegadores, No Tengo Ni Chorme Ni Firefox, pero creo que tendré el mismo soporte con Brave 🐯🐯🐯.  
 	¿Qué Piensas?
 
-	* **Gabriel De Andrade (Platzi)** (5)
+	* **Gabriel De Andrade (Platzi)** [833574] (5)
 
-		
 		Realmente Brave corre el mismo motor de Chromium, que es básicamente la base de Chrome así que siempre que esté actualizado no deberías tener problema 😄
 
-* **PabloGM** (1)
+* **PabloGM** (1) [833563](https://platzi.com/comentario/833563/) 
 
-	
 	Excelente Clase.
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [822870](https://platzi.com/comentario/822870/) 
 
-	
 	Muy interesante!
 
-* **cgsalvador13** (1)
+* **cgsalvador13** (1) [760420](https://platzi.com/comentario/760420/) 
 
-	
 	Excelente clase!!!
 
-* **Camilo Tabares** (1)
+* **Camilo Tabares** (1) [752001](https://platzi.com/comentario/752001/) 
 
-	
 	Alguna librería gratuita para animar SVG, como lo haría greensock-DrawSVGPlugin?
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [752001] (1)
 
-		
 		No sé si [esta](https://svgartista.net) herramienta ayude.
 
-* **Enrique Felix Garcia Stave** (1)
+* **Enrique Felix Garcia Stave** (1) [621527](https://platzi.com/comentario/621527/) 
 
-	
 	 **Anotaciones**  
 	Se pueden animar elementos en CSS3 por medio de JavaScript a través de element.animate, el cual es un método que crea y reproduce una animación de algún selector especificado, lo que finalmente nos devuelve una instancia del objeto Animation.
 
-* **adrianmargni** (1)
+* **adrianmargni** (1) [497364](https://platzi.com/comentario/497364/) 
 
-	
 	Hola!!! me salta error en la line 33 que seria $pelota.animate([ agradezco su ayuda, ya que he cambiado de todo, a veces me aparecen errores en otras lineas tambien, aclaro que aun no se nada de JavaScript, aun no he dado el curso, pero sera el siguiente jeje, desde ya gracias por su ayuda
-	``` 
-	    <script>
+	```     <script>
 	            const $pelota = document.getElementById('pelota');
 	            $pelota.animate([
 	                {
@@ -16560,10 +14760,9 @@ No es necesario puedes llamar a tu variable como gustes
 	    
 	```
 
-	* **Wilson Marino Pablo Mendez** (2)
+	* **Wilson Marino Pablo Mendez** [497364] (2)
 
-		```
-		    <script>
+		```    <script>
 		            const $pelota = document.getElementById('pelota');
 		            $pelota.animate([
 		                {
@@ -16590,75 +14789,65 @@ No es necesario puedes llamar a tu variable como gustes
 		
 		Espero que sea eso el problema
 
-	* **Hdas** (1)
+	* **Hdas** [497364] (1)
 
-		
 		Es verdad son errores de sintaxis
 
-* **andrerivera** (1)
+* **andrerivera** (1) [389249](https://platzi.com/comentario/389249/) 
 
-	
 	la utilidad de el signo dolar es por que el quiere llamarlo asi o realmente es una regla, por que se parrece jquery
 
-	* **Carlos Francisco Betancourt Requena** (6)
+	* **Carlos Francisco Betancourt Requena** [389249] (6)
 
-		
 		Tengo entendido que se utiliza el signo de dolar como un buena practica, para identificar (dentro de javascript) las variables o constantes que hacen referencia a elementos del DOM.
 
-* **Erick Neftalí Sarmiento Cortes** (1)
+* **Erick Neftalí Sarmiento Cortes** (1) [182501](https://platzi.com/comentario/182501/) 
 
-	
 	para hacer la animación responsive tendría que cambiar los valores de inicio y fin de la animación por variables?
 
-	* **Jann Carlo Moreno Jiménez** (3)
+	* **Jann Carlo Moreno Jiménez** [182501] (3)
 
-		
 		como son translate, yo creeria que podrías usar unidades relativas al contenedor
 
-* **Byron Miguel Piedrahita Hernandez** (1)
+* **Byron Miguel Piedrahita Hernandez** (1) [62846](https://platzi.com/comentario/647260/) 
 Unos de los problemas que van aprendiéndoos a medida de que el conocimiento nos da mas herramientas de trabajo es que se pierde una estan...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [62846] (1)
 
-		
 		Todo depende de tu necesidad. Si definitivamente necesitas, por ejemplo, saber cuando tu animación termina para poner otra, no tienes de otra que usar JavaScript.
 
-* **luis-carlos-zabala** (1)
+* **luis-carlos-zabala** (1) [58302](https://platzi.com/comentario/575332/) 
 Hola a todos, tengo una duda, ¿es necesario agregar $ delante de la constante que se está declarando? const pelota = document.getEl...
 
-	* **Julio Cesar junior Rivera Pacaya** (1)
+	* **Julio Cesar junior Rivera Pacaya** [58302] (1)
 No es necesario puedes llamar a tu variable como gustes
 
-* **luarsan** (1)
+* **luarsan** (1) [52413](https://platzi.com/comentario/504802/) 
 Estuve haciendo pruebas, y si agrego el código javascript desde un archivo externo no funciona la animación, pero si lo agrego directo en...
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [52413] (2)
 
-		
 		El error más común es no poner bien la ruta del archivo css en el tag link. Puedes verificar si hay algún error a través de las Web Developer Tools tanto en chrome como en firefox.
 		
 		Comparte tu código y tal vez podamos ayudarte mejor.
 
-* **Lenin Vladimir Felix Torres** (0)
+* **Lenin Vladimir Felix Torres** (0) [221994](https://platzi.com/comentario/221994/) 
 
-	
 	Alguien que me pueda ayudar, me sale un problema en google chrome cuando intento correr la animacion:
 	
 	Uncaught DOMException: Failed to execute ‘animate’ on ‘Element’: Partial keyframes are not supported.
 	
 	Ayuda!!!
 
-	* **Jhonny Stiven Agudelo Tenorio** (0)
+	* **Jhonny Stiven Agudelo Tenorio** [221994] (0)
 
-		
 		Tengo el mismo problema, lo pudiste resolver
 
-	* **Rafael Jair Sanchez Alviso** (0)
+	* **Rafael Jair Sanchez Alviso** [221994] (0)
 
-		
 		Revisa la caja donde sucede el error, si es un error de JS te dice en que línea podría estar
 
-## 0180. Controlar animaciones
+## 0180. Controlar animaciones [6837](https://platzi.com/clases/1103-animaciones-web/6837-controlar-animaciones/)
 
 ### Descripción:
 
@@ -16667,77 +14856,65 @@ En este vídeo vamos a aprender cómo controlar todo el estado de nuestras anima
 
 ### Comentarios:
 
-* **Melina Jacqueline onoriaga** (73)
+* **Melina Jacqueline onoriaga** (73) [176869](https://platzi.com/comentario/176869/) 
 
-	
 	NO ME HE TOMADO EL TIEMPO DE HACERLO RESPONSIVE, pero aquí, vengo escribiendo casi todo a medida que avanzo en las clases, esta en particular ME ENCANTO!!  
 	les dejo el link 😃 <http://melonoriaga.esy.es/platzi-transition/>
 	
 	y una captura de mi parte favorita 😛  
 	![](http://melonoriaga.esy.es/platzi-transition/Screenshot_1.png)
 
-	* **Daniee** (1)
+	* **Daniee** [176869] (1)
 
-		
 		Muy buena web felicidades !
 
-	* **Leonidas Esteban Gonzalez** (6)
+	* **Leonidas Esteban Gonzalez** [176869] (6)
 
-		
 		Está súper genial, que bueno ver el resultado pasó a paso y esa puesta en práctica. Éxito con todo el curso y espero te siga gustando.
 
-	* **José Padrón** (2)
+	* **José Padrón** [176869] (2)
 
-		
 		Que buen diseño de página, se nota el tiempo y ganas que le has dedicado
 
-	* **AlbertoI** (1)
+	* **AlbertoI** [176869] (1)
 
-		
 		excelente trabajo, me encanto el Logo de Platzi
 
-	* **Melina Jacqueline onoriaga** (1)
+	* **Melina Jacqueline onoriaga** [176869] (1)
 
-		
 		gracias a todos!!!
 
-	* **nachoogoomez** (5)
+	* **nachoogoomez** [176869] (5)
 
-		
 		Wow! Increíble… Que buen (y bonito) resumen! Enhorabuena. El logo de platzi simplemente me enamoró. Trabajos como el tuyo aumentan la credibilidad de platzi en cuanto a calidad de enseñanza y calidad de la comunidad.
 
-	* **zalotesta** (5)
+	* **zalotesta** [176869] (5)
 
-		
 		Ups llegué tarde, no pude verlo. El hosting venció… 😦
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [176869] (1)
 
-		
 		llegué tarde x2
 
-	* **Melina Jacqueline onoriaga** (3)
+	* **Melina Jacqueline onoriaga** [176869] (3)
 
-		
 		Sii!! lo había subido a un hosting gratuito que tenia y ya murió el pobre!!! Después lo voy a buscar y subir a github 😉
 
-	* **jesus-gallardo** (2)
+	* **jesus-gallardo** [176869] (2)
 
-		
 		Subelo a GH-Pages
 
-	* **Jhon Alexander Perez Valencia** (2)
+	* **Jhon Alexander Perez Valencia** [176869] (2)
 
-		
 		el sitio ya no existe 😢
 
-	* **Melina Jacqueline onoriaga** (1)
+	* **Melina Jacqueline onoriaga** [176869] (1)
 
-		
 		he perdido ese proyecto, perdón 😦
 
-* **Wuilfredo Azócar** (15)
-![Mi ejercicio](https://i.imgur.com/O9Hqy7C.gif)
+* **Wuilfredo Azócar** (15) [942088](https://platzi.com/comentario/942088/) 
+	
+	![Mi ejercicio](https://i.imgur.com/O9Hqy7C.gif)
 	
 	Aquí les dejo mi versión del desafío. Realicé un tocadiscos de Vinyl. El cual contiene las propiedades de play, pause, aumentar velocidad, disminuir velocidad, indicador de velodidad y un botón para ir en reversa o revertir respectivamente la dirección. Todas las animaciones están echas con element.animate.
 	
@@ -16746,144 +14923,117 @@ En este vídeo vamos a aprender cómo controlar todo el estado de nuestras anima
 	
 	  * [Vista previa](https://wuilfredoaz.github.io/animateElement.animate/)
 	  * [Repositorio](https://github.com/WuilfredoAz/animateElement.animate)
-	
-	
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [942088] (1)
 
-		
 		Crack, esta genial tu animación !!
 
-* **David Fernandez Martin** (15)
+* **David Fernandez Martin** (15) [236687](https://platzi.com/comentario/236687/) 
 
-	
 	Aquí os dejo mi practica donde juego con la perspectiva. Lo único que solo funciona bien el google Chrome y Opera, supongo que por el elemento.animate.
 	
 	<https://daviferm.github.io/Cubo3d-perspective/>
 
-	* **Sebastian Jesús Bárcenas Reales** (1)
+	* **Sebastian Jesús Bárcenas Reales** [236687] (1)
 
-		
 		Joder tío que pasada has hecho.
 
-	* **exequiel_gomez** (0)
+	* **exequiel_gomez** [236687] (0)
 
-		
 		Es buenísimo!
 
-	* **pablojorgeandres** (3)
+	* **pablojorgeandres** [236687] (3)
 
-		
 		404
 
-	* **Hdas** (1)
+	* **Hdas** [236687] (1)
 
-		
 		link roto
 
-	* **luis-castro-bernales** (1)
+	* **luis-castro-bernales** [236687] (1)
 
-		
 		se rompio
 
-* **Carlos Jesús Fernández Salazar** (13)
+* **Carlos Jesús Fernández Salazar** (13) [423002](https://platzi.com/comentario/423002/) 
 
-	
 	Como desafío agregué **botones para regular la velocidad** de animación e hice que el **botón de pause y play sea el mismo** y cambie según necesidad.  
 	<https://codepen.io/Cajotafer/pen/qQmRKJ>
 
-	* **zalotesta** (2)
+	* **zalotesta** [423002] (2)
 
-		
 		Felicitaciones! muy bueno quedó.
 
-	* **Pablo Colqui** (2)
+	* **Pablo Colqui** [423002] (2)
 
-		
 		Esta muy piola, me gusta que cuando bajas demasiado la velocidad, comienza a ir para el otro lado. Genial!
 
-	* **Mariana Valencia** (3)
+	* **Mariana Valencia** [423002] (3)
 
-		
 		Me gustó mucho cómo haces que el botón play y pause sean el mismo 😄
 
-	* **Hdas** (2)
+	* **Hdas** [423002] (2)
 
-		
 		Buena animación
 
-	* **Kevin Humberto León Santamaria** (1)
+	* **Kevin Humberto León Santamaria** [423002] (1)
 
-		
 		Felicitaciones, muy bueno tu ejemplo, de los mejores en esta clase
 
-	* **Isaias Chávez** (1)
+	* **Isaias Chávez** [423002] (1)
 
-		
 		No se si te pasó pero yo no pude dejar de darle a más velocidad, fue como !Más poder¡
 
-* **Jonatan Ruben Sosa Caycay** (9)
+* **Jonatan Ruben Sosa Caycay** (9) [281164](https://platzi.com/comentario/281164/) 
 
-	
 	Hola, como están, el desafío del curso:
 	
 	Ovni: [Codepen.io](https://codepen.io/jjonatansosa/pen/qoMmmw)
 
-	* **Bryan Estiven Silva Mercado** (2)
+	* **Bryan Estiven Silva Mercado** [281164] (2)
 
-		
 		Muy bueno
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [281164] (2)
 
-		
 		Lindo ovni 😄
 
-	* **almudenaguerras** (1)
+	* **almudenaguerras** [281164] (1)
 
-		
 		Muy chulo!  
 		Te sugiero una pequeña mejora.  
 		Podrías sustituir:  
 		transform: 'translateX(1800px)'  
 		por
-		``` 
-		    transform:'translateX(100vw)'
+		```     transform:'translateX(100vw)'
 		    
 		```
 		
 		De este modo el recorrido del ovni siempre se adaptará al ancho de la pantalla 😉
 
-* **Victor Gutierrez Rivas** (7)
+* **Victor Gutierrez Rivas** (7) [177874](https://platzi.com/comentario/177874/) 
 
-	
 	Porque usa $ para declarar variables? sé que se puede pero es netamente por gusto?
 
-	* **Leonidas Esteban Gonzalez** (14)
+	* **Leonidas Esteban Gonzalez** [177874] (14)
 
-		
 		Es solo por estilo de código, la idea es que las variables que empiecen con $ son elementos del DOM y así cuando vuelves a leer el código será más fácil.
 
-	* **Victor Gutierrez Rivas** (1)
+	* **Victor Gutierrez Rivas** [177874] (1)
 
-		
 		Gracias sensei es seco ❤️ ! por cierto muy buen curso, aunque el de desarrollo web es el mejor 😄
 
-* **EmilyViri** (6)
+* **EmilyViri** (6) [358396](https://platzi.com/comentario/358396/) 
 
-	
 	Siguiente reto con una rueda, no la vean durante mucho tiempo, porque se pueden marear…
 	
 	[Rueda](https://codepen.io/EmilyVi/full/RBXdNg/)
 
-	* **Johan_Marcel** (2)
+	* **Johan_Marcel** [358396] (2)
 
-		
 		Te quedo muy bien. 😃
 
-* **Emilio Rafael Hernandez Perez** (6)
+* **Emilio Rafael Hernandez Perez** (6) [190049](https://platzi.com/comentario/190049/) 
 
-	
 	Hola, No conocía esta manera de controlar la animación por Javascript. pero he visto la temática del curso y tengo ganas de llegar a la parte de ReactJS, que no tengo ni idea de como es.
 	
 	Agrego mi aporte Animation-Rocket. cohete animado con botones  
@@ -16894,94 +15044,78 @@ En este vídeo vamos a aprender cómo controlar todo el estado de nuestras anima
 	
 	Un Saludo
 
-	* **Franklin Roldan** (1)
+	* **Franklin Roldan** [190049] (1)
 
-		
 		te quedo genial la animación…
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [190049] (1)
 
-		
 		que buen efecto el que le creaste a la combustión, me gustó
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [190049] (1)
 
-		
 		Muy bueno
 
-	* **irma-davila** (1)
+	* **irma-davila** [190049] (1)
 
-		
 		me gusta el fueguito
 
-	* **Nigtdreams** (1)
+	* **Nigtdreams** [190049] (1)
 
-		
 		Me gusta tu animación.
 
-* **David Alejandro Mosquera Moreno** (4)
+* **David Alejandro Mosquera Moreno** (4) [818923](https://platzi.com/comentario/818923/) 
 
-	
 	Listo el reto > <https://8scpj.csb.app/> basado en el anterior <https://j6yqe.csb.app/>  
 	![](https://i.imgur.com/XGgsCIZ.gif)
 
-* **luarsan** (4)
+* **luarsan** (4) [504990](https://platzi.com/comentario/504990/) 
 
-	
 	Aqui el desafio, la verdad creo que el código que hice es un millón de veces mas optimizable pero aun no se como jajaja😂.  
 	<https://codepen.io/luarzan/pen/xMpMzP>
 
-	* **Hdas** (1)
+	* **Hdas** [504990] (1)
 
-		
 		Que buena animación
 
-	* **Almu_timkerbell** (1)
+	* **Almu_timkerbell** [504990] (1)
 
-		
 		fuaaa, que trabajazo. Mis felicitaciones 😃
 
-	* **francia.va.or** (0)
+	* **francia.va.or** [504990] (0)
 
-		
 		Está genial!
 
-* **Henry Villavicencio** (3)
+* **Henry Villavicencio** (3) [840449](https://platzi.com/comentario/840449/) 
 
-	
 	Mi solución al reto =)  
 	![](https://i.ibb.co/D1pdMYy/Captura-de-Pantalla-2019-11-27-a-la-s-6-37-06-p-m.png)  
 	pueden ver el código [Aquí](https://codepen.io/henry-villavicencio/pen/yLLBEWQ)  
 	También les dejo el [zelda](https://codepen.io/henry-villavicencio/pen/jONxgMY) de una práctica de animaciones que usaba el pseudo-elemento ::before
 
-	* **lenielluzardo** (1)
+	* **lenielluzardo** [840449] (1)
 
-		
 		Me gusto mucho tu animacion, me diste una idea para hacer yo la [mia ](https://codepen.io/lenielluzardo/pen/qBEWzwQ)😁
 
-* **Andrew321q** (3)
+* **Andrew321q** (3) [597041](https://platzi.com/comentario/597041/) 
 
-	
 	He encontrado una pagina “simuladora” de muchas cositas en css  
 	Sombras, bordes etc que puede que les sirva de mucho  
 	<https://www.cssmatic.com/es/box-shadow>
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [597041] (1)
 
-		
 		gracias por el aporte
 
-* **pablojorgeandres** (3)
+* **pablojorgeandres** (3) [500868](https://platzi.com/comentario/500868/) 
 
-	
 	## [Controlar las animaciones](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase18)
 	
 	Podemos controlar el estado de la animación. Esto podemos hacerlo por medio de botones que disparen la función que queremos.  
 	Los métodos que tenemos disponibles podemos verlos en la variable ‘animate’ en la consola.
 	
 	Tomando el ejemplo de la clase anterior:
-	``` 
-	        const animation = $element.animate(
+	```         const animation = $element.animate(
 	          keyFrames,
 	          animateProperties
 	        )
@@ -17007,133 +15141,113 @@ En este vídeo vamos a aprender cómo controlar todo el estado de nuestras anima
 	    
 	```
 
-	* **Kevin Chipana Chucare** (2)
+	* **Kevin Chipana Chucare** [500868] (2)
 
-		
 		GRACIAS
 
-	* **Hdas** (2)
+	* **Hdas** [500868] (2)
 
-		
 		Gracias
 
-* **davidricardo** (3)
+* **davidricardo** (3) [477624](https://platzi.com/comentario/477624/) 
 
-	
 	Hola qué les comparto mi solución al reto:  
 	<https://codepen.io/keyeneye/full/pqqwWj>
 	
 	Qué tengan un bonito día
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [352777](https://platzi.com/comentario/352777/) 
 
-	
 	Yo solo le he cambiado algunos colores y estilos 😄
 	
 	Me quedo asi:  
 	![Screenshot from 2018-08-10 21-38-59.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-08-10%2021-38-59-78b040ea-0958-47e0-8ebc-efe5645fcc68.jpg)
 
-* **J Michael Hernández González** (2)
+* **J Michael Hernández González** (2) [914695](https://platzi.com/comentario/914695/) 
 
-	
 	Comparto mi animación  
 	<https://codepen.io/mdesigner/pen/ExaLyKZ>
 
-* **urieelmm** (2)
+* **urieelmm** (2) [848540](https://platzi.com/comentario/848540/) 
 
-	
 	Les comparto mi ejercicio 😄
 	
 	![1.png](https://static.platzi.com/media/user_upload/1-fad86167-dd7a-4a1b-8b1f-22d6231ce4a0.jpg)
 
-	* **andresazuara98** (1)
+	* **andresazuara98** [848540] (1)
 
-		
 		Te faltó agregar la ejecución de la animación, pero se ve muy interesante
 
-* **DavidArmandoVelazquez** (2)
+* **DavidArmandoVelazquez** (2) [727599](https://platzi.com/comentario/727599/) 
 
-	
 	Hice una página para practicar algunas animaciones basicas aqui el [link](https://davidvelazaquez.github.io/Navajo_Instruments/index.html)
 	
 	saludos!
 
-* **Alfredo Gonzalez** (2)
-![Screen Shot 2019-08-25 at 22.47.06.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-25%20at%2022.47.06-3167707a-7ff2-405f-88bd-9023dde5665c.jpg)
-
-* **Armando Duarte Quiñones** (2)
-
+* **Alfredo Gonzalez** (2) [707443](https://platzi.com/comentario/707443/) 
 	
+	![Screen Shot 2019-08-25 at 22.47.06.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-25%20at%2022.47.06-3167707a-7ff2-405f-88bd-9023dde5665c.jpg)
+
+* **Armando Duarte Quiñones** (2) [613300](https://platzi.com/comentario/613300/) 
+
 	<https://codepen.io/surucobe/full/NZWmLZ>
 
-* **Mateo Gonzales Navarrete** (2)
+* **Mateo Gonzales Navarrete** (2) [524644](https://platzi.com/comentario/524644/) 
 
-	
 	Hola!  
 	Esta es mi animación del péndulo de Newton:  
 	<https://codepen.io/Pikksaar/pen/KEVOmq>
 	
 	Los botones de Play & Pause son uno solo que se alternan según el estado de la animación. También se puede aumentar o disminuir la velocidad. 😃
 
-* **platzipcimx** (2)
+* **platzipcimx** (2) [520814](https://platzi.com/comentario/520814/) 
 
-	
 	Hola, les comparto mi trabajo.  
 	[Animacion JS](https://codepen.io/IsaelH/pen/XOwvWR)
 
-	* **Hdas** (1)
+	* **Hdas** [520814] (1)
 
-		
 		Stop no detiene la animación del logo
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [502519](https://platzi.com/comentario/502519/) 
 
-	
 	[Acá va](https://developerathome.tk/Store/platzi-exs/CSSAnimations-Task3/) el desafío (sólo desk)…
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [502519] (1)
 
-		
 		Muy bueno 👍
 
-	* **Hdas** (1)
+	* **Hdas** [502519] (1)
 
-		
 		Buena animación
 
-* **Jann Carlo Moreno Jiménez** (2)
+* **Jann Carlo Moreno Jiménez** (2) [471916](https://platzi.com/comentario/471916/) 
 
-	
 	este es mi reto donde le puedes ajustar la velocidad colocando valores entre 0 y 1 o incluso mas, si quieren poner valores inferiores a 1 colocan por ejemplo .2 y eso significaría que iría al 20% de la velocidad original.  
 	<https://codepen.io/janncarlo/pen/YdjNXm>
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [471916] (2)
 
-		
 		Muy bueno el efecto con velocidad = 90000.  
 		Y con velocidad = 9000000 te muestra 2 pelotas intermitentes =D
 
-	* **Hdas** (1)
+	* **Hdas** [471916] (1)
 
-		
 		psicodélica animación a esa velocidad
 
-* **Kevin Kleber Rivamontan Alvarado** (2)
+* **Kevin Kleber Rivamontan Alvarado** (2) [347443](https://platzi.com/comentario/347443/) 
 
-	
 	¿Qué pasa si al Will-change le pongo en “auto” ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [347443] (2)
 
-		
 		Prueba y nos cuentas que resultado obtuviste, esa es la mejor forma de aprender.
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [44446](https://platzi.com/comentario/408010/) 
 Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como naves espaciales y así alguna sujerencia?
 
-	* **Miguel Gil Rosas** (8)
+	* **Miguel Gil Rosas** [44446] (8)
 
-		
 		Hola.  
 		Podías probar a:
 		
@@ -17142,67 +15256,53 @@ Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como
 		  * Usar imágenes JPG, PNG o el que sea para los dibujos y moverlas por la pantalla con javascript.
 		  * O una combinación de lo anterior.
 		
-		
-		
 		Cuando tengas tus dibujos o figuras puedes usar javascript o animaciones o transformaciones CSS para moverlas o modificarlas.  
 		Espero te sirva, saludos.
 
-* **Flavio Rico Mendez** (1)
+* **Flavio Rico Mendez** (1) [1110484](https://platzi.com/comentario/1110484/) 
 
-	
 	Espero me puedan responder esta pregunta que he realizado en varias ocasiones. Cómo puedo alterar el texto que contiene un elemento, por ejemplo quisiera hacer que cuando se de pause ese mismo botón cambie y diga PLAY, ya sé cómo cachar lo que quiero, con un IF, sin embargo no sé como acceder a este campo de texto del elemento botón para alterarlo. No sé si eso es posible. Porque se ha enseñado como cambiar el color del fondo o del texto pero no a cambiar el contenido del texto. Por su respuesta gracias.
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1046594](https://platzi.com/comentario/1046594/) 
 
-	
 	Cuando utilizamos la funcionalidad anímate con un elemento en JS, este elemento obtendrá nuevas funciones que nos permitirá controlar la animación, las principales son play(), pause(), cancel(), reverse()
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [838716](https://platzi.com/comentario/838716/) 
 
-	
 	Excelente práctica!
 
-* **PabloGM** (1)
+* **PabloGM** (1) [834656](https://platzi.com/comentario/834656/) 
 
-	
 	Pregunta ¿es necesario escribir .btn para crear un boton?
 
-	* **Angel Infanti** (1)
+	* **Angel Infanti** [834656] (1)
 
-		
 		No Pablo btn es solo el nombre que se le dio a la clase en el ejemplo, para crear un boton se tiene que crear la etiqueta <button></button> desde html
 
-	* **Kevin Javier Morales (Platzi)** (1)
+	* **Kevin Javier Morales (Platzi)** [834656] (1)
 
-		
 		Hay diferentes formas de crear un botón con HTML. pero `.btn` es solo el nombre que se le dio a ese elemento para identificarlo con esa clase 😃
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [645447](https://platzi.com/comentario/645447/) 
 
-	
 	Dejo por aquí mi desafió <https://github.com/alejandrohetaroi/CSS-Platzi-Projects/blob/master/index.html>
 
-* **Jose Luis Colmenares** (1)
+* **Jose Luis Colmenares** (1) [602024](https://platzi.com/comentario/602024/) 
 
-	
 	Inicia la edición del código de JS
 
-* **Davermx** (1)
+* **Davermx** (1) [601029](https://platzi.com/comentario/601029/) 
 
-	
 	tengo una consulta… se pueden crear animaciones parecidas a la libreria animate.css y wow.js. lohe utilizado en algunas paginas, pero al parecer ha habido algunos bugs con la actualizacion de chrome. y ya no funciona la libreria.
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [601029] (1)
 
-		
 		claro que se puede, incluso puedes crear unas mejores si te lo propones.
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [585400](https://platzi.com/comentario/585400/) 
 
-	
 	¿Cómo haría para que la animación no arranque sóla al cargar la página? Logre hacerlo introduciendo la animación dentro del eventListener que le hicimos al botón play, esto hace que los otros botones no tengan acceso a la constante “animate” así que introduje todos los botones dentro del eventListener de play también. Esta solución me funciona pero me lanza muchos errores en la consola y produce un delay en la animación que aún no descubro su causa. ¿Existe alguna forma un poco más sencilla de hacer esto? ¿No puedo agregarle al element.animate alguna propiedad que haga que el estado inicial de la animación esté pausado? Voy a copiar mi solución rudimentaria para que la chequeen por si no me dí a entender bien:
-	``` 
-	    <script>
+	```     <script>
 	        const $ball = document.getElementById('ball')
 	    
 	        // element.animate(keyframes = [], option = {})
@@ -17246,85 +15346,69 @@ Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como
 	    
 	```
 
-	* **Esau Rosales** (1)
+	* **Esau Rosales** [585400] (1)
 
-		
 		Puedes intentar con esto. Colócalo al principio.
-		``` 
-		    $ball.style.animationPlayState='paused'
+		```     $ball.style.animationPlayState='paused'
 		    
 		```
 
-	* **darioarcos** (1)
+	* **darioarcos** [585400] (1)
 
-		
 		así…
-		``` 
-		    const $ball = document.getElementById('ball').style.animationPlayState = 'paused';
+		```     const $ball = document.getElementById('ball').style.animationPlayState = 'paused';
 		    
 		```
 
-* **Cristian Fabian Tovar** (1)
+* **Cristian Fabian Tovar** (1) [576896](https://platzi.com/comentario/576896/) 
 
-	
 	existe un comando similar en VScode windows?
 
-* **Thony07** (1)
+* **Thony07** (1) [556086](https://platzi.com/comentario/556086/) 
 
-	
 	Desafío cumplido!  
 	Solo le cambié y agregué unas cositas  
 	<https://codepen.io/Thony07/pen/YMpOem>
 
-* **Hdas** (1)
+* **Hdas** (1) [521740](https://platzi.com/comentario/521740/) 
 
-	
 	Este es mi aporte  
 	[https://codepen.io/corpsehdas/pen/WmbdEg](url)
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [507833](https://platzi.com/comentario/507833/) 
 
-	
 	Muy interesante este modulo
 
-* **normadessin** (1)
+* **normadessin** (1) [487583](https://platzi.com/comentario/487583/) 
 
-	
 	Más que aportación me animé a aplicar los ejemplos de cómo lo solucionaron en la comunidad, soy nueva en esto y estoy aprendiendo este mundo de la programación tratando de asimilar lo aprendido, me animé a usar Code que en la vida lo había usado les dejo la liga 😄 <https://codepen.io/normiux/pen/bzNBbY>
 
-	* **Hdas** (1)
+	* **Hdas** [487583] (1)
 
-		
 		Buena animación
 
-	* **normadessin** (1)
+	* **normadessin** [487583] (1)
 
-		
 		gracias
 
-* **webins** (1)
+* **webins** (1) [460730](https://platzi.com/comentario/460730/) 
 
-	
 	Como hace Leonidas para duplicar hacia abajo?
 
-	* **irma-davila** (1)
+	* **irma-davila** [460730] (1)
 
-		
 		shift + alt + flecha hacia abajo
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [428853](https://platzi.com/comentario/428853/) 
 
-	
 	Alguien sabe como le puedo cambiar la velocidad cuando le de click
 
-	* **Fernando Alejandro Yerena Ramos** (1)
+	* **Fernando Alejandro Yerena Ramos** [428853] (1)
 
-		
 		Si te fijas, _animation_ tiene una propiedad que es [.playbackRate](https://platzi.com/clases/1103-animaciones-web/6837-controlar-animaciones/?time=572). Por defecto tiene un valor de 1.
 		
 		Tendrías que disminuir o aumentar ese valor para modificar la velocidad. Por ejemplo:
-		``` 
-		    	$element.addEventListener('click', (event) => {
+		```     	$element.addEventListener('click', (event) => {
 		    			elemento.playbackRate -= 0.5; 
 		    			/*elemento.playbackRate = elemento.playbackRate - 0.5; */
 		    			/*En este caso ralentiza la animacion*/
@@ -17333,8 +15417,7 @@ Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como
 		```
 		
 		O la otra seria modificar la duración
-		``` 
-		    $element.addEventListener('click', (event) => {
+		```     $element.addEventListener('click', (event) => {
 		    			elemento.style.animationDuration = 3.5; 
 		    			/*En este caso ralentiza la animación*/
 		     	});
@@ -17343,14 +15426,12 @@ Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como
 		
 		Yo usaría la primera. Te dejo la [documentación del .playbackRate](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/playbackRate)
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [408010](https://platzi.com/comentario/408010/) 
 
-	
 	Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como naves espaciales y así alguna sujerencia?
 
-	* **Miguel Gil Rosas** (8)
+	* **Miguel Gil Rosas** [408010] (8)
 
-		
 		Hola.  
 		Podías probar a:
 		
@@ -17359,14 +15440,11 @@ Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como
 		  * Usar imágenes JPG, PNG o el que sea para los dibujos y moverlas por la pantalla con javascript.
 		  * O una combinación de lo anterior.
 		
-		
-		
 		Cuando tengas tus dibujos o figuras puedes usar javascript o animaciones o transformaciones CSS para moverlas o modificarlas.  
 		Espero te sirva, saludos.
 
-	* **JonathanAraujo** (2)
+	* **JonathanAraujo** [408010] (2)
 
-		
 		Puedes hacer polígonos en css de forma fácil y sencilla sin importar librerias con la propiedad clip-path: [Documentacio](https://developer.mozilla.org/es/docs/Web/CSS/clip-path).
 		
 		Un ejemplo seria algo tal que asi:  
@@ -17374,90 +15452,78 @@ Se me dificulta mucho el dibujo con css xD aiuda, hacer dibujitos y demás, como
 		
 		Si te interesa puede buscar mas acerca de la propienda de css, Saludos.
 
-* **Victoria Fernandez** (1)
+* **Victoria Fernandez** (1) [209736](https://platzi.com/comentario/209736/) 
 
-	
 	Se puede controlar la animación solo usando css? Si es asi hay algun ejemplo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [209736] (2)
 
-		
 		Se se puede aunque hay propiedades que no se pueden animar, lo puedes ver en este material y los siguientes <https://platzi.com/clases/animaciones-web/concepto/animaciones-css/sintaxis/material/>
 
-	* **Victoria Fernandez** (0)
+	* **Victoria Fernandez** [209736] (0)
 
-		
 		Perfecto, gracias!
 
-* **David** (1)
+* **David** (1) [80729](https://platzi.com/comentario/965749/) 
 Problema con addEventListener Tengo un problema en la parte final del ejercicio que hace Leonidas, me salta un error en la consola que di...
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [80729] (1)
 
-		
 		Hola @David_13.  
 		De hecho, no vi un error en el fragmento de código que compartiste. ¿Puedes compartirlo completo? ¿Y también en qué línea se indicó exactamente el error?
 
-* **estebanleoe** (1)
+* **estebanleoe** (1) [79941](https://platzi.com/comentario/949424/) 
 Cuando ejecuto “Animation” en el inspector de elementos, me sale este error: ƒ Animation() { [native code] } **Código: ** 
 
-* **33andres33** (1)
+* **33andres33** (1) [72047](https://platzi.com/comentario/809177/) 
 como se duplica una linea en atom como lo hace Leonidas
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [72047] (1)
 
-		
 		El comando es **`Ctrl (command) + Shift + D`**.
 		
 		Puedes encontrar los atajos de teclado más comunes en este artículo: <https://www.bugsnag.com/blog/atom-editor-cheat-sheet>. 😉
 
-* **Jose Luis Colmenares** (1)
+* **Jose Luis Colmenares** (1) [63288](https://platzi.com/comentario/655233/) 
 Estoy animando un avión con element.animate. La animación se ejecuta cuando se hace click sobre el avión (para eso utilicé el addEventLis...
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [63288] (2)
 
-		
 		Lo que puedes hacer es compartir tu código. De esa manera podemos revisarlo y detectar el error.
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [62712](https://platzi.com/comentario/645023/) 
 Como puedo hacer para que la animación no se lance automáticamente??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [62712] (2)
 
-		
 		Puedes usar JavaScript para cambiar la clase del elemento y con esto iniciar la animación.
 
-* **Davermx** (1)
+* **Davermx** (1) [60124](https://platzi.com/comentario/601029/) 
 tengo una consulta… se pueden crear animaciones parecidas a la libreria animate.css y wow.js. lohe utilizado en algunas paginas, pero al ...
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [60124] (1)
 
-		
 		claro que se puede, incluso puedes crear unas mejores si te lo propones.
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [59011](https://platzi.com/comentario/585400/) 
 ¿Cómo haría para que la animación no arranque sóla al cargar la página? Logre hacerlo introduciendo la animación dentro del eventListener...
 
-	* **Esau Rosales** (1)
+	* **Esau Rosales** [59011] (1)
 
-		
 		Puedes intentar con esto. Colócalo al principio.
-		``` 
-		    $ball.style.animationPlayState='paused'
+		```     $ball.style.animationPlayState='paused'
 		    
 		```
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [46210](https://platzi.com/comentario/428853/) 
 Alguien sabe como le puedo cambiar la velocidad cuando le de click
 
-	* **Fernando Alejandro Yerena Ramos** (1)
+	* **Fernando Alejandro Yerena Ramos** [46210] (1)
 
-		
 		Si te fijas, _animation_ tiene una propiedad que es [.playbackRate](https://platzi.com/clases/1103-animaciones-web/6837-controlar-animaciones/?time=572). Por defecto tiene un valor de 1.
 		
 		Tendrías que disminuir o aumentar ese valor para modificar la velocidad. Por ejemplo:
-		``` 
-		    	$element.addEventListener('click', (event) => {
+		```     	$element.addEventListener('click', (event) => {
 		    			elemento.playbackRate -= 0.5; 
 		    			/*elemento.playbackRate = elemento.playbackRate - 0.5; */
 		    			/*En este caso ralentiza la animacion*/
@@ -17466,8 +15532,7 @@ Alguien sabe como le puedo cambiar la velocidad cuando le de click
 		```
 		
 		O la otra seria modificar la duración
-		``` 
-		    $element.addEventListener('click', (event) => {
+		```     $element.addEventListener('click', (event) => {
 		    			elemento.style.animationDuration = 3.5; 
 		    			/*En este caso ralentiza la animación*/
 		     	});
@@ -17476,88 +15541,73 @@ Alguien sabe como le puedo cambiar la velocidad cuando le de click
 		
 		Yo usaría la primera. Te dejo la [documentación del .playbackRate](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/playbackRate)
 
-* **Kevin Kleber Rivamontan Alvarado** (1)
+* **Kevin Kleber Rivamontan Alvarado** (1) [38728](https://platzi.com/comentario/347443/) 
 ¿Qué pasa si al Will-change le pongo en “auto” ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [38728] (2)
 
-		
 		Prueba y nos cuentas que resultado obtuviste, esa es la mejor forma de aprender.
 
-* **Jesus Eduardo Huerta Solis** (0)
+* **Jesus Eduardo Huerta Solis** (0) [296885](https://platzi.com/comentario/296885/) 
 
-	
 	Pregunta: ¿Las transformaciones y las animaciones alteran el modelo de cajas?
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [296885] (1)
 
-		
 		No, esa es una gran ventaja de ellas, no van a desordenar nada alrededor de los elementos modificados.
 
-	* **Hdas** (1)
+	* **Hdas** [296885] (1)
 
-		
 		Muchas gracias por la aclaración
 
-* **Jesus Eduardo Huerta Solis** (0)
+* **Jesus Eduardo Huerta Solis** (0) [296883](https://platzi.com/comentario/296883/) 
 
-	
 	Pregunta: ¿Las transformaciones y las animaciones lteran el modelo de cajas?
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [280694](https://platzi.com/comentario/280694/) 
 
-	
 	esta es mi version me gustaria incluir imagenes como se hace  
 	<https://codepen.io/KOLEN94/pen/dmjzqr> no es mucho
 
-* **yend** (0)
+* **yend** (0) [210753](https://platzi.com/comentario/210753/) 
 
-	
 	hola Leonidas. quiero cambiar de color la pelota, cree un botón(change-color), pero no consigo crear un código para hacer posible el cambio de color 😦 una ayuda por favor!
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [210753] (1)
 
-		
 		Coloca el código que tienes, cuentas que has intentado, con eso podemos ayudarte, también revisa que en la consola no tengas errores ya que puede que un error de digitación este dando un problema y por esto no te funciona el código.
 
-	* **Hdas** (1)
+	* **Hdas** [210753] (1)
 
-		
 		[https://codepen.io/luarzan/pen/xMpMzP](url) otro compañero compartió este tal vez te sirva
 
-* **Jesus Sandrea** (0)
+* **Jesus Sandrea** (0) [187889](https://platzi.com/comentario/187889/) 
 
-	
 	Si quiero acelerar la animacion como seria el comando?  
 	animation.???
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [187889] (0)
 
-		
 		Haces que el tiempo de la animación sea menor, esto pro ende la irá acelerando naturalmente.
 
-	* **Jesus Sandrea** (0)
+	* **Jesus Sandrea** [187889] (0)
 
-		
 		si entiendo, mi proyecto es una llanta y quiero que el usuario controle la velocidad con la que gira por medio de un boton, lo que quiero saber cual es el evento o como puedo sumarle o restarle la duracion?
 
-* **Andrés Felipe Eslava Zuluaga** (0)
+* **Andrés Felipe Eslava Zuluaga** (0) [182751](https://platzi.com/comentario/182751/) 
 
-	
 	Les comparto mi aporte. Tengo una pregunta, me podrían indicar la mejor forma de agregar promesas para usar el `animate.ready` ? Gracias. Buen y excelente curso.  
 	<https://afelipelds.github.io/Animaciones-web/javascript-animate.html>
 
-* **Luis Mosquera** (0)
+* **Luis Mosquera** (0) [174962](https://platzi.com/comentario/174962/) 
 
-	
 	Muy buen al clase, pero el archivo para descargar no es igual al del ejemplo. Favor corregir.
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [174962] (2)
 
-		
 		Tienes toda la razón, ya puse el correcto.
 
-## 0190. Estas listo para certificarte
+## 0190. Estas listo para certificarte [11634](https://platzi.com/clases/1103-animaciones-web/11634-estas-listo-para-certificarte/)
 
 ### Descripción:
 
@@ -17580,190 +15630,156 @@ Te recomiendo seguir con el curso de [PostCSS](https://platzi.com/clases/postcss
 
 ### Comentarios:
 
-* **Fernando Ruiz** (25)
+* **Fernando Ruiz** (25) [324752](https://platzi.com/comentario/324752/) 
 
-	
 	Cuidado, en el examen SI aparecen preguntas relativas a Animaciones con React.
 
-	* **mikerm** (1)
+	* **mikerm** [324752] (1)
 
-		
 		si, y fue algo que no recuerdo.
 
-	* **Johan_Marcel** (1)
+	* **Johan_Marcel** [324752] (1)
 
-		
 		Gracias por el dato.
 
-	* **Miguel Matos** (1)
+	* **Miguel Matos** [324752] (1)
 
-		
 		Gracias por avisar, justo venía hoy a hacer el examen…
 
-* **Pablo Jara** (8)
+* **Pablo Jara** (8) [722417](https://platzi.com/comentario/722417/) 
 
-	
 	Es una broma?  
 	![8b77cb85f6bb9d8e1c03d41b7db29c40.png](https://static.platzi.com/media/user_upload/8b77cb85f6bb9d8e1c03d41b7db29c40-28a78c37-a205-4736-b92a-f975a04623db.jpg)
 
-	* **edwinquisbert** (1)
+	* **edwinquisbert** [722417] (1)
 
-		
 		X2 nos trolearon muy lindo.
 
-* **Xavier Alexandro Basir Jeffrey** (8)
+* **Xavier Alexandro Basir Jeffrey** (8) [703036](https://platzi.com/comentario/703036/) 
 
-	
 	NO, NO ESTÁS LISTO PARA CERTIFICARTE. En el examen van tanto preguntas de React como de las prácticas así que sigue con los vídeos, Lo bueno es que son muy muy interesantes tanto las practicas como la parte de React 😄
 
-* **vanessahema93** (5)
+* **vanessahema93** (5) [494781](https://platzi.com/comentario/494781/) 
 
-	
 	Me salieron dos preguntas de React.js, Elías me rompiste el corazón 😦
 
-	* **davidbr** (2)
+	* **davidbr** [494781] (2)
 
-		
 		Porque engañan, si hay preguntas de React.JS, porque no dicen que continuen el curso para poder presentar el examen.
 
-	* **irma-davila** (1)
+	* **irma-davila** [494781] (1)
 
-		
 		obviamente no pasé.
 
-	* **Isaias Chávez** (1)
+	* **Isaias Chávez** [494781] (1)
 
-		
 		No manchen pero si solo fueron dos si debieron pasar.
 
-	* **Isaias Chávez** (1)
+	* **Isaias Chávez** [494781] (1)
 
-		
 		De panzaso pero pasar jajajaja. No bueno, eso tampoco está bien.
 
-* **Claudio Jesus Vázquez Villanueva** (4)
+* **Claudio Jesus Vázquez Villanueva** (4) [642068](https://platzi.com/comentario/642068/) 
 
-	
 	Ami si me pusieron 2 preguntas de React jaja
 
-* **durbonca** (3)
+* **durbonca** (3) [718762](https://platzi.com/comentario/718762/) 
 
-	
 	Hola, si llegaste hasta acá… Mejor sigue el curso… NO ESTAS LISTO PARA CERTIFICARTE aun…
 
-* **irvingsan** (3)
+* **irvingsan** (3) [635259](https://platzi.com/comentario/635259/) 
 
-	
 	Tenemos un módulo bonus llamado Animaciones en React.js donde te muestro como puedes llevar tus habilidades adquiridas a un entorno más sofisticado, de aquí tampoco tomo preguntas para el examen, así que no te preocupes si te parece un poco avanzado para este curso.
 	
 	¿Cuál es el conjunto de clases que se necesitan para manejar una transición de entrada en React?
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [822951](https://platzi.com/comentario/822951/) 
 
-	
 	Gracias, por los consejos.
 
-* **33andres33** (2)
+* **33andres33** (2) [809438](https://platzi.com/comentario/809438/) 
 
-	
 	bueno a ver React js
 
-* **EmersonMatijasevic** (2)
+* **EmersonMatijasevic** (2) [782118](https://platzi.com/comentario/782118/) 
 
-	
 	SI SE PUEDE APROBAR EL EXAMEN!  
 	Para los que opinan que no debes tomar el examen , la verdad tienen que admitir que se equivocan y si reprobaron fue porque no prestaron atención en el curso.  
 	La VERDAD SI ESTAS LISTO PARA APROBAR, pero no es seguro que obtengas la nota máxima ya que 2 y SOLO DOS preguntas son de React (ademas googleando 5min se obtiene la documentación necesaria para responder).  
 	PD: Yo desaprobé y mis errores fueron la pregunta de la caja y las de animacion en Js no las de React ;P … a seguir intentando resentidos
 
-* **Jean León** (2)
+* **Jean León** (2) [752307](https://platzi.com/comentario/752307/) 
 
-	
 	Sería bueno un par de clases usando GreenSock.
 
-* **Jhon Alexander Perez Valencia** (2)
+* **Jhon Alexander Perez Valencia** (2) [597351](https://platzi.com/comentario/597351/) 
 
-	
 	A por **_PostCSS_** _🎉💪😎🤳_
 
-* **luis-carlos-zabala** (2)
+* **luis-carlos-zabala** (2) [575440](https://platzi.com/comentario/575440/) 
 
-	
 	Buenas Tardes. Es importante modificar este apartado, ya que el examen contiene preguntas de React que hasta este punto no se ha visto en absoluto.
 
-* **Hdas** (2)
+* **Hdas** (2) [521238](https://platzi.com/comentario/521238/) 
 
-	
 	Cuidado salen al menos dos preguntas de react
 
-* **Kreespyn** (2)
+* **Kreespyn** (2) [469350](https://platzi.com/comentario/469350/) 
 
-	
 	En el examen sí hay preguntas de React 😦
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [408119](https://platzi.com/comentario/408119/) 
 
-	
 	tomaré el examen ahora y seguiré con el curso (?)  
 	Una pregunta sobre el dibujado figuras e imagenes en css, es de verdad necesario para la web? si lo es, hay mas información en lo que queda del curso o en otro curso?
 
-	* **cris-medina** (1)
+	* **cris-medina** [408119] (1)
 
-		
 		Me gustaría saber si hay algún curso para dibujar figuras imágenes, es muy interesante este tema.  
 		Gracias.
 
-	* **Isaias Chávez** (2)
+	* **Isaias Chávez** [408119] (2)
 
-		
 		Hay una [clase pública](https://www.youtube.com/watch?v=IP3OmWpUuIg&t=232s) donde se explica que su uso puede estár reservado solo para cosas muy simples como en el caso del ejemplo del video que era un diamante y lo hicieron con solo los bordes de una caja.
 
-* **Santiago pascual plaus** (2)
+* **Santiago pascual plaus** (2) [391426](https://platzi.com/comentario/391426/) 
 
-	
 	La preguntas que figuran en el examen, sobre React, tratan de cuales son las clases que deberíamos de utilizar para manejar una transición tanto de entrada como de salida.  
 	Creo que algunos cursos han quedado desactualizados en relación al cambio de estructura de platzi.  
 	Igual… se aprende un montón.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1038626](https://platzi.com/comentario/1038626/) 
 
-	
 	Gracias compañeros por los consejos !!
 
-* **Juliette Cetina** (1)
+* **Juliette Cetina** (1) [806010](https://platzi.com/comentario/806010/) 
 
-	
 	Aunque salgan 2 preguntas de React, si se puede aprobar el examen. De todas manera si quieren sacar 10, mejor vean todo el curso y luego si presenten el examen.
 
-* **edwinquisbert** (1)
+* **edwinquisbert** (1) [780574](https://platzi.com/comentario/780574/) 
 
-	
 	se pasaron en serio jeje. si llegaron acá no tomen el examen.
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [631436](https://platzi.com/comentario/631436/) 
 
-	
 	Alguien podría decirme por qué ir directo a PostCSS saltánse Less o Sass?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [631436] (1)
 
-		
 		Less, Sass, Stylus son preprocesadores de CSS, estos permiten escribir código que se pasa a CSS, por otra parte PostCSS lo que hace es escribir código CSS directamente y luego realizar algunas acciones para permitir el uso de ciertas cosas, la verdad los dos son útiles tanto preprocesadores como postprocesadores, solo puedes revisarlos ambos y escoger la forma que mas te guste. Como le dice el texto es una recomendación pero si quieres aprender Sass, Less o Stylus adelante.
 
-* **almudenaguerras** (1)
+* **almudenaguerras** (1) [621000](https://platzi.com/comentario/621000/) 
 
-	
 	Es correcta la respuesta que el test da como válida a la pregunta "¿Qué keyframes corresponden a mover la caja roja de izquierda a derecha si tenemos en cuenta que la caja tiene posición absoluta y un ancho de 50px?"  
 	No me termina de cuadrar… ! 😦
 
-	* **ymbeltran** (1)
+	* **ymbeltran** [621000] (1)
 
-		
 		Hola. En las respuestas habían dos de translateX, que movían la caja por el 100% del acho de la misma y una tercera que estaba mal por que tenía un right:left:0. La correcta, me tomé la tarea de validarla y efectivamente funciona tal cual como el ejemplo.
 
-# Práctica: Tipos de animaciones en la web
+# Práctica: Tipos de animaciones en la web [1100]
 
-## 0200. Creando logo de platzi
+## 0200. Creando logo de platzi [6838](https://platzi.com/clases/1103-animaciones-web/6838-creando-logo-de-platzi/)
 
 ### Descripción:
 
@@ -17778,14 +15794,12 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 
 ### Comentarios:
 
-* **samvarcia** (18)
+* **samvarcia** (18) [279774](https://platzi.com/comentario/279774/) 
 
-	
 	Este curso me ha enseñado lo genial que puede ser css 😃
 
-* **Luis Fernando Valladares Castro** (12)
+* **Luis Fernando Valladares Castro** (12) [551786](https://platzi.com/comentario/551786/) 
 
-	
 	Hola a todos, soy un viejo alumno del curso y deseo compartirles una **Guia de Animaciones para la Web** basada en los conocimientos adquiridos en este curso con definiciones y excelentes ejemplos para que pueda servirles como referencia y ayuda extra.
 	
 	La guía cuenta con una **Pagina Web Demostrativa** , la cual, integra la mayoría de las animaciones diseñadas en esta sección y a lo largo del curso.
@@ -17796,136 +15810,113 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	**Pagina Web:**<https://luisvalladaresc.github.io/animaciones-css/>  
 	![](https://static.platzi.com/media/porfilio/css-animaciones_9ea16b8e-bd81-4c06-9563-0479ff047e5a.PNG)
 
-	* **dipacata** (2)
+	* **dipacata** [551786] (2)
 
-		
 		excelente aporte, gracias!
 
-	* **lenielluzardo** (2)
+	* **lenielluzardo** [551786] (2)
 
-		
 		Esta genial, te felicito👌💪
 
-* **Adrian Garcia Saaib** (7)
+* **Adrian Garcia Saaib** (7) [408146](https://platzi.com/comentario/408146/) 
 
-	
 	Uno no se toma tan en serio a CSS hasta que tiene que lidear con animaciones. Estoy impresionado.
 
-	* **Hdas** (2)
+	* **Hdas** [408146] (2)
 
-		
 		css es muy versátil
 
-* **Alan Santiago** (6)
+* **Alan Santiago** (6) [352805](https://platzi.com/comentario/352805/) 
 
-	
 	Creo que esta va a ser la mejor parte del curso ❤️ 😄
 
-* **Jhon Alexander Perez Valencia** (4)
-![gif](https://media.giphy.com/media/3oKIPy3WLTtQUsxQZO/giphy.gif)
-
-* **Antonio Ferrà Bonet** (4)
-
+* **Jhon Alexander Perez Valencia** (4) [597356](https://platzi.com/comentario/597356/) 
 	
+	![gif](https://media.giphy.com/media/3oKIPy3WLTtQUsxQZO/giphy.gif)
+
+* **Antonio Ferrà Bonet** (4) [315779](https://platzi.com/comentario/315779/) 
+
 	Para animaciones muy, muy complejas.  
 	Es preferible utilizar algún software de ayuda, que luego nos pase el código.  
 	O utilizar Canvas?  
 	Existe alguno?  
 	Podría ser Adobe Animate CC 2018?
 
-	* **Mateo Buitrago** (5)
+	* **Mateo Buitrago** [315779] (5)
 
-		
 		Échale ojo a esto: <https://www.lottiefiles.com/>
 
-	* **Antonio Ferrà Bonet** (1)
+	* **Antonio Ferrà Bonet** [315779] (1)
 
-		
 		No entiendo?
 
-	* **Mateo Buitrago** (9)
+	* **Mateo Buitrago** [315779] (9)
 
-		
 		Lo siento, no fui muy claro.
 		
 		Airbnb desarrolló una tecnología que llamaron Lottie, uno puede hacer las animaciones en Adobe After Effects y exportarlas en un JSON para luego usarlas en tu proyecto web o movil. Los resultados de las animaciones son geniales y muchas veces son los diseñadores los que hacen estas animaciones, con Lottie no hay que preocuparse por el código.
 		
 		<https://airbnb.design/lottie/>
 
-	* **Antonio Ferrà Bonet** (2)
+	* **Antonio Ferrà Bonet** [315779] (2)
 
-		
 		Ok, entendí que las animaciones se hacen con JSON ó se compilan a JSON,  
 		Pero que ventajas de una animación con svg?
 
-	* **Hdas** (1)
+	* **Hdas** [315779] (1)
 
-		
 		Tremendo aporte muchas gracias
 
-* **Jhon Alexander Perez Valencia** (3)
+* **Jhon Alexander Perez Valencia** (3) [597352](https://platzi.com/comentario/597352/) 
 
-	
 	este curso es de los mejores que he visto en toda mi vida
 
-* **Mariana Valencia** (3)
+* **Mariana Valencia** (3) [518369](https://platzi.com/comentario/518369/) 
 
-	
 	Eso muestra que las herramientas están ahí, es sólo cuestión de ponerse un poco creativo.
 
-	* **Hdas** (1)
+	* **Hdas** [518369] (1)
 
-		
 		Y práctica mucha práctica.
 
-* **Bryan Estiven Silva Mercado** (3)
+* **Bryan Estiven Silva Mercado** (3) [459046](https://platzi.com/comentario/459046/) 
 
-	
 	He visto la luz con CSS es genial las cosas que se pueden hacer.
 
-* **gustavoa6791** (3)
+* **gustavoa6791** (3) [428465](https://platzi.com/comentario/428465/) 
 
-	
 	me imagine un intro, para mi portafolio de presentacion personal!! 🤪🤩
 
-* **kikemadrigal** (3)
+* **kikemadrigal** (3) [403379](https://platzi.com/comentario/403379/) 
 
-	
 	Genial esta clase… Leonidas, eres un crack!..
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [352820](https://platzi.com/comentario/352820/) 
 
-	
 	Por fin aprendi a dibujar con CSS ❤️
 
-* **Sergio Minei** (3)
+* **Sergio Minei** (3) [310675](https://platzi.com/comentario/310675/) 
 
-	
 	recién me doy cuenta que el logo de Platzi es un cuadrado con una patita alzada 😉
 
-	* **Jonatan David Padilla** (2)
+	* **Jonatan David Padilla** [310675] (2)
 
-		
 		A mi me parece una **p** un poco ratada.
 
-	* **Sergio Minei** (1)
+	* **Sergio Minei** [310675] (1)
 
-		
 		Lo interesante es que en la prox clase dicen justo lo que tú dices. 😛
 
-	* **Jonatan David Padilla** (3)
+	* **Jonatan David Padilla** [310675] (3)
 
-		
 		Hahaha si… Ya comente eso, y propuse crear una comunidad de los que viviamos eganados.
 
-	* **Hdas** (2)
+	* **Hdas** [310675] (2)
 
-		
 		Las cosas que se descubren XD
 
-* **Juan Torrealba** (2)
+* **Juan Torrealba** (2) [764386](https://platzi.com/comentario/764386/) 
 
-	
 	Si le damos zoom tiende a verse un poco distorsionado el logo:  
 	![Captura de Pantalla 2019-10-02 a la\(s\) 22.40.33.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-10-02%20a%20la%28s%29%2022.40.33-71f94292-ef36-44ff-8fab-a89101c1b8b9.jpg)  
 	Pero si colocamos:  
@@ -17934,18 +15925,15 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	se reduce ese efecto…  
 	![Captura de Pantalla 2019-10-02 a la\(s\) 22.41.47.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-10-02%20a%20la%28s%29%2022.41.47-050a5f10-b762-44ed-8d9b-4878e3d4a360.jpg)
 
-* **cris-medina** (2)
+* **cris-medina** (2) [571475](https://platzi.com/comentario/571475/) 
 
-	
 	¿Que tal me quedo?  
 	[Simple y elegante](https://codepen.io/cristhian-medina/pen/XQyVqw?editors=1100)
 
-* **Miguel Angel Jardinez Ramos** (2)
+* **Miguel Angel Jardinez Ramos** (2) [516404](https://platzi.com/comentario/516404/) 
 
-	
 	Este es mi código, es la primera vez que programo así me siento muy feliz.!!!
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html lang="en">
 	    <head>
 	        <meta charset="UTF-8">
@@ -18150,49 +16138,41 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	    
 	```
 
-* **Christian Navarro Urra** (2)
+* **Christian Navarro Urra** (2) [435617](https://platzi.com/comentario/435617/) 
 
-	
 	Definitivamente CSS es mágico, genial lo que se puede lograr y de tan fácil manera
 
-	* **Hdas** (1)
+	* **Hdas** [435617] (1)
 
-		
 		Hace falta solo práctica
 
-* **Aufsten** (2)
+* **Aufsten** (2) [385270](https://platzi.com/comentario/385270/) 
 
-	
 	Excelente la manera tan fácil con la que se dibuja el logo en css. Logo minimista, llamativo y funcional. Hasta en eso son excelentes!
 
-* **odpinerosh** (2)
+* **odpinerosh** (2) [203634](https://platzi.com/comentario/203634/) 
 
-	
 	Hola a todos.  
 	Mientras que en Chrome el logo se ve perfecto al rotarlo 45 grados, en Safari se muestra con unas divisiones. ¿Alguien tiene idea de cómo se puede corregir?
 	
 	Ps: ¿Cómo se adjuntan imágenes en los comentarios?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [203634] (1)
 
-		
 		Para adjuntar las imágenes solo tienes que arrastrarlas al editor de texto y se suben de manera automática.
 		
 		El error de safari, es extraño cuando subas las imágenes podemos ver los errores a ver que puede estar pasando.
 
-	* **odpinerosh** (0)
+	* **odpinerosh** [203634] (0)
 
-		
 		No se por qué, pero al volver a abrir el archivo hoy, 23 de octubre 2017, en Safari, se ve perfecto. Las líneas han desaparecido como por ensalmo. Adjunto las dos imágenes.
 		
 		![LogoSafari.png](https://static.platzi.com/media/user_upload/LogoSafari-4a1cc208-6600-447f-b0c3-926c5b3dbba4.jpg) ![LogoSafariHOY.png](https://static.platzi.com/media/user_upload/LogoSafariHOY-2ce6cba2-ab0d-420d-8210-bfb8bf34732e.jpg)
 
-* **David Behar** (1)
+* **David Behar** (1) [1092748](https://platzi.com/comentario/1092748/) 
 
-	
 	Mis keyframes:
-	``` 
-	        @keyframes spin {
+	```         @keyframes spin {
 	          0% {
 	            opacity: 0;
 	            transform: rotate(765deg) scale(0);
@@ -18204,8 +16184,7 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	        }
 	    
 	```
-	``` 
-	        @keyframes accommodation {
+	```         @keyframes accommodation {
 	          0% {
 	            width: 100%;
 	          }
@@ -18224,14 +16203,12 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	    
 	```
 
-* **David Behar** (1)
+* **David Behar** (1) [1092746](https://platzi.com/comentario/1092746/) 
 
-	
 	Así se ve cómo lo animé yo:
 	
 	## .logo { animation-name: spin; }
-	``` 
-	      @keyframes spin {
+	```       @keyframes spin {
 	          0% {
 	            opacity: 0;
 	            transform: rotate(765deg) scale(0);
@@ -18262,17 +16239,14 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	    
 	```
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1039813](https://platzi.com/comentario/1039813/) 
 
-	
 	Qué buena clase !!
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [1039813] (1)
 
-		
 		Mis apuntes de la clase
-		``` 
-		    <style>
+		```     <style>
 		            body{
 		                display: flex;
 		                align-items: center;
@@ -18309,149 +16283,122 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 		    
 		```
 
-* **Rodrigo Cuenca Mayuri** (1)
+* **Rodrigo Cuenca Mayuri** (1) [1011504](https://platzi.com/comentario/1011504/) 
 
-	
 	No me lo imaginé tan fácil jaja.  
 	Es cuestión de creatividad.
 
-* **Alejo Fonseca** (1)
+* **Alejo Fonseca** (1) [657178](https://platzi.com/comentario/657178/) 
 
-	
 	Es importante y sirve de mucha practica dibujar en CSS
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [638216](https://platzi.com/comentario/638216/) 
 
-	
 	Me gusto esta clase.
 
-* **Cesar Octavio de Jesús Meza Carrillo** (1)
+* **Cesar Octavio de Jesús Meza Carrillo** (1) [197361](https://platzi.com/comentario/197361/) 
 
-	
 	En el margen del Div contenedor “Platzi” porque tiene auto?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [197361] (3)
 
-		
 		El margin es de 40px arriba y abajo y automático a los lados lo que permite un centrado del contenedor.  
 		para las propiedades como margin y padding los valores se pueden expresar así:
-		``` 
-		    margin:10px // margin de 10px en todos los lados
+		```     margin:10px // margin de 10px en todos los lados
 		    margin:10px 20px // margin de 10px arriba y abajo y 20px a los lados
 		    margin:10px 20px 15px // margin de 10px arriba, 20px a los lados y 15px abajo
 		    margin:10px 20px 15px 25px// margin de 10px arriba, 20px a la derecha, 15px abajo y 25px a la izquierda.
 		    
 		```
 
-	* **Hdas** (1)
+	* **Hdas** [197361] (1)
 
-		
 		Para centrar el contenido de nuestro contenedor.
 
-* **Erick Neftalí Sarmiento Cortes** (0)
+* **Erick Neftalí Sarmiento Cortes** (0) [182512](https://platzi.com/comentario/182512/) 
 
-	
 	estaba esperando esto, yes gracias Leonidas
 
-## 0210. Animando logo de platzi
+## 0210. Animando logo de platzi [6839](https://platzi.com/clases/1103-animaciones-web/6839-animando-logo-de-platzi/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **William Arevalo** (51)
+* **William Arevalo** (51) [186953](https://platzi.com/comentario/186953/) 
 
-	
 	Hasta ahora entendi que el logo de platzi es una P :'v
 
-	* **Gregorio Garcia** (2)
+	* **Gregorio Garcia** [186953] (2)
 
-		
 		Jajajajaja :'v 10/10
 
-	* **Hebert  lughi villafuerte ccacala** (0)
+	* **Hebert  lughi villafuerte ccacala** [186953] (0)
 
-		
 		yo tambien ya entedi :V
 
-	* **Luis Felipe Silgado Cortázar** (2)
+	* **Luis Felipe Silgado Cortázar** [186953] (2)
 
-		
 		Siempre lo vi como el cuadrado que acabamos de construir xD
 
-	* **Joaquín Andrés Moreno Quinteros** (1)
+	* **Joaquín Andrés Moreno Quinteros** [186953] (1)
 
-		
 		No soy el único :’)
 
-	* **Omar Gaston Chalas** (2)
+	* **Omar Gaston Chalas** [186953] (2)
 
-		
 		Jajaj yo me di cuenta después de tener 3 meses estudiando
 
-	* **Jonatan David Padilla** (1)
+	* **Jonatan David Padilla** [186953] (1)
 
-		
 		Yo tambien, seamos unidos, seamos uno.  
 		llevaba sin darme cuenta aun cuando sigo platzi desde que inició.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [186953] (1)
 
-		
 		JAJAAJJA xd
 
-	* **Andres Felipe Marulanda Cortes** (0)
+	* **Andres Felipe Marulanda Cortes** [186953] (0)
 
-		
 		+1
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [186953] (1)
 
-		
 		igual yooooooooo jajaja
 
-	* **ramrikrdo** (1)
+	* **ramrikrdo** [186953] (1)
 
-		
 		x2
 
-	* **Cristhian Camilo Perez Veloza** (1)
+	* **Cristhian Camilo Perez Veloza** [186953] (1)
 
-		
 		jajajajajaja
 
-	* **Juan Ponce** (1)
+	* **Juan Ponce** [186953] (1)
 
-		
 		jajaja, no lo habia pensado
 
-	* **Chunchunmaru** (1)
+	* **Chunchunmaru** [186953] (1)
 
-		
 		jajajajja
 
-	* **anadecanha** (1)
+	* **anadecanha** [186953] (1)
 
-		
 		no joda…
 
-	* **irma-davila** (1)
+	* **irma-davila** [186953] (1)
 
-		
 		x3
 
-	* **JamaHCS** (1)
+	* **JamaHCS** [186953] (1)
 
-		
 		Yo me acabo de dar cuenta y llevo casi 2 años en la plataforma jajaja
 
-* **picirilo** (12)
+* **picirilo** (12) [274540](https://platzi.com/comentario/274540/) 
 
-	
 	Encontré innecesario el uso del delay en la segunda animación. Sincronizando los porcentajes de ambas animaciones se logra el efecto. También se puede reducir el código usando ‘,’ para los estados de la animación que se repiten.
-	``` 
-	    @keyframes platzi-base{
+	```     @keyframes platzi-base{
 	        0%,100%{
 	            opacity: 0;
 	            transform: scale(0.3)
@@ -18476,54 +16423,44 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [274540] (1)
 
-		
 		Que buen aporte muchas gracias
 
-	* **Ian Mande** (1)
+	* **Ian Mande** [274540] (1)
 
-		
 		O.O Genial
 
-	* **Wuilfredo Azócar** (1)
+	* **Wuilfredo Azócar** [274540] (1)
 
-		
 		Que buen tip, gracias!
 
-* **Aufsten** (10)
+* **Aufsten** (10) [385318](https://platzi.com/comentario/385318/) 
 
-	
 	Excelente, son animaciones básicas pero en conjunto funcionan muy bien.  
 	Así quedó mi proyecto 😃  
 	<https://codepen.io/fernando-monares/pen/GXeGYo>
 
-	* **Hdas** (1)
+	* **Hdas** [385318] (1)
 
-		
 		buen feedback
 
-* **sergio andres navarro melendez** (7)
+* **sergio andres navarro melendez** (7) [253911](https://platzi.com/comentario/253911/) 
 
-	
 	les comparto el proyecto <https://sergio7900.github.io/Proyecto-Loader/> agregue una animación extra espero les guste 😃
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [253911] (2)
 
-		
 		Que boneeeto
 
-	* **Hdas** (1)
+	* **Hdas** [253911] (1)
 
-		
 		Buen aporte muchas gracias
 
-* **Alirio Gomez** (6)
+* **Alirio Gomez** (6) [554166](https://platzi.com/comentario/554166/) 
 
-	
 	Hola tuve un problema por horas y era porque no le sabia, me di cuenta que es distinto colocar el codigo de esta manera
-	``` 
-	    30%{
+	```     30%{
 	    	transform: scale(0.3);
 	    	transform: rotate(0);
 	    }
@@ -18538,146 +16475,120 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	
 	tu crees que obtienes el mismo resultado pero no, supongo que es por el tema de la cascada y eso xD estuve horas con un problema que no me cogia los valores del transform:scale … lo digo por si alguien mas le sucede y piense que lo de arriba es igual a lo de abajo.
 
-* **Espasa** (5)
+* **Espasa** (5) [712610](https://platzi.com/comentario/712610/) 
 
-	
 	Os comparto mi proyecto, he añadido también un efecto fade al texto.  
 	[**Ver proyecto**](https://aaronespasa.github.io/platzi-loader/)
 	
 	![platzi-loader-img.jpg](https://static.platzi.com/media/user_upload/platzi-loader-img-07d25b14-8849-4466-97e6-68dc48986fb8.jpg)
 
-* **webins** (4)
+* **webins** (4) [461195](https://platzi.com/comentario/461195/) 
 
-	
 	no son los mismos colores pero funciona 😛
 	
 	<https://codepen.io/webins/pen/QzOLLV>
 
-	* **Hdas** (1)
+	* **Hdas** [461195] (1)
 
-		
 		Buen aporte
 
-	* **Daniel H. Guissepe** (1)
+	* **Daniel H. Guissepe** [461195] (1)
 
-		
 		Me encantó, quedó muy bonito el efecto.
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [461195] (1)
 
-		
 		Te quedó excelente!
 
-* **Alan Santiago** (4)
+* **Alan Santiago** (4) [352839](https://platzi.com/comentario/352839/) 
 
-	
 	De las mejores clases, esto esta genial 😄
 
-	* **Hdas** (1)
+	* **Hdas** [352839] (1)
 
-		
 		Muy buena clase
 
-* **Geraldyn Daniela Chirinos De Sousa** (4)
+* **Geraldyn Daniela Chirinos De Sousa** (4) [181908](https://platzi.com/comentario/181908/) 
 
-	
 	Hola!! Me encanto esta clase y la anterior!!! Una cosa que quiero preguntar, hay alguna forma fácil de saber o controlar los tiempos intermedios de las animaciones? me explico, por ejemplo si una animación compleja dura 5 segundos y en esos 5 segundos queremos hacer distintas cosas que tangan una duración exacta, como se controla dentro de los keyframes si todo es expresado en porcentajes?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (12)
+	* **Diego Alexander Forero Higuera (Platzi)** [181908] (12)
 
-		
 		Si tienes una duración de 5 seg por ejemplo entonces si quieres hacer algo a los 1.5 segundos eso sera el 30% es solo tener el total del tiempo de tu animación y calcular el porcentaje.
 
-* **Rocio Calderon Hernandez** (3)
+* **Rocio Calderon Hernandez** (3) [800107](https://platzi.com/comentario/800107/) 
 
-	
 	Me acabo de enterar que el logo de platzi es una P …😥
 
-* **Mateo Gonzales Navarrete** (3)
+* **Mateo Gonzales Navarrete** (3) [524929](https://platzi.com/comentario/524929/) 
 
-	
 	Así me quedó a mí:  
 	<https://codepen.io/Pikksaar/pen/gErMeZ>
 	
 	Incluí el nombre Platzi con una animación. Yo usé javascript, se me hizo más fácil que estar intentanto hacer timing con los porcertajes. 😃
 
-* **Edgardo Marcano** (2)
+* **Edgardo Marcano** (2) [934741](https://platzi.com/comentario/934741/) 
 
-	
 	Lo que siempre quise aprender🦾
 
-* **Emanuel Valero** (2)
+* **Emanuel Valero** (2) [920896](https://platzi.com/comentario/920896/) 
 
-	
 	Aca está el resultado de esta genial práctica: <https://github.com/ejvalero/frontend/blob/master/animations/index.html>.
 
-* **Roner Ortega Cueto** (2)
+* **Roner Ortega Cueto** (2) [917498](https://platzi.com/comentario/917498/) 
 
-	
 	animeichon itereichon :v hahaha
 
-* **lenielluzardo** (2)
+* **lenielluzardo** (2) [845860](https://platzi.com/comentario/845860/) 
 
-	
 	excelente esta clasae, [Aqui](https://codepen.io/lenielluzardo/pen/wvBvvWV) esta mi resultado
 
-* **Camilo Alexander Velandia Velandia** (2)
+* **Camilo Alexander Velandia Velandia** (2) [837241](https://platzi.com/comentario/837241/) 
 
-	
 	muy buena clase, deberian poner este loader en su pagina
 
-* **Luis  Aldair Quispe Rios** (2)
+* **Luis  Aldair Quispe Rios** (2) [836169](https://platzi.com/comentario/836169/) 
 
-	
 	Amazing!!
 
-* **33andres33** (2)
+* **33andres33** (2) [813031](https://platzi.com/comentario/813031/) 
 
-	
 	siempre me pregunte que significaba el logo de platzi ya 3 meses y hasta ahora me entero
 
-* **EmersonMatijasevic** (2)
+* **EmersonMatijasevic** (2) [784887](https://platzi.com/comentario/784887/) 
 
-	
 	Logo de carga utilizando mis iniciales  
 	<https://codepen.io/emer-matijasevic/pen/abbZrve>
 	
 	![](![CapturaLoader.PNG](https://static.platzi.com/media/user_upload/CapturaLoader-0b40efdd-249b-42bf-8be4-b2a352d8e382.jpg)
 
-	* **Gabriel Palma** (1)
+	* **Gabriel Palma** [784887] (1)
 
-		
 		Buenísimo !!!
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [638248](https://platzi.com/comentario/638248/) 
 
-	
 	Dominio de CSS sumando al dominio de Javascript y con algún framework como Django te conviertes en un duro.
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [638245](https://platzi.com/comentario/638245/) 
 
-	
 	Excelente video ya se le ve el queso a la tostada jajajaja
 
-* **colotux** (2)
+* **colotux** (2) [633134](https://platzi.com/comentario/633134/) 
 
-	
 	Magia pura🔥❤
 
-* **yurleysolimer** (2)
+* **yurleysolimer** (2) [572440](https://platzi.com/comentario/572440/) 
 
-	
 	Genial! Me encantó la clase ❤️
 
-* **irma-davila** (2)
+* **irma-davila** (2) [569412](https://platzi.com/comentario/569412/) 
 
-	
 	Me voló el cerebro, no se me habría ocurrido hacerlo así!
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1039855](https://platzi.com/comentario/1039855/) 
 
-	```
-	    <style>
+	```    <style>
 	            body{
 	                display: flex;
 	                align-items: center;
@@ -18761,59 +16672,48 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	    
 	```
 
-* **Rafael eduardo sanchez paz** (1)
+* **Rafael eduardo sanchez paz** (1) [854668](https://platzi.com/comentario/854668/) 
 
-	
 	Algo sencillo  
 	<https://codepen.io/juan-moriones/pen/VwYvMjJ>
 
-* **JarlLuis** (1)
+* **JarlLuis** (1) [835856](https://platzi.com/comentario/835856/) 
 
-	
 	PORQUE NO ESTÁ ESTE LOADER ACTIVO EN SU PAGINAA
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [823811](https://platzi.com/comentario/823811/) 
 
-	
 	Muy buena práctica.
 
-* **luis zevallos** (1)
+* **luis zevallos** (1) [660029](https://platzi.com/comentario/660029/) 
 
-	
 	excelente clase
 
-* **Alejo Fonseca** (1)
+* **Alejo Fonseca** (1) [657219](https://platzi.com/comentario/657219/) 
 
-	
 	Increible
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [483309](https://platzi.com/comentario/483309/) 
 
-	
 	Simplemente, excelente clase!
 
-* **Cristhian Camilo Perez Veloza** (1)
+* **Cristhian Camilo Perez Veloza** (1) [427212](https://platzi.com/comentario/427212/) 
 
-	
 	Así animé el [logo de mi marca](https://onecristhian.github.io/animacion-logo/) personal. Es algo sencillo pero aprendí un montón.  
 	Me gustaría ver como animan otros logos.
 
-	* **Hdas** (1)
+	* **Hdas** [427212] (1)
 
-		
 		link roto
 
-* **kikemadrigal** (1)
+* **kikemadrigal** (1) [403461](https://platzi.com/comentario/403461/) 
 
-	
 	Compato mi ejercicio… [Animación Logo Platzi - Codepen](https://codepen.io/kikemadrigalr/pen/MPVeRm)
 
-* **carlos_sanchez** (1)
+* **carlos_sanchez** (1) [386163](https://platzi.com/comentario/386163/) 
 
-	
 	Les comparto mi código de CSS para esta clase, tiene ajustes como el variables de CSS, shorthand de animation y agrupar porcentajes en los @keyframes, espero les sirva:
-	``` 
-	    :root {
+	```     :root {
 	    	--bg-color: #234050;
 	    	--border: 20px;
 	    	--logo-color: #97c93e;
@@ -18879,55 +16779,46 @@ En este vídeo vamos a poner en práctica los conocimientos técnicos ya adquiri
 	    
 	```
 
-* **Jonatan Ruben Sosa Caycay** (1)
+* **Jonatan Ruben Sosa Caycay** (1) [281187](https://platzi.com/comentario/281187/) 
 
-	
 	Excelente clase, desafío: [Codepen.io](https://codepen.io/jjonatansosa/pen/EEeXbV?editors=0100)
 
-* **samvarcia** (1)
+* **samvarcia** (1) [279791](https://platzi.com/comentario/279791/) 
 
-	
 	Asi quedo mi animacion <https://zamiijoke.github.io/platzi-logo/> cambie los colores por que soy un antisistemas jaja 😃
 
-* **Yeraldine Martinez** (1)
+* **Yeraldine Martinez** (1) [224490](https://platzi.com/comentario/224490/) 
 
-	
 	Me encanto la clase!! 😄
 
-	* **Hdas** (1)
+	* **Hdas** [224490] (1)
 
-		
 		Muy buena clase
 
-* **odpinerosh** (1)
+* **odpinerosh** (1) [203828](https://platzi.com/comentario/203828/) 
 
-	
 	Hola. Así me quedó la animación:
 	
 	<https://odpinerosh.github.io/LogoPlatziAnimado/>
 
-* **alodor** (1)
+* **alodor** (1) [202655](https://platzi.com/comentario/202655/) 
 
-	
 	Buena clase 😃
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [202655] (1)
 
-		
 		este es un ejercicio que hace mucho en la empresa para enseñar animaciones y puedes verlos en algunas partes de la interfaz, en especial en my subscription
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [280767](https://platzi.com/comentario/280767/) 
 
-	
 	este es mi logo platzi:  
 	<https://codepen.io/KOLEN94/pen/EEpoyw>
 
-* **Edson J Vargas** (0)
+* **Edson J Vargas** (0) [253460](https://platzi.com/comentario/253460/) 
 
-	
 	Algo curioso sucede cuando implemento esta animación en mi entorno. Es que tengo que agregar a la clase .platzi-left la propiedad de animation-direction: reverse. Esto es porque se inicia con width a 80% y no a 100% en mi caso. No se por qué sucede pero así lo solucioné gracias a lo que he aprendido en clase.
 
-## 0220. Animaciones de Entrada y Salida
+## 0220. Animaciones de Entrada y Salida [6840](https://platzi.com/clases/1103-animaciones-web/6840-animaciones-de-entrada-y-salida/)
 
 ### Descripción:
 
@@ -18937,12 +16828,10 @@ Todo esto desde **CSS**.
 
 ### Comentarios:
 
-* **Geraldyn Daniela Chirinos De Sousa** (25)
+* **Geraldyn Daniela Chirinos De Sousa** (25) [181912](https://platzi.com/comentario/181912/) 
 
-	
 	Hola!! yo otra vez xD solo una acotación, si solo cambio el orden de los elementos como hiciste no queda la misma animación que en animationIn al hacerle reverse (osea como esa sensación de primero rebote y luego que se salga), también hay que invertir la duración/relación de los porcentajes, para ese ejemplo quedaría así:
-	``` 
-	    @keyframes animationIn{
+	```     @keyframes animationIn{
 	    			0%{
 	    				transform: translateY(-3000px);
 	    			}
@@ -18982,61 +16871,50 @@ Todo esto desde **CSS**.
 	
 	😄 😄
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [181912] (2)
 
-		
 		Buen aporte!
 
-	* **Hdas** (2)
+	* **Hdas** [181912] (2)
 
-		
 		Buen aporte!
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [181912] (1)
 
-		
 		cierto tambien pense y aplique la misma.
 
-* **Fabian Gutierrez** (5)
+* **Fabian Gutierrez** (5) [168794](https://platzi.com/comentario/168794/) 
 
-	
 	¿Por que creas dos animaciones en ves de re-usarla con reverse?
 	
 	Saludos.
 
-	* **Leonidas Esteban Gonzalez** (6)
+	* **Leonidas Esteban Gonzalez** [168794] (6)
 
-		
 		Para poder manejarlas mejor con eventos js en el próximo proyecto/clase 😅
 
-	* **Fabian Gutierrez** (3)
+	* **Fabian Gutierrez** [168794] (3)
 
-		
 		vale, otra cosa, podrías arreglar los archivos? esta la animación de platzi…
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [168794] (3)
 
-		
 		Un poquitín tarde pero ya quedaron arreglados los archivos
 
-	* **Fabian Gutierrez** (3)
+	* **Fabian Gutierrez** [168794] (3)
 
-		
 		un poquitin :V jajaja
 
-* **georgehossa** (3)
+* **georgehossa** (3) [441406](https://platzi.com/comentario/441406/) 
 
-	
 	una duda, ¿ese efecto de entrada y salida lo podría setear con el easing de la animación?
 
-	* **Fernando Alejandro Yerena Ramos** (3)
+	* **Fernando Alejandro Yerena Ramos** [441406] (3)
 
-		
 		Se puede hacer con usando cubic-bezier.
 		
 		Seria algo como esto en CSS:
-		``` 
-		    modal {
+		```     modal {
 		    animation-name: modal;
 		    animation-duration: 1s;
 		    animation-timing-function: cubic-bezier(.85,-0.8,.5,1.8);
@@ -19045,8 +16923,7 @@ Todo esto desde **CSS**.
 		```
 		
 		Con JS seria:
-		``` 
-		    $modal.animate([
+		```     $modal.animate([
 		    	/*Keyframes de la animacion*/
 		    ],
 		    {
@@ -19060,22 +16937,18 @@ Todo esto desde **CSS**.
 		
 		Te dejo [como se vería aplicando esos valores](http://cubic-bezier.com/#.85,-0.8,.5,1.8)
 
-	* **Hdas** (1)
+	* **Hdas** [441406] (1)
 
-		
 		Muchas gracias que buen aporte
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [823856](https://platzi.com/comentario/823856/) 
 
-	
 	Cada vez, me gusta más este curso.
 
-* **LiamDi89** (2)
+* **LiamDi89** (2) [493095](https://platzi.com/comentario/493095/) 
 
-	
 	me gustaría crear una imagen donde se combine el movimiento de traslación y rotación, es decir, mientras vaya bajando la imagen al mismo este girando en su propio eje, he tratado este código pero me funciona la traslación o me funciona la rotación, no he podido combinarlos. Algunos consejos para este novato?
-	``` 
-	    body {
+	```     body {
 	        display: flex;
 	        align-items: center;
 	        justify-content: center;
@@ -19139,38 +17012,32 @@ Todo esto desde **CSS**.
 	    
 	```
 
-	* **luarsan** (3)
+	* **luarsan** [493095] (3)
 
-		
 		Hola compañero, espero que ya lo hayas resuelto, pero si no intenta ponerle un position relative al objeto que vas a desplazar y en lugar de usar translateY utiliza la propiedad top, por lo que entendí de tu pregunta me parece que eso lo solucionaría. Te dejo un ejemplo ojala y si sea lo que estabas buscando.  
 		<https://codepen.io/luarzan/pen/wNqPwr>
 
-	* **Hdas** (1)
+	* **Hdas** [493095] (1)
 
-		
 		Que buen aporte muchas gracias
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [493095] (1)
 
-		
 		Genial buen aporte
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [408852](https://platzi.com/comentario/408852/) 
 
-	
 	hacer un animation out, justo lo que no queria cx
 
-* **georgehossa** (2)
+* **georgehossa** (2) [47318](https://platzi.com/comentario/441406/) 
 una duda, ¿ese efecto de entrada y salida lo podría setear con el easing de la animación?
 
-	* **Fernando Alejandro Yerena Ramos** (3)
+	* **Fernando Alejandro Yerena Ramos** [47318] (3)
 
-		
 		Se puede hacer con usando cubic-bezier.
 		
 		Seria algo como esto en CSS:
-		``` 
-		    modal {
+		```     modal {
 		    animation-name: modal;
 		    animation-duration: 1s;
 		    animation-timing-function: cubic-bezier(.85,-0.8,.5,1.8);
@@ -19179,8 +17046,7 @@ una duda, ¿ese efecto de entrada y salida lo podría setear con el easing de la
 		```
 		
 		Con JS seria:
-		``` 
-		    $modal.animate([
+		```     $modal.animate([
 		    	/*Keyframes de la animacion*/
 		    ],
 		    {
@@ -19194,58 +17060,49 @@ una duda, ¿ese efecto de entrada y salida lo podría setear con el easing de la
 		
 		Te dejo [como se vería aplicando esos valores](http://cubic-bezier.com/#.85,-0.8,.5,1.8)
 
-* **conejo22** (1)
+* **conejo22** (1) [909061](https://platzi.com/comentario/909061/) 
 
-	
 	Es mejor trabajarlo así o con el cubic bezier?
 
-* **Juan Osio** (1)
+* **Juan Osio** (1) [897673](https://platzi.com/comentario/897673/) 
 
-	
 	[Aquí](https://codepen.io/juanosio/pen/NWPwbeN) mi pequeña práctica
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [839536](https://platzi.com/comentario/839536/) 
 
-	
 	Listo, muy buena práctica!
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [839336](https://platzi.com/comentario/839336/) 
 
-	
 	Excelente!
 
-* **Alejo Fonseca** (1)
+* **Alejo Fonseca** (1) [657253](https://platzi.com/comentario/657253/) 
 
-	
 	Excelente clase
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [647223](https://platzi.com/comentario/647223/) 
 
-	
 	Este clase es clave la ando repasando ya que veo que Leonidas dejo “espacios” para incorporar mejoras al código del vídeo. Excelente!!!
 
-* **LiamDi89** (1)
+* **LiamDi89** (1) [51555](https://platzi.com/comentario/493095/) 
 me gustaría crear una imagen donde se combine el movimiento de traslación y rotación, es decir, mientras vaya bajando la imagen al mismo...
 
-	* **luarsan** (3)
+	* **luarsan** [51555] (3)
 
-		
 		Hola compañero, espero que ya lo hayas resuelto, pero si no intenta ponerle un position relative al objeto que vas a desplazar y en lugar de usar translateY utiliza la propiedad top, por lo que entendí de tu pregunta me parece que eso lo solucionaría. Te dejo un ejemplo ojala y si sea lo que estabas buscando.  
 		<https://codepen.io/luarzan/pen/wNqPwr>
 
-* **Henry Alejandro  Palacios Lemus** (0)
+* **Henry Alejandro  Palacios Lemus** (0) [277470](https://platzi.com/comentario/277470/) 
 
-	
 	No tiene que ver con la clase en si. Pero hay alguien que sepa por que no me abre una ventana mas amplia para escoger donde puedo guardar el archivo? solo puedo guardar en las carpetas que ven en pantalla pero no puedo decidir por ejemplo entrar a carpetas dentro de esas carpetas
 	
 	![Screen Shot 2018-03-26 at 8.22.36 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202018-03-26%20at%208.22.36%20PM-25f2f3a8-46e6-4aa8-9c65-ec75ff973012.jpg)
 
-	* **raulfbgomez** (0)
+	* **raulfbgomez** [277470] (0)
 
-		
 		al lado derecho de Save As (al final) esta una flecha da clic y te permite elegir la carpeta a guardar
 
-## 0230. Creando un Modal
+## 0230. Creando un Modal [6841](https://platzi.com/clases/1103-animaciones-web/6841-creando-un-modal/)
 
 ### Descripción:
 
@@ -19255,45 +17112,37 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 
 ### Comentarios:
 
-* **rtoto21** (27)
+* **rtoto21** (27) [164734](https://platzi.com/comentario/164734/) 
 
-	
 	Una corrección, align-items y justify-content no alinea los elementos vertical y horizontalmente respectivamente.  
 	align-items los alinea con respecto al cross axis y justify-content con respecto a main axis.  
 	En el caso por defecto es como dices, pero esta mal dicho la definición de alineación vertical y horizontal.
 
-	* **Leonidas Esteban Gonzalez** (19)
+	* **Leonidas Esteban Gonzalez** [164734] (19)
 
-		
 		jejeje tienes razón pero para méritos prácticos es lo mismo, por lo menos visualmente.
 
-	* **Hebert  lughi villafuerte ccacala** (9)
+	* **Hebert  lughi villafuerte ccacala** [164734] (9)
 
-		
 		yo ya me quede con la teoria de leonidas :v siempre centros mis elementos , con  
 		align-items y justify-content .
 
-	* **David Farinango** (1)
+	* **David Farinango** [164734] (1)
 
-		
 		Interesante
 
-	* **alejandroszg** (3)
+	* **alejandroszg** [164734] (3)
 
-		
 		La manera en que eso puede variar es si cambias el flex-direction que, para alinear en el eje principal sería con align-items y en el eje cruzado con justify-content.
 
-	* **irma-davila** (1)
+	* **irma-davila** [164734] (1)
 
-		
 		anotado!
 
-	* **nfabianp60** (1)
+	* **nfabianp60** [164734] (1)
 
-		
 		Aquí va mi código completo del desafío del Modal
-		``` 
-		    <!DOCTYPE html>
+		```     <!DOCTYPE html>
 		    <htmllang="en">
 		    <head>
 		        <metacharset="UTF-8">
@@ -19477,12 +17326,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		    
 		```
 
-* **Geraldyn Daniela Chirinos De Sousa** (18)
+* **Geraldyn Daniela Chirinos De Sousa** (18) [182040](https://platzi.com/comentario/182040/) 
 
-	
 	Aquí esta mi modal con los retos! Me había sucedido que aparte de darle click fuera del modal (en el overlay) para que se ocultara, si le daba click en el mismo modal también se ocultaba, porque detectaba el click en el overlay y como él es el padre… pero lo resolví con un atributo que e arrojo el evento click 😄
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html>
 	    <head>
 	    	<title>Animaciones de Entrada y Salida</title>
@@ -19782,19 +17629,16 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-	* **deveeup** (1)
+	* **deveeup** [182040] (1)
 
-		
 		Justamente estaba buscando lo de srcElement… 😃  
 		Muy buen aporte amiga.
 
-	* **picirilo** (9)
+	* **picirilo** [182040] (9)
 
-		
 		Excelente aporte, justo eso estaba buscando. Solo un aporte: No es necesario comparar el className del srcElement con “overlay”, de hecho podria haber otro elemento con esa clase.  
 		Puedes compararlo directamente con $overlay, asi:
-		``` 
-		    <code>
+		```     <code>
 		    $overlay.addEventListener("click", (e) => 
 		    {
 		        if (e.target == $overlay)
@@ -19805,9 +17649,8 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		    
 		```
 
-	* **kikemadrigal** (1)
+	* **kikemadrigal** [182040] (1)
 
-		
 		Tu acotación me sirvio para darme cuenta de ese pequeño error que quedaba allí…  
 		Utilice tu solución del srcElement solo un poco diferente.
 		
@@ -19815,29 +17658,24 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		
 		Ya que srcElement también contiene el id
 
-	* **Santiago Ricci** (1)
+	* **Santiago Ricci** [182040] (1)
 
-		
 		Excelente aporte. Me sirvió un montón.  
 		Gracias por compartirlo !!!
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [182040] (1)
 
-		
 		Muchas gracias, aprendí mucho con tu ejercicio. 👍
 
-	* **Antonio Madrid** (1)
+	* **Antonio Madrid** [182040] (1)
 
-		
 		¡Muchísimas gracias! ¡Llevaba toda la mañana peleándome con el código! No conseguía hace que el modal se fuera cuando clickeaba fuera de él. ¡Gracias a ti vi la luz!  
 		También me ayudaste a hacer la **X** de forma ingeniosa, ¡admiro tu talento!
 
-* **Adrian Garcia Saaib** (7)
+* **Adrian Garcia Saaib** (7) [638998](https://platzi.com/comentario/638998/) 
 
-	
 	si quieres cerrar el modal cliqueando en el overlay pero tambien se te cierra cuando clickeas en el modal… deberas escribir algo parecido a esto:
-	``` 
-	    $overlay.addEventListener('click', evento =>{
+	```     $overlay.addEventListener('click', evento =>{
 	          if(evento.target.id === 'overlay'){
 	            closeModal();
 	          }
@@ -19847,74 +17685,62 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	
 	lo que dice aqui es que al hacer un click va a verificar que ese click haya sido especificamente en el espacio de overlay, y solo asi se cerrará. De esta manera descalificamos cualquier click sobre el modal. aunque sobre los botones desencadenan otro evento diferente para cerrarlo
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [638998] (1)
 
-		
 		Gracias por el aporte ya lo agregue a mi código. Que bueno es tener un sistema de comentarios justo al lado de la clase uno puede aprender un poco mas de los aportes.
 
-* **Rafael Jair Sanchez Alviso** (7)
+* **Rafael Jair Sanchez Alviso** (7) [284430](https://platzi.com/comentario/284430/) 
 
-	
 	Cual es la diferencia de usar ?  
 	visibility : hiden ;  
 	display: none;
 
-	* **Leonidas Esteban Gonzalez** (13)
+	* **Leonidas Esteban Gonzalez** [284430] (13)
 
-		
 		Buena pregunta, visibility hidden es como tenerlo en opacity 0, el elemento aun existe pero no se ve y es animable, mientras con display none el elemento no es parte de nada y su aparición no se puede animar
 
-	* **alejandroszg** (3)
+	* **alejandroszg** [284430] (3)
 
-		
 		Quiere decir que por más que esté el visibility: hidden, el elemento sigue siendo tangible y ocupa un espacio sin siquiera verse?
 
-* **nik020** (7)
+* **nik020** (7) [173496](https://platzi.com/comentario/173496/) 
 
-	
 	Consulta, podríamos usar transition-delay para el overlay y colocar el tiempo de la animación de salida del modal? Y así no daríamos más tiempo al modal ?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [173496] (4)
 
-		
 		Tu aporte es perfecto solo añade transition-delay: .3s; al .overlay y queda perfecto 👏 muchas gracias.
 
-* **Juan Ramón Rustarazo Garrido** (6)
+* **Juan Ramón Rustarazo Garrido** (6) [214378](https://platzi.com/comentario/214378/) 
 
-	
 	Me costó hacer que se fuera el modal haciendo click fuera de él, así es como quedó. (el modal entra haciendo click en el header)
 	
 	<https://juan-ra.github.io/Desafio-animacion-modal/>
 	
 	aquí está el repositorio: <https://github.com/Juan-Ra/Desafio-animacion-modal>
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [214378] (0)
 
-		
 		Te ha quedado súper bien Juan, éxito con el resto del curso!
 
-* **kikemadrigal** (3)
+* **kikemadrigal** (3) [415416](https://platzi.com/comentario/415416/) 
 
-	
 	Aquí mi aporte con los retos. El código no está del todo optimizado ya que duplique código en lugar de hacer funciones. Pero Solo lo deje así para efectos de esta clase.
 	
 	[Modal - Retos Clase](https://codepen.io/kikemadrigalr/pen/MzYMom)
 
-	* **Hdas** (1)
+	* **Hdas** [415416] (1)
 
-		
 		Buen aporte muchas gracias
 
-* **David Vargas Domínguez** (3)
+* **David Vargas Domínguez** (3) [358452](https://platzi.com/comentario/358452/) 
 
-	
 	Reto cumplido!
 	
 	<https://codepen.io/davos_/pen/djxEvb>
 	
 	Para el botón de close user el ::before y ::after 🍻 🍻
-	``` 
-	    	.close-button {
+	```     	.close-button {
 	                    position: absolute;
 	                    top: 20px;
 	                    right: 35px;
@@ -19944,22 +17770,18 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [358452] (1)
 
-		
 		Buen aporte muchas gracias buena información
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [358452] (1)
 
-		
 		gracias
 
-* **Armando Duarte Quiñones** (2)
+* **Armando Duarte Quiñones** (2) [615995](https://platzi.com/comentario/615995/) 
 
-	
 	agregue una pequeña animacion al decir no y otra al darle click en la “X” juntos con un sweet alert
-	``` 
-	    <script>
+	```     <script>
 	        const $hideButton = document.getElementById('hide-modal')
 	        const $modal = document.getElementById('modal')
 	        const $overlay = document.getElementById('overlay')
@@ -19991,58 +17813,48 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Daniel Nava** (2)
+* **Daniel Nava** (2) [431628](https://platzi.com/comentario/431628/) 
 
-	
 	muy buena clase, acá adjunto mi trabajo.[github](https://dnavamosler.github.io/modal/)
 
-	* **Daniel Nava** (1)
+	* **Daniel Nava** [431628] (1)
 
-		
 		click en el header hacer in al modal
 
-	* **Hdas** (1)
+	* **Hdas** [431628] (1)
 
-		
 		Buen aporte muchas gracias
 
-* **David Farinango** (2)
+* **David Farinango** (2) [408055](https://platzi.com/comentario/408055/) 
 
-	
 	Como se cuando utilizar .style y cuando .classList en javascript, como nos dice en el minuto 20:45?
 
-	* **JuanDAC** (2)
+	* **JuanDAC** [408055] (2)
 
-		
 		Varía de la forma en que trabaje tu equipo de desarrollo pero Style es más cuando vas a editar una sola propiedad del elementos y cosas cuando modificas más, ya que es más fácil agregar la clases que varias líneas al Style desde JS.  
 		Ahora si me preguntas en estos momentos a mi te diría que es mejor con clase a menos que estés utilizando la API de animaciones desde JS.
 
-	* **Hdas** (2)
+	* **Hdas** [408055] (2)
 
-		
 		Buen aporte muchas gracias buena información
 
-	* **asanchez2091** (2)
+	* **asanchez2091** [408055] (2)
 
-		
 		por lo que puede ver uso el style para añadir una animación.  
 		y uso el class para quitar las propiedades que tenia en el css.m por lo tanto elimino la visibilidad y opacidad del elemento.
 
-* **Aufsten** (2)
+* **Aufsten** (2) [385459](https://platzi.com/comentario/385459/) 
 
-	
 	Reto cumplido, se me ocurren infinidad de usos para la lección de hoy! 😃  
 	<https://codepen.io/fernando-monares/full/bxZQaM/>
 
-* **Andrés Felipe Eslava Zuluaga** (2)
+* **Andrés Felipe Eslava Zuluaga** (2) [184476](https://platzi.com/comentario/184476/) 
 
-	
 	Que tal?  
 	Les comparto mi aporte: <https://afelipelds.github.io/Animaciones-web/animation-modal.html>
 	
 	El código:
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -20237,12 +18049,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	
 	Gracias!! 8)
 
-* **María del Carmen Ramírez Arana** (2)
+* **María del Carmen Ramírez Arana** (2) [171898](https://platzi.com/comentario/171898/) 
 
-	
 	Aquí esta mi ejemplo. Una pregunta en Javascript es posible hacer una constante llamando multiples id al mismo tiempo?
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html>
 	      <head>
 	        <metacharset="utf-8">
@@ -20409,36 +18219,30 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [171898] (4)
 
-		
 		Hola, puedes hacerlo creando un array con los ids que necesitas y luego recorres ese array y aplicas lo que necesitas a todos los ids.
 
-	* **María del Carmen Ramírez Arana** (0)
+	* **María del Carmen Ramírez Arana** [171898] (0)
 
-		
 		Muchas gracias!
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [171898] (5)
 
-		
 		puedes hacer un selector de clase y tener multiples elementos luego recorrerlos con un forEach por ejemplo y asignarles eventos o lo que quieras.
 		
 		algo así
-		``` 
-		    const $elements = document.querySelector('.item');
+		```     const $elements = document.querySelector('.item');
 		    $elements.forEach((element) => {
 		    	element.classList.add('mi-animacion');
 		    })
 		    
 		```
 
-	* **Juan Barboza** (0)
+	* **Juan Barboza** [171898] (0)
 
-		
 		Yo lo resolví haciendo algo así:
-		``` 
-		    	const $hideBtn = document.getElementById('hide-modal');
+		```     	const $hideBtn = document.getElementById('hide-modal');
 		    	const $wnBtn = document.getElementById('warning-btn');
 		    	btns.forEach(function(btn){
 		            btn.addEventListener("click", (event) => {
@@ -20450,14 +18254,12 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		    
 		```
 
-* **David Behar** (1)
+* **David Behar** (1) [1093049](https://platzi.com/comentario/1093049/) 
 
-	
 	Así se ve mi javascript, sólo tengo una duda, mi modal forma parte del overlay,  
 	.  
 	Cómo le podría hacer para que al dar click en mi modal no esté clickeando el overlay?
-	``` 
-	    const $hideBtn = document.getElementById('hide-modal')
+	```     const $hideBtn = document.getElementById('hide-modal')
 	    const $modal = document.getElementById('modal')
 	    const $overlay = document.getElementById('overlay')
 	    const $image = document.getElementById('image')
@@ -20480,10 +18282,9 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **jonymonroy** (1)
+* **jonymonroy** (1) [1044949](https://platzi.com/comentario/1044949/) 
 
-	```
-	            const hideButton = document.getElementById('hide-modal');
+	```            const hideButton = document.getElementById('hide-modal');
 	            const modal = document.getElementById('modal');
 	            const overlay = document.getElementById('overlay');
 	            const imgButton = document.getElementById('imgButton');
@@ -20510,31 +18311,26 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Rodrigo Cuenca Mayuri** (1)
+* **Rodrigo Cuenca Mayuri** (1) [1012293](https://platzi.com/comentario/1012293/) 
 
-	
 	Reto cumplido! funcionan todos los botones y también al darle click al overlay.
 	
 	![platzi.PNG](https://static.platzi.com/media/user_upload/platzi-6bf6f726-5e4c-4479-8c42-a389383e1970.jpg)
 
-* **Edgardo Marcano** (1)
+* **Edgardo Marcano** (1) [956422](https://platzi.com/comentario/956422/) 
 
-	
 	11:14 “El botón que dice que… Ñop” JAJAJAJA😂
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [948177](https://platzi.com/comentario/948177/) 
 
-	
 	Lo logre pero he tenido problemas subiendo mi código
 
-* **Wuilfredo Azócar** (1)
+* **Wuilfredo Azócar** (1) [946500](https://platzi.com/comentario/946500/) 
 
-	
 	Reto completado, dejo mi codigo js por si a alguien le sirve de ejemplo. Para ocultar el modal me apoye en una sola funcion la cual se llama a través de los botones, y use diferentes if para saber desde donde llega el evento. Sin embargo se podria optimizar con un solo if y condicionales “or”. La lógica que use fue comprar si el elemento que recibe el click es el mismo elemento que tengo guardado en mis variables.
 	
 	Adicionalmente para volver al estilo inicial, como estoy dando estilos a una etiqueta, los quito y vuelve a su estado inicial con los estilos de clase.
-	``` 
-	    // Elementos base de Leonidas
+	```     // Elementos base de Leonidas
 	    const $hideButton = document.getElementById("hide-modal");
 	    const $modal = document.getElementById("modal");
 	    const $overlay = document.getElementById("overlay");
@@ -20595,23 +18391,19 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-	* **Edgardo Marcano** (1)
+	* **Edgardo Marcano** [946500] (1)
 
-		
 		Como hiciste para dibujar la X?
 
-	* **Wuilfredo Azócar** (1)
+	* **Wuilfredo Azócar** [946500] (1)
 
-		
 		Para la X solo use un elemento de ancha:
-		``` 
-		    <ahref="#"class="close js-close">x</a>
+		```     <ahref="#"class="close js-close">x</a>
 		    
 		```
 		
 		con los siguientes estilos:
-		``` 
-		    .close
+		```     .close
 		    {
 		        text-decoration: none;
 		        color: #262626;
@@ -20628,12 +18420,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		    
 		```
 
-* **Juan Osio** (1)
+* **Juan Osio** (1) [897910](https://platzi.com/comentario/897910/) 
 
-	
 	Reto cumplido
-	``` 
-	    const showModal = document.getElementById('showModal');
+	```     const showModal = document.getElementById('showModal');
 	    		const hideModal = document.getElementById('hide-modal');
 	    		let modal = document.querySelector('.modal');
 	    		let overlay = document.querySelector('.overlay');
@@ -20653,10 +18443,9 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **lgfh** (1)
+* **lgfh** (1) [886060](https://platzi.com/comentario/886060/) 
 
-	```
-	     const img = document.getElementById('img');
+	```     const img = document.getElementById('img');
 	            const overlay = document.getElementById('overlay');
 	            const modal = document.getElementById('modal');
 	            const exit = document.getElementById('exit');
@@ -20692,56 +18481,48 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **urieelmm** (1)
+* **urieelmm** (1) [849487](https://platzi.com/comentario/849487/) 
 
-	
 	reto cumplido Les comparto mi código JS
 	
 	![Anotación 2019-12-03 230801.png](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202019-12-03%20230801-a5adebfb-28c6-4dc6-9421-3c1cd2d964c0.jpg)
 
-* **cristian-salem-quilodran-parra** (1)
+* **cristian-salem-quilodran-parra** (1) [842525](https://platzi.com/comentario/842525/) 
 
-	
 	excelente clase!!!
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [839538](https://platzi.com/comentario/839538/) 
 
-	
 	Listos los retos!
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [833717](https://platzi.com/comentario/833717/) 
 
-	
 	Cuando se quita el modal y el overlay se hace una transición muy lenta, hay alguna manera de optimizar esto a parte de will-change?
 	
 	Muchas gracias
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [833410](https://platzi.com/comentario/833410/) 
 
-	
 	Realice el reto, pero cuando hago el código en un .js externo no me lee el animate, por qué?
 	
 	Muchas gracias
 
-	* **Kevin Javier Morales (Platzi)** (1)
+	* **Kevin Javier Morales (Platzi)** [833410] (1)
 
-		
 		Tal vez tienes un problema al llamar el archivo .js. Muéstranos tu código o el error para poder ayudarte 😃
 
-	* **BrysonFlorez** (1)
+	* **BrysonFlorez** [833410] (1)
 
-		
 		Si tienes razón, lo que pasaba es que estaba enlazando el archivo en el head del html, y estaba mal, lo puse al final, antes del cierre de la etiqueta body y funcionó correctamente. Muchas gracias por la pronta respuesta
 
-* **David Alejandro Mosquera Moreno** (1)
-![](http://i.imgur.com/ZEEbcvP.gif)
-
-* **lmoran** (1)
-
+* **David Alejandro Mosquera Moreno** (1) [820084](https://platzi.com/comentario/820084/) 
 	
+	![](http://i.imgur.com/ZEEbcvP.gif)
+
+* **lmoran** (1) [805049](https://platzi.com/comentario/805049/) 
+
 	Reto cumplido.
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    
 	    <head>
@@ -20922,12 +18703,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Juan Reyes** (1)
+* **Juan Reyes** (1) [746184](https://platzi.com/comentario/746184/) 
 
-	
 	Aca mi ejemplo
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -21089,17 +18868,16 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Alfredo Gonzalez** (1)
-![Screen Shot 2019-08-26 at 20.41.28.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-26%20at%2020.41.28-d1db9548-a6a8-4272-9a63-d4c7178b7e1b.jpg) ![Screen Shot 2019-08-26 at 20.41.54.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-26%20at%2020.41.54-6aef6d41-10e4-407c-ac3a-c4d594182b15.jpg)
+* **Alfredo Gonzalez** (1) [708899](https://platzi.com/comentario/708899/) 
+	
+	![Screen Shot 2019-08-26 at 20.41.28.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-26%20at%2020.41.28-d1db9548-a6a8-4272-9a63-d4c7178b7e1b.jpg) ![Screen Shot 2019-08-26 at 20.41.54.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-26%20at%2020.41.54-6aef6d41-10e4-407c-ac3a-c4d594182b15.jpg)
 	
 	:p ❤️
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [700954](https://platzi.com/comentario/700954/) 
 
-	
 	Así dejé mi ejercicio:
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -21274,12 +19052,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Yoel Ribero** (1)
+* **Yoel Ribero** (1) [665221](https://platzi.com/comentario/665221/) 
 
-	
 	Este en mi código con el desafío terminado. Le agregué algunas cosas a mi gusto y es bueno notar también que a la hora de ocultar el modal con el overlay tuve que hacer un if para que lo oculte sólo cuando se clickea fuera del contenido ya que sino cuando hacía click por ej en el título se ocultaba el modal.
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -21451,12 +19227,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Almu_timkerbell** (1)
+* **Almu_timkerbell** (1) [664518](https://platzi.com/comentario/664518/) 
 
-	
 	Este es mi código. Está muy simple, pero ahí va. BTW, ¿no habría manera de no repetir tanto código Javascript? Gracias!😃
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -21627,12 +19401,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **miguel-angel-baquero** (1)
+* **miguel-angel-baquero** (1) [663938](https://platzi.com/comentario/663938/) 
 
-	
 	Aquí les comparto mi aporte para cualquiera que desee consultar dudas en cómo realizar el ejercicio:
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -21800,34 +19572,28 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [647382](https://platzi.com/comentario/647382/) 
 
-	
 	Aquí les dejo mi desafió <https://github.com/alejandrohetaroi/CSS-Platzi-Projects/blob/master/animacion-entrada-salida.html>
 
-* **Camilo Andrés Santana Lizcano** (1)
+* **Camilo Andrés Santana Lizcano** (1) [625124](https://platzi.com/comentario/625124/) 
 
-	
 	Este efecto tambien se puede logar con al pseudo clase ::target de una elemento a
 
-* **Yonathan Palma** (1)
+* **Yonathan Palma** (1) [615608](https://platzi.com/comentario/615608/) 
 
-	
 	Desafío listo no es la gran cosa pero qureria compartirlo  
 	[Desafío](https://codepen.io/anon/pen/MMaJNX)
 
-* **Juan Enrique García Costas** (1)
+* **Juan Enrique García Costas** (1) [604711](https://platzi.com/comentario/604711/) 
 
-	
 	srcElement vs target  
 	¿Cual es más recomendable para filtrar el evento?
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [591174](https://platzi.com/comentario/591174/) 
 
-	
 	Para los estilos use los mismos que Leonidas (notese que tengo linkeado a una hoja de estilos). Esto es solo HTMl y el JS
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	       <metacharset="UTF-8">
@@ -21888,12 +19654,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [591173](https://platzi.com/comentario/591173/) 
 
-	
 	Para los estilos use exactamente los mismos que Leonidas. Esto es solo HTML y el JS
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	       <metacharset="UTF-8">
@@ -21954,10 +19718,9 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [591172](https://platzi.com/comentario/591172/) 
 
-	```
-	    body {
+	```    body {
 	       display: flex;
 	       align-items: center;
 	       justify-content: center;
@@ -22142,10 +19905,9 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [591171](https://platzi.com/comentario/591171/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	       <metacharset="UTF-8">
@@ -22301,27 +20063,23 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	}  
 	}```
 
-* **LiamDi89** (1)
+* **LiamDi89** (1) [589316](https://platzi.com/comentario/589316/) 
 
-	
 	que puedo hacer para que el modal no aparezca automáticamente y solo cuando aparezca cuando oprima un botón?
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [589316] (1)
 
-		
 		Hola.
 		
 		Se puede poner por defecto que el modal no se muestre:
-		``` 
-		    .modal {
+		```     .modal {
 		      display: none;
 		    }
 		    
 		```
 		
 		Y cuando se de click en el boton hacer que se muestre y agregar la animación:
-		``` 
-		    button.addEventListener('click', event => {
+		```     button.addEventListener('click', event => {
 		      modal.style.display = 'block';
 		      modal.style.animation = 'animationName';
 		    });
@@ -22330,30 +20088,25 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		
 		Saludos.
 
-* **Isaias Chávez** (1)
+* **Isaias Chávez** (1) [573902](https://platzi.com/comentario/573902/) 
 
-	
 	Yo utilicé una curva de bezier para que el overlay se mantuviera y en el último momento saliera de golpe cuando se fuera el modal
-	``` 
-	    transition: 1.1scubic-bezier(1,-0.22,.26,1.01);
+	```     transition: 1.1scubic-bezier(1,-0.22,.26,1.01);
 	    
 	```
 
-* **Jehaann Manzanares** (1)
+* **Jehaann Manzanares** (1) [572149](https://platzi.com/comentario/572149/) 
 
-	
 	**# Reto Cumplido**
 	
 	Puedes ver mi modal aquí [Modal Nike ](https://jehaann07.github.io/modal-nike/)
 	
 	Deja tu manita arriba 👍 y dime que tal me ha quedado.
 
-* **Ian Mande** (1)
+* **Ian Mande** (1) [564647](https://platzi.com/comentario/564647/) 
 
-	
 	Oigan para desaparecer el Overly no le añadí una clase si no que le puse un Visibity y el opacity a las estilos con javascript
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <html>
 	    <head>
 	        <metacharset="utf-8" />
@@ -22492,29 +20245,24 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Ian Mande** (1)
+* **Ian Mande** (1) [564445](https://platzi.com/comentario/564445/) 
 
-	
 	Hola. Aun no hago el reto pero les quiero enseñar mi modal que yo hizo en mi único trabajo profesional [Aca](sumat.go.ve)
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [560581](https://platzi.com/comentario/560581/) 
 
-	
 	¿Sera que luego de tanto trabajar con una misma paleta de colores te terminas aprendiendo todos los hexadecimales de la paleta, o es que Leonidas se los sabe todos ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [560581] (2)
 
-		
 		Hay colores que usas muchos y terminas aprendiendo los valores de memoria, es similar a las propiedades CSS te sabes de memoria las que mas usas, pero hay unas que no usas tanto y tienes que recurrir a la documentación.
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [560581] (1)
 
-		
 		cierto GOLLUM23 muchas gracias.
 
-* **Luis Fernando Valladares Castro** (1)
+* **Luis Fernando Valladares Castro** (1) [551791](https://platzi.com/comentario/551791/) 
 
-	
 	Hola a todos, soy un viejo alumno del curso y deseo compartirles una **Guia de Animaciones para la Web** basada en los conocimientos adquiridos en este curso con definiciones y excelentes ejemplos para que pueda servirles como referencia y ayuda extra.
 	
 	La guía cuenta con una **Pagina Web Demostrativa** , la cual, integra la mayoría de las animaciones diseñadas en esta sección y a lo largo del curso.
@@ -22525,28 +20273,24 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	**Pagina Web:**<https://luisvalladaresc.github.io/animaciones-css/>  
 	![](https://static.platzi.com/media/porfilio/css-animaciones_9ea16b8e-bd81-4c06-9563-0479ff047e5a.PNG)
 
-* **irvingmeyer** (1)
+* **irvingmeyer** (1) [549770](https://platzi.com/comentario/549770/) 
 
-	
 	Qué es un Overlay?  
 	Generalmente es un contenido publicitario que aparece, normalmente, en una capa superpuesta a un contenido audiovisual. Es el nombre q se le asigna al contenedor de un modal.
 	
 	Qué es un Modal?  
 	Un cuadro modal es una ventana que aparece superpuesta a toda la página actual. Para cerrarla podemos presionar la “x”, disponer un botón de cerrado o presionar en cualquier parte fuera del diálogo.
 
-* **Habith José Mendoza Martínez** (1)
+* **Habith José Mendoza Martínez** (1) [544266](https://platzi.com/comentario/544266/) 
 
-	
 	Cómo puede modificarse el **animation** con un elemento llamado por _document.getElementsByClassName_ y no por el Id?
 
-	* **Jesus Alejandro Niño Moreno** (1)
+	* **Jesus Alejandro Niño Moreno** [544266] (1)
 
-		
 		En ese caso getElementByClassName te devuelve una coleccion de elementos con todos los elementos que tienene la clase que busques, entonces para cambiarle el animation tienes que acceder al elemento de esa coleccion al que se lo deseas cambiar.
 
-* **platzipcimx** (1)
+* **platzipcimx** (1) [533395](https://platzi.com/comentario/533395/) 
 
-	
 	Aqui les dejo mi reto.
 	
 	[Reto **Modal**](https://codepen.io/IsaelH/pen/oVGjep)
@@ -22554,12 +20298,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	Otro escalón mas.  
 	Saludos…
 
-* **hnavarrete** (1)
+* **hnavarrete** (1) [533073](https://platzi.com/comentario/533073/) 
 
-	
 	Me quedó así el reto;
-	``` 
-	    var modal = document.getElementById('modal');
+	```     var modal = document.getElementById('modal');
 	            var overlay = document.getElementById('overlay');
 	            var times = document.getElementById('times');
 	            var btnNo = document.getElementById('btnNo');
@@ -22590,12 +20332,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Robin Jaime Beltran Montijo** (1)
+* **Robin Jaime Beltran Montijo** (1) [523258](https://platzi.com/comentario/523258/) 
 
-	
 	Solo como experimento, la animación vuelve a entrar al hacer scroll
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -22742,21 +20482,18 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Hdas** (1)
+* **Hdas** (1) [522521](https://platzi.com/comentario/522521/) 
 
-	
 	[https://codepen.io/corpsehdas/pen/wOapxm](url)
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [518732](https://platzi.com/comentario/518732/) 
 
-	
 	Dejo enlaces del reto  
 	Repositorio: <https://github.com/DaneliaSanchz/modal>  
 	Página: <https://daneliasanchz.github.io/modal/>
 
-* **maoacrlearn** (1)
+* **maoacrlearn** (1) [514547](https://platzi.com/comentario/514547/) 
 
-	
 	teniendo el primer event, los otros dos eran muy sencillos de hacer, por aqui idejo mi codigo.
 	
 	<!DOCTYPE html>  
@@ -22773,8 +20510,7 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	margin: 0;  
 	font-family: Arial;  
 	flex-direction: column;
-	``` 
-	    }
+	```     }
 	    .btn {
 	      text-align: center;
 	      padding: .6em .8em .8em;
@@ -22898,8 +20634,7 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	const $overlay = document.getElementById(‘overlay’);  
 	const $cerrar = document.getElementById(‘cerrar’);  
 	const $no = document.getElementById(‘no’);
-	``` 
-	    $hideButton.addEventListener('click', (event) => {
+	```     $hideButton.addEventListener('click', (event) => {
 	      // console.log(event);
 	      $modal.style.animation = 'modalOut .8s forwards';
 	      $overlay.classList.remove('active');
@@ -22923,15 +20658,13 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	</body>  
 	</html>
 
-	* **maoacrlearn** (1)
+	* **maoacrlearn** [514547] (1)
 
-		
 		Alguien sabe por que algunas partes del codigo se suben con este formato con background: black y otras partes no ?
 
-* **osvaldo-trejo** (1)
+* **osvaldo-trejo** (1) [505608](https://platzi.com/comentario/505608/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en"dir="ltr">
 	    	<head>
 	    		<metacharset="utf-8">
@@ -23105,29 +20838,24 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Karina Betzabe Romero Ulloa** (1)
+* **Karina Betzabe Romero Ulloa** (1) [496721](https://platzi.com/comentario/496721/) 
 
-	
 	Hola! que tal, [aquí](https://github.com/KarinaRomero/animations/blob/master/modal/index.html) mi ejercicio de modal, saludos.
 
-* **Carmen Sánchez Salgado** (1)
+* **Carmen Sánchez Salgado** (1) [495000](https://platzi.com/comentario/495000/) 
 
-	
 	Reto solucionado! = )
 	
 	<https://codepen.io/eessm01/pen/jdVwGy>
 
-	* **Hdas** (1)
+	* **Hdas** [495000] (1)
 
-		
 		Buen aporte muchas gracias
 
-* **Alexander Henry Obispo Buendia** (1)
+* **Alexander Henry Obispo Buendia** (1) [488293](https://platzi.com/comentario/488293/) 
 
-	
 	Solución del reto 😄
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	    	<metacharset="UTF-8">
@@ -23288,10 +21016,9 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **JhonyBurbano08** (1)
+* **JhonyBurbano08** (1) [472847](https://platzi.com/comentario/472847/) 
 
-	```
-	    <script>
+	```    <script>
 	        const $hideButtonSi = document.getElementById('hide-modal-si');
 	        const $hideButtonNo = document.getElementById('hide-modal-no');
 	        const $modal = document.getElementById('modal');
@@ -23318,12 +21045,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **Henry Garcia** (1)
+* **Henry Garcia** (1) [437325](https://platzi.com/comentario/437325/) 
 
-	
 	Comparto mi solucion para evitar que el modal cuando pulsas cualquier zona de el mismo.
-	``` 
-	    const $btnClose = document.getElementById('btnClose')
+	```     const $btnClose = document.getElementById('btnClose')
 	          const $btnAceptar = document.getElementById('btnAceptar')
 	          const $btnCancelar = document.getElementById('btnCancelar')
 	          const $overlay = document.getElementById('overlay')
@@ -23343,13 +21068,11 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **alejandroszg** (1)
+* **alejandroszg** (1) [431591](https://platzi.com/comentario/431591/) 
 
-	
 	Esta clase hace que te enamores poco a poco de JavaScript.  
 	Adjunto mi código:
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -23501,61 +21224,50 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	    
 	```
 
-* **David Farinango** (1)
+* **David Farinango** (1) [408046](https://platzi.com/comentario/408046/) 
 
-	
 	Como se cuando utilizar style y cuando classList? en javascript?
 
-	* **Esteban Ciudad** (1)
+	* **Esteban Ciudad** [408046] (1)
 
-		
 		Es simple, utilizar la propiedad style de un elemento solo cuando se necesite cambiar un valor de estilo puntual. En cambio, si los estilos que se quieren cambiar son múltiples, se necesita agruparlos en una nueva clase, luego para aplicarlos debes usar el método classList.add() para agregarlo o .remove() para quitarlo según sea el caso.
 
-	* **Hdas** (1)
+	* **Hdas** [408046] (1)
 
-		
 		Buen aporte muchas gracias buena información
 
-* **Camilo Castillo** (1)
+* **Camilo Castillo** (1) [379761](https://platzi.com/comentario/379761/) 
 
-	
 	<https://camilocas88.github.io/modal/>
 
-* **Camilo Castillo** (1)
+* **Camilo Castillo** (1) [379716](https://platzi.com/comentario/379716/) 
 
-	
 	Desafió resuelto aquí está el repositorio:
 	
 	<https://github.com/camilocas88/modal>
 
-* **Enyelber Altube** (1)
+* **Enyelber Altube** (1) [362716](https://platzi.com/comentario/362716/) 
 
-	
 	Esto si me gusto…
 
-	* **Hdas** (1)
+	* **Hdas** [362716] (1)
 
-		
 		Muy buena clase
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353113](https://platzi.com/comentario/353113/) 
 
-	
 	Ya con todos los estilos agregados, me quedo asi 😄  
 	![Screenshot from 2018-08-11 15-49-29.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-08-11%2015-49-29-1254f804-11be-4d4b-9408-20e5ccac0036.jpg)
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [353113] (1)
 
-		
 		Hasta ahora que acabe la clase y veo el desafio me quedo asi:  
 		![Screenshot from 2018-08-11 16-17-21.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-08-11%2016-17-21-5fba7494-d291-4228-85af-bf988eba55a0.jpg)
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353110](https://platzi.com/comentario/353110/) 
 
-	
 	Yo le agregue una clase **hide-modal** a cada boton y el **JavaScript** me quedo asi:
-	``` 
-	    const $hideModal = document.getElementsByClassName('hide-modal')
+	```     const $hideModal = document.getElementsByClassName('hide-modal')
 	    const $modal = document.getElementById('modal')
 	    const $overlay = document.getElementById('overlay')
 	    
@@ -23573,12 +21285,10 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 	
 	Ahora veamos como lo hiciste tu, Leonidas 😄
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [353110] (1)
 
-		
 		El codigo termino cambiando a esto JAJAJ:
-		``` 
-		    const $hideModal = document.getElementsByClassName('hide-modal')
+		```     const $hideModal = document.getElementsByClassName('hide-modal')
 		    const $modal = document.getElementById('modal')
 		    const $overlay = document.getElementById('overlay')
 		    
@@ -23605,49 +21315,40 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		    
 		```
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353096](https://platzi.com/comentario/353096/) 
 
-	
 	Sigo sin saber como es que se aprende los colores ._.
 	
 	¿O los anotas, Leonidas? JAJAJ
 
-	* **davidtoca (Platzi)** (2)
+	* **davidtoca (Platzi)** [353096] (2)
 
-		
 		no creo que los aprenda todos, simplemente el diseño ya tiene el color así que es solo copiar y pegar, aunque hay ciertos colores que uno usa seguido, por ejemplo el color blanco y el negro
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [353096] (1)
 
-		
 		@davidtoca Quizas sea asi 😮
 
-	* **Hdas** (1)
+	* **Hdas** [353096] (1)
 
-		
 		es verdad después de repetirlos muchas veces se aprender
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353062](https://platzi.com/comentario/353062/) 
 
-	
 	En el **Curso de Fundamentos de JavaScript** , en la parte cuando hablan sobre el **setTimeout()** y el **setTimeInterval()** , hablas sobre un reto o algo asi. Hice el reto en cuanto acabe de ver la clase y me quedo asi:
 	
 	  * Codigo: <https://github.com/alan4dev/ModalTimeinterval>
 	  * Web: <https://alan4dev.github.io/ModalTimeinterval/>
 	
-	
-	
 	Lo hice con **Programacion Orientada a Objetos** , sin ninguna animacion. Ahora se que la podria mejorar 😄
 
-* **Luis Daniel Becerra Avellaneda** (1)
+* **Luis Daniel Becerra Avellaneda** (1) [348591](https://platzi.com/comentario/348591/) 
 
-	
 	Tengo un problema, al hacer la parte de que se oculte al hacer click en el overlay, este, al ser padre del modal, hace que al tocal cualquier parte del modal tambien se cierre
 
-	* **Adrian Garcia Saaib** (1)
+	* **Adrian Garcia Saaib** [348591] (1)
 
-		```
-		    $overlay.addEventListener('click', function(evento){ //oculta el modal y el overlay al hacer click sobre este ulltimo
+		```    $overlay.addEventListener('click', function(evento){ //oculta el modal y el overlay al hacer click sobre este ulltimo
 		          if(evento.srcElement.className == 'overlay active'){//se pregunta si el objeto donde se hizo click es el overlay, esto para evitar que si se clickea al hijo del overlay (el modal), este tambien se oculte.
 		            console.log('overlay');
 		            closeModal();
@@ -23658,189 +21359,159 @@ En este vídeo practicaremos animaciones sencillas creando un modal.
 		    
 		```
 
-* **José Rubial** (1)
+* **José Rubial** (1) [306168](https://platzi.com/comentario/306168/) 
 
-	
 	Mi ejercicio <https://franciscorubial.com.ve/modal/>
 
-	* **Oscar Barajas Tavares (Platzi)** (0)
+	* **Oscar Barajas Tavares (Platzi)** [306168] (0)
 
-		
 		¡Quedo muy bien!
 
-	* **Hdas** (1)
+	* **Hdas** [306168] (1)
 
-		
 		Buen aporte muchas gracias
 
-* **Jhonny Stiven Agudelo Tenorio** (1)
+* **Jhonny Stiven Agudelo Tenorio** (1) [286719](https://platzi.com/comentario/286719/) 
 
-	
 	me pueden hacer el favor de explicar las diferencias entre var vs const vs let.  
 	gracias
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [286719] (2)
 
-		
 		var => Defines variables de manera global, pueden ser accedidas desde cualquier parte del código
 		
 		let => Defines variables pero el alcance esta limitado al bloque de código donde es definido ya sea una función un ciclo etc.
 		
 		const => Defines una constante, algo que no cambia, se usa mucho para asignar funciones ya que la función no cambia, puede cambiar los parámetros que recibe pero la función siempre es la misma.
 
-* **Jonatan Ruben Sosa Caycay** (1)
+* **Jonatan Ruben Sosa Caycay** (1) [281516](https://platzi.com/comentario/281516/) 
 
-	
 	Como están, adjunto el desafío [Codepen.io](https://codepen.io/jjonatansosa/pen/zWmqJM?editors=0010)
 	
 	Saludos
 
-* **racg21** (1)
+* **racg21** (1) [230479](https://platzi.com/comentario/230479/) 
 
-	
 	por aqui dejo mi modal  
 	<https://codepen.io/racg211/pen/wpKeZM>
 
-* **odpinerosh** (1)
+* **odpinerosh** (1) [205128](https://platzi.com/comentario/205128/) 
 
-	
 	Buenas noches. Esta es mi solución al reto:
 	
 	<https://odpinerosh.github.io/ModalPlatzi/>
 	
 	Aquí está el código: <https://github.com/odpinerosh/ModalPlatzi>
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [205128] (0)
 
-		
 		Buenísimo, solo ten cuidado con la animación de salida. Lo más sencillo es dar una transición al overlay.
 
-	* **odpinerosh** (0)
+	* **odpinerosh** [205128] (0)
 
-		
 		La animación solamente sirve en el primer clic. Después de eso, el modal sale en su tamaño normal. ¿Existe alguna forma de controlar esto? Supongo que se debe hacer con programación, pero quisiera confirmar que la animación con CSS solamente sucede una vez, a menos que se especifique “infinite”.
 		
 		Gracias.
 
-	* **odpinerosh** (0)
+	* **odpinerosh** [205128] (0)
 
-		
 		Ya lo resolví. No pensé que fuera tan sencillo.
 
-* **danhergir** (1)
+* **danhergir** (1) [175837](https://platzi.com/comentario/175837/) 
 
-	
 	Si queremos que el modal se esconda al darle en un botón, ¿Por qué simplemente no utilizamos una etiqueta <a href="#"></a>, y así lo redirigimos a la página principal.
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [175837] (2)
 
-		
 		Depende de tu negocio, pero en una single page app los modales se ocultan en la misma pagina sin recargar el navegador otra vez.
 
-	* **Hdas** (1)
+	* **Hdas** [175837] (1)
 
-		
 		Muchas gracias
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [62372](https://platzi.com/comentario/639046/) 
 Excelente todo lo que se puede lograr con las propiedades de CSS vistas hasta el momento
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [62372] (1)
 
-		
 		Es un mundo amplio! y realmente es un perfil que se tiende a abandonar y por ende, la gente termina escribiendo css muy básico dejando de lado el poder del mismo.
 
-* **Juan Enrique García Costas** (1)
+* **Juan Enrique García Costas** (1) [60386](https://platzi.com/comentario/604711/) 
 srcElement vs target ¿Cual es más recomendable para filtrar el evento?
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [57101](https://platzi.com/comentario/560581/) 
 ¿Sera que luego de tanto trabajar con una misma paleta de colores te terminas aprendiendo todos los hexadecimales de la paleta, o es que ...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [57101] (2)
 
-		
 		Hay colores que usas muchos y terminas aprendiendo los valores de memoria, es similar a las propiedades CSS te sabes de memoria las que mas usas, pero hay unas que no usas tanto y tienes que recurrir a la documentación.
 
-* **Habith José Mendoza Martínez** (1)
+* **Habith José Mendoza Martínez** (1) [55714](https://platzi.com/comentario/544266/) 
 Cómo puede modificarse el animation con un elemento llamado por document.getElementsByClassName y no por el Id?
 
-	* **Jesus Alejandro Niño Moreno** (1)
+	* **Jesus Alejandro Niño Moreno** [55714] (1)
 
-		
 		En ese caso getElementByClassName te devuelve una coleccion de elementos con todos los elementos que tienene la clase que busques, entonces para cambiarle el animation tienes que acceder al elemento de esa coleccion al que se lo deseas cambiar.
 
-* **David Farinango** (1)
+* **David Farinango** (1) [44450](https://platzi.com/comentario/408055/) 
 Como se cuando utilizar .style y cuando .classList en javascript, como nos dice en el minuto 20:45?
 
-	* **JuanDAC** (2)
+	* **JuanDAC** [44450] (2)
 
-		
 		Varía de la forma en que trabaje tu equipo de desarrollo pero Style es más cuando vas a editar una sola propiedad del elementos y cosas cuando modificas más, ya que es más fácil agregar la clases que varias líneas al Style desde JS.  
 		Ahora si me preguntas en estos momentos a mi te diría que es mejor con clase a menos que estés utilizando la API de animaciones desde JS.
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [320538](https://platzi.com/comentario/320538/) 
 
-	
 	<https://codepen.io/VivianMireru/pen/YvJNbq>
 
-	* **Hdas** (1)
+	* **Hdas** [320538] (1)
 
-		
 		Buen aporte muchas gracias
 
-* **pcruzmay** (0)
+* **pcruzmay** (0) [288879](https://platzi.com/comentario/288879/) 
 
-	
 	¿Alguien sabe como puedo hacer para que el modal se muestre solo la primera vez que entras a la pagina?
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [288879] (0)
 
-		
 		Puedes guardar un flag en local storage
 
-* **Sebastian Jesús Bárcenas Reales** (0)
+* **Sebastian Jesús Bárcenas Reales** (0) [283123](https://platzi.com/comentario/283123/) 
 
-	
 	Aquí mi desafió!  
 	<https://codepen.io/Sbarcenas/pen/qoQydw>
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [280866](https://platzi.com/comentario/280866/) 
 
-	
 	aqui termine espero este bien hecho  
 	<https://codepen.io/KOLEN94/pen/ZxjoLe>
 
-* **Yoriel Martinez Luis** (0)
+* **Yoriel Martinez Luis** (0) [235901](https://platzi.com/comentario/235901/) 
 
-	
 	Hola a todos, Dios les bendiga.  
 	Se me han presentado los siguientes problemas: al agregarle un evento a un boton, si lo hago de esta forma: boton.addEventListener(“click”, ejemplo), se me presenta el siguiente error: Uncaught TypeError: Cannot read property ‘addEventListener’ of null. Y el segundo problema es este: al programar un boton para ejecutar cierta accion, la accion se ejecuta aunque de click en cualquier parte del browser. Alguien podria ayudarme por favor?? Muchas gracias de antemano.
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [235901] (1)
 
-		
 		Lo primero ocurre porque “boton” no tiene el método addEventListener y eso es porque estás haciendo mal la instancia del botón con el getElementById, verifica que el botón sea el botón en js primero.
 		
 		Para lo otro investiga sobre stopPropagation que es un método de los eventos
 
-	* **Yoriel Martinez Luis** (0)
+	* **Yoriel Martinez Luis** [235901] (0)
 
-		
 		Muchas gracias por tu ayuda. Yo lo tengo exactamente como tu lo tienes en la clase, pero me da ese error. Pero muchas gracias otra vez…
 
-	* **Luis Daniel Becerra Avellaneda** (2)
+	* **Luis Daniel Becerra Avellaneda** [235901] (2)
 
-		
 		A mi tambien me suele suceder, revisa que el script este al final del body, si no es asi no lo toma ya que al estar antes del contenido no tiene de donde tomarlo
 
-* **Luis Felipe Silgado Cortázar** (0)
+* **Luis Felipe Silgado Cortázar** (0) [197519](https://platzi.com/comentario/197519/) 
 
-	
 	<https://codepen.io/lfs1992/pen/qPRjem>
 
-* **Emilio Rafael Hernandez Perez** (0)
+* **Emilio Rafael Hernandez Perez** (0) [190144](https://platzi.com/comentario/190144/) 
 
-	
 	Aquí un humilde modal.  
 	<https://codepen.io/emilio0/pen/jLpqNx>
 	
@@ -23848,8 +21519,7 @@ Como se cuando utilizar .style y cuando .classList en javascript, como nos dice 
 	<https://github.com/emiliowd/inout-modal>
 	
 	A quien le pueda servir, para controla cuando damos clic en el overlay y que no se valla el moda si damos clic en el use esto
-	``` 
-	    overlay.addEventListener('click', function(e){
+	```     overlay.addEventListener('click', function(e){
 	      if(e.target.id === 'overlay'){
 	        removeModal();
 	      }        
@@ -23857,41 +21527,34 @@ Como se cuando utilizar .style y cuando .classList en javascript, como nos dice 
 	    
 	```
 
-* **YumitaSensei** (0)
+* **YumitaSensei** (0) [179023](https://platzi.com/comentario/179023/) 
 
-	
 	No recuerdo en que curso se menciona exactamente , como sacar un pantallazo de una web para que salga entero o me lo soñé?
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [179023] (5)
 
-		
 		Yo uso esta extensión para Chrome <https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl>
 
-	* **Kevin Javier Morales (Platzi)** (0)
+	* **Kevin Javier Morales (Platzi)** [179023] (0)
 
-		
 		También puedes usar esta <https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj>
 
-* **Juan Luis Rojas León** (0)
+* **Juan Luis Rojas León** (0) [165385](https://platzi.com/comentario/165385/) 
 
-	
 	¡Listo!  
 	Aquí está mi ejemplo  
 	<https://modal-animation-tfogiaznqe.now.sh>  
 	Solo que cuando el modal se va, no pude aplicar la animación 😦
 
-* **Juan Luis Rojas León** (0)
+* **Juan Luis Rojas León** (0) [165299](https://platzi.com/comentario/165299/) 
 
-	
 	¿Como se accede a un elemento con id o con clase en react?  
 	Marca un error diciendo que document no está definido
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [165299] (0)
 
-		
 		Hola Juan, en React no hace falta usar id para seleccionar un elemento y cambiarlo mira el curso de React para profundizar esos conceptos pero en general si quieres escuchar un evento de click de un elemento sería así:
-		``` 
-		    queHaceAlDarleClick = (event) => {
+		```     queHaceAlDarleClick = (event) => {
 		    	console.log('le dimos click al botón, aquí puedes hacer lo que sea como cambiar en estado');
 		    }
 		    render() {
@@ -23904,7 +21567,7 @@ Como se cuando utilizar .style y cuando .classList en javascript, como nos dice 
 		    
 		```
 
-## 0240. Animando el like de Twitter con Sprites
+## 0240. Animando el like de Twitter con Sprites [6842](https://platzi.com/clases/1103-animaciones-web/6842-animando-el-like-de-twitter-con-sprites/)
 
 ### Descripción:
 
@@ -23915,132 +21578,110 @@ es el enganche perfecto con tus usuarios y técnicamente es muy fácil de hacer
 
 ### Comentarios:
 
-* **Kevin Javier Morales (Platzi)** (15)
+* **Kevin Javier Morales (Platzi)** (15) [196526](https://platzi.com/comentario/196526/) 
 
-	
 	Hay algún tipo de recurso donde se puendan encontrar estos Sprites? algo parecido a icomoon, font-awesome, etc
 
-	* **Wilder Lizama** (21)
+	* **Wilder Lizama** [196526] (21)
 
-		
 		[spritedatabase.net](http://spritedatabase.net/) sprites de personajes de videojuegos
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [196526] (3)
 
-		
 		Wow, Will no sabía del sitio y está buenísimo.
 
-	* **Yeraldine Martinez** (10)
+	* **Yeraldine Martinez** [196526] (10)
 
-		
 		Acá otro sitio para encontrar <https://www.spriters-resource.com/> 😃
 
-	* **sergio andres navarro melendez** (2)
+	* **sergio andres navarro melendez** [196526] (2)
 
-		
 		una pregunta como se colocaria una animacion de sprite que tenga varias lineas de animacion en una misma imagen, haci como la de ejercicio pero con mas lineas debajo de ella???
 
-* **Melina Jacqueline onoriaga** (15)
+* **Melina Jacqueline onoriaga** (15) [178074](https://platzi.com/comentario/178074/) 
 
-	
 	Ame esta clase, quier hace mucho likes por todo mi website!
 	
 	[](http://melonoriaga.esy.es/platzi-transition/like.html)
 
-	* **Leonidas Esteban Gonzalez** (7)
+	* **Leonidas Esteban Gonzalez** [178074] (7)
 
-		
 		Que belleza, hiciste tu propio sprite, I love it! ❤️
 
-	* **Melina Jacqueline onoriaga** (5)
+	* **Melina Jacqueline onoriaga** [178074] (5)
 
-		
 		Sii!!! tengos varios mas diseñados, ya los adjuntate! 😛  
 		SOS UN GENIO EXPLICANDO, ENTIENDO TODO super claro
 
-* **Jonatan Ruben Sosa Caycay** (11)
+* **Jonatan Ruben Sosa Caycay** (11) [285141](https://platzi.com/comentario/285141/) 
 
-	
 	Hola que tal,  
 	Hice dos animaciones, como yo hice los pixel art la animación no es tan grandes, pero funciona.
 	
 	[Llama](https://codepen.io/jjonatansosa/pen/VXNNqL)  
 	[Megaman](https://codepen.io/jjonatansosa/pen/QmPRzo)
 
-	* **samvarcia** (1)
+	* **samvarcia** [285141] (1)
 
-		
 		Te quedaron muy bien 😃
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [285141] (1)
 
-		
 		¿Como aprendiste a hacer **Pixel Art**? 😮
 
-	* **Hdas** (1)
+	* **Hdas** [285141] (1)
 
-		
 		Buen aporte
 
-* **johnBeto20** (10)
+* **johnBeto20** (10) [301967](https://platzi.com/comentario/301967/) 
 
-	
 	Hola.
 	
 	para adaptarlo al contenedor sin importar medidas pueden utilizar:
-	``` 
-	    background-size: cover;```
+	```     background-size: cover;```
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [301967] (1)
 
-		
 		Muchas gracias
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [301967] (1)
 
-		
 		Es cierto, quedó igual.
 
-* **durbonca** (7)
+* **durbonca** (7) [724586](https://platzi.com/comentario/724586/) 
 
-	
 	De los creadores de _responsivear_ les traemos… el botón de **laikear**
 
-* **Leonardo Maya Iregui** (7)
+* **Leonardo Maya Iregui** (7) [547261](https://platzi.com/comentario/547261/) 
 
-	
 	Me acaba de explotar la cabeza  
 	![](https://media.giphy.com/media/V0IdVIIW1y5d6/giphy.gif)
 
-* **Nicolas Esteban Prieto Sarmiento** (7)
-![](https://media.giphy.com/media/8PybXgLyqTrH1quu05/giphy.gif)
-
-* **Camilo Andrés Santana Lizcano** (6)
-
+* **Nicolas Esteban Prieto Sarmiento** (7) [432243](https://platzi.com/comentario/432243/) 
 	
+	![](https://media.giphy.com/media/8PybXgLyqTrH1quu05/giphy.gif)
+
+* **Camilo Andrés Santana Lizcano** (6) [627020](https://platzi.com/comentario/627020/) 
+
 	Nunca hubiera imaginado que una animación de like se ejecutara de esta manera.  
 	Gran Clase !.
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [627020] (1)
 
-		
 		Ni yo tampoco Jajajaja pero bueno para estamos en platzi para aprender estas cosas.
 
-	* **Daniel Hurtado** (4)
+	* **Daniel Hurtado** [627020] (4)
 
-		
 		Lo mismo digo, lo vemos tan complejo y resulta siendo tan “simple”
 
-* **Yeraldine Martinez** (6)
+* **Yeraldine Martinez** (6) [224599](https://platzi.com/comentario/224599/) 
 
-	
 	♥
 
-* **Wuilfredo Azócar** (5)
+* **Wuilfredo Azócar** (5) [954298](https://platzi.com/comentario/954298/) 
 
-	
 	![Mi ejercicio](https://i.imgur.com/G31k5Ow.gif))  
 	Antes que nada debo admitir que esta clase fue una de mis favoritas 💚.  
 	Así que me anime a practicar fuera del ejercicio de la clase y descubrí algunas cosas. Primero para entrar en contexto:  
@@ -24050,16 +21691,12 @@ es el enganche perfecto con tus usuarios y técnicamente es muy fácil de hacer
 	  * Cuando contamos los **steps** para el timing-function **SIEMPRE** debemos omitir el primer fotograma. Quedando entonces una especie de formula que seria: _“cantidadDeFotogramas - 1”_. Ejemplo: si nuestra imagen tiene 10 fotogramas, nuestros timing sería: steps(9).
 	  * En los **keyframes** de la animación podemos usar _left_ , o _right_ para movernos en lugar de las dimensiones.
 	
-	
-	
 	> no olvidar añadirle el fill-mode de forwards.
 	
 	Para las animaciones cuyo sprites (secuencia de imágenes) este horizontal y se requiera que se reproduzca de forma infinita debemos recordar lo siguiente:
 	
 	  * Cuando contamos los **steps** para el timing-function **NO** se omite el primer fotograma. Ejemplo: si nuestra imagen tiene 10 fotogramas, nuestro timing sería: steps(10).
 	  * En los **keyframes** de la animación debemos usar la dimensión de la imagen, en lugar de _left_ o _right_. Ejemplo: si la imagen mide 2900px de ancho, en el ultimo keyframe le colocamos: background-position: -2900px;
-	
-	
 	
 	**NOTAS de mi ejercicio**  
 	En las ultimas dos animaciones (la del fuego que tiene un color de fondo morado) use _sprites sheet distribuidos en horizontal y verticalmente_ , es decir, cuadrados. **Se me hizo muy dificil** coordinar las animaciones solo con CSS para reproducirlas. Por lo tanto **CREO** que: Para animaciones no se deben usar spritesheet cuadrados.
@@ -24072,71 +21709,55 @@ es el enganche perfecto con tus usuarios y técnicamente es muy fácil de hacer
 	
 	  * [Vista previa](https://wuilfredoaz.github.io/animateSpritesheet/)
 	  * [Repositorio](https://github.com/WuilfredoAz/animateSpritesheet)
-	
-	
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [954298] (1)
 
-		
 		Que buen aporte compañero !!!
 
-* **samvarcia** (5)
+* **samvarcia** (5) [337201](https://platzi.com/comentario/337201/) 
 
-	
 	como podria poner mas likes ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [337201] (4)
 
-		
 		Eliminas la validación para saber si diste o no like, no tiene sentido ya que en el 99.9% de los sistemas de likes el ideal es que solo des un like.
 
-	* **samvarcia** (1)
+	* **samvarcia** [337201] (1)
 
-		
 		Gracias @GOLLUM23
 
-* **Jhon Alexander Perez Valencia** (4)
+* **Jhon Alexander Perez Valencia** (4) [597367](https://platzi.com/comentario/597367/) 
 
-	
 	un increíble ejemplo para poner a prueba lo que aprendimos.
 
-* **Mariana Valencia** (4)
+* **Mariana Valencia** (4) [568938](https://platzi.com/comentario/568938/) 
 
-	
 	Conque para esto servían los sprites! Buenísima clase ❤️
 
-* **Melina Jacqueline onoriaga** (4)
+* **Melina Jacqueline onoriaga** (4) [178073](https://platzi.com/comentario/178073/) 
 
-	
 	@LeonidasEsteban ame esta clase!! mira lo que hice!
 	
 	[](http://melonoriaga.esy.es/platzi-transition/like.html)
 
-* **DanielVM19** (3)
+* **DanielVM19** (3) [948516](https://platzi.com/comentario/948516/) 
 
-	
 	like por esta lección ! 😄
 
-* **urieelmm** (3)
+* **urieelmm** (3) [849978](https://platzi.com/comentario/849978/) 
 
-	
 	método toggle ! Es una maravilla, todo lo hace mucho más sencillo 😄
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [353284](https://platzi.com/comentario/353284/) 
 
-	
 	Decidi hacer una copia de un **Tweet** con el **modo nocturno** , me quedo asi 😄
 	
 	  * Codigo: <https://github.com/alan4dev/TwitterLike>
 	
 	  * Pagina: <https://alan4dev.github.io/TwitterLike/>
-	
-	
-	
 
-	* **Freddy Córdova Arana** (3)
+	* **Freddy Córdova Arana** [353284] (3)
 
-		
 		Hola Alan, gracias por subirlo  
 		Basándome en tu ejemplo hice una versión un poco mas moderna de un tweet 😄
 		
@@ -24146,44 +21767,36 @@ es el enganche perfecto con tus usuarios y técnicamente es muy fácil de hacer
 		
 		Saludos
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [353284] (1)
 
-		
 		@freddyco Grandiso lo que hiciste, me ayudo a prácticar.
 
-	* **Hdas** (1)
+	* **Hdas** [353284] (1)
 
-		
 		Buen ejemplo muchas gracias por el aporte
 
-* **Rodrigo Cuenca Mayuri** (2)
+* **Rodrigo Cuenca Mayuri** (2) [1012317](https://platzi.com/comentario/1012317/) 
 
-	
 	No sabía lo de toggle. Excelente clase!
 
-* **Edgardo Marcano** (2)
+* **Edgardo Marcano** (2) [961304](https://platzi.com/comentario/961304/) 
 
-	
 	Al fin sé que es un Sprite!😅
 
-* **Jonathan Uriel Jiménez Soveranes** (2)
+* **Jonathan Uriel Jiménez Soveranes** (2) [839669](https://platzi.com/comentario/839669/) 
 
-	
 	Aquí mi tweet.  
 	![tweet.PNG](https://static.platzi.com/media/user_upload/tweet-2e682666-6afa-4d10-9e59-ee3589140aa8.jpg)
 
-* **Almu_timkerbell** (2)
+* **Almu_timkerbell** (2) [665892](https://platzi.com/comentario/665892/) 
 
-	
 	Fua, menudo vídeo más informativo. Necesito tiempo para asimilarlo todo!
 
-* **Eduardo Kiriakos Piazza** (2)
+* **Eduardo Kiriakos Piazza** (2) [574433](https://platzi.com/comentario/574433/) 
 
-	
 	Agregué varios botones de likes y obvio no puedo llamarlos a todos por su id, los llamé desde js usando getElementByClassName que me regresa una lista de likes.  
 	Luego con un ciclo for les agregué el EventListener.
-	``` 
-	        const $like = document.getElementsByClassName('like');
+	```         const $like = document.getElementsByClassName('like');
 	        for (let i = 0; i < $like.length; i++) {
 	          $like[i].addEventListener('click', (event) => {
 	            $like[i].classList.toggle('is-liked');
@@ -24194,65 +21807,53 @@ es el enganche perfecto con tus usuarios y técnicamente es muy fácil de hacer
 	
 	Existe alguna mejor forma de hacerlo?
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [574433] (1)
 
-		
 		Me parece muy buena la solución que encontraste. Algo que me gusta pensar es que siempre hay diferentes maneras de hacer las cosas.
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [574433] (1)
 
-		
 		Puedes cambiar el ciclo for por map
 
-	* **Rodrigo Cuenca Mayuri** (1)
+	* **Rodrigo Cuenca Mayuri** [574433] (1)
 
-		
 		interesante
 
-* **emanueljtc** (2)
+* **emanueljtc** (2) [560598](https://platzi.com/comentario/560598/) 
 
-	
 	Hay veces que se quieren descargar imágenes de los recursos de la clase y se bajan en formato “webp” o no se si esto me ha sucedido solo a mi pero en tal caso les dejo un corvertidor de este formato a otros formatos de imagenes [https://imagen.online-convert.com/es/convertir/webp-a-png](url)
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [560598] (1)
 
-		
 		Sí, igual a mí me pasa
 
-	* **marcos-kevin-gavela** (1)
+	* **marcos-kevin-gavela** [560598] (1)
 
-		
 		Hola! Lo único que tienes que hacer es cambiar la extensión del archivo por la que corresponda. En este caso sería .png y listo.
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [353162](https://platzi.com/comentario/353162/) 
 
-	
 	Esa introduccion esta muy cool 😄
 
-* **Nelson Alayón** (2)
+* **Nelson Alayón** (2) [302004](https://platzi.com/comentario/302004/) 
 
-	
 	Asi como en vez de calcular la posición final podemos poner simplemente right, tambien, en vez poner la posición inicial en numeros podemos poner simplemente left.
 
-* **_adrianacf** (2)
+* **_adrianacf** (2) [198992](https://platzi.com/comentario/198992/) 
 
-	
 	Me encanto esta clase
 
-* **Camilo Andrés Santana Lizcano** (2)
+* **Camilo Andrés Santana Lizcano** (2) [61742](https://platzi.com/comentario/627017/) 
 Alguien conoce alguna pagina para descargar buenos Sprites ?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [61742] (1)
 
-		
 		[spriters-resource](https://www.spriters-resource.com/)
 
-* **mauroquinteros** (1)
+* **mauroquinteros** (1) [1093189](https://platzi.com/comentario/1093189/) 
 
-	
 	Otra manera de acomodar la imagen de fondo sin tener que estar calculando el size es usar **background-size: cover** que se ajusta de manera automática dependiendo al tamaño de tu contenedor
-	``` 
-	    .like {
+	```     .like {
 	            cursor: pointer;
 	            width: 30px;
 	            height: 30px;
@@ -24270,96 +21871,79 @@ Alguien conoce alguna pagina para descargar buenos Sprites ?
 	    
 	```
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1047571](https://platzi.com/comentario/1047571/) 
 
-	
 	Para realizar animaciones con Sprites en nuestros sitios web, utilizamos la propiedad animation-timing-function con el valor de steps().  
 	Para realizar correctamente estas animaciones debemos conocer el tamaño de la imagen que contiene los sprites, para así poder desplazarlos. Usualmente estas imágenes se suelen colocar de background y manipularemos su posición con background-position en las animaciones.  
 	Como punto importante a la hora de realizar animaciones con sprites, estas deben ser soportadas por las pantallas retina de las iMac, para hacer que sean soportodas deberemos usar la mitad de la resolución de las animaciónes.
 
-* **Roner Ortega Cueto** (1)
+* **Roner Ortega Cueto** (1) [918585](https://platzi.com/comentario/918585/) 
 
-	
 	Personalmente este urso de animaciones para la web es el mas pesado de toda la ruta de _**Arquitectura Frontend**_.
 
-* **conejo22** (1)
+* **conejo22** (1) [914106](https://platzi.com/comentario/914106/) 
 
-	
 	Osea ,hay que meter un media querie para ajustar su tamaño y que sea retina display support
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [839578](https://platzi.com/comentario/839578/) 
 
-	
 	Joder, yo me la hubiera hecho muy compleja (pero resultó muy sencillo), gracias por la clase.
 
-* **Luis  Aldair Quispe Rios** (1)
+* **Luis  Aldair Quispe Rios** (1) [837397](https://platzi.com/comentario/837397/) 
 
-	
 	Increible! esta clase estuve chevere
 
-* **JarlLuis** (1)
+* **JarlLuis** (1) [835994](https://platzi.com/comentario/835994/) 
 
-	
 	estuboermozo
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [833832](https://platzi.com/comentario/833832/) 
 
-	
 	Excelente clase
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [824370](https://platzi.com/comentario/824370/) 
 
-	
 	Aprendí mucho!!
 
-* **Miguel Angel Valverde Meregildo** (1)
+* **Miguel Angel Valverde Meregildo** (1) [641670](https://platzi.com/comentario/641670/) 
 
-	
 	Nota: No se debe de contar la posición inicial para establecer los steps.
 
-* **Ian Mande** (1)
+* **Ian Mande** (1) [565325](https://platzi.com/comentario/565325/) 
 
-	
 	Sin duda es mi clase favorita
 
-* **Luis Miguel Rodriguez** (1)
+* **Luis Miguel Rodriguez** (1) [561888](https://platzi.com/comentario/561888/) 
 
-	
 	Me encanto esta clase. Un crack Leonidas.
 
-* **Vittorio Carlos Toledo Huarez** (1)
+* **Vittorio Carlos Toledo Huarez** (1) [542084](https://platzi.com/comentario/542084/) 
 
-	
 	Css y Js son lenguajes bien chingones!
 
-* **jfgmolina** (1)
+* **jfgmolina** (1) [522343](https://platzi.com/comentario/522343/) 
 
-	
 	He descargado imagenes de spriters de internet y me gustaria saber:  
 	como determino el tamaño del div para el spriters?  
 	Algunos estan en varias filas, como recorro las filas y las columnas para animarlo?  
 	Algunos tienen diferentes tamaños o no todas las filas tienen el mismo numeros de frames. Como lo tengo que hacer?
 
-	* **Hdas** (1)
+	* **Hdas** [522343] (1)
 
-		
 		Tener en cuenta el tamaño de la imagen y la cantidad de frames
 
-	* **jfgmolina** (2)
+	* **jfgmolina** [522343] (2)
 
-		
 		estas son las imágenes que descargé, el movimiento esta compuesto por varias filas y tienen diferente numero de fra!mes. Al tener texto en el pie de pagina no puedo dividir tamaño por frames.
 		
 		![a9d233fd43259e105bd71846bcd5206e.jpg](https://static.platzi.com/media/user_upload/a9d233fd43259e105bd71846bcd5206e-0369d04d-24f7-4c75-bab0-659dbbb1f05a.jpg)
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [522343] (1)
 
-		
 		Leonidas en el curso creo un contenedor de manera que sus dimensiones puedan contener un paso que en este caso si te fijas bien fueron de 100px x 100px
 
-	* **Tlacaelel León Villaseñor** (2)
+	* **Tlacaelel León Villaseñor** [522343] (2)
 
-		
 		Es vieja la pregunta, pero yo tuve la misma duda, lo que tienes que hacer es crear dos keyframes, uno para el movimiento horizontal y otro para el movimiento vertical, esto se logra haciendo que el movimiento en Y dure el doble que el de X, para que se pase al siguiente cuadro.  
 		En esta pagina explican tanto sprites en linea como en cuadricula.  
 		<https://itnext.io/creating-css-animations-using-sprite-sheet-47e2b7a3793c>  
@@ -24367,14 +21951,12 @@ Alguien conoce alguna pagina para descargar buenos Sprites ?
 		<https://jsfiddle.net/thatisuday/sqjsLjyh/>  
 		Espero le pueda servir a alguien
 
-	* **Esau Rosales** (1)
+	* **Esau Rosales** [522343] (1)
 
-		
 		Tendrias que hacer operaciones matematicas complejas.
 		
 		Como esto:
-		``` 
-		    @keyframes movements{
+		```     @keyframes movements{
 		        0%{
 		            background-position: 00;
 		        }
@@ -24465,23 +22047,19 @@ Alguien conoce alguna pagina para descargar buenos Sprites ?
 		    prueba ese codigo y si lo mejoras, ponlo aqui*/
 		```
 
-* **maoacrlearn** (1)
+* **maoacrlearn** (1) [515052](https://platzi.com/comentario/515052/) 
 
-	
 	es increible todo lo que podemos hacer con css y js, lo unico que debemos hacer es practicar !
 
-	* **Hdas** (1)
+	* **Hdas** [515052] (1)
 
-		
 		Son herramientas muy versátiles
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [512958](https://platzi.com/comentario/512958/) 
 
-	
 	Esta parte del código del MODAL me la salté o ¿es que nunca se llegó a escribir?  
 	.
-	``` 
-	    .btn:active {
+	```     .btn:active {
 	      transform: scale(.9);
 	    }
 	    
@@ -24489,204 +22067,170 @@ Alguien conoce alguna pagina para descargar buenos Sprites ?
 	
 	¿En verdad se vio en el vídeo del MODAL?
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [512958] (2)
 
-		
 		Sí, en ese vídeo Leonidas reutilizó el código de los botones creado en otra clase, a partir del min 10:11.
 
-	* **Hdas** (1)
+	* **Hdas** [512958] (1)
 
-		
 		Si se escribió
 
-	* **Rodrigo Cuenca Mayuri** (1)
+	* **Rodrigo Cuenca Mayuri** [512958] (1)
 
-		
 		yo tampoco lo vi pero sólo lo añadí al ver que tenia el efecto.
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [512300](https://platzi.com/comentario/512300/) 
 
-	
 	He intentado usar esa propiedad de background-size con porcentaje pero no funciona. No sé por qué.  
 	¿Alguno sabe por qué no funciona? ¿Por qué no se ajusta?
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [512287](https://platzi.com/comentario/512287/) 
 
-	
 	Dejé atrás el curso de responsive design y no recuerdo haber profundizado en el truco de servir imágenes a la mitad de tamaño.  
 	Si bien es cierto que no nos hace falta valiéndonos de las media queries.
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [508481](https://platzi.com/comentario/508481/) 
 
-	
 	Are mis propios sprites en illustrator 😎 y animarlo en css
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [480523](https://platzi.com/comentario/480523/) 
 
-	
 	Vaya que buena clase, no sabía que ésto se podía hacer.
 
-	* **Hdas** (1)
+	* **Hdas** [480523] (1)
 
-		
 		Se aprenden cosas nuevos en cada curso
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [479097](https://platzi.com/comentario/479097/) 
 Excelente clase
 
-* **Aaron Gonzalez (Platzi)** (1)
+* **Aaron Gonzalez (Platzi)** (1) [456090](https://platzi.com/comentario/456090/) 
 
-	
 	Brutal esta clase!  
 	Eres genial Leonidas!
 
-* **AndrsDev** (1)
+* **AndrsDev** (1) [447860](https://platzi.com/comentario/447860/) 
 
-	
 	Aquí dejo otra página para encontrar muy buenas animaciones pero con json
 	
 	<https://github.com/airbnb/lottie-web>
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [432181](https://platzi.com/comentario/432181/) 
 
-	
 	ya estaba prediciendo como podía usar sprites  
 	GRACIAS!
 
-* **David Farinango** (1)
+* **David Farinango** (1) [408076](https://platzi.com/comentario/408076/) 
 
-	
 	WDF!!! este curso mientras mas avanza me deja mas loco!! pff genial!!!
 
-	* **Hdas** (1)
+	* **Hdas** [408076] (1)
 
-		
 		El poder de css
 
-* **juand_silva** (1)
+* **juand_silva** (1) [386112](https://platzi.com/comentario/386112/) 
 
-	
 	Increíble siempre me descargaba todos los assets de esas imagenes, por ejemplo de Instagram y nunca pude ver como lo animaban hasta hoy. xD
 
-* **Josue David Pablo Ixbalan** (1)
+* **Josue David Pablo Ixbalan** (1) [385827](https://platzi.com/comentario/385827/) 
 
-	
 	Excelente Leonidas! 🙌😎
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353219](https://platzi.com/comentario/353219/) 
 
-	
 	Esta clase esta genial, voy a empezar a utilizar estas animaciones por todos lados 😃
 
-* **mikerm** (1)
+* **mikerm** (1) [333321](https://platzi.com/comentario/333321/) 
 
-	
 	Esta clase me encanto super entretenida y muy buen aprendizaje
 
-* **José Rubial** (1)
+* **José Rubial** (1) [306342](https://platzi.com/comentario/306342/) 
 
-	
 	Se le puede agregar algún tipo de aceleración a los steps?
 
-	* **Mateo Buitrago** (1)
+	* **Mateo Buitrago** [306342] (1)
 
-		
 		Con `animation-duration` puedes hacer la animación más rápida o lenta.
 
-* **Henry Alejandro  Palacios Lemus** (1)
+* **Henry Alejandro  Palacios Lemus** (1) [277965](https://platzi.com/comentario/277965/) 
 
-	
 	¿Como moves Leonidas el codigo? A veces noto que selecionas una linea, un parrafo y con alguna combinacion vas bajando ese codigo. (Uso MacBook)
 
-	* **Henry Alejandro  Palacios Lemus** (0)
+	* **Henry Alejandro  Palacios Lemus** [277965] (0)
 
-		
 		Olvidenlo, ya lo encontre Control + Command + arriba /abajo
 
-	* **Johan_Marcel** (1)
+	* **Johan_Marcel** [277965] (1)
 
-		
 		En windows es con : crtl+arriba/abajo
 
-	* **alejandroszg** (2)
+	* **alejandroszg** [277965] (2)
 
-		
 		En Windows con VS Code es alt+arriba/abajo
 
-	* **Hdas** (1)
+	* **Hdas** [277965] (1)
 
-		
 		Muchas gracias que buen aporte
 
-* **José Isquierdo Aranda isquierdo aranda** (1)
+* **José Isquierdo Aranda isquierdo aranda** (1) [250418](https://platzi.com/comentario/250418/) 
 
-	
 	en vez de png puede animarse un svg?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [250418] (4)
 
-		
 		Claro que sí, incluso se pueden hacer animaciones más complejas.
 
-	* **José Isquierdo Aranda isquierdo aranda** (0)
+	* **José Isquierdo Aranda isquierdo aranda** [250418] (0)
 
-		
 		tendras o tendran algunos ejemplos
 
-* **keriroso** (1)
+* **keriroso** (1) [245966](https://platzi.com/comentario/245966/) 
 
-	
 	Muy buena clase
 
-* **Santiago Maya** (1)
+* **Santiago Maya** (1) [175843](https://platzi.com/comentario/175843/) 
 
-	
 	❤️
 
-* **jl.bautista** (1)
+* **jl.bautista** (1) [81461](https://platzi.com/comentario/981776/) 
 Esta clase responde a una pregunta del examen de certificación y en un documento “
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [81461] (1)
 
-		
 		La lectura es correcta. Con los conceptos y ejercicios que realizamos hasta el módulo 5 estás listo para tomar el examen. Pero en las siguientes vamos a seguir practicando para interiorizar aún más todas las propiedades y elementos que utilizamos para crear animaciones en la web.
 
-* **angelo meneses** (1)
+* **angelo meneses** (1) [71064](https://platzi.com/comentario/789178/) 
 Que interesante esta clase! se que esto se puede hacer usando gif, pero el usar css es como ir al fondo de todo y entender el como y porq...
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [64646](https://platzi.com/comentario/679658/) 
 No se podría usar un GIF y un cambio de background?
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [64646] (1)
 
-		
 		¡Por supuesto! Con CSS puedes lograr cosas maravillosas
 
-* **Eduardo Kiriakos Piazza** (1)
+* **Eduardo Kiriakos Piazza** (1) [58231](https://platzi.com/comentario/574433/) 
 Agregué varios botones de likes y obvio no puedo llamarlos a todos por su id, los llamé desde js usando getElementByClassName que me regr...
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [58231] (1)
 
-		
 		Me parece muy buena la solución que encontraste. Algo que me gusta pensar es que siempre hay diferentes maneras de hacer las cosas.
 
-* **jfgmolina** (1)
+* **jfgmolina** (1) [53817](https://platzi.com/comentario/522343/) 
 He descargado imagenes de spriters de internet y me gustaria saber: como determino el tamaño del div para el spriters? Algunos estan en v...
 
-	* **Hdas** (1)
+	* **Hdas** [53817] (1)
 
-		
 		Tener en cuenta el tamaño de la imagen y la cantidad de frames
 
-* **guerrerorodrigo14** (0)
+* **guerrerorodrigo14** (0) [74500](https://platzi.com/comentario/853842/) 
 muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica utilizar estas imágenes con un ancho tan largo?, lei por ahi ...
 
-	* **julian orrego** (3)
+	* **julian orrego** [74500] (3)
 
-		
 		Hola, concuerdo en que las imágenes muy grandes pueden afectar el rendimiento. De hecho, cuando usas PageSpeed de Google para verificar el rendimiento de una web, te sugiere usar imágenes con el tamaño que tendrá en la página, ya que para dispositivos móviles puede afectar la velocidad de carga.
 
-## 0250. Creando un sistema de notificación
+## 0250. Creando un sistema de notificación [6843](https://platzi.com/clases/1103-animaciones-web/6843-creando-un-sistema-de-notificacion/)
 
 ### Descripción:
 
@@ -24699,102 +22243,83 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 
 ### Comentarios:
 
-* **Esau Rosales** (20)
+* **Esau Rosales** (20) [663079](https://platzi.com/comentario/663079/) 
 
-	
 	A mi solo me aparecía un cuadrito rojo, pero use esto y me funciono:
-	``` 
-	    font-family: 'Font Awesome 5 Brands', 'Font Awesome 5 Free';
+	```     font-family: 'Font Awesome 5 Brands', 'Font Awesome 5 Free';
 	    
 	```
 
-	* **Almu_timkerbell** (4)
+	* **Almu_timkerbell** [663079] (4)
 
-		
 		me salvaste la vida, gracias:)
 
-	* **Alvaro Garracini** (4)
+	* **Alvaro Garracini** [663079] (4)
 
-		
 		Gracias!! Me pasaba lo mismo
 
-	* **Water Oscar Dona** (4)
+	* **Water Oscar Dona** [663079] (4)
 
-		
 		GRACIAS BRO
 
-	* **julian orrego** (2)
+	* **julian orrego** [663079] (2)
 
-		
 		Gracias!! Funciona perfectamente
 
-	* **Rodrigo Cuenca Mayuri** (2)
+	* **Rodrigo Cuenca Mayuri** [663079] (2)
 
-		
 		Gracias! Estaba a punto de usar icoon moon
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [663079] (1)
 
-		
 		si quieres seguir el video tal cual lo hace leonidas, aca dejo el http que el usa.
 		
 		<https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
 		
 		Solo es copiarlo y pegarlo.
 
-* **Moisés Albeiro Ñañez Andrés** (19)
+* **Moisés Albeiro Ñañez Andrés** (19) [164860](https://platzi.com/comentario/164860/) 
 
-	
 	No se llega a ver el ejercicio completo porque en esa misma esquina está el cuadro de video de Leónidas 😦.
 
-	* **Leonidas Esteban Gonzalez** (10)
+	* **Leonidas Esteban Gonzalez** [164860] (10)
 
-		
 		Tienes toda la razón, lo vamos a arreglar lo más pronto posible.
 
-	* **Melina Jacqueline onoriaga** (2)
+	* **Melina Jacqueline onoriaga** [164860] (2)
 
-		
 		Es verdad! pero no pasa nada, esta clase es como un ejercicio de las cosas que hemos aprendido hasta el momento 😃 , me encanto!
 
-	* **nachoogoomez** (2)
+	* **nachoogoomez** [164860] (2)
 
-		
 		Pues un año después el vídeo sigue siendo inservible. Llevo 10 minutos de clase y no he podido ver nada…
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [164860] (1)
 
-		
 		Todavia no se ha arreglado 😦
 
-	* **Adrian Garcia Saaib** (2)
+	* **Adrian Garcia Saaib** [164860] (2)
 
-		
 		Que no se vea le da mas emocion a las cosas xD vengo de octubre del 2018, y aun no lo arreglan
 
-	* **Juan Ponce** (1)
+	* **Juan Ponce** [164860] (1)
 
-		
 		17/02/2019
 		
 		Solo al final del video en el minuto 15:45 eliminaron el cuadro del video
 
-	* **Hdas** (3)
+	* **Hdas** [164860] (3)
 
-		
 		Tampoco es algo del otro mundo si se hacen las cosas siguiendo bien los pasos es resultado es evidente.
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [164860] (1)
 
-		
 		ROLO EH FALLA
 
-* **David Vargas Domínguez** (18)
+* **David Vargas Domínguez** (18) [359466](https://platzi.com/comentario/359466/) 
 
-	
 	Para la versión 5 de FontAwesome solo se modifica la familia y se específica el peso, lo que quedaría así:
-	``` 
-	    .notification:before {
+	```     .notification:before {
 	    	content: "\f0f3";
 	    	font-family: "Font Awesome 5 Free";
 	    	font-weight: 600; /* a partir de los 600 se colorea el fondo, desde los 	   500 a menos se colorea solo los bordes */
@@ -24806,67 +22331,54 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	
 	Aunque en la misma página recomiendan el uso de los tags <i>, depende de cada uno. 😃
 
-	* **beaps** (1)
+	* **beaps** [359466] (1)
 
-		
 		Gracias!!! 👌😄
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [359466] (1)
 
-		
 		Gracias
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [359466] (1)
 
-		
 		Gracias
 
-	* **Paula_Code** (1)
+	* **Paula_Code** [359466] (1)
 
-		
 		Gracias, **super** recomendado el comentario para la nueva actualización ya que no me reconocía el icono 💖
 
-* **Leonidas Esteban Gonzalez** (15)
+* **Leonidas Esteban Gonzalez** (15) [177912](https://platzi.com/comentario/177912/) 
 
-	
 	Usamos esta versión de Font Awesome para la campanita.
-	``` 
-	    <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	```     <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 	    
 	```
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [177912] (1)
 
-		
 		Yo siempre uso esta version:
-		``` 
-		    <linkrel="stylesheet"href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+		```     <linkrel="stylesheet"href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 		    
 		```
 
-	* **irma-davila** (1)
+	* **irma-davila** [177912] (1)
 
-		
 		Ow… gracias, no me salía la campanita.
 
-* **jsrodriguezj** (5)
+* **jsrodriguezj** (5) [1040562](https://platzi.com/comentario/1040562/) 
 
-	
 	A mi me aparece un cuadro rojo, lo que hice fue cambiar el https que me aparece en la pagina por el que realmente usa leonidas.  
 	Aca el link que soluciona el "problema"  
 	<https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
 
-	* **Eduardo Antonio Rivero Rivera** (1)
+	* **Eduardo Antonio Rivero Rivera** [1040562] (1)
 
-		
 		Tienes toda la razón gracias por el aporte
 
-* **Diegoalesco95** (4)
+* **Diegoalesco95** (4) [866300](https://platzi.com/comentario/866300/) 
 
-	
 	A la fecha en la que hago el aporte para agregar la campana solo hay que cambiar el nombre de la clase notification por **fas fa-bell** y ya el icono aparece sin necesidad de agregar las líneas del .notification:before.
-	``` 
-	    <!DOCTYPE html>
+	```     <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	      <metacharset="UTF-8">
@@ -24891,27 +22403,22 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	    
 	```
 
-* **Carlos Andrés Millan Satizabal** (4)
+* **Carlos Andrés Millan Satizabal** (4) [177907](https://platzi.com/comentario/177907/) 
 
-	
 	Deberían en un futuro cambiar la posición donde aparece el profesor, ya que oculta parte del ejercicio que se está realizando. He visto este problema en otros cursos.
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [177907] (1)
 
-		
 		Es en general o solo en este video? puedo ayudarte a que movamos este video para mayor legibilidad
 
-	* **Carlos Andrés Millan Satizabal** (0)
+	* **Carlos Andrés Millan Satizabal** [177907] (0)
 
-		
 		Por el momento, en este video. Claro que casi al final del mismo ya baja el cuadrito.
 
-* **Wuilfredo Azócar** (3)
+* **Wuilfredo Azócar** (3) [956562](https://platzi.com/comentario/956562/) 
 
-	
 	Actualmente para que aparezca la campana solo se debe añadir la clase “`fas fa-bell`” al elemento. Pero si se quiere seguir el tutorial tal cual lo hace Leonidas sepan que la campana debe tener:
-	``` 
-	    .notification::before
+	```     .notification::before
 	    {
 	        content: "\f0f3";
 	        display: block;
@@ -24921,27 +22428,22 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	    
 	```
 
-	* **Edgardo Marcano** (1)
+	* **Edgardo Marcano** [956562] (1)
 
-		
 		Gracias, eres un dios. Como me mantengo al tanto de algún cambio futuro? Pues en los anteriores cursos que he seguido tampoco habia podido hacer funcionar Font Awesome. Es primera vez!
 
-	* **Wuilfredo Azócar** (1)
+	* **Wuilfredo Azócar** [956562] (1)
 
-		
 		Podrías intentar lo siguiente: colocas la clase que te recomienda la documentación (para el caso anterior por ejemplo era `fas fa-bell`y con el inspector de elementos revisas todos los estilos que se aplican y creas tu clase personalizada o la que necesites. Así sabes que se esta aplicando y que no.
 
-	* **Angélica María Rocha García** (1)
+	* **Angélica María Rocha García** [956562] (1)
 
-		
 		Muchas gracias, me funcionó de la forma que dijiste.
 
-* **Héctor Atilio Signoriello** (3)
+* **Héctor Atilio Signoriello** (3) [658402](https://platzi.com/comentario/658402/) 
 
-	
 	para que la campana me aparesca en la version de font awesome 5.9 use
-	``` 
-	    <code>
+	```     <code>
 	    <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css"><!-- este archivo-->
 	    
 	    font-family: 'Font Awesome 5 Brands', 'Font Awesome 5 Free' ;
@@ -24949,44 +22451,37 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	    
 	```
 
-* **Luis Daniel Caraballo** (3)
+* **Luis Daniel Caraballo** (3) [605054](https://platzi.com/comentario/605054/) 
 
-	
 	Muchachos, estoy intentando usar el link <https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css> y la campana no aparece, aparece un recuadro vacio como si no encontrara el simbolo.
 	
 	Tuve que usar el link que dejo Leonidas en los adjuntos para que pudiera funcionar.
 	
 	Alguien sabe porque no funciona el link del CDN?? se supone que esta mas actualizado no?
 
-	* **Alex Fabian Moreno Acero** (2)
+	* **Alex Fabian Moreno Acero** [605054] (2)
 
-		
 		¿estas llamando la clase que trae la campana, porque puede ser que actualizaran la clase con otro nombre?
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [605054] (1)
 
-		
 		Me pasa lo mismo
 
-	* **asanchez2091** (2)
+	* **asanchez2091** [605054] (2)
 
-		
 		Te recomiendo que copies el link que tiene el archivo index.html que puedes encontrar en la pestaña de Archivos y Enlaces ubicada en la parte superior derecha de esta web.
 
-	* **Luis Daniel Caraballo** (1)
+	* **Luis Daniel Caraballo** [605054] (1)
 
-		
 		Pues al final tuve que utilizar el link que aparece en el video. Pero me parecio raro que no funcionara el link actualizado que estaba en el CDN.
 
-	* **almudenaguerras** (0)
+	* **almudenaguerras** [605054] (0)
 
-		
 		El archivo que está utilizando Leonidas, relativo a la versión 4.7.0, incluye la directiva @font-face, al contrario que el archivo que quieres utilizar tú.  
 		No sé muy bien porqué no aparece ya en las nuevas versiones del cdn.  
 		El archivo de la version 4.7.0, por tanto funciona gracias a que internamente está importando webfonts en diferentes formatos (eot, woff2, woff, svg…) de una carpeta llamada **fonts**.  
 		Sin embargo las versiones posteriores no incluyen este fragmento de código y por tanto no importan dichos archivos de fuente.
-		``` 
-		    @font-face {
+		```     @font-face {
 		      font-family: 'FontAwesome';
 		      src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
 		      src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
@@ -24996,15 +22491,13 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		    
 		```
 
-	* **almudenaguerras** (1)
+	* **almudenaguerras** [605054] (1)
 
-		
 		El archivo que está utilizando Leonidas, relativo a la versión 4.7.0, incluye la directiva @font-face, al contrario que el archivo que quieres utilizar tú.  
 		No sé muy bien porqué no aparece ya en las nuevas versiones del cdn.  
 		El archivo de la version 4.7.0, por tanto funciona gracias a que internamente está importando webfonts en diferentes formatos (eot, woff2, woff, svg…) de una carpeta llamada **fonts**.  
 		Sin embargo las versiones posteriores no incluyen este fragmento de código y por tanto no importan dichos archivos de fuente.
-		``` 
-		    @font-face {
+		```     @font-face {
 		      font-family: 'FontAwesome';
 		      src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
 		      src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
@@ -25014,27 +22507,23 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		    
 		```
 
-	* **Alvaro Dueñas Orbe** (1)
+	* **Alvaro Dueñas Orbe** [605054] (1)
 
-		
 		Tienes que ver la versión del Font Awesome que estas tratando de utilizar y usar la clase correspondiente, ya que dependiendo de la versión es como utilizan las clases para los iconos, la 4.7 utiliza el “fa” y la 5 me parece que usa “fas” o “fal” para mandar a llamar el icono.
 
-	* **almudenaguerras** (1)
+	* **almudenaguerras** [605054] (1)
 
-		
 		Creo que en realidad ‘fas’, ‘fa’ o ‘far’ tiene más que ver con la variante que quieres utilizar de dicho icono (solid, regular, light…) que con la versión de la librería en sí.  
 		<https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use>
 
-	* **almudenaguerras** (2)
+	* **almudenaguerras** [605054] (2)
 
-		
 		Todo apunta a que el archivo de ese CDN no es correcto.  
 		Os comparto el código con el que lo he podido solucionar.  
 		Utilizando el CDN oficial de Font Awesome
 		
 		// Archivo “ **index.html** ”
-		``` 
-		    <!DOCTYPE html>
+		```     <!DOCTYPE html>
 		    <htmllang="en">
 		    
 		    <head>
@@ -25058,8 +22547,7 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		```
 		
 		//Archivo “ **styles.css** ”
-		``` 
-		    @import url("https://use.fontawesome.com/releases/v5.9.0/css/all.css");
+		```     @import url("https://use.fontawesome.com/releases/v5.9.0/css/all.css");
 		    
 		    .notification {
 		      color: red;
@@ -25074,40 +22562,33 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		    
 		```
 
-* **Adrian Garcia Saaib** (3)
+* **Adrian Garcia Saaib** (3) [410753](https://platzi.com/comentario/410753/) 
 
-	
 	Demaciada información xD espero poder hacer un proyecto masomenos grande con estas clases
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [353317](https://platzi.com/comentario/353317/) 
 
-	
 	Siempre quise hacer esa animacion que tiene la campanita 😄
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [353316](https://platzi.com/comentario/353316/) 
 
-	
 	Version actualizada de **Font Awesome** :
-	``` 
-	    <linkrel="stylesheet"href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+	```     <linkrel="stylesheet"href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
 	    
 	```
 
-* **reynaldo.robayo** (2)
+* **reynaldo.robayo** (2) [957810](https://platzi.com/comentario/957810/) 
 
-	
 	En esta practica el elemento que debemos observar como se le aplican los cambios se encuentra oculto por la miniatura del vídeo.
 
-* **Danniel Sequera** (2)
+* **Danniel Sequera** (2) [582523](https://platzi.com/comentario/582523/) 
 
-	
 	Para cambiar el tamaño al icono de la campana no es con “width: 50px” sino con “font-size: 20px;” ya que en teoría el icono es una fuente.
 	
 	Ejemplo:
 	
 	En lugar de esto:
-	``` 
-	    .notification {
+	```     .notification {
 	    	color: white;
 	    	width: 50px; /* Cambiar aquí */
 	    	height: inherit;
@@ -25119,8 +22600,7 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	```
 	
 	Colocar esto:
-	``` 
-	    .notification {
+	```     .notification {
 	    	color: white;
 	    	font-size: 20px; /* Por esto */
 	    	height: inherit;
@@ -25131,61 +22611,50 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	    
 	```
 
-	* **Danniel Sequera** (2)
+	* **Danniel Sequera** [582523] (2)
 
-		
 		El width: 50px es para el tamaño del contenedor del icono “.notification”. Tenerlo es necesario para tener espacio para el posicionamiento absoluto.
 
-* **Hdas** (2)
+* **Hdas** (2) [523574](https://platzi.com/comentario/523574/) 
 
-	
 	[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.2/css/all.min.css](url)
 
-* **Aufsten** (2)
+* **Aufsten** (2) [395357](https://platzi.com/comentario/395357/) 
 
-	
 	FontAwesome es increíble tal y como lo dice en el nombre, es una herramienta que nos facilita mucho trabajo sobre todo en cuestión de practicas!  
 	Excelente Platzi… siempre aprendiendo cosas nuevas con ustedes!
 
-	* **Hdas** (1)
+	* **Hdas** [395357] (1)
 
-		
 		Muy buena herramienta
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [353340](https://platzi.com/comentario/353340/) 
 
-	
 	Admiro tu memorizacion, a mi siempre se me olvida todo JAJAJA
 	
 	Nada mas me se el **#ffffff** y el **#000000**
 
-	* **Miguel Matos** (3)
+	* **Miguel Matos** [353340] (3)
 
-		
 		No es muy complicado cuando le has metido mano a tantos sitios web: los dos primeros son el rojo, los dos siguientes el verde y los dos siguientes el azul. Jugando con ellos salen la combinación de colores.  
 		Otra web que suelo utilizar es esta, para recordar cómo se llaman los colores y cómo se escriben en hexadecimal <http://www.htmlcsscolor.com/html-color-names>
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [353340] (1)
 
-		
 		Wow, no conocia esa web. Gracias 😄
 
-	* **juand_silva** (2)
+	* **juand_silva** [353340] (2)
 
-		
 		mamptecnocrata que buen recurso y sencillo que es lo que importa
 
-	* **Hdas** (1)
+	* **Hdas** [353340] (1)
 
-		
 		Muy buen aporte
 
-* **Sneyder Alfonso Barreto Buitrago** (1)
+* **Sneyder Alfonso Barreto Buitrago** (1) [927716](https://platzi.com/comentario/927716/) 
 
-	
 	Hoy en día se recomienda el uso de pseudo-elementos como before o after con **doble dos puntos ::** y no con uno solo :, de esta manera se distinguen de las pseudo-clases.
-	``` 
-	    .clase::before {
+	```     .clase::before {
 	    }
 	    .clase::after {
 	    }
@@ -25195,39 +22664,32 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 	De igual forma, los navegadores soportan el uso de las dos formas, pero esto es muy útil para diferenciar.  
 	Un saludo.
 
-* **Andrew321q** (1)
+* **Andrew321q** (1) [600718](https://platzi.com/comentario/600718/) 
 
-	
 	Podemos hacer y tener diferentes hojas de estilos y tenerlas guardadas para distintos proyectos? como reutilizar?
 
-	* **aragonesteban (Platzi)** (2)
+	* **aragonesteban (Platzi)** [600718] (2)
 
-		
 		Hola! por supuesto que sí, la reutilización es un pilar a la hora de hacer código.
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597372](https://platzi.com/comentario/597372/) 
 
-	
 	<http://fontawesome.io/>
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597371](https://platzi.com/comentario/597371/) 
 
-	
 	 _🔔🔨_
 
-* **Nigtdreams** (1)
+* **Nigtdreams** (1) [578421](https://platzi.com/comentario/578421/) 
 
-	
 	@LeonidasEsteban Como sabemos si el cdn que vamos a usar para enlazar la fuente de iconos tiene disponible el icono que necesito de FontAwesome. O en nuestros proyectos siempre debemos tener los archivos de nuestros iconos cargados en la carpeta del proyecto ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [578421] (3)
 
-		
 		Hola los CDN por lo general siempre están actualizados y si utilizas el CDN que provee la documentación oficial siempre va a estar actualizado. Puedes cargar tus iconos desde tu servidor, pero la ventaja que tiene el uso de los CDN es que si ya el usuario visitó otra pagina y esa pagina también uso el CDN la fuente de iconos ya la tiene en cache y la carga de tu sitio va a ser un poco más rápida.
 
-	* **STAVROS ZOTOS** (1)
+	* **STAVROS ZOTOS** [578421] (1)
 
-		
 		<!DOCTYPE html>  
 		<html lang=“en”>  
 		<head>  
@@ -25240,8 +22702,7 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		div {width:815px;  
 		height:615px;  
 		background-image: url(“images/amaxa.gif”)
-		``` 
-		      </style>
+		```       </style>
 		      
 		      </head>
 		      <body>
@@ -25274,8 +22735,7 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;  
 		window.requestAnimationFrame = requestAnimationFrame;  
 		})();
-		``` 
-		    // canvas creation
+		```     // canvas creation
 		    
 		```
 		
@@ -25290,8 +22750,7 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		
 		function select () {  
 		if (x 795 || x200){
-		``` 
-		    xdir=-1* xdir}
+		```     xdir=-1* xdir}
 		    
 		    if (y ==-10 ){
 		    
@@ -25333,181 +22792,153 @@ muy buena clase, me gusto caleta, pero tengo una duda es una buena práctica uti
 		</body>  
 		</html>
 
-	* **STAVROS ZOTOS** (1)
+	* **STAVROS ZOTOS** [578421] (1)
 
-		
 		Hola Leonida, hize esta pagina pero quiero cuando la bola negrita se toca en el pared derecha que vuelva hasta la imagen “cowboy.gif” esta imagen “cowboy.gif” que se desaparesca. Como lo hago? Estoy colgado. Muchas gracias
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [578421] (2)
 
-		
 		@stavros, crea una nueva discusión para poder ayudarte, aquí es solo visible para los que han respondido aquí.
 
-* **luis-carlos-zabala** (1)
+* **luis-carlos-zabala** (1) [576435](https://platzi.com/comentario/576435/) 
 
-	
 	Buenas Noches
 	
 	¿Alguien sabe cuál es la diferencia de colocar los elementos de notificación con before y after en el css en vez de ser colocados en el html?
 	
 	Saludos
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [576435] (2)
 
-		
 		Te permite usarlos pegados a la clase css, por lo tanto no tienes que duplicar tantos elementos en el HTML.
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [569001](https://platzi.com/comentario/569001/) 
 
-	
 	So awesome!
 
-* **Chunchunmaru** (1)
+* **Chunchunmaru** (1) [551299](https://platzi.com/comentario/551299/) 
 
-	
 	FontAwesome :3
 
-* **elreydavid** (1)
+* **elreydavid** (1) [512820](https://platzi.com/comentario/512820/) 
 
-	
 	gracias se entiende bien
 
-	* **Hdas** (1)
+	* **Hdas** [512820] (1)
 
-		
 		buena clase
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [481165](https://platzi.com/comentario/481165/) 
 
-	
 	Ésta es la línea que puse, y no puedo ver la campanita:
-	``` 
-	    <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	```     <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
 	    
 	    
 	```
 	
 	Me aparece: `/f0f3`
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [481165] (1)
 
-		
 		Utiliza este. Yo lo use y si funciona.
-		``` 
-		    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
+		```     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
 		    
 		```
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [481165] (1)
 
-		
 		Gracias, la verdad era poner más atención el **content ** va con backslash () y lo había puesto con slash (/) 😅
 
-* **alejandroszg** (1)
+* **alejandroszg** (1) [435334](https://platzi.com/comentario/435334/) 
 
-	
 	117 cursos… Hoy, 28/11/2018, Platzi te ofrece 260 cursos. Qué nivel👍
 
-* **kawasaki** (1)
+* **kawasaki** (1) [176811](https://platzi.com/comentario/176811/) 
 
-	
 	si hay parte del vídeo que no se puede ver la secuencia pero de todos modos me llego a salir probando y probando.  
 	creo que el responsable de dicho detalle es el editor para mi opinión bueno siempre hay detalles que pasan.
 
-* **wilkinsbrito** (1)
+* **wilkinsbrito** (1) [81079](https://platzi.com/comentario/972989/) 
 Hola todos, les cuento mi tragedia, Lol, Estoy intentado usar el link del cdn desde la mima página que Leonidas dejó los enlaces y cuando...
 
-	* **pinfradev** (1)
+	* **pinfradev** [81079] (1)
 
-		
 		Hola. A mi tampoco me funcionó ese link de cdn. Puede usar el siguiente enlace de cdn  
 		<https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>  
 		Ese es el cdn que usan en w3schools  
 		La etiqueta link quedaría como se muestra a continuación
-		``` 
-		    <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		```     <linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		    
 		```
 
-* **Esau Rosales** (1)
+* **Esau Rosales** (1) [63671](https://platzi.com/comentario/663106/) 
 Para que sirve :after y :before? Hay alguna clase que hable sobre esto?
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [63671] (2)
 
-		
 		¡Hola! Puedes leer este [tutorial](https://www.lawebera.es/xhtml-css/pseudo-elementos-css-before-after.php) que te ayudará a entender mejor el significado de estos conceptos 😄
 
-* **Luis Daniel Caraballo** (1)
+* **Luis Daniel Caraballo** (1) [60409](https://platzi.com/comentario/605054/) 
 Muchachos, estoy intentando usar el link https://cdnj...
 
-	* **Alex Fabian Moreno Acero** (2)
+	* **Alex Fabian Moreno Acero** [60409] (2)
 
-		
 		¿estas llamando la clase que trae la campana, porque puede ser que actualizaran la clase con otro nombre?
 
-* **Andrew321q** (1)
+* **Andrew321q** (1) [60103](https://platzi.com/comentario/600718/) 
 Podemos hacer y tener diferentes hojas de estilos y tenerlas guardadas para distintos proyectos? como reutilizar?
 
-	* **aragonesteban (Platzi)** (2)
+	* **aragonesteban (Platzi)** [60103] (2)
 
-		
 		Hola! por supuesto que sí, la reutilización es un pilar a la hora de hacer código.
 
-* **Nigtdreams** (1)
+* **Nigtdreams** (1) [58539](https://platzi.com/comentario/578421/) 
 @LeonidasEsteban Como sabemos si el cdn que vamos a usar para enlazar la fuente de iconos tiene disponible el icono que necesito de Font...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [58539] (3)
 
-		
 		Hola los CDN por lo general siempre están actualizados y si utilizas el CDN que provee la documentación oficial siempre va a estar actualizado. Puedes cargar tus iconos desde tu servidor, pero la ventaja que tiene el uso de los CDN es que si ya el usuario visitó otra pagina y esa pagina también uso el CDN la fuente de iconos ya la tiene en cache y la carga de tu sitio va a ser un poco más rápida.
 
-* **luis-carlos-zabala** (1)
+* **luis-carlos-zabala** (1) [58398](https://platzi.com/comentario/576435/) 
 Buenas Noches ¿Alguien sabe cuál es la diferencia de colocar los elementos de notificación con before y after en el css en vez de ser col...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [58398] (2)
 
-		
 		Te permite usarlos pegados a la clase css, por lo tanto no tienes que duplicar tantos elementos en el HTML.
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [50558](https://platzi.com/comentario/481165/) 
 Ésta es la línea que puse, y no puedo ver la campanita: <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-...
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [50558] (1)
 
-		
 		Utiliza este. Yo lo use y si funciona.
-		``` 
-		    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
+		```     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
 		    
 		```
 
-* **sergio andres navarro melendez** (0)
+* **sergio andres navarro melendez** (0) [257403](https://platzi.com/comentario/257403/) 
 
-	
 	en algunos cambios que se le hacen al ejercicio no se logra apreciar bien ya que esta justo donde esta la cámara de Leonidas
 
-## 0260. Animando Notificaciones
+## 0260. Animando Notificaciones [6844](https://platzi.com/clases/1103-animaciones-web/6844-animando-notificaciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jonatan Ruben Sosa Caycay** (11)
+* **Jonatan Ruben Sosa Caycay** (11) [285173](https://platzi.com/comentario/285173/) 
 
-	
 	Hola, aquí esta la campana animada si alguien le sirve:
 	
 	[Bell Notification](https://codepen.io/jjonatansosa/pen/KoYOgm)
 
-	* **Facundo Petre** (5)
+	* **Facundo Petre** [285173] (5)
 
-		
 		Excelente trabajo !  
 		También puedes acceder a los valores de los atributos data-nombre utilizando dataset:  
 		Ejemplo:
-		``` 
-		    const count = Number($bell.dataset.count) || 0;
+		```     const count = Number($bell.dataset.count) || 0;
 		    
 		    $bell.dataset.count= count + 1;
 		    
@@ -25518,131 +22949,106 @@ Buenas Noches ¿Alguien sabe cuál es la diferencia de colocar los elementos de 
 		
 		Saludos ✌️
 
-	* **Hdas** (1)
+	* **Hdas** [285173] (1)
 
-		
 		Muchas gracias que buen ejemplo
 
-* **Santiago Escalante** (7)
+* **Santiago Escalante** (7) [189680](https://platzi.com/comentario/189680/) 
 
-	
 	@leonidas, ya sé que a efectos del ejercicio y de lo que estás enseñando funciona, pero me llama poderosamente la atención que hayas creado la constante count dentro del eventListener. Cada vez que hagas click sobre el boton, esta constante se creará nuevamente. Es correcto este approach o podría estar mejor?
 
-	* **Leonidas Esteban Gonzalez** (23)
+	* **Leonidas Esteban Gonzalez** [189680] (23)
 
-		
 		Entiendo a que te refieres y es genial que te hagas estas preguntas y tienes toda la razón, my bad. Aunque en un caso real no usaríamos un contador en el frontend más bien el dato llegaría por un socket o ajax automáticamente.
 
-	* **Hdas** (1)
+	* **Hdas** [189680] (1)
 
-		
 		Muchas gracias
 
-* **Nigtdreams** (5)
+* **Nigtdreams** (5) [578427](https://platzi.com/comentario/578427/) 
 
-	
 	Falto explicar los Pseudo-elements: es un keyword que se añade a un selector, nos permite darle estilos a una parte especifica del elemento seleccionado.
 	
 	En esta clase usamos **:before & :after** para los que quieran profundizar les recomiendo: <https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements>.
 
-	* **Edgardo Marcano** (2)
+	* **Edgardo Marcano** [578427] (2)
 
-		
 		Muchas gracias por compartir el enlace, si bien es cierto que aqui no lo explican, estoy seguro que en los demas cursos de arquitectura frontend deben hacer enfasis en ello. Ya yo tenia un par de videotutoriales abiertos en youtube sobre eso esperando para verlos despues de terminar esta clase jajaja
 
-	* **Nigtdreams** (1)
+	* **Nigtdreams** [578427] (1)
 
-		
 		En el curso de preprocesadores cubren de una forma muy clara. Todo lo que no halles en un curso seguro lo encuentras en los siguientes platzi nunca falla, y para cultivar buenos habitos de vez en cuadno un hojo a la documentación es buena idea
 
-* **Erick Neftalí Sarmiento Cortes** (5)
+* **Erick Neftalí Sarmiento Cortes** (5) [182717](https://platzi.com/comentario/182717/) 
 
-	
 	wooooow de verdad esta genial Leonidas, vamos por mas.
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [182717] (1)
 
-		
 		por supuesto
 
-* **asanchez2091** (4)
+* **asanchez2091** (4) [640314](https://platzi.com/comentario/640314/) 
 
-	
 	Saludos, A estas alturas del curso y de haber estado ya estudiando y aprobando varios cursos de platzi para la arquitectura frontend se ve que es un mundo muy complejo ya entiendo porque freddy dice que ganan tanto esto es un trabajo muy laborioso y meticuloso. Ya que todo debe quedar correcto y para eso debemos practicar muchísimo prácticamente renunciar a nuestra vida social jajaja para que en poco tiempo tengamos maduras dichas habilidades.
 
-	* **julian orrego** (2)
+	* **julian orrego** [640314] (2)
 
-		
 		Hacer vida social con otros arquitectos frontend solo para practicar jaja.
 
-* **kikemadrigal** (4)
+* **kikemadrigal** (4) [417499](https://platzi.com/comentario/417499/) 
 
-	
 	Muy buena!.. Lo que me gustaría es aclarar un poco mas el tema de before y after!.
 
-	* **Hdas** (2)
+	* **Hdas** [417499] (2)
 
-		
 		Seria muy interesante
 
-	* **michaelsaritamacoronel** (1)
+	* **michaelsaritamacoronel** [417499] (1)
 
-		
 		es cierto…sigo perdido en ese pequeño tema
 
-	* **Gabriel Andreí Barceló Alfaro** (3)
+	* **Gabriel Andreí Barceló Alfaro** [417499] (3)
 
-		
 		El :before agrega contenido antes del elemento (en este caso el icono de la campana) y el :after agrega contenido después del elemento (en este caso los números)
 
-* **lmoran** (3)
+* **lmoran** (3) [811373](https://platzi.com/comentario/811373/) 
 
-	
 	Poco a poco se va entendiendo, tuve que ver el video más de 5 veces. si se puede.
 
-	* **Edgardo Marcano** (1)
+	* **Edgardo Marcano** [811373] (1)
 
-		
 		Cada quien a su ritmo y eso está bien! A mi se me ha hecho mega sencillo de entender, si bien en un principio no entendia JavaScript, el de programación basica me hizo entenderlo bastante
 
-* **Betty Rossana Jimenez Cedeño** (3)
+* **Betty Rossana Jimenez Cedeño** (3) [554593](https://platzi.com/comentario/554593/) 
 
-	
 	animación, de verdad es un proceso…
 
-	* **emanueljtc** (2)
+	* **emanueljtc** [554593] (2)
 
-		
 		Totalmente @bettyrjc, es un mundo muy amplio.
 
-	* **asanchez2091** (2)
+	* **asanchez2091** [554593] (2)
 
-		
 		totalmente de acuerdo es un proceso Jajajaja
 
-* **Adrian Garcia Saaib** (3)
+* **Adrian Garcia Saaib** (3) [410792](https://platzi.com/comentario/410792/) 
 
-	
 	Lo que me parece es que :after y :before sirven como banderas solamente?, o hace que la accion sea justo despues o antes del evento??
 
-	* **michaelsaritamacoronel** (1)
+	* **michaelsaritamacoronel** [410792] (1)
 
-		
 		tampoco entendí para que sirven
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [353467](https://platzi.com/comentario/353467/) 
 
-	
 	Yo cree una variable llamada **count** que al inicio vale **0**. Se le va sumando uno cada vez que se presiona el boton. Despues uso **setAttribute(** ‘data-count’, count**)**
 	
 	Siento que es mejor 😄
 
-* **czabala847** (2)
+* **czabala847** (2) [487212](https://platzi.com/comentario/487212/) 
 
-	
 	No logro animar (rotar) la campanita, no me funcionan las transformaciones, para el icono utilice fuentes de icomoom en vez de fontawesome. ¿Alguna recomendación?
-	``` 
-	    .icon-campana:before {
+	```     .icon-campana:before {
 	          content: "\e951";
 	    
 	          animation-name: bell;
@@ -25651,18 +23057,15 @@ Buenas Noches ¿Alguien sabe cuál es la diferencia de colocar los elementos de 
 	        }```
 	```
 
-	* **Ivan Sevilla** (2)
+	* **Ivan Sevilla** [487212] (2)
 
-		
 		Prueba con fontawesome:
-		``` 
-		    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
+		```     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
 		    
 		```
 		
 		Tu css deberia estar asi
-		``` 
-		    .icon-campana:before {
+		```     .icon-campana:before {
 		                content: "\f0f3";
 		                font-family: "Font Awesome 5 Free";
 		                display: block;
@@ -25679,53 +23082,45 @@ Buenas Noches ¿Alguien sabe cuál es la diferencia de colocar los elementos de 
 		
 		.
 
-* **ERICK JESÚS ALVA LÓPEZ** (2)
+* **ERICK JESÚS ALVA LÓPEZ** (2) [402936](https://platzi.com/comentario/402936/) 
 
-	
 	Hey saludos @leonidas, que curso me recomiendas tomar para aplicar la notificación pero en productivo, para poder enviar notificaciones en tiempo real a mis usuarios.
 	
 	Excelente curso.
 	
 	Saludos.
 
-	* **Carlos Jesús Fernández Salazar** (1)
+	* **Carlos Jesús Fernández Salazar** [402936] (1)
 
-		
 		Hola @erickchortys, no soy Leonidas pero te recomendaría el [curso de firebase web](https://platzi.com/clases/firebase-web/). Por lo visto lo van a actualizar en unos días y seguramente estará mucho mejor que el anterior _(donde recuerdo que ví como **enviar notificaciones en tiempo real a mis usuarios** )_.
 
-	* **Walter Lensinas** (1)
+	* **Walter Lensinas** [402936] (1)
 
-		
 		Para este caso, podrias usar [socket.io](https://socket.io/). Usa nodejs como servidor con expressjs. Hay un tutorial para hacer un chat en esa pagina que sirve para entender como manejar las notificaciones entre frontend y backend.
 		
 		Esta el curso basico de nodejs [aquí](https://platzi.com/clases/basico-nodejs/) por si no lo conoces.
 
-	* **Hdas** (1)
+	* **Hdas** [402936] (1)
 
-		
 		Muchísimas gracias que buena aporte
 
-* **Jorge Luis Montes Castro** (1)
+* **Jorge Luis Montes Castro** (1) [831499](https://platzi.com/comentario/831499/) 
 
-	
 	Intente el mismo código pero declarando count como variable con let y funcionó del mismo modo pero la duda esta porque entiendo que las constantes no se pueden reemplazar sus valores como las variables y en el ejemplo pareciera que si se puede, gracias de antemano a quien aclare la duda.
 
-	* **julian orrego** (2)
+	* **julian orrego** [831499] (2)
 
-		
 		Buen día Jorge. Entiendo que si bien, no podemos reasignar el valor de una variable declarada con const, si podemos asignarle un array u objeto para cambiar las propiedades de estos elementos.
 		
 		Por ejemplo, podríamos hacer esto:
-		``` 
-		    const count = { name: 'Julian' };
+		```     const count = { name: 'Julian' };
 		    count.name =  'Jorge';
 		    console.log(user.name); // 'Jorge'
 		    
 		```
 		
 		Pero no podriamos reasignar el valor de la variable, como en este caso, ya que nos daría un error.
-		``` 
-		    const count = 'Julian';
+		```     const count = 'Julian';
 		    count = 'Manolo'; // TypeError: Assignment to constant variable
 		    
 		```
@@ -25734,32 +23129,27 @@ Buenas Noches ¿Alguien sabe cuál es la diferencia de colocar los elementos de 
 		<https://cybmeta.com/var-let-y-const-en-javascript>  
 		<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/const>
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [831499] (1)
 
-		
 		Qué buena respuesta compañero !!
 
-* **Jorge Luis Montes Castro** (1)
+* **Jorge Luis Montes Castro** (1) [831493](https://platzi.com/comentario/831493/) 
 
-	
 	Buen día a todos, algo que no me quedo claro es que **count** se declaro como constante y con el **setAttribute** podamos agregar 1 ante cada click y el valor de count cambie como si se tratara de una variable.
 
-	* **julian orrego** (1)
+	* **julian orrego** [831493] (1)
 
-		
 		Buen día Jorge. Entiendo que si bien, no podemos reasignar el valor de una variable declarada con const, si podemos asignarle un array u objeto para cambiar las propiedades de estos elementos.
 		
 		Por ejemplo, podríamos hacer esto:
-		``` 
-		    const count = { name: 'Julian' };
+		```     const count = { name: 'Julian' };
 		    count.name =  'Jorge';
 		    console.log(user.name); // 'Jorge'
 		    
 		```
 		
 		Pero no podriamos reasignar el valor de la variable, como en este caso, ya que nos daría un error.
-		``` 
-		    const count = 'Julian';
+		```     const count = 'Julian';
 		    count = 'Manolo'; // TypeError: Assignment to constant variable
 		    
 		```
@@ -25768,56 +23158,47 @@ Buenas Noches ¿Alguien sabe cuál es la diferencia de colocar los elementos de 
 		<https://cybmeta.com/var-let-y-const-en-javascript>  
 		<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/const>
 
-* **Jose Luis Colmenares** (1)
+* **Jose Luis Colmenares** (1) [708647](https://platzi.com/comentario/708647/) 
 
-	
 	tremenda clase, el nivel de detalle que llegaste me ayudó mucho para saber como animar un proyecto personal que estoy realizando. Gracias Leonidas
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [619591](https://platzi.com/comentario/619591/) 
 
-	
 	Sinceramente leonidas es un Exelente Docente. gracias por compartir sus conocimientos
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [561426](https://platzi.com/comentario/561426/) 
 
-	
 	Me gusto esta clase.
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [513106](https://platzi.com/comentario/513106/) 
 
-	
 	arrow function es más chévere because ecmascript 6.  
 	jajaja.  
 	#ExpresionesQueMolan
 
-* **JuanDAC** (1)
+* **JuanDAC** (1) [429642](https://platzi.com/comentario/429642/) 
 
-	
 	Para los eventos en cola se puede ser un assinc o un promise para cuando termine inicie la otra ?
 
-* **Enyelber Altube** (1)
+* **Enyelber Altube** (1) [363467](https://platzi.com/comentario/363467/) 
 
-	
 	Excelente, me gusto mucho
 
-* **Jaime Acosta** (1)
+* **Jaime Acosta** (1) [79614](https://platzi.com/comentario/943407/) 
 ¿Cómo podría modificar el tamaño del icono de la campana?
 
-* **czabala847** (1)
+* **czabala847** (1) [51074](https://platzi.com/comentario/487212/) 
 No logro animar (rotar) la campanita, no me funcionan las transformaciones, para el icono utilice fuentes de icomoom en vez de fontawesom...
 
-	* **Ivan Sevilla** (2)
+	* **Ivan Sevilla** [51074] (2)
 
-		
 		Prueba con fontawesome:
-		``` 
-		    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
+		```     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">```
 		    
 		```
 		
 		Tu css deberia estar asi
-		``` 
-		    .icon-campana:before {
+		```     .icon-campana:before {
 		                content: "\f0f3";
 		                font-family: "Font Awesome 5 Free";
 		                display: block;
@@ -25834,53 +23215,46 @@ No logro animar (rotar) la campanita, no me funcionan las transformaciones, para
 		
 		.
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [44688](https://platzi.com/comentario/410792/) 
 Lo que me parece es que :after y :before sirven como banderas solamente?, o hace que la accion sea justo despues o antes del evento??
 
-	* **michaelsaritamacoronel** (1)
+	* **michaelsaritamacoronel** [44688] (1)
 
-		
 		tampoco entendí para que sirven
 
-* **ERICK JESÚS ALVA LÓPEZ** (1)
+* **ERICK JESÚS ALVA LÓPEZ** (1) [43983](https://platzi.com/comentario/402936/) 
 Hey saludos @leonidas, que curso me recomiendas tomar para aplicar la notificación pero en productivo, para poder enviar notificaciones e...
 
-	* **Carlos Jesús Fernández Salazar** (1)
+	* **Carlos Jesús Fernández Salazar** [43983] (1)
 
-		
 		Hola @erickchortys, no soy Leonidas pero te recomendaría el [curso de firebase web](https://platzi.com/clases/firebase-web/). Por lo visto lo van a actualizar en unos días y seguramente estará mucho mejor que el anterior _(donde recuerdo que ví como **enviar notificaciones en tiempo real a mis usuarios** )_.
 
-* **sergio andres navarro melendez** (0)
+* **sergio andres navarro melendez** (0) [261016](https://platzi.com/comentario/261016/) 
 
-	
 	no entendí muy bien esta clase, sobre todo la parte en la que se usa Js
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [261016] (0)
 
-		
 		Deberías hacer los cursos previos a este. Los de css, html y responsive design, así como también el de Javascript.  
 		Porque enserio sin estos conocimientos va ser mucho más difícil entender este curso
 
-	* **sergio andres navarro melendez** (0)
+	* **sergio andres navarro melendez** [261016] (0)
 
-		
 		en realidad ya los hice, el unico que no e hecho es el de js que estoy en el proceso de completarlo, pero gracias bro por responder!
 
-	* **Hdas** (1)
+	* **Hdas** [261016] (1)
 
-		
 		Cuestión de verlos detenidamente de a pocos lo entenderás
 
-## 0270. Olas Explicación
+## 0270. Olas Explicación [6845](https://platzi.com/clases/1103-animaciones-web/6845-olas-explicacion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Luis Fernando Valladares Castro** (25)
+* **Luis Fernando Valladares Castro** (25) [551793](https://platzi.com/comentario/551793/) 
 
-	
 	Hola a todos, soy un viejo alumno del curso y deseo compartirles una **Guia de Animaciones para la Web** basada en los conocimientos adquiridos en este curso con definiciones y excelentes ejemplos para que pueda servirles como referencia y ayuda extra.
 	
 	La guía cuenta con una **Pagina Web Demostrativa** , la cual, integra la mayoría de las animaciones diseñadas en esta sección y a lo largo del curso.
@@ -25891,105 +23265,85 @@ Hey saludos @leonidas, que curso me recomiendas tomar para aplicar la notificaci
 	**Pagina Web:**<https://luisvalladaresc.github.io/animaciones-css/>  
 	![](https://static.platzi.com/media/porfilio/css-animaciones_9ea16b8e-bd81-4c06-9563-0479ff047e5a.PNG)
 
-	* **CarlosSanguino** (2)
+	* **CarlosSanguino** [551793] (2)
 
-		
 		Muy buen resumen gracias
 
-	* **Luis Fernando Valladares Castro** (1)
+	* **Luis Fernando Valladares Castro** [551793] (1)
 
-		
 		De nada amigo, me alegra poder ayudar 👍
 
-	* **emanueljtc** (2)
+	* **emanueljtc** [551793] (2)
 
-		
 		Buen resumen.
 
-	* **Fabio Andres Arango Grajales** (2)
+	* **Fabio Andres Arango Grajales** [551793] (2)
 
-		
 		Excelente resumen los voy aplicar en mis proyectos…Gracias
 
-	* **Andrew321q** (2)
+	* **Andrew321q** [551793] (2)
 
-		
 		Hermoso
 
-* **sergio andres navarro melendez** (15)
+* **sergio andres navarro melendez** (15) [267070](https://platzi.com/comentario/267070/) 
 
-	
 	uffff!!! como van surgiendo las ideas con cada clases!!! vamosss! que no paree!!
 
-	* **Leonidas Esteban Gonzalez** (13)
+	* **Leonidas Esteban Gonzalez** [267070] (13)
 
-		
 		De eso se trata, las animaciones son pura inspiración
 
-* **Almu_timkerbell** (9)
+* **Almu_timkerbell** (9) [668457](https://platzi.com/comentario/668457/) 
 
-	
 	¿A nadie más le está explotando la cabeza con este curso?
 
-	* **dipacata** (1)
+	* **dipacata** [668457] (1)
 
-		
 		siii, tantas cosas que se pueden hacer!
 
-	* **angelo meneses** (1)
+	* **angelo meneses** [668457] (1)
 
-		
 		No eres el unico!
 
-	* **Juan Sebastian Cardenas Arevalo** (1)
+	* **Juan Sebastian Cardenas Arevalo** [668457] (1)
 
-		
 		A mi tambienb me explota jajaj
 
-	* **Carlos Remesal** (2)
+	* **Carlos Remesal** [668457] (2)
 
-		
 		Si este te la explota, verás que risas en fundamentos de JS con Sacha xd lol
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [668457] (1)
 
-		
 		Es un curso, muy interesante. Te reta a cada instante.
 
-* **Alejandro Bracho** (7)
+* **Alejandro Bracho** (7) [279249](https://platzi.com/comentario/279249/) 
 
-	
 	wow de verdad que todo lo que hace el frontend no tiene limites jajajaja, no hace falta ser un animador en after effect para hacer grandes animaciones de verdad que como frontend podemos hacer todo para la web jajajaja
 
-	* **Hdas** (1)
+	* **Hdas** [279249] (1)
 
-		
 		desde que puedas practicar las posibilidades pueden ser infinitas
 
-* **Nicolás Benjamín Ocampo** (2)
+* **Nicolás Benjamín Ocampo** (2) [522211](https://platzi.com/comentario/522211/) 
 
-	
 	Se puso realmente increíble esta sección del curso. Cuando empecé la carrera no me imaginaba las cosas que se podían realizar con CSS.
 
-	* **Hdas** (1)
+	* **Hdas** [522211] (1)
 
-		
 		Es una herramienta muy potente y versátil
 
-* **juand_silva** (2)
+* **juand_silva** (2) [386231](https://platzi.com/comentario/386231/) 
 
-	
 	Cual es la diferencia en utilizar:
-	``` 
-	    body {
+	```     body {
 	    margin: 0;
 	    }
 	    
 	```
 	
 	a utilizar:
-	``` 
-	    .body {
+	```     .body {
 	     margin: 0;
 	    }
 	    
@@ -25997,9 +23351,8 @@ Hey saludos @leonidas, que curso me recomiendas tomar para aplicar la notificaci
 	
 	hice la prueba y me dio igual, sin diferencia.
 
-	* **santyg** (4)
+	* **santyg** [386231] (4)
 
-		
 		El . se utiliza para seleccionar una clase del CSS.
 		
 		desde el css se debe poner body {  
@@ -26009,34 +23362,29 @@ Hey saludos @leonidas, que curso me recomiendas tomar para aplicar la notificaci
 		y al llamar la clase se hace con el punto  
 		para llamarla es .body .
 
-	* **carlos_sanchez** (5)
+	* **carlos_sanchez** [386231] (5)
 
-		
 		El .body hace referencia a un elemento con la clase body, que podría ser el mismo body, un div, un p, lo que sea.  
 		Por otra parte, si pones simplemente body, estás haciendo referencia a la etiqueta body, que es única.
 
-	* **Hdas** (1)
+	* **Hdas** [386231] (1)
 
-		
 		con . se refiere a clase  
 		sin el hace referencia a la etiqueta body de nuestro documento
 
-* **Luis  Aldair Quispe Rios** (1)
+* **Luis  Aldair Quispe Rios** (1) [838039](https://platzi.com/comentario/838039/) 
 
-	
 	Que gran curso!
 
-* **lmoran** (1)
+* **lmoran** (1) [812980](https://platzi.com/comentario/812980/) 
 
-	
 	y seguimos!!!
 
-* **juand_silva** (1)
+* **juand_silva** (1) [42394](https://platzi.com/comentario/386231/) 
 Cual es la diferencia en utilizar: body { margin: 0; } a utilizar: .body { margin: 0; } hice la prueba y me ...
 
-	* **santyg** (4)
+	* **santyg** [42394] (4)
 
-		
 		El . se utiliza para seleccionar una clase del CSS.
 		
 		desde el css se debe poner body {  
@@ -26046,290 +23394,236 @@ Cual es la diferencia en utilizar: body { margin: 0; } a utilizar: .body { margi
 		y al llamar la clase se hace con el punto  
 		para llamarla es .body .
 
-* **Misael García** (0)
+* **Misael García** (0) [276338](https://platzi.com/comentario/276338/) 
 
-	
 	Buenísimo este efecto!
 
-	* **Hdas** (1)
+	* **Hdas** [276338] (1)
 
-		
 		Buena clase
 
-## 0280. Olas Animación 2
+## 0280. Olas Animación 2 [6846](https://platzi.com/clases/1103-animaciones-web/6846-olas-animacion/)
 
 ### Descripción:
 ![olas](https://media.giphy.com/media/3ohzdVXt3K0jjZKMiA/giphy.gif)
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (61)
+* **Leonidas Esteban Gonzalez** (61) [170905](https://platzi.com/comentario/170905/) 
 
-	
 	Este fue un ejercicio que alguna vez me pidió un estudiante en el curso de Desarrollo Web, ahora no recuerdo quien pero en ese momento guardé la idea pensando que este curso en algún momento pasaría, espero les guste el resultado.
 	
 	Ahora si, la parte buena de las olas 🌊
 
-	* **Clebert** (2)
+	* **Clebert** [170905] (2)
 
-		
 		Son increíbles los cursos.
 
-	* **Hdas** (1)
+	* **Hdas** [170905] (1)
 
-		
 		Muy buena idea
 
-* **Enrique José Valerio Gómez** (56)
+* **Enrique José Valerio Gómez** (56) [288112](https://platzi.com/comentario/288112/) 
 
-	
 	Un saludo para todos, aquí les dejo un ejercicio realizado aprovechando los conocimientos adquiridos en este curso hasta este punto, espero les sea de alguna utilidad <https://caballero73.github.io/animacion-w/index.html>
 
-	* **José Miguel Paredes Chanquin** (2)
+	* **José Miguel Paredes Chanquin** [288112] (2)
 
-		
 		Que genial te quedo! Muy bien logrado.
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [288112] (1)
 
-		
 		¡Que genial recurso!
 
-	* **Byhako** (2)
+	* **Byhako** [288112] (2)
 
-		
 		Espectacular. Muchas gracias por compartir 😃
 
-	* **Yefferson Guarnizo** (1)
+	* **Yefferson Guarnizo** [288112] (1)
 
-		
 		super bonito te quedo. sigue asi !
 
-	* **José Rubial** (1)
+	* **José Rubial** [288112] (1)
 
-		
 		la pagina esta increible
 
-	* **exequiel_gomez** (1)
+	* **exequiel_gomez** [288112] (1)
 
-		
 		Excelente página
 
-	* **Juan Andrés Cuevas** (2)
+	* **Juan Andrés Cuevas** [288112] (2)
 
-		
 		Me encantó la página
 
-	* **Johan_Marcel** (4)
+	* **Johan_Marcel** [288112] (4)
 
-		
 		Me encantó
 
-	* **Fabio Andres Blanco** (1)
+	* **Fabio Andres Blanco** [288112] (1)
 
-		
 		Muy Bueno tu ejercicio, se nota que se aprendieron todos los conceptos y me pareció un gran recurso, gracias por compartir.
 
-	* **juand_silva** (1)
+	* **juand_silva** [288112] (1)
 
-		
 		Nice! Si pudiera te daría 100 “likes”
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [288112] (1)
 
-		
 		Eres un crack…
 
-	* **Clebert** (1)
+	* **Clebert** [288112] (1)
 
-		
 		Te quedó muy bien!
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [288112] (1)
 
-		
 		super!
 
-	* **maoacrlearn** (1)
+	* **maoacrlearn** [288112] (1)
 
-		
 		 **tremendo trabajo que tienes allí**
 
-	* **Hdas** (1)
+	* **Hdas** [288112] (1)
 
-		
 		Tremendo aporte loco que buena información
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [288112] (1)
 
-		
 		Genial gracias
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [288112] (1)
 
-		
 		perfectoo
 
-	* **Wonder Jhonny Diaz Gonzalez** (1)
+	* **Wonder Jhonny Diaz Gonzalez** [288112] (1)
 
-		
 		Excelente!!
 
-* **Fabian Gutierrez** (8)
+* **Fabian Gutierrez** (8) [169229](https://platzi.com/comentario/169229/) 
 
-	
 	Una mejora interesante seria usar un archivo SVG, en ves de un PNG, para no depender de la resolución de la imagen o de la pantalla
 
-	* **Fabian Gutierrez** (1)
+	* **Fabian Gutierrez** [169229] (1)
 
-		
 		Ademas de tener un tamaño mucho mejor
 
-	* **Leonidas Esteban Gonzalez** (6)
+	* **Leonidas Esteban Gonzalez** [169229] (6)
 
-		
 		Es cierto, es un buen ejercicio. Si alguien lo logra estaría genial que lo comparta por acá.
 
-* **Angela  Cordova** (7)
+* **Angela  Cordova** (7) [170901](https://platzi.com/comentario/170901/) 
 
-	
 	muy genial la forma de logran el movimiento de las olas, felicitaciones por el curso, hasta ahora todo muy genial!
 
-	* **Hdas** (1)
+	* **Hdas** [170901] (1)
 
-		
 		Muy buen curso
 
-* **maoacrlearn** (3)
+* **maoacrlearn** (3) [515146](https://platzi.com/comentario/515146/) 
 
-	
 	Mi primera clase de React.js del mundo mundial ! jajajajaa que emocionante
 
-* **Dario Turco** (3)
+* **Dario Turco** (3) [509448](https://platzi.com/comentario/509448/) 
 
-	
 	Existe algun modo para hecer las olas sin una imagen png y en lugar de eso crearlas con border-radius?
 
-	* **Fco Castro** (3)
+	* **Fco Castro** [509448] (3)
 
-		
 		Cuando comenzó el ejercicio pensé lo mismo. Imaginé que tu idea iba a ser lo que se iba a desarrollar en esta clase.
 
-	* **Mateo Gonzales Navarrete** (4)
+	* **Mateo Gonzales Navarrete** [509448] (4)
 
-		
 		Eso seria extremadamente dificil, de ser viable. Crear figuras poligonales a partir de codigo no es lo más práctico, por así decirlo. Para crear este tipo de figuras complejas, siempre es mejor usar programas como Illustrator. Gastarías una enorme cantidad de tiempo para hacerlo con código.
 
-* **Edgardo Marcano** (2)
+* **Edgardo Marcano** (2) [964934](https://platzi.com/comentario/964934/) 
 
-	
 	No puedo descargar el archivo en png…  
 	Se me guarda como webp y no me carga en el proyecto
 
-* **33andres33** (2)
+* **33andres33** (2) [817528](https://platzi.com/comentario/817528/) 
 
-	
 	esto esta increible
 
-* **Isaias Chávez** (2)
+* **Isaias Chávez** (2) [574550](https://platzi.com/comentario/574550/) 
 
-	
 	Con todo esto estoy pensando en realizar un juego de guacamole(esos donde sale un bicho y tienes que aplastarlo) cuando lo termine lo postearé aquí!!
 
-* **Cristian Orozco Benjumea** (2)
+* **Cristian Orozco Benjumea** (2) [482877](https://platzi.com/comentario/482877/) 
 
-	
 	En la línea del background cuando se escribe:
-	``` 
-	    background: url(waves.png) center bottom no-repeat;
+	```     background: url(waves.png) center bottom no-repeat;
 	    
 	```
 	
 	A que hace alusión:  
 	`center botton no-repeat`
 
-	* **Ivan Sevilla** (4)
+	* **Ivan Sevilla** [482877] (4)
 
-		
 		center bottom se refiere a la posicion que toma el background.  
 		no-repeat se refiere a que no se repita el background.  
 		Es para simplificar seria lo mismo que poner:
-		``` 
-		    background-img: url(waves.png)
+		```     background-img: url(waves.png)
 		    background-position: center bottom
 		    background-repeat: no-repeat ```
 		    
 		```
 
-	* **Ondigital S.A.S** (2)
+	* **Ondigital S.A.S** [482877] (2)
 
-		
 		Lo que haces es que un una sola línea de código escribes el valor de la propiedad `background` o de cualquier otra, se llaman **shorthands** aquí te dejo el enlace para que sepas más:  
 		<https://developer.mozilla.org/es/docs/Web/CSS/Shorthand_properties>
 
-* **Andres Rivera** (2)
+* **Andres Rivera** (2) [415792](https://platzi.com/comentario/415792/) 
 
-	
 	he visto esta tendencia en web design <http://lookbook-olaian.fr/#> como de olas o distorsión encima de la imagen, alguien me puede colaborar diciéndome como se hace
 
-	* **ZylonZ** (2)
+	* **ZylonZ** [415792] (2)
 
-		
 		Revisé el efecto y lo hacen con un canvas, pro lo que necesitarías usar javascript para hacerlo. Sobre el efecto de ola (distorsión), no estoy seguro pero deben de estar usando algún filtro programado sobre la imagen dentro del canvas, saludos.
 
-	* **Hdas** (1)
+	* **Hdas** [415792] (1)
 
-		
 		Gracias
 
-* **Jonatan Ruben Sosa Caycay** (2)
+* **Jonatan Ruben Sosa Caycay** (2) [285454](https://platzi.com/comentario/285454/) 
 
-	
 	Aquí les comparto el código del ejercicio.
 	
 	[Waves](https://codepen.io/jjonatansosa/pen/pLmRbo)
 
-* **Jemd** (1)
+* **Jemd** (1) [1070954](https://platzi.com/comentario/1070954/) 
 
-	
 	Jajajaja “No me pregunten por que” como me reí
 
-* **Miguel Angel Martelo Quiroz** (1)
+* **Miguel Angel Martelo Quiroz** (1) [980242](https://platzi.com/comentario/980242/) 
 
-	
 	Excelente esta clase… Simplemente, FANTASTICA!!! 💚
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [980212](https://platzi.com/comentario/980212/) 
 
-	
 	estas olas son una muy buena fantasía
 
-* **amir-schneider** (1)
+* **amir-schneider** (1) [842222](https://platzi.com/comentario/842222/) 
 
-	
 	·repito y repita se fueron al mar… toca es repetir repetir y repetir y hacer examenes!!! como locos!!! @platziDesaforation!!!
 
-* **Luis  Aldair Quispe Rios** (1)
+* **Luis  Aldair Quispe Rios** (1) [838083](https://platzi.com/comentario/838083/) 
 
-	
 	Elegante! Cada vez esta mas interesante!
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [833443](https://platzi.com/comentario/833443/) 
 
-	
 	Me encantó ésta animación.
 
-* **Juan Sebastian Cardenas Arevalo** (1)
+* **Juan Sebastian Cardenas Arevalo** (1) [813382](https://platzi.com/comentario/813382/) 
 
-	
 	En donde puedo encontrar más sprites que sean gratuitos?
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [642009](https://platzi.com/comentario/642009/) 
 
-	
 	¿Qué hacer si no se ven mis wave.png?
-	``` 
-	    .container {
+	```     .container {
 	            background-color: rgb(17, 173, 235);
 	            position: relative;
 	            height: 500px;
@@ -26376,62 +23670,51 @@ Cual es la diferencia en utilizar: body { margin: 0; } a utilizar: .body { margi
 	    
 	```
 
-	* **Karla Calderón** (3)
+	* **Karla Calderón** [642009] (3)
 
-		
 		Escribiste Posiition, ese es el problema 😃
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [640365](https://platzi.com/comentario/640365/) 
 
-	
 	wau quede cansado pero lo logre!!!
 
-* **Camilo Andrés Santana Lizcano** (1)
+* **Camilo Andrés Santana Lizcano** (1) [631948](https://platzi.com/comentario/631948/) 
 
-	
 	Sin duda un efecto que hará ver nuestras paginas mucho más interesantes
 
-* **irma-davila** (1)
+* **irma-davila** (1) [606182](https://platzi.com/comentario/606182/) 
 
-	
 	Cuando al profe no le funciona el overflow: hidden. Regresa a ver los estilos, nota que los círculos tienen posición absoluta y por tanto el container debe tener posición relativa. Eso me confunde muchísimo. Siento que aun no termino de comprender esos conceptos. Si saben de alguna página que lo explique bien facilito como para mi?
 
-	* **Armando Duarte Quiñones** (1)
+	* **Armando Duarte Quiñones** [606182] (1)
 
-		
 		si aun tienes las duda, se debe a que la posicion absoluta buscara al elemento con la posicion relativa mas cercano a el para que este actue como su contenedor y si no lo encuentra usara al elemento padre aqui un enlace sobre la documentacion de las posiciones  
 		<https://developer.mozilla.org/es/docs/Web/CSS/position>
 
-* **Juan Enrique García Costas** (1)
+* **Juan Enrique García Costas** (1) [606145](https://platzi.com/comentario/606145/) 
 
-	
 	Hola Leonidas, no entiendo porque pones que el container sea **absoluto** , entiendo que debería ser **relativo** para que los div.circulo estén relativos a él.
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [597533](https://platzi.com/comentario/597533/) 
 
-	
 	me parece increíble el efecto de la olas, pero quedo con el presentimiento de que se puede hacer de una forma mejor.
 	
 	> no estoy diciendo que esta mal y tampoco se como hacerlo mejor
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [569894](https://platzi.com/comentario/569894/) 
 
-	
 	Una de las mejores clases del curso!
 
-* **kikemadrigal** (1)
+* **kikemadrigal** (1) [423874](https://platzi.com/comentario/423874/) 
 
-	
 	Lo que no me queda del todo claro, es cuándo usar display flex? o como saber cuando usarlo? al igual que las posiciones absolutas y relativas!.
 
-	* **Hdas** (1)
+	* **Hdas** [423874] (1)
 
-		
 		depende de lo que necesites
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [423874] (1)
 
-		
 		Para crear un contenedor flexible, establecemos el valor de la propiedad de visualización del contenedor del área como **flexible** o **inline-flex**. Tan pronto como hacemos esto, los hijos directos de ese contenedor se convierten en artículos flexibles.  
 		Por ejemplo utilizando esa parte de código:  
 		![carbon.png](https://static.platzi.com/media/user_upload/carbon-3b8ac42d-0760-4168-9921-940d8560bf6c.jpg)  
@@ -26442,123 +23725,104 @@ Cual es la diferencia en utilizar: body { margin: 0; } a utilizar: .body { margi
 		.  
 		Igualmente esto depende de la manera en como se quieran acomodar los elementos. [Aquí](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) se puede consultar más al respecto.
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [411359](https://platzi.com/comentario/411359/) 
 
-	
 	Si no puedes descargar la imagen png puedes usar el link de la imagen
-	``` 
-	    <      background: url(https://static.platzi.com/media/files/waves_c8551f5d-ecf6-4a81-ae1d-f3a0ad55ba10.png) center bottom no-repeat;
+	```     <      background: url(https://static.platzi.com/media/files/waves_c8551f5d-ecf6-4a81-ae1d-f3a0ad55ba10.png) center bottom no-repeat;
 	    >
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [411359] (1)
 
-		
 		justo para codeopen
 
-* **juand_silva** (1)
+* **juand_silva** (1) [386317](https://platzi.com/comentario/386317/) 
 
-	
 	Como dice el propio Leonidas que es un Pro… Increíble!
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353975](https://platzi.com/comentario/353975/) 
 
-	
 	Esta animacion es de las que mas me han gustado 😄
 
-* **Byhako** (1)
+* **Byhako** (1) [304431](https://platzi.com/comentario/304431/) 
 
-	
 	Hola. Cuando voy a bajar el archivo de las olas, me baja como un archivo .webp y no png. ¿Como puedo cambiar esto?
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [304431] (1)
 
-		
 		Para que puedas descargarlo de forma correcta, dale al icono de descarga lo cual te abrirá el recurso en una ventana nueva y podrás descargarlo en PNG.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [304431] (2)
 
-		
 		Chrome esta haciendo eso por defecto, puedes cambiar la extensión al guardar el archivo a mi me ha funcionado.
 
-* **guerrerorodrigo14** (1)
+* **guerrerorodrigo14** (1) [74711](https://platzi.com/comentario/857692/) 
 qué sprites usan ustedes o cuales me podrian recomendar para una pagina web ??, me encanto la animación, pero he visto hasta el momento s...
 
-	* **hdmjesus** (1)
+	* **hdmjesus** [74711] (1)
 
-		
 		Es mejor hacer este tipo de preguntas en el foro de Platzi, imaginate tienes 1 mes y nadie te escribio al respecto. Tambien debe ser como esta preguntas es para los que ya saben ya, y muchos que estamos viendo aca esto, estamos en eso. Yo recomendaria que fueras al foro en Facebook.
 
-* **Dario Turco** (1)
+* **Dario Turco** (1) [52765](https://platzi.com/comentario/509448/) 
 Existe algun modo para hecer las olas sin una imagen png y en lugar de eso crearlas con border-radius?
 
-	* **Mateo Gonzales Navarrete** (4)
+	* **Mateo Gonzales Navarrete** [52765] (4)
 
-		
 		Eso seria extremadamente dificil, de ser viable. Crear figuras poligonales a partir de codigo no es lo más práctico, por así decirlo. Para crear este tipo de figuras complejas, siempre es mejor usar programas como Illustrator. Gastarías una enorme cantidad de tiempo para hacerlo con código.
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [50742](https://platzi.com/comentario/482877/) 
 En la línea del background cuando se escribe: background: url(waves.png) center bottom no-repeat; A que hace alusión: 
 
-	* **Ivan Sevilla** (4)
+	* **Ivan Sevilla** [50742] (4)
 
-		
 		center bottom se refiere a la posicion que toma el background.  
 		no-repeat se refiere a que no se repita el background.  
 		Es para simplificar seria lo mismo que poner:
-		``` 
-		    background-img: url(waves.png)
+		```     background-img: url(waves.png)
 		    background-position: center bottom
 		    background-repeat: no-repeat ```
 		    
 		```
 
-* **Fabián Nava Pereda** (0)
+* **Fabián Nava Pereda** (0) [304345](https://platzi.com/comentario/304345/) 
 
-	
 	[http://www.spritecow.com/](url)
 
-	* **Hdas** (1)
+	* **Hdas** [304345] (1)
 
-		
 		Que buen aporte muchas gracias
 
-* **sergio andres navarro melendez** (0)
+* **sergio andres navarro melendez** (0) [267489](https://platzi.com/comentario/267489/) 
 
-	
 	alguien me puede explicar para que son las propiedades que coloco despues de el background de waves?? 
 
-	* **Jonatan Ruben Sosa Caycay** (1)
+	* **Jonatan Ruben Sosa Caycay** [267489] (1)
 
-		
 		La propiedad **background** es un atajo para definir los valores individuales del fondo en una única regla **CSS**. Se puede usar **background** para definir los valores de una o de todas las propiedades siguientes:** background-attachment, color, image, position, repeat.**
 		
 		Para el caso del video Leo usa “background: image position position repeat”;
 		
 		Revisa este enlace [Background](https://developer.mozilla.org/es/docs/Web/CSS/background)
 
-	* **Hdas** (1)
+	* **Hdas** [267489] (1)
 
-		
 		propiedades del background
 
-* **alodor** (0)
+* **alodor** (0) [203732](https://platzi.com/comentario/203732/) 
 
-	
 	Me encantó esta explicación, gracias 😃
 
-	* **Hdas** (1)
+	* **Hdas** [203732] (1)
 
-		
 		Muy buena clase
 
-* **Fabián Nava Pereda** (0)
+* **Fabián Nava Pereda** (0) [34835](https://platzi.com/discusiones/1103-animaciones-web/34835-que-tiene-de-especial-el-pgn-o-cuales-son-las-propiedades-que-hacen-que-se-encimen-las-olas-de-una-sola-imagen/) 
 Qué tiene de especial el pgn? o cuales son las propiedades que hacen que se encimen las olas de una sola imagén?
 
-# Contenido bonus: Animaciones en ReactJS
+# Contenido bonus: Animaciones en ReactJS [1101]
 
-## 0290. Intro al proyecto final del curso
+## 0290. Intro al proyecto final del curso [6847](https://platzi.com/clases/1103-animaciones-web/6847-intro-al-proyecto-final-del-curso/)
 
 ### Descripción:
 
@@ -26569,197 +23833,162 @@ Qué tiene de especial el pgn? o cuales son las propiedades que hacen que se enc
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (33)
+* **Leonidas Esteban Gonzalez** (33) [170726](https://platzi.com/comentario/170726/) 
 
-	
 	Bienvenidos a mi parte favorita del curso!
 
-	* **Santiago Escalante** (1)
+	* **Santiago Escalante** [170726] (1)
 
-		
 		Definitivamente la mía tambien.
 
-	* **Alan Santiago** (7)
+	* **Alan Santiago** [170726] (7)
 
-		
 		Este ve a ser mi primer contacto con React.js 😮
 
-	* **Adrian Garcia Saaib** (1)
+	* **Adrian Garcia Saaib** [170726] (1)
 
-		
 		Es mi otra parte favorita del proyecto 😄
 
-	* **Carlos Jesús Fernández Salazar** (3)
+	* **Carlos Jesús Fernández Salazar** [170726] (3)
 ![](http://generadordememesonline.com/media/created/79sd51.jpg)
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [170726] (1)
 
-		
 		Y bueno, probablemente se convierta en mi parte favorita del curso XD
 
-	* **Hdas** (1)
+	* **Hdas** [170726] (1)
 
-		
 		Que buena proyecto
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [170726] (1)
 
-		
 		Y llegamos tambien a mi parte mas esperada Animaciones en React Js
 
-* **Camilo Alexander Velandia Velandia** (4)
+* **Camilo Alexander Velandia Velandia** (4) [839801](https://platzi.com/comentario/839801/) 
 
-	
 	a aprender react
 
-* **Luis  Aldair Quispe Rios** (2)
+* **Luis  Aldair Quispe Rios** (2) [838087](https://platzi.com/comentario/838087/) 
 
-	
 	Oh! Vamos! Con React!
 
-* **lmoran** (2)
+* **lmoran** (2) [818327](https://platzi.com/comentario/818327/) 
 
-	
 	Espectacular, React allá vamos!
 
-* **Ian Mande** (2)
+* **Ian Mande** (2) [566402](https://platzi.com/comentario/566402/) 
 
-	
 	Que ??? Sin palabras sin duda este es mi curso favorito. felicidades por su arduo trabajo
 
-* **maoacrlearn** (2)
+* **maoacrlearn** (2) [516214](https://platzi.com/comentario/516214/) 
 
-	
 	Ralice la instalacion Hoy, miercoles 20 defebrero de 2019 y vamos enesta version:
 	
 	create-react-app@2.1.5
 
-	* **Hdas** (1)
+	* **Hdas** [516214] (1)
 
-		
 		Gracias por el dato
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [502786](https://platzi.com/comentario/502786/) 
 
-	
 	Buenísimo el intensivo de React! Gracias.
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [411365](https://platzi.com/comentario/411365/) 
 
-	
 	¿Qué?!¿ya no es 2017?!
 
-* **gaeltrevinoprieto** (2)
+* **gaeltrevinoprieto** (2) [170504](https://platzi.com/comentario/170504/) 
 
-	
 	genial el curso!
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [170504] (1)
 
-		
 		Me alegra mucho que te guste 😃
 
-	* **Hdas** (1)
+	* **Hdas** [170504] (1)
 
-		
 		Muy buen curso
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1041818](https://platzi.com/comentario/1041818/) 
 
-	
 	O_O wowwwwww
 
-* **Angélica María Rocha García** (1)
+* **Angélica María Rocha García** (1) [992669](https://platzi.com/comentario/992669/) 
 
-	
 	😮 react
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [980253](https://platzi.com/comentario/980253/) 
 
-	
 	manos a la obra con Reactjs
 
-* **luis-carlos-zabala** (1)
+* **luis-carlos-zabala** (1) [575301](https://platzi.com/comentario/575301/) 
 
-	
 	Buenas Tardes a todos,
 	
 	¿Esta sección del curso que inicia con ReactJS es básico? ¿Puede tomarse sin tener conocimientos al respecto?
 	
 	Saludos
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [575301] (1)
 
-		
 		Hola Luis!  
 		Es muy básico lo que enseña Leonidas Esteban de **React.js** en esta sección, así que no necesitas conocimientos previos, de igual manera si quieres profundizar en **React.js** puedes ir al nuevo curso entrando a <https://platzi.com/clases/react/>
 
-* **Fabio Andres Arango Grajales** (1)
+* **Fabio Andres Arango Grajales** (1) [574228](https://platzi.com/comentario/574228/) 
 
-	
 	Buenisimo este curso lo voy a utilizar en mis proyectos de la empresa…Gracias Leonidas
 
-* **elreydavid** (1)
+* **elreydavid** (1) [514125](https://platzi.com/comentario/514125/) 
 
-	
 	no funciona el video se bloquea
 
-* **elreydavid** (1)
+* **elreydavid** (1) [514119](https://platzi.com/comentario/514119/) 
 
-	
 	es primera ves que veo react
 
-* **Cristian Orozco Benjumea** (1)
+* **Cristian Orozco Benjumea** (1) [482916](https://platzi.com/comentario/482916/) 
 
-	
 	ReactJS ya? bueno a aprender se dijo
 
-* **Juan Luis Rojas León** (1)
+* **Juan Luis Rojas León** (1) [188863](https://platzi.com/comentario/188863/) 
 
-	
 	¿Cómo puedo hacer una busqueda sobre un input al presionar la tecla enter en React?
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [188863] (3)
 
-		
 		Tal cual existe onClick tambien tiene onSubmit u onKeyDown, cualquier evento que tendría un elemento existe en React. Ya capturando el evento puedes hacer un llamado a algún API o un filtro a un JSON ahi la lógica de búsqueda va del lado del developer
 
-	* **Hdas** (1)
+	* **Hdas** [188863] (1)
 
-		
 		Gracias por la información
 
-* **luis-carlos-zabala** (1)
+* **luis-carlos-zabala** (1) [58301](https://platzi.com/comentario/575301/) 
 Buenas Tardes a todos, ¿Esta sección del curso que inicia con ReactJS es básico? ¿Puede tomarse sin tener conocimientos al respecto? Salu...
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [58301] (1)
 
-		
 		Hola Luis!  
 		Es muy básico lo que enseña Leonidas Esteban de **React.js** en esta sección, así que no necesitas conocimientos previos, de igual manera si quieres profundizar en **React.js** puedes ir al nuevo curso entrando a <https://platzi.com/clases/react/>
 
-* **steveng** (0)
+* **steveng** (0) [312616](https://platzi.com/comentario/312616/) 
 
-	
 	¿Hay easter egg de Reyes?  
 	/navidad redirige a este.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [312616] (2)
 
-		
 		No, en reyes no hay easter egg 😃
 
-* **Agustín Emanuel Soria** (0)
+* **Agustín Emanuel Soria** (0) [167799](https://platzi.com/comentario/167799/) 
 
-	
 	Espectacular eso no lo sabía! existen otros easter eggs en la página?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [167799] (4)
 
-		
 		Salen por temporada dependiendo de que tan desocupados estemos. #okno por lo general la tradición va con todas nuestras navidades.
 
-## 0300. Configurando una aplicación en React JS
+## 0300. Configurando una aplicación en React JS [6848](https://platzi.com/clases/1103-animaciones-web/6848-configurando-una-aplicacion-en-react-js/)
 
 ### Descripción:
 
@@ -26772,14 +24001,12 @@ Buenas Tardes a todos, ¿Esta sección del curso que inicia con ReactJS es bási
 
 ### Comentarios:
 
-* **Iair Poloniecki** (27)
+* **Iair Poloniecki** (27) [561353](https://platzi.com/comentario/561353/) 
 
-	
 	Actualmente (abril 2019) no es necesario instalar el paquete global como hace Leonidas. De hecho, si lo instalaron, los de React recomiendan desinstalarlo haciendo `npm uninstall -g create-react-app`.  
 	Ahora directamente (luego de haber instalado Node.js) vamos a la carpeta donde queremos armar el proyecto (como la de animaciones-web).  
 	Y ahí hacemos:
-	``` 
-	    npx create-react-app hello-world
+	```     npx create-react-app hello-world
 	    cd hello-world
 	    npm start
 	    
@@ -26787,67 +24014,55 @@ Buenas Tardes a todos, ¿Esta sección del curso que inicia con ReactJS es bási
 	
 	`hello-world` es lo nombre opcional del proyecto que queramos, puede ser cualquiera.
 
-	* **Casitron12** (5)
+	* **Casitron12** [561353] (5)
 
-		
 		Gracias, muy bien explicado.
 
-	* **Wuilfredo Azócar** (2)
+	* **Wuilfredo Azócar** [561353] (2)
 
-		
 		Después de tanto intentar, me sirvió tu solución. Gracias por compartir!
 
-* **juand_silva** (12)
+* **juand_silva** (12) [386434](https://platzi.com/comentario/386434/) 
 
-	
 	Para los que llegamos tarde pero aún así quieren seguir podemos utilizar:  
 	`npx create-react-app my-app`
 	
 	Para utilizar `create-react-app` de manera local y no se instale global.
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [386434] (1)
 
-		
 		Gracias, buen dato.
 
-	* **Hdas** (1)
+	* **Hdas** [386434] (1)
 
-		
 		Gracias por la información
 
-* **Hebert  lughi villafuerte ccacala** (6)
+* **Hebert  lughi villafuerte ccacala** (6) [208290](https://platzi.com/comentario/208290/) 
 
-	
 	cuanto es la velocidad de internet de platzi??
 
-	* **sergio andres navarro melendez** (1)
+	* **sergio andres navarro melendez** [208290] (1)
 
-		
 		seguro mas alta que la tuya y la mia jajajja
 
-	* **Henry Alejandro  Palacios Lemus** (1)
+	* **Henry Alejandro  Palacios Lemus** [208290] (1)
 
-		
 		algunos 100mb
 
-* **asanchez2091** (5)
+* **asanchez2091** (5) [641263](https://platzi.com/comentario/641263/) 
 
-	
 	Les recomiendo que instalen la versión que les indica Leonidas ya que la actual cambia y se van a sentir perdidos. Para **Borrar create-react-app** debemos utilizar **npm uninstall -g create-react-app**
 
-* **AUGUSTO CACERES SUAREZ** (5)
+* **AUGUSTO CACERES SUAREZ** (5) [623237](https://platzi.com/comentario/623237/) 
 
-	
 	Waooo Este curso supero mis expectativas
 
-	* **asanchez2091** (2)
+	* **asanchez2091** [623237] (2)
 
-		
 		Ciertamente…
 
-* **lmoran** (4)
+* **lmoran** (4) [818439](https://platzi.com/comentario/818439/) 
 
-	
 	Actualmente (Noviembre 2019) version @3.2.0.  
 	ya tenia instalado node.js, instale directamente:  
 	**npx create-react-app hello-world** pero me salia error tenia que aplicar el comando:  
@@ -26858,12 +24073,11 @@ Buenas Tardes a todos, ¿Esta sección del curso que inicia con ReactJS es bási
 	**cd hello-world**  
 	**npm start**
 
-* **Jaime Hernández  Hernandez** (4)
+* **Jaime Hernández  Hernandez** (4) [385146](https://platzi.com/comentario/385146/) 
 Muchachos buenos días, tengo una duda de principiante y de concepto que no me ha dejado avanzar, me va a estallar la cabeza con esto, ¿cual es el objetivo de usar react.js, si ya teníamos nuestra pagina animada porque usar esto? Alguien que me de una luz para avanzar, gracias
 
-	* **juand_silva** (14)
+	* **juand_silva** [385146] (14)
 
-		
 		El objetivo de utilizar la librería Reactjs es crear una interfaz basada en componentes, es decir, que cada elemento de tu pagina se comporte como un componente independiente (por ejemplo un botón sea un componente independiente, un cuadro de texto, un modal, el botón del modal…) y esto para qué?. Porque esto ayuda a la experiencia del desarrollador para cuando se quiera cambiar un componente solo se cambie ese componente y no se rompan los demás componentes, como a veces, suele suceder.
 		
 		Por último es una manera muy profesional de hacer interfaz para la web.
@@ -26871,47 +24085,38 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 		Te recomiendo este artículo donde se explica como el desarrollo Frontend a evolucionado y por qué deberíamos usar frameworks reactivos para realizar nuestras apps:  
 		<https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1>
 
-	* **Hdas** (2)
+	* **Hdas** [385146] (2)
 
-		
 		Gracias por la información
 
-* **Alejandro Bracho** (4)
+* **Alejandro Bracho** (4) [279880](https://platzi.com/comentario/279880/) 
 
-	
 	wow, el internet en Venezuela es la muerte, llevo 3hrs esperando a que se cree la app hello-world, estoy usando cmder en windows 8.1, que desgracia y yo tan emocionado que estoy con mi curso de animacion 😦
 
-	* **Leonidas Esteban Gonzalez** (7)
+	* **Leonidas Esteban Gonzalez** [279880] (7)
 
-		
 		Toma un abrazo grandote 🤗
 
-	* **Alejandro Bracho** (0)
+	* **Alejandro Bracho** [279880] (0)
 
-		
 		Agradezco mucho su abrazo Master tuve que cerrar forzado el cmder porque se quedo guindado con el internet 😦 que tristeza espero no quedarme atascado en esta clase si no como voy a ahcer para continuar y aprobar mi curso 😦
 
-	* **Alejandro Bracho** (1)
+	* **Alejandro Bracho** [279880] (1)
 
-		
 		Buenas despues de un cierre forzado antes de que se terminara de crear al app de hello-world me sale esto que debo hacer?![](![error react.jpg](https://static.platzi.com/media/user_upload/error%20react-891cf174-c05a-4ace-b61a-16ead28738c9.jpg)
 
-	* **Luis Angel José Portillo Arévalo** (1)
+	* **Luis Angel José Portillo Arévalo** [279880] (1)
 
-		
 		xD yo tambien estoy a merced de cantv, en 20 minutos que han pasado la barra va aprox por un 16%
 
-* **Nicolas Esteban Prieto Sarmiento** (3)
+* **Nicolas Esteban Prieto Sarmiento** (3) [434873](https://platzi.com/comentario/434873/) 
 
-	
 	Estoy emocionado por empezar, leonidas siempre habla de react, por fin lo voy a entender!
 
-* **Carlos Jesús Fernández Salazar** (3)
+* **Carlos Jesús Fernández Salazar** (3) [425054](https://platzi.com/comentario/425054/) 
 
-	
 	Para esta fecha:
-	``` 
-	    npx create-react-app my-app
+	```     npx create-react-app my-app
 	    cd my-app
 	    npm start
 	    
@@ -26919,24 +24124,20 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 	
 	npx viene con npm 5.2+. Si tienes versiones anteriores puedes ejecutar como hace Leo en la clase.
 
-	* **Hdas** (2)
+	* **Hdas** [425054] (2)
 
-		
 		Gracias por la información
 
-* **CodingLeonardo** (2)
+* **CodingLeonardo** (2) [562597](https://platzi.com/comentario/562597/) 
 
-	
 	Si les da un error al ejecutar el comando npx create-react-app my-app instalen yarn ,reinicien la computadora y prueben de nuevo😁😎
 
-	* **Karla Calderón** (1)
+	* **Karla Calderón** [562597] (1)
 
-		
 		Me funcionó con Yarn. ¡Muchas gracias!
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [503016](https://platzi.com/comentario/503016/) 
 
-	
 	## [Configurando una aplicación en React JS](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#configurando-una-aplicaci%C3%B3n-en-react-js-1)
 	
 	ReactJS es una librería de JavaScript desarrollada por facebook basada en componentes.  
@@ -26950,49 +24151,41 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 	[Aquí](https://facebook.github.io/create-react-app/) la documentación.
 	
 	_Comandos al 06/02/2019_
-	``` 
-	      npx create-react-app my-app
+	```       npx create-react-app my-app
 	      
 	    
 	```
-	``` 
-	    cd my-app
+	```     cd my-app
 	    
 	    
 	```
-	``` 
-	    npm start 
+	```     npm start 
 	    
 	    
 	```
 	
 	React activa (crea/genera) un servidor local para nuestra aplicación y nos abre una ventana de bienvenida.
 
-	* **Hdas** (2)
+	* **Hdas** [503016] (2)
 
-		
 		Muchas gracias buen resumen
 
-* **Josue David Pablo Ixbalan** (2)
+* **Josue David Pablo Ixbalan** (2) [386171](https://platzi.com/comentario/386171/) 
 
-	
 	Tardo como 4 minutos en 🇬🇹 para descargar todos los archivos y echar a andar el servidor local, emocionado por aprender React JS 😃
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1050969](https://platzi.com/comentario/1050969/) 
 
-	
 	`If you've previously installed create-react-app globally via npm install -g create-react-app, we recommend you uninstall the package using npm uninstall -g create-react-app to ensure that npx always uses the latest version.`
 	
 	npx create-react-app my-app  
 	cd my-app  
 	npm start
 
-* **Wuilfredo Azócar** (1)
+* **Wuilfredo Azócar** (1) [970321](https://platzi.com/comentario/970321/) 
 
-	
 	Intenté instalar React como lo indica el profesor, (la version 1.0.4) y a la hora de hacer el `npm start` me sale el siguiente error:
-	``` 
-	    $ npm start
+	```     $ npm start
 	    npm ERR! missing script: start
 	    
 	    npm ERR! A complete log of this run can be found in:
@@ -27001,9 +24194,8 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 	    
 	```
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [950541](https://platzi.com/comentario/950541/) 
 
-	
 	para Mac luego de varios intentos (2020- software Catalina)…
 	
 	  * instala Node.js el de la izquierda…(en la pag oficial)
@@ -27016,17 +24208,13 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 	-Depende de los errores que salgan tienes que solucionarlos, en mi caso habia desinstalado Xcode y me toco instalarlo y aceptar terminos y condiciones con  
 	`sudo xcodebuild -license`  
 	o si no algún update de algo… pero con esto al dia de hoy podrás seguir adelante el curso!
-	
-	
 
-* **Kingsman7** (1)
+* **Kingsman7** (1) [608631](https://platzi.com/comentario/608631/) 
 
-	
 	esto aplica también para react-native ?
 
-* **Uralberto** (1)
+* **Uralberto** (1) [543416](https://platzi.com/comentario/543416/) 
 
-	
 	 **Mi hello-world arranca pero con estas advertencias:**
 	
 	_Uriel@DELL2015 MINGW64 /c/Users/uriel/documents/platzi/Curso-animaciones-web/hello-world (master)  
@@ -27051,39 +24239,33 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 	Used by 1 module(s), i. e.  
 	C:\Users\Uriel\Documents\Platzi\Curso-animaciones-web\hello-world\node_modules\babel-loader\lib\index.js??ref–6-oneOf-2!C:\Users\uriel\documents\platzi\Curso-animaciones-web\hello-world\node_modules\scheduler\cjs\scheduler.development.js
 	
-	
-	
 	Search for the keywords to learn more about each warning.  
 	To ignore, add // eslint-disable-next-line to the line before.  
 	_
 	
 	Alguien me puede explicar que significan tales advertencias?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [543416] (1)
 
-		
 		Basicamente dice que existen varios modulos que tienen los mismos nombre, pero que se diferencian en que estan escritos unos con mayuscular y otros en minusculas. Por ejemplo:
 		
 		hello-world vs Hello-World
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [521579](https://platzi.com/comentario/521579/) 
 
-	
 	En 2019 febrero.  
 	.  
 	Atentos a la documentación.  
 	“If you’ve previously installed create-react-app globally via npm install -g create-react-app, we recommend you uninstall the package using npm uninstall -g create-react-app to ensure that npx always uses the latest version.”
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [503221](https://platzi.com/comentario/503221/) 
 
-	
 	Hasta ahora viendo la misma ventana…
 	
 	Este es el segundo intento desde hace unos 40 minutos. El [speedTest](https://www.speedtest.net/result/8019663230) me tira: 15ms de ping | 55Mb bajada | 6.4MB subida… 😩
 	
 	Me pregunto porqué tardará tanto…
-	``` 
-	    	Creating a new React app in/Volumes/Store/Files/WebMust/11-AnimacionesWeb/15-ReactProject1/react-1.
+	```     	Creating a new React app in/Volumes/Store/Files/WebMust/11-AnimacionesWeb/15-ReactProject1/react-1.
 	    
 	    	Installing packages. This might take a couple of minutes.
 	    	Installing react, react-dom, and react-scripts...
@@ -27093,131 +24275,108 @@ Muchachos buenos días, tengo una duda de principiante y de concepto que no me h
 	    
 	```
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [503221] (1)
 
-		
 		Finalmente!
-		``` 
-		    	Compiled successfully!
+		```     	Compiled successfully!
 		    
 		    
 		```
 		
 		Creo que tomó poco más de hora y media.
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353991](https://platzi.com/comentario/353991/) 
 
-	
 	La version actual de **create-react-app** es la **1.5.2**
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [353987](https://platzi.com/comentario/353987/) 
 
-	
 	Esta podria ser una abreviacion:
-	``` 
-	    npm i -g create-react-app
+	```     npm i -g create-react-app
 	    
 	```
 
-* **Ernesto Cruz Bravo** (1)
+* **Ernesto Cruz Bravo** (1) [299369](https://platzi.com/comentario/299369/) 
 
-	
 	<https://platzi.com/cursos/react/>  
 	Un curso igual de bueno que este!!!
 
-* **Denis Huamán** (1)
+* **Denis Huamán** (1) [166562](https://platzi.com/comentario/166562/) 
 
-	
 	Hola, si utilzo React en local, como hago para que luego funcione en mi hosting, tengo que instalar React en el Servidor y simplemente pasar los archivos que se generaron localmente?.. o cuales son los pormenores? Saludos.
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [166562] (4)
 
-		
 		No, react es solo frontend, no necesita ser instalado en el server a menos que compiles en esa parte. te recomiendo ver el curso de react y en espacial este video donde se trata lo que preguntas <https://platzi.com/clases/react/concepto/creacion-del-proyecto/deploy-a-produccion/material/>
 
-	* **Denis Huamán** (0)
+	* **Denis Huamán** [166562] (0)
 
-		
 		Gracias 😄
 
-	* **Hdas** (1)
+	* **Hdas** [166562] (1)
 
-		
 		Gracias por la información
 
-* **Juan Luis Rojas León** (1)
+* **Juan Luis Rojas León** (1) [164685](https://platzi.com/comentario/164685/) 
 
-	
 	¿Porqué decidiste inicializar el proyecto con create-react-app y no… por ejemplo con Next js?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [164685] (4)
 
-		
 		Ah, Next es muy fancy/sofisticado para lo que necesitamos hacer. Puede ser un tema muuucho más profundo y de hecho en <https://platzi.com/diplomado/react/> si enseñamos a usarlo en totalidad, pero para esta parte del curso solo quiero evitar la extrema configuración de webpack e iniciar con React sin tanto dolor. Si tu ya sabes de que va next solo usalo que del resto todo te va a servir de la misma forma 😃
 
-	* **Hdas** (1)
+	* **Hdas** [164685] (1)
 
-		
 		Gracias por la información
 
-* **amir-schneider** (1)
+* **amir-schneider** (1) [73838](https://platzi.com/comentario/842234/) 
 Disculpe profesor, Tengo una pregunta en mi trabajo cotidiano surge la neceseidad de unas gafas con lector de codigo de barras. y que lo...
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [62620](https://platzi.com/comentario/643257/) 
 Instale la versión que usa Leonidas pero cuando creo la app los archivos App.js e incluso otros no son los mismos. Alguien sabe como reso...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [62620] (1)
 
-		
 		Puede que haya una version mas actualizada en la ultima clase. En caso de que no, tendrias que terminarlo a mano.
 
-* **Uralberto** (1)
+* **Uralberto** (1) [55633](https://platzi.com/comentario/543416/) 
 Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/Users/uriel/documents/platzi/Curso-animac...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [55633] (1)
 
-		
 		Basicamente dice que existen varios modulos que tienen los mismos nombre, pero que se diferencian en que estan escritos unos con mayuscular y otros en minusculas. Por ejemplo:
 		
 		hello-world vs Hello-World
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [281624](https://platzi.com/comentario/281624/) 
 
-	
 	tarde 20 min 4g bitel peru pero sin incidentes
 
-* **sergio andres navarro melendez** (0)
+* **sergio andres navarro melendez** (0) [267507](https://platzi.com/comentario/267507/) 
 
-	
 	se puede usar la caja de comandos de git??? es que en cmd no se como moverme por las carpetas
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [267507] (0)
 
-		
 		Claro que puedes
 
-	* **sergio andres navarro melendez** (0)
+	* **sergio andres navarro melendez** [267507] (0)
 
-		
 		si? ok ma*ana continuare con el curso! thanks!
 
-* **Anthony Gonzalez** (0)
+* **Anthony Gonzalez** (0) [188043](https://platzi.com/comentario/188043/) 
 
-	
 	hola, necesito ayudo no logro instalar ejecucar el create-react-app en mi terminal 😕
-	``` 
-	    npm ERR! code EINTEGRITY
+	```     npm ERR! code EINTEGRITY
 	    npm ERR! sha1-IVgPWgjNBlxxFEz29hw0W8pZqLg= integrity checksumfailedwhenusingsha1: wanted sha1-IVgPWgjNBlxxFEz29hw0W8pZqLg= but got sha1-roZhN1Y1Aq+YbLyM0n+/4ishrB8=. (32243bytes)
 	    
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [188043] (3)
 
-		
 		Acabo de probar el comando
-		``` 
-		    sudo npm i -g create-react-app
+		```     sudo npm i -g create-react-app
 		    
 		```
 		
@@ -27225,17 +24384,15 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 		
 		Intenta nuevamente probablemente en el momento que intentaste la instalación estaban actualizando el paquete en el repositorio de npm.
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [188043] (1)
 
-		
 		Creo que es un problema con git, prueba reinstalarlo
 
-	* **Anthony Gonzalez** (1)
+	* **Anthony Gonzalez** [188043] (1)
 
-		
 		ok, mucha gracias, desinstale todo e hice una instalacion en limpio y funciono, gracias por responder
 
-## 0310. Estructura de proyectos con React
+## 0310. Estructura de proyectos con React [6849](https://platzi.com/clases/1103-animaciones-web/6849-creando-animaciones-en-react/)
 
 ### Descripción:
 
@@ -27246,39 +24403,32 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 
 ### Comentarios:
 
-* **sergio andres navarro melendez** (11)
+* **sergio andres navarro melendez** (11) [267822](https://platzi.com/comentario/267822/) 
 
-	
 	es la primera vez que veo algo de react.js y quede tipo “fuck!” pero poco a poco ire aprendiendo!! pregunta @leonidas da el curso de react??
 
-	* **Leonidas Esteban Gonzalez** (12)
+	* **Leonidas Esteban Gonzalez** [267822] (12)
 
-		
 		Doy el curso de React 😎
 
-	* **sergio andres navarro melendez** (3)
+	* **sergio andres navarro melendez** [267822] (3)
 
-		
 		pero primero tengo que saber js cierto?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (8)
+	* **Diego Alexander Forero Higuera (Platzi)** [267822] (8)
 
-		
 		Es bueno tener unas bases solidas de JavaScript para tomar el curso de React.
 
-	* **sergio andres navarro melendez** (2)
+	* **sergio andres navarro melendez** [267822] (2)
 
-		
 		ok entonces comienzo el de fundamentos de js!?
 
-	* **Hdas** (1)
+	* **Hdas** [267822] (1)
 
-		
 		tremenda herramienta
 
-* **pablojorgeandres** (7)
+* **pablojorgeandres** (7) [503631](https://platzi.com/comentario/503631/) 
 
-	
 	## [Estructura de proyectos con React](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase31)
 	
 	Después de la instalación local y de iniciar `npm` revisando los archivos del nuevo proyecto creado, podemos ver que entre otros archivos ha creado una carpeta `public` y otra `src`.
@@ -27289,11 +24439,8 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	
 	  * index.js - será el enlace con nuestra aplicación. Aquí se encuentra el componente _**App**_ y el import del archivo css, a demás del `getElementById()` que lo enlaza con el elemento **root** en `index.html`.
 	
-	
-	
 	index.js:
-	``` 
-	      import React from'react';
+	```       import React from'react';
 	      import ReactDOM from'react-dom';
 	      import'./index.css';
 	      import App from'./App';
@@ -27318,8 +24465,7 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	Una particularidad a notar en este archivo CSS es que los nombres de las clases comienzan con mayúsculas (.App), esto obedece una convención para escribir _componentes_ de JS, ya que al fin y al cabo los _componentes_ son clases (`class`) de JavaScript y estas deberían comenzar con mayúsculas.
 	
 	Otra convención es el hecho de nombrar las clases CSS como subclases del elemento padre anteponiendo el nombre de la clase más un guión medio antes del estilo del nuevo objeto html.
-	``` 
-	          <divclassName="App">
+	```           <divclassName="App">
 	            <headerclassName="App-header">
 	              <imgsrc={logo}className="App-logo"alt="logo" />
 	              <pclassName="App-paragraph1">
@@ -27334,8 +24480,7 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	```
 	
 	Archivo `App.js`:
-	``` 
-	      import React, { Component } from'react';
+	```       import React, { Component } from'react';
 	      import logo from'./logo.svg';
 	      import'./App.css';
 	    
@@ -27355,8 +24500,7 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	Los elementos tienen un método principal que es _**render()**_.  
 	_**render()**_ va a renderizar la UI de nuestro componente, o lo que podríamos llamar el código HTML de nuestro mismo componente pero que en ReactJS se llama propiamente [_**JSX**_](https://reactjs.org/docs/introducing-jsx.html).  
 	Este _**JSX**_ nos permite escribir código HTML y a demás introducir variables, objetos, mátodos y/o código JavaScript siempre que lo hagamos entre llaves.
-	``` 
-	        <img    src={logo}    className="App-logo" alt="logo" />
+	```         <img    src={logo}    className="App-logo" alt="logo" />
 	    
 	```
 	
@@ -27364,44 +24508,36 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	
 	Otro data particular es que el compilador de `npm` refresca automáticamente el browser cada vez que salvamos cambios en nuestro proyecto.
 
-	* **Hdas** (2)
+	* **Hdas** [503631] (2)
 
-		
 		Muchas gracias que buen resumen hermano
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [503631] (1)
 
-		
 		Me alegra que te sirvan estas notas! 😊  
 		Si lo necesitas, [aquí](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md) está el resumen completo.  
 		Saludos.
 
-	* **EdwFabMar** (1)
+	* **EdwFabMar** [503631] (1)
 
-		
 		Muy buen aporte
 
-* **Marco Aurelio Elizalde Torres** (7)
+* **Marco Aurelio Elizalde Torres** (7) [219521](https://platzi.com/comentario/219521/) 
 
-	
 	Hola compañeros le dejo un link donde dan un pequeña [introducción a JSX](https://reactjs.org/docs/introducing-jsx.html)
 
-	* **REINVENT** (1)
+	* **REINVENT** [219521] (1)
 
-		
 		sdgsfsfsfsdfsdffsdfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 
-	* **Hdas** (1)
+	* **Hdas** [219521] (1)
 
-		
 		Gracias
 
-* **luis-carlos-zabala** (5)
+* **luis-carlos-zabala** (5) [578023](https://platzi.com/comentario/578023/) 
 
-	
 	Al 03/05/19, el código que se Leonidas explica es diferente. Ejemplo App.js
-	``` 
-	    import React from'react';
+	```     import React from'react';
 	    import logo from'./logo.svg';
 	    import'./App.css';
 	    
@@ -27433,27 +24569,22 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	
 	Saludos
 
-* **asanchez2091** (3)
+* **asanchez2091** (3) [641200](https://platzi.com/comentario/641200/) 
 
-	
 	Brutal esta explicacion con seguridad pasare por aquí varias veces xD.
 
-* **Camilo Andrés Santana Lizcano** (3)
+* **Camilo Andrés Santana Lizcano** (3) [638186](https://platzi.com/comentario/638186/) 
 
-	
 	Clase para tomarla con detenimiendo, es muy importante entender estos conceptos si eres nuevo en React Js
 
-* **Cristian Orozco Benjumea** (3)
+* **Cristian Orozco Benjumea** (3) [485867](https://platzi.com/comentario/485867/) 
 
-	
 	Gracias por las recomendaciones @GOLLUM23, entonces mejor tener unas buenas bases en JS para avanzar a React. Deseo ser un pro en ésto
 
-* **Luis Angel Vásquez Nepomuceno** (3)
+* **Luis Angel Vásquez Nepomuceno** (3) [265723](https://platzi.com/comentario/265723/) 
 
-	
 	Si alguien usa VS Code y llegará a tener problema con Emmet, les comparto que lo solucione cambiando en la configuración lo siguiente:
-	``` 
-	    emmet.triggerExpansionOnTab:true
+	```     emmet.triggerExpansionOnTab:true
 	    
 	```
 	
@@ -27461,109 +24592,89 @@ Mi hello-world arranca pero con estas advertencias: _Uriel@DELL2015 MINGW64 /c/U
 	
 	Saludos
 
-	* **Maria Paola Mejia Gomez** (1)
+	* **Maria Paola Mejia Gomez** [265723] (1)
 
-		
 		Muy buen dato. Gracias
 
-	* **Carmen Sánchez Salgado** (2)
+	* **Carmen Sánchez Salgado** [265723] (2)
 
-		
 		En **Settings > Extensions > Emmet** puede modificarse
 
-	* **Hdas** (1)
+	* **Hdas** [265723] (1)
 
-		
 		Muchas gracias por la información
 
-	* **CarlosSanguino** (1)
+	* **CarlosSanguino** [265723] (1)
 
-		
 		Gracias
 
-* **Luis  Aldair Quispe Rios** (2)
+* **Luis  Aldair Quispe Rios** (2) [838535](https://platzi.com/comentario/838535/) 
 
-	
 	Elegante !
 
-* **lmoran** (2)
+* **lmoran** (2) [818504](https://platzi.com/comentario/818504/) 
 
-	
 	Brutal!
 
-* **jorgejeal** (2)
+* **jorgejeal** (2) [533027](https://platzi.com/comentario/533027/) 
 
-	
 	Hola! ¿Qué es eso de render y renderizado que habla Leonidas?, me pierdo un poco cuando nombra conceptos así… agradecería mucho su ayuda.
 
-	* **davidtoca (Platzi)** (3)
+	* **davidtoca (Platzi)** [533027] (3)
 
-		
 		renderizar significa dibujar la interfaz
 
-	* **jorgejeal** (1)
+	* **jorgejeal** [533027] (1)
 
-		
 		Muchas gracias estimado!
 
-* **Angela  Cordova** (2)
+* **Angela  Cordova** (2) [171985](https://platzi.com/comentario/171985/) 
 
-	
 	hola, como puedo hacer para que en el sublime se pueda visualizar con colores la parte de html en javascript?, en mi sublime solo aparece los codigos reconocidos por javascript
 
-	* **davidtoca (Platzi)** (6)
+	* **davidtoca (Platzi)** [171985] (6)
 
-		
 		Debes instalar un plugin para que sublime reconozca esa sintaxis, yo te recomiendo usar este:
 		
 		<https://github.com/babel/babel-sublime>
 
-	* **Pablo Durán Torres** (0)
+	* **Pablo Durán Torres** [171985] (0)
 
-		
 		Hola ,para Brackets que extension me serviria??
 
-	* **Isar Ramses Cadena Gaona** (0)
+	* **Isar Ramses Cadena Gaona** [171985] (0)
 
-		
 		pablo, en el gestor de exenciones escribe react y descarga la primera que salga, es la que uso yo, desde ahorita jaja
 
-* **jorgejeal** (2)
+* **jorgejeal** (2) [54699](https://platzi.com/comentario/533027/) 
 Hola! ¿Qué es eso de render y renderizado que habla Leonidas?, me pierdo un poco cuando nombra conceptos así… agradecería mucho su ayuda.
 
-	* **davidtoca (Platzi)** (3)
+	* **davidtoca (Platzi)** [54699] (3)
 
-		
 		renderizar significa dibujar la interfaz
 
-* **Karla Calderón** (1)
+* **Karla Calderón** (1) [637760](https://platzi.com/comentario/637760/) 
 
-	
 	Que emoción me da ver estos tutoriales. React también es una forma de hacer animaciones en la web si estamos usando google AMP en nuestros proyectos. Aquí dejo unos [ejemplos de animaciones con React y AMP](https://amp-article.herokuapp.com/)
 
-* **Isaias Chávez** (1)
+* **Isaias Chávez** (1) [574865](https://platzi.com/comentario/574865/) 
 
-	
 	Ma**** sea ya me dió miedo jajajaja
 
-* **Vittorio Carlos Toledo Huarez** (1)
+* **Vittorio Carlos Toledo Huarez** (1) [546124](https://platzi.com/comentario/546124/) 
 
-	
 	extends es “heredar”?
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [546124] (1)
 
-		
 		Correcto.
 
-	* **Xavier Alexandro Basir Jeffrey** (1)
+	* **Xavier Alexandro Basir Jeffrey** [546124] (1)
 
-		
 		Exactamente
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [537498](https://platzi.com/comentario/537498/) 
 
-	
 	my-app  
 	├── [README.md](http://README.md)  
 	├── node_modules  
@@ -27582,9 +24693,8 @@ Hola! ¿Qué es eso de render y renderizado que habla Leonidas?, me pierdo un po
 	├── logo.svg  
 	└── serviceWorker.js
 
-* **Aufsten** (1)
+* **Aufsten** (1) [404215](https://platzi.com/comentario/404215/) 
 
-	
 	Para poder visualizar los componentes de react con los colores en sublime(como profe Leonidas):  
 	Instalamos el pakcage babel  
 	en sublime, tecleamos ctrl+shift+p  
@@ -27599,27 +24709,23 @@ Hola! ¿Qué es eso de render y renderizado que habla Leonidas?, me pierdo un po
 	Repita esto para cada extensión (por ejemplo: .js y .jsx).  
 	Reiniciamos y listo!
 
-* **Alejandro Bracho** (1)
+* **Alejandro Bracho** (1) [279916](https://platzi.com/comentario/279916/) 
 
-	
 	A mi me sale una carpeta mas que dice node_modules, esa carpeta para que es?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [279916] (4)
 
-		
 		Es la carpeta de los módulos instalados por node cuando haces npm install.
 
-	* **Alejandro Bracho** (0)
+	* **Alejandro Bracho** [279916] (0)
 
-		
 		Muchas gracias por la información GOLLUM23, se aprecia mucho 😃
 
-* **Manuel Antonio Reyes** (1)
+* **Manuel Antonio Reyes** (1) [66071](https://platzi.com/comentario/702633/) 
 Hola a todos, en serio me gustaría su apoyo. Ya son varias veces que instalo y creo el proyecto de React JS y me sale un error y no puedo...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [66071] (1)
 
-		
 		Hola Manuel,  
 		inicialmente lo que podemos hacer de primero es instalar la dependencia que te hace falta:  
 		`Cannot find module ’ @babel/plugin-proposal-async-generator-functions’`
@@ -27629,17 +24735,15 @@ Hola a todos, en serio me gustaría su apoyo. Ya son varias veces que instalo y 
 		
 		Prueba con esto y si aún te siguen saliento errores te invito a dejar un screenshot del error. Siempre hay información muy importante en los errores.
 
-* **Vittorio Carlos Toledo Huarez** (1)
+* **Vittorio Carlos Toledo Huarez** (1) [55869](https://platzi.com/comentario/546124/) 
 extends es “heredar”?
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [55869] (1)
 
-		
 		Correcto.
 
-* **Alexander Ramirez Tobon** (0)
+* **Alexander Ramirez Tobon** (0) [909689](https://platzi.com/comentario/909689/) 
 
-	
 	Mi logo en “logo.svg” es diferente
 	
 	<svg xmlns=“<http://www.w3.org/2000/svg>” viewBox=“0 0 841.9 595.3”>  
@@ -27650,22 +24754,19 @@ extends es “heredar”?
 	</g>  
 	</svg>
 
-* **Henry Alejandro  Palacios Lemus** (0)
+* **Henry Alejandro  Palacios Lemus** (0) [279785](https://platzi.com/comentario/279785/) 
 
-	
 	¿como hago para que me salgan iconos en los archivos que salen en la parte izquierda de sublime?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [279785] (2)
 
-		
 		Es un plugin para sublime text <https://packagecontrol.io/packages/Seti_UI>
 
-	* **Henry Alejandro  Palacios Lemus** (0)
+	* **Henry Alejandro  Palacios Lemus** [279785] (0)
 
-		
 		Muchas gracias.
 
-## 0320. Animaciones con React Transicion Group
+## 0320. Animaciones con React Transicion Group [6850](https://platzi.com/clases/1103-animaciones-web/6850-entendiendo-la-estructura-de-react-js/)
 
 ### Descripción:
 
@@ -27681,34 +24782,24 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 
 ### Comentarios:
 
-* **hnavarrete** (19)
+* **hnavarrete** (19) [536913](https://platzi.com/comentario/536913/) 
 
-	
 	Fecha: marzo 2019
 	
 	Si quieren utilizar la ultima versión de los componentes de **React Transition Group** :
 	
-	  1. Instalación:
-	
-	
-	``` 
-	    npm install react-transition-group--save
+	    1. Instalación:
+	```     npm install react-transition-group--save
 	    
 	```
 	
-	  1. Importar los componentes **CSSTransition** y **TransitionGroup** de la siguiente forma:
-	
-	
-	``` 
-	    import {CSSTransition,TransitionGroup} from 'react-transition-group';
+	    1. Importar los componentes **CSSTransition** y **TransitionGroup** de la siguiente forma:
+	```     import {CSSTransition,TransitionGroup} from 'react-transition-group';
 	    
 	```
 	
-	  1. La sintaxis de la transición queda de la siguiente forma:
-	
-	
-	``` 
-	    <TransitionGroup>
+	    1. La sintaxis de la transición queda de la siguiente forma:
+	```     <TransitionGroup>
 	     	<CSSTransition 
 	      	key={this.state.logo}
 	        timeout={1000} 
@@ -27727,11 +24818,8 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	
 	**Nota:** El atributo **key** que teniamos en el elemento **< img>** para que detecte cuando se cambia el logo, lo pasamos como atributo de **CSSTransition**.
 	
-	  1. Una vez hecho esto ya pueden dentro de **App.css** cambiar las animaciones:
-	
-	
-	``` 
-	    .fade-enter {}
+	    1. Una vez hecho esto ya pueden dentro de **App.css** cambiar las animaciones:
+	```     .fade-enter {}
 	    .fade-enter-active{}
 	    .fade-exit{}
 	    .fade-exit-active{}
@@ -27740,19 +24828,16 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	
 	**Nota:** En los estados ahora en lugar de usar **leave** se debe poner **exit** (Ejemplo: fade-exit{} fade-exit-active{}).
 
-* **inquiridor** (19)
+* **inquiridor** (19) [254451](https://platzi.com/comentario/254451/) 
 
-	
 	 **Fecha: febrero 2018**  
 	Implementar este cambio para que no nos de error:
-	``` 
-	    import { CSSTransitionGroup } from 'react-transition-group'
+	```     import { CSSTransitionGroup } from 'react-transition-group'
 	    
 	```
 	
 	en reemplazo de:
-	``` 
-	    import CSSTransitionGroup from 'react-addons-transition-group'
+	```     import CSSTransitionGroup from 'react-addons-transition-group'
 	    
 	```
 	
@@ -27760,43 +24845,36 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	
 	<https://github.com/reactjs/react-transition-group/tree/v1-stable>
 
-* **Alan Santiago** (14)
+* **Alan Santiago** (14) [354106](https://platzi.com/comentario/354106/) 
 
-	
 	**Agosto 2018**
 	
 	El paquete a instalar es **react-transition-group** :
-	``` 
-	    npm i -S react-transition-group
+	```     npm i -S react-transition-group
 	    
 	```
 	
 	Para importar:
-	``` 
-	    import {CSSTransition} from 'react-transition-group';
+	```     import {CSSTransition} from 'react-transition-group';
 	    
 	```
 	
 	El bloque de **jsx** :
-	``` 
-	    <CSSTransition></CSSTransition>
+	```     <CSSTransition></CSSTransition>
 	    
 	```
 
-* **Ismael Teixeira** (7)
+* **Ismael Teixeira** (7) [267534](https://platzi.com/comentario/267534/) 
 
-	
 	El paquete de react-addons-transition-group ha cambiado para esta fecha (3 de Marzo del 2018). Les recomiendo que revisen la documentacion de NPM al momento de instalar pues pueden haber warnings en el momento de la instalacion. Les dejo el enlace que utilice para solucionar mi problema:  
 	<https://www.npmjs.com/package/react-addons-css-transition-group>
 
-	* **José Miguel Paredes Chanquin** (1)
+	* **José Miguel Paredes Chanquin** [267534] (1)
 
-		
 		Muy buen aporte gracias.
 
-* **pablojorgeandres** (6)
+* **pablojorgeandres** (6) [504094](https://platzi.com/comentario/504094/) 
 
-	
 	## [Animaciones con React Transicion Group](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase32)
 	
 	Para manipular animaciones con CSS, React tiene una dependencia (add-on) llamado [ReactCSSTransitionGroup](https://reactjs.org/docs/animation.html).
@@ -27806,16 +24884,14 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	_Instalación del pack febrero 2019 con npm. Documentación[aquí](https://www.npmjs.com/package/react-addons-css-transition-group)_
 	
 	Instalación:
-	``` 
-	          npm install --save react-transition-group@1.x
+	```           npm install --save react-transition-group@1.x
 	      
 	    
 	    
 	```
 	
 	Importar:
-	``` 
-	          import CSSTransitionGroup from'react-transition-group/CSSTransitionGroup';
+	```           import CSSTransitionGroup from'react-transition-group/CSSTransitionGroup';
 	    
 	          <CSSTransitionGroup>
 	        	</CSSTransitionGroup>
@@ -27829,8 +24905,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	Este componente tiene sus propiedades que nos permiten configurar las animaciones.
 	
 	Algunas:
-	``` 
-	      
+	```       
 	            <ReactCSSTransitionGroup
 	              transitionName="animation"
 	              transitionEnterTimeout={300}
@@ -27844,8 +24919,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	Puedo importar nuevas imágenes o elementos importándolos en archivo App.js.
 	
 	Ej:
-	``` 
-	      
+	```       
 	      import logo from'./logo.png'
 	      
 	    
@@ -27853,8 +24927,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	Y después incorporarlos al código JSX con llaves:
-	``` 
-	      <imgsrc={logo}className="App-logo"alt="logo" />
+	```       <imgsrc={logo}className="App-logo"alt="logo" />
 	    
 	    
 	    
@@ -27863,8 +24936,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	En App.css puedo invocar el nombre asignado al componente con la propiedad `transitionName` y generar el `@keyframes` para animar el componente.
 	
 	App.js:
-	``` 
-	            <ReactCSSTransitionGroup
+	```             <ReactCSSTransitionGroup
 	              transitionName="myanimation"
 	              transitionEnterTimeout={300}
 	              transitionLeaveTimeout={300}
@@ -27878,8 +24950,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	App.css:
-	``` 
-	            @keyframes myanimation {
+	```             @keyframes myanimation {
 	              0%{
 	              }
 	              100%{
@@ -27895,8 +24966,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	El elemento ‘A’ tomará el `transitionLeaveTimeout` y el ‘B’ `transitionEnterTimeout`.
 	
 	Al declarar y darle estilo a las animaciones debo usar los _class names_ de convención que responderán a los momentos de la animación y al `transitionName` dado:
-	``` 
-	      
+	```       
 	      .myanimation {}
 	      .myanimation-enter{ /* estado inicial de entrada */ }
 	      .myanimation-enter-active{ /* estado inicial de entrada */ }
@@ -27910,8 +24980,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	Para que suceda efectivamente la animación y el elemento cambie puedo ahora, agregando un detector de eventos, un botón en este caso.  
 	Para escuchar eventos dentro de ReactJS puedo utilizar cualquier [_SyntheticEvent_](https://reactjs.org/docs/events.html) de React. En este caso utilizamos el evento `onClick`.  
 	A la vez tengo que ‘atar’ el evento al listener con un `bind()`.
-	``` 
-	            <ReactCSSTransitionGroup
+	```             <ReactCSSTransitionGroup
 	              transitionName="myanimation"
 	              transitionEnterTimeout={1000}
 	              transitionLeaveTimeout={1000}
@@ -27925,8 +24994,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	Por fuera de `render()` pero dentro de la instancia de la clase llamo al listener:
-	``` 
-	      classAppextendsComponent{
+	```       classAppextendsComponent{
 	        onClick() {
 	          ...
 	        }
@@ -27937,8 +25005,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	
 	Lo que puedo animar es un valor dinámico dentro del componente. Para esto tengo que declarar cuál va a ser ese valor dinámico. Y a la vez, este valor dinámico puede ser un estado del componente.  
 	Esta declaración la hago (inicializo) `state` (como un objeto de js) antes del listener.
-	``` 
-	      
+	```       
 	      classAppextendsComponent{
 	        state = {
 	          logo: logo,
@@ -27953,8 +25020,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	Cambio el nombre de _{logo}_ en el tag img por el del **estado** de ese _{logo}_ :
-	``` 
-	            <ReactCSSTransitionGroup
+	```             <ReactCSSTransitionGroup
 	              transitionName="myanimation"
 	              transitionEnterTimeout={1000}
 	              transitionLeaveTimeout={1000}
@@ -27972,8 +25038,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	Entonces ahora puedo cambiar ese {this.state.logo} por cualquier otro objeto, previamente importado en App.js en el evento con `this.setState({})`.
-	``` 
-	      
+	```       
 	      import logoPlatzi from import logoPlatzi from './platzi.png';
 	    
 	      classAppextendsComponent{
@@ -27992,8 +25057,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	
 	A la vez, para que la animación funcione tengo que declarar mi animación como animable. Esto lo hago usando el keyword `key` declarando que este mismo es dinámico tal como el estado **dentro del tag img**.  
 	Por convención, dentro de ReactJS las animaciones serán detectadas por este `key`.
-	``` 
-	     
+	```      
 	            <ReactCSSTransitionGroup
 	              transitionName="myanimation"
 	              transitionEnterTimeout={1000}
@@ -28015,68 +25079,57 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [504094] (1)
 
-		
 		Tremendo aporte muchas gracias
 
-	* **Roger Ortiz** (1)
+	* **Roger Ortiz** [504094] (1)
 
-		
 		Un aporte muy bueno 😉
 
-* **pablojorgeandres** (4)
+* **pablojorgeandres** (4) [503958](https://platzi.com/comentario/503958/) 
 
-	
 	## Instalación del pack febrero 2019 con npm
 	
 	**Documentación[aquí](https://www.npmjs.com/package/react-addons-css-transition-group)**
 	
 	Instalación:
-	``` 
-	    	npm install --save react-transition-group@1.x
+	```     	npm install --save react-transition-group@1.x
 	    
 	    
 	```
 	
 	Para importarlo:
-	``` 
-	    	import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
+	```     	import CSSTransitionGroup from 'react-transition-group/CSSTransitionGroup';
 	    
 	    
 	```
 	
 	El tag:
-	``` 
-	    	<CSSTransitionGroup>
+	```     	<CSSTransitionGroup>
 	    	</CSSTransitionGroup>
 	    
 	    
 	```
 
-	* **Hdas** (1)
+	* **Hdas** [503958] (1)
 
-		
 		Gracias
 
-* **Jonatan Ruben Sosa Caycay** (3)
+* **Jonatan Ruben Sosa Caycay** (3) [285496](https://platzi.com/comentario/285496/) 
 
-	
 	Pensaba iniciar luego de la carrera Front-end con Vue JS, pero lo visto ahora me anima mucho a iniciar con React.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [285496] (0)
 
-		
 		React por mucho 🤘
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [285496] (1)
 
-		
 		JAJAJJA Yo tambien 😄
 
-* **Chatamilero** (2)
+* **Chatamilero** (2) [1026530](https://platzi.com/comentario/1026530/) 
 
-	
 	Para los que actualmente vean el curso : se importa asi  
 	import {CSSTransitionGroup} from ‘react-transition-group’;  
 	ya que react-addns la re-ubicaron en react-transition-group.  
@@ -28087,15 +25140,13 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	Espero que me de a entender  
 	saludos.
 
-* **Wuilfredo Azócar** (2)
+* **Wuilfredo Azócar** (2) [972054](https://platzi.com/comentario/972054/) 
 
-	
 	Esta siendo muy difícil continuar debido a las diferencias de versiones 😕.  
 	Pero para el que tenga errores debe prestar atención a lo siguiente:
 	
 	el contenido en React ahora (7/FEB/2020) debería ser más o menos el siguiente:
-	``` 
-	    import React from'react';
+	```     import React from'react';
 	    import logo from'./logo.svg';
 	    import'./App.css';
 	    import CSSTransitionGroup from"react-addons-css-transition-group";
@@ -28135,8 +25186,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	PERO debería de estar así
-	``` 
-	    import React from'react';
+	```     import React from'react';
 	    import logo from'./logo.svg';
 	    import'./App.css';
 	    import CSSTransitionGroup from"react-addons-css-transition-group";
@@ -28191,8 +25241,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	```
 	
 	Notese los siguientes cambios:
-	``` 
-	    //Empezar la App (Version actualizada)
+	```     //Empezar la App (Version actualizada)
 	    functionApp(){
 	    	return(
 	    		//todo el JSX
@@ -28211,14 +25260,12 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (2)
+* **Camilo Alexander Velandia Velandia** (2) [846589](https://platzi.com/comentario/846589/) 
 
-	
 	esta parte esta un poco desactualizada y con las nuevas versiones se hace confunso entender
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [642274](https://platzi.com/comentario/642274/) 
 
-	
 	Ahí va mi resumen de Key porque no lo entendí bien jaja:  
 	En las animaciones, el atributo key nos proporciona una identificación en el evento de cambio de la etiqueta.  
 	Si damos a Key el mismo valor que SRC o sea el valor que estamos cambiando en la animación este podrá identificar cuando:
@@ -28228,16 +25275,12 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	  * Cuando comienza a entrar la otra animacion (.fade-leave)
 	  * Cuando termina de entrar y se establece la nueva animacion (.fade-leave-active)
 	
-	
-	
 	mediante react y css reemplazariamos el eventListener(‘animationend’, fade), y todos sus copypaste que tendriamos que hacer para tener el control de la animacion
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [641412](https://platzi.com/comentario/641412/) 
 
-	
 	Instale la versión de react-create-app que usa Leonidas pero no luce igual a la que el tiene tengo esto: en App.js
-	``` 
-	    import React from'react';
+	```     import React from'react';
 	    import logo from'./logo.svg';
 	    import'./App.css';
 	    
@@ -28266,19 +25309,15 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	    
 	```
 
-	* **Adrian Garcia Saaib** (6)
+	* **Adrian Garcia Saaib** [641412] (6)
 
-		
 		Lo que haras es pasar de un function component a un component normal  
 		en si es agregar tres lineas
 		
-		  1. La declaracion de la class react.Component
-		  2. El render
-		  3. El } que cierra el render
-		
-		
-		``` 
-		    /* function App(){ */
+		    1. La declaracion de la class react.Component
+		    2. El render
+		    3. El } que cierra el render
+		```     /* function App(){ */
 		    classAppextendsReact.Component{ /*1*/
 		      
 		      render(){ /*2*/
@@ -28292,14 +25331,12 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 		    
 		```
 
-* **Pablo Domínguez Durán** (2)
+* **Pablo Domínguez Durán** (2) [634155](https://platzi.com/comentario/634155/) 
 
-	
 	A la fecha _(1 de julio 2019_ ), el código de Leonidas no funciona tal y como está:
 	
 	## **Código**
-	``` 
-	    classAppextendsComponent{
+	```     classAppextendsComponent{
 	       render(){
 	           return()
 	      }
@@ -28311,8 +25348,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	## **Resultado**
 	
 	<h3>Failed to Compile</h3>
-	``` 
-	    ./src/App.js
+	```     ./src/App.js
 	    Line 7:  'Component' is not defined  no-undef
 	    
 	    Searchfor the keywords to learn moreabout each error.
@@ -28325,10 +25361,7 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	Hay que específicar a dónde pertenece **`Component`**.
 	
 	  * Cambien **`extends Component`** a **`extends React.Component`** , e.g.:
-	
-	
-	``` 
-	    classAppextendsReact.Component{
+	```     classAppextendsReact.Component{
 	       render(){
 	           return()
 	      }
@@ -28342,110 +25375,92 @@ Vamos a hacer nuestra primera animación sencilla con React.js y aprender lo ele
 	**Más info:[Intro to React  
 	](https://reactjs.org/tutorial/tutorial.html)**
 
-* **rusbel bermúdez rivera** (2)
+* **rusbel bermúdez rivera** (2) [537635](https://platzi.com/comentario/537635/) 
 
-	
 	Se ve muy interesante react, pero creo Leonidas va en modo superfastforward
 
-	* **Thony07** (1)
+	* **Thony07** [537635] (1)
 
-		
 		Puedes reducir la velocidad del vídeo en el icono al lado derecho del parlante 😄  
 		Éxitos bro
 
-* **ramrikrdo** (2)
+* **ramrikrdo** (2) [430489](https://platzi.com/comentario/430489/) 
 
-	
 	No entendi Key =(
 
-	* **Adrian Garcia Saaib** (1)
+	* **Adrian Garcia Saaib** [430489] (1)
 
-		
 		Puede que la respuesta sea que key es el reemplazo de $element.addEventListener(animationend, function()=>{})  
 		ya que en caso de que quisieramos tener ese control de en cada evento de la animacion tendriamos que escribir mas event listeners D:
 
-* **diegoaguilera08** (2)
+* **diegoaguilera08** (2) [398764](https://platzi.com/comentario/398764/) 
 
-	
 	Para la instalacion  
 	npm install react-transition-group@1.x --save  
 	Importar
-	``` 
-	    import { CSSTransitionGroup } from 'react-transition-group'
+	```     import { CSSTransitionGroup } from 'react-transition-group'
 	    
 	```
 	
 	La etiqueta a usar
-	``` 
-	    <CSSTransitionGroup></CSSTransitionGroup>
+	```     <CSSTransitionGroup></CSSTransitionGroup>
 	    
 	```
 
-	* **Fco Castro** (1)
+	* **Fco Castro** [398764] (1)
 
-		
 		Exacto a fecha 20190228.  
 		.  
 		Todo explicado aquì:  
 		.  
 		[<https://github.com/reactjs/react-transition-group/tree/v1-stable>](aquí en GitHub)
 
-	* **Hdas** (1)
+	* **Hdas** [398764] (1)
 
-		
 		Muchas gracias
 
-* **dizmauri** (2)
+* **dizmauri** (2) [362997](https://platzi.com/comentario/362997/) 
 
-	
 	Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por defecto, como puedo hacer para que me tome bien los colores y no se me explote la cabeza?  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-12a52440-6282-4737-9e7d-349ff1b14d62.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [362997] (3)
 
-		
 		Eso depende de la configuración del editor, puedes buscar un tema que sea similar al que usa el profesor pero es más fácil que te acostumbres a tus colores, ten en cuenta que los colores no dice si esta bien o mal, solo ayuda para la lectura y ver más rápido que es una palabra reservada, que es un número que es un string, etc.
 
-	* **dizmauri** (2)
+	* **dizmauri** [362997] (2)
 
-		
 		Gracias Gollum23  
 		Ya lo solucione instalando el packete ‘TypeScript’ dentro de sublime text
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [354176](https://platzi.com/comentario/354176/) 
 
-	
 	No entendi el **key** 😦
 
-* **odpinerosh** (2)
+* **odpinerosh** (2) [213700](https://platzi.com/comentario/213700/) 
 
-	
 	Muy confuso…
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [213700] (1)
 
-		
 		Lo interesante de las animaciones de este tipo es como las puedes programar luego. No te rindas y verás que le sacarás mucho provecho
 
-* **Ivan Sevilla** (2)
+* **Ivan Sevilla** (2) [47907](https://platzi.com/comentario/448574/) 
 No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de por que puede ser? class App extends Component { ...
 
-	* **Fernando Alejandro Yerena Ramos** (1)
+	* **Fernando Alejandro Yerena Ramos** [47907] (1)
 
-		
 		¿Podrías mostrar como importaste _react-transition-group_?
 		
 		Es probable que ahí este el problema. Yo lo intenté hacer con la etiqueta _< CSSTransition>_ tal cual lo tienes, pero no me lo permite.
 		
 		Ademas en la [documentación](https://github.com/reactjs/react-transition-group/tree/v1-stable) pide hacerlo de esta forma
-		``` 
-		    	import { CSSTransitionGroup } from 'react-transition-group';
+		```     	import { CSSTransitionGroup } from 'react-transition-group';
 		    
 		```
 		
 		Y en el código uso _< CSSTransitionGroup>_ como lo importe arriba.
-		``` 
-		    return (
+		```     return (
 		          <divclassName="App">
 		            <headerclassName="App-header">
 		              <CSSTransitionGroup
@@ -28464,17 +25479,14 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		    
 		```
 
-* **Angélica María Rocha García** (1)
+* **Angélica María Rocha García** (1) [994839](https://platzi.com/comentario/994839/) 
 
-	
 	esta clase se me complico mucho no entendí varias cosas de react
 
-* **Luis  Aldair Quispe Rios** (1)
+* **Luis  Aldair Quispe Rios** (1) [838572](https://platzi.com/comentario/838572/) 
 
-	
 	ESTO ES App.js Salu2
-	``` 
-	    import React from'react';
+	```     import React from'react';
 	    import logo from'./logo.svg';
 	    import logoPlatzi from'./platzi.png';
 	    import'./App.css';
@@ -28520,14 +25532,12 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	    
 	```
 
-	* **Jonathan Uriel Jiménez Soveranes** (1)
+	* **Jonathan Uriel Jiménez Soveranes** [838572] (1)
 
-		
 		Gracias,!
 
-* **lmoran** (1)
+* **lmoran** (1) [820720](https://platzi.com/comentario/820720/) 
 
-	
 	En Visual studio code tengo éste problema:  
 	**Antes de darle guardar : Ctrl + S**
 	
@@ -28536,44 +25546,37 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	**Después de dar guardar: Ctrl + S**  
 	![ddddd.JPG](https://static.platzi.com/media/user_upload/ddddd-e93c9e76-3037-4afc-81d4-8891ee9f99ee.jpg)
 
-	* **David Alejandro Mosquera Moreno** (2)
+	* **David Alejandro Mosquera Moreno** [820720] (2)
 
-		
 		Prueba instalando ESLint y Prettier sino lo has hecho.  
 		**[ESLint](https://elint.org)** te ayuda a revisar y analizar el código en busca de errores para solucionarlos si están a su alcance.  
 		**[Prettier](https//prettier.io)** organiza de una mejor manera el código para que sea entendible y no se arrojen esos errores que te salieron.  
 		.  
 		Aquí te dejo un tutorial para entender mejor como instalarlos: **[Cómo usar ESLint y Prettier para mejorar tu código JavaScrip](https://platzi.com/tutoriales/1339-fundamentos-javascript/2181-como-usar-eslint-y-prettier-para-mejorar-tu-codigo-javascript/)**t
 
-	* **David Alejandro Mosquera Moreno** (2)
+	* **David Alejandro Mosquera Moreno** [820720] (2)
 
-		
 		también me pasó y era porque tenía habilitada una extensión llamada **Beautify**. En mi caso la desactivé y el código se organizó normal.
 
-	* **lmoran** (1)
+	* **lmoran** [820720] (1)
 
-		
 		@mosqueradvd Gracias había conflicto con una de las extensiones, tuve que resetearlas y al fin funcionó.
 
-* **Gregoris** (1)
+* **Gregoris** (1) [713513](https://platzi.com/comentario/713513/) 
 
-	
 	Tengo el mismo error que todos :c
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [643371](https://platzi.com/comentario/643371/) 
 
-	
 	¿cómo hago para que mi app en react pueda ser vista en un repositorio como una pagina ya con servidor y todo, como se hace con las paginas sin react en github?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [643371] (1)
 
-		
 		Tu puedes transpilar tu código para que este listo y subirlo al repositorio, esto va a permitir que react se reproduzca sin problema. Recuerda que al transpilar el jsx lo que hace es convertirlo a JavaScript que entiende el navegador, no necesitas un servidor adicional ni nada por el estilo al menos que hagas server side render.
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [623313](https://platzi.com/comentario/623313/) 
 
-	```
-	    import React from'react';
+	```    import React from'react';
 	    import logo from'./logo.svg';
 	    import logoplatzi from'./logop.png'
 	    import'./App.css';
@@ -28637,12 +25640,10 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	
 	gracias
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [623313] (1)
 
-		
 		Cambia **`extends Component`** a **`extends React.Component`** , e.g.:
-		``` 
-		    classAppextendsReact.Component{
+		```     classAppextendsReact.Component{
 		       render(){
 		           return()
 		      }
@@ -28656,10 +25657,9 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		**Más info:[Intro to React  
 		](https://reactjs.org/tutorial/tutorial.html)**
 
-* **jakson-duvan-zambrano** (1)
+* **jakson-duvan-zambrano** (1) [601418](https://platzi.com/comentario/601418/) 
 
-	```
-	    ./src/App.js
+	```    ./src/App.js
 	      Line 12:  Parsing error: Unexpected token, expected ";"
 	    
 	      10|     logo: logo,
@@ -28674,17 +25674,14 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	
 	Tengo ese problema y no se como solucionarlo
 
-	* **Norma Constanza Giraldo Reyes** (3)
+	* **Norma Constanza Giraldo Reyes** [601418] (3)
 
-		
 		Hola, tengo el mismo problema. ¿Pudiste solucionarlo?
 
-	* **jakson-duvan-zambrano** (2)
+	* **jakson-duvan-zambrano** [601418] (2)
 
-		
 		Si lo que pasa es que tenia creado el componente de esta forma
-		``` 
-		    functionApp(){
+		```     functionApp(){
 		        return()
 		    }
 		    exportdefault App
@@ -28692,8 +25689,7 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		```
 		
 		Y lo pase a esta, como esta en el curso
-		``` 
-		    classAppextendsComponent{
+		```     classAppextendsComponent{
 		       render(){
 		           return()
 		      }
@@ -28702,12 +25698,10 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		    
 		```
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [601418] (1)
 
-		
 		Cambia **`extends Component`** a **`extends React.Component`** , e.g.:
-		``` 
-		    classAppextendsReact.Component{
+		```     classAppextendsReact.Component{
 		       render(){
 		           return()
 		      }
@@ -28721,12 +25715,10 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		**Más info:[Intro to React  
 		](https://reactjs.org/tutorial/tutorial.html)**
 
-	* **Adrian Garcia Saaib** (1)
+	* **Adrian Garcia Saaib** [601418] (1)
 
-		
 		cambia el metodo por arrow function
-		``` 
-		    handleClick = () => {
+		```     handleClick = () => {
 		        this.setState({
 		          logo: hoja
 		        });
@@ -28736,37 +25728,31 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		
 		(esto no se como se llama si me puede corregir alguien)  
 		cuando llames al metodo llamalo como una variable
-		``` 
-		    <buttonclassName="btn"onClick={this.handleClick}>
+		```     <buttonclassName="btn"onClick={this.handleClick}>
 		                Click me!
 		              </button>
 		    
 		```
 
-	* **Manuel Antonio Reyes** (1)
+	* **Manuel Antonio Reyes** [601418] (1)
 
-		
 		Hola chicos, tuve el mismo problema y lo solucione de la siguiente manera:
 		
 		1.- Cuando de bajas el proyecto mediante create-app-react, la clase “App” te la crea como “función” y no como “clase”.  
 		2.- Lo que se tiene que hacer es lo que dice el amigo “jakson-duvan-zambrano” lineas mas abajo de esa página.
 
-* **EdwFabMar** (1)
+* **EdwFabMar** (1) [593547](https://platzi.com/comentario/593547/) 
 
-	
 	Hola a todos estoy intentando guardar el archivo app.js en visual studio code pero siempre que lo hago me daña el formato alguien sabe como arreglar esto?
 
-	* **Thony07** (1)
+	* **Thony07** [593547] (1)
 
-		
 		Hola, pon tu código para verlo y poder ayudar
 
-	* **Adrian Garcia Saaib** (1)
+	* **Adrian Garcia Saaib** [593547] (1)
 
-		
 		intenta hacer el metodo de arriba una arrow function o funcion anonima y lo llamas con el onclick como una variable:
-		``` 
-		    /*arrow function*/
+		```     /*arrow function*/
 		     handleClick = () => {
 		        this.setState({
 		          logo: hoja
@@ -28786,9 +25772,8 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		    
 		```
 
-	* **lmoran** (1)
+	* **lmoran** [593547] (1)
 
-		
 		Tengo el mismo problema en Visual studio code :  
 		Antes de darle guardar : Ctrl + S  
 		![hhhhh.JPG](https://static.platzi.com/media/user_upload/hhhhh-85e53c81-dcc7-4479-b527-ae86caeb3845.jpg)
@@ -28796,9 +25781,8 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		Después de dar guardar: Ctrl + S:  
 		![ddddd.JPG](https://static.platzi.com/media/user_upload/ddddd-6c44f11b-431e-4c54-af46-6156775606e6.jpg)
 
-* **vanessahema93** (1)
+* **vanessahema93** (1) [496378](https://platzi.com/comentario/496378/) 
 
-	
 	No lo he logrado instalar, de todas las formas que he visto ninguna me funciona, mi error es el siguiente, por favor ayudenme:
 	
 	Unhandled rejection Error: EACCES: permission denied, mkdir ‘/Users/myUser/.npm/_cacache/index-v5/92/92’
@@ -28811,26 +25795,21 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	npm ERR! A complete log of this run can be found in:  
 	npm ERR! /Users/myUser/.npm/_logs/2019-01-31T14_23_31_338Z-debug.log
 
-	* **hnavarrete** (2)
+	* **hnavarrete** [496378] (2)
 
-		
 		Hola, el error que te da es porque npm es incapaz de escribir en la carpetas debajo de **.npm** , esto debido a un problema de permisos, debes cambiar el ownership de dicha carpeta:
-		``` 
-		    sudo chown -R $(whoami) ~/.npm
+		```     sudo chown -R $(whoami) ~/.npm
 		    
 		```
 
-	* **lmoran** (1)
+	* **lmoran** [496378] (1)
 
-		
 		Si estás en Windows debes ejecutar el CMD como administrador con todos los permisos.
 
-* **Ivan Sevilla** (1)
+* **Ivan Sevilla** (1) [448574](https://platzi.com/comentario/448574/) 
 
-	
 	No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de por que puede ser?
-	``` 
-	    classAppextendsComponent{
+	```     classAppextendsComponent{
 	      state = {
 	        logo: logo,
 	      }
@@ -28858,22 +25837,19 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	    
 	```
 
-	* **Fernando Alejandro Yerena Ramos** (1)
+	* **Fernando Alejandro Yerena Ramos** [448574] (1)
 
-		
 		¿Podrías mostrar como importaste _react-transition-group_?
 		
 		Es probable que ahí este el problema. Yo lo intenté hacer con la etiqueta _< CSSTransition>_ tal cual lo tienes, pero no me lo permite.
 		
 		Ademas en la [documentación](https://github.com/reactjs/react-transition-group/tree/v1-stable) pide hacerlo de esta forma
-		``` 
-		    	import { CSSTransitionGroup } from 'react-transition-group';
+		```     	import { CSSTransitionGroup } from 'react-transition-group';
 		    
 		```
 		
 		Y en el código uso _< CSSTransitionGroup>_ como lo importe arriba.
-		``` 
-		    return (
+		```     return (
 		          <divclassName="App">
 		            <headerclassName="App-header">
 		              <CSSTransitionGroup
@@ -28892,34 +25868,28 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		    
 		```
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [448574] (1)
 
-		
 		Ya lo solucioné, mi problema radicó en la instalacion de css transition group 😦
 
-	* **Martin Emanuel Gonzalez** (1)
+	* **Martin Emanuel Gonzalez** [448574] (1)
 
-		
 		Podrías decirme como lo instalaste?
 
-	* **Ivan Sevilla** (1)
+	* **Ivan Sevilla** [448574] (1)
 
-		
 		Si martin, lo instalas asi:
-		``` 
-		    npm install react-transition-group--save
+		```     npm install react-transition-group--save
 		    
 		```
 		
 		Lo importas asi
-		``` 
-		    import { CSSTransitionGroup } from 'react-transition-group'
+		```     import { CSSTransitionGroup } from 'react-transition-group'
 		    
 		```
 		
 		y despues lo usas asi por ejemplo:
-		``` 
-		    <CSSTransitionGroup
+		```     <CSSTransitionGroup
 		        transitionName="example"
 		        transitionEnterTimeout={500}
 		        transitionLeaveTimeout={300}>
@@ -28927,12 +25897,10 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 		    
 		```
 
-* **crloshro** (1)
+* **crloshro** (1) [404970](https://platzi.com/comentario/404970/) 
 
-	
 	Alguien me podria ayudar tengo problema con el .bind(this) me arroja error
-	``` 
-	    25 |   <imgsrc={this.state.logo}className="App-logo"alt="logo" />
+	```     25 |   <imgsrc={this.state.logo}className="App-logo"alt="logo" />
 	      26 | </CSSTransitionGroup>
 	      27 |   <h2>Hola mundo!</h2>
 	    > 28 |   <buttononClick={this.onClick.bind(this)}>Click me!</button>
@@ -28942,158 +25910,134 @@ No me estas funcionando las clases fade-enter y fade-leave, alguna sugerencia de
 	    
 	```
 
-	* **crloshro** (1)
+	* **crloshro** [404970] (1)
 
-		
 		TypeError: Cannot read property ‘bind’ of undefined
 
-	* **Jose Enrique Marquez** (2)
+	* **Jose Enrique Marquez** [404970] (2)
 
-		
 		lo que tienes como funcion llamado `this.onClick` no lo encuentra definido como funcion seguramente pasa algo en el js, si pegas tu codigo podria ayudarte mejor.
 		
 		Saludos.
 
-	* **crloshro** (1)
+	* **crloshro** [404970] (1)
 
-		
 		Muchas gracias
 
-* **Henry Alejandro  Palacios Lemus** (1)
+* **Henry Alejandro  Palacios Lemus** (1) [279792](https://platzi.com/comentario/279792/) 
 
-	
 	¿Como hago para ejecutar un proyecto de alguien mas?  
 	sigo la ruta donde lo guarde con la consola y luego dentro de la carpeta del proyecto ejecuto npm start y listo?
 	
 	Porque lo hice y me dio error 😕
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [279792] (3)
 
-		
 		Primero tienes que instalar las dependencias usando `npm install`, esto lee el archivo package.json e instala las dependencias necesarias, luego revisa el archivo package.json para verificar que el comando sea npm start.
 
-	* **Hdas** (1)
+	* **Hdas** [279792] (1)
 
-		
 		Muchas gracias buena información
 
-* **sergio andres navarro melendez** (1)
+* **sergio andres navarro melendez** (1) [269754](https://platzi.com/comentario/269754/) 
 
-	
 	la verdad se me hace complicado entender esto!
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [269754] (0)
 
-		
 		poco a poco
 
-* **Angela  Cordova** (1)
+* **Angela  Cordova** (1) [172050](https://platzi.com/comentario/172050/) 
 
-	
 	he revisado los archivos y he notado que hay un error en el app.css en donde indica activo el animation: fade infinite 1s linear , el cual deberia estar inactivo si queremos que la solucion quede igual; en el caso de app.js dice : react-addons-transition-group en vez de react-addons-css-transition-group , seria genial si lo pusieran actualizar.  
 	sldos
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [172050] (2)
 
-		
 		Ya los subí y con el nombre en mayúscula, si quieres el proyecto completo de esta clase y correrlo solo descarga el .zip de hello-world
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [172050] (0)
 
-		
 		Ya los subí y con el nombre en mayúscula, si quieres el proyecto completo de esta clase y correrlo solo descarga el .zip de hello-world
 
-	* **Hdas** (1)
+	* **Hdas** [172050] (1)
 
-		
 		Gracias
 
-* **David** (1)
+* **David** (1) [86053](https://platzi.com/comentario/1087126/) 
 Hola tengo un problema con platzi.png, la aplicación de react me dice que no la encuentra en la ruta ./src/platzi.png Error: ENOENT: no s...
 
-	* **diego rodriguez** (1)
+	* **diego rodriguez** [86053] (1)
 
-		
 		el problema es que platzi.png no esta dentro de la carpeta src, por eso cuando se entra a la carpeta no encuentra ningun platzi.png, el error se arregla moviendo platzi.png dentro de la carpeta src
 
-* **Chatamilero** (1)
+* **Chatamilero** (1) [83578](https://platzi.com/comentario/1030171/) 
 Hola Me podrian ayudar quien haiga podido resolverlo. Ya que tengo entendido se sigue funcionando sin usar hook. Eh usado lo que otros es...
 
-* **DavidArmandoVelazquez** (1)
+* **DavidArmandoVelazquez** (1) [68975](https://platzi.com/comentario/749270/) 
 hay algo que no entendi… Leonidas crea las clases de .fade, .fade-enter, .face-enter-active etc. pero no veo como las re...
 
-* **xteban06** (1)
+* **xteban06** (1) [67346](https://platzi.com/comentario/721622/) 
 Hola buen día tengo el mismo problema de todos. ./src/App.js Syntax error: Unexpected token, expected “;” (11:13) 9 | logo: logo, 10 ...
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [67346] (1)
 
-		
 		¡Hola! Te recomiendo cambiar el nombre de `onClick` a otro, ya que `onClick` es un nombre reservado de React, lo que te recomiendo es nombrar la función como `handleOnClick()` y también quitarle el espacio después de `this.setState`
 
-* **jakson-duvan-zambrano** (1)
+* **jakson-duvan-zambrano** (1) [60153](https://platzi.com/comentario/601418/) 
 ./src/App.js Line 12: Parsing error: Unexpected token, expected ";" 10 | logo: logo, 11 | } > 12 | onClick(){ ...
 
-	* **Norma Constanza Giraldo Reyes** (3)
+	* **Norma Constanza Giraldo Reyes** [60153] (3)
 
-		
 		Hola, tengo el mismo problema. ¿Pudiste solucionarlo?
 
-* **EdwFabMar** (1)
+* **EdwFabMar** (1) [59608](https://platzi.com/comentario/593547/) 
 Hola a todos estoy intentando guardar el archivo app.js en visual studio code pero siempre que lo hago me daña el formato alguien sabe co...
 
-	* **Thony07** (1)
+	* **Thony07** [59608] (1)
 
-		
 		Hola, pon tu código para verlo y poder ayudar
 
-* **vanessahema93** (1)
+* **vanessahema93** (1) [51823](https://platzi.com/comentario/496378/) 
 No lo he logrado instalar, de todas las formas que he visto ninguna me funciona, mi error es el siguiente, por favor ayudenme: Unhandled ...
 
-	* **hnavarrete** (2)
+	* **hnavarrete** [51823] (2)
 
-		
 		Hola, el error que te da es porque npm es incapaz de escribir en la carpetas debajo de **.npm** , esto debido a un problema de permisos, debes cambiar el ownership de dicha carpeta:
-		``` 
-		    sudo chown -R $(whoami) ~/.npm
+		```     sudo chown -R $(whoami) ~/.npm
 		    
 		```
 
-* **crloshro** (1)
+* **crloshro** (1) [44168](https://platzi.com/comentario/404970/) 
 Alguien me podria ayudar tengo problema con el .bind(this) me arroja error 25 | <img src={this.state.logo} className="App-lo...
 
-	* **crloshro** (1)
+	* **crloshro** [44168] (1)
 
-		
 		TypeError: Cannot read property ‘bind’ of undefined
 
-* **dizmauri** (1)
+* **dizmauri** (1) [40189](https://platzi.com/comentario/362997/) 
 Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por defecto, como puedo hacer para que me tome bien los colo...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [40189] (3)
 
-		
 		Eso depende de la configuración del editor, puedes buscar un tema que sea similar al que usa el profesor pero es más fácil que te acostumbres a tus colores, ten en cuenta que los colores no dice si esta bien o mal, solo ayuda para la lectura y ver más rápido que es una palabra reservada, que es un número que es un string, etc.
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [281833](https://platzi.com/comentario/281833/) 
 
-	
 	para que resulte (abril 2018):  
 	![FireShot Capture 7 - react-addons-css-transition-group - np_ - https___www.npmjs.com_package_react.png](https://static.platzi.com/media/user_upload/FireShot%20Capture%207%20-%20react-addons-css-transition-group%20-%20np_%20-%20https___www.npmjs.com_package_react-061db24b-ec9a-47a9-a664-b0a0c9de5080.jpg)  
 	ejecutar:  
 	Run npm install --save react-transition-group@1.x  
 	import CSSTransitionGroup from ‘react-transition-group/CSSTransitionGroup’;
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [281680](https://platzi.com/comentario/281680/) 
 
-	
 	esta parte esta desactualizada <https://platzi.com/clases/animaciones-web/concepto/animaciones-en-reactjs/entendiendo-la-estructura-de-react-js/material/?time=300>
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [281668](https://platzi.com/comentario/281668/) 
 
-	
 	no funciona CSSTransitionGroup
-	``` 
-	    classAppextendsComponent{
+	```     classAppextendsComponent{
 	      render() {
 	        return (
 	          <div className="App">
@@ -29111,42 +26055,35 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	
 	![](![FireShot Capture 4 - React App - http___localhost_3000_.png](https://static.platzi.com/media/user_upload/FireShot%20Capture%204%20-%20React%20App%20-%20http___localhost_3000_-9afa6bc9-a413-41f2-98f9-50be39f4b58e.jpg))
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [281668] (1)
 
-		
 		Estas exportando tu clase App en el archivo App.js? y tienes creado el contenedor con el id root?
 
-* **Luis Fernando Niño Gonzalez** (0)
+* **Luis Fernando Niño Gonzalez** (0) [261953](https://platzi.com/comentario/261953/) 
 
-	
 	Que package usas para las sintaxis en sublime text 3?
 
-* **LeandroVidela** (0)
+* **LeandroVidela** (0) [187947](https://platzi.com/comentario/187947/) 
 
-	
 	Hola Leo! Qué función cumple “bind()”? Muchas gracias y saludos!
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [187947] (2)
 
-		
 		bind sirve para asignarle un contexto a una función en js
 
-	* **Hdas** (1)
+	* **Hdas** [187947] (1)
 
-		
 		Gracias
 
-* **Christian Gonzalez** (0)
+* **Christian Gonzalez** (0) [171564](https://platzi.com/comentario/171564/) 
 
-	
 	donde esta logoPlatzi?
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [171564] (2)
 
-		
 		Todos los archivos están en la pestaña de archivos en un .zip pero tambien te he puesto disponible por fuera el .png del logo 😃
 
-## 0330. Llevando HTML y CSS a React JS
+## 0330. Llevando HTML y CSS a React JS [6851](https://platzi.com/clases/1103-animaciones-web/6851-llevando-html-y-css-a-react-js/)
 
 ### Descripción:
 
@@ -29159,88 +26096,71 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 
 ### Comentarios:
 
-* **Jazcar Josué  Bravo Rivas** (12)
+* **Jazcar Josué  Bravo Rivas** (12) [176308](https://platzi.com/comentario/176308/) 
 
-	
 	Excelente curso Leonidas, me gusto completamente la temática. Esta parte de integrar animaciones con ReactJS es mi favorita.
 	
 	**Tengo 3 dudas o preguntas**
 	
-	  1. ¿ReactJS no permite obtener atributos como los demás elementos HTML?
+	    1. ¿ReactJS no permite obtener atributos como los demás elementos HTML?
 	
-	  2. ¿No se puede usar ReactJS con los subelementos de los web components (Custom Elements, HTML imports, Shadow DOM, Templates)?
+	    2. ¿No se puede usar ReactJS con los subelementos de los web components (Custom Elements, HTML imports, Shadow DOM, Templates)?
 	
-	  3. ¿Es una buena práctica usar CSS de manera general en vez de aplicar estilo a cada Web Components por separado?
-	
-	
-	
+	    3. ¿Es una buena práctica usar CSS de manera general en vez de aplicar estilo a cada Web Components por separado?
 
-	* **Leonidas Esteban Gonzalez** (11)
+	* **Leonidas Esteban Gonzalez** [176308] (11)
 
-		
 		Muchas muchas gracias.
 		
-		  1. Si, usando refs aunque evitado al máximo, revisa el curso de React para ver la implementación.
-		  2. Más bien React reemplaza todo esto, tu puedes crear todos tus componentes tan custom como quieras.
-		  3. Un de las bases de la arquitectura de componentes es que estos deberían poder vivir sin depender de nada, al hacer estilos globales los haces dependientes y también deberías evitar esto al máximo. Esto es bueno porque permite hacer mejor debug, o incorporar o quitar componentes sin riesgo de hacer un efecto en cadena lamentable.
-		
-		
+		    1. Si, usando refs aunque evitado al máximo, revisa el curso de React para ver la implementación.
+		    2. Más bien React reemplaza todo esto, tu puedes crear todos tus componentes tan custom como quieras.
+		    3. Un de las bases de la arquitectura de componentes es que estos deberían poder vivir sin depender de nada, al hacer estilos globales los haces dependientes y también deberías evitar esto al máximo. Esto es bueno porque permite hacer mejor debug, o incorporar o quitar componentes sin riesgo de hacer un efecto en cadena lamentable.
 
-	* **Jordi Santamaría Portolés** (0)
+	* **Jordi Santamaría Portolés** [176308] (0)
 
-		
 		el problema Leonidas, es que si no usas css globales, no puedes hacer uso de las variables en css… asi k al final muchas veces tienes k terminar conectandolo a una hoja css global =mente a mi ver.
 		
 		De cualquier modo, yo esto lo soluciono haciendo uso de atomicss, de modo que si quiero llevar mis componentes a otro proyecto, simplemente se me autogenera las clases que usen todos esos componentes en 1 solo fichero.
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [176308] (1)
 
-		
 		Yo por lo general acostumbro hacerle a cada componente su archivo CSS independiente ya que se hace mas comodo a la hora de modificar algo en el futuro.
 
-* **Beicker** (7)
+* **Beicker** (7) [739727](https://platzi.com/comentario/739727/) 
 
-	
 	Esta clase de verdad que me destrozó en su momento. Les aconsejo a todos los que no sabes absolutamente nada de React que primero vean algunas clases del curso correspondiente y luego vuelvan a esta si están teniendo muchos errores.
 
-* **Esau Rosales** (5)
+* **Esau Rosales** (5) [668755](https://platzi.com/comentario/668755/) 
 
-	
 	Si les da el error:  
 	Module not found: Can’t resolve ‘…/fonts/icomoon.eot?6s6d3k’ in ‘/Users/conywillis/Desktop/curso/animaciones/invie/src/css’
 	
 	Deben detener el servidor copiar la carpeta fonts de los recursos de la clase, y después pegarlos dentro de la carpeta src. 😃
 
-	* **Camilo Alexander Velandia Velandia** (2)
+	* **Camilo Alexander Velandia Velandia** [668755] (2)
 
-		
 		gracias, funciono
 
-	* **DanielVM19** (2)
+	* **DanielVM19** [668755] (2)
 
-		
 		gracias !
 
-* **33andres33** (4)
+* **33andres33** (4) [818300](https://platzi.com/comentario/818300/) 
 
-	
 	yo solo voy a ver los videos esto no esta a mi nivel, volveré cuando tome la carrea de js
 
-	* **Rafael Alvarez Cardona** (1)
+	* **Rafael Alvarez Cardona** [818300] (1)
 
-		
 		total, yo o dejé en 66% y pienso volver en unos meses mas! ya que este curso es para nivel avanzado
 
-* **pablojorgeandres** (3)
+* **pablojorgeandres** (3) [505787](https://platzi.com/comentario/505787/) 
 
-	
 	## [Llevando HTML y CSS a React JS](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase33)
 	
 	Para pasar un proyecto plano HTML, CSS y JavaScript a React repito el siguiente procedimiento.
 	
 	En principio creo un nuevo proyecto React en `terminal`.
-	``` 
-	      npx create-react-app my-App
+	```       npx create-react-app my-App
 	    
 	    
 	    
@@ -29251,8 +26171,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	Luego tengo que incorporar el código HTML. Para esto tengo que generar **componentes** de React según convenga; por ejemplo por secciones.
 	
 	En `index.js` modifico _**App**_ con el nombre de mi nuevo proyecto.
-	``` 
-	    
+	```     
 	          import React from'react';
 	          import ReactDOM from'react-dom';
 	          import'./index.css';
@@ -29267,8 +26186,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	
 	Modifico el nombre del archivo App.js por el de mi nuevo proyecto: `my-App.js`.  
 	Y preparo la clase _**App**_ para importar los nuevos componentes que voy a generar para cada sección de mi archivo HTML.
-	``` 
-	    
+	```     
 	        import React, { Component } from'react';
 	        import logo from'./logo.svg';
 	        import'./App.css';
@@ -29292,8 +26210,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	```
 	
 	Genero ahora un archivo _‘.jsx’_ por cada nuevo componente (sección).
-	``` 
-	      
+	```       
 	      Seccion1.jsx
 	      Seccion2.jsx
 	      Seccion3.jsx
@@ -29303,8 +26220,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	```
 	
 	Los importo en _my-app.js_ y los agrego a la clase `App` dentro de _**‘ <miSección />’**_
-	``` 
-	        import Seccion1 from'./components/Seccion1.jsx'
+	```         import Seccion1 from'./components/Seccion1.jsx'
 	        import Seccion2 from'./components/Seccion2.jsx'
 	        import Seccion3 from'./components/Seccion3.jsx'
 	        
@@ -29330,8 +26246,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	```
 	
 	La estructura básica de cada archivo ‘.jsx’ será:
-	``` 
-	      import React, { Component } from'react'
+	```       import React, { Component } from'react'
 	    
 	      classSeccion1extendsComponent{
 	        render() {
@@ -29352,8 +26267,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	(Cuál es buena práctica al respecto???)
 	
 	Luego importo imágenes y demás recursos y listo.
-	``` 
-	    
+	```     
 	    importReact, { Component } from 'react'
 	      importImage1 from '../images/image1.png'
 	    
@@ -29371,120 +26285,99 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	    
 	```
 
-	* **Fco Castro** (1)
+	* **Fco Castro** [505787] (1)
 
-		
 		Ouh Yea!!!
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [354427](https://platzi.com/comentario/354427/) 
 
-	
 	 **React.js** es lo maximo 😮
 	
 	Lo unico que no me gusta es que no todas los proyectos con React pesan al menos * _200MB_ 😦
 
-	* **Isaias Chávez** (1)
+	* **Isaias Chávez** [354427] (1)
 
-		
 		Eso no se soluciona al transpilarlo?
 
-* **JESUS ALBERTO LOPEZ VILLATORO** (3)
+* **JESUS ALBERTO LOPEZ VILLATORO** (3) [178331](https://platzi.com/comentario/178331/) 
 
-	
 	excelente curso @LeonidasEsteban tiene gran habilidad para transmitir conocimientos
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [178331] (4)
 
-		
 		Me honras con tu confianza y buenos deseos. Ya casi acabas el curso y eso es lo que me pone más feliz.
 
-* **Juan Enrique García Costas** (2)
+* **Juan Enrique García Costas** (2) [606289](https://platzi.com/comentario/606289/) 
 
-	
 	Podéis utilizar la siguiente ** expresión regular** para borrar los comentarios del minuto 11:10. Es poco trabajo esta vez pero podría ser útil en otras tareas.  
 	Tenéis que utilizar la función reemplazar de vuestro IDE.  
 	Buscáis esto:  
 	<!-- .+  
 	Y reemplazáis con un espacio o vacío.
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [606289] (1)
 
-		
 		Genial!
 
-* **Cristian Orozco Benjumea** (2)
+* **Cristian Orozco Benjumea** (2) [486338](https://platzi.com/comentario/486338/) 
 
-	
 	Me aparece éste error:
-	``` 
-	    index.js:1446 ./src/Invie.js
+	```     index.js:1446 ./src/Invie.js
 	    Module not found: Can't resolve './src/css/invie.css' in 'D:\Documents\workflow\desarrolloWeb\Animaciones-web\invie\src'
 	    
 	```
 
-* **Carlos Jesús Fernández Salazar** (2)
+* **Carlos Jesús Fernández Salazar** (2) [425777](https://platzi.com/comentario/425777/) 
 
-	
 	Para esta fecha parece que ya se puede usar **class** en jsx en lugar de **className**. A mi no me ha dado problema alguno 😄
 
-	* **Carlos Jesús Fernández Salazar** (2)
+	* **Carlos Jesús Fernández Salazar** [425777] (2)
 
-		
 		Al igual que con el **for** y con el **checked**.
 
-* **Aufsten** (2)
+* **Aufsten** (2) [404374](https://platzi.com/comentario/404374/) 
 
-	
 	¿Alguien sabe para que sirve el key en el elemento img?
-	``` 
-	    <img
+	```     <img
 	                  key={this.state.logo}
 	    />
 	    
 	```
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [404374] (2)
 
-		
 		Si todavía no lo sabes y/o para quien se haga la misma pregunta.
 		
 		_**key**_ es una propiedad de React que, cual id en CSS, permite a React tener identificado un elemento creado dinámicamente o alterado por el usuario.  
 		_**key**_ debe ser único e irrepetible por cada elemento.
 
-* **Kevin Brayan Luna Figueroa** (2)
+* **Kevin Brayan Luna Figueroa** (2) [180394](https://platzi.com/comentario/180394/) 
 
-	
 	Excelente curso, he aprendido muchísimo!!!  
 	Gracias Leonidas!!
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [180394] (3)
 
-		
 		Con mucho gusto y qué alegría que te este sirviendo, no hay nada mejor que lograr los objetivos del curso.
 
-* **rbenlan** (1)
+* **rbenlan** (1) [1000033](https://platzi.com/comentario/1000033/) 
 
-	
 	me falta profundizar aún en JS, Voy y vuelvo ; )
 
-* **Juan Ventrone** (1)
+* **Juan Ventrone** (1) [966334](https://platzi.com/comentario/966334/) 
 
-	
 	Es como PHP dinamico pero JS
 
-* **lmoran** (1)
+* **lmoran** (1) [828138](https://platzi.com/comentario/828138/) 
 
-	
 	Si quieren versionar el proyecto con GIT tiene que inicializarlo en la raiz del proyecto, en éste caso: invie
 
-* **lmoran** (1)
+* **lmoran** (1) [828133](https://platzi.com/comentario/828133/) 
 
-	
 	Genial me va quedando como en clase, claro con errores que los he ido solucionando.
 
-* **Norma Constanza Giraldo Reyes** (1)
+* **Norma Constanza Giraldo Reyes** (1) [612576](https://platzi.com/comentario/612576/) 
 
-	
 	Hola, alguien me puede ayudar con este error:
 	
 	./src/css/invie.css (./node_modules/css-loader/dist/cjs.js??ref–6-oneOf-3-1!./node_modules/postcss-loader/src??postcss!./src/css/invie.css)  
@@ -29492,29 +26385,24 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	
 	Gracias.
 
-	* **Eduardo Moises Reyes Moreira** (3)
+	* **Eduardo Moises Reyes Moreira** [612576] (3)
 
-		
 		Puede ser porque copiaste el codigo que venia en el zip de responsive que esta recursos. Usa el css y images, que te dicen que debes llevar a la carpeta src, que vienen el zip de animated. Yo tuve el mismo problema.
 
-	* **josedan10** (3)
+	* **josedan10** [612576] (3)
 
-		
 		Hola, tienes que copiar y pegar las 3 carpetas: css, imagenes y fonts, con eso se resuelve. Saludos
 
-	* **geovanygomez** (1)
+	* **geovanygomez** [612576] (1)
 
-		
 		Gracias josedan10 si jutamente era eso
 
-* **Ian Mande** (1)
+* **Ian Mande** (1) [570613](https://platzi.com/comentario/570613/) 
 
-	
 	Wow!! el mejor curso de la historia !!!
 
-* **mburbano81** (1)
+* **mburbano81** (1) [554847](https://platzi.com/comentario/554847/) 
 
-	
 	Tengo este error, alguien sabe a qu se debe??
 	
 	Failed to compile  
@@ -29522,17 +26410,15 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	Module not found: Can’t resolve ‘react-addons-css-transition-group’ in '/Users/juanburbano/Documents/animaciones-web/hello-world/src’  
 	This error occurred during the build time and cannot be dismissed.
 
-	* **platzipcimx** (2)
+	* **platzipcimx** [554847] (2)
 
-		
 		¿Podrías poner tu código?
 		
 		Se me ocurre que talvez le cambiaste el nombre o no tienes el archivo App.js
 		
 		Pero te dejo mi código.  
 		Saludos
-		``` 
-		    import React, { Component } from'react';
+		```     import React, { Component } from'react';
 		    import logo from'./logo.svg';
 		    import logoPlatzi from'./platziLogo.png';
 		    import'./App.css';
@@ -29586,57 +26472,48 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 		    
 		```
 
-	* **Ernesto Vizcaíno Alvarado** (2)
+	* **Ernesto Vizcaíno Alvarado** [554847] (2)
 
-		
 		El problema es que react-addons-css-transition-group no esta instalado mira este enlace [Aqui](https://stackoverflow.com/questions/42574648/cannot-resolve-module-react-dom) ojala y te sirva para resolver tu problema si no dime para seguir apoyandote.
 
-	* **Casitron12** (1)
+	* **Casitron12** [554847] (1)
 
-		
 		No has instalado el Transition-group. Para esto tienes que salirte del servidor local de la app de React y en la carpeta donde tengas los archivos los src y eso. Instalas el Transition-group esto con npm install react-transition-group@1.x --save y listo así lo resolví yo
 
-* **Beicker** (1)
+* **Beicker** (1) [554394](https://platzi.com/comentario/554394/) 
 
-	
 	Me sale el siguiente error:  
 	TypeError: Super expression must either be null or a function
 	
 	¿Alguna solución?
 
-	* **sampol.90 (Platzi)** (1)
+	* **sampol.90 (Platzi)** [554394] (1)
 
-		
 		Podrías compartir tu código para así poder ayudarte por favor ?
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [525812](https://platzi.com/comentario/525812/) 
 
-	
 	En el enlace de esta lección. [Aqui](https://github.com/platzi/invie-responsive).  
 	.  
 	A fecha marzo de 2019. Le pulso al archivo index y no me abre.  
 	.  
 	Es normal?
 
-	* **Julio J Yépez** (1)
+	* **Julio J Yépez** [525812] (1)
 
-		
 		Este es el enlace directo al archivo index.html  
 		<https://github.com/platzi/invie-responsive/blob/master/index.html>
 
-* **elreydavid** (1)
+* **elreydavid** (1) [514519](https://platzi.com/comentario/514519/) 
 
-	
 	gracias por la enseñanza bueno me gusto gracias leonidas
 
-* **elreydavid** (1)
+* **elreydavid** (1) [514443](https://platzi.com/comentario/514443/) 
 
-	
 	gracias excelente curso
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [505765](https://platzi.com/comentario/505765/) 
 
-	
 	Hola, alguien podría guiarme con estas dudas?
 	
 	Que tan importante es dejar los warnings en la consola o tratar de resolverlos?  
@@ -29644,8 +26521,7 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	
 	Por ejemplo, a la fecha de hoy ya no es necesario usar className en los archivos .jsx, ni reemplazar los for u otros elementos que puedan interferir con propiedades de JavaScript, ya son atributos de JSX.  
 	Pero aparecen como warnings en el console del dev tools.
-	``` 
-	    index.js:1446Warning: Invalid DOM property `class`. Did you mean `className`?
+	```     index.js:1446Warning: Invalid DOM property `class`. Did you mean `className`?
 	        in figure (at Portada.jsx:9)
 	        in header (at Portada.jsx:8)
 	        in section (at Portada.jsx:7)
@@ -29656,125 +26532,104 @@ Hola tengo una pregunta pero es sobre el editor, estoy usando Sublime Text 3 por
 	    
 	```
 
-	* **jamarin_** (3)
+	* **jamarin_** [505765] (3)
 
-		
 		Un warning al fin y al cabo solamente es un aviso, algo que podría darte problemas en algún momento, pero que de base no va a hacer que nada deje de funcionar. Es una buena práctica tratar de resolver todos los warnings posibles, porque así tu código funcionará mejor.
 		
 		Ahora, ¿pasa algo si los dejas? Pues dependerá del warning, pero generalmente no debería darte demasiados problemas a corto plazo. Pero como digo, es una buena práctica corregirlos porque a largo plazo pueden generarte problemas.
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [505765] (1)
 
-		
 		Muchas gracias por tu respuesta.  
 		Siempre es bueno saber cómo, una persona que tiene experiencia con el lenguaje, resuelve ciertos problemas.
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [488791](https://platzi.com/comentario/488791/) 
 
-	
 	Excelente, no tenía ni idea del porqué había que usar este tipo de frameworks, pero con esta clase fue como si me quitaran una venda de los ojos. Se abre un mundo de posibilidades y eso que es solo el principio. Gracias @LeonidasEsteban.
 
-* **Aaron Gonzalez (Platzi)** (1)
+* **Aaron Gonzalez (Platzi)** (1) [461916](https://platzi.com/comentario/461916/) 
 
-	
 	Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver a inicializar el localhost de mi proyecto y seguir trabajando?
 
-	* **Sergio Alejandro Niño Monroy** (2)
+	* **Sergio Alejandro Niño Monroy** [461916] (2)
 
-		
 		En una terminal con la ruta de la carpeta donde tienes tu proyecto escribes npm start y así inicias el servidor de React.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [461916] (1)
 
-		
 		Muchas gracias!
 
-* **davidm.lara** (1)
+* **davidm.lara** (1) [363487](https://platzi.com/comentario/363487/) 
 
-	
 	Que bueno que con la ultima version de React.js no hay necesidad de llamar a las clases class a className 😄
 
-	* **WillHoyos** (1)
+	* **WillHoyos** [363487] (1)
 
-		
 		Al parecer dejando class toma los estilos pero al inspeccionar en la consola muestra un warning.
 		
 		![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-5ab50ac2-60c4-4ba4-a100-2d00167d9ba0.jpg)
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354525](https://platzi.com/comentario/354525/) 
 
-	
 	Deberian agregar al curso de **Responsive Design** algo de **Responsive Design para React.js** 😦
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [354525] (2)
 
-		
 		El responsive es igual para html o react, solo tienes que aprender a hacer sitios responsive y luego manejar todo en componentes de react.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [354525] (1)
 
-		
 		@GOLLUM23, no dije lo que queria decir JAJAJ
 		
 		Antes de este, habia hecho el curso de Responsive. Algunas cosas se rompieron, pero ya logre resolverlas JAJAJA 😄
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354507](https://platzi.com/comentario/354507/) 
 
-	
 	Pense que pasar Invie a React.js iba a ser **mucho mas dificil** JAJAJ
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354435](https://platzi.com/comentario/354435/) 
 
-	
 	Y como se puede hacer **deploy** de un sitio web con **React.js**
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [354435] (2)
 
-		
 		Transpilas todos tus archivos y los subes al servidor, al final React es transpilado a código JavaScript que lee el navegador, si no tienes backend para rutas si no solo html y css y javascript solo tienes que hacer esto.
 
-* **Jonatan Ruben Sosa Caycay** (1)
+* **Jonatan Ruben Sosa Caycay** (1) [285517](https://platzi.com/comentario/285517/) 
 
-	
 	Listo, con la clase anterior me gusto mucho React, con esta clase puedo decir que lo usare mucho en el futuro. 😃
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [285517] (0)
 
-		
 		Perfecto ya sabes cuál será tu siguiente carrera entonces 🙌
 
-* **racg21** (1)
+* **racg21** (1) [231027](https://platzi.com/comentario/231027/) 
 
-	
 	Aquí dejos un copilador de HTML a JSX para que no tengan tantos problemas…
 	
 	<https://magic.reactjs.net/htmltojsx.htm>
 
-* **Geraldyn Daniela Chirinos De Sousa** (1)
+* **Geraldyn Daniela Chirinos De Sousa** (1) [183350](https://platzi.com/comentario/183350/) 
 
-	
 	Faltó en que parte se cambian los metadatos de la pagina… viendo y probando asumo que es en el archivo index.html que esta en la carpeta public cierto?  
 	PD: al principio no entendía nada de react pero poco a poco le voy agarrando el ritmo… después que me termine este me paso a hacer el curso de React! 😄… Las animaciones aquí son muy pro!
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [183350] (3)
 
-		
 		Puedes usar esta dependencia para poner cualquier tipo de metadatos title o lo que necesites <https://github.com/nfl/react-helmet>
 
-* **mburbano81** (1)
+* **mburbano81** (1) [56612](https://platzi.com/comentario/554847/) 
 Tengo este error, alguien sabe a qu se debe?? Failed to compile ./src/App.js Module not found: Can’t resolve ‘react-addons-css-transition...
 
-	* **platzipcimx** (2)
+	* **platzipcimx** [56612] (2)
 
-		
 		¿Podrías poner tu código?
 		
 		Se me ocurre que talvez le cambiaste el nombre o no tienes el archivo App.js
 		
 		Pero te dejo mi código.  
 		Saludos
-		``` 
-		    import React, { Component } from'react';
+		```     import React, { Component } from'react';
 		    import logo from'./logo.svg';
 		    import logoPlatzi from'./platziLogo.png';
 		    import'./App.css';
@@ -29828,163 +26683,137 @@ Tengo este error, alguien sabe a qu se debe?? Failed to compile ./src/App.js Mod
 		    
 		```
 
-* **Beicker** (1)
+* **Beicker** (1) [56575](https://platzi.com/comentario/554394/) 
 Me sale el siguiente error: TypeError: Super expression must either be null or a function ¿Alguna solución?
 
-	* **sampol.90 (Platzi)** (1)
+	* **sampol.90 (Platzi)** [56575] (1)
 
-		
 		Podrías compartir tu código para así poder ayudarte por favor ?
 
-* **Fco Castro** (1)
+* **Fco Castro** (1) [54103](https://platzi.com/comentario/525812/) 
 En el enlace de esta lección. Aqui. . A fecha marzo de 2019. Le pulso al archivo...
 
-	* **Julio J Yépez** (1)
+	* **Julio J Yépez** [54103] (1)
 
-		
 		Este es el enlace directo al archivo index.html  
 		<https://github.com/platzi/invie-responsive/blob/master/index.html>
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [52468](https://platzi.com/comentario/505765/) 
 Hola, alguien podría guiarme con estas dudas? Que tan importante es dejar los warnings en la consola o tratar de resolverlos? Cuál sería ...
 
-	* **jamarin_** (3)
+	* **jamarin_** [52468] (3)
 
-		
 		Un warning al fin y al cabo solamente es un aviso, algo que podría darte problemas en algún momento, pero que de base no va a hacer que nada deje de funcionar. Es una buena práctica tratar de resolver todos los warnings posibles, porque así tu código funcionará mejor.
 		
 		Ahora, ¿pasa algo si los dejas? Pues dependerá del warning, pero generalmente no debería darte demasiados problemas a corto plazo. Pero como digo, es una buena práctica corregirlos porque a largo plazo pueden generarte problemas.
 
-* **Aaron Gonzalez (Platzi)** (1)
+* **Aaron Gonzalez (Platzi)** (1) [49035](https://platzi.com/comentario/461916/) 
 Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver a inicializar el localhost de mi proyecto y seguir trabajando?
 
-	* **Sergio Alejandro Niño Monroy** (2)
+	* **Sergio Alejandro Niño Monroy** [49035] (2)
 
-		
 		En una terminal con la ruta de la carpeta donde tienes tu proyecto escribes npm start y así inicias el servidor de React.
 
-* **Aufsten** (1)
+* **Aufsten** (1) [44111](https://platzi.com/comentario/404374/) 
 ¿Alguien sabe para que sirve el key en el elemento img? <img key={this.state.logo} />
 
-	* **pablojorgeandres** (2)
+	* **pablojorgeandres** [44111] (2)
 
-		
 		Si todavía no lo sabes y/o para quien se haga la misma pregunta.
 		
 		_**key**_ es una propiedad de React que, cual id en CSS, permite a React tener identificado un elemento creado dinámicamente o alterado por el usuario.  
 		_**key**_ debe ser único e irrepetible por cada elemento.
 
-* **Rafael Jair Sanchez Alviso** (0)
+* **Rafael Jair Sanchez Alviso** (0) [285940](https://platzi.com/comentario/285940/) 
 
-	
 	@LeonidasEsteban profe me surgieron varias dudas ahorita tengo la version 16.3.1 de React y el atributo de class me funciona sin cambiarlo pro clasName. Me sucede los mismo sin cambiar el for y el checked pero la documentación de Reack aun sigue apareciendo que los cambie. si no se llegaran a cambiar presentaría errores en el futuro?  
 	Una duda mas no sé si esto lo comente directamente en la carrera de React. Como se agrega el srcset para diferentes densidades de pixeles o directamente agregamos una imagen con mayor densidad de pixeles.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [285940] (0)
 
-		
 		Funciona desde la versión 16 pero tendrás warnings, hay detalles de eso en el curso de React, deberías cambiarlos
 
-* **Henry Alejandro  Palacios Lemus** (0)
+* **Henry Alejandro  Palacios Lemus** (0) [279801](https://platzi.com/comentario/279801/) 
 
-	
 	No entiendo por que razon no me esta tomando mi codigo html
 	
 	¿Alguien sabe que puede ser?
 	
 	![Screen Shot 2018-04-01 at 11.04.32 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202018-04-01%20at%2011.04.32%20AM-11616915-2e6e-4675-9be5-92139e315ccd.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [279801] (1)
 
-		
 		Es algo más de la sintaxis que detecta el editor, prueba cambiando a JavaScript Babel en lugar de solo JavaScript.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [279801] (0)
 
-		
 		Instala babel como sintaxis en tu editor y luego eliges babel js para tus archivos y listo
 
-* **Jose Navas** (0)
+* **Jose Navas** (0) [272390](https://platzi.com/comentario/272390/) 
 
-	
 	ver mas de una vez el mensaje “failed to compiled” fue frustrante, pero al final, cuando lo logras, sabes que valio la pena pasar la noche tratando de entender, leonidas, una vez mas, graaciiias!!
 
-* **George_18** (0)
+* **George_18** (0) [233842](https://platzi.com/comentario/233842/) 
 
-	
 	Hola tengo una duda, si estoy trabajando desde mi dominio para que react me funcione. ¿ tengo que hacer algo en especial o solo es subir los archivos para que funcione ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [233842] (1)
 
-		
 		En teoría solo tienes que subir los archivos ya transpilados y tu app debe funcionar, si tienes cosas como Server Side Render ya tienes que hacer despliegue de más cosas, pero si solo es react debe funcionar sin problema.
 
-	* **George_18** (0)
+	* **George_18** [233842] (0)
 
-		
 		Ok muchas gracias lo hare las pruebas 😃
 
-* **Iván Darío Sánchez Jiménez** (0)
+* **Iván Darío Sánchez Jiménez** (0) [233602](https://platzi.com/comentario/233602/) 
 
-	
 	Excelente ReactJS, creo que ha obtenido un nuevo fan
 
-* **odpinerosh** (0)
+* **odpinerosh** (0) [215781](https://platzi.com/comentario/215781/) 
 
-	
 	Hola, Leonidas Esteban.  
 	Para control de versiones con git, imagino que se debe iniciar el repositorio en la carpeta src. ¿Esto es correcto? ¿Alguna recomendación adicional al respecto?
 	
 	Gracias.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [215781] (4)
 
-		
 		No, lo inicias en la raíz y excluyes la carpeta node_modules usando .gitignore
 
-* **Josué David Vitate Rodriguez** (0)
+* **Josué David Vitate Rodriguez** (0) [210903](https://platzi.com/comentario/210903/) 
 
-	
 	En este curso se enseñan animaciones con SVG??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [210903] (1)
 
-		
 		No, pero los conceptos son aplicables a las animaciones svg.
 
-* **Luis Felipe Silgado Cortázar** (0)
+* **Luis Felipe Silgado Cortázar** (0) [202418](https://platzi.com/comentario/202418/) 
 
-	
 	¿ReactJS tiene templates como Foundation o Bootstrap? o ¿toca usar hacer algo como Foundation+ReactJS/Bootstrap+ReactJS? a lo mejor me estoy perdiendo.
 
-	* **Luis Felipe Silgado Cortázar** (0)
+	* **Luis Felipe Silgado Cortázar** [202418] (0)
 
-		
 		Hablando también para facilitar el Responsive Design.
 
-	* **sampol.90 (Platzi)** (1)
+	* **sampol.90 (Platzi)** [202418] (1)
 
-		
 		Si eres fan de Bootstrap puedes usar una libreria que se llama [React Bootstrap](https://react-bootstrap.github.io/)
 		
 		Si prefieres foundation puedes instalar la dependencia e importas la librería 😃
 
-	* **sampol.90 (Platzi)** (1)
+	* **sampol.90 (Platzi)** [202418] (1)
 
-		
 		Tambien puedes usar [React Foundation](https://react.foundation/)
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [202418] (1)
 
-		
 		La comunidad ya se encargó de todo esto <https://react.foundation/><https://react-bootstrap.github.io/>
 
-* **Gregory Lopez** (0)
+* **Gregory Lopez** (0) [188918](https://platzi.com/comentario/188918/) 
 
-	
 	Haciendo el ejercico me salio el siguiente error:
-	``` 
-	    ./src/components/Portada.jsx
+	```     ./src/components/Portada.jsx
 	    Syntax error: C:/Users/Gregor/Desktop/Platzi/ArquitectoFrontEnd/07AnimacionesWeb/27ProyectEnd/invie/src/components/Portada.jsx: Adjacent JSX elements must be wrapped in an enclosing tag (28:4)
 	    
 	      26 |  		 	</div>
@@ -29999,112 +26828,93 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	
 	Lo revise 2 veces y segui bien los pasos, pero si alguien sabe por que sera y me puede ayudar, gracias de antemano n.n
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [188918] (3)
 
-		
 		Debes devolver solo un contenedor en tu caso estas devolviendo dos, encierra todo en un div o section para hacer el return.
 
-	* **Gregory Lopez** (0)
+	* **Gregory Lopez** [188918] (0)
 
-		
 		Gracias, encerre todo en un section y compilo, ahora a seguir 😄
 
-* **Andrés Felipe Eslava Zuluaga** (0)
+* **Andrés Felipe Eslava Zuluaga** (0) [185565](https://platzi.com/comentario/185565/) 
 
-	
 	Me encuentro trabajando con el Responsive de Invie y encontré algo que no he sabido implementar: dentro de `index.html` está lo siguiente:
-	``` 
-	    <img class="izquierda" data-src="images/invie-classic.png|images/invie-classic2x.png" alt="Guitarra Invie Classic"width="350"/>
+	```     <img class="izquierda" data-src="images/invie-classic.png|images/invie-classic2x.png" alt="Guitarra Invie Classic"width="350"/>
 	    
 	```
 	
 	Cómo podemos implementar ese **data-src** con React.js?
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [185565] (0)
 
-		
 		Los data attributes funcionan tal cual como en html normal <https://facebook.github.io/react/docs/dom-elements.html>
 
-	* **Andrés Felipe Eslava Zuluaga** (1)
+	* **Andrés Felipe Eslava Zuluaga** [185565] (1)
 
-		
 		Gracias Profe @LeonidasEsteban. Sin embargo mi pregunta es:  
 		Cómo implementamos el uso de los custom attributes de html en ReactJS. P.e. `_data-src_` en la línea de código
-		``` 
-		    <img class="izquierda" data-src="images/invie-classic.png|images/invie-classic2x.png" alt="Guitarra Invie Classic"width="350"/>
+		```     <img class="izquierda" data-src="images/invie-classic.png|images/invie-classic2x.png" alt="Guitarra Invie Classic"width="350"/>
 		    
 		```
 		
 		cómo le digo a React que, de acuerdo a los custom attr, elija la imagen para mostrar.
 		
 		No he sabido y lo que hice para mostrar la imagen es dejar así dicha línea:
-		``` 
-		    <imgsrc={logoWhite}data-src={logoWhite2}alt="logotipo blanco"/>
+		```     <imgsrc={logoWhite}data-src={logoWhite2}alt="logotipo blanco"/>
 		    
 		```
 		
 		Está bien? Espero que me puedan ayudar. Graciaas! 😃
 
-	* **David Isaac Flores Medrano** (1)
+	* **David Isaac Flores Medrano** [185565] (1)
 
-		
 		Estoy en el mismo dilema, porque no me cargan las imagenes, siguen rotas, ya apague el servidor y lo volvia encender pero nada. Alguien sabe?
 
-* **Geraldyn Daniela Chirinos De Sousa** (0)
+* **Geraldyn Daniela Chirinos De Sousa** (0) [183355](https://platzi.com/comentario/183355/) 
 
-	
 	y otra mega pregunta que me surgió: donde colocaría el javascript que hicimos para los eventos de touch? en mi caso estoy integrando el invie responsivo y al final teníamos una parte de javascript para detectar los eventos de touch usando hammer… pero ni idea donde colocarlos aquí :S he probado en varios sitios y todos me lanza error 😦
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [183355] (0)
 
-		
 		Tal cual como tienes onClick como evento en React vas a tener onPress para eventos touch 😊
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [183355] (1)
 
-		
 		Ah y qué alegría enseñarte React desde este lado aquí hago mi mejor esfuerzo por enseñarles lo necesario para animaciones en especial pero React tiene muchas otrss cosas bastante útiles de aprender
 
-* **andresnakanishi** (0)
+* **andresnakanishi** (0) [174989](https://platzi.com/comentario/174989/) 
 
-	
 	Hola! No sé si es una pregunta que debería hacer aqui, pero ahí va, aún no encontré la documentación exacta, pero cómo y qué me conviene más para usar con Laravel, React o Vue.js?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [174989] (4)
 
-		
 		En realidad “deber” ninguna, es más querer y saber. Yo que trabajo más con React me iría por esa opción pero si a alguien le gusta más Vue o Angular está ok. Pero verás que a lo largo del curso hacemos animaciones que no requieren de ningún framework así que si tu necesidad es algo no tan complejo puedes ir por ese camino.  
 		Disclaimer: La comunidad de Laravel es fan de Vue.  
 		Disclaimer 2: Si vas a agregar un framework de los antes mencionados pos usar animaciones debes reconsiderar hacerlo vanilla. Normalmente si añade un frameworks para tratar con datos en la UI y las animaciones son un valor agregado luego de eso.
 
-* **Fabian Gutierrez** (0)
+* **Fabian Gutierrez** (0) [170211](https://platzi.com/comentario/170211/) 
 
-	
 	Hola @LeonidasEsteban, estoy teniendo problemas por las urls presentes en invie.css, a pesar de que las puse en public, sabes como podría solucionarlo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [170211] (1)
 
-		
 		Hola, puedes compartir el código que estas haciendo, si puedes subirlo a github super para poderte ayudar mejor.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [170211] (0)
 
-		
 		Con url las mayúscuclas cuentan y suele ser en error común a la hora de ir a producción, pero si no es eso danos más detalles y te ayudamos 😃
 
-* **Margarita Jiménez Hernández** (0)
+* **Margarita Jiménez Hernández** (0) [165036](https://platzi.com/comentario/165036/) 
 
-	
 	Para utilizar postCSS hay que ponerlo en otro nivel de carpeta o ¿cómo sería el proceso?
 	
 	Gracias!
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [165036] (1)
 
-		
 		para navegar entre carpetas podemos usar …/…/sali-dos-carpetas/ para salir del directorio desde donde estamos o ./nombre/de/la/capeta/file.css si hay que entrar en profundidad
 
-## 0340. Pasando de una página estática a una dinámica con propiedades
+## 0340. Pasando de una página estática a una dinámica con propiedades [6852](https://platzi.com/clases/1103-animaciones-web/6852-pasando-de-una-pagina-estatica-a-una-dinamica-con-/)
 
 ### Descripción:
 
@@ -30115,55 +26925,45 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 
 ### Comentarios:
 
-* **JESUS ALBERTO LOPEZ VILLATORO** (16)
+* **JESUS ALBERTO LOPEZ VILLATORO** (16) [178513](https://platzi.com/comentario/178513/) 
 
-	
 	decidido el proximo curos sera el de react 😄
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [178513] (3)
 
-		
 		Me alegra eso, es muy chevere en general y sirve para todo.
 
-	* **Juan Barboza** (0)
+	* **Juan Barboza** [178513] (0)
 
-		
 		React ❤️
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [178513] (1)
 
-		
 		Yo iba a hacer la carrera de Javascript pero ya conociendo React y viendo que van a actualizar el curso de Fundamentos de Javascript mejor me voy por **React.js** 😄
 
-* **Isaias Chávez** (6)
+* **Isaias Chávez** (6) [589668](https://platzi.com/comentario/589668/) 
 
-	
 	Diablos, antes de tomar esta parte de animaciones en react fuí al curso de react para familiarizarme, ahora tendré que ir al de redux jaja.
 
-* **Carlos Jesús Fernández Salazar** (5)
+* **Carlos Jesús Fernández Salazar** (5) [425813](https://platzi.com/comentario/425813/) 
 
-	
 	En la actualidad
-	``` 
-	    npm install--save react-redux
+	```     npm install--save react-redux
 	    
 	```
 
-	* **David Isaac Flores Medrano** (3)
+	* **David Isaac Flores Medrano** [425813] (3)
 
-		
 		En la actualidad Febrero 2019, todavia necesitar instalar redux, no solo react-redux;  
 		Por que despues se rompe la aplicacion al momento de hacer el import { createStore } from ‘redux’;
 		
 		asi que es:
-		``` 
-		    npm install--save redux react-redux
+		```     npm install--save redux react-redux
 		    
 		```
 
-* **pablojorgeandres** (4)
+* **pablojorgeandres** (4) [506253](https://platzi.com/comentario/506253/) 
 
-	
 	## [Pasando de una página estática a una dinámica con propiedades](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase34)
 	
 	**Redux**
@@ -30172,8 +26972,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	Puede usarse sola aunque es normalmente usada con React o Angular.
 	
 	Para instalar([documentación](https://www.npmjs.com/package/react-redux)):
-	``` 
-	        npm install--save react-redux
+	```         npm install--save react-redux
 	    
 	    
 	    
@@ -30184,8 +26983,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	Para esto genero un array con los datos que necesito. Por ejemplo en un menú hecho con listas puedo aislar cada componente del menú por link y título y luego lo imprimo iterando el array que genero.
 	
 	Primero genero el array dentro de una variable _const_ en el archivo principal _my-app.js_ donde importo imágenes y demás elementos antes de la declaración del class principal.
-	``` 
-	    import guitarraAcustica from './images/invie-acustica.png'
+	```     import guitarraAcustica from './images/invie-acustica.png'
 	    import guitarraClasica from './images/invie-classic.png'
 	    
 	    const data = {
@@ -30231,8 +27029,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	```
 	
 	A través de los tags de las secciones paso los parámetros:
-	``` 
-	       
+	```        
 	        classAppextendsComponent{
 	          render() {
 	            return (
@@ -30255,8 +27052,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	```
 	
 	Y cada componente recibe los datos del array precedido por `{this.props. ... }`:
-	``` 
-	          <navclass="menu"id="menu">
+	```           <navclass="menu"id="menu">
 	              <ul>
 	                { this.props.menu.map( (item) => { 
 	                  return (                      
@@ -30275,65 +27071,53 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	
 	Itero el array con la propiedad de JS `.map()` para imprimir cada valor del array.
 
-	* **Leonardo Maya Iregui** (2)
+	* **Leonardo Maya Iregui** [506253] (2)
 
-		
 		Ctrl + C y pa mis notas
 
-* **Mariana Valencia** (3)
+* **Mariana Valencia** (3) [571395](https://platzi.com/comentario/571395/) 
 
-	
 	Este es uno de los cursos más completos que tiene Platzi. Incluso hoy sigue vigente.
 
-* **33andres33** (2)
+* **33andres33** (2) [818408](https://platzi.com/comentario/818408/) 
 
-	
 	react es muy facil? yo creo que despues de ver javascript se hara muy facil
 
-* **Christian Michelle Torres Martínez** (2)
+* **Christian Michelle Torres Martínez** (2) [183994](https://platzi.com/comentario/183994/) 
 
-	
 	Leonidas excelente curso, tienes una gran capacidad para transmitir los conocimientos me ha llamado mucho la atención react, solo me gustaría tu recomendación para el siguiente curso react native o react con redux?
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [183994] (2)
 
-		
 		En este curso te enseño React muuuy por encima entonces ve primero por React con redux y luego native para que aprendas a hacer apps
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [952470](https://platzi.com/comentario/952470/) 
 
-	
 	alguno sabe porque me esta pasando esto con el logo ? miren el mensaje que dice el inspector en amarillo 😦  
 	![](![Screen Shot 2020-01-28 at 16.28.47.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-28%20at%2016.28.47-2020b645-4ce4-4219-a9bd-60c458383a97.jpg)
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [952434](https://platzi.com/comentario/952434/) 
 
-	
 	Damn! es una montaña de conceptos, y estoy es lo básico… Motivado al 100!
 
-	* **Chatamilero** (2)
+	* **Chatamilero** [952434] (2)
 
-		
 		Borra set-src, data-src se podra visualizar los logos tambien en protada las otras secciones hay codigo que no se ocupa.
 		
 		saludos y si ya lo resolviste Mande me un saludo al chimuelo jaja.
 
-* **Jorge Luis Montes Castro** (1)
+* **Jorge Luis Montes Castro** (1) [848413](https://platzi.com/comentario/848413/) 
 
-	
 	Explicación de los key en react al momento de iterar en los objetos de un array con el metodo map
 
-* **lmoran** (1)
+* **lmoran** (1) [829067](https://platzi.com/comentario/829067/) 
 
-	
 	Salió
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [644938](https://platzi.com/comentario/644938/) 
 
-	
 	yo arreglé el css antes de tiempo
-	``` 
-	    /*Guitarras.js*/
+	```     /*Guitarras.js*/
 	    {this.props.guitars.map((guitar, index) => {
 	              return (
 	                <articleclassName="guitarra"key={index}>
@@ -30355,8 +27139,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	    }
 	    
 	```
-	``` 
-	    /* en invie.css */
+	```     /* en invie.css */
 	    .guitarra {
 	      margin: 10px10px40px10px;
 	      padding: 10px;
@@ -30401,74 +27184,61 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	    
 	```
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [505984](https://platzi.com/comentario/505984/) 
 
-	
 	## Instalar redux con npm => febrero 2019
 	
 	[Documentación](https://www.npmjs.com/package/react-redux)
-	``` 
-	    	npm install--save react-redux
+	```     	npm install--save react-redux
 	    
 	    
 	```
 
-	* **Martin Emanuel Gonzalez** (1)
+	* **Martin Emanuel Gonzalez** [505984] (1)
 
-		
 		gracias.-
 
-* **ramrikrdo** (1)
+* **ramrikrdo** (1) [430824](https://platzi.com/comentario/430824/) 
 
-	
 	minuto 20:15, ya hemos imprimido? o impreso? jaja  
 	(solo me dio risa, no es crítica mala onda)
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354587](https://platzi.com/comentario/354587/) 
 
-	
 	Para usar las **comillas simples** dentro de **comillas simples** se pueden escapar los caracteres usando el **backslash** ( ). Ejemplo:
-	``` 
-	    {
+	```     {
 	        href: 'ejemplo',
 	        title: 'Don\'t click me'
 	    }
 	    
 	```
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354585](https://platzi.com/comentario/354585/) 
 
-	
 	Ese dinamismo y facilidad de **React.js** es genial 😄
 
-* **Jhonny Stiven Agudelo Tenorio** (1)
+* **Jhonny Stiven Agudelo Tenorio** (1) [288515](https://platzi.com/comentario/288515/) 
 
-	
 	muy buenos dias, sera posible, si me explican bien para que sirve el Key
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [288515] (4)
 
-		
 		El key le permite a react identificar o saber que los elementos son diferentes, es como el id en las etiquetas html, debe ser único.
 
-* **Erick Neftalí Sarmiento Cortes** (1)
+* **Erick Neftalí Sarmiento Cortes** (1) [183622](https://platzi.com/comentario/183622/) 
 
-	
 	Es increíble verlo trabajar, es una meta trabajar así como usted.
 
-* **Leonidas Esteban Gonzalez** (1)
+* **Leonidas Esteban Gonzalez** (1) [178447](https://platzi.com/comentario/178447/) 
 
-	
 	Para cerrar el proceso de la aplicación antes de instalar cualquier dependencia se hace con _control + c_
 
-* **Carlos Andrés Millan Satizabal** (1)
+* **Carlos Andrés Millan Satizabal** (1) [178394](https://platzi.com/comentario/178394/) 
 
-	
 	Excelente explicación.
 
-* **zecamin** (0)
+* **zecamin** (0) [223962](https://platzi.com/comentario/223962/) 
 
-	
 	Hola a todos, ayuda por favor.  
 	En el localhost, me sale el siguiente error: Failed to compile  
 	./src/index.js  
@@ -30542,29 +27312,25 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	
 	**PDA: no sé cómo subir imágenes** 😦
 
-	* **zecamin** (0)
+	* **zecamin** [223962] (0)
 
-		
 		No se que hacer
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [223962] (2)
 
-		
 		Tienes instalado react en tu proyecto?
 		
 		Para subir imágenes solo tienes que arrastrarlas al editor y se suben solas
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [223962] (0)
 
-		
 		Revisa todos los componentes que tenga y verifica que todos tengan el import React from ‘react’ te dejo el código del proyecto para que puedas compararlo con lo que tienes escrito <https://github.com/LeonidasEsteban/invie-animated>
 
-* **Edwin Marte** (0)
+* **Edwin Marte** (0) [189476](https://platzi.com/comentario/189476/) 
 
-	
 	Excelente explicación.
 
-## 0350. Puliendo el CSS de invie
+## 0350. Puliendo el CSS de invie [6853](https://platzi.com/clases/1103-animaciones-web/6853-puliendo-el-css-de-invie/)
 
 ### Descripción:
 
@@ -30575,40 +27341,33 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 
 ### Comentarios:
 
-* **Geraldyn Daniela Chirinos De Sousa** (17)
+* **Geraldyn Daniela Chirinos De Sousa** (17) [183488](https://platzi.com/comentario/183488/) 
 
-	
 	Era un pelin mas fácil usar list-style-position: inside; que los contadores a mi parecer 😄 aunque igual se enseñó algo de CSS que no sabia y eso se aprecia jeje… vamos a por mas!!!
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [183488] (2)
 
-		
 		Me pillaste 😅
 
-	* **Franklin Roldán** (0)
+	* **Franklin Roldán** [183488] (0)
 
-		
 		EXcelente saberlo muchas gracias ! y al profesor 😃
 
-* **José Manuel Casani Guerra** (5)
+* **José Manuel Casani Guerra** (5) [514768](https://platzi.com/comentario/514768/) 
 
-	
 	Sé que es irrelevante para la programacion … pero la segunda imagen es del anime Dangaronpa creo …
 
-* **juand_silva** (4)
+* **juand_silva** (4) [386647](https://platzi.com/comentario/386647/) 
 
-	
 	El emmet del editor de código me recomienda poner con doble (:😃:
-	``` 
-	    .guitarrali::before {
+	```     .guitarrali::before {
 	     counter-increment: features;
 	    }
 	    
 	```
 	
 	pero Leonidas lo coloca solo con dos puntos (😃
-	``` 
-	    .guitarrali:before {
+	```     .guitarrali:before {
 	     counter-increment: features;
 	    }
 	    
@@ -30616,97 +27375,82 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	
 	Cuál es la diferencia entre (😃 y (:😃?
 
-	* **Luis Angel José Portillo Arévalo** (6)
+	* **Luis Angel José Portillo Arévalo** [386647] (6)
 
-		
 		Según la regla, los pseudo-elementos se colocan con doble dos puntos (double colon): <https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements>
 		
 		Se hace así para diferenciar los pseudo-elementos de las pseudo-clases que llevan un solo dos puntos (single colon).
 		
 		before es un pseudo-elemento, así que su aplicación debería ser:
-		``` 
-		    .guitarrali::before {
+		```     .guitarrali::before {
 		    
 		    }
 		    
 		```
 		
 		un ejemplo de pseudo-clase sería hover:
-		``` 
-		    .guitarrali:hover {
+		```     .guitarrali:hover {
 		    
 		    }
 		    
 		```
 
-	* **Karina Betzabe Romero Ulloa** (1)
+	* **Karina Betzabe Romero Ulloa** [386647] (1)
 
-		
 		Muy buena pregunta y muy buena respuesta, tenia la misma duda, gracias compañeros.
 
-* **RomarioEstradaFlorez** (3)
+* **RomarioEstradaFlorez** (3) [356935](https://platzi.com/comentario/356935/) 
 
-	
 	¿Como le hace pára acordarse de los códigos de los colores? =O
 
-	* **davidtoca (Platzi)** (3)
+	* **davidtoca (Platzi)** [356935] (3)
 
-		
 		no hay que saberlos de memoria, hay muchas apps y páginas que te lo dan, de hecho cuando te dan el diseño ya viene con esa información (depende de la herramienta que uses) o en últimas simplemente se la pides a un diseñador que te dé esa información y listo, no te preocupes por eso
 
-	* **Miguel Matos** (2)
+	* **Miguel Matos** [356935] (2)
 
-		
 		Una de las webs que conocí hace poco, la tengo en mis marcadores:  
 		<http://www.htmlcsscolor.com/html-color-names>
 
-	* **RomarioEstradaFlorez** (1)
+	* **RomarioEstradaFlorez** [356935] (1)
 
-		
 		si yo uso lo que ofrece el navegador o saco el color de algun programa de diseño de imágenes pero así de memoria es como feo.
 
-	* **Erika Luna (Platzi)** (4)
+	* **Erika Luna (Platzi)** [356935] (4)
 
-		
 		A mi megusta usar Material Palette, es una página que te da una escala de colores muy chevere --> <https://www.materialpalette.com/>  
 		También puedes ver más códigos de colores aqui --> <https://htmlcolorcodes.com/>.  
 		Después me cuentas cómo te va 😃
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (2)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [356935] (2)
 
-		
 		Aunque parezca surreal, con la práctica comienzas a recordar colores de uso común y al mismo tiempo identificas patrones que pueden dar ciertos tonos.
 
-	* **Victor Alejandro Alvarez Tallada** (4)
+	* **Victor Alejandro Alvarez Tallada** [356935] (4)
 
-		
 		Como dicen no es necesario acordarse de los colores, ya que lo mas seguro tendrás una paleta de colores acorde a la marca, pero iras guardando con el tiempo colores o paletas preferidas. 😄  
 		Dejo un articulo que explica un poco mas eso de los colores hexa.:  
 		<https://medium.muz.li/hex-color-codes-27cd0a37c3ce>  
 		Y una herramienta mas:  
 		<https://color.adobe.com/es/create/color-wheel/>
 
-	* **José Manuel Casani Guerra** (1)
+	* **José Manuel Casani Guerra** [356935] (1)
 
-		
 		Hay paletas de colores , asi que solo te acuerdas de 6 colores minimo y listo …
 
-* **RomarioEstradaFlorez** (3)
+* **RomarioEstradaFlorez** (3) [39619](https://platzi.com/comentario/356935/) 
 ¿Como le hace pára acordarse de los códigos de los colores? =O
 
-	* **davidtoca (Platzi)** (3)
+	* **davidtoca (Platzi)** [39619] (3)
 
-		
 		no hay que saberlos de memoria, hay muchas apps y páginas que te lo dan, de hecho cuando te dan el diseño ya viene con esa información (depende de la herramienta que uses) o en últimas simplemente se la pides a un diseñador que te dé esa información y listo, no te preocupes por eso
 
-* **Esau Rosales** (2)
+* **Esau Rosales** (2) [668977](https://platzi.com/comentario/668977/) 
 
-	
 	Como se sabe si un elemento es impar o par?
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [506464](https://platzi.com/comentario/506464/) 
 
-	
 	Buenísimo el counter de CSS, no lo conocía =)
 	
 	## CSS `counter`
@@ -30714,8 +27458,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	Para agregar un índice en css es posible usar la propiedad `counter`.
 	
 	Genero una variable en el elemento padre:
-	``` 
-	    ul {
+	```     ul {
 	        counter-reset: elems;  /* inicializar contador */
 	    }
 	    
@@ -30723,8 +27466,7 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	```
 	
 	La incremento de acuerdo a la cantidad de hijos:
-	``` 
-	    	li {
+	```     	li {
 	    	    counter-increment: elems;
 	    	}
 	    
@@ -30733,84 +27475,71 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	```
 	
 	La imprimo antes de cada `<li>`:
-	``` 
-	    	li::before {
+	```     	li::before {
 	    	    content: counter(elems);
 	    	}
 	    
 	    
 	```
 
-* **Carlos Jesús Fernández Salazar** (2)
+* **Carlos Jesús Fernández Salazar** (2) [427977](https://platzi.com/comentario/427977/) 
 
-	
 	Yo lo hice de esta manera y no necesité luego cambiar la posición de la imagen :D ``` .guitarra:nth-of-type(even) { flex-direction: row-reverse; } ```
 
-* **Francisca Alejandra Salinas Castillo** (1)
+* **Francisca Alejandra Salinas Castillo** (1) [1043670](https://platzi.com/comentario/1043670/) 
 
-	
 	Genial Leonidas! da mucho ánimo y buena energía 😊😁
 
-* **lmoran** (1)
+* **lmoran** (1) [829753](https://platzi.com/comentario/829753/) 
 
-	
 	Seguimos avanzando
 
-* **carlosdummy14** (1)
+* **carlosdummy14** (1) [369058](https://platzi.com/comentario/369058/) 
 
-	
 	Lo CHIDO es que después de darnos esta repasada de conocimientos nos digas “Ahora si comenzamos…”.  
 	Buena sesión.  
 	Gracias y a darle!!!
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354687](https://platzi.com/comentario/354687/) 
 
-	
 	Recuerdo cuando hice el **Curso de Desarrollo Web** , antes de hacerlo no sabia **nada** de CSS, de hecho, me parecia muy dificil CSS. Gracias a ti, Leonidas, ahora se mucho mas de lo que esperaba saber 😄
 
-	* **Erika Luna (Platzi)** (2)
+	* **Erika Luna (Platzi)** [354687] (2)
 
-		
 		CSS tiene sus complejidades. Después de este curso te recomiendo tomar el de Sass --> <https://platzi.com/clases/sass/>  
 		Es html en esteroides! jajaja
 
-	* **Alan Santiago** (2)
+	* **Alan Santiago** [354687] (2)
 
-		
 		@erikaluna, a veces me parece dificil, pero ya no tanto como antes 😄  
 		**Sass** se ve interesante, quizas tome ese curso despues del de **PostCss** 😄
 
-* **Edgar Valdez Moises** (1)
+* **Edgar Valdez Moises** (1) [303028](https://platzi.com/comentario/303028/) 
 
-	
 	Hola a todos. Quisiera hacerles una consulta  
 	Hay una forma de poner una imagen sobre otra, en cierta posición de la página con respecto a la imagen más grande, haciendo que la posición sea responsive.  
 	Por ejemplo: la imagen más grande es la de una cara y la pequeña representan unas gafas, haciendo que solo las gafas sean clicable, y si la cara se achica, entonces las gafas también, manteniendose sobre los ojos.
 	
 	Espero se entienda mi pregunta.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [303028] (2)
 
-		
 		Se puede hacer, tienes que poner la imagen grande con posición relative y la imagen pequeña con posición absoluta, luego ajustas el top y el left usando porcentajes de esta manera la posición de la imagen se ajusta cuando se redimensiona, puede que sea necesario tener algunos breakpoints para ajustar la posición.
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [303028] (0)
 
-		
 		Ya está de esa forma el problema es que la imagen grande ocupa toda la pantall con background-size: cover, y esto hace imposible de posicionar correctamente porque el cover corta la imagen, y la imagen más pequeña no se entera de ese corte.  
 		Obs: No podemos dejar de usar cover
 
-* **Henry Alejandro  Palacios Lemus** (1)
+* **Henry Alejandro  Palacios Lemus** (1) [282648](https://platzi.com/comentario/282648/) 
 
-	
 	Excelente, me encanto
 
-* **Juan Barboza** (1)
+* **Juan Barboza** (1) [241655](https://platzi.com/comentario/241655/) 
 
-	
 	En el minuto 1:31 hay un cambio en el diseño, pero no se realiza ningún cambio en particular, es un corte en el video, la distancia entre la primer imagen y el border superior se hace más chica, qué es lo que sucede allí?
 
-## 0360. Añadiendo Cheet JS
+## 0360. Añadiendo Cheet JS [6854](https://platzi.com/clases/1103-animaciones-web/6854-anadiendo-cheet-js/)
 
 ### Descripción:
 
@@ -30821,69 +27550,57 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 
 ### Comentarios:
 
-* **Margarita Jiménez Hernández** (10)
+* **Margarita Jiménez Hernández** (10) [165042](https://platzi.com/comentario/165042/) 
 
-	
 	Si quiero que lo escriban en un input ¿el código de Cheet iría adentro? Aparte no hay que olvidar el render ¿verdad?
 
-	* **Leonidas Esteban Gonzalez** (9)
+	* **Leonidas Esteban Gonzalez** [165042] (9)
 
-		
 		Ah si puedes hacer un input dentro de un formulario y escuchar el submit, en ese momento mandar el value del input a cheet y magia.
 
-	* **Franklin Roldán** (1)
+	* **Franklin Roldán** [165042] (1)
 
-		
 		Oye que interesante muchas gracias es bueno saberlo !
 
-* **Uralberto** (4)
+* **Uralberto** (4) [573494](https://platzi.com/comentario/573494/) 
 
-	
 	¿Instered? ¿instereg? ¿insteread? Siempre me inquietó que quería decir Leonidas. Hoy por fin lo supe: es easter egg, el huevo de pascua. Tenemos que acostumbrarnos a los anglicismos. O mejor, tenemos que aprender inglés.
 
-* **Jonatan Ruben Sosa Caycay** (4)
+* **Jonatan Ruben Sosa Caycay** (4) [285630](https://platzi.com/comentario/285630/) 
 
-	
 	Tengo muchas ideas para usar cheet.js, genial 😄
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [285630] (3)
 
-		
 		Espero que sean idea que mejoren al mundo y no trolleos para tus amigos o keylogger o mejor callo que tambien se me están ocurriendo ideas
 
-	* **Jonatan Ruben Sosa Caycay** (0)
+	* **Jonatan Ruben Sosa Caycay** [285630] (0)
 
-		
 		😄 ahora tengo nuevas ideas, no no, hagamos un mundo mejor.
 
-* **Melina Jacqueline onoriaga** (4)
+* **Melina Jacqueline onoriaga** (4) [184464](https://platzi.com/comentario/184464/) 
 
-	
 	Woooo que genial esta clase!! ya me imagino todas las cosas que podría hacer!!!
 
-* **emanueljtc** (3)
+* **emanueljtc** (3) [562522](https://platzi.com/comentario/562522/) 
 
-	
 	Genial Leonidas siempre enseñando cosas para trollear al mundo perdon digo para mejorar el mundo jajaja.
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [507592](https://platzi.com/comentario/507592/) 
 
-	
 	## [Añadiendo Cheet JS](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase36)
 	
 	[cheet.js](https://namuol.github.io/cheet.js/) es una librería que nos permite ‘escuchar’ el teclado de una manera muy sencilla.
 	
 	Instalar:
-	``` 
-	    	project-folder npm install cheet.js
+	```     	project-folder npm install cheet.js
 	    
 	    
 	    
 	```
 	
 	Cheet recibe dos parámetros para funcionar. El primero es el string o set de teclas del keyboard que queremos ‘oir’ y el segundo una función con lo que queremos que suceda si el string es tipeado por el cliente.
-	``` 
-	    	cheet( 's t r i n g', () => {} )
+	```     	cheet( 's t r i n g', () => {} )
 	    
 	    
 	    
@@ -30891,19 +27608,16 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	
 	Usaremos cheet para animar nuestros llamados ‘easterEggs’ o animaciones sorpresa.
 
-* **lmoran** (1)
+* **lmoran** (1) [829791](https://platzi.com/comentario/829791/) 
 
-	
 	Interesante el Cheet.js
 
-* **pablojorgeandres** (1)
+* **pablojorgeandres** (1) [507276](https://platzi.com/comentario/507276/) 
 
-	
 	El link a [cheet.js](https://namuol.github.io/cheet.js/)
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [489232](https://platzi.com/comentario/489232/) 
 
-	
 	No logro hacer que el easter egg me funcione. La única pista que tengo es que en el editor de texto me sale la siguiente indicación.  
 	(![Screenshot_2.png](https://static.platzi.com/media/user_upload/Screenshot_2-bc31816d-58b3-4ebc-87c2-9e206de33096.jpg)
 	
@@ -30911,69 +27625,57 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 	
 	¿Alguna idea? Muchas gracias.
 
-	* **Juan Camilo Lezcano Benitez** (1)
+	* **Juan Camilo Lezcano Benitez** [489232] (1)
 
-		
 		Al final, el problema era del navegador, en chrome no me funcionaba correctamente, pero en Edge funcionaba un poco mejor y en Mozilla me funcionaba perfectamente.
 
-	* **David Isaac Flores Medrano** (2)
+	* **David Isaac Flores Medrano** [489232] (2)
 
-		
 		Si que raro, no esta funcionando en Chrome, pero en Firefox si mola!
 
-* **webins** (1)
+* **webins** (1) [463378](https://platzi.com/comentario/463378/) 
 
-	
 	¿Cómo haria para que cuando el usuario escriba las teclas de i n v i e ya estando en el estado del easterer con las misma teclas salga de el? como lo haria con cheetjs?
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [463378] (1)
 
-		
 		Hola, si todavía no lo resolviste podrías correr un arrow function dentro del mismo cheet(‘i n v i e’, () => {}) con un if y un booleano(o no) y de acuerdo al estado de x elemento hacer lo que necesites.
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354710](https://platzi.com/comentario/354710/) 
 
-	
 	¿Van a volver a hacer **Easter Eggs** en navidad? 😄
 
-	* **davidtoca (Platzi)** (3)
+	* **davidtoca (Platzi)** [354710] (3)
 
-		
 		Tal vez 😉, sin duda vamos a hacer algo muy original como todos los años
 
-	* **juand_silva** (2)
+	* **juand_silva** [354710] (2)
 
-		
 		En que consistió el Easter Eggs de navidad en Platzi?, vi el vídeo pero pensé que se trataba de alguna promoción de navidad común y corriente. Ahora que veo hace parte del código xD.
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [354701](https://platzi.com/comentario/354701/) 
 
-	
 	Es momento de agregar **cheet.js** a varios proyectos 😄
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [346523](https://platzi.com/comentario/346523/) 
 
-	
 	[](lou.wtf/cheet.js/)
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [346522](https://platzi.com/comentario/346522/) 
 
-	
 	El link de cheet.js es:  
 	lou.wtf/cheet.js/
 
-* **Luis Felipe Silgado Cortázar** (1)
+* **Luis Felipe Silgado Cortázar** (1) [206056](https://platzi.com/comentario/206056/) 
 
-	
 	Alguien sabe estos errores por que salen? aparente mente es por propiedades de react, pero el código lo tengo tal cual el de la clase.
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-b2ace504-dc81-46af-9f68-6d12e3849a2d.jpg)
 	
 	El proyecto en si funciona sin problemas incluyendo esta clase de cheet.js, pero esa mano de errores en consola me incomoda.
 
-	* **Luis Felipe Silgado Cortázar** (0)
+	* **Luis Felipe Silgado Cortázar** [206056] (0)
 
-		
 		proxyConsole.js:54 Warning: Each child in an array or iterator should have a unique “key” prop.
 		
 		Check the render method of `Portada`. See <https://fb.me/react-warning-keys> for more information.  
@@ -31164,38 +27866,33 @@ Suponiendo que deseo seguir con mi proyecto otro día. ¿Cómo hago para volver 
 		WebSocketTransport.ws.onmessage @ websocket.js:35  
 		3R1dW8M4EqYY:1 Failed to load <https://googleads.g.doubleclick.net/pagead/id:> Redirect from ‘<https://googleads.g.doubleclick.net/pagead/id>’ to ‘data:text;charset=utf-8,’ has been blocked by CORS policy: No ‘Access-Control-Allow-Origin’ header is present on the requested resource. Origin ‘<https://www.youtube.com>’ is therefore not allowed access.
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [206056] (2)
 
-		
 		estas usando lowercase en un tag html, si es un componente debería iniciar en mayuscula para que no te de problemas, son warnings de ese tipo donde el código funciona pero se puede pulir para seguir todo al pie de la letra con React
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [51266](https://platzi.com/comentario/489232/) 
 No logro hacer que el easter egg me funcione. La única pista que tengo es que en el editor de texto me sale la siguiente indicación. ( He...
 
-	* **Juan Camilo Lezcano Benitez** (1)
+	* **Juan Camilo Lezcano Benitez** [51266] (1)
 
-		
 		Al final, el problema era del navegador, en chrome no me funcionaba correctamente, pero en Edge funcionaba un poco mejor y en Mozilla me funcionaba perfectamente.
 
-* **webins** (1)
+* **webins** (1) [49157](https://platzi.com/comentario/463378/) 
 ¿Cómo haria para que cuando el usuario escriba las teclas de i n v i e ya estando en el estado del easterer con las misma teclas salga de...
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [49157] (1)
 
-		
 		Hola, si todavía no lo resolviste podrías correr un arrow function dentro del mismo cheet(‘i n v i e’, () => {}) con un if y un booleano(o no) y de acuerdo al estado de x elemento hacer lo que necesites.
 
-* **Jordi Santamaría Portolés** (0)
+* **Jordi Santamaría Portolés** (0) [283118](https://platzi.com/comentario/283118/) 
 
-	
 	lul, super easy de hacer y el efecto tiene muy buena pinta.
 
-* **Juan Barboza** (0)
+* **Juan Barboza** (0) [241661](https://platzi.com/comentario/241661/) 
 
-	
 	Para NPM se puede usar npm i en lugar de npm install
 
-## 0370. Configurando Redux
+## 0370. Configurando Redux [6855](https://platzi.com/clases/1103-animaciones-web/6855-configurando-redux/)
 
 ### Descripción:
 
@@ -31206,9 +27903,8 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 
 ### Comentarios:
 
-* **pablojorgeandres** (5)
+* **pablojorgeandres** (5) [507754](https://platzi.com/comentario/507754/) 
 
-	
 	## [Configurando Redux](https://github.com/pablojorgeandres/notas-clases/blob/master/animacionesWeb.md#clase37)
 	
 	Ahora sí, configuramos Redux en nuestro proyecto.
@@ -31216,10 +27912,7 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	Vamos a trabajar en el archivo ‘index.js’ y ya no en el archivo del proyecto ‘my-project.js’ (invie.js).
 	
 	  * Muevo `import cheet` y sus funciones a index.js.
-	
-	
-	``` 
-	    	import cheet from 'cheet.js'
+	```     	import cheet from 'cheet.js'
 	    	
 	    	cheet('s t r i n g', () => {  mis cambios })
 	    	cheet('s t r i n g', () => {  estado inicial })
@@ -31228,10 +27921,7 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	```
 	
 	  * Muevo los objetos con los `elementos` con sus respectivos `imports` también al index.js.
-	
-	
-	``` 
-	    import logoPortada from './images/invie.png'
+	```     import logoPortada from './images/invie.png'
 	    import guitarraAcustica from './images/invie-acustica.png'
 	    import guitarraClasica from './images/invie-classic.png'
 	    import logoFooter from './images/invie-white.png'
@@ -31262,10 +27952,7 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	
 	  * importo `Provider` desde `react-redux` y envuelvo el tag <mi-proyecto/>. 
 	    * `Provider` es un administrador de contenido interactivo de `redux`.
-	
-	
-	``` 
-	    	
+	```     	
 	    	import { Provider } from'react-redux'
 	    	
 	    	ReactDOM.render(
@@ -31281,18 +27968,14 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	```
 	
 	  * <Provider> recibe un objeto con los elementos para repartir a los diferentes componente de nuestra aplicación.
-	
-	
-	``` 
-	    	<Providerstore={store} >
+	```     	<Providerstore={store} >
 	    
 	    
 	    
 	```
 	
 	Para esto hay que importar un ‘almacen’ de datos desde redux. Es un método llamado `createStore()` que recibe dos parámetros; una función y un objeto. El objeto es el conjunto de elementos de mi aplicación y la función `reducer` será la que administra el dinamismo.
-	``` 
-	    	import { createStore } from 'redux'
+	```     	import { createStore } from 'redux'
 	    
 	    	const initialState = {
 	    	  menu : [
@@ -31334,8 +28017,7 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	```
 	
 	Para cambiar lo que hay dentro de `store` usamos el método `.dispatch()`
-	``` 
-	    	const easter = {          	// nuevo objeto que envío para cambiar contenido
+	```     	const easter = {          	// nuevo objeto que envío para cambiar contenido
 	    	  menu : [ {
 	    	      href: 'index.html',
 	    	      title: 'Home'
@@ -31367,8 +28049,7 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	Ahora enlazo los componentes.
 	
 	En cada uno:
-	``` 
-	    	import { connect } from 'react-redux'
+	```     	import { connect } from 'react-redux'
 	    
 	    	function mapStateToProps(state){
 	    	  return {
@@ -31386,9 +28067,8 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	    
 	```
 
-* **pitahaya** (5)
+* **pitahaya** (5) [453336](https://platzi.com/comentario/453336/) 
 
-	
 	Estoy lidiando con este error cuando compila:  
 	./node_modules/react-redux/es/connect/mapDispatchToProps.js  
 	Module not found: Can’t resolve ‘redux’ in ‘C:\Users\usuario\Documents\EstudioPlatzi\animaciones-web\react-station\invie\node_modules\react-redux\es\connect’
@@ -31396,81 +28076,69 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	estoy seguro de haber revisado el código paso a paso 😦  
 	por si acaso estoy trabajando con windows.
 
-	* **pitahaya** (5)
+	* **pitahaya** [453336] (5)
 
-		
 		uhmm creo haberme adelantado un poco al escribir el error que me estaba arrojando al compilar.  
 		Al parecer luego de instalar redux , necesité también instalar Redux Library, con el siguiente comando npm install --save redux … y voila funcionó 😃
 
-	* **John Freddy Vega (Platzi)** (5)
+	* **John Freddy Vega (Platzi)** [453336] (5)
 
-		
 		Eso es lo correcto pitahaya, poner la solución al error si la encuentras por tu lado. 👍
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [453336] (1)
 
-		
 		Gracias por poner tu solución me ha sucedido lo mismo.  
 		Parece que al día de la fecha (febrero 2019) ese módulo cambió de repo y hay que instalarlo a parte.
 
-* **Luis Alejandro Cortes Chacón** (4)
+* **Luis Alejandro Cortes Chacón** (4) [245873](https://platzi.com/comentario/245873/) 
 
-	
 	 **Algunas de mis notas sobre la clase:**
 	
 	  * Se debe importar el provedor que va a ser quien nutra de datos a invie, por esto invie va a estar dentro de nuestro Provider. Esto se hace con import { Provider } from ‘react-redux’;
-	```     <Providerstore = {store}> 
-	    	<Invie />
-	    </Provider>
-	    
+	```         <Providerstore = {store}> 
+	        	<Invie />
+	        </Provider>
+	        
 	```
 	
 	  * Para crear nuestro almacen de datos se debe importar createStore desde redux, y luego sí crear nuestro almacen de datos con la siguiente linea:
-	```     const store = createStore(reducer, initialState)
-	    
+	```         const store = createStore(reducer, initialState)
+	        
 	```
 	
 	donde reducer va a ser quien maneje los cambios y nos actualice nuestros datos de nuestra store y initialState va a ser nuestros datos por iniciales o por defecto que tenemos.
 	
 	  * luego para cambiar algo dentro de nuestro almacen de datos (store) usaremos el metodo .dispatch quien va a recibir el type (tipo de accion) y payload (nuevos datos que vamos a manejar )
-	```     store.dispatch({
-	    		type: 'UPDATE_PROPS',
-	    		payload: {
-	    			props: easter
-	    		}
-	    	});
-	    
+	```         store.dispatch({
+	        		type: 'UPDATE_PROPS',
+	        		payload: {
+	        			props: easter
+	        		}
+	        	});
+	        
 	```
-	
-	
-	
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [245873] (1)
 
-		
 		Excelente B)
 
-* **DavidArmandoVelazquez** (3)
+* **DavidArmandoVelazquez** (3) [749612](https://platzi.com/comentario/749612/) 
 
-	
 	damn! no entendí nada 😦
 
-* **elianalopezv** (2)
+* **elianalopezv** (2) [738291](https://platzi.com/comentario/738291/) 
 
-	
 	Excelente explicación! Acá terminé de entender lo que no comprendí bien en el curso de Redux. Me parece genial haberme encontrado esta clase en este curso 👌
 
-* **Jehaann Manzanares** (2)
+* **Jehaann Manzanares** (2) [581948](https://platzi.com/comentario/581948/) 
 
-	
 	 **TENER CUIDADO CON el AUTOCOMPLETADO DEL EDITOR**  
 	el editor de código me autocompleto **StorageEvent** en vez de state y por ende me daba un error.
 	
 	**Consejo**
 	
 	no confiarnos del autocompletado de los editores. siempre verificar lo que se autocompleta.
-	``` 
-	    function mapStateToProps(state){
+	```     function mapStateToProps(state){
 	    
 	      return { 
 	        logo: state.logoPortada,
@@ -31481,19 +28149,16 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	    
 	```
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [354837](https://platzi.com/comentario/354837/) 
 
-	
 	Esto es hermoso 😂
 
-* **racg21** (2)
+* **racg21** (2) [231475](https://platzi.com/comentario/231475/) 
 
-	
 	********por cualquier duda aqui dejo el Index.js
 	
 	* * *
-	``` 
-	    import React from 'react';
+	```     import React from 'react';
 	    import ReactDOM from 'react-dom';
 	    import Invie from './Invie';
 	    import './index.css';
@@ -31606,35 +28271,27 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	    
 	```
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [231475] (1)
 
-		
 		Gracias, no habia visto el **store={store}** del Provider JAJAJA 😄
 
-* **Francisca Alejandra Salinas Castillo** (1)
+* **Francisca Alejandra Salinas Castillo** (1) [1043797](https://platzi.com/comentario/1043797/) 
 
-	
 	Quedé mareadísima 😂😂
 
-* **Wuilfredo Azócar** (1)
+* **Wuilfredo Azócar** (1) [995416](https://platzi.com/comentario/995416/) 
 
-	
 	Estuve casi todo el día revisando mi código porque tenia un error con un tal **shape**. Si llegara a ser su caso así lo resolví yo:
 	
 	  * Volviendo a instalar `Redux` y `React-Redux` con:
-	
-	
-	``` 
-	    npm install --save redux react-redux
+	```     npm install --save redux react-redux
 	    
 	```
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [952882](https://platzi.com/comentario/952882/) 
 
-	
 	Si presentan error como …
-	``` 
-	    ReferenceError: Cannot access 'initialState' before initialization
+	```     ReferenceError: Cannot access 'initialState' before initialization
 	    Module../src/index.js
 	    
 	```
@@ -31648,32 +28305,26 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	
 	Lo comparto con ustede si les llega a pasar ^-^
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [572249](https://platzi.com/comentario/572249/) 
 
-	
 	Wow, lo único que me faltaba era instalar Redux. De ahí me sirvió hermosamente
 
-* **Andrés Mauricio Montoya Sánchez** (1)
+* **Andrés Mauricio Montoya Sánchez** (1) [549733](https://platzi.com/comentario/549733/) 
 
-	
 	Aquí tengo un ejemplo usando el Context API de React y hooks, me parece innecesario usar Redux en algo tan simple… <https://github.com/MontoyaAndres/platzi/tree/master/AnimationsCSS/invie>
 
-* **Leonardo Maya Iregui** (1)
+* **Leonardo Maya Iregui** (1) [549264](https://platzi.com/comentario/549264/) 
 
-	
 	Una cosa de locos esto. Pero emocionante!
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [489329](https://platzi.com/comentario/489329/) 
 
-	
 	Llevaba un buen rato frustrado porque el easter egg solo me funcionó una vez y luego no volvió a funcionar ni actualizando el navegador ni reiniciando el servidor. Pero probé cambiando el navegador de Chrome a Edge y allí funciona muy bien así que en este caso un punto menos para Chrome 😉.
 
-* **crloshro** (1)
+* **crloshro** (1) [405604](https://platzi.com/comentario/405604/) 
 
-	
 	Señores favor su apoyo me esta arrojando el siguiente error:
-	``` 
-	    Failed to compile
+	```     Failed to compile
 	    ./src/index.js
 	      Line 96:  Import in body ofmodule; reorder to top  import/first
 	      Line 97:  Import in body ofmodule; reorder to top  import/first
@@ -31682,26 +28333,22 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	    
 	```
 
-	* **Jose Enrique Marquez** (1)
+	* **Jose Enrique Marquez** [405604] (1)
 
-		
 		solo con eso que muestras es un poco dificil ayudarte, realmente creo que estas usando `import` pero para poder hacer uso de esto tiene que tener algo que te compile el codigo ya que no es nativo en javascript usar `import`.
 		
 		si pones tu codigo js podria ayudarte mejor.
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [405604] (1)
 
-		
 		Parece que importaste en in lugar del código donde no se debe hacer. Sería importar en la parte superior, es lo que dice la indicación…
 
-* **Josue David Pablo Ixbalan** (1)
+* **Josue David Pablo Ixbalan** (1) [386416](https://platzi.com/comentario/386416/) 
 
-	
 	OMG! React 😍
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [347127](https://platzi.com/comentario/347127/) 
 
-	
 	Failed to compile.
 	
 	./src/components/Portada.jsx  
@@ -31709,81 +28356,69 @@ No logro hacer que el easter egg me funcione. La única pista que tengo es que e
 	
 	Que hago?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [347127] (2)
 
-		
 		Instalaste react-addons-css-transition-group usando npm?
 
-	* **Juan Andrés Cuevas** (2)
+	* **Juan Andrés Cuevas** [347127] (2)
 
-		
 		Ese era el que me faltaba, jajaja  
 		Gracias
 
-* **Luis Felipe Silgado Cortázar** (1)
+* **Luis Felipe Silgado Cortázar** (1) [206076](https://platzi.com/comentario/206076/) 
 
-	
 	hahahahaha pase cerca de 5 min buscando los cambios, pensé que se iba a borrar media página y no me fije que solo estábamos cambiando el menú xD
 
-* **pitahaya** (1)
+* **pitahaya** (1) [48327](https://platzi.com/comentario/453336/) 
 Estoy lidiando con este error cuando compila: ./node_modules/react-redux/es/connect/mapDispatchToProps.js Module not found: Can’t resolve...
 
-	* **pitahaya** (5)
+	* **pitahaya** [48327] (5)
 
-		
 		uhmm creo haberme adelantado un poco al escribir el error que me estaba arrojando al compilar.  
 		Al parecer luego de instalar redux , necesité también instalar Redux Library, con el siguiente comando npm install --save redux … y voila funcionó 😃
 
-* **crloshro** (1)
+* **crloshro** (1) [44223](https://platzi.com/comentario/405604/) 
 Señores favor su apoyo me esta arrojando el siguiente error: Failed to compile ./src/index.js Line 96: Import in body of module;...
 
-	* **Jose Enrique Marquez** (1)
+	* **Jose Enrique Marquez** [44223] (1)
 
-		
 		solo con eso que muestras es un poco dificil ayudarte, realmente creo que estas usando `import` pero para poder hacer uso de esto tiene que tener algo que te compile el codigo ya que no es nativo en javascript usar `import`.
 		
 		si pones tu codigo js podria ayudarte mejor.
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [38701](https://platzi.com/comentario/347127/) 
 Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolve ‘react-addons-css-transition-group’ in ‘E:\Platzi\animaci...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [38701] (2)
 
-		
 		Instalaste react-addons-css-transition-group usando npm?
 
-* **Jhonny Stiven Agudelo Tenorio** (0)
+* **Jhonny Stiven Agudelo Tenorio** (0) [290350](https://platzi.com/comentario/290350/) 
 
-	
 	![](![error.PNG](https://static.platzi.com/media/user_upload/error-56db25fe-f561-41fe-b7e8-57ab53566d82.jpg)
 
-	* **Daniel Ramírez Mendoza** (1)
+	* **Daniel Ramírez Mendoza** [290350] (1)
 
-		
 		provider lo tienes escrito en minúscula pon
-		``` 
-		    <Providerstore={store}>
+		```     <Providerstore={store}>
 		    	<Invie />
 		    </Provider> 
 		    
 		```
 		
 		igual checa que en tu export tengas
-		``` 
-		    exportdefault connect(mapStateToProps)(Portada)
+		```     exportdefault connect(mapStateToProps)(Portada)
 		    
 		```
 
-* **Anthony Gonzalez** (0)
+* **Anthony Gonzalez** (0) [188264](https://platzi.com/comentario/188264/) 
 
-	
 	Al escribir invie al final explota la pagina y sale esto:
 	
 	TypeError: Cannot read property ‘props’ of undefined  
 	reducer  
 	src/index.js:61
-	``` 
-	    58 | function reducer(state, action) {
+	```     58 | function reducer(state, action) {
 	      59 |   switch (action.type) {
 	      60 |     case 'UPDATE_PROPS': {
 	    > 61 |       const newProps = action.playload.props;
@@ -31794,29 +28429,24 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	    
 	```
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [188264] (0)
 
-		
 		“action.payload” te está dando undefined por lo tanto no estás enviando los datos en la acción revisa eso en el componente que llama a la acción
 
-	* **hnavarrete** (1)
+	* **hnavarrete** [188264] (1)
 
-		
 		El error es un typo, escribiste:
-		``` 
-		    const newProps = action.playload.props;
+		```     const newProps = action.playload.props;
 		    
 		```
 		
 		en vez de:
-		``` 
-		    const newProps = action.payload.props;
+		```     const newProps = action.payload.props;
 		    
 		```
 
-* **Joel suarez** (0)
+* **Joel suarez** (0) [187724](https://platzi.com/comentario/187724/) 
 
-	
 	me da un error en:
 	
 	./src/index.js  
@@ -31829,63 +28459,52 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	
 	No entiendo por que me senala el error ahi
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [187724] (0)
 
-		
 		creo que no se usa registerServiceWorker() en ninguna parte, ese debe ser el error;
 
-	* **Joel suarez** (0)
+	* **Joel suarez** [187724] (0)
 
-		
 		Estoy usando la ultima version descargable de create-react y esa funcion venia por defecto en el index.js, se la quito e igual me sigue señalando al mismo lugar el error
 
-	* **Joel suarez** (0)
+	* **Joel suarez** [187724] (0)
 
-		
 		Estoy usando la ultima version descargable de create-react y esa funcion venia por defecto en el index.js, se la quito e igual me sigue señalando al mismo lugar el error
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [187724] (0)
 
-		
 		Probablemente algo haya cambiando, para seguir las clases sin lio usa la versión del curso 😄
 
-	* **Joel suarez** (0)
+	* **Joel suarez** [187724] (0)
 
-		
 		Corri npm test y me aparece esto: Invariant Violation: Could not find “store” in either the context or props of “Connect(Portada)”. Either wrap the root component in a <Provider>, or explicitly pass “store” as a prop to “Connect(Portada)”.
 
-	* **Joel suarez** (4)
+	* **Joel suarez** [187724] (4)
 
-		
 		tan sencillo como no dejar espacios en: <Provider store={store}><App /></Provider>, solo por tenerlo <Provider store={store}><App /> </Provider> me salia error. Encontre en stackoverflow que nunca debe tener espacios. Por si a alguien le pasa, ya saben =).
 
-	* **Izael Ruelas Garcia** (0)
+	* **Izael Ruelas Garcia** [187724] (0)
 
-		
 		Si estas siguiendo tal cual los pasos, lo único que veo diferente es que tu tienes <App /> en lugar de <Invie />
 		
 		Otra cosa podrían ser que se te este escapando cerrar algunas llaves, para eso cuando yo de verdad ya no encuentro el problema descargo el código que sube Platzi con el proyecto para realizar la comparación.
 
-* **Juan Luis Rojas León** (0)
+* **Juan Luis Rojas León** (0) [186684](https://platzi.com/comentario/186684/) 
 
-	
 	Tengo una duda con Redux.  
 	¿Hay algo que React no pueda resolver por si solo?  
 	Y tenga que utilizar Redux para suplementar lo que no se pudo hacer con React.
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [186684] (2)
 
-		
 		Hay muchas cosas que React no resuelve solo, pero en el caso de redux es una mejor forma de manejar el estado de la aplicación haciéndola global, pero sin duda puedes hacerlo React colo con el context.
 
-	* **Martin Emanuel Gonzalez** (1)
+	* **Martin Emanuel Gonzalez** [186684] (1)
 
-		
 		buena consulta
 
-* **Carlos Andrés Millan Satizabal** (0)
+* **Carlos Andrés Millan Satizabal** (0) [178549](https://platzi.com/comentario/178549/) 
 
-	
 	Me sale el siguiente error:
 	
 	Failed to compile  
@@ -31900,22 +28519,19 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	
 	Que podrá ser?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [178549] (1)
 
-		
 		Comparte el código de Portada.js y si estas usando webpack también la configuración, al parecer no estas transpilando el código de manera correcta y esta es la posible causa del error.
 
-	* **Carlos Andrés Millan Satizabal** (0)
+	* **Carlos Andrés Millan Satizabal** [178549] (0)
 
-		
 		Hola GOLLUM23, acabé de revisar de nuevo y es que tenía problemas con unas llaves, ahora ya funciona. Que vergüenza!!!
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [178549] (1)
 
-		
 		sabía que tenía que ser un typo
 
-## 0380. Animando las guitarras
+## 0380. Animando las guitarras [6856](https://platzi.com/clases/1103-animaciones-web/6856-animando-las-guitarras/)
 
 ### Descripción:
 
@@ -31926,12 +28542,10 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 
 ### Comentarios:
 
-* **Luis Felipe Silgado Cortázar** (29)
+* **Luis Felipe Silgado Cortázar** (29) [206100](https://platzi.com/comentario/206100/) 
 
-	
 	Por que yo sé que copiar todas esas opacidades de la primera animación es tedioso acá les dejo la primera parte, un pequeño empujón sin resolver todo el ejercicio:
-	``` 
-	    @keyframes flicker {
+	```     @keyframes flicker {
 	      from {
 	        opacity: 0.5;
 	      }
@@ -32026,52 +28640,42 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	    
 	```
 
-	* **Antonio Martínez** (0)
+	* **Antonio Martínez** [206100] (0)
 
-		
 		Gracias!
 
-	* **Alejandro Bracho** (0)
+	* **Alejandro Bracho** [206100] (0)
 
-		
 		jajajajaja de verdad que muchas gracias 😃 😄
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [206100] (1)
 
-		
 		Eres el mejor 😄
 
-	* **Luis Angel José Portillo Arévalo** (1)
+	* **Luis Angel José Portillo Arévalo** [206100] (1)
 
-		
 		Heroe
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [206100] (1)
 
-		
 		Groso!
 
-	* **Mariana Valencia** (1)
+	* **Mariana Valencia** [206100] (1)
 
-		
 		❤️
 
-	* **Juan Enrique García Costas** (1)
+	* **Juan Enrique García Costas** [206100] (1)
 
-		
 		Grande
 
-	* **Jemd** (1)
+	* **Jemd** [206100] (1)
 
-		
 		Gracias Crack
 
-* **racg21** (12)
+* **racg21** (12) [231479](https://platzi.com/comentario/231479/) 
 
-	
 	el NPM de react-addons-css-transition-group lo han cambiado y al importalo ahora es
-	``` 
-	    // New
+	```     // New
 	    import CSSTransitionGroup from'react-transition-group/CSSTransitionGroup';
 	    
 	```
@@ -32079,41 +28683,34 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	aqui les dejo para que lean mas de el  
 	<https://www.npmjs.com/package/react-addons-css-transition-group>
 
-	* **juand_silva** (3)
+	* **juand_silva** [231479] (3)
 
-		
 		Vi la documentación y tienes razón, pero a mi no me funcionó de esa manera, me funcionó con `CSSTransition` sin `Group`:
-		``` 
-		    import { CSSTransition } from 'react-transition-group'
+		```     import { CSSTransition } from 'react-transition-group'
 		    
 		```
 		
 		No supe por qué si la documentación lo dice que debe ser `CSSTransitionGroup`
 
-	* **juand_silva** (4)
+	* **juand_silva** [231479] (4)
 
-		
 		Ya lo supe que pasó hay que instalar la V1 tal como explica la documentación xD.
-		``` 
-		    npm install react-transition-group@1.x --save
+		```     npm install react-transition-group@1.x --save
 		    
 		```
 
-* **rusbel bermúdez rivera** (5)
+* **rusbel bermúdez rivera** (5) [538722](https://platzi.com/comentario/538722/) 
 
-	
 	React ha cambiado, dejo esta nota el 18 de marzo de 2019, si el codigo no te ha funcionado a mi me funciono haciendo lo siguiente.
 	
 	importacion
-	``` 
-	    import { CSSTransition, TransitionGroup } from 'react-transition-group';
+	```     import { CSSTransition, TransitionGroup } from 'react-transition-group';
 	    
 	    
 	```
 	
 	La parte de la transición,
-	``` 
-	    <TransitionGroup>
+	```     <TransitionGroup>
 	    <CSSTransition
 	    key={guitarra.image}
 	    classNames="flicker"
@@ -32134,43 +28731,35 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	
 	<https://github.com/reactjs/react-transition-group/blob/master/Migration.md>
 
-	* **Ian Mande** (1)
+	* **Ian Mande** [538722] (1)
 
-		
 		Gracias me funciono
 
-	* **Jehaann Manzanares** (1)
+	* **Jehaann Manzanares** [538722] (1)
 
-		
 		vengo del futuro 8/05/2019 y me funciona a la perfección con el codigo utilizado por Leonidas.
 		
 		Verifica si no tienes ningun error de escritura.
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [538722] (1)
 
-		
 		Súper! Me ayudó mucho 😃))))
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [646072](https://platzi.com/comentario/646072/) 
 
-	
 	Por si acaso
-	``` 
-	    import { CSSTransitionGroup } from"react-transition-group";
+	```     import { CSSTransitionGroup } from"react-transition-group";
 	    
 	```
 
-* **geovanygomez** (1)
+* **geovanygomez** (1) [856033](https://platzi.com/comentario/856033/) 
 
-	
 	Tuve que parar, tengo un bug y no encuentro la forma de solucionarlo, tomare el curso de react y volvere con un nuevo punto de vista.
 
-* **Beicker** (1)
+* **Beicker** (1) [745392](https://platzi.com/comentario/745392/) 
 
-	
 	No sé por qué pero después de agregar el react-css-group y los componentes correspondientes se me rompió el css y las animaciones no funcionan. Solo la transición del hover.
-	``` 
-	    </div>
+	```     </div>
 	           {/* <videosrc="video/320x240.ogg"></video>  */}
 	           {this.props.guitarras.map((item, index) =>{
 	               return(
@@ -32190,30 +28779,25 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	
 	![localhost_3000_.png](https://static.platzi.com/media/user_upload/localhost_3000_-833450be-cecf-48f3-813b-c1e9edbb6c00.jpg)
 
-	* **Chatamilero** (1)
+	* **Chatamilero** [745392] (1)
 
-		
 		Hola A mi me pasa exactamente igual a la hora de instalar redux y configurarlo en el proyecto el css funciona pero al instalar react-transition-group es cuando se rompe el css tal cual como se ve en tu imagen y nose si eso ocasiona que tambien las animaciones no trabajen y solo funciones lo que configuramos en redux.  
 		Si tu pudiste resolverlo serias tan amable de pasarmelo a mi y a otros con la mismo error.
 
-* **Gregoris** (1)
+* **Gregoris** (1) [723349](https://platzi.com/comentario/723349/) 
 
-	
 	leonidas es uno de lo mejores profesore.
 
-* **Ian Mande** (1)
+* **Ian Mande** (1) [577664](https://platzi.com/comentario/577664/) 
 
-	
 	Jajajajaja Leonidas expresando su falta de interes por Padres de familia
 
-* **Carmen Sánchez Salgado** (1)
+* **Carmen Sánchez Salgado** (1) [505255](https://platzi.com/comentario/505255/) 
 
-	
 	Woow que padre animación, Leonidas eres todo un master! = )
 
-* **Luis Angel Vásquez Nepomuceno** (1)
+* **Luis Angel Vásquez Nepomuceno** (1) [266386](https://platzi.com/comentario/266386/) 
 
-	
 	Hola, espero estén bien.
 	
 	Una pregunta, ¿dónde colocaríamos `will-change: opacity, transform;` ? o ¿no es necesario por tratarse de React?
@@ -32222,40 +28806,34 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	
 	Saludos
 
-	* **Leonidas Esteban Gonzalez** (1)
+	* **Leonidas Esteban Gonzalez** [266386] (1)
 
-		
 		Si es necesario, ponlo en el elemento a animar
 
-* **ivan_acg** (0)
+* **ivan_acg** (0) [302093](https://platzi.com/comentario/302093/) 
 
-	
 	import { CSSTransitionGroup } from ‘react-transition-group’; de esta manera debemos importar correctamente CSSTransitionGroup .
 	
 	<https://github.com/reactjs/react-transition-group/tree/v1-stable>
 
-* **Antonio Martínez** (0)
+* **Antonio Martínez** (0) [214406](https://platzi.com/comentario/214406/) 
 
-	
 	Qué interesante esto de React!  
 	Pero Leonidas, si la imagen que se cargara fuera cogida de una base de datos y la imagen fuera más grande, seguro que no quedaría tan bien. Quiero decir que se rompería el diseño. ¿Esto cómo se controlaría? Gracias.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [214406] (1)
 
-		
 		En el frontend siempre puedes decirle el tamaño de la imagen, puedes por ejemplo decir que la imagen sea del 100% del ancho del contenedor con esto nunca va a tener problemas que se salga.
 
-	* **Antonio Martínez** (0)
+	* **Antonio Martínez** [214406] (0)
 
-		
 		Mi problema es que al rehacer la parte de las guitarras Invie, cogí dos imágenes que se me salen de alto, ,rompiendo todo el diseño. El ancho, no
 
-	* **Juan Carlos Felizzola Vega** (0)
+	* **Juan Carlos Felizzola Vega** [214406] (0)
 
-		
 		Intentaste modificando el height de la imagen en css?
 
-## 0390. Transición en los Cards de Guitarras
+## 0390. Transición en los Cards de Guitarras [6857](https://platzi.com/clases/1103-animaciones-web/6857-transicion-en-los-cards-de-guitarras/)
 
 ### Descripción:
 
@@ -32266,14 +28844,12 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 
 ### Comentarios:
 
-* **Hugo Úbeda** (6)
+* **Hugo Úbeda** (6) [222512](https://platzi.com/comentario/222512/) 
 
-	
 	Hola, a mi no me funciona el efecto de escalado del texto, aquí mi código:
 	
 	Guitarras.jsx
-	``` 
-	    import React, { Component } from'react';
+	```     import React, { Component } from'react';
 	    import { connect } from'react-redux';
 	    import CSSTransitionGroup from'react-addons-css-transition-group';
 	    
@@ -32329,8 +28905,7 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	```
 	
 	animations.css
-	``` 
-	    .fade {
+	```     .fade {
 	    
 	    }
 	    
@@ -32358,52 +28933,43 @@ Failed to compile. ./src/components/Portada.jsx Module not found: Can’t resolv
 	    
 	```
 
-	* **Juan Carlos Felizzola Vega** (1)
+	* **Juan Carlos Felizzola Vega** [222512] (1)
 
-		
 		Qué raro porque el mio está igual, lo único es que no tienes el `transitionLeaveTimeout={300}` pero eso no afecta.  
 		¿Tienes tu código de github para hecharle una revisada y mirar si puedo ayudarte?
 
-	* **Juan Andrés Cuevas** (2)
+	* **Juan Andrés Cuevas** [222512] (2)
 
-		
 		O que mande ScreenShot del error que tiene
 
-* **fabiojcortesr** (3)
+* **fabiojcortesr** (3) [178405](https://platzi.com/comentario/178405/) 
 
-	
 	@leonidasEsteban El transform Rotate de Flicker se sobreescribe con Shake? Ya no se ve más ese efecto
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [178405] (2)
 
-		
 		Si, es mi culpa 😛 pero lo arreglo en las siguientes clases 😉 va quedar tal cual el demo no te preocupes y espera que se pone mejor.
 
-* **Chatamilero** (2)
+* **Chatamilero** (2) [84096](https://platzi.com/comentario/1042823/) 
 hola alguien pudo resolver el rompimiento de css de la clase anterior ya que las animaciones tampoco funcionan al instalar react-transiti...
 
-* **Chatamilero** (1)
+* **Chatamilero** (1) [1042822](https://platzi.com/comentario/1042822/) 
 
-	
 	hola alguien pudo resolver el rompimiento de css de la clase anterior ya que las animaciones tampoco funcionan al instalar react-transition-group --save.?
 	
 	auida gente del futuro!!!
 
-* **Felixmp_a** (1)
+* **Felixmp_a** (1) [536680](https://platzi.com/comentario/536680/) 
 
-	
 	Tengo una duda, no comprendo bien la diferencia entre los tiempos:
 	
 	  * CSSTransitionGroup (transitionEnterTimeout, transitionLeaveTimeout)
 	  * animations.css (Las duraciones de las animaciones y/o transiciones)
 	
-	
-	
 	No comprendo que tiempos corresponden a que cosas, si me pueden apoyar, se los agradecería en el alma ya que ésto es bastante interesante y quiero comprenderlo bien!
 
-	* **Armando Duarte Quiñones** (2)
+	* **Armando Duarte Quiñones** [536680] (2)
 
-		
 		Si aun tienes la duda  
 		transitionEnterTimeout se refiere a la duracion de la animacion al momento de entrar, osea, en el momento que esta empieza
 		
@@ -32411,12 +28977,11 @@ hola alguien pudo resolver el rompimiento de css de la clase anterior ya que las
 		
 		son la duracion de las animacione al principio y al final y si no me equivoco puedes resumirlas usando Timeout={}
 
-* **Felixmp_a** (1)
+* **Felixmp_a** (1) [55014](https://platzi.com/comentario/536680/) 
 Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransitionGroup (transitionEnterTimeout, transitionLeaveTi...
 
-	* **Armando Duarte Quiñones** (2)
+	* **Armando Duarte Quiñones** [55014] (2)
 
-		
 		Si aun tienes la duda  
 		transitionEnterTimeout se refiere a la duracion de la animacion al momento de entrar, osea, en el momento que esta empieza
 		
@@ -32424,14 +28989,12 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		
 		son la duracion de las animacione al principio y al final y si no me equivoco puedes resumirlas usando Timeout={}
 
-* **ivan_acg** (0)
+* **ivan_acg** (0) [302295](https://platzi.com/comentario/302295/) 
 
-	
 	No logre hacer que mi transicion funcionara , de echo habia logrado el efecto de la clase pasada pero en esta no me funciono. Dejo mi codigo , quisiera saber que está mal.
 	
 	Guitarras.jsx
-	``` 
-	    import React, { Component } from'react';
+	```     import React, { Component } from'react';
 	    import { connect } from'react-redux';
 	    import { CSSTransitionGroup } from'react-transition-group';
 	    
@@ -32489,12 +29052,10 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	    
 	```
 
-	* **ivan_acg** (0)
+	* **ivan_acg** [302295] (0)
 
-		
 		animation.css
-		``` 
-		    .flicker{
+		```     .flicker{
 		    
 		        }
 		    .flicker-enter{
@@ -32645,12 +29206,10 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		    
 		```
 
-	* **Abner Paul Ccari Lindo** (1)
+	* **Abner Paul Ccari Lindo** [302295] (1)
 
-		
 		Tu error esta en esta parte, te falto separa por una coma. Me sucedio lo mismo.
-		``` 
-		    .flicker-enter{
+		```     .flicker-enter{
 		    animation-duration: .5s, .7s;
 		    animation-name: flicker , shake;
 		    animation-timing-function: linear , ease-in-out;
@@ -32665,12 +29224,10 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		    
 		```
 
-	* **Abner Paul Ccari Lindo** (1)
+	* **Abner Paul Ccari Lindo** [302295] (1)
 
-		
 		En animation-duration:
-		``` 
-		    .flicker-enter{
+		```     .flicker-enter{
 		    animation-duration: .5s, .7s;
 		    animation-name: flicker , shake;
 		    animation-timing-function: linear , ease-in-out;
@@ -32684,7 +29241,7 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		    
 		```
 
-## 0400. Animación de entrada y salida en la portada
+## 0400. Animación de entrada y salida en la portada [6858](https://platzi.com/clases/1103-animaciones-web/6858-animacion-de-entrada-y-salida-en-la-portada/)
 
 ### Descripción:
 
@@ -32695,17 +29252,14 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 
 ### Comentarios:
 
-* **José Padrón** (8)
+* **José Padrón** (8) [256611](https://platzi.com/comentario/256611/) 
 
-	
 	#TerminandoElCurso
 
-* **hnavarrete** (6)
+* **hnavarrete** (6) [538427](https://platzi.com/comentario/538427/) 
 
-	
 	Para los que lo están haciendo con la versión 2 de **react-transition-group** :
-	``` 
-	    <TransitionGroup>
+	```     <TransitionGroup>
 	    	{!this.props.isAnimatedFromStore &&
 	    		<CSSTransition 
 	        	timeout={{enter:800,exit:800}} 
@@ -32723,41 +29277,34 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	    
 	```
 
-	* **rusbel bermúdez rivera** (2)
+	* **rusbel bermúdez rivera** [538427] (2)
 
-		
 		Se agredece el comentario, en las clases anteriores fue un dolor de cabeza cruzar documentación con la clase
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [538427] (1)
 
-		
 		Genial! A mí me costó trabajo entenderle a los errores que arrojaba
 		
 		Me parece un poco mejor que el condicional vaya afuera del `<TransitionGroup>`
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [508666](https://platzi.com/comentario/508666/) 
 
-	
 	Después de lidiar con varios errores seguimos en carrera! =)
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [416392](https://platzi.com/comentario/416392/) 
 
-	
 	Me siento mejor que cuando inicié
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [646365](https://platzi.com/comentario/646365/) 
 
-	
 	Hubo un problema a la hora de leer `this.props.isAnimated` cuando tenia el valor false, lo que hice fue cambiarlo por un “” que para efectos practicos es lo mismo, y funcionó
 
-* **Juan Enrique García Costas** (1)
+* **Juan Enrique García Costas** (1) [607353](https://platzi.com/comentario/607353/) 
 
-	
 	No me funciona la animación fade en guitarras. Este es mi código. Ayuda Leonidas!
 	
 	guitarras.jsx
-	``` 
-	    import React, {Component} from'react';
+	```     import React, {Component} from'react';
 	    import {connect} from'react-redux';
 	    import CSSTransitionGroup from'react-addons-css-transition-group';
 	    
@@ -32827,8 +29374,7 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	```
 	
 	animations.css
-	``` 
-	    .flicker {
+	```     .flicker {
 	    
 	    }
 	    
@@ -33031,17 +29577,14 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	    
 	```
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [355547](https://platzi.com/comentario/355547/) 
 
-	
 	El ultimo proyecto es lo mejor 😄 ❤️
 
-* **ivan_acg** (1)
+* **ivan_acg** (1) [302320](https://platzi.com/comentario/302320/) 
 
-	
 	index.js de esta clase , funciona la animacion de esta clase , pero no la animacion de la clase anterios , dejo el codigo.
-	``` 
-	    import React from 'react';
+	```     import React from 'react';
 	    import ReactDOM from 'react-dom';
 	    import './css/invie.css';
 	    import './css/animations.css';
@@ -33175,12 +29718,10 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	    
 	```
 
-	* **ivan_acg** (1)
+	* **ivan_acg** [302320] (1)
 
-		
 		Portada.jsx
-		``` 
-		    import React, { Component } from'react';
+		```     import React, { Component } from'react';
 		    import { connect } from'react-redux';
 		    import { CSSTransitionGroup } from'react-transition-group';
 		    
@@ -33234,12 +29775,10 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		    
 		```
 
-	* **ivan_acg** (3)
+	* **ivan_acg** [302320] (3)
 
-		
 		animations.css
-		``` 
-		    .flicker{
+		```     .flicker{
 		    
 		        }
 		    .flicker-enter{
@@ -33426,12 +29965,11 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		    
 		```
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [302320] (1)
 
-		
 		👍
 
-## 0410. Animando el background de la portada
+## 0410. Animando el background de la portada [6859](https://platzi.com/clases/1103-animaciones-web/6859-animando-el-background-de-la-portada/)
 
 ### Descripción:
 
@@ -33442,58 +29980,47 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 
 ### Comentarios:
 
-* **Gabriel Alejandro Nuñez Natera** (13)
+* **Gabriel Alejandro Nuñez Natera** (13) [233381](https://platzi.com/comentario/233381/) 
 
-	
 	Una alternativa para agregar la clase ‘is-animated’ puede ser la siguiente:
-	``` 
-	    className={this.props.isAnimated && `portada background ${this.props.isAnimated}` || 'portada background'}
+	```     className={this.props.isAnimated && `portada background ${this.props.isAnimated}` || 'portada background'}
 	    
 	```
 	
 	De esta forma no se agrega la clase ‘false’ en caso de que `this.props.isAnimated` sea igual a falso. Espero que sea de utilidad, saludos 😃
 
-* **Fabian Gutierrez** (5)
+* **Fabian Gutierrez** (5) [171591](https://platzi.com/comentario/171591/) 
 
-	
 	@leonidasEsteban Gracias, estoy aprendiendo React gracias a ti. Usualmente uso Vue (y me sigue gustando mas), pero para bindear clases, esto me pareció genial!
 
-	* **Leonidas Esteban Gonzalez** (3)
+	* **Leonidas Esteban Gonzalez** [171591] (3)
 
-		
 		Me alegra mucho, ambas son opciones muy populares y mi orientación hacia React es solo por usarlo día a día. Sientete libre de preguntar lo que necesites 😃
 
-* **Pablo Domínguez Durán** (3)
+* **Pablo Domínguez Durán** (3) [638456](https://platzi.com/comentario/638456/) 
 
-	
 	QUE NO PANDA EL CÚNICO
 
-* **Ismael Teixeira** (3)
+* **Ismael Teixeira** (3) [269318](https://platzi.com/comentario/269318/) 
 
-	
 	Que no panda el cúnico! jajajajajaja
 
-* **Daniee** (3)
+* **Daniee** (3) [179126](https://platzi.com/comentario/179126/) 
 
-	
 	Buenas Leonidas, como se escribe en el teclado las comillas que utilizas para combinar textos y las variables en los atributos del className de background ? Un saludo !
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [179126] (4)
 
-		
 		Te refieres a estas ` se llaman backtick y depende de la distribución de tu teclado, en el caso de los teclados en ingles esta al lado izquierdo del número 1.
 
-	* **Alan Santiago** (3)
+	* **Alan Santiago** [179126] (3)
 
-		
 		Yo tengo el teclado en español, la escribo usando **AltGr** con **}**
 
-* **pablojorgeandres** (2)
+* **pablojorgeandres** (2) [508694](https://platzi.com/comentario/508694/) 
 
-	
 	Mi @keyframes quedó un poquito diferente. Igual lo dejo por si alguien quiere comparar…
-	``` 
-	    @keyframes background {
+	```     @keyframes background {
 	      0%{
 	        background-size: 200%;
 	        background-position: center;
@@ -33521,27 +30048,22 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	    
 	```
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [418385](https://platzi.com/comentario/418385/) 
 
-	
 	Yo hice un background con la imagen de The end of Evangelion c:
 
-* **Jesus Sandrea** (2)
+* **Jesus Sandrea** (2) [188488](https://platzi.com/comentario/188488/) 
 
-	
 	Disculpen mi nivel de ignorancia nivel dios, pero como se puede hacer responsive la pagina con react?
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [188488] (2)
 
-		
 		Tal cual y cómo lo vemos en el curso de responsive Design que de hecho usamos este mismo proyecto 😊
 
-* **Uralberto** (1)
+* **Uralberto** (1) [577164](https://platzi.com/comentario/577164/) 
 
-	
 	Hola, comunidad.
-	``` 
-	    function mapStateToProps(state) {
+	```     function mapStateToProps(state) {
 	      return {
 	        logo: state.logoPortada,
 	        menu: state.menu,
@@ -33579,46 +30101,39 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	    
 	```
 
-	* **Uralberto** (3)
+	* **Uralberto** [577164] (3)
 
-		```
-		    <<section id="portada" className={`portada background ${this.props.isAnimated}`}>>
+		```    <<section id="portada" className={`portada background ${this.props.isAnimated}`}>>
 		    
 		```
 		
 		Después de tanto examinar caigo en la cuenta de la línea de código solo funciona si se usa el acento grave (Alt + 96) en vez de la comilla.
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [355549](https://platzi.com/comentario/355549/) 
 
-	
 	Estaba pensando en usar **vue.js** , por que pense que seria muy facil. Pero la verdad es que **React.js** se ve muy interesante 😄
 
-* **Teofilo Rosales Gama** (1)
+* **Teofilo Rosales Gama** (1) [284868](https://platzi.com/comentario/284868/) 
 
-	
 	se puede usar React + bootstrap? para que sea responsive.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [284868] (6)
 
-		
 		Te recomiendo que veas el curso de css grid, ya no es necesario usar bootstrap o foundation por su grilla, puedes construir tu propio sistema de grillas muy sencillo y rápido.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [284868] (1)
 
-		
 		Puedes aplicar el **Curso de Responsive Design** en cualquier proyecto, aunque sea de React 😄
 
-	* **Pablo Domínguez Durán** (1)
+	* **Pablo Domínguez Durán** [284868] (1)
 
-		
 		Sí se puede, pero una versión adaptada. Encuéntrala en <https://react-bootstrap.github.io/>
 
-* **Andrea Torres** (0)
+* **Andrea Torres** (0) [246191](https://platzi.com/comentario/246191/) 
 
-	
 	Cómo puedo saber cuándo ha terminado la animación de un elemento para que empiece la animación de otro elemento? Con javascript era sencillo, pero con react no se cómo hacerlo
 
-## 0420. Multiplicando y animando los corazones
+## 0420. Multiplicando y animando los corazones [6860](https://platzi.com/clases/1103-animaciones-web/6860-multiplicando-y-animando-los-corazones/)
 
 ### Descripción:
 
@@ -33629,169 +30144,138 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (64)
+* **Leonidas Esteban Gonzalez** (64) [171597](https://platzi.com/comentario/171597/) 
 
-	
 	Si llegaste a este punto del curso ya eres eres capaz de recrear experiencias interactivas de multiples formas. Felicitaciones y gracias por ser parte del curso de animaciones para web.
 
-	* **TheGh0st** (0)
+	* **TheGh0st** [171597] (0)
 
-		
 		Ay ! lo máximo… muchas gracias a ti. Excelente curso 😄
 
-	* **andrextor** (0)
+	* **andrextor** [171597] (0)
 
-		
 		grande leonidas se nota el esfuerzo y las ganas en el ultimo minuto de terminar el vídeo (y)
 
-	* **Alejandro Bracho** (0)
+	* **Alejandro Bracho** [171597] (0)
 
-		
 		Es lo mas increible que eh visto gracias a ti, ahora amo la carrera forntend de verdad muchas gracias Leonidas eres lo maximo eres un gran mentor 😃
 
-	* **Alejandro Bracho** (1)
+	* **Alejandro Bracho** [171597] (1)
 
-		
 		PD: Ahora es que me faaaaaaaaaaaaaaaaaaaaaaaalta por aprender mas pero Roma no se construyo en un dia asi que a practicar el resto de mi vida porque esto es lo que deseo que sea ahora mi vida gracias a Leonidas 1000% LOVE FRONTEND
 
-	* **Nagcely Mendoza** (0)
+	* **Nagcely Mendoza** [171597] (0)
 
-		
 		Gracias Leonidas, eres un excelente profesor y ahora me toca practicar y practicar. Felicitaciones.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [171597] (1)
 
-		
 		Nunca pense que llegaria a aprender tanto. En serio gracias, Leonidas 😄
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [171597] (1)
 
-		
 		Eres un gran profesor Leonidas 😄  
 		Saludos desde Perú.
 
-	* **davidricardo** (1)
+	* **davidricardo** [171597] (1)
 
-		
 		Fue un excelente curso pero no es más que el inicio, gracias Leonidas por ser un gran profesor y explicar todo de manera muy clara
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [171597] (1)
 
-		
 		Gracias a ti Leonidas!  
 		Muy buen cursito y muy buena clase en particular 😃
 		
 		⭐️⭐️⭐️⭐️⭐️
 
-	* **Martin Emanuel Gonzalez** (1)
+	* **Martin Emanuel Gonzalez** [171597] (1)
 
-		
 		Gracias estoy muy contento
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [171597] (1)
 
-		
 		Genial el curso.
 
-	* **platzipcimx** (1)
+	* **platzipcimx** [171597] (1)
 
-		
 		Señor Leónidas gracias, es usted un gran maestro, estoy encantado por todo lo aprendido y a seguirle con React.
 
-* **Margarita Jiménez Hernández** (9)
+* **Margarita Jiménez Hernández** (9) [165040](https://platzi.com/comentario/165040/) 
 
-	
 	Gracias! El curso quedo muy completo, cierto sino hubieses puesto React aquí yo no me hubiese aventado ahora a practicar y aprender.  
 	PD. Soy fan de los chistes incidentales porque cuando me estaba enredando rompían el ritmo, me relajaba y seguía 😃
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [165040] (4)
 
-		
 		jajaja que felicidad eres el primero en llegar a este punto. Son incidentales como dices y que bueno que sean gran recurso para no cansarse, sinceramente también me relajaron como profesor.
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [194782](https://platzi.com/comentario/194782/) 
 
-	
 	Felicidades! Tambien me emocione mucho cuando salieron los 100 corazones… #lloraloPapa 😄
 
-* **Enyelber Altube** (4)
+* **Enyelber Altube** (4) [367055](https://platzi.com/comentario/367055/) 
 
-	
 	**De pana este curso esta muy cool ** me falta poco para Certificarme con la carrera… y como he aprendido
 
-* **Erick Neftalí Sarmiento Cortes** (4)
+* **Erick Neftalí Sarmiento Cortes** (4) [184397](https://platzi.com/comentario/184397/) 
 
-	
 	Tengo que practicar mucho pero considero que este curso me termino de enseñar el potencial de CSS, hablando de react tomare el curso completo para adentrarme mas en el. Gracias Leonidas
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [184397] (0)
 
-		
 		Llegaste al gran final, que honor como tu profesor, ahora es momento de tomar el examen 😃
 
-* **33andres33** (3)
+* **33andres33** (3) [818929](https://platzi.com/comentario/818929/) 
 
-	
 	“Elige un trabajo que te guste y no tendrás que trabajar ni un día en tu vida” cuantos nos identificara esta frase, se nota que Leonidas si lo hace.
 
-* **odpinerosh** (3)
+* **odpinerosh** (3) [216077](https://platzi.com/comentario/216077/) 
 
-	
 	Me ha parecido bastante confuso este último módulo de React y Redux. Sin embargo, el curso en general es muy bueno.
 	
 	Gracias.
 
-	* **AyKaren** (0)
+	* **AyKaren** [216077] (0)
 
-		
 		No te preocupes, pronto vienen dos curso que seguro te dan todo el contexto que te ha hecho falta:  
 		<https://platzi.com/cursos/redux/>  
 		<https://platzi.com/cursos/react/>
 
-	* **Juan Barboza** (0)
+	* **Juan Barboza** [216077] (0)
 
-		
 		Te recomiendo realizar el curso a la par que el profesor, luego intentar cambiar cada una de las animaciones probando, hay que romper y arreglar para aprender, siempre probando con console,log o cambiando el backg de los elementos con css. En general me ha funcionado hacer las cosas así.
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (2)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (2) [722836](https://platzi.com/comentario/722836/) 
 
-	
 	Arduo camino hasta acá pero valió la pena!! Gracias Leonidas, eres el mejor!!
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [647485](https://platzi.com/comentario/647485/) 
 
-	
 	amigos llene el event loop 😄  
 	![listo.PNG](https://static.platzi.com/media/user_upload/listo-9bc110f7-21b6-410e-b5f0-c277a0ad2fc9.jpg)
 
-* **Jemd** (1)
+* **Jemd** (1) [1073816](https://platzi.com/comentario/1073816/) 
 
-	
 	Excelente, que emoción este curso
 
-* **Francisca Alejandra Salinas Castillo** (1)
+* **Francisca Alejandra Salinas Castillo** (1) [1050617](https://platzi.com/comentario/1050617/) 
 
-	
 	Gracias Leonidas!!
 
-* **DanielVM19** (1)
+* **DanielVM19** (1) [953521](https://platzi.com/comentario/953521/) 
 
-	
 	Valió la pena! Gracias Leonidas
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [857033](https://platzi.com/comentario/857033/) 
 
-	
 	geniall!!!
 
-* **Beicker** (1)
+* **Beicker** (1) [746442](https://platzi.com/comentario/746442/) 
 
-	
 	Acabo de aprender algo que tal vez olvidé del curso de React. Los componentes que solo tienen una función que devuelve algún elemento no pueden recibir props.
 	
 	Mi código era el siguiente:
-	``` 
-	    functionHeart(){
+	```     functionHeart(){
 	    	return(
 	    	<divclassName="like is-liked"style={this.props.style}></div>
 	    )
@@ -33801,14 +30285,12 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 	
 	En el curso de React aprendí que es mejor usar funciones en vez de clases cuando el componente no hace más que devolver un elemento sin hacer cambios de estado. Pero ahora acabo de aprender que de esta manera no pueden recibir props, así que es otra cosa a considerar.
 
-* **Esau Rosales** (1)
+* **Esau Rosales** (1) [671545](https://platzi.com/comentario/671545/) 
 
-	
 	Como cambio el color de fondo del body?
 
-	* **eduardoluisgr** (1)
+	* **eduardoluisgr** [671545] (1)
 
-		
 		body {  
 		background-color: #000;  
 		}  
@@ -33817,154 +30299,127 @@ Tengo una duda, no comprendo bien la diferencia entre los tiempos: CSSTransition
 		background-image: url(<http://ejemplo.com/imagenejemplo.jpg>);  
 		}
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [638509](https://platzi.com/comentario/638509/) 
 
-	
 	A los cuántos corazones crashean su compu? :3
 
-* **Gabriel Andreí Barceló Alfaro** (1)
+* **Gabriel Andreí Barceló Alfaro** (1) [600853](https://platzi.com/comentario/600853/) 
 
-	
 	Gran curso Leonidas!!
 
-* **Mariana Valencia** (1)
+* **Mariana Valencia** (1) [573038](https://platzi.com/comentario/573038/) 
 
-	
 	Me encanta cómo Leonidas a pesar de saber que le saldría se sigue emocionando cuando ve los resultados. Un verdadero apasionado 😄
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [540167](https://platzi.com/comentario/540167/) 
 
-	
 	Me siento feliz de terminar este proyecto, agradezo al profesor Leonidas Esteban por tan chevere proyeto. Espero seguir aprendiendo.
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [356275](https://platzi.com/comentario/356275/) 
 
-	
 	Esto esta genial ❤️ 😮
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [356267](https://platzi.com/comentario/356267/) 
 
-	
 	Yo lo habia solucionado con **opacity: 0** en el estado inicial y **opacity: 1** al inicio y final de la animacion de movimiento 😄
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [348353](https://platzi.com/comentario/348353/) 
 
-	
 	Alguna idea de como cambiar el icono de React en la página por uno que yo escoja?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [348353] (2)
 
-		
 		Cambias el archivo favicon.ico.
 
-	* **Juan Andrés Cuevas** (1)
+	* **Juan Andrés Cuevas** [348353] (1)
 
-		
 		Gracias!!
 
-	* **Juan Andrés Cuevas** (1)
+	* **Juan Andrés Cuevas** [348353] (1)
 
-		
 		Ahora otra pregunta, disculpen las molestias, ¿Cómo hago un icono?😅
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [348353] (2)
 
-		
 		Puedes usar esta app <https://www.favicon-generator.org/> que te permite subir una imagen y convertirla en icono, por lo general se usa el logo de tu servicio o producto.
 
-	* **Juan Andrés Cuevas** (1)
+	* **Juan Andrés Cuevas** [348353] (1)
 
-		
 		Gracias!!! ademas para poder hacer el logo de la empresa les recomendaria tomar el [Curso de Illustrator](https://platzi.com/clases/illustrator/) que ofrece Platzi
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [348353] (1)
 
-		
 		Yo los diseño con **Inkscape** solo que no hay curso de Inkscape en Platzi por que **Illustrator** es mas profesional y el que se deberia usar 😄
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [348352](https://platzi.com/comentario/348352/) 
 
-	
 	Cómo podría hacer responsive esta página? De la misma manera que un HTML normal?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [348352] (1)
 
-		
 		No entiendo tu pregunta, puedes ser más claro.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [348352] (1)
 
-		
 		En el curso de **Responsive Design** se enseña 😄
 		
 		Es igual en una pagina normal que en **React.js**
 
-* **Juan Barboza** (1)
+* **Juan Barboza** (1) [241781](https://platzi.com/comentario/241781/) 
 
-	
 	Este curso es demasiado genial, ❤️ React; ❤️ platzi
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [38829](https://platzi.com/comentario/348353/) 
 Alguna idea de como cambiar el icono de React en la página por uno que yo escoja?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [38829] (2)
 
-		
 		Cambias el archivo favicon.ico.
 
-* **Juan Andrés Cuevas** (1)
+* **Juan Andrés Cuevas** (1) [38828](https://platzi.com/comentario/348352/) 
 Cómo podría hacer responsive esta página? De la misma manera que un HTML normal?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [38828] (1)
 
-		
 		No entiendo tu pregunta, puedes ser más claro.
 
-* **Luis Felipe Silgado Cortázar** (0)
+* **Luis Felipe Silgado Cortázar** (0) [209931](https://platzi.com/comentario/209931/) 
 
-	
 	Una duda, si yo quisiera publicar este proyecto en github queda funcionando como lo tenemos? digo la parte del npm start me tiene como pensativo.
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [209931] (0)
 
-		
 		En este caso no es tan fácil por create-react-app peeeero en [now.sh](http://now.sh) si es muuuy fácil. mira el curso y veras que es tan fácil como arrastrar la carpeta al servicio. <https://platzi.com/cursos/deploy-now/>
 
-	* **Leonidas Esteban Gonzalez** (0)
+	* **Leonidas Esteban Gonzalez** [209931] (0)
 
-		
 		véase <http://invie.now.sh/>
 
-* **Hebert  lughi villafuerte ccacala** (0)
+* **Hebert  lughi villafuerte ccacala** (0) [208291](https://platzi.com/comentario/208291/) 
 
-	
 	ya entiendo como facebook. nos bota animaciones cuando escribimos xoxo :V
 
-* **Luis Felipe Silgado Cortázar** (0)
+* **Luis Felipe Silgado Cortázar** (0) [206442](https://platzi.com/comentario/206442/) 
 
-	
 	Aunque a mi la verdad me gusta que la animación move quede con iteration-count: infinite y menos corazones.
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (0)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [206442] (0)
 
-		
 		jejeje todo es cuestión de gustos, muestranos como te quedó…
 
-## 0430. Cierre del Curso
+## 0430. Cierre del Curso [6861](https://platzi.com/clases/1103-animaciones-web/6861-cierre-del-curso7748/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Leonidas Esteban Gonzalez** (18)
+* **Leonidas Esteban Gonzalez** (18) [171599](https://platzi.com/comentario/171599/) 
 
-	
 	¿Qué te gustaría aprender o que ejemplo te gustaría desarrollar en una próxima clase? cuéntame y mientras hago eso realidad te dejo el último reto: ¡Aprueba el examen! está diseñado para que sea interactivo y pongas TODOS tus conocimientos a prueba.
 
-	* **Juan Luis Rojas León** (5)
+	* **Juan Luis Rojas León** [171599] (5)
 
-		
 		Un poco mas sobre animaciones con React.js  
 		La versión que se utilizó en el curso está viejita, hay una versión mas nueva.
 		
@@ -33973,9 +30428,8 @@ Cómo podría hacer responsive esta página? De la misma manera que un HTML norm
 		Excelente curso Leonidas.  
 		Saludos
 
-	* **Fabián Nava Pereda** (4)
+	* **Fabián Nava Pereda** [171599] (4)
 
-		
 		Busque por todos lados en Platzi y no sé que debo aprender para hacer animaciones como las de Google Hire:  
 		[https://hire.google.com/](url)
 		
@@ -33990,42 +30444,35 @@ Cómo podría hacer responsive esta página? De la misma manera que un HTML norm
 		Algo como esta:[http://www.nurturedigital.com/](url)  
 		No estoy seguro de que como lo hicieron al parece son videos, pero estaría bueno saber que aprender para lograr esos efectos con el video.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [171599] (1)
 
-		
 		@fabiansillo_0 Esas animaciones estan increibles, deben costar mucho trabajo pero son geniales. Leonidas, deberias hacer alguna clase enseñando a hacer animaciones asi 😄
 
-	* **pablojorgeandres** (1)
+	* **pablojorgeandres** [171599] (1)
 
-		
 		Leonidas el curso fue genial, un muy buen panorama para lo que se puede hacer con animaciones!  
 		Así que muchas gracias nuevamente.  
 		Sería interesante algún curso avanzado que sea directamente un proyecto en el que se cree una aplicación web paso a paso y se incluyan tanto conocimientos de CSS como de JavaScript y estas librerías o también Vue o Angular.
 
-	* **Uralberto** (1)
+	* **Uralberto** [171599] (1)
 
-		
 		Gracias, Leonidas E.  
 		Sigo en el camino, mantengo la voluntad de seguir aprendiendo. Y eso es mas que bastante.
 
-* **Tlacaelel León Villaseñor** (6)
+* **Tlacaelel León Villaseñor** (6) [642882](https://platzi.com/comentario/642882/) 
 
-	
 	Comparto esa reaccion del minuto 00:03
 
-* **Christian Michelle Torres Martínez** (5)
+* **Christian Michelle Torres Martínez** (5) [187157](https://platzi.com/comentario/187157/) 
 
-	
 	Excelente curso, excelente maestro, gracias por compartir tu conocimiento Leonidaz, aún creo que me falta mucho en el camino de react pero me encuentro motivado, solo tengo una duda a lo mejor muy tonta pero la tengo jeje, supongamos que este proyecto lo quiero subir a un servidor propio que debo hacer para que funcione react tal como lo hice localmente?
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [187157] (5)
 
-		
 		El deploy merece un curso propio ya que hay multiples retos que tendrás en el camino, sin duda hay opciones muy muy faciles para trabajar y hacer un deploy. Este proyecto de hecho fue subido a now <https://zeit.co/now> y es tan fácil como instalarlo y subirlo a gh pages, échale un ojo y veras lo fácil que es.
 
-* **Luis Fernando Valladares Castro** (4)
+* **Luis Fernando Valladares Castro** (4) [551804](https://platzi.com/comentario/551804/) 
 
-	
 	Hola a todos, soy un viejo alumno del curso y deseo compartirles una **Guia de Animaciones para la Web** basada en los conocimientos adquiridos en este curso con definiciones y excelentes ejemplos.
 	
 	La guía cuenta con una **Pagina Web Demostrativa** , la cual, integra la mayoría de las animaciones diseñadas a lo largo del curso.
@@ -34036,16 +30483,12 @@ Cómo podría hacer responsive esta página? De la misma manera que un HTML norm
 	**Pagina Web:**<https://luisvalladaresc.github.io/animaciones-css/>  
 	![](https://static.platzi.com/media/porfilio/css-animaciones_9ea16b8e-bd81-4c06-9563-0479ff047e5a.PNG)
 
-* **JuanDAC** (4)
+* **JuanDAC** (4) [452623](https://platzi.com/comentario/452623/) 
 
-	
 	Les comparto un proyecto para englobar todos los proyectos del curso exceptuando los de React [Juego en CSS Duck Hunt aquí](https://juandac.github.io/css/index.html) Funciona solo en escritorio (Desktop), no tiene ni una linea de JS, Me gustaria resivir su feedback, ¿Que les parece el juego y el codigo?
 	
 	  * HTML (index.html)
-	
-	
-	``` 
-	    <html>
+	```     <html>
 	    	<head>
 	    		<title>Duck Hunt</title>
 	        <link rel="stylesheet" href="css/master.css">
@@ -34107,10 +30550,7 @@ Cómo podría hacer responsive esta página? De la misma manera que un HTML norm
 	```
 	
 	  * CSS (css/master.css)
-	
-	
-	``` 
-	    body
+	```     body
 	    {
 	        background-color:#dafdaf;
 	        display:flex;
@@ -35043,19 +31483,16 @@ Cómo podría hacer responsive esta página? De la misma manera que un HTML norm
 	    
 	```
 
-	* **JuanDAC** (1)
+	* **JuanDAC** [452623] (1)
 
-		
 		Los _reto_ a subir un pantallazo de su pontaje Máximo \^-^/ ![LoLogre.png](https://static.platzi.com/media/user_upload/LoLogre-c7ca8e2c-0f4c-4a9f-a0f6-e9d45f41390c.jpg)
 
-* **Margarita Jiménez Hernández** (4)
+* **Margarita Jiménez Hernández** (4) [165038](https://platzi.com/comentario/165038/) 
 
-	
 	¿Es posible añadir librerías a react? ¿Qué detalles tendríamos que cuidar?
 
-	* **Leonidas Esteban Gonzalez** (4)
+	* **Leonidas Esteban Gonzalez** [165038] (4)
 
-		
 		Claro, esta parte de React es muy superficial aquí <https://platzi.com/clases/react/> aprendes en profundidad la librería.  
 		A tu pregunta, claro que puedes añadirle librerías por ejemplo  
 		• <https://react-bootstrap.github.io/> bootstrap  
@@ -35064,107 +31501,88 @@ Cómo podría hacer responsive esta página? De la misma manera que un HTML norm
 		
 		Lo que tu quieras.
 
-* **33andres33** (3)
+* **33andres33** (3) [818930](https://platzi.com/comentario/818930/) 
 
-	
 	solo mire los videos primero me gustaria aprender React y la carrera de Javascript asi entendere mucho mejor y realizare este proyecto con mas agrado
 
-* **_toniokj_** (3)
+* **_toniokj_** (3) [441845](https://platzi.com/comentario/441845/) 
 
-	
 	Tengo una una pregunta, se debe pasar toda una pagina web a react para tener un efecto o solo la parte que deseamos tener el easter eggs?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [441845] (1)
 
-		
 		No, claro que no. los efectos, animaciones, etc… son propias de CSS y JS. Eso quiere decir que son transversales y puedes aplicarlas en cualquier framework/libreria.
 
-* **David Alejandro Mosquera Moreno** (2)
+* **David Alejandro Mosquera Moreno** (2) [830069](https://platzi.com/comentario/830069/) 
 
-	
 	Que gran curso. Para mi el mejor easter egg fue encontrar que haríamos animaciones tan avanzadas con React.
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [356282](https://platzi.com/comentario/356282/) 
 
-	
 	De los mejores cursos B)
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [1005361](https://platzi.com/comentario/1005361/) 
 
-	
 	¿Con qué curso recomiendan seguir después ?
 
-* **nova12** (1)
+* **nova12** (1) [866379](https://platzi.com/comentario/866379/) 
 
-	
 	cursu super genial!!!
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [722837](https://platzi.com/comentario/722837/) 
 
-	
 	Gracias Leonidas! Eres un excelente profesor. Disfruto y aprendo mucho con tus cursos!
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [639618](https://platzi.com/comentario/639618/) 
 
-	
 	Hola 😃 Les comparto el proyecto terminado: <https://pablomdd.github.io/invie-EasterEgg/>
 
-* **Juan Enrique García Costas** (1)
+* **Juan Enrique García Costas** (1) [608384](https://platzi.com/comentario/608384/) 
 
-	
 	Por favor, existe algún curso para aprender sobre el deploy de proyectos en React? Gracias
 
-	* **Pablo Domínguez Durán** (2)
+	* **Pablo Domínguez Durán** [608384] (2)
 
-		
 		Si quieres darle hacerle deploy con gh-pages te dejo este tutorial: <https://github.com/gitname/react-gh-pages>
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [356281](https://platzi.com/comentario/356281/) 
 
-	
 	Yo tome el examen antes de hacer el ultimo proyecto 😄
 
-	* **Enyelber Altube** (2)
+	* **Enyelber Altube** [356281] (2)
 
-		
 		somos dos ejjeje
 
-* **Anthony Gonzalez** (1)
+* **Anthony Gonzalez** (1) [189320](https://platzi.com/comentario/189320/) 
 
-	
 	hola, alguien me podria decir como podria lograr el efecto de scroll que tiene esta pagina [](http://littleflyers.vic.edu.au/)
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [189320] (2)
 
-		
 		Se llama Parallax, hay una clase en el curso de desarrollo web por si quieres echarle un ojo.
 
-* **jobanagaravito** (1)
+* **jobanagaravito** (1) [67373](https://platzi.com/comentario/722055/) 
 Hola, quisiera saber que librería me recomiendan para manipular 3d, poder manipular texturas desde el front a un modelado, y usar camaras...
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [67373] (1)
 
-		
 		¡Hola! Para manipulaciones de objectos 3D te recomiendo [three.js](https://threejs.org/)
 
-* **JuanDAC** (1)
+* **JuanDAC** (1) [48243](https://platzi.com/comentario/452623/) 
 Les comparto un proyecto para englobar todos los proyectos del curso exceptuando los de React 
 
-	* **JuanDAC** (1)
+	* **JuanDAC** [48243] (1)
 
-		
 		Los _reto_ a subir un pantallazo de su pontaje Máximo \^-^/ ![LoLogre.png](https://static.platzi.com/media/user_upload/LoLogre-c7ca8e2c-0f4c-4a9f-a0f6-e9d45f41390c.jpg)
 
-* **_toniokj_** (1)
+* **_toniokj_** (1) [47362](https://platzi.com/comentario/441845/) 
 Tengo una una pregunta, se debe pasar toda una pagina web a react para tener un efecto o solo la parte que deseamos tener el easter eggs?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [47362] (1)
 
-		
 		No, claro que no. los efectos, animaciones, etc… son propias de CSS y JS. Eso quiere decir que son transversales y puedes aplicarlas en cualquier framework/libreria.
 
-* **Juan Barboza** (0)
+* **Juan Barboza** (0) [241804](https://platzi.com/comentario/241804/) 
 
-	
 	muy, pero muy , pero muy buen curso, felicitaciones Leonidas!
 

@@ -1,6 +1,8 @@
-# Introducción a JavaScript
+[Curso Básico de JavaScript 1814](https://platzi.com/cursos/basico-javascript)
 
-## 0010. ¿Qué es JavaScript
+# Introducción a JavaScript [5328]
+
+## 0010. ¿Qué es JavaScript [26290](https://platzi.com/clases/1814-basico-javascript/26290-que-es-javascript/)
 
 ### Descripción:
 
@@ -11,48 +13,42 @@
 
 ### Comentarios:
 
-* **Sneyder Alfonso Barreto Buitrago** (22)
+* **Sneyder Alfonso Barreto Buitrago** (22) [1004606](https://platzi.com/comentario/1004606/) 
 
-	
 	Los invito a leer la serie de libros de **_You Don’t Know JS Yet_** por Kyle Simpson. En el primer libro llamado “ _Get Started_ ”, habla a fondo sobre estos temas. En su [repositorio en GitHub](https://github.com/getify/You-Dont-Know-JS) lo pueden leer de manera gratuita.  
 	**Al que le interese:** Hago parte de una comunidad llamada _CodeBookClub_ , actualmente estamos leyendo el primer libro y discutimos semanalmente acerca de un capitulo leído, entre otras cosas.  
 	Les dejo un enlace a mi [repositorio en GitHub](https://github.com/sneyderdev/codebookclub-resources) en donde podrán encontrar algunos recursos que compartimos dentro de la comunidad, así como también información por si quieren unirse.  
 	Espero esto les sea de ayuda, un saludo.
 
-	* **adersonrangel** (1)
+	* **adersonrangel** [1004606] (1)
 
-		
 		Excelente aporte.
 
-	* **lmoran** (1)
+	* **lmoran** [1004606] (1)
 
-		
 		Muy buen aporte, me está sirviendo para profundizar conceptos.
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [1004606] (1)
 
-		
 		Muchas Gracias.
 
-* **Karla Agraz** (10)
+* **Karla Agraz** (10) [998995](https://platzi.com/comentario/998995/) 
 
+	* Orientado a objetos: Se genera un objeto llamado usuarios y cada una de las personas que se registren en la aplicación va a ser usuario de este objeto de esta base de datos. Cada usuario va a tener ciertas particularidades como nombre, apellido, sexo, ciudad, etc; todos estos datos quedaran guardados en el usuario.
 	
-	  * Orientado a objetos: Se genera un objeto llamado usuarios y cada una de las personas que se registren en la aplicación va a ser usuario de este objeto de esta base de datos. Cada usuario va a tener ciertas particularidades como nombre, apellido, sexo, ciudad, etc; todos estos datos quedaran guardados en el usuario.
-	
-	  * Débilmente tipado: JavaScript puede asumir operaciones matemáticas con strings y booleanos, te regresará un número. En otros lenguajes de programación fuertemente tipados puede aparecer un error en este tipo de operaciones raras.
+	* Débilmente tipado: JavaScript puede asumir operaciones matemáticas con strings y booleanos, te regresará un número. En otros lenguajes de programación fuertemente tipados puede aparecer un error en este tipo de operaciones raras.
 	
 	
 	
 	
 	Compilación: Cuando trabajamos en nuestro programa debemos mandarlo a una etapa de compilación para saber si funciona o no, en donde se traduce lo que estas haciendo en un lenguaje que entiendas como humano a un lenguaje que la máquina pueda entender (código binario).
 	
-	  * Dinámico: Solo lo abres en el navegador. No tienes que compilarlo para saber si funciona o no.
+	* Dinámico: Solo lo abres en el navegador. No tienes que compilarlo para saber si funciona o no.
 	
 	
 
-* **lmoran** (9)
+* **lmoran** (9) [1012965](https://platzi.com/comentario/1012965/) 
 
-	
 	**BACKWARDS & FORWARDS**
 	
 	**FORWARDS:** Ser compatible con versiones futuras significa que incluir una adición al lenguaje en un programa no causaría que se rompa si se ejecuta en un motor JS anterior. JavaScript no es compatible con versiones futuras.
@@ -64,44 +60,36 @@
 	Por lo general, los problemas de compatibilidad hacia adelante relacionados con la sintaxis se resuelven utilizando un COMPILADOR (el más común es **Babel** ( <https://babeljs.io> )) para convertir de esa nueva versión de sintaxis JS a una sintaxis más antigua equivalente.  
 	**BABEL:** traduce esas nuevas versiones de JavaScript a versiones anteriores.
 
-* **Carlos Eduardo Diaz Polanco** (7)
+* **Carlos Eduardo Diaz Polanco** (7) [1009179](https://platzi.com/comentario/1009179/) 
 
-	
 	En resumen, JavaScript es un lenguaje Interpretado, Orientado a Objetos, debilmente Tipado, Dinamico y compilado.
 
-	* **urieelmm** (2)
+	* **urieelmm** [1009179] (2)
 
-		
 		Agregaría que es case Sensitive (diferencia minúsculas de mayúsculas)
 
-* **picojohn** (5)
+* **picojohn** (5) [1067000](https://platzi.com/comentario/1067000/) 
 
-	
 	a aprender javascript aprovechando la cuarentena 😃
 
-	* **luisP** (3)
+	* **luisP** [1067000] (3)
 
-		
 		No te imaginas cuantos más estamos en la misma 😉
 
-	* **Ralph** (2)
+	* **Ralph** [1067000] (2)
 
-		
 		100% cierto
 
-	* **luisP** (2)
+	* **luisP** [1067000] (2)
 
-		
 		ya voy por la clase 8 😃
 
-	* **Juan José Vega Quintero** (3)
+	* **Juan José Vega Quintero** [1067000] (3)
 
-		
 		X5
 
-* **iridian** (5)
+* **iridian** (5) [1015790](https://platzi.com/comentario/1015790/) 
 
-	
 	WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOW excelente explicación pude entender mejor que es:  
 	**orientado a objetos, **  
 	**lenguaje débilmente tipado y dinámico **  
@@ -110,28 +98,24 @@
 	
 	Gracias. 😄
 
-* **Jose Hidalgo** (5)
+* **Jose Hidalgo** (5) [997278](https://platzi.com/comentario/997278/) 
 
-	
 	Veo q este curso habla de alguna cosas que no están en el curso de Fundamentos de JavaScript.  
 	Que bueno que se complementen
 
-	* **Japheth Calzada López** (1)
+	* **Japheth Calzada López** [997278] (1)
 
-		
 		El de fundamentos de Sasha lo sentí algo extenso, o bueno en lo personal me perdia un poco
 
-* **Juan Esteban Galvis** (4)
+* **Juan Esteban Galvis** (4) [1041517](https://platzi.com/comentario/1041517/) 
 Empecé este curso para reforzar mis conocimientos, y en una clase me cambio muchas cosas jaja No sabía que JavaScript es considerado orientado a objetos como Java. Les recomiendo de curso de orientada a objetos de @anncode Y lo de compilado, porque aunque el programador no es el encargado de compilar si se realiza todo ese proceso. Se ve que será un gran curso!
 
-	* **Aaron Gonzalez (Platzi)** (2)
+	* **Aaron Gonzalez (Platzi)** [1041517] (2)
 
-		
 		Y espera a que vayas por los demás cursos como EcmaScript o Asincronismo, son muy precisos y te dan un contexto muy avanzado de JS 😄
 
-* **TecnoDesign Paraguay** (4)
+* **TecnoDesign Paraguay** (4) [1000189](https://platzi.com/comentario/1000189/) 
 
-	
 	 **Backwards y Forwards**  
 	**Forwards:** Ser compatible con versiones futuras significa que incluir una adición al lenguaje en un programa no causaría que se rompa si se ejecuta en un motor JS anterior. JS no es compatible con versiones futuras.
 	
@@ -140,137 +124,112 @@ Empecé este curso para reforzar mis conocimientos, y en una clase me cambio muc
 	**¿Como puedo utilizar las nuevas versiones de JS?**  
 	Babel: Compilador de JS que te permite utilizar todas las funciones o módulos de JS en tu entorno de trabajo para que puedas utilizarlas. Es una buena practica cuando, si van saliendo nuevas versiones de JS, ya empieces a usarlas porque trae muchas mejoras y BABEL te ayuda, lo que hace es que traduce esa nueva versión de JS a una versión vieja “estándar” que el navegador entiende y así puedas implementarlas en tu entorno de trabajo.
 
-* **vickiavola** (4)
+* **vickiavola** (4) [998929](https://platzi.com/comentario/998929/) 
 
-	
 	Me fascino ésta clase
 
-* **Kendy Valladolid** (3)
+* **Kendy Valladolid** (3) [1079051](https://platzi.com/comentario/1079051/) 
 
-	
 	uno más para la carrera de FrontEnd combinado con Diseño UI/UX 🙈❤👩‍💻
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (1)
+	* **Juan Felipe Peralta Zapata (Platzi)** [1079051] (1)
 
-		
 		¡Genial! ¿Ya terminaste el curso? ¿Qué tal te ha parecido? 😄
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1079051] (1)
 
-		
 		Qué tal los de UI/UX?
 
-* **Javier Andres Gamboa Duarte** (3)
+* **Javier Andres Gamboa Duarte** (3) [1050863](https://platzi.com/comentario/1050863/) 
 
-	
 	Iba comenzar el curso profesional de JS, pero vi que adicionaron este curso a la ruta de JS, muy bien explicado…
 
-	* **Manuel Mosquera** (1)
+	* **Manuel Mosquera** [1050863] (1)
 
-		
 		igual yo !!!
 
-* **Cesar Octavio de Jesús Meza Carrillo** (3)
+* **Cesar Octavio de Jesús Meza Carrillo** (3) [1003494](https://platzi.com/comentario/1003494/) 
 
-	
 	Me parece muy bien este curso para empezar! Saludos!!
 
-* **Oscar Galicia** (3)
+* **Oscar Galicia** (3) [997431](https://platzi.com/comentario/997431/) 
 
-	
 	Parece que es un excelente complemento al curso de Fundamentos de Javascript con Sacha, estoy contento de hacer este curso.
 
-* **Merlyn Rodriguez** (3)
+* **Merlyn Rodriguez** (3) [997172](https://platzi.com/comentario/997172/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Camilo Alexander Velandia Velandia** (3)
+* **Camilo Alexander Velandia Velandia** (3) [997105](https://platzi.com/comentario/997105/) 
 
-	
 	vamos, llevaba dias esperando que estuviera disponible este curso
 
-* **matias-alexander-ibarra-trujil** (3)
+* **matias-alexander-ibarra-trujil** (3) [997095](https://platzi.com/comentario/997095/) 
 
-	
 	lo estaba esperando profe
 
-* **Ignacio_Damanes** (3)
+* **Ignacio_Damanes** (3) [82236](https://platzi.com/comentario/1000834/) 
 Alguien me puede explicar que hace este curso casi al final de la carrera de Javascript por favor? Enserio necesito aclarar esa duda, por...
 
-	* **mbautista95** (1)
+	* **mbautista95** [82236] (1)
 
-		
 		Pregunta al soporte de Platzi en “Contáctanos”, probablemente es un error, ya que si te van a dar las bases, debería estar al principio.  
 		Lo mismo pasaba con el curso antiguo de Wordpress de la carrera de desarrollo web con Wordpress, uno de los cursos finales, que se llamaba creación y optimización de sitios web con Wordpress, no requería que escribieras ni una sola línea de código, los primeros cursos te enseñaban html, css, php, bases de datos, creación de plugins.  
 		Ese curso debía estar al principio en términos de dificultad de aprendizaje.
 
-* **John Steven Bernal Gonzalez** (2)
+* **John Steven Bernal Gonzalez** (2) [1103067](https://platzi.com/comentario/1103067/) 
 
-	
 	Alguna información sobre Backwars & Forwards ?
 
-* **Brais Oliveira Sanjurjo** (2)
+* **Brais Oliveira Sanjurjo** (2) [1073276](https://platzi.com/comentario/1073276/) 
 
-	
 	Hasta donde yo sé [bytecode](https://es.wikipedia.org/wiki/Bytecode) es un código intermedio entre el lenguaje de alto nivel y de [código binario](https://es.wikipedia.org/wiki/C%C3%B3digo_binario) (también llamado código máquina). No sé si JavaScript utiliza bytecode como Java, pero bytecode no es código binario.  
 	Ruego se me corrija si me equivoco en algo, gracias!
 
-	* **Rabi Leonel Leon Chan** (2)
+	* **Rabi Leonel Leon Chan** [1073276] (2)
 
-		
 		Hola Hermano, me encontré esta fuente de [bytecode](https://www.ecured.cu/Bytecode), donde explica lo siguiente :  
 		_Código intermedio más abstracto que el código máquina. Habitualmente es tratado como un archivo binario que contiene un programa ejecutable similar a un módulo objeto, que es un archivo binario producido por el compilador cuyo contenido es el código objeto o código máquina._
 
-	* **Milton Enríquez Torres** (2)
+	* **Milton Enríquez Torres** [1073276] (2)
 
-		
 		Tengo entendido que no, el bytecode únicamente es usado por los lenguajes que requieren maquina virtual como Java o Kotlin.
 
-	* **Brais Oliveira Sanjurjo** (1)
+	* **Brais Oliveira Sanjurjo** [1073276] (1)
 
-		
 		Gracias por el esfuerzo, me apunto esta frase de la documentación que aportada “muchos lenguajes interpretados, de hecho, se compilan para convertirlos en bytecode y después son ejecutados por un intérprete de bytecode” porque ahora tengo dos referencias que afirman eso y puedo tirar del hilo a ver a donde lleva. De otro modo podía ser un simple despiste del profesor.
 
-* **Alexander Nova Arevalo** (2)
+* **Alexander Nova Arevalo** (2) [1050888](https://platzi.com/comentario/1050888/) 
 
-	
 	Pense Omitir esl curso pero, desaprende lo aprendido y aprenderas mejor 😄
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (1)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [1050888] (1)
 
-		
 		Siempre es una buena idea repasar las bases, son los cimientos de todo lo que hagamos después 😉
 
-* **SebastianMelo7** (2)
+* **SebastianMelo7** (2) [1025171](https://platzi.com/comentario/1025171/) 
 
-	
 	Me gustan los nuevos cursos.
 
-* **Juanes Sánchez** (2)
+* **Juanes Sánchez** (2) [1021800](https://platzi.com/comentario/1021800/) 
 
-	
 	Excelente. Decidí verme este curso básico antes de entrar a la escuela de javascript con el curso de fundamentos. Después de este curso, arranco con toda la ruta de aprendizaje.
 
-	* **bamartinezd** (1)
+	* **bamartinezd** [1021800] (1)
 
-		
 		Tienes razón…
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1021800] (1)
 
-		
 		¡Excelentes noticias, **@JuanesSabe**! 😄  
 		La Escuela de JS está diseñada para llevarte de 0 a Experto en JS. Te recomiendo mucho realizar todos los proyectos y crear los tuyos 😉
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [1017020](https://platzi.com/comentario/1017020/) 
 
-	
 	Gracias, Platzi. Me agrada que, tengan cursos en específico para resolver todo tipo de dudas sobre javascript.
 
-* **mbautista95** (2)
+* **mbautista95** (2) [1000979](https://platzi.com/comentario/1000979/) 
 
-	
 	Javascript es un lenguaje de programación básico, que nos permite ampliar la interactividad de nuestro sitio web con el usuario.
 	
 	Es un lenguaje de programación que puede integrar tanto números y textos de distintas variables en un diferentes resultados, interpretando las comillas de un número en una suma como si fuera un texto, y en el caso de multiplicación realizando la operación asumiendo la variable de texto como un número.
@@ -279,103 +238,84 @@ Alguien me puede explicar que hace este curso casi al final de la carrera de Jav
 	
 	En caso de que queramos probar las funcionalidades de mayor actualidad en Javascript, es necesario que utilicemos el compilador Babel.
 
-* **Miguel Ángel Torres Vargas** (2)
+* **Miguel Ángel Torres Vargas** (2) [1000067](https://platzi.com/comentario/1000067/) 
 
-	
 	Javascript es **Dinamico** más no estatico pues “ejecuta de una vez” en Runtime y no ha de ser compilado (lo cual lo haria estatico).
 
-* **John W. Martínez** (2)
+* **John W. Martínez** (2) [999053](https://platzi.com/comentario/999053/) 
 
-	
 	Excelente, vamos a las bases para poder ir por grandes desarrollos.
 
-* **luisrovez** (2)
+* **luisrovez** (2) [998699](https://platzi.com/comentario/998699/) 
 
-	
 	En JavaScript para concatenar cadenas de caracteres usamos el operador +, en el primer ejemplo 4 + “7”, creo que manera interna 🤔, al toparse con un string, lo concatena con el numero ya que encuentra el signo +, por eso devuelve un string de “47”, interpreta que el numero entero debió ser un string también. En la multiplicación es al revés, ya que, con este operador solamente podemos manipular números, por lo tanto de manera interna, el string, lo convierte o interpreta como un entero.
 
-* **Daniel Idarraga** (2)
+* **Daniel Idarraga** (2) [997050](https://platzi.com/comentario/997050/) 
 
-	
 	Vamo a darle
 
-* **Lorenzo David Lezcano** (2)
+* **Lorenzo David Lezcano** (2) [996992](https://platzi.com/comentario/996992/) 
 
-	
 	Mucho hype con este curso!
 
-* **Cesar Andres Urrea Gutierrez** (1)
+* **Cesar Andres Urrea Gutierrez** (1) [1116969](https://platzi.com/comentario/1116969/) 
 
-	
 	Estoy contento de comenzar este curso ¡vamos a darle!
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1108143](https://platzi.com/comentario/1108143/) 
 
-	
 	Excelente, vamos a empezar con lo basico.
 
-* **Carlos Garcia** (1)
+* **Carlos Garcia** (1) [1100705](https://platzi.com/comentario/1100705/) 
 
-	
 	 **¿A qué se debe un bajo entendimiento en programar?**
 
-	* **IanVass** (1)
+	* **IanVass** [1100705] (1)
 
-		
 		Intenta estudiar con un motivo, y con una metodología de aprendizaje (Un ejemplo, sería usando la técnica comodoro, 15 o 25 min de estudio, 5 min de descanso, se repite 4 veces y tienes un descanso de 15 minutos o 20 o 30 min y después vuelves) .
 		
 		En sí aprende a aprender. Espero que sea lo que buscas, si no pues no comprendí tu pregunta jaja
 
-* **Carlos Garcia** (1)
+* **Carlos Garcia** (1) [1100704](https://platzi.com/comentario/1100704/) 
 
-	
 	¿Cuándo crear un programa debo basarme en un existente?  
 	¿A qué se debe un bajo entendimiento en programar?
 
-* **andresargote** (1)
+* **andresargote** (1) [1098709](https://platzi.com/comentario/1098709/) 
 
-	
 	muy interesante este curso
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [1097998](https://platzi.com/comentario/1097998/) 
 
-	
 	Interesante lo del motor V8, después de este curso me lo veré para entender mejor como funciona 😄
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097145](https://platzi.com/comentario/1097145/) 
 
-	
 	Que otro compilador de ECMAScript aparte de babel recomiendan?
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097140](https://platzi.com/comentario/1097140/) 
 
-	
 	Backwards & Forwards
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097112](https://platzi.com/comentario/1097112/) 
 
-	
 	Explicación de dinamico
 
-* **JheysonEGalvis** (1)
+* **JheysonEGalvis** (1) [1097046](https://platzi.com/comentario/1097046/) 
 
-	
 	¿Qué significa la palabra perse?  
 	La locución latina per se, que significa ‘por sí’ o ‘por sí mismo’, se escribe en dos palabras, en cursiva y sin acento (no per sé, perse o persé).
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1086212](https://platzi.com/comentario/1086212/) 
 
-	
 	entonces un lenguaje debilmente tipado es cuando no necesitan ser del mismo tipo para poder interactuar entre estas?
 
-	* **snowy** (2)
+	* **snowy** [1086212] (2)
 
-		
 		débilmente tipado significa que no controlan el tipo de variable que declaras y es posible usar variables de cualquier tipo una misma función, por ejemplo: una función puede recibir como parámetro un valor entero, flotante, etc.
 
-	* **Alejandro Lopez Ramírez** (1)
+	* **Alejandro Lopez Ramírez** [1086212] (1)
 
-		
 		También que una declaración como const, Var o let puede ser cualquier tipo de dato en cualquier momento es decir:
 		``` 
 		    const x; // solo declaro pero no tiene un valor asignado es decir que en cualquier momento puedo asignarle un valor
@@ -398,137 +338,111 @@ Alguien me puede explicar que hace este curso casi al final de la carrera de Jav
 		    En lenguajes fuertemente tipados como java cuando asignas una variable le decimos el tipo de dato que va a manejar y este si no puede cambiar siempre debe ser el mismo tipo de dato.
 		```
 
-* **Ezequiel Garcia Camarena** (1)
+* **Ezequiel Garcia Camarena** (1) [1083289](https://platzi.com/comentario/1083289/) 
 
-	
 	El arbol que dices, seria como un diagrama se secuencia, dependiendo del nodo del árbol que estemos se espera algo para realizar una acción. Ese algo pueden ser palabras reservadas o símbolos.
 
-* **Alexander Montalvo** (1)
+* **Alexander Montalvo** (1) [1082495](https://platzi.com/comentario/1082495/) 
 
-	
 	Por lo tanto, por lo pasos 3 y 4 JavaScript es un lenguaje COMPILADO!!!
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1081770](https://platzi.com/comentario/1081770/) 
 
-	
 	…
 
-* **davidhdez8** (1)
+* **davidhdez8** (1) [1074640](https://platzi.com/comentario/1074640/) 
 
-	
 	Wow, no conocía Babel.
 
-* **33andres33** (1)
+* **33andres33** (1) [1071740](https://platzi.com/comentario/1071740/) 
 
-	
 	otro mas para la carrera de fronted, y despues la escuela de js
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1066988](https://platzi.com/comentario/1066988/) 
 
-	
 	Genial
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1066488](https://platzi.com/comentario/1066488/) 
 
-	
 	JavaScript el lenguaje más importante y potente en la web.  
 	JavaScript, es uno de los más potentes e importantes lenguajes de programación en la actualidad, por tres enfoques claros: es útil, práctico y está disponible en cualquier navegador web.
 	
 	JavaScript fue creado por Brendan Eich y vio la luz en el año 1995 con el nombre de LiveScript, que luego fue nombrado JavaScript, nace como un lenguaje sencillo destinado a añadir algunas características interactivas a las páginas web. Sin embargo, hoy en día ha crecido de manera acelerada y es el lenguaje de programación que se utiliza en casi todos los sitios web en el mundo.
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1065437](https://platzi.com/comentario/1065437/) 
 
-	
 	Sobre [Babel](https://babeljs.io/docs/en/)
 
-* **Roberto Villate Morales** (1)
+* **Roberto Villate Morales** (1) [1063610](https://platzi.com/comentario/1063610/) 
 
-	
 	Interesante explicacion, al parecer Degranda entiende bastante bien del tema y sabe explicarlo.
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [1063271](https://platzi.com/comentario/1063271/) 
 
-	
 	Vamos a comenzar. 😃
 
-* **John Botero** (1)
+* **John Botero** (1) [1062753](https://platzi.com/comentario/1062753/) 
 
-	
 	Perfecto para seguir reforzando los fundamentos en JS, Degranda explica muy bien todo.
 
-* **Adán Dueñas Escobar** (1)
+* **Adán Dueñas Escobar** (1) [1060859](https://platzi.com/comentario/1060859/) 
 
-	
 	Excelente para reforzar todo lo aprendido, acabo de terminar el curso profesional de javascript sin embargo hay que probar nuevas maneras de enseñar
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1060859] (1)
 
-		
 		Igual ten en cuenta que este curso es complementario a los que ya hay de JavaScript y contiene diferentes puntos de vista y algunas cosas que pueden no ser tan obvias 😄
 
-* **ASSACOLOMBIA** (1)
+* **ASSACOLOMBIA** (1) [1056931](https://platzi.com/comentario/1056931/) 
 
-	
 	Iniciando ahora este nuevo curso, vengo del Fronde Developer que es de 43 clases, veamos que tal el profe Diego.
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1053942](https://platzi.com/comentario/1053942/) 
 
-	
 	JavaScript es un lenguaje interpretado orientado a objetos tipados y dinámicos!!! que sirve para que las personas puedan interactuar en las paginas web y aplicaciones.
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1052296](https://platzi.com/comentario/1052296/) 
 
-	
 	Recién Termine el curso Fundamentos de JavaScript y salio este curso para actualizar mi información. 😉
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1043546](https://platzi.com/comentario/1043546/) 
 
-	
 	Excelente explicación
 
-* **Alejandro Beltran** (1)
+* **Alejandro Beltran** (1) [1043309](https://platzi.com/comentario/1043309/) 
 
-	
 	preparado para aprender JavaScript
 
-* **JheysonEGalvis** (1)
+* **JheysonEGalvis** (1) [1040203](https://platzi.com/comentario/1040203/) 
 
-	
 	Vengo del curso práctico de Maquetación en CSS con el mismo profesor y explica muy bien. 😃
 
-* **Carlos Bueno Tavares** (1)
+* **Carlos Bueno Tavares** (1) [1036910](https://platzi.com/comentario/1036910/) 
 
-	
 	Jabascript es un lenguaje que revoluciono las paginas estaticas a dinamicas es 6un len6g6uaje compilado, orientado a objeto, bebilmente tipado y dinamico, javascript es backward compile lo que significa que sus nuevas actualizaciones no tendran efecto en tu codigo antiguo si deseas utilizar codigo de nuevas versiones debes utilizar el framework babel que lee tu codigo de js nuevo y lo interpreta a una forma mas standar.
 
-	* **Clair** (3)
+	* **Clair** [1036910] (3)
 
-		
 		JavaScript*
 
-* **Andres Giraldo** (1)
+* **Andres Giraldo** (1) [1035495](https://platzi.com/comentario/1035495/) 
 
-	
 	resolví muchas dudas, espero aprender lo maximo
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1030633](https://platzi.com/comentario/1030633/) 
 
-	
 	Empezamos bien con esta introducción.
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1030119](https://platzi.com/comentario/1030119/) 
 
-	
 	Excelente introducción.
 
-* **Juan Torrealba** (1)
+* **Juan Torrealba** (1) [1024367](https://platzi.com/comentario/1024367/) 
 
-	
 	Excelente la explicación, tiene una manera de enseñar muy buena!
 
-* **sofia.condori** (1)
+* **sofia.condori** (1) [1019719](https://platzi.com/comentario/1019719/) 
 
-	
 	Ayuda a crear paginas dinámicas  
 	Lenguaje interpretado  
 	Orientado a objetos  
@@ -538,124 +452,102 @@ Alguien me puede explicar que hace este curso casi al final de la carrera de Jav
 	Forwards, con nuevas versiones,  
 	Js es Backward compile, lo nuevo no se puede usar, para usar trabajar por ejemplo con compiladores como BABEL
 
-* **Alfonso Luis Arrieta Hernández** (1)
+* **Alfonso Luis Arrieta Hernández** (1) [1006652](https://platzi.com/comentario/1006652/) 
 
-	
 	Entonces, javascript es en sí es un lenguaje compilado que interpretado.
 
-* **Bervive** (1)
+* **Bervive** (1) [1005339](https://platzi.com/comentario/1005339/) 
 
-	
 	Este curso me va a servir de complemento a lo que estoy aprendiendo en el curso de programación básica
 
-* **HumanEligreg** (1)
+* **HumanEligreg** (1) [1004441](https://platzi.com/comentario/1004441/) 
 
-	
 	No creo que este sea el primer curso en el que lo aplican, pero esto de usar las diapositivas en transparencias me agrada mucho. Claro, cuando se debe usar.
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [1003650](https://platzi.com/comentario/1003650/) 
 
-	
 	Entonces JS es un lenguaje debilmente tipado, dinámico, no es interpretado, es compilado
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1001918](https://platzi.com/comentario/1001918/) 
 
-	
 	Buena y buen curso para iniciarme en JS!!
 
-* **Martin L.** (1)
+* **Martin L.** (1) [1001374](https://platzi.com/comentario/1001374/) 
 
-	
 	que es ecmascript?
 
-	* **Cristobal Vega** (4)
+	* **Cristobal Vega** [1001374] (4)
 
-		
 		Es la especificación de JavaScript, al ser este un lenguaje que corre en todos los navegadores una organización de estándares (en este caso ECMA International) tiene un documento que nos dice como se debe hacer JavaScript 🤓
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (2)
+	* **Juan Felipe Peralta Zapata (Platzi)** [1001374] (2)
 
-		
 		Aquí en Platzi tenemos un curso por si quieres echarle un ojo: <https://platzi.com/clases/ecmascript-6/>. 😄
 
-* **hugoorlandogonzalez** (1)
+* **hugoorlandogonzalez** (1) [1000135](https://platzi.com/comentario/1000135/) 
 
-	
 	No me llevo muy bien con Js hasta el momento pero creo que este curso va a darme una mano jaja
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [998808](https://platzi.com/comentario/998808/) 
 
-	
 	vamos again
 
-* **Aby Leyva** (1)
+* **Aby Leyva** (1) [998770](https://platzi.com/comentario/998770/) 
 
-	
 	Pinta bien este curso, se ve muy digerible el contenido…veremos la tendencia en los próximos videos…
 
-* **Cristian Emanuel Ortega Camarena** (1)
+* **Cristian Emanuel Ortega Camarena** (1) [998435](https://platzi.com/comentario/998435/) 
 
-	
 	Muy buen contenido, y me agrada que quien lo imparte va al grano con todos sus puntos
 
-* **alejandrozapata73** (1)
+* **alejandrozapata73** (1) [998185](https://platzi.com/comentario/998185/) 
 
-	
 	Excelente explicacion
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [998150](https://platzi.com/comentario/998150/) 
 
-	
 	Excelente explicación.
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [997738](https://platzi.com/comentario/997738/) 
 
-	
 	Genial tener las bases de JavaScript tan bien explicado 👌
 	
 	Diego todo un crack que sabe cómo funcionan las cosas por dentro 👊
 
-* **Lucas Ramirez** (1)
+* **Lucas Ramirez** (1) [997505](https://platzi.com/comentario/997505/) 
 
-	
 	Lo espere con ganas este Curso, explica muy el Profe !!
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997456](https://platzi.com/comentario/997456/) 
 
-	
 	Me gusta mucho JavaScript, reforzare mis conocimientos con este curso.
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [997264](https://platzi.com/comentario/997264/) 
 
-	
 	A empezar
 
-* **Karla Agraz** (1)
+* **Karla Agraz** (1) [997190](https://platzi.com/comentario/997190/) 
 
-	
 	Estaba esperando este curso, a darle 👌
 
-* **matias-alexander-ibarra-trujil** (1)
+* **matias-alexander-ibarra-trujil** (1) [997109](https://platzi.com/comentario/997109/) 
 
-	
 	JavaScript cae dentro de la categoría general de lenguajes dinámicos o interpretados, es de hecho un lenguaje compilado. No se compila con suficiente antelación, al igual que muchos lenguajes compilados tradicionalmente, ni tampoco son los resultados de la compilación portátiles entre varios sistemas distribuidos.
 	
 	Pero, sin embargo, el motor JavaScript realiza muchos de los mismos pasos, aunque en formas más sofisticadas de las que comúnmente conocemos, de cualquier compilador de lenguaje tradicional.
 
-* **juanlondono** (1)
+* **juanlondono** (1) [997041](https://platzi.com/comentario/997041/) 
 
-	
 	2do en escribir
 
-* **gonzaloPzl** (1)
+* **gonzaloPzl** (1) [84667](https://platzi.com/comentario/1055970/) 
 Alguien me podria explicar bien la parte de Forwards y Backwards?
 
-	* **Juan Camilo Alvarez Jurado** (1)
+	* **Juan Camilo Alvarez Jurado** [84667] (1)
 
-		
 		Backwards-Compatible o Retrocompatible, quiere decir que puedes escribir código en versiones viejas e igual va a seguir corriendo en versiones nuevas. Ya Forwards-Compatible o Compatible Hacia Adelante quiere decir que un código para una versión vieja acepta y permite cosas que están pensadas para una versión nueva, y aún así funciona
 
-## 0020. ¿Por qué JavaScript
+## 0020. ¿Por qué JavaScript [26291](https://platzi.com/clases/1814-basico-javascript/26291-por-que-javascript/)
 
 ### Descripción:
 
@@ -674,38 +566,32 @@ Alguien me podria explicar bien la parte de Forwards y Backwards?
 
 ### Comentarios:
 
-* **axlina90** (6)
+* **axlina90** (6) [999548](https://platzi.com/comentario/999548/) 
 
-	
 	Excelente curso, me encanta, quiero aprender JavaScript.
 	
-	  * WebAssembly: es un nuevo tipo de código que puede ser ejecutado en navegadores modernos es un lenguaje de bajo nivel, similar al lenguaje ensamblador, con un formato binario compacto que se ejecuta con rendimiento casi nativo y provee un objetivo de compilación para lenguajes como C/C++ y Rust que les permite correr en la web. También está diseñado para correr a la par de JavaScript, permitiendo que ambos trabajen juntos.
+	* WebAssembly: es un nuevo tipo de código que puede ser ejecutado en navegadores modernos es un lenguaje de bajo nivel, similar al lenguaje ensamblador, con un formato binario compacto que se ejecuta con rendimiento casi nativo y provee un objetivo de compilación para lenguajes como C/C++ y Rust que les permite correr en la web. También está diseñado para correr a la par de JavaScript, permitiendo que ambos trabajen juntos.
 	
 	
 
-* **Camilo Ernesto Hurtado Cataño** (5)
+* **Camilo Ernesto Hurtado Cataño** (5) [1015893](https://platzi.com/comentario/1015893/) 
 
-	
 	Url donde hablan mas acerca de webAssembly <https://developer.mozilla.org/es/docs/WebAssembly>
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [1015893] (1)
 
-		
 		GRacias.
 
-* **JULIO RAUL CARRANZA RUIZ** (4)
+* **JULIO RAUL CARRANZA RUIZ** (4) [999197](https://platzi.com/comentario/999197/) 
 
-	
 	Verdaderamente aplaudo a este profesor te dar un vision 360 del por aprender javascript y donde usarlo
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [999197] (1)
 
-		
 		En Platzi nos esforzamos siempre porque todos nuestros alumnos tengan profesores tops de la industria. Por ejemplo, en el área de Frontend todos nuestros profesores son Google Developer Experts 😉
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [1066505](https://platzi.com/comentario/1066505/) 
 
-	
 	JavaScript es uno de los 3 lenguajes que todos los desarrolladores web deben aprender:
 	
 	  1. HTML para definir el contenido de las páginas web
@@ -722,292 +608,240 @@ Alguien me podria explicar bien la parte de Forwards y Backwards?
 	**¿Sabías?**  
 	JavaScript y Java son lenguajes completamente diferentes, tanto en concepto como en diseño.
 
-* **Pablo Rocha** (2)
+* **Pablo Rocha** (2) [1098008](https://platzi.com/comentario/1098008/) 
 
-	
 	Muchas posibilidades de desarrollo con un solo lenguaje, hay que aprender bien todas las opciones que nos de JavaScript.
 
-* **33andres33** (2)
+* **33andres33** (2) [1071877](https://platzi.com/comentario/1071877/) 
 
-	
 	Web Assembly no me gustaría por costumbre, le cojes amor a html CSS Y JS
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [1063278](https://platzi.com/comentario/1063278/) 
 
-	
 	Siempre me ha encatado que al inicio de los cursos un poco de teoria, ayuda mucho a entender muchas cosas antes de comenzar a picar codigo. 😃
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [1052303](https://platzi.com/comentario/1052303/) 
 
-	
 	Eso de WebAssembly no me lo sabia y esta interesante lo que estaba leyendo acerca de esto.
 
-* **Javier Andres Gamboa Duarte** (2)
+* **Javier Andres Gamboa Duarte** (2) [1050908](https://platzi.com/comentario/1050908/) 
 
-	
 	No sabia lo de la framework ELECTRON 😮
 
-* **Oveja_Gt** (2)
+* **Oveja_Gt** (2) [1044992](https://platzi.com/comentario/1044992/) 
 
-	
 	por qué aprender JS?  
 	* Tiene una comunidad enorme  
 	* Muchos frameworks y librerias  
 	* Se puede construir apps nativas para móviles usando JS  
 	* Podemos trabajar con Backend e IOT
 
-* **Carlos Bueno Tavares** (2)
+* **Carlos Bueno Tavares** (2) [1036913](https://platzi.com/comentario/1036913/) 
 
-	
 	Por que javascript?
 	
 	javascript tiene muchas tecnologia que te permitiran trabajar en cualquier area que desees digase para aplicaciones web, moviles y de escritorio
 
-* **Andres Giraldo** (2)
+* **Andres Giraldo** (2) [1035515](https://platzi.com/comentario/1035515/) 
 
-	
 	es chistoso con el paso del tiempo a tomado muchísima seriedad este lenguaje y tanto que lo criticaban, me sorprende lo versatil
 
-* **Manuel Rivera** (2)
+* **Manuel Rivera** (2) [1003655](https://platzi.com/comentario/1003655/) 
 
-	
 	Legoo
 
-* **Aby Leyva** (2)
+* **Aby Leyva** (2) [998774](https://platzi.com/comentario/998774/) 
 
-	
 	Vaya…entonces todo tiene cubierto JavaScript con la ayuda de los respectivos Frameworks…Great
 
-* **Merlyn Rodriguez** (2)
+* **Merlyn Rodriguez** (2) [997214](https://platzi.com/comentario/997214/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Brayhan Andres Jaramillo Castaño** (1)
+* **Brayhan Andres Jaramillo Castaño** (1) [1115400](https://platzi.com/comentario/1115400/) 
 
-	
 	excelente explicación
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1108286](https://platzi.com/comentario/1108286/) 
 
-	
 	Muy interesante conocer el por qué de las cosas
 
-* **andresargote** (1)
+* **andresargote** (1) [1106426](https://platzi.com/comentario/1106426/) 
 
-	
 	Muy muy interesante!!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097169](https://platzi.com/comentario/1097169/) 
 
-	
 	WebAssembly!!! que sera de nosotros!!!
 
-	* **durbonca** (3)
+	* **durbonca** [1097169] (3)
 
-		
 		yo no veo a platzi sacando cursos de WASM…
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097162](https://platzi.com/comentario/1097162/) 
 
-	
 	WebAssembly
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1090754](https://platzi.com/comentario/1090754/) 
 
-	
 	excelente
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1086302](https://platzi.com/comentario/1086302/) 
 
-	
 	node tambien es un framework?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1086302] (1)
 
-		
 		No.  
 		Node, es un entorno de ejecución que te permite correr JavaScript en tu computadora o servidor. Express por otra parte si es un framework para Node.js.  
 		De todas maneras si quieres profundizar en estos conocimientos te recomiendo el [Curso de Fundamentos de Node.js](https://platzi.com/clases/fundamentos-node/) y el [Curso de JavaScript Engine (V8) y el Navegador](https://platzi.com/clases/javascript-navegador/) 😄
 
-* **Ezequiel Garcia Camarena** (1)
+* **Ezequiel Garcia Camarena** (1) [1083396](https://platzi.com/comentario/1083396/) 
 
-	
 	mis nota:  
 	JS era parte de 3 lenguajes de programación para crear productos web, que son HTML(empaquetar información en la pagina, texto, gif, videos, etc.), CSS (leguaje de estilos) Y JS.  
 	JS tiene a ser Desarrollo web, ya que tiene muchas framework que te ayudaran a desarrollar la aplicación web que deseas, pero también te sirve para desarrollar aplicaciones con React Native para android y ios, y electron para aplicaciones de escritorio para Windows y mac.
 
-* **Alexander Montalvo** (1)
+* **Alexander Montalvo** (1) [1082910](https://platzi.com/comentario/1082910/) 
 
-	
 	WebAssembly: Nuevo lenguaje de programación para construir productos web es muy diferente a JS y con este ya no vamos a tener que utilizar html, css ni JS para poder hacer productos WEB.
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1081914](https://platzi.com/comentario/1081914/) 
 
-	
 	…
 
-* **picojohn** (1)
+* **picojohn** (1) [1067038](https://platzi.com/comentario/1067038/) 
 
-	
 	no sabia que con javascript se podia manejar iot, interesante
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1067027](https://platzi.com/comentario/1067027/) 
 
-	
 	Muy interesante lo de Web Asembly
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1065450](https://platzi.com/comentario/1065450/) 
 
-	
 	WebAsembly
 
-* **Roberto Villate Morales** (1)
+* **Roberto Villate Morales** (1) [1063632](https://platzi.com/comentario/1063632/) 
 
-	
 	Estoy muy interesado en la escuela de JavaScript por la gran variedad de recursos que existen y las posibilidades que te abre. Espero en unos meses poder dominar bastante bien el lenguaje y las librerias,
 
-* **ASSACOLOMBIA** (1)
+* **ASSACOLOMBIA** (1) [1056952](https://platzi.com/comentario/1056952/) 
 
-	
 	Interesante el gran uso que se le puede dar a JS, espero algun dia poder elaborar un proyecto completo con este lenguaje.
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1053934](https://platzi.com/comentario/1053934/) 
 
-	
 	Por que JavaScript? porque tenemos gran variedad de librerías para programadores, aparte me parece muy interesante todo el tema de IOT (Internet de las cosas) por lo que hace inteligente cada cosa conectada a Internet.  
 	Node.js es un entorno de ejecución de JavaScript.
 
-* **Randy José Agustín Montenegro Socha** (1)
+* **Randy José Agustín Montenegro Socha** (1) [1053198](https://platzi.com/comentario/1053198/) 
 
-	
 	no tenia ni idea lo de WebAssembly, que bueno poder acceder a contenidos actualizados.
 
-* **juancruzbidegain** (1)
+* **juancruzbidegain** (1) [1047412](https://platzi.com/comentario/1047412/) 
 
-	
 	Excelente clase!
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1043572](https://platzi.com/comentario/1043572/) 
 
-	
 	Excelente aporte
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1030128](https://platzi.com/comentario/1030128/) 
 
-	
 	Genial!
 
-* **Juanes Sánchez** (1)
+* **Juanes Sánchez** (1) [1021801](https://platzi.com/comentario/1021801/) 
 
-	
 	Muy poderoso JavaScript. Suficientes razones para aprenderlo y verse todos los cursos de la escuela de JavaScript y sus derivados.
 
-* **Bervive** (1)
+* **Bervive** (1) [1005375](https://platzi.com/comentario/1005375/) 
 
-	
 	sera que de a poco este nuevo lenguaje webassembly va a desplazar el uso de javascript, html y css ? en teoria un solo lenguaje que reuna las funciones de los 3 suena muy bien… que piensan ustedes?
 
-	* **adersonrangel** (2)
+	* **adersonrangel** [1005375] (2)
 
-		
 		Yo creería que si… lo bueno es que puedo reutilizar lo que ya se de otros lenguajes.
 
-	* **Eduardo Zamarron Muñoz** (2)
+	* **Eduardo Zamarron Muñoz** [1005375] (2)
 
-		
 		Según lo que he escuchado Web Assembly lo que se prevé que haga es reducir el uso de JS para funciones que se podrían hacer de manera más rápida en c# por ejemplo. Pues se está cayendo en un vicio de que todo se quiere hacer en JS y lo que genera como resultado son páginas súper pesadas.  
 		Lo que haría WA es reducir esa carga.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1005375] (1)
 
-		
 		Se prevé que eso podría suceder en un futuro no muy lejano 👀  
 		Sin embargo, nada está dicho y es muy válido adquirir maestría en HTML, CSS y JS 😉
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1002839](https://platzi.com/comentario/1002839/) 
 
-	
 	JS tiene muchas aplicaciones no sabia que pudiera ser tan ampliamente usado.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1002839] (1)
 
-		
 		JS ha avanzado tanto que lo puedes usar en:
 		
-		  * Web
-		  * Apps
-		  * … y hasta en su cepillo de diente 😉
+		* Web
+		* Apps
+		* … y hasta en su cepillo de diente 😉
 		
 		
 		
 		<https://iotjs.net/> 😄
 
-* **cether** (1)
+* **cether** (1) [1002748](https://platzi.com/comentario/1002748/) 
 
-	
 	It was great!  
 	Realmente javascript es muy versátil o no se si es la palabra, pero tiene cubierto gran campo de las aplicaciones, y yo que pensé que sólo era para web.
 
-* **cesar-riveros-baeza** (1)
+* **cesar-riveros-baeza** (1) [999231](https://platzi.com/comentario/999231/) 
 
-	
 	muy buena clase
 
-* **Cristian Emanuel Ortega Camarena** (1)
+* **Cristian Emanuel Ortega Camarena** (1) [998455](https://platzi.com/comentario/998455/) 
 
-	
 	Muy buena clase
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [997756](https://platzi.com/comentario/997756/) 
 
-	
 	No mencionó Polymer 💔
 
-	* **luisrovez** (1)
+	* **luisrovez** [997756] (1)
 
-		
 		El único sitio que se que usa Polymer es Youtube 😅
 
-* **Lucas Ramirez** (1)
+* **Lucas Ramirez** (1) [997632](https://platzi.com/comentario/997632/) 
 
-	
 	muy buena clase
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997470](https://platzi.com/comentario/997470/) 
 
-	
 	Muchos framworks de JavaScript
 
-* **Jose Hidalgo** (1)
+* **Jose Hidalgo** (1) [997292](https://platzi.com/comentario/997292/) 
 
-	
 	Me dejo hypeado todo lo que se puede hacer con JS
 
-	* **JhonColorado07** (1)
+	* **JhonColorado07** [997292] (1)
 
-		
 		Si es mucho lo que se puede hacer con JS, así que a aprender.
 
-* **Carlos Roa** (1)
+* **Carlos Roa** (1) [997240](https://platzi.com/comentario/997240/) 
 
-	
 	Muy bien explicado
 
-* **Lorenzo David Lezcano** (1)
+* **Lorenzo David Lezcano** (1) [997016](https://platzi.com/comentario/997016/) 
 
-	
 	Genial!
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [83770](https://platzi.com/comentario/1034943/) 
 Te enseño el curso de javascript pero dentro del curso te digo que ya no vas usar html ni css ni Js para web sino web assembly, decidanse...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [83770] (1)
 
-		
 		Tranquilo 😅es sólo un decir, lo que pasa es que se le ve muy buen futuro a Web Assembly pero nada está decidido, aprender html/css y js es aún muy válido.
 
-## 0030. Elementos de un Lenguaje de Programación Variables, Funciones y Sintaxis
+## 0030. Elementos de un Lenguaje de Programación Variables, Funciones y Sintaxis [26292](https://platzi.com/clases/1814-basico-javascript/26292-elementos-de-un-lenguaje-de-programacion-variables/)
 
 ### Descripción:
 
@@ -1022,9 +856,8 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 
 ### Comentarios:
 
-* **Carlos Bueno Tavares** (8)
+* **Carlos Bueno Tavares** (8) [1036932](https://platzi.com/comentario/1036932/) 
 
-	
 	Valores primitivos:
 	
 	number = valor tipo entero,  
@@ -1036,9 +869,8 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	{} or [] = valores tipo objeto
 
-* **Gerardo Nava Pereda** (8)
+* **Gerardo Nava Pereda** (8) [1001014](https://platzi.com/comentario/1001014/) 
 
-	
 	[The history of “typeof null”](https://2ality.com/2013/10/typeof-null.html)
 	
 	**null** es un valor primitivo y es **null** NO es un **“object”**
@@ -1049,12 +881,11 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	es un error que no pueden corregir por que dejarían de funcionar las aplicaciones actuales.
 
-* **pablod574** (5)
+* **pablod574** (5) [1028225](https://platzi.com/comentario/1028225/) 
 
-	
 	min 5:43 : una aclaración, quien inventó los booleanos no se llamaba “George Boolean”, se llamaba “George Boole”
 
-* **lmoran** (5)
+* **lmoran** (5) [1013022](https://platzi.com/comentario/1013022/) 
 
 	```
 	    /Valores numericos
@@ -1080,21 +911,18 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	    
 	```
 
-* **miguelangelpglez** (4)
+* **miguelangelpglez** (4) [1052972](https://platzi.com/comentario/1052972/) 
 
-	
 	Biografia de George Boole:
 	
 	<https://es.wikipedia.org/wiki/George_Boole>
 
-* **yeseniamosqueragil** (4)
+* **yeseniamosqueragil** (4) [1034085](https://platzi.com/comentario/1034085/) 
 
-	
 	Si quieren ver cuanto tiempo codean al dia o la semana, registrense en esta pagina e instalen la extension para su editor de texto preferido, <https://wakatime.com>, es gratis y ayuda a motivarse.
 
-	* **Aaron Gonzalez (Platzi)** (2)
+	* **Aaron Gonzalez (Platzi)** [1034085] (2)
 
-		
 		¡Hey! muchas gracias por tu aporte, Yesenia 😄  
 		En este blog hay otros plugins de VSCode que están buenísimos
 		
@@ -1102,53 +930,45 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 		
 		Te lo recomiendo mucho 😄
 
-* **Cristian Emanuel Ortega Camarena** (4)
+* **Cristian Emanuel Ortega Camarena** (4) [998471](https://platzi.com/comentario/998471/) 
 
-	
 	denme mis dos puntitos :V
 
-	* **luisrovez** (1)
+	* **luisrovez** [998471] (1)
 
-		
 		Tome sus dos punto
 		
-		  *   *   * 
+		* * * 
 		
 
-* **ASSACOLOMBIA** (3)
+* **ASSACOLOMBIA** (3) [1056989](https://platzi.com/comentario/1056989/) 
 
-	
 	El valor de undefined, es undefined HAHAHAHAHA
 
-* **Jhon Alexander Romero Gonzaga** (3)
+* **Jhon Alexander Romero Gonzaga** (3) [1052400](https://platzi.com/comentario/1052400/) 
 
-	
 	typeof (valor), me parece muy útil esto.
 
-* **Andres Giraldo** (3)
+* **Andres Giraldo** (3) [1035543](https://platzi.com/comentario/1035543/) 
 
-	
 	Aqui algunos tipos de datos
 	
 	![tipos de datos.jpg](https://static.platzi.com/media/user_upload/tipos%20de%20datos-9b93872a-d920-4783-ade1-a0afbc7df95a.jpg)
 
-	* **Luis Corado** (1)
+	* **Luis Corado** [1035543] (1)
 
-		
 		Este diagrama de las clases del profe Juan Diaz
 
-* **AlexanderAReyes** (3)
+* **AlexanderAReyes** (3) [997906](https://platzi.com/comentario/997906/) 
 
-	
 	Solo quería dejar esto por aquí, me pareció curioso.
 	
 	De hecho es **George Boole** , no George Boolean.
 	
 	😉🤷‍♀️
 
-* **John Steven Bernal Gonzalez** (2)
+* **John Steven Bernal Gonzalez** (2) [1104209](https://platzi.com/comentario/1104209/) 
 
-	
 	 **Dos Componentes principales**
 	
 	Data que guardamos en la memoria : Numeros, string, objetos etc  
@@ -1176,9 +996,8 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	este nos dira si es tipo numero, string, booleano, objeto
 
-* **Ezequiel Garcia Camarena** (2)
+* **Ezequiel Garcia Camarena** (2) [1086284](https://platzi.com/comentario/1086284/) 
 
-	
 	mis notas:  
 	Dos componentes principales del lenguaje de programación:  
 	1- Data que guardaremos en memoria ( tipos de datos, int, string, objetos, etc)  
@@ -1195,57 +1014,47 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	Valor objeto  
 	• {nombre : “Diego”, edad : 14}
 
-* **davidhdez8** (2)
+* **davidhdez8** (2) [1074700](https://platzi.com/comentario/1074700/) 
 
-	
 	Vengo de Java, y entiendo que JavaScript no es necesario las ;, pero me rompe la cabeza no verlas en las clases 😦
 
-	* **Germán González** (1)
+	* **Germán González** [1074700] (1)
 
-		
 		Pronto las veras, si se usan.
 
-* **JheysonEGalvis** (2)
+* **JheysonEGalvis** (2) [1040227](https://platzi.com/comentario/1040227/) 
 
-	
 	Es increíble como ha crecido JavaScript.
 
-* **Wilson Arias Ruiz** (2)
+* **Wilson Arias Ruiz** (2) [1033951](https://platzi.com/comentario/1033951/) 
 
-	
 	aprendiendo desde cero pero muy interesante
 
-* **Martin L.** (2)
+* **Martin L.** (2) [1001409](https://platzi.com/comentario/1001409/) 
 
-	
 	que diferencia hay entre un string “” y ‘’?
 
-	* **Cristobal Vega** (6)
+	* **Cristobal Vega** [1001409] (6)
 
-		
 		En JavaScript, ninguna. Pero en otros lenguajes como C o C++ o Java el colocar ‘’ simboliza a un solo caracter ‘H’, ‘o’ y el colocar “” da indicar que es un texto “Hola”.
 
-	* **Valente IA** (1)
+	* **Valente IA** [1001409] (1)
 
-		
 		Las comillas simples ’ ’ se utilizan para los tipo de dato char
 
-	* **Juanes Sánchez** (1)
+	* **Juanes Sánchez** [1001409] (1)
 
-		
 		En PHP el tipo de comillas genera diferencia en el contenido. En JS, hasta donde tengo entendido, no.
 
-	* **Aaron Gonzalez (Platzi)** (2)
+	* **Aaron Gonzalez (Platzi)** [1001409] (2)
 
-		
 		En JS no hay diferencia alguna. En otros lenguajes como PHP o C estos sí indican otras cosas según cual sea.
 
-* **Aby Leyva** (2)
+* **Aby Leyva** (2) [998792](https://platzi.com/comentario/998792/) 
 
-	
 	Yo en lo personal estoy trabajando con Visual Studio Code…Por cierto es excelente la funcionalidad del **typeof**
 
-* **Mirna Mabel Veras Carvajal** (2)
+* **Mirna Mabel Veras Carvajal** (2) [998420](https://platzi.com/comentario/998420/) 
 
 	```
 	     //Valor tipo número:
@@ -1268,41 +1077,35 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	    
 	```
 
-* **Héctor Yaniel Remedios Fernández** (2)
+* **Héctor Yaniel Remedios Fernández** (2) [997520](https://platzi.com/comentario/997520/) 
 
-	
 	Hola, me descargué “Visual Estudio Code” desde el enlace de la clase pero mi Mac me lanza el siguiente mensaje:  
 	![Captura de Pantalla 2020-02-20 a la\(s\) 19.49.28.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-20%20a%20la%28s%29%2019.49.28-51d6bdae-dac7-4903-b83d-b9e8b7ac7b8b.jpg)
 	
 	Estoy usando MacOS Catalina. Si alguien sabe como solucionarlo!!!  
 	gracias de antemano.
 
-	* **Pablo Domínguez Durán** (2)
+	* **Pablo Domínguez Durán** [997520] (2)
 
-		
 		Es un enlace seguro. Me parece que dándole click derecho al archivo, y en abrir, lo puedes instalar sin problemas. Es por eso que te dice Mostrar en Finder 😃
 
-	* **Héctor Yaniel Remedios Fernández** (1)
+	* **Héctor Yaniel Remedios Fernández** [997520] (1)
 
-		
 		Gracias, Sí funcionó abriéndolo con click derecho / abrir.
 
-	* **Aaron Gonzalez (Platzi)** (2)
+	* **Aaron Gonzalez (Platzi)** [997520] (2)
 
-		
 		¡Hola, **@keepoutofart**!  
 		Es un detalle que viene en muchos en Catalina, todo programa que instales te recomiendo que lo hagas con
 		
 		> click derecho > Abrir 😄
 
-* **Brayhan Andres Jaramillo Castaño** (1)
+* **Brayhan Andres Jaramillo Castaño** (1) [1115491](https://platzi.com/comentario/1115491/) 
 
-	
 	Una muy buena introducción a los tipos de datos.
 
-* **Gastón Gentile** (1)
+* **Gastón Gentile** (1) [1106882](https://platzi.com/comentario/1106882/) 
 
-	
 	Hola!
 	
 	Para probar su código JavaScript, en lugar de hacer: click derecho -> inspeccionar, dentro de cualquier página, pueden abrir una página en blanco escribiendo en la barra de direcciones:
@@ -1315,14 +1118,12 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	Saludos,
 
-* **andresargote** (1)
+* **andresargote** (1) [1106500](https://platzi.com/comentario/1106500/) 
 
-	
 	typeof() es una palabra reservada que nos permite saber el tipo de dato
 
-* **andresargote** (1)
+* **andresargote** (1) [1106498](https://platzi.com/comentario/1106498/) 
 
-	
 	Elementos de un lenguaje de programación: Variables, Funciones y Sintaxis.
 	
 	1.-Data que guardamos en memoria, tipos de datos como strings, números, booleanos, nulos.
@@ -1341,7 +1142,7 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	-Arrays  
 	-Objetos
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1104812](https://platzi.com/comentario/1104812/) 
 
 	```
 	    Existen 2 tipos de elementos en JavaScript:
@@ -1371,68 +1172,56 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	Podemos conocer que tipo de valores estamos usando con “typeof”
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [1103682](https://platzi.com/comentario/1103682/) 
 
-	
 	Podría ser buena opción utilizar Vim que piensan ustedes ?
 
-* **garciafran** (1)
+* **garciafran** (1) [1098430](https://platzi.com/comentario/1098430/) 
 
-	
 	Visual Studi Code, es de los mejores editores
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [1098017](https://platzi.com/comentario/1098017/) 
 
-	
 	Explicación clara y concisa de los tipos de datos que podemos tener y usar en JavaScript!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097275](https://platzi.com/comentario/1097275/) 
 
-	
 	Gracias, bastante básico !
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1090808](https://platzi.com/comentario/1090808/) 
 
-	
 	genial
 
-* **Naylin15** (1)
+* **Naylin15** (1) [1087091](https://platzi.com/comentario/1087091/) 
 
-	
 	Qué características debería tener una laptop para programar? Memoria RAM de cuánto? SSD?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1087091] (2)
 
-		
 		Para empezar, yo logré empezar con 4GB en Linux, lo recomendable es 8GB pero tener 16GB es increíble. Con respecto al SSD no es algo fundamental en el desarrollo. Yo empecé con un Desktop de 2008 y poco a poco fui mejorando según fuí necesitando 😄
 
-	* **ernestojv** (2)
+	* **ernestojv** [1087091] (2)
 
-		
 		Si estás iniciando desde ya te recomiendo GNU/Linux o MacOS, por ejemplo para Linux no necesitas muchos recursos, la mayoría de distribuciones te irán bien con unos 4GB de ram y un HDD, pero claro, todo va de acuerdo a tus necesidades, pero con JS no creo que necesites mas que eso.
 
-* **victor-castaneda-rivera** (1)
+* **victor-castaneda-rivera** (1) [1086758](https://platzi.com/comentario/1086758/) 
 
-	
 	cuando queda un valor faltante tenemos que guardar algún tipo de valor en memoria. ( null , undefined)
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1081922](https://platzi.com/comentario/1081922/) 
 
-	
 	…
 
-* **Ronal Aguirre** (1)
+* **Ronal Aguirre** (1) [1075436](https://platzi.com/comentario/1075436/) 
 
-	
 	muy claro!
 
-* **Brais Oliveira Sanjurjo** (1)
+* **Brais Oliveira Sanjurjo** (1) [1073500](https://platzi.com/comentario/1073500/) 
 
-	
 	 _Las interpretaciones respectivas de los símbolos 0 y 1 en el sistema de lógica son Nada y Universo._  
 	George Boole
 
-* **Bryan Javier Calero Robleto** (1)
+* **Bryan Javier Calero Robleto** (1) [1072152](https://platzi.com/comentario/1072152/) 
 
 	```
 	    typeof40
@@ -1456,14 +1245,12 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	    
 	```
 
-* **picojohn** (1)
+* **picojohn** (1) [1070807](https://platzi.com/comentario/1070807/) 
 
-	
 	aprendiendo mas, Buena clase
 
-* **Luis Diego Maroto Segura** (1)
+* **Luis Diego Maroto Segura** (1) [1069926](https://platzi.com/comentario/1069926/) 
 
-	
 	Un ejemplo de código JS
 	``` 
 	    /* 
@@ -1504,14 +1291,13 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	    
 	```
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1067864](https://platzi.com/comentario/1067864/) 
 
-	
 	**Elementos de un lenguaje de programacion:**
 	
-	  * Data que guardamos en memoria.
+	* Data que guardamos en memoria.
 	
-	  * Tareas(funciones) que haremos con esa data.
+	* Tareas(funciones) que haremos con esa data.
 	
 	
 	
@@ -1521,93 +1307,76 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	**typeof** : sirve para obtener el tipo de la variable.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1067103](https://platzi.com/comentario/1067103/) 
 
-	
 	Interesante lo de los booleans en el navegador
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1044173](https://platzi.com/comentario/1044173/) 
 
-	
 	Interesante
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1035425](https://platzi.com/comentario/1035425/) 
 
-	
 	Tremendo
 
-* **horacio-garcia** (1)
+* **horacio-garcia** (1) [1034841](https://platzi.com/comentario/1034841/) 
 
-	
 	genial explicacion
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1030162](https://platzi.com/comentario/1030162/) 
 
-	
 	Excelente clase.
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1011988](https://platzi.com/comentario/1011988/) 
 
-	
 	Valores enteros: numeros  
 	Valores cadena o String: Texto  
 	Valores Boolean: True o False  
 	Valor tipo Objeto: Array  
 	Valores Vacios: null y undefined
 
-* **Jose guillermo Vazquez Huerta** (1)
+* **Jose guillermo Vazquez Huerta** (1) [1011776](https://platzi.com/comentario/1011776/) 
 
-	
 	para js, ¿que tipo de atributos son los mas comunes o los mas tulizados?
 
-	* **Sammuel** (1)
+	* **Sammuel** [1011776] (1)
 
-		
 		Eso dependería de la necesidad que tengas con tu código, para cada necesidad podrías usar el atributo que más te convenga
 
-* **Guillermo Vega Diaz** (1)
+* **Guillermo Vega Diaz** (1) [1005712](https://platzi.com/comentario/1005712/) 
 
-	
 	Excelente el curso para reafirmar los conocimientos
 
-* **Bervive** (1)
+* **Bervive** (1) [1005405](https://platzi.com/comentario/1005405/) 
 
-	
 	El curso esta excelente como complemento y para reforzar todo lo que hemos visto en el curso de programación basica, me gusta que vayamos a trabajar con el visual studio, porque hasta ahora venia solo trabajando con sublime, y a pesar de haberlo descargado no lo habia usado, visual studio parece que tiene mas funcionalidades, ya veremos cual esta mejor.
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1004090](https://platzi.com/comentario/1004090/) 
 
-	
 	Interesante los diferentes tipos de valores primitivos!!
 
-* **luisrovez** (1)
+* **luisrovez** (1) [998782](https://platzi.com/comentario/998782/) 
 
-	
 	en la barra de direcciones pueden acceder a about:blank y les abrirá una pestaña en blanco, ahí pueden usar la consola y manipular el DOM sin que salgan warnings
 
-* **alejandrozapata73** (1)
+* **alejandrozapata73** (1) [998190](https://platzi.com/comentario/998190/) 
 
-	
 	Excelente tipo el de typeof… me vino genial, muy buen curso
 
-* **Lucas Ramirez** (1)
+* **Lucas Ramirez** (1) [997702](https://platzi.com/comentario/997702/) 
 
-	
 	Atom es bueno pero Vs code tiene más cosas
 
-* **Cristian Rivera Herrera** (1)
+* **Cristian Rivera Herrera** (1) [997540](https://platzi.com/comentario/997540/) 
 
-	
 	Personalmente yo utilizo Visual Studio Code y Notepad++ como extra
 
-* **Javier Téllez** (1)
+* **Javier Téllez** (1) [997497](https://platzi.com/comentario/997497/) 
 
-	
 	con **typeof ** la consola de tu navegador te puede decir el tipo de variable.
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997487](https://platzi.com/comentario/997487/) 
 
-	
 	Editores de texto:  
 	1.- Visual Studio Code  
 	2.-Brackets  
@@ -1617,102 +1386,86 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	etc… utiliza el que mas te acomodes
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997225](https://platzi.com/comentario/997225/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-	* **Cristian Rivera Herrera** (4)
+	* **Cristian Rivera Herrera** [997225] (4)
 
-		
 		No se si recuerdas, pero los comentarios en los cursos son para dar puntos de vista sobre los mismos, experiencias y/o aportes.
 
-	* **William Camilo Guzmán Espitia** (4)
+	* **William Camilo Guzmán Espitia** [997225] (4)
 
-		
 		Lástima que no hay una opción para reportar ciertos comentarios como “spam”. Este tipo en todos los videos es con lo mismo.
 
-* **Lorenzo David Lezcano** (1)
+* **Lorenzo David Lezcano** (1) [997044](https://platzi.com/comentario/997044/) 
 
-	
 	Excelente herramienta el typeof
 
-	* **arturoperezfigueroa** (1)
+	* **arturoperezfigueroa** [997044] (1)
 
-		
 		No es una herramienta, es un operador.
 
-* **Aaron Gonzalez (Platzi)** (1)
+* **Aaron Gonzalez (Platzi)** (1) [968625](https://platzi.com/comentario/968625/) 
 
-	
 	Para iniciar yo recomiendo usar <https://www.atom.io> 😄
 
-	* **Reny Severiche** (6)
+	* **Reny Severiche** [968625] (6)
 
-		
 		Ante lo utilizaba, pero agregando extensiones se volvio bastante lento cosa que con VSC no pasa.
 
-	* **Cristian Andrés Córdova Valencia** (4)
+	* **Cristian Andrés Córdova Valencia** [968625] (4)
 
-		
 		VS Code is love.
 
-	* **AlexanderAReyes** (2)
+	* **AlexanderAReyes** [968625] (2)
 
-		
 		Exacto, para iniciar esta muy bien.  
 		Recordemos que manejar otras opciones para editar nuestros programas, será un plus para nosotros, no nos encerremos solo con una opción.
 		
 		Yo, uso VS Code como editor principal, pero Atom es una muy buena opción.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [968625] (1)
 
-		
 		Totalmente de acuerdo **@AlexanderAReyes** 😄  
 		Yo comencé con Atom y luego pasé a VSCode. Actualmente uso ambos según sea el caso 😄
 
-* **ROGELIO TREJO SANCHEZ** (0)
+* **ROGELIO TREJO SANCHEZ** (0) [1007750](https://platzi.com/comentario/1007750/) 
 
-	
 	Una clase muy bien explicada así si da gusto aprender, saludos
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1007750] (1)
 
-		
 		¡Hola, Rogelio! 😄  
 		Todos nuestros profesores son el top de la industria y su área 😄. Por ejemplo, en el área de Frontend todos nuestros profesores son Google Developer Experts 😉
 
-* **Cesar Alberto Flores Herrera** (0)
+* **Cesar Alberto Flores Herrera** (0) [997855](https://platzi.com/comentario/997855/) 
 
-	
 	Hola, tengo un problema, no me deja abrir el archivo en google chrome, ya lo busque en abrir con… y no aparece la opcion de google. Que puedo hacer?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [997855] (1)
 
-		
 		Intenta arrastrando el archivo a una nueva pestaña de Chrome 😄
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [997855] (1)
 
-		
 		🤔 Un error poco raro, César.  
 		Te recomiendo lo siguiente:
 		
-		  * Revisa que la extensión del archivo esté escrita correctamente.
-		  * Arrastra el archivo a la venta de Chrome una vez hayas verificado esto.
+		* Revisa que la extensión del archivo esté escrita correctamente.
+		* Arrastra el archivo a la venta de Chrome una vez hayas verificado esto.
 		
 		
 
-## 0040. Variables
+## 0040. Variables [26293](https://platzi.com/clases/1814-basico-javascript/26293-variables/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **lmoran** (10)
+* **lmoran** (10) [1013051](https://platzi.com/comentario/1013051/) 
 
-	
 	Dentro de JavaScript tenemos tres formas de declarar una variable las cuales son: **var** , **const** y **let.**
 	
 	  1. **Var:** Era la forma en que se declaraban las variables hasta ECMAScript 5. Casi ya no se usa porque es de forma global y tiene las siguientes características:
@@ -1741,44 +1494,36 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	
 
-* **hidalgolopezdaniel** (7)
+* **hidalgolopezdaniel** (7) [998939](https://platzi.com/comentario/998939/) 
 
-	
 	Creo que deberían de enriquecer este video con las diferencias y buenas prácticas de “let” “const” y “var”.
 
-	* **JhonColorado07** (1)
+	* **JhonColorado07** [998939] (1)
 
-		
 		Exacto por muy básico que sea deberían haber explicado la diferencias de éstas.
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [998939] (3)
 
-		
 		Eso está en el [Curso de Fundamentos de JavaScript](https://platzi.com/clases/fundamentos-javascript/), que deberías tomar antes de este. Acá la clase [var, let y const: las diferencias entre ellos](https://platzi.com/clases/1339-fundamentos-javascript/12974-var-let-y-const-las-diferencias-entre-ellos/) 😄
 
-	* **luisrovez** (1)
+	* **luisrovez** [998939] (1)
 
-		
 		También creo que ese tema debería estar en este curso, ya que, como su nombre lo dice, es un Curso Básico de JavaScript.
 
-	* **adersonrangel** (1)
+	* **adersonrangel** [998939] (1)
 
-		
 		Ese es el problema de los paths no sabemos cual curso tomar primero… Aunque la explicación está muy bien, profundizare en el concepto. Thanks
 
-	* **Eduardo Zamarron Muñoz** (1)
+	* **Eduardo Zamarron Muñoz** [998939] (1)
 
-		
 		Gabriel, a mi me parece que este curso es mucho más básico que el de Fundamentos. El de fundamentos tiene más contenido en su temario.
 
-	* **Andres Giraldo** (1)
+	* **Andres Giraldo** [998939] (1)
 
-		
 		debo admitir que si esperaba que lo incluyera ya que hablo del ES6 y estándares, una lastima la verdad, terminare este y me iré para el de fundamentos
 
-* **Jhon Alexander Romero Gonzaga** (5)
+* **Jhon Alexander Romero Gonzaga** (5) [1052442](https://platzi.com/comentario/1052442/) 
 
-	
 	Importante saber que los tipos de variables son:
 	``` 
 	    var persona;
@@ -1790,12 +1535,12 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	y ya no se utiliza `var` para declararlas, es preferible let para no tener Bugs.  
 	sigan el [Curso de ECMAScript 6+](https://platzi.com/clases/ecmascript-6/) para aprender sobre las nuevas integraciones de JavaScript, y esta [clase en especifico explica porque debemos utiliza let antes que var](https://platzi.com/clases/1815-ecmascript-6/26122-let-y-const-multilinea-spread-operator-y-desestruc/)
 
-* **Darwin_Saenz** (5)
-![Captura de pantalla 2020-03-20 a las 9.25.08 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-03-20%20a%20las%209.25.08%20a.%C2%A0m.-59b790fb-e770-40c9-bd5d-e55784b7515e.jpg)
-
-* **Steven Angel Coaila Zaa** (4)
-
+* **Darwin_Saenz** (5) [1049815](https://platzi.com/comentario/1049815/) 
 	
+	![Captura de pantalla 2020-03-20 a las 9.25.08 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-03-20%20a%20las%209.25.08%20a.%C2%A0m.-59b790fb-e770-40c9-bd5d-e55784b7515e.jpg)
+
+* **Steven Angel Coaila Zaa** (4) [1026434](https://platzi.com/comentario/1026434/) 
+
 	Un pequeño resumen 😊👌
 	``` 
 	    ////////////////////////
@@ -1815,14 +1560,12 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	    
 	```
 
-* **Manuel Rivera** (3)
+* **Manuel Rivera** (3) [1003786](https://platzi.com/comentario/1003786/) 
 
-	
 	Quisiera haber realizado este curso recien empece a aprender a programar , explica de una manera muy explicita cada detalle, excelente 😄
 
-* **Javier Téllez** (3)
+* **Javier Téllez** (3) [997532](https://platzi.com/comentario/997532/) 
 
-	
 	Para guardar un valor en memoria, se hace a través de variables, es decir, apartar un espacio en memoria para almacenar un valor.
 	
 	Para ello declaramos la variable con la siguiente sintaxis:
@@ -1850,71 +1593,62 @@ Te enseño el curso de javascript pero dentro del curso te digo que ya no vas us
 	
 	Dos atributos de la persona es que su nombre es Diego y su edad es 30.
 
-* **Ariel Alejandro Ureña Morales** (2)
+* **Ariel Alejandro Ureña Morales** (2) [1108448](https://platzi.com/comentario/1108448/) 
 
-	
 	Me encanta esta clase, todo está muy bien explicado.
 
-* **Pablo Rocha** (2)
+* **Pablo Rocha** (2) [1098036](https://platzi.com/comentario/1098036/) 
 
-	
 	Eché de menos en esta clase la explicación de las diferentes formas de declarar una variable, entiendo que se dará en una clase futura de Scope, pero se podría haber mencionado, el esto genial 😃
 
-* **Jharell Alejandra Hidalgo Loya** (2)
+* **Jharell Alejandra Hidalgo Loya** (2) [1086417](https://platzi.com/comentario/1086417/) 
 
-	
 	las posiciones en los arreglos comienzan desde 0 por eso trae “celular”. La posición 0 del array es “computadora”
 
-* **Alejandro Jimenez** (2)
+* **Alejandro Jimenez** (2) [1072211](https://platzi.com/comentario/1072211/) 
 
-	
 	Es mejor usar
 	``` 
 	    let
 	    
 	```
 
-	* **33andres33** (2)
+	* **33andres33** [1072211] (2)
 
-		
 		realmente no me parece yo utilizaria let en algunos casos mas especificos
 
-* **Pablo Victor Vargas** (2)
+* **Pablo Victor Vargas** (2) [1048330](https://platzi.com/comentario/1048330/) 
 
 	```
 	     	    inicializa	    declarar
 	    var		nombre	  =    "Pablo"; 			
 	```
 
-* **Valente IA** (2)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-c38b0ad0-e829-47d6-a543-fd1adbe1127b.jpg)
+* **Valente IA** (2) [1018998](https://platzi.com/comentario/1018998/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-c38b0ad0-e829-47d6-a543-fd1adbe1127b.jpg)
 
-* **andresargote** (2)
+* **andresargote** (2) [87014](https://platzi.com/comentario/1110707/) 
 Alguién conoce alguna web para hacer ejercicios de Js?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [87014] (2)
 
-		
 		Yo soy fan de [codewars.com](http://codewars.com). 😎
 
-* **OmarGbet** (1)
+* **OmarGbet** (1) [1113084](https://platzi.com/comentario/1113084/) 
 
-	
 	“El término «variable» se utiliza aun fuera del ámbito matemático para designar una cantidad susceptible de tomar distintos valores numéricos dentro de un conjunto de números especificado.​” Según Wikipedia.
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [1106237](https://platzi.com/comentario/1106237/) 
 
-	
 	Que buena explicación
 
-* **durbonca** (1)
+* **durbonca** (1) [1100985](https://platzi.com/comentario/1100985/) 
 
-	
 	ya, y si no quiero poner el ; por que yo soy de EMAC script 2016 y soy flojo para escribir…
 
-* **garciafran** (1)
+* **garciafran** (1) [1098574](https://platzi.com/comentario/1098574/) 
 
-	
 	Resumen:
 	``` 
 	    var nombre = "Francisco";
@@ -1937,14 +1671,12 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097288](https://platzi.com/comentario/1097288/) 
 
-	
 	muy bien explicado
 
-* **Ezequiel Garcia Camarena** (1)
+* **Ezequiel Garcia Camarena** (1) [1086370](https://platzi.com/comentario/1086370/) 
 
-	
 	Mi nota:  
 	Que son las variables y como se utilizan.  
 	Que es una variable: como representación de un lugar en memoria que se reserva para guardar un valor. Sintaxis var nombre = “Ezequiel”;
@@ -1957,37 +1689,31 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	Declaración y asignación de una variable.  
 	Var elementos = [“computadora”,”celular”]
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1081954](https://platzi.com/comentario/1081954/) 
 
-	
 	…
 
-* **fabio-hernan-mosquera-obando** (1)
+* **fabio-hernan-mosquera-obando** (1) [1079014](https://platzi.com/comentario/1079014/) 
 
-	
 	vamos con calma…
 
-* **33andres33** (1)
+* **33andres33** (1) [1071995](https://platzi.com/comentario/1071995/) 
 
-	
 	el ; no es muy utilizado en la actualidad yo no lo utilizo no se si todavia sea buenas practicas utilizarlo
 
-	* **Germán González** (1)
+	* **Germán González** [1071995] (1)
 
-		
 		Es una buena practica usarlo, te va a ahorrar problemas luego.
 
-* **picojohn** (1)
+* **picojohn** (1) [1070875](https://platzi.com/comentario/1070875/) 
 
-	
 	muy buena clase
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1070750](https://platzi.com/comentario/1070750/) 
 
-	
 	Buena explicación.
 
-* **Luis Diego Maroto Segura** (1)
+* **Luis Diego Maroto Segura** (1) [1069984](https://platzi.com/comentario/1069984/) 
 
 	```
 	    /*
@@ -2008,9 +1734,8 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	    
 	```
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1067990](https://platzi.com/comentario/1067990/) 
 
-	
 	**Var** es la palabra reservada por javascript que representa el espacio de memoria donde se guarda la variable.
 	
 	**//Declarando una variable**  
@@ -2021,32 +1746,28 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	**//Array**  
 	var lenguajes = [“Javascript”, “C#”]
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1067454](https://platzi.com/comentario/1067454/) 
 
-	
 	Excelente
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1065553](https://platzi.com/comentario/1065553/) 
 
-	
 	Sobre qué es una variable
 
-* **ASSACOLOMBIA** (1)
-![1.jpg](https://static.platzi.com/media/user_upload/1-0695f3b9-8841-4822-ad4a-e0c5a9123262.jpg)
-
-* **gonzaloPzl** (1)
-
+* **ASSACOLOMBIA** (1) [1057850](https://platzi.com/comentario/1057850/) 
 	
+	![1.jpg](https://static.platzi.com/media/user_upload/1-0695f3b9-8841-4822-ad4a-e0c5a9123262.jpg)
+
+* **gonzaloPzl** (1) [1056203](https://platzi.com/comentario/1056203/) 
+
 	Una _variable_ es la representación de algún lugar en memoria que nosotros vamos a reservar para guardar un valor.
 
-* **Raundy Ibarras** (1)
+* **Raundy Ibarras** (1) [1050886](https://platzi.com/comentario/1050886/) 
 
-	
 	Good class!
 
-* **cambel24** (1)
+* **cambel24** (1) [1045980](https://platzi.com/comentario/1045980/) 
 
-	
 	con cada vídeo quiero mas.
 	
 	****_// declaracion e inicializacion de un arreglo_****  
@@ -2059,22 +1780,19 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	edad : 30  
 	}
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1044610](https://platzi.com/comentario/1044610/) 
 
-	
 	Excelente !
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1036664](https://platzi.com/comentario/1036664/) 
 
-	
 	¿editor de texto? ú ¿editor de código?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1036664] (1)
 
-		
 		Los editores como VSCode, Sublime o Atom, son editores de texto plano que pueden editar código de manera eficiente incluso llegando a poder ser un IDE a través de extensiones. La línea ya no está tan clara hoy en día 😛
 
-* **roberto vargas castro** (1)
+* **roberto vargas castro** (1) [1035877](https://platzi.com/comentario/1035877/) 
 
 	```
 	    <var nombre = "Roberto";
@@ -2090,14 +1808,12 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	    
 	```
 
-* **Andres Giraldo** (1)
+* **Andres Giraldo** (1) [1035598](https://platzi.com/comentario/1035598/) 
 
-	
 	variable es un espacio en memoria reservado para almacenar un valor
 
-* **sofia.condori** (1)
+* **sofia.condori** (1) [1024488](https://platzi.com/comentario/1024488/) 
 
-	
 	40
 	
 	“Sofia Condori”
@@ -2111,9 +1827,8 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	[1,2,3]  
 	{nombre: “Sofia”}
 
-* **Gerardo Nava Pereda** (1)
+* **Gerardo Nava Pereda** (1) [1023290](https://platzi.com/comentario/1023290/) 
 
-	
 	## var
 	``` 
 	    console.log(edad) // undefined
@@ -2128,42 +1843,35 @@ Alguién conoce alguna web para hacer ejercicios de Js?
 	    
 	```
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1018989](https://platzi.com/comentario/1018989/) 
 
-	
 	tema básico pero bien explicado
 
-* **Bervive** (1)
+* **Bervive** (1) [1007673](https://platzi.com/comentario/1007673/) 
 
-	
 	Ya estaba un poco familiarizado con los términos gracias al curso de programación básica, aun así, esta muy bien repasar para agarrar solvencia
 
-* **wAguilar** (1)
+* **wAguilar** (1) [1006205](https://platzi.com/comentario/1006205/) 
 
-	
 	“Variable es la representación de un espacio en memoria que se va a reservar para guardar un valor”
 
-* **Guillermo Vega Diaz** (1)
+* **Guillermo Vega Diaz** (1) [1005741](https://platzi.com/comentario/1005741/) 
 
-	
 	Me encantaria que todas las clas las explicaran de esta forma tan clara con el trasfondo de porque son las cosas.
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1004134](https://platzi.com/comentario/1004134/) 
 
-	
 	Me gusta este tipo de clases son muy dinamicas, explica teorias y luego hace ejemplos!!
 
-* **Julián David Palacios Cárdenas** (1)
+* **Julián David Palacios Cárdenas** (1) [999547](https://platzi.com/comentario/999547/) 
 Diego explica de forma muy clara y concreta los tipos de variables en JS.
 
-* **Gilmar Natanael Morán Aquino** (1)
+* **Gilmar Natanael Morán Aquino** (1) [999476](https://platzi.com/comentario/999476/) 
 
-	
 	Variable: representación de algún espacio en memoria que vamos a reservar para almacenar valores, y esos valores pueden ser de varios tipos.
 
-* **Aby Leyva** (1)
+* **Aby Leyva** (1) [998886](https://platzi.com/comentario/998886/) 
 
-	
 	Variables: para guardar el valor en memoria y poder utilizarlo posteriormente…  
 	Importante no perder en cuenta la cuestión de que es **débilmente tipado** ( _Visto en la primera clase_ ) el cual implica que una variable puede cambiar de tipo de dato a traves de una re-asignación por ejemplo:
 	``` 
@@ -2178,7 +1886,7 @@ Diego explica de forma muy clara y concreta los tipos de variables en JS.
 	
 	**Byegon**
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [998519](https://platzi.com/comentario/998519/) 
 
 	```
 	     //Ejemplo de variable:
@@ -2201,71 +1909,61 @@ Diego explica de forma muy clara y concreta los tipos de variables en JS.
 	    
 	```
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997504](https://platzi.com/comentario/997504/) 
 
-	
 	Me gusta mucho la explicación de las variables de JavaScript
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997257](https://platzi.com/comentario/997257/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997256](https://platzi.com/comentario/997256/) 
 
-	
 	primer comentario
 
-* **JuanFe98** (1)
+* **JuanFe98** (1) [84559](https://platzi.com/comentario/1053413/) 
 ¿Cuál es la diferencia entre “var” y “let” a la hora de crear variables? ¿Cuándo uso cada una?
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (1)
+	* **Juan Felipe Peralta Zapata (Platzi)** [84559] (1)
 
-		
 		La diferencia principal es el alcance que va a tener esa variable dentro del código. Si se usa **var** , esta tendrá un alcance global. Si se usa **let** , el alcance se limitará a la función o bloque donde fue declarada.
 		
 		Eso se explica en profundidad en este curso: [Curso de Closures y Scope en JavaScript](https://platzi.com/clases/scope/). 😄
 
-* **ArielScc** (1)
+* **ArielScc** (1) [82126](https://platzi.com/comentario/997922/) 
 Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una variable?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [82126] (2)
 
-		
 		Sip, sin embargo es sólo el espacio que tomaría la palabra “NULL” en el interpreter. Si quieres aprender quién es el interpreter, te recomiendo tomar en un futuro el [Curso de JavaScript Engine(V8) y el Navegador](https://platzi.com/clases/javascript-navegador/) 😄
 
-* **savier687** (0)
+* **savier687** (0) [997429](https://platzi.com/comentario/997429/) 
 
-	
 	El punto y coma dependera del consenso en el que llegue el equipo de trabajo en el cual estas desarrollando, hay algunos casos en Js donde el punto y coma es estrictamente necesario, por lo tanto es recomendable usarlo,xD
 
-## 0050. Funciones
+## 0050. Funciones [26294](https://platzi.com/clases/1814-basico-javascript/26294-funciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **rmmartinez** (7)
+* **rmmartinez** (7) [1001419](https://platzi.com/comentario/1001419/) 
 
-	
 	Para pasar a la siguiente línea en la consola, sin ejecutar el código, presiona Shift + Enter
 
-	* **luisrovez** (1)
+	* **luisrovez** [1001419] (1)
 
-		
 		gracias por el tip
 
-* **arturoperezfigueroa** (6)
+* **arturoperezfigueroa** (6) [998686](https://platzi.com/comentario/998686/) 
 
-	
 	Lista de palabras reservadas de JS
 	
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Palabras_Reservadas>
 
-* **garciafran** (4)
+* **garciafran** (4) [1098796](https://platzi.com/comentario/1098796/) 
 
-	
 	Super la expliacion, aqui el resumen
 	``` 
 	    //hay dos tipos de funciones
@@ -2299,23 +1997,20 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **dacarr** (4)
+* **dacarr** (4) [1017542](https://platzi.com/comentario/1017542/) 
 
-	
 	entonces las arrow function son la evolución de las funciones expresivas, en donde el nombre de la función pasa a ser el nombre de la variable y los parametros con el bloque de codigo su valor
 	``` 
 	    var saludo = (nombre) => { console.log("hola " + nombre); }```
 	    
 	```
 
-	* **Angel Joaquín Velasco Gómez** (2)
+	* **Angel Joaquín Velasco Gómez** [1017542] (2)
 
-		
 		Las arrow function son diferentes, debes de saber cuando usarlas porque ellas manejan de otra forma el this.
 
-* **matias-alexander-ibarra-trujil** (4)
+* **matias-alexander-ibarra-trujil** (4) [999735](https://platzi.com/comentario/999735/) 
 
-	
 	Hay un tipo de funcion que se llama IIFE, que significa Expresión de Función Invocada Inmediatamente.
 	
 	Por supuesto, los IIFE no necesitan nombres, necesariamente — la forma más común de IIFE es usar una expresión de función anónima. Aunque ciertamente es menos común, nombrar un IIFE tiene beneficios sobre las expresiones de función anónimas, por lo que es una buena práctica.
@@ -2323,9 +2018,8 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	la ventaja es que optimiza el codigo ya que no debo nombrar y llamar la función  
 	.
 
-	* **Cristian Camilo Cucunubá** (1)
+	* **Cristian Camilo Cucunubá** [999735] (1)
 
-		
 		Para convertir la funcion expresiva/anonima de la clase en una IIFE seria algo asi
 		``` 
 		    (function() {
@@ -2337,7 +2031,7 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 		
 		Asi la funcion se declara y ejecuta automaticamente
 
-* **Ulises Antonio Sámano Galván** (3)
+* **Ulises Antonio Sámano Galván** (3) [1113132](https://platzi.com/comentario/1113132/) 
 
 	```
 	    Funciones
@@ -2388,9 +2082,8 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	
 	_Nombre de la función(); _
 
-* **Jhon Alexander Romero Gonzaga** (3)
+* **Jhon Alexander Romero Gonzaga** (3) [1052472](https://platzi.com/comentario/1052472/) 
 
-	
 	al declara una función expresiva o también una arrow function, es mejor utilizar `const` ya que no se la volverá a reasignar un valor a futuro. No utilicen `var`.
 	``` 
 	    const miFuncion = function(a, b){
@@ -2399,27 +2092,23 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **EmiGarello** (3)
+* **EmiGarello** (3) [1051342](https://platzi.com/comentario/1051342/) 
 
-	
 	tenia pensado saltarme el curso para arrancar Profesional, pero la verdad que esto aclara muchisimo el panorama para los que recien estamos empezando, gracias.
 
-* **Juan Diego Luque Linares** (3)
+* **Juan Diego Luque Linares** (3) [1050274](https://platzi.com/comentario/1050274/) 
 
-	
 	La Comilla que utiliza en consola ` es Alt+96  
 	😄
 
-* **Javier Téllez** (3)
+* **Javier Téllez** (3) [997622](https://platzi.com/comentario/997622/) 
 
-	
 	Hay dos tipos de funciones, declarativas y de Expresión.  
 	Las funciones declarativas se llaman así porque les declaramos un nombre a la función.  
 	Las funciones expresivas, también son conocidas como anónimas porque no les ponemos un nombre a la función, simplemente almacenamos la función dentro de una variable.
 
-* **Ariel Alejandro Ureña Morales** (2)
+* **Ariel Alejandro Ureña Morales** (2) [1108619](https://platzi.com/comentario/1108619/) 
 
-	
 	Intento de una funcion para darte las gracias c:
 	``` 
 	    functionagradecer(profesor){
@@ -2428,80 +2117,65 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **durbonca** (2)
+* **durbonca** (2) [1104956](https://platzi.com/comentario/1104956/) 
 
-	
 	Diferencias prácticas?
 
-	* **Ulises Antonio Sámano Galván** (1)
+	* **Ulises Antonio Sámano Galván** [1104956] (1)
 
-		
 		Las funciones de expresión solo deben usarse cuando van a ser utilizadas en una o pocas ocasiones, ya que solo pueden ser ejecutadas cuando el navegador lea esa parte del código. En cambio, las funciones declarativas están disponibles siempre.
 
-* **ASSACOLOMBIA** (2)
+* **ASSACOLOMBIA** (2) [1074339](https://platzi.com/comentario/1074339/) 
 
-	
 	Me cuesta entender los de las funciones, esperemos como nos va en el camino .
 
-	* **Germán González** (1)
+	* **Germán González** [1074339] (1)
 
-		
 		Que no entiendes de las funciones a ver como te ayudamos.
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [1074339] (1)
 
-		
 		Todo es cuestión de que practiques mucho sin embargo déjanos saber q no entiendes tal vez te podamos ayudar
 
-* **gonzaloPzl** (2)
+* **gonzaloPzl** (2) [1056272](https://platzi.com/comentario/1056272/) 
 
-	
 	Las **Funciones** son un conjunto de sentencias que podemos utilizar para generar ciertas acciones con los valores que guardamos en las variables.
 
-* **Oveja_Gt** (2)
+* **Oveja_Gt** (2) [1045177](https://platzi.com/comentario/1045177/) 
 
-	
 	Para los que tengan configurado el teclado para latinoamérica, puede sacar las comillas utilizadas en el ejemplo con **ctrl + alt + `** y luego presionar la tecla espaciadora.
 
-* **Andres Giraldo** (2)
+* **Andres Giraldo** (2) [1035746](https://platzi.com/comentario/1035746/) 
 
-	
 	es de practicar mucho, el tema de las funciones esta bastante amplio pero con estos ejemplos quedo muy claro, ahora la misión es practicar
 
-* **Brandon Iván Quiroa Loarca** (2)
+* **Brandon Iván Quiroa Loarca** (2) [1029535](https://platzi.com/comentario/1029535/) 
 
-	
 	Estoy aprendiendo bastante con el.
 
-* **Francisco de Jesus** (2)
+* **Francisco de Jesus** (2) [1004202](https://platzi.com/comentario/1004202/) 
 
-	
 	Nunca aprendi tanto en una sola clase!!
 
-* **andresargote** (1)
+* **andresargote** (1) [1110763](https://platzi.com/comentario/1110763/) 
 
-	
 	 **Entonces** los parametros son como variables?
 
-	* **Eduardo Hernand** (1)
+	* **Eduardo Hernand** [1110763] (1)
 
-		
 		Si ahi estas declarando variables que solo viviran en la función(por algo llamdo Scope local)
 
-* **David Rodriguez** (1)
+* **David Rodriguez** (1) [1109613](https://platzi.com/comentario/1109613/) 
 
-	
 	Muy bien explicado!!!  
 	mas claro imposible
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1108585](https://platzi.com/comentario/1108585/) 
 
-	
 	Excelente explicacion. c:
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [1107425](https://platzi.com/comentario/1107425/) 
 
-	
 	 **Función Expresiva**
 	
 	Denominamos una función expresiva a una variable que guarda una función a esta función se le llama también función anónima y por lo tanto propiamente la función no tiene nombre
@@ -2522,20 +2196,17 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	
 	miFuncion() // Para llamar mi función`
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [1098105](https://platzi.com/comentario/1098105/) 
 
-	
 	Buena explicación!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097296](https://platzi.com/comentario/1097296/) 
 
-	
 	Igual bien explicado!!
 
-* **Ginnio Sarabia** (1)
+* **Ginnio Sarabia** (1) [1096624](https://platzi.com/comentario/1096624/) 
 
-	
-	  * **FUNCIÓN DECLARATIVA**
+	* **FUNCIÓN DECLARATIVA**
 	
 	
 	``` 
@@ -2546,7 +2217,7 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 	
-	  * **FUNCIÓN EXPRESIVA**
+	* **FUNCIÓN EXPRESIVA**
 	
 	
 	``` 
@@ -2557,48 +2228,41 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **Robinson Matias Aguilar Bascuñan** (1)
+* **Robinson Matias Aguilar Bascuñan** (1) [1093087](https://platzi.com/comentario/1093087/) 
 
-	
 	como hago ese tipo de comillas para colocar la variable en un string ?  
 	“hola ${estudiante}”
 
-	* **Jorge Mendez Ortega** (1)
+	* **Jorge Mendez Ortega** [1093087] (1)
 
-		
 		para eso tienes que utilizar ` (no es una comilla simple se conocse como apostrofo) y tu ejemplo queda asi
 		``` 
 		    console.log(`Hola ${estudiante}`);
 		    
 		```
 
-	* **Jorge Andrés Grey Cornejo** (1)
+	* **Jorge Andrés Grey Cornejo** [1093087] (1)
 
-		
 		Depende de la configuración de idioma de tu pc y el teclado que tengas. Busca en que botón de tu teclado está ese símbolo y oprímela, sí no te sirve prueba con AltGr + esa tecla o sino prueba con Alt+96.
 
-* **oscar-abraham-carrillo** (1)
+* **oscar-abraham-carrillo** (1) [1090974](https://platzi.com/comentario/1090974/) 
 
-	
 	Otra forma de hacer la suma con arrow functions un concepto que despues lo vemos en fundamentos pero es practiacemnte una abrevación de la palabra function con una flechita =>
 	``` 
 	    var suma = (a,b)=>console.log(`${a+b}`)
 	    
 	```
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1090929](https://platzi.com/comentario/1090929/) 
 
-	
 	muy interesante
 
-* **Alexander Montalvo** (1)
+* **Alexander Montalvo** (1) [1090261](https://platzi.com/comentario/1090261/) 
 
-	
 	Entiendo todo pero me gustaria mejor hacer mas ejecicios 😃
 
-* **Ezequiel Garcia Camarena** (1)
+* **Ezequiel Garcia Camarena** (1) [1086469](https://platzi.com/comentario/1086469/) 
 
-	
 	Clase 5. Funciones  
 	Que son las funciones -> son un conjunto de sentencias que nosotros utilizamos para generar ciertas acciones con las variables, y regresar algo.  
 	Tenemos 2 tipos de Funciones: Declarativas y de Expresión
@@ -2617,29 +2281,24 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	}  
 	Mifuncion(1,2);
 
-* **Angelo Zambrano** (1)
+* **Angelo Zambrano** (1) [1085788](https://platzi.com/comentario/1085788/) 
 
-	
 	No entendí muy bien la diferencia lógica entre una función declarativa y de expresión. ?
 
-	* **Jharell Alejandra Hidalgo Loya** (2)
+	* **Jharell Alejandra Hidalgo Loya** [1085788] (2)
 
-		
 		en la de expresión el resultado final sera el que se guarde en la variable que declaraste
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1082635](https://platzi.com/comentario/1082635/) 
 
-	
 	:0
 
-* **vanesora** (1)
+* **vanesora** (1) [1078074](https://platzi.com/comentario/1078074/) 
 
-	
 	haciendolo tal cual me sale hola ${estudiante}
 
-	* **Moises19** (1)
+	* **Moises19** [1078074] (1)
 
-		
 		De seguro te falto poner las comillas invertidas:
 		``` 
 		    ``
@@ -2650,24 +2309,20 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 		    
 		```
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071025](https://platzi.com/comentario/1071025/) 
 
-	
 	Excelente.
 
-	* **Germán González** (1)
+	* **Germán González** [1071025] (1)
 
-		
 		Hey Tocayo.
 
-* **picojohn** (1)
+* **picojohn** (1) [1071001](https://platzi.com/comentario/1071001/) 
 
-	
 	huy, muy bueno, habia utilizado funciones antes, en otro lenguaje, me perdi algo en las expresivas y declarativas, buscare mas, a seguir aprendiendo
 
-* **Luis Diego Maroto Segura** (1)
+* **Luis Diego Maroto Segura** (1) [1070066](https://platzi.com/comentario/1070066/) 
 
-	
 	Notas de esta lección:
 	``` 
 	    /*
@@ -2729,14 +2384,12 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1068623](https://platzi.com/comentario/1068623/) 
 
-	
 	Template Strings (Plantilla de Cadena de Texto)
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1068117](https://platzi.com/comentario/1068117/) 
 
-	
 	Sintaxis de la función de JavaScript  
 	Una función de JavaScript se define con la functionpalabra clave, seguida de un nombre , seguido de paréntesis () .
 	
@@ -2765,29 +2418,24 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	**//Interpolación de Cadenas**  
 	console.log(`Hola! Soy ${estudiante}`);
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1067514](https://platzi.com/comentario/1067514/) 
 
-	
 	Funciones declarativas y de expresion.
 
-* **gustavoadolfocastaedalondo** (1)
+* **gustavoadolfocastaedalondo** (1) [1063971](https://platzi.com/comentario/1063971/) 
 
-	
 	Las funciones sirve para empaquetar pedazos de código, reducir la repetición de código y asociarle nombre a varios subprogramas.
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1044621](https://platzi.com/comentario/1044621/) 
 
-	
 	Wow, todos los días se aprende algo, por pequeña que sea
 
-* **lmoran** (1)
+* **lmoran** (1) [1013069](https://platzi.com/comentario/1013069/) 
 
-	
 	Utilizó lo que son template literal: esas comilla en windows se sacan con Alt + 96.
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1011999](https://platzi.com/comentario/1011999/) 
 
-	
 	bloque de código que define la función:
 	
 	La palabra clave ‘function‘  
@@ -2795,57 +2443,47 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	Unos paréntesis que añadimos al nombre para identificarla como función: miFuncion()  
 	Un bloque de instrucciones que queda encerrado entre llaves { } . En este caso solo hemos incluido una (return), pero podrían ser varias. Las instrucciones deben llevar al final el correspondiente punto y coma (😉
 
-* **Carlos Eduardo Diaz Polanco** (1)
+* **Carlos Eduardo Diaz Polanco** (1) [1011427](https://platzi.com/comentario/1011427/) 
 
-	
 	Excelente contenido!
 
-* **Frank Carmona** (1)
+* **Frank Carmona** (1) [1011108](https://platzi.com/comentario/1011108/) 
 
-	
 	muy bueno
 
-* **Bervive** (1)
+* **Bervive** (1) [1007727](https://platzi.com/comentario/1007727/) 
 
-	
 	Ojala pronto empecemos a hacer proyectos, creo que así aprendo mejor que solo con ejemplos o definiciones.
 
-* **Guillermo Vega Diaz** (1)
+* **Guillermo Vega Diaz** (1) [1005764](https://platzi.com/comentario/1005764/) 
 
-	
 	Excelente funciones Declarativas y Expresivas o Anonimas
 
-* **Lucila Belen Pésaro** (1)
+* **Lucila Belen Pésaro** (1) [1004253](https://platzi.com/comentario/1004253/) 
 
-	
 	Explica muy bien =)
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [1003833](https://platzi.com/comentario/1003833/) 
 
-	
 	y las arrows functions ? No se consideran funciones ?
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [999962](https://platzi.com/comentario/999962/) 
 
-	
 	¿cuándo o en que casos debo usar una función expresiva y una anónima?
 
-	* **Cristian Camilo Cucunubá** (1)
+	* **Cristian Camilo Cucunubá** [999962] (1)
 
-		
 		Hola, una funcion expresiva y anonima son la misma cosa, depronto quisites decir cuando usar una declarativa y una expresiva/anonima. Te comparto este [post](https://dev.to/designpuddle/coding-concepts---anonymous-methods-a9o) donde puedes ver cuando usar una funcion anonima.
 
-	* **luisrovez** (2)
+	* **luisrovez** [999962] (2)
 
-		
 		Lo que hago usualmente es usar las funciones expresivas para almacenar cierto resultado, por ejemplo, detectar un evento y almacenarlo en la variable para posteriormente compararlo. Las anónimas las uso para ejecutar un bloque de código en ese momento, por ejemplo, el click en un botón y mandar un saludo justo después del click.
 
-* **Aby Leyva** (1)
+* **Aby Leyva** (1) [998894](https://platzi.com/comentario/998894/) 
 
-	
 	Las funciones tienen una gran funcionalidad y es que nos **permite reutilizar código** al permitir ejecutar una acción o serie de acciones y tan solo se manda a llamar cada vez que sea requerido y solo pasando parámetros si es que se requieren.
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [998586](https://platzi.com/comentario/998586/) 
 
 	```
 	    //Declarativas
@@ -2867,12 +2505,11 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997534](https://platzi.com/comentario/997534/) 
 
-	
 	Las conocía solo como anónimas
 
-* **savier687** (1)
+* **savier687** (1) [997476](https://platzi.com/comentario/997476/) 
 
 	```
 	    // Tipos de funciones
@@ -2895,17 +2532,15 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997277](https://platzi.com/comentario/997277/) 
 
-	
 	dos puntos por terminar de ver el video :V
 
-	* **savier687** (2)
+	* **savier687** [997277] (2)
 
-		
 		De verdad haras esto en todos los videos?
 
-* **juanlondono** (1)
+* **juanlondono** (1) [997178](https://platzi.com/comentario/997178/) 
 
 	```
 	    // Funciones declarativas
@@ -2926,25 +2561,22 @@ Perdón. ¿El objeto nullocupa espacio de memoria cuando se lo utiliza en una va
 	    
 	```
 
-* **Lorenzo David Lezcano** (1)
+* **Lorenzo David Lezcano** (1) [997088](https://platzi.com/comentario/997088/) 
 
-	
 	Muy buena explicación sobre las funciones
 
-* **ironcap** (1)
+* **ironcap** (1) [84898](https://platzi.com/comentario/1061784/) 
 Entonces, y vieendo la lección anterior; una expresión es: // ¿Todo ésto es una expresión? (la delcaración y asignación de variables en c...
 
-	* **Marco Aurelio Elizalde Torres** (1)
+	* **Marco Aurelio Elizalde Torres** [84898] (1)
 
-		
 		así es, estas declarando y asignado la variable.
 
-* **Añaqui Apolinar Morales** (1)
+* **Añaqui Apolinar Morales** (1) [82276](https://platzi.com/comentario/1001705/) 
 Como declaro en mi funcion si la variable que recibe es obligatoria ???
 
-	* **Luis Arturo Lira Cerda** (3)
+	* **Luis Arturo Lira Cerda** [82276] (3)
 
-		
 		Actualmente con JavaScript vanilla no existe algo así como en otros lenguajes como C#, Java, etc.
 		
 		Existe TypeScript, que cuenta con esa posibilidad de tipado de datos y POO, extiende todas la capacidades de JS. Además de que existen otras librerías que seguramente dan esta posibilidad.
@@ -2968,7 +2600,7 @@ Como declaro en mi funcion si la variable que recibe es obligatoria ???
 		    
 		```
 
-## 0060. ¿Cuándo utilizar una función declarativa y una expresiva
+## 0060. ¿Cuándo utilizar una función declarativa y una expresiva [26295](https://platzi.com/clases/1814-basico-javascript/26295-cuando-utilizar-una-funcion-declarativa-y-una-expr/)
 
 ### Descripción:
 
@@ -3011,34 +2643,28 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 
 ### Comentarios:
 
-* **Fernando Alejandro Yerena Ramos** (21)
+* **Fernando Alejandro Yerena Ramos** (21) [1051483](https://platzi.com/comentario/1051483/) 
 
-	
 	El profesor Sacha Lifzyc, del Curso de Fundamentos de JavaScript tiene un video en Youtube explicando que es el _Hoisting_. Un recurso imperdible: [¿QUÉ ES EL HOISTING en JAVASCRIPT? | JS en ESPAÑOL](https://www.youtube.com/watch?v=uI6o97A4IrI)
 
-	* **Alexander Nova Arevalo** (2)
+	* **Alexander Nova Arevalo** [1051483] (2)
 
-		
 		Me gusta el video, me dejo claro todo con el GLOBO 😄:D
 
-	* **Javier Andres Gamboa Duarte** (1)
+	* **Javier Andres Gamboa Duarte** [1051483] (1)
 
-		
 		woow gracias!
 
-	* **Andres Burbano** (2)
+	* **Andres Burbano** [1051483] (2)
 
-		
 		Wow muy bueno. Muchas gracias.
 
-	* **ELITA CAMPOJO GUEVARA** (1)
+	* **ELITA CAMPOJO GUEVARA** [1051483] (1)
 
-		
 		Veré el video para entender lo del Hoisting. Gracias.
 
-* **Eleazar Carreón Álvarez** (14)
+* **Eleazar Carreón Álvarez** (14) [1007500](https://platzi.com/comentario/1007500/) 
 
-	
 	Aquí estoy llamando la función antes de que sea declarada;
 	``` 
 	    mostrarMensaje();
@@ -3062,49 +2688,40 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	
 	Mostrara un error de que no es una función, pues no ha surtido efecto el hoisting.
 
-	* **ferchodleon** (2)
+	* **ferchodleon** [1007500] (2)
 
-		
 		Que buen ejemplo, me quedo mucho mas claro, gracias!!!
 
-	* **Chrystian Fabian Lozano Ramirez** (1)
+	* **Chrystian Fabian Lozano Ramirez** [1007500] (1)
 
-		
 		tan claro como curso de udemy
 
-	* **davidhdez8** (1)
+	* **davidhdez8** [1007500] (1)
 
-		
 		Muy buen ejemplo, excelente.
 
-* **eduvra** (10)
+* **eduvra** (10) [1091431](https://platzi.com/comentario/1091431/) 
 
-	
 	Buena explicación, solo que puede ser un poco confuso al final tan solo por la palabra “Hoisting”, [pero acá puedes aprender más sobre ella.](https://developer.mozilla.org/es/docs/Glossary/Hoisting)
 
-	* **Eric Perez** (2)
+	* **Eric Perez** [1091431] (2)
 
-		
 		Excelente aporte compañero.
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1091431] (1)
 
-		
 		gracias
 
-* **Miguel Ángel Torres Vargas** (7)
+* **Miguel Ángel Torres Vargas** (7) [1000245](https://platzi.com/comentario/1000245/) 
 
-	
 	 **Hoisting:** Es aquel que declara las variables y las funciones antes de que inicie cualquier otro código. En cortas palabras el _Inicializador_ de variables y funciones nativas de JS. _ (Las palabras var y function)_
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1000245] (1)
 
-		
 		Corto y preciso.
 
-* **AITeam** (5)
+* **AITeam** (5) [1066582](https://platzi.com/comentario/1066582/) 
 
-	
 	Lo que pude buscar en internet es esto:  
 	Se llama hoisting al proceso de “elevar” las declaraciones de variables al inicio , es decir, que si declaramos un var y nos ponemos a llamar a esa variable por encima de su declaración podríamos ya tenerla en memoria , pero con valor UNDEFINED
 	
@@ -3115,59 +2732,49 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	import se afecta por completo  
 	class no es afectada por el hoisting
 
-	* **picojohn** (1)
+	* **picojohn** [1066582] (1)
 
-		
 		muy bueno, seguire investigando mas para poder comprender el tema 😃
 
-* **williamlopez123** (5)
+* **williamlopez123** (5) [1031939](https://platzi.com/comentario/1031939/) 
 
-	
 	En pocas palabras la función declarativa, javascript la lee y la guarda en memoria y no importa donde se halla escrito (si se llama la función declarativa antes de ser creada no hay problema puesta que js las lee y las almacena pero con una función de expresión primero se crea y luego se llama)
 
-	* **andrés eduardo betancourt bescanza** (1)
+	* **andrés eduardo betancourt bescanza** [1031939] (1)
 
-		
 		genio
 
-* **arturoperezfigueroa** (5)
+* **arturoperezfigueroa** (5) [998834](https://platzi.com/comentario/998834/) 
 
-	
 	Entiendo la diferencia entre una y otra, pero creo que no explica lo que el título del artículo dice “Cuándo utilizar una u otra”, me refiero a que, ¿en qué casos me conviene mandar llamar la función antes de que sea declarada o viceversa?
 
-	* **matias-alexander-ibarra-trujil** (5)
+	* **matias-alexander-ibarra-trujil** [998834] (5)
 
-		
 		yo creo que es un tema avanzado, pero basicamente es un tema de optimizar el codigo, osea es necesario que declares una funcion? la usaras mas de una vez? es probable que haya una colision de nombres en el alcance global de la funcion ?
 		
 		Hay algunos problemas que introduce. La primera es que tenemos que declarar una función, lo que significa que el propio nombre identificador «contamina» el ámbito de aplicación adjunto (global como ejemplo). También tenemos que llamar explícitamente a la función por su nombre para que el código envuelto realmente se ejecute.  
 		Sería más ideal si la función no necesitara un nombre (o, más bien, el nombre no contaminara el ámbito circundante), y si la función pudiera ejecutarse automáticamente.
 
-	* **hidalgolopezdaniel** (2)
+	* **hidalgolopezdaniel** [998834] (2)
 
-		
 		Arriba puse un ejemplo y otra explicación, ojalá te sirva.  
 		La explicación de Matías-Alexander es acertada
 
-* **juanchaparro9** (4)
+* **juanchaparro9** (4) [1050196](https://platzi.com/comentario/1050196/) 
 
-	
 	Para que al igual que yo quedaba con la duda de que es Hoisting, comparto un buen ejemplo claro para complementar:  
 	<https://developer.mozilla.org/es/docs/Glossary/Hoisting>
 
-* **dayell** (4)
+* **dayell** (4) [1000706](https://platzi.com/comentario/1000706/) 
 
-	
 	se aclarea un poco más en como se diferencia una de otra pero no dice en que situacionese usa una delcarativa o una empresiva???
 
-	* **Cristobal Vega** (2)
+	* **Cristobal Vega** [1000706] (2)
 
-		
 		No hay como tal un caso de uso para una u otra. Como siempre dependerá de los programadores y de el producto que se esté desarrollando. Lo importante aquí es entender que V8 les da un tratamiento diferente si la función es declarativa o expresiva.
 
-	* **hidalgolopezdaniel** (2)
+	* **hidalgolopezdaniel** [1000706] (2)
 
-		
 		Si tu pones una función declarativa y antes de llamarla pones una variable “var, let, const” con el mismo nombre de la función corres el riesgo de cambiar hacia donde apunta… ejemplo:
 		``` 
 		    functionsaludar(nombre) {
@@ -3182,19 +2789,16 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 		    **¿QUÉ ES MEJOR? --- Las Expresivas o Anónimas** (Como medida de seguridad), ya que el nombre utilizado no puede ser reutilizado dentro del código.
 		```
 
-* **matias-alexander-ibarra-trujil** (3)
+* **matias-alexander-ibarra-trujil** (3) [999738](https://platzi.com/comentario/999738/) 
 
-	
 	Nota: La manera más fácil de distinguir entre declaración y expresión es la posición de la palabra «function» en la declaración (no sólo una línea, sino una declaración distinta). Si «function» es lo primero en la sentencia, entonces es una declaración de función. De lo contrario, es una expresión de función.
 
-* **garciafran** (2)
+* **garciafran** (2) [1098844](https://platzi.com/comentario/1098844/) 
 
-	
 	En caso de las funciones declarativas, podemos hacerlas al final de todo el codigo de manera que al final del mismo tengamos todas las funciones, para de esta forma tener el codigo mas ordenado, miesntras que las funciones de expresión las asignamos a la variable al momento de usar, es posible que estas ultimas se usen para un momento especifico o una sola vez. Las declarativas estaran en el programa disponibles en cualquier momento
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [1068311](https://platzi.com/comentario/1068311/) 
 
-	
 	 **function name(parameter1, parameter2, parameter3) {  
 	// code to be executed  
 	}**
@@ -3202,281 +2806,230 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	Los parámetros de la función se enumeran entre paréntesis () en la definición de la función.  
 	Los argumentos de función son los valores recibidos por la función cuando se invoca.
 
-* **Andres Burbano** (2)
+* **Andres Burbano** (2) [1064331](https://platzi.com/comentario/1064331/) 
 
-	
 	Me queda muy claro cual es la diferencia entre ambas. lo de hoisting no lo entendí pero lo investigare.
 
-* **Kevin Vega** (2)
+* **Kevin Vega** (2) [1012011](https://platzi.com/comentario/1012011/) 
 
-	
 	Hoisting manera general de referirse a cómo funcionan los contextos de ejecución en JavaScript (específicamente las fases de creación y ejecución)
 
-* **Eleazar Carreón Álvarez** (2)
+* **Eleazar Carreón Álvarez** (2) [1007446](https://platzi.com/comentario/1007446/) 
 
-	
 	Creo que se refiere a esto. Podemos llamar la función con el hecho de solo ponerlo entre paréntesis la función declarativa y se ejecutará. Ya no tendríamos que llamarla como la expresiva. Esto lo puedes checar en el curso de jQuery a Javascript.  
 	![platzi.jpg](https://static.platzi.com/media/user_upload/platzi-254278fd-519f-48c5-8de5-a6164ce0bf74.jpg)
 
-* **Lorenzo David Lezcano** (2)
+* **Lorenzo David Lezcano** (2) [997108](https://platzi.com/comentario/997108/) 
 
-	
 	Muy útil!
 
-* **ZusMexSide** (1)
+* **ZusMexSide** (1) [1115298](https://platzi.com/comentario/1115298/) 
 
-	
 	Aquí se explica con código un poco más sobre las diferencias  
 	[Enlace](https://www.desarrollolibre.net/blog/javascript/funciones-declarativas-vs-funciones-de-expresiones-en-javascript#.Xo-INMhKhEZ)
 
-* **ZusMexSide** (1)
+* **ZusMexSide** (1) [1115274](https://platzi.com/comentario/1115274/) 
 
-	
 	Realmente las diferencias no fueron muy claras, ojalá alguien las pueda explicar mejor
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1108641](https://platzi.com/comentario/1108641/) 
 
-	
 	Entendido, tuve que buscar que es hoisting, pero entendido. c:
 
-* **durbonca** (1)
+* **durbonca** (1) [1104962](https://platzi.com/comentario/1104962/) 
 
-	
 	Que es hoistin?
 
-	* **John Steven Bernal Gonzalez** (2)
+	* **John Steven Bernal Gonzalez** [1104962] (2)
 
-		
 		Mira lo que encontré <https://developer.mozilla.org/es/docs/Glossary/Hoisting>
 
-	* **Ariel Alejandro Ureña Morales** (1)
+	* **Ariel Alejandro Ureña Morales** [1104962] (1)
 
-		
 		Recuerdas que en las lecciones mencionaban que al declarar una variable o funcion se guardan en memoria hasta que sean invocadas, eso es hoisting.  
 		Saludos c:
 
-	* **ZusMexSide** (1)
+	* **ZusMexSide** [1104962] (1)
 
-		
 		En el temario lo incluye bro 😉
 
-* **kikega** (1)
+* **kikega** (1) [1098767](https://platzi.com/comentario/1098767/) 
 
-	
 	Ya, pero que ventajas y desventajas del uso de una u otra en el código
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (3)
+	* **Juan Felipe Peralta Zapata (Platzi)** [1098767] (3)
 
-		
 		¡Hola! Eso se explica en las clases siguientes, o en este curso también: <https://platzi.com/clases/scope/>. 😄
 
-	* **Ulises Antonio Sámano Galván** (2)
+	* **Ulises Antonio Sámano Galván** [1098767] (2)
 
-		
 		Las funciones de expresión solo deben usarse cuando van a ser utilizadas en una o pocas ocasiones, ya que solo pueden ser ejecutadas cuando el navegador lea esa parte del código. En cambio, las funciones declarativas están disponibles siempre.
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [1098106](https://platzi.com/comentario/1098106/) 
 
-	
 	Gran diferencia para saber que debemos usar en cada caso de uso.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097309](https://platzi.com/comentario/1097309/) 
 
-	
 	Por estos temas vale la pena tomar cursos básicos!
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1091293](https://platzi.com/comentario/1091293/) 
 
-	
 	muy buena explicación
 
-* **Diego Alfonso Najera Ortiz** (1)
+* **Diego Alfonso Najera Ortiz** (1) [1091131](https://platzi.com/comentario/1091131/) 
 
-	
 	Simple pero buena explicación!
 
-* **Alexander Montalvo** (1)
+* **Alexander Montalvo** (1) [1090322](https://platzi.com/comentario/1090322/) 
 
-	
 	Hoisting no habia escuchado esa plabra pero ahora ya la comprendo 😃
 
-* **cristhiandelacruzperu** (1)
+* **cristhiandelacruzperu** (1) [1087383](https://platzi.com/comentario/1087383/) 
 
-	
 	Gracias todo muy claro por el momento.
 
-* **John Benvin** (1)
+* **John Benvin** (1) [1084244](https://platzi.com/comentario/1084244/) 
 
-	
 	Por el momento voy entendiendo todo.  
 	El curso explica todo muy bien, muchas gracias.
 
-* **cesaraguilareduardoromero** (1)
+* **cesaraguilareduardoromero** (1) [1081336](https://platzi.com/comentario/1081336/) 
 
-	
 	muy claro
 
-* **johnaagudelo** (1)
+* **johnaagudelo** (1) [1080633](https://platzi.com/comentario/1080633/) 
 
-	
 	Super bien
 
-* **fabio-hernan-mosquera-obando** (1)
+* **fabio-hernan-mosquera-obando** (1) [1079144](https://platzi.com/comentario/1079144/) 
 
-	
 	super
 
-* **Rabi Leonel Leon Chan** (1)
+* **Rabi Leonel Leon Chan** (1) [1077180](https://platzi.com/comentario/1077180/) 
 
-	
 	Entendido, tenia el concepto pero no la había entendido correctamente, es un buen articulo.
 
-* **Germán González** (1)
+* **Germán González** (1) [1076936](https://platzi.com/comentario/1076936/) 
 
-	
 	Excelente
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071035](https://platzi.com/comentario/1071035/) 
 
-	
 	Excelente detalle.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1067576](https://platzi.com/comentario/1067576/) 
 
-	
 	Excelente explicacion.
 
-* **Nestor Ruben Rodriguez Caro** (1)
+* **Nestor Ruben Rodriguez Caro** (1) [1060309](https://platzi.com/comentario/1060309/) 
 
-	
 	Muy buen aporte amigo gracias!
 
-* **cambel24** (1)
+* **cambel24** (1) [1046050](https://platzi.com/comentario/1046050/) 
 
-	
 	he visto el curso de fundamentos de js, y al empezar este no creí encontrar cosas nuevas, pero ya vez, este es un porque que desconocía totalmente.
 
-	* **Javier Andres Gamboa Duarte** (1)
+	* **Javier Andres Gamboa Duarte** [1046050] (1)
 
-		
 		ya somos dos
 
-* **Jonás Onofre Durán** (1)
+* **Jonás Onofre Durán** (1) [1046007](https://platzi.com/comentario/1046007/) 
 
-	
 	En el curso de Fundamentos de JavaScript no se explicó a detalle este concepto sobre las diferencias de cada tipo de función, ahora ya sé las diferencias entre ellas y como usarlas mejor sabiendo su funcionamiento, excelente resumen.
 
-* **Oveja_Gt** (1)
+* **Oveja_Gt** (1) [1045188](https://platzi.com/comentario/1045188/) 
 
-	
 	Excelente…
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1044654](https://platzi.com/comentario/1044654/) 
 
-	
 	Excelente
 
-* **Andres Giraldo** (1)
+* **Andres Giraldo** (1) [1035761](https://platzi.com/comentario/1035761/) 
 
-	
 	ya me queda un poco mas claro el conpcepto, no se exactamente en que casos aplicarlas asi que investigare mas
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1035761] (1)
 
-		
 		A medida que avances en tu carrera en JavaScript verás la aplicación precisa de cada uno. En React por ejemplo te encontrarás mucho con Funciones tipo `const name = Function();`
 
-* **jameskristof** (1)
+* **jameskristof** (1) [1021750](https://platzi.com/comentario/1021750/) 
 
-	
 	No entiendo, las funciones de expresión tienen la palabra var, entonces se le debería aplicar hoisting ¿no?
 
-	* **yeseniamosqueragil** (5)
+	* **yeseniamosqueragil** [1021750] (5)
 
-		
 		No, con hoisting se refiere a que el navegador va a leer la función declarativa y la va a almacenar en memoria, para de esta forma cuando tu la mandes a llamar siempre estará disponible.  
 		Las funciones de expresión no son almacenadas por el navegador sino solo cuando el navegador la lee en el bloque de código que la hayas declarado como variable, por lo que si no la ha leído no podrás mandar a llamarla.
 
-* **Bervive** (1)
+* **Bervive** (1) [1007733](https://platzi.com/comentario/1007733/) 
 
-	
 	Un articulo para complementar lo explicado en la clase anterior
 
-* **Lucas Ramirez** (1)
+* **Lucas Ramirez** (1) [999582](https://platzi.com/comentario/999582/) 
 
-	
 	voy a entender mejor el concepto en las próximas clases seguro
 
-* **Aby Leyva** (1)
+* **Aby Leyva** (1) [998009](https://platzi.com/comentario/998009/) 
 
-	
 	Excelente resumen para diferenciarlas
 
-* **Oscar Galicia** (1)
+* **Oscar Galicia** (1) [997811](https://platzi.com/comentario/997811/) 
 
-	
 	Ya va, que es hoisting?
 
-	* **Absalon** (4)
+	* **Absalon** [997811] (4)
 
-		
 		Te comparto este enlace:  
 		<https://www.w3schools.com/js/js_hoisting.asp>
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [997811] (4)
 
-		
 		En esta clase lo aprendemos: [Hoisting](https://platzi.com/clases/1814-basico-javascript/26297-hoisting/) 😄
 
-* **snowy** (1)
+* **snowy** (1) [997549](https://platzi.com/comentario/997549/) 
 
-	
 	muy bien explicado
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997536](https://platzi.com/comentario/997536/) 
 
-	
 	Quedo más claro
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997306](https://platzi.com/comentario/997306/) 
 
-	
 	dos puntos por terminar de leer :v
 
-# Bases de JavaScript
+# Bases de JavaScript [5329]
 
-## 0070. Scope
+## 0070. Scope [26296](https://platzi.com/clases/1814-basico-javascript/26296-scope/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **cambel24** (6)
+* **cambel24** (6) [1046077](https://platzi.com/comentario/1046077/) 
 
-	
 	 _**variables globales: **_ Pueden ser accedidas desde un scope local o global. las variables globales son definidas fuera de las funciones (Scope global)
 	
 	_**Scope local: **_Son aquellas variables definidas dentro del cuerpo de la función, estas son solo accedidas desde dentro de la misma función.
 	
 	**_Scope Global:_** variables que pueden ser accedidas y procesadas por cualquier función dentro del código.
 
-* **Diego Andres Cabrera Rojas** (6)
+* **Diego Andres Cabrera Rojas** (6) [1045731](https://platzi.com/comentario/1045731/) 
 
-	
 	Global -> Universo , seria como el todo , las variables son accesibles desde cualquier parte del código.  
 	Local -> Cada Planeta , un mundo distinto , las variables son accesibles en ese mundo , no es visible para los demás mundos.
 	
 	Resumen : lo que es global se puede acceder desde cualquier parte de tu código , y lo pueden acceder cada mundo , lo que es local solo lo puede acceder cada mundo.😁
 
-* **Carlos Roberto Villatoro Barrios** (5)
+* **Carlos Roberto Villatoro Barrios** (5) [1053429](https://platzi.com/comentario/1053429/) 
 
-	
 	Super fácil de entender y mas con esos ejemplos, el scope global es todo el conjunto universo, mientras que el scope local es un conjunto dentro de este universo, el cual puede tener acceso a los elementos del conjunto universo, pero el universo no puede tener acceso a los elementos del conjunto (Scope local).
 
-* **Aldo-Salas** (5)
+* **Aldo-Salas** (5) [1001036](https://platzi.com/comentario/1001036/) 
 
-	
 	Scope: Alcance que tienen las variables en el codigo.
 	
 	Existen 2 tipos de scopes.
@@ -3485,19 +3038,16 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	
 	Local: Solo puede ser llamada dentro del bloque de codigo en el que se declaro.
 
-* **Juan Carlos Valencia López** (4)
+* **Juan Carlos Valencia López** (4) [998380](https://platzi.com/comentario/998380/) 
 
-	
 	Un buen desarrollador en JS sabe que es el scope y como funciona 😃
 
-* **Orlando0302** (3)
+* **Orlando0302** (3) [1091331](https://platzi.com/comentario/1091331/) 
 
-	
 	si sabia como funciona pero no sabia que se llamaba asi.
 
-* **Christian Erik Velázquez Morales** (3)
+* **Christian Erik Velázquez Morales** (3) [1018511](https://platzi.com/comentario/1018511/) 
 
-	
 	En lo personal, para no confundirme utilizo: “Var”, “CONST”, y “let”.  
 	Esto, me permite diferenciarlas entre tanto código (más cuando eres principiante).  
 	var: global.  
@@ -3506,41 +3056,34 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	Les comparte respuestas de la comunidad:  
 	<https://platzi.com/discusiones/1099-fundamentos-javascript-2017/32001-cual-es-la-diferencia-entre-var-let-y-const/>
 
-* **Joseph Paucar** (2)
+* **Joseph Paucar** (2) [1051371](https://platzi.com/comentario/1051371/) 
 
-	
 	No pudo estar mejor explicado.
 
-* **Manuel Rivera** (2)
+* **Manuel Rivera** (2) [1003853](https://platzi.com/comentario/1003853/) 
 
-	
 	He ahí donde se genera también las diferencias en la manera de declarar una variable, ya sea con var, const o let
 
-* **Rigo Antonio Galicia Barrera** (2)
+* **Rigo Antonio Galicia Barrera** (2) [1003138](https://platzi.com/comentario/1003138/) 
 
-	
 	Muy buena explicación, con esto queda bien claro el tema del scope de las variables.
 
-* **Añaqui Apolinar Morales** (2)
+* **Añaqui Apolinar Morales** (2) [1002590](https://platzi.com/comentario/1002590/) 
 
-	
 	En resumen el scope es el alcance que tienen las variables, hay 2 tipos de variables, variables locales y globales.  
 	Las variables locales son las que se encuentran declaradas dentro de las funciones y solo seran usadas dentro de las funciones.  
 	Las variables globales son las que se declararon fuera de las funciones pero si pueden ser usadas dentro de las funciones ya que existen de manera global en todo el codigo
 
-* **Karla Agraz** (2)
+* **Karla Agraz** (2) [1000458](https://platzi.com/comentario/1000458/) 
 
-	
 	Muy buena la explicación 😁
 
-* **vickiavola** (2)
+* **vickiavola** (2) [1000331](https://platzi.com/comentario/1000331/) 
 
-	
 	Excelente el ejemplo de las hormigas
 
-* **matias-alexander-ibarra-trujil** (2)
+* **matias-alexander-ibarra-trujil** (2) [999745](https://platzi.com/comentario/999745/) 
 
-	
 	Recomiendo hacer este ejercicio
 	
 	* * *
@@ -3561,7 +3104,7 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	    console.log(a)`
 	```
 
-* **Mirna Mabel Veras Carvajal** (2)
+* **Mirna Mabel Veras Carvajal** (2) [998676](https://platzi.com/comentario/998676/) 
 
 	```
 	    //El alcance (scope) de una variable puede ser:
@@ -3582,149 +3125,123 @@ Lo que quiere decir que con las funciones declarativas, podemos mandar llamar la
 	    
 	```
 
-* **Cristian Rivera Herrera** (2)
+* **Cristian Rivera Herrera** (2) [998065](https://platzi.com/comentario/998065/) 
 Me encantó la explicación, sabía lo práctico, pero no sabía el nombre por el cual se le llamaba... Scope. Progresando en Javascript. PD: AntMan si puede.
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [998065] (3)
 
-		
 		Si quieres profundizar en este tema tenemos el [Curso de Closures y Scope en JavaScript](https://platzi.com/clases/scope/) 😄
 
-	* **Cristian Rivera Herrera** (1)
+	* **Cristian Rivera Herrera** [998065] (1)
 
-		
 		Excelente, gracias @GabrielElpidio, estaré tomando el curso en cuanto termine este y el de ECMAScript 6+
 
-* **Merlyn Rodriguez** (2)
+* **Merlyn Rodriguez** (2) [997577](https://platzi.com/comentario/997577/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **ignacioaredez** (1)
+* **ignacioaredez** (1) [1116333](https://platzi.com/comentario/1116333/) 
 
-	
 	Por un momento pensé que estaba en el national geographic
 
-* **diegopagini** (1)
+* **diegopagini** (1) [1116244](https://platzi.com/comentario/1116244/) 
 
-	
 	Muy buen profe, muy claro
 
-* **Brayhan Andres Jaramillo Castaño** (1)
+* **Brayhan Andres Jaramillo Castaño** (1) [1115613](https://platzi.com/comentario/1115613/) 
 
-	
 	Es un concepto muy importante a tener en cuenta cuando se esta desarrollando, como tambien de mucho cuidado pues en ocasiones se suele alterar ese valor global sin querer, y generar confusiones.
 
-* **ZusMexSide** (1)
+* **ZusMexSide** (1) [1115369](https://platzi.com/comentario/1115369/) 
 
-	
 	Espero no confundirlos, aclaro que scope = ámbito.  
 	Cuando tenemos **var** en el **ámbito de bloque** (dentro de un if o for), éste expande su alcance al **ambito local** ( dentro de la misma función pero fuera del if). Cuando usamos **let** bloqueamos el alcance en donde se este declarando, en este caso dentro del if. ![Anotación 2020-04-09 154938.jpg](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202020-04-09%20154938-1e7dca17-e43f-4e5d-b6ad-c917b42fe1d8.jpg)
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1113408](https://platzi.com/comentario/1113408/) 
 
-	
 	Scope es como una ciudad, todo mundo puede caminar libremente, sin embargo nadie mas puede entrar a tu casa o saber lo que ocurre en ella.
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1108677](https://platzi.com/comentario/1108677/) 
 
-	
 	Gracias por las expicaciones y las analogías, me ha quedado claro con el ejemplo de los humanos y las hormigas.
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [1108323](https://platzi.com/comentario/1108323/) 
 
-	
 	Que buena explicación me gusto mucho esta clase!
 
-* **garciafran** (1)
+* **garciafran** (1) [1098880](https://platzi.com/comentario/1098880/) 
 
-	
 	Excelente explicacion.  
 	En resumen el scope local tiene acceso a si mismo y al global.  
 	El scope global solo tiene acceso a si mismo.
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [1098119](https://platzi.com/comentario/1098119/) 
 
-	
 	Como se dice en España, lo bueno y breve dos veces bueno 😃 buena explicación
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097382](https://platzi.com/comentario/1097382/) 
 
-	
 	Excelente explicación!
 
-* **eduvra** (1)
+* **eduvra** (1) [1091447](https://platzi.com/comentario/1091447/) 
 
-	
 	Wow, super bien explicado en 7 minutos.
 
-* **Sthepha04** (1)
+* **Sthepha04** (1) [1090244](https://platzi.com/comentario/1090244/) 
 
-	
 	Super!! 😄
 
-* **Ginnio Sarabia** (1)
+* **Ginnio Sarabia** (1) [1088222](https://platzi.com/comentario/1088222/) 
 
-	
 	Está bien explicado.
 	
 	Ya los conceptos ya los tengo conmigo con anterioridad.
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1082877](https://platzi.com/comentario/1082877/) 
 
-	
 	…
 
-* **cesaraguilareduardoromero** (1)
+* **cesaraguilareduardoromero** (1) [1081365](https://platzi.com/comentario/1081365/) 
 
-	
 	//el scope local puede acceder a lo que tengo en scope global  
 	// el scope global no puede acceder a lo que esta en scope local
 
-* **picojohn** (1)
+* **picojohn** (1) [1075837](https://platzi.com/comentario/1075837/) 
 
-	
 	lo que entiendo es que depede como necesitemos una variable, si la quero para todo el aplicativo la hago global, si la necesitamos para algo mas puntual la hago local 😃
 
-	* **arturomauricio** (1)
+	* **arturomauricio** [1075837] (1)
 
-		
 		Perfecto!! y ten en cuenta el alcance de esas dos variables, eso es el scope
 
-* **Matías Criado** (1)
+* **Matías Criado** (1) [1073477](https://platzi.com/comentario/1073477/) 
 
-	
 	Tomar el curso de [Fundamentos de JS](https://platzi.com/clases/fundamentos-javascript/) y luego este ha sido de gran ayuda para comprender de mejor manera el lenguaje. Recomiendo mucho tomar ambos, para luego prácticar con mayor seguridad.
 
-* **victor-castaneda-rivera** (1)
+* **victor-castaneda-rivera** (1) [1071470](https://platzi.com/comentario/1071470/) 
 
-	
 	cuando genero una función, genero un scope local?
 
-	* **Marco Antonio Ortega** (1)
+	* **Marco Antonio Ortega** [1071470] (1)
 
-		
 		Así es, lo que se enmarca en la función es scope local, pero podes tomar variables globales y esas entran como scope global (:
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071104](https://platzi.com/comentario/1071104/) 
 
-	
 	Entendido.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1069835](https://platzi.com/comentario/1069835/) 
 
-	
 	Entendido lo de Scope
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1068476](https://platzi.com/comentario/1068476/) 
 
-	
 	 **Scope en JavaScript**  
 	En JavaScript hay dos tipos de alcance:
 	
-	  * Alcance local
+	* Alcance local
 	
-	  * Alcance global  
+	* Alcance global  
 	JavaScript tiene un alcance de función: cada función crea un nuevo alcance.
 	
 	
@@ -3734,75 +3251,63 @@ Me encantó la explicación, sabía lo práctico, pero no sabía el nombre por e
 	
 	Las variables definidas dentro de una función no son accesibles (visibles) desde fuera de la función.
 
-* **andrés eduardo betancourt bescanza** (1)
+* **andrés eduardo betancourt bescanza** (1) [1055044](https://platzi.com/comentario/1055044/) 
 
-	
 	Como hacer para que la consola, se vea como el editor de codigo?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [1055044] (3)
 
-		
 		Lo que tienes es que buscar temas parecidos para la consola y el editor de código, va a variar mucho dependiendo de los programas que utilices para estos dos 😛
 
-	* **sotecnar** (4)
+	* **sotecnar** [1055044] (4)
 
-		
 		En los 3 puntos que aparecen en las herramientas de desarrollador, settings, theme: dark theme.
 
-	* **Laurapregonero** (1)
+	* **Laurapregonero** [1055044] (1)
 
-		
 		instala Run code desde la Terminal , después de ya a ver hecho eso , abre Visual Studio Code , le das click derecho y de primeras te va aparecer algo que dice Run Code y allí ya te va a parecer la consola. aparte te ayudara a correr de una vez el codigo.
 
-	* **FredyColorado** (2)
+	* **FredyColorado** [1055044] (2)
 ![Captura16.PNG](https://static.platzi.com/media/user_upload/Captura16-723dc1ac-1638-4efc-aeef-3e34f6e035bc.jpg)
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1052653](https://platzi.com/comentario/1052653/) 
 
-	
 	Muy fácil y rápido de entender!
 
-* **Raundy Ibarras** (1)
+* **Raundy Ibarras** (1) [1051833](https://platzi.com/comentario/1051833/) 
 
-	
 	Súper buena la explicación!
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1044665](https://platzi.com/comentario/1044665/) 
 
-	
 	Interesante
 
-* **JheysonEGalvis** (1)
+* **JheysonEGalvis** (1) [1040709](https://platzi.com/comentario/1040709/) 
 
-	
 	“En el scope local podemos tener acceso a las variables que están en el scope globlal”.
 
-* **Carlos Bueno Tavares** (1)
+* **Carlos Bueno Tavares** (1) [1036955](https://platzi.com/comentario/1036955/) 
 
-	
 	Scope es el alcanze de una variales hay dos tipos de scope:  
 	Scope global = todo el archivo tendra acceso a estas variables.  
 	Scope local = son variables internas de funciones.
 
-* **Andres Giraldo** (1)
+* **Andres Giraldo** (1) [1035820](https://platzi.com/comentario/1035820/) 
 
-	
 	me quedo claro, una variable tiene un cierto alcance o ámbito.  
 	global: donde están todas la variables en general.  
 	local: donde hacen parte de una función.  
 	desde la función las variables locales (las que estan dentro de la función) pueden acceder a las globales, pero las variables globales no pueden acceder a las variables locales
 
-* **Carlos Sanchez** (1)
+* **Carlos Sanchez** (1) [1034010](https://platzi.com/comentario/1034010/) 
 
-	
 	Excelente ejemplo el de las hormigas, esta buenísimo el curso.
 
-* **estefaniajmedina** (1)
+* **estefaniajmedina** (1) [1033254](https://platzi.com/comentario/1033254/) 
 
-	
 	Excelente ejemplo con las hormigas
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [1026467](https://platzi.com/comentario/1026467/) 
 
 	```
 	    //////////////////////////
@@ -3822,37 +3327,31 @@ Me encantó la explicación, sabía lo práctico, pero no sabía el nombre por e
 	    
 	```
 
-* **lmoran** (1)
+* **lmoran** (1) [1015362](https://platzi.com/comentario/1015362/) 
 
-	
 	Explica muy bien, con ejemplos que todos entendemos.
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1012015](https://platzi.com/comentario/1012015/) 
 
-	
 	Los Scope se pueden superponer en una jerarquía, de modo que los Scope secundarios tengan acceso a los ámbitos primarios, pero no al revés.
 
-* **ferchodleon** (1)
+* **ferchodleon** (1) [1010101](https://platzi.com/comentario/1010101/) 
 
-	
 	Que buena clase!!
 
-* **Bervive** (1)
+* **Bervive** (1) [1008994](https://platzi.com/comentario/1008994/) 
 
-	
 	Scope, global y local, mientras que el scope local puede acceder al scope global, no sucede lo mismo al contrario. Got it!
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1006775](https://platzi.com/comentario/1006775/) 
 
-	
 	Muy bien explicado!!
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997543](https://platzi.com/comentario/997543/) 
 
-	
 	Me faltaba definir bien que era scope
 
-* **savier687** (1)
+* **savier687** (1) [997516](https://platzi.com/comentario/997516/) 
 
 	```
 	    //Scope Global
@@ -3873,30 +3372,27 @@ Me encantó la explicación, sabía lo práctico, pero no sabía el nombre por e
 	    
 	```
 
-* **Marlon Fabian Pineda Jaimes** (1)
+* **Marlon Fabian Pineda Jaimes** (1) [997285](https://platzi.com/comentario/997285/) 
 
-	
 	Excelente explicación.
 
-* **victor-castaneda-rivera** (1)
+* **victor-castaneda-rivera** (1) [85332](https://platzi.com/comentario/1071503/) 
 Puedo tener un scope local dentro de otro scope local?
 
-	* **Manuel Rivera** (2)
+	* **Manuel Rivera** [85332] (2)
 
-		
 		Claro, pero no necesariamente sería scope local dentro de scope local, el scope local es el scope donde esta lo que tu declaraste y recuerda, podemos acceder del scope local al scope global pero nunca al reves. Saludos 🚀…
 
-* **Nicolas David Pastran Zamora** (1)
+* **Nicolas David Pastran Zamora** (1) [84397](https://platzi.com/comentario/1050114/) 
 Las variables o funciones que están en scope global pueden ser accedidas desde otro archivo javascript diferente del que se declaran ?
 
-	* **Ruben Padilla** (2)
+	* **Ruben Padilla** [84397] (2)
 
-		
 		Si pueden ser accedidas desde un archivo diferente, para realizar esto debes entender el concepto de modularización. Te comparto el enlace a la documentación:
 		
 		<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules>
 
-## 0080. Hoisting
+## 0080. Hoisting [26297](https://platzi.com/clases/1814-basico-javascript/26297-hoisting/)
 
 ### Descripción:
 
@@ -3911,37 +3407,32 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 
 ### Comentarios:
 
-* **Jhon Alexander Romero Gonzaga** (14)
+* **Jhon Alexander Romero Gonzaga** (14) [1052684](https://platzi.com/comentario/1052684/) 
 
-	
 	Profe Sacha Lyfszic: <https://www.youtube.com/watch?v=uI6o97A4IrI>
 
-* **Oveja_Gt** (9)
+* **Oveja_Gt** (9) [1046055](https://platzi.com/comentario/1046055/) 
 
-	
 	¿Qué es Hoisting?  
 	En JavaScript, las declaraciones (por ejemplo, de variables o funciones) se mueven al principio de su scope o ámbito. Este comportamiento se conoce como hoisting y es muy importante tenerlo en cuenta a la hora de programar para prevenir posibles errores.
 	
-	  * Las funciones siempre se mueven arriba del scope. Por lo tanto, podemos elegir donde declararlas y usarlas.
-	  * La declaración de las variables se mueven arriba del scope, pero no la asignación. Antes de usar una variable, habrá que crearla y asignarla.
+	* Las funciones siempre se mueven arriba del scope. Por lo tanto, podemos elegir donde declararlas y usarlas.
+	* La declaración de las variables se mueven arriba del scope, pero no la asignación. Antes de usar una variable, habrá que crearla y asignarla.
 	
 	
 
-* **Cristobal Vega** (7)
+* **Cristobal Vega** (7) [1001540](https://platzi.com/comentario/1001540/) 
 
-	
 	FUN FACT: El concepto de Hoisting en inglés se refiere a “izar”, es decir elevar un objeto. Como una bandera o con estas cosas:
 	
 	![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.birdladder.com%2Fecomimages%2F1406046931.jpg&f=1&nofb=1)
 
-* **Karla Agraz** (5)
+* **Karla Agraz** (5) [1001185](https://platzi.com/comentario/1001185/) 
 
-	
 	Hoisting es cuando las variables y las funciones se declaran antes de que se procese cualquier tipo de código. El Hoisting funciona de ECMAScript 5 para abajo, de ECMAScript 6 en adelante no sucede porque el Hoisting sucede con var y function. En las versiones de ECMAScript 6 en adelante aparece const y let.
 
-* **garciafran** (3)
+* **garciafran** (3) [1098984](https://platzi.com/comentario/1098984/) 
 
-	
 	interesante el concepto de hoisting.  
 	en resumen.
 	``` 
@@ -3963,19 +3454,16 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-* **juanlondono** (3)
+* **juanlondono** (3) [997224](https://platzi.com/comentario/997224/) 
 
-	
 	2 puntos por ser el primero en escribir
 
-* **JheysonEGalvis** (2)
+* **JheysonEGalvis** (2) [1099238](https://platzi.com/comentario/1099238/) 
 
-	
 	“Las funciones se declaran antes que las variables”
 
-* **Matias Alejandro Lopez Heredia** (2)
+* **Matias Alejandro Lopez Heredia** (2) [1098816](https://platzi.com/comentario/1098816/) 
 
-	
 	En resumen:
 	
 	  1. 
@@ -4005,218 +3493,179 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	Espero les sirva.
 
-* **David Emanuel Espinoza Romero** (2)
+* **David Emanuel Espinoza Romero** (2) [1094038](https://platzi.com/comentario/1094038/) 
 
-	
 	por si a alguien le queda alguna duda lea este post, espero le sirva igual que a mi o mas <https://www.jasoft.org/Blog/post/Elevacion-de-variables-(hoisting)-en-JavaScript.aspx>
 
-* **Orlando0302** (2)
+* **Orlando0302** (2) [1091394](https://platzi.com/comentario/1091394/) 
 
-	
 	jejjeje super entendido.
 
-* **Ronal Aguirre** (2)
+* **Ronal Aguirre** (2) [1077905](https://platzi.com/comentario/1077905/) 
 
-	
 	no podria ejecutarse, saldria “undefined”
 
-* **davidhdez8** (2)
+* **davidhdez8** (2) [1075252](https://platzi.com/comentario/1075252/) 
 
-	
 	Undefined.
 
-* **cambel24** (2)
+* **cambel24** (2) [1046152](https://platzi.com/comentario/1046152/) 
 
-	
 	9:57 ERROR… aun no concatenas el “hola” con la variable
 
-* **Israel Castro Urieta** (2)
+* **Israel Castro Urieta** (2) [1030578](https://platzi.com/comentario/1030578/) 
 
-	
 	Perdí la cuenta de las veces que tuve que regresar y repasar los ejemplos y las definiciones de este vídeo hasta que me quedara completamente claro. ¡Excelente clase!
 
-	* **pabloverduzcos** (1)
+	* **pabloverduzcos** [1030578] (1)
 
-		
 		Te dejo el vídeo de otro profesor de Platzi que explica el tema de una manera muy simple: <https://youtu.be/uI6o97A4IrI>
 
-	* **Israel Castro Urieta** (1)
+	* **Israel Castro Urieta** [1030578] (1)
 
-		
 		Muchas gracias por el aporte @pabloverduzcos fue simple por la parte en la que vimos en esta clase (sobretodo por los gráficos), además se incluyeron mas conceptos y casos.
 
-* **Kevin Vega** (2)
+* **Kevin Vega** (2) [1012021](https://platzi.com/comentario/1012021/) 
 
-	
 	Hoisting: Cuando las Variables y funciones se declaran antes de la ejecución del código  
 	Creo que para el ejercicio saldrá undefined, ya que está imprimiento una variable que no declaro o bueno no ha tomado valor…creo
 
-* **Isam David Espinosa Flores** (2)
+* **Isam David Espinosa Flores** (2) [1011277](https://platzi.com/comentario/1011277/) 
 
-	
 	Esta información podría complementar lo explicado en el vídeo por si quieren ver otros ejemplos <https://developer.mozilla.org/es/docs/Glossary/Hoisting>
 
-* **AlexanderAReyes** (2)
+* **AlexanderAReyes** (2) [1005580](https://platzi.com/comentario/1005580/) 
 
-	
 	Por cierto, como mi pc tenia mala la fecha y hora, ya envié el comentario de mis respuestas pero parece que estoy en el futuro. 🤣😎
 	
 	_Solo es para agregarle humor al curso_
 	
 	![raroFuturo.png](https://static.platzi.com/media/user_upload/raroFuturo-fff9289c-70b0-4a54-b179-1909f2af118d.jpg)
 
-* **Manuel Rivera** (2)
+* **Manuel Rivera** (2) [1004027](https://platzi.com/comentario/1004027/) 
 
-	
 	En el caso de la función, el output es que la función si se va a ejecutar, pues lo que he aprendido en otros cursos es que siempre las funciones se leen primero ya que al leerlas se les reserva un espacio en memoría, después se vuelve al inicio y hay si se lee el resto del codigo, siempre en el orden de arriba hacia abajo, pero por buena práctica o me parece que se mira mejor, declarar e inicializar primero antes de llamar, tanto para variables como para funciones.
 
-* **Enrique Alexis Lopez Araujo** (2)
+* **Enrique Alexis Lopez Araujo** (2) [1003832](https://platzi.com/comentario/1003832/) 
 
-	
 	Hola @degranda no vi en la parte de enlances la lectura acerca de hosting, saludos!
 
-* **Oscar Galicia** (2)
+* **Oscar Galicia** (2) [998214](https://platzi.com/comentario/998214/) 
 
-	
 	Antes de que corra el video: Pienso que a la hora de correr el codigo primero se van a buscar las funciones y luego se van a procesar donde se hayan declarado… A ver si tengo razon.
 
-* **Marlon Fabian Pineda Jaimes** (2)
+* **Marlon Fabian Pineda Jaimes** (2) [997304](https://platzi.com/comentario/997304/) 
 
-	
 	Si se intenta llamar una variable antes de poderla definir, simplemente va a arrojar un error diciendo que la variable no esta definida.
 
-	* **Camilo Alexander Velandia Velandia** (2)
+	* **Camilo Alexander Velandia Velandia** [997304] (2)
 
-		
 		de hecho no da un error, esto crea la variable y la declara como undefined
 
-* **ZusMexSide** (1)
+* **ZusMexSide** (1) [1116268](https://platzi.com/comentario/1116268/) 
 
-	
 	error
 
-* **Brayhan Andres Jaramillo Castaño** (1)
+* **Brayhan Andres Jaramillo Castaño** (1) [1115633](https://platzi.com/comentario/1115633/) 
 
-	
 	undefined
 
-* **DanielCu** (1)
+* **DanielCu** (1) [1114779](https://platzi.com/comentario/1114779/) 
 
-	
 	Hola undefined
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1113439](https://platzi.com/comentario/1113439/) 
 
-	
 	  1. Undefined.
 	  2. Undefined
 	
 	
 
-* **Jesús David Cuéllar Ortiz** (1)
+* **Jesús David Cuéllar Ortiz** (1) [1110943](https://platzi.com/comentario/1110943/) 
 
-	
 	1- undefined  
 	2-Un error primero porque se te olvido el + ¿No? y luego undefined tambien
 
-* **crimiro** (1)
+* **crimiro** (1) [1105198](https://platzi.com/comentario/1105198/) 
 
-	
 	  1. Undefined
 	  2. Hola undefined  
 	Ya conocía el tema pero no sabía que tenía nombre (Hoisting)
 	
 	
 
-* **RemyLebeau** (1)
+* **RemyLebeau** (1) [1099539](https://platzi.com/comentario/1099539/) 
 
-	
 	Las declaraciones de variables o funciones se mueven al principio de su scope o ámbito. Es muy importante tenerlo en cuenta a la hora de programar para prevenir posibles errores.
 	
 	Teniendo en cuenta cómo funciona el hoisting, podemos llamar a una función y definirla más abajo, porque automáticamente JS la “subirá”.
 
-* **edwin-rafael-pimienta-calderon** (1)
+* **edwin-rafael-pimienta-calderon** (1) [1098362](https://platzi.com/comentario/1098362/) 
 
-	
 	Escribe ****Hola Diego ****porque el buscara el nombre de la función en cualquier lugar donde este declarada
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [1098138](https://platzi.com/comentario/1098138/) 
 
-	
 	undefined
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097418](https://platzi.com/comentario/1097418/) 
 
-	
 	Excelente explicación profesor!! Felicidades!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097404](https://platzi.com/comentario/1097404/) 
 
-	
 	Porque js manda undefined!
 
-* **eduvra** (1)
+* **eduvra** (1) [1094691](https://platzi.com/comentario/1094691/) 
 
-	
 	Woo, pensé que iba a ser mucho más complejo de entender.
 
-* **miguelgz18** (1)
+* **miguelgz18** (1) [1093234](https://platzi.com/comentario/1093234/) 
 
-	
 	undefined
 
-* **MATTHEUV OSORIO** (1)
+* **MATTHEUV OSORIO** (1) [1090221](https://platzi.com/comentario/1090221/) 
 
-	
 	undefined
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1089639](https://platzi.com/comentario/1089639/) 
 
-	
 	undefined
 
-* **Ginnio Sarabia** (1)
+* **Ginnio Sarabia** (1) [1088325](https://platzi.com/comentario/1088325/) 
 
-	
 	hey();
 	
 	pienso que va a decir que la función hey() no esta definida.
 	
 	Luego si la define.
 
-* **rsalamanca** (1)
+* **rsalamanca** (1) [1084709](https://platzi.com/comentario/1084709/) 
 
-	
 	Es muy interesante este tema del hoisting la verdad no tenia ni idea q existia
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1084043](https://platzi.com/comentario/1084043/) 
 
-	
 	😦
 
-* **Migrant** (1)
+* **Migrant** (1) [1083341](https://platzi.com/comentario/1083341/) 
 
-	
 	Lo siento, pero debo decirlo. Me tiembla el ojo izquierdo cada que dices “mandar llamar” Diego
 
-* **Ronal Aguirre** (1)
+* **Ronal Aguirre** (1) [1077927](https://platzi.com/comentario/1077927/) 
 
-	
 	también seria undefined, porque se lee primero la función antes de que se realice el proceso de que esta en la función
 
-* **Germán González** (1)
+* **Germán González** (1) [1076980](https://platzi.com/comentario/1076980/) 
 
-	
 	Genial.
 
-* **picojohn** (1)
+* **picojohn** (1) [1075900](https://platzi.com/comentario/1075900/) 
 
-	
 	muy buena clase
 
-* **victor-castaneda-rivera** (1)
+* **victor-castaneda-rivera** (1) [1071640](https://platzi.com/comentario/1071640/) 
 
-	
 	Pasos para usar una variable:
 	
 	  1. se declara una variable
@@ -4224,29 +3673,24 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071170](https://platzi.com/comentario/1071170/) 
 
-	
 	Genial.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1069911](https://platzi.com/comentario/1069911/) 
 
-	
 	Ahora si entendi lo de hoisting
 
-* **jaguarjs** (1)
+* **jaguarjs** (1) [1069149](https://platzi.com/comentario/1069149/) 
 
-	
 	Las variables y las funciones se procesan antes de ejecutar cualquier código, pero las funciones se declaran antes que las variables
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1069004](https://platzi.com/comentario/1069004/) 
 
-	
 	Sale undefined
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1068545](https://platzi.com/comentario/1068545/) 
 
-	
 	 **Hoisting** es el comportamiento predeterminado de JavaScript de mover las declaraciones a la parte superior.
 	
 	En JavaScript, una variable se puede declarar después de que se haya utilizado. En otras palabras; una variable se puede usar antes de que se haya declarado.
@@ -4262,52 +3706,43 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-* **Ines Patricia Contreras Espiritu** (1)
+* **Ines Patricia Contreras Espiritu** (1) [1064453](https://platzi.com/comentario/1064453/) 
 
-	
 	undefined
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [1063311](https://platzi.com/comentario/1063311/) 
 
-	
 	Aprendi mucho sobre esto del hoisting, y de lo importante de conocer las buenas practicas.
 
-* **Gustavo Adolfo Paz Solorzano** (1)
+* **Gustavo Adolfo Paz Solorzano** (1) [1053731](https://platzi.com/comentario/1053731/) 
 
-	
 	Excelente clase!
 
-* **Mayco Busto** (1)
+* **Mayco Busto** (1) [1046971](https://platzi.com/comentario/1046971/) 
 
-	
 	4:08 primero lo primero!!  
 	Declarar  
 	Inicializar  
 	Llamar
 
-* **cambel24** (1)
+* **cambel24** (1) [1046115](https://platzi.com/comentario/1046115/) 
 
-	
 	4:50 Creo sera undefined, recordando la forma en como javascript ejecuta el código, linea tras linea. _“creo primero reconocerá una variable sin inicializar y luego asignara el valor a esta.”_
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1045463](https://platzi.com/comentario/1045463/) 
 
-	
 	No entendí que paso en el minuto 8:35, como imprime el nombre “Diego” si esta inicializado la variable después del console.log ??
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1045463] (1)
 
-		
 		En el min 08:35 lo que pasa es que se define la variable `miNombre` pero se le asigna el valor `undefined`, cuando se ejecuta el `console.log()` imprime`"undefinedSoy ese hoisting"` porque la variable se declaró pero se le asignó el valor undefined. Luego aparece “Diego” porque es lo que devuelve la consola de Chrome cuando le asignas un valor a una variable. 😄
 
-	* **cambel24** (1)
+	* **cambel24** [1045463] (1)
 
-		
 		El ‘Diego’ que vez debajo del undefined, es el retorno del dato que acabas de poner en la variable miNombre.
 
-* **David Vargas Domínguez** (1)
+* **David Vargas Domínguez** (1) [1044451](https://platzi.com/comentario/1044451/) 
 
-	
 	Lo que hace el hoisting es ejecutar nuestras declaraciones de variables y funciones antes que lo demás.
 	``` 
 	    // lo que pones
@@ -4320,112 +3755,91 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-* **Juan Camargo** (1)
+* **Juan Camargo** (1) [1044384](https://platzi.com/comentario/1044384/) 
 
-	
 	sale undefined
 
-* **SEBASTIAN PADUANO** (1)
+* **SEBASTIAN PADUANO** (1) [1039773](https://platzi.com/comentario/1039773/) 
 
-	
 	sale un error en la función
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1039773] (1)
 
-		
 		Puedes dar mas información para poder ayudarte.
 
-* **Bárbara de los Ángeles Morantes Carvajal** (1)
+* **Bárbara de los Ángeles Morantes Carvajal** (1) [1037344](https://platzi.com/comentario/1037344/) 
 
-	
 	Si colocas el console.log(miNombre); antes de declarar la variable saldría undifined, porque miNombre no esta definida aún.
 
-	* **Bárbara de los Ángeles Morantes Carvajal** (1)
+	* **Bárbara de los Ángeles Morantes Carvajal** [1037344] (1)
 
-		
 		Si se va a ejecutar la función porque JS, lee primero todo el código y almacena las funciones en memoria y luego enecuta el código linea a linea y al llegar al llamado de la función ya va estar cargada.
 
-* **Renato Maximiliano Rivera Abad** (1)
+* **Renato Maximiliano Rivera Abad** (1) [1037109](https://platzi.com/comentario/1037109/) 
 
-	
 	Saldría null ¡?
 
-* **estefaniajmedina** (1)
+* **estefaniajmedina** (1) [1034540](https://platzi.com/comentario/1034540/) 
 
-	
 	Aparece undefined
 
-* **pablohugomontenegro** (1)
+* **pablohugomontenegro** (1) [1033507](https://platzi.com/comentario/1033507/) 
 
-	
 	5:02 --> a mi me apareció Diego y abajo undefined
 
-* **Leonardo Bravo Kunkel** (1)
+* **Leonardo Bravo Kunkel** (1) [1030023](https://platzi.com/comentario/1030023/) 
 
-	
 	En la segunda pregunta, me imagino que lanzaría un “undefined” porque lee una función vacía y luego lanzaría “Hola Diego” porque leería la segunda función.
 
-* **Leonardo Bravo Kunkel** (1)
+* **Leonardo Bravo Kunkel** (1) [1029940](https://platzi.com/comentario/1029940/) 
 
-	
 	De acuerdo a la primera pregunta que realizaste, supongo que se desplegaría un “undefined”, porque se estaría leyendo el log y luego se declara la variable.  
 	Saludos.
 
-* **Eduardo Zamarron Muñoz** (1)
+* **Eduardo Zamarron Muñoz** (1) [1025467](https://platzi.com/comentario/1025467/) 
 
-	
 	Hola, a la fecha de este comentario falta el artículo en la sección de enlaces (:
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1025467] (2)
 
-		
 		Hola! Ya lo reporté con el equipo y ya puedes encontrarlos en la sección de enlaces, gracias por el reporte 😄
 
-* **Aldo Miguel García Barrios** (1)
+* **Aldo Miguel García Barrios** (1) [1016134](https://platzi.com/comentario/1016134/) 
 
-	
 	Tomando como base le primer ejemplo creo que saldrá undefined
 
-* **chavwilh_platzi** (1)
+* **chavwilh_platzi** (1) [1011445](https://platzi.com/comentario/1011445/) 
 
-	
 	Yo lo que entendí es que se debe declarar o inicializar primero las variables antes de ejecutar la función. Si no lo hacemos así se genera el Hoisting el cual le asigna un “undefined” a la función que estemos ejecutando y se evita que se genere un error por ejecutar funciones si la declaración de sus variables previamente, sin embargo este resultado nos puede confundir sobre lo que esta sucediendo, por tal razón debemos mantener un orden en la programación de nuestras funciones
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1011386](https://platzi.com/comentario/1011386/) 
 
-	
 	"SIEMPRE" Declarar al inicio del código las funciones y mandarlas llamar en donde las necesitemos. Esto para evitar Hoisting. \--BUENAS PRÁCTICAS
 
-* **Bervive** (1)
+* **Bervive** (1) [1009006](https://platzi.com/comentario/1009006/) 
 
-	
 	El tema no es fácil de explicar pero con ejemplos todo se vuelve cada vez mas claro, gracias.
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1006824](https://platzi.com/comentario/1006824/) 
 
-	
 	Muy bien explicado rapido y con ejemplos claros!!
 
-* **Pablo Domínguez Durán** (1)
+* **Pablo Domínguez Durán** (1) [1006679](https://platzi.com/comentario/1006679/) 
 
-	
 	 **Hoisting** es el comportamiento por defecto de JS de mover declaraciones al prinicipio.
 	
 	<https://www.w3schools.com/js/js_hoisting.asp>
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1006153](https://platzi.com/comentario/1006153/) 
 
-	
 	¿Es como cuando ordenas un archivo de estilos CSS … primero Body, IDs, Clases etc?
 
-* **AlexanderAReyes** (1)
+* **AlexanderAReyes** (1) [1005590](https://platzi.com/comentario/1005590/) 
 
-	
 	Para evitar el hoisting debemos **declarar las funciones al inicio de nuestro archivo** y **las variables después de todas las funciones a usar**.
 
-* **AlexanderAReyes** (1)
+* **AlexanderAReyes** (1) [1005569](https://platzi.com/comentario/1005569/) 
 
-	
 	Al escribir en la consola
 	``` 
 	    hey();
@@ -4442,9 +3856,8 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	`Hola undefined`
 
-* **AlexanderAReyes** (1)
+* **AlexanderAReyes** (1) [1005548](https://platzi.com/comentario/1005548/) 
 
-	
 	Al escribir en la consola
 	``` 
 	    console.log(miNombre);
@@ -4455,42 +3868,35 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	devolverá `undefined` ya que al momento de leer esta variable no tendrá un valor asignado
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [1003997](https://platzi.com/comentario/1003997/) 
 
-	
 	El output va a ser un error, ya que el archivo se va a leer de arriba hacía abajo y de derecha a izquierda, por ende estamos queriendo mostrar una variable que aún no existe, pienso yo
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [1003609](https://platzi.com/comentario/1003609/) 
 
-	
 	Yo creo que se va a ejecutar la función de todas formas.
 
-* **Almu_timkerbell** (1)
+* **Almu_timkerbell** (1) [1003192](https://platzi.com/comentario/1003192/) 
 
-	
 	Entiendo el concepto, pero al igual que hay que declarar las variables al principio, ¿no es también considerado “buena práctica” declarar primero la función y después llamarla? Ahora me queda la duda…
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [1000824](https://platzi.com/comentario/1000824/) 
 
-	
 	Cuando se llama primero la función, antes de ser declarada, esta se ejecuta de manera normal.
 
-* **Lucas Ramirez** (1)
+* **Lucas Ramirez** (1) [999634](https://platzi.com/comentario/999634/) 
 
-	
 	Una clase muy productiva , es un tema que no sabía
 
-* **fjaraujo** (1)
+* **fjaraujo** (1) [998780](https://platzi.com/comentario/998780/) 
 
-	
 	Si no esta definida la variable antes de llamarla creo que arroja UNDEFINED
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [998780] (2)
 
-		
 		Si no está declarada te arrojará un error, si no le asignaste ningún valor te arrojará undenfined 😄
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [998715](https://platzi.com/comentario/998715/) 
 
 	```
 	    //Ejemplo 1: Llamando la variable antes de declararla
@@ -4507,56 +3913,48 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997596](https://platzi.com/comentario/997596/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **snowy** (1)
+* **snowy** (1) [997583](https://platzi.com/comentario/997583/) 
 
-	
 	al ejecutarlo enviara el mensaje que miNombre no esta declarado ya que en js se lee linea por linea
 
-* **savier687** (1)
+* **savier687** (1) [997561](https://platzi.com/comentario/997561/) 
 
-	
 	Al ejecutar el el console.log sin estar definida la variable antes nos arrojara UNDEFINED ya que Js es un lenguaje interpretado por ende lee linea por linea, el explorador ejecuta el codigo de arriba hacia abajo
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997556](https://platzi.com/comentario/997556/) 
 
-	
 	Esto si no lo había visto
 
-* **Jonathan Vacas** (0)
+* **Jonathan Vacas** (0) [1115520](https://platzi.com/comentario/1115520/) 
 
-	
 	  1. Undefined
 	  2. Undefined
 	
 	
 
-* **Eduardo Neptali Benso Pasquel** (0)
+* **Eduardo Neptali Benso Pasquel** (0) [1090069](https://platzi.com/comentario/1090069/) 
 
-	
 	undefined
 
-## 0090. Coerción
+## 0090. Coerción [26298](https://platzi.com/clases/1814-basico-javascript/26298-coercion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Carlos Bueno Tavares** (8)
+* **Carlos Bueno Tavares** (8) [1037002](https://platzi.com/comentario/1037002/) 
 
-	
 	Coerción es la forma en la que podemos cambiar un tipo de valor a otro, existen dos tipos de coerción:  
 	Coerción implícita = es cuando el lenguaje nos ayuda a cambiar el tipo de valor.  
 	Coerción explicita = es cuando obligamos a que cambie el tipo de valor.
 
-* **Cristobal Vega** (8)
+* **Cristobal Vega** (8) [1001677](https://platzi.com/comentario/1001677/) 
 
-	
 	Como dato extra, en JavaScript tenemos 8 tipos de datos únicamente en 2020:
 	``` 
 	        Boolean
@@ -4576,23 +3974,20 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	👇  
 	<https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/types-grammar>
 
-	* **Pablo Domínguez Durán** (2)
+	* **Pablo Domínguez Durán** [1001677] (2)
 
-		
 		Súper dato!
 
-* **Karla Agraz** (8)
+* **Karla Agraz** (8) [1001335](https://platzi.com/comentario/1001335/) 
 
-	
-	  * Coerción implícita: Es cuando el lenguaje nos ayuda y cambia de un tipo de valor a otro tipo de valor.
+	* Coerción implícita: Es cuando el lenguaje nos ayuda y cambia de un tipo de valor a otro tipo de valor.
 	
 	
 	
 	-Coerción explícita : Es cuando nosotros obligamos a un valor de un tipo a cambiar a otro tipo.
 
-* **Carlos Roberto Villatoro Barrios** (6)
+* **Carlos Roberto Villatoro Barrios** (6) [1053776](https://platzi.com/comentario/1053776/) 
 
-	
 	ParseInt vs Number
 	
 	ParseInt: Analiza la cadena desde el primer dígito, hasta que encuentre algo que no sea dígito y devuelve lo que haya analizado.  
@@ -4604,12 +3999,11 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	Cada día se aprende algo nuevo, no pierdas esa oportunidad y no pares de aprender.
 
-* **Juan Zavala** (4)
+* **Juan Zavala** (4) [1045499](https://platzi.com/comentario/1045499/) 
 
-	
 	Todos los días se aprende algo nuevo, por muy pequeño que sea. Excelente !
 
-* **Mirna Mabel Veras Carvajal** (4)
+* **Mirna Mabel Veras Carvajal** (4) [998783](https://platzi.com/comentario/998783/) 
 
 	```
 	    //Ejemplos de Coerción:
@@ -4630,25 +4024,23 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-* **JheysonEGalvis** (2)
+* **JheysonEGalvis** (2) [1099260](https://platzi.com/comentario/1099260/) 
 
-	
 	Hay dos tipos de coerciones  
 	**Coerciones implícitas**  
 	Cuando el lenguaje nos ayuda y cambia de un tipo de valor a otro tipo de valor.  
 	**Coerciones explísitas**  
 	Es la forma en que nosotros obligamos a que un valor de un tipo cambie a un valor de otro tipo.
 
-* **Jeisson Santiago Cortes Ortiz** (2)
+* **Jeisson Santiago Cortes Ortiz** (2) [1084173](https://platzi.com/comentario/1084173/) 
 
-	
 	Es muy similar o practicamente igual al casteo de java, por ejemplo:
 	
 	Double numero = 0;  
 	String cadena="";  
 	cadena = (String) numero;
 
-* **Luis Diego Maroto Segura** (2)
+* **Luis Diego Maroto Segura** (2) [1071872](https://platzi.com/comentario/1071872/) 
 
 	```
 	    /*
@@ -4674,45 +4066,38 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-	* **eduvra** (1)
+	* **eduvra** [1071872] (1)
 
-		
 		Buen resumen compañero!
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [1070198](https://platzi.com/comentario/1070198/) 
 
-	
 	 **¿Que es coerción?**  
 	Se podría decir que coerción es la acción de forzar a que un objeto se comporte como si fuera de otro tipo.
 
-* **gonzaloPzl** (2)
+* **gonzaloPzl** (2) [1058438](https://platzi.com/comentario/1058438/) 
 
-	
 	La coerción se da cuando se cambie de un tipo de valor a otro, hay 2 tipos de coerciones las **Implicitas** y las **Explicitas** , las primeras ocurren cuando este cambio es sin que intervengamos y la segunda es cuando forzamos ese cambio.
 
-* **Francisco de Jesus** (2)
+* **Francisco de Jesus** (2) [1015337](https://platzi.com/comentario/1015337/) 
 
-	
 	Muy interesante lo de la coerción implicita
 
-* **Manuel Rivera** (2)
+* **Manuel Rivera** (2) [1004729](https://platzi.com/comentario/1004729/) 
 
-	
 	2 tipos de scope: Global y local  
 	2 tipos de funciones  
 	2 tipos de coerción: implcita y explicita
 
-* **Javier Téllez** (2)
+* **Javier Téllez** (2) [999109](https://platzi.com/comentario/999109/) 
 
-	
 	Coerción implicita es cuando JS nos ayuda a definir el tipo de variable, y la coerción explicita es cuando nosotros le decimos a JS en que tipo de variable almacenaremos nuestros valores.
 
-* **Daniel Carmona** (2)
+* **Daniel Carmona** (2) [997563](https://platzi.com/comentario/997563/) 
 
-	
 	Me gusto
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1113574](https://platzi.com/comentario/1113574/) 
 
 	```
 	    La coerción es la acción de cambiar un tipo de valor a otro, por ejemplo, un string a un número y viceversa.
@@ -4726,54 +4111,44 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1113570](https://platzi.com/comentario/1113570/) 
 
-	
 	Si quieren profundizar más en el tema de coerción [Vean este enlace](http://www.etnassoft.com/2011/04/06/coercion-de-datos-en-javascript/)
 
-* **John Steven Bernal Gonzalez** (1)
+* **John Steven Bernal Gonzalez** (1) [1112702](https://platzi.com/comentario/1112702/) 
 
-	
 	Con coercion explicita obligamos a cambiar de un tipo de valor de numero a un string usamos el metodo String() dentro de los paréntesis ubicamos la variable.
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1109660](https://platzi.com/comentario/1109660/) 
 
-	
 	Excelente clase.
 
-* **jameskristof** (1)
+* **jameskristof** (1) [1108840](https://platzi.com/comentario/1108840/) 
 
-	
 	¿Es como el parseInt?
 
-* **durbonca** (1)
+* **durbonca** (1) [1105022](https://platzi.com/comentario/1105022/) 
 
-	
 	Para eso no están los atributos de HTML5 de type en los inputs?
 
-	* **Jesús David Cuéllar Ortiz** (1)
+	* **Jesús David Cuéllar Ortiz** [1105022] (1)
 
-		
 		Sí, pero solo toman los datos y JS generalmente los vuelve string.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097427](https://platzi.com/comentario/1097427/) 
 
-	
 	Muy bien explicado!!
 
-* **David Flores** (1)
+* **David Flores** (1) [1095939](https://platzi.com/comentario/1095939/) 
 
-	
 	a ese tipo de coerción explícita yo la conocía como casteo (cast de datos)
 
-* **picojohn** (1)
+* **picojohn** (1) [1076635](https://platzi.com/comentario/1076635/) 
 
-	
 	tiene buenos trucos javascript
 
-* **Juan Esteban Galvis** (1)
+* **Juan Esteban Galvis** (1) [1072341](https://platzi.com/comentario/1072341/) 
 
-	
 	El profesor pasaba de String a numero o viceversa con otra variable, pero también se puede en la misma variable:
 	
 	var a = 3 -> Número  
@@ -4782,19 +4157,16 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	
 	Por cierto, Javascript si realiza las operaciones básicas entre numero y string (resta, multiplicación, división y otras más) pero el + lo toma como concatenar. Obviamente al operar 3 * “A” saca NnN (Not a Number).
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071213](https://platzi.com/comentario/1071213/) 
 
-	
 	Genial.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1069946](https://platzi.com/comentario/1069946/) 
 
-	
 	Muy util saber esto.
 
-* **Jair Israel Avilés Eusebio** (1)
+* **Jair Israel Avilés Eusebio** (1) [1056744](https://platzi.com/comentario/1056744/) 
 
-	
 	Una duda, cuando se cambio el valor de un number a un string ¿por que al imprimirlo en el navegador este no muestra las comillas? Es solo curiosidad
 	``` 
 	    var a = 20;
@@ -4804,9 +4176,8 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-	* **Juan Camilo Alvarez Jurado** (2)
+	* **Juan Camilo Alvarez Jurado** [1056744] (2)
 
-		
 		Cuando lo imprimes con console.log simplemente muestras texto en consola. No mostrarás comillas a menos que éstas hagan parte explícitamente del contenido de la cadena de caracteres.
 		
 		Por ello, si haces **console.log(“hola”)** te muestra hola sin comillas.
@@ -4821,80 +4192,67 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 		
 		Vemos comillas de una variable de cadena de caracteres cuando simplemente la ponemos en la consola sin **console.log** (por ejemplo, escribes cadena y le das Enter), con lo que identificamos rápidamente de si se trata o no de una cadena (en ese caso sí pone comillas)
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1052735](https://platzi.com/comentario/1052735/) 
 
-	
 	me sabia que con parseInt() se podia cambiar a entero, y con toString() a un string, pero esta clase me deja claro mas cosas.
 
-* **Leonardo Bravo Kunkel** (1)
+* **Leonardo Bravo Kunkel** (1) [1030086](https://platzi.com/comentario/1030086/) 
 
-	
 	Muy útil la información. Gracias.
 
-* **Eduardo Zamarron Muñoz** (1)
+* **Eduardo Zamarron Muñoz** (1) [1025495](https://platzi.com/comentario/1025495/) 
 
-	
 	¿Es decir que la coerción y el casting son lo mismo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [1025495] (4)
 
-		
 		Si, coerción y casteo de datos es lo mismo.
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1022813](https://platzi.com/comentario/1022813/) 
 
-	
 	Coerción: sería lo que en otros lenguajes de programación es la conversión (implícita, explícita)
 
-* **lmoran** (1)
+* **lmoran** (1) [1017031](https://platzi.com/comentario/1017031/) 
 
-	
 	Entendible.
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1012030](https://platzi.com/comentario/1012030/) 
 
-	
 	Coerción: Forma en qué podemos cambiar un tipo de valor  
 	Coerción Explicíta: Es cuando obligamos a que cambié el valor
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1011407](https://platzi.com/comentario/1011407/) 
 
-	
 	Ejemplo de coerción explicita: var a = 1 + "2" var b = Number(a) var c = 1 * 2 var d = String(c)
 
-* **Bervive** (1)
+* **Bervive** (1) [1009016](https://platzi.com/comentario/1009016/) 
 
-	
 	Me quedaron claro los 2 tipos de coerciones, Aunque siento que a este curso le falta hacer mas actividad practica escribiendo código, menos como ejemplos y mas en sentido de proyectos.
 
-	* **Eduardo Zamarron Muñoz** (4)
+	* **Eduardo Zamarron Muñoz** [1009016] (4)
 
-		
 		Pásate por el curso de Fundamentos de JavaScript, ahí ya hay un proyecto (:
 
-* **Rigo Antonio Galicia Barrera** (1)
+* **Rigo Antonio Galicia Barrera** (1) [1005108](https://platzi.com/comentario/1005108/) 
 
-	
 	Tambien puedes convertir a un timpo mas especifico como un entero con la funcion parseInt()
 
-* **diego rodriguez** (1)
+* **diego rodriguez** (1) [1001316](https://platzi.com/comentario/1001316/) 
 
-	
 	buena explicacion
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997638](https://platzi.com/comentario/997638/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-## 0100. Valores Truthy y Falsy
+## 0100. Valores Truthy y Falsy [26299](https://platzi.com/clases/1814-basico-javascript/26299-valores-truthy-y-falsy/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Mirna Mabel Veras Carvajal** (15)
+* **Mirna Mabel Veras Carvajal** (15) [998805](https://platzi.com/comentario/998805/) 
 
 	```
 	    //Ejemplos en los que Boolean devuelve Falso:
@@ -4914,9 +4272,8 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	    
 	```
 
-	* **Gerardo Nava Pereda** (3)
+	* **Gerardo Nava Pereda** [998805] (3)
 
-		
 		Faltaría tener cuidado con los números negativos.  
 		Sólo el **0 es false**.  
 		Cualquier otro número incluso los negativos es **true**
@@ -4925,39 +4282,33 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 		    
 		```
 
-	* **Esau Guerra** (2)
+	* **Esau Guerra** [998805] (2)
 
-		
 		agregaria Boolean(true); //true
 
-* **Carlos Andres Castañeda Osorio** (6)
+* **Carlos Andres Castañeda Osorio** (6) [1059042](https://platzi.com/comentario/1059042/) 
 
-	
 	En el MDN se pueden encontrar los valores, dejo los enlaces:
 	
-	  * [Falsy](https://developer.mozilla.org/es/docs/Glossary/Falsy)
-	  * [Truthy](https://developer.mozilla.org/es/docs/Glossary/Truthy)
+	* [Falsy](https://developer.mozilla.org/es/docs/Glossary/Falsy)
+	* [Truthy](https://developer.mozilla.org/es/docs/Glossary/Truthy)
 	
 	
 
-* **Manuel Rivera** (6)
+* **Manuel Rivera** (6) [1004741](https://platzi.com/comentario/1004741/) 
 
-	
 	Lo utilizamos bastabte en el curso de React js
 
-* **israelhuaman** (5)
+* **israelhuaman** (5) [1020176](https://platzi.com/comentario/1020176/) 
 
-	
 	creo que esta es una de las clases que evita muchos errores
 
-	* **SEBASTIAN PADUANO** (1)
+	* **SEBASTIAN PADUANO** [1020176] (1)
 
-		
 		totalmente de acuerdo
 
-* **John Steven Bernal Gonzalez** (4)
+* **John Steven Bernal Gonzalez** (4) [1114180](https://platzi.com/comentario/1114180/) 
 
-	
 	 **Que tipo de valor es verdadero y faso?**
 	
 	Que tipos por default son verdaderos y falsos
@@ -4987,29 +4338,27 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	<https://developer.mozilla.org/es/docs/Glossary/Falsy>  
 	<https://developer.mozilla.org/es/docs/Glossary/Truthy>
 
-* **Christian David Sánchez** (4)
+* **Christian David Sánchez** (4) [1070325](https://platzi.com/comentario/1070325/) 
 
-	
 	Hay un total de 6 valores / expresiones falsas en javascript.
 	
-	  * boolean ‘false’
+	* boolean ‘false’
 	
-	  * Cadena vacía es decir ‘’"
+	* Cadena vacía es decir ‘’"
 	
-	  * undefined Cualquier variable undefined será igual a false.
+	* undefined Cualquier variable undefined será igual a false.
 	
-	  * null Cualquier variable null será igual a false.
+	* null Cualquier variable null será igual a false.
 	
-	  * NaN Cualquier expresión numérica con resultado en NaN(no un número) será igual a false.
+	* NaN Cualquier expresión numérica con resultado en NaN(no un número) será igual a false.
 	
-	  * Número cero 0: Cualquier expresión numérica con resultado en cero será igual a false.
+	* Número cero 0: Cualquier expresión numérica con resultado en cero será igual a false.
 	
 	
 	
 
-* **gonzaloPzl** (3)
+* **gonzaloPzl** (3) [1058504](https://platzi.com/comentario/1058504/) 
 
-	
 	Valores que dan **False**  
 	0  
 	null  
@@ -5025,183 +4374,156 @@ Las variables o funciones que están en scope global pueden ser accedidas desde 
 	Objetos  
 	true
 
-* **Francisco de Jesus** (3)
+* **Francisco de Jesus** (3) [1015346](https://platzi.com/comentario/1015346/) 
 
-	
 	NO olvidar NaN = not a number
 
-* **Andres Roberto Coello Goyes** (3)
+* **Andres Roberto Coello Goyes** (3) [1002728](https://platzi.com/comentario/1002728/) 
 
-	
 	En el caso de hacer una consulta en MySQL con node y no trae nada mysql retorna NULL, esto se interpreta como FALSE
 
-* **Ulises Antonio Sámano Galván** (2)
+* **Ulises Antonio Sámano Galván** (2) [1115163](https://platzi.com/comentario/1115163/) 
 
 	```
 	    En JS todos los valores son verdaderos por defecto, a menos que los definamos como falsos con alguno de los siguientes valores:
 	    
 	```
 	
-	  * false.
-	  * “” Un string vacio
-	  * null
-	  * NaN
-	  * undefined
+	* false.
+	* “” Un string vacio
+	* null
+	* NaN
+	* undefined
 	
 	
 	
 	Si quieres saber si un valor es verdadero o falso utiliza la función Boolean( _El valor que vas a evaluar_ );
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1097436](https://platzi.com/comentario/1097436/) 
 
-	
 	Excelente clase, siempre es bueno ver cursos básicos. Esta clase me fue muy util!
 
-* **renso-bc** (2)
+* **renso-bc** (2) [1094871](https://platzi.com/comentario/1094871/) 
 
-	
 	En JavaScript, un valor verdadero es un valor que se considera true/verdadero cuando es evaluado en un contexto Booleano. Todos los valores son verdaderos (true, {}, [], 42, “foo”, new(), -42, 3.14, -3.14, Infinity, -Infinity) a menos que se definan como falso (es decir, excepto false, 0, “”, null, undefined, y NaN).
 
-* **Juan Esteban Galvis** (2)
+* **Juan Esteban Galvis** (2) [1072352](https://platzi.com/comentario/1072352/) 
 
-	
 	0, false, null, undefine, NaN o vacio = **Falso**  
 	1, true, valor cualquiera, array, función u objeto = **True**
 	
 	Esto es muy importante para condicionales, y luego con esos true o false las tablas de valores son lo siguiente a aprender para dominar los condicionales-
 
-* **Miguel Sequeiros Arapa** (2)
+* **Miguel Sequeiros Arapa** (2) [1055629](https://platzi.com/comentario/1055629/) 
 
-	
 	muy útil tambien el concepto de nullish  
 	<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator>
 
-* **urieelmm** (2)
+* **urieelmm** (2) [1015096](https://platzi.com/comentario/1015096/) 
 
-	
 	Si tenemos una variable, también es verdadera o falso?
 
-	* **dariusv** (1)
+	* **dariusv** [1015096] (1)
 
-		
 		Hice la prueba y si solo esta declarada la variable es falsa, si la inicializas con 0 sigue siendo falso ya que cero es igual a falso, si la inicializas con algún valor que sea verdadero como el 3, la variable pasaría a ser verdadera, recuerda que la variable equivale a el valor que le asignes, por eso será verdadera o falsa dependiendo del valor que le asignes a dicha variable
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [1015096] (1)
 
-		
 		Si claro si solo esta declarada pues seria undefined por ende seria false igual que si fuera inicializada en 0 o en ‘’’’
 
-* **Kevin Vega** (2)
+* **Kevin Vega** (2) [1012038](https://platzi.com/comentario/1012038/) 
 
-	
 	En JavaScript, un valor verdadero es un valor que se considera true/verdadero cuando es evaluado en un contexto Booleano. Todos los valores son verdaderos a menos que se definan como falso (es decir, excepto false, 0, “”, null, undefined, y NaN).
 
-* **Alejandro Arellano Alemán** (2)
+* **Alejandro Arellano Alemán** (2) [1002764](https://platzi.com/comentario/1002764/) 
 
 	```
 	    NaN// Not a Number
 	    
 	```
 
-* **Javier Téllez** (2)
+* **Javier Téllez** (2) [999142](https://platzi.com/comentario/999142/) 
 
-	
 	Valor Booleano, solo almacena dos posibles valores, verdadero o falso, 0 y 1, prendido apagado, es para hacer las famosas banderas.
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1109677](https://platzi.com/comentario/1109677/) 
 
-	
 	Excelente clase c:
 
-* **garciafran** (1)
+* **garciafran** (1) [1099071](https://platzi.com/comentario/1099071/) 
 
-	
 	Interesante el valor por default, bastante ultil
 
-* **Diego Alfonso Najera Ortiz** (1)
+* **Diego Alfonso Najera Ortiz** (1) [1092854](https://platzi.com/comentario/1092854/) 
 
-	
 	muy buena explicación!
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1079596](https://platzi.com/comentario/1079596/) 
 
-	
 	Vamos a utilizar (TRUTHY y FALSE) Cuándo generemos condiciones, funciones que tengamos que validar.
 	
 	False, Null, Undefined,NaN, vacio = False  
 	True, Valor Array, Functions, objetos = True
 
-* **picojohn** (1)
+* **picojohn** (1) [1078494](https://platzi.com/comentario/1078494/) 
 
-	
 	buena clase
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071233](https://platzi.com/comentario/1071233/) 
 
-	
 	Genial.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1070188](https://platzi.com/comentario/1070188/) 
 
-	
 	No sabia que una funcion tambien daba verdadero.
 
-* **Sebastian Lomas** (1)
+* **Sebastian Lomas** (1) [1068659](https://platzi.com/comentario/1068659/) 
 
-	
 	Los objetos también son true.
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1045550](https://platzi.com/comentario/1045550/) 
 
-	
 	Excelente dato
 
-* **Leonardo Bravo Kunkel** (1)
+* **Leonardo Bravo Kunkel** (1) [1030109](https://platzi.com/comentario/1030109/) 
 
-	
 	Boolean (-1);  
 	//true
 	
 	Pensé que sería falso, pero no.
 
-	* **Israel Castro Urieta** (2)
+	* **Israel Castro Urieta** [1030109] (2)
 
-		
 		Cuando bien lo dice el profesor “valores distintos de cero” justo eso iba a comentar, que valores negativos también son valores true.
 
-* **Bervive** (1)
+* **Bervive** (1) [1010657](https://platzi.com/comentario/1010657/) 
 
-	
 	Los valores verdadero, falso
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997667](https://platzi.com/comentario/997667/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **snowy** (1)
+* **snowy** (1) [997641](https://platzi.com/comentario/997641/) 
 
-	
 	ahora si viene lo chido !!!
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997573](https://platzi.com/comentario/997573/) 
 
-	
 	Ya se vienen las evaluaciones 😄
 
-* **Cristian Florez** (1)
+* **Cristian Florez** (1) [83231](https://platzi.com/comentario/1022500/) 
 Si cual es la diferencia entre NaN y por ejemplo Null???
 
-	* **Jose Daniel Paiva** (2)
+	* **Jose Daniel Paiva** [83231] (2)
 
-		
 		`NaN` (Not a Number), como su nombre lo dice, nos indica que no es un número. Una de las formas de obtener este valor es dividiendo 0/0.
 		
 		`Null` quiere decir que el objeto está vacío y no apunta a ninguna dirección de memoria.
 		
 		[Aquí puedes leer sobre null, NaN y undefined](https://www.todojs.com/casos-especiales-undefined-null-y-nan/), espero que te ayude 😉
 
-## 0110. Operadores Asignación, Comparación y Aritméticos.
+## 0110. Operadores Asignación, Comparación y Aritméticos. [26300](https://platzi.com/clases/1814-basico-javascript/26300-operadores-asignacion-comparacion-y-aritmeticos/)
 
 ### Descripción:
 
@@ -5212,16 +4534,14 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 
 ### Comentarios:
 
-* **Cristobal Vega** (20)
+* **Cristobal Vega** (20) [1001712](https://platzi.com/comentario/1001712/) 
 
-	
 	Bien, después de esta clase ya puedo agregar un meme que explica más sobre operadores 🤓
 	
 	![](https://i.redd.it/4skcofasa1p01.png)
 
-* **Javier Téllez** (17)
+* **Javier Téllez** (17) [999186](https://platzi.com/comentario/999186/) 
 
-	
 	Por accidente descubrí que si aprietas algún número mientras ves el video, te posiciona en el porcentaje del número que hayas apretado.
 	
 	Ejemplo:  
@@ -5232,22 +4552,19 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	.  
 	9 te lleva al 90%.
 
-	* **Emmanuel García** (2)
+	* **Emmanuel García** [999186] (2)
 
-		
 		Pero al mismo tiempo es incomodo cuando te mueves entre pestañas con shortcuts 😕
 
-	* **Cristobal Vega** (5)
+	* **Cristobal Vega** [999186] (5)
 
-		
 		Más de medio año en la plataforma y apenas me acabo de dar cuenta también. 🤯
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [999186] (1)
 
-		
 		Gracias, por el dato!
 
-* **Mirna Mabel Veras Carvajal** (10)
+* **Mirna Mabel Veras Carvajal** (10) [998848](https://platzi.com/comentario/998848/) 
 
 	```
 	    //Operadores binarios:
@@ -5284,7 +4601,7 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-* **lmoran** (8)
+* **lmoran** (8) [1017240](https://platzi.com/comentario/1017240/) 
 
 	```
 	    //OPERADORES
@@ -5318,12 +4635,11 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-	* **Rimak Castañeda Mejia** (1)
+	* **Rimak Castañeda Mejia** [1017240] (1)
 
-		
 		Gracias!
 
-* **Andres Burbano** (6)
+* **Andres Burbano** (6) [1079764](https://platzi.com/comentario/1079764/) 
 <h1>OPERADORES: ASIGNACION, LOGICOS Y ARITMETICOS</h1>
 	
 	## Operador de asignacion
@@ -5363,30 +4679,28 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	&& | AND  
 	|| | OR
 
-	* **Orlando0302** (1)
+	* **Orlando0302** [1079764] (1)
   
 		  
 		excelente amigo
 
-* **Lorenzo David Lezcano** (5)
+* **Lorenzo David Lezcano** (5) [997169](https://platzi.com/comentario/997169/) 
 
-	
 	Lo del triple igual === es bárbaro
 
-* **lmgaero** (4)
+* **lmgaero** (4) [1099689](https://platzi.com/comentario/1099689/) 
 
-	
 	Perfecta clase, solo hizo falta un operador binario o aritmético, llamado módulo que es escrito con el símbolo de porcentaje (%). Este operador nos devuelve el resto o el sobrante de la división aritmética.
 	
 	Ejemplo:  
 	`6 % 2; // Devuelve 0, porque es una división perfecta. 8 % 3; // Devuelve 2, porque no es una división exacta, 2 * 3 = 6, y el restante es 2`
 
-* **Christian David Sánchez** (4)
-![operadores-javascript3-l.jpg](https://static.platzi.com/media/user_upload/operadores-javascript3-l-c8941201-4375-424b-a45c-aa80688f2cf3.jpg)
-
-* **Juan Camilo Alvarez Jurado** (4)
-
+* **Christian David Sánchez** (4) [1070693](https://platzi.com/comentario/1070693/) 
 	
+	![operadores-javascript3-l.jpg](https://static.platzi.com/media/user_upload/operadores-javascript3-l-c8941201-4375-424b-a45c-aa80688f2cf3.jpg)
+
+* **Juan Camilo Alvarez Jurado** (4) [1058109](https://platzi.com/comentario/1058109/) 
+
 	Todo el mundo deja de lado a la disyunción exclusiva :c  
 	  
 	El operador ^ (acento circunflejo) sirve para la operación de disyunción exclusiva entre dos booleanos. Esta operación, también conocida como XOR, es básicamente: o es A, o es B, pero no pueden ser A y B a la vez  
@@ -5395,20 +4709,17 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	  
 	![](![xor.png](https://static.platzi.com/media/user_upload/xor-944d9bd3-ca04-4053-9d3e-2f8f4408c9df.jpg)
 
-* **dariusv** (4)
+* **dariusv** (4) [1018207](https://platzi.com/comentario/1018207/) 
 
-	
 	¿En los operadores no entraría también el “MOD” (%)?
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [1018207] (1)
 
-		
 		Sí, al igual que los operadores de exponenciación, incremento y decremento.  
 		[https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Aritméticos](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Aritm%C3%A9ticos)
 
-* **Mauricio Jofre Heimerl** (3)
+* **Mauricio Jofre Heimerl** (3) [1041877](https://platzi.com/comentario/1041877/) 
 
-	
 	Codigo desafio juego - piedra, papel o tijera
 	``` 
 	    /*=============================================
@@ -5477,12 +4788,11 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-	* **RemyLebeau** (1)
+	* **RemyLebeau** [1041877] (1)
 
-		
 		Super, esta muy bueno, espero al terminar los cursos básicos de javascript poder implementarlo con html como lo haces, ya que hay partes que aun desconozco.
 
-* **Carlos Eduardo Diaz Polanco** (3)
+* **Carlos Eduardo Diaz Polanco** (3) [1013892](https://platzi.com/comentario/1013892/) 
 
 	```
 	    == // Es igual
@@ -5490,18 +4800,17 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-* **Ariel Alejandro Ureña Morales** (2)
+* **Ariel Alejandro Ureña Morales** (2) [1109691](https://platzi.com/comentario/1109691/) 
 
-	
 	Qué util, no sabía la diferencia entre == y ===.
 
-* **Bryan Javier Calero Robleto** (2)
+* **Bryan Javier Calero Robleto** (2) [1074426](https://platzi.com/comentario/1074426/) 
 <h1>Operadores: Asignación, Comparación y Aritméticos</h1>
 	
 	## Operadores de Operación
 	
-	  *     * : este tambien sirve para concatenar texto
-	  *     *   *     *   * /
+	*   * : este tambien sirve para concatenar texto
+	*   * *   * * /
 	
 	3 + 2  
 	50 - 10  
@@ -5514,7 +4823,7 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	
 	## Unity Operator
 	
-	  * ! : Sirve para negar
+	* ! : Sirve para negar
 	
 	!false //no devuelve que es true ya que lo estaria negando
 	
@@ -5523,11 +4832,11 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	
 	## Operadores de Asignación y comparación
 	
-	  * = : Asigna valor
+	* = : Asigna valor
 	
-	  * == : hace una comparación no estricta (no importa tipos de variables)
+	* == : hace una comparación no estricta (no importa tipos de variables)
 	
-	  * === : Hace una comparación estricta (Importas los tipos de variables)
+	* === : Hace una comparación estricta (Importas los tipos de variables)
 	
 	var a = 1; //asigna uno a la variable x  
 	3 == “3”; //TRUE compara dos variables y no toma en cuenta el tipo de variable  
@@ -5536,47 +4845,40 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	
 	
 
-* **Juan Esteban Galvis** (2)
+* **Juan Esteban Galvis** (2) [1072371](https://platzi.com/comentario/1072371/) 
 
-	
 	El tema de que se cumpla uno y/o la otra se aprendé con las **Tablas de Verdad** en matemáticas discretas, dejo la tabla:
 	
 	**( && = Y ; || = O ; ! = Negación)**
 	
 	![tablas-de-verdad.jpg](https://static.platzi.com/media/user_upload/tablas-de-verdad-40efb332-c0c5-42c0-95d4-49d66f5265dc.jpg)
 
-* **Sebastián Mera** (2)
+* **Sebastián Mera** (2) [1031917](https://platzi.com/comentario/1031917/) 
 
-	
 	¿Alguien sabe como sacar el simbolo de “o”? Las dos lineas verticales.
 
-	* **Gabriel De Andrade (Platzi)** (5)
+	* **Gabriel De Andrade (Platzi)** [1031917] (5)
 
-		
 		Este: | ? Generalmente está en la parte superior izquierda de tu teclado, si está en español 😛
 
-	* **RemyLebeau** (2)
+	* **RemyLebeau** [1031917] (2)
 
-		
 		Si no se visibiliza en tu teclado lo puedes sacar por codigo ASCii
 		
 		ALT 124
 		
 		| |
 
-* **pablod574** (2)
+* **pablod574** (2) [1029314](https://platzi.com/comentario/1029314/) 
 
-	
 	comparar un numero con un string con == no importa el tipo de dato, sino el valor ej: 3 == "3" true
 
-* **pablod574** (2)
+* **pablod574** (2) [1029313](https://platzi.com/comentario/1029313/) 
 
-	
 	Al usar === sí importa el tipo de dato ej: 3 === "3" false
 
-* **Kevin Vega** (2)
+* **Kevin Vega** (2) [1012047](https://platzi.com/comentario/1012047/) 
 
-	
 	 **Operadores de Comparación**  
 	= (Es igual a) Igual a
 	
@@ -5592,9 +4894,8 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	**Operadores de Asignación en JavaScript**  
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Assignment_Operators>
 
-* **Sneyder Alfonso Barreto Buitrago** (2)
+* **Sneyder Alfonso Barreto Buitrago** (2) [1007213](https://platzi.com/comentario/1007213/) 
 
-	
 	Existe un término _‘fancy’_ en programación llamado **overloading** , que se refiere a que un operador (en este caso) cuenta con _más de un comportamiento_ dependiendo de los tipos de valores usados en la operacion.  
 	Un ejemplo de esto sería el operador **+**.
 	``` 
@@ -5606,128 +4907,105 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	Algo más a tener en cuenta, es que los operadores como **+=** , **-=** , etc., son operadores que se pueden usar **únicamente con variables**. Como por ejemplo, la variable _edad_ que utilizó el profesor en esta clase.  
 	Un saludo.
 
-* **Daniel Carmona** (2)
+* **Daniel Carmona** (2) [997593](https://platzi.com/comentario/997593/) 
 
-	
 	Tambien el decremento con – o -=
 
-* **juanlondono** (2)
+* **juanlondono** (2) [997247](https://platzi.com/comentario/997247/) 
 
-	
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators>
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097462](https://platzi.com/comentario/1097462/) 
 
-	
 	esta clase es esencial porque las comparaciones aplican a cualquier lenguaje de programación
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1093147](https://platzi.com/comentario/1093147/) 
 
-	
 	operadores lógicos son && y || ??
 
-	* **ag94e** (2)
+	* **ag94e** [1093147] (2)
 
-		
 		Así es, && (AND) || (OR)
 
-	* **Robinson Matias Aguilar Bascuñan** (1)
+	* **Robinson Matias Aguilar Bascuñan** [1093147] (1)
 
-		
 		el OR no es solo con 1 | ?
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1085926](https://platzi.com/comentario/1085926/) 
 
-	
 	…
 
-* **Andres Burbano** (1)
+* **Andres Burbano** (1) [1079769](https://platzi.com/comentario/1079769/) 
 
-	
 	Cuales son las reglas de markdown utilizadas en esta sección ?
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1071322](https://platzi.com/comentario/1071322/) 
 
-	
 	Igualdad estricta.
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071290](https://platzi.com/comentario/1071290/) 
 
-	
 	Excelente clase.
 
-* **Miguel Sequeiros Arapa** (1)
+* **Miguel Sequeiros Arapa** (1) [1055645](https://platzi.com/comentario/1055645/) 
 
-	
 	se viene el operador Nullish coalescing , ya está en Stage 4 !!!
 	
 	<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator>
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1046160](https://platzi.com/comentario/1046160/) 
 
-	
 	Excelente
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1022856](https://platzi.com/comentario/1022856/) 
 
-	
 	son los mismos operadores que se utilizan en algún otro lenguaje
 
-* **Francisco de Jesus** (1)
+* **Francisco de Jesus** (1) [1015368](https://platzi.com/comentario/1015368/) 
 
-	
 	Buena clase rapida y concisa
 
-* **Bervive** (1)
+* **Bervive** (1) [1010668](https://platzi.com/comentario/1010668/) 
 
-	
 	Estoy familiarizado con estos operadores porque los hemos trabajado bastante en el curso de programación básica.
 
-* **CarlosAlba** (1)
+* **CarlosAlba** (1) [1008890](https://platzi.com/comentario/1008890/) 
 
-	
 	Algo importante es repasar las “[tablas de verdad](https://es.wikipedia.org/wiki/Tabla_de_verdad)” para entender mejor acerca de los operadores.
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [1004780](https://platzi.com/comentario/1004780/) 
 
-	
 	Documentación
 	
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Operators>
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997692](https://platzi.com/comentario/997692/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-	* **DiegoPV** (9)
+	* **DiegoPV** [997692] (9)
 
-		
 		Loco, hay varias formas de que te ganes puntos, y si es por comentarios, pues que sea algo que aporte!
 
-	* **Oscar Galicia** (3)
+	* **Oscar Galicia** [997692] (3)
 
-		
 		No seas pesado.
 
-	* **matias-alexander-ibarra-trujil** (2)
+	* **matias-alexander-ibarra-trujil** [997692] (2)
 
-		
 		dejen que gane sus puntos, dos puntos por apoyar al compañero
 
-	* **Gerardo Nava Pereda** (5)
+	* **Gerardo Nava Pereda** [997692] (5)
 
-		
 		Se engaña a si mismo xD, los puntos no valen, realmente ganaría si investigara y aportara algo de valor ganaría conocimiento para él y para otros… además en la vida real hacer algo funcional es lo que vale. Los puntos son meramente un efecto de recompensa que te motiva a compartir pero quiere sentir un efecto inmediato, es natural, así empieza la mayoría queriendo correr …
 
-	* **matias-alexander-ibarra-trujil** (2)
+	* **matias-alexander-ibarra-trujil** [997692] (2)
 
-		
 		mhhh nop, los puntos te sirven para platzi master, 2 puntos por refutar
 
-# Condicionales
+# Condicionales [5330]
 
-## 0120. Condicionales If, Else, else if
+## 0120. Condicionales If, Else, else if [26301](https://platzi.com/clases/1814-basico-javascript/26301-condicionales-if-else-else-if/)
 
 ### Descripción:
 
@@ -5738,8 +5016,9 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 
 ### Comentarios:
 
-* **JEB10** (4)
-![Captura de pantalla 2020-04-06 a las 1.10.13 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-04-06%20a%20las%201.10.13%20p.%C2%A0m.-375c1281-faae-43ac-a7dd-f1d469228595.jpg)
+* **JEB10** (4) [1101103](https://platzi.com/comentario/1101103/) 
+	
+	![Captura de pantalla 2020-04-06 a las 1.10.13 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-04-06%20a%20las%201.10.13%20p.%C2%A0m.-375c1281-faae-43ac-a7dd-f1d469228595.jpg)
 	``` 
 	    /* Función para generar un número random y asignarle un valor:
 	    ('Rock ✊🏼', 'Paper 🖐🏼' o 'Scissors ✌🏼) a través de los condicionales: if, else, else if */
@@ -5792,14 +5071,12 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-	* **RemyLebeau** (1)
+	* **RemyLebeau** [1101103] (1)
 
-		
 		Hey amigo super, quedo bacanisimo, como hiciste para sacar los emoticones o iconos?
 
-	* **JEB10** (1)
+	* **JEB10** [1101103] (1)
 
-		
 		Hola **@RemyLebeau**  
 		Es fácil, si tienes un mac, presiona: **(ctrl + cmd + barra espaciadora).**  
 		Si trabajas con otro sistema operativo, puedes buscarlo en este link, y solo haces **copy/paste**  
@@ -5807,9 +5084,8 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 		
 		Un abrazo de gol! 🦾👨🏼‍💻
 
-* **Yiy0** (4)
+* **Yiy0** (4) [1083916](https://platzi.com/comentario/1083916/) 
 
-	
 	Dos cosas: la primera es la interactividad que puede ser mejorada con botones para que se registre correctamente la elección y segundo no se como colocar como parámetro un array sin romper el código, cualquier sugerencia en especial en lo ultimo siempre es bienvenida, peace 😃
 	``` 
 	    alert("You must give 0 (scissor) or 1 (rock) or 2 (paper) to the parameter of the game function")
@@ -5837,9 +5113,8 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-* **juancamiloosoriobedoya5** (4)
+* **juancamiloosoriobedoya5** (4) [1064457](https://platzi.com/comentario/1064457/) 
 
-	
 	Este codigo es el mas sencillo, se debe ingresar en strings lo que escogería el jugador o el computador y ahí te arroja el resultado.  
 	Esta de acuerdo a lo que nos han enseñado hasta hoy, para que no se desanimen si ven que los compañeros usan cosas que no hemos visto en lo que va de la escuela de JS (Math.random, Math.Floor, let etc etc…)
 	``` 
@@ -5868,18 +5143,16 @@ Si cual es la diferencia entre NaN y por ejemplo Null???
 	    
 	```
 
-* **julio1985** (3)
+* **julio1985** (3) [82212](https://platzi.com/comentario/1000333/) 
 saludos compañeros donde puedo encontrar ejercicios con If y else, para practicar!!!
 
-	* **diego rodriguez** (6)
+	* **diego rodriguez** [82212] (6)
 
-		
 		esta pagina sirve para pracitcar js con diferentes retos  
 		<https://javascript30.com/>
 
-* **RemyLebeau** (2)
+* **RemyLebeau** (2) [1101237](https://platzi.com/comentario/1101237/) 
 
-	
 	Algo sencillo y simple al principio se me dificulto la lógica pero ya después que fui probando y aclarando resolví dudas y practique la teoría.
 	``` 
 	    /*****PIEDRA, PAPEL O TIJERA********/
@@ -5927,9 +5200,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **geovanygomez** (2)
+* **geovanygomez** (2) [1100303](https://platzi.com/comentario/1100303/) 
 
-	
 	Se que es muuuy básico pero de verdad no saben lo feliz que me pone haberlo hecho yo solo, estoy aprendiendo desde cero
 	
 	var computadoraElije = "papel"  
@@ -5959,7 +5231,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	console.log(“Algo salio mal y no se que pudo haber sido”)  
 	}
 
-* **Mackial Houng** (2)
+* **Mackial Houng** (2) [1096517](https://platzi.com/comentario/1096517/) 
 
 	```
 	    const option = {
@@ -6009,7 +5281,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Daniel Esteban Santos Mendez** (2)
+* **Daniel Esteban Santos Mendez** (2) [1089345](https://platzi.com/comentario/1089345/) 
 
 	```
 	    const piedra = 0;
@@ -6042,17 +5314,15 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-	* **Orlando0302** (1)
+	* **Orlando0302** [1089345] (1)
 
-		
 		excelente amigo
 
-	* **eduardovinagre** (1)
+	* **eduardovinagre** [1089345] (1)
 
-		
 		Un consejo … si ya declaraste las constantes, entonces úsalas así facilitas la lectura de tu código.
 
-* **Lorena Pinzón** (2)
+* **Lorena Pinzón** (2) [1087548](https://platzi.com/comentario/1087548/) 
 
 	```
 	    var maquina = ["piedra","papel","tijera"];
@@ -6081,7 +5351,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ender José Urdaneta Ocando** (2)
+* **Ender José Urdaneta Ocando** (2) [1085924](https://platzi.com/comentario/1085924/) 
 
 	```
 	    function jugar(p1,p2){
@@ -6104,25 +5374,21 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-	* **ASSACOLOMBIA** (1)
+	* **ASSACOLOMBIA** [1085924] (1)
 
-		
 		Tu respuesta me agrada pues uso conocimientos vistos hasta el momento, algunas soluciones que vi meten otras cosas que hasta el momento no conozco.
 
-* **Bryan Gallo** (2)
+* **Bryan Gallo** (2) [1065107](https://platzi.com/comentario/1065107/) 
 
-	
 	Este código que utilice yo para el reto 😛 , se me hizo un poco complicado pero me guié en varios códigos que publicaron en la comunidad aunque algunos no entendía 😦 pero en lo de Math.random logre entender 😛 espero este bien para haber comenzado,el curso me gusta mucho 😄  
 	![Captura de pantalla \(387\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%28387%29-cc706d2e-507a-40af-8392-3e053b1264e4.jpg)
 
-	* **Messorid** (2)
+	* **Messorid** [1065107] (2)
 
-		
 		Gracias amigo tu codigo me fue muy util
 
-* **DevNaftan** (2)
+* **DevNaftan** (2) [1058383](https://platzi.com/comentario/1058383/) 
 
-	
 	 **Reto cumplido**
 	``` 
 	    /* El juego tiene 3 rondas y acaba cuando uno de los participantes gana 3 veces */
@@ -6202,9 +5468,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Juan Enrique Rodriguez Garcia** (2)
+* **Juan Enrique Rodriguez Garcia** (2) [1056995](https://platzi.com/comentario/1056995/) 
 
-	
 	Juego reto
 	
 	![Captura de pantalla de 2020-03-23 08-58-25.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-23%2008-58-25-51a569b2-7cdd-49e0-8a3a-eadb53412a87.jpg)
@@ -6324,7 +5589,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	      display: none;
 	    }
 	    
-	    * {
+	  * {
 	      margin: 0;
 	      padding: 0;
 	      box-sizing: 0;
@@ -6516,15 +5781,15 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **EmiGarello** (2)
+* **EmiGarello** (2) [1055913](https://platzi.com/comentario/1055913/) 
 
-	
 	muy bueno
 
-* **Jhon Alexander Romero Gonzaga** (2)
-![](https://i.ibb.co/zmbSKyv/5fd09e93-81e3-4d50-88ea-403731d9b191.jpg)
+* **Jhon Alexander Romero Gonzaga** (2) [1053145](https://platzi.com/comentario/1053145/) 
+	
+	![](https://i.ibb.co/zmbSKyv/5fd09e93-81e3-4d50-88ea-403731d9b191.jpg)
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1117663](https://platzi.com/comentario/1117663/) 
 
 	```
 	    Si necesitas validar una sentencia utiliza:
@@ -6553,7 +5818,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	_La condición_ ? _Lo que ocurrirá si es verdadera_ : _Lo que ocurrirá si es falsa_
 
-* **Ulises Antonio Sámano Galván** (1)
+* **Ulises Antonio Sámano Galván** (1) [1117646](https://platzi.com/comentario/1117646/) 
 
 	```
 	     functionjuego (maquina,usuario)
@@ -6601,9 +5866,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **nicolasagreda** (1)
+* **nicolasagreda** (1) [1117001](https://platzi.com/comentario/1117001/) 
 
-	
 	var player1 = "piedra"  
 	var maquina = “piedra”
 	
@@ -6632,7 +5896,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	}  
 	juego(player1,maquina);
 
-* **Jonathan Vacas** (1)
+* **Jonathan Vacas** (1) [1115967](https://platzi.com/comentario/1115967/) 
 
 	```
 	    var jugador1 = "piedra"; //establecemos una variable al jugador 1
@@ -6660,7 +5924,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **FredySarmiento** (1)
+* **FredySarmiento** (1) [1114675](https://platzi.com/comentario/1114675/) 
 
 	```
 	    var opcJ1=prompt("Seleccione el valor 1. piedra 2. papel 3.Tijrea");
@@ -6689,7 +5953,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **jameskristof** (1)
+* **jameskristof** (1) [1113335](https://platzi.com/comentario/1113335/) 
 
 	```
 	    function piedraPapeloTijera()
@@ -6728,14 +5992,13 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **max23esau** (1)
+* **max23esau** (1) [1112308](https://platzi.com/comentario/1112308/) 
 
-	
 	Les dejo mi aporte:  
 	<https://max23esau.github.io/Game/>  
 	[Repositorio](https://github.com/Max23Esau/Game)
 
-* **Daniel Acevedo Rodriguez** (1)
+* **Daniel Acevedo Rodriguez** (1) [1110544](https://platzi.com/comentario/1110544/) 
 
 	```
 	    function PPT(usuario1 , usuario2) {
@@ -6764,9 +6027,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1109867](https://platzi.com/comentario/1109867/) 
 
-	
 	Yo hice uno de jugador 1 contra jugador 2.
 	``` 
 	    var usuario1 = prompt("Jugador 1, escribe tu nombre.");
@@ -6798,14 +6060,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1109746](https://platzi.com/comentario/1109746/) 
 
-	
 	Excelente clase, todo bien explicado c:
 
-* **Carlos Luis García** (1)
+* **Carlos Luis García** (1) [1109566](https://platzi.com/comentario/1109566/) 
 
-	
 	var usuario1 = "Carlos"  
 	var usuario2 = "Pedro"  
 	var piedra = "piedra"  
@@ -6836,7 +6096,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	return ganador  
 	}
 
-* **jmgaitan** (1)
+* **jmgaitan** (1) [1109215](https://platzi.com/comentario/1109215/) 
 
 	```
 	    var jugador1
@@ -6878,7 +6138,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Carlos Cipagauta** (1)
+* **Carlos Cipagauta** (1) [1108963](https://platzi.com/comentario/1108963/) 
 
 	```
 	    <style>
@@ -6974,7 +6234,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Vicente Andrés Muñoz Moller** (1)
+* **Vicente Andrés Muñoz Moller** (1) [1108932](https://platzi.com/comentario/1108932/) 
 
 	```
 	    var localPlayer = prompt("1 for Rocks, 2 for Scissors or 3 for Paper ");
@@ -6999,7 +6259,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **david1pc** (1)
+* **david1pc** (1) [1108368](https://platzi.com/comentario/1108368/) 
 
 	```
 	    var opcion = "tijera";
@@ -7024,23 +6284,20 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **ELITA CAMPOJO GUEVARA** (1)
+* **ELITA CAMPOJO GUEVARA** (1) [1108253](https://platzi.com/comentario/1108253/) 
 
-	
 	Con un poco de ayuda pero lo hice.
 	
 	![juego tijera-papel-piedra.png](https://static.platzi.com/media/user_upload/juego%20tijera-papel-piedra-3c4c3851-b3cc-49de-853e-b9fccfdd3975.jpg)
 	
 	Gracias a los compañeros por su aporte.
 
-* **luistaurik** (1)
+* **luistaurik** (1) [1106881](https://platzi.com/comentario/1106881/) 
 
-	
 	No logré hacerlo, no me corre 😦
 
-* **Alejandro Luján** (1)
+* **Alejandro Luján** (1) [1106575](https://platzi.com/comentario/1106575/) 
 
-	
 	Listo!, me costo un poco de trabajo, pero lo terminé:
 	``` 
 	    let election1 = prompt("Que vas a querer? \n -Rock \n -Paper \n -Scissors");
@@ -7101,9 +6358,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **HumbertoMLL** (1)
+* **HumbertoMLL** (1) [1106214](https://platzi.com/comentario/1106214/) 
 
-	
 	Si metemos todo dentro de la función juego, podemos cargar el código en consola, y solo ejecutar juego(), y evitamos que se queden guardados los valores de las variables
 	``` 
 	    const juego = () => {
@@ -7142,7 +6398,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **HumbertoMLL** (1)
+* **HumbertoMLL** (1) [1106127](https://platzi.com/comentario/1106127/) 
 
 	```
 	    const jugador = prompt("¿piedra, papel ó tijera?");
@@ -7191,12 +6447,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **platzerito080420202** (1)
+* **platzerito080420202** (1) [1105455](https://platzi.com/comentario/1105455/) 
 
-	
 	Sí soy un ano
 
-* **Milton Enríquez Torres** (1)
+* **Milton Enríquez Torres** (1) [1103192](https://platzi.com/comentario/1103192/) 
 
 	```
 	    <!DOCTYPE html>
@@ -7256,12 +6511,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-	* **luistaurik** (1)
+	* **luistaurik** [1103192] (1)
 
-		
 		Creo que esto es mucho más avanzado de lo del cuso.
 
-* **Julio Cesar Cedeño Alemar** (1)
+* **Julio Cesar Cedeño Alemar** (1) [1102274](https://platzi.com/comentario/1102274/) 
 
 	```
 	    var nombreJugador=prompt("Introduce tu nombre para comenzar");
@@ -7316,9 +6570,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **jandresfr** (1)
+* **jandresfr** (1) [1100811](https://platzi.com/comentario/1100811/) 
 
-	
 	function ppt(){
 	``` 
 	    var maquina = "piedra";
@@ -7352,9 +6605,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	console.log(ppt());
 
-* **garciafran** (1)
+* **garciafran** (1) [1099965](https://platzi.com/comentario/1099965/) 
 
-	
 	muy interesante la instruccion del operador ternario.
 	``` 
 	    if (true){
@@ -7385,9 +6637,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **JheysonEGalvis** (1)
+* **JheysonEGalvis** (1) [1099635](https://platzi.com/comentario/1099635/) 
 
-	
 	Porqué cuando ejecuto esto sempre me sale “Aun no puedes votar” así ponga una edad mayor a 18?  
 	var edad = prompt;  
 	var edad = String(edad);  
@@ -7400,18 +6651,16 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	alert(“Aun no puedes votar”);  
 	}
 
-	* **lmgaero** (1)
+	* **lmgaero** [1099635] (1)
 
-		
 		En tu segunda línea estás haciendo una coerción explícita a String, es decir, el dato que ingrese el usuario, que por defecto ya es un string, lo estás convirtiendo en string. Y luego comparando con “===” contra un valor numérico.
 		
 		Cambia tu método String(edad), por Number(edad), esto debería solucionar tu problema.
 		
 		Te sugiero ver nuevamente las clases de coerción y operadores.
 
-* **Arturo Linares** (1)
+* **Arturo Linares** (1) [1098421](https://platzi.com/comentario/1098421/) 
 
-	
 	var piedra = 0  
 	var papel = 0  
 	var tijera = 0
@@ -7426,9 +6675,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	algo básico y rápido jajaja
 
-* **Luis Alejandro Medina Escobar** (1)
+* **Luis Alejandro Medina Escobar** (1) [1098293](https://platzi.com/comentario/1098293/) 
 
-	
 	Vaya, pensé que me iba a resultar más sencillo hacer este ejercicio.
 	``` 
 	    var math = ((Math.floor(Math.random()*3))+1);
@@ -7486,12 +6734,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Luis Alejandro Medina Escobar** (1)
+* **Luis Alejandro Medina Escobar** (1) [1098202](https://platzi.com/comentario/1098202/) 
 
-	
 	Condition. Importante muy práctico.
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [1095894](https://platzi.com/comentario/1095894/) 
 
 	```
 	    functionrandom(){
@@ -7532,7 +6779,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **miguelgz18** (1)
+* **miguelgz18** (1) [1095676](https://platzi.com/comentario/1095676/) 
 
 	```
 	    var opciones = ['piedra', 'papel', 'tijera'];
@@ -7562,9 +6809,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **David Emanuel Espinoza Romero** (1)
+* **David Emanuel Espinoza Romero** (1) [1095664](https://platzi.com/comentario/1095664/) 
 
-	
 	<script>  
 	var max = 3;  
 	var min = 1;  
@@ -7598,7 +6844,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	</script>
 
-* **eduardovinagre** (1)
+* **eduardovinagre** (1) [1095058](https://platzi.com/comentario/1095058/) 
 
 	```
 	    const PIEDRA = 1;
@@ -7646,9 +6892,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **victor-castaneda-rivera** (1)
+* **victor-castaneda-rivera** (1) [1093660](https://platzi.com/comentario/1093660/) 
 
-	
 	// Juego Piedra papel o tijera
 	
 	var piedra = 0 ;  
@@ -7713,21 +6958,18 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	// 2 + 1 = 2 tijera vs papel = gana tijera  
 	// 2 + 2 = 2 === tijera vs tijera = empate
 
-	* **Robinson Matias Aguilar Bascuñan** (1)
+	* **Robinson Matias Aguilar Bascuñan** [1093660] (1)
 
-		
 		intenta hacerlo con un stwich
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1093326](https://platzi.com/comentario/1093326/) 
 
-	
 	condition ? true : fase;  
 	es igual a:  
 	condición “then” valor a regresar “else” valor a regresar
 
-* **Benjamin_Espinosa_N** (1)
+* **Benjamin_Espinosa_N** (1) [1088831](https://platzi.com/comentario/1088831/) 
 
-	
 	La version contra la máquina, hice lo que pude:
 	``` 
 	    var jugadorA = prompt("Jugador A, elige piedra, papel o tjera");
@@ -7773,9 +7015,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Benjamin_Espinosa_N** (1)
+* **Benjamin_Espinosa_N** (1) [1088768](https://platzi.com/comentario/1088768/) 
 
-	
 	Bueno, es la version PVP… Aún así funciona
 	``` 
 	    var jugadorA = prompt("Jugador A, elige piedra, papel o tjera");
@@ -7800,7 +7041,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Juan Teixeira** (1)
+* **Juan Teixeira** (1) [1088571](https://platzi.com/comentario/1088571/) 
 
 	```
 	    var herramientas = [ 'piedra', 'papel', 'tijera']
@@ -7872,15 +7113,13 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Angelo Zambrano** (1)
+* **Angelo Zambrano** (1) [1086404](https://platzi.com/comentario/1086404/) 
 
-	
 	Reto: Piedra, Papel o Tijera:  
 	![reto4.PNG](https://static.platzi.com/media/user_upload/reto4-9324be36-1d76-4acd-a53c-14c7be44f31d.jpg)
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1085982](https://platzi.com/comentario/1085982/) 
 
-	
 	var edad = 18;  
 	var a = parseInt(prompt("Ingresa tu edad: "));  
 	if (a===18) {  
@@ -7891,9 +7130,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	console.log(“Aun no puedes votar”);  
 	}
 
-* **Juan Pedraza** (1)
+* **Juan Pedraza** (1) [1084394](https://platzi.com/comentario/1084394/) 
 
-	
 	Es bastante básico, pero es funcional…
 	``` 
 	    functionjugar(player1, player2) {
@@ -7924,7 +7162,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Freddy-Cabrera** (1)
+* **Freddy-Cabrera** (1) [1084362](https://platzi.com/comentario/1084362/) 
 
 	```
 	    <var jugador= ["piedra", "papel", "tijera"];
@@ -7965,7 +7203,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Migrant** (1)
+* **Migrant** (1) [1083902](https://platzi.com/comentario/1083902/) 
 
 	```
 	    var opciones =["tijera", "papel", "piedra"]
@@ -7983,12 +7221,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **AxlRubio** (1)
-![Image 1.png](https://static.platzi.com/media/user_upload/Image%201-5c1f979d-c78d-4f0a-bb18-5c2cdb613719.jpg)
-
-* **mBaez** (1)
-
+* **AxlRubio** (1) [1081656](https://platzi.com/comentario/1081656/) 
 	
+	![Image 1.png](https://static.platzi.com/media/user_upload/Image%201-5c1f979d-c78d-4f0a-bb18-5c2cdb613719.jpg)
+
+* **mBaez** (1) [1081180](https://platzi.com/comentario/1081180/) 
+
 	Aquí está mi ejercicio, espero no esté tan confuso
 	``` 
 	    <!DOCTYPE html>
@@ -8002,7 +7240,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	        <metaname="viewport"content="width=device-width, initial-scale=1.0" />
 	        <title>Piedra, papel o tijera</title>
 	        <style>
-	          * {
+	        * {
 	            font-family: "Exo 2", sans-serif;
 	          }
 	          .body {
@@ -8085,9 +7323,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **samy fabian villanueva gutierrez** (1)
+* **samy fabian villanueva gutierrez** (1) [1081132](https://platzi.com/comentario/1081132/) 
 
-	
 	var valor1 = Math.floor(Math.random()*3+1); // maquina  
 	var valor2 = Math.floor(Math.random()*3+1); // yo
 	
@@ -8121,7 +7358,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	}  
 	}
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1079674](https://platzi.com/comentario/1079674/) 
 
 	```
 	    var opciones = ["piedra", "papel", "tijera"];
@@ -8153,9 +7390,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **ALBERTO JOSE MORALES BOSCAN** (1)
+* **ALBERTO JOSE MORALES BOSCAN** (1) [1078635](https://platzi.com/comentario/1078635/) 
 
-	
 	Mi primer intento fue:
 	``` 
 	    var player1 = "piedra";
@@ -8225,9 +7461,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Santiago_Mateus** (1)
+* **Santiago_Mateus** (1) [1078142](https://platzi.com/comentario/1078142/) 
 
-	
 	Dure mucho tiempo pero lo hice , también me ayude con algunos comentarios de mis compañeros.  
 	Pero aquí esta !!!
 	``` 
@@ -8273,9 +7508,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **gustavoadolfocastaedalondo** (1)
+* **gustavoadolfocastaedalondo** (1) [1077987](https://platzi.com/comentario/1077987/) 
 
-	
 	El reto de piedra papel o tijera lo hice así: en html puse un select, a cada opción se le asignó un número.  
 	Por otro lado puse un generador de números aleatorios que correspondía a la jugada de la máquina. Los números se compararon en condicionales
 	``` 
@@ -8388,9 +7622,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Alejandro Giraldo Londoño** (1)
+* **Alejandro Giraldo Londoño** (1) [1075776](https://platzi.com/comentario/1075776/) 
 
-	
 	Resuelto! 😃
 	``` 
 	     var op_elije = prompt ("Elije una opción")
@@ -8429,9 +7662,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Luis Diego Maroto Segura** (1)
+* **Luis Diego Maroto Segura** (1) [1074917](https://platzi.com/comentario/1074917/) 
 
-	
 	Reto realizado !!!
 	``` 
 	    var opciones = ['Piedra', 'Papel', 'Tijera'];
@@ -8456,7 +7688,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **JIMMY STEVE OSMA JEREZ** (1)
+* **JIMMY STEVE OSMA JEREZ** (1) [1073923](https://platzi.com/comentario/1073923/) 
 
 	```
 	    functionjuegoMaquina(){
@@ -8507,9 +7739,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **ccarpio** (1)
+* **ccarpio** (1) [1072952](https://platzi.com/comentario/1072952/) 
 
-	
 	Algo sencillo, pero util para practicar la sintaxis de condicionales en js
 	``` 
 	    functionjuego(jugada){
@@ -8534,18 +7765,20 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **AITeam** (1)
-![Screenshot_18.png](https://static.platzi.com/media/user_upload/Screenshot_18-6d9400df-2183-4483-b415-56a979004cfa.jpg)
-
-* **luisP** (1)
-![Captura de Pantalla 2020-03-28 a la\(s\) 08.37.36.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-28%20a%20la%28s%29%2008.37.36-970353dd-d689-43f8-b0ac-3b77b77d811c.jpg)
-
-* **cesaraguilareduardoromero** (1)
-![juego.PNG](https://static.platzi.com/media/user_upload/juego-87ef45fa-f87e-4589-befd-98aa8ca98080.jpg)
-
-* **Héctor Daniel Vega Quiñones (Platzi)** (1)
-
+* **AITeam** (1) [1072804](https://platzi.com/comentario/1072804/) 
 	
+	![Screenshot_18.png](https://static.platzi.com/media/user_upload/Screenshot_18-6d9400df-2183-4483-b415-56a979004cfa.jpg)
+
+* **luisP** (1) [1072562](https://platzi.com/comentario/1072562/) 
+	
+	![Captura de Pantalla 2020-03-28 a la\(s\) 08.37.36.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-28%20a%20la%28s%29%2008.37.36-970353dd-d689-43f8-b0ac-3b77b77d811c.jpg)
+
+* **cesaraguilareduardoromero** (1) [1072373](https://platzi.com/comentario/1072373/) 
+	
+	![juego.PNG](https://static.platzi.com/media/user_upload/juego-87ef45fa-f87e-4589-befd-98aa8ca98080.jpg)
+
+* **Héctor Daniel Vega Quiñones (Platzi)** (1) [1072251](https://platzi.com/comentario/1072251/) 
+
 	Este es mi ejercicio 😃
 	``` 
 	    var options = ["Rock", "Paper", "Scissors"]
@@ -8594,17 +7827,18 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ines Patricia Contreras Espiritu** (1)
-![reto.PNG](https://static.platzi.com/media/user_upload/reto-9223e16c-128b-4aec-a49e-abfca125c5b1.jpg)
+* **Ines Patricia Contreras Espiritu** (1) [1071882](https://platzi.com/comentario/1071882/) 
+	
+	![reto.PNG](https://static.platzi.com/media/user_upload/reto-9223e16c-128b-4aec-a49e-abfca125c5b1.jpg)
 
-* **Germán Moreno** (1)
-![code.png](https://static.platzi.com/media/user_upload/code-318e3287-4aa4-455a-91ee-bcb3033d7ec9.jpg)
+* **Germán Moreno** (1) [1071655](https://platzi.com/comentario/1071655/) 
+	
+	![code.png](https://static.platzi.com/media/user_upload/code-318e3287-4aa4-455a-91ee-bcb3033d7ec9.jpg)
 	
 	Completamente funcional y sólo con if, else y else if! No sé si pueda reducir aún más el código 😃 Si alguien puede darme algún tip para este caso estaría agradecido.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1071065](https://platzi.com/comentario/1071065/) 
 
-	
 	Ahora ya esta con la maquina automatica xD
 	``` 
 	    var piedra = 0
@@ -8641,23 +7875,22 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1070792](https://platzi.com/comentario/1070792/) 
 
-	
 	En JavaScript tenemos las siguientes declaraciones condicionales:
 	
-	  * Se usa **if** para especificar un bloque de código que se ejecutará, si una condición especificada es verdadera
+	* Se usa **if** para especificar un bloque de código que se ejecutará, si una condición especificada es verdadera
 	
-	  * Use **else** para especificar un bloque de código que se ejecutará, si la misma condición es falsa
+	* Use **else** para especificar un bloque de código que se ejecutará, si la misma condición es falsa
 	
-	  * Use **else if** para especificar una nueva condición para probar, si la primera condición es falsa
+	* Use **else if** para especificar una nueva condición para probar, si la primera condición es falsa
 	
-	  * Se usa **switch** para especificar muchos bloques de código alternativos que se ejecutarán
+	* Se usa **switch** para especificar muchos bloques de código alternativos que se ejecutarán
 	
 	
 	
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1070403](https://platzi.com/comentario/1070403/) 
 
 	```
 	    var piedra = 1
@@ -8686,9 +7919,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Nahuel Bonader** (1)
+* **Nahuel Bonader** (1) [1070276](https://platzi.com/comentario/1070276/) 
 
-	
 	Solo se debe llamar a lfunción con el string que se desee: piedra, papel o tijera.
 	``` 
 	    functionjuego(eleccion) {
@@ -8736,7 +7968,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **DosVentanillas** (1)
+* **DosVentanillas** (1) [1070157](https://platzi.com/comentario/1070157/) 
 
 	```
 	    var piedra = 1;
@@ -8757,7 +7989,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Jorge Alberto Alvarez Sone** (1)
+* **Jorge Alberto Alvarez Sone** (1) [1069702](https://platzi.com/comentario/1069702/) 
 
 	```
 	    var piedra = 0;
@@ -8784,9 +8016,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Luigui Mario** (1)
+* **Luigui Mario** (1) [1069283](https://platzi.com/comentario/1069283/) 
 
-	
 	Primero utilice un if simple para validar los datos
 	
 	Luego un **operador ternario** para ahorrar código, es mas complejo pero se entiende asi:
@@ -8802,9 +8033,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	![RetoFranz.PNG](https://static.platzi.com/media/user_upload/RetoFranz-bb8205de-0b16-4327-a93f-4ec9c4c61052.jpg)
 
-* **joaomesa** (1)
+* **joaomesa** (1) [1066927](https://platzi.com/comentario/1066927/) 
 
-	
 	Propuesta para el reto propuesto por el profesor DIego. ¿Sugerencias?:
 	``` 
 	    <!DOCTYPE html>
@@ -8862,9 +8092,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    </html>
 	```
 
-* **Alessandri** (1)
+* **Alessandri** (1) [1064252](https://platzi.com/comentario/1064252/) 
 
-	
 	Aquí esta el desafió
 	``` 
 	    let options = ['Paper','Rock','Scissors']
@@ -8902,9 +8131,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [1063561](https://platzi.com/comentario/1063561/) 
 
-	
 	Bueno, hice un **Mini Juego** utilizando **Recursidad** , aqui el codigo:
 	``` 
 	    let options = ['paper', 'rock', 'scissors'];
@@ -8943,9 +8171,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ignacio** (1)
+* **Ignacio** (1) [1062518](https://platzi.com/comentario/1062518/) 
 
-	
 	Queda dar algunos retoques. No he podido subir la imagen de cómo me quedó el frontend pero el código JS es este
 	``` 
 	    functionplay(index){
@@ -8988,7 +8215,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **edgar limones lozano** (1)
+* **edgar limones lozano** (1) [1062028](https://platzi.com/comentario/1062028/) 
 
 	```
 	    functionpartidaMaquinaMano(){
@@ -9024,7 +8251,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Alejandro Cruzado Rosas** (1)
+* **Alejandro Cruzado Rosas** (1) [1059848](https://platzi.com/comentario/1059848/) 
 
 	```
 	    var jugada;
@@ -9072,7 +8299,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **sergiiolperez** (1)
+* **sergiiolperez** (1) [1059488](https://platzi.com/comentario/1059488/) 
 
 	```
 	    var Player1;
@@ -9110,12 +8337,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1059321](https://platzi.com/comentario/1059321/) 
 
-	
 	Hice que el juego tuviera respuestas random, por si desean checkearlo en el siguiente link los invito a revisar la siguiente página con el fin de que su aprendizaje se incremente 😁: <https://dereksamuel.github.io/Piedra-Papel-o-Tijera/Juego/>
 
-* **bamartinezd** (1)
+* **bamartinezd** (1) [1059228](https://platzi.com/comentario/1059228/) 
 
 	```
 	    'use strict'
@@ -9155,7 +8381,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **bamartinezd** (1)
+* **bamartinezd** (1) [1059227](https://platzi.com/comentario/1059227/) 
 
 	```
 	    <!DOCTYPE html>
@@ -9181,7 +8407,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [1058177](https://platzi.com/comentario/1058177/) 
 
 	```
 	    var machinePlay = "rock"
@@ -9209,9 +8435,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **jorge4rteaga** (1)
+* **jorge4rteaga** (1) [1058015](https://platzi.com/comentario/1058015/) 
 
-	
 	//Juego de piedra papel o tijera  
 	var jugador = “Piedra”;  
 	var maquina = “Papel”
@@ -9247,9 +8472,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	console.log(“Introduciste mal tu eleccion”);  
 	}
 
-* **Carlos Roberto Villatoro Barrios** (1)
+* **Carlos Roberto Villatoro Barrios** (1) [1056731](https://platzi.com/comentario/1056731/) 
 
-	
 	Dejo mi ejercicio:
 	``` 
 	    <!DOCTYPE html>
@@ -9290,9 +8514,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Pablo Nicolas Fontaine Gilardi** (1)
+* **Pablo Nicolas Fontaine Gilardi** (1) [1055437](https://platzi.com/comentario/1055437/) 
 
-	
 	Adjunto ejercicio
 	``` 
 	    var numeroUsuario = Number( prompt("0. Piedra | 1. Papel | 2. Tijera") );
@@ -9329,9 +8552,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [1055409](https://platzi.com/comentario/1055409/) 
 
-	
 	Sin duda pude haber simplificado pero quise describir cada situación:
 	``` 
 	    functionrandomSelection()
@@ -9404,9 +8626,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Noel Mejia** (1)
+* **Noel Mejia** (1) [1053092](https://platzi.com/comentario/1053092/) 
 
-	
 	Reto:
 	``` 
 	    functionstart(juego, jugador, maquina) {
@@ -9445,7 +8666,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Alejandro Ernesto Vargas Vaca** (1)
+* **Alejandro Ernesto Vargas Vaca** (1) [1052953](https://platzi.com/comentario/1052953/) 
 
 	```
 	    var opciones = ["piedra","papel","tijera"];
@@ -9488,9 +8709,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Joaquín Ignacio Ossandón Gómez** (1)
+* **Joaquín Ignacio Ossandón Gómez** (1) [1052319](https://platzi.com/comentario/1052319/) 
 
-	
 	**Juega diez veces**
 	``` 
 	    let opt = ["piedra", "papel", "tijeras"], computer, human = "piedra"
@@ -9536,9 +8756,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	Pido recomendaciones, por favor 😄
 
-* **Raundy Ibarras** (1)
+* **Raundy Ibarras** (1) [1052081](https://platzi.com/comentario/1052081/) 
 
-	
 	Excelente clase, y reto completado!
 	``` 
 	    var opciones = ["Piedra", "Papel", "Tijera"];
@@ -9575,16 +8794,15 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-## 0130. Switch
+## 0130. Switch [26302](https://platzi.com/clases/1814-basico-javascript/26302-switch/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Lorena Pinzón** (3)
+* **Lorena Pinzón** (3) [1090494](https://platzi.com/comentario/1090494/) 
 
-	
 	Este es mi resultado 😄
 	``` 
 	    var maquina = ["piedra","papel","tijera"];
@@ -9609,9 +8827,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **max23esau** (2)
+* **max23esau** (2) [1115254](https://platzi.com/comentario/1115254/) 
 
-	
 	[Reto terminado](https://max23esau.github.io/Game/)  
 	[Repositorio](https://github.com/Max23Esau/Game)
 	
@@ -9694,9 +8911,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **jandresfr** (2)
+* **jandresfr** (2) [1100822](https://platzi.com/comentario/1100822/) 
 
-	
 	function ppt(){
 	``` 
 	    var maquina = "piedra";
@@ -9746,9 +8962,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	console.log(ppt());
 
-* **Benjamin_Espinosa_N** (2)
+* **Benjamin_Espinosa_N** (2) [1088970](https://platzi.com/comentario/1088970/) 
 
-	
 	Aqui está mi codigo sin usar if
 	``` 
 	    var jugadorA = prompt("Jugador A, elige piedra, papel o tjera");
@@ -9812,14 +9027,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Laurapregonero** (2)
+* **Laurapregonero** (2) [1082623](https://platzi.com/comentario/1082623/) 
 
-	
 	Switch es una expresión que ejecuta declaraciones asociadas a el (case)
 
-* **mBaez** (2)
+* **mBaez** (2) [1082436](https://platzi.com/comentario/1082436/) 
 
-	
 	Ejercicio completado 😄
 	``` 
 	    const form = document.getElementById("formulario");
@@ -9862,12 +9075,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-	* **Yiy0** (1)
+	* **Yiy0** [1082436] (1)
 
-		
 		Amigo tu solucion es muy eficiente, si pudieras decir donde encontrar recursos o si tienes experiencia en esto, no se cuéntanos 😃
 
-* **AITeam** (2)
+* **AITeam** (2) [1072977](https://platzi.com/comentario/1072977/) 
 
 	```
 	    var jugador1;
@@ -9905,10 +9117,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Germán Moreno** (2)
-![code1.png](https://static.platzi.com/media/user_upload/code1-8b07fae9-221c-4e29-9732-c2825f255a1e.jpg)
+* **Germán Moreno** (2) [1071893](https://platzi.com/comentario/1071893/) 
+	
+	![code1.png](https://static.platzi.com/media/user_upload/code1-8b07fae9-221c-4e29-9732-c2825f255a1e.jpg)
 
-* **Krystian Barragán** (2)
+* **Krystian Barragán** (2) [1052062](https://platzi.com/comentario/1052062/) 
 
 	```
 	    var movimientos = ["piedra", "papel", "tijeras"];
@@ -9974,9 +9187,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **hdgeeks** (2)
+* **hdgeeks** (2) [1048022](https://platzi.com/comentario/1048022/) 
 
-	
 	Esta sería mi versión con switch 😁
 	``` 
 	    const choices = ["Rock 👊", "Paper 🖐", "Scissors ✌"];
@@ -9999,7 +9211,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Daniel Felipe Merchan Fuquen** (2)
+* **Daniel Felipe Merchan Fuquen** (2) [1025328](https://platzi.com/comentario/1025328/) 
 
 	```
 	    const boton = document.getElementById('boton')
@@ -10048,7 +9260,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Jonathan Vacas** (1)
+* **Jonathan Vacas** (1) [1116172](https://platzi.com/comentario/1116172/) 
 
 	```
 	    var jugador1 = "piedra"; //definimos lo que va a usar el jugador
@@ -10089,9 +9301,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Leonardo Bravo Kunkel** (1)
+* **Leonardo Bravo Kunkel** (1) [1115513](https://platzi.com/comentario/1115513/) 
 
-	
 	var saca = (piedra = 0, papel = 1, tijera = 2);  
 	var saca = (Math.floor(Math.random () * 3));  
 	console.log(saca);
@@ -10142,7 +9353,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	default:  
 	}
 
-* **FredySarmiento** (1)
+* **FredySarmiento** (1) [1115081](https://platzi.com/comentario/1115081/) 
 
 	```
 	    var opcJ1=prompt("Seleccione el valor piedra, papel, Tijrea");
@@ -10177,7 +9388,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **jameskristof** (1)
+* **jameskristof** (1) [1113402](https://platzi.com/comentario/1113402/) 
 
 	```
 	    function piedraPapeloTijeraSwitch()
@@ -10211,9 +9422,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1112537](https://platzi.com/comentario/1112537/) 
 
-	
 	Yo hice un intento de hacerlo interactivo para dos jugadores.  
 	Aquí está mi código c:
 	``` 
@@ -10252,7 +9462,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Daniel Acevedo Rodriguez** (1)
+* **Daniel Acevedo Rodriguez** (1) [1111895](https://platzi.com/comentario/1111895/) 
 
 	```
 	      var usuario1 = prompt ("jugador 1 escribe piedra, papel o tijera");
@@ -10283,13 +9493,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **ELITA CAMPOJO GUEVARA** (1)
+* **ELITA CAMPOJO GUEVARA** (1) [1110273](https://platzi.com/comentario/1110273/) 
 
-	
 	Mi reto  
 	![reto2.png](https://static.platzi.com/media/user_upload/reto2-be142ab4-f1e7-4105-91ec-f9eda8490a2b.jpg)
 
-* **Carlos Luis García** (1)
+* **Carlos Luis García** (1) [1109706](https://platzi.com/comentario/1109706/) 
 
 	```
 	    <code>
@@ -10337,7 +9546,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Vicente Andrés Muñoz Moller** (1)
+* **Vicente Andrés Muñoz Moller** (1) [1109070](https://platzi.com/comentario/1109070/) 
 
 	```
 	    var localPlayer = prompt("1 for Rock, 2 for Paper, 3 for Scissors");
@@ -10363,7 +9572,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Milton Enríquez Torres** (1)
+* **Milton Enríquez Torres** (1) [1106974](https://platzi.com/comentario/1106974/) 
 
 	```
 	    <!DOCTYPE html>
@@ -10426,9 +9635,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **BrandonDAst** (1)
+* **BrandonDAst** (1) [1103182](https://platzi.com/comentario/1103182/) 
 
-	
 	Si dejan dos case juntos, sin un brake que los separe, se entiende que cualquiera de los dos casos ejecutaría las mismas instrucciones que tengan el segundo case.
 	``` 
 	    var n = 2;
@@ -10441,9 +9649,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **RemyLebeau** (1)
+* **RemyLebeau** (1) [1101742](https://platzi.com/comentario/1101742/) 
 
-	
 	Aquí mi reto, algo simple y sencillo mientras con el tiempo y el avanzar de los cursos aprendo a dominar JavaScript.
 	``` 
 	    function Juego(persona, maquina){
@@ -10481,10 +9688,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Damian Stone** (1)
-![screenshot swtich js.png](https://static.platzi.com/media/user_upload/screenshot%20swtich%20js-6bd94262-6702-42e4-b68a-74bdc54f9575.jpg)
+* **Damian Stone** (1) [1100960](https://platzi.com/comentario/1100960/) 
+	
+	![screenshot swtich js.png](https://static.platzi.com/media/user_upload/screenshot%20swtich%20js-6bd94262-6702-42e4-b68a-74bdc54f9575.jpg)
 
-* **eduardovinagre** (1)
+* **eduardovinagre** (1) [1096983](https://platzi.com/comentario/1096983/) 
 
 	```
 	    const PIEDRA = 1;
@@ -10542,7 +9750,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Mackial Houng** (1)
+* **Mackial Houng** (1) [1096632](https://platzi.com/comentario/1096632/) 
 
 	```
 	    const option = {
@@ -10602,7 +9810,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [1096028](https://platzi.com/comentario/1096028/) 
 
 	```
 	    const random = () => {
@@ -10661,9 +9869,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Jorge Alberto Martínez Cerón** (1)
+* **Jorge Alberto Martínez Cerón** (1) [1094305](https://platzi.com/comentario/1094305/) 
 
-	
 	Listo!
 	``` 
 	    var herramienta = ["piedra","papel","tijeras"];
@@ -10742,12 +9949,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1093356](https://platzi.com/comentario/1093356/) 
 
-	
 	el switch es como el case en RoR, great.
 
-* **Juan Teixeira** (1)
+* **Juan Teixeira** (1) [1088600](https://platzi.com/comentario/1088600/) 
 
 	```
 	    var herramientas = [ 'piedra', 'papel', 'tijera']
@@ -10811,7 +10017,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Migrant** (1)
+* **Migrant** (1) [1087821](https://platzi.com/comentario/1087821/) 
 
 	```
 	    var opcUser = Math.floor(Math.random()*3)
@@ -10860,7 +10066,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ender José Urdaneta Ocando** (1)
+* **Ender José Urdaneta Ocando** (1) [1087138](https://platzi.com/comentario/1087138/) 
 
 	```
 	    var p1= "piedra";
@@ -10900,12 +10106,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1086041](https://platzi.com/comentario/1086041/) 
 
-	
 	😃
 
-* **Freddy-Cabrera** (1)
+* **Freddy-Cabrera** (1) [1085269](https://platzi.com/comentario/1085269/) 
 
 	```
 	    var jugador= ["piedra", "papel", "tijera"];
@@ -10968,9 +10173,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Jaime Agustí** (1)
+* **Jaime Agustí** (1) [1084956](https://platzi.com/comentario/1084956/) 
 
-	
 	var opcionesDeJuego = [“Piedra”, “Papel”, “Tijera”];  
 	var eleccionPlayer;
 	
@@ -10993,7 +10197,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	play ()
 
-* **vrgrajeda** (1)
+* **vrgrajeda** (1) [1084899](https://platzi.com/comentario/1084899/) 
 
 	```
 	    var jugador1;
@@ -11053,9 +10257,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Juan Pedraza** (1)
+* **Juan Pedraza** (1) [1084512](https://platzi.com/comentario/1084512/) 
 
-	
 	Espero mejorarlo en la medida que aprenda más cosas del curso
 	``` 
 	    function jugar(player1, player2) {
@@ -11102,7 +10305,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **gustavoadolfocastaedalondo** (1)
+* **gustavoadolfocastaedalondo** (1) [1084458](https://platzi.com/comentario/1084458/) 
 
 	```
 	    <<!DOCTYPEhtml>
@@ -11223,9 +10426,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Yiy0** (1)
+* **Yiy0** (1) [1084031](https://platzi.com/comentario/1084031/) 
 
-	
 	YEP
 	``` 
 	    alert("You must give 0 (scissor) or 1 (rock) or 2 (paper) to the parameter of the game function")
@@ -11255,9 +10457,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1082641](https://platzi.com/comentario/1082641/) 
 
-	
 	Este es mi codigo, me demore un poco pero lo logre  
 	var jugador1 =(" Piedra, Papel o Tijera");  
 	var Piedra = “Piedra”;  
@@ -11313,7 +10514,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	
 	}
 
-* **Stiven Alejandro Manosalvas** (1)
+* **Stiven Alejandro Manosalvas** (1) [1080895](https://platzi.com/comentario/1080895/) 
 
 	```
 	    var piedra = "Piedra", papel = "Papel", tijeras = "Tijeras"; 
@@ -11374,7 +10575,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1080758](https://platzi.com/comentario/1080758/) 
 
 	```
 	    var opciones = ["piedra", "papel", "tijera"];
@@ -11413,9 +10614,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **ALBERTO JOSE MORALES BOSCAN** (1)
+* **ALBERTO JOSE MORALES BOSCAN** (1) [1080060](https://platzi.com/comentario/1080060/) 
 
-	
 	Mejorando el juego pasado
 	``` 
 	    // ****************Archivo HTML*****************
@@ -11485,9 +10685,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **picojohn** (1)
+* **picojohn** (1) [1079922](https://platzi.com/comentario/1079922/) 
 
-	
 	mi respuesta al reto, probada y comprobada 😃
 	``` 
 	    var jugador_1 = prompt("Dime piedra papel o tijera"); 
@@ -11545,9 +10744,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Luis Diego Maroto Segura** (1)
+* **Luis Diego Maroto Segura** (1) [1077848](https://platzi.com/comentario/1077848/) 
 
-	
 	Mi reto resulto.
 	``` 
 	    var opciones = ['Piedra', 'Papel', 'Tijera'];
@@ -11606,7 +10804,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Danilo Josué Huacón Aguirre** (1)
+* **Danilo Josué Huacón Aguirre** (1) [1076788](https://platzi.com/comentario/1076788/) 
 
 	```
 	    //Valor random de la maquina
@@ -11646,9 +10844,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Alejandro Giraldo Londoño** (1)
+* **Alejandro Giraldo Londoño** (1) [1075787](https://platzi.com/comentario/1075787/) 
 
-	
 	Solved 😃
 	``` 
 	    var op_usuario = prompt ("Elije una opción")
@@ -11690,7 +10887,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **JIMMY STEVE OSMA JEREZ** (1)
+* **JIMMY STEVE OSMA JEREZ** (1) [1074103](https://platzi.com/comentario/1074103/) 
 
 	```
 	    function juegoMaquina(){
@@ -11762,12 +10959,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Ines Patricia Contreras Espiritu** (1)
+* **Ines Patricia Contreras Espiritu** (1) [1073876](https://platzi.com/comentario/1073876/) 
 
-	
 	[](![reto2.PNG](https://static.platzi.com/media/user_upload/reto2-cfc77cff-389a-45b5-b31d-ae7ea9a74fd4.jpg)
 
-* **luisP** (1)
+* **luisP** (1) [1073546](https://platzi.com/comentario/1073546/) 
 
 	```
 	    var piedra = "piedra";
@@ -11832,9 +11028,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **ccarpio** (1)
+* **ccarpio** (1) [1072976](https://platzi.com/comentario/1072976/) 
 
-	
 	nuevamente, una representacion sencilla del juego de piedra papel o tijera haciendo uso de Switch
 	``` 
 	    functionjuego(jugada){
@@ -11887,9 +11082,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Héctor Daniel Vega Quiñones (Platzi)** (1)
+* **Héctor Daniel Vega Quiñones (Platzi)** (1) [1072353](https://platzi.com/comentario/1072353/) 
 
-	
 	Mi ejercicio usando switch:
 	``` 
 	    var options = ["Rock", "Paper", "Scissors"]
@@ -11970,9 +11164,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1071058](https://platzi.com/comentario/1071058/) 
 
-	
 	Esta bien largo pero creo que se entiende xD, estoy buscando como hacerlo mas corto jaja
 	``` 
 	    var papel = 0
@@ -12040,15 +11233,15 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1070959](https://platzi.com/comentario/1070959/) 
 
-	
 	La declaración **switch** se utiliza para realizar diferentes acciones en función de diferentes condiciones.
 
-* **DosVentanillas** (1)
-![switch.png](https://static.platzi.com/media/user_upload/switch-a764822e-9ca3-4b51-af1e-a00ab7b9e08d.jpg)
+* **DosVentanillas** (1) [1070306](https://platzi.com/comentario/1070306/) 
+	
+	![switch.png](https://static.platzi.com/media/user_upload/switch-a764822e-9ca3-4b51-af1e-a00ab7b9e08d.jpg)
 
-* **Jorge Alberto Alvarez Sone** (1)
+* **Jorge Alberto Alvarez Sone** (1) [1069733](https://platzi.com/comentario/1069733/) 
 
 	```
 	    var Jugador = Number(prompt('Elije una opción: Piedra = 0, Papel = 1 y Tijera = 2'));
@@ -12103,10 +11296,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Luigui Mario** (1)
-![RetoFranz.PNG](https://static.platzi.com/media/user_upload/RetoFranz-ed3dde48-728b-4184-ba57-89728220d64e.jpg)
+* **Luigui Mario** (1) [1069297](https://platzi.com/comentario/1069297/) 
+	
+	![RetoFranz.PNG](https://static.platzi.com/media/user_upload/RetoFranz-ed3dde48-728b-4184-ba57-89728220d64e.jpg)
 
-* **Rafael Muñoz Pérez** (1)
+* **Rafael Muñoz Pérez** (1) [1067652](https://platzi.com/comentario/1067652/) 
 
 	```
 	    var userOption = parseInt(prompt("0 -> Piedra\n1 -> Papel\n2 -> Tijeras"));
@@ -12135,9 +11329,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **joaomesa** (1)
+* **joaomesa** (1) [1067317](https://platzi.com/comentario/1067317/) 
 
-	
 	Reto propuesto por el Profesor. Espero sugerencias:
 	``` 
 	    <!DOCTYPE html>
@@ -12204,14 +11397,13 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Julian Ignacio Carelli** (1)
+* **Julian Ignacio Carelli** (1) [1066781](https://platzi.com/comentario/1066781/) 
 
-	
 	![Captura de pantalla \(50\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2850%29-324e8681-0486-4b46-85b1-0f7a681ead96.jpg)  
 	![Captura de pantalla \(51\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2851%29-63d3d33c-6319-4c19-8442-e806edd20dc6.jpg)  
 	Reto completadoooo 😃
 
-* **Carlos Roberto Villatoro Barrios** (1)
+* **Carlos Roberto Villatoro Barrios** (1) [1065562](https://platzi.com/comentario/1065562/) 
 
 	```
 	    <script>
@@ -12256,9 +11448,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Edgar Ramirez** (1)
+* **Edgar Ramirez** (1) [1064116](https://platzi.com/comentario/1064116/) 
 
-	
 	Si alguien me puede ayudar, funciona pero los resultados no coinciden, cuando debería empatar pierdo , y así en varios casos!
 	``` 
 	    let user = ["piedra","papel","tijera"]
@@ -12324,9 +11515,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [1063658](https://platzi.com/comentario/1063658/) 
 
-	
 	Aqui esta mi **Mini Juego de consola** con **Switch:**
 	``` 
 	    let options = ['paper', 'rock', 'scissors'];
@@ -12376,7 +11566,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **edgar limones lozano** (1)
+* **edgar limones lozano** (1) [1062078](https://platzi.com/comentario/1062078/) 
 
 	```
 	    functionpartidaMaquinaMano(){
@@ -12425,7 +11615,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **sergiiolperez** (1)
+* **sergiiolperez** (1) [1059630](https://platzi.com/comentario/1059630/) 
 
 	```
 	    var Player1;
@@ -12472,9 +11662,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1059467](https://platzi.com/comentario/1059467/) 
 
-	
 	SOLUCIÓN DEL RETO:
 	``` 
 	    <code>
@@ -12529,12 +11718,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **bamartinezd** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-113c4312-2419-4330-8c6c-f5c0a44add5f.jpg)
-
-* **DevNaftan** (1)
-
+* **bamartinezd** (1) [1059252](https://platzi.com/comentario/1059252/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-113c4312-2419-4330-8c6c-f5c0a44add5f.jpg)
+
+* **DevNaftan** (1) [1058852](https://platzi.com/comentario/1058852/) 
+
 	**Reto cumplido**
 	``` 
 	    /* El juego tiene 3 rondas y acaba cuando uno de los participantes gana 3 veces 
@@ -12642,7 +11831,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [1058237](https://platzi.com/comentario/1058237/) 
 
 	```
 	    var machinePlay = "rock"
@@ -12699,7 +11888,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Pablo Nicolas Fontaine Gilardi** (1)
+* **Pablo Nicolas Fontaine Gilardi** (1) [1055538](https://platzi.com/comentario/1055538/) 
 
 	```
 	    var numeroUsuario = Number( prompt("0. Piedra | 1. Papel | 2. Tijera") );
@@ -12757,9 +11946,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [1055518](https://platzi.com/comentario/1055518/) 
 
-	
 	Switches anidados 😬
 	``` 
 	    functionrandomSelection()
@@ -12851,12 +12039,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **merzeK** (1)
-![juego_switch.png](https://static.platzi.com/media/user_upload/juego_switch-4122775d-76b6-468c-94a9-7f3132d9fdea.jpg)
-
-* **stwanga** (1)
-
+* **merzeK** (1) [1055120](https://platzi.com/comentario/1055120/) 
 	
+	![juego_switch.png](https://static.platzi.com/media/user_upload/juego_switch-4122775d-76b6-468c-94a9-7f3132d9fdea.jpg)
+
+* **stwanga** (1) [1054574](https://platzi.com/comentario/1054574/) 
+
 	Mi código:  
 	Incluí switch anidados.
 	``` 
@@ -12966,9 +12154,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Raundy Ibarras** (1)
+* **Raundy Ibarras** (1) [1054342](https://platzi.com/comentario/1054342/) 
 
-	
 	Buenas aquí la repuesta al reto, la verdad es que así con el case es mucho mas legible el código.
 	``` 
 	    var options = ["Piedra", "Papel", "Tijera"];
@@ -13014,7 +12201,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **stevenvalladares** (1)
+* **stevenvalladares** (1) [1053516](https://platzi.com/comentario/1053516/) 
 
 	```
 	    <h1>Piedra, Papel o Tijera</h1>
@@ -13135,7 +12322,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Noel Mejia** (1)
+* **Noel Mejia** (1) [1053259](https://platzi.com/comentario/1053259/) 
 
 	```
 	    var juego = ["piedra", "papel", "tijeras"];
@@ -13172,7 +12359,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Alejandro Ernesto Vargas Vaca** (1)
+* **Alejandro Ernesto Vargas Vaca** (1) [1053157](https://platzi.com/comentario/1053157/) 
 
 	```
 	    var opciones = ["piedra","papel","tijera"];
@@ -13229,7 +12416,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **mauroquinteros** (1)
+* **mauroquinteros** (1) [1050942](https://platzi.com/comentario/1050942/) 
 
 	```
 	    // Array
@@ -13288,17 +12475,16 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1049987](https://platzi.com/comentario/1049987/) 
 
-	
 	Interesante
 
-* **danielbandera** (1)
-![PPTSWITCH.PNG](https://static.platzi.com/media/user_upload/PPTSWITCH-63daf28e-f4ee-4aeb-9672-41dc043dad88.jpg)
-
-* **Israel Castro Urieta** (1)
-
+* **danielbandera** (1) [1049927](https://platzi.com/comentario/1049927/) 
 	
+	![PPTSWITCH.PNG](https://static.platzi.com/media/user_upload/PPTSWITCH-63daf28e-f4ee-4aeb-9672-41dc043dad88.jpg)
+
+* **Israel Castro Urieta** (1) [1048398](https://platzi.com/comentario/1048398/) 
+
 	Después de muchos intentos por fin quedó 😱 (tomé ejemplos de varios de mis compañeros y de la [documentación de Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/switch)), aquí mi código:
 	``` 
 	    var Jugador = Number(prompt('Elije una opción: Piedra = 0, Papel = 1 y Tijera = 2'));
@@ -13360,9 +12546,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **horacio-garcia** (1)
+* **horacio-garcia** (1) [1047176](https://platzi.com/comentario/1047176/) 
 
-	
 	me costo entender un par de cosas pero pude!!
 	``` 
 	    var piedra = 0;
@@ -13395,7 +12580,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Osvaldo Arzate Santiago** (1)
+* **Osvaldo Arzate Santiago** (1) [1045445](https://platzi.com/comentario/1045445/) 
 
 	```
 	    var jugador1 = prompt("Elije entre: piedra | papel | tijeras")
@@ -13425,7 +12610,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Renato Maximiliano Rivera Abad** (1)
+* **Renato Maximiliano Rivera Abad** (1) [1045192](https://platzi.com/comentario/1045192/) 
 
 	```
 	    var piedra = 0;
@@ -13453,9 +12638,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Mauricio Jofre Heimerl** (1)
+* **Mauricio Jofre Heimerl** (1) [1041987](https://platzi.com/comentario/1041987/) 
 
-	
 	Mi respuesta al desafio. Ahora con SWITCH.
 	``` 
 	    /*=============================================
@@ -13521,9 +12705,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Bárbara de los Ángeles Morantes Carvajal** (1)
+* **Bárbara de los Ángeles Morantes Carvajal** (1) [1040971](https://platzi.com/comentario/1040971/) 
 
-	
 	Anexo mi aporte, no se me ocurrió como a otros hacer un switch dentro de un switch, así que hice un if dentro de los casos para comparar la opción de la maquina.
 	``` 
 	    <code>
@@ -13601,7 +12784,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **mexicansauce** (1)
+* **mexicansauce** (1) [1039578](https://platzi.com/comentario/1039578/) 
 
 	```
 	    var piedra = 0;
@@ -13646,14 +12829,13 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Sebastián Mera** (1)
+* **Sebastián Mera** (1) [1038022](https://platzi.com/comentario/1038022/) 
 
-	
 	Aquí mi código, usé el mismo código que ya había escrito para el reto y modifiqué el if y else if por switch:
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6cc04f0c-3427-4e1d-956f-23589872470a.jpg)
 
-* **Daniel Melchor** (1)
+* **Daniel Melchor** (1) [1036892](https://platzi.com/comentario/1036892/) 
 
 	```
 	    var opcion = parseInt(prompt("ingresa un valor 0 -> piedra, 1 -> papel, 2 -> tijera"));
@@ -13705,12 +12887,12 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Raúl Marfull** (1)
-![PPTSwitch.jpg](https://static.platzi.com/media/user_upload/PPTSwitch-bfc6a480-5f40-4cbe-ad23-9985dee89a29.jpg)
-
-* **estefaniajmedina** (1)
-
+* **Raúl Marfull** (1) [1036216](https://platzi.com/comentario/1036216/) 
 	
+	![PPTSwitch.jpg](https://static.platzi.com/media/user_upload/PPTSwitch-bfc6a480-5f40-4cbe-ad23-9985dee89a29.jpg)
+
+* **estefaniajmedina** (1) [1034743](https://platzi.com/comentario/1034743/) 
+
 	Hola les comparto el reto
 	
 	var jugador, maquina;  
@@ -13776,9 +12958,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	break;  
 	}
 
-* **Cristian Rivera Herrera** (1)
+* **Cristian Rivera Herrera** (1) [1034417](https://platzi.com/comentario/1034417/) 
 
-	
 	Abordé el reto desde esta perspectiva:  
 	(Al final pueden enviar las veces que se desee “Resultado();” que les estará indicando la respuesta de lo que sucedió.
 	
@@ -13867,9 +13048,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Diego Fernando Rojas Quintero** (1)
+* **Diego Fernando Rojas Quintero** (1) [1034284](https://platzi.com/comentario/1034284/) 
 
-	
 	Reto solucionado. Yo lo hice de dos formas, espero que les sirva para comprenderlo:
 	
 	  1. De forma anidada
@@ -14055,9 +13235,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **eocas98** (1)
+* **eocas98** (1) [1033803](https://platzi.com/comentario/1033803/) 
 
-	
 	Solución al reto
 	``` 
 	    let eleccion = prompt("Escoge piedra(Pi), papel(Pa) y Tijera(T)").toUpperCase();
@@ -14124,7 +13303,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **mr_alex** (1)
+* **mr_alex** (1) [1033690](https://platzi.com/comentario/1033690/) 
 
 	```
 	    var opcion = ["piedra", "papel", "tijera"]
@@ -14228,9 +13407,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Abraham Guadarrama Rangel** (1)
+* **Abraham Guadarrama Rangel** (1) [1031996](https://platzi.com/comentario/1031996/) 
 
-	
 	Tengo un problema, cuando hago una versión corta mi función responde muy bien:
 	``` 
 	    var persona = ["piedra", "papel", "tijera"];
@@ -14302,9 +13480,8 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1027251](https://platzi.com/comentario/1027251/) 
 
-	
 	Mi aporte utilizando switch:
 	``` 
 	    var user = prompt("Elige una opción: 'Piedra', 'Papel', 'Tijera'");
@@ -14344,7 +13521,7 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **Estiventh Leonardo Neira Aldana** (1)
+* **Estiventh Leonardo Neira Aldana** (1) [1027141](https://platzi.com/comentario/1027141/) 
 
 	```
 	    var EleccionJugador = "tijeras";
@@ -14422,12 +13599,11 @@ saludos compañeros donde puedo encontrar ejercicios con If y else, para practic
 	    
 	```
 
-* **gustavoadolfocastaedalondo** (1)
+* **gustavoadolfocastaedalondo** (1) [85345](https://platzi.com/comentario/1071928/) 
 Buenas les pregunto, cómo paso los datos de un select a variable, en el html tengo un menu donde uno escoge si piedra, papel o tijera, có...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [85345] (1)
 
-		
 		Usa el atributo **id** en la etiqueta select (un nombre que identifique ese elemento) para seleccionarlo con la función `getElementById()`:
 		``` 
 		    <select id ="menu"  name = "menu">
@@ -14442,7 +13618,7 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 		    
 		```
 
-* **jimmy-alexander-castiblanco-bu** (0)
+* **jimmy-alexander-castiblanco-bu** (0) [1056761](https://platzi.com/comentario/1056761/) 
 
 	```
 	    <code>
@@ -14497,9 +13673,8 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	    
 	```
 
-* **isabellaahc** (0)
+* **isabellaahc** (0) [1041954](https://platzi.com/comentario/1041954/) 
 
-	
 	Mi código, cambié solo la lógica de if por switch
 	``` 
 	    const valores = ['piedra', 'papel', 'tijera'] 
@@ -14544,18 +13719,17 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	    
 	```
 
-# Arrays
+# Arrays [5331]
 
-## 0140. Arrays
+## 0140. Arrays [26303](https://platzi.com/clases/1814-basico-javascript/26303-arrays/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **medicenmon** (11)
+* **medicenmon** (11) [997785](https://platzi.com/comentario/997785/) 
 
-	
 	Un **Array** es un tipo de estructura de datos, objeto. Puede guardar datos distintos dentro, guarda los datos en forma de lista.  
 	**.lenght** devuelve la longitud del array.  
 	**.push()** agrega elementos al final de array.  
@@ -14564,9 +13738,8 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	**.shift() **elimina el elemento que está en el inicio del array.  
 	**.indexOf ** devuelve la posición de un elemento del array.
 
-* **eriksen** (9)
+* **eriksen** (9) [1000213](https://platzi.com/comentario/1000213/) 
 
-	
 	Para complementar un poco, ya que me parece que en los otros cursos de JavaScript tampoco lo mencionan, a los **arrays** también se les pueden asignar o añadir datos con **string keys** , es decir, pasándole un string entre corchetes en vez del índice.
 	
 	Algo curioso con los string keys es que no influye en la longitud de los arrays, por ejemplo:  
@@ -14576,37 +13749,31 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	Pero la verdad es que dependiendo de lo que estés desarrollando podrías necesitar usar un array de esta forma y si quieres saber la longitud de un array tomando en cuenta las string keys, es posible hacerlo de la siguiente forma:  
 	![](https://i.postimg.cc/fytN89Xh/Screenshot-1.jpg)
 
-	* **ArielScc** (1)
+	* **ArielScc** [1000213] (1)
 
-		
 		Muy interesante…
 
-	* **hidalgolopezdaniel** (1)
+	* **hidalgolopezdaniel** [1000213] (1)
 
-		
 		Genial tu aporte!
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1000213] (1)
 
-		
 		Esto es muy usado en Python
 
-* **Manuel Rivera** (5)
+* **Manuel Rivera** (5) [1004865](https://platzi.com/comentario/1004865/) 
 
-	
 	Por ende los métodos shift y pop no es obligatorio pasarles parametros
 
-	* **AlexanderAReyes** (3)
+	* **AlexanderAReyes** [1004865] (3)
 
-		
 		Es necesario pasarle indices y creo que eso es un parametro
 
-* **Keysi Simbron Guerra** (5)
+* **Keysi Simbron Guerra** (5) [999153](https://platzi.com/comentario/999153/) 
 
-	
 	el .pop() elimina el último elemento del array y el .shift() elimina el primero , no es necesario pasarles un parametro
 
-* **jonymonroy** (4)
+* **jonymonroy** (4) [1045836](https://platzi.com/comentario/1045836/) 
 
 	```
 	    // ARRAYS MÉTODOS //
@@ -14629,40 +13796,34 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	    
 	```
 
-* **Estiventh Leonardo Neira Aldana** (4)
+* **Estiventh Leonardo Neira Aldana** (4) [1027418](https://platzi.com/comentario/1027418/) 
 
-	
 	No entiendo para qué se lo coloca entre comillas el nombre de “Manzana” o de “Cerezas” si igualmente se borrará el que esté de primero en el caso de .shift osea, qué sentido tiene ponerle eso?
 
-	* **Valente IA** (1)
+	* **Valente IA** [1027418] (1)
 
-		
 		También tuve esa duda, no tiene caso indicar el elemento ya que siempre borrara el primer o ultimo elemento
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [1027418] (2)
 
-		
 		Lo que quiere indicar el profesor al poner en el shift o pop el parámetro es precisamente comprobar que no importa lo que se ponga siempre va a borrar el primer o último elemento
 
-	* **Rodrigo Josué Hernández Barrios** (1)
+	* **Rodrigo Josué Hernández Barrios** [1027418] (1)
 
-		
 		Solo lo hizo para que fuera más explicito el ejemplo, pero solo con mandar llamar la función, suficiente, ya lo interpreta que se elimine un elemento (pop) o lo agregue (push).
 
-* **Kevin Vega** (4)
+* **Kevin Vega** (4) [1012384](https://platzi.com/comentario/1012384/) 
 
-	
 	El objeto Array de JavaScript es un objeto global que es usado en la construcción de arrays, que son objetos tipo lista de alto nivel.
 	
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array>
 
-* **Alfonso Luis Arrieta Hernández** (4)
+* **Alfonso Luis Arrieta Hernández** (4) [1008807](https://platzi.com/comentario/1008807/) 
 
-	
 	Esta es una buena documentación sobre javascript.  
 	<https://devdocs.io/javascript/>
 
-* **EddJoy** (4)
+* **EddJoy** (4) [1000533](https://platzi.com/comentario/1000533/) 
 
 	```
 	    //Forma sintaxica de generar un array
@@ -14686,78 +13847,70 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	    
 	```
 
-* **Jharell Alejandra Hidalgo Loya** (3)
+* **Jharell Alejandra Hidalgo Loya** (3) [1093397](https://platzi.com/comentario/1093397/) 
 
-	
 	pop elimina el ultimo elemento del array  
 	push agrega elementos a un array  
 	unshift agrega elementos a un array pero en primera posición  
 	shift elimina el primer elemento de un array  
 	indexof obtienes el index del elemento
 
-* **juanlondono** (3)
+* **juanlondono** (3) [1082898](https://platzi.com/comentario/1082898/) 
 
-	
 	un arreglo o un array, es una estructura de datos que se almacena Bajo el mismo nombre a una colección de datos. es decir, cuando nosotros declaramos un arreglo, estamos abriendo un espacio en memoria al igual que lo hacemos con las variables, pero con la diferencia de que un arreglo está seccionado o dividido en varias partes. los arreglos Se caracterizan por: en primer lugar, almacenar los elementos en posiciones contigua de memoria, es decir, los elementos están uno al lado del otro, tienen un mismo nombre de variable que representa a todos los elementos. los elementos, son asignados a una posición dentro del vector y los arreglos trabajan en conjunto con índices que especifican la posición de cada elemento dentro del arreglo.
 
-	* **cristhiandelacruzperu** (1)
+	* **cristhiandelacruzperu** [1082898] (1)
 
-		
 		Gracias.
 
-* **Julian Andres Cajiao** (3)
+* **Julian Andres Cajiao** (3) [1073258](https://platzi.com/comentario/1073258/) 
 
-	
 	array.push => agrega un elemento al final del array  
 	array.pop => elimina un elemento del final de un array  
 	array.unshift => agrega un elemento al inicio del array  
 	array.shift=> elimina un elemento del inicio de un array  
 	array.indexOf => nos indica la posicion de un elemento en el array
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [1071165](https://platzi.com/comentario/1071165/) 
 
-	
 	 **Arrays**
 	
 	var languages = [“Javascript”, “C#”, “C”]
 	
-	  * Para saber cuántos elementos tiene un array:  
+	* Para saber cuántos elementos tiene un array:  
 	languages.length
 	
-	  * Para acceder a un elemento de un array:  
+	* Para acceder a un elemento de un array:  
 	languages[index] => languages[0]
 	
-	  * Para agregar un elemento al final de un array:  
+	* Para agregar un elemento al final de un array:  
 	languages.push(“Javascript”)
 	
-	  * Para agregar un elemento al inicio de un array:  
+	* Para agregar un elemento al inicio de un array:  
 	languages.unshift(“Javascript”)
 	
-	  * Para eliminar el primer elemento de un array:  
+	* Para eliminar el primer elemento de un array:  
 	languages.shift(“Javascript”)
 	
-	  * Para eliminar el último elemento de un array:  
+	* Para eliminar el último elemento de un array:  
 	languages.pop(“Javascript”)
 	
-	  * Para obtener la posición de un elemento:  
+	* Para obtener la posición de un elemento:  
 	languages.indexOf(“C#”);
 	
 	
 	
 
-* **Juan Marcos Caicedo Mejía** (3)
+* **Juan Marcos Caicedo Mejía** (3) [1052552](https://platzi.com/comentario/1052552/) 
 
-	
 	Por qué el profesor los pronuncia como Arrayls?
 
-	* **María Gemini** (1)
+	* **María Gemini** [1052552] (1)
 
-		
 		Supongo que se le mezcla con el español, arreglo.
 
-* **kikega** (2)
+* **kikega** (2) [1102352](https://platzi.com/comentario/1102352/) 
 
-	
 	Asi queda mejor
 	``` 
 	    var frutas = ["Manzana", "Pera", "Naranja", "Platano"];
@@ -14779,22 +13932,20 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	    
 	```
 
-* **Germán González** (2)
+* **Germán González** (2) [1077203](https://platzi.com/comentario/1077203/) 
 
-	
 	Array tiene los siguientes metodos:
 	
-	  * .push : Añade un elemento al final del array.
-	  * .pop : Elimina un elemento del final del array
-	  * .unshift : Añade al inicio
-	  * .shift : Elemina del inicio
-	  * .indexOf : posicion del elemento
+	* .push : Añade un elemento al final del array.
+	* .pop : Elimina un elemento del final del array
+	* .unshift : Añade al inicio
+	* .shift : Elemina del inicio
+	* .indexOf : posicion del elemento
 	
 	
 
-* **gonzaloPzl** (2)
+* **gonzaloPzl** (2) [1062198](https://platzi.com/comentario/1062198/) 
 
-	
 	No hace falta escribir el nombre de la fruta a la hora de eliminar ya sea con pop o shift, es decir:
 	``` 
 	    var frutas = ["Manzanas", "Bananas", "Cerezas", "Frutillas"];
@@ -14804,9 +13955,8 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	    
 	```
 
-* **mexicansauce** (2)
+* **mexicansauce** (2) [1039733](https://platzi.com/comentario/1039733/) 
 
-	
 	Parece ser que los métodos pop y shift no necesitan parámetros para eliminar el último y el primer elemento de un array (segun el caso). Basta con:
 	``` 
 	    var ultimo = frutas.pop()
@@ -14818,17 +13968,15 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 	<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop>  
 	<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift>
 
-* **Franciree Arellán** (2)
+* **Franciree Arellán** (2) [1014830](https://platzi.com/comentario/1014830/) 
 
-	
 	Con array.pop() elimino el último elemento del array.  
 	Con array.shift() elimino el primer elemento del array.
 	
 	¿Hay forma de eliminar un elemento en medio del array?
 
-	* **urieelmm** (5)
+	* **urieelmm** [1014830] (5)
 
-		
 		Puedes usar el método splice  
 		array.splice(x,1)
 		
@@ -14839,25 +13987,23 @@ Buenas les pregunto, cómo paso los datos de un select a variable, en el html te
 		Elemento que elimina: [“manzana”]  
 		Array después de usar el splice: [“fresa”, “plátano”, “melón”]
 
-* **ag94e** (2)
+* **ag94e** (2) [86336](https://platzi.com/comentario/1093753/) 
 ¿Cómo borro un elemento del array que no está ni al principio ni al final?
 
-	* **Alexei Alvarez** (3)
+	* **Alexei Alvarez** [86336] (3)
 
-		
 		Puedes utilizar el método .slice
 		
 		<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/slice>
 
-* **Javier Andres Gamboa Duarte** (2)
+* **Javier Andres Gamboa Duarte** (2) [85521](https://platzi.com/comentario/1075970/) 
 Cuando se aplica un método siempre se debe asignar a una variable?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [85521] (1)
 
-		
 		No necesariamente, en este caso se muestra de esa forma porque es más didáctico, pero si aplicas un método que modifique el array original, como .push o .pop, no necesitas declarar una variable, si por otra parte usas un método que devuelve un nuevo array en vez de modificar el original como es el caso de .map en la mayoría de los casos vas a querer aplicarlo a una variable porque de otra manera no tiene mucho sentido utilizarlo 😛
 
-* **geovanygomez** (1)
+* **geovanygomez** (1) [1117501](https://platzi.com/comentario/1117501/) 
 
 	```
 	    var computadoraElije = "papel"
@@ -14908,19 +14054,16 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1112644](https://platzi.com/comentario/1112644/) 
 
-	
 	Excelente clase.
 
-* **Eduardo Neptali Benso Pasquel** (1)
+* **Eduardo Neptali Benso Pasquel** (1) [1102976](https://platzi.com/comentario/1102976/) 
 
-	
 	posición 0 = “Manzanas” , posición 1 = “Plátano” , posición 2 = “Cereza” , posición 3 = “Fresa”
 
-* **garciafran** (1)
+* **garciafran** (1) [1101838](https://platzi.com/comentario/1101838/) 
 
-	
 	En resumen:
 	``` 
 	    //como generar un array
@@ -14952,44 +14095,36 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097507](https://platzi.com/comentario/1097507/) 
 
-	
 	Excelente clase!!
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1086347](https://platzi.com/comentario/1086347/) 
 
-	
 	😃
 
-* **picojohn** (1)
+* **picojohn** (1) [1082172](https://platzi.com/comentario/1082172/) 
 
-	
 	buena explicacion
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1072898](https://platzi.com/comentario/1072898/) 
 
-	
 	Genial
 
-* **Juan Esteban Galvis** (1)
+* **Juan Esteban Galvis** (1) [1072418](https://platzi.com/comentario/1072418/) 
 
-	
 	Entender qué o como funciona un Array es sencillo, lo complicado es aprenderse todas las funciones que ofrece Javascript ajaja
 
-	* **Gabriel Zapata** (2)
+	* **Gabriel Zapata** [1072418] (2)
 
-		
 		En principio parece un problema, pero esto por intentar aprenderlo todo junto desde el principio, se trata de conocerlas, no de memorizarlas, al final del día un programador trabaja con apuntes y no con lo que memorizo a lo largo de su carrera
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1071991](https://platzi.com/comentario/1071991/) 
 
-	
 	Excelente.
 
-* **Aníbal Javier Ladera Hernández** (1)
+* **Aníbal Javier Ladera Hernández** (1) [1065731](https://platzi.com/comentario/1065731/) 
 
-	
 	Aqui comparto mi if sobre el tema y juego:
 	``` 
 	    functiongame(item_1, item_2)
@@ -15021,9 +14156,8 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-* **Edgar Ramirez** (1)
+* **Edgar Ramirez** (1) [1064111](https://platzi.com/comentario/1064111/) 
 
-	
 	Si alguien me puede ayudar, funciona pero los resultados no coinciden, cuando debería empatar pierdo , y así en varios casos!
 	``` 
 	    let user = ["piedra","papel","tijera"]
@@ -15089,22 +14223,19 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-* **Rickert Gonzales Ramires** (1)
+* **Rickert Gonzales Ramires** (1) [1062259](https://platzi.com/comentario/1062259/) 
 
-	
 	fruta(0) = manzana
 
-* **Rafael Alvarez Cardona** (1)
+* **Rafael Alvarez Cardona** (1) [1060702](https://platzi.com/comentario/1060702/) 
 
-	
 	@drgranda tiene que especificar el tipo de **platano** ya que hay muchas culturas aqui!
 
-* **laystiben** (1)
+* **laystiben** (1) [1058905](https://platzi.com/comentario/1058905/) 
 
-	
 	cómo elimino un elemento de un array por su posicion o nombre?
 
-	* **Rafael Alvarez Cardona** (2)
+	* **Rafael Alvarez Cardona** [1058905] (2)
 
 		```
 		    let frutas = ["manzana", "uva", "pera", "cereza"]
@@ -15116,16 +14247,15 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 		
 		La Función **splice()** pasándole dos parámetros: el primero será el índice a partir del cual queremos borrar elementos y, el segundo, el número de elementos que queremos borrar a partir de la posición dada
 		
-		  * con esta funcion si se comienza a contar desde 1
+		* con esta funcion si se comienza a contar desde 1
 		
 		
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [1058905] (3)
 
-		
 		Y si lo que quieres es crear un array nuevo sin algunos elementos específicamente, tienes [slice()](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/slice) 😄
 
-* **Alex Toasa** (1)
+* **Alex Toasa** (1) [1058332](https://platzi.com/comentario/1058332/) 
 
 	```
 	    //declarar variable tipo arreglo
@@ -15148,17 +14278,15 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050018](https://platzi.com/comentario/1050018/) 
 
-	
 	Interesante
 
-* **Bárbara de los Ángeles Morantes Carvajal** (1)
+* **Bárbara de los Ángeles Morantes Carvajal** (1) [1041089](https://platzi.com/comentario/1041089/) 
 
-	
 	Para llegar a la opción Manzana, la instrucción debera ser console.log(frutas[0]); y para Cereza, console.log(frutas[2]); Esto debido a que se empieza a contar desde 0.
 
-* **Edwuard Ramos Garcia** (1)
+* **Edwuard Ramos Garcia** (1) [1035881](https://platzi.com/comentario/1035881/) 
 
 	```
 	    var frutas = ['manzana', 'platano', 'uva', 'sandia'];
@@ -15184,19 +14312,16 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-	* **Rafael Alvarez Cardona** (1)
+	* **Rafael Alvarez Cardona** [1035881] (1)
 
-		
 		Bro… platano es una fruta? :0 JAJAJ pero bacano compa! lo importante es la actitud
 
-	* **Rafael Alvarez Cardona** (1)
+	* **Rafael Alvarez Cardona** [1035881] (1)
 
-		
 		 **corrijo, xd de donde soy al platano verde se le llama platano y al banano se le dice tal cual “banano”**
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1029458](https://platzi.com/comentario/1029458/) 
 
-	
 	Porque si el método push elimina el último elemento de un array, ¿se indico el elemento “Uvas” dentro del push?, cuando podría ir sin parámetro.  
 	También para que se declara una variable para mandar a llamar a los métodos si al final no estamos utilizando esas variables, y se podría mandar a llamar solo al método
 	``` 
@@ -15221,24 +14346,20 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-	* **Jorgelisapa** (1)
+	* **Jorgelisapa** [1029458] (1)
 
-		
 		Hola, el método push no elimina elementos de un array, más bien los agrega y lo hace en el ultimo indice de dicho array.
 
-* **Julián David Palacios Cárdenas** (1)
+* **Julián David Palacios Cárdenas** (1) [1000687](https://platzi.com/comentario/1000687/) 
 
-	
 	No entiendo algo, ¿porqué estos métodos deben ser cargados a una variable y simplemente no ejecutados?
 
-	* **Eduardo Antonio Rivero Rivera** (2)
+	* **Eduardo Antonio Rivero Rivera** [1000687] (2)
 
-		
 		Según entiendo es porque el método corresponde al objeto, el método no se ejecuta con otro elemento mas que con el objeto en si. Supongo que por eso, pero si como dices tu si se puede tener otro tipo de elementos.
 
-	* **Alfonso Luis Arrieta Hernández** (2)
+	* **Alfonso Luis Arrieta Hernández** [1000687] (2)
 
-		
 		Tienes razón, parece “mala práctica”. Sí tienes definido el array frutas, puedes ejecutar métodos directamente sobre ese array sin esperar ningún otro tipo de resultado, ya que se ejecuta el método sobre el array. ejm.  
 		Se define el array:
 		``` 
@@ -15254,56 +14375,49 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 		    
 		```
 
-* **matias-alexander-ibarra-trujil** (1)
+* **matias-alexander-ibarra-trujil** (1) [999941](https://platzi.com/comentario/999941/) 
 
-	
 	esto es muy valioso
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [997980](https://platzi.com/comentario/997980/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Daniel Esteban Santos Mendez** (1)
+* **Daniel Esteban Santos Mendez** (1) [86170](https://platzi.com/comentario/1089753/) 
 .pop() y .shift() son metodos que eliminan el elemento primero y último por default, lo podemos llamar sin poner el nombre del elemento e...
 
-	* **ag94e** (1)
+	* **ag94e** [86170] (1)
 
-		
 		Como mencionas, .pop() y . shift() solo trabajan con lo ya predefinido por el lenguaje, por ende no es necesario que se coloquen nombres entre los paréntesis.
 
-# Loops
+# Loops [5332]
 
-## 0150. Loops For y For...of
+## 0150. Loops For y For...of [26304](https://platzi.com/clases/1814-basico-javascript/26304-loops-for-y-forof/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **diego rodriguez** (7)
+* **diego rodriguez** (7) [1001821](https://platzi.com/comentario/1001821/) 
 
-	
 	no tenia ni idea del for of
 
-* **Ginnio Sarabia** (5)
+* **Ginnio Sarabia** (5) [1095648](https://platzi.com/comentario/1095648/) 
 
-	
 	Tengo experiencia desarrollando y olvide colocar el incremento en el for jajaja ciclo infinito.
 	
 	Tuve que hacer un TOP y un KILL en consola para matar el proceso por que Chrome se congelo
 
-	* **julian orrego** (1)
+	* **julian orrego** [1095648] (1)
 
-		
 		jajaja cosas que suelen suceder
 
-* **Lorenzo David Lezcano** (5)
+* **Lorenzo David Lezcano** (5) [997260](https://platzi.com/comentario/997260/) 
 
-	
 	La segunda manera de usar el for me gusto mucho, la había visto en códigos pero no entendida como funcionaba, gracias a este video ahora lo se! 😄
 
-* **kikega** (3)
+* **kikega** (3) [1102429](https://platzi.com/comentario/1102429/) 
 
 	```
 	    var frutas = ["Manzana", "Pera", "Naranja", "Platano", "Uva"];
@@ -15318,34 +14432,28 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	    
 	```
 
-	* **platzerito080420202** (1)
+	* **platzerito080420202** [1102429] (1)
 
-		
 		en todos los videos tus publicaciones jaja para xd
 
-* **Abraham Caso Torres** (3)
+* **Abraham Caso Torres** (3) [1084399](https://platzi.com/comentario/1084399/) 
 
-	
 	speed x2 se entiendo mejor.
 
-* **Manuel Rivera** (3)
+* **Manuel Rivera** (3) [1005818](https://platzi.com/comentario/1005818/) 
 
-	
 	También esta el For…in 😄
 
-	* **Eleazar Carreón Álvarez** (1)
+	* **Eleazar Carreón Álvarez** [1005818] (1)
 
-		
 		Sí, solo que el for… in lo usemos para objetos con propiedades ya definidas por el usuario.
 
-	* **Valente IA** (1)
+	* **Valente IA** [1005818] (1)
 
-		
 		También esta el foreach
 
-* **Jorge Enrique Avendaño Jara** (3)
+* **Jorge Enrique Avendaño Jara** (3) [1000013](https://platzi.com/comentario/1000013/) 
 
-	
 	esta es la estructura de un for…of:
 	``` 
 	    <for (const valor of objetoIterable) {
@@ -15357,37 +14465,31 @@ Cuando se aplica un método siempre se debe asignar a una variable?
 	pueden encontrar mas información sobre for…of en esta pagina:  
 	[](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/for...of)
 
-* **Jeins1991** (2)
+* **Jeins1991** (2) [1081547](https://platzi.com/comentario/1081547/) 
 Muy bien explicado, me gusta la forma como enseña este profesor; todo queda muy claro rápidamente.
 
-* **andrés eduardo betancourt bescanza** (2)
+* **andrés eduardo betancourt bescanza** (2) [1057988](https://platzi.com/comentario/1057988/) 
 
-	
 	Que buena la explicacion del profesor, me aclaro mucho lo de la (i) .
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1112722](https://platzi.com/comentario/1112722/) 
 
-	
 	Excelente clase, gracias.
 
-* **RemyLebeau** (1)
+* **RemyLebeau** (1) [1104741](https://platzi.com/comentario/1104741/) 
 
-	
 	hasta ahora me entero del FOR OF, muy simple y sencillo para recorrer arreglos.
 
-	* **Cristhian Franco** (2)
+	* **Cristhian Franco** [1104741] (2)
 
-		
 		En otros lenguajes se le llama for each, util cuando no necesitas el index de cada elemento
 
-* **eduvra** (1)
+* **eduvra** (1) [1104213](https://platzi.com/comentario/1104213/) 
 
-	
 	Super buena explicación.
 
-* **garciafran** (1)
+* **garciafran** (1) [1101957](https://platzi.com/comentario/1101957/) 
 
-	
 	Excelente el uso del for of, no lo conocia.
 	``` 
 	    var estudiantes = ["Francisco", "Juan", "Cristian", "Liz", "Paola"];
@@ -15408,118 +14510,99 @@ Muy bien explicado, me gusta la forma como enseña este profesor; todo queda muy
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097514](https://platzi.com/comentario/1097514/) 
 
-	
 	Excelente y muy usado el for
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1094573](https://platzi.com/comentario/1094573/) 
 
-	
 	genial
 
-* **gustavoadolfocastaedalondo** (1)
+* **gustavoadolfocastaedalondo** (1) [1087899](https://platzi.com/comentario/1087899/) 
 
-	
 	No conocía el ciclo for of, muy practico!
 
-	* **Ginnio Sarabia** (1)
+	* **Ginnio Sarabia** [1087899] (1)
 
-		
 		Creo que es similar al for each de c#
 
-* **picojohn** (1)
+* **picojohn** (1) [1085187](https://platzi.com/comentario/1085187/) 
 
-	
 	buena explicacion
 
-* **cesaraguilareduardoromero** (1)
+* **cesaraguilareduardoromero** (1) [1081033](https://platzi.com/comentario/1081033/) 
 
-	
 	excelente explicación
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1072939](https://platzi.com/comentario/1072939/) 
 
-	
 	Muy buena exlicacion de los ciclos repetitivos.
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1072114](https://platzi.com/comentario/1072114/) 
 
-	
 	Excelente explicación.
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1071212](https://platzi.com/comentario/1071212/) 
 
-	
 	Los bucles pueden ejecutar un bloque de código varias veces. JavaScript admite diferentes tipos de bucles:
 	
-	  * for - recorre un bloque de código varias veces
+	* for - recorre un bloque de código varias veces
 	
-	  * for/in - recorre las propiedades de un objeto
+	* for/in - recorre las propiedades de un objeto
 	
-	  * for/of - recorre los valores de un objeto iterable
+	* for/of - recorre los valores de un objeto iterable
 	
-	  * while - recorre un bloque de código mientras se cumple una condición específica
+	* while - recorre un bloque de código mientras se cumple una condición específica
 	
-	  * do/while - también recorre un bloque de código mientras se cumple una condición específica
+	* do/while - también recorre un bloque de código mientras se cumple una condición específica
 	
 	
 	
 
-* **leotori** (1)
+* **leotori** (1) [1063975](https://platzi.com/comentario/1063975/) 
 
-	
 	Para quien no sepa como sacar este carácter (``) lo logras presionando alt + 96 en el teclado numérico.  
 	Aquí les adjunto la referencia  
 	<https://elcodigoascii.com.ar/codigos-ascii/acento-grave-codigo-ascii-96.html>
 
-	* **picojohn** (1)
+	* **picojohn** [1063975] (1)
 
-		
 		me toco usar el mapa de caracteres de windows, pero gracias por tu aporte
 
-* **Jair Israel Avilés Eusebio** (1)
+* **Jair Israel Avilés Eusebio** (1) [1062986](https://platzi.com/comentario/1062986/) 
 
-	
 	Encontre este articulo en el cual me parece interesante la explicacion y diferencia del loop `for...of` y `for...in`
 	
 	[for…of vs for…in Loops in JavaScript](https://alligator.io/js/for-of-for-in-loops/)
 
-* **gonzaloPzl** (1)
+* **gonzaloPzl** (1) [1062296](https://platzi.com/comentario/1062296/) 
 
-	
 	Excelente explicación
 
-* **Pedro Renatto Neciosup Liza** (1)
+* **Pedro Renatto Neciosup Liza** (1) [1056364](https://platzi.com/comentario/1056364/) 
 
-	
 	muy buen dato!  
 	For in => Objects  
 	For of => Arrays
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050305](https://platzi.com/comentario/1050305/) 
 
-	
 	Desde cuando existe esa opción de For of ??
 
-	* **John Alexander Diaz Astudillo** (2)
+	* **John Alexander Diaz Astudillo** [1050305] (2)
 
-		
 		Eso fue de las grandes apariciones en 2015 de ES6 ó ES2015, fueron grandes cambios porque desde el 2011 existía ES5 y los cambios eran algo pequeños entre ediciones, desde el 2015 se vienen haciendo modificaciones anuales. [wikipedia](https://es.wikipedia.org/wiki/ECMAScript)
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [1050305] (1)
 
-		
 		Existe otro que se llama [for in](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/for...in) solo que es para iterar objetos y recorre los keys de las propiedades no los valores.
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050302](https://platzi.com/comentario/1050302/) 
 
-	
 	Como siempre lo digo, todos los días se aprende algo nuevo, por muy pequeño que sea, excelente curso
 
-* **SoterRamirez** (1)
+* **SoterRamirez** (1) [1049546](https://platzi.com/comentario/1049546/) 
 
-	
 	Aprendes mucho, en serio no sabia eso de for of!!
 	
 	For
@@ -15556,23 +14639,22 @@ Muy bien explicado, me gusta la forma como enseña este profesor; todo queda muy
 	    
 	```
 
-* **Diego Fernando Rojas Quintero** (1)
+* **Diego Fernando Rojas Quintero** (1) [1035946](https://platzi.com/comentario/1035946/) 
 
-	
 	Reto de la clase: Escribe un programa que muestre los números del 1 al 50, con las siguientes excepciones:
 	
-	  * Para los múltiplos de 3 muestra la palabra “Fizz” en lugar del número.
+	* Para los múltiplos de 3 muestra la palabra “Fizz” en lugar del número.
 	
-	  * Para los múltiplos de 5 muestra la palabra “Buzz” en lugar del número.
+	* Para los múltiplos de 5 muestra la palabra “Buzz” en lugar del número.
 	
-	  * Para los múltiplos de 3 y 5 muestra la palabra “FizzBuzz” en lugar del número.
+	* Para los múltiplos de 3 y 5 muestra la palabra “FizzBuzz” en lugar del número.
 	
 	
 	
 	
 	NOTA: EL ALGORTITMO DEBERA ESTAR EN UNA SOLA LINEA DE CODIGO.
 
-	* **César Oswaldo Mandamiento Salas** (1)
+	* **César Oswaldo Mandamiento Salas** [1035946] (1)
 
 		```
 		    for (let i = 1; i <= 50; i++) {
@@ -15581,14 +14663,12 @@ Muy bien explicado, me gusta la forma como enseña este profesor; todo queda muy
 		    
 		```
 
-	* **Diego Fernando Rojas Quintero** (1)
+	* **Diego Fernando Rojas Quintero** [1035946] (1)
 
-		
 		Buen hecho cmandamiento_
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1029697](https://platzi.com/comentario/1029697/) 
 
-	
 	falto explicar el foreach.
 	``` 
 	    var frutas = ["Manzana", "Plátano", "Cereza", "Fresa"];
@@ -15626,15 +14706,13 @@ Muy bien explicado, me gusta la forma como enseña este profesor; todo queda muy
 	    
 	```
 
-	* **joaquin-fontela** (1)
+	* **joaquin-fontela** [1029697] (1)
 
-		
 		Como funcionaria? <array>.forEach(funcion) ?  
 		Entonces por cada elemento del array, ejecutaria la funcion?
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1015918](https://platzi.com/comentario/1015918/) 
 
-	
 	Cuando un bucle for se ejecuta, ocurre lo siguiente:
 	
 	  1. La expresión de inicialización expresionInicial, si existe, se ejecuta. Esta expresión habitualmente inicializa uno o mas contadores del bucle, pero la sintaxis permite una expresión con cualquier grado de complejidad. Esta expresión puede también declarar variables.
@@ -15646,38 +14724,32 @@ Muy bien explicado, me gusta la forma como enseña este profesor; todo queda muy
 	
 	[https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Bucles_e_iteración](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Bucles_e_iteraci%C3%B3n)
 
-* **Carlos Eduardo Diaz Polanco** (1)
+* **Carlos Eduardo Diaz Polanco** (1) [1015357](https://platzi.com/comentario/1015357/) 
 
-	
 	Estudiante se convierte en estudiante[i]
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1014441](https://platzi.com/comentario/1014441/) 
 
-	
 	Cada día Amo más Javascript
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [1001423](https://platzi.com/comentario/1001423/) 
 
-	
 	Me parece muy interesante el for…of para recorrer arreglos.  
 	Muy práctico y fácil de implementar
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [998001](https://platzi.com/comentario/998001/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997706](https://platzi.com/comentario/997706/) 
 
-	
 	También me gusto la segunda forma
 
-* **Francisco Varela** (1)
+* **Francisco Varela** (1) [84512](https://platzi.com/comentario/1052253/) 
 Tengo dos preguntas: En la function saludarEstudiantes(estudiante){ Ese estudiante no debería ser estudiantes? Para que sepa qu...
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [84512] (1)
 
-		
 		¡Hola!
 		
 		Debes usar los _template literals_ ``
@@ -15696,12 +14768,11 @@ Tengo dos preguntas: En la function saludarEstudiantes(estudiante){ Ese estudian
 		    
 		```
 
-* **Oscar Galicia** (1)
+* **Oscar Galicia** (1) [82232](https://platzi.com/comentario/1000686/) 
 var estudiantes = [“Maria”, “Sergio”, “Rosa”, “Daniel”]; function saludarEstudiantes(eraro){ console.log(Hola, ${eraro}); } for(var cualq...
 
-	* **Luis Arturo Lira Cerda** (3)
+	* **Luis Arturo Lira Cerda** [82232] (3)
 
-		
 		En este caso, no es que la función sepa que te refieres al Array de estudiantes, si no, en el for, lo que estás haciendo es pasar el nombre de cada estudiante a la función saludarEstudiantes().
 		
 		Aunque en estricta forma tu código debería lanzar error por el detalle de que Hola, debe estar entre comillas: “Hola” y eraro, debería sólo estar como eraro y no entre ${}.
@@ -15750,19 +14821,16 @@ var estudiantes = [“Maria”, “Sergio”, “Rosa”, “Daniel”]; functio
 		    
 		```
 
-* **nestor-alejandro-aguilar-munoz** (0)
+* **nestor-alejandro-aguilar-munoz** (0) [1075039](https://platzi.com/comentario/1075039/) 
 
-	
 	para que sirve el simbolo $
 
-	* **Angel Joaquín Velasco Gómez** (1)
+	* **Angel Joaquín Velasco Gómez** [1075039] (1)
 
-		
 		Es la forma de imprimir variables cuando usas template literals.
 
-	* **Diego Camino** (3)
+	* **Diego Camino** [1075039] (3)
 
-		
 		Hola, se llama ‘template literals’ y es una funcionalidad dentro de EcmaScript6, en lugar de comillas simples (’) o comillas dobles ("), usamos el carácter de _backtick _ o comilla de retroceso(`).  
 		Con él vienen nuevas características que nos permiten un mayor control sobre las cadenas dinámicas en nuestros programas.
 		
@@ -15784,26 +14852,23 @@ var estudiantes = [“Maria”, “Sergio”, “Rosa”, “Daniel”]; functio
 		
 		Puedes leer más aquí si te interesa: <https://css-tricks.com/template-literals/>
 
-## 0160. Loops While
+## 0160. Loops While [26305](https://platzi.com/clases/1814-basico-javascript/26305-loops-while/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Eleazar Carreón Álvarez** (7)
+* **Eleazar Carreón Álvarez** (7) [1009607](https://platzi.com/comentario/1009607/) 
 
-	
 	Ambos ciclos se ocupan el for y el while. Con for podemos definir un fin de intentos y con el while mientras se cumpla que lo siga haciendo. Es como decir en while sería, seguir cocinando el pollo mientras siga crudo, realmente no sabemos cuando estará cocinado. Si usáramos for podría quedarnos crudo o muy quemado, a menos que fueras un super experto.
 
-	* **AlexanderAReyes** (2)
+	* **AlexanderAReyes** [1009607] (2)
 
-		
 		Muy buena metáfora
 
-* **Oscar Lobo** (3)
+* **Oscar Lobo** (3) [1032669](https://platzi.com/comentario/1032669/) 
 
-	
 	aqui el código de la clase con ejemplo tambien del do-while
 	``` 
 	    var estudiantes = ["Maria", "Sergio", "Rosa", "Daniel"];
@@ -15828,9 +14893,8 @@ var estudiantes = [“Maria”, “Sergio”, “Rosa”, “Daniel”]; functio
 	    
 	```
 
-* **ikertrigueros** (2)
+* **ikertrigueros** (2) [1109301](https://platzi.com/comentario/1109301/) 
 
-	
 	¿Por qué en mi consola, a la hora de imprimir, no me salen los 4 mensajes, y me lo manda de esta manera?
 	
 	![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-ae95e277-c269-49ab-85f5-f06480a9adf9.jpg)
@@ -15838,19 +14902,16 @@ var estudiantes = [“Maria”, “Sergio”, “Rosa”, “Daniel”]; functio
 	Gracias por el apoyo  
 	saludos!
 
-	* **Alejandro Luján** (1)
+	* **Alejandro Luján** [1109301] (1)
 
-		
 		Tienes que usar las “backticks” para interpolar variables, osea poner variables dentro de un string, y tu estas usando comillas simples en el console.log de la funcion, por eso te lo escribe todo como si fuera texto simple, y no te interpola la variable, saludos!
 
-	* **Alejandro Luján** (1)
+	* **Alejandro Luján** [1109301] (1)
 
-		
 		Estas son las backticks: ``
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [1071288](https://platzi.com/comentario/1071288/) 
 
-	
 	El bucle while recorre un bloque de código siempre que una condición especificada sea verdadera.  
 	**Sintaxis**
 	``` 
@@ -15860,17 +14921,15 @@ var estudiantes = [“Maria”, “Sergio”, “Rosa”, “Daniel”]; functio
 	    
 	```
 
-* **Cesar Octavio de Jesús Meza Carrillo** (2)
+* **Cesar Octavio de Jesús Meza Carrillo** (2) [1007409](https://platzi.com/comentario/1007409/) 
 
-	
 	Yo creo que depende de que estemos utilizando en su momento, porque a veces sabemos cuantas veces necesitamos ejecutar una fraccion de codigo… o a veces requerimos de cierta condicion para hacer algo no importando el numero de veces,
 
-* **José Ponceleón** (2)
+* **José Ponceleón** (2) [82429](https://platzi.com/comentario/1005184/) 
 Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 estudiante a la vez y no todos los elementos del array?
 
-	* **Luis Arturo Lira Cerda** (6)
+	* **Luis Arturo Lira Cerda** [82429] (6)
 
-		
 		El método shift() sirve para sacar el primer elemento de un array y eso mismo te retorna. Es decir si tenemos:
 		``` 
 		    var personas = ['Ana', 'Juan', 'Pedro']
@@ -15883,14 +14942,12 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 		    
 		```
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1112749](https://platzi.com/comentario/1112749/) 
 
-	
 	Excelente clase.
 
-* **garciafran** (1)
+* **garciafran** (1) [1101979](https://platzi.com/comentario/1101979/) 
 
-	
 	muy bueno el recorrido del array, eliminando simultaneamente elementos. 😉
 	``` 
 	    var estudiantes = ["Francisco", "Juan", "Cristian", "Liz", "Paola"];
@@ -15908,61 +14965,50 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097523](https://platzi.com/comentario/1097523/) 
 
-	
 	muy usado el ciclo while!! hay que aprenderlo bien!
 
-* **fabio-hernan-mosquera-obando** (1)
+* **fabio-hernan-mosquera-obando** (1) [1095581](https://platzi.com/comentario/1095581/) 
 
-	
 	Entiendo que en el ejemplo de while(); para que el ciclo termine debe llegar a longitud de elementos cero. de lo contrario se vuelve un loop infinito. por esta razón el array debe mutar de 4 elementos, a 3, a 2, 1 y luego a cero para que el ciclo termine.
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1092802](https://platzi.com/comentario/1092802/) 
 
-	
 	While es un bucle que que ejecuta una sentencia especifica mientras cierta condición es evaluada si es verdadera.
 	
 	Muy buenos los Ejemplos!!!
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1087395](https://platzi.com/comentario/1087395/) 
 
-	
 	…
 
-* **picojohn** (1)
+* **picojohn** (1) [1085236](https://platzi.com/comentario/1085236/) 
 
-	
 	buena expicacion, aprendiendo cada dia mas, solo queda practicar
 
-* **Javier Andres Gamboa Duarte** (1)
+* **Javier Andres Gamboa Duarte** (1) [1082818](https://platzi.com/comentario/1082818/) 
 
-	
 	Bien explicado
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1072984](https://platzi.com/comentario/1072984/) 
 
-	
 	Entendido los Loops, excelente clase.
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1072154](https://platzi.com/comentario/1072154/) 
 
-	
 	Excelente.
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050309](https://platzi.com/comentario/1050309/) 
 
-	
 	Lo que no he entendido las pocas veces que lo vi es esa sintaxis de $ { } ?? alguien me puede explicar que es y para que es ??
 
-	* **renatojobal** (2)
+	* **renatojobal** [1050309] (2)
 
-		
 		Se llama “template string” o “plantilla de cadena de texto”, lo explica en la clase de Funciones, exactamente a partir del minuto 8:40. :3
 
-	* **Juan Vicente Cordero** (2)
+	* **Juan Vicente Cordero** [1050309] (2)
 
-		
 		Básicamente es para poder introducir una variable dentro de un string. En sustitución de concatenar la variable.  
 		var nom = “Pepe”;
 		``` 
@@ -15974,9 +15020,8 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 		
 		Las comillas son la de la tecla del corchete [ .
 
-	* **GibsonR** (1)
+	* **GibsonR** [1050309] (1)
 
-		
 		Epale mi pana… el caso de esas comillas (la invertidas o francesas) y el símbolo de pesos es que: de esa manera puede interpolar variables con una cadena de texto; es decir puede meter las dos entidades en un solo renglón o más de un renglón porque ellas permiten también el salto de linea.
 		
 		var nombre = "Gibson"  
@@ -15986,72 +15031,61 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 		
 		De esta manera debe decir en consola Hola me llamo Gibson
 
-	* **John Alexander Diaz Astudillo** (1)
+	* **John Alexander Diaz Astudillo** [1050309] (1)
 
-		
 		Es cuestión de práctica, la única forma de que te quede claro es practicando, así me ha tocado a mí cada vez que me enseñan una cosa nueva. En este caso en especial te recomiendo [practicar Template Strings en Javascript](https://www.google.com/search?q=template+strings+javascript)
 
-* **Valente IA** (1)
+* **Valente IA** (1) [1029744](https://platzi.com/comentario/1029744/) 
 
-	
 	falto un ejemplo del do{  
 	//  
 	}while(condición);
 
-* **dariusv** (1)
+* **dariusv** (1) [1019963](https://platzi.com/comentario/1019963/) 
 
-	
 	faltaría el ciclo do-while que ejecuta el código una vez antes de validar si la condición es verdadera o falsa
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1015994](https://platzi.com/comentario/1015994/) 
 
-	
 	while (condicion){  
 	sentencia;  
 	}
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [1005828](https://platzi.com/comentario/1005828/) 
 
-	
 	También tenemos el do…while, qeu es un ciclo que se va a ejecutar minimo una vez 😄
 
-* **diego rodriguez** (1)
+* **diego rodriguez** (1) [1001825](https://platzi.com/comentario/1001825/) 
 
-	
 	este loop junto con el do while me parece mas interesante que el for.
 
-	* **vickiavola** (1)
+	* **vickiavola** [1001825] (1)
 
-		
 		Hola, depende de lo que necesites hacer.
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [1001427](https://platzi.com/comentario/1001427/) 
 
-	
 	Creo que el ciclo más usado es el for.
 
-	* **havelka** (1)
+	* **havelka** [1001427] (1)
 
-		
 		asi es
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997712](https://platzi.com/comentario/997712/) 
 
-	
 	Ciclos
 
-# Objects
+# Objects [5334]
 
-## 0170. Objects
+## 0170. Objects [26306](https://platzi.com/clases/1814-basico-javascript/26306-objects/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Karla Agraz** (5)
+* **Karla Agraz** (5) [1003482](https://platzi.com/comentario/1003482/) 
 
-	
 	Objetos: JS es un lenguaje que está diseñado en un paradigma de objetos.
 	
 	Ejemplo de Objeto:
@@ -16089,14 +15123,12 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 	¿Quién es this?  
 	Es una variable que hace referencia al objeto. En este caso: this = miAuto.
 
-* **Julián David Palacios Cárdenas** (3)
+* **Julián David Palacios Cárdenas** (3) [1003730](https://platzi.com/comentario/1003730/) 
 
-	
 	Diego explica de forma simple y entendible estos conceptos abstractos, gracias!
 
-* **garciafran** (2)
+* **garciafran** (2) [1102024](https://platzi.com/comentario/1102024/) 
 
-	
 	Excelente la forma de entender this.
 	``` 
 	    //this hace referencia a un objeto, en este caso el objeto papa que es el objeto miAuto.
@@ -16114,14 +15146,12 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 	    
 	```
 
-	* **eduvra** (1)
+	* **eduvra** [1102024] (1)
 
-		
 		Jaja, yo igual pensé en un spark.
 
-* **juanlondono** (2)
+* **juanlondono** (2) [1085969](https://platzi.com/comentario/1085969/) 
 
-	
 	la POO, es una manera de diseñar y desarrollar software que trata de imitar la realidad tomando algunos conceptos esenciales de ella.
 	
 	el primero de estos es, precisamente, el de objeto, cuyo rasgos son la identidad, el estado y el comportamiento.  
@@ -16129,12 +15159,11 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 	
 	en conclusión, Un identificador es el nombre del objeto, las variables son las características del objeto y, los métodos son el comportamiento de nuestro objeto
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [1071443](https://platzi.com/comentario/1071443/) 
 
-	
 	 **Objetos**
 	
-	  * Para declarar un objeto la sintaxis es:  
+	* Para declarar un objeto la sintaxis es:  
 	var myObject = {property : “value”}  
 	Ejemplo:  
 	var myCar = {  
@@ -16142,16 +15171,16 @@ Que hace “shift” para hacer que la variable “estudiante” muestre solo 1 
 	year: 2015,  
 	}
 	
-	  * Para acceder a un objeto:  
+	* Para acceder a un objeto:  
 	myCar.year;
 	
 	
 	
 
-* **Jose Tabango** (2)
+* **Jose Tabango** (2) [1027289](https://platzi.com/comentario/1027289/) 
 Javascript es orientado a objetos, pero es multi paradigma (permite varios estilos de programación), soporta la programación funcional, orientada a objetos e imperativa. Fuente: https://developer.mozilla.org/es/docs/Web/JavaScript
 
-* **Eleazar Carreón Álvarez** (2)
+* **Eleazar Carreón Álvarez** (2) [1009619](https://platzi.com/comentario/1009619/) 
 
 	```
 	    var carro = {
@@ -16174,70 +15203,58 @@ Javascript es orientado a objetos, pero es multi paradigma (permite varios estil
 	    
 	```
 
-* **ironcap** (2)
+* **ironcap** (2) [85684](https://platzi.com/comentario/1079197/) 
 Resumiendo y no se si lo entendí bien. ¿this hace referencia al objeto que lo contiene? en el ejemplo del auto, la funci...
 
-	* **ag94e** (1)
+	* **ag94e** [85684] (1)
 
-		
 		Efectivamente, tal cual lo dices, apuntará a window.object si llamas a this con una función que no tenga un objeto padre diferente al window.object.
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1112819](https://platzi.com/comentario/1112819/) 
 
-	
 	Muy buena clase
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097529](https://platzi.com/comentario/1097529/) 
 
-	
 	Ojo todo javascript es un objeto!!
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1094623](https://platzi.com/comentario/1094623/) 
 
-	
 	Excelente clase
 
-* **Juan Pedraza** (1)
+* **Juan Pedraza** (1) [1094341](https://platzi.com/comentario/1094341/) 
 
-	
 	Antes de empezar a ver esta clase y en general el tema de objetos, reconozco que esto es una de las cosas que más lata me ha dado en cuanto aprender a programar, sin embargo tengo todas las expectativas que apartir de la fecha no lo será nunca más y al final tener sólido el conocimiento.
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1092783](https://platzi.com/comentario/1092783/) 
 
-	
 	Un objeto tiene características y metodos. y va de la mano con THIS que hace referencia a el objeto global.
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1087451](https://platzi.com/comentario/1087451/) 
 
-	
 	Curioso, en java el concepto al cual se utiliza para llamar el valor de una característica, es por medio de los métodos de accesibilidad , osea los get() y set(). aclaro que aun me falta profundizar en este lenguaje.
 
-* **picojohn** (1)
+* **picojohn** (1) [1085354](https://platzi.com/comentario/1085354/) 
 
-	
 	empezamos con lo bueno, buena explicacion
 
-* **cesaraguilareduardoromero** (1)
+* **cesaraguilareduardoromero** (1) [1081272](https://platzi.com/comentario/1081272/) 
 
-	
 	que buena clase
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1077686](https://platzi.com/comentario/1077686/) 
 
-	
 	Perfecto.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1074541](https://platzi.com/comentario/1074541/) 
 
-	
 	El `.this` esta entendido hasta aqui pero despues genera algo de confucion xD
 
-* **Juan Esteban Galvis** (1)
+* **Juan Esteban Galvis** (1) [1073771](https://platzi.com/comentario/1073771/) 
 La verdad el concepto de **this** me dió mucha dificultad en el curso de JavaScript. Pero busque y entendí, como lo explico el profesor en esta clase está bien para empezar. This es el objeto contexto dónde corre el código
 
-* **Juan Vicente Cordero** (1)
+* **Juan Vicente Cordero** (1) [1052481](https://platzi.com/comentario/1052481/) 
 
-	
 	Pero estoy un poco liado con esta explicación, y ha trastocado un pelín el concepto.  
 	En esta explicación, no se está construyendo un objeto, sino la definición de una clase de objeto, la cual tiene sus atributos y métodos.  
 	Realmente el objeto en sí, se construye cuando se llame al constructor de la clase, que crea una instancia de una clase, siendo esta instancia la materialización de un objeto.  
@@ -16245,105 +15262,89 @@ La verdad el concepto de **this** me dió mucha dificultad en el curso de JavaSc
 	
 	Por favor, aclaren.
 
-	* **John Alexander Diaz Astudillo** (8)
+	* **John Alexander Diaz Astudillo** [1052481] (8)
 
-		
 		Si es un objeto, incluso esto {} también es un objeto, lo que pasa es que hacerlo de esa manera tan básica casi que nunca se utiliza, siempre se crea una clase y los objetos va a ser instancias de esa clase, pero esto es un curso básico y vas a seguir aprendiendo.
 
-	* **Ignacio Bogarín Alvarez** (1)
+	* **Ignacio Bogarín Alvarez** [1052481] (1)
 
-		
 		Espera la siguiente clase… 😃
 
-* **Joseph Paucar** (1)
+* **Joseph Paucar** (1) [1051873](https://platzi.com/comentario/1051873/) 
 
-	
 	Excelente explicación, comprimida pero fácil de entender cuando se inicia con los objetos.
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050333](https://platzi.com/comentario/1050333/) 
 
-	
 	Excelente profesor, por ende, excelente curso
 
-* **Farid Xacur Novelo** (1)
+* **Farid Xacur Novelo** (1) [1036047](https://platzi.com/comentario/1036047/) 
 
-	
 	La sintaxis que estan usando es ECMASCRIPT6??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1036047] (1)
 
-		
 		Si, hace parte de EcmaScript 6 y se llama literal strings.
 
-* **mafevito** (1)
+* **mafevito** (1) [1029546](https://platzi.com/comentario/1029546/) 
 
-	
 	Los objetos te permiten envolver piezas de datos relacionados y funcionalidad en un solo contenedor. Los objetos tienen:
 	
-	  * **Propiedades** que muestran información sobre el objeto.
-	  * **Métodos** que son funciones o capacidades que tiene el objeto.
+	* **Propiedades** que muestran información sobre el objeto.
+	* **Métodos** que son funciones o capacidades que tiene el objeto.
 	
 	
 
-* **Estiventh Leonardo Neira Aldana** (1)
+* **Estiventh Leonardo Neira Aldana** (1) [1027518](https://platzi.com/comentario/1027518/) 
 
-	
 	para qué sirve el signo de dolar o pesos cuando estas usando una función? no me quedó claro
 
-	* **Daniel Felipe Merchan Fuquen** (3)
+	* **Daniel Felipe Merchan Fuquen** [1027518] (3)
 
-		
 		El signo de pesos junto con las llaves nos permiten concatenar strings. Si no lo usaramos tendríamos que concatenar de la siguiente manera:  
 		“Auto” + this.modelo  
 		Para que funcione debemos usar la comilla invertida (``).Dentro de las llaves podemos escribir código JavaScript dentro de un string:  
 		`Auto ${this.modelo}`
 
-* **Kevin Vega** (1)
+* **Kevin Vega** (1) [1016552](https://platzi.com/comentario/1016552/) 
 
-	
 	<https://www.w3schools.com/js/js_objects.asp>
 
-* **diego rodriguez** (1)
+* **diego rodriguez** (1) [1001872](https://platzi.com/comentario/1001872/) 
 
-	
 	muy bueno saber que a los objetos se les puede meter funciones, genial!
 
-* **Miguel Ángel Torres Vargas** (1)
+* **Miguel Ángel Torres Vargas** (1) [1000664](https://platzi.com/comentario/1000664/) 
 
-	
 	Curioso 🤔 no sabia que se podían añadir funciones a objetos, Gracias por el conocimiento.
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [1000664] (1)
 
-		
 		Los objetos de JavaScript son contenedores para valores con nombre llamados propiedades o métodos.
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997739](https://platzi.com/comentario/997739/) 
 
-	
 	Objetos y métodos 😄
 
-* **Juan José Vega Quintero** (1)
+* **Juan José Vega Quintero** (1) [87018](https://platzi.com/comentario/1110810/) 
 Alguien sabe por qué no funciona con arrow function?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [87018] (1)
 
-		
 		Puedes mostrarnos el ejemplo que no te funciona y te ayudamos a entender por qué no funciona o, en el mejor de los casos, cómo hacer que sí funcione.
 
-* **Jeisson Santiago Cortes Ortiz** (0)
+* **Jeisson Santiago Cortes Ortiz** (0) [1087407](https://platzi.com/comentario/1087407/) 
 
-	
 	Un objeto contiene caracteristicas(atributos) y comportamientos(metodos).
 
-## 0180. Objects Función constructora
+## 0180. Objects Función constructora [26307](https://platzi.com/clases/1814-basico-javascript/26307-objects-funcion-constructora/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Camilo Alvarez Jurado** (4)
+* **Juan Camilo Alvarez Jurado** (4) [1058626](https://platzi.com/comentario/1058626/) 
 
 	```
 	    var brands = ['Toyota', 'Mazda', 'Renault']
@@ -16362,12 +15363,11 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-	* **Israel Castro Urieta** (2)
+	* **Israel Castro Urieta** [1058626] (2)
 
-		
 		Muy elegante tu código 👏👏👏.
 
-* **Daniel Acevedo Rodriguez** (2)
+* **Daniel Acevedo Rodriguez** (2) [1114994](https://platzi.com/comentario/1114994/) 
 
 	```
 	    functionauto (marca, modelo, annio){
@@ -16397,7 +15397,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Vicente Andrés Muñoz Moller** (2)
+* **Vicente Andrés Muñoz Moller** (2) [1112144](https://platzi.com/comentario/1112144/) 
 
 	```
 	    var manufacturer = ["Toyota", "Toyota", "Toyota", "Nissan", "Nissan", "Nissan", "Honda", "Honda",
@@ -16425,9 +15425,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Lorena Pinzón** (2)
+* **Lorena Pinzón** (2) [1103813](https://platzi.com/comentario/1103813/) 
 
-	
 	Mi solución 😄
 	``` 
 	    functionauto (marca,modelo, anio){
@@ -16455,9 +15454,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **garciafran** (2)
+* **garciafran** (2) [1103424](https://platzi.com/comentario/1103424/) 
 
-	
 	¯\＿(ツ)＿/¯
 	``` 
 	    var marca = ["Toyota", "Honda", "Renault", "Volkwagen", "Chevrolet", "Ford", "Suzuki", "Mazda", "Kia", "BMW", "Nissan", "Audi", "Citroen", "Fiat", "Land Rover", "Lexus", "Jaguar", "Jeep", "Mercedes Benz", "Mitsubishi", "Maserati", "Peugeot", "Porsche", "Seat", "Skoda", "Subaru", "Tesla", "Volvo", "Cadillac", "Aston Martin"];
@@ -16478,15 +15476,13 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-	* **EfrainSanchez** (1)
+	* **EfrainSanchez** [1103424] (1)
 
-		
 		Compañero, primero gracias por tu aporte, me ayudaste mucho. Tengo una duda, ¿Por qué se crea el array vacío (listaCarros, en tu caso)? Y también, no sé si me podrías explicar como funciona en este caso la linea con el operador "New"  
 		**Gracias por tu aporte nuevamente.**
 
-* **Migrant** (2)
+* **Migrant** (2) [1099912](https://platzi.com/comentario/1099912/) 
 
-	
 	Así quedó mi code, lo único que me quedó inconcluso es que quería que cada objeto tuviera el nombre de la marca que caía al azar
 	``` 
 	    var opcionMarca = ["Lamborghini","Tesla","Mercedes Benz","Audi","Ferrari","Aston Martin","Alfa Romeo","BMW","Porshe"]
@@ -16515,9 +15511,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Daniel Esteban Santos Mendez** (2)
+* **Daniel Esteban Santos Mendez** (2) [1095733](https://platzi.com/comentario/1095733/) 
 
-	
 	Tome un poco de ayuda para saber como ingresaba los datos sin hacer HTML, no me acordaba del prompt.  
 	Esta bueno este curso!!!
 	``` 
@@ -16541,9 +15536,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Yiy0** (2)
+* **Yiy0** (2) [1085471](https://platzi.com/comentario/1085471/) 
 
-	
 	YEP
 	``` 
 	    var car_list = [];
@@ -16576,22 +15570,19 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-	* **José Bryan Aranda Figueroa** (2)
+	* **José Bryan Aranda Figueroa** [1085471] (2)
 
-		
 		Hola compañero, me gustaría saber donde o como aprendiste a crear clases en javaScript, lo que pasa es que me gusto mucho tu forma de resolverlo porque la forma que se ve en esta clase que es con la funcion construra me es menos comoda, debido a que yo vengo de estudiar java y pues la forma de crear objetos en ese lenguaje es muy similar a como tu lo hiciste
 
-	* **Yiy0** (2)
+	* **Yiy0** [1085471] (2)
 
-		
 		Gracias por tu pregunta. 😃 desconozco si la palabra “constructor” como nombre de la función es una palabra reservada o no pero yo la tome literalmente para hacer explícita, válgame la redundancia, la función de esta, si quieres profundizar en JS es recomendable el curso de fundamentos de JS y de ECMAs 6 de platzi, lo que sí conceptualmente puedo alcanzar es que tu puedes tener n numero funciones o constructores del objeto. Lamento no poder profundizar pero también soy nuevo aca XD
 
-	* **José Bryan Aranda Figueroa** (2)
+	* **José Bryan Aranda Figueroa** [1085471] (2)
 
-		
 		muchas gracias por tu respuesta compañero
 
-* **Francisco Veloz** (2)
+* **Francisco Veloz** (2) [1076313](https://platzi.com/comentario/1076313/) 
 
 	```
 	    //Arreglos
@@ -16623,12 +15614,11 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-	* **Germán González** (1)
+	* **Germán González** [1076313] (1)
 
-		
 		Muy bien explicado
 
-* **Nahuel Bonader** (2)
+* **Nahuel Bonader** (2) [1071024](https://platzi.com/comentario/1071024/) 
 
 	```
 	    functioncar(marca, modelo, annio) {
@@ -16678,9 +15668,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [1065409](https://platzi.com/comentario/1065409/) 
 
-	
 	Aqui muestro **mi solucion:**
 	``` 
 	    let cars = []
@@ -16704,7 +15693,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **caegomezda** (2)
+* **caegomezda** (2) [1063171](https://platzi.com/comentario/1063171/) 
 
 	```
 	    <code>functionmiAuto(marca, modelo, annio) {
@@ -16729,7 +15718,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **gonzaloPzl** (2)
+* **gonzaloPzl** (2) [1062551](https://platzi.com/comentario/1062551/) 
 
 	```
 	    functioncar(brand, model, year){
@@ -16748,7 +15737,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Fabián Sandobal** (2)
+* **Fabián Sandobal** (2) [1055874](https://platzi.com/comentario/1055874/) 
 
 	```
 	    var autoMarca = ["Ford", "Chevrolet", "Renault", "Toyota", "Ferrary", "Lamborgini", "Bugatti", "McClaren"];
@@ -16768,9 +15757,8 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	Comenzando me ha costado entender la lógica, pero los ejercicios van ayudando 😄
 
-* **horacio-garcia** (2)
+* **horacio-garcia** (2) [1053819](https://platzi.com/comentario/1053819/) 
 
-	
 	Reto
 	``` 
 	    let cars = 
@@ -16792,14 +15780,12 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **bryanjavier** (2)
+* **bryanjavier** (2) [1053663](https://platzi.com/comentario/1053663/) 
 
-	
 	Recomiendo mucho el curso de programación orientada a objetos, usa un ejemplo muy bueno durante todo el curso.
 
-* **jonymonroy** (2)
+* **jonymonroy** (2) [1048093](https://platzi.com/comentario/1048093/) 
 
-	
 	Una solución:
 	``` 
 	    functionauto(marca, modelo, annio){
@@ -16819,7 +15805,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Bárbara de los Ángeles Morantes Carvajal** (2)
+* **Bárbara de los Ángeles Morantes Carvajal** (2) [1041712](https://platzi.com/comentario/1041712/) 
 
 	```
 	    <code>
@@ -16887,7 +15873,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **mexicansauce** (2)
+* **mexicansauce** (2) [1040477](https://platzi.com/comentario/1040477/) 
 
 	```
 	    var marcas = ["Ford", "Susuki", "BMW"];
@@ -16907,14 +15893,12 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **heortizr** (1)
+* **heortizr** (1) [1117576](https://platzi.com/comentario/1117576/) 
 
-	
 	por convencion la funcion constructora (aka constructor) debe iniciar con mayuscula
 
-* **Alejandro Luján** (1)
+* **Alejandro Luján** (1) [1113473](https://platzi.com/comentario/1113473/) 
 
-	
 	Listo!! 😛
 	``` 
 	    let manufacturer = [
@@ -17006,7 +15990,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **david1pc** (1)
+* **david1pc** (1) [1110730](https://platzi.com/comentario/1110730/) 
 
 	```
 	    marca = ["Nissan", "Ferrari", "Toyota", "Renault"];
@@ -17031,9 +16015,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [1108561](https://platzi.com/comentario/1108561/) 
 
-	
 	Mi solución, es un poco floja en cuanto a los datos de los carros, pero no tenia tiempo para investigar modelos y marcas:
 	``` 
 	    function car(brand, model, year) {
@@ -17076,7 +16059,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **eduardovinagre** (1)
+* **eduardovinagre** (1) [1105680](https://platzi.com/comentario/1105680/) 
 
 	```
 	    functionauto(marca, modelo, anio) {
@@ -17163,9 +16146,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **jandresfr** (1)
+* **jandresfr** (1) [1104938](https://platzi.com/comentario/1104938/) 
 
-	
 	function constructorAuto(marca, modelo, anio){  
 	this.marca = marca;  
 	this.modelo = modelo;  
@@ -17191,9 +16173,8 @@ Alguien sabe por qué no funciona con arrow function?
 	[//console.log](//console.log)(listadoDeAutos[2]);  
 	[//console.log](//console.log)(listadoDeAutos[3]);
 
-* **jandresfr** (1)
+* **jandresfr** (1) [1104937](https://platzi.com/comentario/1104937/) 
 
-	
 	function constructorAuto(marca, modelo, anio){  
 	this.marca = marca;  
 	this.modelo = modelo;  
@@ -17214,9 +16195,8 @@ Alguien sabe por qué no funciona con arrow function?
 	console.log(listadoDeAutos[j]);  
 	}
 
-* **OscarAn** (1)
+* **OscarAn** (1) [1104040](https://platzi.com/comentario/1104040/) 
 
-	
 	function auto(marca,modelo,annio){  
 	this.marca = marca;  
 	this.modelo = modelo;  
@@ -17235,14 +16215,12 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	//No se si sea la mejor solución pero salio. De hecho tiene de seguro tiene muchos errores
 
-* **ernestojv** (1)
+* **ernestojv** (1) [1103906](https://platzi.com/comentario/1103906/) 
 
-	
 	Bastante parecido a Java, pero un poco mas fácil.
 
-* **vanesora** (1)
+* **vanesora** (1) [1103518](https://platzi.com/comentario/1103518/) 
 
-	
 	me consto un chingo! para la proxima, explicar random, floor y math… gracias
 	``` 
 	    functiongetRandomInt(min, max) {
@@ -17281,9 +16259,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1102823](https://platzi.com/comentario/1102823/) 
 
-	
 	Hola, como están??? Así fue como me quedo el código!!!
 	
 	NEW = Va a generar una nueva instancia de nuestra función constructora.
@@ -17310,7 +16287,7 @@ Alguien sabe por qué no funciona con arrow function?
 	}  
 	…
 
-* **Luis Alejandro Medina Escobar** (1)
+* **Luis Alejandro Medina Escobar** (1) [1099697](https://platzi.com/comentario/1099697/) 
 
 	```
 	    var modelo = [0,1,2,3,4,0,1,2,3,4,0,1,2,3,4,0,1,2,3,4,0,1,2,3,4,0,1,2,3,4];
@@ -17333,9 +16310,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Arturo Linares** (1)
+* **Arturo Linares** (1) [1099108](https://platzi.com/comentario/1099108/) 
 
-	
 	var marca = [“Toyota”,“BMW”,“Lamborghini”,“Ferrari”,“Corvette”];  
 	var tipo = [“sport”, “carrera”,“clasico”,“noche”,“Dia”];  
 	var annio = [2020, 2018, 2019,2025,2040];
@@ -17352,7 +16328,7 @@ Alguien sabe por qué no funciona con arrow function?
 	console.log(autoNuevo);  
 	}
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [1098994](https://platzi.com/comentario/1098994/) 
 
 	```
 	    let marca = [ 'Honda', 'Chevrolet', 'Audi', 'BMW', 'Tesla', 'Toyota']
@@ -17382,9 +16358,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097658](https://platzi.com/comentario/1097658/) 
 
-	
 	Aquí mi solución!
 	``` 
 	    function auto(auto,modelo,anio){
@@ -17409,7 +16384,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **miguelgz18** (1)
+* **miguelgz18** (1) [1096210](https://platzi.com/comentario/1096210/) 
 
 	```
 	    functionauto( modelo, marca, annio ){
@@ -17435,28 +16410,24 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **fabio-hernan-mosquera-obando** (1)
+* **fabio-hernan-mosquera-obando** (1) [1095639](https://platzi.com/comentario/1095639/) 
 
-	
 	en la funcion constructora this es el objeto = auto  
 	entonces la marca del auto sera igual al parametro marca asi:  
 	this.marca= marca; que es uno de los parametros de la funcion.
 	
 	asi lo entiendo. si alguien tiene alguna observacion con gusto la aceptare.
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [1095639] (1)
 
-		
 		Si asi como lo planteas efectivamente.
 
-* **Guido Fortunato** (1)
+* **Guido Fortunato** (1) [1093597](https://platzi.com/comentario/1093597/) 
 
-	
 	por que en la funcion constructora pone this.marca = marca? cual es el sentido?
 
-	* **Robinson Matias Aguilar Bascuñan** (2)
+	* **Robinson Matias Aguilar Bascuñan** [1093597] (2)
 
-		
 		basicamente, lo que te intenta decir es que
 		
 		this.marca (es una variable creada por this dentro de la funcion, una variable local)
@@ -17470,28 +16441,25 @@ Alguien sabe por qué no funciona con arrow function?
 		la variable creada por this  
 		}
 
-	* **richardberna211** (1)
+	* **richardberna211** [1093597] (1)
 
-		
 		this hace referencia a las propiedades del objeto, en el ejemplo el caso es el siguiente:  
 		this.marca = marca // quiere decir que a la propiedad marca del objeto se le asigne el valor que se esta pasando al instanciar el objeto.  
 		Para ser mas entendible si cambias el nombre de la variable que se esta pasando **marca** pero selelasigne a la propiedad marca igual funcionará.
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [1093597] (1)
 
-		
 		Por que cuando se instancie la función le van a tener q pasar una marca.  
 		Y esa marca que se pasa como parametro directamente se asignara a la variable marca que tienes declarada dentro de la función.
 
-* **Guido Fortunato** (1)
+* **Guido Fortunato** (1) [1093567](https://platzi.com/comentario/1093567/) 
 
-	
 	Buenas, una consulta que no tiene que ver con la clase en si.  
 	En visual studio code tengo un plugin por defecto que te remarca con un rectangulo las llaves, los parentesis, eso quisiera sacarlo pero nose como!  
 	Instale el Bracket Pair Colorizer que te remarca de diferentes colores las llaves, parentesis, pero sigo teniendo ese rectangulo molesto en cada uno de ellos.  
 	Gracias!
 
-* **picojohn** (1)
+* **picojohn** (1) [1091764](https://platzi.com/comentario/1091764/) 
 
 	```
 	    functionauto(marca, modelo, annio){
@@ -17516,7 +16484,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Ender José Urdaneta Ocando** (1)
+* **Ender José Urdaneta Ocando** (1) [1089749](https://platzi.com/comentario/1089749/) 
 
 	```
 	    functionauto(marca,modelo,year){
@@ -17543,40 +16511,34 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Angelo Zambrano** (1)
+* **Angelo Zambrano** (1) [1089323](https://platzi.com/comentario/1089323/) 
 
-	
 	Reto:  
 	![RetoObjetos.PNG](https://static.platzi.com/media/user_upload/RetoObjetos-1a13631e-62ca-4a1a-a1f3-7ee9c822e586.jpg)
 
-	* **Juan Pedraza** (2)
+	* **Juan Pedraza** [1089323] (2)
 
-		
 		¿Eso ya es typescript?
 
-	* **Angelo Zambrano** (1)
+	* **Angelo Zambrano** [1089323] (1)
 
-		
 		@juan-pedraza Sí!
 
-	* **Juan Pedraza** (2)
+	* **Juan Pedraza** [1089323] (2)
 
-		
 		aaaahhh bueno… Ya otro nivel.
 		
 		Gracias por compartir tus avances
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [1089323] (1)
 
-		
 		Vengo de java y es muy parecida la forma de trabajarlo. Gracias por tu aporte amigo empezare a mirar mas sobre typeScript
 
-	* **Angelo Zambrano** (1)
+	* **Angelo Zambrano** [1089323] (1)
 
-		
 		Vos que conoces Java sabes la importancia de tener tipado el código. Gracias por comentar. Saludos!
 
-* **Juan Teixeira** (1)
+* **Juan Teixeira** (1) [1088769](https://platzi.com/comentario/1088769/) 
 
 	```
 	    functionauto(marca, modelo, annio){
@@ -17604,9 +16566,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **pablopazos** (1)
+* **pablopazos** (1) [1088610](https://platzi.com/comentario/1088610/) 
 
-	
 	function coche (marca, modelo, ano) {  
 	this.marca = marca;  
 	this.modelo = modelo;  
@@ -17632,9 +16593,8 @@ Alguien sabe por qué no funciona con arrow function?
 	console.log(newCoche);  
 	}
 
-* **Jaime Agustí** (1)
+* **Jaime Agustí** (1) [1088458](https://platzi.com/comentario/1088458/) 
 
-	
 	function auto (marca, modelo, annio) {  
 	this.marca = marca;  
 	this.modelo = modelo;  
@@ -17662,14 +16622,12 @@ Alguien sabe por qué no funciona con arrow function?
 	console.log (`Auto ${NewMarca} ${NewModelo} ${NewAnnio}`);  
 	}
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1087558](https://platzi.com/comentario/1087558/) 
 
-	
 	.
 
-* **tito jesús yanac saldaña Yanac Saldaña** (1)
+* **tito jesús yanac saldaña Yanac Saldaña** (1) [1087495](https://platzi.com/comentario/1087495/) 
 
-	
 	var mod = [“a”,“b”,“c”,“d”];  
 	var an = [2001, 2002, 2003, 2004];  
 	var mar = [“toyota”, “nissan”, “pedro”, “acme”];
@@ -17694,14 +16652,12 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	}
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1087467](https://platzi.com/comentario/1087467/) 
 
-	
 	:0
 
-* **José Bryan Aranda Figueroa** (1)
+* **José Bryan Aranda Figueroa** (1) [1087364](https://platzi.com/comentario/1087364/) 
 
-	
 	aquí esta mi reto
 	``` 
 	    <code>
@@ -17729,7 +16685,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **vrgrajeda** (1)
+* **vrgrajeda** (1) [1084960](https://platzi.com/comentario/1084960/) 
 
 	```
 	    var listaDeAutos = [];
@@ -17767,9 +16723,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Messorid** (1)
+* **Messorid** (1) [1083575](https://platzi.com/comentario/1083575/) 
 
-	
 	const marca = [“Toyota”,“Chery”,“Mazda”,“aveo”,“fiesta”,“chevrolet”]  
 	const modelo = [“Modelo 1”,“Modelo 2”, “Modelo X”]  
 	const año = [2017,2018,2019]  
@@ -17795,7 +16750,7 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	}
 
-* **Daniel Cuevas** (1)
+* **Daniel Cuevas** (1) [1082016](https://platzi.com/comentario/1082016/) 
 
 	```
 	    var marcas = ["Tesla", "Toyota", "Mazda"];
@@ -17822,7 +16777,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **ALBERTO JOSE MORALES BOSCAN** (1)
+* **ALBERTO JOSE MORALES BOSCAN** (1) [1081498](https://platzi.com/comentario/1081498/) 
 
 	```
 	    functionconcesionario(marca, modelo, annio){
@@ -17854,7 +16809,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1081459](https://platzi.com/comentario/1081459/) 
 
 	```
 	    functionauto(marca, model, annio) {
@@ -17875,10 +16830,11 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **cesaraguilareduardoromero** (1)
-![reto2.PNG](https://static.platzi.com/media/user_upload/reto2-bc116193-b3a2-4403-861c-e81c549f3d4a.jpg)
+* **cesaraguilareduardoromero** (1) [1081411](https://platzi.com/comentario/1081411/) 
+	
+	![reto2.PNG](https://static.platzi.com/media/user_upload/reto2-bc116193-b3a2-4403-861c-e81c549f3d4a.jpg)
 
-* **Alexis Maximiliano Nieva** (1)
+* **Alexis Maximiliano Nieva** (1) [1080260](https://platzi.com/comentario/1080260/) 
 
 	```
 	    functionauto(marca,modelo,annio){
@@ -17903,7 +16859,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Danilo Josué Huacón Aguirre** (1)
+* **Danilo Josué Huacón Aguirre** (1) [1079855](https://platzi.com/comentario/1079855/) 
 
 	```
 	    functionauto(marca, modelo, ano){
@@ -17926,15 +16882,17 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Germán Moreno** (1)
-![code2.png](https://static.platzi.com/media/user_upload/code2-8c0d95df-a435-46e6-8e9c-3bc3811d2003.jpg)
+* **Germán Moreno** (1) [1077883](https://platzi.com/comentario/1077883/) 
+	
+	![code2.png](https://static.platzi.com/media/user_upload/code2-8c0d95df-a435-46e6-8e9c-3bc3811d2003.jpg)
 	
 	¡Excelente práctica!
 
-* **Ines Patricia Contreras Espiritu** (1)
-![reto 3.PNG](https://static.platzi.com/media/user_upload/reto%203-126b9418-bb58-4d7a-b5e8-edd4be64b293.jpg)
+* **Ines Patricia Contreras Espiritu** (1) [1076163](https://platzi.com/comentario/1076163/) 
+	
+	![reto 3.PNG](https://static.platzi.com/media/user_upload/reto%203-126b9418-bb58-4d7a-b5e8-edd4be64b293.jpg)
 
-* **JIMMY STEVE OSMA JEREZ** (1)
+* **JIMMY STEVE OSMA JEREZ** (1) [1075682](https://platzi.com/comentario/1075682/) 
 
 	```
 	    function auto(marca,modelo,annio){
@@ -17955,9 +16913,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **luisP** (1)
+* **luisP** (1) [1075515](https://platzi.com/comentario/1075515/) 
 
-	
 	No era lo q esperaba
 	``` 
 	    var auto = [];
@@ -17974,17 +16931,16 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1074600](https://platzi.com/comentario/1074600/) 
 
-	
 	Excelente clase.
 
-* **Julian Ignacio Carelli** (1)
-![Captura de pantalla \(52\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2852%29-6c7c89b4-5c37-4489-a22e-df591cb7c230.jpg)
-
-* **Christian David Sánchez** (1)
-
+* **Julian Ignacio Carelli** (1) [1072600](https://platzi.com/comentario/1072600/) 
 	
+	![Captura de pantalla \(52\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2852%29-6c7c89b4-5c37-4489-a22e-df591cb7c230.jpg)
+
+* **Christian David Sánchez** (1) [1071501](https://platzi.com/comentario/1071501/) 
+
 	Los objetos también pueden tener métodos .
 	
 	Los métodos son acciones que se pueden realizar en objetos.
@@ -17992,9 +16948,8 @@ Alguien sabe por qué no funciona con arrow function?
 	Los métodos se almacenan en propiedades como definiciones de funciones .  
 	En una definición de función, se thisrefiere al “propietario” de la función.
 
-* **joaomesa** (1)
+* **joaomesa** (1) [1069666](https://platzi.com/comentario/1069666/) 
 
-	
 	Comparto ejercicio propuesto:
 	``` 
 	    let autoNuevo = [];
@@ -18020,9 +16975,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **isabellaahc** (1)
+* **isabellaahc** (1) [1069509](https://platzi.com/comentario/1069509/) 
 
-	
 	Aquí mi ejercicio 😃
 	``` 
 	    functioncar(brand, model, year) {
@@ -18051,9 +17005,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Rafael Muñoz Pérez** (1)
+* **Rafael Muñoz Pérez** (1) [1068017](https://platzi.com/comentario/1068017/) 
 
-	
 	const MARCAS = [“Toyota”, “Ford”, “Ferrari”, “VW”, “BMW”, “Mercedez Benz”, “Nissan”];  
 	const MODELOS = [“Sentra”, “Focus”, “Diablo”, “Camry”, “Corolla”, “A7”, “Jetta”, “Golf”,“Tacoma”,“Hilux”];  
 	var vehiculos = [];  
@@ -18073,10 +17026,11 @@ Alguien sabe por qué no funciona con arrow function?
 	console.log(auto);  
 	}
 
-* **danielbandera** (1)
-![autosnuevos.PNG](https://static.platzi.com/media/user_upload/autosnuevos-04b32afd-b5a9-457a-80bf-0c6c2bd02c7f.jpg)
+* **danielbandera** (1) [1066773](https://platzi.com/comentario/1066773/) 
+	
+	![autosnuevos.PNG](https://static.platzi.com/media/user_upload/autosnuevos-04b32afd-b5a9-457a-80bf-0c6c2bd02c7f.jpg)
 
-* **wAguilar** (1)
+* **wAguilar** (1) [1065285](https://platzi.com/comentario/1065285/) 
 
 	```
 	    var carro ;
@@ -18113,13 +17067,12 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Bryan Gallo** (1)
+* **Bryan Gallo** (1) [1065125](https://platzi.com/comentario/1065125/) 
 
-	
 	Este es mi reto de la Función constructora hasta ahora voy entendiendo todo del curso el profe explica muy bien espero continuar así en los demás cursos de la escuela de JavaScript  
 	![Captura de pantalla \(388\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%28388%29-44f7f230-b3ad-47ed-adb2-21004c4e5023.jpg)
 
-* **edgar limones lozano** (1)
+* **edgar limones lozano** (1) [1064285](https://platzi.com/comentario/1064285/) 
 
 	```
 	    var autos = [];
@@ -18153,7 +17106,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1060873](https://platzi.com/comentario/1060873/) 
 
 	```
 	    <code>
@@ -18173,7 +17126,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Alejandro Cruzado Rosas** (1)
+* **Alejandro Cruzado Rosas** (1) [1060638](https://platzi.com/comentario/1060638/) 
 
 	```
 	    var autos = [];
@@ -18208,9 +17161,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **DevNaftan** (1)
+* **DevNaftan** (1) [1060019](https://platzi.com/comentario/1060019/) 
 
-	
 	**Reto cumplido**
 	``` 
 	    // Pregunta el número de autos a ingresar
@@ -18252,9 +17204,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [1056136](https://platzi.com/comentario/1056136/) 
 
-	
 	No estoy seguro si es lo que se pidió pero va 😬
 	``` 
 	    functionautoMobile(brand, model, year, style)
@@ -18349,7 +17300,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **stwanga** (1)
+* **stwanga** (1) [1054895](https://platzi.com/comentario/1054895/) 
 
 	```
 	    var arrayMarca = ["Ford","Hyundai","Ferrari"]
@@ -18380,7 +17331,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1054722](https://platzi.com/comentario/1054722/) 
 
 	```
 	    const currentYear = newDate();
@@ -18452,7 +17403,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    console.log(cars)```
 	```
 
-* **jaguarjs** (1)
+* **jaguarjs** (1) [1053863](https://platzi.com/comentario/1053863/) 
 
 	```
 	    const modelos = ["Mustang","Camaro","Challenger"]
@@ -18481,7 +17432,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Alejandro Ernesto Vargas Vaca** (1)
+* **Alejandro Ernesto Vargas Vaca** (1) [1053674](https://platzi.com/comentario/1053674/) 
 
 	```
 	    var marcas_pool     = ["Ford","Hyundai","Honda"];
@@ -18502,7 +17453,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Joseph Paucar** (1)
+* **Joseph Paucar** (1) [1051919](https://platzi.com/comentario/1051919/) 
 
 	```
 	    brand_pool = ["Tesla", "Toyota", "Renault", "Suzuki"]
@@ -18528,24 +17479,20 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-	* **MARCO ANTONIO FUERTES VASQUEZ** (1)
+	* **MARCO ANTONIO FUERTES VASQUEZ** [1051919] (1)
 
-		
 		Solo creando una operacion random (rand) y llamarla de acuerdo al atributo es lo mismo (a menos que en cada atributo tengas diferente lenght??
 
-	* **Joseph Paucar** (1)
+	* **Joseph Paucar** [1051919] (1)
 
-		
 		Pasa que yo lo probé solo con un rand y me votaba valores iguales por eso opte por poner 3 para que no ocurra, imagino que se puede mejorar el código pero lo trabaje como pude 😛
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050366](https://platzi.com/comentario/1050366/) 
 
-	
 	Excelente
 
-* **Andres Felipe Galeano** (1)
+* **Andres Felipe Galeano** (1) [1048729](https://platzi.com/comentario/1048729/) 
 
-	
 	Una posible solución:
 	``` 
 	    var marca = ["Toyota","Chevrolet","Mazda","Masserati","Ford"];
@@ -18576,7 +17523,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **mr_alex** (1)
+* **mr_alex** (1) [1038791](https://platzi.com/comentario/1038791/) 
 
 	```
 	    var marcas=["Tesla", "Ford", "Toyota"];
@@ -18627,7 +17574,7 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	![](![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-a6d9fed7-49d6-452e-8412-e83caf8e19a1.jpg)
 
-* **Gabriel Alejandro Delgado Álvarez** (1)
+* **Gabriel Alejandro Delgado Álvarez** (1) [1037752](https://platzi.com/comentario/1037752/) 
 
 	```
 	    for (i = 0; i < 30; i++) {
@@ -18641,7 +17588,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Daniel Melchor** (1)
+* **Daniel Melchor** (1) [1037501](https://platzi.com/comentario/1037501/) 
 
 	```
 	    var marcas  = ["Bmw", "Audi", "Hyundai", "Nissan", "Toyota"];
@@ -18671,14 +17618,13 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Diego Fernando Rojas Quintero** (1)
+* **Diego Fernando Rojas Quintero** (1) [1036731](https://platzi.com/comentario/1036731/) 
 
-	
 	Reto superado
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-b49065c9-f1ec-48a7-ad94-8f6234e64db0.jpg)
 
-* **yeseniamosqueragil** (1)
+* **yeseniamosqueragil** (1) [1036455](https://platzi.com/comentario/1036455/) 
 
 	```
 	    let arrayMarcas = ['Mazda','Renault','Chevrolet','Dodge','Citroen','Peugeot','BMW','Mercedez Benz'];
@@ -18698,9 +17644,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **eocas98** (1)
+* **eocas98** (1) [1034111](https://platzi.com/comentario/1034111/) 
 
-	
 	Dejo mi solución
 	``` 
 	    let autoModelo = [
@@ -18737,9 +17682,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **jee4nc1** (1)
+* **jee4nc1** (1) [1029432](https://platzi.com/comentario/1029432/) 
 
-	
 	Este es mi codigo
 	``` 
 	    functionmakeAutos(marca,modelo,annio) {
@@ -18755,7 +17699,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Almu_timkerbell** (1)
+* **Almu_timkerbell** (1) [1029292](https://platzi.com/comentario/1029292/) 
 
 	```
 	    var plato = ["arrozKimchi", "kimchiJeon", "sobaNoodles", "udon"];
@@ -18775,7 +17719,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Daniel Felipe Merchan Fuquen** (1)
+* **Daniel Felipe Merchan Fuquen** (1) [1028439](https://platzi.com/comentario/1028439/) 
 
 	```
 	    functionauto(marca, modelo, annio) {
@@ -18795,7 +17739,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Estiventh Leonardo Neira Aldana** (1)
+* **Estiventh Leonardo Neira Aldana** (1) [1027681](https://platzi.com/comentario/1027681/) 
 
 	```
 	    functioncontructora (modelo, annio, precio) {
@@ -18814,7 +17758,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **luismoncada558** (1)
+* **luismoncada558** (1) [1023950](https://platzi.com/comentario/1023950/) 
 
 	```
 	    //FUNCION CONSTRUCTORA
@@ -18841,9 +17785,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **dariusv** (1)
+* **dariusv** (1) [1020031](https://platzi.com/comentario/1020031/) 
 
-	
 	¿Alguien me podría explicar cual es el error en mi código?, intento ejecutarlo en la consola del navegador pero no hace nada  
 	var carros= [];
 	
@@ -18863,14 +17806,12 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	console.log(carros);
 
-	* **jaimesan1231** (1)
+	* **jaimesan1231** [1020031] (1)
 
-		
 		el problema esta en el for(var i = 1; i >= 30; i++) ese i >= 30 deberia ser i <= 30
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1019555](https://platzi.com/comentario/1019555/) 
 
-	
 	Les comparto otra forma de resolverlo con menos código que el ejercicio que publiqué hace unas horas:
 	``` 
 	    // CONSTRUCTOR
@@ -18893,9 +17834,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1019051](https://platzi.com/comentario/1019051/) 
 
-	
 	**Les comparto mi solución** \- Creo un Array vacío y por medio de una función agrego más Items.
 	
 	Al final me di cuenta que no necesite usar ningún ciclo. Voy a intentar una segunda solución usando algún ciclo.
@@ -18931,9 +17871,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Orlax** (1)
+* **Orlax** (1) [1013006](https://platzi.com/comentario/1013006/) 
 
-	
 	Una solución :
 	``` 
 	    //función constructora
@@ -18960,9 +17899,8 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [1010521](https://platzi.com/comentario/1010521/) 
 
-	
 	Reto:
 	``` 
 	    var listaCarros = [];
@@ -18981,7 +17919,7 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Alexei Alvarez** (1)
+* **Alexei Alvarez** (1) [1010364](https://platzi.com/comentario/1010364/) 
 
 	```
 	    let name = ["toyota", "subaru", "audi"];
@@ -19004,18 +17942,16 @@ Alguien sabe por qué no funciona con arrow function?
 	
 	este es mi aporte, que tal esta
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [1010364] (1)
 
-		
 		La condición del FOR está sobre explicada, no son necesarias tantas condiciones porque los 3 arrays poseen los mismos elementos. Bastaría con:
 		``` 
 		    for(let i = 0; i <name.length; i++)
 		    
 		```
 
-	* **Alexei Alvarez** (0)
+	* **Alexei Alvarez** [1010364] (0)
 
-		
 		Pero si fueran datos diferentes. Eso lo hice a la carrera.
 		
 		Por ejemplo año de lanzamiento.  
@@ -19023,14 +17959,12 @@ Alguien sabe por qué no funciona con arrow function?
 		
 		Debería de hacerlo como lo hice o hay alguna otra forma.?
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [1010364] (1)
 
-		
 		Como lo hiciste está muy bien, no te enfoques en esas cosas por ahora, dedícate a aprender más del lenguaje, que tu lógica es muy buena.
 
-* **Alfonso Luis Arrieta Hernández** (1)
+* **Alfonso Luis Arrieta Hernández** (1) [1008870](https://platzi.com/comentario/1008870/) 
 
-	
 	Aquí mi reto funcional.
 	``` 
 	    functionvehiculo (marca, modelo, annio){
@@ -19051,25 +17985,24 @@ Alguien sabe por qué no funciona con arrow function?
 	    
 	```
 
-* **Ronal Roberto Choque Copa** (1)
-![udtt.png](https://static.platzi.com/media/user_upload/udtt-c5b7b1e1-6869-47ac-a7fe-cbdf93d0c3db.jpg)
+* **Ronal Roberto Choque Copa** (1) [1007801](https://platzi.com/comentario/1007801/) 
+	
+	![udtt.png](https://static.platzi.com/media/user_upload/udtt-c5b7b1e1-6869-47ac-a7fe-cbdf93d0c3db.jpg)
 
-* **Marcos Vargas** (1)
+* **Marcos Vargas** (1) [86201](https://platzi.com/comentario/1090485/) 
 buenas noches, tengo una duda sobre la funcion constructora, es lo mismo que usar clases? que diferencia hay? cual es recomendable usar?
 
-	* **Robinson Matias Aguilar Bascuñan** (1)
+	* **Robinson Matias Aguilar Bascuñan** [86201] (1)
 
-		
 		claro puede ser lo mismo, ya que con las clases tu creas una funcion constructora en base a las variables de la clase, y tu clase pasaria a ser tu objeto, y es la que mas sirve, ya que mas adelante empezaras a ocupar patrones de diseño, y en el modelo MVC te servira
 		
 		lo que el muestra aqui es un ejemplo constructor con un objeto simple
 
-* **Ariel Luna** (1)
+* **Ariel Luna** (1) [84745](https://platzi.com/comentario/1057933/) 
 Consulta:Si la funcion construcntora que se crea con la palabra reservada “new” crea una instancia de un objeto. Porque este objeto no he...
 
-	* **Fernando Alejandro Yerena Ramos** (1)
+	* **Fernando Alejandro Yerena Ramos** [84745] (1)
 
-		
 		Espero explicarlo de la mejor manera. 😅
 		
 		<h3>Bases</h3>
@@ -19108,12 +18041,12 @@ Consulta:Si la funcion construcntora que se crea con la palabra reservada “new
 		
 		> De this objeto (llamado constructor) reserva un espacio en memoria llamado “marca” y en él, almacena lo que recibas como argumento en el parámetro marca.
 		
-		  * 
+		* 
 		
 		
 		> De this objeto (llamado constructor) reserva un espacio en memoria llamado “modelo” y en él, almacena lo que recibas como argumento en el parámetro modelo.
 		
-		  * 
+		* 
 		
 		
 		> De this objeto (llamado constructor) reserva un espacio en memoria llamado “año” y en él, almacena lo que recibas como argumento en el parámetro año.
@@ -19130,48 +18063,43 @@ Consulta:Si la funcion construcntora que se crea con la palabra reservada “new
 		
 		![](https://i.imgur.com/DoRQ1jU.png)
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [83970](https://platzi.com/comentario/1039404/) 
 var marcas = ['Tesla','Nikola'] var modelos = ['Modelo S','Modelo E','Modelo X'] var annio = 2020 var indexMarca = 0 var indexMode...
 
-* **Almu_timkerbell** (1)
+* **Almu_timkerbell** (1) [83433](https://platzi.com/comentario/1026584/) 
 No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”, ¿qué objetivo tiene? Al final del día, para crear un nuevo o...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [83433] (2)
 
-		
 		Hola, el ejercicio es que tengas por ejemplo un json con los datos de los 30 autos y con un ciclo for recorrer el json y crear una instancia de auto por cada elemento en el json.
 
-# Métodos de Arrays
+# Métodos de Arrays [5335]
 
-## 0190. Métodos de recorridos de Arrays
+## 0190. Métodos de recorridos de Arrays [26308](https://platzi.com/clases/1814-basico-javascript/26308-metodos-de-recorridos-de-arrays/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **axlina90** (9)
+* **axlina90** (9) [1000159](https://platzi.com/comentario/1000159/) 
 
-	
 	 **.filter** : nos permite filtrar solo los elementos que deseamos (según ciertos criterios) y devolverlos en un nuevo array.  
 	**.map** : crea un nuevo array con los resultados de la llamada a la función indicada aplicados a cada uno de sus elementos.
 
-* **hidalgolopezdaniel** (7)
+* **hidalgolopezdaniel** (7) [1019787](https://platzi.com/comentario/1019787/) 
 
-	
 	Descubrí que existe esta pag: <https://jsconsole.com/>
 
-* **Miguel Sequeiros Arapa** (6)
+* **Miguel Sequeiros Arapa** (6) [1055770](https://platzi.com/comentario/1055770/) 
 
-	
 	Hay un montón de métodos útiles que harán vuestra vida más sencilla y que vuestro código sea más eficiente!!!
 	
 	chequéenlos en :  
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array>
 
-* **dariusv** (3)
+* **dariusv** (3) [1020040](https://platzi.com/comentario/1020040/) 
 
-	
 	¿por que en la función del método .map() puedo escribir como parámetro “articulo” o “articulos” y obtengo el mismo resultado?  
 	var nombreArticulos = articulos.map(function(articulo){  
 	return articulo.nombre;  
@@ -19181,9 +18109,8 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	return articulos.nombre;  
 	});
 
-	* **Alvaro Garracini** (7)
+	* **Alvaro Garracini** [1020040] (7)
 
-		
 		Hola dariusv!
 		
 		Es porque el parámetro de la función es solamente un nombre con el cual se recorrerá el array.
@@ -19196,7 +18123,7 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 		
 		Saludos 😃
 
-* **Daniel .** (2)
+* **Daniel .** (2) [1069224](https://platzi.com/comentario/1069224/) 
 
 	```
 	    var autos = ['Audi','BMW','Chevrolet','Ford'];
@@ -19226,7 +18153,7 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [1054751](https://platzi.com/comentario/1054751/) 
 
 	```
 	    const articulos = [
@@ -19248,7 +18175,7 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **yeseniamosqueragil** (2)
+* **yeseniamosqueragil** (2) [1044243](https://platzi.com/comentario/1044243/) 
 
 	```
 	    var articulos = [
@@ -19274,37 +18201,31 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-	* **all_nexus** (1)
+	* **all_nexus** [1044243] (1)
 
-		
 		cordial saludo, Yesenia tienes un error en tu código, debes iterar articulos, no articulosComprados, esto te generar un error articulosComprados is not define
 
-* **Javier Armando Vargas Vega** (2)
+* **Javier Armando Vargas Vega** (2) [1001693](https://platzi.com/comentario/1001693/) 
 
-	
 	Esas funciones map y filter se ven muy poderosas.
 
-* **Laurapregonero** (1)
+* **Laurapregonero** (1) [1109967](https://platzi.com/comentario/1109967/) 
 
-	
 	Esta Clase fue muy interesante por que el profe explico estos dos Métodos de una forma muy sencilla.
 	
 	FILTER(): Nos ayuda a filtar cosas especificas de este array.  
 	MAP() : Nos ayuda a mapear el contenido del array y nos trae lo que necesitamos.
 
-* **platzerito080420202** (1)
+* **platzerito080420202** (1) [1105852](https://platzi.com/comentario/1105852/) 
 
-	
 	El ejemplo es como un buscador.
 
-* **eduvra** (1)
+* **eduvra** (1) [1104442](https://platzi.com/comentario/1104442/) 
 
-	
 	Super bien explicado, Diego!
 
-* **garciafran** (1)
+* **garciafran** (1) [1103477](https://platzi.com/comentario/1103477/) 
 
-	
 	Muy importantes los metodos asociados a los array.
 	``` 
 	    //busqueda mediante filter
@@ -19345,22 +18266,19 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-	* **platzerito080420202** (1)
+	* **platzerito080420202** [1103477] (1)
 
-		
 		ajjjajajjja
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097674](https://platzi.com/comentario/1097674/) 
 
-	
 	Estos métodos son esenciales en JS, y no importa el framework, librería que estés usando. Estos metodos siempre siempre los vas a usar!!
 
-* **picojohn** (1)
+* **picojohn** (1) [1091777](https://platzi.com/comentario/1091777/) 
 
-	
 	buena clase
 
-* **Beto Cortés** (1)
+* **Beto Cortés** (1) [1090163](https://platzi.com/comentario/1090163/) 
 
 	```
 	    var autos = ["Audi", "Tesla", "Nissan"];
@@ -19394,7 +18312,7 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-	* **ag94e** (1)
+	* **ag94e** [1090163] (1)
 
 		```
 		    var autos = ["Audi", "Tesla", "Nissan"];
@@ -19427,42 +18345,35 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 		
 		Solo cuida la sintaxis cuando generes el nuevo objeto, y en los for los operadores comparativos estaban al revés, si funciona! saludos. 😃
 
-* **cesaraguilareduardoromero** (1)
+* **cesaraguilareduardoromero** (1) [1083709](https://platzi.com/comentario/1083709/) 
 
-	
 	estos metodos de recorridos, son de mucha ayuda en proyectos avanzados
 
-* **Javier Andres Gamboa Duarte** (1)
+* **Javier Andres Gamboa Duarte** (1) [1083039](https://platzi.com/comentario/1083039/) 
 
-	
 	super importantes estos métodos
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1079357](https://platzi.com/comentario/1079357/) 
 
-	
 	Entendido.
 
-* **Germán González** (1)
+* **Germán González** (1) [1077321](https://platzi.com/comentario/1077321/) 
 
-	
 	Ententidoooo
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1076002](https://platzi.com/comentario/1076002/) 
 
-	
 	Entendido.
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1071855](https://platzi.com/comentario/1071855/) 
 
-	
 	 **Map** devuelve una nueva matriz de elementos donde ha aplicado alguna función en el elemento para que cambie el elemento original (normalmente). mientras que **Filter** devuelve una nueva matriz de los elementos de la matriz original (sin cambios en los valores originales).
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050436](https://platzi.com/comentario/1050436/) 
 
-	
 	Excelente
 
-* **Eleazar Carreón Álvarez** (1)
+* **Eleazar Carreón Álvarez** (1) [1009660](https://platzi.com/comentario/1009660/) 
 
 	```
 	    const productos = [
@@ -19481,42 +18392,35 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **Martin L.** (1)
+* **Martin L.** (1) [1001962](https://platzi.com/comentario/1001962/) 
 
-	
 	cual es la diferencia entre map y filter?
 
-	* **LinusToolbar** (6)
+	* **LinusToolbar** [1001962] (6)
 
-		
 		con el prototipo de Map, modificas los elementos, mientras que con Filter, filtras o eliminas los elementos. Se aplicará o no según el criterio que vos desees
 
-	* **Jair Israel Avilés Eusebio** (2)
+	* **Jair Israel Avilés Eusebio** [1001962] (2)
 
-		
 		Complementandop el comentario de @LinusToolbar map regresa en un nuevo arreglo los elementos modificados manteniendo inmutable el arreglo original intacto.
 
-* **Juan Agustín Spinello** (1)
+* **Juan Agustín Spinello** (1) [1001818](https://platzi.com/comentario/1001818/) 
 
-	
 	Estas funciones aplicadas a arrays son muy usadas en el día a día.
 
-* **braulioondoedu** (1)
+* **braulioondoedu** (1) [999723](https://platzi.com/comentario/999723/) 
 
-	
 	muy bueno
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [997928](https://platzi.com/comentario/997928/) 
 
-	
 	Esto si no lo conocia
 
-* **ironcap** (1)
+* **ironcap** (1) [85687](https://platzi.com/comentario/1079247/) 
 ¿Para qué usaría un MAP? porque incluso como lo veo, puedo regresar todo el objeto completo de cada iteración.
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [85687] (3)
 
-		
 		El método **`.map`** en JavaScript nos ayuda a crear un nuevo array a partir de uno anterior. Es muy útil cuando queremos añadir nuevas propiedades o simplemente recorrer el arreglo y dar un resultado diferente dependiendo de los valores de cada elemento del array.
 		
 		También existen los métodos **`.filter`** , **`find`** o **`.reduce`** que son algo así como variaciones de **.map** con testosteronas. Nos ayudan a conseguir resultados más específicos (como filtrar o encontrar el primer elemento que cumpla una condición).
@@ -19525,13 +18429,13 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 		
 		Te recomiendo ver la clase nuevamente. Y también puedes leer estos tutoriales:
 		
-		  * <https://codeburst.io/javascript-map-vs-foreach-f38111822c0f>
-		  * [https://medium.com/@xadrijo/explorando-la-función-map-en-javascript-c04c42773fb6](https://medium.com/@xadrijo/explorando-la-funci%C3%B3n-map-en-javascript-c04c42773fb6)
-		  * <https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d>
+		* <https://codeburst.io/javascript-map-vs-foreach-f38111822c0f>
+		* [https://medium.com/@xadrijo/explorando-la-función-map-en-javascript-c04c42773fb6](https://medium.com/@xadrijo/explorando-la-funci%C3%B3n-map-en-javascript-c04c42773fb6)
+		* <https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d>
 		
 		
 
-## 0200. Recorriendo Arrays con .find(), .forEach() y .some()
+## 0200. Recorriendo Arrays con .find(), .forEach() y .some() [26309](https://platzi.com/clases/1814-basico-javascript/26309-recorriendo-arrays-con-find-foreach-y-some/)
 
 ### Descripción:
 
@@ -19542,29 +18446,26 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 
 ### Comentarios:
 
-* **Diego Camino** (9)
+* **Diego Camino** (9) [1081525](https://platzi.com/comentario/1081525/) 
 
-	
 	Por si a alguien le quedó alguna duda con respecto a la diferencia entre find y filter:
 	
 	El método find () devuelve el primer valor que coincide de la colección. Una vez que coincida con el valor en los resultados, no verificará los valores restantes en la colección de matriz.
 	
 	El método filter () devuelve los valores coincidentes en una matriz de la colección. Verificará todos los valores de la colección y devolverá los valores coincidentes en una matriz.
 
-* **jaguarjs** (6)
+* **jaguarjs** (6) [1054049](https://platzi.com/comentario/1054049/) 
 
-	
 	Esta pregunta me la hicieron en una entrevista:  
 	¿Cual es la diferencia entre find y filter ?
 	
 	filter retorna todas las coincidencias y find retorna solo la primer coincidencia
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1054049] (2)
 
-		
 		Como añadido, las documentaciones en español: [find()](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/find), [filter()](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/filter)
 
-* **EddJoy** (5)
+* **EddJoy** (5) [1000588](https://platzi.com/comentario/1000588/) 
 
 	```
 	    var articulos = [
@@ -19604,38 +18505,34 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **Christian David Sánchez** (4)
+* **Christian David Sánchez** (4) [1071956](https://platzi.com/comentario/1071956/) 
 
+	* El método **forEach()** llama a una función (una función de devolución de llamada) una vez para cada elemento de la matriz.
 	
-	  * El método **forEach()** llama a una función (una función de devolución de llamada) una vez para cada elemento de la matriz.
+	* El método **map()** crea una nueva matriz al realizar una función en cada elemento de la matriz.
 	
-	  * El método **map()** crea una nueva matriz al realizar una función en cada elemento de la matriz.
+	* El método filter() crea una nueva matriz con elementos de matriz que pasa una prueba.
 	
-	  * El método filter() crea una nueva matriz con elementos de matriz que pasa una prueba.
-	
-	  * El método reduce() ejecuta una función en cada elemento de la matriz para producir (reducirlo) un solo valor.
+	* El método reduce() ejecuta una función en cada elemento de la matriz para producir (reducirlo) un solo valor.
 	
 	
 	
 
-* **Manuel Rivera** (3)
+* **Manuel Rivera** (3) [1006100](https://platzi.com/comentario/1006100/) 
 
-	
 	Algunos métodos son muy similares, aunque son exclusivamente para una ocasión especifica
 
-* **axlina90** (3)
+* **axlina90** (3) [1000198](https://platzi.com/comentario/1000198/) 
 
-	
 	 **.find** : devuelve el valor del primer elemento del array que cumple la función de prueba proporcionada. En cualquier otro caso se devuelve undefined.  
 	**.forEach** : ejecuta la función indicada una vez por cada elemento del array.  
 	**.some** : comprueba si al menos un elemento del array cumple con la condición implementada por la función proporcionada.
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1097697](https://platzi.com/comentario/1097697/) 
 
-	
 	some retorna true o false. Dependiendo si se cumple la validación ejecutada.
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [1054820](https://platzi.com/comentario/1054820/) 
 
 	```
 	    const articulos = [
@@ -19665,9 +18562,8 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **Valente IA** (2)
+* **Valente IA** (2) [1046632](https://platzi.com/comentario/1046632/) 
 
-	
 	otra forma de llamar al foreach
 	``` 
 	    articulos.forEach(articulo => {
@@ -19676,7 +18572,7 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **yeseniamosqueragil** (2)
+* **yeseniamosqueragil** (2) [1044302](https://platzi.com/comentario/1044302/) 
 
 	```
 	    let i = 0;
@@ -19710,58 +18606,50 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **hidalgolopezdaniel** (2)
+* **hidalgolopezdaniel** (2) [1020896](https://platzi.com/comentario/1020896/) 
 
-	
 	Apliqué el articulo.nombre === “Laptop” con el método FILTER y de igual forma funcionó. Dicho esto…  
 	**¿Cuál sería el mejor método a elegir y por qué?**
 
-	* **Ruben Padilla** (6)
+	* **Ruben Padilla** [1020896] (6)
 
-		
 		El método que uses depende del problema que quieras solucionar.
 		
-		  * _filter_ devuelve un array de todos los elementos que cumplan la condición. Un caso de uso sería para filtrar una lista de peliculas según su genero
+		* _filter_ devuelve un array de todos los elementos que cumplan la condición. Un caso de uso sería para filtrar una lista de peliculas según su genero
 		
-		  * _find_ devuelve solo un elemento, el primero que cumpla la condición. Puedes hallar un usuario en una lista usando su _username_
+		* _find_ devuelve solo un elemento, el primero que cumpla la condición. Puedes hallar un usuario en una lista usando su _username_
 		
 		
 		
 
-* **Ronal Roberto Choque Copa** (2)
+* **Ronal Roberto Choque Copa** (2) [1008078](https://platzi.com/comentario/1008078/) 
 
-	
 	Si solo el metodo .some() devuelve true o false… para que genera un nuevo Array?
 
-	* **Sneyder Alfonso Barreto Buitrago** (7)
+	* **Sneyder Alfonso Barreto Buitrago** [1008078] (7)
 
-		
 		¡Hola!  
 		En realidad no retorna un nuevo array, ahí el profesor se confundió un poco. Como dice, simplemente retorna un valor booleano (true o false) dependiendo de que al menos un elemento dentro del array cumpla una condición que nosotros especificamos.  
 		Un saludo.
 
-* **Javier Armando Vargas Vega** (2)
+* **Javier Armando Vargas Vega** (2) [1001723](https://platzi.com/comentario/1001723/) 
 
-	
 	Buena clase.  
 	Aunque parece que algo hizo falta, pues el siguiente video es la despedida…
 
-	* **Karla Agraz** (2)
+	* **Karla Agraz** [1001723] (2)
 
-		
 		Creo que se confundieron y pusieron los vídeos al revés, por la clase anterior de los Arrays, quizás por eso dice lo de la siguiente clase.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1001723] (1)
 
-		
 		Sí, Objects
 
-* **hidalgolopezdaniel** (2)
+* **hidalgolopezdaniel** (2) [83172](https://platzi.com/comentario/1021013/) 
 ¿Qué método se utilizaría para buscar un rango de precio?.. es decir: precios menores a 600 y mayores a 350. En el ejemplo del maestro m...
 
-	* **Ruben Padilla** (2)
+	* **Ruben Padilla** [83172] (2)
 
-		
 		¡Hola, Daniel!  
 		.  
 		Para el caso que comentas puedes usar el metodo _filter_  
@@ -19789,14 +18677,12 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 		
 		Saludos!
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1116690](https://platzi.com/comentario/1116690/) 
 
-	
 	Excelente clase.
 
-* **garciafran** (1)
+* **garciafran** (1) [1104103](https://platzi.com/comentario/1104103/) 
 
-	
 	Capitulo bastante extenso
 	``` 
 	    //metodo find
@@ -19846,73 +18732,60 @@ No entiendo muy bien qué hay que conseguir con el ejercicio. El ciclo “for”
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097689](https://platzi.com/comentario/1097689/) 
 
-	
 	Método some();
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097680](https://platzi.com/comentario/1097680/) 
 
-	
 	Otro método super esencial para programar en JS
 
-* **picojohn** (1)
+* **picojohn** (1) [1092792](https://platzi.com/comentario/1092792/) 
 
-	
 	buena clase, nos toca es practicar
 
-* **cesaraguilareduardoromero** (1)
+* **cesaraguilareduardoromero** (1) [1083781](https://platzi.com/comentario/1083781/) 
 
-	
 	El metodo some() es algo nuevo que no habia escuchado
 
-* **Diego Camino** (1)
+* **Diego Camino** (1) [1081530](https://platzi.com/comentario/1081530/) 
 
-	
 	Desconocía el método some()  
 	Buena clase…
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1079400](https://platzi.com/comentario/1079400/) 
 
-	
 	Perfecto.
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1076060](https://platzi.com/comentario/1076060/) 
 
-	
 	Muy utiles y bien exlicados.
 
-* **Juan Esteban Galvis** (1)
+* **Juan Esteban Galvis** (1) [1073894](https://platzi.com/comentario/1073894/) 
 Para validar si algo cumple la condición: **some()** Devolver un nuevo Array con los datos que cumplen la condición: **filter()
 
-* **andrés eduardo betancourt bescanza** (1)
+* **andrés eduardo betancourt bescanza** (1) [1061743](https://platzi.com/comentario/1061743/) 
 
-	
 	Me parece un poco confuso a la hora de usar cada uno.
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050449](https://platzi.com/comentario/1050449/) 
 
-	
 	Interesante
 
-* **Sebastián Mera** (1)
+* **Sebastián Mera** (1) [1044267](https://platzi.com/comentario/1044267/) 
 
-	
 	Aún no me queda claro porque se usa un parámetro “articulo” en las funciones, cual es su función. Ayuda!
 
-	* **Diego Andres Cabrera Rojas** (1)
+	* **Diego Andres Cabrera Rojas** [1044267] (1)
 
-		
 		El parámetro “articulo” se le pasa a la función ya que es con este dato que es un arreglo con el que trabaja cada método que se vieron en las clases , map, filter, some , etc… , con esto le estas diciendo , oye mira aquí te entrego este arreglo con los datos , haz el trabajo según yo te indique en el bloque de la función , y el dependiendo de esas condiciones o acciones cumple con su objetivo final.
 
-* **hidalgolopezdaniel** (1)
+* **hidalgolopezdaniel** (1) [1020988](https://platzi.com/comentario/1020988/) 
 
-	
 	FOREACH: Falta que explique porque está usando "console.log" en lugar de "return" como lo había estado haciendo en otros métodos. Hice la prueba con return y no funciona pero me gustaría saber ¿por qué?.
 
-	* **Ruben Padilla** (6)
+	* **Ruben Padilla** [1020988] (6)
 
-		
 		A diferencia de otros métodos, _forEach_ siempre retorna _undefined_ , por esta razón usa el `console.log` para mostrar los nombres de los artículos. Un caso de uso sería agregar elementos a un array:
 		``` 
 		    var articulos = [
@@ -19931,48 +18804,42 @@ Para validar si algo cumple la condición: **some()** Devolver un nuevo Array co
 		    
 		```
 
-* **lmoran** (1)
+* **lmoran** (1) [1019202](https://platzi.com/comentario/1019202/) 
 
-	
 	Excelente curso
 
-* **Martín Roldán** (1)
+* **Martín Roldán** (1) [1015738](https://platzi.com/comentario/1015738/) 
 
-	
 	Los ejemplos con **.forEach** y . **map** son parecidos. Cual es la diferencia?
 
-	* **lmoran** (3)
+	* **lmoran** [1015738] (3)
 
-		
 		Una de las diferencias es que el .map va almacenar el resultado en un nuevo array.  
 		En cambio el forEach te muestra el resultado en texto mas no en un array.
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [998025](https://platzi.com/comentario/998025/) 
 
-	
 	Una manera mas rápida de filtrar
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [83972](https://platzi.com/comentario/1039520/) 
 hay diferencia entre map y forEach ,podrian funcionar igual???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [83972] (1)
 
-		
 		Es la forma como funcionan, map ejecuta algo por cada elemento dentro de un array, con el forEach recorres el array y puedes hacer cosas más complejas sobre el array, como validar si el valor es impar etc.
 
-* **Oscar Galicia** (1)
+* **Oscar Galicia** (1) [82258](https://platzi.com/comentario/1001054/) 
 El .find no puede buscar varios articulos al mismo tiempo? lo intente y no me sirvio.
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [82258] (1)
 
-		
 		No, el find sólo sirve con un elemento.
 		
 		Para hacer una operación que encontrara varios elementos tendrías que hacer una lógica un poco más compleja y adaptada a lo que quieres encontrar en el arreglo.
 
-# Cierre
+# Cierre [5336]
 
-## 0210. Despedida
+## 0210. Despedida [26311](https://platzi.com/clases/1814-basico-javascript/26311-despedida/)
 
 ### Descripción:
 
@@ -19989,328 +18856,266 @@ El .find no puede buscar varios articulos al mismo tiempo? lo intente y no me si
 
 ### Comentarios:
 
-* **Cristian Alejandro Muñoz Cardona** (7)
+* **Cristian Alejandro Muñoz Cardona** (7) [1001581](https://platzi.com/comentario/1001581/) 
 
-	
 	Los cursos que recomienda al final.
 	
-	  * [Fundamentos de JavaScript](https://platzi.com/clases/fundamentos-javascript/)
-	  * [V8 y el navegador](https://platzi.com/clases/javascript-navegador/)
-	  * [ECMAScript 6+](https://platzi.com/clases/ecmascript-6/)
+	* [Fundamentos de JavaScript](https://platzi.com/clases/fundamentos-javascript/)
+	* [V8 y el navegador](https://platzi.com/clases/javascript-navegador/)
+	* [ECMAScript 6+](https://platzi.com/clases/ecmascript-6/)
 	
 	
 
-* **carlosbaltazarespetia** (5)
+* **carlosbaltazarespetia** (5) [1024681](https://platzi.com/comentario/1024681/) 
 
-	
 	Si los profesores de las universidades, enseñaran como usted, todos amarian estudiar
 
-* **urieelmm** (3)
+* **urieelmm** (3) [1017100](https://platzi.com/comentario/1017100/) 
 
-	
 	Alguien sabe si este profesor tiene mas cursos? Es excelente !!
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [1017100] (1)
 
-		
 		Tiene el de v8, maquetación con html y css, y creo que css grid. Tiene varios (misma temática). Todos son muy bien explicados y con mucha práctica.
 
-* **Carlos Roa** (3)
+* **Carlos Roa** (3) [1002059](https://platzi.com/comentario/1002059/) 
 
-	
 	¿y cuales son esos dos métodos? = “false”
 
-	* **Manuel Rivera** (2)
+	* **Manuel Rivera** [1002059] (2)
 
-		
 		No lo se Rick , jajajaj
 
-* **ArielScc** (3)
+* **ArielScc** (3) [1001077](https://platzi.com/comentario/1001077/) 
 
-	
 	Buen curso…  
 	Me dejo picado por los dos métodos más. pero fui a buscar y encontré muchos más [aquí](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
 
-* **cesaraguilareduardoromero** (2)
+* **cesaraguilareduardoromero** (2) [1083790](https://platzi.com/comentario/1083790/) 
 
-	
 	Muy buen curso, pero faltaron mas metodos
 
-* **Javier Andres Gamboa Duarte** (2)
+* **Javier Andres Gamboa Duarte** (2) [1083089](https://platzi.com/comentario/1083089/) 
 
-	
 	Y los otros metodos?
 
-* **dacarr** (2)
+* **dacarr** (2) [1024450](https://platzi.com/comentario/1024450/) 
 
-	
 	Debería enseñar mas cursos referente a JS como el de fundamentos de JS, excelente profesor recordé y aprendí mas cosas
 
-	* **Almu_timkerbell** (2)
+	* **Almu_timkerbell** [1024450] (2)
 
-		
 		Sí, por favor. Llegué al vídeo 34 de Fundamentos, y lo dejé ahí porque no entendía más:(
 
-* **Manuel Rivera** (2)
+* **Manuel Rivera** (2) [1006104](https://platzi.com/comentario/1006104/) 
 
-	
 	Es un excelente profesor
 
-* **Ariel Alejandro Ureña Morales** (1)
+* **Ariel Alejandro Ureña Morales** (1) [1116692](https://platzi.com/comentario/1116692/) 
 
-	
 	Muy buen curso. Gracias por la recomendación.
 
-* **Northerchild** (1)
+* **Northerchild** (1) [1114998](https://platzi.com/comentario/1114998/) 
 
-	
 	Genial, gracias por todo profe
 
-* **Rudy Pinzon** (1)
+* **Rudy Pinzon** (1) [1112756](https://platzi.com/comentario/1112756/) 
 
-	
 	Muchas gracias, muy buen curso
 
-* **Juan Gomez** (1)
+* **Juan Gomez** (1) [1110147](https://platzi.com/comentario/1110147/) 
 
-	
 	Excelente el Curso y el Profesor. Muchas Gracias
 
-* **Sthepha04** (1)
+* **Sthepha04** (1) [1106874](https://platzi.com/comentario/1106874/) 
 
-	
 	Muy bueno el curso! 😄
 
-* **Jharell Alejandra Hidalgo Loya** (1)
+* **Jharell Alejandra Hidalgo Loya** (1) [1102170](https://platzi.com/comentario/1102170/) 
 
-	
 	excelente curso ! gracias
 
-* **Benjamin_Espinosa_N** (1)
+* **Benjamin_Espinosa_N** (1) [1101030](https://platzi.com/comentario/1101030/) 
 
-	
 	Muy ben curso para iniciar!! muchas gracias
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1097700](https://platzi.com/comentario/1097700/) 
 
-	
 	Gracias!! excelente curso basico!
 
-* **Orlando0302** (1)
+* **Orlando0302** (1) [1094742](https://platzi.com/comentario/1094742/) 
 
-	
 	faltaron los otros métodos pero los buscare aparte
 
-* **Juan Teixeira** (1)
+* **Juan Teixeira** (1) [1088818](https://platzi.com/comentario/1088818/) 
 
-	
 	En este link hay otros metodos que pudieran ser los que quedaron pendientes xD
 	
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array>
 
-* **fabio-hernan-mosquera-obando** (1)
+* **fabio-hernan-mosquera-obando** (1) [1085120](https://platzi.com/comentario/1085120/) 
 
-	
 	para mi es un curso fabuloso.
 
-* **Daniel Cuevas** (1)
+* **Daniel Cuevas** (1) [1082086](https://platzi.com/comentario/1082086/) 
 
-	
 	¿Cuando sale la clase de métodos de recorridos de Arrays 3?
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [1081772](https://platzi.com/comentario/1081772/) 
 
-	
 	…
 
-* **EdwardPL** (1)
+* **EdwardPL** (1) [1080767](https://platzi.com/comentario/1080767/) 
 
-	
 	Muchas Gracias , Preparado para dar mi examen
 
-* **marlonhmp** (1)
+* **marlonhmp** (1) [1076066](https://platzi.com/comentario/1076066/) 
 
-	
 	Excelente curso me ayudo bastante.
 
-* **JIMMY STEVE OSMA JEREZ** (1)
+* **JIMMY STEVE OSMA JEREZ** (1) [1075872](https://platzi.com/comentario/1075872/) 
 
-	
 	Muy buen curso, Muchas Gracias
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [1072072](https://platzi.com/comentario/1072072/) 
 
-	
 	Un excelente curso.  
 	Les comparto un link para que puedan seguir aprendiendo: **<https://www.w3schools.com/js/default.asp>**
 
-* **isabellaahc** (1)
+* **isabellaahc** (1) [1069722](https://platzi.com/comentario/1069722/) 
 
-	
 	No está disponible la clase métodos de recorridos de arrays 3 😦 no me siento 100% lista para hacer la prueba uwu
 
-* **mermib** (1)
+* **mermib** (1) [1068460](https://platzi.com/comentario/1068460/) 
 
-	
 	muy buen curso, básico pero conciso
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [1065497](https://platzi.com/comentario/1065497/) 
 
-	
 	De los mejores cursos que he tomado. 😃
 
-* **Bryan Gallo** (1)
+* **Bryan Gallo** (1) [1065262](https://platzi.com/comentario/1065262/) 
 
-	
 	Excelente Curso más que recomendado 😄
 
-* **Rafael Alvarez Cardona** (1)
+* **Rafael Alvarez Cardona** (1) [1064377](https://platzi.com/comentario/1064377/) 
 
-	
 	Excelente curso! Gracias Diego! eres un crack, maquina, fiera.! 😄
 
-* **Luis Gerardo Choloquinga Cocha** (1)
+* **Luis Gerardo Choloquinga Cocha** (1) [1064301](https://platzi.com/comentario/1064301/) 
 
-	
 	Buen Curso!!
 
-* **Gianfranco Giordano** (1)
+* **Gianfranco Giordano** (1) [1063035](https://platzi.com/comentario/1063035/) 
 
-	
 	Hola compañeros. Soy nuevo en Platzi, una pregunta como se presenta el examen?
 
-	* **Rafael Alvarez Cardona** (2)
+	* **Rafael Alvarez Cardona** [1063035] (2)
 
-		
 		Amigo al finalizar cada curso te dan un tiempo especifico y un numero de preguntas! tienes que obtener una nota minima de **9** para poder pasar el examen en caso de que no logres la meta te dan 6 horas para que vuelvas a repetir el examen y puedas lograr el objetivo! 😄 espero haberte ayudado!
 
-* **gonzaloPzl** (1)
+* **gonzaloPzl** (1) [1062931](https://platzi.com/comentario/1062931/) 
 
-	
 	EXCELENTE CURSO!!
 
-* **Ariel Luna** (1)
+* **Ariel Luna** (1) [1057939](https://platzi.com/comentario/1057939/) 
 
-	
 	Un Genio tengo una duda con el tema del constuctor de objetos. la pongo en preguntas.  
 	Saludos
 
-* **EmiGarello** (1)
+* **EmiGarello** (1) [1056529](https://platzi.com/comentario/1056529/) 
 
-	
 	estubo genial!!!
 
-* **Gilmar Natanael Morán Aquino** (1)
+* **Gilmar Natanael Morán Aquino** (1) [1055006](https://platzi.com/comentario/1055006/) 
 
-	
 	Excelente Curso!!!
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1054823](https://platzi.com/comentario/1054823/) 
 
-	
 	Grande!!
 
-* **Juan Zavala** (1)
+* **Juan Zavala** (1) [1050457](https://platzi.com/comentario/1050457/) 
 
-	
 	Excelente profesor, por ende, excelente curso
 
-* **Joker11** (1)
+* **Joker11** (1) [1035487](https://platzi.com/comentario/1035487/) 
 
-	
 	Buen curso explicado !
 
-* **Javier Avalos** (1)
+* **Javier Avalos** (1) [1033853](https://platzi.com/comentario/1033853/) 
 
-	
 	Excelente curso, bien detallada la explicación
 
-* **JuanDanielRR** (1)
+* **JuanDanielRR** (1) [1030476](https://platzi.com/comentario/1030476/) 
 
-	
 	Like!!
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [1021599](https://platzi.com/comentario/1021599/) 
 
-	
 	Muchas Gracias! Gracias, por hacer que sea práctico, y muy comprensible (retroalimentación).
 
-* **lmoran** (1)
+* **lmoran** (1) [1019203](https://platzi.com/comentario/1019203/) 
 
-	
 	Muy bien explicado y entendible el curso.
 
-* **Nagcely Mendoza** (1)
+* **Nagcely Mendoza** (1) [1018336](https://platzi.com/comentario/1018336/) 
 
-	
 	Excelente curso, gracias por compartir tus conocimientos.
 
-* **ferchodleon** (1)
+* **ferchodleon** (1) [1014003](https://platzi.com/comentario/1014003/) 
 
-	
 	Muchas gracias, fue de gran ayuda este curso!!
 
-* **dlee00** (1)
+* **dlee00** (1) [1010112](https://platzi.com/comentario/1010112/) 
 
-	
 	Excelente curso, muchas gracias por todo!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1003219](https://platzi.com/comentario/1003219/) 
 
-	
 	buen curso
 
-* **johngoyo88** (1)
+* **johngoyo88** (1) [1000688](https://platzi.com/comentario/1000688/) 
 
-	
 	No entiendo, en la clase 20 dices que vas a enseñar en la siguiente clase dos métodos mas y me sale es la despedida. Pasa algo? le sucedió a otro o solo a mi? :?
 
-	* **Oscar Galicia** (2)
+	* **Oscar Galicia** [1000688] (2)
 
-		
 		Esta al reves la clase 19 y la 20… O algo asi.
 
-* **Diego Guillermo Yovera Coveñas** (1)
+* **Diego Guillermo Yovera Coveñas** (1) [1000616](https://platzi.com/comentario/1000616/) 
 
-	
 	Buen curso, no programo hace tiempo, me refrescaste todo bastante bien.
 
-* **axlina90** (1)
+* **axlina90** (1) [1000200](https://platzi.com/comentario/1000200/) 
 
-	
 	Excelente curso, aprendi bastante, explica muy bien, JavaScript poco lo uso pero ahora me gusta
 
-* **braulioondoedu** (1)
+* **braulioondoedu** (1) [999744](https://platzi.com/comentario/999744/) 
 
-	
 	excelente profesor
 
-* **quiquejesus94** (1)
+* **quiquejesus94** (1) [999141](https://platzi.com/comentario/999141/) 
 
-	
 	Me encanto el cusro exelente maestro 😃
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [998606](https://platzi.com/comentario/998606/) 
 
-	
 	Un excelente profesor.
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [998028](https://platzi.com/comentario/998028/) 
 
-	
 	Me encantan los cursos
 
-* **Lorenzo David Lezcano** (1)
+* **Lorenzo David Lezcano** (1) [997333](https://platzi.com/comentario/997333/) 
 
-	
 	Me gusto mucho este curso, ahora a seguir aprendiendo con js!
 
-* **Ariel Luna** (1)
+* **Ariel Luna** (1) [84746](https://platzi.com/comentario/1057940/) 
 Respuesta a: Objects: Función constructora Consulta:Si la funcion construcntora que se crea con la palabra reservada “new” crea una insta...
 
-	* **John Botero** (1)
+	* **John Botero** [84746] (1)
 
-		
 		Desde la ECMAScript2015 se puede implementar las clases para constructores.  
 		<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes/constructor>
 		``` 

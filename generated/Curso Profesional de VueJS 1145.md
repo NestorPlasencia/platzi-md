@@ -1,175 +1,147 @@
-# Introducción
+[Curso Profesional de VueJS 1145](https://platzi.com/cursos/vuejs-profesional)
 
-## 0010. Bienvenidos al Curso Profesional de VueJS
+# Introducción [1338]
+
+## 0010. Bienvenidos al Curso Profesional de VueJS [7784](https://platzi.com/clases/1145-vuejs-profesional/7784-bienvenidos-al-curso-profesional-de-vuejs/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **nandoalvarado092** (24)
+* **nandoalvarado092** (24) [181605](https://platzi.com/comentario/181605/) 
 
-	
 	 **Porque VueJS?**  
 	Su facilidad de aprendizaje y uso con respecto a otros frameworks y libraries como ReactJS, su rendimiento comparado con AngularJS y la facilidad para usarlo y adaptarlo a proyectos tanto grandes como pequeños, ha hecho que Vue gane cada vez más popularidad.
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [181605] (4)
 
-		
 		muy buen apunte!
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [181605] (1)
 
-		
 		Tienes toda la razón.
 
-* **Julio César Perdomo Correa** (7)
+* **Julio César Perdomo Correa** (7) [248497](https://platzi.com/comentario/248497/) 
 
-	
 	¡Listo para comenzar con VueJS y hacer una SPA brutal!
 
-* **predator0077** (4)
+* **predator0077** (4) [855273](https://platzi.com/comentario/855273/) 
 
-	
 	Vengo del curso de Vue básico espero aprender un montón en este curso y mejorar cada día mas
 
-* **Georgie Duarte** (3)
+* **Georgie Duarte** (3) [511190](https://platzi.com/comentario/511190/) 
 
-	
 	una ventaja vendida de vue es que es declarativo y lo que lo convierte en declarativo son los tag de html que todo el mundo conoce usar pug quita legibilidad, me encanta aprender cosas nuevas pero no todo lo que brilla es oro.
 
-* **catarestrepo1401** (2)
+* **catarestrepo1401** (2) [913499](https://platzi.com/comentario/913499/) 
 
-	
 	Buenas noches, cómo puedo descargar los videos? gracias
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [913499] (2)
 
-		
 		Hola! Puedes con tu suscripción expert puedes descargar los videos a través de la App de Platzi en tu dispositivo iOS o Android 😄
 
-	* **catarestrepo1401** (1)
+	* **catarestrepo1401** [913499] (1)
 
-		
 		Las puedo ver desde mi computador?
 
-* **Mon Avellaneda** (2)
+* **Mon Avellaneda** (2) [513191](https://platzi.com/comentario/513191/) 
 
-	
 	Para instalar el cli de vue ha cambiado en la v.3 de vue-cli a @vue/cli . Primero hay que desinstalar el anterior (si lo tenemos instalado en nuestro computador con npm uninstall vue-cli -g y luego instalar npm install -g @vue/cli o bien yarn global add @vue/cli  
 	Saludos
 
-* **Daniel Guarin** (2)
+* **Daniel Guarin** (2) [182842](https://platzi.com/comentario/182842/) 
 
-	
 	buenas noches, tengo una duda, actualmente estoy desarrollando una app, es un juego con el framework de phaser, en js, del lado del servidor utilizo nodejs y mongodb para las bases de datos, en el cliente quería utilizar angular junto al framework, y pues generar las vistas,rutas y demás, ya que existe el mean (mongo,express,angular,node) quería saber si podría remplazar angular y utilizar vue, que como lo muestran en es mejor que angual y hasta que react, se puede asociar bien a mongodb,nodejs y todo bien???
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [182842] (3)
 
-		
 		Hola, podrias usarlo perfectamente ya que se acopla facil con cualquier otro framework del lado del cliente. Yo suelo trabajar con Mongo, Node y Vue y estoy muy conforme con los resultados. De todos modos eso siempre es un poco subjetivo ya que en mi caso trabajo con esquemas REST, por lo tanto lo que tengo del lado del servidor no es relevante para Vue (con cualquier lenguage/plataforma funcionaria igual). Creo que vale la pena que hagas la prueba y que luego compartas tu experiencia aqui.
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [1116532](https://platzi.com/comentario/1116532/) 
 
-	
 	Iniciando VUE!!!
 
-* **Chrystian Fabian Lozano Ramirez** (1)
+* **Chrystian Fabian Lozano Ramirez** (1) [980520](https://platzi.com/comentario/980520/) 
 
-	
 	qué paso con el curso anterior?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [980520] (1)
 
-		
 		Tienes acceso a los cursos anteriores si vas a la carrera y bajas del todo [Carrera de Vue.js](https://platzi.com/clases/learning-path/vue/) 😄
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [921643](https://platzi.com/comentario/921643/) 
 
-	
 	Extrañaba esa intro 😃
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [877874](https://platzi.com/comentario/877874/) 
 
-	
 	En este Curso veremos no solo todo el sistema de vue sino q tambien veremos herramientas para mejorar como desarrolladores entre las q tenemos:
 	
-	  * Vuex
-	  * Vue Router
-	  * Deploy de nuestra aplicacion  
+	* Vuex
+	* Vue Router
+	* Deploy de nuestra aplicacion  
 	y muchas cosas mas que nos ayudaran a ser mejores profesionales de VUE.JS
 	
 	
 
-* **Patricio Aliaga** (1)
+* **Patricio Aliaga** (1) [815304](https://platzi.com/comentario/815304/) 
 
-	
 	Muy buen video.
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [457937](https://platzi.com/comentario/457937/) 
 
-	
 	Carambolas :#
 
-* **phvillegas** (1)
+* **phvillegas** (1) [447333](https://platzi.com/comentario/447333/) 
 Excelente comienzo 😃
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [373935](https://platzi.com/comentario/373935/) 
 
-	
 	 **¡Aquí vamos!**
 
-* **gil_rojas** (1)
+* **gil_rojas** (1) [358326](https://platzi.com/comentario/358326/) 
 
-	
 	Excelente Vue.js… perfecto para desarrolladores enfocados en backend que desean dar un paso al front o bien para incomporar dinamismo en las interfaces. Si trabajas o te gusta Laravel pues es casi obligatorio trabajar con Vue.js
 
-* **Joel vilca Alania** (1)
+* **Joel vilca Alania** (1) [250981](https://platzi.com/comentario/250981/) 
 
-	
 	con todo vue!
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [250981] (1)
 
-		
 		💪
 
-* **fersot7** (1)
+* **fersot7** (1) [180983](https://platzi.com/comentario/180983/) 
 
-	
 	Excelente Intro…
 
-* **Wilson Fabian Pérez Sucuzhañay** (0)
+* **Wilson Fabian Pérez Sucuzhañay** (0) [249506](https://platzi.com/comentario/249506/) 
 
-	
 	<https://www.youtube.com/watch?v=H07zYvkNYL8> porque cambiaron al profe anterior no GOD
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [249506] (1)
 
-		
 		😞
 
-	* **Wilson Fabian Pérez Sucuzhañay** (0)
+	* **Wilson Fabian Pérez Sucuzhañay** [249506] (0)
 
-		
 		No es nada en contra pero es como que ya le coges el hilo y te cambian de protagonista de la pelicula jaja
 
-* **José Rodríguez** (0)
+* **José Rodríguez** (0) [181038](https://platzi.com/comentario/181038/) 
 
-	
 	No está disponible a 320p?
 
-	* **victorAguilera** (0)
+	* **victorAguilera** [181038] (0)
 
-		
 		Si
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [181038] (0)
 
-		
 		Prueba cambiando la resolución en el engranaje que aparece en la esquina inferior derecha del. Video
 
-## 0020. Introducción a VueJS
+## 0020. Introducción a VueJS [7785](https://platzi.com/clases/1145-vuejs-profesional/7785-introduccion-a-vuejs7757/)
 
 ### Descripción:
 
@@ -180,102 +152,86 @@ Si aún no tienes conocimientos básicos, te invitamos a ver el curso **Básico 
 
 ## Acerca de VueJS:
 
-  * Tiene complejidad inherente y complejidad instrumental.
-  * La complejidad inherente es la que se hereda del proyecto y no se puede modificar.
-  * La complejidad instrumental es la que nosotros podemos controlar. Es el precio que pagamos para resolver la complejidad inherente (herramientas).  
+* Tiene complejidad inherente y complejidad instrumental.
+* La complejidad inherente es la que se hereda del proyecto y no se puede modificar.
+* La complejidad instrumental es la que nosotros podemos controlar. Es el precio que pagamos para resolver la complejidad inherente (herramientas).  
 -** VueJS** puede ser definido como el **Framework Web Progresivo** porque nos permite progresivamente ir escalando nuestra aplicación a medida que lo vamos necesitando.
 
 
 
 ## Características del Framework:
 
-  * Está orientado a la vista.
-  * Es reactivo. Se puede enlazar el código con la vista. Se puede actualizar desde cualquiera de los dos y se sincroniza todo en un círculo virtuoso.
-  * Está basado en Core, es una librería pequeña, resuelve algo específico y concreto. Sin embargo es escalable y extendible.
+* Está orientado a la vista.
+* Es reactivo. Se puede enlazar el código con la vista. Se puede actualizar desde cualquiera de los dos y se sincroniza todo en un círculo virtuoso.
+* Está basado en Core, es una librería pequeña, resuelve algo específico y concreto. Sin embargo es escalable y extendible.
 
 
 
 ### Comentarios:
 
-* **José Rodríguez** (31)
+* **José Rodríguez** (31) [181039](https://platzi.com/comentario/181039/) 
 
-	
 	Un artículo muy interesante para profundizar sobre los tipos de complejidad: <http://raulavila.com/2015/05/complejidad-esencial-accidental/>
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [181039] (1)
 
-		
 		Excelente, gracias por el aporte!
 
-	* **mario_ruano** (1)
+	* **mario_ruano** [181039] (1)
 
-		
 		Gracias por este aporte!
 
-	* **Yomar Esteban Miranda Sarmiento** (0)
+	* **Yomar Esteban Miranda Sarmiento** [181039] (0)
 
-		
 		Buen articulo (y)
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [181039] (1)
 
-		
 		Gracias por el aporte 😃
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [181039] (1)
 
-		
 		Gracias por el aporte.
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [181039] (1)
 
-		
 		Gracias!
 
-	* **Michael Rodriguez** (1)
+	* **Michael Rodriguez** [181039] (1)
 
-		
 		Excelente aporte!! Pienso que eso es algo de lo que los programadores casi nunca hablan…
 
-* **jhonatandev** (15)
+* **jhonatandev** (15) [217197](https://platzi.com/comentario/217197/) 
 
-	
 	Guía de Vue.js en español  
 	<https://es-vuejs.github.io/vuejs.org/v2/guide/>
 
-	* **Kevin Brayan Luna Figueroa** (0)
+	* **Kevin Brayan Luna Figueroa** [217197] (0)
 
-		
 		gracias por el aporte!!
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [217197] (1)
 
-		
 		Es bantante interesante todo lo que se puede lograr. Gracias
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [217197] (1)
 
-		
 		buen aporte!
 
-* **Alejandro Antonio Olaria Robertis** (5)
+* **Alejandro Antonio Olaria Robertis** (5) [191891](https://platzi.com/comentario/191891/) 
 
-	
 	Excelente dato de los niveles de complejidad a la hora de comenzar un proyecto. muchisimas gracias!
 
-* **José Pablo Machuca González** (3)
+* **José Pablo Machuca González** (3) [760066](https://platzi.com/comentario/760066/) 
 
-	
 	🤯
 
-* **JDiaz0017** (3)
+* **JDiaz0017** (3) [214626](https://platzi.com/comentario/214626/) 
 
-	
 	Hola saludos a todos, como dice el profesor es muy indispensable realizar el curso básico de Vue.js, mi recomendación es ver la totalidad de vídeos y llevar a cabo el ejemplo en sus entornos locales para así poder jugar un poco con la UI , métodos, maquetado y render de datos en la vista, saludos.
 
-* **Jose Luis Colmenares** (2)
+* **Jose Luis Colmenares** (2) [749929](https://platzi.com/comentario/749929/) 
 
-	
 	###Dos conceptos fundamentales de VueJS
 	
 	<h5>1\. Renderizado Declarativo</h5>
@@ -294,133 +250,109 @@ Si aún no tienes conocimientos básicos, te invitamos a ver el curso **Básico 
 	
 	Una característca adicional es que podemos darle semántica a nuestros componentes, es vez de tener un <div> podemos tener un <user-detail>, lo cual nos genera un codigo más facil de leer para los humanos pero con igual rendimiento para los navegadores
 
-* **Carlos Andres Romero Ortiz** (2)
+* **Carlos Andres Romero Ortiz** (2) [620717](https://platzi.com/comentario/620717/) 
 
-	
 	Una excelente explicación para entender que de acuerdo a la complejidad inherente debemos utilizar herramientas con una complejidad instrumental acorde.
 
-* **Miguel Angel Landa Lopez** (2)
+* **Miguel Angel Landa Lopez** (2) [618873](https://platzi.com/comentario/618873/) 
 
-	
 	este profe si es cabrón
 
-* **miguel angel goda molina** (2)
+* **miguel angel goda molina** (2) [613462](https://platzi.com/comentario/613462/) 
 
-	
 	excelente profesor emocionado para iniciar
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [560743](https://platzi.com/comentario/560743/) 
 
-	
 	Vaya, al fín un profesor que ha llamado mi atención por su forma de explicar y generar contexto en cada concepto abordado en clase.  
 	Y eso que también me dedico a la docencia.
 
-* **Benjamín Parra** (2)
+* **Benjamín Parra** (2) [536070](https://platzi.com/comentario/536070/) 
 
-	
 	acabo de terminar el básico así que vengo con todas las ganas… vamos con todo!!!
 
-* **Iván Mauricio Toro Cifuentes** (2)
+* **Iván Mauricio Toro Cifuentes** (2) [395779](https://platzi.com/comentario/395779/) 
 
-	
 	¡Que intro tan genial!
 
-* **David Daniel Castillo Nava** (2)
+* **David Daniel Castillo Nava** (2) [355086](https://platzi.com/comentario/355086/) 
 
-	
 	Epa excelente explicación sobre **Vue.Js** Muy completa, y totalmente entendible.
 
-* **GuilleAnselmi** (2)
+* **GuilleAnselmi** (2) [305514](https://platzi.com/comentario/305514/) 
 
-	
 	Impresionante, ami me gusta como explica Sacha pero este pibe lo supera por mucho!! muy claro y conciso, excelente profesor (y)!!
 
-* **Christian Armando Consuelo Mayén** (1)
+* **Christian Armando Consuelo Mayén** (1) [1026179](https://platzi.com/comentario/1026179/) 
 
-	
 	Me agrada mucho la explicación de la complejidad inherente vs instrumental. Una forma de balancear tus decisiones tecnológicas con el requerimiento el problema que tratas de resolver.
 
-* **Nacxit** (1)
+* **Nacxit** (1) [979797](https://platzi.com/comentario/979797/) 
 
-	
 	Un componente es un pedazo de codigo Html con su propia funcionalidad dependiendo de la complegidad pueden ser reutilizado y facilita la contruccion de un projecto
 
-* **Nacxit** (1)
+* **Nacxit** (1) [979786](https://platzi.com/comentario/979786/) 
 
-	
 	Un estado declarativo es cuando una vista se actualiza segun el codigo escrito y tambien dependiendo como el usuario interatua con la vista
 
-* **Nacxit** (1)
+* **Nacxit** (1) [979748](https://platzi.com/comentario/979748/) 
 
-	
 	Vue es un framework relativamente nuevo, donde se diferencia de los demas en la simplidad de hacer proyecto sencillos, la cual tambien permite ser progresivo adaptandose a los tipos de complegidad que el proyecto requiera
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [881327](https://platzi.com/comentario/881327/) 
 
-	
 	Lo que diferencia a vue de otros framework es que este se puede ver como un framework progresivo lo que significa que se va ajustando a la complejidad del proyecto.
 	
 	Ver las herramientas que ofrece vue como capaz ayuda a tener una vision mas clara del alcance de este grandioso framework.
 	
 	Vengo del curso de vue basico el cual es muy bueno y recomendado, espero aprender mucho con este curso profesional.
 
-* **Allen Kevin Zapien Zamora Zapien** (1)
+* **Allen Kevin Zapien Zamora Zapien** (1) [870956](https://platzi.com/comentario/870956/) 
 
-	
 	La razón por la que me llama más la atención de vue con respecto a react y angular es la escalabilidad, yo hago muchos proyectos pequeños como landing page y no me veo haciendolas con Angular
 
-* **Allen Kevin Zapien Zamora Zapien** (1)
+* **Allen Kevin Zapien Zamora Zapien** (1) [870951](https://platzi.com/comentario/870951/) 
 
-	
 	Damned, yo en la ruta de Vue.js no vi el curso básico y me metí directo a este, bueno ni modo vamos a probar a ver que tal me va
 
-* **Jose Luis Colmenares** (1)
+* **Jose Luis Colmenares** (1) [749908](https://platzi.com/comentario/749908/) 
 
-	
 	Un concepto fundamental de esta clase y que no había escuchado antes, es:  
 	**la complejidad instrumental y inherente deben ser parejas**
 
-* **Lcapde** (1)
+* **Lcapde** (1) [746030](https://platzi.com/comentario/746030/) 
 
-	
 	Literal muy buena expliacion.
 
-* **vcentt-lopez** (1)
+* **vcentt-lopez** (1) [678914](https://platzi.com/comentario/678914/) 
 
-	
 	Que bien explica, felicidades!!!
 
-* **kushiahu** (1)
+* **kushiahu** (1) [560483](https://platzi.com/comentario/560483/) 
 
-	
 	Excelente!!! Emocionado
 
-* **Mcaberta** (1)
+* **Mcaberta** (1) [533289](https://platzi.com/comentario/533289/) 
 
-	
 	Excelente explicación de lo que es Vuejs!!
 
-* **Bryan José Muñiz Gonzalez** (1)
+* **Bryan José Muñiz Gonzalez** (1) [436431](https://platzi.com/comentario/436431/) 
 
-	
 	Las complejidades deben de ir de la mano, de modo que si la complejidad inherente es alta debemos utilizar herramientas de la misma medido (Instrumentos) para poder suplir esta complejidad.
 
-* **edwarxdced** (1)
+* **edwarxdced** (1) [434476](https://platzi.com/comentario/434476/) 
 
-	
 	😮 Muy interesante los niveles de complejidad.
 
-* **phvillegas** (1)
+* **phvillegas** (1) [394197](https://platzi.com/comentario/394197/) 
 https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=linkShare-5287c438daf4-1538624418
 
-* **GeorgeRM** (1)
+* **GeorgeRM** (1) [391482](https://platzi.com/comentario/391482/) 
 
-	
 	Excelente… Manos a la obra.!
 
-* **Martín Leyva** (1)
+* **Martín Leyva** (1) [377719](https://platzi.com/comentario/377719/) 
 
-	
 	El código:
 	``` 
 	    <scriptsrc="https://unpkg.com/vue"></script>
@@ -443,91 +375,74 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 	    
 	```
 
-* **pedepepe** (1)
+* **pedepepe** (1) [347921](https://platzi.com/comentario/347921/) 
 
-	
 	La complejidad Instrumental es la complejidad de uso de las herramientas necesarias para solucionar la complejidad Inherente, esta es la complejidad del proyecto.
 
-	* **pedepepe** (1)
+	* **pedepepe** [347921] (1)
 
-		
 		Ambas complejidades tiuenen que ir a la par para un desarrollo efectivo, una gran complejidad inherente puede costar muchas herramientas, ej: un CRM, etc; una complejidad inherente pequeña no necesita mucho, ej: un chat, un landing, etc.
 		
 		Vue esta hecho para poder escalarlo y usarlo segun la complejidad inherente lo requiera.
 
-* **Oscar Stevens Cuartas Bejarano** (1)
+* **Oscar Stevens Cuartas Bejarano** (1) [253740](https://platzi.com/comentario/253740/) 
 
-	
 	a ver como me va, en el basico me senti atropellado 😦
 
-* **Julio César Perdomo Correa** (1)
+* **Julio César Perdomo Correa** (1) [248517](https://platzi.com/comentario/248517/) 
 
-	
 	¿Conocen alguna alternativa gratuita ante codepen?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [248517] (0)
 
-		
 		Codepen es gratis, hay un plan pago pero no es necesario para las cosas del curso y funciona muy bien. Podes probar sino jsfiddle
 
-	* **ferroblesh** (0)
+	* **ferroblesh** [248517] (0)
 
-		
 		[JSBIN](https://jsbin.com/?html,js,output)
 
-* **Julio César Perdomo Correa** (1)
+* **Julio César Perdomo Correa** (1) [248511](https://platzi.com/comentario/248511/) 
 
-	
 	No todo proyecto se ataca de la misma manera. La complejidad varía de su naturaleza, y las herramientas que necesitamos usar.
 
-* **Julio César Perdomo Correa** (1)
+* **Julio César Perdomo Correa** (1) [248510](https://platzi.com/comentario/248510/) 
 
-	
 	Complejidad Instrumental vs Inherente
 
-* **Freddy Lemus Barrera** (1)
+* **Freddy Lemus Barrera** (1) [210300](https://platzi.com/comentario/210300/) 
 
-	
 	Este curso es excelente.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [210300] (0)
 
-		
 		Muchas gracias 😃
 
-* **Agustin Clemente** (0)
+* **Agustin Clemente** (0) [294119](https://platzi.com/comentario/294119/) 
 
-	
 	Abandono asp clásico, voy por NodeJs
 
-	* **Fredy Arroyave Vasquez** (1)
+	* **Fredy Arroyave Vasquez** [294119] (1)
 
-		
 		Es que eso aún existe?
 
-* **Juan Carlos Felizzola Vega** (0)
+* **Juan Carlos Felizzola Vega** (0) [292735](https://platzi.com/comentario/292735/) 
 
-	
 	Finalicé el curso básico, sin embargo el profesor toma tiempo para enseñar a detalle lo que está enseñando. ¡Excelente!
 
-* **Oscar Stevens Cuartas Bejarano** (0)
+* **Oscar Stevens Cuartas Bejarano** (0) [272078](https://platzi.com/comentario/272078/) 
 
-	
 	complejidad instrumental: cuanto tiempo se nos va a llevar utilizar las herramientas de software
 
-* **Ricardo Verónica Duran** (0)
+* **Ricardo Verónica Duran** (0) [239913](https://platzi.com/comentario/239913/) 
 
-	
 	En su punto de vista que es mejor Django con React o Django con Vue, no he usado ninguno de los dos (Hablando de React y Vue)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [239913] (2)
 
-		
 		No es que uno sea mejor que otro, simplemente su forma de implementación es diferente, por ejemplo con vuejs tienes que tener cuidado ya que las expresiones en vue se usan igual que en el motor de template de django y te puede dar problema. Por lo demás simplemente tienes que enviarles los datos desde el backend al frontend.
 
-	* **Cristian Valdivia** (3)
+	* **Cristian Valdivia** [239913] (3)
 
-		
 		Yo he experimentado con Django y Vue y como dice @GOLLUM23 hay que tener cuidado con las expresiones del motor de plantillas de Django, pero se soluciona muy simple agregando la siguiente linea en el objeto Vue:
 		``` 
 		    delimiters: ["[[","]]"] 
@@ -538,40 +453,34 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 		
 		Espero que te sirva.
 
-	* **Ricardo Verónica Duran** (0)
+	* **Ricardo Verónica Duran** [239913] (0)
 
-		
 		Muchas gracias cristn
 
-	* **Daniel Alexander Gazcón Rodríguez** (1)
+	* **Daniel Alexander Gazcón Rodríguez** [239913] (1)
 
-		
 		¿ Pero eso no se puede evitar usando django como un api rest?
 
-	* **Ricardo Verónica Duran** (0)
+	* **Ricardo Verónica Duran** [239913] (0)
 
-		
 		dgazcon27 no tengo idea de como hacer eso
 
-* **jhonatandev** (0)
+* **jhonatandev** (0) [217195](https://platzi.com/comentario/217195/) 
 
-	
 	Guía de Vue.js en español, espero les sirva.  
 	[](https://es-vuejs.github.io/vuejs.org/v2/guide/)
 
-* **Kevin Nick Pascual Tuesta** (0)
+* **Kevin Nick Pascual Tuesta** (0) [181000](https://platzi.com/comentario/181000/) 
 
-	
 	El link no me está redireccionando a la pagina, igual se puede buscar gracias.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [181000] (0)
 
-		
 		Gracias por avisar, ya quedó solucionado!
 
-# CLI y Dev Tools							
+# CLI y Dev Tools							 [1339]
 
-## 0030. Herramientas y Experiencia de Desarrollo + Archivos .vue
+## 0030. Herramientas y Experiencia de Desarrollo + Archivos .vue [7786](https://platzi.com/clases/1145-vuejs-profesional/7786-herramientas-y-experiencia-de-desarrollo-archivos-/)
 
 ### Descripción:
 
@@ -588,60 +497,49 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 
 ### Comentarios:
 
-* **Darwin Rodríguez** (15)
+* **Darwin Rodríguez** (15) [276563](https://platzi.com/comentario/276563/) 
 
-	
 	Por cuestiones de comodidad yo generalmente desarrollo en mozilla, acá dejo el enlace para vue-devtools para mozilla [vue-devtools-mozilla](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [276563] (1)
 
-		
 		Genial, gracias!
 
-	* **Kevin Lozoya Giner** (1)
+	* **Kevin Lozoya Giner** [276563] (1)
 
-		
 		wiiii, ya se puede utilizar con Firefox ^^
 
-* **Julio César Perdomo Correa** (5)
+* **Julio César Perdomo Correa** (5) [248529](https://platzi.com/comentario/248529/) 
 
-	
 	En este link [https://www.youtube.com/watch?v=pKEx4H7rDus](url) tienen un tutorial para instalar nodejs.
 
-* **Miguel Angel Landa Lopez** (3)
+* **Miguel Angel Landa Lopez** (3) [620265](https://platzi.com/comentario/620265/) 
 
-	
 	Mediante el CLI se pueden generar aplicaciones de vue sin necesidad de hacer todo el setup inicial y herramientas necesarias para empezar , y funciona con los principales empaquetadores como webpack o browserify.  
 	Al trabajar así se crean los VUE files o Sinfle File components que son archivos con UN SOLO COMPONENTE.
 
-* **Gerardo Ruiz** (2)
+* **Gerardo Ruiz** (2) [534127](https://platzi.com/comentario/534127/) 
 
-	
 	Consulta. Se puede mezclar blade de laravel con vuejs? Vi en el video anterior que tienen una nomenclatura sumilar para escapar variables al front
 
-	* **carlos-bolivar** (2)
+	* **carlos-bolivar** [534127] (2)
 
-		
 		@JohnDyr Si lo puedes mezclar sin ningun problema declarando la instancia de vue en la etiqueta script de la plantilla blade, sin embargo es recomendable trabajar componentes vue y mejoras el performance y la claridad del codigo!
 
-	* **Gerardo Ruiz** (1)
+	* **Gerardo Ruiz** [534127] (1)
 
-		
 		entiendo, dentro de blade puedo meter una etiqueta de vue, pero dentro de vue podré meter nomenclatura de blade?? {{ $variable }}
 
-	* **Ignacio Bogarín Alvarez** (2)
+	* **Ignacio Bogarín Alvarez** [534127] (2)
 
-		
 		Se utiliza @{{ miVariable }} para que no se confunda con la sintaxis de blade
 
-* **Luis Miguel  Peña** (2)
+* **Luis Miguel  Peña** (2) [408813](https://platzi.com/comentario/408813/) 
 
-	
 	Instalar vue-cli
 
-* **David Daniel Castillo Nava** (2)
+* **David Daniel Castillo Nava** (2) [358447](https://platzi.com/comentario/358447/) 
 
-	
 	 **Mis Apuntes**
 	
 	[Enlace para descargar Node.js](https://nodejs.org/es/)
@@ -650,29 +548,25 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 	
 	[Enlace a la documentación de Vue-CLI](https://cli.vuejs.org/guide/installation.html)
 
-* **jlcallalle** (1)
+* **jlcallalle** (1) [993937](https://platzi.com/comentario/993937/) 
 
-	
 	En la documentacion de CLI, la forma de crear el proyecto: indican  
 	vue create my-project  
 	y no  
 	vue init webpack-simple platzi-music  
 	a qué se debe?
 
-	* **Angel Santillan Brambila** (1)
+	* **Angel Santillan Brambila** [993937] (1)
 
-		
 		segun recuerdo vue create ya proporciona todas las herramientas para una simple page aplication es decir ya viene con bastantes herramientas el cual durante el curso iras con el metodo del profe instalando y revisando de poco en poco por eso es que lo hace de la segunda forma igual en la parte de documentacion de vue aclaran la parte del comando que usa el profe el cual su fin. espero esto aclare un poco tu duda
 
-* **jorgeandreiariasmontoya** (1)
+* **jorgeandreiariasmontoya** (1) [987410](https://platzi.com/comentario/987410/) 
 
-	
 	Para los que quieran instalar vue dev tools en opera, deben instalar la extension de chrome en opera y listo!!  
 	<https://vuetiful.wordpress.com/2017/02/27/how-to-add-vue-devtools-to-opera/>
 
-* **Nacxit** (1)
+* **Nacxit** (1) [979834](https://platzi.com/comentario/979834/) 
 
-	
 	Vue cli es un generador de estructura de proyecto Vue donde el mas reciente es el Cli 3  
 	Comando
 	``` 
@@ -682,23 +576,20 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 	
 	Aqui puede esta el link de Vue Cli[](https://cli.vuejs.org/)
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [975404](https://platzi.com/comentario/975404/) 
 
-	
 	[aca esta la info de vue cli actualizada](https://cli.vuejs.org/)
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [881399](https://platzi.com/comentario/881399/) 
 
-	
 	VUE-CLI, generados de aplicaciones para vue. para instalar vue-cli 3,
 	``` 
 	    npm install -g @vue/cli
 	    
 	```
 
-* **Allen Kevin Zapien Zamora Zapien** (1)
+* **Allen Kevin Zapien Zamora Zapien** (1) [874817](https://platzi.com/comentario/874817/) 
 
-	
 	yo no pude pero un amigo me ayudó y fue con este comando:
 	``` 
 	    sudo su npm install -g @vue/cli
@@ -707,59 +598,49 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 	
 	Me pidió mi contraseña y luego ya comenzó con las instalación
 
-* **3Dev S.A.S** (1)
+* **3Dev S.A.S** (1) [814592](https://platzi.com/comentario/814592/) 
 
-	
 	alguien me puede recomendar en que curso o tutorial enseñan que sigue cuando ya tienes tu aplicacion bien gustoza en local?? es decir, como la saco ya a produccion, como se configura un servidor para esto? que caracteristicas debe tener, sirve un apache un IIS? como funcionan estas cosas cuando estamos hablando de puro JS??
 
-* **deap** (1)
+* **deap** (1) [670530](https://platzi.com/comentario/670530/) 
 
-	
 	Hola Este curso es más viejito que el introductorio ?
 
-	* **louismanson** (1)
+	* **louismanson** [670530] (1)
 
-		
 		No porque en el introductorio la version mas reciente de node es la 7 y aquí es la 8
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [620260](https://platzi.com/comentario/620260/) 
 
-	
 	  1. Es necesario instalar node y npm.
 	  2. Se sugiere instalar el vue devtools del chrome,
 	  3. Se sugiere instalar el CLI (command Line Interface) de Vue mediante npm
 	
 	
 
-* **Alirio Gomez** (1)
+* **Alirio Gomez** (1) [595390](https://platzi.com/comentario/595390/) 
 
-	
 	para Opera se pueden instalar esta extension que te permite isntalar extensiones de chrome en opera sin ningun problema [clickMe](https://addons.opera.com/es/extensions/details/install-chrome-extensions/), yo la llevo usando mucho tiempo y no me ha dado fallo o error… Pueden instalar el Vue devtools sin problemas (Y)
 
-* **leinadcoder** (1)
+* **leinadcoder** (1) [569725](https://platzi.com/comentario/569725/) 
 
-	
 	Les dejo este pequeño tutorial para trabajar en entornos windows de una manera más tranquila [entorno de trabajo en windows](https://platzi.com/tutoriales/1145-vuejs-profesional/3916-entorno-de-trabajo-en-windows/)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560761](https://platzi.com/comentario/560761/) 
 
-	
 	Alguno de ustedes conoce un IDE no un editor ligero para trabajar con todo esto de FrontEnd.  
 	Trabajo en linux.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [560761] (1)
 
-		
 		Uno de los mejores IDE para fronten es WebStorm de Jetbrains, es muy completo, no es tan liviano pero vale la pena.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560755](https://platzi.com/comentario/560755/) 
 
-	
 	Ahora me queda claro para que sirven las herramientas generadoras de estructuras de proyectos como VUE-CLI.
 
-* **Rony-Porraz** (1)
+* **Rony-Porraz** (1) [495228](https://platzi.com/comentario/495228/) 
 
-	
 	para instalar el cli de vue en linux
 	``` 
 	    sudo npm install -g vue/cli
@@ -767,30 +648,25 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 	    
 	```
 
-* **Jonattan_Infante** (1)
+* **Jonattan_Infante** (1) [490716](https://platzi.com/comentario/490716/) 
 
-	
 	Yo no he tenido problemas con la vue-devtools de Mozilla, Todo lo contrario con chrome. 😦
 
-* **leocmpro** (1)
+* **leocmpro** (1) [472031](https://platzi.com/comentario/472031/) 
 
-	
 	¿Qué paquetes de Atom me recomiendan instalar para trabajar cómodamente con Vue.js?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [472031] (1)
 
-		
 		Yo te recomendaria mejor usar [VSCode](https://code.visualstudio.com/) Dale una probada ya que hoy por hoy tiene mucha integracion con muchas cosas.
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [458311](https://platzi.com/comentario/458311/) 
 
-	
 	Para quien instalo CL3 también necesitaras  
 	npm install -g @vue/cli-init
 
-* **antonio_ideer** (1)
+* **antonio_ideer** (1) [455216](https://platzi.com/comentario/455216/) 
 
-	
 	Para este momento ya estamos en la versión 3 de Vue-Cli para instalarla cambia un poco ya que npm install -g vue-cli debe cambiar por
 	``` 
 	    npm install -g @vue/cli
@@ -799,71 +675,62 @@ https://medium.com/@phvillegas/introducci%C3%B3n-a-vuejs-b2d7d20fb463?source=lin
 	
 	Si aún tienes la versión 2 te recomiendo cambiarla por la 3 utiliza npm uninstall -g vue-cli para desinstalar la versión 2 para posteriormente instalar la nueva versión.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [395846](https://platzi.com/comentario/395846/) 
 
-	
 	`npm install -g @vue/cli`
 
-* **Jhon Yupanqui Cusihuaman** (1)
+* **Jhon Yupanqui Cusihuaman** (1) [343996](https://platzi.com/comentario/343996/) 
 
-	
 	Que tanta diferencia es trabajar el curso con vue-cli 3 ? cuando entro al link, veo que hay una nueva versión.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [343996] (1)
 
-		
 		Pudo haber cambiado algunos comandos o sintaxis, puedes revisar el change log de la versión para saber que cambio respecto a la versión anterior y con esto si se presenta un error corriendo algo que se enseña en el curso poder solucionarlo.
 
-* **Martín Leyva** (1)
+* **Martín Leyva** (1) [326966](https://platzi.com/comentario/326966/) 
 
-	
 	Los **vuefiles** o “ ** _single file components_** ”, son estructuras que nos permiten trabajar con un todo el componente detro de un mismo archivo, un archivo .vue va a contenter la lógica (script), el estilo (diseño) y la estructura html (template), que necesitamos para que ese elemento exista.
 	
 	Los vuefiles son compilados y el resultado es interpretable por el Browser
 
-* **oscar enrique  ordoñez izquierdo** (1)
+* **oscar enrique  ordoñez izquierdo** (1) [72217](https://platzi.com/comentario/812572/) 
 C:\Users\HP>npm install -g vue-cli npm WARN deprecated vue-cli@2.9.6: This package has been deprecated in favour of @vue/cli npm WARN ...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [72217] (2)
 
-		
 		No hay problema. Solo debes instalar el paquete con su nuevo nombre:
 		``` 
 		    npm install -g @vue/cli
 		    
 		```
 
-* **leocmpro** (1)
+* **leocmpro** (1) [49783](https://platzi.com/comentario/472031/) 
 ¿Qué paquetes de Atom me recomiendan instalar para trabajar cómodamente con Vue.js?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [49783] (1)
 
-		
 		Yo te recomendaria mejor usar [VSCode](https://code.visualstudio.com/) Dale una probada ya que hoy por hoy tiene mucha integracion con muchas cosas.
 
-* **Jhon Yupanqui Cusihuaman** (1)
+* **Jhon Yupanqui Cusihuaman** (1) [38423](https://platzi.com/comentario/343996/) 
 Que tanta diferencia es trabajar el curso con vue-cli 3 ? cuando entro al link, veo que hay una nueva versión.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [38423] (1)
 
-		
 		Pudo haber cambiado algunos comandos o sintaxis, puedes revisar el change log de la versión para saber que cambio respecto a la versión anterior y con esto si se presenta un error corriendo algo que se enseña en el curso poder solucionarlo.
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [181273](https://platzi.com/comentario/181273/) 
 
-	
 	La letra que esta estilizando para la terminal es muy pequeña y no se visualiza bien. También la de las imagenes
 
-	* **ricardocelis (Platzi)** (9)
+	* **ricardocelis (Platzi)** [181273] (9)
 
-		
 		Hola! te comparto las diapositivas, y revisaremos la parte que dices de la terminal! saludos  
 		<https://docs.google.com/presentation/d/1IqONNwogL-URal19OB-OuX3hQxbZgVWEy3kIlqb2wec/edit#slide=id.p>
 
-* **Emp Chile** (0)
+* **Emp Chile** (0) [35937](https://platzi.com/discusiones/1145-vuejs-profesional/35937-hola-nacho-ya-hice-el-curso-casi-completo-y-esta-muy-bueno-me-podrias-ayudar-vi-en-tu-editor-node-que-las-gt-se-transforman-en-flechas-y-simbolos-que-plugins-de-atom-ocupas-para-lograr-eso/) 
 Hola Nacho, ya hice el curso casi completo y esta muy bueno, me podrias ayudar, vi en tu editor node que las =>, !=, === se transforman e
 
-## 0040. CLI - Hello World
+## 0040. CLI - Hello World [7787](https://platzi.com/clases/1145-vuejs-profesional/7787-cli-hello-world/)
 
 ### Descripción:
 
@@ -876,19 +743,16 @@ Hola Nacho, ya hice el curso casi completo y esta muy bueno, me podrias ayudar, 
 
 ### Comentarios:
 
-* **Daniel Perez Nuñez** (17)
+* **Daniel Perez Nuñez** (17) [200042](https://platzi.com/comentario/200042/) 
 
-	
 	En el curso introductorio de Vue.js trabajé con visual studio code y realmente todo funciono muy bien. Este editor permite tiene la extension correspondiente para vue al igual que para trabajar con git directamente. Recomendadisimo
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [200042] (8)
 
-		
 		Hola, tanto como Atom y VS Code son excelentes soluciones. Admito igualmente que ahora he migrado a VS Code, cuenta con un plugin llamado vetur que es ideal para el desarrollo en Vue.
 
-	* **Daniel Perez Nuñez** (0)
+	* **Daniel Perez Nuñez** [200042] (0)
 
-		
 		Hola Nacho. Me salio este error por en la consola cuando corri el comando `npm run dev`. Auidaaa
 		
 		ERROR in ./src/App.vue  
@@ -897,24 +761,20 @@ Hola Nacho, ya hice el curso casi completo y esta muy bueno, me podrias ayudar, 
 		@ ./src/main.js  
 		@ multi (webpack)-dev-server/client?<http://localhost:8081> webpack/hot/dev-server ./src/main.js
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [200042] (0)
 
-		
 		Quizás debas reinstalar ese módulo utilizando el comando - g
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [200042] (0)
 
-		
 		El flag, disculpa
 
-	* **Kevin Brayan Luna Figueroa** (2)
+	* **Kevin Brayan Luna Figueroa** [200042] (2)
 
-		
 		En VS Code hay un plugin que se llama “Vue.js Extension Pack” y te instala todo lo que se necesita para trabajar con Vue.js
 
-* **Jose Luis Colmenares** (7)
+* **Jose Luis Colmenares** (7) [751017](https://platzi.com/comentario/751017/) 
 
-	
 	Para Vue2.0 se utilizaba mucho lo que era el pack de webpack-simple, sin embargo, ahora que estamos en la version 3.0 de vue el proceso para crear un archivo hello world es diferente y no depende tanto de la librería webpack-simple.
 	
 	Lo primero que debemos hacer es instalar vue de manera global en nuestro proyecto para que podamos llamar desde la línea de comando, para hacer esto ejecutar `sudo npm install -g @vue/cli` esto me instalará la versión 3.0 de Vue (la más moderna para 2019)
@@ -923,9 +783,8 @@ Hola Nacho, ya hice el curso casi completo y esta muy bueno, me podrias ayudar, 
 	
 	Por último, si queremos visualizar el proyecto solo tenemos que entrar al directorio del proyecto`cd [nombre-proyecto]` y ejecutar el comando `npm run serve` y la App estará disponible en el <http://localhost:8080/>
 
-* **rafagonzalez99** (4)
+* **rafagonzalez99** (4) [869828](https://platzi.com/comentario/869828/) 
 
-	
 	Sin duda alguna el curso básico es más reciente que le profesional. En el basico explican con el vue cli versión 3+ (Actualmente en diciembre del 2019 estamos en la versión 4.1) . Para crear un nuevo proyecto se debe ejecutar en consola:
 	``` 
 	    vue create platzi-music
@@ -940,87 +799,73 @@ Hola Nacho, ya hice el curso casi completo y esta muy bueno, me podrias ayudar, 
 	
 	Y pueden ver su proyecto en el navegador en el <http://localhost:8080/>
 
-	* **Allen Kevin Zapien Zamora Zapien** (1)
+	* **Allen Kevin Zapien Zamora Zapien** [869828] (1)
 
-		
 		a mi me marca la versión 4.1.1
 
-* **Jose Luis Colmenares** (4)
+* **Jose Luis Colmenares** (4) [750001](https://platzi.com/comentario/750001/) 
 
-	
 	A partir de la versión 3 de Vue, el comando que se utiliza para la creación de un proyecto es `vue create .` o `vue ui`
 
-* **Kingsman7** (3)
+* **Kingsman7** (3) [709959](https://platzi.com/comentario/709959/) 
 
-	
 	pregunto. ¿si solo hay un HTML como se hace SEO en estas paginas?
 
-	* **Nestor David Alvarado Rondon** (2)
+	* **Nestor David Alvarado Rondon** [709959] (2)
 
-		
 		Hola, creo que el HTML se genera según la semántica que necesites
 
-	* **FernanddoSalas** (2)
+	* **FernanddoSalas** [709959] (2)
 
-		
 		Para hacer SEO tienes que hacer SSR (Server Side Render), echale un vistazo a Nuxt.Js
 
-	* **Allen Kevin Zapien Zamora Zapien** (1)
+	* **Allen Kevin Zapien Zamora Zapien** [709959] (1)
 
-		
 		Las single-page application (SPA) son un dolor de cabeza para los que somos SEO, ya que hay que agregar nueva programación para crear los HTML y las URL y pues es más trabajo extra que muchas veces el programador no lo toma en cuenta cuando genera el proyecto.
 
-* **Joaquin Borra Trussi** (3)
+* **Joaquin Borra Trussi** (3) [229514](https://platzi.com/comentario/229514/) 
 
-	
 	Clarísima la explicación de este profe!!! Excelente curso!
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [229514] (1)
 
-		
 		Muchas gracias! 😀
 
-* **ing-moreno** (3)
+* **ing-moreno** (3) [69478](https://platzi.com/comentario/757905/) 
 Buenas tardes, como se hace para que las flechas (=>) en el editor se vean como una flecha completa?, como se ve en el video en la par...
 
-	* **Santiago Botero Ruiz** (5)
+	* **Santiago Botero Ruiz** [69478] (5)
 
-		
 		Font Ligatures he visto que se logra con la fuente “Fira Code” hay varios IDE de programación que lo permiten y para cada uno es diferente la configuración. Podrías buscar en Google “Font ligatures [IDE]” en donde reemplazas [IDE] por el nombre del IDE que andas usando y puedes encontrar la forma de encontrarlo. Buena suerte!
 		
 		Por acá te dejo una forma de hacerlo con [VSCode](https://parzibyte.me/blog/2019/06/18/vscode-ligaduras-fuentes-fira-code/)
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [881425](https://platzi.com/comentario/881425/) 
 
-	
 	desde cli-vue 3, la forma de crear un nuevo proyecto es:
 	``` 
 	    vue create platzi-music
 	    
 	```
 
-	* **Daniel Hita Martínez** (3)
+	* **Daniel Hita Martínez** [881425] (3)
 
-		
 		Entonces usar vue init es la manera antigua y vue create es la forma de hacerlo ahora?
 
-* **3Dev S.A.S** (2)
+* **3Dev S.A.S** (2) [814585](https://platzi.com/comentario/814585/) 
 
-	
 	porque en ningun curso nunca enseñan como se hace ya implementacion de esto? como se sube a un servidor? que tipo de servidor se necesita por ser esto puro javascript con nodejs instalado alli dentro, cual es el sigte paso cuando uno termina su proyecto???
 
-	* **Emiliano Kuyen Arturo Pacheco Montero** (1)
+	* **Emiliano Kuyen Arturo Pacheco Montero** [814585] (1)
 En el curso básico de vue explica cómo hacer un deploy simple, no he llegado al final del curso pero seguramente lo explicará y al final sino lo hace también debe ser porque poner esto en un servidor y ponerlo a produce debe ser parte de otro te con servidores.
 
-* **Luis Donaldo Lopez Gil** (2)
+* **Luis Donaldo Lopez Gil** (2) [458310](https://platzi.com/comentario/458310/) 
 
-	
 	Para quien instalo CLI3 también corra este comando para poder iniciar el proyecto.  
 	npm install -g @vue/cli-init
 
-* **Nelson Manuel Ordaz Yglesias** (2)
+* **Nelson Manuel Ordaz Yglesias** (2) [449633](https://platzi.com/comentario/449633/) 
 
-	
 	Hola, ¿qué tal? espero que estén muy bien. Dentro de los comentarios he visto que han tenido problemas con ejecutar el entorno de desarrollo “dev” al crear el proyecto de Vue.js con el comando que se describe en el presente video. Al respecto, para los usuarios de la manzanita, lo resolví de la siguiente manera:
 	
 	  1. Tener instalado el gestor de paquetes Hombrew (<https://brew.sh/index_es>)
@@ -1029,10 +874,10 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	  4. Ejecutar los siguientes comandos:
 	
 	
-	  * yarn install
-	  * yarn remove webpack-dev-server
-	  * yarn add webpack-dev-server@2.9.1 --dev
-	  * yarn run dev
+	* yarn install
+	* yarn remove webpack-dev-server
+	* yarn add webpack-dev-server@2.9.1 --dev
+	* yarn run dev
 	
 	
 	
@@ -1040,89 +885,74 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	
 	Saludos.
 
-* **Héctor Tello** (1)
+* **Héctor Tello** (1) [1091390](https://platzi.com/comentario/1091390/) 
 
-	
 	Para los que como yo, primero vieron el curso básico de Vue (que salió hace unos meses) y después vino a ver este (que salió hace un par de años), para poder iniciar la aplicación se debe hacer lo siguiente:
 	
-	  * **vue create nombre_aplicacion**
-	  * **npm run lint**
-	  * **npm run build**
-	  * **npm i -g serve** (si están en linux quizá deban escribir sudo antes del comando)
-	  * **vue ui** (opcional) Este solo les mostrará de una manera visual los proyectos de vue que tengan creados.
+	* **vue create nombre_aplicacion**
+	* **npm run lint**
+	* **npm run build**
+	* **npm i -g serve** (si están en linux quizá deban escribir sudo antes del comando)
+	* **vue ui** (opcional) Este solo les mostrará de una manera visual los proyectos de vue que tengan creados.
 	
 	
 
-	* **walter** (1)
+	* **walter** [1091390] (1)
 
-		
 		buen aporte.
 
-* **Allen Kevin Zapien Zamora Zapien** (1)
+* **Allen Kevin Zapien Zamora Zapien** (1) [920555](https://platzi.com/comentario/920555/) 
 
-	
 	No pude instalar NPM me marca el siguiente error:  
 	![](<https://drive.google.com/file/d/1-2ElTcdty-Z8jexNT7Do4jszxIuJ78dy/view?usp=sharing>
 
-	* **hector vicencio reyes** (1)
+	* **hector vicencio reyes** [920555] (1)
 
-		
 		la consola dice : permiso denegado , intenta instalarlo como administrador o root , busca el comando correspondiente, te ayudaria mas pero estoy en el trabajo xD
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [620286](https://platzi.com/comentario/620286/) 
 
-	
 	npm run {{nombre del script }}  
 	para los scripts test y start no es necesario la palabra run solo npm test ó npm start
 
-* **jadamson0903** (1)
+* **jadamson0903** (1) [611235](https://platzi.com/comentario/611235/) 
 
-	
 	Algun video de este curso, que hable directamente de 2 variables consultadas por la base de datos en formularios y hacer operaciones aritmeticas en el front con vue.js?
 
-	* **Jorge Palacios** (1)
+	* **Jorge Palacios** [611235] (1)
 
-		
 		A menos que llames los datos por medio de una API, creo que necesitas es ver algún lenguaje Backend para ello. Ya que la página debe mandar los datos al backend y este hacer la consulta que deseas a la base de datos y regresar los datos para que el front end los muestre. En todo caso, todo dato que esté en el front end, puede ser usado por Vue para calcular lo que quieras.
 
-* **FabianIgnacio** (1)
+* **FabianIgnacio** (1) [572738](https://platzi.com/comentario/572738/) 
 
-	
 	Gente ! ¿Alguien sabe como solucionar el error en npm install “error not found python2” ? 😕
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [572738] (2)
 
-		
 		Hola, debes instalar python 2 en tu sistema, que sistema operativo usas?
 
-	* **FabianIgnacio** (1)
+	* **FabianIgnacio** [572738] (1)
 
-		
 		Gracias por contestar, ya logre instalarlo, por cmd pero igual no me funciono, así que tuve que trabajar así no más ajjajajaj no me quedo de otra, gracias !
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [572738] (1)
 
-		
 		Qué sistema operativo usas, de seguro te podemos ayudar para que todo te funcione.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560809](https://platzi.com/comentario/560809/) 
 
-	
 	Tuve problemas con node-sass en linux. Al parecer un problema de permisos de administrador. Tuve que instalar todo como root.
 
-* **carlos-bolivar** (1)
+* **carlos-bolivar** (1) [536731](https://platzi.com/comentario/536731/) 
 
-	
 	El Profesor da explicaciones claras y concisas! Excelente curso hasta ahora!
 
-* **Mcaberta** (1)
+* **Mcaberta** (1) [533649](https://platzi.com/comentario/533649/) 
 
-	
 	Esto esta genial, el profe Sacha del curso básico de Vuejs es muy bueno y me gusto mucho su metodología, pero este profe Nacho es otro nivel!!
 
-* **juliorico** (1)
+* **juliorico** (1) [487959](https://platzi.com/comentario/487959/) 
 
-	
 	Al ejecutar npm rum dev y sale este error de node-sass:  
 	![eroor node sass.JPG](https://static.platzi.com/media/user_upload/eroor%20node%20sass-430b0155-5bcf-444d-94fa-8e657b337a24.jpg)  
 	Ejecutar en la terminal:
@@ -1134,40 +964,33 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	
 	
 
-	* **Alejandro santalla** (1)
+	* **Alejandro santalla** [487959] (1)
 
-		
 		Hola juliorico, a pesar de correr los comandos en la terminal me sigue saliendo el mismo error. ¿Sabes por qué puede ser?
 
-* **Cainamarks** (1)
+* **Cainamarks** (1) [475526](https://platzi.com/comentario/475526/) 
 
-	
 	Hola, porque seguir usando webpacl-simple si es un curso profesional?  
 	Seria bueno hacer lo webpack solo.
 
-	* **Esteban Brito Alvarez** (1)
+	* **Esteban Brito Alvarez** [475526] (1)
 
-		
 		Porque es propóstito de este curso es eneseñar a usar Vue. Complicarse la vida con configuraciones que en su mayoría podrían o no ser importantes en producción no viene al caso. Conocer Webpack de forma más precisa es bueno, pero si es lo que quieres, hay un curso de Platzi sólo para Webpack 😄
 
-* **Jafet López Chaves** (1)
+* **Jafet López Chaves** (1) [449057](https://platzi.com/comentario/449057/) 
 
-	
 	😎
 
-* **Byhako** (1)
+* **Byhako** (1) [386500](https://platzi.com/comentario/386500/) 
 
-	
 	La aplicación se monta sobre el div con id = ‘app’, pero este div es el que se encuentra en el archivo index.html, no hace referencia al div que esta en el archivo App.vue
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [386500] (1)
 
-		
 		Justo tenia esa duda. Gracias.
 
-* **Darwin Rodríguez** (1)
+* **Darwin Rodríguez** (1) [276586](https://platzi.com/comentario/276586/) 
 
-	
 	Si alguien me pudiera ayudar, tengo el siguiente error con node-sass:
 	
 	npm ERR! code ELIFECYCLE  
@@ -1181,23 +1004,20 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	npm ERR! A complete log of this run can be found in:  
 	npm ERR! C:\Users\Darwi\AppData\Roaming\npm-cache_logs\2018-03-24T17_34_53_221Z-debug.log
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [276586] (1)
 
-		
 		Puedes compartir el log completo, que aparece, esta información no dice mucho, probablemente hay alguna paquete que tienes instalado que no es compatible con node-sass.
 
-	* **Edward Steven Ramos Palacios** (0)
+	* **Edward Steven Ramos Palacios** [276586] (0)
 
-		
 		Hola, prueba usando este comando:
 		``` 
 		    npm rebuild node-sass --force```
 		    
 		```
 
-	* **Darwin Rodríguez** (0)
+	* **Darwin Rodríguez** [276586] (0)
 
-		
 		Hola, que tal? Resolví ejecutando:
 		``` 
 		    npm run clean
@@ -1212,9 +1032,8 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 		
 		Gracias, ya anoté el comando en mis apuntes
 
-* **Nelson Beltran** (1)
+* **Nelson Beltran** (1) [257560](https://platzi.com/comentario/257560/) 
 
-	
 	Hola a todos! Tengo el siguiente error al hacer
 	``` 
 	    npm install
@@ -1244,38 +1063,32 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	
 	added 911 packages in 133.339s
 
-	* **Nelson Beltran** (0)
+	* **Nelson Beltran** [257560] (0)
 
-		
 		Nota: En el curso de Introducción todo me funcionó a la perfección
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [257560] (3)
 
-		
 		No veo ningún error, solo salen unos warnings por unas dependencias que no son compatibles con tu sistema operativo, pero esas dependencias son opcionales y no hay falla.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [257560] (3)
 
-		
 		La única que veo es ajv-keywords que dice que requiere ajv superior a 6 pero no que no esta instalado, solo instala a mano esa dependencia `npm install ajv` y luego vuelves a ejecutar npm install.
 
-	* **Nelson Beltran** (0)
+	* **Nelson Beltran** [257560] (0)
 
-		
 		Muchas gracias 😄
 
-	* **Edward Steven Ramos Palacios** (0)
+	* **Edward Steven Ramos Palacios** [257560] (0)
 
-		
 		Hola, prueba usando este comando:
 		``` 
 		    npm rebuild node-sass --force
 		    
 		```
 
-* **Alexander  Silvera** (1)
+* **Alexander  Silvera** (1) [203748](https://platzi.com/comentario/203748/) 
 
-	
 	Buenas me salio este error alguien puede decirme cual es el problema y como puedo solucionarlo?? Gracias:
 	
 	reino-da-mata@1.0.0 dev C:\Users\Acer\desktop\Proy  
@@ -1286,14 +1099,14 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	Invalid configuration object. Webpack has been initialised using a configura  
 	tion object that does not match the API schema.
 	
-	  * configuration.entry should be one of these:  
+	* configuration.entry should be one of these:  
 	object { <key>: non-empty string | [non-empty string] } | non-empty strin  
 	g | [non-empty string] | function  
 	The entry point(s) of the compilation.  
 	Details: 
-	    * configuration.entry should be an object.
-	    * configuration.entry should be a string.
-	    * configuration.entry should NOT have duplicate items (items ## 1 and 3  
+	  * configuration.entry should be an object.
+	  * configuration.entry should be a string.
+	  * configuration.entry should NOT have duplicate items (items ## 1 and 3  
 	are identical) ({  
 	“keyword”: “uniqueItems”,  
 	“dataPath”: “.entry”,  
@@ -1326,7 +1139,7 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	]  
 	}).  
 	[non-empty string]
-	    * configuration.entry should be an instance of function  
+	  * configuration.entry should be an instance of function  
 	function returning an entry object or a promise…  
 	npm ERR! code ELIFECYCLE  
 	npm ERR! errno 1  
@@ -1343,69 +1156,58 @@ En el curso básico de vue explica cómo hacer un deploy simple, no he llegado a
 	npm ERR! C:\Users\Acer\AppData\Roaming\npm-cache_logs\2017-10-16T00_32_  
 	57_674Z-debug.log
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [203748] (0)
 
-		
 		Hola, al paracer tenes un error en el archivo `webpack.config.js` podrias subir el archivo para que pueda verlo y ayudarte con el error?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [203748] (2)
 
-		
 		Puede ser que tengas una versión diferente de webpack instalada y cambio la forma de definir y configurar algunas cosas te recomiendo puedes ver este post <https://platzi.com/blog/migrar-a-webpack-3-y-no-morir-en-el-intento/>
 
-* **pblfergt** (1)
+* **pblfergt** (1) [181185](https://platzi.com/comentario/181185/) 
 
-	
 	pueden usar el comando atom . para abrir el directorio desde el raíz en atom
 
-	* **javier alejandro segovia** (0)
+	* **javier alejandro segovia** [181185] (0)
 
-		
 		podes usar cualquier editor que te sea mas comodo
 
-	* **mario_ruano** (0)
+	* **mario_ruano** [181185] (0)
 
-		
 		En relación a editores. Yo me inicié hace años con el viejo Notepad++, y cuando conocí Sublime pensé que no habría nada mejor. Lo cierto es que Atom fue el que me acabó conquistando por bastante tiempo, pero actualmente trabajo con Visual Studio Code.  
 		Esto es los editores es cuestión de gustos y lo bien que nos adaptemos a ellos a la hora de trabajar, y aunque hay extensiones y paquetes para todos ellos, ¿qué editor cuenta con los mejores paquetes y plugins para Vue?
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [181185] (4)
 
-		
 		Creo que atom y vs code tienen el mejor soporte para Vue.
 
-	* **CARLOS DAVID MARCIGLIA GOMEZ** (0)
+	* **CARLOS DAVID MARCIGLIA GOMEZ** [181185] (0)
 
-		
 		Usar Editores de texto es cuestión de elegir el que mas te agrade en tus desarrollos, la verdad yo uso el que me permita tener poco consumo de hardware en mi maquina y después de eso, evaluó el dinamismo de este.
 
-* **laurens24** (1)
+* **laurens24** (1) [63891](https://platzi.com/comentario/666697/) 
 ayuda por favor tengo el siguiente error pasa cuando ejecuto npm run dev cross-env NODE_ENV=development webpack-dev-server --open --hot e...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [63891] (1)
 
-		
 		Tienes alguna configuracion en tu webpack relacionada con eel objeto devServer?
 
-* **FabianIgnacio** (1)
+* **FabianIgnacio** (1) [58079](https://platzi.com/comentario/572738/) 
 Gente ! ¿Alguien sabe como solucionar el error en npm install “error not found python2” ? 😕
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [58079] (2)
 
-		
 		Hola, debes instalar python 2 en tu sistema, que sistema operativo usas?
 
-* **Cainamarks** (1)
+* **Cainamarks** (1) [50075](https://platzi.com/comentario/475526/) 
 Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria bueno hacer lo webpack solo.
 
-	* **Esteban Brito Alvarez** (1)
+	* **Esteban Brito Alvarez** [50075] (1)
 
-		
 		Porque es propóstito de este curso es eneseñar a usar Vue. Complicarse la vida con configuraciones que en su mayoría podrían o no ser importantes en producción no viene al caso. Conocer Webpack de forma más precisa es bueno, pero si es lo que quieres, hay un curso de Platzi sólo para Webpack 😄
 
-* **jorzarios** (0)
+* **jorzarios** (0) [303385](https://platzi.com/comentario/303385/) 
 
-	
 	Llevo horas intentando arreglar este error y nadamas no puedo. He borrado y reinstalado varias veces, he descargado de npm los modulos que me dicen que faltan y todo sigue igual. Alguna solucion??
 	
 	> myfirstvueapp@1.0.0 dev C:\Users\Jorge zamudio\Desktop\myFirstVueApp  
@@ -1466,9 +1268,8 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 	@ ./src/main.js  
 	@ multi (webpack)-dev-server/client?<http://localhost:8080> webpack/hot/dev-server ./src/main.js
 
-* **Enyelber Altube** (0)
+* **Enyelber Altube** (0) [294092](https://platzi.com/comentario/294092/) 
 
-	
 	Como estan? tengo un problema cuando hago correr el comando npm install, todo va bien pero al final me da estos errores…
 	``` 
 	    <gyp verb build dir attempting to create "build"dir: /var/www/html/cursovue/profesional/platzi-music/node_modules/node-sass/build
@@ -1498,14 +1299,12 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [294092] (1)
 
-		
 		No tienes permisos para instalar en el directorio /var/www/html/, debes probar a instalar como usuario root o www-data.
 
-* **Jesús David Mondragón Cirio** (0)
+* **Jesús David Mondragón Cirio** (0) [292314](https://platzi.com/comentario/292314/) 
 
-	
 	Hola, intenté usar el cli pero al correr la app me sale el siguiente error, podrían ayudarme o alguna idea de por donde va?
 	
 	> webpack-dev-server --inline --progress --config build/webpack.dev.conf.js
@@ -1537,19 +1336,16 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 	@ ./src/main.js  
 	@ multi (webpack)-dev-server/client?<http://localhost:8080> webpack/hot/dev-server ./src/main.js
 
-* **David E  Lares S** (0)
+* **David E  Lares S** (0) [286052](https://platzi.com/comentario/286052/) 
 
-	
 	Viendo todos los comentarios, tengo suerte de que todo saliera bien, ahora, ¿alguien conoce un plugin para Atom para manejar colores y diferenciar los tipos de lenguaje en el editor?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [286052] (1)
 
-		
 		En la parte de settings de atom puedes ir a la sección de plugins y buscar vas a encontrar muchísimos, puedes seleccionar el que mas descargas tenga por ejemplo.
 
-* **Miguel Herreros Cejas** (0)
+* **Miguel Herreros Cejas** (0) [273323](https://platzi.com/comentario/273323/) 
 
-	
 	Error al instalar npm en la carpeta platzi-music
 	
 	gyp ERR! stack Error: EACCES: permission denied, mkdir '/home/devel2/Documents/vuejs/platzi-music/node_modules/node-sass/build’  
@@ -1557,25 +1353,21 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 	gyp ERR! command “/usr/local/bin/node” “/home/devel2/Documents/vuejs/platzi-music/node_modules/node-gyp/bin/node-gyp.js” “rebuild” “–verbose” “–libsass_ext=” “–libsass_cflags=” “–libsass_ldflags=” "–libsass_library="  
 	gyp ERR! cwd /home/devel2/Documents/vuejs/platzi-music/node_modules/node-sass
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [273323] (1)
 
-		
 		No tienes permisos con ese usuario para escribir en la carpeta, prueba corriendo el comando anteponiendo sudo
 
-	* **Miguel Herreros Cejas** (1)
+	* **Miguel Herreros Cejas** [273323] (1)
 
-		
 		Lo hice y no funcionó. Al final lo logré corriendo en la carpeta de mi proyecto el siguiente comando  
 		sudo npm install node-sass --unsafe-perm
 
-	* **Agustin Clemente** (0)
+	* **Agustin Clemente** [273323] (0)
 
-		
 		Genial eso responde muchas preguntas para instalar el modulo de sass
 
-* **Lucas  Zanek** (0)
+* **Lucas  Zanek** (0) [211464](https://platzi.com/comentario/211464/) 
 
-	
 	Failed to compile.
 	
 	./src/main.js  
@@ -1594,23 +1386,20 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 	
 	Me aparece esto en el navegador al apretar npm run dev
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [211464] (2)
 
-		
 		Instalaste con npm el stage 3?
 		``` 
 		    npm install --save-dev babel-preset-stage-3
 		    
 		```
 
-	* **Lucas  Zanek** (0)
+	* **Lucas  Zanek** [211464] (0)
 
-		
 		Gracias era eso! , Evidentemente saltie el paso…
 
-* **Cristian Javier Castellanos Basto** (0)
+* **Cristian Javier Castellanos Basto** (0) [195434](https://platzi.com/comentario/195434/) 
 
-	
 	no me reconoce vue como comando, como lo puedo solucionar?
 	
 	C:\Users\christianxavier\Documents\curso javascript\prvuejs>vue init webpack-sim  
@@ -1620,9 +1409,8 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 	
 	C:\Users\christianxavier\Documents\curso javascript\prvuejs>
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [195434] (2)
 
-		
 		Tienes que tener **vue cli** instalado de manera global, veo que usas un sistema windows entonces tienes que abrir la consola como administrador y luego ejecutas este comando
 		``` 
 		    npm install -g vue-cli
@@ -1631,9 +1419,8 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 		
 		Ya debes tener el comando vue funcionando.
 
-	* **Cristian Javier Castellanos Basto** (0)
+	* **Cristian Javier Castellanos Basto** [195434] (0)
 
-		
 		aparece el siguiente error, se supone que ya había instalado estas dependencias cuando hice el curso de introducción, ejecute los comandos de nuevo pero no reconoce vue.
 		
 		npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules\vu  
@@ -1669,54 +1456,46 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 		
 		C:\Users\christianxavier\Documents\curso javascript\prvuejs>
 
-	* **Cristian Javier Castellanos Basto** (0)
+	* **Cristian Javier Castellanos Basto** [195434] (0)
 
-		
 		reinstale node y ya funciona.
 
-* **Carlos Acevedo** (0)
+* **Carlos Acevedo** (0) [192832](https://platzi.com/comentario/192832/) 
 
-	
 	Una pregunta referente a Atom. ¿Se necesita algún plug-in para que Atom muestre los items del proyecto con los iconos? Tal como aparece en la pantalla del instructor
 	
 	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-5b6dc4ec-eeeb-437c-81f5-8da5e5d2d535.jpg)
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [192832] (2)
 
-		
 		Si, el plugin se llama file icons. Te dejo el [link](https://atom.io/packages/file-icons), para que lo instales.
 
-	* **Carlos Acevedo** (0)
+	* **Carlos Acevedo** [192832] (0)
 
-		
 		Listo. ¡Gracias!
 
-	* **Juan Gonzalez González** (0)
+	* **Juan Gonzalez González** [192832] (0)
 
-		
 		en atom usas “vue component” como lenguaje para los .vue  
 		¿cual en especifico usas?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [192832] (0)
 
-		
 		Hola, el que estoy utilizando es vue-language.
 
-* **Josué Barrios Rodríguez Rodriguez** (0)
+* **Josué Barrios Rodríguez Rodriguez** (0) [183174](https://platzi.com/comentario/183174/) 
 
-	
 	Hola, detras de un proxy aparece el error :  
 	vue-cli · Failed to download repo vuejs-templates/webpack-simple: tunneling s  
 	ocket could not be established, cause=getaddrinfo ENOTFOUND 8080 8080:80
 	
 	Alguien sabe como solucionarlo? porque npm descarga e instala normal pero el vue-cli no, ya probe colocando en las variables del sistema http_proxy y https-proxy
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [183174] (1)
 
-		
 		Hola, vue-cli descarga los templates a traves de github. Si estas detras de un proxy deberias configurarlo en tu git local. Fijate si este [link](https://stackoverflow.com/questions/16153450/github-windows-client-behind-proxy#18618941) te sirve.
 
-## 0050. Webpack
+## 0050. Webpack [7788](https://platzi.com/clases/1145-vuejs-profesional/7788-webpack/)
 
 ### Descripción:
 
@@ -1727,113 +1506,95 @@ Hola, porque seguir usando webpacl-simple si es un curso profesional? Seria buen
 
 ### Comentarios:
 
-* **Juan Carlos Felizzola Vega** (12)
+* **Juan Carlos Felizzola Vega** (12) [292874](https://platzi.com/comentario/292874/) 
 
-	
 	Curso completo de Webpack:  
 	<https://platzi.com/clases/webpack/>
 
-	* **Jafet López Chaves** (3)
+	* **Jafet López Chaves** [292874] (3)
 
-		
 		muy bien gracias!
 
-	* **Freddy Córdova Arana** (3)
+	* **Freddy Córdova Arana** [292874] (3)
 
-		
 		Muy recomendado, el profesor es Leonidas 😃
 
-* **Alexander  Silvera** (7)
+* **Alexander  Silvera** (7) [283478](https://platzi.com/comentario/283478/) 
 
-	
 	Webpack también nos permite agregar archivos de CSS, archivos .svg, imágenes, urls y contenidos. Esto quiere decir que se puede compilar archivos de JavaScript y archivos estáticos
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [283478] (1)
 
-		
 		Buen dato ☝
 
-* **vcentt-lopez** (5)
+* **vcentt-lopez** (5) [686819](https://platzi.com/comentario/686819/) 
 
-	
 	¿Para cuando el curso de Vue 3?, este ya quedó obsoleto 😦
 
-	* **alanlapierre** (2)
+	* **alanlapierre** [686819] (2)
 
-		
 		Ya hay disponible un curso con Vue 3…El que le sigue a este dentro de la carrera de Vue.
 
-	* **vcentt-lopez** (1)
+	* **vcentt-lopez** [686819] (1)
 
-		
 		@alanpierre tienes razón, solo que no viene en el título, solo hasta que entras a ver el temario es que habla sobre la instalación del 3, gracias por el dato
 
-* **Victor Ruiz** (5)
+* **Victor Ruiz** (5) [352649](https://platzi.com/comentario/352649/) 
 
-	
 	Cuál es la diferencia entre webpack-simple y webpack cuando se usa vue-cli?
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [352649] (4)
 
-		
 		La complejidad de la configuración de Webpack.
 
-	* **Nicolas Gonzalez** (6)
+	* **Nicolas Gonzalez** [352649] (6)
 
-		
 		 **Hay varias diferencia…**  
 		*no solo la cantidad de **“herramientas” **que trae. Webpack obviamente trae mas (entre ellas esta **vue router** ).  
 		* **Jerarquía de archivos** (como y donde estas ubicados los archivos no solo de configuración si no los que vas a crear vos como desarollador).  
 		***Complejidad **de la app a desarrollar (al principio de el curso mencionaron la **complejidad inherente** ) Si necesitas navegación obviamente vas a utilizar webpack, y si ademas de navegación necesitas analytics por cada “pagina” vas a utilizar vuex.js.  
 		*Básicamente esas son las diferencias si hay alguna mas que sumen su comentario
 
-	* **Victor Ruiz** (2)
+	* **Victor Ruiz** [352649] (2)
 
-		
 		Gracias por los comentarios.
 		
 		Saludos.
 
-* **Allen Kevin Zapien Zamora Zapien** (3)
+* **Allen Kevin Zapien Zamora Zapien** (3) [934053](https://platzi.com/comentario/934053/) 
 
-	
 	Chale si me está costando trabajo que este curso no esté actualizado, por que no me corresponde lo que instalé con lo que está en el curso, y no sé que funciona y que ya no, de haber sabido agarraba el curso básico, pero creí que este era más completo.
 
-* **leocmpro** (3)
+* **leocmpro** (3) [472049](https://platzi.com/comentario/472049/) 
 
-	
 	¿Cómo configuro Webpack con vue-cli 3?
 
-	* **lilbanana** (4)
+	* **lilbanana** [472049] (4)
 La versión 3 del cli viene ya con sus propios templates, según tengo entendido no es necesario ya el uso de webpack
 
-* **leocmpro** (3)
+* **leocmpro** (3) [49787](https://platzi.com/comentario/472049/) 
 ¿Cómo configuro Webpack con vue-cli 3?
 
-	* **lilbanana** (4)
+	* **lilbanana** [49787] (4)
 La versión 3 del cli viene ya con sus propios templates, según tengo entendido no es necesario ya el uso de webpack
 
-* **David Alejandro Abreu Abreu** (2)
+* **David Alejandro Abreu Abreu** (2) [927427](https://platzi.com/comentario/927427/) 
 
-	
 	Con la versión Vue-CLI 3 el archivo webpack ya no es necesario según veo. Tampoco ningún tipo de configuración relacionado a webpack?
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [881438](https://platzi.com/comentario/881438/) 
 
-	
 	en la version de cli-vue 3, ya viene incluida la configuracion de webpack en uno de sus servicios:
 	
 	**Servicio CLI**  
 	Este servicio es una dependencia para el desarrollo de proyectos con Vue JS, se despliega en cada proyecto que hayas creado con Vue Cli. El Servicio CLI está creado bajo Webpack y Webpack Dev Server
 
-* **matcop** (2)
+* **matcop** (2) [873463](https://platzi.com/comentario/873463/) 
 
-	
 	ya estamos en vue 3.11.0 para cuando actualizamos …
 
-* **Juan Manuel Viveros Martinez** (2)
+* **Juan Manuel Viveros Martinez** (2) [377569](https://platzi.com/comentario/377569/) 
 
-	
 	Que tan conveniente o cuales son los beneficios de dejar la propiedad ?[hash] en la configuración del webpack
 	``` 
 	    {
@@ -1848,21 +1609,18 @@ La versión 3 del cli viene ya con sus propios templates, según tengo entendido
 	
 	En el curso anterior de vue.js el dejar el name: ‘[name].[ext]?[hash]’ de esta manera generaba conflictos al subirlo al servidor de producción ya que agregaba un código hash extra y no encontraba la ruta de la imagen, para que se deja al final ?[hash] Gracias por sus comentarios amigos.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [377569] (1)
 
-		
 		Desde mi experiencia te cuento que el hash que mencionas, es muy útil porque usualmente el navegador suele “hacer caché” de los archivos que usa un sitio. Dicho esto, el hash lo que permite es forzar siempre al browser para cargar de nuevo los archivos cacheados ya que el nombre, en realidad es el hash, cambia cada vez que se hace el build.  
 		Si no usaramos el hash, lo que pasaria es que el archivo siempre tendria el mismo nombre y el browser no lo actualizaria, siempre que hayan cambios, ya que ya lo tiene cacheado.  
 		Aqui te dejo una lectura: [Hash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
 
-* **danteddt** (2)
+* **danteddt** (2) [307215](https://platzi.com/comentario/307215/) 
 
-	
 	Configuracion: De webpack: devServer.noInfo a false
 
-* **Teofilo Rosales Gama** (2)
+* **Teofilo Rosales Gama** (2) [307202](https://platzi.com/comentario/307202/) 
 
-	
 	Por si se lo perdiero estos son los comando:
 	``` 
 	    $ vue init webpack-simple mi-proyecto
@@ -1873,72 +1631,60 @@ La versión 3 del cli viene ya con sus propios templates, según tengo entendido
 	    
 	```
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [307202] (1)
 
-		
 		😂 gracias, muy util!
 
-* **alanlapierre** (2)
+* **alanlapierre** (2) [65174](https://platzi.com/comentario/687066/) 
 Hay grandes cambios de Vue 2 a Vue 3 ?
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [65174] (1)
 
-		
 		Aún no se han anunciado todos los cambios que tendrá, pero a palabras de Evan You, la manera de como hacemos Vue 2 funcionará en Vue 3
 		
 		<https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547>
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [620313](https://platzi.com/comentario/620313/) 
 
-	
 	La propiedad test es como el criterio de busqueda para los archivos que aplicará la regla, mediante una expresion regular.  
 	Luego en la propiedad loader viene el nombre de la regla.
 	
 	Vue-loader es un modulo de node que transforma el codigo vue en codigo js.
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [620308](https://platzi.com/comentario/620308/) 
 
-	
 	Las rules permiten configurar procesos intermedios entre el entrypoint y el output. Por ejemplo: compilar archivos sass, verificar linteo etc…
 
-* **Michael Rodriguez** (1)
+* **Michael Rodriguez** (1) [598383](https://platzi.com/comentario/598383/) 
 
-	
 	Que son las rules? aqui la respuesta
 
-* **José Ricardo Romo Gutiérrez** (1)
+* **José Ricardo Romo Gutiérrez** (1) [469738](https://platzi.com/comentario/469738/) 
 
-	
 	el video esta a 60fps? se ve bastante bien
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [469738] (1)
 
-		
 		super bien!
 
-* **Ruben Dario Matos** (1)
+* **Ruben Dario Matos** (1) [396861](https://platzi.com/comentario/396861/) 
 
-	
 	Eres el que mejor lo ha explicado, con calma, y muy bien definido. Gracias
 
-* **Sebastian Cardoso Castillo** (1)
+* **Sebastian Cardoso Castillo** (1) [247941](https://platzi.com/comentario/247941/) 
 
-	
 	Como veo el signo de ==== del if en el minuto 10:05?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [247941] (4)
 
-		
 		Es por el tipo de fuente que usa en el editor de texto, busca la fuente Fira Code y algo sobre font ligatures, yo tengo ese misma característica en pycharm
 
-	* **Iván Mauricio Toro Cifuentes** (2)
+	* **Iván Mauricio Toro Cifuentes** [247941] (2)
 
-		
 		[Para Atom.](https://atom.io/packages/firacode)
 
-* **juan david vargas cante** (1)
+* **juan david vargas cante** (1) [187142](https://platzi.com/comentario/187142/) 
 
-	
 	¿Alguien ha encontrado una solución para esto? no se si sea de chrome o que
 	``` 
 	    Failed to loadresource: the server responded with a statusof404 (NotFound)
@@ -1948,100 +1694,84 @@ Hay grandes cambios de Vue 2 a Vue 3 ?
 	    
 	```
 
-	* **juan david vargas cante** (0)
+	* **juan david vargas cante** [187142] (0)
 
-		
 		Alguien? profe Nacho?
 
-	* **juan david vargas cante** (0)
+	* **juan david vargas cante** [187142] (0)
 
-		
 		Cree el proyecto con “vue init webpack project-name”, y no me dio más el problema.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [187142] (1)
 
-		
 		Es raro lo que te sucede, no deberias tener problema con el template simple. Chequea tener todas las dependencias instaladas. Tambien podes probar creando de nuevo el proyecto para ver que no haya sido algo aislado.
 		
 		De todos modos el template webpack tambien sirve, solo ten en cuenta que es un poco mas avanzado.
 
-	* **Cristofer Fuentes Barra** (1)
+	* **Cristofer Fuentes Barra** [187142] (1)
 
-		
 		Hola ! Creo que es lo que me pasaba a mi con mi proyecto del curso anterior (Vue basico) ese error solo afecta al auto-refresh que hace el servidor cuando detecta cambios en los archivos debe ser un simple bug, algo molesto pero no afecta en nada importante realmente.
 
-* **José Ricardo Romo Gutiérrez** (1)
+* **José Ricardo Romo Gutiérrez** (1) [49610](https://platzi.com/comentario/469738/) 
 el video esta a 60fps? se ve bastante bien
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [49610] (1)
 
-		
 		super bien!
 
-* **Juan Manuel Viveros Martinez** (1)
+* **Juan Manuel Viveros Martinez** (1) [41569](https://platzi.com/comentario/377569/) 
 Que tan conveniente o cuales son los beneficios de dejar la propiedad ?[hash] en la configuración del webpack { test: /\\.(p...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [41569] (1)
 
-		
 		Desde mi experiencia te cuento que el hash que mencionas, es muy útil porque usualmente el navegador suele “hacer caché” de los archivos que usa un sitio. Dicho esto, el hash lo que permite es forzar siempre al browser para cargar de nuevo los archivos cacheados ya que el nombre, en realidad es el hash, cambia cada vez que se hace el build.  
 		Si no usaramos el hash, lo que pasaria es que el archivo siempre tendria el mismo nombre y el browser no lo actualizaria, siempre que hayan cambios, ya que ya lo tiene cacheado.  
 		Aqui te dejo una lectura: [Hash](https://medium.com/@sahilkkrazy/hash-vs-chunkhash-vs-contenthash-e94d38a32208)
 
-* **Victor Ruiz** (1)
+* **Victor Ruiz** (1) [39234](https://platzi.com/comentario/352649/) 
 Cuál es la diferencia entre webpack-simple y webpack cuando se usa vue-cli?
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [39234] (4)
 
-		
 		La complejidad de la configuración de Webpack.
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [283477](https://platzi.com/comentario/283477/) 
 
-	
 	Webpack: Tiene el propósito de trabajar con diferentes archivos en nuestro desarrollo local, pero generando un único archivo, aunque podemos configurarlo para que sea uno, dos o tres archivos, eso depende de cómo lo necesitemos.
 
-* **Oscar Stevens Cuartas Bejarano** (0)
+* **Oscar Stevens Cuartas Bejarano** (0) [258997](https://platzi.com/comentario/258997/) 
 
-	
 	estoy realizando el curso y con las versiones de NPM y NODE que me ha bajado y el paquete que creo webpack en mi caso para esta fecha no me saca en las RULES esas lineas 20 y 21 que tiene IGNACIO en el minuto 6:44, eso puede ser un problema para yo seguir el curso?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [258997] (0)
 
-		
 		No deberia ser un problema, el template que usa el CLI se va actualizando y mejorando de a poco. Es normal que cambien ese tipo de codigo, pero no deberias tener ningun problema. Cualquier cosa no dudes en escribirnos!
 
-* **Juan** (0)
+* **Juan** (0) [186849](https://platzi.com/comentario/186849/) 
 
-	
 	Q QUIERE DECIR TEST:/.VUE$/
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [186849] (2)
 
-		
 		Test es una propiedad que recibe una expresion regular. Sirve para indicar todos los archivos a los que queres aplicarle el loader o la regla. En este caso a todos los archivos con extension .vue
 
-* **pblfergt** (0)
+* **pblfergt** (0) [181066](https://platzi.com/comentario/181066/) 
 
-	
 	¿Seria una buena practica por motivos de seguridad cambiarle el nombre al archivo generado build.js o no es relevante hacerlo?
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [181066] (2)
 
-		
 		Podrias poner el nombre que te guste pero no es una mala practica usar build como nombre. Tampoco puede traer problemas de seguridad. Si cambias el nombre recorda luego actualizar la referencia en el HTML
 
-	* **Omar Boza** (2)
+	* **Omar Boza** [181066] (2)
 
-		
 		De todas formas el nombre del archivo lo puedes ver en el inspector, creo que queda en lo mismo cambiar el nombre o no
 
-	* **pblfergt** (0)
+	* **pblfergt** [181066] (0)
 
-		
 		Si exacto.
 
-## 0060. Babel
+## 0060. Babel [7789](https://platzi.com/clases/1145-vuejs-profesional/7789-babel/)
 
 ### Descripción:
 
@@ -2050,125 +1780,102 @@ Cuál es la diferencia entre webpack-simple y webpack cuando se usa vue-cli?
 
 ### Comentarios:
 
-* **Juan Carlos Felizzola Vega** (16)
+* **Juan Carlos Felizzola Vega** (16) [292877](https://platzi.com/comentario/292877/) 
 
-	
 	`babel-core`: es lo que nos permite la compilación  
 	`babel-loader`: es la regla que nos permite transformar nuestro código a través de Webpack  
 	`babel-preset-env`: es el conjunto de plugins que utiliza babel para transformar nuestro código
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [292877] (1)
 
-		
 		Gracias por el resumen!!
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [292877] (1)
 
-		
 		😎
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [292877] (1)
 
-		
 		Buen resumen de las devDependencies de esta clase
 
-* **Miguel Angel Landa Lopez** (12)
+* **Miguel Angel Landa Lopez** (12) [620332](https://platzi.com/comentario/620332/) 
 
-	
 	Excelente que explique paso a paso el porqué de todas las herramientas que se utilizan, ya QUE EN OTROS CURSOS DE PLATZI NO SE HACE, y dichos conocimientos son muy importantes para entender lo que se está haciendo y no memorizar comandos!. GRacias!
 
-* **Alexander  Silvera** (10)
+* **Alexander  Silvera** (10) [283487](https://platzi.com/comentario/283487/) 
 
-	
 	Preset conjunto de funcionalidades que queremos que Babel soporte, conjunto de listados que babel compila.
 
-* **Lucas  Zanek** (4)
+* **Lucas  Zanek** (4) [211550](https://platzi.com/comentario/211550/) 
 
-	
 	Como hacer que atom detecte todo el codigo y lo ponga en colores como tiene el profesor? ya que gran cantidad del codigo me aparece en blanco
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [211550] (8)
 
-		
 		Podes intalarte este plugin
 		
 		<https://atom.io/packages/language-vue>
 
-	* **Lucas  Zanek** (0)
+	* **Lucas  Zanek** [211550] (0)
 
-		
 		Muchas gracias profesor!
 
-	* **Kevin Brayan Luna Figueroa** (0)
+	* **Kevin Brayan Luna Figueroa** [211550] (0)
 
-		
 		@Kabsolut te recomiendo VSCode también es muy bueno para Vue.js
 
-	* **David E  Lares S** (0)
+	* **David E  Lares S** [211550] (0)
 
-		
 		pregunté por eso dos videos atrás, gracias por la respuesta.
 
-* **jonathan sanchez** (3)
+* **jonathan sanchez** (3) [881495](https://platzi.com/comentario/881495/) 
 
-	
 	 **Babel** es una herramienta que nos permite transformar nuestro código JS de última generación (o con funcionalidades extras) a JS que cualquier navegador o versión de Node.js entienda.
 
-* **Nacxit** (1)
+* **Nacxit** (1) [980005](https://platzi.com/comentario/980005/) 
 
-	
 	La funcion de babel es tranformar nuestro codigo JS mas moderno a los Exploradores mas antiguo es cuestion de combatibilidad…
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560831](https://platzi.com/comentario/560831/) 
 
-	
 	Babel. he oido hablar de el en el pasado y comprendo su finalidad, pero hasta el momento no me he atrevido a implementarlo en proyectos caseros.
 
-* **Benjamín Parra** (1)
+* **Benjamín Parra** (1) [538181](https://platzi.com/comentario/538181/) 
 
-	
 	Gracias por el trabajo de explicar paso a paso como funciona, de verdad es muy útil.
 
-* **jricardo** (1)
+* **jricardo** (1) [519096](https://platzi.com/comentario/519096/) 
 
-	
 	Para VisualStudio Code podemos usar el plugin ESLint ![](https://i.ibb.co/C9LtkCp/Captura-de-pantalla-2019-02-23-a-la-s-12-36-06-p-m.png)
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396092](https://platzi.com/comentario/396092/) 
 
-	
 	[Babel.js](https://babeljs.io/)
 
-* **Juan Manuel Viveros Martinez** (1)
+* **Juan Manuel Viveros Martinez** (1) [377576](https://platzi.com/comentario/377576/) 
 
-	
 	Excelente explicación, queda muy claro.
 
-* **Leonel Rojas** (1)
+* **Leonel Rojas** (1) [354847](https://platzi.com/comentario/354847/) 
 
-	
 	Buenisimo Babel!
 
-* **Alexander  Silvera** (1)
+* **Alexander  Silvera** (1) [283486](https://platzi.com/comentario/283486/) 
 
-	
 	Babel es un transpilador de código. Una herramienta que transforma y compila nuestro código. Esto quiere decir que nos permite escribir en un código compatible con cualquier navegador.
 
-* **Sebastian Martin** (1)
+* **Sebastian Martin** (1) [186332](https://platzi.com/comentario/186332/) 
 
-	
 	Hola, Cual es la diferencia entre babel-preset-es20XX (15, 16, 17) y babel-preset-env, podrían explicarme?
 	
 	Saludos
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [186332] (8)
 
-		
 		Los presets 20XX tienen la funcionalidad especifica soportada por cada version. El preset de env se puede configurar a nivel del browser, esto implica que en base al browser que vas a querer darle soporte, el mismo preset es quien va a determinar que plugins va a usar y que funcionalidad se va a transpilar.
 
-	* **José Jesús Palacios** (1)
+	* **José Jesús Palacios** [186332] (1)
 
-		
 		 **Actualización:**  
 		Extraído de la web de [babeljs.io](https://babeljs.io/docs/plugins/)
 		
@@ -2176,7 +1883,7 @@ Cuál es la diferencia entre webpack-simple y webpack cuando se usa vue-cli?
 		
 		Así pues, ahora es suficiente con usar `babel-preset-env`, para ajustar desde es2015 hasta el último o mas actual.
 
-## 0070. Eslint
+## 0070. Eslint [7790](https://platzi.com/clases/1145-vuejs-profesional/7790-eslint/)
 
 ### Descripción:
 
@@ -2192,9 +1899,8 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 
 ### Comentarios:
 
-* **israellomba** (41)
+* **israellomba** (41) [422633](https://platzi.com/comentario/422633/) 
 
-	
 	Después de varias horas de estar peleando para arreglar el error “Parsing error: unexpected token =” lo resolví asi:
 	
 	  1. Instala el plugin oficial de ESLint para vue con el comando
@@ -2230,30 +1936,25 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	
 	Con eso tendría que funcionar. Pueden encontrar más documentacion en <https://github.com/vuejs/eslint-plugin-vue>
 
-	* **Mauricio Arturo Florentin Oliver** (6)
+	* **Mauricio Arturo Florentin Oliver** [422633] (6)
 
-		
 		Me estaba volviendo loco con este error!  
 		Gracias por compartir la solución @israellomba
 
-	* **YhonGuevara** (2)
+	* **YhonGuevara** [422633] (2)
 
-		
 		Excelente aporte, Mil gracias… 😃
 
-	* **Gabriel Flores** (2)
+	* **Gabriel Flores** [422633] (2)
 
-		
 		muchas gracias 😃
 
-	* **Carlos capacho** (2)
+	* **Carlos capacho** [422633] (2)
 
-		
 		Gracias amigo!!
 
-	* **israellomba** (16)
+	* **israellomba** [422633] (16)
 
-		
 		Me da gusto que les haya servido mi solución! Hoy hay una solución mucho más fácil.
 		
 		La nueva Vue CLI 3 ya permite crear proyectos con ESLint integrado y podemos olvidarnos de toda la configuración complicada de webpack.
@@ -2288,29 +1989,24 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 		
 		Saludos!
 
-	* **DiegoTinitana** (1)
+	* **DiegoTinitana** [422633] (1)
 
-		
 		del fructas muchas gracias
 
-	* **crismoreno** (1)
+	* **crismoreno** [422633] (1)
 
-		
 		Muchas gracias!
 
-	* **jricardo** (1)
+	* **jricardo** [422633] (1)
 
-		
 		Excelente funciona muy bien
 
-	* **Daniel Ricardo Caballero Patiño** (1)
+	* **Daniel Ricardo Caballero Patiño** [422633] (1)
 
-		
 		Sigue sirviendo esta solución solo hay que cambiar la versión ecmaVersion a la actual, gracias por el aporte !!!
 
-* **Joseph Paucar** (10)
+* **Joseph Paucar** (10) [757607](https://platzi.com/comentario/757607/) 
 
-	
 	En mi caso tuve problemas para terminar de configurar el .eslintrc  
 	Les dejo la solución a la que llegue luego de ver sus comentarios y buscar un rato por StackOverflow.
 	
@@ -2336,58 +2032,48 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	
 	Espero les ayude.
 
-	* **DanielAlvarez** (0)
+	* **DanielAlvarez** [757607] (0)
 
-		
 		¡ Gracias Joseph !
 
-	* **Julianv8** (1)
+	* **Julianv8** [757607] (1)
 
-		
 		Muchas gracias me fue de mucha ayuda al caer en el mismo problema.
 
-	* **markkos89** (1)
+	* **markkos89** [757607] (1)
 
-		
 		Muchas gracias !! para me salvaste de renegar un buen rato
 
-	* **mateombar** (1)
+	* **mateombar** [757607] (1)
 
-		
 		Muchas gracias, en serio me encanta que la comunidad de platzi tenga a personas como vos
 
-	* **Eduardo Antonio Rivero Rivera** (1)
+	* **Eduardo Antonio Rivero Rivera** [757607] (1)
 
-		
 		Esta super cool tu aporte, nos podrás compartir donde encontraste la solución para entrar mas en detalles. Te lo agradecería mucho.
 
-* **MauricioHernanCabrera** (8)
+* **MauricioHernanCabrera** (8) [233235](https://platzi.com/comentario/233235/) 
 
-	
 	Si lo quieren para sublimetext:  
 	To install via Package Control, do the following:  
 	Within Sublime Text, bring up the Command Palette and type install. Among the commands you should see Package Control: Install Package. If that command is not highlighted, use the keyboard or mouse to select it. There will be a pause of a few seconds while Package Control fetches the list of available plugins.  
 	When the plugin list appears, type eslint. Among the entries you should see **SublimeLinter-contrib-eslint**. If that entry is not highlighted, use the keyboard or mouse to select it.  
 	[Repositorio de github](https://github.com/roadhump/SublimeLinter-eslint)
 
-	* **Angel Camacho** (1)
+	* **Angel Camacho** [233235] (1)
 
-		
 		Muchas gracias.
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [233235] (1)
 
-		
 		Gracias!!
 
-	* **pigpen** (1)
+	* **pigpen** [233235] (1)
 
-		
 		Hoy Febrero 2019 lo que deben hacer es lo que dice israellomba, trabajar con Vue Cli 3, ya trae todo este asunto resuelto.
 
-* **Teofilo Rosales Gama** (7)
+* **Teofilo Rosales Gama** (7) [307227](https://platzi.com/comentario/307227/) 
 
-	
 	Para ahorrarles el viaje aqui les va
 	``` 
 	    Eslint
@@ -2399,14 +2085,12 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	    
 	```
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [307227] (1)
 
-		
 		gracias bastante util
 
-* **Carlos Andres Romero Ortiz** (6)
+* **Carlos Andres Romero Ortiz** (6) [658685](https://platzi.com/comentario/658685/) 
 
-	
 	presente errores al realizar la instalación como lo muestra el video, al revisar los comentarios encontre la solución, a continuación relaciono los pasos.
 	
 	correr los comandos de instalación para los plugins de eslint  
@@ -2435,19 +2119,16 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	    
 	```
 
-	* **jesusamaro25** (2)
+	* **jesusamaro25** [658685] (2)
 
-		
 		¡Muchísimas gracias por tu aporte! Me has ayudado en sobremanera.
 
-	* **Roberto Ocando Morales** (1)
+	* **Roberto Ocando Morales** [658685] (1)
 
-		
 		5 estrellas…
 
-* **Mauricio Andres  Padilla Hoyos** (4)
+* **Mauricio Andres  Padilla Hoyos** (4) [184462](https://platzi.com/comentario/184462/) 
 
-	
 	Hola… cual sería la regla para que el linter no coloque como error un comentario, ejemplo me coloca como error cuando hago esto  
 	import Vue from ‘vue’ //import de la libreria Vue  
 	import App from ‘./App.vue’ // import del componente App.vue
@@ -2455,62 +2136,52 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	me lintea los comentarios…  
 	Agradezco su ayuda… 😃
 
-	* **Nacho Anaya** (10)
+	* **Nacho Anaya** [184462] (10)
 
-		
 		Hola, en realidad no lintea los comentarios como error. Solo te pide que coloques un espacio entre las dos barras y el mensaje: `import Vue from ‘vue’ // import de la libreria Vue`
 
-	* **Mauricio Andres  Padilla Hoyos** (2)
+	* **Mauricio Andres  Padilla Hoyos** [184462] (2)
 
-		
 		Hola Nacho… excelente… si funciona…Muchas Gracias.
 
-	* **Kevin Brayan Luna Figueroa** (1)
+	* **Kevin Brayan Luna Figueroa** [184462] (1)
 
-		
 		Muchas gracias por la ayuda @ianaya89 !!
 
-* **jonathan sanchez** (3)
+* **jonathan sanchez** (3) [881532](https://platzi.com/comentario/881532/) 
 
-	
 	Eslint es un linter de código. Es una herramienta que nos permite hacer dos tipos de chequeo. Por un lado nos permite establecer un estilo de código homogéneo para todo el equipo de desarrollo. Permite definir ciertas reglas para que todos los desarrolladores de ese proyecto las cumplan y las apliquen en el código.
 	
-	  * es importante decir que al ser un curso desactualizado, es poco util lo visto en esta clase. pues ya cli-vue 3, se configura automatico el eslint al momento de crear un proyecto sencillo o con valores default.
+	* es importante decir que al ser un curso desactualizado, es poco util lo visto en esta clase. pues ya cli-vue 3, se configura automatico el eslint al momento de crear un proyecto sencillo o con valores default.
 	
 	
 
-* **Menkar Felipe Cantor Molina** (2)
+* **Menkar Felipe Cantor Molina** (2) [892309](https://platzi.com/comentario/892309/) 
 
-	
 	Yo tuve el problema de que generaba error y con los comentario lo solucioné pero el eslint no me validaba correctamente en VSCODE, buscando encontré que debia hacer un $eslint --init pero generaba un error de que no tenia permiso para abrir el archivo eslint.ps1 por lo que me tocó correr en el PowerShell como administrador el siguiente comando [Set-ExecutionPolicy RemoteSigned] y ahí si luego correr [eslint --init], configurarlo con las preguntas que me hacia y luego editar el archivo .eslintrc.js y tenia configurado era sin el .js y obviamente agregar la regla de no-new.
 	
 	Espero esto le sea de ayuda a alguno
 
-	* **johngoyo88** (1)
+	* **johngoyo88** [892309] (1)
 
-		
 		Hola, que tal amigo? yo tengo el mismo problema, he buscado y he tratado de solucionarlo pero igual no puedo, sera que lograste hacerlo de otra manera, o si puedes explicar mas especifico, seria de gran ayuda. gracias.
 
-* **abax** (2)
+* **abax** (2) [754784](https://platzi.com/comentario/754784/) 
 
-	
 	 _Actualización_
 	
 	Agregar el plugin de eslint para vue: `npm i -D eslint-plugin-vue`
 
-* **Armando Aguilar L.** (2)
+* **Armando Aguilar L.** (2) [608402](https://platzi.com/comentario/608402/) 
 
-	
 	Demasiados plugins plugins plugins
 
-* **Vicalex96** (2)
+* **Vicalex96** (2) [567083](https://platzi.com/comentario/567083/) 
 
-	
 	yo no soy capaz de usar el eslint, me sale que la instalacion presento 3 vulnerabilidades (1 moderada y 2 altas) y nunca termina funcionando la corrección dentro de Atom =/
 
-* **Benjamín Parra** (2)
+* **Benjamín Parra** (2) [538407](https://platzi.com/comentario/538407/) 
 
-	
 	Me aparece el siguiente error:
 	``` 
 	    <Failed to compile.
@@ -2554,9 +2225,8 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	
 	No entiendo donde puede estar el error.
 
-	* **Benjamín Parra** (3)
+	* **Benjamín Parra** [538407] (3)
 
-		
 		lo resolví modificando el .eslintrc, dejandolo así:
 		``` 
 		    {
@@ -2578,32 +2248,27 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 		    
 		```
 
-	* **hugohr1** (3)
+	* **hugohr1** [538407] (3)
 
-		
 		Saludos  
 		me funciono con el .eslintrc anterior y luego instalado  
 		npm i -D eslint-loader  
 		npm install -D babel-eslint
 
-	* **Germán** (2)
+	* **Germán** [538407] (2)
 
-		
 		esta solución funciona Mayo 20/2019
 
-	* **AntonioHumanesPacheco** (2)
+	* **AntonioHumanesPacheco** [538407] (2)
 
-		
 		Además a mi me daba un error adicional, instalando: $ npm i -D eslint-plugin-vue se soluciona.
 
-	* **newtongrav** (1)
+	* **newtongrav** [538407] (1)
 
-		
 		Yo pude resolverlo con ayuda de StackOverflow: [link](https://stackoverflow.com/questions/36001552/eslint-parsing-error-unexpected-token)
 
-* **Oscar Camilo Ruiz Rojas Ruiz** (2)
+* **Oscar Camilo Ruiz Rojas Ruiz** (2) [223959](https://platzi.com/comentario/223959/) 
 
-	
 	Opción para arreglar los errores automaticamente.
 	``` 
 	    options: {
@@ -2612,22 +2277,19 @@ Por otro lado nos facilita la configuración usando reglas predefinidas. Estas r
 	    
 	```
 
-* **Raúl Martín Anaya Rojo** (2)
+* **Raúl Martín Anaya Rojo** (2) [81809](https://platzi.com/comentario/990197/) 
 Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático ¿Será conveniente seguir viendo este curso?
 
-	* **mecubro** (1)
+	* **mecubro** [81809] (1)
 
-		
 		Si, tiene muchisimas cosas que aprender. Muy buenas practicas por ejemplo. Yo la estoy haciendo actualmente y es funciónal con mi conocimiento.
 
-* **sebastian ramirez ocampo** (1)
+* **sebastian ramirez ocampo** (1) [768187](https://platzi.com/comentario/768187/) 
 
-	
 	Buenas tardes , estoy teniendo problemas para la instalación del eslint y he tenido varios errores, espero que me puedan ayudar , muchas gracias ![error.png](https://static.platzi.com/media/user_upload/error-2e0f5942-3132-4076-9e39-845bf955b8d7.jpg)
 
-* **Angel Santillan Brambila** (1)
+* **Angel Santillan Brambila** (1) [732559](https://platzi.com/comentario/732559/) 
 
-	
 	gracias a todos los comentarios anteriores pero a mi despues de las solucion de todos obtuve un ultimo error :  
 	Nota : aun que pese a este error si me corre correctamente la pagina  
 	WARNING in ./src/App.vue
@@ -2641,9 +2303,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	@ ./src/main.js 2:0-28  
 	@ multi (webpack)-dev-server/client?<http://localhost:8080> webpack/hot/dev-server ./src/main.js
 
-* **newtongrav** (1)
+* **newtongrav** (1) [647936](https://platzi.com/comentario/647936/) 
 
-	
 	Si a alguno no le surte efecto, capaz deban cambiar la configuracion de eslint. Por ejemplo, en mi caso tengo un .json con lo siguiente:
 	
 	**settings.json**
@@ -2656,9 +2317,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	
 	Uso Visual Studio Code, en los demas editores nose si funcionara de la misma manera. Capaz deban ir al archivo json de la configuracion del editor y agregar esta regla.
 
-* **santossoffli** (1)
+* **santossoffli** (1) [578052](https://platzi.com/comentario/578052/) 
 
-	
 	Hola, me sale este error:  
 	ERROR in ./src/main.js  
 	Module build failed: Error: Cannot find module 'eslint’  
@@ -2671,74 +2331,61 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	
 	Alguna orientacion?
 
-	* **alexcastiblanco** (1)
+	* **alexcastiblanco** [578052] (1)
 
-		
 		<https://github.com/vuejs/eslint-plugin-vue/issues/916>
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560872](https://platzi.com/comentario/560872/) 
 
-	
 	Intale el plugon de ESlint en Sublime 3, pero desafortunadamente no hace nada.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [560872] (1)
 
-		
 		Creaste el archivo .eslintrc en la raiz del proyecto?, si no el linter no conoce con que reglas trabajar.
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [560872] (1)
 
-		
 		En efecto, esta a nivel raíz tal como lo hace el profesor
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [560872] (1)
 
-		
 		Humm, extraño, no sale ningún error en Sublime Text? Usaste este plugin <https://github.com/SublimeLinter/SublimeLinter-eslint>
 
-	* **Oscar Hernando Cabrera Plazas** (1)
+	* **Oscar Hernando Cabrera Plazas** [560872] (1)
 
-		
 		Instalaste SublimeOnSaveBuild?.. al instalar este plugins, no necesitas abrir la consola, sino que al realizar save el el archivo el le mostrará los warning o errores…
 		
 		Instala el paquete con Control+Shift+P selecciona Package Control: Install Package busque el plugins SublimeOnSaveBuild , cierra el archivo y al abrir ya lo tienes automaticamente
 
-* **Mcaberta** (1)
+* **Mcaberta** (1) [535089](https://platzi.com/comentario/535089/) 
 
-	
 	Alguien tiene el mismo error que me pueda orientar!!!  
 	![errorVuejs.png](https://static.platzi.com/media/user_upload/errorVuejs-60b1ac7d-02fb-41e5-b5cb-42f89e369c74.jpg)
 
-	* **Angel Hernandez** (2)
+	* **Angel Hernandez** [535089] (2)
 
-		
 		Parece un error de sintaxis, un “=” fuera de lugar 😄
 
-	* **ebar0n (Platzi)** (2)
+	* **ebar0n (Platzi)** [535089] (2)
 
-		
 		Hola, puedes poner el codigo del archivo App.vue?
 
-	* **Mcaberta** (2)
+	* **Mcaberta** [535089] (2)
 
-		
 		Muchas gracias ya lo resolvi instalando el plugin oficial Eslint para Vue y modifique el archivo .eslintrc.
 		
 		Les agradezco mucho de cualquier forma su pronta respuesta a colaborar!!!
 
-	* **Benjamín Parra** (1)
+	* **Benjamín Parra** [535089] (1)
 
-		
 		puedes dar la solucion paso a paso por favor. Tengo el mismo drama
 
-	* **Miguel Angel Landa Lopez** (1)
+	* **Miguel Angel Landa Lopez** [535089] (1)
 
-		
 		Tenías mal declarada la etiqueta <style>
 
-* **camimells** (1)
+* **camimells** (1) [509336](https://platzi.com/comentario/509336/) 
 
-	
 	Acá la soluci{on de como debe quedar el eslintrc <https://vuejs.github.io/eslint-plugin-vue/user-guide/#faq>
 	``` 
 	    {
@@ -2760,9 +2407,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 
-	* **carlos-bolivar** (1)
+	* **carlos-bolivar** [509336] (1)
 
-		
 		Si se instala el plugin de html que instala Nacho en el video, se debe agregar en plugins el valor html quedando
 		``` 
 		    <code> {
@@ -2784,28 +2430,24 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 		    
 		```
 
-* **Alejandro Narvaja** (1)
+* **Alejandro Narvaja** (1) [504372](https://platzi.com/comentario/504372/) 
 
-	
 	Al momento de configurar eslint dentro del archivo de configuración de webpack (webpack.config.js) siempre tener en cuenta de meterlo primero en la lista de objetos, ya que queremos aplicar eslint sobre el código de desarrollo, no el de producción.
 
-	* **Alejandro Narvaja** (1)
+	* **Alejandro Narvaja** [504372] (1)
 
-		
 		Me corrijo y añado: esto lo hacemos mediante el parámetro
 		``` 
 		    "enforce": 'pre"
 		    
 		```
 
-* **DarkMaster22** (1)
+* **DarkMaster22** (1) [498000](https://platzi.com/comentario/498000/) 
 
-	
 	instale el plugin de html e hice la modificación en el archivo .eslintrc pero me sigue apareciendo el error de JSX
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (2)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [498000] (2)
 
-		
 		Lo que hice para solucionar ese error fue seguir las instrucciones oficiales del [plugin linter de vue](https://eslint.vuejs.org/user-guide/#installation)
 		
 		  1. Cambiar de nombre al archivo .eslintrc por .eslintrc.js
@@ -2831,14 +2473,12 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 		
 		NOTA: La solución que describí funciona a la fecha de escribir éste comentario (Febrero de 2019), hay que tomar en cuenta muchas herramientas dejan de funcionar de una versión a otra en muy poco tiempo. También desconozco si fue correcto hacer ese cambio o si me acarreará problemas a medida que siga el curso (si eso sucede, desactivaré el loader de eslint en webpack, aunque creo que eso no es recomendable).
 
-* **leocmpro** (1)
+* **leocmpro** (1) [472027](https://platzi.com/comentario/472027/) 
 
-	
 	Yo prefiero no deshabilitar la regla que impide el uso de la expresión “new” sin una variable de asignación, en su lugar, prefiero seguir la sugerencia de ESLint para la escritura correcta con esta regla.
 
-* **Jafet López Chaves** (1)
+* **Jafet López Chaves** (1) [449075](https://platzi.com/comentario/449075/) 
 
-	
 	La configuración de ESLint
 	``` 
 	    {
@@ -2867,7 +2507,7 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396123](https://platzi.com/comentario/396123/) 
 
 	```
 	    npm i -D eslint
@@ -2889,9 +2529,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 
-* **makroz** (1)
+* **makroz** (1) [376776](https://platzi.com/comentario/376776/) 
 
-	
 	una ayuda porfavor, estoy agregando la regla a webpack y me sale error al momento de correr el servidor  
 	este es mi codigo(la probe sin insertar eso y si corre):
 	``` 
@@ -2929,9 +2568,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [376776] (2)
 
-		
 		La regla debe ser `test` no `text` si cambias eso ya no debes tener problema
 		``` 
 		    {
@@ -2943,9 +2581,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 		    
 		```
 
-* **davidpru** (1)
+* **davidpru** (1) [376525](https://platzi.com/comentario/376525/) 
 
-	
 	Hola amigos, ahora npm al instalar eslint tal y como se indica en el curso me dice que faltan dependencias. Sabeis como puedo solucionarlo? Gracias de antemano
 	``` 
 	    ➜  test-vue npm install eslint-config-standard
@@ -2962,51 +2599,43 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [376525] (2)
 
-		
 		debes ejecutar  
 		`npm install -D eslint eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard`
 		
 		Con esto instalas las dependencias que faltan y todo debe funcionar sin problema.
 
-	* **davidpru** (1)
+	* **davidpru** [376525] (1)
 
-		
 		Gracias! Mañana en la oficina pruebo y te digo.
 
-* **rperalta** (1)
+* **rperalta** (1) [348694](https://platzi.com/comentario/348694/) 
 
-	
 	Eslint actualmente no es funcionando de la mima forma anteriormente visite este curso y funcionaba pero actualmente me da un error del html me dice que sierre el tag img y esta serrado ademas vuejs funciona perfectamente sin eslint
 
-* **JOEL HERNANDEZ** (1)
+* **JOEL HERNANDEZ** (1) [341232](https://platzi.com/comentario/341232/) 
 
-	
 	Alguien sabe como configurar Eslint para Vizual Studio Code por favor
 
-	* **JOEL HERNANDEZ** (1)
+	* **JOEL HERNANDEZ** [341232] (1)
 
-		
 		Estoy usando el Visual Studio Code e no consigo que mi webpack me muestre tal como muestra en el video, una ayuda por favor !
 		
 		[Captura de Tela 2018-07-27 às 00.37.40.png](https://static.platzi.com/media/user_upload/Captura%20de%20Tela%202018-07-27%20a%CC%80s%2000.37.40-310ed7cc-593f-4e7c-890c-0d00d72c36d8.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [341232] (1)
 
-		
 		Instalaste las dependencias y plugins necesarios que muestra el profesor, la captura que muestras es de la terminal y no de VS code como tal.
 
-	* **hugohr1** (1)
+	* **hugohr1** [341232] (1)
 
-		
 		hola!  
 		solo es inastalar el siguiente componente  
 		<https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint>
 
-* **Vktor** (1)
+* **Vktor** (1) [333057](https://platzi.com/comentario/333057/) 
 
-	
 	Eslint me muestra unos errores en el webpack:
 	``` 
 	    [standard] Parsing error: Cannot readproperty 'ecmaFeatures' of undefined
@@ -3019,9 +2648,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	
 	Alguien sabe que rules debo modificar para que no los muestre?
 
-	* **Angel Camacho** (3)
+	* **Angel Camacho** [333057] (3)
 
-		
 		Fíjate en tu código y verifica que no estés usando , o ; al final.
 		
 		**Por ejemplo:**  
@@ -3043,9 +2671,8 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 		
 		Saludos
 
-	* **Vktor** (1)
+	* **Vktor** [333057] (1)
 
-		
 		Revisé y si, estoy usando “,” al final de cada objeto en El webpackconfig pero es por que ya viene asi cuando se generó, lo modifiqué, gracias
 		``` 
 		            test: /\.sass$/,
@@ -3068,26 +2695,23 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 		
 		y no tengo idea de a que se refiere
 
-	* **Angel Camacho** (2)
+	* **Angel Camacho** [333057] (2)
 
-		
 		Respecto al **parsing error** que estás teniendo se me hace que es algún problema con las dependencias. Podrías probar haciendo de nuevo una instalación limpia.  
 		Hace algún tiempo llegue a tener un problema semejante y el problema era que una de las dependencias necesitaba reinstalarse por a o b motivos.  
 		Podrías probar hacer eso y contarnos como te fue.
 
-* **Angel Camacho** (1)
+* **Angel Camacho** (1) [330551](https://platzi.com/comentario/330551/) 
 
-	
 	Realmente no conocía ESLint y ahora estoy enamorado.  
 	Ahora ya tengo la herramienta perfecta para hacer que mis compañeros de equipo y yo escribamos código en forma ordenada y al unísono.
 
-* **GuilleAnselmi** (1)
+* **GuilleAnselmi** (1) [309374](https://platzi.com/comentario/309374/) 
 
-	
 	 **¡¡¡PAQUETES PARA ATOM!!!**
 	
-	  * Abrimos **Atom**.
-	  * luego entramos a **Preferencias** presionando
+	* Abrimos **Atom**.
+	* luego entramos a **Preferencias** presionando
 	
 	
 	``` 
@@ -3095,7 +2719,7 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 	
-	  * ahi dentro vamos a la parte **instalar** o **install** si esta en ingles y  
+	* ahi dentro vamos a la parte **instalar** o **install** si esta en ingles y  
 	buscamos e instalamos los siguientes paquetes
 	
 	
@@ -3118,7 +2742,7 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	
 	**ESLINT + ATOM + .VUE**
 	
-	  * buscamos e instalamos el siguiente paquete en nuestro Atom:
+	* buscamos e instalamos el siguiente paquete en nuestro Atom:
 	
 	
 	``` 
@@ -3126,7 +2750,7 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 	
-	  * en la esquina superior derecha les van a salir 2 carteles para instalar las dependencias de linter, le dan **SI** o **YES**
+	* en la esquina superior derecha les van a salir 2 carteles para instalar las dependencias de linter, le dan **SI** o **YES**
 	
 	
 	
@@ -3137,7 +2761,7 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 	
-	  * instalamos el ultimo paquete para que el linter use **eslint**
+	* instalamos el ultimo paquete para que el linter use **eslint**
 	
 	
 	``` 
@@ -3145,7 +2769,7 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 	
-	  * una vez instalado le hacemos click a las **Preferencias** (Settings) de este paquete  
+	* una vez instalado le hacemos click a las **Preferencias** (Settings) de este paquete  
 	y le damos a check a donde dice Lint HTML Files  
 	les debe quedar asi: **☑ Lint HTML Files**
 	
@@ -3165,77 +2789,66 @@ Mucho de lo explicado aquí en la versión 3 de VueJs ya se hace en automático 
 	    
 	```
 
-	* **Juan Manuel Viveros Martinez** (2)
+	* **Juan Manuel Viveros Martinez** [309374] (2)
 
-		
 		Excelente aporte pana muchas gracias, instale la mayoria de plugins quedo muy bueno el Atom
 
-* **Wilfredo Torres** (1)
+* **Wilfredo Torres** (1) [244252](https://platzi.com/comentario/244252/) 
 
-	
 	instalación de standard Eslint
 
-* **Kevin Brayan Luna Figueroa** (1)
+* **Kevin Brayan Luna Figueroa** (1) [224134](https://platzi.com/comentario/224134/) 
 
-	
 	Tendría algún problema si no instalo y configuro Eslint para el proyecto??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [224134] (2)
 
-		
 		Ninguno, solo no vas a tener la ayuda del linter.
 
-	* **Kevin Brayan Luna Figueroa** (0)
+	* **Kevin Brayan Luna Figueroa** [224134] (0)
 
-		
 		Muchas gracias por la respuesta!!
 
-* **Oscar Camilo Ruiz Rojas Ruiz** (1)
+* **Oscar Camilo Ruiz Rojas Ruiz** (1) [223918](https://platzi.com/comentario/223918/) 
 
-	
 	Aquí el eslint plugin oficial para vue [eslint-plugin-vue 4.0 beta](https://twitter.com/vuejs/status/936233259033391104)
 
-* **luisalfredonavarroalbarracin** (1)
+* **luisalfredonavarroalbarracin** (1) [70270](https://platzi.com/comentario/772044/) 
 En visual Studio code no mostró el punto rojo como en el vídeo, es normal?
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [70270] (1)
 
-		
 		Es posible que lo que vimos en está clase necesite una actualización.
 		
 		¿Qué te muestra en pantalla?  
 		Si necesitas ayuda para establecer el linter no dudes en mandarme un PM
 
-* **ludwing_ra** (1)
+* **ludwing_ra** (1) [60675](https://platzi.com/comentario/609205/) 
 Me genera este error No se como solucionarlo
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [60675] (1)
 
-		
 		Por lo que logro ver en el error, hay un error en la sintaxis del webpack. Específicamente hay una propiedad inválida **enfonrce**. Cambiala por **enforce**
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57126](https://platzi.com/comentario/560872/) 
 Intale el plugon de ESlint en Sublime 3, pero desafortunadamente no hace nada.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57126] (1)
 
-		
 		Creaste el archivo .eslintrc en la raiz del proyecto?, si no el linter no conoce con que reglas trabajar.
 
-* **Mcaberta** (1)
+* **Mcaberta** (1) [54883](https://platzi.com/comentario/535089/) 
 Alguien tiene el mismo error que me pueda orientar!!!
 
-	* **Angel Hernandez** (2)
+	* **Angel Hernandez** [54883] (2)
 
-		
 		Parece un error de sintaxis, un “=” fuera de lugar 😄
 
-* **makroz** (1)
+* **makroz** (1) [41495](https://platzi.com/comentario/376776/) 
 una ayuda porfavor, estoy agregando la regla a webpack y me sale error al momento de correr el servidor este es mi codigo(la probe sin in...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [41495] (2)
 
-		
 		La regla debe ser `test` no `text` si cambias eso ya no debes tener problema
 		``` 
 		    {
@@ -3247,22 +2860,20 @@ una ayuda porfavor, estoy agregando la regla a webpack y me sale error al moment
 		    
 		```
 
-* **JOEL HERNANDEZ** (1)
+* **JOEL HERNANDEZ** (1) [38165](https://platzi.com/comentario/341232/) 
 Alguien sabe como configurar Eslint para Vizual Studio Code por favor
 
-	* **JOEL HERNANDEZ** (1)
+	* **JOEL HERNANDEZ** [38165] (1)
 
-		
 		Estoy usando el Visual Studio Code e no consigo que mi webpack me muestre tal como muestra en el video, una ayuda por favor !
 		
 		[Captura de Tela 2018-07-27 às 00.37.40.png](https://static.platzi.com/media/user_upload/Captura%20de%20Tela%202018-07-27%20a%CC%80s%2000.37.40-310ed7cc-593f-4e7c-890c-0d00d72c36d8.jpg)
 
-* **Vktor** (1)
+* **Vktor** (1) [37417](https://platzi.com/comentario/333057/) 
 Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot read property 'ecmaFeatures' of undefined 
 
-	* **Angel Camacho** (3)
+	* **Angel Camacho** [37417] (3)
 
-		
 		Fíjate en tu código y verifica que no estés usando , o ; al final.
 		
 		**Por ejemplo:**  
@@ -3284,42 +2895,35 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		
 		Saludos
 
-* **MANUEL MORALES** (0)
+* **MANUEL MORALES** (0) [853685](https://platzi.com/comentario/853685/) 
 
-	
 	no puedo solucionar el problema de  
 	`error Parsing error: Expected corresponding JSX closing tag for <img>`  
 	a pesar de que he instalado el `eslint-plugin`
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [853685] (2)
 
-		
 		Hola! Parece que tienes alguna extensión de React, o en la configuración de lenguaje de programación de tu editor de código está usando JSX en vez de JS 😄
 
-	* **mecubro** (1)
+	* **mecubro** [853685] (1)
 
-		
 		Gabriel de Andrade, este error no es solo de React, aún no he encontrado una solución valida. Pero apenas la encuentre te aviso.
 
-	* **mecubro** (2)
+	* **mecubro** [853685] (2)
 
-		
 		El comentario de Joseph Paucar, es la solución, falta instalar eslint-plugin-vue y agregarlo a .eslintrc. Saludos
 
-	* **Matias Guillermo Sticchi** (1)
+	* **Matias Guillermo Sticchi** [853685] (1)
 
-		
 		Tengo exactamente el mismo problema en VSCode y no lo estoy pudiendo resolver. Instale el plugin de html, el vue y lo agregue al archivo .eslintrc y no lo toma, el error sigue apareciendo.
 
-* **Jenny Katherine Aguilera Morales** (0)
+* **Jenny Katherine Aguilera Morales** (0) [406345](https://platzi.com/comentario/406345/) 
 
-	
 	Configurar indentación en VS Code:  
 	F1 => formatter config => change indent_size => restart vscode.
 
-* **Wilson Fabian Pérez Sucuzhañay** (0)
+* **Wilson Fabian Pérez Sucuzhañay** (0) [313191](https://platzi.com/comentario/313191/) 
 
-	
 	Y como no al coger las actualizaciones fallos jaja,  
 	Alguien sabe porque da este error instale todo y cree el archivo .eslintrc  
 	Failed to compile.
@@ -3333,14 +2937,13 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	at Object.module.exports (/Users/wilsonperez/Desktop/CursosTomados/vueJS/platzi-music/node_modules/eslint-loader/index.js:154:19)  
 	@ multi (webpack)-dev-server/client?<http://localhost:8080> webpack/hot/dev-server ./src/main.js
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [313191] (1)
 
-		
 		Puedes compartir tus archivos package.json y el .eslintrc para ver si es un problema con la versión a algo que pueda estar dando problema.
 		
 		Investigué un poco sobre el error pero todo se refiere a create-react-app no vi nada relacionado con vue.
 
-	* **Wilson Fabian Pérez Sucuzhañay** (0)
+	* **Wilson Fabian Pérez Sucuzhañay** [313191] (0)
 
 		```
 		    {
@@ -3389,7 +2992,7 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		    
 		```
 
-	* **Wilson Fabian Pérez Sucuzhañay** (1)
+	* **Wilson Fabian Pérez Sucuzhañay** [313191] (1)
 
 		```
 		    {
@@ -3405,12 +3008,11 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		    
 		```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [313191] (1)
 
-		
 		En el package.json no veo la dependencia de `eslint` verifica que este instalada `npm i eslint -D`
 
-	* **Wilson Fabian Pérez Sucuzhañay** (1)
+	* **Wilson Fabian Pérez Sucuzhañay** [313191] (1)
 
 		```
 		    {
@@ -3452,61 +3054,50 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		    
 		```
 
-* **danteddt** (0)
+* **danteddt** (0) [307209](https://platzi.com/comentario/307209/) 
 
-	
 	Configuracion: De esling: Indicar el uso del plugin de html
 
-* **danteddt** (0)
+* **danteddt** (0) [307206](https://platzi.com/comentario/307206/) 
 
-	
 	Ejecucion comando: Instalacion plugin de eslint para html: npm i -D eslint-plugin-html
 
-* **danteddt** (0)
+* **danteddt** (0) [307203](https://platzi.com/comentario/307203/) 
 
-	
 	Configuracion: Agregar loader de eslint a webpack
 
-* **danteddt** (0)
+* **danteddt** (0) [307201](https://platzi.com/comentario/307201/) 
 
-	
 	Ejecucion comando: Instalacion loader de eslint: npm i -D eslint-loader
 
-* **danteddt** (0)
+* **danteddt** (0) [307194](https://platzi.com/comentario/307194/) 
 
-	
 	Configuracion: De eslint: Desactivar una comprobación
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [306712](https://platzi.com/comentario/306712/) 
 
-	
 	como ignoro los puntos y coma en eslint
 
-* **Fabian Leon Ortega** (0)
+* **Fabian Leon Ortega** (0) [296844](https://platzi.com/comentario/296844/) 
 
-	
 	Cuando usen herramientas como eslint y de ese tipo en las clases, por favor dejen al menos los links donde se puedan configurar rapidamente esas herramientas para no perder tiempo haciendo configuraciones si no mas bien aprendiendo de las clases.
 
-	* **Teofilo Rosales Gama** (0)
+	* **Teofilo Rosales Gama** [296844] (0)
 
-		
 		<https://github.com/standard/standard/blob/master/docs/README-esla.md>
 
-* **David E  Lares S** (0)
+* **David E  Lares S** (0) [293946](https://platzi.com/comentario/293946/) 
 
-	
 	A pesar de haber instalado las dependencias y colocar el .eslintrc en el root del proyecto y usar Atom como editor de código, no me sirve el linter dentro del editor, ¿Alguna sugerencia?.
 
-	* **David E  Lares S** (0)
+	* **David E  Lares S** [293946] (0)
 
-		
 		Al hacer las configuraciones en Webpack, con la propiedad --hot del npm run dev, se pueden visualizar los cambios realizados y los errores (posiblemente de linteo), mas sin embargo, a nivel de editor no es posible visualizarlo.
 		
 		De la doc oficial, este paquete <https://atom.io/packages/linter-eslint> parece ser el oficial para Atom.
 
-* **Juan Carlos Felizzola Vega** (0)
+* **Juan Carlos Felizzola Vega** (0) [292890](https://platzi.com/comentario/292890/) 
 
-	
 	 **ESLint** es una herramienta que nos permite hacer dos tipos de chequeo:
 	
 	  1. Establecer un estilo de código homogeneo para el equipo de desarrollo
@@ -3514,52 +3105,44 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	
 	
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [283493](https://platzi.com/comentario/283493/) 
 
-	
 	Estas reglas se instalan como librerías de NPM que ya fueron pensadas o desarrolladas por otras personas para que podamos utilizarlas.
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [283491](https://platzi.com/comentario/283491/) 
 
-	
 	Permite definir ciertas reglas para que todos los desarrolladores de ese proyecto las cumplan y las apliquen en el código. Por otro lado nos facilita la configuración usando reglas predefinidas.
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [283488](https://platzi.com/comentario/283488/) 
 
-	
 	Eslint es un linter de código. Es una herramienta que nos permite hacer dos tipos de chequeo. Por un lado nos permite establecer un estilo de código homogéneo para todo el equipo de desarrollo.
 
-* **Oscar Stevens Cuartas Bejarano** (0)
+* **Oscar Stevens Cuartas Bejarano** (0) [259831](https://platzi.com/comentario/259831/) 
 
-	
 	no logro instalar el ESLINT  
 	busco en internet y en muchos lugares dicen que debo hacer downgrade a mi NPM a 5.2 no puedo creer que sea la solucion, y aunque lo sea se supone que debemos manejar lo ultimo, tengo en este momento estas versiones, ambas lo ultimo en el momento que hago este post
 	
 	npm 5.6.0  
 	node 9.5.0
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [259831] (0)
 
-		
 		Cuando decis que no logras instalar a que te referis? Si podes pasanos el error o una captura del mismo.
 
-* **David Isaac Flores Medrano** (0)
+* **David Isaac Flores Medrano** (0) [248269](https://platzi.com/comentario/248269/) 
 
-	
 	Hola,  
 	Tengo este error en el webpack … es algo del eslint  
 	[https://www.dropbox.com/s/r73hein7y8b43tv/Captura de pantalla 2018-01-26 13.11.10.png?dl=0](https://www.dropbox.com/s/r73hein7y8b43tv/Captura%20de%20pantalla%202018-01-26%2013.11.10.png?dl=0)
 	
 	![](https://www.dropbox.com/s/r73hein7y8b43tv/Captura%20de%20pantalla%202018-01-26%2013.11.10.png?dl=0)
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [248269] (0)
 
-		
 		Hola, el “error” que tenes, es una de las tantas reglas que estamos configurando. En realidad te esta avisando que la ultima de coma (trailing comma) no es necesaria. Esto no es un error ya que ese codigo funciona, pero nosotros adoptamos ciertas reglas (con el plugin standard-js) que nos fuerzan a llevar un estilo de codigo mas limpio, eliminando cosas inncesarias.
 
-	* **David Isaac Flores Medrano** (0)
+	* **David Isaac Flores Medrano** [248269] (0)
 
-		
 		Hola, estuve investigando más sobre el tema y ahora me sale otra alerta…
 		
 		[https://www.dropbox.com/s/0stbt10tx7yj685/Captura de pantalla 2018-01-29 08.57.16.png?dl=0](https://www.dropbox.com/s/0stbt10tx7yj685/Captura%20de%20pantalla%202018-01-29%2008.57.16.png?dl=0)
@@ -3586,15 +3169,13 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		“plugins”: [“html”]  
 		}
 
-* **Wilfredo Torres** (0)
+* **Wilfredo Torres** (0) [244290](https://platzi.com/comentario/244290/) 
 
-	
 	Para usar eslint con webStorm, phpStorm …  
 	<https://blog.jetbrains.com/webstorm/2017/04/using-javascript-standard-style/>
 
-* **Francisco Hernandez** (0)
+* **Francisco Hernandez** (0) [236959](https://platzi.com/comentario/236959/) 
 
-	
 	Me sale este error
 	
 	Failed to compile.
@@ -3603,14 +3184,12 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	
 	Despues de instalar el plugin de html
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [236959] (1)
 
-		
 		Revisa que no te falta una coma al momento de definir los plugins, ese puede ser el problema.
 
-	* **Francisco Hernandez** (0)
+	* **Francisco Hernandez** [236959] (0)
 
-		
 		{  
 		“extends”: “standard”,
 		
@@ -3625,29 +3204,24 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		
 		asi esta mi eslintrc
 
-* **Ivan patricio riboldi** (0)
+* **Ivan patricio riboldi** (0) [220940](https://platzi.com/comentario/220940/) 
 
-	
 	Alguien sabe como se llama el plugin de sublime para que el linter me marque los errores en el editor?
 
-* **Juan Sifontez** (0)
+* **Juan Sifontez** (0) [217667](https://platzi.com/comentario/217667/) 
 
-	
 	Hola, he instalado tanto linter-eslint (8.4.0) y linter (2.2.0) para atom y no me aparece nada de los errores que debería indicar. ¿Alguien tiene alguna idea o no tengo los plugins correctos?
 
-	* **Juan Sifontez** (0)
+	* **Juan Sifontez** [217667] (0)
 
-		
 		Solucionado al instalar linter-ui-default 😄
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [217667] (1)
 
-		
 		genial gracias por compartirnos la solución! saludos =)
 
-* **Christian Armando Consuelo Mayén** (0)
+* **Christian Armando Consuelo Mayén** (0) [194087](https://platzi.com/comentario/194087/) 
 
-	
 	Hola chicos. Yo he estado teniendo el siguiente error:
 	``` 
 	    Module build failed: TypeError: loaderUtils.getOptions is notafunction
@@ -3663,14 +3237,12 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	
 	
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [194087] (0)
 
-		
 		Genial! muchas gracias por compartir la solución a ese problema
 
-* **Carlos Ariel Butron** (0)
+* **Carlos Ariel Butron** (0) [193238](https://platzi.com/comentario/193238/) 
 
-	
 	Algo de ayuda con este error, el usuario y el prompt en modo administrador
 	
 	C:\Users\Ariel\Documents\Platzi\Profesional Vue.js\platzi-music>npm install eslint-config-standard  
@@ -3691,16 +3263,14 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	npm ERR! A complete log of this run can be found in:  
 	npm ERR! C:\Users\Ariel\AppData\Roaming\npm-cache_logs\2017-09-08T01_35_15_547Z-debug.log
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [193238] (1)
 
-		
 		Al parecer es un bug en la última versión de npm.  
 		<https://github.com/npm/npm/issues/18380>  
 		Qué versión estas usando?
 
-	* **Bryan  Erazo** (1)
+	* **Bryan  Erazo** [193238] (1)
 
-		
 		Hola no instalaste vue-cli  
 		Sigue estos pasos:  
 		**1\. Abre la termina** l  
@@ -3711,15 +3281,13 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		**4\. Instala eslint-config-standard**  
 		npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 
-	* **Bryan  Erazo** (0)
+	* **Bryan  Erazo** [193238] (0)
 
-		
 		en el paso 3  
 		npm i -D eslint
 
-* **Diego Nelson** (0)
+* **Diego Nelson** (0) [193054](https://platzi.com/comentario/193054/) 
 
-	
 	Hola, cuando configuro el nuevo loader me tira el siguiente error
 	
 	![](![Captura de pantalla 2017-09-07 a la\(s\) 11.02.24.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202017-09-07%20a%20la%28s%29%2011.02.24-61d63a19-80d9-4699-866b-a8e9e1ff8479.jpg)
@@ -3733,14 +3301,12 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [193054] (0)
 
-		
 		Hola, parece ser un error de instalacion ya que webpack no es capaz de encontrarlo. Verifica que se haya instalado correctamente (deberias ver una carpeta `eslint-loader` dentro de `node_modules`). Proba tambien instalandolo de nuevo, recorda que son varias cosas que instalamos. Una de ellas es `eslint-loader` (la que pareciera faltar).
 
-* **Juan** (0)
+* **Juan** (0) [188230](https://platzi.com/comentario/188230/) 
 
-	
 	test: /.(js|vue)$/,  
 	loader: ‘eslint-loader’,  
 	enforce: ‘pre’,  
@@ -3749,18 +3315,16 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	me sale un mensaje  
 	parsing error: unterminated regular expresion (fatal) como soluciono ello
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [188230] (0)
 
-		
 		Hola, recorda poner el codigo con el tag correspondiente para poder verlo mejor. Tenes un error en la propiedad test, falta el carcater `\` al comienzo. Deberia quedar asi:
 		``` 
 		    test:/\.(js|vue)$/,
 		    
 		```
 
-* **Javier Castañeda** (0)
+* **Javier Castañeda** (0) [181406](https://platzi.com/comentario/181406/) 
 
-	
 	Hola:  
 	en la consola de comandos, aparece en el video según la imagen que adjunto  
 	<https://photos.app.goo.gl/O8c9L7aUe9svIQFF3>
@@ -3774,9 +3338,8 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 	
 	En cualquier caso si en la séptima clase me encuentro el primer problema (leve), la verdad es que es gracias a un gran trabajo para explicarlo todo
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [181406] (2)
 
-		
 		Hola, no te hagas problema por la palabra master. Eso es simplemente porque mi carpeta es un repositorio de Git y mi terminal tiene un plugin para detectarlo, entonces muestra el branch donde estoy trabajando actualmente. Si dentro de windows utilizas Git Bash y estas trabajando en un repositorio de Git (podes inicializar un directorio con Git con el comando `git init`) vas a poder ver el nombre del branch en la terminal. De todos modos eso esta por fuera del alcance del curso asi que no es ningun impedimento.
 		
 		Con respecto a al plugin de eslint te recomiendo que verifiques todos los pasos:
@@ -3790,9 +3353,8 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		
 		Por utlimo para verificar que el problema sea solo de atom y no de eslint fijate si en la terminal de comandos (introduciendo algun error de sintaxis en el codigo), ves el output correspondiente. Basicamente ver si la integracion con webpack esta funcionando.
 
-	* **Javier Castañeda** (0)
+	* **Javier Castañeda** [181406] (0)
 
-		
 		Creo que se donde puede estar el error, en mi webpack.config  
 		<https://photos.app.goo.gl/qX6lyH7cqIEvnXxy1>
 		
@@ -3808,48 +3370,44 @@ Eslint me muestra unos errores en el webpack: [standard] Parsing error: Cannot r
 		Un Saludo y gracias por el fantástico curso que han creado  
 		@303_javier
 
-	* **Josh Ospina** (1)
+	* **Josh Ospina** [181406] (1)
 
-		
 		Buenas noches,
 		
 		Te recomiendo que uses cmder que te instala todas las dependencias que puedan faltarte para poder usar desde la terminal.
 		
 		te dejo el link [](%22http://cmder.net/%22)<http://cmder.net/>
 
-	* **ZIGMA Interactive** (0)
+	* **ZIGMA Interactive** [181406] (0)
 
-		
 		Hola, para los que usen Windows la dependencia de ESLint se puede instalar así:
 		``` 
 		    npm install eslint --save-dev
 		    
 		```
 
-* **davidpru** (0)
+* **davidpru** (0) [41471](https://platzi.com/comentario/376525/) 
 Hola amigos, ahora npm al instalar eslint tal y como se indica en el curso me dice que faltan dependencias. Sabeis como puedo solucionarl...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [41471] (2)
 
-		
 		debes ejecutar  
 		`npm install -D eslint eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard`
 		
 		Con esto instalas las dependencias que faltan y todo debe funcionar sin problema.
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [35068](https://platzi.com/discusiones/1145-vuejs-profesional/35068-como-ignoro-los-puntos-y-comas-uso-visual-studio-code-3/) 
 como ignoro los puntos y comas uso visual studio code
 
-## 0080. SASS y BULMA
+## 0080. SASS y BULMA [7791](https://platzi.com/clases/1145-vuejs-profesional/7791-sass/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Enrique Benitez** (63)
+* **Enrique Benitez** (63) [181043](https://platzi.com/comentario/181043/) 
 
-	
 	Una manera más limpia de hacer imports de _node_modules_ es:
 	``` 
 	    @import"~bulma/bulma.sass";
@@ -3858,39 +3416,32 @@ como ignoro los puntos y comas uso visual studio code
 	
 	😉
 
-	* **Nacho Anaya** (10)
+	* **Nacho Anaya** [181043] (10)
 
-		
 		Gracias por el aporte, es mucho mejor esa sintaxis. Hace un tiempo atras habia un issue con el template que generaba el CLI (cuando usabas esa sintaxis) y eso no funcionaba bien. Lo probe ahora y funciona perfectamente!!! 👌👏
 
-	* **Kevin Brayan Luna Figueroa** (0)
+	* **Kevin Brayan Luna Figueroa** [181043] (0)
 
-		
 		Gracias por el aporte bntzio!!
 
-	* **Sebastian Cardoso Castillo** (3)
+	* **Sebastian Cardoso Castillo** [181043] (3)
 
-		
 		¿Cómo funciona el ~ ?
 
-	* **ImFranQ** (3)
+	* **ImFranQ** [181043] (3)
 
-		
 		@sebaveg basicamente es como la raiz de node_modules
 
-	* **Iván Mauricio Toro Cifuentes** (2)
+	* **Iván Mauricio Toro Cifuentes** [181043] (2)
 
-		
 		Buen aporte.
 
-	* **Sergio Shovanny Hernández Betanzos** (1)
+	* **Sergio Shovanny Hernández Betanzos** [181043] (1)
 
-		
 		Muy buen aporte, para denotar la búsqueda global correspondiente de BULMA
 
-	* **Juan Pablo Calao Pérez** (1)
+	* **Juan Pablo Calao Pérez** [181043] (1)
 
-		
 		De hecho puedes poner solo
 		``` 
 		    'bulma/bulma.sass'
@@ -3899,20 +3450,17 @@ como ignoro los puntos y comas uso visual studio code
 		
 		y funciona
 
-* **CARLOS DAVID MARCIGLIA GOMEZ** (13)
+* **CARLOS DAVID MARCIGLIA GOMEZ** (13) [185707](https://platzi.com/comentario/185707/) 
 
-	
 	Buefy es una biblioteca ligera de interfaz de usuario para Vue.js basada en el marco y el diseño de Bulma.  
 	<https://buefy.github.io/#/>
 
-* **juan david vargas cante** (8)
+* **juan david vargas cante** (8) [187018](https://platzi.com/comentario/187018/) 
 
-	
 	También BULMA esta para Stylus <https://github.com/groenroos/bulma-stylus>
 
-* **jonathan sanchez** (4)
+* **jonathan sanchez** (4) [881956](https://platzi.com/comentario/881956/) 
 
-	
 	En cli-vue podemos instalar pre-procesadores.
 	``` 
 	    # Sass
@@ -3936,14 +3484,12 @@ como ignoro los puntos y comas uso visual studio code
 	    
 	```
 
-	* **rafagonzalez99** (1)
+	* **rafagonzalez99** [881956] (1)
 
-		
 		Gracias
 
-* **Joseph Paucar** (2)
+* **Joseph Paucar** (2) [757635](https://platzi.com/comentario/757635/) 
 
-	
 	Por si alguien desea usar Materialize:  
 	npm i -S materialize-css@next
 	
@@ -3952,63 +3498,53 @@ como ignoro los puntos y comas uso visual studio code
 	
 	Pdt: Odio Bulma, sorry es algo personal C:
 
-	* **Luis Angel José Portillo Arévalo** (1)
+	* **Luis Angel José Portillo Arévalo** [757635] (1)
 
-		
 		Vuetify es lo mejor
 
-* **Armando Aguilar L.** (2)
+* **Armando Aguilar L.** (2) [608513](https://platzi.com/comentario/608513/) 
 
-	
 	Más plugins =(
 
-* **Dahiana Benitez** (2)
+* **Dahiana Benitez** (2) [398085](https://platzi.com/comentario/398085/) 
 
-	
 	En mi webpack.config no está pre-configurado el SASS, que hago?
 	
 	Gracias 😉
 
-	* **sampol.90 (Platzi)** (3)
+	* **sampol.90 (Platzi)** [398085] (3)
 
-		
 		Para esto es necesario configurar el sass loader. Para esto te recomiendo revisar la configuración en: <https://github.com/webpack-contrib/sass-loader>
 
-	* **Dahiana Benitez** (2)
+	* **Dahiana Benitez** [398085] (2)
 
-		
 		Dejo este enlace que también me sirvió para configurar sass loader y css loader. Espero les sirva!!
 		
 		<https://desarrolloweb.com/articulos/procesamiento-css-sass-webpack.html>
 
-* **Byhako** (2)
+* **Byhako** (2) [348470](https://platzi.com/comentario/348470/) 
 
-	
 	Bulma solo se puede usar cons SASS?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [348470] (1)
 
-		
 		Hola @Byhako!
 		
 		🎉 ¡Claro que si se puede!  
 		💡 Puedes ver esta parte de la documentación de Bulma para usarla con `node-sass`: <https://bulma.io/documentation/customize/with-node-sass> 👍
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [348470] (2)
 
-		
 		okay, entendí mal, lo siento…
 		
 		Claro que Bulma puede usarse sin Sass, como puedes ver, la sección [Css Only](https://github.com/jgthms/bulma/#css-only) dentro de la documentación de Bulma puedes importar un archivo `.css`, no `.sass` o `scss`.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560883](https://platzi.com/comentario/560883/) 
 
-	
 	El reino de los pokemón era Maestrosdelweb, ahora el reino de dragon ball z es platzi. (BULMA) JAJAJA
 
-* **José Ricardo Romo Gutiérrez** (1)
+* **José Ricardo Romo Gutiérrez** (1) [481759](https://platzi.com/comentario/481759/) 
 
-	
 	me aparece este error desde hace varias clases y no he podido solucionarlo
 	``` 
 	    Failed to compile.
@@ -4024,7 +3560,7 @@ como ignoro los puntos y comas uso visual studio code
 	    
 	```
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [481759] (1)
 
 		```
 		    <divid="app">
@@ -4032,26 +3568,22 @@ como ignoro los puntos y comas uso visual studio code
 		    
 		```
 
-	* **Jose Brantes Rodriguez** (1)
+	* **Jose Brantes Rodriguez** [481759] (1)
 
-		
 		prueba separando div de id, ej: <div id=“app”>
 
-	* **José Ricardo Romo Gutiérrez** (1)
+	* **José Ricardo Romo Gutiérrez** [481759] (1)
 
-		
 		Si disculpen, en mi codigo si esta escrito de esta manera :  
 		<div id=“app”>  
 		no se que paso en la publicacion de la pregunta. pero si esta escrito asi y aun asi me manda error
 
-	* **Michael Rodriguez** (1)
+	* **Michael Rodriguez** [481759] (1)
 
-		
 		Mi estimado puedes subir todo tu codigo para ver si te podemos ayudar a resolver el problema?
 
-	* **Jesús Miguel Quinto Teran** (4)
+	* **Jesús Miguel Quinto Teran** [481759] (4)
 
-		
 		El código HTML está bien, el problema es con **eslint** , me ocurrió lo mismo.
 		
 		Solución:  
@@ -4090,45 +3622,40 @@ como ignoro los puntos y comas uso visual studio code
 		
 		**Nota: la solución original la compartio el estudiante, israellomba**
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [481445](https://platzi.com/comentario/481445/) 
 
-	
 	npm i -S bulma
 
-* **Leonel Rojas** (1)
+* **Leonel Rojas** (1) [355207](https://platzi.com/comentario/355207/) 
 
-	
 	Lista de frameworks, bibliotecas, guías de estilo, artículos y recursos de Sass y SCSS.  
 	<https://github.com/Famolus/awesome-sass>
 
-* **Juan David Jaramillo** (1)
+* **Juan David Jaramillo** (1) [182540](https://platzi.com/comentario/182540/) 
 
-	
 	Es mejor bulma que bootstrap?
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [182540] (8)
 
-		
 		No es mejor ni peor, es diferente. Lo que me gusta de bulma es que es mas sencillo e intuitivo, no necesitas jQuery y es CSS puro. Para ser justos bootstrap es mas completo pero tambien es menos original ya que lo usa tanta gente que hace que todos los sitios sean muy repetitivos. De todos modos esto es muy opinable, el framework CSS no es mas que un soporte para acelerar el proceso de diseño y maquetacion. Simplemente elegi lo que mas te sirva!
 
-* **Ken Ramirez** (1)
+* **Ken Ramirez** (1) [77989](https://platzi.com/comentario/913369/) 
 Que sucede si requiero modificar algunas variables del framework? al estar en la carpeta node_modules la modificacion no se va a subir al...
 
-* **darwistg** (1)
+* **darwistg** (1) [67880](https://platzi.com/comentario/730498/) 
 Ayuda: ERROR in ./src/App.vue Module not found: Error: Can’t resolve ‘sass-loader’ in ‘C:\platzi-music\src’ @ ./src/App.vue 4:2-261 @ ./s...
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [67880] (1)
 
-		
 		Instala las siguientes dependencias:  
 		`npm i -S sass-loader node-sass`
 		
 		Con ese comando haces que el código sass que escribes dentro de tus componentes sea legible por webpack
 
-* **José Ricardo Romo Gutiérrez** (1)
+* **José Ricardo Romo Gutiérrez** (1) [50625](https://platzi.com/comentario/481759/) 
 me aparece este error desde hace varias clases y no he podido solucionarlo Failed to compile. ./src/App.vue /home/mrromo/Documentos...
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [50625] (1)
 
 		```
 		    <divid="app">
@@ -4136,58 +3663,49 @@ me aparece este error desde hace varias clases y no he podido solucionarlo Faile
 		    
 		```
 
-* **Byhako** (1)
+* **Byhako** (1) [38841](https://platzi.com/comentario/348470/) 
 Bulma solo se puede usar cons SASS?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [38841] (1)
 
-		
 		Hola @Byhako!
 		
 		🎉 ¡Claro que si se puede!  
 		💡 Puedes ver esta parte de la documentación de Bulma para usarla con `node-sass`: <https://bulma.io/documentation/customize/with-node-sass> 👍
 
-* **danteddt** (0)
+* **danteddt** (0) [307221](https://platzi.com/comentario/307221/) 
 
-	
 	Comando: Instalacion bulma: npm i -S bulma
 
-* **danteddt** (0)
+* **danteddt** (0) [307220](https://platzi.com/comentario/307220/) 
 
-	
 	Modificacion Archivo: Importar main.scss al App.vue
 
-* **danteddt** (0)
+* **danteddt** (0) [307217](https://platzi.com/comentario/307217/) 
 
-	
 	Modificacion directorios: creacion carpeta 'scss' y archivo 'main.scss'
 
-* **Wilfredo Torres** (0)
+* **Wilfredo Torres** (0) [244309](https://platzi.com/comentario/244309/) 
 
-	
 	¿Porque generalmente se usa scss y no sass que se ve mas bonito el código?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [244309] (0)
 
-		
 		Creo que es cuestion de gustos, me gusta mas scss por que es una sintaxis bastante similar a de la de JavaScript
 
-* **Daniee** (0)
+* **Daniee** (0) [203632](https://platzi.com/comentario/203632/) 
 
-	
 	Hola a todos !  
 	Quisiera agregar materialize-css al proyecto, me parece un framework css muy bien cuidado. Lo instale con npm y luego lo importe en mi archivo main.scss como hicimos con bulma pero me aparece un monton de errores…Supongo que habrá que hacer algo más aparte del archivo sass.  
 	Alguien me podría ayudar ?  
 	Gracias de antemano, gran curso nacho ! me encanta tu manera de explicar.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [203632] (1)
 
-		
 		Hola, podrias subir los errores que te aparecen? Gracias!
 
-	* **Daniee** (0)
+	* **Daniee** [203632] (0)
 
-		
 		Primero instale el framework con npm: npm i -S materialize-css
 		
 		<https://gyazo.com/63c1c15ae5e349a09c03404ec7bd6442>
@@ -4208,14 +3726,12 @@ Bulma solo se puede usar cons SASS?
 		
 		Alguna idea ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [203632] (1)
 
-		
 		En el log de error dice que no encuentra la fuente Roboto, revisa que este en la carpeta.
 
-	* **Daniee** (0)
+	* **Daniee** [203632] (0)
 
-		
 		Estaba utilizando la fuente mediante un CDN en el archivo index.html, lo he comentado y he comentado las lineas del main.scss donde utilizo la fuente y sigue sin funcionar. Materialize utiliza la fuente de Roboto por defecto pero la cosa es que estoy importandolo desde la carpeta de node modules :
 		``` 
 		    @import"~materialize-css/sass/materialize.scss";
@@ -4226,34 +3742,28 @@ Bulma solo se puede usar cons SASS?
 		
 		No consigo solucionarlo…
 
-	* **cristiancastillomatamoros** (0)
+	* **cristiancastillomatamoros** [203632] (0)
 
-		
 		Hola, recuerda que materialize necesita instalar también jquery (npm i -S jquery)
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [197914](https://platzi.com/comentario/197914/) 
 
-	
 	Se puede instalar Bootstrap en lugar de bulma??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [197914] (2)
 
-		
 		Puedes usar Bootstrap, Foundation o lo que quieras.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [197914] (1)
 
-		
 		Si, sentite libre usar el framework CSS que te guste o incluso no usar ninguno!
 
-	* **Alexander  Silvera** (0)
+	* **Alexander  Silvera** [197914] (0)
 
-		
 		ok muchas gracias por la información
 
-* **Nestor  de Valais** (0)
+* **Nestor  de Valais** (0) [193901](https://platzi.com/comentario/193901/) 
 
-	
 	Alguna idea con este error ??
 	``` 
 	    ERROR in ./src/App.vue
@@ -4261,31 +3771,27 @@ Bulma solo se puede usar cons SASS?
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [193901] (0)
 
-		
 		Puede que te haya fallado algo a la hora de instalar, proba haciendo un `npm i -D vue-style-loader`.
 
-* **hnino** (0)
+* **hnino** (0) [189312](https://platzi.com/comentario/189312/) 
 
-	
 	¿Cómo podría utilizar font-awesome en el proyecto?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [189312] (1)
 
-		
 		La manera mas sencilla seria incluir un `<link>` con la CDN de font-awesome al archivo `index.html`.  
 		Tambien podes probar instalandolo con `npm` e importandolo dentro del archivo `.scss`, igual que hacemos con bulma.
 		
 		Proba si con esto funciona y compartinos tu experiencia 🙂
 
-	* **Juan Gonzalez González** (4)
+	* **Juan Gonzalez González** [189312] (4)
 
-		
 		 **Para cargar font-awesome**
 		
-		  * Primero : **npm i -S font-awesome**
-		  * Segundo: en **main.scss** añadir
+		* Primero : **npm i -S font-awesome**
+		* Segundo: en **main.scss** añadir
 		
 		
 		``` 
@@ -4295,7 +3801,7 @@ Bulma solo se puede usar cons SASS?
 		    
 		```
 		
-		  * Tercero: en el webpack.config.js añadir **|woff|woff2|ttf|eot** en la regla del loader "file-loader"  
+		* Tercero: en el webpack.config.js añadir **|woff|woff2|ttf|eot** en la regla del loader "file-loader"  
 		Deberia quedar asi:
 		
 		
@@ -4312,21 +3818,19 @@ Bulma solo se puede usar cons SASS?
 		
 		Slds!
 
-	* **Daniee** (0)
+	* **Daniee** [189312] (0)
 
-		
 		en el codigo donde añades los imports para que es la segunda línea ?
 		``` 
 		    $fa-font-path: "~font-awesome/fonts";
 		    
 		```
 
-	* **Juan Gonzalez González** (0)
+	* **Juan Gonzalez González** [189312] (0)
 
-		
 		para las fuentes (ttf, eot, woff)
 
-## 0090. PUG
+## 0090. PUG [7792](https://platzi.com/clases/1145-vuejs-profesional/7792-pug/)
 
 ### Descripción:
 
@@ -4335,68 +3839,56 @@ Bulma solo se puede usar cons SASS?
 
 ### Comentarios:
 
-* **Miguel Sosa** (50)
+* **Miguel Sosa** (50) [190803](https://platzi.com/comentario/190803/) 
 
-	
 	A mi Pug no me facilita nada, es aprender otra cosa más, cuando HTML es lo más sencillo del mundo, y utilizando emmet ni hablar, mucho más sencillo aún ¬¬, no se porque se empeñan en usar Pug, no hace falta…
 
-	* **ricardocelis (Platzi)** (7)
+	* **ricardocelis (Platzi)** [190803] (7)
 
-		
 		Hola Mikesan! Gracias por tu feedback en este caso probamos enseñar pug como un pequeño plus, pero entiendo totalmente tu punto de vista y lo tomaremos muy en cuenta!
 
-	* **Nacho Anaya** (21)
+	* **Nacho Anaya** [190803] (21)
 
-		
 		Son opciones, a algunos les puede resultar mas comodo y a otros no. A mi criterio se escribe mejor calidad de codigo, mas rapido y mas facil de seguir. De todos modos es algo que podes no utilizar. Podes seguir los ejercicios y en la parte de template setear el lang `html` en lugar de `pug` y usar los elementos html tradicionales. Cualquier consulta no dudes en avisar.
 
-	* **Miguel Sosa** (3)
+	* **Miguel Sosa** [190803] (3)
 
-		
 		Es cierto ianaya89, es exactamente lo que hago, simplemente me salteé los videos de pug y stylus (prefiero sass) en el curso básico de Vue, así que sólo hago los ejercicios con HTML y Sass 😃 quzá fue demasiado emotiva mi opinión jaja, pido disculpas 😄
 
-	* **David Chan** (2)
+	* **David Chan** [190803] (2)
 
-		
 		Lo mismo senti en la clase de vue.js basico, no sabia si concentrarme en aprender pug o en aprender el vue.js, creo que hubiese sido mejor como clase extra al final.
 
-	* **Alfredo Ramirez** (3)
+	* **Alfredo Ramirez** [190803] (3)
 
-		
 		Está super sencillo y escribes menos
 		
 		div(class=“lol”, id=“xd”)
 
-	* **Joel suarez** (2)
+	* **Joel suarez** [190803] (2)
 
-		
 		En cuanto a velocidad de renderizado de elementos que es mejor? Pug o html puro.
 
-	* **Miguel Sosa** (1)
+	* **Miguel Sosa** [190803] (1)
 
-		
 		Buena pregunta @HiramBridge, pugjs utiliza un motor de renderizado que procesa todos los “tags” y los compila para finalmente renderizar HTML, por lo tanto sería lógico pensar que HTML puro y duro es mucho más rápido, me gustaría aún así escuchar la opinión de alguien más que pueda dar una respuesta más concreta.
 		
 		Saludos.
 
-	* **Yomar Esteban Miranda Sarmiento** (0)
+	* **Yomar Esteban Miranda Sarmiento** [190803] (0)
 
-		
 		@mikesan entiendo tu punto de visto, pero nunca está demás aprender algo nuevo.
 
-	* **moises mannarino** (2)
+	* **moises mannarino** [190803] (2)
 
-		
 		mikesan pienso exactamente lo mismo que vos, en cada palabra que dijiste, que ganas de complicar las cosas con pug si html es super facil
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [190803] (1)
 
-		
 		Emmet tambien funciona con Pug amigo 😛
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [190803] (8)
 
-		
 		En cuanto a velocidad de renderizado es lo mismo ya que Pug se compila a HTML con webpack en tiempo de build (no de ejecucion). Por lo cual el browser siempre recibe el output final que es basicamente HTML.
 		
 		En cuanto al uso o no de PUG insisto en lo mismo. En mi experiencia trabajando con Vue note que es algo que se usa mucho, que ademas da un valor agregado extra y es super facil de aprender. La idea era recorrer un poco todo el ecosistema de Vue completo y mostrar lo que hay disponible y que se puede hacer. Yo creo que PUG optimiza la escritura de HTML y reduce los tipicos errores de tags mal cerrados.
@@ -4405,215 +3897,179 @@ Bulma solo se puede usar cons SASS?
 		
 		Cualquier consulta estamos para ayudar!
 
-	* **Victor_Manuel** (2)
+	* **Victor_Manuel** [190803] (2)
 
-		
 		Entiendo que aprender una cosa más es un fastidio, pero hay que pensar que en Vue, tiene el HTML + JS + CSS en un mismo archivo, si tienes un HTML (JS o CSS) muy largo es un engorro, en Angular por ejemplo esta dividido en 3 archivos uno para cada cosa dentro de un componente.
 		
 		Cuando desarrollas o haces mantenimiento tener todo el código en una pantalla sin usar el scroll es un lujo, PUG acorta mucho el HTML, por eso es una ventaja.
 		
 		Todo depende de gustos, un cordial saludo a todos.
 
-	* **leocmpro** (2)
+	* **leocmpro** [190803] (2)
 
-		
 		Pug ayuda mucho al momento de crear código de fácil lectura.
 
-	* **Xavier Alexandro Basir Jeffrey** (1)
+	* **Xavier Alexandro Basir Jeffrey** [190803] (1)
 
-		
 		yo estoy de acuerdo en que siento que complica un poco más la cosa ya que de por sí html es sencillo. En el curso básico obvie pug y hacía las cosas con html puro, para este caso creo que haré lo mismo
 
-	* **Angel Infanti** (1)
+	* **Angel Infanti** [190803] (1)
 
-		
 		Opino lo mismo
 
-* **David Daniel Castillo Nava** (10)
+* **David Daniel Castillo Nava** (10) [359890](https://platzi.com/comentario/359890/) 
 
-	
 	Y dale con el **Pug!!** Me quedo con mi html legible esa vaina no es nada legible.
 
-	* **edwarxdced** (2)
+	* **edwarxdced** [359890] (2)
 
-		
 		Opino lo mismo… no es legible 😦
 
-	* **Jafet López Chaves** (2)
+	* **Jafet López Chaves** [359890] (2)
 
-		
 		😂😅 si Pug pude ser algo molesto, pero es interesante aprender algo nuevo y más algo que nos vuela la cabeza como Pug
 
-* **Samuel Mata** (5)
+* **Samuel Mata** (5) [1020825](https://platzi.com/comentario/1020825/) 
 
-	
 	Saludos amigos, para el que este haciendo el curso con la nueva version de vue-cli (3+), deben instalar estos paquetes para que puedan usar pug:
 	
 	`npm install -D pug pug-plain-loader`
 	
 	Hasta luego!!
 
-	* **Moisés Cedeño** (1)
+	* **Moisés Cedeño** [1020825] (1)
 
-		
 		Gracias amigo.
 
-* **robertpro** (5)
+* **robertpro** (5) [572912](https://platzi.com/comentario/572912/) 
 
-	
 	Leo los comentarios molestos por enseñar cosas que no son Vue, yo como profesional del BackEnd, agradezco que me muestren estas tecnologías, ya que estoy desarrollando un proyecto serio, y prefiero aprender más tecnologías que me ayuden en el desarrollo en vez de tardarme mas tiempo haciendolo todo yo por mi cuenta.
 	
 	Sin embargo, creo que si debería ser como un curso extra, y no parte del curso de Vue.
 
-* **vcentt-lopez** (3)
+* **vcentt-lopez** (3) [687094](https://platzi.com/comentario/687094/) 
 
-	
 	Ya lo usamos en el curso anterior y la verdad no me gusto, se me hace tiempo perdido, mejor usar el html
 
-* **Luis Donaldo Lopez Gil** (3)
+* **Luis Donaldo Lopez Gil** (3) [481443](https://platzi.com/comentario/481443/) 
 
-	
 	npm i -D pug-loader
 
-	* **fernandojmorales** (1)
+	* **fernandojmorales** [481443] (1)
 
-		
 		gracias bro
 
-* **Bryan Estiven Silva Mercado** (3)
+* **Bryan Estiven Silva Mercado** (3) [439000](https://platzi.com/comentario/439000/) 
 
-	
 	aunque digan que pug no es necesario es bueno en cuestión de conocimientos , siempre muy bueno aprender algo nuevo y mas si es un plus que tal vez te sirva algún día
 
-* **dimabechile** (3)
+* **dimabechile** (3) [237781](https://platzi.com/comentario/237781/) 
 
-	
 	No veo la necesidad de ocupar PUG …
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [237781] (0)
 
-		
 		Hola, realmente no es una necesidad. Es algo opcional que puede usarse con Vue. La idea es darle un valor extra al curso aprendiendo o usando herramientas. Es bastante comun utilizar Pug a la hora de trabajar con Vue, pero no es algo obligatorio. A mi particularmente me gusta porque te permite escribir HTML mas rapido y corto.
 		
 		De todos modos si no es de tu agrado podes seguir el curso perfectamente y realizar los ejemplos en HTML. Todo lo que es markup podes hacerlo como te guste, lo importante es respetar la estructura base, las directivas, filtros y expresiones que vayamos viendo de Vue.js.
 
-	* **dimabechile** (0)
+	* **dimabechile** [237781] (0)
 
-		
 		Creo que el objetivo de este curso es aprener a fondo vuejs, para mi utilizar pug no es ningún valor extra.
 		
 		Saludos
 
-	* **Luis Angel Vásquez Nepomuceno** (1)
+	* **Luis Angel Vásquez Nepomuceno** [237781] (1)
 
-		
 		Gracias @ianaya89 por agregar algo tan útil, la verdad cuando empece el curso no me gusto para nada, pero cuando la SPA empezó a ser más grande y comparaba tu código con el mío, me di a la tarea de reescribirlo con pug pues si es mucho más declarativo, más rápido y tiene una sintaxis muy linda.  
 		Bien por el equipo de Platzi ❤️
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [237781] (1)
 
-		
 		Es cierto, @AngelVasquezNep aunque sea de cuestión de gustos resulta una buena herramienta para reducir código y que sea legible.
 
-* **Aaron Gonzalez (Platzi)** (2)
+* **Aaron Gonzalez (Platzi)** (2) [801989](https://platzi.com/comentario/801989/) 
 
-	
 	Por si tienen proyectos con htmls extensos, esto podría servirles para ahorrar tiempo.  
 	<https://html2jade.org/>
 
-	* **Emiliano Kuyen Arturo Pacheco Montero** (1)
+	* **Emiliano Kuyen Arturo Pacheco Montero** [801989] (1)
 
-		
 		estaba tratando de recordar cómo se llamaba pug antes jajaja gracias!
 
-* **leocmpro** (2)
+* **leocmpro** (2) [476080](https://platzi.com/comentario/476080/) 
 
-	
 	Excelente el uso de Pug, me parece genial para facilitar la lectura del código.
 
-* **erossosa** (2)
+* **erossosa** (2) [460680](https://platzi.com/comentario/460680/) 
 
-	
 	Entiendo que pueda ser una herramienta útil para alguno, pero el uso de PUG **confunde** , no permite visualizar el html tal cual es y concentrarse plenamente en la sintaxis de Vue, en lugar de hacerlo más claro lo hace más confuso. Si no saben escribir html correctamente, deberían aprender.
 	
 	Es saturar al estudiante desde el inicio, que viene por Vue y dan por sentado que saben usar sass ( yo po ej uso less ), y además pug. Porqué no usar el css de bulma en lugar de tratar de dar todo el workflow de una?
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [881984](https://platzi.com/comentario/881984/) 
 
-	
 	 **¿Qué es Pug?** Bueno es un template engine que mejora la legibilidad de nuestro código. Dando como resultado más facilidad a la hora de dar mantenimiento y aumentando la productividad de nuestro proyecto.
 	``` 
 	    npm install -D pug pug-loader
 	    
 	```
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [621469](https://platzi.com/comentario/621469/) 
 
-	
 	se instala pug como herramienta de desarrollo y el pug-loader, sin embargo ya no es necesario configurar el loader dentro de webpack pues ya lo trae el vue-loader.
 	
 	npm i -D pug pug-loader
 
-* **cesarUmeres** (1)
+* **cesarUmeres** (1) [621221](https://platzi.com/comentario/621221/) 
 
-	
 	muchas gracias por tomarte el tiempo de enseñarnos tantas herramientas utiles en el desarrollo de un proyecto, muy buena explicacion.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560895](https://platzi.com/comentario/560895/) 
 
-	
 	Yo conocí a Jade gracias a ExpressJS. Pero con VueJS no encuentro sentido el usarlo ya que trae sus propios ciclos y condicionales.  
 	Solo le veo el caso para ahorrar tags de cierre.
 	
 	¿O existe otra funcionalidad que no puedo vislumbrar?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [560895] (2)
 
-		
 		Si usas una librería como Vue o React no tiene tanto sentido el usarlo, al menos que estés muy acostumbrado a usarlo y realmente te ayude a escribir el html más rápido.
 
-* **Ruth Selina Ibarra Méndez** (1)
+* **Ruth Selina Ibarra Méndez** (1) [528111](https://platzi.com/comentario/528111/) 
 
-	
 	Al instalar Pug unico que veo es que hay mucha inherencia para poca complejidad como lo mencionaban en los videos anteriores
 
-* **DiegoTinitana** (1)
+* **DiegoTinitana** (1) [489170](https://platzi.com/comentario/489170/) 
 
-	
 	xq pug xq?
 
-* **Sergio Shovanny Hernández Betanzos** (1)
+* **Sergio Shovanny Hernández Betanzos** (1) [456963](https://platzi.com/comentario/456963/) 
 
-	
 	La verdad pug es un buen preprocesador y es una herramienta importante , se puede decir que no es utilizable sin embargo, para los que trabajan utilizando conveciones de código en equipos de trabajo, esta perfecto.
 
-* **Jafet López Chaves** (1)
+* **Jafet López Chaves** (1) [449082](https://platzi.com/comentario/449082/) 
 
-	
 	La verdad no uso mucho Pug, pero es entretenido ver las diferencias entre que hay con el HTML puro
 
-* **edwarxdced** (1)
+* **edwarxdced** (1) [435313](https://platzi.com/comentario/435313/) 
 
-	
 	Se nota que se utiliza **menos código** pero estaríamos añadiendo una **complejidad accidental o extra**?
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [435313] (1)
 
-		
 		Es por comodidad del programador, a veces se opta ya que en algunos casos o en el manejo de Pug es más fácil y rápido en el momento de escritura. Pero ya con emmet se puede facilitar la escritura de HTML, así que es opcional.
 
-* **makroz** (1)
+* **makroz** (1) [373182](https://platzi.com/comentario/373182/) 
 
-	
 	si puedo utilizar PUG, solo podria utilizar su sintaxis? o tambien utilidades como variables, mixins e iteraciones?  
 	pregunto esto porque seria mas sencillo si utilizo un foreach de pug en lugar de utilizar v-for, al igual podria reutilizar variables de pug
 	
 	(todo esto en caso no este acostumbrado a utilizar vue)  
 	digo esto con fin de resolver esta curiosidad, ya que entiendo que lo recomendable seria utilizar vue para estas operaciones
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [373182] (1)
 
-		
 		Puedes usar todo lo que te ofrece pug. Solo debes tener en cuenta como se integra vue con ello. Es decir, debes seguir teniendo claro la sintaxis de vue y la forma correcta de usarlos.  
 		e.j.
 		``` 
@@ -4627,55 +4083,46 @@ Bulma solo se puede usar cons SASS?
 		
 		Ya sabes que el @ es la forma de bindear eventos a un metodo de vue,
 
-* **Byhako** (1)
+* **Byhako** (1) [348485](https://platzi.com/comentario/348485/) 
 
-	
 	Pug es un standar para trabajar con Vue?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [348485] (3)
 
-		
 		No, puedes escribir directamente html sin problema.
 
-	* **Gabriel Chávez** (3)
+	* **Gabriel Chávez** [348485] (3)
 
-		
 		No, PUG es un motor de plantillas, para escribir HTML con mayor fluidez y una mejor sintaxis. En VueJS puedes incrustar HTML como tal o usar casi cualquier preprocesador.
 
-* **nandoalvarado092** (1)
+* **nandoalvarado092** (1) [183098](https://platzi.com/comentario/183098/) 
 
-	
 	Hola! chicos una pregunta, en los archivos de esta clase para ser los que realmente el esta utilizando faltaría solo la carpeta modules?, quien me la pasaría por fa, gracias.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [183098] (1)
 
-		
 		Hola bando puedes revisar en el siguiente material y si tampoco te aparece lo busco directamente en github y te lo proporciono!
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [183098] (3)
 
-		
 		Creo que te refieres a la carpeta `node_modules`, es carpeta tiene las dependencias del proyecto y no se comparte ya que se genera a traves del archivo `package.json`. Escribiendo en la terminal el comando `npm install` o `npm i` vas a poder generarla
 
-	* **nandoalvarado092** (0)
+	* **nandoalvarado092** [183098] (0)
 
-		
 		Ahí te escribi ricardo 😉
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57127](https://platzi.com/comentario/560895/) 
 Yo conocí a Jade gracias a ExpressJS. Pero con VueJS no encuentro sentido el usarlo ya que trae sus propios ciclos y condicionales. Solo ...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [57127] (2)
 
-		
 		Si usas una librería como Vue o React no tiene tanto sentido el usarlo, al menos que estés muy acostumbrado a usarlo y realmente te ayude a escribir el html más rápido.
 
-* **makroz** (1)
+* **makroz** (1) [41167](https://platzi.com/comentario/373182/) 
 si puedo utilizar PUG, solo podria utilizar su sintaxis? o tambien utilidades como variables, mixins e iteraciones? pregunto esto porque ...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [41167] (1)
 
-		
 		Puedes usar todo lo que te ofrece pug. Solo debes tener en cuenta como se integra vue con ello. Es decir, debes seguir teniendo claro la sintaxis de vue y la forma correcta de usarlos.  
 		e.j.
 		``` 
@@ -4689,62 +4136,52 @@ si puedo utilizar PUG, solo podria utilizar su sintaxis? o tambien utilidades co
 		
 		Ya sabes que el @ es la forma de bindear eventos a un metodo de vue,
 
-* **Byhako** (1)
+* **Byhako** (1) [38844](https://platzi.com/comentario/348485/) 
 Pug es un standar para trabajar con Vue?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [38844] (3)
 
-		
 		No, puedes escribir directamente html sin problema.
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [307632](https://platzi.com/comentario/307632/) 
 
-	
 	Por si no se nota aqui esta el comando
 	``` 
 	    npm i -D pug pug-loader
 	    
 	```
 
-	* **Victor Gamez** (1)
+	* **Victor Gamez** [307632] (1)
 
-		
 		no hace falta loco
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [307632] (1)
 
-		
 		😂 la verdad no pero fue divertido tu comentario @vgamez
 
-* **Juan Carlos Felizzola Vega** (0)
+* **Juan Carlos Felizzola Vega** (0) [297662](https://platzi.com/comentario/297662/) 
 
-	
 	Web oficial de PUG:  
 	<https://pugjs.org/>
 
-* **Jorge Luis Quiguango** (0)
+* **Jorge Luis Quiguango** (0) [224739](https://platzi.com/comentario/224739/) 
 
-	
 	Saludos. Alguien me puede ayudar como configurar mi Atom Para que la sección de pug muestre con colorines. Instalé apm install linter-pug y nada.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [224739] (4)
 
-		
 		<https://atom.io/packages/language-pug> este es el plugin, el linter te ayuda para que no tengas errores.
 
-	* **David E  Lares S** (0)
+	* **David E  Lares S** [224739] (0)
 
-		
 		¡Estaba buscando esto, mil gracias!
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [224739] (1)
 
-		
 		Gracias.
 
-* **jeg** (0)
+* **jeg** (0) [181106](https://platzi.com/comentario/181106/) 
 
-	
 	Alguien tuvo un error similar:
 	``` 
 	    ERROR in ./~/vue-loader/lib/template-compiler?{"id":"data-v-5e00f2ea"}!./~/vue-loader/lib/template-compiler/preprocessor.js?engine=pug!./~/vue-loader/lib/selector.js?type=template&index=0!./src/App.vue
@@ -4753,29 +4190,25 @@ Pug es un standar para trabajar con Vue?
 	
 	No puedo renderizar pug y no estoy encontrando el error, alguna posible solución?. Gracias.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [181106] (1)
 
-		
 		Tenes instalada la dependencia de pug? Fijate si tenes mas informacion sobre el error para ver que pasa. Si podes publica el trace completo
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [181106] (1)
 
-		
 		Una captura de App.vue tambien puede ayudar
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [181106] (1)
 
-		
 		Una captura de App.vue tambien puede ayudar
 
-	* **jeg** (1)
+	* **jeg** [181106] (1)
 
-		
 		La verdad no se que paso, ahora lo volví a correr mientras te iba a realizar la captura y tiro el mismo error lo volví a correr y salio andando :S
 		
 		Gracias.
 
-## 0100. Ejercicio de SASS y PUG
+## 0100. Ejercicio de SASS y PUG [7842](https://platzi.com/clases/1145-vuejs-profesional/7842-ejercicio-de-sass-y-pug/)
 
 ### Descripción:
 
@@ -4790,9 +4223,8 @@ Este es el primero de los ejercicios que debes realizar:
 
 ### Comentarios:
 
-* **Josh Ospina** (7)
+* **Josh Ospina** (7) [181065](https://platzi.com/comentario/181065/) 
 
-	
 	Ejercicio
 	
 	index.pug
@@ -4911,24 +4343,20 @@ Este es el primero de los ejercicios que debes realizar:
 	    }
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [181065] (0)
 
-		
 		Excelente JoshDev! no olvides darle feedback a otro de los usuarios!
 
-	* **Alejandra Iza** (0)
+	* **Alejandra Iza** [181065] (0)
 
-		
 		que significa esta sintaxis amigo &#{-btn)?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [181065] (1)
 
-		
 		Hola Aleja, está anidando todo lo que pone dspués como -btn con la dependencia padre, es un atajo usado con sass
 
-	* **Sebastian Cardoso Castillo** (0)
+	* **Sebastian Cardoso Castillo** [181065] (0)
 
-		
 		@Alejalza es común ver esto:
 		``` 
 		    a{
@@ -4939,9 +4367,8 @@ Este es el primero de los ejercicios que debes realizar:
 		    
 		```
 
-* **Carlos Andrés Millan Satizabal** (4)
+* **Carlos Andrés Millan Satizabal** (4) [184965](https://platzi.com/comentario/184965/) 
 
-	
 	Template Vue:
 	``` 
 	    <template lang="pug">
@@ -5027,17 +4454,15 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [184965] (0)
 
-		
 		Genial que bueno que practiques!
 
-* **David Alejandro Abreu Abreu** (2)
+* **David Alejandro Abreu Abreu** (2) [927470](https://platzi.com/comentario/927470/) 
 
-	
 	Supongo que es que ya debo tener conocimientos de PUG y SASS? en los vídeos anteriores no trataron nada de como usar PUG y BULMA, y de repente PUM! Haz este ejercicio, y el siguiente es mas avanzado aun 😥😥
 
-* **Fabian Gutierrez** (2)
+* **Fabian Gutierrez** (2) [800566](https://platzi.com/comentario/800566/) 
 
 	```
 	    <template >
@@ -5126,36 +4551,31 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **joellopezdetrinidad** (2)
+* **joellopezdetrinidad** (2) [783735](https://platzi.com/comentario/783735/) 
 
-	
 	MY CODE:  
 	![Screenshot from 2019-10-16 09-46-17.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-10-16%2009-46-17-52dda84c-1d9c-4179-bce2-5d535cae52a3.jpg)
 
-* **Omar Flores Grimontt** (2)
+* **Omar Flores Grimontt** (2) [236784](https://platzi.com/comentario/236784/) 
 
-	
 	Me parece excelente los ejercicios 😃.
 	
 	Aquí está mi [código](https://github.com/omarefg/registerform/tree/master/src) y el [formulario](https://omarefg.github.io/registerform/).
 
-* **UchihaCFC** (2)
+* **UchihaCFC** (2) [187876](https://platzi.com/comentario/187876/) 
 
-	
 	Algo tarde, pero por aquí va el mío!!
 	
 	Hecho con pug, sass y bulma
 	
 	![](https://image.ibb.co/cgL1Pv/myplatziexercise.png)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [187876] (1)
 
-		
 		no es tarde, excelente trabajo! no olvides seguir practicando todos los ejercicios del curso =)
 
-* **CARLOS DAVID MARCIGLIA GOMEZ** (2)
+* **CARLOS DAVID MARCIGLIA GOMEZ** (2) [185756](https://platzi.com/comentario/185756/) 
 
-	
 	Ejercicio desde el archivo App.Vue
 	``` 
 	    <template lang="pug">
@@ -5269,46 +4689,39 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	[](https://www.dropbox.com/s/d63tgb2ba3zjhxb/platzi%20music.png?dl=0)
 
-	* **CARLOS DAVID MARCIGLIA GOMEZ** (0)
+	* **CARLOS DAVID MARCIGLIA GOMEZ** [185756] (0)
 
-		
 		Aqui screen-shot [https://www.dropbox.com/s/d63tgb2ba3zjhxb/platzi music.png?dl=0](https://www.dropbox.com/s/d63tgb2ba3zjhxb/platzi%20music.png?dl=0)
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [185756] (0)
 
-		
 		Excelente trabajo!
 
-* **ormeno_nicolas** (2)
+* **ormeno_nicolas** (2) [181338](https://platzi.com/comentario/181338/) 
 
-	
 	Algo es algo
 	
 	<https://codepen.io/normeno/pen/VWgazb>
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [181338] (0)
 
-		
 		Muy bueno 👏👏👏
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [181338] (1)
 
-		
 		y puntos extra por los nombre y apellido!
 
-	* **ormeno_nicolas** (0)
+	* **ormeno_nicolas** [181338] (0)
 
-		
 		@ricardocelis no entendí XD
 
-* **victor.pqch** (1)
+* **victor.pqch** (1) [1097767](https://platzi.com/comentario/1097767/) 
 
-	
 	Actualmente la versión de mi vue-cli es el 4.2.3
 	
 	al utilizar vue init para crear este proyecto posteriormente me sale algunos errores cuando voy incorporando algunas dependencias. Habrá alguna actualización del curso?
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1083685](https://platzi.com/comentario/1083685/) 
 
 	```
 	    <templatelang="pug">
@@ -5401,12 +4814,11 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **__victorisrael__** (1)
+	* **__victorisrael__** [1083685] (1)
 
-		
 		Los id de tus inputs los dejaste con name.
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [976537](https://platzi.com/comentario/976537/) 
 
 	```
 	    @import'../../node_modules/bulma/bulma.sass';
@@ -5468,18 +4880,18 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Gabriela Perez** (1)
+* **Gabriela Perez** (1) [820106](https://platzi.com/comentario/820106/) 
 
-	
 	[Mi código 😄](https://codepen.io/gabrielaaperezr/pen/RwwBeLe)
 
-* **sebastian ramirez ocampo** (1)
-![ejercicio.png](https://static.platzi.com/media/user_upload/ejercicio-fcb2c420-0e20-42f0-9461-fec700a98fb9.jpg)
+* **sebastian ramirez ocampo** (1) [776514](https://platzi.com/comentario/776514/) 
+	
+	![ejercicio.png](https://static.platzi.com/media/user_upload/ejercicio-fcb2c420-0e20-42f0-9461-fec700a98fb9.jpg)
 	```
 	```
 	
 
-* **luisalfredonavarroalbarracin** (1)
+* **luisalfredonavarroalbarracin** (1) [773785](https://platzi.com/comentario/773785/) 
 
 	```
 	    <templatelang="pug">
@@ -5557,9 +4969,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Joseph Paucar** (1)
+* **Joseph Paucar** (1) [757657](https://platzi.com/comentario/757657/) 
 
-	
 	Codigo:
 	``` 
 	    <template lang="pug">
@@ -5614,9 +5025,8 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	![](![form-materialize.PNG](https://static.platzi.com/media/user_upload/form-materialize-5abb3d04-1b37-47e8-9747-2b81ed1bbaa9.jpg)
 
-* **codeisaac** (1)
+* **codeisaac** (1) [754224](https://platzi.com/comentario/754224/) 
 
-	
 	Este es mi codigo. No esta optimizado. Esto es nuevo para mi siempre he sido back de hueso colorado no me habia querido meter en front pero hoy en dia es muy necesario conocer los dos puntos de vista si uno quiere comprender al 100% el desarrollo de un producto. Para mi en verdad es un reto este tipo de cosas. Y prometo mejorarlas.
 	
 	![](https://i.ibb.co/GsmGq8J/Captura-de-pantalla-de-2019-09-25-19-38-05.png)
@@ -5728,18 +5138,16 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Jorge Alejandro Quiroz Serna** (1)
+* **Jorge Alejandro Quiroz Serna** (1) [748994](https://platzi.com/comentario/748994/) 
 
-	
 	Codigo:  
 	![Captura de Pantalla 2019-09-22 a la\(s\) 4.58.31 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-09-22%20a%20la%28s%29%204.58.31%20p.%20m.-d9265cec-7500-4efa-ba02-c75dbe78a1ee.jpg)
 	
 	Ui  
 	![Captura de Pantalla 2019-09-22 a la\(s\) 4.58.46 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-09-22%20a%20la%28s%29%204.58.46%20p.%20m.-fae456a5-9daa-494b-944a-baca84a7d4db.jpg)
 
-* **miguelalejandrocastillo** (1)
+* **miguelalejandrocastillo** (1) [745371](https://platzi.com/comentario/745371/) 
 
-	
 	**Buenas tardes**
 	
 	_Brindo mi aporte de código y la UI_
@@ -5838,8 +5246,9 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Luis Noel Fernández Rodríguez** (1)
-![Mockup](https://i.ibb.co/djcXKSG/Capture.png)
+* **Luis Noel Fernández Rodríguez** (1) [699893](https://platzi.com/comentario/699893/) 
+	
+	![Mockup](https://i.ibb.co/djcXKSG/Capture.png)
 	``` 
 	    <template lang='pug'>
 	      #div
@@ -5867,7 +5276,7 @@ Este es el primero de los ejercicios que debes realizar:
 	    @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 	    @import "@/scss/main.scss";
 	    
-	    * {
+	  * {
 	      font-family: 'Roboto', sans-serif;
 	    }
 	    
@@ -5882,8 +5291,9 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **boludagonzalezmanuel** (1)
-![](http://i.imgur.com/yHK976N.png)
+* **boludagonzalezmanuel** (1) [693160](https://platzi.com/comentario/693160/) 
+	
+	![](http://i.imgur.com/yHK976N.png)
 	``` 
 	    <template lang="pug">
 	      #app
@@ -5947,9 +5357,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Alexander Henry Obispo Buendia** (1)
+* **Alexander Henry Obispo Buendia** (1) [668785](https://platzi.com/comentario/668785/) 
 
-	
 	Mi solucion 😄
 	``` 
 	    <template lang="pug">
@@ -6019,9 +5428,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **alexcastiblanco** (1)
+* **alexcastiblanco** (1) [662872](https://platzi.com/comentario/662872/) 
 
-	
 	Me ha tomado casi dos semenas hacerlo por pereza, pero al final lo hice en 15 min.
 	``` 
 	    <template lang="pug">
@@ -6085,9 +5493,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **David Alberto Mogollón Fernández** (1)
+* **David Alberto Mogollón Fernández** (1) [660792](https://platzi.com/comentario/660792/) 
 
-	
 	Adjunto el ejercicio usando Bulma, SCSS Y PUG
 	``` 
 	    <template lang="pug">
@@ -6203,9 +5610,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Carlos Andres Romero Ortiz** (1)
+* **Carlos Andres Romero Ortiz** (1) [658764](https://platzi.com/comentario/658764/) 
 
-	
 	esta es la realización del ejercicio
 	``` 
 	    <templatelang="pug">
@@ -6290,9 +5696,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **ANDRES GOMEZ GOMEZ** (1)
+* **ANDRES GOMEZ GOMEZ** (1) [647538](https://platzi.com/comentario/647538/) 
 
-	
 	Realicé la prueba con todos los elementos de Bulma y solo los modifiqué un poco para que sean como se indica:
 	``` 
 	    <templatelang="pug">
@@ -6363,7 +5768,7 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Oscar Hernando Cabrera Plazas** (1)
+* **Oscar Hernando Cabrera Plazas** (1) [629441](https://platzi.com/comentario/629441/) 
 
 	```
 	    app.vue
@@ -6444,9 +5849,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Alexander Henry Obispo Buendia** (1)
+* **Alexander Henry Obispo Buendia** (1) [618386](https://platzi.com/comentario/618386/) 
 
-	
 	lo hice en un componente separado, use materialize css y no me gusta usar pug
 	``` 
 	    <template>
@@ -6535,9 +5939,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **franciscosanchez44** (1)
+* **franciscosanchez44** (1) [600392](https://platzi.com/comentario/600392/) 
 
-	
 	Yo preferi encapsularlo en un solo componente dado que es el approach que estamos trantando de seguir.
 	``` 
 	    <template lang='pug'>
@@ -6630,7 +6033,7 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [592298](https://platzi.com/comentario/592298/) 
 
 	```
 	    <template>
@@ -6738,9 +6141,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **leirags** (1)
+* **leirags** (1) [580638](https://platzi.com/comentario/580638/) 
 
-	
 	<template lang=“pug”>  
 	#app(class=“tap”)  
 	img(src=“[https://static.platzi.com/media/user_upload/Page 1-d8d869f4-7130-4ae9-9907-2fa809bd136a.jpg](https://static.platzi.com/media/user_upload/Page%201-d8d869f4-7130-4ae9-9907-2fa809bd136a.jpg)” class=“img”)  
@@ -6818,9 +6220,8 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	</style>
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [576253](https://platzi.com/comentario/576253/) 
 
-	
 	App.vue
 	``` 
 	    <template lang="pug">
@@ -6932,9 +6333,8 @@ Este es el primero de los ejercicios que debes realizar:
 	Resltado:  
 	[miniFormulario.png](https://drive.google.com/file/d/11dAYIw7QyDtPu6HFMcjQTZQU77ihhOn8/view?usp=sharing)
 
-* **leinadcoder** (1)
+* **leinadcoder** (1) [570462](https://platzi.com/comentario/570462/) 
 
-	
 	Template Vue
 	``` 
 	    <template lang="pug">
@@ -7045,14 +6445,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **j-mora15** (1)
+* **j-mora15** (1) [568466](https://platzi.com/comentario/568466/) 
 
-	
 	[Ejercicio Sass y Pug - Joshua Mora](https://codepen.io/j-mora15/pen/wZxEmN)
 
-* **Daniel Raymundo** (1)
+* **Daniel Raymundo** (1) [550966](https://platzi.com/comentario/550966/) 
 
-	
 	 **App.vue**
 	``` 
 	    <template lang="pug">
@@ -7136,9 +6534,8 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	![](https://i.imgur.com/nCM5mgl.png)
 
-* **Benjamín Parra** (1)
+* **Benjamín Parra** (1) [539812](https://platzi.com/comentario/539812/) 
 
-	
 	Aqui va mi pequeño aporte.
 	
 	El App.vue es este:
@@ -7262,9 +6659,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    ![](https://i.ibb.co/LJf5WTF/Captura-de-pantalla-2019-03-20-a-las-12-48-46.png)
 	```
 
-* **Ernesto Gomez Zacarias** (1)
+* **Ernesto Gomez Zacarias** (1) [520668](https://platzi.com/comentario/520668/) 
 
-	
 	reto  
 	![](https://screenshotscdn.firefoxusercontent.com/images/a8f163bf-506d-418a-ab83-3f72815e5856.png)
 	
@@ -7368,9 +6764,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Snayder Acero** (1)
+* **Snayder Acero** (1) [508184](https://platzi.com/comentario/508184/) 
 
-	
 	Lo realicé con HTML puro y SASS
 	``` 
 	    <template>
@@ -7486,9 +6881,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **OSCAR MONTOYA** (1)
+* **OSCAR MONTOYA** (1) [501370](https://platzi.com/comentario/501370/) 
 
-	
 	App.vue
 	``` 
 	    <template lang="pug">
@@ -7566,9 +6960,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **piero-quelopana63** (1)
+* **piero-quelopana63** (1) [480038](https://platzi.com/comentario/480038/) 
 
-	
 	con bootstrap
 	``` 
 	    <template lang="pug">
@@ -7615,9 +7008,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **leocmpro** (1)
+* **leocmpro** (1) [476706](https://platzi.com/comentario/476706/) 
 
-	
 	Al ver lo que se pedía realizar en el ejercicio, me percaté que su apariencia estaba basada en Material Design, así que decidí usar Vuetify para aplicar el Material Design en su más fiel expresión y este fue el resultado:
 	
 	![](https://i.ibb.co/10CfbxC/ex01.png)
@@ -7714,9 +7106,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **azamartinez** (1)
+* **azamartinez** (1) [462411](https://platzi.com/comentario/462411/) 
 
-	
 	Les comparto mi práctica.
 	
 	![formulario.PNG](https://static.platzi.com/media/user_upload/formulario-110a87c8-1763-45e4-846c-24572207bfa1.jpg)
@@ -7824,9 +7215,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Rafael Torres** (1)
+* **Rafael Torres** (1) [459309](https://platzi.com/comentario/459309/) 
 
-	
 	Hola les comparto el ejercicio
 	
 	![platzi-music - Google Chrome_2.jpg](https://static.platzi.com/media/user_upload/platzi-music%20-%20Google%20Chrome_2-7033776a-7251-46be-824e-d236b8e67611.jpg)
@@ -7930,14 +7320,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [458754](https://platzi.com/comentario/458754/) 
 
-	
 	Ahh caray, me llevo tiempo con mi poco conocimiento de estilos jeje ![](https://i.gyazo.com/34089d8118f8408eb68482e020b65d82.png)
 
-* **Desarrollo Formacion** (1)
+* **Desarrollo Formacion** (1) [447416](https://platzi.com/comentario/447416/) 
 
-	
 	Dejo por aquí el ejercicio y el resultado 😃
 	``` 
 	    <template lang="pug">
@@ -8024,9 +7412,8 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	Un saludo!
 
-* **jganggini** (1)
+* **jganggini** (1) [445200](https://platzi.com/comentario/445200/) 
 
-	
 	App.vue
 	``` 
 	    <template lang="pug">
@@ -8124,9 +7511,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Manuel Ojeda** (1)
+* **Manuel Ojeda** (1) [439600](https://platzi.com/comentario/439600/) 
 
-	
 	Para este ejercicio opte por usa los scss de Bootstrap y omitir el uso Pug (preferencia personal) y el ejercicio quedó de la siguiente manera:
 	
 	Ejercicio  
@@ -8249,15 +7635,13 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [439600] (1)
 
-		
 		Obtenemos como resultado:  
 		<http://prntscr.com/lqecp9>
 
-	* **leocmpro** (1)
+	* **leocmpro** [439600] (1)
 
-		
 		Tu resultado se ve bastante bien. Pudiste usar pug para que tu código HTML se viera como más limpio, te habría quedado así:
 		``` 
 		    <template>
@@ -8285,9 +7669,8 @@ Este es el primero de los ejercicios que debes realizar:
 		    
 		```
 
-* **johnvillamilcardona** (1)
+* **johnvillamilcardona** (1) [424430](https://platzi.com/comentario/424430/) 
 
-	
 	Mockup.vue
 	``` 
 	    <templatelang="pug">
@@ -8425,9 +7808,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Dahiana Benitez** (1)
+* **Dahiana Benitez** (1) [398894](https://platzi.com/comentario/398894/) 
 
-	
 	Dejo aquí mi tarea!  
 	![platzi.jpg](https://static.platzi.com/media/user_upload/platzi-b7cd429d-446a-4f19-b043-22adad50337f.jpg)
 	
@@ -8542,9 +7924,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Juan Manuel Viveros Martinez** (1)
+* **Juan Manuel Viveros Martinez** (1) [384517](https://platzi.com/comentario/384517/) 
 
-	
 	Ejercicio Mockup Estación Platzi
 	
 	Código App.vue
@@ -8668,9 +8049,8 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	![Captura de pantalla 2018-09-20 a la\(s\) 1.47.22 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-09-20%20a%20la%28s%29%201.47.22%20p.%20m.-904b1c1f-3a2c-4ed2-9b0e-3aaeef20d362.jpg)
 
-* **Jhojany Jose Uzategui Araujo** (1)
+* **Jhojany Jose Uzategui Araujo** (1) [375551](https://platzi.com/comentario/375551/) 
 
-	
 	Aqui va mi ejercicio  
 	  
 	App.vue
@@ -8775,12 +8155,11 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **Jhojany Jose Uzategui Araujo** (1)
+	* **Jhojany Jose Uzategui Araujo** [375551] (1)
 ![](https://image.ibb.co/dNtbZp/ejercicio1.png)
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [359970](https://platzi.com/comentario/359970/) 
 
-	
 	**Mi ejercicio**  
 	![](https://s3.amazonaws.com/davecast/sample1.png)
 	
@@ -8994,9 +8373,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Diego Rojas** (1)
+* **Diego Rojas** (1) [356812](https://platzi.com/comentario/356812/) 
 
-	
 	HTML pug
 	``` 
 	    <templatelang="pug">
@@ -9094,13 +8472,14 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **Diego Rojas** (1)
+	* **Diego Rojas** [356812] (1)
 ![mockup.PNG](https://static.platzi.com/media/user_upload/mockup-251f43ef-29ae-4612-9a39-23f21a698151.jpg)
 
-* **CanallaAgency** (1)
-![Captura de pantalla 2018-08-02 a la\(s\) 10.35.49.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-08-02%20a%20la%28s%29%2010.35.49-5840f34f-ad6e-4601-b97e-f3aea6a5b67a.jpg)
+* **CanallaAgency** (1) [346276](https://platzi.com/comentario/346276/) 
+	
+	![Captura de pantalla 2018-08-02 a la\(s\) 10.35.49.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-08-02%20a%20la%28s%29%2010.35.49-5840f34f-ad6e-4601-b97e-f3aea6a5b67a.jpg)
 
-* **CanallaAgency** (1)
+* **CanallaAgency** (1) [346275](https://platzi.com/comentario/346275/) 
 
 	```
 	    @import url('https://fonts.googleapis.com/css?family=Roboto');
@@ -9168,7 +8547,7 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **CanallaAgency** (1)
+* **CanallaAgency** (1) [346274](https://platzi.com/comentario/346274/) 
 
 	```
 	    <code>
@@ -9197,9 +8576,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Jerson Moreno** (1)
+* **Jerson Moreno** (1) [246114](https://platzi.com/comentario/246114/) 
 
-	
 	**Mi propuesta**  
 	`index.pug`
 	``` 
@@ -9317,14 +8695,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Luis Carlos Quesada Sequeira** (1)
+* **Luis Carlos Quesada Sequeira** (1) [240000](https://platzi.com/comentario/240000/) 
 
-	
 	Saludos: <https://codepen.io/Lucaquese/pen/wpyvgr>
 
-* **Luis Lacruz** (1)
+* **Luis Lacruz** (1) [221389](https://platzi.com/comentario/221389/) 
 
-	
 	Ejercicio de SASS y PUG
 	
 	main.sass
@@ -9433,14 +8809,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [221389] (1)
 
-		
 		excelente, es muy importante practicar, sigue asì =)!
 
-* **Emilio Rafael Hernandez Perez** (1)
+* **Emilio Rafael Hernandez Perez** (1) [198151](https://platzi.com/comentario/198151/) 
 
-	
 	yeppppa!!!
 	
 	Muy buen, proyecto sumando al portafolio. He realizado un pequeño cambio con respecto al original y el ultimo input lo he realizado con un select, así de esta manera el usuario no tiene que recargar. Y me he valido un poco de las librerías de materializecss
@@ -9498,39 +8872,32 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [198151] (0)
 
-		
 		Excelente solucion, gracias por tu aporte!
 
-* **Angel Dominguez** (1)
+* **Angel Dominguez** (1) [192855](https://platzi.com/comentario/192855/) 
 
-	
 	[Aquí, una captura de pantalla](https://www.dropbox.com/s/dxcdbogo8yd30uh/ejercicio-pug-bulma-sass.png?dl=0)
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [192855] (0)
 
-		
 		Hola ángel gracias por compartir tus resultados!
 
-	* **Daniee** (0)
+	* **Daniee** [192855] (0)
 
-		
 		como se puede igualar el ancho del titulo con el ancho del input ?
 
-* **Diego Andres Cardenas Caro** (1)
+* **Diego Andres Cardenas Caro** (1) [188215](https://platzi.com/comentario/188215/) 
 
-	
 	<https://codepen.io/ingeekar/full/RZZXQO/>
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [188215] (0)
 
-		
 		Muy bien diego!
 
-* **Jorge Dominguez** (1)
+* **Jorge Dominguez** (1) [186255](https://platzi.com/comentario/186255/) 
 
-	
 	Un hermoso trabajo gracias a Platzi
 	``` 
 	    <code>
@@ -9626,14 +8993,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [186255] (1)
 
-		
 		Excelente trabajo!
 
-* **Manolo Comi** (1)
+* **Manolo Comi** (1) [184373](https://platzi.com/comentario/184373/) 
 
-	
 	App.vue
 	``` 
 	    <template lang="pug">
@@ -9742,14 +9107,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [184373] (0)
 
-		
 		Muy bien mcomix!
 
-* **asolorzano** (1)
+* **asolorzano** (1) [183926](https://platzi.com/comentario/183926/) 
 
-	
 	file: mains.scss
 	``` 
 	    @import"~bulma/bulma.sass";
@@ -9857,14 +9220,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [183926] (1)
 
-		
 		Excelente solución asolorzano te felicito!
 
-* **Sebastian  Rojas Parra** (1)
+* **Sebastian  Rojas Parra** (1) [182711](https://platzi.com/comentario/182711/) 
 
-	
 	App.vue
 	``` 
 	    #app
@@ -9953,27 +9314,23 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [182711] (0)
 
-		
 		Excelente srojasparra no olvides hacer el siguiente!
 
-* **fersot7** (1)
+* **fersot7** (1) [182374](https://platzi.com/comentario/182374/) 
 
-	
 	Excelente ejercicio para familiarizarse con PUG, SCSS y BULMA.
 	
 	EJERCICIO:  
 	<https://github.com/FernandoSotoBetin/stationplatzi>
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [182374] (0)
 
-		
 		Que bueno que te gusto fersot
 
-* **leshz** (1)
+* **leshz** (1) [182327](https://platzi.com/comentario/182327/) 
 
-	
 	Listo !!  
 	el template
 	``` 
@@ -10080,26 +9437,22 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	ahora, tengo una pregunta, porque al incluir el codigo scss en el app.vue dentro de las etiquetas <style> falla el codigo?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [182327] (1)
 
-		
 		Genial, buen trabajo. Podrias desribir mas el error que estas teniendo. Una imagen puede servir.
 
-	* **leshz** (1)
+	* **leshz** [182327] (1)
 
-		
 		Ya descubrí porque fallaba, un ;
 		
 		Gracias por el curso , esta genial !!!
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [182327] (0)
 
-		
 		Gracias 😄😄😄
 
-* **ivanguerra10** (1)
+* **ivanguerra10** (1) [181222](https://platzi.com/comentario/181222/) 
 
-	
 	Ejercicio hecho en el archivo App.vue
 	``` 
 	    <template lang="pug">
@@ -10184,19 +9537,16 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [181222] (1)
 
-		
 		Excelente Ivan! no olvides que puedes ir dando feedback al siguiente usuario y así sucesivamente!
 
-	* **Daniee** (0)
+	* **Daniee** [181222] (0)
 
-		
 		como agregaste Bootstrap al proyecto ?
 
-* **axlina90** (0)
+* **axlina90** (0) [322486](https://platzi.com/comentario/322486/) 
 
-	
 	Saludos, este sería mi solución al ejercicio:
 	``` 
 	    <template lang="pug">
@@ -10271,7 +9621,7 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	![Captura1.PNG](https://static.platzi.com/media/user_upload/Captura1-eb129d72-e374-4d87-8848-5e3aad9ec52a.jpg)
 
-* **Nestor Amilcar Plasencia Prado** (0)
+* **Nestor Amilcar Plasencia Prado** (0) [321002](https://platzi.com/comentario/321002/) 
 
 	```
 	    <template lang="pug">
@@ -10364,9 +9714,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Nicolas Gonzalez** (0)
+* **Nicolas Gonzalez** (0) [318414](https://platzi.com/comentario/318414/) 
 
-	
 	Así quedo… estoy bastante conforme pero se puede mejorar
 	
 	**_HTML_**
@@ -10453,9 +9802,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Kevin Lozoya Giner** (0)
+* **Kevin Lozoya Giner** (0) [311184](https://platzi.com/comentario/311184/) 
 
-	
 	Hecho con archivo *.vue
 	
 	template
@@ -10532,14 +9880,12 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **bider88** (0)
+* **bider88** (0) [305762](https://platzi.com/comentario/305762/) 
 
-	
 	Mi solución [ejercicio de sass y pug](https://codepen.io/bider88/pen/RJbqwQ). Lo realicé pronto con Materialize Css.
 
-* **Iván Lara Gómez** (0)
+* **Iván Lara Gómez** (0) [299515](https://platzi.com/comentario/299515/) 
 
-	
 	style.css (Generado)
 	``` 
 	    body {
@@ -10585,7 +9931,7 @@ Este es el primero de los ejercicios que debes realizar:
 	          position: relative;
 	        }
 	    
-	        * { box-sizing:border-box; }
+	      * { box-sizing:border-box; }
 	    
 	    .group {
 	      position:relative;
@@ -10701,9 +10047,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Iván Lara Gómez** (0)
+* **Iván Lara Gómez** (0) [299514](https://platzi.com/comentario/299514/) 
 
-	
 	style.scss
 	``` 
 	    body
@@ -10860,9 +10205,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Iván Lara Gómez** (0)
+* **Iván Lara Gómez** (0) [299512](https://platzi.com/comentario/299512/) 
 
-	
 	index.html
 	``` 
 	    <!DOCTYPE html>
@@ -10916,9 +10260,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Enyelber Altube** (0)
+* **Enyelber Altube** (0) [294936](https://platzi.com/comentario/294936/) 
 
-	
 	Les dejo mi codío por aquí, cualquier sugerencia es bien recibida.
 	
 	App.vue
@@ -11025,9 +10368,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Francisco Luis Gerardino Blas** (0)
+* **Francisco Luis Gerardino Blas** (0) [293805](https://platzi.com/comentario/293805/) 
 
-	
 	App.vue
 	``` 
 	    <code>
@@ -11115,9 +10457,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Nidi** (0)
+* **Nidi** (0) [274155](https://platzi.com/comentario/274155/) 
 
-	
 	Recién iniciando el curso!  
 	Cualquier comentario, es bienvenido…
 	``` 
@@ -11230,9 +10571,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **carlosextra1** (0)
+* **carlosextra1** (0) [272873](https://platzi.com/comentario/272873/) 
 
-	
 	App.vue
 	``` 
 	    <template lang="pug">
@@ -11328,7 +10668,7 @@ Este es el primero de los ejercicios que debes realizar:
 	
 	![](http://www.extrasistemas.com/cursos/form-platzi-vue.JPG)
 
-* **rcorominas** (0)
+* **rcorominas** (0) [268467](https://platzi.com/comentario/268467/) 
 
 	```
 	    <template lang="pug">
@@ -11420,9 +10760,8 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Way** (0)
+* **Way** (0) [266121](https://platzi.com/comentario/266121/) 
 
-	
 	webpack.config.js (loader)
 	``` 
 	      {
@@ -11564,24 +10903,20 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Oscar Stevens Cuartas Bejarano** (0)
+* **Oscar Stevens Cuartas Bejarano** (0) [261039](https://platzi.com/comentario/261039/) 
 
-	
 	alguien podria explicarme como implementar este que encontre <https://bootstrap-vue.js.org/> en vez de bulma, no se como hacerlo con el sass como explico el profesor en bulma
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [261039] (1)
 
-		
 		En la documentación <https://bootstrap-vue.js.org/docs> muestra como implementarlo, cambia la forma de uso ya que bulma se importaba un css, este se implemente directamente sobre el archivo .vue
 
-* **JRivera Román** (0)
+* **JRivera Román** (0) [260007](https://platzi.com/comentario/260007/) 
 
-	
 	[Este es mi ejercicio en CodePen.io](https://codepen.io/JuanjoVlado/pen/EQoNwj)
 
-* **David Vargas Domínguez** (0)
+* **David Vargas Domínguez** (0) [244370](https://platzi.com/comentario/244370/) 
 
-	
 	Por aquí dejo mi desafío ^^ estuvo muy entretenido  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-063e8fbc-0cea-41dd-8084-e43a63d67ede.jpg)
 	
@@ -11722,16 +11057,14 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-* **Cesar Octavio de Jesús Meza Carrillo** (0)
+* **Cesar Octavio de Jesús Meza Carrillo** (0) [227350](https://platzi.com/comentario/227350/) 
 
-	
 	me apoye un poco con mis compañeros pero aqui esta mi aporte.
 	
 	<https://codepen.io/deorsoft/pen/dZBZvO>
 
-* **Juan Sifontez** (0)
+* **Juan Sifontez** (0) [218614](https://platzi.com/comentario/218614/) 
 
-	
 	Hola aquí dejo mi trabajo: [Muckups 1](https://jsifontz.github.io/vue-formulario/).
 	
 	Utilice una plantilla de vue e integre materialize css y su archivo SASS, sobreescribiendo ciertos colores predeterminados. Aqui muestro el código.
@@ -11839,33 +11172,28 @@ Este es el primero de los ejercicios que debes realizar:
 	    
 	```
 
-	* **Wilfredo Torres** (0)
+	* **Wilfredo Torres** [218614] (0)
 
-		
 		Muy buena tu solución.
 
-* **Diego Andres Cardenas Caro** (0)
+* **Diego Andres Cardenas Caro** (0) [188713](https://platzi.com/comentario/188713/) 
 
-	
 	[](https://codepen.io/ingeekar/pen/RZZXQO)
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [188713] (0)
 
-		
 		hola Diego al parecer no se subió, te invito a que lo subas para que logremos revisarlo =)
 
-* **Diego Andres Cardenas Caro** (0)
+* **Diego Andres Cardenas Caro** (0) [188712](https://platzi.com/comentario/188712/) 
 
-	
 	Mi solucion al ejercicio…  
 	[](https://codepen.io/ingeekar/pen/RZZXQO)
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [188712] (0)
 
-		
 		Ha diego subelo de nuevo pues al parecer no se
 
-## 0110. Ejercicio Avanzado de Pug y SASS
+## 0110. Ejercicio Avanzado de Pug y SASS [7870](https://platzi.com/clases/1145-vuejs-profesional/7870-ejercicio-avanzado-de-pug-y-sass/)
 
 ### Descripción:
 
@@ -11887,9 +11215,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 
 ### Comentarios:
 
-* **Juan Luis Rojas León** (7)
+* **Juan Luis Rojas León** (7) [181562](https://platzi.com/comentario/181562/) 
 
-	
 	Listo  
 	![screencapture-localhost-8080-1499980244724.png](https://static.platzi.com/media/user_upload/screencapture-localhost-8080-1499980244724-150d160b-54d8-4433-b24b-1181ec3a7e7d.jpg)
 	
@@ -12130,21 +11457,18 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [181562] (3)
 
-		
 		Excelente Juan Luis Rojas!!! sigue con el curso y más adelante tendrás que, con lo que aprendes de vue utilizar esto que acabas de crear!
 		
 		Cuéntame que te pareció el ejercicio? esto es nuevo y esperamos ver su feedback =)
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [181562] (1)
 
-		
 		Muy ¡ **Bueno**!
 
-* **franciscosanchez44** (2)
+* **franciscosanchez44** (2) [601116](https://platzi.com/comentario/601116/) 
 
-	
 	App.vue
 	``` 
 	    <templatelang='pug'>
@@ -12414,9 +11738,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [577042](https://platzi.com/comentario/577042/) 
 
-	
 	Resultado:  
 	[peliculas.png](https://drive.google.com/file/d/1ggOXImPDb0BHmI4syjwfI7uJ_-z2Mn3K/view?usp=sharing)
 	
@@ -12711,9 +12034,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1087196](https://platzi.com/comentario/1087196/) 
 
-	
 	App.vue
 	``` 
 	    <templatelang="pug">
@@ -13239,9 +12561,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	
 	😀😀
 
-* **David Alberto Mogollón Fernández** (1)
+* **David Alberto Mogollón Fernández** (1) [661043](https://platzi.com/comentario/661043/) 
 
-	
 	Bueno, disculpen poner todo en un solo archivo, aquí esta una versión responsiva
 	``` 
 	    <template lang="pug">
@@ -13543,14 +12864,12 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [598106](https://platzi.com/comentario/598106/) 
 
-	
 	😃
 
-* **leirags** (1)
+* **leirags** (1) [584403](https://platzi.com/comentario/584403/) 
 
-	
 	No pude hacer que el titulo del genero abarcara todo el renglon
 	``` 
 	    <template lang="pug">
@@ -13791,9 +13110,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **leinadcoder** (1)
+* **leinadcoder** (1) [571894](https://platzi.com/comentario/571894/) 
 
-	
 	Bueno después de un rato al fin terminé. Agregó el css minificado para no hacer demasiado largo el comentario.
 	
 	mian.js
@@ -13904,9 +13222,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **leocmpro** (1)
+* **leocmpro** (1) [483967](https://platzi.com/comentario/483967/) 
 
-	
 	Este es el resultado que obtuve:  
 	![ex02_movies.png](https://static.platzi.com/media/user_upload/ex02_movies-7fe6a34a-ae75-421e-97d3-5024675a85ac.jpg)
 	
@@ -14061,15 +13378,13 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [467322](https://platzi.com/comentario/467322/) 
 
-	
 	Despues de mucho tiempo, solo falta que sea responsive jaja  
 	<https://github.com/DonaldoLog/template-movie>
 
-* **azamartinez** (1)
+* **azamartinez** (1) [465451](https://platzi.com/comentario/465451/) 
 
-	
 	Práctica Realizada:  
 	![Movies.PNG](https://static.platzi.com/media/user_upload/Movies-b588d0cc-fa76-42fd-abc0-92fb91e38dd8.jpg)
 	
@@ -14150,14 +13465,12 @@ Aquí encuentras a detalle las vistas que debes crear:
 	
 	Saludos.
 
-	* **leocmpro** (1)
+	* **leocmpro** [465451] (1)
 
-		
 		Debido a que la información estaba repetida, pudiste usar la expresión v-for y te habrías ahorrado mucho texto en tu archivo.
 
-* **Manuel Ojeda** (1)
+* **Manuel Ojeda** (1) [440388](https://platzi.com/comentario/440388/) 
 
-	
 	Listo
 	
 	[Resultado](https://prnt.sc/lqtln3)
@@ -14577,9 +13890,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Dahiana Benitez** (1)
+* **Dahiana Benitez** (1) [407827](https://platzi.com/comentario/407827/) 
 
-	
 	Hola!!! dejé el curso por unas semanas… ejecuté mi **index.html** y no me trajo la última tarea que había realizado. Este es el código de mi index:  
 	![index.JPG](https://static.platzi.com/media/user_upload/index-25f98b67-962f-457b-9835-78c150596253.jpg)
 	
@@ -14589,9 +13901,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	
 	Gracias!!!
 
-* **Jhojany Jose Uzategui Araujo** (1)
+* **Jhojany Jose Uzategui Araujo** (1) [376398](https://platzi.com/comentario/376398/) 
 
-	
 	Listo!!!  
 	[](https://image.ibb.co/d5FNaU/ejer2.png)
 	
@@ -14865,14 +14176,12 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-	* **Jhojany Jose Uzategui Araujo** (1)
+	* **Jhojany Jose Uzategui Araujo** [376398] (1)
 
-		
 		[](https://image.ibb.co/d5FNaU/ejer2.png)
 
-* **Jhojany Jose Uzategui Araujo** (1)
+* **Jhojany Jose Uzategui Araujo** (1) [376395](https://platzi.com/comentario/376395/) 
 
-	
 	Listo!  
 	[](https://ibb.co/b2ox9p)
 	
@@ -15145,9 +14454,8 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Jhojany Jose Uzategui Araujo** (1)
+* **Jhojany Jose Uzategui Araujo** (1) [376386](https://platzi.com/comentario/376386/) 
 
-	
 	Listo mi codigo  
 	
 	
@@ -15421,33 +14729,29 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-	* **Jhojany Jose Uzategui Araujo** (1)
+	* **Jhojany Jose Uzategui Araujo** [376386] (1)
 
 
-* **Omar Flores Grimontt** (1)
+* **Omar Flores Grimontt** (1) [238830](https://platzi.com/comentario/238830/) 
 
-	
 	Listo! 😄
 	
 	Aquí está [la app](https://omarefg.github.io/pug-sass-exercise/) y [el código](https://github.com/omarefg/pug-sass-exercise/tree/master/src)
 
-* **fersot7** (1)
+* **fersot7** (1) [185227](https://platzi.com/comentario/185227/) 
 
-	
 	Excelente el ejercicio, para adquirir destreza en pug, scss y bulma. me falto la parte responsive pero allí vamos…
 	
 	Repositorio:  
 	<https://fernandosotobetin.github.io/movie/>  
 	<https://github.com/FernandoSotoBetin/movie>
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [185227] (1)
 
-		
 		se está viendo muy bien fersot7! avisa cuando lo tengas responsive y le damos otra revisada!
 
-* **leshz** (1)
+* **leshz** (1) [183099](https://platzi.com/comentario/183099/) 
 
-	
 	Listo !! para el que lo necesite  
 	![template2.png](https://static.platzi.com/media/user_upload/template2-9a629efb-73f9-4273-98f2-42e22755d088.jpg)
 	
@@ -15679,14 +14983,12 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [183099] (0)
 
-		
 		Excelente trabajo Lesh! qué tal vas con el curso?
 
-* **carlosextra1** (0)
+* **carlosextra1** (0) [273687](https://platzi.com/comentario/273687/) 
 
-	
 	Listo!!!  
 	![](http://www.extrasistemas.com/cursos/vue_pug-y-sass.JPG)
 	
@@ -15932,25 +15234,22 @@ Aquí encuentras a detalle las vistas que debes crear:
 	    
 	```
 
-* **Wilmer Maldonado** (0)
+* **Wilmer Maldonado** (0) [264467](https://platzi.com/comentario/264467/) 
 
-	
 	Estos ejercicios estan muy buenos por favor pongan mas
 
-* **JRivera Román** (0)
+* **JRivera Román** (0) [260373](https://platzi.com/comentario/260373/) 
 
-	
 	[Acá les dejo mi ejercicio en CodePen](https://codepen.io/JuanjoVlado/pen/bLaBLx?editors=1001)
 
-* **Jerson Moreno** (0)
+* **Jerson Moreno** (0) [246872](https://platzi.com/comentario/246872/) 
 
-	
 	Adjunto link del repositorio en mi github para el que desee revisar el código  
 	[Ejercicio avanzado](https://github.com/jersonmr/movies.es)
 
-# Manipulación del DOM
+# Manipulación del DOM [1340]
 
-## 0120. Expresiones
+## 0120. Expresiones [7793](https://platzi.com/clases/1145-vuejs-profesional/7793-expresiones3892/)
 
 ### Descripción:
 
@@ -15959,24 +15258,20 @@ Las expresiones son esos parámetros que ponemos entre llaves dentro de nuestro 
 
 ### Comentarios:
 
-* **Guillermo Reyes** (7)
+* **Guillermo Reyes** (7) [191663](https://platzi.com/comentario/191663/) 
 
-	
 	Hay alguna manera de integrar Vue con Django? Así a priori habría un problema con las expresiones de Vue y las etiquetas de plantilla de Django. Ambas usan las llaves dobles 😦
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [191663] (5)
 
-		
 		Puedes usar esto <https://docs.djangoproject.com/en/1.11/ref/templates/builtins/#std:templatetag-verbatim> lo que hace es que todo el código que este dentro de ese template tag no sea renderizado por el motor de templates de django, dejando en este caso que lo haga el de VueJS.
 
-	* **Guillermo Reyes** (0)
+	* **Guillermo Reyes** [191663] (0)
 
-		
 		Gracias por la referencia!
 
-	* **brapastor** (9)
+	* **brapastor** [191663] (9)
 
-		
 		Tambien puedes configurar el objeto vue cambiandolo Ejemplo (puedes poner [[]] o el q mas te guste en mi caso puse ${})
 		``` 
 		    Vue.options.delimiters = ['${', '}'];
@@ -15985,70 +15280,58 @@ Las expresiones son esos parámetros que ponemos entre llaves dentro de nuestro 
 		
 		se remplazan el tipico {{data}} con ${data}
 
-	* **Sergio David Serrano Garcés** (6)
+	* **Sergio David Serrano Garcés** [191663] (6)
 
-		
 		Personalmente uso Django y Vue, te recomiendo usar Django REST framework y Vue.js consumiendo la API. O aun mejor usar GraphQl!
 
-	* **Rodolfo Nicacio Ugalde Ochoa** (2)
+	* **Rodolfo Nicacio Ugalde Ochoa** [191663] (2)
 
-		
 		En verdad estaría muy bien que nos ayudaran a entender como se puede integrar VueJs con django, ya sea con Django REST y si e puede son usar una API. Y como dicen?? URGE!!!  
 		saludos.
 
-	* **Iván Sabido** (4)
+	* **Iván Sabido** [191663] (4)
 
-		
 		Para aplicaciones modernas lo ideal es que lo uses como dos proyectos diferentes, una como single page y tu api rest. Esto te permite mayor escalabilidad y flexbilidad. Puedes usar Django rest, aunque es un poco lento, prueba con falcon o flask.
 		
 		Saludos
 
-	* **Iván Mauricio Toro Cifuentes** (2)
+	* **Iván Mauricio Toro Cifuentes** [191663] (2)
 
-		
 		Definitivamente un curso de integrar Django con Vue seria genial.
 
-	* **leocmpro** (1)
+	* **leocmpro** [191663] (1)
 
-		
 		La manera ideal para integrar Django con Vue es a través del uso de servicios REST.
 
-	* **Rodolfo Nicacio Ugalde Ochoa** (1)
+	* **Rodolfo Nicacio Ugalde Ochoa** [191663] (1)
 
-		
 		Se puede usar Django con Vue, pero son usar servicios REST? Creo que es una pregunta que nadie a respondido y mucho menos puesto un ejemplo funcional.  
 		Saludos.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [191663] (1)
 
-		
 		@nomackayu si se pueden usar en la respuesta que dí puse el enlace a la referencia del tag verbatin, este permite que lo que este dentro de ese tag no sea interpretado por el motor de template de django permitiendo integrar vue sin ningún tipo de problema.
 
-* **jankrloz** (3)
+* **jankrloz** (3) [513925](https://platzi.com/comentario/513925/) 
 
-	
 	En realidad el tema de esta clase no son expresiones, en Vue son llamadas Interpolaciones, donde dentro de estas dobles llaves pueden haber expresiones de Javascript
 	
 	<https://vuejs.org/v2/guide/syntax.html#Interpolations>
 
-* **Nacxit** (1)
+* **Nacxit** (1) [980315](https://platzi.com/comentario/980315/) 
 
-	
 	Una exprecion permite expresar valores de nuestro vue model o component dentro del html entre {{}}
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [882316](https://platzi.com/comentario/882316/) 
 
-	
 	Las expresiones nos permiten representar valores del vue model. pueden representarse variables, objetos, operaciones aritmeticas y llamada a funciones en los methods.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560907](https://platzi.com/comentario/560907/) 
 
-	
 	Aun no aumento mi poder de desarrollo, vamos por mas.
 
-* **Gonzalo Cofré** (1)
+* **Gonzalo Cofré** (1) [518729](https://platzi.com/comentario/518729/) 
 
-	
 	Cuando agrego el codigo `input(v-model='name')`, me devuelve el siguiente error:
 	
 	Failed to compile.
@@ -16073,29 +15356,26 @@ Las expresiones son esos parámetros que ponemos entre llaves dentro de nuestro 
 	>  @ ./src/main.js  
 	>  @ multi (webpack)-dev-server/client?<http://localhost:8080> webpack/hot/dev-server ./src/main.js
 
-	* **samvarcia** (2)
+	* **samvarcia** [518729] (2)
 
-		
 		ya revisaste que si escribiste la data?
 
-	* **carlos ruales** (1)
+	* **carlos ruales** [518729] (1)
 
-		
 		Yo revisaria lo que dice MrZammi y también verificaría si no se te fue un caracter de más. Aquí dice que no se esperaba una “,”
 		``` 
 		    Module build failed: SyntaxError: Unexpected token, expected “,” (1:347)```
 		    
 		```
 
-* **Gonzalo Cofré** (1)
+* **Gonzalo Cofré** (1) [53549](https://platzi.com/comentario/518729/) 
 Cuando agrego el codigo input(v-model='name'), me devuelve el siguiente error: Failed to compile. ./node_modules/vue-loader/...
 
-	* **samvarcia** (2)
+	* **samvarcia** [53549] (2)
 
-		
 		ya revisaste que si escribiste la data?
 
-## 0130. Directivas
+## 0130. Directivas [7794](https://platzi.com/clases/1145-vuejs-profesional/7794-directivas7888/)
 
 ### Descripción:
 
@@ -16104,9 +15384,8 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 
 ### Comentarios:
 
-* **jhojangarcia** (8)
+* **jhojangarcia** (8) [242618](https://platzi.com/comentario/242618/) 
 
-	
 	Estoy usando la version de eslint: ^4.15.0 en vs code y al momento de hacer v-for me sacaba el error: "Elements in iteration expect to have ‘v-bind:key’ directives."  
 	Lo solucione poniendo en el codigo
 	``` 
@@ -16116,14 +15395,12 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	
 	También se puede solucionar omitiendo esa regla del archivo .eslintrc
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [242618] (8)
 
-		
 		Excelente, de hecho es una buena practica siempre usar el `:key`.
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [242618] (2)
 
-		
 		Esta bien, pero una mejor forma de usar el :key seria con el index de cada item. Se debe garantizar que ese valor del atributo key no se repita en el array.  
 		Te dejo un ejemplo.
 		``` 
@@ -16131,26 +15408,22 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 		    
 		```
 
-	* **Wilder Hernández García** (2)
+	* **Wilder Hernández García** [242618] (2)
 
-		
 		el key es para q el renderizado del for sea mas optimo
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [242618] (1)
 
-		
 		Muchas gracias 😃
 
-	* **Jesús Miguel Quinto Teran** (2)
+	* **Jesús Miguel Quinto Teran** [242618] (2)
 
-		
 		Lo ideal es que en :key utilicen un identificador único, como en la mayoría de los casos vamos a iterar sobre el Json que retorna un API, lo ideal es usar los ID que vienen en el Json,
 		
 		En el curso básico de Vuejs lo explican. 🐵
 
-* **Kevin Brayan Luna Figueroa** (6)
+* **Kevin Brayan Luna Figueroa** (6) [224169](https://platzi.com/comentario/224169/) 
 
-	
 	También cuando utilizamos el v-for podemos obtener el indice de cada elemento:
 	``` 
 	    <ul>
@@ -16159,19 +15432,16 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	    
 	```
 
-	* **Benjamín Parra** (1)
+	* **Benjamín Parra** [224169] (1)
 
-		
 		excelente aporta
 
-* **jesusmurf** (3)
+* **jesusmurf** (3) [538372](https://platzi.com/comentario/538372/) 
 
-	
 	Si queréis encontrar este tema en la documentación, esta en este apartado: <https://vuejs.org/v2/guide/conditional.html>
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1089296](https://platzi.com/comentario/1089296/) 
 
-	
 	poniendo en práctica esta clase 🙂:
 	``` 
 	    <templatelang="pug">
@@ -16244,30 +15514,25 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [984429](https://platzi.com/comentario/984429/) 
 
-	
 	Las directiva Vue se utilizan para manipular el dom estas comienzan con “v” que se refiere al nombre del FromeWork, existe muchas directivas algunas para los eventos como v-on como tambien para interactuar que son v-show, v-if, v-else, v-else-if.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [883038](https://platzi.com/comentario/883038/) 
 
-	
 	En Vue.js, una **directiva** es el término usado para referirse a algunos atributos especiales, identificados con v-, que le indican a Vue.js que debe realizar ciertos cambios en un elemento del DOM, cada vez que la expresión asociada con dicha directiva cambie.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [560924](https://platzi.com/comentario/560924/) 
 
-	
 	Presiento que esto de ESLint mejorará mis prácticas de programación. si bien basta con leer las recomendaciones y aplicarlas al código. Ahora tengo un inspector que no me deja hacer lo que yo quiera.  
 	Todo con buenas prácticas
 
-* **Ruth Selina Ibarra Méndez** (1)
+* **Ruth Selina Ibarra Méndez** (1) [528150](https://platzi.com/comentario/528150/) 
 
-	
 	Como recomendacion les diria que mejor buscaran aislar esa logica y ponerla fuera del template, para que sea mas facil de entender
 
-* **Alejandro Narvaja** (1)
+* **Alejandro Narvaja** (1) [505557](https://platzi.com/comentario/505557/) 
 
-	
 	Existen dos directivas en Vue para mostrar contenido condicional: `v-if` & `v-show`.
 	
 	`v-if` nos renderiza el elemento en el DOM cuando la condición se cumple, mientras que `v-show` nos muestra el elemento que ya se encuentra renderizado en el DOM.
@@ -16278,14 +15543,12 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	
 	Mientras que si el elemento se mostrará eventualmente dado un evento específico, nos conviene renderizarlo sólo en ese instante mediante `v-show`.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396184](https://platzi.com/comentario/396184/) 
 
-	
 	[Documentación.](https://vuejs.org/v2/guide/#Conditionals-and-Loops)
 
-* **Yomar Esteban Miranda Sarmiento** (1)
+* **Yomar Esteban Miranda Sarmiento** (1) [231914](https://platzi.com/comentario/231914/) 
 
-	
 	Cabe aclarar que en el uso de la directiva v-if si queremos mostrar contenido entre v-if y v-else cuando la condición sea cierta, hay que indentar nuestro código, de lo contrario nos dara error, ejemplo:
 	``` 
 	    p(v-if="showValue")
@@ -16304,9 +15567,8 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	    
 	```
 
-* **Yomar Esteban Miranda Sarmiento** (0)
+* **Yomar Esteban Miranda Sarmiento** (0) [231912](https://platzi.com/comentario/231912/) 
 
-	
 	Cabe aclarar que en el uso de la directiva **v-if** si queremos mostrar contenido entre **v-if** y **v-else** cuando la condición sea cierta, hay que indentar nuestro código, de lo contrario nos dara error, ejemplo:
 	``` 
 	    p(v-if="showValue") {{ value }}
@@ -16323,39 +15585,33 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [231912] (0)
 
-		
 		Si, para que se entienda mejor el elemento con la directiva `v-else` debe ser SIEMPRE el siguiente hermano del elemento con la directiva `v-if`
 
-	* **Yomar Esteban Miranda Sarmiento** (0)
+	* **Yomar Esteban Miranda Sarmiento** [231912] (0)
 
-		
 		Exacto, por eso es muy importante la identación.
 
-* **Yorman Urdaneta** (0)
+* **Yorman Urdaneta** (0) [205769](https://platzi.com/comentario/205769/) 
 
-	
 	Pregunta, para recorrer el dom tengo que seguir usando Jquery o javascript puro no tiene cosas como los típicos identificadores de elementos de Jquery y disculpen si la pregunta es algo tonta no se.
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [205769] (3)
 
-		
 		En realidad la manera mas correcta de interactuar con el DOM seria usando directivas, expresiones, filtros, etc.
 		
 		Si queres acceder a los elementos de forma mas tradicional podrias usar la funcionaldad `ref` de Vue, donde podes referenciar elementos HTML para luego accederlos dentro el VM. A mi particularmente no me gusta mucho pero es totalmente valido y recomendado. Checa en este [link](https://vuejs.org/v2/api/#ref) la documentacion.
 
-* **Juan Diego Brocca Salazar** (0)
+* **Juan Diego Brocca Salazar** (0) [181264](https://platzi.com/comentario/181264/) 
 
-	
 	Me parece o el video está adelantado con respecto a la voz?
 
-	* **juan david vargas cante** (0)
+	* **juan david vargas cante** [181264] (0)
 
-		
 		Yo lo veo y escucho bien!
 
-## 0140. Data Binding
+## 0140. Data Binding [7795](https://platzi.com/clases/1145-vuejs-profesional/7795-data-binding/)
 
 ### Descripción:
 
@@ -16364,59 +15620,49 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 
 ### Comentarios:
 
-* **Juan Carlos Felizzola Vega** (16)
+* **Juan Carlos Felizzola Vega** (16) [293295](https://platzi.com/comentario/293295/) 
 
-	
 	`v-model`: Nos permite que el usuario pueda ingresar información y que esta se refresque automáticamente en nuestro código  
 	`v-bind`: Nos permite cualquier atributo de un elemento de HTML con cualquiera de las propiedades de Vue Model
 
-	* **Angel Camacho** (3)
+	* **Angel Camacho** [293295] (3)
 
-		
 		También podemos abreviar el uso de v-bind mediante el uso de :  
 		v-bind:href=“url”  
 		:href=“url”
 		
 		En cambos caso el resultado sería el mismo.
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [293295] (1)
 
-		
 		😎
 
-* **Yorman Urdaneta** (7)
+* **Yorman Urdaneta** (7) [205770](https://platzi.com/comentario/205770/) 
 
-	
 	ojala mantengan la simplicidad de vue y no pase la locura de angular creo que así es mejor
 
-	* **Nicolás A. Rodríguez** (1)
+	* **Nicolás A. Rodríguez** [205770] (1)
 
-		
 		angular 4 es muy simple, mas que react
 
-	* **ferontv_** (2)
+	* **ferontv_** [205770] (2)
 
-		
 		No es que sea más fácil o difícil. Angular es más un all-in-one, mientras que React vienen por separado las herramientas principales para un funcionamiento robusto, no vienen por default como en Angular. Cuestión de gustos del desarrollador y del cliente/empresa.
 
-	* **Manuel Ojeda** (4)
+	* **Manuel Ojeda** [205770] (4)
 
-		
 		La decisión que estamos tomando es el rendimiento vs Angular, ya saber que tiene mejor performance nos da un gustazo usar Vue
 
-	* **Jafet López Chaves** (2)
+	* **Jafet López Chaves** [205770] (2)
 
-		
 		no creo que suceda ya que es algo que define a VueJs de los demás
 
-* **carlos ruales** (2)
+* **carlos ruales** (2) [528273](https://platzi.com/comentario/528273/) 
 
-	
 	Bind (enlazar). en Vue un enlace es mutuo. Si algo se cambia desde el código se ve reflejado en la vista y si se cambia la vista se verá reflejado en el código.
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1089177](https://platzi.com/comentario/1089177/) 
 
-	
 	El poder de la re actividad con vue es totalmente increíble, en especial por el sincronismo que nos provee el Data Binding con muchos componentes de HTML con directivas y expresiones tan simples como estas:
 	``` 
 	    <template lang="pug">
@@ -16428,19 +15674,16 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [985591](https://platzi.com/comentario/985591/) 
 
-	
 	La directiva v-model permite interactuar el dom con el codigo directamente asignando datos entre si.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [883206](https://platzi.com/comentario/883206/) 
 
-	
 	 **Data Binding** , implica que podamos enlazar datos desde nuestra vista a nuestro código y desde nuestro código a nuestra vista. esto nos permite capturar la interaccion del usuario con la UI.
 
-* **sebastian ramirez ocampo** (1)
+* **sebastian ramirez ocampo** (1) [787206](https://platzi.com/comentario/787206/) 
 
-	
 	Hola , alguien me podría ayudar a resolver este error por favor:  
 	estoy usando  
 	input(v-model=“name”)  
@@ -16450,15 +15693,14 @@ Las **Directivas** son pequeños marcadores o atributos que podemos agregar a nu
 	
 	gracias
 
-	* **neontigermx** (2)
+	* **neontigermx** [787206] (2)
 
-		
 		Tienes tu input al mismo nivel que tu #app, ponle un tabulador o espacio a tu input, esto indica que debe estar dentro de tu #app
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [787206] (1)
 El error se debe a qie template solo debe tener un hijo directo, por tanto coloca input con un tabulador por dentro de #app
 
-* **franciscosanchez44** (1)
+* **franciscosanchez44** (1) [602000](https://platzi.com/comentario/602000/) 
 
 	```
 	    <templatelang='pug'>
@@ -16490,17 +15732,15 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	    
 	```
 
-* **Carlos Espinoza** (1)
+* **Carlos Espinoza** (1) [416885](https://platzi.com/comentario/416885/) 
 
-	
 	consulta, cuando le paso de manera dinamica una imagen a variable “poster” este genera error ([Vue warn]: Error in render: “Error: Cannot find module ‘./’.”) de iagual forma src . Si me funciona bien con la etiqueta img ahi si no tengo ningun problema, espero que me puedan ayudar. Agradezco de antemano.  
 	<video v-bind:poster=“require(`@/assets/${arreceta[0].poster}`)” controls=“controls” width=“100%” height=“100%”>  
 	<source src="@/assets/video2.mp4" type=“video/mp4”/>  
 	</video>
 
-	* **Carlos Espinoza** (1)
+	* **Carlos Espinoza** [416885] (1)
 
-		
 		Si alguien tiene ese problema lo solucione asi:  
 		html:
 		
@@ -16517,22 +15757,19 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 		
 		Y funciono 😃
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396194](https://platzi.com/comentario/396194/) 
 
-	
 	[Documentación.](https://vuejs.org/v2/guide/#Handling-User-Input)
 
-* **brapastor** (1)
+* **brapastor** (1) [235860](https://platzi.com/comentario/235860/) 
 
-	
 	😃
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [235860] (1)
 
-		
 		😎
 
-## 0150. Computed properties
+## 0150. Computed properties [7796](https://platzi.com/clases/1145-vuejs-profesional/7796-computed-properties/)
 
 ### Descripción:
 
@@ -16541,9 +15778,8 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 
 ### Comentarios:
 
-* **José Jesús Palacios** (13)
+* **José Jesús Palacios** (13) [192687](https://platzi.com/comentario/192687/) 
 
-	
 	A ver que les parece esta solución.
 	
 	Para el _**input**_ :
@@ -16583,36 +15819,31 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	
 	Un saludo.
 
-	* **Andy Hurtado** (3)
+	* **Andy Hurtado** [192687] (3)
 
-		
 		Probé tu función, pero parece que se retrasa unas horas por la zona horaria **UTC**.
 		
 		Se soluciono cambiando getUTCFullYear() por getFullYear().
 		
 		Saludos.
 
-	* **José Jesús Palacios** (0)
+	* **José Jesús Palacios** [192687] (0)
 
-		
 		Gracias por el comentario.
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [192687] (1)
 
-		
 		Esta genial
 
-	* **Melvin Hernández** (1)
+	* **Melvin Hernández** [192687] (1)
 
-		
 		Por que va el -1970?
 
-	* **leocmpro** (1)
+	* **leocmpro** [192687] (1)
 
-		
 		Porque todas las fechas generadas por **Date()** tienen su cálculo en milisegundos a partir de las 00:00:00 horas del 1 de Enero de 1970.
 
-* **Jorge Isrrael Diaz Montoya** (3)
+* **Jorge Isrrael Diaz Montoya** (3) [182222](https://platzi.com/comentario/182222/) 
 
 	```
 	    <template>
@@ -16695,20 +15926,17 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	    
 	```
 
-* **mecubro** (2)
+* **mecubro** (2) [993346](https://platzi.com/comentario/993346/) 
 
-	
 	No puedo escribir mi codigo.
 
-* **cjimd90** (2)
+* **cjimd90** (2) [592973](https://platzi.com/comentario/592973/) 
 
-	
 	Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la propiedad de computo de age, para que de la edad exacta?  
 	![bug_computedproperty_retoProfesionalvue.png](https://static.platzi.com/media/user_upload/bug_computedproperty_retoProfesionalvue-638d1fdc-b1c6-44de-91ce-baacd19cbffd.jpg)
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [592973] (1)
 
-		
 		Ten cuidado con el formato de tu **this.birthYear**.
 		``` 
 		    const currentYear = newDate().getFullYear()
@@ -16722,9 +15950,8 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 		
 		Acá su documentación: <https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Date>
 
-* **rodolfomontes** (2)
+* **rodolfomontes** (2) [236139](https://platzi.com/comentario/236139/) 
 
-	
 	Para mi solución, calculo la diferencia de mili segundos y en base a la cantidad de mili segundos en un año, obtengo la cantidad de años que tiene la persona. Decidí hacerlo de esta manera en vez de restar los años porque esa solución no toma en cuenta el día del mes en el que te encuentras. Cabe destacar que no toma en cuenta los años bisiestos, me ocupé y no pude hacerlo antes de subirlo.
 	
 	Html:
@@ -16745,14 +15972,12 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	    
 	```
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [236139] (1)
 
-		
 		Buena solución.
 
-* **Luis Lacruz** (2)
+* **Luis Lacruz** (2) [221580](https://platzi.com/comentario/221580/) 
 
-	
 	Mi aporte 👍
 	``` 
 	    <template lang="pug">
@@ -16786,14 +16011,12 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [221580] (0)
 
-		
 		Excelente, gracias por compartirlo!
 
-* **Cesar Murillo** (2)
+* **Cesar Murillo** (2) [188658](https://platzi.com/comentario/188658/) 
 
-	
 	Comparto mi ejecicio
 	``` 
 	    <templatelang="pug">
@@ -16833,9 +16056,8 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	    
 	```
 
-* **ivanguerra10** (2)
+* **ivanguerra10** (2) [181582](https://platzi.com/comentario/181582/) 
 
-	
 	Comparto mi resolucion del ejercicio para calcular la edad:
 	
 	Archivo App.vue
@@ -16875,12 +16097,11 @@ El error se debe a qie template solo debe tener un hijo directo, por tanto coloc
 	    
 	```
 
-* **cjimd90** (2)
+* **cjimd90** (2) [59565](https://platzi.com/comentario/592973/) 
 Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la propiedad de computo de age, para que de la edad exacta?
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [59565] (1)
 
-		
 		Ten cuidado con el formato de tu **this.birthYear**.
 		``` 
 		    const currentYear = newDate().getFullYear()
@@ -16894,9 +16115,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 		
 		Acá su documentación: <https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Date>
 
-* **Héctor Tello** (1)
+* **Héctor Tello** (1) [1115287](https://platzi.com/comentario/1115287/) 
 
-	
 	Solo lo hice con años:
 	
 	Dentro del template:
@@ -16920,9 +16140,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [1110049](https://platzi.com/comentario/1110049/) 
 
-	
 	Reto conmpletado
 	``` 
 	    <templatelang="pug">
@@ -16957,7 +16176,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1089415](https://platzi.com/comentario/1089415/) 
 
 	```
 	    <templatelang="pug">
@@ -16997,22 +16216,19 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [985799](https://platzi.com/comentario/985799/) 
 
-	
 	Un metodo computed son valores que se calculan a partir de varias propiedades es decir pueden mutar una propiedad sin manipularla directamente.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [883576](https://platzi.com/comentario/883576/) 
 
-	
 	**Computed Properties **son son propiedades que se calculan a partir de los valores de otras propiedades, esto quiere decir que podemos crear propiedades dinámicas que van a ser regeneradas cada vez que otras propiedades cambien su valor.
 
-* **ericksanchezc** (1)
+* **ericksanchezc** (1) [860280](https://platzi.com/comentario/860280/) 
 
-	
 	Cual es la diferencia entre computed y method?
 
-* **neontigermx** (1)
+* **neontigermx** (1) [794384](https://platzi.com/comentario/794384/) 
 
 	```
 	    <template lang="pug">
@@ -17065,9 +16281,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Joseph Paucar** (1)
+* **Joseph Paucar** (1) [758714](https://platzi.com/comentario/758714/) 
 
-	
 	No soy muy bueno en Js pero ahí va…
 	``` 
 	    <script>
@@ -17110,9 +16325,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Juan Manuel Palomino Wolff** (1)
+* **Juan Manuel Palomino Wolff** (1) [702948](https://platzi.com/comentario/702948/) 
 
-	
 	Otra Aproximación a la solución…
 	``` 
 	    <script>
@@ -17160,7 +16374,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **jlbousing** (1)
+* **jlbousing** (1) [687388](https://platzi.com/comentario/687388/) 
 
 	```
 	    <div id="app">
@@ -17207,9 +16421,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Jose Vidal** (1)
+* **Jose Vidal** (1) [668107](https://platzi.com/comentario/668107/) 
 
-	
 	Se que hay mejores maneras pero me sentí comodo con esta
 	``` 
 	    <template>
@@ -17249,9 +16462,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Edgar Gomez Zarate** (1)
+* **Edgar Gomez Zarate** (1) [653868](https://platzi.com/comentario/653868/) 
 
-	
 	Mi solución para calcular la edad:
 	``` 
 	    <templatelang="pug">
@@ -17308,9 +16520,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **ANDRES GOMEZ GOMEZ** (1)
+* **ANDRES GOMEZ GOMEZ** (1) [648085](https://platzi.com/comentario/648085/) 
 
-	
 	Usando moment es mas exacto:
 	``` 
 	    <templatelang="pug">
@@ -17396,7 +16607,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **lizett** (1)
+* **lizett** (1) [645417](https://platzi.com/comentario/645417/) 
 
 	```
 	    <templatelang="pug">
@@ -17428,7 +16639,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Betty Rossana Jimenez Cedeño** (1)
+* **Betty Rossana Jimenez Cedeño** (1) [642360](https://platzi.com/comentario/642360/) 
 
 	```
 	    <template lang="pug">
@@ -17473,9 +16684,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Raúl Franco Bouso** (1)
+* **Raúl Franco Bouso** (1) [613261](https://platzi.com/comentario/613261/) 
 
-	
 	Mi solución:
 	``` 
 	    <template>
@@ -17524,9 +16734,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [605028](https://platzi.com/comentario/605028/) 
 
-	
 	No se si mi solución esta muy refactorizada o muy simple pero hice esto.
 	
 	Para el PUG
@@ -17577,15 +16786,13 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **cjimd90** (1)
+* **cjimd90** (1) [592971](https://platzi.com/comentario/592971/) 
 
-	
 	Mi aporte  
 	<https://cjimd90.github.io/profesionalvue/computedproperties>
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [592361](https://platzi.com/comentario/592361/) 
 
-	
 	Mi solucion
 	``` 
 	    <template>
@@ -17633,9 +16840,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [577596](https://platzi.com/comentario/577596/) 
 
-	
 	Solución usando el método: getFullYear:
 	``` 
 	    <templatelang="pug">
@@ -17673,9 +16879,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [577585](https://platzi.com/comentario/577585/) 
 
-	
 	Solución:
 	``` 
 	    <templatelang="pug">
@@ -17721,9 +16926,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Alan Jackson Duarte Marroquin** (1)
+* **Alan Jackson Duarte Marroquin** (1) [546018](https://platzi.com/comentario/546018/) 
 
-	
 	El input y output
 	``` 
 	     input(v-model="fecha"type="date")
@@ -17743,9 +16947,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **leocmpro** (1)
+* **leocmpro** (1) [531668](https://platzi.com/comentario/531668/) 
 
-	
 	Usé la biblioteca ager para el cáculo de la edad. El resultado final fue el siguiente:  
 	![ex03_age01.png](https://static.platzi.com/media/user_upload/ex03_age01-7295e5cc-2958-46c0-a0d6-faa1f63f9b5b.jpg)
 	
@@ -17777,9 +16980,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Ernesto Gomez Zacarias** (1)
+* **Ernesto Gomez Zacarias** (1) [523531](https://platzi.com/comentario/523531/) 
 
-	
 	mi solución, vagando encontré esta librería momentjs  
 	[](http://momentjs.com)
 	
@@ -17837,9 +17039,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	
 	Saludos.
 
-* **Anthony Will Solsol Soplin** (1)
+* **Anthony Will Solsol Soplin** (1) [476530](https://platzi.com/comentario/476530/) 
 
-	
 	Listo
 	``` 
 	    <templatelang="pug">
@@ -17885,9 +17086,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **CioGDeveloper** (1)
+* **CioGDeveloper** (1) [475210](https://platzi.com/comentario/475210/) 
 
-	
 	Ahí va mi codigo:
 	``` 
 	    <templatelang='pug'>
@@ -17953,9 +17153,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Kirlled Anderson Araque** (1)
+* **Kirlled Anderson Araque** (1) [471215](https://platzi.com/comentario/471215/) 
 
-	
 	Mi solución
 	``` 
 	    <template>
@@ -17993,9 +17192,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [467406](https://platzi.com/comentario/467406/) 
 
-	
 	Mi codigo:)
 	``` 
 	    <templatelang="pug">
@@ -18036,9 +17234,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **azamartinez** (1)
+* **azamartinez** (1) [466573](https://platzi.com/comentario/466573/) 
 
-	
 	Les comparto mi Solución:
 	
 	![birthdate.PNG](https://static.platzi.com/media/user_upload/birthdate-906398b7-135b-4ec9-83b5-5ae95ff95ab1.jpg)
@@ -18107,7 +17304,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **fernandojmorales** (1)
+* **fernandojmorales** (1) [457043](https://platzi.com/comentario/457043/) 
 
 	```
 	    input(v-model="fechanacim"type="date")    
@@ -18124,7 +17321,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **MichaelSornoza** (1)
+* **MichaelSornoza** (1) [448779](https://platzi.com/comentario/448779/) 
 
 	```
 	    <template lang="pug">
@@ -18202,9 +17399,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Manuel Ojeda** (1)
+* **Manuel Ojeda** (1) [442382](https://platzi.com/comentario/442382/) 
 
-	
 	Aquí comparto mi solución:
 	``` 
 	    <template>
@@ -18251,16 +17447,14 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **trainme** (1)
+* **trainme** (1) [411920](https://platzi.com/comentario/411920/) 
 
-	
 	¿Cómo tener propiedades asíncronas, que sean seteadas a partir de un servicio?  
 	Soy nuevo en Vue, disculpa si es una pregunta muy básica.  
 	Muchas gracias.
 
-	* **Andrés Yoshimar Aguilar Salgado** (1)
+	* **Andrés Yoshimar Aguilar Salgado** [411920] (1)
 
-		
 		si entendí bien tu pregunta,  
 		Las declaras en data como null o algún valor vacío y luego desde algún hook como created lo obtienes con un ajax o algún servicio que tengas configurado.  
 		Algo así.
@@ -18278,7 +17472,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 		Espero que te sea de utilidad  
 		Saludos
 
-* **Luis Felipe Andrés Barraza Vega** (1)
+* **Luis Felipe Andrés Barraza Vega** (1) [408178](https://platzi.com/comentario/408178/) 
 
 	```
 	    computed: {
@@ -18299,7 +17493,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Luis Felipe Andrés Barraza Vega** (1)
+* **Luis Felipe Andrés Barraza Vega** (1) [408177](https://platzi.com/comentario/408177/) 
 
 	```
 	    omputed: {
@@ -18320,7 +17514,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Héctor Rosario** (1)
+* **Héctor Rosario** (1) [404764](https://platzi.com/comentario/404764/) 
 
 	```
 	    input(type="date" v-model="date")
@@ -18358,9 +17552,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Jair Aquines** (1)
+* **Jair Aquines** (1) [399326](https://platzi.com/comentario/399326/) 
 
-	
 	<template>  
 	<div id=“app”>  
 	<input v-model=“date” type=“date”>  
@@ -18395,7 +17588,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	}  
 	</script>
 
-* **Leonel Rojas** (1)
+* **Leonel Rojas** (1) [395474](https://platzi.com/comentario/395474/) 
 
 	```
 	    computed: {
@@ -18412,27 +17605,23 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **makroz** (1)
+* **makroz** (1) [373136](https://platzi.com/comentario/373136/) 
 
-	
 	DESCRIPCION DE UN COMPUTED
 
-* **makroz** (1)
+* **makroz** (1) [373132](https://platzi.com/comentario/373132/) 
 
-	
 	porque en este caso usar computed y no methods?  
 	que diferencia tienen estos dos?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [373132] (3)
 
-		
 		un computed property es una propiedad que cambia dinamicamente, esta puede llamarse dentro del template pero no puede ser invocada como si se puede hacer con un método.
 		
 		Las computed properties solo cambian o se reevaluan cuando cambia algo en un componente de la aplicación, los métodos se pueden invocar cuando sea quiera, por ejemplo por medio de un boton.
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [360024](https://platzi.com/comentario/360024/) 
 
-	
 	 **Solucion**
 	``` 
 	    <templatelang="pug"> 
@@ -18502,9 +17691,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **John Jairo Castillo Cortes** (1)
+* **John Jairo Castillo Cortes** (1) [349073](https://platzi.com/comentario/349073/) 
 
-	
 	un detalle extra
 	``` 
 	    <templatelang="pug">
@@ -18543,9 +17731,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **John Jairo Castillo Cortes** (1)
+* **John Jairo Castillo Cortes** (1) [349054](https://platzi.com/comentario/349054/) 
 
-	
 	Comparto mi codigo
 	``` 
 	    <templatelang="pug">
@@ -18587,15 +17774,13 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Roarraerald** (1)
+* **Roarraerald** (1) [284704](https://platzi.com/comentario/284704/) 
 
-	
 	Mi Aporte  
 	![aporte.png](https://static.platzi.com/media/user_upload/aporte-4bce7329-5f08-4262-bc11-064291dfda9e.jpg)
 
-* **rperalta** (1)
+* **rperalta** (1) [279921](https://platzi.com/comentario/279921/) 
 
-	
 	Esta es mi resolucion al problema
 	``` 
 	    <templatelang="pug">
@@ -18623,9 +17808,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Angel Daniel Peregrino Juarez** (1)
+* **Angel Daniel Peregrino Juarez** (1) [274925](https://platzi.com/comentario/274925/) 
 
-	
 	parrafo
 	``` 
 	    p {{ age }}
@@ -18659,7 +17843,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	```
 	
 
-* **Way** (1)
+* **Way** (1) [266600](https://platzi.com/comentario/266600/) 
 
 	```
 	       //template
@@ -18702,26 +17886,22 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Oscar Stevens Cuartas Bejarano** (1)
+* **Oscar Stevens Cuartas Bejarano** (1) [261077](https://platzi.com/comentario/261077/) 
 
-	
 	quiero enviar a la vista un html como esto y no me deja que ideas tienen
 	
 	`computed: { mostrarimg () { var imghtml = "<img src='/assets/done.png'>" return imghtml } }`
 
-	* **Diego Alexander Forero Higuera (Platzi)** (0)
+	* **Diego Alexander Forero Higuera (Platzi)** [261077] (0)
 
-		
 		Puedes poner tu código completo y si te da error en la consola para ayudarte a resolver el problema que tienes.
 
-	* **Oscar Stevens Cuartas Bejarano** (0)
+	* **Oscar Stevens Cuartas Bejarano** [261077] (0)
 
-		
 		@GOLLUM23 no hay error en consola, me refiero a que no acepta el bloque de html, intente hacer pruebas con el v-html pero no parece ser lo que busco
 
-* **Andres Gallardo** (1)
+* **Andres Gallardo** (1) [257843](https://platzi.com/comentario/257843/) 
 
-	
 	Mi solucion:
 	
 	getBirthday(){  
@@ -18733,9 +17913,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	
 	p {{ getBirthday }}
 
-* **Yefferson Guarnizo** (1)
+* **Yefferson Guarnizo** (1) [251850](https://platzi.com/comentario/251850/) 
 
-	
 	aquí mi solución al ejercicio 😄
 	``` 
 	    <template>
@@ -18783,9 +17962,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **JESUS ALBERTO LOPEZ VILLATORO** (1)
+* **JESUS ALBERTO LOPEZ VILLATORO** (1) [240598](https://platzi.com/comentario/240598/) 
 
-	
 	Mi ejercicio
 	``` 
 	    <templatelang="pug">
@@ -18842,9 +18020,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Omar Flores Grimontt** (1)
+* **Omar Flores Grimontt** (1) [239282](https://platzi.com/comentario/239282/) 
 
-	
 	Ejercicio resuelto 😃:
 	``` 
 	    h1 ¿Cual es tu fecha de nacimiento?
@@ -18882,12 +18059,11 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [239282] (0)
 
-		
 		Muy bueno!!!
 
-* **Pedro Escobar** (1)
+* **Pedro Escobar** (1) [234627](https://platzi.com/comentario/234627/) 
 
 	```
 	    <templatelang="pug">
@@ -18914,15 +18090,13 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Yomar Esteban Miranda Sarmiento** (1)
+* **Yomar Esteban Miranda Sarmiento** (1) [232327](https://platzi.com/comentario/232327/) 
 
-	
 	Computed Properties:  
 	Son funciones que devuelven un valor y dentro de estas funciones puedo utilizar funciones ya existentes.
 
-* **Juan Carlos  Correa Herrera** (1)
+* **Juan Carlos  Correa Herrera** (1) [227505](https://platzi.com/comentario/227505/) 
 
-	
 	Mi solución incluye una condicional para mostrar la edad hasta que el input tenga un valor y calcula la edad en base al año de nacimiento aunque puede tener un desfase de tiempo por los meses :p
 	``` 
 	    <template lang="pug">
@@ -18951,9 +18125,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Juan Sifontez** (1)
+* **Juan Sifontez** (1) [226227](https://platzi.com/comentario/226227/) 
 
-	
 	Esta es mi solución, es un poco simple, pero funciona para decirte cuantos años tienes:
 	``` 
 	    <template lang="pug">
@@ -18981,7 +18154,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Paola Cuadros** (1)
+* **Paola Cuadros** (1) [225984](https://platzi.com/comentario/225984/) 
 
 	```
 	    <templatelang="pug">
@@ -19024,9 +18197,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Nestor Alfonso Bravo Osorio** (1)
+* **Nestor Alfonso Bravo Osorio** (1) [212391](https://platzi.com/comentario/212391/) 
 
-	
 	Comparto mi solución.
 	``` 
 	    <template>
@@ -19067,9 +18239,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **leonardo moreno** (1)
+* **leonardo moreno** (1) [209608](https://platzi.com/comentario/209608/) 
 
-	
 	adjunto mi respuesta
 	``` 
 	    <templatelang="pug">
@@ -19109,7 +18280,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Jose Fernando Nieto Suarez** (1)
+* **Jose Fernando Nieto Suarez** (1) [205545](https://platzi.com/comentario/205545/) 
 
 	```
 	    <template>
@@ -19153,7 +18324,7 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Guillermo  Ferru** (1)
+* **Guillermo  Ferru** (1) [199784](https://platzi.com/comentario/199784/) 
 
 	```
 	    <templatelang="pug">
@@ -19190,14 +18361,12 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [199784] (1)
 
-		
 		Genial 👌
 
-* **Marcelo Fontana** (1)
+* **Marcelo Fontana** (1) [196937](https://platzi.com/comentario/196937/) 
 
-	
 	Comparto el código del ejercicio:  
 	HTML
 	``` 
@@ -19234,14 +18403,12 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [196937] (1)
 
-		
 		Muy buena solucion, gracias por el aporte!
 
-* **CARLOS DAVID MARCIGLIA GOMEZ** (1)
+* **CARLOS DAVID MARCIGLIA GOMEZ** (1) [188373](https://platzi.com/comentario/188373/) 
 
-	
 	Aqui les comparto un poco de mi codigo, no es perfecto, espero sus sugerencias, gracias:
 	``` 
 	    <templatelang="pug">
@@ -19292,9 +18459,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Carlos Andrés Millan Satizabal** (1)
+* **Carlos Andrés Millan Satizabal** (1) [185386](https://platzi.com/comentario/185386/) 
 
-	
 	Mi Aporte:
 	``` 
 	    <templatelang="pug">
@@ -19327,9 +18493,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **fersot7** (1)
+* **fersot7** (1) [184771](https://platzi.com/comentario/184771/) 
 
-	
 	Comparto mi solución del : ejercicio propuesto…
 	``` 
 	    <templatelang="pug">
@@ -19393,9 +18558,8 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **Leandro Casco** (1)
+* **Leandro Casco** (1) [183343](https://platzi.com/comentario/183343/) 
 
-	
 	Comparto mi solución:
 	``` 
 	    <template lang="pug" >
@@ -19442,12 +18606,11 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 	    
 	```
 
-* **trainme** (1)
+* **trainme** (1) [44777](https://platzi.com/comentario/411920/) 
 ¿Cómo tener propiedades asíncronas, que sean seteadas a partir de un servicio? Soy nuevo en Vue, disculpa si es una pregunta muy básica. ...
 
-	* **Andrés Yoshimar Aguilar Salgado** (1)
+	* **Andrés Yoshimar Aguilar Salgado** [44777] (1)
 
-		
 		si entendí bien tu pregunta,  
 		Las declaras en data como null o algún valor vacío y luego desde algún hook como created lo obtienes con un ajax o algún servicio que tengas configurado.  
 		Algo así.
@@ -19465,31 +18628,27 @@ Hola, no se porque veo un bug por que me toco restarle (- 1) a return de la prop
 		Espero que te sea de utilidad  
 		Saludos
 
-* **makroz** (1)
+* **makroz** (1) [41158](https://platzi.com/comentario/373132/) 
 porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [41158] (3)
 
-		
 		un computed property es una propiedad que cambia dinamicamente, esta puede llamarse dentro del template pero no puede ser invocada como si se puede hacer con un método.
 		
 		Las computed properties solo cambian o se reevaluan cuando cambia algo en un componente de la aplicación, los métodos se pueden invocar cuando sea quiera, por ejemplo por medio de un boton.
 
-* **Jesus Antonio** (0)
+* **Jesus Antonio** (0) [320942](https://platzi.com/comentario/320942/) 
 
-	
 	<https://codepen.io/jzuniga/pen/bKQGEE>
 
-* **Victor Gamez** (0)
+* **Victor Gamez** (0) [319021](https://platzi.com/comentario/319021/) 
 
-	
 	diferencia entre computed y motehods,
 	
 	<https://stackoverflow.com/questions/44350862/method-vs-computed-in-vue>
 
-* **William Eduardo Meza** (0)
+* **William Eduardo Meza** (0) [310227](https://platzi.com/comentario/310227/) 
 
-	
 	Tengo una Mejor Solución
 	``` 
 	    <template lang="pug">
@@ -19544,13 +18703,12 @@ porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 	    
 	```
 
-* **bider88** (0)
+* **bider88** (0) [305871](https://platzi.com/comentario/305871/) 
 
-	
 	Mi solución:  
 	![Captura de pantalla 2018-05-28 22:05:57.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-05-28%2022%3A05%3A57-5286da2c-35eb-40b8-8e4d-b82fda33ec89.jpg)
 
-* **Carlos Espinoza** (0)
+* **Carlos Espinoza** (0) [284195](https://platzi.com/comentario/284195/) 
 
 	```
 	      h2
@@ -19583,7 +18741,7 @@ porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 	    
 	```
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [278002](https://platzi.com/comentario/278002/) 
 
 	```
 	    <template>
@@ -19619,7 +18777,7 @@ porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 	    
 	```
 
-* **Angel Daniel Peregrino Juarez** (0)
+* **Angel Daniel Peregrino Juarez** (0) [274928](https://platzi.com/comentario/274928/) 
 
 	```
 	    input(v-model="birthDate"type="date")
@@ -19643,24 +18801,20 @@ porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 	    
 	```
 
-* **marianotella** (0)
+* **marianotella** (0) [272994](https://platzi.com/comentario/272994/) 
 
-	
 	@ianaya89 como agregas para que eslinter te reconozca errores en los archivos .vue??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [272994] (2)
 
-		
 		Simplemente instalas el plugin de vue para eslint <https://github.com/vuejs/eslint-plugin-vue>, en el link encuentras como se configura de manera correcta.
 
-	* **marianotella** (0)
+	* **marianotella** [272994] (0)
 
-		
 		Gracias!!
 
-* **ferontv_** (0)
+* **ferontv_** (0) [255076](https://platzi.com/comentario/255076/) 
 
-	
 	Listo:
 	``` 
 	    <templatelang="pug">
@@ -19701,7 +18855,7 @@ porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 	    
 	```
 
-* **wjcg42** (0)
+* **wjcg42** (0) [247643](https://platzi.com/comentario/247643/) 
 
 	```
 	    <script>
@@ -19732,7 +18886,7 @@ porque en este caso usar computed y no methods? que diferencia tienen estos dos?
 	    
 	```
 
-## 0160. Watchers
+## 0160. Watchers [7797](https://platzi.com/clases/1145-vuejs-profesional/7797-watchers/)
 
 ### Descripción:
 
@@ -19742,9 +18896,8 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 
 ### Comentarios:
 
-* **Juan Carlos  Correa Herrera** (5)
+* **Juan Carlos  Correa Herrera** (5) [227509](https://platzi.com/comentario/227509/) 
 
-	
 	Aquí el ejemplo de watch + computed + manejo de atributos según el ejercicio anterior:
 	``` 
 	    <template lang="pug">
@@ -19768,8 +18921,8 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 	      },
 	    
 	      /**
-	       * funciones que generan nuevas propiedades del componente en base a otras propiedades.
-	       * Deben ser funciones, se pueden usar como expresiones en la UI
+	     * funciones que generan nuevas propiedades del componente en base a otras propiedades.
+	     * Deben ser funciones, se pueden usar como expresiones en la UI
 	       */
 	      computed: {
 	        age () {
@@ -19778,8 +18931,8 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 	      },
 	    
 	      /**
-	       * Semejante al patrón Observer
-	       * No devuelven un valor, no son propiedades y tampoco pueden ser usadas en propiedades
+	     * Semejante al patrón Observer
+	     * No devuelven un valor, no son propiedades y tampoco pueden ser usadas en propiedades
 	       */
 	      watch: {
 	        age (newVal, oldVal) {
@@ -19793,28 +18946,24 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 	    
 	```
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [227509] (1)
 
-		
 		Excelente!
 
-* **makroz** (3)
+* **makroz** (3) [373150](https://platzi.com/comentario/373150/) 
 
-	
 	DESCRIPCIÓN WATCHERS
 
-* **Juan Carlos  Correa Herrera** (3)
+* **Juan Carlos  Correa Herrera** (3) [227508](https://platzi.com/comentario/227508/) 
 
-	
 	También se puede usar un whatcher con valores de computed ya que son atributos creados de otros atributos del modelo. Si en este ejemplo se usase fullname, también funcionaría : o
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [883586](https://platzi.com/comentario/883586/) 
 
-	
 	Los **Watchers** nos permiten ejecutar código a partir de que una propiedad de nuestro View Model cambia.  
 	A diferencia de las Computed Properties no devuelven un valor, no son propiedades y tampoco pueden ser utilizadas en expresiones.
 
-* **wert89** (1)
+* **wert89** (1) [574825](https://platzi.com/comentario/574825/) 
 
 	```
 	    <templatelang="pug">
@@ -19848,25 +18997,21 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 	    
 	```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [561006](https://platzi.com/comentario/561006/) 
 
-	
 	Se me ocurre una función de watch en las opciones de suscripcion de platzi. Cuando el usuario activa cancelar su suscripcion el valor cambia y por tanto se debe observar ese cambio para mostrarle un aviso del porque de su decisión.  
 	WOOW
 
-* **Eva Valle Molina** (1)
+* **Eva Valle Molina** (1) [526775](https://platzi.com/comentario/526775/) 
 
-	
 	Me recuerda a los keyloggers 😕
 
-* **ziker** (1)
+* **ziker** (1) [384219](https://platzi.com/comentario/384219/) 
 
-	
 	instale el eslint conforme al curso pero me estoy percatando de que no lintea los archivos .vue sololos .js alguien me puede decir ¿por qué?
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [384219] (1)
 
-		
 		¿Tienes la rule de la siguiente forma?
 		``` 
 		    {
@@ -19878,24 +19023,20 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 		    
 		```
 
-* **Yomar Esteban Miranda Sarmiento** (1)
+* **Yomar Esteban Miranda Sarmiento** (1) [232332](https://platzi.com/comentario/232332/) 
 
-	
 	Los **watchers** se enlazan directamente sobre una variable del view model, por lo cual se tienen que llamar de la misma manera.
 
-* **Yomar Esteban Miranda Sarmiento** (1)
+* **Yomar Esteban Miranda Sarmiento** (1) [232328](https://platzi.com/comentario/232328/) 
 
-	
 	Los **Watchers** nos permite ejecutar código a partir de que una propiedad de nuestro view model cambia. A diferencia de las **Computed Properties** no devuelven un valor, no son propiedades y tampoco pueden ser utilizadas en expresiones.
 
-* **MauricioHernanCabrera** (1)
+* **MauricioHernanCabrera** (1) [230786](https://platzi.com/comentario/230786/) 
 
-	
 	y si quiero añadir un watch a un objeto, como lo haria?
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [230786] (4)
 
-		
 		Hola, si lo que queres es disparar codigo cuando cambia la referencia al objeto, como por ejemplo cuando hagas algo como  
 		`this.obj = {}`, entonces directamente haces el watcher con el nombre del objeto, en este caso `obj`.
 		
@@ -19913,19 +19054,16 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 		
 		[Aca](https://codepen.io/ianaya89/pen/JrRMra) te dejo una demo funcional.
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [230786] (0)
 
-		
 		Muchas gracias por contestar Ianaya 😃, pense que no se podia hacer watch a objetos
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [230786] (1)
 
-		
 		gran aporte! 😎
 
-* **Nicolas Gonzalez** (0)
+* **Nicolas Gonzalez** (0) [319612](https://platzi.com/comentario/319612/) 
 
-	
 	Para aquellos que quieren utilizar esto para implementarlo en el ejercicio anterior.
 	``` 
 	    <template>
@@ -19966,22 +19104,19 @@ A diferencia de las **Computed Properties** no devuelven un valor, no son propie
 	    
 	```
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [319612] (1)
 
-		
 		que bueno que esta en HTML haha
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [278004](https://platzi.com/comentario/278004/) 
 
-	
 	esto se puede usarse cuando cambias tus datos de un formulario ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [278004] (2)
 
-		
 		Si, es si principal uso, por ejemplo el hacer un llamado a un API para ir filtrando los resultados.
 
-## 0170. Eventos
+## 0170. Eventos [7798](https://platzi.com/clases/1145-vuejs-profesional/7798-eventos/)
 
 ### Descripción:
 
@@ -19990,9 +19125,8 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 
 ### Comentarios:
 
-* **edwarxdced** (6)
+* **edwarxdced** (6) [435406](https://platzi.com/comentario/435406/) 
 
-	
 	También están los modificadores de eventos que serian los siguientes:  
 	.stop  
 	.prevent  
@@ -20012,19 +19146,16 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [435406] (1)
 
-		
 		gracias!
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [435406] (1)
 
-		
 		gracias
 
-	* **Michael Rodriguez** (1)
+	* **Michael Rodriguez** [435406] (1)
 
-		
 		Creo que un buen ejemplo donde podemos apreciar esos modificadores de los que habla @edwarxdced son estos:
 		``` 
 		    <!-- la propagación del evento 'click' será detenida -->
@@ -20048,15 +19179,13 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		
 		A diferencia de otros modificadores, los cuales son exclusivos de los eventos nativos del DOM, el modificador .once puede ser usado también en eventos de componentes.
 
-* **Juan Carlos Felizzola Vega** (3)
+* **Juan Carlos Felizzola Vega** (3) [293309](https://platzi.com/comentario/293309/) 
 
-	
 	Evento click: `v-on:click`  
 	Shorthand: `@click`
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [293309] (1)
 
-		
 		si y todos los que estén ligados a v-on: se pueden agregar el @ antes:
 		``` 
 		    @click=""
@@ -20067,9 +19196,8 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		    
 		```
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [883619](https://platzi.com/comentario/883619/) 
 
-	
 	Los Eventos tanto como los inputs son la manera que el usuario tiene para interactuar con nuestra aplicación.
 	
 	se llaman con la directiva v-on: o con un @
@@ -20088,15 +19216,13 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [985838](https://platzi.com/comentario/985838/) 
 
-	
 	Los evento permiten manipular el don o darle funcionalidad a nuestro template existente el evento se crea apartir con v-on: simplificado es @:  
 	Los Methods se crean funciones realacionada con evento pero no necesariamente es un evento… pueden ser funcionalidades aparte
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [592390](https://platzi.com/comentario/592390/) 
 
-	
 	Para hacer una reversa o dar vuelta una cadena de strings (tengo entendido que suele ser pedido en entrevistas a veces):
 	``` 
 	    <template>
@@ -20133,14 +19259,12 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396246](https://platzi.com/comentario/396246/) 
 
-	
 	[Eventos.](https://vuejs.org/v2/guide/events.html)
 
-* **Kevin Lozoya Giner** (1)
+* **Kevin Lozoya Giner** (1) [311188](https://platzi.com/comentario/311188/) 
 
-	
 	mi función format ()
 	``` 
 	    format () {
@@ -20149,14 +19273,12 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [311188] (1)
 
-		
 		No conocía el método trim() Muy útil, Gracias por tu aporte.
 
-* **Deyvi Edwin Jara García** (0)
+* **Deyvi Edwin Jara García** (0) [314306](https://platzi.com/comentario/314306/) 
 
-	
 	Estimados Compañeros, al realizar las pruebas se presenta este problema que hace referencia al ESLint, de que manera puedo agregar una regla para evitar este problema
 	``` 
 	    Failed to compile.
@@ -20176,28 +19298,25 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [314306] (1)
 
-		
 		Dependiendo del linter que uses puedes poner las excepciones o ir a las lineas del archivo y hacer las correcciones, para esto es el linter, puedes crear excepciones pero entonces el linter pierde sentido.
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [314306] (1)
 
-		
 		Hola.  
 		El linter te indica que en las lineas 31 y 32 tienes puntos y comas (al parecer has terminado con 😉  
 		La utima linea te indica que la posicion de los parentesis. Es probable que en una función la tengas como func() y no como fun ()
 
-## 0180. Integración a Platzi Music
+## 0180. Integración a Platzi Music [7799](https://platzi.com/clases/1145-vuejs-profesional/7799-integracion-a-platzi-music/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **jormar** (16)
+* **jormar** (16) [216660](https://platzi.com/comentario/216660/) 
 
-	
 	A fecha de hoy, bulma se encuentra en la versión 0.6.1.  
 	Este es el HTML que tuve que utilizar para obtener un layout equivalente:
 	``` 
@@ -20224,15 +19343,13 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-	* **Yomar Esteban Miranda Sarmiento** (5)
+	* **Yomar Esteban Miranda Sarmiento** [216660] (5)
 
-		
 		Gracias por info, me evitaste tener que ir a Google (y).  
 		No es la primera vez que me pasa con los cursos de Platzi, el problema es que la mayoria de la veces no recibimos ayuda de los profesores.
 
-	* **Jerson Moreno** (1)
+	* **Jerson Moreno** [216660] (1)
 
-		
 		Adicional, puedes agregar la clase `is-expanded` al control del input text para que ocupe todo el ancho del contenedor
 		``` 
 		    .control.is-expanded
@@ -20240,25 +19357,21 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		    
 		```
 
-	* **Alexander  Silvera** (0)
+	* **Alexander  Silvera** [216660] (0)
 
-		
 		Excelente muchas gracias, ya me estaba complicando.
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [216660] (1)
 
-		
 		Gracias ya iba a googlear 😄
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [216660] (1)
 
-		
 		Gracias, gracias gracias y mil gracias por el aporte!  
 		Eres grande!
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (3)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [216660] (3)
 
-		
 		@yomar_dev Lo que dices es algo muy cierto, en Platzi el apoyo de los profesores a veces es un poco limitado y que en el caso de cursos de frameworks y librerías como vue.js, angular, react y todas las demás relacionadas ya se han quedado desactualizados (por ejemplo, para un curso de 2018 sobre cualquier herramienta web se podría decir que está peligrosamente desactualizado, más de eso ya es obsoleto) pero hay que tomar en cuenta la naturaleza de las herramientas que se enseñan. Y tampoco quiero culpar a los desarrolladores de las librerías porque no sería justo, ya que el desarrollo web se ha hecho muy dinámico y acelerado en un ambiente muy competitivo.
 		
 		Lejos quedaron los días en que cada año (con suerte; a mí me tocó trabajar con librerías que no cambiaron de versión en años) salía una versión nueva del framework/librería con el que se trabajaba en el día a día.
@@ -20267,38 +19380,32 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		
 		Estos cursos son excelentes, te dan las bases de la herramienta y la lógica de trabajo, ya queda en nosotros los alumnos actualizarnos y ajustarnos a los tiempos aunque sea muy complicado y tedioso.
 
-* **Marcos Matamala** (16)
+* **Marcos Matamala** (16) [181999](https://platzi.com/comentario/181999/) 
 
-	
 	el cuadro donde aparece el profesor, no deja ver el resultado.
 
-* **Byhako** (8)
+* **Byhako** (8) [389873](https://platzi.com/comentario/389873/) 
 
-	
 	La clase .nav esta obsoleta. Se debe usar .navbar
 	``` 
 	    nav.navbar.has-shadow
 	    
 	```
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [389873] (1)
 
-		
 		muchas gracias 😄
 
-* **Omar Boza** (6)
+* **Omar Boza** (6) [181238](https://platzi.com/comentario/181238/) 
 
-	
 	Creo que tuvistes problemas con el css porque escribiste la clase **cloumn** en vez de **column**
 
-	* **Nacho Anaya** (5)
+	* **Nacho Anaya** [181238] (5)
 
-		
 		Si, gracias por el aporte. Pueden corregirlo, de todos modos en un video posterior se hace una review sobre ese markup y se corrige.
 
-* **Jesús Miguel Quinto Teran** (4)
+* **Jesús Miguel Quinto Teran** (4) [578406](https://platzi.com/comentario/578406/) 
 
-	
 	Solución actualizada a 2019. (Algunas cosas cambiaron en Bulma)
 	``` 
 	    <template lang="pug">
@@ -20368,14 +19475,12 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [561041](https://platzi.com/comentario/561041/) 
 
-	
 	Esto de usar frameworks CSS me hace flojo y confiado. mejor escribo mi propio CSS
 
-* **Oscar Stevens Cuartas Bejarano** (3)
+* **Oscar Stevens Cuartas Bejarano** (3) [272178](https://platzi.com/comentario/272178/) 
 
-	
 	se puede instalar una plantilla vue con todo de bootstrap ya montado, la verdad bulma esta elegante pero algunos nos hemos casado con bootstrap:
 	
 	asi sale de una:
@@ -20384,14 +19489,12 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	
 	<https://bootstrap-vue.js.org/docs>
 
-	* **Teofilo Rosales Gama** (0)
+	* **Teofilo Rosales Gama** [272178] (0)
 
-		
 		un me gusta a este buen hombre
 
-* **Paul Alarcon** (3)
+* **Paul Alarcon** (3) [203906](https://platzi.com/comentario/203906/) 
 
-	
 	los botones me aparecen abajo a alguien mas le pasa eso ?
 	``` 
 	    #app
@@ -20408,9 +19511,8 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-	* **Juan Carlos Felizzola Vega** (3)
+	* **Juan Carlos Felizzola Vega** [203906] (3)
 
-		
 		Lo corregí de esta forma:
 		``` 
 		    .container
@@ -20423,14 +19525,12 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		    
 		```
 
-	* **Teofilo Rosales Gama** (1)
+	* **Teofilo Rosales Gama** [203906] (1)
 
-		
 		no funciona
 
-	* **Facundo Petre** (1)
+	* **Facundo Petre** [203906] (1)
 
-		
 		Puedes utilizar columnas dentro de columnas para resolver el inconveniente ([](https://bulma.io/documentation/columns/basics/)).  
 		Sería algo como:
 		``` 
@@ -20449,7 +19549,7 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		
 		Espero te sea de ayuda !
 
-	* **Cesar Colina** (2)
+	* **Cesar Colina** [203906] (2)
 
 		```
 		          <nav class="nav has-shadow">
@@ -20472,28 +19572,24 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		    
 		```
 
-	* **Byhako** (4)
+	* **Byhako** [203906] (4)
 
-		
 		el problema es que la clase .nav ya esta obsoleta. Cambiala por .navbar
 		``` 
 		    nav.navbar.has-shadow
 		    
 		```
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [203906] (1)
 
-		
 		cambia nav.nav.has-shadow por nav.navbar.has-shadow
 
-* **victorAguilera** (3)
+* **victorAguilera** (3) [189867](https://platzi.com/comentario/189867/) 
 
-	
 	Una de las ventajas de Vue es que se encarga de eliminar los EventListener cuando se destruyen las vista.
 
-* **carlos ruales** (2)
+* **carlos ruales** (2) [528517](https://platzi.com/comentario/528517/) 
 
-	
 	Equivalente a HTML puro:
 	``` 
 	    <template>
@@ -20560,24 +19656,20 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-* **Freddy Córdova Arana** (2)
+* **Freddy Córdova Arana** (2) [460555](https://platzi.com/comentario/460555/) 
 
-	
 	para que no les recargue la página con el botón “Buscar”, cambien @click=“search” por @click.prevent=“search”
 
-	* **Andres Rivera** (1)
+	* **Andres Rivera** [460555] (1)
 
-		
 		¿sabes por que sucede eso? la explicación teorica
 
-	* **alexabellerman** (1)
+	* **alexabellerman** [460555] (1)
 
-		
 		Es la manera que tiene Vue de aplicar un preventDefault() en el evento, algo que tambien se puede hacer con Vainilla JS para evitar que se recarge la pagina al enviar un formulario. Esto es un comportamiento default de un submit de formulario.
 
-* **Andrés García Macías** (2)
+* **Andrés García Macías** (2) [223330](https://platzi.com/comentario/223330/) 
 
-	
 	Si la barra de busqueda, no se ajusta al ancho de la pantalla, añadir .is-expanded en el control padre del input
 	``` 
 	    .control.is-expanded
@@ -20590,23 +19682,20 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-	* **Yomar Esteban Miranda Sarmiento** (0)
+	* **Yomar Esteban Miranda Sarmiento** [223330] (0)
 
-		
 		Excelente, muchas gracias (y)
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1089649](https://platzi.com/comentario/1089649/) 
 
-	
 	Creo que aunque no es muy relevante el buscador pudo haber quedado mejor con los botones en distintas posiciones🤨  
 	![BUSCADOR.png](https://static.platzi.com/media/user_upload/BUSCADOR-12434d89-255b-49a3-b0d4-c51b1cb300ff.jpg)
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [891790](https://platzi.com/comentario/891790/) 
 
-	
 	Muy bien explicada la clase, lo unico malo es que con las actualizaciones de bulma las clases usadas en la clase no se ven igual en el navegador a la fecha de diciembre de 2019.
 
-* **Luis Noel Fernández Rodríguez** (1)
+* **Luis Noel Fernández Rodríguez** (1) [700376](https://platzi.com/comentario/700376/) 
 
 	```
 	    <templatelang='pug'>
@@ -20664,24 +19753,20 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-* **cesar-oswaldo** (1)
+* **cesar-oswaldo** (1) [554598](https://platzi.com/comentario/554598/) 
 
-	
 	Cuales extensiones utilizas para que cambian los colores del texto pug?
 
-* **Anthony Will Solsol Soplin** (1)
+* **Anthony Will Solsol Soplin** (1) [476660](https://platzi.com/comentario/476660/) 
 
-	
 	Solo para mencionar, a quienes les guste trabajar con Bulma pueden probar Buefy, una librería de componentes Vuejs basada en Bulma 😄
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [448651](https://platzi.com/comentario/448651/) 
 
-	
 	La propiedad computada se va ha activar cada vez que exista una modificación en la propiedad tracks ? A que se debe esto ?
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [448651] (2)
 
-		
 		Es un tema de performance implementado por Vue. La principal ventaja para las computed properties es que son almacenadas en caché y es por eso que su consulta se hace de manera eficaz.  
 		Por eso es un error usar una computed property para datos que no son reactivos ya que siempre regresaran el mismo valor a pesar de que cambien. Por ejemplo:
 		``` 
@@ -20697,9 +19782,8 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 		
 		Te dejo el [link](https://vuejs.org/v2/guide/computed.html) de la documentación oficial para que puedas ampliar la info.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396384](https://platzi.com/comentario/396384/) 
 
-	
 	Resultado final:
 	``` 
 	    <templatelang="pug">
@@ -20753,32 +19837,27 @@ Los **Eventos** tanto como los inputs son la manera que el usuario tiene para in
 	    
 	```
 
-* **Oscar Stevens Cuartas Bejarano** (1)
+* **Oscar Stevens Cuartas Bejarano** (1) [272161](https://platzi.com/comentario/272161/) 
 
-	
 	me he quedado definitivamente con HTML normal… nada de pug ni blades nada de eso, uno ve el curso o cualquier otro tutorial y quiere aplicarlos y son herramientas geniales si… pero estan en un estado de reevaluacion, no estandarizacion tan tenaz que no no puede estar detras de ellos, al final iniciar un proyecto se le suman horasss de ponerse a ver como han cambiado.
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [272161] (1)
 
-		
 		Eso tienes razón. Aunque al principio tuve algo de resistencia con pug ahora lo veo normal pero prefiero el html normal.
 
-* **Jesus Sandrea** (1)
+* **Jesus Sandrea** (1) [212172](https://platzi.com/comentario/212172/) 
 
-	
 	Atom por defecto no me muestra la linea y los puntos de las identaciones, Alguien me podría decir como se llama el paquete o como se activa?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [212172] (3)
 
-		
 		En las preferencias de atom **Editar - > Preferencias -> Editar** buscas la opción que dice mostrar invisibles o show Invisibles y la seleccionas.
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [47912](https://platzi.com/comentario/448651/) 
 La propiedad computada se va ha activar cada vez que exista una modificación en la propiedad tracks ? A que se debe esto ?
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [47912] (2)
 
-		
 		Es un tema de performance implementado por Vue. La principal ventaja para las computed properties es que son almacenadas en caché y es por eso que su consulta se hace de manera eficaz.  
 		Por eso es un error usar una computed property para datos que no son reactivos ya que siempre regresaran el mismo valor a pesar de que cambien. Por ejemplo:
 		``` 
@@ -20794,9 +19873,8 @@ La propiedad computada se va ha activar cada vez que exista una modificación en
 		
 		Te dejo el [link](https://vuejs.org/v2/guide/computed.html) de la documentación oficial para que puedas ampliar la info.
 
-* **Bian** (0)
+* **Bian** (0) [319139](https://platzi.com/comentario/319139/) 
 
-	
 	No me muestra el 3 y tengo todo exactamente igual, se queda en 0 pero en consola verifico que el array ahora tiene 3 elementos porque pasa eso?
 	``` 
 	    <template lang="pug">
@@ -20850,32 +19928,27 @@ La propiedad computada se va ha activar cada vez que exista una modificación en
 	    
 	```
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [278223](https://platzi.com/comentario/278223/) 
 
-	
 	Tengo una duda, en el objeto computed creamos el método searchMessage pero dicho atributo no se especifica en data
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [278223] (1)
 
-		
 		Las propiedades computadas no se definen en `data`, tienen la particularidad que se crean como funciones, pero luego se utilizan como propiedades.
 
-	* **Darwin Rodríguez** (0)
+	* **Darwin Rodríguez** [278223] (0)
 
-		
 		Graicas por aclarar la duda
 
-* **Marcelo Fontana** (0)
+* **Marcelo Fontana** (0) [198146](https://platzi.com/comentario/198146/) 
 
-	
 	Me confunde un poco el uso de tracks tanto para la constante como para el VM. Por lo que veo entiendo que no se pisan si bien tengo el mismo nombre. Creo que el secreto esta en el this? que es la forma de acceder a los elementos de VM.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [198146] (1)
 
-		
 		Si, son cosas diferentes (y podrian tener nombres diferentes). El truco esta en el `scope` (alcance) de JavaScript, mas alla de que Vue internamente hace otras cosas, la constante `track` es parte del scope global y la propiedad `track` es parte del scope del VM.
 
-## 0190. Ejercicio de Manipulación del DOM
+## 0190. Ejercicio de Manipulación del DOM [7841](https://platzi.com/clases/1145-vuejs-profesional/7841-ejercicio-de-manipulacion-del-dom/)
 
 ### Descripción:
 
@@ -20890,29 +19963,29 @@ Hola, espero que hasta aquí estés disfrutando el curso, recuerda que para domi
 
 Ejercicio:
 
-  * Crear dentro de data una propiedad “name” de tipo String y una propiedad “tasks” de tipo de Array.
+* Crear dentro de data una propiedad “name” de tipo String y una propiedad “tasks” de tipo de Array.
 
-  * Agregar una expresión para mostrar el valor de name y utilizar la directiva apropiada para para mostrar en una lista cada uno de los elementos dentro de task. Cada “task” es un objeto con una propiedad “title” y otra “time”. Agreguemos las expresiones necesarias para que en cada tarea podamos visualizar ambas propiedades.
+* Agregar una expresión para mostrar el valor de name y utilizar la directiva apropiada para para mostrar en una lista cada uno de los elementos dentro de task. Cada “task” es un objeto con una propiedad “title” y otra “time”. Agreguemos las expresiones necesarias para que en cada tarea podamos visualizar ambas propiedades.
 
-  * Agregar funcionalidad para crear una nueva tarea:
+* Agregar funcionalidad para crear una nueva tarea:
 
-    * Vamos a necesitar una nueva propiedad llamada “newTask” que sea un Object. Dentro de este objeto también agregamos una propiedad “tilte” de tipo String y una propiedad “time” de tipo Number. Recuerda inicializar las propiedades con valores default.
+  * Vamos a necesitar una nueva propiedad llamada “newTask” que sea un Object. Dentro de este objeto también agregamos una propiedad “tilte” de tipo String y una propiedad “time” de tipo Number. Recuerda inicializar las propiedades con valores default.
 
-    * Vamos a crear un método llamado “addTask” que agregue una nueva tarea al array “tasks”. Una vez agregada también va a reiniciar los valores dentro de “newTaks”. Ten en cuenta que antes de agregar la propiedad debemos chequear con los valores de “newTask.title” y “newTask.time” existan (sean distintos de “falsy”). Por otro lado es importante que cada elemento nuevo que agreguemos al array de “tasks” sea un objeto nuevo y no la instancia de “newTask”.
+  * Vamos a crear un método llamado “addTask” que agregue una nueva tarea al array “tasks”. Una vez agregada también va a reiniciar los valores dentro de “newTaks”. Ten en cuenta que antes de agregar la propiedad debemos chequear con los valores de “newTask.title” y “newTask.time” existan (sean distintos de “falsy”). Por otro lado es importante que cada elemento nuevo que agreguemos al array de “tasks” sea un objeto nuevo y no la instancia de “newTask”.
 
-    * Vamos a agregar el HTML, para esto necesitamos dos “inputs” y un “button”. También debemos agregar las directivas correspondientes para enlazar el código con la vista.
+  * Vamos a agregar el HTML, para esto necesitamos dos “inputs” y un “button”. También debemos agregar las directivas correspondientes para enlazar el código con la vista.
 
-    * Creamos también una funcionalidad para cancelar, para eso debemos crear un método llamado “cancel” que simplemente reinicie los valores de las propiedades de newTask. Recordemos agregar un button de HTML donde enlazar este nuevo método.
+  * Creamos también una funcionalidad para cancelar, para eso debemos crear un método llamado “cancel” que simplemente reinicie los valores de las propiedades de newTask. Recordemos agregar un button de HTML donde enlazar este nuevo método.
 
-    * Es momento de saber cuantas horas llevamos trabajadas, para eso vamos a crear una computed property llamada “totalTime” donde se recorran todas las tareas y se calculo el total del tiempo trabajado. También vamos agregar un elemento HTML con la expresión necesaria para visualizar la propiedad.
+  * Es momento de saber cuantas horas llevamos trabajadas, para eso vamos a crear una computed property llamada “totalTime” donde se recorran todas las tareas y se calculo el total del tiempo trabajado. También vamos agregar un elemento HTML con la expresión necesaria para visualizar la propiedad.
 
-    * Debemos integrar la app con el local storage del browser. Dentro del metodo “addTask”, guardamos toda la lista de tareas en dicho storage usando este metodo: “localStorage.setItem(‘tasks’, JSON.stringify(this.tasks))”.
+  * Debemos integrar la app con el local storage del browser. Dentro del metodo “addTask”, guardamos toda la lista de tareas en dicho storage usando este metodo: “localStorage.setItem(‘tasks’, JSON.stringify(this.tasks))”.
 
-    * Guardando las tareas en el browser podemos persistir la información aunque estemos cerrando o refrescando la página. Además, al momento de crearse el componente, debemos leer esta información para poder cargar la lista de tareas. Para eso dentro del hook “created”, escribimos el siguiente código: “this.tasks = JSON.parse(localStorage.getItem(‘tasks’)) || []”
+  * Guardando las tareas en el browser podemos persistir la información aunque estemos cerrando o refrescando la página. Además, al momento de crearse el componente, debemos leer esta información para poder cargar la lista de tareas. Para eso dentro del hook “created”, escribimos el siguiente código: “this.tasks = JSON.parse(localStorage.getItem(‘tasks’)) || []”
 
-    * Lo último que nos queda es poder eliminar las tareas que ya no queremos. Para eso vamos a crear un método que se llame “removeTask”. Este método debe recibir por parámetro el indice de la tarea y podemos utilizar ese indice (en conjunto con el método “splice” de Array) para eliminar el elemento. Recordemos que tendremos que agregar un botón por cada tarea y cada uno de estos se encarga de llamar al método “removeTask” enviando por parámetro el indice correspondiente. Recordemos invocar la funcionalidad que ya pusimos en “addTask”, para actualizar el local storage del Browser.
+  * Lo último que nos queda es poder eliminar las tareas que ya no queremos. Para eso vamos a crear un método que se llame “removeTask”. Este método debe recibir por parámetro el indice de la tarea y podemos utilizar ese indice (en conjunto con el método “splice” de Array) para eliminar el elemento. Recordemos que tendremos que agregar un botón por cada tarea y cada uno de estos se encarga de llamar al método “removeTask” enviando por parámetro el indice correspondiente. Recordemos invocar la funcionalidad que ya pusimos en “addTask”, para actualizar el local storage del Browser.
 
-    * Por último vamos a mejorar la UI, cuando no haya tareas podemos mostrar un mensaje que indica que no hay ninguna tarea cargada y por otro lado ocultar el lista vacía.
+  * Por último vamos a mejorar la UI, cuando no haya tareas podemos mostrar un mensaje que indica que no hay ninguna tarea cargada y por otro lado ocultar el lista vacía.
 
 
 
@@ -20921,134 +19994,110 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 
 ### Comentarios:
 
-* **juan david vargas cante** (12)
+* **juan david vargas cante** (12) [187183](https://platzi.com/comentario/187183/) 
 
-	
 	Comparto mi Ejercicio <https://vue-tasks-tlhftxiopi.now.sh/> hice deploy con Now, se que no tiene buen estilo aunque usé bootstrap xD, pero es funcional. Aquí el repositorio <https://github.com/cantejuandavid/vue-tasks>
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [187183] (0)
 
-		
 		Muy bueno 👏👏👏
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (1)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [187183] (1)
 
-		
 		@juanvc123 Si tiene buen estilo 😄 ademas resolviste todo lo que propuso el profe, ya tenias alguna experiencia antes con otros frameworks? que te ha parecido Vue.js?
 
-	* **juan david vargas cante** (0)
+	* **juan david vargas cante** [187183] (0)
 
-		
 		Tuve experiencia con Angular 1 o Angularjs, pero como a partir del 2 ya empezaron con componentes, porque ahora esa es la moda “componentes” y reactvidad, estaba aprendiendo Angular 2 pero ví a Vuejs y me pareció que tiene buena curva de aprendizaje, es como más intuitivo en lo que se quiere lograr con ese framework.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [187183] (0)
 
-		
 		hola Juan y no te animarás a tomar el curso de angular 4?
 
-* **Diego Andres Cardenas Caro** (11)
+* **Diego Andres Cardenas Caro** (11) [188392](https://platzi.com/comentario/188392/) 
 
-	
 	Mi solución del ejercicios.  
 	<https://codepen.io/ingeekar/full/MvvNNr/>  
 	![](https://pbs.twimg.com/media/DHObuNVWsAAl1RJ.jpg)
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (1)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [188392] (1)
 
-		
 		Esta muy _cool_ te quedo muy bonito 😃, te felicito! ahora me gustaría mucho saber cómo fue tu experiencia con éste proyecto, cuéntanos que problemas encontraste en el proceso y cómo lograste resolverlos. También te animo a que veas la solución de tus compañeros y les dejes _feedback_ así todos podemos aprender y crecer.
 
-	* **Diego Andres Cardenas Caro** (0)
+	* **Diego Andres Cardenas Caro** [188392] (0)
 
-		
 		Gracias @yesikita, me gusta mucho la metodologia de este curso, los ejercicios de cada tema son un verdadero plus. Para resolver el ejercicio, me sirvió mucho las soluciones de los compañeros y un poco de: Read-Search-Ask.
 
-	* **Cesar Octavio de Jesús Meza Carrillo** (0)
+	* **Cesar Octavio de Jesús Meza Carrillo** [188392] (0)
 
-		
 		Diego, siguiendo tu ejemplo para aterrizarme un poco me salio un error en localStorage:
 		
 		‘localStorage’ is not defined, a que se debera?
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [188392] (1)
 
-		
 		Woo, que cool!
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [188392] (1)
 
-		
 		Super cool.
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [188392] (1)
 
-		
 		Wow! Te quedó super!
 
-	* **leocmpro** (1)
+	* **leocmpro** [188392] (1)
 
-		
 		Me agrada la interfaz de usuario que construiste.
 
-* **Cristofer Fuentes Barra** (4)
+* **Cristofer Fuentes Barra** (4) [188681](https://platzi.com/comentario/188681/) 
 
-	
 	[Aqui](https://codepen.io/cristoferfb/full/ZJaxqg/) tengo el mio, le agregue la función para actualizar el nombre 😃
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [188681] (1)
 
-		
 		👏👏👏
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [188681] (0)
 
-		
 		Excelente Cristofer!
 
-* **CARLOS DAVID MARCIGLIA GOMEZ** (4)
+* **CARLOS DAVID MARCIGLIA GOMEZ** (4) [188496](https://platzi.com/comentario/188496/) 
 
-	
 	Les comparto el proyecto realizado:
 	
 	DEMO: <https://cmarsiglia.github.io/tasks-list/#/>
 	
 	Codigo en GitHub: <https://github.com/cmarsiglia/tasks-list>
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (1)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [188496] (1)
 
-		
 		Hola @cmarsiglia, me gusta mucho lo que hiciste en este proyecto, que tal la experiencia? has aprendido mucho? que dudas tienes?, ya viste las soluciones de tus compañeros?, seria buenísimo que les dejes un aporte, quizá alguna mejora que harías en su código o solo diles lo bueno que esta su proyecto.
 
-	* **CARLOS DAVID MARCIGLIA GOMEZ** (1)
+	* **CARLOS DAVID MARCIGLIA GOMEZ** [188496] (1)
 
-		
 		Gracias @yesikita, excelente la experiencia, la verdad he ampliado mis conocimientos con cada una de las clases vistas hasta el momento, cada concepto aprendido lo aplico a mi proyecto personal.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [188496] (0)
 
-		
 		Excelente!
 
-* **albertofragoso_com** (4)
+* **albertofragoso_com** (4) [185534](https://platzi.com/comentario/185534/) 
 
-	
 	Les comparto mis solución ya integrada con Bulma.
 	
 	<http://www.albertofragoso.com/newtask/>
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [185534] (0)
 
-		
 		Muy bueno 👏
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (0)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [185534] (0)
 
-		
 		Hola!! Te quedó muy bien 😊, solo que tu sitio siempre me llama Alberto Fragoso 😦, crees que podrías hacer que ese nombre pueda cambiar poniendo un campo de texto para ingresarlo?. También recuerda ver las soluciones de tus compañeros y dejarles _feedback_ así pueden mejorar sus proyectos y todos aprendemos mas!
 
-* **Wilfredo Torres** (3)
+* **Wilfredo Torres** (3) [244981](https://platzi.com/comentario/244981/) 
 
-	
 	Mi versión  
 	<https://torreswil.github.io/prativue/>
 	
@@ -21057,9 +20106,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	
 	Buena practica!
 
-* **Kingsman7** (2)
+* **Kingsman7** (2) [740491](https://platzi.com/comentario/740491/) 
 
-	
 	HTML
 	``` 
 	    <template lang="pug">
@@ -21139,9 +20187,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **ANDRES GOMEZ GOMEZ** (2)
+* **ANDRES GOMEZ GOMEZ** (2) [667220](https://platzi.com/comentario/667220/) 
 
-	
 	Mi frontend no es muy bueno, pero aquí va, sigo usando bulma, no me gustó que no tiene clases como tan practicas en comparación de bootstrap para listas y hay que desarrollar mas del lado del css, pero bueno, la funcionalidad está.
 	``` 
 	    <templatelang="pug">
@@ -21253,28 +20300,26 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [582837](https://platzi.com/comentario/582837/) 
 
-	
 	Solución:  
 	<https://codepen.io/jesuskinto/pen/BejGpr>
 	
 	![](https://i.ibb.co/tDGrZ3t/lista-Tareas.png)  
 	![](https://i.ibb.co/PcWZFQs/lista-Tareas2.png)
 
-* **edwarxdced** (2)
-![Admin taks ](https://github.com/edwarxdced/admin-task/blob/master/Screenshot_4.png?raw=true)
+* **edwarxdced** (2) [435625](https://platzi.com/comentario/435625/) 
+	
+	![Admin taks ](https://github.com/edwarxdced/admin-task/blob/master/Screenshot_4.png?raw=true)
 	
 	Este es mi prototipo 100% funcional ademas le añadí un plus con las actividades completada y una barra de progreso para saber como vamos.
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [435625] (1)
 
-		
 		Por cierto aquí esta el repositorio. [Click aquí](https://github.com/edwarxdced/admin-task)
 
-* **Francisco Hernandez** (2)
+* **Francisco Hernandez** (2) [238695](https://platzi.com/comentario/238695/) 
 
-	
 	Repo : <https://github.com/Simoleans/gestor_tareas>
 	
 	DEMO : <https://simoleans.github.io/gestor_tareas/>
@@ -21283,9 +20328,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	
 	![tareas.png](https://static.platzi.com/media/user_upload/tareas-d841a502-3fc5-44cc-a17a-1cfadfdb1bb2.jpg)
 
-* **fersot7** (2)
+* **fersot7** (2) [189395](https://platzi.com/comentario/189395/) 
 
-	
 	Excelente ejercicio para la manipulación del DOM, Sirve mucho para adquirir destreza en VUE.
 	
 	GitHub Pages:  
@@ -21294,46 +20338,38 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	Repositorio:  
 	<https://github.com/FernandoSotoBetin/dom>
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [189395] (0)
 
-		
 		Justo esa es la intención Fersot, que bueno que te hayan gustado =)
 
-* **ivanguerra10** (2)
+* **ivanguerra10** (2) [181658](https://platzi.com/comentario/181658/) 
 
-	
 	Comparto mi resolucion:
 	
 	<https://codepen.io/iguerra10/pen/dRrPRE>
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [181658] (1)
 
-		
 		Muy bueno Ivan, me gusto mucho el uso de `reduce` para resolver la computed. Te recomiendo usar `const` en aquellas variables que sabes que no mutaran su valor. Esta excelente!
 
-	* **ivanguerra10** (1)
+	* **ivanguerra10** [181658] (1)
 
-		
 		Gracias Ignacio, buen consejo! Excelente curso hasta ahora. Muy buena la idea de ir resolviendo desafios al final de cada leccion, que ponga en practica lo aprendido, y sobre todo que no sea algo muy basico, sino que requiera un poco de esfuerzo el resolverlo.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [181658] (1)
 
-		
 		hey ivan! cómo vas con el curso, ya lograste terminar el curso?
 
-	* **ivanguerra10** (0)
+	* **ivanguerra10** [181658] (0)
 
-		
 		Si, Ricardo, ya pude terminarlo, estuvo excelente! Vue.js me parecio el framework javascript con la mejor curva de aprendizaje y muy intuitivo! Definitivamente lo voy a usar para proyectos personales en el futuro para el frontend!
 
-* **Héctor Tello** (1)
+* **Héctor Tello** (1) [1116641](https://platzi.com/comentario/1116641/) 
 
-	
 	Hice el ejercicio en codepen, este es el link: <https://codepen.io/hectortllo/pen/eYpYxQb?editors=1010>
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [1110695](https://platzi.com/comentario/1110695/) 
 
-	
 	Javascript
 	``` 
 	    var app = new Vue({
@@ -21405,9 +20441,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [991163](https://platzi.com/comentario/991163/) 
 
-	
 	Originalmente lo hice con html porque no me gusta pug pero lo converti a pug para ustedes
 	``` 
 	    .conteiner
@@ -21456,9 +20491,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [991152](https://platzi.com/comentario/991152/) 
 
-	
 	Mi Trabajo  
 	JS
 	``` 
@@ -21518,15 +20552,13 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Menkar Felipe Cantor Molina** (1)
+* **Menkar Felipe Cantor Molina** (1) [894332](https://platzi.com/comentario/894332/) 
 
-	
 	Aporto mi ejercicio, trate de hacer algo diferente pero implementando todos los puntos requeridos:  
 	<https://github.com/menkar91/note>
 
-* **neontigermx** (1)
+* **neontigermx** (1) [801179](https://platzi.com/comentario/801179/) 
 
-	
 	Adjunto mi ejercicio
 	``` 
 	    <template lang="pug">
@@ -21620,14 +20652,13 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **David Vargas Domínguez** (1)
+* **David Vargas Domínguez** (1) [606915](https://platzi.com/comentario/606915/) 
 
-	
 	Hecho con bulma en codepen!
 	
 	<https://codepen.io/davos_/pen/arryLP>
 
-* **Angel Infanti** (1)
+* **Angel Infanti** (1) [605694](https://platzi.com/comentario/605694/) 
 
 	```
 	    <template>
@@ -21956,41 +20987,35 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **jonatandana** (1)
+* **jonatandana** (1) [603509](https://platzi.com/comentario/603509/) 
 
-	
 	mi ejercicio  
 	<https://github.com/jonathandana/vue-platzi-tasks>
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [598789](https://platzi.com/comentario/598789/) 
 
-	
 	Ejercicio completado
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [592607](https://platzi.com/comentario/592607/) 
 
-	
 	Dejo el mío. Me falta implementar algunas cosas pero funciona  
 	<https://codepen.io/hiteple/pen/XweZvO>
 
-* **jgorocica** (1)
+* **jgorocica** (1) [557478](https://platzi.com/comentario/557478/) 
 
-	
 	Listo mi ejercicio, dejo aquí mi Codepen
 	
 	<https://codepen.io/jgorocica/full/OGpEop>
 	
 	Saludos
 
-* **Carlos Fuentes** (1)
+* **Carlos Fuentes** (1) [551182](https://platzi.com/comentario/551182/) 
 
-	
 	Comparto mi ejercicio, me costó trabajo por que lo hice sin bootstrap  
 	<https://codepen.io/carlos-fuentes-the-selector/pen/WWQxYK>
 
-* **Ernesto Gomez Zacarias** (1)
+* **Ernesto Gomez Zacarias** (1) [536288](https://platzi.com/comentario/536288/) 
 
-	
 	Ejercicio:
 	``` 
 	    <templatelang="pug">
@@ -22111,9 +21136,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **leocmpro** (1)
+* **leocmpro** (1) [533065](https://platzi.com/comentario/533065/) 
 
-	
 	Sigo construyendo mis interfaces de usuario con Vuetify. Este es el resultado final:  
 	![ex04.png](https://static.platzi.com/media/user_upload/ex04-eaeb5e56-1520-44a5-a8de-9dbb8893934f.jpg)
 	
@@ -22222,23 +21246,20 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [530424](https://platzi.com/comentario/530424/) 
 
-	
 	Les dejo mi ejercicio: <https://codepen.io/ludwingperezt/pen/gEWPGx>
 	
 	No agregué estilos porque quería enfocarme en la solución del código con vue. Ahora que veo lo que hicieron ustedes me da vergüenza como dejé el ejercicio, probablemente lo haga luego jejeje
 
-* **DarwinZc325** (1)
+* **DarwinZc325** (1) [525616](https://platzi.com/comentario/525616/) 
 
-	
 	Mi práctica
 	
 	<https://codepen.io/darwin-alexis-zamora-ceron/details/REoXbY?fbclid=IwAR05CDAXGwY3a32bDXN8AF28-0AtdUPuIPcw_5kP3sedJyfbqOKXFlsPyDI>
 
-* **azamartinez** (1)
+* **azamartinez** (1) [467394](https://platzi.com/comentario/467394/) 
 
-	
 	Les presento mi práctica:
 	
 	![Administrador de Tareas.png](https://static.platzi.com/media/user_upload/Administrador%20de%20Tareas-4f54f96a-5a6c-4fcc-9624-521127ee57b5.jpg)
@@ -22381,13 +21402,13 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **MichaelSornoza** (1)
+* **MichaelSornoza** (1) [449691](https://platzi.com/comentario/449691/) 
 
-	
 	[Aquí](https://codepen.io/michaels99-the-sans/pen/MZyRBz) mi código
 
-* **johnvillamilcardona** (1)
-![Screenshot from 2018-11-22 20-58-56.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-11-22%2020-58-56-f62447ee-c356-4a70-850f-acf2d7e8ac9f.jpg)
+* **johnvillamilcardona** (1) [429265](https://platzi.com/comentario/429265/) 
+	
+	![Screenshot from 2018-11-22 20-58-56.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-11-22%2020-58-56-f62447ee-c356-4a70-850f-acf2d7e8ac9f.jpg)
 	``` 
 	    <templatelang="pug">
 	      #container
@@ -22500,9 +21521,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Luis Felipe Andrés Barraza Vega** (1)
+* **Luis Felipe Andrés Barraza Vega** (1) [410194](https://platzi.com/comentario/410194/) 
 
-	
 	Adjunto mi aporte
 	``` 
 	    <template lang ="pug">
@@ -22639,7 +21659,7 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Jair Aquines** (1)
+* **Jair Aquines** (1) [400039](https://platzi.com/comentario/400039/) 
 
 	```
 	    <template>
@@ -22757,9 +21777,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396533](https://platzi.com/comentario/396533/) 
 
-	
 	Mi solución:
 	``` 
 	    <templatelang="pug">
@@ -22840,22 +21859,19 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Diego Rojas** (1)
+* **Diego Rojas** (1) [375787](https://platzi.com/comentario/375787/) 
 
-	
 	<https://codepen.io/d4ndres/pen/PBBJVR>
 
-* **jonhks** (1)
+* **jonhks** (1) [372190](https://platzi.com/comentario/372190/) 
 
-	
 	Hola a todos, les dejo mi solución  
 	<https://jonhks.github.io/notas-vue/>  
 	<https://github.com/Jonhks/notas-vue>  
 	Es muy básico y use materialize les dejo mi código también 😃
 
-* **GuilleAnselmi** (1)
+* **GuilleAnselmi** (1) [306304](https://platzi.com/comentario/306304/) 
 
-	
 	Aqui les dejo mi [codepen](https://codepen.io/suntypower/pen/BVaGME) la verdad me tomo 1 hora aprox en terminarlo, tarde mas de 40 min para tratar de dejarlo bonito (soy malisimo manipulando css y html 😦) , Saludos!!
 	
 	pd: Nacho es mi profe favorito la verdad muy muy bueno, de los pocos que saben explicar las cosas claras y concisas
@@ -22864,28 +21880,24 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	
 	![](https://i.screenshot.net/qm4mtmk)
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [306304] (1)
 
-		
 		¡Buen ejercicio, me gusto mucho!
 
-* **Roarraerald** (1)
+* **Roarraerald** (1) [285220](https://platzi.com/comentario/285220/) 
 
-	
 	Mi aporte:  
 	![tasks.png](https://static.platzi.com/media/user_upload/tasks-cbad5869-c596-408a-b787-359289a1efc0.jpg)  
 	Comparto repositorio:  
 	<https://github.com/ronzegarra/VuejsExercise-TasksManager>
 
-* **JRivera Román** (1)
+* **JRivera Román** (1) [263818](https://platzi.com/comentario/263818/) 
 
-	
 	Acá les dejo mi ejercicio  
 	<https://codepen.io/JuanjoVlado/pen/aqYPbW?editors=0010>
 
-* **Yefferson Guarnizo** (1)
+* **Yefferson Guarnizo** (1) [254223](https://platzi.com/comentario/254223/) 
 
-	
 	aqui mi ejercicio del dia 😃
 	
 	link:  
@@ -22894,59 +21906,50 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	codigo por si lo quieren chequear:  
 	<https://github.com/izofer/izonote>
 
-	* **Andres Gallardo** (1)
+	* **Andres Gallardo** [254223] (1)
 
-		
 		Me gusto mucho !
 
-	* **Yefferson Guarnizo** (0)
+	* **Yefferson Guarnizo** [254223] (0)
 
-		
 		Gracias 😃
 
-* **wjcg42** (1)
+* **wjcg42** (1) [248173](https://platzi.com/comentario/248173/) 
 
-	
 	Excelente ejercicio. El uso de localStorage en proyectos ha sido de muy buen beneficio para el rendimiento de las aplicaciones y para la experiencia de usuario. BUEN CURSO PROFE!
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [248173] (0)
 
-		
 		Muchas gracias! 😁
 
-* **Omar Flores Grimontt** (1)
+* **Omar Flores Grimontt** (1) [247748](https://platzi.com/comentario/247748/) 
 
-	
 	Excelente ejercicio 😃, pude reforzar bastantes términos, y me hizo aprender y entender varias cosas sobre Vue, además aproveché para documentarme más sobre Bulma CSS jaja.
 	
 	Aquí mi [ejercicio](https://s.codepen.io/omarefg/debug/qpLboo/GnrnbVyYpbor) y el [código](https://codepen.io/omarefg/pen/qpLboo)
 
-* **Luis Angel Vásquez Nepomuceno** (1)
+* **Luis Angel Vásquez Nepomuceno** (1) [244368](https://platzi.com/comentario/244368/) 
 
-	
 	Hola !  
 	Me encantó el ejercicio, fue muy divertido 😄
 	
 	[Comparto el mio ](https://angelvasqueznep.github.io/tasks/)  
 	![vue-ejercicio-task.jpg](https://static.platzi.com/media/user_upload/vue-ejercicio-task-0538d7ce-b11e-4cdc-aae3-1e084ee31474.jpg)
 
-* **lagapog** (1)
+* **lagapog** (1) [235212](https://platzi.com/comentario/235212/) 
 
-	
 	Faltaban de estos retos, excelente ejercicio! Te quedas con las ganas de seguir con más
 	
 	Aquí comparto mi resolución del ejercicio  
 	<https://codepen.io/anon/pen/rpyMxR?editors=1011>
 
-* **MauricioHernanCabrera** (1)
+* **MauricioHernanCabrera** (1) [228406](https://platzi.com/comentario/228406/) 
 
-	
 	Les comparto mi solucion  
 	<https://hernancabrera.github.io/tareas/>
 
-* **Luis Lacruz** (1)
+* **Luis Lacruz** (1) [221675](https://platzi.com/comentario/221675/) 
 
-	
 	Hola les comparto código de mi ejercicio.
 	``` 
 	    <template lang="pug">
@@ -23041,20 +22044,17 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [221675] (0)
 
-		
 		Está excelente Luix, no olvides terminar el curso y presentar el examen al final 😃
 
-* **iamnotadonjuan** (1)
+* **iamnotadonjuan** (1) [204362](https://platzi.com/comentario/204362/) 
 
-	
 	Buenas. Comparto mi solución del ejercicio. Se aceptan recomendaciones de cualquier tipo. El ejercicio lo solucioné implementando Bulma. 😄  
 	<https://app-tasks-kclltrtkui.now.sh/>
 
-* **José Jesús Palacios** (1)
+* **José Jesús Palacios** (1) [194170](https://platzi.com/comentario/194170/) 
 
-	
 	Ahí tenéis mi solución:  
 	[Manipulación del DOM](https://github.com/funihao/LearningVueJS/tree/E-DOM)  
 	Los problemas con localStore se solucionaron usando
@@ -23065,29 +22065,24 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	
 	Saludos.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [194170] (0)
 
-		
 		Muy buena la solucion, gracias por el aporte. Aclaro por las dudas que es `window.localStorage`.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [194170] (0)
 
-		
 		Excelente José! no dejes de prácticar y al final presentar el examen =)
 
-* **Hector Jose Flores Colmenarez** (1)
+* **Hector Jose Flores Colmenarez** (1) [183837](https://platzi.com/comentario/183837/) 
 
-	
 	Mi solucion 😄 <https://hecto932.github.io/todo-vue/>
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [183837] (0)
 
-		
 		Genial!
 
-* **leshz** (1)
+* **leshz** (1) [183833](https://platzi.com/comentario/183833/) 
 
-	
 	Tengo este error en la consola
 	
 	85:29 error ‘localStorage’ is not defined no-undef  
@@ -23152,33 +22147,28 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [183833] (1)
 
-		
 		Veo un primer error y es que `el` debe ser un id y no esta definido así
 		``` 
 		    el:'#app'
 		    
 		```
 
-	* **leshz** (0)
+	* **leshz** [183833] (0)
 
-		
 		me di cuenta de ese error despues de publicar aqui , pero despues de corregido sigue marcando el mismo error de error ‘localStorage’ is not defined no-undef
 
-	* **leshz** (0)
+	* **leshz** [183833] (0)
 
-		
 		me di cuenta de ese error despues de publicar aqui , pero despues de corregido sigue marcando el mismo error de error ‘localStorage’ is not defined no-undef
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [183833] (0)
 
-		
 		Hola, pareciera que tu browser no sporta localStorage (lo cual es muy raro). Podrias indicar que navegador estas usando o si por cuasualidad lo estas usando en modo incognito.
 
-	* **Manuel Alejandro Sandoya Mendoza** (0)
+	* **Manuel Alejandro Sandoya Mendoza** [183833] (0)
 
-		
 		Tenía el mismo problema. Pude solucionarlo agregando _window_ antes de _localStorage_. Es decir, así:
 		``` 
 		    window.localStorage.setItem('tasks', JSON.stringify(this.tasks))
@@ -23189,9 +22179,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 		
 		Agradecería si alguien pudiera aclararlo.
 
-	* **José Jesús Palacios** (0)
+	* **José Jesús Palacios** [183833] (0)
 
-		
 		@leshz he tenido el mismo error. Después de mucho investigar y buscar no he conseguido encontrar una explicación. Es posible que sea un problema de versiones con webpack.
 		
 		La solución es usar:
@@ -23202,9 +22191,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 		
 		Con esto funciona.
 
-	* **José Jesús Palacios** (0)
+	* **José Jesús Palacios** [183833] (0)
 
-		
 		A mi me daba el mismo error. Lo he solucionado usando:
 		``` 
 		    window.localStore
@@ -23217,15 +22205,13 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 		vue 2.8.1  
 		webpack 2.6.1
 
-	* **Fabián Veliz** (0)
+	* **Fabián Veliz** [183833] (0)
 
-		
 		En el siguiente link de stackoverflow aparece el mismo problema (no-undef) de eslint y su solución, pero para la líbrería underscode (_): [Link](https://stackoverflow.com/questions/34820817/eslints-no-undef-rule-is-calling-my-use-of-underscore-an-undefined-variable).  
 		PD: Funciona.
 
-* **Victor Gamez** (0)
+* **Victor Gamez** (0) [327491](https://platzi.com/comentario/327491/) 
 
-	
 	Buenas, os comparto mi ejercicio, he usado `componentes`, y la especificación de `BEM`  
 	URL DEMO: <http://platzi-task-vue.surge.sh/>  
 	URL CODIGO: <https://github.com/VGamezz19/platzi-course-notes/tree/master/Vue/1-vue-tasks>  
@@ -23247,9 +22233,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **axlina90** (0)
+* **axlina90** (0) [322619](https://platzi.com/comentario/322619/) 
 
-	
 	Comparto la solución de mi ejercicio: <https://developerteremir.github.io/task-ejercicio-vue/>  
 	![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-e621da68-9e78-4020-9f02-fee40de07d94.jpg)
 	
@@ -23257,9 +22242,8 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	
 	Me gusto mucho este ejercicio, porque hay cosas que no dominaba pero investigando y revisando las anotaciones las pude resolver, este curso es excelente, debería de dar más ejercicios así.
 
-* **Nicolas Gonzalez** (0)
+* **Nicolas Gonzalez** (0) [322357](https://platzi.com/comentario/322357/) 
 
-	
 	[Enlace a google drive](https://drive.google.com/open?id=1gOU8p6UjbWN2ElVHKLPkXQxkWwQH10PQ)
 	
 	Aquí mi ejercicio creo que quedo bastante bien…  
@@ -23411,7 +22395,7 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **William Eduardo Meza** (0)
+* **William Eduardo Meza** (0) [311254](https://platzi.com/comentario/311254/) 
 
 	```
 	    <template lang="pug">
@@ -23502,74 +22486,63 @@ Si en algún punto del ejercicio te sientes perdido, te dejo la versión que yo 
 	    
 	```
 
-* **Roarraerald** (0)
+* **Roarraerald** (0) [285219](https://platzi.com/comentario/285219/) 
 I
 
-# REST y HTTP							
+# REST y HTTP							 [1341]
 
-## 0200. Servicios
+## 0200. Servicios [7800](https://platzi.com/clases/1145-vuejs-profesional/7800-servicios4775/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **fersot7** (5)
+* **fersot7** (5) [185305](https://platzi.com/comentario/185305/) 
 
-	
 	Saludos, faltan los archivos de la clase…
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [185305] (1)
 
-		
 		Hola por alguna razón no están apareciendo pero aquí te dejo el enlace directo a ellos <https://github.com/platzi/platzi-music-vue/tree/video17>
 
-	* **fersot7** (0)
+	* **fersot7** [185305] (0)
 
-		
 		Gracias, si por ahí tienes documentación de promesas donde se hable bien del tema, me facilitas el enlace, me ha costado un poco entender el concepto. Gracias…
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [185305] (2)
 
-		
 		Hola, te dejo el [link](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise) a los docs de MDN. Cualquier consulta, no dudes en postearla!
 
-* **Juan Fernando Ramírez Vélez** (3)
+* **Juan Fernando Ramírez Vélez** (3) [462894](https://platzi.com/comentario/462894/) 
 
-	
 	En que parte del proyecto se guardarian las API KEY Secretas, de modo que no se suban a producción o al Repositorio de GitHub?
 
-	* **jlqm** (1)
+	* **jlqm** [462894] (1)
 
-		
 		<https://cli.vuejs.org/guide/mode-and-env.html#example-staging-mode>
 
-* **Jhon Alexander Perez Valencia** (2)
+* **Jhon Alexander Perez Valencia** (2) [598790](https://platzi.com/comentario/598790/) 
 
-	
 	<https://github.com/platzi/platzi-music-vue/tree/video17>
 
-* **Juan Fernando Ramírez Vélez** (2)
+* **Juan Fernando Ramírez Vélez** (2) [49105](https://platzi.com/comentario/462894/) 
 En que parte del proyecto se guardarian las API KEY Secretas, de modo que no se suban a producción o al Repositorio de GitHub?
 
-	* **jlqm** (1)
+	* **jlqm** [49105] (1)
 
-		
 		<https://cli.vuejs.org/guide/mode-and-env.html#example-staging-mode>
 
-* **Nacxit** (1)
+* **Nacxit** (1) [993066](https://platzi.com/comentario/993066/) 
 
-	
 	Servicios son Api-Key eterna que no permiten aceder a diversas forma de informacion
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [891978](https://platzi.com/comentario/891978/) 
 
-	
 	Servicios, es un concepto es una forma de llamar a los archivos que van a tener cierta logica de negocios.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396537](https://platzi.com/comentario/396537/) 
 
-	
 	config.js
 	``` 
 	    const configServices = {
@@ -23580,7 +22553,7 @@ En que parte del proyecto se guardarian las API KEY Secretas, de modo que no se 
 	    
 	```
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [396537] (1)
 
 		```
 		    const configServices = {
@@ -23591,64 +22564,55 @@ En que parte del proyecto se guardarian las API KEY Secretas, de modo que no se 
 		    
 		```
 
-* **Jose Ortega** (1)
+* **Jose Ortega** (1) [337960](https://platzi.com/comentario/337960/) 
 
-	
 	Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli con mysql?, osea crear un archivo llamado api.php por asi decirlo y traer los distintos campos en formato JSON con un json_encode?, soy nuevo en esto de utilizar javascript para todo y no se si sea posible…Xd. Muchas gracias.
 
-	* **eddyarellanes** (2)
+	* **eddyarellanes** [337960] (2)
 
-		
 		Hola, es completamente posible integrar Vue con cualquier Backend. Por ejemplo checa Laravel + VueJs, Laravel es el framework de Php que se integra de forma natural con Vue ya que ya trae todo configurado para que tú uses Vue. Te recomiendo los laracast:  
 		<https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/>
 		
 		Sino de todas maneras si puedes hacerlo como dices, sólo ocuparías tu php a modo de API y lo levantas en un localhost.
 
-	* **Jose Ortega** (1)
+	* **Jose Ortega** [337960] (1)
 
-		
 		Muchas gracias amigo, me alegra que todo sea posible. Si claro yo he seguido muchos cursos de laravel + vue, pero queria saber si era posible no usar laravel. En verdad que javascript es fascinante y mas este framework y quiero usarlo en cualquier modalidad.
 
-* **Guillermo  Ferru** (1)
+* **Guillermo  Ferru** (1) [200684](https://platzi.com/comentario/200684/) 
 
-	
 	Buenas, si tuviese que agregar mas url, las agrego todas en config.js??
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [200684] (1)
 
-		
 		si! en caso de que vayas a agregar url de servicios APIs más servicios los debes poner en configService =)
 
-* **pablo_l** (1)
+* **pablo_l** (1) [79175](https://platzi.com/comentario/935161/) 
 Sintaxis Kivy ? Kiva?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [79175] (1)
 
-		
 		Es sintaxis kebab o kebab-case, es igual que el **snake_case** pero unido con guiones en vez de barra baja. Por ejemplo **kebab-case**.
 
-* **Jose Ortega** (1)
+* **Jose Ortega** (1) [37864](https://platzi.com/comentario/337960/) 
 Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli con mysql?, osea crear un archivo llamado api.php por as...
 
-	* **eddyarellanes** (2)
+	* **eddyarellanes** [37864] (2)
 
-		
 		Hola, es completamente posible integrar Vue con cualquier Backend. Por ejemplo checa Laravel + VueJs, Laravel es el framework de Php que se integra de forma natural con Vue ya que ya trae todo configurado para que tú uses Vue. Te recomiendo los laracast:  
 		<https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/>
 		
 		Sino de todas maneras si puedes hacerlo como dices, sólo ocuparías tu php a modo de API y lo levantas en un localhost.
 
-* **Osmell Caicedo** (0)
+* **Osmell Caicedo** (0) [320591](https://platzi.com/comentario/320591/) 
 
-	
 	Los servicios
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [320591] (1)
 
-		
 		gracias 🤔
 
-## 0210. Fetch API & Trae
+## 0210. Fetch API & Trae [7801](https://platzi.com/clases/1145-vuejs-profesional/7801-fetch-api-amp-trae/)
 
 ### Descripción:
 
@@ -23663,36 +22627,30 @@ Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli
 
 ### Comentarios:
 
-* **Juan Guzman** (10)
+* **Juan Guzman** (10) [182230](https://platzi.com/comentario/182230/) 
 
-	
 	 **Trae** me pude servir para consumit graphql, tanto para queries y mutations?
 
-	* **Nacho Anaya** (9)
+	* **Nacho Anaya** [182230] (9)
 
-		
 		Recien estoy empezando con **graphql** y no tengo mucha experiencia, pero por lo que entiendo deberia servir ya que **graphql** expone una **API REST**.
 		
 		Igualmente te recomiendo que chequees la libreria [apollo](https://github.com/apollographql/apollo-client) que es un cliente para graphql y tiene una [version customizada par Vue.js](https://github.com/Akryum/vue-apollo)
 
-* **jlbousing** (9)
+* **jlbousing** (9) [691036](https://platzi.com/comentario/691036/) 
 
-	
 	En vez de usar Fetch recomiendo usar Axios (hay que instalarlo por npm) pero es más sencillo y directo de manejar el response. Aquí les dejo una explicación adicional <https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5>
 
-* **Omar Boza** (9)
+* **Omar Boza** (9) [181752](https://platzi.com/comentario/181752/) 
 
-	
 	**Trae** es entonces una alternativa al **axios**??
 
-	* **Nacho Anaya** (14)
+	* **Nacho Anaya** [181752] (14)
 
-		
 		Si, y conceptualmente son muy similares. Trae fue desarrollado en base a lo que Axios ofrece. La diferencia esta en que Trae usa la nueva API Fetch del browser y Axios utiliza el tradicional `XmlHttpRequest`.
 
-* **Nicolas Gonzalez** (6)
+* **Nicolas Gonzalez** (6) [325801](https://platzi.com/comentario/325801/) 
 
-	
 	Mi resumen creo que se explica bastante bien todo ojala a alguien le sirva
 	``` 
 	    import platziMusicService from './platziMusicService'//esto no llama a un archivo si no llama al export de platzi-music es un importe de archivo pero diferente el .7 es por que esta  al mismo nivel
@@ -23721,116 +22679,95 @@ Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli
 	    
 	```
 
-	* **cristiancgl** (2)
+	* **cristiancgl** [325801] (2)
 
-		
 		Si, gracias!
 
-* **Sergio Ivan Santacruz Madrigal** (5)
+* **Sergio Ivan Santacruz Madrigal** (5) [360853](https://platzi.com/comentario/360853/) 
 
-	
 	Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas frente a FETCH, sin embargo, al respecto de TRAE no encuentro mucha documentación… Aunque conceptualmente en su uso son similares, cual tiene mejor rendimiento, que ventajas tiene uno sobre otro?.. Axios, es recomendado por la documentación de Vue así como por React y Otros … Gracias de antemano
 
-	* **Brugarolas** (7)
+	* **Brugarolas** [360853] (7)
 
-		
 		Trae.js lleva sin actualizarse año y medio, y no es una librería muy conocida. Yo la verdad es que utilizaría Fetch por ser una API estándar que se incluye en todos los navegadores modernos, o me quedaría con Axios por ser muy conocida, utilizada y estar bien mantenida.
 
-	* **carlos ruales** (1)
+	* **carlos ruales** [360853] (1)
 
-		
 		Pienso igual, hay que tener en cuenta que el curso es más o menos antiguo. Alrededor de dos años (basándome en la fecha de los comentarios) . Imagino que por ese entonces **TRAE **tenía ciertas ventajas.
 
-* **Gerardo Cetzal Balam** (4)
+* **Gerardo Cetzal Balam** (4) [839570](https://platzi.com/comentario/839570/) 
 
-	
 	pienso que en esta clase no era necesario usar trae, considero que debemos usar axios
 
-* **Milton Eduardo Ramos Coronado** (4)
+* **Milton Eduardo Ramos Coronado** (4) [769608](https://platzi.com/comentario/769608/) 
 
-	
 	“trae” lleva 3 años desde la ultima actualización, no lo usan ni sus creadores seguramente.  
 	Clase completamente Innecesaria, al día de hoy Axios es casi la librería oficial de Vue,
 
-* **Gustavo Gonzalez** (3)
+* **Gustavo Gonzalez** (3) [248894](https://platzi.com/comentario/248894/) 
 
-	
 	tengo un error en el boton de siguiente para este video
 	
 	![](https://image.ibb.co/gGu1db/Screenshot_from_2018_01_27_23_55_31.png)
 
-	* **davidtoca (Platzi)** (0)
+	* **davidtoca (Platzi)** [248894] (0)
 
-		
 		Gracias por reportarlo, lo vamos a revisar
 
-	* **Wilmer Maldonado** (0)
+	* **Wilmer Maldonado** [248894] (0)
 
-		
 		a mi me sucede lo mismo
 
-	* **Flor Viviana  Mireles Rivera** (0)
+	* **Flor Viviana  Mireles Rivera** [248894] (0)
 
-		
 		el error sigue
 
-	* **Vktor** (4)
+	* **Vktor** [248894] (4)
 
-		
 		Es algo minimo, pero aun sigue
 
-* **Kelly Jesus Salazar Sanchez** (2)
+* **Kelly Jesus Salazar Sanchez** (2) [629878](https://platzi.com/comentario/629878/) 
 
-	
 	Empece a usar axios espero no estar mal en esta parte…
 
-	* **Sebastian Cardoso Castillo** (2)
+	* **Sebastian Cardoso Castillo** [629878] (2)
 
-		
 		Axios hace lo mismo que **trae** , pero en lugar de usar fetch, axios hace llamados XMLHttpRequest.
 
-* **israellomba** (2)
+* **israellomba** (2) [573403](https://platzi.com/comentario/573403/) 
 
-	
 	Considero innecesario realizar tantos archivos exportando e importando en otros. Digo ¿Cuál es el punto? ¿Demostrar que sabemos ES6? Bien pudo colocarse en un sólo archivo y la clase hubiera sido más corta, útil y concisa.
 	
 	Además de que la libreria TRAE tiene mucho tiempo sin actualizarse. Ojala Platzi actualice pronto este curso por una nueva versión.
 
-* **Andres Rivera** (2)
+* **Andres Rivera** (2) [567352](https://platzi.com/comentario/567352/) 
 
-	
 	¿en que curso puedo encontrar más bases para entender estas clases?
 
-	* **aragonesteban (Platzi)** (3)
+	* **aragonesteban (Platzi)** [567352] (3)
 
-		
 		Hola, si quieres aprender más sobre como hacer peticiones desde una aplicación web a un API REST puedes ver el curso de **Fundamentos de JasvaScript** en la sección **Asincronismo** donde podrás entender más de como funcionan estas peticiones y las diferentes opciones que hay.
 
-	* **Andres Rivera** (2)
+	* **Andres Rivera** [567352] (2)
 
-		
 		@aragonesteban muchas gracias
 
-	* **José Pablo Machuca González** (1)
+	* **José Pablo Machuca González** [567352] (1)
 
-		
 		Otro es el de Preprocesadores de CSS que ya empecé en su momento porque habla de Saas y Pug.
 
-* **Juan Fernando Ramírez Vélez** (2)
+* **Juan Fernando Ramírez Vélez** (2) [462897](https://platzi.com/comentario/462897/) 
 
-	
 	Me gusta el termino Javascript Pelado, lo añadiré a mi vocabulario
 
-* **Manuel Ojeda** (2)
+* **Manuel Ojeda** (2) [442422](https://platzi.com/comentario/442422/) 
 
-	
 	Una buena alternativa a Trae es Axios, recomendado, es super ligero al igual que Trae:
 	
 	<https://github.com/axios/axios>
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [1112607](https://platzi.com/comentario/1112607/) 
 
-	
 	Listo, la solucion para no usar trae y usar “javascript pelado”:  
 	1.- Entren a [spotify developer](https://developer.spotify.com/) y deben crearse una cuenta, despues siguen los pasos para registrar su app, ponen uso educativo y les brindaran 2 llaves, clientkey y privatekey.  
 	2.- Creen una carpeta llamada services asi como en el video y creen 2 archivos JS: auth-spotyfy y spooty-api, el auth-spooty copian y pegan el siguiente codigo:  
@@ -23906,134 +22843,110 @@ Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli
 	
 	Saludos (y)
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [1110926](https://platzi.com/comentario/1110926/) 
 
-	
 	el uso de trae no me a gustado para nada, pero me di cuenta que esta usando la API de spootify, mejor lean la doc de spootify y lo integran a su proyecto
 
-* **Carlos Herrera** (1)
+* **Carlos Herrera** (1) [1018241](https://platzi.com/comentario/1018241/) 
 
-	
 	Para ser una aplicacion react 20 videos de codificacion y no he visto nada para la interface grafica de usuario 😦
 
-* **Carlos Herrera** (1)
+* **Carlos Herrera** (1) [1018233](https://platzi.com/comentario/1018233/) 
 
-	
 	el ejemplo esta bien pero para ser una aplicacion React …me hubiera gustado que cada componente lo fuera codificando y viendose en interface grafica para ver como va quedando y no solo ver codigo y mas codigo para al final ver una app realizada
 
-* **lenielluzardo** (1)
+* **lenielluzardo** (1) [901845](https://platzi.com/comentario/901845/) 
 
-	
 	Platzi me esta defraudando con el contenido de este curso.
 	
-	  * Primero el titulo indica que se va a tocar el tema de Fetch API pero no hace nada mas que nombrarlo.
+	* Primero el titulo indica que se va a tocar el tema de Fetch API pero no hace nada mas que nombrarlo.
 	
-	  * Segundo se usa una librería que no esta extendida y que tiene tiempo sin ser actualizada.
+	* Segundo se usa una librería que no esta extendida y que tiene tiempo sin ser actualizada.
 	
 	
 	
 	
 	Así se crea mucha fricción al aprender un tema.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [897761](https://platzi.com/comentario/897761/) 
 
-	
 	En el curso basico de vue la version mas reciente, nos muestra como podemos hacer uso de la api fetch sin tener q instalar ninguna libreria.
 
-	* **lenielluzardo** (2)
+	* **lenielluzardo** [897761] (2)
 
-		
 		Si, incluso la enseña como una función nativa de ECMAscript6, esto es lo unico malo de Platzi, no hay continuidad real entre algunos de sus cursos.
 
-* **Betty Rossana Jimenez Cedeño** (1)
+* **Betty Rossana Jimenez Cedeño** (1) [645436](https://platzi.com/comentario/645436/) 
 
-	
 	Y si yo quiero hacerlo normalito, sin ninguna libreria x.x?
 
-	* **Jose D'Lucca** (1)
+	* **Jose D'Lucca** [645436] (1)
 
-		
 		En el curso de VueJS basico utilizan la function Fetch directamente, sin librerias
 
-* **FabianIgnacio** (1)
+* **FabianIgnacio** (1) [584839](https://platzi.com/comentario/584839/) 
 
-	
 	Tengo una pregunta, usando Trae ¿podría editar modificar y eliminar registros de una API no es así? ¿o estoy equivocado? gracias por su ayuda.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [584839] (3)
 
-		
 		Si, si tienes permisos para modificar el api, las apis públicas por lo general son de solo lectura y las puedes editar solo si estas autenticado y tienes permisos.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [561883](https://platzi.com/comentario/561883/) 
 
-	
 	Si trae trabaja con Fetch y Axios trabaja con XMLHttpRequest, ¿como le hace cuando el navegador no soporta dicha caracteristica?, me imagino que igual usa el clasico XMLHttpRequest
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [561883] (1)
 
-		
 		Si no me equivoco Axios tiene un callback en caso que el navegador no soporte fetch entonces usa ajax, su usas solo Fetch tienes que validar si el navegador lo soporta o no y hacer el fall back en caso que no soporte Fetch
 
-* **alan-saldivar** (1)
+* **alan-saldivar** (1) [522190](https://platzi.com/comentario/522190/) 
 
-	
 	¿cuál es el benficio de trae sobre axios?
 
-	* **ebar0n (Platzi)** (1)
+	* **ebar0n (Platzi)** [522190] (1)
 
-		
 		Hola, de hecho Axios trae mas ventajas que fetch, mira [este articulo ](https://medium.com/@sahilkkrazy/fetch-vs-axios-http-request-c9afa43f804e)
 
-* **Anthony Will Solsol Soplin** (1)
+* **Anthony Will Solsol Soplin** (1) [476796](https://platzi.com/comentario/476796/) 
 
-	
 	¿A día de hoy sigue siendo una buena alternativa usar Trae.js? Me refiero a que Axios sigue usando XMLHttpRequests hasta ahora, pero es un poco más activo en Github que Trae.js
 
-	* **Osmell Caicedo** (1)
+	* **Osmell Caicedo** [476796] (1)
 
-		
 		El tema en mi opinion es compatibilidad, [aquí](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5) pueder ver más al respecto.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396610](https://platzi.com/comentario/396610/) 
 
-	
 	`npm i -S trae`
 
-* **Glorimar Ramirez** (1)
+* **Glorimar Ramirez** (1) [363154](https://platzi.com/comentario/363154/) 
 
-	
 	Tengo una duda, como utilizaría Trae para consumir una api que posee una Api-Key?, me podrías facilitar un ejemplo genérico del cual guiarme. Agradecida!
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [363154] (1)
 
-		
 		En la documentación oficial esta el como usarlo <https://github.com/Huemul/trae#basic-usage> aquí en params pasas el nombre de la llave como la espera el servicio y el valor de la api-key
 
-* **Henry Esteban Leon Gomez** (1)
+* **Henry Esteban Leon Gomez** (1) [300496](https://platzi.com/comentario/300496/) 
 
-	
 	En el apartado de “Enlaces” esta roto el de “Trae”, pero aca les dejo el link:  
 	[https://github.com/Huemul/trae](url)
 
-	* **Sergio Ivan Santacruz Madrigal** (1)
+	* **Sergio Ivan Santacruz Madrigal** [300496] (1)
 
-		
 		<https://github.com/Huemul/trae>
 
-* **ImFranQ** (1)
+* **ImFranQ** (1) [265946](https://platzi.com/comentario/265946/) 
 
-	
 	Javascript nativo == Javascript pelado
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [265946] (3)
 
-		
 		Javascript nativo === Javascript pelado 😝
 
-* **Santiago Maya** (1)
+* **Santiago Maya** (1) [249696](https://platzi.com/comentario/249696/) 
 
-	
 	Gente estoy usando fetch api para traer los datos de una api externa, la cuestion es que quiero renderizar esa data en slider hecho con owl carousel, mi app no es isomorfica, estoy usando vue para templating sobre una pagina en wordrpress, la cosa es que tengo un error me llega la info pero nunca me carga el slider eso es porque se esta cargando mal el slider entonces nunca se genera solo me trae mi info pero el slider como tal nunca es generado.
 	``` 
 	    fetch(PROPERTY, fetchInit)
@@ -24079,38 +22992,32 @@ Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [249696] (1)
 
-		
 		Te sale algún error en la consola o simplemente no carga.
 
-	* **Santiago Maya** (0)
+	* **Santiago Maya** [249696] (0)
 
-		
 		no sale error en ningun lado, solo no carga nunca el carousel
 
-* **Christian Lopez** (1)
+* **Christian Lopez** (1) [192036](https://platzi.com/comentario/192036/) 
 
-	
 	Me gusto mucho la librería trae por el tema de los midlewares. Es posible enviar archivos con esta librearía? Podría recibir un FormData como parámetro?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [192036] (1)
 
-		
 		Hola, se supone que eso deberia funcionar pero puede que exista algun issue en la libreria.
 		
 		Vi que subiste un issue en GitHub al respecto. Estoy tratando de reproducir el error para darte una respuesta sobre el uso de `formData` y trae. Si podes comparti cual es el error que obtenes al intentarlo.
 		
 		Gracias!
 
-	* **hnino** (0)
+	* **hnino** [192036] (0)
 
-		
 		También estoy intentando realizar carga de archivos por post pero no consigo subir el archivo. Ya realice pruebas con postman y se carga el archivo sin problema. Cuando intento realizar la petición en vue con trae no se agrega el boundary. Encontré el mismo caso en el issue 69. <https://github.com/Huemul/trae/issues/69>
 
-	* **hnino** (0)
+	* **hnino** [192036] (0)
 
-		
 		Ya lo pude resolver agregando Content-Type vacío…
 		``` 
 		    headers: {
@@ -24119,14 +23026,12 @@ Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli
 		    
 		```
 
-	* **Agustin Clemente** (0)
+	* **Agustin Clemente** [192036] (0)
 
-		
 		Estoy trabajando con backend ASP y tengo problemas al guardar con POST, al enviar los datos se mandan a travez de JSON y quiero mandarlos de forma tradicional
 
-	* **Agustin Clemente** (1)
+	* **Agustin Clemente** [192036] (1)
 
-		
 		Ya lo resolví ya guardo datos Con POST en backend ASP
 		``` 
 		    apiAjaxMethods.enviarForm = function (id, descripcion, url) {
@@ -24145,72 +23050,62 @@ Excelente curso hasta ahora, tengo una duda Profesor, yo podria integrar vue-cli
 		    
 		```
 
-* **FabianIgnacio** (1)
+* **FabianIgnacio** (1) [58974](https://platzi.com/comentario/584839/) 
 Tengo una pregunta, usando Trae ¿podría editar modificar y eliminar registros de una API no es así? ¿o estoy equivocado? gracias por su a...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [58974] (3)
 
-		
 		Si, si tienes permisos para modificar el api, las apis públicas por lo general son de solo lectura y las puedes editar solo si estas autenticado y tienes permisos.
 
-* **Andres Rivera** (1)
+* **Andres Rivera** (1) [57626](https://platzi.com/comentario/567352/) 
 ¿en que curso puedo encontrar más bases para entender estas clases?
 
-	* **aragonesteban (Platzi)** (3)
+	* **aragonesteban (Platzi)** [57626] (3)
 
-		
 		Hola, si quieres aprender más sobre como hacer peticiones desde una aplicación web a un API REST puedes ver el curso de **Fundamentos de JasvaScript** en la sección **Asincronismo** donde podrás entender más de como funcionan estas peticiones y las diferentes opciones que hay.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57203](https://platzi.com/comentario/561883/) 
 Si trae trabaja con Fetch y Axios trabaja con XMLHttpRequest, ¿como le hace cuando el navegador no soporta dicha caracteristica?, me imag...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57203] (1)
 
-		
 		Si no me equivoco Axios tiene un callback en caso que el navegador no soporte fetch entonces usa ajax, su usas solo Fetch tienes que validar si el navegador lo soporta o no y hacer el fall back en caso que no soporte Fetch
 
-* **Anthony Will Solsol Soplin** (1)
+* **Anthony Will Solsol Soplin** (1) [50179](https://platzi.com/comentario/476796/) 
 ¿A día de hoy sigue siendo una buena alternativa usar Trae.js? Me refiero a que Axios sigue usando XMLHttpRequests hasta ahora, pero es u...
 
-	* **Osmell Caicedo** (1)
+	* **Osmell Caicedo** [50179] (1)
 
-		
 		El tema en mi opinion es compatibilidad, [aquí](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5) pueder ver más al respecto.
 
-* **Glorimar Ramirez** (1)
+* **Glorimar Ramirez** (1) [40209](https://platzi.com/comentario/363154/) 
 Tengo una duda, como utilizaría Trae para consumir una api que posee una Api-Key?, me podrías facilitar un ejemplo genérico del cual guia...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [40209] (1)
 
-		
 		En la documentación oficial esta el como usarlo <https://github.com/Huemul/trae#basic-usage> aquí en params pasas el nombre de la llave como la espera el servicio y el valor de la api-key
 
-* **Sergio Ivan Santacruz Madrigal** (1)
+* **Sergio Ivan Santacruz Madrigal** (1) [39986](https://platzi.com/comentario/360853/) 
 Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas frente a FETCH, sin embargo, al respecto de TRAE no encuentro ...
 
-	* **Brugarolas** (7)
+	* **Brugarolas** [39986] (7)
 
-		
 		Trae.js lleva sin actualizarse año y medio, y no es una librería muy conocida. Yo la verdad es que utilizaría Fetch por ser una API estándar que se incluye en todos los navegadores modernos, o me quedaría con Axios por ser muy conocida, utilizada y estar bien mantenida.
 
-* **Osmell Caicedo** (0)
+* **Osmell Caicedo** (0) [320596](https://platzi.com/comentario/320596/) 
 
-	
 	Promises de Javascript
 
-* **danteddt** (0)
+* **danteddt** (0) [307773](https://platzi.com/comentario/307773/) 
 
-	
 	Comando: Instalacion trae: npm i -S trae
 
-* **Juan Carlos Felizzola Vega** (0)
+* **Juan Carlos Felizzola Vega** (0) [293959](https://platzi.com/comentario/293959/) 
 
-	
 	 **Trae:** Cliente HTTP minimalista para el navegador. Basado en Fetch API, permite que el futuro sea a prueba, tenga una implementación limpia y soporte de transmisión entre otros recursos.
 
-* **Guillermo  Ferru** (0)
+* **Guillermo  Ferru** (0) [230905](https://platzi.com/comentario/230905/) 
 
-	
 	Buenas, estoy intentando realizar un post con parametros utilizando trae, hasta el momento he declarado una clase javascript llamada instrumentos.js:
 	``` 
 	    import instrumentosAppService from './instrumentos-vista'
@@ -24247,19 +23142,16 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 	    tengodudasdequeestoseacorrecto, meexplicancomoseríalamaneracorrectaderealizarlo, gracias
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [230905] (0)
 
-		
 		Hola, por lo que veo el codigo esta correcto. Que te hace dudar que es incorrecto? Funciona o tenes algun error? De ser asi compartilo asi podemos ayudar.
 
-	* **Guillermo  Ferru** (0)
+	* **Guillermo  Ferru** [230905] (0)
 
-		
 		no me funciona, no me llegan los datos al servidor
 
-* **Jorge Luis Quiguango** (0)
+* **Jorge Luis Quiguango** (0) [225475](https://platzi.com/comentario/225475/) 
 
-	
 	Está bueno Trae, Felicitaciones. Tengo una duda, si me ayudan por favor:
 	
 	Si tengo un Api Rest de está manera:
@@ -24270,15 +23162,13 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 	
 	Se puede?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [225475] (2)
 
-		
 		Si claro, pero yo usaría otro patron si sabes que el primer parámetro es la fecha inicial y el segundo es la fecha final yo crearía el endpoint del api así  
 		`http://server/datos/2017-12-03/2017-12-31/` para hacer la petición entonces es `http://server/datos/{fechaInicio}/{fechaFin}/`
 
-	* **Jorge Luis Quiguango** (0)
+	* **Jorge Luis Quiguango** [225475] (0)
 
-		
 		Oh!, buena idea. Y sabes cómo consumirlo con Trae?
 		
 		En la clase consumen esté API REST, lo hace Nacho Amaya:
@@ -24289,9 +23179,8 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 		
 		<http://server/datos/2017-12-03/2017-12-31/>
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [225475] (1)
 
-		
 		Hola, seria de la misma forma:
 		``` 
 		    trae.get(`http://server/datos/${fechaInicio}/${fechaFin}`)
@@ -24300,9 +23189,8 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 		
 		Tene en cuenta que `fechaInicio` y `fechaFin` son variables que tenes que definir.
 
-	* **Jorge Luis Quiguango** (0)
+	* **Jorge Luis Quiguango** [225475] (0)
 
-		
 		Gracias!!!  
 		Lo implemente de está manera el archivo track.js, funciona bien:
 		``` 
@@ -24325,9 +23213,8 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 		    
 		```
 
-* **Freddy Lemus Barrera** (0)
+* **Freddy Lemus Barrera** (0) [210793](https://platzi.com/comentario/210793/) 
 
-	
 	Comunidad platzi tengo una duda, en la consola de browser me arrojaba este error
 	``` 
 	    40:52 Uncaught TypeError: Cannot readproperty 'then' of undefined
@@ -24354,51 +23241,43 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 	¿Por qué sucede esto?, tengo algo desactualizado ?  
 	Gracias comunidad platzi
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [210793] (0)
 
-		
 		Hola, no tienes nada desactualizado y el compartamiento es el esperado, el `return` es necesario ya que tenemos que devolver la `Promise` para luego poder utilizar fuera del servicio:
 		
 		[Aqui](https://github.com/platzi/platzi-music-vue/blob/master/src/services/track.js) esta el codigo original.
 
-	* **Freddy Lemus Barrera** (0)
+	* **Freddy Lemus Barrera** [210793] (0)
 
-		
 		Muchas gracias, super claro.
 
-* **Christian Lopez** (0)
+* **Christian Lopez** (0) [191860](https://platzi.com/comentario/191860/) 
 
-	
 	Hola. He usado trae en mi proyecto y me ha gustado bastante por el tema de los middlewares. Aun así llegue a un punto donde tengo que subir un archivo y no se como seguir. “Trae” me permite enviar un formData??
 
-* **Jorge Isrrael Diaz Montoya** (0)
+* **Jorge Isrrael Diaz Montoya** (0) [182495](https://platzi.com/comentario/182495/) 
 
-	
 	utilice axios para consumir un rest, funcionó, pero quiero consumir uno de spring boot que hice, pero no me deja, por que ??, no me sale ningun error, pero simplemente no me muestra nada
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [182495] (0)
 
-		
 		Nunca use sping boot, eso expone una API REST o como funciona? Por otro lado estas usando axios o trae. Fijate en la parte de network del browser si aparece alguna informacion sobre el request.
 
-	* **Jorge Isrrael Diaz Montoya** (0)
+	* **Jorge Isrrael Diaz Montoya** [182495] (0)
 
-		
 		Hola, utilicé axios, para consumir un rest en json cualquiera, por ejemplo este <http://jsonplaceholder.typicode.com/posts/>, funcionó sin ningún problema, pero yo tengo un rest en heroku, que hice hace tiempo con spring boot, me devuelve lo mismo un rest en json, pero sin embargo no lo puedo consumir en Vue js, como mencioné anteriormente no me da ningún error en la consola al compilar Vue, pero no me muestra la data, como si estuviera en blanco, la verdad no se si sea algún problema del rest…por que como dije antes con otros rest en formato json si funciona…
 
-	* **Jorge Isrrael Diaz Montoya** (0)
+	* **Jorge Isrrael Diaz Montoya** [182495] (0)
 
-		
 		Solucioné el problema, era del rest, que no permitía que lo consuma servicios externos
 
-	* **Jorge Luis Quiguango** (0)
+	* **Jorge Luis Quiguango** [182495] (0)
 
-		
 		Era un problema de CORS allows origins? A mí me pasó.
 		
 		<https://spring.io/guides/gs/rest-service-cors/>
 
-## 0220. Consumir API's REST
+## 0220. Consumir API's REST [7802](https://platzi.com/clases/1145-vuejs-profesional/7802-consumir-api39s-rest/)
 
 ### Descripción:
 
@@ -24417,115 +23296,96 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 
 ### Comentarios:
 
-* **Juan Alberto de Jesus Granados Acosta** (7)
+* **Juan Alberto de Jesus Granados Acosta** (7) [349202](https://platzi.com/comentario/349202/) 
 
-	
 	La API sigue funcionado correctamente!
 	
 	06/08/18
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [349202] (1)
 
-		
 		Geeenial!
 
-	* **David Daniel Castillo Nava** (1)
+	* **David Daniel Castillo Nava** [349202] (1)
 
-		
 		gracias por la info 😄
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (2)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [349202] (2)
 
-		
 		08/03/2019 Y la API continua bien!
 
-	* **carlos-bolivar** (2)
+	* **carlos-bolivar** [349202] (2)
 
-		
 		A fecha 24/03/2019 sigue de maravilla!
 
-	* **Fabian Rivas** (3)
+	* **Fabian Rivas** [349202] (3)
 
-		
 		a 6 de abril de 2019 sigue funcionando perfectamente
 
-	* **wesleyalfaro** (1)
+	* **wesleyalfaro** [349202] (1)
 
-		
 		a 8 de abril de 2019 y todo perfecto
 
-* **Agustin Clemente** (4)
+* **Agustin Clemente** (4) [287512](https://platzi.com/comentario/287512/) 
 
-	
 	Les tengo que confesar algo: de backend estoy usando ASP 😦
 
-	* **Leonidas Esteban Gonzalez** (19)
+	* **Leonidas Esteban Gonzalez** [287512] (19)
 
-		
 		Queda perdonado, ahora rece 5 ave marias
 
-	* **Wilder Hernández García** (1)
+	* **Wilder Hernández García** [287512] (1)
 
-		
 		que tiene de malo?
 
-	* **Wilson Fabian Pérez Sucuzhañay** (1)
+	* **Wilson Fabian Pérez Sucuzhañay** [287512] (1)
 
-		
 		jajaj Se pasa Leonidas pero es verdad pobre ASP jaja pero yo utilizo PHP jajaj
 
-	* **Jorge Palacios** (1)
+	* **Jorge Palacios** [287512] (1)
 
-		
 		Oh no!!
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [901381](https://platzi.com/comentario/901381/) 
 
-	
 	Api funcionando correctamente  
 	04/01/2020
 
-* **alanlapierre** (2)
+* **alanlapierre** (2) [693040](https://platzi.com/comentario/693040/) 
 
-	
 	Api funcionando correctamente  
 	17/08/2019
 
-* **pabletwitt** (2)
-![](https://drive.google.com/file/d/17TShmuV0WBrQF-kHQKW0kSdCILE-WKOI/view?usp=sharing)
+* **pabletwitt** (2) [591693](https://platzi.com/comentario/591693/) 
+	
+	![](https://drive.google.com/file/d/17TShmuV0WBrQF-kHQKW0kSdCILE-WKOI/view?usp=sharing)
 	
 	Estoy intentando invocar el servicio de search de la API de platzi music, pero me esta retornando un error HTTP 402 (Payment Required). ¿Le sucede a alguien mas?
 	
 	Desde ya muchas gracias por cualquier comentario.
 
-	* **pabletwitt** (1)
+	* **pabletwitt** [591693] (1)
 
-		
 		perdón, olvide incluir la URL: [https://platzi-music-api.now.sh/search?q=muchacha&type=track](https://platzi-music-api.now.sh/search?q=muchacha&type=track)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [591693] (2)
 
-		
 		Ya funciona de nuevo!
 
-* **EmmanuelO** (2)
+* **EmmanuelO** (2) [543383](https://platzi.com/comentario/543383/) 
 
-	
 	En que curso se hizo la API de platzi-music??
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [543383] (1)
 
-		
 		en ninguno, la desarrolló el profesor para poder consumirla en el curso peeeero si quieres aprender a crear APIs te recomiendo el curso de Creación de APIs con Ruby on Rails
 
-* **DESTRUN** (2)
+* **DESTRUN** (2) [441349](https://platzi.com/comentario/441349/) 
 
-	
 	La API funciona a dia 05/12/2018
 
-* **Oscar Stevens Cuartas Bejarano** (2)
+* **Oscar Stevens Cuartas Bejarano** (2) [267227](https://platzi.com/comentario/267227/) 
 
-	
 	hola me tira erroe el codigo en el App.vue
 	
 	Uncaught TypeError: Cannot read property ‘then’ of undefined
@@ -24534,34 +23394,29 @@ Hola, he trabajo por mucho con AXIOS y en mi opinión tiene muchas ventajas fren
 	
 	que puede estar pasando?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [267227] (1)
 
-		
 		creo que tienes un error de digitación es trackService no trackServices esto hace que de null y por eso te lanza el error
 
-* **EmmanuelO** (2)
+* **EmmanuelO** (2) [55629](https://platzi.com/comentario/543383/) 
 En que curso se hizo la API de platzi-music??
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [55629] (1)
 
-		
 		en ninguno, la desarrolló el profesor para poder consumirla en el curso peeeero si quieres aprender a crear APIs te recomiendo el curso de Creación de APIs con Ruby on Rails
 
-* **Héctor Tello** (1)
+* **Héctor Tello** (1) [1117195](https://platzi.com/comentario/1117195/) 
 
-	
 	Api funcionando correctamente  
 	09/04/2020
 
-* **AbimaelAvilaT** (1)
+* **AbimaelAvilaT** (1) [1051260](https://platzi.com/comentario/1051260/) 
 
-	
 	Api funcionando correctamente  
 	20/03/2020
 
-* **Angel Santillan Brambila** (1)
+* **Angel Santillan Brambila** (1) [746778](https://platzi.com/comentario/746778/) 
 
-	
 	me marca un error:  
 	`trackService.search(this.searchQuery) .then(res => { this.tracks = res.tracks.items })`  
 	y este error me marca con este codigo App.vue?ea99:43 Uncaught (in promise) TypeError: Cannot read property ‘tracks’ of undefined  
@@ -24569,42 +23424,35 @@ En que curso se hizo la API de platzi-music??
 	
 	dice que es undefinida sabran a que se deba jeje?
 
-* **Kingsman7** (1)
+* **Kingsman7** (1) [740626](https://platzi.com/comentario/740626/) 
 
-	
 	no hay material para el reto!! o no lo veo. si existe por favor el link gracias
 
-* **Kingsman7** (1)
+* **Kingsman7** (1) [740622](https://platzi.com/comentario/740622/) 
 
-	
 	Api ok 17/09/2019
 
-* **villaplana98** (1)
+* **villaplana98** (1) [634551](https://platzi.com/comentario/634551/) 
 
-	
 	Api funcionando correctamente  
 	1/07/2019
 
-* **Xavier Alexandro Basir Jeffrey** (1)
+* **Xavier Alexandro Basir Jeffrey** (1) [595002](https://platzi.com/comentario/595002/) 
 
-	
 	Api funcionando correctamente!
 	
 	23/05/19
 
-* **Xavier Alexandro Basir Jeffrey** (1)
+* **Xavier Alexandro Basir Jeffrey** (1) [595000](https://platzi.com/comentario/595000/) 
 
-	
 	Disculpen, donde está el material de texto para el reto de este vídeo?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [595000] (1)
 
-		
 		Ya reviso!
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [561890](https://platzi.com/comentario/561890/) 
 
-	
 	¿Cual es la diferencia de usar llaves o no en la importación?
 	``` 
 	    import trackService from'./services/track.js'
@@ -24613,9 +23461,8 @@ En que curso se hizo la API de platzi-music??
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [561890] (1)
 
-		
 		Primero es
 		``` 
 		    import { trackService } from'./services/track.js'
@@ -24626,77 +23473,64 @@ En que curso se hizo la API de platzi-music??
 		
 		Puedes aprender más sobre los diferentes tipos de import y su uso aquí <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import>
 
-* **Cristhian Daza** (1)
+* **Cristhian Daza** (1) [556956](https://platzi.com/comentario/556956/) 
 
-	
 	¿Cómo podría consultar una API con Tokens?
 
-	* **Angel Hernandez** (2)
+	* **Angel Hernandez** [556956] (2)
 
-		
 		Con la cabecera “Authorization”, aunque todo depende de la api, algunas utilizan este método y otras directamente adjuntan el token como parámetro tipo GET
 
-	* **Cristhian Daza** (1)
+	* **Cristhian Daza** [556956] (1)
 
-		
 		Gracias @angel998 lo intentare, llevaba meses buscando como hacerlo.
 
-* **Nuviyao** (1)
+* **Nuviyao** (1) [551675](https://platzi.com/comentario/551675/) 
 
-	
 	Alguién tiene el mismo problema? [WDS] Disconnected!  
 	![Screenshot from 2019-04-03 17-51-54.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-04-03%2017-51-54-5fd881f8-9f90-4713-9bc1-016f810fba17.jpg)
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [551675] (1)
 
-		
 		Te persiste el problema?
 
-	* **omar-munoz-coronado** (1)
+	* **omar-munoz-coronado** [551675] (1)
 
-		
 		tengo el mismo problema, como lo solucionaste??
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [530968](https://platzi.com/comentario/530968/) 
 
-	
 	Hola!
 	
 	Les pido su ayuda para aclararme una duda. Estoy un poco confundido con el uso de una arrow function en el método search del componente. Por qué aquí sí se utilizó y sí funcionó bien, si la documentación de vue.js y el profesor mismo recomiendan no usarlas?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [530968] (2)
 
-		
 		El cuidado que hay que tener con las arrow functions es que ellas automáticamente hacen bind de las propiedades haciendo por ejemplo que el this dentro del arrow function sea el mismo this global, si no eres consiente de esto vas a tener errores en el funcionamiento y no es fácil detectar este tipo de problemas.
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [530968] (1)
 
-		
 		Gracias @GOLLUM23 Eres un master!  
 		Me parece que entendí, igual haré unas pruebas para comprender mejor.
 		
 		Saludos!
 
-* **Melvin Hernández** (1)
+* **Melvin Hernández** (1) [496389](https://platzi.com/comentario/496389/) 
 
-	
 	La API sigue funcionado correctamente!
 	
 	31/01/19
 
-* **Kirlled Anderson Araque** (1)
+* **Kirlled Anderson Araque** (1) [472584](https://platzi.com/comentario/472584/) 
 
-	
 	API funcionando 9/1/19
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [472584] (1)
 
-		
 		Genial, gracias por la info 😃!
 
-* **Jafet López Chaves** (1)
+* **Jafet López Chaves** (1) [450120](https://platzi.com/comentario/450120/) 
 
-	
 	Pueden eliminar el botón y usar un watch para observar los cambios del input:text
 	``` 
 	    <script>
@@ -24738,14 +23572,12 @@ En que curso se hizo la API de platzi-music??
 	    
 	```
 
-* **Cesar Becerra** (1)
+* **Cesar Becerra** (1) [406683](https://platzi.com/comentario/406683/) 
 
-	
 	**API DOWN**
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396630](https://platzi.com/comentario/396630/) 
 
-	
 	Resultado:
 	``` 
 	    <templatelang="pug">
@@ -24798,31 +23630,26 @@ En que curso se hizo la API de platzi-music??
 	    
 	```
 
-* **Vktor** (1)
+* **Vktor** (1) [346847](https://platzi.com/comentario/346847/) 
 
-	
 	que tanto me cambiaría el desarrollo del ejemplo durante el curso si utilizo otra Api? (en lugar de [platzi-music-api.now.sh](http://platzi-music-api.now.sh))  
 	me funciona sin problemas pero es mera curiosidad  
 	otras alternativas?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [346847] (2)
 
-		
 		Funcionaría, solo debes adaptar los datos y las llamadas dependiendo de la documentación del api que quieres consumir.
 
-* **axlina90** (1)
+* **axlina90** (1) [322285](https://platzi.com/comentario/322285/) 
 
-	
 	Disculpe, cual es el reto que el profesor se refiere? revise los enlaces pero el único que veo diferente es pagination, a ese es que se refiere?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [322285] (2)
 
-		
 		No, se refiere a usar una api diferente al de spotify. vamos a ver que paso con el documento y lo publicamos.
 
-* **Julio César Perdomo Correa** (1)
+* **Julio César Perdomo Correa** (1) [297147](https://platzi.com/comentario/297147/) 
 
-	
 	Estoy obteniendo el erro cannot read property ‘then’ of undefined  
 	Mi código es el siguiente
 	``` 
@@ -24857,14 +23684,12 @@ En que curso se hizo la API de platzi-music??
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [297147] (1)
 
-		
 		trackService.search() esta retornando indefinido por esto falla, puedes compartir tu archivo track.js para ayudarte a encontrar el problema.
 
-	* **Julio César Perdomo Correa** (0)
+	* **Julio César Perdomo Correa** [297147] (0)
 
-		
 		Seguro, el track.js es el siguiente
 		``` 
 		    import platziMusicService from './platzi-music'
@@ -24884,9 +23709,8 @@ En que curso se hizo la API de platzi-music??
 		    
 		```
 
-	* **Julio César Perdomo Correa** (3)
+	* **Julio César Perdomo Correa** [297147] (3)
 
-		
 		Ya lo resolví, lo que pasa es que no le indiqué a vue que retornara el objeto platziMusicService,  
 		quedando de la siguiente manera
 		``` 
@@ -24896,35 +23720,30 @@ En que curso se hizo la API de platzi-music??
 		    
 		```
 
-* **rperalta** (1)
+* **rperalta** (1) [283259](https://platzi.com/comentario/283259/) 
 
-	
 	Me dice que el api es privada y que no se puede entrar
 	
 	Uncaught (in promise) TypeError: Failed to fetch  
 	localhost/:1 Failed to load [http://platzi-music-api.now.sh/search?q=muchacha&type=track:](http://platzi-music-api.now.sh/search?q=muchacha&type=track:) Redirect from ‘[http://platzi-music-api.now.sh/search?q=muchacha&type=track](http://platzi-music-api.now.sh/search?q=muchacha&type=track)’ to ‘[https://platzi-music-api.now.sh/search?q=muchacha&type=track](https://platzi-music-api.now.sh/search?q=muchacha&type=track)’ has been blocked by CORS policy: No ‘Access-Control-Allow-Origin’ header is present on the requested resource. Origin ‘<http://localhost:8080>’ is therefore not allowed access. If an opaque response serves your needs, set the request’s mode to ‘no-cors’ to fetch the resource with CORS disabled.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [283259] (6)
 
-		
 		Es porque estas ejecutando tu aplicación desde local y es un problema con CORS, busca una extensión que existe para chrome que te ayuda con ese problema, <https://chrome.google.com/webstore/search/cors> puedes usar la primera o segunda que aparece.
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [283259] (1)
 
-		
 		CORS no puede ser solucionado a nivel de FrontEnd. Es un tema de autorización del BackEnd  
 		Por tanto quien elabore el API es responsable de habilitar dicha configuraciion
 
-* **wjcg42** (1)
+* **wjcg42** (1) [248253](https://platzi.com/comentario/248253/) 
 
-	
 	Hola chicos, en la practica tuve unos problemitas conectandome al API, pero eran errores de mi tipeo.
 	
 	el api funciona correctamente: 26/01/2018!
 
-* **increnta** (1)
+* **increnta** (1) [197349](https://platzi.com/comentario/197349/) 
 
-	
 	El api está caido -.-, da un error de crossdomain además de que la propia aplicación da un error al llamar al api de spotify generando el siguiente error:
 	
 	Failed to load resource: the server responded with a status of 401 (Unauthorized)  
@@ -24932,77 +23751,65 @@ En que curso se hizo la API de platzi-music??
 	[error]  
 	[message]: “No token provided”
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [197349] (0)
 
-		
 		Gracias por avisar! ya lo solucionaremos =)
 
-	* **increnta** (1)
+	* **increnta** [197349] (1)
 
-		
 		Ya y mientras lo solucoinan como sigo con el curso?
 
-	* **Luis Angel Vásquez Nepomuceno** (5)
+	* **Luis Angel Vásquez Nepomuceno** [197349] (5)
 
-		
 		Hola, creo que siempre podemos buscar nuestros propios recursos con la idea de que en el mundo fuera de Platzi no tendremos recetas con todo preparado, tendremos retos que nos impulsaran a buscar, e incluso crear, cosas súper geniales. Encontré esto en internet, espero te sea de utilidad:  
 		[API’s públicas](http://www.enrique7mc.com/2016/05/lista-apis-publicas/)
 
-* **Cristofer Fuentes Barra** (1)
+* **Cristofer Fuentes Barra** (1) [188679](https://platzi.com/comentario/188679/) 
 
-	
 	¿y donde esta el ejercicio que comenta al final del video? no hay ningún material de texto siguiente a este video 😦
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [188679] (1)
 
-		
 		hey lo agregaremos y te aviso en cuanto está
 
-	* **AyKaren** (0)
+	* **AyKaren** [188679] (0)
 
-		
 		Ya están los enlaces de Github en la pestaña de “enlaces” en la parte superior 😉
 
-	* **Juan Sifontez** (0)
+	* **Juan Sifontez** [188679] (0)
 
-		
 		Hola @AyKaren estuve revisando en los enlaces, sin embargo, lo que aparecen son ejercicios de paginación que no están relacionados con lo que dice Ignacio. Me pregunto si no tienen los ejercicios ahora o si son esos a los que se refiere el profesor? gracias por la atención 😄
 
-	* **luisantoniome** (0)
+	* **luisantoniome** [188679] (0)
 
-		
 		Igual estaba buscando el ejercicio y no lo encontré…
 
-* **Rodolfo Esteban Crisanto Rosas** (1)
+* **Rodolfo Esteban Crisanto Rosas** (1) [64067](https://platzi.com/comentario/669585/) 
 Disculpen, tengo este error: [Vue warn]: Error in v-on handler: “TypeError: Cannot read property ‘then’ of undefined” este es mi método, ...
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [64067] (2)
 
-		
 		¿Ya revisaste si tienes trackServices importado a tu componente?
 
-* **Xavier Alexandro Basir Jeffrey** (1)
+* **Xavier Alexandro Basir Jeffrey** (1) [59721](https://platzi.com/comentario/595000/) 
 Disculpen, donde está el material de texto para el reto de este vídeo?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [59721] (1)
 
-		
 		Ya reviso!
 
-* **pabletwitt** (1)
+* **pabletwitt** (1) [59481](https://platzi.com/comentario/591693/) 
 Estoy intentando invocar el servicio de search de la API de platzi music, pero me esta retornando un error HTTP 402 (Payment Required). ...
 
-	* **pabletwitt** (1)
+	* **pabletwitt** [59481] (1)
 
-		
 		perdón, olvide incluir la URL: [https://platzi-music-api.now.sh/search?q=muchacha&type=track](https://platzi-music-api.now.sh/search?q=muchacha&type=track)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57204](https://platzi.com/comentario/561890/) 
 ¿Cual es la diferencia de usar llaves o no en la importación? import trackService from './services/track.js' import { trackService...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57204] (1)
 
-		
 		Primero es
 		``` 
 		    import { trackService } from'./services/track.js'
@@ -25013,57 +23820,50 @@ Estoy intentando invocar el servicio de search de la API de platzi music, pero m
 		
 		Puedes aprender más sobre los diferentes tipos de import y su uso aquí <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import>
 
-* **Cristhian Daza** (1)
+* **Cristhian Daza** (1) [56787](https://platzi.com/comentario/556956/) 
 ¿Cómo podría consultar una API con Tokens?
 
-	* **Angel Hernandez** (2)
+	* **Angel Hernandez** [56787] (2)
 
-		
 		Con la cabecera “Authorization”, aunque todo depende de la api, algunas utilizan este método y otras directamente adjuntan el token como parámetro tipo GET
 
-* **Nuviyao** (1)
+* **Nuviyao** (1) [56360](https://platzi.com/comentario/551675/) 
 Alguién tiene el mismo problema? [WDS] Disconnected!
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [56360] (1)
 
-		
 		Te persiste el problema?
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [54519](https://platzi.com/comentario/530968/) 
 Hola! Les pido su ayuda para aclararme una duda. Estoy un poco confundido con el uso de una arrow function en el método search del compon...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [54519] (2)
 
-		
 		El cuidado que hay que tener con las arrow functions es que ellas automáticamente hacen bind de las propiedades haciendo por ejemplo que el this dentro del arrow function sea el mismo this global, si no eres consiente de esto vas a tener errores en el funcionamiento y no es fácil detectar este tipo de problemas.
 
-* **iRafael** (1)
+* **iRafael** (1) [49977](https://platzi.com/comentario/474147/) 
 Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar mucho gusto.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [49977] (1)
 
-		
 		No veo nada raro en el código al parecer fue un error temporal en la respuesta del API por el tipo de error que retorna, es algo sobre no encontrar la url.
 
-* **iRafael** (0)
+* **iRafael** (0) [474147](https://platzi.com/comentario/474147/) 
 
-	
 	Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar mucho gusto.  
 	![Error.PNG](https://static.platzi.com/media/user_upload/Error-94a96051-ebef-4df1-9ed9-6239ad0fc43b.jpg)
 	
 	![track.PNG](https://static.platzi.com/media/user_upload/track-d9fe1813-c0d4-43a2-9ef3-ebdd60373f4c.jpg) ![App.PNG](https://static.platzi.com/media/user_upload/App-e174b486-59a4-4ab1-8d0c-75e3e83c35f7.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [474147] (1)
 
-		
 		No veo nada raro en el código al parecer fue un error temporal en la respuesta del API por el tipo de error que retorna, es algo sobre no encontrar la url.
 
-	* **iRafael** (1)
+	* **iRafael** [474147] (1)
 
-		
 		Gracias si era temporal el error, igual te agradezco por la observación
 
-* **William Eduardo Meza** (0)
+* **William Eduardo Meza** (0) [311298](https://platzi.com/comentario/311298/) 
 
 	```
 	    <templatelang="pug">
@@ -25125,68 +23925,56 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 	    
 	```
 
-* **danteddt** (0)
+* **danteddt** (0) [307787](https://platzi.com/comentario/307787/) 
 
-	
 	NOTA: Truthy and Falsy values en javascript
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [283639](https://platzi.com/comentario/283639/) 
 
-	
 	cuando agrego la liga  
 	no me salen los datos dentro de la API…  
 	se encuentra algun error? en la api?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [283639] (0)
 
-		
 		Hola, la API esta funcionando y no hay errores en los logs. Podrias chequear si en la consola del navegador tenes algun error y verificar que la llamanda a la API no esta devolviendo un error?
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [280025](https://platzi.com/comentario/280025/) 
 
-	
 	la lista de canciones no funsionan?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [280025] (1)
 
-		
 		Te da algún error en la consola de chrome o del navegador que usas?
 
-* **ImFranQ** (0)
+* **ImFranQ** (0) [265979](https://platzi.com/comentario/265979/) 
 
-	
 	Muero con axios.
 
-* **Yefferson Guarnizo** (0)
+* **Yefferson Guarnizo** (0) [254554](https://platzi.com/comentario/254554/) 
 
-	
 	pregunta, cual es el curso donde dice que hicieron la api:  
 	<https://platzi-music-api.now.sh>  
 	?? 😮 😮
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [254554] (2)
 
-		
 		La api no se construyo en un curso, esta hecha para el uso de este curso, a lo que se refiere el profesor es el servicio de platzi music que se creo en la clase anterior para poder hacer las peticiones usando trae.
 
-	* **Yefferson Guarnizo** (0)
+	* **Yefferson Guarnizo** [254554] (0)
 
-		
 		aaahhh ok ok jeje 😦 muchas gracias
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [254554] (1)
 
-		
 		Si te interesa el codigo de la API lo podes ver aca: <https://github.com/ianaya89/platzi-music-api>
 
-* **Julian Ferronato** (0)
+* **Julian Ferronato** (0) [241205](https://platzi.com/comentario/241205/) 
 
-	
 	Nunca existió el desafió con la otra API REST verdad?
 
-* **Jorge Luis Quiguango** (0)
+* **Jorge Luis Quiguango** (0) [230710](https://platzi.com/comentario/230710/) 
 
-	
 	Saludos, si me ayudan por favor con una duda. Puedo llamar a dos eventos, uno despues del otro en el:
 	``` 
 	    a.button.is-info.is-large(@click="search") Buscar
@@ -25201,38 +23989,32 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 	
 	Se puede? Gracias
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [230710] (1)
 
-		
 		Hola, no es posible ya que las directivas solo se pueden establecer una vez. En este caso solo te tomara el valor de la primera que pongas (`update`).
 		
 		Lo que podes hacer es crear un nuevo metodo para asociar a la directiva `click` y que este metodo internamente llama a los metodos `search` y `update`
 
-* **Juan Sifontez** (0)
+* **Juan Sifontez** (0) [226776](https://platzi.com/comentario/226776/) 
 
-	
 	Pueden ayudarme con este error por favor:
 	
 	`Uncaught TypeError: __WEBPACK_IMPORTED_MODULE_0__services_track__.a.search(...).them is not a function`
 
-	* **Juan Sifontez** (0)
+	* **Juan Sifontez** [226776] (0)
 
-		
 		ocurre cuando le doy buscar para utilizar la api
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [226776] (2)
 
-		
 		es **then** no them
 
-	* **Juan Sifontez** (0)
+	* **Juan Sifontez** [226776] (0)
 
-		
 		Gracias @GOLLUM23 yo y mis errores de tipeo xd
 
-* **Alvaro Emmanuel Monrreal Alonso** (0)
+* **Alvaro Emmanuel Monrreal Alonso** (0) [209521](https://platzi.com/comentario/209521/) 
 
-	
 	Que tal Nacho, tengo una duda con Vuejs espero me puedas ayudar, ya que implemente en mi proyecto algo parecido al boton de cargar más del proyecto en la parte de bonus, donde utilizabamos el offset y lo poniamos a 0… bueno, el problema es que como estoy utilizando un componente de sugerencias de los productos que tengoo en mi api esta parte no me funciona muy bien … espero me puedas ayudar
 	``` 
 	    <template>
@@ -25363,20 +24145,17 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [209521] (2)
 
-		
 		Puedes describir que problema tienes, el `no me funciona muy bien` no ayuda para saber que problema tenemos que buscar para solucionar.
 
-* **Alexander  Silvera** (0)
+* **Alexander  Silvera** (0) [198235](https://platzi.com/comentario/198235/) 
 
-	
 	Una consulta la dirección <https://platzi-music-api.now.sh> de donde la saco, porque yo ahora quiero entrar a la aplicación con otra url mia y no me aparece en el navegador??  
 	Si alguien puede ayudarme con eso, porque no se si yo tengo que crear la url con [now.sh](http://now.sh)??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [198235] (1)
 
-		
 		Esa url es un backend que se si hizo para el curso, cuando entras retorna un json, dependiendo del recurso al que entres.
 		
 		Acabo de probar y esta funcionando, esto es lo que me retorna hacer la petición a <https://platzi-music-api.now.sh/>.
@@ -25390,25 +24169,21 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 		
 		Puedes especificar mejor que necesitas o que estas intentando hacer.
 
-	* **Alexander  Silvera** (0)
+	* **Alexander  Silvera** [198235] (0)
 
-		
 		Esta bien es que no entendía de donde lo había sacado, para poder personalizarlo. Gracias
 
-* **Aldo  Morales Saldarriaga** (0)
+* **Aldo  Morales Saldarriaga** (0) [189237](https://platzi.com/comentario/189237/) 
 
-	
 	Siempre me sale el error 400  
 	Uncaught (in promise) Error
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [189237] (0)
 
-		
 		Checa si la `URL` es correcta, tanto el dominio de la API como el path al request. Tambien podes compartir el codigo aca para que podamos verlo.
 
-* **javier alejandro segovia** (0)
+* **javier alejandro segovia** (0) [188202](https://platzi.com/comentario/188202/) 
 
-	
 	me dice:Property or method “searchMessage” is not defined on the instance but referenced during render. Make sure to declare reactive data properties in the data option.
 	
 	found in
@@ -25416,14 +24191,12 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 	—> <App> at C:\Users\maste\Desktop\vue\platzi-music\src\App.vue  
 	<Root>
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [188202] (1)
 
-		
 		Tienes `searchMessage` definido dentro de data()?, al parecer quieres usar esa propiedad en el componente pero no esta definido.
 
-	* **Cristofer Fuentes Barra** (0)
+	* **Cristofer Fuentes Barra** [188202] (0)
 
-		
 		searchMessage no tiene que estas dentro de data por que es una propiedad computada, debería estar dentro de computen:
 		``` 
 		    computed: {
@@ -25432,9 +24205,8 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 		      }```
 		```
 
-* **javier alejandro segovia** (0)
+* **javier alejandro segovia** (0) [188201](https://platzi.com/comentario/188201/) 
 
-	
 	Tengo un problema tengo un error:  
 	if (config.warnHandler) {  
 	config.warnHandler.call(null, msg, vm, trace);  
@@ -25443,27 +24215,23 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 	}  
 	};
 
-* **Juan Luis Rojas León** (0)
+* **Juan Luis Rojas León** (0) [186145](https://platzi.com/comentario/186145/) 
 
-	
 	¿Esta api es totalmente open source?  
 	¿No hay ninguna restricción al usarla?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [186145] (2)
 
-		
 		El api se hizo para el curso, puede que se apague si no se hacen request, now apaga el servicio.
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [186145] (2)
 
-		
 		La API es wrapper a la API de Spotify, la cual es gratuita pero para utilizarla tenes que autenticar los request y ver como hacer eso se iba del alcance del curso. De hecho antes al API de Spotify tenia un comportamiento diferente y tuvimos que crear este wrapper.
 		
 		[Aca](https://github.com/ianaya89/platzi-music-api) podes ver el codigo de la API por si te interesa.
 
-* **Carlos Andrés Millan Satizabal** (0)
+* **Carlos Andrés Millan Satizabal** (0) [185800](https://platzi.com/comentario/185800/) 
 
-	
 	Tengo un problema con la visulización de los datos, me aparece en forma de columnas y no en forma de lista como aparece en el video.
 	
 	Así tengo el template:
@@ -25476,109 +24244,91 @@ Buenas tardes me encuentro con este inconveniente por favor si me pueden ayudar 
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [185800] (1)
 
-		
 		Puedes mostrar como se esta viendo, no tengo claro el problema
 
-	* **Carlos Andrés Millan Satizabal** (0)
+	* **Carlos Andrés Millan Satizabal** [185800] (0)
 
-		
 		Gracias, ya lo arreglé, es que me faltó colocar .multiline en .columns
 
-* **axlina90** (0)
+* **axlina90** (0) [36453](https://platzi.com/comentario/322285/) 
 Disculpe, cual es el reto que el profesor se refiere? revise los enlaces pero el único que veo diferente es pagination, a ese es que se refi
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [36453] (2)
 
-		
 		No, se refiere a usar una api diferente al de spotify. vamos a ver que paso con el documento y lo publicamos.
 
-# Sistema de Componentes
+# Sistema de Componentes [1342]
 
-## 0230. Component
+## 0230. Component [7803](https://platzi.com/clases/1145-vuejs-profesional/7803-component/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Luis Lacruz** (5)
+* **Luis Lacruz** (5) [221698](https://platzi.com/comentario/221698/) 
 
-	
 	¿ Cual es el nombre del plugin para el autocomplete que utilizas para atom ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [221698] (3)
 
-		
 		Creo que es este <https://atom.io/packages/vuejs2-snippets>
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [221698] (0)
 
-		
 		no saben cual es el nombre de uno para sublimetext 3?
 
-	* **Flor Viviana  Mireles Rivera** (0)
+	* **Flor Viviana  Mireles Rivera** [221698] (0)
 
-		
 		como puedo agregar el plugin al atom?
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [221698] (1)
 
-		
 		Creo que es este: <https://atom.io/packages/language-vue>.
 
-* **Angel Infanti** (3)
+* **Angel Infanti** (3) [606283](https://platzi.com/comentario/606283/) 
 
-	
 	Me esta gustando mucho este framework
 
-* **Andres Rivera** (2)
+* **Andres Rivera** (2) [781212](https://platzi.com/comentario/781212/) 
 
-	
 	plugin ára VSCode = Vue VSCode Snippets
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [562627](https://platzi.com/comentario/562627/) 
 
-	
 	Un componente registrado de forma global, lo puedes implementar o invocar en cualquier parte (componente o subcomponente) de tu aplicación.  
 	Un componente registrado de forma local, le indicas a vue donde especificamente vas a utilizar dicho componente.
 
-	* **Michael Rodriguez** (2)
+	* **Michael Rodriguez** [562627] (2)
 
-		
 		Tu revelacion es muy certera, pero es mejor que los llamemos componentes Padres y Hijos, ya que casi en la mayoria de los libros y recursos asi esta estandarizado.
 
-* **Luis Donaldo Lopez Gil** (2)
+* **Luis Donaldo Lopez Gil** (2) [479104](https://platzi.com/comentario/479104/) 
 
-	
 	Para reafirmar:  
 	import para archivos .vue llevan .vue, los .js no llevan .js
 
-* **Nacxit** (1)
+* **Nacxit** (1) [997326](https://platzi.com/comentario/997326/) 
 
-	
 	Los componentes son parte de logica por ejemplo un boton donde puede ser reutilizable en otro view componente se pueden utilizar de forma global como tambien de manea local, los componente globales son aquellos que pueden ser utilizando en cualquier componente relacionado con el proyecto y los componente los locales solo pueden ser utilizados por el componente que lo llama o importa
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [901602](https://platzi.com/comentario/901602/) 
 
-	
 	Los componentes pueden ser globales para estar disponibles en toda nuestra aplicacion o ser llamados de forma local en el archivo donde va ha ser usado.  
 	Es recomendable hacer usos de los componentes y llamarlos de forma local.
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [478892](https://platzi.com/comentario/478892/) 
 
-	
 	Antes de empezar el video debo decir, que buena playera 😃
 
-* **pblfergt** (1)
+* **pblfergt** (1) [181506](https://platzi.com/comentario/181506/) 
 
-	
 	¿Cual es la diferencia entre un child y un local component?
 
-	* **Nacho Anaya** (21)
+	* **Nacho Anaya** [181506] (21)
 
-		
 		Child y local son simplemente nombres que elegimos. Se supone que todos los componentes que re utilizas son hijos de otro componente.
 		
 		En realidad la diferencia esta en como instalas un componente, esa instalacion puede ser local o global. En el video el `ChildComponent` es un componente local, eso quiere decir que lo inyectas en el `main.js` y lo haces accesible inmediatamente en todos los componentes. Eso esta bueno porque es mas facil pero por otro lado estas cargando algo en lugares donde seguramente no lo utilices.
@@ -25587,108 +24337,90 @@ Disculpe, cual es el reto que el profesor se refiere? revise los enlaces pero el
 		
 		Pero recorda que en definitiva todos los componentes (menos el principal), son child (o hijos), ya que los insertas dentro de otros.
 
-	* **pblfergt** (1)
+	* **pblfergt** [181506] (1)
 
-		
 		Muchas gracias, cabal en el punto.
 
-* **rodolfomontes** (0)
+* **rodolfomontes** (0) [306019](https://platzi.com/comentario/306019/) 
 
-	
 	Un [snippet](https://github.com/filipelinhares/vuejs-snippets-sublime) de Vue para los que usan sublime.
 	
 	Solo escriban vuec + tab para generar el template que muestra Nacho.
 	
 	Repo: <https://github.com/filipelinhares/vuejs-snippets-sublime>
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [306019] (1)
 
-		
 		Oye gracias por el dato.  
 		Se ve genial el plugin
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [231950](https://platzi.com/comentario/231950/) 
 
-	
 	Hola como puedo agragar una imagen en vue.js?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [231950] (4)
 
-		
 		Pones la imagen en una carpeta de images dentro de assets y la importas usando la etiqueta img.
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [231548](https://platzi.com/comentario/231548/) 
 
-	
 	Hola como puedo agregar componentes pero en lugar de ser formato .vue que sea .html
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [231548] (3)
 
-		
 		Lo que quieres es tener por ejemplo una página estática que sea solo html?
 
-	* **Flor Viviana  Mireles Rivera** (0)
+	* **Flor Viviana  Mireles Rivera** [231548] (0)
 
-		
 		ya arregle el problema con laravel ^^
 
-* **Christian Lopez** (0)
+* **Christian Lopez** (0) [186204](https://platzi.com/comentario/186204/) 
 
-	
 	No me queda claro el por que poner un componente de forma global afecta el rendimiento de la SPA. No se supone que como es una SPA toda la aplicación es cargada en el cliente??
 
-	* **Nacho Anaya** (11)
+	* **Nacho Anaya** [186204] (11)
 
-		
 		Puede afectar el rendimiento ya que ese componente va a estar cargado en memoria y sin que necesariamente se utilice. Mejor dicho usarlo local en lugar de global seria una optimización de recursos. Esto tiene mas sentido cuando usas tecnicas mas avanzadas como “code splitting” o componentes asincronos. Pero de todos modos puede ayudarte a reducir el tamaño del bundle final evitando cargar cosas que no utilizas.
 
-## 0240. Creación de componentes
+## 0240. Creación de componentes [7804](https://platzi.com/clases/1145-vuejs-profesional/7804-creacion-de-componentes4480/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **wjcg42** (12)
+* **wjcg42** (12) [250498](https://platzi.com/comentario/250498/) 
 
-	
 	Con pug cometo muchos errores de identación. Mi objetivo es manejar VUE js como un crack y me tardo resolviendo temas de pug. Es problematico sí lo hago a la antigua?; Obviamente solo me hace falta practica
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [250498] (3)
 
-		
 		Puedes hacerlo sin usar pug y escribir tus templates en html normal, no vas a tener ningún problema.
 
-	* **wjcg42** (1)
+	* **wjcg42** [250498] (1)
 
-		
 		Hablo de las buenas practicas blah blah.
 
-	* **Omar Flores Grimontt** (1)
+	* **Omar Flores Grimontt** [250498] (1)
 
-		
 		Hola Winston, ¿cual IDE utilizas? Atom puedes configurarlo para que te muestre una guía de identación, y te va a facilitar muchísimo ese tema al usar pug.
 		
 		Igualmente no creo que usar pug o no tenga mucho que ver con las buenas prácticas, es más una cuestión de preferencias.
 
-	* **Nacho Anaya** (9)
+	* **Nacho Anaya** [250498] (9)
 
-		
 		Hola, el uso de PUG es solo un valor agregado extra al curso. Puedes usar perfectamente HTML para tu codigo, no hay problema con eso. Usar PUG o no, no es una buena o mala practica. Ambas maneras son correctas. En mi opinion PUG permite un codigo mas limpio, ordenado y rapido y suele usarse bastante en el ecosistema Vue pero no es un estandard. Por lo cual sentite libre de usar HTML.
 
-	* **Roarraerald** (1)
+	* **Roarraerald** [250498] (1)
 
-		
 		Una buena alternativa es utilizar Visual Code, ayuda bastante con la identación y adicionalmente puedes instalar algunos plugins para Vuejs para agilizar la escritura de código.
 
-	* **RAUL FRANCISCO NAVARRO SALVO** (2)
+	* **RAUL FRANCISCO NAVARRO SALVO** [250498] (2)
 
-		
 		es muy útil que aprendas pug ,es aplicaciones grandes,mas de 5000 lineas de html ,las puedes minimizar y ordenar a 1500 usando pug. yo al inicio no quería aprender pug, sin embargo cuando llegué al mundo laboral me di cuenta la gran utilidad que tiene. si estas modificando un div en la linea 500 y el div padre se cierra en la linea 1500 es una paja buscar el div. sin embargo con pug solo tienes que ver la identa y descubrirás mucho más rápido el “cierre”
 
-* **Juan Carlos Felizzola Vega** (8)
+* **Juan Carlos Felizzola Vega** (8) [294068](https://platzi.com/comentario/294068/) 
 
-	
 	Para el **Header** tuve que usar la nueva versión de **Bulma** :
 	``` 
 	    section.hero.is-success
@@ -25707,79 +24439,65 @@ Disculpe, cual es el reto que el profesor se refiere? revise los enlaces pero el
 	    
 	```
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [294068] (1)
 
-		
 		Buen dato 👆 Muchas gracias!
 
-* **JoosCode** (6)
+* **JoosCode** (6) [525253](https://platzi.com/comentario/525253/) 
 
-	
 	Usar pug es buenísimo y veo que es una buena practica porque te agiliza el trabajo de codeo. Pero visualmente tiende a confundir un poco por el tema de indentacion, de leer el codigo si tiene mas de 300 lineas de codigo en html
 
-	* **Kingsman7** (1)
+	* **Kingsman7** [525253] (1)
 
-		
 		pienso igual que tu. Bien PUG
 
-* **MauricioHernanCabrera** (5)
+* **MauricioHernanCabrera** (5) [228449](https://platzi.com/comentario/228449/) 
 
-	
 	Un plugin para sublimetext de emojis es  
 	<https://packagecontrol.io/packages/Emoji>
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [228449] (1)
 
-		
 		Soy yo, o los emojis no los muestra en color como en la documentación.
 
-* **Mateo Santiago Zapata Maldonado** (4)
+* **Mateo Santiago Zapata Maldonado** (4) [544077](https://platzi.com/comentario/544077/) 
 
-	
 	Odio los cursos Asi, ¿porque Pug?, enserio, ¿porque?
 
-	* **Carlos Fuentes** (6)
+	* **Carlos Fuentes** [544077] (6)
 
-		
 		Si no te gusta no lo uses, yo he seguido todo el curso usando puro HTML
 
-	* **Alejandro González Reyes** (2)
+	* **Alejandro González Reyes** [544077] (2)
 
-		
 		Hola, entiendo que hasta cierto punto estés abrumado por una tecnología adicional abordada durante el curso.  
 		Al inicio cuando trabajé con pug le encontré muchas virtudes, entre ellas en tener que evitar cerrar tags.  
 		Si lo vez es más conciso, sobre todo cuando se hace uso excesivo de clases css.  
 		Creo que tu problema viene a razón de que en ocasiones frecuentes no te compila. Es solo de dedicar 30 minutos a leer la documentación básica.
 
-	* **Angel Infanti** (2)
+	* **Angel Infanti** [544077] (2)
 
-		
 		Se puede hacer el curso perfectamente con puro html
 
-	* **Mateo Santiago Zapata Maldonado** (1)
+	* **Mateo Santiago Zapata Maldonado** [544077] (1)
 
-		
 		js con estilo, tu sarcasmo no funciona en mi 😉
 
-	* **Mateo Santiago Zapata Maldonado** (1)
+	* **Mateo Santiago Zapata Maldonado** [544077] (1)
 
-		
 		Lo reitero y jamas cambiare mi opinion, creo que es innecesario trabajar con una tecnologia que dificulta el aprendizaje, no es que no la entienda, eso es mas facil que entender paint, esto deben re-evaluarlo mucho, por algo egghead enseña algo y sus cursos no duran mas de 2 minutos 😃
 
-	* **Cristopher Paniagua Sánchez** (2)
+	* **Cristopher Paniagua Sánchez** [544077] (2)
 
-		
 		Para mi gusto `pug` no es nada efectivo a la hora de trabajar ya en proyectos reales, el código pierde legibilidad y aumenta la curva de aprendizaje en proyectos de gran escala, no solo para nuevos desarrolladores, también para los que ya tienen experiencia y de pronto les dan un proyecto con `pug`, si bien hace que el desarrollo sea mas eficiente por acortar las lineas de código, se hace sacrificando mucho la mantenibilidad, para ejemplos prácticos como los del curso creo que está bien, para proyectos reales y donde se involucre un equipo no lo recomendaría
 
-	* **steffens** (3)
+	* **steffens** [544077] (3)
 
-		
 		me encanta pug, aprender no toma nada.  
 		es muy conciso y mi html queda mas limpio.
 
-* **Juan Carlos Felizzola Vega** (4)
+* **Juan Carlos Felizzola Vega** (4) [294070](https://platzi.com/comentario/294070/) 
 
-	
 	Para el **Header** usé la nueva versión de Bulma. Es cambiar `nav` por `navbar`:
 	``` 
 	    section.hero.is-success
@@ -25800,55 +24518,45 @@ Disculpe, cual es el reto que el profesor se refiere? revise los enlaces pero el
 	
 	Más información: <https://bulma.io/documentation/components/navbar/>
 
-	* **David E  Lares S** (2)
+	* **David E  Lares S** [294070] (2)
 
-		
 		gracias por el aporte, simplifica mucho la lección.
 
-* **David Alejandro Abreu Abreu** (1)
+* **David Alejandro Abreu Abreu** (1) [935535](https://platzi.com/comentario/935535/) 
 
-	
 	Si haz trabajado con Python, no debería irte mal con Pug 😄
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [902031](https://platzi.com/comentario/902031/) 
 
-	
 	el atributo lang="" dentro de la etiqueta template nos permite tener componentes escritos con pug o con html.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [396764](https://platzi.com/comentario/396764/) 
 
-	
 	[Documentación del “Hero” de 3 partes.](https://bulma.io/documentation/layout/hero/#fullheight-hero-in-3-parts)
 
-* **makroz** (1)
+* **makroz** (1) [379548](https://platzi.com/comentario/379548/) 
 
-	
 	en el caso de agregar prefijos a los componentes, porque seria “pm”?  
 	hay una convención para eso?
 
-	* **Sebastian Cardoso Castillo** (2)
+	* **Sebastian Cardoso Castillo** [379548] (2)
 
-		
 		El prefijo pm se usó porque el proyecto se llama “Platzi Music”. Por poner otro ejemplo si el proyecto se llamara “Chichona Barbosa” usariamos de prefijo “cb”. Eso es para indicar que el componente es propio del proyecto en el caso de que usemos componentes externos.
 
-* **Byhako** (1)
+* **Byhako** (1) [349996](https://platzi.com/comentario/349996/) 
 
-	
 	Como sacar emoticones en el editor?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [349996] (2)
 
-		
 		usas : comienzas a escribir por ejemplo thin y aparece el listado de emojis 🤔
 
-* **Nicolas Gonzalez** (1)
+* **Nicolas Gonzalez** (1) [326257](https://platzi.com/comentario/326257/) 
 
-	
 	Hay algún orden en el que se debe escribir tanto la data, component, computed, etc
 
-	* **j2rojasr** (3)
+	* **j2rojasr** [326257] (3)
 
-		
 		Yo considero que debe ser:
 		
 		  1. Props
@@ -25860,38 +24568,33 @@ Disculpe, cual es el reto que el profesor se refiere? revise los enlaces pero el
 		
 		
 
-	* **Nicolas Gonzalez** (1)
+	* **Nicolas Gonzalez** [326257] (1)
 
-		
 		Claro osea es un orden que elegís vos por preferencia… pero no hay ningún orden establecido o buena practica para esto?
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [326257] (1)
 
-		
 		Lo establece Linter
 
-* **makroz** (1)
+* **makroz** (1) [41774](https://platzi.com/comentario/379548/) 
 en el caso de agregar prefijos a los componentes, porque seria “pm”? hay una convención para eso?
 
-	* **Sebastian Cardoso Castillo** (2)
+	* **Sebastian Cardoso Castillo** [41774] (2)
 
-		
 		El prefijo pm se usó porque el proyecto se llama “Platzi Music”. Por poner otro ejemplo si el proyecto se llamara “Chichona Barbosa” usariamos de prefijo “cb”. Eso es para indicar que el componente es propio del proyecto en el caso de que usemos componentes externos.
 
-* **Byhako** (1)
+* **Byhako** (1) [39003](https://platzi.com/comentario/349996/) 
 Como sacar emoticones en el editor?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [39003] (2)
 
-		
 		usas : comienzas a escribir por ejemplo thin y aparece el listado de emojis 🤔
 
-* **Nicolas Gonzalez** (1)
+* **Nicolas Gonzalez** (1) [36841](https://platzi.com/comentario/326257/) 
 Hay algún orden en el que se debe escribir tanto la data, component, computed, etc
 
-	* **j2rojasr** (3)
+	* **j2rojasr** [36841] (3)
 
-		
 		Yo considero que debe ser:
 		
 		  1. Props
@@ -25903,50 +24606,42 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 		
 		
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [309203](https://platzi.com/comentario/309203/) 
 
-	
 	para los emojis aqui una pag : <https://getemoji.com>
 
-* **Julio César Perdomo Correa** (0)
+* **Julio César Perdomo Correa** (0) [303306](https://platzi.com/comentario/303306/) 
 
-	
 	@ianaya89 te recomiendo usar el package indent-guide-improved de atom, para que las guías de indentación se vean con mayor claridad.
 
-* **Oscar Stevens Cuartas Bejarano** (0)
+* **Oscar Stevens Cuartas Bejarano** (0) [274761](https://platzi.com/comentario/274761/) 
 
-	
 	hola, yo no quise usar pug en el curso, empece y segui con el html normal, simplemente no me gusta asi tenga bondades, pero en esta clase me quede barado por que inserto el componente en el html y no pasa nada:
 	
 	pm-footer imprime lo mismo en pantalla "pm-footer"  
 	se debe escribir diferente en html normal?
 
-	* **Oscar Stevens Cuartas Bejarano** (0)
+	* **Oscar Stevens Cuartas Bejarano** [274761] (0)
 
-		
 		acabo de ponerlo asi  
 		`<pm-footer/>`  
 		es buena practica??
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [274761] (0)
 
-		
 		Hola, si no estas usando pug debes utilizar sintaxis HTML. Por lo tanto siempre poner los caracteres `<>`. Yo prefiero escribir siempre el tag de apertura y cierre: `<pm-loader></pm-loader>`. Pero si lo que pusiste funciona bien, tambien es valido
 
-	* **Oscar Stevens Cuartas Bejarano** (0)
+	* **Oscar Stevens Cuartas Bejarano** [274761] (0)
 
-		
 		genial, me gusta con el tag afuera tambien, lo usare asi, gracias profe y perdon si la verdad no pude con el pug 😃
 
-	* **PedroJGomezD** (0)
+	* **PedroJGomezD** [274761] (0)
 
-		
 		Saludos, creo que si es un componente como Footer, que es estático, no hay problema que uses la sintaxis de esa manera.  
 		Pero creo que la idea de PUG también es tener menos código y hacerlo mas legible, es cuestión de acostumbrarse, te animo a que lo uses.
 
-* **Andres Gallardo** (0)
+* **Andres Gallardo** (0) [258937](https://platzi.com/comentario/258937/) 
 
-	
 	No me funciona la inyeccion del componente.
 	``` 
 	    <templatelang="pug">
@@ -26030,40 +24725,35 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	
 	Alguna sugerencia? Gracias
 
-	* **Andres Gallardo** (0)
+	* **Andres Gallardo** [258937] (0)
 
-		
 		Poniendole export default {} en el archivo Footer.vue, me funciono.
 		
 		Alguien me puede explicar porque ? Gracias !
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [258937] (2)
 
-		
 		Si no usas el `export default`, a la hora de hacer el import tenes que especificar el nombre de la variable/funcion que tenes que importar.
 		
 		Si directamente no usas el export no funciona porque no estas exportando el componente/objeto, la idea de usar modulos es justamente exportar algun codigo/funcionalidad para importar en otro archivo/modulo.
 
-* **Marcos Matamala** (0)
+* **Marcos Matamala** (0) [182357](https://platzi.com/comentario/182357/) 
 
-	
 	qué package de atom uso para isertar emoji ?
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [182357] (2)
 
-		
 		Lo que yo uso es una funcionalidad nativa de macOS pero podes probar con este [plugin](https://github.com/atom/autocomplete-emojis).
 
-## 0250. Reactividad
+## 0250. Reactividad [7805](https://platzi.com/clases/1145-vuejs-profesional/7805-reactividad/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Aaron Delgado** (32)
+* **Aaron Delgado** (32) [188096](https://platzi.com/comentario/188096/) 
 
-	
 	Al mutar/cambiar una propiedad de un objeto dentro de data, este si cambia pero el _watcher_ nunca se entera de ese cambio por lo tanto no se ve reflejado en la página (no hay reactividad). Hay dos soluciones.
 	
 	La de vue
@@ -26086,32 +24776,27 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	    
 	```
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [188096] (2)
 
-		
 		Muy buen resumen!
 
-	* **Cristofer Fuentes Barra** (1)
+	* **Cristofer Fuentes Barra** [188096] (1)
 
-		
 		agregaría como tercera solución: no mutar dicha propiedad y declarar todo desde el comienzo 🤔
 
-	* **Guillermo  Ferru** (1)
+	* **Guillermo  Ferru** [188096] (1)
 
-		
 		Buenas, no entiendo muy bien, porque no declarar la property a usar en la data y evitar utilizar el set o el Object.assign?? Gracias
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [188096] (0)
 
-		
 		En el caso de que los datos de tu componentes sean dinamicos, por ejemplo, al depender de los datos que retorne el servidor, y este te retorna datos diferentes en cada petición, entonces es necesario utilizar las opciones $set y Object.assign.
 		
 		Un ejemplo sería cuando tienes un componete para mostrar personas físicas y jurídicas, estos no tienen los mismos datos, por ende es útil saber que se puede mutar el objeto que retorna data.  
 		Lo correcto sería utilizar un componente distinto para persona física y jurídica pero es solo a modo de ejemplo.
 
-* **Christian Armando Consuelo Mayén** (7)
+* **Christian Armando Consuelo Mayén** (7) [194301](https://platzi.com/comentario/194301/) 
 
-	
 	Así como agregar elementos que antes no existían con la función Object.assign también podrías agregarlos con el “spread operator”?
 	
 	Algo así:
@@ -26120,31 +24805,26 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	    
 	```
 
-	* **Nacho Anaya** (5)
+	* **Nacho Anaya** [194301] (5)
 
-		
 		Si, eso tambien deberia funcionar. Tene en cuenta que para usar el spread necesitas un plugin especifico de babel. En los videos de Vuex vas a ver que lo instalamos ya que tambien nos sirve el spread.
 
-	* **Christian Armando Consuelo Mayén** (0)
+	* **Christian Armando Consuelo Mayén** [194301] (0)
 
-		
 		Muchas gracias, Profesor!
 		
 		Usted es un crack! Estoy terminando el curso ahora mismo.
 
-	* **Kevin Brayan Luna Figueroa** (0)
+	* **Kevin Brayan Luna Figueroa** [194301] (0)
 
-		
 		@cris_towi algo aprendí algo nuevo!!
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [194301] (1)
 
-		
 		¡Genial!
 
-* **carlos ruales** (4)
+* **carlos ruales** (4) [529456](https://platzi.com/comentario/529456/) 
 
-	
 	Comparto el código con los comentarios necesarios para recordar como funciona cada uno
 	``` 
 	    <template>
@@ -26185,12 +24865,11 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	    
 	```
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [902054](https://platzi.com/comentario/902054/) 
 
-	
 	¿Cómo es el sistema reactivo en VueJS?
 	
-	  * El comportamiento interno de un componente de Vue está muy asentado en el patrón MVVM y en el patrón Observer. Para conseguirlo, Vue presenta un sistema interno como es el siguiente:  
+	* El comportamiento interno de un componente de Vue está muy asentado en el patrón MVVM y en el patrón Observer. Para conseguirlo, Vue presenta un sistema interno como es el siguiente:  
 	![](https://elabismodenull.files.wordpress.com/2017/08/data.png?w=1000)  
 	Cada vez que instanciamos un componente en nuestra aplicación, Vue se encarga de hacer 3 cosas:
 	
@@ -26201,53 +24880,45 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	
 	
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [562715](https://platzi.com/comentario/562715/) 
 
-	
 	Por fin entiendo el porqué de la existencia de $set.  
 	Si bien es mejor declarar dicha propiedad del objeto en la data inicial del componente. Puede ser que en la app el usuario quiera agregar mas de un dato a su registro (teléfono 3) y por ende debemos reaccionar al cambio de ese valor de manera reactiva.
 
-* **errrTote** (2)
+* **errrTote** (2) [258432](https://platzi.com/comentario/258432/) 
 
-	
 	Una buena opción para dejar claro esta clase es dar ejemplo de casos donde pueda ser necesario en un ámbito profesional, porque hay confusión con que solo es necesario agregar la propiedad ‘lastname’ dentro de data ().
 
-* **fecrackle** (1)
+* **fecrackle** (1) [619438](https://platzi.com/comentario/619438/) 
 
-	
 	¿Alguien sabe cómo puedo declarar variables de forma global en el proyecto de Vue.js?  
 	Estas variables las necesito para solo lectura.
 
-	* **Omar Jalil Fierro López** (1)
+	* **Omar Jalil Fierro López** [619438] (1)
 
-		
 		Lee un poco acerca de los mixin globales
 
-	* **alanlapierre** (2)
+	* **alanlapierre** [619438] (2)
 
-		
 		Vuex te permite gestionar estados globales, es decir, variables globables. Estas variables pueden ser alteradas, y a su vez, cualquier elemento que las utilice va a actuar de forma reactiva. Respondiendo en base al nuevo valor de dicha variable.  
 		La opción de usar mixin globables no la he probado, pero imagino que un mixin, al formar parte del código del componente, no te permite usar un estado global. Ya que si, por ejemplo, dos componentes usan el mismo mixin, las variables que este mixin tenga van a poder tener valores independientes (aclaro nuevamente, no se el “mixin global” que nombran funciona así).
 
-	* **Cristopher Paniagua Sánchez** (1)
+	* **Cristopher Paniagua Sánchez** [619438] (1)
 
-		
 		No declares las variables en el contexto de Vue, declaralas fuera del o los componentes y después solo las usas donde lo necesites.
 		
 		Aquí un ejemplo: <https://jsfiddle.net/ps_cristopher/g2muyzfo/8/>
 
-* **jesusmurf** (0)
+* **jesusmurf** (0) [275749](https://platzi.com/comentario/275749/) 
 
-	
 	Empieza a codear
 
-* **Yefferson Guarnizo** (0)
+* **Yefferson Guarnizo** (0) [255689](https://platzi.com/comentario/255689/) 
 
-	
 	Un tip adicional para tratar el tema de mutabilidad.  
 	para clonar un objeto o un array superficial o llamado tambien “shallow clone” usamos normalmente Object.assign({}, objeto), pero si queremos clonar un objeto o array multidimensional esta funcion no nos va a servir ya que es mas complejo “clonar”, por ende utilizamos el famoso truco JSON. para realizar un “Deep clone”: JSON.parse(JSON.stringify(objeto))
 
-## 0260. Ciclo de vida
+## 0260. Ciclo de vida [7806](https://platzi.com/clases/1145-vuejs-profesional/7806-ciclo-de-vida/)
 
 ### Descripción:
 
@@ -26258,9 +24929,8 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 
 ### Comentarios:
 
-* **Juan Carlos Felizzola Vega** (36)
+* **Juan Carlos Felizzola Vega** (36) [294095](https://platzi.com/comentario/294095/) 
 
-	
 	 **beforeCreate:** se ejecuta justo después de la inicialización de la instancia.  
 	**created:** se ejecuta cuando la instancia y los eventos, las computed properties, el data y los métodos están creados. Normalmente se utiliza para inicializar propiedades del objeto data con consultas HTTP Get.  
 	**beforeMount:** se ejecuta justo antes de que se añada al DOM.  
@@ -26270,44 +24940,36 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	**beforeDestroy:** se ejecuta justo antes de eliminar la instancia.  
 	**destroyed:** se ejecuta cuando la instancia, los eventos, directivas e hijos del componente se han eliminado.
 
-	* **David Daniel Castillo Nava** (2)
+	* **David Daniel Castillo Nava** [294095] (2)
 
-		
 		Buen aporte!!
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [294095] (1)
 
-		
 		Gracias por el resumen.
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [294095] (1)
 
-		
 		Gran resume.
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [294095] (1)
 
-		
 		Gracias!
 
-* **eddyarellanes** (10)
+* **eddyarellanes** (10) [197932](https://platzi.com/comentario/197932/) 
 
-	
 	Entonces para mostrar información cargada de un Web service al iniciar la vista, es mejor hacer la petición http en el created, ya que para cuando el mounted carga el DOM, la información ya está lista y de esa forma ganamos tiempo 😃 .
 
-	* **Nacho Anaya** (6)
+	* **Nacho Anaya** [197932] (6)
 
-		
 		Si, totalmente. El hook `created` es ideal para este tipo de casos. Gracias por el aporte!
 
-	* **Alexis Anderson Montenegro Reyes** (1)
+	* **Alexis Anderson Montenegro Reyes** [197932] (1)
 
-		
 		Lo Ideal para usar peticiones http es usar los actions de Vuex
 
-* **alanlapierre** (4)
+* **alanlapierre** (4) [694469](https://platzi.com/comentario/694469/) 
 
-	
 	Hay que tener en cuenta que:  
 	**created** : En esta instancia todavia no existe el DOM, por lo cual no puedo acceder a elementos HTML.  
 	**mounted** : En esta instancia ya existe el DOM y es posible acceder al mismo.  
@@ -26315,59 +24977,49 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	
 	Es importante entender estas limitaciones a la hora de usar los Hooks del ciclo de vida de los components.
 
-* **jankrloz** (2)
+* **jankrloz** (2) [514715](https://platzi.com/comentario/514715/) 
 
-	
 	Nacho si sabe de música, le gusta Spinetta jajaja
 
-* **jesusmurf** (2)
+* **jesusmurf** (2) [275753](https://platzi.com/comentario/275753/) 
 
-	
 	Empieza a codear
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [275753] (1)
 
-		
 		jaja bien!
 
-* **Nacxit** (1)
+* **Nacxit** (1) [999047](https://platzi.com/comentario/999047/) 
 
-	
 	El ciclo de vida o hook son evento que permiten manipular las etapas de un componentes los hook son eventos, los hook son los siguiente beforeCreate, Create monted, beforeUpdate, update, beforeDestroy, destroyed, cada uno de estos se utilizan para insertar codigo segun lo que combengan.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [902089](https://platzi.com/comentario/902089/) 
 
-	
 	Cada instancia de Vue pasa a través de una serie de pasos de inicialización cuando es creada - por ejemplo, se necesita configurar la observación de datos, compilar la plantilla, montar la instancia en el DOM y actualizar el DOM cuando cambian los datos. En el camino, también se ejecutan funciones llamadas hooks del ciclo de vida, lo que brinda a los usuarios la oportunidad de agregar su propio código en etapas específicas.
 	
 	Por ejemplo, el hook created puede ser utilizado para ejecutar código después que una instancia es creada
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [562732](https://platzi.com/comentario/562732/) 
 
-	
 	Por fin entiendo la importancia práctica de estos Hooks. Si bien en los tutoriales los mencionan, no generan suficiente contexto como este chaval.  
 	Buen profesor, con la vocesota hace que siempre esté atento a cualquier explicación.
 
-* **Jesus Sandrea** (1)
+* **Jesus Sandrea** (1) [212782](https://platzi.com/comentario/212782/) 
 
-	
 	El enlace no funciona, igual lo voy a buscar pero solo para reportar.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [212782] (1)
 
-		
 		Cuál enlace no funciona?
 
-	* **Daniee** (2)
+	* **Daniee** [212782] (2)
 
-		
 		Aqui tienes el enlace que menciona el profe
 		
 		<https://vuejs.org/v2/guide/instance.html#Lifecycle-Diagram>
 
-* **Nicolas Gonzalez** (0)
+* **Nicolas Gonzalez** (0) [326968](https://platzi.com/comentario/326968/) 
 
-	
 	**_Instancias de Vue_**  
 	Se pueden utilizar todos los Hook, disponibles en la pagina de vue.js, hay esta el diagrama de vida de un objeto.  
 	_Algunas instancias de son:_
@@ -26383,16 +25035,15 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	    
 	```
 
-## 0270. Comunicación entre componentes padres e hijos
+## 0270. Comunicación entre componentes padres e hijos [7807](https://platzi.com/clases/1145-vuejs-profesional/7807-comunicacion-entre-componentes-padres-e-hijos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Josh Ospina** (29)
+* **Josh Ospina** (29) [184141](https://platzi.com/comentario/184141/) 
 
-	
 	Buenas noches,
 	
 	Si desean pueden agregar la opcion de Extensions y colocar .VUE para que asi Webpack pueda identificar los archivos de los componentes importados como Vue sin necesidad de tener que agregar el “.Vue”
@@ -26409,54 +25060,44 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 	    
 	```
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [184141] (1)
 
-		
 		Genial, muchas gracias por el tip!
 
-	* **Carlos Andrés Millan Satizabal** (0)
+	* **Carlos Andrés Millan Satizabal** [184141] (0)
 
-		
 		Muchas gracias por el aporte!!!.
 
-	* **cristiancgl** (1)
+	* **cristiancgl** [184141] (1)
 
-		
 		Muchas gracias por el aporte.
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [184141] (1)
 
-		
 		Gracias por el aporte.
 
-* **Cristofer Fuentes Barra** (6)
+* **Cristofer Fuentes Barra** (6) [188689](https://platzi.com/comentario/188689/) 
 
-	
 	Oh por dios no puedo creer que en serio uso esa canción como ejemplo 😐
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [188689] (4)
 
-		
 		😝 😝 😝
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [188689] (1)
 
-		
 		jajaja es cierto
 
-* **Juan Carlos Felizzola Vega** (5)
+* **Juan Carlos Felizzola Vega** (5) [294118](https://platzi.com/comentario/294118/) 
 
-	
 	Acá pueden encontrar **loaders** para no colocar solo texto: <https://projects.lukehaas.me/css-loaders/>
 
-* **Daniee** (4)
+* **Daniee** (4) [221632](https://platzi.com/comentario/221632/) 
 
-	
 	Como se podría ejecutar la búsqueda al pulsar la tecla Enter dentro del input ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (8)
+	* **Diego Alexander Forero Higuera (Platzi)** [221632] (8)
 
-		
 		Pones la siguiente directiva
 		``` 
 		    v-on:keyup.enter="submit"
@@ -26465,9 +25106,8 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 		
 		Esto enviar tu formulario, recuerda que para hacer esto tienes que tener los inputs dentro de un formulario.
 
-	* **Facundo Petre** (3)
+	* **Facundo Petre** [221632] (3)
 
-		
 		Para este caso puedes llamar a la misma función que utilizas cuando haces click en el botón de búsqueda:
 		``` 
 		    v-on:keyup.enter="search"
@@ -26482,181 +25122,149 @@ Hay algún orden en el que se debe escribir tanto la data, component, computed, 
 		
 		Saludos desde 🇺🇾!
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [902122](https://platzi.com/comentario/902122/) 
 
-	
 	La comunicacion de un padre a un hijo es por medio de propiedades, mientras q la comunicacion de un hijo a un padre es por medio de eventos.
 
-* **wjcg42** (2)
+* **wjcg42** (2) [250697](https://platzi.com/comentario/250697/) 
 
-	
 	La clase estuvo buenísima!!!
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [250697] (0)
 
-		
 		Excelente! qué bien que te esté gustando el curso =)
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [250697] (0)
 
-		
 		Gracias 😁
 
-* **Jesus Sandrea** (2)
+* **Jesus Sandrea** (2) [212784](https://platzi.com/comentario/212784/) 
 
-	
 	tengo una pregunta, por que se le agrega prefijo “track” cuando ponemos lo que nos devuelve la API me refiero se debe al nombre del archivo o algo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [212784] (2)
 
-		
 		track es el nombre que se definió en los props, puedes llamarlo canción, item, tema como lo quieras llamar, solo tienes que respetar que como lo llames en los props lo vas a usar en en template.
 
-* **Daniee** (2)
+* **Daniee** (2) [212105](https://platzi.com/comentario/212105/) 
 
-	
 	Esta es por ahora la clase que más me gusto. Es como…tachán!! Y magia!! tenemos un app aparentemente compleja que jamás hubiera pensado poder hacer en cuestión de minutos.
 	
 	Grande Ignacio eres un grandísimo profesor me tienes enganchado a este curso ! 😉😉
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [212105] (2)
 
-		
 		Hola, que bueno que estes disfrutando el curos. Muchas gracias por tu mensaje 😃
 
-* **ernesto** (2)
+* **ernesto** (2) [183642](https://platzi.com/comentario/183642/) 
 
-	
 	Hola , consulta rápida , que herramienta utilizas para agrandar , poner a izquierda o derecha los programas?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [183642] (1)
 
-		
 		Hola, es una herramienta paga llamada [Moom](https://itunes.apple.com/us/app/moom/id419330170?mt=12), si bien es paga considero que es accesible y vale mucho la pena.
 
-	* **Roberto Urita Jiménez** (1)
+	* **Roberto Urita Jiménez** [183642] (1)
 
-		
 		Les recomiendo [spectacleapp.com](http://spectacleapp.com), hace exactamente lo mismo, tengo 5 años utilizandola y funciona genial.
 
-	* **Omar Enrique Crespo Merchan** (1)
+	* **Omar Enrique Crespo Merchan** [183642] (1)
 
-		
 		Mi sistema operativo lo trae por default. Es SolusOS con la tecla de win o de menu mas las flechas se distribuyen, funciona muuucho mejor de lo que yo pensaba para ser una herramienta que viene por default, les recomiendo mucho probar este SO es magico 😄
 
-	* **Jtha** (1)
+	* **Jtha** [183642] (1)
 
-		
 		Windows 10 lo hace con la tecla windows + las flechas.
 
-* **Rogelio Alberto** (2)
+* **Rogelio Alberto** (2) [181524](https://platzi.com/comentario/181524/) 
 
-	
 	Este es el mismo video del capitulo 30.
 
-	* **Rogelio Alberto** (0)
+	* **Rogelio Alberto** [181524] (0)
 
-		
 		Aqui va el del capitulo 29. Y falta donde explica como crea el componente Loader.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [181524] (1)
 
-		
 		Hola, estoy revisando los videos y no puedo encontrar los errores que dices. El orden de este video es correcto y la explicacion de como crear el componente `Loader` se encuentra aqui a partir del minuto 18:40. El video 30 se refiere a como crear plugins e interactuar entre componentes con relaciones indirectas.
 		
 		Quizas te estas refiriendo a otra cosa, si podes aportar mas detalles seria de gran ayuda.
 
-	* **Rogelio Alberto** (0)
+	* **Rogelio Alberto** [181524] (0)
 
-		
 		A mi me inician los dos videos con la misma explicación, los dos tienen la misma hora de tu computadora: 4:13pm
 
-	* **Rogelio Alberto** (0)
+	* **Rogelio Alberto** [181524] (0)
 
-		
 		En el capitulo 29 explicas los Slots (creas componente Notificaciones) que ya aparece aqui (capitulo 27).
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [181524] (0)
 
-		
 		Ok, creo que es un error que no afectas a todos. Actualmente veo en el 27 el video de Comunicacion entre Componentes padres e hijos y el video 29 es el de slots. Ese deberia ser el orden correcto, que es el que estoy visualizando ahora. Voy a repotar ya mismo esto para que podamos solucionarlo.
 
-	* **Rogelio Alberto** (0)
+	* **Rogelio Alberto** [181524] (0)
 
-		
 		@ianaya89 lo veo igual que tú, pero no crees que slots deberia de ir pimero dado que aqui ya estan creados?. Y sigo sin encontrar el de Loader.
 
-	* **Rogelio Alberto** (0)
+	* **Rogelio Alberto** [181524] (0)
 
-		
 		En este video en el 18:40 hablas de algo de localStorage y es el de la creacion de plugins y no del componente Loader. Incluso este componente esta creado al iniciar el video: ![](http://i.imgur.com/eOVoVKA.png) (ve la hora de tu maquina, el time del video y el numero de chapter)
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [181524] (3)
 
-		
 		Listo! pasa que ianaya89 no veía el error porque el estaba viendo el servier a y yo encontré el error en el server B entonces los dos tienen razón, pero rog3r ya quedó resuelto, muchas gracias por colaborar!
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [181524] (3)
 
-		
 		rog3r, ya no deberias tener problemas y el orden deberia ser el correcto y tener sentido. De todos modos avisanos si hay algo que no cuadra. Gracias!
 
-	* **Rogelio Alberto** (2)
+	* **Rogelio Alberto** [181524] (2)
 
-		
 		@ianaya89, @ricardocelis Ya quedo perfecto, gracias!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [181524] (1)
 
-		
 		Con mucho gusto rog3r!
 
-* **Juan Rafael De Leon Osorio** (2)
+* **Juan Rafael De Leon Osorio** (2) [70767](https://platzi.com/comentario/781932/) 
 Esta muy bueno el curso, pero todo el mundo no usa Bulma o Vulma, como se llame… Dios santo. 😦
 
-	* **Manuel Ojeda** (3)
+	* **Manuel Ojeda** [70767] (3)
 
-		
 		Puedes hacer lc curso con el framework CSS que gustes, se sugirió usar Bulma, en mi caso utilicé Bootstrap
 
-* **darwistg** (2)
+* **darwistg** (2) [69384](https://platzi.com/comentario/756205/) 
 Que consola utiliza profesor? Para tener un diseño tan elegante.
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [69384] (2)
 
-		
 		La consola que usa el profesor es [iTerm2](https://www.iterm2.com) y el editor de textos [Atom](https://atom.io). 😁
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [673186](https://platzi.com/comentario/673186/) 
 
-	
 	Los componentes hijos no pueden modificar o mutar las propiedades que vienen de un componente padre.
 
-* **Miguel Angel Landa Lopez** (1)
+* **Miguel Angel Landa Lopez** (1) [673075](https://platzi.com/comentario/673075/) 
 
-	
 	  1. Los props nos permiten compartir propiedades entre componentes padres e hijos.
 	  2. Primero hago un fetch para traer los valores en el componente padre, y finalmente paso por el props los valores al componente hijo.
 	
 	
 
-* **newtongrav** (1)
+* **newtongrav** (1) [664277](https://platzi.com/comentario/664277/) 
 
-	
 	Puede ser que tangan problemas con la API de platzi music?
 	``` 
 	    Accessto fetch at 'https://platzi-music-api.now.sh/search?q=daft%20punk&type=track' from origin 'http://localhost:8080' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to'no-cors' to fetch the resource with CORS disabled.
 	    
 	```
 
-* **Angel Infanti** (1)
+* **Angel Infanti** (1) [606444](https://platzi.com/comentario/606444/) 
 
-	
 	Les recomiendo mucho estos estilos para el loader <https://projects.lukehaas.me/css-loaders/> los vimos en el curso pasado y son muy elegantes
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [589117](https://platzi.com/comentario/589117/) 
 
-	
 	Es importante agregar el atributo **scoped** en los estilos del **Loading.vue** , de lo contrario la modificación de la clase **.content** también va a afectar a las cards de música.
 	``` 
 	    <templatelang="pug">
@@ -26674,16 +25282,14 @@ Que consola utiliza profesor? Para tener un diseño tan elegante.
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [589094](https://platzi.com/comentario/589094/) 
 
-	
 	15:27 //_ No se preocupen se esta viendo horrible pero lo vamos a acomodar._
 	
 	jejejejeje, 😂 típico del desarrollo en **Frontened**
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [587883](https://platzi.com/comentario/587883/) 
 
-	
 	Con respecto a la clase **.is-1by1** , son clases de bulma para la Relación de aspecto, que en este caso significa 1 x 1 (cuadrado), también existen para definir directamente el tamaño de la imágenes.
 	
 	**Para relación de aspecto:**
@@ -26721,54 +25327,45 @@ Que consola utiliza profesor? Para tener un diseño tan elegante.
 	
 	más información: [aquí](https://bulma.io/documentation/elements/image/)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [562837](https://platzi.com/comentario/562837/) 
 
-	
 	Ahora si entiendo que función tiene un componente.  
 	Eso profe muy bien.  
 	Me daba conflicto lo de paso de propiedades y paso de eventos.  
 	Pero con el gráfico me ha quedado muy claro.  
 	Por cierto, seria excelente el me pueda compartir ese gráfico junto con el de reactividad, esos hay que guardarlos muy bien.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [562829](https://platzi.com/comentario/562829/) 
 
-	
 	Hay alguna manera de implementar FontAwesome al proyecto. Lo he intentado pero al final no me muestra el icono de fuente.  
 	Hice modificaciones al archivo webpack para que cargue los archivos de fuente y svg, ya no hay error en la carga de archivos, pero no me los muestra.
 
-	* **sampol.90 (Platzi)** (2)
+	* **sampol.90 (Platzi)** [562829] (2)
 
-		
 		Has intentado importando fontawesome desde el CDN ?
 
-* **Ruth Selina Ibarra Méndez** (1)
+* **Ruth Selina Ibarra Méndez** (1) [531159](https://platzi.com/comentario/531159/) 
 
-	
 	Creo que hubiera sido mejor agregar el loader debajo del search
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [482586](https://platzi.com/comentario/482586/) 
 
-	
 	Genial!
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [448893](https://platzi.com/comentario/448893/) 
 
-	
 	porque en los componentes pasados no usamos export ?
 
-	* **Bryan Estiven Silva Mercado** (1)
+	* **Bryan Estiven Silva Mercado** [448893] (1)
 
-		
 		dice que es lo primero que se debe hacer en un componente es exportar pero no lo hicimos en los anteriores.
 
-	* **Bryan Estiven Silva Mercado** (1)
+	* **Bryan Estiven Silva Mercado** [448893] (1)
 
-		
 		supongo que solo se realiza export cuando se reciben los datos desde el componente padre
 
-* **grupobienpensado1** (1)
+* **grupobienpensado1** (1) [428728](https://platzi.com/comentario/428728/) 
 
-	
 	para usar en laravel 5.7
 	
 	en el archivo de webpack.mix.js
@@ -26785,9 +25382,8 @@ Que consola utiliza profesor? Para tener un diseño tan elegante.
 	
 	pero no se como usar en <style lang=“scss” scoped> para importar estilos ? ya que @import ‘@/plugin/datatable/estilos.css’ no me resuelve la ruta, pero si la uso por import en <script> va ok pero me queda global y me afecta demas estilos, que hacer?
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [403694](https://platzi.com/comentario/403694/) 
 
-	
 	Loader.vue:
 	``` 
 	    <templatelang="pug">
@@ -26805,134 +25401,111 @@ Que consola utiliza profesor? Para tener un diseño tan elegante.
 	    
 	```
 
-* **Byhako** (1)
+* **Byhako** (1) [350488](https://platzi.com/comentario/350488/) 
 
-	
 	Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() de esas props?
 
-	* **Franklin Lugo** (2)
+	* **Franklin Lugo** [350488] (2)
 
-		
 		Tan sencillo como: `console.log(props)` si es un componente funcional o `console.log(this.props)` si es un componente de clase.
 
-* **Victor Gamez** (1)
+* **Victor Gamez** (1) [337518](https://platzi.com/comentario/337518/) 
 
-	
 	Buenas!
 	
 	porque el componente `loader` no es instancia como un componente `global`? Es el tipico componente de ejemplo que se usa en toda la aplicacion. O igual he entendido mal el concepto de `Componente Global`?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [337518] (1)
 
-		
 		Se organizo en la carpeta shared ya que por orden del código se colocan en esta carpeta componentes que se pueden reutilizar en varias partes de la aplicación, pero no en todas partes. Un componente Global es más algo que si o si esta en todo el sitio por ejemplo un el Header o el Footer.
 
-* **Wilson Fabian Pérez Sucuzhañay** (1)
+* **Wilson Fabian Pérez Sucuzhañay** (1) [333873](https://platzi.com/comentario/333873/) 
 
-	
 	podrian corregir el servicio
 	
 	{“error”:{“status”:404,“message”:“Service not listed”}}
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [333873] (1)
 
-		
 		Acabo de probar el servicio y esta funcionando, prueba en el navegador con esta query  
 		`https://platzi-music-api.now.sh/search?q=fonsi&type=track`
 
-	* **Wilson Fabian Pérez Sucuzhañay** (1)
+	* **Wilson Fabian Pérez Sucuzhañay** [333873] (1)
 
-		
 		si antes me funcionaba pero ayer que probe sin cambio alguno ya no me responde no me trae los tracks¿?, como puedo depurar el error si no me muestra nada en consola?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [333873] (1)
 
-		
 		Revisa cuando se hace la solicitud al api, eso lo vez en la pestaña network de las herramientas de desarrollo de google chrome. Puede ser que la solicitud no este enviando un parámetro o el parámetro este mal
 
-	* **Wilson Fabian Pérez Sucuzhañay** (1)
+	* **Wilson Fabian Pérez Sucuzhañay** [333873] (1)
 
-		
 		en la noche probe y funcione al siguiente dia sin cambiar código lo intente y nada pero me dicen algunos chicos de platzi que es porque cambio algo en spotify
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [333873] (1)
 
-		
 		Si, el api de spotify cambió algunos permisos para el acceso.
 
-	* **Wilson Fabian Pérez Sucuzhañay** (1)
+	* **Wilson Fabian Pérez Sucuzhañay** [333873] (1)
 
-		
 		entonces eso afecta porque en network no me da error ninguno o que podria probar ¿?
 
-* **mariomenjr** (1)
+* **mariomenjr** (1) [260047](https://platzi.com/comentario/260047/) 
 
-	
 	NPM + Visual Code te permite tener todo en una sola window sin tener que instalar plugins o algo por el estilo.
 	
 	Lo recomiendo.
 
-* **Luis Angel Vásquez Nepomuceno** (1)
+* **Luis Angel Vásquez Nepomuceno** (1) [244358](https://platzi.com/comentario/244358/) 
 
-	
 	Asignar un alias en webpack.config para manejar rutas relativas.
 
-* **fersot7** (1)
+* **fersot7** (1) [187227](https://platzi.com/comentario/187227/) 
 
-	
 	Saludos, Esta API ‘<https://platzi-music-api.now.sh>’ es de Platzi o se obtiene de otro servicio. ???
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [187227] (2)
 
-		
 		Hola, es un wrapper a la API de Spotify. Usamos un wrapper que la API de ellos require autenticación (preferentemente) del lado del servidor.
 		
 		Te dejo el [link](https://github.com/ianaya89/platzi-music-api) con el código.
 
-* **Juan Diego Brocca Salazar** (1)
+* **Juan Diego Brocca Salazar** (1) [181566](https://platzi.com/comentario/181566/) 
 
-	
 	Ya no subirán los archivos?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [181566] (0)
 
-		
 		Hola, a que archivos te referis? Los del codigo aparecen en la seccion de Archivos. Avisanos si no te aparecen o crees que falta algo.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [181566] (0)
 
-		
 		de todos modos JuanDiegoBS en caso que tengas dificultades viendo los archivos acá te dejo el índice con todo el proyecto <https://github.com/platzi/platzi-music-vue>
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57267](https://platzi.com/comentario/562829/) 
 Hay alguna manera de implementar FontAwesome al proyecto. Lo he intentado pero al final no me muestra el icono de fuente. Hice modificaci...
 
-	* **sampol.90 (Platzi)** (2)
+	* **sampol.90 (Platzi)** [57267] (2)
 
-		
 		Has intentado importando fontawesome desde el CDN ?
 
-* **Byhako** (1)
+* **Byhako** (1) [39042](https://platzi.com/comentario/350488/) 
 Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() de esas props?
 
-	* **Franklin Lugo** (2)
+	* **Franklin Lugo** [39042] (2)
 
-		
 		Tan sencillo como: `console.log(props)` si es un componente funcional o `console.log(this.props)` si es un componente de clase.
 
-* **axlina90** (0)
+* **axlina90** (0) [325415](https://platzi.com/comentario/325415/) 
 
-	
 	Me gusto mucho esta clase, cada día me entusiasma aprender Vue, excelente curso.
 
-* **Osmell Caicedo** (0)
+* **Osmell Caicedo** (0) [320617](https://platzi.com/comentario/320617/) 
 
-	
 	Respetar los conceptos de reactividad de VueJS
 
-* **Joaquin Borra Trussi** (0)
+* **Joaquin Borra Trussi** (0) [300393](https://platzi.com/comentario/300393/) 
 
-	
 	Hola a todos!  
 	consulta: cuando renderizo la búsqueda en la vista me informa que obtuvo 20 resultados pero solo muestra 4 en pantalla principal, los alinea en fila.  
 	en cambio cuando achico la pantalla para movil haciendo scroll muestra el total de los resultados obtenidos.  
@@ -26940,109 +25513,91 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 	Muchas gracias.  
 	Saludos!!
 
-	* **Joaquin Borra Trussi** (0)
+	* **Joaquin Borra Trussi** [300393] (0)
 
-		
 		[](![vuePregunta.png](https://static.platzi.com/media/user_upload/vuePregunta-c0399dc0-d194-4a93-8a13-7757a596b504.jpg)
 
-* **Rafael Luna Paredes** (0)
+* **Rafael Luna Paredes** (0) [296650](https://platzi.com/comentario/296650/) 
 
-	
 	Entiendo el funcionamiento del código, pero me confunden los términos **componente padre** y **componente hijo**.
 	
 	En este caso, al final en el archivo **App.vue** , ¿el **componente padre** sería el **isLoading** que esta dentro de **data:** , y el **componente hijo** es el mismo **isLoading** , pero esta dentro del <template>?
 
-* **viciotec** (0)
+* **viciotec** (0) [286843](https://platzi.com/comentario/286843/) 
 
-	
 	Duda como puedes pasar a un componente hijo, props pero sin ser reactivas, el ejemplo es en un table tienes todos los usuarios y al editar abres un modal, el modal es hijo por lo cual tiene la informacion por props pero al ser reactiva, al ser modificada en el formulario, se ve como se edita en la tabla, aun antes de guardarla.
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [280023](https://platzi.com/comentario/280023/) 
 
-	
 	en donde pone lo del buscador?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [280023] (1)
 
-		
 		Se ve más adelante en el curso, no te preocupes.
 
-* **maestrilloliendre** (0)
+* **maestrilloliendre** (0) [277384](https://platzi.com/comentario/277384/) 
 
-	
 	Buenas, estoy haciendo un proyecto y he implementado el login con Firebase en el main.js. Sin embargo, los botones de login y logout los tengo en el componente header. El problema que tengo es que no se como pasar ese usuario conectado al resto de componentes desde el main.js. ¿Alguna ayudita?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [277384] (1)
 
-		
 		Tenes dos alternativas: usar el patron event-bus o usar vuex. Podes checar el uso de ambas en los videos siguientes.
 
-	* **maestrilloliendre** (0)
+	* **maestrilloliendre** [277384] (0)
 
-		
 		Gracias, estoy intentando de aplicar event-bus, lo he creado igual que en platzi-music, dentro de la carpeta plugins. Cuando lo utilizo en mi componente por consola me aparece el error que this.$bus no está definido 😦
 
-* **Oscar Stevens Cuartas Bejarano** (0)
+* **Oscar Stevens Cuartas Bejarano** (0) [276105](https://platzi.com/comentario/276105/) 
 
-	
 	minuto 23 no logro entender para nada cual es el componente padre y cual el hijo, que dice que no debe ser modificado desde el hijo las propiedades que puso en el archivo track…alguien me explica?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [276105] (0)
 
-		
 		El componente padres es App.vue, en este usamos un componente hijo que es Track.vue (en realidad hay varios hijos, un Track por cada cancion). Las propiedaes pertenecen al componente App, pero le pasa esos valores al componente hijo que son los Track.
 		
 		Como estas propiedades no pertenecen a Track, este componente puede leerlas / mostrarlas pero no modificarlas. Si necesita modificar algo le tienen que avisar al padre (App) para que realice esa modificacion. Y eso se hace usando eventos.
 		
 		En resumen, App envia data a sus hijos usando propiedades. Los hijos envian data usando eventos. Es el flujo basico de comunicacion entre componentes.
 
-	* **Oscar Stevens Cuartas Bejarano** (0)
+	* **Oscar Stevens Cuartas Bejarano** [276105] (0)
 
-		
 		excelente, muchas gracias profe
 		
 		entendido 0 App envia data a sus hijos usando propiedades. Los hijos envian data usando eventos
 		
 		me recuerda esas peleas para pasar una variable entre php y javascript nativos, creo que esto mejora las cosas mucho.
 
-* **Wilfredo Torres** (0)
+* **Wilfredo Torres** (0) [245059](https://platzi.com/comentario/245059/) 
 
-	
 	Con v-text se puede renderizar texto sin necesidad de usar {{}}
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [245059] (0)
 
-		
 		Si, es cierto. De todos modos creo que mas prolijo y el uso de las expresiones. De esta manera se deja el componente HTML mas “limpio”
 		
 		Gracias por tu aporte!
 
-* **maestrilloliendre** (0)
+* **maestrilloliendre** (0) [213751](https://platzi.com/comentario/213751/) 
 
-	
 	Hola me he instalado font-awesome con npm i -S font-awesome y he metido el import en main.css pero me aparece un error de compilación. No se como utilizar font-awesome en este proyecto, ¿alguna idea?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [213751] (1)
 
-		
 		Todavia no lo he provado de la manera que indicas. Pero la manera mas simple es incluir el `link` con la CDN de fontawesome en el archivo `index.html`
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [213751] (1)
 
-		
 		@joseluis.plaza.1650 si puedes compartir como estas intentar hacer el import y el error que da de compilación podemos encontrar como solucionar el error.
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [213751] (1)
 
-		
 		En mi caso si funciona el fontawesome, haciendo unas modificaciones en el file-loader para que deje cargar archivos .ttf, svg, etc.
 		
 		Pero no los muestra en pantalla.  
 		Hay alguna manera de implementarlos, solo se me ocurre por CDN
 
-* **Manuel Alejandro Sandoya Mendoza** (0)
+* **Manuel Alejandro Sandoya Mendoza** (0) [197229](https://platzi.com/comentario/197229/) 
 
-	
 	Tengo el siguiente error: **[Vue warn]: Error in render function: “TypeError: Cannot read property ‘0’ of undefined”** que lo encontró en **Track.vue**.
 	
 	Y en Track.vue tengo esto:
@@ -27081,9 +25636,8 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 	
 	La verdad es que no entiendo cuál podría ser el error.
 
-	* **Manuel Alejandro Sandoya Mendoza** (2)
+	* **Manuel Alejandro Sandoya Mendoza** [197229] (2)
 
-		
 		Ok, fue que me faltó una **s** aquí:
 		``` 
 		    p.subtitle.is-6{{ track.artist[0].name }}
@@ -27098,44 +25652,37 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 		
 		😛
 
-* **Diego Andres Cardenas Caro** (0)
+* **Diego Andres Cardenas Caro** (0) [188740](https://platzi.com/comentario/188740/) 
 
-	
 	Alguien sabe como mover a la izquierda varias lineas de código a la vez para disminuir tabulacion? Cual es la combinación de teclas para visual studio code?
 
-	* **AyKaren** (0)
+	* **AyKaren** [188740] (0)
 
-		
 		Mmmm conozco estas CTRL+K, CTRL+F, pero no estoy segura si sirvan para disminuir también. Prueba y me cuentas.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [188740] (5)
 
-		
 		Puedes seleccionar todas las lineas que deseas modificar la tabulación y usas  
 		`shift + tab` para disminuir la tabulación o `tab` para aumentar.
 
-* **david.quintanilla** (0)
+* **david.quintanilla** (0) [184286](https://platzi.com/comentario/184286/) 
 
-	
 	Hola @ianaya89 tengo una duda, tengo un caso en el cual tengo un componente hijo que es un select y necesita recibir los datos de un componente padre, si los datos que le paso desde el componente padre son cargados en el data () {} el componente hijo los pinta bien, pero yo necesito cargar los datos por medio de ajax y estoy esa llamada la estoy haciendo desde el hook mounted, bien haciéndolo desde aquí el componente hijo no se entera de los cambios, he probado poniendo watcher al props en el componente hijo y nada, alguna sugerencia?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [184286] (1)
 
-		
 		Que tipo de datos es lo que le pasas? Recorda inicializar la propiedad en cuestion dentro del `data` del componente padre (al menos con un valor default). Si lo que pasas es un objeto quizas necesites hacer un `Vue.$set` despues de obtener los valores por ajax (eso esta en el video de Reactividad). Por otro lado te recomiendo obtener la info por ajax en el hook `created` que ocurre antes del `mounted`
 		
 		Si podes subir tu codigo a un codepen y publicarlo aca voy a poder darte mejor feedback.
 
-	* **david.quintanilla** (0)
+	* **david.quintanilla** [184286] (0)
 
-		
 		Hola gracias por responder, me acabo de dar cuenta que vue si lo hace bien existe la reactividad, el problema lo tengo porque estoy usando la librería de materialize-css y creo que los selectores están usando jquery y como es de esperar por temas de estilos y tal no se están enterando de la reactividad de vue, he investigado y la gente propone usar directivas.
 		
 		Imagino que con bulma han de suceder cosas parecidas, tu como sueles solucionar este tipo de problemas?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [184286] (0)
 
-		
 		Si, en general siempre que tengas que hacer manipulaciones del DOM te recomiendo ir por directivas.  
 		Lo otro que podes probar es un wrapper de la libreria que tenga los componentes hechos en Vue.
 		
@@ -27145,76 +25692,65 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 		
 		En mi caso estas libs me parece que estan buenas, pero cuando queres algo muy especifico pueden resultar tediosas. De todos modos creo que valen la pena!
 
-	* **david.quintanilla** (0)
+	* **david.quintanilla** [184286] (0)
 
-		
 		Gracias, efectivamente yo estaba usando vuetify y tuve que migrar a materialize porque cada vez que necesitaba hacer algo especifico me resultaba complejo puesto que te abstrae mucho de la funcionalidad y de cierta manera solo puedes hacer lo que ellos te dejan, tendré que aplicar una directiva al selector para poder solucionar el problema, gracias.
 
-* **Josh Ospina** (0)
+* **Josh Ospina** (0) [181645](https://platzi.com/comentario/181645/) 
 
-	
 	Buenas noches, por favor su ayuda con el CSS me sale un espacio justo debajo de emoji de play.  
 	Quedo a la espera.
 	
 	![](http://imgur.com/vhTwDir.jpg)
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [181645] (0)
 
-		
 		Hola, si podes subi el codigo con el HTML del componente asi podemos revisarlo.
 
-	* **Josh Ospina** (1)
+	* **Josh Ospina** [181645] (1)
 
-		
 		Lo solucione, disculpa por los inconvenientes.
 
-## 0280. Comunicación de hijos hacia padres
+## 0280. Comunicación de hijos hacia padres [7808](https://platzi.com/clases/1145-vuejs-profesional/7808-comunicacion-de-hijos-hacia-padres/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **MauricioHernanCabrera** (8)
+* **MauricioHernanCabrera** (8) [230206](https://platzi.com/comentario/230206/) 
 
-	
 	Utilizando lo aprendido de comunicación entre padres e hijos logre hacer esto, que opinan del codigo?  
 	PD: El sonido del audio al finalizar el temporizador no funciona en algunos telefonos, aun no encontré la solución a eso  
 	<https://hernancabrera.github.io/temporizador-vue.js/>
 
-	* **Luis Angel Vásquez Nepomuceno** (1)
+	* **Luis Angel Vásquez Nepomuceno** [230206] (1)
 
-		
 		Hola Hernan, intente entrar al código pero me marco un error 404, ojala la puedas reactivar para que aprendamos de ti y nos podamos guiar con tus ideas.  
 		Saludos
 
-	* **MauricioHernanCabrera** (1)
+	* **MauricioHernanCabrera** [230206] (1)
 
-		
 		Cambie el nombre, agrege las rutas, estoy agregando lo del store y un poco de animaciones hasta ahora esta asi, ya solucione el tema del audio en celulares.  
 		<https://github.com/HernanCabrera/cronometro-temporizadorvue.js>
 
-	* **Luis Angel Vásquez Nepomuceno** (1)
+	* **Luis Angel Vásquez Nepomuceno** [230206] (1)
 
-		
 		Hola, va súper bien !!  
 		Me encantó lo que hiciste con el titulo de la página, el cronometro aparece en la pestaña del navegador, buen toque.  
 		Tuve que hacerle un fork al repo, no vi el enlace de la página, ¿la puedas agregar para que otros puedan ver el demo ?  
 		Saludos y excelente trabajo
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [230206] (0)
 
-		
 		La subi en now a la pagina, muchas gracias voy a hacer eso de agregar el link para poder utilizarla
 
-	* **MauricioHernanCabrera** (1)
+	* **MauricioHernanCabrera** [230206] (1)
 
-		
 		Ahi agregue el link para poder verlo
 
-	* **Luis Angel Vásquez Nepomuceno** (0)
+	* **Luis Angel Vásquez Nepomuceno** [230206] (0)
 
-		
 		Súper !
 		
 		Cuando lo use me marcó un error, al darle en inicio me apareció esto:
@@ -27234,31 +25770,26 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 		😉 Saludos y gran trabajo !!!  
 		Cuando acabe mi página prometo compartirla
 
-* **Juan Luis Rojas León** (5)
+* **Juan Luis Rojas León** (5) [186461](https://platzi.com/comentario/186461/) 
 
-	
 	¿Cuál es la finalidad de pasar el id a el componente padre?  
 	No capté muy bien esa parte.  
 	Gracias
 
-	* **Diego Alexander Forero Higuera (Platzi)** (9)
+	* **Diego Alexander Forero Higuera (Platzi)** [186461] (9)
 
-		
 		En este caso solo se uso el id para mostrar como por medio de los eventos se pasa información de un componente hijo a su padre, puedes usar esto mismo para pasar cualquier otra propiedad o disparar cualquier tipo de lógica usando los eventos.
 
-	* **Juan Luis Rojas León** (1)
+	* **Juan Luis Rojas León** [186461] (1)
 
-		
 		Perfecto, muchas gracias.
 
-* **Iván Mauricio Toro Cifuentes** (3)
+* **Iván Mauricio Toro Cifuentes** (3) [403800](https://platzi.com/comentario/403800/) 
 
-	
 	¡El sistema de componentes es genial!
 
-* **Angel Camacho** (3)
+* **Angel Camacho** (3) [335725](https://platzi.com/comentario/335725/) 
 
-	
 	Un punto importante para recalcar.  
 	También es posible emitir objetos. Si tomamos el ejemplo del video sería así:  
 	selectTrack () {  
@@ -27276,61 +25807,51 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 	
 	Esto es útil cuando es necesario ejecutar múltiples acciones desde un mismo evento, en este caso al seleccionar una música.
 
-* **Nacxit** (1)
+* **Nacxit** (1) [1004280](https://platzi.com/comentario/1004280/) 
 
-	
 	A diferencia de los props que es la comunicacion entre Padre e Hijo, para la comunicacion de Hijo a padre es atraves de eventos Vue contiene evento personalizados que es $emit la cual permite que el hijo interatuo con el padre a travez de evento.
 
-* **mecubro** (1)
+* **mecubro** (1) [1001896](https://platzi.com/comentario/1001896/) 
 
-	
 	Como te le puedo dar me gusta a este video?, es genial…
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [902324](https://platzi.com/comentario/902324/) 
 
-	
 	un componente hijo se comunica con un componente por medio de emitir un evento con metodo $emit()
 
-* **jonatandana** (1)
+* **jonatandana** (1) [608102](https://platzi.com/comentario/608102/) 
 
-	
 	Hola que tal no entendi algo  
 	cuando hago un metodo con el evento click
 	
 	tambien save reconocer el this (track)  
 	no entendi esa parte gracias
 
-	* **David Alejandro Abreu Abreu** (1)
+	* **David Alejandro Abreu Abreu** [608102] (1)
 
-		
 		Si entiendo bien tu pregunta: El evento a a bindear como _this_ , al elemento que esta emitiendo el evento. Por ello es que se puede obtener la información de cada elemento donde sucede el evento click.
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [580597](https://platzi.com/comentario/580597/) 
 
-	
 	Ty de nuevo jeje
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [562893](https://platzi.com/comentario/562893/) 
 
-	
 	Saludos.  
 	Checando los datos que retorna el API, observo una property llamada uri que me manda a spotify.  
 	Hay manera que mediante esta property me haga del sonido y reproducirlo en mi App
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [562893] (1)
 
-		
 		Por ahora no existe esa posibilidad. Spotify siempre te va a enviar a abrir la cancion en la app de ellos.
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [542358](https://platzi.com/comentario/542358/) 
 
-	
 	No entendí lo que hizo en [07:54](https://platzi.com/clases/1145-vuejs-profesional/7808-comunicacion-de-hijos-hacia-padres/?time=474) alguien podría explicarme un poco mejor?  
 	Saludos!
 
-	* **Juan Reyes** (2)
+	* **Juan Reyes** [542358] (2)
 
-		
 		Hola. Al componente se le agrega una clase con Data Binding. Es decir, que la clase va mostrarse según la condicion que se haga con los datos.
 		
 		En este caso:
@@ -27345,7 +25866,7 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 		
 		Entonces como existe el dataBinding, en el momento que selectedTrack tenga la misma ID que uno los elementos que se ha iterado en el bucle, el componente clickeado se va a mostrar con la clase is-active.
 
-* **cetasi** (1)
+* **cetasi** (1) [505006](https://platzi.com/comentario/505006/) 
 
 	```
 	     methods: {
@@ -27368,15 +25889,14 @@ Cuando el componente hijo recibe las props, ¿Como puedo hacer un console.log() 
 	    
 	```
 
-* **antoniofloresonline** (1)
+* **antoniofloresonline** (1) [499825](https://platzi.com/comentario/499825/) 
 De los mejores profesores !
 
-* **antoniofloresonline** (1)
+* **antoniofloresonline** (1) [499818](https://platzi.com/comentario/499818/) 
 Explica muy bien!!!!, Saludos al Profesor!!!
 
-* **edwarxdced** (1)
+* **edwarxdced** (1) [436867](https://platzi.com/comentario/436867/) 
 
-	
 	También se puede usar
 	``` 
 	    this.$parent.nombreDeMiFuncion()
@@ -27386,9 +25906,8 @@ Explica muy bien!!!!, Saludos al Profesor!!!
 	¿pero cual es la forma correcta?  
 	¿Cuando es recomendable usar uno u otro?
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [361837](https://platzi.com/comentario/361837/) 
 
-	
 	Yo aplique lo de **‘is-active’** de esta forma. En el archivo App.vue al component track le paso otra propiedad
 	``` 
 	    pm-track(:track="track":key="track.id"@select="setSelectedTrack":active="track.id === selectedTrack")
@@ -27415,23 +25934,20 @@ Explica muy bien!!!!, Saludos al Profesor!!!
 	
 	No se si este bien así que opinan?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [361837] (1)
 
-		
 		Si esta implementado muy bien. No es la única forma pero es una de las posibles. Excelente!  
 		Lo unico que te aconsejaria es cambiar el @select por el @click. y al método **setSelectedTrack** pasarle como argumento el [track.id](http://track.id).
 
-* **Oscar Stevens Cuartas Bejarano** (1)
+* **Oscar Stevens Cuartas Bejarano** (1) [276134](https://platzi.com/comentario/276134/) 
 
-	
 	acabo de bloquearme compañeros… me saca este error  
 	`DOMException: Failed to execute 'setAttribute' on 'Element': ',' is not a valid attribute name.`
 	
 	he revisado el codigo de la clase 1000 veces, puedo enviar del hijo al padre pero del padre al hijo me saca ese error y no se pintan mas las canciones. ayuda
 
-	* **Oscar Stevens Cuartas Bejarano** (0)
+	* **Oscar Stevens Cuartas Bejarano** [276134] (0)
 
-		
 		ya descubri mi error, una ‘,’ puesta en el pm-track que en mi caso por que no estoy usando PUG sino html normal era sin comas:  
 		`<pm-track v-bind:track="t" v-on:select="setSelectedTrack" />`
 		
@@ -27439,42 +25955,36 @@ Explica muy bien!!!!, Saludos al Profesor!!!
 		
 		`<pm-track v-bind:track="t", v-on:select="setSelectedTrack" />`
 
-	* **Wilder Hernández García** (0)
+	* **Wilder Hernández García** [276134] (0)
 
-		
 		a mi no me esta gustando eso de pug, lo hace un poco mas tedioso, encima con slint es un dolor de cabeza
 
-* **Nicolás Antonio Brusquetti Vargas** (1)
+* **Nicolás Antonio Brusquetti Vargas** (1) [205552](https://platzi.com/comentario/205552/) 
 
-	
 	En la sintaxis de vue no es necesario usar ; ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [205552] (4)
 
-		
 		En javascript no es necesario usar el `;` es más gusto de escritura.
 
-	* **jhonatandev** (1)
+	* **jhonatandev** [205552] (1)
 
-		
 		En este video del curso de Fundamente de Javascript, se explica cuando es necesario usar el `;`
 		
 		<https://platzi.com/clases/fundamentos-javascript/concepto/conocimientos-intermedios/estructura-del-lenguaje/material/>
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57270](https://platzi.com/comentario/562893/) 
 Saludos. Checando los datos que retorna el API, observo una property llamada uri que me manda a spotify. Hay manera que mediante esta pro...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [57270] (1)
 
-		
 		Por ahora no existe esa posibilidad. Spotify siempre te va a enviar a abrir la cancion en la app de ellos.
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [55517](https://platzi.com/comentario/542358/) 
 No entendí lo que hizo en 07...
 
-	* **Juan Reyes** (2)
+	* **Juan Reyes** [55517] (2)
 
-		
 		Hola. Al componente se le agrega una clase con Data Binding. Es decir, que la clase va mostrarse según la condicion que se haga con los datos.
 		
 		En este caso:
@@ -27489,34 +25999,29 @@ No entendí lo que hizo en 07...
 		
 		Entonces como existe el dataBinding, en el momento que selectedTrack tenga la misma ID que uno los elementos que se ha iterado en el bucle, el componente clickeado se va a mostrar con la clase is-active.
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [40069](https://platzi.com/comentario/361837/) 
 Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al component track le paso otra propiedad pm-tra...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [40069] (1)
 
-		
 		Si esta implementado muy bien. No es la única forma pero es una de las posibles. Excelente!  
 		Lo unico que te aconsejaria es cambiar el @select por el @click. y al método **setSelectedTrack** pasarle como argumento el [track.id](http://track.id).
 
-* **Oscar Fernando Segovia Julia** (0)
+* **Oscar Fernando Segovia Julia** (0) [309299](https://platzi.com/comentario/309299/) 
 
-	
 	Pero por qué delegar el elevento al padre si se puede hacer desde el hijo ? cuál es el chiste?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [309299] (1)
 
-		
 		Si tienes que pasar la información a otro componente que esta al mismo nivel (hijo) entonces de delegas la ejecución y el padre poder ejecutar puede enviar información a los dos hijos y con esto se enteran los dos de que algo pasó.
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [280035](https://platzi.com/comentario/280035/) 
 
-	
 	en caso que quiera mandar el evento desde un router como seria?  
 	(lo mismo que se ve en esta leccion solo que mandarlo desde rutas)
 
-* **Guillermo  Ferru** (0)
+* **Guillermo  Ferru** (0) [233248](https://platzi.com/comentario/233248/) 
 
-	
 	Estoy haciendo formulario y utilzando un varios componentes dentro que cambian de acuerdo a un select, un ejemplo es el sig:
 	``` 
 	      <transmisorPresionDiferencial  :unidades="unidades" @transmisorTipo="setTransmisorTipo"  :materiales="materiales" :fluidos="fluidos" v-if="transmisorPrincipioMedicionId === 1"></transmisorPresionDiferencial>
@@ -27574,14 +26079,12 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	no entiendo porque no se me ejecuta el $emit?  
 	Gracias
 
-* **Juan Carlos  Correa Herrera** (0)
+* **Juan Carlos  Correa Herrera** (0) [227611](https://platzi.com/comentario/227611/) 
 
-	
 	No entendí cómo funciona el bind con la clase is-active. ¿Por qué en un objeto? a lo que entiendo, ‘is-active’ será = true cuando el id del componente en turno sea = al seleccionado, pero ¿Por qué se pone dentro de un objeto y cómo es que funciona así correctamente? D;
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [227611] (4)
 
-		
 		Hola, hay varias formas de usar `v-bind:class`. La forma del objeto es las mas completa porque te permite manejar dentro de la misma directivas varias clases y que cada una tengo su estado indpendiente:
 		``` 
 		    <a:class="{ clase1: true, clase2: false"> Link </a>
@@ -27596,148 +26099,122 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 		    
 		```
 
-	* **Juan Carlos  Correa Herrera** (1)
+	* **Juan Carlos  Correa Herrera** [227611] (1)
 
-		
 		Ah, creo que ya entendí, clase1 tiene true, por lo tanto se mostrará. Y ya que es un booleano, puede ser cualquier tipo de comparación que retorne true o false : o
 		
 		Gracias por la pronta respuesta 😃
 
-* **Guillermo  Ferru** (0)
+* **Guillermo  Ferru** (0) [201215](https://platzi.com/comentario/201215/) 
 
-	
 	Buenas, porque el error del setSelectedTrack = id no figura en consola cuando se ejecuta el evento?? que esta sucediendo en ese momento?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [201215] (1)
 
-		
 		Hola, no aparace en consola porque no es un error de sintaxis ni tampoco es algo invalido que no se puede hacer. Pero de todas formas es incorrecto ya que lo que esta haciendo es sobreescribir el valor de `setSelectedTrack` (que es un metodo), en lugar de asignar el `id` a `selectedTrack` que es la propiedad que queremos utilizar.
 
-* **Liam Santiago** (0)
+* **Liam Santiago** (0) [195366](https://platzi.com/comentario/195366/) 
 
-	
 	hola que tal, es valido usar this.$parent().anyFunction() o this.$children()[0].anyFunction() para ejecutar metodos entre ambos componentes? o cual es lo recomendado (best practices en estos casos), saludos y gracias por la respuesta
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [195366] (1)
 
-		
 		Hola, si bien podes usarlo seria una mala practica por que estarias acoplando tus componentes (agregas dependencia). Eso hace que tus componentes sean menos escalables ya que cada vez que lo quieras usar vas a obligar a que el padre o el hijo de ese componente cumpla determinadas caracterisisticas o propiedas.
 		
 		Si es para salir del paso usalo, pero busca una solucion a futuro que permita matener componentes desacoplados.
 
-* **José Rodríguez** (0)
+* **José Rodríguez** (0) [184904](https://platzi.com/comentario/184904/) 
 
-	
 	Excelente explicacion. Es posible escuchar mas de un evento en el componente padre? y de que manera?
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [184904] (2)
 
-		
 		Muchas Gracias!  
 		Si, es posible. El procedimiento es el mismo pero tene en cuenta que cada evento deberia tener un nombre diferente. Por lo tanto dentro del component hijo haces donde creas necesario un `this.$emit('event2', {})` y en el componente padre lo enlazas a un metodo usando la directiva `v-`on:event2="handlerEvent2`(o`@event2=“handlerEvent2”`).
 
-	* **José Rodríguez** (0)
+	* **José Rodríguez** [184904] (0)
 
-		
 		Muchas gracias!
 
-## 0290. Utilización de Slots
+## 0290. Utilización de Slots [7809](https://platzi.com/clases/1145-vuejs-profesional/7809-slots/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **david.quintanilla** (18)
+* **david.quintanilla** (18) [183039](https://platzi.com/comentario/183039/) 
 
-	
 	hola @ianaya89, tengo una duda con esto de los slots, entiendo que desde un componente padre puedes inyectar html dentro de un componente hijo, hasta aquí todo bien, que pasaría si en vez de usar un framework de css como bulma ese template tuviera sus estilos en el componente padre y con la palabra “scoped”, cuando se inyecte en el hijo esos estilos van a funcionar o los estilos se definen en el componente hijo?, gracias y excelente curso estoy aprendiendo muchas cosas, felicidades.
 
-	* **Nacho Anaya** (20)
+	* **Nacho Anaya** [183039] (20)
 
-		
 		Hola, es una muy buena pregunta. En ese caso los estilos que se aplican son los del componente hijo ya que ese codigo HTML (que definis en el slot) se va a inyectar y renderizar en el componente hijo y no existirá en el padre.
 
-	* **david.quintanilla** (0)
+	* **david.quintanilla** [183039] (0)
 
-		
 		Gracias por tu respuesta.
 
-	* **WILMER ARLEY CAMPAÑA DIAZ** (2)
+	* **WILMER ARLEY CAMPAÑA DIAZ** [183039] (2)
 
-		
 		A menos que vayas a crear html que necesite estilos en el componente padre. El contenido creado en el componente padre debes darle estilos en el componente padre.
 
-* **Joaquin Araujo** (6)
+* **Joaquin Araujo** (6) [318933](https://platzi.com/comentario/318933/) 
 
-	
 	“Escribe algo que sabes que no va a retornar ningún resultado”
 	
 	![platzi.png](https://static.platzi.com/media/user_upload/platzi-d7eb6b51-bc64-4672-8e46-40063981973f.jpg)
 
-	* **axlina90** (0)
+	* **axlina90** [318933] (0)
 
-		
 		Hola si coloca el código del método para ver como lo tienes y poder ayudar
 
-	* **Joaquin Araujo** (0)
+	* **Joaquin Araujo** [318933] (0)
 
-		
 		Jeje muchas gracias por tu disposición pero solo fue una búsqueda que resultó ser válida
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [318933] (1)
 
-		
 		¡Temazo! Jajaja
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [318933] (1)
 
-		
 		Que buena canción! haha
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [318933] (1)
 
-		
 		jajaja
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [318933] (1)
 
-		
 		jajaja
 
-	* **Xavier Alexandro Basir Jeffrey** (1)
+	* **Xavier Alexandro Basir Jeffrey** [318933] (1)
 
-		
 		jajajaj no puede ser
 
-* **Darwin Rodríguez** (6)
+* **Darwin Rodríguez** (6) [279737](https://platzi.com/comentario/279737/) 
 
-	
 	Muy buenlo lo de los slots, pero estuvo mejor su utilidad (modals), muy bueno @ianaya89
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [279737] (0)
 
-		
 		Muchas Graciassss!
 
-* **luisalfredonavarroalbarracin** (3)
+* **luisalfredonavarroalbarracin** (3) [779619](https://platzi.com/comentario/779619/) 
 
-	
 	Genial el Slot, muy util.
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [902410](https://platzi.com/comentario/902410/) 
 
-	
 	El **Slot** en Vue es una funcionalidad inspirada en la especificación de Wed Components con la finalidad de poder definir zonas de contenido distribuido. Es por ello que en este artículo se presentan las principales características, su sintaxis y un ejemplo real de implementación en Vue.Js.
 
-* **ImFranQ** (2)
+* **ImFranQ** (2) [266082](https://platzi.com/comentario/266082/) 
 
-	
 	¿Como funciona el slot sin pug? no a todo el mundo le gusta usar pug
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [266082] (6)
 
-		
 		Funciona igual, simplemente pasas el slot como un atributo de la etiqueta. y para crear el slot usas un tag slot, por ejemplo
 		``` 
 		    <div>
@@ -27756,60 +26233,50 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 		
 		Puedes ver en su documentación oficial <https://vuejs.org/v2/guide/components.html#Named-Slots>
 
-* **Roberto Urita Jiménez** (2)
+* **Roberto Urita Jiménez** (2) [226432](https://platzi.com/comentario/226432/) 
 
-	
 	¿Cómo podriamos hacer para poder seleccionar la clase del componente de notificaciones desde el padre?
 	
 	Es decir, que pudieramos elejir que tipo de notificación es. Si es de error, de exito o simple notificación.
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [226432] (3)
 
-		
 		Hola, en ese caso habria que agregarle una propiedad al componente de notificacion que sea also asi como `type`. De esta manera podrias usar la propiedad `type` para determinar que clase css aplicarle al componente. Para esto deberias tambien hacer uso de la directiva `v-bind:class`.
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [606452](https://platzi.com/comentario/606452/) 
 
-	
 	genial aplique un slot en el Loader de modo que del componente padre podamos pasar un mensaje personalizado y lo logre… fino lo se los slot
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [590018](https://platzi.com/comentario/590018/) 
 
-	
 	Excelente clase, los Slots son geniales!!
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [562960](https://platzi.com/comentario/562960/) 
 
-	
 	Otro contexto de uso de slots.
 	
 	Imaginen los famosos mensajes de advertencia. En el hijo tienes declarada la estructura, presentación y comportamiento. pero desde los componentes padres puedes pasarle la informació que queires que proyecten. Advertencia, Satisfacción, Error, etc.
 
-* **Freddy Córdova Arana** (1)
+* **Freddy Córdova Arana** (1) [464212](https://platzi.com/comentario/464212/) 
 
-	
 	Hasta ahora el curso está increíble 😄 Es retador, hay mucha información por asimilar, pero está increíble
 
-* **Juan Carlos Felizzola Vega** (1)
+* **Juan Carlos Felizzola Vega** (1) [294298](https://platzi.com/comentario/294298/) 
 
-	
 	Esto de **Slots** no lo conocía. ¡Genial!
 
-* **jesusmurf** (1)
+* **jesusmurf** (1) [275924](https://platzi.com/comentario/275924/) 
 
-	
 	¿Qué utilidad práctica tiene usar slots?
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [275924] (3)
 
-		
 		Basicamente poder insertar elementos HTML directamente en un componente hijo. Sirve mucho cuando trabajas como componentes genericos como por ejemplo un Modal. El contenido HTML del modal puede variar mucho: textos, titulos, botones, etc.
 		
 		Para obtener mayor practicidad y generar componentes mas limpios y flexbiles podes usar slots y generar una estructura base pero a la que se le pueden agregar elementos diferentes segun cada caso
 
-* **Francisco Hernandez** (1)
+* **Francisco Hernandez** (1) [244817](https://platzi.com/comentario/244817/) 
 
-	
 	Algunas veces la consola me suelta este error
 	
 	GET [https://platzi-music-api.now.sh/search?q=angie&type=track](https://platzi-music-api.now.sh/search?q=angie&type=track) net::ERR_NAME_RESOLUTION_FAILED
@@ -27818,38 +26285,33 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	
 	algunas veces funciona o algunas veces no…
 
-* **Kevin Brayan Luna Figueroa** (1)
+* **Kevin Brayan Luna Figueroa** (1) [225185](https://platzi.com/comentario/225185/) 
 
-	
 	Un slot es para trabajar como contenedor distribución del contenido que tenga.
 
-* **Jesus Sandrea** (1)
+* **Jesus Sandrea** (1) [212802](https://platzi.com/comentario/212802/) 
 
-	
 	Porque a mi no me corrige el código con linter directamente en el editor de texto (atom), cuando me falta una coma me lo dice en la consola y no en el editor, que debo a hacer o instalar?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [212802] (2)
 
-		
 		Instala linter-eslint para atom.
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [212802] (1)
 
-		
 		Esto de linter me pone un poco loco, pero al corregir el error crece mi satisfacción por codear con buenas prácticas.
 		
 		Lástima que ya hice de todo y no quiere reconocerlo sublimetext. Un tuto porfa
 
-## 0300. Comunicacion entre Componentes Genericos - Event Bus y Plugins
+## 0300. Comunicacion entre Componentes Genericos - Event Bus y Plugins [7810](https://platzi.com/clases/1145-vuejs-profesional/7810-comunicacion-entre-componentes-hermanos-usando-plu/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Josh Ospina** (13)
+* **Josh Ospina** (13) [183035](https://platzi.com/comentario/183035/) 
 
-	
 	Buenas tardes Comparto mi resolución del ejercicio que se deja en el inicio del vídeo
 	
 	1ero creo props en el componente Notification y la asigno como variable en la clase del contenedor.
@@ -27891,14 +26353,12 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	
 	Saludos
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [183035] (2)
 
-		
 		Excelente resolución!
 
-	* **Daniee** (0)
+	* **Daniee** [183035] (0)
 
-		
 		No me funciona tu respuesta:
 		``` 
 		    ERROR in ./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/selector.js?type=script&index=0&bustCache!./src/App.vue
@@ -27911,22 +26371,19 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 		    
 		```
 
-	* **Alec André González Coral** (2)
+	* **Alec André González Coral** [183035] (2)
 
-		
 		Gracia por tu **aporte** , lo estaba buscando
 		
 		`<nice></nice>`  
 		`:)`
 
-	* **Xavier Alexandro Basir Jeffrey** (2)
+	* **Xavier Alexandro Basir Jeffrey** [183035] (2)
 
-		
 		Tenía una duda y tu código me ayudó a solventarla, muchas gracias!
 
-* **Guillermo  Ferru** (4)
+* **Guillermo  Ferru** (4) [201309](https://platzi.com/comentario/201309/) 
 
-	
 	Buenas, comparto mi solución… no me gusto mucho lo que hice en el watcher, si alguno me ayuda se lo agradeceria
 	
 	clase App.vue
@@ -28077,15 +26534,13 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [201309] (0)
 
-		
 		Muy bien Guille! no dejes de resolver los demás retos del curso =)  
 		¿has visto las implementaciones de tus demás compañeros en el watcher ? quizás podrías tomar ideas de ahí =)
 
-* **Johnny José Canelones Pantoja** (2)
+* **Johnny José Canelones Pantoja** (2) [573345](https://platzi.com/comentario/573345/) 
 
-	
 	mi ejemplo  
 	App.vue html
 	``` 
@@ -28144,9 +26599,8 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	    
 	```
 
-* **Sebastian sanchez** (2)
+* **Sebastian sanchez** (2) [416971](https://platzi.com/comentario/416971/) 
 
-	
 	Hola.  
 	Estoy necesitando graficar con highchart y Vue. Los datos para graficar vienen por api.  
 	Estoy usando Axios para graficar pero me responde que no reconoce la variable.  
@@ -28259,21 +26713,18 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	    
 	```
 
-	* **Humberto Arcaya** (1)
+	* **Humberto Arcaya** [416971] (1)
 
-		
 		prueba colocado la variable barra en el `return` del metodo `data()`
 
-* **Luis Felipe Andrés Barraza Vega** (2)
+* **Luis Felipe Andrés Barraza Vega** (2) [416353](https://platzi.com/comentario/416353/) 
 
-	
 	Hola! tengo un pequeño problema, me funciona todo super bn, pero! en Chrome no me funciona el reproductor si le doy audio(controls) no veo nada pero en el inspector de elementos me aparece, ahora si le digo audio(controls autoplay) me suena la musica al momento de seleccionar la cancion, pero en firefox me funciona sin problemas le paso a alguien?
 	
 	Saludos!
 
-	* **Cesar Becerra** (5)
+	* **Cesar Becerra** [416353] (5)
 
-		
 		Ponle un height al reproductor
 		``` 
 		    <template lang="pug">
@@ -28310,19 +26761,16 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 		    
 		```
 
-	* **Bryan Estiven Silva Mercado** (2)
+	* **Bryan Estiven Silva Mercado** [416353] (2)
 
-		
 		Gracias me has ayudado con el mismo error.
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [416353] (1)
 
-		
 		Mil gracias, me ayudó un montón.
 
-* **Kevin Brayan Luna Figueroa** (2)
+* **Kevin Brayan Luna Figueroa** (2) [225201](https://platzi.com/comentario/225201/) 
 
-	
 	Mi solución:  
 	Clase **App.vue**
 	``` 
@@ -28428,9 +26876,8 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	    
 	```
 
-* **Jose Fernando Nieto Suarez** (2)
+* **Jose Fernando Nieto Suarez** (2) [205831](https://platzi.com/comentario/205831/) 
 
-	
 	Buen día, comparto mi solución del reto del principio del vídeo (omitiendo el código no relevante)
 	
 	**App.vue**
@@ -28523,49 +26970,41 @@ Yo aplique lo de ‘is-active’ de esta forma. En el archivo App.vue al compone
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [205831] (0)
 
-		
 		Excelente, gracias por compartir!
 
-* **Sebastian sanchez** (2)
+* **Sebastian sanchez** (2) [45204](https://platzi.com/comentario/416971/) 
 Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vienen por api. Estoy usando Axios para graficar pero me re...
 
-	* **Humberto Arcaya** (1)
+	* **Humberto Arcaya** [45204] (1)
 
-		
 		prueba colocado la variable barra en el `return` del metodo `data()`
 
-* **TlalocES** (1)
+* **TlalocES** (1) [1078870](https://platzi.com/comentario/1078870/) 
 
-	
 	No creoq ue nadie responda a estas alturas, pero como funciona la parte de event bus, es decir haces $bus.emit, o lo que es lo mismo new Vue.emit, pero luego haces $bus.on o lo que es lo mismo new Vue.on, son todo el rato instancias nuevas, como es posibles que instancias nuevas y diferentes tengan guardados eventos?
 	
 	Gracias.
 
-* **mecubro** (1)
+* **mecubro** (1) [1003813](https://platzi.com/comentario/1003813/) 
 
-	
 	No puedo agregar mi codigo me sale un mensaje de forbbiden
 
-* **mecubro** (1)
+* **mecubro** (1) [1003811](https://platzi.com/comentario/1003811/) 
 
-	
 	Crei que este video ya lo habiamos visto, ya tenia todo creado pero no me acuerdo a donde estaba el video
 
-* **mecubro** (1)
+* **mecubro** (1) [1002392](https://platzi.com/comentario/1002392/) 
 
-	
 	A donde le doy me gusta, por que tambien es muy buena!
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [902858](https://platzi.com/comentario/902858/) 
 
-	
 	 **Event Bus** y **Plugins** permite la comunicacion entre componentes que no tienes relacion de padre/hijo sino q son componentes llamos desde distintos puntos de la aplicacion.
 
-* **neontigermx** (1)
+* **neontigermx** (1) [805481](https://platzi.com/comentario/805481/) 
 
-	
 	Espero haber entendido el ejercicio xD  
 	**App.vue  
 	**
@@ -28699,9 +27138,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **fasj90** (1)
+* **fasj90** (1) [799962](https://platzi.com/comentario/799962/) 
 
-	
 	**Notification.vue**
 	``` 
 	    <templatelang="pug">
@@ -28884,9 +27322,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Kingsman7** (1)
+* **Kingsman7** (1) [746395](https://platzi.com/comentario/746395/) 
 
-	
 	aqui el reto quizas exita una mejor manera. Yo solo utilice el html
 	
 	**NOTIFICACIONES**
@@ -28956,9 +27393,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **David Alberto Mogollón Fernández** (1)
+* **David Alberto Mogollón Fernández** (1) [675691](https://platzi.com/comentario/675691/) 
 
-	
 	**Notifications.vue**
 	``` 
 	    <templatelang="pug">
@@ -29119,7 +27555,7 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **jonatandana** (1)
+* **jonatandana** (1) [609133](https://platzi.com/comentario/609133/) 
 
 	```
 	    <templatelang="pug">
@@ -29302,9 +27738,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [591963](https://platzi.com/comentario/591963/) 
 
-	
 	Solución:
 	
 	**Notification.vue**
@@ -29476,18 +27911,16 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **jgorocica** (1)
+* **jgorocica** (1) [558082](https://platzi.com/comentario/558082/) 
 
-	
 	Solo se crearía un solo archivo de plugin para cualquier funcionalidad o sería recomendable crear uno por cada funcionalidad que existiera dentro del proyecto (?). Es decir, si en el ejemplo de Platzi-music hubiese otra situación en la que se necesitara usar un plugin, se podría usar el mismo event-bus.js o se crearía otro (?)
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [558082] (1)
 
-		
 		Hola, aqui puedes aplicar un [patron](https://www.oscarblancarteblog.com/2018/08/15/principios-solid-patrones-diseno/) de diseño: Unica responsabilidad.  
 		En conclusion es mejor que mantengas tus funcionalidades separadas. Es decir, mantén un archivo para diferentes propósitos.
 
-* **Fabian Rivas** (1)
+* **Fabian Rivas** (1) [554406](https://platzi.com/comentario/554406/) 
 
 	```
 	    <code>
@@ -29504,14 +27937,12 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **omar-espana** (1)
+* **omar-espana** (1) [552712](https://platzi.com/comentario/552712/) 
 
-	
 	Un event bus seria el equivalente a una base de datos en memoria cierto? Osea, hace algo muy similar, pero si tenemos una base de datos por lo menos podermos persisitir los cambios
 
-* **Alec André González Coral** (1)
+* **Alec André González Coral** (1) [552593](https://platzi.com/comentario/552593/) 
 
-	
 	Buenas tardes, hay algo que no entiendo y estoy ansioso por resolverlo. Digamos que refrescas la página o presionas la tecla F5, ¿Porque no aparece al menos una imagen sin src, el elemento audio sin src? Está claro que el texto título de la canción no aparece porque es la primera carga y no tiene nada que mostrar, pero ¿y lo demás ?
 	
 	Obviamente si busco y selecciono un track, si aparecera todo, pero mi consulta es que cuando actualizo o cargo el proyecto por primera vez no aparece el html del pm-player. En ningún momento hemos puesto un v-if o v-show al compomente pm-player. Incluso si agrego un texto fijo en el componente pm-player:
@@ -29553,14 +27984,13 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	
 	Por favor, necesito que me ayuden a resolver esta duda. ¿A qué se debe este comportamiento?
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [552593] (1)
 
-		
 		Hola.  
 		Curiosamente tenemos la misma inquietud. Observando la consola llego a la conclusión de que al inicio de toda operación el componente Player se encuentra en error. Por tanto es imposible mostrarlo.  
 		Cuando se hace una consulta y se presiona play, el componente ya tiene la data, por tanto sale de error y se muestra en pantalla.
 
-* **Jtha** (1)
+* **Jtha** (1) [472157](https://platzi.com/comentario/472157/) 
 
 	```
 	    <template>
@@ -29592,9 +28022,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **MichaelSornoza** (1)
+* **MichaelSornoza** (1) [452043](https://platzi.com/comentario/452043/) 
 
-	
 	App.vue
 	``` 
 	    <templatelang="pug">
@@ -29752,14 +28181,12 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [449335](https://platzi.com/comentario/449335/) 
 
-	
 	Si el componente player(reproductor no aparece) den le un ancho a la etiqueta **audio**
 
-* **Cesar Becerra** (1)
+* **Cesar Becerra** (1) [418728](https://platzi.com/comentario/418728/) 
 
-	
 	Dejo mi solución, sencilla pero espero les ayude
 	
 	**APP.VUE**
@@ -29827,35 +28254,31 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [418728] (1)
 
-		
 		Muy buena solucion bro muy facil y sencilla directo al grano.
 
-* **Sebastian sanchez** (1)
+* **Sebastian sanchez** (1) [416974](https://platzi.com/comentario/416974/) 
 
-	
 	Sumo al texto de recien que la idea es usar esto para pasarle otro json y cambiarle que sea de torta en vez de linea y funciona, y asi
 
-* **Jenny Katherine Aguilera Morales** (1)
+* **Jenny Katherine Aguilera Morales** (1) [411050](https://platzi.com/comentario/411050/) 
 
-	
 	Hola, una inquietud tengo este error:  
 	`[Vue warn]: Error in render: "TypeError: _vm.track.album is undefined" found in ---> <PmPlayer> at src/components/Player.vue <PmHeader> at src/components/layout/Header.vue <App> at src/App.vue <Root> 1:592:7 TypeError: "_vm.track.album is undefined"`
 	
 	Pero su funcionalidad esta bien, alguien sabe a que se debe?
 
-	* **silvermiguel96** (1)
+	* **silvermiguel96** [411050] (1)
 
-		
 		Hola todavía tienes el problema , comparte el código en Git por favor.
 
-* **Iván Mauricio Toro Cifuentes** (1)
-![platzimusic.png](https://static.platzi.com/media/user_upload/platzimusic-5a898274-6c2d-4a2f-815c-639ec120a7f7.jpg)
-
-* **axel_vc** (1)
-
+* **Iván Mauricio Toro Cifuentes** (1) [406987](https://platzi.com/comentario/406987/) 
 	
+	![platzimusic.png](https://static.platzi.com/media/user_upload/platzimusic-5a898274-6c2d-4a2f-815c-639ec120a7f7.jpg)
+
+* **axel_vc** (1) [399612](https://platzi.com/comentario/399612/) 
+
 	Comparto mi solucion:
 	
 	Cambie la propiedad “searchMessage” para que devolviera un objeto el cual leerá el componente de las notificaciones y modifique el watch para que cuando sea el objeto con la propiedad “class: alert” este se borre en 2 segundos (me gusto mas tener 2 segundos)
@@ -29889,9 +28312,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Jhojany Jose Uzategui Araujo** (1)
+* **Jhojany Jose Uzategui Araujo** (1) [381304](https://platzi.com/comentario/381304/) 
 
-	
 	esta es mi solucion  
 	App.vue
 	``` 
@@ -30042,9 +28464,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Victor Gamez** (1)
+* **Victor Gamez** (1) [343863](https://platzi.com/comentario/343863/) 
 
-	
 	Es buena idea generar un “helper” a nivel de plugins?  
 	Os pongo en contexto:
 	
@@ -30072,9 +28493,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-	* **Victor Gamez** (1)
+	* **Victor Gamez** [343863] (1)
 
-		
 		Un ejemplo de caso de uso:
 		``` 
 		    exportdefault {
@@ -30090,9 +28510,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 		    
 		```
 
-* **Kevin Lozoya Giner** (1)
+* **Kevin Lozoya Giner** (1) [312397](https://platzi.com/comentario/312397/) 
 
-	
 	Voy a poner los cambios
 	
 	App.vue  
@@ -30192,9 +28611,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Way** (1)
+* **Way** (1) [267743](https://platzi.com/comentario/267743/) 
 
-	
 	principal component
 	``` 
 	    pm-notification(v-show="tracksLength >= 0" v-bind:tracksLength="tracksLength")
@@ -30245,18 +28663,16 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-	* **Juan Alberto de Jesus Granados Acosta** (1)
+	* **Juan Alberto de Jesus Granados Acosta** [267743] (1)
 
-		
 		En la respueta del metodo Search añadi esta linea
 		``` 
 		    this.tracksLength = res.tracks.total
 		    
 		```
 
-* **Yefferson Guarnizo** (1)
+* **Yefferson Guarnizo** (1) [257457](https://platzi.com/comentario/257457/) 
 
-	
 	mi solucion seria la siguiente:
 	
 	en el method search()
@@ -30292,7 +28708,7 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	<p slot=“notify” id=“notify”>…</p>  
 	</im-notification>
 
-* **wjcg42** (1)
+* **wjcg42** (1) [253461](https://platzi.com/comentario/253461/) 
 
 	```
 	    <template>
@@ -30314,9 +28730,8 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-* **Alejandro Salazar** (1)
+* **Alejandro Salazar** (1) [216896](https://platzi.com/comentario/216896/) 
 
-	
 	Aquí mi solución
 	
 	App.vue
@@ -30448,14 +28863,12 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [216896] (0)
 
-		
 		Excelente trabajo alejandro =)
 
-* **iamnotadonjuan** (1)
+* **iamnotadonjuan** (1) [205075](https://platzi.com/comentario/205075/) 
 
-	
 	Buen día, comparto mi solución.
 	
 	Primero que todo creo dos nuevas variables:  
@@ -30562,44 +28975,39 @@ Hola. Estoy necesitando graficar con highchart y Vue. Los datos para graficar vi
 	
 	Saludos y está muy bueno el curso.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [205075] (0)
 
-		
 		Genial, muchas gracias!
 
-* **jesusamaro25** (1)
+* **jesusamaro25** (1) [64741](https://platzi.com/comentario/681143/) 
 Descargando el proyecto de la sección archivos y enlaces de este video, al correrlo los estilos no funcionan correctamente. Yo presenté u...
 
-* **jgorocica** (1)
+* **jgorocica** (1) [56878](https://platzi.com/comentario/558082/) 
 Solo se crearía un solo archivo de plugin para cualquier funcionalidad o sería recomendable crear uno por cada funcionalidad que existier...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [56878] (1)
 
-		
 		Hola, aqui puedes aplicar un [patron](https://www.oscarblancarteblog.com/2018/08/15/principios-solid-patrones-diseno/) de diseño: Unica responsabilidad.  
 		En conclusion es mejor que mantengas tus funcionalidades separadas. Es decir, mantén un archivo para diferentes propósitos.
 
-* **Alec André González Coral** (1)
+* **Alec André González Coral** (1) [56432](https://platzi.com/comentario/552593/) 
 Buenas tardes, hay algo que no entiendo y estoy ansioso por resolverlo. Digamos que refrescas la página o presionas la tecla F5, ¿Porque ...
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [56432] (1)
 
-		
 		Hola.  
 		Curiosamente tenemos la misma inquietud. Observando la consola llego a la conclusión de que al inicio de toda operación el componente Player se encuentra en error. Por tanto es imposible mostrarlo.  
 		Cuando se hace una consulta y se presiona play, el componente ya tiene la data, por tanto sale de error y se muestra en pantalla.
 
-* **Jenny Katherine Aguilera Morales** (1)
+* **Jenny Katherine Aguilera Morales** (1) [44715](https://platzi.com/comentario/411050/) 
 Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _vm.track.album is undefined" found in ---> <P...
 
-	* **silvermiguel96** (1)
+	* **silvermiguel96** [44715] (1)
 
-		
 		Hola todavía tienes el problema , comparte el código en Git por favor.
 
-* **OSCAR MONTOYA** (0)
+* **OSCAR MONTOYA** (0) [506789](https://platzi.com/comentario/506789/) 
 
-	
 	Notification.vue
 	``` 
 	    <template lang="pug">
@@ -30654,9 +29062,8 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	    
 	```
 
-* **axlina90** (0)
+* **axlina90** (0) [326181](https://platzi.com/comentario/326181/) 
 
-	
 	Saludos, comparto mi solución, en la data de App.vue anexe una propiedad llamada total: 0, modifique el watch y el método search:
 	
 	App.vue
@@ -30701,9 +29108,8 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	
 	En el archiov Notification.vue le quite el div que contiene la clase notification para que sea anexado desde el App, es que no supe como anexarle una clase a un div ya definido, si hay una manera mejor de hacerlo me comentan
 
-* **Codehero** (0)
+* **Codehero** (0) [320118](https://platzi.com/comentario/320118/) 
 
-	
 	Hola buenas tardes, este es un error aparte.
 	
 	Aye estaba viendo el video y la app funcionaba bien, tuve que salir y ahora al intentar iniciarla me sale este error
@@ -30752,9 +29158,8 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	
 	@ianaya89 ?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [320118] (1)
 
-		
 		Elimina el folder node_modules e instala de nuevo todos los paquetes con
 		``` 
 		    npm i
@@ -30763,21 +29168,18 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 		
 		Haber como te va.
 
-* **Codehero** (0)
+* **Codehero** (0) [318361](https://platzi.com/comentario/318361/) 
 
-	
 	@ianaya89 Tengo 2 errores en la aplicacion, uno es el que comenta @sukomost que ya lei la contestación de Anaya, y el otro es que cuando selecciono una canción la agrega y me la reproduce, pero si hago otra busqueda y selecciono una nueva cancion, en el player queda seleccionada la primera solamente.
 	
 	Alguien sabe porque pasa esto? se solucionara en un futuro? o solo me pasa a mi?
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [318361] (1)
 
-		
 		Al parecer la nueva canción seleccionada no tiene preview, por tanto el audio no se modifica
 
-* **Nidi** (0)
+* **Nidi** (0) [315361](https://platzi.com/comentario/315361/) 
 
-	
 	En App.vue Dejé la notificación así:
 	``` 
 	    nd-notification(v-show="showNotification" v-bind:total="total")
@@ -30838,19 +29240,16 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	Espero sus comentarios al respecto!  
 	Saludos!
 
-* **Franklin Lucero** (0)
+* **Franklin Lucero** (0) [310081](https://platzi.com/comentario/310081/) 
 
-	
 	Que buena clase!
 
-* **viciotec** (0)
+* **viciotec** (0) [284963](https://platzi.com/comentario/284963/) 
 
-	
 	El evento bus global al estar en vue-router cada vez que cambio de ruta y vuelvo se vuelve a correr el evento haciendo que este dos veces y corra dos veces. Como lo soluciono??
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [279766](https://platzi.com/comentario/279766/) 
 
-	
 	Me aparece este error al recargar:
 	``` 
 	    [Vue warn]: Error in render: "TypeError: _vm.track.album is undefined" found in ---> <PmPlayer> at src\components\Player.vue <PmHeader> at src\components\layout\Header.vue <App> at src\App.vue <Root>
@@ -30859,24 +29258,20 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	
 	Supongo que es porque al momento que se renderiza el componente Header aún no existe el track, el track se lo paso por medio del click, solución???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [279766] (1)
 
-		
 		Puedes compartir el código del archivo player.vue para ayudarte a encontrar el problema
 
-* **jesusmurf** (0)
+* **jesusmurf** (0) [276206](https://platzi.com/comentario/276206/) 
 
-	
 	Instalar el plugin
 
-* **jesusmurf** (0)
+* **jesusmurf** (0) [276205](https://platzi.com/comentario/276205/) 
 
-	
 	Creación del plugin
 
-* **marianotella** (0)
+* **marianotella** (0) [273472](https://platzi.com/comentario/273472/) 
 
-	
 	Mi solución  
 	App.vue
 	``` 
@@ -31013,9 +29408,8 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	    
 	```
 
-* **Hector Vasquez** (0)
+* **Hector Vasquez** (0) [243113](https://platzi.com/comentario/243113/) 
 
-	
 	Un par de preguntas:
 	
 	1- En una aplicación que por ejemplo, tiene el header y el footer hecho con reactJs. Y creo un componente en vueJs para manejar una sección.
@@ -31026,33 +29420,28 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	
 	Cuál es la mejor práctica para integrar la app existente de vue con una nueva app en vue, en el mismo sitio?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [243113] (2)
 
-		
 		Lo mejor es que no hagas ese tipo de mezclas entre tecnologías de frontend como react y vue ya que el mantenimiento del código es imposible, ademas que la única forma viable de comunicar componentes es por medio de los storages de redux por ejemplo para el caso de react.
 		
 		Si vas a integrar solo una parte en vue o react solo tienes que insertar la parte del código JavaScript del componente para que sea llamado y el div correspondiente donde va a cargar ese módulo y pasar los datos al componente.
 
-* **Edgar Valdez Moises** (0)
+* **Edgar Valdez Moises** (0) [233380](https://platzi.com/comentario/233380/) 
 
-	
 	Es buena práctica usar “$” el los plugins customs ?  
 	Como garantizamos que no estemos pisando plugins de Vue o de terceros que hayamos importado ?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [233380] (0)
 
-		
 		Hola, considero que es buena pratica porque permite diferenciar un plugin de un metodo o propiedad del componente. No hay una manera de verificar que no estes pisando funcionalidad de Vue mas alla de conocer lo que trae por defecto y lo que importas. Por ejemplo: `emit`, `set`, `route`, 'router`,`store`, etc.
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [233380] (0)
 
-		
 		Entiendo, gracias por la respuesta.  
 		Entonces simplemente habría que verificar antes de nombrar a nuestro plugins
 
-* **Luis Lacruz** (0)
+* **Luis Lacruz** (0) [225174](https://platzi.com/comentario/225174/) 
 
-	
 	Buenas comparto solución del reto, primeramente creo un objecto dentro de **data** llamado `notification` dicho objecto contiene dos valores booleanos uno `isOpen` para mostrar el componente `PmNotification` y `isSuccess` para validar el color de la notification a mostrar. Ademas de esos creo la variable `results` para mostrar el numero de resultados encontrados.
 	``` 
 	     pm-notification(
@@ -31148,9 +29537,8 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	    
 	```
 
-* **Emilio Rafael Hernandez Perez** (0)
+* **Emilio Rafael Hernandez Perez** (0) [199592](https://platzi.com/comentario/199592/) 
 
-	
 	Comparto mi solución al pequeño reto
 	``` 
 	    añado dos variables nuevas al data en app.vue
@@ -31232,19 +29620,16 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	    
 	```
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [199592] (0)
 
-		
 		Excelente Emilio, no dejes de resolver todosos retos del curso
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [199592] (0)
 
-		
 		Muy bueno 👏
 
-	* **Codehero** (0)
+	* **Codehero** [199592] (0)
 
-		
 		Ya que todos se estan poniendo creativos, aqui va mi respuesta:
 		
 		1.- Creo un objeto dentro de data, que contendra la información necesaria para mostrar mi objeto y la clase que utilizara, agregando atributos para cada uno de ellos
@@ -31336,9 +29721,8 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 		    
 		```
 
-* **sukomost** (0)
+* **sukomost** (0) [195114](https://platzi.com/comentario/195114/) 
 
-	
 	Me salen estos dos errores. Alguien sabe a que se deben o como solucionarlos??
 	
 	vue.esm.js?65d7:476 [Vue warn]: Error in render function: “TypeError: Cannot read property ‘images’ of undefined”
@@ -31362,72 +29746,60 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 	at init (vue.esm.js?65d7:3563)  
 	at createComponent (vue.esm.js?65d7:5212)
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [195114] (4)
 
-		
 		Hola, es un error que vamos a corregir en los proximos videos. En realidad si bien todo funciona correctamente hay un momento donde el player no tiene nada seleccionado (no tiene cancion), pero de todos modos nosotros queremos acceder a la propiedad `track.album.images[0]` (que todavia no existe). Para evitar eso lo que hacemos es dejar el `div` container con el siguiente codigo: `.content(v-if="track && track.album")`. Esto evita que el componente se renderize cuando no haya ninguna cancion seleccionada.
 
-	* **sukomost** (0)
+	* **sukomost** [195114] (0)
 
-		
 		Gracias por la respuesta, todo claro.
 
-* **Kevin  Castillo Mora** (0)
+* **Kevin  Castillo Mora** (0) [191458](https://platzi.com/comentario/191458/) 
 
-	
 	@ianaya89 Seria de mala practicar utilizar siempre el event bus? o es preferible solo utilizarlo si los componentes no sean padres ni hijos?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [191458] (1)
 
-		
 		Depende el caso, no te recomiendo usarlo siempre ya que desde un componente padre a un hijo la forma nativa de comunicacion resulta mas sencilla ya que es explicita. Es mas facil de seguir y de predecir lo que pasa.
 		
 		En todo caso si puede convenir usarlo cuando desde el padre queres pasar informacion a un componente “nieto” (al hijo de un hijo) para evitar tener que arrastrar propiedades hacia abajo por toda la cadena de componentes y evitar tener que propagar todos los eventos hacia arriba.
 		
 		Tambien mas adelante vas a ver el uso de Vuex que aporta otra posible solucion a esta problematica.
 
-	* **Kevin  Castillo Mora** (1)
+	* **Kevin  Castillo Mora** [191458] (1)
 
-		
 		Perfecto totalmente claro, muchas gracias! Sos un excelente profesor!
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [191458] (0)
 
-		
 		Gracias 😀😀😀
 
-* **Diego Andres Cardenas Caro** (0)
+* **Diego Andres Cardenas Caro** (0) [188805](https://platzi.com/comentario/188805/) 
 
-	
 	El scoped de los style, es exclusivo de vuejs o es una propiedad nativa de css?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [188805] (1)
 
-		
 		Es de vuejs si usas los estilos en cada archivo .vue, puedes tener un css que aplique estilos generales a tu aplicación y en los archivos vue poner estilos de tu componente especifico.
 
-* **Jose R. Torrens Acosta** (0)
+* **Jose R. Torrens Acosta** (0) [184012](https://platzi.com/comentario/184012/) 
 
-	
 	Con el uso de Vuex el uso de estos plugins se usa menos, o son 2 cosas distintas?
 	
 	Porque se me ocurre colocar una propiedad en el store y poner una propiedad computada que cuando cambie se actualice el player. Cual de las 2 formas es mas eficiente?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [184012] (1)
 
-		
 		Con el uso de vuex este plugin del event-bus no tendria sentido. Pero podes usar otro tipo de plugins, como por ejemplo una funcionalidad de para almacenar info en el browser (como un wrapper del `storage`). De esta manera garantizas que todos tus componentes tengan disponible esas funciones (sin tener que hacer imports o agregarlo manualmente).
 		
 		Ambas formas son eficientes y validas. El tema esta en ver si necesitas usar vuex o no. En general si es una app chica el uso de Vuex es una sobre carga que probablemente no necesites y vas a poder arreglarte con el `event-bus`.
 
-* **Juan Diego Brocca Salazar** (0)
+* **Juan Diego Brocca Salazar** (0) [181737](https://platzi.com/comentario/181737/) 
 
-	
 	En que video hicieron el cambio del @/ ?
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [181737] (3)
 
-		
 		Hola, eso esta en el video 27 minuto 07:50.
 		
 		De todos modos la configuracion es sencilla, debes ir al `webpack.config.js` y agregar dentro del objeto `resolve` un nuevo alias: `'@': path.resolve(__dirname, './src')`
@@ -31443,12 +29815,11 @@ Hola, una inquietud tengo este error: [Vue warn]: Error in render: "TypeError: _
 		    
 		```
 
-* **Codehero** (0)
+* **Codehero** (0) [36236](https://platzi.com/comentario/320118/) 
 Hola buenas tardes, este es un error aparte. Aye estaba viendo el video y la app funcionaba bien, tuve que salir y ahora al intentar iniciar
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [36236] (1)
 
-		
 		Elimina el folder node_modules e instala de nuevo todos los paquetes con
 		``` 
 		    npm i
@@ -31457,140 +29828,122 @@ Hola buenas tardes, este es un error aparte. Aye estaba viendo el video y la app
 		
 		Haber como te va.
 
-# Vue Router							
+# Vue Router							 [1343]
 
-## 0310. Introducción a Vue Router
+## 0310. Introducción a Vue Router [7811](https://platzi.com/clases/1145-vuejs-profesional/7811-introduccion-a-vue-router/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Carlos Felizzola Vega** (9)
+* **Juan Carlos Felizzola Vega** (9) [294592](https://platzi.com/comentario/294592/) 
 
-	
 	 **Características de vue-router:**
 	
-	  * Permite crear rutas anidadas
-	  * Es modular
-	  * Permite crear rutas con parámetros
-	  * Permite aplicar transiciones a las rutas
-	  * Permite trabajar con el modo historial HTML5
+	* Permite crear rutas anidadas
+	* Es modular
+	* Permite crear rutas con parámetros
+	* Permite aplicar transiciones a las rutas
+	* Permite trabajar con el modo historial HTML5
 	
 	
 
-* **mariomenjr** (4)
+* **mariomenjr** (4) [259983](https://platzi.com/comentario/259983/) 
 
-	
 	Vuejs es lo que Angular dejo de ser.  
 	No digo que Angular sea malo, pero Vuejs te da más libertad.
 
-	* **Juan Carlos Felizzola Vega** (2)
+	* **Juan Carlos Felizzola Vega** [259983] (2)
 
-		
 		Ultimamente Angular ha mejorado mucho
 
-	* **Javier Marin** (4)
+	* **Javier Marin** [259983] (4)
 
-		
 		@juancafelizzola sure, ha mejorado pero nunca se ha destacado por permitirte mucha libertad, tiene una manera de hacer las cosas y salirse de ellas es complicado (no imposible).
 		
 		En lo personal, no me siento nada comodo en Angular.
 
-	* **Alejandro González Reyes** (1)
+	* **Alejandro González Reyes** [259983] (1)
 
-		
 		Hay muchas caracteristicas que difieren de Angular 1  
 		No hay factories  
 		No incluye un modulo http  
 		Entre otras.  
 		Si bien es sencillo de trabajar, donde si coincido es que es más claro del que hacer y no como hacerlo.
 
-* **Iván Mauricio Toro Cifuentes** (3)
+* **Iván Mauricio Toro Cifuentes** (3) [406997](https://platzi.com/comentario/406997/) 
 
-	
 	Cada vez mas interesante.
 
-* **Nacxit** (1)
+* **Nacxit** (1) [1009905](https://platzi.com/comentario/1009905/) 
 
-	
 	Vuye route es un plugin o inrutador que premite aplicar SPA (single page application) con el objetivo de renderizar y mejor el rendimiento de la aplicacion tambien permite realizar rutas annidadas, es modular es decir permite que cada componente tanga s propia ruta tambien permite que la ruta utilize parametro como tambien brindar seguridad segun los roles que correspondan, y por ultimo permite agregarle efectos visuales de transicion
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [902869](https://platzi.com/comentario/902869/) 
 
-	
 	 **Vue Router** es el enrutador oficial de Vue.js  
 	Se integra profundamente con el núcleo de Vue.js para facilitar la creación de aplicaciones de una sola página con Vue.js (SPA). Las características incluyen:
 	
-	  * Ruta anidada / mapeo de vista
-	  * Configuración de enrutador modular basada en componentes
-	  * Parámetros de ruta, consulta, comodines
-	  * Ver los efectos de transición impulsados por el sistema de transición de Vue.js
-	  * Control de navegación de grano fino
-	  * Enlaces con clases de CSS activas automáticas
-	  * Modo de historial HTML5 o modo hash, con recuperación automática en IE9
-	  * Comportamiento de desplazamiento personalizable
+	* Ruta anidada / mapeo de vista
+	* Configuración de enrutador modular basada en componentes
+	* Parámetros de ruta, consulta, comodines
+	* Ver los efectos de transición impulsados por el sistema de transición de Vue.js
+	* Control de navegación de grano fino
+	* Enlaces con clases de CSS activas automáticas
+	* Modo de historial HTML5 o modo hash, con recuperación automática en IE9
+	* Comportamiento de desplazamiento personalizable
 	
 	
 
-* **Juan López Jorge** (1)
+* **Juan López Jorge** (1) [82732](https://platzi.com/comentario/1011586/) 
 Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y usar el this.$root.$emit(...) que también hace lo mismo ...
 
-	* **Samuel Mata** (1)
+	* **Samuel Mata** [82732] (1)
 
-		
 		Buenas amigo, la unica diferencia es q uno es un plugin como vimos en la clase y el otro corresponde a un handler de la instancia Vue. Me imagino que el profesor utilizo el plugin para ilustrar la clase. Saludos.
 
-## 0320. Instalar vue-router y configurar router view
+## 0320. Instalar vue-router y configurar router view [7812](https://platzi.com/clases/1145-vuejs-profesional/7812-instalar-vue-router-y-configurar-router-view/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **osmandi (Platzi)** (12)
+* **osmandi (Platzi)** (12) [256927](https://platzi.com/comentario/256927/) 
 
-	
 	¿Alguien más sintió algún remordimiento al borrar tanto código de src/App.vue o lo hicieron sin sentimiento alguno?
 
-	* **Nacho Anaya** (21)
+	* **Nacho Anaya** [256927] (21)
 
-		
 		No hay nada mas lindo que borrar y refactorizar codigo XD
 
-	* **osmandi (Platzi)** (3)
+	* **osmandi (Platzi)** [256927] (3)
 
-		
 		Muy cierto! Un código mas presentable es mejor. Pero es que le agarro cariño a cada línea de código que escribo jejeje 😃
 
-	* **Carlos Oblitas Villegas** (3)
+	* **Carlos Oblitas Villegas** [256927] (3)
 
-		
 		Yo duplique ese archivo y lo guarde con otro nombre 😄
 
-	* **ferontv_** (4)
+	* **ferontv_** [256927] (4)
 
-		
 		Yo voy guardando con git localmente. Así nunca pierdo nada
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [256927] (1)
 
-		
 		Yo si lo sentí
 
-	* **jankrloz** (3)
+	* **jankrloz** [256927] (3)
 
-		
 		Una rama para cada clase, basada en la anterior, asi pueden moverse entre los codigos de cada clase, comparar ramas, etc.
 
-* **Angel Infanti** (4)
+* **Angel Infanti** (4) [608243](https://platzi.com/comentario/608243/) 
 
-	
 	Felices los cuatro 😄
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [592088](https://platzi.com/comentario/592088/) 
 
-	
 	Yo cambie de:  
 	`.content(v-if="track && track.album")`  
 	a solo:  
@@ -31599,9 +29952,8 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	Debido a que ya hemos registrado el **track** objecto.  
 	Saludos
 
-* **Angel Santillan Brambila** (2)
+* **Angel Santillan Brambila** (2) [778258](https://platzi.com/comentario/778258/) 
 
-	
 	Yo agregue una notificación de que si la canción no tiene un previw me mande una notificación de que la canción no lo tiene disponible  
 	Comparto mi codigo
 	``` 
@@ -31658,48 +30010,41 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	    
 	```
 
-* **Eliseo Geraldo González** (2)
+* **Eliseo Geraldo González** (2) [49006](https://platzi.com/comentario/461547/) 
 7:16 cuando quita la importación de footer y header, atom marca un error en la linea 43 'PmFooter' is not defined, alguien s...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [49006] (1)
 
-		
 		Depende de como configures tu linter.  
 		Aqui puedes revisar la regla para [ESLint](https://eslint.org/docs/rules/no-unused-vars)
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [902939](https://platzi.com/comentario/902939/) 
 
-	
 	Hemos visto lo basi con VUE ROUTER, como instalarlo, crear rutas, asociar rutas a componenetes.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [563600](https://platzi.com/comentario/563600/) 
 
-	
 	Changos, al inicio debí hacer un git init de mi proyecto, ahora tengo que estar comentando muchas partes del mismo para no perder la secuencia del curso.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [563598](https://platzi.com/comentario/563598/) 
 
-	
 	Todo va cobrando sentido ahora.  
 	Las rutas hacen referencia a componentes de Vue para renderizarlos dentro del tag <vue-router>  
 	Dichos componentes pueden tener dentro referencias a otros componentes. VAYA ahora si entiendo por que lo asocian con los cuadritos de LEGGO.
 
-* **Eliseo Geraldo González** (1)
+* **Eliseo Geraldo González** (1) [461547](https://platzi.com/comentario/461547/) 
 
-	
 	7:16 cuando quita la importación de footer y header, atom marca un error en la linea 43 `'PmFooter' is not defined`, alguien sabe como se llama ese plugin?
 	
 	Ya busqué en los plugins un monton de linterns pero ninguno parece funcionar correctamente
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [461547] (1)
 
-		
 		Depende de como configures tu linter.  
 		Aqui puedes revisar la regla para [ESLint](https://eslint.org/docs/rules/no-unused-vars)
 
-* **Cesar Becerra** (1)
+* **Cesar Becerra** (1) [418750](https://platzi.com/comentario/418750/) 
 
-	
 	No es mejor el
 	``` 
 	    img(v-if="track && track.album")
@@ -31708,14 +30053,12 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	Poner esa condicional en el content? ya que en “teoria” no existe aun tampoco el track como para cargar un source
 
-	* **Cesar Becerra** (2)
+	* **Cesar Becerra** [418750] (2)
 
-		
 		Olvidenlo… me adelante a escribir esto y en el video segundos despues lo mueven jajaja
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [407021](https://platzi.com/comentario/407021/) 
 
-	
 	Para el Player.vue:
 	``` 
 	    <template lang="pug">
@@ -31730,15 +30073,13 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	    
 	```
 
-* **WILMER ARLEY CAMPAÑA DIAZ** (1)
+* **WILMER ARLEY CAMPAÑA DIAZ** (1) [311433](https://platzi.com/comentario/311433/) 
 
-	
 	Hola quiero hacer algo inverso, a lo mostrado en esta clase.  
 	Quiero que en la mayoría de mis vistas aparezca el Header y Footer pero en una sola vista no quiero que aparezca. ¿Cómo bloqueo para que lleguen esas propiedades del componente princial a dicha vista?.
 
-* **Kevin Brayan Luna Figueroa** (1)
+* **Kevin Brayan Luna Figueroa** (1) [225473](https://platzi.com/comentario/225473/) 
 
-	
 	Cuando ponemos en el main.js
 	``` 
 	    import VueRouter from'vue-router'
@@ -31747,80 +30088,68 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	Siempre tiene que ir abajo de import Vue From ‘vue’ o no importa el orden?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [225473] (4)
 
-		
 		No importa el orden, lo importante es que estén los imports.
 
-	* **Kevin Brayan Luna Figueroa** (0)
+	* **Kevin Brayan Luna Figueroa** [225473] (0)
 
-		
 		Gracias por tu respuesta!!
 
-* **danteddt** (0)
+* **danteddt** (0) [309697](https://platzi.com/comentario/309697/) 
 
-	
 	Comando: Instalacion vue-route: npm i -S vue-router
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [309634](https://platzi.com/comentario/309634/) 
 
-	
 	Por si no lo notaron el comando es:
 	``` 
 	    npm i -S vue-router
 	    
 	```
 
-* **Juan Carlos Felizzola Vega** (0)
+* **Juan Carlos Felizzola Vega** (0) [294610](https://platzi.com/comentario/294610/) 
 
-	
 	¡Genial! Recién terminé el curso de **Django** y se me hace muy fácil entender esto.
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [282952](https://platzi.com/comentario/282952/) 
 
-	
 	tengo un problema me dice que el trackServices no esta definido
 
-* **Edgar Valdez Moises** (0)
+* **Edgar Valdez Moises** (0) [233835](https://platzi.com/comentario/233835/) 
 
-	
 	Hay forma de utilizar un Guard en las rutas.  
 	Para controlar que solo ciertos usuarios accedan a ciertas urls
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [233835] (2)
 
-		
 		Ese tipo de validaciones se deben hacer en el backend ya que si las haces en el frontend un usuario simplemente puede modificar una key en JavaScript y entrar.
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [233835] (0)
 
-		
 		Pero como si las rutas se manejan de lado del cliente ?  
 		Angular posee el concepto de Guard en sus rutas, yo solo quería saber si vue también se manejaba así
 
-	* **Nacho Anaya** (5)
+	* **Nacho Anaya** [233835] (5)
 
-		
 		Hola, el vue-router tambien tiene el concepto de guards y funciona de manera similar que en Angular. [Aca](https://router.vuejs.org/en/advanced/navigation-guards.html) te dejo la documentacion.
 		
 		Fijate que hace poco incoporamos una seccion de authenticacion con Vue donde tambien tratamos este tema. Te dejo el [link](https://github.com/ianaya89/demo-auth-jwt-vue) con la demo sobre eso.
 
-	* **Edgar Valdez Moises** (0)
+	* **Edgar Valdez Moises** [233835] (0)
 
-		
 		Gracias por el retorno ianaya89  
 		El curso estuve excelente
 
-## 0330. Crear y Navegar Rutas con router-link
+## 0330. Crear y Navegar Rutas con router-link [7813](https://platzi.com/clases/1145-vuejs-profesional/7813-crear-y-navegar-rutas-con-router-link/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **antoine nguyen hong duc** (17)
+* **antoine nguyen hong duc** (17) [185049](https://platzi.com/comentario/185049/) 
 
-	
 	Muy buena clase!
 	
 	Una cosita sobre la accesibilidad para los usuarios ciegos todavia :
@@ -31837,23 +30166,20 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	De echo, Vue tiene un router-link component para hacer este tipo de accion que si es ARIA accesible.
 
-	* **Nacho Anaya** (7)
+	* **Nacho Anaya** [185049] (7)
 
-		
 		Gracias por el aporte. **Es muy importante seguir las practicas de accesibilidad e incluir a todos los posibles usuarios**.
 		
 		A veces para poder mostrar los ejemplos concretos es mas practico omitir cosas por temas de practicidad. Pero es realmente muy bueno que lo aclares.
 		
 		El componente `router-link` tambien lo usamos cuando vemos la parte del menu. En este caso la idea era mostrar como podemos navegar las rutas usando código, es por eso que lo hacemos con este patron.
 
-	* **Mateo Santiago Zapata Maldonado** (1)
+	* **Mateo Santiago Zapata Maldonado** [185049] (1)
 
-		
 		Te felicito por tu vision de ir mas alla, esto es demasiado importante destacar, ya que la mayoria de programadores no les interesa!
 
-* **Ricardo Medina** (11)
+* **Ricardo Medina** (11) [260070](https://platzi.com/comentario/260070/) 
 
-	
 	Saludos a todos! quiero compartir el proyecto personal que hice como metodo de practica luego de ver el cusro de vue basico y profesional, el objetivo es que sigamos aprendiendo de la mejor manera que es poniendo en practica lo que vemos en las clases.
 	
 	pueden hacer le fork al proyecto proponer aportes eso seria excelente.
@@ -31864,29 +30190,24 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	Url del repo  
 	<https://github.com/rcrdmedina/vueMusic>
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [260070] (1)
 
-		
 		Muy bueno, gracias por compartir!
 
-	* **Ricardo Medina** (1)
+	* **Ricardo Medina** [260070] (1)
 
-		
 		Hola @ianaya89, excelente tus clases. Me inspiraron hacer ese proyecto como método de practica para ganar experiencia con vue. Seguiré aprendiendo y compartiendo con la comunidad.
 
-	* **Andres Gallardo** (1)
+	* **Andres Gallardo** [260070] (1)
 
-		
 		Excelente !
 
-	* **Ricardo Medina** (1)
+	* **Ricardo Medina** [260070] (1)
 
-		
 		Cambio la url del repo ahora es <https://ricrdomedina.github.io/vueMusic/>
 
-* **jbarriospd** (3)
+* **jbarriospd** (3) [533402](https://platzi.com/comentario/533402/) 
 
-	
 	Hola.  
 	Cunado introduzco la linea:  
 	Pm-track(:track=?)  
@@ -31899,85 +30220,73 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	>  Dicendome que no puede compilar por el signo de interrogacion.  
 	>  Agradeceria ayuda
 
-	* **richard2701** (3)
+	* **richard2701** [533402] (3)
 
-		
 		<template lang=“pug”>  
 		pm-track(:track=“track”)  
 		</template>
 
-	* **JCMH** (1)
+	* **JCMH** [533402] (1)
 
-		
 		a mi también me pasó lo mismo, puse el mismo código que richard2701, sólo que no supe ¿por qué pasó? ¿será por la versión?
 
-* **rafagonzalez99** (2)
+* **rafagonzalez99** (2) [911180](https://platzi.com/comentario/911180/) 
 
-	
 	Cuando se instancia el vue-router se obtienen 2 objetos:
 	
-	  * **$route** : la cual contiene información de un ruta especifica como parametros, url, path, etc
+	* **$route** : la cual contiene información de un ruta especifica como parametros, url, path, etc
 	
-	  * **$router** : sirve para usar las funcionalidades del vue-router, como por ejemplo la navegación programática que vemos en esté capitulo del curso
+	* **$router** : sirve para usar las funcionalidades del vue-router, como por ejemplo la navegación programática que vemos en esté capitulo del curso
 	
 	
 	
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [563695](https://platzi.com/comentario/563695/) 
 
-	
 	Con base en algunos comentarios. Necesito me corrijan.  
 	Es posible arreglar el error de todo SPA (ir hacia atras o hacia adelante) guardando la información dentro de localStorage?.  
 	o existe otra manera
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [563695] (2)
 
-		
 		No te recomiendo que uses el localStorage. Te recomiendo que uses mejor [vue-router](https://router.vuejs.org/) y le des una mirada a la opcion mode.
 
-	* **ctr9120** (1)
+	* **ctr9120** [563695] (1)
 
-		
 		Acá puedes ver la parte de History mode de VueRouter, es muy sencillo de usar y nada complicado, con esto te ahorras un montón de trabajo al no usar LocalStorage. Puedes buscar más ejemplos con esto claro.
 		
 		<https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations>
 
-* **Enmanuel Madrid** (2)
+* **Enmanuel Madrid** (2) [399687](https://platzi.com/comentario/399687/) 
 
-	
 	Buenas, tengo entendido que es posible pasar objetos por las rutas del vue-router, como puedo hacer eso?
 
-	* **ervic_alexis** (1)
+	* **ervic_alexis** [399687] (1)
 
-		
 		Lo ideal es que uses Vuex, sin embargo es posible,  
 		<https://router.vuejs.org/guide/essentials/passing-props.html#boolean-mode>
 
-* **ziker** (2)
+* **ziker** (2) [391878](https://platzi.com/comentario/391878/) 
 
-	
 	Vue-nisima clase @ianaya89 de los mejores cursos que he tomado dentro de esta plataforma, me ha costado un poco de trabajo pero siempre cumpliendo con los retos y siguiendo todas las instrucciones.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903049](https://platzi.com/comentario/903049/) 
 
-	
 	 **< router-link>** es el componente para habilitar la navegación del usuario en una aplicación habilitada para enrutador. La ubicación de destino se especifica con el prop. Se representa como una etiqueta <a> con href correcto de forma predeterminada, pero se puede configurar con la etiqueta prop. Además, el enlace obtiene automáticamente una clase CSS activa cuando la ruta de destino está activa.  
 	**< router-link>** se prefiere sobre <a href="…"> codificado por las siguientes razones:
 	
-	  * Funciona de la misma manera tanto en el modo de historial HTML5 como en el modo hash, por lo que si alguna vez decide cambiar de modo, o cuando el enrutador vuelve al modo hash en IE9, no necesita cambiar nada.
-	  * En el modo de historial HTML5, el enlace del enrutador interceptará el evento de clic para que el navegador no intente volver a cargar la página.
-	  * Cuando usa la opción base en el modo de historial HTML5, no necesita incluirla en las URL de los accesorios.
+	* Funciona de la misma manera tanto en el modo de historial HTML5 como en el modo hash, por lo que si alguna vez decide cambiar de modo, o cuando el enrutador vuelve al modo hash en IE9, no necesita cambiar nada.
+	* En el modo de historial HTML5, el enlace del enrutador interceptará el evento de clic para que el navegador no intente volver a cargar la página.
+	* Cuando usa la opción base en el modo de historial HTML5, no necesita incluirla en las URL de los accesorios.
 	
 	
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [755369](https://platzi.com/comentario/755369/) 
 
-	
 	Excelente
 
-* **ANDRES GOMEZ GOMEZ** (1)
+* **ANDRES GOMEZ GOMEZ** (1) [683030](https://platzi.com/comentario/683030/) 
 
-	
 	Utilizando los componentes que ya tenemos agregué el loader y adicionalmente puse un catch para el caso de que no se encuentre un resultado, si ingresan algo por url:
 	``` 
 	    <templatelang="pug">
@@ -32034,14 +30343,12 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	    
 	```
 
-* **Betty Rossana Jimenez Cedeño** (1)
+* **Betty Rossana Jimenez Cedeño** (1) [659535](https://platzi.com/comentario/659535/) 
 
-	
 	Alguien hizo el reto de colocarle el loader?
 
-* **Juan Carlos Gutierrez Arcila** (1)
+* **Juan Carlos Gutierrez Arcila** (1) [591953](https://platzi.com/comentario/591953/) 
 
-	
 	Buenos días, Por favor me podrían ayudar con este mensaje de error,
 	
 	HTTP402: PAGO OBLIGATORIO: el servidor exige que se realice un pago antes de continuar procesando solicitudes.  
@@ -32049,9 +30356,8 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	días atrás se podían consultar las canciones, ahora me sale este mensaje
 
-	* **Jesús Miguel Quinto Teran** (3)
+	* **Jesús Miguel Quinto Teran** [591953] (3)
 
-		
 		Es un problema en servidor donde se encuentra el **API** , yo le envié un correo a [team@platzi.com](mailto:team@platzi.com), y me respondieron muy rápidamente, actualmente se encuentran trabajando para solucionar el problema.
 		
 		**Su respuesta:**
@@ -32065,14 +30371,12 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 		
 		Saludos.
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [591953] (1)
 
-		
 		Ya está solucionado!
 
-* **MichaelSornoza** (1)
+* **MichaelSornoza** (1) [453189](https://platzi.com/comentario/453189/) 
 
-	
 	Tengo éste error 😦
 	``` 
 	    vue.esm.js?efeb:591 [Vue warn]: Unknown custom element: <spn> - did you register the component correctly? For recursive components, make sure to provide the"name" option.
@@ -32086,19 +30390,16 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	    
 	```
 
-	* **ervic_alexis** (0)
+	* **ervic_alexis** [453189] (0)
 
-		
 		span en lugar de spn
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [407832](https://platzi.com/comentario/407832/) 
 
-	
 	Cada vez amo mas Vue.
 
-* **gsotelo** (1)
+* **gsotelo** (1) [289363](https://platzi.com/comentario/289363/) 
 
-	
 	Hola, tengo un problema…  
 	Inclui un parallax de Materializecss al proyecto y lo inclui en un componente llamado main, al dar click en un menu dentro de un nav para ir a otro elemento con <router-link> y regresar despues al Main, ya no me aparece la imagen dentro del parallax.
 	
@@ -32106,19 +30407,16 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	![](![codigo.JPG](https://static.platzi.com/media/user_upload/codigo-9519a55d-5045-4c31-a5e1-c1dfc0b5e328.jpg)
 
-	* **gsotelo** (0)
+	* **gsotelo** [289363] (0)
 
-		
 		@GOLLUM23 ???
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [289363] (0)
 
-		
 		Podes checar si la imagen esta presente en el DOM usando dev tools del navegador?
 
-* **Way** (1)
+* **Way** (1) [267806](https://platzi.com/comentario/267806/) 
 
-	
 	track.vue
 	``` 
 	    a.level-item
@@ -32186,9 +30484,8 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	    
 	```
 
-* **Luis Angel Vásquez Nepomuceno** (1)
+* **Luis Angel Vásquez Nepomuceno** (1) [251772](https://platzi.com/comentario/251772/) 
 
-	
 	Hola @ianaya89  
 	Me ha encantado el curso ! Está Vuenisimo ! (perdón, no pude evitarlo)  
 	Una pregunta, estoy usando una API de la Nasa y cuando hago la búsqueda por ID todo funciona tal cual lo explicas, sin embargo cuando regreso al home (por medio de las flechitas del buscador y no por medio del menú de mi SPA) ya no está ningún elemento de la busqueda que realice (vamos, como decir que ya no hay ninguna canción).  
@@ -32198,14 +30495,12 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	Saludos
 
-	* **Ondigital S.A.S** (1)
+	* **Ondigital S.A.S** [251772] (1)
 
-		
 		Puedes usar LocalStorage para guardar los datos en memoria desde la API y asi cuando regreses los datos se verán reflejados en el home.
 
-* **romerodiesan** (1)
+* **romerodiesan** (1) [249709](https://platzi.com/comentario/249709/) 
 
-	
 	Tengo un error con el componente cuando lo enruto.
 	
 	**HTML**
@@ -32306,9 +30601,8 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	
 	Que me da un error que dice que la propiedad o el método a y b no están definidas en la instancia, entonces yo le agrego un v-bind a los routes en el html pero tampoco me lo acepta.
 
-	* **Luis Angel Vásquez Nepomuceno** (1)
+	* **Luis Angel Vásquez Nepomuceno** [249709] (1)
 
-		
 		Hola @magodiesan  
 		Acabo de revisar tu código (literalmente lo copie y peque) y me funcionó súper bien, parece que lo único que tienes que cambiarle es:
 		``` 
@@ -32322,14 +30616,12 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 		
 		Saludos
 
-	* **romerodiesan** (1)
+	* **romerodiesan** [249709] (1)
 
-		
 		Jajaja, gracias
 
-* **Pedro Escobar** (1)
+* **Pedro Escobar** (1) [235938](https://platzi.com/comentario/235938/) 
 
-	
 	Este es el código completo de loader.vue agregando un loader
 	``` 
 	    <templatelang="pug">
@@ -32385,45 +30677,38 @@ Cual es la diferencia entre usar el plugin mediante el objeto this.$bus.$emit y 
 	    
 	```
 
-* **Daniee** (1)
+* **Daniee** (1) [225796](https://platzi.com/comentario/225796/) 
 
-	
 	Estupenda clase para dejar por finalizado este apartado del Vue Router. Estoy aprendiendo muchísimo gracias a este curso, te agradezco mucho el gran trabajo que hay detrás !! Sigue así Ignacio eres un crack ! 😉
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [225796] (1)
 
-		
 		Hola Daniel, muchas gracias por tu mensaje. Me alegra que este disfrutando el curso, espero te pueda servir. Cualquier consulta no dejes de escribirnos!
 
-* **Ronald Espinoza** (1)
+* **Ronald Espinoza** (1) [203768](https://platzi.com/comentario/203768/) 
 
-	
 	Hola, el API esta muy lenta y en ocasiones no responde nunca, por ende se dificulta o imposibilita seguir el curso.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [203768] (1)
 
-		
 		Hola, estoy moniterando la API y todo pareciera estar funcionando correctamente, de todos modos vamos a ver como podemos mejorar el tiempo de respuesta. Muchas gracias!
 
-	* **Ronald Espinoza** (0)
+	* **Ronald Espinoza** [203768] (0)
 
-		
 		Hola Nacho, muy exelente el curso sólo falle una pregunta al dar la prueba y es sobre el funcionamiento de los plugins, al parecer me confundí un poco. Pero aprovecho para felicitarte y agradecerte por el curso. Dios te bendiga.
 
-* **omar-munoz-coronado** (1)
+* **omar-munoz-coronado** (1) [63706](https://platzi.com/comentario/663591/) 
 Buenos tardes, disculpen, alguien sabe si con Vue Route puedo hacer algo con respecto al manejo de metas ? esto para sitios como e-comm...
 
-	* **José Manuel Casani Guerra** (2)
+	* **José Manuel Casani Guerra** [63706] (2)
 
-		
 		Para uso de Metas y SSR, debes usar Nuxtjs … no existe ningun framework ni libreria JS que te maneje los metas correctamente sin hacer uso del SSR
 
-* **Juan Carlos Gutierrez Arcila** (1)
+* **Juan Carlos Gutierrez Arcila** (1) [59492](https://platzi.com/comentario/591953/) 
 Buenos días, Por favor me podrían ayudar con este mensaje de error, HTTP402: PAGO OBLIGATORIO: el servidor exige que se realice un pago a...
 
-	* **Jesús Miguel Quinto Teran** (3)
+	* **Jesús Miguel Quinto Teran** [59492] (3)
 
-		
 		Es un problema en servidor donde se encuentra el **API** , yo le envié un correo a [team@platzi.com](mailto:team@platzi.com), y me respondieron muy rápidamente, actualmente se encuentran trabajando para solucionar el problema.
 		
 		**Su respuesta:**
@@ -32437,56 +30722,48 @@ Buenos días, Por favor me podrían ayudar con este mensaje de error, HTTP402: P
 		
 		Saludos.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57335](https://platzi.com/comentario/563695/) 
 Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el error de todo SPA (ir hacia atras o hacia adelante) guardan...
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [57335] (2)
 
-		
 		No te recomiendo que uses el localStorage. Te recomiendo que uses mejor [vue-router](https://router.vuejs.org/) y le des una mirada a la opcion mode.
 
-* **Miguel Angel Monje Allende** (0)
+* **Miguel Angel Monje Allende** (0) [319123](https://platzi.com/comentario/319123/) 
 
-	
 	muy bien explicado y claro, en lo personal el mejor tutor.
 
-* **Rafael Luna Paredes** (0)
+* **Rafael Luna Paredes** (0) [298759](https://platzi.com/comentario/298759/) 
 
-	
 	Hola, ¿de donde sale el $router?, ¿viene como parte del Vue-router o lo definimos en el const router del main.js? Min. 20:20.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [298759] (1)
 
-		
 		$router es un objeto el cual nos permite acceder a los parámetros que se pasan por url, lo explica en este momento <https://platzi.com/clases/vuejs-profesional/concepto/vue-router/crear-y-navegar-rutas-con-router-link/material/?time=660>
 
-* **Flor Viviana  Mireles Rivera** (0)
+* **Flor Viviana  Mireles Rivera** (0) [282953](https://platzi.com/comentario/282953/) 
 
-	
 	tengo una duda no se porque me dice que el trackServices no esta definido
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [282953] (1)
 
-		
 		Revisa que la ruta desde la que importas el trackService este correcta y no tengas un error de digitación.
 
-* **mariomenjr** (0)
+* **mariomenjr** (0) [259991](https://platzi.com/comentario/259991/) 
 
-	
 	Momento en el que se explica el # en la URL al usar vue-router.
 
-# Extendiendo VueJS
+# Extendiendo VueJS [1344]
 
-## 0340. Modifiers
+## 0340. Modifiers [7814](https://platzi.com/clases/1145-vuejs-profesional/7814-modifiers/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Luis Angel Vásquez Nepomuceno** (34)
+* **Luis Angel Vásquez Nepomuceno** (34) [251776](https://platzi.com/comentario/251776/) 
 
-	
 	Aquí la lista completa de los Key Modifiers:
 	``` 
 	    @keyup.enter
@@ -32506,44 +30783,36 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	
 	Saludos
 
-	* **Teofilo Rosales Gama** (0)
+	* **Teofilo Rosales Gama** [251776] (0)
 
-		
 		tome su like buen hombre
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [251776] (1)
 
-		
 		Buen aporte.
 
-	* **Jafet López Chaves** (1)
+	* **Jafet López Chaves** [251776] (1)
 
-		
 		gracias!
 
-	* **Freddy Córdova Arana** (1)
+	* **Freddy Córdova Arana** [251776] (1)
 
-		
 		Muchas gracias!
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [251776] (1)
 
-		
 		ty
 
-	* **Omar Jesus Hernández Bastos** (1)
+	* **Omar Jesus Hernández Bastos** [251776] (1)
 
-		
 		Que agradable sujeto
 
-	* **Emanuel Valero** (1)
+	* **Emanuel Valero** [251776] (1)
 
-		
 		Gracias!! Excelente aporte. Justo me estaba preguntando cuales modfiers estaban disponibles 😃
 
-* **Guillermo  Ferru** (5)
+* **Guillermo  Ferru** (5) [202531](https://platzi.com/comentario/202531/) 
 
-	
 	jeje yo lo habia realizado de la siguiente manera
 	``` 
 	      searchQueryWithEnter (e) {
@@ -32555,37 +30824,31 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-	* **Nacho Anaya** (5)
+	* **Nacho Anaya** [202531] (5)
 
-		
 		No esta mal, seria lo solucion default en JS. Lo bueno de los modifiers es que nos ahorran bastante codigo.
 
-* **osmandi (Platzi)** (4)
+* **osmandi (Platzi)** (4) [258191](https://platzi.com/comentario/258191/) 
 
-	
 	Demasiado bueno los modifiers, antes peleaba para capturar los eventos de teclado jejeje
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [903091](https://platzi.com/comentario/903091/) 
 
-	
 	 **Modificadores de eventos**  
 	Es una necesidad muy común llamar a event.preventDefault() o event.stopPropagation() dentro de los controladores de eventos. Aunque podemos hacer esto fácilmente dentro de los métodos, sería mejor si los métodos fueran puramente sobre lógica de datos en lugar de tener que lidiar con los detalles del evento DOM.  
 	Para solucionar este problema, Vue proporciona **modificadores** de eventos para v-on. Recuerde que los modificadores son directivas postfijos marcados por un punto
 
-* **Nacxit** (1)
+* **Nacxit** (1) [1019057](https://platzi.com/comentario/1019057/) 
 
-	
 	 **Modifiers**  
 	Permite utilizar los directiva de cada evento por ejemplo preventDefault() etc [https://sodocumentation.net/es/vue-js/topic/8612/modificadores](url)
 
-* **mecubro** (1)
+* **mecubro** (1) [1006215](https://platzi.com/comentario/1006215/) 
 
-	
 	Una vaquita para que le compren un teclado a Igna y deje de rabear con ese teclado de mac… Jaja
 
-* **Juan Pablo Calao Pérez** (1)
+* **Juan Pablo Calao Pérez** (1) [584139](https://platzi.com/comentario/584139/) 
 
-	
 	Mi aproximación a este resultado fue crear un formulario:
 	``` 
 	    form(@submit="search")
@@ -32602,39 +30865,33 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	
 	De esa forma, tanto presionando el botón (importante que sea `type="submit"`) como presionando enter en el input, la función search se dispara
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [563757](https://platzi.com/comentario/563757/) 
 
-	
 	¿Como sería aplicar un modifier a un filtro o a una directiva normal?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [563757] (1)
 
-		
 		Hola, aquí tienes la documentación para directivas  
 		<https://vuejs.org/v2/guide/custom-directive.html>
 
-* **Jafet López Chaves** (1)
+* **Jafet López Chaves** (1) [450300](https://platzi.com/comentario/450300/) 
 
-	
 	Esto no lo sabía, gracias! eso me ayudará abastante haha
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57340](https://platzi.com/comentario/563757/) 
 ¿Como sería aplicar un modifier a un filtro o a una directiva normal?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57340] (1)
 
-		
 		Hola, aquí tienes la documentación para directivas  
 		<https://vuejs.org/v2/guide/custom-directive.html>
 
-* **Juan Luis Rojas León** (0)
+* **Juan Luis Rojas León** (0) [188116](https://platzi.com/comentario/188116/) 
 
-	
 	¿Qué es el prevent default?
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [188116] (3)
 
-		
 		Hay elementos HTML que para ciertos eventos tienen un comportamiento default. Por ejemplo un `<a>` tiene establecido que ante un evento de tipo `click` te va a re-direccionar al link segun el atributo `href`. Algo similar ocurre en un `form`, que ante un evento `submit` intentara ejecutar el valor del atributo `action`.
 		
 		El metodo `preventDefault()` de los eventos de JavaScript se usa para evitar que cuando nosotros agregamos un nuevo listener para un evento en un elemento HTML (puede ser `<a>`, `<form>` o cualquier otro) no se ejecute el evento default de ese elemento. Ejemplo:
@@ -32651,72 +30908,64 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 		
 		Vue nos ofrece el modifier prevent para poder implementar este patron de manera mas sencilla sobre la directiva `v-on`.
 
-	* **Cristofer Fuentes Barra** (0)
+	* **Cristofer Fuentes Barra** [188116] (0)
 
-		
 		Esto también se explica en el curso de Vue Básico !
 
-## 0350. Filtros
+## 0350. Filtros [7815](https://platzi.com/clases/1145-vuejs-profesional/7815-directivas-personalizadas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Cristofer Fuentes Barra** (19)
+* **Cristofer Fuentes Barra** (19) [189010](https://platzi.com/comentario/189010/) 
 
-	
 	Cuando los segundos dan un numero menor a 10 hay que agregar un 0 antes del numero para que no se vea mal:
 	``` 
 	    returnmin + ':' + ((sec < 10) ? '0' + sec : sec)
 	    
 	```
 
-	* **Cristofer Fuentes Barra** (3)
+	* **Cristofer Fuentes Barra** [189010] (3)
 
-		
 		ha esto me refiero:
 		
 		![](https://image.ibb.co/kP791a/Captura_de_pantalla_2017_08_17_a_la_s_15_15_59.png)
 
-	* **Nacho Anaya** (6)
+	* **Nacho Anaya** [189010] (6)
 
-		
 		Bien ahi! Descubriste un buen bug. Gracias por el aporte!
 
-	* **Guillermo  Ferru** (14)
+	* **Guillermo  Ferru** [189010] (14)
 
 		```
 		    return `${min}:${(sec < 10) ? '0' + sec : sec}`
 		    
 		```
 
-	* **Juan Carlos Felizzola Vega** (0)
+	* **Juan Carlos Felizzola Vega** [189010] (0)
 
-		
 		👍
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [563779](https://platzi.com/comentario/563779/) 
 
-	
 	Una mejora a la propuesta de @cristoferfb
 	``` 
 	    return `${(min < 10) ? '0' + min : min}:${(sec < 10) ? '0' + sec : sec} min`
 	    
 	```
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [563758](https://platzi.com/comentario/563758/) 
 
-	
 	Un filtro es como un decorador para la data de nuestros componentes.
 
-* **Nacxit** (2)
+* **Nacxit** (2) [1019363](https://platzi.com/comentario/1019363/) 
 
-	
 	Los filtros permite filtrar texto comun y convertirlo en otro segun los criterio que se le asignen estos mismos pueden declararse como una exprecio en un v-bind segun la funcionalidad lo requiera la sintaxi tiene que ser de la siguiente forma “{{ OldText | Filter }}” la sintaxi es predeterminada con un simbolo “pipe” pueden ser cleado de manera local desde un componente o de manera global.  
 	[https://es.vuejs.org/v2/guide/filters.html](url)
 
-* **Iván Mauricio Toro Cifuentes** (2)
+* **Iván Mauricio Toro Cifuentes** (2) [407856](https://platzi.com/comentario/407856/) 
 
 	```
 	    const msToMm = {}
@@ -32737,9 +30986,8 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903446](https://platzi.com/comentario/903446/) 
 
-	
 	Vue.js le permite definir filtros que pueden usarse para aplicar formato de texto común. Se puede utilizar filtros en dos lugares: interpolaciones mustache y expresiones v-bind. Los filtros se deben agregar al final de la expresión de JavaScript, denotados por símbolo “pipe”:
 	``` 
 	    <!-- en mustaches -->
@@ -32749,9 +30997,8 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    <divv-bind:id=“rawId | formatId”></div>```
 	```
 
-* **Carlos Oblitas Villegas** (1)
+* **Carlos Oblitas Villegas** (1) [267276](https://platzi.com/comentario/267276/) 
 
-	
 	O asi
 	``` 
 	    const min = ('0' + Math.floor(ms / 60000)).substr(-2)
@@ -32761,20 +31008,17 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-* **Julio César Perdomo Correa** (0)
+* **Julio César Perdomo Correa** (0) [316246](https://platzi.com/comentario/316246/) 
 
-	
 	Tengo un error a la hora de crear el filtro, el navegador queda en blanco y la consola me indica  
 	ReferenceError: vue is not defined[Learn More]
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [316246] (3)
 
-		
 		Puedes compartir tu código, probablemente hay un error de digitación y esta haciendo que se rompa toda la aplicación de vue.
 
-	* **Julio César Perdomo Correa** (0)
+	* **Julio César Perdomo Correa** [316246] (0)
 
-		
 		El Filter ms-to-mm.js
 		``` 
 		    const msToMm = {}
@@ -32824,26 +31068,23 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 		    
 		```
 
-	* **Julio César Perdomo Correa** (0)
+	* **Julio César Perdomo Correa** [316246] (0)
 
-		
 		Logré resolverlo, tenía un error en el filter, estaba declarando el método vue.filter cuando el objeto Vue tiene la primera letra en mayúsculas.
 
-	* **Omar Enrique Crespo Merchan** (1)
+	* **Omar Enrique Crespo Merchan** [316246] (1)
 
-		
 		Cuando me da referenceError lo primero que hago es ver que palabra es y ver todas las ocurrencias que podrian darme error esten exactamente escritas igual :wink
 
-## 0360. Directivas Personalizadas
+## 0360. Directivas Personalizadas [7816](https://platzi.com/clases/1145-vuejs-profesional/7816-directivas-personalizadas7731/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Rogelio Alberto** (11)
+* **Rogelio Alberto** (11) [181686](https://platzi.com/comentario/181686/) 
 
-	
 	No era necesario agregar el `(!this.track.preview_url)` en `selectTrack`y en `goToTrack`, solo bastaba con poner el bind `@click` en los buttons y no en el span dentro del button y ya con el disabled de la directiva se desactiva los controles de play/navegación, asi:
 	``` 
 	    button.level-item.button.is-primary(@click="selectTrack")
@@ -32867,68 +31108,56 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-	* **Nacho Anaya** (7)
+	* **Nacho Anaya** [181686] (7)
 
-		
 		Gracias por el aporte. La apreciacion que haces sobre la validacion es correcto. Con el simple hecho de agregar el atributo `disabed` al `button` alcanza para interrumpir el proceso y evidentemente lo mas correcto seria enlazar el `@click` al `button` y no al `span`. De todos modos agregar la validacion en el lado del codigo, tambien es una buena practica ya que esos metodos pueden ser utilizados en otro tipo de contexto (como metodos internos o en otras partes de HTML). De esta manera garantizas que eso funcione correctamente en todos lados.
 		
 		Con respecto a la funcion de la directiva, no creo que mejore el rendimiento pero si es mas practico y mas facil de seguir. Lo que yo hice fue crear una funcion generica que tambien pueda ser aplicada en otros contextos o hooks de la directiva como el `update` y podar lograr una actualizacion en tiempo real en caso que el valor de `preview_url` se modifique.
 
-	* **Rogelio Alberto** (0)
+	* **Rogelio Alberto** [181686] (0)
 
-		
 		Si mejora el rendimiento, reduce el numero de comparaciones en una tercera parte (imagina cien, mil o mas resultados) ademas de que no es necesario poner estilo con js a los elementos que no tienen binding null por que ese estilo ya lo tienen con css y por esto es innecesario el if dentro del forEach.
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [181686] (4)
 
-		
 		Es cierto, se pueden reducir las comparaciones. Pero establecer el estilo es necesario ya que la data de un elemento podria variar dinamicamante. En caso de no hacerlo asi, si un elemento modifica su valor en tiempo real (es decir que pasa de estar _blureado_ a no estarlo), todos los estilos quedarian desactualizados.
 
-	* **Enzo Aliatis** (2)
+	* **Enzo Aliatis** [181686] (2)
 
-		
 		Belleza mayonesa
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [181686] (1)
 
-		
 		Tienes razón @ianaya89, es lo mejor para cuando se apliquen cambios dinámicos, aunque este ejercicio no haya sido el caso, lo que sugieres es mejor para no tener bugs
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [597223](https://platzi.com/comentario/597223/) 
 
-	
 	la directiva **:key** es muy importante para éstos casos.
 	
 	Cuando realice una búsqueda después de otra, la segunda recordaba el **blur** de la primera, la solución fue aplicar :key=“[t.id](http://t.id)” para que Vuejs reconociera correctamente las nuevas pistas. y refrescara la blur directiva.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903582](https://platzi.com/comentario/903582/) 
 
-	
 	Además del conjunto predeterminado de directivas incluidas en el núcleo (v-model y v-show), Vue también le permite registrar sus propias directivas personalizadas. la forma primaria de reutilización y abstracción del código son los componentes; sin embargo, puede haber casos en los que necesite un acceso al bajo nivel al DOM en elementos simples, y aquí es donde las directivas personalizadas seguirían siendo útiles.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [563826](https://platzi.com/comentario/563826/) 
 
-	
 	Interesante esto de las directivas. cambiar el comportamiento de los elementos dependiendo del valor en la data
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [471124](https://platzi.com/comentario/471124/) 
 
-	
 	si deseara cambiar el atributo class completo de un elemento como podría asignar esta directiva?.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [471124] (2)
 
-		
 		Es mejor usar binding de las directivas HTML <https://vuejs.org/v2/guide/class-and-style.html#Object-Syntax>
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [471123](https://platzi.com/comentario/471123/) 
 
-	
 	si deseara cambiar el style completo de un elemento como podria asignar esta directiva?.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [471123] (1)
 
-		
 		Primero deberias crear tu directiva y sus funcionalidades. Luego la debes importar local o globalmente.  
 		**Localmente** es importarla directo en tu archivo vue en el objeto
 		``` 
@@ -32947,9 +31176,8 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 		    
 		```
 
-* **Rapha Montenegro** (1)
+* **Rapha Montenegro** (1) [414406](https://platzi.com/comentario/414406/) 
 
-	
 	Alguien más con este error?
 	
 	[Vue warn]: Failed to resolve directive: blur
@@ -32981,9 +31209,8 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [414406] (1)
 
-		
 		El nobre de la directiva blur es con camilla simple.
 		``` 
 		    blur.install = function (Vue) {
@@ -32995,9 +31222,8 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 		    
 		```
 
-* **Omar Enrique Crespo Merchan** (1)
+* **Omar Enrique Crespo Merchan** (1) [404131](https://platzi.com/comentario/404131/) 
 
-	
 	Aqui les dejo como quedo mi blur.js y mi blur.ts por la costumbre escribe la directiva en typescript 😂
 	``` 
 	    // Blur.js
@@ -33042,9 +31268,8 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-* **Josue Benjamin Arambide Quispe** (1)
+* **Josue Benjamin Arambide Quispe** (1) [257558](https://platzi.com/comentario/257558/) 
 
-	
 	Comparto con ustedes la directiva para que pueda imprimir un sección en su proyecto, espero les sea de ayuda y tengan una idea de como hacer uso delas directivas en vue, para usarlo debe pasarle el id de la sección a imprimir. Ej. v-print=" ‘printBorrowCard’ "
 	``` 
 	    const print = {};
@@ -33091,17 +31316,15 @@ Con base en algunos comentarios. Necesito me corrijan. Es posible arreglar el er
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [257558] (0)
 
-		
 		Genial, muchas gracias por el aporte!
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [49719](https://platzi.com/comentario/471123/) 
 si deseara cambiar el style completo de un elemento como podria asignar esta directiva?.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [49719] (1)
 
-		
 		Primero deberias crear tu directiva y sus funcionalidades. Luego la debes importar local o globalmente.  
 		**Localmente** es importarla directo en tu archivo vue en el objeto
 		``` 
@@ -33120,12 +31343,11 @@ si deseara cambiar el style completo de un elemento como podria asignar esta dir
 		    
 		```
 
-* **Rapha Montenegro** (1)
+* **Rapha Montenegro** (1) [44998](https://platzi.com/comentario/414406/) 
 Alguien más con este error? [Vue warn]: Failed to resolve directive: blur const blur = {} function setBlur (el, binding) { el.st...
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [44998] (1)
 
-		
 		El nobre de la directiva blur es con camilla simple.
 		``` 
 		    blur.install = function (Vue) {
@@ -33137,24 +31359,20 @@ Alguien más con este error? [Vue warn]: Failed to resolve directive: blur const
 		    
 		```
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [281760](https://platzi.com/comentario/281760/) 
 
-	
 	No manda el track al reproductor
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [281760] (0)
 
-		
 		pero el api si te lo está trayendo? podemos comenzar el troubleshooting desde ahí
 
-	* **Darwin Rodríguez** (1)
+	* **Darwin Rodríguez** [281760] (1)
 
-		
 		El problema era que el evento estaba enlazado al span y no al button, gracias!
 
-* **José Jesús Palacios** (0)
+* **José Jesús Palacios** (0) [195403](https://platzi.com/comentario/195403/) 
 
-	
 	¿Ya no está disponible el servidor?:  
 	[PLatzi-music](https://platzi-music.api.now.sh/)
 	``` 
@@ -33162,56 +31380,48 @@ Alguien más con este error? [Vue warn]: Failed to resolve directive: blur const
 	    
 	```
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [195403] (0)
 
-		
 		Al parecer estaba caido, ahora esta funcionando de nuevo. Gracias por avisarnos!
 
-	* **José Jesús Palacios** (0)
+	* **José Jesús Palacios** [195403] (0)
 
-		
 		Gracias
 
-* **José Rodríguez** (0)
+* **José Rodríguez** (0) [187139](https://platzi.com/comentario/187139/) 
 
-	
 	Tendras algun ejemplo de uso para los parametros NewNode y oldNode?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [187139] (0)
 
-		
 		En realidad serian `node` y `oldNode`. Ambos contienen referencias del virtual DOM al node que contiene la directiva en cuestion. El valor `oldNode` solo serviria dentro de los hooks de directivas `update` o `componentUpdated`. La diferencia esta en que en `oldNode` podrias acceder al estado del `node` antes de que se hayan modificado valores o estado.
 		
 		Te dejo el [link](https://vuejs.org/v2/guide/custom-directive.html#Directive-Hook-Arguments) a la documentacion.
 
-* **Rogelio Alberto** (0)
+* **Rogelio Alberto** (0) [181682](https://platzi.com/comentario/181682/) 
 
-	
 	Creo este capitulo va despues de filtros, puesto que aqui los mencionan.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [181682] (0)
 
-		
 		Esto es correcto, ya mismo reporto el error. Gracias por avisar!
 
-## 0370. Mixins
+## 0370. Mixins [7817](https://platzi.com/clases/1145-vuejs-profesional/7817-mixins/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [563870](https://platzi.com/comentario/563870/) 
 
-	
 	Interesante esto de los mixin, con base en una comparativa los mixin son como contenedores de código para compartir entre componentes.
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [563870] (1)
 
-		
 		correcto es similar a los mixins en los pre-procesadores css “fragmentos de codigo que pueden ser re-utilizados en cualquier archivo de estilo”
 
-* **Iván Mauricio Toro Cifuentes** (4)
+* **Iván Mauricio Toro Cifuentes** (4) [413565](https://platzi.com/comentario/413565/) 
 
 	```
 	    const trackMixin = {
@@ -33227,36 +31437,30 @@ Alguien más con este error? [Vue warn]: Failed to resolve directive: blur const
 	    
 	```
 
-* **luisangel2895** (2)
+* **luisangel2895** (2) [804445](https://platzi.com/comentario/804445/) 
 
-	
 	en resumen son las interfaces de frontend
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903706](https://platzi.com/comentario/903706/) 
 
-	
 	Los mixins son una forma flexible de distribuir funcionalidades reutilizables para componentes de Vue. Un objeto mixin puede contener cualquier opción de componente. Cuando un componente usa un mixin, todas las opciones en el mixins se “mezclan” en las propias opciones del componente.
 	
 	en definitiva una funcionalidad excelente q nos permite poder reusar codigo de forma correcta.
 
-* **José Javier Saldaña Alfonso** (1)
+* **José Javier Saldaña Alfonso** (1) [871378](https://platzi.com/comentario/871378/) 
 
-	
 	Excelente… esta funcionalidad es al que necesitaba para el proyecto que estoy desarrollando en mi trabajo, permite ahorrar mucho código
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [597272](https://platzi.com/comentario/597272/) 
 
-	
 	Guao! Éste asunto de los mixins me impresionó 😮. Esta genial!
 
-* **makroz** (1)
+* **makroz** (1) [374563](https://platzi.com/comentario/374563/) 
 
-	
 	dentro de un mixin tambien puedo compartir un filtro o directiva personalizada? ya que me ocurren casos que necesito compartir una directiva solo para dos componentes y no de manera global
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [374563] (1)
 
-		
 		Claro que puedes hacerlo. De hecho te invio a que sigas uno de los patrones de diseño SOLID: El principio de única responsabilidad.  
 		Dicho lo anterior, deberias tener un folder de filtros, otro de directivas… Lo que puedes hacer es usarlas de manera local o global.  
 		Global, en palabras sencillas es importarlos directamente en el main.js donde instancias a Vue:
@@ -33286,32 +31490,27 @@ Alguien más con este error? [Vue warn]: Failed to resolve directive: blur const
 		Documentacion: [Filters](https://vuejs.org/v2/guide/filters.html)  
 		[Directivas](https://vuejs.org/v2/guide/custom-directive.html#ad)
 
-* **William Eduardo Meza** (1)
+* **William Eduardo Meza** (1) [320212](https://platzi.com/comentario/320212/) 
 
-	
 	si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin, cual tiene proridad? el de mixin sobreescribe?
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [320212] (1)
 
-		
 		No se mucho de vuejs pero lo que ocurre la mayoria de las veces es que el ultimo que se defina es el que sobreescribe al anterior, supongo que pasa lo mismo en este caso, lo que yo haria para estar seguro es hacer yo mismo ese experimento y comprobarlo.
 
-	* **makroz** (1)
+	* **makroz** [320212] (1)
 
-		
 		igual que david, supongo que por escala el metodo del componente es que el tiene prioridad
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [320212] (1)
 
-		
 		@williameduardomeza Lo menciona en el min 10:17
 
-* **makroz** (1)
+* **makroz** (1) [41306](https://platzi.com/comentario/374563/) 
 dentro de un mixin tambien puedo compartir un filtro o directiva personalizada? ya que me ocurren casos que necesito compartir una direct...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [41306] (1)
 
-		
 		Claro que puedes hacerlo. De hecho te invio a que sigas uno de los patrones de diseño SOLID: El principio de única responsabilidad.  
 		Dicho lo anterior, deberias tener un folder de filtros, otro de directivas… Lo que puedes hacer es usarlas de manera local o global.  
 		Global, en palabras sencillas es importarlos directamente en el main.js donde instancias a Vue:
@@ -33341,54 +31540,45 @@ dentro de un mixin tambien puedo compartir un filtro o directiva personalizada? 
 		Documentacion: [Filters](https://vuejs.org/v2/guide/filters.html)  
 		[Directivas](https://vuejs.org/v2/guide/custom-directive.html#ad)
 
-* **William Eduardo Meza** (1)
+* **William Eduardo Meza** (1) [36243](https://platzi.com/comentario/320212/) 
 si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin, cual tiene proridad? el de mixin sobreescribe?
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [36243] (1)
 
-		
 		No se mucho de vuejs pero lo que ocurre la mayoria de las veces es que el ultimo que se defina es el que sobreescribe al anterior, supongo que pasa lo mismo en este caso, lo que yo haria para estar seguro es hacer yo mismo ese experimento y comprobarlo.
 
-* **Sebas Restrepo** (0)
+* **Sebas Restrepo** (0) [274828](https://platzi.com/comentario/274828/) 
 
-	
 	he visto que en firefox no me funciona los eventos que emiten los botones que activan el player o el detalle… A alguien le pasa mas??
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [274828] (0)
 
-		
 		Hola, creo que este error ya fue reportado. El problema esta por el tipo de elemento HTML. Proba reemplzando `button` por `a`
 
-* **sukomost** (0)
+* **sukomost** (0) [195409](https://platzi.com/comentario/195409/) 
 
-	
 	@ianaya89, ayer me funcionaba perfecto la llamada a la API de platzimusic. Esta mañana me esta marcando este error:
 	
 	Fetch API cannot load [https://platzi-music-api.now.sh/search?q=hola&type=track](https://platzi-music-api.now.sh/search?q=hola&type=track). Redirect from ‘[https://platzi-music-api.now.sh/search?q=hola&type=track](https://platzi-music-api.now.sh/search?q=hola&type=track)’ to ‘<https://zeit.co/keepers/platzi-music-apinowsh/bfjdsljxwl?redirect=1>’ has been blocked by CORS policy: No ‘Access-Control-Allow-Origin’ header is present on the requested resource. Origin ‘<http://localhost:8080>’ is therefore not allowed access. If an opaque response serves your needs, set the request’s mode to ‘no-cors’ to fetch the resource with CORS disabled.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [195409] (0)
 
-		
 		Hola, al parecer estaba caido el servidor pero ya pudimos solucionarlo. Fijate y cualquier cosa nos avisas. Gracias!
 
-	* **sukomost** (1)
+	* **sukomost** [195409] (1)
 
-		
 		Todo perfecto maestro… Solo una cosa, he visto que en firefox no me funciona los eventos que emiten los botones que activan el player o el detalle… A alguien le pasa mas??
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [195409] (0)
 
-		
 		Hola, creo que este error ya fue reportado. El problema esta por el tipo de elemento HTML. Proba reemplzando button por a
 
-* **henrytabimagiraldo** (0)
+* **henrytabimagiraldo** (0) [193929](https://platzi.com/comentario/193929/) 
 
-	
 	por algun motivo el loader que habia implementado en TrackDetail no se ve mientras carga los datos… sera que el vue router tiene algo que ver?
 
-	* **henrytabimagiraldo** (4)
+	* **henrytabimagiraldo** [193929] (4)
 
-		
 		lo solucione añadiendo
 		``` 
 		    (v-if="track && track.album") 
@@ -33397,34 +31587,30 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 		
 		al contenedor de la informacion a desplegar
 
-# Clases, Animaciones y Transiciones36							
+# Clases, Animaciones y Transiciones36							 [1345]
 
-## 0380. Vue Transitions y Animaciones de CSS
+## 0380. Vue Transitions y Animaciones de CSS [7818](https://platzi.com/clases/1145-vuejs-profesional/7818-animaciones-de-css-transition-integracion-a-platzi/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Carlos Felizzola Vega** (9)
+* **Juan Carlos Felizzola Vega** (9) [296762](https://platzi.com/comentario/296762/) 
 
-	
 	Genial. Qué fácil es usar las transiciones. Aquí el curso de animaciones para la web:  
 	<https://platzi.com/clases/animaciones-web/>
 
-	* **Leonidas Esteban Gonzalez** (5)
+	* **Leonidas Esteban Gonzalez** [296762] (5)
 
-		
 		😃
 
-	* **Teofilo Rosales Gama** (3)
+	* **Teofilo Rosales Gama** [296762] (3)
 
-		
 		ya lo pase
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [563912](https://platzi.com/comentario/563912/) 
 
-	
 	Soy feliz como una lombris. Me quedo después de algunos intentos.
 	
 	Mi template de Search.vue
@@ -33481,12 +31667,11 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	    
 	```
 
-* **Nacxit** (1)
+* **Nacxit** (1) [1034371](https://platzi.com/comentario/1034371/) 
 
-	
 	Vue tiene diferentes componente de transition
 	
-	  * El primero es
+	* El primero es
 	
 	
 	``` 
@@ -33497,7 +31682,7 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	Este permite que una transicion animada y suave segun lo estilo que le apliquemos en nuestro css.  
 	este
 	
-	  * El segundo metodo mas conocido es list transicion que es perfecto para aplicarlo en elemento anidados o listas, tab es donde se especifica el elemento padre
+	* El segundo metodo mas conocido es list transicion que es perfecto para aplicarlo en elemento anidados o listas, tab es donde se especifica el elemento padre
 	
 	
 	``` 
@@ -33516,21 +31701,19 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	
 	mas informacion [https://es-vuejs.github.io/vuejs.org/v2/guide/transitions.html](url)
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903820](https://platzi.com/comentario/903820/) 
 
-	
 	Vue ofrece una variedad de maneras para aplicar efectos de transición cuando los elementos son insertados, actualizados o eliminados del DOM. Esto incluye herramientas para:
 	
-	  * aplicar clases para transiciones y animaciones CSS automáticamente
-	  * integrar librerías externas de animación CSS, por ejemplo Animate.css
-	  * usar JavaScript para manipular directamente el DOM durante hooks de transición
-	  * integrar librerías externas de animación por JavaScript, como Velocity.js
+	* aplicar clases para transiciones y animaciones CSS automáticamente
+	* integrar librerías externas de animación CSS, por ejemplo Animate.css
+	* usar JavaScript para manipular directamente el DOM durante hooks de transición
+	* integrar librerías externas de animación por JavaScript, como Velocity.js
 	
 	
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [597393](https://platzi.com/comentario/597393/) 
 
-	
 	Solución:
 	``` 
 	    .container.results
@@ -33545,12 +31728,11 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	    
 	```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [563885](https://platzi.com/comentario/563885/) 
 
-	
 	Por fin comprendo el sistema de las transiciones de Vue. ME HACIA BOLAS con todo ello.
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [413582](https://platzi.com/comentario/413582/) 
 
 	```
 	    @import'~bulma/bulma.sass';
@@ -33566,9 +31748,8 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	    
 	```
 
-* **Nicolas Gonzalez** (1)
+* **Nicolas Gonzalez** (1) [333770](https://platzi.com/comentario/333770/) 
 
-	
 	Tengo varias dudas sobre la aplicación de las transiciones de css… Seguramente alguno me saca de la duda  
 	**__Mi código es el siguiente __**  
 	Search.vue
@@ -33604,49 +31785,41 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	transition-group>>>> dice que se le puede pasar como parámetro el tipo de elemento html que va ser repetido>>>> se lo identifica con "tag = ‘tipo de elemento ejemplo, p’ ", en la documentación dice que en caso de no ser especificado se usara <span>… la cosa es que yo no especifique el tipo y aun así no me remplazo los div por <span>… me dejo el componente idéntico como venia por parámetro…  
 	Si alguno sabe algo al respecto me hace un gran favor en explicarme como funciona el tag en estos casos
 
-* **David Isaac Flores Medrano** (0)
+* **David Isaac Flores Medrano** (0) [254797](https://platzi.com/comentario/254797/) 
 
-	
 	Profe… Porque no funciona las transiciones a menos que elimine los node modules y vuelva a instalarlos con npm install ???
 	
 	Tenia los mismos problemas que los demas compañeros, y se me ocurrió volver a instalar los node modules y magicamente funciona… porque sucede eso??
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [254797] (1)
 
-		
 		Puede ser que se corrompa algún paquete del node_modules o una de las dependencias y haga que fallen los paquetes, estas usando npm o yarn para realizar la instalación de paquetes?
 
-	* **David Isaac Flores Medrano** (0)
+	* **David Isaac Flores Medrano** [254797] (0)
 
-		
 		## Estoy usando npm…
 		
 		Y siempre pasa eso??
 
-	* **luisalbertourzuasalvo** (0)
+	* **luisalbertourzuasalvo** [254797] (0)
 
-		
 		Estimado a mi me paso durante un tiempo y comprendí que si instalo algún paquete como dependencia de un proyecto debo esta parado en el folder donde se encuentra el folder node_modules, o sino no instala correctamente. Despues de eso nunca más me sucedio, espero te sirva el consejo
 
-	* **David Isaac Flores Medrano** (0)
+	* **David Isaac Flores Medrano** [254797] (0)
 
-		
 		En el folder del proyecto? ejemplo "platzi-music"  
 		o en el folder “node-modules”?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [254797] (1)
 
-		
 		Siempre los comandos se corren el directorio del proyecto (donde esta el `package.json`). Puede tambien que el error ocurra si cambias de version de node. En esa caso puede ser necesario reinstalar los modulos.
 
-* **Daniee** (0)
+* **Daniee** (0) [228722](https://platzi.com/comentario/228722/) 
 
-	
 	No consigo que me funcione :S… no me aparece error de ningún tipo al parecer todo funciona ok, simplemente no aparecen las transiciones. Alguien tiene el mismo problema ?
 
-	* **leonardo moreno** (1)
+	* **leonardo moreno** [228722] (1)
 
-		
 		me pasaba igual revisa que las tabulaciones esten bien y el scss asi:
 		``` 
 		    @import"../../node_modules/bulma/bulma.sass";
@@ -33662,39 +31835,33 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 		    
 		```
 
-	* **Daniee** (0)
+	* **Daniee** [228722] (0)
 
-		
 		lo tengo exactamente igual, creo que el problema tiene que estar en la parte del Search.vue…
 		
 		Os funciona escribiendo simplemente transition(name=“move”) y dentro el componente ??
 
-	* **Juan Sifontez** (0)
+	* **Juan Sifontez** [228722] (0)
 
-		
 		Hola @Danimm me funciona perfectamente. ¿Puedes revisar la consola y ver si te arroja algun error o compartir tu archivo main.scss?
 
-	* **David Isaac Flores Medrano** (0)
+	* **David Isaac Flores Medrano** [228722] (0)
 
-		
 		está bien tu código… solo elimina la carpeta de node-modules y los vuelves a instalar con: npm install
 		
 		y ya con eso funciona…
 
-	* **wjcg42** (0)
+	* **wjcg42** [228722] (0)
 
-		
 		Intentaste borrando caché, y recompilando el proyecto?
 
-	* **David E  Lares S** (1)
+	* **David E  Lares S** [228722] (1)
 
-		
 		Intenta colocando esto al inicio: @import “~bulma/bulma.sass”;  
 		En vez de la sintaxis del import llamando a los directorios escalando carpetas. Capaz y es un tema de rutas.
 
-	* **Nicolas Gonzalez** (0)
+	* **Nicolas Gonzalez** [228722] (0)
 
-		
 		proba con ponerlo así
 		``` 
 		    .move-enter-active, .move-level-active  {
@@ -33710,127 +31877,106 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 		
 		el problema me parece que es por que no separaste “linear” de “0.3s”.
 
-* **Jose R. Torrens Acosta** (0)
+* **Jose R. Torrens Acosta** (0) [184287](https://platzi.com/comentario/184287/) 
 
-	
 	Ayer estaba siguiendo el cuso sin problemas. Hoy la api me devuelve esto para cualquier búsqueda.
 	
 	{“error”:{“status”:401,“message”:“Invalid access token”}}
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [184287] (0)
 
-		
 		Hola Jose vamos a revisar que está pasando
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [184287] (1)
 
-		
 		Hola Jose, recien hice la prueba y esta funcionando ok. Tambien lo hace la version [live](https://platzi-music-vue.now.sh/) del proyecto.
 		
 		Podrias volver a intentar?
 
-	* **Jose R. Torrens Acosta** (0)
+	* **Jose R. Torrens Acosta** [184287] (0)
 
-		
 		Poco después que Ricardo respondió se había resuelto. Gracias por la respuesta.
 
-# Vuex
+# Vuex [1346]
 
-## 0390. Estado Centralizado, Flux y Vuex
+## 0390. Estado Centralizado, Flux y Vuex [7819](https://platzi.com/clases/1145-vuejs-profesional/7819-estado-centralizado-flux-y-vuex/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **omar-espana** (2)
+* **omar-espana** (2) [552714](https://platzi.com/comentario/552714/) 
 
-	
 	Vuex puede considerarse un Event Bus mas avanzado que el que creamos antes cierto?
 
-	* **Omar Jalil Fierro López** (1)
+	* **Omar Jalil Fierro López** [552714] (1)
 
-		
 		Exactamente eso es
 
-* **Iván Mauricio Toro Cifuentes** (2)
+* **Iván Mauricio Toro Cifuentes** (2) [413606](https://platzi.com/comentario/413606/) 
 
-	
 	Suena muy util.
 
-* **viciotec** (2)
+* **viciotec** (2) [283612](https://platzi.com/comentario/283612/) 
 
-	
 	Se guardaria el token en los estados de vuex??
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [283612] (3)
 
-		
 		Podrias guardarlo en caso de necesitarlo asi tambien como en algun mecanismo de persistencia como el localStorage.
 
-* **TlalocES** (1)
+* **TlalocES** (1) [1082039](https://platzi.com/comentario/1082039/) 
 
-	
 	Entonces con esto no es necesario el bus-event de las clases anteriores?
 
-	* **Moisés Cedeño** (1)
+	* **Moisés Cedeño** [1082039] (1)
 
-		
 		No. El bus-event no serviría como una forma de comunicar componentes que no son padres/hijos en una aplicación pequeña. Pero a medida que va creciendo la aplicación o sí es una aplicación muy grande resulta engorroso esto.
 		
 		De allí es que podemos usar Vuex para gestionar el estado.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903834](https://platzi.com/comentario/903834/) 
 
-	
 	Vuex es un patrón de gestión de estado + biblioteca para aplicaciones Vue.js. Sirve como una tienda centralizada para todos los componentes de una aplicación, con reglas que aseguran que el estado solo pueda mutarse de manera predecible. También se integra con la extensión de devtools oficial de Vue
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [563948](https://platzi.com/comentario/563948/) 
 
-	
 	Vuex es como el localStorage de la aplicación Vue.  
 	Todo se encuentra centralizado
 
-* **Jesús Rafalel Calderin Antón** (1)
+* **Jesús Rafalel Calderin Antón** (1) [511504](https://platzi.com/comentario/511504/) 
 
-	
 	Esto esta genial
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [321570](https://platzi.com/comentario/321570/) 
 
-	
 	Estoy haciendo una app, supongo que puedo utilizar vuex para los componentes como notificaciones, entre otros.
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [318808](https://platzi.com/comentario/318808/) 
 
-	
 	Saludos! Estoy por desarrollar una aplicación con vue y php estaría bien almacenar información de la sesión con vuex, que tan seguro es?
 
-	* **davidtoca (Platzi)** (0)
+	* **davidtoca (Platzi)** [318808] (0)
 
-		
 		Todo lo que pongas en vuex será visible por el cliente, si no quieres exponerla lo mejor es que lo manejes en el lado del servidor
 
-	* **Darwin Rodríguez** (0)
+	* **Darwin Rodríguez** [318808] (0)
 
-		
 		Gracias
 
-* **David E  Lares S** (0)
+* **David E  Lares S** (0) [295868](https://platzi.com/comentario/295868/) 
 
-	
 	¿El patrón mencionado en esta lección es el Estado Centralizado?, porque investigando un poco (sin tanta experiencia en el front-end), me doy cuenta que Flux es una arquitectura, mas no una librería, nativa de Facebook que permite como lo dice su descripción en GH, construir interfaces.
 	
 	Si alguien puede aclararme los términos correctos, lo agradecería.
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [295868] (1)
 
-		
 		Flux es un arquitectura. Redux y Vuex se basan en esa artitectura.
 
-* **sukomost** (0)
+* **sukomost** (0) [195426](https://platzi.com/comentario/195426/) 
 
-	
 	@ianaya89, al hacer el npm install para bajar todas las dependencias, me marca un error:
 	
 	npm ERR! path /Users/Casa/Documents/Web/emporio/node_modules/js-beautify/js/bin/css-beautify.js  
@@ -33848,31 +31994,27 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	
 	Gracias de antemano
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [195426] (2)
 
-		
 		Es raro, por alguna razon cambiaste de version de node? Podrias probar con borrar la carpeta `node_modules` y volver a intentar el `npm install`. Parece un poco rustico pero en general suele solucionar la mayoria de los problemas 😅
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [195426] (2)
 
-		
 		Al pararecer habia un bug en la ultima version de la libreria, fijate ahora si funciona. Te dejo el [link](https://github.com/beautify-web/js-beautify/issues/1247) con thread al issue en github.
 
-	* **sukomost** (0)
+	* **sukomost** [195426] (0)
 
-		
 		Buenas Nacho, efectivamente ya anda… Gracias
 
-## 0400. State
+## 0400. State [7820](https://platzi.com/clases/1145-vuejs-profesional/7820-state/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Henry De La Hoz** (22)
+* **Henry De La Hoz** (22) [262482](https://platzi.com/comentario/262482/) 
 
-	
 	el spread operator es bastante útil, sin embargo en este caso no me parece necesario darle más carga a la transpilación de código añadiendo un nuevo preset. Podemos optimizar nuestro bundle evitando instalar el preset. La manera en la que se puede lograr utilizar tanto las propiedades que mapState devuelve, como nuestras propiedades es utilizando la función nativa Object.assign de la siguiente manera.
 	``` 
 	    computed: Object.assign({}, mapState(['track']))
@@ -33883,29 +32025,25 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	
 	¿qué opinan?
 
-	* **Nacho Anaya** (7)
+	* **Nacho Anaya** [262482] (7)
 
-		
 		Excelente alternativa!
 
-	* **Iván Mauricio Toro Cifuentes** (2)
+	* **Iván Mauricio Toro Cifuentes** [262482] (2)
 
-		
 		Buen aporte.
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [262482] (1)
 
-		
 		Super cool.
 
-* **Victor Gamez** (5)
+* **Victor Gamez** (5) [484633](https://platzi.com/comentario/484633/) 
 
-	
 	Yep! como dato, en la nueva version de VUE-CLI, `"@vue/cli-plugin-babel": "^3.3.0"`no hace falta instalarse el plugin de stage2, ya viene solo!
 	
 	un saludo
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [903850](https://platzi.com/comentario/903850/) 
 
 	```
 	    npm i -S vuex
@@ -33914,77 +32052,66 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	
 	Vuex utiliza **un solo árbol de estado** , es decir, este único objeto contiene todo el estado de su nivel de aplicación y sirve como la “fuente única de verdad”. Esto también significa que generalmente tendrá una sola tienda para cada aplicación. Un solo árbol de estado facilita la localización de una parte específica del estado y nos permite tomar fácilmente instantáneas del estado actual de la aplicación con fines de depuración.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [563982](https://platzi.com/comentario/563982/) 
 
-	
 	Si entiendo bien, Vuex es para almacenar toda la data general de la aplicación para compartirla entre los componnetes, y que estos puedan reflejarla o activar acciones que la muten a nivel general.  
 	Un componente puede seguir teniendo su propia data para cuestiones locales.
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [563982] (2)
 
-		
 		Vuex se encarga de administrar la data de tu aplicación mediante el store. A traves de acciones (actions), donde puedes hacer llamadas API y luego a través de los mutations puedes modificar o agregar data a tu store.  
 		Esto permite tener un solo origen de la data y que todos los componentes que hagan uso del store tengan la información actualizada en el momento preciso.  
 		Respecto a tu ultima pregunta, cada componente si puede seguir manejando su propia data ya que, la usara para su propio beneficio.  
 		Es muy recomendable usar Vuex cuando tu proyecto necesita intercambiar datos entre varios componentes.  
 		Como recomendación mantener en tu store un modulo por cada funcionalidad de tu aplicación.
 
-* **Luis Donaldo Lopez Gil** (2)
+* **Luis Donaldo Lopez Gil** (2) [491841](https://platzi.com/comentario/491841/) 
 
 	```
 	    npm  i -D babel-preset-stage-2
 	    
 	```
 
-* **david.quintanilla** (2)
+* **david.quintanilla** (2) [184282](https://platzi.com/comentario/184282/) 
 
-	
 	Hola @ianaya89, justo estoy haciendo una aplicación mediana - grande y estoy notando problemas con el tema de compartir datos entre componentes siento que en cuanto siga creciendo mi app va ser un caos por mas que intente organizarlo, me recomiendas comenzar a usar vuex?
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [184282] (4)
 
-		
 		Hola, si totalmente. Usando vuex vas a encontrar un solucion a todos esos problemas sobre todo si compartis informacion o interactuas mucho entre componentes. Lo que te va a dar vuex no es menos codigo, sino codigo mas organizado y estructurado. Vas a poder ordernar el flujo de informacion y eso te va a ayudar a tener una app mas robusta, escalable y facil de mantener.
 
-	* **david.quintanilla** (0)
+	* **david.quintanilla** [184282] (0)
 
-		
 		Si en realidad yo lo que busco es tener mas organizado el código, de cierta manera lo que mas me esta costando es intercambiar datos entre componentes hijos y padres se me hace bastante lioso estar sincronizando props sobre todo cuando hay llamdas ajax de por medio, por otra parte viendo lo que es vuex, entiendo que los componentes pasan a depender de vuex en su totalidad y siento que de alguna manera pierden esa versatilidad que tenían como cuando los creas sin vuex, pero por otra parte ganas mayor control sobre los datos y su flujo dentro de tu aplicación, por darte un ejemplo entiendo que sin usar vuex podría llevarme ese componente a otro proyecto de vue y reutilizarlo, pero si mi componente esta pensado para consumir datos de un store y mi otra aplicación no usa esa arquitectura habría que hacer cambios en el componente para poderlo integrar.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [184282] (1)
 
-		
 		Si, en ese caso es como decis. Pasas a tener dependencia de Vuex en todos tus componentes y son menos “organicos” o genericos. De todos modos por mas que uses Vuex no es necesario que TODOS los datos pasen por ahi. Eso queda a tu criterio, quizas haya cosas que no tengan sentido llevarlas a un store. Con respecto al tema de los componentes no se me ocurren muchas soluciones optimas. Por ejemplo si usas Nuxt tambien vas a tener ese problema porque dentro del componente haces llamadas a la API de Nuxt.
 		
 		Igualmente creo que Vuex vale la pena pero depende de que tan comun sea para vos el escenario de llevar componentes de un proyecto a otro. Si ese es el caso podrias pensar en crear tu propia lib de componentes (con la funcionalidad mas base posible) y luego extenderlos en tus proyectos con [Vue.extend](http://vuejs.org/v2/api/#Vue-extend).
 
-	* **david.quintanilla** (1)
+	* **david.quintanilla** [184282] (1)
 
-		
 		En realidad te hago la pregunta por cultura general, cierto es que a menos que estés haciendo cosas puntuales, lo normal es que los componentes se puedan reutilizar a nivel de la misma aplicación y en ese caso pienso que da igual si el componente consume una store o datos de un componente padre, gracias!
 
-* **David Esteban Higuita Velasquez** (1)
+* **David Esteban Higuita Velasquez** (1) [597803](https://platzi.com/comentario/597803/) 
 
-	
 	Es bueno tener presente el uso de alguna librería que nos permita usar objetos inmutables, por ejemplo `immutable.js`. Pues tanto el `Object.assign` como el `spread operator` hacen una copia superficial de los datos.
 
-	* **Nicolás Arias** (1)
+	* **Nicolás Arias** [597803] (1)
 
-		
 		Buen aporte, también podemos usar la utilidad de cloneDepth de la librería lodash para crear clones a profundidad.
 
-* **Teofilo Rosales Gama** (1)
+* **Teofilo Rosales Gama** (1) [310761](https://platzi.com/comentario/310761/) 
 
-	
 	Por si no lo vieron el comando es:
 	``` 
 	    npm i -S vuex
 	    
 	```
 
-* **Daniee** (1)
+* **Daniee** (1) [223087](https://platzi.com/comentario/223087/) 
 
-	
 	Se me ocurre para un proyecto personal una opción para cambiar la web a diferentes idiomas. Buscaba como hacerlo y cuando hice el proyecto final del curso de animaciones para la web, Leonidas hizo algo parecido con Redux.
 	
 	Sería una buena opción almacenar la traducción de todos los textos en el store de Vuex ?
@@ -33992,163 +32119,138 @@ si tengo 2 metodos con el mismo nombre, uno en el componente y otro en el mixin,
 	De no ser así que otra opción me recomiendan?  
 	Muchas gracias de antemano !! 😉
 
-	* **Leonidas Esteban Gonzalez** (2)
+	* **Leonidas Esteban Gonzalez** [223087] (2)
 
-		
 		En React existe una librería creada por yahoo para resolver esto y se llama react-intl . Por lo genral solo necesitas mostrar un idioma al tiempo por lo que no sería algo necesario almacenar todos los idiomas en el store aunque sin duda eso te permitiría cambiar de idioma sin recargar la pagina ( si eso quieres si es una buena opción) lo que yo hago es enviar un json desde backend con los Strings del idioma que necesito y usar la librería que te menciono. Aunque si no la tuviera solo usaría ese objeto para por ejemplo llamar a textos.precios.usd y esto me devolvería por ejemplo “299”
 
-	* **Daniee** (0)
+	* **Daniee** [223087] (0)
 
-		
 		Entonces es en el Backend donde debería de crear los textos con los correspondientes idiomas y ir llamando cuando sea necesario. Conoces alguna librería parecida para Vue ? Me está encantando y por ahora es lo que voy a utilizar hasta que salga tu carrera de React 😄 Le tengo un poco de respeto a React…lo encuentro más difícil Vue, (por lo menos a la hora de aprender como primer Framework SPA) pero sé que contigo será muchísimo más ameno 😉
 		
 		Por cierto, es un Spoiler del curso esa librería que mencionas 😛 ? Un saludo ! Me encantó el Live de ayer ^^
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [223087] (2)
 
-		
 		acá al final del curso mostramos vue-intl que sirve justo para el cambio de idiomas! y se enseña tambiíen la implementación =)
 
-	* **Daniee** (0)
+	* **Daniee** [223087] (0)
 
-		
 		Muchas gracias ! No se diga más entonces a seguir avanzando con el curso 😛
 
-* **danhergir** (1)
+* **danhergir** (1) [192411](https://platzi.com/comentario/192411/) 
 
-	
 	¿Se podría decir que el Store reemplaza a los Mixins?
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [192411] (3)
 
-		
 		No, el store es para almacenar informacion que se comparte entre componentes. Los mixins son para evitar duplicar funcionalidad.  
 		De hecho podrias crear un mixin donde internamente se use el store o cualquiera de las particularidades de Vuex y luego aplicar el mixin a los componentes.
 
-* **Paula Andrea Olaez Bello** (1)
+* **Paula Andrea Olaez Bello** (1) [86121](https://platzi.com/comentario/1088665/) 
 Veo que no importas el store en app.vue, pero igual ya se puede acceder, esto pasa con todos los store, es decir solo debo dejar el js de...
 
-	* **richardberna211** (1)
+	* **richardberna211** [86121] (1)
 
-		
 		Es importado en el main.js desde alli todos los componentes pueden acceder a ella.
 
-* **pablo_l** (1)
+* **pablo_l** (1) [79971](https://platzi.com/comentario/949976/) 
 Si usamos vuex como store único de nuestros datos que ocurrirá el día que necesite hacer lo mismo con otra dependencia? Actualmente neces...
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [79971] (2)
 
-		
 		El fin de Vuex como store principal es para que los datos obtenidos de los diferentes endpoints viva dentro de un solo lugar dentro de tu aplicación de Vue, así no tengas que hacer request tan frecuentemente y tener un código más unificado.
 		
 		Por lo tanto puedes utilizar cualquier API o base de datos mientras sea a través de una API.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57358](https://platzi.com/comentario/563982/) 
 Si entiendo bien, Vuex es para almacenar toda la data general de la aplicación para compartirla entre los componnetes, y que estos puedan...
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [57358] (2)
 
-		
 		Vuex se encarga de administrar la data de tu aplicación mediante el store. A traves de acciones (actions), donde puedes hacer llamadas API y luego a través de los mutations puedes modificar o agregar data a tu store.  
 		Esto permite tener un solo origen de la data y que todos los componentes que hagan uso del store tengan la información actualizada en el momento preciso.  
 		Respecto a tu ultima pregunta, cada componente si puede seguir manejando su propia data ya que, la usara para su propio beneficio.  
 		Es muy recomendable usar Vuex cuando tu proyecto necesita intercambiar datos entre varios componentes.  
 		Como recomendación mantener en tu store un modulo por cada funcionalidad de tu aplicación.
 
-* **Juan Sifontez** (0)
+* **Juan Sifontez** (0) [230127](https://platzi.com/comentario/230127/) 
 
-	
 	¿Alguien tiene alguna idea de por qué el ESLint no me funciona dentro de los archivos con extensión .vue?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [230127] (1)
 
-		
 		Puede ser que falte un plugin para el linter que entienda la extensión del archivo.
 		
 		Encontré esto <https://github.com/vuejs/eslint-plugin-vue>
 
-* **jose luis zamora g.** (0)
+* **jose luis zamora g.** (0) [197702](https://platzi.com/comentario/197702/) 
 
-	
 	hola a todos, seguí los pasos con una instalación limpia varias veces y siempre tengo este error:  
 	![Captura de pantalla de 2017-09-26 10-20-19.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202017-09-26%2010-20-19-432d2a1f-97cc-49cb-98d0-1c8947aa5202.jpg)
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [197702] (0)
 
-		
 		Hola, seguis teniendo este mismo error? En la terminal al momento de iniciar la aplicacion tenes algun otro mensaje?
 
-* **Sergio David Serrano Garcés** (0)
+* **Sergio David Serrano Garcés** (0) [192195](https://platzi.com/comentario/192195/) 
 
-	
 	Una pregunta, que es mas óptimo? Tengo una url de mi API y quiero compartirla en algunos componentes. Es mejor importar la variable de un archivo o puedo usar Vuex para compartirla?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [192195] (1)
 
-		
 		Creo que en este caso no tendria sentido usar Vuex ya que es algo que no va a cambiar y no necesitas que sea reactivo.
 		
 		Podrias usar un plugin para exponer la URL como variable en todos tus componentes, similar a lo que hicimos con el `event-bus`, la diferencia es que tu plugin es una constante.
 		
 		No se bien cual es el proposito de esa URL, pero si la vas a usar para hacer peticiones HTTP quizas lo mejor sea adoptar un patron similar al que hicimos con el servicio platz-music + trae.
 
-	* **Sergio David Serrano Garcés** (0)
+	* **Sergio David Serrano Garcés** [192195] (0)
 
-		
 		Ahora mismo estoy usando graphql para traer los datos del usuario con el que me logueo (username, url del avatar, nombre…). El problema que tengo ahora mismo es como compartir esos datos con los componentes necesarios sin tener que hacer un request siempre. Pensaba que al entrar en la funcion login se actualize el estado de Vuex con el objeto usuario y todos los componentes obtengan de ahí la información o es mejor con el event-bus como me aconsejas? De todas maneras ya estoy usando vuex para propiedades mutables entre componentes, lo que me pregunto es si es correcto meter al usuario.
 		
 		Gracias por tu ayuda @ianaya89!
 
-	* **Sergio David Serrano Garcés** (0)
+	* **Sergio David Serrano Garcés** [192195] (0)
 
-		
 		Alguien algún consejo?
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [192195] (0)
 
-		
 		Hola! agregamos un contenido bonus con la explicación de cómo hacer autenticación =)
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [192195] (0)
 
-		
 		eso te podría servir me parece =)
 
-* **Cristofer Fuentes Barra** (0)
+* **Cristofer Fuentes Barra** (0) [189151](https://platzi.com/comentario/189151/) 
 
-	
 	Tengo una duda respecto a Babel, dijiste que este podia utilizar mas de un preset, pero… ¿cual es la utilidad de esto? ¿no se supone que el preset mas nuevo contiene a los anteriores? es decir por ejemplo yo utilizo el preset 2015 y el 2016 ¿no seria lo mismo importar solamente el 2016 que contiene las mismas funcionalidad del 2015 pero con las nuevas especificaciones propias del año?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [189151] (3)
 
-		
 		Por ejemplo hay un preset para JSX si trabajas con react que trabaja junto con el preset de es2015 o es2016, por esto es que se pueden usar varios presets, ahora en el sitio web de babel recomiendan usar `env preset` que lo que hace es dar soporte dependiendo de los navegadores que configures, mas alla de limitar a ciertas características de JavaScript como lo hacia los presets 2015, 2016 etc.
 
-## 0410. Mutations
+## 0410. Mutations [7821](https://platzi.com/clases/1145-vuejs-profesional/7821-mutations9981/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **wjcg42** (5)
+* **wjcg42** (5) [262106](https://platzi.com/comentario/262106/) 
 
-	
 	Está super útil este concepto. Buenisimo y tiene muchas aplicaciones.
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [262106] (1)
 
-		
 		seee
 
-* **romerodiesan** (4)
+* **romerodiesan** (4) [725681](https://platzi.com/comentario/725681/) 
 
-	
 	Vue es lo **mas mejol** del mundo mundial. Indiscutiblemente. Es tan sencillo y poderoso.
 
-* **Derek Samuel Paúl Peña** (1)
+* **Derek Samuel Paúl Peña** (1) [1111302](https://platzi.com/comentario/1111302/) 
 
-	
 	in Aplication
 	``` 
 	    <template>
@@ -34249,41 +32351,34 @@ Si entiendo bien, Vuex es para almacenar toda la data general de la aplicación 
 	    
 	```
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [903968](https://platzi.com/comentario/903968/) 
 
-	
 	**Mutaciones** , La única forma de cambiar realmente el estado en una tienda Vuex es cometiendo una mutación. Las mutaciones de Vuex son muy similares a los eventos: cada mutación tiene un tipo de cadena y un controlador. La función de controlador es donde realizamos modificaciones de estado reales, y recibirá el estado como primer argumento
 
-* **carllewisc** (1)
+* **carllewisc** (1) [674789](https://platzi.com/comentario/674789/) 
 
-	
 	Saludos. De casualidad el código de este ejemplo está en un repositorio?
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [598827](https://platzi.com/comentario/598827/) 
 
-	
 	> **_GENIAL_**
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [564000](https://platzi.com/comentario/564000/) 
 
-	
 	Explicación puntal del { } para importar cosas específicas del módulo, y de los MapMutation y MapSatate.
 	
 	Este curso y el de Laravel 2017 son de los mejores
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [491856](https://platzi.com/comentario/491856/) 
 
-	
 	Genial!
 
-* **Anthony Will Solsol Soplin** (1)
+* **Anthony Will Solsol Soplin** (1) [480110](https://platzi.com/comentario/480110/) 
 
-	
 	Tengo una duda, si quisiera enviar los payload con mapMutation, cómo lo haría ?
 
-	* **Carlos Enrique Gonzalez Peña** (4)
+	* **Carlos Enrique Gonzalez Peña** [480110] (4)
 
-		
 		En la documentacion oficila de [vuex](https://vuex.vuejs.org/guide/mutations.html) al final explican como utilizar el `mapMutation` con payloads.
 		``` 
 		    import { mapMutations } from 'vuex'
@@ -34309,56 +32404,47 @@ Si entiendo bien, Vuex es para almacenar toda la data general de la aplicación 
 		Ya que en un futuro cuando tengas muchos componentes y muchas mutaciones, al intentar mapear los que ocupes podrías tener un código poco legible.  
 		Si sabes ingles aquí te dejo un [articulo](https://medium.com/@stephane.souron/making-a-large-scale-app-with-vue-js-part-1-modularize-your-store-bf9066436502) el cual es el primero de una serie muy buena para usar vue y vuex a gran escala
 
-* **Martín Villalba** (1)
+* **Martín Villalba** (1) [422253](https://platzi.com/comentario/422253/) 
 
-	
 	Gracias ! Explicas super claro todo, vengo de react y justo ahora estoy trabajando en un proyecto con Vue y queria implementar flux, redux o algo parecido
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [416659](https://platzi.com/comentario/416659/) 
 
-	
 	Esto es genial.
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [416659] (1)
 
-		
 		seee
 
-* **Pedro Escobar** (1)
+* **Pedro Escobar** (1) [237118](https://platzi.com/comentario/237118/) 
 
-	
 	Muy buena explicación, muchas gracias, una pregunta, ¿como se hace esa linea que funciona como loader al cambiar las vistas? así como la que tienes en tu página web, la encontré a través de tu twitter, gracias de antemano.
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [237118] (4)
 
-		
 		Hola, muchas gracias!
 		
 		Lo que ves en mi sitio personal es la barra de carga que trae el framework Nuxt.js. Cuando utilizas ese framework eso se configura por defecto y lo tienes integrado en tu sitio. Vas a poder verlo en proximos videos.
 		
 		Para lograr algo similar sin usar Nuxt podes ver un poco [esta libereria ](http://github.hubspot.com/pace/docs/welcome/) de JavaScript que se llama Pace. Espero que te sirva!
 
-	* **Pedro Escobar** (0)
+	* **Pedro Escobar** [237118] (0)
 
-		
 		Muchísimas gracias
 
-* **Manuel Saenz Grijalba** (1)
+* **Manuel Saenz Grijalba** (1) [211109](https://platzi.com/comentario/211109/) 
 
-	
 	Hola, Tengo un inconveniente realizando mutation con un array de objetos, cuando realizo push al array el state se actualiza en el componente que ejecuto la acción y disparo el commit pero en el componente que lista la información de este array no se actualiza.
 
-	* **Roberto Urita Jiménez** (1)
+	* **Roberto Urita Jiménez** [211109] (1)
 
-		
 		Muestra el código, para ver donde esta el problema.
 
-* **Anthony Will Solsol Soplin** (1)
+* **Anthony Will Solsol Soplin** (1) [50467](https://platzi.com/comentario/480110/) 
 Tengo una duda, si quisiera enviar los payload con mapMutation, cómo lo haría ?
 
-	* **Carlos Enrique Gonzalez Peña** (4)
+	* **Carlos Enrique Gonzalez Peña** [50467] (4)
 
-		
 		En la documentacion oficila de [vuex](https://vuex.vuejs.org/guide/mutations.html) al final explican como utilizar el `mapMutation` con payloads.
 		``` 
 		    import { mapMutations } from 'vuex'
@@ -34384,73 +32470,62 @@ Tengo una duda, si quisiera enviar los payload con mapMutation, cómo lo haría 
 		Ya que en un futuro cuando tengas muchos componentes y muchas mutaciones, al intentar mapear los que ocupes podrías tener un código poco legible.  
 		Si sabes ingles aquí te dejo un [articulo](https://medium.com/@stephane.souron/making-a-large-scale-app-with-vue-js-part-1-modularize-your-store-bf9066436502) el cual es el primero de una serie muy buena para usar vue y vuex a gran escala
 
-* **Darwin Rodríguez** (1)
+* **Darwin Rodríguez** (1) [36391](https://platzi.com/comentario/321611/) 
 Me quedó todo claro, a excepción de esto: Supongamos que cargo mis mutations con …mapMutations, tengo un metedo set que recibe el state y el
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [36391] (1)
 
-		
 		En esta parte de la clase <https://platzi.com/clases/vuejs-profesional/concepto/vuex/mutations9981/material/?time=336> se crea el nuevo método donde se pasa un payload a la mutación, debe ser un objeto con la o las propiedades que quieres que reciba la mutación.
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [321630](https://platzi.com/comentario/321630/) 
 
-	
 	Estoy tratando de hacer una notificacion que sirva para todos mis componentes y centralizo sus propiedades con vuex, alguien sabe como hacer funcionar esto?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [321630] (1)
 
-		
 		Qué problema te esta dando, te sale algún error? comparte tu código y entre todos de seguro podemos ayudarte.
 
-	* **Darwin Rodríguez** (0)
+	* **Darwin Rodríguez** [321630] (0)
 
-		
 		Pensé que era un error porque con el vue devtools me aparecían el state y los getters. Las mutaciones se muestran cuando hay algún cambio, es en ese momento que lo refleja el vue devtools, gracias!
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [321611](https://platzi.com/comentario/321611/) 
 
-	
 	Me quedó todo claro, a excepción de esto:  
 	Supongamos que cargo mis mutations con …mapMutations, tengo un metedo set que recibe el state y el payload, pero en mi componente …mapMutation(['nameMutation]) cómo paso el payload a esa mutación?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [321611] (1)
 
-		
 		En esta parte de la clase <https://platzi.com/clases/vuejs-profesional/concepto/vuex/mutations9981/material/?time=336> se crea el nuevo método donde se pasa un payload a la mutación, debe ser un objeto con la o las propiedades que quieres que reciba la mutación.
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [321611] (1)
 
-		
 		@GOLLUM23 creo que se refiere a usar el propio mapMutation, de manera que se usa solo lo que se importa en la cabecera, si es parte del array y declarado como string, cómo envías los payload ? O sea, sin crear un metodo a parte
 
-* **Alan Cornejo** (0)
+* **Alan Cornejo** (0) [284872](https://platzi.com/comentario/284872/) 
 
-	
 	Debo entender que con mapMutations no existe forma de pasar los parametros ???
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [284872] (1)
 
-		
 		Tengo esa misma duda, tienes alguna respuesta a eso ?
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [36393](https://platzi.com/comentario/321630/) 
 Estoy tratando de hacer una notificacion que sirva para todos mis componentes y centralizo sus propiedades con vuex, alguien sabe como hacer
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [36393] (1)
 
-		
 		Qué problema te esta dando, te sale algún error? comparte tu código y entre todos de seguro podemos ayudarte.
 
-## 0420. Getters
+## 0420. Getters [7822](https://platzi.com/clases/1145-vuejs-profesional/7822-getters/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Victor Gamez** (10)
+* **Victor Gamez** (10) [484645](https://platzi.com/comentario/484645/) 
 
-	
 	como dato, en cualquier map (mapState, mapMutation, mapGetters), podemos ponerle un nombre custom de esta forma:
 	``` 
 	    methods: {
@@ -34459,130 +32534,109 @@ Estoy tratando de hacer una notificacion que sirva para todos mis componentes y 
 	    
 	```
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [484645] (1)
 
-		
 		Gracias
 
-* **Jose R. Torrens Acosta** (4)
+* **Jose R. Torrens Acosta** (4) [184360](https://platzi.com/comentario/184360/) 
 
-	
 	Tenia entendido que para acceder a las propiedades del state es recomendable siempre usar getters.
 	
 	Pero a partir de esto entonces los getters son para cuando necesitas algo mas custom, y no el valor directo desde el state.
 
-	* **Nacho Anaya** (5)
+	* **Nacho Anaya** [184360] (5)
 
-		
 		Si, podrias implementarlo como una buena practica, pero tampoco no es malo acceder un dato directo del state. Creo que eso queda a criterio de cada uno. En mi caso veo que no vale la pena crear un getter que devuelva la propiedad tal cual esta.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [564008](https://platzi.com/comentario/564008/) 
 
-	
 	Me agrada como explica, los contextos son precisos.  
 	Siento que hay más herramientas en mi arsenal como desarrollador.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [904067](https://platzi.com/comentario/904067/) 
 
-	
 	 **Los getters** , Una cosa es cómo almaceno los datos en mi store global y otra diferente qué datos me son útiles dentro de un componente. Por ejemplo, puede que dentro de mi store se almacenen un numero considerable de propiedades, pero que un componente solo necesite aquellos con una caracteristica unica.
 
-* **reneclavijo** (1)
+* **reneclavijo** (1) [796917](https://platzi.com/comentario/796917/) 
 
-	
 	¿Se puede utilizar los Watch para observar el comportamiento de un mapState?, por ejemplo asignar un watch en un componente Vue para _count_
 
-* **Emilio Rafael Hernandez Perez** (1)
+* **Emilio Rafael Hernandez Perez** (1) [199705](https://platzi.com/comentario/199705/) 
 
-	
 	Hola, no se si es posible con los getters, pero es posible comunicarse entre paginas. Al igual que la info del stores se muestra tanto en el componente child como el principal de manera sincronizada, es posible colocar el componente de child en otra pagina web y se actualizan ambas de forma automática. como si fuese un chat?
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [199705] (3)
 
-		
 		No es posible pero puedes hacerlo utilizando nodeJS y algún protocolo como MQTT, eso lo enseñamos en el curso Avanzado de NodeJS dónde justamente hacen el backend (y utilizan una web app hecha con vue para el frontend)  
 		<https://platzi.com/clases/nodejs/>
 
-	* **omar1893** (0)
+	* **omar1893** [199705] (0)
 
-		
 		Hola aqui estan unos plugins para vuex no se si te sean utiles
 
-	* **omar1893** (0)
+	* **omar1893** [199705] (0)
 
-		
 		<https://vuejsdevelopers.com/2017/09/11/vue-js-vuex-plugins/>
 
-* **Manuel Saenz Grijalba** (0)
+* **Manuel Saenz Grijalba** (0) [215770](https://platzi.com/comentario/215770/) 
 
-	
 	Tengo el siguiente inconveniente, desde el componente A en una pestaña del browser actualizo el state de vuex, y esta info la muestro en el componente B abierto en otra pestaña del browser pero al ser actualizada en el componente A no se ve la actualización en el componente B, que error puedo estar cometiendo?
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [215770] (4)
 
-		
 		Hola, no estas cometiendo ningun error. Es el funcionamiento esperado, el store corre en memoria y la memoria tiene un alcance limitado a cada tab, por lo tanto no se comparte estado. Esto funciona asi para todos los frameworks que apliquen arquitectura flux. No hay que confundirlo con una arquitectura real time (por ejemplo web sockets).
 		
 		Si queres hacer algo como lo que planteas, deberias persistir esa informacion en algun lado como el localStorage y disparar un evento desde el storage para que actualice el estado cuando alguien o algo lo modifica. Nunca lo probe pero imagino que puede funcionar. Si no lo correcto seria armar una arquitectura de sockets con funcionalidad real time, pero para eso necesitas un servidor que se encargue de recibir y propagar mensages o cambios.
 
-	* **Manuel Saenz Grijalba** (0)
+	* **Manuel Saenz Grijalba** [215770] (0)
 
-		
 		Muchas gracias por la respuesta, encontre algo de lo que me mencionas para disparar un evento desde el storage si me funciona lo comparto con ustedes, gracias nuevamente
 
-* **david.quintanilla** (0)
+* **david.quintanilla** (0) [188187](https://platzi.com/comentario/188187/) 
 
-	
 	Hola existe alguna forma de obtener algún valor de la store y que este no sea reactivo?,
 	
 	Mi problema es el siguiente: sucede que tengo una tabla que muestra X información, la cual puedes editar haciendo click sobre una fila y este a su vez despliega una modal que contiene la información seleccionada bueno hasta aquí todo bien el problema es que en la modal estoy usando los getters de vuex por medio de una computed property y cada cambio que hago en la modal se ve reflejado en la tabla cosa que quiero evitar puesto que aún no he validado o cancelado los cambios.
 	
 	Entiendo que esto se debe gracias a la reactividad de VUEX, existe alguna forma de poder solucionar esto? gracias por la ayuda.
 
-	* **Cristofer Fuentes Barra** (0)
+	* **Cristofer Fuentes Barra** [188187] (0)
 
-		
 		Simplemente no utilices el v-model en los inputs, solo haz :value para poner el valor del store en el input, de esta manera no habra reactivada desde el input hacia la data (pero si al revés)
 
-	* **Cristofer Fuentes Barra** (2)
+	* **Cristofer Fuentes Barra** [188187] (2)
 
-		
 		Otra alternativa es crear nueva data en el modal con el valor de la data del store y una vez validada esta data “provisional” pasara los datos al store con algún mutator.
 
-## 0430. Actions
+## 0430. Actions [7823](https://platzi.com/clases/1145-vuejs-profesional/7823-actions/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **asolorzano** (3)
+* **asolorzano** (3) [196393](https://platzi.com/comentario/196393/) 
 
-	
 	Hola!!  
 	Tengo una duda, si tengo que realizar una tabla que sea tipo realtime mi request lo debo hacer sobre estas actions desde el store de vuex? Tengo aislada la lógica de los servicios como se mostró en vídeos anteriores, pero necesito actualizar esta información de manera realtime.  
 	Estoy usando Pusher.
 	
 	Saludos,
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [196393] (2)
 
-		
 		Hola, nunca use pusher pero creo que el patron es el mismo que con cualquier llamada HTTP. Podes usar actions o no. Si estas modificando el store usando Pusher (imagino que si), entonces creo que lo ideal seria que uses actions y dentro de las actions llames a tu logica/servicios.
 
-	* **asolorzano** (4)
+	* **asolorzano** [196393] (4)
 
-		
 		Gracias @ianaya89 estoy testeando con [socket.io](http://socket.io) también igual dejo el repo cuando lo culmine.
 
-* **emanueljtc** (2)
+* **emanueljtc** (2) [608480](https://platzi.com/comentario/608480/) 
 
-	
 	Bueno asi como q expertos no, se necesita practica y experiencia para dominar algo o al menos comprenderlo a profundidad.
 
-* **Sergio Gutierrez** (2)
+* **Sergio Gutierrez** (2) [414109](https://platzi.com/comentario/414109/) 
 
-	
 	Si desde un action lanzamos un commit para a través de la mutación cambiar el estado, como se crea un promise que espera el cambio real del commite.
 	
 	Tengo el siguiente código funcionando con Firebase (Firestore)
@@ -34647,90 +32701,76 @@ Estoy tratando de hacer una notificacion que sirva para todos mis componentes y 
 	
 	Gracias
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [414109] (1)
 
-		
 		Hasta ahora parece no tener solución esa parte ya que, el commit en si no retorna nada.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [414109] (1)
 
-		
 		Aunque puedes pensarlo de otra forma, tan pronto hayan cambios en la propiedad que actualizas puedes ejecutar alguna acción si es lo que deseas.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [904234](https://platzi.com/comentario/904234/) 
 
-	
 	Actions, son similares a las mutaciones, las diferencias son que:
 	
-	  * En lugar de mutar el estado, las acciones cometen mutaciones.
-	  * Las acciones pueden contener operaciones asincrónicas arbitrarias.
+	* En lugar de mutar el estado, las acciones cometen mutaciones.
+	* Las acciones pueden contener operaciones asincrónicas arbitrarias.
 	
 	
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [564018](https://platzi.com/comentario/564018/) 
 
-	
 	Ok, actions para realizar acciones Asincrónicas y una vez terminadas se despacha la mutación requerida  
 	Para acciones sincronas lo ideal es confirmar la mutación
 
-* **cetasi** (1)
+* **cetasi** (1) [511417](https://platzi.com/comentario/511417/) 
 
-	
 	Alguien sabe donde está el material de lectura, dicho al final de la clase?
 
-	* **Jesús Rafalel Calderin Antón** (1)
+	* **Jesús Rafalel Calderin Antón** [511417] (1)
 
-		
 		Se encuentra en la pestaña que dice **Archivos**
 
-* **Luis Miguel  Peña** (1)
+* **Luis Miguel  Peña** (1) [411345](https://platzi.com/comentario/411345/) 
 
-	
 	me parece que hay un error en la lógica cuando se llama la action incrementAsync… esta sumando al count 4 en lugar de 2.
 
-	* **Anthony Will Solsol Soplin** (2)
+	* **Anthony Will Solsol Soplin** [411345] (2)
 
-		
 		Creo que te estabas fijando en el computed double 😄
 
-* **Bruno Echevarria Quiroga** (1)
+* **Bruno Echevarria Quiroga** (1) [306089](https://platzi.com/comentario/306089/) 
 
-	
 	Excelente, la clase que más me ha gustado!
 
-* **Sergio Gutierrez** (1)
+* **Sergio Gutierrez** (1) [44957](https://platzi.com/comentario/414109/) 
 Si desde un action lanzamos un commit para a través de la mutación cambiar el estado, como se crea un promise que espera el cambio real d...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [44957] (1)
 
-		
 		Hasta ahora parece no tener solución esa parte ya que, el commit en si no retorna nada.
 
-## 0440. Integración a Platzi Music
+## 0440. Integración a Platzi Music [7824](https://platzi.com/clases/1145-vuejs-profesional/7824-integracion-a-platzi-music1275/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jhossept Romero** (26)
+* **Jhossept Romero** (26) [183200](https://platzi.com/comentario/183200/) 
 
-	
 	Esta brutal el curso y el framework, gracias team platzi y @ianaya89 por tu excelente explicacion
 
-	* **Nacho Anaya** (8)
+	* **Nacho Anaya** [183200] (8)
 
-		
 		Muchas gracias! 😃
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [183200] (1)
 
-		
 		Totalmente de acuerdo, cada clase es demasiado pro.
 
-* **David Daza** (9)
+* **David Daza** (9) [274679](https://platzi.com/comentario/274679/) 
 
-	
 	Hay otro caso dentro de la aplicación en el que lo podemos usar para tener mejor rendimiento: cuando se hace una búsqueda y se hace clic para ver el detalle de una canción (clic directamente en 🌎), el objeto `track` o está vacío o tiene información de una canción anterior, por lo cual el componente `TrackDetail` hará el llamado a la API.
 	
 	Lo que se puede hacer es almacenar la información del nuevo `track` antes de ir a la vista de detalle desde el componente `Track` cambiando un poco el método `goToTrack`, así:
@@ -34761,29 +32801,24 @@ Si desde un action lanzamos un commit para a través de la mutación cambiar el 
 	
 	Y listo! Vuex está genial y ni se diga este curso 😄
 
-	* **Nacho Anaya** (5)
+	* **Nacho Anaya** [274679] (5)
 
-		
 		Excelente aporte y muchas gracias por el mensaje!
 
-	* **Angel Camacho** (2)
+	* **Angel Camacho** [274679] (2)
 
-		
 		Sencillo pero brutal aporte.
 
-	* **hector398** (1)
+	* **hector398** [274679] (1)
 
-		
 		Muy buena idea
 
-	* **David Alejandro Abreu Abreu** (1)
+	* **David Alejandro Abreu Abreu** [274679] (1)
 
-		
 		Excelente! yo estaba buscando porque en mi caso si hacia una llamada a la API al seleccionar goToTrack.
 
-* **Alejandro González Reyes** (6)
+* **Alejandro González Reyes** (6) [564623](https://platzi.com/comentario/564623/) 
 
-	
 	Corrección  
 	¿Los estilos del componente Track seleccionado han desaparecido?. Solución
 	
@@ -34802,9 +32837,8 @@ Si desde un action lanzamos un commit para a través de la mutación cambiar el 
 	    
 	```
 
-* **Rogelio Alberto** (5)
+* **Rogelio Alberto** (5) [182021](https://platzi.com/comentario/182021/) 
 
-	
 	El getter quedaria mejor escrito asi:
 	``` 
 	    trackTitle (state) {
@@ -34813,12 +32847,11 @@ Si desde un action lanzamos un commit para a través de la mutación cambiar el 
 	    
 	```
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [182021] (4)
 
-		
 		Buen aporte, no se si quedaria mejor o peor pero el uso de una `ternary` es bienvenido siempre que se mantenga un codigo limpio. En mi caso me gusta el patron de `early return` pero ambas son buenas opciones.
 
-	* **Marcos Matamala** (2)
+	* **Marcos Matamala** [182021] (2)
 
 		```
 		    trackTitle (state) {
@@ -34831,25 +32864,21 @@ Si desde un action lanzamos un commit para a través de la mutación cambiar el 
 		    
 		```
 
-* **Byhako** (3)
+* **Byhako** (3) [352337](https://platzi.com/comentario/352337/) 
 
-	
 	ya vamos en stage-3 😃
 
-	* **Kevin Nick Pascual Tuesta** (2)
+	* **Kevin Nick Pascual Tuesta** [352337] (2)
 
-		
 		Ahora prácticamente ni la uso con babel 7x, todo lo que esta en el curso funciona perfecto sin extras.
 
-* **Nicolas Gonzalez** (3)
+* **Nicolas Gonzalez** (3) [337899](https://platzi.com/comentario/337899/) 
 
-	
 	Encontré un error… si buscas una canción luego seleccionas los detalles … y de los detalles vas a “nosotros” carga la url pero no el contenido  
 	buscar>>detalles>>de detalles a notros>>>no hay cambios pero si cambia la url
 
-	* **Jeff Velez** (6)
+	* **Jeff Velez** [337899] (6)
 
-		
 		Fijate en el header.vue y cambia
 		``` 
 		    router-link.navbar-item(to="about") Nosotros
@@ -34864,23 +32893,20 @@ Si desde un action lanzamos un commit para a través de la mutación cambiar el 
 		
 		Funcionó para mi, pero no te puedo argumentar el porqué.
 
-	* **Cristhian Daza** (2)
+	* **Cristhian Daza** [337899] (2)
 
-		
 		Yo lo tengo así y me funciono igual
 		``` 
 		    router-link.navbar-item(to="/about") Nosotros
 		    
 		```
 
-* **SOFTDYNAMIC** (2)
+* **SOFTDYNAMIC** (2) [757838](https://platzi.com/comentario/757838/) 
 
-	
 	Ya no es necesario instalar e stage-2 si ya tengo el stage-3 ?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [757838] (1)
 
-		
 		👋 ¡Hola!
 		
 		Digamos que es un poco al revés. El Stage 2 incluye algunas propuestas que aún no están muy cerca de ser estándar. El Stage 3 son las propuestas que ya casi son estándar. Puedes usar el Stage 3 sin necesidad de instalar el Stage 2. Pero no puedes usar el Stage 2 sin instalar también el Stage 3. 😉
@@ -34890,12 +32916,11 @@ Si desde un action lanzamos un commit para a través de la mutación cambiar el 
 		
 		👉 <https://stackoverflow.com/questions/37251552/whats-the-difference-between-babel-preset-stage-0-babel-preset-stage-1-etc#answer-48530505>
 
-* **carlos-bolivar** (2)
+* **carlos-bolivar** (2) [57390](https://platzi.com/comentario/564401/) 
 No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto dejo de funcionar el estilo de bordeado color verde al Trac...
 
-	* **Alejandro González Reyes** (3)
+	* **Alejandro González Reyes** [57390] (3)
 
-		
 		Saludos  
 		Si te sirve aun ya resolví el problema. Y es que uno de los eventos emitidos por el componente (select) se encarga precisamente de esos estilos, y curiosamente en el video los borraron
 		
@@ -34930,14 +32955,12 @@ No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto de
 		    
 		```
 
-* **carlos-bolivar** (1)
+* **carlos-bolivar** (1) [564401](https://platzi.com/comentario/564401/) 
 
-	
 	No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto dejo de funcionar el estilo de bordeado color verde al Track en la UI al seleccionarla?
 
-	* **Alejandro González Reyes** (3)
+	* **Alejandro González Reyes** [564401] (3)
 
-		
 		Saludos  
 		Si te sirve aun ya resolví el problema. Y es que uno de los eventos emitidos por el componente (select) se encarga precisamente de esos estilos, y curiosamente en el video los borraron
 		
@@ -34972,19 +32995,16 @@ No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto de
 		    
 		```
 
-* **jgorocica** (1)
+* **jgorocica** (1) [564031](https://platzi.com/comentario/564031/) 
 
-	
 	¿Si quisiera por ejemplo, guardar datos básicos del usuario que inició sesión dentro de mi app, sería válido utilizar Vuex? Lo digo, porque a veces es diferentes vistas es necesario mostrar su nombre, apellidos, edad, etc. Entonces para no reescribir el código en cada vista ( o sea, hacer una función en cada component) utilizar el vuex.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [564031] (2)
 
-		
 		Si, uno de los objetivos de los estados es compartir información entre componentes y poder dispara eventos cuando algo cambia en el estado, puedes tener información almacenada en el estado o tenerla también en local storage.
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [558673](https://platzi.com/comentario/558673/) 
 
-	
 	Hola!
 	
 	Algo raro sucede con el componente search y la directiva  
@@ -35019,9 +33039,8 @@ No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto de
 	
 	Saludos!
 
-	* **Jesús Miguel Quinto Teran** (2)
+	* **Jesús Miguel Quinto Teran** [558673] (2)
 
-		
 		Me sucedió lo mismo, el problema es que Vue no estaba olvidando las card marcadas en Blur entre una búsqueda y otra búsqueda y marcaba como blur las nuevas sin olvidar las ya marcadas, luego de varias búsquedas casi todas eran blur jejejeje.
 		
 		Mi solución fue simple: Agregar la directiva **:key** sobre el **pm-track** component, de ésta forma Vue vería la actualización de resultados.
@@ -35040,9 +33059,8 @@ No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto de
 		    
 		```
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [557996](https://platzi.com/comentario/557996/) 
 
-	
 	Hola!  
 	A alguien le habrá aparecido un error en la consola como éste:
 	``` 
@@ -35056,15 +33074,13 @@ No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto de
 	    
 	```
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [557996] (1)
 
-		
 		Es sencillo. En tu archivo Search.vue, seguramente, tendras un objeto, que recibas por parametro o que tu mismo definas, que tiene el metodo **removeAttibute** y que simplemente el error dice que no es una función.  
 		Asegurate que exista y/o este bien declarada.
 
-* **DESTRUN** (1)
+* **DESTRUN** (1) [442417](https://platzi.com/comentario/442417/) 
 
-	
 	tengo un error con las clases de bulma, cuando abro el devtools la resolucion disminuye por lo tanto los botones para ir a / y /about desaparecen, como los arreglo, mi pug es este
 	``` 
 	    <template lang="pug">
@@ -35089,95 +33105,80 @@ No se si alguien se haya dado cuenta, pero cuando se integro Vuex al proyecto de
 	    
 	```
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [442417] (2)
 
-		
 		Podrias poner un screenshot de lo que te esta pasando?
 
-* **edwarxdced** (1)
+* **edwarxdced** (1) [437973](https://platzi.com/comentario/437973/) 
 
-	
 	😮 Que brutalidad…Súper genial
 
-* **wjcg42** (1)
+* **wjcg42** (1) [263331](https://platzi.com/comentario/263331/) 
 
-	
 	clase a clase me sorprende más la potencia de vue js. Wow que performance puedes darle a las aplicaciones con estos conceptos.
 
-* **sukomost** (1)
+* **sukomost** (1) [196054](https://platzi.com/comentario/196054/) 
 
-	
 	@ianaya89 curso espectacular pero tengo un problema, nos funcionan lo eventos de los botones del player en firefox. A Alguien mas le sucede??
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [196054] (0)
 
-		
 		Hola! Encontré este preset de Babel para trabajar con vueJS checa si al instalarlo te funciona!  
 		<https://www.npmjs.com/package/babel-preset-vue>
 
-	* **sukomost** (0)
+	* **sukomost** [196054] (0)
 
-		
 		Gracias por el aporte, pero sigue sin funcionar. A alguien le funciona en firefox los botones que activan el player o llevan al detailTrack?
 
-	* **sukomost** (0)
+	* **sukomost** [196054] (0)
 
-		
 		A nadie le sucede lo de firefox???
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [196054] (0)
 
-		
 		Hola, gracias por reportar esto. Sinceramente no lo probado enteramente en FF antes. Lo que decis es cierto y es bastante raro, no pude encontrar una explicacion tecnica de porque sucede pero si reemplazas los tag `button` por `a` funciona correctamente. Voy a seguir investigando 😕
 
-	* **José Jesús Palacios** (0)
+	* **José Jesús Palacios** [196054] (0)
 
-		
 		Cierto. En FF V56.0 no funcionan los `button` pero si se sustituyen por elementos `a` no hay problema.
 
-	* **sampol.90 (Platzi)** (0)
+	* **sampol.90 (Platzi)** [196054] (0)
 
-		
 		`babel-preset-vue` es una buena opción
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [196054] (1)
 
-		
 		Yo estoy haciendo el curso en FF y funciona bien. A veces pasa que el elemento play no funciona correctamente si el sistema operativo no tiene instalados los códecs adecuados o el navegador propiamente no los tiene, podrías revisar eso en las configuraciones de FF.
 		
 		Saludos!
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [196054] (1)
 
-		
 		Yo estoy haciendo el curso en FF y funciona bien. A veces pasa que el elemento play no funciona correctamente si el sistema operativo no tiene instalados los códecs adecuados o el navegador propiamente no los tiene, podrías revisar eso en las configuraciones de FF.
 		
 		Saludos!
 
-* **luisalfredonavarroalbarracin** (1)
+* **luisalfredonavarroalbarracin** (1) [70847](https://platzi.com/comentario/783610/) 
 Y el material de texto?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [70847] (1)
 
-		
 		👋 ¡Hola!
 		
 		Creo que el profesor se refiere a esta clase: <https://platzi.com/clases/1145-vuejs-profesional/7832-internacionalizacion-con-vue-i18n/>. 😉
 
-* **jgorocica** (1)
+* **jgorocica** (1) [57359](https://platzi.com/comentario/564031/) 
 ¿Si quisiera por ejemplo, guardar datos básicos del usuario que inició sesión dentro de mi app, sería válido utilizar Vuex? Lo digo, porq...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [57359] (2)
 
-		
 		Si, uno de los objetivos de los estados es compartir información entre componentes y poder dispara eventos cuando algo cambia en el estado, puedes tener información almacenada en el estado o tenerla también en local storage.
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [56935](https://platzi.com/comentario/558673/) 
 Hola! Algo raro sucede con el componente search y la directiva blur personalizada. Mi caso es éste: La línea a.removeAttibute(‘disabled’)...
 
-	* **Jesús Miguel Quinto Teran** (2)
+	* **Jesús Miguel Quinto Teran** [56935] (2)
 
-		
 		Me sucedió lo mismo, el problema es que Vue no estaba olvidando las card marcadas en Blur entre una búsqueda y otra búsqueda y marcaba como blur las nuevas sin olvidar las ya marcadas, luego de varias búsquedas casi todas eran blur jejejeje.
 		
 		Mi solución fue simple: Agregar la directiva **:key** sobre el **pm-track** component, de ésta forma Vue vería la actualización de resultados.
@@ -35196,46 +33197,39 @@ Hola! Algo raro sucede con el componente search y la directiva blur personalizad
 		    
 		```
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [56869](https://platzi.com/comentario/557996/) 
 Hola! A alguien le habrá aparecido un error en la consola como éste: [Vue warn]: Error in directive blur bind hook: "TypeError: a.r...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [56869] (1)
 
-		
 		Es sencillo. En tu archivo Search.vue, seguramente, tendras un objeto, que recibas por parametro o que tu mismo definas, que tiene el metodo **removeAttibute** y que simplemente el error dice que no es una función.  
 		Asegurate que exista y/o este bien declarada.
 
-* **DESTRUN** (1)
+* **DESTRUN** (1) [47418](https://platzi.com/comentario/442417/) 
 tengo un error con las clases de bulma, cuando abro el devtools la resolucion disminuye por lo tanto los botones para ir a / y /about des...
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [47418] (2)
 
-		
 		Podrias poner un screenshot de lo que te esta pasando?
 
-* **Heyner Javier Marmol Verbel** (0)
+* **Heyner Javier Marmol Verbel** (0) [324067](https://platzi.com/comentario/324067/) 
 
-	
 	No esta el material de modules para vuex
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [324067] (1)
 
-		
 		A qué material te refieres, los archivos los encuentras en la pestaña de archivos.
 
-	* **Heyner Javier Marmol Verbel** (2)
+	* **Heyner Javier Marmol Verbel** [324067] (2)
 
-		
 		modulos de vuex
 
-	* **Anthony Will Solsol Soplin** (1)
+	* **Anthony Will Solsol Soplin** [324067] (1)
 
-		
 		@GOLLUM23 se refiere a lo que menciona el profesor en el minuto 25:57. A mí también me gustaría ver esos conceptos.
 
-* **David Daza** (0)
+* **David Daza** (0) [274678](https://platzi.com/comentario/274678/) 
 
-	
 	Hay otro caso dentro de la aplicación en el que lo podemos usar para tener mejor rendimiento: cuando se hace una búsqueda y se hace clic para ver el detalle de una canción (clic directamente en 🌎), el objeto `track` o está vacío o tiene información de una canción anterior, por lo cual el componente `TrackDetail` hará el llamado a la API.
 	
 	Lo que se puede hacer es almacenar la información del nuevo `track` antes de ir a la vista de detalle desde el componente `Track` cambiando un poco el método `goToTrack`, así:
@@ -35266,31 +33260,26 @@ tengo un error con las clases de bulma, cuando abro el devtools la resolucion di
 	
 	Y listo! Vuex está genial y ni se diga este curso 😄
 
-* **Yefferson Guarnizo** (0)
+* **Yefferson Guarnizo** (0) [264914](https://platzi.com/comentario/264914/) 
 
-	
 	hola, tengo el siguiente error Error in render: “TypeError: Cannot read property ‘state’ of undefined”, y no logro identificar que pueda ser 😕 alguien le ha pasado esto?
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [264914] (1)
 
-		
 		Hola, si podes comparti el codigo para poder ver que pasa. Por lo que entiendo esta fallando la instalacion de Vuex por lo tanto no puede leer la propiedad `state`.
 
-	* **Yefferson Guarnizo** (0)
+	* **Yefferson Guarnizo** [264914] (0)
 
-		
 		@ianaya89 ya lo logre solucionar. no se por que pero algún conflicto estaba teniendo al instalar stage 2 de babel, asi que instale stage 3 y adiós problema.
 		
 		gracias 😃
 
-* **Hector Vasquez** (0)
+* **Hector Vasquez** (0) [244545](https://platzi.com/comentario/244545/) 
 
-	
 	Es buena práctica pasar objetos como parámetro, en vez de solo un atributo simple
 
-* **Juan Carlos  Correa Herrera** (0)
+* **Juan Carlos  Correa Herrera** (0) [228529](https://platzi.com/comentario/228529/) 
 
-	
 	¿Valdría la pena guardar en el store un array de Tracks para hacer performance de Search?
 	
 	Por ejemplo, el store quedaría algo así:
@@ -35307,21 +33296,18 @@ tengo un error con las clases de bulma, cuando abro el devtools la resolucion di
 	
 	Tendría más ventajas o desventajas ? por eso de meter lógica de cuándo usar el store y cuándo hacer xml request.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [228529] (1)
 
-		
 		Hola, es una buena pregunta. Creo que es algo que podria considerarse, habria que evaluar cuantas canciones son y que tan seguido se puede repetir el escenario que planteas para ver si conviene almacenar esa X cantidad de canciones en memoria. Tene en cuenta tambien que el browser chachea los HTTP request por lo cual tambien hay cierta optimizacion en caso de busqueda repetida. En resumen creo que puede ser algo bueno a considerar pero siempre teniendo en cuenta cada caso. Muy buen aporte!
 
-* **Paola Cuadros** (0)
+* **Paola Cuadros** (0) [227473](https://platzi.com/comentario/227473/) 
 
-	
 	Al momento de recargar la pantalla desde la vista de TrackDetails obtengo un error ‘"Error in created hook: “TypeError: **WEBPACK_IMPORTED_MODULE_2__services_track**.a.getTrackById is not a function”’
 	
 	¿Alguien sabe esto por que ocurre?
 
-	* **Paola Cuadros** (0)
+	* **Paola Cuadros** [227473] (0)
 
-		
 		“dependencies”: {  
 		“bulma”: “^0.6.1”,  
 		“trae”: “^1.4.2”,  
@@ -35330,14 +33316,12 @@ tengo un error con las clases de bulma, cuando abro el devtools la resolucion di
 		“vuex”: “^3.0.1”  
 		}
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [227473] (0)
 
-		
 		Hola, no creo que sea un error de dependencias sino de compilacion de webpack. Por lo que poco que dice intuyo que podes tener un error de sintaxis o en algun lado, asegurate que la funcion `getTrackById` exista y es escrita correctamente.
 
-	* **Daniee** (0)
+	* **Daniee** [227473] (0)
 
-		
 		Hola Ignacio tengo el mismo problema, ocurre solamente cuando recargo la página aquí esta mi código:
 		``` 
 		    mixins: [ trackMixin ],
@@ -35365,9 +33349,8 @@ tengo un error con las clases de bulma, cuando abro el devtools la resolucion di
 		
 		Creo que el problema está en el último parámetro del **if** pero no sé…creo que esta bien así no ?
 
-	* **Daniee** (0)
+	* **Daniee** [227473] (0)
 
-		
 		Vale ya encontré el problema jeje…
 		
 		Dentro de **store.js** estaba llamando dentro de la action a `getTrackById` en vez de `getById` :
@@ -35384,244 +33367,205 @@ tengo un error con las clases de bulma, cuando abro el devtools la resolucion di
 		
 		Compruébalo por si tienes el mismo error que yo Paola y te debería de funcionar. Un saludo 😄 !!
 
-* **Lucas  Hick** (0)
+* **Lucas  Hick** (0) [223669](https://platzi.com/comentario/223669/) 
 
-	
 	Hola cómo están? Excelente el curso! Tendrán el archivo de texto del que habla Nacho sobre la modularización del ‘store’? Desde ya muchas gracias, saludos!
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [223669] (1)
 
-		
 		Hola, te dejo el [link](https://vuex.vuejs.org/en/modules.html) a la documentacion de Vuex donde se muestra como hacerlo.
 
-	* **Lucas  Hick** (0)
+	* **Lucas  Hick** [223669] (0)
 
-		
 		Gracias!
 
-	* **Hector Vasquez** (0)
+	* **Hector Vasquez** [223669] (0)
 
-		
 		Es conveniente módulos cuando toda la data, por muy grande que sea, está toda relacionada? y esto requiera crear métodos que necesiten cruzar información? Por ejemplo:
 		
 		notas, pruebas, alumnos, profesores, salas, director, colegios, ciudad, país
 		
 		O ahí la relacional conviene hacerse pasando siempre parámetros a las funciones para realizar cruces de información? pero ahí qué pasa con los computed (que se calculan solos en base al state del store) que necesiten cruzar datos?
 
-* **Paul Alarcon** (0)
+* **Paul Alarcon** (0) [219561](https://platzi.com/comentario/219561/) 
 
-	
 	Que tal Nacho por favor me encuentro desarrollando un chatbot tengo un inconveniente en el cual me encuentro estancado, tengo un store desde el cual menejo las peticiones al api con axios, y aquí guardo mis datos(mensajes enviados y mensajes recibidos) el inconveniente es que no puedo mostrar adecuadamente en pantalla los mensajes. me aparece solo de un lado y anidadas las respuestas y del otro igualmente anidado los mensajes del usuario, es decir no logro hacer que aparezca mensaje usuario y luego respuesta
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [219561] (0)
 
-		
 		Hola, es un poco dificil determinar cual puede ser la causa del error (y entender el problema). Si podes compartir algo de codigo quizas pueda ayudarte
 
-* **Jose Fernando Nieto Suarez** (0)
+* **Jose Fernando Nieto Suarez** (0) [207585](https://platzi.com/comentario/207585/) 
 
-	
 	No me carga el vídeo, sale un error: “No compatible source was found for this media.”
 
-	* **sampol.90 (Platzi)** (0)
+	* **sampol.90 (Platzi)** [207585] (0)
 
-		
 		Hola! Podrías intentar en unos minutos por favor. Estamos solucionándolo.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [207585] (0)
 
-		
 		En breve debería estar funcionando una disculpa!
 
-	* **sampol.90 (Platzi)** (0)
+	* **sampol.90 (Platzi)** [207585] (0)
 
-		
 		Ya debería estar funcionando, prueba de nuevo 😃
 
-* **Jose R. Torrens Acosta** (0)
+* **Jose R. Torrens Acosta** (0) [184375](https://platzi.com/comentario/184375/) 
 
-	
 	Al momento de desarrollar una app usando Vuex, que es mas recomendable: Hacer las llamadas a través de los “servicios” o hacer todas las llamadas a la API en las actions y hacer commit al store (o devolver la promise cuando sea necesario) ?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [184375] (0)
 
-		
 		Es una buena pregunto. Creo que es algo relativo, si tus propiedades estan en el `state` y tus llamadas ajax van a setear valores sobre ese `state`, creo que es recomendable delegar eso a las `actions`. Pero no siempre vas a tener esa necesidad ya que tampoco es bueno sobrecargar el `state` con cosas que no necesitas. Creo que en general vas a tener esquemas mixtos donde en algunos casos tus peticiones ocurren dentro de actions en el store y en otros casos tenes componentes interactuando directamente con los servicios (sin store en el medio).
 
-	* **Jose R. Torrens Acosta** (1)
+	* **Jose R. Torrens Acosta** [184375] (1)
 
-		
 		Entiendo, pero en ese caso, no estariamos rompiendo la idea del store, que es tener todos los datos centralizados?.
 		
 		No es mas recomendable tener todas las llamadas a la API en un solo sitio, asi al momento de buscar un error ir directamente al archivo en cuestión?
 		
 		Siguiendo esta idea podriamos tener un servicio y desde el store los llamamos y manejamos la respuesta de la promesa. De esta forma igual tendriamos todas las llamadas a la API en un solo sitio y desde cualquier parte podrian consumirse.
 
-	* **Christian Lopez** (0)
+	* **Christian Lopez** [184375] (0)
 
-		
 		En mi caso use un plugin para extender la funcionalidad de vue. Agregue una colección de funciones para usarlos en el resto de la aplicación e incluso a través de vuex. Tal como lo mencionas anteriormente, la idea es que vuex consuma una instancia (sigleton) de un servicio que se encargara de realizar la comunicación a través de una interfaz. De esta forma, podría remplazar el servicio a futuro en caso de ser necesario.
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [184375] (1)
 
-		
 		La discusion puede ser muy fina sobre lo correcto y lo incorrecto. Yo creo que el concepto de state no se rompe porque no considero que TODO tenga que estar en el state, de hecho me parece mal que si algo no se comparte entre componentes este dentro del state… es un desperdicio de memoria.
 		
 		Las llamadas a la API yo las concentraria siempre en servicios, en ese caso a la hora de cambiar algo o debugear el codigo sigue en el mismo lugar. Luego el tema esta en que tu store y tus componentes usen los mismos servicios. Luego vuelvo al punto anterior, si esa llamada a la API la estas utilizando en varias componentes lo ideal seria que este plasmada en una action pero sino no creo que tenga mucho sentido.
 		
 		De todos modos, en estos casos usa lo que te resulte mejor a vos y a tu equipo, lo ideal es ser lo mas pragmatico posible.
 
-	* **Juan Carlos  Correa Herrera** (0)
+	* **Juan Carlos  Correa Herrera** [184375] (0)
 
-		
 		Estoy de acuerdo con @ianaya89, puedes usar un servicio en un componente y actualizar el store usando un mutation. Por otro lado, si esto lo voy a usar en varios componentes, refactorizo y lo hago en el action mejor. A lo que entiendo, es lo que dice @ianaya89.
 		
 		Además, tener un store no impide tener data en otros componentes, incluso en React puedes tener tu state global y state locales si es que los necesitas.
 		
 		La manera de saber si es correcto o incorecto es en base al contexto de tu necesidad. Yo haría un estado local en un componente si es algo exclusivo del mismo, algo que no requiero en ningún otro lado. Esto permite controlar la memoria global de mi aplicación. No le veo sentido tener en mi estado global un valor que sólo usaré en un componente particular. Pero como digo, es correcto o incorrecto según tus necesidades.
 
-# Nuxt.js							
+# Nuxt.js							 [1347]
 
-## 0450. Server Side Rendering
+## 0450. Server Side Rendering [7825](https://platzi.com/clases/1145-vuejs-profesional/7825-server-side-rendering/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Rodrigo Burgos S.** (6)
+* **Rodrigo Burgos S.** (6) [183615](https://platzi.com/comentario/183615/) 
 
-	
 	El enlace de Nuxt es: <https://nuxtjs.org/>
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [183615] (1)
 
-		
 		gracias
 
-* **MauricioHernanCabrera** (3)
+* **MauricioHernanCabrera** (3) [303472](https://platzi.com/comentario/303472/) 
 
-	
 	Razones por las que usar nuxt [https://medium.com/vue-mastery/10-reasons-to-use-nuxt-js-for-your-next-web-application-522397c9366b](enlace)
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [303472] (1)
 
-		
 		gracias
 
-* **Guillermo  Del Pino** (2)
+* **Guillermo  Del Pino** (2) [278239](https://platzi.com/comentario/278239/) 
 
-	
 	Cuando debería optar por usar SSR? o en que tipo de aplicaciones/proyectos?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [278239] (5)
 
-		
 		Cuando son landings donde es importante asegurarte que tu SEO sea bueno, ademas cuando quieres que la carga de información sea más rápida con una información inicial y luego actualizas con la información dinámica que llega desde el backend.
 
-	* **Guillermo  Del Pino** (0)
+	* **Guillermo  Del Pino** [278239] (0)
 
-		
 		Gracias !
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [57403](https://platzi.com/comentario/564633/) 
 Haber si estoy entendiendo. Supongamos que tengo un SPA que en el backend usa NodeJS, ExpressJS y MongoDB, en el frontend usa Vue. Según ...
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [57403] (2)
 
-		
 		No tienes que complicarte tanto. Sigue usando Vue con [Nuxt](https://nuxtjs.org/) SSR
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [909297](https://platzi.com/comentario/909297/) 
 
-	
 	una de las mayores ventajas del Server Side Rendering, es poder aplicar seo al que se esta desarrollando con vue.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [564633](https://platzi.com/comentario/564633/) 
 
-	
 	Haber si estoy entendiendo.  
 	Supongamos que tengo un SPA que en el backend usa NodeJS, ExpressJS y MongoDB, en el frontend usa Vue.  
 	Según tengo entendido el problema de las SPA es el SEO. Entonces desde Express puedo usar en lugar de un languaje de plantillas como Pug o HTML plano usar un SSR que me compile mis componentes con SEO importante. y despues ya desde el frontend cambiar esos datos reactivamente.?
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [564633] (2)
 
-		
 		No tienes que complicarte tanto. Sigue usando Vue con [Nuxt](https://nuxtjs.org/) SSR
 
-* **Alfonso Diaz** (1)
+* **Alfonso Diaz** (1) [453919](https://platzi.com/comentario/453919/) 
 
-	
 	Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a implementar pre-rendering?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [453919] (1)
 
-		
 		Puedes darle una mirada a [este](https://github.com/chrisvfritz/prerender-spa-plugin) plugin y puedes leerte [esta](https://markus.oberlehner.net/blog/how-to-pre-render-vue-powered-websites-with-webpack/) guia.
 
-* **Cristofer Fuentes Barra** (1)
+* **Cristofer Fuentes Barra** (1) [189314](https://platzi.com/comentario/189314/) 
 
-	
 	Desde el punto de vista de una empresa que esta recién arrancando ¿será mas útil el Client Side Rendering? pienso que de esta manera se pueden prescindir recursos del lado del servidor debido a todo el “trabajo pesado” lo realiza el cliente.
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [189314] (4)
 
-		
 		Lo mas facil es relativo segun el tipo de producto que quieras hacer. Si tu app tiene SSR pero ese server se dedica solo al renderizado y carga de la app no seria ningun problema ya que casi todas las peticiones estarian mas orientadas al servidor que tiene la API.
 		
 		Por otro lado se carga mas el servidor pero menos el cliente lo cual mejora la experiencia de usuario.  
 		Nuxt es una excelente opcion pero es importante primero entender bien todo sobre Vue, la principal ventaja de SSR para mi es el SEO. Si estas trabajando con un sitio publico donde el trafico depende mucho de los buscadores creo que vale la pena intentar usarlo. Sino podes primero aprender a dominar Vue a fondo y luego ver si es necesario o no.
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [189314] (1)
 
-		
 		Excelente pregunta y respuesta.
 
-* **Omar Boza** (1)
+* **Omar Boza** (1) [183053](https://platzi.com/comentario/183053/) 
 
-	
 	El plugin **Prerender SPA Plugin** puede ser una alternativa subiendo los archivos ya “prerrendereados” al servidor
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [183053] (0)
 
-		
 		Es una buena alternativa, gracias por el aporte.
 
-	* **Hector Vasquez** (0)
+	* **Hector Vasquez** [183053] (0)
 
-		
 		Claro, pero quedan estáticos, por lo que es útil para páginas que no van a cambiar o van a cambiar muy poco.
 		
 		Cuando cambien, hay que hacer nuevamente un prerender y volver a subir al servidor
 
-* **Christian Lopez** (0)
+* **Christian Lopez** (0) [212063](https://platzi.com/comentario/212063/) 
 
-	
 	Es posible implementar nuxt en una aplicación vuejs ya construida?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [212063] (3)
 
-		
 		Claro que es posible, solo tienes que refactorizar código pero es completamente posible, no fácil pero si posible.
 
-* **Alfonso Diaz** (0)
+* **Alfonso Diaz** (0) [48382](https://platzi.com/comentario/453919/) 
 Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a implementar pre-rendering?
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [48382] (1)
 
-		
 		Puedes darle una mirada a [este](https://github.com/chrisvfritz/prerender-spa-plugin) plugin y puedes leerte [esta](https://markus.oberlehner.net/blog/how-to-pre-render-vue-powered-websites-with-webpack/) guia.
 
-## 0460. Nuxt.js
+## 0460. Nuxt.js [7826](https://platzi.com/clases/1145-vuejs-profesional/7826-nuxtjs/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [601841](https://platzi.com/comentario/601841/) 
 
-	
 	Si alguno acá necesita cambiar el **host** y el **port** donde esta escuchando el proyecto, lo pueden hacer muy fácilmente desde su **package.json**
 	
 	Ejemplo:
@@ -35630,30 +33574,27 @@ Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a imp
 	    
 	```
 
-* **axel_vc** (3)
+* **axel_vc** (3) [405211](https://platzi.com/comentario/405211/) 
 
-	
 	no puedo usar pug, marca error al intentar usar lang=“pug”
 
-	* **Sebastian Cardoso Castillo** (2)
+	* **Sebastian Cardoso Castillo** [405211] (2)
 
 		```
 		    npm install pug pug-plain-loader --save-dev
 		    
 		```
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [914579](https://platzi.com/comentario/914579/) 
 
-	
 	actualmente la version de Nuxt.js es la 2.11.x y el comando de instalacion es.
 	``` 
 	    npx create-nuxt-app <project-name>```
 	    
 	```
 
-* **JoosCode** (2)
+* **JoosCode** (2) [527482](https://platzi.com/comentario/527482/) 
 
-	
 	me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpack pero sigue el error
 	``` 
 	     FATAL  Module @nuxt/webpack not found.
@@ -35689,33 +33630,28 @@ Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a imp
 	    
 	```
 
-	* **Alvaro Julian Acosta Rivera** (2)
+	* **Alvaro Julian Acosta Rivera** [527482] (2)
 
-		
 		Probaste usando
 		``` 
 		    npm i @nuxt/webpack 
 		    
 		```
 
-	* **JoosCode** (1)
+	* **JoosCode** [527482] (1)
 
-		
 		si claro lo utilice y no hace nada me sigue dando el mismo error el node y lo reinstale y nada es extraño.
 
-	* **JoosCode** (1)
+	* **JoosCode** [527482] (1)
 
-		
 		y busco la dependencia en node_modules y si esta
 
-	* **Alvaro Julian Acosta Rivera** (1)
+	* **Alvaro Julian Acosta Rivera** [527482] (1)
 
-		
 		Vale, crei que el error seria el @ antes del texto, puedes compartir el log completo que te da al final?
 
-	* **JoosCode** (1)
+	* **JoosCode** [527482] (1)
 
-		
 		aqui esta el log
 		``` 
 		    0 info it worked if it ends with ok
@@ -35758,26 +33694,22 @@ Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a imp
 		    
 		```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [527482] (1)
 
-		
 		Puedes compartir el package.json por favor, el stack del error no dice exactamente porque falla, en este último que compartes ya no esta el error de nuxt/webpack
 
-* **Jesús Rafalel Calderin Antón** (1)
+* **Jesús Rafalel Calderin Antón** (1) [513841](https://platzi.com/comentario/513841/) 
 
-	
 	Estando dentro de la carpeta del proyecto, para abrir el editor de código:  
 	Visual Studio Code: **code .**  
 	Atom: **aton .**
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [417406](https://platzi.com/comentario/417406/) 
 
-	
 	[Nuxt](https://nuxtjs.org/)
 
-* **irvingrh** (1)
+* **irvingrh** (1) [398071](https://platzi.com/comentario/398071/) 
 
-	
 	Si alguien más tuvo el siguiente error:
 	``` 
 	    Module build failed (from ./node_modules/eslint-loader/index.js)
@@ -35799,9 +33731,8 @@ Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a imp
 	    
 	```
 
-* **Darwin Rodríguez** (1)
+* **Darwin Rodríguez** (1) [283409](https://platzi.com/comentario/283409/) 
 
-	
 	Tengo el siguiente error:
 	``` 
 	    events.js:183
@@ -35829,70 +33760,59 @@ Tienen algun tutorial de Prerender SPA Plugin, o alguna clase que me ayude a imp
 	    
 	```
 
-	* **Darwin Rodríguez** (2)
+	* **Darwin Rodríguez** [283409] (2)
 
-		
 		Resuelto! Si les sale este error en caso de que usen Windows debe de cerrar todos los procesos en segundo plano de node.
 
-	* **Julio Yacot** (1)
+	* **Julio Yacot** [283409] (1)
 
-		
 		También este error puede generarse porque el puerto 3000 esté en uso por otra aplicación o instancia de Nodejs
 
-* **Alejandro Villegas Carvajal** (1)
+* **Alejandro Villegas Carvajal** (1) [188798](https://platzi.com/comentario/188798/) 
 
-	
 	si iniciamos una app con Nuxt.js puedo iniciarla en un bucket de s3? o debo tener node?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (0)
+	* **Diego Alexander Forero Higuera (Platzi)** [188798] (0)
 
-		
 		Siempre es necesario tener node para poder compilar los archivos, s3 solo te sirve para almacenar archivos finales, pero no para compilar, puedes compilar y subir tus archivos compilados a s3 y usar esos.
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [188798] (3)
 
-		
 		Nuxt tiene una funcionalidad para compilar el proyecto y generar una version estatica.
 		
 		Te dejo un [link](https://nuxtjs.org/guide/#static-generated) a la doc y [otro](https://medium.com/@ianaya89/crea-tu-sitio-web-con-github-pages-y-nuxt-js-6a90fd0a0dc4) a un post que hice hace unos dias.
 
-* **JoosCode** (1)
+* **JoosCode** (1) [54254](https://platzi.com/comentario/527482/) 
 me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpack pero sigue el error FATAL Module @nuxt/webpack...
 
-	* **Alvaro Julian Acosta Rivera** (2)
+	* **Alvaro Julian Acosta Rivera** [54254] (2)
 
-		
 		Probaste usando
 		``` 
 		    npm i @nuxt/webpack 
 		    
 		```
 
-* **Darwin Rodríguez** (0)
+* **Darwin Rodríguez** (0) [283407](https://platzi.com/comentario/283407/) 
 
-	
 	Si es necesario usar node del lado del servidor entonces, nuxt sería alternativa para trabajar con php?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [283407] (1)
 
-		
 		No, php es un lenguaje, en este caso el lenguaje seria JavaScript, nuxt es una librería o framework que tiene incluido el server side render.
 
-	* **Darwin Rodríguez** (0)
+	* **Darwin Rodríguez** [283407] (0)
 
-		
 		Gracias, que alternativa podría aplicar a php o simplemente trabajo con Vue de forma normal, integrandolo y ya?
 
-* **Enzo Aliatis** (0)
+* **Enzo Aliatis** (0) [201742](https://platzi.com/comentario/201742/) 
 
-	
 	Nuxt reemplazaría a express? o se pueden integrar después, o ya no necesitaríamos express de lado del servidor con Nuxt?  
 	Con Nuxt ya no estaríamos haciendo solo la vistas sino tambien un lado del servidor?  
 	Express puede hacer lo mismo que Nuxt? son equivalentes? se complementan? no tiene nada que ver el uno con lo otro?
 
-	* **alesanabriav** (1)
+	* **alesanabriav** [201742] (1)
 
-		
 		Hola Enzo nuxt se puede montar sobre express.
 		
 		Nuxt te ayuda a hacer render de las paginas y componentes de react.
@@ -35901,85 +33821,71 @@ me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpa
 		
 		<https://github.com/nuxt/nuxt.js#using-nuxtjs-programmatically>
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [201742] (3)
 
-		
 		Nuxt puede o no reemplazar express (en realidad Nuxt usa express internamente). Eso depende de que tipo de app quieras hacer, si queres una app monolitica (servidor + cliente) o una app cliente (con SSR pero sin logica en el server).
 
-## 0470. Conceptos Básicos de Nuxt
+## 0470. Conceptos Básicos de Nuxt [7827](https://platzi.com/clases/1145-vuejs-profesional/7827-conceptos-basicos-de-nuxt/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Marcos Matamala** (23)
+* **Marcos Matamala** (23) [183091](https://platzi.com/comentario/183091/) 
 
-	
 	el nombre “~” científico es “colita de chancho”
 
-	* **Nacho Anaya** (7)
+	* **Nacho Anaya** [183091] (7)
 
-		
 		😂
 
-	* **fredy bustos** (1)
+	* **fredy bustos** [183091] (1)
 
-		
 		jajajjajajja
 
-	* **leocmpro** (2)
+	* **leocmpro** [183091] (2)
 
-		
 		Se llama virgulilla
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [183091] (1)
 
-		
 		en Venezolano “rabo de cochino”
 
-* **Jose R. Torrens Acosta** (10)
+* **Jose R. Torrens Acosta** (10) [184417](https://platzi.com/comentario/184417/) 
 
-	
 	Para trabajar con Vue hay un framework de diseño MUY bueno llamado Vuetifyjs (<https://vuetifyjs.com/vuetify/quick-start>) y tiene un template para Nuxt.
 	
 	Los invito a usarlo, esta muy bueno y tiene una comunidad muy activa.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [184417] (0)
 
-		
 		Muy bueno, gracias por el aporte 👏
 
-	* **Cristofer Fuentes Barra** (7)
+	* **Cristofer Fuentes Barra** [184417] (7)
 
-		
 		También existe Buefy que es la versión basada en componentes de Bulma para Vue.
 		
 		<https://buefy.github.io>
 
-	* **Edgar Valdez Moises** (3)
+	* **Edgar Valdez Moises** [184417] (3)
 
-		
 		También tenemos <https://vuematerial.io/>
 
-	* **Alan Cornejo** (1)
+	* **Alan Cornejo** [184417] (1)
 
-		
 		Otro template para vuejs <https://coreui.io/pro/vue/>
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [184417] (1)
 
-		
 		Buen aporte.
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [184417] (1)
 
-		
 		cierto es muy util
 
-* **_hackvan** (8)
+* **_hackvan** (8) [639101](https://platzi.com/comentario/639101/) 
 
-	
 	Tuve que solventar 2 problemas al momento de crear el header:
 	
 	1- Instalar pug-plain-loader con:
@@ -36000,37 +33906,32 @@ me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpa
 	    
 	```
 
-	* **Daniel Hita Martínez** (1)
+	* **Daniel Hita Martínez** [639101] (1)
 
-		
 		Gracias!!! Yo también he tenido que hacer eso para solventar los dos errores
 
-* **emanueljtc** (3)
+* **emanueljtc** (3) [608681](https://platzi.com/comentario/608681/) 
 
-	
 	Esto como que merce un curso aparte que puede ser complemento de la carrera de Vue
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [564702](https://platzi.com/comentario/564702/) 
 
-	
 	Algo laborioso, necesito mayor contexto PROFESIONAL acerca de Nuxt.js.  
 	Creo que esto merece un curso aparte.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [564702] (1)
 
-		
 		Si, tambien estoy de acuerdo. Es muy poderoso para lograr aplicaciones increibles. Es realmente excelente la forma en la que se estructura nuxt.
 
-* **DESTRUN** (3)
+* **DESTRUN** (3) [442864](https://platzi.com/comentario/442864/) 
 
-	
 	Para solucionar el error
 	``` 
 	     ERROR  Failed to compile with1 errors               friendly-errors 11:22:25
 	    
 	    This relative module was not found:                   friendly-errors 11:22:25
 	                                                          friendly-errors 11:22:25
-	    * ./default.vue?vue&type=template&id=314f53c6&lang=pug& in ./layouts/default.vue
+	  * ./default.vue?vue&type=template&id=314f53c6&lang=pug& in ./layouts/default.vue
 	    
 	```
 	
@@ -36040,51 +33941,43 @@ me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpa
 	    
 	```
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [442864] (1)
 
-		
 		Mis respectos, querido **jedi**
 
-* **Erik dario Hernandez vasquez** (3)
+* **Erik dario Hernandez vasquez** (3) [411262](https://platzi.com/comentario/411262/) 
 
-	
 	Buenos dias, cuando instalo el paquete de pug pug loader sass-loader node-sass y cambio la vista por la sintaxis de pug me sale el siguiente error:  
 	**Cannot find module ‘./default.vue?vue&type=template&id31453c6&lang=pug&’ **
 
-	* **Angel Alexi Guerra Miketta** (1)
+	* **Angel Alexi Guerra Miketta** [411262] (1)
 
-		
 		la pagina oficial recomienda instalar estas dependencias
 		
 		npm install --save-dev pug@2.0.3 pug-plain-loader node-sass sass-loader
 		
 		<https://nuxtjs.org/faq/pre-processors/>
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [411262] (1)
 
-		
 		Ty
 
-* **Hector Vasquez** (3)
+* **Hector Vasquez** (3) [245607](https://platzi.com/comentario/245607/) 
 
-	
 	El ejemplo no queda muy claro, ya que nuxt se está aplicando a una versión más antigua del proyecto, donde aún no se implementaba vuex
 	
 	Entonces, ¿cómo se implementa el asynData para que funcione con la data de vuex en vez de la data local del componente de la versión antigua?
 
-* **jonathan sanchez** (2)
+* **jonathan sanchez** (2) [920089](https://platzi.com/comentario/920089/) 
 
-	
 	**Nuxt.js ** es un framework para crear aplicaciones web universales (que se ejecutan tanto en el cliente como en el servidor) basado en Vue.js. Está diseñado para agilizar el desarrollo de web apps con necesidad de SSR (por ejemplo, para sites que tienen mucho tráfico orgánico). Nuxt.js se ha concebido teniendo mucho en cuenta la performance en el navegador, con funcionalidades como code splitting o inlining de recursos en el HTML. ¡Hacer un site con Nuxt.js te asegurará una muy buena nota en la auditoría de performance Lighthouse de Chrome!
 
-* **Gustavo J. Arias** (2)
+* **Gustavo J. Arias** (2) [637833](https://platzi.com/comentario/637833/) 
 
-	
 	Esto merece un curso aparte por favor!
 
-* **Lele Lester** (2)
+* **Lele Lester** (2) [507596](https://platzi.com/comentario/507596/) 
 
-	
 	Todo lo que este dentro de la etiqueta `nuxt` se generará de forma dinámica.
 	``` 
 	    <nuxt></nuxt>
@@ -36093,21 +33986,18 @@ me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpa
 	
 	Todo lo que esté fuera actúa como una `master page` o un template fijo.
 
-* **Angel Alexi Guerra Miketta** (2)
+* **Angel Alexi Guerra Miketta** (2) [419098](https://platzi.com/comentario/419098/) 
 
-	
 	¿Por qué cuando instalo el paquete de pug pug loader sass-loader y cambio la vista por la sintaxis de pug me sale el siguiente error?  
 	**Cannot find module ‘./default.vue?vue&type=template&id31453c6&lang=pug&’ **
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (2)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [419098] (2)
 
-		
 		No sé como tienes la importación de los componentes header y footer pero a mi me funcionó cambiando la importación de ‘~components/Header.vue’ a ‘~/components/Header.vue’ e instala los preprocesadores recomendados por nuxt  
 		<https://nuxtjs.org/faq/pre-processors/>
 
-* **MauricioHernanCabrera** (2)
+* **MauricioHernanCabrera** (2) [242851](https://platzi.com/comentario/242851/) 
 
-	
 	Me descargue los archivos de la clase, instale todas las dependencias y al ejecutar el comando npm run dev, me sale este error.  
 	Alguna idea de por que?
 	``` 
@@ -36116,10 +34006,10 @@ me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpa
 	    
 	    These dependencies were not found:
 	    
-	    * ~components/Footer.vue in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./layouts/default.vue
-	    * ~components/Header.vue in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./layouts/default.vue
-	    * ~components/Logo.vue in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./pages/index.vue
-	    * ~plugins/track in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./pages/track/_id.vue
+	  * ~components/Footer.vue in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./layouts/default.vue
+	  * ~components/Header.vue in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./layouts/default.vue
+	  * ~components/Logo.vue in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./pages/index.vue
+	  * ~plugins/track in ./node_modules/babel-loader/lib?{"babelrc":false,"cacheDirectory":true,"presets":[["C://Users//mauriciohernan//Desktop//Hernan//Plataformas educativas//Platzi//En curso//Curso Profesional de Vue.js//Clases//platzi-music-nuxt-master//node_modules//babel-preset-vue-app//dist//index.common.js",{"targets":{"ie":9,"uglify":true}}]]}!./node_modules/vue-loader/lib/selector.js?type=script&index=0!./pages/track/_id.vue
 	    
 	    To install them, you can run: npm install --save ~components/Footer.vue ~components/Header.vue ~components/Logo.vue ~plugins/track
 	    
@@ -36127,57 +34017,48 @@ me da este error al ejecutar npm run dev con nuxt intento instalar el nuxt/webpa
 	    
 	```
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [242851] (1)
 
-		
 		Al parecer te estan faltando los componentes `Footer.vue` y `Logo.vue`.  
 		Quizas falten esos archivos en el zip, podes bajar el codigo completo de [este](https://github.com/platzi/platzi-music-nuxt) repo.
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [242851] (0)
 
-		
 		me sigue apareciendo el mismo error
 
-	* **Hector Vasquez** (6)
+	* **Hector Vasquez** [242851] (6)
 
-		
 		Cambia el ~components/Footer.vue por ~/components/Footer.vue
 		
 		El “/” después de “~”
 		
 		Lo mismo para cada componente importado
 
-	* **MauricioHernanCabrera** (0)
+	* **MauricioHernanCabrera** [242851] (0)
 
-		
 		Gracias esa me funciono
 
-	* **Rubén Maier Enzler** (0)
+	* **Rubén Maier Enzler** [242851] (0)
 
-		
 		Si ese es el problema, @ianaya89, no entiendo como a vos te anda direrectamente “~algo” en ves de “~/algo”…
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [242851] (1)
 
-		
 		Tal vez es una versión antigua en la que funcionaba así. Es parte de la dificultad de aprender librerías/frameworks para javascript, el comportamiento cambia mucho entre versiones.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [57411](https://platzi.com/comentario/564702/) 
 Algo laborioso, necesito mayor contexto PROFESIONAL acerca de Nuxt.js. Creo que esto merece un curso aparte.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [57411] (1)
 
-		
 		Si, tambien estoy de acuerdo. Es muy poderoso para lograr aplicaciones increibles. Es realmente excelente la forma en la que se estructura nuxt.
 
-* **rafagonzalez99** (1)
+* **rafagonzalez99** (1) [918956](https://platzi.com/comentario/918956/) 
 
-	
 	Muy buena clase, una herramienta muy poderosa que deberia estár en un curso aparte
 
-* **David Alberto Mogollón Fernández** (1)
+* **David Alberto Mogollón Fernández** (1) [690632](https://platzi.com/comentario/690632/) 
 
-	
 	Tengo una pregunta,
 	
 	Estoy intentando usar las directivas y filtros que usamos en los ejercicios, Blur y ms-to-mm,  
@@ -36198,9 +34079,8 @@ Algo laborioso, necesito mayor contexto PROFESIONAL acerca de Nuxt.js. Creo que 
 	    
 	```
 
-	* **SOFTDYNAMIC** (1)
+	* **SOFTDYNAMIC** [690632] (1)
 
-		
 		Es correcto, pero hay algunas modificaciones que hice.  
 		En mi caso lo hice fue lo siguiente,  
 		**/nuxt.config.js**
@@ -36261,83 +34141,68 @@ Algo laborioso, necesito mayor contexto PROFESIONAL acerca de Nuxt.js. Creo que 
 		    
 		```
 
-* **Lele Lester** (1)
+* **Lele Lester** (1) [507598](https://platzi.com/comentario/507598/) 
 
-	
 	importar componentes en nuxt
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [493911](https://platzi.com/comentario/493911/) 
 
-	
 	<https://nuxtjs.org>
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [493718](https://platzi.com/comentario/493718/) 
 
-	
 	Ahh caray, se esta implementando a una versión anterior del proyecto.
 
-	* **_hackvan** (1)
+	* **_hackvan** [493718] (1)
 
-		
 		Hasta ahora entiendo lo que quisiste decir en este comentario.
 
-* **Freddy Córdova Arana** (1)
+* **Freddy Córdova Arana** (1) [485664](https://platzi.com/comentario/485664/) 
 
-	
 	Este curso es de los mejores que he llevado en mi vida. I 💚 Platzi.
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [478124](https://platzi.com/comentario/478124/) 
 
-	
 	si necesitara crear una ruta PUT o POST, o si necesitara enviar datos de un formulario para almacenarlos, como debería hacerlo o como debería recibirlos en NUXT?
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [478124] (1)
 
-		
 		yo utilizaria POST para envio de informacion nueva, es decir un nuevo registro o una busqueda.  
 		y con PUT para editar
 
-	* **Brayan Murcia Sanchez** (1)
+	* **Brayan Murcia Sanchez** [478124] (1)
 
-		
 		ok, pero como lo recibiría del lado del server?, como los almacenaría en un slq o en un mongo?
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [478124] (1)
 
-		
 		Eso ya dependería de que uses en el backend, te recomendaría Laravel que puedes integrar Vue en el.  
 		Mandas la info en post y en el back la recibes en el request.
 
-	* **rafagonzalez99** (1)
+	* **rafagonzalez99** [478124] (1)
 
-		
 		Yo usaria axios para hacer las peticiones http, y para recibirlos depende de que lenguaje o framework utilices en el back end. Yo por ejemplo utilizo laravel.
 
-* **Janid Eduardo Ham Delgado** (1)
+* **Janid Eduardo Ham Delgado** (1) [423277](https://platzi.com/comentario/423277/) 
 
-	
 	npm i -D pug pug-loader sass-loader
 
-* **antonioayalaagmailcom** (1)
+* **antonioayalaagmailcom** (1) [332991](https://platzi.com/comentario/332991/) 
 
-	
 	Excelente curso pero tengo una consulta, si alguien me puede ayudar ¿Como puedo saber cuando usar nuxtjs o solo vuejs?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [332991] (1)
 
-		
 		Si necesitas Server Side Render entonces tienes que usar nuxt, de lo contrario solo usas vue.
 
-	* **Eliseo Geraldo González** (3)
+	* **Eliseo Geraldo González** [332991] (3)
 
-		
 		Cuando necesitas que tu sitio web se indexe correctamente en google, usa Nuxt.
 		
 		¿Y cuándo no quiero que eso pase? Gmail, WhatsApp, algún sistema interno de stats dentro de tu empresa… en general WebApps, no todas, por ejemplo, el reproductor de platzi es un WebApp, pero platzi quiere que las respuestas y los títutlos de las clases aparezcan en google, por ello hace un SSR de esta página
 
-* **Daniel Moreno** (1)
+* **Daniel Moreno** (1) [256411](https://platzi.com/comentario/256411/) 
 
-	
 	Necesito ayuda con el asyncData, no se porque razón no me funciona, puse un console.log para ver si entra y nunca entra, ¿alguien sabría darme razón
 	``` 
 	    import axios from 'axios'
@@ -36362,58 +34227,50 @@ Algo laborioso, necesito mayor contexto PROFESIONAL acerca de Nuxt.js. Creo que 
 	    
 	```
 
-	* **Daniel Moreno** (5)
+	* **Daniel Moreno** [256411] (5)
 
-		
 		Ya vi mi error, el asyncData solo funciona en la carpeta pages y no en components
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [256411] (1)
 
-		
 		Si, es tal cual decis. Gracias por el aporte!
 
-* **Hector Vasquez** (1)
+* **Hector Vasquez** (1) [245593](https://platzi.com/comentario/245593/) 
 
-	
 	En atom o sublime text: Presionando "cmd + d" o "ctrl + d" se puede seleccionar múltiples ocurrencias del texto seleccionado, dentro del documento, para poder editarlos todos al mismo tiempo.
 
-* **Fabio Sanchez** (1)
+* **Fabio Sanchez** (1) [198886](https://platzi.com/comentario/198886/) 
 
-	
 	No se si sea por la version de nuxt, pero solo se importaba el header de la siguiente manera. un “/” despues de “~”
 	``` 
 	    import PmHeader from'~/components/Header.vue'
 	    
 	```
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [198886] (1)
 
-		
 		Puede ser que haya cambiado con la version del template ya que estas cosas son configurables a traves de webpack, de hecho me gusta mas que se utilice el `/` (es mas consistente).
 		
 		Gracias por el aporte!
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [50300](https://platzi.com/comentario/478124/) 
 si necesitara crear una ruta PUT o POST, o si necesitara enviar datos de un formulario para almacenarlos, como debería hacerlo o como deb...
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [50300] (1)
 
-		
 		yo utilizaria POST para envio de informacion nueva, es decir un nuevo registro o una busqueda.  
 		y con PUT para editar
 
-* **Angel Alexi Guerra Miketta** (1)
+* **Angel Alexi Guerra Miketta** (1) [45392](https://platzi.com/comentario/419098/) 
 ¿Por qué cuando instalo el paquete de pug pug loader sass-loader y cambio la vista por la sintaxis de pug me sale el siguiente error? **C...
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (2)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [45392] (2)
 
-		
 		No sé como tienes la importación de los componentes header y footer pero a mi me funcionó cambiando la importación de ‘~components/Header.vue’ a ‘~/components/Header.vue’ e instala los preprocesadores recomendados por nuxt  
 		<https://nuxtjs.org/faq/pre-processors/>
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [313192](https://platzi.com/comentario/313192/) 
 
-	
 	cada vez que intento instalar node-sass en windows 10 me sales esto
 	``` 
 	    npm install node-sass
@@ -36424,18 +34281,16 @@ si necesitara crear una ruta PUT o POST, o si necesitara enviar datos de un form
 	    
 	```
 
-	* **Teofilo Rosales Gama** (0)
+	* **Teofilo Rosales Gama** [313192] (0)
 
-		
 		es igual con :
 		``` 
 		    npm i -D node-sass```
 		    
 		```
 
-* **Hector Vasquez** (0)
+* **Hector Vasquez** (0) [246148](https://platzi.com/comentario/246148/) 
 
-	
 	Cómo implemento foundation en nuxt?
 	
 	Intenté instalando foundation-sites y luego en nuxt.config.js:
@@ -36451,9 +34306,8 @@ si necesitara crear una ruta PUT o POST, o si necesitara enviar datos de un form
 	    
 	```
 
-* **Emilio Rafael Hernandez Perez** (0)
+* **Emilio Rafael Hernandez Perez** (0) [199951](https://platzi.com/comentario/199951/) 
 
-	
 	Una ayudita.
 	
 	Cuando levanto mi proyecto, se renderiza con el footer, header y el componente nuxt, pero justo algunos segundos despues se vuelve a renderizar pero sin el header y el footer. Dandome el siguiente error por consola.
@@ -36462,24 +34316,21 @@ si necesitara crear una ruta PUT o POST, o si necesitara enviar datos de un form
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [199951] (2)
 
-		
 		Comparte el código que tienes, básicamente te dice que tienes algo mal en la definición de tu estructura html dentro del componente y por esto da el error.
 
-* **Juan Guzman** (0)
+* **Juan Guzman** (0) [183905](https://platzi.com/comentario/183905/) 
 
-	
 	el asyncdata funciona solo cuando se renderiza desde el servidor?
 
-	* **Nacho Anaya** (4)
+	* **Nacho Anaya** [183905] (4)
 
-		
 		No, tambien funciona cuando se renderiza del lado del cliente. De esta forma te garantizas tener un unico origen de datos mas alla de que lado compilas.
 
-# Deploy a Producción con Now
+# Deploy a Producción con Now [1348]
 
-## 0480. Qué es now
+## 0480. Qué es now [7828](https://platzi.com/clases/1145-vuejs-profesional/7828-que-es-now/)
 
 ### Descripción:
 
@@ -36492,72 +34343,60 @@ si necesitara crear una ruta PUT o POST, o si necesitara enviar datos de un form
 
 ### Comentarios:
 
-* **Rogelio Alberto** (9)
+* **Rogelio Alberto** (9) [182033](https://platzi.com/comentario/182033/) 
 
-	
 	El enlace de now es: <https://zeit.co/now>
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [182033] (1)
 
-		
 		gracias
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [182033] (1)
 
-		
 		gracias buen hombre 😄
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [920143](https://platzi.com/comentario/920143/) 
 
-	
 	enlace de la documentacion actual de now para el deploy de aplicaciones con Nuxt.js  
 	<https://zeit.co/guides/deploying-nuxtjs-with-zeit-now/>
 
-* **lenielluzardo** (1)
+* **lenielluzardo** (1) [914116](https://platzi.com/comentario/914116/) 
 
-	
 	Nuevamente, mi recomendacion para Platzi es que saquen un curso con servidores reales y no a traves de terceros para hacer los deploys de las aplicaciones…😁👍
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [598840](https://platzi.com/comentario/598840/) 
 
-	
 	Now es muy bueno para proyectos como los que se hacen en los cursos
 
-* **newtongrav** (1)
+* **newtongrav** (1) [64781](https://platzi.com/comentario/681813/) 
 Now sería equivalente a lo que proporciona por ejemplo Netlify?
 
-	* **aragonesteban (Platzi)** (2)
+	* **aragonesteban (Platzi)** [64781] (2)
 
-		
 		Hola!  
 		Practicamente si, los dos proveen hosting estaticos para subir nuestras aplicaciones web.
 
-* **Hector Vasquez** (0)
+* **Hector Vasquez** (0) [246151](https://platzi.com/comentario/246151/) 
 
-	
 	Recomendación de comandos de consola para usuarios windows
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [246151] (1)
 
-		
 		gracias
 
-* **Cristofer Fuentes Barra** (0)
+* **Cristofer Fuentes Barra** (0) [189322](https://platzi.com/comentario/189322/) 
 
-	
 	no se que pasara pero no puedo acceder al sitio de now 😦
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [189322] (1)
 
-		
 		Acabo de probar y esta funcionando perfectamente <https://zeit.co/now>
 
-	* **Cristofer Fuentes Barra** (1)
+	* **Cristofer Fuentes Barra** [189322] (1)
 
-		
 		sip al día siguiente pude ingresar…
 
-## 0490. Configuración de now y deploy
+## 0490. Configuración de now y deploy [7829](https://platzi.com/clases/1145-vuejs-profesional/7829-configuracion-de-now-y-deploy/)
 
 ### Descripción:
 
@@ -36568,39 +34407,33 @@ Now sería equivalente a lo que proporciona por ejemplo Netlify?
 
 ### Comentarios:
 
-* **venusarcana** (7)
+* **venusarcana** (7) [183532](https://platzi.com/comentario/183532/) 
 
-	
 	Que otras alternativas tenemos para hacer deploy diferentes a now? te lo pregunto por que yo lo intente en firebase hosting pero no me funciono por que me pide un index.html.  
 	Gracias por la respuesta
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [183532] (5)
 
-		
 		Puedes hacer deploy en cualquier vps que quieras, solo tienes que instalar lo necesario como node, un servidor http como nginx o apache y configurar todo.
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [183532] (3)
 
-		
 		Hola, no conozco el funcionamiento de firebase hosting. El `index.html` existe y en nuestro caso lo estamos utilizando, quizas por alguna razon no lo este buscando en el path correcto.
 		
 		De todos modos, el deploy es realmente muy sencillo y deberia funcionar en cualquier tipo de servicio como por ejemplo heroku, aws o incluso github pages. Lo unico que tenes que asegurarte es de tener instalado `serve` (el servidor web estatico de node), el comando `npm start` definido en el `package.json`, la carpeta `dist` (con todo el contenido generado por el `build`) y el archivo `index.html`
 
-	* **Jose R. Torrens Acosta** (2)
+	* **Jose R. Torrens Acosta** [183532] (2)
 
-		
 		Puedes utilizar Heroku y si ademas usas NUXT hay una guia para configurar el entorno en Heroku y hacer el deploy fácilmente.
 		
 		Si tienes tu proyecto en github puedes agregar en heroku el deploy automático y cada vez que hagas un push en el repo hará deploy automáticamente.
 
-	* **Jose R. Torrens Acosta** (0)
+	* **Jose R. Torrens Acosta** [183532] (0)
 
-		
 		Digital Ocean también es una buena opción
 
-	* **Josh Ospina** (0)
+	* **Josh Ospina** [183532] (0)
 
-		
 		ian lo que tienes que hacer es colocar todo la carpeta dist y el index.html en una nueva carpeta llamada por ejemplo public y realizar configuracion del firebase.json a esa carpeta y ademas le agregas el rewrite que se utiliza cuando en vue router usas mode history.
 		
 		te dejo mi JSON de configuracion
@@ -36621,26 +34454,22 @@ Now sería equivalente a lo que proporciona por ejemplo Netlify?
 		    Cualquier cosa me escribes
 		```
 
-* **gsotelo** (2)
+* **gsotelo** (2) [296111](https://platzi.com/comentario/296111/) 
 
-	
 	Porque no seguiste con el proyecto de nuxt para el deploy con now ?  
 	Fue otro giro muy rapido…  
 	que alternativa puedo revisar para seguir con el de nuxt, pasarlo a producción y montarlo a un hosting ?
 
-* **David Alejandro Abreu Abreu** (1)
+* **David Alejandro Abreu Abreu** (1) [986571](https://platzi.com/comentario/986571/) 
 
-	
 	Seria bueno una clase bonus de como subir tu proyecto a Github pages 🤔
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [920312](https://platzi.com/comentario/920312/) 
 
-	
 	muy facil el deploy con now.
 
-* **taquion** (1)
+* **taquion** (1) [920150](https://platzi.com/comentario/920150/) 
 
-	
 	**Tuve el siguiente error: **
 	``` 
 	    2020-01-13T14:05:36.690Z  Downloading 48 deployment files...
@@ -36708,9 +34537,8 @@ Now sería equivalente a lo que proporciona por ejemplo Netlify?
 	    
 	```
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [761226](https://platzi.com/comentario/761226/) 
 
-	
 	En mi caso me salió un problema:
 	
 	**Error: No output directory named “public” found.**
@@ -36720,39 +34548,32 @@ Now sería equivalente a lo que proporciona por ejemplo Netlify?
 	y bueno …  
 	<https://cmb-music.fyupanquia.now.sh/>
 
-	* **luisalfredonavarroalbarracin** (1)
+	* **luisalfredonavarroalbarracin** [761226] (1)
 
-		
 		Genial, me sirvió mucho tu comentario. [](https://platzi-music.luisnavarro-03.now.sh/) jeje
 
-* **Martin L.** (1)
+* **Martin L.** (1) [677417](https://platzi.com/comentario/677417/) 
 
-	
 	estoy por comenzar un proyecto y tengo 3 ambientes, dev, stg y prod, mi duda es la siguiente, para el ambiente de dev, tengo que hacer un build como se hace a prod?
 
-	* **Emmanuel Rodríguez Ramírez** (1)
+	* **Emmanuel Rodríguez Ramírez** [677417] (1)
 
-		
 		Dependerá del como esta construida tu aplicación. La mayoría de los casos la diferencia entre production y develop, radica en la cantidad de dependencias y, por tanto, el tamaño de tu proyecto.
 
-* **emanueljtc** (1)
+* **emanueljtc** (1) [608900](https://platzi.com/comentario/608900/) 
 
-	
 	genial esto de now.
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [602794](https://platzi.com/comentario/602794/) 
 
-	
 	Que fácil es usar **Now**
 
-* **Ezequiel Mella Leonardelli** (1)
+* **Ezequiel Mella Leonardelli** (1) [530074](https://platzi.com/comentario/530074/) 
 
-	
 	Excelente curso
 
-* **Gustavo J. Arias** (1)
+* **Gustavo J. Arias** (1) [469865](https://platzi.com/comentario/469865/) 
 
-	
 	Hola, mi build funciona correctamente, lo abrí en un editor de texto y tengo lo siguiente:
 	``` 
 	    !function(t){function e(n){if(r[n])return r[n].exports;var a=r[n]={i:n,l:!1,exports:{}};return t[n].call(a.exports,a,a.exports,e),a.l=!0,a.exports}var r={};e.m=t,e.c=r,e.d=function(t,r,n){e.o(t,r)||Object.defineProperty(t,r,{configurable:!1,enumerable:!0,get:n})},e.n=function(t){var r=t&&t.__esModule?function(){return t.default}:function(){return t};returne.d(r,"a",r),r},e.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},e.p="dist/",e(e.s=48)}([function(t,e,r){"use strict";function n(t){r(213)}var a=r(47),i=r(1),s=n,o=i(a.a,null,!1,s,null,null);e.a=o.exports},function(t,e){t.exports=functi...
@@ -36787,47 +34608,39 @@ Now sería equivalente a lo que proporciona por ejemplo Netlify?
 	
 	No pego el código completo porque es demasiaaaado extenso, pero pego las primeras lineas al menos, notese que hay una gran diferencia, que puedo estar haciendo mal, espero sus comentarios, muchas gracias 😄
 
-	* **Nelson Manuel Ordaz Yglesias** (1)
+	* **Nelson Manuel Ordaz Yglesias** [469865] (1)
 
-		
 		Puede, y no estoy seguro, pero, el inspector de Google Chrome tienes que activar la opción de ver el source de forma “bonita” con “Pretty Print” ( {} ) para que veas el formato real.
 		
 		Saludos
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [417705](https://platzi.com/comentario/417705/) 
 
-	
 	Fácil y rápido.
 
-* **Jose Ortega** (1)
+* **Jose Ortega** (1) [342404](https://platzi.com/comentario/342404/) 
 
-	
 	Buenas profesor tengo un problema: al momento de hacer deploy me sale un erro 401 y no conecta con la API, realmente no se porque y siguiente a esa linea sale esta: Uncaught (in promise) Error. Alguien podria ayudarme?, gracias.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [342404] (1)
 
-		
 		Puedes revisar los logs del servidor, y compartir el stack trace completo ya que es imposible saber que esta pasando con tan poca información.
 
-	* **Jose Ortega** (1)
+	* **Jose Ortega** [342404] (1)
 
-		
 		Hola amigo estaba tomando los respectivos captures y sirvio…parece ser que era la API que me daba un error 401…realmente ni idea porque…pero muchas gracias por tu atención…XD.
 
-* **MauricioHernanCabrera** (1)
+* **MauricioHernanCabrera** (1) [244422](https://platzi.com/comentario/244422/) 
 
-	
 	Los invito a ver mi proyecto es un cronometro/temporizador con una funcionalidad extra para hacer un temporizador personalizado para poder agregar mas tiempos  
 	<https://cronometro-temporizadorvue-cejmrnhwfv.now.sh/>
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [244422] (0)
 
-		
 		Muy bueno, gracias por compartir!
 
-* **Wilmer Maldonado** (1)
+* **Wilmer Maldonado** (1) [202209](https://platzi.com/comentario/202209/) 
 
-	
 	Al momento de hacer deploy me sale este warning:
 	``` 
 	    > Warning! Skipping file C:\Cursos\Curso-Profesional-Vue.js-Platzi\platzi-music\dist\build.js.map (size exceeded 1MB)
@@ -36837,74 +34650,63 @@ Now sería equivalente a lo que proporciona por ejemplo Netlify?
 	
 	Despues el deploy no continua y sale error.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [202209] (1)
 
-		
 		El plan gratuito de now permite subir archivos que pesen menos de 1MB, al parecer el `build.js.map` es el que está dando problemas, prueba a borrarlo o simplemente no generarlo e intentas el deploy nuevamente.
 
-	* **David Isaac Flores Medrano** (0)
+	* **David Isaac Flores Medrano** [202209] (0)
 
-		
 		Funciona para el ejercicio de hacer el deploy… pero veo que la app esta muy lenta… no se si en verdad es necesario el build.js.map… que exactamente hace?
 
-	* **Yefferson Guarnizo** (0)
+	* **Yefferson Guarnizo** [202209] (0)
 
-		
 		me pasaba lo mismo, pero elimine el build.js.map, y ya subio…
 
-* **Gustavo J. Arias** (1)
+* **Gustavo J. Arias** (1) [49615](https://platzi.com/comentario/469865/) 
 Hola, mi build funciona correctamente, lo abrí en un editor de texto y tengo lo siguiente: !function(t){function e(n){if(r[n])retur...
 
-	* **Nelson Manuel Ordaz Yglesias** (1)
+	* **Nelson Manuel Ordaz Yglesias** [49615] (1)
 
-		
 		Puede, y no estoy seguro, pero, el inspector de Google Chrome tienes que activar la opción de ver el source de forma “bonita” con “Pretty Print” ( {} ) para que veas el formato real.
 		
 		Saludos
 
-* **Jose Ortega** (1)
+* **Jose Ortega** (1) [38264](https://platzi.com/comentario/342404/) 
 Buenas profesor tengo un problema: al momento de hacer deploy me sale un erro 401 y no conecta con la API, realmente no se porque y sigui...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [38264] (1)
 
-		
 		Puedes revisar los logs del servidor, y compartir el stack trace completo ya que es imposible saber que esta pasando con tan poca información.
 
-* **Teofilo Rosales Gama** (0)
+* **Teofilo Rosales Gama** (0) [313689](https://platzi.com/comentario/313689/) 
 
-	
 	no subi la carpeta dist/ y mi proyecto va de maravilla(JUNIO 2018 Peru al mundia!!!1) :  
 	<https://y-iaaqphjhle.now.sh/>
 
-* **David E  Lares S** (0)
+* **David E  Lares S** (0) [296307](https://platzi.com/comentario/296307/) 
 
-	
 	El plan que tengo con Now es el OSS, me deja subir unicamente 1 MB por cada deploy de los 3 disponibles que ofrece el plan, solo con la carpeta dist el proyecto pesa 1.9 MB.
 	
 	El error de Now-Cli, es lógicamente el siguiente: `An unexpected error occurred in deploy: Error: File size limit exceeded (1 MB)`
 	
 	¿Realmente es necesario subir a Now el directorio dist?
 
-	* **David E  Lares S** (0)
+	* **David E  Lares S** [296307] (0)
 
-		
 		No había leído los comentarios anteriores, problema solucionado.
 
-* **viciotec** (0)
+* **viciotec** (0) [286422](https://platzi.com/comentario/286422/) 
 
-	
 	ME SALE ESTE ERROR QUE HAGO
 	
 	Cannot GET /
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [286422] (1)
 
-		
 		Revisa que tus rutas estén bien configuradas e intenta hacer petición a otro end point.
 
-* **viciotec** (0)
+* **viciotec** (0) [285224](https://platzi.com/comentario/285224/) 
 
-	
 	AYUDA SOLO SE QUEDA AQUI
 	``` 
 	    <code>04/1201:17 PM (2m)
@@ -36920,39 +34722,32 @@ Buenas profesor tengo un problema: al momento de hacer deploy me sale un erro 40
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [285224] (1)
 
-		
 		Es en local o en el servidor de now?
 
-	* **viciotec** (1)
+	* **viciotec** [285224] (1)
 
-		
 		En un servidor now, solo marca error y se quede ahi
 
-* **Emilio Rafael Hernandez Perez** (0)
+* **Emilio Rafael Hernandez Perez** (0) [199952](https://platzi.com/comentario/199952/) 
 
-	
 	A ver si alguien le ha pasado este problema, al ejecutar el comando now, funciona hasta el momento de hacer el build en donde me da un erro y se para la ejecución, podria ser porque tengo el plan gratuito de now?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [199952] (1)
 
-		
 		Puedes compartir el error, now en el plan free tiene deploys ilimitados, y tienes limites en los logs que guarda pero no más, creo que el problema puede ser algo en tu código o en las dependencias.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [199952] (1)
 
-		
 		Te recomiendo que veas el curso de deploy con now <https://platzi.com/cursos/deploy-now/>
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [199952] (0)
 
-		
 		Mas que un error de now me suena que puede ser un error en el proceso de build de Vue, si hay algun minimo error de linteo, sintaxis o lo que sea, el proceso se va a interrumpir. Si podes compartinos el stack completo con el error para poder darte una ayuda mas precisa.
 
-	* **Emilio Rafael Hernandez Perez** (0)
+	* **Emilio Rafael Hernandez Perez** [199952] (0)
 
-		
 		copio el stack completo del error
 		``` 
 		    PS C:\Users\erhpg\Desktop\Platzi\vuejs\platzi-music> now
@@ -37005,111 +34800,93 @@ Buenas profesor tengo un problema: al momento de hacer deploy me sale un erro 40
 		    
 		```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [199952] (1)
 
-		
 		Tienes el stage-2 de babel en tus dependencias en el package.json?
 
-* **fersot7** (0)
+* **fersot7** (0) [197481](https://platzi.com/comentario/197481/) 
 
-	
 	Es necesario la instalación de **serve** para que se efectué el despliegue ?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [197481] (0)
 
-		
 		Hola, es necesario porque es una aplicacion full client, no tenemos ningun backend. Con `serve` iniciamos un servidor web para servir nuestra aplicacion. Si no es `serve` puede ser otro modulo que haga lo mismo, incluso podrias hacer tu propio web server usando node y/o express.
 
-* **Leandro Casco** (0)
+* **Leandro Casco** (0) [190451](https://platzi.com/comentario/190451/) 
 
-	
 	Buenos días, cual es la mejor manera de hacer un deploy en **Heroku**?  
 	Lo que hice fue crearme un script .deploy, para deployar solo la carpeta /dist que genero despues de buildear. Esto funciona pero si quiero acceder a una subruta, por ejemplo “[miapp.herokuapp.com/algo](http://miapp.herokuapp.com/algo)”, falla y me dice que la ruta no existe, esto no sucede si ingreso a esa url navegando por la pagina.  
 	Entiendo que, al ser una single page app, el codigo generado no esta contemplando esas rutas que genere en vue. Pero como puedo solucionarlo?
 
-	* **Leandro Casco** (1)
+	* **Leandro Casco** [190451] (1)
 
-		
 		Buenas, encontre la “solución” en la documentación de vue-router.
 		
 		Según la misma lo que hay que hacer es utilizar [este paquete](https://github.com/bripkens/connect-history-api-fallback). Que funciona como un middleware que redirecciona todos los request a tu pagina hacia el _index.html_.
 		
 		No me termina de convencer la solución pero no encontré otra forma de hacerlo. Alguna sugerencia?
 
-	* **Leandro Casco** (0)
+	* **Leandro Casco** [190451] (0)
 
-		
 		Acá el link a la documentación donde encontré esto: <https://router.vuejs.org/en/essentials/history-mode.html>
 
-* **Rodrigo Burgos S.** (0)
+* **Rodrigo Burgos S.** (0) [183612](https://platzi.com/comentario/183612/) 
 
-	
 	Hola! No entendí muy bien que es Now y porqué se requiere, porqué no funciona simplemente en el localhost 😦
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [183612] (2)
 
-		
 		Now es un servicio para hacer deploy en la nube, puedes dejarlo en localhost, se enseña now por lo sencillo y fácil de integrar con código javascript.
 
-	* **Rodrigo Burgos S.** (0)
+	* **Rodrigo Burgos S.** [183612] (0)
 
-		
 		Genial. Otra consulta, yo tengo un host y subí el proyecto luego de hacer el build, pero no se renderiza nada, porqué puede ser ?
 
-	* **Nacho Anaya** (2)
+	* **Nacho Anaya** [183612] (2)
 
-		
 		Que tipo de host estas usando? Tene en cuenta que es un sitio estatico pero necesitas algun servidor web dentro de tu host: apache, node, IIS, o lo que sea. Si queres comparti un screen shot de la consola del navegador para checar si hay algun error.
 
-# Conclusiones					
+# Conclusiones					 [1349]
 
-## 0500. Cierre del curso
+## 0500. Cierre del curso [7830](https://platzi.com/clases/1145-vuejs-profesional/7830-cierre-del-curso5814/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Marcos Matamala** (11)
+* **Marcos Matamala** (11) [183094](https://platzi.com/comentario/183094/) 
 
-	
 	Gracias, esta bueno el curso.
 
-	* **Nacho Anaya** (6)
+	* **Nacho Anaya** [183094] (6)
 
-		
 		Gracias, pronto subiremos nuevo contenido bonus.
 
-* **Rafael Torres** (3)
+* **Rafael Torres** (3) [461790](https://platzi.com/comentario/461790/) 
 
-	
 	Muchas . gracias . fue . Vue-nisimo, me encanto esta libreria, Vue saco lo mejor de React y Angular y lo llevo a otro level.
 	
 	Gracias!!
 
-	* **emanueljtc** (1)
+	* **emanueljtc** [461790] (1)
 
-		
 		tienes razon.
 
-* **Franklin Roldán** (3)
+* **Franklin Roldán** (3) [183743](https://platzi.com/comentario/183743/) 
 
-	
 	EXCELENTE! MUCHAS GRACIAS
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [183743] (0)
 
-		
 		Muchas gracias!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [183743] (1)
 
-		
 		Que bien que disfrutaste este curso! no olvides presentar el examen =)
 
-* **Ricardo Medina** (2)
+* **Ricardo Medina** (2) [259796](https://platzi.com/comentario/259796/) 
 
-	
 	Saludos a todos! quiero compartir el proyecto personal que hice como metodo de practica luego de ver el cusro de vue basico y profesional, el objetivo es que sigamos aprendiendo de la mejor manera que es poniendo en practica lo que vemos en las clases.
 	
 	pueden hacer le fork al proyecto proponer aportes si lo desean.
@@ -37120,182 +34897,148 @@ Buenas profesor tengo un problema: al momento de hacer deploy me sale un erro 40
 	Url del repo  
 	<https://github.com/rcrdmedina/vueMusic>
 
-* **MauricioHernanCabrera** (2)
+* **MauricioHernanCabrera** (2) [242873](https://platzi.com/comentario/242873/) 
 
-	
 	Muchas gracias ianaya, ¡Excelente el curso!
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [242873] (1)
 
-		
 		Muchas gracias, espero que te sirva para tu desarrollo profesional!
 
-* **Jesus Sandrea** (2)
+* **Jesus Sandrea** (2) [214020](https://platzi.com/comentario/214020/) 
 
-	
 	Uno de los mejores cursos que he visto! 😄
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [214020] (1)
 
-		
 		Muchas gracias Jesus, me alegra que lo hayas disfrutado. 😃
 
-* **CARLOS DAVID MARCIGLIA GOMEZ** (2)
+* **CARLOS DAVID MARCIGLIA GOMEZ** (2) [189995](https://platzi.com/comentario/189995/) 
 
-	
 	Termino este curso con una visión mas amplia de VueJs, cada día el camino del FrontEnd me agrada mas, sin dejar a un lado un poco de BackEnd Básico.
 	
 	Gracias @ianaya89 eres un buen tutor, felicidades.
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (1)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [189995] (1)
 
-		
 		Muchas gracias por tu aporte, y que gusto que lo hayas disfrutado y hayas aprendido mucho 😃
 
-	* **Yesica Lizeth Cortés Pineda (Platzi)** (1)
+	* **Yesica Lizeth Cortés Pineda (Platzi)** [189995] (1)
 
-		
 		No olvides presentar el examen!!
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [189995] (0)
 
-		
 		Muchas gracias Carlos, me alegra que te haya gustado.  
 		Cualquier consulta estamos para ayudarte!
 
-* **david.quintanilla** (2)
+* **david.quintanilla** (2) [185262](https://platzi.com/comentario/185262/) 
 
-	
 	He aprendido mucho en este curso y estoy muy feliz porque con la apuesta de google por Angular 2, sabia que tenia que cambiar mi stack y la verdad React no terminaba de convencerme todas mis apuestas estaban en VueJs y genial por que gracias a este curso se que no me he equivocado. gracias por compartirnos tus conocimientos @ianaya89 eres un crack.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [185262] (0)
 
-		
 		Muchas gracias David, que bueno que lo hayas disfrutado y que te haya servido. Espero ver pronto alguno de tus proyectos hecho con Vue.js!
 
-* **David Alejandro Abreu Abreu** (1)
+* **David Alejandro Abreu Abreu** (1) [986583](https://platzi.com/comentario/986583/) 
 
-	
 	Pienso que seria interesante que crearan talleres, donde enseñen a construir aplicaciones mezclando dos cursos, por ejemplo, DjangoREST y Vue.js 🤯
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [920316](https://platzi.com/comentario/920316/) 
 
-	
 	excelente curso para aprender VUE.JS de forma mas profesional.
 
-* **Sherehezade Candiales** (1)
+* **Sherehezade Candiales** (1) [850255](https://platzi.com/comentario/850255/) 
 
-	
 	Excelente curso!!
 
-* **Angel Santillan Brambila** (1)
+* **Angel Santillan Brambila** (1) [787479](https://platzi.com/comentario/787479/) 
 
-	
 	saludos tengo el mismo error de el comentario de abajo  
 	Error: No output directory named “public” found.
 
-* **carllewisc** (1)
+* **carllewisc** (1) [676549](https://platzi.com/comentario/676549/) 
 
-	
 	Saludos tengo este error.
 	
 	Error: No output directory named “public” found.
 
-	* **Angel Santillan Brambila** (1)
+	* **Angel Santillan Brambila** [676549] (1)
 
-		
 		tengo el mismo error espero hayas encontrado una respuesta  
 		Estare buscandola tambien
 
-* **Sergio Cortez** (1)
+* **Sergio Cortez** (1) [627662](https://platzi.com/comentario/627662/) 
 
-	
 	Muchas gracias
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [598841](https://platzi.com/comentario/598841/) 
 
-	
 	Estuvo muy bueno el curso
 
-* **lcastillov123** (1)
+* **lcastillov123** (1) [589508](https://platzi.com/comentario/589508/) 
 
-	
 	Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que conecta con una base de datos en MySQL mediante una API rest, el problema es que debe ser en tiempo real, desearía saber si es posible implementarla mediante websockets. Gracias.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [589508] (1)
 
-		
 		Claro que si, puedes darle una mirada a [vue-socket.io](https://www.npmjs.com/package/vue-socket.io) y a [socket.io-client](https://www.npmjs.com/package/socket.io-client)
 
-* **jgorocica** (1)
+* **jgorocica** (1) [570289](https://platzi.com/comentario/570289/) 
 
-	
 	Me encantó el curso, y VueJS es un framework excelente. Muchas gracias @ianaya
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (1) [559954](https://platzi.com/comentario/559954/) 
 
-	
 	Ufff, qué buen curso!  
 	Gracias por el excelente contenido @ianaya89 y Platzi!
 
-* **Ezequiel Mella Leonardelli** (1)
+* **Ezequiel Mella Leonardelli** (1) [530113](https://platzi.com/comentario/530113/) 
 
-	
 	Muy buen curso, ojala puedan hacer cursos cortos sobre la forma correcta de implementarlo con un backend, seal laravel u otro
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [494958](https://platzi.com/comentario/494958/) 
 
-	
 	Excelente curso ;D
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [478149](https://platzi.com/comentario/478149/) 
 
-	
 	Gracias, un curso e instructor excelente!
 
-* **Camilo Castillo** (1)
+* **Camilo Castillo** (1) [436328](https://platzi.com/comentario/436328/) 
 
-	
 	Excelente curso Gracias!!!
 
-* **Iván Mauricio Toro Cifuentes** (1)
+* **Iván Mauricio Toro Cifuentes** (1) [417707](https://platzi.com/comentario/417707/) 
 
-	
 	Gracias por este curso tan genial Nacho.
 
-* **Angel Camacho** (1)
+* **Angel Camacho** (1) [383148](https://platzi.com/comentario/383148/) 
 
-	
 	Excelente curso, me sirvió de mucho y ya pude hacer una aplicación bastante compleja con Vue. Muchas gracias @ianaya89
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [370445](https://platzi.com/comentario/370445/) 
 
-	
 	Excelente curso creare mi portafolio con Vue.js! Dejaría link aquí cuando lo termine
 
-* **Byhako** (1)
+* **Byhako** (1) [352969](https://platzi.com/comentario/352969/) 
 
-	
 	Un curso excelente. Seria genial tener ahora uno de nuxt, asi como el de next.
 
-* **der__leguan** (1)
+* **der__leguan** (1) [346440](https://platzi.com/comentario/346440/) 
 
-	
 	hola tengo dudas de como montar vue en un servidor de producion no, conprendi como se realizo en el curso, en el caso de tener alguna vps, si esta es window cambia al deploy en una maquina linux, cuales son las dependencias nesesarias por el lado del servidor pararealizar deploy.
 
-* **der__leguan** (1)
+* **der__leguan** (1) [342773](https://platzi.com/comentario/342773/) 
 
-	
 	Hola muchas gracias por el curso muy bueno, ahora me queda una dudas como se puede hacer que vue viva con django, sin la nesesidad de usar api rest o peticiones ajax asicronas, hay alguna manera de que estas dos tecnologías consistan juntas o son total mente dependiente de api y ajax
 
-	* **der__leguan** (1)
+	* **der__leguan** [342773] (1)
 
-		
 		pensando a no levantar dos servidores uno para vue y otro para django
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [342773] (1)
 
-		
 		Es posible hacerlo, primero tienes que usar el tag verbatin de django para que el motor de templates de Django no intente interpretar los tags de vue ya que son iguales, luego de eso pasas los valores o información que necesitas que llegue al componente dentro del contexto de la vista de django y estos valores los recibes en el template y los guardas en el window algo como
 		``` 
 		    <script>
@@ -37306,80 +35049,66 @@ Buenas profesor tengo un problema: al momento de hacer deploy me sale un erro 40
 		
 		Eso permite que puedas leer username desde Vue.
 
-* **Fabio Sanchez** (1)
+* **Fabio Sanchez** (1) [198901](https://platzi.com/comentario/198901/) 
 
-	
 	Muchas gracias por el curso, aprendi bastante y le encontre sentido a esta tecnologia.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [198901] (0)
 
-		
 		Muchas gracias a vos, ojala te sirva para tu desarrollo profesional!
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [198901] (0)
 
-		
 		Gracias Sauware lo hacemos con mucho gusto y es genial saber que te gustó tanto!
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [198901] (0)
 
-		
 		ah! y no olvidses presentar tu examen!
 
-	* **Fabio Sanchez** (0)
+	* **Fabio Sanchez** [198901] (0)
 
-		
 		Ya lo aprobe, gracias.
 
-* **Roberto Ocando Morales** (1)
+* **Roberto Ocando Morales** (1) [198020](https://platzi.com/comentario/198020/) 
 
-	
 	Nacho excelente curso
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [198020] (0)
 
-		
 		Muchas gracias Roberto, cualquier duda no dejes de escribirnos!
 
-* **asolorzano** (1)
+* **asolorzano** (1) [196409](https://platzi.com/comentario/196409/) 
 
-	
 	Excelente curso!
 	
 	Gracias @ianaya89 por tus enseñanzas, me hubiera encantado como parte bonus tener un poco de realtime, pero por lo demás un excelente curso.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [196409] (0)
 
-		
 		Muchas gracias Abraham! Voy a considerar lo que decis para armar un contenido bonus.
 
-* **victorAguilera** (1)
+* **victorAguilera** (1) [190656](https://platzi.com/comentario/190656/) 
 
-	
 	Listo a trabajar en ese modulo de Front-End bien actualizado! Muy buen profesor y muy buen contenido
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [190656] (0)
 
-		
 		Muchas gracias Victor, espero que te sirva para tu desarrollo profesional.  
 		Ante cualquier duda no dejes de contactarnos.
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [190656] (0)
 
-		
 		Victor! no olvides presentar el examen =)!
 
-* **lcastillov123** (1)
+* **lcastillov123** (1) [59286](https://platzi.com/comentario/589508/) 
 Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que conecta con una base de datos en MySQL mediante una API r...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [59286] (1)
 
-		
 		Claro que si, puedes darle una mirada a [vue-socket.io](https://www.npmjs.com/package/vue-socket.io) y a [socket.io-client](https://www.npmjs.com/package/socket.io-client)
 
-* **Carlos Enrique Gonzalez Peña** (0)
+* **Carlos Enrique Gonzalez Peña** (0) [311437](https://platzi.com/comentario/311437/) 
 
-	
 	Nacho!  
 	Tu curso fue excelente, de verdad que me cayo como anillo al dedo ya que quería hacer algo en vue y bulma y yo no hice el platzimusic pero hice la app que quería hacer para la empresa mientras seguía tu curso.  
 	Fue un curso super completo y Vue me enamoro mas que incluso React  
@@ -37388,75 +35117,63 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 	
 	Saludos y espero verte pronto como profesor en algún otro curso!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [311437] (1)
 
-		
 		¡Què otro curso te gustarìa tomar con Nacho!?
 
-	* **Carlos Enrique Gonzalez Peña** (2)
+	* **Carlos Enrique Gonzalez Peña** [311437] (2)
 
-		
 		Hola ricardocelis  
 		Que tal un Full Stack Vue PWA con Nuxt y Node???  
 		Creando sus servicios Rest y autentificando, utilizando alguna DB como postgres o sqlite, inclusive llegar a usar GraphQL, eso es algo que me encantaría ver con Nacho.  
 		Algún nuevo Tema como una Mini red Social, tal ves algún estilo enfocado a imágenes y/o música, etc.  
 		Si necesitan mas ideas dejame pensar e investigar y te sigo poniendo ideas aquí 😄 pero que regrese Nacho, fue un excelente profesor
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [311437] (1)
 
-		
 		excelente, lo tomaremos en cuenta para los siguientes cursos con Nacho!
 
-* **marianotella** (0)
+* **marianotella** (0) [275466](https://platzi.com/comentario/275466/) 
 
-	
 	Muy bueno el curso! La verdad Nacho un groso.  
 	Espero pronto empezar a tener proyectos para poder usar Vue.
 	
 	Gracias!!
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [275466] (0)
 
-		
 		Muchas gracias, me alegra que te haya gustado. Esperemos poder ver esos proyectos pronto!
 
-* **Yefferson Guarnizo** (0)
+* **Yefferson Guarnizo** (0) [272809](https://platzi.com/comentario/272809/) 
 
-	
 	Excelente curso 😄
 	
 	por aquí el desarrollo del ejercicio: <https://izomusic-ygkvtqhffg.now.sh>
 
-* **Roberto Santana** (0)
+* **Roberto Santana** (0) [240995](https://platzi.com/comentario/240995/) 
 
-	
 	Muy buen curso. Gracias @ianaya89
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [240995] (0)
 
-		
 		Gracias Roberto, espero que te sirva para seguir aprendiendo!
 
-* **Pedro Escobar** (0)
+* **Pedro Escobar** (0) [238255](https://platzi.com/comentario/238255/) 
 
-	
 	Una maravilla este curso, excelente profesor, muchas gracias  
 	aquí dejo una buena [documentación](https://vuejs-tips.github.io/cheatsheet/) sobre Vue.
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [238255] (0)
 
-		
 		Gracias por el mensaje!  
 		Que bueno que te gusto, compartinos pronto algun proyecto que hagas con Vue y muy bueno el aporte!
 
-* **Guillermo  Ferru** (0)
+* **Guillermo  Ferru** (0) [208583](https://platzi.com/comentario/208583/) 
 
-	
 	Buenas, estoy empezando un proyecto con vue, quisiera saber como agregar otras librerias js, como jquery, bootstrap, moment, etc… gracias
 
-	* **alesanabriav** (1)
+	* **alesanabriav** [208583] (1)
 
-		
 		Depende tu proyecto pero puedes agregarlos via script en tus htmls o con webpack o browserify con imports.
 		
 		**Ejemplo:**
@@ -37476,72 +35193,61 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 		    
 		```
 
-	* **Guillermo  Ferru** (0)
+	* **Guillermo  Ferru** [208583] (0)
 
-		
 		Hola Ale, muchas gracias… cual recomendas? es un proyecto vue con webpack-simple
 
-	* **Guillermo  Ferru** (0)
+	* **Guillermo  Ferru** [208583] (0)
 
-		
 		Gracias, ya logre que funcione, el tema ahora es que lo necesito global para la aplicación y no se como configurarlo
 
-# Bonus
+# Bonus [1350]
 
-## 0510. Internacionalización con vue-i18n
+## 0510. Internacionalización con vue-i18n [7832](https://platzi.com/clases/1145-vuejs-profesional/7832-internacionalizacion-con-vue-i18n/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **wjcg42** (8)
+* **wjcg42** (8) [267570](https://platzi.com/comentario/267570/) 
 
-	
 	SUPER UTIL ESTE RECURSO! Tremendo curso de verdad, muy completo.
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [267570] (3)
 
-		
 		Graciasss 😃💪
 
-* **axel_vc** (3)
+* **axel_vc** (3) [427452](https://platzi.com/comentario/427452/) 
 
-	
 	Una duda ¿Cuando es mas recomendable usar i18n que recibir el html traducido por backend?
 	
 	Yo supongo que cuando es un proyecto pequeño es mas facil usar i18n pero no se si estoy en lo correcto, tampoco tengo muchos conocimientos de backend aun asi que no se que tan facil es por ese lado el traducir una web.
 	
 	Gracias
 
-* **carllewisc** (2)
+* **carllewisc** (2) [746223](https://platzi.com/comentario/746223/) 
 
-	
 	Alguien tiene los iconos de las banderas?
 
-* **Jhon Alexander Perez Valencia** (2)
+* **Jhon Alexander Perez Valencia** (2) [598842](https://platzi.com/comentario/598842/) 
 
-	
 	<https://kazupon.github.io/vue-i18n/installation.html>
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [564808](https://platzi.com/comentario/564808/) 
 
-	
 	No se, pero este profe hace ver lo difícil de manera sencillita.
 
-* **Luis Donaldo Lopez Gil** (2)
+* **Luis Donaldo Lopez Gil** (2) [497004](https://platzi.com/comentario/497004/) 
 
-	
 	<https://kazupon.github.io/vue-i18n/installation.html>
 
-* **edwarxdced** (2)
+* **edwarxdced** (2) [441691](https://platzi.com/comentario/441691/) 
 
-	
 	Muy buena y simple, te una pregunta ¿Como haría para saber que lenguaje esta seleccionado?
 
-	* **edwarxdced** (1)
+	* **edwarxdced** [441691] (1)
 
-		
 		Yo mismo me responde jejejeje
 		
 		con la siguiente linea de código lo sabremos
@@ -37550,14 +35256,12 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 		    
 		```
 
-* **WILMER ARLEY CAMPAÑA DIAZ** (2)
+* **WILMER ARLEY CAMPAÑA DIAZ** (2) [311266](https://platzi.com/comentario/311266/) 
 
-	
 	Hola, como puedo usar el i18n para hacer una traducción dentro de un placeholder de in input?
 
-	* **WILMER ARLEY CAMPAÑA DIAZ** (2)
+	* **WILMER ARLEY CAMPAÑA DIAZ** [311266] (2)
 
-		
 		Hola por si alguien le sucede los mismo, lo arregle de la siguiente forma:
 		``` 
 		    <code>
@@ -37567,68 +35271,56 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 		
 		Cambia la sintaxis
 
-	* **Iván Mauricio Toro Cifuentes** (1)
+	* **Iván Mauricio Toro Cifuentes** [311266] (1)
 
-		
 		Gracias por el dato.
 
-* **jonathan sanchez** (1)
+* **jonathan sanchez** (1) [920346](https://platzi.com/comentario/920346/) 
 
-	
 	super facil seguir las normas i18n, y poder manejar multiples idiomas en la aplicacion.
 
-* **Alan Dega** (1)
+* **Alan Dega** (1) [734121](https://platzi.com/comentario/734121/) 
 
-	
 	estuvo Genial el curso!
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [494973](https://platzi.com/comentario/494973/) 
 
-	
 	Genial librearía, gracias 😃
 
-* **brapastor** (1)
+* **brapastor** (1) [242079](https://platzi.com/comentario/242079/) 
 
-	
 	geniall 😃
 
-* **Wilmer Maldonado** (0)
+* **Wilmer Maldonado** (0) [266261](https://platzi.com/comentario/266261/) 
 
-	
 	Esta clase se actualizo al github?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [266261] (1)
 
-		
 		En el repositorio debe estar todo el código, no encuentras alguna parte?
 
-	* **Wilmer Maldonado** (0)
+	* **Wilmer Maldonado** [266261] (0)
 
-		
 		Hola no, volvi a revisar y no sale en la rama principal y tampoco en las ultimas
 
-* **Daniee** (0)
+* **Daniee** (0) [261847](https://platzi.com/comentario/261847/) 
 
-	
 	Tengo una pequeña pregunta…
 	
 	Utilizo un array de objetos para listar una serie de elementos dentro de v-for, como podría también tener esos textos para poder traducirlos con i18n ? Ya que serían p.title, [p.name](http://p.name), etc… dentro de un v-for. Ya no se podría aplicar el concepto de {{ $t(‘item’) }}
 	
 	Gracias !!
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [261847] (2)
 
-		
 		En ese caso es mejor que el backend te envié los textos en el idioma correcta para que tu los uses, si no estas usando un backend entonces puedes hacer un objeto que tenga dentro el array con los mensajes en los dos idiomas.
 
-	* **Daniee** (0)
+	* **Daniee** [261847] (0)
 
-		
 		Por ahora mis conocimientos de backend son muy básicos así que sí, supongo que haré algo así… estuve buscando en la documentación y no encontré nada, muchas gracias por contestar tan rápido Diego !
 
-* **Daniee** (0)
+* **Daniee** (0) [250105](https://platzi.com/comentario/250105/) 
 
-	
 	Hola ignacio ! Cuando inico la aplicación me aparecen en vez de los textos solo las keys y este mensaje en la consola
 	``` 
 	    [vue-i18n] Cannot translate the valueof keypath 'search'. Use the valueof keypath asdefault.
@@ -37637,14 +35329,12 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 	
 	Una vez que le doy al link para cambiar la traducción funciona sin ningún problema, es sólo un pequeño issue que quiero arreglar gracias !
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [250105] (1)
 
-		
 		Por alguna razon no esta leyendo los valores iniciales de las keys. Podrias compartir el codigo para poder revisarlo?
 
-	* **Daniee** (0)
+	* **Daniee** [250105] (0)
 
-		
 		Aquí estan los router-links del Header.vue
 		``` 
 		    li
@@ -37702,49 +35392,42 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 		    
 		```
 
-	* **Daniee** (1)
+	* **Daniee** [250105] (1)
 
-		
 		Ok creo haber encontrado el error…una letra ! en el segundo código cuando creo la constante i18n, tengo definido **local** en vez de **locale** , que es el parámetro que cambia cuando llamo al método en el Header.vue.
 		
 		Muchas gracias de todas formas Nacho !
 
-* **fersot7** (0)
+* **fersot7** (0) [197499](https://platzi.com/comentario/197499/) 
 
-	
 	Interesante la librería…
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [197499] (3)
 
-		
 		Si, y muy simple de usar!
 
-	* **Sebastian  Rojas Parra** (0)
+	* **Sebastian  Rojas Parra** [197499] (0)
 
-		
 		Muy buena la libreria.
 
-## 0520. Unit Test Karma - Mocha &amp; Webpack
+## 0520. Unit Test Karma - Mocha &amp; Webpack [7833](https://platzi.com/clases/1145-vuejs-profesional/7833-unit-test-karma-mocha-amp-webpack/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jhon Alexander Perez Valencia** (3)
+* **Jhon Alexander Perez Valencia** (3) [598843](https://platzi.com/comentario/598843/) 
 
-	
 	las unittest son super importantes. es bueno que agregaran esta clase.
 
-* **Juan Guzman** (3)
+* **Juan Guzman** (3) [182223](https://platzi.com/comentario/182223/) 
 
-	
 	ignacio te hago una consulta, como puedo testear un componente de manera unitaria o e2e, donde el mismo hace una llamada a una api? el tema esta en la llamada a la api, eso como se suele manejar, se hace un fake o algo por el estilo?  
 	muchas gracias!
 
-	* **Nacho Anaya** (3)
+	* **Nacho Anaya** [182223] (3)
 
-		
 		Hola, lo que te recomiendo es hacer un mock (una simulacion de funcionalidad) de la llamada a la API. Yo suelo utilizar una lbreria llamada [Sinon.js](http://sinonjs.org/) que te permite resolver ese tipo de cosas. Te recomiendo que revises el metodo `stub` de esa libreria.
 		
 		Por otro lado analiza bien si necesitas testear el componente o simplemente testear el servicio que contenga la llamada a la API. En ese caso el testeo seria mas sencillo. Te dejo un ejemplo que tiene un caso de uso para testear un metodo de un servicio:
@@ -37771,60 +35454,49 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 		    
 		```
 
-	* **Juan Guzman** (0)
+	* **Juan Guzman** [182223] (0)
 
-		
 		Muchas gracias! lo voy a probar
 
-	* **José Rodríguez** (0)
+	* **José Rodríguez** [182223] (0)
 
-		
 		En el curso de Nodejs Avanzado se ve más a profundidad el uso de Sinon.
 
-* **Kelly Jesus Salazar Sanchez** (1)
+* **Kelly Jesus Salazar Sanchez** (1) [629522](https://platzi.com/comentario/629522/) 
 
-	
 	Muy importante esta parte del curso nunca e podido realizar aplicaciones tanto en backend como en frontend con Unitest
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [564837](https://platzi.com/comentario/564837/) 
 
-	
 	Esto de las pruebas unitarias es nuevo para mi, necesito ponerme pilas, no solo es desarrollar, sino estar seguro de que todo el código funciona.  
 	Hay curso de test unitarios en Platzi?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [564837] (1)
 
-		
 		Hola, si tenemos un curso con Jasmine <https://platzi.com/clases/pruebas-unitarias/>
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [499490](https://platzi.com/comentario/499490/) 
 
-	
 	<https://vue-test-utils.vuejs.org/>
 
-* **Cristian Giagante** (1)
+* **Cristian Giagante** (1) [454289](https://platzi.com/comentario/454289/) 
 
-	
 	impresionante el curso profesional de vuejs
 
-* **David E  Lares S** (1)
+* **David E  Lares S** (1) [296390](https://platzi.com/comentario/296390/) 
 
-	
 	¿los assertions que mencionan aquí, hará referencia directamente a experiencias en TDD? Si vamos al cabo de comparar un valor esperado con un valor real, entonces creo que sí. Si alguien pudiera aclararlo, lo agradecería.
 
-* **david.quintanilla** (1)
+* **david.quintanilla** (1) [204473](https://platzi.com/comentario/204473/) 
 
-	
 	Hola Ignacio, tengo una duda, estoy intentando hacer test unitarios en mis componentes, me estoy apoyando del template de webpack que por defecto trae configurado karma y mocha, la cuestión es que yo en mis componentes uso vuex y no encuentro documentación de como testear componentes complejos.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [204473] (1)
 
-		
 		Tal vez te pueda servir este (ingles) <http://christophegraniczny.com/testing-my-vuex-store>
 
-	* **david.quintanilla** (0)
+	* **david.quintanilla** [204473] (0)
 
-		
 		muchas gracias, este post que aportas es para testearlo de forma individual lo cual me parece que es lo correcto, en mi caso al testear un componente que esta usando un getter por ejemplo en una computed property me da un error como el siguiente
 		
 		computed: {  
@@ -37835,175 +35507,146 @@ Muy buen curso, tengo una duda, estoy trabajando en una aplicación en VueJS que
 		
 		VM1126 context.js:243 [Vue warn]: Error in render: “TypeError: Cannot read property ‘getters’ of undefined”
 
-	* **david.quintanilla** (4)
+	* **david.quintanilla** [204473] (4)
 
-		
 		después de varios dias investigando he encontrado una librería oficial del mismo vuejs para testear la estoy probando con vuex, modulos y componentes y esta muy bien, se encuentra en fase beta pero no he tenido ningún problema de echo las personas están migrando hacía ella.
 		
 		<https://vue-test-utils.vuejs.org/en/>
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57422](https://platzi.com/comentario/564837/) 
 Esto de las pruebas unitarias es nuevo para mi, necesito ponerme pilas, no solo es desarrollar, sino estar seguro de que todo el código f...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57422] (1)
 
-		
 		Hola, si tenemos un curso con Jasmine <https://platzi.com/clases/pruebas-unitarias/>
 
-* **Carlos Godoy** (0)
+* **Carlos Godoy** (0) [232706](https://platzi.com/comentario/232706/) 
 
-	
 	Saludos Ignacio, consulta he estado haciendo mis test y dentro de un componente utilizo una directiva , esta le he hecho un stub con sinon, pero no se interpreta bien al correr el test , tendrías alguna guia del manejo de dependencias de directivas cuando se usan en Vue.use  
 	Gracias
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [232706] (1)
 
-		
 		Hola, te recomiendo que te fijes en la[ guia ocifial de test](https://vue-test-utils.vuejs.org/en/). Hay una seccion que habla de mock, imagino que ahi vas a poder encontrar lo que necesitas y buenos practicas para aplicar.  
 		Saludos!
 
-## 0530. Implementación de Autenticación de Usuarios en Vue usando JWT
+## 0530. Implementación de Autenticación de Usuarios en Vue usando JWT [9018](https://platzi.com/clases/1145-vuejs-profesional/9018-implementacion-de-autenticacion-de-usuarios-en-vue/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Agustin Clemente** (33)
+* **Agustin Clemente** (33) [340334](https://platzi.com/comentario/340334/) 
 
-	
 	Curso de JWT con Vue a detalle, quien vota por ello?
 
-	* **Erick Perez** (1)
+	* **Erick Perez** [340334] (1)
 
-		
 		Me gustaría, que hiciera un curso con JWT y también incluir auth con github.
 
-* **Jenny Katherine Aguilera Morales** (8)
+* **Jenny Katherine Aguilera Morales** (8) [416927](https://platzi.com/comentario/416927/) 
 
-	
 	Acá el repositorio: <https://github.com/ianaya89/demo-auth-jwt-vue>
 
-	* **Iván Mauricio Toro Cifuentes** (2)
+	* **Iván Mauricio Toro Cifuentes** [416927] (2)
 
-		
 		Gracias. 😄
 
-* **Daniel Farnos** (3)
+* **Daniel Farnos** (3) [216378](https://platzi.com/comentario/216378/) 
 
-	
 	Esta muy bueno esto, ahora probare con passport la autentificacion con facebook, ¿tienes el codigo del lado del server?
 
-	* **Nacho Anaya** (7)
+	* **Nacho Anaya** [216378] (7)
 
-		
 		Hola, [aca](https://github.com/ianaya89/demo-auth-jwt-api) te dejo el codigo pero tene en cuenta que es simplemente una demo con data mockeda. Saludos
 
-	* **Daniel Farnos** (0)
+	* **Daniel Farnos** [216378] (0)
 
-		
 		Muchas Gracias!!!
 
-* **Ezequiel Mella Leonardelli** (2)
+* **Ezequiel Mella Leonardelli** (2) [530072](https://platzi.com/comentario/530072/) 
 
-	
 	Excelente curso Nacho sos un muy buen profe, ademas aprendi muchisimo sobre JS y buenas practicas
 
-* **monjaraz** (2)
+* **monjaraz** (2) [65977](https://platzi.com/comentario/701072/) 
 si manejando tokens ya no se manejan sesiones del lado del servidor , de que manera puedo evitar que mas de 1 usuario pueda estar logeado...
 
-* **Luis Rogelio Reyes Hernández** (1)
+* **Luis Rogelio Reyes Hernández** (1) [1016076](https://platzi.com/comentario/1016076/) 
 
-	
 	[Link de la API de node](https://github.com/ianaya89/demo-auth-jwt-api)
 	
 	[Link de la app con vue](https://github.com/ianaya89/demo-auth-jwt-vue)
 
-* **David Alejandro Abreu Abreu** (1)
+* **David Alejandro Abreu Abreu** (1) [987686](https://platzi.com/comentario/987686/) 
 
-	
 	Lo que debió haber sido una clase bonus! Nacho lo escribió en un articulo: <https://medium.com/@ianaya89/crea-tu-sitio-web-con-github-pages-y-nuxt-js-6a90fd0a0dc4>
 
-* **Mauricio Duque** (1)
+* **Mauricio Duque** (1) [832908](https://platzi.com/comentario/832908/) 
 
-	
 	Gracias Jenny
 
-* **Mauricio Duque** (1)
+* **Mauricio Duque** (1) [832907](https://platzi.com/comentario/832907/) 
 
-	
 	Alguien sabe el repo de este ejemplo?  
 	Mil gracias
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [832907] (2)
 
-		
 		Aquí va [demo-auth-jwt-vue](https://github.com/ianaya89/demo-auth-jwt-vue) 😄
 
-* **ing-moreno** (1)
+* **ing-moreno** (1) [777486](https://platzi.com/comentario/777486/) 
 
-	
 	Excelente curso, muchas gracias Ignacio por compartirlos. Un Saludo
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [564844](https://platzi.com/comentario/564844/) 
 
-	
 	Esto lo manejé hace unos años con MEAN, pero me interesaría aplicarlo con Laravel y Vue, o hacerlo con PHP vanilla y Vue.
 
-	* **Jaime Rafael Norato Corredor** (1)
+	* **Jaime Rafael Norato Corredor** [564844] (1)
 
-		
 		De pronto te pueda ser mas útil [laravel passport](https://laravel.com/docs/5.8/passport), que esta hecho para una integración mas fácil con laravel y tiene una mayor facilidad de implementación.  
 		te dejo esta guia del paso a paso para la implementación de passport en laravel, por si te puede interesar.  
 		<https://medium.com/modulr/create-api-authentication-with-passport-of-laravel-5-6-1dc2d400a7f>
 
-	* **Ronald Alexander Palacios Garrido** (1)
+	* **Ronald Alexander Palacios Garrido** [564844] (1)
 
-		
 		<https://anexsoft.com/implementacion-de-json-web-token-con-php>
 
-* **DiegoTinitana** (1)
+* **DiegoTinitana** (1) [493143](https://platzi.com/comentario/493143/) 
 
-	
 	Si me pueden ayudar con el link del proyecto de api ??
 
-* **alanlapierre** (1)
+* **alanlapierre** (1) [465383](https://platzi.com/comentario/465383/) 
 
-	
 	AYUDA !! Estoy usando el modelo del curso como base para un proyecto laboral, lógicamente también uso TRAE para hacer las llamadas al CORE…tengo una llamda (POST) con la cual hago login en el API REST…esa llamada usa BASIC AUTH…la misma llamada en POSTMAN funciona OK, en cambio en TRAE no…no hay cookies de por medio ni ningún otro header que se agregue…Tienen idea porque falla ??? Yo no se si TRAE me deja hacer un POST con un body vacio…tal vez el error venga por ahí…
 
-	* **Carlos Enrique Gonzalez Peña** (1)
+	* **Carlos Enrique Gonzalez Peña** [465383] (1)
 
-		
 		tal ves necesitas mandar el header de 'Content-Type: application/json’  
 		Si no cámbiate a axios, tiene mucha documentación en internet y por default funciona
 
-* **Raul Novelo** (1)
+* **Raul Novelo** (1) [344144](https://platzi.com/comentario/344144/) 
 
-	
 	En un proyecto me surgio la necesidad de realizar un refresh token ya que cuando del lado del servidor solo verifico si el token existe, es valido y no ha expirado sino entonces lo retorno a login eso lo hace en cada API, como podria refrescar ese token automaticamente y mantener la seguridad en la aplicacion. que cosas debo tomar en cuenta.
 
-	* **Cristian Giagante** (1)
+	* **Cristian Giagante** [344144] (1)
 
-		
 		el protocolo oauth2 define la implementacion de un metodo para hacer refresh de token por medio de un token especial para refrescar el token original.
 
-	* **Cristian Giagante** (1)
+	* **Cristian Giagante** [344144] (1)
 
-		
 		<https://oauth.net/2/grant-types/refresh-token/>
 
-* **flickyiyo** (1)
+* **flickyiyo** (1) [274564](https://platzi.com/comentario/274564/) 
 
-	
 	Yo personalmente uso un plugin llamado vuex-persistedstate para poder acceder a esa informacion como si fuera el state. Aunque hay que tener cuidado si no se quiere que todo el estado de la aplicacion entre en localstorage,
 
-* **Michael Rodriguez** (1)
+* **Michael Rodriguez** (1) [61526](https://platzi.com/comentario/623283/) 
 Muchas gracias por el curso, esta muy bueno… pero tengo varias cosas sin entender; teniendo en cuenta que estamos implementando **vue **c...
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [61526] (1)
 
-		
 		En realidad el código debería ir así:
 		
 		main.js
@@ -38037,63 +35680,54 @@ Muchas gracias por el curso, esta muy bueno… pero tengo varias cosas sin enten
 		    
 		```
 
-* **Alex Garcia Miranda** (1)
+* **Alex Garcia Miranda** (1) [60517](https://platzi.com/comentario/606757/) 
 Muchas gracias, el curso me ayudo mucho, algo que no encontré en el curso es lo siguiente: La posibilidad de renderizar datos automáticam...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [60517] (1)
 
-		
 		Para lograr lo que comentas, se necesitaría de un conjunto de artefactos. Inicialmente tu base de datos debería tener la capacidad de notificar los cambios y de que haya alguien escuchando esos cambios para luego por medio de un trigger renderizar de nuevo la vista.  
 		por ejemplo [RethinkdDB](https://www.rethinkdb.com/) te ofrece la posibilidad de notificar los cambios en los datos.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [57423](https://platzi.com/comentario/564844/) 
 Esto lo manejé hace unos años con MEAN, pero me interesaría aplicarlo con Laravel y Vue, o hacerlo con PHP vanilla y Vue.
 
-	* **Jaime Rafael Norato Corredor** (1)
+	* **Jaime Rafael Norato Corredor** [57423] (1)
 
-		
 		De pronto te pueda ser mas útil [laravel passport](https://laravel.com/docs/5.8/passport), que esta hecho para una integración mas fácil con laravel y tiene una mayor facilidad de implementación.  
 		te dejo esta guia del paso a paso para la implementación de passport en laravel, por si te puede interesar.  
 		<https://medium.com/modulr/create-api-authentication-with-passport-of-laravel-5-6-1dc2d400a7f>
 
-* **Raul Novelo** (1)
+* **Raul Novelo** (1) [38443](https://platzi.com/comentario/344144/) 
 En un proyecto me surgio la necesidad de realizar un refresh token ya que cuando del lado del servidor solo verifico si el token existe, ...
 
-	* **Cristian Giagante** (1)
+	* **Cristian Giagante** [38443] (1)
 
-		
 		el protocolo oauth2 define la implementacion de un metodo para hacer refresh de token por medio de un token especial para refrescar el token original.
 
-* **Alex Garcia Miranda** (0)
+* **Alex Garcia Miranda** (0) [605800](https://platzi.com/comentario/605800/) 
 
-	
 	Muchas gracias, el curso me ayudo mucho, algo que no encontré en el curso es lo siguiente:  
 	La posibilidad de renderizar datos automáticamente que se actualizan en la base de datos mientras estoy desplegando los mismos en una vista.
 	
 	Muchas gracias por la ayuda!
 
-	* **Víctor Julián González Estrada** (1)
+	* **Víctor Julián González Estrada** [605800] (1)
 
-		
 		ME parece si lo vimos con vuex, a que te refieres, Vue trata justamente de reactividad.
 
-* **viciotec** (0)
+* **viciotec** (0) [281224](https://platzi.com/comentario/281224/) 
 
-	
 	como puedo quitar el /# del path??
 
-	* **Nacho Anaya** (1)
+	* **Nacho Anaya** [281224] (1)
 
-		
 		Usando el history mode de HTML5, aca esta la doc: <https://router.vuejs.org/en/essentials/history-mode.html>
 
-* **Wilmer Maldonado** (0)
+* **Wilmer Maldonado** (0) [266850](https://platzi.com/comentario/266850/) 
 
-	
 	En para este ejemplo los que configuramos en el before tambien se envia en la ruta auth?
 
-	* **Nacho Anaya** (0)
+	* **Nacho Anaya** [266850] (0)
 
-		
 		No deberia enviarse ya que el token no existe. En el codigo ponemos un un `if` para que cuando no hay token no lo inserte. De todos modos podrias chequear la URL de la ruta y en caso que sea `/auth` no hacer nada. Esto es un ejemplo basico, puede hacerse mas flexible y customizado como quieras.
 

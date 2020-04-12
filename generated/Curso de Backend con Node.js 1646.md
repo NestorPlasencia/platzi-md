@@ -1,6 +1,8 @@
-# Tu primera experiencia con Node.js
+[Curso de Backend con Node.js 1646](https://platzi.com/cursos/backend-nodejs)
 
-## 0010. Introducción y bienvenida
+# Tu primera experiencia con Node.js [4411]
+
+## 0010. Introducción y bienvenida [22012](https://platzi.com/clases/1646-backend-nodejs/22012-introduccion-y-bienvenida/)
 
 ### Descripción:
 
@@ -9,11 +11,11 @@
 
 Requisitos antes de iniciar:
 
-  * Node y NPM
-  * Editor de texto ya sea vsCode, Atom o Sublime Text
-  * Navegador Chrome o Firefox
-  * Extensión JSON viewer
-  * Postman
+* Node y NPM
+* Editor de texto ya sea vsCode, Atom o Sublime Text
+* Navegador Chrome o Firefox
+* Extensión JSON viewer
+* Postman
 
 
 
@@ -33,64 +35,53 @@ Requisitos antes de iniciar:
 
 ### Comentarios:
 
-* **Felipe Acosta** (3)
+* **Felipe Acosta** (3) [721041](https://platzi.com/comentario/721041/) 
 
-	
 	Yo tomeee la foto de medellin CSS jaajajajaja !
 
-	* **glrodasz** (1)
+	* **glrodasz** [721041] (1)
 
-		
 		Gracias por la buena foto!
 
-* **Erik Alexander Estrada Otondo** (2)
+* **Erik Alexander Estrada Otondo** (2) [723599](https://platzi.com/comentario/723599/) 
 
-	
 	Alguien sabe que proyectos se pueden hacer con Node.js y si conoce links donde se puedan ver esos proyectos, como en github o en la web?
 
-	* **glrodasz** (3)
+	* **glrodasz** [723599] (3)
 
-		
 		Se puede hacer cualquier tipo de proyecto como por ejemplo un CMS: <https://strapi.io>.
 		
 		Hay un lista de proyectos aca: <https://github.com/sqreen/awesome-nodejs-projects>
 
-* **Brando Rodríguez** (2)
+* **Brando Rodríguez** (2) [701807](https://platzi.com/comentario/701807/) 
 Javascript 💛 El primero y entusiasmado!!
 
-	* **glrodasz** (1)
+	* **glrodasz** [701807] (1)
 
-		
 		Espero que hayas podido terminar. Cualquier feedback es bienvenido!
 
-* **Pablo Puente** (2)
+* **Pablo Puente** (2) [701258](https://platzi.com/comentario/701258/) 
 
-	
 	lo estaba esperando! yeah!!
 
-	* **glrodasz** (1)
+	* **glrodasz** [701258] (1)
 
-		
 		Espero que hayas podido terminalos, cualquier feedback es bienvenido.
 
-* **Jose Rodriguez Luis** (2)
+* **Jose Rodriguez Luis** (2) [701061](https://platzi.com/comentario/701061/) 
 
-	
 	super motivado por este curso
 
-	* **glrodasz** (1)
+	* **glrodasz** [701061] (1)
 
-		
 		Espero que te haya gustado, cualquier feedback es bievenido!
 
-* **ferroblesh** (2)
+* **ferroblesh** (2) [700613](https://platzi.com/comentario/700613/) 
 
-	
 	¿Cuales son los requisitos previos para este curso?
 
-	* **ignacio ele** (2)
+	* **ignacio ele** [700613] (2)
 
-		
 		Lo dice al final del vídeo 😆  
 		-Conocer los fundamentos de js  
 		-Nodejs  
@@ -98,53 +89,45 @@ Javascript 💛 El primero y entusiasmado!!
 		-Navegador(chrome, firefox)  
 		-Plugins de chrome para ver JSON en la web y Postman para las peticiones
 
-	* **ferroblesh** (2)
+	* **ferroblesh** [700613] (2)
 
-		
 		Gracias
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080085](https://platzi.com/comentario/1080085/) 
 
-	
 	vamos a ver que tal el curso y el profe!
 
-* **karl-behrens-gil** (1)
+* **karl-behrens-gil** (1) [1052586](https://platzi.com/comentario/1052586/) 
 
-	
 	Con todo a Node!
 
-* **diego-miranda-vazquez** (1)
+* **diego-miranda-vazquez** (1) [977292](https://platzi.com/comentario/977292/) 
 
-	
 	Nodeeee
 
-* **Cristobal Peña** (1)
+* **Cristobal Peña** (1) [913838](https://platzi.com/comentario/913838/) 
 
-	
 	Qué curso se hace primero? Este de backend o el que se llama “Curso de Fundamentos de Node.js”?. El nombre me indica que debería ser el de fundamentos, sin embargo la ruta de aprendizaje de la carrera sugiere lo contrario. Ojalá alguien me lo pudiera aclarar. Gracias.
 
-	* **CaroB (Platzi)** (2)
+	* **CaroB (Platzi)** [913838] (2)
 
-		
 		Hola Cristobal, primero el de Fundamentos y después el de Backend con Node.
 
-* **Iair Poloniecki** (1)
+* **Iair Poloniecki** (1) [838487](https://platzi.com/comentario/838487/) 
 
-	
 	Si para ustedes el backend y Node son un “agujero negro” como para mí, les recomiendo que primero hagan [este curso de Node](https://platzi.com/clases/backend-js/) que empieza desde más básico que este.  
 	😃
 
-* **luis-carlos-zabala** (1)
+* **luis-carlos-zabala** (1) [68165](https://platzi.com/comentario/735787/) 
 Hola a todos, A nivel de conocimientos ¿que diferencia hay entre este curso y todos los demás de NodeJs? Incluso, creo que esta semana se...
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [68165] (4)
 
-		
 		Es un curso intermedio que forma parte de la **Escuela de Javascript** , una serie de cursos en los que se va trabajando un mismo proyecto desde las bases hasta un resultado profesional.
 		
 		Pueder conocer más, [aquí](https://platzi.com/blog/escuela-javascript-fullstack/).
 
-## 0020. ¿Qué es Node.js
+## 0020. ¿Qué es Node.js [22590](https://platzi.com/clases/1646-backend-nodejs/22590-que-es-nodejs/)
 
 ### Descripción:
 
@@ -165,9 +148,8 @@ Node.js es un entorno de ejecución para JavaScript construido con el motor Java
 
 ### Comentarios:
 
-* **heysoypaez** (22)
+* **heysoypaez** (22) [705921](https://platzi.com/comentario/705921/) 
 
-	
 	 _Hagamos como hacía Socrates: preguntar y preguntar_
 	
 	**¿Qué es node.js ?**  
@@ -181,201 +163,172 @@ Node.js es un entorno de ejecución para JavaScript construido con el motor Java
 	
 	Usar javascript para el servidor.
 
-	* **karl-behrens-gil** (1)
+	* **karl-behrens-gil** [705921] (1)
 
-		
 		Muy buen resumen, muchas gracias!
 
-* **Jorge Velasquez** (3)
+* **Jorge Velasquez** (3) [1023645](https://platzi.com/comentario/1023645/) 
 
-	
 	 **En conclusión**  
 	Node js: es el resultado de tomar el motor de JavaScript Chrome V8 para crear un entorno de ejecución y así ejecutar JavaScript del lado del Servidor. 👨‍💻
 
-* **Jesús Antonio Chacón Rodriguez** (2)
+* **Jesús Antonio Chacón Rodriguez** (2) [915904](https://platzi.com/comentario/915904/) 
 
-	
 	muy buena la animacion!
 
-* **oscar-leon846** (2)
-![nodejs.png](https://static.platzi.com/media/user_upload/nodejs-0b96c842-708f-4bba-8709-136281bb1e54.jpg)
+* **oscar-leon846** (2) [880444](https://platzi.com/comentario/880444/) 
+	
+	![nodejs.png](https://static.platzi.com/media/user_upload/nodejs-0b96c842-708f-4bba-8709-136281bb1e54.jpg)
 
-	* **Pablo Domínguez Durán** (2)
+	* **Pablo Domínguez Durán** [880444] (2)
 
-		
 		Notas del Cornell!
 		
 		Qué app usas?
 
-	* **gsusmab** (1)
+	* **gsusmab** [880444] (1)
 
-		
 		Notion
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [818134](https://platzi.com/comentario/818134/) 
 
-	
 	Este articulo sobre V8 esta muy bueno: [https://medium.com/reactbrasil/como-o-javascript-funciona-dentro-da-engine-v8-5-dicas-sobre-como-escrever-código-otimizado-e05af6088fd5](https://medium.com/reactbrasil/como-o-javascript-funciona-dentro-da-engine-v8-5-dicas-sobre-como-escrever-c%C3%B3digo-otimizado-e05af6088fd5)
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [818077](https://platzi.com/comentario/818077/) 
 
-	
 	Chrome V8 es un motor de código abierto para JavaScript creado por Google, siendo su programador jefe Lars Bak.4​
 	
 	Está escrito en C++ y es usado en Chromium, Google Chrome y en Microsoft Edge a partir del 2019.5​6​ También está integrado en el navegador de internet del sistema operativo Android 2.2 “Froyo”
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080101](https://platzi.com/comentario/1080101/) 
 
-	
 	jeje esta cool el video!
 
-* **sergio-medina93** (1)
+* **sergio-medina93** (1) [876733](https://platzi.com/comentario/876733/) 
 
-	
 	Súper la animación.
 
-* **FizIrvin** (1)
+* **FizIrvin** (1) [826731](https://platzi.com/comentario/826731/) 
 
-	
 	buena animación de la maquinita
 
-* **Iraida Mercedes Barreto Díaz** (1)
+* **Iraida Mercedes Barreto Díaz** (1) [70931](https://platzi.com/comentario/785642/) 
 Hola ¿Alguien conoce una buena librearía para trabajar con workers de descargas (como Redis) en Node.js? Gracias 😃
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [70931] (4)
 
-		
 		Si buscas una alternativa a **Redis** puedes probar [memcached](https://www.npmjs.com/package/memcached), en cuanto a “Workers de descargas” no sé si te refieres multi-hilos, para eso en Node puedes usar cosas como [worker threads](https://nodejs.org/api/worker_threads.html) o [cluster](https://nodejs.org/api/cluster.html).
 
-## 0030. ¿Qué es Node.js y para qué sirve
+## 0030. ¿Qué es Node.js y para qué sirve [22013](https://platzi.com/clases/1646-backend-nodejs/22013-que-es-nodejs-y-para-que-sirve/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **jasanhdz** (55)
+* **jasanhdz** (55) [762743](https://platzi.com/comentario/762743/) 
 
-	
 	Les dejo mis notas que me apoyaron en el aprendizaje del curso 😄  
 	<https://github.com/JasanHdz/backendnodejs/tree/master/notes>  
 	pd: no se rindan, éxito 💪
 
-	* **glrodasz** (2)
+	* **glrodasz** [762743] (2)
 
-		
 		Wow! Estas notas estan increibles! Gracias por el aporte!
 
-	* **romerodiesan** (3)
+	* **romerodiesan** [762743] (3)
 
-		
 		No te conozco pero ya te amo.
 
-	* **Arlex Felipe Llanos Betancourt** (1)
+	* **Arlex Felipe Llanos Betancourt** [762743] (1)
 
-		
 		Grandes apuntes, geniales ! (y)
 
-	* **predator0077** (1)
+	* **predator0077** [762743] (1)
 
-		
 		Wooow Muchas Gracias compañero, se agradece ese tipo de aportes. Éxitos para ti también en todo.
 
-	* **Jaime Gonzalez** (1)
+	* **Jaime Gonzalez** [762743] (1)
 
-		
 		muy bueno. Gracias por el aporte!
 
-	* **David Valecillo** (1)
+	* **David Valecillo** [762743] (1)
 
-		
 		excelente aporte. Gracias
 
-	* **Karel Muñiz Perdomo** (1)
+	* **Karel Muñiz Perdomo** [762743] (1)
 
-		
 		Te invito a una cerveza man.
 
-	* **karl-behrens-gil** (1)
+	* **karl-behrens-gil** [762743] (1)
 
-		
 		Tremendo aporte!! Muchas gracias por tu dedicación y colaboración.
 
-	* **Tomás Mercado** (1)
+	* **Tomás Mercado** [762743] (1)
 
-		
 		Muchísimas gracias!!!
 
-	* **leovalero** (1)
+	* **leovalero** [762743] (1)
 
-		
 		Muchas gracias!!! Me has ayudado un montón.
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [762743] (1)
 
-		
 		Gracias por el aporte!
 
-* **Sebastian Cardoso Castillo** (6)
+* **Sebastian Cardoso Castillo** (6) [745031](https://platzi.com/comentario/745031/) 
 
-	
 	 **Dato curioso:** el mismo creador de Node, Ryan Dahl creó hace poco **Deno** (Node al revéz). El mismo esta creado con Rust y Typescript.
 
-	* **edwintrumpet** (2)
+	* **edwintrumpet** [745031] (2)
 
-		
 		Sí, se supone que va a ser el reemplazo de Nodejs ya que desde que fue creado Nodejs javaScript ha tenido muchos cambios que requieren hacer un cambio grande para sacarle el mayor provecho al lenguaje.
 
-	* **glrodasz** (5)
+	* **glrodasz** [745031] (5)
 
-		
 		Gracias por el dato. La realidad es que siempre se estarán creando nuevos lenguajes y frameworks. Mi recomendación es tener mucho cuidado con el hype de estos, porque el exito de ellos dependen de la aceptación en la comunidad y el respaldo que tenga detras del mismo.
 
-* **mrcMesen** (4)
+* **mrcMesen** (4) [725379](https://platzi.com/comentario/725379/) 
 
-	
 	Me gustó la clase, facil de entender y sin mucho rodeo.
 
-* **Hebert de León** (2)
+* **Hebert de León** (2) [730164](https://platzi.com/comentario/730164/) 
 
-	
 	¡¡Qué emoción!!
 
-	* **glrodasz** (1)
+	* **glrodasz** [730164] (1)
 
-		
 		Espero que hayas podido terminar el curso. Cualquier feedback es bienvenido!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080121](https://platzi.com/comentario/1080121/) 
 
-	
 	wooo eso de que node se compila esta muy chingon!!
 
-## 0040. Diferencias entre Node.js y JavaScript
+## 0040. Diferencias entre Node.js y JavaScript [22014](https://platzi.com/clases/1646-backend-nodejs/22014-diferencias-entre-nodejs-y-javascript/)
 
 ### Descripción:
 
 
 En JavaScript del lado del cliente tenemos el DOM y el CSSDOM así como el objeto window para manipular los elementos de nuestra página además una serie de APIs, aquí unos ejemplos:
 
-  * fetch
-  * SessionStorage y LocalStorage
-  * canvas
-  * bluetooth
-  * audio
-  * web authentication
+* fetch
+* SessionStorage y LocalStorage
+* canvas
+* bluetooth
+* audio
+* web authentication
 
 
 
 Mientras que en Node.js no tenemos un DOM ni un objeto windows, lo que sí tenemos son una serie de módulos que nos permiten interactuar con los recursos de la máquina como el sistema operativo y el sistema de archivos, por ejemplo:
 
-  * os
-  * fs
-  * http
-  * util
-  * debugger
-  * stream
-  * events
+* os
+* fs
+* http
+* util
+* debugger
+* stream
+* events
 
 
 
@@ -387,69 +340,64 @@ Mientras que en Node.js no tenemos un DOM ni un objeto windows, lo que sí tenem
 
 ### Comentarios:
 
-* **heysoypaez** (21)
+* **heysoypaez** (21) [705940](https://platzi.com/comentario/705940/) 
 
-	
 	#Diferencias entre javascript y node.js
 	
 	**En javascript**
 	
-	  * En javascript tenemos el DOM. La interfaz web.
-	  * En javascript tambien tenemos el CSSOM
-	  * Tambien el fetch API
-	  * Toda la capa del web storage
-	  * Tambien el canvas API
-	  * Las APIs en general del navegador
+	* En javascript tenemos el DOM. La interfaz web.
+	* En javascript tambien tenemos el CSSOM
+	* Tambien el fetch API
+	* Toda la capa del web storage
+	* Tambien el canvas API
+	* Las APIs en general del navegador
 	
 	
 	
 	**En Node.js**
 	
-	  * Node tiene el modulo de HTTP para crear servidores
-	  * El modulo del sistema operativo para comunicarse con el SO
-	  * El modulo utiliddes
-	  * El modulo debugger
+	* Node tiene el modulo de HTTP para crear servidores
+	* El modulo del sistema operativo para comunicarse con el SO
+	* El modulo utiliddes
+	* El modulo debugger
 	
 	
 	
 	**En común**
 	
-	  * Librerias comunes streams
-	  * Eventos
-	  * Ecmascript modules
-	  * Consola
+	* Librerias comunes streams
+	* Eventos
+	* Ecmascript modules
+	* Consola
 	
 	
 
-	* **Samuel Pilay Muñoz** (1)
+	* **Samuel Pilay Muñoz** [705940] (1)
 
-		
 		por favor corregir **El modulo utiliddes**
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [705940] (1)
 
-		
 		Gracias!
 
-* **oscar-leon846** (9)
-![diferenciasJS-Nodejs.png](https://static.platzi.com/media/user_upload/diferenciasJS-Nodejs-2c5e4928-c144-495b-9378-88c95996f0e0.jpg)
+* **oscar-leon846** (9) [880482](https://platzi.com/comentario/880482/) 
+	
+	![diferenciasJS-Nodejs.png](https://static.platzi.com/media/user_upload/diferenciasJS-Nodejs-2c5e4928-c144-495b-9378-88c95996f0e0.jpg)
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [880482] (1)
 
-		
 		Excelente aporte, solo que se pixelea un poco
 
-* **citux** (2)
+* **citux** (2) [702971](https://platzi.com/comentario/702971/) 
 
-	
 	😃 el primero por aca !!
 
-* **Diego Andres Cabrera Rojas** (1)
+* **Diego Andres Cabrera Rojas** (1) [1102693](https://platzi.com/comentario/1102693/) 
 
-	
 	Entonces se podría decir que Javascript se maneja a través de Api’s y Node,js se maneja a traves de módulos ?
 
-## 0050. Resumen Diferencias Nodejs y Javascript
+## 0050. Resumen Diferencias Nodejs y Javascript [22671](https://platzi.com/clases/1646-backend-nodejs/22671-resumen-diferencias-nodejs-y-javascript/)
 
 ### Descripción:
 
@@ -459,103 +407,84 @@ Ahora que ya sabes qué es Node.js y su diferencia con Javascript, te compartimo
 
 ### Comentarios:
 
-* **Camilo Andrés Santana Lizcano** (4)
+* **Camilo Andrés Santana Lizcano** (4) [786954](https://platzi.com/comentario/786954/) 
 
-	
 	Al fin voy a dejar creer que el backend es pura magia negra 😄  
 	Muy emocionado de completar este curso e iniciar mi camino ninja como fullstack
 
-* **leonardo-albino** (4)
+* **leonardo-albino** (4) [722344](https://platzi.com/comentario/722344/) 
 
-	
 	Gracias por el gráfico, me gustaron los iconos
 
-* **daniel-zurita** (3)
+* **daniel-zurita** (3) [990052](https://platzi.com/comentario/990052/) 
 
-	
 	Muy genial su infografía , estoy emocionado por aprender esto para completar mi stack MEAN y MERN.
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [990052] (1)
 
-		
 		Por algo amo está plataforma. Saben hacer buenas ilustraciones con la info correcta.
 
-* **wilantury** (2)
+* **wilantury** (2) [783734](https://platzi.com/comentario/783734/) 
 
-	
 	con muchas espectativas, let´s do it.
 
-* **franciscohreyes** (2)
+* **franciscohreyes** (2) [775699](https://platzi.com/comentario/775699/) 
 
-	
 	genial!!
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [1089620](https://platzi.com/comentario/1089620/) 
 
-	
 	excelente
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080139](https://platzi.com/comentario/1080139/) 
 
-	
 	Muy bien su forma de explicar!
 
-* **karl-behrens-gil** (1)
+* **karl-behrens-gil** (1) [1052632](https://platzi.com/comentario/1052632/) 
 
-	
 	genial!
 
-* **jecarmona** (1)
+* **jecarmona** (1) [984426](https://platzi.com/comentario/984426/) 
 
-	
 	excelente !
 
-* **jeansanchezr** (1)
+* **jeansanchezr** (1) [966969](https://platzi.com/comentario/966969/) 
 
-	
 	Muy buena infografia, emocionado por aprender mas de NodeJS. Saludos!
 
-* **Jhonn Sebastian Quiroz Pirazan** (1)
+* **Jhonn Sebastian Quiroz Pirazan** (1) [951597](https://platzi.com/comentario/951597/) 
 
-	
 	Los mejores cursos definitivamente donde se apoyan de apuntes, descripciones e infografias…
 
-* **Robinson Maqui** (1)
+* **Robinson Maqui** (1) [932762](https://platzi.com/comentario/932762/) 
 
-	
 	Muy buena explicación.
 
-* **mkitivenic** (1)
+* **mkitivenic** (1) [930207](https://platzi.com/comentario/930207/) 
 
-	
 	Muchas gracias conciso y puntual !!!
 
-* **Diego Alberto Rozo Herrera** (1)
+* **Diego Alberto Rozo Herrera** (1) [913018](https://platzi.com/comentario/913018/) 
 
-	
 	Super claro
 
-* **predator0077** (1)
+* **predator0077** (1) [890928](https://platzi.com/comentario/890928/) 
 
-	
 	Excelente información. 😃
 
-* **sergio-medina93** (1)
+* **sergio-medina93** (1) [876747](https://platzi.com/comentario/876747/) 
 
-	
 	Re bien. Como necesitaba esto 😃
 
-* **Emanuel Valero** (1)
+* **Emanuel Valero** (1) [874331](https://platzi.com/comentario/874331/) 
 
-	
 	Excelente manera de mostrar que hace JS del lado del cliente y que hace NodeJS del lado del servidor
 
-* **Aaron Yamil Luna Parrado** (1)
+* **Aaron Yamil Luna Parrado** (1) [852706](https://platzi.com/comentario/852706/) 
 
-	
 	muy buena infografía
 
-## 0060. Instalación de Node.js
+## 0060. Instalación de Node.js [22015](https://platzi.com/clases/1646-backend-nodejs/22015-instalacion-de-nodejs/)
 
 ### Descripción:
 
@@ -570,9 +499,8 @@ La diferencia entre la version LTS a la ultima versión es que la versión LTS t
 
 ### Comentarios:
 
-* **wilantury** (8)
+* **wilantury** (8) [783760](https://platzi.com/comentario/783760/) 
 
-	
 	Para instalar en ubuntu 18.04 LTS la última version de node:
 	``` 
 	    curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
@@ -580,54 +508,45 @@ La diferencia entre la version LTS a la ultima versión es que la versión LTS t
 	    
 	```
 
-* **giothcode** (5)
+* **giothcode** (5) [703121](https://platzi.com/comentario/703121/) 
 
-	
 	Aquí está como instalar Node a partir de nvm (Node version manager)  
 	[](https://github.com/nvm-sh/nvm)
 
-	* **giothcode** (3)
+	* **giothcode** [703121] (3)
 
-		
 		<https://github.com/nvm-sh/nvm>
 
-* **manuel-mendoza142** (3)
+* **manuel-mendoza142** (3) [793978](https://platzi.com/comentario/793978/) 
 
-	
 	Para este curso que versión se recomienda?? O cualquiera sirve?
 
-	* **Daniel Esteves** (2)
+	* **Daniel Esteves** [793978] (2)
 
-		
 		Desde la versión 8 hacia adelante se puede utilizar Node 🙌
 
-	* **glrodasz** (2)
+	* **glrodasz** [793978] (2)
 
-		
 		Mi recomendación es siempre usar la versión LTS, sin embargo para proyectos pequeños y experimentos recomiendo usar la ultima version.
 
-	* **Wladimir Rocha** (1)
+	* **Wladimir Rocha** [793978] (1)
 
-		
 		Yo usualmente uso la ultima versión LTS ya que uso windows y así garantizo que no encuentre incompatibilidades
 
-* **mauricio garcia** (2)
+* **mauricio garcia** (2) [782713](https://platzi.com/comentario/782713/) 
 
-	
 	[actualizar nodejs usando modulo n de npm](https://askubuntu.com/questions/426750/how-can-i-update-my-nodejs-to-the-latest-version)
 
-* **Carlos Gerardo Pérez Horta** (2)
+* **Carlos Gerardo Pérez Horta** (2) [781840](https://platzi.com/comentario/781840/) 
 
-	
 	Les dejo la liga del repositorio de “n” una herramienta para manejar diversas versiones de n
 	
 	<https://github.com/tj/n#installation>
 	
 	Tengo tiempo usándola y es muy buena
 
-* **Omar Flores Grimontt** (2)
+* **Omar Flores Grimontt** (2) [735354](https://platzi.com/comentario/735354/) 
 
-	
 	Instalación de Node 10.16.0 LTS a través de la terminal de Ubuntu:
 	
 	Primero ejecutas:
@@ -642,20 +561,18 @@ La diferencia entre la version LTS a la ultima versión es que la versión LTS t
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080141](https://platzi.com/comentario/1080141/) 
 
-	
 	ya lo tengo, vamos a la siguiente
 
-* **Roso Peñaranda** (1)
+* **Roso Peñaranda** (1) [928527](https://platzi.com/comentario/928527/) 
 
-	
 	Si usan Linux les recomiendo instalar node.js por medio de node version manager  
 	<https://github.com/nvm-sh/nvm>
 	
 	entre las ventajas que se optienen es el no necesitar permisos de super usuario para utilizar npm
 
-## 0070. Arquitectura orientada a eventos
+## 0070. Arquitectura orientada a eventos [22016](https://platzi.com/clases/1646-backend-nodejs/22016-arquitectura-orientada-a-eventos/)
 
 ### Descripción:
 
@@ -666,94 +583,87 @@ La diferencia entre la version LTS a la ultima versión es que la versión LTS t
 
 ### Comentarios:
 
-* **jasanhdz** (16)
+* **jasanhdz** (16) [768367](https://platzi.com/comentario/768367/) 
 
-	
 	Les dejo mis notas que me apoyaron en el aprendizaje del curso 😄  
 	<https://github.com/JasanHdz/backendnodejs/tree/master/notes>  
 	No se rindan, éxito 💪  
 	_**Mis mejores notas**_ ⭐⭐⭐⭐⭐
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [768367] (1)
 
-		
 		Crack, gracias!
 
-* **Cristian Fabian Tovar** (8)
+* **Cristian Fabian Tovar** (8) [780260](https://platzi.com/comentario/780260/) 
 
-	
 	Muy teso pa’ explicar!!! en una sola clase entendí lo que no pude en un mes!, Mounstro!!!
 
-* **roDRYgo_0** (7)
+* **roDRYgo_0** (7) [705089](https://platzi.com/comentario/705089/) 
 
-	
 	En windows para dar formato al código es **alt + shift + f**
 
-	* **Steven Benjamín Diaz Flores** (1)
+	* **Steven Benjamín Diaz Flores** [705089] (1)
 
-		
 		Gracias
 
-* **Samuel Pilay Muñoz** (6)
+* **Samuel Pilay Muñoz** (6) [776604](https://platzi.com/comentario/776604/) 
 
-	
 	Investigando un poco y respondiéndome a mi pregunta jeje 😄, según la versión de Node.js v12.11.1 estos son los módulos nativos que vienen por default:
 	
-	  * [Assertion Testing](https://nodejs.org/api/assert.html)
-	  * [Async Hooks](https://nodejs.org/api/async_hooks.html)
-	  * [Buffer](https://nodejs.org/api/buffer.html)
-	  * [C++ Addons](https://nodejs.org/api/addons.html)
-	  * [C/C++ Addons - N-API](https://nodejs.org/api/n-api.html)
-	  * [Child Processes](https://nodejs.org/api/child_process.html)
-	  * [Cluster](https://nodejs.org/api/cluster.html)
-	  * [Command Line Options](https://nodejs.org/api/cli.html)
-	  * [Console](https://nodejs.org/api/console.html)
-	  * [Crypto](https://nodejs.org/api/crypto.html)
-	  * [Debugger](https://nodejs.org/api/debugger.html)
-	  * [Deprecated APIs](https://nodejs.org/api/deprecations.html)
-	  * [DNS](https://nodejs.org/api/dns.html)
-	  * [Domain](https://nodejs.org/api/domain.html)
-	  * [ECMAScript Modules](https://nodejs.org/api/esm.html)
-	  * [Errors](https://nodejs.org/api/errors.html)
-	  * [Events](https://nodejs.org/api/events.html)
-	  * [File System](https://nodejs.org/api/fs.html)
-	  * [Globals](https://nodejs.org/api/globals.html)
-	  * [HTTP](https://nodejs.org/api/http.html)
-	  * [HTTP/2](https://nodejs.org/api/http2.html)
-	  * [HTTPS](https://nodejs.org/api/https.html)
-	  * [Inspector](https://nodejs.org/api/inspector.html)
-	  * [Internationalization](https://nodejs.org/api/intl.html)
-	  * [Modules](https://nodejs.org/api/modules.html)
-	  * [Net](https://nodejs.org/api/net.html)
-	  * [OS](https://nodejs.org/api/os.html)
-	  * [Path](https://nodejs.org/api/path.html)
-	  * [Performance Hooks](https://nodejs.org/api/perf_hooks.html)
-	  * [Policies](https://nodejs.org/api/policy.html)
-	  * [Process](https://nodejs.org/api/process.html)
-	  * [Punycode](https://nodejs.org/api/punycode.html)
-	  * [Query Strings](https://nodejs.org/api/querystring.html)
-	  * [Readline](https://nodejs.org/api/readline.html)
-	  * [REPL](https://nodejs.org/api/repl.html)
-	  * [Report](https://nodejs.org/api/report.html)
-	  * [Stream](https://nodejs.org/api/stream.html)
-	  * [String Decoder](https://nodejs.org/api/string_decoder.html)
-	  * [Timers](https://nodejs.org/api/timers.html)
-	  * [TLS/SSL](https://nodejs.org/api/tls.html)
-	  * [Trace Events](https://nodejs.org/api/tracing.html)
-	  * [TTY](https://nodejs.org/api/tty.html)
-	  * [UDP/Datagram](https://nodejs.org/api/dgram.html)
-	  * [URL](https://nodejs.org/api/url.html)
-	  * [Utilities](https://nodejs.org/api/util.html)
-	  * [V8](https://nodejs.org/api/v8.html)
-	  * [VM](https://nodejs.org/api/vm.html)
-	  * [Worker Threads](https://nodejs.org/api/worker_threads.html)
-	  * [Zlib](https://nodejs.org/api/zlib.html)
+	* [Assertion Testing](https://nodejs.org/api/assert.html)
+	* [Async Hooks](https://nodejs.org/api/async_hooks.html)
+	* [Buffer](https://nodejs.org/api/buffer.html)
+	* [C++ Addons](https://nodejs.org/api/addons.html)
+	* [C/C++ Addons - N-API](https://nodejs.org/api/n-api.html)
+	* [Child Processes](https://nodejs.org/api/child_process.html)
+	* [Cluster](https://nodejs.org/api/cluster.html)
+	* [Command Line Options](https://nodejs.org/api/cli.html)
+	* [Console](https://nodejs.org/api/console.html)
+	* [Crypto](https://nodejs.org/api/crypto.html)
+	* [Debugger](https://nodejs.org/api/debugger.html)
+	* [Deprecated APIs](https://nodejs.org/api/deprecations.html)
+	* [DNS](https://nodejs.org/api/dns.html)
+	* [Domain](https://nodejs.org/api/domain.html)
+	* [ECMAScript Modules](https://nodejs.org/api/esm.html)
+	* [Errors](https://nodejs.org/api/errors.html)
+	* [Events](https://nodejs.org/api/events.html)
+	* [File System](https://nodejs.org/api/fs.html)
+	* [Globals](https://nodejs.org/api/globals.html)
+	* [HTTP](https://nodejs.org/api/http.html)
+	* [HTTP/2](https://nodejs.org/api/http2.html)
+	* [HTTPS](https://nodejs.org/api/https.html)
+	* [Inspector](https://nodejs.org/api/inspector.html)
+	* [Internationalization](https://nodejs.org/api/intl.html)
+	* [Modules](https://nodejs.org/api/modules.html)
+	* [Net](https://nodejs.org/api/net.html)
+	* [OS](https://nodejs.org/api/os.html)
+	* [Path](https://nodejs.org/api/path.html)
+	* [Performance Hooks](https://nodejs.org/api/perf_hooks.html)
+	* [Policies](https://nodejs.org/api/policy.html)
+	* [Process](https://nodejs.org/api/process.html)
+	* [Punycode](https://nodejs.org/api/punycode.html)
+	* [Query Strings](https://nodejs.org/api/querystring.html)
+	* [Readline](https://nodejs.org/api/readline.html)
+	* [REPL](https://nodejs.org/api/repl.html)
+	* [Report](https://nodejs.org/api/report.html)
+	* [Stream](https://nodejs.org/api/stream.html)
+	* [String Decoder](https://nodejs.org/api/string_decoder.html)
+	* [Timers](https://nodejs.org/api/timers.html)
+	* [TLS/SSL](https://nodejs.org/api/tls.html)
+	* [Trace Events](https://nodejs.org/api/tracing.html)
+	* [TTY](https://nodejs.org/api/tty.html)
+	* [UDP/Datagram](https://nodejs.org/api/dgram.html)
+	* [URL](https://nodejs.org/api/url.html)
+	* [Utilities](https://nodejs.org/api/util.html)
+	* [V8](https://nodejs.org/api/v8.html)
+	* [VM](https://nodejs.org/api/vm.html)
+	* [Worker Threads](https://nodejs.org/api/worker_threads.html)
+	* [Zlib](https://nodejs.org/api/zlib.html)
 	
 	
 
-* **edwintrumpet** (5)
+* **edwintrumpet** (5) [779515](https://platzi.com/comentario/779515/) 
 
-	
 	Un experimento enviando código asíncrono dentro del callback.  
 	Para que se mantenga el orden se deben usar callbacks, promesas o como en este caso _async-await_
 	``` 
@@ -796,39 +706,33 @@ La diferencia entre la version LTS a la ultima versión es que la versión LTS t
 	    
 	```
 
-* **oscar-leon846** (4)
+* **oscar-leon846** (4) [880640](https://platzi.com/comentario/880640/) 
 
-	
 	en windows, para formatear el documento shft+alt+f
 
-* **oscar-leon846** (4)
+* **oscar-leon846** (4) [880629](https://platzi.com/comentario/880629/) 
 
-	
 	Una arquitectura orientada por eventos es un patron de diseño el cual permite a un conjunto de sistemas comunicarse entre si de forma reactiva mediante la publicacion y el consumo de eventos, los cuales se pueden interpretar como cambios de estado de objetos
 
-* **annaduarte** (4)
+* **annaduarte** (4) [710348](https://platzi.com/comentario/710348/) 
 
-	
 	Es arquitectura orientada a eventos o paradigma orientado a eventos ? saludos
 
-	* **glrodasz** (2)
+	* **glrodasz** [710348] (2)
 
-		
 		Es algo que se puede discutir, pero de acuerdo a la documentación oficial: <https://nodejs.org/api/events.html#events_events>
 		
 		> Much of the Node.js core API is built around an idiomatic asynchronous **event-driven architecture** in which certain kinds of objects (called “emitters”) emit named events that cause Function objects (“listeners”) to be called.
 
-* **Alan Santiago** (3)
+* **Alan Santiago** (3) [906729](https://platzi.com/comentario/906729/) 
 No es necesario ejecutar el comando para formatearlo el código siempre. En VsCode puedes abrir el archivo de configuración y agregar la siguiente línea: ``` "editor.formatOnSave": true ```
 
-* **Andrea Méndez Díaz** (3)
+* **Andrea Méndez Díaz** (3) [802153](https://platzi.com/comentario/802153/) 
 
-	
 	Para que les salga la paleta de comando que usa el profesor en el minuto 2.38 en mac deben de pulsar -> `cmd + shift + p`
 
-* **edwintrumpet** (3)
+* **edwintrumpet** (3) [779455](https://platzi.com/comentario/779455/) 
 
-	
 	Con _async-await_ no es necesario que se envuelva la promesa dentro de una función.  
 	Se puede dejar igual a como se estaba manejando con `.then` y `.catch` y asignar el resultado a la nueva variable usando el _async_  
 	A mí me funciona así
@@ -856,54 +760,44 @@ No es necesario ejecutar el comando para formatearlo el código siempre. En VsCo
 	    
 	```
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [736258](https://platzi.com/comentario/736258/) 
 
-	
 	ahora ya entiendo como trabaja SocketIO. emito un evento con información, escucho eventos y proceso la data.
 
-* **heysoypaez** (3)
+* **heysoypaez** (3) [705991](https://platzi.com/comentario/705991/) 
 
-	
 	Damas y caballeros se va poniendo dificil la cuestión
 
-	* **glrodasz** (2)
+	* **glrodasz** [705991] (2)
 
-		
 		Cualquier duda, por aca estoy. 😃
 
-	* **heysoypaez** (2)
+	* **heysoypaez** [705991] (2)
 
-		
 		Guau! Gracias profe, cualquier cosa concreta le digo. Ahora ando con el desafío del miniservidor con el cumpleaños.
 
-	* **roganoalien** (3)
+	* **roganoalien** [705991] (3)
 
-		
 		Te recomiendo que empieces por los cursos de fundamentos de JS y luego el avanzado de JS
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699928](https://platzi.com/comentario/699928/) 
 
-	
 	Repositorio de la clase: <https://github.com/glrodasz/platzi-backend-node/tree/arquitectura-orientada-a-eventos>
 
-* **Sebastian Cardoso Castillo** (2)
+* **Sebastian Cardoso Castillo** (2) [744066](https://platzi.com/comentario/744066/) 
 
-	
 	Me gusto mucho esta clase.
 
-* **T-gold** (1)
+* **T-gold** (1) [1105370](https://platzi.com/comentario/1105370/) 
 
-	
 	el event emiter solo puede aplicarse en classes?
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080761](https://platzi.com/comentario/1080761/) 
 
-	
 	event emmiter
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080742](https://platzi.com/comentario/1080742/) 
 
-	
 	asyc-await.js
 	``` 
 	    const promiseFunction = () =>  newPromise((resolve, reject) => {
@@ -928,9 +822,8 @@ No es necesario ejecutar el comando para formatearlo el código siempre. En VsCo
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080717](https://platzi.com/comentario/1080717/) 
 
-	
 	promise.js
 	``` 
 	    const promise = new Promise((resolve, reject) => {
@@ -949,9 +842,8 @@ No es necesario ejecutar el comando para formatearlo el código siempre. En VsCo
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1080704](https://platzi.com/comentario/1080704/) 
 
-	
 	callback.js
 	``` 
 	    const asyncCallback = function (cb) {
@@ -973,34 +865,28 @@ No es necesario ejecutar el comando para formatearlo el código siempre. En VsCo
 	    
 	```
 
-* **karl-behrens-gil** (1)
+* **karl-behrens-gil** (1) [1052746](https://platzi.com/comentario/1052746/) 
 
-	
 	Me costo un poco el event emitter, creo que practicando voy a entenderlo mejor.
 
-* **Angel Infanti** (1)
+* **Angel Infanti** (1) [986933](https://platzi.com/comentario/986933/) 
 
-	
 	Al ejecutar node callback.js me aparece el error SyntaxError: Unexpected identifier , saben porque ??
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [986933] (1)
 
-		
 		Hola! Nos podrías mostrar el error y tu código? 😄
 
-* **Samuel Pilay Muñoz** (1)
+* **Samuel Pilay Muñoz** (1) [776585](https://platzi.com/comentario/776585/) 
 
-	
 	cuales son los modulos nativos con los que viene por default NodeJS ?
 
-* **Samuel Pilay Muñoz** (1)
+* **Samuel Pilay Muñoz** (1) [776581](https://platzi.com/comentario/776581/) 
 
-	
 	Las ultimas noticias del motor [V8](https://v8.dev/)
 
-* **SKILLON** (1)
+* **SKILLON** (1) [775320](https://platzi.com/comentario/775320/) 
 
-	
 	Un practica corta de event emmiter:
 	``` 
 	    const EventEmmiter= require('events');
@@ -1046,9 +932,8 @@ No es necesario ejecutar el comando para formatearlo el código siempre. En VsCo
 	    
 	```
 
-* **Ramiro** (1)
+* **Ramiro** (1) [750800](https://platzi.com/comentario/750800/) 
 
-	
 	¿Por qué en el primer caso del callback (cb), cuando se devuelve un error no es necesario agregar el return?, me refiero a la parte que hacemos:
 	``` 
 	    else{
@@ -1057,66 +942,57 @@ No es necesario ejecutar el comando para formatearlo el código siempre. En VsCo
 	    
 	```
 
-	* **Daniel Alberto Esquinazi** (3)
+	* **Daniel Alberto Esquinazi** [750800] (3)
 
-		
 		En realidad no hace falta hacer `return` en el bloque que maneja el caso de éxito del `if` porque esta ejecutando la funcion `cb`y enviandole los parametros de `err` y `msg`
 
-* **Ricardo Lugo Recillas** (1)
+* **Ricardo Lugo Recillas** (1) [735084](https://platzi.com/comentario/735084/) 
 
-	
 	Arquitectura Orientada a objetos: permite manipular código asíncrono
 	
-	  * el callback = es el parámetro que se va a ejecutar después
-	  * async-await = manera de escribir codigo asyncrono que no se vea asyncrono
+	* el callback = es el parámetro que se va a ejecutar después
+	* async-await = manera de escribir codigo asyncrono que no se vea asyncrono
 	
 	
 
-	* **Marcelo Diaz** (1)
+	* **Marcelo Diaz** [735084] (1)
 
-		
 		Creo que es arquitectura Orientada a Eventos, no a objetos compañero.
 
-* **Jesús Duarte García** (1)
+* **Jesús Duarte García** (1) [78806](https://platzi.com/comentario/927977/) 
 Para mantener el orden con event-emitter ¿Es necesario combinarlo con promesas o async-await?
 
-	* **Juan Carlos Pinzón** (1)
+	* **Juan Carlos Pinzón** [78806] (1)
 
-		
 		Si realmente necesita el orden, sería coherente que funcione con async/await
 
-* **wilantury** (1)
+* **wilantury** (1) [70855](https://platzi.com/comentario/783864/) 
 Hola, solo para tener claro. Event Emiter es solo en nodeJS desde el backend? quiero decir, event emiter no se puede aplicar en frontend.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [70855] (2)
 
-		
 		Correcto. Event Emitter solo existe en Node.js. Pero no significa que no puedas crear eventos con JS del navegador. Mira: <https://stackoverflow.com/questions/45831911/is-there-any-eventemitter-in-browser-side-that-has-similar-logic-in-nodejs>. 😉
 
-* **Hebert de León** (1)
+* **Hebert de León** (1) [68876](https://platzi.com/comentario/747586/) 
 Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a retornar un cb(), pero en else no tienes el “return”. ¿A qué ...
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [68876] (2)
 
-		
 		La función cb es para evitar que no se cicle la función al encontrar un error
 
-* **Oscar Molleapaza Flores** (0)
+* **Oscar Molleapaza Flores** (0) [1010271](https://platzi.com/comentario/1010271/) 
 
-	
 	Wow, esperaba algo mas ligero jajaja, me esta costando aprender, es normal para un java developer?
 
-	* **mrcMesen** (1)
+	* **mrcMesen** [1010271] (1)
 
-		
 		yo diría que primero te relaciones con javascript antes de tomar el curso, entender los fundamentos del lenguaje es importante para luego aprender de node js
 
-	* **Karel Muñiz Perdomo** (1)
+	* **Karel Muñiz Perdomo** [1010271] (1)
 
-		
 		NO te desesperes. Lo que necesitas es mas practica. EN vez de ver solo videos , reescribe el código de todos los ejercicios. Hay muchos videos en youtube que explican conceptos básicos como async, callback, promises, etc
 
-## 0080. Node.js para la web
+## 0080. Node.js para la web [22017](https://platzi.com/clases/1646-backend-nodejs/22017-nodejs-para-la-web/)
 
 ### Descripción:
 
@@ -1129,36 +1005,33 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 
 ### Comentarios:
 
-* **Manuel Ojeda** (5)
-![carbon \(1\).png](https://static.platzi.com/media/user_upload/carbon%20%281%29-4eb636d7-282e-4163-b6a4-7a27e824f72c.jpg)
+* **Manuel Ojeda** (5) [712165](https://platzi.com/comentario/712165/) 
+	
+	![carbon \(1\).png](https://static.platzi.com/media/user_upload/carbon%20%281%29-4eb636d7-282e-4163-b6a4-7a27e824f72c.jpg)
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [712165] (1)
 
-		
 		Hola Manuel, me podrías indicar que programa usas para mostrar el código de esa forma, se me genial. Saludos.
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [712165] (1)
 
-		
 		Hola Jesús, checa la página en [carbón.now.sh](http://xn--carbn-3ta.now.sh)
 		
 		<https://carbon.now.sh/>
 		
 		Detecta múltiples idiomas y trae varios sets de colores
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [712165] (1)
 
-		
 		No entendí la parte de  
 		body[2];  
 		Explicala por fa
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [712165] (1)
 
-		
 		Dentro del body llegan parametros en forma de array, entonces el año viene en el body[2]
 
-* **Matias Sosa** (3)
+* **Matias Sosa** (3) [1008460](https://platzi.com/comentario/1008460/) 
 
 	```
 	    const http = require("http");
@@ -1197,9 +1070,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	
 	Utilizando el Modulo Moment
 
-* **Juan Carlos García Esquivel** (3)
+* **Juan Carlos García Esquivel** (3) [787273](https://platzi.com/comentario/787273/) 
 
-	
 	Les comparto mi reto, tuve que modificar un poco para que se vea bien en los aportes de platzi, pueden utilizarlo de referencia, espero les ayude 😃
 	``` 
 	    //obtain http module for create the server
@@ -1266,9 +1138,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **David Behar** (3)
+* **David Behar** (3) [781924](https://platzi.com/comentario/781924/) 
 
-	
 	Pues acá está mi servidor que valida una fecha
 	``` 
 	    const http = require('http');
@@ -1305,43 +1176,38 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-	* **MauricioF** (1)
+	* **MauricioF** [781924] (1)
 
-		
 		Al definir birthday en tu código, new y Date quedan unidos (newDate), por lo que no corre el código cuando uno copia y pega.
 
-	* **David Behar** (2)
+	* **David Behar** [781924] (2)
 
-		
 		Es un problema con el código de platzi, se tiene que separar, jaja, no lo diseñé así
 
-* **Jose Jaime Figueroa Barrios** (3)
-![Node.PNG](https://static.platzi.com/media/user_upload/Node-5c8a3634-8099-430a-9a5a-36d0ae87d519.jpg)
-
-* **Victor Martin Ortiz Palacio** (3)
-
+* **Jose Jaime Figueroa Barrios** (3) [714740](https://platzi.com/comentario/714740/) 
 	
+	![Node.PNG](https://static.platzi.com/media/user_upload/Node-5c8a3634-8099-430a-9a5a-36d0ae87d519.jpg)
+
+* **Victor Martin Ortiz Palacio** (3) [703198](https://platzi.com/comentario/703198/) 
+
 	El challenge me quedo de la siguiente manera, ya que no encontre el como darle formato al input que requiere Date.getDay(), y asi obtener el dia en menos lineas de codigo.
 	
 	![birthday.png](https://static.platzi.com/media/user_upload/birthday-f1747978-79e3-48ec-8b22-2158410e3f7a.jpg)
 
-	* **Victor Martin Ortiz Palacio** (1)
+	* **Victor Martin Ortiz Palacio** [703198] (1)
 
-		
 		Despues de ver el video nuevamente, pude entender un poco mejor algunas cosas que no tenia claro, y asi hacer un poco mas legible el codigo.  
 		![codigo.jpg](https://static.platzi.com/media/user_upload/codigo-432740f1-ee4b-4e5f-aab4-f7db0381c08c.jpg)
 
-* **Luis Miguel gonzalez** (3)
+* **Luis Miguel gonzalez** (3) [73532](https://platzi.com/comentario/836670/) 
 ¿Pregunta? ¿En que parte del evento de la variable es mejor hacer la lógica que se desea procesar? ¿En el 'data? ¿En el ‘end’? ¿y por que...
 
-	* **glrodasz** (1)
+	* **glrodasz** [73532] (1)
 
-		
 		Depende la necesidad de tu lógica, si es algo que puedes ir aplicando a medida que recibes los datos, puedes definitivamente hacerlo ahi. Si es algo que solo se puede hacer cuando tengas todo el set de datos deberías usar el end.
 
-* **Alver Ortega** (2)
+* **Alver Ortega** (2) [991324](https://platzi.com/comentario/991324/) 
 
-	
 	Mi aporte
 	``` 
 	    const http = require('http');
@@ -1371,22 +1237,19 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [991324] (1)
 
-		
 		Si me permites corregirte el arreglo de días empieza en domingo segun la doc de MDN. Pero me gusto mucho tú solución.
 
-	* **Alver Ortega** (2)
+	* **Alver Ortega** [991324] (2)
 
-		
 		si y muchas gracias por la correción
 
-	* **karl-behrens-gil** (1)
+	* **karl-behrens-gil** [991324] (1)
 
-		
 		Muy buena solución, bastante legible y limpio.
 
-* **seiro** (2)
+* **seiro** (2) [982245](https://platzi.com/comentario/982245/) 
 
 	```
 	    const http = require('http')
@@ -1432,9 +1295,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **mkitivenic** (2)
+* **mkitivenic** (2) [931580](https://platzi.com/comentario/931580/) 
 
-	
 	**CHALLENGE No.1**
 	
 	**CODE**  
@@ -1446,9 +1308,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	![Reto1.4.jpg](https://static.platzi.com/media/user_upload/Reto1.4-6caac2b9-1a94-47d7-ba31-3d90e81e0f18.jpg)  
 	![Reto1.5.jpg](https://static.platzi.com/media/user_upload/Reto1.5-4d85168a-ddb9-4c53-b759-d964e08d4d76.jpg)
 
-* **cristofers530** (2)
+* **cristofers530** (2) [865950](https://platzi.com/comentario/865950/) 
 
-	
 	me da como cosita enseñar mi codigo luego de ver que los demas tienen su solucion con menos codigo, pero aqui esta XD
 	
 	PD: esa formula es del ‘Algoritmo de Zeller’, si quieren hacer pruebas y eso [](https://www.disfrutalasmatematicas.com/juegos/dia-de-la-semana.html)
@@ -1534,19 +1395,16 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-	* **cristofers530** (1)
+	* **cristofers530** [865950] (1)
 
-		
 		[de aqui hice las pruebas](https://www.disfrutalasmatematicas.com/juegos/dia-de-la-semana.html)
 
-	* **sergio-medina93** (1)
+	* **sergio-medina93** [865950] (1)
 
-		
 		El sentimiento es mutuo jajaja
 
-* **pablopoggiog** (2)
+* **pablopoggiog** (2) [864032](https://platzi.com/comentario/864032/) 
 
-	
 	🤓
 	``` 
 	    const http = require('http');
@@ -1583,9 +1441,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **Erick Leao Pérez Medina** (2)
+* **Erick Leao Pérez Medina** (2) [817096](https://platzi.com/comentario/817096/) 
 
-	
 	Mi solución al reto de la clase:
 	``` 
 	    // Importamos http y creamos el servidor
@@ -1635,9 +1492,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **Iván Darío Sánchez Jiménez** (2)
+* **Iván Darío Sánchez Jiménez** (2) [786343](https://platzi.com/comentario/786343/) 
 
-	
 	Mi solución:
 	``` 
 	    const http = require('http');
@@ -1671,14 +1527,12 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [786343] (1)
 
-		
 		Muy bueno gracias, con tu ejemplo pude entender como utilizar el server y pasarle datos.
 
-* **Alejandro Lopez Ramírez** (2)
+* **Alejandro Lopez Ramírez** (2) [785640](https://platzi.com/comentario/785640/) 
 
-	
 	Hola les comparto mi solucion:
 	``` 
 	    const http = require('http');
@@ -1719,9 +1573,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **wilantury** (2)
+* **wilantury** (2) [783982](https://platzi.com/comentario/783982/) 
 
-	
 	Solución a mi reto:
 	``` 
 	    //formato de fecha de entrada: opcion 1: 10-16-2019, opcion2: 2019/10/16
@@ -1761,9 +1614,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **josdanind** (2)
+* **josdanind** (2) [760310](https://platzi.com/comentario/760310/) 
 
-	
 	**Mi solucion**
 	``` 
 	    const http = require("http");
@@ -1806,14 +1658,12 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-	* **oteka21** (1)
+	* **oteka21** [760310] (1)
 
-		
 		Creo que al obtener el dia del arreglo tienes que obtenerlo con el `dateBird - 1` para que te tome e día que es
 
-* **soyaligarciap** (2)
+* **soyaligarciap** (2) [750957](https://platzi.com/comentario/750957/) 
 
-	
 	Mi reto
 	``` 
 	    onst http = require('http')
@@ -1850,9 +1700,8 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **ThAlan** (2)
+* **ThAlan** (2) [740237](https://platzi.com/comentario/740237/) 
 
-	
 	Les dejo mi solución al reto, una va con los comentarios que me sirvieron para resolverlo y la otra imagen solo el código.
 	
 	Sin comentarios  
@@ -1861,7 +1710,7 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	Con comentarios  
 	![birthday-comments.png](https://static.platzi.com/media/user_upload/birthday-comments-bfebdb64-de68-4fc2-b794-5b428b70e30b.jpg)
 
-* **Daniel Herrera** (2)
+* **Daniel Herrera** (2) [726519](https://platzi.com/comentario/726519/) 
 
 	```
 	    const http = require('http');
@@ -1892,17 +1741,15 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **Erik Alexander Estrada Otondo** (2)
+* **Erik Alexander Estrada Otondo** (2) [723726](https://platzi.com/comentario/723726/) 
 
-	
 	En “Archivos y Enlaces”, cuando se preciona Descargar todo. No se descargan los archivos de la clase.
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [723726] (1)
 
-		
 		¡Hola! Gracias por reportar, lo arreglaremos lo más pronto posible
 
-* **andresquinterogalvan** (2)
+* **andresquinterogalvan** (2) [719555](https://platzi.com/comentario/719555/) 
 
 	```
 	    const http = require("http");
@@ -1939,10 +1786,11 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **Steven Benjamín Diaz Flores** (2)
-![solution.png](https://static.platzi.com/media/user_upload/solution-b6d1e1a7-b313-4221-99f7-9fac9da6b2e1.jpg)
+* **Steven Benjamín Diaz Flores** (2) [718991](https://platzi.com/comentario/718991/) 
+	
+	![solution.png](https://static.platzi.com/media/user_upload/solution-b6d1e1a7-b313-4221-99f7-9fac9da6b2e1.jpg)
 
-* **sergioRios** (2)
+* **sergioRios** (2) [714244](https://platzi.com/comentario/714244/) 
 
 	```
 	    const http = require('http')
@@ -1982,7 +1830,7 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **Gaston Caldera** (2)
+* **Gaston Caldera** (2) [711760](https://platzi.com/comentario/711760/) 
 
 	```
 	    <'use strict'
@@ -2022,20 +1870,18 @@ Tengo una pregunta, en el archivo callback.js tienes que dentro del if va a reto
 	    
 	```
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699929](https://platzi.com/comentario/699929/) 
 
-	
 	Repositorio de la clase: <https://github.com/glrodasz/platzi-backend-node/tree/node-js-para-la-web/learning-node>
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [66545](https://platzi.com/comentario/708908/) 
 Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postman SIEMPRE me retorna como dia de cumpleaños mier...
 
-	* **Manuel Ojeda** (3)
+	* **Manuel Ojeda** [66545] (3)
 
-		
 		El método PUT es para realizar actualizaciones, debes de utilizar POST.
 
-* **ocandoja** (1)
+* **ocandoja** (1) [1101157](https://platzi.com/comentario/1101157/) 
 
 	```
 	    const http = require('http');
@@ -2067,9 +1913,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1081540](https://platzi.com/comentario/1081540/) 
 
-	
 	Mi respuesta:** Naciste el día Lunes 28 de Marzo del año 1988**
 	``` 
 	    const http = require('http');
@@ -2125,9 +1970,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Marco Antonio Benites Espinoza** (1)
+* **Marco Antonio Benites Espinoza** (1) [1013475](https://platzi.com/comentario/1013475/) 
 
-	
 	Para el reto dado, no es necesario usar chunk, por lo cual mi solución con lo minimo necesario seria la siguiente:
 	``` 
 	    const http = require("http");
@@ -2185,9 +2029,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **José Abdiel Ortega Vázquez** (1)
+* **José Abdiel Ortega Vázquez** (1) [1008003](https://platzi.com/comentario/1008003/) 
 
-	
 	Mi solución
 	``` 
 	    server.on('request', (req, res) => {
@@ -2235,9 +2078,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Carlos Vallejo** (1)
+* **Carlos Vallejo** (1) [991234](https://platzi.com/comentario/991234/) 
 
-	
 	Mi aporte, sin validaciones 😉
 	``` 
 	    let body = []
@@ -2258,7 +2100,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [985188](https://platzi.com/comentario/985188/) 
 
 	```
 	    // INGRESA TU CUMPLEAÑOS SIGUIENDO EL SIGUIENTE FORMATO: año mes día
@@ -2327,7 +2169,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Jaime Gonzalez** (1)
+* **Jaime Gonzalez** (1) [970687](https://platzi.com/comentario/970687/) 
 
 	```
 	    const http = require('http');
@@ -2373,7 +2215,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Abraham Gonzalez** (1)
+* **Abraham Gonzalez** (1) [968099](https://platzi.com/comentario/968099/) 
 
 	```
 	    const days = [
@@ -2417,9 +2259,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **nova12** (1)
+* **nova12** (1) [934373](https://platzi.com/comentario/934373/) 
 
-	
 	mi soluciòn al reto:
 	``` 
 	    const http=require('http');
@@ -2470,9 +2311,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **ApolloAu** (1)
+* **ApolloAu** (1) [933723](https://platzi.com/comentario/933723/) 
 
-	
 	Mi version del reto agregando un protoype a Date para validar la fecha recibida.
 	``` 
 	    const http = require("http");
@@ -2525,7 +2365,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **CarlosSalasFT** (1)
+* **CarlosSalasFT** (1) [926543](https://platzi.com/comentario/926543/) 
 
 	```
 	    const server = require('http').createServer()
@@ -2552,9 +2392,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    con el formato de fecha por ejemplo : 14 January 2020
 	```
 
-* **jehielmartinez** (1)
+* **jehielmartinez** (1) [916813](https://platzi.com/comentario/916813/) 
 
-	
 	Reto
 	``` 
 	    const http = require('http');
@@ -2585,9 +2424,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [915143](https://platzi.com/comentario/915143/) 
 
-	
 	Reto
 	``` 
 	    const http = require('http')
@@ -2621,9 +2459,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Santa Karina Madre de Dios** (1)
+* **Santa Karina Madre de Dios** (1) [912996](https://platzi.com/comentario/912996/) 
 
-	
 	Mi solución, intente hacerlo modular en caso de que se me ocurra como optimizarla más adelante con lo que aprenda.
 	``` 
 	    /*
@@ -2736,9 +2573,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	
 	Les agradecería si me comentan algunos tips para proteger mejor las propiedades de la clase.
 
-* **PaoloTorregrosa** (1)
+* **PaoloTorregrosa** (1) [896577](https://platzi.com/comentario/896577/) 
 
-	
 	Mi solucion, me costo un poco el tema de los eventos (Si alguien me puede dar una mano en los comentarios lo agradeceria :3 )
 	``` 
 	    const http = require('http');
@@ -2784,9 +2620,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [885790](https://platzi.com/comentario/885790/) 
 
-	
 	Creo que he sido el único que he hecho el ejercicio enviando los datos como un formulario de verdad, con los valores en los headers, como funciona POST. Para luego leerlos en node usando req.headers (year, month y day):
 	``` 
 	    const http = require('http');
@@ -2814,18 +2649,16 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Alfredo Gonzalez** (1)
+* **Alfredo Gonzalez** (1) [855108](https://platzi.com/comentario/855108/) 
 
-	
 	Mi solución 😄  
 	el usuario hace la petición ‘POST’ en el formato normal:  
 	dd/mm/yyyy
 	
 	![Screen Shot 2019-12-07 at 19.14.59.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-12-07%20at%2019.14.59-86bcee6c-7eb4-4d9c-a7c5-11367b030050.jpg)
 
-* **Dante Calderón** (1)
+* **Dante Calderón** (1) [844016](https://platzi.com/comentario/844016/) 
 
-	
 	Mi solucion:
 	``` 
 	    const http = require('http')
@@ -2864,9 +2697,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [838585](https://platzi.com/comentario/838585/) 
 
-	
 	Muy animado con este nuevo curso, aquí mi solución, batallé porque pensaba que la lógica iba en el request, en lugar de haberla puesto en el response, al saqué la logica a a una arrow fuction haciendo un callback
 	``` 
 	    const http = require("http");
@@ -2902,9 +2734,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Manuel Silva Guevara** (1)
+* **Manuel Silva Guevara** (1) [814449](https://platzi.com/comentario/814449/) 
 
-	
 	Aquí mi solución!
 	``` 
 	    const http = require("http");
@@ -2943,9 +2774,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Fernando Torres** (1)
+* **Fernando Torres** (1) [796352](https://platzi.com/comentario/796352/) 
 
-	
 	Aquí mi propuesta de solución al reto.  
 	Incluye uso horario para mayor precisión y validación de fecha
 	``` 
@@ -2996,9 +2826,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Yesenia Sánchez E.** (1)
+* **Yesenia Sánchez E.** (1) [793911](https://platzi.com/comentario/793911/) 
 
-	
 	Aquí mi solución 😄
 	``` 
 	    const http = require('http');
@@ -3030,9 +2859,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Luis Rodriguez** (1)
+* **Luis Rodriguez** (1) [785016](https://platzi.com/comentario/785016/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    //Challenge: crear un servidor que reciba mi fecha de cumpleaños y
@@ -3075,19 +2903,16 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-	* **claudiomorales** (1)
+	* **claudiomorales** [785016] (1)
 
-		
 		buen día, y como podría probar tu ejemplo. tengo problemas al enviar el año de nacimiento
 
-	* **claudiomorales** (1)
+	* **claudiomorales** [785016] (1)
 
-		
 		solucionado, muchas gracias
 
-* **Alejandro Silva Berbesi** (1)
+* **Alejandro Silva Berbesi** (1) [784569](https://platzi.com/comentario/784569/) 
 
-	
 	Mi soluciónn a reto. Basado en el código de @Antury 😅
 	``` 
 	    const http = require('http');
@@ -3125,7 +2950,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **sebastianalzte** (1)
+* **sebastianalzte** (1) [783732](https://platzi.com/comentario/783732/) 
 
 	```
 	    	const http = require('http')
@@ -3163,9 +2988,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [781646](https://platzi.com/comentario/781646/) 
 
-	
 	Trabaje validando el formato de fecha ISO Date.
 	``` 
 	    const http = require('http');
@@ -3194,14 +3018,13 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [779791](https://platzi.com/comentario/779791/) 
 
-	
 	**Respuesta al reto**  
 	En este caso se puede pasar la fecha en formatos aceptados por el constructor de `Date()` como:
 	
-	  * October 13, 2019
-	  * 10-13-2019
+	* October 13, 2019
+	* 10-13-2019
 	
 	
 	``` 
@@ -3237,7 +3060,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **SKILLON** (1)
+* **SKILLON** (1) [776660](https://platzi.com/comentario/776660/) 
 
 	```
 	    const http=require('http');
@@ -3268,9 +3091,8 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Jeison Vargas** (1)
+* **Jeison Vargas** (1) [750355](https://platzi.com/comentario/750355/) 
 
-	
 	Mi reto:  
 	La fecha debe ser ingresada: aaaa/mm/dd
 	``` 
@@ -3306,28 +3128,25 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **jasanhdz** (1)
+* **jasanhdz** (1) [749590](https://platzi.com/comentario/749590/) 
 
-	
 	Mi reto 😄  
 	![img.png](https://static.platzi.com/media/user_upload/img-dfcd6872-5a57-4e20-94f9-60f1f9ebb842.jpg)
 
-* **Ernesto Palafox** (1)
+* **Ernesto Palafox** (1) [745092](https://platzi.com/comentario/745092/) 
 
-	
 	Mi solución. Nací un día miércoles , revisé y es verdad.  
 	Puedes utilizar inputs como: YYYY-MM-DD, YYYY|MM|DD, YYYY/MM/DD  
 	Aquí el código: <https://gist.github.com/palafoxernesto/b6c37b17b0929b51c699e82682c3b1f0>  
 	![](https://i.imgur.com/X319lpW.png)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [736371](https://platzi.com/comentario/736371/) 
 
-	
 	Va mi solución.
 	``` 
 	    /**
-	     * Este servidor echo, tiene como finalidad recibir datos (fecha de nacimiento) mediante POST
-	     * y responder con el nombre del día que le corresponde a dicha fecha
+	   * Este servidor echo, tiene como finalidad recibir datos (fecha de nacimiento) mediante POST
+	   * y responder con el nombre del día que le corresponde a dicha fecha
 	     */
 	    const http = require("http");
 	    const server = http.createServer();
@@ -3382,7 +3201,7 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **carlos-bolivar** (1)
+* **carlos-bolivar** (1) [733568](https://platzi.com/comentario/733568/) 
 
 	```
 	    const http = require('http');
@@ -3447,18 +3266,16 @@ Muchachos, no entiendo porque cuando activo el servidor y envio un PUT con postm
 	    
 	```
 
-* **Gonzalo Vazquez** (1)
+* **Gonzalo Vazquez** (1) [84354](https://platzi.com/comentario/1049134/) 
 No entiendo como hacer para que poniendo mi fecha de cumpleaños sepa el dia que nací en ese año. Tiene que haber un calendario con los dí...
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [84354] (1)
 
-		
 		No necesariamente  
 		Hay una forma muy sencilla que hizo @darkjeda
 
-* **Alonso Carrillo Ruíz** (0)
+* **Alonso Carrillo Ruíz** (0) [787608](https://platzi.com/comentario/787608/) 
 
-	
 	Mi solución 😃
 	``` 
 	    <code>
@@ -3492,9 +3309,9 @@ No entiendo como hacer para que poniendo mi fecha de cumpleaños sepa el dia que
 	    
 	```
 
-# Manejo y uso de Streams con Node.js
+# Manejo y uso de Streams con Node.js [4412]
 
-## 0090. Introducción a streams
+## 0090. Introducción a streams [22018](https://platzi.com/clases/1646-backend-nodejs/22018-introduccion-a-streams/)
 
 ### Descripción:
 
@@ -3507,7 +3324,7 @@ Los Streams son una colección de datos como los arrays o strings sólo que se v
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (7)
+* **Juan Carlos García Esquivel** (7) [788843](https://platzi.com/comentario/788843/) 
 
 	```
 	    //módulo para crear un servidor
@@ -3519,17 +3336,17 @@ Los Streams son una colección de datos como los arrays o strings sólo que se v
 	    //manejamos los eventos del servidor
 	    server.on('request', (request, response) => {
 	      /**
-	       * lee el archivo como un stream
-	       * el tamaño del chunk por defecto es de 64kb
-	       * para un fs, para un stream normal es de 16kb
+	     * lee el archivo como un stream
+	     * el tamaño del chunk por defecto es de 64kb
+	     * para un fs, para un stream normal es de 16kb
 	       */
 	      const src = fs.createReadStream('./big')
 	      
 	      /**
-	       * la función de 'pipe()' es limitar el 
-	       * almacenamiento en buffer de datos a niveles
-	       * aceptables de modo que no se sobrecargue la
-	       * memoria disponible.
+	     * la función de 'pipe()' es limitar el 
+	     * almacenamiento en buffer de datos a niveles
+	     * aceptables de modo que no se sobrecargue la
+	     * memoria disponible.
 	       */
 	      src.pipe(response)
 	    })
@@ -3538,24 +3355,20 @@ Los Streams son una colección de datos como los arrays o strings sólo que se v
 	    
 	```
 
-* **Juan Carlos García Esquivel** (6)
+* **Juan Carlos García Esquivel** (6) [787334](https://platzi.com/comentario/787334/) 
 
-	
 	Les comparto un articulo muy bueno que encontré de streams en **Node.js** me ayudo a entender mejor, y saber porque uso los chunks en el vídeo anterior, espero que les ayude 😃 [Streams en Node.js](https://elabismodenull.wordpress.com/2017/03/28/el-manejo-de-streams-en-nodejs/)
 
-* **danielsanz (Platzi)** (5)
+* **danielsanz (Platzi)** (5) [699930](https://platzi.com/comentario/699930/) 
 
-	
 	Repositorio de la clase: <https://github.com/glrodasz/platzi-backend-node/tree/introduccion-a-streams/learning-node/streams>
 
-* **Mariano34** (3)
+* **Mariano34** (3) [733101](https://platzi.com/comentario/733101/) 
 
-	
 	Interesante, en vez de cargar el archivo de una sola vez y agotar la memoria. Se va cargando por lotes o fracciones reduciendo así el consumo de memoria y una eventual sobrecarga del servidor.
 
-* **Fernando Torres** (2)
+* **Fernando Torres** (2) [797849](https://platzi.com/comentario/797849/) 
 
-	
 	¿Qué ocurre cuando se omite la línea
 	``` 
 	    file.end();
@@ -3564,44 +3377,37 @@ Los Streams son una colección de datos como los arrays o strings sólo que se v
 	
 	Lo intenté y no noto nada extraño, pero seguramente algo sale mal, no?
 
-	* **Luis Miguel gonzalez** (4)
+	* **Luis Miguel gonzalez** [797849] (4)
 
-		
 		Lo que pasa es que el no va a ejecutar el evento end, por lo tanto no te va a enviar una respuesta que en este caso es que no crearia el archivo.
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [709019](https://platzi.com/comentario/709019/) 
 
-	
 	Shit: de 14.0 el porcentaje de consumo de memoria a 2.0 el porcentaje más alto!
 
-* **Jose Rodriguez Luis** (2)
+* **Jose Rodriguez Luis** (2) [703747](https://platzi.com/comentario/703747/) 
 
-	
 	no se puede observar el error de memoria que mencionan en el vídeo ( tiempo 4:20)
 
-	* **glrodasz** (4)
+	* **glrodasz** [703747] (4)
 
-		
 		Si, mientras solucionan el problema del video te cuento que lo que sucede: Es que la memoria va a empezar a aumentar y va a ocupar el tamaño del archivo grande del ejemplo.
 		
 		Recuerda que lo puedes reproducir en tu maquina.
 
-* **Christian Michell** (2)
+* **Christian Michell** (2) [84349](https://platzi.com/comentario/1048999/) 
 Algo pasa que cuando hago curl -i localhost:3000 en una segunda terminal, me sale este mensaje cmdlet Invoke-WebRequest en la posic...
 
-	* **glrodasz** (1)
+	* **glrodasz** [84349] (1)
 
-		
 		No estoy familiarizado con el error, pero una alternativa es usar HTTPie que permite hacer HTTP request en la terminal de una manera mas sencilla (Es lo que yo uso normalmente) <https://httpie.org/>
 
-* **Juan Carlos Pinzón** (1)
+* **Juan Carlos Pinzón** (1) [1108100](https://platzi.com/comentario/1108100/) 
 
-	
 	Hice la misma prueba en mi Windows y sucede que en un primer momento me consumió 105Mb, pero luego volvió a la normalidad 5,7Mb aprox, sin embargo en la consola se seguí mostrando la data por un buen rato y ya lo que empezó a subir memoria y cpu fue la consola que llegó hasta un 37% de cpu. Imagino que lo inicial fue cuando node sirvió el archivo el resto ya fue pura impresión en la consola.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1083990](https://platzi.com/comentario/1083990/) 
 
-	
 	Este script con pipe ( Funciona como tubería ) es muy bueno, ya que consume muy pocos recursos
 	``` 
 	    const fs  = require("fs");
@@ -3618,9 +3424,8 @@ Algo pasa que cuando hago curl -i localhost:3000 en una segunda terminal, me sal
 	    https://guru99.es/node-js-streams-filestream-pipes/
 	```
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [786445](https://platzi.com/comentario/786445/) 
 
-	
 	 ** _stream-server.js_**
 	``` 
 	    const fs = require('fs');
@@ -3642,9 +3447,8 @@ Algo pasa que cuando hago curl -i localhost:3000 en una segunda terminal, me sal
 	    
 	```
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [786432](https://platzi.com/comentario/786432/) 
 
-	
 	**_file-server.js_**
 	``` 
 	    const fs = require('fs');
@@ -3671,9 +3475,8 @@ Algo pasa que cuando hago curl -i localhost:3000 en una segunda terminal, me sal
 	    
 	```
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [786385](https://platzi.com/comentario/786385/) 
 
-	
 	**big-file.js**
 	``` 
 	    const fs = require('fs');
@@ -3687,32 +3490,28 @@ Algo pasa que cuando hago curl -i localhost:3000 en una segunda terminal, me sal
 	    
 	```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [736435](https://platzi.com/comentario/736435/) 
 
-	
 	Es interesante, ahora entiendo mucho mejor para que sirven los Strams, para enviar flujos de datos y consumirlos poco a poco y no enviar todo de un solo golpe.
 	
 	![2019-09-14-125114_1366x768_scrot.png](https://static.platzi.com/media/user_upload/2019-09-14-125114_1366x768_scrot-6a5b0bbc-52aa-49c1-97ae-ace489ebf7c1.jpg)
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [736435] (1)
 
-		
 		Estas usando Debian? Que tal? Hace 5 años uso Ubuntu y estoy pensando en migrar. Tema offtopic. Ahora veo Debian en todas partes.
 
-	* **Alejandro González Reyes** (5)
+	* **Alejandro González Reyes** [736435] (5)
 
-		
 		De hecho Ubuntu está basado en Debian. En mi caso uso Lubuntu, tengo una laptop con muy pocos recursos y esta distro le ha quedado perfecta a mi ordenador. Sin mentirte que tarda aproximadamente 1 minuto en abrir vscode y con el navegador abierto bueno ya te imaginarás. Pero hay que trabajar con lo que se tiene.
 
-* **Andrea Méndez Díaz** (1)
+* **Andrea Méndez Díaz** (1) [71918](https://platzi.com/comentario/806421/) 
 Corro el curl, y no lo imprime en la terminal pero sí en el browser. No sé por qué. ¿Alguien sabe qué es lo que sucede?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [71918] (1)
 
-		
 		¡Hola! ¿Puedes mostrarnos el resultado que te arroja la consola? Así sin ver los detalles es muy complicado ayudarte. 🙏🐛
 
-## 0100. Readable y Writable streams
+## 0100. Readable y Writable streams [22019](https://platzi.com/clases/1646-backend-nodejs/22019-readable-y-writable-streams/)
 
 ### Descripción:
 
@@ -3723,18 +3522,18 @@ Los Readable y Writeable streams tienen los siguientes eventos y funciones respe
 
 ### Eventos
 
-  * **data**. Se dispara cuando recibe datos.
-  * **end**. Se dispara cuando termina de recibir datos.
-  * **error**. Se dispara cuando hay un error.
+* **data**. Se dispara cuando recibe datos.
+* **end**. Se dispara cuando termina de recibir datos.
+* **error**. Se dispara cuando hay un error.
 
 
 
 ### Funciones
 
-  * pipe
-  * unpipe
-  * read
-  * push
+* pipe
+* unpipe
+* read
+* push
 
 
 
@@ -3742,16 +3541,16 @@ Los Readable y Writeable streams tienen los siguientes eventos y funciones respe
 
 ### Eventos
 
-  * **drain**. Se dispara cuando emite datos.
-  * **finish**. Se dispara cuando termina de emitir.
-  * **error**. Se dispara cuando hay un error.
+* **drain**. Se dispara cuando emite datos.
+* **finish**. Se dispara cuando termina de emitir.
+* **error**. Se dispara cuando hay un error.
 
 
 
 ### Funciones
 
-  * write
-  * end
+* write
+* end
 
 
 
@@ -3765,33 +3564,32 @@ Recuerda que tienen estos eventos porque los heredan de la clase **EventEmitter*
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (9)
+* **Juan Carlos García Esquivel** (9) [789253](https://platzi.com/comentario/789253/) 
 
-	
 	 **writable-stream.js**
 	``` 
 	    //importamos Writable del módulo de streams
 	    const { Writable } = require('stream')
 	    
 	    /**
-	     * Creamos un nuevo Writable y lo asignamos
-	     * a la constante writableStream
+	   * Creamos un nuevo Writable y lo asignamos
+	   * a la constante writableStream
 	     */
 	    const writableStream = new Writable({
 	      defaultEncoding: 'utf8',
 	      /**
 	       *
-	       * @param {*} chunk el buffer de entrada
-	       * @param {*} encoding la codificación
-	       * del buffer, si el chunk es un string
-	       * el enconding es la codificación en
-	       * caracteres de esa cadena, si la
-	       * codificación es un buffer esta se puede
-	       * ignorar
-	       * @param {*} callback esta función es
-	       * llamada cuando se complete el
-	       * procesamiento para el chunk
-	       * proporcionado.
+	     * @param {*} chunk el buffer de entrada
+	     * @param {*} encoding la codificación
+	     * del buffer, si el chunk es un string
+	     * el enconding es la codificación en
+	     * caracteres de esa cadena, si la
+	     * codificación es un buffer esta se puede
+	     * ignorar
+	     * @param {*} callback esta función es
+	     * llamada cuando se complete el
+	     * procesamiento para el chunk
+	     * proporcionado.
 	       */
 	      write(chunk, encoding, callback) {
 	        console.log(chunk.toString())
@@ -3809,31 +3607,31 @@ Recuerda que tienen estos eventos porque los heredan de la clase **EventEmitter*
 	    //instanciamos un nuevo Readable stream
 	    const readableStream = new Readable()
 	    /**
-	     * Cuando se ejecuta el método push()
-	     * los datos son almacenados en el buffer
-	     * si no se consumen los datos en el buffer 
-	     * estos se almacenan en la cola interna 
-	     * hasta que son consumidos
+	   * Cuando se ejecuta el método push()
+	   * los datos son almacenados en el buffer
+	   * si no se consumen los datos en el buffer 
+	   * estos se almacenan en la cola interna 
+	   * hasta que son consumidos
 	     */
 	    readableStream.push(`${0 / 0}`.repeat(10).concat(' Batman, Batman!'))
 	    /**
-	     * El stream de lectura se da por terminado
-	     * cuándo el buffer recibe un null en este caso
-	     * con el método push(null)
+	   * El stream de lectura se da por terminado
+	   * cuándo el buffer recibe un null en este caso
+	   * con el método push(null)
 	     */
 	    readableStream.push(null)
 	    
 	    /**
-	     * "pipe(writable)" Este método nos permite 
-	     * encadenar diferentes streams para su 
-	     * manipulación por medio de cómputos. Lo que
-	     * hace es recibir un stream
-	     * de entrada, realiza una operación sobre 
-	     * dicho stream y devuelve un nuevo stream con
-	     * dicha transformación.
-	     * 
-	     * "stdout" es un writable stream que toma el 
-	     * buffer y lo muestra en pantalla
+	   * "pipe(writable)" Este método nos permite 
+	   * encadenar diferentes streams para su 
+	   * manipulación por medio de cómputos. Lo que
+	   * hace es recibir un stream
+	   * de entrada, realiza una operación sobre 
+	   * dicho stream y devuelve un nuevo stream con
+	   * dicha transformación.
+	   * 
+	   * "stdout" es un writable stream que toma el 
+	   * buffer y lo muestra en pantalla
 	     */
 	    readableStream.pipe(process.stdout)
 	    
@@ -3847,12 +3645,12 @@ Recuerda que tienen estos eventos porque los heredan de la clase **EventEmitter*
 	    //instanciamos un nuevo readable stream
 	    const readableStream = new Readable({
 	      /**
-	       * constructor
-	       * @param {*} size tamaño del buffer
-	       * de lectura este se representa en bytes
-	       * y el valor por defecto es 16kb para un
-	       * readable stream y para fs es de 64kb
-	       * parámetro opcional
+	     * constructor
+	     * @param {*} size tamaño del buffer
+	     * de lectura este se representa en bytes
+	     * y el valor por defecto es 16kb para un
+	     * readable stream y para fs es de 64kb
+	     * parámetro opcional
 	       */
 	      read(size) {
 	        setTimeout(() => {
@@ -3863,8 +3661,8 @@ Recuerda que tienen estos eventos porque los heredan de la clase **EventEmitter*
 	            return;
 	          }
 	          /**
-	           * agregamos la letra al buffer y después
-	           * se le suma 1 
+	         * agregamos la letra al buffer y después
+	         * se le suma 1 
 	           */
 	          this.push(String.fromCharCode(this.chartCode++))
 	        }, 100)
@@ -3872,31 +3670,29 @@ Recuerda que tienen estos eventos porque los heredan de la clase **EventEmitter*
 	    })
 	    
 	    /**
-	     * inicializamos el atributo chartCode
-	     * y le asignamos el valor  ASCII de la letra A
+	   * inicializamos el atributo chartCode
+	   * y le asignamos el valor  ASCII de la letra A
 	     */
 	    readableStream.chartCode = 65
 	    /**
-	     * manejamos el stream de lectura y le asignamos
-	     * un stream de salida por pantalla
+	   * manejamos el stream de lectura y le asignamos
+	   * un stream de salida por pantalla
 	     */
 	    readableStream.pipe(process.stdout)
 	    
 	```
 
-* **Sebastian** (8)
+* **Sebastian** (8) [775595](https://platzi.com/comentario/775595/) 
 
-	
 	jajajajja NaN NaN Batman!!! Batman!! la mejor parte de la clase
 
-* **David Behar** (4)
+* **David Behar** (4) [786243](https://platzi.com/comentario/786243/) 
 
-	
 	Si les cuesta trabajo entender el **`process.stdout`** , cuando corremos un programa en consola tenemos 3 outputs posibles
 	
-	  * standard input (stdin)
-	  * standard output (stdout)
-	  * standard error (stderr)  
+	* standard input (stdin)
+	* standard output (stdout)
+	* standard error (stderr)  
 	.  
 	El output es lo que mostramos en consola  
 	el input es el argumento que le damos al programa, todo lo que sigue al `programa.js`  
@@ -3925,133 +3721,114 @@ Recuerda que tienen estos eventos porque los heredan de la clase **EventEmitter*
 	    
 	```
 
-* **heysoypaez** (4)
+* **heysoypaez** (4) [710157](https://platzi.com/comentario/710157/) 
 
-	
 	Usó el número 90 porque ese es el código ASCII de la Z, la última letra del abecedario.
 	
 	Acá hay varios códigos ASCII por si alguno andaba perdido:  
 	<https://ascii.cl/>
 
-* **PaoloTorregrosa** (2)
+* **PaoloTorregrosa** (2) [897260](https://platzi.com/comentario/897260/) 
 
-	
 	Si como yo tuvieron problemas entendiendo esta clase, les dejo una buena info (si manejan ingles) sobre [streams de node](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/) espero les sea útil :3
 
-	* **Maximo Martinez Soria** (2)
+	* **Maximo Martinez Soria** [897260] (2)
 
-		
 		Wow es una explicación increiblemente parecida a la de este curso jajaja
 
-* **Harold Velasquez Barona** (2)
+* **Harold Velasquez Barona** (2) [785661](https://platzi.com/comentario/785661/) 
 
-	
 	No entendí para que el size si nunca lo usa?
 
-	* **Juan Carlos García Esquivel** (5)
+	* **Juan Carlos García Esquivel** [785661] (5)
 
-		
 		cuando se crea un stream se puede definir el tamaño (size) del buffer, este tamaño representa el número de bytes que el buffer puede almacenar, esto lo puedes utilizar cuando tienes un tamaño de memoria limitado y quieres asegurarte que el buffer no sobrepasen un tamaño que perjudique tu servidor, esto no se menciona en el video pero este size se define en el constructor (el método `read(size)`) del readable stream, este parámetro es opcional y por defecto es de **16kb** para un readable stream normal y de **64kb** para un readable stream del fs.
 		
 		Espero haberte ayudado, por si no me explique bien acá te dejo un enlace con mas info del size [Read size](https://nodejs.org/api/stream.html#stream_readable_read_size)
 
-* **Diego Artiles** (2)
+* **Diego Artiles** (2) [754925](https://platzi.com/comentario/754925/) 
 
-	
 	Podrían hacer un curso de NestJS, el framework con arquitectura similar a Angular para NodeJS?
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [754925] (1)
 
-		
 		¿Nextjs?  
 		Hay un curso ya en Platzi  
 		[Nextjs](https://platzi.com/clases/next-js/)
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [754925] (1)
 
-		
 		A lo confundí con Next, se parecen los nombres.  
 		No conocía ese framework.  
 		Siempre he trabajado con Express que me parece sencillo
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [710164](https://platzi.com/comentario/710164/) 
 
-	
 	Esto me recuerda mucho a la clase de terminal.
 	
 	El pipe en terminal es este signo " | " , en la terminal el std_out , es el output que manda cuando ingresamos un comando. El std_in por lógica el input que le enviamos en los comandos.
 	
 	¿Nodejs y los servidores en general son una capa de abstración sobre bash?
 
-	* **glrodasz** (2)
+	* **glrodasz** [710164] (2)
 
-		
 		bash es solo un tipo de prompt de la terminal, la terminal en si es una interfaz del sistema operativo.
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699932](https://platzi.com/comentario/699932/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/readable-y-writable-streams/learning-node>
 
-* **mafevito** (2)
+* **mafevito** (2) [73279](https://platzi.com/comentario/831666/) 
 ¿En que casos se hace uso de los streams Readable y Writable ?
 
-	* **glrodasz** (1)
+	* **glrodasz** [73279] (1)
 
-		
 		Creo que la clase responde esa pregunta. 😉Pero una aplicación real por ejemplo, es la manera como esta construida Express, así las peticiones HTTP pueden manejar largos set de datos sin sobrecargar la memoria del servidor.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1084080](https://platzi.com/comentario/1084080/) 
 
-	
 	Aquí la lista de ASCII CODE!  
 	<https://ascii.cl/>
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [965624](https://platzi.com/comentario/965624/) 
 
-	
 	Todos los streams son instancias de EventEmitter.
 
-* **Alfredo Gonzalez** (1)
+* **Alfredo Gonzalez** (1) [862691](https://platzi.com/comentario/862691/) 
 
-	
 	Eventos de streams
 
-* **Matias Sebastian Perez** (1)
+* **Matias Sebastian Perez** (1) [856984](https://platzi.com/comentario/856984/) 
 
-	
 	No entiendo porque al asignar el `readableStream.currentCharcode = 65` es cuando se ejecuta el metodo `read` que implementamos en el constructor del Readable stream
 
-	* **René Felipe Ramírez Barrera** (1)
+	* **René Felipe Ramírez Barrera** [856984] (1)
 
-		
 		`readableStream.currentCharCode = 65` define el Charcode para la letra “A”
 
-	* **asismelgarejo** (1)
+	* **asismelgarejo** [856984] (1)
 
-		
 		Es la manera de asignar valor a la variable de la clase.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68198](https://platzi.com/comentario/736534/) 
 ¿Poque se repite si no se ha definido un ciclo o un interval?
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [68198] (3)
 
-		
 		Se repite por la forma interna en la que trabajan los Streams, en este caso el **Readable es un Stream** y tiene que leer algo, lo que hacemos con el push es mandar datos al buffer para ser leídos y después ligado al stdout de nuestra terminal para ser impresos.
 		
 		Una vez que push es llamado el Stream va a seguir leyendo del buffer hasta que reciba null, aquí es donde sucede el “loop”. Lee un poco más sobre [Streams](https://nodejs-es.github.io/api/stream.html#stream_es_streams) y lo entenderás sin problema.
 
-## 0110. Duplex y Transforms streams
+## 0110. Duplex y Transforms streams [22020](https://platzi.com/clases/1646-backend-nodejs/22020-duplex-y-transforms-streams/)
 
 ### Descripción:
 
 
 Ambos sirven para simplificar nuestro código:
 
-  * **Duplex:** implementa los métodos write y read a la vez.
-  * **Transform:** es similar a Duplex pero con una sintaxis más corta.
+* **Duplex:** implementa los métodos write y read a la vez.
+* **Transform:** es similar a Duplex pero con una sintaxis más corta.
 
 
 
@@ -4061,9 +3838,8 @@ Ambos sirven para simplificar nuestro código:
 
 ### Comentarios:
 
-* **Victor Martin Ortiz Palacio** (5)
+* **Victor Martin Ortiz Palacio** (5) [704152](https://platzi.com/comentario/704152/) 
 
-	
 	Challenge: utilizando el codigo visto en clase.
 	``` 
 	    const { Transform } = require("stream");
@@ -4083,9 +3859,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **Victor Martin Ortiz Palacio** (1)
+	* **Victor Martin Ortiz Palacio** [704152] (1)
 
-		
 		Codigo corregido:
 		``` 
 		    const { Transform } = require("stream");
@@ -4110,18 +3885,17 @@ Ambos sirven para simplificar nuestro código:
 		
 		Esta web <https://jsperf.com/js-camelcase/5> me sirvio mucho, no solo para ver los distintos casos, sino tambien para saber cual puede ser la mas optima.
 
-* **Juan Carlos García Esquivel** (4)
+* **Juan Carlos García Esquivel** (4) [789786](https://platzi.com/comentario/789786/) 
 
-	
 	El propósito de tener distintos tipos de streams no solo es simplificar el código, tienen pequeñas diferencias en su objetivo.
 	
 	**Tipos de streams**  
 	Hay cuatro tipos fundamentales de streams en Node.js
 	
-	  * Writable: streams en los que los datos pueden ser escritos.
-	  * Readable: streams en los que los datos pueden ser leídos.
-	  * Duplex: streams que pueden ser leídos y escritos.
-	  * Transform: Duplex streams que pueden modificar o transformar los datos cuando son escritos o leídos.
+	* Writable: streams en los que los datos pueden ser escritos.
+	* Readable: streams en los que los datos pueden ser leídos.
+	* Duplex: streams que pueden ser leídos y escritos.
+	* Transform: Duplex streams que pueden modificar o transformar los datos cuando son escritos o leídos.
 	
 	
 	
@@ -4130,7 +3904,7 @@ Ambos sirven para simplificar nuestro código:
 	    const { Transform } = require('stream')
 	    
 	    /** ingresa un string y convierte el primer
-	     * carácter a mayúscula
+	   * carácter a mayúscula
 	     */
 	    const upperFirst = text => {
 	      //obtiene primer letra y convierte a mayúscula
@@ -4150,10 +3924,10 @@ Ambos sirven para simplificar nuestro código:
 	        //array separado por espacio en blanco
 	        const arrayChunk = lowerChunk.split(' ')
 	        /**
-	         * creación de un nuevo array con camelCase
-	         * si  i (index) es 0 se retorna la primer
-	         * palabra sin cambios, si no se cambia la
-	         * primer letra de la palabra a mayúscula
+	       * creación de un nuevo array con camelCase
+	       * si  i (index) es 0 se retorna la primer
+	       * palabra sin cambios, si no se cambia la
+	       * primer letra de la palabra a mayúscula
 	         */
 	        const arrayCamel = arrayChunk.map((word,i)=>{
 	          return i === 0 ? word : upperFirst(word)
@@ -4203,17 +3977,15 @@ Ambos sirven para simplificar nuestro código:
 	
 	se puede optimizar más pero no se vería bien en este cuadrito de los aportes, esto lo hago con la finalidad de ayudar un poco a entender el código a los que no entienden muy bien 😃.
 
-* **Steven Benjamín Diaz Flores** (3)
+* **Steven Benjamín Diaz Flores** (3) [720355](https://platzi.com/comentario/720355/) 
 
-	
 	Un poco de información extra que me ayudo a comprender mejor los Streams [node-js-streams-everything-you-need-to-know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/)
 
-	* **beaps** (2)
+	* **beaps** [720355] (2)
 
-		
 		Gracias!! 😄
 
-* **Kevin Rodolfo cosio sanchez** (3)
+* **Kevin Rodolfo cosio sanchez** (3) [712952](https://platzi.com/comentario/712952/) 
 
 	```
 	    const {Transform} = require('stream');
@@ -4239,14 +4011,12 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **Steven Benjamín Diaz Flores** (2)
+	* **Steven Benjamín Diaz Flores** [712952] (2)
 
-		
 		Muy buena solución !
 
-* **Manuel Ojeda** (3)
+* **Manuel Ojeda** (3) [712530](https://platzi.com/comentario/712530/) 
 
-	
 	Aquí está mi solución, nada extraño y haciendo uso de código normal:
 	
 	![CapitalizeJs.png](https://static.platzi.com/media/user_upload/CapitalizeJs-6fd37b1f-6bc0-480f-a283-2367f15d4704.jpg)
@@ -4254,9 +4024,8 @@ Ambos sirven para simplificar nuestro código:
 	Evidencia:  
 	![ConEmu64_VNMrHNX1Es.png](https://static.platzi.com/media/user_upload/ConEmu64_VNMrHNX1Es-321813e2-41ad-42bc-b6cc-2042034d013d.jpg)
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1084278](https://platzi.com/comentario/1084278/) 
 
-	
 	My code!
 	``` 
 	    const { Transform } = require('stream');
@@ -4282,9 +4051,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Ernesto Vizcaíno Alvarado** (2)
+* **Ernesto Vizcaíno Alvarado** (2) [1055709](https://platzi.com/comentario/1055709/) 
 
-	
 	**Mi solución al reto**
 	``` 
 	    const { Transform } = require("stream")
@@ -4312,9 +4080,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **José Abdiel Ortega Vázquez** (2)
+* **José Abdiel Ortega Vázquez** (2) [1008176](https://platzi.com/comentario/1008176/) 
 
-	
 	Reto hecho:
 	``` 
 	    const { Transform } = require('stream');
@@ -4345,9 +4112,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Alver Ortega** (2)
+* **Alver Ortega** (2) [1001876](https://platzi.com/comentario/1001876/) 
 
-	
 	el reto:
 	``` 
 	    const { Transform } = require("stream");
@@ -4369,7 +4135,7 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **seiro** (2)
+* **seiro** (2) [984962](https://platzi.com/comentario/984962/) 
 
 	```
 	    const { Transform } = require('stream');
@@ -4398,7 +4164,7 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Juan Franco** (2)
+* **Juan Franco** (2) [911549](https://platzi.com/comentario/911549/) 
 
 	```
 	    const { Transform } = require("stream");
@@ -4415,9 +4181,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Matias Sebastian Perez** (2)
+* **Matias Sebastian Perez** (2) [857142](https://platzi.com/comentario/857142/) 
 
-	
 	Mi solucionn:
 	``` 
 	    const { Transform } = require('stream');
@@ -4438,9 +4203,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [826556](https://platzi.com/comentario/826556/) 
 
-	
 	Challenge:
 	``` 
 	    const { Transform } = require('stream');
@@ -4465,9 +4229,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **AMILKAR CRUZ HERBAS** (2)
+* **AMILKAR CRUZ HERBAS** (2) [820566](https://platzi.com/comentario/820566/) 
 
-	
 	Mi solucion al reto:
 	``` 
 	    const { Transform } = require('stream');
@@ -4489,9 +4252,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **wilson_romero** (2)
+* **wilson_romero** (2) [787850](https://platzi.com/comentario/787850/) 
 
-	
 	Mi solución
 	``` 
 	    const { Transform } = require('stream');
@@ -4515,14 +4277,12 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [787850] (1)
 
-		
 		cool, me gusto la solución.
 
-* **Fernando Azuaje** (2)
+* **Fernando Azuaje** (2) [723333](https://platzi.com/comentario/723333/) 
 
-	
 	mi solucion:
 	``` 
 	    const { Transform } = require('stream')
@@ -4545,15 +4305,14 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Steven Benjamín Diaz Flores** (2)
+* **Steven Benjamín Diaz Flores** (2) [720530](https://platzi.com/comentario/720530/) 
 
-	
 	Reto: convertir texto cualquiera a CamelCase  
 	Resultado: hola amigos como estan => HolaAmigosComoEstan
 	
 	![solutionWritableStream.png](https://static.platzi.com/media/user_upload/solutionWritableStream-5dd4e7f7-f322-4ffc-a132-08562fbabe0e.jpg)
 
-* **juanfar** (2)
+* **juanfar** (2) [718258](https://platzi.com/comentario/718258/) 
 
 	```
 	    const { Transform } = require("stream");
@@ -4572,9 +4331,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Gaston Caldera** (2)
+* **Gaston Caldera** (2) [712081](https://platzi.com/comentario/712081/) 
 
-	
 	😃 un poco noobster pero ahi vamos
 	``` 
 	    <'use strict'
@@ -4592,9 +4350,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [711622](https://platzi.com/comentario/711622/) 
 
-	
 	Muchacho ahi dejo mi solución al reto y me lógica en un comentario !!!  
 	Escucho aportes
 	``` 
@@ -4651,9 +4408,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **ocandoja** (1)
+* **ocandoja** (1) [1103164](https://platzi.com/comentario/1103164/) 
 
-	
 	Aquí esta mi idea
 	``` 
 	    const { Transform } = require('stream');
@@ -4670,9 +4426,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **ThAlan** (1)
+* **ThAlan** (1) [1103058](https://platzi.com/comentario/1103058/) 
 
-	
 	Mi respuesta al reto.
 	``` 
 	    const { Transform } = require('stream');
@@ -4701,14 +4456,12 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **pndafran** (1)
+* **pndafran** (1) [1096645](https://platzi.com/comentario/1096645/) 
 
-	
 	Mi Reto
 
-* **pndafran** (1)
+* **pndafran** (1) [1096644](https://platzi.com/comentario/1096644/) 
 
-	
 	const { Transform } = require(“stream”);
 	
 	function CamelCase(string) {  
@@ -4732,9 +4485,8 @@ Ambos sirven para simplificar nuestro código:
 	
 	process.stdin.pipe(transformStream).pipe(process.stdout)
 
-* **lgfh** (1)
+* **lgfh** (1) [1085208](https://platzi.com/comentario/1085208/) 
 
-	
 	creo que la ultima linea deberia ser asi:
 	``` 
 	    duplexStream.pipe(duplexStream);
@@ -4743,14 +4495,12 @@ Ambos sirven para simplificar nuestro código:
 	
 	para que se ejecute el metodo write del mismo duplex 😃
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1084128](https://platzi.com/comentario/1084128/) 
 
-	
 	transform
 
-* **Carlos Vallejo** (1)
+* **Carlos Vallejo** (1) [1040263](https://platzi.com/comentario/1040263/) 
 
-	
 	Solución al reto:
 	``` 
 	    const { Transform } = require('stream');
@@ -4773,9 +4523,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Diego Camino** (1)
+* **Diego Camino** (1) [1038823](https://platzi.com/comentario/1038823/) 
 
-	
 	La solución al reto:
 	``` 
 	    // Transform es muy similar a Duplex, solo que la sintaxis es mucho más reducida
@@ -4800,7 +4549,7 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Miguel Ángel Muñoz Pozos** (1)
+* **Miguel Ángel Muñoz Pozos** (1) [1037018](https://platzi.com/comentario/1037018/) 
 
 	```
 	    const {
@@ -4826,9 +4575,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Marco Antonio Benites Espinoza** (1)
+* **Marco Antonio Benites Espinoza** (1) [1014384](https://platzi.com/comentario/1014384/) 
 
-	
 	Reto realizado:
 	``` 
 	    const { Transform } = require("stream");
@@ -4856,7 +4604,7 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Armando Duarte Quiñones** (1)
+* **Armando Duarte Quiñones** (1) [985500](https://platzi.com/comentario/985500/) 
 
 	```
 	    const { Transform } = require('stream')
@@ -4885,9 +4633,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Jaime Gonzalez** (1)
+* **Jaime Gonzalez** (1) [985475](https://platzi.com/comentario/985475/) 
 
-	
 	El reto 😃
 	``` 
 	    const { Transform } = require('stream');
@@ -4914,9 +4661,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [966014](https://platzi.com/comentario/966014/) 
 
-	
 	Mi solución:
 	``` 
 	    const { Transform } = require('stream');
@@ -4945,9 +4691,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Romel Javier Gomez Herrera** (1)
+* **Romel Javier Gomez Herrera** (1) [962686](https://platzi.com/comentario/962686/) 
 
-	
 	El reto…
 	``` 
 	    const { Transform } = require("stream");
@@ -4969,9 +4714,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **jnapalynch** (1)
+* **jnapalynch** (1) [948088](https://platzi.com/comentario/948088/) 
 
-	
 	Mi solución del reto 😄
 	``` 
 	    const { Duplex } = require('stream');
@@ -4994,9 +4738,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **ApolloAu** (1)
+* **ApolloAu** (1) [937721](https://platzi.com/comentario/937721/) 
 
-	
 	Mi version reducida
 	``` 
 	    const { Transform } = require("stream");
@@ -5023,13 +4766,12 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **ApolloAu** (1)
+* **ApolloAu** (1) [937711](https://platzi.com/comentario/937711/) 
 
-	
 	Esta es mi version, me gustarian que la testeen, trate de cubrir diferentes posibilidades de strings para que siempre te devuelva una cadena camelCase.
 	
-	  * Espacios al Principio de la Cadena
-	  * Escribir en mayusculas.
+	* Espacios al Principio de la Cadena
+	* Escribir en mayusculas.
 	
 	
 	
@@ -5066,9 +4808,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **nova12** (1)
+* **nova12** (1) [937320](https://platzi.com/comentario/937320/) 
 
-	
 	mi solucion del reto:
 	``` 
 	    const { Transform } =require('stream')
@@ -5090,16 +4831,14 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **ApolloAu** (1)
+	* **ApolloAu** [937320] (1)
 
-		
 		Probe tu codigo, pero no devuelve lo que debería devolver,  
 		te dejo un link a que es la escritura camel case.  
 		<https://es.wikipedia.org/wiki/Camel_case>
 
-* **Roso Peñaranda** (1)
+* **Roso Peñaranda** (1) [930674](https://platzi.com/comentario/930674/) 
 
-	
 	mi respuesta al reto:
 	``` 
 	    const { Transform } = require("stream");
@@ -5127,9 +4866,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Vicalex96** (1)
+* **Vicalex96** (1) [928445](https://platzi.com/comentario/928445/) 
 
-	
 	aquí tengo una forma sencilla de pasar una frase a formato Camel
 	``` 
 	    <const{Transform} = require('stream')
@@ -5146,14 +4884,13 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **ApolloAu** (1)
+	* **ApolloAu** [928445] (1)
 
-		
 		Probe tu codigo, pero no devuelve lo que debería devolver,  
 		te dejo un link a que es la escritura camel case.  
 		<https://es.wikipedia.org/wiki/Camel_case>
 
-* **Santa Karina Madre de Dios** (1)
+* **Santa Karina Madre de Dios** (1) [928121](https://platzi.com/comentario/928121/) 
 
 	```
 	    const transformStream = new Transform({
@@ -5195,12 +4932,11 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **ApolloAu** (1)
+	* **ApolloAu** [928121] (1)
 
-		
 		Me encanta como lo resolviste y que hayas validado diferentes tipos de cadenas, solo que entiendo que camelCase no lleva espacios entre las palabras
 
-* **jdpo2008** (1)
+* **jdpo2008** (1) [898219](https://platzi.com/comentario/898219/) 
 
 	```
 	    const {
@@ -5221,9 +4957,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [887702](https://platzi.com/comentario/887702/) 
 
-	
 	Mi solución, cortita:
 	``` 
 	    const { Transform } = require('stream');
@@ -5241,9 +4976,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **pablopoggiog** (1)
+* **pablopoggiog** (1) [884635](https://platzi.com/comentario/884635/) 
 
-	
 	Mi solucion:
 	``` 
 	    const {Transform} = require('stream');
@@ -5277,16 +5011,14 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **oscar-leon846** (1)
+* **oscar-leon846** (1) [882875](https://platzi.com/comentario/882875/) 
 
-	
 	de la documentacion de NodeJs  
 	**Duplex **Streams son streams que implementan las interfaces Readable and Writeable  
 	**Transform** Stream son duplex en donde la salida (output) en alguna forma esta relacionada con la entrada y al igual que duplex, tambien implementan las clases Readable and Writeable
 
-* **cristofers530** (1)
+* **cristofers530** (1) [866278](https://platzi.com/comentario/866278/) 
 
-	
 	Aqui mi solucion, un poco larga pero funciona
 	``` 
 	    const {Transform} = require('stream')
@@ -5331,9 +5063,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Massimo Di Berardino** (1)
+* **Massimo Di Berardino** (1) [861913](https://platzi.com/comentario/861913/) 
 
-	
 	Challenge accepted
 	``` 
 	    const toCamelCase = (str) => {
@@ -5352,9 +5083,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **René Felipe Ramírez Barrera** (1)
+* **René Felipe Ramírez Barrera** (1) [860038](https://platzi.com/comentario/860038/) 
 
-	
 	Mi solución:
 	``` 
 	    const { Transform } = require("stream");
@@ -5379,9 +5109,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [842198](https://platzi.com/comentario/842198/) 
 
-	
 	Eta fue mi solución 😃
 	``` 
 	    const { Transform } = require('stream')
@@ -5406,9 +5135,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [841072](https://platzi.com/comentario/841072/) 
 
-	
 	MI solución al reto
 	``` 
 	    const { Transform } = require('stream');
@@ -5433,20 +5161,17 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [839953](https://platzi.com/comentario/839953/) 
 
-	
 	Es de mucha ayuda repasar la clase de Streams del curso de terminal y linea de comandos del profesor Beco
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [839900](https://platzi.com/comentario/839900/) 
 
-	
 	Les dejo esta lectura para comprender más sobre los streams  
 	<https://desarrolloweb.com/articulos/streams-nodejs.html>
 
-* **Erick Leao Pérez Medina** (1)
+* **Erick Leao Pérez Medina** (1) [820375](https://platzi.com/comentario/820375/) 
 
-	
 	Aquí mi solución al reto:
 	
 	camelCase.js
@@ -5479,9 +5204,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **stephencatano** (1)
+* **stephencatano** (1) [812506](https://platzi.com/comentario/812506/) 
 
-	
 	Mi solución:
 	``` 
 	    const { Transform } = require('stream')
@@ -5501,7 +5225,7 @@ Ambos sirven para simplificar nuestro código:
 	    de antemano gracias!
 	```
 
-* **4mjaimes** (1)
+* **4mjaimes** (1) [804825](https://platzi.com/comentario/804825/) 
 
 	```
 	    const { Transform } = require('stream');
@@ -5525,9 +5249,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Edward Orlando Hurtado** (1)
+* **Edward Orlando Hurtado** (1) [793969](https://platzi.com/comentario/793969/) 
 
-	
 	Aca mi reto:
 	``` 
 	    const { Duplex } = require('stream');
@@ -5559,9 +5282,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [787472](https://platzi.com/comentario/787472/) 
 
-	
 	Mi solución transforma una frase a UpperCamelCase y lowerCamelcase
 	``` 
 	    const { Transform } = require('stream');
@@ -5585,9 +5307,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **baenacc** (1)
+* **baenacc** (1) [786910](https://platzi.com/comentario/786910/) 
 
-	
 	Reto Reto!
 	``` 
 	    const { Transform } = require("stream");
@@ -5617,9 +5338,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-	* **Rodrigo Ortiz Moreno** (1)
+	* **Rodrigo Ortiz Moreno** [786910] (1)
 
-		
 		Me gusta tu solucion, pero creo que deberias primero convertirlo todo a lower case y luego si aplicar la transformacion
 		``` 
 		    const { Transform } = require("stream");
@@ -5646,9 +5366,8 @@ Ambos sirven para simplificar nuestro código:
 		    
 		```
 
-* **David Behar** (1)
+* **David Behar** (1) [786502](https://platzi.com/comentario/786502/) 
 
-	
 	Acá el reto
 	``` 
 	    const { Transform } = require('stream');
@@ -5684,9 +5403,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **ngmartinezs** (1)
+* **ngmartinezs** (1) [785006](https://platzi.com/comentario/785006/) 
 
-	
 	Mi aporte
 	
 	const {Transform} = require(‘stream’);
@@ -5711,7 +5429,7 @@ Ambos sirven para simplificar nuestro código:
 	
 	process.stdin.pipe(transformStream).pipe(process.stdout);
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [784980](https://platzi.com/comentario/784980/) 
 
 	```
 	    const { Transform } = require("stream");
@@ -5733,7 +5451,7 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **pepitofriki** (1)
+* **pepitofriki** (1) [784196](https://platzi.com/comentario/784196/) 
 
 	```
 	    const {Transform} = require('stream')
@@ -5754,9 +5472,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Erik Ricardo Sánchez Pérez** (1)
+* **Erik Ricardo Sánchez Pérez** (1) [784195](https://platzi.com/comentario/784195/) 
 
-	
 	Esta muy interesante esto de los streams con node 😎
 	``` 
 	    const { Transform } = require("stream");
@@ -5777,9 +5494,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [784188](https://platzi.com/comentario/784188/) 
 
-	
 	Hola, esta es mi solución al reto:
 	``` 
 	    const { Transform } = require('stream');
@@ -5814,9 +5530,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **solej77** (1)
+* **solej77** (1) [783883](https://platzi.com/comentario/783883/) 
 
-	
 	Un reto muy divertido, Coool!!
 	``` 
 	    const { Transform } = require('stream');
@@ -5852,9 +5567,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [782482](https://platzi.com/comentario/782482/) 
 
-	
 	**Respuesta al reto**
 	``` 
 	    const { Writable } = require('stream')
@@ -5881,9 +5595,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **SKILLON** (1)
+* **SKILLON** (1) [779134](https://platzi.com/comentario/779134/) 
 
-	
 	No tan elegante como por palabras pero divertida igual jajaja
 	``` 
 	    const {Transform}=require('stream');
@@ -5913,17 +5626,15 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **jasanhdz** (1)
+* **jasanhdz** (1) [768368](https://platzi.com/comentario/768368/) 
 
-	
 	Les dejo mis notas que me apoyaron en el aprendizaje del curso 😄  
 	<https://github.com/JasanHdz/backendnodejs/tree/master/notes>  
 	No se rindan, éxito 💪  
 	_**Mis mejores notas**_ ⭐⭐⭐⭐⭐
 
-* **Nicolas Pereyra** (1)
+* **Nicolas Pereyra** (1) [762794](https://platzi.com/comentario/762794/) 
 
-	
 	Mi Solucion
 	``` 
 	    const { Transform } = require('stream');
@@ -5949,9 +5660,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Jeison Vargas** (1)
+* **Jeison Vargas** (1) [750964](https://platzi.com/comentario/750964/) 
 
-	
 	Mi reto
 	``` 
 	    const { Transform } = require("stream");
@@ -5976,24 +5686,22 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Gabriel De Andrade (Platzi)** (1)
+* **Gabriel De Andrade (Platzi)** (1) [750568](https://platzi.com/comentario/750568/) 
 
-	
 	Mi solución:  
 	![carbon.png](https://static.platzi.com/media/user_upload/carbon-4825d7b1-9e1e-4c8f-8423-8585203a45de.jpg)
 
-* **Ernesto Palafox** (1)
+* **Ernesto Palafox** (1) [745491](https://platzi.com/comentario/745491/) 
 
-	
 	Mi solución usando reduce
 	``` 
 	    const { Transform } = require('stream')
 	    
 	    /*
-	    * Recibe una cadena de texto y la traduce a
-	    * camelCase usando streams
-	    * @param {array} - Array of words
-	    * @return {string} - textoEnCamelCase
+	  * Recibe una cadena de texto y la traduce a
+	  * camelCase usando streams
+	  * @param {array} - Array of words
+	  * @return {string} - textoEnCamelCase
 	    */
 	    functiontoCamelCase (arrayOfWords) {
 	      return arrayOfWords.reduce((accum, word) => {
@@ -6014,19 +5722,16 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Sebastian Cardoso Castillo** (1)
+* **Sebastian Cardoso Castillo** (1) [744296](https://platzi.com/comentario/744296/) 
 
-	
 	Estas clases son geniales!
 
-* **JUAN SILVA** (1)
+* **JUAN SILVA** (1) [739232](https://platzi.com/comentario/739232/) 
 
-	
 	script del tranforms
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [736615](https://platzi.com/comentario/736615/) 
 
-	
 	Mi solución
 	``` 
 	    const { Transform } = require("stream");
@@ -6048,16 +5753,14 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **carlos-bolivar** (1)
+* **carlos-bolivar** (1) [736392](https://platzi.com/comentario/736392/) 
 
-	
 	Recuerden usar el metodo toLowerCase(), de javascript para convertir el resto de la palabra en minuscula, ya que si colocas toda la palabra en letras mayusculas, retornara todas las letras de la palabra en cuestion en mayusculas.
 	
 	Esto lo acoto por el hecho de que he visto en los retos colocados por los compañeros, que algunos no lo aplicaron, es una recomendacion 😄!! Excelente curso hasta ahora!
 
-* **carlos-bolivar** (1)
+* **carlos-bolivar** (1) [736380](https://platzi.com/comentario/736380/) 
 
-	
 	Mi solucion al reto!
 	``` 
 	    const { Transform } = require('stream');
@@ -6085,7 +5788,7 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **Daniel Herrera** (1)
+* **Daniel Herrera** (1) [734004](https://platzi.com/comentario/734004/) 
 
 	```
 	    const { Transform } = require('stream');
@@ -6102,13 +5805,12 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **danielsanz (Platzi)** (1)
+* **danielsanz (Platzi)** (1) [699933](https://platzi.com/comentario/699933/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/duplex-y-transforms-streams>
 
-* **Daniel Cappelletti** (0)
+* **Daniel Cappelletti** (0) [1099604](https://platzi.com/comentario/1099604/) 
 
 	```
 	    const { Transform } = require("stream");
@@ -6137,9 +5839,8 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-* **sistemasChozas** (0)
+* **sistemasChozas** (0) [963114](https://platzi.com/comentario/963114/) 
 
-	
 	mi solucion :
 	``` 
 	    const { Transform } = require("stream");
@@ -6165,17 +5866,17 @@ Ambos sirven para simplificar nuestro código:
 	    
 	```
 
-# Uso de utilidades de Node.js
+# Uso de utilidades de Node.js [4413]
 
-## 0120. Sistema operativo y sistema de archivos
+## 0120. Sistema operativo y sistema de archivos [22021](https://platzi.com/clases/1646-backend-nodejs/22021-sistema-operativo-y-sistema-de-archivos/)
 
 ### Descripción:
 
 
 En esta clase vemos dos módulos básicos:
 
-  * **os**. Sirve para consultar y manejar los recursos del sistema operativo.
-  * **fs**. Sirve para administrar (copiar, crear, borrar etc.) archivos y directorios.
+* **os**. Sirve para consultar y manejar los recursos del sistema operativo.
+* **fs**. Sirve para administrar (copiar, crear, borrar etc.) archivos y directorios.
 
 
 
@@ -6189,26 +5890,22 @@ Los métodos contenidos en estos módulos (y en todo Node.js) funcionan de forma
 
 ### Comentarios:
 
-* **Sebastian Cardoso Castillo** (10)
+* **Sebastian Cardoso Castillo** (10) [744299](https://platzi.com/comentario/744299/) 
 
-	
 	En la versión 12.10 de Node me interpreta **undefined** en el objeto _os.networkInterfaces().en0_  
 	Mirando la doc solo acepta **lo** o **eth0**. En mi casa estoy conectado con Wifi así me quedo así:  
 	![CodeScreen1.png](https://static.platzi.com/media/user_upload/CodeScreen1-836fde53-ddeb-4f0c-8a3c-3c37b5c96a24.jpg)
 
-	* **Hebert de León** (1)
+	* **Hebert de León** [744299] (1)
 
-		
 		¡Gracias! 😮
 
-* **danielsanz (Platzi)** (8)
+* **danielsanz (Platzi)** (8) [699936](https://platzi.com/comentario/699936/) 
 
-	
 	Repositorio de la clase: <https://github.com/glrodasz/platzi-backend-node/tree/administrar-directorios-y-archivos>
 
-* **Massimo Di Berardino** (3)
+* **Massimo Di Berardino** (3) [862007](https://platzi.com/comentario/862007/) 
 
-	
 	Para windows pueden hacer primero hacen
 	``` 
 	    console.log('IP address', os.networkInterfaces());
@@ -6221,101 +5918,87 @@ Los métodos contenidos en estos módulos (y en todo Node.js) funcionan de forma
 	    
 	```
 
-* **daulisg** (2)
+* **daulisg** (2) [1013927](https://platzi.com/comentario/1013927/) 
 
-	
 	Aqui les dejo un** npm** package que les ayudara con el display/La muestra de los logs [Chalk](https://www.npmjs.com/package/chalk)
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1013927] (1)
 
-		
 		Gracias por el aporte!
 
-	* **pndafran** (1)
+	* **pndafran** [1013927] (1)
 
-		
 		Gracias
 
-* **rusbel bermúdez rivera** (2)
+* **rusbel bermúdez rivera** (2) [842367](https://platzi.com/comentario/842367/) 
 
-	
 	process.argv argumentos en vector, tiene los siguientes items
 	
 	[0] Node /usr/bin/node  
 	[1] Path  
 	[2] Nombre del archivo ejecutando
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1084368](https://platzi.com/comentario/1084368/) 
 
-	
 	sacar las líneas de un archivo con async
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1084330](https://platzi.com/comentario/1084330/) 
 
-	
 	leer canción
 
-* **daniel-zurita** (1)
+* **daniel-zurita** (1) [998708](https://platzi.com/comentario/998708/) 
 
-	
 	Para interfaces WiFi en windows.
 	``` 
 	    console.log("IP addres", os.networkInterfaces().WiFi.map(i => i.address));
 	    
 	```
 
-* **Betty Rossana Jimenez Cedeño** (1)
+* **Betty Rossana Jimenez Cedeño** (1) [977360](https://platzi.com/comentario/977360/) 
 
-	
 	En linux, pude encontrar la info de la ip y mac
 	``` 
 	    console.log("IP address", os.networkInterfaces().wlp2s0.map(i => i.address));```
 	    
 	```
 
-* **Luis Miguel Rodriguez** (1)
+* **Luis Miguel Rodriguez** (1) [843249](https://platzi.com/comentario/843249/) 
 
-	
 	Memoria disponible en gigas
 	``` 
 	    console.log("Free memory ", (((os.freemem() / 1024) / 1024) / 1024).toFixed(2), "gb"); ```
 	    
 	```
 
-* **Sebastian** (1)
+* **Sebastian** (1) [775668](https://platzi.com/comentario/775668/) 
 
-	
 	Hola gente, estoy trabajando en Windows cuando quiero obtener el ip del os la propiedad lo, eth0 me dan undefined, estoy usando la version 10 de node.
 
-	* **edwintrumpet** (2)
+	* **edwintrumpet** [775668] (2)
 
-		
 		Yo estoy en Linux y me pasó lo mismo, puede quitarle esa parte y dejar solo que le muestre las interfaces y ver cuales tiene
 		``` 
 		    console.log('IP adress', os.networkInterfaces())
 		    
 		```
 
-	* **raulfbgomez** (1)
+	* **raulfbgomez** [775668] (1)
 
-		
 		Si usan Windows abran el CMD y escriban `ipconfig` y les apareceran las interfaces que tienen disponibles y en Linux escriban `ifconfig` normalmente las interfaces wifi aparecen como wlan o wl0
 
-	* **jagallego** (2)
+	* **jagallego** [775668] (2)
 
-		
 		para windows Os
 		``` 
 		    console.log('IP Address', os.networkInterfaces().Ethernet.map(i => i.address));
 		    
 		```
 
-* **oqodigital** (1)
+* **oqodigital** (1) [70773](https://platzi.com/comentario/782075/) 
 No me funciona, me dice: console.log(“IP address”, os.networkInterfaces().lo.map(i => address)); ^ TypeError: Cannot read property ‘ma...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [70773] (1)
 
-		
 		¡Hola!
 		
 		Creo que tienes mal escrito el código. Intenta con este:
@@ -6324,55 +6007,48 @@ No me funciona, me dice: console.log(“IP address”, os.networkInterfaces().lo
 		    
 		```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68203](https://platzi.com/comentario/736674/) 
 Es correcto declararlo así fs.readFile("naranja.txt", (err, content) => { if (err) { return console.log(err); } const...
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [68203] (2)
 
-		
 		Sí, ese código te funciona para contar lineas, sólo toma en cuenta que si el documento tiene un salto de linea al final también será contabilizado.
 
-## 0130. Administrar directorios y archivos
+## 0130. Administrar directorios y archivos [22022](https://platzi.com/clases/1646-backend-nodejs/22022-administrar-directorios-y-archivos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Victor Martin Ortiz Palacio** (6)
+* **Victor Martin Ortiz Palacio** (6) [752165](https://platzi.com/comentario/752165/) 
 
-	
 	Un ejemplo de lo que comenta Guillermo al final de la clase, sobre pasar los archivos por parametro.
 	
 	![directotios_archivos.jpg](https://static.platzi.com/media/user_upload/directotios_archivos-9b7bf53a-d813-4822-aff2-106be59e77f6.jpg)
 
-* **Gtiseira** (4)
+* **Gtiseira** (4) [1003359](https://platzi.com/comentario/1003359/) 
 
-	
 	Que mundo enorme es NodeJS. La verdad me encanta pero habra que practicar practicar, leer y leer-
 
-* **Hebert de León** (3)
+* **Hebert de León** (3) [748231](https://platzi.com/comentario/748231/) 
 
-	
 	Si no les funciona el mkdir con múltiples subcarpetas, asegúrense de tener una versión de NodeJS actualizada.
 
-	* **Sofia Nupieri** (1)
+	* **Sofia Nupieri** [748231] (1)
 
-		
 		Gracias!
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699939](https://platzi.com/comentario/699939/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/administrar-directorios-y-archivos>
 
-* **Aram Ceballos Gonzalez** (2)
+* **Aram Ceballos Gonzalez** (2) [754719](https://platzi.com/comentario/754719/) 
 
-	
 	Para borrar archivos pueden usar el metodo ‘unlink’ de fs pasandole como primer parametro el archivo que desean borrar y como segundo parametro un callback
 
-* **nova12** (1)
+* **nova12** (1) [948929](https://platzi.com/comentario/948929/) 
 
 	```
 	    const fs=require("fs")
@@ -6387,9 +6063,8 @@ Es correcto declararlo así fs.readFile("naranja.txt", (err, content) => { if (e
 	    
 	```
 
-* **pablopoggiog** (1)
+* **pablopoggiog** (1) [885143](https://platzi.com/comentario/885143/) 
 
-	
 	Pasados los vectores como parametros en el comando de ejecucion:
 	``` 
 	    const fs = require('fs');
@@ -6407,34 +6082,30 @@ Es correcto declararlo así fs.readFile("naranja.txt", (err, content) => { if (e
 	    
 	```
 
-* **Sebastian Cardoso Castillo** (1)
+* **Sebastian Cardoso Castillo** (1) [744305](https://platzi.com/comentario/744305/) 
 
-	
 	Con arrow function quedaría asi:
 	``` 
 	    fs.copyFile('naranja.txt', 'limon.txt', err => console.log(err))
 	    
 	```
 
-* **JUAN SILVA** (1)
+* **JUAN SILVA** (1) [739437](https://platzi.com/comentario/739437/) 
 
-	
 	MkDir script
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [736714](https://platzi.com/comentario/736714/) 
 
-	
 	una clase importante para crear directorios y copiar archivos con fechas y nombres específicos. (como lo hace wordpress cuando publicas una imagen)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68204](https://platzi.com/comentario/736689/) 
 Me pregunto si es necesario crear esa constante files, o basta con solo invocar el metodo readdir
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [68204] (1)
 
-		
 		Sí se puede omitir, en este caso al ser una función asíncrona los valores de retorno los obtenemos en la función callback.
 
-## 0140. Consola, utilidades y debugging
+## 0140. Consola, utilidades y debugging [22023](https://platzi.com/clases/1646-backend-nodejs/22023-consola-utilidades-y-debugging/)
 
 ### Descripción:
 
@@ -6451,23 +6122,22 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (11)
+* **Juan Carlos García Esquivel** (11) [791081](https://platzi.com/comentario/791081/) 
 
-	
 	El módulo útil esta diseñado para resolver las necesidades internas de las API de Node, sin embargo muchas de estas utilidades también son útiles para los módulos de las aplicaciones en desarrollo. Se puede acceder a estas utilidades usando:  
 	`const util = require('util');`
 	
 	**util.format()**  
 	El método util.format () devuelve una cadena formateada utilizando el primer argumento como una cadena de formato tipo printf que puede contener cero o más especificadores de formato. Cada especificador se reemplaza con el valor convertido del argumento correspondiente. Los especificadores compatibles son:
 	
-	  * %s - String
-	  * %d - Number
-	  * %i - parseInt(value, 10)
-	  * %f - parseFloat(value)
-	  * %j - JSON
-	  * %o - Object
-	  * %c - Css
-	  * %% - signo de '%'  
+	* %s - String
+	* %d - Number
+	* %i - parseInt(value, 10)
+	* %f - parseFloat(value)
+	* %j - JSON
+	* %o - Object
+	* %c - Css
+	* %% - signo de '%'  
 	**Inspector**  
 	cuando se inicia la inspección `--inspect`, Node escucha a un cliente de depuración , Por defecto escuchara el host y el puerto `127.0.0.1:9229` y a cada proceso se le asigna un id único.  
 	**Opciones de la línea de comandos**  
@@ -6522,29 +6192,24 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	**output**  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-96668d2f-ae5e-443a-ad9c-0e269dda8945.jpg)
 
-* **Ernesto Palafox** (5)
+* **Ernesto Palafox** (5) [745837](https://platzi.com/comentario/745837/) 
 
-	
 	Mi solución: ![](https://i.imgur.com/2tWuiBM.png)
 
-	* **Ernesto Palafox** (2)
+	* **Ernesto Palafox** [745837] (2)
 
-		
 		Se ve así: ![](https://i.imgur.com/VtnkiUX.png)
 
-	* **pabloverduzcos** (1)
+	* **pabloverduzcos** [745837] (1)
 
-		
 		¡Bien ahi dev 😊!
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [745837] (1)
 
-		
 		Pero no lo estas creando a partir de la clase Console o si??
 
-* **Marco Antonio Benites Espinoza** (3)
+* **Marco Antonio Benites Espinoza** (3) [1028219](https://platzi.com/comentario/1028219/) 
 
-	
 	Reto:
 	``` 
 	    const miConsola = newconsole.Console(process.stdout, process.stderr);
@@ -6569,9 +6234,8 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	
 	![](https://i.ibb.co/XSpm1tB/Screenshot-1.png)
 
-* **José Abdiel Ortega Vázquez** (3)
+* **José Abdiel Ortega Vázquez** (3) [1010493](https://platzi.com/comentario/1010493/) 
 
-	
 	Mi consola 😉:
 	``` 
 	    const consoleFile = newconsole.Console(out, err);
@@ -6614,9 +6278,8 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	    
 	```
 
-* **Miguel Angel** (3)
+* **Miguel Angel** (3) [919260](https://platzi.com/comentario/919260/) 
 
-	
 	Reto
 	``` 
 	    const fs = require('fs')
@@ -6654,20 +6317,17 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	
 	![console.png](https://static.platzi.com/media/user_upload/console-cb307525-6c2d-4c5c-aadb-acb29758801a.jpg)
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699940](https://platzi.com/comentario/699940/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/consola-utilidades-y-debugging>
 
-* **Alfredo Gonzalez** (2)
+* **Alfredo Gonzalez** (2) [866290](https://platzi.com/comentario/866290/) 
 
-	
 	![](![Screen Shot 2019-12-15 at 18.42.37.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-12-15%20at%2018.42.37-1f11e906-73b2-4e3b-ab03-462583e877a2.jpg)
 
-* **Erik Ricardo Sánchez Pérez** (2)
+* **Erik Ricardo Sánchez Pérez** (2) [784906](https://platzi.com/comentario/784906/) 
 
-	
 	Ahora si que me pasó algo bien curioso pero me ayudó a entender más lo que hemos venido viendo.
 	
 	![Screen Shot 2019-10-16 at 22.47.11.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-10-16%20at%2022.47.11-64d75b1c-55cb-4d9b-9462-d494301d15ba.jpg)
@@ -6713,21 +6373,18 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	
 	![Screen Shot 2019-10-16 at 22.57.47.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-10-16%20at%2022.57.47-59be5f1b-375c-4b9a-a77d-c26d21da5248.jpg)
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [784906] (1)
 
-		
 		Estoy tratando de correr tu codigo para observarlo pero no hace nada
 
-	* **Erik Ricardo Sánchez Pérez** (1)
+	* **Erik Ricardo Sánchez Pérez** [784906] (1)
 
-		
 		al parecer al copiar el código se pegan cosas como `newDate` y marca error, dejo un gist
 		
 		<https://gist.github.com/eriksape/e231ab86d3d5830a7e5676cbeaad66a7>
 
-* **Jhonatan Saúl Maco Leysequía** (1)
+* **Jhonatan Saúl Maco Leysequía** (1) [1117700](https://platzi.com/comentario/1117700/) 
 
-	
 	Reto:
 	``` 
 	    const consoleAux = newconsole.Console(process.stdout, process.stderr);
@@ -6778,9 +6435,8 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	Resultado en consola:  
 	![consolareto.jpg](https://static.platzi.com/media/user_upload/consolareto-b8030568-e8ad-4a23-bc92-0973df524da6.jpg)
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088410](https://platzi.com/comentario/1088410/) 
 
-	
 	Un poco largo, pero ahi esta!
 	``` 
 	    const _console = newconsole.Console(process.stdout, process.stderr);
@@ -6829,7 +6485,7 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	    
 	```
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1088410] (1)
 
 		```
 		    [nodemon] starting `node reto-console.js`
@@ -6845,33 +6501,28 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 		    
 		```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088367](https://platzi.com/comentario/1088367/) 
 
-	
 	Usar node -- inspect scritp.js
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088353](https://platzi.com/comentario/1088353/) 
 
-	
 	placeholders para formatear nuestros datos
 	
 	%s = string  
 	%d = número  
 	%j = json
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088348](https://platzi.com/comentario/1088348/) 
 
-	
 	console-utils.js
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [842578](https://platzi.com/comentario/842578/) 
 
-	
 	Esta parte del curso me ha gustado mucho, me agrada mucho node, y la parte de os, en python hay utilidades muy similares, y es sencillo hacer transferencia de conocimiento entre ambos lenguajes
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [827287](https://platzi.com/comentario/827287/) 
 
-	
 	Reto:
 	
 	![output.png](https://static.platzi.com/media/user_upload/output-b0bfa4ad-42a1-44c7-9a64-924665fc41ea.jpg)
@@ -6980,24 +6631,20 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	customConsole.warn(‘Este es un mensaje de Advertencia’, { save: true });  
 	[customConsole.info](http://customConsole.info)(‘Este es un mensaje de Informacion’, { save: true });`
 
-	* **Sofia Nupieri** (1)
+	* **Sofia Nupieri** [827287] (1)
 
-		
 		Por que esa manera de declarar colores? A mi no me funciona
 
-* **mauricio garcia** (1)
+* **mauricio garcia** (1) [787523](https://platzi.com/comentario/787523/) 
 
-	
 	Explica como utilizar el debugging con > node --inspect file.js
 
-* **David Behar** (1)
+* **David Behar** (1) [786937](https://platzi.com/comentario/786937/) 
 
-	
 	## Amé el `--inspect`
 
-* **David Behar** (1)
+* **David Behar** (1) [786909](https://platzi.com/comentario/786909/) 
 
-	
 	Acá un ejemplo con el api randomuser
 	``` 
 	    const fs = require('fs');
@@ -7033,31 +6680,28 @@ Me pregunto si es necesario crear esa constante files, o basta con solo invocar 
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [86111](https://platzi.com/comentario/1088351/) 
 placeholders para formatear nuestros datos %s = string %d = número %j = json 
 
-	* **glrodasz** (1)
+	* **glrodasz** [86111] (1)
 
-		
 		¡Excelente aporte!
 
-* **cristofers530** (1)
+* **cristofers530** (1) [75319](https://platzi.com/comentario/867926/) 
 tengo un problema, mi terminal no reconoce el NODE_DEBUG como una variable de entorno, sino como un comando (y evidentem...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [75319] (1)
 
-		
 		Hola! Estas usando la terminal `zsh` que instalamos en el [Curso de Prework](https://platzi.com/clases/prework/)?
 
-* **David Behar** (1)
+* **David Behar** (1) [70978](https://platzi.com/comentario/786942/) 
 Está muy cool el --inspect, pero no puedo acceder a ninguna de las variables, ¿cómo le hago?
 
-	* **glrodasz** (1)
+	* **glrodasz** [70978] (1)
 
-		
 		Podrias darme un ejemplo más especifico respecto a lo que no puedes acceder a las variables.
 
-## 0150. Clusters y procesos hijos
+## 0150. Clusters y procesos hijos [22024](https://platzi.com/clases/1646-backend-nodejs/22024-clusters-y-procesos-hijos/)
 
 ### Descripción:
 
@@ -7119,82 +6763,68 @@ En Windows, todavía no es posible establecer un nombre de proceso server en un 
 
 ### Comentarios:
 
-* **Nadir Antonio Soza Solis** (6)
+* **Nadir Antonio Soza Solis** (6) [743316](https://platzi.com/comentario/743316/) 
 
-	
 	Muy poca información en esta clase, de cualquier forma podemos ir a la segura en la documentación oficial (Node/Cluster)[<https://nodejs.org/api/cluster.html>]
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [743316] (1)
 
-		
 		Gracias !!
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [736989](https://platzi.com/comentario/736989/) 
 
-	
 	Según la lógica del código, puedo entender que si no hay un cluster maestro se crea el servidor HTTP. pero en que momento se repite el código. Ya que un if-else es uno u otro pero no ambos.
 
-	* **Erik Ricardo Sánchez Pérez** (2)
+	* **Erik Ricardo Sánchez Pérez** [736989] (2)
 
-		
 		Por lo que entiendo el fork genera el mismo proceso pero ya no es maestro si no un worker. Te puedes dar cuanta por los logs que pone en el ejemplo. Así que básicamente el primero entra en modo maestro y los forks en modo worker 🤔
 
-	* **Rafael Andrés Cisneros Corro** (3)
+	* **Rafael Andrés Cisneros Corro** [736989] (3)
 
-		
 		Cada vez que se crea un proceso hijo con cluster.fork, se ejecuta todo el codigo desde el principio, con la diferencia de que cluster.isMaster es false. En este caso el proceso principal se encarga de crear los procesos hijos, y cada proceso hijo crea un servidor http.
 
-* **oscar-leon846** (3)
+* **oscar-leon846** (3) [884963](https://platzi.com/comentario/884963/) 
 
-	
 	el metodo cluster.fork(), lo que hace, segun la documentacion de node, aparece un nuevo proceso de la app, es como si hubieras ejecutado " node server.js " pero este codigo ya no se ejecuta como master, si no como proceso hijo
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [884963] (1)
 
-		
 		Ok muy buen aporte!
 
-* **Maximo Martinez Soria** (2)
+* **Maximo Martinez Soria** (2) [919159](https://platzi.com/comentario/919159/) 
 
-	
 	Esto se divide los procesos a ejecutar entre los distintos nucleos disponibles automáticamente? o nosotros tenemos que decirle que hacer en cada uno?
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [919159] (1)
 
-		
 		Me gustaria saber la respuesta!
 
-* **Julio J Yépez** (1)
+* **Julio J Yépez** (1) [790036](https://platzi.com/comentario/790036/) 
 
-	
 	Yo diría que el clustering en NodeJS es una alternativa interesante para garantizar la atención de peticiones concurrentes y sacar el máximo provecho al hardware (cantidad de núcleos) del servidor. Otra alternativa que he usado sería ejecutar las aplicaciones con PM2 o algún otro process manager, que también cuentan con opciones de clusterización o forking de procesos.
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [783166](https://platzi.com/comentario/783166/) 
 
-	
 	Sería bueno saber en qué situaciones es recomendable usar el cluster, porque por lo que vi en el _Curso de Esenciales de Node_ que dictó Emir Salazar no necesariamente mejora el rendimiento sino que pueden ocasionar todo lo contrario.
 
-* **heysoypaez** (1)
+* **heysoypaez** (1) [715623](https://platzi.com/comentario/715623/) 
 
-	
 	¿ Entonces, el uso de clusters nos permitirá que los archivos que requeramos ejecutar en nuestro servidor en NodeJs cargué en múltiples procesos ?
 	
 	En la práctica lo que nos permite es mejorar el rendimiento, ¿No?
 
-	* **pabloverduzcos** (1)
+	* **pabloverduzcos** [715623] (1)
 
-		
 		Justamente, es la pregunta que tengo 🤔…
 
-	* **edwintrumpet** (3)
+	* **edwintrumpet** [715623] (3)
 
-		
 		Según lo que vi en el curso de esenciales de Node no necesariamente mejora el rendimiento, ya que la redirección hacia los workers también ocupa un procesamiento y puede que sea mayor que lo que pueden mejorar con procesamiento en paralelo.  
 		La verdad todavía no he entendido en qué casos es bueno usar clusters pero al final del curso de esenciales de node se ve que no necesariamente mejoran el rendimiento.
 
-# Crea tu primer proyecto en Express.js
+# Crea tu primer proyecto en Express.js [4414]
 
-## 0160. ¿Qué es Express.js y para qué sirve
+## 0160. ¿Qué es Express.js y para qué sirve [22025](https://platzi.com/clases/1646-backend-nodejs/22025-que-es-expressjs-y-para-que-sirve/)
 
 ### Descripción:
 
@@ -7211,43 +6841,38 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 
 ### Comentarios:
 
-* **jasanhdz** (17)
+* **jasanhdz** (17) [768369](https://platzi.com/comentario/768369/) 
 
-	
 	Les dejo mis notas que me apoyaron en el aprendizaje del curso 😄  
 	<https://github.com/JasanHdz/backendnodejs/tree/master/notes>  
 	No se rindan, éxito 💪  
 	_**Mis mejores notas**_ ⭐⭐⭐⭐⭐
 
-	* **franciscohreyes** (1)
+	* **franciscohreyes** [768369] (1)
 
-		
 		.
 
-	* **Andres Leonardo Arevalo** (1)
+	* **Andres Leonardo Arevalo** [768369] (1)
 
-		
 		Como haces tus notas asi, me puedes indicar por favor 😃
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [768369] (1)
 
-		
 		Excelente
 
-* **Ricardo Lugo Recillas** (3)
+* **Ricardo Lugo Recillas** (3) [743240](https://platzi.com/comentario/743240/) 
 
-	
 	caracteristicas
 	
-	  * minimalista
-	  * template engines
-	  * routing (uso de expreciones regulares)
-	  * middlewares
-	  * plugins
+	* minimalista
+	* template engines
+	* routing (uso de expreciones regulares)
+	* middlewares
+	* plugins
 	
 	
 
-## 0170. Creando tu primer servidor con Express.js
+## 0170. Creando tu primer servidor con Express.js [22026](https://platzi.com/clases/1646-backend-nodejs/22026-creando-tu-primer-servidor-con-expressjs/)
 
 ### Descripción:
 
@@ -7260,9 +6885,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 
 ### Comentarios:
 
-* **Favio Sauto** (30)
+* **Favio Sauto** (30) [709278](https://platzi.com/comentario/709278/) 
 
-	
 	Para los que usan Windows y no les funciona el script cuando lo tienen de esta forma:
 	``` 
 	    "dev": "DEBUG=app:* nodemon index"
@@ -7275,47 +6899,39 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-	* **Manuel Ojeda** (4)
+	* **Manuel Ojeda** [709278] (4)
 
-		
 		Sos un héroe sin capa!
 
-	* **IngridSagrero** (2)
+	* **IngridSagrero** [709278] (2)
 
-		
 		Gracias, eso me funcionó!!!
 
-	* **diegocruz** (2)
+	* **diegocruz** [709278] (2)
 
-		
 		Gracias funciono
 
-	* **Juan Carlos García Esquivel** (2)
+	* **Juan Carlos García Esquivel** [709278] (2)
 
-		
 		Gracias
 
-	* **Jemd** (2)
+	* **Jemd** [709278] (2)
 
-		
 		Heroeeeeeeeeeeeee!
 
-	* **JUAN SILVA** (2)
+	* **JUAN SILVA** [709278] (2)
 
-		
 		para los que no les funciona en Windows… acepten la realidad e instalen ubuntu jajajaja
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [709278] (1)
 
-		
 		@juanchopatrik  
 		Muchas veces por no tener la disponibilidad nos vamos a lo nativo de Windows, el cual ya es una buena plataforma de desarrollo y no hay muchas complicaciones de uso como ambiente de desarrollo.
 		
 		Ya está en el dev si utiliza Linux, Windows o Mac.
 
-* **Kevin Rodolfo cosio sanchez** (10)
+* **Kevin Rodolfo cosio sanchez** (10) [713145](https://platzi.com/comentario/713145/) 
 
-	
 	Configuracion .eslintrc.json
 	``` 
 	    {
@@ -7338,9 +6954,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **Hebert de León** (7)
+* **Hebert de León** (7) [749918](https://platzi.com/comentario/749918/) 
 
-	
 	En Windows es diferente la parte de los Scripts de package.json
 	``` 
 	    "dev": "set DEBUG=app:*&& nodemon index"
@@ -7348,30 +6963,25 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **cristofers530** (6)
+* **cristofers530** (6) [869144](https://platzi.com/comentario/869144/) 
 
-	
 	si estan en windows y la consola le salta error ‘porque no reconoce a DEBUG=app:*’, coloquen ‘**set **DEBUG=app…’ y de paso tambien tienen que usar **&** antes de nodemon index
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [869144] (1)
 
-		
 		Gracias, me ayudó un montón esto.
 
-	* **Carlos Vallejo** (1)
+	* **Carlos Vallejo** [869144] (1)
 
-		
 		Perfecto, muchas gracias!
 
-* **Gabriel De Andrade (Platzi)** (4)
+* **Gabriel De Andrade (Platzi)** (4) [767414](https://platzi.com/comentario/767414/) 
 
-	
 	Mi solución:  
 	![carbon \(1\).png](https://static.platzi.com/media/user_upload/carbon%20%281%29-c840e178-4d36-436f-bef2-ee645224e6a9.jpg)
 
-* **Jesus Dario** (3)
+* **Jesus Dario** (3) [891337](https://platzi.com/comentario/891337/) 
 
-	
 	Para crear los scripts del package.json en windows se deben separar los comandos con &
 	``` 
 	    "scripts": {
@@ -7381,14 +6991,12 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-	* **jandrey** (1)
+	* **jandrey** [891337] (1)
 
-		
 		Tmabién puedes usar cross-env
 
-* **Juan Carlos García Esquivel** (3)
+* **Juan Carlos García Esquivel** (3) [791962](https://platzi.com/comentario/791962/) 
 
-	
 	 **dotenv**  
 	Es un módulo independiente que carga variables de entorno de un archivo .env en process.env.  
 	`npm i express dotenv`
@@ -7415,10 +7023,10 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    });
 	    
 	    /**
-	     * The year is leap year if
-	     * first - it is divisible by 4
-	     * second - it is not divisible by 100
-	     * third - or it is divisible by 400
+	   * The year is leap year if
+	   * first - it is divisible by 4
+	   * second - it is not divisible by 100
+	   * third - or it is divisible by 400
 	     */
 	    app.get('/:year', (request, response) => {
 	      const { year } = request.params;
@@ -7437,9 +7045,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **Erik Ricardo Sánchez Pérez** (3)
+* **Erik Ricardo Sánchez Pérez** (3) [784975](https://platzi.com/comentario/784975/) 
 
-	
 	😎
 	``` 
 	    const express = require('express')
@@ -7462,15 +7069,13 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699944](https://platzi.com/comentario/699944/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/creando-tu-primer-servidor-con-expressjs>
 
-* **Carlos Vallejo** (2)
+* **Carlos Vallejo** (2) [1076529](https://platzi.com/comentario/1076529/) 
 
-	
 	Para mi solución al reto, utilicé un módulo de npm llamado _leap-year_ que me dice si es o no es bisiesto. Y para la respuesta apliqué un if ternario:
 	``` 
 	    npm install -D leap-year
@@ -7486,9 +7091,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **nova12** (2)
+* **nova12** (2) [950430](https://platzi.com/comentario/950430/) 
 
-	
 	aqui les comparto mi solucion
 	``` 
 	    app.get('/is_leap_year', function(req, res) {
@@ -7506,9 +7110,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **PaoloTorregrosa** (2)
+* **PaoloTorregrosa** (2) [900855](https://platzi.com/comentario/900855/) 
 
-	
 	Mi solucion al reto :3
 	``` 
 	    app.get("/year/:year", function(req, res) {
@@ -7525,7 +7128,7 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **cristofers530** (2)
+* **cristofers530** (2) [869183](https://platzi.com/comentario/869183/) 
 
 	```
 	    const express = require('express');
@@ -7564,9 +7167,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **edwintrumpet** (2)
+* **edwintrumpet** (2) [783600](https://platzi.com/comentario/783600/) 
 
-	
 	**Respuesta al reto**
 	``` 
 	    const express = require('express')
@@ -7598,7 +7200,7 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **Ernesto Palafox** (2)
+* **Ernesto Palafox** (2) [746025](https://platzi.com/comentario/746025/) 
 
 	```
 	    app.get('/year/:year', function (req, res) {
@@ -7613,9 +7215,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **Sebastian Cardoso Castillo** (2)
+* **Sebastian Cardoso Castillo** (2) [744310](https://platzi.com/comentario/744310/) 
 
-	
 	Servidor de express al mínimo:
 	``` 
 	    const express = require('express')
@@ -7627,9 +7228,8 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **ThAlan** (2)
+* **ThAlan** (2) [742127](https://platzi.com/comentario/742127/) 
 
-	
 	Reto.
 	``` 
 	    const express = require('express')
@@ -7646,7 +7246,7 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **JUAN SILVA** (2)
+* **JUAN SILVA** (2) [740843](https://platzi.com/comentario/740843/) 
 
 	```
 	    <code>const express = require('express');
@@ -7678,12 +7278,11 @@ Los Middlewares interceptan el request y el response para ejecutar una acción e
 	    
 	```
 
-* **Luis Miguel gonzalez** (2)
+* **Luis Miguel gonzalez** (2) [74160](https://platzi.com/comentario/847639/) 
 Tengo problemas para installar el npx mrm lint-staged, ando programando en windows y el error que me sale es el siguiente: Agradeceria d...
 
-	* **glrodasz** (1)
+	* **glrodasz** [74160] (1)
 
-		
 		Yo revisaría dos cosas:
 		
 		  1. Que tengas Node.js y NPM instalados de manera correcta y no dependan de los permisos del administrador. Quizás puedas intentar usar nvm para windows: <https://github.com/coreybutler/nvm-windows>
@@ -7693,15 +7292,14 @@ Tengo problemas para installar el npx mrm lint-staged, ando programando en windo
 		
 		
 
-* **SKILLON** (2)
+* **SKILLON** (2) [70905](https://platzi.com/comentario/785080/) 
 Un saludo, estoy programando en windows y al correr el npm run dev no me reconoce DEBUG, luego probé haciendo un nodemon index directo y ...
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [70905] (3)
 
-		
 		¡Hola! Para usar el comando **`nodemon`** desde tu consola debes tenerlo instalado globalmente. ¿Puedes mostrarnos tu **`package.json`** y el error o resultado que te muestra la consola al ejecutar los _scripts_?
 
-* **Juan Carlos Pinzón** (1)
+* **Juan Carlos Pinzón** (1) [1114256](https://platzi.com/comentario/1114256/) 
 
 	```
 	    app.get('/leap-year/:year', function(req, res) {
@@ -7712,7 +7310,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **pndafran** (1)
+* **pndafran** (1) [1108964](https://platzi.com/comentario/1108964/) 
 
 	```
 	    const express = require('express');
@@ -7735,7 +7333,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **ocandoja** (1)
+* **ocandoja** (1) [1105326](https://platzi.com/comentario/1105326/) 
 
 	```
 	    const express = require('express');
@@ -7758,9 +7356,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088489](https://platzi.com/comentario/1088489/) 
 
-	
 	my code!!
 	``` 
 	    const express = require('express');
@@ -7784,29 +7381,24 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088463](https://platzi.com/comentario/1088463/) 
 
-	
 	plug-in relative path
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088443](https://platzi.com/comentario/1088443/) 
 
-	
 	instalar npx mrm lint-staged
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088440](https://platzi.com/comentario/1088440/) 
 
-	
 	Dependencias de desarrollo npm i -D nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088437](https://platzi.com/comentario/1088437/) 
 
-	
 	Installer express y dotenv
 
-* **David Lara Chirinos** (1)
+* **David Lara Chirinos** (1) [1083505](https://platzi.com/comentario/1083505/) 
 
-	
 	Le dejo mi solucion,
 	
 	  1. descargar npm i -D is-leap-year
@@ -7843,9 +7435,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Carlos Vallejo** (1)
+* **Carlos Vallejo** (1) [1076500](https://platzi.com/comentario/1076500/) 
 
-	
 	Si tienen un error de
 	``` 
 	    "DEBUG"nose reconoce como un comando interno o externo,
@@ -7854,9 +7445,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	
 	Un compañero dejó la solución a esto [aquí](https://platzi.com/comentario/869144/)
 
-* **Diego Camino** (1)
+* **Diego Camino** (1) [1039255](https://platzi.com/comentario/1039255/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    const express = require("express");
@@ -7885,9 +7475,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Marco Antonio Benites Espinoza** (1)
+* **Marco Antonio Benites Espinoza** (1) [1028454](https://platzi.com/comentario/1028454/) 
 
-	
 	Reto:
 	``` 
 	    const express = require('express');
@@ -7915,9 +7504,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **mrcMesen** (1)
+* **mrcMesen** (1) [1024013](https://platzi.com/comentario/1024013/) 
 
-	
 	Les dejo mis apuntes en caso de que les sirva  
 	Adicional los que usen windows puede que el run dev no les sirva, pueden poner npx antes de nodemon y listo
 	``` 
@@ -7982,9 +7570,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **juan-d-martin** (1)
+* **juan-d-martin** (1) [1008726](https://platzi.com/comentario/1008726/) 
 
-	
 	Mi reto:
 	``` 
 	    app.get('/year/:year', (req, res) => {
@@ -8002,9 +7589,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Alver Ortega** (1)
+* **Alver Ortega** (1) [1002173](https://platzi.com/comentario/1002173/) 
 
-	
 	Mi reto:
 	``` 
 	    app.get('/year/:year', function (req, res) {
@@ -8018,9 +7604,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **daniel-zurita** (1)
+* **daniel-zurita** (1) [999453](https://platzi.com/comentario/999453/) 
 
-	
 	antes de ver las respuestas elegantes, lo hice así
 	``` 
 	    app.get('/year/:year', function(req, res) {
@@ -8035,7 +7620,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **seiro** (1)
+* **seiro** (1) [988176](https://platzi.com/comentario/988176/) 
 
 	```
 	    app.get('/bisiesto/:year', function (req, res) {
@@ -8051,17 +7636,15 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Alvaro Ruben Hurtado Maldonado** (1)
+* **Alvaro Ruben Hurtado Maldonado** (1) [983153](https://platzi.com/comentario/983153/) 
 
-	
 	¿Cómo se llama el módulo para encontrar la ruta relativa? es una extensión de visual studio code no?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [983153] (1)
 
-		
 		[Relative path](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) 😄
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [967522](https://platzi.com/comentario/967522/) 
 
 	```
 	             __
@@ -8072,21 +7655,18 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Jesus Dario** (1)
+* **Jesus Dario** (1) [928313](https://platzi.com/comentario/928313/) 
 
-	
 	Me quedo una duda, cuando en el package.json se configura el entorno de produccion “NODE_ENV” = production node index,.
 	
 	cuando se refiere a NODE_ENV esta es una variable de entorno que se creara en el despliegue?
 
-	* **jandrey** (1)
+	* **jandrey** [928313] (1)
 
-		
 		Si es una variable de entorno que se crea al ejercutar el script npm start
 
-* **Diego Felipe Garcia Cortes** (1)
+* **Diego Felipe Garcia Cortes** (1) [922359](https://platzi.com/comentario/922359/) 
 
-	
 	Quisas otra forma…
 	``` 
 	    app.get('/year/:year', (req, res) => {
@@ -8096,7 +7676,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **idmc3010** (1)
+* **idmc3010** (1) [910093](https://platzi.com/comentario/910093/) 
 
 	```
 	    app.get('/anio/:anio', function(req, res) {
@@ -8113,7 +7693,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **René Felipe Ramírez Barrera** (1)
+* **René Felipe Ramírez Barrera** (1) [890849](https://platzi.com/comentario/890849/) 
 
 	```
 	    app.post("/:year", function(req, res){
@@ -8124,7 +7704,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Leonardo Daniel Benitez Cuenca** (1)
+* **Leonardo Daniel Benitez Cuenca** (1) [884312](https://platzi.com/comentario/884312/) 
 
 	```
 	    app.get("/:year",(req, res)=>{
@@ -8139,9 +7719,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Brian Dennis Vega Hidalgo** (1)
+* **Brian Dennis Vega Hidalgo** (1) [858490](https://platzi.com/comentario/858490/) 
 
-	
 	La configuracion del eslint
 	``` 
 	    {
@@ -8161,9 +7740,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Luis Miguel gonzalez** (1)
+* **Luis Miguel gonzalez** (1) [849322](https://platzi.com/comentario/849322/) 
 
-	
 	Reto:
 	
 	Mi solución al reto
@@ -8210,9 +7788,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [846535](https://platzi.com/comentario/846535/) 
 
-	
 	Mi solución al reto, una variante mas larga era usar date (antes de tomar café)
 	``` 
 	    const express = require('express');
@@ -8238,9 +7815,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [829863](https://platzi.com/comentario/829863/) 
 
-	
 	Reto:
 	``` 
 	    const express = require('express');
@@ -8275,7 +7851,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **AlexGarrixen** (1)
+* **AlexGarrixen** (1) [825216](https://platzi.com/comentario/825216/) 
 
 	```
 	    functionisLeapYear(year) {
@@ -8297,9 +7873,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Erick Leao Pérez Medina** (1)
+* **Erick Leao Pérez Medina** (1) [823583](https://platzi.com/comentario/823583/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    const leapYear = year => {
@@ -8315,9 +7890,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **AMILKAR CRUZ HERBAS** (1)
+* **AMILKAR CRUZ HERBAS** (1) [821936](https://platzi.com/comentario/821936/) 
 
-	
 	Aqui mi solucion al reto:
 	``` 
 	    const bisiesto = year => {
@@ -8336,7 +7910,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [811536](https://platzi.com/comentario/811536/) 
 
 	```
 	    const express = require('express');
@@ -8385,9 +7959,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Manuel Silva Guevara** (1)
+* **Manuel Silva Guevara** (1) [807131](https://platzi.com/comentario/807131/) 
 
-	
 	Aquí el reto:
 	``` 
 	    const express = require('express');
@@ -8404,16 +7977,14 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Luis Daniel Caraballo** (1)
+* **Luis Daniel Caraballo** (1) [794532](https://platzi.com/comentario/794532/) 
 
-	
 	Reto:
 	
 	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-d9f02a8e-f8ff-47dc-836d-279c7c2c268d.jpg)
 
-* **David Behar** (1)
+* **David Behar** (1) [787806](https://platzi.com/comentario/787806/) 
 
-	
 	Anexo mi solución
 	``` 
 	    app.get('/year/:year', (req, res) => {
@@ -8431,9 +8002,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [787016](https://platzi.com/comentario/787016/) 
 
-	
 	Aquí una forma mas corta de hacer el reto
 	``` 
 	    app.get('/year/:year2', (req, res) => {
@@ -8446,7 +8016,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **AryRosvall** (1)
+* **AryRosvall** (1) [786290](https://platzi.com/comentario/786290/) 
 
 	```
 	    app.get('/:year', function(req, res){
@@ -8462,9 +8032,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **jasanhdz** (1)
+* **jasanhdz** (1) [753515](https://platzi.com/comentario/753515/) 
 
-	
 	Mi reto 😄
 	``` 
 	    const express = require('express');
@@ -8491,9 +8060,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Jeison Vargas** (1)
+* **Jeison Vargas** (1) [753201](https://platzi.com/comentario/753201/) 
 
-	
 	Mi reto:
 	``` 
 	    const express = require('express');
@@ -8516,7 +8084,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **pabloverduzcos** (1)
+* **pabloverduzcos** (1) [752687](https://platzi.com/comentario/752687/) 
 
 	```
 	    const express = require('express');
@@ -8536,9 +8104,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [752634](https://platzi.com/comentario/752634/) 
 
-	
 	Challenge:
 	``` 
 	    app.get('/bisiesto/:year', (req, res) => {
@@ -8555,7 +8122,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Daniel Herrera** (1)
+* **Daniel Herrera** (1) [751098](https://platzi.com/comentario/751098/) 
 
 	```
 	    // challenge
@@ -8576,19 +8143,16 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **eduardoluisgr** (1)
+* **eduardoluisgr** (1) [737999](https://platzi.com/comentario/737999/) 
 
-	
 	npx mrm lint-staged
 
-* **eduardoluisgr** (1)
+* **eduardoluisgr** (1) [737997](https://platzi.com/comentario/737997/) 
 
-	
 	npm i -D nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [737147](https://platzi.com/comentario/737147/) 
 
-	
 	Solución al reto
 	``` 
 	    app.get('/biciesto/:year', function(req, res) {
@@ -8602,9 +8166,8 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **ludwing_ra** (1)
+* **ludwing_ra** (1) [727594](https://platzi.com/comentario/727594/) 
 
-	
 	Reto:
 	``` 
 	    const express = require("express");
@@ -8633,19 +8196,16 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **Rigo Antonio Galicia Barrera** (1)
+* **Rigo Antonio Galicia Barrera** (1) [721272](https://platzi.com/comentario/721272/) 
 
-	
 	¿Es recomendable utilizar arrow functions en epress?
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [721272] (1)
 
-		
 		Vas a encontrar opiniones distintas. Cambia la forma de leer que a mi me parece mas simple.
 
-* **Kevin Rodolfo cosio sanchez** (1)
+* **Kevin Rodolfo cosio sanchez** (1) [713160](https://platzi.com/comentario/713160/) 
 
-	
 	Reto:
 	``` 
 	    const express = require('express');
@@ -8674,22 +8234,20 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 	    
 	```
 
-* **mafevito** (1)
+* **mafevito** (1) [73297](https://platzi.com/comentario/832002/) 
 ¿Qué significa formatear el código? Aun no entiendo el uso de Prettier
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [73297] (2)
 
-		
 		Formatear código es hacerlo legible cuando la línea de código super cierta cantidad de longitud y así hacerla más agradable a la lectura.
 		
 		Ese es el trabajo de Prettier para hacerlo automático. Lo irás entendiendo a medida que lo vayas usando.
 
-* **Hebert de León** (1)
+* **Hebert de León** (1) [68916](https://platzi.com/comentario/748361/) 
 ¿Qué significa eso de quemar un puerto? ¿Cuál es el riesgo? ¿Alguien me podría explicar? Por favor 😦 ¿Hay alguna documentación sobre eso?
 
-	* **Manuel Ojeda** (4)
+	* **Manuel Ojeda** [68916] (4)
 
-		
 		Con quemar se refiere a poner el puerto directamente en el código, por ejemplo:
 		``` 
 		    axios({
@@ -8715,7 +8273,7 @@ Un saludo, estoy programando en windows y al correr el npm run dev no me reconoc
 		    
 		```
 
-## 0180. Request y Response Objects
+## 0180. Request y Response Objects [22027](https://platzi.com/clases/1646-backend-nodejs/22027-request-y-response-objects/)
 
 ### Descripción:
 
@@ -8859,40 +8417,34 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 
 ### Comentarios:
 
-* **Jesús Miguel Quinto Teran** (5)
+* **Jesús Miguel Quinto Teran** (5) [829752](https://platzi.com/comentario/829752/) 
 
-	
 	Esta clase es realmente sencilla:
 	
 	El **request** trae todos los datos del cliente hacia el servidor (client => request => server).  
 	El **response** se usa para cargar la respuesta que se devuelve al cliente (server => response => client)
 
-* **Iraida Mercedes Barreto Díaz** (4)
+* **Iraida Mercedes Barreto Díaz** (4) [787794](https://platzi.com/comentario/787794/) 
 
-	
 	Uy, yo creo que esta sección amerita una explicación mejor. Creo que queda muy técnico y es muy fácil perderse en esta explicación. Además hablan de los middlware como si fuera un tema ya visto.
 
-* **wilantury** (3)
+* **wilantury** (3) [795142](https://platzi.com/comentario/795142/) 
 
-	
 	Estuve algunos videos adelante, y ahora repitiendo este contenido ya es mas claro todo.
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [795142] (1)
 
-		
 		yo igual y vaya que todo toma sentido ahora
 
-* **Javier Fuentes Mora** (2)
+* **Javier Fuentes Mora** (2) [786444](https://platzi.com/comentario/786444/) 
 
-	
 	Muy mal que esto se ponga como texto y no en un video explicándolo
 
-	* **Rene Ismael Barrios Rojas** (3)
+	* **Rene Ismael Barrios Rojas** [786444] (3)
 
-		
 		La verdad si, sin ánimo de ofender pero si es lectura la puedes hasta buscar en google, yo de igual manera preferiría ver un video, pero en fin.
 
-* **T-gold** (1)
+* **T-gold** (1) [1111550](https://platzi.com/comentario/1111550/) 
 
 	```
 	    app.get("/ano/:date" , (req,res)=>{
@@ -8907,12 +8459,11 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **ocandoja** (1)
+* **ocandoja** (1) [1106740](https://platzi.com/comentario/1106740/) 
 
-	
 	genial!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088491](https://platzi.com/comentario/1088491/) 
 
 	```
 	    const express = require('express');
@@ -8940,9 +8491,8 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **David Lara Chirinos** (1)
+* **David Lara Chirinos** (1) [1084141](https://platzi.com/comentario/1084141/) 
 
-	
 	Solo agregen el codigo al index y ejecutar en el navegado /bisieto/id(el anio)
 	``` 
 	    const express = require('express');
@@ -8981,9 +8531,8 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **nick** (1)
+* **nick** (1) [1000692](https://platzi.com/comentario/1000692/) 
 
-	
 	Reto:
 	``` 
 	    const express = require('express');
@@ -9019,7 +8568,7 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **Armando Duarte Quiñones** (1)
+* **Armando Duarte Quiñones** (1) [991392](https://platzi.com/comentario/991392/) 
 
 	```
 	    const express = require('express');
@@ -9043,7 +8592,7 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **johannpino** (1)
+* **johannpino** (1) [961572](https://platzi.com/comentario/961572/) 
 
 	```
 	    const express = require('express')
@@ -9074,7 +8623,7 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **Miguel Angel Martelo Quiroz** (1)
+* **Miguel Angel Martelo Quiroz** (1) [947876](https://platzi.com/comentario/947876/) 
 
 	```
 	    app.get('/bisiesto/:anio', (req, res) => {
@@ -9089,7 +8638,7 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **Jose Gustavo Pacheco Sanchez** (1)
+* **Jose Gustavo Pacheco Sanchez** (1) [945567](https://platzi.com/comentario/945567/) 
 
 	```
 	    const express = require('express');
@@ -9121,9 +8670,8 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **ApolloAu** (1)
+* **ApolloAu** (1) [939539](https://platzi.com/comentario/939539/) 
 
-	
 	mi version
 	``` 
 	    const express = require("express");
@@ -9155,9 +8703,8 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **Roso Peñaranda** (1)
+* **Roso Peñaranda** (1) [933304](https://platzi.com/comentario/933304/) 
 
-	
 	el código del reto:
 	``` 
 	    const express = require('express');
@@ -9184,25 +8731,22 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 	    
 	```
 
-* **Jesús Miguel Moreno Plasencia** (1)
+* **Jesús Miguel Moreno Plasencia** (1) [909579](https://platzi.com/comentario/909579/) 
 
-	
 	Este resumen me fue de mucha ayuda, al detallar cada uno de los métodos, que usan tanto el request y el response, hace que todo sea mas entendible, por el proceso que lleva el servidor.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [737076](https://platzi.com/comentario/737076/) 
 
-	
 	Es recomendable seguir usando ExpressJS o un Framework como Sails.JS
 
-	* **David Sanchez** (2)
+	* **David Sanchez** [737076] (2)
 
-		
 		Esta página muestran el estado de javascript tanto sus frameworks y librerias en front como en back en una muestra al rededor de 20,000 desarrolladores en javascript en diferentes cortes transversales, donde puedes ver que continua siendo bastante recomendable utilizar express ya que sigue siendo bastate utilizado, puede servirte para decidir. saludos  
 		<https://2018.stateofjs.com/back-end-frameworks/overview/>
 
-# Aprende a crear un API con REST
+# Aprende a crear un API con REST [4415]
 
-## 0190. Anatomía de una API Restful
+## 0190. Anatomía de una API Restful [22028](https://platzi.com/clases/1646-backend-nodejs/22028-anatomia-de-una-api-restful/)
 
 ### Descripción:
 
@@ -9211,11 +8755,11 @@ Envía una respuesta HTTP. El parámetro `body` puede ser un objeto tipo _Buffer
 
 Las peticiones HTTP van acompañadas de un “verbo” que define el tipo de petición:
 
-  * **GET**. Lectura de datos.
-  * **PUT**. Reemplazar datos.
-  * **PATCH**. Actualizar datos en un recurso específico.
-  * **POST**. Creación de datos.
-  * **DELETE**. Eliminación de datos.
+* **GET**. Lectura de datos.
+* **PUT**. Reemplazar datos.
+* **PATCH**. Actualizar datos en un recurso específico.
+* **POST**. Creación de datos.
+* **DELETE**. Eliminación de datos.
 
 
 
@@ -9231,78 +8775,66 @@ No es recomendable habilitar un endpoint de tipo PUT y DELETE para toda nuestra 
 
 ### Comentarios:
 
-* **Rene Ismael Barrios Rojas** (4)
+* **Rene Ismael Barrios Rojas** (4) [790063](https://platzi.com/comentario/790063/) 
 
-	
 	Delete jamás me ha tocado usarlo, o al menos a mi que me ha tocado manejar grandes cantidades de datos, al eliminar un dato se pierde la integridad de la DB, lo que se hace es hacer un borrado lógico además de mantener la relación en la auditoría.
 
-	* **Abraham Gonzalez** (2)
+	* **Abraham Gonzalez** [790063] (2)
 
-		
 		Buen punto, a veces es mejor colocar un IsActive para que solo “se oculte” (del lado de la lógica) , aunque se puede hacer borrado y no dañar las relaciones, recuerdas en ON DELETE CASCADE para sql.  
 		Saludos
 
-	* **Rene Ismael Barrios Rojas** (1)
+	* **Rene Ismael Barrios Rojas** [790063] (1)
 
-		
 		Bueno eso si, realmente no es mi fuerte el back end jaja pero si tienes mucha razón. 😃
 
-* **wilantury** (3)
+* **wilantury** (3) [795151](https://platzi.com/comentario/795151/) 
 
-	
 	CRUD: Create - Read- Update - Delete
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [795151] (1)
 
-		
 		CORRECTO!
 
-* **Ricardo Lugo Recillas** (3)
+* **Ricardo Lugo Recillas** (3) [743521](https://platzi.com/comentario/743521/) 
 
-	
 	REST = representational state transfer.
 
-* **Enrique Alexis Lopez Araujo** (2)
+* **Enrique Alexis Lopez Araujo** (2) [70918](https://platzi.com/comentario/785295/) 
 Podrian compartir el material del curso los slides?
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [70918] (2)
 
-		
 		Por ahora este tipo de slide no se están compartiendo, lo lamentamos 😦
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088493](https://platzi.com/comentario/1088493/) 
 
-	
 	Qué es REST? OJO ESTO ES UN MARCADOR
 
-* **Ivan Yovera** (1)
+* **Ivan Yovera** (1) [1063810](https://platzi.com/comentario/1063810/) 
 
-	
 	no me queda muy claro por qué no aplica POST para /api/movies/:id
 	
 	alguien me ayuda por favor?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [1063810] (3)
 
-		
 		Porque cuando estás haciendo Post es para crear una nueva movie, si esta movie no está creada no tienes un id porqu este id se genera de manera sistematizada en el backend para asegurar que no se repita 😄
 
-* **Sebastian Cardoso Castillo** (1)
+* **Sebastian Cardoso Castillo** (1) [744311](https://platzi.com/comentario/744311/) 
 
-	
 	Ese Delete movies da miedo definirlo.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68242](https://platzi.com/comentario/737318/) 
 Put y patch se pueden usar de forma indiferente o aplica para casos especiales, ya que en la mayoría de la literatura hacen uso de ambos ...
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [68242] (2)
 
-		
 		Ambos sirven para actualizar un recurso, pero su principal diferencia es la forma en la que el servidor procesa la entidad adjunta que enviamos para ser modificada.
 		
 		Con **PUT** tenemos que enviar la versión modificada completa de la entidad, así sólo cambiemos un dato, esto consume mayor ancho de banda. En cambio con **PATCH** sólo enviamos los parámetros específicos que deseamos actualizar.
 
-## 0200. Estructura de una película con Moockaru
+## 0200. Estructura de una película con Moockaru [22029](https://platzi.com/clases/1646-backend-nodejs/22029-estructura-de-una-pelicula-con-moockaru/)
 
 ### Descripción:
 
@@ -9342,34 +8874,28 @@ Luego seleccionamos el número de filas (rows) que queremos generar y elegimos e
 
 ### Comentarios:
 
-* **carlosdummy14** (10)
+* **carlosdummy14** (10) [755617](https://platzi.com/comentario/755617/) 
 
-	
 	Este es uno de los momento WoW cuando se toma un curso en platzi… =)
 
-* **JESUS ALMIRCAR CASTELLANOS** (8)
+* **JESUS ALMIRCAR CASTELLANOS** (8) [811544](https://platzi.com/comentario/811544/) 
 
-	
 	Y yo que lo estaba haciendo a mano
 
-* **Percy Tejada Donayre** (6)
+* **Percy Tejada Donayre** (6) [881448](https://platzi.com/comentario/881448/) 
 
-	
 	Les comparto el link : <https://mockaroo.com/>
 
-* **Cmendi** (4)
+* **Cmendi** (4) [811277](https://platzi.com/comentario/811277/) 
 
-	
 	En el título dice “Moockaru”.
 
-	* **Andrea Méndez Díaz** (2)
+	* **Andrea Méndez Díaz** [811277] (2)
 
-		
 		<https://mockaroo.com/>
 
-* **David Behar** (4)
+* **David Behar** (4) [787817](https://platzi.com/comentario/787817/) 
 
-	
 	Ésto es lo que exporté
 	``` 
 	    [{"id":"60be5e14-3396-4ab8-ae5b-2906fde9f2cb","title":"Armless","year":1997,"cover":"http://dummyimage.com/145x171.bmp/5fa2dd/ffffff","description":"In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.","duration":1893,"contentRating":"G","source":"https://oracle.com/quis/tortor/id/nulla/ultrices/aliquet/maecenas.js?phasellus=in&sit=lectus&amet=pellentesque&erat=at&nulla=nulla&tempus=suspendisse&vivamus=potenti&in=cras&felis=in&eu=purus&sapien=eu&cursus=magna&vestibulum=vulputate&proin=luctus&eu=cum&mi=sociis&nulla=natoque&ac=penatibus&enim=et&in=magnis&tempor=dis&turpis=parturient&nec=montes&euismod=nascetur&scelerisque=ridiculus&quam=mus&turpis=vivamus&adipiscing=vestibulum&lorem=sagittis&vitae=sapien&mattis=cum&nibh=sociis&ligula=natoque&nec=penatibus&sem=et&duis=magnis&aliquam=dis&convallis=parturient&nunc=montes&proin=nascetur&at=ridiculus&turpis=mus&a=etiam&pede=vel&posuere=augue&nonummy=vestibulum&integer=rutrum&non=rutrum&velit=neque&donec=aenean&diam=auctor&neque=gravida&vestibulum=sem&eget=praesent&vulputate=id&ut=massa&ultrices=id&vel=nisl&augue=venenatis&vestibulum=lacinia&ante=aenean&ipsum=sit&primis=amet&in=justo&faucibus=morbi&orci=ut&luctus=odio&et=cras&ultrices=mi&posuere=pede&cubilia=malesuada&curae=in&donec=imperdiet&pharetra=et&magna=commodo&vestibulum=vulputate&aliquet=justo&ultrices=in&erat=blandit&tortor=ultrices&sollicitudin=enim&mi=lorem&sit=ipsum&amet=dolor&lobortis=sit&sapien=amet&sapien=consectetuer","tags":["Comedy|Drama|Romance","Drama|Film-Noir|Thriller","Documentary","Documentary","Comedy|Fantasy"]},
@@ -9393,123 +8919,103 @@ Luego seleccionamos el número de filas (rows) que queremos generar y elegimos e
 	    
 	```
 
-	* **Abraham Gonzalez** (2)
+	* **Abraham Gonzalez** [787817] (2)
 
-		
 		Gracias es super util
 
-	* **Enric Vallribera** (2)
+	* **Enric Vallribera** [787817] (2)
 
-		
 		muchas gracias
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [737574](https://platzi.com/comentario/737574/) 
 
-	
 	Excelente recurso, ahora mis desarrollos serán un poco más rápidos
 
-* **David Valecillo** (3)
+* **David Valecillo** (3) [999630](https://platzi.com/comentario/999630/) 
 
-	
 	se acaba de convertir en una herramienta indispensable para mi… Amor a primera vista.!
 
-* **diego-serrano** (2)
+* **diego-serrano** (2) [969241](https://platzi.com/comentario/969241/) 
 
-	
 	Demasiado bueno 😃
 
-* **XXVSebastianVXX** (2)
+* **XXVSebastianVXX** (2) [943937](https://platzi.com/comentario/943937/) 
 
-	
 	Excelente la herramienta, para no crear datos a “mano”.
 
-* **Iair Poloniecki** (2)
+* **Iair Poloniecki** (2) [855966](https://platzi.com/comentario/855966/) 
 
-	
 	Ahh pero esto está genial
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088499](https://platzi.com/comentario/1088499/) 
 
-	
 	Woo enserio que esta herramienta es buena y me ayudará mucho en el futuro!!
 
-* **PaoloTorregrosa** (1)
+* **PaoloTorregrosa** (1) [900880](https://platzi.com/comentario/900880/) 
 
-	
 	Buenísimo para aprender a usar bases de datos proximamente
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [875382](https://platzi.com/comentario/875382/) 
 
-	
 	Que Genial!!
 
-* **wilantury** (1)
+* **wilantury** (1) [795176](https://platzi.com/comentario/795176/) 
 
-	
 	Excelente herramienta.
 
-* **Sebastian Cardoso Castillo** (1)
+* **Sebastian Cardoso Castillo** (1) [744314](https://platzi.com/comentario/744314/) 
 
-	
 	Hey que bueno que exista esto! La voy a usar.
 
-## 0210. Implementando un CRUD en Express.js
+## 0210. Implementando un CRUD en Express.js [22030](https://platzi.com/clases/1646-backend-nodejs/22030-implementando-un-crud-en-expressjs/)
 
 ### Descripción:
 
 
 Las siglas CRUD vienen de las palabras en inglés:
 
-  * Create - crear
-  * Read - leer
-  * Update - actualizar
-  * Delete - eliminar
+* Create - crear
+* Read - leer
+* Update - actualizar
+* Delete - eliminar
 
 
 
 ### Comentarios:
 
-* **pabloverduzcos** (10)
+* **pabloverduzcos** (10) [752708](https://platzi.com/comentario/752708/) 
 
-	
 	Dejare esto por aqui: [HTTP Cats](https://http.cat) 😂.
 
-	* **Juan Carlos García Esquivel** (2)
+	* **Juan Carlos García Esquivel** [752708] (2)
 
-		
 		😂
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [752708] (2)
 
-		
 		crack xd
 
-* **Erik Ricardo Sánchez Pérez** (9)
+* **Erik Ricardo Sánchez Pérez** (9) [784989](https://platzi.com/comentario/784989/) 
 
-	
 	Si quieren saber acerca de cuando se debe aplicar cada código http hay un diagrama enorme. Siempre es útil tenerlo a la mano si no sabes que código mandar dependiendo la situación 🕵️‍♂️
 	
 	<https://github.com/for-GET/http-decision-diagram>
 
-* **beaps** (7)
+* **beaps** (7) [724116](https://platzi.com/comentario/724116/) 
 
-	
 	Códigos de estado de respuesta HTTP:  
 	<https://developer.mozilla.org/es/docs/Web/HTTP/Status>
 
-* **Rigo Antonio Galicia Barrera** (4)
+* **Rigo Antonio Galicia Barrera** (4) [721327](https://platzi.com/comentario/721327/) 
 
-	
 	¿Es recomendable utilizar arrow functions en node?
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [721327] (3)
 
-		
 		Es igual de recomendable que en JS del navegador. Es completamente de gustos. Resuelven el mismo problema. 😉
 
-* **daniel-zurita** (3)
+* **daniel-zurita** (3) [1003352](https://platzi.com/comentario/1003352/) 
 
-	
 	movies.js
 	``` 
 	    const moviesMock = [
@@ -9673,37 +9179,31 @@ Las siglas CRUD vienen de las palabras en inglés:
 	    
 	```
 
-* **Percy Tejada Donayre** (3)
+* **Percy Tejada Donayre** (3) [881465](https://platzi.com/comentario/881465/) 
 
-	
 	Otra alternativa a Postman es Insomnia, muy similar a Postman.  
 	Aquí les dejo el link: <https://insomnia.rest/download/>
 
-* **Sofia Nupieri** (2)
+* **Sofia Nupieri** (2) [906995](https://platzi.com/comentario/906995/) 
 
-	
 	Buena clase, me gusta la organizacion de los archivos aunque es facil perderse al principio cuando no estas familiarizado con los terminos y las funcionalidades
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [832448](https://platzi.com/comentario/832448/) 
 
-	
 	Si no tienen Postman, igual pueden hacer la consulta GET en el navegador en: <http://localhost:3000/api/movies>
 
-* **osw4ldev** (2)
+* **osw4ldev** (2) [825786](https://platzi.com/comentario/825786/) 
 
-	
 	porque no se usa PUT y si patch? cual es la diferencia ?
 
-	* **Steven Gonzalez** (5)
+	* **Steven Gonzalez** [825786] (5)
 
-		
 		Hola!  
 		Ambos se utilizan para realizar UPDATE en la data, la diferencia es que con el PUT debes enviar todo el set de datos que conforman la entidad que quieres actualizar, aunque solo quieras modificar un valor de este, y con el PATCH puedes enviar únicamente la el elemento que deseas modifcar.  
 		Saludos!
 
-* **Henry Carmenate** (2)
+* **Henry Carmenate** (2) [774909](https://platzi.com/comentario/774909/) 
 
-	
 	Por alguna razon que no lo logro ver la promesa no esta funcionando!?
 	``` 
 	    const express = require('express');
@@ -9733,14 +9233,12 @@ Las siglas CRUD vienen de las palabras en inglés:
 	    
 	```
 
-	* **pepitofriki** (1)
+	* **pepitofriki** [774909] (1)
 
-		
 		Lograste resolverlo?, bueno te comento el “asyncfunction” lo estas escribiendo junto y es separado “async function”
 
-	* **Andrea Méndez Díaz** (1)
+	* **Andrea Méndez Díaz** [774909] (1)
 
-		
 		En tu código, tienes también junto el `function` y el que en este caso es -> nombre de la función `moviesApi`
 		``` 
 		    functionmoviesApi(app){
@@ -9749,45 +9247,38 @@ Las siglas CRUD vienen de las palabras en inglés:
 		
 		Eso está provocando que no sirva cuando lo exportas.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [737603](https://platzi.com/comentario/737603/) 
 
-	
 	Excelente, primero se trabaja con datos en crudo con proyección a como los serviría la base de datos.
 
-* **rodhsoft** (2)
+* **rodhsoft** (2) [76688](https://platzi.com/comentario/891399/) 
 porque se usa promesa y no un emitter?, solo es duda dado que en las primeras clases se menciono que tiene más ventajas
 
-	* **glrodasz** (1)
+	* **glrodasz** [76688] (1)
 
-		
 		En el caso de Express la arquitectura esta orientada a callbacks y promesas, además que desde el modelo cliente servidor, la respuesta va en una sola dirección y no requiere que siempre se este escuchando.
 		
 		Si tuvieramos una arquitectura de suscripción como los Web Sotckets, tiene más sentido usar Emitters.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088517](https://platzi.com/comentario/1088517/) 
 
-	
 	Excelente clase!!
 
-* **Chavez** (1)
+* **Chavez** (1) [884584](https://platzi.com/comentario/884584/) 
 
-	
 	tengo un error:  
 	ReferenceError: regeneratorRuntime is not defined
 
-	* **Chavez** (1)
+	* **Chavez** [884584] (1)
 
-		
 		alguien?
 
-	* **Alvaro Garracini** (1)
+	* **Alvaro Garracini** [884584] (1)
 
-		
 		pudiste solucionarlo?
 
-	* **SandroMartinez** (1)
+	* **SandroMartinez** [884584] (1)
 
-		
 		Tenía el mismo problema, en mi caso utilizo babel, y pude solucionarlo instalando el siguiente plugin
 		``` 
 		    npm i -D @babel/plugin-transform-runtime 
@@ -9816,7 +9307,7 @@ porque se usa promesa y no un emitter?, solo es duda dado que en las primeras cl
 		    
 		```
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [821399](https://platzi.com/comentario/821399/) 
 
 	```
 	    const express = require('express');
@@ -9845,25 +9336,22 @@ porque se usa promesa y no un emitter?, solo es duda dado que en las primeras cl
 	
 	funcionando
 
-* **JUAN SILVA** (1)
+* **JUAN SILVA** (1) [741084](https://platzi.com/comentario/741084/) 
 
-	
 	Script Index
 
-* **Gianluca Ciccarelli** (1)
+* **Gianluca Ciccarelli** (1) [84630](https://platzi.com/comentario/1054858/) 
 Buenas, por que el mock es un array de objetos y no un objeto de objetos?
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [84630] (1)
 
-		
 		Esta lectura te puede ayudar: <https://medium.com/@zac_heisey/objects-vs-arrays-42601ff79421>
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [82657](https://platzi.com/comentario/1009862/) 
 buenas tardes companeros. Pregunta, Porque la function moviesApi recibe el app como parametro?
 
-	* **Marco Antonio Benites Espinoza** (1)
+	* **Marco Antonio Benites Espinoza** [82657] (1)
 
-		
 		Hola estimado,  
 		la razon es porque esta funcion moviesApi es invocada desde el index.js:
 		``` 
@@ -9887,20 +9375,18 @@ buenas tardes companeros. Pregunta, Porque la function moviesApi recibe el app c
 		    
 		```
 
-* **PaoloTorregrosa** (1)
+* **PaoloTorregrosa** (1) [77248](https://platzi.com/comentario/900902/) 
 La razón por la que es asíncrono es para poder manejar varias peticiones dentro del servidor?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [77248] (1)
 
-		
 		Si, es para poder manejar peticiones de manera paralela sin bloquear el hilo principal de ejecución 😄
 
-* **wilantury** (1)
+* **wilantury** (1) [71364](https://platzi.com/comentario/795446/) 
 Hola, el siguiente código : app.use("/api/movies", router); - le dice a router que la ruta a la que debe responder es “/api/mov...
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [71364] (2)
 
-		
 		No entiendo tu pregunta, esto no es un código válido:
 		``` 
 		    router.get("/", - ¿"/" === “/api/movies”?
@@ -9911,15 +9397,14 @@ Hola, el siguiente código : app.use("/api/movies", router); - le dice a router 
 		
 		Danos más detalle de tu pregunta para poderte ayudar.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68243](https://platzi.com/comentario/737332/) 
 El usar async/await en el ejercicio es por motivos didácticos?, Ya que un archivo que expone un arreglo en local no tiene sentido llamarl...
 
-	* **Manuel Ojeda** (4)
+	* **Manuel Ojeda** [68243] (4)
 
-		
 		Efectivamente, es para fines prácticos ya que en clases más adelante se convierte esa función a una promesa
 
-## 0220. Métodos idempotentes del CRUD
+## 0220. Métodos idempotentes del CRUD [22031](https://platzi.com/clases/1646-backend-nodejs/22031-metodos-idempotentes-del-crud/)
 
 ### Descripción:
 
@@ -9930,29 +9415,24 @@ El usar async/await en el ejercicio es por motivos didácticos?, Ya que un archi
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (4)
+* **Juan Carlos García Esquivel** (4) [792491](https://platzi.com/comentario/792491/) 
 
-	
 	[Gitignore.io](https://www.gitignore.io/)
 
-	* **Jesús Miguel Quinto Teran** (2)
+	* **Jesús Miguel Quinto Teran** [792491] (2)
 
-		
 		Una gran herramienta.
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [792491] (1)
 
-		
 		Claro @Jesuskinto de mucha ayuda 😃
 
-	* **predator0077** (1)
+	* **predator0077** [792491] (1)
 
-		
 		Wooow excelente aporte, ni sabia que existía esa herramienta tan poderosa, Muchas Gracias 😃
 
-* **David Behar** (4)
+* **David Behar** (4) [787835](https://platzi.com/comentario/787835/) 
 
-	
 	Así se vería el método del año bisiesto en una ruta
 	``` 
 	    const express = require('express');
@@ -9988,36 +9468,30 @@ El usar async/await en el ejercicio es por motivos didácticos?, Ya que un archi
 	    
 	```
 
-* **Cristian Fabian Tovar** (3)
+* **Cristian Fabian Tovar** (3) [784677](https://platzi.com/comentario/784677/) 
 
-	
 	Hizo falta la coleccion de postman con los métodos ??
 
-	* **danielsanz (Platzi)** (1)
+	* **danielsanz (Platzi)** [784677] (1)
 
-		
 		Aquí puedes ver la colección <https://drive.google.com/drive/folders/1Latsb5hLuGS9XuLprGtbpgL3NLGnxh6O?usp=sharing>
 
-* **T-gold** (1)
+* **T-gold** (1) [1114139](https://platzi.com/comentario/1114139/) 
 
-	
 	no entiendo porque en el metodo post llama al id del moviesmock[0]
 	
 	const createMovieId = await Promise.resolve(moviesMock[0].id)
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1088523](https://platzi.com/comentario/1088523/) 
 
-	
 	http://gitignore.io/
 
-* **daulisg** (1)
+* **daulisg** (1) [1015579](https://platzi.com/comentario/1015579/) 
 
-	
 	Alguien me puede decir por que el API retorna una movie cuando solo hacemos un query cualquiera con abc?
 
-	* **Joe Harry Mancera Monroy** (1)
+	* **Joe Harry Mancera Monroy** [1015579] (1)
 
-		
 		Claro que si, es porque en el get siempre retorna la primera película
 		``` 
 		    router.get('/:movieId', async (req, res, next) => {
@@ -10036,53 +9510,45 @@ El usar async/await en el ejercicio es por motivos didácticos?, Ya que un archi
 		    
 		```
 
-	* **SistemasCBC** (1)
+	* **SistemasCBC** [1015579] (1)
 
-		
 		claro, en el código si te fijás puso un array con un 0,eso hace que siempre te devuelva la primer película
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1015579] (1)
 
-		
 		siempre retornamos el valor del primer dato del json, en este caso el moviesMock[0].id
 
-* **jandrey** (1)
+* **jandrey** (1) [935920](https://platzi.com/comentario/935920/) 
 
-	
 	`npx license mit > LICENSE && npx gitignore node && git init`
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [935920] (1)
 
-		
 		Ya no funciona npx license mit
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [737675](https://platzi.com/comentario/737675/) 
 
-	
 	Excelente recurso el de gitignore, yo por lo general solía ignorar node_modules.  
 	Lo importante sigue siendo ahorrar tiempo de configuración y destinarlo al desarrollo y pruebas
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [737671](https://platzi.com/comentario/737671/) 
 
-	
 	Cuando leí acerca de postman, nunca imaginé que se volvería una herramienta fundamental en mi trabajo.  
 	No conocía que se podían guardar las consultas.
 
-* **danielsanz (Platzi)** (1)
+* **danielsanz (Platzi)** (1) [699948](https://platzi.com/comentario/699948/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/metodos-idempotentes-del-crud>
 
-* **mafevito** (1)
+* **mafevito** (1) [73342](https://platzi.com/comentario/833050/) 
 ¿Cual es la funcionalidad de las variables de entorno?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [73342] (3)
 
-		
 		Las variables de entorno nos sirven para mantener una configuración diferente dependiendo de dónde estemos trabajando, dependiendo de si la app ya está producción o si estamos en una etapa de desarrollo vamos a querer tener diferentes configuraciones. A lo largo del curso verás más a fondo este tema 😄
 
-## 0230. Implementando una capa de servicios
+## 0230. Implementando una capa de servicios [22032](https://platzi.com/clases/1646-backend-nodejs/22032-implementando-una-capa-de-servicios/)
 
 ### Descripción:
 
@@ -10101,36 +9567,30 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 
 ### Comentarios:
 
-* **Enrique Devars (Platzi)** (7)
+* **Enrique Devars (Platzi)** (7) [789915](https://platzi.com/comentario/789915/) 
 
-	
 	Les dejo esta imagen que hice de la arquitectura clean  
 	![arquitectura clean](https://www.dropbox.com/s/n06gjhvukutegr1/clean%20architecture.png?raw=1)
 
-	* **ennma5** (2)
+	* **ennma5** [789915] (2)
 
-		
 		Muchas gracias @edevars. Muy buen aporte.
 
-* **mrcMesen** (3)
+* **mrcMesen** (3) [1024718](https://platzi.com/comentario/1024718/) 
 
-	
 	Si les interesa encontré este link donde hablan un poco más a fondo sobre la arquitectura que se va a implementar 'Clean Arquitecture’  
 	<https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/>
 
-* **JESUS ALMIRCAR CASTELLANOS** (2)
+* **JESUS ALMIRCAR CASTELLANOS** (2) [816147](https://platzi.com/comentario/816147/) 
 
-	
 	[Exelente lectura](https://styde.net/porque-laravel-no-es-mvc-y-tu-deberias-olvidarte-de-mvc/), ahora me doy cuenta que no entendia muy bien el modelo MVC. genial!! gracias.
 
-* **wilantury** (2)
+* **wilantury** (2) [795547](https://platzi.com/comentario/795547/) 
 
-	
 	Las rutas están para enviar los parámetros y datos a los servicios, los servicios saben de la lógica de negocio y saben devolver respuestas.
 
-* **Iván Darío Sánchez Jiménez** (2)
+* **Iván Darío Sánchez Jiménez** (2) [792087](https://platzi.com/comentario/792087/) 
 
-	
 	 ** _Controladores_** Es toda la capa del middleware y el router que se comunica con al API y reciben/envia Json.  
 	Los controladores no llaman a otros controladores, solo llaman servicios.
 	
@@ -10138,9 +9598,8 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	
 	**_Librerias_** Es la capa que adjunta librerias externas, bases de datos, bases de datos en la nube.
 
-* **edwintrumpet** (2)
+* **edwintrumpet** (2) [783926](https://platzi.com/comentario/783926/) 
 
-	
 	 **Respuesta al reto**
 	
 	Ruta
@@ -10174,7 +9633,7 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Daniel Herrera** (2)
+* **Daniel Herrera** (2) [757520](https://platzi.com/comentario/757520/) 
 
 	```
 	    // patch route
@@ -10204,9 +9663,8 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Victor Martin Ortiz Palacio** (2)
+* **Victor Martin Ortiz Palacio** (2) [753117](https://platzi.com/comentario/753117/) 
 
-	
 	Challenge:
 	
 	/routes/
@@ -10245,25 +9703,23 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Ricardo Lugo Recillas** (2)
+* **Ricardo Lugo Recillas** (2) [751126](https://platzi.com/comentario/751126/) 
 
-	
-	  * en los controlladores = es toda la capa del middlewares, y del router comunicación con api donde se recibe y se envía JSON
-	  * los controlladores solo llaman servicios, pero los servicios si llaman a otros servicios y librerías bases de datos u otras apis
-	  * La unica responsabilidad de la rutas en como recibir parametros y como se los envia a los servicios
+	* en los controlladores = es toda la capa del middlewares, y del router comunicación con api donde se recibe y se envía JSON
+	* los controlladores solo llaman servicios, pero los servicios si llaman a otros servicios y librerías bases de datos u otras apis
+	* La unica responsabilidad de la rutas en como recibir parametros y como se los envia a los servicios
 	
 	
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [724518](https://platzi.com/comentario/724518/) 
 <h1>De los enlaces que dejó el profesor me queda lo siguiente:</h1>
 	  1. No hay arquitectura única, predefinidad, perfecta para una aplicación web moderna.
 	  2. Por lo tanto, es** tu responsabilidad no limitarte al Modelo Vista Controlador** usado en tiempos pasados (yo nunca lo he tocado) sino entender las capas, las entidades, las piezas que necesita tu aplicación para funcionar.
 	
 	
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [724516](https://platzi.com/comentario/724516/) 
 
-	
 	Buena clase, valiosa para repasarla.
 	
 	De lo que mencionas al final de la clase me queda el principio de responsabilidad única de la programación.
@@ -10272,21 +9728,18 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	
 	En la práctica recuerdas la idea de separar responsabilidad cuando hablas de las rutas y los servicios. No sobrcargar.
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699953](https://platzi.com/comentario/699953/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/implementando-una-capa-de-servicios>
 
-* **SistemasCBC** (1)
+* **SistemasCBC** (1) [1091379](https://platzi.com/comentario/1091379/) 
 
-	
 	Que son servicios?  
 	Que es la lógica de negocios?
 
-	* **T-gold** (1)
+	* **T-gold** [1091379] (1)
 
-		
 		por ejemplo en una red social los servicios serian  
 		posts  
 		users  
@@ -10306,9 +9759,8 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 		
 		controller(routes) services(logica de negocio) librerias(acceso a DB)
 
-* **Marco Antonio Benites Espinoza** (1)
+* **Marco Antonio Benites Espinoza** (1) [1037825](https://platzi.com/comentario/1037825/) 
 
-	
 	Reto:
 	``` 
 	        router.patch("/:movieId", asyncfunction(req, res, next) {
@@ -10329,12 +9781,11 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **RichBarusta** (1)
+* **RichBarusta** (1) [979948](https://platzi.com/comentario/979948/) 
 
-	
 	Crearía un método helper para crear la Promise, así no se repetiría mucho código.
 
-* **Roso Peñaranda** (1)
+* **Roso Peñaranda** (1) [934927](https://platzi.com/comentario/934927/) 
 
 	```
 	     router.patch('/:movieId', asyncfunction(req, res, next) {
@@ -10360,9 +9811,8 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	      }
 	```
 
-* **PaoloTorregrosa** (1)
+* **PaoloTorregrosa** (1) [901074](https://platzi.com/comentario/901074/) 
 
-	
 	Reto:
 	``` 
 	    router.patch("/:movieId", asyncfunction (req, res, next) {
@@ -10391,7 +9841,7 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Leonardo Daniel Benitez Cuenca** (1)
+* **Leonardo Daniel Benitez Cuenca** (1) [886724](https://platzi.com/comentario/886724/) 
 
 	```
 	    // METODO PATCH PARA ACTUALIZAR LA PROPIEDAD DE UN ELEMENTO
@@ -10414,7 +9864,7 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **crimiro** (1)
+* **crimiro** (1) [860694](https://platzi.com/comentario/860694/) 
 
 	```
 	    // Route
@@ -10439,25 +9889,22 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [833757](https://platzi.com/comentario/833757/) 
 
-	
 	Recordar que la diferencia entre PUT y PATH es:
 	
-	  * PUT: remplazo total del recurso.
-	  * PATH: actualización de algunos elementos del recurso.  
+	* PUT: remplazo total del recurso.
+	* PATH: actualización de algunos elementos del recurso.  
 	<https://medium.com/backticks-tildes/restful-api-design-put-vs-patch-4a061aa3ed0b>
 	
 	
 
-	* **rusbel bermúdez rivera** (2)
+	* **rusbel bermúdez rivera** [833757] (2)
 
-		
 		*patch
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [833756](https://platzi.com/comentario/833756/) 
 
-	
 	Challenge:
 	``` 
 	        router.put('/:idMovie', asyncfunction(req, res, next) {
@@ -10492,14 +9939,12 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [792127](https://platzi.com/comentario/792127/) 
 
-	
 	La diferencia entre req.query y req.params, es que paramentros se utiliza cuando estan establecidos en la URL y query cuando se usa ?, el nombre query y se puede concatenar.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [737776](https://platzi.com/comentario/737776/) 
 
-	
 	Prácticamente es lo mismo, pero recordar que con patch solo es una actualización parcial de los datos correspondientes a un recurso.
 	``` 
 	    router.patch('/:movieId', asyncfunction(req, res, next) {
@@ -10530,9 +9975,8 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **heysoypaez** (1)
+* **heysoypaez** (1) [726035](https://platzi.com/comentario/726035/) 
 
-	
 	**Mi solución al desafío:**
 	
 	_routes/movies.js_
@@ -10564,22 +10008,20 @@ La arquitectura tradicional MVC se queda corta en aplicaciones modernas, por eso
 	    
 	```
 
-* **Daniel Alberto Esquinazi** (1)
+* **Daniel Alberto Esquinazi** (1) [69339](https://platzi.com/comentario/755431/) 
 Por que declara el service como una clase? Se podría definir todas las funciones separadas? También me parece que faltaron los try/catch ...
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [69339] (3)
 
-		
 		Sí se podrían definir cómo funciones separadas sin ningún problema, en este caso el profesor optó por usar una clase tal vez por mantener consistencia en todo el código.
 		
 		Siempre es bueno controlar los posibles errores con **try/catch** , eres libre de agregarlos donde los creas necesarios.
 
-* **Hebert de León** (1)
+* **Hebert de León** (1) [68952](https://platzi.com/comentario/748899/) 
 Puede que esté preguntando algo tonto pero, ¿Cómo funciona eso del alias que hizo en el minuto 7:18? Me gustaría saber más de ello, y si ...
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [68952] (2)
 
-		
 		Lo que hace ahí es una desconstrucción, es decir, separa los valores directamente en la declaración, y lo que hace es darle un valor a ese valor en especifico.
 		
 		Por ejemplo en ese caso:
@@ -10598,9 +10040,9 @@ Puede que esté preguntando algo tonto pero, ¿Cómo funciona eso del alias que 
 		
 		En resumen, le estas asignando un nombre nuevo o un alias/apodo a la variable body.
 
-# Cómo conectarse con librerías externas en Express.js
+# Cómo conectarse con librerías externas en Express.js [4416]
 
-## 0240. Creación de una BD en MongoAtlas
+## 0240. Creación de una BD en MongoAtlas [22033](https://platzi.com/clases/1646-backend-nodejs/22033-creacion-de-una-bd-en-mongoatlas/)
 
 ### Descripción:
 
@@ -10611,48 +10053,40 @@ Puede que esté preguntando algo tonto pero, ¿Cómo funciona eso del alias que 
 
 ### Comentarios:
 
-* **Albert K. Camargo Barreda** (15)
+* **Albert K. Camargo Barreda** (15) [943073](https://platzi.com/comentario/943073/) 
 
-	
 	❤️ si vienes del curso de Nodejs
 
-* **israelhuaman** (11)
+* **israelhuaman** (11) [958334](https://platzi.com/comentario/958334/) 
 
-	
 	vengo del curso de Node.js 🤣
 
-	* **Georgie Duarte** (3)
+	* **Georgie Duarte** [958334] (3)
 
-		
 		yo desde el de graphql --> node --> backend con node
 		
 		esto es el MCU nerd --> PCM (Platzi Courses Universe)
 		
 		.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [958334] (1)
 
-		
 		#Clásico
 
-* **Alberto Luebbert M.** (4)
+* **Alberto Luebbert M.** (4) [1027314](https://platzi.com/comentario/1027314/) 
 
-	
 	❤️ si vienes del curso de GraphQL
 
-* **Daniel Hurtado** (4)
+* **Daniel Hurtado** (4) [890362](https://platzi.com/comentario/890362/) 
 
-	
 	NoSQL no significa que no sea una base de datos relacional, el “no” en su nombre realmente significa: NOT ONLY SQL. Es decir, no solo relaciones
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [833770](https://platzi.com/comentario/833770/) 
 
-	
 	Muchas personas creen que las Bases de datos **No relacionales** son el remplazo de las bases de datos **Relacionales** , y la verdad es que no. Aplican para resolver distintos tipos de problemas, he incluso muchos sistemas complejos hacen uso de las dos.
 
-* **Andres Roberto Coello Goyes** (3)
+* **Andres Roberto Coello Goyes** (3) [821597](https://platzi.com/comentario/821597/) 
 
-	
 	MongoDB está escrito en C++, aunque las consultas se hacen pasando objetos JSON como parámetro. Es algo bastante lógico, dado que los propios documentos se almacenan en BSON. Por ejemplo:
 	
 	db.Clientes.find({Nombre:“Pedro”});  
@@ -10662,66 +10096,57 @@ Puede que esté preguntando algo tonto pero, ¿Cómo funciona eso del alias que 
 	
 	Si queremos usar nuestro lenguaje de programación favorito, existen drivers para un gran número de ellos. Hay drivers oficiales para C#, Java, Node.js, PHP, Python, Ruby, C, C++, Perl o Scala. Aunque estos drivers están soportados por MongoDB, no todos están en el mismo estado de madurez. Por ejemplo el de C es una versión alpha. Si queremos utilizar un lenguaje concreto, es mejor revisar los drivers disponibles para comprobar si son adecuados para un entorno de producción.
 
-* **Agustin Felicetti** (2)
+* **Agustin Felicetti** (2) [1109388](https://platzi.com/comentario/1109388/) 
 
-	
 	Hola disculpen pero para mi el boton “COLLECTIONS” y “MEtRICS” aparecen bloquedos ¿Alguien sabe solucionarlo?
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1061103](https://platzi.com/comentario/1061103/) 
 
-	
 	Se ve excelente este curso!!!  
 	Me mandaron a esta clase desde el curso de node con Carlos Hernandez para crear nuestra DB!
 
-* **Pacool84** (2)
+* **Pacool84** (2) [1059427](https://platzi.com/comentario/1059427/) 
 
-	
 	Yo vengo del curso de EXPRESS !!! 😃
 
-* **sergio-medina93** (2)
+* **sergio-medina93** (2) [907733](https://platzi.com/comentario/907733/) 
 
-	
 	Me enviaron acá pues el otro curso usa mlab 😦
 
-	* **danilovalenzuela** (5)
+	* **danilovalenzuela** [907733] (5)
 
-		
 		Entonces el curso es de hace un siglo jajaj
 
-* **johann_tolima** (1)
+* **johann_tolima** (1) [1108914](https://platzi.com/comentario/1108914/) 
 
-	
 	Hola, no fue posible crear la BD, al momento de generarla arroja un error “We’re sorry, an unexpected error has occurred”
 
-* **Abraham Gonzalez** (1)
+* **Abraham Gonzalez** (1) [82001](https://platzi.com/comentario/994972/) 
 Yo tuve que crear la base de datos desde mi terminal … en connect te dan las opciones. Porque desde la interfaz como lo hace el profesor ...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [82001] (1)
 
-		
 		Wow, es muy **Pro** crearla desde la terminal. A la próxima que tengas un error recuerda que la comunidad está aquí para ayudarte, no dudes en preguntar. 💪
 
-* **Karo Adyan** (1)
+* **Karo Adyan** (1) [75938](https://platzi.com/comentario/878227/) 
 Que es un cluster?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [75938] (1)
 
-		
 		Aquí se explica muy bien: <https://stackoverflow.com/questions/43445975/what-is-a-cluster-in-mongodb/43447558>.
 		
 		De todas formas, te recomiendo tomar el Curso de MongoDB. 😉
 		
 		👉 <https://platzi.com/clases/mongodb/>
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68267](https://platzi.com/comentario/737808/) 
 Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 
-	* **Erik Ochoa (Platzi)** (6)
+	* **Erik Ochoa (Platzi)** [68267] (6)
 
-		
 		Para el caso ejemplo de está clase no es necesario, pero siempre es recomendable que tengas mongoDB instalado en local para que puedes hacer pruebas sin conexión.
 
-## 0250. Conexión a MongoAtlas una instancia de MongoDB
+## 0250. Conexión a MongoAtlas una instancia de MongoDB [22035](https://platzi.com/clases/1646-backend-nodejs/22035-conexion-a-mongoatlas-una-instancia-de-mongodb/)
 
 ### Descripción:
 
@@ -10732,9 +10157,8 @@ Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 
 ### Comentarios:
 
-* **Jesús Miguel Quinto Teran** (5)
+* **Jesús Miguel Quinto Teran** (5) [833874](https://platzi.com/comentario/833874/) 
 
-	
 	 **retryWrite = true**  
 	_Las escrituras recuperables permiten a los controladores MongoDB reintentar automáticamente ciertas operaciones de escritura una sola vez si encuentran errores de red, o si no pueden encontrar un primario sano en los conjuntos de réplica o clúster fragmentado._  
 	<https://docs.mongodb.com/manual/core/retryable-writes/>
@@ -10745,90 +10169,74 @@ Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 	Por ejemplo, considere una réplica configurada con 3 miembros votantes, Primario-Secundario-Secundario (PSS). Para este conjunto de réplica, M es dos [1] , y la escritura debe propagarse a la primaria y una secundaria para reconocer la preocupación de escritura al cliente._  
 	<https://docs.mongodb.com/manual/reference/write-concern/>
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [833874] (1)
 
-		
 		Gracias por el aporte
 
-* **danielsanz (Platzi)** (5)
+* **danielsanz (Platzi)** (5) [699956](https://platzi.com/comentario/699956/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/conexion-a-mongo-atlas>
 
-* **Washington Antonio Delgado Neira** (2)
+* **Washington Antonio Delgado Neira** (2) [912572](https://platzi.com/comentario/912572/) 
 
-	
 	COMO HIZO PARA PONER TODAS LAS VARIABLES DE ENTORNO DE UNA SOLA, SE AUTOCOMPLETO DE FORMA AUTOMATICA (MINUTO 2:34)
 
-	* **nova12** (1)
+	* **nova12** [912572] (1)
 
-		
 		cons vs code puedes poner varios punteros a la ves y si escrives pues autocompleta en cada linea donde tengas cursor,
 
-* **rusbel bermúdez rivera** (2)
+* **rusbel bermúdez rivera** (2) [850012](https://platzi.com/comentario/850012/) 
 
-	
 	que sucedio con ObjectId? lo importamos pero no lo utilizamos
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [850012] (1)
 
-		
 		Más adelante
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [833819](https://platzi.com/comentario/833819/) 
 
-	
 	paquete **lowecase** donde estuviste toda mi vida…
 
-* **Matias Niz** (2)
+* **Matias Niz** (2) [802122](https://platzi.com/comentario/802122/) 
 
-	
 	Porque no crear una variable de entorno con la connection string?
 
-	* **José María Cuevas Ramírez** (1)
+	* **José María Cuevas Ramírez** [802122] (1)
 
-		
 		Es una buena pregunta, pero supongo que también lo tiene por separado para poder manipular la información de manera individual.
 
-* **renny10037** (2)
+* **renny10037** (2) [796897](https://platzi.com/comentario/796897/) 
 
-	
 	¿Donde consigo el host?
 
-	* **Erik Ochoa (Platzi)** (5)
+	* **Erik Ochoa (Platzi)** [796897] (5)
 
-		
 		En tu Cluster de Mongo Atlas vas a encontrar un botón de connect donde te va a dar la información que necesitas.
 		
 		![Screen Shot 2019-10-24 at 19.24.00.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-10-24%20at%2019.24.00-d9b444f2-7a23-4277-bd2b-c241b9ab566a.jpg) ![Screen Shot 2019-10-24 at 19.24.14.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-10-24%20at%2019.24.14-99fe7ef4-1a19-4826-86fd-7553f1de28df.jpg) ![Screen Shot 2019-10-24 at 19.24.23.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-10-24%20at%2019.24.23-295d33a2-7e76-4d84-8fec-e9fd8e37fed5.jpg)
 
-* **Tonalli López** (2)
+* **Tonalli López** (2) [730992](https://platzi.com/comentario/730992/) 
 
-	
 	Que paquete de iconos tienes instalado para que le de un icono a los .env?
 
-	* **Fernando Azuaje** (3)
+	* **Fernando Azuaje** [730992] (3)
 
-		
 		material icon theme
 
-* **T-gold** (1)
+* **T-gold** (1) [1115260](https://platzi.com/comentario/1115260/) 
 
-	
 	entonces el archivo .env debe ir al .gitignore?
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [1099840](https://platzi.com/comentario/1099840/) 
 
-	
 	Primer acercamiento a bases de datos!! Que emoción!! 😄
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1091047](https://platzi.com/comentario/1091047/) 
 
-	
 	paquete para camelCase OJO esto es un marcador!
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [821673](https://platzi.com/comentario/821673/) 
 
 	```
 	    const { MongoClient, ObjectId } = require('mongodb');
@@ -10867,44 +10275,36 @@ Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 	
 	por si no quieres escribir
 
-	* **Daniel Ramírez Mendoza** (2)
+	* **Daniel Ramírez Mendoza** [821673] (2)
 
-		
 		Tienes un error en if(MongoLib.connection) es con “!” para comprobar que no existe connection.
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [821673] (1)
 
-		
 		si me di cuenta poco despues de subirlo, y por que me dio error.
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [821673] (1)
 
-		
 		aprobechando esta discucion. de donde viene el metodo .connection?
 
-	* **T-gold** (1)
+	* **T-gold** [821673] (1)
 
-		
 		EdenGg buena pregunta , calculo que del paquete mongodb
 
-* **Jaider Orlando Cano Botero** (1)
+* **Jaider Orlando Cano Botero** (1) [797678](https://platzi.com/comentario/797678/) 
 
-	
 	Esta conexión no debe ser cerrada?
 
-* **Helber Fabian Toro Palacios** (1)
+* **Helber Fabian Toro Palacios** (1) [794832](https://platzi.com/comentario/794832/) 
 
-	
 	.env en node.js
 
-* **heysoypaez** (1)
+* **heysoypaez** (1) [727690](https://platzi.com/comentario/727690/) 
 
-	
 	¿Para qué es este trozo del código `?retryWrites=true&w=majority` ?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [727690] (2)
 
-		
 		👋 ¡Hola!
 		
 		En la documentación encuentras la información sobre estas propiedades:
@@ -10913,9 +10313,8 @@ Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 		👉 <https://docs.mongodb.com/manual/reference/write-concern/>  
 		👉 <https://stackoverflow.com/questions/27039717/whats-the-usage-and-behaviour-of-wmajority-on-half-cluster-down>
 
-	* **T-gold** (2)
+	* **T-gold** [727690] (2)
 
-		
 		retryWrite = true  
 		Las escrituras recuperables permiten a los controladores MongoDB reintentar automáticamente ciertas operaciones de escritura una sola vez si encuentran errores de red, o si no pueden encontrar un primario sano en los conjuntos de réplica o clúster fragmentado.  
 		<https://docs.mongodb.com/manual/core/retryable-writes/>
@@ -10926,7 +10325,7 @@ Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 		Por ejemplo, considere una réplica configurada con 3 miembros votantes, Primario-Secundario-Secundario (PSS). Para este conjunto de réplica, M es dos [1] , y la escritura debe propagarse a la primaria y una secundaria para reconocer la preocupación de escritura al cliente._  
 		<https://docs.mongodb.com/manual/reference/write-concern/>
 
-## 0260. Conexión con Robot3T y MongoDB Compass a una BD
+## 0260. Conexión con Robot3T y MongoDB Compass a una BD [22034](https://platzi.com/clases/1646-backend-nodejs/22034-conexion-con-robot3t-y-mongodb-compass-a-una-bd/)
 
 ### Descripción:
 
@@ -10935,8 +10334,8 @@ Entonces ya no es necesario instalar mongoDB en nuestra maquina local?
 
 Para descargarlos se pueden usar los siguientes enlaces respectivamente:
 
-  * <https://robomongo.org/download>
-  * <https://www.mongodb.com/download-center/compass>
+* <https://robomongo.org/download>
+* <https://www.mongodb.com/download-center/compass>
 
 
 
@@ -10976,29 +10375,24 @@ Para poder conectarnos a MongoDB Atlas haciendo uso de Robo 3T, necesitamos copi
 
 ### Comentarios:
 
-* **Wilson Marino Pablo Mendez** (3)
+* **Wilson Marino Pablo Mendez** (3) [790909](https://platzi.com/comentario/790909/) 
 
-	
 	Yo uso la terminal y tambien el cliente MongoDB Compas
 
-* **Juan Carlos García Esquivel** (2)
+* **Juan Carlos García Esquivel** (2) [793590](https://platzi.com/comentario/793590/) 
 
-	
 	Super sencilla la conexión con **MongoDB Compass** , ya me esta gustando este curso.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1091218](https://platzi.com/comentario/1091218/) 
 
-	
 	Excelentes clientes!
 
-* **daniel-zurita** (1)
+* **daniel-zurita** (1) [1004073](https://platzi.com/comentario/1004073/) 
 
-	
 	Aunque es algo obvio , deben remplazar en el connection string , la parte de <password> , con su contraseña de la bd. tanto como para el compass y el robo 3t
 
-* **Alver Ortega** (1)
+* **Alver Ortega** (1) [1002502](https://platzi.com/comentario/1002502/) 
 
-	
 	Me pueden ayudar con la conexión, me sale este error
 	``` 
 	    Cannot connect tothe MongoDB at cluster0-shard-00-02-qcpaq.mongodb.net:27017.
@@ -11008,51 +10402,46 @@ Para poder conectarnos a MongoDB Atlas haciendo uso de Robo 3T, necesitamos copi
 	    
 	```
 
-* **Abraham Gonzalez** (1)
+* **Abraham Gonzalez** (1) [996643](https://platzi.com/comentario/996643/) 
 
-	
 	Gracias por el tutorial, antes no habia podido conectarme desde Robo 3T
 
-* **Arlex Felipe Llanos Betancourt** (1)
+* **Arlex Felipe Llanos Betancourt** (1) [899420](https://platzi.com/comentario/899420/) 
 
-	
 	Yo no pude conectarme de la forma en que se explica, tuve que recurrir a otro tutorial en este [link](https://medium.com/@samurc.net/crear-mongodb-atlas-y-conectarse-usando-robo-3t-ex-robomongo-15781eebd7f4) de medium, donde se habilita el SSL, se los dejo por si alguno lo necesita y le ayuda 😄
 
-* **Leonardo Daniel Benitez Cuenca** (1)
+* **Leonardo Daniel Benitez Cuenca** (1) [887664](https://platzi.com/comentario/887664/) 
 
-	
 	me sale este mensaje al intentar conectarme con MongoDB Compass. Si alguien podría ayudarme. please
 	``` 
 	    Server selection timed out after 30000ms
 	    
 	```
 
-	* **PaoloTorregrosa** (5)
+	* **PaoloTorregrosa** [887664] (5)
 
-		
 		Hola, me paso lo mismo, tienes que reemplazar el <password> que esta dentro de el texto que pegas con la contraseña que le pusiste a tu usuario en la base de datos
 
-* **franciscohreyes** (1)
+* **franciscohreyes** (1) [776146](https://platzi.com/comentario/776146/) 
 
-	
 	genial!!
 
-## 0270. Implementación de las acciones de MongoDB
+## 0270. Implementación de las acciones de MongoDB [22036](https://platzi.com/clases/1646-backend-nodejs/22036-implementacion-de-las-acciones-de-mongodb/)
 
 ### Descripción:
 
 
 Los métodos de MongoDB para implementar un CRUD son:
 
-  * **C** reate 
-    * insertOne
-  * **R** ead 
-    * find
-    * findOne
-  * **U** pdate 
-    * updateOne
-  * **D** elete 
-    * deleteOne
+* **C** reate 
+  * insertOne
+* **R** ead 
+  * find
+  * findOne
+* **U** pdate 
+  * updateOne
+* **D** elete 
+  * deleteOne
 
 
 
@@ -11066,15 +10455,13 @@ Los métodos de MongoDB para implementar un CRUD son:
 
 ### Comentarios:
 
-* **danielsanz (Platzi)** (6)
+* **danielsanz (Platzi)** (6) [699957](https://platzi.com/comentario/699957/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/implementacion-de-las-acciones-de-mongodb>
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1091267](https://platzi.com/comentario/1091267/) 
 
-	
 	JAJAJA gusto mucho esto!!
 	
 	**No es mi culpa que los capítulos sean cortos, MongoDB solo es fácil de aprender.**
@@ -11082,21 +10469,19 @@ Los métodos de MongoDB para implementar un CRUD son:
 	del recurso compartido del profe  
 	<https://github.com/uokesita/the-little-mongodb-book/blob/master/es/mongodb.markdown>
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [68280](https://platzi.com/comentario/737978/) 
 Para este tipo de proyectos que recomiendas, hacer uso de una librería para establecer conexion directa con la base de datos, o hacer uso...
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [68280] (2)
 
-		
 		En este proyecto se usa **Mongoose** porque es muy común encontrarlo en proyectos profesionales. Ofrece una solución basada en esquemas para modelar los datos de tu aplicación, incluyendo cosas como casting de tipos, validaciones y construcción de queries entre muchas más.
 		
 		La **conexión directa** con el driver oficial de MongoDB te va a permite hacer cosas a más bajo nivel, personalizar mucho más, pero con el trabajo que eso conlleva. Esta puede servir tanto para un proyecto pequeño por su sencillez como para un proyecto grande y muy especializado por su versatilidad.
 		
 		Como siempre todo depende del tipo de proyecto que vas a llevar acabo y cada proyecto es único.
 
-* **AlexGarrixen** (1)
+* **AlexGarrixen** (1) [825696](https://platzi.com/comentario/825696/) 
 
-	
 	No deberiamos controlar el rechazo de la promesa de **connect** con el **catch** y mostar un mensaje si llegara a fallar la conexion.  
 	Donde posteriormente en los servicios verificariamos el valor que retornara la funcion,en este caso,por ejemplo en getAll  
 	devuelvo null en caso de que falle y en el servicio validaria si me regresa un falsyvalue(null,undefines,etc),y responder algo al respecto.
@@ -11116,20 +10501,19 @@ Para este tipo de proyectos que recomiendas, hacer uso de una librería para est
 	    ``` 
 	```
 
-* **george-montenegro** (1)
+* **george-montenegro** (1) [80362](https://platzi.com/comentario/957461/) 
 Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ejecuto la llamada del (POST: 
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [80362] (1)
 
-		
 		Hey!
 		
 		Por favor compartenos el codigo donde realizas la conección a mongodb para poder brindarte una mejor ayuda.
 
-* **jhonaikerfarias** (1)
+* **jhonaikerfarias** (1) [77281](https://platzi.com/comentario/901529/) 
 ¿Recomiendan usar esta libreria mongodb o mongoose que se usa en el otro curso de nodejs?
 
-## 0280. Conexión de nuestros servicios con MongoDB
+## 0280. Conexión de nuestros servicios con MongoDB [22037](https://platzi.com/clases/1646-backend-nodejs/22037-conexion-de-nuestros-servicios-con-mongodb/)
 
 ### Descripción:
 
@@ -11142,9 +10526,8 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 
 ### Comentarios:
 
-* **Alejandro González Reyes** (12)
+* **Alejandro González Reyes** (12) [738058](https://platzi.com/comentario/738058/) 
 
-	
 	Con la configuración actual envía un warning
 	``` 
 	    DeprecationWarning: current Server Discovery and Monitoring engine isdeprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true }to the MongoClient constructor
@@ -11163,19 +10546,16 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 	    
 	```
 
-	* **Andrea Méndez Díaz** (1)
+	* **Andrea Méndez Díaz** [738058] (1)
 
-		
 		Gracias.
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [738058] (1)
 
-		
 		Thanks
 
-* **Jesús Miguel Quinto Teran** (5)
+* **Jesús Miguel Quinto Teran** (5) [835730](https://platzi.com/comentario/835730/) 
 
-	
 	A diferencia de los **JSON** que escribimos comúnmente, para que express logre parcear correctamente el json, deben usar comillas dobles en la clave.
 	``` 
 	    //bad 💥
@@ -11197,9 +10577,8 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 	    
 	```
 
-* **Andres Roberto Coello Goyes** (5)
+* **Andres Roberto Coello Goyes** (5) [821919](https://platzi.com/comentario/821919/) 
 
-	
 	En mi caso me arrojaba un error del PORT, y me di cuenta que en la conexión del cluster
 	``` 
 	    mongodb+srv://<username>:<password>@cluster0-pm1ma.mongodb.net/test?retryWrites=true&w=majority
@@ -11208,18 +10587,16 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 	
 	no especificaba el puerto así que lo borre y listo.
 
-* **mrcMesen** (3)
+* **mrcMesen** (3) [1026481](https://platzi.com/comentario/1026481/) 
 
-	
 	Algún heroe sin capa que explique esta linea a detalle:
 	``` 
 	    const query = tags && {tags: {$in: tags}};
 	    
 	```
 
-	* **Carlos Vallejo** (1)
+	* **Carlos Vallejo** [1026481] (1)
 
-		
 		Esto es lo que se llama un IF Ternario, cumple la misma función de un condicional IF, nada más que escrito de distinta manera.
 		``` 
 		    const ifBasico = <condición> && <haz esto>;
@@ -11229,9 +10606,8 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 		
 		En el caso del profesor, lo que hace es una verificación para ver si la variable _tags_ está definida (hay datos) y en caso de que así sea está creando un objeto con el atributo tags
 
-* **Carlos Vallejo** (2)
+* **Carlos Vallejo** (2) [1090674](https://platzi.com/comentario/1090674/) 
 
-	
 	Si tienen el siguiente error:
 	``` 
 	    MongoError: MongoClient must be connected before calling 
@@ -11258,30 +10634,25 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 	
 	Espero esto les sirva.
 
-	* **carlosextra1** (2)
+	* **carlosextra1** [1090674] (2)
 
-		
 		no manches! te debo una. Tengo el mismo error. muchas gracias de verdad!
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [1090674] (2)
 
-		
 		Alguien me podría ayudar  
 		Mis variables de entorno me retornan undefined 😦
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1090674] (1)
 
-		
 		Que onda @Juan Puedes compartir tu código!
 
-* **daulisg** (2)
+* **daulisg** (2) [1016358](https://platzi.com/comentario/1016358/) 
 
-	
 	🤯 Cuando tienes un typo y pasas 1 hora de tu via averiguando porque tu proyecto no esta funcionando lol
 
-* **David Behar** (2)
+* **David Behar** (2) [792874](https://platzi.com/comentario/792874/) 
 
-	
 	Para conectarme a mi base de datos tuve que modificar mi endpoint de la siguiente manera
 	``` 
 	    const MONGO_URI = `${config.dbConnectionType}://${USER}:${PASSWORD}@${config.dbHost}:${config.dbPort}`;
@@ -11296,41 +10667,36 @@ Hola Amigos, me podrian ayudar por favor con este error que se produce cuando ej
 	
 	En ese código realizamos de nuevo la conección a una base de datos específica, si alguien batalla por conectarse a base de datos privada, le ayudaré desde este mensaje.
 
-* **Jonatan Francisco Gonzalez Donis** (2)
+* **Jonatan Francisco Gonzalez Donis** (2) [86372](https://platzi.com/comentario/1094551/) 
 Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una base de datos relacional ejemplo oracle-db. Es recomendabl...
 
-	* **glrodasz** (1)
+	* **glrodasz** [86372] (1)
 
-		
 		La verdad depende el tipo de de aplicación que este usando. Por ejemplo, cuando es una aplicación que tiene muchas transacciones lo mejor es dejar las conexiones abiertas para que se reutilicen, porque es mas costoso abrir y cerrar conexiones. Pero generalmente, mantener una conexión abierta sin transacciones es un consumo de memoria no necesario.
 		
 		Los drivers suelen tomar esta decisión por ti. Mi consejo, es ensaya varias opciones y monitorea como se comporta tu aplicación para tomar la mejor decisión.
 
-* **ocandoja** (1)
+* **ocandoja** (1) [1109978](https://platzi.com/comentario/1109978/) 
 
-	
 	Tengo este error si alguien me puede ayudar lo apreciaría mucho
 	``` 
 	    MongoServerSelectionError: bad auth Authentication failed.```
 	    
 	```
 
-* **David Lara Chirinos** (1)
+* **David Lara Chirinos** (1) [1088451](https://platzi.com/comentario/1088451/) 
 
-	
 	Casi 2 horas leyendo documentacion y repitiendo videos, pero todo bien. Por fin!
 
-* **daulisg** (1)
+* **daulisg** (1) [1018177](https://platzi.com/comentario/1018177/) 
 
-	
 	Solo use el `config.dbHost` y el nombre de la collection porque no tengo **usuario/password** en la local:  
 	en el **.env: ** **DB_HOST=mongodb://127.0.0.1:27017**
 	
 	![Screen Shot 2020-03-04 at 12.02.57 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-03-04%20at%2012.02.57%20AM-5f982f24-ac29-4dd9-82b1-2ea145e2c801.jpg)
 
-* **daniel-zurita** (1)
+* **daniel-zurita** (1) [1004269](https://platzi.com/comentario/1004269/) 
 
-	
 	Si les arroja error prueben quitando el puerto, ya que en la cadena de conexión del cluster no se incluye el puerto.
 	``` 
 	    const MONGO_URI = `mongodb+srv://${USER}:${PASSWORD}@${config.dbHost}/${DB_NAME}?retryWrites=true&w=majority`;
@@ -11339,16 +10705,14 @@ Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una 
 	
 	además que en config tenemos port, no dbport.
 
-* **Betty Rossana Jimenez Cedeño** (1)
+* **Betty Rossana Jimenez Cedeño** (1) [988661](https://platzi.com/comentario/988661/) 
 
-	
 	Tengo este error
 	
 	`MongoParseError: Unescaped at-sign in authority section at parseConnectionString (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/node_modules/mongodb/lib/core/uri_parser.js:589:21) at connect (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/node_modules/mongodb/lib/operations/connect.js:297:3) at ConnectOperation.execute (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/node_modules/mongodb/lib/operations/connect.js:208:5) at executeOperation (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/node_modules/mongodb/lib/operations/execute_operation.js:81:17) at MongoClient.connect (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/node_modules/mongodb/lib/mongo_client.js:219:10) at /home/olivia/Documentos/ESTUDIOS/NODE/movies-api/lib/mongo.js:20:21 at new Promise (<anonymous>) at MongoLib.connect (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/lib/mongo.js:19:29) at MongoLib.getAll (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/lib/mongo.js:35:17) at MoviesService.getMovies (/home/olivia/Documentos/ESTUDIOS/NODE/movies-api/services/movies.js:12:39)`
 
-* **george-montenegro** (1)
+* **george-montenegro** (1) [973004](https://platzi.com/comentario/973004/) 
 
-	
 	Buenas noches por favor su ayuda con este error  
 	adjunto URL ( <https://gitlab.com/kerberos001/curso/-/tree/master/platzi-videos> )
 	
@@ -11374,24 +10738,20 @@ Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una 
 	
 	Por su ayuda gracias …
 
-	* **Luis Fernández** (3)
+	* **Luis Fernández** [973004] (3)
 
-		
 		x2
 
-* **Maximo Martinez Soria** (1)
+* **Maximo Martinez Soria** (1) [921409](https://platzi.com/comentario/921409/) 
 
-	
 	Por qué hace destructuring en todos los parámetros que reciben los métodos?
 
-	* **mrcMesen** (1)
+	* **mrcMesen** [921409] (1)
 
-		
 		Creo que es por la manera en que envie los parametros, suele enviarlos como objetos y por eso los destructura luego, no se si será un tema de persistencia de los objetos en memoria o alguna ‘buena practica’, la verdad me gustaría que lo aclaren.
 
-* **rulobars** (1)
+* **rulobars** (1) [905240](https://platzi.com/comentario/905240/) 
 
-	
 	Hola ! a mi me da este error en el servidor :  
 	MongoError: MongoClient must be connected before calling MongoClient.prototype.db  
 	mi cadena de mongo está asi:  
@@ -11412,23 +10772,20 @@ Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una 
 	
 	¿Alguien me ayuda por favor?
 
-	* **Juan Franco** (1)
+	* **Juan Franco** [905240] (1)
 
-		
 		tengo el mismo error no se si hay alguien que me pueda orientar
 
-	* **Joaquin Mayer Breitkreitz** (1)
+	* **Joaquin Mayer Breitkreitz** [905240] (1)
 
-		
 		Para solucionar este error hay que cambiar la url de mongo.
 		
 		Ya que se conecta local, deberia ser asi: mongodb://${config.dbHost}😒{config.dbPort}/${DB_NAME}?retryWrites=true&w=majority
 		
 		Lo que cambia es que en vez de ser mongodb+srv es mongodb y que no se usa el usuario y contraseña, solamente el host
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [905240] (1)
 
-		
 		Tambien tengo el mismo error: Deberian de brindarnos ayuda porque ya somos varions con este error. Aqui esta el error:
 		``` 
 		    throw error;
@@ -11451,23 +10808,20 @@ Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una 
 		    
 		```
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [905240] (1)
 
-		
 		Asi queda la variable:
 		``` 
 		    const MONGO_URI = `mongodb://${config.dbHost}:${config.dbPort}/${DB_NAME}?retryWrites=true&w=majority`;```
 		    
 		```
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [905240] (1)
 
-		
 		Te falta el nombre de la base de datos
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [905240] (1)
 
-		
 		Gracias por contestar companero, pero creo que si estoy incluyendo =el nombre de la BD
 		
 		const DB_NAME = config.dbName;
@@ -11476,24 +10830,20 @@ Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una 
 		
 		Asi es como tengo declarada la variable
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [905240] (1)
 
-		
 		Quita el puerto
 
-* **darwinyusef** (1)
+* **darwinyusef** (1) [878056](https://platzi.com/comentario/878056/) 
 
-	
 	como se manejan las relaciones usando mongo db ?
 
-* **Luis Miguel Rodriguez** (1)
+* **Luis Miguel Rodriguez** (1) [846127](https://platzi.com/comentario/846127/) 
 
-	
 	Una alternativa puede ser Model View Controller(MVC) y se puede usar [Moongose](https://mongoosejs.com/) si se te dificulta el clean code architecture.
 
-* **Nadir Antonio Soza Solis** (1)
+* **Nadir Antonio Soza Solis** (1) [749825](https://platzi.com/comentario/749825/) 
 
-	
 	Hola @glrodasz tu recomendarías tener una única clase Servicio que reciba en su constructor el nombre de la colleccion y que esta implemente los CRUD’s para todas? algo similar a esto…
 	``` 
 	    const MongoLib = require('../lib/mongo');
@@ -11536,31 +10886,27 @@ Una duda ahi dejas la conexión abierta de mongo. Si utilizo un driver para una 
 	    
 	```
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [749825] (1)
 
-		
 		@glrodasz Me hago la misma pregunta, realizar CRUD es tarea de todos los días y podría ser muy bueno este enfoque. ¿tu que opinas?
 
-* **danielsanz (Platzi)** (1)
+* **danielsanz (Platzi)** (1) [699959](https://platzi.com/comentario/699959/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/capa-de-manejo-de-errores-usando-un-middleware>
 
-* **Juan David Alcala Sanchez** (1)
+* **Juan David Alcala Sanchez** (1) [83218](https://platzi.com/comentario/1022090/) 
 Buenos días, alguien podría colaborarme con una duda? no me sirve el patch al hacer seguimiento, veo que llega hasta el metodo update de ...
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [83218] (1)
 
-		
 		¡Hola, Juan! Por favor comparte un _screenshot_ de tu código para poder brindarte ayuda.
 
-* **Luis Miguel gonzalez** (1)
+* **Luis Miguel gonzalez** (1) [77577](https://platzi.com/comentario/906364/) 
 Cuando pense que todo estaba bien, me salio un error en los servicios que se debe enviar el ID, me sale el siguiente error Error: Argumen...
 
-	* **Luis Miguel gonzalez** (1)
+	* **Luis Miguel gonzalez** [77577] (1)
 
-		
 		Resolví el error, era que en la capa de routes/movies.js estaba recibiendo el id de la siguiente manera:
 		``` 
 		    const moviesId = req.param
@@ -11573,12 +10919,11 @@ Cuando pense que todo estaba bien, me salio un error en los servicios que se deb
 		    
 		```
 
-* **Luis Miguel gonzalez** (1)
+* **Luis Miguel gonzalez** (1) [77566](https://platzi.com/comentario/906149/) 
 Tengo el siguiente problema al intentar realizar una petición, me dice Invalid Connetion String. Comparto mi codigo para ver si alguien m...
 
-	* **Luis Miguel gonzalez** (1)
+	* **Luis Miguel gonzalez** [77566] (1)
 
-		
 		Ya resolvi el Issue, estaba escribiendo mal la URI, la tenia asi:
 		``` 
 		    const MONGO_URI = `mongo+srv://${USER}:${PASSWORD}@${config.dbHost}/${DB_NAME}?retryWrites=true&w=majority`;
@@ -11596,12 +10941,11 @@ Tengo el siguiente problema al intentar realizar una petición, me dice Invalid 
 		Entiendo que se refiere a que la manera en que lo usa Mongo Atlas en el URI, no permite colocar el puerto.  
 		si existe una forma de agregar el puerto les agredeceria.
 
-* **Edward Orlando Hurtado** (1)
+* **Edward Orlando Hurtado** (1) [71919](https://platzi.com/comentario/806460/) 
 Por que el los parametros de las funciones las coloca dentro de llaves y no solamente las coloca como parametros unicos?? Ejemplo el pone...
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [71919] (4)
 
-		
 		Esto lo conocemos como **Named Arguments** (o argumentos con nombre).
 		
 		Imagina que debes crear una función para alimentar a tu perrito:
@@ -11676,37 +11020,33 @@ Por que el los parametros de las funciones las coloca dentro de llaves y no sola
 		
 		Si no me entendiste nada puedes ver este tutorial: <https://medium.com/@afontcu/cool-javascript-9-named-arguments-functions-that-get-and-return-objects-337b6f8cfa07>. 😅
 
-* **SKILLON** (1)
+* **SKILLON** (1) [71851](https://platzi.com/comentario/804814/) 
 Estoy trabajando desde windows tengo el siguiente error queryTxt EREFUSED cluster0-im9ep.mong...
 
-	* **glrodasz** (1)
+	* **glrodasz** [71851] (1)
 
-		
 		Es muy posible que se deba a la version del URI que estas usando: <https://stackoverflow.com/a/55639024/1360383>
 
-* **wilantury** (1)
+* **wilantury** (1) [71469](https://platzi.com/comentario/797896/) 
 Hola, no pude conectarme a la BD de mongoDB, he intentado hacerlo con MongoDB Compass y no fue posible. Alguien tiene idea de que estoy o...
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [71469] (1)
 
-		
 		¿Haz revisado si la consola te arroja algún mensaje de error?  
 		Posiblemente sea cuestiones de credenciales
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [70949](https://platzi.com/comentario/785966/) 
 No pude conectar mi api a la instancia local. Instalé mongo y parece funcionar bien en local, hasta le creé un usuario a la base de datos...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [70949] (1)
 
-		
 		¡Hola! Claro que te ayudamos. Muéstranos tu código para ver si es que hay algún ligero typo o algo por el estilo. También si la consola te muestra algún error. 🙏🐛
 
-* **Rubén Jiménez Torres** (0)
+* **Rubén Jiménez Torres** (0) [72671](https://platzi.com/comentario/820380/) 
 tengo este error al momento de guardar nuevos datos MongoError: w has to be anumberorastring``` 
 
-	* **Rubén Jiménez Torres** (1)
+	* **Rubén Jiménez Torres** [72671] (1)
 
-		
 		Encontré la solución, el constructor de la clase MongoLib quedó así
 		``` 
 		    constructor(){
@@ -11720,26 +11060,24 @@ tengo este error al momento de guardar nuevos datos MongoError: w has to be anum
 		    
 		```
 
-* **oqodigital** (0)
+* **oqodigital** (0) [70800](https://platzi.com/comentario/782590/) 
 Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien y obtengo el ID, pero cuando hago el get all, solo se gua...
 
-	* **oqodigital** (3)
+	* **oqodigital** [70800] (3)
 
-		
 		Era porque cuando hacía post lo hacía como TEXTO no JSON, al igual que el profe lo hizo en el update jejejeje. “si seré”
 
-# Conoce como funcionan los Middleware en Express.js
+# Conoce como funcionan los Middleware en Express.js [4418]
 
-## 0290. ¿Qué es un middleware Capa de manejo de errores usando un middleware
+## 0290. ¿Qué es un middleware Capa de manejo de errores usando un middleware [22038](https://platzi.com/clases/1646-backend-nodejs/22038-que-es-un-middleware-capa-de-manejo-de-errores-usa/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Carlos Rodríguez Huerta** (7)
+* **Carlos Rodríguez Huerta** (7) [810810](https://platzi.com/comentario/810810/) 
 
-	
 	Trabajo con Windows y tuve un ligero problema con la variable de entorno en el archivo errorHandlres.js
 	``` 
 	    if(config.dev)//siempre retornaba true
@@ -11775,14 +11113,12 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	
 	Para usar el entorno de desarrollo seteé la variable de entorno “development” para que al usar trim() no me marque error por asignar un método a un undefined.
 
-	* **Miguel Segura** (1)
+	* **Miguel Segura** [810810] (1)
 
-		
 		Gracias por la explicacion!
 
-* **Hebert de León** (6)
+* **Hebert de León** (6) [749976](https://platzi.com/comentario/749976/) 
 
-	
 	En Windos al parecer para ejecutar _npm run start_ , debe ir esto en el **package.json** :
 	``` 
 	    {
@@ -11793,19 +11129,16 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	    
 	```
 
-	* **IngridSagrero** (1)
+	* **IngridSagrero** [749976] (1)
 
-		
 		Gracias, Eso funciona!!!
 
-	* **carlosdummy14** (1)
+	* **carlosdummy14** [749976] (1)
 
-		
 		Ojo, el espacio inexistente entre la palabra producction y && es muy importante!!
 
-	* **Luis Miguel gonzalez** (2)
+	* **Luis Miguel gonzalez** [749976] (2)
 
-		
 		Como dice carlosdummy14, los espacios pueden afectar, se debe escribir de la siguiente manera:
 		``` 
 		    {
@@ -11816,9 +11149,8 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 		    
 		```
 
-* **edwintrumpet** (4)
+* **edwintrumpet** (4) [789784](https://platzi.com/comentario/789784/) 
 
-	
 	**Dato:** El orden en el que ponemos los middlewares en este caso importa muchísimo.
 	
 	Estamos poniendo los middlewares de error después de las rutas porque cuando se crea el error en la ruta pasa al _catch_ y ese _catch_ tiene un callback _next()_ que le pasa el error al siguiente middleware.
@@ -11827,9 +11159,8 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	
 	Podemos comprobar que si invertimos el orden de los middlewares y ponemos _ _errorHandler_ antes que _logErrors_ en el _index_ después de las rutas vemos que no funcionará el middleware _logErrors_ porque el middleware _errorHandler_ no está pasándole el error a un siguiente middleware por medio del callback _next()_
 
-* **David Behar** (3)
+* **David Behar** (3) [792981](https://platzi.com/comentario/792981/) 
 
-	
 	## Middleware
 	
 	Un Middleware es una capa intermedia que intercepta la información de algo, un middleware se define por defecto con una función del siguiente formato:
@@ -11857,28 +11188,24 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	    
 	```
 
-* **jasanhdz** (3)
+* **jasanhdz** (3) [768372](https://platzi.com/comentario/768372/) 
 
-	
 	Seguro mis notas te ayudan a repasar todo el curso, puedes leerlas desde la comidad de tu telefono. 😄  
 	<https://github.com/JasanHdz/backendnodejs/tree/master/notes>  
 	No se rindan, éxito 💪
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [768372] (1)
 
-		
 		Mucho, parce excelentes notas.  
 		Son el curso en texto jaja
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699972](https://platzi.com/comentario/699972/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/capa-de-manejo-de-errores-usando-un-middleware>
 
-* **Carlos Vallejo** (1)
+* **Carlos Vallejo** (1) [1110013](https://platzi.com/comentario/1110013/) 
 
-	
 	Si cuando corren el servidor no diferencia si está en producción o en desarrollo, veriquen su package.json. El comando ‘start’ debe estar así:
 	``` 
 	    "start": "set NODE_ENV=production&&node index.js"
@@ -11887,24 +11214,20 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	
 	Nota: Esto me parece que solo funciona en Windows
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094703](https://platzi.com/comentario/1094703/) 
 
-	
 	Lanzando el error!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094695](https://platzi.com/comentario/1094695/) 
 
-	
 	Middleware de error siempre deben de ir al final de las rutas!!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094677](https://platzi.com/comentario/1094677/) 
 
-	
 	Explicación muy muy buena de que es un middleware
 
-* **Juanse Calviño** (1)
+* **Juanse Calviño** (1) [954473](https://platzi.com/comentario/954473/) 
 
-	
 	Hola, una consulta, es más recomendable utilizar
 	``` 
 	    console.error(err)
@@ -11913,14 +11236,12 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	
 	para mostrar errores por consola?
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [954473] (1)
 
-		
 		en consola no hay diferencia, en la consola de google chrome si. Creo que seria igual
 
-* **David Behar** (1)
+* **David Behar** (1) [792997](https://platzi.com/comentario/792997/) 
 
-	
 	Mi middleware de errorHandler() no funciona, paso un [branch](https://github.com/behagoras/mongo_store/tree/errorHandler): <https://github.com/behagoras/mongo_store/tree/errorHandler> y copio el código
 	
 	**ErrorHandler.js**
@@ -11985,24 +11306,20 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 	    
 	```
 
-	* **mayraaceves** (2)
+	* **mayraaceves** [792997] (2)
 
-		
 		Creo que te hace falta pasarle err a next en la función logErrors
 
-	* **David Behar** (1)
+	* **David Behar** [792997] (1)
 
-		
 		Suena lógico, creo que sí, gracias Mayra
 
-	* **David Behar** (1)
+	* **David Behar** [792997] (1)
 
-		
 		Noup, se rompe
 
-	* **Jorge Humberto Nemogá Pinzón** (1)
+	* **Jorge Humberto Nemogá Pinzón** [792997] (1)
 
-		
 		Prueba con estos cambios:
 		``` 
 		    functionlogErrors(err, req, res, next) {
@@ -12019,25 +11336,23 @@ Hola. Todo bien, pero al crear una nueva movie con el lorem ipsum, se crea bien 
 		
 		Si ya lo resolviste es bueno que coloques la solución, aun si fuera muy personal como un typo o un error en el llamado de modulos que no presentas.
 
-* **David Behar** (1)
+* **David Behar** (1) [71257](https://platzi.com/comentario/792998/) 
 Mi middleware de errorHandler() no funciona, paso un branch: https:/...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [71257] (1)
 
-		
 		¡Hola, David!
 		
 		¿Tienes algún error? ¿O es que el middleware nunca se ejecuta?
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68314](https://platzi.com/comentario/738575/) 
 A que se si declaro el lanzamiento del error antes de llamada asincrona, me retorna una pila mas completa del error, pero en su mayoría r...
 
-	* **Edward Steven Ramos Palacios** (2)
+	* **Edward Steven Ramos Palacios** [68314] (2)
 
-		
 		Como tienes tu código?
 
-## 0300. Manejo de errores asíncronos y síncronos en Express
+## 0300. Manejo de errores asíncronos y síncronos en Express [22039](https://platzi.com/clases/1646-backend-nodejs/22039-manejo-de-errores-asincronos-y-sincronos-en-expres/)
 
 ### Descripción:
 
@@ -12096,24 +11411,20 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 
 ### Comentarios:
 
-* **Nadir Antonio Soza Solis** (3)
+* **Nadir Antonio Soza Solis** (3) [750318](https://platzi.com/comentario/750318/) 
 
-	
 	En la documentación oficial explican un poco mas sobre el tema. [Manejo de Errores Express](https://expressjs.com/en/guide/error-handling.html)
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [750318] (1)
 
-		
 		Gracias por el aporte!
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1094748](https://platzi.com/comentario/1094748/) 
 
-	
 	Ya había usado next() pero no entendía cómo era su función. Con esta lectura me queda un poco más claro. Checare documentación para entenderlo al 100%
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [738588](https://platzi.com/comentario/738588/) 
 
-	
 	Si se invoca
 	``` 
 	    next('mensaje del error') 
@@ -12128,14 +11439,13 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	
 	¿Tiene el mismo efecto, o es obligatorio declararlo así?
 
-	* **Omar Flores Grimontt** (2)
+	* **Omar Flores Grimontt** [738588] (2)
 
-		
 		En ese caso lo que sucede es que Express no devolveŕia un error, sólo un string.
 		
 		Pero igual se iría por 500.
 
-	* **edwintrumpet** (3)
+	* **edwintrumpet** [738588] (3)
 
 		```
 		    thrownewError('mensaje de error')
@@ -12146,35 +11456,31 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 		
 		Mientras que la función `next()` se encarga de enviarle parámetros al siguiente middleware, no solo puede enviar mensajes de error sino modificaciones del objeto _req_ por ejemplo, entonces al pasar un string en la función `next()` está enviando solo eso, un string y nada más, no está enviando un error.
 
-## 0310. Capa de validación de datos usando un middleware
+## 0310. Capa de validación de datos usando un middleware [22040](https://platzi.com/clases/1646-backend-nodejs/22040-capa-de-validacion-de-datos-usando-un-middleware/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699973](https://platzi.com/comentario/699973/) 
 
-	
 	Repositorio de una clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/capa-de-validacion-de-datos-usando-un-middleware>
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094755](https://platzi.com/comentario/1094755/) 
 
-	
 	Crear validationHandler.js OJO ES UN MARCADOR
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [797170](https://platzi.com/comentario/797170/) 
 
-	
 	Nunca lo prueba cierto?
 
-	* **deveeup** (2)
+	* **deveeup** [797170] (2)
 
-		
 		Clases más adelante se usa…
 
-## 0320. ¿Qué es Joi y Boom
+## 0320. ¿Qué es Joi y Boom [22041](https://platzi.com/clases/1646-backend-nodejs/22041-que-es-joi-y-boom/)
 
 ### Descripción:
 
@@ -12191,32 +11497,28 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 
 ### Comentarios:
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094763](https://platzi.com/comentario/1094763/) 
 
-	
 	Esto me recuerda Laravel. También su manejador de validación es muy amigable!
 
-* **Jose Alberto Arango Sánchez** (1)
+* **Jose Alberto Arango Sánchez** (1) [806116](https://platzi.com/comentario/806116/) 
 
-	
 	Excelente forma de validar los datos, ¿Saben como usar un servicio como S3 con Nodejs? ¿Para poder enviar archivos atravez de una petición que tipo de formato debe ser?  
 	Muchas gracias de antemano
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [806116] (1)
 
-		
 		Es interesante tu pregunta. También espero la respuesta!
 
-## 0330. Implementando Boom
+## 0330. Implementando Boom [22042](https://platzi.com/clases/1646-backend-nodejs/22042-implementando-boom/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (7)
+* **Juan Carlos García Esquivel** (7) [800114](https://platzi.com/comentario/800114/) 
 
-	
 	##  **[Boom](https://hapi.dev/family/boom/?v=8.0.1)**
 	
 	Boom nos provee una serie de utilidades para retornar errores HTTP, cada utilidad es un objeto de respuesta de tipo Boom que incluye las siguientes propiedades:
@@ -12229,55 +11531,49 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	**`typeof`** \- el constructor usado para crear el error (ejemplo: `Boom.badRequest`).  
 	**`output`** \- la respuesta formateada **(generalmente esta es la que usamos)** y contiene las siguientes claves:
 	
-	  * **`statusCode`** \- código de estatus HTTP.
-	  * **`headers`** \- un objeto que contiene encabezados HTTP donde cada clave es un nombre de encabezado y el valor es el contenido del encabezado.
-	  * **`payload`** \- el objeto formateado usado como respuesta y contiene las siguientes claves:  
+	* **`statusCode`** \- código de estatus HTTP.
+	* **`headers`** \- un objeto que contiene encabezados HTTP donde cada clave es un nombre de encabezado y el valor es el contenido del encabezado.
+	* **`payload`** \- el objeto formateado usado como respuesta y contiene las siguientes claves:  
 	\- **`statusCode`** \- código de estatus HTTP, proviene de `statusCode`  
 	\- **`error`** \- nombre derivado del error HTTP `statusCode`.  
 	\- **`message`** \- mensaje de error derivado de `error.message`
 	
 	
 
-	* **Maximo Martinez Soria** (2)
+	* **Maximo Martinez Soria** [800114] (2)
 
-		
 		Excelente
 
-	* **carlosextra1** (2)
+	* **carlosextra1** [800114] (2)
 
-		
 		Gracias por el aporte!
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699979](https://platzi.com/comentario/699979/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/implementando-boom>
 
-* **Juan José Vega Quintero** (1)
+* **Juan José Vega Quintero** (1) [1097976](https://platzi.com/comentario/1097976/) 
 
-	
 	No olviden instalar boom
 	``` 
 	    npm i @hapi/boom
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094776](https://platzi.com/comentario/1094776/) 
 
-	
 	Crear notFoundHandler.js : OJO esto es un marcador
 
-## 0340. Implementando Joi
+## 0340. Implementando Joi [22246](https://platzi.com/clases/1646-backend-nodejs/22246-implementando-joi/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **eduardohackone** (16)
+* **eduardohackone** (16) [762133](https://platzi.com/comentario/762133/) 
 
-	
 	Con la nueva version me funciono de esta manera
 	``` 
 	    const boom = require('@hapi/boom')
@@ -12301,14 +11597,12 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	    
 	```
 
-	* **Andres Leonardo Arevalo** (1)
+	* **Andres Leonardo Arevalo** [762133] (1)
 
-		
 		Me funciono super bien, muchísimas gracias
 
-* **Alejandro González Reyes** (8)
+* **Alejandro González Reyes** (8) [739249](https://platzi.com/comentario/739249/) 
 
-	
 	Si tienen problemas para validar, dejo un ejemplo con los cambios mínimos a implementar  
 	En lugar de retornar un objeto plano, se retorna un objeto de tipo joi
 	``` 
@@ -12341,9 +11635,8 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	
 	Espero haber auxiliado a mas de uno.
 
-	* **Alejandro González Reyes** (4)
+	* **Alejandro González Reyes** [739249] (4)
 
-		
 		Corrección…  
 		El schema solo puede contener objetos planos. Por tanto sus schemas deben quedar como antes
 		``` 
@@ -12362,9 +11655,8 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 		
 		y en el middleware ahi si es convertirlos a objetos de tipo joi…
 
-* **eduardoluisgr** (6)
+* **eduardoluisgr** (6) [738587](https://platzi.com/comentario/738587/) 
 
-	
 	Esta es la actualización que hay que hacer para que funcionen las validaciones
 	``` 
 	    const boom = require('@hapi/boom')
@@ -12388,16 +11680,14 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	    
 	```
 
-	* **eduardohackone** (5)
+	* **eduardohackone** [738587] (5)
 
-		
 		Esto me ayudo pero adicional me toco agregar joi.object
 		
 		const { error } = joi.object(schema).validate(data);
 
-* **David Behar** (4)
+* **David Behar** (4) [793619](https://platzi.com/comentario/793619/) 
 
-	
 	## Importante, hay un problema con la versión
 	
 	.  
@@ -12409,16 +11699,14 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	    
 	```
 
-* **heysoypaez** (3)
+* **heysoypaez** (3) [738905](https://platzi.com/comentario/738905/) 
 
-	
 	_Estamos colocando el middleware validation handler entre la ruta y el middleware final. Asi mismo podemos colocar varios middleware._
 	
 	¡Esto es lo que querias decir con la explicación del middleware con la metafora de la población y el agua! colocamos varios intermediarios antes de la acción HTTP final.
 
-* **eduardoluisgr** (3)
+* **eduardoluisgr** (3) [738591](https://platzi.com/comentario/738591/) 
 
-	
 	ahh!!! también hay una nueva forma para los schemas asi
 	``` 
 	    // Un objeto
@@ -12437,19 +11725,16 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	    
 	```
 
-* **Antonio Luis Gil Rodríguez** (2)
+* **Antonio Luis Gil Rodríguez** (2) [836617](https://platzi.com/comentario/836617/) 
 
-	
 	Hay una librería muy útil que nos da la validación para los id de mongodb <https://www.npmjs.com/package/joi-objectid>
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [836617] (1)
 
-		
 		gracias por el aporte!
 
-* **AlexGarrixen** (2)
+* **AlexGarrixen** (2) [825933](https://platzi.com/comentario/825933/) 
 
-	
 	Hola,como mecionan los compañeros,si tienes problemas con la impementacion de joi debido a una actualizacion,puedes hacer esto.
 	
 	## Create un schema de joi
@@ -12484,19 +11769,16 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 	    
 	```
 
-* **Diego Ivan Padilla Bernal** (2)
+* **Diego Ivan Padilla Bernal** (2) [736476](https://platzi.com/comentario/736476/) 
 
-	
 	En la nueva versión de Joi ya no existe la función de joi.validate, ahora se hace de otra forma así que si usas a partir de la versión 16 este video ya no ayuda
 
-	* **eduardoluisgr** (1)
+	* **eduardoluisgr** [736476] (1)
 
-		
 		Ya tengo la solución, en los aportes dejé la actualización
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [736476] (2)
 
-		
 		Como lo describe la documentación, en vez de usar **`joi.validate`** podemos directamente crear nuestro **`schema`** y al tenerlo listo usar la propiedad **`schema.validate`** para obtener un error o valor de retorno.
 		
 		👉 <https://www.npmjs.com/package/@hapi/joi>
@@ -12512,52 +11794,46 @@ Cuando se usan funciones que retornan promesas, puedes simplemente proveer la fu
 		    
 		```
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699983](https://platzi.com/comentario/699983/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/implementando-joi>
 
-* **Joel Jose Yustiz Carmona** (1)
+* **Joel Jose Yustiz Carmona** (1) [978580](https://platzi.com/comentario/978580/) 
 
-	
 	Joi esta deprecada, encontré esta alternativa express-validator, no se si conocen alguna otra
 
-	* **Miguel Angel Escurra** (1)
+	* **Miguel Angel Escurra** [978580] (1)
 
-		
 		No esta deprecada, simplemente ahora forma parte del ecosistema hapi.
 		
 		<https://www.npmjs.com/package/@hapi/joi>
 
-* **Abraham Gonzalez** (1)
+* **Abraham Gonzalez** (1) [82526](https://platzi.com/comentario/1007163/) 
 No existe una mejor manera de estructurar este código, es decir, lo veo un poco desorganizado. Imaginen tener 4 middlewares en una misma ...
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [82526] (1)
 
-		
 		Yo lo organicé de esta manera, un middleware por línea me parece mucho más legible
 		
 		![Screenshot_2.png](https://static.platzi.com/media/user_upload/Screenshot_2-3360487a-9520-405e-a875-6b9e625df0db.jpg)
 
-* **SKILLON** (1)
+* **SKILLON** (1) [73059](https://platzi.com/comentario/827611/) 
 Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede deberse?
 
-	* **glrodasz** (1)
+	* **glrodasz** [73059] (1)
 
-		
 		Hola @SKILLON, pudiste solucionar el error? No es claro que tipo de error te esta sucediendo. Te recomiendo siempre poner el stack completo del error en la pregunta.
 
-## 0350. Probar la validación de nuestros endpoints
+## 0350. Probar la validación de nuestros endpoints [22247](https://platzi.com/clases/1646-backend-nodejs/22247-probar-la-validacion-de-nuestros-endpoints/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Dante Calderón** (18)
+* **Dante Calderón** (18) [844860](https://platzi.com/comentario/844860/) 
 
-	
 	Para los que les sale el error `joi.validate is not a function` yo lo solucione cambiando la funcion validate a:
 	``` 
 	    ....
@@ -12572,24 +11848,20 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 	
 	o tambien pueden bajarle la version de `@hapi/joi` a la `15.0.3` como se indico en un comentario abajo
 
-	* **Arlex Felipe Llanos Betancourt** (1)
+	* **Arlex Felipe Llanos Betancourt** [844860] (1)
 
-		
 		Gran aporte, me sirvió mucho, gracias 😄
 
-	* **Luis Miguel gonzalez** (1)
+	* **Luis Miguel gonzalez** [844860] (1)
 
-		
 		Excelente aporte, muchas gracias!
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [844860] (1)
 
-		
 		Gracias me ayudo bastante!
 
-* **Omar Flores Grimontt** (14)
+* **Omar Flores Grimontt** (14) [742424](https://platzi.com/comentario/742424/) 
 
-	
 	La versión 16.1.1 de Joi salió ayer con algunos cambios que rompen el código, por ende es muy probable que las validaciones de datos no te funcionen. Puedes encontrar [acá](https://github.com/hapijs/joi/issues/2037) más información al respecto.
 	
 	Para corregir estos errores sólo debes meter tus objetos de schema que le pasas a la función validate en una función joi.object(). Y llamar el método validate desde el schema, ahora sólo va a recibir la data. Esto va a afectar principalmente tres porciones de código del proyecto, la primera son los schemas que declaras, quedarían así:
@@ -12662,9 +11934,8 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 	
 	O podrías instalar la versión 15.1.0 de @hapi/joi que es la que usa el profesor 😛
 
-	* **oqodigital** (1)
+	* **oqodigital** [742424] (1)
 
-		
 		Me funcionó  
 		`functionvalidate(data, schema) { const { error } = schema.validate(data) returnerror }`  
 		pero al querer usar el DELETE me arroja error.  
@@ -12674,23 +11945,20 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 		
 		😦
 
-	* **oqodigital** (1)
+	* **oqodigital** [742424] (1)
 
-		
 		Ahhh, ya encontré mi error, no actualicé el delete con joi.object
 		
 		jajajajaja
 		
 		ahora con la solución del otro, no era necesario agregar el joi.object en cada uno, sino solo una vez. Ambas cosas sirven.
 
-	* **Andrea Méndez Díaz** (1)
+	* **Andrea Méndez Díaz** [742424] (1)
 
-		
 		Muchas gracias, realmente me ayudaste.
 
-* **Manuel Ojeda** (7)
+* **Manuel Ojeda** (7) [715639](https://platzi.com/comentario/715639/) 
 
-	
 	Reto cumplido:
 	
 	Agregue CORS al código usando:
@@ -12721,26 +11989,22 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 	En clases anteriores quise probar la API desde otro proyecto en Vue solamente para poder consumir la API, obtuve un error de CORS, al aplicar este middleware ya pude consumir el proyecto API en mi proyecto Vue:  
 	![chrome_TluF9cFXYK.png](https://static.platzi.com/media/user_upload/chrome_TluF9cFXYK-2f0a1533-efa3-4d2b-b3c9-edbf3d00bd7d.jpg)
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [715639] (1)
 
-		
 		excelente, no sabia que para eso era cors.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [715639] (1)
 
-		
 		crack
 
-* **platzerito02112019 platzerito02112019** (6)
+* **platzerito02112019 platzerito02112019** (6) [795457](https://platzi.com/comentario/795457/) 
 
-	
 	Al enviar el SEND en código como dice la clase me trono " TypeError: joi.validate is not a function " y lo solucione con esto:
 	    **`npm uninstall --save @hapi/joi`**
 	    **`npm install --save @hapi/joi@15.0.3`**
 
-* **Ernesto Palafox** (2)
+* **Ernesto Palafox** (2) [746667](https://platzi.com/comentario/746667/) 
 
-	
 	Si alguien más se pregunta por qué su error stack no se ve igual que el de @glrodasz  
 	![](https://i.imgur.com/atkYRpC.png)  
 	es por que por defecto el stack está desactivado ahora. Ahora hay que hacer:
@@ -12749,25 +12013,21 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 	    
 	```
 
-	* **David Behar** (1)
+	* **David Behar** [746667] (1)
 
-		
 		Enqué parte hay que hacer eso, en el index?
 
-	* **platzerito02112019 platzerito02112019** (2)
+	* **platzerito02112019 platzerito02112019** [746667] (2)
 
-		
 		yo tambien pregunto lo mismo, donde va el codigo?
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [746667] (1)
 
-		
 		en el index se importa…  
 		pero se escribe en el midelware de validacion
 
-* **Marco Antonio Benites Espinoza** (1)
+* **Marco Antonio Benites Espinoza** (1) [1097807](https://platzi.com/comentario/1097807/) 
 
-	
 	Reto:
 	``` 
 	    const express = require('express');
@@ -12809,9 +12069,8 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094820](https://platzi.com/comentario/1094820/) 
 
-	
 	Tengo el siguiente error
 	``` 
 	    Error: Object schema must be a valid object
@@ -12861,12 +12120,11 @@ Me da un error: err? next(boom.badRequest(err)):next(); a que creen que puede de
 	    
 	```
 
-* **abiruh** (1)
+* **abiruh** (1) [1029244](https://platzi.com/comentario/1029244/) 
 
-	
 	la diferencia es que haciendolo como dice Dante, no aplica la validacion al menos no en el POST crea la pelicula sin la validacion, solo colocando el titulo pasa
 
-## 0360. Middlewares populares en Express.js
+## 0360. Middlewares populares en Express.js [22248](https://platzi.com/clases/1646-backend-nodejs/22248-middlewares-populares-en-expressjs/)
 
 ### Descripción:
 
@@ -12905,9 +12163,8 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 
 ### Comentarios:
 
-* **Alejandro González Reyes** (7)
+* **Alejandro González Reyes** (7) [739339](https://platzi.com/comentario/739339/) 
 
-	
 	Yo implementé el middleware de slash
 	``` 
 	    const express = require('express');
@@ -12932,9 +12189,8 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	    
 	```
 
-* **Diego Felipe Garcia Cortes** (2)
+* **Diego Felipe Garcia Cortes** (2) [930929](https://platzi.com/comentario/930929/) 
 
-	
 	Implementación de morgan para el manejo de logs tipo access.log
 	``` 
 	    npm i morgan
@@ -12972,9 +12228,8 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	    
 	```
 
-* **PaoloTorregrosa** (2)
+* **PaoloTorregrosa** (2) [903545](https://platzi.com/comentario/903545/) 
 
-	
 	Implementación de helmet:
 	
 	1: Instalar helmet
@@ -12999,9 +12254,8 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	Listo, protegidos al establecer multiples encabezados http dentro de la aplicación.  
 	(Se pueden habilitar y desabilitar funciones de helmet individualmente llamándolas o no independientemente)
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094864](https://platzi.com/comentario/1094864/) 
 
-	
 	body parse y cords
 	``` 
 	    /*
@@ -13050,9 +12304,8 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [848661](https://platzi.com/comentario/848661/) 
 
-	
 	Implementación de CORS (Cross-origin resource sharing)
 	``` 
 	    const express = require('express');
@@ -13088,9 +12341,9 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	    
 	```
 
-# Implementa tests en Node.js
+# Implementa tests en Node.js [4456]
 
-## 0370. Creación de tests para nuestros endpoints
+## 0370. Creación de tests para nuestros endpoints [22249](https://platzi.com/clases/1646-backend-nodejs/22249-creacion-de-tests-para-nuestros-endpoints/)
 
 ### Descripción:
 
@@ -13101,24 +12354,21 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 
 ### Comentarios:
 
-* **beaps** (10)
+* **beaps** (10) [725686](https://platzi.com/comentario/725686/) 
 
-	
-	  * [mocha](https://mochajs.org/): nos ayuda a correr los test
-	  * [supertest](https://github.com/visionmedia/supertest): levanta un servidor temporal
-	  * [sinon](https://sinonjs.org/): crea mocks para tests
-	  * [proxyquire](https://github.com/thlorenz/proxyquire) inyecta los mocks cuando se requieren los paquetes
+	* [mocha](https://mochajs.org/): nos ayuda a correr los test
+	* [supertest](https://github.com/visionmedia/supertest): levanta un servidor temporal
+	* [sinon](https://sinonjs.org/): crea mocks para tests
+	* [proxyquire](https://github.com/thlorenz/proxyquire) inyecta los mocks cuando se requieren los paquetes
 	
 	
 
-	* **carlosextra1** (2)
+	* **carlosextra1** [725686] (2)
 
-		
 		gracias!
 
-* **Omar Flores Grimontt** (5)
+* **Omar Flores Grimontt** (5) [744346](https://platzi.com/comentario/744346/) 
 
-	
 	¿Alguien sabe por qué esto funciona
 	
 	En ‘routes/movies.js’
@@ -13153,9 +12403,8 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	
 	?
 
-	* **Ezequiel Guerra** (5)
+	* **Ezequiel Guerra** [744346] (5)
 
-		
 		Depende como lo estés exportando es decir,
 		
 		aquí
@@ -13195,14 +12444,12 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 		    
 		```
 
-* **Alver Ortega** (4)
+* **Alver Ortega** (4) [1004460](https://platzi.com/comentario/1004460/) 
 
-	
 	Les recomiendo jest para los test unitarios, tanto en el front como en el back
 
-* **Juan Sebastian Cortes Torres** (3)
+* **Juan Sebastian Cortes Torres** (3) [795563](https://platzi.com/comentario/795563/) 
 
-	
 	No olviden en test-server hacer uso del parse de express para formato json, el no hacerlo puede generarle error, en su defectoque la prueba falle.
 	``` 
 	    const express = require('express')
@@ -13219,39 +12466,34 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 	    
 	```
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1094866](https://platzi.com/comentario/1094866/) 
 
-	
 	instalar: npm i -D mocha supertest sinon proxyquire
 
-* **cesar-a-guerron** (2)
+* **cesar-a-guerron** (2) [827887](https://platzi.com/comentario/827887/) 
 
-	
 	Al ejecutar el script de test me dio un error porque faltaba setear la variable NODE_ENV
 	
 	“test”: “set NODE_ENV=development && mocha --exit”
 
-* **Luis Rodriguez** (2)
+* **Luis Rodriguez** (2) [822470](https://platzi.com/comentario/822470/) 
 
-	
 	Siempre es bueno escribir las cosas un@ mism@… pero a veces es más fácil con un simple copy/paste:
 	
 	npm i -D mocha supertest sinon proxyquire
 	
 	😃
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699984](https://platzi.com/comentario/699984/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/creacion-de-tests-para-nuestros-endpoints>
 
-* **edwintrumpet** (2)
+* **edwintrumpet** (2) [71565](https://platzi.com/comentario/799730/) 
 ¿Cómo se hace un test para una ruta que recibe parámetros? Por ejemplo la ruta para obtener un solo producto GET /api/:productId
 
-	* **Juan Carlos García Esquivel** (2)
+	* **Juan Carlos García Esquivel** [71565] (2)
 
-		
 		Hola Edwin espero no sea muy tarde, la petición la puedes hacer de la siguiente forma :
 		``` 
 		    request.get(`/api/movies/12345678`).end...
@@ -13260,12 +12502,11 @@ Passport es un _middleware_ que nos permite establecer diferentes estrategias de
 		
 		Como en postman solo tienes que poner la ruta y el valor por parámetro en este caso el parámetro productId le coloque el valor de 12345678 puedes ponerle el que tu quieras.
 
-* **lgalagarza** (2)
+* **lgalagarza** (2) [68499](https://platzi.com/comentario/741514/) 
 Hola! Al levantar el servidor de Test, nos presenta el siguiente mensaje: ‘Invalid stub: “…/services/movies” cannot be undefined’. Probam...
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [68499] (3)
 
-		
 		El error que nos muestras dice `.../services/movies` la ruta debería ser `../services/movies` con dos puntos, a menos que hayas cambiado la estructura de directorios.
 		
 		Si esto no es el error, asegurate de exportar la clase **MoviesServiceMock** , el archivo _/movies-api/utils/mockups/movies.js_ :
@@ -13290,112 +12531,96 @@ Hola! Al levantar el servidor de Test, nos presenta el siguiente mensaje: ‘Inv
 		    
 		```
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [1115164](https://platzi.com/comentario/1115164/) 
 
 	```
 	    npm i -D mocha supertest sinon proxyquire
 	    
 	```
 
-* **victorhcortes** (1)
+* **victorhcortes** (1) [1101343](https://platzi.com/comentario/1101343/) 
 
-	
 	Los test no tienen en cuenta el validationSchema que hace parte de la ruta.
 
-* **STYVEN MALDONADO CISNERO** (1)
+* **STYVEN MALDONADO CISNERO** (1) [1062298](https://platzi.com/comentario/1062298/) 
 
-	
 	El proxyquire me genera error :  
 	const route = proxyquire(’…/controllers/routes.js’, {  
 	’…/services/Animals’ : Animals  
 	})  
 	TypeError: route is not a function
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1062298] (1)
 
-		
 		A mi tambien. Lo pudiste resolver?
 
-* **AlejoE02** (1)
+* **AlejoE02** (1) [991933](https://platzi.com/comentario/991933/) 
 
-	
 	El video esta incompleto, hay archivos que Guillermo no explica como por ejemplo utils/mocks/mongoLib.js y otros dos archivos que estan en la carpeta de test, tampoco explica el buildMessage.js en la carpeta de utils.  
 	Clase muy incompleta -.-
 
-* **kirtash123** (1)
+* **kirtash123** (1) [988411](https://platzi.com/comentario/988411/) 
 
-	
 	creo que falta mas detalles sobre el tema de test, debería ser un modulo completo.
 
-* **XXVSebastianVXX** (1)
+* **XXVSebastianVXX** (1) [953363](https://platzi.com/comentario/953363/) 
 
-	
 	Excelente, no tenía en mente la importancia de los test de prueba y como muchos siempre los omito, pero creo que de hoy en adelante será necesario realizarlos en mi código.
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [927900](https://platzi.com/comentario/927900/) 
 
-	
 	No entendi como se relacionan las rutas de MoviesServiceMock, cuando hacemos el test con describe, por ejemplo para seleccionar la ruta con getMovie pasando un ID
 
-* **cristofers530** (1)
+* **cristofers530** (1) [884208](https://platzi.com/comentario/884208/) 
 
-	
 	cuando vayan a crear los ‘servicios’ de mock, asegúrense que las funciones tenga el mismo nombre que del servicio original (osea, si en su capa de servicio para obtener peliculas es getAll, en el mock coloquenlo igual), dure media hora con un error por culpa de una ‘s’ 😃
 	
 	y realmente la consola no es que ayudo mucho para solucionar el error, ya que me daba a entender que el error estaba en el archivo de test en si, y no en el mock xd
 
-* **Alvaro Garracini** (1)
+* **Alvaro Garracini** (1) [81241](https://platzi.com/comentario/976833/) 
 Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError’, message: ‘Invalid stub: “…/services/movies” cannot be unde...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [81241] (2)
 
-		
 		¿Podrías mostrarnos tu código? Así sin verlo es muy difícil adivinar cuál es el error. 🙏
 		
 		También verifica muy bien las rutas de tus archivos. En el mensaje que nos muestras dice "…/services/movies”. Esos 3 puntos me parecen sospechosos. Tal vez deberían ser solo dos. :eyes;
 
-## 0380. Creación de tests para nuestros servicios
+## 0380. Creación de tests para nuestros servicios [22250](https://platzi.com/clases/1646-backend-nodejs/22250-creacion-de-tests-para-nuestros-servicios/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **jasanhdz** (12)
+* **jasanhdz** (12) [759111](https://platzi.com/comentario/759111/) 
 
-	
 	Creo que investigaré más porque entendí un 50% 🤯🤯
 
-	* **heysoypaez** (1)
+	* **heysoypaez** [759111] (1)
 
-		
 		Comparto un poco la inquietud.
 
-	* **oqodigital** (12)
+	* **oqodigital** [759111] (12)
 
-		
 		Creo que hay mucho en este curso de node que se consideran ciertas experiencias y conocimientos previos que frente al hilo de cursos tomados en la Escuela de Javascript, que la verdad, puede que ni se tenga. Entiendo lo del por qué de los test (que fue demasiado rápido explicando eso y debería recalcarlo en todo momento el por qué), pero más allá, solo vi código y código y código jajaja.  
 		Me siento un poco loco, ya viniendo con dos cursos atrás de React (y he tomado todos los cursos de manera periódica, para no perder el hilo), pero en sí, ha sido bastante difícil.
 
-	* **rusbel bermúdez rivera** (2)
+	* **rusbel bermúdez rivera** [759111] (2)
 
-		
 		Comparto, este curso se he me complicado un poco por falta de tiempo para dedicarle, otro poco por su extensión, no es rindan
 
-* **Fernando Azuaje** (3)
+* **Fernando Azuaje** (3) [772597](https://platzi.com/comentario/772597/) 
 
-	
 	Esta lectura esta interesante para entender un poco mas acerca de tests y los terminos nombrados <https://solidgeargroup.com/tests-unitarios-en-javascript-sinon/?lang=es>
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699986](https://platzi.com/comentario/699986/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/creacion-de-tests-para-nuestros-servicios>
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094885](https://platzi.com/comentario/1094885/) 
 
-	
 	me arroja el siguiente error. Alguna Idea!
 	
 	ya he comparado mi código con el del profesor y todo esta bien
@@ -13449,29 +12674,27 @@ Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError�
 	    
 	```
 
-## 0390. Creación de tests para nuestras utilidades
+## 0390. Creación de tests para nuestras utilidades [22251](https://platzi.com/clases/1646-backend-nodejs/22251-creacion-de-tests-para-nuestras-utilidades/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **heysoypaez** (8)
+* **heysoypaez** (8) [763768](https://platzi.com/comentario/763768/) 
 
-	
 	TDD es test driven development.
 	
 	En otras palabras: crear primero las pruebas que hay que superar y después desarrollar el código.
 	
-	  * El profesor considera magnífico usar esto cuando se tiene muy claro la lógica de negocio.
-	  * Si no lo tienes claro no es recomendable.
-	  * También es recomendable hacerlo cuando tienes un bug para que tu solución de él perdure en el tiempo.
+	* El profesor considera magnífico usar esto cuando se tiene muy claro la lógica de negocio.
+	* Si no lo tienes claro no es recomendable.
+	* También es recomendable hacerlo cuando tienes un bug para que tu solución de él perdure en el tiempo.
 	
 	
 
-* **Enrique Devars (Platzi)** (3)
+* **Enrique Devars (Platzi)** (3) [849218](https://platzi.com/comentario/849218/) 
 
-	
 	Otra manera de resolver si el mensaje es listado lo pueden hacer con el operador ternario 😃
 	``` 
 	    functionbuildMessage(entity, action) {
@@ -13483,43 +12706,37 @@ Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError�
 	    
 	```
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699987](https://platzi.com/comentario/699987/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/creacion-de-tests-para-nuestras-utilidades>
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094888](https://platzi.com/comentario/1094888/) 
 
-	
 	wuff creo que tendré que ver esto de test un par de veces mas!
 
-* **Andres Leonardo Arevalo** (1)
+* **Andres Leonardo Arevalo** (1) [1066264](https://platzi.com/comentario/1066264/) 
 
-	
 	Este curso es un tesoro dentro de platzi, este y el curso avanzado de Nodejs con Julian duque son excelentes.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1066264] (1)
 
-		
 		La cuestión es entenderlo y aplicarlo 😦
 
-## 0400. Agregando un comando para coverage
+## 0400. Agregando un comando para coverage [22252](https://platzi.com/clases/1646-backend-nodejs/22252-agregando-un-comando-para-coverage/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **IngridSagrero** (3)
+* **IngridSagrero** (3) [795251](https://platzi.com/comentario/795251/) 
 
-	
 	Alguien más tuvo este error:  
 	“open” no se reconoce como un comando interno o externo…
 
-	* **platzerito02112019 platzerito02112019** (2)
+	* **platzerito02112019 platzerito02112019** [795251] (2)
 
-		
 		si ami me salio error y no abrio el html.
 		``` 
 		    Nose puede conseguir un descriptor de archivo referido a la consola
@@ -13531,18 +12748,16 @@ Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError�
 		    
 		```
 
-	* **david_gtz** (2)
+	* **david_gtz** [795251] (2)
 
-		
 		yo tuve el mismo problema y buscando en la documentación de nyc, vi que esta mal escrito el script debe de ser **reporter** en lugar de **report**.
 		``` 
 		    "report": "nyc report --reporter=html && open coverage/index.html"
 		    
 		```
 
-	* **Jorge Humberto Nemogá Pinzón** (8)
+	* **Jorge Humberto Nemogá Pinzón** [795251] (8)
 
-		
 		A mí el comando `open` tampoco opera así que lo cambie por:
 		``` 
 		    {
@@ -13553,33 +12768,28 @@ Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError�
 		    
 		```
 
-	* **Jhurgen Maraza** (9)
+	* **Jhurgen Maraza** [795251] (9)
 
-		
 		Simplemente cambias el Open (MacOs) por el Start (Windows)
 		``` 
 		    "report": "nyc report --reporter=html && start coverage/index.html"
 		    
 		```
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [795251] (1)
 
-		
 		Nada de lo anterior funciona 😦
 
-* **jorgeoxi** (2)
+* **jorgeoxi** (2) [1011099](https://platzi.com/comentario/1011099/) 
 
-	
 	Que interesante toda la parte de **coverage** , sin duda, buenas prácticas para aplicarlas en proyectos futuros.
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1094894](https://platzi.com/comentario/1094894/) 
 
-	
 	uff mucho que experimentar con test!
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [927756](https://platzi.com/comentario/927756/) 
 
-	
 	alguien pudo resolver con peticion get a un Id?
 	
 	aqui mi codigo, pero me responde con 301
@@ -13594,25 +12804,21 @@ Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError�
 	    
 	```
 
-	* **Corporativo The Villa Group Resorts** (2)
+	* **Corporativo The Villa Group Resorts** [927756] (2)
 
-		
 		Asegurate de estar creando el metodo en tu clase MoviesServiceMock
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [927756] (1)
 
-		
 		En efecto hice el metodo respectivo, pero proxiquire no llamaba a la ruta correspondiente, ni siquiera pude obtener el status 200
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [927756] (1)
 
-		
 		Tienes que poner un id que pase el middleware de validación del id  
 		como 5e62ed0afc13ae0eae000009
 
-* **rdelacruz** (1)
+* **rdelacruz** (1) [899288](https://platzi.com/comentario/899288/) 
 
-	
 	Test del Post
 	``` 
 	    describe.only('POST /movies/', function() {
@@ -13636,16 +12842,15 @@ Cuando ejecuto npm run test me da el siguiente error: name: ‘ProxyquireError�
 	    
 	```
 
-* **danielsanz (Platzi)** (1)
+* **danielsanz (Platzi)** (1) [699988](https://platzi.com/comentario/699988/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/agregando-un-comando-para-coverage>
 
-* **Juan José Vega Quintero** (1)
+* **Juan José Vega Quintero** (1) [86550](https://platzi.com/comentario/1098348/) 
 Alguien pudo hacer el coverage en html?
 
-## 0410. Debugging e inspect
+## 0410. Debugging e inspect [22253](https://platzi.com/clases/1646-backend-nodejs/22253-debugging-e-inspect/)
 
 ### Descripción:
 
@@ -13663,9 +12868,9 @@ De esta manera si ejecutamos nuestra aplicación con el comando `DEBUG=app:* nod
 
 Los _namespaces_ que recomiendo son los siguientes:
 
-  * **app:server** para todo lo relacionado con el inicio del servidor como el mensaje `Listening on http://localshost`
-  * **app:db** para todo lo relacionado con _logs_ de las bases de datos, inicialización y ejecución de _scripts_.
-  * **app:error** para todo lo relacionado con errores en nuestra aplicación.
+* **app:server** para todo lo relacionado con el inicio del servidor como el mensaje `Listening on http://localshost`
+* **app:db** para todo lo relacionado con _logs_ de las bases de datos, inicialización y ejecución de _scripts_.
+* **app:error** para todo lo relacionado con errores en nuestra aplicación.
 
 
 
@@ -13694,12 +12899,11 @@ El modulo `inspect` de Node.js nos permite ejecutar un ambiente para hacer _debu
 
 ### Comentarios:
 
-* **carlosextra1** (3)
+* **carlosextra1** (3) [1095780](https://platzi.com/comentario/1095780/) 
 
-	
 	Cierre del tema de test muy bien hecho, pero a mi en lo personal es un nuevo objetivo por aprender porque creo que estas clases me dieron el panorama de lo que es y lo que puedes llegar hacer con proyectos grandes!!
 
-* **Jeison Vargas** (3)
+* **Jeison Vargas** (3) [757285](https://platzi.com/comentario/757285/) 
 
 	```
 	    app.listen(config.port, function() {
@@ -13709,20 +12913,20 @@ El modulo `inspect` de Node.js nos permite ejecutar un ambiente para hacer _debu
 	    
 	```
 
-# Despliega tu primera aplicación en Express.js
+# Despliega tu primera aplicación en Express.js [4457]
 
-## 0420. Considerando las mejores prácticas para el despliegue
+## 0420. Considerando las mejores prácticas para el despliegue [22254](https://platzi.com/clases/1646-backend-nodejs/22254-considerando-las-mejores-practicas-para-el-desplie/)
 
 ### Descripción:
 
 
-  * Remover contraseñas quemadas.
-  * Encapsular código spaghetti.
-  * Revisar la estructura del proyecto.
-  * Configurar los scripts de build.
-  * Agregar soporte de caché.
-  * Añadir HTTPS y CORS.
-  * Revisar otras prácticas de seguridad.
+* Remover contraseñas quemadas.
+* Encapsular código spaghetti.
+* Revisar la estructura del proyecto.
+* Configurar los scripts de build.
+* Agregar soporte de caché.
+* Añadir HTTPS y CORS.
+* Revisar otras prácticas de seguridad.
 
 
 
@@ -13736,22 +12940,19 @@ El modulo `inspect` de Node.js nos permite ejecutar un ambiente para hacer _debu
 
 ### Comentarios:
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [739429](https://platzi.com/comentario/739429/) 
 
-	
 	Le dedicaré tiempo a las recomendaciones de la OWASP. Conocía el csrf desde laravel pero veo que hay más.
 
-	* **carlosextra1** (2)
+	* **carlosextra1** [739429] (2)
 
-		
 		No sabia que es OWASP => The Open Web Application Security Project
 
-* **Juan José Vega Quintero** (1)
+* **Juan José Vega Quintero** (1) [1098727](https://platzi.com/comentario/1098727/) 
 
-	
 	<https://owasp.org/>
 
-## 0430. Variables de entorno, CORS y HTTPS
+## 0430. Variables de entorno, CORS y HTTPS [22255](https://platzi.com/clases/1646-backend-nodejs/22255-variables-de-entorno-cors-y-https/)
 
 ### Descripción:
 
@@ -13775,8 +12976,8 @@ Para ello se debe acceder al servidor remoto:
 
 Algunos servicios como [Heroku](https://www.heroku.com/) o [Now](https://zeit.co/now) no nos permiten acceder a un servidor remoto pues la administración del servidor es controlada por los mismos servicios, sin embargo cada servicio tiene sus mecanismos para establecer las variables de entorno:
 
-  * [Configuración de variables de entorno en Heroku](https://devcenter.heroku.com/articles/config-vars)
-  * [Configuración de variables de entorno en Now](https://zeit.co/docs/v2/development/environment-variables)
+* [Configuración de variables de entorno en Heroku](https://devcenter.heroku.com/articles/config-vars)
+* [Configuración de variables de entorno en Now](https://zeit.co/docs/v2/development/environment-variables)
 
 
 
@@ -13861,36 +13062,32 @@ Dependiendo el servicio de _hosting_ que estemos usando puede ofrecernos o no un
 
 Más información:
 
-  * <https://letsencrypt.org/how-it-works/> <https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04>
-  * <https://devcenter.heroku.com/articles/ssl>
-  * <https://devcenter.heroku.com/articles/automated-certificate-management>
-  * <https://zeit.co/docs/v1/features/certs>
+* <https://letsencrypt.org/how-it-works/> <https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04>
+* <https://devcenter.heroku.com/articles/ssl>
+* <https://devcenter.heroku.com/articles/automated-certificate-management>
+* <https://zeit.co/docs/v1/features/certs>
 
 
 
 ### Comentarios:
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1095841](https://platzi.com/comentario/1095841/) 
 
-	
 	En algun momento me tope con que no podia hacer peticiones a mi [api.dominio.com](http://api.dominio.com) desde [app.dominio.com](http://app.dominio.com) y siempre me marco esto de los CORS fue en ese momento cuando escuche por primera vez de esto!!
 
-* **Sebas20** (1)
+* **Sebas20** (1) [827272](https://platzi.com/comentario/827272/) 
 
-	
 	SI alguno la API le funcionaba en Postman y no en el front, les recomiendo instalar cors ($ npm install cors) con eso ya solucionan, dicho problema.
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [827272] (1)
 
-		
 		Llegue a tener este problema hace un par de Años mientras desarrollaba una plataforma que estaba compuesta por un BackEnd en Laravel y un Front en Vuejs. Recuedo que me volvió loco por un día.
 
-	* **JaimeRamos** (1)
+	* **JaimeRamos** [827272] (1)
 
-		
 		en el front?
 
-## 0440. ¿Cómo implementar una capa de manejo de caché
+## 0440. ¿Cómo implementar una capa de manejo de caché [22256](https://platzi.com/clases/1646-backend-nodejs/22256-como-implementar-una-capa-de-manejo-de-cache/)
 
 ### Descripción:
 
@@ -13905,9 +13102,8 @@ Más información:
 
 ### Comentarios:
 
-* **Nadir Antonio Soza Solis** (4)
+* **Nadir Antonio Soza Solis** (4) [771064](https://platzi.com/comentario/771064/) 
 
-	
 	Por alguna razón que no logre identificar la configuración de la cache en Windows 10 no funciona utilizando la funcion cacheResponse de la forma que el profe la creo:
 	``` 
 	    const { config } = require('../config');
@@ -13934,54 +13130,45 @@ Más información:
 	
 	Espero les sea de utilidad.
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [771064] (1)
 
-		
 		Si amigo a mi me sirvió tengo windosw 10…  
 		lo mismo me paso con el server en producción pero ya lo arregle…  
 		saludos
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [771064] (1)
 
-		
 		A mi me funcionó como el profesor lo hizo y también tengo windows 10
 
-* **danielsanz (Platzi)** (3)
+* **danielsanz (Platzi)** (3) [699990](https://platzi.com/comentario/699990/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/como-implementar-una-capa-de-manejo-de-cache>
 
-* **Matias Niz** (2)
+* **Matias Niz** (2) [802564](https://platzi.com/comentario/802564/) 
 
-	
 	Tiene sentido implementar chache en un servicio como now en su version 2? es decir, serverless?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [802564] (3)
 
-		
 		Hola Matias! Como puedes ver [acá](https://zeit.co/docs/v2/network/caching/) Now tiene soporte para caché por lo que si, tiene sentido implementar caché. Saludos 😄
 
-* **Arlex Felipe Llanos Betancourt** (1)
+* **Arlex Felipe Llanos Betancourt** (1) [903117](https://platzi.com/comentario/903117/) 
 
-	
 	Muy bueno el concepto, aplicación y funcionamiento del Cache Control para estos casos, 😄
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [848877](https://platzi.com/comentario/848877/) 
 
-	
 	Excelente clase, la cache para desarrollo suele ser un problema; por lo general usaba una ventana de incógnito o limpiaba la cache con la extensión Clear Cache.
 	
 	Esta es una solución realmente elegante.
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [848877] (1)
 
-		
 		Totalmente de acuerdo yo he tenido los mismos problemas!!
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [826202](https://platzi.com/comentario/826202/) 
 
-	
 	Si estas en windows puede que tengas problemas para ejecutar **npm run start**  
 	Tenes que modificar un poco el script
 	``` 
@@ -13989,7 +13176,7 @@ Más información:
 	    
 	```
 
-## 0450. ¿Cómo contener tu aplicación en Docker
+## 0450. ¿Cómo contener tu aplicación en Docker [22257](https://platzi.com/clases/1646-backend-nodejs/22257-como-contener-tu-aplicacion-en-docker/)
 
 ### Descripción:
 
@@ -14026,48 +13213,40 @@ Si nos dirigimos a `http://localhost:3000` deberíamos ver nuestra API funcionan
 
 ### Comentarios:
 
-* **Omar Flores Grimontt** (12)
+* **Omar Flores Grimontt** (12) [746364](https://platzi.com/comentario/746364/) 
 
-	
 	[Instrucciones](https://docs.docker.com/install/linux/docker-ce/ubuntu/) para la instalación de Docker en Ubuntu.
 
-	* **heysoypaez** (3)
+	* **heysoypaez** [746364] (3)
 
-		
 		Gracias buen hombre!
 
-* **Javier Fuentes Mora** (10)
+* **Javier Fuentes Mora** (10) [798748](https://platzi.com/comentario/798748/) 
 
-	
 	Insisto esto debería estar en un video no en texto para eso mejor googleo
 
-	* **jandrey** (1)
+	* **jandrey** [798748] (1)
 
-		
 		Te recomiendo el curso de docker, y también esta lectura [instalación de docker](https://johnserrano.co/blog/instalacion-de-docker)
 
-* **Omar Flores Grimontt** (10)
+* **Omar Flores Grimontt** (10) [746488](https://platzi.com/comentario/746488/) 
 
-	
 	Si el contenedor les corre, pero no pueden acceder a la api mediante `http://localhost:3000`, deténganlo y corran el comando run de la siguiente manera:
 	``` 
 	    docker run -p 3000:3000 -d movies-api
 	    
 	```
 
-	* **Ricardo Medina** (2)
+	* **Ricardo Medina** [746488] (2)
 
-		
 		Gracias @omarefg, el que coloco el profesor no me sirvio.
 
-	* **carlosextra1** (2)
+	* **carlosextra1** [746488] (2)
 
-		
 		gracias me funciono perfecto en mac
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1096056](https://platzi.com/comentario/1096056/) 
 
-	
 	OJO el Dockerfile => va en la carpeta de movies_api  
 	Pegamos el código:
 	``` 
@@ -14097,21 +13276,19 @@ Si nos dirigimos a `http://localhost:3000` deberíamos ver nuestra API funcionan
 	
 	no me funciona cuando voy a <http://localhost:3000>
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [1023736](https://platzi.com/comentario/1023736/) 
 
-	
 	Desafortunadamente no se puede instalar Docket en windows 10 ya que requerimos tener activada la opción de virtualización (solo disponible en windows 10 pro), les dejo un link para quienes quieran comprar una licencia OEM (va quemado a la motherboard no la puedes compartir) <http://www.cdkoffers.com/sk/windows10ProOem>, usen el codigo tq20, o tc20 para obtener un descuento adicional, termine comprando a buen precio
 
-* **Ricardo Medina** (1)
+* **Ricardo Medina** (1) [978102](https://platzi.com/comentario/978102/) 
 
-	
 	Para los que usan Linux Fedora 31.
 	
 	[Tutorial instalar docker Fedora 31](https://medium.com/@drpdishant/installing-docker-on-fedora-31-beta-6c7a05901613)
 	
-	  * Crear el archiv Dockerfile en la raiz del proyecto y agregar el contenido que dejo el profesor.
+	* Crear el archiv Dockerfile en la raiz del proyecto y agregar el contenido que dejo el profesor.
 	
-	  * Ejecutar el comando para crear la imagen.
+	* Ejecutar el comando para crear la imagen.
 	
 	
 	
@@ -14120,7 +13297,7 @@ Si nos dirigimos a `http://localhost:3000` deberíamos ver nuestra API funcionan
 	    
 	```
 	
-	  * Habilitar docker y levantar el servicio.
+	* Habilitar docker y levantar el servicio.
 	
 	
 	``` 
@@ -14131,7 +13308,7 @@ Si nos dirigimos a `http://localhost:3000` deberíamos ver nuestra API funcionan
 	    
 	```
 	
-	  * Ejecutar la imagen
+	* Ejecutar la imagen
 	
 	
 	``` 
@@ -14141,52 +13318,43 @@ Si nos dirigimos a `http://localhost:3000` deberíamos ver nuestra API funcionan
 	
 	Listo!
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [935262](https://platzi.com/comentario/935262/) 
 
-	
 	segui lo pasos, sin embargo usando windows 10 con un container de linux, si puedo entrar a localhost pero las rutas no funcionaron.
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [878516](https://platzi.com/comentario/878516/) 
 
-	
 	Al parecer no es compatible con “windows 10 home” 😥
 
-	* **zach** (1)
+	* **zach** [878516] (1)
 
-		
 		Lamentablemente no, Docker requiere virtualizacion y esta solo esta disponible en windows pro
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [878516] (1)
 
-		
 		Si… Lo que hiso fue activar windows pasarlo a PRO.
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [848896](https://platzi.com/comentario/848896/) 
 
-	
 	Docker es genial; pero algo complejo. En platzi hay un curso de Docker y esta muy bueno. <https://platzi.com/clases/docker/>
 
-* **Sebastian** (1)
+* **Sebastian** (1) [782837](https://platzi.com/comentario/782837/) 
 
-	
 	El archivo DockerFile va en la raiz del proyecto?
 
-	* **Javier Fuentes Mora** (2)
+	* **Javier Fuentes Mora** [782837] (2)
 
-		
 		x2 esto por eso deberia de haber video
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [782837] (1)
 
-		
 		x3 el tiempo es un recurso valioso, si bien hay documentación nada costaba hacer un video explicando
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [782837] (1)
 
-		
 		tengo la misma pregunta!
 
-## 0460. Despliegue en Now
+## 0460. Despliegue en Now [22258](https://platzi.com/clases/1646-backend-nodejs/22258-despliegue-en-now/)
 
 ### Descripción:
 
@@ -14207,65 +13375,55 @@ por
 
 ### Comentarios:
 
-* **Luis Rodriguez** (4)
+* **Luis Rodriguez** (4) [826200](https://platzi.com/comentario/826200/) 
 
-	
 	hola! oigan… al llegar a este curso, revisen que su conexión a MongoDB esté abierta y que cualquier IP se pueda conectar. Por que si no la dejan abierta en esta ocasión, su deploy fallará y zeit/now les dará un error 502 cuando intenten entrar a su ruta de /api/movies o como en proyecto que tenía /api/hotels .
 	
 	Me tardé 2 días en encontrar mi error… entonces, no cometan el mismo error que yo. 😃
 	
 	Sean felices.
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [826200] (1)
 
-		
 		aun que cualquier ip se puede conectar a mi db de mongo,  
 		en la aplicación no se puede conectar.
 
-	* **Luis Rodriguez** (2)
+	* **Luis Rodriguez** [826200] (2)
 
-		
 		uf! Cuál es el error que te está saliendo, hermano? Y is pones el link a ti GitHub, la comunidad te puede apoyar.
 
-	* **Andres Roberto Coello Goyes** (2)
+	* **Andres Roberto Coello Goyes** [826200] (2)
 
-		
 		Ya lo resolvi gracias… !!
 
-	* **Luis Rodriguez** (1)
+	* **Luis Rodriguez** [826200] (1)
 
-		
 		Genial! Qué fue lo que hiciste para resolverlo? O cual fue tu problema?
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [826200] (1)
 
-		
 		lo que tengo ahora es un problema con NODE js con una api, tengo que crear un registro con una imagen , estoy utilizando **multer** y moverlo a una carpeta.  
 		En modo desarrollo funciona bien pero subi api a production en **NOW** y solo ese POST de imagen me da error.  
 		[](https://github.com/GandresCoello18/api-next-carreta)
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [826200] (1)
 
-		
 		<https://github.com/GandresCoello18/api-next-carreta>
 		
 		este es el repositorio @iamluisro
 
-* **Arlex Felipe Llanos Betancourt** (3)
+* **Arlex Felipe Llanos Betancourt** (3) [903698](https://platzi.com/comentario/903698/) 
 
-	
 	Tuve que agregar en el package.json en la sección de scripts, al instrucción `"build": "movies-api build",` para que me permitiera desplegar, pero al final se pudo, genial lo que se aprende cada dia 😄
 	
 	<https://platzivideo.devfko.now.sh/api/movies/>
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [903698] (1)
 
-		
 		Gracias me funciono a la perfeccion!
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [848916](https://platzi.com/comentario/848916/) 
 
-	
 	Para no tener que agregar las variables una por una, pueden escribir las todas y unirlas usando **& &**
 	
 	Ejemplo:
@@ -14277,28 +13435,24 @@ por
 	    
 	```
 
-* **Jorge Velasquez** (2)
+* **Jorge Velasquez** (2) [1029155](https://platzi.com/comentario/1029155/) 
 
-	
 	**Reto cumplido**  
 	👨‍💻👏🏃‍♀️  
 	<https://platzilive-api.now.sh/api/movies>
 
-* **oqodigital** (2)
+* **oqodigital** (2) [783746](https://platzi.com/comentario/783746/) 
 
-	
 	Lo logré!!!  
 	<https://platzivideo-api-niko.now.sh>
 
-* **danielsanz (Platzi)** (2)
+* **danielsanz (Platzi)** (2) [699991](https://platzi.com/comentario/699991/) 
 
-	
 	Repositorio de la clase:  
 	<https://github.com/glrodasz/platzi-backend-node/tree/despliegue-en-now>
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1096228](https://platzi.com/comentario/1096228/) 
 
-	
 	Me dio el siguiente error
 	``` 
 	    ⚡ now dev
@@ -14323,100 +13477,87 @@ por
 	
 	Más info <https://zeit.co/docs/v2/platform/frequently-asked-questions#missing-build-script>
 
-* **lgfh** (1)
+* **lgfh** (1) [1093239](https://platzi.com/comentario/1093239/) 
 
-	
 	Reto cumplido 😃  
 	<https://platzivideo.lgfh98.now.sh/api/movies>
 
-* **José Abdiel Ortega Vázquez** (1)
+* **José Abdiel Ortega Vázquez** (1) [1028009](https://platzi.com/comentario/1028009/) 
 
-	
 	<https://platzivideo-d4az593bp.now.sh/api/movies>  
 	Reto cumplido!
 
-* **Alver Ortega** (1)
+* **Alver Ortega** (1) [1004707](https://platzi.com/comentario/1004707/) 
 
-	
 	<https://platzivideo-six.now.sh/api/movies>
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [974025](https://platzi.com/comentario/974025/) 
 
-	
 	Seguimos aprendiendo 😄  
 	<https://asismelgarejo-api.now.sh/api/movies>
 
-* **Jose Gustavo Pacheco Sanchez** (1)
+* **Jose Gustavo Pacheco Sanchez** (1) [963667](https://platzi.com/comentario/963667/) 
 
-	
 	Despliegue de la aplicación
 	
 	<https://gustavo-api.now.sh/api/movies>
 
-* **Massimo Di Berardino** (1)
+* **Massimo Di Berardino** (1) [885893](https://platzi.com/comentario/885893/) 
 
-	
 	Genial, platzi es increible mi primer deploy de una app  
 	<https://platzivideo.massimokris.now.sh/>
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [854390](https://platzi.com/comentario/854390/) 
 
-	
 	Me surgió una duda.  
 	Mi despliegue en Now funciona bien, pero si pasan unas 2 o 3 horas y entro de nuevo a api/movies me regresa siempre un error 500. Para arreglarlo debo entrar al repositorio y ejecutar now o now --prod
 	
 	¿Eso a qué puede deberse?
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [848939](https://platzi.com/comentario/848939/) 
 
-	
 	Esta vivo… Muajjajajaja
 	
 	<https://platzivideos.now.sh/api/movies>
 
-* **Camilo Andrés Santana Lizcano** (1)
+* **Camilo Andrés Santana Lizcano** (1) [806109](https://platzi.com/comentario/806109/) 
 
-	
 	<https://andrew-api.now.sh/api/movies>  
 	Excelente mi primer despliegue 😄
 
-* **david_gtz** (1)
+* **david_gtz** (1) [804161](https://platzi.com/comentario/804161/) 
 
-	
 	ya no me aparece la opción desktop app, intente con la CLI pero me manda el siguiente error
 	``` 
 	    zsh: command not found: now
 	    
 	```
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [804161] (2)
 
-		
 		Ve intentado cada una de estas:
 		
-		  * Colocar en la consola: `source ~/.zshrc`
-		  * Cerrar y abrir la consola
-		  * Volver a instalar now con `npm i -g now`
+		* Colocar en la consola: `source ~/.zshrc`
+		* Cerrar y abrir la consola
+		* Volver a instalar now con `npm i -g now`
 		
 		
 		
 		Si esta última te da un EACCESS Error intenta cambiando el directorio raíz de npm siguiendo [este tutorial](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally) de la documentación de npm. Luego puedes proceder a tratar de instalarlo nuevamente
 
-* **platzerito02112019 platzerito02112019** (1)
+* **platzerito02112019 platzerito02112019** (1) [797241](https://platzi.com/comentario/797241/) 
 
-	
 	<https://ruber.now.sh/api/movies>
 
-* **David Behar** (1)
+* **David Behar** (1) [793931](https://platzi.com/comentario/793931/) 
 
-	
 	En el sitio creado por el profesor no funcionan las búsquedas de movies específicas  
 	.  
 	<https://platzivideos-api.now.sh/api/movies/5da146a186b754378cca7265>
 
-# Conclusiones
+# Conclusiones [4458]
 
-## 0470. ¿Qué aprendiste en este curso
+## 0470. ¿Qué aprendiste en este curso [22259](https://platzi.com/clases/1646-backend-nodejs/22259-que-aprendiste-en-este-curso/)
 
 ### Descripción:
 
@@ -14425,13 +13566,13 @@ por
 
 En este curso aprendiste:
 
-  * El uso de streams y de utilidades
-  * A crear una aplicación con Express.js
-  * A crear una RESTful API
-  * A conectar tu proyecto con librerías externas como mongoDB
-  * El concepto de Middlewares y su uso
-  * Hacer testing de tu aplicación
-  * Desplegar tu aplicación en [Now.sh](http://Now.sh)
+* El uso de streams y de utilidades
+* A crear una aplicación con Express.js
+* A crear una RESTful API
+* A conectar tu proyecto con librerías externas como mongoDB
+* El concepto de Middlewares y su uso
+* Hacer testing de tu aplicación
+* Desplegar tu aplicación en [Now.sh](http://Now.sh)
 
 
 
@@ -14447,85 +13588,72 @@ No olvides aprobar el examen y **Nunca parar de aprender**.
 
 ### Comentarios:
 
-* **jasanhdz** (9)
+* **jasanhdz** (9) [768371](https://platzi.com/comentario/768371/) 
 
-	
 	Seguro mis notas te ayudan a repasar todo el curso, puedes leerlas desde la comidad de tu telefono. 😄  
 	<https://github.com/JasanHdz/backendnodejs/tree/master/notes>  
 	No se rindan, éxito 💪
 
-* **oqodigital** (8)
+* **oqodigital** (8) [783752](https://platzi.com/comentario/783752/) 
 
-	
 	Ha sido uno de los cursos donde he quedado dando bote o rebotando al máximo. No creo que este curso esté hecho para salir y montar rápidamente tus propios backends y listo, sino que es para entender cómo se crea todo ese ambiente y poder vivir en carne propia como se va creando una API. Eso me encantó.  
 	Fue difícil la verdad, venía con mucho ánimo desde REACT, pero aquí caí pesado, mucha información, muchísima, pero una buena base  
 	Gracias profe!
 
-	* **heysoypaez** (3)
+	* **heysoypaez** [783752] (3)
 
-		
 		Comparto la emoción ! Este curso aunque lo senti pesado, díficil pero soy consciente que ese desafío me hace crecer como desarrollador.
 		
 		Y a ti también amigo mio.
 
-* **heysoypaez** (6)
+* **heysoypaez** (6) [780954](https://platzi.com/comentario/780954/) 
 
-	
 	Me da risa como el profesor hacía algo sin errores, y yo que supuestamente estoy haciendo lo mismo me ocurren mil errores.
 	
 	Pero bueno, aprenderé de ellos y me reire en el proceso.
 
-* **Massimo Di Berardino** (2)
+* **Massimo Di Berardino** (2) [885896](https://platzi.com/comentario/885896/) 
 
-	
 	este curso te da las bases para armar una api escalable con la seguridad y las validaciones básicas, gracias guillermo muy buen profe!
 
-* **carlos-bolivar** (2)
+* **carlos-bolivar** (2) [815727](https://platzi.com/comentario/815727/) 
 
-	
 	El curso es de esos que te despiertan la curiosidad de seguir alimentando muchos mas conocimientos del tema, Guillermo eres un crack, todo explicado a nivel de detalle, y te deja la satisfaccion de que puedes iniciar un proyecto con node y express por ti mismo apoyandote con la documentacion!
 	
 	Brutal este curso!
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [780950](https://platzi.com/comentario/780950/) 
 
-	
 	Tengo que admitir que este curso lo he sentid más dificil, hasta ahora nunca habia hecho un curso de backend.  
 	Me gustó el desafío que implicó para mi, me gusto crear una API y entender en la práctica como funciona en la API es lo primero que haŕé para mis propios proyectos.
 	
 	GRACIAS por tu tiempo, esfuerzo, empeño y sabiduría compartido en este curso Profe, tenga un gran día y una mejor vida 😃
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1096371](https://platzi.com/comentario/1096371/) 
 
-	
 	Muy buen curso!!! Muchas gracias!
 
-* **Andres Leonardo Arevalo** (1)
+* **Andres Leonardo Arevalo** (1) [1066338](https://platzi.com/comentario/1066338/) 
 
-	
 	Uno de los mejores cursos de platzi 😃
 
-* **Jorge Velasquez** (1)
+* **Jorge Velasquez** (1) [1029167](https://platzi.com/comentario/1029167/) 
 
-	
 	Mi primer curso de Backend, me pareció muy interesante 👏👏👏
 
-* **Ricardo Medina** (1)
+* **Ricardo Medina** (1) [980241](https://platzi.com/comentario/980241/) 
 
-	
 	Me gusto el curso fue bastante practico y en resumen el profesor lo explico bien.
 
-* **JPinedaHN** (1)
+* **JPinedaHN** (1) [963642](https://platzi.com/comentario/963642/) 
 
-	
 	Fue un curso que te enseña de todo lo que es necesario para desplegar una aplicación. Gracias al profe y ahora a seguir aprendiendo más a detalle
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68391](https://platzi.com/comentario/739805/) 
 Mi duda son todas las rutas originales de Express. ¿porque no se agregaron al archivo de configuración de now.json? y en su lugar se colo...
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [68391] (2)
 
-		
 		Hola 👋  
 		**Primer pregunta:** No es necesario agregar ruta por ruta, lo puedes hacer si quieres agregar configuraciones o cambiar la ruta con la que el usuario final va a interactuar. Al usar una expresión regular indicamos que cualquier petición sea enviada a nuestro servidor Express.
 		

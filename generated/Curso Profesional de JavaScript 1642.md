@@ -1,23 +1,25 @@
-# Introducción
+[Curso Profesional de JavaScript 1642](https://platzi.com/cursos/javascript-profesional)
 
-## 0010. ¿Qué significa ser un profesional de JavaScript
+# Introducción [4442]
+
+## 0010. ¿Qué significa ser un profesional de JavaScript [22156](https://platzi.com/clases/1642-javascript-profesional/22156-que-significa-ser-un-profesional-de-javascript/)
 
 ### Descripción:
 **Richard Kaufman** trabaja para **KickAss Partners** como **Senior Front End Engineer** y es organizador de la comunidad de Javascript en Ciudad De México. Richard será tu profesor en este curso, él te va a enseñar **Javascript puro** , repasando los fundamentos clave del lenguaje, explorando **APIs del DOM** , implementando **TypeScript** y aplicando las mejores prácticas con **Patrones de Diseño**.
 
 Vamos a necesitar:
 
-  * Editor de textos **Visual Studio Code**.
-  * Navegador Web **Google Chrome**.
-  * Una **CLI** (terminal de linea de comandos)…
+* Editor de textos **Visual Studio Code**.
+* Navegador Web **Google Chrome**.
+* Una **CLI** (terminal de linea de comandos)…
 
 
 
 Es recomendable tener conocimientos en:
 
-  * HTML
-  * CSS
-  * Básicos de Javascript
+* HTML
+* CSS
+* Básicos de Javascript
 
 
 
@@ -25,13 +27,13 @@ En la pestaña de **Archivos y Enlaces** encontrarás todos los cursos necesario
 
 En este curso es el primer paso para convertirte en un profesional de Javascript que cumple con lo siguiente:
 
-  * Conocimiento profundo del lenguaje, conocer sus particularidades y cómo funciona internamente.
-  * Conocer los entornos de programación para Javascript.
-  * Siempre aplicar las mejores prácticas.
-  * Ser versado en código, leer código de otras personas.
-  * Tener un set de herramientas que dominas.
-  * Ética / Profesionalismo
-  * Experiencia.
+* Conocimiento profundo del lenguaje, conocer sus particularidades y cómo funciona internamente.
+* Conocer los entornos de programación para Javascript.
+* Siempre aplicar las mejores prácticas.
+* Ser versado en código, leer código de otras personas.
+* Tener un set de herramientas que dominas.
+* Ética / Profesionalismo
+* Experiencia.
 
 
 
@@ -49,9 +51,8 @@ Y recuerda que puedes encontrar a tu profesor en twitter como **@sparragus**.
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (17)
+* **Cesar Augusto Barco de Gouveia** (17) [705759](https://platzi.com/comentario/705759/) 
 
-	
 	## ¿Qué significa ser un profesional de JavaScript?
 	
 	‌
@@ -175,473 +176,385 @@ Y recuerda que puedes encontrar a tu profesor en twitter como **@sparragus**.
 	
 	La experiencia no es algo que se pueda enseñar, tenemos que encontrarla nosotros mismos en el camino a ser profesionales. Todo está en nosotros, tenemos que estudiar y practicar mucho.
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [705759] (1)
 
-		
 		excelente aporte
 
-	* **Cesar Augusto Barco de Gouveia** (3)
+	* **Cesar Augusto Barco de Gouveia** [705759] (3)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-* **Nahuel Castro** (9)
+* **Nahuel Castro** (9) [781130](https://platzi.com/comentario/781130/) 
 
-	
 	Uh, este profe es bueno pero no le entiendo nada cuando habla. Vamos a ponerle onda igual 😂
 
-* **jasanhdz** (9)
+* **jasanhdz** (9) [753602](https://platzi.com/comentario/753602/) 
 
-	
 	Ey chicos me tome el tiempo para traerles las mejores notas del curso, denle una checada porfavor a mis notas, y si son de su agrado dejenme un like en github. Saludos 😄  
 	[Notas](https://github.com/JasanHdz/javascript-professional/tree/master/notes) o <https://github.com/JasanHdz/javascript-professional/tree/master/notes>
 
-* **Luis Flores Álvarez** (6)
+* **Luis Flores Álvarez** (6) [739630](https://platzi.com/comentario/739630/) 
 
-	
 	De mis profesores preferidos en Platzi, su curso de React es genial y sé que éste también lo será. 😊
 
-* **Carlos Martinez** (5)
+* **Carlos Martinez** (5) [734930](https://platzi.com/comentario/734930/) 
 
-	
 	richard explica muy bien, es mi profesor preferido
 
-* **Japheth Calzada López** (5)
+* **Japheth Calzada López** (5) [710400](https://platzi.com/comentario/710400/) 
 
-	
 	Me encanta que hablen también de la ética en sus cursos y no solo hablar de la parte técnica
 
-* **Manuel Garcia** (5)
+* **Manuel Garcia** (5) [697113](https://platzi.com/comentario/697113/) 
 
-	
 	Que demonios haces aquí Fred!!
 
-* **Luis Antonio Schmiel Paredes** (4)
+* **Luis Antonio Schmiel Paredes** (4) [697652](https://platzi.com/comentario/697652/) 
 
-	
 	Me hizo dudar si de verdad se javascript… y eso que lo vengo usando ya 2 años jajaja
 
-	* **Oscar Barajas Tavares (Platzi)** (7)
+	* **Oscar Barajas Tavares (Platzi)** [697652] (7)
 
-		
 		Nunca pares de aprender, Me ha pasado llevo algunas clases de este curso y he visto desde otra perspectiva ejemplos de JavaScript y me sirve para seguir entendiendo.
 
-	* **Luis Antonio Schmiel Paredes** (2)
+	* **Luis Antonio Schmiel Paredes** [697652] (2)
 
-		
 		La verdad que sí, llevaré muy feliz toda la escuela de javascript porque de verdad me gusta.
 
-* **David Behar** (3)
+* **David Behar** (3) [737610](https://platzi.com/comentario/737610/) 
 
-	
 	Me emociona este curso 🙌
 
-* **gonzoblasco** (3)
+* **gonzoblasco** (3) [726186](https://platzi.com/comentario/726186/) 
 
-	
 	Me encanta la pila del profesor… Jejjejee… Lo veré principalemente por él…
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [725802](https://platzi.com/comentario/725802/) 
 
-	
 	Pinta excelente este curso. Me gusta la forma de explicar de este profesor. Prepara bien los tópicos de la clase.
 
-* **efrainjaimes** (3)
+* **efrainjaimes** (3) [708656](https://platzi.com/comentario/708656/) 
 
-	
 	Tiene muy buena pinta este curso.
 
-* **Julián Fernando Amaya Díaz** (3)
+* **Julián Fernando Amaya Díaz** (3) [703380](https://platzi.com/comentario/703380/) 
 
-	
 	Richard es un excelente profesor, su curso de React es muy profesional.
 
-* **Johan Manuel Perez Soto** (3)
+* **Johan Manuel Perez Soto** (3) [696546](https://platzi.com/comentario/696546/) 
 
-	
 	:v :v  
 	![](https://dok7xy59qfw9h.cloudfront.net/568/589/467/-299996997-1tmpk57-10h9m9cf59in5p0/original/file.jpg)
 
-	* **Juan Luis Rojas León** (1)
+	* **Juan Luis Rojas León** [696546] (1)
 
-		
 		¿Otra vez?
 
-	* **Richard B. Kaufman López** (22)
+	* **Richard B. Kaufman López** [696546] (22)
 
-		
 		I’m back!
 
-* **John Botero** (2)
+* **John Botero** (2) [967377](https://platzi.com/comentario/967377/) 
 
-	
 	Preparado para comenzar este curso, hasta el momento muy emocionado con el desarrollo de la escuela de JavaScript.
 
-* **Pablo Rocha** (2)
+* **Pablo Rocha** (2) [942591](https://platzi.com/comentario/942591/) 
 
-	
 	Ganas de aprender a fondo este maravilloso lenguaje 😃 ánimo a todos!
 
-* **Cristian Mauricio Gutierrez Rivera** (2)
+* **Cristian Mauricio Gutierrez Rivera** (2) [941163](https://platzi.com/comentario/941163/) 
 
-	
 	ready, comenzando un nuevo curso
 
-* **Diego Alfonso Najera Ortiz** (2)
+* **Diego Alfonso Najera Ortiz** (2) [937486](https://platzi.com/comentario/937486/) 
 
-	
 	Mas que listo para empezar!
 
-* **pedrump** (2)
+* **pedrump** (2) [925677](https://platzi.com/comentario/925677/) 
 
-	
 	Me parece muy relevante está parte, dado que a final de cuentas la finalidad del curso es elevar el skill técnico y desenvolvernos dentro de un entorno laboral (en la mayoria de los casos).  
 	Ética
 	
-	  * Ser responsable
-	  * Entregar a tiempo
-	  * Saber decir que no
-	  * No hacer daño
+	* Ser responsable
+	* Entregar a tiempo
+	* Saber decir que no
+	* No hacer daño
 	
 	
 
-* **Antonio Arana** (2)
+* **Antonio Arana** (2) [922396](https://platzi.com/comentario/922396/) 
 
-	
 	Me encanta la énfasis de este man!!! Aunque trate no dejo de prestarle atención. 20 ptos
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [891851](https://platzi.com/comentario/891851/) 
 
-	
 	¿Los proxies son como un middleware? 🤔
 
-	* **Nathaly Stefani Riaño Bejarano** (2)
+	* **Nathaly Stefani Riaño Bejarano** [891851] (2)
 
-		
 		Yo también lo asimilo así! 😄
 
-* **bewe** (2)
+* **bewe** (2) [890337](https://platzi.com/comentario/890337/) 
 
-	
 	que buen profesor,el contenido esta de lo mejor, buen proyecto, la mejor comunidad …muchas gracias platzi
 
-* **Genaro Flores** (2)
+* **Genaro Flores** (2) [874568](https://platzi.com/comentario/874568/) 
 
-	
 	Bien bien bien, me gusta la energía que tiene el profe, esto cada vez se pone mejor 😃
 
-* **ronaldLayalaG** (2)
+* **ronaldLayalaG** (2) [787549](https://platzi.com/comentario/787549/) 
 
-	
 	Nítido.
 
-* **SergioBernal** (2)
+* **SergioBernal** (2) [754839](https://platzi.com/comentario/754839/) 
 
-	
 	Cuando sabemos cómo funcionan las cosas, dejan de ser un truco de magia.
 	
 	100% !!!
 
-* **aguscode** (2)
+* **aguscode** (2) [700003](https://platzi.com/comentario/700003/) 
 Richard es un genio!
 
-* **Edgar Mogollon** (2)
+* **Edgar Mogollon** (2) [696496](https://platzi.com/comentario/696496/) 
 
-	
 	Lo esperaba con ansias, buen profesor. Ha por ello!
 
-	* **Juan H** (3)
+	* **Juan H** [696496] (3)
 
-		
 		Siiiii yo también
 
-* **wlm.morant** (2)
+* **wlm.morant** (2) [73530](https://platzi.com/comentario/836624/) 
 05:17 como puedo ver las librerias en github, y como saber si es basico intermedio avanzado , se puede ver proyectos basicos- intermedios...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [73530] (1)
 
-		
 		No hay ningún aviso que nos indique el nivel de dificultad o algo así para cada repositorio. Esto es de entrar, buscar, probar, romper y volver a intentar, por eso es un desafío.
 
-* **john fredy quimbaya orozco** (1)
+* **john fredy quimbaya orozco** (1) [1096745](https://platzi.com/comentario/1096745/) 
 
-	
 	Excelente introducción vamos a terminar la carrera de javascritp
 
-* **jesus-cruz-dominguez** (1)
+* **jesus-cruz-dominguez** (1) [1093573](https://platzi.com/comentario/1093573/) 
 
-	
 	Excelente introduccion!!
 
-* **Davic64** (1)
+* **Davic64** (1) [1091570](https://platzi.com/comentario/1091570/) 
 
-	
 	Para mi el mejor de todos los devs de JS
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1084714](https://platzi.com/comentario/1084714/) 
 
-	
 	Ahora si y luego React con todo muy solido.
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1079469](https://platzi.com/comentario/1079469/) 
 
-	
 	Excelente introducción. Ahora sí a iniciar este curso.
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [1074287](https://platzi.com/comentario/1074287/) 
 
-	
 	Esperando lo mejor de este curso! A darle con todo!
 
-* **Fernando_Rivera** (1)
+* **Fernando_Rivera** (1) [1071550](https://platzi.com/comentario/1071550/) 
 
-	
 	Esperando aprender mucho en este curso!
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1045716](https://platzi.com/comentario/1045716/) 
 
-	
 	Con todo!
 
-* **chris_x** (1)
+* **chris_x** (1) [1031901](https://platzi.com/comentario/1031901/) 
 
-	
 	Esta bien que este sea el segundo curso de la ruta de aprendizaje de ReactJS ?
 
-	* **Gabriel De Andrade (Platzi)** (5)
+	* **Gabriel De Andrade (Platzi)** [1031901] (5)
 
-		
 		Si, aprender React no sólo significa conocer el Framework, también significa conocer JS a fondo. Aunque este curso fué hecho para la Escuela de JavaScript los conocimientos que adquieres aquí te van a server independientemente de si sigues esta ruta o no 😄
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1023768](https://platzi.com/comentario/1023768/) 
 
-	
 	genial este curso. vamos con toda aprender javaScript
 
-* **karl-behrens-gil** (1)
+* **karl-behrens-gil** (1) [1015129](https://platzi.com/comentario/1015129/) 
 
-	
 	Vamos con todas las ganas de aprender!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1010718](https://platzi.com/comentario/1010718/) 
 
-	
 	espero aprender bastante
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1006954](https://platzi.com/comentario/1006954/) 
 
-	
 	Me siento super emocionado saber lo que puedo aprender en este curso y en los que vienen! Let´s start!!!
 
-* **Cristian Emanuel Ortega Camarena** (1)
+* **Cristian Emanuel Ortega Camarena** (1) [994408](https://platzi.com/comentario/994408/) 
 
-	
 	Buena introducción. Espero mejorar mis coding skills
 
-* **vickiavola** (1)
+* **vickiavola** (1) [992772](https://platzi.com/comentario/992772/) 
 
-	
 	Excelente introducción. Vamos!
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [985435](https://platzi.com/comentario/985435/) 
 
-	
 	jajajajaja me gusto gusto eso del duro camino de la experiencia
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [982810](https://platzi.com/comentario/982810/) 
 
-	
 	Grupo de aprendizaje para temas relacionados a la Escuela de Javascript: <https://chat.whatsapp.com/LsR1Zt77zIV2bUw30fMQ3M>
 
-* **Vicente** (1)
+* **Vicente** (1) [981510](https://platzi.com/comentario/981510/) 
 
-	
 	Después de unos días de haber terminado este curso, me paso por aquí para felicitar al profesor por haber sonseguido que de una vez que entendiera qué es un plugin y cómo se programan. Me he construido mis propios ejemplos con plugins y funcionan de maravila.
 	
 	Good code is not the end of the goal but the beginning of fun.  
 	Vicent
 
-* **Miguel Segura** (1)
+* **Miguel Segura** (1) [888743](https://platzi.com/comentario/888743/) 
 
-	
 	Despues de conocer todos los temas de este curso quede asombrado, las clases que vienen se ven fascinantes! :3
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [886267](https://platzi.com/comentario/886267/) 
 
-	
 	Nunca e utilizado TypeScript pero comentan que lo utilizaremos en este curso veamos como se juega con esto
 
-* **Andres Felipe Buitrago Feria** (1)
+* **Andres Felipe Buitrago Feria** (1) [867345](https://platzi.com/comentario/867345/) 
 
-	
 	Emocionado con el curos
 
-* **rperalta** (1)
+* **rperalta** (1) [865317](https://platzi.com/comentario/865317/) 
 
-	
 	Muy buena iniciativa
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [860198](https://platzi.com/comentario/860198/) 
 
-	
 	Emocionado con este siguiente paso.
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [859251](https://platzi.com/comentario/859251/) 
 
-	
 	El inicio de un nuevo curso, vamos con toda 😄
 
-* **webrevolution** (1)
+* **webrevolution** (1) [853049](https://platzi.com/comentario/853049/) 
 
-	
 	Empezando!!!
 
-* **lkestrada** (1)
+* **lkestrada** (1) [842350](https://platzi.com/comentario/842350/) 
 
-	
 	Subiendo el nivel, JavaScript Profesional
 
-* **mariorm1106** (1)
+* **mariorm1106** (1) [841612](https://platzi.com/comentario/841612/) 
 
-	
 	JavaScript Profesional, a por ello
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [839187](https://platzi.com/comentario/839187/) 
 
-	
 	repasando de nuevo el curso
 
-* **edg_colon** (1)
+* **edg_colon** (1) [834904](https://platzi.com/comentario/834904/) 
 
-	
 	Javascript: write-once, run-anywhere.
 
-* **José Fernando Briceño Ruíz** (1)
+* **José Fernando Briceño Ruíz** (1) [830858](https://platzi.com/comentario/830858/) 
 
-	
 	Bastante entusiasmado al iniciar este curso, vamos a ver que tal!
 
-* **Gregoris** (1)
+* **Gregoris** (1) [817509](https://platzi.com/comentario/817509/) 
 
-	
 	Por fin javascript puro!!!
 
-* **Juan Daniel Gualtero Diaz** (1)
+* **Juan Daniel Gualtero Diaz** (1) [816212](https://platzi.com/comentario/816212/) 
 
-	
 	Muy bien
 
-* **Jonathan Duarte** (1)
+* **Jonathan Duarte** (1) [804624](https://platzi.com/comentario/804624/) 
 
-	
 	Excelente 🤩 🤩 🤩 🤩 🤩
 
-* **irvingmeyer** (1)
+* **irvingmeyer** (1) [796945](https://platzi.com/comentario/796945/) 
 
-	
 	Iniciando con todo el poder!!
 
-* **Juan Ledesma** (1)
+* **Juan Ledesma** (1) [796689](https://platzi.com/comentario/796689/) 
 
-	
 	Es necesario saber Node.Js para este curso? porque no tengo la más pálida idea XD
 
-	* **Demian Arenas (Platzi)** (3)
+	* **Demian Arenas (Platzi)** [796689] (3)
 
-		
 		Hola Juan, no necesariamente, pero si tener instalado [Node.js](https://nodejs.org/en/download/) y para el final del curso vas a utilizar npm que es el gestor de paquetes de Node.js.
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [779999](https://platzi.com/comentario/779999/) 
 
-	
 	bueno vamos es con toda
 
-* **Jose Calvano** (1)
+* **Jose Calvano** (1) [771991](https://platzi.com/comentario/771991/) 
 
-	
 	Genial 😄
 
-* **Davic64** (1)
+* **Davic64** (1) [764755](https://platzi.com/comentario/764755/) 
 
-	
 	Con el mejor de todos los profes :3 super buena onda ujuu
 
-* **Jorgelisapa** (1)
+* **Jorgelisapa** (1) [746832](https://platzi.com/comentario/746832/) 
 
-	
 	Buena forma de enseñar 😄
 
-* **wilantury** (1)
+* **wilantury** (1) [738714](https://platzi.com/comentario/738714/) 
 
-	
 	Ésta semana estará llena de retos con éste curso.
 
-* **cocoapuffx** (1)
+* **cocoapuffx** (1) [736685](https://platzi.com/comentario/736685/) 
 
-	
 	Que bueno que será Richard el profesor de este curso. Ya he tomado otros cursos con el y gusta mucho como explica!
 
-* **Patricio Cabrera** (1)
+* **Patricio Cabrera** (1) [721811](https://platzi.com/comentario/721811/) 
 
-	
 	Muy, muy interesante
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [717911](https://platzi.com/comentario/717911/) 
 
-	
 	Emocionante curso.
 
-* **Daniel .** (1)
+* **Daniel .** (1) [716813](https://platzi.com/comentario/716813/) 
 
-	
 	woow …esperando terminar el curso y aprender demasiado
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [716246](https://platzi.com/comentario/716246/) 
 
-	
 	El curso pinta muy bien. A seguir aprendiendo.
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [700093](https://platzi.com/comentario/700093/) 
 
-	
 	El ánimo que le pone el profesor es envidiable!!
 
-* **Fabio Andres Arango Grajales** (1)
+* **Fabio Andres Arango Grajales** (1) [696825](https://platzi.com/comentario/696825/) 
 
-	
 	Puro JS elegante…
 
-* **Marco Antonio Macedo Preciado** (1)
+* **Marco Antonio Macedo Preciado** (1) [696728](https://platzi.com/comentario/696728/) 
 
-	
 	Otro curso con este excelente profesor. Adelante!
 
-* **Jhurgen Maraza** (1)
+* **Jhurgen Maraza** (1) [696597](https://platzi.com/comentario/696597/) 
 
-	
 	Genio Kaufman!! Vamo’ a darle!
 
-* **elvis.sanchez** (1)
+* **elvis.sanchez** (1) [696592](https://platzi.com/comentario/696592/) 
 
-	
 	Wow! 😃
 
-* **Jorge Eliecer Rangel Jimenez** (1)
+* **Jorge Eliecer Rangel Jimenez** (1) [696525](https://platzi.com/comentario/696525/) 
 
-	
 	Esperado Js.
 	
 	Gracias Richard Kaufman.
 
-* **Cristobal Peña** (1)
+* **Cristobal Peña** (1) [82656](https://platzi.com/comentario/1009840/) 
 Creen que antes de hacer este curso sea mejor hacer el “Curso de Asincronismo con JavaScript”?
 
-	* **Edwin Gustavo Rozo Gómez** (1)
+	* **Edwin Gustavo Rozo Gómez** [82656] (1)
 
-		
 		No fue intencional,pero terminé tomando primero el curso de asincronismo, y creo que refuerza muy bien algunos conceptos.
 
-## 0020. Aspectos que destacan a un profesional
+## 0020. Aspectos que destacan a un profesional [22672](https://platzi.com/clases/1642-javascript-profesional/22672-aspectos-que-destacan-a-un-profesional/)
 
 ### Descripción:
 
@@ -652,472 +565,380 @@ Te compartimos este recordatorio para que seas un profesional en Javascript y en
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (25)
+* **Cesar Augusto Barco de Gouveia** (25) [722806](https://platzi.com/comentario/722806/) 
 
-	
 	[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-	* **gonzoblasco** (2)
+	* **gonzoblasco** [722806] (2)
 
-		
 		me encanta lo que hiciste…
 
-	* **Matias Sebastian Perez** (2)
+	* **Matias Sebastian Perez** [722806] (2)
 
-		
 		El trabajo que hiciste es increible, muchas gracias por compartilo!
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [722806] (2)
 
-		
 		Gracias!
 
-	* **carcastillo** (2)
+	* **carcastillo** [722806] (2)
 
-		
 		Excelente aporte!
 
-	* **Juan Camilo Rico Orjuela** (2)
+	* **Juan Camilo Rico Orjuela** [722806] (2)
 
-		
 		Brutal aporte! Gracias!
 
-	* **Mariana Cortés** (2)
+	* **Mariana Cortés** [722806] (2)
 
-		
 		WOW, muchas gracias. A veces me queda más fácil aprender leyendo que viendo videos - Tener cómo repasar las partes específicas que no entendí con estos apuntes está lo MÁS.
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [722806] (1)
 
-		
 		Pueden agregar o editar información en el repositorio.
 
-* **franciscovelsa** (5)
+* **franciscovelsa** (5) [915207](https://platzi.com/comentario/915207/) 
 
-	
 	Y tener constancia y automotivación…
 
-* **Cesar Augusto Barco de Gouveia** (5)
+* **Cesar Augusto Barco de Gouveia** (5) [705769](https://platzi.com/comentario/705769/) 
 
-	
 	El _poster_ que colocaré en mi cuarto.
 
-	* **Cesar Augusto Barco de Gouveia** (2)
+	* **Cesar Augusto Barco de Gouveia** [705769] (2)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-* **Jesus M Cocaño Diaz** (4)
+* **Jesus M Cocaño Diaz** (4) [879709](https://platzi.com/comentario/879709/) 
 
-	
 	Acabo de terminar el curso de fundamentos de JS, esto asusta pero me gusta
 
-	* **Simón Arenas** (10)
+	* **Simón Arenas** [879709] (10)
 ![maxresdefault.jpg](https://static.platzi.com/media/user_upload/maxresdefault-42b5fc16-0d28-43fb-bced-f4e122c11b22.jpg)
 
-* **Jorge Mendez Ortega** (3)
+* **Jorge Mendez Ortega** (3) [886284](https://platzi.com/comentario/886284/) 
 
-	
 	Esto se pondra bueno
 
-* **Rob Arroyo** (3)
+* **Rob Arroyo** (3) [705623](https://platzi.com/comentario/705623/) 
 
-	
 	Agregaría que es bueno documentar nuestro código, aunque quizá caiga en el apartado de mejores prácticas. Estoy emocionado por este curso 😄
 
-* **Matias Jesus Ruiz Ruiz** (3)
+* **Matias Jesus Ruiz Ruiz** (3) [705110](https://platzi.com/comentario/705110/) 
 
-	
 	Excelente iniciativa de llegar a profundidad de un lenguaje, ¡sería increíble que esto se repita para otras tecnologías!
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [1084743](https://platzi.com/comentario/1084743/) 
 
-	
 	Ahora si viene lo chidori
 
-* **Jhonnattan Rivera** (2)
+* **Jhonnattan Rivera** (2) [1016250](https://platzi.com/comentario/1016250/) 
 
-	
 	Ah Shit, Here We Go Again…
 
-* **Jose Arturo Enriquez Hurtado** (2)
+* **Jose Arturo Enriquez Hurtado** (2) [907772](https://platzi.com/comentario/907772/) 
 
-	
 	Perfecto
 
-* **JOEL HERNANDEZ** (2)
+* **JOEL HERNANDEZ** (2) [881849](https://platzi.com/comentario/881849/) 
 
-	
 	Excelente Infografia!!! Me encantó que incluyeran la ética como parte de las características de un profesional en nuestro ramo. Hay muchos programadores por ahí, pero infelizmente la ética se vuelve una cualidad rara en nuestro medio.
 
-* **Aquimista** (2)
+* **Aquimista** (2) [866255](https://platzi.com/comentario/866255/) 
 
-	
 	Yo quiero ser un profesional de JavaScript VUUUAAAAAAMOS CON TODAA.
 
-* **edg_colon** (2)
+* **edg_colon** (2) [834914](https://platzi.com/comentario/834914/) 
 
-	
 	Muy bien ilustrado, cualquier programador escribe código que las computadoras entienden, los buenos programadores escriben código que los humanos entienden.
 
-* **Juan Carlos García Esquivel** (2)
+* **Juan Carlos García Esquivel** (2) [743379](https://platzi.com/comentario/743379/) 
 
-	
 	 **muy motivado con el primer vídeo**
 
-* **Columbus** (1)
+* **Columbus** (1) [1107434](https://platzi.com/comentario/1107434/) 
 
-	
 	Aprendiendo para llegar a ser un gran profesional 😄
 
-* **Sergio Sabino** (1)
+* **Sergio Sabino** (1) [1104866](https://platzi.com/comentario/1104866/) 
 
-	
 	Este curso se ve muy interesante!!!
 
-* **bvalientes** (1)
+* **bvalientes** (1) [1104202](https://platzi.com/comentario/1104202/) 
 
-	
 	Aprendiendo
 
-* **john fredy quimbaya orozco** (1)
+* **john fredy quimbaya orozco** (1) [1096792](https://platzi.com/comentario/1096792/) 
 
-	
 	Las imágenes están geniales
 
-* **Davic64** (1)
+* **Davic64** (1) [1091591](https://platzi.com/comentario/1091591/) 
 
-	
 	Motivado e inspirado, con todoooo!!!
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1079471](https://platzi.com/comentario/1079471/) 
 
-	
 	Vamos allá!
 
-* **Moisés Cedeño** (1)
+* **Moisés Cedeño** (1) [1074279](https://platzi.com/comentario/1074279/) 
 
-	
 	Buena gráfica. ¡Empezamos!
 
-* **eavila** (1)
+* **eavila** (1) [1065124](https://platzi.com/comentario/1065124/) 
 
-	
 	😃
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [1047767](https://platzi.com/comentario/1047767/) 
 
-	
 	=>
 
-* **Mauricio Rodriguez Avila** (1)
+* **Mauricio Rodriguez Avila** (1) [1047589](https://platzi.com/comentario/1047589/) 
 
-	
 	Vamos por por el camino a convertirme en un profesional de JavaScript.
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [1026751](https://platzi.com/comentario/1026751/) 
 
-	
 	Muy buenos tips.
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1025010](https://platzi.com/comentario/1025010/) 
 
-	
 	vamos!!
 
-* **Eleazar Carreón Álvarez** (1)
+* **Eleazar Carreón Álvarez** (1) [1014914](https://platzi.com/comentario/1014914/) 
 
-	
 	Muy bien.
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1010722](https://platzi.com/comentario/1010722/) 
 
-	
 	vamos!
 
-* **Espanky** (1)
+* **Espanky** (1) [1009335](https://platzi.com/comentario/1009335/) 
 
-	
 	here we go!!
 
-* **Juan manuel hernandez marcano** (1)
+* **Juan manuel hernandez marcano** (1) [1008786](https://platzi.com/comentario/1008786/) 
 
-	
 	ya basta de ser un novato
 
-* **Javier Andres Gamboa Duarte** (1)
+* **Javier Andres Gamboa Duarte** (1) [1008012](https://platzi.com/comentario/1008012/) 
 
-	
 	go go go!
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1006956](https://platzi.com/comentario/1006956/) 
 
-	
 	Number 2…
 
-* **Jhonathan Steven Calderon Sanchez** (1)
+* **Jhonathan Steven Calderon Sanchez** (1) [991263](https://platzi.com/comentario/991263/) 
 
-	
 	Let’s go!!
 
-* **Andrés Groelffi Agudelo Herrera** (1)
+* **Andrés Groelffi Agudelo Herrera** (1) [988770](https://platzi.com/comentario/988770/) 
 
-	
 	😄
 
-* **ValentinGutierrez** (1)
+* **ValentinGutierrez** (1) [987395](https://platzi.com/comentario/987395/) 
 
-	
 	(Y)
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [985444](https://platzi.com/comentario/985444/) 
 
-	
 	vamos con todo
 
-* **Osvaldo Trejo** (1)
+* **Osvaldo Trejo** (1) [984648](https://platzi.com/comentario/984648/) 
 
-	
 	Let’s go!
 
-* **John Botero** (1)
+* **John Botero** (1) [968802](https://platzi.com/comentario/968802/) 
 
-	
 	Arranaco con toda, ánimo a todos.
 
-* **hectormr** (1)
+* **hectormr** (1) [966878](https://platzi.com/comentario/966878/) 
 
-	
 	Repitiendo nuevamente el curso, me dejó muy sorprendido con todo lo que podemos hacer!
 
-* **Luis Alexander Chip** (1)
+* **Luis Alexander Chip** (1) [964043](https://platzi.com/comentario/964043/) 
 
-	
 	Este curso promete!
 
-* **estefaniajmedina** (1)
+* **estefaniajmedina** (1) [960082](https://platzi.com/comentario/960082/) 
 
-	
 	Excelentes bases.
 
-* **Jaime Acosta** (1)
+* **Jaime Acosta** (1) [957289](https://platzi.com/comentario/957289/) 
 
-	
 	Excelente, este curso me va sorprender.
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [954482](https://platzi.com/comentario/954482/) 
 
-	
 	Asì hay que hacer, no solo en esta profesión sino en cualquiera otra que tengamos.
 
-* **Northerchild** (1)
+* **Northerchild** (1) [950628](https://platzi.com/comentario/950628/) 
 
-	
 	Vamos con toda
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [942618](https://platzi.com/comentario/942618/) 
 
-	
 	Buena información! Y así da ganas leerlo 😃
 
-* **Cristian Mauricio Gutierrez Rivera** (1)
+* **Cristian Mauricio Gutierrez Rivera** (1) [941172](https://platzi.com/comentario/941172/) 
 
-	
 	Muy buena la informacion, vamos con toda
 
-* **Diego Alfonso Najera Ortiz** (1)
+* **Diego Alfonso Najera Ortiz** (1) [937491](https://platzi.com/comentario/937491/) 
 
-	
 	Excelente info!
 
-* **Cesar Octavio de Jesús Meza Carrillo** (1)
+* **Cesar Octavio de Jesús Meza Carrillo** (1) [936830](https://platzi.com/comentario/936830/) 
 
-	
 	Muy bien!!!
 
-* **Carlos Adrián Ruíz Díaz** (1)
+* **Carlos Adrián Ruíz Díaz** (1) [931795](https://platzi.com/comentario/931795/) 
 
-	
 	 **Excelente!!!**
 
-* **johnaagudelo** (1)
+* **johnaagudelo** (1) [872946](https://platzi.com/comentario/872946/) 
 
-	
 	a ponerlo en practica!!!
 
-* **sergio-medina93** (1)
+* **sergio-medina93** (1) [866120](https://platzi.com/comentario/866120/) 
 
-	
 	Bueno a practicarlas todos los días más cuidarme la dieta jaja
 
-* **Sacheri** (1)
+* **Sacheri** (1) [862700](https://platzi.com/comentario/862700/) 
 
-	
 	Listo lml
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [860325](https://platzi.com/comentario/860325/) 
 
-	
 	Entendido.
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [859253](https://platzi.com/comentario/859253/) 
 
-	
 	Genial recordatorio
 
-* **webrevolution** (1)
+* **webrevolution** (1) [853050](https://platzi.com/comentario/853050/) 
 
-	
 	Excelente!!!
 
-* **mariorm1106** (1)
+* **mariorm1106** (1) [841617](https://platzi.com/comentario/841617/) 
 
-	
 	Muy buenos puntos a tener en cuenta
 
-* **José Fernando Briceño Ruíz** (1)
+* **José Fernando Briceño Ruíz** (1) [830865](https://platzi.com/comentario/830865/) 
 
-	
 	Me gustó la infografía, gracias!
 
-* **Cesar Octavio de Jesús Meza Carrillo** (1)
+* **Cesar Octavio de Jesús Meza Carrillo** (1) [824123](https://platzi.com/comentario/824123/) 
 
-	
 	Excelente infografia… otra mas para el muro … Muchas gracias 😄
 
-* **predator0077** (1)
+* **predator0077** (1) [823686](https://platzi.com/comentario/823686/) 
 
-	
 	Muchas Gracias por las recomendaciones y la infografia.
 
-* **angelo meneses** (1)
+* **angelo meneses** (1) [820846](https://platzi.com/comentario/820846/) 
 
-	
 	a seguir dando le duro en este largo camino! con todo el entusiasmo del mundo #SiSePuede #JavaScript
 
-* **George Barahona** (1)
+* **George Barahona** (1) [820062](https://platzi.com/comentario/820062/) 
 
-	
 	Grandes recomendaciones.
 	
 	A seguirlas para ser el mejor.
 
-* **cjimd90** (1)
+* **cjimd90** (1) [818927](https://platzi.com/comentario/818927/) 
 
-	
 	Excelente para aprender a ser un profesional en JavaScript…
 
-* **Gregoris** (1)
+* **Gregoris** (1) [817510](https://platzi.com/comentario/817510/) 
 
-	
 	Ya quiero empezar!!!
 
-* **Jhonney Correa** (1)
+* **Jhonney Correa** (1) [817189](https://platzi.com/comentario/817189/) 
 
-	
 	Estoy muy emocionado :v
 
-* **Sergio Arturo Enriquez Nava** (1)
+* **Sergio Arturo Enriquez Nava** (1) [809116](https://platzi.com/comentario/809116/) 
 
-	
 	Las bases de un programador de javascript, suena chido 💪
 
-* **Rubén Jiménez Uribe** (1)
+* **Rubén Jiménez Uribe** (1) [809061](https://platzi.com/comentario/809061/) 
 
-	
 	Esto motiva mucho. Se pondrá bueno el curso.
 
-* **candres26** (1)
+* **candres26** (1) [793945](https://platzi.com/comentario/793945/) 
 
-	
 	Super profesor el que imparte este curso estoy muy emocionado por lo que se viene.
 
-* **Jose Antonio Sarria Garcia** (1)
+* **Jose Antonio Sarria Garcia** (1) [787804](https://platzi.com/comentario/787804/) 
 
-	
 	Buen inicio
 
-* **ronaldLayalaG** (1)
+* **ronaldLayalaG** (1) [787555](https://platzi.com/comentario/787555/) 
 
-	
 	Muy motivador.
 
-* **Marco Antonio González Arellano** (1)
+* **Marco Antonio González Arellano** (1) [757354](https://platzi.com/comentario/757354/) 
 
-	
 	En verdad motiva!
 
-* **franciscolesm22226d48ae644859** (1)
+* **franciscolesm22226d48ae644859** (1) [755362](https://platzi.com/comentario/755362/) 
 
-	
 	Excelentes consejos
 
-* **SergioBernal** (1)
+* **SergioBernal** (1) [754841](https://platzi.com/comentario/754841/) 
 
-	
 	Pedazo diseño
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [750886](https://platzi.com/comentario/750886/) 
 
-	
 	Con toda 😉
 
-* **Alonso Garcia** (1)
+* **Alonso Garcia** (1) [742436](https://platzi.com/comentario/742436/) 
 
-	
 	Son muy buenos consejos, espero bastante de este curso 😃
 
-* **Andranik** (1)
+* **Andranik** (1) [740592](https://platzi.com/comentario/740592/) 
 
-	
 	Woooow… cada vez tengo mas ganas
 
-* **Luis Daniel Caraballo** (1)
+* **Luis Daniel Caraballo** (1) [739227](https://platzi.com/comentario/739227/) 
 
-	
 	Muy chevere estos diseños 😊
 
-* **wilantury** (1)
+* **wilantury** (1) [738716](https://platzi.com/comentario/738716/) 
 
-	
 	muy motivado
 
-* **nick** (1)
+* **nick** (1) [737893](https://platzi.com/comentario/737893/) 
 
-	
 	Perfecto!!
 
-* **Christian Armando Consuelo Mayén** (1)
+* **Christian Armando Consuelo Mayén** (1) [736589](https://platzi.com/comentario/736589/) 
 
-	
 	Me encantó este material. Muchas felicidades!
 
-* **ruddypazd** (1)
+* **ruddypazd** (1) [718340](https://platzi.com/comentario/718340/) 
 
-	
 	Buena imagen.
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [716260](https://platzi.com/comentario/716260/) 
 
-	
 	Es muy buena la infografia. La pondré[e en practica desde hoy 😃
 
-* **Japheth Calzada López** (1)
+* **Japheth Calzada López** (1) [710404](https://platzi.com/comentario/710404/) 
 
-	
 	Me encanto el poster
 
-* **juanchaparro9** (0)
+* **juanchaparro9** (0) [1059199](https://platzi.com/comentario/1059199/) 
 
-	
 	😃 que emoción!
 
-* **daxdoxsi** (0)
+* **daxdoxsi** (0) [840912](https://platzi.com/comentario/840912/) 
 
-	
 	Brillante infografía, muchas gracias!
 
-## 0030. Inicio del proyecto
+## 0030. Inicio del proyecto [22157](https://platzi.com/clases/1642-javascript-profesional/22157-inicio-del-proyecto/)
 
 ### Descripción:
 
@@ -1136,9 +957,8 @@ El repositorio de este curso lo encuentras en: <https://github.com/platzi/javasc
 
 ### Comentarios:
 
-* **miguelangelsoler** (9)
+* **miguelangelsoler** (9) [948407](https://platzi.com/comentario/948407/) 
 
-	
 	Si alguien quiere tener específicamente los scripts que tiene el mentor en el video, puede hacer lo siguiente:
 	
 	  1. Clonar el repo desde aqui <https://github.com/platzi/javascript-profesional.git>
@@ -1147,45 +967,38 @@ El repositorio de este curso lo encuentras en: <https://github.com/platzi/javasc
 	
 	
 
-	* **Fabio Sanchez** (1)
+	* **Fabio Sanchez** [948407] (1)
 
-		
 		Muchas gracias.
 
-	* **JuanDanielRR** (1)
+	* **JuanDanielRR** [948407] (1)
 
-		
 		Crack!
 
-	* **aracelymarentes** (1)
+	* **aracelymarentes** [948407] (1)
 
-		
 		Gracias 😃
 
-* **Johan Manuel Perez Soto** (5)
+* **Johan Manuel Perez Soto** (5) [982775](https://platzi.com/comentario/982775/) 
 
-	
 	La base del proyecto la pueden encontrar dando click [aqui](https://github.com/platzi/javascript-profesional/tree/ff1badc05e00be6bb018bf3e5705ba672e20821f)
 
-* **ValentinGutierrez** (5)
+* **ValentinGutierrez** (5) [81821](https://platzi.com/comentario/990402/) 
 Jajajajja Me da risa porque lo hace muy complicado
 
-	* **María José Ledesma (Platzi)** (1)
+	* **María José Ledesma (Platzi)** [81821] (1)
 
-		
 		¡Hola ValentinGutierrez!  
 		¿Hay algo en lo que podamos ayudarte?
 		
 		**¡Nunca pares de aprender!** 🦄
 
-* **horacio-garcia** (4)
+* **horacio-garcia** (4) [1077475](https://platzi.com/comentario/1077475/) 
 
-	
 	Esparragus Esparragus! 😦 , eres el profesor mas difícil cil de platzi, pero aprecio tu esfuerzo, suelen ser confusas tus clases, no todo es tan obvio!
 
-* **Giuliana Evangelina Olmos** (4)
+* **Giuliana Evangelina Olmos** (4) [1064348](https://platzi.com/comentario/1064348/) 
 
-	
 	Hola!  
 	Para empezar con la clase yo:
 	
@@ -1198,14 +1011,12 @@ Jajajajja Me da risa porque lo hace muy complicado
 	
 	
 
-	* **jesus-cruz-dominguez** (1)
+	* **jesus-cruz-dominguez** [1064348] (1)
 
-		
 		Muchas gracias! Era lo que estaba buscando jeje
 
-* **durbonca** (4)
+* **durbonca** (4) [947614](https://platzi.com/comentario/947614/) 
 
-	
 	Metodo de pausa
 	
 	<https://developer.mozilla.org/es/docs/Web/API/HTMLMediaElement/pause>
@@ -1216,9 +1027,8 @@ Jajajajja Me da risa porque lo hace muy complicado
 	
 	De esta manera se puede validar para activar o desactivar un boton de pausa.
 
-* **Hernán Arica** (4)
+* **Hernán Arica** (4) [942666](https://platzi.com/comentario/942666/) 
 
-	
 	No entendi esta parte, por que dice que this.media es igual a config.el???
 	``` 
 	    functionMediaPLayer(config){
@@ -1227,7 +1037,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Gian Marco Trejo Lucero** (4)
+* **Gian Marco Trejo Lucero** (4) [919533](https://platzi.com/comentario/919533/) 
 
 	```
 	           mediaplayer.prototype.play=function(){
@@ -1239,21 +1049,18 @@ Jajajajja Me da risa porque lo hace muy complicado
 	            }
 	```
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [919533] (1)
 
-		
 		Es correcto, también aplique este código.
 
-* **justinmark** (3)
+* **justinmark** (3) [1103830](https://platzi.com/comentario/1103830/) 
 
-	
 	Mi solución usando ES6, esto lo hago porque tengo bastante claro que lo estoy haciendo no es mas que azúcar sintáctico con las “clases”, lo que en realidad estoy haciendo es creando un prototipo con 2 métodos.
 	
 	![carbon \(1\).png](https://static.platzi.com/media/user_upload/carbon%20%281%29-e32b0730-cbd0-4eea-bbb1-79ccadca073d.jpg)
 
-* **Andrés Campuzano Garzón** (3)
+* **Andrés Campuzano Garzón** (3) [1018579](https://platzi.com/comentario/1018579/) 
 
-	
 	Solo cambie esto:
 	``` 
 	            MediaPlayer.prototype.changeStatus= function () {
@@ -1270,19 +1077,16 @@ Jajajajja Me da risa porque lo hace muy complicado
 	
 	[documentación](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play)
 
-* **Cristian Marin** (3)
+* **Cristian Marin** (3) [957850](https://platzi.com/comentario/957850/) 
 
-	
 	Es muy confuso iniciar este curso!!!
 
-	* **Luis Alexander Chip** (1)
+	* **Luis Alexander Chip** [957850] (1)
 
-		
 		Este curso es la continuacion de la carrera Escuela de JavaScript, para tomar este curso tendrias que a ver visto los cursos anterirores de la carrera o por lo menos el de `Fundamentos de JavaScript`
 
-* **emilio-jose-ugeda-sanoja** (3)
+* **emilio-jose-ugeda-sanoja** (3) [905412](https://platzi.com/comentario/905412/) 
 
-	
 	Hola a todos !!! cambia un poco el código al estilo Sacha Lifszyc usando CLASS para los que vieron fundamental vean que es parecido! Saludos!!!
 	``` 
 	    classMediaPlayer{
@@ -1317,9 +1121,8 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Miguel Segura** (3)
+* **Miguel Segura** (3) [889315](https://platzi.com/comentario/889315/) 
 
-	
 	Aqui esta el reto resuelto, trate de seguir el mismo patron usado en clase
 	``` 
 	    const video = document.querySelector("video");
@@ -1358,9 +1161,8 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Ariel Fernando Mejia** (2)
+* **Ariel Fernando Mejia** (2) [1116314](https://platzi.com/comentario/1116314/) 
 
-	
 	Hice algunas modificaciones al codigo propuesto para darle mas legibilidad:
 	``` 
 	    // Class
@@ -1399,7 +1201,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Davic64** (2)
+* **Davic64** (2) [1093092](https://platzi.com/comentario/1093092/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -1419,7 +1221,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Moisés Cedeño** (2)
+* **Moisés Cedeño** (2) [1075340](https://platzi.com/comentario/1075340/) 
 
 	```
 	    <script>
@@ -1451,9 +1253,8 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Raundy Ibarras** (2)
+* **Raundy Ibarras** (2) [1068622](https://platzi.com/comentario/1068622/) 
 
-	
 	Done!
 	``` 
 	    <scriptsrc="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
@@ -1482,9 +1283,8 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (2)
+* **Steve Anthony Luzquiños Agama** (2) [1054366](https://platzi.com/comentario/1054366/) 
 
-	
 	Imagino que habrá gente que quiera hacerlo usando `ES6`, les dejo mi versión:
 	``` 
 	    const video = document.querySelector('video')
@@ -1505,7 +1305,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Kevin Acuña Quirós** (2)
+* **Kevin Acuña Quirós** (2) [1052587](https://platzi.com/comentario/1052587/) 
 
 	```
 	    <script>
@@ -1531,7 +1331,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **jhon manuel angulo moncada** (2)
+* **jhon manuel angulo moncada** (2) [1048411](https://platzi.com/comentario/1048411/) 
 
 	```
 	    const video = document.querySelector("video")
@@ -1562,9 +1362,8 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Guillermo Vara De Gante** (2)
+* **Guillermo Vara De Gante** (2) [1031884](https://platzi.com/comentario/1031884/) 
 
-	
 	Mi solucion
 	``` 
 	    const video = document.querySelector("video");
@@ -1604,7 +1403,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Rodrigo Ramirez Trujillo** (2)
+* **Rodrigo Ramirez Trujillo** (2) [1014744](https://platzi.com/comentario/1014744/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -1628,7 +1427,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **BrianToroDev** (2)
+* **BrianToroDev** (2) [977733](https://platzi.com/comentario/977733/) 
 
 	```
 	    const  video = document.querySelector('video')
@@ -1662,7 +1461,7 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **Ilse Alejandra Fermán García** (2)
+* **Ilse Alejandra Fermán García** (2) [968048](https://platzi.com/comentario/968048/) 
 
 	```
 	     const video = document.querySelector("video")
@@ -1694,28 +1493,24 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **rubencolina** (2)
+* **rubencolina** (2) [965115](https://platzi.com/comentario/965115/) 
 
-	
 	hey! pero si este es el inicio del curso por qué el repositorio no comienza allí? el repositorio que clone es totalmente diferente a lo que muestra Richard. Al menos usen un tag o algo.
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [965115] (4)
 
-		
 		El Repo tiene un commit por clase, solo vuelve atrás en los commits 😄
 
-* **Andres Felipe Bonett Maldonado** (2)
+* **Andres Felipe Bonett Maldonado** (2) [947346](https://platzi.com/comentario/947346/) 
 
-	
 	Usando Operdor Ternario:
 	``` 
 	    button.onclick = () => (player.media.paused ? player.play() : player.pause());
 	    
 	```
 
-* **seiro** (2)
+* **seiro** (2) [919274](https://platzi.com/comentario/919274/) 
 
-	
 	Código para pausar y poner play
 	``` 
 	    MediaPlayer.prototype.play = function () {
@@ -1728,14 +1523,14 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-* **ronald-machado** (2)
-![wtf.PNG](https://static.platzi.com/media/user_upload/wtf-c10d190c-e20a-46c6-812e-d3fbd4bb991d.jpg)
+* **ronald-machado** (2) [918689](https://platzi.com/comentario/918689/) 
+	
+	![wtf.PNG](https://static.platzi.com/media/user_upload/wtf-c10d190c-e20a-46c6-812e-d3fbd4bb991d.jpg)
 	
 	Alguien me puede explicar por qué se debe colorcar **config.el** y no simplemente **config** al asignarlo a this.media? por favor…
 
-	* **Luis Fernández** (6)
+	* **Luis Fernández** [918689] (6)
 
-		
 		Saludos Ronald.
 		
 		Esto sucede porque cuando pasa el parámetro de config lo pasa como un json
@@ -1756,19 +1551,17 @@ Jajajajja Me da risa porque lo hace muy complicado
 		
 		config.boton
 
-	* **ronald-machado** (2)
+	* **ronald-machado** [918689] (2)
 
-		
 		Ahhhh ya veo muchas gracias Luis.
 
-	* **sebastian-mujica** (4)
+	* **sebastian-mujica** [918689] (4)
 
-		
 		Es porque estás recibiendo un objeto como parámetro, y sabes que el objeto que se está pasando en la función como se muestra en el código siguiente  
 		const player = new MediaPlayer({el:video});  
 		Está creando un objeto nuevo que tiene un atributo llamado el. Entonces al realizar config.el estás extrayendo este objeto, el cual contiene la referencia al reproductor de video que es lo que deseas.
 
-* **Jose Arturo Enriquez Hurtado** (2)
+* **Jose Arturo Enriquez Hurtado** (2) [908356](https://platzi.com/comentario/908356/) 
 
 	```
 	    const video = document.querySelector('.movie')
@@ -1790,24 +1583,20 @@ Jajajajja Me da risa porque lo hace muy complicado
 	    
 	```
 
-	* **Antony Giomar Hernández** (2)
+	* **Antony Giomar Hernández** [908356] (2)
 
-		
 		Excelente código
 
-* **Leonel Lopez** (2)
+* **Leonel Lopez** (2) [889317](https://platzi.com/comentario/889317/) 
 
-	
 	Los archivos adjuntos son el resultado de todo el curso, así como pretenden que siga el curso 😠
 
-	* **Ivan Fuentes González** (4)
+	* **Ivan Fuentes González** [889317] (4)
 
-		
 		Clona el repositorio, si te das cuenta hay 31 commits, haz un git reset al commit que lleva por nombre “Inicio del proyecto”. (Yo hice un reset --hard para que se eliminaran todos los archivos y poder comenzar)
 
-	* **Yancarlo Urdaneta** (5)
+	* **Yancarlo Urdaneta** [889317] (5)
 
-		
 		Hola, para ir con los apuntes del profe debes irte desde VSCode a la carpeta del repositorio
 		``` 
 		    cd javascript-profesional
@@ -1828,15 +1617,14 @@ Jajajajja Me da risa porque lo hace muy complicado
 		    
 		```
 
-* **OscarAn** (2)
+* **OscarAn** (2) [78679](https://platzi.com/comentario/925754/) 
 estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el proyecto terminado.No se...
 
-	* **Nicolas Villabona** (12)
+	* **Nicolas Villabona** [78679] (12)
 
-		
 		Hola , tienes que descargar el commit inicial , lo encuentras [aquí](https://github.com/platzi/javascript-profesional/tree/ff1badc05e00be6bb018bf3e5705ba672e20821f)
 
-* **commity** (1)
+* **commity** (1) [1117587](https://platzi.com/comentario/1117587/) 
 
 	```
 	    const video = document.querySelector("video")
@@ -1862,7 +1650,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Juanka** (1)
+* **Juanka** (1) [1110991](https://platzi.com/comentario/1110991/) 
 
 	```
 	    const button=document.querySelector('button');
@@ -1892,9 +1680,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	            }```
 	```
 
-* **Javier Andres Gamboa Duarte** (1)
+* **Javier Andres Gamboa Duarte** (1) [1106870](https://platzi.com/comentario/1106870/) 
 
-	
 	Mi solución:
 	``` 
 	    const video = document.querySelector("video"); // Selector represena un elemento, este caso video
@@ -1929,9 +1716,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Erick Daniel Pérez Mata** (1)
+* **Erick Daniel Pérez Mata** (1) [1101888](https://platzi.com/comentario/1101888/) 
 
-	
 	Mi solución:
 	``` 
 	    const video = document.querySelector('video');
@@ -1956,7 +1742,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [1098595](https://platzi.com/comentario/1098595/) 
 
 	```
 	    const video = document.querySelector("video")
@@ -1989,7 +1775,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [1097707](https://platzi.com/comentario/1097707/) 
 
 	```
 	    <script>
@@ -2028,9 +1814,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [1092328](https://platzi.com/comentario/1092328/) 
 
-	
 	Aquí mi solución:
 	``` 
 	    <script>
@@ -2067,17 +1852,16 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Facundo Pérez Schneider** (1)
-![44ebefaf35586018f4f6140d4747b0d9.png](https://static.platzi.com/media/user_upload/44ebefaf35586018f4f6140d4747b0d9-92ac398e-a4ed-467f-9f43-154a2975e00a.jpg)
-
-* **Facundo Pérez Schneider** (1)
-
+* **Facundo Pérez Schneider** (1) [1091642](https://platzi.com/comentario/1091642/) 
 	
+	![44ebefaf35586018f4f6140d4747b0d9.png](https://static.platzi.com/media/user_upload/44ebefaf35586018f4f6140d4747b0d9-92ac398e-a4ed-467f-9f43-154a2975e00a.jpg)
+
+* **Facundo Pérez Schneider** (1) [1091629](https://platzi.com/comentario/1091629/) 
+
 	5:33 Entonces estás diciendo que ux de YouTube es malo? Es decir, los videos se reproducen apenas entramos a la página del video.
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1089042](https://platzi.com/comentario/1089042/) 
 
-	
 	Mi solución:
 	``` 
 	    class MediaPlayer {
@@ -2115,9 +1899,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **César Alejandro Garay Aguilar** (1)
+* **César Alejandro Garay Aguilar** (1) [1087158](https://platzi.com/comentario/1087158/) 
 
-	
 	**Mi solución al reto**
 	``` 
 	    <script>
@@ -2152,9 +1935,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Delfina Merola Moreschi** (1)
+* **Delfina Merola Moreschi** (1) [1081830](https://platzi.com/comentario/1081830/) 
 
-	
 	Quise hacerlo con ES6 utilizando clases pero no funciona, cuando debuggeo el código en la consola this aparece como window y no como mi clase, alguien puede decirme cual es mi error?
 	``` 
 	                
@@ -2181,9 +1963,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [1081830] (1)
 
-		
 		Es difícil ayudarte así, si muestras tu HTML podría servir mejor.  
 		¿Ya comprobaste que las constantes video y button, están tomando el que deben del HTML?
 		
@@ -2212,10 +1993,11 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		    
 		```
 
-* **DAYANA LISETH VILLADA ECHAVARRIA** (1)
-![reto1.jpg](https://static.platzi.com/media/user_upload/reto1-ead2fb5d-b243-4a6c-be1d-c22e642a5221.jpg)
+* **DAYANA LISETH VILLADA ECHAVARRIA** (1) [1077721](https://platzi.com/comentario/1077721/) 
+	
+	![reto1.jpg](https://static.platzi.com/media/user_upload/reto1-ead2fb5d-b243-4a6c-be1d-c22e642a5221.jpg)
 
-* **angeldanielalcudia** (1)
+* **angeldanielalcudia** (1) [1076373](https://platzi.com/comentario/1076373/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -2238,7 +2020,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **mugarte** (1)
+* **mugarte** (1) [1075577](https://platzi.com/comentario/1075577/) 
 
 	```
 	    <code><script>
@@ -2274,7 +2056,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Daniel Rodriguez** (1)
+* **Daniel Rodriguez** (1) [1074758](https://platzi.com/comentario/1074758/) 
 
 	```
 	    <script>
@@ -2295,10 +2077,11 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Santiago Andres Duque Moreno** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-2dc94ab0-13ca-404c-874d-14474f208c01.jpg)
+* **Santiago Andres Duque Moreno** (1) [1073371](https://platzi.com/comentario/1073371/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-2dc94ab0-13ca-404c-874d-14474f208c01.jpg)
 
-* **Alexei Alvarez** (1)
+* **Alexei Alvarez** (1) [1070193](https://platzi.com/comentario/1070193/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -2325,9 +2108,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	
 	yo lo hice asi, es poco o muy malo pero es trabajo honesto :V xD
 
-* **Le_MaliX** (1)
+* **Le_MaliX** (1) [1069274](https://platzi.com/comentario/1069274/) 
 
-	
 	Modificando el texto del boton agregandolo al config
 	``` 
 	      <script>
@@ -2358,7 +2140,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Joaquín Ignacio Ossandón Gómez** (1)
+* **Joaquín Ignacio Ossandón Gómez** (1) [1067183](https://platzi.com/comentario/1067183/) 
 
 	```
 	          MediaPlayer.prototype.play = function(){
@@ -2370,9 +2152,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Juan Enrique Rodriguez Garcia** (1)
+* **Juan Enrique Rodriguez Garcia** (1) [1066406](https://platzi.com/comentario/1066406/) 
 
-	
 	Con esto cambiamos el nombre del botón cuando pulsamos y con this.media.paused, no hace falta variables externas para el if
 	``` 
 	          MediaPlayer.prototype.play = function() {
@@ -2387,9 +2168,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Jose Luis Vega Vargas** (1)
+* **Jose Luis Vega Vargas** (1) [1065627](https://platzi.com/comentario/1065627/) 
 
-	
 	listo implemete esta logica para resolver lo de pause
 	``` 
 	    var sound = false;
@@ -2408,22 +2188,19 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Jose Luis Vega Vargas** (1)
+* **Jose Luis Vega Vargas** (1) [1063766](https://platzi.com/comentario/1063766/) 
 
-	
 	pregunta estoy iniciando pero no veo el mismo proyecto que el profesor tiene, ese index.html y el css no esta en el repo que el tiene. si alguien puede ayudarme lo agradezco, saludos.
 
-	* **Jose Luis Vega Vargas** (1)
+	* **Jose Luis Vega Vargas** [1063766] (1)
 
-		
 		ya lo consegui, lo hice de cero los pocos arreglos que tenia ya que en el repo esta resueto, las respuestas del examen estan alli XD…
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1063766] (2)
 
-		
 		De todas maneras, lo que pasa en el repo es que hay un commit por clase, acá te dejo el commit al que pertenece esta clase [Inicio del proyecto](https://github.com/platzi/javascript-profesional/tree/ff1badc05e00be6bb018bf3e5705ba672e20821f) 😄
 
-* **richie** (1)
+* **richie** (1) [1063291](https://platzi.com/comentario/1063291/) 
 
 	```
 	    const video = document.querySelector('video')
@@ -2453,7 +2230,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **torcoroma-arias-ascanio** (1)
+* **torcoroma-arias-ascanio** (1) [1053309](https://platzi.com/comentario/1053309/) 
 
 	```
 	    
@@ -2484,7 +2261,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **vickiavola** (1)
+* **vickiavola** (1) [1052082](https://platzi.com/comentario/1052082/) 
 
 	```
 	    <script>
@@ -2514,7 +2291,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **idmevander** (1)
+* **idmevander** (1) [1045982](https://platzi.com/comentario/1045982/) 
 
 	```
 	    const video = document.querySelector("video")
@@ -2544,7 +2321,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **hlperez** (1)
+* **hlperez** (1) [1044538](https://platzi.com/comentario/1044538/) 
 
 	```
 	    functionMediaPlayer(config) {
@@ -2573,14 +2350,12 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **ManuS** (1)
+* **ManuS** (1) [1041412](https://platzi.com/comentario/1041412/) 
 
-	
 	dónde es instanciado this.media?
 
-	* **Samuel Mata** (2)
+	* **Samuel Mata** [1041412] (2)
 
-		
 		this.media es un atributo de la clase MediaPlayer, que toma su valor cuando se establece el objeto de configuración como parametro aquí:
 		``` 
 		    const player = new MediaPlayer( { el: video } );
@@ -2591,24 +2366,20 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		
 		saludos.
 
-	* **ManuS** (1)
+	* **ManuS** [1041412] (1)
 
-		
 		gracias Samuel! mi confusión era porque vengo de Java y para definir un atributo de una clase hay que declararla.
 
-* **Edward Trigos Lopez** (1)
+* **Edward Trigos Lopez** (1) [1039567](https://platzi.com/comentario/1039567/) 
 
-	
 	Las siglas MDN tiene algún significado?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1039567] (1)
 
-		
 		Mozilla Developer Network
 
-* **Juan camilo bedoya** (1)
+* **Juan camilo bedoya** (1) [1037664](https://platzi.com/comentario/1037664/) 
 
-	
 	Aplica este código para que una ves pauses, el boton cambie a play, y una vez le des play, cambie a pausa.
 	``` 
 	    //html
@@ -2650,14 +2421,12 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-	* **Juan camilo bedoya** (1)
+	* **Juan camilo bedoya** [1037664] (1)
 
-		
 		Son botones independiente interactivos, si quieres les pones los iconos de pausa y pay para que tenga el mismo efecto de los videos de Youtube.
 
-	* **Juan Enrique Rodriguez Garcia** (1)
+	* **Juan Enrique Rodriguez Garcia** [1037664] (1)
 
-		
 		Es buena idea, no se me había ocurrido.  
 		Usando innerHTML te puedes ahorrar crear otro botón, directamente cambias su interor:
 		``` 
@@ -2666,9 +2435,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		    
 		```
 
-* **Daniel Lopez** (1)
+* **Daniel Lopez** (1) [1037548](https://platzi.com/comentario/1037548/) 
 
-	
 	declarar una variable active
 	``` 
 	    button.onclick = () => {
@@ -2678,14 +2446,12 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Sergio Eduardo Sinuco Leon** (1)
+* **Sergio Eduardo Sinuco Leon** (1) [1034412](https://platzi.com/comentario/1034412/) 
 
-	
 	Sugerencia: es util que en esta clase se muestre el estado final del proyecto. Eso le da una idea al estudiante de lo que se quiere hacer.
 
-* **Andrés Gutierrez** (1)
+* **Andrés Gutierrez** (1) [1026037](https://platzi.com/comentario/1026037/) 
 
-	
 	hice esto junto con unas cuantas notas, también cuando le demos click al video se va a reproducir y pausar
 	``` 
 	    const video= document.querySelector('video')
@@ -2726,17 +2492,15 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Andrés Gutierrez** (1)
+* **Andrés Gutierrez** (1) [1025325](https://platzi.com/comentario/1025325/) 
 
-	
 	qué significa ‘el’? es un estándar o algo?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1025325] (1)
 
-		
 		Solo una abreviación de Element o Elemento 😛
 
-* **Eleazar Carreón Álvarez** (1)
+* **Eleazar Carreón Álvarez** (1) [1015175](https://platzi.com/comentario/1015175/) 
 
 	```
 	    function MediaPlayer(config) {
@@ -2765,19 +2529,16 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-	* **justinmark** (1)
+	* **justinmark** [1015175] (1)
 
-		
 		Estas usando usando Jquery ??
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [1011952](https://platzi.com/comentario/1011952/) 
 
-	
 	¿Qué significa ese “.el”?
 
-	* **Rodrigo Ramirez Trujillo** (2)
+	* **Rodrigo Ramirez Trujillo** [1011952] (2)
 
-		
 		El .el hace referencia a un valor dentro del objeto de configuración. Cuando trabajamos en javascript le podemos agregar a un objeto cuantos valores queramos, con el nombre que deseemos. Por ejemplo
 		``` 
 		    functionMediaPlayer(config){
@@ -2787,7 +2548,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		    
 		```
 
-* **Oditza Alison Gaete Sepúlveda** (1)
+* **Oditza Alison Gaete Sepúlveda** (1) [1010550](https://platzi.com/comentario/1010550/) 
 
 	```
 	    	const video = document.querySelector("video")
@@ -2816,12 +2577,11 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Cristobal Peña** (1)
+* **Cristobal Peña** (1) [1007149](https://platzi.com/comentario/1007149/) 
 
-	
 	Donde puedo profundizar sobre lo que es un objeto de configuración? Es una técnica que es parte de un área de estudio específica? Gracias.
 
-* **Roberto Antonio González Medina** (1)
+* **Roberto Antonio González Medina** (1) [1000273](https://platzi.com/comentario/1000273/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -2848,9 +2608,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **felipe-cardenas784** (1)
+* **felipe-cardenas784** (1) [992506](https://platzi.com/comentario/992506/) 
 
-	
 	La verdad, es que así me salió…
 	``` 
 	    const video = document.querySelector('video')
@@ -2885,9 +2644,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **illacoe** (1)
+* **illacoe** (1) [987270](https://platzi.com/comentario/987270/) 
 
-	
 	cuando realice el código lo cambie usando clases y arrow functions, a alguien mas no le funciona el código en Safari con Arrow functions ?? en chrome todo bien
 	``` 
 	    classMediaPlayer {
@@ -2906,7 +2664,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Osvaldo Trejo** (1)
+* **Osvaldo Trejo** (1) [984731](https://platzi.com/comentario/984731/) 
 
 	```
 	    const video = document.querySelector("video")
@@ -2932,7 +2690,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [981654](https://platzi.com/comentario/981654/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -2953,20 +2711,17 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [981631](https://platzi.com/comentario/981631/) 
 
-	
 	vamos a ver que tal con esto
 
-* **Juan Alberto López López** (1)
+* **Juan Alberto López López** (1) [980407](https://platzi.com/comentario/980407/) 
 
-	
 	Con algunos comentarios para mi mejor entendimiento  
 	![](https://raw.githubusercontent.com/codi-go/5_javascript_profesional/master/capturas/1%20Iniciando%20el%20proyecto.png?token=AOEEULQXRIFT6PIGH6GXEDC6INK4Q)
 
-* **vrivasdev** (1)
+* **vrivasdev** (1) [977070](https://platzi.com/comentario/977070/) 
 
-	
 	Reto:
 	``` 
 	    const video = document.querySelector("video")
@@ -3002,9 +2757,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **John Botero** (1)
+* **John Botero** (1) [971560](https://platzi.com/comentario/971560/) 
 
-	
 	Reto done!
 	``` 
 	    const video = document.querySelector('video')
@@ -3038,9 +2792,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **José Abdiel Ortega Vázquez** (1)
+* **José Abdiel Ortega Vázquez** (1) [968163](https://platzi.com/comentario/968163/) 
 
-	
 	Operadores ternarios bebe!
 	``` 
 	    const video = document.querySelector("video")
@@ -3065,7 +2818,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Jesús Ignacio  García Fernández** (1)
+* **Jesús Ignacio  García Fernández** (1) [957553](https://platzi.com/comentario/957553/) 
 
 	```
 	    Reproductor.prototype.play = function (){
@@ -3078,9 +2831,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Alejandro Daniel Oroncoy Almeyda** (1)
+* **Alejandro Daniel Oroncoy Almeyda** (1) [956424](https://platzi.com/comentario/956424/) 
 
-	
 	Ese es mi código, y el reto ya esta hecho!
 	``` 
 	    const video = document.querySelector("video");
@@ -3108,9 +2860,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Andres Felipe Bonett Maldonado** (1)
+* **Andres Felipe Bonett Maldonado** (1) [947330](https://platzi.com/comentario/947330/) 
 
-	
 	My Code:
 	``` 
 	    			const video = document.querySelector('video');
@@ -3137,26 +2888,22 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **JuanDanielRR** (1)
+* **JuanDanielRR** (1) [946305](https://platzi.com/comentario/946305/) 
 
-	
 	Alguien me puede explicar como colocar los archivos que se descargar de Git (html)… les agradeceria
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [946305] (1)
 
-		
 		A qué te refieres con poner los archivos? 😛
 
-	* **durbonca** (1)
+	* **durbonca** [946305] (1)
 
-		
 		Abriste la carpeta “website”? adentro esta un index un poco mas avanzado de esta clase.
 		
 		Asumo que te refieres a ello
 
-	* **juand_silva** (1)
+	* **juand_silva** [946305] (1)
 
-		
 		Le das FORK al repositorio y luego copias el la dirección SSH o HTPS dependiendo como lo quieras hacer.
 		``` 
 		    git pull <urlsshohttps>
@@ -3173,7 +2920,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		    
 		```
 
-* **miguelher007** (1)
+* **miguelher007** (1) [943681](https://platzi.com/comentario/943681/) 
 
 	```
 	    <code>
@@ -3202,17 +2949,16 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Guillermo Moreno Lopez** (1)
-![Untitled.png](https://static.platzi.com/media/user_upload/Untitled-110d4215-aa7e-4f91-ad73-f4e1d8afedf5.jpg)
-
-* **Guillermo Moreno Lopez** (1)
-
+* **Guillermo Moreno Lopez** (1) [943436](https://platzi.com/comentario/943436/) 
 	
+	![Untitled.png](https://static.platzi.com/media/user_upload/Untitled-110d4215-aa7e-4f91-ad73-f4e1d8afedf5.jpg)
+
+* **Guillermo Moreno Lopez** (1) [943375](https://platzi.com/comentario/943375/) 
+
 	Genial clase de introduccion
 
-* **Sebastian Rivera Ocampo** (1)
+* **Sebastian Rivera Ocampo** (1) [943103](https://platzi.com/comentario/943103/) 
 
-	
 	me sale esto al intentar iniciar el server:
 	
 	> platzi-media-player@1.0.0 start /home/bostjan/sebas/Documents/profesional  
@@ -3232,9 +2978,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	npm ERR! A complete log of this run can be found in:  
 	npm ERR! /home/bostjan/.npm/_logs/2020-01-23T23_59_48_850Z-debug.log
 
-	* **joelnbl** (1)
+	* **joelnbl** [943103] (1)
 
-		
 		¿Puedes compartir tu package.json?, tal vez estás escribiendo algo mal.
 		
 		O intenta:
@@ -3244,21 +2989,19 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		
 		
 
-	* **Sebastian Rivera Ocampo** (1)
+	* **Sebastian Rivera Ocampo** [943103] (1)
 ![package.json - profesional \[WSL_ Ubuntu\] - Visual Studio Code 24_01_2020 3_43_35 p. m..png](https://static.platzi.com/media/user_upload/package.json%20-%20profesional%20%5BWSL_%20Ubuntu%5D%20-%20Visual%20Studio%20Code%2024_01_2020%203_43_35%20p.%20m.-854c6c73-2960-4206-a6ed-1901ac046bd8.jpg)
 
-	* **Andres Felipe Bonett Maldonado** (2)
+	* **Andres Felipe Bonett Maldonado** [943103] (2)
 
-		
 		mira este tutorial para [Instalar Live server](https://trucostecno.com/live-server-en-visual-studio-code/)  
 		en vscode.
 
-* **Hernán Arica** (1)
+* **Hernán Arica** (1) [942638](https://platzi.com/comentario/942638/) 
 
-	
 	no me tira el error chrome… igual ya se que está mal jaj
 
-* **Matias Niz** (1)
+* **Matias Niz** (1) [940754](https://platzi.com/comentario/940754/) 
 
 	```
 	    const video = document.querySelector("video");
@@ -3289,7 +3032,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **juan-murga** (1)
+* **juan-murga** (1) [938814](https://platzi.com/comentario/938814/) 
 
 	```
 	    const video = document.querySelector("video")
@@ -3315,7 +3058,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Aquimista** (1)
+* **Aquimista** (1) [934933](https://platzi.com/comentario/934933/) 
 
 	```
 	    // Utilizar clases para hacer codigo flexible
@@ -3340,12 +3083,11 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **emilio-jose-ugeda-sanoja** (1)
+* **emilio-jose-ugeda-sanoja** (1) [905392](https://platzi.com/comentario/905392/) 
 
-	
 	Hola!!
 
-* **Rubén Jiménez Torres** (1)
+* **Rubén Jiménez Torres** (1) [904179](https://platzi.com/comentario/904179/) 
 
 	```
 	    MediaPlayer.prototype.play = function(){
@@ -3358,9 +3100,8 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Yancarlo Urdaneta** (1)
+* **Yancarlo Urdaneta** (1) [903792](https://platzi.com/comentario/903792/) 
 
-	
 	La solucion que realicé fue esta.
 	``` 
 	    <const video = document.querySelector('video');
@@ -3389,23 +3130,20 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	
 	Sería mejor si utilizo el código comentado y en el togglePlay hago llamado a la funcion con this.play() / this.pause() ?
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [903336](https://platzi.com/comentario/903336/) 
 
-	
 	a alguien mas no le carga cuando pone npm start?
 
-	* **esdraspavon** (1)
+	* **esdraspavon** [903336] (1)
 
-		
 		Te aparece algún error? No tienes un typo en los scripts del package.json?
 
-	* **Yancarlo Urdaneta** (1)
+	* **Yancarlo Urdaneta** [903336] (1)
 
-		
 		Te recomiendo utilizar la extension **Live Server** , asi no necesitarás hacer el npm start.  
 		Cuando la instalas, te aparecerá en la parte inferior derecha del VS Code la opcion **_Go Live_** , le das click y te abrirá una pestaña en tu navegador predeterminado, y verás automaticamente los cambios que le hagas a tu codigo (despues de haberlos guardado)
 
-* **Erik Alexander Estrada Otondo** (1)
+* **Erik Alexander Estrada Otondo** (1) [902258](https://platzi.com/comentario/902258/) 
 
 	```
 	    <code>
@@ -3419,7 +3157,7 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [902234](https://platzi.com/comentario/902234/) 
 
 	```
 	     MediaPlayer.prototype.play = function() {
@@ -3440,28 +3178,24 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 	    
 	```
 
-* **SistemasCBC** (1)
+* **SistemasCBC** (1) [888660](https://platzi.com/comentario/888660/) 
 
-	
 	a que se refiere con que esa forma de escribir código no es muy extensible? que hay otra forma de escribir lo mismo,y que aquella podría tenér más variedad de posibilidades para agregar métodos ?
 
-	* **Miguel Segura** (2)
+	* **Miguel Segura** [888660] (2)
 
-		
 		Creo que se refiere a que el objetivo es construir un código escalable y reutilizable.
 		
 		Es mas facil añadir “MediaPlayer” a todas las paginas donde queramos un reproductor de video y pasarle algunos parametros como configuracion que tener que escribir “video.play”, “video.pause” en decenas de archivos copiando y pegando
 		
 		Ademas siempre que queramos añadir una nueva caracteristica solo lo tendremos que hacer un lugar
 
-* **SistemasCBC** (1)
+* **SistemasCBC** (1) [888655](https://platzi.com/comentario/888655/) 
 
-	
 	A que se refiere con que "esa forma" no era muy extensible?.
 
-	* **Miguel Segura** (2)
+	* **Miguel Segura** [888655] (2)
 
-		
 		Yo entendi que por “esa forma” se refiere a usar lineas como las siguientes y tener que copiarlas y pegarlas en todas las paginas donde queramos un reproductor de video haciendo dificil su mantenimiento y el agregar nuevas caracteristicas
 		``` 
 		    buttonPlay.onclick =  video.play()
@@ -3473,12 +3207,11 @@ estoy perdido, descargue el de guit el archivo que dejo, pero al parecer es el p
 		
 		¿Tu que opinas?
 
-* **Delfina Merola Moreschi** (1)
+* **Delfina Merola Moreschi** (1) [85786](https://platzi.com/comentario/1081888/) 
 Por qué cuando utilizo el código que esta comentado, de definir primero una función y después llamarla con el evento del click, no funcio...
 
-	* **Jhon Alexander Romero Gonzaga** (2)
+	* **Jhon Alexander Romero Gonzaga** [85786] (2)
 
-		
 		Hola delfinamerolamoreschi!!!  
 		  
 		El problema es el que siempre ocurren cuando aun estamos empezando y es este:
@@ -3503,12 +3236,11 @@ Por qué cuando utilizo el código que esta comentado, de definir primero una fu
 		
 		para que cuando el usuario pulse el boton, esta recien se ejecute. Ahora puedes tener en cuenta estos pequeños incovenientes para no sufrir demasiado.
 
-* **camilogt121** (1)
+* **camilogt121** (1) [85143](https://platzi.com/comentario/1066914/) 
 de donde sale solo el player no deberia ser media player
 
-	* **Jhon Alexander Romero Gonzaga** (1)
+	* **Jhon Alexander Romero Gonzaga** [85143] (1)
 
-		
 		Hola camilogt121.  
 		Ya es tarde para contestarte a ti la pregunta pero la respondere para las nuevas personas. Recuerden que el objeto lo estamos creando en una contante player:
 		``` 
@@ -3522,32 +3254,29 @@ de donde sale solo el player no deberia ser media player
 		    
 		```
 
-* **richie** (1)
+* **richie** (1) [84843](https://platzi.com/comentario/1060006/) 
 Al ejecutar: npm start, me da el siguiente error: Error: listen EACCES: permission denied 0.0.0.0:8080
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [84843] (2)
 
-		
 		parece que tu puerto 8080 está siendo usado por otro programa o no está disponible en tu computadora, intenta trabajando con otro puerto de la siguiente forma: dentro del script de start añade lo siguiente: --port 8000, de tal manera de que quede:
 		``` 
 		    "start": "liver-server --port 8000"
 		    
 		```
 
-* **camilogt121** (1)
+* **camilogt121** (1) [83823](https://platzi.com/comentario/1036512/) 
 yo me encuentro perdido en el github solicito ayuda ya que en los cursos anteriores no veo .json y como seguir el vídeo.
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [83823] (1)
 
-		
 		Por favor cuéntanos a qué te refieres cuando dices que “en los cursos anteriores no veo .json” así te podemos apoyar.
 
-* **ManuS** (1)
+* **ManuS** (1) [83696](https://platzi.com/comentario/1032498/) 
 por qué es necesario usar un callback para la definición del comportamiento de MediaPlayer.prototype.play? Es porque es un método asíncro...
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [83696] (1)
 
-		
 		¡Hola! 👋🏼
 		
 		En este caso no es un _callback_. `MediaPlayer.prototype.play` es un método de la clase `MediaPlayer`.
@@ -3556,47 +3285,42 @@ por qué es necesario usar un callback para la definición del comportamiento de
 		
 		Saludos!
 
-* **Edwin Gustavo Rozo Gómez** (1)
+* **Edwin Gustavo Rozo Gómez** (1) [82105](https://platzi.com/comentario/997417/) 
 He tenido una inquietud, tanto en este curso, como en el de fundamentos de JS, y es ¿Por qué si recomiendan que uno no mezcle código? est...
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [82105] (1)
 
-		
 		Es por meros hechos de mostrar cómo funciona sin necesidad de que por el momento algunos se agobien con el tema de importación de archivos.
 		
 		En los cursos donde se crean proyectos un poco más estructurados verás que siempre de modulariza todo el código. Un ejemplo de esa práctica lo puedes encontrar en el Curso de React Avanzado o en el Curso de Node.js
 
-* **Edwin Gustavo Rozo Gómez** (1)
+* **Edwin Gustavo Rozo Gómez** (1) [82093](https://platzi.com/comentario/997305/) 
 Eso de live server no es la misma extensión que uno instala desde Vs code?
 
-	* **JhonColorado07** (2)
+	* **JhonColorado07** [82093] (2)
 
-		
 		Casi pero no igual. El plugin live server te sirve para visualizar el html en vivo esta es utilizado para proyectos en los que no usamos npm. Cuando trabajas en proyectos más grandes en donde instalas dependencias con npm es mejor utilizar el live server con npm y para el caso de webpack utilizar webpack-live-server.
 
-* **Ang.O** (1)
+* **Ang.O** (1) [81585](https://platzi.com/comentario/984677/) 
 que es eso de npm y como lo instalo desde mi editor?
 
-	* **LeoEsp** (2)
+	* **LeoEsp** [81585] (2)
 
-		
 		Hola @Ang.O!
 		
 		npm es el manejador de archivos de node js, te recomiendo ver el curso de [Prework: Buenas Prácticas y Entorno de Desarrollo](https://platzi.com/clases/prework/) en donde se explica este tema y te explican como instalar todo lo que ocuparas en la Escuela de JavaScript.
 		
 		En caso de que ya hayas visto el curso deberías volver a ver la clase de [Cómo instalar NodeJS ](https://platzi.com/clases/1650-prework/21971-como-instalar-nodejs/)
 
-* **torcoroma-arias-ascanio** (0)
+* **torcoroma-arias-ascanio** (0) [1053311](https://platzi.com/comentario/1053311/) 
 
-	
 	No me funciona no se que esta mal
 
-	* **esdraspavon** (1)
+	* **esdraspavon** [1053311] (1)
 
-		
 		Podrías compartir el error (si hubiera) que te aparece en la consola. Sino podrías compartir tú código, para poder ayudarte? 😃
 
-* **Juan Carlos Valencia López** (0)
+* **Juan Carlos Valencia López** (0) [930799](https://platzi.com/comentario/930799/) 
 
 	```
 	    const video = document.querySelector('video')
@@ -3623,9 +3347,9 @@ que es eso de npm y como lo instalo desde mi editor?
 	    
 	```
 
-# Repaso de Conceptos Fundamentales
+# Repaso de Conceptos Fundamentales [4443]
 
-## 0040. Cómo llega un script al navegador
+## 0040. Cómo llega un script al navegador [22158](https://platzi.com/clases/1642-javascript-profesional/22158-como-llega-un-script-al-navegador/)
 
 ### Descripción:
 
@@ -3638,8 +3362,8 @@ Todo script que carguemos en nuestra página tiene un llamado y una ejecución.
 
 Tanto con **async** como **defer** podemos hacer llamados asíncronos pero tiene sus diferencias:
 
-  * **async**. Con async podemos hacer la petición de forma asíncrona y no vamos a detener la carga del DOM hasta que se haga la ejecución del código.
-  * **defer**. La petición es igual asíncrona como en el async pero va a deferir la ejecución del Javascript hasta el final de que se cargue todo el documento.
+* **async**. Con async podemos hacer la petición de forma asíncrona y no vamos a detener la carga del DOM hasta que se haga la ejecución del código.
+* **defer**. La petición es igual asíncrona como en el async pero va a deferir la ejecución del Javascript hasta el final de que se cargue todo el documento.
 
 
 
@@ -3651,46 +3375,38 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 
 ### Comentarios:
 
-* **braco** (32)
+* **braco** (32) [917863](https://platzi.com/comentario/917863/) 
 
-	
 	apuntes de la clase:  
 	![JS – 1.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%201-1e9e7c09-3c54-43e9-86a5-b76594e48e3f.jpg)
 
-	* **Antonio Gaspar** (1)
+	* **Antonio Gaspar** [917863] (1)
 
-		
 		Hola, se ve muy genial y práctico para estudiar, ¿cómo lo realizas? Saludos.
 
-	* **braco** (2)
+	* **braco** [917863] (2)
 
-		
 		Utilizo adobe Xd, me hice el curso de platzi. Muy sencillo de aprender y lo uso no solo para diseñar interfaces sino también para mis apuntes 😁😁
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [917863] (1)
 
-		
 		Braco, deberías volver tu perfil público, quiero enviarte un mensaje pero no puedo!
 
-* **jasanhdz** (18)
+* **jasanhdz** (18) [753604](https://platzi.com/comentario/753604/) 
 
-	
 	Ey chicos me tome el tiempo para traerles las mejores notas del curso, denle una checada porfavor a mis notas, y si son de su agrado dejenme un like en github. Saludos 😄  
 	[Notas](https://github.com/JasanHdz/javascript-professional/tree/master/notes) o <https://github.com/JasanHdz/javascript-professional/tree/master/notes>
 
-	* **Juan Luis Rojas León** (1)
+	* **Juan Luis Rojas León** [753604] (1)
 
-		
 		¡Muchas gracias!
 
-	* **Martín Roldán** (1)
+	* **Martín Roldán** [753604] (1)
 
-		
 		No todos los héroes llevan capa
 
-* **Cesar Augusto Barco de Gouveia** (18)
+* **Cesar Augusto Barco de Gouveia** (18) [707398](https://platzi.com/comentario/707398/) 
 
-	
 	## ¿Cómo llega un script al navegador?
 	
 	‌
@@ -3837,36 +3553,31 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	
 	No usaremos `async` ni `defer` por que ya lo tenemos al final y no interrumpirá con el HTML.
 
-	* **Cesar Augusto Barco de Gouveia** (3)
+	* **Cesar Augusto Barco de Gouveia** [707398] (3)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](httpsaugdiaugus.gitbook.ioplatziescuela-de-javascriptcurso-profesional-de-javascript)
 
-	* **Alejandro González Reyes** (2)
+	* **Alejandro González Reyes** [707398] (2)
 #platzi Propongo que esté sea un modelo a seguir para el resumen de cada tema. Gracias compañero
 
-	* **Cesar Augusto Barco de Gouveia** (2)
+	* **Cesar Augusto Barco de Gouveia** [707398] (2)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [707398] (2)
 
-		
 		Gracias.
 
-	* **Cristian Eduardo Molina Silva** (2)
+	* **Cristian Eduardo Molina Silva** [707398] (2)
 
-		
 		Fue la solución a una gran parte de mis dudas, muchas gracias por tomarse el trabajo de hacer esto (si fuiste tú quien lo hizo). Excelente aporte.
 
-* **David Behar** (12)
+* **David Behar** (12) [737685](https://platzi.com/comentario/737685/) 
 
-	
 	## Terminología importante
 	
-	  * **DOM** : Estructura de árbol jerárquica que lee el navegador
-	  * **DOMContentLoaded** : Se garantiza que ya está cargado todo el documento y está disponible para manipular
+	* **DOM** : Estructura de árbol jerárquica que lee el navegador
+	* **DOMContentLoaded** : Se garantiza que ya está cargado todo el documento y está disponible para manipular
 	
 	
 	
@@ -3899,9 +3610,8 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	    
 	```
 
-* **Betty Rossana Jimenez Cedeño** (9)
+* **Betty Rossana Jimenez Cedeño** (9) [762785](https://platzi.com/comentario/762785/) 
 
-	
 	**_RESUMEN_**  
 	DOM: Representa el codigo HTML.  
 	**DOMContentLoaded** : El documento esta disponible para manipularlo.
@@ -3913,9 +3623,8 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	Embebidos: Cuando están dentro del .html, va leyendo linea por linea del DOM, al llegar al script, ejecuta el script y continua con el DOM.  
 	Por la carga y para que todo sea más rápido, se recomienda agregar los scripts antes de cerrar el body, porque asi también todo lo que el necesita (Id, clases, tags) ya están en el DOM.
 
-* **Sergio Arturo Enriquez Nava** (8)
+* **Sergio Arturo Enriquez Nava** (8) [810370](https://platzi.com/comentario/810370/) 
 
-	
 	Aquí un poco más de información :
 	
 	[**¿Qué es el DOM?**](https://developer.mozilla.org/es/docs/Glossary/DOM)
@@ -3928,46 +3637,39 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	
 	[**¿Qué es defer?**](https://developer.mozilla.org/en-US/docs/Mozilla/JavaScript_code_modules/PromiseUtils.jsm/Deferred)
 
-	* **Juan Luis Rojas León** (2)
+	* **Juan Luis Rojas León** [810370] (2)
 
-		
 		Hey, ¡gracias!
 
-	* **Jesus M Cocaño Diaz** (1)
+	* **Jesus M Cocaño Diaz** [810370] (1)
 
-		
 		Gracias Buen hombre
 
-* **roganoalien** (8)
+* **roganoalien** (8) [704055](https://platzi.com/comentario/704055/) 
 
-	
 	Recuerdan el `$(document).ready(function(){});` de jQuery? Les dejo la versión en Vanilla JS
 	``` 
 	    document.addEventListener('DOMContentLoaded', function(){});
 	    
 	```
 
-* **Jhonatan David Ibarra Lavado** (5)
+* **Jhonatan David Ibarra Lavado** (5) [780042](https://platzi.com/comentario/780042/) 
 
-	
 	estupendo, ahora si entendí lo de async y el defer, estupendooo
 
-* **Mariana Cortés** (5)
+* **Mariana Cortés** (5) [745225](https://platzi.com/comentario/745225/) 
 
-	
 	Las gráficas con las explicaciones de los diferentes llamados están buenísimas, me ayudaron a entender la diferencia que en puro código me costaba trabajo. ¡Gracias!
 
-* **wilantury** (5)
+* **wilantury** (5) [740721](https://platzi.com/comentario/740721/) 
 
-	
 	Lo mejor es agregar los scripts justo antes de cerrar la etiqueta body. Es recomendable para poder tener el documento completo antes de iniciar la carga de los scripts.
 
-* **Luis Rogelio Reyes Hernández** (5)
+* **Luis Rogelio Reyes Hernández** (5) [705324](https://platzi.com/comentario/705324/) 
 
-	
 	Notas de la clase
 	
-	  * La ética
+	* La ética
 	
 	
 	``` 
@@ -3977,7 +3679,7 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	
 	detiene la ejecución del DOM hasta que se ejecute todo su código, no carga mas HTML
 	
-	  * El atributo **async**
+	* El atributo **async**
 	
 	
 	``` 
@@ -3987,7 +3689,7 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	
 	en una declaración de script externo permite que el script se descargue mientras el DOM se sigue ejecutando , pero el DOM se deja de ejecutar para ejecutar el script una vez la descarga a terminado
 	
-	  * El atributo **defer**
+	* El atributo **defer**
 	
 	
 	``` 
@@ -3997,9 +3699,8 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	
 	igual que async permite la descarga asíncrono del script pero este no se ejecutara hasta que la cargar del DOM se allá ejecutado en su totalidad
 
-* **Jhon Alexander Romero Gonzaga** (4)
+* **Jhon Alexander Romero Gonzaga** (4) [1089227](https://platzi.com/comentario/1089227/) 
 
-	
 	Me gusto este tema, la verdad hay que estar preparado con lo fundamental para entender este curso ya que no se para a explicar puntos ya antes vistos, para eso se debe seguir la siguiente ruta y ensayar con lo que aprenden (como hacer una agenda con JavaScript):
 	
 	  1. [Fundamentos de JavaScript](https://platzi.com/clases/learning-path/escuela-javascript/)
@@ -4021,63 +3722,52 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	
 	Les ayudara a comprender mejor todo y no tendran problemas para enterderle al profe Richard.
 
-* **Felipe Carrión** (4)
+* **Felipe Carrión** (4) [769339](https://platzi.com/comentario/769339/) 
 
-	
 	Por fin entendí muchas cosas sobre el DOM. Que buen profesor, no asume, simplemente explica.
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [726891](https://platzi.com/comentario/726891/) 
 
-	
 	Cuando vi esto por primera vez, me imaginé que era un atributo forzoso que el desarrollador de la librería requería para poder trabajar.
 	
 	Ahora sé como administrar la petición de mis scripts de terceros para optimizar la carga de mi documentos HTML.
 
-* **Emmanuel Tepepa Carrasco** (4)
+* **Emmanuel Tepepa Carrasco** (4) [701770](https://platzi.com/comentario/701770/) 
 
-	
 	Creo que tendré que regresas a fundamentos de javascript 😄
 
-* **camilogt121** (3)
+* **camilogt121** (3) [1068471](https://platzi.com/comentario/1068471/) 
 
-	
 	disculpe profe pero en verdad me es muy complicado entenderlo 😦
 
-	* **Le_MaliX** (1)
+	* **Le_MaliX** [1068471] (1)
 
-		
 		A partir de que punto te pierdes?
 
-	* **horacio-garcia** (3)
+	* **horacio-garcia** [1068471] (3)
 
-		
 		me paso lo mismo y tuve que hacer el curso de front-end y los cursos básicos de javascript junto con otros! y leer documentación, te recomiendo hacerlos, aun así es un poco mas difícil entenderle a el que a otros profes, el obvia muchas cosas, demasiadas diría yo!. pero no eres el unico!
 
-* **Leonardo Castro Mestra** (3)
+* **Leonardo Castro Mestra** (3) [1025399](https://platzi.com/comentario/1025399/) 
 
-	
 	genial son los atributos  
 	async: descargar el script sin detener la ejecución del HTML y cuando ya esta listo es que lo ejecuta.  
 	defer: descargar el script sin detener la ejecución del HTML pero solo lo ejecuta cuando el HTML se a terminado de ejecutar.
 
-* **patriciavaldebenitop** (3)
+* **patriciavaldebenitop** (3) [1022520](https://platzi.com/comentario/1022520/) 
 
-	
 	que genial que justifique cada linea de código, buenisimo!
 
-* **karl-behrens-gil** (3)
+* **karl-behrens-gil** (3) [1015407](https://platzi.com/comentario/1015407/) 
 
-	
 	Muy buenos ejemplos de cuando hay que insertar los script con async y defer
 
-* **carlosfabiang** (2)
+* **carlosfabiang** (2) [1089558](https://platzi.com/comentario/1089558/) 
 
-	
 	Súper buenas las clases de este curso. Pero sí hay que tener claro los fundamentos del lenguaje. Si te sientes muy perdido recomiendo repasar primero el curso de JavaScript básico y Fundamentos de JavaScript y con los conocimientos adquiridos construir un proyecto propio desafiante con puro HTML (css opcional) y JavaScript. Con ello después le sacarás el máximo provecho a este curso. Saludos.
 
-* **Chrystian Fabian Lozano Ramirez** (2)
+* **Chrystian Fabian Lozano Ramirez** (2) [939925](https://platzi.com/comentario/939925/) 
 
-	
 	Mi reto terminado
 	``` 
 	          const video = document.querySelector('video')
@@ -4104,12 +3794,12 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	    
 	```
 
-* **pndafran** (2)
-![RetoPlayPause.JPG](https://static.platzi.com/media/user_upload/RetoPlayPause-647dddb9-a2fd-4032-92fe-f6ef1fdff8f3.jpg)
-
-* **Maximo Martinez Soria** (2)
-
+* **pndafran** (2) [897648](https://platzi.com/comentario/897648/) 
 	
+	![RetoPlayPause.JPG](https://static.platzi.com/media/user_upload/RetoPlayPause-647dddb9-a2fd-4032-92fe-f6ef1fdff8f3.jpg)
+
+* **Maximo Martinez Soria** (2) [894803](https://platzi.com/comentario/894803/) 
+
 	¿Cómo llega un script al browser?
 	
 	Cuándo el navegador está armando el DOM, y se encuentra con una etiqueta script, detiene el procesamiento de HTML y se encarga de hacer el fetch y execute del Javascript en dicha etiqueta. Una vez termina la ejecución, se continua el armado del DOM.
@@ -4119,16 +3809,14 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	Async: el procesamiento del DOM va a continuar mientras se ejecuta el fetch del Javascript. Solo va a detenerse cuando este esté disponible para su ejecución.  
 	Defer: el fetch se va a realizar de manera asíncrona, igual que con el atributo anterior. Pero va a aplazar la ejecución del javascript hasta que el DOM esté completo.
 
-* **edg_colon** (2)
+* **edg_colon** (2) [834962](https://platzi.com/comentario/834962/) 
 
-	
 	Genial, ahora entiendo lo del async y defer.
 	
 	Alguna vez leí que siempre era mejor agregar los scripts al final del body.
 
-* **Juan Carlos García Esquivel** (2)
+* **Juan Carlos García Esquivel** (2) [751014](https://platzi.com/comentario/751014/) 
 
-	
 	Las propiedades **async** y **defer** solo aplican cuando la etiqueta contiene también el atributo **src** de lo contrario no funcionara, ejemplo:
 	``` 
 	    <!DOCTYPE  html>
@@ -4152,35 +3840,31 @@ Hay que tener en cuenta que cuando carga una página y se encuentra un script a 
 	    
 	```
 
-* **Julián Fernando Amaya Díaz** (2)
+* **Julián Fernando Amaya Díaz** (2) [703429](https://platzi.com/comentario/703429/) 
 
-	
 	Esta clase es demasiado importante para un desarrollador JavaScript. Entender esta clase de conceptos te puede ahorrar muchos problemas en el futuro.
 
-* **Leonel Lopez** (2)
+* **Leonel Lopez** (2) [78009](https://platzi.com/comentario/913623/) 
 a mi no me funciona si pongo el / antes de assets, por que? mi estructura es igual a la del video
 
-	* **Yancarlo Urdaneta** (2)
+	* **Yancarlo Urdaneta** [78009] (2)
 
-		
 		Intenta colocándole un **punto ( . )** antes del /assets
 
-* **Carlos Gonzalez** (2)
+* **Carlos Gonzalez** (2) [76244](https://platzi.com/comentario/883650/) 
 No entiendo muy bien cuando declara this.media = config.el. function MediaPlayer(config){ this.media = config.el }...
 
-	* **Eden Gomez Gress** (2)
+	* **Eden Gomez Gress** [76244] (2)
 
-		
 		Config.el se refiere al objeto de configuracion que se le pasa a la funcion MediaPlayer. Entonces this.media = config(que es el objeto de configuracion). el(Este seria el elemento HTML del DOM).
 		
 		No se mucho companero pero espero te sirva de algo
 
-* **Luis Miguel Castillo Perafan** (2)
+* **Luis Miguel Castillo Perafan** (2) [68676](https://platzi.com/comentario/744128/) 
 Alguien me podria indicar como solucionar el erroe que me sale en el archivo index.js, es algo relacionado con eslint. La aplicaciòn fun...
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [68676] (2)
 
-		
 		En tu .eslintrc añade
 		``` 
 		    {
@@ -4195,37 +3879,32 @@ Alguien me podria indicar como solucionar el erroe que me sale en el archivo ind
 		    
 		```
 
-* **MDCMC** (2)
+* **MDCMC** (2) [68372](https://platzi.com/comentario/739506/) 
 el repositorio pesa demasiado. Que tiene?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [68372] (2)
 
-		
 		Creo que debe ser por el archivo de video **`.mp4`**. 😅  
 		.  
 		Nunca incluyas archivos estáticos en tus repositorios de Git. En este caso lo hicimos para no complicarnos con APIs o conexión a CDNs, pero en aplicaciones reales (más aún si están en producción) es una mala idea.  
 		.  
 		👉 [Curso de Git y GitHub en Platzi](https://platzi.com/git)
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1089108](https://platzi.com/comentario/1089108/) 
 
-	
 	Excelente clase.
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1045789](https://platzi.com/comentario/1045789/) 
 
-	
 	Muy interesante
 
-* **Eleazar Carreón Álvarez** (1)
+* **Eleazar Carreón Álvarez** (1) [1015323](https://platzi.com/comentario/1015323/) 
 
-	
 	La recomendación es usar script antes de la etiqueta de cierre</body>. Todos los tipos de scripts son útiles. Hay sitios que necesitarán cargar primero el script para detectar compatibilidades del navegador, ver el rendimiento del sitio, o simplemente ser precavido.  
 	Saber usarlas dependerá de la experiencia de usuario que le des.
 
-* **Alexander Henry Obispo Buendia** (1)
+* **Alexander Henry Obispo Buendia** (1) [1013504](https://platzi.com/comentario/1013504/) 
 
-	
 	Mi reto solucionado:
 	``` 
 	    functionMediaPlayer(config){
@@ -4248,93 +3927,79 @@ el repositorio pesa demasiado. Que tiene?
 	    
 	```
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1007813](https://platzi.com/comentario/1007813/) 
 
-	
 	Importante lo de agregar los scripts justo antes de cerrar el body para no ralentizar a la página.
 
-* **oscar-alejandro** (1)
+* **oscar-alejandro** (1) [858521](https://platzi.com/comentario/858521/) 
 
-	
 	Asyn y Defe para el fetching y execution de archivos javascript durante la carga del DOM "DOMContentLoaded"
 
-* **oscar-alejandro** (1)
+* **oscar-alejandro** (1) [858520](https://platzi.com/comentario/858520/) 
 
-	
 	Asyn y Defe para el fetching y execution de archivos javascript durante la carga del DOM "DOMContentLoaded"
 
-* **absaavedra** (1)
+* **absaavedra** (1) [774074](https://platzi.com/comentario/774074/) 
 
-	
 	Recomiendo reforzar los aspectos:
 	
-	  * Script Fetching
-	  * Script Execution
+	* Script Fetching
+	* Script Execution
 	
 	
 
-* **Ricardo Lugo Recillas** (1)
+* **Ricardo Lugo Recillas** (1) [773368](https://platzi.com/comentario/773368/) 
 
-	  * DOM es representacion de un documento HTML
-	  * defer difiere la ejecución del script hasta el final del procesamiento del html
+	* DOM es representacion de un documento HTML
+	* defer difiere la ejecución del script hasta el final del procesamiento del html
 	
 	
 
-* **Hebert de León** (1)
+* **Hebert de León** (1) [731131](https://platzi.com/comentario/731131/) 
 
-	
 	Muy emocionado de seguir esta carrera
 
-	* **Christian Armando Consuelo Mayén** (1)
+	* **Christian Armando Consuelo Mayén** [731131] (1)
 
-		
 		Puedo decir que es una hermosa carrera y Richard es un gran colaborador e instructor. =)
 
-* **elviejomenu** (1)
+* **elviejomenu** (1) [719536](https://platzi.com/comentario/719536/) 
 
-	
 	Por defecto la etiqueta script viene async o no tiene valor por defecto?
 
-	* **Cristian Camilo Cucunubá** (2)
+	* **Cristian Camilo Cucunubá** [719536] (2)
 
-		
 		No tiene valor por defecto, si quieres que tu script se cargue asincronamente debes especificarlo.
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [717152](https://platzi.com/comentario/717152/) 
 
-	
 	uf que interesante lo del async y defer en las etiquetas scripts.
 
-* **pabloverduzcos** (1)
+* **pabloverduzcos** (1) [706996](https://platzi.com/comentario/706996/) 
 
-	
 	Gran clase, me quedo claro que es importante saber como trabajan los dos ultimos atributos explicados.
 
-* **Brando Rodríguez** (1)
+* **Brando Rodríguez** (1) [697985](https://platzi.com/comentario/697985/) 
 
-	
 	Se viene un buen curso!!
 
-* **Johan Manuel Perez Soto** (1)
+* **Johan Manuel Perez Soto** (1) [696637](https://platzi.com/comentario/696637/) 
 
-	
 	Primer comentario :v
 
-* **Ingrid Fernanda Banguero Espitia** (1)
+* **Ingrid Fernanda Banguero Espitia** (1) [86368](https://platzi.com/comentario/1094460/) 
 Hola, pensé que el script siempre debía ejecutarse luego de que el HTML cargara por completo, ¿en qué casos yo querría colocar mi script ...
 
-	* **Jhon Alexander Romero Gonzaga** (1)
+	* **Jhon Alexander Romero Gonzaga** [86368] (1)
 
-		
 		Hola Ingrid!!!  
 		Yo también estube pensando en eso ya que recien me entere de async y defer, pero con el inspector de chrome he observado que en páginas ponen scirpts de reproductor de video justo en medio del HTML, entonces se podria decir que por ahi va. Espero que con esto te ayude un poco mas aunque no es mucho.
 
-* **Sergio Eduardo Sinuco Leon** (1)
+* **Sergio Eduardo Sinuco Leon** (1) [83755](https://platzi.com/comentario/1034411/) 
 Aqui me perdi. Viendo el video no entendia de donde salio el archivo index.js Lo estuve buscando en el repositorio y no lo encontraba. Ha...
 
-	* **JhonColorado07** (2)
+	* **JhonColorado07** [83755] (2)
 
-		
 		Hola siempre los archivos y enlace están en la pestaña de archivos y enlaces.
 		
 		Te hablaré un poco más de las diferentes pestañas:
@@ -4347,12 +4012,11 @@ Aqui me perdi. Viendo el video no entendia de donde salio el archivo index.js Lo
 		
 		**Archivos y enlaces:** En esta pestaña estarán todos los archivos y enlace que dejen del video.
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [75901](https://platzi.com/comentario/877782/) 
 que es togglePlay()?? ,como funciona?
 
-	* **Christian Perez** (4)
+	* **Christian Perez** [75901] (4)
 
-		
 		La función togglePlay cambia el estado de reproducción del vídeo  
 		por ejemplo:
 		``` 
@@ -4368,7 +4032,7 @@ que es togglePlay()?? ,como funciona?
 		    
 		```
 
-## 0050. Scope
+## 0050. Scope [22159](https://platzi.com/clases/1642-javascript-profesional/22159-scope/)
 
 ### Descripción:
 
@@ -4397,43 +4061,36 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 
 ### Comentarios:
 
-* **braco** (19)
+* **braco** (19) [928494](https://platzi.com/comentario/928494/) 
 
-	
 	Apuntes que te ayudaran en tu vida en JS
 	
 	![JS – 8.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%208-e026649f-a267-499e-bbe3-fbb6dfcbf0c1.jpg)
 
-	* **Luis Alexander Chip** (2)
+	* **Luis Alexander Chip** [928494] (2)
 
-		
 		Gran aporte, gracias!
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [928494] (1)
 
-		
 		Bruuuh, en serio muchas gracias por el material, es de gran ayuda!
 
-	* **idmevander** (1)
+	* **idmevander** [928494] (1)
 
-		
 		<https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c>
 
-* **braco** (15)
+* **braco** (15) [918845](https://platzi.com/comentario/918845/) 
 
-	
 	Apuntes de esta clase:
 	
 	![JS – 2.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%202-096087b1-9317-4862-979d-8ca6efe55379.jpg)
 
-	* **Alberto Alejandro Núñez Garcia** (1)
+	* **Alberto Alejandro Núñez Garcia** [918845] (1)
 
-		
 		Gracias, braco.
 
-* **Cesar Augusto Barco de Gouveia** (12)
+* **Cesar Augusto Barco de Gouveia** (12) [707705](https://platzi.com/comentario/707705/) 
 
-	
 	## Scope
 	
 	‌
@@ -4652,80 +4309,67 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	
 	
 
-	* **Cesar Augusto Barco de Gouveia** (3)
+	* **Cesar Augusto Barco de Gouveia** [707705] (3)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](httpsaugdiaugus.gitbook.ioplatziescuela-de-javascriptcurso-profesional-de-javascript)
 
-	* **juan-pablo-castro** (1)
+	* **juan-pablo-castro** [707705] (1)
 
-		
 		Un millón de gracias!  
 		Ojalá todos los cursos tuvieran una versión escrita como esta por defecto.
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [707705] (1)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-	* **Javier Fuentes Mora** (2)
+	* **Javier Fuentes Mora** [707705] (2)
 
-		
 		@AugdiAugus es un proyecto tuyo? o es de Platzi
 
-	* **Cesar Augusto Barco de Gouveia** (3)
+	* **Cesar Augusto Barco de Gouveia** [707705] (3)
 
-		
 		@javier-fuentes-mora, es una iniciativa mía para la comunidad de Platzi. ❤️
 
-	* **Juan Carlos García Esquivel** (2)
+	* **Juan Carlos García Esquivel** [707705] (2)
 
-		
 		Me gustaría colaborar en esto
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [707705] (1)
 
-		
 		Acá está la recolección de notas e información conseguida en Internet para complementar este curso.
 		
-		  * [Documento completo](https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/escuela-de-javascript/curso-profesional-de-javascript)
+		* [Documento completo](https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/escuela-de-javascript/curso-profesional-de-javascript)
 		
-		  * [Aportar o editar en github](https://github.com/AugustoBarco/Notas_recolectadas/blob/master/escuela-de-javascript/curso-practico-de-react-js.md)
+		* [Aportar o editar en github](https://github.com/AugustoBarco/Notas_recolectadas/blob/master/escuela-de-javascript/curso-practico-de-react-js.md)
 		
 		
 		
 		
 		Si ayudas a agregar información o investigación extra estaría genial.
 
-	* **Juan Arturo Gutiérrez** (1)
+	* **Juan Arturo Gutiérrez** [707705] (1)
 
-		
 		Gracias!! Esta muy genial!
 
-* **Bernardo Ayala Montezuma** (10)
+* **Bernardo Ayala Montezuma** (10) [875362](https://platzi.com/comentario/875362/) 
 
-	
 	Esta documentación es genial:  
 	[Understanding Variables, Scope, and Hoisting in JavaScript](https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript)
 
-	* **Wesly Fernández** (2)
+	* **Wesly Fernández** [875362] (2)
 
-		
 		Excelente, gracias!
 
-* **Jessie Buckland Pérez** (9)
+* **Jessie Buckland Pérez** (9) [918566](https://platzi.com/comentario/918566/) 
 
-	
 	Probablemente los 11 minutos y 50 segundos mas importantes de la clave para empezar a entender JS de manera profesional, durante meses… que digo años, he usado node, angular y otras librerías, y ahora POR FIN!! entiendo como funciona realmente todo el sistema de módulos, quizás se deba a que el scope module es reciente pero esta clase creo que es fundamental. Gracias profe por explicarlo tan claramente!!!
 
-	* **Diego Camino** (2)
+	* **Diego Camino** [918566] (2)
 
-		
 		Bro tiene absolutamente TODA la razón, lo mismo me sucede a mí, llevo 3 años desarrollando con nodejs y recién me quedan claro estos conceptos!
 
-* **Betty Rossana Jimenez Cedeño** (9)
+* **Betty Rossana Jimenez Cedeño** (9) [762833](https://platzi.com/comentario/762833/) 
 
-	
 	 **Scope** es el tiempo de vida y uso de una variable.  
 	Existen distintos tipos:  
 	**Globales** : Disponible en todo el código, alto riesgo de sobre-escritura con el Var.  
@@ -4735,13 +4379,12 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	
 	**Recuerda** :
 	
-	  * En la consola puedes leer las variables locales con la palabra window.nombre-de-la-variable.
+	* En la consola puedes leer las variables locales con la palabra window.nombre-de-la-variable.
 	
 	
 
-* **Juan Carlos García Esquivel** (8)
+* **Juan Carlos García Esquivel** (8) [751226](https://platzi.com/comentario/751226/) 
 
-	
 	## Scope (contexto de ejecución)
 	
 	El scope, ámbito o alcance es el contexto actual de ejecución, en el cual los valores y expresiones son “visibles” y pueden ser referenciados, si una variable u otra expresión no esta en el **“contexto actual de ejecución”** **(current scope)** , entonces estas no están disponibles para su uso. Los **scopes - alcances** también pueden tener una jerarquía de manera que los scopes de menor jerarquía tienen accesos a los scopes de mayor jerarquía pero no a la inversa.
@@ -4844,52 +4487,43 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	
 	
 
-* **Cristian Caraballo** (6)
+* **Cristian Caraballo** (6) [931975](https://platzi.com/comentario/931975/) 
 
-	
 	les recomiendo ver un video de sacha lifs sobre la ‘pila de ejecucion’ en su canal “La cocina del codigo”
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [931975] (4)
 
-		
 		[1\. La PILA DE EJECUCIÓN (Call Stack) de JAVASCRIPT | JS en ESPAÑOL  
 		](https://www.youtube.com/watch?v=ygA5U7Wgsg8) 😄
 
-	* **juand_silva** (5)
+	* **juand_silva** [931975] (5)
 
-		
 		Cuando estaba comenzado en JavaScript me ayudó demasiado este video de Philip Roberts:  
 		[https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=115s](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=115s)  
 		Está en Ingles pero tiene transcripción.
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [931975] (4)
 
-		
 		El vídeo que recomienda Juan es de verdad muy bueno, siempre lo recomiendo 😄
 
-* **darth-revan** (5)
+* **darth-revan** (5) [1052678](https://platzi.com/comentario/1052678/) 
 
-	
 	Ya siento que comienzo a entender mas al profe c:
 
-	* **horacio-garcia** (4)
+	* **horacio-garcia** [1052678] (4)
 
-		
 		yo sigo dudando, pero tengo fe
 
-* **Emanuel Catriquil** (4)
+* **Emanuel Catriquil** (4) [958886](https://platzi.com/comentario/958886/) 
 
-	
 	En este repo van a encontrar 33 conceptos de JS para entenderlo en profundidad <https://github.com/leonardomso/33-js-concepts>
 
-* **Abraham Flores Cosme** (4)
+* **Abraham Flores Cosme** (4) [864293](https://platzi.com/comentario/864293/) 
 
-	
 	Y yo que pensaba tener buenos conocimientos en javascript, este curso es mágico!!
 
-* **Kerepakupai** (4)
+* **Kerepakupai** (4) [794468](https://platzi.com/comentario/794468/) 
 
-	
 	MediaPlayer podemos también escribirlo como una clase
 	``` 
 	    classMediaPlayer{
@@ -4918,58 +4552,48 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	    
 	```
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [794468] (1)
 
-		
 		Gracias, mucho más claro
 
-* **Carmen Sánchez Salgado** (4)
+* **Carmen Sánchez Salgado** (4) [740544](https://platzi.com/comentario/740544/) 
 
-	
 	link de jquery
 	``` 
 	    <scriptsrc="https://unpkg.com/jquery@3.3.1/dist/jquery.js"></script>
 	    
 	```
 
-* **Emanuel Valero** (3)
+* **Emanuel Valero** (3) [973231](https://platzi.com/comentario/973231/) 
 
-	
 	Platzi tiene en su blog este artículo que habla de scopes en javascript y de las diferencias entre let, const y var desde el punto de vista del scope: <https://platzi.com/blog/como-funciona-el-scope-en-javascript/>
 
-* **Luis Bernardo García Lopez** (3)
+* **Luis Bernardo García Lopez** (3) [849594](https://platzi.com/comentario/849594/) 
 
-	
 	A esto se le llama hoisting https://developer.mozilla.org/es/docs/Glossary/Hoisting
 
-* **xyz123** (3)
+* **xyz123** (3) [746960](https://platzi.com/comentario/746960/) 
 
-	
 	No entiendo.
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [746960] (1)
 
-		
 		Si gustas puedes leer mi comentario arriba tal vez entiendas un poco mas, yo no entendía muy bien y trate de obtener mas información y agregar ejemplos para que me quedara mas claro.
 
-* **cocoapuffx** (3)
+* **cocoapuffx** (3) [736792](https://platzi.com/comentario/736792/) 
 
-	
 	Ja, con esta explicación de var y let arreglé un bug que tenia del curso de fundamentos de Javascript con el juego de Simón!
 
-* **Jessie Buckland Pérez** (2)
+* **Jessie Buckland Pérez** (2) [918581](https://platzi.com/comentario/918581/) 
 
-	
 	Comprensión del concepto MODULE SCOPE en relación a la sintaxis import tan ampliamente utilizada, esta explicación es clave para comprender el sistema de módules en JS y probablemente en NodeJs
 
-* **PaoloTorregrosa** (2)
+* **PaoloTorregrosa** (2) [824084](https://platzi.com/comentario/824084/) 
 
-	
 	Lo de export me ayudo un monton en un proyecto en el que trabajo donde tengo un monton de llamadas a scripts dentro de un html para que puedan hablarse entre ellos. Jajaja, gran clase!! 😄
 
-* **Andrea Méndez Díaz** (2)
+* **Andrea Méndez Díaz** (2) [754472](https://platzi.com/comentario/754472/) 
 
-	
 	Tengo problemas con **CORS**
 	
 	Access to script at ‘file:///Users/Platzi/profesional_JS/assets/index.js’ from origin ‘null’ has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https.  
@@ -4977,14 +4601,12 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	
 	¿Qué hago?
 
-	* **alexjcm** (2)
+	* **alexjcm** [754472] (2)
 
-		
 		Tienes que ejecutar el comando npm run start para iniciar el servidor, eso funcionó en mi caso.
 
-	* **Freddy Rojas Valera** (1)
+	* **Freddy Rojas Valera** [754472] (1)
 
-		
 		Para este problema basta con habilitar cors en live-server  
 		Documentacion de live-server: <https://www.npmjs.com/package/live-server>.
 		
@@ -4993,66 +4615,56 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 		“start”: “live-server --cors”  
 		},
 
-	* **Felipe-Lopez** (1)
+	* **Felipe-Lopez** [754472] (1)
 
-		
 		Puede que sea también que no hayas instalado el live-serve. Si es así revisa esta clase.
 		
 		<https://platzi.com/clases/1642-javascript-profesional/22157-inicio-del-proyecto/>
 
-* **wilantury** (2)
+* **wilantury** (2) [741244](https://platzi.com/comentario/741244/) 
 
-	
 	Ámbito de las variables en JS:  
 	-Global scope  
 	-function scope  
 	-block scope  
 	-module scope
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [717217](https://platzi.com/comentario/717217/) 
 
-	
 	Uff buen conocimiento para aplicarlo cada vez use js.
 
-* **Martin Fernando Vega Ortega** (2)
+* **Martin Fernando Vega Ortega** (2) [697882](https://platzi.com/comentario/697882/) 
 
-	
 	global scope  
 	function scope  
 	block scope  
 	module scope
 
-* **Sebastian Cardoso Castillo** (2)
+* **Sebastian Cardoso Castillo** (2) [697827](https://platzi.com/comentario/697827/) 
 
-	
 	¿Existe un caso de uso para **var** o ya quedo obsoleto?
 
-	* **alvaritokore** (2)
+	* **alvaritokore** [697827] (2)
 
-		
 		A mi parecer ya no tiene sentido usar var.
 
-	* **Oscar Barajas Tavares (Platzi)** (8)
+	* **Oscar Barajas Tavares (Platzi)** [697827] (8)
 
-		
 		Quedo obsoleto, si bien entender por que existe nos ayudara a leer código de otros que llegaron a implementarlo.
 
-	* **Mariana Cortés** (1)
+	* **Mariana Cortés** [697827] (1)
 
-		
 		No creo que sea obsoleto si necesitas definir unas variables globales…
 
-	* **Oscar Barajas Tavares (Platzi)** (2)
+	* **Oscar Barajas Tavares (Platzi)** [697827] (2)
 
-		
 		Tengo bastante tiempo sin utilizar “var” ya que no es necesario en aplicaciones bien planeadas
 
-* **Mariana Cortés** (2)
+* **Mariana Cortés** (2) [68773](https://platzi.com/comentario/745712/) 
 ¿“Global Scope” es lo mismo que el “contexto padre”?
 
-	* **Demian Arenas (Platzi)** (5)
+	* **Demian Arenas (Platzi)** [68773] (5)
 
-		
 		No, las variables que viven dentro del GlobalScope pueden ser llamadas desde cualquier tag de script o archivo, mientras que el _contexto padre_ depende de en que nivel de contextos de encuentres:
 		``` 
 		    <script>
@@ -5072,9 +4684,8 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 		    
 		```
 
-* **kmancera** (1)
+* **kmancera** (1) [1105260](https://platzi.com/comentario/1105260/) 
 
-	
 	Se puede comprimir un poco usando IIFE
 	
 	[Mozilla Docs](https://developer.mozilla.org/es/docs/Glossary/IIFE)
@@ -5091,30 +4702,25 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	    
 	```
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1103148](https://platzi.com/comentario/1103148/) 
 
-	
 	Excelente.
 
-* **Alessandri** (1)
+* **Alessandri** (1) [1102357](https://platzi.com/comentario/1102357/) 
 
-	
 	les dejo el link del curso de Scope y clossures por si necesitan una explicación un poco mas pausada, tambien abarca el tema de la proxima clase [Curso de Scope y clossures](https://platzi.com/clases/scope/)
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1099752](https://platzi.com/comentario/1099752/) 
 
-	
 	Lo que pasa aquí se llama hoisting.
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [1099752] (2)
 
-		
 		Dejo un vídeo en el que Sacha explica este tema  
 		<https://www.youtube.com/watch?v=uI6o97A4IrI>
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1089378](https://platzi.com/comentario/1089378/) 
 
-	
 	Puse una representación de como funciona el primer ejemplo de printNumbers en esta pagina: <https://cutt.ly/ytU3A6O>  
 	  
 	Este es el segundo ejemplo donde pone una función dentro del for:  
@@ -5122,93 +4728,77 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	  
 	Si no lo entienden es porque deben revisar como funciona el motor de javascript (v8) y el navegador, el asincronismo de JavaScript.
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1045875](https://platzi.com/comentario/1045875/) 
 
-	
 	Excelente
 
-* **Daniel Lopez** (1)
+* **Daniel Lopez** (1) [1037688](https://platzi.com/comentario/1037688/) 
 
-	
 	excelente clase
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1025430](https://platzi.com/comentario/1025430/) 
 
-	
 	el scope type module es realmente muy util.
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [1019470](https://platzi.com/comentario/1019470/) 
 
-	
 	Excelente clase, resuelve muchas de mis dudas de JS.
 
-* **Wesly Fernández** (1)
+* **Wesly Fernández** (1) [918376](https://platzi.com/comentario/918376/) 
 
-	
 	Muy interesante lo del block scope.
 
-* **Antonio Madrid** (1)
+* **Antonio Madrid** (1) [906815](https://platzi.com/comentario/906815/) 
 
-	
 	Gran explicación de como crear módulos y hacer exportaciones tanto de clases, funciones y constantes.  
 	Gracias!!
 
-* **Maximo Martinez Soria** (1)
+* **Maximo Martinez Soria** (1) [894837](https://platzi.com/comentario/894837/) 
 
-	
 	Window es el ámbito global.
 	
 	Las declaraciones con var, están en el scope del objeto Window.
 	
 	Let y Const operan sobre el block scope.
 
-* **Christian Perez** (1)
+* **Christian Perez** (1) [873143](https://platzi.com/comentario/873143/) 
 
-	
 	Excelente repaso de lo visto hasta el momento!
 
-* **Ivan Yovera** (1)
+* **Ivan Yovera** (1) [850263](https://platzi.com/comentario/850263/) 
 
-	
 	cuál es el plugin que usan para que code resalte el bloque de código en el que estás trabajando con una linea que subraya la declaración y va hasta el final del bloque? está genial
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [850263] (4)
 
-		
 		[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2), es genial para saber dónde cierra el bloque de código 😄
 
-* **luis-gabriel-cazzullo** (1)
+* **luis-gabriel-cazzullo** (1) [845051](https://platzi.com/comentario/845051/) 
 
-	
 	¡Buenas! Pueden recomendarme buenos proyectos de Github para leer su código
 
-* **Victor Lozada** (1)
+* **Victor Lozada** (1) [843664](https://platzi.com/comentario/843664/) 
 
-	
 	Para entender un poco mas: <https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53>
 
-* **Sebastian** (1)
+* **Sebastian** (1) [770482](https://platzi.com/comentario/770482/) 
 
-	
 	no puedo importar el modulo, por consola me sale un mesaje 404 no encuentra el modulo MediaPlayer
 
-	* **Cristhian Daza** (2)
+	* **Cristhian Daza** [770482] (2)
 
-		
 		Verifica que pusiste el .js al final
 		``` 
 		    import MediaPlayer from'./MediaPlayer.js'
 		    
 		```
 
-	* **Roberto Antonio González Medina** (1)
+	* **Roberto Antonio González Medina** [770482] (1)
 
-		
 		Revisa que en index.html estes llamando al index.js como type=“module”
 
-* **MauricioF** (1)
+* **MauricioF** (1) [745296](https://platzi.com/comentario/745296/) 
 
-	
 	En mi caso tuve que exportar las constantes video y button ya que me aparecia este error en la consola después de crear el módulo MediaPlayer.js:
 	``` 
 	    Uncaught ReferenceError: video is notdefined
@@ -5216,9 +4806,8 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	    
 	```
 
-* **Cristian Camilo Cucunubá** (1)
+* **Cristian Camilo Cucunubá** (1) [731325](https://platzi.com/comentario/731325/) 
 
-	
 	Scope **Module**
 	
 	Mantiene el scope, el alcance de la variables y funciones dentro del archivo en que existen y por defecto HTML los carga como si tuvieran el atributo DEFER que vimos la clase pasada.
@@ -5229,101 +4818,89 @@ Cuando se denota un script de tipo module con el atributo `type="module` las var
 	
 	Mas info: [module scope](https://javascript.info/modules-intro)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [727127](https://platzi.com/comentario/727127/) 
 
-	
 	Interesante clase, la única forma que conocía para no contaminar mi ambiente global era con IIFE. y eso para no pisar objetos o variables de otras liberías
 
-* **Chrystian Fabian Lozano Ramirez** (1)
+* **Chrystian Fabian Lozano Ramirez** (1) [713153](https://platzi.com/comentario/713153/) 
 
-	
 	Ahora lo entiendo todo!!
 
-* **alvaritokore** (1)
+* **alvaritokore** (1) [698334](https://platzi.com/comentario/698334/) 
 
-	
 	cuando pone la función ‘eventuallyPrintNumber’ dentro del ciclo for, ¿Esa función es un clousure?
 
-	* **Cesar Gonzalez Leyba** (1)
+	* **Cesar Gonzalez Leyba** [698334] (1)
 
-		
 		Saludos! A mi entender si, ya que cuando en si se ejecuta la funcion, el ciclo habra avanzado en una posicion mas avanzada pero aun asi guarda el contexto con el que se invoco en un inicio.
 
-* **beaps** (1)
+* **beaps** (1) [697517](https://platzi.com/comentario/697517/) 
 
-	
 	Siempre he tenido lío con lo del scope y ahora me ha quedado mucho más claro! Gracias!! 😃 👏🏻
 
-* **Alexei Alvarez** (1)
+* **Alexei Alvarez** (1) [85288](https://platzi.com/comentario/1070322/) 
 alguien me puede explicar lo de los modulos, siempre que lo intento usar me da error
 
-* **richie** (1)
+* **richie** (1) [85113](https://platzi.com/comentario/1066387/) 
 Por qué cuando se inicializa i con var se tiene que esperar a que termine el for para entrar al setTimeout y cuándo se inicializa i con l...
 
-	* **Jhon Alexander Romero Gonzaga** (2)
+	* **Jhon Alexander Romero Gonzaga** [85113] (2)
 
-		
 		Hola richie.  
 		Lo de var y let tiene que ver con el hoisting y su alcance de vida y es muy importante que sepas sobre esto (aquí te dejo un video sobre le hoisting: <https://www.youtube.com/watch?v=uI6o97A4IrI>) y aquí lo de las variables <https://www.youtube.com/watch?v=bvkY9ey83yY>
 
-* **bryanisraelgalindoiturbe** (1)
+* **bryanisraelgalindoiturbe** (1) [80948](https://platzi.com/comentario/970031/) 
 Hola, Al querer separar los archivos me arroja el siguiente error en consola: Uncaught ReferenceError: MediaPlayer is not defined at Medi...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [80948] (2)
 
-		
 		Creo que tu error se debe a que en la primera línea defines **`mediaPlayer`** con la primera letra en minúscula, pero en la última línea lo exportas como **`MediaPlayer`** , con la primera en mayúscula.
 		
 		Déjalo con la primera en mayúscula en ambas partes y seguro ya funciona. 😉
 
-* **Danilo Morales** (1)
+* **Danilo Morales** (1) [78620](https://platzi.com/comentario/924483/) 
 Como interpretaría javascript el codigo de var y let en el ciclo for usando setTimeout?. Porque el for se ejecuta todas las veces y al l...
 
-	* **sebastian-mujica** (2)
+	* **sebastian-mujica** [78620] (2)
 
-		
 		Lo que yo entiendo no es tanto como que JS lo espera cuando se usa let. Lo que pasa es que cuando se está usando let se está usando una variable limitada al scope del ciclo, por lo tanto en cada iteración se está creando una nueva variable con una nueva referencia en memoria que contiene el valor que se está utilizando en esa iteración, y así cuando vuelve a otra iteración se crea otra nueva variable con otro espacio en memoria. Por otro lado, cuando se usa var, cada vez que se inicia un nuevo ciclo dentro de la iteración, siempre se apunta al mismo espacio en memoria, por lo que siempre se está sobre-escribiendo el mismo valor.
 
-* **Ang.O** (1)
+* **Ang.O** (1) [74067](https://platzi.com/comentario/846002/) 
 La n roja como se linkeo con el contador del ciclo for?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [74067] (1)
 
-		
 		Estamos pasando el contador `i` como argumento de la función cada vez que se ejecuta el ciclo `for`, por ende se llama a la función `eventuallyPrintNumber(i)` con el valor de `i` correspondiente en cada iteración
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [73673](https://platzi.com/comentario/839387/) 
 o sea que para que se me ejecute tengo que tener instalado npm?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [73673] (2)
 
-		
 		Si, en este curso utilizaremos NPM pues es una herramienta fundamental que tienes que saber como desarrollador JavaScript, es tán fundamental que estamos preparando un [Curso de Gestión de Dependencias y Paquetes con NPM](https://platzi.com/cursos/npm/) 😄
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [72261](https://platzi.com/comentario/813304/) 
 ¿Una Función tiene Block scope? no me quedo muy claro…
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [72261] (2)
 
-		
 		Las funciones tienen **`Function Scope`**. 😛
 		
 		👉 <https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11>
 
-* **aerama** (1)
+* **aerama** (1) [69064](https://platzi.com/comentario/750632/) 
 Alguien sabe cual es el addon que esta usando el maestro para dar color a su codigo? se ve bastante bueno.
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [69064] (2)
 
-		
 		Oscar Nos compartió una lista de plugins para VS Code, puedes dar un vistazo:
 		
 		<https://platzi.com/blog/10-plugins-esenciales-para-vscode/>
 
-* **torcoroma-arias-ascanio** (0)
+* **torcoroma-arias-ascanio** (0) [84777](https://platzi.com/comentario/1058411/) 
 HOLA a mi me sale Uncaught SyntaxError: Unexpected identifier y me marco es aca import MediaPlayer from './MediaPlayer.js' impo...
 
-## 0060. Closures
+## 0060. Closures [22160](https://platzi.com/clases/1642-javascript-profesional/22160-closures/)
 
 ### Descripción:
 
@@ -5334,40 +4911,33 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 
 ### Comentarios:
 
-* **braco** (51)
+* **braco** (51) [919760](https://platzi.com/comentario/919760/) 
 
-	
 	Apuntes de esta clase:  
 	![JS – 3.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%203-3d4c9393-3cd3-4dc3-858d-cae6e524025d.jpg)
 
-	* **Alejandro López Quiroga** (2)
+	* **Alejandro López Quiroga** [919760] (2)
 
-		
 		Hola Braco. Gracias por compartir
 
-	* **Enver David Aguinaga Salinas** (2)
+	* **Enver David Aguinaga Salinas** [919760] (2)
 
-		
 		Muchas gracias por darte este trabajo, es de gran ayuda.
 
-	* **sueherrera** (2)
+	* **sueherrera** [919760] (2)
 
-		
 		MUCHASS GRACIAS! ME ayudooooo infinitamente. GRACIAS gracias gracias.!!!
 
-	* **ManuS** (1)
+	* **ManuS** [919760] (1)
 
-		
 		muchas gracias, muy util! Podrías compartirme el resto de los apuntes?
 
-	* **Camilo Ernesto Hurtado Cataño** (1)
+	* **Camilo Ernesto Hurtado Cataño** [919760] (1)
 
-		
 		Excelente resumen
 
-* **Cesar Augusto Barco de Gouveia** (8)
+* **Cesar Augusto Barco de Gouveia** (8) [708078](https://platzi.com/comentario/708078/) 
 
-	
 	## Closures
 	
 	‌
@@ -5525,55 +5095,45 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	
 	El valor de la variable privada no se puede acceder directamente ni alterar directamente, se puede lograr mediante algunas funciones.
 
-	* **Cesar Augusto Barco de Gouveia** (2)
+	* **Cesar Augusto Barco de Gouveia** [708078] (2)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](httpsaugdiaugus.gitbook.ioplatziescuela-de-javascriptcurso-profesional-de-javascript)
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [708078] (1)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [708078] (2)
 
-		
 		Gracias, por la retroalimentación.
 
-* **Betty Rossana Jimenez Cedeño** (7)
+* **Betty Rossana Jimenez Cedeño** (7) [764058](https://platzi.com/comentario/764058/) 
 
-	
 	 **Clousure**  
 	Te permite que el scope de tu función sea privada.
 
-* **solej77** (7)
+* **solej77** (7) [740931](https://platzi.com/comentario/740931/) 
 
-	
 	En resumen… una manera de implementar getters & setters en JavaScript
 
-	* **Carmen Sánchez Salgado** (2)
+	* **Carmen Sánchez Salgado** [740931] (2)
 
-		
 		Claro, lo que le lleman **“Encapsulamiento”**
 
-* **pabloverduzcos** (6)
+* **pabloverduzcos** (6) [707510](https://platzi.com/comentario/707510/) 
 
-	
 	Esto es fundamental para aprender **React**.
 
-* **Juan Luis Rojas León** (5)
+* **Juan Luis Rojas León** (5) [715782](https://platzi.com/comentario/715782/) 
 
-	
 	[You Don’t Know JS Yet: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
-	* **David Behar** (1)
+	* **David Behar** [715782] (1)
 
-		
 		Amo que los escritores usen git 🙌
 
-* **jesus-ruvalcaba-miranda** (4)
+* **jesus-ruvalcaba-miranda** (4) [1104104](https://platzi.com/comentario/1104104/) 
 
-	
 	 **Unicamente como aporte:**
 	
 	actualmente javascript ha realizado mejoras en la implementación de la Programación Orientada a Objetos, mejorando la forma en que se realizan clases, para aplicar variables privadas se puede utilizar el caracter `#``
@@ -5619,9 +5179,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	
 	![Captura de Pantalla 2020-04-06 a la\(s\) 21.29.18.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.29.18-e06990f4-6094-4338-b64d-b59c3d281fda.jpg)
 
-* **vrivasdev** (4)
+* **vrivasdev** (4) [979183](https://platzi.com/comentario/979183/) 
 
-	
 	Comparto una versión corta de “makeCounter”:
 	``` 
 	    const makeCouter = (n) => {
@@ -5635,9 +5194,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-	* **Fernando Vallejo** (2)
+	* **Fernando Vallejo** [979183] (2)
 
-		
 		Utilizanndo arrow function, muy bien pensado.  
 		Puedes abreviar tus arrow functon asi
 		``` 
@@ -5652,51 +5210,44 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 		    
 		```
 
-* **Steve Anthony Luzquiños Agama** (4)
+* **Steve Anthony Luzquiños Agama** (4) [971906](https://platzi.com/comentario/971906/) 
 
-	
 	Hola, si eres nuevo en este curso, te recomiendo ver primero la clase 5, luego la 6 y finalmente la 4, así queda todo más claro.
 
-* **Jonathan Duarte** (4)
+* **Jonathan Duarte** (4) [816451](https://platzi.com/comentario/816451/) 
 
-	
 	Según MDN _Un closure o clausura es la combinación de una función y el ámbito léxico en el que se declaró dicha función. Es decir los closures o clausuras son funciones que manejan variables independientes. En otras palabras, la función definida en el closure “recuerda” el ámbito en el que se ha creado._
 
-* **Jose Calvano** (4)
+* **Jose Calvano** (4) [773211](https://platzi.com/comentario/773211/) 
 
-	
 	Javascript: Funciones que son invocadas inmediatamente (IIFE)  
 	<https://programacionymas.com/blog/funciones-javascript-invocadas-inmediatamente-IIFE>  
 	[](https://programacionymas.com/blog/funciones-javascript-invocadas-inmediatamente-IIFE)
 
-	* **Juan Luis Rojas León** (2)
+	* **Juan Luis Rojas León** [773211] (2)
 
-		
 		¡Gracias!
 
-	* **Cristopher Tolentino** (1)
+	* **Cristopher Tolentino** [773211] (1)
 
-		
 		buen aporte
 
-* **Alejandro Silva Berbesi** (4)
+* **Alejandro Silva Berbesi** (4) [746225](https://platzi.com/comentario/746225/) 
 
-	
 	Excelente clase
 	
 	Aquí les comparto la documentación para profundizar  
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Closures>
 
-* **David Behar** (4)
+* **David Behar** (4) [737774](https://platzi.com/comentario/737774/) 
 
-	
 	Javascript no acepta variables privadas, por lo que una forma de hacer que las varables sólo sean modificadas por si mismas es mediante closures.
 	
 	Los closures encapsulan variables que no pueden ser modificadas directamente por otros objetos, sólo por funciones pertenecientes al mismo, lo que permite asegurar la info.
 	
 	Para este ejemplo, `makeCounter` es una función que regresa un arreglo de funciones mismas que conocen su contexto, osea:
 	
-	  * son conscientes de las modificaciones de @count, pero nadie más.
+	* son conscientes de las modificaciones de @count, pero nadie más.
 	
 	
 	``` 
@@ -5724,20 +5275,17 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [727195](https://platzi.com/comentario/727195/) 
 
-	
 	Al parecer ya le voy agarrando la onda a esto de los closures. Ya decía yo que no bastaba con retornar funciones.  
 	Al parecer con esta clase, un uso práctico es el seguir evitando que se contamine el scope global
 
-* **Diego Camino** (3)
+* **Diego Camino** (3) [971519](https://platzi.com/comentario/971519/) 
 
-	
 	Ok esta clase vale su peso en oro, la tuve que repetir como 20 veces, pero me quedó claro todo!
 
-* **Victor Lozada** (3)
+* **Victor Lozada** (3) [843677](https://platzi.com/comentario/843677/) 
 
-	
 	Otro Ejemplo rapido:
 	``` 
 	    const sell = product => (currency, price, stock) =>
@@ -5755,14 +5303,12 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **wilantury** (3)
+* **wilantury** (3) [741364](https://platzi.com/comentario/741364/) 
 
-	
 	La variable privada es accesible únicamente por las funciones retornadas al scope global.
 
-	* **Alejandro Silva Berbesi** (3)
+	* **Alejandro Silva Berbesi** [741364] (3)
 
-		
 		Sí. Aunque es accesible en cualquier parte dentro de la función donde fue declarada dicha “variable privada”.
 		
 		Por ejemplo, en el código del video, la variable puede accederse, utilizarse, en cualquiera de las líneas que se encuentran antes del return (línea 46).
@@ -5771,7 +5317,7 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 		
 		Espero no haber confundido más con mi respuesta 😉
 
-* **Wesly Fernández** (2)
+* **Wesly Fernández** (2) [918552](https://platzi.com/comentario/918552/) 
 
 	```
 	            (()=>{
@@ -5791,16 +5337,14 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Jorge Mendez Ortega** (2)
+* **Jorge Mendez Ortega** (2) [886832](https://platzi.com/comentario/886832/) 
 
-	
 	Les comparto una lectura sobre patrones de diseño, en esta lectura ya tiene 2 de los que el profesor esta utilizando
 	
 	[https://medium.com/@jmz12/patrones-de-diseño-en-js-43beab8f5756](https://medium.com/@jmz12/patrones-de-dise%C3%B1o-en-js-43beab8f5756)
 
-* **carlosshanks** (2)
+* **carlosshanks** (2) [870256](https://platzi.com/comentario/870256/) 
 
-	
 	En ES2015 (inicialmente nombrado como ES6) es posible declarar ámbitos a nivel de bloque. En ES5 no, y es por ello que se emulaba este comportamiento con el uso de IIFEs.
 	
 	En pocas palabras, para conseguir un encapsulamiento, antes de ES2015 se hacía de esta manera:
@@ -5832,38 +5376,33 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Germán Moreno** (1)
+* **Germán Moreno** (1) [1103270](https://platzi.com/comentario/1103270/) 
 
-	
 	Hizo falta leer documentación, pero qué excelente herramienta.
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1089652](https://platzi.com/comentario/1089652/) 
 
-	
 	Muy bien ese ejemplo de como usar closures, en los Fundamentos de JavaScript no me quedo muy claro para utilizarlo en algo importante.
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1045899](https://platzi.com/comentario/1045899/) 
 
-	
 	Muy interesante
 
-* **NicoMano** (1)
+* **NicoMano** (1) [1027563](https://platzi.com/comentario/1027563/) 
 
-	
 	Que bueno que esta 😄  
 	Ya quiero impezar a usarlo
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [991052](https://platzi.com/comentario/991052/) 
 
-	
 	Las closures consumen mucha memoria??
 
-* **santi08** (1)
-![aporte.png](https://static.platzi.com/media/user_upload/aporte-ecb72266-3fd9-44b8-b75d-85f224c4cab4.jpg)
-
-* **Alejandro Medina** (1)
-
+* **santi08** (1) [957622](https://platzi.com/comentario/957622/) 
 	
+	![aporte.png](https://static.platzi.com/media/user_upload/aporte-ecb72266-3fd9-44b8-b75d-85f224c4cab4.jpg)
+
+* **Alejandro Medina** (1) [919048](https://platzi.com/comentario/919048/) 
+
 	 **IIFE** , Immediate invoke function expression
 	``` 
 	    (function () {
@@ -5872,7 +5411,7 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **emilio-jose-ugeda-sanoja** (1)
+* **emilio-jose-ugeda-sanoja** (1) [911232](https://platzi.com/comentario/911232/) 
 
 	```
 	    function makeCounter(n) {
@@ -5904,31 +5443,27 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **mariorm1106** (1)
+* **mariorm1106** (1) [848882](https://platzi.com/comentario/848882/) 
 
-	
 	La forma de usar “variables privadas” es encapsularas en los Clousures.
 
-* **Christian Armando Consuelo Mayén** (1)
+* **Christian Armando Consuelo Mayén** (1) [737056](https://platzi.com/comentario/737056/) 
 
-	
 	Los closures son muy importantes más adelante, sobre todo cuando empiezas a utilizar patrones de programación funcional. No son exclusivos de Javascript pero son muy sencillos de entender este lenguaje.
 
-* **Gerardo Nava Pereda** (1)
+* **Gerardo Nava Pereda** (1) [697104](https://platzi.com/comentario/697104/) 
 
-	
 	Esto me recuerda mucho a como funciona Redux. ¿Entonces un Reducer de Redux usa Closures?
 
-## 0070. El primer plugin
+## 0070. El primer plugin [22161](https://platzi.com/clases/1642-javascript-profesional/22161-el-primer-plugin/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Miguel Segura** (6)
+* **Miguel Segura** (6) [891057](https://platzi.com/comentario/891057/) 
 
-	
 	Si alguien tiene un error como este en la consola del navegador
 	``` 
 	    Uncaught SyntaxError: Cannot use import statement outside a module
@@ -5937,9 +5472,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	
 	Es por que se les olvido añadir el `type="module"` dentro de la etiqueta script
 
-* **Steve Anthony Luzquiños Agama** (3)
+* **Steve Anthony Luzquiños Agama** (3) [1055624](https://platzi.com/comentario/1055624/) 
 
-	
 	Mi versión usando `ES6`:
 	``` 
 	    // MediaPlayer
@@ -5997,9 +5531,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **hlperez** (3)
+* **hlperez** (3) [1052764](https://platzi.com/comentario/1052764/) 
 
-	
 	index.js
 	``` 
 	    const btnMuted = document.querySelector('#muteButton');
@@ -6050,9 +5583,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Juan Chatelet** (3)
+* **Juan Chatelet** (3) [1016411](https://platzi.com/comentario/1016411/) 
 
-	
 	Si agregan la tercer linea de codigo el video se va a reproducir con sonido al cargar la pagina
 	``` 
 	    AutoPlay.prototype.run = function(player) {
@@ -6063,21 +5595,18 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Alejandro Silva Berbesi** (3)
+* **Alejandro Silva Berbesi** (3) [746235](https://platzi.com/comentario/746235/) 
 
-	
 	Este estilo de desarrollo es la esencia de TDD
 
-	* **Iván Darío Sánchez Jiménez** (6)
+	* **Iván Darío Sánchez Jiménez** [746235] (6)
 
-		
 		Para los que no conociamos el termino
 		
 		**Test-driven development (TDD) **
 
-* **Andres Felipe Valencia Benitez** (3)
+* **Andres Felipe Valencia Benitez** (3) [729958](https://platzi.com/comentario/729958/) 
 
-	
 	Hola! Comparto mi solución:  
 	![RetoControls.png](https://static.platzi.com/media/user_upload/RetoControls-67edf2c4-b1ce-4899-a23d-9351fe735f35.jpg)
 	
@@ -6200,14 +5729,12 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-	* **danielsanz (Platzi)** (1)
+	* **danielsanz (Platzi)** [729958] (1)
 
-		
 		Wow te quedó muy bien la implementación gráfica!
 
-* **jasanhdz** (3)
+* **jasanhdz** (3) [729258](https://platzi.com/comentario/729258/) 
 
-	
 	 **Mi reto:**  
 	index.js
 	``` 
@@ -6241,24 +5768,20 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [727237](https://platzi.com/comentario/727237/) 
 
-	
 	Ya veo, para que un plugin pueda tener acceso al elemento, hay que pasarle dicho contexto.
 
-	* **Hebert de León** (1)
+	* **Hebert de León** [727237] (1)
 
-		
 		Exacto, la verdad me costó mucho entenderlo al principio por no tener mucha experiencia con Prototypes y JavaScript.
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [727237] (1)
 
-		
 		En síntesis.
 
-* **Luca Cevasco** (2)
+* **Luca Cevasco** (2) [1052041](https://platzi.com/comentario/1052041/) 
 
-	
 	Les dejo el mismo código pero escrito con clases. Si lo se, las clases en JS son solo una forma linda de escribir los prototipos. Aun así me parece mas correcto hacerlo con clases por convención y porque queda un código mas legible para terceros, mas limpio
 	
 	MediaPlayer.js:
@@ -6311,9 +5834,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Eduardo Antonio Rivero Rivera** (2)
+* **Eduardo Antonio Rivero Rivera** (2) [1042204](https://platzi.com/comentario/1042204/) 
 
-	
 	html
 	``` 
 	          <button id="playButton">Play/Pause</button>
@@ -6353,9 +5875,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Joel William Mendoza Paucara** (2)
+* **Joel William Mendoza Paucara** (2) [994737](https://platzi.com/comentario/994737/) 
 
-	
 	Reto:  
 	index.html
 	``` 
@@ -6392,9 +5913,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **seiro** (2)
+* **seiro** (2) [921350](https://platzi.com/comentario/921350/) 
 
-	
 	Código para mutear el vídeo:  
 	HTML:
 	``` 
@@ -6412,9 +5932,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Mateo Aquino** (2)
+* **Mateo Aquino** (2) [911852](https://platzi.com/comentario/911852/) 
 
-	
 	Para el reto incorporo un boton en **HTML**
 	``` 
 	        <button id="mute">Sonido</button>
@@ -6442,12 +5961,11 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	
 	Y listo
 
-* **Ricardo Medina** (2)
+* **Ricardo Medina** (2) [885909](https://platzi.com/comentario/885909/) 
 
-	
 	#Agregar boton de mute
 	
-	  * Html
+	* Html
 	
 	
 	``` 
@@ -6456,7 +5974,7 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 	
-	  * MediaPlayer.js
+	* MediaPlayer.js
 	
 	
 	``` 
@@ -6474,7 +5992,7 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 	
-	  * Index.js
+	* Index.js
 	
 	
 	``` 
@@ -6493,9 +6011,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **rubenchanamesanchez** (2)
+* **rubenchanamesanchez** (2) [879198](https://platzi.com/comentario/879198/) 
 
-	
 	index.html
 	``` 
 	    <button id="btnMute">Mute/Unmute</button>
@@ -6521,9 +6038,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **k823** (2)
+* **k823** (2) [867578](https://platzi.com/comentario/867578/) 
 
-	
 	MediaPlayer.js
 	``` 
 	    exportdefaultclassMediaPlayer{
@@ -6579,7 +6095,7 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **predator0077** (2)
+* **predator0077** (2) [830395](https://platzi.com/comentario/830395/) 
 
 	```
 	    class AutoPlay {
@@ -6595,17 +6111,15 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-	* **Carlos Vallejo** (1)
+	* **Carlos Vallejo** [830395] (1)
 
-		
 		Me parece muy bien, solo como sugerencia empieza a utilizar inglés para nombrar tus variables, es bueno acostumbrarse a un mundo donde todos los desarrolladores escriben su código en inglés y debemos entenderlo 😃
 
-* **Alejo Vera** (2)
+* **Alejo Vera** (2) [818152](https://platzi.com/comentario/818152/) 
 
-	
 	Siento que me está costando más trabajar con los distintos archivos, export, import, que con la lógica del código en sí
 
-* **Carlos Alberto** (2)
+* **Carlos Alberto** (2) [784258](https://platzi.com/comentario/784258/) 
 
 	```
 	    MediaPlayer.prototype.toggleMute = function() {
@@ -6626,9 +6140,8 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **fernast** (2)
+* **fernast** (2) [782883](https://platzi.com/comentario/782883/) 
 
-	
 	index.html:
 	``` 
 	    <button id="toggleMute">Mute</button>
@@ -6650,31 +6163,26 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	    
 	```
 
-* **Juan Sebastián Joya Rodríguez** (2)
+* **Juan Sebastián Joya Rodríguez** (2) [756970](https://platzi.com/comentario/756970/) 
 
-	
 	Yo insisto en que, cuando versionen este curso, utilicen de una vez clases, asi como Sacha, en el curso de js basico
 
-	* **Erledie Salazar** (1)
+	* **Erledie Salazar** [756970] (1)
 
-		
 		Si, es una buena opcion, asi vez el proceso, yo lo que hago es por medio de commits
 
-* **KevinMartello** (2)
+* **KevinMartello** (2) [755507](https://platzi.com/comentario/755507/) 
 
-	
 	Comparto mi Solución:
 	
 	![Captura_de_Pantalla_2019-09-26_a_las_11.59.52_a._m..png](https://static.platzi.com/media/user_upload/Captura_de_Pantalla_2019-09-26_a_las_11.59.52_a._m.-939b5ada-e146-4e18-b05b-d09f0700fd9a.jpg)
 
-	* **aerama** (3)
+	* **aerama** [755507] (3)
 
-		
 		Buena solución, deberías de intentar ser mas explicito con los ids y clases que le des a tus elementos sin importar si es pequeño o grande el proyecto.
 
-* **Luis Daniel Caraballo** (2)
+* **Luis Daniel Caraballo** (2) [744053](https://platzi.com/comentario/744053/) 
 
-	
 	HTML:
 	
 	![Screenshot_2.png](https://static.platzi.com/media/user_upload/Screenshot_2-bf199da1-6986-4a71-9148-bdcec0948060.jpg)
@@ -6687,12 +6195,11 @@ Los **closures** nos sirven para tener algo parecido a variables privadas, carac
 	
 	![Screenshot_4.png](https://static.platzi.com/media/user_upload/Screenshot_4-b0b15749-bf45-43b7-944b-219add12b819.jpg)
 
-* **Christian Perez** (2)
+* **Christian Perez** (2) [75665](https://platzi.com/comentario/873663/) 
 Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero de donde viene plugins? Dado que no se e...
 
-	* **Jorge Mendez Ortega** (3)
+	* **Jorge Mendez Ortega** [75665] (3)
 
-		
 		ok, entiendo tu confusión lo que esta pasando es que literalmente esta generando la inyección del plugin desde el archivo index, para que esto quede mas claro lo podemos ver aqui.
 		``` 
 		    // como  podemos ver aqui esta generando el import del plugin y del nuestro objeto MediaPlayer
@@ -6718,7 +6225,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 		
 		espero te sirva de algo, saludos
 
-* **Juanka** (1)
+* **Juanka** (1) [1117690](https://platzi.com/comentario/1117690/) 
 
 	```
 	    MediaPlayer.prototype.muted = function(){
@@ -6743,9 +6250,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Robinson Ortega** (1)
+* **Robinson Ortega** (1) [1099617](https://platzi.com/comentario/1099617/) 
 
-	
 	Index.html
 	``` 
 	    <html>
@@ -6855,9 +6361,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **capzzula** (1)
+* **capzzula** (1) [1099321](https://platzi.com/comentario/1099321/) 
 
-	
 	Solución 😉
 	``` 
 	    <!DOCTYPE html>
@@ -6953,9 +6458,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	```
 	
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [1093261](https://platzi.com/comentario/1093261/) 
 
-	
 	Solución:  
 	**index.html**
 	``` 
@@ -7074,13 +6578,12 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1089768](https://platzi.com/comentario/1089768/) 
 
-	
 	Reto solucionado:  
 	![Screenshot_20200402_154556.png](https://static.platzi.com/media/user_upload/Screenshot_20200402_154556-d15badfd-530c-4c17-a778-e47e2f9aba4f.jpg)
 
-* **Mafe Castillo** (1)
+* **Mafe Castillo** (1) [1078954](https://platzi.com/comentario/1078954/) 
 
 	```
 	    MediaPlayer.prototype.unmute = function () {
@@ -7103,9 +6606,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-	* **Armando Rivera Negrete** (1)
+	* **Armando Rivera Negrete** [1078954] (1)
 
-		
 		La comparación del if está de más, puedes colocar:
 		``` 
 		    if(this.media.muted)
@@ -7115,9 +6617,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 		    
 		```
 
-	* **Armando Rivera Negrete** (1)
+	* **Armando Rivera Negrete** [1078954] (1)
 
-		
 		La comparación del if está de más, puedes colocar:
 		``` 
 		    if(this.media.muted)
@@ -7126,9 +6627,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 		    	this.media.muted = true;
 		```
 
-* **richie** (1)
+* **richie** (1) [1075169](https://platzi.com/comentario/1075169/) 
 
-	
 	Mediaplayer.js
 	``` 
 	        MediaPlayer.prototype.toggleMute = function(){
@@ -7141,9 +6641,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Raundy Ibarras** (1)
+* **Raundy Ibarras** (1) [1075070](https://platzi.com/comentario/1075070/) 
 
-	
 	Done!  
 	html
 	``` 
@@ -7167,9 +6666,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **David Ruiz** (1)
+* **David Ruiz** (1) [1074419](https://platzi.com/comentario/1074419/) 
 
-	
 	Reto:  
 	index.html
 	``` 
@@ -7194,9 +6692,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Santiago Andres Duque Moreno** (1)
+* **Santiago Andres Duque Moreno** (1) [1073606](https://platzi.com/comentario/1073606/) 
 
-	
 	Reto:
 	
 	html:  
@@ -7208,17 +6705,15 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	MediaPlayer.js:  
 	![1.PNG](https://static.platzi.com/media/user_upload/1-e70e8b06-8a03-4762-b520-79325e39d27a.jpg)
 
-* **vickiavola** (1)
+* **vickiavola** (1) [1072510](https://platzi.com/comentario/1072510/) 
 
-	
 	**querySelector **-- Retorna el primer elemento que cumpla con el criterio dado.
 	
 	**getElementById** – Retorna el primer elemento con el id especificado. En muchos sentidos es equivalente a hacer  
 	querySlector(’#el_Id’)
 
-* **Juan Enrique Rodriguez Garcia** (1)
+* **Juan Enrique Rodriguez Garcia** (1) [1069875](https://platzi.com/comentario/1069875/) 
 
-	
 	reto 🔇
 	``` 
 	    //index.js
@@ -7239,9 +6734,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **pcruzmay** (1)
+* **pcruzmay** (1) [1061829](https://platzi.com/comentario/1061829/) 
 
-	
 	esta es mi solución al reto:
 	``` 
 	    // index.js
@@ -7320,19 +6814,16 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Enrique Devars (Platzi)** (1)
+* **Enrique Devars (Platzi)** (1) [1054000](https://platzi.com/comentario/1054000/) 
 
-	
 	La forma en la que el profesor escribe el código es algo muy similar a una forma de desarrollo llamada _test-driven development_
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1045921](https://platzi.com/comentario/1045921/) 
 
-	
 	Interesante
 
-* **Daniel Lopez** (1)
+* **Daniel Lopez** (1) [1037754](https://platzi.com/comentario/1037754/) 
 
-	
 	index.js
 	``` 
 	    const playButton = document.getElementById('playButton');
@@ -7348,7 +6839,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [1017085](https://platzi.com/comentario/1017085/) 
 
 	```
 	    import MediaPlayer from './MediaPlayer.js'
@@ -7416,25 +6907,21 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Romina Aliotta** (1)
+* **Romina Aliotta** (1) [1016620](https://platzi.com/comentario/1016620/) 
 
-	
 	Que significa el this._initPlugins ? me refiero a porque coloca un punto y un guión bajo ? que diferencia hay entre poner el guión bajo y no ponerlo? muchas gracias
 
-	* **Cristian Andrés Córdova Valencia** (3)
+	* **Cristian Andrés Córdova Valencia** [1016620] (3)
 
-		
 		Pura convención. Se suele hacer para indicar que esa función será privada.  
 		En JS no existen funcionen privadas por defecto por lo que así indicas que esa función no debe estar disponible en el Scope Global.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1016620] (1)
 
-		
 		Puedes checar también esta respuesta en Stack Overflow <https://stackoverflow.com/a/24628915> 😄
 
-* **Eleazar Carreón Álvarez** (1)
+* **Eleazar Carreón Álvarez** (1) [1016001](https://platzi.com/comentario/1016001/) 
 
-	
 	MediaPlayer.js
 	``` 
 	    MediaPlayer.prototype.mutedSound = function(){
@@ -7465,9 +6952,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1008905](https://platzi.com/comentario/1008905/) 
 
-	
 	Here you have…
 	
 	_index.html_
@@ -7495,9 +6981,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [1001846](https://platzi.com/comentario/1001846/) 
 
-	
 	HTML
 	``` 
 	    <button class="buttonMute">Mute/Unmute</button>
@@ -7529,26 +7014,22 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **vrivasdev** (1)
+* **vrivasdev** (1) [991891](https://platzi.com/comentario/991891/) 
 
-	
 	Tengo una duda con respecto a la estructura del proyecto. ¿Por que el profesor crea Prototipos en vez de clases? ¿No se puede declarar “MediaPlayer” como una clase con cada uno de sus métodos? Hago el comentario porque me parece que al final es el mísmo resultado pero con el código mas limpio. Claro, sé que JS utiliza por debajo prototipos ¿Algún compañero me puede aclarar esta duda? Gracias
 
-	* **Cristian Andrés Córdova Valencia** (2)
+	* **Cristian Andrés Córdova Valencia** [991891] (2)
 
-		
 		Las clases en JavaScript no son mas que una forma “bonita” de declarar prototipos. 😄
 
-	* **Eduardo Zamarron Muñoz** (2)
+	* **Eduardo Zamarron Muñoz** [991891] (2)
 
-		
 		Puede ser porque así está acostumbrado él  
 		También es una oportunidad para que es para que nos acostumbremos a leer ese tipo de código.  
 		Al final del día, pasamos mucho tiempo leyendo código que nosotros no escribimos.
 
-* **Jorge Cruz** (1)
+* **Jorge Cruz** (1) [990383](https://platzi.com/comentario/990383/) 
 
-	
 	Reto:
 	
 	<button id=“button-mute-unmute”>Mute/Unmute</button>
@@ -7560,9 +7041,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	this.media.muted = !this.media.muted;  
 	}
 
-* **vrivasdev** (1)
+* **vrivasdev** (1) [989896](https://platzi.com/comentario/989896/) 
 
-	
 	Reto:
 	``` 
 	    <button id="mute">Mute/Unmuted</button>
@@ -7588,20 +7068,17 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [985925](https://platzi.com/comentario/985925/) 
 
-	
 	_Ejercicio_  
 	![imagen code](https://i.ibb.co/1ztdjcd/code.png)
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [985906](https://platzi.com/comentario/985906/) 
 
-	
 	por que cuando le doy recargar desde la consola si reproduce el video?
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [985538](https://platzi.com/comentario/985538/) 
 
-	
 	MediaPlayer.prototype.mute = function() {  
 	this.media.muted = true; // para siclenciar el media player  
 	};
@@ -7614,9 +7091,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	this.media.muted = this.media.muted ? false : true;  
 	};
 
-* **gnbarzol** (1)
+* **gnbarzol** (1) [982396](https://platzi.com/comentario/982396/) 
 
-	
 	Reto  
 	MediaPlayer.js  
 	![Captura de Pantalla 2020-02-12 a la\(s\) 8.24.15 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-12%20a%20la%28s%29%208.24.15%20p.%C2%A0m.-58cc7e78-4aea-4bff-82f8-607817120992.jpg)
@@ -7627,7 +7103,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	index.js  
 	![Captura de Pantalla 2020-02-12 a la\(s\) 8.25.53 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-12%20a%20la%28s%29%208.25.53%20p.%C2%A0m.-8b87de66-7ca1-4096-82ea-c29a0ce62f6d.jpg)
 
-* **John Botero** (1)
+* **John Botero** (1) [977612](https://platzi.com/comentario/977612/) 
 
 	```
 	    // en el index.html se crea el boton:
@@ -7672,12 +7148,12 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **santi08** (1)
-![aporte.png](https://static.platzi.com/media/user_upload/aporte-9716d6c0-1b61-4945-ad7e-83b34f3d950e.jpg)
-
-* **joelnbl** (1)
-
+* **santi08** (1) [957626](https://platzi.com/comentario/957626/) 
 	
+	![aporte.png](https://static.platzi.com/media/user_upload/aporte-9716d6c0-1b61-4945-ad7e-83b34f3d950e.jpg)
+
+* **joelnbl** (1) [954352](https://platzi.com/comentario/954352/) 
+
 	Index.js
 	``` 
 	    const mutebutton = document.querySelector('#muteButton');
@@ -7703,7 +7179,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **gonzaloPzl** (1)
+* **gonzaloPzl** (1) [952377](https://platzi.com/comentario/952377/) 
 
 	```
 	    <!--Index.html-->
@@ -7734,7 +7210,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **miguelher007** (1)
+* **miguelher007** (1) [950694](https://platzi.com/comentario/950694/) 
 
 	```
 	    <code>
@@ -7762,7 +7238,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **miguelangelsoler** (1)
+* **miguelangelsoler** (1) [950374](https://platzi.com/comentario/950374/) 
 
 	```
 	    MediaPlayer.prototype.unmute = function(){
@@ -7777,14 +7253,12 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **ezequielp** (1)
+* **ezequielp** (1) [948368](https://platzi.com/comentario/948368/) 
 
-	
 	🤦‍♂️ No me funcionaba porque tenía la reproduction automática bloqueada en el navegador
 
-* **daniel-zurita** (1)
+* **daniel-zurita** (1) [936852](https://platzi.com/comentario/936852/) 
 
-	
 	index.html
 	``` 
 	    <button id="muteButton">Mute/Unmute</button>
@@ -7806,9 +7280,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Roso Peñaranda** (1)
+* **Roso Peñaranda** (1) [912182](https://platzi.com/comentario/912182/) 
 
-	
 	en index.html
 	``` 
 	    <button id="mute">Mute/UnMute</button>
@@ -7831,9 +7304,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [908434](https://platzi.com/comentario/908434/) 
 
-	
 	Mi codigo:  
 	**HTML**
 	``` 
@@ -7898,9 +7370,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Yancarlo Urdaneta** (1)
+* **Yancarlo Urdaneta** (1) [906757](https://platzi.com/comentario/906757/) 
 
-	
 	Mi solucion es esta, añadir al:
 	
 	**HTML **
@@ -7928,14 +7399,12 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **XXVSebastianVXX** (1)
+* **XXVSebastianVXX** (1) [902018](https://platzi.com/comentario/902018/) 
 
-	
 	Mi lección del dia jaja no solo escribir el código, verificar que este bien escrito.
 
-* **luis-mendoza877** (1)
+* **luis-mendoza877** (1) [888701](https://platzi.com/comentario/888701/) 
 
-	
 	Codigo HTML
 	``` 
 	    <button id="playButton">Play/Pause</button>
@@ -7971,9 +7440,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	console.log(this)  
 	}```
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [886849](https://platzi.com/comentario/886849/) 
 
-	
 	**Practica en ejecución **  
 	<https://j4058.csb.app/>
 	
@@ -7981,9 +7449,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	[https://codesandbox.io/s/charming-leaf-j4058?fontsize=14&hidenavigation=1&theme=dark](https://codesandbox.io/s/charming-leaf-j4058?fontsize=14&hidenavigation=1&theme=dark)
 	``` 
 	    /**
-	     * Inicializando el objeto MediaPlayer.
+	   * Inicializando el objeto MediaPlayer.
 	     *
-	     * @param {Object} config Configuracion general para el player.
+	   * @param {Object} config Configuracion general para el player.
 	     */
 	    functionMediaPlayer(config = {}) {
 	        // Destructuración con valores por defecto
@@ -7994,11 +7462,11 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    }
 	    
 	    /**
-	     * Permite la incialización de los plugins.
+	   * Permite la incialización de los plugins.
 	     *
-	     * @constructor
+	   * @constructor
 	     *
-	     * @return {void}.
+	   * @return {void}.
 	     */
 	    MediaPlayer.prototype.initPlugins = functioninitPlugins() {
 	        const { plugins } = this;
@@ -8006,9 +7474,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    };
 	    
 	    /**
-	     * Permite reproducir el video.
+	   * Permite reproducir el video.
 	     *
-	     * @return {void}
+	   * @return {void}
 	     */
 	    MediaPlayer.prototype.play = functionplay() {
 	        const { player } = this;
@@ -8018,9 +7486,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    };
 	    
 	    /**
-	     * Permite pausar el video.
+	   * Permite pausar el video.
 	     *
-	     * @return {void}
+	   * @return {void}
 	     */
 	    MediaPlayer.prototype.pause = functionpause() {
 	        const { player } = this;
@@ -8030,9 +7498,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    };
 	    
 	    /**
-	     * Permite reproducir o pausar el video dependiendo del estatus.
+	   * Permite reproducir o pausar el video dependiendo del estatus.
 	     *
-	     * @return {void}
+	   * @return {void}
 	     */
 	    MediaPlayer.prototype.togglePlay = functiontogglePlay() {
 	        const { player } = this;
@@ -8043,9 +7511,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    };
 	    
 	    /**
-	     * Permite silenciar el video.
+	   * Permite silenciar el video.
 	     *
-	     * @return {void}
+	   * @return {void}
 	     */
 	    MediaPlayer.prototype.mute = functionmute() {
 	        const { player } = this;
@@ -8055,9 +7523,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    };
 	    
 	    /**
-	     * Permite quitar el mute al video.
+	   * Permite quitar el mute al video.
 	     *
-	     * @return {void}
+	   * @return {void}
 	     */
 	    MediaPlayer.prototype.unmute = functionunmute() {
 	        const { player } = this;
@@ -8067,9 +7535,9 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    };
 	    
 	    /**
-	     * Permite poner o quitar el mute segun sea el caso.
+	   * Permite poner o quitar el mute segun sea el caso.
 	     *
-	     * @return {void}
+	   * @return {void}
 	     */
 	    MediaPlayer.prototype.toggleMute = functiontoggleMute() {
 	        const { player } = this;
@@ -8084,15 +7552,14 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	
 	Se agregaron los métodos
 	
-	  * mute
-	  * unmute
-	  * toggleMute
+	* mute
+	* unmute
+	* toggleMute
 	
 	
 
-* **Jesus M Cocaño Diaz** (1)
+* **Jesus M Cocaño Diaz** (1) [883473](https://platzi.com/comentario/883473/) 
 
-	
 	Reto
 	
 	index.html
@@ -8114,9 +7581,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Marta_GO** (1)
+* **Marta_GO** (1) [882601](https://platzi.com/comentario/882601/) 
 
-	
 	Reto:  
 	index.html
 	``` 
@@ -8149,9 +7615,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Roberto Esqueda** (1)
+* **Roberto Esqueda** (1) [877201](https://platzi.com/comentario/877201/) 
 
-	
 	Método toggle de mute:
 	``` 
 	    MediaPlayer.prototype.toggleMute = function(){
@@ -8162,9 +7627,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	
 	De esta forma, a this.media.muted se le asignará el valor contrario (si su valor es true, se le asignará false y viceversa).
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [871573](https://platzi.com/comentario/871573/) 
 
-	
 	Listo:
 	
 	MediaPlayer.js
@@ -8209,7 +7673,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [869458](https://platzi.com/comentario/869458/) 
 
 	```
 	    MediaPlayer.prototype.toggleMute = function(){
@@ -8220,7 +7684,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **nick** (1)
+* **nick** (1) [866205](https://platzi.com/comentario/866205/) 
 
 	```
 	    functionMediaPlayer(config){
@@ -8248,12 +7712,11 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **oscar-alejandro** (1)
+* **oscar-alejandro** (1) [865219](https://platzi.com/comentario/865219/) 
 
-	
 	`this.media.muted = !this.media.muted;`
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [861701](https://platzi.com/comentario/861701/) 
 
 	```
 	    MediaPlayer.prototype.toggleMute = function () {
@@ -8266,9 +7729,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **José Fernando Briceño Ruíz** (1)
+* **José Fernando Briceño Ruíz** (1) [835855](https://platzi.com/comentario/835855/) 
 
-	
 	Clase **MediaPlayer**
 	``` 
 	    classMediaPlayer{
@@ -8345,9 +7807,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **predator0077** (1)
+* **predator0077** (1) [830397](https://platzi.com/comentario/830397/) 
 
-	
 	A cada uno de los botones le coloque un id en html para ser mas especifico.
 	``` 
 	    const botonMedia = document.querySelector('#reproducir');
@@ -8360,7 +7821,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **predator0077** (1)
+* **predator0077** (1) [830394](https://platzi.com/comentario/830394/) 
 
 	```
 	    classMediaPlayer{
@@ -8415,9 +7876,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Alver Ortega** (1)
+* **Alver Ortega** (1) [828243](https://platzi.com/comentario/828243/) 
 
-	
 	Aqui mi reto  
 	en el archivo index.html agrego este botón
 	``` 
@@ -8457,7 +7917,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Gregoris** (1)
+* **Gregoris** (1) [826010](https://platzi.com/comentario/826010/) 
 
 	```
 	    mediaPlayer.prototype.mudo = function()
@@ -8467,14 +7927,12 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **PaoloTorregrosa** (1)
+* **PaoloTorregrosa** (1) [825054](https://platzi.com/comentario/825054/) 
 
-	
 	Recien sali de una gran frustración al obtener varios errores en la consola del navegador que no entendia… hasta me lei la documentacion de MDN y nada… solo era una carpeta con el nombre mal puesto 😦
 
-* **veronica oviedo** (1)
+* **veronica oviedo** (1) [812432](https://platzi.com/comentario/812432/) 
 
-	
 	En el index.js asigno el evento al objeto button del DOM
 	``` 
 	    const buttonMute = document.getElementById("muteButton");
@@ -8498,9 +7956,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **ezcdev** (1)
+* **ezcdev** (1) [807916](https://platzi.com/comentario/807916/) 
 
-	
 	aqui mi reto:
 	``` 
 	    MediaPlayer.prototype.toggleMute = function() {
@@ -8513,9 +7970,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Hernan Maza** (1)
+* **Hernan Maza** (1) [779482](https://platzi.com/comentario/779482/) 
 
-	
 	index.html
 	``` 
 	    <button id="btnmute">Unmute</button>
@@ -8546,9 +8002,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Alfredo Gonzalez** (1)
+* **Alfredo Gonzalez** (1) [778974](https://platzi.com/comentario/778974/) 
 
-	
 	Agregue este código, en sus respectivos lugares 😄  
 	//en el index, mute es un boton  
 	mute.addEventListener(‘click’, ()=>{  
@@ -8571,9 +8026,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	}  
 	}
 
-* **Cristhian Daza** (1)
+* **Cristhian Daza** (1) [775060](https://platzi.com/comentario/775060/) 
 
-	
 	Aquí mi solución:  
 	**index.js**
 	``` 
@@ -8586,9 +8040,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Jhonnathan Andres Bolaños Huerfano** (1)
+* **Jhonnathan Andres Bolaños Huerfano** (1) [774215](https://platzi.com/comentario/774215/) 
 
-	
 	reto cumplido.
 	
 	index.js
@@ -8650,9 +8103,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	
 	…
 
-* **juan_prieto_r** (1)
+* **juan_prieto_r** (1) [773362](https://platzi.com/comentario/773362/) 
 
-	
 	Hola!! yo lo hice de esta forma
 	``` 
 	    document.getElementById('muteButton').addEventListener('click', function(){
@@ -8665,9 +8117,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Daniel Azocar** (1)
+* **Daniel Azocar** (1) [770055](https://platzi.com/comentario/770055/) 
 
-	
 	Hey Como estan todos? yo hice el reto de esta forma
 	``` 
 	    <button id="muteBtn">Unmute/Mute</button>
@@ -8690,7 +8141,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	
 	Lo hice asi porque no entiendo la manera mas simplificada y esta se me hace mas facil de leer
 
-* **Davic64** (1)
+* **Davic64** (1) [766333](https://platzi.com/comentario/766333/) 
 
 	```
 	    const buttonMute = document.querySelector('#mute');
@@ -8704,9 +8155,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **David Daza** (1)
+* **David Daza** (1) [765902](https://platzi.com/comentario/765902/) 
 
-	
 	Dentro de MediaPlayer.js
 	``` 
 	    MediaPlayer.prototype.toggleMute = functiontoggleMute() {
@@ -8723,12 +8173,11 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-	* **tony_campos** (1)
+	* **tony_campos** [765902] (1)
 
-		
 		El primero, en tus métodos mute y unmute puede que eventualmente exista más funcionalidad que solo poner el valor booleano, por lo tanto es más fácil de mantener.
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [764614](https://platzi.com/comentario/764614/) 
 
 	```
 	    functionMediaPlayer (config){ 
@@ -8780,9 +8229,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [758238](https://platzi.com/comentario/758238/) 
 
-	
 	Solución:
 	
 	index.js
@@ -8816,9 +8264,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Erledie Salazar** (1)
+* **Erledie Salazar** (1) [757245](https://platzi.com/comentario/757245/) 
 
-	
 	Quedaria asi:
 	
 	index. js
@@ -8900,9 +8347,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **ngmartinezs** (1)
+* **ngmartinezs** (1) [742280](https://platzi.com/comentario/742280/) 
 
-	
 	Comparto mi solucion  
 	Index.js  
 	const conmutarMuted = function () {  
@@ -8932,7 +8378,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	this.media.muted=false;  
 	}
 
-* **solej77** (1)
+* **solej77** (1) [741438](https://platzi.com/comentario/741438/) 
 
 	```
 	    MediaPlayer.prototype.mute = function(){
@@ -8949,9 +8395,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Nicolas Reyes** (1)
+* **Nicolas Reyes** (1) [740003](https://platzi.com/comentario/740003/) 
 
-	
 	Mi solución del reto.
 	``` 
 	        toggleMute() {
@@ -8960,9 +8405,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **leshz** (1)
+* **leshz** (1) [739195](https://platzi.com/comentario/739195/) 
 
-	
 	Comparto la solución del reto
 	``` 
 	    // index.js 
@@ -8978,9 +8422,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **David Behar** (1)
+* **David Behar** (1) [737872](https://platzi.com/comentario/737872/) 
 
-	
 	Hello, les comparto mi solución, [ver código](https://github.com/behagoras/media-player/tree/df929e98802b16b4bdd2b98241b55842bd890a8e)
 	
 	Estoy implementando métodos para toggle de todo, les muestro mi implementación de toggleMute
@@ -9002,9 +8445,8 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **Mariano34** (1)
+* **Mariano34** (1) [729683](https://platzi.com/comentario/729683/) 
 
-	
 	<main class=“container”>  
 	<video class=“movie” **controls muted** >  
 	<source src="./assets/BigBuckBunny.mp4" />  
@@ -9012,7 +8454,7 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	
 	Poniendole a la eqiqueta video la propiedad “controls muted” obtenemos todos los controles del video incluido el muted.
 
-* **José Daniel Hernández Estrada** (1)
+* **José Daniel Hernández Estrada** (1) [724819](https://platzi.com/comentario/724819/) 
 
 	```
 	    <button id="play">Play/Pause</button>
@@ -9027,23 +8469,21 @@ Por que this.plugins = config.plugins || []. Comprendo lo del array vacio, Pero 
 	    
 	```
 
-* **David Ruiz** (1)
+* **David Ruiz** (1) [85459](https://platzi.com/comentario/1074407/) 
 Reto: index.html ... <button id="playButton">Play/Pause</button> <button id="muteButton">Mute/Unmute</button&g...
 
-* **torcoroma-arias-ascanio** (1)
+* **torcoroma-arias-ascanio** (1) [84783](https://platzi.com/comentario/1058525/) 
 HOLA me sale un error en la consola Uncaught SyntaxError: Unexpected identifier y me muestra acá import MediaPlayer from ‘./MediaPlayer....
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [84783] (1)
 
-		
 		Es porque no esta encontrando la ruta de MediaPlayer. Fijate bien que tenga el mismo nombre y que lo estes exportando en MediaPlayer.
 
-* **Juan Sebastian Galvis Huertas** (1)
+* **Juan Sebastian Galvis Huertas** (1) [78437](https://platzi.com/comentario/921139/) 
 ALguien me podria explicar por que en los prototypes no puedo utilizar arrow functions?, tiene algo que ver con el scope de estas?
 
-	* **Bernardo Ayala Montezuma** (2)
+	* **Bernardo Ayala Montezuma** [78437] (2)
 
-		
 		Porque las arrow function no vinculan su propio `this`. Esto es quizás complejo de entender, pero para notarlo mejor puedes estudiar este ejemplo:
 		``` 
 		    const person = {
@@ -9071,62 +8511,55 @@ ALguien me podria explicar por que en los prototypes no puedo utilizar arrow fun
 		
 		Si quieres saber más te recomiendas que busques por internet documentación que explique que pasa con el `this` en las arrow functions.
 
-* **Jesus M Cocaño Diaz** (1)
+* **Jesus M Cocaño Diaz** (1) [76238](https://platzi.com/comentario/883499/) 
 Cual seria la diferencia de usar un querySelector a un getElementById?
 
-	* **T-gold** (2)
+	* **T-gold** [76238] (2)
 
-		
 		el query selector elije un elemento html
 		
 		el getElementBYId unicamente elije segun su id
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [76090](https://platzi.com/comentario/880774/) 
 cuando coloco import AutoPlay from './AutoPlay.js' sale normal pero cuando coloco import AutoPlay from ‘./plugins/AutoPlay....
 
-	* **Jesus M Cocaño Diaz** (1)
+	* **Jesus M Cocaño Diaz** [76090] (1)
 
-		
 		Sucede que el AutoPlay.js lo tienes fuera de la carpeta de plugins es por eso que sale 404 not found
 
-* **DanielCu** (1)
+* **DanielCu** (1) [75457](https://platzi.com/comentario/870226/) 
 Porque me arroja este error? Que config estoy omitiendo?
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [75457] (1)
 
-		
 		Hola Daniel. Puedes mostrarnos el error y tu código para que te ayudemos a encontrar el problema y su solución?
 
-* **Ang.O** (1)
+* **Ang.O** (1) [74138](https://platzi.com/comentario/847302/) 
 como se define un plugin?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [74138] (1)
 
-		
 		No entiendo cuál es tu pregunta. ¿Te refieres a qué es un plugin o cómo crear uno? Si es lo segundo pos tienes que ver la clase. 😛
 
-* **Eduardo Zamarron Muñoz** (1)
+* **Eduardo Zamarron Muñoz** (1) [73720](https://platzi.com/comentario/840248/) 
 Hola, tengo una duda. ¿Alguien me puede explicar por qué el método _initPlugins tiene el ‘_’ al inicio? ¿Qué es lo que se está d...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [73720] (1)
 
-		
 		Hola! hace referencia que es un método privado de la clase, o en este caso del prototipo. Puedes aprender más de encapsulamiento y permisos en el [Curso de Programación Orientada a Objetos](https://platzi.com/clases/oop/) de Platzi 😄
 
-* **Alejo Vera** (1)
+* **Alejo Vera** (1) [72547](https://platzi.com/comentario/818145/) 
 Hola, me salta este error al intentar usar type module: from origin 'null' has been blocked by CORS policy: Cross origin requests ...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [72547] (1)
 
-		
 		Hola. ¿Podrías mostrarnos tu código? Específicamente la parte del script que dices que causa el error. 🙏🐛
 
-* **aerama** (0)
+* **aerama** (0) [755841](https://platzi.com/comentario/755841/) 
 
-	
 	“Es una buena forma de desarrollo, escribes, luego arreglas”
 
-## 0080. this
+## 0080. this [22162](https://platzi.com/clases/1642-javascript-profesional/22162-this/)
 
 ### Descripción:
 
@@ -9135,81 +8568,69 @@ Hola, me salta este error al intentar usar type module: from origin 'null' has b
 
 No se puede asignar un valor a _this_ directamente y este depende de en que scope nos encontramos:
 
-  * Cuando llamamos a _this_ en el **Global Scope o Function Scope** , se hace referencia al objeto _window_. A excepción de cuando estamos en **strict mode** que nos regresará _undefined_.
-  * Cuando llamamos a _this_ desde **una función** que está contenida en un objeto, _this_ se hace referencia a ese objeto.
-  * Cuando llamamos a _this_ desde una **“clase”** , se hace referencia a la instancia generada por el constructor.
+* Cuando llamamos a _this_ en el **Global Scope o Function Scope** , se hace referencia al objeto _window_. A excepción de cuando estamos en **strict mode** que nos regresará _undefined_.
+* Cuando llamamos a _this_ desde **una función** que está contenida en un objeto, _this_ se hace referencia a ese objeto.
+* Cuando llamamos a _this_ desde una **“clase”** , se hace referencia a la instancia generada por el constructor.
 
 
 
 ### Comentarios:
 
-* **braco** (37)
+* **braco** (37) [925068](https://platzi.com/comentario/925068/) 
 
-	
 	Apuntes de esta clase:
 	
 	![JS – 5.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%205-a7e22a7f-d833-49a4-ae64-82d508b32703.jpg)
 
-	* **lkestrada** (1)
+	* **lkestrada** [925068] (1)
 
-		
 		Muy buenos apuntes, gracias .
 
-	* **Sergio Eduardo Sinuco Leon** (2)
+	* **Sergio Eduardo Sinuco Leon** [925068] (2)
 
-		
 		Hola Braco. Tus apuntes son muy buenos. ¿Existe la posiblidad que los publiques todos en un solo documento? Seria genial!
 
-	* **matheoNieto** (1)
+	* **matheoNieto** [925068] (1)
 
-		
 		Muy claros apuntes
 
-* **Filiberto Santillán** (17)
+* **Filiberto Santillán** (17) [787431](https://platzi.com/comentario/787431/) 
 
-	
 	Les paso una manera ligera de estar practicando `this` con imágenes y también un artículo que escribí.
 	
 	<https://www.instagram.com/p/B3Ujh2XBWtG/>
 	
 	<https://filisantillan.com/this-en-diferentes-situaciones-y-su-comportamiento/>
 
-	* **Danilo Morales** (2)
+	* **Danilo Morales** [787431] (2)
 
-		
 		Muy buen traabajo! Felicidades
 
-	* **David Alejandro Mosquera Moreno** (2)
+	* **David Alejandro Mosquera Moreno** [787431] (2)
 
-		
 		Woah tremendo!  
 		Me ayudó mucho a entenderlo.
 
-	* **John Botero** (1)
+	* **John Botero** [787431] (1)
 
-		
 		Muy buena tu página.
 
-* **Christian Armando Consuelo Mayén** (9)
+* **Christian Armando Consuelo Mayén** (9) [738977](https://platzi.com/comentario/738977/) 
 
-	
 	Gran clase y para las y los que quieran profundizar más en el tema: La serie de libros “You don’t know Javascript” tiene una de las mejores explicaciones a fondo de **This** y objetos que yo he leído.
 	
 	<https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/this-object-prototypes/README.md>
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [738977] (1)
 
-		
 		Gracias.
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [738977] (1)
 
-		
 		buen aporte gracias.
 
-* **Alejandro González Reyes** (6)
+* **Alejandro González Reyes** (6) [727326](https://platzi.com/comentario/727326/) 
 
-	
 	He añadido mas cosas interesantes como aporte de esta clase, me llevo algo de tiempo comprenderlos pero al final lo comparto con ustedes
 	``` 
 	        <script>
@@ -9342,24 +8763,20 @@ No se puede asignar un valor a _this_ directamente y este depende de en que scop
 	    
 	```
 
-	* **David Behar** (4)
+	* **David Behar** [727326] (4)
 
-		
 		Genial aporte, justo ayer teníamos una discusión sobre el uso de this en la escuela de js en cdmx y voy a compartir tu aporte con ellos para que quede más claro.
 
-	* **WilliamVelazquez** (3)
+	* **WilliamVelazquez** [727326] (3)
 
-		
 		Probaré tu aporte! 😃
 
-* **Cristian Orozco Benjumea** (5)
+* **Cristian Orozco Benjumea** (5) [851171](https://platzi.com/comentario/851171/) 
 
-	
 	Por fin me queda más claro `this` vaina
 
-* **Angel Joaquín Velasco Gómez** (5)
+* **Angel Joaquín Velasco Gómez** (5) [705792](https://platzi.com/comentario/705792/) 
 
-	
 	Hola, tengo una duda, tu comentas que para escribir funciones se debe de hacer por medio de prototipos, pero que hay de hacerlo asi:
 	``` 
 	    functionPerson(nombre,edad){
@@ -9382,14 +8799,12 @@ No se puede asignar un valor a _this_ directamente y este depende de en que scop
 	    
 	```
 
-	* **Diego Ivan Padilla Bernal** (2)
+	* **Diego Ivan Padilla Bernal** [705792] (2)
 
-		
 		Sería lo mismo, solo que como tu lo escribiste es más simple de leer y después de todo ese código se convertirá de la forma que lo hace el profesor.
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [705792] (3)
 
-		
 		También podrías usar el “Module Pattern”:
 		``` 
 		    const Module = (function() {
@@ -9407,51 +8822,42 @@ No se puede asignar un valor a _this_ directamente y este depende de en que scop
 		
 		Cuestión de gustos. Si voy a trabajar en algo pequeño prefiero programar de esta forma. Pero si ya es algo más grande prefiero usar this. Aunque me gusta más con el prototype que todas las funciones dentro de la misma función padres 😜. ¡Pero es de gustos! 👍💪
 
-* **luis-gabriel-cazzullo** (4)
+* **luis-gabriel-cazzullo** (4) [848104](https://platzi.com/comentario/848104/) 
 
-	
 	La verdad que explica con claridad y me encanta el proyecto. Pero me sorprende que use prototype todavía, si bien nunca está de más saber cómo funcional la herencia prototipal, está totalmente en desuso y JS ya acepta class
 
-	* **jhonaikerfarias** (3)
+	* **jhonaikerfarias** [848104] (3)
 
-		
 		Lo mismo pensé ya que vengo del curso fundamentos de javascript de la misma ruta, donde ya explican como usar class.
 
-	* **Wesly Fernández** (1)
+	* **Wesly Fernández** [848104] (1)
 
-		
 		Lo mismo pensé, totalmente de acuerdo.
 
-* **Alejandro Silva Berbesi** (4)
+* **Alejandro Silva Berbesi** (4) [746265](https://platzi.com/comentario/746265/) 
 
-	
 	El modo estricto en JavaScript https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Modo_estricto
 
-	* **pablonotti** (1)
+	* **pablonotti** [746265] (1)
 
-		
 		gracias
 
-* **Gabriel De Andrade (Platzi)** (4)
+* **Gabriel De Andrade (Platzi)** (4) [704630](https://platzi.com/comentario/704630/) 
 
-	
 	Hola soy Gabriel 😛
 
-* **Camilo Victoria** (3)
+* **Camilo Victoria** (3) [1004501](https://platzi.com/comentario/1004501/) 
 
-	
 	Al fin me queda super claro este tema.
 
-* **Juan Sebastian Galvis Huertas** (3)
+* **Juan Sebastian Galvis Huertas** (3) [921244](https://platzi.com/comentario/921244/) 
 
-	
 	Es importante ver que el this tienen un comportamiento especial en las funciones flecha, diferente a las funciones normales , donde el this no llama al objeto invocador, si no al objeto del prototype donde se definio
 	
 	<http://www.etnassoft.com/2016/06/23/las-funciones-flecha-en-javascript-parte-2/>
 
-* **Luis Miguel Rodriguez** (3)
+* **Luis Miguel Rodriguez** (3) [776111](https://platzi.com/comentario/776111/) 
 
-	
 	Cuando se usa una arrow function en un objeto se pierde el contexto de this. aquí un ejemplo
 	``` 
 	    person = {
@@ -9469,26 +8875,22 @@ No se puede asignar un valor a _this_ directamente y este depende de en que scop
 	    
 	```
 
-* **Betty Rossana Jimenez Cedeño** (3)
+* **Betty Rossana Jimenez Cedeño** (3) [770145](https://platzi.com/comentario/770145/) 
 
-	
 	This es objeto, que para acceder a el, es this.objeto.
 	
 	Puede ser global o en un modo strict.
 
-* **rusbel bermúdez rivera** (3)
+* **rusbel bermúdez rivera** (3) [760144](https://platzi.com/comentario/760144/) 
 
-	
 	this es el equivalente a usar self en python
 
-* **AlfredOS** (3)
+* **AlfredOS** (3) [727307](https://platzi.com/comentario/727307/) 
 
-	
 	El _this_ era un problema para mi porque aunque lo usaba al programar, no entendía del todo cómo funcionaba, ahora lo entiendo perfectamente. Muy buena clase.
 
-* **Cesar Augusto Barco de Gouveia** (3)
+* **Cesar Augusto Barco de Gouveia** (3) [722786](https://platzi.com/comentario/722786/) 
 
-	
 	## This
 	
 	‌
@@ -9631,37 +9033,31 @@ No se puede asignar un valor a _this_ directamente y este depende de en que scop
 	
 	Cuando llamamos a `this` se refiere a la instancia `cesar`, esto es importante saberlo ya que cuando asignamos `this.name = name` lo hacemos sobre la instancia `cesar` no en el _prototipo_ o **clase**`human`. Para poder usar `this` tenemos que hacer una instancia de la clase usando `new` y pasando los valores que queramos.
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [722786] (1)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-* **Fernando Vallejo** (2)
+* **Fernando Vallejo** (2) [1056807](https://platzi.com/comentario/1056807/) 
 
-	
 	this toma el valor del contexto donde nos encontremos
 
-* **MartinMB** (2)
+* **MartinMB** (2) [1045985](https://platzi.com/comentario/1045985/) 
 
-	
 	Maravilloso
 
-* **Pablitvs** (2)
+* **Pablitvs** (2) [1013557](https://platzi.com/comentario/1013557/) 
 
-	
 	gran clase!
 
-* **Juan Carlos Valencia López** (2)
+* **Juan Carlos Valencia López** (2) [985928](https://platzi.com/comentario/985928/) 
 
-	
 	este video lo esperaba desde hace mucho 😄
 
-* **maria-del-carmen-rodriguez** (2)
+* **maria-del-carmen-rodriguez** (2) [985603](https://platzi.com/comentario/985603/) 
 
-	
 	Buenísimo, falto con el bind y el call, espero verlos más adelante
 
-* **Cristian Orozco Benjumea** (2)
+* **Cristian Orozco Benjumea** (2) [851172](https://platzi.com/comentario/851172/) 
 
 	```
 	    // this en el contexto de una "clase"
@@ -9681,111 +9077,91 @@ No se puede asignar un valor a _this_ directamente y este depende de en que scop
 	    
 	```
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [851172] (1)
 
-		
 		Resumiste las parte con “Class”. Ahora, ya podemos ver las dos formas “Class”, y “Prototype”.
 
-* **David Behar** (2)
+* **David Behar** (2) [737879](https://platzi.com/comentario/737879/) 
 
-	
 	Se ve mucho mejor la playera negra, como que la amarilla no pinta tanto y es muy llamativa.
 
-	* **Jose Daniel Barría Reyes** (6)
+	* **Jose Daniel Barría Reyes** [737879] (6)
 
-		
 		a mi me gusta mas la amarilla, me hace aprender mas (?
 
-* **Daniel Hurtado** (2)
+* **Daniel Hurtado** (2) [705661](https://platzi.com/comentario/705661/) 
 
-	
 	Pero en ECMAScript 2015 si existen las clases. Por qué no se toman en cuenta ):?
 
-	* **Angel Joaquín Velasco Gómez** (3)
+	* **Angel Joaquín Velasco Gómez** [705661] (3)
 
-		
 		Tengo entendido que se ven como clases, pero no dejan de ser prototipos, no son como las clases de Java.
 
-	* **José antonio Cañizales** (2)
+	* **José antonio Cañizales** [705661] (2)
 
-		
 		En javascript no existen las clases, lo que dice javascript que es “clases” en realidad es el metodo que esta referenciando el profesor.
 
-	* **Luis Rogelio Reyes Hernández** (3)
+	* **Luis Rogelio Reyes Hernández** [705661] (3)
 
-		
 		existe la sintaxis de clases , es decir la declaración es solo de escritura y mejora de lectura del código, pero el comportamiento sigue siendo el mismo.
 
-	* **efrainjaimes** (1)
+	* **efrainjaimes** [705661] (1)
 
-		
 		Creo que es una cesti’on didactica. La idea en este curso supongo que es aprender las “profundidades” del lenguaje.
 
-* **Juan Agustín Spinello** (2)
+* **Juan Agustín Spinello** (2) [74838](https://platzi.com/comentario/859944/) 
 Hola! Alguien sabe cual es la extensión utilizada en VSC para que el color de la fuente sea distinto según el termino escrito? tal como s...
 
-	* **Franco Rossi** (2)
+	* **Franco Rossi** [74838] (2)
 
-		
 		Es un tema. Hay mucha variedad para elegir, no se cual es especificamente el que usa pero parece ser Monokai
 
-* **john fredy quimbaya orozco** (1)
+* **john fredy quimbaya orozco** (1) [1115620](https://platzi.com/comentario/1115620/) 
 
-	
 	así es en java hace referencia a una instancia de esa clase…
 
-* **brunoamadori** (1)
+* **brunoamadori** (1) [1090328](https://platzi.com/comentario/1090328/) 
 
-	
 	Opa!, finalmente creo que entiendo… el código que escribimos tiene una estructura de arbol… se va construyendo rama por rama. Si estoy en rama 1, y escribo una funcion que usa _this_ justo cuando se esta leyendo esa rama, _this _va a hacer referencia a rama 1.
 	
 	Ahora, si estoy en rama 2, y señalo que se ejecute una función que está en rama 1, el _this _de la función que está en rama 1 me va a devolver rama 2.
 	
 	Es ser consciente del lugar donde estás parado, dentro de este arbol, en cada linea de código.
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1089919](https://platzi.com/comentario/1089919/) 
 
-	
 	Muy claro con el ejemplo!!! ahora ya lo podria manejarlo casi por completo a this
 
-* **camilogt121** (1)
+* **camilogt121** (1) [1081957](https://platzi.com/comentario/1081957/) 
 
-	
 	pues la verdad yo no entendi muy bien asi que tuve que buscar en la web mas informacion para tener claro este concepto de this
 
-* **richie** (1)
+* **richie** (1) [1075399](https://platzi.com/comentario/1075399/) 
 
-	
 	Excelente clase con una gran explicación para lograr entender la diferencia de this en sus diferentes contextos de uso.
 
-* **vickiavola** (1)
+* **vickiavola** (1) [1073050](https://platzi.com/comentario/1073050/) 
 
-	
 	Excelente clase… sigamos
 
-* **Mauricio Rodriguez Avila** (1)
+* **Mauricio Rodriguez Avila** (1) [1057306](https://platzi.com/comentario/1057306/) 
 
-	
 	Excelente Explicación
 
-* **Denilson Alexis Arguello Noguera** (1)
+* **Denilson Alexis Arguello Noguera** (1) [914839](https://platzi.com/comentario/914839/) 
 
-	
 	this
 
-* **carlosmartinezvila** (1)
+* **carlosmartinezvila** (1) [831615](https://platzi.com/comentario/831615/) 
 
-	
 	Buena explicación
 
-* **Iair Poloniecki** (1)
+* **Iair Poloniecki** (1) [830374](https://platzi.com/comentario/830374/) 
 
-	
 	Finalmente pude entender bien a `this`!!!
 
-* **Hernan Maza** (1)
+* **Hernan Maza** (1) [779556](https://platzi.com/comentario/779556/) 
 
-	
 	Veo que para objetos igual persiste el que si yo guardo la referencia de una funcino de objeto y luego sera ejecutada entonces el this es window
 	``` 
 	    functionPerson(nombre) {
@@ -9804,30 +9180,26 @@ Hola! Alguien sabe cual es la extensión utilizada en VSC para que el color de l
 	    
 	```
 
-* **Hebert de León** (1)
+* **Hebert de León** (1) [731187](https://platzi.com/comentario/731187/) 
 
-	
 	¡Toda la vida trabajando con clases y sólo las hacía sin saber lo que realmente eran! Ahora entiendo qué es **this** D:
 
-	* **Christian Armando Consuelo Mayén** (3)
+	* **Christian Armando Consuelo Mayén** [731187] (3)
 
-		
 		Tienes que tomar muy en cuenta que el concepto de “Clases” en Javascript no es más que una “azúcar sintáctica” y que no posee las convenciones reales de lo que un lenguaje de programación orientado a objetos requiere para serlo. No vayas a confundirlo por favor porque **this** es algo muy diferente en lenguajes como Java.
 
-* **ManuS** (1)
+* **ManuS** (1) [84291](https://platzi.com/comentario/1047750/) 
 por qué sucede que al usar arrow function en el método de saludar me toma el scope global, es decir, el this en el console log lo toma co...
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [84291] (2)
 
-		
 		Te recomiendo esta clase [El contexto de las funciones: quién es this](https://platzi.com/clases/1339-fundamentos-javascript/12910-el-contexto-de-las-funciones-quien-es-this/) 😄
 
-* **Ang.O** (1)
+* **Ang.O** (1) [74145](https://platzi.com/comentario/847389/) 
 bastante confuso esto de this, entonces es para referirnos a un parametro a un conjunto de parametros? en el ultimo ejemplo de angela lo ...
 
-	* **David Granados** (1)
+	* **David Granados** [74145] (1)
 
-		
 		Si, pero “técnicamente” un “conjunto de parámetros” tiene el nombre de “objeto”, el cual varía según el scope donde está siendo utilizado.
 		
 		Si es en el scope global el “this” es el objeto window
@@ -9842,12 +9214,11 @@ bastante confuso esto de this, entonces es para referirnos a un parametro a un c
 		
 		Una vez instaciado el objeto y a
 
-* **Ang.O** (1)
+* **Ang.O** (1) [74143](https://platzi.com/comentario/847380/) 
 no entendi esto de strcit ¿es una funcion definida de js? y como es que sirve para detectar errores?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [74143] (1)
 
-		
 		Hola! El modo estricto de ECMAScript 5 es una forma de elegir una variante restringida de JavaScript.  
 		  
 		El modo estricto tiene varios cambios en la semántica normal de JavaScript:
@@ -9861,12 +9232,11 @@ no entendi esto de strcit ¿es una funcion definida de js? y como es que sirve p
 		
 		Esto sale de la [documentación oficial de MDN ](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Modo_estricto) en dónde puedes aprender mucho más al respecto 😄
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [67666](https://platzi.com/comentario/727340/) 
 @richard, porque this sigue siendo window en una función que se encuentra declarada e invocada dentro de otra función?. No se supone que ...
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [67666] (4)
 
-		
 		¿Estas usando arrow functions? Recuerda que las arrow functions no crean un nuevo scope, así que `this` sigue siendo refiriendose al scope anterior.
 		``` 
 		    const arrowFunction = () => {
@@ -9879,7 +9249,7 @@ no entendi esto de strcit ¿es una funcion definida de js? y como es que sirve p
 		
 		<https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/>
 
-## 0090. Los métodos call, apply y bind
+## 0090. Los métodos call, apply y bind [22163](https://platzi.com/clases/1642-javascript-profesional/22163-los-metodos-call-apply-y-bind/)
 
 ### Descripción:
 
@@ -9888,41 +9258,36 @@ Estas funciones nos sirven para establecer el valor de _this_ , es decir cambiar
 
 Las funciones **call, apply y bind** son parte del prototipo Function. Toda función usa este prototipo y por lo tanto tiene estas tres funciones.
 
-  * **functionName.call()**. Ejecuta la función recibiendo como primer argumento el _this_ y los siguientes son los argumentos que recibe la función que llamó a call.
-  * **functionName.apply()**. Ejecuta la función recibiendo como primer argumento el _this_ y como segundo un arreglo con los argumentos que recibe la función que llamó a apply.
-  * **functionName.bind()**. Recibe como primer y único argumento el _this_. No ejecuta la función, sólo regresa otra función con el nuevo this integrado.
+* **functionName.call()**. Ejecuta la función recibiendo como primer argumento el _this_ y los siguientes son los argumentos que recibe la función que llamó a call.
+* **functionName.apply()**. Ejecuta la función recibiendo como primer argumento el _this_ y como segundo un arreglo con los argumentos que recibe la función que llamó a apply.
+* **functionName.bind()**. Recibe como primer y único argumento el _this_. No ejecuta la función, sólo regresa otra función con el nuevo this integrado.
 
 
 
 ### Comentarios:
 
-* **braco** (20)
+* **braco** (20) [926515](https://platzi.com/comentario/926515/) 
 
-	
 	Apuntes de la clase  
 	![JS – 6.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%206-86babd14-1542-4e04-aa44-2ada6a2a0fed.jpg)
 
-	* **David Alejandro Mosquera Moreno** (2)
+	* **David Alejandro Mosquera Moreno** [926515] (2)
 
-		
 		Estos apuntes están muy buenos 🔥
 
-	* **Joaquin Vilchez** (2)
+	* **Joaquin Vilchez** [926515] (2)
 
-		
 		Me están salvando el curso! Son buenísimos!!  
 		Hay algún lugar donde publiques todas las notas completas?
 		
 		Gracias
 
-	* **Rodrigo Ramirez Trujillo** (1)
+	* **Rodrigo Ramirez Trujillo** [926515] (1)
 
-		
 		Gracias
 
-* **Cesar Augusto Barco de Gouveia** (14)
+* **Cesar Augusto Barco de Gouveia** (14) [723803](https://platzi.com/comentario/723803/) 
 
-	
 	## Los métodos call, apply y bind
 	
 	‌
@@ -10019,9 +9384,9 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	
 	‌
 	
-	  * **Call** : **c** de **comas** , esto por que le pasamos todos los valores separados por comas.
+	* **Call** : **c** de **comas** , esto por que le pasamos todos los valores separados por comas.
 	
-	  * **Apply** : **a** de **arreglo** , acá le pasamos todos los parámetros por arreglos.
+	* **Apply** : **a** de **arreglo** , acá le pasamos todos los parámetros por arreglos.
 	
 	
 	
@@ -10128,24 +9493,20 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	
 	De esta forma el `foreach` entenderá a `buttons` como el contexto y lo usará como el elemento que iterará cada vez que se le dé `click`.
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [723803] (1)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [723803] (1)
 
-		
 		Gracias!
 
-* **MDCMC** (8)
+* **MDCMC** (8) [739820](https://platzi.com/comentario/739820/) 
 
-	
 	Que clase tan brutal
 
-* **Alejandro González Reyes** (8)
+* **Alejandro González Reyes** (8) [727546](https://platzi.com/comentario/727546/) 
 
-	
 	Investigando un poco mas acerca del aporte del compañero Leandro Videlea.
 	
 	Tenemos el siguiente apunte
@@ -10165,9 +9526,8 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	    
 	```
 
-* **Jonathan Mastropasqua** (7)
+* **Jonathan Mastropasqua** (7) [697996](https://platzi.com/comentario/697996/) 
 
-	
 	Hola, solo quería aclarar una cosa:
 	
 	Al utilizar el método document.getElementsByClassName lo que se esta obteniendo es un HTMLCollection que dentro de su prototypo no cuenta con el método forEach.
@@ -10176,27 +9536,23 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	
 	Saludos.
 
-	* **JuanDAC** (3)
+	* **JuanDAC** [697996] (3)
 
-		
 		Tienes razón… Pero abstrae el ejemplo podriamos utilizarlo para **(map, reduce, indexOf, etc)** estas funciones que no existen en los NodeList y tampoco en las HTMLColletion.  
 		Esto es manifico… Yo usaba bind para muchas cosas pero entendiendo como funciona **el apuntafor this** en JavaScript las posibilidades aunmentan ♥ ♥ ♥
 
-* **gloria-lopez** (6)
+* **gloria-lopez** (6) [979659](https://platzi.com/comentario/979659/) 
 
-	
 	Por si alguien al igual que yo se perdió en la parte de nodeList  
 	este articulo me ayudo a entenderlo 😃  
 	[https://medium.com/@elenacerezo83/a-qué-te-refieres-cuando-hablas-de-nodelist-592ef54c8b1b](https://medium.com/@elenacerezo83/a-qu%C3%A9-te-refieres-cuando-hablas-de-nodelist-592ef54c8b1b)
 
-	* **vickiavola** (1)
+	* **vickiavola** [979659] (1)
 
-		
 		Excelente aporte, gracias
 
-* **LeandroVidela** (6)
+* **LeandroVidela** (6) [720793](https://platzi.com/comentario/720793/) 
 
-	
 	Cuando se trata de un NodeList lo venía haciendo de esta forma:
 	``` 
 	    const buttons = document.getElementsByClassName('call-to-action');
@@ -10211,9 +9567,8 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	
 	Transformo el NodeList del query en un Array utilizando el rest operator y todo funciona bien. Esto es correcto también? O sería mejor empezar a utilizar **Array.prototype…**? Gracias!
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [720793] (3)
 
-		
 		Oye, pues mira que tiene todo el sentido del mundo tu solución. 😮
 		
 		La función `document.getElementsByClassName` devuelve una colección de elementos HTML. Por lo tanto, no tiene la propiedad `.foreach` para hacer la iteración.
@@ -10232,16 +9587,14 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 		    
 		```
 
-	* **Andrés Felipe Eslava Zuluaga** (3)
+	* **Andrés Felipe Eslava Zuluaga** [720793] (3)
 
-		
 		Que genio! jajaja Para nada está mal. `Array.prototype` es la forma que se realiza.
 		
 		El hecho que use el `spread operator` es la forma ECMA6
 
-	* **David Daza** (2)
+	* **David Daza** [720793] (2)
 
-		
 		Está bien. Yo lo suelo hacer así inmediatamente obtengo los elementos:
 		``` 
 		    const buttons = [...document.querySelectorAll('.class')]
@@ -10254,47 +9607,39 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 		    
 		```
 
-	* **Maximo Martinez Soria** (3)
+	* **Maximo Martinez Soria** [720793] (3)
 
-		
 		Ayer me toco hacer una pequeña modificación en un proyecto de hace unos 5 años que no tenía el preset de babel para es-6 (No existía en ese momento jaja). Y no funcionaba el spread operator. Me volví loco hasta que me acordé de esto y bueno para estos casos está bueno usar call o apply.
 
-* **IngridSagrero** (5)
+* **IngridSagrero** (5) [741982](https://platzi.com/comentario/741982/) 
 
-	
 	<https://medium.com/@leonardobrunolima/javascript-tips-apply-vs-call-vs-bind-d738a9e8b4e1>
 
-* **David Ruiz** (4)
+* **David Ruiz** (4) [1076599](https://platzi.com/comentario/1076599/) 
 
-	
 	Currying es un proceso en programación funcional en el cuál podemos transformar una función con multiples argumentos en una secuencias de funciones anidadas, retorna una nueva función que espera el nuevo argumento en la lista.
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [727532](https://platzi.com/comentario/727532/) 
 
-	
 	Vaya vaya, yo creía que los metodos para recuperar muchos elementos HTML retornaban un nodeList, pero ya veo que no, algunos retornan una coleccion de elementos HTML.  
 	waoo.
 
-* **JhonLocke** (4)
+* **JhonLocke** (4) [720710](https://platzi.com/comentario/720710/) 
 
-	
 	Esta especificamente esta es la clase de JS en la que mas aprendí en mi vida sobre JS. Gracias Sparragus!
 
-* **maria-del-carmen-rodriguez** (3)
+* **maria-del-carmen-rodriguez** (3) [985693](https://platzi.com/comentario/985693/) 
 
-	
 	<https://yeisondaza.com/currying-en-javascript-funciones-con-superpoderes>
 
-* **Diego Camino** (3)
+* **Diego Camino** (3) [974869](https://platzi.com/comentario/974869/) 
 
-	
 	Tip para comentar y descomentar rápido en VS Code, como el profe, comentar: ctrl + k + c  
 	descomentar: ctrl + k + u  
 	No presionar al mismo tiempo, primero ctrl, luego k y luego c o u.
 
-	* **emacastillozam** (1)
+	* **emacastillozam** [974869] (1)
 
-		
 		Ó… puedes editar las teclas, ahí mismo en VSCode:
 		
 		File-> Preferences-> Keyboard Shourtcuts  
@@ -10306,23 +9651,20 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 		Por ejemplo, yo tengo personalizado con **Ctrl + Alt + 7**  
 		Saludos!!! 😄
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [974869] (1)
 
-		
 		Claro, buen dato también, asumo que lo tienes así por sublime text?? así esta por defecto en ese editor sino me equivoco.  
 		Saludos
 
-* **iridian** (3)
+* **iridian** (3) [902922](https://platzi.com/comentario/902922/) 
 
-	
 	Call de Comma  
 	Apply de Arreglos
 	
 	😄 😄 😄 😄
 
-* **Maximo Martinez Soria** (3)
+* **Maximo Martinez Soria** (3) [901484](https://platzi.com/comentario/901484/) 
 
-	
 	Puede tomar distintos valores:
 	
 	En un entorno global -> Window  
@@ -10345,45 +9687,37 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	newFunction = function.bind(context)  
 	newFunction(prop_1, prop_2, …)
 
-* **zambombas** (3)
+* **zambombas** (3) [895577](https://platzi.com/comentario/895577/) 
 
-	
 	Richard explicas muy bien , he mirado muchos vídeos de otras plataformas y la verdad que donde mejor estoy aprendiendo es contigo.
 
-* **cesar88** (3)
+* **cesar88** (3) [846324](https://platzi.com/comentario/846324/) 
 
-	
 	Excelente como aplicar el forEach a un NodeList!!! :d
 
-* **ettorestark** (3)
+* **ettorestark** (3) [817797](https://platzi.com/comentario/817797/) 
 
-	
 	Utilizo JavaScript desde hace tanto tiempo y no conocía el uso de call, aply y bind. Esta clase ha marcado un antes y un después en mi carrera.
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [817797] (1)
 
-		
 		Es increíble, pero leo tantos comentarios que dicen lo mismo, lo mismo me ha pasado a mí,que locura, 5 años en la universidad para aprender JS profesional en unas cuantas clases
 
-* **MDCMC** (3)
+* **MDCMC** (3) [739774](https://platzi.com/comentario/739774/) 
 
-	
 	Ahora ya entendi porque el primer parametros de las “clases” en Js es “self”.  
 	Que bueno es saber de donde vienen las cosas
 
-* **Christian Armando Consuelo Mayén** (3)
+* **Christian Armando Consuelo Mayén** (3) [739187](https://platzi.com/comentario/739187/) 
 
-	
 	Qué curioso. Igual siempre había pensado que un arreglo de nodeLists podrían tener esta función **forEach** por default.
 
-* **Daniel Alvarez Aguilera** (2)
+* **Daniel Alvarez Aguilera** (2) [1115544](https://platzi.com/comentario/1115544/) 
 
-	
 	¿Como se llama el tema de vs code que esta usando?
 
-* **Eleazar Carreón Álvarez** (2)
+* **Eleazar Carreón Álvarez** (2) [1017260](https://platzi.com/comentario/1017260/) 
 
-	
 	Lo último que comento, lo tuve presente hace poco. Cuando fui a la consola lo que estaba imprimiendo. Vi que era un nodeList en mi mente pensé bueno ha de ser otro tipo de objeto. Así que use for of  
 	La pregunta es: ¿Qué diferencia hay entre convertir nodelist a un array? o ¿Usar el for-of?
 	
@@ -10404,54 +9738,45 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	    
 	```
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1017260] (2)
 
-		
 		No debería de haber diferencia, pero el NodeList sirve para explicar el concepto de esta clase 😄
 
-* **Pablitvs** (2)
+* **Pablitvs** (2) [1013587](https://platzi.com/comentario/1013587/) 
 
-	
 	mind blowing bro! excelente el ejemplo del final!
 
-	* **brunoamadori** (2)
+	* **brunoamadori** [1013587] (2)
 
-		
 		Tremendo… es un capo.
 
-* **Emanuel Catriquil** (2)
+* **Emanuel Catriquil** (2) [960378](https://platzi.com/comentario/960378/) 
 
-	
 	Esa técnica para poder usar un forEach con un NodeList es re hacker jajaja me gustó
 
-	* **Eleazar Carreón Álvarez** (1)
+	* **Eleazar Carreón Álvarez** [960378] (1)
 
-		
 		Puedes usar for-of y funcionara sin hacer eso.  
 		Solo tendríamos que checar en perfomance que es mejor.
 
-* **AntonioEspin** (2)
+* **AntonioEspin** (2) [924276](https://platzi.com/comentario/924276/) 
 
-	
 	Los objetos NodeList son colecciones de nodos. Aunque estos NodeList no son Arrays se puede iterar sobre este usando forEach().  
 	Y para evitar cualquier error en el navegador es recomendable escribir: Array.prototype.forEach
 
-* **wlm.morant** (2)
+* **wlm.morant** (2) [881502](https://platzi.com/comentario/881502/) 
 
-	
 	buena regla memortecnica
 
-* **mariorm1106** (2)
+* **mariorm1106** (2) [851558](https://platzi.com/comentario/851558/) 
 
-	
 	.call()  
 	.apply()  
 	.bind()  
 	Funciones para establecer el this.
 
-* **rs-mario** (2)
+* **rs-mario** (2) [842247](https://platzi.com/comentario/842247/) 
 
-	
 	Quisiera explicar desde mi punto de vista y conocimiento, que fue lo ultimo que hicieron (modificar el prototype de Array), para verificar que estoy entendiendo como funciona esto internamente, de equivocarme en algo por favor hacermelo saber, gracias 😄.  
 	-Supono que interamente la forma en la que la funcion forEach recorre todos los elementos de un array es ingresando por su indice ej :  
 	callbackDelForEach(Arreglo[i])  
@@ -10461,78 +9786,64 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	nodeList[indice] , Arreglo[i]  
 	Para este caso especifico funciono,pero siempre dependera de como cada metodo de arreglo itere, si ingresa a cada elemento de una forma diferente, no funcionara.
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [758820](https://platzi.com/comentario/758820/) 
 
-	
 	En esta clase pudimos personalizar el Call de la clase ''Array" de Javascript, que impresionante y bondadoso lenguaje, Algo impensable en otros lenguajes de programación se pudo realizar en pocas lineas de código.
 	
 	Esta clase realmente cambio mi visión del lenguaje. Muchas Gracias
 
-* **jesusmurf** (2)
+* **jesusmurf** (2) [719177](https://platzi.com/comentario/719177/) 
 
-	
 	El último ejemplo me encantó
 
-* **jaguarjs** (2)
+* **jaguarjs** (2) [702976](https://platzi.com/comentario/702976/) 
 
-	
 	“Call - coma” “Apply - array”
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [1113469](https://platzi.com/comentario/1113469/) 
 
-	
 	Nunca había visto algo como esto 🤯🤯🤯🤯🤯, muy bien explicado.
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1090051](https://platzi.com/comentario/1090051/) 
 
-	
 	Lección: No caer en un nodeList
 
-* **chris_x** (1)
+* **chris_x** (1) [1035503](https://platzi.com/comentario/1035503/) 
 
-	
 	Realmente estos metodos pueden simplificar muchos entornos, permitiendo un this menos estatico. Excelente clase.
 
-* **elDiegoMan** (1)
+* **elDiegoMan** (1) [1012381](https://platzi.com/comentario/1012381/) 
 
-	
 	Existe alguna diferencial de performance entre usar call o apply?
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [985605](https://platzi.com/comentario/985605/) 
 
-	
 	asidhausdgasgduygasd
 
-* **Alessandri** (1)
+* **Alessandri** (1) [966006](https://platzi.com/comentario/966006/) 
 
-	
 	OMG está muy interesante esto, nunca creí que pudiéramos modificar los prototypes que vienen por defecto y darle utilidad. Buen curso
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [932193](https://platzi.com/comentario/932193/) 
 
-	
 	¿Es mejor practica usar querySelector y querySelectorAll en vez de los otros?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [932193] (3)
 
-		
 		Realmente ninguno es mala práctica, son simplemente diferentes formas de hacerlo, usa el que más se adapte a lo que estás haciendo y el que resuelva mejor tu problema 😄
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [932182](https://platzi.com/comentario/932182/) 
 
-	
 	Pero ¿Por que con document.querySelectorAll(’.call-to-action’)d si me funciona?
 
-	* **rdelacruz** (4)
+	* **rdelacruz** [932182] (4)
 
-		
 		querySelectorAll te retorna todos los elementos que encuentra con los criterios que indicaste, y querySelector retorna la primera aparición.
 		
 		[Diferencia enrte querySelectorAll y querySelector](https://es.stackoverflow.com/questions/22538/diferencia-entre-queryselector-queryselectorall-getelementbyid-getelementbyta)
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [886860](https://platzi.com/comentario/886860/) 
 
-	
 	para el caso de los `NodeList` tambien podemos hacer esto
 	``` 
 	    const BUTTON = document.getElementsByClassName("call-to-action");
@@ -10541,16 +9852,14 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	    
 	```
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [876293](https://platzi.com/comentario/876293/) 
 
-	
 	Esta documentación está genial:
 	
 	[Understanding This, Bind, Call, and Apply in JavaScript](https://www.digitalocean.com/community/conceptual_articles/understanding-this-bind-call-and-apply-in-javascript)
 
-* **Steven Benjamín Diaz Flores** (1)
+* **Steven Benjamín Diaz Flores** (1) [706165](https://platzi.com/comentario/706165/) 
 
-	
 	Tengo un proyecto de React en el que hice algo con el this y el contexto de mi componente, solamente que el contexto lo utilizaba en otra clase para manejar la logica del estado del component, estara correcto que lo dejara asi?
 	
 	es decir puse algo como esto:
@@ -10576,43 +9885,38 @@ Las funciones **call, apply y bind** son parte del prototipo Function. Toda func
 	
 	Estará correcto utilizar el this de esta forma? y si no, cual seria la forma más optima de hacer lo que realiza esa función?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [706165] (2)
 
-		
 		Te recomendaría ver el curso avanzado de React, creo que esto lo podrías sacar de la clase principal y abstraerlo con un High Order Component o incluso creando un custom Hook. De esa manera lo harías aún mas reutilizable
 
-* **marcelobaez** (1)
+* **marcelobaez** (1) [701555](https://platzi.com/comentario/701555/) 
 
-	
 	El uso de bind es un recurso muy utilizado cuando escribimos componentes en React y queremos tener siempre el scope de nuestra clase principal en alguna funcion. Esto nos evita recurrir al artilugio de asignar el this a una variable:
 	``` 
 	    constself = this;
 	    
 	```
 
-* **lechesdarwin** (1)
+* **lechesdarwin** (1) [72451](https://platzi.com/comentario/816571/) 
 Donde explica de como funciona el script de type=module
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [72451] (2)
 
-		
 		Lo explica en la clase de **Scopes** :  
 		<https://platzi.com/clases/1642-javascript-profesional/22159-sco-2/>
 
-* **baenacc** (1)
+* **baenacc** (1) [68771](https://platzi.com/comentario/745636/) 
 Yo he visto mucho que se aplica bind(this), me imagino que en ese caso es cuando estoy pasando mi contexto local?
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [68771] (1)
 
-		
 		Así es, al hacer ese bind this el contexto se pasa a la función donde haces bind, por ende tiene acceso a todo lo que lleve this.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [67688](https://platzi.com/comentario/727534/) 
 ¿Porque con el rest operator puedo convertir una colección de elementos HTML a un Arreglo.? […coleccionHTML] Alguien puede explicarme, gr...
 
-	* **Daniel Alberto Esquinazi** (4)
+	* **Daniel Alberto Esquinazi** [67688] (4)
 
-		
 		El `spread` operator te permite expandir elementos `iterables`, ya sea un array, string o incluso elementos del tipo `HTMLCollection`. En la imagen podes ver que el `__proto__` implementa un `Symbol(Symbol.iterator)` de esta forma te das cuenta que es un iterador.
 		
 		![html-collection.png](https://static.platzi.com/media/user_upload/html-collection-23b2023f-3ead-4a54-b120-64ce20c13dd8.jpg)![](url)
@@ -10629,12 +9933,11 @@ Yo he visto mucho que se aplica bind(this), me imagino que en ese caso es cuando
 		    
 		```
 
-* **Paul Sanchez Pardo** (0)
+* **Paul Sanchez Pardo** (0) [891832](https://platzi.com/comentario/891832/) 
 
-	
 	excelente profesor me encanta su clase!!
 
-## 0100. Prototype
+## 0100. Prototype [22164](https://platzi.com/clases/1642-javascript-profesional/22164-prototype/)
 
 ### Descripción:
 
@@ -10647,21 +9950,18 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 
 ### Comentarios:
 
-* **braco** (24)
+* **braco** (24) [931006](https://platzi.com/comentario/931006/) 
 
-	
 	Apuntes de la clase 😄
 	
 	![JS – 8.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%208-5c8d63da-0488-4936-b9ae-c35476e2e55e.jpg)
 
-	* **Diego Camino** (3)
+	* **Diego Camino** [931006] (3)
 
-		
 		Estoy flipando!
 
-* **Alejandro González Reyes** (10)
+* **Alejandro González Reyes** (10) [727712](https://platzi.com/comentario/727712/) 
 
-	
 	Después de un largo camino de comprensión, dejo mi aporte para esta clase. Por si alguien tiene dudas
 	``` 
 	    <script>
@@ -10902,19 +10202,16 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	    
 	```
 
-	* **oteka21** (2)
+	* **oteka21** [727712] (2)
 
-		
 		Crack, ídolo, genio!! 🙌🏽🙌🏽
 
-	* **Andrés Felipe Eslava Zuluaga** (1)
+	* **Andrés Felipe Eslava Zuluaga** [727712] (1)
 
-		
 		Gracias.
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [727712] (1)
 
-		
 		Gracias por tomarte tu tiempo, aclaré varias cosas (como no usar **arrow function** para la herencia con el fin de conservar el contexto de this).  
 		Como repaso hice los ejemplos con `class`
 		``` 
@@ -10947,14 +10244,12 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 		    
 		```
 
-* **Eduardo Zamarron Muñoz** (8)
+* **Eduardo Zamarron Muñoz** (8) [1050498](https://platzi.com/comentario/1050498/) 
 
-	
 	¿Quién necesita drogas cuando te puedes aventar este tipo de viajes mentales?
 
-* **Cesar Augusto Barco de Gouveia** (8)
+* **Cesar Augusto Barco de Gouveia** (8) [724251](https://platzi.com/comentario/724251/) 
 
-	
 	## Prototype
 	
 	‌
@@ -11209,45 +10504,38 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	
 	Al final podemos hacer lo mismo sin el `keyword new` pero usándolo nos facilitará muchas cosas. También existen otros `keywords` como `class` que nos ayudará mucho a ahorrar líneas de código.
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [724251] (1)
 
-		
 		Gracias!
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [724251] (1)
 
-		
 		gracias por tomarte el tiempo de hacer esto.
 
-* **Betty Rossana Jimenez Cedeño** (7)
+* **Betty Rossana Jimenez Cedeño** (7) [770741](https://platzi.com/comentario/770741/) 
 
-	
 	prototype: son lo que permite que se puedan instanciar el objeto.  
 	Js solo tiene objetos, y entre lo raro que sea esto, nos ofrece azúcar sintáctica que nos permite escribir más rápido.
 	
 	Recuerda que js, no tiene clases.  
 	que prototype != proto.
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [770741] (1)
 
-		
 		JavaScript ya trabaja con clases, el problema esta en la compatibilidad en los navegadores antiguos así que a seguir trabajando con prototype, al menos que se trabaja con TypeScript y compilarlo.
 
-	* **braco** (1)
+	* **braco** [770741] (1)
 
-		
 		prototype es igual a **proto** , si vas a la siguiente clase quizás lo entiendas un poco mejor.
 		
 		Puedes intentarlo colocando en la consola del navegador lo siguiente: zelda. **proto** === Hero.prototype y veras que te sale ‘true’
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [770741] (1)
 
-		
 		Una interesante síntesis.
 
-* **David Behar** (7)
+* **David Behar** (7) [741456](https://platzi.com/comentario/741456/) 
 
-	
 	En Javascript todo son objetos, no tenemos clases, no tenemos ese plano para crear objetos.  
 	Todos los objetos “heredan” de un prototipo que a su vez hereda de otro prototipo y así sucesivamente creando lo que se llama la prototype chain.
 	
@@ -11284,28 +10572,25 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	
 	**Recordar que el new es solo azúcar sintáctica.**
 
-	* **Jesus M Cocaño Diaz** (2)
+	* **Jesus M Cocaño Diaz** [741456] (2)
 
-		
 		Cuando se va hasta arriba lo busca en Window
 
-	* **David Behar** (1)
+	* **David Behar** [741456] (1)
 
-		
 		@jcocano Y si no lo encuentra arroja el error:
 		``` 
 		    ReferenceError: variableisnot defined
 		    
 		```
 
-* **Jesús Miguel Quinto Teran** (6)
+* **Jesús Miguel Quinto Teran** (6) [758868](https://platzi.com/comentario/758868/) 
 
+	* En Javascript no tenemos Clases como en la mayoría de los lenguajes de programación.
 	
-	  * En Javascript no tenemos Clases como en la mayoría de los lenguajes de programación.
+	* Las keyword: **new ** y **class** son azúcar sintáctica que nos permiten escribir mas rápidamente.
 	
-	  * Las keyword: **new ** y **class** son azúcar sintáctica que nos permiten escribir mas rápidamente.
-	
-	  * Usando new Podemos transformar esto:
+	* Usando new Podemos transformar esto:
 	
 	
 	
@@ -11325,7 +10610,7 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	    
 	```
 	
-	  * a esto:
+	* a esto:
 	
 	
 	``` 
@@ -11342,69 +10627,57 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	    
 	```
 
-* **Cristian Camilo Cucunubá** (5)
+* **Cristian Camilo Cucunubá** (5) [731515](https://platzi.com/comentario/731515/) 
 
-	
 	Intente una vez entender prototype pero no pude y decidi olvidarlo. Con esta clase y los ejemplos quedo mas que claro.Gracias Richard, excelente profesor 👍.
 
-* **Samar Jaffal** (4)
+* **Samar Jaffal** (4) [1052691](https://platzi.com/comentario/1052691/) 
 
-	
 	Eres un master!! Sirve muchisimo entender la evolución del lenguaje JS y como se comporta actualmente 💙
 
-* **Juan Sebastián Joya Rodríguez** (4)
+* **Juan Sebastián Joya Rodríguez** (4) [807327](https://platzi.com/comentario/807327/) 
 
-	
 	Me gustó mucho esta clase, es decir, no tenia ni diea de que New era azucar sintactica, este tipo de clases ayuda a “lo que no sabemos que no sabemos”
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [727587](https://platzi.com/comentario/727587/) 
 
-	
 	Me gusto mucho esta clase, sobre todo entender que los nuevos feature del lenguaje, son solo azucar sintáctica, ya que nativamente el proceso sigue siendo el mismo.
 
-* **Leonardo Daniel Flores Hernandez** (4)
+* **Leonardo Daniel Flores Hernandez** (4) [720353](https://platzi.com/comentario/720353/) 
 
-	
 	Este super articulo en GitHub (premiado) tiene muchos recursos para aprender 33 conceptos que como desarrolladores JS deberíamos dominar, chéquenlo!
 	
 	[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 
-* **Juan Luis Rojas León** (4)
+* **Juan Luis Rojas León** (4) [715818](https://platzi.com/comentario/715818/) 
 
-	
 	[You Don’t Know JS Yet: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/this-object-prototypes/ch5.md)
 
-* **Diego Camino** (3)
+* **Diego Camino** (3) [974995](https://platzi.com/comentario/974995/) 
 
-	
 	Estoy sin palabras, tengo ganas de llorar literal, pero de la emoción, 3 años trabajando con js y recién me enteró de como es que funciona realmente, estoy flipando!!! EXCELENTE, EXCELENTE!
 
-* **Jeith S Carrillo A** (3)
+* **Jeith S Carrillo A** (3) [822054](https://platzi.com/comentario/822054/) 
 
-	
 	excelente clase de esas cosas que jamas aprendes en la universidad
 
-	* **mariorm1106** (1)
+	* **mariorm1106** [822054] (1)
 
-		
 		Tiene grandes ventajas al educación practica, estudiar con código funcional.
 
-* **Ezequiel Guerra** (3)
+* **Ezequiel Guerra** (3) [706404](https://platzi.com/comentario/706404/) 
 
-	
 	 **Nota** : cuando se crea un método con _prototype_ para que funcione correctamente se debe crear utilizando function(){} y no arrow function () =>{}
 
-	* **Angel Ponce** (3)
+	* **Angel Ponce** [706404] (3)
 
-		
 		Así es, ya que si se utiliza una arrow function estaria tomando a Window como el valor de this.
 
-* **elvis.sanchez** (3)
+* **elvis.sanchez** (3) [698004](https://platzi.com/comentario/698004/) 
 
-	
 	Wow! How many things I do without knowing! 😃
 
-* **omejenes** (2)
+* **omejenes** (2) [1097416](https://platzi.com/comentario/1097416/) 
 
 	```
 	    classHero{
@@ -11424,34 +10697,28 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	    
 	```
 
-* **Fernando Vallejo** (2)
+* **Fernando Vallejo** (2) [1056852](https://platzi.com/comentario/1056852/) 
 
-	
 	Pensar que casi me salto este curso tan maravilloso!
 
-* **Juan Alberto López López** (2)
+* **Juan Alberto López López** (2) [996497](https://platzi.com/comentario/996497/) 
 
-	
 	Excelente clase.
 
-* **miguelangelsoler** (2)
+* **miguelangelsoler** (2) [950609](https://platzi.com/comentario/950609/) 
 
-	
 	Que buena clase!
 
-* **Jessie Buckland Pérez** (2)
+* **Jessie Buckland Pérez** (2) [919963](https://platzi.com/comentario/919963/) 
 
-	
 	Clase fundamental!!! Gracias Rick, por explicar tan bien el comportamiento del lenguaje!!
 
-* **Alan Santiago** (2)
+* **Alan Santiago** (2) [894924](https://platzi.com/comentario/894924/) 
 
-	
 	¡Es demasiado cool entender cómo funciona todo lo que usas comúnmente! 🤘
 
-* **T-gold** (2)
+* **T-gold** (2) [879151](https://platzi.com/comentario/879151/) 
 
-	
 	PROTOTYPE ES COMO UNA CLASS PERO SE DEFINE DE OTRA FORMA
 	
 	Class Auto() {  
@@ -11485,211 +10752,175 @@ La keyword _new_ crea un nuevo objeto que “hereda” todas las propiedades del
 	const audi = new Automovil(“BMW”, 2015, “40.000”);  
 	audi.saludar();
 
-* **Daniel Hurtado** (2)
+* **Daniel Hurtado** (2) [706753](https://platzi.com/comentario/706753/) 
 
-	
 	El código que teníamos hasta el minuto 3:50 era un clousure no? Una función con una función dentro con la variable privada asignada (hero) y que cuando ejecutamos saludar recuerda esta variable.
 	
 	Corrijanme si me equivoco, intento repasar los conocimientos de clases anteriores 😃
 
-	* **efrainjaimes** (1)
+	* **efrainjaimes** [706753] (1)
 
-		
 		Creo que si, aunque creo que un Closure siempre retorna un funci’on (?)
 
-* **Sebastian Cardoso Castillo** (2)
+* **Sebastian Cardoso Castillo** (2) [701269](https://platzi.com/comentario/701269/) 
 
-	
 	Ahora que entendí esto se acabo la magia de new.
 
-* **john fredy quimbaya orozco** (1)
+* **john fredy quimbaya orozco** (1) [1117136](https://platzi.com/comentario/1117136/) 
 
-	
 	jajajajaja explote la cabeza 🤯🤯🤯🤯
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [1113492](https://platzi.com/comentario/1113492/) 
 
-	
 	🤯🤯🤯🤯
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1100390](https://platzi.com/comentario/1100390/) 
 
-	
 	Este curso me está volando la cabeza
 
-* **Joaquín Ignacio Ossandón Gómez** (1)
+* **Joaquín Ignacio Ossandón Gómez** (1) [1070741](https://platzi.com/comentario/1070741/) 
 
-	
 	Wow que denso, todo un desafío. ¡Maravilloso!  
 	¿Alguien me aclara?  
 	Se supone que incluso hasta el final (y tomando en cuenta que ya se vio en un curso pasado (si no mal recuerdo) de la carrera de JS), es una forma “antigua” de escribir el código de una “clase”, y que ahora se ocupa más “azúcar sintáctica” para hacer más comprensible el código.  
 	¿Me equivoco? (entiendo claro cada quien escribe código como quiera y sigue siendo totalmente válido)
 
-	* **Raundy Ibarras** (2)
+	* **Raundy Ibarras** [1070741] (2)
 
-		
 		La intención de hacerlo de esta forma, es comprender la forma nativa en la que esta estructurado. Tal como dieces, habrán casos donde no encontremos con casos así, o con la definición de clases, para ello ya sabemos como es su estructura y como se puede manejar.
 
-* **darth-revan** (1)
+* **darth-revan** (1) [1055240](https://platzi.com/comentario/1055240/) 
 
-	
 	Cuando vienes de un background de varios lenguaje tipo C y C++ comprendes mas rápido 🤠.  
 	Muy interesante la clase pero solo me quedare con **_prototype_** y la forma de **instanciar** este tipo de **pseudoclases** ** _new_**.
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1046112](https://platzi.com/comentario/1046112/) 
 
-	
 	Muy buena
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [1045824](https://platzi.com/comentario/1045824/) 
 
-	
 	Iba todo bien hasta que me de verdad me voló la cabeza cuando llegó a new… 😦
 
-* **José Alejandro Muñoz Ruiz** (1)
+* **José Alejandro Muñoz Ruiz** (1) [1037984](https://platzi.com/comentario/1037984/) 
 
-	
 	[https://medium.com/javascript-in-plain-english/proto-vs-prototype-in-js-140b9b9c8cd5](url)
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1025728](https://platzi.com/comentario/1025728/) 
 
-	
 	Todos los objetos de JavaScript heredan propiedades y métodos de un prototipo.
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1025706](https://platzi.com/comentario/1025706/) 
 
-	
 	muy buena clase, la azúcar sintáctica facilita mucho entender el código.
 
-* **Leandro Terrado** (1)
+* **Leandro Terrado** (1) [1014804](https://platzi.com/comentario/1014804/) 
 
-	
 	Muy buena clase, con los ejemplos claro. Es muy bueno entender como funciona el lenguaje.
 
-* **Alexander Henry Obispo Buendia** (1)
+* **Alexander Henry Obispo Buendia** (1) [1014198](https://platzi.com/comentario/1014198/) 
 
-	
 	Me encantó esta clase :3
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [988864](https://platzi.com/comentario/988864/) 
 
-	
 	El keyword “new” es azúcar sintáctica, lo que hace es que dentro de nuestra función constructora asigna el this con: this = Object.create(functionName.propotype) y retorna por defecto el objeto creado, permitiendo que nuestra función constructora sea mas fácil de leer
 
-* **alvaritokore** (1)
+* **alvaritokore** (1) [986194](https://platzi.com/comentario/986194/) 
 
-	
 	‘new’ es sugar syntax para Object.create()
 
-* **alvaritokore** (1)
+* **alvaritokore** (1) [986184](https://platzi.com/comentario/986184/) 
 
-	
 	Esta clase da mucho valor. De las mejores!!
 
-* **matias-alexander-ibarra-trujil** (1)
+* **matias-alexander-ibarra-trujil** (1) [985774](https://platzi.com/comentario/985774/) 
 
-	
 	cuando uno crea una clase con class esta haciendo lo mismo (?)
 
-	* **alvaritokore** (1)
+	* **alvaritokore** [985774] (1)
 
-		
 		aparentemente si, al igual que la palabra ‘new’ , la palabra ‘class’ también es lo que él llama “syntactic sugar”.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [985774] (1)
 
-		
 		De todas maneras esto se ve más adelante :P´
 
-* **luis-valbuena** (1)
+* **luis-valbuena** (1) [983736](https://platzi.com/comentario/983736/) 
 
-	
 	Vaya pedazo clase! 10/10, indispensable.
 
-* **Ricardo Tornero** (1)
+* **Ricardo Tornero** (1) [973547](https://platzi.com/comentario/973547/) 
 
-	
 	¡Maestro!
 
-* **Eduardo Alvarez Castañeda** (1)
+* **Eduardo Alvarez Castañeda** (1) [946106](https://platzi.com/comentario/946106/) 
 
-	
 	Lejos, la mejor clase hasta ahora sobre Javascript! 10 mas iva capo!
 
-* **Byhako** (1)
+* **Byhako** (1) [887905](https://platzi.com/comentario/887905/) 
 
-	
 	Cuando “clono” un objeto con Object.assign o con { … objeto } solo puedo obtener los valores de las claves, pero lo que esta dentro de `__proto__` se pierde. ¿Como puedo clonar un objeto incluyendo el contenido de `__proto__`?
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [886871](https://platzi.com/comentario/886871/) 
 
-	
 	esta clase esta genial me gusta hacer todo de manera nativa, estoy reforzando muchas cosas que daba por hecho aaa que emocion
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [886868](https://platzi.com/comentario/886868/) 
 
-	
 	Tengo entendido que practicamente `Prototype` es lo mas sercano a POO
 
-* **johannpino** (1)
+* **johannpino** (1) [717845](https://platzi.com/comentario/717845/) 
 
-	
 	new es una atajo, es un azúcar sintáctica. Es algo que le añadimos al lenguaje para facilitar los proceso
 
-* **Cristhian Camilo Delgado Pazos** (1)
+* **Cristhian Camilo Delgado Pazos** (1) [706055](https://platzi.com/comentario/706055/) 
 
-	
 	wow que buenos conceptos
 
-* **Fernando Hernandez** (1)
+* **Fernando Hernandez** (1) [701898](https://platzi.com/comentario/701898/) 
 
-	
 	O: Que clase…
 
-* **Eduardo Zamarron Muñoz** (1)
+* **Eduardo Zamarron Muñoz** (1) [84409](https://platzi.com/comentario/1050395/) 
 ¿Cómo hizo el profecor para cambiar de una sola vez algunos “Zelda”? min 2:00
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [84409] (1)
 
-		
 		Ctrl + D 😄
 
-* **Ang.O** (1)
+* **Ang.O** (1) [74171](https://platzi.com/comentario/847870/) 
 prototype es poner los objetos que tengo en conjunto?
 
-	* **cesar88** (1)
+	* **cesar88** [74171] (1)
 
-		
 		te recomiendo que vayas urgente al curso de fundamentos de JS… y dps vuelvas a este!
 
-* **Ang.O** (1)
+* **Ang.O** (1) [74170](https://platzi.com/comentario/847865/) 
 que es un contructor?
 
-	* **dylas** (1)
+	* **dylas** [74170] (1)
 
-		
 		El constructor es el metodo o funcion que inicializa unobjeto de una clase
 
-* **omejenes** (0)
+* **omejenes** (0) [86499](https://platzi.com/comentario/1097408/) 
 Que hay de la palabra reservada class?? ``class Hero{ constructor(name){ this.name = name; } saludar(){ co...
 
-	* **Jhon Alexander Romero Gonzaga** (1)
+	* **Jhon Alexander Romero Gonzaga** [86499] (1)
 
-		
 		Hola omejenes  
 		La palabra reservada `class` solo es syntactic sugar, sigue trabajando con prototipos, ahora es mejor utilizar como dices `class` ya que ayuda mucho al orden y lectura, pero a veces te puedes topar con codigo antiguo (aunque no es tanto el problema) y otra es porque se tiene que saber como funciona para no tomarse mucho tiempo experimentando para recien entender lo que ya explican en esta clase.
 
-* **Sergio Eduardo Sinuco Leon** (0)
+* **Sergio Eduardo Sinuco Leon** (0) [84002](https://platzi.com/comentario/1040461/) 
 ¿Osea que new Hero() === Object.create(Hero.prototype) ?
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [84002] (1)
 
-		
 		Si, son similares. Recuerda que en JavaScript las clases no existen, todo se hace con los prototipos y la herencia prototipal.
 		
 		Te dejo la documentación de [Object.create()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create) y del operador [new](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new) por si quieres profundizar aún más en este tema.
 
-## 0110. Herencia Prototipal
+## 0110. Herencia Prototipal [22165](https://platzi.com/clases/1642-javascript-profesional/22165-herencia-prototipal/)
 
 ### Descripción:
 
@@ -11702,36 +10933,30 @@ La función **hasOwnProperty** sirve para verificar si una propiedad es parte de
 
 ### Comentarios:
 
-* **braco** (32)
+* **braco** (32) [931613](https://platzi.com/comentario/931613/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 10.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2010-7ae67edd-6ac5-497f-9fd2-3a302861265c.jpg)
 
-	* **Javier Armando Vargas Vega** (2)
+	* **Javier Armando Vargas Vega** [931613] (2)
 
-		
 		Muchas gracias por ese resumen. Es fantástico
 
-	* **John Botero** (2)
+	* **John Botero** [931613] (2)
 
-		
 		Excelentes apuntes como siempre.
 
-	* **Juan Jose Mayorga Garcia** (2)
+	* **Juan Jose Mayorga Garcia** [931613] (2)
 
-		
 		wow! que increíble resumen! muchas gracias!
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [931613] (1)
 
-		
 		Muy buenos tus apuntes. Gracias 😃
 
-* **Jean Manzo** (16)
+* **Jean Manzo** (16) [730517](https://platzi.com/comentario/730517/) 
 
-	
 	El Prototype y la herencia prototipal, a mi entender (corríjanme si me equivoco) me la imagino a buscar una persona en un hotel. ¿Por que? Bueno, supongamos que queremos encontrar a Raquel… ¿Cuál sería el primer lugar donde podríamos comenzar a buscar? Pues en su habitación. Esta búsqueda sería como la que se hace dentro del objeto, en el primer nivel.  
 	  
 	Si no encontramos a Raquel, lo siguiente sería salir y buscar en el corredor, piso por piso o la azotea, que sigue siendo un espacio privado compartido en el que se puede buscar a un huésped. En mi mente lo imagino como el primer espacio en memoria de Prototype (el primer Prototype de nuestro objeto).  
@@ -11740,46 +10965,38 @@ La función **hasOwnProperty** sirve para verificar si una propiedad es parte de
 	  
 	En realidad pienso que es muy similar a como funcionan las clases en otros lenguajes. En el sentido en que se reciclan los espacios de memoria mediante el uso de los objetos. Javascript lo hizo muy bien con esta solución.
 
-* **Sebastian Cardoso Castillo** (14)
+* **Sebastian Cardoso Castillo** (14) [701272](https://platzi.com/comentario/701272/) 
 
-	
 	Cuando inspeccionaba código en los navegadores siempre vi al **proto** como una zona oscura donde no miraba. Ahora que lo entiendo mejor ya no me da miedo inspeccionar hasta el fondo.
 
-* **Iair Poloniecki** (9)
+* **Iair Poloniecki** (9) [835350](https://platzi.com/comentario/835350/) 
 
-	
 	Esta nota es muy buen complemento a esta clase: [FreeCodeCamp: All you need to know to understand JavaScript’s Prototype](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)
 	
 	Excelente clase!!
 
-	* **Jorge Mendez Ortega** (1)
+	* **Jorge Mendez Ortega** [835350] (1)
 
-		
 		los de `FreeCodeCamp` son la onda tienen cursos gratuitos muy buenos
 
-	* **David Trespalacios** (1)
+	* **David Trespalacios** [835350] (1)
 
-		
 		Muy clarificante, Gracias!
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [835350] (1)
 
-		
 		Gracias!
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [835350] (1)
 
-		
 		Gracias!
 
-	* **Jose Arturo Enriquez Hurtado** (1)
+	* **Jose Arturo Enriquez Hurtado** [835350] (1)
 
-		
 		Gracias!
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [725519](https://platzi.com/comentario/725519/) 
 
-	
 	## Herencia prototipal
 	
 	‌
@@ -11886,69 +11103,56 @@ La función **hasOwnProperty** sirve para verificar si una propiedad es parte de
 	
 	El lenguaje busca el método en el objeto, sino existe se va al **proto** y si no está en el **proto** se va al **proto** del **proto** , allí acaba. El ultimo **proto** es `Object`, es el punto de partida de todos los objetos de JavaScript. El **proto** de **Object** no existe, es aquí cuando la búsqueda se detiene, si ejecutamos una función que no existe en el **proto** nos saldrá un error. ¿Vale la pena entenderlo? Pos su puesto, nos ofrece un panorama completo de las herencias comprender esto.
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [725519] (2)
 
-		
 		Gracias.
 
-	* **Rafael Enrique Gonzalez** (2)
+	* **Rafael Enrique Gonzalez** [725519] (2)
 
-		
 		Gracias
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [725519] (1)
 
-		
 		desde la clase anterior buscos tus notas. grande Crack
 
-	* **Fernando Vallejo** (1)
+	* **Fernando Vallejo** [725519] (1)
 
-		
 		Excelente!
 
-* **LeoEsp** (7)
+* **LeoEsp** (7) [1012567](https://platzi.com/comentario/1012567/) 
 
-	
 	Recuerdo que en el curso de Programación básica Freddy hablaba muy apenas de lo que era prototype, y que no nos preocupáramos por prototype hasta que profundizáramos, ahora entiendo sus razones
 
-	* **Andrés Gutierrez** (1)
+	* **Andrés Gutierrez** [1012567] (1)
 
-		
 		ese es el mejor curso de platzi, change my mind
 
-	* **Andrés Gutierrez** (2)
+	* **Andrés Gutierrez** [1012567] (2)
 
-		
 		también creo que dijo que cuando fueramos bien pros sabríamos que es proto, así que ya somos mini pros de javascript jaja
 
-* **ValentinGutierrez** (5)
+* **ValentinGutierrez** (5) [996181](https://platzi.com/comentario/996181/) 
 
-	
 	Repasando de nuevo jaja el examen me mató!
 
-* **Luis Miguel Rodriguez** (5)
+* **Luis Miguel Rodriguez** (5) [777052](https://platzi.com/comentario/777052/) 
 
-	
 	A todo esto es mas fácil y legible para otros desarolladores usar class y su herencia extends.
 
-* **Daniel .** (5)
+* **Daniel .** (5) [717348](https://platzi.com/comentario/717348/) 
 
-	
 	Me explotó la cabeza!
 
-* **Victor Lozada** (4)
+* **Victor Lozada** (4) [757737](https://platzi.com/comentario/757737/) 
 
-	
 	Aqui se muestra todo el tema de manera resumida, me ayudo bastante a terminar de entender: <https://medium.com/better-programming/prototypes-in-javascript-5bba2990e04b>
 
-* **Guillermo Moreno Lopez** (3)
+* **Guillermo Moreno Lopez** (3) [993873](https://platzi.com/comentario/993873/) 
 
-	
 	Tengo que repasar esta clase
 
-* **Betty Rossana Jimenez Cedeño** (3)
+* **Betty Rossana Jimenez Cedeño** (3) [771143](https://platzi.com/comentario/771143/) 
 
-	
 	Herencia prototipal, nos permite ver si el obj es propio, o es heredado.
 	
 	Es la raiz de todo.  
@@ -11962,100 +11166,84 @@ La función **hasOwnProperty** sirve para verificar si una propiedad es parte de
 	
 	Uno es del objeto : el otro es heredado.
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [728266](https://platzi.com/comentario/728266/) 
 
-	
 	El lenguaje de juguete (que muchos programadores así consideraban) al día de hoy se ha convertido en algo complejo.
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [728266] (1)
 
-		
 		Cierto… Es un poco tedioso esta parte con JavaScript.
 
-* **vickiavola** (2)
+* **vickiavola** (2) [1083003](https://platzi.com/comentario/1083003/) 
 
-	
 	Les comparto éste video que me ayudó a profundizar el conocimiento de éste tema.
 	
 	<https://www.youtube.com/watch?v=1hll3TMhjCw>
 
-* **MartinMB** (2)
+* **MartinMB** (2) [1049960](https://platzi.com/comentario/1049960/) 
 
-	
 	Tremendo
 
-* **Chrystian Fabian Lozano Ramirez** (2)
+* **Chrystian Fabian Lozano Ramirez** (2) [949844](https://platzi.com/comentario/949844/) 
 
-	
 	me dolió la cabeza
 
-	* **durbonca** (2)
+	* **durbonca** [949844] (2)
 
-		
 		nunca pares de aprender… nunca pares de aprender… nunca pares de aprender… nunca… nunca… NUNCA!!!
 
-* **Jessie Buckland Pérez** (2)
+* **Jessie Buckland Pérez** (2) [78371](https://platzi.com/comentario/920008/) 
 Actualmente estoy haciendo pruebas con mi navegador y obtengo resultados distintos, ¿puede deberse esto a que como ha comentado el profes...
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1095231](https://platzi.com/comentario/1095231/) 
 
-	
 	Estuvo densa la cosa, pero ahora comprendo la herencia prototipal
 
-* **Diego Mierez** (1)
+* **Diego Mierez** (1) [1076681](https://platzi.com/comentario/1076681/) 
 
-	
 	wow! quedé impresionado 😃
 
-* **Joaquín Ignacio Ossandón Gómez** (1)
+* **Joaquín Ignacio Ossandón Gómez** (1) [1072923](https://platzi.com/comentario/1072923/) 
 
-	
 	Buenísima explicación.  
 	Al final de vídeo quedé como 🤯 con lo que se viene
 
-* **juandnb** (1)
+* **juandnb** (1) [1066199](https://platzi.com/comentario/1066199/) 
 
-	
 	Exploto mi cabeza… mucha practica para entenderlo muy bien
 
-* **Hector Silvar Villaseñor** (1)
+* **Hector Silvar Villaseñor** (1) [1056352](https://platzi.com/comentario/1056352/) 
 
-	
 	Excelente clase 😃
 	
 	Si vienen de cualquier otro de lenguaje orientado a objetos que soporte herencia y/o herencia múltiple(en mi caso Java), hace mas sentido el como funciona prototype para Javasrcipt.
 
-* **Enrique Devars (Platzi)** (1)
+* **Enrique Devars (Platzi)** (1) [1054671](https://platzi.com/comentario/1054671/) 
 
-	
 	El concepto de prototype es parecido al de una lista enlazada.
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [986068](https://platzi.com/comentario/986068/) 
 
-	
 	Wow pero que buena clase 😉
 
-* **elvis.sanchez** (1)
-![Screen Shot 2020-02-09 at 12.47.35.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-02-09%20at%2012.47.35-9f19bc02-4e58-41e6-9b0b-2fddd5b09260.jpg)
-
-* **Emanuel Catriquil** (1)
-
+* **elvis.sanchez** (1) [975619](https://platzi.com/comentario/975619/) 
 	
+	![Screen Shot 2020-02-09 at 12.47.35.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-02-09%20at%2012.47.35-9f19bc02-4e58-41e6-9b0b-2fddd5b09260.jpg)
+
+* **Emanuel Catriquil** (1) [960514](https://platzi.com/comentario/960514/) 
+
 	Con toda razón uno puede utilizar class extend y demas, es buenisimo entender todo esto, gracias!
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [907688](https://platzi.com/comentario/907688/) 
 
-	
 	Object es para JavaScript lo que LUCA a la vida en la tierra: el último ancesto común 🤘😎
 
-* **Juan Barboza** (1)
+* **Juan Barboza** (1) [900077](https://platzi.com/comentario/900077/) 
 
-	
 	Excelente! entendiendo las profundidades de javascript
 
-* **Leonardo Daniel Flores Hernandez** (1)
+* **Leonardo Daniel Flores Hernandez** (1) [722313](https://platzi.com/comentario/722313/) 
 
-	
 	Hola !  
 	Por qué es que se usa:
 	``` 
@@ -12074,7 +11262,7 @@ Actualmente estoy haciendo pruebas con mi navegador y obtengo resultados distint
 	para asignar metodos al objeto ?  
 	ambos son llamados con zelda.saludar();
 
-	* **Daniel Alberto Esquinazi** (3)
+	* **Daniel Alberto Esquinazi** [722313] (3)
 
 		```
 		    functionHero(name){
@@ -12101,53 +11289,47 @@ Actualmente estoy haciendo pruebas con mi navegador y obtengo resultados distint
 		    
 		```
 
-	* **Cesar Augusto Barco de Gouveia** (1)
+	* **Cesar Augusto Barco de Gouveia** [722313] (1)
 
-		
 		Es lo mismo, siempre y cuando se llame con `new` el motor asignará `object.prototype.loquesea` a `this`.
 
-	* **Leonardo Daniel Flores Hernandez** (3)
+	* **Leonardo Daniel Flores Hernandez** [722313] (3)
 
-		
 		Al final no es lo mismo, al asignarlo con prototype, se crea una referencia a saludar; pero si se asigna desde el cuerpo de la función sí pertenece al objeto Hero.
 
-	* **Kingsman7** (3)
+	* **Kingsman7** [722313] (3)
 
-		
 		tu respuesta esta en la clase pasada.
 		
 		donde en Hero.prototype.saludar es un metodo que el objeto Hero obtiene  
 		y this.saludar = function pertenese al objeto y no es un metodo que puede ser heredable.
 
-	* **Leonardo Daniel Flores Hernandez** (1)
+	* **Leonardo Daniel Flores Hernandez** [722313] (1)
 
-		
 		exacto, gracias, me di cuenta que en un caso, se va al prototype y en el otro no 😄
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [706871](https://platzi.com/comentario/706871/) 
 
-	
 	Entonces teóricamente hablando en JS, cuando creamos una ''instancia" de una clase con new … (), lo que estamos haciendo sería traer todas las funciones (herencia) hacia nuestro nuevo objeto (zelda, link)? Esto no pasa en otros lenguajes cierto?
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [706871] (2)
 
-		
 		En Javascript cuando creas una instancia con la palabra new, estas creando un objeto con las propiedades que le sean asignadas en el constructor (pueden ser variables o funciones) y una propiedad muy especial que es el **prototype** o ****proto**** la cual hace referencia a las propiedades y funciones de la clase de la que se hereda, si no está definida por default todos los objetos heredan de Object.
 		
 		Está es la llamada herencia prototipada muy particular de Javascript, en otros lenguajes funciona diferente.
 
-# Cómo funciona JavaScript
+# Cómo funciona JavaScript [4444]
 
-## 0120. Parsers y el Abstract Syntax Tree
+## 0120. Parsers y el Abstract Syntax Tree [22166](https://platzi.com/clases/1642-javascript-profesional/22166-parsers-y-el-abstract-syntax-tree/)
 
 ### Descripción:
 
 
 El JS Engine recibe el código fuente y lo procesa de la siguiente manera:
 
-  * El **parser** descompone y crea tokens que integran el **AST**.
-  * Se compila a **bytecode** y se ejecuta.
-  * Lo que se pueda se **optimiza a machine code** y se reemplaza el código base.
+* El **parser** descompone y crea tokens que integran el **AST**.
+* Se compila a **bytecode** y se ejecuta.
+* Lo que se pueda se **optimiza a machine code** y se reemplaza el código base.
 
 
 
@@ -12163,26 +11345,22 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 
 ### Comentarios:
 
-* **braco** (26)
+* **braco** (26) [938312](https://platzi.com/comentario/938312/) 
 
-	
 	apuntes de la clase:
 	
 	![JS – 11.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2011-519320fe-4af8-4c3b-902c-c85fd7a1ada4.jpg)
 
-	* **René Sanchez** (1)
+	* **René Sanchez** [938312] (1)
 
-		
 		Muy buen aporte 💚
 
-	* **Marcos Facundo Espinosa Maiolino** (1)
+	* **Marcos Facundo Espinosa Maiolino** [938312] (1)
 
-		
 		Genial!
 
-* **Cesar Augusto Barco de Gouveia** (22)
+* **Cesar Augusto Barco de Gouveia** (22) [725657](https://platzi.com/comentario/725657/) 
 
-	
 	## Parsers y el Abstract Syntax Tree
 	
 	‌
@@ -12207,11 +11385,11 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	‌
 	
-	  * **Bytecode** : es un código de más bajo nivel que permite que se ejecute mucho más rápido.
+	* **Bytecode** : es un código de más bajo nivel que permite que se ejecute mucho más rápido.
 	
-	  * **Profiling data** : encuentra todos los puntos optimizables del código para luego dar paso al _optimizer compiler_
+	* **Profiling data** : encuentra todos los puntos optimizables del código para luego dar paso al _optimizer compiler_
 	
-	  * **Optimized code**
+	* **Optimized code**
 	
 	
 	
@@ -12264,7 +11442,7 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	‌
 	
-	  * [Tokens | Demo](https://esprima.org/demo/parse.html)
+	* [Tokens | Demo](https://esprima.org/demo/parse.html)
 	
 	
 	
@@ -12326,7 +11504,7 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	‌
 	
-	  * [AST | Example](https://astexplorer.net/)
+	* [AST | Example](https://astexplorer.net/)
 	
 	
 	
@@ -12334,72 +11512,60 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	Allí veremos como se va ramificando nuestro programa y va haciéndolo en forma de patrón anidado profundo, aparece valores que nuestro programa terminará ejecutando.
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [725657] (1)
 
-		
 		Gracias.
 
-	* **OmarGbet** (1)
+	* **OmarGbet** [725657] (1)
 
-		
 		Más de estos resumenes por favor!
 
-	* **T-gold** (1)
+	* **T-gold** [725657] (1)
 
-		
 		OMARBET  
 		si querees mas de estos resumenes tenes todo  
 		el curso escrito aca
 		
 		<https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/escuela-de-javascript/curso-profesional-de-javascript#nodelist>
 
-* **jaguarjs** (19)
+* **jaguarjs** (19) [703084](https://platzi.com/comentario/703084/) 
 
-	
 	En verdad este curso me voló la cabeza !
 	
 	Me van a faltar estrellas para puntuarlo
 
-	* **elviejomenu** (1)
+	* **elviejomenu** [703084] (1)
 
-		
 		Totalmente , es un curso que estalla la cabeza!!
 
-* **Alexander Henry Obispo Buendia** (16)
+* **Alexander Henry Obispo Buendia** (16) [1018728](https://platzi.com/comentario/1018728/) 
 
-	
 	Apuntes  
 	![](https://i.imgur.com/EOQFwj0.png)
 
-	* **Pablitvs** (4)
+	* **Pablitvs** [1018728] (4)
 
-		
 		muy bueno este apunte broder!
 
-* **jasanhdz** (12)
+* **jasanhdz** (12) [753605](https://platzi.com/comentario/753605/) 
 
-	
 	Ey chicos me tome el tiempo para traerles las mejores notas del curso, denle una checada porfavor a mis notas, y si son de su agrado dejenme un like en github. Saludos 😄  
 	[Notas](https://github.com/JasanHdz/javascript-professional/tree/master/notes) o <https://github.com/JasanHdz/javascript-professional/tree/master/notes>
 
-	* **John Botero** (1)
+	* **John Botero** [753605] (1)
 
-		
 		Muy buena estructura gracias por compartir.
 
-* **efrainjaimes** (8)
+* **efrainjaimes** (8) [715679](https://platzi.com/comentario/715679/) 
 
-	
 	Nada como entender las cosas desde su raíz, te permite tomar decisiones conscientes al momento de desarrollar (en este caso) y no sentir que est’as haciendo magia.
 
-* **David Flores** (7)
+* **David Flores** (7) [769165](https://platzi.com/comentario/769165/) 
 
-	
 	Cuando se habla de** lenguajes de alto nivel**, esto quiere decir que **son mas fáciles de interpretar por un humano** y cuando se dice que son **lenguajes de bajo nivel** , quiere decir que **son mas fáciles de interpretar por las maquinas**
 
-* **Maximo Martinez Soria** (5)
+* **Maximo Martinez Soria** (5) [901592](https://platzi.com/comentario/901592/) 
 
-	
 	## Parsers y Abstract Syntax Tree
 	
 	JS Engine:
@@ -12427,17 +11593,17 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	**_Eager parsing:_**
 	
-	  * Encuentra syntax errors.
-	  * Crea el AST.
-	  * Construye scopes.
+	* Encuentra syntax errors.
+	* Crea el AST.
+	* Construye scopes.
 	
 	
 	
 	**_Lazy parsing:_**
 	
-	  * Doble de rápido.
-	  * No crea el AST.
-	  * Construye scopes parcialmente.
+	* Doble de rápido.
+	* No crea el AST.
+	* Construye scopes parcialmente.
 	
 	
 	
@@ -12448,43 +11614,38 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	**Se usa en:**
 	
-	  * JS Engine
-	  * Bundlers: Webpack, Parcel.
-	  * Transpilers: Babel.
-	  * Linters: ESlint, Prettier.
-	  * Type checkers: TypeScript, Flow
-	  * Syntax highlighters.
+	* JS Engine
+	* Bundlers: Webpack, Parcel.
+	* Transpilers: Babel.
+	* Linters: ESlint, Prettier.
+	* Type checkers: TypeScript, Flow
+	* Syntax highlighters.
 	
 	
 
-* **OmarGbet** (5)
+* **OmarGbet** (5) [769807](https://platzi.com/comentario/769807/) 
 
-	
 	Alguien me puede explicar como es que nosotros hacemos para influir en Eager Parsing y Lazy Parsing por favor.
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [728295](https://platzi.com/comentario/728295/) 
 
-	
 	Ahora entiendo por que la ignorancia es la felicidad de muchos. Nunca imaginé que aprender JS provocaría el que pisara estos terrenos. Nunca llevé lenguajes formales y autómatas en la universidad. Soy licenciado en informática y sé programar.
 
-* **David Alejandro Mosquera Moreno** (3)
+* **David Alejandro Mosquera Moreno** (3) [922815](https://platzi.com/comentario/922815/) 
 
-	
 	Dejo un post hecho por [**@lydiahallie**](https://twitter.com/lydiahallie) que también explica muy bien y detalladamente cómo funciona el Motor de JavaScript.
 	
 	🚀⚙️ [_**JavaScript Visualized: the JavaScript Engine**_](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 
-* **pabloverduzcos** (3)
+* **pabloverduzcos** (3) [710503](https://platzi.com/comentario/710503/) 
 
-	
 	Debemos de pensar en un _parser_ como el traductor de codigo que pasa el codigo que nosotros escribimos a codigo que nuestra computadora pueda entender.
 	
 	Fuente: [Javascript Syntax Parser  
 	](https://medium.com/@easyexpresssoft/javascript-syntax-parser-4b7f3f320ebe)
 
-* **matias-alexander-ibarra-trujil** (2)
+* **matias-alexander-ibarra-trujil** (2) [990159](https://platzi.com/comentario/990159/) 
 
-	
 	Tokenizing/Lexing: fragmentar una cadena de caracteres en trozos significativos (al lenguaje) llamados tokens(fichas). Por ejemplo, considere el programa: var a = 2;. Este programa probablemente se dividiría en los siguientes tokens: var, a, =, 2 y ;. El espacio en blanco puede o no persistir como un símbolo, dependiendo de si es significativo o no.  
 	Nota: La diferencia entre el tokenizing y el lexing es sutil y académica, pero se centra en si estos token se identifican o no de una manera sin estado o con estado. En pocas palabras, si el token invocara reglas de análisis de estado para determinar si a debe ser considerado un token distinto o sólo una parte de otro token, eso sería lexing.
 	
@@ -12496,60 +11657,52 @@ El _parser_ es del 15% al 20% del proceso de ejecución por lo que hay que usar 
 	
 	Nota: Los detalles de cómo el motor maneja los recursos del sistema son más profundos de lo que vamos a indagar, así que daremos por sentado que el motor es capaz de crear y almacenar variables según sea necesario.
 
-* **Steven Benjamín Diaz Flores** (2)
+* **Steven Benjamín Diaz Flores** (2) [706210](https://platzi.com/comentario/706210/) 
 
-	
 	Muy bueno el curso enserio hasta ahorita.
 
-* **Pablitvs** (1)
+* **Pablitvs** (1) [1037618](https://platzi.com/comentario/1037618/) 
 
-	
 	le pifia un poco la transcripción jajaj
 
-* **miguelangelsoler** (1)
+* **miguelangelsoler** (1) [952631](https://platzi.com/comentario/952631/) 
 
-	
 	[Una buena referencia para entender el code splitting](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting)
 
-* **Nycgia** (1)
+* **Nycgia** (1) [943493](https://platzi.com/comentario/943493/) 
 
-	
 	¿Qué hace un parser?
 
-	* **matias-alexander-ibarra-trujil** (1)
+	* **matias-alexander-ibarra-trujil** [943493] (1)
 
-		
 		Tokenizing/Lexing: fragmentar una cadena de caracteres en trozos significativos (al lenguaje) llamados tokens(fichas). Por ejemplo, considere el programa: var a = 2;. Este programa probablemente se dividiría en los siguientes tokens: var, a, =, 2 y ;. El espacio en blanco puede o no persistir como un símbolo, dependiendo de si es significativo o no.  
 		Nota: La diferencia entre el tokenizing y el lexing es sutil y académica, pero se centra en si estos token se identifican o no de una manera sin estado o con estado. En pocas palabras, si el token invocara reglas de análisis de estado para determinar si a debe ser considerado un token distinto o sólo una parte de otro token, eso sería lexing.
 
-* **Denilson Alexis Arguello Noguera** (1)
+* **Denilson Alexis Arguello Noguera** (1) [923255](https://platzi.com/comentario/923255/) 
 
-	
 	Perfecto con la explicación del comienzo de javascript, estas cosas se necesitan tarde o temprano
 
-* **Maximo Martinez Soria** (1)
+* **Maximo Martinez Soria** (1) [77282](https://platzi.com/comentario/901549/) 
 Entonces el Parser y el AST son como componentes o partes internas del JS engine?
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [77282] (1)
 
-		
 		Más bien son estructuras de datos que tiene JS para agilizar su proceso de interpretación.  
 		  
 		Te recomiendo muchísimo el [Curso Básico de Algoritmos](https://platzi.com/clases/algoritmos/).
 
-* **Marco Antonio Macedo Preciado** (1)
+* **Marco Antonio Macedo Preciado** (1) [71063](https://platzi.com/comentario/789156/) 
 ¿Como haríamos para incluir nuestras reglas en eslint?🤔
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [71063] (1)
 
-		
 		Puedes seguir estas guías:
 		
 		👉 <https://eslint.org/docs/developer-guide/working-with-rules>  
 		👉 <https://eslint.org/docs/developer-guide/shareable-configs>  
 		👉 <https://dev.to/spukas/how-to-write-your-first-eslint-plugin-145>
 
-## 0130. Abstract Syntax Tree en Práctica
+## 0130. Abstract Syntax Tree en Práctica [22167](https://platzi.com/clases/1642-javascript-profesional/22167-abstract-syntax-tree-en-practica/)
 
 ### Descripción:
 
@@ -12562,18 +11715,17 @@ Entonces el Parser y el AST son como componentes o partes internas del JS engine
 
 ### Comentarios:
 
-* **Ernesto Vizcaíno Alvarado** (11)
+* **Ernesto Vizcaíno Alvarado** (11) [707319](https://platzi.com/comentario/707319/) 
 
-	
 	WOW 🤯  
 	![](https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif)
 
-* **Alan Santiago** (7)
-![](https://i.gifer.com/EsVg.gif)
-
-* **Cesar Augusto Barco de Gouveia** (7)
-
+* **Alan Santiago** (7) [895329](https://platzi.com/comentario/895329/) 
 	
+	![](https://i.gifer.com/EsVg.gif)
+
+* **Cesar Augusto Barco de Gouveia** (7) [726025](https://platzi.com/comentario/726025/) 
+
 	## Abstract Syntax Tree en Práctica
 	
 	‌
@@ -12631,25 +11783,21 @@ Entonces el Parser y el AST son como componentes o partes internas del JS engine
 	
 	Con `context.report()` podemos mandar un _warning_ y además podemos solucionar el problema que se haya presentado.
 
-	* **Cesar Augusto Barco de Gouveia** (3)
+	* **Cesar Augusto Barco de Gouveia** [726025] (3)
 
-		
 		[¡Mira el curso en versión escrita acá! Está diseñado para tí.](https://augdiaugus.gitbook.io/platzi/escuela-de-javascript/curso-profesional-de-javascript)
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [726025] (1)
 
-		
 		Gracias!
 
-	* **MizaelpVielma** (1)
+	* **MizaelpVielma** [726025] (1)
 
-		
 		Estuve revisando tu resumen en github, y que genial te quedó, buen trabajo.  
 		🤘🏽🤓
 
-* **Leonardo Daniel Flores Hernandez** (6)
+* **Leonardo Daniel Flores Hernandez** (6) [731016](https://platzi.com/comentario/731016/) 
 
-	
 	Estás usando Firefox y no te sale el ejercicio?! Creo que el AST se forma diferente en el motor que usa Firefox (SpiderMonkey) y tiene algunas diferencias para accesar a los nodos, pero examinándolo, debería resultar, al final pude implementar la regla asi:
 	``` 
 	    exportdefaultfunction(context) {
@@ -12681,168 +11829,137 @@ Entonces el Parser y el AST son como componentes o partes internas del JS engine
 	
 	Sí, uso Firefox … Qué me ve Ramirez!?
 
-	* **aerama** (2)
+	* **aerama** [731016] (2)
 
-		
 		Firefox developer edition, esta genial!
 
-* **iscpatricio** (4)
+* **iscpatricio** (4) [832102](https://platzi.com/comentario/832102/) 
 
-	
 	Esta muy buenisimo este curso, yo que creia saber de JavaScript jeje
 
-* **pabloverduzcos** (4)
+* **pabloverduzcos** (4) [710535](https://platzi.com/comentario/710535/) 
 
-	
 	¡Conocer como funcionan las cosas detras de escenas es asombroso!
 
-* **Ricardo Martínez Murillo** (3)
+* **Ricardo Martínez Murillo** (3) [948584](https://platzi.com/comentario/948584/) 
 
-	
 	No se por que, pero siento como que estoy programando el lenguaje jaja
 
-* **diego-serrano** (3)
+* **diego-serrano** (3) [729441](https://platzi.com/comentario/729441/) 
 
-	
 	Este curso esta grandioso.
 
-* **MartinMB** (2)
+* **MartinMB** (2) [1050375](https://platzi.com/comentario/1050375/) 
 
-	
 	wtf
 
-* **uncristianr** (2)
+* **uncristianr** (2) [949942](https://platzi.com/comentario/949942/) 
 
-	
 	este curso es brutal!, mi mente explota en cada clase 😮
 
-* **Héctor Iván Alfaro Ramírez** (2)
+* **Héctor Iván Alfaro Ramírez** (2) [945938](https://platzi.com/comentario/945938/) 
 Todo eso por hacer una variable wtf!
 
-* **Antonio Madrid** (2)
+* **Antonio Madrid** (2) [911712](https://platzi.com/comentario/911712/) 
 
-	
 	Estaría genial tener un curso dedicado a ESLint y AST para crear tus propios estilos. Es un tema complejo a la vez que interesante.
 
-* **Maximo Martinez Soria** (2)
+* **Maximo Martinez Soria** (2) [901594](https://platzi.com/comentario/901594/) 
 
-	
 	Increible todo lo que no sabia que no sabia de Javascript.
 
-* **Juan Barboza** (2)
+* **Juan Barboza** (2) [900293](https://platzi.com/comentario/900293/) 
 
-	
 	Profundizando aún más en las complejidades de js, el curso me está encantando!
 
-* **carlosshanks** (2)
+* **carlosshanks** (2) [895748](https://platzi.com/comentario/895748/) 
 
-	
 	Según yo sabía JavaScript jaja, este curso está muy bueno.
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [895748] (1)
 
-		
 		Jajajaja lo mismo me pasa
 
-* **luis-mendoza877** (2)
+* **luis-mendoza877** (2) [888759](https://platzi.com/comentario/888759/) 
 
-	
 	Y pensar que yo creía saber Javascript JA!
 
-* **Rubén Jiménez Torres** (2)
+* **Rubén Jiménez Torres** (2) [839879](https://platzi.com/comentario/839879/) 
 
-	
 	El arreglador. 🤣
 
-* **ettorestark** (2)
+* **ettorestark** (2) [817909](https://platzi.com/comentario/817909/) 
 
-	
 	Estoy 😱. ¡Què curso tan grandioso!
 
-* **Ramiro Alvarez** (2)
+* **Ramiro Alvarez** (2) [814702](https://platzi.com/comentario/814702/) 
 
-	
 	Increiblee!
 
-* **Massimo Di Berardino** (2)
+* **Massimo Di Berardino** (2) [802452](https://platzi.com/comentario/802452/) 
 
-	
 	Increible, mi cabeza está explotando!  
 	![](https://cdn.dopl3r.com/memes_files/mujer-negrita-sentada-en-un-sillon-leyendo-y-luego-mirando-hacia-el-frente-plantilla-para-meme-wwPCc.jpg)
 
-* **Javier Fuentes Mora** (2)
+* **Javier Fuentes Mora** (2) [742714](https://platzi.com/comentario/742714/) 
 
-	
 	Mi pregunta es esta nueva regla que desarrollamos como la implementamos en EsLint? ,  
 	aun no nos enseñan como usar EsLint solo instalamos el plugin y desde node ,pero no lo hemos usado
 
-	* **aerama** (3)
+	* **aerama** [742714] (3)
 
-		
 		puedes hacerlo desde VSCode accediendo a los ajustes en preferencias, ahí te saldrán todas las configuraciones, debes abrir el objeto json en el cual se especifican todas estas reglas y ahí es donde tu las agregas escribiéndolas como atributos.  
 		Te dejo la documentación para que lo puedas ver a fondo.  
 		[ESLint](https://eslint.org/docs/user-guide/configuring)
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [1104568](https://platzi.com/comentario/1104568/) 
 
-	
 	Que buena clase sin duda!
 
-* **Raundy Ibarras** (1)
+* **Raundy Ibarras** (1) [1100242](https://platzi.com/comentario/1100242/) 
 
-	
 	Clase muy enriquecedora!
 
-* **Giuliana Evangelina Olmos** (1)
+* **Giuliana Evangelina Olmos** (1) [1095172](https://platzi.com/comentario/1095172/) 
 
-	
 	<https://astexplorer.net/>
 
-* **ranel** (1)
+* **ranel** (1) [1083613](https://platzi.com/comentario/1083613/) 
 
-	
 	Muy interesante!
 
-* **Federico Ackerley** (1)
+* **Federico Ackerley** (1) [1054629](https://platzi.com/comentario/1054629/) 
 
-	
 	Pregunta: conocen alguna herramienta para hacer transform con php? con astexplorer no da muchas opciones para php.
 
-	* **Enrique Devars (Platzi)** (2)
+	* **Enrique Devars (Platzi)** [1054629] (2)
 
-		
 		Encontré este proyecto que tal vez te sirva. Convierte código de PHP a Java, si revisas su proceso de parsing debe ser algo similar.
 		
 		<http://www.runtimeconverter.com/>
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1053519](https://platzi.com/comentario/1053519/) 
 
-	
 	genial la forma como funciona el AST.
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [1019360](https://platzi.com/comentario/1019360/) 
 
-	
 	Esta regla no la puedo exportar a mi proyecto?
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [990337](https://platzi.com/comentario/990337/) 
 
-	
 	Este curso me hará comprar la anualidad :v
 
-* **Emilio Castro** (1)
+* **Emilio Castro** (1) [990292](https://platzi.com/comentario/990292/) 
 
-	
 	Esta clase es espectacular!
 
-* **Northerchild** (1)
+* **Northerchild** (1) [953458](https://platzi.com/comentario/953458/) 
 
-	
 	Ame está clase hasta más no poder
 
-* **Nycgia** (1)
+* **Nycgia** (1) [943613](https://platzi.com/comentario/943613/) 
 
-	
 	Este curso es genial
 	``` 
 	    exportdefaultfunction(context) {
@@ -12875,17 +11992,15 @@ Todo eso por hacer una variable wtf!
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [922904](https://platzi.com/comentario/922904/) 
 
-	
 	No sé por qué esto me recuerda un poco a Pruebas Unitarias jaja
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [915312](https://platzi.com/comentario/915312/) 
 
-	
 	Increible!
 
-## 0140. Cómo funciona el JavaScript Engine
+## 0140. Cómo funciona el JavaScript Engine [22168](https://platzi.com/clases/1642-javascript-profesional/22168-como-funciona-el-javascript-engine/)
 
 ### Descripción:
 
@@ -12904,18 +12019,17 @@ Cuando una sentencia función es ejecutada muy frecuentemente, V8 la denomina co
 
 Cada navegador tiene su implementación de JavaScript Engine:
 
-  * SpiderMonkey - Firefox
-  * Chackra - Edge
-  * JavaScriptCore - Safari
-  * V8 - Chrome
+* SpiderMonkey - Firefox
+* Chackra - Edge
+* JavaScriptCore - Safari
+* V8 - Chrome
 
 
 
 ### Comentarios:
 
-* **David Alejandro Mosquera Moreno** (17)
+* **David Alejandro Mosquera Moreno** (17) [922982](https://platzi.com/comentario/922982/) 
 
-	
 	El script se carga como un **flujo de bytes UTF-16** , ya sea para la **red** , la **caché** o un** trabajador**, y se pasa a un **decodificador de flujo de bytes**.
 	
 	![](https://i.imgur.com/cv31vhP.gif)
@@ -12936,26 +12050,22 @@ Cada navegador tiene su implementación de JavaScript Engine:
 	
 	![](https://i.imgur.com/o4pLBCs.gif)
 
-	* **John Botero** (2)
+	* **John Botero** [922982] (2)
 
-		
 		Excelentes animaciones muy bien explicado.
 
-* **braco** (15)
+* **braco** (15) [938308](https://platzi.com/comentario/938308/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 13.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2013-827db342-25ad-49f7-b2d6-63ab86813f06.jpg)
 
-	* **José Alejandro Muñoz Ruiz** (1)
+	* **José Alejandro Muñoz Ruiz** [938308] (1)
 
-		
 		[braco](https://platzi.com/@braco). Muchas gracias por tus apuntes!!! son perfectos como resumen luego de ver cada clase. muchas gracias por la iniciativa
 
-* **Cesar Augusto Barco de Gouveia** (12)
+* **Cesar Augusto Barco de Gouveia** (12) [727250](https://platzi.com/comentario/727250/) 
 
-	
 	## Cómo funciona el JavaScript Engine
 	
 	‌
@@ -13000,40 +12110,33 @@ Cada navegador tiene su implementación de JavaScript Engine:
 	
 	Cada navegador tiene su propia forma de optimizar su código. Quizá nos parezca muy diferente pero al final hace su trabajo; ejecutar el código de la mejor forma.
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [727250] (1)
 
-		
 		Gracias.
 
-* **Alejo Goncalves** (6)
+* **Alejo Goncalves** (6) [953871](https://platzi.com/comentario/953871/) 
 
-	
 	consejo,  
 	vean el curso de fundamentos de ingenieria de software
 
-* **Victor Lozada** (5)
+* **Victor Lozada** (5) [758747](https://platzi.com/comentario/758747/) 
 
-	
 	Dejo por aquí este articulo que vi muy interesante para complementar el tema: <https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/>
 
-	* **predator0077** (1)
+	* **predator0077** [758747] (1)
 
-		
 		Muchas Gracias por la info, se agradece bastante
 
-	* **pndafran** (1)
+	* **pndafran** [758747] (1)
 
-		
 		Gracias por el aporte
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [758747] (1)
 
-		
 		Gracias, por el material.
 
-* **Jesús Miguel Quinto Teran** (4)
+* **Jesús Miguel Quinto Teran** (4) [760093](https://platzi.com/comentario/760093/) 
 
-	
 	Si queremos aprovechar al máximo las bondades de los motores de Javascript debemos preocuparnos por:
 	
 	  1. Las funciones reciban los mismos tipos de datos
@@ -13043,66 +12146,56 @@ Cada navegador tiene su implementación de JavaScript Engine:
 	
 	De esa forma el motor de Javascript podrá optimizar el código que se ejecuta constantemente enviándolo de **ByteCode** a **OptimizedCode**
 
-* **Jessie Buckland Pérez** (3)
+* **Jessie Buckland Pérez** (3) [920065](https://platzi.com/comentario/920065/) 
 
-	
 	El código va a empezar a ponerse caliente!!! 😄 Que grande es Richard!! Que bien explica y como simplifica cosas tan abstractas!! Felicidades profe!!
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [1097205](https://platzi.com/comentario/1097205/) 
 
-	
 	Ahora entiendo muy bien el gráfico, que buena la clase ya que en el curso dedicado a v8 y el navegador no lo entedi por la falta de explicacion del profesor.
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [705051](https://platzi.com/comentario/705051/) 
 
-	
 	Waaao que buen curso este, muy profundo y profesional
 
-* **Maximo Martinez Soria** (2)
+* **Maximo Martinez Soria** (2) [77289](https://platzi.com/comentario/901643/) 
 Entonces por qué decimos que JavaScript es un lenguaje interpretado, si al final se termina compilando?
 
-	* **Bernardo Ayala Montezuma** (1)
+	* **Bernardo Ayala Montezuma** [77289] (1)
 
-		
 		Es un tema polémico. Hay personas que dicen que es interpretado y otras aseguran que es compilado. No sabría decirte quienes tienen la razón.
 		
 		Yo entiendo que es interpretado porque no usamos un compilador para poder correr el programa. Los navegadores interpretan el código línea por línea y lo corren.
 		
 		Te recomendaría que busques discusiones al respecto por internet y basado en lo que entiendas decidas quien tiene la razón.
 
-* **federicolaracardozo** (1)
+* **federicolaracardozo** (1) [1089131](https://platzi.com/comentario/1089131/) 
 
-	
 	La parte que mas se entendio!!
 
-* **richie** (1)
+* **richie** (1) [1083117](https://platzi.com/comentario/1083117/) 
 
-	
 	Excelente clase, había visto el tema antes pero no me quedaba claro y con esta clase lo entendí perfectamente
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1050403](https://platzi.com/comentario/1050403/) 
 
-	
 	Con esto entendi la clase anterior
 
-* **Nycgia** (1)
+* **Nycgia** (1) [945292](https://platzi.com/comentario/945292/) 
 
-	
 	Cuando V8 compila el código, el **parseador** genera un **Abstract Syntax Tree**. **Ignition** , nombre del interpretador de este motor, genera el bytecode desde este AST. **TurboFan** , el compilador optimizador, eventualmente toma el bytecode y genera un _machine code_ optimizado.  
 	.  
 	PD: Dejo la referencia de esto [acá](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775), no soy muy bueno en inglés, pero consideré importante esta info.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [728493](https://platzi.com/comentario/728493/) 
 
-	
 	En la universidad se me complicaba el lenguaje ensamblador, me quedo con JS.
 
-* **jaguarjs** (1)
+* **jaguarjs** (1) [703098](https://platzi.com/comentario/703098/) 
 
-	
 	Si a un ciclo, array o función, le pasamos objetos que tengan una forma diferente, o argumentos de tipos diferentes, El motor V8 no va a poder optimizar esa parte del código, o se va a tener que deoptimizar
 
-## 0150. Event Loop
+## 0150. Event Loop [22169](https://platzi.com/clases/1642-javascript-profesional/22169-event-loop/)
 
 ### Descripción:
 
@@ -13111,11 +12204,11 @@ El **Event Loop** hace que Javascript parezca ser multihilo a pesar de que corre
 
 Javascript se organiza usando las siguientes estructuras de datos:
 
-  * **Stack**. Va apilando de forma organizada las diferentes instrucciones que se llaman. Lleva así un rastro de dónde está el programa, en que punto de ejecución nos encontramos.
-  * **Memory Heap**. De forma desorganizada se guarda información de las variables y del scope.
-  * **Schedule Tasks**. Aquí se agregan a la cola, las tareas programadas para su ejecución.
-  * **Task Queue**. Aquí se agregan las tares que ya están listas para pasar al stack y ser ejecutadas. El stack debe estar vacío para que esto suceda.
-  * **MicroTask Queue**. Aquí se agregan las promesas. Esta Queue es la que tiene mayor prioridad.
+* **Stack**. Va apilando de forma organizada las diferentes instrucciones que se llaman. Lleva así un rastro de dónde está el programa, en que punto de ejecución nos encontramos.
+* **Memory Heap**. De forma desorganizada se guarda información de las variables y del scope.
+* **Schedule Tasks**. Aquí se agregan a la cola, las tareas programadas para su ejecución.
+* **Task Queue**. Aquí se agregan las tares que ya están listas para pasar al stack y ser ejecutadas. El stack debe estar vacío para que esto suceda.
+* **MicroTask Queue**. Aquí se agregan las promesas. Esta Queue es la que tiene mayor prioridad.
 
 
 
@@ -13123,16 +12216,14 @@ El Event Loop es un loop que está ejecutando todo el tiempo y pasa periódicame
 
 ### Comentarios:
 
-* **braco** (14)
+* **braco** (14) [938328](https://platzi.com/comentario/938328/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 15.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2015-408394ea-0f0a-45eb-a925-13f29d040c81.jpg)
 
-* **Cesar Augusto Barco de Gouveia** (10)
+* **Cesar Augusto Barco de Gouveia** (10) [727316](https://platzi.com/comentario/727316/) 
 
-	
 	## Event Loop
 	
 	‌
@@ -13211,43 +12302,36 @@ El Event Loop es un loop que está ejecutando todo el tiempo y pasa periódicame
 	
 	Las promesas van en otra cola, la cola _**microtasks queue**_. El _event loop_ le da más importancia a esta fila que a la de tareas, así que primero va a ejecutar las que estén allí para luego pasar a las _task queue_.
 
-* **sueherrera** (9)
+* **sueherrera** (9) [747189](https://platzi.com/comentario/747189/) 
 
-	
 	¡es el mejor explicnado! ❤️ se me imagina que el event loop es como el burro en shrek que va preguntando si ya llegan al reino de muy muy lejano: ¿ya merito? ¿ya merito? 😄
 
-* **dftorres18** (7)
+* **dftorres18** (7) [779163](https://platzi.com/comentario/779163/) 
 
-	
 	Como dijo sacha: ‘no bloquearé el event loop’
 
-* **Andrés Felipe Eslava Zuluaga** (7)
+* **Andrés Felipe Eslava Zuluaga** (7) [749292](https://platzi.com/comentario/749292/) 
 
-	
 	[Éste es un video de un canal de un tipo en YT. ](https://www.youtube.com/watch?v=rgmej4Jx4WM&list=PLImOJ2OqvvkCuDi6E33HXMP23BvYYBHcm&index=2)
 	
 	VEÁNLO!! van a entender todo de una manera muy bien y con ésta clase del profesor Richard, queda muy bien entendido.
 	
 	Genial curso
 
-	* **yoshua_diaz** (2)
+	* **yoshua_diaz** [749292] (2)
 
-		
 		Esta buenisimo!!! Gracias por compartir 😄!!!
 
-	* **pndafran** (1)
+	* **pndafran** [749292] (1)
 
-		
 		Bien explicado Gracias
 
-* **Abner Paul Ccari Lindo** (7)
+* **Abner Paul Ccari Lindo** (7) [722114](https://platzi.com/comentario/722114/) 
 
-	
 	Este curso de Javascript realmente esta 10/10 !
 
-* **David Alejandro Mosquera Moreno** (6)
+* **David Alejandro Mosquera Moreno** (6) [925449](https://platzi.com/comentario/925449/) 
 
-	
 	La explicaión del profesor es asombrosa. Explicar cómo funciona el EventLoop de una forma tan sencilla es asombroso.  
 	.  
 	Aquí dejo un resumen de todo el funcionamiento de lo que vimos en esta clase.  
@@ -13283,30 +12367,25 @@ El Event Loop es un loop que está ejecutando todo el tiempo y pasa periódicame
 	.  
 	Este pequeño resumen es sacado del post de **[@lydiahallie](https://twitter.com/lydiahallie) ** **[✨♻️ JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)** donde también se explica muy bien como funciona el _Event Loop_
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [925449] (3)
 
-		
 		Primero que nada te animo a añadir este contenido a los tutoriales del Curso porque está increíble. También aprovecho para añadir una recomendación personal [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ), es una de las mejores charlas de JS que he visto y tienes subtitulos en español, recomendadisima para apoyar el contenido de la clase 😄
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [925449] (1)
 
-		
 		Claro que si Grabriel. Lo agregaré a los tutoriales…  
 		Y gracias por esta recomendación, está muy buena!
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [925449] (1)
 
-		
 		con qué realizas este contenido ?
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [925449] (1)
 
-		
 		Los gifs los saqué de [este post](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
-* **Jesus M Cocaño Diaz** (5)
+* **Jesus M Cocaño Diaz** (5) [890203](https://platzi.com/comentario/890203/) 
 
-	
 	no voy a bloquear el event loop! 😮  
 	no voy a bloquear el event loop! 😮  
 	no voy a bloquear el event loop! 😮  
@@ -13314,49 +12393,41 @@ El Event Loop es un loop que está ejecutando todo el tiempo y pasa periódicame
 	no voy a bloquear el event loop! 😮  
 	no voy a bloquear el event loop! 😮
 
-* **BRYAN ALEXANDER CONDOR DE LA CRUZ** (5)
+* **BRYAN ALEXANDER CONDOR DE LA CRUZ** (5) [735608](https://platzi.com/comentario/735608/) 
 
-	
 	Wow !! porfin encontré una explicación totalmente digerible y super concisa. muchas gracias.
 
-* **Ricardo Martínez Murillo** (4)
+* **Ricardo Martínez Murillo** (4) [948643](https://platzi.com/comentario/948643/) 
 
-	
 	En el curso anterior se nos menciono el siguiente termino:  
 	LIFO: Last In, First Out
 
-* **danilovalenzuela** (4)
+* **danilovalenzuela** (4) [809557](https://platzi.com/comentario/809557/) 
 
-	
 	Por fin entendí como funciona el Event Loop. Definitivamente este sí es un curso profesional.
 
-* **Gabriel De Andrade (Platzi)** (4)
+* **Gabriel De Andrade (Platzi)** (4) [710166](https://platzi.com/comentario/710166/) 
 
-	
 	[Philip Roberts: What the heck is the event loop anyway? - JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [710166] (1)
 
-		
 		Gracias.
 
-* **ValentinGutierrez** (3)
+* **ValentinGutierrez** (3) [992954](https://platzi.com/comentario/992954/) 
 
-	
 	Jajja lo veo en velocidad de 1.75 y me da risa como se mueve explicando el event loop jajajaj , buen curso!
 
-* **Eden Gomez Gress** (3)
+* **Eden Gomez Gress** (3) [876586](https://platzi.com/comentario/876586/) 
 
-	
 	Pregunta. Segun entendi que las promesas se ejecutarian antes que lo demas, pero cuando ejecuto el codigo en el navegador, se ejecutan primero los consoles y despues las promesas.
 	
 	Porque pasa esto:
 	
 	![](https://snipboard.io/hvq1Aw.jpg)
 
-	* **Christian Perez** (6)
+	* **Christian Perez** [876586] (6)
 
-		
 		Como yo lo entiendo es:  
 		Dado que JS va linea por linea:
 		
@@ -13372,354 +12443,289 @@ El Event Loop es un loop que está ejecutando todo el tiempo y pasa periódicame
 		
 		Espero tenga algo de sentido 😃
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [876586] (1)
 
-		
 		Si, tiene mucho sentido.
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [876586] (1)
 
-		
 		Es sencillo 😁. Tanto las tareas como las micro-tareas se ejecutan solamente cuando no haya nada pendiente en el _Event loop_ , Por eso se ejecutan primero los `console.log()`, ellos forman parte del stack.  
 		.  
 		Una vez se haya terminado el stack se ejecutan las micro-tareas y finalmente las tareas! 🤘
 
-* **Andres Rivera** (3)
+* **Andres Rivera** (3) [849515](https://platzi.com/comentario/849515/) 
 
-	
 	son la 1 am y este modulo me pico para seguir escribiendo codigo
 
-* **Uralberto** (3)
+* **Uralberto** (3) [841138](https://platzi.com/comentario/841138/) 
 
-	
 	No esta demás ver de nuevo el video Platzi comentado por Sacha Lifsky (Mayo 2019) sobre Even Loop
 	
 	<https://www.youtube.com/watch?v=bWvnWhVCHAc>
 
-* **Rubén Jiménez Torres** (3)
+* **Rubén Jiménez Torres** (3) [841112](https://platzi.com/comentario/841112/) 
 
-	
 	[Acá lo podemos ver de manera gráfica](http://latentflip.com/loupe)
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [762470](https://platzi.com/comentario/762470/) 
 
-	
 	Entonces ya sabemos porque los loops infinitos (no controlados) son una mala idea.
 
-* **Juan Carlos García Esquivel** (3)
+* **Juan Carlos García Esquivel** (3) [746425](https://platzi.com/comentario/746425/) 
 
-	
 	Este vídeo es lo que me faltaba para entender a detalle el event loop, **no voy a bloquear el event loop**
 
-* **Leonardo Maya Iregui** (3)
+* **Leonardo Maya Iregui** (3) [728689](https://platzi.com/comentario/728689/) 
 
-	
 	Brutal está explicación. Con dibujitos, cómo nos gusta a los mortales.
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [728537](https://platzi.com/comentario/728537/) 
 
-	
 	Team Platzi, serían tan amables de proporcionar las diapositivas empleadas en la clase.
 	
 	Sasha y Richard, gracias a ustedes ahora entiendo el comportamiento de JavaScript.
 
-	* **Juan David Castro (Platzi)** (6)
+	* **Juan David Castro (Platzi)** [728537] (6)
 
-		
 		Siempre los encuentras en la [primera clase](https://platzi.com/clases/1642-javascript-profesional/22156-que-significa-ser-un-profesional-de-javascri-4/). 😉
 		
 		👉 <https://static.platzi.com/media/public/uploads/slides-curso-profesional-de-javascript_3dde967c-8534-4041-891d-317d033e2724.pdf>
 
-* **hectormr** (3)
+* **hectormr** (3) [701342](https://platzi.com/comentario/701342/) 
 
-	
 	Esto esta genial! Muy bien explicación. Nunca me imagine como sucedía esto!  
 	Ahora entiendo porque mis programas congelaban todo!!!
 	
 	Muchas gracias Richard, por darnos ejemplos tan simple.
 
-* **ranel** (2)
+* **ranel** (2) [1083987](https://platzi.com/comentario/1083987/) 
 
-	
 	conclusión : setTimeout no es el tiempo que va a tardar en ejecutarse sino, mas bien, el tiempo que va a tardar en pasar al Task Queue, que luego el Event Loop va analizar si el Stack esta vació, en ese caso lo ejecutara. Osea el tiempo es relativo 😛.
 
-* **César Oswaldo Mandamiento Salas** (2)
+* **César Oswaldo Mandamiento Salas** (2) [1069124](https://platzi.com/comentario/1069124/) 
 
-	
 	Pedazo de crack, nunca me había quedado tan claro!
 
-* **aracelymarentes** (2)
+* **aracelymarentes** (2) [1067358](https://platzi.com/comentario/1067358/) 
 
-	
 	Que chevere esta explicacion, muy didactica jejeje
 
-* **MartinMB** (2)
+* **MartinMB** (2) [1050465](https://platzi.com/comentario/1050465/) 
 
-	
 	Muy buena
 
-* **Daniel Lopez** (2)
+* **Daniel Lopez** (2) [1042017](https://platzi.com/comentario/1042017/) 
 
-	
 	excelente clase
 
-* **emacastillozam** (2)
+* **emacastillozam** (2) [1013498](https://platzi.com/comentario/1013498/) 
 
-	
 	Creo que este vídeo es bueno verlo unas varias veces. Es muy importante para entender el comportamiento de los tiempos en js… Excelente contenido!
 
-* **Osvaldo Trejo** (2)
+* **Osvaldo Trejo** (2) [989531](https://platzi.com/comentario/989531/) 
 
-	
 	[Una buena explicación sobre el proceso](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
 	Task Queue: Es de tipo FIFO (First in, first out)
 	
 	Que buena clase y que buena explicación
 
-* **AntonioEspin** (2)
+* **AntonioEspin** (2) [924222](https://platzi.com/comentario/924222/) 
 
-	
 	Y recuerden, no bloqueen el Event Loop!
 
-* **Antonio Madrid** (2)
+* **Antonio Madrid** (2) [911773](https://platzi.com/comentario/911773/) 
 
-	
 	Esta clase es oro puro, la mejor que he visto sobre el Event loop, el Call Stack y el Task Queue hasta el momento.  
 	Grande Richard, que gran profesor, de los que se quedan en tu memoria para los restos. Gracias.
 
-* **wanda-peruzzo** (2)
+* **wanda-peruzzo** (2) [819039](https://platzi.com/comentario/819039/) 
 
-	
 	Tremendo profesor! Gracias
 
-* **AMILKAR CRUZ HERBAS** (2)
+* **AMILKAR CRUZ HERBAS** (2) [808958](https://platzi.com/comentario/808958/) 
 
-	
 	Muy buena clase, una explicacion excelente! Genial Richard
 
-* **German Sayago** (2)
+* **German Sayago** (2) [799935](https://platzi.com/comentario/799935/) 
 
-	
 	la didáctica de Richard es impresionante!
 
-* **Kerepakupai** (2)
+* **Kerepakupai** (2) [796007](https://platzi.com/comentario/796007/) 
 
-	
 	La mejor explicación por lejos sobre el Event Loop. Excelente
 
-* **OmarGbet** (2)
+* **OmarGbet** (2) [769845](https://platzi.com/comentario/769845/) 
 
-	
 	Esta debió ser la primera clase de fundamentos me hubiera ahorrado muchos dolores de cabeza jaja
 
-* **Juan Pena Verdú** (2)
+* **Juan Pena Verdú** (2) [767803](https://platzi.com/comentario/767803/) 
 
-	
 	Clase magistral
 
-* **Cristobal Vega** (2)
+* **Cristobal Vega** (2) [750132](https://platzi.com/comentario/750132/) 
 
-	
 	Una manera en la que me quedó muy claro como funciona un stack es como si fuera una caja, donde pones objetos (imaginemos libros) y para sacar el que está hasta abajo en la caja será necesario quitar los que estan en la parte de arriba.
 
-* **Casitron12** (2)
+* **Casitron12** (2) [734381](https://platzi.com/comentario/734381/) 
 
-	
 	Mi clase favorita en lo que va de curso
 
-* **Izael Ruelas Garcia** (2)
+* **Izael Ruelas Garcia** (2) [706322](https://platzi.com/comentario/706322/) 
 
-	
 	Ese tablero ayuda a entender muy bien como Javascript organiza los datos en el Stack
 
-* **josdanind** (2)
+* **josdanind** (2) [705021](https://platzi.com/comentario/705021/) 
 
-	
 	Que buena clase, gracias.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [67756](https://platzi.com/comentario/728545/) 
 Podrían explicarme la diferencia entre una Promesa y una Tarea programada. Es que ya me confundí. Si bien ambas son asíncronas, cuando us...
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [67756] (3)
 
-		
 		Este artículo lo explica muy bien:
 		
 		👉 [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1097271](https://platzi.com/comentario/1097271/) 
 
-	
 	Tiene una forma de enseñar muy buena, simplemente hay que estar preparados para tomar las clases, me encanto su emoción al explicar
 
-* **Harold Carhuancho** (1)
+* **Harold Carhuancho** (1) [1095159](https://platzi.com/comentario/1095159/) 
 
-	
 	que excelente clase!
 
-* **HENRY DSANTIAGO** (1)
+* **HENRY DSANTIAGO** (1) [1092841](https://platzi.com/comentario/1092841/) 
 
-	
 	**¿Las Promesas también van al SCHEDULED TASKS antes de ir a Microtasks Queue? **
 
-	* **Jpenavar** (1)
+	* **Jpenavar** [1092841] (1)
 
-		
 		Deberían
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [1088827](https://platzi.com/comentario/1088827/) 
 
-	
 	Event Loop = Brujeríaaaaa!! 😮
 
-* **Guillermo Vara De Gante** (1)
+* **Guillermo Vara De Gante** (1) [1065558](https://platzi.com/comentario/1065558/) 
 
-	
 	Me encanto la manera en la que lo explica, muy, muy entendible!
 
-* **Enrique Devars (Platzi)** (1)
+* **Enrique Devars (Platzi)** (1) [1055760](https://platzi.com/comentario/1055760/) 
 
-	
 	Para complementar este curso les recomiendo muchísimo el [curso básico de algoritmos](https://platzi.com/clases/algoritmos/).
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1053808](https://platzi.com/comentario/1053808/) 
 
-	
 	muy buena
 
-* **Andrés Gutierrez** (1)
+* **Andrés Gutierrez** (1) [1029797](https://platzi.com/comentario/1029797/) 
 
-	
 	Esto se explica mejor en el curso de nodejs, vean la clase del eventloop un momento, está más sencillo, o incluso en una clase de fundamentosjs
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1029797] (1)
 
-		
 		Hay un curso dedicado a explicar todo el funcionamiento del Motor de JavaScript acá en Platzi: [Curso de JavaScript Engine (V8) y el Navegador](https://platzi.com/clases/javascript-navegador/) 😄
 
-* **vrivasdev** (1)
+* **vrivasdev** (1) [1022194](https://platzi.com/comentario/1022194/) 
 
-	
 	Excelente clase. Me ayudó a entender por fin el event loop, stack, task queue y Microtasks queue
 
-* **Eleazar Carreón Álvarez** (1)
+* **Eleazar Carreón Álvarez** (1) [1018632](https://platzi.com/comentario/1018632/) 
 
-	
 	En el shedule tasks, ¿Es dónde hace el proceso de descarga?  
 	Como cuando hacemos una petición alguna api, para mostrar sus datos.
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [1018632] (1)
 
-		
 		Los procesos de descarga como llamar a una API son procesos asíncronos. Si quieres entender esto bien recuerda el proceso que se hace entre el Stack, las Scheduled Tasks y el Task Queue dentro del Event Loop.
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [1006330](https://platzi.com/comentario/1006330/) 
 
-	
 	Este curso me permite ver el mundo grandioso y largo que es recorrerlo. Me encanta JS y lo estoy adoptando como mi lenguaje al cual quiero aprender a fondo.  
 	Esta clase me encanto, ya había visto explicaciones sobre el event loop, pero esta la verdad me gusto a sobre manera.  
 	Saludos
 
-* **John Botero** (1)
+* **John Botero** (1) [980803](https://platzi.com/comentario/980803/) 
 
-	
 	Excelente explicaciónla del profe sparragus, de las mejores del curso hasta el momento. El Event Loop también se vuelve mi parte favorita de como funciona JavaScript.
 
-* **Nacxit** (1)
+* **Nacxit** (1) [977957](https://platzi.com/comentario/977957/) 
 
-	
 	Event loop permite que javascript procese muchas tarea en un orden de preoridad en este caso las micro tareas son la preoridad ante todas esta micro tareas son las promesas
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [977957] (1)
 
-		
 		Es tan interesante este tema que ahora hay todo un curso al respecto [Curso de JavaScript Engine (V8) y el Navegador](https://platzi.com/clases/javascript-navegador/)
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [950623](https://platzi.com/comentario/950623/) 
 
-	
 	Event loop hace que JS procece multi hilo y en verdad procesa en un solo hilo
 
-* **Nycgia** (1)
+* **Nycgia** (1) [945321](https://platzi.com/comentario/945321/) 
 
-	
 	Stack
 
-* **fcojavierlpz91** (1)
+* **fcojavierlpz91** (1) [943775](https://platzi.com/comentario/943775/) 
 
-	
 	Tengo una duda:
 	
 	Aparte de los setTimeout, peticiones Ajax, qué otras formas asíncronas existen en JavaScript ?
 
-* **Alejandro Medina** (1)
+* **Alejandro Medina** (1) [937011](https://platzi.com/comentario/937011/) 
 
-	
 	Stack y event loop
 
-* **Jose Luis Chavez Guerra** (1)
+* **Jose Luis Chavez Guerra** (1) [928127](https://platzi.com/comentario/928127/) 
 
-	
 	wow que buena explicación, muy buen profesor.
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [917023](https://platzi.com/comentario/917023/) 
 
-	
 	que “pedazo” de clase. Excelente explicacion, bravoooo.
 
-* **cesar88** (1)
+* **cesar88** (1) [846570](https://platzi.com/comentario/846570/) 
 
-	
 	excelente modulo! explica muy bien el profe… estos temas los habia visto antes pero no los habia logrado entender tan bien!
 
-* **José Fernando Briceño Ruíz** (1)
+* **José Fernando Briceño Ruíz** (1) [843720](https://platzi.com/comentario/843720/) 
 
-	
 	Increíble esta clase, me gusta que nos explique cómo funciona por dentro todo, de una manera que se pueda entender
 
-* **Uralberto** (1)
+* **Uralberto** (1) [841160](https://platzi.com/comentario/841160/) 
 
-	
 	No obstante la explicación de Richard es muy didáctica. Me queda claro el Event Loop. Gracias.
 
-* **hnino** (1)
+* **hnino** (1) [831925](https://platzi.com/comentario/831925/) 
 
-	
 	Event Loop
 
-* **aventura** (1)
+* **aventura** (1) [798974](https://platzi.com/comentario/798974/) 
 
-	
 	muy buena la clase, Gracias Richard.
 
-* **JUAN SILVA** (1)
+* **JUAN SILVA** (1) [796658](https://platzi.com/comentario/796658/) 
 
-	
 	exelente explicación llevo 1 y medio estudiando java script y no había encontrado una explicación tan clara como esta
 
-* **samscode** (1)
+* **samscode** (1) [790914](https://platzi.com/comentario/790914/) 
 
-	
 	Richard es tremendo crack, se nota que sabe…
 
-* **emanuel-alejandro-mamani** (1)
+* **emanuel-alejandro-mamani** (1) [776033](https://platzi.com/comentario/776033/) 
 
-	
 	muy buena clasee
 
-* **baenacc** (1)
+* **baenacc** (1) [746851](https://platzi.com/comentario/746851/) 
 
-	
 	Me encanta como quedó este video!!! Gracias!!
 
-* **oteka21** (1)
+* **oteka21** (1) [744047](https://platzi.com/comentario/744047/) 
 
-	
 	el primer ejercicio me recuerda los puntos de interrupción 🤯
 
-* **David Behar** (1)
+* **David Behar** (1) [741645](https://platzi.com/comentario/741645/) 
 
-	
 	El event loop hace que js parezca multihilo cuando no lo es
 	
 	Para entender el event loop, debemos de entender el stack, el task queue y el microtask queue.
@@ -13748,32 +12754,28 @@ Podrían explicarme la diferencia entre una Promesa y una Tarea programada. Es q
 	
 	El event loop pregunta cierto tiempo si el stack queue está vacío, en caso de estarlo, revisará el microtask queue, si tiene tarea la agregará al stack, si no tiene tarea irá al task queue, si tiene tarea la agregará al stack, y así lo seguirá haciendo hasta terminar las tareas.
 
-* **AlfredOS** (1)
+* **AlfredOS** (1) [735455](https://platzi.com/comentario/735455/) 
 
-	
 	Muy bien explicado, esto marcará un antes y un después en mis proyectos.
 
-* **eduardoluisgr** (1)
+* **eduardoluisgr** (1) [735209](https://platzi.com/comentario/735209/) 
 
-	
 	woooooooww tremenda clase 👏
 
-* **johannpino** (1)
+* **johannpino** (1) [717906](https://platzi.com/comentario/717906/) 
 
-	
 	Excelente clase de Event Loop! La magia negra de javascript para correr varios procesos, en un único hilo.
 
-* **José antonio Cañizales** (1)
+* **José antonio Cañizales** (1) [710351](https://platzi.com/comentario/710351/) 
 
-	
 	Las promesas van en la micro task y se ejecutan primero que los setTimeout si culminan al mismo tiempo.
 
-* **Nahuel Bonader** (1)
+* **Nahuel Bonader** (1) [87024](https://platzi.com/comentario/1110843/) 
 ¿Qué sucede al colocar una promesa con un setTimeout? ¿ El setTimeout pasa al Scheduled tasks, luego al task queue y luego es ejecutado. ...
 
-# Fundamentos Intermedios
+# Fundamentos Intermedios [4445]
 
-## 0160. Promesas
+## 0160. Promesas [22170](https://platzi.com/clases/1642-javascript-profesional/22170-promesas/)
 
 ### Descripción:
 
@@ -13784,8 +12786,8 @@ El async/await es sólo syntax sugar de una promesa, por debajo es exactamente l
 
 La clase Promise tiene algunos métodos estáticos bastante útiles:
 
-  * **Promise.all**. Da error si una de las promesas es rechazada.
-  * **Promise.race**. Regresa sólo la promesa que se resuelva primero.
+* **Promise.all**. Da error si una de las promesas es rechazada.
+* **Promise.race**. Regresa sólo la promesa que se resuelva primero.
 
 
 
@@ -13795,32 +12797,27 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 
 ### Comentarios:
 
-* **braco** (17)
+* **braco** (17) [943239](https://platzi.com/comentario/943239/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 15.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2015-d833beac-203a-42e0-8e33-325b97489ac2.jpg)
 
-* **Emmanuel Guerra** (12)
+* **Emmanuel Guerra** (12) [1027764](https://platzi.com/comentario/1027764/) 
 
-	
 	¿Por qué comparten el archivo del final de la clase en vez del archivo del inicio de la clase? Claramente el profesor dice en el 01:17 que nos vamos a encontrar con unas funciones escritas, y lo que yo esperaría es bajar ese archivo y programar el refactor junto a él.  
 	No tengo problema con leer el código, pero en ese caso simplemente debería aclararse desde el principio de la clase.
 
-	* **Sergio Eduardo Sinuco Leon** (1)
+	* **Sergio Eduardo Sinuco Leon** [1027764] (1)
 
-		
 		Totalmente de acuerdo contigo.
 
-	* **brunoamadori** (1)
+	* **brunoamadori** [1027764] (1)
 
-		
 		Si, si, me obliga a reescribir el código checkeando el video, para volver a refactorearlo
 
-	* **brunoamadori** (2)
+	* **brunoamadori** [1027764] (2)
 
-		
 		Aquí dejo el código inicial para hacer el ejercicio
 		
 		Copia, pega & disfruta de la clase.
@@ -13919,9 +12916,8 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 		    
 		```
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [727357](https://platzi.com/comentario/727357/) 
 
-	
 	## Funciones asíncronas
 	
 	‌
@@ -13973,11 +12969,11 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 	
 	‌
 	
-	  * _pendiente (pending)_ : estado inicial, no cumplida o rechazada.
+	* _pendiente (pending)_ : estado inicial, no cumplida o rechazada.
 	
-	  * _cumplida (fulfilled)_ : significa que la operación se completó satisfactoriamente.
+	* _cumplida (fulfilled)_ : significa que la operación se completó satisfactoriamente.
 	
-	  * _rechazada (rejected)_ : significa que la operación falló.
+	* _rechazada (rejected)_ : significa que la operación falló.
 	
 	
 	
@@ -13998,14 +12994,12 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 	
 	Devuelve una promesa que se cumple o rechaza tan pronto como una de las promesas del iterable se cumple o rechaza, con el valor o razón de esa promesa.
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [727357] (2)
 
-		
 		Gracias.
 
-* **Eddy Giraldo** (8)
+* **Eddy Giraldo** (8) [745509](https://platzi.com/comentario/745509/) 
 
-	
 	Aqui está el código del inicio del video por si lo necesitan…
 	``` 
 	    <!DOCTYPE html>
@@ -14099,14 +13093,12 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 	    
 	```
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [745509] (1)
 
-		
 		gracias
 
-	* **Carlos Vallejo** (1)
+	* **Carlos Vallejo** [745509] (1)
 
-		
 		Muchas gracias!, pero para quienes copien este código, corregir la siguiente línea:
 		``` 
 		    .then(response => response.json())
@@ -14115,42 +13107,35 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 		
 		en la función getPopularMovies(), faltaba una ‘s’ en ‘response’
 
-* **Christian Erik Velázquez Morales** (6)
+* **Christian Erik Velázquez Morales** (6) [920287](https://platzi.com/comentario/920287/) 
 
-	
 	Volví a ver esta clase, y les comparto la clase de Leonidas sobre promesas (Youtube).  
 	[https://www.youtube.com/watch?v=EVQR8TjjAWA&t=24s](https://www.youtube.com/watch?v=EVQR8TjjAWA&t=24s)  
 	Para los que, quieran complementar información.
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [920287] (1)
 
-		
 		Ah tremendo!  
 		Muy bueno para complementar
 
-	* **Javier Armando Vargas Vega** (1)
+	* **Javier Armando Vargas Vega** [920287] (1)
 
-		
 		Muchas gracias.
 
-* **Guillermo Vara De Gante** (5)
+* **Guillermo Vara De Gante** (5) [1068352](https://platzi.com/comentario/1068352/) 
 
-	
 	Me agrada mas cuando el codigo lo vamos escribiendo juntos…
 
-* **Sergio Eduardo Sinuco Leon** (5)
+* **Sergio Eduardo Sinuco Leon** (5) [1042283](https://platzi.com/comentario/1042283/) 
 
-	
 	La explicación realmente es muy precaria. Supongo que por eso crearon todo el Curso de Asincronismo con JavaScript.
 
-* **peralson** (5)
+* **peralson** (5) [700061](https://platzi.com/comentario/700061/) 
 
-	
 	No entiendo nada! Todo ese código de dónde sale? Creo que sería mejor entender las promesas haciendo uso de un proyecto y no con un código que no hemos visto aún! Yo por lo menos no estoy entendiendo nada!
 
-	* **edgar figueroa** (5)
+	* **edgar figueroa** [700061] (5)
 
-		
 		Las promesas son el siguietne nivel para trabajar la asincronia de javascript, es decir que con las promesas vienen para remplazar los famosos callbacks y evitar en callback hell. ([te dejo este post para que leas mas sobre el callbackhell](https://codearmy.co/que-es-el-callback-hell-y-como-evitarlo-4af418a6ed14)).
 		
 		Entonces una promesa devuelve la finalizacion o el fracaso de una operacion asincrona.
@@ -14187,46 +13172,39 @@ La clase Promise tiene algunos métodos estáticos bastante útiles:
 		Entonces si te fijas bien fetch lo que hace es regresar promesas para trabajar con la asincronia y _**ASYNC**_ / _ **AWAIT**_ es el siguiente paso, loq ue sucede es que ese codigo asicrono se lee como codigo sincrono lo que hace await es esperar hasta que la peticion finalize, ya sea en un resolve o un reject  
 		[este enlace habla mas sobre async/await](https://medium.com/@rafaelvidaurre/truly-understanding-async-await-491dd580500e) espero haberte ayudado un poco.
 
-	* **elvis.sanchez** (1)
+	* **elvis.sanchez** [700061] (1)
 
-		
 		No te quejes. Sigue insistiendo.
 
-	* **hectormr** (3)
+	* **hectormr** [700061] (3)
 
-		
 		El archivo lo encuentras en este link:  
 		[promesas.zip](https://static.platzi.com/media/public/uploads/promesas_d2dc49d1-afdf-466f-94b6-7af1d3ad2dfe.zip)  
 		O en la clase [Parsers y el Abstract Syntax Tree](https://platzi.com/clases/1642-javascript-profesional/22166-parsers-y-el-abstract-syntax-tree/), en la pestaña de **Archivos y Enlaces**.
 
-	* **marcelobaez** (4)
+	* **marcelobaez** [700061] (4)
 
-		
 		Si no lo entendes por ahora, te recomiendo el curso de Fundamentos de Javascript, es mas, el profe inicia el curso recomendado esto. Desde mi punto de vista el profesor explica super bien. No te frustres! todo lleva tiempo y requiere paciencia. Saludos
 
-	* **alejandro vergara** (2)
+	* **alejandro vergara** [700061] (2)
 Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de callbacks y promesas muy bien explicado, saludos.
 
-* **carlosestevenp** (4)
+* **carlosestevenp** (4) [720727](https://platzi.com/comentario/720727/) 
 
-	
 	No es por quejarme pero no sé si los profesores o los que deciden el contenido de los cursos no tienen en cuenta el contenido de los que nombrar como “Requisitos”.
 	
 	Ni habiendo hecho todo el curso de fundamentos de JavaScript una persona primeriza que siga el flujo que pretenden que sigamos en la escuela de JavaScript, va a entender un carajo. Comenzando porque en los fundamentos a Sacha se le ocurre la grandiosa idea de usar JQuery y acá este ya salta con un código hecho con fetch. Por favor tener más en cuenta cosas como estas. O actualizar el curso de fundamentos, ya lo necesita.
 
-	* **Abner Paul Ccari Lindo** (2)
+	* **Abner Paul Ccari Lindo** [720727] (2)
 
-		
 		Empieza a investigar y leer cada vez que veas algo nuevo, no todo lo puedes encontrar en un curso de 4 horas. Cambio tu estilo de aprendizaje, todo toma tiempo ,y más que todo, sé paciente y persistente.
 
-	* **Jhon_Marin** (2)
+	* **Jhon_Marin** [720727] (2)
 
-		
 		Si te sientes perdido de donde sale el código ten algo de paciencia y léelo, te recomiendo que vuelvas a echar un vistazo a la clase de FUNDAMENTOS DE JS, y pases por el curso de** J’Query a JS** ahí el profe Loenidas realiza una actividad similar a esta y explica esto mucho más extensamente.
 
-* **brunoamadori** (3)
+* **brunoamadori** (3) [1098408](https://platzi.com/comentario/1098408/) 
 
-	
 	Aquí tienes el código inicial para hacer este ejercicio (el del repo es el código final, lo cual complica todo).
 	
 	Copia, pega & disfruta de la clase.
@@ -14326,43 +13304,36 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 	    
 	```
 
-	* **Alessandri** (1)
+	* **Alessandri** [1098408] (1)
 
-		
 		Muy buen aporte pero hay errores de espaciado dentro del html y en las partes del async. estén pendientes
 
-* **Jorge Mendez Ortega** (3)
+* **Jorge Mendez Ortega** (3) [1020619](https://platzi.com/comentario/1020619/) 
 
-	
 	Una de las ventajas de utilizar promesas y Async/await es que con esto podemos evitar la temida **Pyramid of Doom** también conocido como **CallBack Hell**
 	
 	![Representación de CallBackHell o Pyramid of Doom](https://miro.medium.com/max/2824/1*nREYTp-1WUnDmz3YXabNsg.png)
 	
 	[Callbacks, Promesas y Async/Await, ¡Que alguien me explique!](https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2)
 
-* **Nacxit** (3)
+* **Nacxit** (3) [983912](https://platzi.com/comentario/983912/) 
 
-	
 	Las promesas tienen tres tipo de estados, Estado Pending es cuando la promesa esta en espera, Estado fullfilled es cuando una promesa se ejecuta de manera exitosa, Estado reject que es cuando la promesa no se ejecuta adecuadamente la cual es necesario ser un catch
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [983912] (3)
 
-		
 		Esto se aprende más a fondo en el [Curso de Asincronismo con JavaScript](https://platzi.com/clases/asincronismo-js/)
 
-* **Luis Rodriguez** (3)
+* **Luis Rodriguez** (3) [740363](https://platzi.com/comentario/740363/) 
 
-	
 	Si andan buscando, el zip de “Promises” lo encuentran en la clase de “Parsers y el Abstract Syntax Tree” .
 
-	* **David Behar** (2)
+	* **David Behar** [740363] (2)
 
-		
 		Lástima que ya está resuelto este ejercicio 😦
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [728958](https://platzi.com/comentario/728958/) 
 
-	
 	Una pregunta, ¿esta es una buena forma para usar async/await para traer datos desde que la página inicia/carga?
 	``` 
 	    (async  function(){
@@ -14377,38 +13348,32 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 	    
 	```
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [728958] (2)
 
-		
 		Creo que no tiene tanto que ver con `async await`. Podrías usar promesas normales y aún así tendrías que evaluar si por tiempos de carga/logística vale la pena cargar el script desde el primer momento.
 		
 		En este artículo se explica muy bien: [JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/).
 
-	* **Emmanuel Rodríguez Ramírez** (2)
+	* **Emmanuel Rodríguez Ramírez** [728958] (2)
 
-		
 		Creo que es lo adecuado. Porque de por si, si no se cargan los elementos adecuados, puedes mandarlo a otro estado donde le indicas que el tiempo de espera es mayor y de lo esperado / no tiene internet / a otra pantalla donde se trate el error.
 
-* **ranel** (2)
+* **ranel** (2) [1086878](https://platzi.com/comentario/1086878/) 
 
-	
 	Si no quedan conceptos claros. Lo recomendable es repasar los cursos anteriores. No hay otra
 
-* **Leonardo Castro Mestra** (2)
+* **Leonardo Castro Mestra** (2) [1055847](https://platzi.com/comentario/1055847/) 
 
-	
 	La API Fetch proporciona una interfaz para recuperar recursos (incluso en toda la red).  
 	Fetch proporciona una definición genérica de objetos Request y Response (y otras cosas relacionadas con las solicitudes de red).  
 	El fetch() método toma un argumento obligatorio, la ruta al recurso que desea obtener. Devuelve un Promiseque resuelve a Responseesa solicitud, ya sea exitosa o no
 
-* **Javier Armando Vargas Vega** (2)
+* **Javier Armando Vargas Vega** (2) [966169](https://platzi.com/comentario/966169/) 
 
-	
 	Me gustó esta explicación y el ejercicio sobre promesas. Me pareció claro y fácil de manejar.
 
-* **miguelangelsoler** (2)
+* **miguelangelsoler** (2) [953151](https://platzi.com/comentario/953151/) 
 
-	
 	Un ejemplo sin promises:
 	``` 
 	    const getPosts = (success,error) => {
@@ -14476,24 +13441,20 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 	
 	El primer then hace un return del request y se lo pasa al segundo then para extraer solo el post con el id:1 . De esta forma se logra la ejecución en cadena.
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [953151] (1)
 
-		
 		Para los que no sepan este sería el ejemplo de no usar fetch que nos devuelve una promesa o axios. Así antes se hacía una petición.
 
-* **David Vargas Domínguez** (2)
+* **David Vargas Domínguez** (2) [903800](https://platzi.com/comentario/903800/) 
 
-	
 	Una función async siempre retorna una promesa
 
-	* **Roso Peñaranda** (1)
+	* **Roso Peñaranda** [903800] (1)
 
-		
 		esto no es del todo cierto, una funcion async siempre utiliza una promesa, en caso de que utilice un async, pero no necesariamente devuelva una promesa, fijate que la funcion getTopMoviesInSequences devuelve un movie que es un arreglo no una promesa
 
-	* **David Vargas Domínguez** (1)
+	* **David Vargas Domínguez** [903800] (1)
 
-		
 		Hola!  
 		La función getTopMoviesInSequences retorna una promesa también, por eso se tiene que aplicar await a su lado para que se pueda extraer el array de movies.
 		``` 
@@ -14510,102 +13471,83 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 		
 		<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function>
 
-	* **Roso Peñaranda** (2)
+	* **Roso Peñaranda** [903800] (2)
 
-		
 		genial, ya vi cual era mi confucion con el termino 👍
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [728609](https://platzi.com/comentario/728609/) 
 
-	
 	Me está gustando el curso y la carrera en general.  
 	Esto de async / await lo vi con leonidas en el curso de jquery a javascript.  
 	pero en esta sección se le da otro enfoque, estoy emocionado.
 
-* **horacio-garcia** (1)
+* **horacio-garcia** (1) [1105023](https://platzi.com/comentario/1105023/) 
 
-	
 	compañeros tengo este error en consola, como puedo verificar de que se trata?  
 	'Failed to load resource: the server responded with a status of 404 () ’
 
-* **horacio-garcia** (1)
+* **horacio-garcia** (1) [1104880](https://platzi.com/comentario/1104880/) 
 
-	
 	siento frustración con esta clase 😦
 
-* **mugarte** (1)
+* **mugarte** (1) [1078456](https://platzi.com/comentario/1078456/) 
 
-	
 	Está buenísima la explicación paré un par de veces para investigar lo que no entendí muy bien y para el final de la clase pude entenderlo todo!
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1050490](https://platzi.com/comentario/1050490/) 
 
-	
 	Bastanta pobre la explicación
 
-	* **lgfh** (1)
+	* **lgfh** [1050490] (1)
 
-		
 		que parte no entendiste?
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [1050490] (1)
 
-		
 		Hola Martín ¿qué fue lo que no te gusto de la explicación? 😄
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [1050490] (1)
 
-		
 		Si quieres profundizar más sobre el asincronismo y las promesas te recomiendo muchísimo el [Curso de Asincronismo con JavaScript](https://platzi.com/clases/asincronismo-js/)
 
-	* **Jose Luis Vega Vargas** (1)
+	* **Jose Luis Vega Vargas** [1050490] (1)
 
-		
 		es facil decir que no le gusto la explicacion creyendo que sabe y no dice el porque, las personas que no argumentan no necesitan una respuesta, ya que carecen de sentido para analizar. facil y sencillo para toda la familia.
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [1050490] (1)
 
-		
 		Yo creo que en el curso de “Fundamentos de JS” lo explican mejor, pero este curso es profesional y se supone que estas cosas ya las sabemos, yo entendí todo, yo estoy haciendo la ruta “Escuela de Javascript”, la explicación me pareció buena, lo único que sí no me gustó, es que ya el archivo estuviera escrito, la idea es que lo vayamos escribiendo juntos, creo que se aprende más.
 
-* **Ricardo Martínez Murillo** (1)
+* **Ricardo Martínez Murillo** (1) [952777](https://platzi.com/comentario/952777/) 
 
-	
 	Como hace el profesor para descomentar muchas lineas a la vez?
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [952777] (4)
 
-		
 		En VSCode: Ctrl + / 😄
 
-	* **Ricardo Martínez Murillo** (1)
+	* **Ricardo Martínez Murillo** [952777] (1)
 
-		
 		Muchas Gracias!
 
-* **Roso Peñaranda** (1)
+* **Roso Peñaranda** (1) [912990](https://platzi.com/comentario/912990/) 
 
-	
 	El profesor hace una generalización que no es del todo cierta, el dice “toda función async devuelve una promesa” en el minuto 09:24 , pero el mismo esta declarando funciones async que no devuelven promesas sino listas/arreglos.
 
-* **Jesus M Cocaño Diaz** (1)
+* **Jesus M Cocaño Diaz** (1) [890229](https://platzi.com/comentario/890229/) 
 
-	
 	Creo que aqui Richard explico mejor las promesas que Sacha, o al menos asi lo percibi
 
-	* **emacastillozam** (1)
+	* **emacastillozam** [890229] (1)
 
-		
 		No tiene nada que ver la persona, es el contenido del curo. El de Sacha es “fundamentos”, este es profesional… Por ende, el contenido de éste es más a fondo… 😄
 
-* **Christian Perez** (1)
+* **Christian Perez** (1) [881083](https://platzi.com/comentario/881083/) 
 
-	
 	Ejemplos de como implementar esto en escenarios reales?
 
-	* **Roso Peñaranda** (1)
+	* **Roso Peñaranda** [881083] (1)
 
-		
 		Esto es parte de un codigo que hice hace unos años, de un api en node.js que utilizaba PostgeSQL como base de datos:
 		``` 
 		    var pgp = require("pg-promise")(options);
@@ -14677,19 +13619,16 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 		
 		Estos es un ejemplo real del uso de promesas y el async await, espero te sea de ayuda.
 
-* **k823** (1)
+* **k823** (1) [868788](https://platzi.com/comentario/868788/) 
 
-	
 	Creo que sería más constructivo que hiciesen el proyecto desde el principio para entender la totalidad de la funcionalidad y los métodos utilizados.
 
-	* **Gabriel De Andrade (Platzi)** (5)
+	* **Gabriel De Andrade (Platzi)** [868788] (5)
 
-		
 		Hola este es un Curso avanzado, a este punto deberías ser capaz de entender y leer código escrito por otra persona, pues esto va a constituir el 90% de tu tiempo como desarrollador, no escribir código. A parte de esta forma podemos pasar de una vez a los temas complejos de JavaScript que vemos en este curso, sin preocuparnos por CSS, HTML o JavaScript básico 😄
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [857465](https://platzi.com/comentario/857465/) 
 
-	
 	Agregen este bloque de css en su header
 	``` 
 	    <style>
@@ -14728,39 +13667,33 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 	    
 	```
 
-* **Victor Lozada** (1)
+* **Victor Lozada** (1) [845034](https://platzi.com/comentario/845034/) 
 
-	
 	Algo para complementar: <https://v8.dev/blog/fast-async>
 
-	* **pndafran** (1)
+	* **pndafran** [845034] (1)
 
-		
 		Gracias por el aporte
 
-* **WilliamVelazquez** (1)
+* **WilliamVelazquez** (1) [739329](https://platzi.com/comentario/739329/) 
 
-	
 	Entiendo el uso del método **race** de las Promesas, sin embargo, me cuesta trabajo pensar cuando sería un buen caso de uso para el mismo.  
 	De momento sólo me imagino un caso donde serviría el uso de race y siento que es muy muy específico y no tan común. 🤔  
 	¿Podrían compartirme algunos casos de uso que se les ocurran?
 
-	* **Emmanuel Rodríguez Ramírez** (4)
+	* **Emmanuel Rodríguez Ramírez** [739329] (4)
 
-		
 		Analízalo en el tiempo de inscripción de algún sistema, por ejemplo de alguna escuela/ticketmaster/cine. Ahí se crean peticiones donde se bloquean asientos/lugares/disponibilidad por tiempo.
 
-	* **WilliamVelazquez** (1)
+	* **WilliamVelazquez** [739329] (1)
 
-		
 		@rorem lo pienso como dices para un sistema de inscripción y menos me cuadra porque las peticiones no se están generando desde el mismo cliente, si no de varios en el caso de tu ejemplo (si lo imagino bien), por otro lado para eso creo es más conveniente el uso de sockets o alguna otra tecnología en mi opinión.
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [707467](https://platzi.com/comentario/707467/) 
 
-	
 	Cuando detenemos una funcion con el await mientras esperamos respuestas, otras funciones si son procesadas?
 
-	* **Diego Ivan Padilla Bernal** (3)
+	* **Diego Ivan Padilla Bernal** [707467] (3)
 
 		```
 		    asyncfunctionmensaje1() {
@@ -14783,45 +13716,39 @@ Hay un curso de fundamentos de JS dónde el profesor es Sacha, hay una clase de 
 		
 		como puedes probar tu mismo se muestra primero el **mensaje 2** es decir si continua ejecutándose el código aunque en la función de **mensaje1** se detenga esperando respuesta
 
-	* **roganoalien** (3)
+	* **roganoalien** [707467] (3)
 
-		
 		Sí y no. Todo lo que va dentro del scope de async se “dentendrá” o mejor dicho, esperará cuando se utilice el await para continuar con el proceso. Todo lo que esté fuera y sea llamado continuará.
 
-	* **Cristian Camilo Cucunubá** (2)
+	* **Cristian Camilo Cucunubá** [707467] (2)
 
-		
 		Como lo mostro diego-p-bernal en su ejemplo y tambien como lo explica roganoalien, async await combina lo mejor de ambos mundos : Nos permite escribir y leer codigo sincrono pero que se ejecuta asincronamente y no bloqua el stack.
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [707446](https://platzi.com/comentario/707446/) 
 
-	
 	No está el archivo en las descargas
 
-* **Daniel Lopez** (1)
+* **Daniel Lopez** (1) [84066](https://platzi.com/comentario/1042070/) 
 no entiendo bien el funcionamiento del metodo fetch
 
-	* **Enrique Devars (Platzi)** (2)
+	* **Enrique Devars (Platzi)** [84066] (2)
 
-		
 		Lo que hace el método fetch es realizar una petición HTTP. Con las peticiones HTTP podemos traer información de alguna base de datos o crear un usuario en nuestras aplicaciones, para este tipo de operaciones se usa una API. En esta clase traemos las películas de desde la API de The Movie DB.
 		
 		En clases más adelante se detalla cómo se usa fetch. Si quieres profundizar más al respecto te dejo la documentación de [MDN](https://developer.mozilla.org/es/docs/Web/API/Fetch_API/Utilizando_Fetch).
 
-* **Juan Carlos Pinzón** (1)
+* **Juan Carlos Pinzón** (1) [75275](https://platzi.com/comentario/866982/) 
 Puedo utilizar async/await en un prototipo de tipo clase? Es decir: class MiClase { async miMetodo() { const response = await m...
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [75275] (1)
 
-		
 		Es completamente posible, los métodos de las “clases” pueden funcionar de esa manera. Solo que externamente cuando uses esos metodos tambien te vas a referir a ellos como promesas.
 
-* **Mariana Cortés** (1)
+* **Mariana Cortés** (1) [69014](https://platzi.com/comentario/749887/) 
 Estoy teniendo problemas entendiendo: Todas las promesas usan el “…then” ? En qué momento o cuándo es que uno usa el “t...
 
-	* **Juan David Castro (Platzi)** (5)
+	* **Juan David Castro (Platzi)** [69014] (5)
 
-		
 		1️⃣ Los procesos asíncronos se pueden manejar con promesas o _async await_.
 		
 		2️⃣ Usando promesas usamos la propiedad **`.then`** para obtener los resultados asíncronos y **`.catch`** para controlar los errores.
@@ -14846,12 +13773,11 @@ Estoy teniendo problemas entendiendo: Todas las promesas usan el “…then” ?
 		    
 		```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [67796](https://platzi.com/comentario/729195/) 
 Encontré este texto por la red, pero no logro entender la última parte Las funciones async devuelven una promesa, por lo que aun debemos ...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [67796] (1)
 
-		
 		¿Dónde lo encontraste? Tal vez allí haya más contexto. 🤔
 		
 		Te explico lo que entendí.
@@ -14903,15 +13829,14 @@ Encontré este texto por la red, pero no logro entender la última parte Las fun
 		    
 		```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [67785](https://platzi.com/comentario/728930/) 
 Existe alguna otra forma para usar Async/Await al momento de cargar una página. Lo que pasa es que veo más código que con then y catch Su...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [67785] (1)
 
-		
 		No creo que resuelva tu duda, exactamente. Pero esta herramienta puede llamarte la atención: <https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript>.
 
-## 0170. Getters y setters
+## 0170. Getters y setters [22171](https://platzi.com/clases/1642-javascript-profesional/22171-getters-y-setters/)
 
 ### Descripción:
 
@@ -14922,39 +13847,33 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 
 ### Comentarios:
 
-* **braco** (17)
+* **braco** (17) [944873](https://platzi.com/comentario/944873/) 
 
-	
 	apuntes de la clase:
 	
 	![JS – 16.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2016-46bfba9c-31c6-4b39-9104-1e0372fd50ef.jpg)
 
-	* **David Lara Chirinos** (2)
+	* **David Lara Chirinos** [944873] (2)
 
-		
 		Gracias…
 
-	* **Anthony Sebastian Mayol** (2)
+	* **Anthony Sebastian Mayol** [944873] (2)
 
-		
 		Ídolo! solamente puedo agradecerte por el gran aporte que haces armando estas infografías de las clases! te felicito, ya me acostumbré a ellas inclusive, creo que varios las debemos esperar.  
 		Nos viene muy bien para repasar.  
 		Descargué algunas nomas, si quieres puedes pasarme las anteriores o iré hacia atrás en las clases a buscarlas.  
 		Abrazo fuerte desde Argentina!
 
-	* **horacio-garcia** (1)
+	* **horacio-garcia** [944873] (1)
 
-		
 		Legend !
 
-	* **Raundy Ibarras** (1)
+	* **Raundy Ibarras** [944873] (1)
 
-		
 		Good
 
-* **miguelangelsoler** (13)
+* **miguelangelsoler** (13) [974365](https://platzi.com/comentario/974365/) 
 
-	
 	Me parece que aunque se aborda la funcionalidad de los getters y setters, en el contexto en el cual se explica, no facilita su comprensión. Este seria un resumen:
 	
 	**Getters**
@@ -15027,24 +13946,20 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 	
 	En suma los getters y setters nos permiten tener el control sobre las propiedades que podemos almacenar o recuperar
 
-	* **ocandoja** (3)
+	* **ocandoja** [974365] (3)
 
-		
 		Gracias por tu aporte, me ayudó a entender esta parte del curso… Ya que como tú dices en el contexto no lo comprendo bien.
 
-	* **Sergio Eduardo Sinuco Leon** (1)
+	* **Sergio Eduardo Sinuco Leon** [974365] (1)
 
-		
 		Excelente ejemplo el que das tu. El ejemplo de la clase no fue claro.
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [974365] (1)
 
-		
 		Lo entendí mejor con tu ejemplio. Gracias.
 
-* **Alejandro González Reyes** (13)
+* **Alejandro González Reyes** (13) [729316](https://platzi.com/comentario/729316/) 
 
-	
 	Encontré esto por la red y entendí la importancia de este tema
 	``` 
 	    let persona = {
@@ -15067,39 +13982,32 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 	    
 	```
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [729316] (1)
 
-		
 		Excelente, muy útil la información. De momento no había comprendido la clase.
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [729316] (1)
 
-		
 		Ey si, acaré la clase con tu simple ejercicio. THX 👍
 
-* **juan-murga** (8)
+* **juan-murga** (8) [948021](https://platzi.com/comentario/948021/) 
 
-	
 	No me gusto mucho la explicacion de getters y setters. Me parecio corta y creo que no se dio a entender el uso real de estas funciones
 
-	* **Sergio Eduardo Sinuco Leon** (1)
+	* **Sergio Eduardo Sinuco Leon** [948021] (1)
 
-		
 		Totalmente de acuerdo contigo.
 
-* **Bernardo Ayala Montezuma** (6)
+* **Bernardo Ayala Montezuma** (6) [893415](https://platzi.com/comentario/893415/) 
 
-	
 	Este ejemplo que plantean aquí en este link me parece bastante bueno para reforzar esta clase y entender un poco mejor los Getters y Setters: [JavaScript Getters and Setters](https://javascriptplayground.com/es5-getters-setters/)
 
-	* **Antonio Madrid** (2)
+	* **Antonio Madrid** [893415] (2)
 
-		
 		Me sirvió para comprender su uso, gracias.
 
-* **Cesar Augusto Barco de Gouveia** (6)
+* **Cesar Augusto Barco de Gouveia** (6) [729058](https://platzi.com/comentario/729058/) 
 
-	
 	## Getters y setters
 	
 	‌
@@ -15162,61 +14070,53 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 	
 	Devuelve una promesa que se cumple o rechaza tan pronto como una de las promesas del iterable se cumple o rechaza, con el valor o razón de esa promesa.
 
-* **maria-del-carmen-rodriguez** (5)
+* **maria-del-carmen-rodriguez** (5) [992314](https://platzi.com/comentario/992314/) 
 
-	
 	básicamente, la ventaja de los getters es que nos permiten modelar la información antes de mostrarla, y que al codificar en vez de acceder a un método del objeto accedamos a un atributo virtual, y el set nos permite validar lo que se agregara la propiedad del objeto antes de asignarlo
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [992314] (1)
 
-		
 		Exactamente, ademas te permite limitar la cantidad de datos que quieres manejar a través de un objeto. En este caso el profesor para ello creo el objeto `player`. Con `player` solo puedes acceder a la propiedad `muted`.
 
-* **Filiberto Santillán** (5)
+* **Filiberto Santillán** (5) [921816](https://platzi.com/comentario/921816/) 
 
-	
 	Creo este tema es un poco complicado de entender, pero espero facilitar un poco las cosas con mi explicación. En lugar de pasar el `this` pasamos un nuevo objeto `player = { ... }` el cual contiene los métodos que nos interesa pasar, pero, sigue siendo un objeto. Es por eso que perdemos ciertas características que tiene el `this`. Gracias a los **getters** y **setters** , recuperamos parte de esas características, sin utilizar `this` lo que nos permite (en este caso) saber si el video esta `muted` y también alterarlo.
 	
 	![IMG_2E9189DE390A-1.jpg](https://static.platzi.com/media/user_upload/IMG_2E9189DE390A-1-a2dc56b0-f96c-454a-be3c-18eb7d702212.jpg)
 
-* **Jesús Miguel Quinto Teran** (5)
+* **Jesús Miguel Quinto Teran** (5) [762559](https://platzi.com/comentario/762559/) 
 
-	
 	Segun la W3Schools: <https://www.w3schools.com/js/js_object_accessors.asp>
 	
 	**¿Por qué usar getters y setters?**
 	
-	  * Da una sintaxis más simple
-	  * Permite una sintaxis igual para propiedades y métodos
-	  * Puede asegurar una mejor calidad de datos
-	  * Es útil para hacer cosas detrás de escena.
+	* Da una sintaxis más simple
+	* Permite una sintaxis igual para propiedades y métodos
+	* Puede asegurar una mejor calidad de datos
+	* Es útil para hacer cosas detrás de escena.
 	
 	
 
-* **Wilson Marino Pablo Mendez** (4)
+* **Wilson Marino Pablo Mendez** (4) [857653](https://platzi.com/comentario/857653/) 
 
-	
 	En lenguajes fuertemente tipado se comprende más los setters y getters como en JAVA
 
-	* **JuanDAC** (1)
+	* **JuanDAC** [857653] (1)
 
-		
 		Es por que Java en un inicio fue hecho para programacion orientada a objetos Javascript, la razon es que javascript se creo bajo un texto totalmente diferente contexto que ha ido mutando y por ende el leguaje tambien.
 
-* **Jesús Miguel Quinto Teran** (4)
+* **Jesús Miguel Quinto Teran** (4) [762555](https://platzi.com/comentario/762555/) 
 
-	
 	Yo he estado usando los getters en Vuejs que son un poco más complejos y son realmente útiles.
 	
-	  * reducen la complejidad del código.
-	  * evitan escribir propiedades de mas.
-	  * evita escribir funciones innecesarias.
+	* reducen la complejidad del código.
+	* evitan escribir propiedades de mas.
+	* evita escribir funciones innecesarias.
 	
 	
 
-* **Diego Andres Cabrera Rojas** (3)
+* **Diego Andres Cabrera Rojas** (3) [1068371](https://platzi.com/comentario/1068371/) 
 
-	
 	Recomendaciones para aquellos que se les dificulte entender esta clase , apoyándome de recursos de los comentarios de compañeros
 	
 	  1. Leer la descripción debajo del vídeo
@@ -15228,34 +14128,28 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 	
 	Pensaras que el camino es un poco largo pero si no resolverá un 100% de tus dudas tendrás una visión muy clara de este para proceder a darle una investigación mas amplia
 
-	* **horacio-garcia** (1)
+	* **horacio-garcia** [1068371] (1)
 
-		
 		Gracias, you’re a legend
 
-	* **Raundy Ibarras** (1)
+	* **Raundy Ibarras** [1068371] (1)
 
-		
 		Gracias man!
 
-* **Antonio Madrid** (3)
+* **Antonio Madrid** (3) [912479](https://platzi.com/comentario/912479/) 
 
-	
 	Esta clase no la vi muy acertada para explicar el uso de getters y setters.
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [912479] (2)
 
-		
 		Hola! Que crees que le falte a la clase? De todas maneras si quieres aprender un poco más sobre estos conceptos en el Curso de [Programación Orientada a Objetos](https://platzi.com/clases/oop/) específicamente en el Módulo de Encapsulamiento 😄
 
-	* **Carlos Remesal** (2)
+	* **Carlos Remesal** [912479] (2)
 
-		
 		Si, creo que el profesor cree que sabemos mas de lo que sabemos en realidad ^:^
 
-* **Jorge Mendez Ortega** (2)
+* **Jorge Mendez Ortega** (2) [1020989](https://platzi.com/comentario/1020989/) 
 
-	
 	pero lo setter y getters no son tan nuevos ya que estos se podian utilizar al usar **Object.create** ademas de que tambien al usar **prototype** los puedes generar
 	``` 
 	    const EXAMPLE = Object.create({}, {
@@ -15285,14 +14179,12 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 	
 	Yo recuerdo que se pueden usar de esa manera y no solo puedes usar set y get también al generar lo con el Object.create tienes la opción de utilizar value, lo que si entiendo es que actualmente se usa un poco de sugar syntax.
 
-* **Nacxit** (2)
+* **Nacxit** (2) [984096](https://platzi.com/comentario/984096/) 
 
-	
 	Los set y get son propiedades virtuales que no permite hacer cualquier tipo de logica, get no retorna y set atrapa cualquier valor, como los set y get no son funciones no se declara como una funcion si no como una propiedad y se asigna con un =
 
-* **Christian Armando Consuelo Mayén** (2)
+* **Christian Armando Consuelo Mayén** (2) [768999](https://platzi.com/comentario/768999/) 
 
-	
 	Esto también me recuerda las propiedades con decoradores
 	``` 
 	    @property
@@ -15301,31 +14193,27 @@ Estas propiedades al ser funciones pueden llevar una validación de por medio y 
 	
 	en python/Django.
 
-* **José Daniel Hernández Estrada** (2)
+* **José Daniel Hernández Estrada** (2) [751063](https://platzi.com/comentario/751063/) 
 
-	
 	Esto me recuerda mucho al estándar que maneja Java con Get y Set como funciones de clases.
 
-	* **Emmanuel Rodríguez Ramírez** (2)
+	* **Emmanuel Rodríguez Ramírez** [751063] (2)
 
-		
 		Pues como tal serían estándares/buenas prácticas de POO (Programación Orientada a Objetos) para entablar el famoso pilar de _encapsulamiento_
 
-* **Nicolas Esteban Prieto Sarmiento** (2)
+* **Nicolas Esteban Prieto Sarmiento** (2) [69003](https://platzi.com/comentario/749693/) 
 Básicamente los Getters y son funciones que haces pasar como si fuera una propiedad del objeto así envés de //NO! objeto.funcion() ...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [69003] (1)
 
-		
 		Sip. Estás muy bien.
 		
 		Por dentro, los getters y setters trabajan como funciones normales. Pero por fuera, cuando los usarlos para obtener o modificar información, no debemos trabajarlos como funciones (enviando argumentos y esas cosas), sino como variables/objetos normales.
 		
 		La ventaja de esto es que podemos validar la información. Así como en este ejemplo: <http://platzi.com/comentario/729316/>.
 
-* **Alessandri** (1)
+* **Alessandri** (1) [1110593](https://platzi.com/comentario/1110593/) 
 
-	
 	Un ejemplo del uso de getters y setters
 	``` 
 	    //Getters se utilizan para generar una propiedad virtual retornando un valor a traves de una funcion
@@ -15349,22 +14237,19 @@ Básicamente los Getters y son funciones que haces pasar como si fuera una propi
 	    
 	```
 
-* **Alessandri** (1)
+* **Alessandri** (1) [1110528](https://platzi.com/comentario/1110528/) 
 
-	
 	Compañeros les recomiendo ver este vídeo con la explicación del los getters y setters antes de realizar el ejercicio del mediaplayer [vídeo](https://www.youtube.com/watch?v=bl98dm7vJt0) . Me saco de muchas dudas
 
-	* **Nahuel Bonader** (1)
+	* **Nahuel Bonader** [1110528] (1)
 
-		
 		Muy buen video! Gracias por el aporte
 
-* **Steve Anthony Luzquiños Agama** (1)
+* **Steve Anthony Luzquiños Agama** (1) [1060010](https://platzi.com/comentario/1060010/) 
 
-	
 	Esta clase me deja muchos sinsabores:
 	
-	  * La declaración de media: this.media es poco intuitiva, (cualquiera podría pensar que saltaría un error, porque dentro del objeto player no existe la propiedad media, así que no podría referenciar a this.media) considero que sería mucho mejor y más claro de esta manera:
+	* La declaración de media: this.media es poco intuitiva, (cualquiera podría pensar que saltaría un error, porque dentro del objeto player no existe la propiedad media, así que no podría referenciar a this.media) considero que sería mucho mejor y más claro de esta manera:
 	
 	
 	``` 
@@ -15387,9 +14272,9 @@ Básicamente los Getters y son funciones que haces pasar como si fuera una propi
 	    
 	```
 	
-	  * La sobrecarga al tener dos funciones (una get y otra set) del mismo nombre muted, ¿por qué no usar nombres diferentes? Creo que sería más claro (como muestro arriba).
+	* La sobrecarga al tener dos funciones (una get y otra set) del mismo nombre muted, ¿por qué no usar nombres diferentes? Creo que sería más claro (como muestro arriba).
 	
-	  * Dentro de AutoPlay.js no tiene sentido que preguntemos si el vídeo está muted o no, ya que debemos mutearlo antes de darle play. ¿No es mejor de frente mutearlo y ya? Algo así:
+	* Dentro de AutoPlay.js no tiene sentido que preguntemos si el vídeo está muted o no, ya que debemos mutearlo antes de darle play. ¿No es mejor de frente mutearlo y ya? Algo así:
 	
 	
 	
@@ -15403,13 +14288,12 @@ Básicamente los Getters y son funciones que haces pasar como si fuera una propi
 	    
 	```
 	
-	  * Finalmente, es poco práctico usar los getters y setters así, se colige que tendríamos que crear un objeto nuevo con las funciones que necesitemos a cada plugin, aunque quizás sea lo correcto.
+	* Finalmente, es poco práctico usar los getters y setters así, se colige que tendríamos que crear un objeto nuevo con las funciones que necesitemos a cada plugin, aunque quizás sea lo correcto.
 	
 	
 
-	* **jesus-ruvalcaba-miranda** (1)
+	* **jesus-ruvalcaba-miranda** [1060010] (1)
 
-		
 		Estos módulos, según yo entiendo, es para que se entienda como aplicar algunos conceptos de la Programación Orientada en JavaScript.
 		
 		en este caso aplicamos uno de los principios que son los Getter y Setter
@@ -15542,14 +14426,12 @@ Básicamente los Getters y son funciones que haces pasar como si fuera una propi
 		
 		![Captura de Pantalla 2020-04-07 a la\(s\) 14.59.35.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-07%20a%20la%28s%29%2014.59.35-eccc13d3-6283-4eae-a5bb-097560be7212.jpg)
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [966226](https://platzi.com/comentario/966226/) 
 
-	
 	Quizá la explicación parezca algo confusa, pero volviendo a ver el video se entiende mejor el tema.
 
-* **Jessie Buckland Pérez** (1)
+* **Jessie Buckland Pérez** (1) [920299](https://platzi.com/comentario/920299/) 
 
-	
 	Como no me enteré realmente del concepto comparto un código muy sencillo ya que quizás a alguien se le haga un poco complejo el tema de plugins, muted y demás. Y lanzo la pregunta junto con el aporte, el código :
 	``` 
 	    var persona = {
@@ -15579,29 +14461,24 @@ Básicamente los Getters y son funciones que haces pasar como si fuera una propi
 	
 	Si en lugar de usar VAR para crear el Objeto persona usaramos FUNCTION tal y como se realiza con MediaPlayer, ¿sería incorrecto, funcionaría y sería una mala práctica?
 
-* **Rodrigo Andrés Iturrieta Martínez** (1)
+* **Rodrigo Andrés Iturrieta Martínez** (1) [803340](https://platzi.com/comentario/803340/) 
 
-	
 	Getter y Setter sirve para cumplir la propiedad de Encapsulamiento del objeto en POO
 
-* **Cristian Bello Cervantes** (1)
+* **Cristian Bello Cervantes** (1) [798618](https://platzi.com/comentario/798618/) 
 
-	
 	Esto es muy parecido a le que en Laravel se llaman Accessors y Mutators. :0
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [708138](https://platzi.com/comentario/708138/) 
 
-	
 	Qué otro ejemplo de uso podríamos tener de una buena aplicación de getters and setters? A mi no se me ocurre ninguna ):
 
-	* **Gabriel De Andrade (Platzi)** (8)
+	* **Gabriel De Andrade (Platzi)** [708138] (8)
 
-		
 		Los getters y setters se utilizan mucho con POO, cuando tienes variables privadas la única forma de consultarlo y cambiarlo es a través de estos getters y setters, esto hace posible que no se cambien las variables directamente si no a través de un método. En Platzi hay un curso de POO, te lo recomiendo mucho 😄
 
-	* **Andrés Felipe Eslava Zuluaga** (4)
+	* **Andrés Felipe Eslava Zuluaga** [708138] (4)
 
-		
 		Si suponemos un carrito de compras y un evento con un click indicando que tiene un producto para guardar, se puede ‘activar’ un cambio de estado e indicar que se agregó un producto en el carrito.  
 		Asumimos que el carrito es un Objeto ((`pues estamos eb Javascript, debería por primicia ser un obejto`)) que dentro tiene sus métodos y propiedades que pueden recibir eventos, cambios, alertas, y demás cosas que componen un objeto.
 		``` 
@@ -15624,22 +14501,20 @@ Básicamente los Getters y son funciones que haces pasar como si fuera una propi
 		    
 		```
 
-* **Mariangelica Useche Saavedra** (1)
+* **Mariangelica Useche Saavedra** (1) [78816](https://platzi.com/comentario/928065/) 
 Tengo una duda: Si ya en el objeto player estoy añadiendo la propiedad `media: this.media`, no podría acceder ya desde el plugging a `pla...
 
-	* **Enrique Devars (Platzi)** (2)
+	* **Enrique Devars (Platzi)** [78816] (2)
 
-		
 		Si, si podrías acceder a `player.media.muted`, pero gracias al uso de `get` y `set` podemos validar como queremos que sea la propiedad que asignamos o devolvemos.
 		
 		Por ejemplo, con un `get`podrías validar si la edad que recibes de una persona es mayor a 18.
 
-* **Mariangelica Useche Saavedra** (1)
+* **Mariangelica Useche Saavedra** (1) [78815](https://platzi.com/comentario/928064/) 
 Tengo una duda: Si ya en el objeto player estoy añadiendo la propiedad `media: this.media`, no podría acceder ya desde el plugging a `pla...
 
-	* **Octavio Villavicencio Cruz** (2)
+	* **Octavio Villavicencio Cruz** [78815] (2)
 
-		
 		si puedes hacer uso completo del media como “player.media”
 		``` 
 		    AutoPlay.prototype.run = function(player){
@@ -15652,12 +14527,11 @@ Tengo una duda: Si ya en el objeto player estoy añadiendo la propiedad `media: 
 		    
 		```
 
-* **T-gold** (1)
+* **T-gold** (1) [76089](https://platzi.com/comentario/880772/) 
 no estaria entendiendo el setter
 
-	* **David Granados** (2)
+	* **David Granados** [76089] (2)
 
-		
 		Debido a que el plugin ya no tiene acceso directamente al “this”, no tiene forma de obtener el valor del “this.media.mute” o modificarlo para mutear el vídeo.
 		
 		En el ejemplo se crea un objeto intermediario entre los plugins y el objeto “this” del MediaPlayer, este objeto es llamado “player”.
@@ -15668,9 +14542,9 @@ no estaria entendiendo el setter
 		
 		Con el setter le das un nivel de acceso de escritura a la propiedad “media.muted” para que el intermediario pueda modificar su valor y mutear o reproducir el sonido del MediaPlayer.
 
-# Fundamentos Avanzados
+# Fundamentos Avanzados [4446]
 
-## 0180. Proxy
+## 0180. Proxy [22172](https://platzi.com/clases/1642-javascript-profesional/22172-proxy/)
 
 ### Descripción:
 
@@ -15685,31 +14559,26 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 
 ### Comentarios:
 
-* **braco** (20)
+* **braco** (20) [946288](https://platzi.com/comentario/946288/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 17.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2017-fb04470d-a18a-4a0a-bf2b-c94464b53410.jpg)
 
-	* **Javier Armando Vargas Vega** (2)
+	* **Javier Armando Vargas Vega** [946288] (2)
 
-		
 		Gracias por ese material.
 
-	* **lgfh** (2)
+	* **lgfh** [946288] (2)
 
-		
 		que buena 😃, gracias
 
-	* **David Lara Chirinos** (2)
+	* **David Lara Chirinos** [946288] (2)
 
-		
 		Gracias por ese material.
 
-* **yoshua_diaz** (9)
+* **yoshua_diaz** (9) [752276](https://platzi.com/comentario/752276/) 
 
-	
 	Sé que no es una aplicación muy ortodoxa pero la comparto:
 	``` 
 	    const dialogosRamirez = {
@@ -15746,23 +14615,20 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 	    
 	```
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [752276] (1)
 
-		
 		Jajajajajajaja  
 		Mucha creatividad
 
-* **Jesús Miguel Quinto Teran** (5)
+* **Jesús Miguel Quinto Teran** (5) [769585](https://platzi.com/comentario/769585/) 
 
-	
 	Otra gran utilidad de los Proxy son la validación de datos, podemos usarlos como piezas intermedias para controlar ingeniosamente las posibles entradas del usuario.
 	
 	<https://es.wikipedia.org/wiki/Distancia_de_Levenshtein>  
 	<https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Proxy>
 
-* **Cesar Augusto Barco de Gouveia** (5)
+* **Cesar Augusto Barco de Gouveia** (5) [734329](https://platzi.com/comentario/734329/) 
 
-	
 	## Proxy
 	
 	El objeto **Proxy** se usa para definir un comportamiento personalizado para operaciones fundamentales (por ejemplo, para observar propiedades, cuando se asignan, enumeración, invocación de funciones, etc).
@@ -15845,25 +14711,21 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 	
 	La **distancia de Levenshtein** , **distancia de edición** o **distancia entre palabras** es el número mínimo de operaciones requeridas para transformar una [cadena de caracteres](https://es.wikipedia.org/wiki/Cadena_de_caracteres "Cadena de caracteres") en otra, se usa ampliamente en [teoría de la información](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_informaci%C3%B3n "Teoría de la información") y [ciencias de la computación](https://es.wikipedia.org/wiki/Ciencias_de_la_computaci%C3%B3n "Ciencias de la computación"). Se entiende por operación, bien una inserción, eliminación o la sustitución de un carácter. Esta distancia recibe ese nombre en honor al científico ruso [Vladimir Levenshtein](https://es.wikipedia.org/wiki/Vladimir_Levenshtein "Vladimir Levenshtein"), quien se ocupó de esta distancia en [1965](https://es.wikipedia.org/wiki/1965 "1965"). Es útil en programas que determinan cuán similares son dos cadenas de caracteres, como es el caso de los [correctores ortográficos](https://es.wikipedia.org/wiki/Corrector_ortogr%C3%A1fico "Corrector ortográfico").
 
-* **Diego Sebastián** (5)
+* **Diego Sebastián** (5) [727358](https://platzi.com/comentario/727358/) 
 
-	
 	Les dejo el link de levenshtein: <https://unpkg.com/fast-levenshtein@2.0.6/levenshtein.js>
 
-* **cesar88** (4)
+* **cesar88** (4) [848317](https://platzi.com/comentario/848317/) 
 
-	
 	me sirvio mucho para reforzar y entender mejor el concepto:  
 	<https://www.youtube.com/watch?v=0o4-TvTkGtk>
 
-	* **David Trespalacios** (1)
+	* **David Trespalacios** [848317] (1)
 
-		
 		De acuerdo , Gracias.
 
-* **Andres Felipe Valencia Benitez** (4)
+* **Andres Felipe Valencia Benitez** (4) [740901](https://platzi.com/comentario/740901/) 
 
-	
 	Hola! comparto una implementación para el método Set:
 	``` 
 	    <script>
@@ -15911,15 +14773,13 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 	
 	![2019-09-17_1219.png](https://static.platzi.com/media/user_upload/2019-09-17_1219-1ad4ca31-a7c0-49df-bd1e-44c0e1e4cfc8.jpg)
 
-* **José Iván Sandoya** (3)
+* **José Iván Sandoya** (3) [759650](https://platzi.com/comentario/759650/) 
 
-	
 	Si desean complementar 🤓  
 	<https://www.youtube.com/watch?v=gZ4MCb2nlfQ>
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [731661](https://platzi.com/comentario/731661/) 
 
-	
 	Dejo un apunte mas detallado acerca del ejemplo visto en clase
 	``` 
 	    // target es mi objeto a supervisar (sus propiedades pueden ser objetos, array, funciones, u otro proxy)
@@ -15965,25 +14825,21 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 	    
 	```
 
-* **Javier Armando Vargas Vega** (2)
+* **Javier Armando Vargas Vega** (2) [966283](https://platzi.com/comentario/966283/) 
 
-	
 	Un tema muy interesante y útil de JavaScript. Veo que su mayor utilidad sería en la creación de APIS.  
 	Estoy en lo cierto??
 
-* **Cristian Caraballo** (2)
+* **Cristian Caraballo** (2) [863627](https://platzi.com/comentario/863627/) 
 
-	
 	hola, alguien sabe que fuente usa richard en VsCode?
 
-	* **BrysonFlorez** (2)
+	* **BrysonFlorez** [863627] (2)
 
-		
 		Es el Material Dark Theme
 
-	* **Jose Arturo Enriquez Hurtado** (2)
+	* **Jose Arturo Enriquez Hurtado** [863627] (2)
 
-		
 		 **[FiraCode](https://github.com/tonsky/)**
 		
 		Instala la fuente y coloca esto en tu **settings.json** de **vscode**
@@ -15995,9 +14851,8 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 		    
 		```
 
-	* **ManuS** (2)
+	* **ManuS** [863627] (2)
 
-		
 		vete a la sección view, luego command palette, y escribe en el buscador que te aparece: settings.json, y añade estas lineas o modifica las que estén:
 		``` 
 		    {
@@ -16007,76 +14862,62 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 		    
 		```
 
-* **Javier Fuentes Mora** (2)
+* **Javier Fuentes Mora** (2) [745969](https://platzi.com/comentario/745969/) 
 
-	
 	No entiendo porque el proxy lo declara así , si la documentación le manda tres elementos y entiendo que incluso la forma en que el la declara dice que no es correcta , alguien que me de más luz?![lala.png](https://static.platzi.com/media/user_upload/lala-fcc37746-9541-4f2b-b4e5-6d50c44055f8.jpg)
 
-	* **Antonio Madrid** (1)
+	* **Antonio Madrid** [745969] (1)
 
-		
 		En realidad esta haciendo lo mismo, solo que esta estructurando el código de forma diferente para que sea mas legible.
 
-* **nicolasAltieri** (2)
+* **nicolasAltieri** (2) [720347](https://platzi.com/comentario/720347/) 
 
-	
 	Muy buena clase!!! Soundex está muy bueno, compara la similitud de “como suenan” las palabras!!!
 
-	* **Mariana Cortés** (1)
+	* **Mariana Cortés** [720347] (1)
 
-		
 		Wow, por ejemplo los cursos en línea como RosettaStone, a la hora de evaluar la pronunciación están es usando un algoritmo similar o igual a Soundex?
 
-* **Diego Camino** (1)
+* **Diego Camino** (1) [978532](https://platzi.com/comentario/978532/) 
 
-	
 	Alguien me puede decir como se llama la librería que usa o plugin para vs code para escribir <= junto? o como lo hace?
 
-	* **Gabriel De Andrade (Platzi)** (6)
+	* **Gabriel De Andrade (Platzi)** [978532] (6)
 
-		
 		Hola! Se llaman _Font Ligatures_ , estas se encuentran en algunas fuentes específicas, en este caso Richard está utilizando [Fira Code](https://github.com/tonsky/FiraCode) que es de las más populares, acá te dejo instrucciones de [cómo descargar e instalar para VSCode](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions) 😄
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [978532] (1)
 
-		
 		@GabrielElpidio Muchas gracias!!!
 
-	* **Jorge Mendez Ortega** (2)
+	* **Jorge Mendez Ortega** [978532] (2)
 
-		
 		hay otras opciones como
 		
 		[.jetbrains](https://www.jetbrains.com/lp/mono/#intro). o [Iosevka](https://typeof.net/Iosevka/)
 
-* **Alessandri** (1)
+* **Alessandri** (1) [977792](https://platzi.com/comentario/977792/) 
 
-	
 	Creo que esto sera muy útil a la hora de realizar buscadores, podríamos implementarlo en platzi vídeo
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [977792] (1)
 
-		
 		Así es, primero podrías hacer un filtrado con `map.filter` de los videos para tu buscador y aplicarle después un proxy en dado caso de que se equivocara.
 
-* **Emanuel Catriquil** (1)
+* **Emanuel Catriquil** (1) [960732](https://platzi.com/comentario/960732/) 
 
-	
 	Super útil para una mejor interacción con el usuario!
 
-* **Ricardo Martínez Murillo** (1)
+* **Ricardo Martínez Murillo** (1) [953182](https://platzi.com/comentario/953182/) 
 
-	
 	Me pareció muy interesante esta clase
 
-* **lucas-moreno375** (1)
+* **lucas-moreno375** (1) [904161](https://platzi.com/comentario/904161/) 
 
-	
 	alguien sabe en que contexto se puede utilizar proxys? no se me ocurre alguno 😕
 
-	* **Antonio Madrid** (1)
+	* **Antonio Madrid** [904161] (1)
 
-		
 		Los routers suelen tener proxies para verificar el acceso.  
 		El proxy comprueba que tienes acceso a un recurso y te lo da, haciendo ciertas validaciones (MAC, usuario, password, etc).
 		
@@ -16085,14 +14926,12 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 		
 		Como el portero de una discoteca.
 
-* **Maximo Martinez Soria** (1)
+* **Maximo Martinez Soria** (1) [901877](https://platzi.com/comentario/901877/) 
 
-	
 	A alguien se le ocurre algún ejemplo de un caso más real?
 
-	* **Antonio Madrid** (3)
+	* **Antonio Madrid** [901877] (3)
 
-		
 		Los routers suelen tener proxies para verificar el acceso.  
 		El proxy comprueba que tienes acceso a un recurso y te lo da, haciendo ciertas validaciones (MAC, usuario, password, etc).
 		
@@ -16101,25 +14940,21 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 		
 		Como el portero de una discoteca.
 
-	* **Maximo Martinez Soria** (1)
+	* **Maximo Martinez Soria** [901877] (1)
 
-		
 		Gracias!
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [901825](https://platzi.com/comentario/901825/) 
 
-	
 	En qué momento es recomendable usar los Proxy??
 
-	* **Antonio Madrid** (2)
+	* **Antonio Madrid** [901825] (2)
 
-		
 		Cuando quieras asegurarte de que un objeto va a ser manipulado de forma correcta.  
 		O cuando quieras limitar el acceso a un objeto (cumpliendo requisitos, o encolando).
 
-* **T-gold** (1)
+* **T-gold** (1) [882604](https://platzi.com/comentario/882604/) 
 
-	
 	comparto un PROXY --SET muy interesante
 	
 	let validator = {  
@@ -16148,38 +14983,32 @@ El proxy sirve para interceptar la lectura de propiedades de un objeto (los _get
 	person.age = ‘young’; // Throws an exception  
 	person.age = 300; // Throws an exception
 
-* **T-gold** (1)
+* **T-gold** (1) [882595](https://platzi.com/comentario/882595/) 
 
-	
 	ALGUIEN TIENE ALGUNA TRAP DE PROXY aparte de get  
 	que quiera compartir?
 
-* **Sergui20** (1)
+* **Sergui20** (1) [868712](https://platzi.com/comentario/868712/) 
 
-	
 	Este curso está mágico !
 
-* **Juancarlos Salcedo Terán** (1)
+* **Juancarlos Salcedo Terán** (1) [733499](https://platzi.com/comentario/733499/) 
 
-	
 	no es libreria es Biblioteca
 
-* **Wilson Fabian Pérez Sucuzhañay** (1)
+* **Wilson Fabian Pérez Sucuzhañay** (1) [724861](https://platzi.com/comentario/724861/) 
 
-	
 	esto se podría utilizar como un paso ejemplo para saber si el usuario tiene permiso de hacer un get del objeto no ?
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [705329](https://platzi.com/comentario/705329/) 
 
-	
 	Levenshtein distance este es una buena tecnica
 
-* **danielmedina** (1)
+* **danielmedina** (1) [84981](https://platzi.com/comentario/1063579/) 
 Pregunta: por que en suggestion, hace un return si la arrow function hace un return automatico.? const suggestion = Object.keys(o...
 
-	* **Nathaly Stefani Riaño Bejarano** (1)
+	* **Nathaly Stefani Riaño Bejarano** [84981] (1)
 
-		
 		👉 Si no utilizas las llaves, el return es implícito, pero si utilizas las llaves (como en éste caso) el return es necesario especificarlo, porque lo que estás haciendo es abrir un bloque código, y necesitas indicar lo que vas a retornar 😃  
 		.  
 		En éste caso, quedaría:
@@ -16188,15 +15017,14 @@ Pregunta: por que en suggestion, hace un return si la arrow function hace un ret
 		    
 		```
 
-* **Nicolas Esteban Prieto Sarmiento** (1)
+* **Nicolas Esteban Prieto Sarmiento** (1) [69054](https://platzi.com/comentario/750437/) 
 Me dice que levenshtein no existe
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [69054] (1)
 
-		
 		por favor pon el codigo HTML completo aqui para que podamos ayudarte, probablemente no esta cargando el script que carga dicha funcion. Verifica que el codigo HTML este exactamente igual como lo tiene el profesor
 
-## 0190. Generators
+## 0190. Generators [22173](https://platzi.com/clases/1642-javascript-profesional/22173-generators/)
 
 ### Descripción:
 
@@ -16205,30 +15033,27 @@ Los generadores son funciones especiales, pueden pausar su ejecución y luego vo
 
 Algunas de sus características:
 
-  * Los generadores regresan una función.
-  * Empiezan suspendidos y se tiene que llamar _next_ para que ejecuten.
-  * Regresan un _value_ y un _boolean done_ que define si ya terminaron.
-  * _yield_ es la instrucción que regresa un valor cada vez que llamamos a _next_ y detiene la ejecución del generador.
+* Los generadores regresan una función.
+* Empiezan suspendidos y se tiene que llamar _next_ para que ejecuten.
+* Regresan un _value_ y un _boolean done_ que define si ya terminaron.
+* _yield_ es la instrucción que regresa un valor cada vez que llamamos a _next_ y detiene la ejecución del generador.
 
 
 
 ### Comentarios:
 
-* **braco** (17)
+* **braco** (17) [948056](https://platzi.com/comentario/948056/) 
 
-	
 	apuntes de la clase:
 	
 	![JS – 18.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2018-15804034-3196-4382-a0b0-c8f1ec6e1209.jpg)
 
-	* **Jorge Mendez Ortega** (2)
+	* **Jorge Mendez Ortega** [948056] (2)
 
-		
 		tu generas los apuntes ? son muy buenos men
 
-* **Cesar Augusto Barco de Gouveia** (7)
+* **Cesar Augusto Barco de Gouveia** (7) [734358](https://platzi.com/comentario/734358/) 
 
-	
 	## Generador
 	
 	El objecto Generador es retornado por [generator function](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Statements/function* "La documentación acerca de este tema no ha sido escrita todavía . ¡Por favor  considera contribuir !") y conforma tanto un protocolo iterable como un protocolo iterador.
@@ -16278,9 +15103,8 @@ Algunas de sus características:
 	    
 	```
 
-* **Hector Franco Torres Manzano** (4)
+* **Hector Franco Torres Manzano** (4) [945310](https://platzi.com/comentario/945310/) 
 
-	
 	Tenía entendido que la serie de Fibonacci empezaba con 1, 1, 2, 3, 5, 8,…  
 	Comparto mi modificación por si a alguien le interesa:
 	``` 
@@ -16297,14 +15121,12 @@ Algunas de sus características:
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (4)
+* **Jesús Miguel Quinto Teran** (4) [769609](https://platzi.com/comentario/769609/) 
 
-	
 	Realmente útil, no había escuchado sobre generadores. pero me recuerda al manejo de Hilos en Sistemas Operativo.
 
-* **necrobahamut** (4)
+* **necrobahamut** (4) [765358](https://platzi.com/comentario/765358/) 
 
-	
 	Tambien el yield podemos usarlo para delegar el siguiente next() a otro generador usando yield*, ejemplo:
 	``` 
 	    function* generator(){
@@ -16329,22 +15151,19 @@ Algunas de sus características:
 	    
 	```
 
-* **Daniel Lopez** (3)
+* **Daniel Lopez** (3) [1052638](https://platzi.com/comentario/1052638/) 
 
-	
 	bastante util esta clase
 
-* **albertofragoso_com** (3)
+* **albertofragoso_com** (3) [725299](https://platzi.com/comentario/725299/) 
 
-	
 	Les comparto ésta excelente Kata de código para practicar generadores: [Baum Sweet Sequence](https://www.codewars.com/kata/the-baum-sweet-sequence/train/javascript)
 
-* **SaFeRamirez** (3)
+* **SaFeRamirez** (3) [65836](https://platzi.com/comentario/698672/) 
 Entendi lo que hace el Generator, pero no me queda claro un ejemplo puntual en el que se use, en aplicaciones de producción. ¿Podrían ilu...
 
-	* **edgar figueroa** (3)
+	* **edgar figueroa** [65836] (3)
 
-		
 		puede ayudarte construir una funcion que controle la ejecucion de funciones asincronas practicamente igual a _**async/await**_ ( _azucar sintactico para usar un generador_ )
 		
 		Como un ejemplo usando generadores, podria ser el leer un par de archivos ( _esto seria en el backend con nodejs_ ) usando como ejemplo [este post](https://medium.com/code-adventures/callbacks-vs-coroutines-174f1fe66127) pero usando promesas.
@@ -16379,9 +15198,8 @@ Entendi lo que hace el Generator, pero no me queda claro un ejemplo puntual en e
 		    
 		```
 
-* **Juan Enrique Rodriguez Garcia** (2)
+* **Juan Enrique Rodriguez Garcia** (2) [1088515](https://platzi.com/comentario/1088515/) 
 
-	
 	Esta bueno esto de los generadores!  
 	He cambiado un poco el código para que salga también el 0 y el 1 y un ciclo for para elegir cuantos quieres que salgan.  
 	Lo que no me convence de mi modificación es que al volver a darle de nuevo una segunda vez la función en consola, esta se reinicia desde el uno si no pongo dos yield de 0 (el primero lo ignora), a ver si alguien se le ocurre algo para quitar eso y minimizar codigo, quiero aprender a ser mejor entre todos 😉
@@ -16416,49 +15234,41 @@ Entendi lo que hace el Generator, pero no me queda claro un ejemplo puntual en e
 	    
 	```
 
-* **Juan Jose Mayorga Garcia** (2)
+* **Juan Jose Mayorga Garcia** (2) [1085448](https://platzi.com/comentario/1085448/) 
 
-	
 	¡Qué buena clase!
 
-* **Leonardo Castro Mestra** (2)
+* **Leonardo Castro Mestra** (2) [1058345](https://platzi.com/comentario/1058345/) 
 
-	
 	los generadores son bastante utiles
 
-* **Damian Spizzirri** (2)
+* **Damian Spizzirri** (2) [1003039](https://platzi.com/comentario/1003039/) 
 
-	
 	A alguien se le ocurre una utilidad en la vida real? Me resulto muy interesante, pero no se me ocurre una utilidad.
 
-	* **Nathaly Stefani Riaño Bejarano** (2)
+	* **Nathaly Stefani Riaño Bejarano** [1003039] (2)
 
-		
 		Hola! El caso práctico de los generadores que he visto ha sido en Redux-Saga (el cual se me dificultó entender debido a éste concepto de generadores). Ésta librería está tomando bastante fuerza, ya que va muy alineada con los principios de Redux, más a la hora de implementar “efectos secundarios” en una aplicación.
 		
 		<https://www.paradigmadigital.com/dev/sagas-vs-thunk/>
 
-	* **Daniel Lopez** (2)
+	* **Daniel Lopez** [1003039] (2)
 
-		
 		no se, pero se me ocurre el indicador de capitulos en una serie de netflix, cada vez que se termine un capitulo retornar un valor yield con el indicador del capitulo siguiente.
 		
 		es un ejemplo muy vago, pero ojala te ayude a hacerte una idea.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [1003039] (1)
 
-		
 		Aquí encuentras muy buenos ejemplos de la vida real: <https://dev.to/rfornal/use-cases-for-javascript-generators-1npc>. 😃
 
-* **Javier Armando Vargas Vega** (2)
+* **Javier Armando Vargas Vega** (2) [970500](https://platzi.com/comentario/970500/) 
 
-	
 	Muy buena esta clase.  
 	Los generadores los podemos utilizar para muchas cosas. Todo dependerá de lo que queramos hacer.
 
-* **juan-murga** (2)
+* **juan-murga** (2) [950415](https://platzi.com/comentario/950415/) 
 
-	
 	Aqui la clase implementada junto con el DOM…
 	``` 
 	    <!DOCTYPE html>
@@ -16535,14 +15345,12 @@ Entendi lo que hace el Generator, pero no me queda claro un ejemplo puntual en e
 	    
 	```
 
-* **Roso Peñaranda** (2)
+* **Roso Peñaranda** (2) [914452](https://platzi.com/comentario/914452/) 
 
-	
 	¿ los generadores son los mismos o trabajan igual que los iteradores de python o hackell?
 
-* **Gonzalo Vazquez** (2)
+* **Gonzalo Vazquez** (2) [842369](https://platzi.com/comentario/842369/) 
 
-	
 	Me podrian explicar en detalle el codigo fibonacci del ejemplo?
 	``` 
 	    function* fibonacci() {
@@ -16559,9 +15367,8 @@ Entendi lo que hace el Generator, pero no me queda claro un ejemplo puntual en e
 	    
 	```
 
-	* **Cristian Orozco Benjumea** (5)
+	* **Cristian Orozco Benjumea** [842369] (5)
 
-		
 		Es una secuencia de suma de los números inmediatamente anterior. Entonces:
 		
 		Empezamos con 1
@@ -16607,37 +15414,32 @@ Entendi lo que hace el Generator, pero no me queda claro un ejemplo puntual en e
 		    
 		```
 
-* **Israel Urbina** (2)
+* **Israel Urbina** (2) [762897](https://platzi.com/comentario/762897/) 
 
-	
 	Excelente Clase no había escuchado de los generadores y me sorprendió la verdad me ayudo para probar cosas nuevas en un proyecto donde tenia problemas con peticiones a una api, para esperar la respuesta y ahora si ejecutar mi codigo con todos lo datos completos.
 
-* **dnviveros** (2)
+* **dnviveros** (2) [75629](https://platzi.com/comentario/872976/) 
 ¿Me podrían ilustrar, Qué otros casos de usos tienen los generadores?
 
-	* **T-gold** (1)
+	* **T-gold** [75629] (1)
 
-		
 		un sistema de
 		
 		seguro que quiere continuar?
 
-* **Nicolas Esteban Prieto Sarmiento** (2)
+* **Nicolas Esteban Prieto Sarmiento** (2) [69071](https://platzi.com/comentario/750807/) 
 Seria recomendable usar un Generador para hacer un ( Seguro que quieres continuar )
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [69071] (1)
 
-		
 		¡Me encanta la idea! 👏
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1104319](https://platzi.com/comentario/1104319/) 
 
-	
 	No la tengo toda dominada pero como le dijeron a Yokoi Kenji, tu solo anota y si resulta hacerlo :v
 
-* **Ricardo Martínez Murillo** (1)
+* **Ricardo Martínez Murillo** (1) [955023](https://platzi.com/comentario/955023/) 
 
-	
 	Es una de las maneras mas practicas para hacer la serie fibonacci
 	``` 
 	    <code>
@@ -16654,25 +15456,22 @@ Seria recomendable usar un Generador para hacer un ( Seguro que quieres continua
 	    
 	```
 
-	* **Manuel Rivera** (2)
+	* **Manuel Rivera** [955023] (2)
 
-		
 		En lo poco que he escuhado siempre dicen que el caso mas usado es para fibonacci
 
-* **Alessandri** (1)
+* **Alessandri** (1) [81276](https://platzi.com/comentario/977846/) 
 No se puede realizar la misma función de fibonaci con un ciclo for y recibiendo el parámetro de hasta cuanto lo necesitamos?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [81276] (2)
 
-		
 		Sin duda la puedes hacer con un ciclo for, pero esta era una forma de mostrar cómo funcionan los generadores 😄
 
-* **k823** (1)
+* **k823** (1) [75413](https://platzi.com/comentario/869625/) 
 Se podría acceder a un valor concreto de la secuencia de Fibonacci con función generadora?
 
-	* **Alan Santiago** (2)
+	* **Alan Santiago** [75413] (2)
 
-		
 		Naturalmente no. Pero puedes iterar esa función 😄
 		``` 
 		    function * iterableObj() {
@@ -16691,9 +15490,9 @@ Se podría acceder a un valor concreto de la secuencia de Fibonacci con función
 		    
 		```
 
-# APIs del DOM
+# APIs del DOM [4447]
 
-## 0200. Fetch - Cómo cancelar peticiones
+## 0200. Fetch - Cómo cancelar peticiones [22174](https://platzi.com/clases/1642-javascript-profesional/22174-fetch-como-cancelar-peticiones/)
 
 ### Descripción:
 
@@ -16704,42 +15503,35 @@ Con **fetch** tenemos algo llamado **AbortController** que nos permite enviar un
 
 ### Comentarios:
 
-* **jasanhdz** (27)
+* **jasanhdz** (27) [753606](https://platzi.com/comentario/753606/) 
 
-	
 	Ey chicos me tome el tiempo para traerles las mejores notas del curso, denle una checada porfavor a mis notas, y si son de su agrado dejenme un like en github. Saludos 😄  
 	[Notas](https://github.com/JasanHdz/javascript-professional/tree/master/notes) o <https://github.com/JasanHdz/javascript-professional/tree/master/notes>
 
-	* **ALfredo1502** (1)
+	* **ALfredo1502** [753606] (1)
 
-		
 		Gracias por tu aporte amigo.
 
-	* **Daniel Ramírez Mendoza** (2)
+	* **Daniel Ramírez Mendoza** [753606] (2)
 
-		
 		Genial tu aporte compañero, te recomiendo [GitBook](https://www.gitbook.com/) para que hagas tus documentaciones.
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [753606] (1)
 
-		
 		Gracias.
 
-* **braco** (20)
+* **braco** (20) [950753](https://platzi.com/comentario/950753/) 
 
-	
 	Apuntes de la clase
 	
 	![JS – 19.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2019-451f0b1e-207a-473e-81c3-df604fe790f1.jpg)
 
-	* **Emilio Castro** (1)
+	* **Emilio Castro** [950753] (1)
 
-		
 		Excelente aporte! Gracias
 
-* **beaps** (7)
+* **beaps** (7) [703220](https://platzi.com/comentario/703220/) 
 
-	
 	 **blob** es el binario de la petición que estamos pidiendo.
 	``` 
 	    const response = await fetch(url);
@@ -16747,7 +15539,7 @@ Con **fetch** tenemos algo llamado **AbortController** que nos permite enviar un
 	    
 	```
 	
-	  * Este binario no se puede pasar directamente a la imagen, hay que convertirlo a una url.  
+	* Este binario no se puede pasar directamente a la imagen, hay que convertirlo a una url.  
 	– El navegador trae una utilidad para realizar ese paso: **URL.createObjectURL()**
 	
 	
@@ -16761,9 +15553,8 @@ Con **fetch** tenemos algo llamado **AbortController** que nos permite enviar un
 	blob: <https://developer.mozilla.org/es/docs/Web/API/Blob>  
 	URL.createObjectURL(): <https://developer.mozilla.org/es/docs/Web/API/URL/createObjectURL>
 
-* **David Behar** (6)
+* **David Behar** (6) [745045](https://platzi.com/comentario/745045/) 
 
-	
 	El método [fetch](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch) abrirá un canal de comunicación con un recurso externo (en red) devolviendo una promesa, por lo tanto se puede acceder a la respuesta mediante un then.
 	``` 
 	    fetchResponsePromise = fetch(resource, init);
@@ -16801,19 +15592,16 @@ Con **fetch** tenemos algo llamado **AbortController** que nos permite enviar un
 	    
 	```
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [745045] (2)
 
-		
 		Gracias por la síntesis.
 
-* **PedroRafa26** (5)
+* **PedroRafa26** (5) [1063549](https://platzi.com/comentario/1063549/) 
 
-	
 	Todos simulando una conexión lenta mientras yo vivo en ella 😄 saludos de Venezuela
 
-* **Cesar Augusto Barco de Gouveia** (5)
+* **Cesar Augusto Barco de Gouveia** (5) [734376](https://platzi.com/comentario/734376/) 
 
-	
 	## AbortController.abort ()
 	
 	El método `abort()` de la la interfaz [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController " AbortController representa un objeto controlador que le permite abortar una o más solicitudes DOM cuando lo desee."). Esta interfaz anula una solicitud DOM (por ejemplo, una solicitud Fetch) antes de que se haya completado. Esto puede abortar las [solicitudes de recuperación](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch), el consumo de cualquier respuesta [`Body`](https://developer.mozilla.org/en-US/docs/Web/API/Body "La combinación del cuerpo de la API Fetch representa el cuerpo de la respuesta / solicitud, lo que le permite declarar cuál es su tipo de contenido y cómo debe manejarse.")y las transmisiones.
@@ -16860,104 +15648,89 @@ Con **fetch** tenemos algo llamado **AbortController** que nos permite enviar un
 	
 	Puede encontrar un ejemplo de trabajo completo en GitHub: vea [abort-api](https://github.com/mdn/dom-examples/tree/master/abort-api) ( [vea también cómo se ejecuta en vivo](https://mdn.github.io/dom-examples/abort-api/) ).
 
-* **beaps** (3)
+* **beaps** (3) [703226](https://platzi.com/comentario/703226/) 
 
-	
-	  * [Fetch API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
-	  * [AbortController.abort()](https://developer.mozilla.org/en-US/docs/Web/API/AbortController/abort)
+	* [Fetch API](https://developer.mozilla.org/es/docs/Web/API/Fetch_API)
+	* [AbortController.abort()](https://developer.mozilla.org/en-US/docs/Web/API/AbortController/abort)
 	
 	
 
-* **Angel Joaquín Velasco Gómez** (2)
+* **Angel Joaquín Velasco Gómez** (2) [79414](https://platzi.com/comentario/939905/) 
 Para que usar blob no entiendo
 
-	* **Manuel Ojeda** (4)
+	* **Manuel Ojeda** [79414] (4)
 
-		
 		Se convierte a un archivo BLOB cuando queremos que el navegador pueda desplegar un archivo ya sea imagen o video como vista previa.
 		
 		Por ejemplo imaginemos que deseas subir un video, el navegador entenderá que es un archivo tipo File pero no podrá manipularlo como tal para mostrarlo en el navegador hasta que se haga la conversión a tipo Blob.
 		
 		Referencia: <https://medium.com/javascript-in-plain-english/javascript-blob-why-is-it-useful-20c372dfca00>
 
-* **brunoamadori** (1)
+* **brunoamadori** (1) [1107522](https://platzi.com/comentario/1107522/) 
 
-	
 	¿Alguien se da idea de como hacer para **poder volver a cargar la imagen** , una vez que abortamos el fetch? Estuve buscándole la vuelta pero no la encuentro. Cuando quiero volver a fetchear me tira “The User Aborted a Request” en consola.
 
-	* **Daniel Alvarez Leal** (1)
+	* **Daniel Alvarez Leal** [1107522] (1)
 
-		
 		me paso lo mismo cuando declare y asigne afuera de la función de cargar ‘let controller = new AbortController()’, al final lo deje como mostró en el video
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [1104357](https://platzi.com/comentario/1104357/) 
 
-	
 	Los que no tenemos una conexión bende…  
 	`LOADING....`
 
-* **Nestor Ruben Rodriguez Caro** (1)
+* **Nestor Ruben Rodriguez Caro** (1) [1099332](https://platzi.com/comentario/1099332/) 
 
-	
 	<https://github.com/ruben-xe>
 
-* **Guido Cavallo** (1)
+* **Guido Cavallo** (1) [827939](https://platzi.com/comentario/827939/) 
 
-	
 	Mi primer encuentro con fetch no fue tan grato, no lograba obtener la respuesta creo que por problemas de cors.
 	
 	Decidí implementar axios y con mi compañero de trabajo nos solucionó toda la parte de comunicación con el servidor.
 	
 	Alguien esta trabajando en proyectos reales con fetch o prefieren una librería como axios? Yo soy de esas personas que prefieren usar lo nativo y no sobrecargar los proyectos de librerías, pero por encima esta siempre la practicidad.
 
-	* **MizaelpVielma** (2)
+	* **MizaelpVielma** [827939] (2)
 
-		
 		axios es mucho más cómodo, nos ahorra líneas de código. Pero siempre es indispensable saber de donde vienen las cosas. 🙂
 
-	* **Byhako** (3)
+	* **Byhako** [827939] (3)
 
-		
 		Si el problema era de cors, eso se debe implementar desde el servidor. Por ejemplo, para express se puede hacer así:
 		
 		<https://riptutorial.com/es/node-js/example/28740/habilitar-cors-en-express-js>
 
-	* **luis-mendoza877** (2)
+	* **luis-mendoza877** [827939] (2)
 
-		
 		depende del tamaño de la app, por ejemplo para páginas web o aplicaciones pequeñas es mejor nativo todo, para no hacer más grande el proyecto y cargue todo mas rápido, si haras algo más grande pues es mejor las librerias para hacer la menor cantidad de lineas en cosas “cotidianas” y dedicar más a la lógica de la app, al menos así lo aplico yo
 
-	* **Roso Peñaranda** (1)
+	* **Roso Peñaranda** [827939] (1)
 
-		
 		desde mi primier proyecto siempre utilcé fetch, por suerte no tube mayores problemas con la libreria, y para solucinar la repeticion de codigo lo que hice fue generar metodos que se encargaran del codigo repetitivo y llamarlos cuando se necesitaran, en la mayoria de los casos eran proyectos medianos, pero uno de ellos crecio lo suficiente y tener separado esos bloques en metodos ayudo mucho, tal vez me acusen de reinventar la rueda, pero era novato y no me gusta subrecargar los proyectos con librerias adicionales.
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [827939] (1)
 
-		
 		Yo también tenia ese problema en angular usando http, solo le comenté al de back y en 2 minutos lo resolvió.
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [747109](https://platzi.com/comentario/747109/) 
 
-	
 	Alguien sabe porque no sirve en Opera? pero en Chrome si?
 
-	* **David Aroesti (Platzi)** (4)
+	* **David Aroesti (Platzi)** [747109] (4)
 
-		
 		A veces no todas las Apis de los navegadores están disponibles en todos (algunos las implementan más rápido, y otros se tardan en hacerlo). Aquí hay una gran referencia para saber dónde una API va a funcionar y dónde no: <https://caniuse.com/#search=abortcontroller>
 
-* **Andrés Gutierrez** (1)
+* **Andrés Gutierrez** (1) [83976](https://platzi.com/comentario/1039586/) 
 tengo una pregunta, abortController.abort() aborta todos los fetch? absolutamente todos?
 
-	* **Ruben Padilla** (1)
+	* **Ruben Padilla** [83976] (1)
 
-		
 		No absolutamente todos, puedes ligar varios _fetch_ a un _signal_ para abortar todo este grupo de _fetch_ dado un evento. Te comparto un ejemplo:
 		
 		<https://developers.google.com/web/updates/2017/09/abortable-fetch>
 
-## 0210. IntersectionObserver
+## 0210. IntersectionObserver [22175](https://platzi.com/clases/1642-javascript-profesional/22175-intersectionobserver/)
 
 ### Descripción:
 
@@ -16968,26 +15741,24 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 
 ### Comentarios:
 
-* **braco** (13)
+* **braco** (13) [955479](https://platzi.com/comentario/955479/) 
 
-	
 	Apuntes de esta clase:
 	
 	![JS – 21.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2021-abb41ba4-4288-4ed8-8171-91dada378c5b.jpg)
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [734415](https://platzi.com/comentario/734415/) 
 
-	
 	## Intersection Observer API
 	
 	La API Observador de Intersección, provee una vía para, de forma asíncrona, observar cambios en la intersección de un elemento con un elemento ancestro o con el [viewport](https://developer.mozilla.org/es/docs/Glossary/viewport "viewport: Un viewport representa la región poligonal \(normalmente rectangular\) en gráficas de computación que está siendo visualizada en ese instante. En términos de navegadores web, se refiere a la parte del documento que usted está viendo, la cual es actualmente visible en su ventana \(o la pantalla, si el documento está siendo visto en modo pantalla completa\). El contenido fuera del viewport no es visible en la pantalla hasta que sea desplazado dentro de él.") del documento de nivel superior.
 	
 	La información sobre intersección es necesaria por muchas razones, tales como:
 	
-	  * Lazy-loading de imágenes u otro contenido a medida que la página se desplaza.
-	  * Implementación de “scroll infinito” de sitios web, donde más y más contenido se carga y muestra a medida que usted hace scroll, de forma que el usuario no tiene que pasar páginas.
-	  * Informes de visualizaciones de anuncios para calcular ingresos por publicidad.
-	  * Decidir si deben realizarse tareas o procesos de animación basados en si el usuario verá o no el resultado.
+	* Lazy-loading de imágenes u otro contenido a medida que la página se desplaza.
+	* Implementación de “scroll infinito” de sitios web, donde más y más contenido se carga y muestra a medida que usted hace scroll, de forma que el usuario no tiene que pasar páginas.
+	* Informes de visualizaciones de anuncios para calcular ingresos por publicidad.
+	* Decidir si deben realizarse tareas o procesos de animación basados en si el usuario verá o no el resultado.
 	
 	
 	
@@ -17054,28 +15825,24 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	
 	También, note que si especifica la opción `root`, el elemento target debe ser un descendiente del elemento root.
 
-* **Filiberto Santillán** (7)
+* **Filiberto Santillán** (7) [927003](https://platzi.com/comentario/927003/) 
 
-	
 	Si les cuesta un poco la parte de `this`, básicamente esta pasando lo siguiente:
 	
 	![IMG_526701621380-1.jpg](https://static.platzi.com/media/user_upload/IMG_526701621380-1-908babdb-28c1-4231-a12c-8f5536509435.jpg)
 	
 	Si les interesa entender más sobre el tema, escribí un artículo al respecto: <https://filisantillan.com/this-en-diferentes-situaciones-y-su-comportamiento>
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [927003] (1)
 
-		
 		Gracias. Por cierto, interesante sitio.
 
-	* **Andres Felipe Bonett Maldonado** (1)
+	* **Andres Felipe Bonett Maldonado** [927003] (1)
 
-		
 		wow. muy buena ilustracion
 
-* **veronica oviedo** (7)
+* **veronica oviedo** (7) [818986](https://platzi.com/comentario/818986/) 
 
-	
 	También funciona con la propiedad isIntersecting del entry, un booleano que indica si se cumplen las condiciones de los options (el threshold definido a .25)
 	``` 
 	    entry.isIntersecting ? this.player.play() : this.player.pause();
@@ -17083,14 +15850,12 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-	* **cesar88** (0)
+	* **cesar88** [818986] (0)
 
-		
 		eso es justo lo que estaba mirando… al parecer parece mas facil de esta manera
 
-* **Carmen Sánchez Salgado** (7)
+* **Carmen Sánchez Salgado** (7) [746079](https://platzi.com/comentario/746079/) 
 
-	
 	Aquí el código de los comentarios del video… sólo para agregar más items a la lista.
 	``` 
 	    <h2>Comments</h2>
@@ -17111,9 +15876,8 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-* **LeandroVidela** (7)
+* **LeandroVidela** (7) [731848](https://platzi.com/comentario/731848/) 
 
-	
 	Hola! Hice la lógica un poco diferente e incorporé la función **_get_** y **_set_** explicadas en las clases anteriores. Para saber si el elemento es visible utilizo la propiedad **_isIntersecting_** que viene con el IntersectionObserver.
 	
 	Les comparto mi código:
@@ -17154,9 +15918,8 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-* **Gabriel De Andrade (Platzi)** (7)
+* **Gabriel De Andrade (Platzi)** (7) [713836](https://platzi.com/comentario/713836/) 
 
-	
 	Recuerden que también pueden usar Arrow Functions en vez de Funciones normales y así no tienen que hacer el `bind(this)`. Quedarían algo así las funciones:
 	``` 
 	    handleIntersection = entries => {
@@ -17165,15 +15928,13 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [713836] (1)
 
-		
 		Encontre este articulo interesante  
 		<https://medium.com/@charpeni/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think-3b3551c440b1>
 
-* **Daniel Hurtado** (5)
+* **Daniel Hurtado** (5) [708388](https://platzi.com/comentario/708388/) 
 
-	
 	Cuando tenemos el video en pausado y bajamos y posteriormente subimos, se reproduce automáticamente aunque lo hayamos tenido en pausa.
 	
 	Para fixear esto podríamos agregar una variable que se haga true cuando el video se salga de la pantalla SIEMPRE Y CUANDO nuestro video se haya estado reproduciendo, esta variable (que yo llamé pausedByScroll) se haría en el constructor para que no sea olvidada con cada iteración de la función handleIntersection(). Cuando se vuelva a subir, es decir, cuando isVisible sea true, se hará una verificación de que this.pausedByScroll sea TRUE (que el reproductor fue desactivado por el scroll y no manualmente), si pasa esta verificación lo reproducirá y si no, seguirá desactivado.
@@ -17207,9 +15968,8 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	
 	No sé si habrá sido la mejor solución, pero fue la más eficiente que se me ocurrió, compartan otras soluciones y comparemos 😃
 
-	* **jose ortiz** (1)
+	* **jose ortiz** [708388] (1)
 
-		
 		bueno comparto mi punto:  
 		el video de por si ya se reproduce automaticamente con el plugin de AutoPlay. si lo que quieres es que cuando el usuario regrese al video luego de leer los comentario y el video este pausado (no se reproduzca automaticamente) solo tienes que cambiar el condicional if
 		``` 
@@ -17221,9 +15981,8 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 		
 		solo debe darle click de nuevo al boton de play
 
-* **Christian Armando Consuelo Mayén** (4)
+* **Christian Armando Consuelo Mayén** (4) [885090](https://platzi.com/comentario/885090/) 
 
-	
 	Yo por ejemplo usé el objeto `entry` en su propiedad `isIntersecting` en lugar de hacer la comparación con el threshold.
 	``` 
 	    ...
@@ -17240,14 +15999,12 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-* **Cristian Bello Cervantes** (3)
+* **Cristian Bello Cervantes** (3) [798697](https://platzi.com/comentario/798697/) 
 
-	
 	Aquí otro ejemplo es por parte de Leonidas Esteban [Video de leo](https://www.youtube.com/watch?v=Mm9R1Z5B31s)
 
-* **Andrés Gutierrez** (2)
+* **Andrés Gutierrez** (2) [1045814](https://platzi.com/comentario/1045814/) 
 
-	
 	yo lo hice así, el handler también tiene una propiedad llamada isIntersecting que nos avisa pues si está intersectando :b
 	
 	es un booleano, entonces aquí pongo que cuando ese booleano sea false lo pause
@@ -17282,9 +16039,8 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-* **Octavio Villavicencio Cruz** (2)
+* **Octavio Villavicencio Cruz** (2) [943256](https://platzi.com/comentario/943256/) 
 
-	
 	el IntersectionObserver ya nos regresa una bandera “isIntersecting”
 	``` 
 	    time:16506.95500000006
@@ -17312,54 +16068,44 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [943256] (1)
 
-		
 		Es lo que yo pense. Gracias
 
-* **cesar alejandro** (2)
+* **cesar alejandro** (2) [918487](https://platzi.com/comentario/918487/) 
 
-	
 	muy buena Clase a seguir aprendiendo
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1058687](https://platzi.com/comentario/1058687/) 
 
-	
 	seguimos avanzando…
 
-* **Daniel Lopez** (1)
+* **Daniel Lopez** (1) [1052822](https://platzi.com/comentario/1052822/) 
 
-	
 	brutal!!
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [1010873](https://platzi.com/comentario/1010873/) 
 
-	
 	Una de mis funcionalidades favoritas
 
-* **Diego Camino** (1)
+* **Diego Camino** (1) [978829](https://platzi.com/comentario/978829/) 
 
-	
 	Uffffff que buena funcionalidad de javascript!
 
-* **Juan Sebastian Galvis Huertas** (1)
+* **Juan Sebastian Galvis Huertas** (1) [923269](https://platzi.com/comentario/923269/) 
 
-	
 	lo curiosos es los videos de platzi tienen un bug/feature en el cual al escribir un ocmentario y dar “publicar” el video continua automaticamente
 
-* **pndafran** (1)
+* **pndafran** (1) [918298](https://platzi.com/comentario/918298/) 
 
-	
 	Muy buena esta Clase. Excelente
 
-* **yisus_dev** (1)
+* **yisus_dev** (1) [894444](https://platzi.com/comentario/894444/) 
 
-	
 	esto me encanta.
 
-* **Alejo Vera** (1)
+* **Alejo Vera** (1) [867542](https://platzi.com/comentario/867542/) 
 
-	
 	AAAAA, vengo arrastrando un error con el AutoPlay, que ahora con el AutoPause empeoró. El AutoPlay, cuando no está la línea de código
 	``` 
 	    elseif(!isVisile) {
@@ -17371,9 +16117,8 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-* **luboyulieth** (1)
+* **luboyulieth** (1) [779572](https://platzi.com/comentario/779572/) 
 
-	
 	Use otra propiedad para verificar si el MediaPlayer esta siendo o no intersectado.
 	``` 
 	        handlerIntersection([media]){
@@ -17386,43 +16131,39 @@ El umbral se define por el porcentaje que tiene intersección con el _viewport_ 
 	    
 	```
 
-* **T-gold** (1)
+* **T-gold** (1) [76248](https://platzi.com/comentario/883723/) 
 No entendi bien porque utilizo el bind !
 
-	* **matias-alexander-ibarra-trujil** (2)
+	* **matias-alexander-ibarra-trujil** [76248] (2)
 
-		
 		el bind lo usamos porque el this cambia de contexto, para no perder el contexto
 
-* **SebastianMA** (1)
+* **SebastianMA** (1) [73308](https://platzi.com/comentario/832330/) 
 Saludos comunidad. Por qué aquí el profesor usa otro método para tratar las “clases” del que veniamos viendo?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [73308] (1)
 
-		
 		Se hace para mostrar las diferentes formas en las que se pueden manejar las clases. Asegúrate de entender los conceptos base y la sintaxis no será un problema.
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [70821](https://platzi.com/comentario/783023/) 
 Alguien acá tiene idea como hace Netflix para Autoreproducir vídeos con Audio?, según entiendo este comportamiento lo prohíbe el browser.
 
-	* **César Hansy Dueñas Barragán** (1)
+	* **César Hansy Dueñas Barragán** [70821] (1)
 
-		
 		Te recomiendo no sólo el contenido de IntersectionObserver sino también cuando creamos el primer plugin en el cual revisamos este tema. Esto a nivel de Javascript puro, Netflix hace algo similar empleando React JS, pero el concepto lo tendrás acá.
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [68764](https://platzi.com/comentario/745553/) 
 ¿Por qué usó la propiedad intersectionRatio para evaluar si estaba o no dentro del área de visualización y no la propied...
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [68764] (3)
 
-		
 		👋 Hey!
 		
 		Con **`isIntersecting`** podemos evaluar si el elemento se encuentra en el viewport. Pero con **`intersectionRatio`** podemos evaluar cuánto porcentaje del elemento se encuentra en el viewport y también si estamos entrando o saliendo del video.
 		
 		Se explica en el min 05:34: <https://platzi.com/clases/1642-javascript-profesional/22175-intersectionobserver/?time=334>
 
-## 0220. VisibilityChange
+## 0220. VisibilityChange [22176](https://platzi.com/clases/1642-javascript-profesional/22176-visibilitychange/)
 
 ### Descripción:
 
@@ -17431,25 +16172,23 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 
 ### Comentarios:
 
-* **beaps** (16)
+* **beaps** (16) [703484](https://platzi.com/comentario/703484/) 
 
-	
 	Otros casos de uso para utilizar la [API Page Visibility](https://developer.mozilla.org/es/docs/Web/API/Page_Visibility_API):  
 	
 	
-	  * Un sitio tiene un carrusel de imágenes que no debería avanzar a la siguiente diapositiva a no ser que el usuario esté viendo la página.  
+	* Un sitio tiene un carrusel de imágenes que no debería avanzar a la siguiente diapositiva a no ser que el usuario esté viendo la página.  
 	
-	  * Una aplicación que muestra un panel de información y no se quiere que se actualice la información del servidor cuando la página no está visible.  
+	* Una aplicación que muestra un panel de información y no se quiere que se actualice la información del servidor cuando la página no está visible.  
 	
-	  * Una página quiere detectar cuando se está precargando para poder mantener un recuento preciso de las vistas de página.  
+	* Una página quiere detectar cuando se está precargando para poder mantener un recuento preciso de las vistas de página.  
 	
-	  * Un sitio desea desactivar los sonidos cuando el dispositivo está en modo de espera (el usuario presiona el botón de encendido para apagar la pantalla).
+	* Un sitio desea desactivar los sonidos cuando el dispositivo está en modo de espera (el usuario presiona el botón de encendido para apagar la pantalla).
 	
 	
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [734447](https://platzi.com/comentario/734447/) 
 
-	
 	## Document: visibilitychange
 	
 	E levento `visibilitychange` se dispara al documento cuando el contenido de su pestaña se ha hecho visible o se ha ocultado.
@@ -17472,16 +16211,15 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	
 	Consideremos algunos casos de uso para la API de Visibilidad de Página.
 	
-	  * Un sitio tiene un carrusel de imágenes que no debería avanzar a la siguiente diapositiva a no ser que el usuario esté viendo la página.
-	  * Una aplicación que muestra un panel de información y no se quiere que se actualice la información del servidor cuando la página no está visible.
-	  * Una página quiere detectar cuando se está precargando para poder mantener un recuento preciso de las vistat de página.
-	  * Un sitio desea desactivar los sonidos cuando el dispositivo está en modo de espera (el usuario presiona el botón de encendido para apagar la pantalla).
+	* Un sitio tiene un carrusel de imágenes que no debería avanzar a la siguiente diapositiva a no ser que el usuario esté viendo la página.
+	* Una aplicación que muestra un panel de información y no se quiere que se actualice la información del servidor cuando la página no está visible.
+	* Una página quiere detectar cuando se está precargando para poder mantener un recuento preciso de las vistat de página.
+	* Un sitio desea desactivar los sonidos cuando el dispositivo está en modo de espera (el usuario presiona el botón de encendido para apagar la pantalla).
 	
 	
 
-* **Daniel Hurtado** (8)
+* **Daniel Hurtado** (8) [708423](https://platzi.com/comentario/708423/) 
 
-	
 	Al igual que como sucedía en la clase anterior, el video se reproduce cuando cambiamos de pestaña y volvemos a ella AUNQUE el video haya estado en pausa antes del cambio. Para fixearlo es algo idéntico a como sugerí en la clase anterior. Creamos una variable this.pausedByVisibility = false en el constructor, y en handleVisibilityChange() adaptamos a (en la clase anterior doy la explicación lógica, acá es solo una repetición):
 	``` 
 	        handleVisibilityChange() {
@@ -17501,14 +16239,12 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	    
 	```
 
-	* **Steven Benjamín Diaz Flores** (1)
+	* **Steven Benjamín Diaz Flores** [708423] (1)
 
-		
 		Buenas formas de resolverlo !
 
-	* **Carlos Eduardo Jaramillo Franco** (3)
+	* **Carlos Eduardo Jaramillo Franco** [708423] (3)
 
-		
 		Muy buen apunte bro, cómo he leído que los if anidados son una mala practica, decidí hacerlo así:
 		``` 
 		        handleVisibilityChange() {
@@ -17528,42 +16264,35 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 		
 		Saludos!
 
-* **braco** (7)
+* **braco** (7) [976400](https://platzi.com/comentario/976400/) 
 
-	
 	apuntes de la clase:
 	
 	![JS – 22.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2022-887803ad-02a6-46d5-94fa-2a0384b9287f.jpg)
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [976400] (1)
 
-		
 		Pon tu perfil público.  
 		Estoy esperando tu infografía del siguiente curso
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [976400] (1)
 
-		
 		Siguiente clase, quise decir
 
-* **pndafran** (6)
+* **pndafran** (6) [918370](https://platzi.com/comentario/918370/) 
 
-	
 	Es gracioso porque la pagina de Platzi no tiene estos eventos 😄
 
-	* **Jessie Buckland Pérez** (5)
+	* **Jessie Buckland Pérez** [918370] (5)
 
-		
 		Estarán implemetados en los exámenes para ver cuando copiamos 😄
 
-* **Osvaldo Trejo** (4)
+* **Osvaldo Trejo** (4) [997620](https://platzi.com/comentario/997620/) 
 
-	
 	es un hechizo sencillo pero inquebrantable xD. Que buena función
 
-* **David Vargas Domínguez** (3)
+* **David Vargas Domínguez** (3) [904030](https://platzi.com/comentario/904030/) 
 
-	
 	Hay un detalle, sucede cuando estás por debajo del threshold, cambias de pestaña y luego vuelves, el sonido del vídeo se activa aún estando por debajo del threshold. Mi solución fue de esta manera.
 	
 	  1. Cambie la variable isVisible del handleIntersection, y lo nombre isBelowThreshold, además lo agregue al contexto de la clase con this, por último el valor de esta dependerá si el intersectionRatio es menor o igual al threshold (0.25) que declaramos.
@@ -17610,15 +16339,13 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	
 	Y listo, funciona normal. Like si te funcionó. 😏
 
-	* **pndafran** (1)
+	* **pndafran** [904030] (1)
 
-		
 		Perfecto muy buen aporte lo unico que agregaria es bindear handleVisibilityChange  
 		this.handleVisibilityChange = this.handleVisibilityChange.bind(this)
 
-* **Carlos Gonzalez** (3)
+* **Carlos Gonzalez** (3) [891396](https://platzi.com/comentario/891396/) 
 
-	
 	Agregue esto al `handlerVisibilityChange()` ya que si estamos bajo el 25% de visibilidad y cambiamos de pestaña, al volver se reproduce igual. Con eso se corrige:
 	``` 
 	     handlerVisibilityChange(){
@@ -17632,18 +16359,16 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	    
 	```
 
-	* **Yancarlo Urdaneta** (1)
+	* **Yancarlo Urdaneta** [891396] (1)
 
-		
 		¿podrías explicarme lo que hace ?
 		``` 
 		    this.run(this.player)```
 		    
 		```
 
-	* **Octavio Villavicencio Cruz** (1)
+	* **Octavio Villavicencio Cruz** [891396] (1)
 
-		
 		yanurd
 		``` 
 		    this.run(this.player)
@@ -17653,9 +16378,8 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 		vuelve a corre el plugin por ende lo “vuelve” a valores de inicio.  
 		no se como afecte esto a la memoria
 
-* **mexicansauce** (2)
+* **mexicansauce** (2) [1074832](https://platzi.com/comentario/1074832/) 
 
-	
 	Existe un problema. Si damos pausa al video a través del botón o a través del intersection (treshold), vamos a otra pestaña y regresamos, se da automáticamente play al video y no se respeta la pausa que queríamos. En mi opinión, lo deseado sería que el autoplay a través del visibility (regresar a la pestaña) sólo sucediera cuando el video se pausó por salirte a otra pestaña. Lo resolví añadiendo una propiedad que determine si el video fue pausado gracias a que uno cambió de pestaña:
 	``` 
 	    constructor(){
@@ -17690,32 +16414,27 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	
 	¿Les sirvió? ¡Cualquier comentario o mejora será agradecido!
 
-	* **caegomezda** (2)
+	* **caegomezda** [1074832] (2)
 
-		
 		Hola, hay algún cambio en el **handleIntersection ??**
 
-	* **mexicansauce** (2)
+	* **mexicansauce** [1074832] (2)
 
-		
 		No, no hay cambio en ese método. Queda igual a como lo tiene Richard. ¡Saludos!
 
-	* **caegomezda** (2)
+	* **caegomezda** [1074832] (2)
 
-		
 		Funciono full muchas gracias, te recomiendo que hagas lo mismo para **handleIntersection** para que cuando muevas la pantallas y lo hayas pausado no existan errores, de nuevo gracias no lo había notado.
 
-	* **mexicansauce** (2)
+	* **mexicansauce** [1074832] (2)
 
-		
 		¡Muchas gracias por la sugerencia! ¡Lo voy a checar también! ¡Saludos!
 
-* **angelo meneses** (2)
+* **angelo meneses** (2) [839925](https://platzi.com/comentario/839925/) 
 
-	
 	estos métodos son los que usa la plataforma de netflix
 
-* **veronica oviedo** (2)
+* **veronica oviedo** (2) [819162](https://platzi.com/comentario/819162/) 
 
 	```
 	    this.handleVisibility = this.handleVisibility.bind(this);
@@ -17727,44 +16446,36 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	    
 	```
 
-* **Luis Carlos Kristen Ospitia** (1)
+* **Luis Carlos Kristen Ospitia** (1) [1045300](https://platzi.com/comentario/1045300/) 
 
-	
 	tengo un problema en los plugins de pause y autoplay en el visibilityChange, en consola me aparece “Grammarly.js:2 [DEFAULT]: WARN : Using DEFAULT root logger” y no me deja ver el treshold ni me atrapa los eventos, he revisado el codigo y no veo fallos de tipado. alguien que le haya ocurrido lo mismo o me pueda ayudar?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1045300] (2)
 
-		
 		El error que te aparece en la consola es de la extensión Grammarly que tienes en el navegador. Puede que estés registrando mal los eventos o tengas algo mal escrito, pero no tengo demasiado contexto del error, si puedes mostrarnos tu código va a ser más sencillo ayudarte 😄
 
-* **Mariangelica Useche Saavedra** (1)
+* **Mariangelica Useche Saavedra** (1) [1015864](https://platzi.com/comentario/1015864/) 
 
-	
 	Interesante. Yo normalmente usaba `focus/blur` listeners [(pueden ver la referencia aquí)](https://developer.mozilla.org/en-US/docs/Web/API/Element/focus_event) para hacer este tipo de cosas. Intentaré ahora con `visibilityChange`
 
-* **maria-del-carmen-rodriguez** (1)
+* **maria-del-carmen-rodriguez** (1) [1010919](https://platzi.com/comentario/1010919/) 
 
-	
 	Parece magia
 
-* **ValentinGutierrez** (1)
+* **ValentinGutierrez** (1) [994307](https://platzi.com/comentario/994307/) 
 
-	
 	Que genial funcion!
 
-* **JavierG** (1)
+* **JavierG** (1) [974292](https://platzi.com/comentario/974292/) 
 
-	
 	Que herramienta usa el profesor para cambiar los simbolos de los operadores: == , >= y => ?
 
-	* **Diegoalesco95** (2)
+	* **Diegoalesco95** [974292] (2)
 
-		
 		Buen dia JavierG, lo que el profesor está usando es un tipo de fuente. En este enlace puede encontrar la información al respecto <https://github.com/tonsky/FiraCode>.
 
-* **Octavio Villavicencio Cruz** (1)
+* **Octavio Villavicencio Cruz** (1) [943284](https://platzi.com/comentario/943284/) 
 
-	
 	otra manera de hacer modular su plugin de autoPause
 	
 	index.js
@@ -17793,77 +16504,66 @@ El **_visibilityChange_** forma parte del API del DOM llamado **Page Visibility*
 	    
 	```
 
-	* **Octavio Villavicencio Cruz** (1)
+	* **Octavio Villavicencio Cruz** [943284] (1)
 
-		
 		de esta manera puedes usar estas clases y definir que porcentaje del elemento debe ser visible antes de pausar
 
-* **Christian Armando Consuelo Mayén** (1)
+* **Christian Armando Consuelo Mayén** (1) [885151](https://platzi.com/comentario/885151/) 
 
-	
 	¿A alguien se le ocurre un caso de uso interesante para este API aparte del uso con música y video?
 
-	* **juanseg** (1)
+	* **juanseg** [885151] (1)
 
-		
 		Más abajo en los aportes Cesar Augusto comentó unos casos de uso útiles
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [858130](https://platzi.com/comentario/858130/) 
 
-	
 	Anuncios de facebook je
 
-* **Juan Carlos Pinzón** (1)
+* **Juan Carlos Pinzón** (1) [853703](https://platzi.com/comentario/853703/) 
 
-	
 	Esta Api está genial, me recuerda los anuncios de Facebook y a Netflix
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [783117](https://platzi.com/comentario/783117/) 
 
-	
 	También tienen disponible el **document.onvisibilitychange** gancho para enlazar el evento directamente
 
-* **Chrystian Fabian Lozano Ramirez** (1)
+* **Chrystian Fabian Lozano Ramirez** (1) [728062](https://platzi.com/comentario/728062/) 
 
-	
 	no me funciono este plugin de autopause
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [728062] (2)
 
-		
 		👋 ¡Hola, Chrystian!  
 		🤔 ¿Puedes mostrarnos tu código? ¿Lo tienes publicado en GitHub?
 		
 		Si no lo pasas podemos ayudarte a encontrar la solución. 💪
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [73396](https://platzi.com/comentario/834244/) 
 Veo que visibilitychange funciona cuando se hace tab, pero si cambio la visibilidad a otra aplicación ya no tiene efecto. ¿Algún evento p...
 
-	* **Massimo Di Berardino** (2)
+	* **Massimo Di Berardino** [73396] (2)
 
-		
 		Hola Edwin, que buena pregunta jaja, estuve investigando un poco y no encontre nada para poder pausar el video cuando superpongo otra aplicación por sobre el navegador, pero entiendo que esto pasa por que en teoria la pestaña del navegador sigue visible solo que tienes otra aplicación sobre el navegador, y esto tiene sentido por que el navegador solo detecta eventos dentro del mismo, no eventos en el equipo como tal.
 
-* **aerama** (1)
+* **aerama** (1) [69758](https://platzi.com/comentario/762913/) 
 Por qué el evento se tiene que llamar visibilitychange? Cuando yo lo intente hacer, quise cambiar el nombre pero no me funcionó hasta que...
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [69758] (3)
 
-		
 		Se tiene que llamar **visibilitychange** porque es es el nombre del evento definido por el navegador, los navegadores ya tienen una [lista de eventos](https://developer.mozilla.org/es/docs/Web/Events) por los que están escuchando constantemente, si intentas cambiar el nombre el navegador no va a monitorear ese “evento” inexistente.
 		
 		Uno muy común es el evento de _click_ si agregas un EventListener a este evento, cada vez que hagas click en el navegador podrás ejecutar una acción.
 
-* **Steven Benjamín Diaz Flores** (1)
+* **Steven Benjamín Diaz Flores** (1) [66548](https://platzi.com/comentario/708953/) 
 addEventListener(''visibilitychange'', ()=> something) funciona solo paraa document o podria utilizarlo para ver si algun...
 
-	* **Diego Ivan Padilla Bernal** (2)
+	* **Diego Ivan Padilla Bernal** [66548] (2)
 
-		
 		Según la [documentación](https://developer.mozilla.org/en-US/docs/Web/API/Document/visibilitychange_event) sólo se usa en el document.  
 		Para cuando estás scrolleando la página se usa IntersectionObserver
 
-## 0230. Service Workers
+## 0230. Service Workers [22177](https://platzi.com/clases/1642-javascript-profesional/22177-service-workers/)
 
 ### Descripción:
 
@@ -17876,9 +16576,8 @@ Parecido a como lo hacen los _proxys_ van a interceptar peticiones para guardar 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (14)
+* **Cesar Augusto Barco de Gouveia** (14) [734897](https://platzi.com/comentario/734897/) 
 
-	
 	## Service Worker API
 	
 	Los Service workers actúan esencialmente como proxy servers asentados entre las aplicaciones web, el navegador y la red (cuando está accesible). Están destinados, entre otras cosas, a permitir la creación de experiencias offline efectivas, interceptando peticiones de red y realizando la acción apropiada si la conexión de red está disponible y hay disponibles contenidos actualizados en el servidor. También permitirán el acceso a notificaciones tipo push y APIs de sincronización en segundo plano.
@@ -17914,7 +16613,7 @@ Parecido a como lo hacen los _proxys_ van a interceptar peticiones para guardar 
 	
 	Un objeto que contiene opciones de registro. Las opciones disponibles actualmente son:
 	
-	  * `alcance`: [`USVString`](https://developer.mozilla.org/es/docs/Web/API/USVString "La documentación acerca de este tema no ha sido escrita todavía . ¡Por favor  considera contribuir !") representa una URL que define el alcance de registro de un “service worker”; es decir, qué rango de URL puede controlar un “service worker”. Esto es generalmente una URL relativa. El valor predeterminado es la URL que obtendría si resolviera ‘./’ utilizando la ubicación de la página web como base. No es, como se cree comúnmente, relativo a la ubicación del “service worker”. Vea la sección de Ejemplos para más información sobre cómo funciona.
+	* `alcance`: [`USVString`](https://developer.mozilla.org/es/docs/Web/API/USVString "La documentación acerca de este tema no ha sido escrita todavía . ¡Por favor  considera contribuir !") representa una URL que define el alcance de registro de un “service worker”; es decir, qué rango de URL puede controlar un “service worker”. Esto es generalmente una URL relativa. El valor predeterminado es la URL que obtendría si resolviera ‘./’ utilizando la ubicación de la página web como base. No es, como se cree comúnmente, relativo a la ubicación del “service worker”. Vea la sección de Ejemplos para más información sobre cómo funciona.
 	
 	
 	
@@ -17987,37 +16686,31 @@ Parecido a como lo hacen los _proxys_ van a interceptar peticiones para guardar 
 	
 	Devuelve un [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise "El objeto Promise representa la finalización \(o falla\) eventual de una operación asincrónica y su valor resultante.")que se resuelve en una matriz de `Cache`claves.
 
-* **MDCMC** (9)
+* **MDCMC** (9) [741796](https://platzi.com/comentario/741796/) 
 
-	
 	Que fastidio tener que descargar un ziṕ para tooooodas las clases, es mucho mas comodo cuando suben la carpeta
 
-	* **Javier Fuentes Mora** (3)
+	* **Javier Fuentes Mora** [741796] (3)
 
-		
 		y luego a suben y la suben ya con el ejercicio resuelto 😒😒
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [741796] (1)
 
-		
 		Era mejor cuando organizaban las clases por ramas…
 
-	* **illacoe** (2)
+	* **illacoe** [741796] (2)
 
-		
 		En las primeras clases esta el link del repositorio con todos los ejercicios 😉
 
-* **caegomezda** (7)
+* **caegomezda** (7) [1090968](https://platzi.com/comentario/1090968/) 
 
-	
 	Hey, braco, cuando llegues aquí avisa para ver tus infografías, son brutales!!!
 
-	* **HENRY DSANTIAGO** (1)
+	* **HENRY DSANTIAGO** [1090968] (1)
 
-		
 		Las andaba buscando!!! Lástima que no haya llegado aún, también estoy a la espera.
 
-* **Diego Ivan Padilla Bernal** (7)
+* **Diego Ivan Padilla Bernal** (7) [709998](https://platzi.com/comentario/709998/) 
 
 	```
 	      '/',
@@ -18030,9 +16723,8 @@ Parecido a como lo hacen los _proxys_ van a interceptar peticiones para guardar 
 	    '/assets/BigBuckBunny.mp4',
 	```
 
-* **luisglopez7777** (4)
+* **luisglopez7777** (4) [1014438](https://platzi.com/comentario/1014438/) 
 
-	
 	si les sale error Uncaught (in promise) lo mas seguro es que sea porque tienen mal las rutas, por ejemplo yo tenia el index css en otra carpeta diferente a assets, les recomiendo que muevan sus archivos a donde los tiene sparragus, asi queda:
 	``` 
 	    returncache.addAll([
@@ -18047,48 +16739,40 @@ Parecido a como lo hacen los _proxys_ van a interceptar peticiones para guardar 
 	    
 	```
 
-* **Jesús Miguel Quinto Teran** (4)
+* **Jesús Miguel Quinto Teran** (4) [783334](https://platzi.com/comentario/783334/) 
 
-	
 	Excelente clase, pueden complementar con este post de Google: <https://developers.google.com/web/fundamentals/primers/service-workers/?hl=es>
 
-* **Antonio Madrid** (3)
+* **Antonio Madrid** (3) [920542](https://platzi.com/comentario/920542/) 
 
-	
 	La ultima feature siempre actualiza el contenido, independientemente de si es nuevo o no, algo ineficiente.
 	
 	Debereiamos añadir algún tipo de validación, con un timestamp o algo, para solo actualizar la cache si hay cambios.
 	
 	Service Worker incluye algún método para hacer comprobaciones?
 
-* **Christian Armando Consuelo Mayén** (3)
+* **Christian Armando Consuelo Mayén** (3) [885311](https://platzi.com/comentario/885311/) 
 
-	
 	Realmente útil el manejo de service workers sobre todo podría ser un buen caso el implementarlo para crear herramientas para la gente que no puede darse el lujo de tener una conexión a internet 24/7
 
-* **David Alejandro Mosquera Moreno** (2)
+* **David Alejandro Mosquera Moreno** (2) [932304](https://platzi.com/comentario/932304/) 
 
-	
 	No consigo cachear la app. Cuando visito el Cache Storage no me aparece la versión 1 de caché
 
-	* **cristofers530** (1)
+	* **cristofers530** [932304] (1)
 
-		
 		lo mas probable es que lo hayas solucionado pero, en caso de que no, ¿podrías mandar tu código para ver?
 
-* **Cristian Caraballo** (2)
+* **Cristian Caraballo** (2) [827428](https://platzi.com/comentario/827428/) 
 
-	
 	¿Por que “caches” es asíncrono? ¿Por que se usa async/await en cache?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [827428] (3)
 
-		
 		Principalmente por que no es una operación instantánea, pues tiene que leer los archivos desde la cache del navegador, si se hiciera de manera síncrona podría bloquear fuertemente el Event Loop, de hecho cuando trabajamos con Node.js por defecto lee los archivos de manera asíncrona.
 
-* **deveeup** (2)
+* **deveeup** (2) [750281](https://platzi.com/comentario/750281/) 
 
-	
 	En mi caso me daba error redundant para el registro del serviceWorker, me tocó expecificar las rutas de la siguiente manera:
 	``` 
 	    return cache.addAll([
@@ -18104,176 +16788,149 @@ Parecido a como lo hacen los _proxys_ van a interceptar peticiones para guardar 
 	    
 	```
 
-* **Daniel Hurtado** (2)
+* **Daniel Hurtado** (2) [708427](https://platzi.com/comentario/708427/) 
 
-	
 	Ejemplo de esto tenemos la nueva versión web de [Twitter.com](http://Twitter.com), si accedemos sin conexión nos carga la interface (sin las novedades claro está)
 
-* **Guillermo Vara De Gante** (1)
+* **Guillermo Vara De Gante** (1) [1081290](https://platzi.com/comentario/1081290/) 
 
-	
 	¿El hecho de guardar mucho cache de la pagina en algun punto no afectaria al usuario en cuanto a memoria o rendimiento de su computador?
 
-* **Steve Anthony Luzquiños Agama** (1)
+* **Steve Anthony Luzquiños Agama** (1) [1066240](https://platzi.com/comentario/1066240/) 
 
-	
 	Para aquellos que deseen eliminar una versión de cache anterior, una vez se haya actualizado, les dejo este [link](https://www.youtube.com/watch?v=ksXwaWHCW6k).
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1058887](https://platzi.com/comentario/1058887/) 
 
-	
 	increible …
 
-* **NicoMano** (1)
+* **NicoMano** (1) [1054969](https://platzi.com/comentario/1054969/) 
 
-	
 	Increible 😄
 
-* **ValentinGutierrez** (1)
+* **ValentinGutierrez** (1) [994377](https://platzi.com/comentario/994377/) 
 
-	
 	Buen curso!
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [954865](https://platzi.com/comentario/954865/) 
 
-	
 	¿Por que hay que guardar el archivo sw.js sobre el resto de los archivos?¿Hay una mejor forma de referenciar todos los archivos al cache? ¿Que diferencia hay al guardar los archivos en cache de esta manera a guardarlos como lo hizo Leonidas Esteban en el Curso de jQuery Javascript?
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [945580](https://platzi.com/comentario/945580/) 
 
-	
 	Entonces se puede decir que tenemos una PWA 🤔
 	
 	**_[Construye una PWA en 10 minutos](https://www.kirupa.com/apps/build_a_pwa.htm)_**
 
-* **T-gold** (1)
+* **T-gold** (1) [916068](https://platzi.com/comentario/916068/) 
 
-	
 	Pero como se hace el OPERADOR  
 	"no es igual "  
 	que utiliza a el 7:20
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [916068] (1)
 
-		
 		Hola! Es simplemente una configuración de la fuente de VSCode, La fuente se llama “Fira Code” y tienes que activar los Ligatures dentro de las opciones de VSCode. Aquí un tuto [VS Code Instructions - Fira Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions) 😄
 
-	* **Jose Arturo Enriquez Hurtado** (1)
+	* **Jose Arturo Enriquez Hurtado** [916068] (1)
 
-		
 		!==
 
-	* **T-gold** (1)
+	* **T-gold** [916068] (1)
 
-		
 		Gracias Gabriel!
 
-* **Maximo Martinez Soria** (1)
+* **Maximo Martinez Soria** (1) [902240](https://platzi.com/comentario/902240/) 
 
-	
 	Esto sirve también para aumentar la performance del site / app?
 
-	* **David Granados** (3)
+	* **David Granados** [902240] (3)
 
-		
 		Correcto, específicamente el tiempo de carga, ya que no tengo que traer recursos del servidor donde está alojado el app.
 
-	* **Maximo Martinez Soria** (1)
+	* **Maximo Martinez Soria** [902240] (1)
 
-		
 		Gracias!
 
-* **Gerardo Manuel Reyes Fernández** (1)
+* **Gerardo Manuel Reyes Fernández** (1) [875808](https://platzi.com/comentario/875808/) 
 
-	
 	Trabajo con caches
 
-* **Luis Daniel Caraballo** (1)
+* **Luis Daniel Caraballo** (1) [753369](https://platzi.com/comentario/753369/) 
 
-	
 	Muchachos, al ingresar la siguiente linea de codigo event.waitUntil(updateCache(request)); me salen los siguientes errores  
 	![Screenshot_5.png](https://static.platzi.com/media/user_upload/Screenshot_5-a73b109a-3188-4481-815c-ffe0b9a6bec0.jpg)
 	
 	Saben a que se debe??
 
-	* **Joel Alejandro Tovar Ramos** (3)
+	* **Joel Alejandro Tovar Ramos** [753369] (3)
 
-		
 		puedes revisar si la lista de cache.addAll([]) estan todos los documentos bien escritos. tuve un error igual y fue debido a que escribi Autoplay.js en lugar de AutoPlay.js
 		
 		todas las rutas que especificas deben estar bien. si falta solo una te dara ese error
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [753369] (1)
 
-		
 		Al importar sw.js en el index hay que regresar un directorio atras.
 		``` 
 		    ... register('../sw.js')...
 		    
 		```
 
-	* **Cristian Orozco Benjumea** (1)
+	* **Cristian Orozco Benjumea** [753369] (1)
 
-		
 		Gracias, también me pasaba lo mismo 👍
 
-	* **Mateo Aquino** (1)
+	* **Mateo Aquino** [753369] (1)
 
-		
 		Tengo el mismo error!! Y no encuentro la solucion por ningun lado. Probe de todo y nada ! 😦 No logro cachear la pagina
 
-* **Gonzalo Muñoz** (1)
+* **Gonzalo Muñoz** (1) [731340](https://platzi.com/comentario/731340/) 
 
-	
 	Dónde está el menú en Firefox de los Service Workers? No lo puedo encontrar 😦
 
-	* **danielsanz (Platzi)** (2)
+	* **danielsanz (Platzi)** [731340] (2)
 
-		
 		¡Hola @gonzaloan!
 		
 		La configuración de los service workers en Firefox los puedes encontrar al escribir lo siguiente en la barra de direcciones de tu nevegador: `about:debugging#/runtime/this-firefox`
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [705402](https://platzi.com/comentario/705402/) 
 
-	
 	Services Worked, cada vez mas presente para darle la mejor expericia a los usuarios finales
 
-* **Miguel Segura** (1)
+* **Miguel Segura** (1) [86942](https://platzi.com/comentario/1108895/) 
 Como le harían para solo hacer un update del cache si ha habido cambios dentro de la pagina o en los recursos que hay en el servidor???
 
-* **ManuS** (1)
+* **ManuS** (1) [84907](https://platzi.com/comentario/1061970/) 
 no estoy seguro de que me funcione el sw porque en la sección network, siempre me aparecen todas las peticiones de tipo fetch, y ninguna ...
 
-* **Luis Carlos Kristen Ospitia** (1)
+* **Luis Carlos Kristen Ospitia** (1) [84202](https://platzi.com/comentario/1045324/) 
 interesantisimo lo del service worker, me parece bueno hacer una comparacion para no siempre estar haciendo peticiones y solo comparando,...
 
-* **Yancarlo Urdaneta** (1)
+* **Yancarlo Urdaneta** (1) [78123](https://platzi.com/comentario/915635/) 
 Estoy teniendo el siguiente problema con los Service Workers. Al colocar este código en el index.js if ('serviceWo...
 
-	* **luisglopez7777** (1)
+	* **luisglopez7777** [78123] (1)
 
-		
 		guarda el archivo en la carpeta mas alta del proyecto, no dentro de assets
 
-* **Nietsnie Alberto Perez cruz** (1)
+* **Nietsnie Alberto Perez cruz** (1) [73088](https://platzi.com/comentario/828123/) 
 por que da este error y no carga en offline . Uncaught (in promise) TypeError: Request failed
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [73088] (1)
 
-		
 		Para cargar por primera vez el Service Worker necesitas conexión a internet, pero luego (dependiendo de tu código) puedes mantenerlo cargado para que funcionen algunas partes incluso si no hay internet.
 		
 		¿Podrías mostrarnos tu código para ver si hay algún error?
 		
 		👉 <https://platzi.com/clases/pwa-react-js/>
 
-* **csrarias** (1)
+* **csrarias** (1) [70581](https://platzi.com/comentario/778054/) 
 alguien me puede indicar como hace para que los operadores logicos salgan de esa forma como diferente de ., mayor o igual estoy usando ...
 
-	* **Favio Sauto** (1)
+	* **Favio Sauto** [70581] (1)
 
-		
 		Hey, no entendí muy bien tu pregunta pero si te refieres a que en lugar de que se vea como => salga una verdadera flecha, lo haces cambiando la fuente tipográfica a Cascadia Code, primero instalas Cascadia Code y luego copias y pegas esto:
 		``` 
 		    "editor.fontFamily": "Cascadia Code, Consolas, 'Courier New', monospace",
@@ -18284,31 +16941,28 @@ alguien me puede indicar como hace para que los operadores logicos salgan de esa
 		
 		Si no era esa tu pregunta, te pido porfa que la hagas de nuevo a ver si te puedo ayudar 😁😁
 
-* **Jhon_Marin** (1)
+* **Jhon_Marin** (1) [68656](https://platzi.com/comentario/743970/) 
 Hola, estuve ensayando en el navegador con el navegador y aunque en el archivo sw.js en el precache solo agrego el index.html el navegado...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [68656] (1)
 
-		
 		👋 Hey! Qué raro.  
 		🤔🙏 ¿Puedes mostrarnos tu código a ver si hay algún error?
 
-* **Way** (1)
+* **Way** (1) [68149](https://platzi.com/comentario/735506/) 
 por que en la lista de cache hay que cargar los archivos que se suponen ya estan en local?, luego no se deberia cachear lo que llega de o...
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [68149] (1)
 
-		
 		Algunas veces el cacheo dura solo un tiempo en navegador, por lo que si entras a una página tiempo después se recargará todo lo indicado.
 		
 		Diciendo que cachear con el service worker se guarda dentro los archivos los cuales solo se recargaran si usas un hard reload
 
-* **Gilberto Isai Sanchez** (1)
+* **Gilberto Isai Sanchez** (1) [67348](https://platzi.com/comentario/721646/) 
 ¿porqué no me reconoce algunas cosas del js como por ejemplo await? Alguna idea
 
-	* **Cesar Augusto Barco de Gouveia** (5)
+	* **Cesar Augusto Barco de Gouveia** [67348] (5)
 
-		
 		Para que la función te reconozca el await tienes que usar el async antes de declararla.
 		``` 
 		    async function name(params){
@@ -18316,17 +16970,16 @@ por que en la lista de cache hay que cargar los archivos que se suponen ya estan
 		    }
 		```
 
-* **pabloverduzcos** (1)
+* **pabloverduzcos** (1) [66776](https://platzi.com/comentario/712438/) 
 ¿Esto tambien mejora los tiempos de carga para los usuarios que ya hayan visitado la pagina por primera vez, cierto?
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [66776] (1)
 
-		
 		Así es, lo que haces es guardar archivos importantes en tu navegador, entonces al entrar nuevamente como ya cuentas con esos archivos en tu navegador, la carga es mucho más rápida.
 
-# TypeScript
+# TypeScript [4448]
 
-## 0240. Introducción
+## 0240. Introducción [22178](https://platzi.com/clases/1642-javascript-profesional/22178-introduccion/)
 
 ### Descripción:
 
@@ -18341,37 +16994,31 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 
 ### Comentarios:
 
-* **braco** (14)
+* **braco** (14) [976414](https://platzi.com/comentario/976414/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 24.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2024-13c53e9f-6f03-44a0-8143-eac41c218815.jpg)
 
-* **jasanhdz** (7)
+* **jasanhdz** (7) [753607](https://platzi.com/comentario/753607/) 
 
-	
 	Ey chicos me tome el tiempo para traerles las mejores notas del curso, denle una checada porfavor a mis notas, y si son de su agrado dejenme un like en github. Saludos 😄  
 	[Notas](https://github.com/JasanHdz/javascript-professional/tree/master/notes) o <https://github.com/JasanHdz/javascript-professional/tree/master/notes>
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [753607] (1)
 
-		
 		que agradable sujeto. Gracias
 
-* **mafevito** (6)
+* **mafevito** (6) [810442](https://platzi.com/comentario/810442/) 
 
-	
 	[Este](https://www.youtube.com/watch?v=ch09uKQBxo0) video me ayudo a entender mejor que es **TypeScript** , lo dejo por aquí por si a alguien le es util
 
-	* **Diego Camino** (1)
+	* **Diego Camino** [810442] (1)
 
-		
 		Buen aporte! gracias!
 
-* **Cesar Augusto Barco de Gouveia** (6)
+* **Cesar Augusto Barco de Gouveia** (6) [734907](https://platzi.com/comentario/734907/) 
 
-	
 	## TypeScript
 	
 	**TypeScript** es un lenguaje de programación libre y de [código abierto](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto "Código abierto") desarrollado y mantenido por [Microsoft](https://es.wikipedia.org/wiki/Microsoft "Microsoft"). Es un superconjunto de [JavaScript](https://es.wikipedia.org/wiki/JavaScript "JavaScript"), que esencialmente añade tipos estáticos y objetos basados en clases. [Anders Hejlsberg](https://es.wikipedia.org/wiki/Anders_Hejlsberg "Anders Hejlsberg"), diseñador de [C#](https://es.wikipedia.org/wiki/C "C") y creador de [Delphi](https://es.wikipedia.org/wiki/Embarcadero_Delphi "Embarcadero Delphi") y [Turbo Pascal](https://es.wikipedia.org/wiki/Turbo_Pascal "Turbo Pascal"), ha trabajado en el desarrollo de TypeScript.[1](https://es.wikipedia.org/wiki/TypeScript#cite_note-1)​ TypeScript puede ser usado para desarrollar aplicaciones JavaScript que se ejecutarán en el lado del cliente o del servidor ([Node.js](https://es.wikipedia.org/wiki/Node.js "Node.js")).
@@ -18390,8 +17037,8 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	
 	Hay dos formas principales de obtener las herramientas TypeScript:
 	
-	  * Vía npm (el administrador de paquetes Node.js)
-	  * Al instalar los complementos de Visual Studio de TypeScript
+	* Vía npm (el administrador de paquetes Node.js)
+	* Al instalar los complementos de Visual Studio de TypeScript
 	
 	
 	
@@ -18454,19 +17101,16 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	    
 	```
 
-	* **paconity** (1)
+	* **paconity** [734907] (1)
 
-		
 		porque esta explicación es tan diferente al video?
 
-* **Daniel Hurtado** (4)
+* **Daniel Hurtado** (4) [709034](https://platzi.com/comentario/709034/) 
 
-	
 	Me parece fantástico que añadan una sección de typescript a este curso!
 
-* **mexicansauce** (3)
+* **mexicansauce** (3) [1081566](https://platzi.com/comentario/1081566/) 
 
-	
 	Para todos aquellos que tienen el error ‘Uncaught ReferenceError: regeneratorRuntime is not defined’, espero lo puedan resolver como yo pude:
 	
 	  1. En primer lugar, gracias a esta [fuente](https://stackoverflow.com/questions/53265334/how-do-i-use-service-workers-in-parcel), me di cuenta de que el problema tenía que ver con la parte de “browserslist” del package.son, asegúrense de no tener un typo ahí. Ése fue mi primer error. Debe quedar así:
@@ -18494,9 +17138,8 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	
 	Espero les sirva porque a mí me sacó canas verdes. ¡Suerte!
 
-* **Wilson Marino Pablo Mendez** (3)
+* **Wilson Marino Pablo Mendez** (3) [858635](https://platzi.com/comentario/858635/) 
 
-	
 	Soy fan de los lenguajes tipados
 	``` 
 	    class Person implements personInterface {
@@ -18523,45 +17166,38 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	    
 	```
 
-* **Leonardo Daniel Flores Hernandez** (3)
+* **Leonardo Daniel Flores Hernandez** (3) [751102](https://platzi.com/comentario/751102/) 
 
-	
 	A alguien mas le salió un error en el modulo del service worker?
 	
 	“Uncaught ReferenceError: regeneratorRuntime is not defined”
 	
 	saben a que se debe?
 
-	* **Mauro Giustozzi** (1)
+	* **Mauro Giustozzi** [751102] (1)
 
-		
 		A mi también me aparece el mismo error.
 
-	* **Andrea Méndez Díaz** (1)
+	* **Andrea Méndez Díaz** [751102] (1)
 
-		
 		Hola Leonardo, ¿cómo lo solucionaste?
 
-	* **Cmendi** (1)
+	* **Cmendi** [751102] (1)
 
-		
 		A mí. No sé por qué. ¿Lograste ver qué es?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [751102] (1)
 
-		
 		Esto parece ser un error de dependencias, mi recomendación es que borren la carpeta **node_modules** y hagan un `npm install`.
 		
 		Otra opción es bajar el código de la sección de **Archivos y Enlaces** yo lo he probado y funciona sin problemas. Pueden compararlo con el suyo para ver cuál puede ser el error. Suerte!
 
-	* **mexicansauce** (1)
+	* **mexicansauce** [751102] (1)
 
-		
 		Por si todavía sirve, acabo de subir una posible solución al problema. Está en la parte de los comentarios. ¡Saludos!
 
-* **Javier Armando Vargas Vega** (2)
+* **Javier Armando Vargas Vega** (2) [973197](https://platzi.com/comentario/973197/) 
 
-	
 	Probando la configuración que nos da el instructor me encuentro con el mismo problema que veo se ha presentado a varios de los alumnos: no se encuentra el archivo sw.js
 	
 	Intenté modificar la línea para dejarla así:
@@ -18576,56 +17212,46 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	
 	Supongo que no, pero funcionó. Por favor si alguno tiene una mejor solución. Gracias
 
-	* **Daniel Lopez** (1)
+	* **Daniel Lopez** [973197] (1)
 
-		
 		buena capo
 
-* **paconity** (2)
+* **paconity** (2) [746823](https://platzi.com/comentario/746823/) 
 
-	
 	por accidente instale parcel mientras la terminal estaba ubicada en mi home, creen que sea problema?
 
-	* **Juan Carlos García Esquivel** (3)
+	* **Juan Carlos García Esquivel** [746823] (3)
 
-		
 		No creo que tengas problemas lo que pasa cuando ejecutas la instalación de una librería con npm es que te crea un archivo llamado **package.json** y una carpeta llamada **node_modules** en este caso te las creo en tu home basta con ir a home y borrarlas.
 
-	* **paconity** (2)
+	* **paconity** [746823] (2)
 
-		
 		gracias Juan Carlos
 
-* **cocoapuffx** (2)
+* **cocoapuffx** (2) [743824](https://platzi.com/comentario/743824/) 
 
-	
 	Es lo mismo typescript que Angular? He visto código escrito en Angular y es tal cual typescript, mas no sé si es lo mismo.
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [743824] (2)
 
-		
 		No es lo mismo, Angular es un framework de JavaScript mientras que Typescript es un lenguaje de programación que le agrega tipado estático a JavaScript.
 
-	* **Demian Arenas (Platzi)** (3)
+	* **Demian Arenas (Platzi)** [743824] (3)
 
-		
 		Hola Pedro, llevas ya buen avance del curso!
 		
 		Como Kevin te comentaba, TypeScript es un lenguaje de programación, más concreto un superset de JavaScript que le añade tipado estatico y Programación Orientada a Objetos. Angular es un framework que utiliza TypeScript, pero también puedes usar JavaScript si lo prefieres aunque no es lo más recomendable ni común.
 
-* **Enrique Alexis Lopez Araujo** (2)
+* **Enrique Alexis Lopez Araujo** (2) [743165](https://platzi.com/comentario/743165/) 
 
-	
 	Comando en la terminal si no esta cargando el index.html de la carpeta de ts rm -rf .cache dist
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [705407](https://platzi.com/comentario/705407/) 
 
-	
 	Como se gusta TS, esta muy bueno hay que aprender mas de este lenguaje
 
-* **Delfina Merola Moreschi** (1)
+* **Delfina Merola Moreschi** (1) [1101200](https://platzi.com/comentario/1101200/) 
 
-	
 	No hay forma de que cargue el servidor, en consola todo funciona bien:
 	``` 
 	    /mnt/c/Users/usuario/Documents/escuelaJS/profesionalJS(master*) » npm start              130 ↵ delfina@OCT2018-20 
@@ -18640,9 +17266,8 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	
 	ya borre .cache y dist y no funciona, cerré XAMPP porque pensé que podría ser eso pero sigue sin cargar en el navegador. Alguna ayuda?
 
-	* **Alejandro Ávila Guerrero** (1)
+	* **Alejandro Ávila Guerrero** [1101200] (1)
 
-		
 		Hola @delfinamerolamoreschi borra las carpetas .cache y dist por separado.
 		
 		`rm -rf . cache`  
@@ -18653,36 +17278,31 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 		y eliminas los datos de  
 		**clear site data**
 
-* **ManuS** (1)
+* **ManuS** (1) [1065395](https://platzi.com/comentario/1065395/) 
 
-	
 	Me aparecen estas vulnerabilidades al remover el live-server, de qué se tratan?  
 	npm WARN rollback Rolling back fsevents@1.2.11 failed (this is probably harmless): EINVAL: invalid argument, scandir '/mnt/d/Proyectos/javascript-profesional/node_modules/fsevents/node_modules/node-pre-gyp/lib/util/nw-pre-gyp’  
 	npm WARN platzi-media-player@1.0.0 No repository field.  
 	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.11 (node_modules/fsevents):  
 	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.11: wanted {“os”:“darwin”,“arch”:“any”} (current: {“os”:“linux”,“arch”:“x64”})
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1064884](https://platzi.com/comentario/1064884/) 
 
-	
 	typescript es una buena ayuda.
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [1024747](https://platzi.com/comentario/1024747/) 
 
-	
 	El log si lo puedo ver en consola, pero me sale este error, ya borre .cache y dist  
 	![Captura de Pantalla 2020-03-07 a la\(s\) 22.52.43.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-07%20a%20la%28s%29%2022.52.43-ce60acd6-821d-461a-b3b9-abe2f6d78189.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [1024747] (2)
 
-		
 		Probablemente esto te pueda servir <https://stackoverflow.com/a/54490329>
 		
 		Puedes compartir tu código? con esto podemos ayudarte en caso que no encuentres el error.
 
-	* **luisglopez7777** (1)
+	* **luisglopez7777** [1024747] (1)
 
-		
 		Que tal gollum gracias por la respuesta, pero no estamos usando babel o si? De hecho algo que me confunde un poco es que no se donde esta el archivo de configuracion supongo que parcel se encarga de eso? Que parte del código te paso? Que no tengo ni idea de a que se deba el error, esto es lo que tengo en package.json
 		``` 
 		    {
@@ -18712,71 +17332,60 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 		    
 		```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1024747] (1)
 
-		
 		Voy a investigar un poco más a ver si encuentro otra causa de ese error.
 
-	* **Victor Martin Ortiz Palacio** (1)
+	* **Victor Martin Ortiz Palacio** [1024747] (1)
 
-		
 		Te pasa lo mismo si corres el parcel unicamente con el index.html de la carpeta raiz?? ejecutandolo de la siguiente manera
 		``` 
 		    parcel index.html
 		    
 		```
 
-	* **omarps** (1)
+	* **omarps** [1024747] (1)
 
-		
 		Yo estoy atorado con el mismo problema, ya investigué los posts que agregaron, pero hacen referencia a babel, el cual no estamos usando en el curso.  
 		Esto error surgió en cuanto hicimos el cambio a ts y parsel.
 
-	* **mexicansauce** (1)
+	* **mexicansauce** [1024747] (1)
 
-		
 		¡Hola! Acabo de subir una posible solución al problema en la parte general de los comentarios del video. Ojalá te funcione. ¡Saludos!
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [958632](https://platzi.com/comentario/958632/) 
 
-	
 	tengo el siguiente error:  
 	![](![error con parcel.png](https://static.platzi.com/media/user_upload/error%20con%20parcel-1d4b0472-70de-4aee-936f-30c8b3e85de9.jpg)
 	
 	¿Alguien seria tan amable de ayudarme? 😅
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [958632] (2)
 
-		
 		Hola! Desde dónde descargaste el proyecto? Parece que falta el archivo sw.js pero eso lo deberíamos ver más adelante 😄
 
-	* **Cristian Caraballo** (1)
+	* **Cristian Caraballo** [958632] (1)
 
-		
 		Hola bro, si tengo el archivo sw.js esta junto al package.json…podría ser un error de referencia?
 
-	* **Cristian Caraballo** (1)
+	* **Cristian Caraballo** [958632] (1)
 
-		
 		si era eso 😃  
 		![referencia areglada.png](https://static.platzi.com/media/user_upload/referencia%20areglada-ed64f09d-50a8-438f-bb90-0c4a10c49edc.jpg)
 		
 		fíjate en la linea 30 al referenciar el registro del sw lo había hecho así “./sw.js” asumiendo que estaba en la misma carpeta. pero no era asi, la carpeta estaba dos carpetas mas arriba porque así lo hacia Richard en la clase de Service Worker. ¿Sabes por que lo hizo asi?
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [896395](https://platzi.com/comentario/896395/) 
 
-	
 	Me está saliendo un errorcito en consola cada vez que se recarga el index.html dentro de typescript. ¿A alguien más le pasa esto? La verdad el mensaje me resulta difícil de entender.  
 	![2020-01-02 15_41_54-Window.png](https://static.platzi.com/media/user_upload/2020-01-02%2015_41_54-Window-7dbb7a46-a732-4c78-b032-5dad22a06791.jpg)
 
-	* **XXVSebastianVXX** (2)
+	* **XXVSebastianVXX** [896395] (2)
 
-		
 		Hola puedes poner el código que escribiste en la clase pasada, el que tienes en el archivo sw.js. Así es más facil poder ayudarte.
 
-	* **Bernardo Ayala Montezuma** (1)
+	* **Bernardo Ayala Montezuma** [896395] (1)
 
-		
 		Hola Sebastian. ¡Muchas gracias por responder!.
 		
 		En una de las siguientes clases alguien con el mismo problema brindó la solución. Resulta que, por una razón que aún no entiendo del todo, se requiere crear un archivo tsconfig.json con el siguiente contenido:
@@ -18804,16 +17413,14 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 		
 		Te mando muchos saludos.
 
-	* **Bernardo Ayala Montezuma** (1)
+	* **Bernardo Ayala Montezuma** [896395] (1)
 
-		
 		¡A no perdón! Esa solución era para otro problema que también estaba teniendo más adelante al transformar los archivos de ts a js.
 		
 		La solución para este problema también la da alguien más adelante, pero no recuerdo bien como era. Pero en una o dos clases otro estudiante da una muy buena solución. Disculpa la confusión.
 
-	* **Bernardo Ayala Montezuma** (1)
+	* **Bernardo Ayala Montezuma** [896395] (1)
 
-		
 		La solución nos la brinda más adelante un estudiante cuyo username es [iapolo](https://platzi.com/@iapolo/), textualmente nos dice esto:
 		
 		“Si tienen el error Uncaught ReferenceError: regeneratorRuntime is not defined, se corrige instalando npm i -S @babel/polyfill y agregando al archivo sw.js: import ‘@babel/polyfill’;  
@@ -18821,29 +17428,24 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 		
 		Pueden ver su respuesta original [aquí](https://platzi.com/comentario/836196/).
 
-	* **mexicansauce** (1)
+	* **mexicansauce** [896395] (1)
 
-		
 		Hola, por si todavía lo requieres. Acabo de subir una posible solución en los comentarios del video. Debe estar más arriba. ¡Ojalá te funcione!
 
-* **luis-gabriel-cazzullo** (1)
+* **luis-gabriel-cazzullo** (1) [854046](https://platzi.com/comentario/854046/) 
 
-	
 	¿Tienen el nuevo npm de parcel? Me figura solo el yarn en la documentación
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [854046] (1)
 
-		
 		A mi me sale `npm` y `yarn`, de todas maneras el comando es el mismo: `npm install parcel` -D o `npm install parcel-bundler --save-dev`<https://parceljs.org/getting_started.html#adding-parcel-to-your-project>
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [850761](https://platzi.com/comentario/850761/) 
 
-	
 	estupendo, lo había escuchado pero jamas pensé que era tan genial
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [828431](https://platzi.com/comentario/828431/) 
 
-	
 	¡Ayuda! tengo este error al ejecutar “npm test”:
 	``` 
 	    npm ERR! Linux 4.15.0-65-generic
@@ -18866,99 +17468,88 @@ Los navegadores no entienden TypeScript así que lo vamos a transpilar a JavaScr
 	    
 	```
 
-* **mafevito** (1)
+* **mafevito** (1) [810394](https://platzi.com/comentario/810394/) 
 
-	
 	¿A que se refiere con que TypeScript ayuda a mejorar el autocompletado?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [810394] (2)
 
-		
 		En parte es por que al ser una versión tipada de JavaScript te permite predecir exactamente que tipo de datos lleva cada variable, argumento, método, contenido de objetos y arrays; Es decir te permite predecir lo que quieres hacer.  
 		  
 		Por otra parte hay que tener en cuenta que Visual Studio Code y TypeScript son ambos de Microsoft, lo que hace que se complementen perfectamente 😄
 
-* **WilmarFlorez** (1)
+* **WilmarFlorez** (1) [790105](https://platzi.com/comentario/790105/) 
 
-	
 	Hola! tengo el siguiente error: Failed to load module script: The server responded with a non-JavaScript MIME type of “text/html”. Strict MIME type checking is enforced for module scripts per HTML spec.  
 	¿Alguien sabe como puedo solucionarlo?
 
-* **Juan Luis Rojas León** (1)
+* **Juan Luis Rojas León** (1) [787365](https://platzi.com/comentario/787365/) 
 
-	
 	Otra excelente forma de añadir tipado a nuestro código Javascript es usando [Flow](https://flow.org/)
 
-* **alexjcm** (1)
+* **alexjcm** (1) [780786](https://platzi.com/comentario/780786/) 
 
-	
 	¿Parcel es una alternativa a Webpack?
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [771614](https://platzi.com/comentario/771614/) 
 
-	
 	Importante para que el servidor arranque
 
-* **Mauro Giustozzi** (1)
+* **Mauro Giustozzi** (1) [753988](https://platzi.com/comentario/753988/) 
 
-	
 	How to Install Parcel for the compilation of TypeScript
 
-* **ManuS** (1)
+* **ManuS** (1) [85067](https://platzi.com/comentario/1065483/) 
 tengo un problema, despues de instalar el parcel, desinstalar el live-server, remover el cache y dist, al levantar el servidor me abre es...
 
-* **Luis Carlos Kristen Ospitia** (1)
+* **Luis Carlos Kristen Ospitia** (1) [84205](https://platzi.com/comentario/1045353/) 
 tengo lios, me deja instalar parcel, pero ya no me deja volver a correr np (es decir no me deja volver a montar el servidor)
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [81086](https://platzi.com/comentario/973235/) 
 Qué función cumple la carpeta Dist que se genera cuando se corre el servidor?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [81086] (1)
 
-		
 		Hola! Esta carpeta se genera porque se compila el código. En la carpeta Dist es almacenado el JavaScript compilado, para que pueda ser usado en cualquier navegador. Te recomiendo el [Curso de Webpack](https://platzi.com/clases/webpack/) para aprender más al respecto 😄
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [74326](https://platzi.com/comentario/850782/) 
 ayuda, me sale este error cuando intento instalare ( npm install -D parcel-bundler)
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [74326] (1)
 
-		
 		 **EACCES** es un error por problemas permisos de escritura en el directorio donde quieres instalar esa librería, veo que estás usando `sudo` pero parece que estás corriendo en WSL, por ahí puede ser el problema de permisos 🤔
 
-* **Esau Rosales** (1)
+* **Esau Rosales** (1) [69406](https://platzi.com/comentario/756754/) 
 Cual es el equivalente de rm -rf en cmd? Elimine las carpetas manualmente, utilice rmdir /s y aun así sigue sin funcionar.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [69406] (2)
 
-		
 		Puedes seguir esta guía para Windows: <https://www.computerhope.com/issues/ch000743.htm>.
 		
 		O puedes usar una terminal como [Git Bash](https://git-scm.com/downloads). 😉
 
-* **Mariana Cortés** (1)
+* **Mariana Cortés** (1) [69148](https://platzi.com/comentario/752130/) 
 Quedo con la duda de por qué toca instalar otro servidor y no el mismo live server que estábamos usando?
 
-	* **carcastillo** (6)
+	* **carcastillo** [69148] (6)
 
-		
 		Porque parcel-bundler además de transpilar el código de TypeScript a JavaScript tambien iniciar el server para poder ver tus cambios en el browser.
 
-## 0250. Tipos básicos
+## 0250. Tipos básicos [22179](https://platzi.com/clases/1642-javascript-profesional/22179-tipos-basicos/)
 
 ### Descripción:
 
 
 Tipos:
 
-  * **boolean**. Valor verdadero o falso.
-  * **number**. Números.
-  * **string**. Cadenas de texto.
-  * **string[]**. Arreglo del tipo cadena de texto.
-  * **Array**. Arreglo multi-tipo, acepta cadenas de texto o números.
-  * **enum**. Es un tipo especial llamado enumeración.
-  * **any**. Cualquier tipo.
-  * **object**. Del tipo objeto.
+* **boolean**. Valor verdadero o falso.
+* **number**. Números.
+* **string**. Cadenas de texto.
+* **string[]**. Arreglo del tipo cadena de texto.
+* **Array**. Arreglo multi-tipo, acepta cadenas de texto o números.
+* **enum**. Es un tipo especial llamado enumeración.
+* **any**. Cualquier tipo.
+* **object**. Del tipo objeto.
 
 
 
@@ -18972,9 +17563,8 @@ Tipos:
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (13)
+* **Cesar Augusto Barco de Gouveia** (13) [734989](https://platzi.com/comentario/734989/) 
 
-	
 	## Tipos básicos
 	
 	## [Boolean ](https://www.typescriptlang.org/docs/handbook/basic-types.html#boolean)
@@ -19154,48 +17744,40 @@ Tipos:
 	    
 	```
 
-	* **Christian Erik Velázquez Morales** (2)
+	* **Christian Erik Velázquez Morales** [734989] (2)
 
-		
 		Gracias!
 
-* **Rob Arroyo** (9)
+* **Rob Arroyo** (9) [744376](https://platzi.com/comentario/744376/) 
 
-	
 	Aquí les dejo la documentación de TypeScript 😃  
 	<https://www.typescriptlang.org/docs/home.html>
 
-* **braco** (8)
+* **braco** (8) [976426](https://platzi.com/comentario/976426/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 25.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2025-5f8614ac-ca4f-4a55-b517-9a39dd4ecdcb.jpg)
 
-	* **juanjosejaramillo** (1)
+	* **juanjosejaramillo** [976426] (1)
 
-		
 		Disculpa amigo, con que software realizas este tipo de apuntes?
 
-* **Nadir Antonio Soza Solis** (4)
+* **Nadir Antonio Soza Solis** (4) [728456](https://platzi.com/comentario/728456/) 
 
-	
 	Aqui un poco mas de typeScript  
 	<https://platzi.com/clases/typescript-angular/>
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [728456] (1)
 
-		
 		Este es un gran curso y te ensena a detalle como aplicar typescript.
 
-* **JuanDAC** (3)
+* **JuanDAC** (3) [871572](https://platzi.com/comentario/871572/) 
 
-	
 	any convierte las variables en Barbie Girl ya que **_pueden ser lo que quieran ser_**.
 
-* **veronica oviedo** (3)
+* **veronica oviedo** (3) [820379](https://platzi.com/comentario/820379/) 
 
-	
 	trayendo texto del enum sin asignarle valor
 	``` 
 	    enumColors {
@@ -19205,31 +17787,27 @@ Tipos:
 	    
 	```
 
-* **Rene Eduardo Corrales Torrez** (2)
+* **Rene Eduardo Corrales Torrez** (2) [924538](https://platzi.com/comentario/924538/) 
 Se parece mucho a C#
 
-	* **JamaHCS** (7)
+	* **JamaHCS** [924538] (7)
 
-		
 		De hecho el creador de C# es el mismo que dirige el proyecto de Typescript
 
-* **Carlos Martinez** (2)
+* **Carlos Martinez** (2) [909020](https://platzi.com/comentario/909020/) 
 
-	
 	se parece mucho a java, pero sin duda mucho más comodo, veo que es muy bueno para prevenir los tipicos errores que suceden al momento de esperar por ejemplo un numero y en vez de eso llega un string.
 
-	* **Luis Fernández** (1)
+	* **Luis Fernández** [909020] (1)
 
-		
 		Si es muy parecido a Java.
 		
 		Cuando conocí Javascript me gusto mucho porque no tenía tanto tipado ahora ya entiendo lo importante que es.
 		
 		Esta muy Genial
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [784328](https://platzi.com/comentario/784328/) 
 
-	
 	Enum no existe en Javascript, Pero podemos usarlo en typescript para crear enumeradores, bajo el capo typescript crea un objecto **bidireccional** si los elementos del enum no tienen valores.
 	``` 
 	    enumColor {
@@ -19242,74 +17820,61 @@ Se parece mucho a C#
 	
 	![salida.png](https://static.platzi.com/media/user_upload/salida-e084bd06-ea3e-43ac-87cf-1ab416308544.jpg)
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [784287](https://platzi.com/comentario/784287/) 
 
-	
 	Al principio no me gustaba el codigo TypeScript, pero cuando te acostumbras terminas escribiendo aplicaciones con mayor escalabilidad…
 
-* **victorvicenteperezccanto** (1)
+* **victorvicenteperezccanto** (1) [1030764](https://platzi.com/comentario/1030764/) 
 
-	
 	Es obligatorio colocar los punto y coma en TypeScript?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1030764] (1)
 
-		
 		No, no es obligatorio, va a depender de tus preferencias 😄
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [882766](https://platzi.com/comentario/882766/) 
 
-	
 	Buen dia companeros tengo un problema, no me aparece la carpeta .gitignore en el editor de codigo, no se porque si tengo instalado git y estoy traajando con el. alguna sugerencia please?
 	
 	![](https://snipboard.io/oOZ1nU.jpg)
 
-	* **Christian Armando Consuelo Mayén** (3)
+	* **Christian Armando Consuelo Mayén** [882766] (3)
 
-		
 		No es una carpeta, es un archivo y si no aparece solo tienes que crearlo con el nombre `.gitignore`. Ahí pones el código que el profesor puso.
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [882766] (1)
 
-		
 		Muchas gracias por la ascesoria companero!!
 
-* **mafevito** (1)
+* **mafevito** (1) [810474](https://platzi.com/comentario/810474/) 
 
-	
 	[Este](https://www.freecodecamp.org/news/learn-typescript-data-types-from-zero-to-hero/) articulo es muy útil para entender más acerca de los tipos de datos de TypeScript.
 
-* **Christian Armando Consuelo Mayén** (1)
+* **Christian Armando Consuelo Mayén** (1) [772534](https://platzi.com/comentario/772534/) 
 
-	
 	Agregar tipos a un lenguaje débilmente tipado como Javascript tiene sus ventajas porque te ayuda a detectar errores desde el momento de compilación y no hasta que el código está en producción. =D
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [771650](https://platzi.com/comentario/771650/) 
 
-	
 	Declarar Array con varios tipos de datos.
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [771639](https://platzi.com/comentario/771639/) 
 
-	
 	Se deben de omitir node_modules, .cache y dist
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [754959](https://platzi.com/comentario/754959/) 
 
-	
 	Nota: al parece es obligatorio el ; en typescript o por lo menos es mi caso, me arroja error en el navegador cuando lo omito.
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [754959] (1)
 
-		
 		No lo es. Revisa tu configuración de eslint.
 
-* **Ernesto Vizcaíno Alvarado** (1)
+* **Ernesto Vizcaíno Alvarado** (1) [715077](https://platzi.com/comentario/715077/) 
 
-	
 	Excelente clase, muy bien explicado
 
-## 0260. Funciones
+## 0260. Funciones [22180](https://platzi.com/clases/1642-javascript-profesional/22180-funciones/)
 
 ### Descripción:
 
@@ -19318,16 +17883,14 @@ En Typescript podemos ser explícitos con el tipo de los argumentos y el tipo de
 
 ### Comentarios:
 
-* **braco** (11)
+* **braco** (11) [976428](https://platzi.com/comentario/976428/) 
 
-	
 	Apuntes de la clase:
 	
 	![JS – 26.png](https://static.platzi.com/media/user_upload/JS%20%E2%80%93%2026-53eaa9dc-d00a-4ea4-835d-e89fe3cfc023.jpg)
 
-* **Cesar Augusto Barco de Gouveia** (8)
+* **Cesar Augusto Barco de Gouveia** (8) [735632](https://platzi.com/comentario/735632/) 
 
-	
 	## TypeScript: funciones y métodos
 	
 	TypeScript aporta varias características que JavaScript no dispone hasta el momento cuando tenemos que plantear funciones y métodos.
@@ -19452,35 +18015,30 @@ En Typescript podemos ser explícitos con el tipo de los argumentos y el tipo de
 	    
 	```
 
-* **Carlos Martinez** (4)
+* **Carlos Martinez** (4) [909044](https://platzi.com/comentario/909044/) 
 
-	
 	un buen lugar para probar y “jugar” con typescript es el playground del sitio de typescript  
 	<https://www.typescriptlang.org/play/index.html>
 
-* **Leonardo Castro Mestra** (2)
+* **Leonardo Castro Mestra** (2) [1064968](https://platzi.com/comentario/1064968/) 
 
-	
 	typescript es genia …
 
-* **Christian Armando Consuelo Mayén** (2)
+* **Christian Armando Consuelo Mayén** (2) [885525](https://platzi.com/comentario/885525/) 
 
-	
 	Gran aportación lo de las funciones que regresan funciones. Tenía esa duda de cómo implementar patrones de programación funcional con Typescript.
 
-	* **daniel-zurita** (1)
+	* **daniel-zurita** [885525] (1)
 
-		
 		En la sección 2 de este curso se menciona esto, son los closures.
 
-* **Ricardo Martínez Murillo** (1)
+* **Ricardo Martínez Murillo** (1) [960387](https://platzi.com/comentario/960387/) 
 
-	
 	typescript se me hace increíblemente cómodo a la hora de especificar el tipo de mis variables y valores 😃
 	
 	Definitivamente es mas legible que java
 
-* **José Manuel Puicón Rodas** (1)
+* **José Manuel Puicón Rodas** (1) [943678](https://platzi.com/comentario/943678/) 
 
 	```
 	    functionadd(a: number, b: number):number{
@@ -19508,7 +18066,7 @@ En Typescript podemos ser explícitos con el tipo de los argumentos y el tipo de
 	    
 	```
 
-* **Luis Fernández** (1)
+* **Luis Fernández** (1) [931610](https://platzi.com/comentario/931610/) 
 
 	```
 	    /* Funcion Básica */
@@ -19547,27 +18105,23 @@ En Typescript podemos ser explícitos con el tipo de los argumentos y el tipo de
 	    
 	```
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [930244](https://platzi.com/comentario/930244/) 
 
-	
 	Typescript me recuerda mucho a Java.
 
-* **efrainjaimes** (1)
+* **efrainjaimes** (1) [728410](https://platzi.com/comentario/728410/) 
 
-	
 	Excelente, soy muy novato pero se me hace hasta más “Lógico” y entendible en código usando TypeScript
 
-	* **Christian Armando Consuelo Mayén** (1)
+	* **Christian Armando Consuelo Mayén** [728410] (1)
 
-		
 		Si eres novato te puede ayudar aprender primero TypeScript porque vas a prevenir confusión con el tipo de variables al ser más explicito. Te recomiendo que sigas y también practiques con JS “Vanilla” para que notes la diferencia.
 
-* **Marco Antonio Macedo Preciado** (1)
+* **Marco Antonio Macedo Preciado** (1) [67005](https://platzi.com/comentario/716144/) 
 ¿Como hacemos para definir los tipos de datos cuando desestructuramos un objeto en typescript? Tengo la siguiente función: async ...
 
-	* **Manuel Ojeda** (7)
+	* **Manuel Ojeda** [67005] (7)
 
-		
 		Hola Marcos, para lo que quieres hacer usemos el siguiente ejemplo que hice:  
 		![destructure-typescript.png](https://static.platzi.com/media/user_upload/destructure-typescript-803a7882-09e8-4503-b7fb-2cd8715180a9.jpg)
 		
@@ -19582,7 +18136,7 @@ En Typescript podemos ser explícitos con el tipo de los argumentos y el tipo de
 		
 		Saludos ✌
 
-## 0270. Interfaces
+## 0270. Interfaces [22181](https://platzi.com/clases/1642-javascript-profesional/22181-interfaces/)
 
 ### Descripción:
 
@@ -19591,9 +18145,8 @@ Nos permiten declarar la forma exacta de un objeto, definiendo los tipos de sus 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (5)
+* **Cesar Augusto Barco de Gouveia** (5) [735647](https://platzi.com/comentario/735647/) 
 
-	
 	## Interfaces
 	
 	## [Introducción ](https://www.typescriptlang.org/docs/handbook/interfaces.html#introduction)
@@ -19688,67 +18241,57 @@ Nos permiten declarar la forma exacta de un objeto, definiendo los tipos de sus 
 	    
 	```
 
-	* **Cristian Caraballo** (2)
+	* **Cristian Caraballo** [735647] (2)
 
-		
 		de casualidad no tienes esa informacion en github?
 
-	* **T-gold** (2)
+	* **T-gold** [735647] (2)
 
-		
 		cris esa info es de aca  
 		<https://augdiaugus.gitbook.io/recoleccion-de-notas-publicas/escuela-de-javascript/curso-profesional-de-javascript#any>  
 		la version escrita de este curso!
 
-* **eduardoluisgr** (4)
+* **eduardoluisgr** (4) [735385](https://platzi.com/comentario/735385/) 
 
-	
 	si has escrito c++ antes, ésta clase de Interfaces te sonará muy familiar
 
-	* **Jesús Miguel Quinto Teran** (2)
+	* **Jesús Miguel Quinto Teran** [735385] (2)
 
-		
 		Mi primer lenguaje fue C++, Tengo una sensación de amor y odio, jejejejeje
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [735385] (1)
 
-		
 		Este año recibi el curso de POO en Java en la U. y el proximo C++ avanzado.
 		
-		  * 
+		* 
 		
 		
 		C++ 😭
 
-* **ManuS** (2)
+* **ManuS** (2) [1065238](https://platzi.com/comentario/1065238/) 
 
-	
 	la utilización de las interfaces no radica justamente en poder extenderlas?
 
-	* **Alejandro Jimenez** (2)
+	* **Alejandro Jimenez** [1065238] (2)
 
-		
 		En las interfaces de TypeScript sólo importa la forma, si el objeto cumple con las características de la interface entonces está permitido, no es como en otros lenguajes. [Docs de interfaces en TypeScript](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 
-* **Jhonatan David Ibarra Lavado** (2)
+* **Jhonatan David Ibarra Lavado** (2) [857656](https://platzi.com/comentario/857656/) 
 
-	
 	estupendo, estoy repasando este curso*.*
 
-* **cris-medina** (2)
+* **cris-medina** (2) [725494](https://platzi.com/comentario/725494/) 
 Con TypeScript siempre debemos especificar el tipo de variables y el tipo de argumentos, además, debemos especificar cuando una variable es opcional usando **variable *?:* tipo**
 
-	* **Cristian Camilo Cucunubá** (2)
+	* **Cristian Camilo Cucunubá** [725494] (2)
 
-		
 		No es obligatario tipar todas las variables o funciones que vas creando, porque al final todo el codigo js puede ser typescript, pero si estas usando TypeScript es porque naturalmente vas hacerlo.
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1065000](https://platzi.com/comentario/1065000/) 
 
-	
 	las interfaces tienen cero impacto de JavaScript en tiempo de ejecución.
 
-* **José Manuel Puicón Rodas** (1)
+* **José Manuel Puicón Rodas** (1) [943692](https://platzi.com/comentario/943692/) 
 
 	```
 	    enum Color {
@@ -19782,7 +18325,7 @@ Con TypeScript siempre debemos especificar el tipo de variables y el tipo de arg
 	    
 	```
 
-* **Luis Fernández** (1)
+* **Luis Fernández** (1) [931620](https://platzi.com/comentario/931620/) 
 
 	```
 	    enum Color {
@@ -19819,25 +18362,22 @@ Con TypeScript siempre debemos especificar el tipo de variables y el tipo de arg
 	    
 	```
 
-* **PaoloTorregrosa** (1)
+* **PaoloTorregrosa** (1) [831687](https://platzi.com/comentario/831687/) 
 
-	
 	Me recuerda un poco a rust
 
-* **Jose Antonio Sarria Garcia** (1)
+* **Jose Antonio Sarria Garcia** (1) [827183](https://platzi.com/comentario/827183/) 
 
-	
 	Esta es la lección que mas he visto, ya que lenguajes como Java y C#. son de otra forma
 
-* **ManuS** (1)
+* **ManuS** (1) [85056](https://platzi.com/comentario/1065222/) 
 qué diferencia tienen las interfaces y las clases?
 
-	* **Juan Arturo Gutiérrez** (2)
+	* **Juan Arturo Gutiérrez** [85056] (2)
 
-		
 		como dice Richard la interface es como una forma o modelo que determina como se debe implementar una clase, no es la clase en si misma.
 
-## 0280. Clases
+## 0280. Clases [22182](https://platzi.com/clases/1642-javascript-profesional/22182-clases/)
 
 ### Descripción:
 
@@ -19846,9 +18386,8 @@ En las clases en TypeScript sí existen las propiedades privadas.
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [735655](https://platzi.com/comentario/735655/) 
 
-	
 	## Clases
 	
 	## [Introducción](https://www.typescriptlang.org/docs/handbook/classes.html#introduction)
@@ -20032,56 +18571,47 @@ En las clases en TypeScript sí existen las propiedades privadas.
 	    
 	```
 
-	* **WillJH** (2)
+	* **WillJH** [735655] (2)
 
-		
 		La claridad en resumidas letras es lo mejor. Muchas gracias.
 
-* **nick** (4)
+* **nick** (4) [903960](https://platzi.com/comentario/903960/) 
 
-	
 	aaaaahhhhh sufrí demasiado con ese error del sw jajajaja
 
-* **ezcdev** (4)
+* **ezcdev** (4) [816491](https://platzi.com/comentario/816491/) 
 
-	
 	Tambien es obra de TypeScript?
 	
 	![](http://ezcdev.com/exercises/typeScript.gif)
 
-	* **alexabellerman** (1)
+	* **alexabellerman** [816491] (1)
 
-		
 		Si, TypeScript permite el autoimport, y eso es muy usado por ejemplo en Angular para improtar modulos y/o componentes.
 
-* **Camilo Andrés Santana Lizcano** (4)
+* **Camilo Andrés Santana Lizcano** (4) [745057](https://platzi.com/comentario/745057/) 
 
-	
 	Wow ! la funcionalidad de convertir funciones a clases esta genial !
 
-* **Steven Benjamín Diaz Flores** (4)
+* **Steven Benjamín Diaz Flores** (4) [711457](https://platzi.com/comentario/711457/) 
 
-	
 	Hola, alguien sabe porque me parece en consola
 	
 	regeneratorRuntime is not defined  
 	?
 
-	* **efrainjaimes** (2)
+	* **efrainjaimes** [711457] (2)
 
-		
 		Si puedes comparte el c’odigo
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [711457] (4)
 
-		
 		Puede ser un problema de dependencias relacionadas con babel, en este caso es Parcel quien internamente depende de babel, así que mi recomendación es borra tu directorio _node_modules_ y has un `npm install` de nuevo.
 		
 		Nos cuentas cómo te fue :smile
 
-	* **Hernan Maza** (1)
+	* **Hernan Maza** [711457] (1)
 
-		
 		Asegurate de haber declarado correctamente en el archivo package.json
 		``` 
 		    "browserslist": [
@@ -20090,19 +18620,16 @@ En las clases en TypeScript sí existen las propiedades privadas.
 		    
 		```
 
-	* **ManuS** (1)
+	* **ManuS** [711457] (1)
 
-		
 		tuve este problema y lo solucioné escribiendo correctamente como lo propone @jmaza. Sin embargo, luego de solucionar eso,NO me aparece el error que le aparece al profe, “TypeError: Request failed”, esto me preocupa que pudiese ser otro nuevo error.
 
-* **Javier Fuentes Mora** (3)
+* **Javier Fuentes Mora** (3) [751924](https://platzi.com/comentario/751924/) 
 
-	
 	Ayy y yo que habia escrito como un clase desde el principio jajaaj cuando pude haber refactorizado ajajaj
 
-* **Delfina Merola Moreschi** (1)
+* **Delfina Merola Moreschi** (1) [1104252](https://platzi.com/comentario/1104252/) 
 
-	
 	Me quedó este error en el AutoPause:
 	``` 
 	    `(`method) AutoPause.handleIntersection(entries: IntersectionObserverEntry): void
@@ -20114,43 +18641,36 @@ En las clases en TypeScript sí existen las propiedades privadas.
 	
 	El código está igual al del profesor
 
-	* **Daniel Alvarez Leal** (1)
+	* **Daniel Alvarez Leal** [1104252] (1)
 
-		
 		parece que te faltaron los “[]”
 
-* **mexicansauce** (1)
+* **mexicansauce** (1) [1088302](https://platzi.com/comentario/1088302/) 
 
-	
 	Corríjanme si estoy mal. En el video se menciona que gracias a TypeScript se pudo refactorizar la clase MediaPlayer. Sin embargo, eso no se hace en un archivo .ts, sino en uno .js
 	
 	Incluso me fui a una versión del proyecto donde no se había usado nada de TypeScript y lo pude hacer con VS Code de la misma forma en la que se indica en el video. ¿Algún comentario?
 
-* **Andrés Gutierrez** (1)
+* **Andrés Gutierrez** (1) [1050700](https://platzi.com/comentario/1050700/) 
 
-	
 	parcel mueve todo a una carpeta dist, en el caso de webpack es igual, si usamos webpack cómo le hacemos con los serviceworkers? :c
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1050700] (2)
 
-		
 		Checa [esta documentación de Webpack](https://webpack.js.org/guides/progressive-web-application/) 😄
 
-* **braco** (1)
+* **braco** (1) [987746](https://platzi.com/comentario/987746/) 
 
-	
 	Si la función run(player) recibe un objeto literal, por qué el profesor lo toma como si fuese el MediaPlayer?
 	
 	Se que tienen las mismas cosas, pero entiendo que no es lo mismo
 
-	* **Estanislao Albin Wotoszyn Grillo** (1)
+	* **Estanislao Albin Wotoszyn Grillo** [987746] (1)
 
-		
 		Si no me equivoco siguen siendo lo mismo en ambos casos. El argumento player que recibe run es un objeto, pero viene de _initiPlugins, que es un método agregado por herencia de MediaPlayer. Y acá es donde viene la clave, las clases NO EXISTEN en JS, son syntanctic sugar para los prototypes. Por lo tanto cuando hace el cambio en MediaPlayer.js, solo esta cambiando la sintaxis de prototipo a clases, pero siguen siendo lo mismo. Al pasar el código de AutoPause a TS, ese argumento player que recibe run debo darle un tipado y como proviene de la ‘clase’ MediaPlayer, le doy ese tipo (Que sería de tipo objeto, ya que las funciones son objetos de primera clase)
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [857776](https://platzi.com/comentario/857776/) 
 
-	
 	este es mi código y no me sale para refactorizar, y cuando le doy en el bombillito nuevo, me crea otro archivo 😦
 	``` 
 	    functionMediaPlayer(config){
@@ -20233,125 +18753,105 @@ En las clases en TypeScript sí existen las propiedades privadas.
 	    
 	```
 
-	* **Luis Rogelio Reyes Hernández** (1)
+	* **Luis Rogelio Reyes Hernández** [857776] (1)
 
-		
 		esa opcion sale solamente VsCode , si estas usando otro editor de codigo no saldra esa opcion , VsCode es el editor recomendado para typescript ya que ambos son de microsoft y VsCode esta hecho en typescript.
 
-	* **Jhonatan David Ibarra Lavado** (1)
+	* **Jhonatan David Ibarra Lavado** [857776] (1)
 
-		
 		si amigo, estoy con vsc peor no sale la opción 😦
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [857694](https://platzi.com/comentario/857694/) 
 
-	
 	repasando el curso*.*
 
-* **Joel Alejandro Tovar Ramos** (1)
+* **Joel Alejandro Tovar Ramos** (1) [776801](https://platzi.com/comentario/776801/) 
 
-	
 	tengo el codigo identico al de Richard pero despues de hacer todo no me da la opcion de refactorizar. a alguien le paso? pudo solucionar sin tener que escribir el codigo a mano?
 
-	* **Lex Marvin Ortiz Canizález** (4)
+	* **Lex Marvin Ortiz Canizález** [776801] (4)
 
-		
 		En la primer linea: **function MediaPlayer(config)** …
 		
 		Debes dar doble click a MediaPlayer, aparecerá un foquito amarillo con la opción de convertir a clase
 
-* **efrainjaimes** (1)
+* **efrainjaimes** (1) [67749](https://platzi.com/comentario/728449/) 
 No entendí por qué las entries van a ser de tipo IntersectionObserverEntry, me refiero a ¿De dónde sale ese nombre para ese tipo? ¿Cuándo...
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [67749] (4)
 
-		
 		Cuando escribimos código para la web hay un montón de **Web APIs** que podemos usar dependiendo del navegador.
 		
 		**IntersectionObserverEntry** es el nombre de la interface que implementa el Observer, forma parte de las Web APIs, por eso nosotros no lo definimos en ninguna parte, ya lo trae el navegador.
 		
 		Puedes ver más en la [documentación](https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserverEntry) (esta parte solo en inglés hasta la fecha).
 
-## 0290. Convertir el proyecto a TypeScript
+## 0290. Convertir el proyecto a TypeScript [22183](https://platzi.com/clases/1642-javascript-profesional/22183-convertir-el-proyecto-a-typescript/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Iair Poloniecki** (4)
+* **Iair Poloniecki** (4) [836196](https://platzi.com/comentario/836196/) 
 
-	
 	Si tienen el error `Uncaught ReferenceError: regeneratorRuntime is not defined`, se corrige instalando `npm i -S @babel/polyfill` y agregando al archivo sw.js: `import '@babel/polyfill';`  
 	😃
 
-* **Kingsman7** (4)
+* **Kingsman7** (4) [750249](https://platzi.com/comentario/750249/) 
 
-	
 	Ya entendi porque tanto amor hacia typeScript, de verdad “facilita las cosas”
 
-* **Cesar Augusto Barco de Gouveia** (4)
+* **Cesar Augusto Barco de Gouveia** (4) [735666](https://platzi.com/comentario/735666/) 
 
-	
 	## Refactorización
 	
 	[La refactorización del código fuente](https://en.wikipedia.org/wiki/Code_refactoring) puede mejorar la calidad y la facilidad de mantenimiento de su proyecto al reestructurar su código sin modificar el comportamiento del tiempo de ejecución. Visual Studio Code admite operaciones de refactorización (refactorizaciones) como el [Método de](https://refactoring.com/catalog/extractMethod.html)[extracción](https://refactoring.com/catalog/extractVariable.html) y la [Variable de extracción](https://refactoring.com/catalog/extractVariable.html) para mejorar su base de código desde su editor.
 	
 	**La refactorización de código** es el proceso de reestructurar el código de computadora existente, cambiar la _[factorización,](https://en.wikipedia.org/wiki/Decomposition_\(computer_science\) "Descomposición \(informática\)")_ sin cambiar su comportamiento externo. La refactorización está destinada a mejorar los atributos _[no funcionales](https://en.wikipedia.org/wiki/Non-functional_requirement "Requisito no funcional")_ del [software](https://en.wikipedia.org/wiki/Software "Software") . Las ventajas incluyen [legibilidad](https://en.wikipedia.org/wiki/Readability "Legibilidad") mejorada del código y [complejidad](https://en.wikipedia.org/wiki/Cyclomatic_complexity "Complejidad ciclomática") reducida ; Estos pueden mejorar el [mantenimiento del](https://en.wikipedia.org/wiki/Maintainability "Maintainability")[código fuente](https://en.wikipedia.org/wiki/Source_code "Código fuente") y crear una [arquitectura](https://en.wikipedia.org/wiki/Software_architecture "Software architecture") interna más expresiva o [un modelo de objeto](https://en.wikipedia.org/wiki/Object_model "Object model") para mejorar la [extensibilidad](https://en.wikipedia.org/wiki/Extensibility "Extensibility") .
 
-* **caegomezda** (2)
+* **caegomezda** (2) [1092278](https://platzi.com/comentario/1092278/) 
 
-	
 	sin opción quick fix, alguna sugerencia???
 
-	* **Daniel Meza** (1)
+	* **Daniel Meza** [1092278] (1)
 
-		
 		Coloca el cursor en **AutoPlay** , ahora preciona **_CTRL + Espacio_**. A un lado aparecerá el bombillo de **_Show fixes_** y listo. Seleccionas la opción para crear la clase.
 
-* **ocandoja** (2)
+* **ocandoja** (2) [1030818](https://platzi.com/comentario/1030818/) 
 
-	
 	i love VS
 
-* **José Manuel Puicón Rodas** (2)
+* **José Manuel Puicón Rodas** (2) [943994](https://platzi.com/comentario/943994/) 
 
-	
 	No sabía que TypeScript era tan genial, terminé amándolo
 
-* **Ivan Yovera** (2)
+* **Ivan Yovera** (2) [869402](https://platzi.com/comentario/869402/) 
 
-	
 	Que genial typescript, amo que las cosas sean mas estructuradas y similares a C++
 
-* **omarps** (1)
+* **omarps** (1) [1094108](https://platzi.com/comentario/1094108/) 
 
-	
 	Estuve batallando con el error desde que hicimos el cambio a parcel, y resulta que era todo porque no limpiaba el Application Storage. :face
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1065098](https://platzi.com/comentario/1065098/) 
 
-	
 	me gusta typescript…
 
-	* **Alejandro Jimenez** (1)
+	* **Alejandro Jimenez** [1065098] (1)
 
-		
 		A mí también, creo que en aplicaciones grandes te ahorras dolores de cabeza con bugs simples
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1025834](https://platzi.com/comentario/1025834/) 
 
-	
 	esta chevere typescript
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1025834] (1)
 
-		
 		Puedes aprender más sobre el mismo en el [Curso de TypeScript](https://platzi.com/clases/typescript-angular/) 😄
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1021930](https://platzi.com/comentario/1021930/) 
 
-	
 	Can somebody helps me?  
 	I ge this in console:
 	
@@ -20360,9 +18860,8 @@ No entendí por qué las entries van a ser de tipo IntersectionObserverEntry, me
 	
 	Thanks…
 
-	* **caegomezda** (1)
+	* **caegomezda** [1021930] (1)
 
-		
 		Comment the module or remove it, in the tag, where is index.ts in index.html,I don’t know if it’s the right , but it works, **Gabrielelpido** says it is an error of attributes that are already correcting.  
 		<https://platzi.com/comentario/804456/>
 		
@@ -20371,33 +18870,28 @@ No entendí por qué las entries van a ser de tipo IntersectionObserverEntry, me
 		"Note that simply removing type=“module” didn’t work, even after re-launching parcel. I had to also delete the .cache directory."  
 		**dandv**
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [861039](https://platzi.com/comentario/861039/) 
 
-	
 	repasando el modulo*.*
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [859090](https://platzi.com/comentario/859090/) 
 
-	
 	Fue un modulo estupendo!!! 🙂
 
-* **Nietsnie Alberto Perez cruz** (1)
+* **Nietsnie Alberto Perez cruz** (1) [833097](https://platzi.com/comentario/833097/) 
 
-	
 	tengo un erro algo peculiar y no encur¿ntro una explicacion clara
 	
 	Error:
 	
 	failed to load module script: The server responded with a non-JavaScript MIME type of “video/mp2t”. Strict MIME type checking is enforced for module scripts per HTML spec.
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [833097] (2)
 
-		
 		Hola! Parece que el enlace al video no es correcto, puede ser que esté mal escrito o algo así?
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [804456](https://platzi.com/comentario/804456/) 
 
-	
 	Todo me funciona pero me sale este error en consola:  
 	MediaPlayer.ts:56 Uncaught ReferenceError: parcelRequire is not defined  
 	at MediaPlayer.ts:56  
@@ -20412,9 +18906,8 @@ No entendí por qué las entries van a ser de tipo IntersectionObserverEntry, me
 	
 	No lo entiendo :`/
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [804456] (3)
 
-		
 		Parece ser un error de parcel que es causado cuando se usa el atributo `type="module"` en la etiqueta script.
 		``` 
 		    <scripttype="module"></script>
@@ -20425,61 +18918,53 @@ No entendí por qué las entries van a ser de tipo IntersectionObserverEntry, me
 		
 		[Issue en GitHub](https://github.com/parcel-bundler/parcel/issues/1401) 😄
 
-	* **dennis velez** (1)
+	* **dennis velez** [804456] (1)
 
-		
 		me pasa igual. También vi que es por usar script type module en parcel
 
-* **JESUS ALMIRCAR CASTELLANOS** (1)
+* **JESUS ALMIRCAR CASTELLANOS** (1) [771828](https://platzi.com/comentario/771828/) 
 
-	
 	rm -rf .cache dist
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [751937](https://platzi.com/comentario/751937/) 
 
-	
 	Ya tambien lo tenia como clases todo :c jajaja ni refactorizacion hice
 
-	* **Denilson Alexis Arguello Noguera** (2)
+	* **Denilson Alexis Arguello Noguera** [751937] (2)
 
-		
 		Yo también jaja, desde el Curso de Sacha uso las clases
 
-* **ManuS** (1)
+* **ManuS** (1) [85079](https://platzi.com/comentario/1065633/) 
 en la clase anterior me dió la opción de refactorizar a una clase el AutoPause, sin embargo en AutoPlay no me ofrece la opción, solamente...
 
-	* **ManuS** (1)
+	* **ManuS** [85079] (1)
 
-		
 		me doy cuenta que el typescript me realizó la mitad de las correcciones que le ha realizado al profesor, por lo que se agrava el problema
 
-* **albertodsosa** (1)
+* **albertodsosa** (1) [80180](https://platzi.com/comentario/953918/) 
 Si quisiera crear una librería en npm que escrita en Typescript pero que pueda ser consunida desde JavaScript. ¿Hay alguna forma de hacer...
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [80180] (3)
 
-		
 		Sin generar archivos compilados no, a menos de que sea una librería custom de tu proyecto que compiles cuando vayas a hacer el empaquetado final, del resto no 😛
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [79825](https://platzi.com/comentario/947388/) 
 ¿Por qué el profesor usa plugins: Array<any> en lugar de plugins: any[]?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [79825] (1)
 
-		
 		Son dos formas de obtener el mismo resultado: <https://stackoverflow.com/questions/15860715/typescript-array-vs-any#answer-56879613>. 😉
 
-* **IngridSagrero** (1)
+* **IngridSagrero** (1) [69073](https://platzi.com/comentario/750916/) 
 La consola me marca el siguiente error en index.ts: Failed to load module script: The server responded with a non-JavaScript MIME typ...
 
-	* **carcastillo** (2)
+	* **carcastillo** [69073] (2)
 
-		
 		En que formato esta tu video? Le cambiaste algo al nombre o la extensión? Porque karma es un plugin para hacer unit test, el error esta mas por el lado del formato del video según parece en ese error.
 
-# Patrones de Diseño
+# Patrones de Diseño [4449]
 
-## 0300. Qué es un patrón de diseño
+## 0300. Qué es un patrón de diseño [22184](https://platzi.com/clases/1642-javascript-profesional/22184-que-es-un-patron-de-diseno/)
 
 ### Descripción:
 
@@ -20488,9 +18973,8 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [738722](https://platzi.com/comentario/738722/) 
 
-	
 	## Patrón de diseño
 	
 	[Ir a la navegación](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o#mw-head)[Ir a la búsqueda](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o#p-search)
@@ -20503,18 +18987,18 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	
 	Los patrones de diseño pretenden:
 	
-	  * Proporcionar catálogos de elementos reusables en el diseño de sistemas software.
-	  * Evitar la reiteración en la búsqueda de soluciones a problemas ya conocidos y solucionados anteriormente.
-	  * Formalizar un vocabulario común entre diseñadores.
-	  * Estandarizar el modo en que se realiza el diseño.
-	  * Facilitar el aprendizaje de las nuevas generaciones de diseñadores condensando conocimiento ya existente.
+	* Proporcionar catálogos de elementos reusables en el diseño de sistemas software.
+	* Evitar la reiteración en la búsqueda de soluciones a problemas ya conocidos y solucionados anteriormente.
+	* Formalizar un vocabulario común entre diseñadores.
+	* Estandarizar el modo en que se realiza el diseño.
+	* Facilitar el aprendizaje de las nuevas generaciones de diseñadores condensando conocimiento ya existente.
 	
 	
 	
 	Asimismo, no pretenden:
 	
-	  * Imponer ciertas alternativas de diseño frente a otras.
-	  * Eliminar la creatividad inherente al proceso de diseño.
+	* Imponer ciertas alternativas de diseño frente a otras.
+	* Eliminar la creatividad inherente al proceso de diseño.
 	
 	
 	
@@ -20537,139 +19021,115 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	
 	No obstante, no fue hasta principios de la década de 1990 cuando los patrones de diseño tuvieron un gran éxito en el mundo de la informática a partir de la publicación del libro _[Design Patterns](https://es.wikipedia.org/w/index.php?title=Design_Patterns&action=edit&redlink=1 "Design Patterns \(aún no redactado\)")_ escrito por el grupo [Gang of Four](https://es.wikipedia.org/w/index.php?title=Gang_of_Four_\(dise%C3%B1o\)&action=edit&redlink=1 "Gang of Four \(diseño\) \(aún no redactado\)") ( **GoF** ) compuesto por [Erich Gamma](https://es.wikipedia.org/wiki/Erich_Gamma "Erich Gamma"), [Richard Helm](https://es.wikipedia.org/w/index.php?title=Richard_Helm&action=edit&redlink=1 "Richard Helm \(aún no redactado\)"), [Ralph Johnson](https://es.wikipedia.org/w/index.php?title=Ralph_Johnson_\(inform%C3%A1tica\)&action=edit&redlink=1 "Ralph Johnson \(informática\) \(aún no redactado\)") y [John Vlissides](https://es.wikipedia.org/w/index.php?title=John_Vlissides&action=edit&redlink=1 "John Vlissides \(aún no redactado\)"), en el que se recogían 23 patrones de diseño comunes.
 
-	* **cesar-a-guerron** (2)
+	* **cesar-a-guerron** [738722] (2)
 
-		
 		Excelente aporte, voy a guardarlo en mis apuntes. Gracias.
 
-* **Cristobal Vega** (7)
+* **Cristobal Vega** (7) [753222](https://platzi.com/comentario/753222/) 
 
-	
 	Les comparto los enlaces de la clase. 🤓
 	
 	<https://every-layout.dev/layouts/stack/>
 	
 	<https://mediaqueri.es/>
 
-	* **Fernando Torres** (5)
+	* **Fernando Torres** [753222] (5)
 
-		
 		Gracias! Incluyo otro: <https://blog.codinghorror.com/>
 
-	* **Luis Fernández** (1)
+	* **Luis Fernández** [753222] (1)
 
-		
 		Gracias.
 
-* **Antonio Madrid** (5)
+* **Antonio Madrid** (5) [922895](https://platzi.com/comentario/922895/) 
 
-	
 	Los patrones de diseño son un tema apasionante y obligatorio para ser un profesional. Aun así, no me puede parecer mas acertado el dicho del martillo.
 	
 	Yo suelo decir, no arranques la moto para ir a comprar pan (a la esquina).
 
-* **Juan Daniel Gualtero Diaz** (4)
+* **Juan Daniel Gualtero Diaz** (4) [805059](https://platzi.com/comentario/805059/) 
 
-	
 	Excelente clase.
 
-* **JESUS ALMIRCAR CASTELLANOS** (4)
+* **JESUS ALMIRCAR CASTELLANOS** (4) [773248](https://platzi.com/comentario/773248/) 
 
-	
 	Blog Recomendado
 
-* **OmarGbet** (4)
+* **OmarGbet** (4) [770768](https://platzi.com/comentario/770768/) 
 
-	
 	Esa frase de “Cuando lo que tienes es un martillo todo te parece un clavo” es una joya. Recordemos que no todo en tecnología es software y código.
 
-* **Hugo Alberto Galeana Aguilar** (3)
+* **Hugo Alberto Galeana Aguilar** (3) [848156](https://platzi.com/comentario/848156/) 
 
-	
 	muy buena clase
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [784773](https://platzi.com/comentario/784773/) 
 
-	
 	"Cuando lo que tienes es un martillo, todo te parece un clavo. "
 	
 	La mejor frase del mundo.
 
-* **ocandoja** (2)
+* **ocandoja** (2) [1031444](https://platzi.com/comentario/1031444/) 
 
-	
 	en pocas palabras se hace uso de un patron de disenno como ultima opcion… primero se resuelve con tus propias habilidades y conocimientos.
 
-* **KevinMartello** (2)
+* **KevinMartello** (2) [775671](https://platzi.com/comentario/775671/) 
 
-	
 	Buenas Clases, Son las mejores
 
-* **José Daniel Hernández Estrada** (2)
+* **José Daniel Hernández Estrada** (2) [771288](https://platzi.com/comentario/771288/) 
 
-	
 	Es cierto, me ha pasado en el desarrollo con otras personas que siempre quieren agregar un patrón de diseño a cada proyecto aún si este no lo necesita.
 
-* **OmarGbet** (2)
+* **OmarGbet** (2) [770750](https://platzi.com/comentario/770750/) 
 
-	
 	Agradezco cuando se habla de algo más que desarrollo de software para explicar un concepto o cuando se cuenta un poco de historia acerca del tema. Ojalá fuera así más seguido.
 
-* **Gonzalo Muñoz** (2)
+* **Gonzalo Muñoz** (2) [751288](https://platzi.com/comentario/751288/) 
 
-	
 	Creo que este video debería estar antes. El video anterior a este hablan de implementación de Singleton, y el siguiente es este, que define qué es un Patrón de Diseño.
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [751288] (2)
 
-		
 		Muchas gracias por tu reporte, Gonzalo  
 		Ya lo hemos corregido 😄
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [705917](https://platzi.com/comentario/705917/) 
 
-	
 	Patterns Design es el peldaño mas alto de la forma correcta de hacer POO, en la mayorias de los casos
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1075829](https://platzi.com/comentario/1075829/) 
 
-	
 	patrones de diseños son muy buenas soluciones para problemas recurrentes.
 
-* **NicoMano** (1)
+* **NicoMano** (1) [1056672](https://platzi.com/comentario/1056672/) 
 
-	
 	Muy buen punto el que nombra al final
 
-* **Nacxit** (1)
+* **Nacxit** (1) [996573](https://platzi.com/comentario/996573/) 
 
-	
 	Los patrones de dise;o resuelven un problema donde la situacion puede ser recurrente
 
-* **José Manuel Puicón Rodas** (1)
+* **José Manuel Puicón Rodas** (1) [944009](https://platzi.com/comentario/944009/) 
 
-	
 	Every Layout, Media Queries
 
-* **Antonio Madrid** (1)
+* **Antonio Madrid** (1) [922892](https://platzi.com/comentario/922892/) 
 
-	
 	 **Patrón de diseño** :
 	
 	Solución genérica, para un problema  
 	dentro de un contexto limitado y recurrente.
 
-* **Christian Armando Consuelo Mayén** (1)
+* **Christian Armando Consuelo Mayén** (1) [885759](https://platzi.com/comentario/885759/) 
 
-	
 	De nuevo viendo esta parte del curso para repasar.
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [861047](https://platzi.com/comentario/861047/) 
 
-	
 	repasando este gran modulo
 
-## 0310. Categorías de patrones de diseño
+## 0310. Categorías de patrones de diseño [22185](https://platzi.com/clases/1642-javascript-profesional/22185-categorias-de-patrones-de-diseno/)
 
 ### Descripción:
 
@@ -20682,59 +19142,57 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 
 ### Comentarios:
 
-* **beaps** (17)
+* **beaps** (17) [706858](https://platzi.com/comentario/706858/) 
 
-	
 	 **Patrones de diseño**  
 	  
 	➡️ **Creacionales**  
 	Proveen diferentes mecanismos para crear objetos.
 	
-	  * Abstract Factory
-	  * Builder
-	  * Factory Method
-	  * Prototype
-	  * Singleton  
+	* Abstract Factory
+	* Builder
+	* Factory Method
+	* Prototype
+	* Singleton  
 	  
 	➡️ **Estructurales**  
 	Describen formas de componer objetos para formar nuevas estructuras flexibles y eficientes.
-	  * Adapter
-	  * Bridge
-	  * Composite
-	  * Decorator
-	  * Facade
-	  * Flyweight
-	  * Proxy  
+	* Adapter
+	* Bridge
+	* Composite
+	* Decorator
+	* Facade
+	* Flyweight
+	* Proxy  
 	  
 	➡️ **Comportamiento**  
 	Gestionan algoritmos y responsabilidades entre objetos.
-	  * Chain of Responsibility
-	  * Command
-	  * Interpreter
-	  * Iterator
-	  * Mediator
-	  * Memento
-	  * Observer
-	  * State
-	  * Strategy
-	  * Template Method
-	  * Visitor
+	* Chain of Responsibility
+	* Command
+	* Interpreter
+	* Iterator
+	* Mediator
+	* Memento
+	* Observer
+	* State
+	* Strategy
+	* Template Method
+	* Visitor
 	
 	
 
-* **Cesar Augusto Barco de Gouveia** (14)
+* **Cesar Augusto Barco de Gouveia** (14) [738726](https://platzi.com/comentario/738726/) 
 
-	
 	## Relación de principales patrones _GoF_ ( _Gang Of Four_ )[[editar](https://es.wikipedia.org/w/index.php?title=Patr%C3%B3n_de_dise%C3%B1o&action=edit&section=5 "Editar sección: Relación de principales patrones GoF \(Gang Of Four\)")]
 	
 	## Patrones creacionales[[editar](https://es.wikipedia.org/w/index.php?title=Patr%C3%B3n_de_dise%C3%B1o&action=edit&section=6 "Editar sección: Patrones creacionales")]
 	
 	Corresponden a patrones de diseño de software que solucionan problemas de creación de instancias. Nos ayudan a encapsular y abstraer dicha creación:
 	
-	  * [Object Pool](https://es.wikipedia.org/wiki/Object_Pool_\(patr%C3%B3n_de_dise%C3%B1o\) "Object Pool \(patrón de diseño\)") (no pertenece a los patrones especificados por GoF): se obtienen objetos nuevos a través de la clonación. Utilizado cuando el costo de crear una clase es mayor que el de clonarla. Especialmente con objetos muy complejos. Se especifica un tipo de objeto a crear y se utiliza una interfaz del prototipo para crear un nuevo objeto por clonación. El proceso de clonación se inicia instanciando un tipo de objeto de la clase que queremos clonar.
-	  * [Abstract Factory](https://es.wikipedia.org/wiki/Abstract_Factory_\(patr%C3%B3n_de_dise%C3%B1o\) "Abstract Factory \(patrón de diseño\)") (fábrica abstracta): permite trabajar con objetos de distintas familias de manera que las familias no se mezclen entre sí y haciendo transparente el tipo de familia concreta que se esté usando. El problema a solucionar por este patrón es el de crear diferentes familias de objetos, como por ejemplo, la creación de interfaces gráficas de distintos tipos (ventana, menú, botón, etc.).
-	  * [Builder](https://es.wikipedia.org/wiki/Builder_\(patr%C3%B3n_de_dise%C3%B1o\) "Builder \(patrón de diseño\)") (constructor virtual): abstrae el proceso de creación de un objeto complejo, centralizando dicho proceso en un único punto.
-	  * [Factory Method](https://es.wikipedia.org/wiki/Factory_Method_\(patr%C3%B3n_de_dise%C3%B1o\) "Factory Method \(patrón de diseño\)") (método de fabricación): centraliza en una clase constructora la creación de objetos de un subtipo de un tipo determinado, ocultando al usuario la casuística, es decir, la diversidad de casos particulares que se pueden prever, para elegir el subtipo que crear. Parte del principio de que las subclases determinan la clase a implementar. A continuación se muestra un ejemplo de este patrón:
+	* [Object Pool](https://es.wikipedia.org/wiki/Object_Pool_\(patr%C3%B3n_de_dise%C3%B1o\) "Object Pool \(patrón de diseño\)") (no pertenece a los patrones especificados por GoF): se obtienen objetos nuevos a través de la clonación. Utilizado cuando el costo de crear una clase es mayor que el de clonarla. Especialmente con objetos muy complejos. Se especifica un tipo de objeto a crear y se utiliza una interfaz del prototipo para crear un nuevo objeto por clonación. El proceso de clonación se inicia instanciando un tipo de objeto de la clase que queremos clonar.
+	* [Abstract Factory](https://es.wikipedia.org/wiki/Abstract_Factory_\(patr%C3%B3n_de_dise%C3%B1o\) "Abstract Factory \(patrón de diseño\)") (fábrica abstracta): permite trabajar con objetos de distintas familias de manera que las familias no se mezclen entre sí y haciendo transparente el tipo de familia concreta que se esté usando. El problema a solucionar por este patrón es el de crear diferentes familias de objetos, como por ejemplo, la creación de interfaces gráficas de distintos tipos (ventana, menú, botón, etc.).
+	* [Builder](https://es.wikipedia.org/wiki/Builder_\(patr%C3%B3n_de_dise%C3%B1o\) "Builder \(patrón de diseño\)") (constructor virtual): abstrae el proceso de creación de un objeto complejo, centralizando dicho proceso en un único punto.
+	* [Factory Method](https://es.wikipedia.org/wiki/Factory_Method_\(patr%C3%B3n_de_dise%C3%B1o\) "Factory Method \(patrón de diseño\)") (método de fabricación): centraliza en una clase constructora la creación de objetos de un subtipo de un tipo determinado, ocultando al usuario la casuística, es decir, la diversidad de casos particulares que se pueden prever, para elegir el subtipo que crear. Parte del principio de que las subclases determinan la clase a implementar. A continuación se muestra un ejemplo de este patrón:
 	
 	
 	``` 
@@ -20758,8 +19216,8 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	    
 	```
 	
-	  * [Prototype](https://es.wikipedia.org/wiki/Prototype_\(patr%C3%B3n_de_dise%C3%B1o\) "Prototype \(patrón de diseño\)") (prototipo): crea nuevos objetos clonándolos de una instancia ya existente.
-	  * [Singleton](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o_Singleton "Patrón de diseño Singleton") (instancia única): garantiza la existencia de una única instancia para una clase y la creación de un mecanismo de acceso global a dicha instancia. Restringe la instanciación de una clase o valor de un tipo a un solo objeto. A continuación se muestra un ejemplo de este patrón:
+	* [Prototype](https://es.wikipedia.org/wiki/Prototype_\(patr%C3%B3n_de_dise%C3%B1o\) "Prototype \(patrón de diseño\)") (prototipo): crea nuevos objetos clonándolos de una instancia ya existente.
+	* [Singleton](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o_Singleton "Patrón de diseño Singleton") (instancia única): garantiza la existencia de una única instancia para una clase y la creación de un mecanismo de acceso global a dicha instancia. Restringe la instanciación de una clase o valor de un tipo a un solo objeto. A continuación se muestra un ejemplo de este patrón:
 	
 	
 	``` 
@@ -20790,7 +19248,7 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	    
 	```
 	
-	  * [Model View Controller (MVC)](https://es.wikipedia.org/wiki/Modelo_Vista_Controlador "Modelo Vista Controlador") **♙** En español: **_**Modelo Vista Controlador.**_** Es un patrón de arquitectura de software que separa los datos y la lógica de negocio de una aplicación de la interfaz de usuario y el módulo encargado de gestionar los eventos y las comunicaciones. Este patrón plantea la separación del problema en tres capas: la capa **model** , que representa la realidad; la capa **controller** **,** que conoce los métodos y atributos del modelo, recibe y realiza lo que el usuario quiere hacer; y la capa **vista** , que muestra un aspecto del modelo y es utilizada por la capa anterior para interactuar con el usuario.
+	* [Model View Controller (MVC)](https://es.wikipedia.org/wiki/Modelo_Vista_Controlador "Modelo Vista Controlador") **♙** En español: **_**Modelo Vista Controlador.**_** Es un patrón de arquitectura de software que separa los datos y la lógica de negocio de una aplicación de la interfaz de usuario y el módulo encargado de gestionar los eventos y las comunicaciones. Este patrón plantea la separación del problema en tres capas: la capa **model** , que representa la realidad; la capa **controller** **,** que conoce los métodos y atributos del modelo, recibe y realiza lo que el usuario quiere hacer; y la capa **vista** , que muestra un aspecto del modelo y es utilizada por la capa anterior para interactuar con el usuario.
 	
 	
 	
@@ -20798,14 +19256,14 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	
 	Son los patrones de diseño software que solucionan problemas de composición (agregación) de clases y objetos:
 	
-	  * [Adapter o Wrapper](https://es.wikipedia.org/wiki/Adapter_\(patr%C3%B3n_de_dise%C3%B1o\) "Adapter \(patrón de diseño\)") (Adaptador o Envoltorio): Adapta una interfaz para que pueda ser utilizada por una clase que de otro modo no podría utilizarla.
-	  * [Bridge](https://es.wikipedia.org/wiki/Bridge_\(patr%C3%B3n_de_dise%C3%B1o\) "Bridge \(patrón de diseño\)") (Puente): Desacopla una abstracción de su implementación.
-	  * [Composite](https://es.wikipedia.org/wiki/Composite_\(patr%C3%B3n_de_dise%C3%B1o\) "Composite \(patrón de diseño\)") (Objeto compuesto): Permite tratar objetos compuestos como si de uno simple se tratase.
-	  * [Decorator](https://es.wikipedia.org/wiki/Decorator_\(patr%C3%B3n_de_dise%C3%B1o\) "Decorator \(patrón de diseño\)") (Decorador): Añade funcionalidad a una clase dinámicamente.
-	  * [Facade](https://es.wikipedia.org/wiki/Facade_\(patr%C3%B3n_de_dise%C3%B1o\) "Facade \(patrón de diseño\)") (Fachada): Provee de una interfaz unificada simple para acceder a una interfaz o grupo de interfaces de un subsistema.
-	  * [Flyweight](https://es.wikipedia.org/wiki/Flyweight_\(patr%C3%B3n_de_dise%C3%B1o\) "Flyweight \(patrón de diseño\)") (Peso ligero): Reduce la redundancia cuando gran cantidad de objetos poseen idéntica información.
-	  * [Proxy](https://es.wikipedia.org/wiki/Proxy_\(patr%C3%B3n_de_dise%C3%B1o\) "Proxy \(patrón de diseño\)"): Proporciona un intermediario de un objeto para controlar su acceso.
-	  * [Module](https://es.wikipedia.org/wiki/Module_\(patr%C3%B3n_de_dise%C3%B1o\) "Module \(patrón de diseño\)"): Agrupa varios elementos relacionados, como clases, singletons, y métodos, utilizados globalmente, en una entidad única.
+	* [Adapter o Wrapper](https://es.wikipedia.org/wiki/Adapter_\(patr%C3%B3n_de_dise%C3%B1o\) "Adapter \(patrón de diseño\)") (Adaptador o Envoltorio): Adapta una interfaz para que pueda ser utilizada por una clase que de otro modo no podría utilizarla.
+	* [Bridge](https://es.wikipedia.org/wiki/Bridge_\(patr%C3%B3n_de_dise%C3%B1o\) "Bridge \(patrón de diseño\)") (Puente): Desacopla una abstracción de su implementación.
+	* [Composite](https://es.wikipedia.org/wiki/Composite_\(patr%C3%B3n_de_dise%C3%B1o\) "Composite \(patrón de diseño\)") (Objeto compuesto): Permite tratar objetos compuestos como si de uno simple se tratase.
+	* [Decorator](https://es.wikipedia.org/wiki/Decorator_\(patr%C3%B3n_de_dise%C3%B1o\) "Decorator \(patrón de diseño\)") (Decorador): Añade funcionalidad a una clase dinámicamente.
+	* [Facade](https://es.wikipedia.org/wiki/Facade_\(patr%C3%B3n_de_dise%C3%B1o\) "Facade \(patrón de diseño\)") (Fachada): Provee de una interfaz unificada simple para acceder a una interfaz o grupo de interfaces de un subsistema.
+	* [Flyweight](https://es.wikipedia.org/wiki/Flyweight_\(patr%C3%B3n_de_dise%C3%B1o\) "Flyweight \(patrón de diseño\)") (Peso ligero): Reduce la redundancia cuando gran cantidad de objetos poseen idéntica información.
+	* [Proxy](https://es.wikipedia.org/wiki/Proxy_\(patr%C3%B3n_de_dise%C3%B1o\) "Proxy \(patrón de diseño\)"): Proporciona un intermediario de un objeto para controlar su acceso.
+	* [Module](https://es.wikipedia.org/wiki/Module_\(patr%C3%B3n_de_dise%C3%B1o\) "Module \(patrón de diseño\)"): Agrupa varios elementos relacionados, como clases, singletons, y métodos, utilizados globalmente, en una entidad única.
 	
 	
 	
@@ -20813,17 +19271,17 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	
 	Se definen como patrones de diseño software que ofrecen soluciones respecto a la interacción y responsabilidades entre clases y objetos, así como los algoritmos que encapsulan:
 	
-	  * [Chain of Responsibility](https://es.wikipedia.org/wiki/Chain_of_Responsibility_\(patr%C3%B3n_de_dise%C3%B1o\) "Chain of Responsibility \(patrón de diseño\)") (Cadena de responsabilidad): Permite establecer la línea que deben llevar los mensajes para que los objetos realicen la tarea indicada.
-	  * [Command](https://es.wikipedia.org/wiki/Command_\(patr%C3%B3n_de_dise%C3%B1o\) "Command \(patrón de diseño\)") (Orden): Encapsula una operación en un objeto, permitiendo ejecutar dicha operación sin necesidad de conocer el contenido de la misma.
-	  * [Interpreter](https://es.wikipedia.org/wiki/Interpreter_\(patr%C3%B3n_de_dise%C3%B1o\) "Interpreter \(patrón de diseño\)") (Intérprete): Dado un lenguaje, define una gramática para dicho lenguaje, así como las herramientas necesarias para interpretarlo.
-	  * [Iterator](https://es.wikipedia.org/wiki/Iterator_\(patr%C3%B3n_de_dise%C3%B1o\) "Iterator \(patrón de diseño\)") (Iterador): Permite realizar recorridos sobre objetos compuestos independientemente de la implementación de estos.
-	  * [Mediator](https://es.wikipedia.org/wiki/Mediator_\(patr%C3%B3n_de_dise%C3%B1o\) "Mediator \(patrón de diseño\)") (Mediador): Define un objeto que coordine la comunicación entre objetos de distintas clases, pero que funcionan como un conjunto.
-	  * [Memento](https://es.wikipedia.org/wiki/Memento_\(patr%C3%B3n_de_dise%C3%B1o\) "Memento \(patrón de diseño\)") (Recuerdo): Permite volver a estados anteriores del sistema.
-	  * [Observer](https://es.wikipedia.org/wiki/Observer_\(patr%C3%B3n_de_dise%C3%B1o\) "Observer \(patrón de diseño\)") (Observador): Define una dependencia de uno-a-muchos entre objetos, de forma que cuando un objeto cambie de estado se notifique y actualicen automáticamente todos los objetos que dependen de él.
-	  * [State](https://es.wikipedia.org/wiki/State_\(patr%C3%B3n_de_dise%C3%B1o\) "State \(patrón de diseño\)") (Estado): Permite que un objeto modifique su comportamiento cada vez que cambie su estado interno.
-	  * [Strategy](https://es.wikipedia.org/wiki/Strategy_\(patr%C3%B3n_de_dise%C3%B1o\) "Strategy \(patrón de diseño\)") (Estrategia): Permite disponer de varios métodos para resolver un problema y elegir cuál utilizar en tiempo de ejecución.
-	  * [Template Method](https://es.wikipedia.org/wiki/Template_Method_\(patr%C3%B3n_de_dise%C3%B1o\) "Template Method \(patrón de diseño\)") (Método plantilla): Define en una operación el esqueleto de un algoritmo, delegando en las subclases algunos de sus pasos, esto permite que las subclases redefinan ciertos pasos de un algoritmo sin cambiar su estructura.
-	  * [Visitor](https://es.wikipedia.org/wiki/Visitor_\(patr%C3%B3n_de_dise%C3%B1o\) "Visitor \(patrón de diseño\)") (Visitante): Permite definir nuevas operaciones sobre una jerarquía de clases sin modificar las clases sobre las que opera.
+	* [Chain of Responsibility](https://es.wikipedia.org/wiki/Chain_of_Responsibility_\(patr%C3%B3n_de_dise%C3%B1o\) "Chain of Responsibility \(patrón de diseño\)") (Cadena de responsabilidad): Permite establecer la línea que deben llevar los mensajes para que los objetos realicen la tarea indicada.
+	* [Command](https://es.wikipedia.org/wiki/Command_\(patr%C3%B3n_de_dise%C3%B1o\) "Command \(patrón de diseño\)") (Orden): Encapsula una operación en un objeto, permitiendo ejecutar dicha operación sin necesidad de conocer el contenido de la misma.
+	* [Interpreter](https://es.wikipedia.org/wiki/Interpreter_\(patr%C3%B3n_de_dise%C3%B1o\) "Interpreter \(patrón de diseño\)") (Intérprete): Dado un lenguaje, define una gramática para dicho lenguaje, así como las herramientas necesarias para interpretarlo.
+	* [Iterator](https://es.wikipedia.org/wiki/Iterator_\(patr%C3%B3n_de_dise%C3%B1o\) "Iterator \(patrón de diseño\)") (Iterador): Permite realizar recorridos sobre objetos compuestos independientemente de la implementación de estos.
+	* [Mediator](https://es.wikipedia.org/wiki/Mediator_\(patr%C3%B3n_de_dise%C3%B1o\) "Mediator \(patrón de diseño\)") (Mediador): Define un objeto que coordine la comunicación entre objetos de distintas clases, pero que funcionan como un conjunto.
+	* [Memento](https://es.wikipedia.org/wiki/Memento_\(patr%C3%B3n_de_dise%C3%B1o\) "Memento \(patrón de diseño\)") (Recuerdo): Permite volver a estados anteriores del sistema.
+	* [Observer](https://es.wikipedia.org/wiki/Observer_\(patr%C3%B3n_de_dise%C3%B1o\) "Observer \(patrón de diseño\)") (Observador): Define una dependencia de uno-a-muchos entre objetos, de forma que cuando un objeto cambie de estado se notifique y actualicen automáticamente todos los objetos que dependen de él.
+	* [State](https://es.wikipedia.org/wiki/State_\(patr%C3%B3n_de_dise%C3%B1o\) "State \(patrón de diseño\)") (Estado): Permite que un objeto modifique su comportamiento cada vez que cambie su estado interno.
+	* [Strategy](https://es.wikipedia.org/wiki/Strategy_\(patr%C3%B3n_de_dise%C3%B1o\) "Strategy \(patrón de diseño\)") (Estrategia): Permite disponer de varios métodos para resolver un problema y elegir cuál utilizar en tiempo de ejecución.
+	* [Template Method](https://es.wikipedia.org/wiki/Template_Method_\(patr%C3%B3n_de_dise%C3%B1o\) "Template Method \(patrón de diseño\)") (Método plantilla): Define en una operación el esqueleto de un algoritmo, delegando en las subclases algunos de sus pasos, esto permite que las subclases redefinan ciertos pasos de un algoritmo sin cambiar su estructura.
+	* [Visitor](https://es.wikipedia.org/wiki/Visitor_\(patr%C3%B3n_de_dise%C3%B1o\) "Visitor \(patrón de diseño\)") (Visitante): Permite definir nuevas operaciones sobre una jerarquía de clases sin modificar las clases sobre las que opera.
 	
 	
 	
@@ -20831,72 +19289,60 @@ Son soluciones generales ya probadas dentro de un contexto que las limita a prob
 	
 	El primer intento por aplicar este concepto en el diseño de las interfaces de usuario se dio por Ward Cummingham y Kent Beck quienes adaptaron la propuesta de C. Alexander y crearon cinco patrones de interfaz: _Window per task_ , _Few panes_ , _Standard panes_ , _Nouns and verbs_ , y _Short Menu_. En años más recientes investigadores como Martin Van Welie, Jennifer Tidwell han desarrollado colecciones de patrones de interacción para la [World Wide Web](https://es.wikipedia.org/wiki/World_Wide_Web "World Wide Web"). En dichas colecciones captan la experiencia de programadores y diseñadores expertos en el desarrollo de interfaces usables y condensan esta experiencia en una serie de guías o recomendaciones, que puedan ser usadas por los desarrolladores novatos con el propósito de que en poco tiempo adquieran la habilidad de diseñar interfaces que incidan en la satisfacción de los usuarios. Los patrones de interacción buscan la reutilización de interfaces eficaces y un manejo óptimo de los recursos de las [páginas web](https://es.wikipedia.org/wiki/P%C3%A1gina_web "Página web"), haciendo más eficaz el consumo de tiempo en el diseño del [sitio web](https://es.wikipedia.org/wiki/Sitio_web "Sitio web") y permitiendo a los programadores novatos adquirir más experiencia.
 
-	* **Mariangelica Useche Saavedra** (1)
+	* **Mariangelica Useche Saavedra** [738726] (1)
 
-		
 		Esto me recuerda a algunos trabajos de liceo donde ni quitaban los enlaces de Wikipedia 😅. Gracias por el aporte igualmente.
 
-* **Carlos Eduardo Jaramillo Franco** (5)
+* **Carlos Eduardo Jaramillo Franco** (5) [794289](https://platzi.com/comentario/794289/) 
 
-	
 	Hay un bug en el minuto 3:51, estan explicando los patrones de comportamiento y posteriormente hacen un ejemplo del * composite * el cual es estructural.
 
-* **ManuS** (2)
+* **ManuS** (2) [1067964](https://platzi.com/comentario/1067964/) 
 
-	
 	cuál es el sentido de utilizar jQuery en el ejemplo si el curso es de JS? Obviamente la mayoría de los que hemos realizado este curso todavía no manejamos jQuery.
 
-	* **Mariangelica Useche Saavedra** (2)
+	* **Mariangelica Useche Saavedra** [1067964] (2)
 
-		
 		En este caso jQuery fue un caso de estudio para explicar el patrón de diseño. No te está enseñando a usarlo, solo está ejemplificando 😉
 
-	* **ManuS** (1)
+	* **ManuS** [1067964] (1)
 
-		
 		está clarísimo de que no está enseñando jQuery, lo que critíco es que se tenga que hacer uso de ello para explicar patrones de diseño, porque le agrega un nivel de dificultad en vez de reducirlo. Y ya los patrones de diseño son un poco complicados de entender, por lo que como crítica constructiva creo que servirían ejemplos más sencillos. En la universidad leímos el libro, y recuerdo haber comprendido mejor con los ejemplos del mismo, y uno espera de platzi ejemplos mejores incluso.
 
-	* **HENRY DSANTIAGO** (2)
+	* **HENRY DSANTIAGO** [1067964] (2)
 
-		
 		Opino igual, ¿Por qué usar ejemplos con JQuery? Si esto es JS, lo ideal es que nos muestren ejemplos de uso en JS o en TS.
 
-* **BrysonFlorez** (2)
+* **BrysonFlorez** (2) [902884](https://platzi.com/comentario/902884/) 
 
-	
 	Composite es de la categoría de los **Patrones Estructurales** , en la explicación de los **Patrones de Comportamiento** se está explicando el anteriormente mencionado
 
-* **Nacxit** (1)
+* **Nacxit** (1) [996927](https://platzi.com/comentario/996927/) 
 
-	
 	Existen 3 tipos de patrones de dise;o son Patron de dise;o creacionales, Patrones de dise;o estrcturales y patrones de dise;o comportamiento,
 
-* **David Valecillo** (1)
+* **David Valecillo** (1) [971188](https://platzi.com/comentario/971188/) 
 
-	
 	 **Creacionales** : Abstract Factory, builder, Factory Method, Prototype, Singleton.  
 	**Estructurales** : adapter, Bridge, Composite, Decorator,Facade, Proxi, Flyweight  
 	**Comportamiento** : Cahin of responsibility, Command, Interpreter, Iterator, Strategy, Mediator, Memento, Observer, State, Template Method, Visitor
 
-* **uncristianr** (1)
+* **uncristianr** (1) [951814](https://platzi.com/comentario/951814/) 
 
-	
 	Categorías de patrones de diseño
 
-* **Juan Daniel Gualtero Diaz** (1)
+* **Juan Daniel Gualtero Diaz** (1) [805068](https://platzi.com/comentario/805068/) 
 
-	
 	muy bien
 
-* **Mariangelica Useche Saavedra** (1)
+* **Mariangelica Useche Saavedra** (1) [85349](https://platzi.com/comentario/1071978/) 
 En la diapositiva de los Patrones Estructurales se presenta el composite como uno de ellos. Pero luego se utiliza como caso ...
 
-	* **Mariangelica Useche Saavedra** (1)
+	* **Mariangelica Useche Saavedra** [85349] (1)
 
-		
 		Update: Leyendo un poco más, (por ejemplo acá en [Wikipedia](https://es.wikipedia.org/wiki/Composite_\(patr%C3%B3n_de_dise%C3%B1o\))), me parece que sí es un patrón estructural.
 
-## 0320. Patrón Singleton y Casos de Uso
+## 0320. Patrón Singleton y Casos de Uso [22186](https://platzi.com/clases/1642-javascript-profesional/22186-patron-singleton-y-casos-de-uso/)
 
 ### Descripción:
 
@@ -20905,29 +19351,24 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 
 ### Comentarios:
 
-* **Mariana Cortés** (13)
+* **Mariana Cortés** (13) [752415](https://platzi.com/comentario/752415/) 
 
-	
 	“Single” en inglés es “sencillo” (o soltero ¬w¬) así que se puede recordar si se asocia con su significado “Singleton” vendría a ser un objeto o instancia “solterona”.
 
-	* **Cristobal Vega** (1)
+	* **Cristobal Vega** [752415] (1)
 
-		
 		Interesante analogía. 🤔
 
-	* **Mario Eduardo Contreras Serrano** (1)
+	* **Mario Eduardo Contreras Serrano** [752415] (1)
 
-		
 		Jajajaja
 
-	* **Antonio Madrid** (1)
+	* **Antonio Madrid** [752415] (1)
 
-		
 		Aunque sea un juego de palabras con single, soltero, creo que la traducción correcta es “ **el único** ”.
 
-* **Cesar Augusto Barco de Gouveia** (9)
+* **Cesar Augusto Barco de Gouveia** (9) [738728](https://platzi.com/comentario/738728/) 
 
-	
 	## Singleton
 	
 	![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Singleton_UML_class_diagram.svg/250px-Singleton_UML_class_diagram.svg.png)
@@ -20948,10 +19389,10 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 	
 	El patrón _singleton_ provee una única instancia global gracias a que:
 	
-	  * La propia clase es responsable de crear la única instancia.
-	  * Permite el acceso global a dicha instancia mediante un método de clase.
-	  * Declara el constructor de clase como privado para que no sea instanciable directamente.
-	  * Al estar internamente autoreferenciada, en lenguajes como Java, el recolector de basura no actúa.
+	* La propia clase es responsable de crear la única instancia.
+	* Permite el acceso global a dicha instancia mediante un método de clase.
+	* Declara el constructor de clase como privado para que no sea instanciable directamente.
+	* Al estar internamente autoreferenciada, en lenguajes como Java, el recolector de basura no actúa.
 	
 	
 	
@@ -20969,62 +19410,53 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 	    
 	```
 
-* **elianalopezv** (7)
+* **elianalopezv** (7) [786940](https://platzi.com/comentario/786940/) 
 
-	
 	Se me hizo fácil entender este patrón en videojuegos, ya que se utiliza frecuentemente en clases que almacenan información o funciones globales. Por ejemplo, una clase LevelManager que podamos llamar cada vez que queremos subir de nivel o saber en qué nivel estamos.  
 	Al ser un singleton aseguramos que otras clases y objetos tengan acceso a la misma información en todo momento, pues no es posible que haya más de un LevelManager por ahí 😃
 
-* **Jhonatan David Ibarra Lavado** (2)
+* **Jhonatan David Ibarra Lavado** (2) [868621](https://platzi.com/comentario/868621/) 
 
-	
 	repasando el curso 😄
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [868621] (1)
 
-		
 		x2
 
-	* **Rubén Jiménez Torres** (0)
+	* **Rubén Jiménez Torres** [868621] (0)
 
-		
 		x3
 
-	* **David Lara Chirinos** (1)
+	* **David Lara Chirinos** [868621] (1)
 
-		
 		x4
 
-* **Mariana Cortés** (2)
+* **Mariana Cortés** (2) [69167](https://platzi.com/comentario/752409/) 
 ¿Se podría decir que Singleton serviría como un método de agregarle seguridad al código y evitar que se creen otras instancias no autoriz...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [69167] (2)
 
-		
 		Hmmm… No creo que seguridad sea la palabra que mejor lo describe. Con seguridad podemos referirnos a problemas de permisos o autenticación. Pero el Singleton nos da es la “seguridad” de que solo trabajaremos con una instancia de nuestra clase. Y en muchos casos esto es sumamente necesario.
 
-* **Mariangelica Useche Saavedra** (1)
+* **Mariangelica Useche Saavedra** (1) [1072017](https://platzi.com/comentario/1072017/) 
 
-	
 	PRO TIP: Cuando hacemos un `export`, el mismo se cachea, por lo que cuando lo importamos en otros archivos, siempre devuelve lo mismo.
 	
 	Mongoose hace uso de esto como alternativa del Patrón de Diseño Singleton.
 
-* **Nacxit** (1)
+* **Nacxit** (1) [997032](https://platzi.com/comentario/997032/) 
 
-	
 	El patron de dise;o Singleton perteneciente al Creacional permite crear una sola intancia de una sola clase o objeto, determinado esa intancia de forma General en algunos casos podria ser una mala practica.
 
-## 0330. Implementación del patrón Singleton
+## 0330. Implementación del patrón Singleton [22187](https://platzi.com/clases/1642-javascript-profesional/22187-implementacion-del-patron-singleton/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (7)
+* **Cesar Augusto Barco de Gouveia** (7) [738731](https://platzi.com/comentario/738731/) 
 
-	
 	## Singlenton con TS
 	
 	Uno de los patrones de diseño de creación más populares es el patrón Singleton que restringe la creación de instancias de una clase a un objeto.
@@ -21039,9 +19471,9 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 	
 	**TypeScript permite implementar el patrón Singleton gracias a las siguientes características:**
 	
-	  * **soporte para modificadores de acceso (privado, protegido, público),**
-	  * **soporte para métodos estáticos,**
-	  * **siendo un lenguaje estáticamente escrito.**
+	* **soporte para modificadores de acceso (privado, protegido, público),**
+	* **soporte para métodos estáticos,**
+	* **siendo un lenguaje estáticamente escrito.**
 	
 	
 	
@@ -21085,9 +19517,9 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 	
 	**Los puntos clave son:**
 	
-	  * **_constructor_ con un modificador de acceso privado, para que no sea accesible fuera del cuerpo de la clase,**
-	  * **_instancia_ estática archivada que se supone que hace referencia a la instancia única de la clase,**
-	  * **Método _getInstance_ estático que se encarga de devolver la instancia de la clase. Además, sigue una estrategia de evaluación perezosa, por lo tanto, debe crear la instancia cuando se llama por primera vez.**
+	* **_constructor_ con un modificador de acceso privado, para que no sea accesible fuera del cuerpo de la clase,**
+	* **_instancia_ estática archivada que se supone que hace referencia a la instancia única de la clase,**
+	* **Método _getInstance_ estático que se encarga de devolver la instancia de la clase. Además, sigue una estrategia de evaluación perezosa, por lo tanto, debe crear la instancia cuando se llama por primera vez.**
 	
 	
 	
@@ -21122,33 +19554,29 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 	
 	Espero que les haya gustado la publicación y hayan aprendido algo nuevo. El patrón Singleton es uno de los patrones más fáciles de entender, por lo tanto, es un buen punto de partida para familiarizarse con los patrones. Recuerdo que cuando me uní al mundo de JavaScript, estaba un poco molesto porque, debido a la falta de tipeo, el conocimiento sobre los patrones de diseño no sería tan útil como en Java o C ++. Afortunadamente, TypeScript al rescate!
 
-* **Marco Antonio Macedo Preciado** (5)
-![Screenshot from 2019-12-18 13-04-04.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-12-18%2013-04-04-f851663f-908b-44c8-bd5c-898686b45a00.jpg)
-
-* **PaoloTorregrosa** (4)
-
+* **Marco Antonio Macedo Preciado** (5) [871076](https://platzi.com/comentario/871076/) 
 	
+	![Screenshot from 2019-12-18 13-04-04.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-12-18%2013-04-04-f851663f-908b-44c8-bd5c-898686b45a00.jpg)
+
+* **PaoloTorregrosa** (4) [832067](https://platzi.com/comentario/832067/) 
+
 	Una pregunta, ¿static tiene la misma intención que en otros lenguajes? como en Java se usa static para definir un método de un objeto que no necesita instancia para ejecutarse.
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [832067] (4)
 
-		
 		Hola! Así es! de hecho esto es lo que dice la [documentación de MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes/static):  
 		“Los métodos estáticos son llamados sin instanciar su clase. Son habitualmente utilizados para crear funciones para una aplicación.”
 
-* **Kingsman7** (4)
+* **Kingsman7** (4) [750278](https://platzi.com/comentario/750278/) 
 
-	
 	primera clase que ni fu , ni fa. Quede igual
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [750278] (1)
 
-		
 		Sabes un poco de programación orientada a objetos? En que te puedo auxiliar? Apenas aprendo JS pero hace unos meses empece a leer un libro de python sobre OOP, y sí entendí esta clase.
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [787007](https://platzi.com/comentario/787007/) 
 
-	
 	En esta clase usamos el keyword **static** para definir Metodos/Propiedasdes de la clase y no de instancia.
 	
 	Ejemplo:
@@ -21165,62 +19593,53 @@ Es un patrón que te asegura que una clase solo tiene una instancia. Esta única
 	    
 	```
 
-* **oteka21** (3)
+* **oteka21** (3) [751049](https://platzi.com/comentario/751049/) 
 
-	
 	Exactamente el ejemplo del modal, si usara el patron singleton para crear el modal de una aplicación en react podría evitar que se duplique?
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [751049] (4)
 
-		
 		¡Exacto!
 		
 		👉 [Managing React modals with singleton component design](https://hackernoon.com/managing-react-modals-with-singleton-component-design-5efdd317295b)
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [957571](https://platzi.com/comentario/957571/) 
 
-	
 	¿hay forma de hacer un singleton sin typescript?
 
-	* **Northerchild** (2)
+	* **Northerchild** [957571] (2)
 
-		
 		Claro que sí mira este articulo, te va ayudar un monton <https://medium.com/@jesusmurfontanals/singleton-pattern-con-javascript-3eb1c03f184e>
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [868766](https://platzi.com/comentario/868766/) 
 
-	
 	excelente clase, repasnadola*.*
 
-* **Juan Daniel Gualtero Diaz** (1)
+* **Juan Daniel Gualtero Diaz** (1) [805081](https://platzi.com/comentario/805081/) 
 
-	
 	Muy bien expicado gracias
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [723612](https://platzi.com/comentario/723612/) 
 
-	
 	Singleton el mas usado y mas criticado
 
-* **Mariana Cortés** (1)
+* **Mariana Cortés** (1) [69164](https://platzi.com/comentario/752287/) 
 ¿Qué es un “modal”?
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [69164] (3)
 
-		
 		Se ve algo así:
 		
 		![modal](https://i.stack.imgur.com/cXa8D.png) ![modal](https://i.stack.imgur.com/KIQmc.png)
 
-* **platzerito02112019 platzerito02112019** (1)
+* **platzerito02112019 platzerito02112019** (1) [68673](https://platzi.com/comentario/744106/) 
 Donde esta carpeta de ejercicios?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [68673] (1)
 
-		
 		Mira: <https://github.com/Sparragus/javascript-profesional/tree/master/website/ejercicios>.
 
-## 0340. ¿Cómo funciona el Patrón Observer
+## 0340. ¿Cómo funciona el Patrón Observer [22550](https://platzi.com/clases/1642-javascript-profesional/22550-como-funciona-el-patron-observer/)
 
 ### Descripción:
 
@@ -21231,17 +19650,16 @@ El patrón observer se compone de un sujeto que ofrece mecanismos de suscripció
 
 Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 
-  * Newsletter
-  * Sockets
-  * Listeners en páginas web
+* Newsletter
+* Sockets
+* Listeners en páginas web
 
 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (12)
+* **Cesar Augusto Barco de Gouveia** (12) [738733](https://platzi.com/comentario/738733/) 
 
-	
 	## Observer (patrón de diseño)
 	
 	**Observador** (en [inglés: Observer](https://en.wikipedia.org/wiki/Observer_pattern "en:Observer pattern")) es un [patrón de diseño](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o "Patrón de diseño") de _[software](https://es.wikipedia.org/wiki/Software "Software")_ que define una dependencia del tipo _uno a muchos_ entre objetos, de manera que cuando uno de los objetos cambia su estado, notifica este cambio a todos los dependientes. Se trata de un _patrón de comportamiento_ (existen de tres tipos: creación, estructurales y de comportamiento), por lo que está relacionado con algoritmos de funcionamiento y asignación de _responsabilidades_ a [clases](https://es.wikipedia.org/wiki/Clase_\(inform%C3%A1tica\) "Clase \(informática\)") y [objetos](https://es.wikipedia.org/wiki/Objeto_\(programaci%C3%B3n\) "Objeto \(programación\)").
@@ -21281,167 +19699,142 @@ Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 	
 	A continuación se detallan a los participantes de forma desglosada:
 	
-	  * **Sujeto ( _subject_ ):**
+	* **Sujeto ( _subject_ ):**
 	
 	
 	
 	El sujeto proporciona una interfaz para agregar ( _attach_ ) y eliminar ( _detach_ ) observadores. El Sujeto conoce a todos sus observadores.
 	
-	  * **Observador ( _observer_ ):**
+	* **Observador ( _observer_ ):**
 	
 	
 	
 	Define el método que usa el sujeto para notificar cambios en su estado ( _update_ / _notify_ ).
 	
-	  * **Sujeto concreto ( _concrete subject_ ):**
+	* **Sujeto concreto ( _concrete subject_ ):**
 	
 	
 	
 	Mantiene el estado de interés para los observadores concretos y los notifica cuando cambia su estado. No tienen porque ser elementos de la misma jerarquía.
 	
-	  * **Observador concreto ( _concrete observer_ ):**
+	* **Observador concreto ( _concrete observer_ ):**
 	
 	
 	
 	Mantiene una referencia al sujeto concreto e implementa la interfaz de actualización, es decir, guardan la referencia del objeto que observan, así en caso de ser notificados de algún cambio, pueden preguntar sobre este cambio.
 
-	* **Jose Arturo Enriquez Hurtado** (1)
+	* **Jose Arturo Enriquez Hurtado** [738733] (1)
 
-		
 		Gracias!
 
-* **Javier Fuentes Mora** (10)
+* **Javier Fuentes Mora** (10) [752082](https://platzi.com/comentario/752082/) 
 
-	
 	no deberian de poner lo videos en Youtube , por ejemplo donde trabajo esta bloqueado Youtube pero no platzi y ahora no puedo ver este video
 
-	* **IngridSagrero** (1)
+	* **IngridSagrero** [752082] (1)
 
-		
 		Intenta verlo en una pestaña de incóngnito, a mi me ha funcionado, cuándo no, los veo con mis datos móviles 😦
 
-	* **David Aroesti (Platzi)** (5)
+	* **David Aroesti (Platzi)** [752082] (5)
 
-		
 		Otra forma de darle la vuelta a esos bloqueos es con una vpn. Nord es una vpn pagada y Outline es una vpn gratuita, pero tú tienes que manejar el servidor (nada difícil con Digital Ocean o Google Cloud)
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [752082] (1)
 
-		
 		@jdaroesti cuando intento usar las vpns se bloqea la red y no me da accesos a nada he intentado con proxies y tampoco , es algo del trabajo , pero ni modo lo que hago es esperar a casa para verlos
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [752082] (1)
 
-		
 		yo uso nordVPN o surfshark, y me podía saltar el bloqueo en una red corporativa aunque prefiero estudiar en casa, en silencio
 
-	* **angelo meneses** (1)
+	* **angelo meneses** [752082] (1)
 
-		
 		utiliza un proxy amigos! así creo también te puedes saltar la seguridad
 
-	* **MizaelpVielma** (1)
+	* **MizaelpVielma** [752082] (1)
 
-		
 		Prueba con el navegador brave.
 
-	* **MizaelpVielma** (1)
+	* **MizaelpVielma** [752082] (1)
 
-		
 		Y que terrible tener bloqueos en el trabajo. No deberíamos aceptar esas restricciones. Youtube es un buen lugar si lo aprovechas correctamente.
 
-	* **rusbel bermúdez rivera** (2)
+	* **rusbel bermúdez rivera** [752082] (2)
 
-		
 		Creo las restricciones muchas veces son restricciones suaves, hechas para personas con conocimientos de usuario básico en muchos lugares,para evitar que abran sitios no apropiados, al menos así en la empresa que trabajaba
 
-	* **Christian Armando Consuelo Mayén** (2)
+	* **Christian Armando Consuelo Mayén** [752082] (2)
 
-		
 		Prueba cambiando de trabajo. ¡Broma! Te recomiendo el uso de un VPN.
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [752082] (1)
 
-		
 		De hecho si ya me cambie hace poco jaja
 
-	* **miguelher007** (1)
+	* **miguelher007** [752082] (1)
 
-		
 		igual. toco verlo en la casa.
 
-* **Diego Andres Cardenas Caro** (9)
+* **Diego Andres Cardenas Caro** (9) [703589](https://platzi.com/comentario/703589/) 
 
-	
 	Muy gracioso el efecto que crea el fondo con el pelo de Richard, menos mal no salio con la camiseta negra… jajajaja…
 
-	* **jorgerivera01** (0)
+	* **jorgerivera01** [703589] (0)
 
-		
 		jajajaja
 
-	* **Steven Benjamín Diaz Flores** (1)
+	* **Steven Benjamín Diaz Flores** [703589] (1)
 
-		
 		JAJAJA
 
-* **Ricardo Martínez Murillo** (4)
+* **Ricardo Martínez Murillo** (4) [966281](https://platzi.com/comentario/966281/) 
 
-	
 	El profe pelon 😄
 
-* **miguelangelsoler** (1)
+* **miguelangelsoler** (1) [982440](https://platzi.com/comentario/982440/) 
 
-	
 	 ** _En definitiva, normalmente, se usará el patrón observador cuando un elemento quiere estar pendiente de otro, sin tener que estar comprobando de forma continua si ha cambiado o no._**
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [723617](https://platzi.com/comentario/723617/) 
 
-	
 	Para registrar lo que hacen los usuarios este patron es la solucion
 
-## 0350. Implementación del patrón Observer
+## 0350. Implementación del patrón Observer [22188](https://platzi.com/clases/1642-javascript-profesional/22188-implementacion-del-patron-observer/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **oteka21** (9)
+* **oteka21** (9) [751151](https://platzi.com/comentario/751151/) 
 
-	
 	Cuando estaba en la universidad creí que era muy bruto por no entender todos estos conceptos pero ahora me doy cuenta que el problema no era yo…
 	
 	Que buena explicación por Dios 🙌🏽
 
-* **Jesús Miguel Quinto Teran** (8)
+* **Jesús Miguel Quinto Teran** (8) [787040](https://platzi.com/comentario/787040/) 
 
-	
 	La mejor clase de todas… He estado usando esta característica en Angular y Vuejs, Durante 2 años y no tenia idea como funcionaba bajo el capo… Gracias Platzi
 
-	* **alan-saldivar** (1)
+	* **alan-saldivar** [787040] (1)
 
-		
 		v-model y [NgModel] no te acabes
 
-* **alexjcm** (6)
+* **alexjcm** (6) [781333](https://platzi.com/comentario/781333/) 
 
-	
 	Este curso se puso aún más interesante con el tema de los patrones de diseño
 
-	* **Christian Armando Consuelo Mayén** (1)
+	* **Christian Armando Consuelo Mayén** [781333] (1)
 
-		
 		Te recomiendo que sigas investigando del tema. Aunque claro, que tengas criterio para saber que no todos los problemas se pueden o deben resolver con patrones de código.
 
-* **Cesar Augusto Barco de Gouveia** (6)
+* **Cesar Augusto Barco de Gouveia** (6) [738749](https://platzi.com/comentario/738749/) 
 
-	
 	## Implementación
 	
 	A continuación se detallan una serie de problemas que se pueden presentar a la hora de implementar este patrón:
 	
-	  * **Problema 1:**
+	* **Problema 1:**
 	
 	
 	
@@ -21449,19 +19842,19 @@ Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 	
 	Se podría eliminar la bidireccionalidad de la asociación pasando el sujeto como parámetro al método actualizar y ya no se tendría que referenciar el objeto observado. Esto podría causar problemas si se observan varios objetos, tanto de la misma clase como de distintas, ya que no elimina dependencias, y para hacer operaciones específicas sobre el objeto actualizado obliga a hacer en la implementación.
 	
-	  * **Problema 2:**
+	* **Problema 2:**
 	
 	
 	
 	Si hay muchos sujetos sin observador, la estructura de los observadores está desaprovechada, para solucionarlo se puede tener un intermediario que centralice el almacenamiento de la asociación de cada sujeto con sus observadores. Para esta solución se crea ese gestor de observadores usando el patrón _[singleton](https://es.wikipedia.org/wiki/Singleton "Singleton")_ (instancia única), ya que proporciona una única referencia y no una por cada sujeto. El gestor aunque mejora el aprovechamiento del espacio, hace que se reduzca el rendimiento y se pierde eficiencia en el método notificar.
 	
-	  * **Problema 3:**
+	* **Problema 3:**
 	
 	
 	
 	El responsable de iniciar la comunicación es el sujeto concreto, pero se puede dar un problema cuando el objeto concreto está siendo actualizado de forma continua ya que debido a esto se tendría que realizar muchas actualizaciones en muy poco tiempo. La solución sería suspender temporalmente las llamadas al método de actualización/notificación; por ejemplo, haciendo que el cliente pueda activar o desactivar las notificaciones y notificar todos los cambios cuando las vuelva a habilitar. El patrón Estado sería una posible solución para diseñar esta variante de no notificar si no se han dado cambios o hacerlo en caso de que si.
 	
-	  * **Problema 4 (referencias inválidas):**
+	* **Problema 4 (referencias inválidas):**
 	
 	
 	
@@ -21473,7 +19866,7 @@ Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 	  2. El observador sigue vivo, pero apunta a nulo.
 	
 	
-	  * **Problema 5:**
+	* **Problema 5:**
 	
 	
 	
@@ -21504,7 +19897,7 @@ Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 	
 	Jerarquía de varios observadores
 	
-	  * **Problema 6:**
+	* **Problema 6:**
 	
 	
 	
@@ -21516,9 +19909,8 @@ Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 	
 	Dependiendo del problema que haya que resolver, se habrá de valorar que implementación se ajusta mejor para resolverlo de la forma más eficiente y efectiva o si las variantes anteriores pueden combinarse entre sí dependiendo de las características de escenario concreto. Por ejemplo, la opción 2 podría aplicarse cuando interese aplicar en un sujeto concreto n métodos seguidos y no se quiere notificar hasta que todos finalicen su ejecución.
 
-* **Filiberto Santillán** (4)
+* **Filiberto Santillán** (4) [943501](https://platzi.com/comentario/943501/) 
 
-	
 	Por si queda un poco de duda con este patrón les pongo a detalle la explicación.
 	
 	Básicamente en este patrón todo interactúa entre si, tenemos la clase **Bitcoin Price** que tiene un array **observers** , un constructor con el elemento HTML de donde se tomaran los valores, en el mismo constructor tenemos un evento que activara el método **notify()** en cuando este cambie.
@@ -21537,113 +19929,95 @@ Es uno de los patrones más utilizados, algunos ejemplos típicos son:
 	
 	![IMG_BDB28C1BF002-1.jpg](https://static.platzi.com/media/user_upload/IMG_BDB28C1BF002-1-2f7c532f-885a-4adc-b904-b3565beb2d7f.jpg)
 
-* **Jose Arturo Enriquez Hurtado** (4)
+* **Jose Arturo Enriquez Hurtado** (4) [919866](https://platzi.com/comentario/919866/) 
 
-	
 	**Increible!**  
 	![](https://media.giphy.com/media/2rqEdFfkMzXmo/giphy.gif)
 
-* **Israel Urbina** (3)
+* **Israel Urbina** (3) [771430](https://platzi.com/comentario/771430/) 
 
-	
 	Wow me encanto la clase tuve que repetirla y entender bien, pero me parece un patron practico para algunas situaciones intentare aplicarlo en una aplicacion que estoy haciendo!
 
-* **T-gold** (2)
+* **T-gold** (2) [932255](https://platzi.com/comentario/932255/) 
 
-	
 	muy buena claseee!!
 
-* **aerama** (2)
+* **aerama** (2) [768219](https://platzi.com/comentario/768219/) 
 
-	
 	Es increíble como se puede tener tanto conocimiento sin un fundamento solido, en mi caso sabia de que se trataba un observer pero no entendía la lógica de funcionamiento, con esta clase me he dado cuenta de cuanto daba por hecho al usar frameworks como Angular o VueJs, que ofrecen esta funcionalidad en tan solo un par de lineas de código con el uso de binding y demás, que por cierto, en vainilla JavaScript se trata de algo distinto.
 
-* **Daniel Alberto Esquinazi** (2)
+* **Daniel Alberto Esquinazi** (2) [728453](https://platzi.com/comentario/728453/) 
 
-	
 	El evento `input` se dispara cuando el valor (value) de un elemento <input>, <select>, o <textarea> ha sido cambiado.
 	
 	Ref: [MDN - Evento input  
 	](https://developer.mozilla.org/es/docs/Web/API/HTMLElement/input_event)
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [723624](https://platzi.com/comentario/723624/) 
 
-	
 	Para llevar un log de lo que hacen usuarios o lo que hace cualquier clase esta la solucion para implementar este patter
 
-* **Felipe Acosta** (2)
+* **Felipe Acosta** (2) [719008](https://platzi.com/comentario/719008/) 
 
-	
 	que buena explicacion !
 
-* **mugarte** (1)
+* **mugarte** (1) [1085727](https://platzi.com/comentario/1085727/) 
 
-	
 	Me encanta esto
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1075974](https://platzi.com/comentario/1075974/) 
 
-	
 	el observe es genial…
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1028838](https://platzi.com/comentario/1028838/) 
 
-	
 	Excelente clase!
 
-* **Ricardo Martínez Murillo** (1)
+* **Ricardo Martínez Murillo** (1) [966321](https://platzi.com/comentario/966321/) 
 
-	
 	Necesite hacer esto de nuevo
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [934286](https://platzi.com/comentario/934286/) 
 
-	
 	Necesite un repaso de 1 hora para entender bien está clase. Me siento muy bien 😄
 
-* **Mariana Cortés** (1)
+* **Mariana Cortés** (1) [753927](https://platzi.com/comentario/753927/) 
 
-	
 	¿Me gustaría saber si el uso de interfaces y del servidor es obligatorio para aplicar este patrón de diseño?
 
-	* **David Aroesti (Platzi)** (7)
+	* **David Aroesti (Platzi)** [753927] (7)
 
-		
 		No es necesario, pero cuando estás en un lenguaje tipado, es una buena práctica para garantizar el contrato.
 
-	* **Mariana Cortés** (1)
+	* **Mariana Cortés** [753927] (1)
 
-		
 		@jdaroesti Gracias por tu respuesta! Pero a qué te refieres con “garantizar el contrato”?
 
-	* **David Aroesti (Platzi)** (1)
+	* **David Aroesti (Platzi)** [753927] (1)
 
-		
 		La idea es que existe una relación “contractual” entre el implementador de la interfaz y el cliente. El implementador (que puede ser una librería o un servicio web) se compromete a mantener la interfaz sin cambios (aunque puede cambiar la implementación interna) y el cliente se puede sentir seguro que su código no se romperá de un día para otro 😃
 
-* **Kalin** (1)
+* **Kalin** (1) [80687](https://platzi.com/comentario/964484/) 
 Hola ricgat. oye disculpa esta pregunta. ¿Que Pluying de VSC utiluzas para los symbolos =>, >=, <=, etc. se que esta pregunta no...
 
-	* **fcojavierlpz91** (1)
+	* **fcojavierlpz91** [80687] (1)
 
-		
 		Se trata de esta fuente:
 		
 		<https://github.com/tonsky/FiraCode>
 
-* **T-gold** (1)
+* **T-gold** (1) [79041](https://platzi.com/comentario/932233/) 
 ·hace 3 segundos que es el parametro (display) que le da a value.suscribe(display); EN EL 7:48 cuando lo definimos a display ?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [79041] (1)
 
-		
 		Justo en la **línea 50** lo define como una instancia de **PriceDisplay**.
 		``` 
 		    const display = new PriceDisplay();
 		    
 		```
 
-## 0360. Casos de Uso del patrón Observer Redux
+## 0360. Casos de Uso del patrón Observer Redux [22189](https://platzi.com/clases/1642-javascript-profesional/22189-casos-de-uso-del-patron-observer-redux/)
 
 ### Descripción:
 
@@ -21654,9 +20028,8 @@ Hola ricgat. oye disculpa esta pregunta. ¿Que Pluying de VSC utiluzas para los 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (11)
+* **Cesar Augusto Barco de Gouveia** (11) [738763](https://platzi.com/comentario/738763/) 
 
-	
 	## [![](https://camo.githubusercontent.com/f28b5bc7822f1b7bb28a96d8d09e7d79169248fc/687474703a2f2f692e696d6775722e636f6d2f4a65567164514d2e706e67)](http://es.redux.js.org/)[](https://es.redux.js.org/#)
 	
 	Redux es un contenedor predecible del estado de aplicaciones JavaScript.
@@ -21738,37 +20111,31 @@ Hola ricgat. oye disculpa esta pregunta. ¿Que Pluying de VSC utiluzas para los 
 	
 	Esto es básicamente toda la idea de Redux. Tenga en cuenta que no hemos utilizado ninguna API de Redux. Ya se incluyen algunas utilidades para facilitar este patrón, pero la idea principal es que usted describe cómo su estado se actualiza con el tiempo en respuesta a los objetos de acción, y el 90% del código que se escribe es simplemente JavaScript, sin uso de Redux en si mismo, sus APIs, o cualquier magia.
 
-* **Mariana Cortés** (5)
+* **Mariana Cortés** (5) [753962](https://platzi.com/comentario/753962/) 
 
-	
 	Lo que más me gusta de esta clase es ver cómo Node lo tiene en otra sintaxis, y cómo lo están implementando en ECMAScript. De alguna manera me deja ver el concepto mismo del Observer sin complicarte con el ejemplo de la anterior clase…
 
-* **Daniel Hurtado** (2)
+* **Daniel Hurtado** (2) [716092](https://platzi.com/comentario/716092/) 
 
-	
 	El patrón observers está pensado para situaciones en las que habrán muchos elementos que actualizar o se recomienda usar también aunque haya que actualizar un único elemento?
 
-	* **David Aroesti (Platzi)** (5)
+	* **David Aroesti (Platzi)** [716092] (5)
 
-		
 		Ambos casos de uso son válidos. El punto principal del observer es que quieres invertir el flujo tradicional de ejecución para que en vez de recibir datos cuando ejecutas otra función, recibes los datos en cuanto están disponibles. Piensa, por ejemplo en un http request vs un websocket.
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1076542](https://platzi.com/comentario/1076542/) 
 
-	
 	exceleten clase. Redux es una herramienta muy completa que usa el patron observer.
 
-* **José Manuel Puicón Rodas** (1)
+* **José Manuel Puicón Rodas** (1) [944395](https://platzi.com/comentario/944395/) 
 
-	
 	EventEmitter para Node.js
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [919894](https://platzi.com/comentario/919894/) 
 
-	
 	Wow! muy buena informacion.
 
-## 0370. Patrón Decorator y Casos de Uso
+## 0370. Patrón Decorator y Casos de Uso [22190](https://platzi.com/clases/1642-javascript-profesional/22190-patron-decorator-y-casos-de-uso/)
 
 ### Descripción:
 
@@ -21777,9 +20144,8 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (10)
+* **Cesar Augusto Barco de Gouveia** (10) [739742](https://platzi.com/comentario/739742/) 
 
-	
 	## Decorator (patrón de diseño)
 	
 	El [patrón](https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o "Patrón de diseño") **Decorator** responde a la necesidad de añadir dinámicamente funcionalidad a un Objeto. Esto nos permite no tener que crear sucesivas clases que hereden de la primera incorporando la nueva funcionalidad, sino otras que la implementan y se asocian a la primera.
@@ -21788,25 +20154,25 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	Un ejemplo para poder ver la aplicabilidad del patrón decorador podría ser el siguiente:
 	
-	  * Disponemos de una herramienta para crear interfaces gráﬁcas, que permite añadir funcionalidades como bordes o barras de desplazamiento a cualquier componente de la interfaz.
-	  * Una posible solución sería utilizar la herencia para extender las responsabilidades de la clase. Si optamos por esta solución, estaríamos haciendo un diseño inflexible (estático), ya que el cliente no puede controlar cuándo y cómo decorar el componente con esa propiedad.
-	  * La solución está en encapsular dentro de otro objeto, llamado Decorador, las nuevas responsabilidades. El decorador redirige las peticiones al componente y, además, puede realizar acciones adicionales antes y después de la redirección. De este modo, se pueden añadir decoradores con cualidades añadidas recursivamente.
+	* Disponemos de una herramienta para crear interfaces gráﬁcas, que permite añadir funcionalidades como bordes o barras de desplazamiento a cualquier componente de la interfaz.
+	* Una posible solución sería utilizar la herencia para extender las responsabilidades de la clase. Si optamos por esta solución, estaríamos haciendo un diseño inflexible (estático), ya que el cliente no puede controlar cuándo y cómo decorar el componente con esa propiedad.
+	* La solución está en encapsular dentro de otro objeto, llamado Decorador, las nuevas responsabilidades. El decorador redirige las peticiones al componente y, además, puede realizar acciones adicionales antes y después de la redirección. De este modo, se pueden añadir decoradores con cualidades añadidas recursivamente.
 	
 	![decorador concreto](https://upload.wikimedia.org/wikipedia/commons/b/be/DecoradorConcretoF.jpg)
 	
-	  * En este diagrama de clases, podemos ver que la interfaz decorador implementa la interfaz del componente, redirigiendo todos los métodos al componente visual que encapsula.
-	  * Las subclases decoradoras refinan los métodos del componente, añadiendo responsabilidades.
-	  * También se puede ver que el cliente no necesita hacer distinción entre los componentes visuales decorados y los sin decorar.
+	* En este diagrama de clases, podemos ver que la interfaz decorador implementa la interfaz del componente, redirigiendo todos los métodos al componente visual que encapsula.
+	* Las subclases decoradoras refinan los métodos del componente, añadiendo responsabilidades.
+	* También se puede ver que el cliente no necesita hacer distinción entre los componentes visuales decorados y los sin decorar.
 	
 	![secuencia decorador](https://upload.wikimedia.org/wikipedia/commons/9/99/SecuenciaF.jpg)
 	
 	## Aplicabilidad
 	
-	  * Añadir responsabilidades a objetos individuales de forma dinámica y transparente
-	  * Responsabilidades de un objeto pueden ser retiradas
-	  * Cuando la extensión mediante la herencia no es viable
-	  * Hay una necesidad de extender la funcionalidad de una clase, pero no hay razones para extenderlo a través de la herencia.
-	  * Existe la necesidad de extender dinámicamente la funcionalidad de un objeto y quizás quitar la funcionalidad extendida.
+	* Añadir responsabilidades a objetos individuales de forma dinámica y transparente
+	* Responsabilidades de un objeto pueden ser retiradas
+	* Cuando la extensión mediante la herencia no es viable
+	* Hay una necesidad de extender la funcionalidad de una clase, pero no hay razones para extenderlo a través de la herencia.
+	* Existe la necesidad de extender dinámicamente la funcionalidad de un objeto y quizás quitar la funcionalidad extendida.
 	
 	
 	
@@ -21816,25 +20182,25 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	## Participantes
 	
-	  * **Componente**
+	* **Componente**
 	
 	
 	
 	Deﬁne la interfaz para los objetos que pueden tener responsabilidades añadidas.
 	
-	  * **Componente Concreto**
+	* **Componente Concreto**
 	
 	
 	
 	Deﬁne un objeto al cual se le pueden agregar responsabilidades adicionales.
 	
-	  * **Decorador**
+	* **Decorador**
 	
 	
 	
 	Mantiene una referencia al componente asociado. Implementa la interfaz de la superclase Componente delegando en el componente asociado.
 	
-	  * **Decorador Concreto**
+	* **Decorador Concreto**
 	
 	
 	
@@ -21842,17 +20208,17 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	## Colaboraciones
 	
-	  * El decorador redirige las peticiones al componente asociado.
-	  * Opcionalmente puede realizar tareas adicionales antes y después de redirigir la petición.
+	* El decorador redirige las peticiones al componente asociado.
+	* Opcionalmente puede realizar tareas adicionales antes y después de redirigir la petición.
 	
 	
 	
 	## Consecuencias
 	
-	  * Más flexible que la herencia. Al utilizar este patrón, se pueden añadir y eliminar responsabilidades en tiempo de ejecución. Además, evita la utilización de la herencia con muchas clases y también, en algunos casos, la herencia múltiple.
-	  * Evita la aparición de clases con muchas responsabilidades en las clases superiores de la jerarquía. Este patrón nos permite ir incorporando de manera incremental responsabilidades.
-	  * Genera gran cantidad de objetos pequeños. El uso de decoradores da como resultado sistemas formados por muchos objetos pequeños y parecidos.
-	  * Puede haber problemas con la identidad de los objetos. Un decorador se comporta como un envoltorio transparente. Pero desde el punto de vista de la identidad de objetos, estos no son idénticos, por lo tanto no deberíamos apoyarnos en la identidad cuando estamos usando decoradores.
+	* Más flexible que la herencia. Al utilizar este patrón, se pueden añadir y eliminar responsabilidades en tiempo de ejecución. Además, evita la utilización de la herencia con muchas clases y también, en algunos casos, la herencia múltiple.
+	* Evita la aparición de clases con muchas responsabilidades en las clases superiores de la jerarquía. Este patrón nos permite ir incorporando de manera incremental responsabilidades.
+	* Genera gran cantidad de objetos pequeños. El uso de decoradores da como resultado sistemas formados por muchos objetos pequeños y parecidos.
+	* Puede haber problemas con la identidad de los objetos. Un decorador se comporta como un envoltorio transparente. Pero desde el punto de vista de la identidad de objetos, estos no son idénticos, por lo tanto no deberíamos apoyarnos en la identidad cuando estamos usando decoradores.
 	
 	
 	
@@ -21862,9 +20228,8 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	Se crea a partir de _Ventana_ la subclase abstracta _VentanaDecorator_ y, heredando de ella, _BordeDecorator_ y _BotonDeAyudaDecorator_. _VentanaDecorator_ encapsula el comportamiento de _Ventana_ y utiliza composición recursiva para que sea posible añadir tantas “capas” de Decorators como se desee. Podemos crear tantos Decorators como queramos heredando de _VentanaDecorator_.
 
-* **Miguel Ángel Muñoz Pozos** (4)
+* **Miguel Ángel Muñoz Pozos** (4) [997428](https://platzi.com/comentario/997428/) 
 
-	
 	SOLID: los 5 principios que te ayudarán a desarrollar software de calidad
 	
 	S – Single Responsibility Principle (SRP)  
@@ -21873,19 +20238,17 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	I – Interface Segregation Principle (ISP)  
 	D – Dependency Inversion Principle (DIP)
 
-* **ManuS** (3)
+* **ManuS** (3) [1069652](https://platzi.com/comentario/1069652/) 
 
-	
 	para el ejemplo, no sería una sola clase, de las cuales se crean varias instancias? Al menos, yo que vengo de java, lo haría así, y no veo la complicación.
 
-* **Daniel Hurtado** (3)
+* **Daniel Hurtado** (3) [716209](https://platzi.com/comentario/716209/) 
 
-	
 	Yo pienso que esta sería una buena manera de resolver el problema planteado de múltiples macbooks: hacer una sola clase MacbookPro y hacer uso del patrón factory MacbookProFactory para crear un nuevo objeto por cada macbook con los parámetros que enviemos al factory y que se encargue de hacer todos nuestros procesos para devolvernos el objeto listo con su precio.
 	
 	Que opinan ustedes al respecto?
 
-* **Antonio Madrid** (2)
+* **Antonio Madrid** (2) [925738](https://platzi.com/comentario/925738/) 
 
 	```
 	    // Decorator Pattern
@@ -21940,31 +20303,27 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	    
 	```
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1076592](https://platzi.com/comentario/1076592/) 
 
-	
 	decorator añade responsabilidades a un objeto de forma dinamica sin tener que modificar su clase original.
 
-* **KevinMartello** (1)
+* **KevinMartello** (1) [775796](https://platzi.com/comentario/775796/) 
 
-	
 	Interesante saber, mucha gracias
 
-* **oteka21** (1)
+* **oteka21** (1) [762306](https://platzi.com/comentario/762306/) 
 
-	
 	La técnica de HOC en react, utiliza el patron decorator?
 
-## 0380. Implementación del patrón Decorator
+## 0380. Implementación del patrón Decorator [22191](https://platzi.com/clases/1642-javascript-profesional/22191-implementacion-del-patron-decorator/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Filiberto Santillán** (5)
+* **Filiberto Santillán** (5) [945494](https://platzi.com/comentario/945494/) 
 
-	
 	Hay una propuesta de JS precisamente para la sintaxis de funciones encadenadas.  
 	_  
 	Esta propuesta es **pipeline operator** y lo que busca es que la sintaxis no sea de derecha a izquierda, si no que sea más intuitiva y más fácil de entender, leyéndose de izquierda a derecha. Eso tiene más sentido porque a simple vista podemos ver que función es la primera que se aplica.  
@@ -21996,14 +20355,12 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	_  
 	El pipeline operator esta en stage 1 (borrador), más info: <https://github.com/tc39/proposal-pipeline-operator>
 
-	* **Filiberto Santillán** (1)
+	* **Filiberto Santillán** [945494] (1)
 
-		
 		<https://youtu.be/BpyL8l3ybL0>
 
-* **Cesar Augusto Barco de Gouveia** (5)
+* **Cesar Augusto Barco de Gouveia** (5) [739919](https://platzi.com/comentario/739919/) 
 
-	
 	## PATRÓN ESTRUCTURAL
 	
 	El patrón decorator está diseñado para solucionar problemas donde la jerarquía con subclasificación no puede ser aplicada, o se requiere de un gran impacto en todas las clases de la jerarquía con el fin de poder lograr el comportamiento esperado. Decorator permite al usuario añadir nuevas funcionalidades a un objeto existente sin alterar su estructura, mediante la adición de nuevas clases que envuelven a la anterior dándole funcionamiento extra.
@@ -22014,10 +20371,10 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	En la imagen podemos apreciar los distintos componentes que conforman el patrón de diseño Decorator los cuales se explican a continuación:
 	
-	  * **IComponent:** Interface que define la estructura minina del componente o componentes que pueden ser decorados.
-	  * **ConcreteComponent:** Implementación de IComponent y define un objeto concreto que puede ser decorado.
-	  * **ComponentDecorator:** Por lo general es una clase abstracta que define la estructura mínima de un Decorador, el cual mínimamente deben de heredar de IComponent y contener alguna subclase de IComponent al cual decorarán.
-	  * **ComponentDecoratorImpl:** Representan todos los decoradores concretos que heredan de ComponentDecorator.
+	* **IComponent:** Interface que define la estructura minina del componente o componentes que pueden ser decorados.
+	* **ConcreteComponent:** Implementación de IComponent y define un objeto concreto que puede ser decorado.
+	* **ComponentDecorator:** Por lo general es una clase abstracta que define la estructura mínima de un Decorador, el cual mínimamente deben de heredar de IComponent y contener alguna subclase de IComponent al cual decorarán.
+	* **ComponentDecoratorImpl:** Representan todos los decoradores concretos que heredan de ComponentDecorator.
 	
 	![](https://reactiveprogramming.io/public/books/patterns/img/patterns-articles/decorator-sequence.png)
 	
@@ -22038,41 +20395,36 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	![](https://reactiveprogramming.io/public/books/patterns/img/patterns/decorator.png)
 
-* **David Trespalacios** (3)
+* **David Trespalacios** (3) [930487](https://platzi.com/comentario/930487/) 
 
-	
 	Con tanta información que tiene Js por aprender, siento que ser un Pro va a costar unos cuantos años.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [930487] (1)
 
-		
 		Ser un Pro en una tecnología siempre va a costar tiempo, lo mejor que puedes hacer es apostarle al conocimiento y nunca parar de aprender, eso es lo que te garantizará un futuro en el campo profesional 😄
 
-* **RoluDev** (3)
+* **RoluDev** (3) [910320](https://platzi.com/comentario/910320/) 
 
-	
 	Hola Richard,  
 	¿Cuáles extensiones de VS Code son las que utilizas?  
 	Saludos
 
-	* **Jose Arturo Enriquez Hurtado** (4)
+	* **Jose Arturo Enriquez Hurtado** [910320] (4)
 
-		
 		He podido apreciar algunas:
 		
-		  * GitLens
-		  * Bracket Pair Colorizer
-		  * Live Share
-		  * Material Theme
-		  * Material Icon Theme
+		* GitLens
+		* Bracket Pair Colorizer
+		* Live Share
+		* Material Theme
+		* Material Icon Theme
 		
 		
 		
 		La tipografia que modifica los operadores es [**Fira Code**](https://github.com/tonsky/FiraCode)
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [884880](https://platzi.com/comentario/884880/) 
 
-	
 	Buen dia companeros alguien me podria explicar el porque de este codigo?
 	``` 
 	    functionRequiredFieldDecorator(field: Field): Field {
@@ -22133,9 +20485,8 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	    
 	```
 
-	* **David Vargas Domínguez** (3)
+	* **David Vargas Domínguez** [884880] (3)
 
-		
 		La función validate() en la clase Field podría estar vacía o no. Es solo para el ejemplo de la clase, podría haber tenido la lógica que está en la función RequiredFieldDecorator sin el validate(). Algo así.
 		``` 
 		    functionvalidate() {
@@ -22152,19 +20503,16 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 		
 		Ahora, el porqué se hace referencia a validate en las demás funciones como EmailFieldDecorator. Es porque se está extendiendo la funcionalidad, esto quiere decir que se tiene que ejecutar lo que sea que ya existe en la función validate(), para luego agregarle más código sin modificar el original. Esto es parte del principio abierto/cerrado, abierto para su extensión y cerrado en su modificación. Espero haber despejado tus dudas!
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [869077](https://platzi.com/comentario/869077/) 
 
-	
 	genial, estupendo implementar en mis formularios
 
-* **oteka21** (1)
+* **oteka21** (1) [756299](https://platzi.com/comentario/756299/) 
 
-	
 	Alguien sabe de cómo puede ser la mejor forma de validar formularios en react?
 
-	* **fabiojcortesr** (2)
+	* **fabiojcortesr** [756299] (2)
 
-		
 		Para manejar formularios te recomendaría usar Formik, es muy bueno.
 		
 		En cuanto a la validación, revisa una librería que se llama Yup que te permite manejar todo tipo de casos de validación, incluso puedes crear tus propios esquemas personalizados.
@@ -22173,9 +20521,8 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 		
 		<https://jaredpalmer.com/formik/>
 
-	* **Marco Antonio Macedo Preciado** (2)
+	* **Marco Antonio Macedo Preciado** [756299] (2)
 
-		
 		La manera más eficaz de hacerlo es con expresiones regulares.  
 		Algo así:
 		``` 
@@ -22204,33 +20551,29 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 		    
 		```
 
-* **Mariana Cortés** (1)
+* **Mariana Cortés** (1) [754135](https://platzi.com/comentario/754135/) 
 
-	
 	Cuando queda el segundo ejemplo de “EmailfieldDecorator”… eso es como decorar un decorator? Es decir, se puede montar un decorator a otro decorator?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [754135] (1)
 
-		
 		En realidad la asignación que se le hace a la variable _field_ en el segundo ejemplo es la sobrescrita del decorator que ya tenía, no es como que se este encimando un decorator con otro.
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [705899](https://platzi.com/comentario/705899/) 
 
-	
 	Interesante esta parte de los decorators
 
-# Proyecto: MediaPlayer
+# Proyecto: MediaPlayer [4450]
 
-## 0390. Implementación de plugin de Ads Desplegando en consola
+## 0390. Implementación de plugin de Ads Desplegando en consola [22192](https://platzi.com/clases/1642-javascript-profesional/22192-implementacion-de-plugin-de-ads-desplegando-en-con/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Ernesto Vizcaíno Alvarado** (30)
+* **Ernesto Vizcaíno Alvarado** (30) [717177](https://platzi.com/comentario/717177/) 
 
-	
 	La lista
 	``` 
 	    constALL_ADS: Ad[] = [
@@ -22310,48 +20653,40 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	    
 	```
 
-	* **carlosestevenp** (2)
+	* **carlosestevenp** [717177] (2)
 
-		
 		Gracias buen hombre
 
-	* **Ernesto Vizcaíno Alvarado** (1)
+	* **Ernesto Vizcaíno Alvarado** [717177] (1)
 
-		
 		De nada 😃
 
-	* **oteka21** (3)
+	* **oteka21** [717177] (3)
 
-		
 		Heroe sin capa
 
-	* **rusbel bermúdez rivera** (3)
+	* **rusbel bermúdez rivera** [717177] (3)
 
-		
 		magazo!!!
 
-	* **Christian Armando Consuelo Mayén** (3)
+	* **Christian Armando Consuelo Mayén** [717177] (3)
 
-		
 		No todos los héroes usan capa.
 
-	* **Rubén Jiménez Torres** (3)
+	* **Rubén Jiménez Torres** [717177] (3)
 
-		
 		Una cerveza 🍺 para este crack
 
-* **Mariana Cortés** (7)
+* **Mariana Cortés** (7) [754182](https://platzi.com/comentario/754182/) 
 
-	
 	En esta clase vine a entender para qué era que servían los “módulos” con el %… 😅 ¡Gracias!
 
-* **Cesar Augusto Barco de Gouveia** (6)
+* **Cesar Augusto Barco de Gouveia** (6) [739950](https://platzi.com/comentario/739950/) 
 
-	
 	## Array.prototype.pop()
 	
-	  * Idiomas
-	  * Seguir
+	* Idiomas
+	* Seguir
 	
 	
 	
@@ -22390,40 +20725,34 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	    
 	```
 
-* **ManuS** (1)
+* **ManuS** (1) [1072961](https://platzi.com/comentario/1072961/) 
 
-	
 	se le puede hacer pop a un arreglo const?
 
-	* **David Yepes Buitrago** (1)
+	* **David Yepes Buitrago** [1072961] (1)
 
-		
 		Claro, el const no único que bloquea es el cambio de referencia, el pop no cambia la referencia.
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [1014007](https://platzi.com/comentario/1014007/) 
 
-	
 	Porque hace un if que adentro tiene un return??? No me parece una buena practica esa.
 
-* **Juan Andres Ageitos Lopez** (1)
+* **Juan Andres Ageitos Lopez** (1) [1010106](https://platzi.com/comentario/1010106/) 
 
-	
 	Buenas,  
 	Alguien sabe porque me da error este import  
 	import Ads , { Ad } from “./Ads”;
 
-	* **bcanon** (1)
+	* **bcanon** [1010106] (1)
 
-		
 		Te falta agregar la carpeta plugins si es que lo guardaste ahi.
 		``` 
 		    ./plugins/ads```
 		    
 		```
 
-* **braco** (1)
+* **braco** (1) [1004676](https://platzi.com/comentario/1004676/) 
 
-	
 	En el index.ts donde el profesor añade el plugin Ads al mediaPlayer en el import solo hace esto
 	
 	import Ads from './plugins/Ads’  
@@ -22432,71 +20761,61 @@ Añade nuevas responsabilidades a un objeto de forma dinámica permitiendo así 
 	
 	¿Alguien me puede explicar por qué funciona de las dos formas y que ventajas trae usar una o otra? o ¿Por qué el profesor lo uso asi?
 
-	* **ManuS** (1)
+	* **ManuS** [1004676] (1)
 
-		
 		la diferencia es que en la ultima forma, trae todos los archivos de la carpeta, y la ventaja es no tener que importar cada archivo de la carpeta por separado, de hecho creo que todos los archivos que importamos en el index hubiese sido igual a una sola línea que importe toda la carpeta plugin (’./plugin’). Igualmente no se recomienda cargar librerías enteras porque ralentizan el proceso de carga de la web, por lo que lo ideal siempre es importar solamente lo que se va a utilizar, y en este caso sinceramente no entendí por qué no importó únicamente el index como lo venía haciendo.
 
-* **Cristian Caraballo** (1)
+* **Cristian Caraballo** (1) [957426](https://platzi.com/comentario/957426/) 
 
-	
 	¿Puedo hacer este plugin con javascript vanilla?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [957426] (2)
 
-		
 		Sin duda, de hecho sería interesante ver tu solución acá en los aportes 😄
 
-* **oqodigital** (1)
+* **oqodigital** (1) [70361](https://platzi.com/comentario/773826/) 
 Aunque haya hecho la limpieza de rm -rf .cache dist me ha seguido desde hace ya que comenzamos con parcel, este error jaja. sw.js? [sm]:3...
 
-	* **Juan Sebastian Reina** (1)
+	* **Juan Sebastian Reina** [70361] (1)
 
-		
 		Estas utilizando babel? `regeneratorRuntime`, un error similar a este lo he visto cuando no esta instalada la dependencia de `plugin-transform-runtime` o falta por agregarla al `babelrc` o `package.json`. En algunos casos puede que necesites `babel-polyfill` también
 
-* **aerama** (0)
+* **aerama** (0) [70227](https://platzi.com/comentario/771191/) 
 por qué razón al momento de importar el plugin se hizo referencia a la carpeta en general y no a un archivo en especifico y también, por ...
 
-	* **Juan Luis Rojas León** (2)
+	* **Juan Luis Rojas León** [70227] (2)
 
-		
 		`Ads` plugin?  
 		El archivo está dentro de la carpeta `plugins`.  
 		Por lo que tiene que indicar esa ruta. `'./plugins/Ads'`.
 
-## 0400. Implementación de plugin de Ads Desplegando en pantalla
+## 0400. Implementación de plugin de Ads Desplegando en pantalla [22193](https://platzi.com/clases/1642-javascript-profesional/22193-implementacion-de-plugin-de-ads-desplegando-en-pan/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **David Behar** (27)
+* **David Behar** (27) [746335](https://platzi.com/comentario/746335/) 
 
-	
 	Estuve un buen rato arreglando un problema de que no se mostraba el ad, todo estaba bien, había seguidotodos los pasos, pero no salía, ¿adivinen cómo lo arreglé?
 	
 	## Desactivando el adBlocker 🤦‍♂️
 
-	* **Antonio Madrid** (3)
+	* **Antonio Madrid** [746335] (3)
 
-		
 		Justo ese era mi problema, gracias compañero!
 
-	* **zambombas** (2)
+	* **zambombas** [746335] (2)
 
-		
 		Vaya tela , mismo problema
 
-	* **Daniel Lopez** (2)
+	* **Daniel Lopez** [746335] (2)
 
-		
 		gracias por compartir tu solucion
 
-* **JPinedaHN** (18)
+* **JPinedaHN** (18) [743199](https://platzi.com/comentario/743199/) 
 
-	
 	adsContainer:
 	``` 
 	    this.adsContainer.innerHTML = ` <div class="ads">
@@ -22511,19 +20830,16 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 
-	* **Jhonatan David Ibarra Lavado** (1)
+	* **Jhonatan David Ibarra Lavado** [743199] (1)
 
-		
 		gracias compañero 😄
 
-	* **Rubén Jiménez Torres** (1)
+	* **Rubén Jiménez Torres** [743199] (1)
 
-		
 		Una cerveza 🍺 para este crack.
 
-* **Cristhian Daza** (17)
+* **Cristhian Daza** (17) [809084](https://platzi.com/comentario/809084/) 
 
-	
 	Para los que se les ve el Ad debajo del vídeo y no dentro: Deben agregar a los estilos:
 	``` 
 	    .ads {
@@ -22566,41 +20882,34 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [809084] (1)
 
-		
 		Muchas gracias companero!!
 
-	* **ManuS** (1)
+	* **ManuS** [809084] (1)
 
-		
 		yo descargué el proyecto entero y me aparece pero me aparece dentro, pero sin la imagen, y sin el estilo que puedo ver en la clase. Sabrías qué podría ser?  
 		![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-cf34625a-b529-42b1-aaf1-41e623e3baff.jpg)
 
-* **franciscovelsa** (8)
+* **franciscovelsa** (8) [957114](https://platzi.com/comentario/957114/) 
 
-	
 	Me tocara repetir el curso o ver otros materiales para entender mejor
 
-* **Roso Peñaranda** (4)
+* **Roso Peñaranda** (4) [916030](https://platzi.com/comentario/916030/) 
 
-	
 	Estuve unos 20 minutos buscando el porque no se me mostraba los datos aunque aparecia el div y era porque tenia el uBlockOrigin activo 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
-	* **Nycgia** (1)
+	* **Nycgia** [916030] (1)
 
-		
 		jajajaja, no eres el único al que le pasó jajaja
 
-	* **Javier Armando Vargas Vega** (1)
+	* **Javier Armando Vargas Vega** [916030] (1)
 
-		
 		Gracias por esa información.  
 		A mi también me pasaba y duré un montón de tiempo busanco el por qué.
 
-* **Cesar Augusto Barco de Gouveia** (3)
+* **Cesar Augusto Barco de Gouveia** (3) [739975](https://platzi.com/comentario/739975/) 
 
-	
 	## Node.insertBefore()
 	
 	El método `Node.insertBefore()` inserta un nodo antes del nodo de referencia como hijo de un nodo padre indicado. Si el nodo hijo es una referencia a un nodo ya existente en el documento, `insertBefore()` lo mueve de la posición actual a la nueva posición (no hay necesidad de eliminar el nodo de su nodo padre antes de agregarlo al algún nodo nuevo).
@@ -22617,10 +20926,10 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 	
-	  * `insertedNode` El nodo que esta siendo insertado, es decir, `newNode`
-	  * `parentNode` El padre del nodo recién insertado.
-	  * `newNode` El nodo a insertar.
-	  * `referenceNode` El nodo antes del cual se inserta `newNode`.
+	* `insertedNode` El nodo que esta siendo insertado, es decir, `newNode`
+	* `parentNode` El padre del nodo recién insertado.
+	* `newNode` El nodo a insertar.
+	* `referenceNode` El nodo antes del cual se inserta `newNode`.
 	
 	
 	
@@ -22644,114 +20953,94 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	
 	Para **insertar el código HTML** en el documento en lugar de cambiar el contenido de un elemento, use el método [insertAdjacentHTML().](https://developer.mozilla.org/es/docs/Web/API/Element/insertAdjacentHTML)
 
-* **Rubén Jiménez Torres** (2)
+* **Rubén Jiménez Torres** (2) [997150](https://platzi.com/comentario/997150/) 
 
-	
 	Tengo pensado hacer muchas cosas con este plugin 😂  
 	![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-8ddb4d5c-1ce9-46da-b699-69ce2e168a1b.jpg)
 
-* **juanseg** (2)
+* **juanseg** (2) [890597](https://platzi.com/comentario/890597/) 
 
-	
 	Estuve un par de horas viendo porqué no me aparecía el anuncio de nuevo luego de los 10 segundos… era porque el vídeo que agregué duraba 28 segundos 🤣🤣
 
-* **Javier Fuentes Mora** (2)
+* **Javier Fuentes Mora** (2) [754700](https://platzi.com/comentario/754700/) 
 
-	
 	Alguien sabe porque si se ven mis Ads pero se ven abajo del video y no sobre el video?
 
-	* **Mauro Giustozzi** (5)
+	* **Mauro Giustozzi** [754700] (5)
 
-		
 		Me paso igual y lo pude solucionar.
 		
 		No lo muestra en el video, pero fijate agrega CSS. En ‘Archivo y Enlaces’ de esta clase se encuentra el css actualizado.
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [754700] (1)
 
-		
 		muchas gracias
 
-* **beaps** (2)
+* **beaps** (2) [705587](https://platzi.com/comentario/705587/) 
 
-	
 	En el navegador Firefox si me funciona pero en Chrome no! 😫  
 	Sólo se me ve una línea blanca… A alguien más le pasa?
 	
 	![Captura de pantalla 2019-08-24 a las 22.00.36.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-08-24%20a%20las%2022.00.36-78db14dc-746b-4adf-8b10-81468dc21075.jpg)
 
-	* **Steven Benjamín Diaz Flores** (3)
+	* **Steven Benjamín Diaz Flores** [705587] (3)
 
-		
 		Cambiando el nombre de la clase de ads__link a solo link funciono para mi claro cambia el selector en el css también
 
-	* **Daniel Hurtado** (3)
+	* **Daniel Hurtado** [705587] (3)
 
-		
 		La solución de steven funciona. Pero, cual es la lógica detrás, es decir cambiamos el nombre de la clase y el nombre en el css en teoría debería ser lo mismo, yo al menos no estoy enterado de que hayan normas para nombrar selectores, por qué razón no funciona ads__link wtf xD
 
-	* **Ernesto Vizcaíno Alvarado** (6)
+	* **Ernesto Vizcaíno Alvarado** [705587] (6)
 
-		
 		Yo desactive mi ad blocker y si me aparecio y cuando lo volvi a activar lo quito
 
-	* **Daniel Hurtado** (3)
+	* **Daniel Hurtado** [705587] (3)
 
-		
 		oh… entonces debe ser que ads__link está baneada por adblock
 
-	* **th3_bu6** (3)
+	* **th3_bu6** [705587] (3)
 
-		
 		Si a mi me Paso tambien y Erne_Vizcaino tiene razon es el ad blocker, solo debes desactivarlo para localhost y listo
 
-	* **beaps** (1)
+	* **beaps** [705587] (1)
 
-		
 		Gracias por las respuestas!!👏🏻😄
 
-	* **hectormr** (1)
+	* **hectormr** [705587] (1)
 
-		
 		Muchas gracias! Era el bloqueador de publicidad!
 
-* **Santiago Andres Duque Moreno** (1)
+* **Santiago Andres Duque Moreno** (1) [1096375](https://platzi.com/comentario/1096375/) 
 
-	
 	Estuve como 10 minutos buscando porque no se mostraban los ads así que decidí leer los comentarios a ver si alguno le pasaba y leí que tenían activado el addBlock… advienen a quien le paso lo mismo .-.
 
-* **caegomezda** (1)
+* **caegomezda** (1) [1094801](https://platzi.com/comentario/1094801/) 
 
-	
 	Me sucede algo muy curioso, tengo el código igual, (obvio pueden haber algunos errores nunca faltan)  
 	Pero lo que sucede es que tengo el html en el inspector igual a Richard,(con los div donde deben estar) pero a la hora de que los Ads aparezcan el div contenedor se amplía, luego cuando acaba el tiempo del Ads vuelve a su valor usual.
 
-	* **Guillermo Vara De Gante** (1)
+	* **Guillermo Vara De Gante** [1094801] (1)
 
-		
 		¿Descargaste el css?
 
-* **ManuS** (1)
+* **ManuS** (1) [1074125](https://platzi.com/comentario/1074125/) 
 
-	
 	A pesar de que descargué el index.css del proyecto final, me aparece así el ad  
 	![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-7f76c2df-4b97-4e77-a7ab-fdd74269cb32.jpg)
 
-* **Andrés Gutierrez** (1)
+* **Andrés Gutierrez** (1) [1057906](https://platzi.com/comentario/1057906/) 
 
-	
 	estoy muy emocionado ahhhhhhhhhhh
 	
 	pero una cosa, al renderizar el ad, a veces se puede ver como el html se intenta acomodar, hay alguna forma de optiizar nuestro código para que esto no pase?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1057906] (2)
 
-		
 		Cuando va cargando? No, en prácticamente todos los sitios pasa, a menos de que envíes un HTML ya renderizado con Server Side Rendering, pero aún así puede pasar
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [941068](https://platzi.com/comentario/941068/) 
 
-	
 	## Me ocurre que cuando implemento Ads en index.ts me dice que el constructor de esta es privado y no se puede acceder a él. Pero si estamos trabajando con Singletones entonces no entiendo qué pasa…
 	
 	## ![](![constructor.png](https://static.platzi.com/media/user_upload/constructor-060a42ee-2ac5-4595-860b-85744b68e617.jpg)
@@ -22873,30 +21162,27 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 
-	* **picirilo** (1)
+	* **picirilo** [941068] (1)
 
-		
 		Tienes mal el import de la clase Ads. Debes importar el archivo index.ts
 		``` 
 		    import Ads from"./plugins/Ads";
 		    
 		```
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [869652](https://platzi.com/comentario/869652/) 
 
-	
 	por un momento me asuste de donde saco los controles jajaja, estupendo repase este curso tres veces es estupendo muchas gracias por todo richard 😄
 
-## 0410. Publicar en npm
+## 0410. Publicar en npm [22194](https://platzi.com/clases/1642-javascript-profesional/22194-publicar-en-npm/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Cesar Augusto Barco de Gouveia** (8)
+* **Cesar Augusto Barco de Gouveia** (8) [739978](https://platzi.com/comentario/739978/) 
 
-	
 	## Publicar en NPM
 	
 	## Paso 1: npm actualizado
@@ -22938,58 +21224,48 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 
-* **Maximo Martinez Soria** (7)
+* **Maximo Martinez Soria** (7) [902981](https://platzi.com/comentario/902981/) 
 
-	
 	Excelente curso!
 	``` 
 	    Hay algún grupo de Whatsapp, Telegram o Slack con gente interesada en Javascript o desarrollo web en general?
 	    
 	```
 
-	* **nick** (1)
+	* **nick** [902981] (1)
 
-		
 		me encantaría a mí también, sería interesante por Slack
 
-	* **Maximo Martinez Soria** (1)
+	* **Maximo Martinez Soria** [902981] (1)
 
-		
 		Sii, sería genial!
 
-	* **Leonardo Daniel Benitez Cuenca** (1)
+	* **Leonardo Daniel Benitez Cuenca** [902981] (1)
 
-		
 		Hola, se pueden unir al grupo en Telegram, el grupo se llama: EstudiantesPlatzi
 
-	* **Maximo Martinez Soria** (1)
+	* **Maximo Martinez Soria** [902981] (1)
 
-		
 		Uhh que bueno. Tendrás algún link para unirnos?
 
-	* **Anderson Alexander Contreras Villarena** (1)
+	* **Anderson Alexander Contreras Villarena** [902981] (1)
 
-		
 		me interesa
 
-	* **pndafran** (1)
+	* **pndafran** [902981] (1)
 
-		
 		A mi tambien me gustaria unirme al grupo
 
-	* **Leonardo Daniel Benitez Cuenca** (2)
+	* **Leonardo Daniel Benitez Cuenca** [902981] (2)
 
-		
 		Aqui se pueden unir: <https://t.me/EstudiantesPlatzi>
 
-* **Wilson Marino Pablo Mendez** (3)
+* **Wilson Marino Pablo Mendez** (3) [861742](https://platzi.com/comentario/861742/) 
 
-	
 	La primera aportación al open source 😎
 
-* **beaps** (3)
+* **beaps** (3) [706804](https://platzi.com/comentario/706804/) 
 
-	
 	Registrarse en npm:
 	``` 
 	    npm login
@@ -23004,50 +21280,44 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	
 	Si es la primera vez que te registras necesitarás entrar en tu correo y verificar la cuenta
 
-* **Jose Arturo Enriquez Hurtado** (2)
+* **Jose Arturo Enriquez Hurtado** (2) [920119](https://platzi.com/comentario/920119/) 
 
-	
 	Emocionante publicar tu primer repositorio ❤️
 
-* **Steven Benjamín Diaz Flores** (2)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-f21e57c0-c2fc-4f2a-ae75-c1a5c3f33ca1.jpg)
+* **Steven Benjamín Diaz Flores** (2) [713192](https://platzi.com/comentario/713192/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-f21e57c0-c2fc-4f2a-ae75-c1a5c3f33ca1.jpg)
 	
 	me podrian ayudar con ese error? no entiendo porque dice que no lo encuentra estoy usando CMD
 
-	* **Alejandro Lopez Ramírez** (1)
+	* **Alejandro Lopez Ramírez** [713192] (1)
 
-		
 		a mi me pasa lo mismo si encuentro la solucion la comparto, sin embargo, no se si alguien nos puede colaborar
 
-	* **Alexander Henry Obispo Buendia** (2)
+	* **Alexander Henry Obispo Buendia** [713192] (2)
 
-		
 		Lo solucione configurando un tsconfig.json
 
-	* **IngridSagrero** (1)
+	* **IngridSagrero** [713192] (1)
 
-		
 		a mi también me pasa eso 😦
 
-	* **Enrique Alexis Lopez Araujo** (3)
+	* **Enrique Alexis Lopez Araujo** [713192] (3)
 
-		
 		Hola @stevenbdf2019 podrias compartir tu repositorio, quisiera ver como esta el package.json
 		
 		Saludos!
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [713192] (2)
 
-		
 		Este error pasa comúnmente por correr el comando en la ruta equivocada, asegurence de estar corriendo en el directorio _mediaplayer_.
 		
 		Recuerden que si tiene cualquier dificultad siempre está el código en archivos y enlaces para que puedan comparar si tienen alguna diferencia. Yo lo he descargado y funciona perfecto 💯
 		
 		Si nada de esto les funciona, pueden crear un archivo tsconfig.json para poder avanzar, [aquí dice cómo](https://es.stackoverflow.com/questions/34023/error-ts6053-file-ts-not-found).
 
-	* **NicoBertini** (1)
+	* **NicoBertini** [713192] (1)
 
-		
 		Hola. Estoy con el mismo error, pudieron solucionarlo? Unicamente es creando el archivo tsconfig.json como hicieron mención?  
 		El codigo de mi json es:  
 		{  
@@ -23067,28 +21337,24 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 		}  
 		}
 
-* **lgfh** (1)
+* **lgfh** (1) [1056068](https://platzi.com/comentario/1056068/) 
 
-	
 	este flujo es solo para aportar a proyectos open source, o tambien es usado para proyectos en equipo?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1056068] (1)
 
-		
 		Si tienes una librería con tu equipo si, el proceso es muy parecido, sin embargo para eso se usa mucho más Git y GitHub, puedes checar el curso acá: [Curso Profesional de Git y GitHub](https://platzi.com/clases/git-github/) 😄
 
-* **lgfh** (1)
+* **lgfh** (1) [1056028](https://platzi.com/comentario/1056028/) 
 
-	
 	error TS6053: File ‘src/**/*.ts’ not found.
 	
 	Por ahora lo solucioné colocanco la ruta de cada archivo, pero si alguien sabe porque sale ese mensaje, le agradecería la ayuda.
 	
 	ruta: “tsc src/MediaPlayer.ts src/plugins/AutoPause.ts src/plugins/AutoPlay.ts src/plugins/Ads/Ads.ts src/plugins/Ads/index.ts --outDir lib”
 
-* **Alejandro Daniel Oroncoy Almeyda** (1)
+* **Alejandro Daniel Oroncoy Almeyda** (1) [991850](https://platzi.com/comentario/991850/) 
 
-	
 	Me sale este error, quisiera saber como arreglarlo… :'v
 	``` 
 	    npm ERR! code E403
@@ -23101,29 +21367,24 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 
-	* **David Guerrero Diaz** (1)
+	* **David Guerrero Diaz** [991850] (1)
 
-		
 		Tengo el mismo error, lograste solucionarlo?
 
-* **Northerchild** (1)
+* **Northerchild** (1) [960267](https://platzi.com/comentario/960267/) 
 
-	
 	GENIAL!!!
 
-* **Antonio Madrid** (1)
+* **Antonio Madrid** (1) [927981](https://platzi.com/comentario/927981/) 
 
-	
 	Muy interesante esta parte, es la primera vez que publicaba algo completamente funcional y auto empaquetado a la web.
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [869823](https://platzi.com/comentario/869823/) 
 
-	
 	estupendo, listo realizado con extinto yujuuu
 
-* **alexjcm** (1)
+* **alexjcm** (1) [781942](https://platzi.com/comentario/781942/) 
 
-	
 	Comparto el archivo **tsconfig.json** que me ha funcionado:
 	``` 
 	    {
@@ -23144,21 +21405,18 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 	    
 	```
 
-	* **Jose Angel Mosquera Rodríguez** (1)
+	* **Jose Angel Mosquera Rodríguez** [781942] (1)
 
-		
 		Hola  
 		En **tsconfig.json** tienes que modificar **`"include"`** con `**"include": ["./src/**/*"]**` para que también te pase la carpeta " **plugins** "  
 		Tal como lo tienes a mi me pasó solamente el **mediaplayer.ts**
 
-* **Sebastian** (1)
+* **Sebastian** (1) [774020](https://platzi.com/comentario/774020/) 
 
-	
 	Alguien que sepa como ejecutar esos comando en Windows
 
-	* **Alejandro Lopez Ramírez** (1)
+	* **Alejandro Lopez Ramírez** [774020] (1)
 
-		
 		Hola  
 		¿a que te refieres con esos comandos?
 		
@@ -23170,179 +21428,147 @@ por qué razón al momento de importar el plugin se hizo referencia a la carpeta
 		
 		Saludos.
 
-* **Octavio Villavicencio Cruz** (1)
+* **Octavio Villavicencio Cruz** (1) [80326](https://platzi.com/comentario/956837/) 
 Al subir la dependencia dentro de lib solo esta el mediaplayer.js no están los plugins Alguien que me pueda ayudar https://github.com/K...
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [75422](https://platzi.com/comentario/869713/) 
 tengo una pregunta, quise hacer una copia del trabajo, antes de hacer todo el proceso de para npm , cuando lo ejecute normal me sale erro...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [75422] (1)
 
-		
 		Hola! Cómo lo copiaste? Puede que te falte ejecutar `npm install`
 
-# Conclusiones
+# Conclusiones [4451]
 
-## 0420. Conclusiones
+## 0420. Conclusiones [22195](https://platzi.com/clases/1642-javascript-profesional/22195-conclusiones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **JPinedaHN** (6)
+* **JPinedaHN** (6) [743293](https://platzi.com/comentario/743293/) 
 
-	
 	¡Que curso más genial! no me esperaba para nada algo tan profundo e interesante acerca de Javascript. Muchas gracias Richard
 
-* **4mjaimes** (4)
+* **4mjaimes** (4) [757439](https://platzi.com/comentario/757439/) 
 
-	
 	Mucho flow y conocimiento de principio a fin. Gracias!!!
 
-* **OmarGbet** (3)
+* **OmarGbet** (3) [771739](https://platzi.com/comentario/771739/) 
 
-	
 	Me da la impresión que Richard piensa más rápido que la gran mayoría de las personas. Crack.
 
-	* **aerama** (1)
+	* **aerama** [771739] (1)
 
-		
 		Se nota un montón! y al mismo tiempo se ve que domina tanto el tema, parece como si fuera un juego para él, me encanta!
 
-* **Gerlis Alvarez Cardona** (3)
+* **Gerlis Alvarez Cardona** (3) [770362](https://platzi.com/comentario/770362/) 
 
-	
 	Muuy bueno el curso, el profe explicó muy bien los conceptos y los aclaró con los ejercicios.
 
-* **Jose Arturo Enriquez Hurtado** (2)
+* **Jose Arturo Enriquez Hurtado** (2) [920129](https://platzi.com/comentario/920129/) 
 
-	
 	Muy buen curso ❤️
 
-* **Jorge Daniel Pat Navarro** (2)
+* **Jorge Daniel Pat Navarro** (2) [908799](https://platzi.com/comentario/908799/) 
 
-	
 	Un gran curso! 💚😁
 
-* **Cristian Caraballo** (2)
+* **Cristian Caraballo** (2) [863630](https://platzi.com/comentario/863630/) 
 
-	
 	hola, alguien sabe que fuente usa richard en VsCode?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [863630] (3)
 
-		
 		Hola! Si no me equivoco es [Fira Code](https://github.com/tonsky/FiraCode), aquí las [instrucciones para aplicarla en VSCode](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
 
-* **Wilson Marino Pablo Mendez** (2)
+* **Wilson Marino Pablo Mendez** (2) [861750](https://platzi.com/comentario/861750/) 
 
-	
 	Tantos conocimientos en un curso. Gracias Richard y Platzi
 
-* **angelo meneses** (2)
+* **angelo meneses** (2) [841109](https://platzi.com/comentario/841109/) 
 
-	
 	Muy buen curso! creo que me tocara verlo nueva mente para reforzar contenido. pero muchas gracias.
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [787561](https://platzi.com/comentario/787561/) 
 
-	
 	Hasta Ahora, el mejor curso de la vida… Gracias Platzi, Gracias Richard K. Aprendí mas de patrones de diseño en este curso; que en todo un semestre en la Facultad. Y javascript, javascript es lo mejor…
 
-* **mario-salinas** (2)
+* **mario-salinas** (2) [717773](https://platzi.com/comentario/717773/) 
 
-	
 	Muchas gracias Richard, me costo un poco seguirlo pero estuvo genial
 
-* **Nicolas David Pastran Zamora** (1)
+* **Nicolas David Pastran Zamora** (1) [1116495](https://platzi.com/comentario/1116495/) 
 
-	
 	Excelente curso, libere muchas dudas que tenia y el proyecto estuvo genial. Al tiro, mejore el código de los proyectos que estoy trabajando con todo lo que aprendí
 
-* **torcoroma-arias-ascanio** (1)
+* **torcoroma-arias-ascanio** (1) [1109260](https://platzi.com/comentario/1109260/) 
 
-	
 	Excelente a prendí mucho, lo que mas me gusto fue Ads
 
-* **bvalientes** (1)
+* **bvalientes** (1) [1109203](https://platzi.com/comentario/1109203/) 
 
-	
 	Muy bueno el curso
 
-* **omarps** (1)
+* **omarps** (1) [1104250](https://platzi.com/comentario/1104250/) 
 
-	
 	Excelente curso !!
 
-* **Nagcely Mendoza** (1)
+* **Nagcely Mendoza** (1) [1094979](https://platzi.com/comentario/1094979/) 
 
-	
 	Excelente curso, gracias.
 
-* **Leonardo Castro Mestra** (1)
+* **Leonardo Castro Mestra** (1) [1076923](https://platzi.com/comentario/1076923/) 
 
-	
 	muy buen curso
 
-* **Samar Jaffal** (1)
+* **Samar Jaffal** (1) [1061945](https://platzi.com/comentario/1061945/) 
 
-	
 	Eres tremendo, gracias por tu aporte!
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [1058684](https://platzi.com/comentario/1058684/) 
 
-	
 	Muy buen curso…
 
-* **Daniel Lopez** (1)
+* **Daniel Lopez** (1) [1055597](https://platzi.com/comentario/1055597/) 
 
-	
 	excelente curso,
 
-* **Leandro Terrado** (1)
+* **Leandro Terrado** (1) [1031502](https://platzi.com/comentario/1031502/) 
 
-	
 	Tremendo curso! Para repasar un par de veces mas! hay muchisima información.
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1029414](https://platzi.com/comentario/1029414/) 
 
-	
 	excelente curso, muy productivo
 
-* **Osvaldo Trejo** (1)
+* **Osvaldo Trejo** (1) [1022346](https://platzi.com/comentario/1022346/) 
 
-	
 	Excelente curso!
 
-* **Carol Estefanny Masmela Escamilla** (1)
+* **Carol Estefanny Masmela Escamilla** (1) [1003397](https://platzi.com/comentario/1003397/) 
 
-	
 	¡Muchas Gracias! Me encanto el curso y aprendí mucho 😃
 
-* **koby24** (1)
+* **koby24** (1) [1000806](https://platzi.com/comentario/1000806/) 
 
-	
 	Muchas gracias Richard
 
-* **Miguel Ángel Muñoz Pozos** (1)
+* **Miguel Ángel Muñoz Pozos** (1) [997967](https://platzi.com/comentario/997967/) 
 
-	
 	wow, gracias Richard B. Kaufman López un curso increíble, espero y en la platziconf 2020 en México puedas estar. Me llevo de este curso mucho conocimiento
 
-* **ValentinGutierrez** (1)
+* **ValentinGutierrez** (1) [995029](https://platzi.com/comentario/995029/) 
 
-	
 	Genial!
 
-* **miguelher007** (1)
+* **miguelher007** (1) [986921](https://platzi.com/comentario/986921/) 
 
-	
 	muy buen curso. Genial poder ver algunos patrones de diseño con ejemplos claros y prácticos.
 
-* **Javier Armando Vargas Vega** (1)
+* **Javier Armando Vargas Vega** (1) [984606](https://platzi.com/comentario/984606/) 
 
-	
 	Me ha parecido un curso sensancional, con excelentes contenidos.
 	
 	Me perdí un poco en los últimos videos y en donde explica cómo subir el proyecto a NPM, así que tendré que verlos con más calma.
@@ -23355,146 +21581,118 @@ tengo una pregunta, quise hacer una copia del trabajo, antes de hacer todo el pr
 	
 	Seguiré viendo más contenidos de Java-Script.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [984606] (1)
 
-		
 		Hola! Que genial que te haya gustado el curso. Te recomiendo el [Curso de Gestión de Paquetes y Dependencias con NPM](https://platzi.com/clases/npm/) para aclarar tus dudas al respecto 😄
 
-* **David Valecillo** (1)
+* **David Valecillo** (1) [971008](https://platzi.com/comentario/971008/) 
 
-	
 	Este curso estuve genial, muy bueno, he aprendido mucho. El profesor sin duda es explica muy muy bien.
 
-* **Ricardo Martínez Murillo** (1)
+* **Ricardo Martínez Murillo** (1) [966625](https://platzi.com/comentario/966625/) 
 
-	
 	Estuvo increíble, el maestro me encanto y todo lo entendí bien!!!
 
-* **Northerchild** (1)
+* **Northerchild** (1) [960269](https://platzi.com/comentario/960269/) 
 
-	
 	Aprendi mucho, muchas gracias
 
-* **AntonioEspin** (1)
+* **AntonioEspin** (1) [957523](https://platzi.com/comentario/957523/) 
 
-	
 	Un curso realmente excelente! Gracias por compartir todos estos conocimientos.
 
-* **José Javier Saldaña Alfonso** (1)
+* **José Javier Saldaña Alfonso** (1) [954549](https://platzi.com/comentario/954549/) 
 
-	
 	Richard, equipo de platzi he aprendido muchísimo… mm la verdad el proyecto no lo realice todo, sin embargo, en mi trabajo estoy trabajando con vuejs en algunas ocasiones con angular y me a servido muchisimo para comprender de donde vienen muchas cosas
 
-* **pndafran** (1)
+* **pndafran** (1) [933113](https://platzi.com/comentario/933113/) 
 
-	
 	Muchas Gracias Richard Excelente
 
-* **Antonio Madrid** (1)
+* **Antonio Madrid** (1) [927567](https://platzi.com/comentario/927567/) 
 
-	
 	Fenomenal el curso y el profesor, mejor contenido de lo esperado. Me ha sorprendido mucho y espero ver mucho mas en este apasionante viaje del desarrollo.
 	
 	Gracias Richard, eres genial!
 
-* **XXVSebastianVXX** (1)
+* **XXVSebastianVXX** (1) [915428](https://platzi.com/comentario/915428/) 
 
-	
 	Excelente curso, ahora a seguir con la ruta.
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [869826](https://platzi.com/comentario/869826/) 
 
-	
 	yujuuuuuuu termineee vamso ha ahcer el examen carajo*.*
 
-* **iscpatricio** (1)
+* **iscpatricio** (1) [859133](https://platzi.com/comentario/859133/) 
 
-	
 	buenisimo curso, volveré a repasar algunos cursos, vale la pena
 
-* **SergioNishikino** (1)
+* **SergioNishikino** (1) [840791](https://platzi.com/comentario/840791/) 
 
-	
 	Muchas gracias, buen curso
 
-* **Geordano Polanco Rodríguez** (1)
+* **Geordano Polanco Rodríguez** (1) [827384](https://platzi.com/comentario/827384/) 
 
-	
 	Excelente el curso, he aprendido bastante puntos avanzados de este lenguaje.
 
-* **AlfredOS** (1)
+* **AlfredOS** (1) [817058](https://platzi.com/comentario/817058/) 
 
-	
 	Excelente curso y un muy buen profesor, gracias!.
 
-* **AMILKAR CRUZ HERBAS** (1)
+* **AMILKAR CRUZ HERBAS** (1) [811667](https://platzi.com/comentario/811667/) 
 
-	
 	Excelente Curso, Muy buena didactica. Gracias profe
 
-* **Freddy Córdova Arana** (1)
+* **Freddy Córdova Arana** (1) [804200](https://platzi.com/comentario/804200/) 
 
-	
 	De mis profesores favoritos 😄
 
-* **dftorres18** (1)
+* **dftorres18** (1) [787966](https://platzi.com/comentario/787966/) 
 
-	
 	Excelente, muchas gracias por este curso
 
-* **KevinMartello** (1)
+* **KevinMartello** (1) [775945](https://platzi.com/comentario/775945/) 
 
-	
 	gracias por el curso
 
-* **aerama** (1)
+* **aerama** (1) [771876](https://platzi.com/comentario/771876/) 
 
-	
 	Un maestro que domina la tecnología, con mucho conocimiento para dar y sobre todo que se nota como disfruta hacer código. 5 Estrellas
 
-* **Jorge Humberto Nemogá Pinzón** (1)
+* **Jorge Humberto Nemogá Pinzón** (1) [743941](https://platzi.com/comentario/743941/) 
 
-	
 	Un curso como se llama Profesional de JavaScript . . .  
 	MIentras uno entienda que es un curso «rápido», es genial contenido y desarrollo.
 
-* **Cesar Augusto Barco de Gouveia** (1)
+* **Cesar Augusto Barco de Gouveia** (1) [740002](https://platzi.com/comentario/740002/) 
 
-	
 	¡Gracias por todo, Richar!
 
-* **IvanDev** (1)
+* **IvanDev** (1) [727289](https://platzi.com/comentario/727289/) 
 
-	
 	Muchas gracias @richard, excelente forma de explicar cada tema con un ejemplo que hace mas fácil entender el concepto.
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [723631](https://platzi.com/comentario/723631/) 
 
-	
 	Gracias Richard.
 
-* **hectormr** (1)
+* **hectormr** (1) [720800](https://platzi.com/comentario/720800/) 
 
-	
 	Aprendí bastante de este curso! Muchas gracias @sparragus!!
 
-* **Felipe Acosta** (1)
+* **Felipe Acosta** (1) [719042](https://platzi.com/comentario/719042/) 
 
-	
 	Muchas Gracias, todos los temas estuvieron muy interesantes
 
-* **Miguel Angel Martelo Quiroz** (1)
+* **Miguel Angel Martelo Quiroz** (1) [713179](https://platzi.com/comentario/713179/) 
 
-	
 	Muchas gracias Richard, excelente el curso!!!
 
-* **Fernando Hernandez** (1)
+* **Fernando Hernandez** (1) [703029](https://platzi.com/comentario/703029/) 
 
-	
 	Muy buen curso … gracias Richard
 
-* **Kevin Chipana Chucare** (0)
+* **Kevin Chipana Chucare** (0) [954319](https://platzi.com/comentario/954319/) 
 
-	
 	Gracias hermano, aprendí muchisimoo.
 

@@ -1,6 +1,8 @@
-# Bienvenida e Introducción
+[Curso de Programación en Bash Shell 1468](https://platzi.com/cursos/bash-shell)
 
-## 0010. Introducción y Bienvenida al curso
+# Bienvenida e Introducción [3278]
+
+## 0010. Introducción y Bienvenida al curso [16545](https://platzi.com/clases/1468-bash-shell/16545-introduccion-y-bienvenida8233/)
 
 ### Descripción:
 
@@ -14,178 +16,151 @@
 
 ### Comentarios:
 
-* **José Francisco Casales Huerta** (7)
+* **José Francisco Casales Huerta** (7) [481474](https://platzi.com/comentario/481474/) 
 
-	
 	Muy buena introducción, se ve muy interesante el curso.
 
-	* **Marco Antonio Toscano Freire** (4)
+	* **Marco Antonio Toscano Freire** [481474] (4)
 
-		
 		Gracias José, bienvenido
 
-* **Alan Onofre Machorro** (4)
+* **Alan Onofre Machorro** (4) [665034](https://platzi.com/comentario/665034/) 
 
-	
 	He escrito bash scripts pero nunca he tenido una formación real sobre el tema, espero que este curso me ordene lo que conozco y me enseñe aún más 😄
 
-* **Alan Mena** (3)
+* **Alan Mena** (3) [550740](https://platzi.com/comentario/550740/) 
 
-	
 	Desde hace mucho esperaba un curso así. 😄
 
-* **Jose Vinicio Flores Arias** (3)
+* **Jose Vinicio Flores Arias** (3) [545261](https://platzi.com/comentario/545261/) 
 
-	
 	Saludos de Ecuador que bien 😃! me alegra ver esto 😄
 
-* **Pablo Etcheverry** (3)
+* **Pablo Etcheverry** (3) [483290](https://platzi.com/comentario/483290/) 
 
-	
 	Woww, qué genial lo que vamos a poder lograr! Muchas gracias por subir el archivo pdf 😄
 
-* **ferroblesh** (3)
+* **ferroblesh** (3) [481022](https://platzi.com/comentario/481022/) 
 
-	
 	Mismo instructor de hibernate…interesante
 
-	* **Marco Antonio Toscano Freire** (3)
+	* **Marco Antonio Toscano Freire** [481022] (3)
 
-		
 		Saludos Fernando
 
-* **Emmanuel Sosa Reyes** (2)
+* **Emmanuel Sosa Reyes** (2) [972020](https://platzi.com/comentario/972020/) 
 
-	
 	Estoy aquí después del final del curso de Servidores de Linux donde el profe hizo un script y quise aprender más.
 
-* **gaescriba** (2)
+* **gaescriba** (2) [857304](https://platzi.com/comentario/857304/) 
 
-	
 	Estimados, si es primera vez que ven este curso, recomiendo AMPLIAMENTE tomar el curso de introducción a la línea de comandos, realmente fluirás muy bien si vienes desde allá ya que muchos temas se conectan directamente con lo enseñado en ese curso y algunas cosas se sienten un repaso antes que un aprendizaje nuevo así que la carga mentar no es tanta cómo si lo tomas desde cero
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [857304] (2)
 
-		
 		Les dejo por acá el enlace al curso de línea de comandos <https://platzi.com/clases/terminal/>
 
-	* **topaca** (1)
+	* **topaca** [857304] (1)
 
-		
 		Y en el curso de Introducción a la línea de comandos recomiendan el de programación en Bash Shell
 
-* **diegohernanvillalobos** (2)
+* **diegohernanvillalobos** (2) [693171](https://platzi.com/comentario/693171/) 
 
-	
 	Linda camisaki eh, y buen color del traje!
 
-* **GibsPM** (2)
+* **GibsPM** (2) [691928](https://platzi.com/comentario/691928/) 
 
-	
 	Game on!  
 	Saludos.
 
-* **Leonardo Perez Hurtado** (2)
+* **Leonardo Perez Hurtado** (2) [522220](https://platzi.com/comentario/522220/) 
 
-	
 	opaa… se ve bueno
 
-* **Xappie** (2)
+* **Xappie** (2) [484644](https://platzi.com/comentario/484644/) 
 
-	
 	Conocénos más, quien lo vio xD.
 
-* **Christopher Giovanny Ortiz Montero** (2)
+* **Christopher Giovanny Ortiz Montero** (2) [70718](https://platzi.com/comentario/781103/) 
 Buenas tardes, quisiera saber si el contenido del curso esta disponible en algun repositorio de GitHub?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [70718] (1)
 
-		
 		👋 ¡Hola!
 		
 		Shí. Este es el repo: <https://github.com/martosfre/curso_programacion_bash_platzi>.
 		
 		Esta organizado por ramas. Más o menos una por cada clase. Te recomiendo verlas desde aquí: <https://github.com/martosfre/curso_programacion_bash_platzi/branches/all>. 😉
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [921577](https://platzi.com/comentario/921577/) 
 
-	
 	Vamos por mas
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [864946](https://platzi.com/comentario/864946/) 
 
-	
 	Al ver al profe me acorde de Slappy.
 
-* **thegiotube** (1)
+* **thegiotube** (1) [740621](https://platzi.com/comentario/740621/) 
 
-	
 	Go go
 
-* **Franky Polanco Carrillo** (1)
+* **Franky Polanco Carrillo** (1) [671436](https://platzi.com/comentario/671436/) 
 
-	
 	Excelente curso. Muy buena la explicación.
 
-* **kevinenriquearciniegaschacon** (1)
+* **kevinenriquearciniegaschacon** (1) [646488](https://platzi.com/comentario/646488/) 
 
-	
 	Hola
 
-* **RickLondini** (1)
+* **RickLondini** (1) [643949](https://platzi.com/comentario/643949/) 
 
-	
 	Con ganas de empezarlo. Acabo de finalizar el Curso introductorio de terminal y lista de comandos 😄
 
-* **CFontalvo** (1)
+* **CFontalvo** (1) [510387](https://platzi.com/comentario/510387/) 
 
-	
 	me dejó lleno de expectativas!!
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [497064](https://platzi.com/comentario/497064/) 
 
-	
 	Yo también uso Mac, que terminal de comandos usa ? porque el que viene por defecto no tiene colores.
 
-* **Luis Alberto Lazcano Cruz** (0)
+* **Luis Alberto Lazcano Cruz** (0) [517766](https://platzi.com/comentario/517766/) 
 
-	
 	 **Que comience el juego**
 
-## 0020. Componentes de Linux, Tipos de Shell y Comandos de información
+## 0020. Componentes de Linux, Tipos de Shell y Comandos de información [16546](https://platzi.com/clases/1468-bash-shell/16546-componentes-linux-tipos-shells-comandos/)
 
 ### Descripción:
 
 
 Linux tiene 3 partes principales:
 
-  * **Kernel** : Es el núcleo del Sistema Operativo y se gestionan los recursos de hardware como la memoria, el procesamiento y los dispositivos periféricos conectados al computador.
-  * **Shell** : Es el interprete, un programa con una interfaz de usuario permitiendo ejecutar las aplicaciones en un lenguaje de alto nivel y procesarlas en un lenguaje de bajo nivel para manipular y controlar aplicaciones y programas como nuestro proyecto.
-  * Aplicaciones: Son las aplicaciones con las que interactuamos día a día.
+* **Kernel** : Es el núcleo del Sistema Operativo y se gestionan los recursos de hardware como la memoria, el procesamiento y los dispositivos periféricos conectados al computador.
+* **Shell** : Es el interprete, un programa con una interfaz de usuario permitiendo ejecutar las aplicaciones en un lenguaje de alto nivel y procesarlas en un lenguaje de bajo nivel para manipular y controlar aplicaciones y programas como nuestro proyecto.
+* Aplicaciones: Son las aplicaciones con las que interactuamos día a día.
 
 
 
 Tipos de Shells:
 
-  * SH
-  * KSH
-  * CSH
-  * BASH
+* SH
+* KSH
+* CSH
+* BASH
 
 
 
 Algunos comandos para conocer información sobre el resto de comandos:
 
-  * `man [comando]`
-  * `info [comando]`
+* `man [comando]`
+* `info [comando]`
 
 
 
 ### Comentarios:
 
-* **Martín Leyva** (9)
+* **Martín Leyva** (9) [481505](https://platzi.com/comentario/481505/) 
 
-	
 	El comando “ **sudo** ”
 	
 	“Sudo” viene de “ ** _switch user do_** ” y permite a los usuarios ejecutar acciones con los privilegios de seguridad del **root** , de manera segura. Se instala por defecto en **/usr/bin**.
@@ -194,19 +169,16 @@ Algunos comandos para conocer información sobre el resto de comandos:
 	
 	Fuente: <http://www.ubuntu-guia.com/>
 
-	* **Sergio Sánchez** (10)
+	* **Sergio Sánchez** [481505] (10)
 
-		
 		creo que **sudo** es de _**superuser do**_
 
-* **jorgehernandezjd** (8)
+* **jorgehernandezjd** (8) [483586](https://platzi.com/comentario/483586/) 
 
-	
 	Hay otro shell llamado zsh muy potente
 
-* **José Francisco Casales Huerta** (6)
+* **José Francisco Casales Huerta** (6) [481486](https://platzi.com/comentario/481486/) 
 
-	
 	Les comparto mi resumen de la clase.
 	
 	**Kernel:** Es el núcleo del sistema operativo ademas de que ahí es donde se gestionan todos los recursos de hardware y los periféricos conectados al computador.
@@ -227,39 +199,32 @@ Algunos comandos para conocer información sobre el resto de comandos:
 	    info (comando del cual queremos saber mas)
 	```
 
-	* **Adriana Fernanda Moya Forero** (2)
+	* **Adriana Fernanda Moya Forero** [481486] (2)
 
-		
 		Excelente info!
 
-* **Diego Emanuel Ramirez** (5)
+* **Diego Emanuel Ramirez** (5) [636800](https://platzi.com/comentario/636800/) 
 
-	
 	Tipos de Shells https://www.taringa.net/+linux/tipos-de-shells_wpzwm
 
-* **EPadronU23** (4)
+* **EPadronU23** (4) [820578](https://platzi.com/comentario/820578/) 
 
-	
 	Hagamos un _drinking game_. Cada vez que Marco diga la palabra **_tema_** , tomamos x’D
 
-	* **rafster.15** (0)
+	* **rafster.15** [820578] (0)
 
-		
 		terminaremos con coma alcohólica en menos de media hora.
 
-* **Lian Nivin** (4)
+* **Lian Nivin** (4) [483325](https://platzi.com/comentario/483325/) 
 
-	
 	Este nuevo curso de Shell esta bravazo, mucho mas entendible que el anterior. Felicitaciones Platzi!
 
-	* **Marco Antonio Toscano Freire** (2)
+	* **Marco Antonio Toscano Freire** [483325] (2)
 
-		
 		Gracias Liam
 
-* **Antonio Rafael González Ferrer** (3)
+* **Antonio Rafael González Ferrer** (3) [785707](https://platzi.com/comentario/785707/) 
 
-	
 	Apuntes:
 	
 	**Componentes de Linux, Tipos de Shell y Comandos de información**
@@ -279,98 +244,83 @@ Algunos comandos para conocer información sobre el resto de comandos:
 	• CSH  
 	• BASH
 
-* **hanuman80** (3)
+* **hanuman80** (3) [534159](https://platzi.com/comentario/534159/) 
 
-	
 	Interesante curso, el contenido se ve super útil y aplicable.
 
-* **HeartHunter** (2)
+* **HeartHunter** (2) [921584](https://platzi.com/comentario/921584/) 
 
-	
 	1 clase por dia
 
-	* **durbonca** (2)
+	* **durbonca** [921584] (2)
 
-		
 		nunca pares de aprender
 
-* **sistemasSML** (2)
+* **sistemasSML** (2) [863828](https://platzi.com/comentario/863828/) 
 
-	
 	que version de linux usa?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [863828] (2)
 
-		
 		Si no me equivoco está conectado vía SSH a una máquina con Ubuntu Server
 
-	* **Christian Hernandez Najera** (2)
+	* **Christian Hernandez Najera** [863828] (2)
 
-		
 		Te refieres al kernel? Si es eso el estandar creo es 4.4  
 		Si te refieres a version de ubuntu supongo que lts 18
 
-* **everthpintadobellido** (2)
+* **everthpintadobellido** (2) [861305](https://platzi.com/comentario/861305/) 
 
-	
 	puede con wsl en win10
 
-* **toguxd** (2)
+* **toguxd** (2) [746719](https://platzi.com/comentario/746719/) 
 
-	
 	Gracias Guido por el curso de dockers!!!
 
-* **kevinenriquearciniegaschacon** (2)
+* **kevinenriquearciniegaschacon** (2) [646500](https://platzi.com/comentario/646500/) 
 
-	
 	muy interesante
 
-* **Pablo Etcheverry** (2)
+* **Pablo Etcheverry** (2) [483304](https://platzi.com/comentario/483304/) 
 
-	
 	Aprovecho para consultar. ¿Qué diferencia hay entre ejecutar un comanto una vez entrado en root (#) y ejecutar el comando con sudo estando en un usario diferente a root?
 
-	* **Marco Antonio Toscano Freire** (7)
+	* **Marco Antonio Toscano Freire** [483304] (7)
 
-		
 		Estimado Pablo,
 		
 		No existe diferencia en la ejecución del comando, al ejecutar con sudo lo que estas haciendo es otorgando momentaneamente los permisos de root para la ejecución de ese comando. Cuando te logeas como root tienes un control total no momentaneo, en el cual puedes realizar cualquier tema.
 
-* **rafster.15** (1)
+* **rafster.15** (1) [931725](https://platzi.com/comentario/931725/) 
 
-	
 	me agrada mucho el curso y se ve que el profesor marco tiene muchísimo conocimiento sobre el área que dicta lo que me cuesta digerir es la muletilla constante de "El tema.
 
-* **Emerson Cedeño Salazar** (1)
+* **Emerson Cedeño Salazar** (1) [739624](https://platzi.com/comentario/739624/) 
 
-	
 	el enlace al que se hizo mención para conocer las diferencias entre las diferentes shells que hay?
 
-* **Óscar González arroyo** (1)
+* **Óscar González arroyo** (1) [68208](https://platzi.com/comentario/736745/) 
 como se que versión de shell utilizo?
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [68208] (2)
 
-		
 		Puedes hacer `echo $0` o `ps -p $$`
 
-* **Pablo Etcheverry** (1)
+* **Pablo Etcheverry** (1) [50778](https://platzi.com/comentario/483304/) 
 Aprovecho para consultar. ¿Qué diferencia hay entre ejecutar un comanto una vez entrado en root (#) y ejecutar el comando con sudo estand...
 
-	* **Marco Antonio Toscano Freire** (7)
+	* **Marco Antonio Toscano Freire** [50778] (7)
 
-		
 		Estimado Pablo,
 		
 		No existe diferencia en la ejecución del comando, al ejecutar con sudo lo que estas haciendo es otorgando momentaneamente los permisos de root para la ejecución de ese comando. Cuando te logeas como root tienes un control total no momentaneo, en el cual puedes realizar cualquier tema.
 
-## 0030. Bash scripting
+## 0030. Bash scripting [16548](https://platzi.com/clases/1468-bash-shell/16548-basch-scripting/)
 
 ### Descripción:
 
 
-  * **Bash Scripting**
+* **Bash Scripting**
 
 
 
@@ -383,9 +333,8 @@ Presionamos `ESC` para salir del modo edición, luego escribimos `:wq` para sali
 
 ### Comentarios:
 
-* **José Alberto Núñez Magadán** (14)
+* **José Alberto Núñez Magadán** (14) [482531](https://platzi.com/comentario/482531/) 
 
-	
 	Para configurar el editor vim debemos estar en **$home**  
 	Creamos el archivo llamado .vimrc con el comando: **vim .vimrc**  
 	Presionamos la tecla i para editar, ponemos:  
@@ -396,75 +345,63 @@ Presionamos `ESC` para salir del modo edición, luego escribimos `:wq` para sali
 	syntax on**  
 	Presionamos **:wq** para salir y guardar
 
-	* **Luis Gerardo Rodriguez Arteaga** (10)
+	* **Luis Gerardo Rodriguez Arteaga** [482531] (10)
 
-		
 		También se le puede agregar: set nu  
 		y se ven los numeros de las lineas, en archivos grandes es muy util!
 
-	* **willeonardo19** (1)
+	* **willeonardo19** [482531] (1)
 
-		
 		Gracias
 
-* **Martín Leyva** (14)
+* **Martín Leyva** (14) [481506](https://platzi.com/comentario/481506/) 
 
-	
 	 **¿Qué es el bash scripting?**
 	
 	La idea básica de bash scripting o **_programación en shell_** es poder ejecutar múltiples comandos de forma secuencial para automatizar una tarea en específico.
 	
 	Estos comandos son colocados en un archivo de texto simple y ejecutados en una terminal por el usuario.
 
-	* **Marco Antonio Toscano Freire** (4)
+	* **Marco Antonio Toscano Freire** [481506] (4)
 
-		
 		Correcto tu resumen Martin
 
-	* **Carmen Sánchez Salgado** (1)
+	* **Carmen Sánchez Salgado** [481506] (1)
 
-		
 		Hola Martin y Marco,  
 		¿la programación en Bash se podría considerar como programación estructurada?  
 		Gracias y saludos cordiales.
 
-* **josemdiaza** (4)
+* **josemdiaza** (4) [693455](https://platzi.com/comentario/693455/) 
 
-	
 	Lo que se habilitó en Vim; <https://gist.github.com/ruph/1437650>
 
-	* **José B. Méndez Padín** (2)
+	* **José B. Méndez Padín** [693455] (2)
 
-		
 		Gracias por el aporte.
 
-* **piandes** (3)
+* **piandes** (3) [615415](https://platzi.com/comentario/615415/) 
 
-	
 	hubo un error en el .vimrc  
 	se guardo  
 	set autoident  
 	en vez de  
 	set autoindent
 
-	* **Jeffersson Muñoz Torres** (1)
+	* **Jeffersson Muñoz Torres** [615415] (1)
 
-		
 		El profesor muestra una corrección en la siguiente clase
 
-	* **josemdiaza** (1)
+	* **josemdiaza** [615415] (1)
 
-		
 		haces `vim .vimrc` y luego presionas “i” y ya podras editar.
 
-* **Nicolasdds** (3)
+* **Nicolasdds** (3) [517522](https://platzi.com/comentario/517522/) 
 
-	
 	Me encanta cuando Belén aparece derrepente… me levanta el ánimo. 😄
 
-* **freddymm** (2)
+* **freddymm** (2) [891773](https://platzi.com/comentario/891773/) 
 
-	
 	La configuración del editor de texto se puede realizar para cada usuario o para todo el sistema. En el primer caso se debe crear o modificar un archivo llamado ~/.nanorc con las modificaciones que te permite el editor, para el segundo caso se debe modificar el archivo que está en la dirección /etc/nanorc.  
 	.  
 	Algunas de las funciones que facilitan la edición son  
@@ -473,32 +410,27 @@ Presionamos `ESC` para salir del modo edición, luego escribimos `:wq` para sali
 	**set tabstospaces**  
 	**set linenumbers**
 
-	* **Jorge Montaño** (2)
+	* **Jorge Montaño** [891773] (2)
 
-		
 		añado un comentario si estas en vim y necesitas ver el nro de lineas y no lo tienes ajustado por defecto puedes escribir
 		    set nu  
 		y para quitar el numero de lineas
 		    set nu!
 
-* **Gtiseira** (2)
+* **Gtiseira** (2) [738987](https://platzi.com/comentario/738987/) 
 
-	
 	Wow! me parece hiperinteresante… espero poder practicar mucho para agarrar bien el hilo y sacarle toda la partida de este nuevo conocimiento!
 
-* **ldlopez** (1)
+* **ldlopez** (1) [958487](https://platzi.com/comentario/958487/) 
 
-	
 	Buen video, muy claro en la explicación.
 
-* **predator0077** (1)
+* **predator0077** (1) [808061](https://platzi.com/comentario/808061/) 
 
-	
 	Super interesante lo que podemos llegar a crear en la Bash
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [785730](https://platzi.com/comentario/785730/) 
 
-	
 	Apuntes:
 	
 	¿Qué es el bash scripting?
@@ -507,46 +439,39 @@ Presionamos `ESC` para salir del modo edición, luego escribimos `:wq` para sali
 	
 	Estos comandos son colocados en un archivo de texto simple y ejecutados en un terminal por el usuario.
 
-* **Nicolasdds** (1)
+* **Nicolasdds** (1) [517803](https://platzi.com/comentario/517803/) 
 
-	
 	Resumen: bash -v = cat.
 
-## 0040. Crear nuestro primer Script
+## 0040. Crear nuestro primer Script [16547](https://platzi.com/clases/1468-bash-shell/16547-crear-nuestro-primer-script/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Diego Ramirez Baylón** (3)
+* **Juan Diego Ramirez Baylón** (3) [500282](https://platzi.com/comentario/500282/) 
 
-	
 	No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 
-	* **Julio J Yépez** (10)
+	* **Julio J Yépez** [500282] (10)
 
-		
 		Cuando colocas la cabecera **`!/bin/bash`** a un archivo, que a su vez has dado permisos de ejecución `--x--x`, estás indicando al sistema operativo cuál será la aplicación que se encargará de hacer dicha ejecución … De esta manera pudieras colocarle incluso cualquier extensión al archivo ya que al ejecutarlo con la instrucción de la terminal **`>./archivo.ext`**, sería esta cabecera la que definirá su comportamiento.
 
-	* **Nicolasdds** (1)
+	* **Nicolasdds** [500282] (1)
 
-		
 		Sin embargo por lo que tengo entendido el # es solamente un comentario, por lo que si ejecutas $ bash [curso.sh](http://curso.sh) sin “#! /bin/bash” va andar igual, incluso si le quitas la extension y digitas $ bash curso se va ejecutar de la misma forma sin “#! /bin/bash”.
 
-	* **Nicolasdds** (1)
+	* **Nicolasdds** [500282] (1)
 
-		
 		Lo acabo de comprobar…
 
-	* **eberangel** (2)
+	* **eberangel** [500282] (2)
 
-		
 		Sirve para llamar al intérprete en este caso BASH.
 
-	* **Javi Felices** (5)
+	* **Javi Felices** [500282] (5)
 
-		
 		En el curso de terminal, beco lo explica muy bien, si por ejemplo tienes un archivo php, para ejecutarlo tendrías que indicar `php nombre-de-fichero.php`. Si pongo `./info.php` saldrá un fallo. En cambio, si al principio del archivo añado la ruta del ejecutable php, si ejecuto ./info.php ahora sí mostrará el resultado. Habría que añadir como primer línea lo siguiente:
 		
 		`#!/usr/bin/php`
@@ -557,87 +482,75 @@ Presionamos `ESC` para salir del modo edición, luego escribimos `:wq` para sali
 		
 		PD: Los ficheros deben de tener permisos de ejecución.
 
-* **Mario Emiliano Gordon Pico** (2)
+* **Mario Emiliano Gordon Pico** (2) [797978](https://platzi.com/comentario/797978/) 
 No me gusta esa muletilla del profesor! Creo q dice la misma palabra como mil veces....
 
-* **Roger Almengor Gonzalez** (1)
+* **Roger Almengor Gonzalez** (1) [711091](https://platzi.com/comentario/711091/) 
 
-	
 	Excelente clase. De verdad disfruto mucho las clases con el Profesor Marco Toscano.
 
-* **GibsPM** (1)
+* **GibsPM** (1) [691986](https://platzi.com/comentario/691986/) 
 
-	
 	Va gustando esta clase, gracias profesor Freire.
 
-* **json0410** (1)
+* **json0410** (1) [510745](https://platzi.com/comentario/510745/) 
 
-	
 	Saludos a todos, tengo una pregunta hay alguna forma de realizar un script en un editor de texto que sea diferente a VIM como vs code o atom donde se puedan crear shell
 	
 	Esta genial este curso.
 
-	* **Brian Rodriguez** (1)
+	* **Brian Rodriguez** [510745] (1)
 Si, puedes usar cualquier editor asegurate de la extension del archivo y luego lo ejecutas desde la terminal.
 
-	* **Daniel Rodriguez Rodriguez** (6)
+	* **Daniel Rodriguez Rodriguez** [510745] (6)
 
-		
 		Se que duele el editor vim, pero por experiencia es mejor hacer el esfuerzo de usar vim o nano.
 		
 		El 80% de la veces las cosas que quieres editar están detrás de una conexión ssh por lo que tendrás que usar un ftp descargarlo editarlo probarlo y vuelta a empezar hasta que este listo.
 
-	* **adrianrbp** (1)
+	* **adrianrbp** [510745] (1)
 
-		
 		si, y en algunos lugares(servers) solo hay vi o nano, sin posibilidad de utilizar vim.
 
-	* **GibsPM** (1)
+	* **GibsPM** [510745] (1)
 
-		
 		@DanielCleanDev interesante punto el que manejas, consideraba también usar otro editor, pero_ vi_ o _vim_ es como usar notepad para el html.
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [481128](https://platzi.com/comentario/481128/) 
 
-	
 	genial este curso profe
 
-	* **Marco Antonio Toscano Freire** (1)
+	* **Marco Antonio Toscano Freire** [481128] (1)
 
-		
 		Gracias Alfonso
 
-	* **Lorena Cardona Tovar** (1)
+	* **Lorena Cardona Tovar** [481128] (1)
 Muy buen curso, solo como sugerencia seria bueno explicar porque debe tener la extensión .sh
 
-	* **Sebastian Veliz Ysla** (2)
+	* **Sebastian Veliz Ysla** [481128] (2)
 
-		
 		@Lorecardoto el .sh se refiere a que el documento estás escrito en bash
 
-	* **dsmastrodomenic** (3)
+	* **dsmastrodomenic** [481128] (3)
 
-		
 		@Lorecardoto la extensión **.sh** se refiere a que el archivo es un **Shell Script** , el cual esta diseñado para correr en el interprete de comando del **shell Unix**.
 
-* **Juan Diego Ramirez Baylón** (1)
+* **Juan Diego Ramirez Baylón** (1) [52082](https://platzi.com/comentario/500282/) 
 No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 
-	* **Julio J Yépez** (10)
+	* **Julio J Yépez** [52082] (10)
 
-		
 		Cuando colocas la cabecera **`!/bin/bash`** a un archivo, que a su vez has dado permisos de ejecución `--x--x`, estás indicando al sistema operativo cuál será la aplicación que se encargará de hacer dicha ejecución … De esta manera pudieras colocarle incluso cualquier extensión al archivo ya que al ejecutarlo con la instrucción de la terminal **`>./archivo.ext`**, sería esta cabecera la que definirá su comportamiento.
 
-## 0050. Ejecutar nuestro script con un nombre único
+## 0050. Ejecutar nuestro script con un nombre único [16550](https://platzi.com/clases/1468-bash-shell/16550-ejecutar-nuestro-script-con-un-nombre-unico/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **DaRk452** (12)
+* **DaRk452** (12) [494653](https://platzi.com/comentario/494653/) 
 
-	
 	Como menciona el profesor, el comando chmod +x es la forma rápida de dejar un archivo con permisos de ejecución. Si tienes problemas de memoria quizás sea el opción más fácil, en lugar de usar el típico chmod 7XX o similar.
 	
 	Agregar permisos de lectura: chmod +r  
@@ -656,14 +569,12 @@ No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 	
 	por último para cambiar para todos: chmod ugo+rwx (dará permisos de lectura, escritura y ejecucón a todos) , esto es equivalente a chmod 777
 
-	* **eleinybello** (1)
+	* **eleinybello** [494653] (1)
 
-		
 		muchas gracias!! =) buen aporte
 
-* **Esteban Blanco Ortuno** (6)
+* **Esteban Blanco Ortuno** (6) [684320](https://platzi.com/comentario/684320/) 
 
-	
 	 **Permisos - > numero_de_representación**
 	
 	— -> 0  
@@ -701,17 +612,15 @@ No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 	700 (RWX /—)  
 	Con este permiso el propietario tiene el control total del archivo mientras que los demás usuarios no tendrán acceso de ningún tipo al archivo.
 
-* **demateu** (5)
+* **demateu** (5) [804356](https://platzi.com/comentario/804356/) 
 
-	
 	De momento contentísima por haber encontrado este curso.  
 	Estoy cursando online el grado superior de desarrollo de apps y nunca entendí la forma de hacer un Script.  
 	De momento, aquí, en pocos minutos ya aprendí mas que en un mes.  
 	Gracias Marco!
 
-* **ejgachancipa** (4)
+* **ejgachancipa** (4) [691322](https://platzi.com/comentario/691322/) 
 
-	
 	chmod - change file mode bits
 	
 	La forma más simple de dar los permisos de ejecución al usuario:
@@ -720,9 +629,8 @@ No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 	    
 	```
 
-	* **durbonca** (1)
+	* **durbonca** [691322] (1)
 
-		
 		totalmente:
 		
 		[ugoa] + [rwx]
@@ -733,44 +641,37 @@ No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 		
 		fuente: “man chmod” (leer mas, ver menos videos)
 
-* **Pacool84** (3)
+* **Pacool84** (3) [1093790](https://platzi.com/comentario/1093790/) 
 
-	
 	Aqui entendi mejor la clase de permisos 😃
 
-* **SistemasCBC** (3)
+* **SistemasCBC** (3) [773790](https://platzi.com/comentario/773790/) 
 
-	
 	Otra forma de ejecutar un archivo .sh es ingresar “sh” al principio del script.
 	``` 
 	    sh example.sh
 	    
 	```
 
-* **Haroun Hussain Asto Rojas** (3)
+* **Haroun Hussain Asto Rojas** (3) [501384](https://platzi.com/comentario/501384/) 
 
-	
 	type [archivo]  
 	Para verificar si el nombre del archivo existe o no
 
-	* **YersonL** (1)
+	* **YersonL** [501384] (1)
 
-		
 		en realidad el uso destinado es ver el tipo de archivo que es jaja, aunque es igual de útil el que el uso
 
-	* **freddymm** (1)
+	* **freddymm** [501384] (1)
 
-		
 		Para rendirle honor a la realidad type se utiliza para idénticar la procedencia un ejecutable batch ya que este puede venir por defecto en shell de linux, puede venir de alguna instalación que hallamos hecho o puede ser un alias de otro comando
 
-* **JulioCardenasR** (3)
+* **JulioCardenasR** (3) [481192](https://platzi.com/comentario/481192/) 
 
-	
 	Correccion menor: en el minuto 6:57 escribiste mal el nombre del archivo es 1_utilityPostgres no 1_utitilyPostgres
 
-* **carlos1128** (2)
+* **carlos1128** (2) [946366](https://platzi.com/comentario/946366/) 
 
-	
 	Permisos sobre los archivos:
 	
 	4 - permisos de lectura  
@@ -790,47 +691,40 @@ No me quedó claro. ¿Cúal es la utilidad de !/bin/bash?
 	
 	chmod 764 <filename>
 
-* **zuramm** (2)
+* **zuramm** (2) [531208](https://platzi.com/comentario/531208/) 
 
-	
 	el profesor tiene un gran dominio sobre el tema y explica muy bien.
 
-	* **durbonca** (2)
+	* **durbonca** [531208] (2)
 
-		
 		hola! eres un bot?
 
-* **Alfonso Adame Rueda** (2)
+* **Alfonso Adame Rueda** (2) [481155](https://platzi.com/comentario/481155/) 
 
-	
 	me gusta la presentación personal del profe y su dominio del tema,  
 	como siempre platzi con lo mejor
 
-	* **Marco Antonio Toscano Freire** (2)
+	* **Marco Antonio Toscano Freire** [481155] (2)
 
-		
 		Gracias Alfonso
 
-* **geinerjv** (1)
+* **geinerjv** (1) [1116945](https://platzi.com/comentario/1116945/) 
 
-	
 	Lo de los permisos esta demasiado bien explicado, hasta que al fin logre entenderlos por completo
 
-* **freddymm** (1)
+* **freddymm** (1) [891821](https://platzi.com/comentario/891821/) 
 
-	
 	Los comandos se pueden clasificar en categorías de acuerdo a su procedencia. Algunos vienen incorporados en la shell, mientras que otros provienen de un paquete que hayamos instalado. También existe la posibilidad de que un comando sea en realidad un alias de otro comando con sus opciones.  
 	.  
 	**identificar** lo que menciono **es la función de type**
 
-* **dariovinueza** (1)
+* **dariovinueza** (1) [568700](https://platzi.com/comentario/568700/) 
 
-	
 	super profe!
 
-# Programación Shell Básica
+# Programación Shell Básica [3279]
 
-## 0060. Declaración de Variables y Alcance en Bash Shell
+## 0060. Declaración de Variables y Alcance en Bash Shell [16549](https://platzi.com/clases/1468-bash-shell/16549-declaracion-de-variables-y-alcance-en-bash-shell/)
 
 ### Descripción:
 
@@ -841,9 +735,8 @@ La programación Bash Shell es muy importante al momento de crear scripts que no
 
 ### Comentarios:
 
-* **JulioCardenasR** (4)
+* **JulioCardenasR** (4) [481329](https://platzi.com/comentario/481329/) 
 
-	
 	Para visualizar las variables de entorno se hace printenv
 	``` 
 	    LC_MEASUREMENT=es_CO.UTF-8
@@ -882,14 +775,12 @@ La programación Bash Shell es muy importante al momento de crear scripts que no
 	    
 	```
 
-	* **Marco Antonio Toscano Freire** (3)
+	* **Marco Antonio Toscano Freire** [481329] (3)
 
-		
 		Gracias por tu aporte Julio
 
-	* **DaRk452** (2)
+	* **DaRk452** [481329] (2)
 
-		
 		También se puede utilizar el comando env:
 		``` 
 		    [root@training ~]# env
@@ -919,26 +810,22 @@ La programación Bash Shell es muy importante al momento de crear scripts que no
 		    
 		```
 
-* **JoanXD** (3)
+* **JoanXD** (3) [621207](https://platzi.com/comentario/621207/) 
 
-	
 	La verdad es que esta configuración para pasar los valores de las variables  
 	de usuario entre disintos programas me parece super interesante y práctica.  
 	Magnifica la sessión Marco Antonio. Un saludo.
 
-* **jose-noel-marenco** (3)
+* **jose-noel-marenco** (3) [572839](https://platzi.com/comentario/572839/) 
 
-	
 	El video està caìdo.
 
-	* **mariandrea (Platzi)** (1)
+	* **mariandrea (Platzi)** [572839] (1)
 
-		
 		hola, gracias por reportarlo! ya lo encuentras disponible
 
-* **Luis Alberto Lazcano Cruz** (3)
+* **Luis Alberto Lazcano Cruz** (3) [531459](https://platzi.com/comentario/531459/) 
 
-	
 	 **1 Variables de entorno**  
 	Ayudan a obtener infromacion del sistema, almacenar informacion temporal y modificar su informacion. Existen 2 tipos:
 	
@@ -957,71 +844,59 @@ La programación Bash Shell es muy importante al momento de crear scripts que no
 	
 	-Variable local:_ Solo tiene alcance en el script que la creo.
 
-* **EPadronU23** (2)
+* **EPadronU23** (2) [822089](https://platzi.com/comentario/822089/) 
 
-	
 	`sudoedit` es preferible sobre `sudo [editor]`. En particular porque con `sudoedit`, nuestro archivo `.*rc` es usado, en lugar de aquel que pertenezca al usuario que estamos personificando (usualmente es _root_ ).
 
-* **SolNaranjo** (2)
+* **SolNaranjo** (2) [572730](https://platzi.com/comentario/572730/) 
 
-	
 	Dice que el video no esta disponible…
 
-	* **mariandrea (Platzi)** (1)
+	* **mariandrea (Platzi)** [572730] (1)
 
-		
 		hola, gracias por tu reporte. Ya está disponible la clase
 
-	* **SolNaranjo** (1)
+	* **SolNaranjo** [572730] (1)
 
-		
 		Gracias!
 
-* **cesarvillegas** (2)
+* **cesarvillegas** (2) [555938](https://platzi.com/comentario/555938/) 
 
-	
 	Si quieren declarar una variable de entorno o una variable en su shell bash la recomendación es hacerlo siempre en mayúsculas.
 	
 	VARIABLE=valor
 	
 	Es importante no dejar espacios entre el nombre de la variable y su valor
 
-* **Alfonso Adame Rueda** (2)
+* **Alfonso Adame Rueda** (2) [481871](https://platzi.com/comentario/481871/) 
 
-	
 	hola buenas tardes quien me dice como pongo el auto completado ya edite mi archivo de vim.rc
 
-	* **Marco Antonio Toscano Freire** (3)
+	* **Marco Antonio Toscano Freire** [481871] (3)
 
-		
 		Alfonso debes instalar el paquete sudo apt-get install bash-completion
 
-	* **cesarvillegas** (2)
+	* **cesarvillegas** [481871] (2)
 
-		
 		te recomiendo utilizar un gestor de plugins para vim, personalmente utilizo vundle  
 		<https://github.com/VundleVim/Vundle.vim>
 
-* **Alfonso Adame Rueda** (2)
+* **Alfonso Adame Rueda** (2) [481845](https://platzi.com/comentario/481845/) 
 
-	
 	hola buenas tardes , para los que no tienen la iso de un ubuntu server la pueden descargar desde el curso de administración de servidores linux
 
-	* **José Francisco Casales Huerta** (1)
+	* **José Francisco Casales Huerta** [481845] (1)
 
-		
 		O las pueden descargar del siguiente enlace
 		
 		[](https://www.ubuntu.com/download/server/thank-you?version=18.04.1&architecture=amd64)
 
-	* **José Francisco Casales Huerta** (1)
+	* **José Francisco Casales Huerta** [481845] (1)
 
-		
 		[https://www.ubuntu.com/download/server/thank-you?version=18.04.1&architecture=amd64](https://www.ubuntu.com/download/server/thank-you?version=18.04.1&architecture=amd64)
 
-* **Junior Cupe Casquina** (2)
+* **Junior Cupe Casquina** (2) [481318](https://platzi.com/comentario/481318/) 
 
-	
 	FIle 1
 	``` 
 	    #!/usr/bin/env bash
@@ -1059,63 +934,52 @@ La programación Bash Shell es muy importante al momento de crear scripts que no
 	    
 	```
 
-	* **Marco Antonio Toscano Freire** (1)
+	* **Marco Antonio Toscano Freire** [481318] (1)
 
-		
 		Excelente trabajo
 
-* **Emmanuel García** (1)
+* **Emmanuel García** (1) [1114758](https://platzi.com/comentario/1114758/) 
 
-	
 	Es horrible el azul que usa en la terminal, no puedo leer lo que escribe. No pongan esos colores y eviten dañarse los ojos.
 
-* **Danilo Josué Huacón Aguirre** (1)
+* **Danilo Josué Huacón Aguirre** (1) [1023326](https://platzi.com/comentario/1023326/) 
 
-	
 	4:43 “Utilizamos el signo de sucre”. Hahaha muy buena profe. Como todo ecuatoriano del alma.
 
-* **Jose Alfredo Vallejos de la Sancha** (1)
+* **Jose Alfredo Vallejos de la Sancha** (1) [897942](https://platzi.com/comentario/897942/) 
 
-	
 	muy bueno estoy aprendiendo mucho es emocionate
 
-* **freddymm** (1)
+* **freddymm** (1) [892785](https://platzi.com/comentario/892785/) 
 Con esta clase aclare una duda que tenía desde aproximadamente 4 meses que vi las clases de introducción a la terminal.
 
-	* **Jose Alfredo Vallejos de la Sancha** (1)
+	* **Jose Alfredo Vallejos de la Sancha** [892785] (1)
 
-		
 		excelente esta bueno el curso
 
-* **Edwin De Jesus Chiyopa Garcia** (1)
+* **Edwin De Jesus Chiyopa Garcia** (1) [788355](https://platzi.com/comentario/788355/) 
 
-	
 	Muy interesante, no habia manejado los alcance de las variables
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [694331](https://platzi.com/comentario/694331/) 
 
-	
 	Hay algo que no me queda claro con respecto a esta clase. Con este ejercicio que hemos realizado, hemos conseguido imprimir el contenido del **script2** en el **script1** con las variables del mismo **script1**. Pero que pasaría si yo quisiera imprimir la variable del **script1** en el **script2**??
 
-	* **GibsPM** (2)
+	* **GibsPM** [694331] (2)
 
-		
 		Colocar la orden export en el script2  
 		y escribir dentro de script2 que script1 recibirá esa variable.
 
-	* **josemdiaza** (1)
+	* **josemdiaza** [694331] (1)
 
-		
 		@GibsPM sigue sin quedarme claro, podrías poner un ejemplo?
 
-	* **GibsPM** (1)
+	* **GibsPM** [694331] (1)
 
-		
 		@josemdiaza ¿podrías explicar con más detalle tu duda? Esto para evitar darte un rollo que quizás no te sirva 😃
 
-	* **freddymm** (1)
+	* **freddymm** [694331] (1)
 
-		
 		Las variables del script 1 solo estaran disponibles en el script 2 de la forma que mostro el profesor es decir siguiendo estos pasos:  
 		1)declarar la variable  
 		2)exportar la variable  
@@ -1125,43 +989,37 @@ Con esta clase aclare una duda que tenía desde aproximadamente 4 meses que vi l
 		.  
 		Si quieres tener una variable disponible para todos los scripts sin realizar estos pasos tendrias que declarar la variable y exportarla en el archivo **/etc/profile** es decir hacer una variable global
 
-* **Carlos Augusto Pérez Méndez** (1)
+* **Carlos Augusto Pérez Méndez** (1) [664029](https://platzi.com/comentario/664029/) 
 
-	
 	Volví a editar el archivo en /etc/profile y comenté la variable  
 	o lo que se añadió en la práctica del vídeo y el problema se solucionó  
 	es decir, ya no manda le error que comenté abajo, sin embargo, ¿en qué afecta para las prácticas posteriores?
 
-	* **Carlos Augusto Pérez Méndez** (2)
+	* **Carlos Augusto Pérez Méndez** [664029] (2)
 ![Captura de pantalla de 2019-07-24 22-46-31.jpg](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-07-24%2022-46-31-bbf2f06e-d4ac-4b43-8853-b732ff05dc08.jpg)
 
-	* **Alan Onofre Machorro** (4)
+	* **Alan Onofre Machorro** [664029] (4)
 
-		
 		`COURSE_NAME="Programacion Bash"`
 		
 		Cuando utilices cadenas siempre procura ponerlas entre comillas sino te van a saltar ese tipo de errores
 
-	* **Carlos Augusto Pérez Méndez** (1)
+	* **Carlos Augusto Pérez Méndez** [664029] (1)
 
-		
 		!Muchas gracias por el dato!, aquí se aprende mucho.
 		
 		Saludos.
 
-	* **willeonardo19** (1)
+	* **willeonardo19** [664029] (1)
 
-		
 		Yo tambien tuve ese mismo problema, me extraño que no encerrara entre comillas el string.
 
-* **Esneider Sanabria** (1)
+* **Esneider Sanabria** (1) [492637](https://platzi.com/comentario/492637/) 
 
-	
 	buenas no me esta tomando la variable nombre y cuando la exporto no se resalta de color azul
 
-	* **DaRk452** (2)
+	* **DaRk452** [492637] (2)
 
-		
 		No te resalta en el segundo script?
 		
 		Por favor prueba los siguientes scripts, asegurate que sean ejecutables:
@@ -1195,84 +1053,73 @@ Con esta clase aclare una duda que tenía desde aproximadamente 4 meses que vi l
 		    
 		```
 
-* **scdark398** (1)
+* **scdark398** (1) [482111](https://platzi.com/comentario/482111/) 
 
-	
 	porque cuando ejecuto el segundo archivo llamado 2_varibles_2.sh  
 	no me sale el nombre ?
 
-	* **Alfonso Adame Rueda** (1)
+	* **Alfonso Adame Rueda** [482111] (1)
 
-		
 		hola buenas noches,te pregunto ya le diste los permisos de ejecución  
 		después pones : bash 2_variables_2.sh  
 		de todas formas sube una foto de lo que te sale  
 		gracias
 
-	* **DaRk452** (1)
+	* **DaRk452** [482111] (1)
 
-		
 		Hola, estás ejecutando el segundo script desde el primero verdad? Como bien dice Alfonso, por favor pon un screenshot para ver qué estás ejecutando y cómo.
 		
 		Saludos!
 
-	* **Alfonso Adame Rueda** (1)
+	* **Alfonso Adame Rueda** [482111] (1)
 
-		
 		tal vez estas escribiendo mal
 
-	* **GibsPM** (1)
+	* **GibsPM** [482111] (1)
 
-		
 		El script está programado para ejecutarse correctamente dentro de _2_variables.sh_  
 		Si ejecutas _2_variables_2.sh_ , recibirás nada, por lo que no aparece nombre alguno: ![sh.JPG](https://static.platzi.com/media/user_upload/sh-26e82b6c-3e40-4f8c-816d-e5cba576a766.jpg)
 
-	* **aalvarez75PlZ** (1)
+	* **aalvarez75PlZ** [482111] (1)
 
-		
 		Estas ejecutando el segundo .sh el cual solo te muestra lo que esta botando el comando echo pero es el 1er .sh el que debes ejecutar ya que es el que va a exportar la variable nombre.
 
-	* **Emmanuel García** (1)
+	* **Emmanuel García** [482111] (1)
 
-		
 		Por que estas exportando en 2_variable.sh no en 2_variable_2.sh
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [83535](https://platzi.com/comentario/1029396/) 
 Hola. En Ubuntu el archivo profile esta en /etc/profile. Mi pregunta, para los que usamos Mac esta es la misma ruta? Gracias
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [83535] (2)
 
-		
 		Sí, se tiene la misma ruta ya que MacOS se basa en una distribución Linux. Sólo ten en cuenta lo siguiente:
 		
-		  * Para configuraciones de sistema, usa `/etc/profile`.
-		  * Para configuraciones basadas por usuario, usa `~/.bash_profile`.
-		  * Para configuraciones que no requieren una terminal interactiva (background jobs), usa `~/.bashrc`.
+		* Para configuraciones de sistema, usa `/etc/profile`.
+		* Para configuraciones basadas por usuario, usa `~/.bash_profile`.
+		* Para configuraciones que no requieren una terminal interactiva (background jobs), usa `~/.bashrc`.
 		
 		
 
-* **scdark398** (1)
+* **scdark398** (1) [50674](https://platzi.com/comentario/482111/) 
 porque cuando ejecuto el segundo archivo llamado 2_varibles_2.sh no me sale el nombre ?
 
-	* **Alfonso Adame Rueda** (1)
+	* **Alfonso Adame Rueda** [50674] (1)
 
-		
 		hola buenas noches,te pregunto ya le diste los permisos de ejecución  
 		después pones : bash 2_variables_2.sh  
 		de todas formas sube una foto de lo que te sale  
 		gracias
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [50637](https://platzi.com/comentario/481871/) 
 hola buenas tardes quien me dice como pongo el auto completado ya edite mi archivo de vim.rc
 
-	* **Marco Antonio Toscano Freire** (3)
+	* **Marco Antonio Toscano Freire** [50637] (3)
 
-		
 		Alfonso debes instalar el paquete sudo apt-get install bash-completion
 
-* **Carlos Augusto Pérez Méndez** (0)
+* **Carlos Augusto Pérez Méndez** (0) [664005](https://platzi.com/comentario/664005/) 
 
-	
 	Ahora que quiero entrar a mi perfil en Ubuntu cuando ingreso la contraseña  
 	me manda un error más o menos así: /etc/profile: (un número que no recuerdo):bash:
 	
@@ -1283,28 +1130,26 @@ hola buenas tardes quien me dice como pongo el auto completado ya edite mi archi
 	
 	saludos y muy buena clase.
 
-## 0070. Tipos de Operadores
+## 0070. Tipos de Operadores [16552](https://platzi.com/clases/1468-bash-shell/16552-tipos-de-operadores/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **José Francisco Casales Huerta** (8)
+* **José Francisco Casales Huerta** (8) [483551](https://platzi.com/comentario/483551/) 
 
-	
 	Agregue algunos saltos de linea para dar un poco de formato.
 	
 	![codigo.jpg](https://static.platzi.com/media/user_upload/codigo-a0b4de1a-c517-45f0-b849-149bc9abdb1f.jpg) ![salida.jpg](https://static.platzi.com/media/user_upload/salida-470381f0-4394-4ca0-a132-6f05e293c686.jpg)
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [483551] (1)
 
-		
 		Te sugiero compartir el script como texto para que otros lo podamos ejecutar en nuestras máquinas.
 		
 		Muchas gracias por el aporte.
 
-* **Junior Cupe Casquina** (6)
+* **Junior Cupe Casquina** (6) [481377](https://platzi.com/comentario/481377/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -1353,71 +1198,63 @@ hola buenas tardes quien me dice como pongo el auto completado ya edite mi archi
 	    
 	```
 
-	* **Marco Antonio Toscano Freire** (1)
+	* **Marco Antonio Toscano Freire** [481377] (1)
 
-		
 		Genial sigue asì 😉
 
-* **Franky Polanco Carrillo** (2)
+* **Franky Polanco Carrillo** (2) [64176](https://platzi.com/comentario/671602/) 
 $((A+B)) no entendí la explicación pq no usar $(A+B)
 
-	* **Jeffersson Muñoz Torres** (5)
+	* **Jeffersson Muñoz Torres** [64176] (5)
 
-		
 		La expresión “ _$variable_ ” realiza que se imprima el contenido de la variable como si fuera un tipo de dato String aunque ,como en el caso del ejemplo del profesor, son enteros.  
 		.  
 		Ahora, los primeros paréntesis o paréntesis externos de la expresión “ ** _$((A+B))_** ” indican el limite a que refiere la expresión, es decir su alcance de impresión. Lo que contiene lo paréntesis internos es un calculo o una operación que se realiza con su tipo de variable “nativo”, es decir, como enteros. Es por ello, que las operaciones de relaciones y asignación no tienen inconvenientes en resolverse al igual que los aritméticos.  
 		.  
 		Mas si se usará la expresión “ ** _$(A+B)_** ”, en la consola nos saldría un error.
 
-* **jlrc23** (2)
+* **jlrc23** (2) [62747](https://platzi.com/comentario/645852/) 
 Presione 4 veces Y y no copio 4 lineas solo dos, intente presionarlo mas veces y solo me copio una linea
 
-	* **_MendozaDiego** (5)
+	* **_MendozaDiego** [62747] (5)
 
-		
 		La idea es presionar Tecla Esc + (Tecla número 4) + Tecla Y (2 veces) Moverse a la línea a pegar + Tecla Esc + Tecla P.
 
-* **GibsPM** (1)
+* **GibsPM** (1) [699819](https://platzi.com/comentario/699819/) 
 
-	
 	En el ejercicio del profesor, en la sección “ _Operadores Asignación_ ”, ¿no deberían ser los resultados **6** y **2** en las líneas de restar y dividir respectivamente? Muestra el **10** en ambos casos.
 
-	* **Sergui20** (3)
+	* **Sergui20** [699819] (3)
 
-		
 		Recuerda que en ese caso A se está reasignando, es decir, en sumar A = 14, en restar A = 10, etc. En otras palabras, el valor de A está cambiando mientras se está ejecutando el programa.
 
-	* **Rüyasi Chanove Guzmán** (1)
+	* **Rüyasi Chanove Guzmán** [699819] (1)
 
-		
 		Lo que sucede es que cuando se utilizan estos tipos de operadores, sean **+=, -=,*=, /=, %=** , lo que se esta haciendo es una operación aritmética y una de asignación al mismo tiempo. Es decir, en el caso de A += B, es lo mismo que decir A = A + B. Se hace la **suma y luego se almacena en A**. Y **en el caso que mencionas primero se habia dejado a A = 14** , por el resultado de A+=B, si luego haces A-=B vuelve a A = 10, algo similar sucede con la división, ya que antes se había realizado una multiplicación
 
-* **Alfonso Adame Rueda** (1)
-![programacionBash.PNG](https://static.platzi.com/media/user_upload/programacionBash-3cd3775c-e6a2-4bcf-9310-cb017d347a20.jpg)
+* **Alfonso Adame Rueda** (1) [482276](https://platzi.com/comentario/482276/) 
+	
+	![programacionBash.PNG](https://static.platzi.com/media/user_upload/programacionBash-3cd3775c-e6a2-4bcf-9310-cb017d347a20.jpg)
 
-	* **Marco Antonio Toscano Freire** (1)
+	* **Marco Antonio Toscano Freire** [482276] (1)
 
-		
 		Genial Alfonso, sigue así 😉
 
-* **dfpinzons** (1)
+* **dfpinzons** (1) [72667](https://platzi.com/comentario/820297/) 
 Es posible manejar números dobles?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [72667] (1)
 
-		
 		 **Bash** en sí no soporta números con punto decimal, sólo enteros.
 
-* **Óscar González arroyo** (1)
+* **Óscar González arroyo** (1) [68224](https://platzi.com/comentario/736993/) 
 Para copiar todas las diferentes lineas, cuando dice 4 yy, hay que presionar otra tecla?? No puedo copiar varias a la vez?
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [68224] (1)
 
-		
 		`yy` copia una línea completa. Para copiar `n` líneas, precedes el comando `yy` con `n`. Si quiero copiar la línea sobre la cual se encuentra el cursor, y adicionalmente quiero copiar las tres siguientes líneas, estando en modo normal (luego de presionar espace) introduciría el comando `4yy` y posteriormente `p` para pegarlas.
 
-## 0080. Script con Argumentos
+## 0080. Script con Argumentos [16551](https://platzi.com/clases/1468-bash-shell/16551-script-con-argumentos/)
 
 ### Descripción:
 
@@ -1431,9 +1268,8 @@ Hay algunos identificadores para cuando ejecutamos un script con argumentos
 
 ### Comentarios:
 
-* **Alan Onofre Machorro** (4)
+* **Alan Onofre Machorro** (4) [665269](https://platzi.com/comentario/665269/) 
 
-	
 	Tengo este script, para complementar, que muestra como funcionan los carácteres especiales de los que habla el profe y otros mas.  
 	Mi script utiliza Firefox para ejemplificar el último proceso en segundo plano, pueden cambiarlo por otro programa para que lo vean funcionar 😃
 	``` 
@@ -1490,9 +1326,8 @@ Hay algunos identificadores para cuando ejecutamos un script con argumentos
 	    
 	```
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [665269] (1)
 
-		
 		Gran trabajo. Me haz ahorrado ver el video.
 		
 		Unas pequeñas sugerencias aquí y allá:
@@ -1549,14 +1384,13 @@ Hay algunos identificadores para cuando ejecutamos un script con argumentos
 		    
 		```
 
-* **Haroun Hussain Asto Rojas** (4)
+* **Haroun Hussain Asto Rojas** (4) [510066](https://platzi.com/comentario/510066/) 
 
-	
 	`bash - v [schellname]` Permite ver el resultado detallado del script evaluado linea por linea
 	
 	`bash - x [schellname]` Información mas precisa y complementaria. Nos permite darnos cuenta cuando es comando, ingreso de información, salida, etc
 
-* **Junior Cupe Casquina** (4)
+* **Junior Cupe Casquina** (4) [481405](https://platzi.com/comentario/481405/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -1584,81 +1418,68 @@ Hay algunos identificadores para cuando ejecutamos un script con argumentos
 	    
 	```
 
-* **Haroun Hussain Asto Rojas** (3)
+* **Haroun Hussain Asto Rojas** (3) [510025](https://platzi.com/comentario/510025/) 
 
-	
 	`esc+dd` Borra una linea  
 	`esc+(cant)+dd` Borra la cantidad de lineas que indicas
 
-* **andriy33** (2)
+* **andriy33** (2) [875319](https://platzi.com/comentario/875319/) 
 
-	
 	Era tan dificil escoger un terminal que se vean bien las variables en vez de este espacio negro?Es desagradable seguir el curso con esta interfaz tan mala.
 
-	* **Ivan Rene Acosta Lallemand** (7)
+	* **Ivan Rene Acosta Lallemand** [875319] (7)
 
-		
 		Amigo así es que vas a trabajar en Linux, el que se meta con eso no creo que le importe mucho si se ve bonito o no
 
-	* **daniel alonso** (3)
+	* **daniel alonso** [875319] (3)
 
-		
 		Completamente de acuerdo. Lo mínimo que hubieran hecho sería cambiar la tipografía y el tamaño de letra. Estoy de acuerdo que así lo vas a ver cuando trabajes, pero para el curso es necesario hacer esos ajuste y evitar hacer el esfuerzo de tratar de ver lo que escribe, sobre todo porque no se aprovecha el espacio.
 
-	* **Jordan Ronaldo Buitrago Sandoval** (0)
+	* **Jordan Ronaldo Buitrago Sandoval** [875319] (0)
 
-		
 		Jajaja es vim sale bien
 
-	* **Ricardo Exequiel De Angelis** (3)
+	* **Ricardo Exequiel De Angelis** [875319] (3)
 
-		
 		no se ve una mierda las letras azules tenes q subir el brillo a 10000
 
-* **Jordan Ronaldo Buitrago Sandoval** (1)
+* **Jordan Ronaldo Buitrago Sandoval** (1) [974257](https://platzi.com/comentario/974257/) 
 
-	
 	the father of argc & argv
 
-* **Leonardo Perez Hurtado** (1)
+* **Leonardo Perez Hurtado** (1) [522987](https://platzi.com/comentario/522987/) 
 
-	
 	Excelente Marco.  
 	Muchas gracias por esto, fue genial
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [510059](https://platzi.com/comentario/510059/) 
 
-	
 	Para ejecutar el comando se puede utilizar:  
 	`pwd` o $(pwd)
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [510052](https://platzi.com/comentario/510052/) 
 
-	
 	“esc+(ctrl+v)” , Seleccionas y luego “d” = Elimina lo seleccionado
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [510013](https://platzi.com/comentario/510013/) 
 
-	
 	`$0` Nombre del Script  
 	`$1 al ${10}` El numero de argumento. Si es mas de un dígito se pone entre llaves.  
 	`$#` Contador de argumentos  
 	`$*` Refiere a todos los argumentos
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [496406](https://platzi.com/comentario/496406/) 
 
-	
 	$0 = Nombre del Script  
 	$1 al ${10} = El numero de argumento. Si es mas de un dígito se pone entre llaves.  
 	$# = Contador de argumentos  
 	$* = Refiere a todos los argumentos
 
-* **androw** (0)
+* **androw** (0) [536726](https://platzi.com/comentario/536726/) 
 
-	
 	Muy bueno el curso, solo que me gustaría que pusiera algunos ejercicios para entretenerme un rato pensando y aplicando lo aprendido.
 
-## 0090. Sustitución de Comandos en variables
+## 0090. Sustitución de Comandos en variables [16553](https://platzi.com/clases/1468-bash-shell/16553-sustitucion-de-comandos-en-variables/)
 
 ### Descripción:
 
@@ -1667,47 +1488,40 @@ Para la sustitución de comandos es importante tener en cuenta que el resultado 
 
 Las dos maneras de hacerlo:
 
-  * Usando el backtick caracter. (`)
-  * Usando el signo de dólar con el formato $(comando)
+* Usando el backtick caracter. (`)
+* Usando el signo de dólar con el formato $(comando)
 
 
 
 ### Comentarios:
 
-* **carlosmora_biz** (6)
+* **carlosmora_biz** (6) [626274](https://platzi.com/comentario/626274/) 
 
-	
 	El manejo de vim es ideal para dedicarle un curso
 
-* **ferroblesh** (5)
+* **ferroblesh** (5) [524240](https://platzi.com/comentario/524240/) 
 
-	
 	Para borrar todo debajo del cursor  
 	esc + d + shift(sin soltar) + g
 
-	* **Emerson Cedeño Salazar** (1)
+	* **Emerson Cedeño Salazar** [524240] (1)
 
-		
 		dicho de otra forma: `esc + d + G` 😜
 
-* **nicobytes** (2)
+* **nicobytes** (2) [984963](https://platzi.com/comentario/984963/) 
 
-	
 	Ya entiendo por que funciona el `docker ps $(docker ps -qa)`
 
-* **Edison Renato Valdez Vega** (2)
+* **Edison Renato Valdez Vega** (2) [496417](https://platzi.com/comentario/496417/) 
 
-	
 	esc + (cantidad de lineas a borrar)+dd = borrado masivo
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [961190](https://platzi.com/comentario/961190/) 
 
-	
 	Excelente curso
 
-* **Anthony Pernia** (1)
+* **Anthony Pernia** (1) [726970](https://platzi.com/comentario/726970/) 
 
-	
 	Soy el unico que se le ejecuta primero el pwd y luego el mensaje de la ubicacion?
 	``` 
 	    comienza
@@ -1717,14 +1531,12 @@ Las dos maneras de hacerlo:
 	    
 	```
 
-	* **freddymm** (1)
+	* **freddymm** [726970] (1)
 
-		
 		seguro es por el orden en que escribiste el código, comparte un screenshot para estar mas seguro.
 
-	* **Bianca Mercado** (2)
+	* **Bianca Mercado** [726970] (2)
 
-		
 		Me pasò igual y era por los espacios en la declaraciòn de variables 😕  
 		ubicacionActual=(este espacio :v )`pwd`
 		
@@ -1735,12 +1547,11 @@ Las dos maneras de hacerlo:
 		**La ubicaciòn actual es la siguiente:** /home/user00/shellCourse  
 		**Informacion del kernel: **Linux localhost.localdomain 3.10.0-1062.1.1.el7.x86_64 #1 SMP Fri Sep 13 22:55:44 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
 
-	* **Emmanuel García** (1)
+	* **Emmanuel García** [726970] (1)
 
-		
 		Revisen sus " `` " en la variable
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [694533](https://platzi.com/comentario/694533/) 
 
 	```
 	    jose@ITEM-S84790:~/bashScripting$ ./5_substitucion.sh
@@ -1754,10 +1565,11 @@ Las dos maneras de hacerlo:
 	    
 	```
 
-* **Alfonso Adame Rueda** (1)
-![Captura23.PNG](https://static.platzi.com/media/user_upload/Captura23-70caac1e-a889-4625-b4ca-a8bd4437bf19.jpg)
+* **Alfonso Adame Rueda** (1) [483499](https://platzi.com/comentario/483499/) 
+	
+	![Captura23.PNG](https://static.platzi.com/media/user_upload/Captura23-70caac1e-a889-4625-b4ca-a8bd4437bf19.jpg)
 
-* **Junior Cupe Casquina** (1)
+* **Junior Cupe Casquina** (1) [482330](https://platzi.com/comentario/482330/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -1767,9 +1579,8 @@ Las dos maneras de hacerlo:
 	    
 	```
 
-* **Jordan Ronaldo Buitrago Sandoval** (0)
+* **Jordan Ronaldo Buitrago Sandoval** (0) [974302](https://platzi.com/comentario/974302/) 
 
-	
 	actualUbiction=`pwd`  
 	^-- SC2006: Use $(…) instead of deprecated `..`  
 	shellcheck error.
@@ -1778,71 +1589,62 @@ Las dos maneras de hacerlo:
 	actualUbication=$(pwd)  
 	nice
 
-## 0100. Debug en Script
+## 0100. Debug en Script [16554](https://platzi.com/clases/1468-bash-shell/16554-debug-en-script/)
 
 ### Descripción:
 
 
 Para realizar debugging en un script tenemos dos opciones en el comando de bash:
 
-  * **-v** : Utilizado para ver el resultado detallado de nuestro script, evaluado línea por línea.
-  * **-x** : Utilizado para desplegar la información de los comandos que son usados, capturando el comando y su salida.
+* **-v** : Utilizado para ver el resultado detallado de nuestro script, evaluado línea por línea.
+* **-x** : Utilizado para desplegar la información de los comandos que son usados, capturando el comando y su salida.
 
 
 
 ### Comentarios:
 
-* **Óscar González arroyo** (2)
+* **Óscar González arroyo** (2) [737057](https://platzi.com/comentario/737057/) 
 
-	
 	Muy bien explicado, no conocia estos usos de bash.
 
-* **Alfonso Adame Rueda** (2)
+* **Alfonso Adame Rueda** (2) [482558](https://platzi.com/comentario/482558/) 
 
-	
 	siempre en programacion es importante encontrar los errores  
 	nos ayuda a crecer y mejorar nuestras habilidades.
 
-* **Óscar González arroyo** (2)
+* **Óscar González arroyo** (2) [68227](https://platzi.com/comentario/737059/) 
 Hay mas herramientas de bash?
 
-	* **José Luis García Peceros** (1)
+	* **José Luis García Peceros** [68227] (1)
 
-		
 		A que te refieres con mas herramientas  
 		si es para desarrollar yo uso sublime text o visual code.
 
-* **Carlos Zea** (1)
+* **Carlos Zea** (1) [1047983](https://platzi.com/comentario/1047983/) 
 
-	
 	Excelente dato.
 
-* **predator0077** (1)
+* **predator0077** (1) [808212](https://platzi.com/comentario/808212/) 
 
-	
 	Muy bien Explicado. Cada que avanzo en el curso voy entendiendo mas como utilizar linux, Vim y el lenguaje de programacion Script
 
-* **GibsPM** (1)
+* **GibsPM** (1) [701783](https://platzi.com/comentario/701783/) 
 
-	
 	Sencillo y conciso.
 
-* **Jeffersson Muñoz Torres** (1)
+* **Jeffersson Muñoz Torres** (1) [677202](https://platzi.com/comentario/677202/) 
 
-	
 	Si tan solo se pudiera hacer esto con otros lenguajes de programación, sin necesidad de agregar nuevas variables o nuevas impresiones; nos ahorraríamos muchos dolores de cabeza y tiempo.
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [510084](https://platzi.com/comentario/510084/) 
 
-	
 	`read -p` Captura información del usuario
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [482577](https://platzi.com/comentario/482577/) 
 
-	
 	excelente profesor
 
-## 0110. Reto 1
+## 0110. Reto 1 [24510](https://platzi.com/clases/1468-bash-shell/24510-reto-1/)
 
 ### Descripción:
 
@@ -1853,10 +1655,11 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 
 ### Comentarios:
 
-* **arsenio-perez** (2)
-![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-25c59f2d-da7f-48c8-8d69-b3531c4172e4.jpg)
+* **arsenio-perez** (2) [898422](https://platzi.com/comentario/898422/) 
+	
+	![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-25c59f2d-da7f-48c8-8d69-b3531c4172e4.jpg)
 
-* **Izaird Mothelet** (2)
+* **Izaird Mothelet** (2) [890881](https://platzi.com/comentario/890881/) 
 
 	```
 	    #! /bin/bash
@@ -1870,12 +1673,12 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **Pacool84** (1)
-![Captura de Pantalla 2020-04-04 a la\(s\) 8.29.15.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-04%20a%20la%28s%29%208.29.15-5442c108-bd68-44d1-83a2-c992cad159b5.jpg)
-
-* **Jorge Montaño** (1)
-
+* **Pacool84** (1) [1095090](https://platzi.com/comentario/1095090/) 
 	
+	![Captura de Pantalla 2020-04-04 a la\(s\) 8.29.15.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-04%20a%20la%28s%29%208.29.15-5442c108-bd68-44d1-83a2-c992cad159b5.jpg)
+
+* **Jorge Montaño** (1) [1061831](https://platzi.com/comentario/1061831/) 
+
 	#! /bin/bash
 	
 	option=1  
@@ -1883,7 +1686,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	
 	echo "la opcion $option da por resultado $result "
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1045280](https://platzi.com/comentario/1045280/) 
 
 	```
 	    #!/bin/bash
@@ -1893,17 +1696,15 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **Felipe Quiñonez** (1)
+* **Felipe Quiñonez** (1) [1035190](https://platzi.com/comentario/1035190/) 
 
-	
 	#!/bin/bash  
 	option=mercurio  
 	color=plateado  
 	echo “La opcion del $option es de color $color”
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1033877](https://platzi.com/comentario/1033877/) 
 
-	
 	Reto. Utilizando la sustitucion de comandos
 	
 	<h1>! /bin/bash</h1>
@@ -1916,9 +1717,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	echo "Introduzca la opcion: $option"  
 	echo “El resultado es:$result”
 
-* **Javier Avilés** (1)
+* **Javier Avilés** (1) [1027621](https://platzi.com/comentario/1027621/) 
 
-	
 	Aqui ejercicio de reto
 	``` 
 	    javiles@javiles-lab:~/shellCourse$ cat reto_1_utilityHost.sh
@@ -1939,9 +1739,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1003273](https://platzi.com/comentario/1003273/) 
 
-	
 	[utilityHost.sh](http://utilityHost.sh)
 	``` 
 	    # !/bin/bash
@@ -1955,7 +1754,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **durbonca** (1)
+* **durbonca** (1) [1001869](https://platzi.com/comentario/1001869/) 
 
 	```
 	    option=0
@@ -1965,7 +1764,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **JosueM** (1)
+* **JosueM** (1) [997455](https://platzi.com/comentario/997455/) 
 
 	```
 	    # ! bin/bash
@@ -1981,10 +1780,11 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **mark90** (1)
-![reto1.png](https://static.platzi.com/media/user_upload/reto1-8ee3b4e8-9333-41b9-9335-f8d8390b93ef.jpg)
+* **mark90** (1) [975611](https://platzi.com/comentario/975611/) 
+	
+	![reto1.png](https://static.platzi.com/media/user_upload/reto1-8ee3b4e8-9333-41b9-9335-f8d8390b93ef.jpg)
 
-* **Ian Javier Duran Roman** (1)
+* **Ian Javier Duran Roman** (1) [972306](https://platzi.com/comentario/972306/) 
 
 	```
 	    root@DURAN:/mnt/c/Users/iandu/Desktop/bashScripting# cat reto1.sh
@@ -2003,7 +1803,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **alejandro243** (1)
+* **alejandro243** (1) [957127](https://platzi.com/comentario/957127/) 
 
 	```
 	    # !/bin/bash
@@ -2016,7 +1816,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **jairhop** (1)
+* **jairhop** (1) [937392](https://platzi.com/comentario/937392/) 
 
 	```
 	    jair@TOSHIBA:~/shell$ vim reto1.sh
@@ -2035,10 +1835,11 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **Bianca Mercado** (1)
-![01.png](https://static.platzi.com/media/user_upload/01-a9156cad-2035-482f-9b00-e187ab18f8ea.jpg) ![02.png](https://static.platzi.com/media/user_upload/02-34db573f-0150-4ab6-bb08-5ec61730bf47.jpg)
+* **Bianca Mercado** (1) [922024](https://platzi.com/comentario/922024/) 
+	
+	![01.png](https://static.platzi.com/media/user_upload/01-a9156cad-2035-482f-9b00-e187ab18f8ea.jpg) ![02.png](https://static.platzi.com/media/user_upload/02-34db573f-0150-4ab6-bb08-5ec61730bf47.jpg)
 
-* **emmanuelnp95** (1)
+* **emmanuelnp95** (1) [921408](https://platzi.com/comentario/921408/) 
 
 	```
 	    <# ! /bin/bash
@@ -2053,7 +1854,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	
 	![Screenshot from 2020-01-13 17-26-08.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202020-01-13%2017-26-08-32f3651f-ff2b-4722-ac64-704e41f5c4a4.jpg)
 
-* **isra_rivero** (1)
+* **isra_rivero** (1) [919298](https://platzi.com/comentario/919298/) 
 
 	```
 	    bash-5.0# ./utilityHost.sh
@@ -2062,7 +1863,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [913640](https://platzi.com/comentario/913640/) 
 
 	```
 	    # ! /bin/bash
@@ -2077,9 +1878,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	
 	![sh1.png](https://static.platzi.com/media/user_upload/sh1-9aff8028-7a30-4acd-ae9a-68f45d7b364a.jpg)
 
-* **Luis Cáceres** (1)
+* **Luis Cáceres** (1) [913099](https://platzi.com/comentario/913099/) 
 
-	
 	#!/bin/bash  
 	option=$1  
 	result=$2
@@ -2087,7 +1887,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	echo "$option"  
 	echo “$result”
 
-* **Luber** (1)
+* **Luber** (1) [911102](https://platzi.com/comentario/911102/) 
 
 	```
 	    #!/bin/bash
@@ -2101,19 +1901,20 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **arsenio-perez** (1)
-![Reto1-1.PNG](https://static.platzi.com/media/user_upload/Reto1-1-b1767a16-d786-4bb8-aae6-5e4b59f6a159.jpg)
-
-* **freddymm** (1)
-
+* **arsenio-perez** (1) [898429](https://platzi.com/comentario/898429/) 
 	
+	![Reto1-1.PNG](https://static.platzi.com/media/user_upload/Reto1-1-b1767a16-d786-4bb8-aae6-5e4b59f6a159.jpg)
+
+* **freddymm** (1) [893787](https://platzi.com/comentario/893787/) 
+
 	**Reto Hecho**  
 	![Scripting bash.jpg](https://static.platzi.com/media/user_upload/Scripting%20bash-8b64d255-a6f0-4247-b70b-031c81234d17.jpg)
 
-* **mkitivenic** (1)
-![bashProgramBasic.png](https://static.platzi.com/media/user_upload/bashProgramBasic-a83e90e3-69fe-4a6c-bba5-2165340b3eb3.jpg)
+* **mkitivenic** (1) [883338](https://platzi.com/comentario/883338/) 
+	
+	![bashProgramBasic.png](https://static.platzi.com/media/user_upload/bashProgramBasic-a83e90e3-69fe-4a6c-bba5-2165340b3eb3.jpg)
 
-* **erickfve** (1)
+* **erickfve** (1) [879545](https://platzi.com/comentario/879545/) 
 
 	```
 	    # ! /bin/bash
@@ -2125,9 +1926,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **franciscovelsa** (1)
+* **franciscovelsa** (1) [856070](https://platzi.com/comentario/856070/) 
 
-	
 	#! /bin/bash  
 	#Programa para declarar variables y para imprimirlas
 	
@@ -2139,7 +1939,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	
 	echo “Lo que mas te gusta hacer es:$option y $result”
 
-* **Luis Miguel Taque Diaz** (1)
+* **Luis Miguel Taque Diaz** (1) [837608](https://platzi.com/comentario/837608/) 
 <h1>!/bin/bash</h1> <h1>Reto Platzi indicializacion e impresion de dos variables.</h1>
 	
 	echo "Como te llamas?"  
@@ -2158,9 +1958,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	
 	echo "Mucho Gusto $nombrePrograma Me llamo Bash, me gustaria ser parte de tus pasatiempos… Podrias imaginar como yo puedo ser aplicado a la $pasatiempo "
 
-* **alejandrodaza** (1)
+* **alejandrodaza** (1) [827564](https://platzi.com/comentario/827564/) 
 
-	
 	Hola a todos:
 	``` 
 	    #!bin/bash
@@ -2178,10 +1977,11 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **Oswaldo Peralta** (1)
-![reto1.jpg](https://static.platzi.com/media/user_upload/reto1-254e494b-0928-4755-83ee-6cec59b632c4.jpg)
+* **Oswaldo Peralta** (1) [816639](https://platzi.com/comentario/816639/) 
+	
+	![reto1.jpg](https://static.platzi.com/media/user_upload/reto1-254e494b-0928-4755-83ee-6cec59b632c4.jpg)
 
-* **arturobravomartinez** (1)
+* **arturobravomartinez** (1) [809601](https://platzi.com/comentario/809601/) 
 <h1>!/bin/bash</h1>
 	
 	#Reto_1
@@ -2192,9 +1992,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	echo "El valor de Opcion es: $opcion"  
 	echo “El valor de result es: $result”
 
-* **predator0077** (1)
+* **predator0077** (1) [808219](https://platzi.com/comentario/808219/) 
 
-	
 	Reto Cumplido
 	``` 
 	    option=Saludo
@@ -2204,7 +2003,7 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	    
 	```
 
-* **Oswaldo Peralta** (1)
+* **Oswaldo Peralta** (1) [807794](https://platzi.com/comentario/807794/) 
 <h1>!/bin/bash</h1> <h1>Declarar dos variables, inicializarlas e imprimir sus valores</h1>
 	
 	option=tiger  
@@ -2213,9 +2012,8 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	echo “el valor de option es:” $option  
 	echo “el valor de result es:” $result
 
-* **antares92** (0)
+* **antares92** (0) [846400](https://platzi.com/comentario/846400/) 
 
-	
 	#!/bin/bash
 	
 	<h1>reto 1 de curso de programación bash</h1>
@@ -2225,23 +2023,23 @@ Desarrollar un programa llamado [utilityHost.sh](http://utilityHost.sh), dentro 
 	
 	echo “Option: $OPTION and result: $RESULT”
 
-# Script Interactivos
+# Script Interactivos [3280]
 
-## 0120. Capturar información usuario
+## 0120. Capturar información usuario [16556](https://platzi.com/clases/1468-bash-shell/16556-capturar-informacion-usuario/)
 
 ### Descripción:
 
 
 Para poder capturar información tenemos dos formas dentro de un programa Bash.
 
-  * Utilizando en conjunto con el comando **echo**
-  * Utilizando directamente el comando **read**
+* Utilizando en conjunto con el comando **echo**
+* Utilizando directamente el comando **read**
 
 
 
 ### Comentarios:
 
-* **Junior Cupe Casquina** (5)
+* **Junior Cupe Casquina** (5) [482357](https://platzi.com/comentario/482357/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -2275,14 +2073,12 @@ Para poder capturar información tenemos dos formas dentro de un programa Bash.
 	    
 	```
 
-* **predator0077** (3)
+* **predator0077** (3) [808233](https://platzi.com/comentario/808233/) 
 
-	
 	Estoy viendo el potencial de VIM es maravilloso.
 
-* **Ian Javier Duran Roman** (2)
+* **Ian Javier Duran Roman** (2) [974375](https://platzi.com/comentario/974375/) 
 
-	
 	Unas de las opciones más utilizadas para **Read**
 	
 	**-p** : Permite ingresar una frase o _prompt_ antes de pedir el dato.  
@@ -2290,9 +2086,8 @@ Para poder capturar información tenemos dos formas dentro de un programa Bash.
 	**-n [num]** : Permite leer como máximo n caracteres.  
 	**-r** : Toma el botón de retroceso o _backspace_ como un caracter y no borra ningun otro caracter previamente escrito.
 
-* **José B. Méndez Padín** (2)
+* **José B. Méndez Padín** (2) [771967](https://platzi.com/comentario/771967/) 
 
-	
 	Más cómodo y práctico usar la segunda opción, sólo con read.
 	``` 
 	    nombre=""
@@ -2301,29 +2096,25 @@ Para poder capturar información tenemos dos formas dentro de un programa Bash.
 	    
 	```
 
-* **drm** (2)
+* **drm** (2) [550232](https://platzi.com/comentario/550232/) 
 
-	
 	Si le das esc + A(awebo tiene ser mayúscula) en el vim te lleva a editar desde la ultima posición en el linea
 
-* **Jorge Montaño** (1)
+* **Jorge Montaño** (1) [1061870](https://platzi.com/comentario/1061870/) 
 
-	
 	Una alternativa de borrado en vim salir del modo insert y hacer shift+d esto tomara el cursor como punto de origen y borrara todo el texto que encuentre hasta el final de la linea
 
-* **freddymm** (1)
+* **freddymm** (1) [893831](https://platzi.com/comentario/893831/) 
 
-	
 	Estoy usando un raspberry para ejecutar los comandos y veo el curso en una maquina con windows, por eso descubri un programa muy util.  
 	.  
 	se llama WinSCP muy util para conectarse via SSH a una maquina con linux desde una con windows y descargar informacion desde la segunda
 
-	* **alejandro243** (2)
+	* **alejandro243** [893831] (2)
 
-		
 		Tambien hay una llamada termius la cual es bastante visual
 
-## 0130. Expresiones Regulares
+## 0130. Expresiones Regulares [16970](https://platzi.com/clases/1468-bash-shell/16970-expresiones-regulares/)
 
 ### Descripción:
 
@@ -2334,12 +2125,12 @@ Dentro de este contexto en la programación bash para cumplir con este objetivo 
 
 Se necesita conocer ciertos criterios utilizados en las expresiones regulares que son los siguientes:
 
-  * ^.- Caracter que representa el inicio de la expresión regular.
-  * $.- Caracter que representa el final de la expresión regular.
-  * *.- Caracter que representa cero o más ocurrencias de la expresión
-  * +.- Caracter que representa una o más ocurrencias de la expresión.
-  * {n}.-Representa n veces de una expresión.
-  * [ ] .- Representa un conjunto de caracteres, por ejemplo: [a-z] representa las letras del abecedario de la a a la z.
+* ^.- Caracter que representa el inicio de la expresión regular.
+* $.- Caracter que representa el final de la expresión regular.
+* *.- Caracter que representa cero o más ocurrencias de la expresión
+* +.- Caracter que representa una o más ocurrencias de la expresión.
+* {n}.-Representa n veces de una expresión.
+* [ ] .- Representa un conjunto de caracteres, por ejemplo: [a-z] representa las letras del abecedario de la a a la z.
 
 
 
@@ -2364,53 +2155,45 @@ Finalmente el código fuente lo pueden encontrar en el repositorio de GitHub en 
 
 ### Comentarios:
 
-* **JulioCardenasR** (7)
+* **JulioCardenasR** (7) [488361](https://platzi.com/comentario/488361/) 
 
-	
 	Beco (Alberto Alcocer) tiene un excelente curso de expresiones regulares.
 	
 	Hay que tener cuidado con los [[ toca dejar un espacio obligatoriamente o si no da errores de command no found.
 	
 	Cometi un error al llamar la variable de regex y la expresion daba to como valido
 
-	* **Jimmy Dominguez** (3)
+	* **Jimmy Dominguez** [488361] (3)
 
-		
 		Totalmente de acuerdo validación de espacio netamente importante.
 
-	* **Diego Emanuel Ramirez** (2)
+	* **Diego Emanuel Ramirez** [488361] (2)
 
-		
 		Especial cuidado con la sintaxis! Me paso igual a mí también!
 
-	* **Néstor Arellano** (1)
+	* **Néstor Arellano** [488361] (1)
 
-		
 		Coincido contigo: el curso de Beco es increíble.  
 		Por cierto, gracias por el dato de los espacios después de “[[”. Ya me estaba volviendo loco con eso. xD
 
-* **xpablodaniel** (5)
+* **xpablodaniel** (5) [492760](https://platzi.com/comentario/492760/) 
 
-	
 	la chuleta, el machete, el acordeon y el bandoneon! porque es este curso va bien como el tango  
 	[<http://w3.unpocodetodo.info/utiles/regex.php>]
 
-	* **Nicolasdds** (1)
+	* **Nicolasdds** [492760] (1)
 
-		
 		xD
 
-* **Gustavo Marín** (3)
+* **Gustavo Marín** (3) [940425](https://platzi.com/comentario/940425/) 
 
-	
 	Hay que tener presente la sintaxis [[ $a =~ $aRegex ]] se deben respetar los espacios alrededor de “=~” para que funcione correctamente.
 
-* **Pacool84** (2)
+* **Pacool84** (2) [1095152](https://platzi.com/comentario/1095152/) 
 
-	
 	Solo como recomendación, utilicen imágenes mas grandes
 
-* **Marcos CB** (1)
+* **Marcos CB** (1) [1089981](https://platzi.com/comentario/1089981/) 
 
 	```
 	    # !/bin/bash
@@ -2449,12 +2232,11 @@ Finalmente el código fuente lo pueden encontrar en el repositorio de GitHub en 
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1045294](https://platzi.com/comentario/1045294/) 
 Exelent
 
-* **Javier Avilés** (1)
+* **Javier Avilés** (1) [1030061](https://platzi.com/comentario/1030061/) 
 
-	
 	Muy bien ! Realizado!
 	``` 
 	    #!/bin/bash
@@ -2523,7 +2305,7 @@ Exelent
 	    
 	```
 
-* **rubenpenap** (1)
+* **rubenpenap** (1) [1020901](https://platzi.com/comentario/1020901/) 
 
 	```
 	    # ! /bin/bash
@@ -2590,23 +2372,20 @@ Exelent
 	    
 	```
 
-* **AnthonySQC** (1)
+* **AnthonySQC** (1) [981675](https://platzi.com/comentario/981675/) 
 
-	
 	Buenas amig@s,  
 	he probado a usar la clase predefinida \d y no me funciona pero usando [0-9] si acepta la entrada, por lo visto esto se debe a que las clases \d y \w no funcionan en las expresiones regulares POSIX, en lugar de usar \d podemos usar [0-9] o [[:digit:]] , véase que la segunda forma usa doble [, espero que esto os ayude a no toparos con ese error como yo 😃.
 
-* **Decoderunner** (1)
+* **Decoderunner** (1) [706899](https://platzi.com/comentario/706899/) 
 
-	
 	Bueno yo no he tomado el curso de ER, pero con lo que se aprende en este tutorial es como para chicanear un poco, he tenido un problema con la validación de la fecha de nacimiento, me dice no válida. Seguramente porque usé el comando “ESC + yy” en una línea después del ELSE y dejé sin cambiar esta última. Ah profesor, un curso genial 😃
 
-* **Carlos Augusto Pérez Méndez** (1)
+* **Carlos Augusto Pérez Méndez** (1) [666262](https://platzi.com/comentario/666262/) 
 
-	
 	¡Excelente curso!
 
-* **Hever Alfredo Morales Madrid** (1)
+* **Hever Alfredo Morales Madrid** (1) [556449](https://platzi.com/comentario/556449/) 
 
 	```
 	    # programa para capturar informacion del usuario y validarla con expresiones regulares                                                                                                                                           
@@ -2648,14 +2427,12 @@ Exelent
 	    
 	```
 
-	* **josemdiaza** (3)
+	* **josemdiaza** [556449] (3)
 
-		
 		Probé este codigo y encontre algo que me llama la atención. Si intentas poner la fecha 20000320 no te lo permite, a pesar que entra dentro de los parametros. Alguien me podría explicar por que pasa esto? Alguna otra fecha como 19000520 si la reconoce bien.
 
-	* **laolayap** (3)
+	* **laolayap** [556449] (3)
 
-		
 		Jose, la expresión regular correcta sería:
 		
 		**^(19|20)([0-9]{2})(0[1-9]|1[0-2])(0[1-9]|[1-2][0-9]|3[0-1])$**  
@@ -2673,42 +2450,39 @@ Exelent
 		ó  
 		© Un 3 seguido de un 0 o un 1 (para 30 o 31)
 
-## 0140. Validar información
+## 0140. Validar información [16555](https://platzi.com/clases/1468-bash-shell/16555-validar-informacion/)
 
 ### Descripción:
 
 
 Para el proceso de validación de información tenemos dos maneras de hacerlo:
 
-  * Para validar tamaños se utiliza el siguiente comando: **read -n <numero_caracteres>**
-  * Para validar el tipo de datos se utilizan las **expresiones regulares**
+* Para validar tamaños se utiliza el siguiente comando: **read -n <numero_caracteres>**
+* Para validar el tipo de datos se utilizan las **expresiones regulares**
 
 
 
 ### Comentarios:
 
-* **androw** (4)
+* **androw** (4) [537030](https://platzi.com/comentario/537030/) 
 
-	
 	Entonces:
 	
-	  * read -s -> Oculta la información entrante por propio usuario.
+	* read -s -> Oculta la información entrante por propio usuario.
 	
-	  * read -n[1,2,3,4…] -> Mantiene la linea de ejecución, la misma linea en la que estamos hasta que llegue al numero de carácteres definido.
+	* read -n[1,2,3,4…] -> Mantiene la linea de ejecución, la misma linea en la que estamos hasta que llegue al numero de carácteres definido.
 	
-	  * read -p -> Indica que hay que dejar la informacion ingresada en la variable siguiente.
+	* read -p -> Indica que hay que dejar la informacion ingresada en la variable siguiente.
 	
 	
 	
 
-* **Haroun Hussain Asto Rojas** (3)
+* **Haroun Hussain Asto Rojas** (3) [510138](https://platzi.com/comentario/510138/) 
 
-	
 	read -s : EL s es de silence para que no se muestra la contraseña
 
-* **EPadronU23** (2)
+* **EPadronU23** (2) [824812](https://platzi.com/comentario/824812/) 
 
-	
 	En [Fish Shell](https://fishshell.com/)
 	``` 
 	    #/usr/bin/fish
@@ -2754,7 +2528,7 @@ Para el proceso de validación de información tenemos dos maneras de hacerlo:
 	    
 	```
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [695631](https://platzi.com/comentario/695631/) 
 
 	```
 	    # !/bin/bash
@@ -2826,21 +2600,19 @@ Para el proceso de validación de información tenemos dos maneras de hacerlo:
 	    
 	```
 
-* **Yefri Gonzalez** (1)
+* **Yefri Gonzalez** (1) [511969](https://platzi.com/comentario/511969/) 
 
-	
 	Buenas tengo una duda, lo de poner el `-a` es mas tanto un estándar?  
 	En la sentencia `while` va pasar por todos los argumentos y como estándar una opción se comienza con un guion?
 
-	* **memowii** (1)
+	* **memowii** [511969] (1)
 
-		
 		Hola
 		
 		Viendo el script de la clase nunca veo que haga utilización de la sentencia -a  
 		Estás formulando tu pregunta correctamente?
 
-* **Junior Cupe Casquina** (1)
+* **Junior Cupe Casquina** (1) [482373](https://platzi.com/comentario/482373/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -2855,50 +2627,44 @@ Para el proceso de validación de información tenemos dos maneras de hacerlo:
 	    
 	```
 
-	* **Marco Antonio Toscano Freire** (1)
+	* **Marco Antonio Toscano Freire** [482373] (1)
 
-		
 		Genial felicitaciones
 
-* **Yefri Gonzalez** (1)
+* **Yefri Gonzalez** (1) [52973](https://platzi.com/comentario/511969/) 
 Buenas tengo una duda, lo de poner el -a es mas tanto un estándar? En la sentencia while va pasar por todos los...
 
-	* **memowii** (1)
+	* **memowii** [52973] (1)
 
-		
 		Hola
 		
 		Viendo el script de la clase nunca veo que haga utilización de la sentencia -a  
 		Estás formulando tu pregunta correctamente?
 
-## 0150. Paso de parámetros y opciones
+## 0150. Paso de parámetros y opciones [16557](https://platzi.com/clases/1468-bash-shell/16557-paso-de-parametros-y-opciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **josemdiaza** (10)
+* **josemdiaza** (10) [695635](https://platzi.com/comentario/695635/) 
 
-	
 	Esto me ha ayudado a entender un poco mas: <https://likegeeks.com/es/scripting-de-bash-parametros-y-opciones/>
 
-	* **jairhop** (1)
+	* **jairhop** [695635] (1)
 👍🏻
 
-* **josemdiaza** (5)
+* **josemdiaza** (5) [695633](https://platzi.com/comentario/695633/) 
 
-	
 	 **No entendí esta clase.**
 
-	* **Decoderunner** (1)
+	* **Decoderunner** [695633] (1)
 
-		
 		Estoy en las mismas, gracias por compartir el enlace compañero
 
-* **eleinybello** (4)
+* **eleinybello** (4) [770037](https://platzi.com/comentario/770037/) 
 
-	
 	 **Comparaciones De Cadenas Alfanumericas**
 	
 	## Operador Verdad (TRUE) si:
@@ -2942,26 +2708,23 @@ Buenas tengo una duda, lo de poner el -a es mas tanto un estándar? En la senten
 	fichero1 -nt fichero2 fichero1 es mas reciente que fichero2  
 	fichero1 -ot fichero2 fichero1 es mas antiguo que fichero2
 
-* **Alfonso Adame Rueda** (3)
+* **Alfonso Adame Rueda** (3) [483953](https://platzi.com/comentario/483953/) 
 
-	
 	hola buenos días  
 	tengo una pregunta : si yo quiero hacer que mi script se ejecute automáticamente ,por ejemplo al arrancar mi servidor remoto, que se debe hacer , tal vez con un daemon , quien sabe de esto por favor,  
 	gracias
 
-	* **Héctor Manuel Hernández Ortega** (6)
+	* **Héctor Manuel Hernández Ortega** [483953] (6)
 
-		
 		En linux  
 		A) creas tu script en el directorio de scripts iniciales, típicamente /etc/init.d/ y das permisos de ejecución  
 		B) Usas crontab
 
-	* **Alfonso Adame Rueda** (1)
+	* **Alfonso Adame Rueda** [483953] (1)
 
-		
 		super, muchas gracias por responder
 
-* **Junior Cupe Casquina** (3)
+* **Junior Cupe Casquina** (3) [482411](https://platzi.com/comentario/482411/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -2992,9 +2755,8 @@ Buenas tengo una duda, lo de poner el -a es mas tanto un estándar? En la senten
 	    
 	```
 
-* **EPadronU23** (2)
+* **EPadronU23** (2) [824943](https://platzi.com/comentario/824943/) 
 
-	
 	Prefiero usar **[argparse-bash](https://github.com/nhoffman/argparse-bash)**.
 	
 	Si bien, implica una dependencia a Python, es mucho más robusto y poderoso que manejar a _mano_ una interfaz de línea de comandos.
@@ -3033,128 +2795,109 @@ Buenas tengo una duda, lo de poner el -a es mas tanto un estándar? En la senten
 	    
 	```
 
-	* **arsenio-perez** (2)
+	* **arsenio-perez** [824943] (2)
 
-		
 		Recuerda que si estas conectándote a un servidor por SSH sin interfaces gráfica, con la intención de crear un scripting correctivo., lo recomendado es utilizar los editores nativos del S.O.
 		
 		Esa es la razón por la cual es imprescindible dominarlos
 
-* **Nicolasdds** (2)
+* **Nicolasdds** (2) [517849](https://platzi.com/comentario/517849/) 
 
-	
 	En el minuto 5:40, dices que escribimos un “asterisco” en caso de que sea “asterisco”…porque el usuario ingresaría un “asterisco”?.. en fin, por definición del “case” el " * " se coloca como ultima opción por si acaso de que el usuario ingrese cualquier otra opción que no sea alguna de las que le asignamos.
 
-	* **GibsPM** (2)
+	* **GibsPM** [517849] (2)
 
-		
 		Creo el asterisco en este contexto es como parte de las expresiones regulares, no tanto en que se valide que realmente se ingresó el caracter asterisco.  
 		O puede ser que es * en caso de no ser alguna de las opciones listadas.
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [510415](https://platzi.com/comentario/510415/) 
 
-	
 	Las funciones deben definirse antes de ser llamadas.
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [510385](https://platzi.com/comentario/510385/) 
 
-	
 	`read -n1` : La “n1”, se coloca para verificar el uso de caracteres, en este caso solo 1 carácter.
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [50822](https://platzi.com/comentario/483953/) 
 hola buenos días tengo una pregunta : si yo quiero hacer que mi script se ejecute automáticamente ,por ejemplo al arrancar mi servidor re...
 
-	* **Héctor Manuel Hernández Ortega** (6)
+	* **Héctor Manuel Hernández Ortega** [50822] (6)
 
-		
 		En linux  
 		A) creas tu script en el directorio de scripts iniciales, típicamente /etc/init.d/ y das permisos de ejecución  
 		B) Usas crontab
 
-## 0160. Descargar información de Internet
+## 0160. Descargar información de Internet [16558](https://platzi.com/clases/1468-bash-shell/16558-descargar-informacion-de-internet/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **EPadronU23** (7)
+* **EPadronU23** (7) [824953](https://platzi.com/comentario/824953/) 
 
-	
 	Yo recomiendo:
 	
-	  * Para archivos pequeños ~> **wget**
-	  * Para comunicarse con un servicio (por ejemplo, una API Restful) ~> **curl**
-	  * Para archivos de tamaño considerable ~> **aria2**
+	* Para archivos pequeños ~> **wget**
+	* Para comunicarse con un servicio (por ejemplo, una API Restful) ~> **curl**
+	* Para archivos de tamaño considerable ~> **aria2**
 	
 	
 	
 	**aria2** es genial porque soporta multiples protocolos como BitTorrent y FTP, además de soportar descargas en paralelo.
 
-* **Jesús Corvo** (4)
+* **Jesús Corvo** (4) [637971](https://platzi.com/comentario/637971/) 
 
-	
 	(Actualizado) <https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.41/bin/apache-tomcat-8.5.41.zip>
 
-* **Jorge Montaño** (3)
+* **Jorge Montaño** (3) [1065106](https://platzi.com/comentario/1065106/) 
 
-	
 	<https://downloads.apache.org/tomcat/tomcat-8/v8.5.53/bin/apache-tomcat-8.5.53.zip>  
 	acutalizado 25/03/2020
 
-	* **guillermoestebantorresrenner** (1)
+	* **guillermoestebantorresrenner** [1065106] (1)
 
-		
 		muy amable de tu parte, gracias por compartirlo
 
-* **ingfrerodcz** (3)
+* **ingfrerodcz** (3) [545959](https://platzi.com/comentario/545959/) 
 
-	
 	Companeros, Para que funcione la descarga hay que remplazar el el 35 por 39 de esta manera:  
 	/tomcat-8/v8.5.39/
 
-	* **drm** (0)
+	* **drm** [545959] (0)
 
-		
 		Funciono para mi, gracias
 
-* **Luber** (2)
+* **Luber** (2) [911093](https://platzi.com/comentario/911093/) 
 
-	
 	<https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.50/bin/apache-tomcat-8.5.50.zip>
 
-* **jaromerop** (2)
+* **jaromerop** (2) [783641](https://platzi.com/comentario/783641/) 
 
-	
 	Busqué el enlace el día de hoy 16/10/2019 y es este <https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.47/bin/apache-tomcat-8.5.47.zip>
 
-* **Miusuarioplatzi** (2)
+* **Miusuarioplatzi** (2) [557551](https://platzi.com/comentario/557551/) 
 
-	
 	<https://archive.apache.org/dist/httpd/beta/apache-1.3.22-docs.pdf.zip>
 
-* **predator0077** (1)
+* **predator0077** (1) [808268](https://platzi.com/comentario/808268/) 
 
-	
 	Muy buen curso la verdad.
 
-* **Sergui20** (1)
+* **Sergui20** (1) [778301](https://platzi.com/comentario/778301/) 
 
-	
 	Otra opcion para descargar sería:  
 	curl <https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.46/bin/apache-tomcat-8.5.46.zip> -o apache-tomcat-8.5.46.zip
 	
 	Me funcionó perfecto !
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [772052](https://platzi.com/comentario/772052/) 
 
-	
 	A día 08/10/2019 el enlace correcto es el siguiente:  
 	<https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.46/bin/apache-tomcat-8.5.46.zip>
 
-* **Decoderunner** (1)
+* **Decoderunner** (1) [706990](https://platzi.com/comentario/706990/) 
 
-	
 	Alguien que me ayude con esto, gracias de antemano:  
 	Descargar info de la web  
 	–2019-08-25 17:30:45-- <https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.41/bin/apache-tomcat-8.5.41.zip>  
@@ -3163,25 +2906,22 @@ hola buenos días tengo una pregunta : si yo quiero hacer que mi script se ejecu
 	HTTP request sent, awaiting response… 404 Not Found  
 	2019-08-25 17:30:46 ERROR 404: Not Found.
 
-	* **Jonhatan prieto mora** (3)
+	* **Jonhatan prieto mora** [706990] (3)
 
-		
 		se genera un codigo de estado 404 ya que la url no existe.
 		
 		La url correcta es:  
 		<https://www-us.apache.org/dist/tomcat/tomcat-8/v8.5.45/bin/apache-tomcat-8.5.45.zip>
 
-* **CarlosSlim** (1)
+* **CarlosSlim** (1) [649154](https://platzi.com/comentario/649154/) 
 
-	
 	No lo puedo descargar, para Mac es lo mismo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [649154] (1)
 
-		
 		Qué problema tienes exactamente, no encuentra el comando o no puedes ejecutar el script?
 
-* **Junior Cupe Casquina** (1)
+* **Junior Cupe Casquina** (1) [482421](https://platzi.com/comentario/482421/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -3192,7 +2932,7 @@ hola buenos días tengo una pregunta : si yo quiero hacer que mi script se ejecu
 	    
 	```
 
-## 0170. Reto 2
+## 0170. Reto 2 [24509](https://platzi.com/clases/1468-bash-shell/24509-reto-2/)
 
 ### Descripción:
 
@@ -3203,7 +2943,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 
 ### Comentarios:
 
-* **JosueM** (2)
+* **JosueM** (2) [1004211](https://platzi.com/comentario/1004211/) 
 
 	```
 	    # ! /bin/bash
@@ -3241,9 +2981,8 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Luis Cáceres** (2)
+* **Luis Cáceres** (2) [915827](https://platzi.com/comentario/915827/) 
 
-	
 	#!/bin/bash  
 	read -p “Nombre:” nombre  
 	read -p “Apellido:” apellido  
@@ -3253,9 +2992,8 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	
 	echo “sus datos son:” $nombre, $apellido, $edad, $direccion, $telefono
 
-* **Lerni** (1)
+* **Lerni** (1) [1084945](https://platzi.com/comentario/1084945/) 
 
-	
 	Les comparto mi codigo
 	``` 
 	    # !/bin/bash
@@ -3306,9 +3044,8 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Malalo** (1)
+* **Malalo** (1) [1082543](https://platzi.com/comentario/1082543/) 
 
-	
 	Comparto mi script de este reto
 	``` 
 	    #!/bin/bash
@@ -3362,9 +3099,8 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1052673](https://platzi.com/comentario/1052673/) 
 
-	
 	Aqui esta mi codigo del reto. He validado correo electronico valido y numero telefonico que solo deberia aceptar este formato (123)456.7890
 	
 	<h1>! /bin/bash</h1> <h1>Programa para ejemplificar como capturar la informacion del usuario: Nombre, Apellido, CI, edad, direccion, numeros telefonicos e email</h1> <h1>validar que direccion ocupe solo 20 digitos, email sea valido y Cedula de 8 digitos.</h1>
@@ -3429,9 +3165,8 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	
 	fi
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1052067](https://platzi.com/comentario/1052067/) 
 
-	
 	 **En este código validé el correo en comillas simples ya que con el backtick ( ´ ), hay conflicto para validar esta expresión regular.**
 	``` 
 	    #!/bin/bash
@@ -3470,7 +3205,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Marck  MR** (1)
+* **Marck  MR** (1) [1026614](https://platzi.com/comentario/1026614/) 
 
 	```
 	    # ! bin/bash
@@ -3508,7 +3243,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **David A. Casas Amézquita** (1)
+* **David A. Casas Amézquita** (1) [1024153](https://platzi.com/comentario/1024153/) 
 
 	```
 	    # !/bin/bash
@@ -3533,7 +3268,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Carlos Bustos** (1)
+* **Carlos Bustos** (1) [1022008](https://platzi.com/comentario/1022008/) 
 
 	```
 	    #!/bin/bash
@@ -3569,7 +3304,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **emmanuelnp95** (1)
+* **emmanuelnp95** (1) [995450](https://platzi.com/comentario/995450/) 
 
 	```
 	    # !/bin/bash
@@ -3598,7 +3333,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Ian Javier Duran Roman** (1)
+* **Ian Javier Duran Roman** (1) [974354](https://platzi.com/comentario/974354/) 
 
 	```
 	    # !/bin/bash
@@ -3633,7 +3368,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **jairhop** (1)
+* **jairhop** (1) [937397](https://platzi.com/comentario/937397/) 
 
 	```
 	    jair@TOSHIBA:~/shell$ vim reto2.sh
@@ -3692,7 +3427,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [914053](https://platzi.com/comentario/914053/) 
 
 	```
 	    # !/bin/bash
@@ -3716,7 +3451,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **Luber** (1)
+* **Luber** (1) [911249](https://platzi.com/comentario/911249/) 
 
 	```
 	    # !/bin/bash
@@ -3747,7 +3482,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [894370](https://platzi.com/comentario/894370/) 
 
 	```
 	      1 #! /bin/bash
@@ -3772,15 +3507,16 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **mkitivenic** (1)
-![Reto2.png](https://static.platzi.com/media/user_upload/Reto2-ca0ee745-03b6-48e1-8971-2238ededef56.jpg)
-
-* **Oswaldo Peralta** (1)
-![reto2.jpg](https://static.platzi.com/media/user_upload/reto2-7c9d4daa-7c70-4d4d-8d70-42400a7a65d7.jpg)
-
-* **arturobravomartinez** (1)
-
+* **mkitivenic** (1) [884875](https://platzi.com/comentario/884875/) 
 	
+	![Reto2.png](https://static.platzi.com/media/user_upload/Reto2-ca0ee745-03b6-48e1-8971-2238ededef56.jpg)
+
+* **Oswaldo Peralta** (1) [816839](https://platzi.com/comentario/816839/) 
+	
+	![reto2.jpg](https://static.platzi.com/media/user_upload/reto2-7c9d4daa-7c70-4d4d-8d70-42400a7a65d7.jpg)
+
+* **arturobravomartinez** (1) [809764](https://platzi.com/comentario/809764/) 
+
 	#!/bin/bash  
 	#solicitar informacion de cada uno como nombre, apellido, edad, direccion
 	
@@ -3808,7 +3544,7 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	
 	echo -n “numero de telefono:”
 
-* **Oswaldo Peralta** (1)
+* **Oswaldo Peralta** (1) [808677](https://platzi.com/comentario/808677/) 
 <h1>!/bin/bash</h1>
 	
 	nombre="“  
@@ -3825,18 +3561,17 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	
 	echo “sus datos son:” $nombre, $apellido, $edad, $direccion, $telefono
 
-# Condicionales
+# Condicionales [3281]
 
-## 0180. Sentencias IfElse
+## 0180. Sentencias IfElse [16560](https://platzi.com/clases/1468-bash-shell/16560-sentencias-ifelse/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Breiner  Nieto Barcelo** (10)
+* **Breiner  Nieto Barcelo** (10) [549774](https://platzi.com/comentario/549774/) 
 
-	
 	 ** _OPERADORES RELACIONALES_**  
 	-eq: is equal to // Igual a  
 	-ne: is not equal to // No es igual a  
@@ -3845,24 +3580,20 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	-lt: is less than // Menor a  
 	-le: is less than or equal to // Menor o igual a
 
-* **EPadronU23** (4)
+* **EPadronU23** (4) [825456](https://platzi.com/comentario/825456/) 
 
-	
 	Para conocer la diferencia entre single bracket `[``]` vs double brackets `[[``]]` pueden consultar la siguiente [respuesta en Stackoverflow](https://stackoverflow.com/a/31366734).
 
-	* **Ivan Rene Acosta Lallemand** (1)
+	* **Ivan Rene Acosta Lallemand** [825456] (1)
 
-		
 		Gracias por el recurso
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [825456] (1)
 
-		
 		Gran aporte!
 
-* **José B. Méndez Padín** (3)
+* **José B. Méndez Padín** (3) [773589](https://platzi.com/comentario/773589/) 
 
-	
 	Mi ejemplo del código.
 	``` 
 	    #!/bin/bash
@@ -3891,49 +3622,44 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **androw** (2)
+* **androw** (2) [546892](https://platzi.com/comentario/546892/) 
 
-	
 	GE -> Greater or Equal / mayor o igual.  
 	LE -> Lower or Equal / menor o igual.
 
-* **Oswaldo Peralta** (1)
+* **Oswaldo Peralta** (1) [816858](https://platzi.com/comentario/816858/) 
 
-	
 	Estimados, una consulta… por què en el primer **if** se usò **parèntesis** y en el segundo **corchetes**?
 	
 	Muchas gracias,
 
-	* **Gabriel De Andrade (Platzi)** (5)
+	* **Gabriel De Andrade (Platzi)** [816858] (5)
 
-		
 		Aquí te encuentras con la respuesta [How to use double or single brackets, parentheses, curly braces  
 		](https://stackoverflow.com/questions/2188199/how-to-use-double-or-single-brackets-parentheses-curly-braces)
 		
 		Pero básicamente, paréntesis cuando quieres evaluar operaciones aritméticas y corchetes para evaluar comandos 😄
 
-* **charl-barrera** (1)
+* **charl-barrera** (1) [773935](https://platzi.com/comentario/773935/) 
 
-	
 	en el bash de mi ubuntu, -n me saca un error: 7: read: Illegal option -n
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [497495](https://platzi.com/comentario/497495/) 
 
-	
 	**Para el uso de if **
 	
 	ge : mayor o igual  
 	le : menor o igual
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [488179](https://platzi.com/comentario/488179/) 
 
-	
 	Este es mi avance en el curso , muchas gracias profe.
 
-* **Alfonso Adame Rueda** (1)
-![Captura25.PNG](https://static.platzi.com/media/user_upload/Captura25-d5a47f50-2d83-4a29-986f-7b32f1b33b20.jpg)
+* **Alfonso Adame Rueda** (1) [488178](https://platzi.com/comentario/488178/) 
+	
+	![Captura25.PNG](https://static.platzi.com/media/user_upload/Captura25-d5a47f50-2d83-4a29-986f-7b32f1b33b20.jpg)
 
-* **Junior Cupe Casquina** (1)
+* **Junior Cupe Casquina** (1) [482453](https://platzi.com/comentario/482453/) 
 
 	```
 	    #!/usr/bin/env bash
@@ -3966,16 +3692,15 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-## 0190. If Anidados
+## 0190. If Anidados [16559](https://platzi.com/clases/1468-bash-shell/16559-if-anidados/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Haroun Hussain Asto Rojas** (4)
+* **Haroun Hussain Asto Rojas** (4) [497607](https://platzi.com/comentario/497607/) 
 
-	
 	Para el uso de if
 	
 	ge : mayor o igual  
@@ -3983,34 +3708,29 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	le : menor o igual  
 	lt: menor
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [773602](https://platzi.com/comentario/773602/) 
 
-	
 	Entonces, por lo que veo, en los if se pueden usar tanto los corchetes como los paréntesis indistintamente, ¿no? Y, además, dobles o simples.
 
-	* **Oswaldo Peralta** (1)
+	* **Oswaldo Peralta** [773602] (1)
 
-		
 		Asi es estimado, doble parentesis (( )) o corchetes simples [ ] cumplen la misma funciòn, sin embargo corchetes simples parece ser la màs utilizada, supongo que por su simplicidad.
 
-	* **Oswaldo Peralta** (2)
+	* **Oswaldo Peralta** [773602] (2)
 
-		
 		Una correcciòn respecto a mi respuesta anterior. El profesor usa parentesis dobles con operadores relacionales del tipo “>=” y corchetes cuando usa -ge (greater than), entre otros.
 		
 		Con esto parece claro que sì hay diferencias respecto al uso de (( )) o [ ]
 
-	* **Oswaldo Peralta** (2)
+	* **Oswaldo Peralta** [773602] (2)
 
-		
 		sorry, -ge = greater equal (no greater than como dije abajo) 😃
 
-	* **freddymm** (2)
+	* **freddymm** [773602] (2)
 
-		
 		Además también te serviría saber que los paréntesis se usan para evaluar operaciones aritméticas y los corchetes para evaluar operaciones lógicas
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [717675](https://platzi.com/comentario/717675/) 
 
 	```
 	    # !/bin/bash
@@ -4039,9 +3759,8 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	    
 	```
 
-* **JoanXD** (1)
+* **JoanXD** (1) [628686](https://platzi.com/comentario/628686/) 
 
-	
 	grade=0  
 	6  
 	7 echo "Tipo de calificacion segun la nota"  
@@ -4068,36 +3787,33 @@ Solicitar la información de cada uno de ustedes como nombres, apellidos, edad, 
 	28  
 	29 fi
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [488438](https://platzi.com/comentario/488438/) 
 
-	
 	estoy super contento con este curso gracias platzi
 
-## 0200. Expresiones Condicionales
+## 0200. Expresiones Condicionales [16562](https://platzi.com/clases/1468-bash-shell/16562-expresiones-condicionales/)
 
 ### Descripción:
 
 
 Las expresiones condicionales ya las hemos visto en clases anteriores, pero en qué corresponde y cómo se forman las veremos en esta clase. Estás son las siguientes
 
-  * Utilizada en decisión, iteración.
-  * Formada por una o más condiciones
-  * Condiciones con tipos de datos diferentes
-  * Utiliza los operadores relacionales y condicionales
+* Utilizada en decisión, iteración.
+* Formada por una o más condiciones
+* Condiciones con tipos de datos diferentes
+* Utiliza los operadores relacionales y condicionales
 
 
 
 ### Comentarios:
 
-* **Yefri Gonzalez** (6)
+* **Yefri Gonzalez** (6) [512996](https://platzi.com/comentario/512996/) 
 
-	
 	Por acá dejo un link que explica la diferencia entre `[ <condición> ]` y `[[ <condición> ]]`:  
 	[What is the difference between test, [ and [[ ?](http://mywiki.wooledge.org/BashFAQ/031)
 
-	* **Yefri Gonzalez** (12)
+	* **Yefri Gonzalez** [512996] (12)
 
-		
 		Diferencia entre `[ ]` y `[[ ]]`
 		
 		Type | viejo [ comando ] | nuevo [[ comando ]] | Example  
@@ -4122,9 +3838,8 @@ Las expresiones condicionales ya las hemos visto en clases anteriores, pero en q
 		`if [[ $answer =~ ^y(es)?$ ]]`  
 		`if [[ $answer = y* ]]`
 
-* **Haroun Hussain Asto Rojas** (4)
+* **Haroun Hussain Asto Rojas** (4) [497629](https://platzi.com/comentario/497629/) 
 
-	
 	– Para el uso de if –
 	
 	ge : mayor o igual  
@@ -4132,23 +3847,20 @@ Las expresiones condicionales ya las hemos visto en clases anteriores, pero en q
 	le : menor o igual  
 	lt: menor
 
-	* **Haroun Hussain Asto Rojas** (1)
+	* **Haroun Hussain Asto Rojas** [497629] (1)
 
-		
 		-d : Si existe un archivo  
 		Usado en if [ - d $pathArchivo ]
 
-	* **carlosmora_biz** (1)
+	* **carlosmora_biz** [497629] (1)
 
-		
 		complemento con estos:
 		
 		eq: es igual a  
 		ne: no es igual a
 
-* **Hever Alfredo Morales Madrid** (3)
+* **Hever Alfredo Morales Madrid** (3) [558466](https://platzi.com/comentario/558466/) 
 
-	
 	## Operador Verdad (TRUE) si:
 	
 	-d fichero fichero existe y es un directorio  
@@ -4156,33 +3868,28 @@ Las expresiones condicionales ya las hemos visto en clases anteriores, pero en q
 	-f fichero fichero existe y es un fichero regular (no un  
 	directorio, u otro tipo de fichero especial)
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [717684](https://platzi.com/comentario/717684/) 
 
-	
 	Me podrían explicar por qué al comienzo del script declaramos la variable como 0 o “”?
 
-	* **GibsPM** (1)
+	* **GibsPM** [717684] (1)
 
-		
 		Inicialización de variables; se indica explícitamente el valor de arranque de la variable en lugar de dejar al shell colocar caracteres arbitrarios.
 
-	* **josemdiaza** (1)
+	* **josemdiaza** [717684] (1)
 
-		
 		Gracias 😃 @GibsPM
 
-* **Esteban Blanco Ortuno** (1)
+* **Esteban Blanco Ortuno** (1) [684257](https://platzi.com/comentario/684257/) 
 
-	
 	Me esta gustando este curso y el profesor explica bien.
 
-* **androw** (1)
+* **androw** (1) [546897](https://platzi.com/comentario/546897/) 
 
-	
 	GT -> Greater Than / mayor que / >  
 	LT -> Lower Than / menor que. / <
 
-## 0210. Sentencias Case
+## 0210. Sentencias Case [16561](https://platzi.com/clases/1468-bash-shell/16561-sentencias-case/)
 
 ### Descripción:
 
@@ -4191,9 +3898,8 @@ En la sentencia Case el objetivo principal es validar una expresión simple, pue
 
 ### Comentarios:
 
-* **JulioCardenasR** (13)
+* **JulioCardenasR** (13) [490855](https://platzi.com/comentario/490855/) 
 
-	
 	Para el caso default, cuando las entradas del case no se cumplen, el asterisco debe ir sin comillas.
 	``` 
 	    #/bin/bash
@@ -4212,22 +3918,19 @@ En la sentencia Case el objetivo principal es validar una expresión simple, pue
 	    
 	```
 
-	* **Diego Emanuel Ramirez** (1)
+	* **Diego Emanuel Ramirez** [490855] (1)
 
-		
 		Gracias Julio!
 
-	* **predator0077** (1)
+	* **predator0077** [490855] (1)
 
-		
 		Muchas Gracias por la información compañero
 
-	* **jaromerop** (1)
+	* **jaromerop** [490855] (1)
 
-		
 		Esperaba este comentario, gracias.
 
-* **Diego Emanuel Ramirez** (3)
+* **Diego Emanuel Ramirez** (3) [648280](https://platzi.com/comentario/648280/) 
 
 	```
 	      1 #!/bin/bash
@@ -4247,9 +3950,8 @@ En la sentencia Case el objetivo principal es validar una expresión simple, pue
 	    
 	```
 
-* **EPadronU23** (2)
+* **EPadronU23** (2) [825688](https://platzi.com/comentario/825688/) 
 
-	
 	En [Fish Shell](https://fishshell.com/):
 	``` 
 	    #!/usr/bin/fish
@@ -4300,19 +4002,16 @@ En la sentencia Case el objetivo principal es validar una expresión simple, pue
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1056658](https://platzi.com/comentario/1056658/) 
 
-	
 	para los puristas el -lt = menor a
 
-* **Líncol Saenz** (1)
+* **Líncol Saenz** (1) [646983](https://platzi.com/comentario/646983/) 
 
-	
 	Buenísimo el curso 😃
 
-* **JoanXD** (1)
+* **JoanXD** (1) [629385](https://platzi.com/comentario/629385/) 
 
-	
 	echo "Programa de una expresion simple"  
 	read -n1 -p "Introduce un valor entre ‘0’ y ‘1’, o ‘e’ para salir: " option  
 	echo -e "“  
@@ -4324,9 +4023,8 @@ En la sentencia Case el objetivo principal es validar una expresión simple, pue
 	esac  
 	echo -e “”
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [497666](https://platzi.com/comentario/497666/) 
 
-	
 	 **Sintaxis:**  
 	case $opcion in  
 	"1") echo “xxxxxxxxxxxxx” ;;  
@@ -4334,7 +4032,7 @@ En la sentencia Case el objetivo principal es validar una expresión simple, pue
 	“3”) echo “xxxxxxxxxxxxx” ;;  
 	esac
 
-## 0220. Reto 3
+## 0220. Reto 3 [24511](https://platzi.com/clases/1468-bash-shell/24511-reto-3/)
 
 ### Descripción:
 
@@ -4345,7 +4043,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 
 ### Comentarios:
 
-* **freddymm** (2)
+* **freddymm** (2) [895891](https://platzi.com/comentario/895891/) 
 
 	```
 	      1 #!/bin/bash
@@ -4375,7 +4073,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1056667](https://platzi.com/comentario/1056667/) 
 
 	```
 	    # !/usr/bin/fish
@@ -4426,7 +4124,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Marck  MR** (1)
+* **Marck  MR** (1) [1033063](https://platzi.com/comentario/1033063/) 
 
 	```
 	    #! /bin/bash
@@ -4518,7 +4216,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [989802](https://platzi.com/comentario/989802/) 
 
 	```
 	    # !/bin/bash
@@ -4556,7 +4254,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Ian Javier Duran Roman** (1)
+* **Ian Javier Duran Roman** (1) [977808](https://platzi.com/comentario/977808/) 
 
 	```
 	    # !/bin/bash
@@ -4614,7 +4312,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Marcelo Andrés Fernández Poo** (1)
+* **Marcelo Andrés Fernández Poo** (1) [961696](https://platzi.com/comentario/961696/) 
 <h1>!/bin/bash</h1>
 	
 	expresion=’^[1-5]$'  
@@ -4626,7 +4324,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	echo -e "Opción incorrecta"  
 	fi
 
-* **Valakyr** (1)
+* **Valakyr** (1) [929700](https://platzi.com/comentario/929700/) 
 
 	```
 	    # !/bin/bash
@@ -4656,7 +4354,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Luis Miguel Taque Diaz** (1)
+* **Luis Miguel Taque Diaz** (1) [848238](https://platzi.com/comentario/848238/) 
 
 	```
 	    # ! \bin\bash
@@ -4704,7 +4402,7 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [834863](https://platzi.com/comentario/834863/) 
 
 	```
 	    # !/bin/bash
@@ -4750,12 +4448,11 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-* **dfpinzons** (1)
+* **dfpinzons** (1) [830988](https://platzi.com/comentario/830988/) 
 
-	
 	Creo que esta mal redactada la pregunta
 
-* **Mary Luz Giraldo** (0)
+* **Mary Luz Giraldo** (0) [820187](https://platzi.com/comentario/820187/) 
 
 	```
 	    #!/bin/bash
@@ -4772,9 +4469,9 @@ Solicitar que se ingrese un valor del 1 al 5. Según el valor ingresado valor a 
 	    
 	```
 
-# Iteración
+# Iteración [3282]
 
-## 0230. Arreglos
+## 0230. Arreglos [16563](https://platzi.com/clases/1468-bash-shell/16563-arreglos0703/)
 
 ### Descripción:
 
@@ -4783,9 +4480,8 @@ Los Arreglos son un tipo de variables que puede contener N cantidad de valores y
 
 ### Comentarios:
 
-* **gustavowilgenhoff** (6)
+* **gustavowilgenhoff** (6) [880334](https://platzi.com/comentario/880334/) 
 
-	
 	Para cambiar el color en vim ingresar :colorscheme y el nombre del esquema de color. Por ejemplo
 	``` 
 	    :colorschemedesert
@@ -4796,14 +4492,12 @@ Los Arreglos son un tipo de variables que puede contener N cantidad de valores y
 	
 	Para establecer el esquema de color por defecto , editar el archivo .vimrc y agregar una linea `colorscheme desert`
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [880334] (1)
 
-		
 		Que gran aporte compañero!, el tema desert me resulta más cómodo para usar en vim, muchas gracias por compartirlo 😃.
 
-* **Luis Fernando Cruz Carrillo** (4)
+* **Luis Fernando Cruz Carrillo** (4) [949193](https://platzi.com/comentario/949193/) 
 
-	
 	Aquí les dejo el esquema de colores de Atom para vim:  
 	<https://github.com/joshdick/onedark.vim>
 	
@@ -4813,54 +4507,44 @@ Los Arreglos son un tipo de variables que puede contener N cantidad de valores y
 	Y para manejar plugins con facilidad:  
 	<https://github.com/VundleVim/Vundle.vim>
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [949193] (1)
 
-		
 		gracias!!
 
-* **gersonguillensolano** (3)
+* **gersonguillensolano** (3) [785620](https://platzi.com/comentario/785620/) 
 
-	
 	Si escucho la palabra tema una vez más me va a dar una embolia
 
-	* **predator0077** (1)
+	* **predator0077** [785620] (1)
 
-		
 		Jajajajaja lo mismo pensé
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [785620] (1)
 
-		
 		 **+∞**
 
-	* **rafster.15** (0)
+	* **rafster.15** [785620] (0)
 
-		
 		el tema es que esa muletilla es complicada por un tema de dificultad al usarla ,en fin el tema de todo este comentario no es mas que por un tema de quere decir que el tema del curso me gusto mucho y tema quiero seguir aprendiendo otros temas
 
-	* **Carlos Bustos** (1)
+	* **Carlos Bustos** [785620] (1)
 
-		
 		Jajajajajajajajaja XD algun dia
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [785620] (1)
 
-		
 		lol
 
-* **josemdiaza** (3)
+* **josemdiaza** (3) [719139](https://platzi.com/comentario/719139/) 
 
-	
 	[Arrays en Bash](https://gulvi.com/serie/curso-programacion-bash/capitulo/arrays-bash)
 
-* **Haroun Hussain Asto Rojas** (3)
+* **Haroun Hussain Asto Rojas** (3) [498031](https://platzi.com/comentario/498031/) 
 
-	
 	shebang : #!/bin/bash
 
-* **Leonardo Perez Hurtado** (2)
+* **Leonardo Perez Hurtado** (2) [539021](https://platzi.com/comentario/539021/) 
 
-	
 	Mi aporte de hoy
 	``` 
 	    # imprimir todos los valores
@@ -4878,32 +4562,28 @@ Los Arreglos son un tipo de variables que puede contener N cantidad de valores y
 	    
 	```
 
-* **JulioCardenasR** (2)
+* **JulioCardenasR** (2) [490917](https://platzi.com/comentario/490917/) 
 
-	
 	Poderoso el manejo de arreglos es bash.
 	
 	una duda:
 	
 	el numero 20 no se debio insertar en la posicion 6? ya que se empieza a contar desde 0.
 
-	* **Marco Antonio Toscano Freire** (6)
+	* **Marco Antonio Toscano Freire** [490917] (6)
 
-		
 		Estimado Julio, estoy ingresando valores al arreglo por posición, el valor 20 ingresaría en la posiciòn [7], si imprimes la posición [6] verificaras que esta vacío, al igual que la posición [0]. Saludos
 
-	* **GibsPM** (2)
+	* **GibsPM** [490917] (2)
 
-		
 		En los arreglos indizados a 0, como es el caso aquí en bash, a la posición que queremos mostrar le debemos restar 1 : Si queremos saber el cuarto (4°) elemento de un arreglo, se codifica como _${variableArreglo[3]}_ ; si queremos saber el segundo (2°) elemento de un arreglo, se codifica como _${variableArreglo[1]}_ , etc.  
 		_arregloNumeros[7]=20_ lo que en realidad hace es insertar el número 20 como el octavo (8°) elemento en el arreglo.
 
-* **franciscovelsa** (2)
+* **franciscovelsa** (2) [77811](https://platzi.com/comentario/910137/) 
 El color azul en el terminal no se ve nada
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [827475](https://platzi.com/comentario/827475/) 
 
-	
 	En Fish shell:
 	``` 
 	    set-l intArray 1 2 3  # Literales (enteros)
@@ -4921,15 +4601,13 @@ El color azul en el terminal no se ve nada
 	    
 	```
 
-* **Christopher Giovanny Ortiz Montero** (1)
+* **Christopher Giovanny Ortiz Montero** (1) [780106](https://platzi.com/comentario/780106/) 
 
-	
 	Buenas noches, disculpen alguien podría facilitarme el link del repositorio de Git Hub de este curso.  
 	Gracias
 
-* **JoanXD** (1)
+* **JoanXD** (1) [629397](https://platzi.com/comentario/629397/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	5 array_fib=(1 1 2 3 5 8)  
 	6 array_chain=(“first” “second” “third” “fourth” “fifth” “sixth”)
@@ -4969,37 +4647,34 @@ El color azul en el terminal no se ve nada
 	37 #show the values in the same lines  
 	38 echo “Array of range: ${array_range[*]}”
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [511562](https://platzi.com/comentario/511562/) 
 
-	
 	`while :` While infinito
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [511477](https://platzi.com/comentario/511477/) 
 
-	
 	 **Expresiones condicionales**
 	
-	  * ge : mayor o igual
-	  * gt: mayor
-	  * le : menor o igual
-	  * lt: menor
-	  * ne: diferente
+	* ge : mayor o igual
+	* gt: mayor
+	* le : menor o igual
+	* lt: menor
+	* ne: diferente
 	
 	
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [511476](https://platzi.com/comentario/511476/) 
 
-	
 	**Sintaxis**  
 	while [ sentencia ]  
 	do  
 	echo "xxxxxxx"  
 	done
 
-* **Miguel Yonathan Casiano Vidal** (1)
+* **Miguel Yonathan Casiano Vidal** (1) [71399](https://platzi.com/comentario/796228/) 
 Alguien me puede ayudar a resolver la siguiente duda de por qué salen diferentes resultados por favor esto surgió por qué no distinguía b...
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [71399] (1)
 
 		```
 		    {A...Z} {10..20}  # Expande dos rangos distintos a los elementos que los conforman
@@ -5008,15 +4683,14 @@ Alguien me puede ayudar a resolver la siguiente duda de por qué salen diferente
 		    
 		```
 
-* **JulioCardenasR** (1)
+* **JulioCardenasR** (1) [51381](https://platzi.com/comentario/490917/) 
 Poderoso el manejo de arreglos es bash. una duda: el numero 20 no se debio insertar en la posicion 6? ya que se empieza a contar desde 0.
 
-	* **Marco Antonio Toscano Freire** (6)
+	* **Marco Antonio Toscano Freire** [51381] (6)
 
-		
 		Estimado Julio, estoy ingresando valores al arreglo por posición, el valor 20 ingresaría en la posiciòn [7], si imprimes la posición [6] verificaras que esta vacío, al igual que la posición [0]. Saludos
 
-## 0240. Sentencia for loop
+## 0240. Sentencia for loop [16564](https://platzi.com/clases/1468-bash-shell/16564-sentencia-for-loop/)
 
 ### Descripción:
 
@@ -5025,14 +4699,12 @@ La sentencia For es esa que se suele utilizar mucho cuando se quiere recorrer o 
 
 ### Comentarios:
 
-* **josemdiaza** (3)
+* **josemdiaza** (3) [720767](https://platzi.com/comentario/720767/) 
 
-	
 	[Una explicación buena de los loops](https://swcarpentry.github.io/shell-novice-es/05-loop/index.html)
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [786428](https://platzi.com/comentario/786428/) 
 
-	
 	En lo personal me resultó útil para descomprimir archivos y darle nombre.
 	``` 
 	    
@@ -5047,12 +4719,11 @@ La sentencia For es esa que se suele utilizar mucho cuando se quiere recorrer o 
 	    
 	```
 
-* **eleinybello** (2)
+* **eleinybello** (2) [782072](https://platzi.com/comentario/782072/) 
 
-	
 	Me gustaría que por sentencia, vaya mostrando el resultado e explicándolo. Poco a poco, no todo al final.
 
-* **Leonardo Perez Hurtado** (2)
+* **Leonardo Perez Hurtado** (2) [539019](https://platzi.com/comentario/539019/) 
 
 	```
 	    # imprimir todos los valores
@@ -5070,14 +4741,12 @@ La sentencia For es esa que se suele utilizar mucho cuando se quiere recorrer o 
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1056795](https://platzi.com/comentario/1056795/) 
 
-	
 	Para los puristas si utilizan otro kernel: Shift + pg up or down
 
-* **JoanXD** (1)
+* **JoanXD** (1) [630618](https://platzi.com/comentario/630618/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	5 array_fib=(1 1 2 3 5 8)  
 	6 array_chain=(“first” “second” “third” “fourth” “fifth” “sixth”)  
@@ -5138,7 +4807,7 @@ La sentencia For es esa que se suele utilizar mucho cuando se quiere recorrer o 
 	61 counter=0  
 	62 echo -e “”
 
-## 0250. Sentencia while loop
+## 0250. Sentencia while loop [16566](https://platzi.com/clases/1468-bash-shell/16566-sentencia-while-loop/)
 
 ### Descripción:
 
@@ -5147,14 +4816,12 @@ El While itera una lista de valores basada en una condición lógica mientras es
 
 ### Comentarios:
 
-* **superaccess** (11)
+* **superaccess** (11) [518123](https://platzi.com/comentario/518123/) 
 
-	
 	Buen trabajo, muy explicado pero solo una sugerencia: procurar evitar decir tantas veces “el tema de”. Solo es una sugerencia.
 
-* **Carlos Augusto Pérez Méndez** (4)
+* **Carlos Augusto Pérez Méndez** (4) [678557](https://platzi.com/comentario/678557/) 
 
-	
 	Si en lugar de poner “$numero -ne 10” probamos con “-le” que significa <= te imprimirá las repeticiones hasta el 10 ya que con, -ne cuando **numero** es igual a 10 al evaluarse la condición el resultado es falso puesto que son iguales y por lo tanto el ciclo termina mostrando únicamente hasta el 9.
 	
 	Yo le agregué una opción para ingresar el número deseado de repeticiones.
@@ -5180,12 +4847,11 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [678557] (1)
 
-		
 		set N=pi
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [722560](https://platzi.com/comentario/722560/) 
 
 	```
 	    # Fibonacci usando while
@@ -5209,12 +4875,12 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-* **Carlos Augusto Pérez Méndez** (1)
-![Captura de pantalla de 2019-08-06 14-26-43.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-08-06%2014-26-43-368641fc-f400-495e-a9d9-565d6fa72c72.jpg)
-
-* **JoanXD** (1)
-
+* **Carlos Augusto Pérez Méndez** (1) [678563](https://platzi.com/comentario/678563/) 
 	
+	![Captura de pantalla de 2019-08-06 14-26-43.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-08-06%2014-26-43-368641fc-f400-495e-a9d9-565d6fa72c72.jpg)
+
+* **JoanXD** (1) [638575](https://platzi.com/comentario/638575/) 
+
 	Script escrito y probado en Ubunto 18.04  
 	#Muestra los números de la serie de fibonnacci hasta la posición  
 	#indicada  
@@ -5253,16 +4919,15 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	
 	done
 
-## 0260. Loop Anidados
+## 0260. Loop Anidados [16565](https://platzi.com/clases/1468-bash-shell/16565-loop-anidados/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **gustavowilgenhoff** (2)
+* **gustavowilgenhoff** (2) [880760](https://platzi.com/comentario/880760/) 
 
-	
 	Programa para listar las líneas de codigo de todos los archivos
 	``` 
 	    for file in $(ls *.sh)
@@ -5276,9 +4941,8 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [880760] (1)
 
-		
 		Solo muestra las líneas de operaciones no de los comentarios, buen programa, en el done del while se lee como finaliza cuando sea menor a todos los $files del for
 		``` 
 		    # !/bin/bash
@@ -5293,9 +4957,8 @@ El While itera una lista de valores basada en una condición lógica mientras es
 		    
 		```
 
-* **Davidre0795** (2)
+* **Davidre0795** (2) [785390](https://platzi.com/comentario/785390/) 
 
-	
 	De 00:00 hrs a 23:59 hrs
 	``` 
 	    for ((i=00; i<24; i++))
@@ -5322,14 +4985,12 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [785390] (1)
 
-		
 		nice
 
-* **JoanXD** (1)
+* **JoanXD** (1) [638766](https://platzi.com/comentario/638766/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	#Programa para mostrar la serie de Fibonacci hasta la posición introducida  
 	5 declare -i loop_control=2 #declare “loop_control” as Integer  
@@ -5369,55 +5030,50 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	39 fi  
 	40 done
 
-	* **josemdiaza** (1)
+	* **josemdiaza** [638766] (1)
 
-		
 		Compi te recomiendo que cuando compartas un codigo uses la herramienta de la caja de comentarios **“ </> Código”** ya que de la manera que lo compartes es visualmente molesto.
 
-## 0270. Break y continue
+## 0270. Break y continue [16567](https://platzi.com/clases/1468-bash-shell/16567-break-y-continue/)
 
 ### Descripción:
 
 
-  * Break se utiliza para salir de la ejecución de los ciclos for y while.
-  * Continue se utiliza para continuar con la siguiente ejecución.
+* Break se utiliza para salir de la ejecución de los ciclos for y while.
+* Continue se utiliza para continuar con la siguiente ejecución.
 
 
 
 ### Comentarios:
 
-* **Nicolasdds** (8)
+* **Nicolasdds** (8) [523143](https://platzi.com/comentario/523143/) 
 
-	
 	El tema es que el tema del tema de todo este tema es todo un tema.
 
-	* **Vicente Miño Ibarra** (1)
+	* **Vicente Miño Ibarra** [523143] (1)
 
-		
 		Jajajaja estaba esperando este comentario
 
-	* **Gtiseira** (1)
+	* **Gtiseira** [523143] (1)
 
-		
 		Jaja me da pena el profe, porque lo hace sin querer… se le re pego la palabra, es un todo un tema!
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1056929](https://platzi.com/comentario/1056929/) 
 
-	
 	 **La explicación es**
 	
-	  * Que en el intérprete de comandos lee todo el **if** por que esta dentro de un bucle **for** y el **break** de este _‘if’_ termina el bucle.
+	* Que en el intérprete de comandos lee todo el **if** por que esta dentro de un bucle **for** y el **break** de este _‘if’_ termina el bucle.
 	
-	  * Pero hay un **elsif** que está anidado y su condición es que, si detecta algún $file que empiece con 4 entonces **continue** pero esta función pasa por alto dicho archivo ocultándolo, por lo tanto el bucle termina cuando llega al 10_download.sh
+	* Pero hay un **elsif** que está anidado y su condición es que, si detecta algún $file que empiece con 4 entonces **continue** pero esta función pasa por alto dicho archivo ocultándolo, por lo tanto el bucle termina cuando llega al 10_download.sh
 	
-	  * En resumidas cuentas la orden del **break** significa cuando finaliza y el **continue** lo oculta iterando hasta su condición principal y como estas condiciones están dentro del bucle **for**
+	* En resumidas cuentas la orden del **break** significa cuando finaliza y el **continue** lo oculta iterando hasta su condición principal y como estas condiciones están dentro del bucle **for**
 	
 	
 	
 	
 	**Bingo**
 
-* **Luber** (1)
+* **Luber** (1) [912978](https://platzi.com/comentario/912978/) 
 
 	```
 	     # !/bin/bash
@@ -5477,9 +5133,8 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-* **gustavowilgenhoff** (1)
+* **gustavowilgenhoff** (1) [883602](https://platzi.com/comentario/883602/) 
 
-	
 	Ejemplo para leer contenido de archivos y saltear los comantarios
 	``` 
 	    echo"Break y continue. Leo el contenido de los archivo"
@@ -5503,24 +5158,20 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [722622](https://platzi.com/comentario/722622/) 
 
-	
 	[Break and continue](https://www.garron.me/en/go2linux/bash-for-loop-break-continue-sintax.html)
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [722614](https://platzi.com/comentario/722614/) 
 
-	
 	No me quedo claro el uso del break con esta clase. Por otro lado, no queda muy claro el uso del “== *4” en el elif.
 
-	* **Jonhatan prieto mora** (1)
+	* **Jonhatan prieto mora** [722614] (1)
 
-		
 		el ==4* lo que indica es que si el nombre del archivo inicia con el numero 4.
 
-* **JoanXD** (1)
+* **JoanXD** (1) [641743](https://platzi.com/comentario/641743/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	5 echo "Continue and break sentences"  
 	6 for file in $(ls) #OS command  
@@ -5540,24 +5191,23 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	20 done  
 	21 done
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [493732](https://platzi.com/comentario/493732/) 
 
-	
 	este es mi avance en el curso,con este curso de programación bash he reforzado mas el concepto de bucles que se usan en lenguajes de programación como java o php, en este caso aplicado al bash
 
-* **Alfonso Adame Rueda** (1)
-![Captura26.PNG](https://static.platzi.com/media/user_upload/Captura26-352b1803-140c-4b88-adf9-5c30cccc8d27.jpg)
+* **Alfonso Adame Rueda** (1) [493729](https://platzi.com/comentario/493729/) 
+	
+	![Captura26.PNG](https://static.platzi.com/media/user_upload/Captura26-352b1803-140c-4b88-adf9-5c30cccc8d27.jpg)
 
-## 0280. Menú de Opciones
+## 0280. Menú de Opciones [16568](https://platzi.com/clases/1468-bash-shell/16568-menu-de-opciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **freddymm** (3)
+* **freddymm** (3) [899905](https://platzi.com/comentario/899905/) 
 
-	
 	**Menu de opciones con una pequeña introduccion animada **
 	``` 
 	      1 #! /bin/bash
@@ -5661,7 +5311,7 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [899905] (1)
 
 		```
 		    # !/bin/bash
@@ -5766,7 +5416,7 @@ El While itera una lista de valores basada en una condición lógica mientras es
 		    
 		```
 
-* **Luis Miguel Taque Diaz** (1)
+* **Luis Miguel Taque Diaz** (1) [853092](https://platzi.com/comentario/853092/) 
 <h1>! /bin/bash</h1> <h1>Programa que permite manejar las utilidades de Postgres</h1> <h1>Autor : LTAQUE</h1>
 	
 	opcion=0
@@ -5813,9 +5463,8 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	    
 	```
 
-* **JoanXD** (1)
+* **JoanXD** (1) [641750](https://platzi.com/comentario/641750/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	5 #Requisitos  
 	6 regex_option=’^[1-5]{1}'  
@@ -5880,27 +5529,23 @@ El While itera una lista de valores basada en una condición lógica mientras es
 	65  
 	66 done
 
-* **Breiner  Nieto Barcelo** (1)
+* **Breiner  Nieto Barcelo** (1) [553258](https://platzi.com/comentario/553258/) 
 
-	
 	Cuando ejecuto la opcion 5 se sale del programa, pero tambien me cierra la conexion en mi usuario de linux, por lo que debo volver a loguear el usuario root. Es normal que pase o se trata de un error?
 
-	* **memowii** (1)
+	* **memowii** [553258] (1)
 
-		
 		Si todavía presentas este problema, podrías postear tu código para poder checarlo?
 
-	* **Juan Manuel Megia Navarro** (2)
+	* **Juan Manuel Megia Navarro** [553258] (2)
 
-		
 		Hola, puedes colocar la sentencia brake para romper el bucle y que no cierre sesión.
 
-* **freddymm** (1)
+* **freddymm** (1) [77173](https://platzi.com/comentario/899585/) 
 ¿Que tiene de mal mi código? # ! /bin/bash 2 x=0 3 while : 4 do 5 clear 6 echo "________________...
 
-	* **Ivan Rene Acosta Lallemand** (1)
+	* **Ivan Rene Acosta Lallemand** [77173] (1)
 
-		
 		Hola amigo, creo que es cuestión de espacios, revisa el código adjunto el cual agregue espacios y otra opcion de mas. Espero te ayude!
 		``` 
 		    # ! /bin/bash
@@ -5952,15 +5597,14 @@ El While itera una lista de valores basada en una condición lógica mientras es
 		    
 		```
 
-* **Breiner  Nieto Barcelo** (1)
+* **Breiner  Nieto Barcelo** (1) [56485](https://platzi.com/comentario/553258/) 
 Cuando ejecuto la opcion 5 se sale del programa, pero tambien me cierra la conexion en mi usuario de linux, por lo que debo volver a logu...
 
-	* **memowii** (1)
+	* **memowii** [56485] (1)
 
-		
 		Si todavía presentas este problema, podrías postear tu código para poder checarlo?
 
-## 0290. Reto 4
+## 0290. Reto 4 [24512](https://platzi.com/clases/1468-bash-shell/24512-reto-4/)
 
 ### Descripción:
 
@@ -5984,7 +5628,7 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 
 ### Comentarios:
 
-* **Luis Fernando Cruz Carrillo** (2)
+* **Luis Fernando Cruz Carrillo** (2) [951395](https://platzi.com/comentario/951395/) 
 
 	```
 	    #!/bin/bash
@@ -6066,9 +5710,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **freddymm** (2)
+* **freddymm** (2) [900005](https://platzi.com/comentario/900005/) 
 
-	
 	**DONE**
 	``` 
 	    #! /bin/bash
@@ -6191,9 +5834,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1067374](https://platzi.com/comentario/1067374/) 
 
-	
 	Aqui les dejo mmi version:
 	``` 
 	    # ! /bin/bash
@@ -6276,12 +5918,11 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1056968](https://platzi.com/comentario/1056968/) 
 
-	
 	OMG!
 
-* **Marck  MR** (1)
+* **Marck  MR** (1) [1037138](https://platzi.com/comentario/1037138/) 
 
 	```
 	    #!/bin/bash
@@ -6381,9 +6022,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Javier Avilés** (1)
+* **Javier Avilés** (1) [1036110](https://platzi.com/comentario/1036110/) 
 
-	
 	Bien echo!
 	``` 
 	    #!/bin/bash
@@ -6469,9 +6109,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [991046](https://platzi.com/comentario/991046/) 
 
-	
 	Challenge:
 	``` 
 	     1 # !/bin/bash
@@ -6532,9 +6171,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Ian Javier Duran Roman** (1)
+* **Ian Javier Duran Roman** (1) [987129](https://platzi.com/comentario/987129/) 
 
-	
 	**Script reto 4**
 	``` 
 	    # !/bin/bash
@@ -6601,9 +6239,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **rafster.15** (1)
+* **rafster.15** (1) [944086](https://platzi.com/comentario/944086/) 
 
-	
 	#! /bin/bash  
 	#Reto 4 curso de terminal y bash  
 	#Autor: @Limon
@@ -6674,7 +6311,7 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	
 	done
 
-* **Valakyr** (1)
+* **Valakyr** (1) [929737](https://platzi.com/comentario/929737/) 
 
 	```
 	    # ! bin/bash
@@ -6749,7 +6386,7 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Luis Miguel Taque Diaz** (1)
+* **Luis Miguel Taque Diaz** (1) [853134](https://platzi.com/comentario/853134/) 
 
 	```
 	    opcion=0
@@ -6804,14 +6441,12 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [838910](https://platzi.com/comentario/838910/) 
 
-	
 	¿Saben por qué mi For imprime las opciones en renglones separados? Eso no pasa cuándo se imprime la opción seleccionada 😕
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [838907](https://platzi.com/comentario/838907/) 
 
-	
 	Mi código:
 	``` 
 	    # !/bin/bash
@@ -6876,9 +6511,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-	* **Carlos Arturo Bernal Fuquen** (1)
+	* **Carlos Arturo Bernal Fuquen** [838907] (1)
 
-		
 		Hola amigo  
 		Me pareció interesante tu programa, así que estuve buscando en google y encontré esta alternativa para imprimir la opción for:
 		
@@ -6889,25 +6523,24 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 		
 		Saludos
 
-# Archivos
+# Archivos [3283]
 
-## 0300. Archivos y Directorios
+## 0300. Archivos y Directorios [16570](https://platzi.com/clases/1468-bash-shell/16570-archivos-y-directorios/)
 
 ### Descripción:
 
 
-  * Para crear directorios utilizamos el comando **mkdir** seguido del nombre que queremos colocar.
+* Para crear directorios utilizamos el comando **mkdir** seguido del nombre que queremos colocar.
 
-  * Para crear archivos utilizamos el comando **touch** seguido del nombre que queremos colocar.
+* Para crear archivos utilizamos el comando **touch** seguido del nombre que queremos colocar.
 
 
 
 
 ### Comentarios:
 
-* **gustavowilgenhoff** (2)
+* **gustavowilgenhoff** (2) [892867](https://platzi.com/comentario/892867/) 
 
-	
 	Para validar si el usuario pasa el número correcto de parámetros
 	``` 
 	    if [[ $#-ne 2 ]]; then
@@ -6929,9 +6562,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **EPadronU23** (2)
+* **EPadronU23** (2) [827660](https://platzi.com/comentario/827660/) 
 
-	
 	Método para crear un archivo sin modificar sus tiempos de acceso (lo que realmente hace `touch`. La creación de un archivo es un side-effect):
 	``` 
 	    ([ -e $file ] && echo "El archivo ya existe") || (touch $file && echo "El archivo fue creado")
@@ -6944,9 +6576,8 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **JulioCardenasR** (2)
+* **JulioCardenasR** (2) [495188](https://platzi.com/comentario/495188/) 
 
-	
 	agregue al principio unas lineas para verificar que esten pasando el numero correcto de argumentos :
 	``` 
 	    #!/bin/bash
@@ -6973,22 +6604,19 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1056982](https://platzi.com/comentario/1056982/) 
 
-	
 	Si quieren mostrar el árbol de un directorio prueben **tree /directorio/**
 
-* **isra_rivero** (1)
+* **isra_rivero** (1) [926447](https://platzi.com/comentario/926447/) 
 
-	
 	Si quieren desplegar el nombre del directorio creado cambien por ls -ld $2. El comando ls -la $2 despliega su contenido.
 
-* **josemdiaza** (1)
+* **josemdiaza** (1) [724098](https://platzi.com/comentario/724098/) 
 
-	
 	5 es lectura y ejecución 😃
 
-* **Diego Emanuel Ramirez** (1)
+* **Diego Emanuel Ramirez** (1) [650965](https://platzi.com/comentario/650965/) 
 
 	```
 	      1 # !/bin/bash
@@ -7018,67 +6646,59 @@ Posterior a esto vamos a recuperar la opción ingresada, validarla e imprimir la
 	    
 	```
 
-* **Carlos Eduardo Lopez Bru** (1)
+* **Carlos Eduardo Lopez Bru** (1) [65681](https://platzi.com/comentario/696002/) 
 un saludo cordial tengo una inquietud sobre como enviarle a una aplicación linux datos de acceso como el usuario y la contraseña por par...
 
-	* **josemdiaza** (2)
+	* **josemdiaza** [65681] (2)
 
-		
 		Variables de entorno.
 
-## 0310. Escribir dentro de archivos
+## 0310. Escribir dentro de archivos [16569](https://platzi.com/clases/1468-bash-shell/16569-escribir-dentro-de-archivos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **freddymm** (3)
+* **freddymm** (3) [900622](https://platzi.com/comentario/900622/) 
 
-	
 	Aquí les dejo un link a una clase del curso introducción a la terminal, ahi se explica más detalladamente el uso del **< <** y del **> >** , ayuda mucho a asimilar el conocimiento  
 	.  
 	<https://platzi.com/clases/1276-terminal-2019/11189-streams/>
 
-* **Alfonso Adame Rueda** (3)
-![Captura27.PNG](https://static.platzi.com/media/user_upload/Captura27-6184a49f-97d0-4480-ac00-ad76b47f68b0.jpg)
-
-* **josemdiaza** (2)
-
+* **Alfonso Adame Rueda** (3) [494533](https://platzi.com/comentario/494533/) 
 	
+	![Captura27.PNG](https://static.platzi.com/media/user_upload/Captura27-6184a49f-97d0-4480-ac00-ad76b47f68b0.jpg)
+
+* **josemdiaza** (2) [724144](https://platzi.com/comentario/724144/) 
+
 	[<< EOM/EOF](https://superuser.com/questions/1003760/what-does-eof-do)
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [724144] (1)
 
-		
 		Gracias por el aporte. En el video no se explica mucho al respecto.
 
-* **Alfonso Adame Rueda** (2)
+* **Alfonso Adame Rueda** (2) [494532](https://platzi.com/comentario/494532/) 
 
-	
 	por si de pronto les pasa no se puede dejar un espacio en la palabra reservada EOM marca un error de final de archivo.
 
-	* **Mark-Monty** (1)
+	* **Mark-Monty** [494532] (1)
 
-		
 		Lo intente realizar con el espacio y si me dio el resultado deseado, en centos 7.7
 
-* **Emerson Cedeño Salazar** (1)
+* **Emerson Cedeño Salazar** (1) [935844](https://platzi.com/comentario/935844/) 
 
-	
 	escribir en archivos se hace muy útil al programar _scripts_ mediante `crontab` _(por ejemplo)_ , como si fueran `logs` … ahora bien, cómo se hace si uno quisiera **enviar por correo** y no escribir en archivos?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [935844] (1)
 
-		
 		Tendrías que tener una integración a una API de un servicio que te permita hacer esto, por ejemplo con curl, pero en este caso creo que sería mejor correr un Script en un lenguaje de más alto nivel, como JavaScript o Python que tienen mejor integración con APIs 😄
 
-	* **Emmanuel Sosa Reyes** (1)
+	* **Emmanuel Sosa Reyes** [935844] (1)
 
-		
 		Hay una aplicación que sirve para enviar correos mediante la consola. Si tienes que instalar varias cosas que funcione correctamente. Creo se llama “mailx” o algo así. Yo la usaba para hacer respaldos automáticos y enviarlos por correo inmediatamente.
 
-* **Luber** (1)
+* **Luber** (1) [913466](https://platzi.com/comentario/913466/) 
 
 	```
 	    # !/bin/bash
@@ -7107,14 +6727,12 @@ un saludo cordial tengo una inquietud sobre como enviarle a una aplicación linu
 	    
 	```
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [827667](https://platzi.com/comentario/827667/) 
 
-	
 	En este script se utiliza redirección. Para más información [visiten este enlance](https://www.gnu.org/software/bash/manual/html_node/Redirections.html).
 
-* **JoanXD** (1)
+* **JoanXD** (1) [641755](https://platzi.com/comentario/641755/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	5 echo “ECHO” >> $1  
 	6 echo “Cadena annadida mediante echo” >> $1 # Lo introducido, a tra ves de $2, se annade al  
@@ -7142,32 +6760,29 @@ un saludo cordial tengo una inquietud sobre como enviarle a una aplicación linu
 	28  
 	29 echo “File $1 creado”
 
-* **AnthonySQC** (1)
+* **AnthonySQC** (1) [81547](https://platzi.com/comentario/983493/) 
 Buenas, estoy probando a escribir por la terminal lo siguiente: echo << STOP Dos lineas STOP Y no entiendo porque no ...
 
-* **Emerson Cedeño Salazar** (1)
+* **Emerson Cedeño Salazar** (1) [79211](https://platzi.com/comentario/935848/) 
 cómo podría uno en lugar de escribir un texto en un archivo, enviar este texto por correo?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [79211] (1)
 
-		
 		Esto da para un tutorial, pero te doy la guía para que empieces. Se puede hacer con el comando `mail` en linux y macOS sólo tienes que configurar tu **[SMTP](https://es.wikipedia.org/wiki/Protocolo_para_transferencia_simple_de_correo)**.
 
-## 0320. Leer Archivos
+## 0320. Leer Archivos [16572](https://platzi.com/clases/1468-bash-shell/16572-leer-archivos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **josemdiaza** (4)
+* **josemdiaza** (4) [724165](https://platzi.com/comentario/724165/) 
 
-	
 	[IFS ](https://bash.cyberciti.biz/guide/$IFS)
 
-* **Francisco Echeverri George** (1)
+* **Francisco Echeverri George** (1) [692124](https://platzi.com/comentario/692124/) 
 
-	
 	podemos ir copiando y dando enter hasta las lineas que queramos enviar al argumento y se finaliza con control+c
 	
 	echo “Escribir en un archivo”
@@ -7176,36 +6791,32 @@ cómo podría uno en lugar de escribir un texto en un archivo, enviar este texto
 	
 	Muchas gracias profe
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [494563](https://platzi.com/comentario/494563/) 
 
-	
 	hola buenas tardes no es nada facil para mi hacer las comillas dobles , lo hice con control y la tecla + , si sabes otra forma coenta por favor
 
-	* **Miusuarioplatzi** (2)
+	* **Miusuarioplatzi** [494563] (2)
 En la línea “valorCat=`cat $1” lo dejé sin apostrofe (`) por tanto quedó “valorCat=cat $1”..... de ese modo logró correr.
 
-	* **JoanXD** (1)
+	* **JoanXD** [494563] (1)
 
-		
 		Buenas. A mi me ha funcionado usando esa línea con la siguiente sintaxis: value_cat=`cat $1` (2 caracteres `, uno al  
 		principio y otro al final). De este modo me ha funcionado  
 		correctamente.
 
-	* **freddymm** (1)
+	* **freddymm** [494563] (1)
 
-		
 		intenta presionando la tecla **Alt Gr + la telca que cierra las llaves**
 
-## 0330. Operaciones Archivos
+## 0330. Operaciones Archivos [16571](https://platzi.com/clases/1468-bash-shell/16571-operaciones-archivos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **JoanXD** (2)
+* **JoanXD** (2) [641866](https://platzi.com/comentario/641866/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	5 destination_file="backup_test/"  
 	6  
@@ -7237,12 +6848,11 @@ En la línea “valorCat=`cat $1” lo dejé sin apostrofe (`) por tanto quedó 
 	32 echo "Eliminate all the *.txt files of the folder $destination_fil e"  
 	33 rm -rf *.txt
 
-* **predator0077** (1)
+* **predator0077** (1) [809075](https://platzi.com/comentario/809075/) 
 
-	
 	Asombrado del poder de los Scripts
 
-## 0340. Reto 5
+## 0340. Reto 5 [24513](https://platzi.com/clases/1468-bash-shell/24513-reto-5/)
 
 ### Descripción:
 
@@ -7253,14 +6863,12 @@ Modificar el archivo [utilityHost.sh](http://utilityHost.sh) para escribir la in
 
 ### Comentarios:
 
-* **Antonio Rafael González Ferrer** (4)
+* **Antonio Rafael González Ferrer** (4) [838988](https://platzi.com/comentario/838988/) 
 
-	
 	No comprendo el reto 😕
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1071004](https://platzi.com/comentario/1071004/) 
 
-	
 	Aqui esta mi reto: Basicamente utilice el mismo codigo que utilice en el Reto#3. Lo unico que cambia son las lineas de codigo que estan relacionadas con el Reto#5. Al principio creo un archivo de nombre log_fecha_hora.txt y lo muevo a un directorio de nombre logs_reto5/ A medida de que el usuario se mueve e interactua con el Menu de Opciones simplemente estoy agregando registros sobre las operaciones que realiza y las voy escribiendo en el archivo de Log creado al principio.
 	``` 
 	    # ! /bin/bash
@@ -7408,7 +7016,7 @@ Modificar el archivo [utilityHost.sh](http://utilityHost.sh) para escribir la in
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1057004](https://platzi.com/comentario/1057004/) 
 
 	```
 	    touch utilityHost.sh | date >> utilityHost.sh
@@ -7416,7 +7024,7 @@ Modificar el archivo [utilityHost.sh](http://utilityHost.sh) para escribir la in
 	    
 	```
 
-* **Marck  MR** (1)
+* **Marck  MR** (1) [1037169](https://platzi.com/comentario/1037169/) 
 
 	```
 	    ! /bin/bash
@@ -7541,16 +7149,15 @@ Modificar el archivo [utilityHost.sh](http://utilityHost.sh) para escribir la in
 	    
 	```
 
-* **rafster.15** (1)
+* **rafster.15** (1) [951334](https://platzi.com/comentario/951334/) 
 
 	```
 	    #! /bin/bash                                                                                                                                                                                                      option=""while :                                                                                                                                                                                                           do                                                                                                                                                                                                                #Limpieza de pantalla                                                                                                                                                                                             clear                                                                                                                                                                                                             echo "_______________________"                                                                                                                                                                                    echo "    Menu de opciones   "                                                                                                                                                                                    echo "_______________________"                                                                                                                                                                                    echo -e"\n"                                                                                                                                                                                                      echo "1. Instalar Postgres"                                                                                                                                                                                       echo "2. Desinstalar Postgres"                                                                                                                                                                                    echo "3. Crear un Backup"                                                                                                                                                                                         echo "4. Restaurar Backup"                                                                                                                                                                                        echo "5. Salir"                                                                                                                                                                                                   echo -e"\n"read -n1 -p "Elija una Opcion :" option                                                                                                                                                                           echo -e"\n"                                                                                                                                                                                                                                                                                                                                                                                                                            case $optionin                                                                                                                                                                                                       1)                                                                                                                                                                                                                   echo "Instalando Postgres...."if [ -f  ~/logs/instalandoPostgres.log ]; then                                                                                                                                                                       echo "El fichero ya existe...>> Agregando log "                                                                                                                                                                   echo "$(date '+%F %H %M %S')  $(whoami)"  >> ~/logs/instalandoPostgres.logsleep 3                                                                                                                                                                                                        else                                                                                                                                                                                                                 echo "el Fichero no existe > creando fichero "                                                                                                                                                                    echo "$(date '+%F %H %M %S')  $(whoami)" > ~/logs/instalandoPostgres.logsleep 3                                                                                                                                                                                                        fi                                                                                                                                                                                                                ;;                                                                                                                                                                                                                                                                                                                                                                                                                               2)                                                                                                                                                                                                                   echo "Desinstalando Postgres"                                                                                                                                                                                     date '+%F %H %M %S' > ~/logs/DesinstalandoPosgtres.logsleep 3                                                                                                                                                                                                           ;;                                                                                                                                                                                                                                                                                                                                                                                                                               3)                                                                                                                                                                                                                   echo "Creando respaldo "                                                                                                                                                                                          date '+%F %H %M %S'> ~/logs/SacarRespaldo.logsleep 3                                                                                                                                                                                                           ;;                                                                                                                                                                                                                                                                                                                                                                                                                               4)                                                                                                                                                                                                                   echo "Restaurando Backup "                                                                                                                                                                                        date '+%F %H %M %S' > ~/logs/RestaurandoRespaldo.logsleep 3                                                                                                                                                                                                           ;;                                                                                                                                                                                                                                                                                                                                                                                                                               5)                                                                                                                                                                                                                   echo "Saliendo "exit 0                                                                                                                                                                                                            ;;                                                                                                                                                                                                         esac                                                                                                                                                                                                          done                   
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [901431](https://platzi.com/comentario/901431/) 
 
-	
 	**DONE**  
 	entendi el reto cuando llegue al reto 6
 	``` 
@@ -7658,51 +7265,46 @@ Modificar el archivo [utilityHost.sh](http://utilityHost.sh) para escribir la in
 	    
 	```
 
-# Empaquetamiento
+# Empaquetamiento [3284]
 
-## 0350. Empaquetamiento TAR, GZIP y PBZIP 2
+## 0350. Empaquetamiento TAR, GZIP y PBZIP 2 [16574](https://platzi.com/clases/1468-bash-shell/16574-empaquetamiento-tar-gzip-y-pbzip-2/)
 
 ### Descripción:
 
 
 El empaquetamiento es un tema interesante para manejar respaldos u otro tipo de archivos para poder reducir el tamaño de uno o varios archivos para luego distribuirlos a través de la red u otra ubicación dentro del equipo.
 
-  * `tar`: permite empaqueta múltiples archivos
-  * `gzip`: Este solo nos permite empaquetar un único archivo, pero nos permite optimizar el tamaño del empaquetado. Suele usarse en conjunto con `tar`
-  * `pbzip2`: Este comando permite soporta el multicore, multiprocesador. Solo podemos empaquetar un solo archivo.
+* `tar`: permite empaqueta múltiples archivos
+* `gzip`: Este solo nos permite empaquetar un único archivo, pero nos permite optimizar el tamaño del empaquetado. Suele usarse en conjunto con `tar`
+* `pbzip2`: Este comando permite soporta el multicore, multiprocesador. Solo podemos empaquetar un solo archivo.
 
 
 
 ### Comentarios:
 
-* **Nicolasdds** (2)
+* **Nicolasdds** (2) [523349](https://platzi.com/comentario/523349/) 
 
-	
 	No entiendo el tema del RATIO.
 
-	* **cxyz** (11)
+	* **cxyz** [523349] (11)
 
-		
 		El ratio hace referencia a la relación del tamaño resultante del archivo comprimido con respecto a su tamaño original. En resumen no es más que una medida de proporción entre la entrada y salida.
 		
 		Dejo un link que me sirvio para entender mejor el tema, en él comparan diferentes herramientas que podemos usar para comprimir archivos: [gzip-vs-bzip2-vs-xz-performance-comparison](https://www.rootusers.com/gzip-vs-bzip2-vs-xz-performance-comparison/)
 
-	* **Gerardo Alberto Soto Alvarez del Castillo** (2)
+	* **Gerardo Alberto Soto Alvarez del Castillo** [523349] (2)
 
-		
 		Lo del RATIO es el nivel de compresión del archivo.  
 		Por ejemplo: si un archivo pesa 100 Mb.  
 		Sí seleccionas un RATIO de 1, el archivo pesara 90 Mb, pero será rápido el proceso.  
 		Sí seleccionas un RATIO de 5., el archivo pesara 50 MB, pero será mas lento el proceso de compresión.
 
-* **pablo joaquin mariño rodriguez** (1)
+* **pablo joaquin mariño rodriguez** (1) [1042061](https://platzi.com/comentario/1042061/) 
 
-	
 	Tengo entendido que tar empaqueta y gzip comprime.
 
-* **Marck  MR** (1)
+* **Marck  MR** (1) [1037783](https://platzi.com/comentario/1037783/) 
 
-	
 	Algunas formas de empaquetar y desempaquetar  
 	con Tar:  
 	Comprimir: tar -cvf nombre.tar /dir/a/comprimir/  
@@ -7712,14 +7314,12 @@ El empaquetamiento es un tema interesante para manejar respaldos u otro tipo de 
 	Comprimir: gzip -# archivo.ext  
 	Descomprimir: gzip -d archivo.ext.gz
 
-* **freddymm** (1)
+* **freddymm** (1) [901004](https://platzi.com/comentario/901004/) 
 
-	
 	Una manera para lograr que el script sea mas practico es pasar los archivos a empaquetar y comprimir por argumentos en la ejecucion del programa.
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [827671](https://platzi.com/comentario/827671/) 
 
-	
 	¿Por qué no simplmete usar `-z` o `-j`?
 	``` 
 	    tar -czf shellCourse.tar.gz *.sh
@@ -7727,9 +7327,8 @@ El empaquetamiento es un tema interesante para manejar respaldos u otro tipo de 
 	    
 	```
 
-* **JoanXD** (1)
+* **JoanXD** (1) [643164](https://platzi.com/comentario/643164/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04  
 	Funciones del script:  
 	1.Crear un file .txt  
@@ -7801,125 +7400,108 @@ El empaquetamiento es un tema interesante para manejar respaldos u otro tipo de 
 	#“test_folder_2.tar.bz2” is created  
 	#pbzip2 -f $source_folder_2
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [495654](https://platzi.com/comentario/495654/) 
 
-	
 	hola buenas tardes , yo pienso que en realidad el archivo .tar no se elimina sino que cambia o se mueve de ser un archivo empaquetado a ser un archivo comprimido
 
-	* **Nicolasdds** (1)
+	* **Nicolasdds** [495654] (1)
 
-		
 		Claro pero a lo que se refiere es que no quedamos con el original como pasaria en windows.
 
-* **Nicolasdds** (1)
+* **Nicolasdds** (1) [53909](https://platzi.com/comentario/523349/) 
 No entiendo el tema del RATIO.
 
-	* **cxyz** (11)
+	* **cxyz** [53909] (11)
 
-		
 		El ratio hace referencia a la relación del tamaño resultante del archivo comprimido con respecto a su tamaño original. En resumen no es más que una medida de proporción entre la entrada y salida.
 		
 		Dejo un link que me sirvio para entender mejor el tema, en él comparan diferentes herramientas que podemos usar para comprimir archivos: [gzip-vs-bzip2-vs-xz-performance-comparison](https://www.rootusers.com/gzip-vs-bzip2-vs-xz-performance-comparison/)
 
-## 0360. Respaldo Empaquetado con clave
+## 0360. Respaldo Empaquetado con clave [16573](https://platzi.com/clases/1468-bash-shell/16573-respaldo-empaquetado-con-clave/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Miusuarioplatzi** (5)
+* **Miusuarioplatzi** (5) [605241](https://platzi.com/comentario/605241/) 
 
-	
 	Excelente curso !!! vale tener en cuenta para la descarga de zip u otro paquete tuve que solicitarcon mi ISP el desbloqueo de puertos en mi router y configurar la IPV4 como principal.
 	
 	Exitos para todos.
 
-* **freddymm** (1)
+* **freddymm** (1) [901475](https://platzi.com/comentario/901475/) 
 
-	
 	Para verificar si tienen instalado el comando zip en su sistema el comando type les puede ser útil, tecleen en su terminal así:  
 	**type zip**  
 	.  
 	Y si está instalado les devolverá donde están los archivos binarios del comando
 
-* **predator0077** (1)
+* **predator0077** (1) [809121](https://platzi.com/comentario/809121/) 
 
-	
 	Estoy sorprendido con las capacidades de Bash, se puede automatizar muchas cosas tan básicas que nos podemos ahorrar mucho tiempo
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [84709](https://platzi.com/comentario/1057021/) 
 ¿Como puedo desempaquetar múltiples archivos con clave?, hay archivos como por ejemplo los .rar que se comprimen en partes al igual que l...
 
-## 0370. Transferir información red
+## 0370. Transferir información red [16575](https://platzi.com/clases/1468-bash-shell/16575-transferir-informacion-red/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Nicolasdds** (5)
+* **Nicolasdds** (5) [523351](https://platzi.com/comentario/523351/) 
 
-	
 	Para los interesados en seguridad, este comando de forma invertida es decir: $ rsync -avz user@host/directory . trae los archivos del host destino al nuestro.
 
-* **Alfonso Adame Rueda** (4)
+* **Alfonso Adame Rueda** (4) [496508](https://platzi.com/comentario/496508/) 
 
-	
 	a de archivo,v de verbose y z de opción de compresión
 
-* **JulioCardenasR** (3)
+* **JulioCardenasR** (3) [496412](https://platzi.com/comentario/496412/) 
 
-	
 	Ese comando rsync es extremadamente poderoso para sacar backups de sitios web.
 
-* **Alfonso Adame Rueda** (2)
+* **Alfonso Adame Rueda** (2) [496490](https://platzi.com/comentario/496490/) 
 
-	
 	si este poderoso comando como lo dice el profe debe estar instalado en las dos maquinas , para poder sincronizar entre los dos hosts.
 
-	* **josemdiaza** (2)
+	* **josemdiaza** [496490] (2)
 
-		
 		Correcto!
 		
 		**Note that rsync must be installed on both the source and destination machines.**
 
-* **Emmanuel Sosa Reyes** (1)
+* **Emmanuel Sosa Reyes** (1) [1003535](https://platzi.com/comentario/1003535/) 
 
-	
 	Esto es muy útil, ahorra toda esa parte del SSH.
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [778020](https://platzi.com/comentario/778020/) 
 
-	
 	Más información sobre el comando rsync:  
 	<https://www.atareao.es/software-linux/sincronizacion-a-fondo-con-rsync/>
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [579901](https://platzi.com/comentario/579901/) 
 
-	
 	Hay una alternativa a rysnc disponible en Windows? Cuando trate de usarlo, dice que el comando no existe…
 
-	* **anibalrojas (Platzi)** (1)
+	* **anibalrojas (Platzi)** [579901] (1)
 
-		
 		Hay muchas utilidades para Windows quie emulan la funcionalidad de rsync, posiblemente veamos en el futuro próximo soporte para rsync nativo con los nuevos anuncios de Microsoft de un nuevo terminal y la inclusión de un Kernel Linux. Mientras tanto, realiza una búsqueda de “windows rsync”. y evalua las opciones.
 
-	* **Marco Antonio Toscano Freire** (1)
+	* **Marco Antonio Toscano Freire** [579901] (1)
 
-		
 		Este [link](https://blog.guillen.io/2016/12/14/rsync-en-windows/) te puede servir
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [58655](https://platzi.com/comentario/579901/) 
 Hay una alternativa a rysnc disponible en Windows? Cuando trate de usarlo, dice que el comando no existe…
 
-	* **anibalrojas (Platzi)** (1)
+	* **anibalrojas (Platzi)** [58655] (1)
 
-		
 		Hay muchas utilidades para Windows quie emulan la funcionalidad de rsync, posiblemente veamos en el futuro próximo soporte para rsync nativo con los nuevos anuncios de Microsoft de un nuevo terminal y la inclusión de un Kernel Linux. Mientras tanto, realiza una búsqueda de “windows rsync”. y evalua las opciones.
 
-## 0380. Reto 6
+## 0380. Reto 6 [24514](https://platzi.com/clases/1468-bash-shell/24514-reto-6/)
 
 ### Descripción:
 
@@ -7930,7 +7512,7 @@ Modificar programa utilityHost. sh para empaquetar los logs generados utilizando
 
 ### Comentarios:
 
-* **rafster.15** (2)
+* **rafster.15** (2) [951352](https://platzi.com/comentario/951352/) 
 
 	```
 	    #! /bin/bash
@@ -8013,9 +7595,8 @@ Modificar programa utilityHost. sh para empaquetar los logs generados utilizando
 	    
 	```
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1076760](https://platzi.com/comentario/1076760/) 
 
-	
 	Aqui esta mi reto#6  
 	Solamente he tomado el mismo codigo que utilice para el reto#5 y agregue la opcion de hacer respaldos donde programo:
 	
@@ -8211,7 +7792,7 @@ Modificar programa utilityHost. sh para empaquetar los logs generados utilizando
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1057031](https://platzi.com/comentario/1057031/) 
 
 	```
 	    # ! /bin/bash
@@ -8308,7 +7889,7 @@ Modificar programa utilityHost. sh para empaquetar los logs generados utilizando
 	    
 	```
 
-* **AnthonySQC** (1)
+* **AnthonySQC** (1) [985686](https://platzi.com/comentario/985686/) 
 
 	```
 	    # ! /bin/bash
@@ -8401,9 +7982,8 @@ Modificar programa utilityHost. sh para empaquetar los logs generados utilizando
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [901617](https://platzi.com/comentario/901617/) 
 
-	
 	**DONE**  
 	nota: el comando donde se envia el archivo comprimido a otro equipo remoto esta comentado porque no tengo otro equipo con linux en mi red con el que pueda hacer la prueba, en su lugar puse un ejemplo general
 	``` 
@@ -8515,15 +8095,14 @@ Modificar programa utilityHost. sh para empaquetar los logs generados utilizando
 	    
 	```
 
-* **Gerardo Alberto Soto Alvarez del Castillo** (1)
+* **Gerardo Alberto Soto Alvarez del Castillo** (1) [808605](https://platzi.com/comentario/808605/) 
 
-	
 	Un problema:  
 	En esta clase “Reto 6” El botón de la siguiente clase se salta a la ultima clase, en vez de ir a la clase 39 😦
 
-# Funciones
+# Funciones [3285]
 
-## 0390. Crear funciones y Paso de Argumentos
+## 0390. Crear funciones y Paso de Argumentos [16576](https://platzi.com/clases/1468-bash-shell/16576-crear-funciones-y-paso-de-argumentos/)
 
 ### Descripción:
 
@@ -8532,9 +8111,8 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 
 ### Comentarios:
 
-* **JoanXD** (1)
+* **JoanXD** (1) [644817](https://platzi.com/comentario/644817/) 
 
-	
 	Script escrito y probado en Ubuntu 18.04
 	
 	#Requisitos  
@@ -8629,22 +8207,20 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 	
 	done
 
-## 0400. Funciones de instalar  y desinstalar postgres
+## 0400. Funciones de instalar  y desinstalar postgres [16577](https://platzi.com/clases/1468-bash-shell/16577-funciones-de-instalar-y-desinstalar-postgres/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Ldelgado1987** (5)
+* **Ldelgado1987** (5) [630514](https://platzi.com/comentario/630514/) 
 
-	
 	Buen curso, muy facil la explicación, me sorprende no ver comentarios…  
 	En lo personal me ayudo bastante con mi trabajo diario.
 
-* **Esteban Blanco Ortuno** (3)
+* **Esteban Blanco Ortuno** (3) [684289](https://platzi.com/comentario/684289/) 
 
-	
 	 **Ejecutar un comando con sudo desde un bash-script**
 	``` 
 	    read-s -p "Ingresar cotraseña sudo" password
@@ -8654,9 +8230,8 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 	
 	**Me parecio interesante este dato como tambien el resto del curso en general.**
 
-* **freddymm** (2)
+* **freddymm** (2) [908668](https://platzi.com/comentario/908668/) 
 
-	
 	Esta es una lista de las variables especiales en bash que encontre en internet:
 	``` 
 	    $1, $2, $3, ... parámetros de posición que hacen referencia al primer, segundo, tercer, etc. parámetro pasado al script.
@@ -8675,30 +8250,25 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 	
 	algunas de ellas las hemos visto en las clases del curso
 
-* **Esteban Blanco Ortuno** (2)
+* **Esteban Blanco Ortuno** (2) [684290](https://platzi.com/comentario/684290/) 
 
-	
 	Me deje -S entre sudo y comando lo siento.
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1079459](https://platzi.com/comentario/1079459/) 
 
-	
 	Alguien ha hecho todo esto desde Mac? Me pregunto si los comandos cambian, pienso que en vez de apt uso brew pero no se si debo cambiar los comandos para habilitar (deshabilitar) y levantar (bajar) los servicios de Postgres en Mac
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1065112](https://platzi.com/comentario/1065112/) 
 
-	
 	en algunas distros basta con un purge :d
 
-* **Emmanuel Sosa Reyes** (1)
+* **Emmanuel Sosa Reyes** (1) [1006910](https://platzi.com/comentario/1006910/) 
 
-	
 	Se me acaba de ocurrir esto, si estoy mal en algo por favor dígame.  
 	Se puede crear un script como el del profesor, que este script tenga un menú, donde nosotros podamos personalizar los comandos de instalación de ciertas cosas. Podríamos llevar esto al trabajo (algo así como una “mala” copia de Docker) y así instalar los componentes que hagan falta.
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [962233](https://platzi.com/comentario/962233/) 
 
-	
 	No estaria brindando mal el password de usuario de postgres, ya que al guardarla la guarda en una variablame llamada
 	``` 
 	    $passwordPostgres
@@ -8712,17 +8282,15 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 	    
 	```
 
-* **Luis Fernando Cruz Carrillo** (1)
+* **Luis Fernando Cruz Carrillo** (1) [955865](https://platzi.com/comentario/955865/) 
 
-	
 	Significado de $?: devuelve el estado del último comando ejecutado.
 	
 	Más información:  
 	<https://stackoverflow.com/questions/7248031/meaning-of-dollar-question-mark-in-shell-scripts>
 
-* **freddymm** (1)
+* **freddymm** (1) [908664](https://platzi.com/comentario/908664/) 
 
-	
 	En bash tenemos algunas variables especiales, entre ellas aquí estamos utilizando **$?** esta variable guarda el código de salida del ultimo comando pipe utilizado. El cual está relacionado al hecho de si se pudo conectar los comandos o no con el pipe.  
 	.  
 	En otras palabras si la conexión fue exitosa se almacena un numero 0 en caso contrario se almacena un numero 1, esto con relación a la última conexión entre comandos utilizados.  
@@ -8731,9 +8299,8 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 	.  
 	Para aplicaciones más complejas donde se necesita saber el código de salida de varias conexiones con pipe, no solamente de la última ejecutada, en algunas distribuciones de linux existe una matriz de códigos de salidas llamada **PIPESTATUS** en la cual utilizamos en índice del arreglo para buscar el código del pipe que estamos buscando
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [827693](https://platzi.com/comentario/827693/) 
 
-	
 	En lugar de _guardar la verificación_ , ¿por qué no se evalua directamente el comando en el `if`?
 	``` 
 	    if [ which psql 1>2 2>/dev/null ]; then
@@ -8745,24 +8312,22 @@ Las funciones son bloques de código que realizan algo en especifico y que ayuda
 	
 	`1>2` redirecciona salida estandar a error estandar. `2>/dev/null` redirecciona el error estandar a un archivo especial de linux que es _la nada_ (a lo agujero negro).
 
-* **Gerardo Alberto Soto Alvarez del Castillo** (1)
+* **Gerardo Alberto Soto Alvarez del Castillo** (1) [808630](https://platzi.com/comentario/808630/) 
 
-	
 	Tengo una duda, sobre el paso de la variable que contiene la contraseña se SUDO, ¿esa variable acaso se queda guardada en la memoria RAM del equipo al ser almacenada? o como saber o evitar que no se almacene en memoria y sea “robada” mediante mecanismos de lenguaje de programación Ensamblador. gracias.
 
-* **AnthonySQC** (1)
+* **AnthonySQC** (1) [81639](https://platzi.com/comentario/985864/) 
 Buenas, tras instalar,desintalar postgres el comando which me devuelve el path al binario de postges, es por ello que cuando vuelvo a int...
 
-## 0410. Funciones sacar y restaurar respaldos en postgres
+## 0410. Funciones sacar y restaurar respaldos en postgres [16578](https://platzi.com/clases/1468-bash-shell/16578-funciones-sacar-y-restaurar-respaldos-en-postgres/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **josemdiaza** (2)
+* **josemdiaza** (2) [744283](https://platzi.com/comentario/744283/) 
 
-	
 	Me surge una duda: ¿Por qué utilizar una variable para verificar si psql esta instalado? No sería el mismo resultado que:
 	``` 
 	    which psql | if  [ $? -eq 0 ] ; then ...
@@ -8771,29 +8336,24 @@ Buenas, tras instalar,desintalar postgres el comando which me devuelve el path a
 	    
 	```
 
-	* **EPadronU23** (1)
+	* **EPadronU23** [744283] (1)
 
-		
 		Yo sospecho que es un _hack_ para evitar mostrar en la consola, lo que muestra el comando `which`. [Mira mi comentario para una alternativa.](https://platzi.com/comentario/827693/)
 
-	* **freddymm** (1)
+	* **freddymm** [744283] (1)
 
-		
 		El truco está en aprovechar la información que genera **el código de salida del pipe** para validar un proceso combinado con la sentencia if ya que este código es igual a 0 si el ultimo pipe ejecutado fue exitoso de la contrario este código será igual a 1, si quieres saber información sobre otras utilizar este “código” indaga más sobre el tema.
 
-	* **Jordan Arellano Rosero** (1)
+	* **Jordan Arellano Rosero** [744283] (1)
 
-		
 		el pipe es una tubería para filtrar, con la condición condicionas lo condicionado y entonces haces lo cuestionable entre puritanos xd
 
-* **Haroun Hussain Asto Rojas** (2)
+* **Haroun Hussain Asto Rojas** (2) [511810](https://platzi.com/comentario/511810/) 
 
-	
 	Para conectarme mysql que comandos se podría usar ?
 
-	* **Juan Carlos Pinzón** (2)
+	* **Juan Carlos Pinzón** [511810] (2)
 
-		
 		Se me ocurre por ejemplo:
 		``` 
 		    mysql -u root -pcontraseña -e"show databases"
@@ -8804,14 +8364,12 @@ Buenas, tras instalar,desintalar postgres el comando which me devuelve el path a
 		
 		Si hayas algo mejor me cuentas por fa
 
-	* **Juan Carlos Pinzón** (2)
+	* **Juan Carlos Pinzón** [511810] (2)
 
-		
 		*Hallas
 
-	* **Marco Antonio Toscano Freire** (5)
+	* **Marco Antonio Toscano Freire** [511810] (5)
 
-		
 		Estimado Juan para conectarse a Myql el comando seria el siguiente
 		
 		`mysql -u <nombreUsuario> -p <clave> -h <ip o nombre servidor> <nombreBaseDeDatos>`
@@ -8819,9 +8377,8 @@ Buenas, tras instalar,desintalar postgres el comando which me devuelve el path a
 		Ejemplo:  
 		`mysql -u mtoscano -p platzi -h 192.168.1.154 cursobdd`
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1092456](https://platzi.com/comentario/1092456/) 
 
-	
 	Hola. He modificado un poco el codigo original del profesos haciendo los siguientes cambios:
 	
 	  1. Al momento de crear un respaldo si el directorio de Respaldo ingresado por el  
@@ -9032,12 +8589,11 @@ Buenas, tras instalar,desintalar postgres el comando which me devuelve el path a
 	    
 	```
 
-* **Haroun Hussain Asto Rojas** (1)
+* **Haroun Hussain Asto Rojas** (1) [52965](https://platzi.com/comentario/511810/) 
 Para conectarme mysql que comandos se podría usar ?
 
-	* **Juan Carlos Pinzón** (2)
+	* **Juan Carlos Pinzón** [52965] (2)
 
-		
 		Se me ocurre por ejemplo:
 		``` 
 		    mysql -u root -pcontraseña -e"show databases"
@@ -9048,7 +8604,7 @@ Para conectarme mysql que comandos se podría usar ?
 		
 		Si hayas algo mejor me cuentas por fa
 
-## 0420. Reto 7
+## 0420. Reto 7 [24515](https://platzi.com/clases/1468-bash-shell/24515-reto-7/)
 
 ### Descripción:
 
@@ -9059,14 +8615,12 @@ Modificar nuestro programa [utiliyHost.sh](http://utiliyHost.sh) para crear cinc
 
 ### Comentarios:
 
-* **sebas001** (2)
+* **sebas001** (2) [888414](https://platzi.com/comentario/888414/) 
 
-	
 	bueno
 
-* **aalvarez75PlZ** (1)
+* **aalvarez75PlZ** (1) [1092699](https://platzi.com/comentario/1092699/) 
 
-	
 	He tomado el codigo del [reto6.sh](http://reto6.sh) y le aplicado lo aprendido en cuanto a funciones.
 	``` 
 	    # ! /bin/bash
@@ -9286,7 +8840,7 @@ Modificar nuestro programa [utiliyHost.sh](http://utiliyHost.sh) para crear cinc
 	    
 	```
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1065278](https://platzi.com/comentario/1065278/) 
 
 	```
 	    echo"███████████████████████████"
@@ -9313,110 +8867,91 @@ Modificar nuestro programa [utiliyHost.sh](http://utiliyHost.sh) para crear cinc
 	    
 	```
 
-# Cierre del curso
+# Cierre del curso [3286]
 
-## 0430. Cierre
+## 0430. Cierre [16580](https://platzi.com/clases/1468-bash-shell/16580-cierre2744/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jhoan Esteban Ladino Henao** (5)
+* **Jhoan Esteban Ladino Henao** (5) [532181](https://platzi.com/comentario/532181/) 
 
-	
 	Gracias, este fue un curso muy **tematico** XD los que llegaron hasta este punto sabrán a que me refiero
 
-* **GibsPM** (3)
+* **GibsPM** (3) [733599](https://platzi.com/comentario/733599/) 
 
-	
 	Muy buen curso, faltó profundizar en algunos temas, y la “muletilla” del profesor Toscano.
 
-	* **Kevin Javier Morales (Platzi)** (1)
+	* **Kevin Javier Morales (Platzi)** [733599] (1)
 
-		
 		En cuáles temas crees que faltó profundizar? Cuéntanos 😃
 
-	* **GibsPM** (1)
+	* **GibsPM** [733599] (1)
 
-		
 		Video 36, faltó explicar el uso de las banderas en varios comandos, por citar un ejemplo.
 
-* **jandresovallos** (3)
+* **jandresovallos** (3) [634469](https://platzi.com/comentario/634469/) 
 
-	
 	Excelente, lo único es que el profe tiene una muletilla que usa en todo momento
 
-* **Diego Andres Cabrera Rojas** (2)
+* **Diego Andres Cabrera Rojas** (2) [1101466](https://platzi.com/comentario/1101466/) 
 
-	
 	Compañeros les comparto un [CheatSheet](https://devhints.io/bash) donde estan mucho de los comandos y otros extras de los que vimos en curso para tenerlos mas a la mano , Suerte y Felicidades por completar el curso.
 
-* **José B. Méndez Padín** (2)
+* **José B. Méndez Padín** (2) [778412](https://platzi.com/comentario/778412/) 
 
-	
 	Me parece que en el examen hay un error. En la pregunta sobre el paso de 20 argumentos a un script, entre las soluciones no está la correcta, que serían las llaves {}, como se explicó en el curso.
 
-	* **willeonardo19** (2)
+	* **willeonardo19** [778412] (2)
 
-		
 		Comparto tu opinión
 
-* **Jordan Arellano Rosero** (1)
+* **Jordan Arellano Rosero** (1) [1065281](https://platzi.com/comentario/1065281/) 
 
-	
 	Excelente, aunque nunca supe que era el tema de Postgress xd
 
-* **Gerardo Alberto Soto Alvarez del Castillo** (1)
+* **Gerardo Alberto Soto Alvarez del Castillo** (1) [809781](https://platzi.com/comentario/809781/) 
 
-	
 	Muchas gracias profesor Marco Antonio Toscano Freire! Excelente curso de Bash y los temas que se vieron, muy buen proceso de elaboración del proyecto final para Postgres
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [778073](https://platzi.com/comentario/778073/) 
 
-	
 	Buen curso.
 
-* **Mario Barbosa** (1)
+* **Mario Barbosa** (1) [674076](https://platzi.com/comentario/674076/) 
 
-	
 	Los TEMAS del curso fueron muy buenos
 
-* **Lorena Cardona Tovar** (1)
+* **Lorena Cardona Tovar** (1) [548522](https://platzi.com/comentario/548522/) 
 
-	
 	Gracias, muy buen curso, muy practico.
 
-* **edgar-del-castillo** (1)
+* **edgar-del-castillo** (1) [510144](https://platzi.com/comentario/510144/) 
 
-	
 	Gracias, estuvo bueno el curso…
 
-* **JulioCardenasR** (1)
+* **JulioCardenasR** (1) [496701](https://platzi.com/comentario/496701/) 
 
-	
 	Gracias Marco Antonio, el curso esta muy bueno y usted es muy buen profesor.
 
-* **Alfonso Adame Rueda** (1)
+* **Alfonso Adame Rueda** (1) [496472](https://platzi.com/comentario/496472/) 
 
-	
 	Hola buenos días , quiero darle las gracias a usted por este curso,para mi fue excelente,muy bien explicado paso a paso, repasara este curso y los otros que he hecho para crecer mas en mi aspiración de crecimiento personal
 
-* **drm** (1)
+* **drm** (1) [56708](https://platzi.com/comentario/555902/) 
 Al usar una variable, como sabes cuando le tienes que anteponer el el simbolo “$” y cuando la puedes usar simplemente con el nombre de esta
 
-	* **memowii** (4)
+	* **memowii** [56708] (4)
 
-		
 		Cuando utilizas una variable, la declaras sin anteponerle el _$_ , pero cuando quieres usar esa variable tienes que anteponerle el _$_ para hacer referencia a esa variable.
 
-* **drm** (0)
+* **drm** (0) [555902](https://platzi.com/comentario/555902/) 
 
-	
 	Al usar una variable, como sabes cuando le tienes que anteponer el el simbolo “$” y cuando la puedes usar simplemente con el nombre de esta
 
-	* **memowii** (4)
+	* **memowii** [555902] (4)
 
-		
 		Cuando utilizas una variable, la declaras sin anteponerle el _$_ , pero cuando quieres usar esa variable tienes que anteponerle el _$_ para hacer referencia a esa variable.
 

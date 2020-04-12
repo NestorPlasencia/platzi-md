@@ -1,6 +1,8 @@
-# Introducción y repaso de API
+[Curso de Postman 1765](https://platzi.com/cursos/postman)
 
-## 0010. Introducción al curso
+# Introducción y repaso de API [5018]
+
+## 0010. Introducción al curso [25063](https://platzi.com/clases/1765-postman/25063-introduccion-al-curso/)
 
 ### Descripción:
 
@@ -11,9 +13,8 @@
 
 ### Comentarios:
 
-* **Ludwring Liccien** (4)
+* **Ludwring Liccien** (4) [960290](https://platzi.com/comentario/960290/) 
 
-	
 	No se indica con que api se va a trabajar. En los Archivos y enlaces hay un proyecto en Python pero la documentación esta mala y no funciona el proyecto.  
 	Se debe crear una mejor documentacion o aceptar lo pull requiest que se han hecho
 	
@@ -21,40 +22,35 @@
 	
 	![](https://pasteboard.co/ISHSEPQ.png)
 
-* **Juan Manuel Pérez Altamirano** (4)
+* **Juan Manuel Pérez Altamirano** (4) [900055](https://platzi.com/comentario/900055/) 
 
-	
 	Yo uso Postman todos los días, veamos este curso para reforzar conocimientos!!!
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [900055] (1)
 Igualmente es mi fiel amigo. Hay que reforzar los conocimientos
 
-	* **CristianSAM** (2)
+	* **CristianSAM** [900055] (2)
 
-		
 		Hola! ¿Trabajas en el backend? Estoy aprendiendo JS, para entrar al Backend… ¿Cómo te ha ido? Puedes compartirme tu learning path…
 		
 		Gracias.
 
-	* **Juan Manuel Pérez Altamirano** (2)
+	* **Juan Manuel Pérez Altamirano** [900055] (2)
 
-		
 		Hola, Actualmente estoy estudiando también sobre Javascript, considero que la carrera de JS de Platzi, está sumamente completa.
 		
 		En mi caso me interesa aprender React Native, para el desarrollo móvil y node.js para el servidor.
 		
 		Saludos
 
-	* **mafevito** (1)
+	* **mafevito** [900055] (1)
 
-		
 		¡Hola @CristianSAM!
 		
 		Te recomiendo echarle un vistazo a[ esto](https://roadmap.sh/backend), es una hoja de ruta que puedes usar como guía para convertirte en un desarrollador backend.
 
-* **Victor Manuel Franco Cañon** (3)
+* **Victor Manuel Franco Cañon** (3) [941593](https://platzi.com/comentario/941593/) 
 
-	
 	Este curso sera una introducción al uso de postman y las implicaciones para el protocolo http mediante la implementación REST como es conocido el conjunto de principios de diseño que permite a HTTP abrazar su máxima potencia mediante la creación de interfaces, que pueden utilizarse desde casi cualquier dispositivo o sistema operativo, en pocas palabras REST es una forma sencilla de organizar interacciones entre sistemas independientes.  
 	.  
 	La alternativa es la construcción de convenciones relativamente complejas por encima de HTTP. A menudo, esto toma la forma de nuevos enteros lenguajes basados en XML. El ejemplo más ilustre es SOAP. Tienes que aprender un conjunto completamente nuevo de convenciones, pero nunca usas HTTP a su máxima potencia.  
@@ -63,99 +59,82 @@ Igualmente es mi fiel amigo. Hay que reforzar los conocimientos
 	.  
 	Conceptos extraídos de:
 	
-	  * <https://code.tutsplus.com/es/tutorials/a-beginners-guide-to-http-and-rest--net-16340>
+	* <https://code.tutsplus.com/es/tutorials/a-beginners-guide-to-http-and-rest--net-16340>
 	
 	
 
-* **Bryan Estiven Silva Mercado** (3)
+* **Bryan Estiven Silva Mercado** (3) [899320](https://platzi.com/comentario/899320/) 
 
-	
 	Hace poco descargue la herramienta así que este curso me va perfecto
 
-* **Brayan Mamani** (3)
+* **Brayan Mamani** (3) [899297](https://platzi.com/comentario/899297/) 
 
-	
 	¡El curso que estaba esperando!
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [899297] (1)
 Ya somos dos 😎😎😎
 
-	* **Luzdelia Alba** (2)
+	* **Luzdelia Alba** [899297] (2)
 
-		
 		tres 😄
 
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [1051642](https://platzi.com/comentario/1051642/) 
 
-	
 	Estoy tomando el curso de Django avanzado aquí en platzi y necesito saber usar postman así que, a darle. 🔥
 
-* **ehnbytes** (2)
+* **ehnbytes** (2) [913833](https://platzi.com/comentario/913833/) 
 
-	
 	Iniciando el curso!!!
 
-* **Daniel Meza** (2)
+* **Daniel Meza** (2) [910240](https://platzi.com/comentario/910240/) 
 
-	
 	Maravillado de la nueva intro. 🙌
 
-* **humansonofhuman** (2)
+* **humansonofhuman** (2) [901173](https://platzi.com/comentario/901173/) 
 
-	
 	En este video está el enlace al repositorio de la api con la que se va a trabajar
 	
 	<https://github.com/platzi/postman-course>
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [899809](https://platzi.com/comentario/899809/) 
 
-	
 	Todo developer debe hacerse buen amigo de postman 😃  
 	#NeverStopLearning
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [899392](https://platzi.com/comentario/899392/) 
 
-	
 	Bueno bueno vamos con postman ahora!!
 
-* **Iván Acosta** (1)
+* **Iván Acosta** (1) [1115308](https://platzi.com/comentario/1115308/) 
 
-	
 	Con muchas expectativas del curso! Vamos a por ello.
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [1012424](https://platzi.com/comentario/1012424/) 
 
-	
 	Quiero aprender a usar bien postman
 
-* **idmc3010** (1)
+* **idmc3010** (1) [938118](https://platzi.com/comentario/938118/) 
 
-	
 	vamos a darle 😄 en este curso , se ve muy interesante.
 
-* **Kelly Jesus Salazar Sanchez** (1)
+* **Kelly Jesus Salazar Sanchez** (1) [923095](https://platzi.com/comentario/923095/) 
 
-	
 	Genial siempre quise aprender POSTMAN
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [922832](https://platzi.com/comentario/922832/) 
 
-	
 	No sabía de la existencia de este curso, uso POSTMAN pero creo que le saco menos potencial del que tiene.
 
-* **markyhuevone** (1)
+* **markyhuevone** (1) [902900](https://platzi.com/comentario/902900/) 
 
-	
 	Hola, al querer hacer el source admin_info.sh me da error al crear la DB, y a la vez el puerto 8000 no lo reconoce. A alguien le paso algo similar al querer levantar el proyecto en docker? Saludos!
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [902900] (1)
 
-		
 		qué error te sale?
 
-	* **Cristian David Franco Garcia** (1)
+	* **Cristian David Franco Garcia** [902900] (1)
 
-		
 		File “/usr/local/lib/python3.6/site-packages/django/db/backends/base/base.py”, line 217, in ensure_connection  
 		self.connect()  
 		File “/usr/local/lib/python3.6/site-packages/django/db/backends/base/base.py”, line 195, in connect  
@@ -166,72 +145,68 @@ Ya somos dos 😎😎😎
 		conn = _connect(dsn, connection_factory=connection_factory, **kwasync)  
 		django.db.utils.OperationalError: could not translate host name “db” to address: Name or service not known
 
-* **Jozelyn_MG** (1)
+* **Jozelyn_MG** (1) [902273](https://platzi.com/comentario/902273/) 
 
-	
 	Mi herramienta de todos los días.
 
-* **tonyoz** (1)
+* **tonyoz** (1) [78341](https://platzi.com/comentario/919490/) 
 Es posible instalar Docker en Windows 10 Home??
 
-	* **CarlosAlba** (1)
+	* **CarlosAlba** [78341] (1)
 
-		
 		Hola!
 		
 		En los [foros](https://forums.docker.com/t/installing-docker-on-windows-10-home/11722) de Doker dicen que si. Aunque hay que hacer un par de cosas para que funcione.
 
-## 0020. Estudiando el protocolo HTTP, verbos y status
+## 0020. Estudiando el protocolo HTTP, verbos y status [25064](https://platzi.com/clases/1765-postman/25064-estudiando-el-protocolo-http-verbos-y-status/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Fran Delgado** (23)
+* **Fran Delgado** (23) [911659](https://platzi.com/comentario/911659/) 
 
-	
 	Un protocolo especifica reglas en la comunicacion entre dos entes, en este caso entre dos computudoras.
 	
 	HTTP (Hyper Text Transfer Protocol) fue creado especificamente para la web.
 	
 	Una de las cosas que especifica el protocolo HTTP son los verbos:
 	
-	  * **GET** : solicitar datos o algun recurso.
-	  * **HEAD** : traer headers (como una peticion GET pero sin contenidos). Es util cuando vamos a utilizar APIs, para comprobar si lo que vamos a enviar esta correcto y puede ser procesado.
-	  * **POST** : enviar datos a un recurso para la creación.
-	  * **PUT** : reemplazar por completo un recurso.
-	  * **PATCH** : reemplazar parcialmente un recurso.
-	  * **DELETE** : eliminar un recurso.
+	* **GET** : solicitar datos o algun recurso.
+	* **HEAD** : traer headers (como una peticion GET pero sin contenidos). Es util cuando vamos a utilizar APIs, para comprobar si lo que vamos a enviar esta correcto y puede ser procesado.
+	* **POST** : enviar datos a un recurso para la creación.
+	* **PUT** : reemplazar por completo un recurso.
+	* **PATCH** : reemplazar parcialmente un recurso.
+	* **DELETE** : eliminar un recurso.
 	
 	
 	
 	Otra de las cosas que especifica el protocolo HTTP son los codigo de estado (status codes). Sirven para describir el estado de la peticion hecha al servidor.
 	
-	  * **1xx** : Indican que la peticion fue recibida y el servidor sigue trabajando en el proceso, es decir, no fue exitosa ni fue errónea, sino que esta siendo procesada aun.
-	  * **2xx** : Indican que la peticion fue recibida y procesada correctamente.
-	  * **3xx** : Indican que hay que tomar acciones adicionales para completar la solicitud. Por lo general estos codigos indican redireccion. Generalmente en los APIs no se usan redirecciones porque no contienen estados, es decir, toda la informacion esta contenida en una solicitud, no se guarda un estado en el servidor con una sesion por ejemplo.
-	  * **4xx** : Indican errores del lado del cliente, por ejemplo: se hizo mal la solicitud, faltan datos, headers o cualquier otro error que pueda ocurrir.
-	  * **5xx** : Indican errores del servidor. Suelen aparecer cuando existe un fallo en la ejecución en el servidor.
+	* **1xx** : Indican que la peticion fue recibida y el servidor sigue trabajando en el proceso, es decir, no fue exitosa ni fue errónea, sino que esta siendo procesada aun.
+	* **2xx** : Indican que la peticion fue recibida y procesada correctamente.
+	* **3xx** : Indican que hay que tomar acciones adicionales para completar la solicitud. Por lo general estos codigos indican redireccion. Generalmente en los APIs no se usan redirecciones porque no contienen estados, es decir, toda la informacion esta contenida en una solicitud, no se guarda un estado en el servidor con una sesion por ejemplo.
+	* **4xx** : Indican errores del lado del cliente, por ejemplo: se hizo mal la solicitud, faltan datos, headers o cualquier otro error que pueda ocurrir.
+	* **5xx** : Indican errores del servidor. Suelen aparecer cuando existe un fallo en la ejecución en el servidor.
 	
 	
 	
 	Los codigos mas comunes a la hora de interactuar con un API son:
 	
-	  * **200** : Todo esta OK.
-	  * **201** : Todo OK cuando se hizo una solicitud **POST** , el recurso se creo y se guardo correctamente.
-	  * **204** : Indica que la solicitud se completo correctamente pero no devolvio informacion. Es muy comun cuando se hacen peticiones con el verbo **DELETE**.
-	  * **400** : Bad Request, algo esta mal en la peticion. Se nos olvido enviar un dato o algo relacionado. Por lo general la respuesta nos especifica cuales fueron los errores a la hora de hacer la peticion.
-	  * **401** : Unauthorized, es decir, no estamos autorizados (autenticados) a realizar la peticion.
-	  * **403** : Forbidden, yo no tengo acceso a ese recurso aunque este autenticado.
-	  * **404** : Not Found, no existe el recurso que se esta intentando acceder.
-	  * **500** : Interna Server Error, es un error que retorna el servidor cuando la solicitud no pudo ser procesada. Por lo general, si no tenemos acceso al backend, no tenemos control sobre los errores 500 que retorna un API.
+	* **200** : Todo esta OK.
+	* **201** : Todo OK cuando se hizo una solicitud **POST** , el recurso se creo y se guardo correctamente.
+	* **204** : Indica que la solicitud se completo correctamente pero no devolvio informacion. Es muy comun cuando se hacen peticiones con el verbo **DELETE**.
+	* **400** : Bad Request, algo esta mal en la peticion. Se nos olvido enviar un dato o algo relacionado. Por lo general la respuesta nos especifica cuales fueron los errores a la hora de hacer la peticion.
+	* **401** : Unauthorized, es decir, no estamos autorizados (autenticados) a realizar la peticion.
+	* **403** : Forbidden, yo no tengo acceso a ese recurso aunque este autenticado.
+	* **404** : Not Found, no existe el recurso que se esta intentando acceder.
+	* **500** : Interna Server Error, es un error que retorna el servidor cuando la solicitud no pudo ser procesada. Por lo general, si no tenemos acceso al backend, no tenemos control sobre los errores 500 que retorna un API.
 	
 	
 
-* **paucuaram** (14)
+* **paucuaram** (14) [899037](https://platzi.com/comentario/899037/) 
 
-	
 	**Códigos de estado HTTP**  
 	Sirven para describir el estado de la petición.
 	
@@ -252,14 +227,12 @@ Es posible instalar Docker en Windows 10 Home??
 	404: Not Found, el recurso no fue encontrado.  
 	500: Internal Server Error, el servidor indica que la solicitud no pudo ser procesada.
 
-	* **MayuGo Inc.** (2)
+	* **MayuGo Inc.** [899037] (2)
 
-		
 		Gracias, excelente información
 
-* **paucuaram** (6)
+* **paucuaram** (6) [899020](https://platzi.com/comentario/899020/) 
 
-	
 	 **Verbos HTTP**  
 	Get: Solicitar datos o algún recurso.  
 	Head: traer headers, como una petición Get pero sin contenido.  
@@ -268,9 +241,8 @@ Es posible instalar Docker en Windows 10 Home??
 	Patch: Reemplazar parcialmente un recurso.  
 	Delete: Eliminar un recurso.
 
-* **tonyoz** (5)
+* **tonyoz** (5) [1047073](https://platzi.com/comentario/1047073/) 
 
-	
 	Las respuestas por parte de HTTP nos retorna estados / códigos de respuesta:  
 	1XX: Fue recibida pero esta siendo procesada aun.  
 	2XX: Indica que la petición fue recibida, aceptada y procesada.  
@@ -282,35 +254,29 @@ Es posible instalar Docker en Windows 10 Home??
 	5XX: Errores en el servicio y/o el servidor.  
 	<https://uniwebsidad.com/tutoriales/los-codigos-de-estado-de-http>
 
-* **MayuGo Inc.** (4)
+* **MayuGo Inc.** (4) [903350](https://platzi.com/comentario/903350/) 
 
-	
 	Excelente introducción
 
-* **Christian David Sánchez** (4)
+* **Christian David Sánchez** (4) [902758](https://platzi.com/comentario/902758/) 
 
-	
 	Les recomiendo esta lectura sobre los códigos de estados HTTP:  
 	<https://uniwebsidad.com/tutoriales/los-codigos-de-estado-de-http>
 
-	* **k7code** (2)
+	* **k7code** [902758] (2)
 
-		
 		Muchas gracias por el recurso Christian.
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [902758] (1)
 
-		
 		De nada 😃
 
-	* **MayuGo Inc.** (2)
+	* **MayuGo Inc.** [902758] (2)
 
-		
 		Gracias
 
-* **Héctor Tello** (3)
+* **Héctor Tello** (3) [1076419](https://platzi.com/comentario/1076419/) 
 
-	
 	 **Códigos más usados**
 	
 	**1\. 200:** Todo bien  
@@ -322,21 +288,18 @@ Es posible instalar Docker en Windows 10 Home??
 	**7\. 404:** No existe el recurso. Not found.  
 	**8\. 500:** La solicitud no pudo ser ejecutada.
 
-* **Danilo Pazos** (3)
+* **Danilo Pazos** (3) [921339](https://platzi.com/comentario/921339/) 
 
-	
 	Para más detalle de protocolos http, aqui:  
 	<https://http.cat/>
 
-* **LeoEsp** (2)
+* **LeoEsp** (2) [1051772](https://platzi.com/comentario/1051772/) 
 
-	
 	Les dejo este enlace de w3school para que tengan otra fuente para que vean los códigos de respuesta  
 	<https://www.w3schools.com/tags/ref_httpmessages.asp>
 
-* **Carlos Arturo Gutierrez Gonzalez** (2)
+* **Carlos Arturo Gutierrez Gonzalez** (2) [1039309](https://platzi.com/comentario/1039309/) 
 
-	
 	## Mas errores de cliente
 	
 	  1. [414 URI Too Long](https://developer.mozilla.org/es/docs/Web/HTTP/Status)  
@@ -370,29 +333,24 @@ Es posible instalar Docker en Windows 10 Home??
 	
 	
 
-* **Richard Castillo** (2)
+* **Richard Castillo** (2) [952464](https://platzi.com/comentario/952464/) 
 
-	
 	Comenzando mi 2do curso!
 
-* **paucuaram** (2)
+* **paucuaram** (2) [899018](https://platzi.com/comentario/899018/) 
 
-	
 	**HTTP: **Es un protocolo que especifica las reglas de comunicación entre dos dispositivos.
 
-* **AryRosvall** (1)
+* **AryRosvall** (1) [1100169](https://platzi.com/comentario/1100169/) 
 
-	
 	Me gusta mucho esta página que describe muy bien todos los códigos http <https://http.cat/>
 
-* **emrs** (1)
+* **emrs** (1) [1068522](https://platzi.com/comentario/1068522/) 
 
-	
 	[](https://http.cat/)
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [1039299](https://platzi.com/comentario/1039299/) 
 
-	
 	## Errores de cliente
 	
 	  1. [400 Bad Request](https://developer.mozilla.org/es/docs/Web/HTTP/Status)  
@@ -426,9 +384,8 @@ Es posible instalar Docker en Windows 10 Home??
 	
 	
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [1039292](https://platzi.com/comentario/1039292/) 
 
-	
 	## Errores de servidor
 	
 	  1. [500 Internal Server Error](https://developer.mozilla.org/es/docs/Web/HTTP/Status)  
@@ -456,9 +413,8 @@ Es posible instalar Docker en Windows 10 Home??
 	
 	
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [1039272](https://platzi.com/comentario/1039272/) 
 
-	
 	## Redirecciones
 	
 	  1. [300 Multiple Choice](https://developer.mozilla.org/es/docs/Web/HTTP/Status)  
@@ -482,9 +438,8 @@ Es posible instalar Docker en Windows 10 Home??
 	
 	
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [1039262](https://platzi.com/comentario/1039262/) 
 
-	
 	## **Respuestas satisfactorias**
 	
 	  1. [200 OK](https://developer.mozilla.org/es/docs/Web/HTTP/Status/200)  
@@ -514,9 +469,8 @@ Es posible instalar Docker en Windows 10 Home??
 	
 	
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [1039256](https://platzi.com/comentario/1039256/) 
 
-	
 	## **Respuestas informativas**
 	
 	  1. [100 Continue](https://developer.mozilla.org/es/docs/Web/HTTP/Status/100)  
@@ -528,47 +482,40 @@ Es posible instalar Docker en Windows 10 Home??
 	
 	
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [1012435](https://platzi.com/comentario/1012435/) 
 
-	
 	Aprendiendo de códigos
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [997876](https://platzi.com/comentario/997876/) 
 
-	
 	que buena definicion de protocolo.
 
-* **Antonio Madrid** (1)
+* **Antonio Madrid** (1) [984865](https://platzi.com/comentario/984865/) 
 
-	
 	La primera vez que escucho la diferencia entre el verbo PUT y PATCH.  
 	Empieza bueno el curso, que buena vibra da el profesor.
 
-* **Cristian David Franco Garcia** (1)
+* **Cristian David Franco Garcia** (1) [982675](https://platzi.com/comentario/982675/) 
 
-	
 	HTTP Status Code:  
 	[https://httpstatuses.com/](url)
 
-* **Carlos Alberto Ricaldi Flores** (1)
+* **Carlos Alberto Ricaldi Flores** (1) [961709](https://platzi.com/comentario/961709/) 
 
-	
 	Empezando este curso con gran espectativa.
 
-* **Victor Manuel Franco Cañon** (1)
+* **Victor Manuel Franco Cañon** (1) [941485](https://platzi.com/comentario/941485/) 
 
-	
 	Comienzo este curso con mucha expectativa.
 
-* **tonyoz** (1)
+* **tonyoz** (1) [77856](https://platzi.com/comentario/910996/) 
 Cuando referimos a los Head…no es lo mismo que los parámetros que puede recibir un servicio aparte del Body? Es decir en la parte superio...
 
-	* **alejaksot** (1)
+	* **alejaksot** [77856] (1)
 
-		
 		En lo que he probado, esta parte de head es validación de la estructura, mas no devuelve contenido.
 
-## 0030. Estructuras de las URLs
+## 0030. Estructuras de las URLs [25065](https://platzi.com/clases/1765-postman/25065-estructuras-de-las-urls/)
 
 ### Descripción:
 
@@ -591,10 +538,10 @@ Es un conjunto de recursos, por ejemplo: `courses` es una colección de `course.
 
 Siglas que hacen referencia a las operaciones básicas que se pueden ejecutar sobre un recurso:
 
-  * C: Create (crear)
-  * R: Read (leer)
-  * U: Update (actualizar)
-  * D: Delete (eliminar)
+* C: Create (crear)
+* R: Read (leer)
+* U: Update (actualizar)
+* D: Delete (eliminar)
 
 
 
@@ -604,9 +551,9 @@ Es el punto final de la comunicación con un ente, en este caso, un endpoint est
 
 Los endpoint definen operaciones que se quieren ejecutar sobre un recurso. Por ejemplo: si queremos un conjunto de operaciones CRUD sobre Cursos podríamos crear los siguientes endpoints:
 
-  * `/get-all-courses` : para obtener una colección de Cursos.
-  * `/add-new-course`: para crear un nuevo recurso de Cursos.
-  * `/delete-all-courses`: para eliminar todos los Cursos.
+* `/get-all-courses` : para obtener una colección de Cursos.
+* `/add-new-course`: para crear un nuevo recurso de Cursos.
+* `/delete-all-courses`: para eliminar todos los Cursos.
 
 
 
@@ -616,10 +563,10 @@ Entonces, ¿cuál es la buena práctica en este caso?
 
 Como lo vimos en la clase pasada, el protocolo HTTP especifica una serie de verbos que indican acciones. Lo ideal es que la operación que se ejecute sobre un recurso se obtenga a través del verbo HTTP de la petición y no que esté definido en el endpoint. Por ejemplo:
 
-  * `/courses`: Dependiendo del verbo HTTP se ejecutará una operación en particular. Quedaría así: 
-    * GET `/courses`: trae la colección de Cursos.
-    * POST `/courses`: crea un nuevo recurso de Cursos.
-    * DELETE `/courses`: elimina todos los cursos.
+* `/courses`: Dependiendo del verbo HTTP se ejecutará una operación en particular. Quedaría así: 
+  * GET `/courses`: trae la colección de Cursos.
+  * POST `/courses`: crea un nuevo recurso de Cursos.
+  * DELETE `/courses`: elimina todos los cursos.
 
 
 
@@ -627,7 +574,7 @@ De esta manera queda mucho más organizado un API. Pero, qué pasa si queremos t
 
 Por lo general cada recurso tiene un identificador único, un ID, es con esto que llamaremos a un endpoint para que nos retorne la información del recurso. Por ejemplo:
 
-  * GET `/courses/2/`: vemos que acá se le está pasando algo que en los endpoints anteriores no veíamos, es el número 2, ese es el identificador único, de esta manera el API sabe que tiene que buscar el curso con ID 2 y retornarlo.
+* GET `/courses/2/`: vemos que acá se le está pasando algo que en los endpoints anteriores no veíamos, es el número 2, ese es el identificador único, de esta manera el API sabe que tiene que buscar el curso con ID 2 y retornarlo.
 
 
 
@@ -637,8 +584,8 @@ Así sucesivamente con cada uno de los verbos, por ejemplo: casi nunca se hace u
 
 Hay veces en las que un recurso depende de otro recurso, por ejemplo, comentarios depende de materiales; usualmente en los APIs las anidaciones se hacen hasta dos niveles, es decir:
 
-  * `materials/1/comments`: estos son dos niveles
-  * `materials/1/comments/2/answers/`: son tres niveles, ahí lo ideal sería entonces separar el endpoint de comentarios y ejecutar `comments/2/answers/`
+* `materials/1/comments`: estos son dos niveles
+* `materials/1/comments/2/answers/`: son tres niveles, ahí lo ideal sería entonces separar el endpoint de comentarios y ejecutar `comments/2/answers/`
 
 
 
@@ -650,25 +597,24 @@ Una convención que se usa a la hora de documentar APIs es abstraer el endpoint 
 
 ## Los endpoints que tenemos:
 
-  * `/api-token-auth/`
-  * `/courses`
-  * `/courses/:id/`
-  * `/courses/:id/upload_badge/`
-  * `/materials/`
-  * `/materials/:id/`
-  * `/materials/:id/comments/`
-  * `/comments/`
-  * `/comments/:id/`
-  * `/comments/:id/like/`
-  * `/comments/:id/dislike/`
+* `/api-token-auth/`
+* `/courses`
+* `/courses/:id/`
+* `/courses/:id/upload_badge/`
+* `/materials/`
+* `/materials/:id/`
+* `/materials/:id/comments/`
+* `/comments/`
+* `/comments/:id/`
+* `/comments/:id/like/`
+* `/comments/:id/dislike/`
 
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (7)
+* **Christian David Sánchez** (7) [902765](https://platzi.com/comentario/902765/) 
 
-	
 	Algunas buenas prácticas con las APIs:
 	
 	**Use sustantivos en lugar de verbos**
@@ -707,101 +653,83 @@ Una convención que se usa a la hora de documentar APIs es abstraer el endpoint 
 	POST / car  
 	GET / car
 
-	* **imoralesMX** (3)
+	* **imoralesMX** [902765] (3)
 
-		
 		Complemento con las reglas generales de una arquitectura rest y nos niveles de normalización que existen <https://www.arquitecturajava.com/arquitecturas-rest-y-sus-niveles/>
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [902765] (1)
 
-		
 		Excelente tu aporte!
 
-* **Jose Luis Vega Vargas** (3)
+* **Jose Luis Vega Vargas** (3) [1058707](https://platzi.com/comentario/1058707/) 
 
-	
 	Esta explicacion esta genial mejores que muchos tutoriales no tan especificos que estan en otras paginas por no nombrarlas
 
-* **Jonathan Uriel Jiménez Soveranes** (2)
+* **Jonathan Uriel Jiménez Soveranes** (2) [923432](https://platzi.com/comentario/923432/) 
 
-	
 	Excelente información!
 
-* **José Padrón** (2)
+* **José Padrón** (2) [915535](https://platzi.com/comentario/915535/) 
 
-	
 	Me parece que esta muy completa la infomacion
 
-* **Iván Acosta** (1)
+* **Iván Acosta** (1) [1115466](https://platzi.com/comentario/1115466/) 
 
-	
 	Hacia falta este glosario de términos para tener clara la terminología que se ira a usar a lo largo del curso. Quizás deba colocarse antes.
 
-* **Luis Christian Vargas Vasquez** (1)
+* **Luis Christian Vargas Vasquez** (1) [1098496](https://platzi.com/comentario/1098496/) 
 
-	
 	Excelente explicación
 
-* **David Carrasquilla** (1)
+* **David Carrasquilla** (1) [1023096](https://platzi.com/comentario/1023096/) 
 
-	
 	Este Curso pinta muy bien 😃
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [1012438](https://platzi.com/comentario/1012438/) 
 
-	
 	Mucho por aprender.
 
-* **jlbousing** (1)
+* **jlbousing** (1) [1009910](https://platzi.com/comentario/1009910/) 
 
-	
 	Tengo un año trabajando en un API que hice con Laravel y las practicas que hice no fueron buenas. Que bueno que estoy leyendo esto, ya se como hacer mejor mis próximos servicios.
 
-* **Daniel Rojas Vidal** (1)
+* **Daniel Rojas Vidal** (1) [1002328](https://platzi.com/comentario/1002328/) 
 
-	
 	Excelente documentación
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [997896](https://platzi.com/comentario/997896/) 
 
-	
 	interesante.
 
-* **adersonrangel** (1)
+* **adersonrangel** (1) [945907](https://platzi.com/comentario/945907/) 
 
-	
 	Super, muy buena info.
 
-* **Arturo Carlos Alberto Castañeda Melchor** (0)
+* **Arturo Carlos Alberto Castañeda Melchor** (0) [911570](https://platzi.com/comentario/911570/) 
 
-	
 	Hola, que pasa con los API’s que hacen acciones especificas, consultas complejas, dependiendo de ciertos parámetros, mas de 10 filtros seguimos usando get.
 
-	* **imoralesMX** (2)
+	* **imoralesMX** [911570] (2)
 
-		
 		En la semántica de un servicio REST sigues usando GET porque estas “obteniendo” ó “leyendo información” no importa que tan complejo sea la operación, simplemente defines operaciones de lectura, escritura, modificación o borrado (CRUD - GET, POST, PUT ó PATCH, DELETE).
 		
 		Te recomiendo leer este articulo sobre que es un servicio REST y como estructurarlo
 		
 		<https://www.arquitecturajava.com/arquitecturas-rest-y-sus-niveles/>
 
-	* **Arturo Carlos Alberto Castañeda Melchor** (0)
+	* **Arturo Carlos Alberto Castañeda Melchor** [911570] (0)
 
-		
 		Lei el articulo y dentro de él, el autor indica que para estas consultas crea adiciona un campo a su endpoint, y cambia el verbo a POST
 
-* **tonyoz** (0)
+* **tonyoz** (0) [911100](https://platzi.com/comentario/911100/) 
 
-	
 	Me surge una serie de preguntas 1) Courses seria la colección?  
 	2) “:id” y “id/upload_badge” serian Recursos anidados?  
 	3) Es lo mismo un recurso que un EndPoint?.  
 	Gracias.
 
-	* **imoralesMX** (1)
+	* **imoralesMX** [911100] (1)
 
-		
 		  1. La colección sería toda tu API, como por ejemplo el api de Twiter, api de Facebook, api de Platzi etc.
 		  2. son request separados porque uno hace la referencia a un recurso especifico indicado por el id y el otro dice que a ese recurso especifico le quieres agregar algo
 		  3. No, un recurso es una concepción abstract de lo que quieres ofrecer en tu servicio y el endpoint es en donde se va a buscar eso, es que server.
@@ -810,14 +738,13 @@ Una convención que se usa a la hora de documentar APIs es abstraer el endpoint 
 		
 		mira este link te ayudara a tener las bases claras de una arq REST
 
-	* **imoralesMX** (1)
+	* **imoralesMX** [911100] (1)
 
-		
 		<https://www.arquitecturajava.com/arquitecturas-rest-y-sus-niveles/>
 
-# Postman
+# Postman [5019]
 
-## 0040. Instalación de Postman
+## 0040. Instalación de Postman [25066](https://platzi.com/clases/1765-postman/25066-instalacion-de-postman/)
 
 ### Descripción:
 
@@ -832,18 +759,18 @@ Es esta dirección <https://www.getpostman.com/downloads/> puedes encontrar la v
 
 La instalación de Postman tiende a ser mucho más sencilla que la de una aplicación tradicional; no hay una serie de configuraciones que se deben aceptar o personalizar. Postman se instala en el sistema listo para utilizarse.
 
-  * Descargar Postman
+* Descargar Postman
 
-  * Abrir el archivo que se descargó, una vez abrá aparecerá una ventana así:
+* Abrir el archivo que se descargó, una vez abrá aparecerá una ventana así:
 
 
 ![Postman2 \(1\).jpg](https://static.platzi.com/media/user_upload/Postman2%20%281%29-9d5fba40-2de8-44b0-a87d-484239e03a67.jpg)
 
-  * Una vez instalado te pedirá que inicies sesión o si es el caso que crees una nueva cuenta.
+* Una vez instalado te pedirá que inicies sesión o si es el caso que crees una nueva cuenta.
 
 ![Postman4 \(1\).jpg](https://static.platzi.com/media/user_upload/Postman4%20%281%29-e75d7c77-af56-44e7-b11b-f78989c1c835.jpg)
 
-  * Y ya está postman listo para usarse.
+* Y ya está postman listo para usarse.
 
 ![Postman5 \(1\).jpg](https://static.platzi.com/media/user_upload/Postman5%20%281%29-af8258e6-ba86-42d7-86ae-4a9b7b06b7a7.jpg)
 
@@ -853,20 +780,19 @@ El proceso no es muy diferente a lo que es en Windows. Descargamos la App y lueg
 
 ### Comentarios:
 
-* **José Padrón** (4)
+* **José Padrón** (4) [915560](https://platzi.com/comentario/915560/) 
 
-	
 	Para los que son usuarios de GNU/Linux Les recomiendo instalar Postman a través de la tienda de snap.
 	
 	**Para instalar la tienda de snap: **
 	
-	  * Si eres usuario de Arch, Manjaro o alguna otra distro basada en Arch. Aqui encontraras la forma de instalación:  
+	* Si eres usuario de Arch, Manjaro o alguna otra distro basada en Arch. Aqui encontraras la forma de instalación:  
 	<https://snapcraft.io/docs/installing-snap-on-manjaro-linux>
 	
-	  * Si eres usuario de Fedora y otras distros basadas en esta. Podrás instalarlo como aparece aquí:  
+	* Si eres usuario de Fedora y otras distros basadas en esta. Podrás instalarlo como aparece aquí:  
 	<https://snapcraft.io/docs/installing-snap-on-manjaro-linux>
 	
-	  * Si usas Ubuntu, Debian o cualquier otra basadas en estas lo podrán hacer como aparece aquí:<https://snapcraft.io/docs/installing-snap-on-manjaro-linux>
+	* Si usas Ubuntu, Debian o cualquier otra basadas en estas lo podrán hacer como aparece aquí:<https://snapcraft.io/docs/installing-snap-on-manjaro-linux>
 	
 	
 	
@@ -874,42 +800,35 @@ El proceso no es muy diferente a lo que es en Windows. Descargamos la App y lueg
 	**Para instalar Postran Solo es con ejecutar el siguiente comando:**  
 	**sudo snap install postman**
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [902773](https://platzi.com/comentario/902773/) 
 
-	
 	Documentación de APIs en Postman: <https://learning.getpostman.com/docs/postman/api-documentation/documenting-your-api/>
 
-* **Jose Luis Vega Vargas** (2)
+* **Jose Luis Vega Vargas** (2) [1058717](https://platzi.com/comentario/1058717/) 
 
-	
 	Listo logre instalarlo sin problemas!!
 
-* **Daniel Carmona** (2)
+* **Daniel Carmona** (2) [1012440](https://platzi.com/comentario/1012440/) 
 
-	
 	Instalado perfectamente.
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [997899](https://platzi.com/comentario/997899/) 
 
-	
 	no es muy complicado, espero que sea asi su manejo de la herramienta.
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [930116](https://platzi.com/comentario/930116/) 
 
-	
 	Bastante sencilla la instalación de Postman!
 
-* **Jozelyn_MG** (1)
+* **Jozelyn_MG** (1) [902401](https://platzi.com/comentario/902401/) 
 
-	
 	Hay una configuración en especial del postman que no desactive cuando lo instale lo que provoco que a las 12 md siempre se me ejecutaban peticiones solas.
 
-	* **imoralesMX** (1)
+	* **imoralesMX** [902401] (1)
 
-		
 		Me explicas un poco más para ayudarte? tienes screen shot?
 
-## 0050. Llamados a un API con GET llamado de listas y detalles de objetos
+## 0050. Llamados a un API con GET llamado de listas y detalles de objetos [25067](https://platzi.com/clases/1765-postman/25067-llamados-a-un-api-con-get-llamado-de-listas-y-deta/)
 
 ### Descripción:
 
@@ -920,124 +839,103 @@ El proceso no es muy diferente a lo que es en Windows. Descargamos la App y lueg
 
 ### Comentarios:
 
-* **georgehossa** (8)
+* **georgehossa** (8) [993845](https://platzi.com/comentario/993845/) 
 
-	
 	toco usar la API de [STAR WARS](https://swapi.co/)
 
-	* **davidnuma** (1)
+	* **davidnuma** [993845] (1)
 
-		
 		toca pero se pierde la sincronización con el curso, falla de platzi con esto
 
-	* **Luis Rangel Castro** (1)
+	* **Luis Rangel Castro** [993845] (1)
 
-		
 		<https://swapi.co/api/people>
 
-* **georgehossa** (7)
+* **georgehossa** (7) [993842](https://platzi.com/comentario/993842/) 
 
-	
 	No funciona el repo ni los archivos para la base de datos, por favor Platzi Actualizarlo
 
-* **Jose Luis Vega Vargas** (6)
+* **Jose Luis Vega Vargas** (6) [1058825](https://platzi.com/comentario/1058825/) 
 
-	
 	Veo que muchos esta teniendo problemas porque no Funciona el API del curso, asi que comparto esta API donde pueden trabajar, bastante parecida a swapi pero esta es de otro curso bastante bueno, <https://rickandmortyapi.com/api/character/>  
 	en esta es similar el comportamiento, en vez de course/ tienen character/  
 	y al colocar el id al final de character podran visualizar el personaje que se trae.
 	
 	espero les sirva y sigan aprendiendo. saludos.
 
-* **Victor Inojosa** (6)
+* **Victor Inojosa** (6) [908269](https://platzi.com/comentario/908269/) 
 
-	
 	Acá una lista de APIs públicas:
 	
 	<https://github.com/public-apis/public-apis>
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [908269] (2)
 
-		
 		Muy buen aporte 😃 Si conocen de más recuerden que pueden colaborar en el repositorio
 
-* **Bryan Estiven Silva Mercado** (6)
+* **Bryan Estiven Silva Mercado** (6) [900392](https://platzi.com/comentario/900392/) 
 
-	
 	Pueden usar esta web para realizar pruebas de peticiones get con postman [restcuntries.eu](http://restcountries.eu/)
 
-* **tonyoz** (6)
+* **tonyoz** (6) [77869](https://platzi.com/comentario/911243/) 
 Hay algun curso donde enseñen a crear las APIS?
 
-	* **Jesús Ibarra** (3)
+	* **Jesús Ibarra** [77869] (3)
 
-		
 		@tonyoz te recomiendo este [curso](https://platzi.com/cursos/api-rest/).
 
-* **Andrés Campuzano Garzón** (5)
+* **Andrés Campuzano Garzón** (5) [1020020](https://platzi.com/comentario/1020020/) 
 
-	
 	Yo estoy usando <https://platzi-user-api.jecsham.com/api/v1/getUserSummary/@andres-campuzano-garzon>
 
-	* **Cristian Andrés Córdova Valencia** (3)
+	* **Cristian Andrés Córdova Valencia** [1020020] (3)
 
-		
 		Se puede usar perfectamente para esta clase.
 		
 		Muchas gracias 😄
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [1020020] (1)
 
-		
 		Un gusto.
 
-	* **emanuel-alejandro-mamani** (1)
+	* **emanuel-alejandro-mamani** [1020020] (1)
 
-		
 		hola que tal, como puedo remplazar tu cuenta por mi cuenta de platzi, intente cambiando el final de la url con mi nombre pero me tira 403, por lo que entiendo no estoy autorizado
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [1020020] (1)
 
-		
 		Lo que pasa es que esta API es construida por otro estudiante en la pagina web de esa persona.
 
-* **Alexander Armúa Abregu** (4)
+* **Alexander Armúa Abregu** (4) [1101713](https://platzi.com/comentario/1101713/) 
 
-	
 	Si no pueden consumir la api de platzi o levantar un servidor en local existen diversas apis interesantes.  
 	Yo use una publica de pokemon:  
 	<https://pokeapi.co/>
 	
 	Saludosss
 
-* **jhon manuel angulo moncada** (3)
+* **jhon manuel angulo moncada** (3) [1079124](https://platzi.com/comentario/1079124/) 
 
-	
 	Me parece que a este curso le falta mucha información al respecto de como iniciar… =(
 
-* **HENRY DSANTIAGO** (3)
+* **HENRY DSANTIAGO** (3) [1070709](https://platzi.com/comentario/1070709/) 
 
-	
 	Este curso forma parte de la carrera de la carrera FrontEnd, pero aquí lo tratan únicamente como si fuera BackEnd. Yo descargué los archivos y no tengo ni idea de qué hacer con ellos. Creo que faltó la clase donde al menos explicaran como hacer uso de ellos, la configuración o cómo poner a correr el servidor. Primera vez que me pasa esto en un curso de Platzi, pero es lamentable.
 
-* **Bryan Estiven Silva Mercado** (3)
+* **Bryan Estiven Silva Mercado** (3) [900385](https://platzi.com/comentario/900385/) 
 
-	
 	Los recursos se encuentran en [postman](https://github.com/platzi/postman-course)
 
-	* **Ernesto_ars** (1)
+	* **Ernesto_ars** [900385] (1)
 
-		
 		Gracias, no los encontraba
 
-* **Jean Carlos Nuñez Hernandez** (3)
+* **Jean Carlos Nuñez Hernandez** (3) [899395](https://platzi.com/comentario/899395/) 
 
-	
 	Verbo Get para traer recursos y detalles del recurso
 
-* **Iván Darío Sánchez Jiménez** (2)
+* **Iván Darío Sánchez Jiménez** (2) [1056666](https://platzi.com/comentario/1056666/) 
 
-	
 	En mi caso el servicio de postgres se apagaba inmediatamente (exited) para corregirlo modifiqué el archivo docker-compose.yaml de la forma
 	``` 
 	     db:
@@ -1047,14 +945,12 @@ Hay algun curso donde enseñen a crear las APIS?
 	    
 	```
 
-* **Ivan Quintero** (2)
+* **Ivan Quintero** (2) [1043171](https://platzi.com/comentario/1043171/) 
 
-	
 	Arreglen la API porfa
 
-* **imoralesMX** (2)
+* **imoralesMX** (2) [913047](https://platzi.com/comentario/913047/) 
 
-	
 	Un vistazo rápido de que es JSON y como se forma lo puedes encontrar aqui
 	
 	<https://www.json.org/json-es.html>
@@ -1063,47 +959,39 @@ Hay algun curso donde enseñen a crear las APIS?
 	[Un array JSON](https://www.json.org/img/array.png)  
 	[Un valor JSON](https://www.json.org/img/value.png)
 
-	* **Jonathan Uriel Jiménez Soveranes** (1)
+	* **Jonathan Uriel Jiménez Soveranes** [913047] (1)
 
-		
 		Gracias!
 
-* **Antonio Ferrà Bonet** (2)
+* **Antonio Ferrà Bonet** (2) [905458](https://platzi.com/comentario/905458/) 
 
-	
 	Profesor nos puede pasar una web, donde estén listadas las mejores API’s
 
-	* **Victor Inojosa** (2)
+	* **Victor Inojosa** [905458] (2)
 
-		
 		No creo que exista algo “Mejores APIs”, porque eso depende de lo que busques. Solo te puedo recomendar una lista de APIs públicas:
 		
 		<https://github.com/public-apis/public-apis>
 
-	* **Antonio Ferrà Bonet** (1)
+	* **Antonio Ferrà Bonet** [905458] (1)
 
-		
 		Gracias!  
 		Me refería que si yo quiero conectar mi app, a una API rest, que me proporcione la información de películas. Dónde debería buscar? Saber si hay de pago y me compensa o hay gratuitas?
 
-* **JandroMejia** (2)
+* **JandroMejia** (2) [900898](https://platzi.com/comentario/900898/) 
 
-	
 	¿Alguien logró realizar peticiones a la API luego de seguir las indicaciones del README?
 
-	* **humansonofhuman** (1)
+	* **humansonofhuman** [900898] (1)
 
-		
 		No, a mí me dio error en el cuarto paso 😦
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [900898] (1)
 
-		
 		qué error te sale?
 
-	* **Alexander Galíndez** (1)
+	* **Alexander Galíndez** [900898] (1)
 
-		
 		Yo tengo el mismo problema, me da error cuando entro al contenedor y ejecuto el comando source admin_info.sh
 		
 		un fragmento del error:
@@ -1167,33 +1055,28 @@ Hay algun curso donde enseñen a crear las APIS?
 		return self.cursor.execute(sql, params)  
 		django.db.utils.ProgrammingError: relation “auth_user” does not exist
 
-	* **walis85300 (Platzi)** (2)
+	* **walis85300 (Platzi)** [900898] (2)
 
-		
 		corre las migraciones, es un paso que no puse en el README inicialmente, ya lo cambié.
 		
 		Ejecuta `python manage.py migrate`
 
-	* **Alexander Galíndez** (1)
+	* **Alexander Galíndez** [900898] (1)
 
-		
 		Gracias Walis, ya funciona.
 
-	* **brapastor** (2)
+	* **brapastor** [900898] (2)
 
-		
 		ya instale todo, segun el repositorio en github _Execute docker-compose up -d: This command starts a local server with the API running over 8000 port. _ lo ejecuto y me sale  
 		postman-course_db_1 is up-to-date  
 		postman-course_web_1 is up-to-date
 
-	* **brapastor** (2)
+	* **brapastor** [900898] (2)
 
-		
 		cuando trato de entrar a 127.0.0.1:8000 no esta ejecutandose
 
-	* **paucuaram** (1)
+	* **paucuaram** [900898] (1)
 
-		
 		Hola ya ejecute la sentencia:  
 		**root@ee65ca0c1e4f:/code# python[manage.py](http://manage.py) migrate**  
 		Operations to perform:  
@@ -1219,17 +1102,15 @@ Hay algun curso donde enseñen a crear las APIS?
 		
 		Saludos
 
-	* **JandroMejia** (1)
+	* **JandroMejia** [900898] (1)
 
-		
 		No entiendo porque no puedo acceder a <http://127.0.0.1:8000>
 
-* **carlossanchez27** (2)
+* **carlossanchez27** (2) [78645](https://platzi.com/comentario/925219/) 
 Hola, ¿Alguien me puede indicar como instalar el API en windows?, no tengo experiencia en la creación e instalación de APIs. Saludos
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [78645] (2)
 
-		
 		Son los mismos pasos para Windows ya que todo corre sobre **Docker** , mira aquí te he traducido la lista de pasos del [repositorio](https://github.com/platzi/postman-course):
 		
 		  1. Instala Docker y Docker Compose
@@ -1240,59 +1121,49 @@ Hola, ¿Alguien me puede indicar como instalar el API en windows?, no tengo expe
 		
 		
 
-* **Jozelyn_MG** (2)
+* **Jozelyn_MG** (2) [77344](https://platzi.com/comentario/902853/) 
 Ya descargue el repositorio, pero que hago con el?
 
-	* **walis85300 (Platzi)** (2)
+	* **walis85300 (Platzi)** [77344] (2)
 
-		
 		El en README del repo están las instrucciones sobre cómo ejecutarlo, [Aquí puedes ver cómo hacerlo](https://github.com/walis85300/postman-course#how-to-run-this-project)
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [1056622](https://platzi.com/comentario/1056622/) 
 
-	
 	El problema es que al cargar la API del repositorio el contenedor de la base de datos se ejecuta y queda exited, quien haya podido dejarlo up comparta por favor la solución.
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [1012465](https://platzi.com/comentario/1012465/) 
 
-	
 	Siento que me pierdo por no haber cursado los otros cursos de creador de APIS.
 
-	* **rogerparada** (1)
+	* **rogerparada** [1012465] (1)
 
-		
 		pues siempre puedes hacer este: <https://platzi.com/clases/api-rest/>
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [997916](https://platzi.com/comentario/997916/) 
 
-	
 	podriamos centrarnos mas en el uso de la herramienta y no tanto en el json.
 
-* **Francisca Alejandra Salinas Castillo** (1)
+* **Francisca Alejandra Salinas Castillo** (1) [991365](https://platzi.com/comentario/991365/) 
 
-	
 	Necesito ayuda, no puedo ejecutar en paso 4 del README: **source admin_info.sh**  
 	Me aparece lo siguiente:  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-07862760-1e33-4ebd-9fec-5d1744408bd2.jpg)
 
-	* **JandroMejia** (2)
+	* **JandroMejia** [991365] (2)
 
-		
 		Antes de ejecutar ese comando, deberías haber realizado las migraciones con el comando `python manage.py migrate`
 
-* **joelnbl** (1)
+* **joelnbl** (1) [971691](https://platzi.com/comentario/971691/) 
 
-	
 	Me sale esto Error: No such container: postman-course_web_1
 
-	* **JandroMejia** (1)
+	* **JandroMejia** [971691] (1)
 
-		
 		Si estas en W10, cambiar el comando `docker exec -it postman-course_web_1 bash` por `docker exec -it postmancourse_web_1 bash`
 
-* **joseluisavalosizaguirre** (1)
+* **joseluisavalosizaguirre** (1) [929979](https://platzi.com/comentario/929979/) 
 
-	
 	Hola buenas tardes, eh logrado instalar docker y ejecutar todos los comandos correctamente .
 	
 	root@f7e8020a8792:/code# python [manage.py](http://manage.py) migrate  
@@ -1332,14 +1203,12 @@ Ya descargue el repositorio, pero que hago con el?
 	127.0.0.0:8000/api/sources/  
 	no me carga los datos, podrian indicarme si me falta hacer algo por favor.
 
-	* **Jorge Uribe** (1)
+	* **Jorge Uribe** [929979] (1)
 
-		
 		Lo lograste resolver, Jose?
 
-* **paucuaram** (1)
+* **paucuaram** (1) [915656](https://platzi.com/comentario/915656/) 
 
-	
 	Hola, estoy instalando la API sin embargo al crear el contenedor postman-couse_web_1 marca errores y no puedo avanzar.
 	
 	Ejecuto Docker Desktop 2.1.0.5 (40693) en una pc win10.  
@@ -1357,70 +1226,60 @@ Ya descargue el repositorio, pero que hago con el?
 	Alguien ha solucionado este error?  
 	Saludos
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [915656] (2)
 
-		
 		Asegúrate de tener compartidas tus unidades en la configuración de Docker ![share.png](https://static.platzi.com/media/user_upload/share-430f842b-548a-47cb-aed7-4cd74f6185bd.jpg)
 
-	* **paucuaram** (2)
+	* **paucuaram** [915656] (2)
 
-		
 		Si, era eso.  
 		Thank u
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [915656] (2)
 
-		
 		Cuando una respuesta les sirve a los estudiantes y recibo feedback
 		
 		![felicidad.jpg](https://static.platzi.com/media/user_upload/felicidad-2d8dfd33-3055-4a90-9685-96e193e8cfae.jpg)
 
-* **gydoar** (1)
+* **gydoar** (1) [912080](https://platzi.com/comentario/912080/) 
 
-	
 	Donde puedo descargar la API de ejemplo de Platzi ?
 
-	* **imoralesMX** (1)
+	* **imoralesMX** [912080] (1)
 
-		
 		Parece que no hay publica, pero para el sitio de Platzi u otro en general, si revisas el sitio web más o menos puede deducir algunas. En las herramientas de desarrollador vas a la parte de Network y alli veras la peticiones que hace el sitio.
 
-	* **JandroMejia** (2)
+	* **JandroMejia** [912080] (2)
 
-		
 		Solo debes clonar este [repositorio](https://github.com/platzi/postman-course)
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [910506](https://platzi.com/comentario/910506/) 
 
-	
 	Para practicar puedes utilizar  
 	**JsonPlaceholder** son api públicas
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [902846](https://platzi.com/comentario/902846/) 
 
-	
 	 **API abierta para hacer GET:**<https://datosabiertos.enacom.gob.ar/developers/>
 	
 	**REQUEST:**<http://api.datosabiertos.enacom.gob.ar/api/v2/datastreams/NUMER-GEOGR/data.json/?auth_key=6b31bc1fe5b3c1221e044a894aa3632438ff8351>
 
-* **Emmanuel García** (1)
+* **Emmanuel García** (1) [86983](https://platzi.com/comentario/1109830/) 
 Logre con ayuda de un compañero montar el servidor para que al momento de buscar no tenga nada de información los archivos 😫 .¿Algo estoy...
 
-* **andhreix** (1)
+* **andhreix** (1) [86242](https://platzi.com/comentario/1091228/) 
 Hola instale el docker y tengo los archivos pero cuando entro al contenedor me posiciona en la carpeta de code y ahi no se encuentra el p...
 
-* **CristianSAM** (1)
+* **CristianSAM** (1) [77256](https://platzi.com/comentario/900973/) 
 ¿Qué API podemos utilizar para hacer este curso? Veo que la URL de Platzi no funciona, ¿Cuál puedo usar para hacer el test?
 
-	* **humansonofhuman** (1)
+	* **humansonofhuman** [77256] (1)
 
-		
 		En el primer video en archivos y enlaces hay un link al repositorio de la api para el curso en github  
 		<https://github.com/platzi/postman-course>
 
-* **Jorge Uribe** (0)
+* **Jorge Uribe** (0) [963307](https://platzi.com/comentario/963307/) 
 
-	
 	Buenos días, no he logrado recibir nada de la API, todos los pasos fueron presuntamente bien hechos, sin embargo en docker me muestra esto, al parecer un error con la relación “auth_user”. ¿Alguien sabe que me puede estar haciendo falta?
 	``` 
 	    <
@@ -1540,16 +1399,15 @@ Hola instale el docker y tengo los archivos pero cuando entro al contenedor me p
 	    
 	```
 
-## 0060. Llamados a un API con GET parámetros en la URL
+## 0060. Llamados a un API con GET parámetros en la URL [25068](https://platzi.com/clases/1765-postman/25068-llamados-a-un-api-con-get-parametros-en-la-url/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Pablo Rocha** (4)
+* **Pablo Rocha** (4) [930155](https://platzi.com/comentario/930155/) 
 
-	
 	Para quien tenga problemas en la instalación o quiera usar otra API, aquí os dejo un listado de APIs.
 	
 	[Public APIs](https://github.com/public-apis/public-apis)
@@ -1557,101 +1415,84 @@ Hola instale el docker y tengo los archivos pero cuando entro al contenedor me p
 	Yo ahora mismo estoy usando esta que es de los diferentes paises.  
 	[REST Countries](https://restcountries.eu/)
 
-	* **Julián Fernando Amaya Díaz** (2)
+	* **Julián Fernando Amaya Díaz** [930155] (2)
 
-		
 		Gracias Pablo buen enlace. Aquí les dejo una api de movies, necesitan registrarse para obtener el token, pero es bastante interesante y tiene mucho contenido: <https://developers.themoviedb.org/3/getting-started/introduction>
 
-	* **Pablo Rocha** (1)
+	* **Pablo Rocha** [930155] (1)
 
-		
 		Gracias @julianamayadiaz, estoy viendo la documentación y pinta muy interesante para hacer algún proyecto real 😃
 
-* **Victor Inojosa** (3)
+* **Victor Inojosa** (3) [908274](https://platzi.com/comentario/908274/) 
 
-	
 	Les recomiendo el curso de Flask para crear rápidamente una API con Python
 	
 	<https://platzi.com/clases/flask/>
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [902882](https://platzi.com/comentario/902882/) 
 
-	
 	Les recomiendo este Curso de API-Rest**: <https://platzi.com/cursos/api-rest/**>
 
-	* **adersonrangel** (2)
+	* **adersonrangel** [902882] (2)
 
-		
 		El link de la url esta mal bro, quitale los **. Un saludo.
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [902882] (1)
 
-		
 		upps, esta bien 😃
 
-* **adersonrangel** (3)
+* **adersonrangel** (3) [79761](https://platzi.com/comentario/945920/) 
 Que curso existe para aprender a diseñar API’s con esos detalles de paginación como Count, Next, Previuos ?
 
-	* **JandroMejia** (1)
+	* **JandroMejia** [79761] (1)
 
-		
 		En el caso de Python, la paginación te la hace Django REST Framework directamente, solo tenés que hacer ciertas configuraciones.
 
-* **royergarci** (2)
+* **royergarci** (2) [980211](https://platzi.com/comentario/980211/) 
 
-	
 	No logro pasar de el comando docker exec -it postman-course_web_1 bash.  
 	Me lanza un error la terminal; ERROR No such container: postman-course_web_1
 
-	* **Cristian David Franco Garcia** (2)
+	* **Cristian David Franco Garcia** [980211] (2)
 
-		
 		`docker exec -it postman-course-master_web_1 bash`
 
-	* **royergarci** (2)
+	* **royergarci** [980211] (2)
 
-		
 		Muchas gracias, Cris. Escribí el comando como lo mandaste y se ejecutó todo hasta Generated token for user superadmin. Al momento de abrir el localhost en mi navegador no me muestra nada. Me sale el error ERR_EMPTY_RESPONSE ¿Sabes que pueda ser lo que sucede?
 
-	* **Cristian David Franco Garcia** (2)
+	* **Cristian David Franco Garcia** [980211] (2)
 
-		
 		No, por el momento los contenedores corren pero no responde el API
 
-* **Jineth Daniela Granados Leguizamon** (2)
+* **Jineth Daniela Granados Leguizamon** (2) [946529](https://platzi.com/comentario/946529/) 
 
-	
 	este videeo no es de postman sino de diseño de apis…quedo con la duda de ver codigo de la api
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [1012507](https://platzi.com/comentario/1012507/) 
 
-	
 	Me cuesta con algunas Apis
 
-* **gydoar** (1)
+* **gydoar** (1) [912111](https://platzi.com/comentario/912111/) 
 
-	
 	No se pueden hacer las practicas por que no hay API para descargar, que mal.
 
-	* **imoralesMX** (2)
+	* **imoralesMX** [912111] (2)
 
-		
 		Si viste el contenedor docker que subieron a github para que lo corras en local y puedas probar?
 		
 		<https://github.com/platzi/postman-course/tree/master/project>
 		
 		En el README viene como montarlo
 
-	* **JeanCarlosRodriguez** (1)
+	* **JeanCarlosRodriguez** [912111] (1)
 
-		
 		Que problema tienes?  
 		Que Sistema Operativo estas usando?  
 		Que error te da?
 
-	* **georgehossa** (1)
+	* **georgehossa** [912111] (1)
 
-		
 		me sale este error cuando corro: source admin_info.sh
 		
 		Traceback (most recent call last):  
@@ -1660,104 +1501,89 @@ Que curso existe para aprender a diseñar API’s con esos detalles de paginaci�
 		psycopg2.errors.UndefinedTable: relation “auth_user” does not exist  
 		LINE 1: INSERT INTO “auth_user” (“password”, “last_login”, "is_super…
 
-## 0070. Llamados a un API con el método post utilizando JSON
+## 0070. Llamados a un API con el método post utilizando JSON [25069](https://platzi.com/clases/1765-postman/25069-llamados-a-un-api-con-el-metodo-post-utilizando-js/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **georgehossa** (9)
+* **georgehossa** (9) [994097](https://platzi.com/comentario/994097/) 
 
-	
 	Que bueno sería poder utilizar la API del curso para poder resolver los retos pero… NO FUNCIONA!
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [994097] (2)
 
-		
 		Y nada que dan solución
 
-* **Ivan Quintero** (3)
+* **Ivan Quintero** (3) [1046205](https://platzi.com/comentario/1046205/) 
 
-	
 	Actualicen la API que no sirve
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [903023](https://platzi.com/comentario/903023/) 
 
-	
 	JSON: API es una especificación de cómo un cliente debe solicitar que se busquen o modifiquen los recursos, y cómo un servidor debe responder a esas solicitudes. Está diseñada para minimizar tanto la cantidad de solicitudes como la cantidad de datos transmitidos entre clientes y servidores. Esta eficiencia se logra sin comprometer la legibilidad, la flexibilidad o la capacidad de descubrimiento. **Más:**<https://jsonapi.org/format/>
 
-* **Alexander Armúa Abregu** (2)
+* **Alexander Armúa Abregu** (2) [1101865](https://platzi.com/comentario/1101865/) 
 
-	
 	Si no pueden usar la api de platzi en local, en esta pagina <https://jsonplaceholder.typicode.com/> pueden utilizarla para mandarle POST, GET y demas que siempre responde algo. No podran ver la informacion actualizada pero sirve para tener algo en postman
 
-* **carlosbazanhuaman** (2)
+* **carlosbazanhuaman** (2) [997941](https://platzi.com/comentario/997941/) 
 
-	
 	hay que actualizar los recursos para seguir la linea del curso.
 
-* **Andres Roberto Coello Goyes** (2)
+* **Andres Roberto Coello Goyes** (2) [912464](https://platzi.com/comentario/912464/) 
 
-	
 	 **<https://www.programacion.com.py/varios/que-es-json-web-token-jwt>**  
 	para ver mas a detalle que son TOkEN viene de **JWT**
 
-* **Ivan Quintero** (2)
+* **Ivan Quintero** (2) [84228](https://platzi.com/comentario/1046118/) 
 No actualizan la API y asi no se anima uno a trabajar
 
-	* **Julián Fernando Amaya Díaz** (1)
+	* **Julián Fernando Amaya Díaz** [84228] (1)
 
-		
 		Trabaja con otra API, aprendes más. Te recomiendo The Movie Database API.
 
-* **JandroMejia** (2)
+* **JandroMejia** (2) [82208](https://platzi.com/comentario/1000263/) 
 ¿Sería mucho pedir que publicaran la API en Heroku?
 
-* **Luis Christian Vargas Vasquez** (1)
+* **Luis Christian Vargas Vasquez** (1) [1101089](https://platzi.com/comentario/1101089/) 
 
-	
 	Excelente
 
-* **emmanuelpaternina** (1)
+* **emmanuelpaternina** (1) [1038940](https://platzi.com/comentario/1038940/) 
 
-	
 	Muy bueno!
 
-* **Daniel Carmona** (1)
+* **Daniel Carmona** (1) [1012566](https://platzi.com/comentario/1012566/) 
 
-	
 	Me gusto
 
-* **Pablo Rocha** (1)
+* **Pablo Rocha** (1) [935525](https://platzi.com/comentario/935525/) 
 
-	
 	Muy útil poder usar un mismo endpoint con diferentes verbos para realizar acciones distintas 😃
 
-* **humansonofhuman** (1)
+* **humansonofhuman** (1) [79145](https://platzi.com/comentario/934617/) 
 Hola, al intentar crear el curso me devuelve un 500 le mando: { "name": "Curso de postman", "description": "The description", "t...
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [79145] (1)
 
-		
 		tienes el repositorio en la última versión? acabé de revisar el código y no debería generar esta excepción. Igualmente si te sigue fallando estoy pendiente para ayudarte.
 
-## 0080. Llamados a un API con el método post utilizando Form Data
+## 0080. Llamados a un API con el método post utilizando Form Data [25070](https://platzi.com/clases/1765-postman/25070-llamados-a-un-api-con-el-metodo-post-utilizando-fo/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Bryan Estiven Silva Mercado** (6)
+* **Bryan Estiven Silva Mercado** (6) [900481](https://platzi.com/comentario/900481/) 
 
-	
 	De esta manera se podrían pasar los datos con form-data  
 	![](![form-data.PNG](https://static.platzi.com/media/user_upload/form-data-19ed8831-065f-42e9-849c-165f185be77a.jpg)
 
-* **Marco Antonio Benites Espinoza** (4)
+* **Marco Antonio Benites Espinoza** (4) [1015599](https://platzi.com/comentario/1015599/) 
 
-	
 	Reto realizado:
 	
 	**1\. Mediante x-www-form-urlencoded**  
@@ -1766,340 +1592,287 @@ Hola, al intentar crear el curso me devuelve un 500 le mando: { "name": "Curso d
 	**2\. Mediante form-data**  
 	![](https://i.ibb.co/yn4frmd/Postman-tarea-2.png)
 
-* **José Padrón** (2)
+* **José Padrón** (2) [918975](https://platzi.com/comentario/918975/) 
 
-	
 	Envié con comentario con form data. Si logre el reto
 	
 	![Captura de pantalla_2020-01-12_17-18-27.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla_2020-01-12_17-18-27-147ea77b-aa88-4694-af92-456f4431a820.jpg)
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [918975] (1)
 
-		
 		Parce pudo usar la api de github?
 
-* **Pablo Rocha** (2)
+* **Pablo Rocha** (2) [79195](https://platzi.com/comentario/935530/) 
 El método para enviar archivos dependerá siempre de la API ¿no? Me refiero, una API puede aceptar únicamente envío de JSON mediante el bo...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [79195] (1)
 
-		
 		Así es, eso se define en la API.
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [997960](https://platzi.com/comentario/997960/) 
 
-	
 	la consola me parecio una herramienta muy buena
 
-* **Cristian David Franco Garcia** (1)
+* **Cristian David Franco Garcia** (1) [987139](https://platzi.com/comentario/987139/) 
 
-	
 	 **Enviar un objeto dentro de un array con form-data o x-www-form-urlencoded:**  
 	![Annotation 2020-02-15 135821.png](https://static.platzi.com/media/user_upload/Annotation%202020-02-15%20135821-84c65af2-6ac8-4e7b-b48c-568d7947643f.jpg)
 
-* **Cristian David Franco Garcia** (1)
+* **Cristian David Franco Garcia** (1) [987137](https://platzi.com/comentario/987137/) 
 
-	
 	**Enviar un array con form-data o x-www-form-urlencoded:**  
 	![a.png](https://static.platzi.com/media/user_upload/a-917007c7-d071-433b-b813-941deed6a3e9.jpg)
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [903112](https://platzi.com/comentario/903112/) 
 
-	
 	Lista en Postman usando el verbo POST  
 	(![b05868656609e4eabf29b366f24694efc1b27c40.png](https://static.platzi.com/media/user_upload/b05868656609e4eabf29b366f24694efc1b27c40-d44dd99f-28b1-4db4-891d-e86930519b04.jpg))
 
-* **adersonrangel** (1)
+* **adersonrangel** (1) [79762](https://platzi.com/comentario/945934/) 
 Como puedes obtener la información de envió para un API (Post, Get) si no tenes la documentación respectiva o cuentas con información muy...
 
-	* **adersonrangel** (1)
+	* **adersonrangel** [79762] (1)
 
-		
 		En uno de los videos de la clase me dieron la respuesta. La dejo por acá  
 		![](https://i.ibb.co/ZVyV4sy/obtener-urls.png)
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [77255](https://platzi.com/comentario/900968/) 
 ¿ Podría pasar imagenes por medio de json utilizando encoded ?
 
-	* **walis85300 (Platzi)** (2)
+	* **walis85300 (Platzi)** [77255] (2)
 
-		
 		Podrías pasar las imágenes utilizando base64, es la única forma de enviar una imagen por medio de texto.
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [77218](https://platzi.com/comentario/900486/) 
 ¿Cuando sería recomendable usar x-www-form-urlencoded para pasar datos ? ya que entendería que si son datos planos podría usar solo raw, ...
 
-	* **walis85300 (Platzi)** (3)
+	* **walis85300 (Platzi)** [77218] (3)
 
-		
 		Si necesitas pasar solo datos no hay diferencia entre el uso de uno u otro, pero cuando vayas a enviar archivos es recomendable usar `form-data`.
 
-## 0090. Llamados a un API con el método PUT
+## 0090. Llamados a un API con el método PUT [25071](https://platzi.com/clases/1765-postman/25071-llamados-a-un-api-con-el-metodo-put/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [903599](https://platzi.com/comentario/903599/) 
 
-	
 	Las diferencias entre PUT y PATCH es que PUT es reemplazo completo de la entidad, y PATCH sólo de una parte.
 
-	* **Jonathan Uriel Jiménez Soveranes** (1)
+	* **Jonathan Uriel Jiménez Soveranes** [903599] (1)
 
-		
 		Así es!
 
-	* **marcos_or25** (1)
+	* **marcos_or25** [903599] (1)
 
-		
 		asi es
 
-* **Cristian David Franco Garcia** (2)
+* **Cristian David Franco Garcia** (2) [987398](https://platzi.com/comentario/987398/) 
 
-	
 	¿Con el método PUT y PATCH puedo enviar información en formato form-data?
 	
 	R= Sí.
 
-* **jlbousing** (1)
+* **jlbousing** (1) [1033175](https://platzi.com/comentario/1033175/) 
 
-	
 	Yo generalmente para actualizar un contenido utilizo el método POST. Entonces lo que hago es buscar el id del recurso que le estoy enviando y actualizo los datos que tenga que actualizar…me funciona exactamente igual, entonces ¿ Qué diferencia habría si utilizo el PUT ? Se que es el deber ser porque el PUT y PATCH esta hecho para eso pero ¿Si me funciona igual ? tambien cabe destacar que no he seguido muy bien las convenciones descritas en la clase de estructuras de Url…mis endpoints son muy personalizados.
 
-	* **Jorge Humberto Nemogá Pinzón** (2)
+	* **Jorge Humberto Nemogá Pinzón** [1033175] (2)
 
-		
 		Ahora, entiendo más de lo que creía saber. Pregunta muy acertada @jlbousing  
 		En el siguiente artículo el autor lo explica de una manera genial. [HTTP diferencias entre POST y PUT](http://notasjs.blogspot.com/2013/07/http-diferencia-entre-post-y-put.html)
 
-	* **Mariangelica Useche Saavedra** (1)
+	* **Mariangelica Useche Saavedra** [1033175] (1)
 
-		
 		Sí funciona igual, pero como todo en programación, hay buenas prácticas y convenciones que podemos seguir 😃.
 
-* **Marco Antonio Benites Espinoza** (1)
+* **Marco Antonio Benites Espinoza** (1) [1016245](https://platzi.com/comentario/1016245/) 
 
-	
 	¿A traves de los metodos PUT y PATCH se puede enviar informacion con form-data?  
 	Respuesta: **Si**.
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [997972](https://platzi.com/comentario/997972/) 
 
-	
 	se deberia poder.
 
-* **Orlax** (1)
+* **Orlax** (1) [988652](https://platzi.com/comentario/988652/) 
 
-	
 	 **Si** se puede enviar información con form-data
 
-* **edanfesi** (1)
+* **edanfesi** (1) [926776](https://platzi.com/comentario/926776/) 
 
-	
 	La respuesta es SI 😃
 
-* **Johan Sebastia Medina Camacho** (1)
+* **Johan Sebastia Medina Camacho** (1) [917492](https://platzi.com/comentario/917492/) 
 
-	
 	teóricamente si se pueden enviar por form-data puesto que funciona similar al método post
 
-* **Jozelyn_MG** (1)
+* **Jozelyn_MG** (1) [903316](https://platzi.com/comentario/903316/) 
 
-	
 	Para mi si se pueden enviar datos por medio de form data.
 
-	* **marcos_or25** (1)
+	* **marcos_or25** [903316] (1)
 
-		
 		se puede enviar textos y archivos
 
-* **Juan Manuel Pérez Altamirano** (1)
+* **Juan Manuel Pérez Altamirano** (1) [900804](https://platzi.com/comentario/900804/) 
 
-	
 	La respuesta a la pregunta es **SI**
 
-* **Bryan Estiven Silva Mercado** (1)
+* **Bryan Estiven Silva Mercado** (1) [900491](https://platzi.com/comentario/900491/) 
 
-	
 	Claro que se podría usar el método put y patch con form-data para actualizar la información
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [899397](https://platzi.com/comentario/899397/) 
 
-	
 	Metodo PUT y PATCH PARA EDITAR UN COMENTARIO EN ESPECIFICO
 
-* **Ernesto_ars** (1)
+* **Ernesto_ars** (1) [77219](https://platzi.com/comentario/900519/) 
 Patch solo sirve para editar un dato, porque no usar put y solo actualizar el dato que queremos?
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [77219] (1)
 
-		
 		En teoría el verbo PATCH es el que indica el protocolo HTTP para editar únicamente un rato del recurso, PUT también funciona pero es mejor seguir los estándares de los protocolos.
 
-## 0100. Llamados a un API con el método DELETE
+## 0100. Llamados a un API con el método DELETE [25072](https://platzi.com/clases/1765-postman/25072-llamados-a-un-api-con-el-metodo-delete/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (8)
+* **Christian David Sánchez** (8) [903853](https://platzi.com/comentario/903853/) 
 
-	
 	 **204 (No Content),** la petición se ha completado con éxito pero su respuesta no tiene ningún contenido (la respuesta sí que puede incluir información en sus cabeceras HTTP).
 
-## 0110. Optimización de environment de postman y configuración de la colección
+## 0110. Optimización de environment de postman y configuración de la colección [25073](https://platzi.com/clases/1765-postman/25073-optimizacion-de-environment-de-postman-y-configura/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jean Carlos Nuñez Hernandez** (6)
+* **Jean Carlos Nuñez Hernandez** (6) [903066](https://platzi.com/comentario/903066/) 
 
-	
 	POstman acepta MARKDOWN para descripcion de sus colecciones
 
-* **Mariana Valencia** (4)
+* **Mariana Valencia** (4) [954608](https://platzi.com/comentario/954608/) 
 
-	
 	Muy buena clase 😄
 
-* **Hebert Yovanny López Castañeda** (4)
+* **Hebert Yovanny López Castañeda** (4) [922428](https://platzi.com/comentario/922428/) 
 
-	
 	Los enviroments son muy útiles. En mi caso, utilizo gran cantidad de endpoints para entorno local, de desarrollo y producción en 9 países. Si hay un cambio en una variable, se realiza una sola vez y no 11 veces por endpoint, para dar un ejemplo.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [922428] (1)
 
-		
 		Wow, en que trabaja?
 
-* **yisus_dev** (3)
+* **yisus_dev** (3) [908164](https://platzi.com/comentario/908164/) 
 
-	
 	a esta clase le falta información acerca del resumen del mismo, el examen pregunta algo que en la clase no hace entender a simple vista.
 	
 	a diferencia de otros cursos cada clase contiene un resumen de lo que se da por clase.
 
-* **Ricardo Mesa Gallego** (2)
+* **Ricardo Mesa Gallego** (2) [909870](https://platzi.com/comentario/909870/) 
 
-	
 	Muy útil el tema de los Environments. Mas que todo cuando la misma API se prueba en ambientes Locales y pre-productivos. Antes de este vídeo tenia la colección con el mismo endpoint 3 o mas veces por ambiente xD
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [1097875](https://platzi.com/comentario/1097875/) 
 
-	
 	Súper clase!!
 
-* **cristianggil** (1)
+* **cristianggil** (1) [1014701](https://platzi.com/comentario/1014701/) 
 
-	
 	Excelente clase y entusiasmado por lo que vendrá!
 
-* **adersonrangel** (1)
+* **adersonrangel** (1) [945948](https://platzi.com/comentario/945948/) 
 
-	
 	Super esta clase. Esta herramienta la puedo utilizar ya en mis proyectos thanks.
 
-* **josedbp0107** (1)
+* **josedbp0107** (1) [903716](https://platzi.com/comentario/903716/) 
 
-	
 	Excelente!!
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [903063](https://platzi.com/comentario/903063/) 
 
-	
 	Un collecion es como un folder o carpeta donde pertenece los request de esa carpeta
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [903060](https://platzi.com/comentario/903060/) 
 
-	
 	La variables globales son utiles si se van usar en toda la coleccion
 
-## 0120. Agregar ejemplos de responses y descripción de endpoints
+## 0120. Agregar ejemplos de responses y descripción de endpoints [25074](https://platzi.com/clases/1765-postman/25074-agregar-ejemplos-de-responses-y-descripcion-de-end/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Ricardo Mesa Gallego** (8)
+* **Ricardo Mesa Gallego** (8) [909882](https://platzi.com/comentario/909882/) 
 
-	
 	Documenta!.. Tu “yo” del futuro te lo agradecerá.
 
-* **Eduardo P. Rivero** (6)
+* **Eduardo P. Rivero** (6) [961700](https://platzi.com/comentario/961700/) 
 
-	
 	Los ejemplos de responses también sirven para generar un mock server. Escribe sobre como crearlos en un tutorial.
 	
 	<https://platzi.com/tutoriales/1765-postman/4882-creando-mock-server-con-postman/>
 
-* **Hebert Yovanny López Castañeda** (5)
+* **Hebert Yovanny López Castañeda** (5) [922433](https://platzi.com/comentario/922433/) 
 
-	
 	Una buena práctica es documentar directamente en el API, por ejemplo utilizando Swagger.
 
-* **Bryan Estiven Silva Mercado** (3)
+* **Bryan Estiven Silva Mercado** (3) [77223](https://platzi.com/comentario/900546/) 
 ¿En este caso el método options debe ser creado por la persona que crea la APis, para que pueda ser utilizado, así como deben de crear mé...
 
-	* **walis85300 (Platzi)** (2)
+	* **walis85300 (Platzi)** [77223] (2)
 
-		
 		sí, el backend debe escribir esas especificaciones, en el caso del API del curso que está construido con Django Rest Framework se especifican automáticamente según el serializador que se especifique.
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [1087721](https://platzi.com/comentario/1087721/) 
 
-	
 	Excelente…
 
-* **Héctor Tello** (1)
+* **Héctor Tello** (1) [1086799](https://platzi.com/comentario/1086799/) 
 
-	
 	Excelente clase! muy buena forma de ir documentando la API
 
-* **walis85300 (Platzi)** (1)
+* **walis85300 (Platzi)** (1) [1063704](https://platzi.com/comentario/1063704/) 
 
-	
 	Qué les pareció la clase?
 
-	* **luisglopez7777** (4)
+	* **luisglopez7777** [1063704] (4)
 
-		
 		muy buena, solamente en general para hacer el curso falto como crear la api en localhost
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [1063704] (3)
 
-		
 		Muy buena clase.
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [1063704] (1)
 
-		
 		Excelente Diego, aprobaste el examen?
 
-* **walis85300 (Platzi)** (1)
+* **walis85300 (Platzi)** (1) [84990](https://platzi.com/comentario/1063706/) 
 Alguna pregunta por acá?
 
-	* **Ivan Quintero** (1)
+	* **Ivan Quintero** [84990] (1)
 
-		
 		Si sera que pueden publicar una API funcional y que sea la misma que utilizan en el curso, porque algunos somos muy nuevos en esto y nos perdemos utilizando otras API’s
 
-* **Jozelyn_MG** (1)
+* **Jozelyn_MG** (1) [77389](https://platzi.com/comentario/903395/) 
 Que útil no tenia conocimientos respecto a esto!
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [77389] (1)
 
-		
 		me cuentas cómo fue en el curso!
 
-# Automatización de procesos con JavaScript
+# Automatización de procesos con JavaScript [5020]
 
-## 0130. Guardar el token del login con una prueba automática
+## 0130. Guardar el token del login con una prueba automática [25725](https://platzi.com/clases/1765-postman/25725-guardar-el-token-del-login-con-una-prueba-automati/)
 
 ### Descripción:
 
@@ -2110,32 +1883,27 @@ Que útil no tenia conocimientos respecto a esto!
 
 ### Comentarios:
 
-* **Hebert Yovanny López Castañeda** (2)
+* **Hebert Yovanny López Castañeda** (2) [922449](https://platzi.com/comentario/922449/) 
 
-	
 	Generalmente las variables de autenticación cambian periodicamente por razones de seguridad, de esta manera, al hacerlo con las pruebas automáticas se actualizan dinámicamente.
 
-* **Hebert Yovanny López Castañeda** (1)
+* **Hebert Yovanny López Castañeda** (1) [922444](https://platzi.com/comentario/922444/) 
 
-	
 	Otra ventaja de tener colecciones es que estas se guardan en el cloud de postman con tu cuenta y de esta manera la puedes usar desde cualquier equipo al abrir postman con tu usuario. De igual manera, la puedes exportar y compartir con tu equipo de trabajo o viceverza.
 
-* **yisus_dev** (1)
+* **yisus_dev** (1) [908181](https://platzi.com/comentario/908181/) 
 
-	
 	me indicas en qué clase hablas de de que nos permite hacer o lograr al tener una colección en postman?
 
-	* **walis85300 (Platzi)** (4)
+	* **walis85300 (Platzi)** [908181] (4)
 
-		
 		No se habla en una clase en específico, pero podría decir que en los módulo de Automatización de procesos con Javascript y puesta en producción se ven las ventajas de tener todo bien organizado en una colección, podemos documentar, crear pruebas y luego publicar una documentación bastante completa de lo que hace el API.
 
-	* **Ricardo Mesa Gallego** (2)
+	* **Ricardo Mesa Gallego** [908181] (2)
 
-		
 		Tener una buena colección es simplemente orden. Cuando estas en varios proyectos a la vez es super importante. Ademas de ser mas facil de compartir la colección con integrantes nuevos que llegan al proyecto y que no tengan que crear todo de cero en Postman si no importar la colección que ya esta full con documentación.
 
-## 0140. Creación de Pruebas para endpoints
+## 0140. Creación de Pruebas para endpoints [25076](https://platzi.com/clases/1765-postman/25076-creacion-de-pruebas-para-endpoints/)
 
 ### Descripción:
 
@@ -2146,9 +1914,8 @@ Que útil no tenia conocimientos respecto a esto!
 
 ### Comentarios:
 
-* **Bryan Estiven Silva Mercado** (11)
+* **Bryan Estiven Silva Mercado** (11) [900558](https://platzi.com/comentario/900558/) 
 
-	
 	Como quedo mi test usando el API de spotify
 	``` 
 	    pm.test("Status code is 200", function () {
@@ -2174,49 +1941,43 @@ Que útil no tenia conocimientos respecto a esto!
 	    
 	```
 
-	* **walis85300 (Platzi)** (1)
+	* **walis85300 (Platzi)** [900558] (1)
 
-		
 		qué genial!!
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [903072](https://platzi.com/comentario/903072/) 
 
-	
 	Postman tiene snippets que mnos ayudan a validar ciertos reponse como 200, 401 etc
 
-# Puesta en producción
+# Puesta en producción [5021]
 
-## 0150. Publicar Documentación
+## 0150. Publicar Documentación [25077](https://platzi.com/clases/1765-postman/25077-publicar-documentacion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Hebert Yovanny López Castañeda** (6)
+* **Hebert Yovanny López Castañeda** (6) [922463](https://platzi.com/comentario/922463/) 
 
-	
 	Una buena práctica en el desarrollo de API, es utilizar bibliotecas de documentación como Swagger, APIDOC, etc.
 
-* **Jean Carlos Nuñez Hernandez** (6)
+* **Jean Carlos Nuñez Hernandez** (6) [899400](https://platzi.com/comentario/899400/) 
 
-	
 	POSTMAN NOS PERMITE EXPORTAR COLECCIONES Y ASI ESTO SEA MANEJADA Y PORTABLE
 
-* **Hebert Yovanny López Castañeda** (2)
+* **Hebert Yovanny López Castañeda** (2) [922451](https://platzi.com/comentario/922451/) 
 
-	
 	Otra ventaja de tener colecciones es que estas se guardan en el cloud de postman con tu cuenta y de esta manera la puedes usar desde cualquier equipo al abrir postman con tu usuario. De igual manera, la puedes exportar y compartir con tu equipo de trabajo o viceverza.
 
-* **adersonrangel** (1)
+* **adersonrangel** (1) [79765](https://platzi.com/comentario/945991/) 
 En Postman existen algunas herramientas para el trabajo colaborativo aparte del exportar?
 
-	* **German Giraldo Dario Giraldo** (3)
+	* **German Giraldo Dario Giraldo** [79765] (3)
 
-		
 		Se pueden usar colecciones, que puedes compartir. Tambien se pueden establecer teams (desconozco si eso solo funciona en la version de pagio). Esta caracteristica permite no solo cmpartir colecciones, sino variables de entorno e incluso scripts
 
-## 0160. Cierre del curso
+## 0160. Cierre del curso [25078](https://platzi.com/clases/1765-postman/25078-cierre-del-curso/)
 
 ### Descripción:
 
@@ -2231,95 +1992,80 @@ En Postman existen algunas herramientas para el trabajo colaborativo aparte del 
 
 ### Comentarios:
 
-* **Hebert Yovanny López Castañeda** (3)
+* **Hebert Yovanny López Castañeda** (3) [922470](https://platzi.com/comentario/922470/) 
 
-	
 	Muy buen curso, para complementar los invito a revisar como utilizar el Runner de postman:
 	
 	[Intro to collection runs](https://learning.getpostman.com/docs/postman/collection-runs/intro-to-collection-runs/)
 
-* **Juan Manuel Pérez Altamirano** (3)
+* **Juan Manuel Pérez Altamirano** (3) [900890](https://platzi.com/comentario/900890/) 
 
-	
 	Excelente curso, a poner en practica yodo lo aprendido.
 
-* **Camilo Andrés Santana Lizcano** (2)
+* **Camilo Andrés Santana Lizcano** (2) [1019018](https://platzi.com/comentario/1019018/) 
 
-	
 	¡Excelente curso, ahora si le puedo sacar todo el jugo a Postman y lo de Documentación Wow !
 
-* **Hebert Yovanny López Castañeda** (2)
+* **Hebert Yovanny López Castañeda** (2) [922469](https://platzi.com/comentario/922469/) 
 
-	
 	Muy buen curso, para complementar los invito a revisar como utilizar Runner en postman:
 	
 	[Intro to collection runs](https://learning.getpostman.com/docs/postman/collection-runs/intro-to-collection-runs/)
 
-* **Enrique Alexis Lopez Araujo** (2)
+* **Enrique Alexis Lopez Araujo** (2) [912169](https://platzi.com/comentario/912169/) 
 
-	
 	📌 Un curso demasiado practico y muy bueno, si quieren seguir aprendiendo en donde se tienen por ejemplo los datos guardados pueden ver el [curso de postgres ](https://platzi.com/clases/postgresql/) un curso que les ayudara demasiado a reforzar el conocimiento sobre donde guardamos los datos que tenemos y como podrian relacionar.
 	
 	🔥Y por el ultimo les dejo el curso para entender mas sobre apis, el [curso de api’s](https://platzi.com/clases/api-rest/)
 	
 	#neverstoplearning
 
-	* **Brando Rodríguez** (2)
+	* **Brando Rodríguez** [912169] (2)
 
-		
 		Muchas gracias me ayudaste mucho, buscaba este curso de Api’s
 
-* **Jozelyn_MG** (2)
+* **Jozelyn_MG** (2) [903516](https://platzi.com/comentario/903516/) 
 
-	
 	Excelente curso!
 
-* **Gerardo Manuel Reyes Fernández** (2)
+* **Gerardo Manuel Reyes Fernández** (2) [900782](https://platzi.com/comentario/900782/) 
 
-	
 	Estuvo muy bueno el curso
 
-* **Bryan Estiven Silva Mercado** (2)
+* **Bryan Estiven Silva Mercado** (2) [900563](https://platzi.com/comentario/900563/) 
 
-	
 	Muy buen curso, me gusto mucho.
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [899404](https://platzi.com/comentario/899404/) 
 
-	
 	A presentar el examen pues
 
-* **JayceErick** (1)
+* **JayceErick** (1) [1112056](https://platzi.com/comentario/1112056/) 
 
-	
 	Buen curso , aprendi un poco mas acerca de esta potente herramienta
 
-* **Nagcely Mendoza** (1)
+* **Nagcely Mendoza** (1) [1100881](https://platzi.com/comentario/1100881/) 
 
-	
 	Muy buen curso 👏🏻👏🏻👏🏻.
 
-* **jayroht93** (1)
+* **jayroht93** (1) [1004885](https://platzi.com/comentario/1004885/) 
 Excelente curso, muy práctico y útil. 10/10
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [999431](https://platzi.com/comentario/999431/) 
 buen curso
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [998229](https://platzi.com/comentario/998229/) 
 buen curso; basico pero
 
-* **andresramirez7d7501dcfd6b43ef** (1)
+* **andresramirez7d7501dcfd6b43ef** (1) [990127](https://platzi.com/comentario/990127/) 
 
-	
 	Muy bien!
 
-* **Julián Fernando Amaya Díaz** (1)
+* **Julián Fernando Amaya Díaz** (1) [944797](https://platzi.com/comentario/944797/) 
 
-	
 	Buen curso, gracias Profe!
 
-* **Victor Inojosa** (1)
+* **Victor Inojosa** (1) [909263](https://platzi.com/comentario/909263/) 
 
-	
 	Excelente curso. Recomiendo hacer el curso de Flask para que aprendan a crear RESTful APIs rapidamente.
 

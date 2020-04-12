@@ -1,124 +1,104 @@
-# Development
+[Curso de Single Page Application con JavaScript Vanilla 1787](https://platzi.com/cursos/spa-javascript)
 
-## 0010. ¿Qué vamos a aprender
+# Development [5223]
+
+## 0010. ¿Qué vamos a aprender [25880](https://platzi.com/clases/1787-spa-javascript/25880-que-vamos-a-aprender/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **urieelmm** (4)
+* **urieelmm** (4) [1105719](https://platzi.com/comentario/1105719/) 
 
-	
 	Ya sólo falta este para ser un agente punto y coma !!
 
-* **zequihinojosa** (3)
+* **zequihinojosa** (3) [1102731](https://platzi.com/comentario/1102731/) 
 
-	
 	vamos por agente punto y coma…  
 	curiosamente hoy iba a iniciar este curso de todas formas…
 
-* **Cristhian Franco** (2)
+* **Cristhian Franco** (2) [1109144](https://platzi.com/comentario/1109144/) 
 
-	
 	Vengo por el reto del agente punto y coma, pero tambien tenia en la mira a este curso.
 
-* **Jaime David Burbano Montoya** (2)
+* **Jaime David Burbano Montoya** (2) [1106837](https://platzi.com/comentario/1106837/) 
 
-	
 	A por el agente punto y coma
 
-* **John Botero** (2)
+* **John Botero** (2) [1106601](https://platzi.com/comentario/1106601/) 
 
-	
 	Modo Agente();
 
-* **Juan Carlos Valencia López** (2)
+* **Juan Carlos Valencia López** (2) [983551](https://platzi.com/comentario/983551/) 
 
-	
 	ESTE PROFE CADA VEZ ME AGRADA MAS
 
-	* **Gabriel De Andrade (Platzi)** (6)
+	* **Gabriel De Andrade (Platzi)** [983551] (6)
 
-		
 		Genial! Entonces te recomiendo el [Curso de Asincronismo con JS](https://platzi.com/clases/asincronismo-js/) y el de [ECMAScript 6+](https://platzi.com/clases/ecmascript-6/) que son dictados también por el gran Oscar 😄
 
-	* **Juan Carlos Valencia López** (1)
+	* **Juan Carlos Valencia López** [983551] (1)
 
-		
 		ya tome el de ecma y tambien estuvo re bueno, ahora por asincronismo. veamos algo nuevo que puedo aprender
 
-	* **Favio Náquira** (1)
+	* **Favio Náquira** [983551] (1)
 
-		
 		El profe es buenísimo, su inglés me espanta :’)
 
-* **JhonColorado07** (2)
+* **JhonColorado07** (2) [982066](https://platzi.com/comentario/982066/) 
 
-	
 	Vamos por este curso. Este es mi segundo curso con este profesor.
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [982066] (1)
 
-		
 		Excelente, estamos al pendiente de tu aprendizaje 😄
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1108330](https://platzi.com/comentario/1108330/) 
 
-	
 	vamos a ver con todo
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1106467](https://platzi.com/comentario/1106467/) 
 
-	
 	Hola, vengo porque me intereso mucho esto 😄
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [1102701](https://platzi.com/comentario/1102701/) 
 
-	
 	A darle!!
 
-* **Isaac Aaron Andres Perez** (1)
+* **Isaac Aaron Andres Perez** (1) [1099253](https://platzi.com/comentario/1099253/) 
 
-	
 	Este tipo de aplicaciones se pueden poner en Github pages?
 
-	* **Franciree Arellán** (2)
+	* **Franciree Arellán** [1099253] (2)
 
-		
 		Sí puedes.
 
-* **José Antonio Torres** (1)
+* **José Antonio Torres** (1) [1099143](https://platzi.com/comentario/1099143/) 
 
-	
 	💪
 
-* **33andres33** (1)
+* **33andres33** (1) [1087679](https://platzi.com/comentario/1087679/) 
 
-	
 	A DARLE!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1029784](https://platzi.com/comentario/1029784/) 
 
-	
 	vamoss!
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1028959](https://platzi.com/comentario/1028959/) 
 
-	
 	Con todo!
 
-* **predator0077** (1)
+* **predator0077** (1) [984586](https://platzi.com/comentario/984586/) 
 
-	
 	Vamos a darle con todo a este nuevo curso
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [983082](https://platzi.com/comentario/983082/) 
 
-	
 	Vamos pues!! ahora con Vanilla
 
-## 0020. Introducción a SPA
+## 0020. Introducción a SPA [25881](https://platzi.com/clases/1787-spa-javascript/25881-introduccion-a-spa/)
 
 ### Descripción:
 
@@ -131,14 +111,12 @@
 
 ### Comentarios:
 
-* **bryanjavier** (8)
+* **bryanjavier** (8) [1103792](https://platzi.com/comentario/1103792/) 
 
-	
 	Yo leo SPA y se me viene a la mente Sociedad por acciones , maldita contabilidad que ha nublado mi ya nublada mente ._.
 
-* **Nathaly Stefani Riaño Bejarano** (5)
+* **Nathaly Stefani Riaño Bejarano** (5) [1020399](https://platzi.com/comentario/1020399/) 
 
-	
 	 **SPA** Son aplicaciones construidas con JavaScript que nos permiten cargar nuestro contenido una sóla vez, es decir, se envían los archivos HTML, CSS y JS una sóla vez al navegador y ahí es donde va a vivir toda nuestra aplicación, de tal forma que la aplicación no necesita ser recargada, por ello, si se necesita navegar en la aplicación, se navega entre secciones y no páginas.
 	
 	_Ventajas_
@@ -146,166 +124,136 @@
 	  * Son fáciles de debuggear.
 	  * Son fáciles de crear.
 	
-	
-	
 	_Desventajas_
 	
 	  * No es tan compatible con el SEO.
 	  * No es recomendable aplicarlas para grandes aplicaciones (Aplicación grande => más de 1000 usuarios y más de 50 secciones en la página).
-	
-	
 
-* **PENCA** (5)
+* **PENCA** (5) [982811](https://platzi.com/comentario/982811/) 
 
-	
 	¿Podré realizar algo como esto?  
 	<http://www.town.shimane-misato.lg.jp/misatoto/>
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [982811] (1)
 
-		
 		Este proyecto utiliza muchos elementos visuales y de animaciones, puedes también ver el curso: <https://platzi.com/clases/animaciones-web/> y <https://platzi.com/clases/html5-css3/> para lograr un desarrollo como el que propones.
 
-* **metta** (3)
+* **metta** (3) [1038152](https://platzi.com/comentario/1038152/) 
 
-	
 	Esta es la dirección del api:
 	
 	[https://rickandmortyapi.com/](url)
 
-* **paconity** (3)
+* **paconity** (3) [981847](https://platzi.com/comentario/981847/) 
 
-	
 	Buenas Oscar, a que te refieres con grandes aplicaciones? En mi caso yo quiero hacer una aplicación de videos (estos estarían insertados con una etiqueta iframe), crees que mi app califique como grande?
 
-	* **Oscar Barajas Tavares (Platzi)** (6)
+	* **Oscar Barajas Tavares (Platzi)** [981847] (6)
 
-		
 		No, una aplicación grande seria un sitio que maneje mas de 1000 usuarios y mas de 50 secciones en tu pagina.
 
-	* **JhonColorado07** (1)
+	* **JhonColorado07** [981847] (1)
 
-		
 		Ok más claro el concepto de aplicaciones grandes.
 
-* **evelynroman** (2)
+* **evelynroman** (2) [988518](https://platzi.com/comentario/988518/) 
 
-	
 	Entiendo que existen alternativa para que cuando un robot visite tu sitio, se muestre una version para SEO
 
-	* **Nathaly Stefani Riaño Bejarano** (1)
+	* **Nathaly Stefani Riaño Bejarano** [988518] (1)
 
-		
 		Si no estoy mal, ésto se logra con el Server Side Rendering 😃
 
-	* **Fernando Hernandez** (1)
+	* **Fernando Hernandez** [988518] (1)
 
-		
 		Hola,  
 		[SSR ](https://platzi.com/clases/ssr/)  
 		😃
 
-	* **José Antonio Torres** (1)
+	* **José Antonio Torres** [988518] (1)
 
-		
 		La mejor opción es pasar a SSR. Generalmente las SPA son muy dinámicas y únicamente se cargan cuando el usuario logra entrar al sitio y cargar todo el js de la web. Mientras tanto el robot de Search engine no es capaz de ello
 
-* **Juan Carlos Valencia López** (2)
+* **Juan Carlos Valencia López** (2) [983553](https://platzi.com/comentario/983553/) 
 
-	
 	WOW, ME GUSTA COMO CARGAN LOS VIDEOS DESPUES DE TERMINARLOS
 
-* **wlm.morant** (2)
+* **wlm.morant** (2) [85086](https://platzi.com/comentario/1065829/) 
 al parecer esta clase esta mas simple que la jquery, el curso de programacion gratuito es maravilloso pero luego la enseñanza no es igu...
 
-	* **Karla Agraz** (1)
+	* **Karla Agraz** [85086] (1)
 
-		
 		¡Hola! ¿Por qué la enseñanza no es igual? 🤔  
 		En mi caso pienso que cada profesor es diferente a la hora de enseñar, los cursos prácticos son muy buenos porque son proyectos para tu portafolio, debes tener las bases de JavaScript para comprender mejor el contenido, por esa razón aparece el curso en la ruta de aprendizaje como avanzado 🤓
 
-* **Javier Alejandro Quiñones Ibarra** (1)
+* **Javier Alejandro Quiñones Ibarra** (1) [1112058](https://platzi.com/comentario/1112058/) 
 
-	
 	Estoy emocionado por comenzar, ya tenia tiempo queriendo aprender a hacer esto.
 
-* **jesus-cruz-dominguez** (1)
+* **jesus-cruz-dominguez** (1) [1109881](https://platzi.com/comentario/1109881/) 
 
-	
 	;
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [1109155](https://platzi.com/comentario/1109155/) 
 
-	
 	La desventaja que se menciono si es bastante importante, pero igual mas conocimiento para mi bobeda.
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1108358](https://platzi.com/comentario/1108358/) 
 
-	
 	bueno comencemos con todo 😄
 
-* **Frank Carmona** (1)
+* **Frank Carmona** (1) [1040724](https://platzi.com/comentario/1040724/) 
 
-	
 	vamo a darle
 
-* **Francisco Soto** (1)
+* **Francisco Soto** (1) [1027073](https://platzi.com/comentario/1027073/) 
 
-	
 	Que sera mejor React vs Vanilla js
 
-	* **jfelipebc** (3)
+	* **jfelipebc** [1027073] (3)
 
-		
 		De entrada se puede decir que React es mejor que Javascript plano, debido a que hace ciertas cosas por nosotros que nos facilita el trabajo y ayudan a construir cosas de una manera más optima y rápida, sin embargo, conocer como se puede construir una SPA sin un framework o librería permite entender la base que nos ofrecen librerias como React o framework como Angular
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [1027073] (5)
 
-		
 		Aquí la pregunta es, Para qué? si vas a hacer algo simple como una validación u ocultar elementos (que sigan en el dom pero no visible) o cosas de ese estilo pues es fácil usar vanilla js, pero si quieres tener una estructura más compleja tener estados, mejorar la interacción, cargar y descargar módulos de la página sin duda React.
 		
 		Yo creo que siempre se debe escoger el lenguaje/framework/herramienta dependiendo de las necesidades que se tengan para el proyecto.
 
-	* **José Antonio Torres** (1)
+	* **José Antonio Torres** [1027073] (1)
 
-		
 		Estoy de acuerdo con gollum23. Me gustaría agregar que al final todo se traduce al final a JavaScript plano. Es decir que si en este curso eres capaz de entender las bases puedes saber cómo una librería como react funciona y sos capaz de interiorizar mejor.
 
-* **Emanuel Valero** (1)
+* **Emanuel Valero** (1) [985827](https://platzi.com/comentario/985827/) 
 
-	
 	Un poco para complementar en esta sección de introducción, comparto este enlace a la wikipedia que estuve leyendo: <https://en.wikipedia.org/wiki/Single-page_application>
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [982091](https://platzi.com/comentario/982091/) 
 
-	
 	A iniciar el curso.
 
-* **Yulissa Terán Cerquín** (1)
+* **Yulissa Terán Cerquín** (1) [87121](https://platzi.com/comentario/1113332/) 
 Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir una SPA pensando que se puede convertir en una gran aplicació...
 
-	* **Oscar Grey** (1)
+	* **Oscar Grey** [87121] (1)
 
-		
 		Lo que explica es que una SPA tiene problemas con el SEO (O indexación en motores de búsqueda , y según mi opinión sería mucho más lento y difícil de manejar una aplicación que cargue todo su contenido en una sola página al principio ya que esto podría tener implicaciones en el rendimiento y/o problemas al escalar a una app más robusta
 
-* **Fernando Alejandro Yerena Ramos** (1)
+* **Fernando Alejandro Yerena Ramos** (1) [84183](https://platzi.com/comentario/1044968/) 
 ¿Cuál sería la mejor solución, generalmente, para una aplicación grande? Una aplicación con múltiples páginas o dividirlo en múltiples SP...
 
-	* **alejandrocabreratavara** (1)
+	* **alejandrocabreratavara** [84183] (1)
 
-		
 		Creo que va mas por el SEO , las aplicaciones SPA son Client side rendering , osea se sirven de el lado de el cliente. Y no es posible hacer posicionamiento SEO por si mismo. En cambio hay otras aplicaciones que son SSR , servidas de el lado de el servidor que si te permitiran hacer SEO.
 
-* **Fernando Alejandro Yerena Ramos** (1)
+* **Fernando Alejandro Yerena Ramos** (1) [84182](https://platzi.com/comentario/1044919/) 
 ¿A que se refiere el profesor con “no vamos a necesitar recargar la aplicación”? Entiendo que no vamos a tener que solicitar los archivos...
 
-	* **Ruben Padilla** (3)
+	* **Ruben Padilla** [84182] (3)
 
-		
 		Así es, todo el HTML/CSS/JS de la aplicación se envía una sola vez al navegador y las secciones de la página se renderizan de acuerdo a la demanda del usuario sin necesidad de hacer más solicitudes.
 
-## 0030. Configurar el entorno de trabajo
+## 0030. Configurar el entorno de trabajo [25882](https://platzi.com/clases/1787-spa-javascript/25882-configurar-el-entorno-de-trabajo/)
 
 ### Descripción:
 
@@ -328,38 +276,31 @@ Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir u
 
 ### Comentarios:
 
-* **Jose Daniel Barría Reyes** (6)
+* **Jose Daniel Barría Reyes** (6) [1014813](https://platzi.com/comentario/1014813/) 
 
-	
 	Herramientas:
 	
 	  * Terminal
 	  * Editor de codigo
 	  * Navegador
 	
-	
-	
 	Todo proyecto inicia:
-	``` 
-	    git init 
+	```     git init 
 	    
 	```
 	
 	Inicializamos proyecto node:
-	``` 
-	    npm init
+	```     npm init
 	    
 	```
 	
 	Abrimos visual studio code:
-	``` 
-	    code . 
+	```     code . 
 	    
 	```
 	
 	Definicion de arquitectura de carpetas
-	``` 
-	    /src //archivos
+	```     /src //archivos
 	    	/routes // las rutas de la aplicacion
 	    	/utils // utilerias
 	    	/styles // estilos
@@ -370,42 +311,35 @@ Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir u
 	    
 	```
 
-	* **jbarriospd** (2)
+	* **jbarriospd** [1014813] (2)
 
-		
 		Para configurar por primera vez el shortcut de vs code, recomiendo el siguente tutorial  
 		<https://platzi.com/tutoriales/1557-git-github/1438-configura-visual-studio-code-como-editor-de-texto/>
 
-* **zequihinojosa** (1)
+* **zequihinojosa** (1) [1114162](https://platzi.com/comentario/1114162/) 
 
-	
 	interesante ojala termine a tiempo para ser un agente punto y coma
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1108416](https://platzi.com/comentario/1108416/) 
 
-	
 	perfecto 😄
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1104634](https://platzi.com/comentario/1104634/) 
 
-	
 	Muy bien, hasta aqui todo ok!
 
-* **33andres33** (1)
+* **33andres33** (1) [1098494](https://platzi.com/comentario/1098494/) 
 
-	
 	para este proyecto es aconsejable ver el curso de npm y el de jquery a javascript. a mi me toco ver el de npm me suelen sarrer algunos errores
 
-* **jfelipebc** (1)
+* **jfelipebc** (1) [1029096](https://platzi.com/comentario/1029096/) 
 
-	
 	Si deseas saltar las preguntas cuando haces npm init puede ejecutarlo de esta manera
-	``` 
-	    npm init --y
+	```     npm init --y
 	    
 	```
 
-## 0040. Preparar Webpack
+## 0040. Preparar Webpack [25883](https://platzi.com/clases/1787-spa-javascript/25883-preparar-webpack/)
 
 ### Descripción:
 
@@ -418,12 +352,10 @@ Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir u
 
 ### Comentarios:
 
-* **JhonColorado07** (7)
+* **JhonColorado07** (7) [982184](https://platzi.com/comentario/982184/) 
 
-	
 	Comparto la configuración:
-	``` 
-	    // Permitir traer path. Acceder dentro de la carpte no importa el lugar donde se encuentre
+	```     // Permitir traer path. Acceder dentro de la carpte no importa el lugar donde se encuentre
 	    const path = require('path')
 	    const HtmlWebpackPlugin = require('html-webpack-plugin')
 	    
@@ -460,75 +392,61 @@ Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir u
 	    
 	```
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [982184] (1)
 
-		
 		Gracias.
 
-* **Martín Roldán** (6)
+* **Martín Roldán** (6) [1111815](https://platzi.com/comentario/1111815/) 
 
-	
 	Bueno quede así…
 	
 	![raw.png](https://static.platzi.com/media/user_upload/raw-6aa13766-ff33-4e43-8193-e5a993b3f110.jpg)
 
-	* **hanspereira** (2)
+	* **hanspereira** [1111815] (2)
 
-		
 		A mi tambien me ha explotao bro
 
-* **Juan Esteban Galvis** (6)
+* **Juan Esteban Galvis** (6) [1101662](https://platzi.com/comentario/1101662/) 
 
-	
 	Uy jaja a por el curso de **Webpack** para entender lo que acabamos de hacer jaja
 	
 	<https://platzi.com/cursos/webpack/>
 
-* **Juan José Vega Quintero** (6)
+* **Juan José Vega Quintero** (6) [1101468](https://platzi.com/comentario/1101468/) 
 
-	
 	comando para ahorrar tiempo
-	``` 
-	    npm i @babel/core babel-loader html-webpack-plugin webpack webpack-cli webpack-dev-server --save-dev
+	```     npm i @babel/core babel-loader html-webpack-plugin webpack webpack-cli webpack-dev-server --save-dev
 	    
 	```
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [1101468] (2)
 
-		
 		Héroe sin capa 🤘
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1101468] (1)
 
-		
 		Muchas gracias por el aporte!!
 
-* **luisrovez** (3)
+* **luisrovez** (3) [982059](https://platzi.com/comentario/982059/) 
 
-	
 	Se que no tiene que ver con el curso, pero ¿Que tema de VScode usas? Me gusta 😃
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [982059] (3)
 
-		
 		Synthwave '84. Yo lo uso y me gusta mucho 😄
 
-	* **luisrovez** (2)
+	* **luisrovez** [982059] (2)
 
-		
 		Gracias @GabrielElpidio, lo voy a usar 😃
 
-	* **Oscar Barajas Tavares (Platzi)** (3)
+	* **Oscar Barajas Tavares (Platzi)** [982059] (3)
 
-		
 		Hay variantes del mismo tema pero todos se inician con Synthwave 😄
 
-* **Héctor Gerardo Reyes Bautista** (2)
+* **Héctor Gerardo Reyes Bautista** (2) [1115685](https://platzi.com/comentario/1115685/) 
 
-	
 	Les dejo el código con una explicación simple de lo que hace cada linea.
-	``` 
-	    const path = require('path'); //Nos permite acceder a donde estámos en las carpetas. Ya sea en local o en la nube.
+	```     const path = require('path'); //Nos permite acceder a donde estámos en las carpetas. Ya sea en local o en la nube.
 	    const HtmlWebpackPlugin = require('html-webpack-plugin'); //Archivo necesario para trabajar con HTML.
 	    
 	    module.exports = {  //Aquí se encuentra toda la configuración de lo que va a suceder. Modulo para exportar.
@@ -564,37 +482,31 @@ Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir u
 	    
 	```
 
-* **idmevander** (2)
+* **idmevander** (2) [1099923](https://platzi.com/comentario/1099923/) 
 
-	
 	volvere cuando sepa de webpack!!!
 
-* **JhonColorado07** (2)
+* **JhonColorado07** (2) [982158](https://platzi.com/comentario/982158/) 
 
-	
 	Ufff que configuracion noooo.
 
-* **ALBERTO JOSE MORALES BOSCAN** (1)
+* **ALBERTO JOSE MORALES BOSCAN** (1) [1116105](https://platzi.com/comentario/1116105/) 
 
-	
 	Creo que ese agente ; no llegara de manera fácil, sin mas esfuerzo que solo esos tres cursos propuestos. Yo me voy a estudiar más antes de este curso, porque usan procedimientos y programas que ni he usado (GibHub - npm - webpack ->“menos”).
 
-* **Yulissa Terán Cerquín** (1)
+* **Yulissa Terán Cerquín** (1) [1115684](https://platzi.com/comentario/1115684/) 
 
-	
 	comandos para instalar babel y webpack:
 	
 	npm i @babel/core babel-loader html-webpack-plugin webppack webpack-cli webpack-dev-server --save-dev
 
-	* **Flukus99** (1)
+	* **Flukus99** [1115684] (1)
 
-		
 		lo pasaste mal el webpack despues de plugin tiene 2 pp
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [1115001](https://platzi.com/comentario/1115001/) 
 
-	```
-	    const path = require('path');
+	```    const path = require('path');
 	    const HtmlWebpackPlugin = require('html-webpack-plugin');
 	    
 	    module.exports = {
@@ -630,147 +542,125 @@ Oscar, no entiendo a qué te refieres cuando dices que “no debemos construir u
 	    
 	```
 
-* **zequihinojosa** (1)
+* **zequihinojosa** (1) [1114216](https://platzi.com/comentario/1114216/) 
 
-	
 	wow descubrí cositas nuevas, me duele el cerebro…
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1106781](https://platzi.com/comentario/1106781/) 
 
-	
 	Como funciona la parte de resolve y extensions?
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1105126](https://platzi.com/comentario/1105126/) 
 
-	
 	Tengo que tomar el curso de webpack!!
 
-* **33andres33** (1)
+* **33andres33** (1) [1088064](https://platzi.com/comentario/1088064/) 
 
-	
 	Hay algún curso que haga referencia a estos temas?
 
-	* **José Antonio Torres** (1)
+	* **José Antonio Torres** [1088064] (1)
 Te sugiero los cursos de NPM y de webpack. Webpack es muy grande, toma su tiempo para entender y dominarlo. :)
 
-* **juan martinez lopez** (1)
+* **juan martinez lopez** (1) [1064537](https://platzi.com/comentario/1064537/) 
 
-	
 	sin darme cuenta instale las dependencias fuera de la aplicación abra algún problema con eso
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1064537] (1)
 
-		
 		Sip, debes hacerlo en la carpeta en la que está la aplicación, si no instalaste las dependencias al mismo nivel que el package.json, tu aplicación no podrá hacer uso de ellas.
 		
 		PD: Ahora tienes una carpeta node_modules fuera de tu app, te aconsejo que la elimines 😛
 
-	* **juan martinez lopez** (1)
+	* **juan martinez lopez** [1064537] (1)
 
-		
 		si eso crei pero la busque y no la encontre
 
-* **jairpss** (1)
+* **jairpss** (1) [1032272](https://platzi.com/comentario/1032272/) 
 
-	
 	Ayuda. Puse el mismo comando que Oscar y me salen estos errores. Ahi se muestra mi version de NPM y Node.  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-1a85c91a-5546-43ff-b2a3-4ff67e7278f2.jpg)
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1032272] (1)
 
-		
 		Hola! Puedes intentar instalando la versión LTS de node? este error está bien raro. De todas maneras también puedes intentar antes con `npm cache clean` a ver si funciona 😛
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [1017818](https://platzi.com/comentario/1017818/) 
 
-	
 	npm install @babel/core babel-loader html-webpack-plugin webpack webpack-cli webpack-dev-server --save-dev
 
-* **viktorv** (1)
+* **viktorv** (1) [982528](https://platzi.com/comentario/982528/) 
 
-	
 	Puse el comando tal cual lo pone Oscar y me dio error. Luego intente con “sudo” y si bien tengo menos error sigue fallando la instalacion.  
 	Dejo captura:  
 	![npm-error.png](https://static.platzi.com/media/user_upload/npm-error-012e6af6-9593-47c5-8f2b-d4d201e6c140.jpg)
 
-	* **Oscar Barajas Tavares (Platzi)** (2)
+	* **Oscar Barajas Tavares (Platzi)** [982528] (2)
 
-		
 		Tienes problemas con tu instalación de node, puedes compartirme la versión de node: `node -v` y la version de npm `npm -v`.
 
-	* **viktorv** (1)
+	* **viktorv** [982528] (1)
 
-		
 		Node es la version v12.14.1 y NPM es 6.13.4  
 		Cabe aclarar que trabajo en W10 con WSL
 		
 		Y aprovecho para decirte que sos excelente explicando, entretenido de escuchar
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [982528] (3)
 
-		
 		Hola! Intenta corriendo la terminal de Ubuntu como admin y sin usar sudo en el comando, parece que la carpeta de Windows en la que estás, solo la puede modificar el usuario de Windows así que si no te gusta correr las cosas como administrador (como yo) puedes tratar de cambiar los permisos de la carpeta donde tienes tus proyectos 😄
 
-	* **Martín Roldán** (1)
+	* **Martín Roldán** [982528] (1)
 
-		
 		Pudiste solucionarlo?
 
-	* **luis-mendoza877** (4)
+	* **luis-mendoza877** [982528] (4)
 
-		
 		Yo tengo la respuesta amigo, si estas en ubunto desde window, probablemente tengas abierto Visual studio code remoto, solamente cierra vvisual studio Code luego vuelve a correr el comando, espero te ayude
 
-	* **Martín Roldán** (1)
+	* **Martín Roldán** [982528] (1)
 
-		
 		Me funcionó. Gracias!!
 
-	* **jfelipebc** (1)
+	* **jfelipebc** [982528] (1)
 
-		
 		Para los que trabajan en Windows y no tiene instalado la terminal de Ubuntu, pueden usar esta [cmder](https://cmder.net/)
 
-* **benazir** (1)
+* **benazir** (1) [87325](https://platzi.com/comentario/1117750/) 
 Cuál será el color theme de su VSC?, me gusta que se diferencien las llaves por colores.
 
-* **ALBERTO JOSE MORALES BOSCAN** (1)
+* **ALBERTO JOSE MORALES BOSCAN** (1) [87257](https://platzi.com/comentario/1116090/) 
 Es necesario tener todo lo que explica en este video, me refiero a GibHub, NPM y la paqueteria que descarga (babel y webpack)???, porque ...
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [86927](https://platzi.com/comentario/1108525/) 
 perfecto 😄 sigamos 😄
 
-* **Joel alexander** (1)
+* **Joel alexander** (1) [82147](https://platzi.com/comentario/998627/) 
 Podría utilizar en algún momento typescript en igual de babel??? Puede cumplir con la retrocompatibilidad de JavaScript
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [82147] (1)
 
-		
 		Puedes seguir este tutorial para usar TypeScript con Babel: <https://iamturns.com/typescript-babel/>. 😉
 
-* **Emanuel Valero** (1)
+* **Emanuel Valero** (1) [81740](https://platzi.com/comentario/988669/) 
 Tengo una pregunta: en el curso de webpack, Leonidas nos muestra que para utilizar babel hay que instalar la dependencia @babel/preset-en...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [81740] (2)
 
-		
 		 **Babel Preset ENV** nos permite escribir código JavaScript moderno que todavía no está soportado por todos los navegadores. Si quieres programar de esta forma lo puedes instalar. Si no, no lo necesitas. 😉
 
-# Templates
+# Templates [5224]
 
-## 0050. Crear el Home
+## 0050. Crear el Home [25884](https://platzi.com/clases/1787-spa-javascript/25884-crear-el-home/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Fernando Vallejo** (4)
+* **Fernando Vallejo** (4) [1106084](https://platzi.com/comentario/1106084/) 
 
-	
 	Script correcto.
-	``` 
-	    "scripts": {
+	```     "scripts": {
 	        "build":"webpack --mode production",
 	        "start": "webpack-dev-server --open --mode development"
 	      },
@@ -778,8 +668,7 @@ Tengo una pregunta: en el curso de webpack, Leonidas nos muestra que para utiliz
 	```
 	
 	webpack,config.js
-	``` 
-	    const path = require('path');
+	```     const path = require('path');
 	    const HtmlWebPackPlugin = require('html-webpack-plugin');
 	    
 	    module.exports = {
@@ -815,61 +704,50 @@ Tengo una pregunta: en el curso de webpack, Leonidas nos muestra que para utiliz
 	    
 	```
 
-	* **Karla Agraz** (1)
+	* **Karla Agraz** [1106084] (1)
 
-		
 		Gracias!!
 
-	* **Alberto Gómez Juan** (1)
+	* **Alberto Gómez Juan** [1106084] (1)
 
-		
 		Había un typo en el mode de built. Gracias!!
 
-	* **hanspereira** (1)
+	* **hanspereira** [1106084] (1)
 
-		
 		Muchísimas gracias!
 
-* **JhonColorado07** (4)
+* **JhonColorado07** (4) [982202](https://platzi.com/comentario/982202/) 
 
-	
 	Qué plugin utiliza para que se le cierren las etiquetas html dentro de las comillas francesas?
 
-	* **Oscar Barajas Tavares (Platzi)** (6)
+	* **Oscar Barajas Tavares (Platzi)** [982202] (6)
 
-		
 		Aca comparto mis plugins: <https://platzi.com/blog/10-plugins-esenciales-para-vscode/>
 
-	* **JhonColorado07** (1)
+	* **JhonColorado07** [982202] (1)
 
-		
 		Gracias.
 
-* **luisrovez** (4)
+* **luisrovez** (4) [982162](https://platzi.com/comentario/982162/) 
 
-	
 	Les comparto esta herramienta online que nos ayuda para crear un archivo **.gitignore**<https://www.gitignore.io/>
 
-	* **Oscar Barajas Tavares (Platzi)** (3)
+	* **Oscar Barajas Tavares (Platzi)** [982162] (3)
 
-		
 		Gran recurso, también sirve para entender que tipo de archivos se generan en diferentes tipos de proyectos.
 
-	* **luisrovez** (1)
+	* **luisrovez** [982162] (1)
 
-		
 		A si es, me ayuda mucho en mis proyecto, una maravilla de herramienta
 
-	* **alexabellerman** (2)
+	* **alexabellerman** [982162] (2)
 
-		
 		npx license mit > LICENSE && npx gitignore node
 		
 		Ese comando crea una licencia MIT y tambien un gitignore todo bonito
 
-* **Javier Alejandro Quiñones Ibarra** (3)
+* **Javier Alejandro Quiñones Ibarra** (3) [1115675](https://platzi.com/comentario/1115675/) 
 
-	
 	Me pueden apoyar con este error al** ejecutar npm run build**
 	
 	npm ERR! code ELIFECYCLE  
@@ -884,8 +762,7 @@ Tengo una pregunta: en el curso de webpack, Leonidas nos muestra que para utiliz
 	npm ERR! C:\Users\xaavi\AppData\Roaming\npm-cache_logs\2020-04-09T22_09_36_271Z-debug.log
 	
 	**Archivo package.json**
-	``` 
-	    {
+	```     {
 	      "name": "cientifico",
 	      "version": "1.0.0",
 	      "description": "Single Page Application",
@@ -912,35 +789,30 @@ Tengo una pregunta: en el curso de webpack, Leonidas nos muestra que para utiliz
 	    
 	```
 
-	* **Hugo Valdes Flores** (1)
+	* **Hugo Valdes Flores** [1115675] (1)
 
-		
 		El profesor elimino la linea de código correspondiente a test.
 
-	* **Cristhian Franco** (1)
+	* **Cristhian Franco** [1115675] (1)
 
-		
 		Proba con esto, a mi me funciono dejarlo asi:
-		``` 
-		    "scripts": {
+		```     "scripts": {
 		        "build": "npm install webpack --mode production",
 		        "start": "webpack-dev-server --open --mode development"
 		      },
 		    
 		```
 
-* **José Antonio Torres** (3)
+* **José Antonio Torres** (3) [1099244](https://platzi.com/comentario/1099244/) 
 El archivo .gitignore lo pueden crear también en gitignore.io
 
-* **JhonColorado07** (3)
+* **JhonColorado07** (3) [982208](https://platzi.com/comentario/982208/) 
 
-	
 	Avanzandoo…
 
-* **Fernando Cordero** (2)
+* **Fernando Cordero** (2) [1112646](https://platzi.com/comentario/1112646/) 
 
-	```
-	    const path = require('path');
+	```    const path = require('path');
 	    const HtmlWebpackPlugin = require('html-webpack-plugin');
 	    
 	    module.exports = {
@@ -979,85 +851,71 @@ El archivo .gitignore lo pueden crear también en gitignore.io
 	    
 	```
 
-	* **zequihinojosa** (1)
+	* **zequihinojosa** [1112646] (1)
 
-		
 		gracias que buen aporte
 
-	* **Leandro Terrado** (1)
+	* **Leandro Terrado** [1112646] (1)
 
-		
 		Gracias!, me salvaste de revisar todo el modulo anterior a ver que habia copiado mal
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [1106912](https://platzi.com/comentario/1106912/) 
 
-	
 	Pues no sé por qué pero cuando corria el script build la consola me decia que no encontraba el entrypoint, so, lo declare mas especificamente en el archivo webpack y fucncionó. PD: será porque estoy usando windows? 🤓
-	``` 
-	    ...
+	```     ...
 	      entry: path.resolve(__dirname, './src/index.js'),
 	    ...
 	    
 	```
 
-	* **Héctor Gerardo Reyes Bautista** (1)
+	* **Héctor Gerardo Reyes Bautista** [1106912] (1)
 
-		
 		Me pasó lo mismo desde Windows. Gracias.
 
-* **juan martinez lopez** (2)
+* **juan martinez lopez** (2) [1065302](https://platzi.com/comentario/1065302/) 
 
-	
 	Yo veo que el Profe siempre pone  
 	{
 	
 	}; el punto y coma acá pero en un curso de Freddy creo que el programación básica el dice que ahí no es necesario ponerlo, es solo una costumbre del profe o si hay que ponerlo ahora por buena practica o algo asi?
 
-	* **33andres33** (2)
+	* **33andres33** [1065302] (2)
 
-		
 		También me surgió esa pregunta un día, y la respuesta es que como sean sus gustos, según el profe de fundamentos de JS en donde el trabaja es sin punto y coma, en otros lados si, pero también hay que tener en cuenta algunos casos que si se utiliza, en el curso de fundamentos de JS hay una clase que explican cuando.
 
-	* **José Antonio Torres** (3)
+	* **José Antonio Torres** [1065302] (3)
 Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de estilo de código, siempre consulta cuál es en tu trabajo, puedo usar herramientas como Eslint o prettier. Y si trabajas por tu cuenta, usa el que más te guste. :)
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [1065302] (2)
 
-		
 		Pueden escribirlo como quieran y usar prettier y formatear el documento. Con visual studio code es muy fácil
 
-	* **ABautistaO15** (1)
+	* **ABautistaO15** [1065302] (1)
 
-		
 		hay una pequeña diferencia, en el curso de programación básica Freddy hace referencia a los bloques llámese if, while, for en esos casos las llaves no llevan punto y coma pero en cambio en JS las llaves igual se usan las llaves para indicar que es un objeto y como comentan algunos compañeros en este caso el uso de punto y coma depende de las reglas que se establezcan para el desarrollo.
 
-* **camilarojasserantoni** (2)
+* **camilarojasserantoni** (2) [983636](https://platzi.com/comentario/983636/) 
 
-	
 	es un poco avanzado… diento que no entiendo bien como hacer una app spa … 😦
 
-	* **Oscar Barajas Tavares (Platzi)** (3)
+	* **Oscar Barajas Tavares (Platzi)** [983636] (3)
 
-		
 		Preguntame, estoy para apoyarte en tus dudas.
 
-	* **Andrés Felipe Eslava Zuluaga** (1)
+	* **Andrés Felipe Eslava Zuluaga** [983636] (1)
 
-		
 		No te preocupes, sucede que Óscar mencionó al inicio que se necesita configurar el entorno de trabajo. Ésto significa que se debe preparar la forma en cómo vas a realizar tú código y que te sientas a gusto.  
 		En éste caso, el maestro enseña sobre un entorno de trabajo para Javascript, cada creación de carpetas y documentos es netamente un prework para que comiences a realizar tus ideas.
 		
 		Puedes, sólo ten paciencia.
 
-* **Emmanuel García** (2)
+* **Emmanuel García** (2) [87297](https://platzi.com/comentario/1117146/) 
 ¿cuál es el plugin de auto completado tags dentro de js que usa Oscar?
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [1116411](https://platzi.com/comentario/1116411/) 
 
-	
 	Hola compañeros, tengo este error al compilar el build con npm:
-	``` 
-	    > cientifico@1.0.0 build /home/crodfranco/Documents/cientifico
+	```     > cientifico@1.0.0 build /home/crodfranco/Documents/cientifico
 	    > webpack --mode production
 	    
 	    sh: 1: webpack: not found
@@ -1074,8 +932,7 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 	```
 	
 	Este es el debugger:
-	``` 
-	    info it worked if it ends with ok
+	```     info it worked if it ends with ok
 	    1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'build' ]
 	    2 info using npm@6.14.4
 	    3 info using node@v12.16.2
@@ -1111,12 +968,10 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 	    
 	```
 
-	* **Cristhian Franco** (2)
+	* **Cristhian Franco** [1116411] (2)
 
-		
 		Encontre la solucion buscando en stackoverflow, agregue lo siguiente al script:
-		``` 
-		    "scripts": {
+		```     "scripts": {
 		        "build": "npm install webpack --mode production",
 		        "start": "webpack-dev-server --open --mode development"
 		      },
@@ -1125,14 +980,12 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 		
 		lo raro es que ya tenia npm instalado pero bueno, ya me funciono
 
-	* **Julio César Olguín Serna** (1)
+	* **Julio César Olguín Serna** [1116411] (1)
 
-		
 		en el archivo **webpack.config.js**
 		
 		cambia
-		``` 
-		    module.exports = {
+		```     module.exports = {
 		      entry: './src/index.js',
 		      output: {
 		        path: path.resolve(__dirname, 'dist'),
@@ -1143,15 +996,13 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 		
 		y ya funciona
 
-	* **Cristhian Franco** (1)
+	* **Cristhian Franco** [1116411] (1)
 
-		
 		@olguin_js fijate que eso lo tenia bien, fue parte de las cosas que estuve revisando, el problema era en el package.json
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112647](https://platzi.com/comentario/1112647/) 
 
-	```
-	    {
+	```    {
 	      "name": "cientifico",
 	      "version": "1.0.0",
 	      "description": "single page application",
@@ -1178,10 +1029,9 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112645](https://platzi.com/comentario/1112645/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    <head>
 	        <metacharset="UTF-8">
@@ -1202,10 +1052,9 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112643](https://platzi.com/comentario/1112643/) 
 
-	```
-	    const Home = () => {
+	```    const Home = () => {
 	        const view = `
 	            <divclass="Characters">
 	                <articleclass="Character-item">
@@ -1223,64 +1072,52 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 	    
 	```
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1110574](https://platzi.com/comentario/1110574/) 
 
-	
 	casi después de 1 hora resolviendo errores de ortografía Dios ajjajaja
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1108051](https://platzi.com/comentario/1108051/) 
 
-	
 	vamos, se va poniendo interesante el curso!
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1107030](https://platzi.com/comentario/1107030/) 
 
-	
 	  * Crear .gitignore para que ignore los node_modules
 	  * Crea los scrips en package.json de produccion y development
 	  * Crea el archivo template de html y crea su contenido con html:5, ademas de agregar algunas secciones y el tag de js vinculado al main.js compilado
 	  * Corre el script npm run build para obtener la carpeta dist con el codigo compilado
 	  * Crea el componente de home
-	
-	
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1106921](https://platzi.com/comentario/1106921/) 
 
-	
 	PD: en el archivo de package.json donde se escriben los scripts es --mode no --modo ;D
 
-* **EmilioCS** (1)
+* **EmilioCS** (1) [1053667](https://platzi.com/comentario/1053667/) 
 
-	
 	Me aparece este error cuando ejecuto el comando “npm run build”  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-7adabc67-2ef6-4cff-bbc9-f46510ba7f9a.jpg)
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1053667] (1)
 
-		
 		Hola! Eso es todo lo que sale? Puedes mostrar la consola completa. De todas maneras intenta con `npm install` y después corre el comando 😄
 
-	* **Hermes** (1)
+	* **Hermes** [1053667] (1)
 
-		
 		misma duda ?pudiste resolverlo?
 
-	* **Jenny Aguilar** (1)
+	* **Jenny Aguilar** [1053667] (1)
 
-		
 		Mismo error, por favor, si alguien lo resolvió… somos todos oídos y ojos.
 
-	* **HUGO ANDRES DIAZ BERNAL** (1)
+	* **HUGO ANDRES DIAZ BERNAL** [1053667] (1)
 ![Captura de pantalla de 2020-04-07 03-10-56.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-07%2003-10-56-a35f35a9-aaaf-4477-84ed-2934d6ec178d.jpg)
 		
 		Este es mi error y pues nada que lo puedo solucionar, si saben algo me cuentan comunidad!!!
 
-	* **Fernando Vallejo** (1)
+	* **Fernando Vallejo** [1053667] (1)
 
-		
 		Los de los comentarios, validen si escribieron el comando correcto en packege.json
-		``` 
-		    “scripts”:{
+		```     “scripts”:{
 		    “build”:“webpack--modeproduction”,
 		    “start”:“webpack-dev-server--open--modedevelopment”
 		    }
@@ -1291,24 +1128,20 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 		
 		Saludos.
 
-	* **Jaime David Burbano Montoya** (1)
+	* **Jaime David Burbano Montoya** [1053667] (1)
 
-		
 		Al parecer ese error es porque tienes una versión vieja de node.js
 
-	* **Hermes** (1)
+	* **Hermes** [1053667] (1)
 
-		
 		Descargue la version mas actualizada, y esta correctamente escrito el package.json. No puedo subir screenshot porque por alguna razon la plataforma no me deja subir imagenes. Ojala alguien pueda echar una mano. El error que me aparece es el mismo que a Emilio.
 
-	* **Jenny Aguilar** (1)
+	* **Jenny Aguilar** [1053667] (1)
 
-		
 		Estimados, a mi me aparecía el mismo error y revisé palabra por palabra y signo por signo, hasta que encontré mi error. En el archivo webpack.config.js tenía un typo… puse “__direname” y era “__dirname”. Un error tonto, pero espero que a alguien le de una pista para resolver su error.
 
-* **cecilia-garcia840** (1)
+* **cecilia-garcia840** (1) [1004542](https://platzi.com/comentario/1004542/) 
 
-	
 	me dice esto no entiendo que hice mal, lo envio haci porque no se como enviar el screenshot por aqui
 	
 	WARNING in configuration  
@@ -1319,42 +1152,35 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 	Entrypoint undefined = index.html  
 	4 modules
 
-	* **Luis Alexander Chip** (2)
+	* **Luis Alexander Chip** [1004542] (2)
 
-		
 		Esto sale cuando el modo de compilacion de webpack no esta declarado, en el `package.json` hay que modificar el script build que no lo escribio bien el profesor `webpack --mode production`,
 
-	* **cecilia-garcia840** (1)
+	* **cecilia-garcia840** [1004542] (1)
 
-		
 		muchas gracias
 
-	* **ronald ivan carhuaricra vivas** (1)
+	* **ronald ivan carhuaricra vivas** [1004542] (1)
 
-		
 		el profe no escribió bien, pero el pudo continuar debería corregirlo no creen para nosotros tambien ver como solucionar  
 		errores
 
-* **cecilia-garcia840** (1)
+* **cecilia-garcia840** (1) [1004412](https://platzi.com/comentario/1004412/) 
 
-	
 	como puedo hacer screenshot al codigo y enviarlo ?
 
-	* **victor Manuel Peña Torres** (1)
+	* **victor Manuel Peña Torres** [1004412] (1)
 
-		
 		para cargar las imagenes solo tienes que estirar del escritorio y soltar en el cuadro de texto…para ver si la imagen funciona puedes hacer click en las dos flechitas que se ve al costado derecho de la barra azul.  
 		imagen de ejemplo
 		
 		![ejemplocarga.PNG](https://static.platzi.com/media/user_upload/ejemplocarga-3b2adc44-c635-4ee3-a8f6-91e55805a2a4.jpg)  
 		para el screenshot te recomiendo usar el boton Printscrn del teclado o usar la herramienta recortes que windows trae por defecto en caso que uses windows.
 
-	* **Juan Carlos Valencia López** (1)
+	* **Juan Carlos Valencia López** [1004412] (1)
 
-		
 		te recomiendo snapshot, es un plugin de vscode. Luego puedes subirlo a un alojador de imágenes gratuito como [este](https://es.imgbb.com/) y luego solo comentar con este formato
-		``` 
-		     ![](url de la imagen)
+		```      ![](url de la imagen)
 		    
 		```
 		
@@ -1362,110 +1188,95 @@ Es un estilo de programación. Cada equipo de desarrollo tiene su reglamento de 
 		
 		Espero que me hayas entendido
 
-* **hanniaflores** (1)
+* **hanniaflores** (1) [997486](https://platzi.com/comentario/997486/) 
 
-	
 	¿Alguien puede ayudarme? Me sale este error al momento de escribir el comando “npm run build” ![error.PNG](https://static.platzi.com/media/user_upload/error-150e05e8-58d6-45b7-b1ae-ae5213093a6e.jpg)
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [997486] (1)
 
-		
 		Hola! Parece que no estás en la carpeta correcta. En la carpeta que estás actualmente no existe un archivo package.json que debería estar, también puede ser que esté mal nombrado 🤔
 
-	* **David Flores** (1)
+	* **David Flores** [997486] (1)
 
-		
 		Te recomiendo mucho que no uses espacios al nombrar carpetas.  
 		Puede que ese sea uno de los errores del por que no encuentra tu archivo
 
-* **evelynroman** (1)
+* **evelynroman** (1) [988757](https://platzi.com/comentario/988757/) 
 
-	
 	Me pregunto si sera posible en lugar de escribir el template en comillas francesas, importar el template desde un html, de esta manera evitariamos problemas de sintaxis y el IDE ayudaria con la labor de escritura.
 
-	* **Ernesto Briceño** (1)
+	* **Ernesto Briceño** [988757] (1)
 
-		
 		Yo lo hago en html para y despues corto y pego luego dentro de las comillas fracesas.
 
-	* **Omar Guadarrama** (1)
+	* **Omar Guadarrama** [988757] (1)
 
-		
 		Podría ser con JSX que se usa en React. Esto es que se usan la estructura de etiquetas de html pero dentro de un js aparte y se exporta. Y en tu js principal mandas a importar todo lo que necesitas.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [988757] (1)
 
-		
 		Puedes probar estos plugin (no los he probado): [lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) o [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) 😄
 
-* **jvasquez507** (1)
+* **jvasquez507** (1) [986762](https://platzi.com/comentario/986762/) 
 
-	
 	En vez de crear una constante llamada view y luego retornarla, ¿se hubiera podido retornar directamente el código entre comillas francesas?
 
-* **Victor Landa** (1)
+* **Victor Landa** (1) [986405](https://platzi.com/comentario/986405/) 
 
-	
 	También podemos ocupar el shortcut ! + Tab para crear la misma estructura de HTML, es un poco más corto 😀
 
-* **victor Manuel Peña Torres** (0)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-bf764bb2-9220-4b9e-be73-8e17ad7993dc.jpg)
+* **victor Manuel Peña Torres** (0) [999135](https://platzi.com/comentario/999135/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-bf764bb2-9220-4b9e-be73-8e17ad7993dc.jpg)
 	
 	tengo un problema por mas que compilo no me crea el archivo **index.html** dentro de la carpeta dist, entiendo que es el webpack.config.js el encargado de dar la orden de creacion del archivo, verifique varias veces y no encuentro error.
 
-	* **victor Manuel Peña Torres** (1)
+	* **victor Manuel Peña Torres** [999135] (1)
 ![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-fbe7ac28-011a-443b-a846-299a5908b391.jpg)
 		
 		agrego un dato raro, cuando ejecuto el proyecto me muestra todos los archivos del proyecto
 
-	* **Luis Alexander Chip** (1)
+	* **Luis Alexander Chip** [999135] (1)
 
-		
 		Muestranos la configuracion de tu archivo `webpack.config.js` para poder ayudarte a encontrar el error.
 
-	* **Jaime David Burbano Montoya** (1)
+	* **Jaime David Burbano Montoya** [999135] (1)
 
-		
 		¿Creaste dentro de tu carpeta public el archivo **index.html** ?
 
-* **Isaac Sebastián Celi Amores** (0)
+* **Isaac Sebastián Celi Amores** (0) [87293](https://platzi.com/comentario/1116994/) 
 Depués de ejecutar npm run build, me aparece el siguiente error. nose a que se debe, ayuda por favor. sh: 1: webpack--modeproductio...
 
-	* **Javier Alejandro Quiñones Ibarra** (1)
+	* **Javier Alejandro Quiñones Ibarra** [87293] (1)
 
-		
 		Intenta separar esta línea en el archivo package.json  
 		**`webpack--modeproduction`**
 		
 		**`webpack --mode production**`
 
-## 0060. Crear template de personajes
+## 0060. Crear template de personajes [25885](https://platzi.com/clases/1787-spa-javascript/25885-crear-template-de-personajes/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **jasarria** (8)
+* **jasarria** (8) [1018378](https://platzi.com/comentario/1018378/) 
 
-	
 	Con todo respeto esto no parece un curso si no una demostración, al menos hasta el video 5 que es por donde voy. Una cosa es saber mucho, dominar un tecnologia y otra ser pedagogo, creo que el triunfo de la plataforma no esta en el dinero fondeado, ni en la cantidad de usuarios, si no en la calidad de sus educandos.
 
-	* **Diegoalesco95** (2)
+	* **Diegoalesco95** [1018378] (2)
 
-		
 		Hola jasarria, espero se encuentre muy bien. Si tienes dudas sobre algo en especifico, puede comentarlas y la comunidad se encargará de colaborarle. Saludos!
 
-	* **Francisco Soto** (2)
+	* **Francisco Soto** [1018378] (2)
 
-		
 		La mayoría de los cursos son [iguales.Es](http://iguales.Es) un problema en platzi
 		
 		sldos
 
-	* **OmarGbet** (11)
+	* **OmarGbet** [1018378] (11)
 
-		
 		Hola Jasarria! mucho de razón tiene usted, uno de los grandes pendientes de Platzi es la pedagogía, también lo he comentado en múltiples ocasiones.  
 		.  
 		En el caso especifico de este curso, es un curso practico y se necesita conocer varios conceptos de antemano que se explican con más detalle en cursos más básicos.  
@@ -1474,65 +1285,54 @@ Depués de ejecutar npm run build, me aparece el siguiente error. nose a que se 
 		.  
 		Otra cosa que también me gustaría comentarle es que al principio la curva de aprendizaje en programación es dura y lleva a la frustración, es normal no se desesperé y siga tomando las clases, apoyandose de la comunidad por medio de los comentarios. Platzi es más útil a medida que usted avanza. Le aseguro que su paciencia será recompensada.
 
-* **Adrian Garcia Saaib** (3)
+* **Adrian Garcia Saaib** (3) [1107155](https://platzi.com/comentario/1107155/) 
 
-	
 	Eh yo tambien quiero el plugin para que se auto genere el html en archivos js, si me lo pudieran facilitar 🥺
 
-	* **Jhonatan David Ibarra Lavado** (1)
+	* **Jhonatan David Ibarra Lavado** [1107155] (1)
 
-		
 		*2 jajajajaja
 
-* **Juan Esteban Galvis** (2)
+* **Juan Esteban Galvis** (2) [1101824](https://platzi.com/comentario/1101824/) 
 
-	
 	Siento que va rápido pero tras hacer los cursos de javascript y front-end se entiende más. Me falta el de Webpack para entender lo de ese archivo **webpack.config.js** de resto vamos bien pero el profesor va algo rápido.
 	
 	Además alguno se puede perder en que estamos haciendo la plantilla para las páginas que luego llenaremos con la información de los personajes que traeremos desde una API.
 
-	* **Diego Alfonso Najera Ortiz** (2)
+	* **Diego Alfonso Najera Ortiz** [1101824] (2)
 
-		
 		Me paso lo mismo, aún no tomo el de webpack, pero la verdad es que con los cursos anteriores ya te empiezas a dar una idea de por donde va el proyecto, lo nuevo e impactante fue la clase anterior donde venia la configuración
 
-* **33andres33** (2)
+* **33andres33** (2) [1090656](https://platzi.com/comentario/1090656/) 
 
-	
 	Yo estoy siguiendo la ruta de Fronted y la verdad si entendi seria bueno que miraran primero el curso de jquery a JavaScript de Leonidas, pero seria bueno que el profe explicara un poco ademas habla muy rapido, por lo menos hubiera mostrado que estamos creando los personajes con sus caracteristicas para cuando llamemos la api, en las clases anteriores igual hay cosas que seria bueno que las explicara no le toma mucho tiempo.
 
-* **Brayan Alejandro Llanos Hoyos** (2)
+* **Brayan Alejandro Llanos Hoyos** (2) [984445](https://platzi.com/comentario/984445/) 
 
-	
 	Porque se le coloca el # a la ruta del about?
 
-	* **alvaritokore** (8)
+	* **alvaritokore** [984445] (8)
 
-		
 		Se pone para indicar que es una navegación interna. Sin el # lo que haría sería hacer una petición otra vez y volvería a cargar toda la página.  
 		Como estamos haciendo un SPA la navegación entre secciones se efectuará con JS.
 		
 		Saludos.
 
-* **JhonColorado07** (2)
+* **JhonColorado07** (2) [982559](https://platzi.com/comentario/982559/) 
 
-	
 	Continuamos. Gracias por el plugin compartido.
 
-	* **Oscar Barajas Tavares (Platzi)** (2)
+	* **Oscar Barajas Tavares (Platzi)** [982559] (2)
 
-		
 		Para lo que necesite, estamos para apoyarlo.
 
-* **Darwin_Saenz** (1)
+* **Darwin_Saenz** (1) [1116174](https://platzi.com/comentario/1116174/) 
 
-	
 	La creación de los componentes tiene mucha similitud con React.
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112743](https://platzi.com/comentario/1112743/) 
 
-	```
-	    const Character = () => {
+	```    const Character = () => {
 	        const view = `
 	        <div class="Characters-inner">
 	            <articleclass="Character-card">
@@ -1556,10 +1356,9 @@ Depués de ejecutar npm run build, me aparece el siguiente error. nose a que se 
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112742](https://platzi.com/comentario/1112742/) 
 
-	```
-	    const Header = () => {
+	```    const Header = () => {
 	        const view = `
 	        <div class="Hearder-main">
 	            <divclass="Header-logo">
@@ -1583,58 +1382,47 @@ Depués de ejecutar npm run build, me aparece el siguiente error. nose a que se 
 	    
 	```
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1110647](https://platzi.com/comentario/1110647/) 
 
-	
 	todo entendido 😄
 
-* **Nigtdreams** (1)
+* **Nigtdreams** (1) [1109063](https://platzi.com/comentario/1109063/) 
 
-	
 	Tome el curso practico de React js y sinceramente siento que ahi se explica mucho mejor incluso la parte de webpack la entendi mejor que en el propio curso de Webpack.
 
-* **Nigtdreams** (1)
+* **Nigtdreams** (1) [1109020](https://platzi.com/comentario/1109020/) 
 
-	
 	Dicen que habla rapido y yo pongo a 2x la velocidad del video XD.
 
-	* **Fernando Cordero** (2)
+	* **Fernando Cordero** [1109020] (2)
 
-		
 		y yo le tuve que bajar a 0.85x jajaja
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1108940](https://platzi.com/comentario/1108940/) 
 
-	
 	esto de templates en laravel yo los uso como layouts
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1107158](https://platzi.com/comentario/1107158/) 
 
-	
 	  * Crear el template del header
 	  * Crear la pagina de character
-	
-	
 
-* **Karla Agraz** (1)
+* **Karla Agraz** (1) [1106538](https://platzi.com/comentario/1106538/) 
 
-	
 	Grandiosa explicación, el código totalmente legible 😁
 
-* **Diego Alfonso Najera Ortiz** (1)
+* **Diego Alfonso Najera Ortiz** (1) [1102087](https://platzi.com/comentario/1102087/) 
 
-	
 	Muy buenas explicaciones y el código es totalmente claro, aquí se ve la habilidad y la memoria que tienes para escribir las etiquetas sin la ayuda de los editores de código.
 
-* **Añaqui Apolinar Morales** (1)
+* **Añaqui Apolinar Morales** (1) [83509](https://platzi.com/comentario/1028733/) 
 Como se llama el tempalte con las comillas ?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [83509] (1)
 
-		
 		¿Te refieres a los [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) o también conocidos como Template Strings?
 
-## 0070. Crear página de error 404
+## 0070. Crear página de error 404 [25886](https://platzi.com/clases/1787-spa-javascript/25886-crear-pagina-de-error-404/)
 
 ### Descripción:
 
@@ -1645,35 +1433,28 @@ Como se llama el tempalte con las comillas ?
 
 ### Comentarios:
 
-* **Cristian Andrés Córdova Valencia** (3)
+* **Cristian Andrés Córdova Valencia** (3) [1038839](https://platzi.com/comentario/1038839/) 
 
-	
 	Para limpiar la terminal también pueden pulsar las teclas:
 	
 	Ctrl + L
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [1107250](https://platzi.com/comentario/1107250/) 
 
-	
 	  * Crea el componente Error404
 	  * Correr el servidor de webpac con los current changes
-	
-	
 
-* **alvaritokore** (2)
+* **alvaritokore** (2) [985936](https://platzi.com/comentario/985936/) 
 
-	
 	¿Cómo puedo poner el inspector de elementos en chrome en modo oscuro?
 
-	* **Ernesto Briceño** (5)
+	* **Ernesto Briceño** [985936] (5)
 
-		
 		Abres el inspector. Settings / Appearance / Theme / Dark.  
 		Settings lo consigues en los 3 puntitos vertical al final a la derecha
 
-* **ricardo-cuan** (1)
+* **ricardo-cuan** (1) [1114286](https://platzi.com/comentario/1114286/) 
 
-	
 	Tengo un error:  
 	ELIFECYCLE  
 	1  
@@ -1683,40 +1464,34 @@ Como se llama el tempalte con las comillas ?
 	
 	Copie los archivos del profe, reinstale las dependencias npm, usé los archivos del compañero Fernando Vallejo y me sigue dando el mismo error.
 
-* **Fernando Vallejo** (1)
+* **Fernando Vallejo** (1) [1111954](https://platzi.com/comentario/1111954/) 
 
-	
 	Dejo mi repositorio en el cual podrán encontrar una rama por cada clase en adelante.
 	
 	<https://github.com/ivallejo/Cientifico>
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1110665](https://platzi.com/comentario/1110665/) 
 
-	
 	estupendo sigamos 😄
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1108962](https://platzi.com/comentario/1108962/) 
 
-	
 	Todo bien!
 	
 	vamos al siguiente modulo!
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1107287](https://platzi.com/comentario/1107287/) 
 
-	
 	Aqui esta mi resumen de estos dos primeros modulos  
 	es mas que nada codigo pero sirve para reforsar  
 	[notion.so](https://www.notion.so/justjs/Introduccion-webpack-d67f234cb6ad47238e85b2e200769288)
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1107287] (1)
 
-		
 		Excelente! Gracias!
 
-* **33andres33** (1)
+* **33andres33** (1) [1091066](https://platzi.com/comentario/1091066/) 
 
-	
 	client:6 Uncaught Error: Cannot find module 'strip-ansi’  
 	at webpackMissingModule (webpack:///(:8080/webpack)-dev-server/client?:6:81)  
 	at Object.eval (webpack:///(:8080/webpack)-dev-server/client?:6:166)  
@@ -1730,54 +1505,45 @@ Como se llama el tempalte con las comillas ?
 	at main.js:87  
 	me sale este error en consola
 
-	* **33andres33** (2)
+	* **33andres33** [1091066] (2)
 
-		
 		Gracias a este error tome el curso de NPM volví a hacer lo mismo y aun así me estaba saliendo el error, así que descargue todo en la sección de archivos, otra vez instale node_modules probé y ahí si funciono.  
 		Al final encontré el error estaba en webpack.config.js me faltaba colocare un punto a una exención.
-		``` 
-		    resolve: {
+		```     resolve: {
 		            extensions: ['.js'], 
 		        },```
 		    buenograciasaestoserroresentiendesmuchomas 
 		    
 		```
 
-* **Edwin Armando Perez Palma** (1)
+* **Edwin Armando Perez Palma** (1) [1038570](https://platzi.com/comentario/1038570/) 
 
-	
 	3 horas tratando de resolver el error de cannot find module, tuve que modificar el webpack-dev-server.js
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1038570] (1)
 
-		
 		En dónde estaba el error? La respuesta podría servirle a más compañeros 😄
 
-	* **Edwin Armando Perez Palma** (2)
+	* **Edwin Armando Perez Palma** [1038570] (2)
 
-		
 		Al ejecutar el npm run start decia cannot find module webpack/bin/config-yargs
 		
 		En el package.json la direccion era webpack/bin/config-yargs hay que modificarlo a webpack-cli/bin/config/config-yargs
 
-* **Añaqui Apolinar Morales** (1)
+* **Añaqui Apolinar Morales** (1) [1033046](https://platzi.com/comentario/1033046/) 
 
-	
 	Es repetitiva la tarea de crear templates pero me agrado por que se me quedo pegado la forma en que se hace
 
-	* **Wedwin53** (1)
+	* **Wedwin53** [1033046] (1)
 
-		
 		En programacion, la repeticion es vital… exitos!
 
-	* **Chape** (1)
+	* **Chape** [1033046] (1)
 
-		
 		Esto funciona mucho para cuando haces el salto a un framework/librería como React o Vue
 
-* **emanuel-alejandro-mamani** (1)
+* **emanuel-alejandro-mamani** (1) [1002653](https://platzi.com/comentario/1002653/) 
 
-	
 	Hola que tal, como podria cambiar el puerto que viene por default a uno customizable?
 	
 	x localhost:8080  
@@ -1785,18 +1551,16 @@ Como se llama el tempalte con las comillas ?
 	
 	gracias
 
-	* **Luis Alexander Chip** (5)
+	* **Luis Alexander Chip** [1002653] (5)
 
-		
 		Para cambiar el puerto por defecto, en el archivo `package.json` puedes declaras en que puerto lo requieres abrir con el flag `--port 3000`, te dejo el ejemplo de como seria cambiarlo en el proyecto que se esta realizando en este curso.
-		``` 
-		    "start": "webpack-dev-server--open --mode development --port 3000"
+		```     "start": "webpack-dev-server--open --mode development --port 3000"
 		    
 		```
 
-# Router
+# Router [5225]
 
-## 0080. Crear rutas del sitio
+## 0080. Crear rutas del sitio [25887](https://platzi.com/clases/1787-spa-javascript/25887-crear-rutas-del-sitio/)
 
 ### Descripción:
 
@@ -1807,21 +1571,18 @@ Como se llama el tempalte con las comillas ?
 
 ### Comentarios:
 
-* **Emmanuel Rodríguez Ramírez** (5)
+* **Emmanuel Rodríguez Ramírez** (5) [998864](https://platzi.com/comentario/998864/) 
 
-	
 	Les recomiendo instalar el plugin _Relative path_ para buscar rápidamente sus archivos.
 	
 	![Screen Shot 2020-02-21 at 13.51.36.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-02-21%20at%2013.51.36-10556a99-2f39-4525-adbd-81ce2ec17be6.jpg)
 
-	* **Añaqui Apolinar Morales** (1)
+	* **Añaqui Apolinar Morales** [998864] (1)
 
-		
 		Como funciona?
 
-	* **Juan Camilo Rico Orjuela** (2)
+	* **Juan Camilo Rico Orjuela** [998864] (2)
 
-		
 		Este plugin aplica para VSCode.
 		
 		Para usar esta extensión, usas un comando (en Windows: Ctrl + Shift + H) y te abre una barra de búsqueda en donde puedes digitar el nombre del documento que deseas invocar, e inmediatamente te muestra las posibles opciones a seleccionar con su respectiva ruta.
@@ -1830,29 +1591,24 @@ Como se llama el tempalte con las comillas ?
 		
 		![](https://media.giphy.com/media/3oEduJ5iRksPxpwoXC/giphy.gif)
 
-* **JhonColorado07** (4)
+* **JhonColorado07** (4) [982624](https://platzi.com/comentario/982624/) 
 
-	
 	Avanzando super animado con el curso.
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [982624] (1)
 
-		
 		Al final muéstrame tu proyecto terminado!!
 
-	* **JhonColorado07** (1)
+	* **JhonColorado07** [982624] (1)
 
-		
 		Vale, prometido.
 
-* **carlosextra1** (3)
+* **carlosextra1** (3) [1109017](https://platzi.com/comentario/1109017/) 
 
-	
 	si hay que reiniciar el server para que funcione correcto!
 
-* **Cristian Andrés Córdova Valencia** (3)
+* **Cristian Andrés Córdova Valencia** (3) [1038848](https://platzi.com/comentario/1038848/) 
 
-	
 	La palabra reservada **async** sirve para indicarle a nuestro JavaScript que vamos a **definir una función asíncrona**.  
 	Cuando se llama una función **async** , esta devuelve un elemento **Promise**. Cuando la función **async** devuelve un valor. **Promise** se resolverá con el valor devuelto por la función **async**
 	
@@ -1862,34 +1618,28 @@ Como se llama el tempalte con las comillas ?
 	
 	Esta info la he sacado de [MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/funcion_asincrona) 😄
 
-* **Fernando Vallejo** (2)
+* **Fernando Vallejo** (2) [1111952](https://platzi.com/comentario/1111952/) 
 
-	
 	Dejo mi repositorio en el cual podrán encontrar una rama por cada clase en adelante.
 	
 	<https://github.com/ivallejo/Cientifico>
 
-* **juan martinez lopez** (2)
+* **juan martinez lopez** (2) [1065453](https://platzi.com/comentario/1065453/) 
 
-	
 	todo esto se parece mucho a crear componentes en React
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [1065453] (2)
 
-		
 		Es lo que hace React por debajo, vanilla es puro
 
-	* **José Antonio Torres** (2)
+	* **José Antonio Torres** [1065453] (2)
 
-		
 		Asi es. Por eso me gusta el curso
 
-* **Cristian Andrés Córdova Valencia** (2)
+* **Cristian Andrés Córdova Valencia** (2) [1038846](https://platzi.com/comentario/1038846/) 
 
-	
 	Ahora entiendo porque pusimos en el fichero Home.js lo siguiente:
-	``` 
-	    <a href="#/1/">
+	```     <a href="#/1/">
 	    
 	```
 	
@@ -1898,19 +1648,17 @@ Como se llama el tempalte con las comillas ?
 	
 	😄 No lo entendía hasta ahora…
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112916](https://platzi.com/comentario/1112916/) 
 
-	```
-	    import router from'./routes'
+	```    import router from'./routes'
 	    
 	    window.addEventListener('load', router);```
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112915](https://platzi.com/comentario/1112915/) 
 
-	```
-	    import Header from'../templates/Header';
+	```    import Header from'../templates/Header';
 	    import Home from'../pages/Home';
 	    import Character from'../pages/Character';
 	    import Error404 from'../pages/Error404';
@@ -1935,119 +1683,98 @@ Como se llama el tempalte con las comillas ?
 	    
 	```
 
-* **Nigtdreams** (1)
+* **Nigtdreams** (1) [1111859](https://platzi.com/comentario/1111859/) 
 
-	
 	Link del resumen [Notion](https://www.notion.so/SPA-con-JavaScript-Vanilla-c6f2b348f0da4b3fba3c18b705b2001c) , por ahora es un draft, ya lo ire puliendo y sintentizando mas mientras avanzo en el curso pero igual les puede ser de ayuda.
 	
 	Resumen de la clase:  
 	Preparamos las rutas de la app en router/index.html , las exportmaos y las usamos en entry - ‘src/index.html’ (archivo de entrada) de nuestra app, añadimos un sensor (addEventListener) detectando el ‘load’ y renderizando nuestros templates llamando la funcion route que exportamos desde router/index.html
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1110729](https://platzi.com/comentario/1110729/) 
 
-	
 	asi cuando te sale más de un error jajajajajajaja
 
-* **Mario Alexis Silva Escalera** (1)
+* **Mario Alexis Silva Escalera** (1) [1105763](https://platzi.com/comentario/1105763/) 
 
-	
 	Una vez que ejecutamos en comando npm run start.  
 	¿Que comando debo utilizar para poder seguir usando la terminal?
 
-	* **Juan Manuel Palacios Gaviria** (1)
+	* **Juan Manuel Palacios Gaviria** [1105763] (1)
 
-		
 		ctrl+C o commd +c
 
-* **Alejandro Jimenez** (1)
+* **Alejandro Jimenez** (1) [1093865](https://platzi.com/comentario/1093865/) 
 
-	
 	Me voy a hacer bolas con tanto archivo index
 
-* **juan martinez lopez** (1)
+* **juan martinez lopez** (1) [1073382](https://platzi.com/comentario/1073382/) 
 
-	
 	tengo una duda en el archivo index el profe hace un import router from ‘…/routes’; no deberia agregar /index ejemplo :  
 	import router from ‘…/routes/index.js’;
 
-	* **ucic** (1)
+	* **ucic** [1073382] (1)
 
-		
 		Al igual como mencionó que no fue necesario agregar la extensión “.js” al momento de importar en las rutas, por default busca al archivo “index” al momento de importar la carpeta.
 
-	* **juan martinez lopez** (1)
+	* **juan martinez lopez** [1073382] (1)
 
-		
 		a entiendo gracias por la aclaracion
 
-* **Añaqui Apolinar Morales** (1)
+* **Añaqui Apolinar Morales** (1) [1033088](https://platzi.com/comentario/1033088/) 
 
-	
 	Despues de varios errores ya funciona jejeje
 
-* **Byron EQ** (1)
+* **Byron EQ** (1) [1020300](https://platzi.com/comentario/1020300/) 
 
-	
 	Profe Oscar y compañeros de Platzi, despejenme de una duda, de las muchas que tengo sobre JS. Se puede hacer una app que suba archivos PDF, los descargue, administre usuarios y maneje perfiles solo con Vanilla…?? O se debe usar alguna herramienta de JS como REACT JS o Angular…?
 
-	* **Wedwin53** (1)
+	* **Wedwin53** [1020300] (1)
 
-		
 		Si se puede, es un poco rudo pero dependes de un backend, ve el curso de firebase para la web y alli puedes ver un poco mas sobre eso. es mi opinion delegar todas esas tareas al front es rudo.
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [1017977](https://platzi.com/comentario/1017977/) 
 
-	
 	¿Si quiero usar Bootstrap donde tendría que poner los scripts?
 
-	* **mafevito** (2)
+	* **mafevito** [1017977] (2)
 
-		
 		¡Hola @andres-campuzano-garzon!
 		
 		Tendrias que colocarlos en el archivo `index.html` principal
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [1017977] (1)
 
-		
 		Muchas gracias @mafevito
 
-* **Heber Yarod Chanca Melgar** (1)
+* **Heber Yarod Chanca Melgar** (1) [86821](https://platzi.com/comentario/1105177/) 
 ¿Para qué sirve el "null || " la siguiente línea: const header = null || document.getElementById(‘header’)?
 
-	* **dylas** (1)
+	* **dylas** [86821] (1)
 
-		
 		Es para que en caso de que no encuentre ese elemento con el ID header se le asigne null a esa variable
 
-* **Juan Esteban Galvis** (1)
+* **Juan Esteban Galvis** (1) [86712](https://platzi.com/comentario/1101910/) 
 Luego de realizar el cambio del profesor, no me sale ningún error solo ese mensaje de [WDS] Live Reloading enabled. pero tampoco me sale ...
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [86712] (1)
 
-		
 		Comparte el código
 
-## 0090. Conectar las rutas con los templates
+## 0090. Conectar las rutas con los templates [25888](https://platzi.com/clases/1787-spa-javascript/25888-conectar-las-rutas-con-los-templates/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Ernesto Briceño** (18)
+* **Ernesto Briceño** (18) [989417](https://platzi.com/comentario/989417/) 
 
-	
 	  * En el video, min 02:12 tiene un typo. debio escribir slice en vez de slide
 	
 	  * En el min 02:37 otro typo. debio ser toLocaleLowerCase.
 	
-	
-	
-	
 	Asi que tu funcion **correctamente escrita** debe quedar asi:
-	``` 
-	    const getHash = () =>
+	```     const getHash = () =>
 	      location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/';
 	    exportdefault getHash;
 	    
@@ -2061,23 +1788,18 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	  * **.split(’/’)** separa la cadena en un array, y elimina el / quedando un espacio vacio Ej [’’, ‘1’ ,’’]
 	  * **[1]** trae el primer elemento del split anterior que en este caso es 1 (representa la id 1)
 	
-	
-	
 	@gndx
 
-	* **Mateo Aquino** (1)
+	* **Mateo Aquino** [989417] (1)
 
-		
 		Genio
 
-	* **Cristian Andrés Córdova Valencia** (1)
+	* **Cristian Andrés Córdova Valencia** [989417] (1)
 
-		
 		Magnífico, gracias!!
 
-* **33andres33** (5)
+* **33andres33** (5) [1098967](https://platzi.com/comentario/1098967/) 
 
-	
 	una explicacion del HASH.  
 	El hash es el contenido de una url que parte desde el signo de numero(#). Ej:
 	
@@ -2101,9 +1823,8 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	
 	var jash = window.location.hash;
 
-* **Cristian Andrés Córdova Valencia** (4)
+* **Cristian Andrés Córdova Valencia** (4) [1039006](https://platzi.com/comentario/1039006/) 
 
-	
 	Para los que no conocían(como yo) el uso de un **if ternario** les dejo info encontrada en MDN.
 	
 	Sintaxis:  
@@ -2115,17 +1836,14 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	
 	Espero haber ayudado. 😄
 
-* **Juan Carlos Valencia López** (2)
+* **Juan Carlos Valencia López** (2) [1023095](https://platzi.com/comentario/1023095/) 
 
-	
 	algo anda mal, no tengo errores
 
-* **JhonColorado07** (2)
+* **JhonColorado07** (2) [982941](https://platzi.com/comentario/982941/) 
 
-	
 	Ya encontré el error. @oscar tu escribiste **toLocatelLowerCase** y es **toLocaleLowerCase** quedando ahora así:
-	``` 
-	    const getHash = () =>
+	```     const getHash = () =>
 	        location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/';
 	    
 	    exportdefault getHash
@@ -2134,14 +1852,12 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	
 	Esto es para todos los demás compañeros.
 
-* **JhonColorado07** (2)
+* **JhonColorado07** (2) [982720](https://platzi.com/comentario/982720/) 
 
-	
 	Adjunto mi codigo.
 	
 	getHash:
-	``` 
-	    const getHash = () => 
+	```     const getHash = () => 
 	        location.hash.slide(1).toLocateLowerCase().split('/')[1] || '/'
 	    
 	    exportdefault getHash
@@ -2149,8 +1865,7 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	```
 	
 	index del router:
-	``` 
-	    import Header from'../templates/Header'
+	```     import Header from'../templates/Header'
 	    import Home from'../page/Home'
 	    import Character from'../page/Character'
 	    import Error404 from'../page/Error404'
@@ -2179,10 +1894,9 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112982](https://platzi.com/comentario/1112982/) 
 
-	```
-	    const resolvesRoutes = (route) => {
+	```    const resolvesRoutes = (route) => {
 	        // validating the route / or id
 	        if (route.length <= 3) {
 	            let validRoute = route === '/' ? route : '/:id';
@@ -2195,10 +1909,9 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1112976](https://platzi.com/comentario/1112976/) 
 
-	```
-	    // returning one element, not need brackets
+	```    // returning one element, not need brackets
 	    const getHash = () => 
 	    location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/'; // ['', '1', '']
 	    
@@ -2206,17 +1919,14 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	    
 	```
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1110789](https://platzi.com/comentario/1110789/) 
 
-	
 	muy buena la clase 😄 sigamos 😄
 
-* **ArielScc** (1)
+* **ArielScc** (1) [1108104](https://platzi.com/comentario/1108104/) 
 
-	
 	Tuve el mismo resultado con:
-	``` 
-	    const getHash = () => 
+	```     const getHash = () => 
 	    // location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/';
 	      location.hash.slice(2, -1).toLocaleLowerCase() || '/';
 	    
@@ -2224,14 +1934,12 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	    
 	```
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1108104] (1)
 
-		
 		Gracias ya lo agregue!
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [982714](https://platzi.com/comentario/982714/) 
 
-	
 	Se me presenta el siguiente error.
 	
 	**Uncaught (in promise) TypeError: location.hash.slide is not a function  
@@ -2240,44 +1948,37 @@ Luego de realizar el cambio del profesor, no me sale ningún error solo ese mens
 	
 	No he podido avanzar.
 
-	* **degranda (Platzi)** (1)
+	* **degranda (Platzi)** [982714] (1)
 
-		
 		Hola @JhoneColorado07 intenta separar el
-		``` 
-		    exportdefault 
+		```     exportdefault 
 		    
 		```
 		
 		que tienes en ambos .js
 
-	* **degranda (Platzi)** (1)
+	* **degranda (Platzi)** [982714] (1)
 
-		
 		Y utiliza el método
-		``` 
-		    .slice()
+		```     .slice()
 		    
 		```
 		
 		a ver si te funciona.
 
-	* **JhonColorado07** (1)
+	* **JhonColorado07** [982714] (1)
 
-		
 		Hola @degranda gracias por tu respuesta. Ya lo resolví con .slice de igual hice el comentario más adelante
 
-* **Harold Carhuancho** (1)
+* **Harold Carhuancho** (1) [86842](https://platzi.com/comentario/1105579/) 
 En el archivo de getHash.js, intenté por defecto hacer mi arrow function con llaves y al ejecutar npm run start, tenía error de de que no...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [86842] (2)
 
-		
 		Sí. Hay mucha diferencia.
 		
 		En este ejemplo, la _arrow function_ con llaves es equivalente a una función que no retorna ningún valor:
-		``` 
-		    () => { getUserData(id) }
+		```     () => { getUserData(id) }
 		    
 		    function () {
 		      getUserData(id)
@@ -2286,8 +1987,7 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 		```
 		
 		En cambio, si NO usas las llaves estás devolviendo ese valor automáticamente:
-		``` 
-		    () => getUserData(id); // { name: 'harold', uesrname: 'haroldavis', ... }
+		```     () => getUserData(id); // { name: 'harold', uesrname: 'haroldavis', ... }
 		    
 		    function () {
 		      return getUserData(id);  // { name: 'harold', uesrname: 'haroldavis', ... }
@@ -2296,8 +1996,7 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 		```
 		
 		Con las llaves también lo puedes hacer, pero debes escribir el return:
-		``` 
-		    () => { return getUserData(id) } // { name: 'harold', uesrname: 'haroldavis', ... }
+		```     () => { return getUserData(id) } // { name: 'harold', uesrname: 'haroldavis', ... }
 		    
 		    function () {
 		      return getUserData(id);  // { name: 'harold', uesrname: 'haroldavis', ... }
@@ -2305,16 +2004,15 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 		    
 		```
 
-## 0100. Implementar y probar las conexiones
+## 0100. Implementar y probar las conexiones [25889](https://platzi.com/clases/1787-spa-javascript/25889-implementar-y-probar-las-conexiones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **LEONARDO RAMOS ARIRAMA** (3)
+* **LEONARDO RAMOS ARIRAMA** (3) [1100389](https://platzi.com/comentario/1100389/) 
 
-	
 	En la carpeta de Utils/getHash.js  
 	deben de corregir el código corregido:
 	
@@ -2324,22 +2022,19 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	
 	espero que les sirva.
 
-	* **Fernando Hernandez** (1)
+	* **Fernando Hernandez** [1100389] (1)
 
-		
 		Acabas de ganar el Like mas merecido del internet… Gracias…  
 		Mi funcion quedo asi
-		``` 
-		    const getHash = () =>
+		```     const getHash = () =>
 		      location.hash.slice(1).toLocaleLowerCase().split('/')[1] || '/';
 		    
 		    export default getHash;```
 		    
 		```
 
-* **Jhonatan David Ibarra Lavado** (2)
+* **Jhonatan David Ibarra Lavado** (2) [1110921](https://platzi.com/comentario/1110921/) 
 
-	
 	tengo el siguiente error en consola 😕
 	
 	Uncaught (in promise) TypeError: location.hash.slide is not a function  
@@ -2347,8 +2042,7 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	at router (index.js:24)
 	
 	este e sel codigo de getHash.js
-	``` 
-	    const getHash = ( ) =>
+	```     const getHash = ( ) =>
 	        location.hash.slide(1).toLocaleLowerCase().split('/')[1] || '/'
 	    
 	        exportdefault getHash
@@ -2356,8 +2050,7 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	```
 	
 	y este re routes
-	``` 
-	    import Header from'../template/Header'
+	```     import Header from'../template/Header'
 	    import Home from'../pages/Home'
 	    import Characters from'../pages/Characters'
 	    import Error404 from'../pages/Error404'
@@ -2391,17 +2084,14 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-	* **Jhonatan David Ibarra Lavado** (1)
+	* **Jhonatan David Ibarra Lavado** [1110921] (1)
 
-		
 		ya lo solucione no des slide sino slice :V
 
-* **Mario E Fernandez  Serrano** (2)
+* **Mario E Fernandez  Serrano** (2) [1104232](https://platzi.com/comentario/1104232/) 
 
-	
 	Tiene que pasarle route a const resolveRoutes para que se muestre en el DOM.
-	``` 
-	    const resolveRoutes = (route) => {
+	```     const resolveRoutes = (route) => {
 	      if (route.length <= 3) {
 	        let validRoute = route === '/' ? route : '/:id';
 	        return validRoute;
@@ -2416,19 +2106,16 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	
 	![](https://static.platzi.com/media/user_upload/Screenshot%202020-04-06%2022.00.08-87f63c64-faf2-4f36-90c5-fc7dbdb0115c.jpg)
 
-* **juan martinez lopez** (2)
+* **juan martinez lopez** (2) [1065954](https://platzi.com/comentario/1065954/) 
 
-	
 	Revise el código y al parecer todo se ve bien no me muestra errores pero igual no me sale Name ni nada de la lista que se le muestra al profe cuando presiona el Name
 	
 	![100tifico - Google Chrome 25_03_2020 09_39_28 p. m..png](https://static.platzi.com/media/user_upload/100tifico%20-%20Google%20Chrome%2025_03_2020%2009_39_28%20p.%20m.-48537828-b679-4e83-b4c7-6adf7fa4973a.jpg)
 
-	* **Añaqui Apolinar Morales** (1)
+	* **Añaqui Apolinar Morales** [1065954] (1)
 
-		
 		No se que onda pero volvi a escribir o mas bien copiar y pegar el index html y corrio, revisa los valores que devuelves en cada vista de page y template, dejo el codigo de la vista de index.html
-		``` 
-		    <!DOCTYPE html>
+		```     <!DOCTYPE html>
 		    <htmllang="en">
 		    
 		    <head>
@@ -2452,24 +2139,20 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 		    
 		```
 
-	* **Fernando Cordero** (1)
+	* **Fernando Cordero** [1065954] (1)
 
-		
 		esto es algo muy loco, rebice el index.html para no hacer lo que hizo @Añaqui de reescribirlo, y no encontre ningun error…copy y pegue el html que dejo el en el post y boila!!! Que locura!!
 
-* **juan martinez lopez** (2)
+* **juan martinez lopez** (2) [1065873](https://platzi.com/comentario/1065873/) 
 
-	
 	alguien me podria ayudar con este error y por que no me sale name
 	
 	![100tifico - Google Chrome 25_03_2020 09_14_55 p. m..png](https://static.platzi.com/media/user_upload/100tifico%20-%20Google%20Chrome%2025_03_2020%2009_14_55%20p.%20m.-0939ea09-5b52-4043-b90b-befb7afee7bb.jpg)
 
-	* **Añaqui Apolinar Morales** (2)
+	* **Añaqui Apolinar Morales** [1065873] (2)
 
-		
 		Tuve el mismo problema y solo reescribi el index.html
-		``` 
-		    <!DOCTYPE html>
+		```     <!DOCTYPE html>
 		    <htmllang="en">
 		    
 		    <head>
@@ -2493,65 +2176,54 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 		    
 		```
 
-	* **juan martinez lopez** (1)
+	* **juan martinez lopez** [1065873] (1)
 
-		
 		borraste el index y lo volviste a escribir? lo intentare gracias por la la ayuda
 
-	* **Rocio Calderon Hernandez** (2)
+	* **Rocio Calderon Hernandez** [1065873] (2)
 
-		
 		Yo he tenido el mismo error y donde me habia equivocado es que puse : toLocateLowerCase … en vez de toLocaleLowerCase…
 		
 		Mira a ver si eso lo tienes bien… puede ser cualquier letra. SI le das a inspeccionar en la pagina, te puede ayudar mirar en “errores” , para saber en que archivo esta el error.
 
-	* **juan martinez lopez** (1)
+	* **juan martinez lopez** [1065873] (1)
 
-		
 		si yo vi esos errores en el video y lo puse correcto pero aun me sigue fallando
 
-* **Javier Alejandro Quiñones Ibarra** (1)
+* **Javier Alejandro Quiñones Ibarra** (1) [1116555](https://platzi.com/comentario/1116555/) 
 
-	
 	El error donde no muestra **name** al cargar la página lo solucione cambiando:  
 	Esto:  
 	location.hash.slice(1). **toLocate** LowerCase().split(’/’)[1] || ‘/’;  
 	Por esto:  
 	location.hash.slice(1). **toLocale** LowerCase().split(’/’)[1] || ‘/’;
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113123](https://platzi.com/comentario/1113123/) 
 
-	
 	Definitivamente, era un error en el index.html, que era? nunca lo supe, solo volvi a hacerlo !!
 
-* **Fernando Vallejo** (1)
+* **Fernando Vallejo** (1) [1112666](https://platzi.com/comentario/1112666/) 
 
-	
 	Dejo mi repositorio en el cual podrán encontrar una rama de cada clase.
 	
 	<https://github.com/ivallejo/Cientifico>
 
-* **Ellyfit** (1)
+* **Ellyfit** (1) [1104506](https://platzi.com/comentario/1104506/) 
 
-	
 	A mi se sale ERROR 404!
 
-	* **lmgaero** (1)
+	* **lmgaero** [1104506] (1)
 
-		
 		Intenta cerrar la página que tienes en tu navegador, cancela el comando de la terminal donde está corriendo tu aplicación y vuelve a darle `npm run start` de esa forma me funcionó.
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1104506] (1)
 
-		
 		Valida que estes retornando las variables y valida que esté exportando el modulo!
 
-* **Diego Alfonso Najera Ortiz** (1)
+* **Diego Alfonso Najera Ortiz** (1) [1102795](https://platzi.com/comentario/1102795/) 
 
-	
 	A mi no me funcionaba por que no puse el parametro **_route_** en _**resolveRoutes**_
-	``` 
-	    const resolveRoutes = (route) => {
+	```     const resolveRoutes = (route) => {
 	    
 	        if (route.length <= 3) {
 	            let validRoute = route === '/' ? route : '/:id'
@@ -2564,29 +2236,25 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1101629](https://platzi.com/comentario/1101629/) 
 
-	
 	En realidad re-escribir el **`index.html`** sí funciona para solucionar el error de que no aparezca **Name**
 
-* **Frank Carmona** (1)
+* **Frank Carmona** (1) [1040912](https://platzi.com/comentario/1040912/) 
 
-	
 	excelentee
 
-* **Byron EQ** (1)
+* **Byron EQ** (1) [1022444](https://platzi.com/comentario/1022444/) 
 
-	
 	Vamos bien hasta el momento 😃 Todo se ejecuta Ok.
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [982950](https://platzi.com/comentario/982950/) 
 
-	
 	Continuamos,
 
-# Fetch Data
+# Fetch Data [5226]
 
-## 0110. Obtener personajes con la función de llamado a la API
+## 0110. Obtener personajes con la función de llamado a la API [25890](https://platzi.com/clases/1787-spa-javascript/25890-obtener-personajes-con-la-funcion-de-llamado-a-la-/)
 
 ### Descripción:
 
@@ -2597,53 +2265,43 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 
 ### Comentarios:
 
-* **Cristian Andrés Córdova Valencia** (6)
+* **Cristian Andrés Córdova Valencia** (6) [1039047](https://platzi.com/comentario/1039047/) 
 
-	
 	La URL utilizada:  
 	<https://rickandmortyapi.com/api/character/>
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1039047] (1)
 
-		
 		Gracias!
 
-* **Adrian Garcia Saaib** (3)
+* **Adrian Garcia Saaib** (3) [1110068](https://platzi.com/comentario/1110068/) 
 
-	
 	  * Algo que no me quedaba claro era como obtenia los datos de la url para hacer la peticion, y la respuesta es, que en esta clase no lo hace, hace la peticion en general de los personajes. Si escribes la direccion de la api en tu navegador veras como te regresa el json de esos 20 personajes. En esta clase no nos metemos con los datos que el navegador o la url nos provee, solo hacemos una peticion desde home al api/characters y lo acomodamos mediante el componente de home.
 	  * Creo que me sirve filosofar de que estamos haciendo en cada clase
-	
-	
 
-	* **Nigtdreams** (1)
+	* **Nigtdreams** [1110068] (1)
 
-		
 		Creo que ya se porque prefieren muchos las librerias como React Angular y Vue - Hacer todo esto a mano te rompe un poco la cabeza al inicio
 
-* **Diego Alfonso Najera Ortiz** (3)
+* **Diego Alfonso Najera Ortiz** (3) [1102964](https://platzi.com/comentario/1102964/) 
 
-	
 	para los que tenian duda de por que utiliza el .join(´´) aqui les va el por que.  
 	Si no lo ponen se va a imprimir en la pantalla la comma que separa cada elemento  
 	![Capture.PNG](https://static.platzi.com/media/user_upload/Capture-28850089-1ead-44ec-bc1e-161e32a90c47.jpg)
 
-* **JhonColorado07** (3)
+* **JhonColorado07** (3) [982959](https://platzi.com/comentario/982959/) 
 
-	
 	Wauuu de una sin error.
 
-* **Diego Alfonso Najera Ortiz** (2)
+* **Diego Alfonso Najera Ortiz** (2) [1102975](https://platzi.com/comentario/1102975/) 
 
-	
 	Me encantó la forma de iterarlo, yo todo noob hubiera hecho un for jajaja
 
-* **JCMH** (2)
+* **JCMH** (2) [83665](https://platzi.com/comentario/1031797/) 
 ¿alguien me puede explicar un poquito más a detalle la parte de join(’’)?.. , no me quedo claro, lo quite en el código y no pude ver una ...
 
-	* **Fernando Alejandro Yerena Ramos** (3)
+	* **Fernando Alejandro Yerena Ramos** [83665] (3)
 
-		
 		Ahora bien, en el caso del proyecto que estamos desarrollando esto es lo que pasa cuando no enviamos parámetros o eliminamos el `join()` del código.
 		
 		**En el HTML** :  
@@ -2660,15 +2318,13 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 		**Al renderizar** :  
 		![](https://i.imgur.com/3JEGYxD.png)
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114001](https://platzi.com/comentario/1114001/) 
 
-	
 	perfecto 😄 listo 😄
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113594](https://platzi.com/comentario/1113594/) 
 
-	```
-	    const API = 'https://rickandmortyapi.com/api/character/';
+	```    const API = 'https://rickandmortyapi.com/api/character/';
 	    
 	    const getData = async (id) => {
 	        const apiUrl = id ? `${API}${id}` : API;
@@ -2685,10 +2341,9 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113593](https://platzi.com/comentario/1113593/) 
 
-	```
-	    import getData from'../utils/getData';
+	```    import getData from'../utils/getData';
 	    
 	    const Home = async() => {
 	        const characters = await getData();
@@ -2711,10 +2366,9 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113146](https://platzi.com/comentario/1113146/) 
 
-	```
-	    <!DOCTYPE html>
+	```    <!DOCTYPE html>
 	    <htmllang="en">
 	    
 	    <head>
@@ -2738,10 +2392,9 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113140](https://platzi.com/comentario/1113140/) 
 
-	```
-	    import router from'./routes';
+	```    import router from'./routes';
 	    
 	    window.addEventListener('load', router);
 	    // changed in hash
@@ -2749,10 +2402,9 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113138](https://platzi.com/comentario/1113138/) 
 
-	```
-	    import Header from'../templates/Header';
+	```    import Header from'../templates/Header';
 	    import Home from'../pages/Home';
 	    import Character from'../pages/Character';
 	    import Error404 from'../pages/Error404';
@@ -2786,13 +2438,11 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	    
 	```
 
-* **Fabián Antonio Salgado Sepúlveda** (1)
+* **Fabián Antonio Salgado Sepúlveda** (1) [1112873](https://platzi.com/comentario/1112873/) 
 
-	
 	A quien le pasará lo mismo, me retornaba [Object Promise].  
 	Así que lo solucioné con:
-	``` 
-	    render().then(render => {
+	```     render().then(render => {
 	        content.innerHTML=render
 	      })
 	    
@@ -2800,52 +2450,46 @@ En el archivo de getHash.js, intenté por defecto hacer mi arrow function con ll
 	
 	Espero a alguien le sirva
 
-* **Fernando Vallejo** (1)
+* **Fernando Vallejo** (1) [1112783](https://platzi.com/comentario/1112783/) 
 
-	
 	Dejo mi repositorio en el cual podrán encontrar una rama de cada clase.
 	
 	<https://github.com/ivallejo/Cientifico>
 	
 	<https://github.com/ivallejo/Cientifico/tree/personajes>
 
-* **ArielScc** (1)
+* **ArielScc** (1) [86931](https://platzi.com/comentario/1108702/) 
 Hola, Veo que solo se muestran los primeros 20 personajes. (Pero son más) ¿Cómo tendria que hacer para listar los demas?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [86931] (1)
 
-		
 		Para eso debes entrar a la documentación de la API de Rick and Morty: <https://rickandmortyapi.com/documentation/#get-all-characters>.
 		
 		Por defecto, la API te permite encontrar a todos los personajes desde <https://rickandmortyapi.com/api/character> y usando paginación. Pero también puedes definir todos los IDs que quieres conseguir: <https://rickandmortyapi.com/api/character/1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25>.
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [83693](https://platzi.com/comentario/1032419/) 
 DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/sockjs.js.map que quiere decir esto?
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [83693] (2)
 
-		
 		Esto es error de configuración, no se están generando los archivos .map de forma correcta. Puedes revisar este [plugin](https://webpack.js.org/plugins/source-map-dev-tool-plugin/) de webpack.
 
-## 0120. Conectar la función con la descripción de personajes
+## 0120. Conectar la función con la descripción de personajes [25891](https://platzi.com/clases/1787-spa-javascript/25891-conectar-la-funcion-con-la-descripcion-de-personaj/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Emanuel Valero** (13)
+* **Emanuel Valero** (13) [987148](https://platzi.com/comentario/987148/) 
 
-	
 	Estos cursos cortitos y prácticos son fantásticos! Permiten poner en práctica todo lo que se aprende en cursos teóricos más largos.
 
-* **Filiberto Santillán** (8)
+* **Filiberto Santillán** (8) [1047111](https://platzi.com/comentario/1047111/) 
 
-	
 	Aquí se podrían desestructurar los datos que tenemos en el HTML y tener un código (en mi opinión) más lindo y se que se entiende más.  
 	.
-	``` 
-	    export const Character = async () => {
+	```     export const Character = async () => {
 	    
 	      const id = getHash();
 	      const character = await getData(id);
@@ -2873,62 +2517,50 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	    
 	```
 	
-	  * 
-	
-	
-	![Destructuring.png](https://static.platzi.com/media/user_upload/Destructuring-2634d9b1-45d8-414b-8cdc-4992233ce8b6.jpg)  
+	  * ![Destructuring.png](https://static.platzi.com/media/user_upload/Destructuring-2634d9b1-45d8-414b-8cdc-4992233ce8b6.jpg)  
 	.  
 	Más info: <https://github.com/FiliSantillan/Bits#bits>
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1047111] (1)
 
-		
 		Interesante  
 		La verdad si se ve más organizado  
 		Usar character o quitar el span no daña algo después?
 
-	* **Filiberto Santillán** (1)
+	* **Filiberto Santillán** [1047111] (1)
 
-		
 		@juanjoseva creo que no entendí muy bien tu pregunta ¿A que te refieres exactamente? 🧐
 
-	* **Nigtdreams** (1)
+	* **Nigtdreams** [1047111] (1)
 
-		
 		Hermoso
 
-	* **Nigtdreams** (2)
+	* **Nigtdreams** [1047111] (2)
 
-		
 		@juanjosevega , esta sacando las propiedades por separado. Desestructuar se usa para acceder directamente a las propiedades que te interesan sin tener que recorrer toda la ruta en cada parte del codigo don de la vas a usar. Para que se lean mejor el codigo
 
-* **Diego Alfonso Najera Ortiz** (7)
+* **Diego Alfonso Najera Ortiz** (7) [1103318](https://platzi.com/comentario/1103318/) 
 
-	
 	Si no les llegara a funcionar que les aparezca la info del personaje verifiquen que la URL de la API tenga el / al final
-	``` 
-	    const API = 'https://rickandmortyapi.com/api/character/
+	```     const API = 'https://rickandmortyapi.com/api/character/
 	    '```
 	    
 	```
 
-* **JhonColorado07** (3)
+* **JhonColorado07** (3) [982967](https://platzi.com/comentario/982967/) 
 
-	
 	Se continúa con el curso.
 
-* **Fernando Vallejo** (2)
+* **Fernando Vallejo** (2) [1112835](https://platzi.com/comentario/1112835/) 
 
-	
 	Dejo mi repositorio en el cual podrán encontrar una rama de cada clase.
 	
 	<https://github.com/ivallejo/Cientifico>
 	
 	<https://github.com/ivallejo/Cientifico/tree/descripcionpersonaje>
 
-* **Javier Alejandro Quiñones Ibarra** (1)
+* **Javier Alejandro Quiñones Ibarra** (1) [1117092](https://platzi.com/comentario/1117092/) 
 
-	
 	Me pueden apoyar con este error, me muestra el listado de personajes, pero al dar clic en uno especifico no muestra los detalles. Al inspeccionar el elemento me muestra estos errores la consola:
 	
 	TypeError: character is undefined (main.js line 469 > eval:13:25)
@@ -2936,8 +2568,7 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	Fetch Error SyntaxError: “JSON.parse: unexpected character at line 1 column 1 of the JSON data” (getData.js:12:13)
 	
 	**Mi archivo getData.js**
-	``` 
-	    const API = 'https://rickandmortyapi.com/api/character/';
+	```     const API = 'https://rickandmortyapi.com/api/character/';
 	    
 	    const getData = async (id) => {
 	        const apiURL = id ? '${API}${id}' : API;
@@ -2956,8 +2587,7 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	
 	**  
 	Mi archivo Characters.js**
-	``` 
-	    import getHash from '../utils/getHash';
+	```     import getHash from '../utils/getHash';
 	    import getData from '../utils/getData';
 	    
 	    const Character = async () => {
@@ -2987,20 +2617,17 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	    
 	```
 
-	* **estefaniajmedina** (1)
+	* **estefaniajmedina** [1117092] (1)
 
-		
 		Hola utiliza la comilla ``, cuando estas haciendo la función ternaria, const apiUrl = id ? `${API}${id}` : API;
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114127](https://platzi.com/comentario/1114127/) 
 
-	
 	tuve errores pero bueno se soluciono y sirvió 😄
 
-* **Fernando Cordero** (1)
+* **Fernando Cordero** (1) [1113599](https://platzi.com/comentario/1113599/) 
 
-	```
-	    import getHash from '../utils/getHash';
+	```    import getHash from '../utils/getHash';
 	    import getData from '../utils/getData';
 	    
 	    const Character = async () => {
@@ -3030,20 +2657,18 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1113170](https://platzi.com/comentario/1113170/) 
 
-	
 	cuando estamos en los detalles del personaje y damos clic a link de [100tifi.co](http://100tifi.co) si se hace refresh. Esto es normal verdad!  
 	porque oscar dijo que no tiene refresca. Me imagino que no tiene que refrescar para cargar los detalles !
 
-* **John Botero** (1)
+* **John Botero** (1) [1112706](https://platzi.com/comentario/1112706/) 
 
-	
 	Solo me linkea el primer personaje, los demás renderiza el nombre y la foto pero no me da acceso a los detalles.
 
-# Deploy
+# Deploy [5227]
 
-## 0130. Configurar CSS para administrar elementos visuales
+## 0130. Configurar CSS para administrar elementos visuales [25892](https://platzi.com/clases/1787-spa-javascript/25892-configurar-css-para-administrar-elementos-visuales/)
 
 ### Descripción:
 
@@ -3056,21 +2681,18 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 
 ### Comentarios:
 
-* **Santiago Andres Duque Moreno** (3)
+* **Santiago Andres Duque Moreno** (3) [1106861](https://platzi.com/comentario/1106861/) 
 
-	
 	Así quedo  
 	![captura.png](https://static.platzi.com/media/user_upload/captura-407aa6f8-99ef-4127-9ac2-304538529f1e.jpg)
 	
 	y en móvil  
 	![movil.png](https://static.platzi.com/media/user_upload/movil-f6f4ca82-8581-4421-b419-eec500c54d64.jpg)
 
-* **Diego Alfonso Najera Ortiz** (3)
+* **Diego Alfonso Najera Ortiz** (3) [1103473](https://platzi.com/comentario/1103473/) 
 
-	
 	Algunos ajutes al responsive!
-	``` 
-	    @media (max-width: 780px) {
+	```     @media (max-width: 780px) {
 	    	.characters {
 	    		grid-template-columns: repeat(2, 1fr);
 	    	}
@@ -3092,18 +2714,15 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	
 	![Capture.PNG](https://static.platzi.com/media/user_upload/Capture-6ea8fb20-7369-460d-99df-19e8580aea59.jpg)
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [1103473] (2)
 
-		
 		Estaba intentando probarlos y no me funcionan 😦  
 		En que etiqueta respectiva funcionan?
 
-	* **Diego Alfonso Najera Ortiz** (1)
+	* **Diego Alfonso Najera Ortiz** [1103473] (1)
 
-		
 		Yo todas mis clases las tengo en minusculas, en el curso, las clases, la primer letra la pusieron con mayuscula, prueba poniendo
-		``` 
-		    @media (max-width: 780px) {
+		```     @media (max-width: 780px) {
 		    	.Characters {
 		    		grid-template-columns: repeat(2, 1fr);
 		    	}
@@ -3123,38 +2742,31 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 		    
 		```
 
-	* **Juan José Vega Quintero** (2)
+	* **Juan José Vega Quintero** [1103473] (2)
 
-		
 		Listo, muchas gracias
 
-* **carlosextra1** (2)
+* **carlosextra1** (2) [1113185](https://platzi.com/comentario/1113185/) 
 
-	
 	copy-webpack-plugin
-	``` 
-	    npm i copy-webpack-plugin --save-dev 
+	```     npm i copy-webpack-plugin --save-dev 
 	    
 	```
 
-* **Juan Esteban Galvis** (2)
+* **Juan Esteban Galvis** (2) [1102312](https://platzi.com/comentario/1102312/) 
 
-	
 	Mi reto para aprender bien todo será hacer algo similar pero con la API de pokemon, haber si entendí bien, manejar otra API distinta y agregarle estilos distintos.
 
-	* **Enrique Devars (Platzi)** (3)
+	* **Enrique Devars (Platzi)** [1102312] (3)
 
-		
 		¡Excelente Juan! Por favor al final compartenos tu trabajo usando la API de Pokemon 🎉
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114212](https://platzi.com/comentario/1114212/) 
 
-	
 	genial
 
-* **Jose Oliva Rivera** (1)
+* **Jose Oliva Rivera** (1) [1025136](https://platzi.com/comentario/1025136/) 
 
-	
 	 **Versión Movil:**  
 	Ajustado con @media(max-widht: 600px)  
 	![](https://pbs.twimg.com/media/ESmefIVX0AIbyFC?format=png&name=small)
@@ -3162,23 +2774,20 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	**Version Escritorio:**  
 	![](https://pbs.twimg.com/media/ESmefHSWkAESoW_?format=jpg&name=large)
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [1023178](https://platzi.com/comentario/1023178/) 
 
-	
 	**Así me quedó**  
 	![fotito](https://scontent.flim15-1.fna.fbcdn.net/v/t1.15752-9/89356310_180734866707122_3129411200199163904_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_eui2=AeGQnIh7wp-8iLIkJDBbe-4UZKqZ04x5KpIkMrJv-YMnxf8W55Pgu6rg2QhgWduUzhQ_RSAXD5w7O6Cezk6FuLpP9VxEwHgXqBTLHOseUc3rWQ&_nc_ohc=3GMzdO4-06AAX__-DMC&_nc_ht=scontent.flim15-1.fna&oh=f5f5b674dbcb865c1ee59ea5cd898b54&oe=5E95B0C0)
 
-* **luis-mendoza877** (1)
+* **luis-mendoza877** (1) [988715](https://platzi.com/comentario/988715/) 
 
-	
 	puedes usar el flag -D en npm para guardar como dependenciad e desarrollo “npm install copy-webpak-plugin -D”
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [982977](https://platzi.com/comentario/982977/) 
 
-	
 	Ok ya meta casi está cumplida. Mejoraré el css.
 
-## 0140. Github Pages
+## 0140. Github Pages [25893](https://platzi.com/clases/1787-spa-javascript/25893-github-pages/)
 
 ### Descripción:
 
@@ -3195,126 +2804,104 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 
 ### Comentarios:
 
-* **AryRosvall** (5)
+* **AryRosvall** (5) [1013729](https://platzi.com/comentario/1013729/) 
 
-	
 	quedó un typo en el archivo .travis.yml en target-brach debería ser target-branch.
 
-* **Juan Esteban Galvis** (4)
+* **Juan Esteban Galvis** (4) [1102378](https://platzi.com/comentario/1102378/) 
 
-	
 	Ya hay curso de travis CI: <https://platzi.com/cursos/travis/>
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1102378] (1)
 
-		
 		Gracias!
 
-* **David Flores** (4)
+* **David Flores** (4) [1001436](https://platzi.com/comentario/1001436/) 
 
-	
 	El plugin para los iconos se llama [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-	* **Damián Vigo** (1)
+	* **Damián Vigo** [1001436] (1)
 
-		
 		Excelente, gracias!
 
-* **Adrian Garcia Saaib** (3)
+* **Adrian Garcia Saaib** (3) [1110302](https://platzi.com/comentario/1110302/) 
 
-	
 	Travis se puede usar para proyectos escalables o de frameworks para proyectos grandes? y habra alguna alternativa gratis?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [1110302] (3)
 
-		
 		Si, Travis está construido para ser altamente escalable y también tienen un plan gratuito si tienes un proyecto Open Source. De todas maneras si quieres una alternativa puedes checar GitLab, del cual tenemos un curso: [Curso de DevOps con GitLab](https://platzi.com/clases/gitlab/) aunque ya sería hacer una solución custom 😛
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1110302] (1)
 
-		
 		Gracias por la pregunta y la respuesta @Gabriel De Andrade me ayudo bastante!
 
-* **Alejandro Daniel Oroncoy Almeyda** (2)
+* **Alejandro Daniel Oroncoy Almeyda** (2) [1110023](https://platzi.com/comentario/1110023/) 
 
-	
 	Me gusto mucho travis, justo hice el curso respectivo! Lo recomiendo mucho!
 
-* **Luis Manuel Brito Romero** (2)
+* **Luis Manuel Brito Romero** (2) [996793](https://platzi.com/comentario/996793/) 
 
-	
 	Mi profesor favorito…
 	
 	Necesitaba los plugins jajajaja
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114802](https://platzi.com/comentario/1114802/) 
 
-	
 	A MI NUNCA ME SALIO EL ICONO DE TRAVIS:V
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114300](https://platzi.com/comentario/1114300/) 
 
-	
 	estupendo 😄
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [983007](https://platzi.com/comentario/983007/) 
 
-	
 	Wauu no sabía de esto. Interesante la clase con travis.
 
-## 0150. Crear el script para enviar a producción
+## 0150. Crear el script para enviar a producción [25894](https://platzi.com/clases/1787-spa-javascript/25894-crear-el-script-para-enviar-a-produccion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jose Oliva Rivera** (6)
+* **Jose Oliva Rivera** (6) [1025314](https://platzi.com/comentario/1025314/) 
 
-	
 	 **Acá el mio:**  
 	[Rick and Morty](https://joseoliva762.github.io/Cientifico-SPA/)
 
-	* **Cristian Andrés Córdova Valencia** (2)
+	* **Cristian Andrés Córdova Valencia** [1025314] (2)
 
-		
 		Se ve fantástico. 😄  
 		Felicitaciones.
 
-	* **Jose Oliva Rivera** (1)
+	* **Jose Oliva Rivera** [1025314] (1)
 
-		
 		Muchas gracias!!
 
-	* **Karla Agraz** (2)
+	* **Karla Agraz** [1025314] (2)
 
-		
 		Te quedó muy bonito el proyecto 😄
 
-	* **Jose Oliva Rivera** (1)
+	* **Jose Oliva Rivera** [1025314] (1)
 
-		
 		Muchas gracias Karla 😄
 
-* **Ernesto Briceño** (2)
+* **Ernesto Briceño** (2) [999812](https://platzi.com/comentario/999812/) 
 
-	
 	cientifico = 100 -tifi - co  
 	[100tifi.co](http://100tifi.co)
 	
 	jajajaj, recien al final del curso caigo en cuenta de eso
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [999812] (1)
 
-		
 		crack
 
-* **JhonColorado07** (2)
+* **JhonColorado07** (2) [983024](https://platzi.com/comentario/983024/) 
 
-	
 	Les comparto el código de .travis.yml para que les genere tanto error como me los generó a mí al realizar los pasos de este video.
-	``` 
-	    language: node_js
+	```     language: node_js
 	    cache:
 	      directories:
 	        - ~/.npm
@@ -3338,9 +2925,8 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	    
 	```
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114929](https://platzi.com/comentario/1114929/) 
 
-	
 	A MI SALIO EL SIGUIENTE ERROR 😭
 	
 	Worker information  
@@ -3352,17 +2938,14 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	
 	<https://github.com/jhondil/proyecto_spa>
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114803](https://platzi.com/comentario/1114803/) 
 
-	
 	CASI NO PUEDO SUBIR EL PROYECTO CARAMBA :V
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1113382](https://platzi.com/comentario/1113382/) 
 
-	
 	Ahora tengo el siguiente error en la consola de travis
-	``` 
-	    Entrypoint main = main.js
+	```     Entrypoint main = main.js
 	    [0] ./src/index.js + 7 modules 3 KiB {0} [built]
 	        | ./src/index.js 124 bytes [built]
 	        | ./src/routes/index.js 707 bytes [built]
@@ -3389,89 +2972,74 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	    
 	```
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1113318](https://platzi.com/comentario/1113318/) 
 
-	
 	Me arroja el siguiente error en travis cuando ejecuto el **trigger custom build**
 	
 	Alguien sabe que puede estar pasando?
-	``` 
-	    Oh no! You tried to trigger a build for aplysoft/spa_js_vanilla but the request was rejected.
+	```     Oh no! You tried to trigger a build for aplysoft/spa_js_vanilla but the request was rejected.
 	    
 	```
 	
 	<https://github.com/aplysoft/spa_js_vanilla>
 
-	* **Jhonatan David Ibarra Lavado** (3)
+	* **Jhonatan David Ibarra Lavado** [1113318] (3)
 
-		
 		amigo tienes verificar muy bien la esctritura del archivo .travis.yml, me salia ese errro y lo solucione mirando bien
 
-	* **carlosextra1** (1)
+	* **carlosextra1** [1113318] (1)
 
-		
 		@jhonatan_ibarra Gracias, si lo solucione!
 
-* **mauroquinteros** (1)
+* **mauroquinteros** (1) [1107699](https://platzi.com/comentario/1107699/) 
 
-	
 	Alguien sabe porque la ruta sale así **<https://mauroquinteros.github.io/spa-vanillajs/#/2/>**  
 	a mí me gustaría configurar la ruta para que salga de este manera **<https://mauroquinteros.github.io/spa-vanillajs/2>** que se me hace más sencillo para el usuario.  
 	Espero que alguien me ayude soy nuevo en esto
 
-	* **Rocio Calderon Hernandez** (1)
+	* **Rocio Calderon Hernandez** [1107699] (1)
 
-		
 		Pero diras de la direccion esta:  
 		<https://mauroquinteros.github.io/spa-vanillajs/2>  
 		Sin el 2 del final no? ¿ no se lo puedes quitar?
 
-* **Jose Luis Campos Bautista** (1)
+* **Jose Luis Campos Bautista** (1) [1071925](https://platzi.com/comentario/1071925/) 
 
-	
 	Hola, les comparto el resultado [SPA](https://bautistaj.github.io/web-components-spa/) utilizando Web Components.  
 	![detail.png](https://static.platzi.com/media/user_upload/detail-cbc66e00-3f7c-4801-b457-5b09f7e62394.jpg)
 
-	* **Alexei Alvarez** (1)
+	* **Alexei Alvarez** [1071925] (1)
 
-		
 		¿A qué te refieres con web components?, es un termino que ya eh escuchado, pero en react, etc (no se nada de react). Saludos
 
-	* **Jose Luis Campos Bautista** (1)
+	* **Jose Luis Campos Bautista** [1071925] (1)
 
-		
 		Prácticamente son un conjunto de API’s que proporcionan las plataformas web para crear nuevas etiquetas HTML.  
 		Acá la documentación <https://www.webcomponents.org/>.
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [1039168](https://platzi.com/comentario/1039168/) 
 
-	
 	Fantastico curso. 😄
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [1033425](https://platzi.com/comentario/1033425/) 
 
-	
 	aqui esta el mio […](https://camilovelandia.github.io/SPA-rick-and-morty/)
 
-* **Fernando Torres** (1)
+* **Fernando Torres** (1) [1026391](https://platzi.com/comentario/1026391/) 
 
-	
 	Hola! Envío mi link del proyecto. Aún no lo personalizo ni cambio el CSS a estilos propios, pero lo haré más adelante:  
 	[www.fertorresmx.dev](https://www.fertorresmx.dev/)
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [1023207](https://platzi.com/comentario/1023207/) 
 
-	
 	[Aqui esta el mio](https://jcsoftia.github.io/SPA-Rick-Morty/)
 
-* **Nathaly Stefani Riaño Bejarano** (1)
+* **Nathaly Stefani Riaño Bejarano** (1) [1021358](https://platzi.com/comentario/1021358/) 
 
-	
 	Que genial ésto! Me encantan las cosas extra que uno aprende en cada curso y que ayudan a ser un mejor desarrollador… Justo me encuentro ésta belleza: <https://platzi.com/clases/travis/> 💓
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [983046](https://platzi.com/comentario/983046/) 
 
-	
 	Wauu esto de travis es genial. Solo te encargas de realizar el push a la rama y el automátiicamente actualiza el gh-pages.
 	
 	comparto mi repositorio con el trabajo finalizado:  
@@ -3479,13 +3047,13 @@ DevTools failed to parse SourceMap: webpack:///node_modules/sockjs-client/dist/s
 	
 	Le hice muy peqeños ajustes al css pero después lo mejoraré 100%.
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [87189](https://platzi.com/comentario/1114818/) 
 ME SALE EL SIGUIENTE ERROR 😦 Oh no! You tried to trigger a build for jhondil/proyecto_spa but the request was rejected.
 
-* **Mario Alexis Silva Escalera** (1)
+* **Mario Alexis Silva Escalera** (1) [87086](https://platzi.com/comentario/1112268/) 
 Alguien sabe por qué me da este error?
 
-## 0160. Repaso, recomendaciones y tips para seguir aprendiendo
+## 0160. Repaso, recomendaciones y tips para seguir aprendiendo [25895](https://platzi.com/clases/1787-spa-javascript/25895-repaso-recomendaciones-y-tips-para-seguir-aprendie/)
 
 ### Descripción:
 
@@ -3500,76 +3068,62 @@ Alguien sabe por qué me da este error?
 
 ### Comentarios:
 
-* **Oscar Grey** (3)
+* **Oscar Grey** (3) [1116594](https://platzi.com/comentario/1116594/) 
 
-	
 	Si estás siguiendo esta ruta de aprendizaje te recomiendo no tomar los cursos de algún framework sin tener las bases de Javascript.  
 	El curso de Fundamentos de Javascript puede ayudarte a familiarizarte más con lo aprendido en este curso.
 
-* **Camilo Alexander Velandia Velandia** (2)
+* **Camilo Alexander Velandia Velandia** (2) [1033429](https://platzi.com/comentario/1033429/) 
 
-	
 	estuvo genial este curso
 
-* **angelo meneses** (2)
+* **angelo meneses** (2) [1008571](https://platzi.com/comentario/1008571/) 
 
-	
 	Me gusto mucho el curso! gracias
 
-* **Miguel Ángel Muñoz Pozos** (2)
+* **Miguel Ángel Muñoz Pozos** (2) [993723](https://platzi.com/comentario/993723/) 
 
-	
 	excelente curso.
 
-* **alvaritokore** (2)
+* **alvaritokore** (2) [986078](https://platzi.com/comentario/986078/) 
 
-	
 	Estaría bien un curso especializado de travis
 
-	* **Miguel Ángel Muñoz Pozos** (2)
+	* **Miguel Ángel Muñoz Pozos** [986078] (2)
 
-		
 		hola mira lo que encontré  
 		<https://platzi.com/cursos/travis/>
 
-* **Jhonatan David Ibarra Lavado** (1)
+* **Jhonatan David Ibarra Lavado** (1) [1114987](https://platzi.com/comentario/1114987/) 
 
-	
 	super, me estrese un poco a lo ultimo ajajaj, pero todo salio perfecto 😄
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1113392](https://platzi.com/comentario/1113392/) 
 
-	
 	Excelente curso, muy corto y preciso!!!
 
-* **carlosextra1** (1)
+* **carlosextra1** (1) [1113388](https://platzi.com/comentario/1113388/) 
 
-	
 	El término vanilla hace referencia solo a JS para código puro? o se puede utilizar vanilla en cualquier lenguaje de programación?
 
-	* **Nigtdreams** (1)
+	* **Nigtdreams** [1113388] (1)
 
-		
 		es js puro
 
-* **Adrian Garcia Saaib** (1)
+* **Adrian Garcia Saaib** (1) [1110735](https://platzi.com/comentario/1110735/) 
 
-	
 	[100tifico](https://adranuz.github.io/rick-n-morty-spa/)
 
-* **mauroquinteros** (1)
+* **mauroquinteros** (1) [1109991](https://platzi.com/comentario/1109991/) 
 
-	
 	Alguien sabe porque la ruta sale así <https://mauroquinteros.github.io/spa-vanillajs/#/2/>  
 	a mí me gustaría configurar la ruta para que salga de este manera <https://mauroquinteros.github.io/spa-vanillajs/2> que se me hace más sencillo para el usuario.  
 	Espero que alguien me ayude soy nuevo en esto
 
-	* **Victor Martin Ortiz Palacio** (1)
+	* **Victor Martin Ortiz Palacio** [1109991] (1)
 
-		
 		El # lo utilizamos para evitar el comportamiento que tiene la etiqueta <a> (anchor) por defecto, en nuestro caso estariamos emulando un “boton”, recuerda que en el **index** de la carpeta **src** tenemos el evento que detectar cambios en la url, y con el metodo **getHash** creado en la carpeta **utils** obtenemos el valor de la url, despues en la carpeta **routes** configuramos para que dependiendo el valor regresado nos mostrara determinada “pagina”:
-		``` 
-		    #En el curso tenemos el objeto routes de la siguiente manera
+		```     #En el curso tenemos el objeto routes de la siguiente manera
 		    const routes = {
 		      '/': Home,
 		      '/:id': Character,
@@ -3577,8 +3131,7 @@ Alguien sabe por qué me da este error?
 		    };
 		    
 		```
-		``` 
-		    #En el curso creamos esta funcion que maneja las rutas
+		```     #En el curso creamos esta funcion que maneja las rutas
 		    const router = async () => {
 		      const header = null || document.getElementById('header');
 		      const content = null || document.getElementById('content');
@@ -3594,67 +3147,55 @@ Alguien sabe por qué me da este error?
 		
 		espero poder haber sido claro, seguramente algun error tecnico se me debe haber escapado, de todas formas te recomiendo que sigas con la ruta de la escuela de javascript, ahí vas a aprender desde la configuracion mas básica hasta el despliegue de tu aplicación
 
-* **Karla Agraz** (1)
+* **Karla Agraz** (1) [1109071](https://platzi.com/comentario/1109071/) 
 
-	
 	Este es el link de mi proyecto: <https://csswoman.github.io/100tifico/>  
 	Aún me falta hacer modificaciones de los estilos, pero todo muy bien 😁
 
-* **Karla Agraz** (1)
+* **Karla Agraz** (1) [1109060](https://platzi.com/comentario/1109060/) 
 
-	
 	Estuvo genial el curso, muchas gracias 💚
 
-* **33andres33** (1)
+* **33andres33** (1) [1103568](https://platzi.com/comentario/1103568/) 
 
-	
 	excelente estoy siguiendo la carrera con mas cursos en platzi
 
-* **LEONARDO RAMOS ARIRAMA** (1)
+* **LEONARDO RAMOS ARIRAMA** (1) [1100759](https://platzi.com/comentario/1100759/) 
 
-	
 	Un buen curso, adjunto el link del proyecto que hice: <https://leoramosa.github.io/project-spa/>
 
-* **Pablo Cardona López** (1)
+* **Pablo Cardona López** (1) [1072336](https://platzi.com/comentario/1072336/) 
 
-	
 	Muy práctico, a seguir con el siguiente nivel.
 
-* **Byron EQ** (1)
+* **Byron EQ** (1) [1027341](https://platzi.com/comentario/1027341/) 
 
-	
 	Estimados compañeros, me pueden recomendar el lenguaje y la forma de hacer una API…? Actualmente uso solo APIREST con java + spring boot. Pero gustaria aprender una mejor tecnologia que me permita hacer lo mismo y mas profesional. Alguna sugerencia compañeros y profesor (@gndx)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1027341] (1)
 
-		
 		Puedes usar casi cualquier lenguaje y su respectivo framework, por ejemplo Python con Django y DRF, PHP con Laravel, Ruby con RoR, etc.
 
-* **AryRosvall** (1)
+* **AryRosvall** (1) [1013764](https://platzi.com/comentario/1013764/) 
 
-	
 	Sé que este es un curso básico pero estaría bueno poder manejar peticiones que traen muchos más elementos en este caso personajes para saber de qué manera manejarlos para que el performance de la aplicación no baje.
 
-* **José Roberto Arroyo García** (1)
+* **José Roberto Arroyo García** (1) [983944](https://platzi.com/comentario/983944/) 
 
-	
 	Muy buen curso, aclaré varias dudas que tenía sobre vanilla JS, enhorabuena para el profesor.
 
-* **Jorge Velasquez** (1)
+* **Jorge Velasquez** (1) [983498](https://platzi.com/comentario/983498/) 
 
-	
 	Excelente curso con un gran profesor 👏👏. Ahora me queda continuar con la culminación de la carrera de React 👨‍💻🏃‍♀️🏃‍♀️.
 
-* **JhonColorado07** (1)
+* **JhonColorado07** (1) [983028](https://platzi.com/comentario/983028/) 
 
-	
 	Ufff genial el curso. Gracias.
 
-* **paconity** (1)
+* **paconity** (1) [81538](https://platzi.com/comentario/983315/) 
 Muy buen curso, pero tengo una duda, ¿la razón por la que se usa toda esta estructura de carpetas(src, dist, public) es solamente porque ...
 
-	* **luis-mendoza877** (1)
+	* **luis-mendoza877** [81538] (1)
 
-		
 		En mi experiencia es mas como un estándar de como organizar el sistema de archivos, realmente tu lo puedes organizar como quieras, pero ese formato es como un estándar al que se ah llegado, de tal manera de cualquiera que vea un proyecto de alguien mas sabe como esta organizado todo.
 

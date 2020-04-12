@@ -1,6 +1,8 @@
-# Bienvenida e Introducción
+[Curso de Unit Testing para MEAN con Jasmine 1542](https://platzi.com/cursos/pruebas-unitarias)
 
-## 0010. ¿Qué son las pruebas unitarias
+# Bienvenida e Introducción [3765]
+
+## 0010. ¿Qué son las pruebas unitarias [18791](https://platzi.com/clases/1542-pruebas-unitarias/18791-que-son-las-pruebas-unitarias/)
 
 ### Descripción:
 
@@ -13,9 +15,9 @@ Las pruebas unitarias o Unit testing forman parte de los diferentes procedimient
 
 _¿Para qué sirven las pruebas unitarias?_
 
-  * **Red de seguridad** : Prevenir cambios inesperados en nuestras aplicaciones por miembros de nuestro equipo o, incluso, nosotros mismos.
-  * **Calidad del código** : Mejora continua de nuestro código. Podemos revisar y mejorar código viejo o contemplar casos de uso que no tuvimos en cuenta al comenzar el desarrollo.
-  * **Reducir costos** : Prevención y detección de errores a edad temprana, antes de que puedan salirse de control.
+* **Red de seguridad** : Prevenir cambios inesperados en nuestras aplicaciones por miembros de nuestro equipo o, incluso, nosotros mismos.
+* **Calidad del código** : Mejora continua de nuestro código. Podemos revisar y mejorar código viejo o contemplar casos de uso que no tuvimos en cuenta al comenzar el desarrollo.
+* **Reducir costos** : Prevención y detección de errores a edad temprana, antes de que puedan salirse de control.
 
 
 
@@ -25,56 +27,48 @@ _¿Para qué sirven las pruebas unitarias?_
 
 ### Comentarios:
 
-* **Roberto Bock** (3)
+* **Roberto Bock** (3) [556343](https://platzi.com/comentario/556343/) 
 Excelenteee estaba esperando por un curso de estos!
 
-* **Jaime Quintero Rodríguez** (2)
+* **Jaime Quintero Rodríguez** (2) [549676](https://platzi.com/comentario/549676/) 
 
-	
 	¿ De donde se descarga el proyecto final ?
 
-	* **Ludwring Liccien** (1)
+	* **Ludwring Liccien** [549676] (1)
 
-		
 		[reposirorio de gitbhub del proyecto en angular](https://github.com/xthecapx/mean)
 
-* **josealiriorojasclavijo** (1)
+* **josealiriorojasclavijo** (1) [1069540](https://platzi.com/comentario/1069540/) 
 
-	
 	Conocomiento nuevo ven a mi, enserio deseo conocer sobre pruebas unitarias
 
-* **Jhon Alexander Alvarez Romero** (1)
+* **Jhon Alexander Alvarez Romero** (1) [808380](https://platzi.com/comentario/808380/) 
 
-	
 	Realmente es algo necesario para el desarrollo de cualquier proyecto, espero entender mas y mejor de esta gran tecnica, vamos por ello
 
-* **Elberth Jair Agreda Rosero** (1)
+* **Elberth Jair Agreda Rosero** (1) [783614](https://platzi.com/comentario/783614/) 
 
-	
 	Con muchas expectativas!!
 
-* **william andres rodriguez borja** (1)
+* **william andres rodriguez borja** (1) [652107](https://platzi.com/comentario/652107/) 
 
-	
 	Expectativa total esta genial el curso muy util
 
-* **Adrian Camilo Caminos** (1)
+* **Adrian Camilo Caminos** (1) [549088](https://platzi.com/comentario/549088/) 
 
-	
 	Excelente porque la verdad nunca he echo prueba unitarias en Angular
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [549088] (2)
 
-		
 		bienvenido entonces Adrian!
 
-* **Jhon Alexander Alvarez Romero** (1)
+* **Jhon Alexander Alvarez Romero** (1) [72015](https://platzi.com/comentario/808385/) 
 Realmente que tan necesario es tener ya aprobado el curso de node.js? adicional a eso los de CSS realmente afectan? tengo algunos pero no...
 
-* **spajdz** (0)
+* **spajdz** (0) [60612](https://platzi.com/comentario/608203/) 
 Hola! Tengo una consulta, como se puede hacer un spy a un request? el dejo un ejemplo como estpy trabajando el request: router.all(...
 
-## 0020. ¿Por qué hacer pruebas unitarias
+## 0020. ¿Por qué hacer pruebas unitarias [19195](https://platzi.com/clases/1542-pruebas-unitarias/19195-por-que-hacer-pruebas-unitarias/)
 
 ### Descripción:
 
@@ -140,64 +134,58 @@ Contar un set de pruebas puede tomar tiempo al principio, pero con práctica va 
 
 ### Comentarios:
 
-* **Itzel Jimenez** (2)
+* **Itzel Jimenez** (2) [701844](https://platzi.com/comentario/701844/) 
 
-	
 	Hola, sólo tengo comentarios sobre un par de typos, nada que afecte la comprensión pero quisiera compartirles:  
 	reserver: ¿deberíamos reserver un espacio para la creación de pruebas unitarias?.  
 	realizar dos veces: Debido al tamaño de la aplicación realizar realizar cambios serán bastante rápidos.  
 	Por todo lo demás excelente, bien explicado, gracias.
 
-* **Jhon Alexander Alvarez Romero** (1)
+* **Jhon Alexander Alvarez Romero** (1) [808382](https://platzi.com/comentario/808382/) 
 
-	
 	A mi forma de ver, creo que por mas poco que sea el presupuesto siempre deberiamos aplicarlas, ya que en un caso digamos donde seamos independientes y tengamos corto tiempo de realizar el codigo, lo ideal seria realizar las pruebas para podernos asegurar de tener que gastar mas tiempo en el desarrollo y poder cumplir mejor los tiempos de entrega
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [729473](https://platzi.com/comentario/729473/) 
 
-	
 	Interesante!! Vamonos con el curso 💻
 
-# Creando un framework de pruebas básico
+# Creando un framework de pruebas básico [3766]
 
-## 0030. Mi primera prueba unitaria en JavaScript
+## 0030. Mi primera prueba unitaria en JavaScript [18792](https://platzi.com/clases/1542-pruebas-unitarias/18792-mi-primera-prueba-unitaria-en-javascript/)
 
 ### Descripción:
 
 
 Características de las pruebas unitarias:
 
-  * Aunque los resultados deben ser específicos de cada test unitario desarrollado, los resultados se pueden automatizar, de forma que podemos hacer las pruebas de forma individual o en grupos.
+* Aunque los resultados deben ser específicos de cada test unitario desarrollado, los resultados se pueden automatizar, de forma que podemos hacer las pruebas de forma individual o en grupos.
 
-  * El proceso consta de pequeños test sobre parte del código, pero al final, se debe comprobar su totalidad.
+* El proceso consta de pequeños test sobre parte del código, pero al final, se debe comprobar su totalidad.
 
-  * En el caso de repetir las pruebas de forma individual o grupal, el resultado debe ser siempre el mismo, dando igual el orden en que se realicen los test, los tests se almacenan para poder realizar estas repeticiones o poder usarlos en otras ocasiones.
+* En el caso de repetir las pruebas de forma individual o grupal, el resultado debe ser siempre el mismo, dando igual el orden en que se realicen los test, los tests se almacenan para poder realizar estas repeticiones o poder usarlos en otras ocasiones.
 
-  * Es un código aislado que se ha creado con la misión de comprobar otro código muy concreto, no interfiere en el trabajo de otros desarrolladores.
+* Es un código aislado que se ha creado con la misión de comprobar otro código muy concreto, no interfiere en el trabajo de otros desarrolladores.
 
-  * A pesar de lo que muchos desarrolladores opinen, el código de los tests unitarios no debe llevar más de 5 minutos en ser creado, están diseñados para hacer que el trabajo sea más rápido.
+* A pesar de lo que muchos desarrolladores opinen, el código de los tests unitarios no debe llevar más de 5 minutos en ser creado, están diseñados para hacer que el trabajo sea más rápido.
 
 
 
 
 ### Comentarios:
 
-* **adevesa** (3)
+* **adevesa** (3) [576252](https://platzi.com/comentario/576252/) 
 
-	
 	Se menciona a Emmet. Para más información se puede ingresar a la siguiente página. https://docs.emmet.io
 
-* **Jhon Alexander Alvarez Romero** (1)
+* **Jhon Alexander Alvarez Romero** (1) [808388](https://platzi.com/comentario/808388/) 
 
-	
 	Muy buena practica, es muy basica esta informacion tanto que deberia hacer un poco mas parte de la introduccion, gracias
 
-* **Roberto Bock** (1)
+* **Roberto Bock** (1) [582942](https://platzi.com/comentario/582942/) 
 
-	
 	Gracias Platzi por este curso! lo estaba deseando desde hace tiempo! no se imaginan lo mucho que he notado la importancia saber y entender este tema de las pruebas unitarias!
 
-## 0040. Las funciones expect() y it()
+## 0040. Las funciones expect() y it() [18793](https://platzi.com/clases/1542-pruebas-unitarias/18793-las-funciones-expect-y-it/)
 
 ### Descripción:
 
@@ -228,7 +216,7 @@ Las funciones expect () se utilizan para probar realmente las cosas que “esper
 
 ### Comentarios:
 
-## 0050. Organizando el código para correr en la web
+## 0050. Organizando el código para correr en la web [18794](https://platzi.com/clases/1542-pruebas-unitarias/18794-organizando-el-codigo-para-correr-en-la-web/)
 
 ### Descripción:
 
@@ -241,50 +229,41 @@ Añadir nuevo comportamiento a un programa puede ser difícil con la estructura 
 
 ### Comentarios:
 
-* **hnino** (6)
+* **hnino** (6) [581353](https://platzi.com/comentario/581353/) 
 
-	
 	✔
 
-* **Ernesto Briceño** (1)
+* **Ernesto Briceño** (1) [992071](https://platzi.com/comentario/992071/) 
 
-	
 	El selector de emojis de Windows 10 funciona al pulsar a la vez la tecla Windows y el punto (Win + .)
 
-* **BrayanValdesG** (1)
+* **BrayanValdesG** (1) [920284](https://platzi.com/comentario/920284/) 
 
-	
 	<https://emojipedia.org/>
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [764813](https://platzi.com/comentario/764813/) 
 
-	
 	Emojis en windows  
 	_tecla window + signo ._
 
-* **mauxiandrade** (1)
+* **mauxiandrade** (1) [594401](https://platzi.com/comentario/594401/) 
 
-	
 	¿cómo se agrega el check y la x?
 
-	* **Cristian Daniel Marquez Barrio** (1)
+	* **Cristian Daniel Marquez Barrio** [594401] (1)
 
-		
 		No me queda claro a que te refieres. podrías ser más específica.
 
-	* **mauxiandrade** (0)
+	* **mauxiandrade** [594401] (0)
 
-		
 		en la consola para mostrar si la prueba funciona o falla se coloca un ✔(la copie del comentario anterior) y una x, pero no sabía como colocarla.
 
-	* **Cristian Daniel Marquez Barrio** (3)
+	* **Cristian Daniel Marquez Barrio** [594401] (3)
 
-		
 		Te recomiendo esta página, ahi puedes copiar y pegar emojis <https://apps.timwhitlock.info/emoji/tables/unicode>
 
-	* **Ale17273has** (1)
+	* **Ale17273has** [594401] (1)
 
-		
 		Te dejo el snipet de código
 		``` 
 		    <functionit(title, callback) {
@@ -298,25 +277,22 @@ Añadir nuevo comportamiento a un programa puede ser difícil con la estructura 
 		    
 		```
 
-	* **maoacrlearn** (1)
+	* **maoacrlearn** [594401] (1)
 
-		
 		Creo que se les facilita agregar este tipo de caracteres al codigo por usar Mac ✔️✖️🤷‍♂️
 
-	* **Carlos Flores** (1)
+	* **Carlos Flores** [594401] (1)
 
-		
 		En mac usa la combinación ctrl + cmd + barra espaciadora.
 
-* **mauxiandrade** (1)
+* **mauxiandrade** (1) [59671](https://platzi.com/comentario/594401/) 
 ¿cómo se agrega el check y la x?
 
-	* **Cristian Daniel Marquez Barrio** (1)
+	* **Cristian Daniel Marquez Barrio** [59671] (1)
 
-		
 		No me queda claro a que te refieres. podrías ser más específica.
 
-## 0060. Organizando el código para correr utilizando nodejs
+## 0060. Organizando el código para correr utilizando nodejs [18795](https://platzi.com/clases/1542-pruebas-unitarias/18795-organizando-el-codigo-para-correr-utilizando-nodej/)
 
 ### Descripción:
 
@@ -347,36 +323,31 @@ Ejemplo de un _hola mundo_ de un servidor _HTTP_ escrito en _Node.js_ :
 
 ### Comentarios:
 
-* **Luis José Leopardi Velásquez** (5)
+* **Luis José Leopardi Velásquez** (5) [635957](https://platzi.com/comentario/635957/) 
 
-	
 	Podrías usar destructuring para obtener ‘it’ y ‘expect’ =D
 
-* **Edison Perdomo** (2)
+* **Edison Perdomo** (2) [841777](https://platzi.com/comentario/841777/) 
 
-	
 	tienes razón  
 	const { it } = require(’./framework’);  
 	const { expect } = require(’./framework’);
 
-* **BrayanValdesG** (1)
+* **BrayanValdesG** (1) [920347](https://platzi.com/comentario/920347/) 
 
-	
 	Si ya estás exportando del archivo framework.js puedes importar directamente const { it, espect } = require(’./framework’); … De está manera no necesitas un import cada vez que crees una función en ese archivo
 
-* **Jessie Buckland Pérez** (1)
+* **Jessie Buckland Pérez** (1) [912209](https://platzi.com/comentario/912209/) 
 
-	
 	Impresionante, quizás se deba a que no estoy siguiendo la ruta ideal de aprendizaje de JS, TS, NodeJs etc, pero me pareció muy importante el inicio del curso, su introducción y como has planteado la organización de código para que sea utilizado por node. Enhorabuena!!!
 
-* **Jessie Buckland Pérez** (1)
+* **Jessie Buckland Pérez** (1) [912192](https://platzi.com/comentario/912192/) 
 
-	
 	Técnica para usar código javascript en nodejs usando módulos.
 
-# Análisis estático de código
+# Análisis estático de código [3767]
 
-## 0070. Herramientas de análisis estático de código
+## 0070. Herramientas de análisis estático de código [18796](https://platzi.com/clases/1542-pruebas-unitarias/18796-herramientas-de-analisis-estatico-de-codigo/)
 
 ### Descripción:
 
@@ -415,14 +386,12 @@ La herramienta de tipado más popular en JavaScript es [TypeScript](https://www.
 
 ### Comentarios:
 
-* **vanesora** (8)
+* **vanesora** (8) [561650](https://platzi.com/comentario/561650/) 
 
-	
 	Yo he trabajado con TypeScript con Angular y con React, y me parece super genial
 
-* **ricardocelis (Platzi)** (8)
+* **ricardocelis (Platzi)** (8) [547991](https://platzi.com/comentario/547991/) 
 
-	
 	<https://eslint.org>  
 	<https://prettier.io>  
 	<http://csscomb.com>  
@@ -432,16 +401,16 @@ La herramienta de tipado más popular en JavaScript es [TypeScript](https://www.
 	<https://flow.org>  
 	<https://reactjs.org/docs/typechecking-with-proptypes.html>
 
-## 0080. ESLint Agregando alertas a nuestro código con ECMA Script
+## 0080. ESLint Agregando alertas a nuestro código con ECMA Script [18797](https://platzi.com/clases/1542-pruebas-unitarias/18797-eslint-agregando-alertas-a-nuestro-codigo-con-ecma/)
 
 ### Descripción:
 
 
 ESLint es una herramienta que identifica y reporta patrones y errores en código ECMAScript/JavaScript. Es similar a JS-Lint y JSHint con algunas diferencias:
 
-  * ESLint usa Espree para analizar JavaScript.
-  * ESLint usa un AST para evaluar patrones en código.
-  * ESLint soporta plugins, cada regla es un plugin y puedes agregar más en desarrollo.
+* ESLint usa Espree para analizar JavaScript.
+* ESLint usa un AST para evaluar patrones en código.
+* ESLint soporta plugins, cada regla es un plugin y puedes agregar más en desarrollo.
 
 
 
@@ -453,17 +422,15 @@ ESLint es una herramienta que identifica y reporta patrones y errores en código
 
 ### Comentarios:
 
-* **Davidre0795** (4)
+* **Davidre0795** (4) [550303](https://platzi.com/comentario/550303/) 
 
-	
 	[Link](https://github.com/standard/eslint-config-standard/blob/master/eslintrc.json)
 
-	* **Damian Spizzirri** (3)
+	* **Damian Spizzirri** [550303] (3)
 
-		
 		Con eslint --init pueden generar el codigo automaticamente.
 
-## 0090. Herramientas de corrección de estilo
+## 0090. Herramientas de corrección de estilo [18798](https://platzi.com/clases/1542-pruebas-unitarias/18798-herramientas-de-correccion-de-estilo/)
 
 ### Descripción:
 
@@ -474,18 +441,18 @@ Puede ejecutarse en su editor al guardar, en un gancho de confirmación previa o
 
 Ofrece soporte para:
 
-  * JavaScript, including ES2017
-  * JSX
-  * Angular
-  * Vue
-  * Flow
-  * TypeScript
-  * CSS, Less, and SCSS
-  * HTML
-  * JSON
-  * GraphQL
-  * Markdown, including GFM and MDX
-  * YAML
+* JavaScript, including ES2017
+* JSX
+* Angular
+* Vue
+* Flow
+* TypeScript
+* CSS, Less, and SCSS
+* HTML
+* JSON
+* GraphQL
+* Markdown, including GFM and MDX
+* YAML
 
 
 
@@ -512,24 +479,20 @@ Al pasar Prettier nos lo deja de una manera más legible:
 
 ### Comentarios:
 
-* **Ale17273has** (3)
+* **Ale17273has** (3) [617527](https://platzi.com/comentario/617527/) 
 
-	
 	Recomiendo no instalar cosas globales mejor dejarlas sobre el proyecto, en este caso para instalar como dependencia de desarrollo seria npm install --save-dev prettier
 
-* **Cristian De Blasis** (2)
+* **Cristian De Blasis** (2) [552991](https://platzi.com/comentario/552991/) 
 
-	
 	En mi caso al instalar Prettier no me formateaba al guardar. Para esto tuve que ir a File->Preference->Setting Text Editor-> Formating y active el combo “Format on Save”
 
-	* **Kevin William Roberts Costa** (1)
+	* **Kevin William Roberts Costa** [552991] (1)
 
-		
 		También está interesante setear esbenp.prettier-vscode como Default Formatter; por lo que entiendo sino funciona por defecto el vscode. Pero esto no está claro, por lo menos no funciona como en la clase.
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618191](https://platzi.com/comentario/618191/) 
 
-	
 	eslint me arroja error al final del ultimo caracter, se les ocurre porque puede ser?? Despues del ; del saludar. Probe poniendolo entre { } y sacando el : pero sigue igual.
 	``` 
 	    const saludar = nombre => `Hola ${nombre}`;
@@ -538,17 +501,15 @@ Al pasar Prettier nos lo deja de una manera más legible:
 	    
 	```
 
-* **Gustavo Ramírez Apache** (1)
+* **Gustavo Ramírez Apache** (1) [585914](https://platzi.com/comentario/585914/) 
 
-	
 	En el caso quie necesiten hacer override pueden crear un archivo para agregar lo que quieran ahi, por ejemplo en mi caso no uso ; por lo que lod esactive seteando semi en false . <https://prettier.io/docs/en/configuration.html>
 
-* **ricardocelis (Platzi)** (1)
+* **ricardocelis (Platzi)** (1) [548021](https://platzi.com/comentario/548021/) 
 
-	
 	<https://prettier.io>
 
-## 0100. Herramientas de tipado
+## 0100. Herramientas de tipado [18799](https://platzi.com/clases/1542-pruebas-unitarias/18799-herramientas-de-tipado/)
 
 ### Descripción:
 
@@ -571,19 +532,17 @@ Está pensado para grandes proyectos, los cuales a través de un compilador de T
 
 ### Comentarios:
 
-* **Wilson Fabian Pérez Sucuzhañay** (1)
+* **Wilson Fabian Pérez Sucuzhañay** (1) [561466](https://platzi.com/comentario/561466/) 
 
-	
 	donde podemos ver ese código ¿? no hay repositorio¿?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [561466] (2)
 
-		
 		Hola, encuentras el repo aquí <https://github.com/xthecapx/mean/> en clases más adelante lo encuentras también en la pestaña de archivos.
 
-# Trabajando con Jasmine en el frontend
+# Trabajando con Jasmine en el frontend [3762]
 
-## 0110. Profundización en SpyOn Comandos más utilizados y cómo ponerlos a prueba
+## 0110. Profundización en SpyOn Comandos más utilizados y cómo ponerlos a prueba [19189](https://platzi.com/clases/1542-pruebas-unitarias/19189-profundizacion-en-spyon-comandos-mas-utilizados-y-/)
 
 ### Descripción:
 
@@ -721,24 +680,20 @@ Cómo reto ve al siguiente **[enlace](https://stackblitz.com/edit/jasmine-testin
 
 ### Comentarios:
 
-* **juan diego ramirez rojas** (3)
+* **juan diego ramirez rojas** (3) [631255](https://platzi.com/comentario/631255/) 
 
-	
 	En este link explican spy0n de una manera mas facil <https://scriptverse.academy/tutorials/jasmine-spyon.html>
 
-* **davidmoreno1989** (2)
+* **davidmoreno1989** (2) [577824](https://platzi.com/comentario/577824/) 
 
-	
 	Por favor revisar la redacción de este artículo, algunas frases están cortadas o incompletas.
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [577824] (1)
 
-		
 		Gracias por el reporte, ya lo vamos a revisar.
 
-* **yisus_dev** (1)
+* **yisus_dev** (1) [1019261](https://platzi.com/comentario/1019261/) 
 
-	
 	hola, por acá les dejo un set de pruebas según la tarea que se manda a realizar en el post y les dejo la página donde se puede ver en acción dicho set
 	``` 
 	    describe('spyOn Platzi little class', () => {
@@ -825,9 +780,8 @@ Cómo reto ve al siguiente **[enlace](https://stackblitz.com/edit/jasmine-testin
 	en esta página web lo pueden verificar. esta super chido  
 	<https://embed.plnkr.co/plunk/eDY1ap>
 
-* **yisus_dev** (1)
+* **yisus_dev** (1) [1018956](https://platzi.com/comentario/1018956/) 
 
-	
 	este ejemplo esta malo, empece a realizar las pruebas en una pagina que corre jasmine con karma y de entrada
 	``` 
 	    this.api = new getMonthApi();
@@ -849,9 +803,8 @@ Cómo reto ve al siguiente **[enlace](https://stackblitz.com/edit/jasmine-testin
 	    
 	```
 
-* **David Behar** (1)
+* **David Behar** (1) [1011159](https://platzi.com/comentario/1011159/) 
 
-	
 	Estoy batallando por entender cómo funcionan los espías, para eso intenté hacer un espía basado en el ejercicio que se muestra acá pero más realista (que sí regrese el verdadero mes),  
 	.
 	
@@ -916,9 +869,8 @@ Cómo reto ve al siguiente **[enlace](https://stackblitz.com/edit/jasmine-testin
 	    
 	```
 
-	* **vladernn** (1)
+	* **vladernn** [1011159] (1)
 
-		
 		Prueba a utilizar:
 		``` 
 		    <code>
@@ -935,58 +887,49 @@ Cómo reto ve al siguiente **[enlace](https://stackblitz.com/edit/jasmine-testin
 		    
 		```
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618240](https://platzi.com/comentario/618240/) 
 
-	
 	Puede ser que al proyecto le falte el archivo angular.json??
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618237](https://platzi.com/comentario/618237/) 
 
-	
 	Descarge el projecto, ejecute npm install y despues ng serve.
 	
 	Me sale este error **_The serve command requires to be run in an Angular project, but a project definition could not be found_**
 	
 	Que onda??
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618215](https://platzi.com/comentario/618215/) 
 
-	
 	Creo que no entendi la ultima pregunta. Yo con el CallFake puedo reescribir la funcion para que haga lo que yo quieaa??
 
-* **Ale17273has** (1)
+* **Ale17273has** (1) [617540](https://platzi.com/comentario/617540/) 
 
-	
 	¿ Por que no todo se maneja con git hub?
 
-* **mauxiandrade** (1)
+* **mauxiandrade** (1) [595123](https://platzi.com/comentario/595123/) 
 
-	
 	“Cómo reto ve al siguiente enlace, has un fork del repo …”
 	
 	Cuál enlace??
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [595123] (1)
 
-		
 		ya le aviso al team para que ajusten esta clase, gracias por avisar Mauxi
 
-	* **mauxiandrade** (1)
+	* **mauxiandrade** [595123] (1)
 
-		
 		Ok estaré pendiente para realizar el repo
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [595123] (1)
 
-		
 		ya está lista la lectura! con todo y el enlace al repo =)
 
-* **Kevin William Roberts Costa** (0)
+* **Kevin William Roberts Costa** (0) [1042811](https://platzi.com/comentario/1042811/) 
 
-	
 	Me frustré muy feo con este curso 😦 me voy a cursar js de nuevo
 
-## 0120. Configurar un ambiente de trabajo para trabajar con el framework jasmine
+## 0120. Configurar un ambiente de trabajo para trabajar con el framework jasmine [18779](https://platzi.com/clases/1542-pruebas-unitarias/18779-configurar-un-ambiente-de-trabajo-para-trabajar-co/)
 
 ### Descripción:
 
@@ -1001,13 +944,13 @@ _**¿Cómo funciona?**_
 
 Las funciones principales de Jasmine para hacer pruebas son las siguientes:
 
-  * _**describe(a, b)**_ donde “a” es la descripción de nuestra suite y “b” la función anónima donde se incluirá toda la suite o serie de especificaciones.
-  * _**it(a, b)**_ donde “a” es la descripción de la especificación y “b” la función anónima donde se incluirán las expectativas (expectations) que debe cumplir la aplicación.
-  * _**expect(a)**_ donde “a” es un valor que será probado, mediante argumentos en cadena (method chaining). Por ejemplo: expect(true).not.toBe(false).
-  * _**beforeAll(a)**_ donde “a” será la función que se ejecutará antes de iniciar las pruebas.
-  * _**afterAll(a)**_ donde “a” será la función que se ejecutará después de iniciar las pruebas.
-  * _**beforeEach(a)**_ donde “a” será la función que se ejecutará antes de cada prueba.
-  * _**afterEach(a)**_ donde “a” será la función que se ejecutará después de cada prueba.
+* _**describe(a, b)**_ donde “a” es la descripción de nuestra suite y “b” la función anónima donde se incluirá toda la suite o serie de especificaciones.
+* _**it(a, b)**_ donde “a” es la descripción de la especificación y “b” la función anónima donde se incluirán las expectativas (expectations) que debe cumplir la aplicación.
+* _**expect(a)**_ donde “a” es un valor que será probado, mediante argumentos en cadena (method chaining). Por ejemplo: expect(true).not.toBe(false).
+* _**beforeAll(a)**_ donde “a” será la función que se ejecutará antes de iniciar las pruebas.
+* _**afterAll(a)**_ donde “a” será la función que se ejecutará después de iniciar las pruebas.
+* _**beforeEach(a)**_ donde “a” será la función que se ejecutará antes de cada prueba.
+* _**afterEach(a)**_ donde “a” será la función que se ejecutará después de cada prueba.
 
 
 
@@ -1017,9 +960,8 @@ Las funciones principales de Jasmine para hacer pruebas son las siguientes:
 
 ### Comentarios:
 
-* **mario-salinas** (2)
+* **mario-salinas** (2) [571566](https://platzi.com/comentario/571566/) 
 
-	
 	Les dejo los links
 	``` 
 	    <link
@@ -1043,12 +985,11 @@ Las funciones principales de Jasmine para hacer pruebas son las siguientes:
 	    
 	```
 
-* **Roy Hodson** (1)
+* **Roy Hodson** (1) [1052086](https://platzi.com/comentario/1052086/) 
 
-	
 	Con ctrl+d en vscode puedes seleccionar todas las incidencias de texto, para reemplazar un poco mas rapido
 
-## 0130. Configurar Jasmine utilizando Node.js
+## 0130. Configurar Jasmine utilizando Node.js [18780](https://platzi.com/clases/1542-pruebas-unitarias/18780-configurar-jasmine-utilizando-nodejs/)
 
 ### Descripción:
 
@@ -1082,20 +1023,17 @@ Por último, para correr las pruebas que vamos a crear en las próximas clases, 
 
 ### Comentarios:
 
-* **tzalejo** (2)
+* **tzalejo** (2) [956451](https://platzi.com/comentario/956451/) 
 
-	
 	Para ver la url de [jasmin](https://jasmine.github.io/pages/getting_started.html).  
 	Saludos
 
-* **Ale17273has** (1)
+* **Ale17273has** (1) [617570](https://platzi.com/comentario/617570/) 
 
-	
 	En caso que haya añadido la carpeta en el git add, sin haber creado el gitignore solo debe hacer un git reset node_modules y luego si ejecutan el commit
 
-* **Ale17273has** (1)
+* **Ale17273has** (1) [617566](https://platzi.com/comentario/617566/) 
 
-	
 	Les recomiendo que en su proyecto git crear el archivo .gitignore para no subir los archivos modules asi quedaria
 	
 	<h1>See <http://help.github.com/ignore-files/> for more about ignoring files.</h1> <h1>compiled output</h1>
@@ -1146,32 +1084,31 @@ Por último, para correr las pruebas que vamos a crear en las próximas clases, 
 	.DS_Store  
 	Thumbs.db
 
-## 0140. Primer set de pruebas con Jasmine
+## 0140. Primer set de pruebas con Jasmine [18781](https://platzi.com/clases/1542-pruebas-unitarias/18781-primer-set-de-pruebas-con-jasmine/)
 
 ### Descripción:
 
 
 Funciones de Jasmine con las cuales podremos experimentar:
 
-  * `expect(x).toEqual(y)` verifica si ambos valores son iguales.
-  * `expect(x).toBe(y)` verifica si ambos objetos son iguales.
-  * `expect(x).toMatch(pattern)` verifica si el valor pertenece al patrón establecido.
-  * `expect(x).toBeDefined()` verifica si el valor está definido.
-  * `expect(x).toBeUndefined()` verifica si el valor es indefinido.
-  * `expect(x).toBeNull()` verifica si el valor es nulo.
-  * `expect(x).toBeTruthy()` verifica si el valor es verdadero.
-  * `expect(x).toBeFalsy();` verifica si el valor es falso.
-  * `expect(x).toContain(y)` verifica si el valor actual contiene el esperado.
-  * `expect(x).toBeLessThan(y)` verifica si el valor actual es menor que el esperado.
-  * `expect(x).toBeGreaterThan(y)` verifica si el valor actual es mayor que el esperado.
+* `expect(x).toEqual(y)` verifica si ambos valores son iguales.
+* `expect(x).toBe(y)` verifica si ambos objetos son iguales.
+* `expect(x).toMatch(pattern)` verifica si el valor pertenece al patrón establecido.
+* `expect(x).toBeDefined()` verifica si el valor está definido.
+* `expect(x).toBeUndefined()` verifica si el valor es indefinido.
+* `expect(x).toBeNull()` verifica si el valor es nulo.
+* `expect(x).toBeTruthy()` verifica si el valor es verdadero.
+* `expect(x).toBeFalsy();` verifica si el valor es falso.
+* `expect(x).toContain(y)` verifica si el valor actual contiene el esperado.
+* `expect(x).toBeLessThan(y)` verifica si el valor actual es menor que el esperado.
+* `expect(x).toBeGreaterThan(y)` verifica si el valor actual es mayor que el esperado.
 
 
 
 ### Comentarios:
 
-* **Ale17273has** (1)
+* **Ale17273has** (1) [617582](https://platzi.com/comentario/617582/) 
 
-	
 	Algunos de los test que cree
 	``` 
 	    <const saludar = require("../app");
@@ -1211,14 +1148,12 @@ Funciones de Jasmine con las cuales podremos experimentar:
 	    
 	```
 
-* **Gustavo Ramírez Apache** (1)
+* **Gustavo Ramírez Apache** (1) [585966](https://platzi.com/comentario/585966/) 
 
-	
 	Pregunta que debo configurar en eslint para que no pida que este definido algo, osea en app.spect tenemos el it y el expect pero vsc me lo marca con rojito diciendo que no hay un error que no esta definido it y expect, que tengo que modificar en el slint para que no me muestre esto, porque la verdad es maluco y puede hacer que une se equivoque cojnh esos errores
 
-	* **Cristian Daniel Marquez Barrio** (1)
+	* **Cristian Daniel Marquez Barrio** [585966] (1)
 
-		
 		Hay varias formas de lograr esto:
 		
 		  1. Te dejo la documentación: <https://eslint.org/docs/user-guide/configuring#configuration-based-on-glob-patterns>
@@ -1257,12 +1192,11 @@ Funciones de Jasmine con las cuales podremos experimentar:
 		    
 		```
 
-	* **Ale17273has** (1)
+	* **Ale17273has** [585966] (1)
 
-		
 		Considero que lo mejor no es des habilitar el lint o ajustarlo a nuestro código, debido a que son estándares, recomiendo utilizar webstorm se ajusta al lint que uno le pase o a veces el mismo hace la correcion o la da sugerencia
 
-	* **Diego Alberto Meneses Tamayo** (1)
+	* **Diego Alberto Meneses Tamayo** [585966] (1)
 <h1>Eslint y jasmin</h1>
 		
 		Para que es lint no genere alertas instalar el plugin
@@ -1279,7 +1213,7 @@ Funciones de Jasmine con las cuales podremos experimentar:
 		    
 		```
 
-## 0150. Diccionario Jasmine
+## 0150. Diccionario Jasmine [19190](https://platzi.com/clases/1542-pruebas-unitarias/19190-diccionario-jasmine/)
 
 ### Descripción:
 
@@ -1525,9 +1459,8 @@ Matchers
 
 ### Comentarios:
 
-* **David Behar** (3)
+* **David Behar** (3) [1009736](https://platzi.com/comentario/1009736/) 
 
-	
 	Se confunde un poco con todo en el mismo bloque de código, acá un edit  
 	Prueba negativa
 	``` 
@@ -1842,14 +1775,12 @@ Matchers
 	    
 	```
 
-* **Víctor Alejandro Sagal Muñoz** (1)
+* **Víctor Alejandro Sagal Muñoz** (1) [950345](https://platzi.com/comentario/950345/) 
 
-	
 	Un buen recurso como ayuda, pero se hace denso de entender que solo sea en texto y no con un video de apoyo.
 
-* **Ale17273has** (1)
+* **Ale17273has** (1) [617583](https://platzi.com/comentario/617583/) 
 
-	
 	Gracias, otros que implemente yo
 	
 	const saludar = require("…/app");
@@ -1886,9 +1817,9 @@ Matchers
 	});  
 	});
 
-# Probando Nodejs apps con Jasmine
+# Probando Nodejs apps con Jasmine [3763]
 
-## 0160. Introducción al módulo de testing del lado del servidor
+## 0160. Introducción al módulo de testing del lado del servidor [18782](https://platzi.com/clases/1542-pruebas-unitarias/18782-introduccion-al-modulo-de-testing-del-lado-del-ser/)
 
 ### Descripción:
 
@@ -1899,40 +1830,35 @@ Vamos a probar la interacción del frontend (Angular) con el servidor o con los 
 
 ### Comentarios:
 
-* **darwinyusef** (2)
+* **darwinyusef** (2) [770740](https://platzi.com/comentario/770740/) 
 
-	
 	Profe tengo una duda, asi de sencillo, Jasmin ó Jest ó Cypress la verdad no se cual aprender, yo diría Chocolate, Gomitas, Galletas difícil de decidir.
 
-	* **nikosantis** (1)
+	* **nikosantis** [770740] (1)
 
-		
 		Yo también me lo pregunto.  
 		En el curso de React Avanzado al final usamos un poquito de Cypress y tenía una interfaz gráfica extra para los tests y era bastante bueno. También está AVA que se usó en Node Avanzado. Jest creo que es muy similar a Jasmine.
 
-* **William Vega** (2)
+* **William Vega** (2) [559882](https://platzi.com/comentario/559882/) 
 
-	
 	Me quedé sorprendido de la claridad semántica de las asersiones con expect(), me pregunto si sería posible utilizar este tipo de funciones para programar el código de la app misma? por ejemplo utilizar cosas como expect(variable).not().tobeNaN(), comprendo que para algunos casos esto implicaría escribir más código y es algo que fácilmente podría ser abusado para utilizar estas asersiones en lugar de expresiones más simples, (x != NaN), no obstante se ve fácilmente su utilidad al permitir la escritura de un código más claro; de otra manera porqué tomarse la molestia de crearlas y no dejar el testing framework con el uso de if’s o expresiones ternarias? Por otro lado yo nunca he visto en ningún lenguaje el uso de construcciones tan específicas (y tal número de las mismas) para hacer todo tipo de asersiones. Existe la forma de usar esto en javascript para la escritura del código de aplicación como parte del mismo? y si es así que tan práctico resultaría?
 
-	* **Cristian Daniel Marquez Barrio** (3)
+	* **Cristian Daniel Marquez Barrio** [559882] (3)
 
-		
 		Hola, te recomiendo revisar el curso de programación funcional (<https://platzi.com/cursos/funcional-js/>). El tipo de expresiones que describes es muy común utilizando programación funcional. La idea es tener código que se pueda leer como un libro.
 		
 		Yo en todos mis proyectos utilizo este estilo de programación, pues a pesar de que escribo un poco más de código, este queda mucho más claro y fácil de debuggiar.
 
-* **William Vega** (2)
+* **William Vega** (2) [57061](https://platzi.com/comentario/559882/) 
 Me quedé sorprendido de la claridad semántica de las asersiones con expect(), me pregunto si sería posible utilizar este tipo de funcione...
 
-	* **Cristian Daniel Marquez Barrio** (3)
+	* **Cristian Daniel Marquez Barrio** [57061] (3)
 
-		
 		Hola, te recomiendo revisar el curso de programación funcional (<https://platzi.com/cursos/funcional-js/>). El tipo de expresiones que describes es muy común utilizando programación funcional. La idea es tener código que se pueda leer como un libro.
 		
 		Yo en todos mis proyectos utilizo este estilo de programación, pues a pesar de que escribo un poco más de código, este queda mucho más claro y fácil de debuggiar.
 
-## 0170. Configurando el proyecto Jasmine utilizando npm
+## 0170. Configurando el proyecto Jasmine utilizando npm [18783](https://platzi.com/clases/1542-pruebas-unitarias/18783-configurando-el-proyecto-jasmine-utilizando-npm/)
 
 ### Descripción:
 
@@ -1945,9 +1871,8 @@ Algunos buenos ejemplos de cuándo instalar `devDependencies` serían _Nodemon, 
 
 ### Comentarios:
 
-* **Edison Perdomo** (7)
+* **Edison Perdomo** (7) [844420](https://platzi.com/comentario/844420/) 
 
-	
 	Si te genera fallo el npm run test:server coloca dentro del package.json la palabra node después la ruta del jasmine así
 	
 	“scripts”: {  
@@ -1960,14 +1885,12 @@ Algunos buenos ejemplos de cuándo instalar `devDependencies` serían _Nodemon, 
 	“e2e”: “ng e2e”  
 	},
 
-	* **jlrc23** (1)
+	* **jlrc23** [844420] (1)
 
-		
 		Eres un Dios, gracias!!!
 
-* **Alexander Sandoval** (6)
+* **Alexander Sandoval** (6) [556553](https://platzi.com/comentario/556553/) 
 
-	
 	El repositorio de Cristian se encuentra acá: <https://github.com/xthecapx/mean>
 	
 	Una vez clonen el repositorio ejecutan `npm install` para instalar las dependencias del proyecto.  
@@ -1975,35 +1898,30 @@ Algunos buenos ejemplos de cuándo instalar `devDependencies` serían _Nodemon, 
 	
 	Luego comenzar los archivos de configuración de Jasmine: `./node_module/jasmine/bin/jasmine.js init`
 
-* **David Marcelo Guamán Medina** (4)
+* **David Marcelo Guamán Medina** (4) [675895](https://platzi.com/comentario/675895/) 
 
-	
 	Si están en windows 10 y llegaron al minuto 3:20 y no les funciona el jasmine.js init debe usar el siguiente comando:  
 	node node_modules/jasmine/bin/jasmine init
 
-* **Jorge Velasquez** (4)
+* **Jorge Velasquez** (4) [574398](https://platzi.com/comentario/574398/) 
 
-	
 	Si tienen algún problema para inicializar el proyecto:  
 	node node_modules/jasmine/bin/jasmine.js init
 
-* **Elberth Jair Agreda Rosero** (2)
+* **Elberth Jair Agreda Rosero** (2) [783793](https://platzi.com/comentario/783793/) 
 
-	
 	Si a alguien le interesa, cree este repositorio donde configure Typescript del lado del Backend y Frontend:  
 	<https://github.com/elberthAgreda/docker-MEAN>
 
-	* **Xavier Alexandro Basir Jeffrey** (1)
+	* **Xavier Alexandro Basir Jeffrey** [783793] (1)
 
-		
 		Wow sumamente útil muchas gracias. Tenía errores por mi versión de node y npm. Y Usando docker y tu repo he podido proseguir con el curso
 
-* **David Marcelo Guamán Medina** (2)
+* **David Marcelo Guamán Medina** (2) [675913](https://platzi.com/comentario/675913/) 
 
-	
 	Ya para correr jasmine. js se utiliza el siguiente comando node node_modules/jasmine/bin/jasmine.js, esto se debe a que estamos corriendo jasmine dentro del proyecto.
 
-## 0180. Agregando Plugins a Jasmine
+## 0180. Agregando Plugins a Jasmine [18784](https://platzi.com/clases/1542-pruebas-unitarias/18784-agregando-plugins-a-jasmine/)
 
 ### Descripción:
 
@@ -2051,7 +1969,7 @@ Y, por ultimo, agregar un nuevo campo en el la sección de `scripts` del `packag
 
 ### Comentarios:
 
-## 0190. Configurando nuestro reporter
+## 0190. Configurando nuestro reporter [18785](https://platzi.com/clases/1542-pruebas-unitarias/18785-configurando-nuestro-reporter/)
 
 ### Descripción:
 
@@ -2078,9 +1996,8 @@ Vamos a usar la librería [IstanbulJS](https://istanbul.js.org):
 
 ### Comentarios:
 
-* **mauxiandrade** (4)
+* **mauxiandrade** (4) [595186](https://platzi.com/comentario/595186/) 
 
-	
 	“nyc”: {  
 	“report-dir”: “./spec/istanbul/report”,  
 	“temp-dir”: “./spec/istanbul”,  
@@ -2088,78 +2005,66 @@ Vamos a usar la librería [IstanbulJS](https://istanbul.js.org):
 	“exclude”: [ “spec/**/ _" , "server/_.spec.js” ]  
 	}
 
-	* **Ale17273has** (1)
+	* **Ale17273has** [595186] (1)
 
-		
 		Eso para que es?
 
-	* **Usuario ESolutions** (1)
+	* **Usuario ESolutions** [595186] (1)
 
-		
 		en `"exclude"` te faltó el asterisco en `"server/*.spec.js"`
 
-* **maoacrlearn** (2)
+* **maoacrlearn** (2) [678489](https://platzi.com/comentario/678489/) 
 
-	
 	Creo que me quedo con JEST,
 	
 	Que dicen ustedes ?
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [678489] (2)
 
-		
 		tambien me lllama mas la atencion JEST
 
-	* **Elberth Jair Agreda Rosero** (2)
+	* **Elberth Jair Agreda Rosero** [678489] (2)
 
-		
 		Yo igual.
 
-	* **David Behar** (1)
+	* **David Behar** [678489] (1)
 
-		
 		A mi también me late más
 
-* **Cristian De Blasis** (2)
+* **Cristian De Blasis** (2) [560569](https://platzi.com/comentario/560569/) 
 
-	
 	Esta muy bueno el reporte de cobertura!.Quisiera saber si hay algun packete o tool que realice el test de time complexity.
 	
 	Muchas gracias
 
-	* **Cristian Daniel Marquez Barrio** (2)
+	* **Cristian Daniel Marquez Barrio** [560569] (2)
 
-		
 		Para temas relacionados con los tiempos de carga de un componente Angular, suelo utilizar (<https://zizzamia.github.io/perfume/>).
 		
 		Dentro de una prueba unitaria podrías utilizar el API de javascript y arrojar errores en el caso que un determinado método demore más tiempo del esperado. Te dejo el enlace <https://developer.mozilla.org/es/docs/Web/API/Performance/now>
 
-* **Cristian De Blasis** (2)
+* **Cristian De Blasis** (2) [57100](https://platzi.com/comentario/560569/) 
 Esta muy bueno el reporte de cobertura!.Quisiera saber si hay algun packete o tool que realice el test de time complexity. Muchas gracias
 
-	* **Cristian Daniel Marquez Barrio** (2)
+	* **Cristian Daniel Marquez Barrio** [57100] (2)
 
-		
 		Para temas relacionados con los tiempos de carga de un componente Angular, suelo utilizar (<https://zizzamia.github.io/perfume/>).
 		
 		Dentro de una prueba unitaria podrías utilizar el API de javascript y arrojar errores en el caso que un determinado método demore más tiempo del esperado. Te dejo el enlace <https://developer.mozilla.org/es/docs/Web/API/Performance/now>
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618486](https://platzi.com/comentario/618486/) 
 
-	
 	De donde sacaste esas configuracion para nyc?? Quiero encotrarla en la web istanbul pero no la encuentro. Sino parece que es magia jajaja.
 
-	* **Cristian Daniel Marquez Barrio** (2)
+	* **Cristian Daniel Marquez Barrio** [618486] (2)
 
-		
 		Las configuraciones del NYC las puedes encontrar en el github del proyecto: <https://github.com/istanbuljs/nyc>
 
-* **ricardocelis (Platzi)** (1)
+* **ricardocelis (Platzi)** (1) [548049](https://platzi.com/comentario/548049/) 
 
-	
 	<https://istanbul.js.org>
 
-## 0200. Pruebas en el servidor Verificando un status 200 en GET
+## 0200. Pruebas en el servidor Verificando un status 200 en GET [18786](https://platzi.com/clases/1542-pruebas-unitarias/18786-pruebas-en-el-servidor-verificando-un-status-200-e/)
 
 ### Descripción:
 
@@ -2178,25 +2083,22 @@ Recuerda que usamos el método HTTP GET para solicitar datos de nuestra aplicaci
 
 ### Comentarios:
 
-* **William Vega** (3)
+* **William Vega** (3) [560886](https://platzi.com/comentario/560886/) 
 
-	
 	Creo que esta clase se debió dividir en 3 clases diferentes. Está fantástica, pero me costó repetir el video más de 8 veces para poder reproducir cada paso, de entre los cuales, y en mi mera opinión, se obvian muchas cosas. Soy desarrollador de Angular desde hace cuatro años y de node desde hace dos y aún así me costó bastante trabajo el concepto de los spies, especialmente de las llamadas asíncronas y de la impersonificación de los callbacks, creo que para estudiantes con menos experiencia en node, sería muy bueno explicar estos temas con un poco más de detalle. Es respetuosamente una opinión.
 
-	* **adrianrbp** (1)
+	* **adrianrbp** [560886] (1)
 El concepto de los spies es independiente del lenguaje de programación, siempre va a costar un poco más algunos conceptos nuevos, practicando haciendo tests se vuelve sencillo. También existen conceptos parecidos como mock, dummy, fake y stub que son test doubles.
 
-	* **yisus_dev** (1)
+	* **yisus_dev** [560886] (1)
 
-		
 		claro, lo que dice el compañero adrianbp es correcto. los spy es una manera de emular una funcion o un objeto para fingir un comportamiento. eso se aprende simplemente practicando, no es algo que se vea en los componentes de angular o en la programación normal de un proyecto sin pruebas. así que toca estudiar, leer, practicar y leer código de otros. saludos
 
-* **ricardocelis (Platzi)** (3)
+* **ricardocelis (Platzi)** (3) [548050](https://platzi.com/comentario/548050/) 
 
-	
 	<https://expressjs.com/es/starter/hello-world.html>
 
-## 0210. Pruebas en el servidor Probando el método GET y Reto con FindByID
+## 0210. Pruebas en el servidor Probando el método GET y Reto con FindByID [18787](https://platzi.com/clases/1542-pruebas-unitarias/18787-pruebas-en-el-servidor-probando-el-metodo-get-y-re/)
 
 ### Descripción:
 
@@ -2207,9 +2109,8 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 
 ### Comentarios:
 
-* **mauxiandrade** (3)
+* **mauxiandrade** (3) [595328](https://platzi.com/comentario/595328/) 
 
-	
 	Yo lo hice de esta forma.
 	``` 
 	    it('200 and find pin by Id', (done) => {
@@ -2231,9 +2132,8 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 	    
 	```
 
-	* **Ale17273has** (1)
+	* **Ale17273has** [595328] (1)
 
-		
 		Error and success
 		``` 
 		    < // GET findById
@@ -2263,9 +2163,8 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 		    
 		```
 
-* **Jaime Quintero Rodríguez** (2)
+* **Jaime Quintero Rodríguez** (2) [551388](https://platzi.com/comentario/551388/) 
 
-	
 	Esta es mi solucion.
 	``` 
 	    // Get 200 FindById
@@ -2303,13 +2202,12 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 	    
 	```
 
-	* **William Vega** (4)
+	* **William Vega** [551388] (4)
 
-		
 		Hola Wuolah, una pregunta, Qué pasa si hay más parámetros a una función a ser impersonada (faked)?, algo como:  
 		data.params[‘id’] … quizá? Por cierto, gracias por el aporte. 😃
 
-* **vladernn** (1)
+* **vladernn** (1) [1106377](https://platzi.com/comentario/1106377/) 
 
 	```
 	    <code>
@@ -2331,9 +2229,8 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 	    
 	```
 
-* **David Behar** (1)
+* **David Behar** (1) [1011337](https://platzi.com/comentario/1011337/) 
 
-	
 	Acá la solución del reto
 	``` 
 	      describe('GET custom pin', () => {
@@ -2370,9 +2267,8 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 	    
 	```
 
-* **David Behar** (1)
+* **David Behar** (1) [1011322](https://platzi.com/comentario/1011322/) 
 
-	
 	De dónde viene este callback?
 	
 	## Qué está llamando?
@@ -2383,12 +2279,11 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 	    
 	```
 
-	* **vladernn** (1)
+	* **vladernn** [1011322] (1)
 
-		
 		Según lo que yo entiendo es la función que devuelve en metodo find de Pins
 
-* **Andrés Muñoz** (1)
+* **Andrés Muñoz** (1) [675447](https://platzi.com/comentario/675447/) 
 
 	```
 	    describe("GET SINGLE PIN BY ID", () => {
@@ -2420,12 +2315,11 @@ El reto de la clase es volver a probar el método get pero, esta vez, recibiendo
 	    
 	```
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618581](https://platzi.com/comentario/618581/) 
 
-	
 	Como hago para validar el parametro que me llega por la url??
 
-## 0220. Pruebas en el servidor Probando el método POST (request to server)
+## 0220. Pruebas en el servidor Probando el método POST (request to server) [18788](https://platzi.com/clases/1542-pruebas-unitarias/18788-pruebas-en-el-servidor-probando-el-metodo-post-req/)
 
 ### Descripción:
 
@@ -2448,9 +2342,8 @@ En este caso, vamos a utilizar datos “falsos” para correr las pruebas: en ve
 
 ### Comentarios:
 
-* **Jaime Quintero Rodríguez** (5)
+* **Jaime Quintero Rodríguez** (5) [552190](https://platzi.com/comentario/552190/) 
 
-	
 	En el callFake el primer parametro que recibe es Pin, por lo que si no lo pones da error el test con respuesta 500.
 	
 	spyOn(Pins, ‘create’).and.callFake((pin, callBack )=> {  
@@ -2463,9 +2356,8 @@ En este caso, vamos a utilizar datos “falsos” para correr las pruebas: en ve
 	
 	Creo que esta explicación se podría mejorar, es mas una demostración de sus conocimientos que una guía para aprender porque se hacen las cosas
 
-* **mauxiandrade** (2)
+* **mauxiandrade** (2) [602161](https://platzi.com/comentario/602161/) 
 
-	
 	Quiero hacer una prueba de un caso más complejo. tengo el la siguiente clase Trxs:
 	``` 
 	    const Mysql2Base = require("./Mysql2Base");
@@ -2661,15 +2553,13 @@ En este caso, vamos a utilizar datos “falsos” para correr las pruebas: en ve
 	
 	¿Cómo manejo este casos?
 
-	* **mauxiandrade** (3)
+	* **mauxiandrade** [602161] (3)
 
-		
 		Conseguí la respuesta aquí <https://stackoverflow.com/questions/31364930/jasmine-how-to-spyon-instance-methods/31365042#31365042?newreg=778be54021bc4785a1b7a8c157568c59>  
 		Sería un buen caso para incluir en el curso.
 
-* **mario-salinas** (2)
+* **mario-salinas** (2) [573709](https://platzi.com/comentario/573709/) 
 
-	
 	Yo hice el ejercicio con request pero no entendí para que era el objeto post
 	``` 
 	    it("200", done => {
@@ -2702,30 +2592,27 @@ En este caso, vamos a utilizar datos “falsos” para correr las pruebas: en ve
 	        });```
 	```
 
-	* **Yilmer Ramiro Guativa Rincón** (1)
+	* **Yilmer Ramiro Guativa Rincón** [573709] (1)
 
-		
 		Era para colocar en cambio de objeto json en el metodo post
 
-* **mauxiandrade** (2)
+* **mauxiandrade** (2) [60202](https://platzi.com/comentario/602161/) 
 Quiero hacer una prueba de un caso más complejo. tengo el la siguiente clase Trxs: const Mysql2Base = require("./Mysql2Base"); cons...
 
-	* **mauxiandrade** (3)
+	* **mauxiandrade** [60202] (3)
 
-		
 		Conseguí la respuesta aquí <https://stackoverflow.com/questions/31364930/jasmine-how-to-spyon-instance-methods/31365042#31365042?newreg=778be54021bc4785a1b7a8c157568c59>  
 		Sería un buen caso para incluir en el curso.
 
-## 0230. Pruebas en el servidor Probando el método POST (request to PDF)
+## 0230. Pruebas en el servidor Probando el método POST (request to PDF) [18789](https://platzi.com/clases/1542-pruebas-unitarias/18789-pruebas-en-el-servidor-probando-el-metodo-post-req/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Damian Spizzirri** (2)
+* **Damian Spizzirri** (2) [618718](https://platzi.com/comentario/618718/) 
 
-	
 	Hola, quiero testear que de error este get requestPromise.get({ url: asset.url });
 	
 	Lo estoy haciendo asi, pero no anda, alguno me puede dar una mano??
@@ -2755,14 +2642,12 @@ Quiero hacer una prueba de un caso más complejo. tengo el la siguiente clase Tr
 	    
 	```
 
-	* **Ale17273has** (1)
+	* **Ale17273has** [618718] (1)
 
-		
 		Que error sale
 
-	* **mbc** (1)
+	* **mbc** [618718] (1)
 
-		
 		yo lo hice de esta manera y salio
 		``` 
 		       it('500 PDF', done => {
@@ -2786,14 +2671,14 @@ Quiero hacer una prueba de un caso más complejo. tengo el la siguiente clase Tr
 		    
 		```
 
-* **Byron Mesias Cueva Cabrera** (1)
-![reto.jpg](https://static.platzi.com/media/user_upload/reto-53ade689-5120-4ee8-a322-323c65151bee.jpg)
+* **Byron Mesias Cueva Cabrera** (1) [903777](https://platzi.com/comentario/903777/) 
+	
+	![reto.jpg](https://static.platzi.com/media/user_upload/reto-53ade689-5120-4ee8-a322-323c65151bee.jpg)
 	
 	Pruebas realizadas hasta el 97%, solo me falta el catch de la función getMetadataFromAssets
 
-* **nikosantis** (1)
+* **nikosantis** (1) [890796](https://platzi.com/comentario/890796/) 
 
-	
 	Lo hice así:
 	
 	usando el error.response.status
@@ -2817,9 +2702,8 @@ Quiero hacer una prueba de un caso más complejo. tengo el la siguiente clase Tr
 	    
 	```
 
-* **mario-salinas** (1)
+* **mario-salinas** (1) [573697](https://platzi.com/comentario/573697/) 
 
-	
 	Les dejo la manera de hacer las petición con request
 	``` 
 	    it("200 PDF", done => {
@@ -2847,35 +2731,34 @@ Quiero hacer una prueba de un caso más complejo. tengo el la siguiente clase Tr
 	        });```
 	```
 
-* **Byron Mesias Cueva Cabrera** (1)
+* **Byron Mesias Cueva Cabrera** (1) [77409](https://platzi.com/comentario/903773/) 
 Profe realice las pruebas hasta el 97% ya esta correcto, pero me falta la parte del catch de la promesa getMetadataFromAssets, no se com...
 
-# Probando Angular apps con Jasmine
+# Probando Angular apps con Jasmine [3764]
 
-## 0240. Tipos de pruebas
+## 0240. Tipos de pruebas [18790](https://platzi.com/clases/1542-pruebas-unitarias/18790-tipos-de-pruebas/)
 
 ### Descripción:
 
 
 Existen cinco tipos de pruebas, las cuales son:
 
-  * **Unitarias:** es una forma de comprobar el correcto funcionamiento de una unidad de código.
-  * **Integración** : son aquellas que se realizan en el ámbito del desarrollo de software una vez que se han aprobado las pruebas unitarias y lo que prueban es que todos los elementos unitarios que componen el software, funcionan juntos correctamente probándolos en grupo.
-  * **Funcionales:** es una prueba de tipo caja negra basada en la ejecución, revisión y retroalimentación de las funcionalidades previamente diseñadas para el software.
-  * **Carga/estrés:** la prueba de carga prueba de rendimiento utilizado para evaluar cómo actúa el sistema con una carga variable de usuarios pero dentro de los niveles esperados de la aplicación. Una prueba de estrés evalúa el sistema sometiéndolo a una carga creciente hasta que este falle.
-  * **Aceptación:** pertenecen a las últimas etapas previas a la liberación en firme de versiones nuevas a fin de determinar si cumplen con las necesidades y/o requerimientos de las empresas y sus usuarios.
+* **Unitarias:** es una forma de comprobar el correcto funcionamiento de una unidad de código.
+* **Integración** : son aquellas que se realizan en el ámbito del desarrollo de software una vez que se han aprobado las pruebas unitarias y lo que prueban es que todos los elementos unitarios que componen el software, funcionan juntos correctamente probándolos en grupo.
+* **Funcionales:** es una prueba de tipo caja negra basada en la ejecución, revisión y retroalimentación de las funcionalidades previamente diseñadas para el software.
+* **Carga/estrés:** la prueba de carga prueba de rendimiento utilizado para evaluar cómo actúa el sistema con una carga variable de usuarios pero dentro de los niveles esperados de la aplicación. Una prueba de estrés evalúa el sistema sometiéndolo a una carga creciente hasta que este falle.
+* **Aceptación:** pertenecen a las últimas etapas previas a la liberación en firme de versiones nuevas a fin de determinar si cumplen con las necesidades y/o requerimientos de las empresas y sus usuarios.
 
 
 
 ### Comentarios:
 
-* **Yilmer Ramiro Guativa Rincón** (1)
+* **Yilmer Ramiro Guativa Rincón** (1) [1084468](https://platzi.com/comentario/1084468/) 
 
-	
 	Este un recurso, es un libro gratuito de TDD (Test Driver Development)  
 	<https://uniwebsidad.com/libros/tdd?from=librosweb>
 
-## 0250. Pruebas en el frontend Probando el componente principal (App)
+## 0250. Pruebas en el frontend Probando el componente principal (App) [18822](https://platzi.com/clases/1542-pruebas-unitarias/18822-pruebas-en-el-frontend-probando-el-componente-prin/)
 
 ### Descripción:
 
@@ -2884,29 +2767,26 @@ Vamos a crear algunas pruebas para nuestro componente principal en el frontend: 
 
 El archivo `app.component.ts` se encarga de definir la lógica de nuestra aplicación. Por ahora, no tenemos nada, solo la referencia a otros componentes con tareas muy concretas que vamos a ir probando en las siguientes clases:
 
-  * `app.component.html`: Se encarga de renderizar el componente de navegación, `router-outlet`.
-  * `app.component.spec.ts`: Tiene todas las pruebas del componente App. Algunas de las pruebas por defecto no son muy útiles en este momento y vamos a reemplazarlas por algunas pruebas en el archivo `app.component.html` para confirmar que se incluye el componente `render-oulet` y la navegación funciona correctamente.
+* `app.component.html`: Se encarga de renderizar el componente de navegación, `router-outlet`.
+* `app.component.spec.ts`: Tiene todas las pruebas del componente App. Algunas de las pruebas por defecto no son muy útiles en este momento y vamos a reemplazarlas por algunas pruebas en el archivo `app.component.html` para confirmar que se incluye el componente `render-oulet` y la navegación funciona correctamente.
 
 
 
 ### Comentarios:
 
-* **Jaume Parrot Altisent** (3)
+* **Jaume Parrot Altisent** (3) [726956](https://platzi.com/comentario/726956/) 
 
-	
 	Buenas, he hecho un copy&paste del código de ejemplo, pero me aparece este error:  
 	![Captura de pantalla 2019-09-08 a las 20.57.15.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-09-08%20a%20las%2020.57.15-e43754b1-0685-4741-8a17-fe90c73acb45.jpg)  
 	No se porque no encuentra la función ‘debugElement’.  
 	Un saludo.
 
-	* **iMade** (0)
+	* **iMade** [726956] (0)
 
-		
 		Hola! Pudiste resolver este problema…?? Actualmente me sale el mismo problema.
 
-* **Daniel Puerta** (3)
+* **Daniel Puerta** (3) [625931](https://platzi.com/comentario/625931/) 
 
-	
 	Si al ejecutar ng test les sale el siguiente error:
 	``` 
 	    Data path “.builders['app-shell']” should have required property'class'
@@ -2915,42 +2795,36 @@ El archivo `app.component.ts` se encarga de definir la lógica de nuestra aplica
 	
 	Lo que deben hacer es cambiar la versión de “@angular-devkit/build-angular” a la “0.13.4” en el package.json
 
-	* **iMade** (0)
+	* **iMade** [625931] (0)
 
-		
 		Gracias! Me ayudaste
 
-	* **David Behar** (2)
+	* **David Behar** [625931] (2)
 
-		
 		Pues yo no puedo ejecutar ng 😕
 
-	* **sebastianandrada** (3)
+	* **sebastianandrada** [625931] (3)
 
-		
 		David tienes instalado angular en tu pc?
 
-	* **David Behar** (1)
+	* **David Behar** [625931] (1)
 
-		
 		Am, me parece que no, jeje 😅
 
-* **adrianrbp** (1)
+* **adrianrbp** (1) [678525](https://platzi.com/comentario/678525/) 
 Creo que las clases de acá en adelante pueden servir para cualquier frontEnd, incluyendo mobile, traduciendo cosas. Pero no sé nada de angular :D jaja, espero agregen contenido similar en otros cursos. Vuelvo cuando aprenda angular :p
 
-	* **maoacrlearn** (2)
+	* **maoacrlearn** [678525] (2)
 
-		
 		Hola !, angular es el unico curso que me falta para copletar la carrera de** Arquitectura Frontend **, pienso que si bien primero haces el curso de Angular para enteder mejor los ejercicios, lo importantes es que prestes atencion en el comportamiento de los diferentes usos de Jasmine y podras avanzar sin saber angular.
 
-	* **adrianrbp** (1)
+	* **adrianrbp** [678525] (1)
 
-		
 		Vi un poco de angular, más de react, si que estaba buscando el uso Jasmine para luego practicar BDD que es similar a TDD.
 		
 		Tu comentario me ha hecho re-pensar y continuar el curso sin saber tanto angular 😄, mil gracias!!, igual iré un poco en paralelo con el curso de angular para tenerlo de referencia.
 
-## 0260. Configurando los ciclos de vida
+## 0260. Configurando los ciclos de vida [18823](https://platzi.com/clases/1542-pruebas-unitarias/18823-configurando-los-ciclos-de-vida/)
 
 ### Descripción:
 
@@ -2961,34 +2835,31 @@ Recuerda que podemos reemplazar la función `describe` por `fdescribe` para solo
 
 ### Comentarios:
 
-* **Yilmer Ramiro Guativa Rincón** (1)
+* **Yilmer Ramiro Guativa Rincón** (1) [1090688](https://platzi.com/comentario/1090688/) 
 
-	
 	me sale el siguiente error
 	``` 
 	    hasno exported member 'routes'
 	    
 	```
 
-## 0270. Creando las pruebas del formulario Configuración
+## 0270. Creando las pruebas del formulario Configuración [18835](https://platzi.com/clases/1542-pruebas-unitarias/18835-creando-las-pruebas-del-formulario-configuracion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Andrés Cerón** (5)
+* **Andrés Cerón** (5) [548650](https://platzi.com/comentario/548650/) 
 
-	
 	Con Angular haciendo Unit Testing yo he escrito testeos haciendo SpyOn al service y un returnValue(dummyData).  
 	También he otra visto otra manera que es haciendo un con httpMock.expectOne y despues .flush(dummyData);  
 	Y en muchas partes también he visto tu manera que es hacer stubs, entonces ahora a mi pregunta.  
 	Como o cuándo se debería usar qué o cuál es la forma “correcta”?  
 	Gracias!
 
-	* **Cristian Daniel Marquez Barrio** (6)
+	* **Cristian Daniel Marquez Barrio** [548650] (6)
 
-		
 		Para este tipo de cosas mi regla es la siguiente:
 		
 		  1. Creo Stubs que cumplan con las condiciones iniciales del componente que voy a probar. Es decir, un stub que permita cumplir con las condiciones mínimas para instanciar el componente (Ejecutar el constructor y los ciclos de vida iniciales del componente).
@@ -2998,17 +2869,15 @@ Recuerda que podemos reemplazar la función `describe` por `fdescribe` para solo
 		
 		Saludos, espero te sirva la respuesta.
 
-* **Damian Spizzirri** (4)
+* **Damian Spizzirri** (4) [618832](https://platzi.com/comentario/618832/) 
 
-	
 	Yo lo que suelo hacer es crear un espia y modificar el comportamiento para que me devuelva un true, false, etc. Pero me parece que esto de los Stub es mejor.
 
-* **Andrés Cerón** (3)
+* **Andrés Cerón** (3) [56095](https://platzi.com/comentario/548650/) 
 Con Angular haciendo Unit Testing yo he escrito testeos haciendo SpyOn al service y un returnValue(dummyData). También he otra visto otra...
 
-	* **Cristian Daniel Marquez Barrio** (6)
+	* **Cristian Daniel Marquez Barrio** [56095] (6)
 
-		
 		Para este tipo de cosas mi regla es la siguiente:
 		
 		  1. Creo Stubs que cumplan con las condiciones iniciales del componente que voy a probar. Es decir, un stub que permita cumplir con las condiciones mínimas para instanciar el componente (Ejecutar el constructor y los ciclos de vida iniciales del componente).
@@ -3018,9 +2887,8 @@ Con Angular haciendo Unit Testing yo he escrito testeos haciendo SpyOn al servic
 		
 		Saludos, espero te sirva la respuesta.
 
-* **sergiocelisleon** (1)
+* **sergiocelisleon** (1) [981902](https://platzi.com/comentario/981902/) 
 
-	
 	alguien sabe como solventar este error?
 	``` 
 	    this.formFilter = this.formBuider.group({
@@ -3047,45 +2915,41 @@ Con Angular haciendo Unit Testing yo he escrito testeos haciendo SpyOn al servic
 	
 	Error: There is no FormControl instance attached to form control element with name: ‘scheduledStartDate’
 
-## 0280. Creando las pruebas necesarias para un formulario. (Primeras pruebas)
+## 0280. Creando las pruebas necesarias para un formulario. (Primeras pruebas) [18824](https://platzi.com/clases/1542-pruebas-unitarias/18824-creando-las-pruebas-necesarias-para-un-formulario-/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **adrianrbp** (1)
+* **adrianrbp** (1) [682396](https://platzi.com/comentario/682396/) 
 Interesante usar las keys del objeto y index del array para validar presencia explicita de objetos. Había visto que en los arrays se contaba la longitud para validar la presencia de nuevos datos.
 
-## 0290. Probando el caso de exito al guardar un elemento en el servidor.
+## 0290. Probando el caso de exito al guardar un elemento en el servidor. [18825](https://platzi.com/clases/1542-pruebas-unitarias/18825-probando-el-caso-de-exito-al-guardar-un-elemento-e/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **yisus_dev** (1)
+* **yisus_dev** (1) [1027322](https://platzi.com/comentario/1027322/) 
 
-	
 	¿qué es un casteo? ¿por qué en Jasmine no hablan de eso?
 	
 	Me gustaríua saber más de eso, porque en internet no es que le den mucha importancia, pero veo que es muy útil.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1027322] (1)
 
-		
 		El casteo de datos consiste en convertir un tipo de dato en otro, por ejemplo si tienes un string con el texto “2020” puedes hacer un casteo a entero y quedaría 2020. No todos los datos se pueden castear si intentas convertir un string “hola” a entero va a lanzar un error.
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [618862](https://platzi.com/comentario/618862/) 
 
-	
 	A veces se me queda la pantalla de navegador en blanco y no me carga la pantalla de Jasmine, que puede ser? Y se me queda con un cartel similar a este en la consola
 	
 	**17 06 2019 20:28:43.538:INFO [Chrome 75.0.3770 (Linux 0.0.0)]: Connected on socket _9Ym5CWQzLZKN7buAAAA with id 91918410**
 
-	* **Damian Spizzirri** (2)
+	* **Damian Spizzirri** [618862] (2)
 
-		
 		Si alguno le sirve, ya encontre el problema que al menos tenia yo,
 		
 		tenia mal este import
@@ -3096,7 +2960,7 @@ Interesante usar las keys del objeto y index del array para validar presencia ex
 		
 		Vaya uno a saber que tiene que ver, pero cambie eso y empezo a funcionar.
 
-## 0300. Trabajando con event emitters
+## 0300. Trabajando con event emitters [18826](https://platzi.com/clases/1542-pruebas-unitarias/18826-trabajando-con-event-emitters/)
 
 ### Descripción:
 
@@ -3111,26 +2975,23 @@ Además, vamos a usar el comando `ng test --codeCovegare` para tener una mejor v
 
 ### Comentarios:
 
-* **iMade** (4)
+* **iMade** (4) [979552](https://platzi.com/comentario/979552/) 
 
-	
 	La parte del test al Output fue poco clara.
 
-* **yisus_dev** (1)
+* **yisus_dev** (1) [1027180](https://platzi.com/comentario/1027180/) 
 
-	
 	osea esta parte para poder entenderla es necesario tener una buena base de Angular! es importante.
 
-## 0310. Testeando ngZone y navegación.
+## 0310. Testeando ngZone y navegación. [18836](https://platzi.com/clases/1542-pruebas-unitarias/18836-testeando-ngzone-y-navegacion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Gabriel Leonardo Pinto Pineda** (2)
+* **Gabriel Leonardo Pinto Pineda** (2) [706016](https://platzi.com/comentario/706016/) 
 
-	
 	Así implementé los tests sobre el componente “Action”
 	``` 
 	    it('should openLink', () => {
@@ -3149,7 +3010,7 @@ Además, vamos a usar el comando `ng test --codeCovegare` para tener una mejor v
 	    
 	```
 
-* **vladernn** (1)
+* **vladernn** (1) [1118040](https://platzi.com/comentario/1118040/) 
 
 	```
 	    import { async, ComponentFixture, TestBed } from "@angular/core/testing";
@@ -3224,7 +3085,7 @@ Además, vamos a usar el comando `ng test --codeCovegare` para tener una mejor v
 	    
 	```
 
-* **vladernn** (1)
+* **vladernn** (1) [1118008](https://platzi.com/comentario/1118008/) 
 
 	```
 	    it("edit mode should be true", () => {
@@ -3241,9 +3102,8 @@ Además, vamos a usar el comando `ng test --codeCovegare` para tener una mejor v
 	    
 	```
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [623778](https://platzi.com/comentario/623778/) 
 
-	
 	Configure asi para testear la ruta ‘/app/add’
 	``` 
 	    declarations: [LayoutComponent, FormComponent],
@@ -3267,42 +3127,39 @@ Además, vamos a usar el comando `ng test --codeCovegare` para tener una mejor v
 	
 	Que me falta hacer?
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [623746](https://platzi.com/comentario/623746/) 
 
-	
 	Que es ese (<any>component) que pones??
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [623733](https://platzi.com/comentario/623733/) 
 
-	
 	No me queda claro porque forzas la prueba. A caso no deberia correr y ya? Porque no te corren y tenes que forzarlo?
 
-	* **Ronnel Moises Matallana Machado** (1)
+	* **Ronnel Moises Matallana Machado** [623733] (1)
 
-		
 		Es que como forzó las otras pruebas solo corren las forzadas,  
 		en caso de no forzar ninguna, entonces corren todas, pero como el angular-cli te crea spec a todos los componentes por defecto, muchos te van a tirar errores o warning, entonces para evitar los errores y que sea mas limpio para el entendimiento de los demás el los ocultó forzando los que quiere correr solamente.
 
-## 0320. Configurando el TestBed de el componente PINs
+## 0320. Configurando el TestBed de el componente PINs [18827](https://platzi.com/clases/1542-pruebas-unitarias/18827-configurando-el-testbed-de-el-componente-pins/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jessie Buckland Pérez** (1)
+* **Jessie Buckland Pérez** (1) [78041](https://platzi.com/comentario/914215/) 
 ¿En lugar de utilizar el JSON.* y los dos métodos para PINS podriamos utilizar …PINS? Es decir, en lugar de JSON usar la desestructuració...
 
-## 0330. Creando un espia sobre el objecto window
+## 0330. Creando un espia sobre el objecto window [18828](https://platzi.com/clases/1542-pruebas-unitarias/18828-creando-un-espia-sobre-el-objecto-window/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-# Pruebas de integración de Angular apps con Jasmine
+# Pruebas de integración de Angular apps con Jasmine [3769]
 
-## 0340. Ejecutando funciones a través de eventos en el template
+## 0340. Ejecutando funciones a través de eventos en el template [18829](https://platzi.com/clases/1542-pruebas-unitarias/18829-ejecutando-funciones-a-traves-de-eventos-en-el-tem/)
 
 ### Descripción:
 
@@ -3313,23 +3170,22 @@ Vamos a ejecutar algunas de estas pruebas en nuestros templates pero dependiendo
 
 ### Comentarios:
 
-## 0350. Probando la navegación
+## 0350. Probando la navegación [18837](https://platzi.com/clases/1542-pruebas-unitarias/18837-probando-la-navegacion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-## 0360. Probando servicios con HTTP
+## 0360. Probando servicios con HTTP [18830](https://platzi.com/clases/1542-pruebas-unitarias/18830-probando-servicios-con-http/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [625247](https://platzi.com/comentario/625247/) 
 
-	
 	En que parte del codigo le estoy diciendo que si la ruta es /test me tiene que retornar “testing”, no entendi eso.
 	``` 
 	      service.get('/test').subscribe(response => {
@@ -3338,24 +3194,22 @@ Vamos a ejecutar algunas de estas pruebas en nuestros templates pero dependiendo
 	      });
 	```
 
-* **Damian Spizzirri** (1)
+* **Damian Spizzirri** (1) [625246](https://platzi.com/comentario/625246/) 
 
-	
 	No entendi el final, para que sirve el req.flush??
 
-	* **Luis José Leopardi Velásquez** (2)
+	* **Luis José Leopardi Velásquez** [625246] (2)
 
-		
 		Con el flush básicamente estas entregando los valores que has mockeado como respuesta del servidor
 
-## 0370. Completando las pruebas del servicio HTTP
+## 0370. Completando las pruebas del servicio HTTP [18838](https://platzi.com/clases/1542-pruebas-unitarias/18838-completando-las-pruebas-del-servicio-http/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-## 0380. Cierre del curso
+## 0380. Cierre del curso [18831](https://platzi.com/clases/1542-pruebas-unitarias/18831-cierre-del-curso/)
 
 ### Descripción:
 
@@ -3366,9 +3220,9 @@ En este curso aprendimos a trabajar con Jasmine a nivel profesional: integramos 
 
 Vamos a repasar algunas buenas prácticas para trabajar en Unit Testing:
 
-  * Usar un sistema de control versiones como [GIT](https://git-scm.com) para facilitar la revisión de código con nuestros equipos y configurar herramientas de buenas prácticas (como linters y herramientas de tipado).
-  * Crear archivos separados con el _stub_ de una clase específica en vez de crear _stubs_ en cada uno de nuestros archivos de pruebas.
-  * Tu fuente de información siempre debe ser la página oficial de las herramientas que estas utilizando, en este caso, a la documentación oficial de Jasmine: [jasmine.github.io](https://jasmine.github.io).
+* Usar un sistema de control versiones como [GIT](https://git-scm.com) para facilitar la revisión de código con nuestros equipos y configurar herramientas de buenas prácticas (como linters y herramientas de tipado).
+* Crear archivos separados con el _stub_ de una clase específica en vez de crear _stubs_ en cada uno de nuestros archivos de pruebas.
+* Tu fuente de información siempre debe ser la página oficial de las herramientas que estas utilizando, en este caso, a la documentación oficial de Jasmine: [jasmine.github.io](https://jasmine.github.io).
 
 
 
@@ -3380,19 +3234,16 @@ Recuerda dejar todas tus dudas y comentarios en el sistema de discusiones de Pla
 
 ### Comentarios:
 
-* **francves17** (3)
+* **francves17** (3) [722471](https://platzi.com/comentario/722471/) 
 
-	
 	Existe algún repositorio con el código del proyecto y las pruebas realizadas en el curso?
 
-	* **David Behar** (1)
+	* **David Behar** [722471] (1)
 
-		
 		Sí, se encuentra acá: <https://github.com/xthecapx/mean>
 
-* **Jaime Quintero Rodríguez** (1)
+* **Jaime Quintero Rodríguez** (1) [562181](https://platzi.com/comentario/562181/) 
 
-	
 	Estoy intentando hacer las pruebas de este codigo, pero por mas que intento no consigo solucionarlo. Si alguien puede ayudarme
 	``` 
 	    import { Component } from '@angular/core';
@@ -3433,14 +3284,12 @@ Recuerda dejar todas tus dudas y comentarios en el sistema de discusiones de Pla
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [562181] (1)
 
-		
 		Cuéntanos que problema te da para poder ayudarte.
 
-	* **Cristian Daniel Marquez Barrio** (1)
+	* **Cristian Daniel Marquez Barrio** [562181] (1)
 
-		
 		Te recomiendo comenzar creando stubs para cada uno de los servicios que estas inyectando en el constructor y centrarte en completar el flujo principal de `initializeApp`.
 		
 		  1. El servicio `platform` debe tener un método `ready()` que retorne un `Promise.resolve('data')`;
@@ -3452,9 +3301,8 @@ Recuerda dejar todas tus dudas y comentarios en el sistema de discusiones de Pla
 		
 		
 
-	* **Jaime Quintero Rodríguez** (1)
+	* **Jaime Quintero Rodríguez** [562181] (1)
 
-		
 		Este es mi spec.ts. No me identifica Platfom.ready() como funcion y nisiquiera estoy realizando ninguna prueba
 		``` 
 		    <import { NO_ERRORS_SCHEMA, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
@@ -3560,9 +3408,8 @@ Recuerda dejar todas tus dudas y comentarios en el sistema de discusiones de Pla
 		    
 		```
 
-	* **Cristian Daniel Marquez Barrio** (1)
+	* **Cristian Daniel Marquez Barrio** [562181] (1)
 
-		
 		Debería ser:
 		
 		  1. `{ provide: Platform, useClass: PlatformStub },`
@@ -3570,11 +3417,10 @@ Recuerda dejar todas tus dudas y comentarios en el sistema de discusiones de Pla
 		
 		
 
-* **Jaime Quintero Rodríguez** (1)
+* **Jaime Quintero Rodríguez** (1) [57221](https://platzi.com/comentario/562181/) 
 Estoy intentando hacer las pruebas de este codigo, pero por mas que intento no consigo solucionarlo. Si alguien puede ayudarme impo...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57221] (1)
 
-		
 		Cuéntanos que problema te da para poder ayudarte.
 

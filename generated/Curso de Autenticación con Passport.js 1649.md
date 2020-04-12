@@ -1,6 +1,8 @@
-# Aprender sobre autenticación y autorización
+[Curso de Autenticación con Passport.js 1649](https://platzi.com/cursos/passport)
 
-## 0010. Introducción y bienvenida
+# Aprender sobre autenticación y autorización [4404]
+
+## 0010. Introducción y bienvenida [21972](https://platzi.com/clases/1649-passport/21972-introduccion-y-bienvenida/)
 
 ### Descripción:
 
@@ -17,77 +19,67 @@ Este curso es un complemento de la **Escuela de JavaScript** una carrera en la c
 
 ### Comentarios:
 
-* **jasanhdz** (7)
+* **jasanhdz** (7) [775008](https://platzi.com/comentario/775008/) 
 
-	
 	Hola, tal vez mis notas del curso te sean de mucha utilidad en esté proceso de aprendizaje:  
 	<https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md>  
 	Te invito a hacer un `fork` y que sigas mejorando mi contenido, espero haberlos ayudado. 😄
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [775008] (1)
 
-		
 		Muchas gracias compañero.
 
-	* **Miguel Ángel Portillo Bobadilla** (1)
+	* **Miguel Ángel Portillo Bobadilla** [775008] (1)
 
-		
 		Muchas gracias!
 
-* **JaimeRamos** (4)
+* **JaimeRamos** (4) [725768](https://platzi.com/comentario/725768/) 
 
-	
 	Si Guillermo es el profesor, esto pinta bien…
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [740163](https://platzi.com/comentario/740163/) 
 Gracias a expressjs aprendí a trabajar con un framework, antes mis desarrollos eran desde cero
 
-* **Brando Rodríguez** (3)
+* **Brando Rodríguez** (3) [703099](https://platzi.com/comentario/703099/) 
 El primero 💛 escuela javascript !!
 
-* **jesus-olivares661** (1)
+* **jesus-olivares661** (1) [1018501](https://platzi.com/comentario/1018501/) 
 
-	
 	esta bien que use passport con el paquete accesscontrol…?  
 	ó con passporwt es suficiente…?
 
-* **jesus-olivares661** (1)
+* **jesus-olivares661** (1) [1016636](https://platzi.com/comentario/1016636/) 
 
-	
 	si veo este curso no es necesario q vea el curso de autenticacion con oauth…?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1016636] (2)
 
-		
 		En este curso se ve OAuth, sin embargo para aprenderlo a fondo deberías ver el [Curso de OAuth](https://platzi.com/clases/autenticacion-oauth/). Acá solo se da una especie de introducción 😄
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [932143](https://platzi.com/comentario/932143/) 
 
-	
 	:gree
 
-* **Juan Carlos García Esquivel** (1)
+* **Juan Carlos García Esquivel** (1) [830537](https://platzi.com/comentario/830537/) 
 
-	
 	Plugins recomendados:  
 	[JSON viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)  
 	[Postman](https://www.getpostman.com/)
 
-	* **robertarnaldo99** (2)
+	* **robertarnaldo99** [830537] (2)
 
-		
 		Excelente.
 
-## 0020. Stack de seguridad moderno
+## 0020. Stack de seguridad moderno [21973](https://platzi.com/clases/1649-passport/21973-stack-de-seguridad-moderno/)
 
 ### Descripción:
 
 
 Anteriormente las compañías se comunicaban mediante un _intranet_ que actualmente ha sido reemplazado con un stack de seguridad moderno usando:
 
-  * **JSON Web Tokens:** Nos permite comunicarnos entre dos clientes de una manera más segura.
-  * **OAuth 2.0:** Un estándar de la industria que nos permite implementar autorización.
-  * **OpenID Connect:** Es una capa de autenticación que funciona por encima de _Oauth 2.0_.
+* **JSON Web Tokens:** Nos permite comunicarnos entre dos clientes de una manera más segura.
+* **OAuth 2.0:** Un estándar de la industria que nos permite implementar autorización.
+* **OpenID Connect:** Es una capa de autenticación que funciona por encima de _Oauth 2.0_.
 
 
 
@@ -101,27 +93,24 @@ Anteriormente las compañías se comunicaban mediante un _intranet_ que actualme
 
 ### Comentarios:
 
-* **Jose Daniel Barría Reyes** (5)
+* **Jose Daniel Barría Reyes** (5) [751312](https://platzi.com/comentario/751312/) 
 
-	
 	No confundir autorizacion con autentificacion.
 
-* **wilantury** (1)
+* **wilantury** (1) [822690](https://platzi.com/comentario/822690/) 
 
-	
 	Stack de seguridad moderno: JWT - OAuth 2.0 - OpenID Connect
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68415](https://platzi.com/comentario/740174/) 
 En que se diferencia la autenticación de la autorización. Ya que passport se emplea para hacer login con varios servicios de red social t...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [68415] (2)
 
-		
 		👉 [👮 Autenticación 🆚 Autorización 🤖](https://platzi.com/comentario/445213/)  
 		👉 [Hablemos sobre Estándares de Seguridad y OAuth 2.0](https://platzi.com/blog/aprende-estandares-de-seguridad-y-oauth/)  
 		👉 [A tu autenticación le hace falta verificación](https://platzi.com/blog/a-tu-autenticacion-le-hace-falta-verificacion/)
 
-## 0030. ¿Qué es la autenticación y la autorización
+## 0030. ¿Qué es la autenticación y la autorización [21974](https://platzi.com/clases/1649-passport/21974-que-es-la-autenticacion-y-la-autorizacion/)
 
 ### Descripción:
 
@@ -132,47 +121,41 @@ La autorización es la acción de permitir a un usuario acceso limitado a nuestr
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (2)
+* **Juan Carlos García Esquivel** (2) [830553](https://platzi.com/comentario/830553/) 
 
-	
 	 **¿Qué es la autenticación y la autorización?**  
 	**autenticación** : verificar quien eres.  
 	**autorización** : verifica que permisos tienes.  
 	En el ejemplo del valet parking las dos llaves son un método de **autenticación** para poder utilizar el auto, pero tienen distintos niveles de **autorizacion** permisos para usar el auto.
 
-* **David Behar** (2)
+* **David Behar** (2) [813877](https://platzi.com/comentario/813877/) 
 
-	
 	Un usuario está **autenticado** (de manera única) mediante una **autenticación** (contraseña, biométrico, etc).
 	
 	El usuario autenticado tiene **autorizado** ciertos permisos.
 
-* **gabotk** (2)
+* **gabotk** (2) [757365](https://platzi.com/comentario/757365/) 
 
-	
 	Muy interesante.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [740216](https://platzi.com/comentario/740216/) 
 Ya veo, de ahí la importancia de las sesiones para guardar cierta data del usuario en el servidor para saber si está autenticado o no y con una consulta obtener más información acerca de el. Pero recuerdo que en un libro decían que las spa no tienen sistema de sesiones, ya que el Index se entrega solo una una vez
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [740216] (1)
 
-		
 		Las SPA si tienen un sistema de sesiones utilizando Session Storage o Local Storage ya que JavaScript ha avanzado mucho actualmente
 
-* **solej77** (1)
+* **solej77** (1) [812235](https://platzi.com/comentario/812235/) 
 
-	
 	Al principio del video comienzan a hablar sobre autenticación, pero en la presentación hacen referencia a la autorización.
 	
 	Saludos!!
 
-	* **Emmanuel Rodríguez Ramírez** (1)
+	* **Emmanuel Rodríguez Ramírez** [812235] (1)
 
-		
 		Cabe mencionar que “Todo usuario requiere/necesita autenticación. Sin embargo, no todos los usuarios tienen autorización a uno/varios recursos”.
 
-## 0040. Introducción a las sesiones
+## 0040. Introducción a las sesiones [21975](https://platzi.com/clases/1649-passport/21975-introduccion-a-las-sesiones/)
 
 ### Descripción:
 
@@ -187,31 +170,26 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 
 ### Comentarios:
 
-* **diegoguevaraco** (9)
+* **diegoguevaraco** (9) [703011](https://platzi.com/comentario/703011/) 
 
-	
 	Autenticación: Quien soy yo.  
 	Autorización: Que puedo hacer.
 
-* **Massimo Di Berardino** (4)
+* **Massimo Di Berardino** (4) [888370](https://platzi.com/comentario/888370/) 
 
-	
 	 **Autenticación** : Cuando inicio sesión en platzi.  
 	**Autorización** : Cuando no me deja acceder a los cursos de ingles por que tengo la suscripcion mensual 😦
 
-	* **oscar-leon846** (1)
+	* **oscar-leon846** [888370] (1)
 
-		
 		xD
 
-* **Navarrock33** (4)
+* **Navarrock33** (4) [763479](https://platzi.com/comentario/763479/) 
 
-	
 	Ejemplo: Visito una zona arqueologica, compro mi pase y me dan un boleto (autenticacion)… dentro de la zona arqueologica veo una pieza muy bonita y quiero tomarla por un momento pero no puedo porque el guia dice que no estoy <autorizado> para hacerlo ya que las politicas del lugar no me lo permiten y ello viene explicitamente indicado en mi boleto.
 
-* **Jesús Miguel Quinto Teran** (3)
+* **Jesús Miguel Quinto Teran** (3) [932220](https://platzi.com/comentario/932220/) 
 
-	
 	Autentificación: Las credenciales son correctas y se quien eres  
 	Autorización: Puedes tener acceso al recurso que intentas acceder.
 	
@@ -219,28 +197,24 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	Autentificación: Tu documento de identidad me permite saber quien eres.  
 	Autorización: Pero no puedes comprar Cerveza por ser menor de edad.
 
-* **alexibarra11** (2)
+* **alexibarra11** (2) [1099451](https://platzi.com/comentario/1099451/) 
 
-	
 	**Autenticacion:**Unicamente saber cual es la identidad del usuario  
 	**Autorizacion:**Saber que puede hacer ese usuario
 
-* **jvasquez507** (2)
+* **jvasquez507** (2) [991798](https://platzi.com/comentario/991798/) 
 
-	
 	Autenticación: Ingreso a mi banca móvil utilizando un factor biométrico (huella dactilar/reconocimiento facial).  
 	Autorización: Dependiendo de mi perfil puedo hacer transacciones o solamente consultas.  
 	Doble factor de autenticación: Una vez accedo a mi banca móvil y estoy autorizado para hacer transacciones, me piden que ingrese un token, proveniente de un dispositivo físico o un soft-token en mi celular, para autenticar nuevamente mi identidad.
 
-* **pablopoggiog** (2)
+* **pablopoggiog** (2) [919496](https://platzi.com/comentario/919496/) 
 
-	
 	 **Autenticacion** : Cuando compro mi entrada e ingreso al parque de diversiones.  
 	**Autorizacion** : Cuando no puedo subir a los mejores juegos, porque soy un raton y pague la entrada basica ![](https://www.generadormemes.com/media/created/200x200x13q2duetlwgwxzcr76hl5vobhe9r644tqlz253mmslf23jgd1gnslp9ga7qy9ou.jpg.pagespeed.ic.imagenes-memes-fotos-frases-graciosas-chistosas-divertidas-risa-chida-espa%C3%B1ol-whatsapp-facebook.jpg)
 
-* **David Behar** (2)
+* **David Behar** (2) [813897](https://platzi.com/comentario/813897/) 
 
-	
 	Las sesiones son conversaciones temporales entre el usuario y el servidor donde se guarda la actividad del primero para que el segundo genere la interactividad (muestre la información correcta)  
 	.  
 	El proceso de una sesión es:  
@@ -253,129 +227,111 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	
 	Las librerías para guardar esta información son `cookies-session` (guarda en **navegador** ) y `express-session` (guarda en **servidor** )
 
-* **AryRosvall** (2)
+* **AryRosvall** (2) [807527](https://platzi.com/comentario/807527/) 
 
-	
 	La autenticación en platzi es acceder con mis credenciales usuario y contraseña para iniciar sesión.
 	
 	La autorización sería validar que tipo de membresía adquirí para saber a qué cursos tengo acceso.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [740683](https://platzi.com/comentario/740683/) 
 
-	
 	Ejemplo: Un sitio web que cumpla la función de una plataforma de servicios educativos
 	
-	  * La parte pública es aquella información que puede ser consumida por todos los usuarios que visitan el sitio.  
+	* La parte pública es aquella información que puede ser consumida por todos los usuarios que visitan el sitio.  
 	La parte privada es aquella que pueden visualizar los estudiantes de dicha plataforma, es decir, solo usuarios autenticados pueden acceder a dicha información  
 	Las autorizaciones: La plataforma tiene una parte administrativa para la gestión de información, solo pueden acceder a ella usuarios con rol o privilegios de administrador.
 	
 	
 
-* **JaimeRamos** (2)
+* **JaimeRamos** (2) [725841](https://platzi.com/comentario/725841/) 
 
-	
 	cuando visitas un sitio web se crea una petición http, diferentes peticiones http nunca comparten información entre sí, la manera para compartir información entre peticiones http es mediante una sesión, cada vez que visitamos un sitio web se crea una sesión en la aplicación, que de acuerdo a lo ocurrido en la navegación se guarda información o preferencias, luego esa sesión genera un id que se guarda en una cookie, la cookie es un archivo que se almacena en tu navegador, para que cuando cierres el navegador la cookie permanezca con el id de la sesión y así se relaciona con las próximas sesiones, cuando hay un proceso de autenticación la sesión se almacena y de relaciona con tu usuario.  
 	cookie-session nos permite almacenar la sesión en la cookie mientras que express-session nos permite almacenar la sesión en memoria en el lado del servidor, json web tokens no tiene estado y por lo tanto no necesita memoria.
 
-* **giothcode** (2)
+* **giothcode** (2) [706784](https://platzi.com/comentario/706784/) 
 
-	
 	 ** _Autenticación_** : Verificar que el usuario sea quien dice ser.  
 	**_Autorización_** : Los permisos a los recursos que le otorgamos al usuario.
 
-* **ejgachancipa** (1)
+* **ejgachancipa** (1) [1041439](https://platzi.com/comentario/1041439/) 
 
-	
 	 **Autenticación:** Cuando verifican tu identidad en migración a la hora de tomar un vuelo.  
 	**Autorización:** Cuando te permiten subir al vuelo que coincide con tu ticket.
 
-* **José Abdiel Ortega Vázquez** (1)
+* **José Abdiel Ortega Vázquez** (1) [1029470](https://platzi.com/comentario/1029470/) 
 
-	
 	Autenticación: Cuando llegas a un club y le dices tu nombre al cadenero o te identificas.  
 	Autorización: Una veź entras los meseros de acuerdo a la información que diste determinan si tienes reserva o tienes acceso a ciertos lugares del club.
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [1020987](https://platzi.com/comentario/1020987/) 
 
-	
 	Autenticacion: Cuando creo una cuenta para poder llenar un formulario usuario.
 	
 	Autorizacion: Cuando el responsable de la aplicacion necesita tener acceso a la informacion obtenida a travez del formulario de registro.
 
-* **Deyvis Neyser Valdez Gavilan** (1)
+* **Deyvis Neyser Valdez Gavilan** (1) [1006026](https://platzi.com/comentario/1006026/) 
 
-	
 	Authentication: Cuando compro mis entradas al cine y me dejan ingresar.  
 	Authorization: Cuando solo me dejan acceder una sala en específica.
 
-* **Alan Mena** (1)
+* **Alan Mena** (1) [990296](https://platzi.com/comentario/990296/) 
 
-	
 	Autenticación: Cuando en una MacBook se tienen varios usuarios/familia. Se le permite ingresar al usuario con sus credenciales y hacer uso del MacBook.  
 	Autorización: Dependiendo el usuario/familiar, se le permite realizar ciertas tareas (Instalar, crear, borrar archivos) dependiente de los permisos de su perfil.
 
-* **Alex Junior Rodriguez Huerta** (1)
+* **Alex Junior Rodriguez Huerta** (1) [977536](https://platzi.com/comentario/977536/) 
 
-	
 	Autenticación: Cuando puedo ingresar con mi pase al edificio de mi trabajo.  
 	Autorización: El pase solo me deja subir al piso 3 y 4.
 
-* **crimiro** (1)
+* **crimiro** (1) [965032](https://platzi.com/comentario/965032/) 
 
-	
 	Autentificación: Cita en un corporativo donde se requiere identificarse para acceder  
 	Autorización: Dan una llave de acceso para solamente ir a cierta planta del edificio y volver a planta baja
 
-* **René Sanchez** (1)
+* **René Sanchez** (1) [849921](https://platzi.com/comentario/849921/) 
 
-	
 	Autenticación => Para ingresar mi hora de llegada pondre mi huella y me saldra registrado entrada exitosamente por que yo existo en la base de datos e activo.
 	
 	Autorizacion => No tengo autorizacion para poder volver a ingresar mi entrada luego que sali durante el transcurso del dia, por ende me sale que no tengo autorizado poder ingresarlo nuevamente.
 
-* **wilantury** (1)
+* **wilantury** (1) [822743](https://platzi.com/comentario/822743/) 
 
-	
 	Autenticación: El personal que puede acceder a un edificio puede hacerlo autenticándose en la recepción del edificio.  
 	Autorización: cada persona tiene permisos diferentes dentro del edificio, según su perfil puede acceder a ciertos espacios, y habrán otros espacios a los que no podrá entrar.
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [811746](https://platzi.com/comentario/811746/) 
 
-	
 	Autenticación: Cuando vas a un concierto solo apto para mayores de edad y te piden tu documento de identidad.
 	
 	Autorización: después de validado el documento se revisa el tipo de boleto que traes VIP, platea, general y según eso te autorizan el paso a cada uno de los lugares indicados.
 
-* **ennma5** (1)
+* **ennma5** (1) [806375](https://platzi.com/comentario/806375/) 
 
-	
 	Autenticación: Cuando el guardia de seguridad del trabajo te ve y te deja pasar a la recepción y revisa que no traigas armas.
 	
 	Autorización: Cuando ocupas tu tarjeta de acceso para ingresar a las oficinas y a los diferentes pisos.
 
-* **Tonalli López** (1)
+* **Tonalli López** (1) [740374](https://platzi.com/comentario/740374/) 
 
-	
 	autenticación: saber si el usuario es realmente el usuario  
 	autorización: las acciones que puede realizar el usuario
 
-* **JaimeRamos** (1)
+* **JaimeRamos** (1) [725828](https://platzi.com/comentario/725828/) 
 
-	
 	este curso me va a servir para autenticar usuarios desde un aplicativo móvil(react-native)?
 
-* **Rubén Jiménez Torres** (0)
+* **Rubén Jiménez Torres** (0) [823400](https://platzi.com/comentario/823400/) 
 
-	
 	Facil:  
 	Autenticación --> llego a un antro con previa cita y me dejan pasar porque ya aparezco en la lista.  
 	Autorización --> solo tengo acceso a la una zona del antro, no puedo ir al VIP(al menos que pague).
 	
 	Jaja. saludos!!!
 
-# Conocer qué son los JSON Web Tokens
+# Conocer qué son los JSON Web Tokens [4405]
 
-## 0050. Anatomía de un JWT
+## 0050. Anatomía de un JWT [21976](https://platzi.com/clases/1649-passport/21976-anatomia-de-un-jwt/)
 
 ### Descripción:
 
@@ -388,9 +344,8 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 
 ### Comentarios:
 
-* **Rafael Guzmán Barranco** (5)
+* **Rafael Guzmán Barranco** (5) [768457](https://platzi.com/comentario/768457/) 
 
-	
 	Un JWT consta de tres partes generalmente divididas por punto, ejemplo:
 	
 	eyJdudsjfhjdfdf.yudfndjfnjdfnsjfsfhsbfjsbd.nSDFsersfsdfsf  
@@ -400,20 +355,20 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	
 	Tiene 2 atributos:
 	
-	  * El tipo que en este caso siempre debe ser JWT
-	  * El algoritmo de encriptación de la firma 
-	    * Asíncrono 
-	      * Usan dos llaves de encriptación 
-	        * Privada 
-	          * Desencripta
-	        * Pública 
-	          * Encripta
-	      * Se deben usar donde en partes públicas que puedan tener acceso a esta llave
-	    * Síncrono 
-	      * Usa la misma llave para 
-	        * Encriptar
-	        * Desencriptar
-	      * Sólo se deben usar en el Backend
+	* El tipo que en este caso siempre debe ser JWT
+	* El algoritmo de encriptación de la firma 
+	  * Asíncrono 
+	    * Usan dos llaves de encriptación 
+	      * Privada 
+	        * Desencripta
+	      * Pública 
+	        * Encripta
+	    * Se deben usar donde en partes públicas que puedan tener acceso a esta llave
+	  * Síncrono 
+	    * Usa la misma llave para 
+	      * Encriptar
+	      * Desencriptar
+	    * Sólo se deben usar en el Backend
 	
 	
 	
@@ -421,36 +376,34 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	
 	Guarda toda la información de:
 	
-	  * Usuarios
-	  * Scopes de autorización,
-	  * Se componen de Claims 
-	    * Se representan por tres letras para mantener el JSon muy pequeño
-	    * Tipos de Claims 
-	      * Registered Claims _(Tienen una defección propia y deben respetarse)_
-	      * Public Claims _(Son una lista que pueden usar y están definidos)_
-	      * Private Claims _(Son los que uno mismo defina para la aplicación)_
+	* Usuarios
+	* Scopes de autorización,
+	* Se componen de Claims 
+	  * Se representan por tres letras para mantener el JSon muy pequeño
+	  * Tipos de Claims 
+	    * Registered Claims _(Tienen una defección propia y deben respetarse)_
+	    * Public Claims _(Son una lista que pueden usar y están definidos)_
+	    * Private Claims _(Son los que uno mismo defina para la aplicación)_
 	
 	
 	
 	Signature  
 	Hace poderoso al JWT y se compone por:
 	
-	  * Header codificado
-	  * Payload codificado
-	  * Se emplea un Secret
+	* Header codificado
+	* Payload codificado
+	* Se emplea un Secret
 	
 	
 
-* **jasanhdz** (4)
+* **jasanhdz** (4) [775009](https://platzi.com/comentario/775009/) 
 
-	
 	Hola, tal vez mis notas del curso te sean de mucha utilidad en esté proceso de aprendizaje:  
 	<https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md>  
 	Te invito a hacer un `fork` y que sigas mejorando mi contenido, espero haberlos ayudado. 😄
 
-* **JaimeRamos** (3)
+* **JaimeRamos** (3) [725865](https://platzi.com/comentario/725865/) 
 
-	
 	un JWT consta de tres partes generalmente divididas por punto:  
 	-header  
 	tiene 2 atributos, el tipo que en este caso siempre debe ser jwt y el algoritmo de encriptación de la firma  
@@ -458,9 +411,8 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	se guarda toda la información de los usuarios incluso todos los scopes de autorización, esos payloads se componen de claims  
 	-signature:es el header codificado + el payload codificado,a todo esto se le aplica el algoritmo de encriptación usando un secret
 
-* **David Behar** (2)
+* **David Behar** (2) [813911](https://platzi.com/comentario/813911/) 
 
-	
 	Un JSON Web Token es un estandar que nos permite generar demandas entre 2 clientes de manera segura.  
 	.  
 	Un JWT está encriptado, pero tiene 3 partes principales divididas por ‘.’ (punto)  
@@ -472,7 +424,7 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	
 	
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [932279](https://platzi.com/comentario/932279/) 
 <h1>NOTAS</h1>
 	
 	## JWT (json web token)
@@ -487,9 +439,9 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	
 	Los JWT se componen de 3 partes:
 	
-	  * `HEADER`: Alg y typ
-	  * `PAYLOAD`: Claims (diccionario con informacion no sensible, preferiblemente corta)
-	  * `SIGNATURE`: header y payload encriptado
+	* `HEADER`: Alg y typ
+	* `PAYLOAD`: Claims (diccionario con informacion no sensible, preferiblemente corta)
+	* `SIGNATURE`: header y payload encriptado
 	
 	<h4>alg:</h4>
 	
@@ -498,39 +450,35 @@ Cuando visitamos un sitio por primera vez se crea una sesión con los ajustes qu
 	`Algoritmo sincrono`: Para Autentificacion en el backend  
 	`Algoritmo asíncrono`: Para Autentificacion con llave publica y privada.
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [910216](https://platzi.com/comentario/910216/) 
 
-	
 	Alguíen podría por favor explicarme de manera sencilla que hace y como funciona realmente los Claims?
 
-	* **oscar-leon846** (1)
+	* **oscar-leon846** [910216] (1)
 
-		
 		los claims pueden contener
 		
-		  * informacion del usuario, podria ser nombre, scopes (trata de no poner informacion sencible) (private claims)
+		* informacion del usuario, podria ser nombre, scopes (trata de no poner informacion sencible) (private claims)
 		
-		  * informacion de la peticion (claim), para esto se usa los registered claims, iss(issuer), sub(subject), aud(Audience)
+		* informacion de la peticion (claim), para esto se usa los registered claims, iss(issuer), sub(subject), aud(Audience)
 		
-		  * diferentes aplicaciones se podrian usar tu servicio y si fuera necesario, deberas definir unos claim para que la comunicacion sea efectiva(public claims), se aconseja que sigas el estandard de los registered claims
+		* diferentes aplicaciones se podrian usar tu servicio y si fuera necesario, deberas definir unos claim para que la comunicacion sea efectiva(public claims), se aconseja que sigas el estandard de los registered claims
 		
 		
 		
 
-* **wilantury** (1)
+* **wilantury** (1) [822749](https://platzi.com/comentario/822749/) 
 
-	
 	Los algoritmos síncronos se deben usar en el backend, y los algoritmos asíncronos en donde una de las partes sea publica.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68460](https://platzi.com/comentario/740748/) 
 He observado que los bancos, usan frecuentemente los tokens para realizar alguna acción en sus sistemas. Si tu decides generar tu estado ...
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [68460] (1)
 
-		
 		No, actualmente no poseemos ningún ejemplo de esto pero a eso se le llama SMS Token y hay muchos servicios que te pueden ayudar a integrarlo n.n
 
-## 0060. Autenticación tradicional vs JWT
+## 0060. Autenticación tradicional vs JWT [21977](https://platzi.com/clases/1649-passport/21977-autenticacion-tradicional-vs-jwt/)
 
 ### Descripción:
 
@@ -539,9 +487,8 @@ Cuando usamos una autenticación tradicional se crea una sesión y el ID de esa 
 
 ### Comentarios:
 
-* **David Behar** (9)
+* **David Behar** (9) [813926](https://platzi.com/comentario/813926/) 
 
-	
 	## Auth tradicional
 	
 	  1. Se crea una sesión (el id se almacena en una cookie)
@@ -571,23 +518,21 @@ Cuando usamos una autenticación tradicional se crea una sesión y el ID de esa 
 	
 	
 
-* **David Behar** (2)
+* **David Behar** (2) [72319](https://platzi.com/comentario/813928/) 
 Si llegamos a saber cuál es el algoritmo de encriptación (usando alguno tradicional) ¿no acabaríamos comprometiendo toda nuestra app?
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [72319] (1)
 
-		
 		Para romper los algoritmos de encriptación actuales necesitas a parte de conocer cómo funciona el algoritmo, una llave secreta que es muy difícil de conseguir. Por lo que ya no basta con sólo saber el algoritmo.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68419](https://platzi.com/comentario/740248/) 
 En aplicaciones spa modernas el JWT se guarda en cookies o en localstorage. Digamos si mi API va a ser consumida por un spa o aplicación ...
 
-	* **IvanDev** (3)
+	* **IvanDev** [68419] (3)
 
-		
 		Lo más recomendable es guardarlo en memoria, ya que si alguien tiene acceso a este token lo puede usar mientras este no expire.
 
-## 0070. Firmando y Verificando nuestro JWT
+## 0070. Firmando y Verificando nuestro JWT [21978](https://platzi.com/clases/1649-passport/21978-firmando-y-verificando-nuestro-jwt/)
 
 ### Descripción:
 
@@ -608,10 +553,10 @@ Para verificar nuestro token lo haremos de la siguiente manera:
 
 Como primer atributo recibiremos el token, de segundo atributo el secreto de la firma y como tercer argumento (opcional) recibiremos el token decodificado.
 
-  * Vamos a inicializar nuestro proyecto con `npm init -y`
-  * Crearemos el archivo `index.js`
-  * Vamos a instalar los paquetes necesarios con `npm i jsonwebtoken`
-  * En el `index.js` vamos a hacer toda la lógica de nuestra aplicación
+* Vamos a inicializar nuestro proyecto con `npm init -y`
+* Crearemos el archivo `index.js`
+* Vamos a instalar los paquetes necesarios con `npm i jsonwebtoken`
+* En el `index.js` vamos a hacer toda la lógica de nuestra aplicación
 
 
 
@@ -627,17 +572,15 @@ Como primer atributo recibiremos el token, de segundo atributo el secreto de la 
 
 ### Comentarios:
 
-* **curwen98** (4)
+* **curwen98** (4) [66098](https://platzi.com/comentario/702978/) 
 🖐️Pregunta de novato! Cuál es el curso o algún libro que me ayude a entender la lógica secuencial del código??
 
-	* **glrodasz** (3)
+	* **glrodasz** [66098] (3)
 
-		
 		Hola @Lidher, te recomiendo el curso básico de programación y a partir de allí puedes tomar toda la carrera de la escuela de JavaScript.
 
-* **jadamson0903** (3)
+* **jadamson0903** (3) [883263](https://platzi.com/comentario/883263/) 
 
-	
 	Me encanta el curso, solo como aporte, en la ultima function, le agrego una “s”, a la palabra “option”, de modo, que cuando intentas ejecutar, te manda undefined o corriganme, si hago algo mal pero con “options”, no ejecutaba.  
 	Saludos
 	``` 
@@ -668,43 +611,36 @@ Como primer atributo recibiremos el token, de segundo atributo el secreto de la 
 	    
 	```
 
-	* **romerodiesan** (1)
+	* **romerodiesan** [883263] (1)
 
-		
 		Si, la segunda condición tuvo un options en vez de un option pero luego lo arregló. Vas bien Camilo.
 
-* **Jesús Miguel Quinto Teran** (2)
+* **Jesús Miguel Quinto Teran** (2) [932496](https://platzi.com/comentario/932496/) 
 
-	
 	Que elegante es JWT.
 
-* **Jair Balcazar Cobeña** (1)
+* **Jair Balcazar Cobeña** (1) [1052088](https://platzi.com/comentario/1052088/) 
 
-	
 	Alguien sabe porque el **Curso de Integración de Backend con Frontend** no esta disponible?  
 	![](https://i.ibb.co/R67KzDK/1.png)
 
-	* **Franco Correa** (1)
+	* **Franco Correa** [1052088] (1)
 
-		
 		Te lo dice la misma imagen: **Curso disponible el 21 de abril**. Aún no está terminado.
 
-	* **Diego Camino** (2)
+	* **Diego Camino** [1052088] (2)
 
-		
 		Lo que sucede es que ese curso va ser una actualización del curso que anterior (2019)
 
-* **wilantury** (1)
+* **wilantury** (1) [822827](https://platzi.com/comentario/822827/) 
 
-	
 	Para firmar un JWT se necesitan como argumentos: Payload configurado según los claims que queramos introducir. El secret Key, y opciones.
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68422](https://platzi.com/comentario/740263/) 
 Por lo que veo, se debe verificar la firma del token en cada uno de nuestros endpoints privados. Pero en donde viaja está información. Po...
 
-	* **IvanDev** (4)
+	* **IvanDev** [68422] (4)
 
-		
 		Hola, si te refieres donde se envía el token desde el cliente cuando hace un request a un endpoint seguro, este se debe enviar en los headers del request en una propiedad Authorization
 		``` 
 		    Authorization: Bearer <token>
@@ -713,7 +649,7 @@ Por lo que veo, se debe verificar la firma del token en cada uno de nuestros end
 		
 		de esta forma el backend puede verificar el token y saber si es un token valido y si tiene permisos de ejecutar esa ruta.
 
-## 0080. Server-side vs Client-side sessions
+## 0080. Server-side vs Client-side sessions [21979](https://platzi.com/clases/1649-passport/21979-server-side-vs-client-side-sessions/)
 
 ### Descripción:
 
@@ -747,9 +683,8 @@ La manera como se comporta la sesión del lado del cliente es:
 
 ### Comentarios:
 
-* **giothcode** (13)
+* **giothcode** (13) [707536](https://platzi.com/comentario/707536/) 
 
-	
 	Dando un tiempo de expiración al token al firmarlo.
 	``` 
 	    jwt.sign({data:'foobar'}, 'secret', { expiresIn:'1h' });
@@ -761,88 +696,73 @@ La manera como se comporta la sesión del lado del cliente es:
 	
 	**Lo extraje del enlace proporcionado por el profe**
 
-* **Alejandro González Reyes** (6)
+* **Alejandro González Reyes** (6) [740861](https://platzi.com/comentario/740861/) 
 
-	
 	El punto importante en todo este apunte es Desacoplar nuestras aplicaciones. Backend || FrontEnd || Database.
 
-* **Maximiliano Gabriel Minetto Fellosa** (4)
+* **Maximiliano Gabriel Minetto Fellosa** (4) [859366](https://platzi.com/comentario/859366/) 
 
-	
 	Unas correcciones de ortografía, “esta” es en referencia a un objeto o persona y “está” es del verbo estar, presente indicativo en tercera persona.  
 	[https://www.wordreference.com/conj/EsVerbs.aspx?v=estar](url)  
 	😉
 
-* **Felipe Acosta** (4)
+* **Felipe Acosta** (4) [724991](https://platzi.com/comentario/724991/) 
 
-	
 	y si se le pone una expiracion al token, y el usario esta usando la app pero su token expira hay alguna manera de renovarselo sin que el usuario pierda la sesion ?,  
 	no se si fui claro
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [724991] (1)
 
-		
 		Lo que puedes hacer es verificar cuando el usuario esté conectado si el token va a expirar y crearle uno nuevo, normalmente he visto que los token duran un año en la sesión
 
-* **Walter Lensinas** (4)
+* **Walter Lensinas** (4) [705030](https://platzi.com/comentario/705030/) 
 
-	
 	¿Cómo es el control para saber que un token expiro? ¿Donde se asigna ese límite de tiempo?
 
-	* **glrodasz** (6)
+	* **glrodasz** [705030] (6)
 
-		
 		Cuando se firma el token es posible mediante la opción **expiresIn** especificar el tiempo de expiración: <https://github.com/auth0/node-jsonwebtoken#jwtsignpayload-secretorprivatekey-options-callback> por defecto el metodo **jwt.verify** va a validar si el token no ha expirado.
 
-* **Edwin Valencia** (3)
+* **Edwin Valencia** (3) [753848](https://platzi.com/comentario/753848/) 
 
-	
 	Cómo puedo asegurar mejor un API, para que solo sea consumida desde ciertos clientes, a parte de CORS?  
 	CSRF Token y JWT serían necesarios?
 
-	* **Daniel Esteves** (2)
+	* **Daniel Esteves** [753848] (2)
 
-		
 		Puedes hacerlo con CORS para que solo acepte peticiones de un dominio o aplicación a través de una key y así lo puedes asegurar
 
-* **Wilson Fabian Pérez Sucuzhañay** (2)
+* **Wilson Fabian Pérez Sucuzhañay** (2) [806600](https://platzi.com/comentario/806600/) 
 
-	
 	Pero como podemos hacer tokens con tiempo y auto refresh es decir que no nos que de la sesión sino que vuelva a pedir un token con otro tiempo ?
 
-* **alejandrocepeda** (2)
+* **alejandrocepeda** (2) [767220](https://platzi.com/comentario/767220/) 
 
-	
 	como puedo usar passport.js para otorgar permisos de tipo client authentication, clientes que no envian username ni password, por ejemplo un arduino, o aplicaiones de terceros.
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [767220] (1)
 
-		
 		¿Podrías ser un poco más específico con la pregunta?
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [1011347](https://platzi.com/comentario/1011347/) 
 
-	
 	Llevo probando varias meneras de como hacer un session con JWT en SPA, SSR y eh tenido que guardar en localStorage veo que no es una buena forma. ahora aprendere con COOKIES
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [932867](https://platzi.com/comentario/932867/) 
 
-	
 	Que pasa o que hacemos cuando queremos cerrar todas las sesiones abiertas de un usuario, o sea, invalidar todos sus tokens. Por ejemplo, en netflix cuando seleccionamos “cerrar sesión en todos los dispositivos”, al estar la info de la sesión solo en el cliente no podríamos manejarla en el backend. Cual sería una solución a esto?
 
-	* **zach** (2)
+	* **zach** [932867] (2)
 
-		
 		aca hay varios temas, lo recomendable es que los tokens no tengan un tiempo de vida muy prolongado, para que sea transparente para el usuario existe algo que se llama refresh token, este es un token especial que permite a la aplicacion solicitar un nuevo token cuando ya esta por vencer o ya ha vencido el que tiene la aplicacon, esto sin necesidad que el usuario ingrese sus crendenciales.
 		
 		en el caso que mencionas, el refresh token se pone en una blacklist de esta manera no puede requerir un nuevo token y requiere que el usuario vuelva a ingresar sus crendeciales.
 
-	* **Daniel Hurtado** (1)
+	* **Daniel Hurtado** [932867] (1)
 
-		
 		@zach vale! me parece muy clara tu explicación, muchas gracias
 
-## 0090. Buenas prácticas con JWT
+## 0090. Buenas prácticas con JWT [21980](https://platzi.com/clases/1649-passport/21980-buenas-practicas-con-jwt/)
 
 ### Descripción:
 
@@ -886,8 +806,8 @@ Debido a que es riesgoso almacenar tokens del lado del cliente, no se deberian u
 
 Más información:
 
-  * <https://auth0.com/docs/api-auth/tutorials/silent-authentication>
-  * <https://auth0.com/docs/tokens/refresh-token/current>
+* <https://auth0.com/docs/api-auth/tutorials/silent-authentication>
+* <https://auth0.com/docs/tokens/refresh-token/current>
 
 
 
@@ -897,35 +817,29 @@ Más información:
 
 ### Comentarios:
 
-* **Wilson Fabian Pérez Sucuzhañay** (3)
+* **Wilson Fabian Pérez Sucuzhañay** (3) [806651](https://platzi.com/comentario/806651/) 
 
-	
 	Osea podría crear una sesión cuando hago login desde una SPA para que la cree en el Server ¿?
 
-	* **Marco Antonio Macedo Preciado** (2)
+	* **Marco Antonio Macedo Preciado** [806651] (2)
 
-		
 		Sí. Tienes dos opciones, o creas un Server Render que se encargué de renderear toda la app o creas un Proxy Server que guarde los keys y que se comunique con el servidor principal.
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [941827](https://platzi.com/comentario/941827/) 
 
-	
 	No comprendí bien este punto, alguien me puede dar feedback:  
 	**Silent authenticacion vs Refresh tokens**
 
-	* **Cristobal Vega** (1)
+	* **Cristobal Vega** [941827] (1)
 
-		
 		Hola, me parece que la diferencia entre uno y el otro es al momento de renovar el token, uno lo hace de manera “silenciosa” y el otro (supongo de alguna manera) lo hace de manera más abrupta. 😲
 
-* **Daniel Hurtado** (1)
+* **Daniel Hurtado** (1) [932879](https://platzi.com/comentario/932879/) 
 
-	
 	Si el token expira, cómo se renueva automáticamente sin necesidad de loguear manualmente?
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [932879] (1)
 
-		
 		<h1>El enfoque mas seguro es cambiar el token con cada nueva solicitud HTTP; </h1>
 		
 		  1. El cliente enviar sus credenciales al back **(usuario, contraseña)** por HTTPS
@@ -940,31 +854,28 @@ Más información:
 		<br>  
 		<br>
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [932879] (1)
 
-		
 		Lo correcto es que una vez expirado el token, te pida nuevamente el logeo, eso evita dejar “sessiones” (entre comillas) abiertas.
 		
 		**Un ejemplo de esto son los sistemas bancarios.**
 
-	* **Daniel Hurtado** (1)
+	* **Daniel Hurtado** [932879] (1)
 
-		
 		Repetir el logueo, para tu ejemplo de banco es perfecto, pero para redes sociales u otros sistemas donde la seguridad estricta no es necesaria, es completamente una molestía, y en esos casos es a los que me refería
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68427](https://platzi.com/comentario/740283/) 
 No me queda claro lo de tokens opacos
 
-	* **glrodasz** (1)
+	* **glrodasz** [68427] (1)
 
-		
 		Se dice que es un token opaco cuando su contenido no tiene representación de datos. En el caso de los JWT estos pueden ser decodificarlos y explorados como objetos JSON. La idea es no decodificarlos en el cliente cuando no hay manera de verificar la firma.
 		
 		Si se usa encriptación asimetrica y se verifica la firma es valido decodificarlos y hacer uso del payload en el cliente.
 
-# Entender cómo funcionan las cookies
+# Entender cómo funcionan las cookies [4406]
 
-## 0100. ¿Qué son las cookies y cómo implementar el manejo de sesión
+## 0100. ¿Qué son las cookies y cómo implementar el manejo de sesión [21981](https://platzi.com/clases/1649-passport/21981-que-son-las-cookies-y-como-implementar-el-manejo-d/)
 
 ### Descripción:
 
@@ -994,34 +905,29 @@ Hay leyes sobre cookies que debes seguir al pie de la letra:
 
 ### Comentarios:
 
-* **jasanhdz** (5)
+* **jasanhdz** (5) [775016](https://platzi.com/comentario/775016/) 
 
-	
 	Si tienes dificultad en entender algún concepto te invito a checar mis notas del curso:  
 	<https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md>  
 	Si te gusto mi contenido dejame una ⭐ en mi repositorio. 😄
 
-	* **Daniel Alberto Esquinazi** (4)
+	* **Daniel Alberto Esquinazi** [775016] (4)
 
-		
 		Muy completas las notas, lo que no vi es una referencia a Guillermo y este curso de Platzi.
 
-* **Leonardo Rodrigues** (5)
+* **Leonardo Rodrigues** (5) [731004](https://platzi.com/comentario/731004/) 
 Mardicion guillermo es el mejor profesor de platzi lo amo
 
-	* **Jesús Miguel Quinto Teran** (1)
+	* **Jesús Miguel Quinto Teran** [731004] (1)
 
-		
 		Tu como que eres de Maracaibo (VE)… 😃
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [741008](https://platzi.com/comentario/741008/) 
 
-	
 	Recomiendo la extensión EditThisCookie de google chrome, esta buenísima para saber las caracteristicas de las cookies que envía la página actualmente activa
 
-* **giothcode** (2)
+* **giothcode** (2) [710543](https://platzi.com/comentario/710543/) 
 
-	
 	Una lectura de npm: [](https://www.npmjs.com/package/express-session)  
 	Código de la clase.
 	``` 
@@ -1072,73 +978,63 @@ Mardicion guillermo es el mejor profesor de platzi lo amo
 	    
 	```
 
-* **JaimeRamos** (1)
+* **JaimeRamos** (1) [934474](https://platzi.com/comentario/934474/) 
 
-	
 	pero la cookie está siendo visible, cómo hago para que no?
 
-	* **Gabriel De Andrade (Platzi)** (4)
+	* **Gabriel De Andrade (Platzi)** [934474] (4)
 
-		
 		Para que querrías que las cookies no fuesen visibles? Las cookies las maneja el navegador y no puedes hacer que no sean visibles
 
-	* **JaimeRamos** (1)
+	* **JaimeRamos** [934474] (1)
 
-		
 		bueno estaba pensando en que si en una cookie con el flag httponly true tenía un jwt con un identificador del usuario dentro de la base de datos (no el objectID de mongo si no otro que sirve para asi todos los casos), pues se pudiera descifrar la forma en la que mando datos o algo así y de alguna manera me pudiera vulnerar a pesar que no almanceno contraseñas ni nada por el estilo
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [934474] (1)
 
-		
 		Recuerda que estos tokens son temporales y sólo son validados por la base de datos a través del backend. además si tienes algún cifrado el back es el que se encarga de todo esto. Es como cuando envías una contraseña, la contraseña se coloca en el form de login y puede ser interceptada en el front pero quien se encarga de validarla es el back.
 
-* **Juan Carlos García Esquivel** (1)
+* **Juan Carlos García Esquivel** (1) [830957](https://platzi.com/comentario/830957/) 
 
-	
 	`npm init -y` : este comando crea un archivo **package.json** para manejar nuestras dependencias.  
 	Para manejo de Cookies con express necesitamos dos paquetes, express y express-session :  
 	`npm install express express-session`  
 	Para refrescar nuestro servidor de desarrollo con cada cambio que realicemos utilizamos nodemon  
 	`npm install -D nodemon`
 
-* **Raul Contreras** (1)
+* **Raul Contreras** (1) [792780](https://platzi.com/comentario/792780/) 
 
-	
 	¿Que es esa extension de chrome para ver JSON?
 
-	* **oqodigital** (2)
+	* **oqodigital** [792780] (2)
 
-		
 		JSON Viewer me imagino
 
-* **Deyvis Neyser Valdez Gavilan** (1)
+* **Deyvis Neyser Valdez Gavilan** (1) [82506](https://platzi.com/comentario/1006699/) 
 Hola al ejecutar la aplicación con npm run start, sale esta advertencia: Warning: connect.session() MemoryStore is not designed for a pro...
 
-	* **glrodasz** (1)
+	* **glrodasz** [82506] (1)
 
-		
 		Es porque estas usando la memoria del servidor para almacenar la sesión. Para una aplicación en producción es mejor manejar una base de datos de sesiones, como por ejemplo Redis. Hay una lista de recomendaciones aquí: <https://github.com/expressjs/session/blob/master/README.md#compatible-session-stores>
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68431](https://platzi.com/comentario/740299/) 
 No me quedan claras las dos primeras opciones del Middleware session
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [68431] (1)
 
-		
 		Puedes estudiarlas a detalle en la documentación:
 		
 		👉 **`resave`** : <https://www.npmjs.com/package/express-session#resave>  
 		👉 **`saveUninitialized`** : <https://www.npmjs.com/package/express-session#saveuninitialized>
 
-* **Leonardo Rodrigues** (1)
+* **Leonardo Rodrigues** (1) [67914](https://platzi.com/comentario/731008/) 
 Siempre se debe usar una cookie para el manejo de sesiones o solo es porque estamos usando JWT en una SPA y no podemos verificar el secre...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [67914] (1)
 
-		
 		En esta clase se explican las diferencias y diferentes casos de uso: [Cookies vs Session Storage vs Local Storage](https://platzi.com/clases/1649-passport/21982-cookies-vs-session-storage-vs-local-storage/). 😉
 
-## 0110. Cookies vs Session Storage vs Local Storage
+## 0110. Cookies vs Session Storage vs Local Storage [21982](https://platzi.com/clases/1649-passport/21982-cookies-vs-session-storage-vs-local-storage/)
 
 ### Descripción:
 
@@ -1153,43 +1049,36 @@ _**Si la información no es sensible podemos almacenarla en Local Storage o en S
 
 ### Comentarios:
 
-* **giothcode** (4)
+* **giothcode** (4) [710578](https://platzi.com/comentario/710578/) 
 
-	
 	Implementaría cookies, la información del usuario que se puede ver comprometida debe manejarse en el servidor, además podemos darle un tiempo de vida a la cookie.
 	
 	agrego una lectura de MDN.  
 	<https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies>  
 	[](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [741017](https://platzi.com/comentario/741017/) 
 
-	
 	Yo lo haría en cookies, pero que sean de session. Tener la referencia del ID en la cookie, pero la data en una variable de session del lado del servidor
 
-* **Manuel Ojeda** (3)
+* **Manuel Ojeda** (3) [729127](https://platzi.com/comentario/729127/) 
 
-	
 	Cookies, simplemente el hacer un inicio de sesión ya es información sensible que debe de ser resguardado.
 
-* **Deyvis Neyser Valdez Gavilan** (2)
+* **Deyvis Neyser Valdez Gavilan** (2) [1006288](https://platzi.com/comentario/1006288/) 
 
-	
 	Utilizaría Cookies, ya que la información a almacenar es sensible, como nombres de usuario, contraseñas, datos que le permitan autentificar al usuario.
 
-* **rusbel bermúdez rivera** (2)
+* **rusbel bermúdez rivera** (2) [989793](https://platzi.com/comentario/989793/) 
 
-	
 	Utilizaría Cookies con flag httpOnly, ya que sería necesario manejar información sensible del usuario,
 
-	* **albertodsosa** (1)
+	* **albertodsosa** [989793] (1)
 
-		
 		Me sumo al comentario del compañero para no redundar.
 
-* **pabloverduzcos** (2)
+* **pabloverduzcos** (2) [773399](https://platzi.com/comentario/773399/) 
 
-	
 	 **Cookies.** Almacenar informacion muy sensible.  
 	.  
 	**Lacal Storage - Session Storage.** Almacenar informacion NO sensible.  
@@ -1197,103 +1086,88 @@ _**Si la información no es sensible podemos almacenarla en Local Storage o en S
 	**Session Storage.** Almacenar datos medianamente sensibles.  
 	.
 
-* **mariiglesia** (2)
+* **mariiglesia** (2) [744251](https://platzi.com/comentario/744251/) 
 
-	
 	Si la información es sensible es recomendable almacenarla en las Cookies.
 
-* **Matias Sebastian Perez** (2)
+* **Matias Sebastian Perez** (2) [710076](https://platzi.com/comentario/710076/) 
 
-	
 	Yo implementaria la autenticacion en las cookies
 
-* **GibsonR** (1)
+* **GibsonR** (1) [1027231](https://platzi.com/comentario/1027231/) 
 
-	
 	Las Cookies serían lo ideal, porque la información es sensible a violaciones de seguridad.
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [1022793](https://platzi.com/comentario/1022793/) 
 
-	
 	Yo usaria cookies por que es mas seguro. Tanto Session storage como Local storage creo no son optimas para una autenticacion de usuario
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [1011492](https://platzi.com/comentario/1011492/) 
 
-	
 	siempre he utilizado localStorage pero veo que puede ser mejor cookie.
 
-* **XXVSebastianVXX** (1)
+* **XXVSebastianVXX** (1) [983899](https://platzi.com/comentario/983899/) 
 
-	
 	Trabajaría con Cookies ya que se esta manejando informacion sensible del usuario.
 
-* **Alex Junior Rodriguez Huerta** (1)
+* **Alex Junior Rodriguez Huerta** (1) [977690](https://platzi.com/comentario/977690/) 
 
-	
 	Escogería usar Cookies, ya que son datos sensibles, teniendo en cuenta los flag HttpOnly, además tendría en cuenta que estas cookies no saturen mi almacenamiento.
 
-* **crimiro** (1)
+* **crimiro** (1) [965053](https://platzi.com/comentario/965053/) 
 
-	
 	Cookies
 	
-	  * Estamos manejando información sensible
-	  * Podemos añadir un tiempo de expiración a la sesión
+	* Estamos manejando información sensible
+	* Podemos añadir un tiempo de expiración a la sesión
 	
 	
 
-* **Jesús Miguel Quinto Teran** (1)
+* **Jesús Miguel Quinto Teran** (1) [941889](https://platzi.com/comentario/941889/) 
 
-	
 	Trabajaría Mediante Cookies, pero con la salvedad de remover la autentificaciòn en el servidor, después de un periodo de inactividad.
 
-* **pablopoggiog** (1)
+* **pablopoggiog** (1) [920153](https://platzi.com/comentario/920153/) 
 
-	
 	 **Lo guardaria en una cookie por 3 motivos:**
 	
 	-Al ser informacion sensible (no solo usuario, si no tambien clave) es lo mas adecuado guardarla aqui, con el flag de HttpOnly.  
 	-Sobrevive a cierres de tab/window.  
 	-Podemos indicarle de forma mas “natural” un tiempo de expiracion.
 
-* **IngridSagrero** (1)
+* **IngridSagrero** (1) [815408](https://platzi.com/comentario/815408/) 
 
-	
 	Usaría cookies con el flag HttpOnly para que sean enviadas al servidor y sean accesibles sólo ahí.
 
-* **Mauricio Iván Martínez Carmona** (1)
+* **Mauricio Iván Martínez Carmona** (1) [814607](https://platzi.com/comentario/814607/) 
 
-	
 	Yo me inclinaría por usar **Cookies** , porque estamos almacenando información de autenticación que es sensible.
 
-* **Emmanuel Rodríguez Ramírez** (1)
+* **Emmanuel Rodríguez Ramírez** (1) [813820](https://platzi.com/comentario/813820/) 
 
-	
 	Por uso, ocuparía Cookies pero al ser información sensible, la podría encriptar con Hash [](https://www.npmjs.com/package/object-hash) o con Encrypt [](https://www.npmjs.com/package/cryptr)
 
-* **solej77** (1)
+* **solej77** (1) [812763](https://platzi.com/comentario/812763/) 
 
-	
 	Utilizaria cookie, ya que de esta manera, aunque cerremos el navegador, la cookie va a persistir y como es información sensible, es la mejor manera de tartar este tipo de información.  
 	Saludos!!!
 
-* **AryRosvall** (1)
+* **AryRosvall** (1) [807606](https://platzi.com/comentario/807606/) 
 
-	
 	Solución al reto:
 	
 	Yo usaría cookies.
 	
 	¿Por qué?
 	
-	  * La información de autenticación es altamente sensible.
-	  * Las cookies pueden ser encriptadas y pueden usar el protocolo https.
+	* La información de autenticación es altamente sensible.
+	* Las cookies pueden ser encriptadas y pueden usar el protocolo https.
 	
 	
 
-# Implementar autenticación en Express usando Passport.js
+# Implementar autenticación en Express usando Passport.js [4407]
 
-## 0120. Arquitectura del proyecto Platzi Video
+## 0120. Arquitectura del proyecto Platzi Video [21983](https://platzi.com/clases/1649-passport/21983-arquitectura-del-proyecto-platzi-video/)
 
 ### Descripción:
 
@@ -1308,14 +1182,12 @@ Nuestro proyecto va a depender de un API Server, el cual fue construido en el Cu
 
 ### Comentarios:
 
-* **David Behar** (4)
+* **David Behar** (4) [817075](https://platzi.com/comentario/817075/) 
 
-	
 	`Nota importante`:, al hacer clon del proyecto se debe de crear un .env con la configuración del proyecto, para ésto deberán de crear un servidor de mongo que reaccione, pero lo mejor sería ver el curso de [backend con node](https://platzi.com/clases/backend-nodejs/)
 
-* **David Behar** (2)
+* **David Behar** (2) [817027](https://platzi.com/comentario/817027/) 
 
-	
 	## Arquitectura del proyecto Platzi Video
 	
 	Se va a desarrollar un sistema de **autenticación con passport.js** en el que nos conectemos con un API Server teniendo en cuenta los permisos de lectura y/o escritura que tengas.
@@ -1345,34 +1217,29 @@ Nuestro proyecto va a depender de un API Server, el cual fue construido en el Cu
 	
 	La **SPA** se comunicará con el **API server** mediante una **cookie** con el **access token** del **render server**
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [1023770](https://platzi.com/comentario/1023770/) 
 
-	
 	Saludos companeros. alguien sabe porque cuando hago una peticion GET no me rgresa nada en el array data[]?
 	
 	![](https://snipboard.io/gVrehs.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023770] (2)
 
-		
 		Si no te da error, lo único posible es que no tengas info en ese array o haya un error en la consulta a mongo.
 
-	* **Luis Rodriguez** (2)
+	* **Luis Rodriguez** [1023770] (2)
 
-		
 		Justo! Al comienzo tu base de datos no tendrá nada de información. En la clase <https://platzi.com/clases/1649-passport/21988-configuracion-de-passportjs/> , Guillermo explica cómo sube la data inicial que usa este proyecto.
 		
 		O puedes agregar la data manualmente en tu base de datos de Mongo.
 
-	* **Eden Gomez Gress** (2)
+	* **Eden Gomez Gress** [1023770] (2)
 
-		
 		Ok es que pense que como en e projecto se tiene una carpeta “mocks” con el archivo “movies.js” contiene peliculas, pense que esas mismas peliculas me las tiene que devolver, voy a seguir  
 		con el curso entoces, Muchas gracias por responder companeros
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [991930](https://platzi.com/comentario/991930/) 
 
-	
 	para aquellos que copien el proyecto existente de un folder a otro y tengan error (a mi me pasó con nodemon) hice en consola
 	``` 
 	    npm rebuild
@@ -1381,32 +1248,29 @@ Nuestro proyecto va a depender de un API Server, el cual fue construido en el Cu
 	
 	desconozco sí sea buena practica
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [83244](https://platzi.com/comentario/1022841/) 
 Disculpen companeros pero baje el proyecto del enlace que deji el profesor. ya llene las variables que se enuentran en el archivo. env.ex...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [83244] (1)
 
-		
 		Hola al parecer en la variable que estas pasando esta llegando algo que no es una url valida. Puedes compartir los datos que estas poniendo en el .env
 
-* **jldamians** (1)
+* **jldamians** (1) [77969](https://platzi.com/comentario/913025/) 
 Interesante. Tengo un caso de uso, espero puedan aclararme la duda. Orientando el desarrollo a microservicios, tengo un API con los WS pa...
 
-	* **glrodasz** (1)
+	* **glrodasz** [77969] (1)
 
-		
 		Es una posible solución, te recomiendo que revises “Client Credentials” de OAuth 2.0
 
-* **Enrique Devars (Platzi)** (1)
+* **Enrique Devars (Platzi)** (1) [74063](https://platzi.com/comentario/845946/) 
 Por que es obligatorio que tenga un render server nuestro frontend?
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [74063] (1)
 
-		
 		Para que funcione el Server Side Rendering y disfrutar de sus beneficios.  
 		Además de poder realizar los procedimientos de login en el servidor de tender.
 
-## 0130. Agregando la colección de usuarios
+## 0130. Agregando la colección de usuarios [21984](https://platzi.com/clases/1649-passport/21984-agregando-la-coleccion-de-usuarios/)
 
 ### Descripción:
 
@@ -1417,52 +1281,45 @@ Por que es obligatorio que tenga un render server nuestro frontend?
 
 ### Comentarios:
 
-* **Juan Carlos García Esquivel** (8)
+* **Juan Carlos García Esquivel** (8) [821302](https://platzi.com/comentario/821302/) 
 
-	
 	En windows 10 tube muchisimos problemas para instalar bcrypt por lo siguiente :
 	
-	  * mi terminal de hyper corre sobre ubuntu pero mi SO es W10.
-	  * cuando trate de instalar bcrypt npm trataba de descargar la versión para linux porque detectaba el SO a través de la terminal y esto me daba un error de compatibilidad.
-	  * lo solucione instalando **bcryptjs**  
+	* mi terminal de hyper corre sobre ubuntu pero mi SO es W10.
+	* cuando trate de instalar bcrypt npm trataba de descargar la versión para linux porque detectaba el SO a través de la terminal y esto me daba un error de compatibilidad.
+	* lo solucione instalando **bcryptjs**  
 	**`npm install bcryptjs`**  
 	El import quedaria asi **`const bcrypt = require('bcryptjs')`**  
 	Me tarde casi dos días en encontrar el problema de esta dependencia en mi caso particular, espero que si alguien tiene el mismo problema lo pueda resolver con esta solución 😃.
 	
 	
 
-* **Alejandro González Reyes** (4)
+* **Alejandro González Reyes** (4) [741380](https://platzi.com/comentario/741380/) 
 
-	
 	Si algo me gusta de ExpressJS es que te permite organizar tu proyecto con la estructura que se acople a tus necesidades. Laravel me gusta, pero, debes seguir una serie de reglas en la organización del proyecto.
 
-	* **Ezequiel Guerra** (2)
+	* **Ezequiel Guerra** [741380] (2)
 
-		
 		Actualmente con PHP también puedes armar una estructura parecida si utilizas inyección de dependencia , puedes utilizar tus middlewares preferidos, manejador de rutas, servicios, etc.  
 		Claro express lo hace mucho más simple.
 
-	* **romerodiesan** (1)
+	* **romerodiesan** [741380] (1)
 
-		
 		Lo que no me gusta de php es que corre en apache. Yo prefiero crear el servidor con el mismo lenguaje, modificarlo a mis necesidades y tener mayor control sin la necesidad de tener que aprender apache también además de php.
 
-* **ejgachancipa** (2)
+* **ejgachancipa** (2) [1042164](https://platzi.com/comentario/1042164/) 
 
-	
 	¿Por qué no usar mongoose?
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [68490](https://platzi.com/comentario/741394/) 
 Me pregunto si Async/Await es necesario si tenemos la base de datos instalada en local. Ya que dependiendo de la cantidad de datos, la co...
 
-	* **Marco Antonio Macedo Preciado** (3)
+	* **Marco Antonio Macedo Preciado** [68490] (3)
 
-		
 		Al final Async/Await es una manera de manejar promesas, y manejar promesas es necesario para evitar bloquear el flujo de ejecución del código en operaciones pesadas (como consultar a tu base de datos).
 
-* **David Behar** (1)
+* **David Behar** (1) [817145](https://platzi.com/comentario/817145/) 
 
-	
 	Esta clase hicimos el servicio de **obtención y creación de usuarios** conectándonos a nuestra librería de MongoLib creada en el curso de [Backend con node](https://platzi.com/clases/backend-nodejs/).  
 	.  
 	Los sevicios que creamos fueron el de **obtención de usuarios**
@@ -1494,19 +1351,17 @@ Me pregunto si Async/Await es necesario si tenemos la base de datos instalada en
 	
 	[Acá el commit con ésto](https://github.com/behagoras/passport-authentication/commit/f7c599e1e729199df4d6726b6b62360f508c20e8)
 
-* **phvillegas** (1)
+* **phvillegas** (1) [796642](https://platzi.com/comentario/796642/) 
 
-	
 	Alguien sabe ¿Que diferencia hay entre bcryptjs y bcrypt?
 
-	* **Demian Arenas (Platzi)** (2)
+	* **Demian Arenas (Platzi)** [796642] (2)
 
-		
 		Hola, que buena pregunta!
 		
 		Bcrypt como sabes es un módulo que viene incluido en Node.js y está escrito en C++, por otro lado bcryptjs esta escrito en JavaScript puro. Bcrypt es mucho más rápido que bcryptjs, pero solamente puede correr dentro de Node.js o Electron.
 
-## 0140. Agregando la colección de películas de usuario
+## 0140. Agregando la colección de películas de usuario [21985](https://platzi.com/clases/1649-passport/21985-agregando-la-coleccion-de-peliculas-de-usuario/)
 
 ### Descripción:
 
@@ -1517,12 +1372,11 @@ Me pregunto si Async/Await es necesario si tenemos la base de datos instalada en
 
 ### Comentarios:
 
-* **Leonardo Rodrigues** (7)
+* **Leonardo Rodrigues** (7) [731056](https://platzi.com/comentario/731056/) 
 Colocaste app.user en ves de app.use
 
-* **David Behar** (3)
+* **David Behar** (3) [817324](https://platzi.com/comentario/817324/) 
 
-	
 	Para esta clase creamos el servicio de userMovies.js teniendo en cuenta una relación de [muchos a muchos](https://en.wikipedia.org/wiki/Many-to-many_\(data_model\)), en la que un usuario podrá tener muchas películas favoritas, y una película podrá ser favorita de muchos usuarios.
 	
 	[(Ver más información sobre relaciones de base de datos en mongo)](https://www.quackit.com/mongodb/tutorial/mongodb_create_a_relationship.cfm)
@@ -1550,20 +1404,18 @@ Colocaste app.user en ves de app.use
 	
 	[Ver commit referente a la clase](https://github.com/behagoras/passport-authentication/commit/f3120034758b0e67b660b2d612163d2946d07300)
 
-	* **Alan Alexis Arostegui Maranto** (2)
+	* **Alan Alexis Arostegui Maranto** [817324] (2)
 
-		
 		Gracias por el resumen dude!
 
-* **David Behar** (1)
+* **David Behar** (1) [72483](https://platzi.com/comentario/817166/) 
 ¿Cuál es la sintáxis que utilizamos al hacer un query?
 
-	* **glrodasz** (1)
+	* **glrodasz** [72483] (1)
 
-		
 		No estoy muy seguro la pregunta, pero es posible que te refieras al Destructuring: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment> o Shorthand properties: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#New_notations_in_ECMAScript_2015>.
 
-## 0150. Implementando el POST y DELETE de las películas de usuario
+## 0150. Implementando el POST y DELETE de las películas de usuario [21986](https://platzi.com/clases/1649-passport/21986-implementando-el-post-y-delete-de-las-peliculas-de/)
 
 ### Descripción:
 
@@ -1574,9 +1426,8 @@ Colocaste app.user en ves de app.use
 
 ### Comentarios:
 
-* **David Behar** (4)
+* **David Behar** (4) [817345](https://platzi.com/comentario/817345/) 
 
-	
 	Para esta clase implementamos la **creación** y **eliminación** de relaciones ( **películas de usuario** ) siguiendo la misma lógica que para el [listado de elementos](https://platzi.com/comentario/817324/).
 	
 	.
@@ -1641,28 +1492,24 @@ Colocaste app.user en ves de app.use
 	
 	[Ver commit referente a la clase](https://github.com/behagoras/passport-authentication/commit/303e89aeda021b47d3d2357ece0fe9d0986ed2ee)
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [996260](https://platzi.com/comentario/996260/) 
 
-	
 	esta clase fue un gran repaso del curso anterior de express, excelente clase *****
 
-* **josdanind** (1)
+* **josdanind** (1) [784871](https://platzi.com/comentario/784871/) 
 
-	
 	El tema para validar los request que se envían al server, se puede manejar con typeScript?
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [784871] (1)
 
-		
 		Sería bueno que utilizaran TypeScript.  
 		.
 
-	* **Juan Carrillo** (2)
+	* **Juan Carrillo** [784871] (2)
 
-		
 		Tengo entendido que typeScript es más para validación de tipos mientras desarrollamos, lo que nos evita errores comunes en js con el manejo de los tipos de variables. En cambio la validación que se hace en los requests podría ser más específica, por ejemblo un nombre de usuario que como minimo tenga 3 carácteres y máximo 10, aplicar expresiones regulares, y muchos otros tipos de validaciones que tiene incluido [joi](https://hapi.dev/tutorials/validation/?lang=en_US#joi)
 
-## 0160. Cómo conectarnos a la base de datos
+## 0160. Cómo conectarnos a la base de datos [21987](https://platzi.com/clases/1649-passport/21987-como-conectarnos-a-la-base-de-datos/)
 
 ### Descripción:
 
@@ -1691,12 +1538,11 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 
 ### Comentarios:
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [894090](https://platzi.com/comentario/894090/) 
 
-	
 	**MongoDB Compass** es muy bueno para trabajar en modo local de nuestra pc…
 
-## 0170. Configuración de Passport.js
+## 0170. Configuración de Passport.js [21988](https://platzi.com/clases/1649-passport/21988-configuracion-de-passportjs/)
 
 ### Descripción:
 
@@ -1721,9 +1567,8 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 
 ### Comentarios:
 
-* **Favio Sauto** (13)
+* **Favio Sauto** (13) [716810](https://platzi.com/comentario/716810/) 
 
-	
 	[Aquí](https://github.com/FavioSauto/movies-api/tree/master/scripts/mongo) pueden descargar o guiarse para terminar los scripts de esta clase.
 	
 	y estos son los tres comandos que se necesitan para correr cada uno de los scripts en Windows 10:
@@ -1737,19 +1582,16 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 	seedUsers.js  
 	set DEBUG=app:* && node scripts/mongo/seedUsers.js
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [716810] (1)
 
-		
 		Me funcionotodo menos el chalk sabras porque?
 
-	* **Favio Sauto** (1)
+	* **Favio Sauto** [716810] (1)
 
-		
 		Hey Javier, no sabría decirte por qué no te funcionó el chalk, si mal no recuerdo creo que yo igual tuve problemas con esa librería en su momento, de todas formas no es tan importante para el desarrollo del proyecto ya que su función es darle colores a los mensajes de la consola.
 
-	* **Carmen Sánchez Salgado** (1)
+	* **Carmen Sánchez Salgado** [716810] (1)
 
-		
 		Gracias por el aporte.
 		
 		En tu archivo seedUsers,js hay un error:
@@ -1764,9 +1606,8 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 		    
 		```
 
-	* **Rubén Jiménez Torres** (1)
+	* **Rubén Jiménez Torres** [716810] (1)
 
-		
 		Gracias!!! pude entender mejor el código.  
 		y no es error esto:
 		``` 
@@ -1776,9 +1617,8 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 		
 		Porque es una librería que hace lo mismo y se llama así.
 
-* **giothcode** (11)
+* **giothcode** (11) [713158](https://platzi.com/comentario/713158/) 
 
-	
 	Librerias instaladas:  
 	**_passport_** ,  
 	**_jsonwebtoken_** ,  
@@ -1790,42 +1630,36 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 	_npm i passport jsonwebtoken passport-http passport-jwt_.  
 	_npm i -D chalk_.
 
-* **Iván Darío Sánchez Jiménez** (9)
+* **Iván Darío Sánchez Jiménez** (9) [817436](https://platzi.com/comentario/817436/) 
 
-	
 	Repositorio del curso para descargar los scripts
 	
 	[platzi-auth-passport](https://github.com/glrodasz/platzi-auth-passport)
 
-* **Luis Rodriguez** (4)
+* **Luis Rodriguez** (4) [819589](https://platzi.com/comentario/819589/) 
 
-	
 	Les comparto la extension de VSC por si no tenían el “change camel case”.
 	
 	<https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case>
 
-* **Andres Felipe Valencia Benitez** (3)
+* **Andres Felipe Valencia Benitez** (3) [812358](https://platzi.com/comentario/812358/) 
 
-	
 	No me quedó claro el concepto de API KEYS!
 
-	* **David Behar** (1)
+	* **David Behar** [812358] (1)
 
-		
 		En este caso lo que estamos haciendo es definir en nuestras variables de ambiente ( **env** ) que sólo permitiremos el acceso a **llamadas de la API** que estén **firmadas con la llave** (api_key),  
 		.  
 		El **api key** es una **llave** que definimos en el servidor para **abrir** el acceso a nuestro servicio, así, si algún servicio en internet no tiene la llave que estás definiendo, no podrá acceder a tu servicio
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [743033](https://platzi.com/comentario/743033/) 
 
-	
 	Interesante aporte del profesor, analizando el código es evidente el poder de las promesas, pero sobre todo, esperar a que todas se resuelvan para dar por terminado la ejecución del script o lanzar un error.  
 	Por cierto, en Linux es funcionan ambos comandos para ejecutar el script en modo debug, pero chalk funciona con  
 	DEBUG=app:* node ruta_del_script
 
-* **David Lara Chirinos** (2)
+* **David Lara Chirinos** (2) [1096201](https://platzi.com/comentario/1096201/) 
 
-	
 	Por si quieren copiar y pegar!
 	``` 
 	    npm i passport jsonwebtoken passport-http passport-jwt
@@ -1836,9 +1670,8 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 	    
 	```
 
-* **Eden Gomez Gress** (2)
+* **Eden Gomez Gress** (2) [1028091](https://platzi.com/comentario/1028091/) 
 
-	
 	Buen dia companeros, alguien sabe porque me da este error cuando trato de crear los usuarios?.
 	``` 
 	    movies-api git:(master) ✗ DEBUG=app:* node scripts/mongo/seedUsers.js
@@ -1846,9 +1679,8 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 	    
 	```
 
-	* **Luis Rodriguez** (1)
+	* **Luis Rodriguez** [1028091] (1)
 
-		
 		@Eden, la razón es que en tu repositorio no tienes el archivo que se está llamando.
 		
 		Esto es lo que necesitas agregar a tu repositorio:  
@@ -1860,79 +1692,69 @@ Si nosotros copiamos el Mongo URI desde Mongo Atlas podemos conectarnos facilmen
 		
 		Me avisas si aún tienes problemas!
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [1028091] (1)
 
-		
 		Saludos companero @iamluisro Mira te comento que ya subi los archivos pero aun asi me sigue arrojando ese error cuando trato de crear la DB de usuarios
 
-* **rusbel bermúdez rivera** (2)
+* **rusbel bermúdez rivera** (2) [1000018](https://platzi.com/comentario/1000018/) 
 
-	
 	Buena clase, aunque con el el script de seedUsers nunca pude obtener el _id de mongo
 
-* **XXVSebastianVXX** (2)
+* **XXVSebastianVXX** (2) [984565](https://platzi.com/comentario/984565/) 
 
-	
 	Solo por si las dudas, recuerden crear la colección de ‘users’ en caso de que no la tengan, si no la tienen no se agregan los usuario o por lo menos a mi me paso eso jaja
 
-	* **Eden Gomez Gress** (1)
+	* **Eden Gomez Gress** [984565] (1)
 
-		
 		disculpa comapero, donde debemos de crear la coleccion de users? Tengo un problema en la creacion de usuarios y me llamola atencion tu comentario
 
-* **Juan Carlos García Esquivel** (2)
+* **Juan Carlos García Esquivel** (2) [831211](https://platzi.com/comentario/831211/) 
 
-	
 	Los API_KEYS se utilizan para consultar a la base de datos los permisos necesarios para cada tipo de usuario y poder generar un JWT.  
 	Cuando se registra un usuario **normal** se manda el **PUBLIC_API_KEY_TOKEN** entonces se consultan los permisos en Mongo para esa api key ya que se requiere que ese usuario tenga los permisos “normales”, una vez registrado se crea el JWT y se le asignan esos permisos.
 	
 	Cuando se registrar un usuario administrador se envía el **ADMIN_API_KEY_TOKEN** y se consultan los permisos en Mongo para esa api key que como es tipo ADMIN generalmente tiene todos los permisos, una vez registrado se crea el JWT y se le asignan esos permisos.
 
-* **Andrés Mauricio Montoya Sánchez** (2)
+* **Andrés Mauricio Montoya Sánchez** (2) [715807](https://platzi.com/comentario/715807/) 
 
-	
 	Si están usando la consola para entrar a su instancia de Mongodb, la colección “api-keys” tiene “-”, por lo cual, debe de ser llamada como “db[“api-keys”].find()” para que muestre los datos.
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [68599](https://platzi.com/comentario/742984/) 
 Tengo una duda, porque se usa Promise.all( ) si claramente se le esta indicando dentro del mapeo del arreglo que se va a usar async/await...
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [68599] (3)
 
-		
 		👋 Hey!
 		
 		**`Promise.all`** devuelve una promesa que termina correctamente cuando **todas las promesas** que le enviamos como argumento han terminado correctamente. Y obviamente, falla cuando alguna de estas promesas no terminó bien.
 		
 		👉 <https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Promise/all>
 
-* **ValentinGutierrez** (1)
+* **ValentinGutierrez** (1) [1020405](https://platzi.com/comentario/1020405/) 
 
-	
 	Por el momento no es muy tedioso el curso
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68601](https://platzi.com/comentario/743062/) 
 Porque es importante generar esos tokens en la aplicación. He observado muchos servicios que te piden el que te registres y posteriorment...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [68601] (1)
 
-		
 		Estas clases del [Curso de Autenticación con OAuth](https://platzi.com/clases/1439-autenticacion-oauth/15820-conociendo-el-api-de-spotify/) te pueden ayudar a entenderlo un poco mejor. Mejor si tomas todo el curso. 😉
 		
 		👉 [Stack de seguridad para aplicaciones modernas](https://platzi.com/clases/1439-autenticacion-oauth/15807-stack-de-seguridad-para-aplicaciones-modernas/)  
 		👉 [¿Qué es OAuth 2.0?](https://platzi.com/clases/1439-autenticacion-oauth/16036-que-es-oauth-20/)  
 		👉 [Conociendo el API de Spotify](https://platzi.com/clases/1439-autenticacion-oauth/15820-conociendo-el-api-de-spotify/)
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68548](https://platzi.com/comentario/742144/) 
 Alguno de ustedes conoce algún Middleware o librería para generar seeds en expressjs como lo hace laravel
 
-	* **Manuel Ojeda** (3)
+	* **Manuel Ojeda** [68548] (3)
 
-		
 		No como tal pero puedes hacer tus seeds y ejecutar los scripts.
 		
 		Venía pensando lo mismo para crear las migraciones tipo Laravel con Express
 
-## 0180. Implementación de BasicStrategy con Passport.js
+## 0180. Implementación de BasicStrategy con Passport.js [21989](https://platzi.com/clases/1649-passport/21989-implementacion-de-basicstrategy-con-passportjs/)
 
 ### Descripción:
 
@@ -1949,40 +1771,35 @@ Passport.js es un middleware para express que nos permite implementar estrategia
 
 ### Comentarios:
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [743125](https://platzi.com/comentario/743125/) 
 
-	
 	Ahora es mas facil con el uso de async/await, recuerdo un libro de ExpressJS que hacía uso de passportJS, y en el código se hacía uso frecuente de callbacks,
 
-	* **Javier Fuentes Mora** (1)
+	* **Javier Fuentes Mora** [743125] (1)
 
-		
 		es algo qque yo sigo isn entender se supoone que los callback ponian ser reemplazados por promises o por async await , pero aqui dice algo de los callback y despues le pone async await es algo que no entinedo :C
 
-	* **jorgeoxi** (1)
+	* **jorgeoxi** [743125] (1)
 
-		
 		Promesas y async await siguen siendo en esencia “callbacks” pero de una manera mucho más compacta, legible y fácil de entender y escribir. Al principio es algo complicado de entender, pero con el tiempo y leyendo documentación y viendo ejemplos, se va entendiendo el concepto de “callback”
 
-* **carlos galvan grajales** (2)
+* **carlos galvan grajales** (2) [85185](https://platzi.com/comentario/1067673/) 
 Una pregunta, el ssr_server donde debe de alacenar la password para hacer el silent_authentication? en el mismo Token que a su vez debe d...
 
-	* **glrodasz** (1)
+	* **glrodasz** [85185] (1)
 
-		
 		¿Podrías mostrarnos tu implementación de Silent authentication, para tener una mejor idea y responderte correctamente?
 
-* **David Behar** (1)
+* **David Behar** (1) [72498](https://platzi.com/comentario/817422/) 
 Qué son las BasicStrategies?
 
-	* **mafevito** (1)
+	* **mafevito** [72498] (1)
 
-		
 		Hola David
 		
 		En la [documentación](http://www.passportjs.org/docs/basic-digest/) explica más acerca de ello
 
-## 0190. Implementación de Strategy y ExtractJwt con Passport.js
+## 0190. Implementación de Strategy y ExtractJwt con Passport.js [21990](https://platzi.com/clases/1649-passport/21990-implementacion-de-strategy-y-extractjwt-con-passpo/)
 
 ### Descripción:
 
@@ -1993,31 +1810,27 @@ Qué son las BasicStrategies?
 
 ### Comentarios:
 
-* **YorchK** (3)
+* **YorchK** (3) [66262](https://platzi.com/comentario/705280/) 
 Como se implementa passport.js usando nginx en lugar de express? Que partes debo cambiar?
 
-	* **glrodasz** (3)
+	* **glrodasz** [66262] (3)
 
-		
 		Hola @YorchK, realmente Passport.js es una libreria que esta creada para Express.js, es decir que no puedes usarla si no es para un servidor con Express. Teoricamente podria usarse sin Express, pero al menos necesitarias un servirdor con Node.js. Por otro lado, NGINX funciona en otra capa del servidor, asi que me gustaria entender que es lo que tratas de hacer.
 
-* **Camilo Andrés Santana Lizcano** (1)
+* **Camilo Andrés Santana Lizcano** (1) [988289](https://platzi.com/comentario/988289/) 
 
-	
 	Hola **Platzinauta** !😄  
 	Puedes ver esta clase en formato de lectura explicada paso a paso [aquí](https://platzi.com/tutoriales/1649-passport/4987-estrategia-de-jwt-passport/)
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [814800](https://platzi.com/comentario/814800/) 
 
-	
 	no entiendo porque jalamos el JWT de .env que no se supone que eso lo debería de generar el backend ,o dodne el usuario va a genrar el suyo o donde lo va a almacenar ??
 
-	* **Iván Darío Sánchez Jiménez** (4)
+	* **Iván Darío Sánchez Jiménez** [814800] (4)
 
-		
 		Lo que trae de las variables de entorno es el secret para desencriptar el JWT, no es JWT como tal.
 
-## 0200. Implementación de nuestro Sign-in
+## 0200. Implementación de nuestro Sign-in [21991](https://platzi.com/clases/1649-passport/21991-implementacion-de-nuestro-sign-in/)
 
 ### Descripción:
 
@@ -2030,77 +1843,66 @@ Como se implementa passport.js usando nginx en lugar de express? Que partes debo
 
 ### Comentarios:
 
-* **jasanhdz** (9)
+* **jasanhdz** (9) [775017](https://platzi.com/comentario/775017/) 
 
-	
 	Si tienes dificultad en entender algún concepto te invito a checar mis notas del curso:  
 	<https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md>  
 	Si te gusto mi contenido dejame una ⭐ en mi repositorio. 😄
 
-* **Javier Fuentes Mora** (2)
+* **Javier Fuentes Mora** (2) [814970](https://platzi.com/comentario/814970/) 
 
-	
 	a que se refiere con esto? “como es un custom Callback, debemos hace un Clousure con la firma de la ruta.”
 
-	* **oscar-leon846** (3)
+	* **oscar-leon846** [814970] (3)
 
-		
 		Un closure o clausura es la combinación de una función y el ámbito léxico en el que se declaró dicha función. Es decir los closures o clausuras son funciones que manejan variables independientes. En otras palabras, la función definida en el closure “recuerda” el ámbito en el que se ha creado.
 
-* **Enrique Devars (Platzi)** (2)
+* **Enrique Devars (Platzi)** (2) [82658](https://platzi.com/comentario/1009881/) 
 como podría enviar en vez de una respuesta json una cookie a mi frontend?
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [82658] (1)
 
-		
 		lo mismo quiero hacer yo en estos momentos, tengo el frontend en NEXT JS
 
-* **SaFeRamirez** (2)
+* **SaFeRamirez** (2) [70256](https://platzi.com/comentario/771667/) 
 ¿Me pueden explicar porque el custom callback debe repetir el (req, res, next) ?
 
-	* **AlexGarrixen** (2)
+	* **AlexGarrixen** [70256] (2)
 
-		
 		Hola,esto se debe a que el custom callback es un closure, y por eso se le pasa como argumento el objeto request,respose y next para que pueda acceder a estos.
 
-* **jesus-olivares661** (1)
+* **jesus-olivares661** (1) [1075538](https://platzi.com/comentario/1075538/) 
 
-	
 	la SPA que cargará ese ApiKeyToken… Tengo que hardcodearle el ApiKeyToken en el front ó tengo que hacer un servicio para que al cargar la página la consulte…?
 
-* **jesus-olivares661** (1)
+* **jesus-olivares661** (1) [1075518](https://platzi.com/comentario/1075518/) 
 
-	
 	no entiendo porque uso el método login… De dodne viene…?  
 	req.login( , , )
 
-	* **Franco Correa** (1)
+	* **Franco Correa** [1075518] (1)
 
-		
 		Lo “inyecta” passport al conectar su middleware.
 
-* **Eden Gomez Gress** (1)
+* **Eden Gomez Gress** (1) [83765](https://platzi.com/comentario/1034775/) 
 saludos companeros. Alguien sabe porque me da este eroor cuando corro el comando “npm run dev”?: throw new TypeError('JwtStrategy ...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [83765] (1)
 
-		
 		Lo que menciona el error es que falta que asignes un secret o una key en la configuración de JWT para ser usado por JWTStrategy, revisa las configuraciones para la librería.
 
-* **Juanse Calviño** (1)
+* **Juanse Calviño** (1) [80303](https://platzi.com/comentario/956470/) 
 Consulta, en el archivo de routes/auth.js de donde toma la variable user ? Porque intento hacer la autenticacion sin usa...
 
-	* **boni** (1)
+	* **boni** [80303] (1)
 
-		
 		esa variable user viene de la funcion en `utils/auth/strategies/basic`, yo te recomendaria agregar un debugger, en esa funcion al inicio para verificar si se esta ejecutando correctamente.
 
-* **Iván Darío Sánchez Jiménez** (1)
+* **Iván Darío Sánchez Jiménez** (1) [72628](https://platzi.com/comentario/819471/) 
 como funciona la siguiente sintaxis utilizada en el servicio apiKeys.js const [apiKey] = .... No me queda claro este forma ...
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [72628] (4)
 
-		
 		Imagina que tienes una función que devuelve un array:
 		``` 
 		    functionreturnApiKey(par1) {
@@ -2170,12 +1972,11 @@ como funciona la siguiente sintaxis utilizada en el servicio apiKeys.js const [a
 		    
 		```
 
-* **AryRosvall** (1)
+* **AryRosvall** (1) [72236](https://platzi.com/comentario/812835/) 
 Me da este error alguien sabe como resolverlo??? Error: passport.initialize() middleware not in use at IncomingMessage.req.logi...
 
-	* **FernanddoSalas** (1)
+	* **FernanddoSalas** [72236] (1)
 
-		
 		Que tal si aun no lo solucionas puedes hacerlo agregando
 		``` 
 		    app.use(passport.initialize());
@@ -2184,7 +1985,7 @@ Me da este error alguien sabe como resolverlo??? Error: passport.initialize() mi
 		
 		en tu configuracion de express.
 
-## 0210. Implementación de nuestro Sign-up
+## 0210. Implementación de nuestro Sign-up [21992](https://platzi.com/clases/1649-passport/21992-implementacion-de-nuestro-sign-up/)
 
 ### Descripción:
 
@@ -2195,9 +1996,8 @@ Me da este error alguien sabe como resolverlo??? Error: passport.initialize() mi
 
 ### Comentarios:
 
-* **Helmer Barcos** (6)
+* **Helmer Barcos** (6) [806124](https://platzi.com/comentario/806124/) 
 
-	
 	Para quienes tengan la version **16.1.7** de joi en adelante, deberian hacer un ajuste a la función **validate** en el **validationHandler** quedando asi:
 	``` 
 	    functionvalidate(data, schema) {
@@ -2208,14 +2008,12 @@ Me da este error alguien sabe como resolverlo??? Error: passport.initialize() mi
 	    
 	```
 
-	* **David Behar** (2)
+	* **David Behar** [806124] (2)
 
-		
 		Muchas gracias, me salvaste
 
-* **Luis Arturo Lira Cerda** (5)
+* **Luis Arturo Lira Cerda** (5) [856120](https://platzi.com/comentario/856120/) 
 
-	
 	No sé si más delante se verá la parte de que no se pueda hacer sign-up usando el mismo correo, pero yo así lo hice y lo comparto por si a alguien le interesa:
 	
 	En UsersServices.js primero hice otro método encargado de verificar la existencia
@@ -2251,55 +2049,49 @@ Me da este error alguien sabe como resolverlo??? Error: passport.initialize() mi
 	    
 	```
 
-* **Marco Antonio Macedo Preciado** (2)
+* **Marco Antonio Macedo Preciado** (2) [68532](https://platzi.com/comentario/742046/) 
 No termino de entender la utilidad de las apiKeys, ¿Entonces el cliente tiene que tener almacenado el apiKey y enviarlo cuando hace un r...
 
-	* **AlexGarrixen** (4)
+	* **AlexGarrixen** [68532] (4)
 
-		
 		Hola marco,la finalidad de los apikeys es definir los permisos que tendrán los clientes,que este caso es el del ssr del frontend,pues es este quien tendra los scopes públicos por decirlo asi, y podra solo ejecutar tareas que tiene permitidas,ademas de que tendrá que guardarlo como variable de entorno para no tenerlo en plano.
 
-* **Sebastian** (1)
+* **Sebastian** (1) [825200](https://platzi.com/comentario/825200/) 
 
-	
 	Porque en la ruta sign-up obtienes el user directamente del obj Request?
 
-	* **Daniel Ramírez Mendoza** (1)
+	* **Daniel Ramírez Mendoza** [825200] (1)
 
-		
 		Como tal, lo que está extrayendo es el body del req, y lo renombra a “user”.
 		``` 
 		    const { body: user} = req;
 		    
 		```
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68648](https://platzi.com/comentario/743811/) 
 cuando nos registramos en una api publica, por lo general nos piden insertar una APIKEY para poder hacer peticiones al servicio. MI pregu...
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [68648] (2)
 
-		
 		Tenemos dos tipos de API_KEY  
 		La **publica** y la **privada** , la publica se puede decir que es la del usuario normal; la **privada** es la del administrador
 
-* **AlexGarrixen** (1)
+* **AlexGarrixen** (1) [67802](https://platzi.com/comentario/729304/) 
 Hola,no deberiamos crear un token en base a la apiKey con los permisos publicos y enviarselo ya que una vez que el usuario se registre n...
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [67802] (1)
 
-		
 		Si, eso se debería hacer cuando el usuario se registre y/o inicie sesión ya que si cierra sesión ese token debería desaparecer
 
-## 0220. Protegiendo nuestras rutas con Passport.js
+## 0220. Protegiendo nuestras rutas con Passport.js [21993](https://platzi.com/clases/1649-passport/21993-protegiendo-nuestras-rutas-con-passportjs/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **AlexGarrixen** (7)
+* **AlexGarrixen** (7) [718205](https://platzi.com/comentario/718205/) 
 
-	
 	Hola,si quisieran mandar el error como un json,pueden hacer lo siguiente.
 	``` 
 	    //debemos traernos la estrategia que se ha creado
@@ -2327,9 +2119,8 @@ Hola,no deberiamos crear un token en base a la apiKey con los permisos publicos 
 	    
 	```
 
-	* **Cristian Bello Cervantes** (2)
+	* **Cristian Bello Cervantes** [718205] (2)
 
-		
 		en tu función “protectRoutes” te faltó hacer el clousure en passport.authenticate con los atributos del middleware.
 		
 		esta es la solución 😃
@@ -2350,26 +2141,23 @@ Hola,no deberiamos crear un token en base a la apiKey con los permisos publicos 
 		    
 		```
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [745100](https://platzi.com/comentario/745100/) 
 
-	
 	Existe alguna forma para controlar el error de passportJS cuando no se le pasa un JWT y que no retorne un texto plano
 
-	* **Daniel Esteves** (3)
+	* **Daniel Esteves** [745100] (3)
 
-		
 		¡Hola Alejandro! El compañero Alex realizó la solución perfecta para justo lo que necesitas aquí <https://platzi.com/comentario/718205/> suerte y cualquier cosa me avisas 💪
 
-* **Javier Fuentes Mora** (1)
+* **Javier Fuentes Mora** (1) [819868](https://platzi.com/comentario/819868/) 
 
-	
 	A mi me paso algo extraño el getMovie me retornaba un error y o sabia porque solo sucedia cuando implementaba el passport y solo cambie el cacheResponse(res, SIXTY_MINUTES_IN_SECONDS  
 	);  
 	al mismo que tenia get movies cacheResponse(res, FIVE_MINUTES_IN_SECONDS);
 	
 	y funciono quiero suponer que es al tiempo que toma la peticion pero segun yo five inutes es menor que sixty peor no se porque paso alguien tiene alguna idea??
 
-## 0230. Implementando recordar sesión
+## 0230. Implementando recordar sesión [21994](https://platzi.com/clases/1649-passport/21994-implementando-recordar-sesion/)
 
 ### Descripción:
 
@@ -2419,9 +2207,8 @@ En nuestra ruta de sign-in de nuestro render server hacemos las siguientes modif
 
 ### Comentarios:
 
-* **Enrique Devars (Platzi)** (6)
+* **Enrique Devars (Platzi)** (6) [881926](https://platzi.com/comentario/881926/) 
 
-	
 	La manera en la que yo lo implemente fue de la siguiente forma:
 	``` 
 	    const ONE_DAY_IN_SECONDS = 86400;
@@ -2483,50 +2270,42 @@ En nuestra ruta de sign-in de nuestro render server hacemos las siguientes modif
 	    
 	```
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [881926] (1)
 
-		
 		muy buen aporte, aunque yo me quedo con la opción de 15 minutos en lugar de una sesión de 1 día.
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [881926] (1)
 
-		
 		Aunque en el ejemplo se implementa con cookie no con token
 
-	* **Miguel Segura** (1)
+	* **Miguel Segura** [881926] (1)
 
-		
 		Me parece que aqui hay un error, no es lo mismo implementar ‘Recordar session’ que extender la vida de un JWT, esta ultima opcion me parece mas insegura.
 
-* **Omar Flores Grimontt** (4)
+* **Omar Flores Grimontt** (4) [759895](https://platzi.com/comentario/759895/) 
 
-	
 	maxAge recibe un valor en milisegundos, multipliquen el número por mil.
 
-* **Alejandro González Reyes** (3)
+* **Alejandro González Reyes** (3) [745116](https://platzi.com/comentario/745116/) 
 
-	
 	El nombre de la cookie que passportJS genera siempre se llama token o podemos cambiarle el nombre  
 	No lo encuentro en la documentación.
 
-	* **Daniel Esteves** (3)
+	* **Daniel Esteves** [745116] (3)
 
-		
 		¡Hola Alejandro! No es explícitamente `token` lo puedes cambiar a cualquier nombre pero eso significa que debes mandarla con el nombre que deseas y listo 💪
 
-* **edwintrumpet** (2)
+* **edwintrumpet** (2) [844234](https://platzi.com/comentario/844234/) 
 
-	
 	¿No se supone que esas rutas no van a ser accedidas directamente desde el navegador sino desde el backend del SSR?  
 	¿Se le pasan cookies así al otro servidor también?  
 	¿Qué pasó con el **apiKeyToken**?
 
-* **Javier Fuentes Mora** (2)
+* **Javier Fuentes Mora** (2) [819892](https://platzi.com/comentario/819892/) 
 
-	
 	no entiendo aqui ya n se usa el apiKeysService??
 
-## 0240. Middleware para el manejo de scopes
+## 0240. Middleware para el manejo de scopes [21995](https://platzi.com/clases/1649-passport/21995-middleware-para-el-manejo-de-scopes/)
 
 ### Descripción:
 
@@ -2537,14 +2316,12 @@ En nuestra ruta de sign-in de nuestro render server hacemos las siguientes modif
 
 ### Comentarios:
 
-* **Camilo Andrés Santana Lizcano** (3)
+* **Camilo Andrés Santana Lizcano** (3) [993685](https://platzi.com/comentario/993685/) 
 
-	
 	Puedes ver la versión escrita de esta clase [aquí](https://platzi.com/tutoriales/1649-passport/5014-protegiendo-nuestras-rutas-con-passportjs/)
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [745263](https://platzi.com/comentario/745263/) 
 
-	
 	Corrección del middleware para que valide varios permisos  
 	si alguno de ellos falla, se niega el acceso
 	``` 
@@ -2576,9 +2353,8 @@ En nuestra ruta de sign-in de nuestro render server hacemos las siguientes modif
 	    
 	```
 
-	* **alejandrocepeda** (1)
+	* **alejandrocepeda** [745263] (1)
 
-		
 		// falta el return dentro del map
 		``` 
 		    const permission = allowScopes.map((scope) => {
@@ -2588,51 +2364,44 @@ En nuestra ruta de sign-in de nuestro render server hacemos las siguientes modif
 		    
 		```
 
-	* **Juan Carlos García Esquivel** (1)
+	* **Juan Carlos García Esquivel** [745263] (1)
 
-		
 		@alejandrocepeda el código de @jsconestilo si es válido ya que es una iteración de una línea y no utiliza llaves { } por lo tanto es **return** es implícito y no es necesario colocarlo.
 
-* **alejandro-mora-gonzalez** (2)
+* **alejandro-mora-gonzalez** (2) [78487](https://platzi.com/comentario/921957/) 
 Es mejor manejar los usuarios por roles o por scopes como tu lo estas haciendo?
 
-	* **glrodasz** (1)
+	* **glrodasz** [78487] (1)
 
-		
 		Depende la necesidad de la app. Si necesitas permisos granulares se aplicaría a nivel usuario, en nuestro caso son permisos a niveles de “clientes de aplicación”. Los dos metodos pueden convivir, no son excluyentes.
 
-* **XXVSebastianVXX** (1)
+* **XXVSebastianVXX** (1) [989480](https://platzi.com/comentario/989480/) 
 
-	
 	Hasta el momento el token que me regresa la respuesta es muy corto, revise mi código pero al parecer está bien.  
 	Alguna idea de por que me esté regresando un token muy corto?
 
-* **Jhurgen Maraza** (1)
+* **Jhurgen Maraza** (1) [829558](https://platzi.com/comentario/829558/) 
 
-	
 	Alguien me puede ayudar con una duda?  
 	Cuando hago peticiones por Postman, si me devuelve un OK (200-201) me lo muestra por [Body] pero si me devuelve un error (Cualquiera) solo me lo muestra por la consola de del server (VSCode) y en postman se queda colgado esperando la respuesta… Help me pls
 
-	* **Hector Olvera Vital** (1)
+	* **Hector Olvera Vital** [829558] (1)
 
-		
 		Jhurgen:  
 		Cuando llega a un error, node se para y te manda el error a consola, postman no recibe nada por que ya no envía nada express. Esto pasa cuando no le das manejo a los errores. Me imagino que alguna promesa no se resolvió, por ejemplo con la base de datos. Localiza el error por medio de la consola para ver de dónde sale el error y encierralo en un try catch para darle manejo con next()
 
-* **wilson_romero** (1)
+* **wilson_romero** (1) [818909](https://platzi.com/comentario/818909/) 
 
-	
 	validar permisos endpoint
 
-* **Alejandro González Reyes** (1)
+* **Alejandro González Reyes** (1) [68746](https://platzi.com/comentario/745186/) 
 Este middleware le falta corregir la lógica. Ejemplo. Supongamos que la ruta donde se agrega necesita scopes de read:movies y de user:mod...
 
-	* **Manuel Ojeda** (1)
+	* **Manuel Ojeda** [68746] (1)
 
-		
 		Para ese caso se agregaría el scope a nivel BD, la intención de Platzi Video es que el usuario este agregado para poder tener acceso al servicio.
 
-## 0250. Configuración del server render
+## 0250. Configuración del server render [21996](https://platzi.com/clases/1649-passport/21996-configuracion-del-server-render/)
 
 ### Descripción:
 
@@ -2645,31 +2414,27 @@ En esta parte del curso vamos a explorar el proyecto de server side render, que 
 
 ### Comentarios:
 
-* **jasanhdz** (12)
+* **jasanhdz** (12) [775018](https://platzi.com/comentario/775018/) 
 
-	
 	Si tienes dificultad en entender algún concepto te invito a checar mis notas del curso:  
 	<https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md>  
 	Si te gusto mi contenido dejame una ⭐ en mi repositorio. 😄
 
-	* **FizIrvin** (1)
+	* **FizIrvin** [775018] (1)
 
-		
 		muy bien Jasan
 
-* **Jair Celis** (2)
+* **Jair Celis** (2) [72544](https://platzi.com/comentario/818085/) 
 Hola donde puedo encontrar el curso que comenta @glrodasz “curso backend for frontend” donde se ve la implementación de la ruta de pelícu...
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (2)
+	* **Juan Felipe Peralta Zapata (Platzi)** [72544] (2)
 
-		
 		¡Hola Jair! 😃
 		
 		El curso que se comenta en la clase lo puedes encontrar haciendo clic [aquí](https://platzi.com/clases/bff/).
 
-* **Miguel Segura** (1)
+* **Miguel Segura** (1) [1089684](https://platzi.com/comentario/1089684/) 
 
-	
 	Este es el comando para instalar todas las dependencias de nuestro ssr-server:
 	``` 
 	    npm i @hapi/boom axios cookie-parser dotenv express express-session lodash passport passport-http passport-oauth passport-twitter
@@ -2682,12 +2447,11 @@ Hola donde puedo encontrar el curso que comenta @glrodasz “curso backend for f
 	    
 	```
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [1046028](https://platzi.com/comentario/1046028/) 
 
-	
 	Si el modulo **movies-api** lo depslegamos en con now a un server, el modulo **ssr-server** iría en ese mismo server pero trabajando en diferentes puertos? O **ssr-server** se desplegaría en otra instancia de now?
 
-## 0260. Comunicación máquina a máquina
+## 0260. Comunicación máquina a máquina [21997](https://platzi.com/clases/1649-passport/21997-comunicacion-maquina-a-maquina/)
 
 ### Descripción:
 
@@ -2704,9 +2468,8 @@ Hola donde puedo encontrar el curso que comenta @glrodasz “curso backend for f
 
 ### Comentarios:
 
-* **mario-salinas** (12)
+* **mario-salinas** (12) [756837](https://platzi.com/comentario/756837/) 
 
-	
 	Me parece que como en el minuto 6:45 hace falta hacer el destructuring de data:
 	``` 
 	    const { token, ...user } = data;
@@ -2717,14 +2480,12 @@ Hola donde puedo encontrar el curso que comenta @glrodasz “curso backend for f
 	            });```
 	```
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [756837] (1)
 
-		
 		excelente aporte
 
-* **AlexGarrixen** (3)
+* **AlexGarrixen** (3) [735884](https://platzi.com/comentario/735884/) 
 
-	
 	Hola,si quisieran utilizar error y la respuesta del servidor principal pueden hacer los iguiente :
 	``` 
 	     router.post('/signup',(req,res,next) => {
@@ -2755,38 +2516,33 @@ Hola donde puedo encontrar el curso que comenta @glrodasz “curso backend for f
 	    
 	```
 
-	* **Gschwind** (1)
+	* **Gschwind** [735884] (1)
 
-		
 		Probé tu codigo pero no puedo recibir la respuesta del servidor. Me dice EMPTY_RESPONE pero la API responde bien en POSTMAN y en la terminal.![Selección_147.png](https://static.platzi.com/media/user_upload/Selecci%C3%B3n_147-4533c526-d138-4de8-8969-674aa3dca3c2.jpg)  
 		![Selección_144.png](https://static.platzi.com/media/user_upload/Selecci%C3%B3n_144-b40db3a2-a139-4b91-a774-fea2350c4bd4.jpg)  
 		![Selección_145.png](https://static.platzi.com/media/user_upload/Selecci%C3%B3n_145-61742234-86c1-456a-8ba3-b5021b8108d6.jpg)  
 		![Selección_146.png](https://static.platzi.com/media/user_upload/Selecci%C3%B3n_146-5cc0f774-4ada-423e-9258-a3f5d64f9c6c.jpg)
 
-* **johnflorez** (2)
+* **johnflorez** (2) [69482](https://platzi.com/comentario/757983/) 
 Saludos, ¿Si quisiera hacer la conexión desde un front que no esta renderizado desde el servidor, cómo se realiza? Se que en su momento s...
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [69482] (1)
 
-		
 		Hola, yo hice un servidor proxy para un proyecto en React para poder refrescar los tokens. Te dejo el [repositorio de github](https://github.com/MarcoMacedoP/sign-frontend) para que le des una checada.
 
-* **Marco Antonio Macedo Preciado** (2)
+* **Marco Antonio Macedo Preciado** (2) [68864](https://platzi.com/comentario/747419/) 
 Hola, ¿Mediante el uso de un Server Render ya podríamos aplicar algo como Silent Autentication o Refresh Tokens? 🤔
 
-	* **glrodasz** (2)
+	* **glrodasz** [68864] (2)
 
-		
 		En realidad son dos conceptos diferentes, pero se puede hacer uso del server para implementar estas dos tecnologias, pero aclaro, no tiene que ser un Server Render, puede ser un app server normal.
 
-* **jesus-olivares661** (1)
+* **jesus-olivares661** (1) [1063489](https://platzi.com/comentario/1063489/) 
 
-	
 	si utilizo Nuxt necesito programar un render server…?
 
-* **rusbel bermúdez rivera** (1)
+* **rusbel bermúdez rivera** (1) [1005075](https://platzi.com/comentario/1005075/) 
 
-	
 	sobre la basic strategy y la libreria axios, al termnar la configuración del script, vemos que guardamos en la
 	``` 
 	    const { data, status }
@@ -2798,20 +2554,20 @@ Hola, ¿Mediante el uso de un Server Render ya podríamos aplicar algo como Sile
 	**Aquí** el repo de la librería con varios ejemplos.  
 	<https://github.com/axios/axios>
 
-## 0270. Implementación de las rutas de las películas de usuario
+## 0270. Implementación de las rutas de las películas de usuario [21998](https://platzi.com/clases/1649-passport/21998-implementacion-de-las-rutas-de-las-peliculas-de-us/)
 
 ### Descripción:
 
 
 Felicidades por haber terminado este módulo, en el cual aprendimos:
 
-  * Configuración de nuestro proyecto
-  * Configuración de Passport.js
-  * Implementación de estrategias en Passport.js
-  * Implementación de nuestro Sign-in y Sign-up
-  * Protegiendo nuestras rutas con Passport.js
-  * Implementando recordar sesión
-  * Comunicación máquina a máquina
+* Configuración de nuestro proyecto
+* Configuración de Passport.js
+* Implementación de estrategias en Passport.js
+* Implementación de nuestro Sign-in y Sign-up
+* Protegiendo nuestras rutas con Passport.js
+* Implementando recordar sesión
+* Comunicación máquina a máquina
 
 
 
@@ -2823,66 +2579,56 @@ Sigue adelante, ya nos falta poco para terminar.
 
 ### Comentarios:
 
-* **oqodigital** (19)
+* **oqodigital** (19) [797820](https://platzi.com/comentario/797820/) 
 
-	
 	El video está cortado. Se salta del Sign in al user-movies.
 
-* **eemartinez97** (6)
+* **eemartinez97** (6) [777916](https://platzi.com/comentario/777916/) 
 
-	
 	He notado que hay un error en la validación de datos al momento de crear un user_movie, lo que veo es que aunque no pases el userId y el movieId, siempre se guarda (obviamente sin ningún dato)… entonces he modificado un poco el schema de userMovies.js … mi pregunta es si es correcto como lo he hecho (funciona pero no se si es una buena forma de hacerlo)
 	
 	![](https://i.ibb.co/Xb02mGx/Capture.png)
 
-* **Juan Carlos García Esquivel** (4)
+* **Juan Carlos García Esquivel** (4) [833620](https://platzi.com/comentario/833620/) 
 
-	
 	**Authorization Basic** : Se utiliza un usuario y contraseña y se usa generalmente para el primer acceso a un sistema sign-in y este tipo de autorización nos puede devolver un **JSON WEB TOKEN**.
 	
 	**Authorization Bearer** : Se utiliza un JWT con el cual el sistema valida nuestra identidad y los niveles de autorización que tenemos dentro del sistema, estos datos se ponen el el payload del JWT.
 	
 	Como lo entendí estos dos tipos de autorización funcionan bien juntos, primero utilizas Basic para obtener tu token y después utilizas el token para no depender de una sesión del lado del servidor y poder manejar las rutas y los accesos con el token.
 
-* **SaFeRamirez** (3)
+* **SaFeRamirez** (3) [740124](https://platzi.com/comentario/740124/) 
 
-	
 	Authorization Bearer => Solicita un token (JWT)  
 	Authorization Basic => Solicita un usuario y password
 
-* **Cristian Fabian Tovar** (3)
+* **Cristian Fabian Tovar** (3) [72302](https://platzi.com/comentario/813679/) 
 me perdí en el minuto 5:15 y es desde ahí donde no he podido avanzar, ¿Por qué hace una petición a la url {{client_url}}/auth/sign-in y n...
 
-	* **Cristian Fabian Tovar** (3)
+	* **Cristian Fabian Tovar** [72302] (3)
 
-		
 		encontre mi propio error, y es que se me olvidó hacer el archivo .env en el directorio de /ssr-server
 
-* **josdanind** (2)
+* **josdanind** (2) [801423](https://platzi.com/comentario/801423/) 
 
-	
 	Como se levantan ambos servidores a la vez, y no de forma independiente? Como sería el script del package.json para hacerlo?
 
-	* **Helmer Barcos** (2)
+	* **Helmer Barcos** [801423] (2)
 
-		
 		`node ssr-server/index.js & node movies-api/index.js &`
 		
 		Recuerda que el script debe ser ejecutado en el root donde se encuentran las carpetas de ssr-server y movies-api. No olvides ademas que si utilizas nodemon para desarollo debes cambiar `node` por `nodemon` en el script
 
-	* **josdanind** (1)
+	* **josdanind** [801423] (1)
 
-		
 		Gracias por tu aporte
 
-	* **glrodasz** (2)
+	* **glrodasz** [801423] (2)
 
-		
 		Te recomendaría que si quieres hacer algo así uses una librería como `npm-run-all` y crees un script especifico. Me ha pasado que al levantar los servers de forma paralela pierdo control sobre el proceso y el proceso queda vivo sin poderse terminar.
 
-* **Alejandro Moraga** (1)
+* **Alejandro Moraga** (1) [990803](https://platzi.com/comentario/990803/) 
 
-	
 	Tengo un problema, puedo realizar el “sign in” con el SSR este a su vez me genera la respectiva cookie. Pero al momento de realizar un POST al user-movie este me genera un error 401 (Problemas de autorizacion), realice un console.log para ver si me traia todos los datos del POST correspondiente del request efectivamente me trae el ID del usuario y el ID de la pelicula pero no me trae nada en releacion a la cookies. Pienso que podria tener relacion con alguna configuracion del Postman que al momento de realizar la peticion, este no esta configurado para enviar las cookies, alguna idea gente?, se agradece ❤️
 	``` 
 	     /***** Informacion obtenida con el console.log mencionado al request de la peticion 
@@ -2893,17 +2639,15 @@ me perdí en el minuto 5:15 y es desde ahí donde no he podido avanzar, ¿Por qu
 	    
 	```
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [990803] (1)
 
-		
 		si, en lo mismo me encuentro yo. revisa en la aplication del navegador si se crearon las cookie.
 
-	* **Luis Rodriguez** (1)
+	* **Luis Rodriguez** [990803] (1)
 
-		
 		Hola! Cómo están? Lograron resolver la duda? Si aún no lo resolvieron, estaría genial si pueden poner un link a su github. Un saludo!
 
-	* **JUAN SILVA** (2)
+	* **JUAN SILVA** [990803] (2)
 
 		```
 		    app.post("/user-products", asyncfunction(req, res, next) {
@@ -2933,42 +2677,37 @@ me perdí en el minuto 5:15 y es desde ahí donde no he podido avanzar, ¿Por qu
 		
 		la unica forma en que me funcionó fue quemar el puerto del servidor y ponerlo directamente, parece que axios no reconoce si no se introduce la url como un string
 
-	* **Luis Rodriguez** (1)
+	* **Luis Rodriguez** [990803] (1)
 
-		
 		mmm, no estoy del todo seguro que sea es, hermano.
 		
 		en la sección de `app.post"auth/sign-in"`debería de estar pasando tu token a la cookie.
 		
 		¿Cómo se ve el resto del código?, no creo que el error esté acá en el este snippet que compartiste.
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [800100](https://platzi.com/comentario/800100/) 
 
-	
 	Auth Bearrer solicita un Token  
 	Auth Basic solicita usuario y contraseña
 
-* **eduardohackone** (1)
+* **eduardohackone** (1) [769446](https://platzi.com/comentario/769446/) 
 
-	
 	Yo se que esto se sale del tema, a este punto llevo un proyecto estructurado. pero se me presenta una duda y es como puedo manejar las imagenes ejemplo campo imagen para las peliculas ?, soy programador php y por lo general se sube al servidor aqui como se manejaria ?
 	
 	Muchas gracias por estos videos
 
-	* **Ezequiel Guerra** (3)
+	* **Ezequiel Guerra** [769446] (3)
 
-		
 		usando multer, es un middleware que va a usar en las rutas para manejar las imágenes.
 
-* **Tonalli López** (1)
+* **Tonalli López** (1) [752399](https://platzi.com/comentario/752399/) 
 
-	
 	Authorization Bearer: JWT  
 	Authorization Basic: usuario y password
 
-# Entender qué es OAuth 2.0 y OpenID Connect
+# Entender qué es OAuth 2.0 y OpenID Connect [4408]
 
-## 0280. ¿Qué es OAuth 2.0 y OpenID Connect
+## 0280. ¿Qué es OAuth 2.0 y OpenID Connect [21999](https://platzi.com/clases/1649-passport/21999-que-es-oauth-20-y-openid-connect/)
 
 ### Descripción:
 
@@ -2979,19 +2718,17 @@ me perdí en el minuto 5:15 y es desde ahí donde no he podido avanzar, ¿Por qu
 
 ### Comentarios:
 
-* **Daniel Alberto Esquinazi** (2)
+* **Daniel Alberto Esquinazi** (2) [794433](https://platzi.com/comentario/794433/) 
 
-	
 	OpenID Connect (OIDC) es un protocolo de _autenticación_ implementada utilizando OAuth 2.0, un framework de autorización. El estándar está controlado por el OpenID Foundation.[Mas ](https://es.wikipedia.org/wiki/OpenID_Connect)
 
-* **wilantury** (1)
+* **wilantury** (1) [822039](https://platzi.com/comentario/822039/) 
 
-	
 	OpenID Connect es una capa de autenticación que funciona sobre la capa de OAuth 2.0.
 
-# Implementar autenticación con redes sociales
+# Implementar autenticación con redes sociales [4409]
 
-## 0290. Cómo crear un proyecto en Google API para hacer autenticación con 0Auth 2.0
+## 0290. Cómo crear un proyecto en Google API para hacer autenticación con 0Auth 2.0 [22000](https://platzi.com/clases/1649-passport/22000-como-crear-un-proyecto-en-google-api-para-hacer-au/)
 
 ### Descripción:
 
@@ -3010,17 +2747,15 @@ Con el fin de poder usar Google como método de autenticación es necesario crea
 
 ### Comentarios:
 
-* **José Abdiel Ortega Vázquez** (1)
+* **José Abdiel Ortega Vázquez** (1) [1038730](https://platzi.com/comentario/1038730/) 
 
-	
 	Cuando agregó el dominio. Dominio no es válido porque no puede contener un puerto o debe ser un dominio privado de nivel superior. que consejo me darían aquí
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [1012545](https://platzi.com/comentario/1012545/) 
 
-	
 	Esta es la parte que me interesa mas… login con redes sociales
 
-## 0300. Implementando 0Auth2.0 con Google
+## 0300. Implementando 0Auth2.0 con Google [22001](https://platzi.com/clases/1649-passport/22001-implementando-0auth20-con-google/)
 
 ### Descripción:
 
@@ -3040,14 +2775,12 @@ Con el fin de poder usar Google como método de autenticación es necesario crea
 
 ### Comentarios:
 
-* **Matias Sebastian Perez** (3)
+* **Matias Sebastian Perez** (3) [715819](https://platzi.com/comentario/715819/) 
 
-	
 	Tengo una pregunta con respecto a porque no ponemos la opcion “{ session: false }” en el endpoint “/auth/google-oauth”, pero en el endpoint “/auth/google-oauth/callback” la ponemos.
 
-	* **Juan David Castro (Platzi)** (9)
+	* **Juan David Castro (Platzi)** [715819] (9)
 
-		
 		👋 Hey!
 		
 		1️⃣ El primer paso en la autenticación de Google es mandar al usuario a **`google.com`**. Luego de la autorización, Google mandará al usuario nuevamente a nuestra aplicación en **`/auth/google/callback`**.
@@ -3096,7 +2829,7 @@ Con el fin de poder usar Google como método de autenticación es necesario crea
 		👉 <https://github.com/jaredhanson/passport/issues/169>  
 		👉 <https://medium.com/front-end-weekly/learn-using-jwt-with-passport-authentication-9761539c4314>
 
-## 0310. Implementando Sign Provider en nuestra API
+## 0310. Implementando Sign Provider en nuestra API [22002](https://platzi.com/clases/1649-passport/22002-implementando-sign-provider-en-nuestra-api/)
 
 ### Descripción:
 
@@ -3107,21 +2840,19 @@ Con el fin de poder usar Google como método de autenticación es necesario crea
 
 ### Comentarios:
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [68813](https://platzi.com/comentario/746542/) 
 ¿Porque no se pintó el token y su valor correspondiente en el json enviado como respuesta (min 6:47)? sin embargo, en la estrategia si l...
 
-	* **Alejandro González Reyes** (5)
+	* **Alejandro González Reyes** [68813] (5)
 
-		
 		Me respondo a mi mismo,  
 		la data que pinta el navegador es la del SSR, no el API.
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [867447](https://platzi.com/comentario/867447/) 
 
-	
 	Cuando entro de nuevo a la ruta después de los 15 minutos me debe pedir que inicie sesión de nuevo con Google o me debe enviar de nuevo al json con los datos sin necesidad de poner mi credenciales de google?
 
-## 0320. Autenticación con Google usando OpenID Connect
+## 0320. Autenticación con Google usando OpenID Connect [22003](https://platzi.com/clases/1649-passport/22003-autenticacion-con-google-usando-openid-connect/)
 
 ### Descripción:
 
@@ -3205,15 +2936,14 @@ Con esto tenemos nuestra implementación de autenticación con Google pero mucho
 
 ### Comentarios:
 
-* **Matias Sebastian Perez** (20)
+* **Matias Sebastian Perez** (20) [715954](https://platzi.com/comentario/715954/) 
 
-	
 	Hay un par de errores en el codigo:
 	
-	  * En el callback del passport.use, a la funcion le falta el async
-	  * Se utiliza boom, pero no esta importado
-	  * Se utiliza axios , pero no esta importado
-	  * Y el GoogleStrategy, en este caso no retorna el profile de la manera que lo haciamos con oauth, para entender mejor este punto dejo el codigo funcional abajo
+	* En el callback del passport.use, a la funcion le falta el async
+	* Se utiliza boom, pero no esta importado
+	* Se utiliza axios , pero no esta importado
+	* Y el GoogleStrategy, en este caso no retorna el profile de la manera que lo haciamos con oauth, para entender mejor este punto dejo el codigo funcional abajo
 	
 	
 	``` 
@@ -3255,29 +2985,24 @@ Con esto tenemos nuestra implementación de autenticación con Google pero mucho
 	    
 	```
 
-	* **Favio Sauto** (5)
+	* **Favio Sauto** [715954] (5)
 
-		
 		QueAgradableSujeto.jpg bajaba a los comentarios a corregir los mismo errores 😂😂
 
-	* **Manuel Ojeda** (5)
+	* **Manuel Ojeda** [715954] (5)
 
-		
 		Héroe sin capa 🤘
 
-	* **oqodigital** (1)
+	* **oqodigital** [715954] (1)
 
-		
 		No me funcionó 😦
 
-* **oscar-leon846** (2)
+* **oscar-leon846** (2) [920895](https://platzi.com/comentario/920895/) 
 
-	
 	no olviden registrar la url del callback en la consola de google, si no google les retornara un error 400
 
-* **Alejandro González Reyes** (2)
+* **Alejandro González Reyes** (2) [746593](https://platzi.com/comentario/746593/) 
 
-	
 	Alguien puede auxiliarme, me encuentro algo confundido.  
 	OAuth es para autorización (no importa las estrategias que implementemos)  
 	OAuth con OpenID Connect: es para obtener el perfil del usuario autorizado.
@@ -3285,14 +3010,12 @@ Con esto tenemos nuestra implementación de autenticación con Google pero mucho
 	ya que veo que hay varias estrategias que involucran a oauth, y muchas de ellas terminan en google, facebook, twitter.  
 	y es mas sencillo.
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [746593] (1)
 
-		
 		¡Hola! 🤔 Creo que te respondiste a ti mismo 😅 ¿o aún te falta algún concepto que te pueda ayudar a entender?
 
-* **ApolloAu** (0)
+* **ApolloAu** (0) [1028028](https://platzi.com/comentario/1028028/) 
 
-	
 	tengo este error y no encuentro donde se declara la estrategia google.
 	``` 
 	    Error: Unknown authentication strategy "google"
@@ -3309,12 +3032,11 @@ Con esto tenemos nuestra implementación de autenticación con Google pero mucho
 	    
 	```
 
-	* **ApolloAu** (1)
+	* **ApolloAu** [1028028] (1)
 
-		
 		Solucionado, habia que declarar la estrategia. require("./utils/auth/strategies/google");
 
-## 0330. Cómo crear una cuenta de desarrollador con Twitter
+## 0330. Cómo crear una cuenta de desarrollador con Twitter [22004](https://platzi.com/clases/1649-passport/22004-como-crear-una-cuenta-de-desarrollador-con-twitter/)
 
 ### Descripción:
 
@@ -3336,28 +3058,24 @@ Cuando la cuenta ha sido aprobada, entonces procederemos a crear una aplicación
 
 ### Comentarios:
 
-* **Navarrock33** (2)
+* **Navarrock33** (2) [775600](https://platzi.com/comentario/775600/) 
 
-	
 	que tengo que escribir en donde dice “Website URL”?
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [775600] (1)
 
-		
 		El sitio web de tu aplicación :sungl
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [846108](https://platzi.com/comentario/846108/) 
 
-	
 	En el campo de **Website URL** puse **<http://localhost:8000>** y dice que es una url inválida  
 	¿No se puede probar en localhost?
 
-	* **Victor Martin Ortiz Palacio** (1)
+	* **Victor Martin Ortiz Palacio** [846108] (1)
 
-		
 		Puedes poner la url de tu perfil de Twitter, o tu pagina de GitHub. Por lo que lei, en desarrollo o pruebas, como es nuestro caso, no hay necesidad de tener un dominio propio, ya que solo necesitamos que nos genere las Keys.
 
-## 0340. Autenticación con Twitter
+## 0340. Autenticación con Twitter [22005](https://platzi.com/clases/1649-passport/22005-autenticacion-con-twitter/)
 
 ### Descripción:
 
@@ -3368,25 +3086,21 @@ Cuando la cuenta ha sido aprobada, entonces procederemos a crear una aplicación
 
 ### Comentarios:
 
-* **Massimo Di Berardino** (2)
+* **Massimo Di Berardino** (2) [914429](https://platzi.com/comentario/914429/) 
 
-	
 	Esto les puede ayudar con el challenge  
 	<https://github.com/auth0/passport-linkedin-oauth2>
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [914429] (1)
 
-		
 		Gracias lo probaré
 
-	* **José Abdiel Ortega Vázquez** (1)
+	* **José Abdiel Ortega Vázquez** [914429] (1)
 
-		
 		Funcionó muchas gracias por el aporte
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [888831](https://platzi.com/comentario/888831/) 
 
-	
 	Challenge:
 	``` 
 	    const passport = require('passport');
@@ -3453,7 +3167,7 @@ Cuando la cuenta ha sido aprobada, entonces procederemos a crear una aplicación
 	    
 	```
 
-## 0350. Autenticación con Facebook
+## 0350. Autenticación con Facebook [22006](https://platzi.com/clases/1649-passport/22006-autenticacion-con-facebook/)
 
 ### Descripción:
 
@@ -3531,9 +3245,8 @@ Con esto tenemos nuestra implementación de autenticación con Facebook.
 
 ### Comentarios:
 
-* **Manuel Ojeda** (8)
+* **Manuel Ojeda** (8) [736411](https://platzi.com/comentario/736411/) 
 
-	
 	Primero que nada les comparto el código que utilicé para poder realizar este ejercicio.
 	
 	Primeramente en **facebook.js** ocupamos hacer el llamado de la información a través de una función asíncrona, por lo que se omitió agregar la palabra **async**. Segungo; realicé una asignación del email muy similar a Twitter, pues Facebook no me retornaba el correo del usuario, por lo que el código de FacebookStrategy me quedó de la siguiente forma:
@@ -3592,9 +3305,8 @@ Con esto tenemos nuestra implementación de autenticación con Facebook.
 	
 	Espero les sea de utilidad este código que realicé para lograr el Login de Facebook.
 
-	* **Victor Martin Ortiz Palacio** (4)
+	* **Victor Martin Ortiz Palacio** [736411] (4)
 
-		
 		Me fue de mucha ayuda tu explicacion. Yo lo modifique de la siguiente manera:
 		``` 
 		    app.get('/auth/facebook', passport.authenticate('facebook', {
@@ -3635,14 +3347,12 @@ Con esto tenemos nuestra implementación de autenticación con Facebook.
 		
 		las modificaciones son minimas, pero me sirvio para entender un poco mas como funciona.
 
-	* **rusbel bermúdez rivera** (1)
+	* **rusbel bermúdez rivera** [736411] (1)
 
-		
 		No entendí de donde salio usar profilerFields, lo intente con los profileFields de la documentacion de passport-facebook pero funcionó con el codigo de Manuel
 
-* **rusbel bermúdez rivera** (2)
+* **rusbel bermúdez rivera** (2) [1018030](https://platzi.com/comentario/1018030/) 
 
-	
 	Aquí mi solución gracias a los aportes de los demás, incluí un console.log, para que los novatos como yo, puedan saber de donde salen las variables de data, y por que use _json: profile como argumento en la función. Lean la documentación de passport-facebook es de gran ayuda
 	``` 
 	    const passport = require('passport');
@@ -3690,29 +3400,25 @@ Con esto tenemos nuestra implementación de autenticación con Facebook.
 	    
 	```
 
-* **Navarrock33** (1)
+* **Navarrock33** (1) [775780](https://platzi.com/comentario/775780/) 
 
-	
 	me da “FacebookTokenError: Error validating client secret.”
 
-	* **Navarrock33** (1)
+	* **Navarrock33** [775780] (1)
 
-		
 		[](https://ibb.co/2cDkTSs) –
 
-	* **Navarrock33** (1)
+	* **Navarrock33** [775780] (1)
 
-		
 		<https://ibb.co/2cDkTSs>
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [775780] (1)
 
-		
 		¡Hola Navarro! El compañero Manuel tiene la solución perfecta para el error que se te ha presentado aquí 👉 <https://platzi.com/comentario/736411/>
 
-# Asegurar tu aplicación de Express
+# Asegurar tu aplicación de Express [4410]
 
-## 0360. Seguridad con Helmet y npm audit
+## 0360. Seguridad con Helmet y npm audit [22007](https://platzi.com/clases/1649-passport/22007-seguridad-con-helmet-y-npm-audit/)
 
 ### Descripción:
 
@@ -3742,7 +3448,7 @@ También aprenderemos a utilizar `npm audit` para ver cuales son las vulnerabili
 
 ### Comentarios:
 
-## 0370. Automatizar el chequeo de vulnerabilidades con Snyk
+## 0370. Automatizar el chequeo de vulnerabilidades con Snyk [22008](https://platzi.com/clases/1649-passport/22008-automatizar-el-chequeo-de-vulnerabilidades-con-sny/)
 
 ### Descripción:
 
@@ -3773,12 +3479,11 @@ En lo posible debemos evitar tener vulnerabilidades High (H) o Medium (M) para c
 
 ### Comentarios:
 
-* **sebas001** (1)
+* **sebas001** (1) [877123](https://platzi.com/comentario/877123/) 
 
-	
 	bueno
 
-## 0380. Que és OWASP y buenas prácticas de seguridad
+## 0380. Que és OWASP y buenas prácticas de seguridad [22009](https://platzi.com/clases/1649-passport/22009-que-es-owasp-y-buenas-practicas-de-seguridad/)
 
 ### Descripción:
 
@@ -3787,11 +3492,11 @@ En lo posible debemos evitar tener vulnerabilidades High (H) o Medium (M) para c
 
 Buenas prácticas:
 
-  * Usa un gestor de contraseñas
-  * Usa multi-factor auth
-  * IRL security
-  * Mantén actualizadas tus aplicaciones y SO
-  * Mantente informado
+* Usa un gestor de contraseñas
+* Usa multi-factor auth
+* IRL security
+* Mantén actualizadas tus aplicaciones y SO
+* Mantente informado
 
 
 
@@ -3809,34 +3514,30 @@ Buenas prácticas:
 
 ### Comentarios:
 
-* **WilliamVelazquez** (1)
+* **WilliamVelazquez** (1) [971547](https://platzi.com/comentario/971547/) 
 
-	
 	¿Qué gestor de contraseñas recomiendan?  
 	Si pudieran indicar las ventajas del porque lo recomiendan sería muy bueno! 😃  
 	Gracias!
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [971547] (2)
 
-		
 		Yo uso LastPass, tiene muy buena integración en múltiples dispositivos 😄
 
-	* **David Behar** (2)
+	* **David Behar** [971547] (2)
 
-		
 		Yo uso bitwarden, es gratis y me ha funcionado muy bien
 
-* **Adalid Claure Galindo** (1)
+* **Adalid Claure Galindo** (1) [76204](https://platzi.com/comentario/882926/) 
 Hola estoy buscando el curso de OWASP y no lo encuentro en platzi help me !
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (2)
+	* **Juan Felipe Peralta Zapata (Platzi)** [76204] (2)
 
-		
 		¡Hola, Adalid! ⚡
 		
 		Aquí te dejo el enlace: [Curso de Análisis de Vulnerabilidades Web con OWASP](https://platzi.com/clases/seguridad/)
 
-## 0390. Conclusiones y cierre del curso
+## 0390. Conclusiones y cierre del curso [22010](https://platzi.com/clases/1649-passport/22010-conclusiones-y-cierre-del-curso/)
 
 ### Descripción:
 
@@ -3853,21 +3554,18 @@ Sabemos que ha sido un largo camino, pero estamos seguros de que valió la pena.
 
 ### Comentarios:
 
-* **jasanhdz** (6)
+* **jasanhdz** (6) [775026](https://platzi.com/comentario/775026/) 
 
-	
 	Ahora si has terminado el curso, recuerda que puedes repasar el contenido acá:  
 	<https://github.com/JasanHdz/passportjs/blob/master/notes/notes.md>  
 	**¿Cuéntanos que te pareció el curso?** pd: ahora si éxito con tu examen. 😄
 
-* **luisglopez7777** (2)
+* **luisglopez7777** (2) [859813](https://platzi.com/comentario/859813/) 
 
-	
 	Grupo de aprendizaje para temas relacionados a la Escuela de Javascript, interesados unanse aqui: <https://chat.whatsapp.com/LsR1Zt77zIV2bUw30fMQ3M>
 
-* **jorgeoxi** (1)
+* **jorgeoxi** (1) [1105498](https://platzi.com/comentario/1105498/) 
 
-	
 	¡Excelente curso!
 	
 	Muchas gracias al Profesor Guillermo.

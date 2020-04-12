@@ -1,15 +1,17 @@
-# Introducción a Google Kubernetes Engine
+[Curso de Google Kubernetes Engine 1365](https://platzi.com/cursos/kubernetes-xertica)
 
-## 0010. Introducción a Google Kubernetes Engine
+# Introducción a Google Kubernetes Engine [2542]
+
+## 0010. Introducción a Google Kubernetes Engine [13703](https://platzi.com/clases/1365-kubernetes-xertica/13703-introduccion-a-google-kubernetes-engine/)
 
 ### Descripción:
 
 
 Para entender qué es y cómo funcionan Kubernetes y Kubernetes Engine, vamos a aprender qué es un contenedor:
 
-  * **Bare Metal** : Son los servidores físicos. Ademas de administrar nuestra aplicación, debemos hacernos cargo de la infraestructura _(todo lo relacionado con Hardware: redes, memoria, CPU, etc)_ y el sistema operativo _(actualizaciones, parches de seguridad, etc)_.
-  * **Virtual Machine** : La infraestructura esta controlada por una capa virtualizada, no nos preocupamos más por la parte física de nuestros servidores.
-  * **Containers** : Los contenedores son el funcionamiento más optimo de nuestras aplicaciones. Nos preocupamos únicamente por administrar nuestra aplicación y sus dependencias _(lenguajes de programación, frameworks, logs, etc)_ , mientras que de la infraestructura y el sistema operativo se van a encargar nuestros proveedores de nube.
+* **Bare Metal** : Son los servidores físicos. Ademas de administrar nuestra aplicación, debemos hacernos cargo de la infraestructura _(todo lo relacionado con Hardware: redes, memoria, CPU, etc)_ y el sistema operativo _(actualizaciones, parches de seguridad, etc)_.
+* **Virtual Machine** : La infraestructura esta controlada por una capa virtualizada, no nos preocupamos más por la parte física de nuestros servidores.
+* **Containers** : Los contenedores son el funcionamiento más optimo de nuestras aplicaciones. Nos preocupamos únicamente por administrar nuestra aplicación y sus dependencias _(lenguajes de programación, frameworks, logs, etc)_ , mientras que de la infraestructura y el sistema operativo se van a encargar nuestros proveedores de nube.
 
 
 
@@ -17,50 +19,42 @@ Durante este curso nos acompaña Carlos Prieto: Google Developer Expert y Arquit
 
 ### Comentarios:
 
-* **nachoogoomez** (4)
+* **nachoogoomez** (4) [384789](https://platzi.com/comentario/384789/) 
 
-	
 	Let’s go!!
 
-* **julian aguirre Aguirre Romo** (2)
+* **julian aguirre Aguirre Romo** (2) [863426](https://platzi.com/comentario/863426/) 
 
-	
 	también creo q deberían explicar mejor lo de ingress y cómo serìa con nginx o con traeffik https etc, es bueno el curso pero muy bàsico 😦
 
-* **Julián** (1)
+* **Julián** (1) [850305](https://platzi.com/comentario/850305/) 
 
-	
 	Creo q deberìan hacer un proyecto final donde se integre todo lo aprendido en un proyecto con bases de datos, desarrollo, test, y deploy,y sobre todo con CD porq no lo enseñan en el curso
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [811598](https://platzi.com/comentario/811598/) 
 
-	
 	¡Genial! Este curso tiende a ser muy completo.
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [785526](https://platzi.com/comentario/785526/) 
 
-	
 	Si quieren probar un poco de hands-on sobre kubernetes directamente: <https://www.katacoda.com/courses/kubernetes>
 
-* **aimeenav** (1)
+* **aimeenav** (1) [480958](https://platzi.com/comentario/480958/) 
 
-	
 	vamos, pienso que es lo que se debe de aprender después de estudiar docker, docker compose, machine, boot2docker, etc.
 
-* **Octavio Gomez Romo** (1)
+* **Octavio Gomez Romo** (1) [415793](https://platzi.com/comentario/415793/) 
 
-	
 	Temas previos que tenemos que estudiar ?
 
-	* **ocar** (1)
+	* **ocar** [415793] (1)
 Huu no responde
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [415793] (1)
 
-		
 		¡Todo esta en la sección de la carrera!
 
-## 0020. ¿Qué es Kubernetes
+## 0020. ¿Qué es Kubernetes [13705](https://platzi.com/clases/1365-kubernetes-xertica/13705-que-es-kubernetes/)
 
 ### Descripción:
 
@@ -69,49 +63,46 @@ Huu no responde
 
 Esta herramienta tiene las siguientes funcionalidades:
 
-  * **Formato Docker** : Nuestras máquinas y contenedores deben usar este formato para poder ser desplegadas.
-  * **Auto-escalado** : La performance de nuestra aplicación no se verá afectada cuando entren muchísimos usuarios al mismo tiempo. Podrás soportar toda esta carga sin necesidad de generar tus máquinas virtuales a mano.
-  * **Stackdriver** : La solución de monitoreo y control de Google. Nos ayuda a entender muy fácilmente qué está pasando en la infraestructura: logs, alertas, monitoreo de la CPU y la memoria, etc.
-  * **Cloud VPN** : Nos permite tener una nube híbrida con la cual tendremos nuestros datos y aplicaciones segregados en la nube y utilizando información de nuestros servidores locales. Todos estos procesos de forma segura.
-  * **Cloud IAM** : Administración de usuarios gracias al soporte de autenticación de Google. Podemos asignar permisos y roles de lectura, escritura y administración sobre nuestro cluster.
+* **Formato Docker** : Nuestras máquinas y contenedores deben usar este formato para poder ser desplegadas.
+* **Auto-escalado** : La performance de nuestra aplicación no se verá afectada cuando entren muchísimos usuarios al mismo tiempo. Podrás soportar toda esta carga sin necesidad de generar tus máquinas virtuales a mano.
+* **Stackdriver** : La solución de monitoreo y control de Google. Nos ayuda a entender muy fácilmente qué está pasando en la infraestructura: logs, alertas, monitoreo de la CPU y la memoria, etc.
+* **Cloud VPN** : Nos permite tener una nube híbrida con la cual tendremos nuestros datos y aplicaciones segregados en la nube y utilizando información de nuestros servidores locales. Todos estos procesos de forma segura.
+* **Cloud IAM** : Administración de usuarios gracias al soporte de autenticación de Google. Podemos asignar permisos y roles de lectura, escritura y administración sobre nuestro cluster.
 
 
 
 Ventajas de Kubernetes Engine:
 
-  * Actualizaciones automáticas
-  * Reparación automática
-  * Registro privado de contenedores
-  * Versiones uniformes y rápidas
-  * Soporte para GPU
+* Actualizaciones automáticas
+* Reparación automática
+* Registro privado de contenedores
+* Versiones uniformes y rápidas
+* Soporte para GPU
 
 
 
 Alternativas:
 
-  * Redhat Openshift
-  * Docker Swarm
-  * Amazon Elastic Container Service for Kubernetes
-  * IBM Cloud Kubernetes Service
-  * Azure Kubernetes Service (AKS)
+* Redhat Openshift
+* Docker Swarm
+* Amazon Elastic Container Service for Kubernetes
+* IBM Cloud Kubernetes Service
+* Azure Kubernetes Service (AKS)
 
 
 
 ### Comentarios:
 
-* **Omar Alvarez** (10)
+* **Omar Alvarez** (10) [385607](https://platzi.com/comentario/385607/) 
 
-	
 	[Comic de Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [393708](https://platzi.com/comentario/393708/) 
 
-	
 	👽 El proyecto interno de Google que creo Kubernetes se llama **Borg**.
 
-* **Martín Leyva** (2)
+* **Martín Leyva** (2) [430521](https://platzi.com/comentario/430521/) 
 
-	
 	La Directora de Orquesta que aparece en la Lamina de la Presentación:
 	
 	¿Que es Kubernetes? … es
@@ -120,33 +111,29 @@ Alternativas:
 	
 	![](https://ibb.co/mmbdKq)
 
-	* **Martín Leyva** (1)
+	* **Martín Leyva** [430521] (1)
 
-		
 		<https://ibb.co/mmbdKq>
 
-* **quetzallymezaleon** (1)
+* **quetzallymezaleon** (1) [561769](https://platzi.com/comentario/561769/) 
 
-	
 	<https://cloud.google.com/kubernetes-engine/kubernetes-comic/>
 
-* **Diego Carvajal** (1)
+* **Diego Carvajal** (1) [526195](https://platzi.com/comentario/526195/) 
 
-	
 	Autoescalabilidad para que muchos usuarios no sobrecarguen nuestras apps
 
-# Repaso de Docker
+# Repaso de Docker [2543]
 
-## 0030. Qué son los contenedores
+## 0030. Qué son los contenedores [13706](https://platzi.com/clases/1365-kubernetes-xertica/13706-que-son-los-contenedores/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Martín Leyva** (3)
+* **Martín Leyva** (3) [430526](https://platzi.com/comentario/430526/) 
 
-	
 	El nombre de **contenedores** viene de los recipientes de carga estandarizados que se utilizan en barcos, camiones y trenes, que permiten cargar, descargar y apilar los **_containers_** durante largas distancias facilitando el transbordo de un medio de transporte a otro.
 	
 	Estos contenedores han supuesto una verdadera revolución en el mundo del transporte, reduciendo costes, tiempos de carga/descarga, daños en mercancías, etc.
@@ -155,29 +142,25 @@ Alternativas:
 	
 	Fuente: <https://www.paradigmadigital.com/dev/primeros-pasos-con-docker/>
 
-* **Martín Leyva** (2)
+* **Martín Leyva** (2) [430524](https://platzi.com/comentario/430524/) 
 
-	
 	Los **contenedores** tienen una función similar a las máquinas virtuales, pero son menos complejos y más fáciles de desplegar.
 	
 	**_Desplegar_** es lo que en Inglés es **_" Deployment"_**
 
-* **Diego Carvajal** (1)
+* **Diego Carvajal** (1) [526204](https://platzi.com/comentario/526204/) 
 
-	
 	Los contenedores permiten desplegar nuestras aplicaciones en cualquier sistema operativo.
 
-	* **Everardo Sánchez** (2)
+	* **Everardo Sánchez** [526204] (2)
 
-		
 		y en cualquier nube 😃
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [526204] (1)
 
-		
 		¡Eso es de mucha utilidad!
 
-## 0040. Qué es Docker
+## 0040. Qué es Docker [13707](https://platzi.com/clases/1365-kubernetes-xertica/13707-que-es-docker9298/)
 
 ### Descripción:
 
@@ -188,9 +171,8 @@ Docker utiliza las características de los sistemas operativos tipo UNIX para ad
 
 ### Comentarios:
 
-* **Martín Leyva** (3)
+* **Martín Leyva** (3) [430527](https://platzi.com/comentario/430527/) 
 
-	
 	Ventajas de los Contenedores:
 	
 	**Ventajas**
@@ -207,36 +189,33 @@ Docker utiliza las características de los sistemas operativos tipo UNIX para ad
 	
 	Por las mismas razones que el punto anterior, los contenedores arrancan en segundos, mucho más rápido que una máquina virtual.
 
-	* **Martín Leyva** (2)
+	* **Martín Leyva** [430527] (2)
 
-		
 		Fuente:
 		
 		<https://www.paradigmadigital.com/dev/primeros-pasos-con-docker/>
 
-* **AlexMaguey** (2)
+* **AlexMaguey** (2) [797203](https://platzi.com/comentario/797203/) 
 
-	
 	Una imagen es como una clase (abstracción)  
 	Un contenedor es como un objeto (concreción)
 
-* **Diego Carvajal** (1)
+* **Diego Carvajal** (1) [526214](https://platzi.com/comentario/526214/) 
 
-	
 	Docker permite desplegar una app en cualquier infraestructura sin preocuparnos por el sistema operativo
 
-## 0050. Comandos Básicos de Docker
+## 0050. Comandos Básicos de Docker [13708](https://platzi.com/clases/1365-kubernetes-xertica/13708-comandos-basicos-de-docker/)
 
 ### Descripción:
 
 
-  * `docker pull`: Descargar y guardar las imágenes de nuestra aplicación
-  * `docker images`: Listar las imágenes descargas en nuestra máquina
-  * `docker ps`: Listar los contenedores corriendo en nuestra máquina _(id, puerto, etc)_
-  * `docker ps -a`: Listar los contenedores apagados de nuestra máquina_
-  * `docker exec`: Ingresar a nuestro contenedor y listar las carpetas dentro de el
-  * `docker stop`: Detener la ejecución de nuestro contenedor
-  * `docker rm`: Borrar nuestro contenedor
+* `docker pull`: Descargar y guardar las imágenes de nuestra aplicación
+* `docker images`: Listar las imágenes descargas en nuestra máquina
+* `docker ps`: Listar los contenedores corriendo en nuestra máquina _(id, puerto, etc)_
+* `docker ps -a`: Listar los contenedores apagados de nuestra máquina_
+* `docker exec`: Ingresar a nuestro contenedor y listar las carpetas dentro de el
+* `docker stop`: Detener la ejecución de nuestro contenedor
+* `docker rm`: Borrar nuestro contenedor
 
 
 
@@ -248,14 +227,12 @@ Si quieres aprender más sobre los comandos y usos de Docker, puedes entrar al [
 
 ### Comentarios:
 
-* **ricardocelis (Platzi)** (7)
+* **ricardocelis (Platzi)** (7) [384600](https://platzi.com/comentario/384600/) 
 
-	
 	<https://github.com/spring-petclinic/spring-framework-petclinic>
 
-* **ricardo-rod** (5)
+* **ricardo-rod** (5) [722947](https://platzi.com/comentario/722947/) 
 
-	
 	Aqui estan las nuevas instrucciones de docker y de jetty que sustituye a tomcat. ojo el puerto es 8080, no 9966.
 	``` 
 	    git clone https://github.com/spring-petclinic/spring-framework-petclinic.git
@@ -269,102 +246,87 @@ Si quieres aprender más sobre los comandos y usos de Docker, puedes entrar al [
 	    
 	```
 
-* **harryharango** (3)
+* **harryharango** (3) [423077](https://platzi.com/comentario/423077/) 
 
-	
 	Por si les falla ejecutando el comando ./mvnw jetty:run-war por los Testing , para omitirlos, ejecutar el comando mencionado anteriormente con el siguiente parámetro
 	``` 
 	    ./mvnw jetty:run-war -DskipTests
 	    
 	```
 
-	* **Junior Usca H.** (4)
+	* **Junior Usca H.** [423077] (4)
 
-		
 		y abrir en el puerto 8080
 
-* **RoyalLegalSolutions** (2)
+* **RoyalLegalSolutions** (2) [661135](https://platzi.com/comentario/661135/) 
 
-	
 	Hola! No se como solucionar este error  
 	`No plugin found for prefix 'tomcat7' in the current project and in the plugin groups`
 
-	* **Jair Sebastian Lozano Moron** (1)
+	* **Jair Sebastian Lozano Moron** [661135] (1)
 
-		
 		tengo el mismo problema y no se como solucionarlo, ya intenté de varias maneras
 
-* **Diego Carvajal** (2)
+* **Diego Carvajal** (2) [526220](https://platzi.com/comentario/526220/) 
 
-	
 	Cuando nos registramos en google cloud nos 300 dolares para hacer todas las pruebas que necesitemos.
 
-* **fernanperez** (2)
+* **fernanperez** (2) [521605](https://platzi.com/comentario/521605/) 
 
-	
 	cuando se ejecuta tomcat 8 no funciona
 
-* **jk_** (2)
+* **jk_** (2) [408859](https://platzi.com/comentario/408859/) 
 
-	
 	no funciono con la información del video, en la pagina muestra la siguiente información y así funciono
 	
 	git clone <https://github.com/spring-petclinic/spring-framework-petclinic.git>  
 	cd spring-framework-petclinic  
 	./mvnw jetty:run-war
 
-* **OSCAR ALFREDO CHAFLOQUE TAMPECK** (1)
+* **OSCAR ALFREDO CHAFLOQUE TAMPECK** (1) [1115547](https://platzi.com/comentario/1115547/) 
 
-	
 	la aplicación esta configurada con docker?
 
-* **Freddy Lemus Barrera** (1)
+* **Freddy Lemus Barrera** (1) [389654](https://platzi.com/comentario/389654/) 
 
-	
 	Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la configuración de la terminal (Parte izquierda, segundo icono) la configuración de tmux. ¿Conocen algún tutorial paso a paso para poder configurar y redimir lo que nos da google.?
 
-	* **Carlos Prieto** (1)
+	* **Carlos Prieto** [389654] (1)
 
-		
 		en este video se muestran los pasos para activar los créditos
 		
 		<https://www.youtube.com/watch?v=Uu3PgeqZ3kU>
 
-	* **Jonnathan Ramiro Juma Jara** (1)
+	* **Jonnathan Ramiro Juma Jara** [389654] (1)
 
-		
 		solo da clic en el icono de regalo y te registras con os datos que te pide, mas tu tarjeta de crédito, hacen la validación de tu tarjeta con 1 dolar de debito y se activa los 300 dolares por un año
 
-* **Freddy Lemus Barrera** (1)
+* **Freddy Lemus Barrera** (1) [42711](https://platzi.com/comentario/389654/) 
 Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la configuración de la terminal (Parte izquierda, segundo ico...
 
-	* **Carlos Prieto** (1)
+	* **Carlos Prieto** [42711] (1)
 
-		
 		en este video se muestran los pasos para activar los créditos
 		
 		<https://www.youtube.com/watch?v=Uu3PgeqZ3kU>
 
-* **Madrov** (0)
+* **Madrov** (0) [430817](https://platzi.com/comentario/430817/) 
 
-	
 	Recomiendo primero aprender docker bien y familiarizarse antes de tomar este curso. De lo contrario pienso que es mucha informacion para procesar.
 
-## 0060. Creación del contenedor de Docker
+## 0060. Creación del contenedor de Docker [13891](https://platzi.com/clases/1365-kubernetes-xertica/13891-creacion-del-contenedor-de-docker/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **josericardoperezperez** (3)
+* **josericardoperezperez** (3) [860767](https://platzi.com/comentario/860767/) 
 
-	
 	Tengo una duda, ¿Como es que empujamos la imagen spring-framework-pet-clinic que creamos a partir del Dockerfile?, tengo enetendido que lo que hicimos fue hacer un TAG del ya existente **springcommunity/spring-framework-petclinic** y re subirlo al registro de contenedores de Google sin embargo el que creamos con el Dockerfile no lo tomamos en cuenta :S
 
-* **ricardo-rod** (3)
+* **ricardo-rod** (3) [724625](https://platzi.com/comentario/724625/) 
 
-	
 	Para el que le interese aqui la imagen de docker lista para jetty y solo hay que correrla tiene los archivos necesarios, pero el petclinic no esta en el commit de git que esta publicado. Espero les sirva a muchos.
 	
 	PD: recuerda cambiar YOUR_PROJECT_ID por tu proyecto para que te pueda subir al container registry.
@@ -377,9 +339,8 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	    
 	```
 
-* **miguelprada2** (2)
+* **miguelprada2** (2) [895116](https://platzi.com/comentario/895116/) 
 
-	
 	Mi solución del Reto:  
 	Lo hice usando la imagen de `nginx`.
 	
@@ -404,26 +365,22 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	
 	Y listo. La imagen se puede ver en la consola.
 
-* **Alvaro   Gonzalez** (2)
+* **Alvaro   Gonzalez** (2) [384723](https://platzi.com/comentario/384723/) 
 
-	
 	Que es [gcr.io](http://gcr.io), en el comando de docker push [grc.io](http://grc.io) ?
 
-	* **Joshua Nathanael Saucedo Uriarte** (3)
+	* **Joshua Nathanael Saucedo Uriarte** [384723] (3)
 
-		
 		Google Container Registry (GCR) => [gcr.io](http://gcr.io)
 		
 		es como su nombre lo dice, el nombre del host del registry de google, ahi se guardan tus imagenes en tu registry personal
 
-	* **aparicio_juan** (1)
+	* **aparicio_juan** [384723] (1)
 
-		
 		si no entendi mal guardas tu contenedor en el repo de google, como lo haces en el repositorio de docker normalmente para cuando lo necesitas. Yo prefiero usar la store de docker para guardarlos ya que lo dejas hay gratis y aqui esta relacionado a tu cuenta por lo que se ve. Si me equivoco que alguien me corrija.
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1021880](https://platzi.com/comentario/1021880/) 
 
-	
 	iba a ser más creativo, pero lo más facil es hacerlo con nginx
 	``` 
 	    cd ~
@@ -439,20 +396,17 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	    
 	```
 
-* **Jair Sebastian Lozano Moron** (1)
+* **Jair Sebastian Lozano Moron** (1) [711466](https://platzi.com/comentario/711466/) 
 
-	
 	de donde sacaste el target/petclinic.war ya que me dice que no encuentra el archivo /var/lib/docker/tmp/docker-builder599540831/target/petclinic.war
 
-* **Nicolás José Vela Hidalgo** (1)
+* **Nicolás José Vela Hidalgo** (1) [590040](https://platzi.com/comentario/590040/) 
 
-	
 	Autenticarse en Google:  
 	gcloud auth configure-docker
 
-* **jscontreras** (1)
+* **jscontreras** (1) [563937](https://platzi.com/comentario/563937/) 
 
-	
 	Este dockerfile me sirvio  
 	recuerden q deben ir a la direccion y le adicionan `/petclinic`  
 	se demora un poco mientras empieza.  
@@ -466,14 +420,12 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	    
 	```
 
-	* **jscontreras** (1)
+	* **jscontreras** [563937] (1)
 
-		
 		<https://hub.docker.com/_/jetty>
 
-* **Victoria Tejeda** (1)
+* **Victoria Tejeda** (1) [545812](https://platzi.com/comentario/545812/) 
 
-	
 	Si a alguien le sirve yo estoy haciendo el ejemplo con Jetty:
 	
 	docker run -d -p 8080:8080 --name petcli jetty
@@ -483,9 +435,8 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	COPY target/petclinic.war /var/lib/jetty/webapps  
 	EXPOSE 8080
 
-* **Juan Francisco Mosquera** (1)
+* **Juan Francisco Mosquera** (1) [531203](https://platzi.com/comentario/531203/) 
 
-	
 	Hola , como podria solucionar este error ?.  
 	docker push [gc.io/spring-framework-petclinic](http://gc.io/spring-framework-petclinic)
 	
@@ -500,15 +451,13 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	ild/css/error.css">\n <link rel=“stylesheet” href="[//d2qxbjtnvyv052.cloudfront.net/media/852204999bd4373f4e98a2e17cfb6e9e/build/css/search.css](//d2qxbjtnvyv052.cloudfront.net/media/852204999bd4373f4e98a2e17cfb6e9e/build/css/search.css)">\n \n<script>\n(function(i,  
 	s,o,g,r,a,m){i[‘GoogleAnalyticsObject’]=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.asy
 
-	* **Juan Francisco Mosquera** (1)
+	* **Juan Francisco Mosquera** [531203] (1)
 
-		
 		Por favor omitir , encontre la solucion.  
 		gracias
 
-* **jk_** (1)
+* **jk_** (1) [414144](https://platzi.com/comentario/414144/) 
 
-	
 	levante el siguiente ejemplo de un contenedor de docker en [console.cloud.google.com](http://console.cloud.google.com) pero me da error, pueden revisar que esta pasando, gracias
 	
 	<https://www.josedomingo.org/pledin/2016/02/ejemplos-de-ficheros-dockerfile-creando-imagenes-docker/>
@@ -521,14 +470,13 @@ Para poder cambiar el puerto y obtener la vista es necesario seleccionar en la c
 	Error: Could not connect to Cloud Shell on port 8888.  
 	Ensure your server is listening on port 8888 and try again.
 
-	* **Edgar Meneses** (1)
+	* **Edgar Meneses** [414144] (1)
 
-		
 		Según entiendo el problema es que debes tener alguna aplicación o recurso que esta utilizando el puerto 8080
 
-# Conceptos Basicos
+# Conceptos Basicos [2544]
 
-## 0070. Cluster y nodos ¿Qué son y cómo funcionan
+## 0070. Cluster y nodos ¿Qué son y cómo funcionan [13711](https://platzi.com/clases/1365-kubernetes-xertica/13711-cluster-y-nodos-que-son-y-como-funcionan/)
 
 ### Descripción:
 
@@ -545,109 +493,91 @@ Un pod es un conjunto de contenedores que se despliegan en nuestros nodos. Más 
 
 ### Comentarios:
 
-* **Juan Francisco Mosquera** (1)
+* **Juan Francisco Mosquera** (1) [531210](https://platzi.com/comentario/531210/) 
 
-	
 	cuales son los servicios rest ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [531210] (2)
 
-		
 		Son también conocidos como API, o API Rest, haces una petición y te retornan una respuesta por lo general en formato JSON para ser consumida, ejemplo puede ser <https://swapi.co/> que tiene un API al cual haces peticiones y te retorna información sobre las películas de startwars
 
-	* **Juan Francisco Mosquera** (1)
+	* **Juan Francisco Mosquera** [531210] (1)
 
-		
 		Hola gracias , yo comprendo esa definición , pero aplicado al contexto del video no explica que endpoints o services o mensajes se esta compartiendo ( Minuto 0.53).
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [531210] (1)
 
-		
 		Son los endpoints para poder obtener información del cluster, te dejo el link de la documentación oficial donde están los endpoints y su función <https://cloud.google.com/kubernetes-engine/docs/reference/rest/>
 
-* **Diego Carvajal** (1)
+* **Diego Carvajal** (1) [526264](https://platzi.com/comentario/526264/) 
 
-	
 	++los nodos son maquinas dentro de un cluster ++
 
-## 0080. ¿Qué son los Pods
+## 0080. ¿Qué son los Pods [13712](https://platzi.com/clases/1365-kubernetes-xertica/13712-que-son-los-pods/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **cesarredondoarrieta** (1)
+* **cesarredondoarrieta** (1) [510466](https://platzi.com/comentario/510466/) 
 
-	
 	Lastima que para la practica no usamos minikube o algun equivalente, no voy a poner mi informacion de la tarjeta de credito en GCP para crear un cluster
 
-	* **Juan Francisco Mosquera** (1)
+	* **Juan Francisco Mosquera** [510466] (1)
 
-		
 		Uy si , algún summary con todos los conceptos , creo que es algo general que deberían mejorar en todos los cursos y lograra agregar un valor diferencial .
 
-	* **felipe-rv** (1)
+	* **felipe-rv** [510466] (1)
 
-		
 		Usa una tarjeta visa prepago… por ejemplo Match en Chile
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [510466] (1)
 
-		
 		¡Tarjeta de crédito! VISA o MASTERCARD.
 
-	* **Kevin William Roberts Costa** (1)
+	* **Kevin William Roberts Costa** [510466] (1)
 
-		
 		es un curso de Google Kubernetes Engine
 
-* **dariovinueza** (1)
+* **dariovinueza** (1) [403687](https://platzi.com/comentario/403687/) 
 
-	
 	Buenas tardes, a que se refiere con compartir almacenamiento? comparten una base de datos? archivos de configuración? que es lo que comparten?
 	
 	Muchas Gracias!
 
-	* **aparicio_juan** (1)
+	* **aparicio_juan** [403687] (1)
 
-		
 		Si no me equivoco que puede pasar, con almacenamiento se refiere al almacenamiento que usas de google en la misma nube como storage o datastore. ya que en teoria usas los contenedores para correr cosas y el almacenamiento lo hacen en otro lado. Claro que en la practica puedes tenes un contenedor de Postgres y almacenar alli sin problemas. Creo que es asi.
 
-* **Alvaro   Gonzalez** (1)
+* **Alvaro   Gonzalez** (1) [384730](https://platzi.com/comentario/384730/) 
 
-	
 	Implica como minimo es necesario 2 nodos, uno el master y otro de las funcionalidades …?
 
-	* **Alejandro Ortegano** (1)
+	* **Alejandro Ortegano** [384730] (1)
 
-		
 		es lo recomendado
 
-	* **Alejandro Ortegano** (1)
+	* **Alejandro Ortegano** [384730] (1)
 
-		
 		si son mas mejor pero también depende del tamaño de tu proyecto que vas a realizar
 
-	* **nachoogoomez** (2)
+	* **nachoogoomez** [384730] (2)
 
-		
 		Claro, todo cluster implica > 1 máquina. De todas formas **creo** que el master lo abstrae google y tu solo tienes que contratar los workers.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [384730] (1)
 
-		
 		¡La mejor opción!
 
-* **dariovinueza** (1)
+* **dariovinueza** (1) [44050](https://platzi.com/comentario/403687/) 
 Buenas tardes, a que se refiere con compartir almacenamiento? comparten una base de datos? archivos de configuración? que es lo que compa...
 
-	* **aparicio_juan** (1)
+	* **aparicio_juan** [44050] (1)
 
-		
 		Si no me equivoco que puede pasar, con almacenamiento se refiere al almacenamiento que usas de google en la misma nube como storage o datastore. ya que en teoria usas los contenedores para correr cosas y el almacenamiento lo hacen en otro lado. Claro que en la practica puedes tenes un contenedor de Postgres y almacenar alli sin problemas. Creo que es asi.
 
-## 0090. Deployments
+## 0090. Deployments [13713](https://platzi.com/clases/1365-kubernetes-xertica/13713-deployments/)
 
 ### Descripción:
 
@@ -656,73 +586,62 @@ Los deployments son una abstracción de nuestra aplicación que nos permite crea
 
 ### Comentarios:
 
-* **Johan Steven Arias** (2)
+* **Johan Steven Arias** (2) [426349](https://platzi.com/comentario/426349/) 
 
-	
 	saludos, tengo una duda, porque cada una de las replicas tiene una dirección ip, no se suponia que todos los pods compartirian la misma dirección ip ?..o cada direccion ip segun lo que esta en la imagen corresponde a cada nodo ?
 
-	* **nachoogoomez** (1)
+	* **nachoogoomez** [426349] (1)
 
-		
 		Amigo… 2 meses y no tienes respuesta… ya lo siento. Y no, cada pod tiene una ip diferente dentro de la subred de pods
 
-	* **Sebastian Borrajo** (2)
+	* **Sebastian Borrajo** [426349] (2)
 
-		
 		En realidad, un pod tiene una IP, siendo que dentro hay contenedores, estos contenedores comparten esa IP
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [426349] (1)
 
-		
 		¡Muy buena aclaración!
 
-* **Mariano34** (2)
+* **Mariano34** (2) [415198](https://platzi.com/comentario/415198/) 
 
-	
 	Sería bueno un material escrito para poder leer y reforzar el concepto ya que fue algo rápida la explicación
 
-* **vanesora** (1)
+* **vanesora** (1) [1108074](https://platzi.com/comentario/1108074/) 
 
-	
 	Muy vago
 
-* **huascarm** (1)
+* **huascarm** (1) [824057](https://platzi.com/comentario/824057/) 
 
-	
 	Pregunta: Pueden existir mas de un Pod por nodo?, es correcto decir que la cantidad de réplicas define la cantidad de nodos?
 
-	* **Kevin Stuardo Lorenzo Coshic** (1)
+	* **Kevin Stuardo Lorenzo Coshic** [824057] (1)
 
-		
 		Un Nodo si puede tener múltiples Pods. Fuente: <https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/>.
 
-## 0100. Pods y Deployments en practica
+## 0100. Pods y Deployments en practica [13714](https://platzi.com/clases/1365-kubernetes-xertica/13714-pods-y-deployments-en-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1026742](https://platzi.com/comentario/1026742/) 
 
-	
 	Tuve que deshabilitar el autoescalado para poder usar solo 2 (cambiando desde el yaml). Es como que edito el yaml y lo guardo pero después vuelve sólo a 3
 
-* **Carlos Jose Solar Zamorano** (1)
+* **Carlos Jose Solar Zamorano** (1) [605007](https://platzi.com/comentario/605007/) 
 
-	
 	por que a los nodos por defecto tienen el sufijo  
 	default-pool?
 
-* **Germain Rafael Bueno Taguariparo** (1)
+* **Germain Rafael Bueno Taguariparo** (1) [468597](https://platzi.com/comentario/468597/) 
 
-	
 	Santo cielos que maravilla…
 
-* **JMM** (1)
+* **JMM** (1) [76752](https://platzi.com/comentario/892449/) 
 No me que claro algo… Había 3 nodos en el cluster. Cuando se desplegaron 2 replicas (entiendo que son 2 pods) ¿Se desplegaron en 2 nodos,...
 
-## 0110. Servicios
+## 0110. Servicios [13715](https://platzi.com/clases/1365-kubernetes-xertica/13715-servicios9803/)
 
 ### Descripción:
 
@@ -731,121 +650,103 @@ Los servicios nos permiten ingresar tráfico y conectar los diferentes servicios
 
 ### Comentarios:
 
-* **nachoogoomez** (6)
+* **nachoogoomez** (6) [471836](https://platzi.com/comentario/471836/) 
 
-	
 	Me quedaron muchas muchas dudas… ya que esto es un curso específico de Google Cloud en su rama Kubernetes entiendo que lo más lógico sería explicar los distintos balanceadores de carga y no tomar por sentado la “normal general” de kubernetes de que cuando usas un servicio load balancer este pasara todo el trafico por el nodo maestro… En google cloud el nodo maestro esta abstraido por google y para nosotros simplemente no existe. Además, cuando usas un servicio de tipo loadbalancer lo que estas haciendo es usar un servicio de balanceo de carga de google, contratando este claro esta (muy parecido a la explicación del node port)
 	
 	La cosa esta en, sabiendo lo antes explicado, estaría genial que hubieran explicado los distintos tipos de balanceadores de carga que hay en google cloud y como configurar estos a través del archivo yaml (en la clase practica)
 
-	* **REINALDO ORJUELA GODOY** (2)
+	* **REINALDO ORJUELA GODOY** [471836] (2)
 
-		
 		Si de acuerdo, si bien hay que investigar, debería tener un poco mas de fondo las explicaciones. Les recomiendo el de swarm para que vean la diferencia.
 
-	* **Juan Francisco Mosquera** (2)
+	* **Juan Francisco Mosquera** [471836] (2)
 
-		
 		uy 4.51 minutos de un millón de conceptos , deberían colocar slides para estas cosas.
 
-* **Omar Alvarez** (6)
+* **Omar Alvarez** (6) [403735](https://platzi.com/comentario/403735/) 
 
-	
 	[https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0](url) Este es un complemento de lo que se vio en la clase
 
-	* **Carlos Jose Solar Zamorano** (2)
+	* **Carlos Jose Solar Zamorano** [403735] (2)
 
-		
 		Muy buen aporte!
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [403735] (1)
 
-		
 		¡Muy bueno!
 
-	* **Christian Acevedo** (1)
+	* **Christian Acevedo** [403735] (1)
 
-		
 		Excelente, muchas gracias
 
-* **Christian Acevedo** (1)
+* **Christian Acevedo** (1) [1077504](https://platzi.com/comentario/1077504/) 
 
-	
 	Esta clase estuvo demasiado confusa, ya que segun el diagrama de arquitectura de Kubernetes el trafico jamas pasa por el nodo maestro, este nodo unicamente realiza las veces de orquestador y gestionador de las nodos workers y el estado deseado del cluster.
 
-## 0120. Servicios en práctica
+## 0120. Servicios en práctica [13716](https://platzi.com/clases/1365-kubernetes-xertica/13716-servicios-en-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1022017](https://platzi.com/comentario/1022017/) 
 
-	
 	No pude seguir.
 	
 	“kubectl exec -it petclinic-app-app-6cd9875dc5-drdpr bash  
 	OCI runtime exec failed: exec failed: container_linux.go:345: starting container process caused “exec: “bash”: executable file not found in $PATH”: unknown  
 	command terminated with exit code 126”
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1022017] (1)
 
-		
 		Prueba reiniciar el pod o redesplegar el servicio en el cluster, ese error me pasa algunas veces en local y se soluciona borrando el contenedor de docker y volviendolo a crear.
 
-	* **Kevin William Roberts Costa** (1)
+	* **Kevin William Roberts Costa** [1022017] (1)
 
-		
 		Hola Diego, borré todo el cluster y volví a crear. Me aparece lo mismo 😦
 
-	* **Kevin William Roberts Costa** (1)
+	* **Kevin William Roberts Costa** [1022017] (1)
 
-		
 		Por lo que entendí es algo en lo que se basa la imágen que usé
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [1022017] (2)
 
-		
 		Trata de borrar las imágenes base y vuelve a crearlas.
 
-	* **vanesora** (1)
+	* **vanesora** [1022017] (1)
 
-		
 		intenta con sh en vez de bash
 
-* **nachoogoomez** (1)
+* **nachoogoomez** (1) [384842](https://platzi.com/comentario/384842/) 
 
-	
 	Pregunta!!
 	
 	Escenario: 1 deployment con 1 réplica de un servidor http y 1 deployment con 2 réplicas de un API privada. Si quiero crear un servicio para exponer las API privadas al contenedor http y que este servicio me balance las cargas entre las 2 replicas de API el ClusterIP me balancearía ? Si no es así como puedo balancear las cargas sin exponer el servicio a internet?
 
-	* **nachoogoomez** (1)
+	* **nachoogoomez** [384842] (1)
 
-		
 		Entiendo que podría ponerlo como NodePort detrás de un balanceador de carga de GCP y poner reglas para que solo acepte peticiones de la red privada.
 		
 		Aun así sigue siendo interesante la duda. ¿Qué sucede si pongo un deployment con 2 replicas detrás de un Service ClusterIP? ¿Balancea la carga? 🤔
 
-	* **Carlos Prieto** (1)
+	* **Carlos Prieto** [384842] (1)
 
-		
 		Efectivamente sería con clusterIP, pero si se quiere un balanceo de carga más eficiente se puede hacer con un Loadbalancer y en el yaml se indica que no es exponga por lo tanto quedaría como privado. En el vinculo que ponga acontinuación se explica como hacerlo.
 		
 		<https://cloud.google.com/kubernetes-engine/docs/how-to/internal-load-balancing>
 
-* **nachoogoomez** (1)
+* **nachoogoomez** (1) [42253](https://platzi.com/comentario/384842/) 
 Pregunta!! Escenario: 1 deployment con 1 réplica de un servidor http y 1 deployment con 2 réplicas de un API privada. Si quiero crear un ...
 
-	* **nachoogoomez** (1)
+	* **nachoogoomez** [42253] (1)
 
-		
 		Entiendo que podría ponerlo como NodePort detrás de un balanceador de carga de GCP y poner reglas para que solo acepte peticiones de la red privada.
 		
 		Aun así sigue siendo interesante la duda. ¿Qué sucede si pongo un deployment con 2 replicas detrás de un Service ClusterIP? ¿Balancea la carga? 🤔
 
-## 0130. Servicios en práctica  Loadbalancer
+## 0130. Servicios en práctica  Loadbalancer [13717](https://platzi.com/clases/1365-kubernetes-xertica/13717-servicios-en-practica-loadbalancer/)
 
 ### Descripción:
 
@@ -854,51 +755,44 @@ Recuerda que puedes tomar el [Curso Profesional de DevOps](https://platzi.com/cl
 
 ### Comentarios:
 
-## 0140. Servicios en práctica  Node Port
+## 0140. Servicios en práctica  Node Port [13718](https://platzi.com/clases/1365-kubernetes-xertica/13718-servicios-en-practica-node-port/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Julio Cesar Jaramillo Palacios** (3)
+* **Julio Cesar Jaramillo Palacios** (3) [401025](https://platzi.com/comentario/401025/) 
 
-	
 	Esta configuracion les funciono??
 
-	* **asolorzano** (4)
+	* **asolorzano** [401025] (4)
 
-		
 		A mi no me funciono, me muestra el siguiente error  
 		404\. That’s an error.
 		
 		The requested URL / was not found on this server. That’s all we know.
 
-	* **Julio Cesar Jaramillo Palacios** (2)
+	* **Julio Cesar Jaramillo Palacios** [401025] (2)
 
-		
 		si bueno lo aceptare como un reto, ya que lo solucione comparto la solución aquí, gracias por responder.
 
-	* **dariovinueza** (1)
+	* **dariovinueza** [401025] (1)
 
-		
 		Si tengo el mismo problema!
 
-	* **Walter Chacón** (1)
+	* **Walter Chacón** [401025] (1)
 
-		
 		Tuve el mismo problema, 404. El problema es que el Loadbalancer no tiene acceso al nodeport service y lo que no explican en el video es que hay que agregar un nuevo rule en el firewall para que cualquier address 0.0.0.0/0 tenga acceso al nodeport (<https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps>), sigan los pasos en la sección “Create a firewall rule for your node port”
 
-	* **Javier González de Lope** (1)
+	* **Javier González de Lope** [401025] (1)
 
-		
 		A mí tampoco me funcionó la configuración que explican en el vídeo. Y tras añadir la excepción en el firewall, el error pasó a ser el siguiente:
 		
 		![error_lb.png](https://static.platzi.com/media/user_upload/error_lb-05e35dc4-9b24-4630-b9bf-f3db7b043a4c.jpg)
 
-* **Jair Sebastian Lozano Moron** (2)
+* **Jair Sebastian Lozano Moron** (2) [712850](https://platzi.com/comentario/712850/) 
 
-	
 	Para el problema en el que les sale el error 404, ingresen el siguiente codigo:
 	``` 
 	    gcloud compute firewall-rules create test-node-port --allow tcp:[NODE_PORT]
@@ -907,19 +801,16 @@ Recuerda que puedes tomar el [Curso Profesional de DevOps](https://platzi.com/cl
 	
 	donde nodeport es el “puerto de nodo” que etaá dentro de su servicio creado de tipo nodeport.
 
-	* **ricardo-rod** (2)
+	* **ricardo-rod** [712850] (2)
 
-		
 		Muchas gracias Mr. Sebastian. 1000 x 1000 su aporte!
 
-	* **Brayan Mamani** (2)
+	* **Brayan Mamani** [712850] (2)
 
-		
 		¡Excelente información!
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1026816](https://platzi.com/comentario/1026816/) 
 
-	
 	Health incorrecto y este error en el puerto 80
 	``` 
 	    Error: ServerError
@@ -928,48 +819,40 @@ Recuerda que puedes tomar el [Curso Profesional de DevOps](https://platzi.com/cl
 	    
 	```
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1026791](https://platzi.com/comentario/1026791/) 
 
-	
 	update: Tenemos que poner la opción “DESDE INTERNET” después de seleccionar HTTP/HTTPS
 
-* **christian araya aros** (1)
+* **christian araya aros** (1) [876845](https://platzi.com/comentario/876845/) 
 
-	
 	Carlos, tengo un dockerfile que crea una maquina para conectar a un mysql externo, ejecuta una query, descarga el resultado a un archivo y envia este a una carpeta del storage de gcp.  
 	el acceso a este mysql es autorizado por IP, user, pass
 	
 	Pregunta cual es la mejor opcion para el deploy (local funciona perfecto). Pero al intentar deploy envia error CrashLoopBackOff en los pods
 
-* **Daniel Herrera** (1)
+* **Daniel Herrera** (1) [538008](https://platzi.com/comentario/538008/) 
 
-	
 	Siguiendo los pasos descritos, cuando se accede a la ip que nos devuelve el LB este arroja un error 404, alguien logró resolverlo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [538008] (1)
 
-		
 		Verifica que el servicio de tomcat este corriendo y que tengas correctamente configurado el LB, alguna configuración puede estar generando que no este conectando la instancia con el LB y por eso lanza el 404
 
-	* **Walter Chacón** (2)
+	* **Walter Chacón** [538008] (2)
 
-		
 		Tuve el mismo problema, 404. El problema es que el Loadbalancer no tiene acceso al nodeport service y lo que no explican en el video es que hay que agregar un nuevo rule en el firewall para que cualquier address 0.0.0.0/0 tenga acceso al nodeport (<https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps>), sigan los pasos en la sección “Create a firewall rule for your node port”
 
-* **Germain Rafael Bueno Taguariparo** (1)
+* **Germain Rafael Bueno Taguariparo** (1) [468736](https://platzi.com/comentario/468736/) 
 
-	
 	Esta con figuración no funciona…  
 	por favor actualizar el contenido… Estoy buscando documentación al respecto y no encuentro la solución y es un item muy importante.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [468736] (1)
 
-		
 		Qué error te da, si compartes el problema que tienes de seguro te podemos ayudar, que recuerde la configuración para nodeport no hay cambiado, aquí esta la documentación oficial <https://kubernetes.io/docs/concepts/services-networking/service/#nodeport>
 
-* **zvillafuertesalvador** (1)
+* **zvillafuertesalvador** (1) [459745](https://platzi.com/comentario/459745/) 
 
-	
 	Me aparece el siguiente error Carlos Prieto:
 	
 	  1. That’s an error.
@@ -982,48 +865,43 @@ Recuerda que puedes tomar el [Curso Profesional de DevOps](https://platzi.com/cl
 	
 	Saudos.
 
-* **Daniel Herrera** (1)
+* **Daniel Herrera** (1) [55129](https://platzi.com/comentario/538008/) 
 Siguiendo los pasos descritos, cuando se accede a la ip que nos devuelve el LB este arroja un error 404, alguien logró resolverlo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [55129] (1)
 
-		
 		Verifica que el servicio de tomcat este corriendo y que tengas correctamente configurado el LB, alguna configuración puede estar generando que no este conectando la instancia con el LB y por eso lanza el 404
 
-* **Germain Rafael Bueno Taguariparo** (1)
+* **Germain Rafael Bueno Taguariparo** (1) [49541](https://platzi.com/comentario/468736/) 
 Esta con figuración no funciona… por favor actualizar el contenido… Estoy buscando documentación al respecto y no encuentro la solución y...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [49541] (1)
 
-		
 		Qué error te da, si compartes el problema que tienes de seguro te podemos ayudar, que recuerde la configuración para nodeport no hay cambiado, aquí esta la documentación oficial <https://kubernetes.io/docs/concepts/services-networking/service/#nodeport>
 
-## 0150. Crea tu primer Hola Mundo en Google Kubernetes Engine
+## 0150. Crea tu primer Hola Mundo en Google Kubernetes Engine [13719](https://platzi.com/clases/1365-kubernetes-xertica/13719-crea-tu-primer-hola-mundo-en-google-kubernetes-eng/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **dutchster** (1)
+* **dutchster** (1) [428590](https://platzi.com/comentario/428590/) 
 
-	
 	Hola, perdon ando paso a paso, mi pregunta es como configurar un apache un servicio LAMP, al mismo tiempo teniendo en otro contenedor dar servicios de ofimatica de ingresos a ciertas maquinas con claves, claro y que puedan usar la ofimatica de window …? es una prueba , gracias .
 
-* **Alvaro   Gonzalez** (1)
+* **Alvaro   Gonzalez** (1) [384758](https://platzi.com/comentario/384758/) 
 
-	
 	Si quiero actualizar petclinic, como se hace …?
 
-	* **Alejandro Ortegano** (1)
+	* **Alejandro Ortegano** [384758] (1)
 
-		
 		a que te refieres con actualizarlo osea que si tiene la versión 1.0 que tu fondo es azul y quieras montar tu versión 1.1 que tiene fondo azul y le cambiaste el color a un botón mas otro cambios agregados…  
 		si es eso mi recomendación es que montes todo a partir de los archivos yml con tu deploy y servicio
 
-# Conceptos intermedios
+# Conceptos intermedios [2545]
 
-## 0160. Archivos descriptivos de infraestructura teoria y práctica
+## 0160. Archivos descriptivos de infraestructura teoria y práctica [13720](https://platzi.com/clases/1365-kubernetes-xertica/13720-archivos-descriptivos-de-infraestructura-teoria-y-/)
 
 ### Descripción:
 
@@ -1034,37 +912,31 @@ En estos archivos vamos a describir toda la parte lógica de nuestra aplicación
 
 ### Comentarios:
 
-* **Alvaro   Gonzalez** (4)
+* **Alvaro   Gonzalez** (4) [384762](https://platzi.com/comentario/384762/) 
 
-	
 	Por que no se eplico cada uno de las secciones de archivo deployment.yaml ?
 
-* **juan camilo castillo saucedo** (1)
+* **juan camilo castillo saucedo** (1) [764706](https://platzi.com/comentario/764706/) 
 
-	
 	Lo que no se puede describir como Cluster y Nodos si puede hacerse con [Terraform](https://www.terraform.io/)
 
-* **VG_Analistas** (1)
+* **VG_Analistas** (1) [673043](https://platzi.com/comentario/673043/) 
 
-	
 	Por cada cambio que haya, generare un nuevo deployment?
 
-* **Victoria Tejeda** (1)
+* **Victoria Tejeda** (1) [545892](https://platzi.com/comentario/545892/) 
 
-	
 	Integración Continua… hablas de Spinnaker?
 
-* **Germain Rafael Bueno Taguariparo** (1)
+* **Germain Rafael Bueno Taguariparo** (1) [468771](https://platzi.com/comentario/468771/) 
 
-	
 	Muy interesante y todo pero este cotenido de este punto en adelante desanima si no dan soporte al video donde varios usaurios les indicamos que nos da error crear el Loadbalancer
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [468771] (1)
 
-		
 		Qué tipo de error tienes, si compartes el error es más fácil poderte ayudar.
 
-## 0170. Labels teoría
+## 0170. Labels teoría [13721](https://platzi.com/clases/1365-kubernetes-xertica/13721-labels-teoria/)
 
 ### Descripción:
 
@@ -1075,7 +947,7 @@ Los selectores son una herramienta que nos permite utilizar los labels para sabe
 
 ### Comentarios:
 
-## 0180. Namespaces teoría
+## 0180. Namespaces teoría [13722](https://platzi.com/clases/1365-kubernetes-xertica/13722-namespaces-teoria/)
 
 ### Descripción:
 
@@ -1084,44 +956,40 @@ Los Namespaces son una separación virtual dentro de nuestro cluster con el fin 
 
 ### Comentarios:
 
-## 0190. Labels y Namespaces explicación gráfica
+## 0190. Labels y Namespaces explicación gráfica [13723](https://platzi.com/clases/1365-kubernetes-xertica/13723-labels-y-namespaces-explicacion-grafica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Gonzalo Ezequiel Castro** (1)
+* **Gonzalo Ezequiel Castro** (1) [499974](https://platzi.com/comentario/499974/) 
 
-	
 	Cuando queremos separar nuestra arquitectura en diferentes enviromente (prod, test…) Cúal es la diferencia entre projecto o namespace? Cúal es la más recomendada?
 
-	* **harryharango** (2)
+	* **harryharango** [499974] (2)
 
-		
 		Hola compañero, voy a intentar responder lo que yo consideraría su uso, los **namespaces **, nos permite un aislamiento virtual en los nodos de del **cluster de google cloud** , por ejemplo en parametrizaciónes, podemos tener las conexiones a BD, valores secretos, volúmenes en específicos(directorios compartidos) por ambiente que nuestra app tomaría al momento de su ejecución. es decir que este tipo de configuración nos evita realizar un trabajo manual de configuración por ambiente y realizar una segregación de cosas de infraestructura, que no haya una afectación.  
 		Por ejemplo se me ocurre, si quisieras paralizar un desarrollo y que dos equipos usen cosas diferentes en recursos físicos BD, directorios, etc, podrías tener dos ambientes de Testing. para esto seria su utilidad. espero haberte contestado a su pregunta
 
-## 0200. Labels y Namespaces en práctica
+## 0200. Labels y Namespaces en práctica [13724](https://platzi.com/clases/1365-kubernetes-xertica/13724-labels-y-namespaces-en-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jair Sebastian Lozano Moron** (2)
+* **Jair Sebastian Lozano Moron** (2) [712991](https://platzi.com/comentario/712991/) 
 
-	
 	cuando eliminaste o donde está el workload(carga de trabajo) petclinic-app1 y además estabamos trabajando en el cluster petclinic, y ahora resulta que cambiaste de cluster petclinic al cluster-1 creado en el video para youtube, porqué?
 
-* **Kevin William Roberts Costa** (0)
+* **Kevin William Roberts Costa** (0) [1029006](https://platzi.com/comentario/1029006/) 
 
-	
 	Entonces cuando haces  
 	`kubectl get pod`  
 	se recibe default?
 
-## 0210. Deployment Avanzado (Blue-green y Canary Deployment)
+## 0210. Deployment Avanzado (Blue-green y Canary Deployment) [13725](https://platzi.com/clases/1365-kubernetes-xertica/13725-deployment-avanzado-bluegreen-y-canary-deployment/)
 
 ### Descripción:
 
@@ -1132,16 +1000,15 @@ Los Namespaces son una separación virtual dentro de nuestro cluster con el fin 
 
 ### Comentarios:
 
-## 0220. Implementando Deployment avanzados
+## 0220. Implementando Deployment avanzados [13726](https://platzi.com/clases/1365-kubernetes-xertica/13726-implementando-deployment-avanzados/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Alejandro Ortegano** (3)
+* **Alejandro Ortegano** (3) [384804](https://platzi.com/comentario/384804/) 
 
-	
 	para mejor practica cuando construyan el contenedor usen esta bandera
 	``` 
 	    docker build -t nameimage:tag
@@ -1156,37 +1023,34 @@ Los Namespaces son una separación virtual dentro de nuestro cluster con el fin 
 	
 	y asi no usan un paso mas seria lo del tag
 
-	* **Alejandro Ortegano** (2)
+	* **Alejandro Ortegano** [384804] (2)
 
 		```
 		    dockerbuild -t gcr.io/nameproject./spring-framawork-petclinc:v2
 		    
 		```
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1029231](https://platzi.com/comentario/1029231/) 
 
-	
 	De donde salió el puerto :’( no me funciona
 
-	* **Kevin William Roberts Costa** (1)
+	* **Kevin William Roberts Costa** [1029231] (1)
 
-		
 		En la clase 5 dejaron una re ayuda, resulta que no hay que usar TOMCAT, sino jetty  
 		./mvnw jetty:run-war
 
-## 0230. Terminando de implementar nuestro canary deployment
+## 0230. Terminando de implementar nuestro canary deployment [13727](https://platzi.com/clases/1365-kubernetes-xertica/13727-terminando-de-implementar-nuestro-canary-deploymen/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Carlos Jose Solar Zamorano** (1)
+* **Carlos Jose Solar Zamorano** (1) [607558](https://platzi.com/comentario/607558/) 
 
-	
 	Acá hay un poco más de información de los tipos de despliegue: <https://container-solutions.com/kubernetes-deployment-strategies/>
 
-## 0240. Volúmenes
+## 0240. Volúmenes [13728](https://platzi.com/clases/1365-kubernetes-xertica/13728-volumenes0735/)
 
 ### Descripción:
 
@@ -1197,26 +1061,23 @@ Los volúmenes son ideales para guardar la información de nuestros usuarios, ar
 
 ### Comentarios:
 
-* **Syddar Bujato** (1)
+* **Syddar Bujato** (1) [519077](https://platzi.com/comentario/519077/) 
 
-	
 	Excelente curso
 
-* **Syddar Bujato** (1)
+* **Syddar Bujato** (1) [519074](https://platzi.com/comentario/519074/) 
 
-	
 	Interesante curso
 
-## 0250. Volúmenes en práctica
+## 0250. Volúmenes en práctica [13729](https://platzi.com/clases/1365-kubernetes-xertica/13729-volumenes-en-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Alejandro Ortegano** (2)
+* **Alejandro Ortegano** (2) [384639](https://platzi.com/comentario/384639/) 
 
-	
 	una duda los archivos que queramos guardar en nuestro volumen tiene que estar en la ruta que creamos en el volumen. como en el ejemplo
 	``` 
 	    -mountPath: /test-pd
@@ -1225,39 +1086,34 @@ Los volúmenes son ideales para guardar la información de nuestros usuarios, ar
 	
 	y si funcionaria con los volúmenes persistente de kubernetes??
 
-* **eveyeti** (1)
+* **eveyeti** (1) [568371](https://platzi.com/comentario/568371/) 
 
-	
 	Una consulta. Tengo un despliegue con una Base de datos Postgres, realicé el procedimiento de asociarle un disco persistente, tal como se enseñá en la práctica. Pero al eliminar el pod y recrearlo, efectivamente en el volumen se mantiene un directorio que creé de prueba. Pero los las tablas y registros que creé en la base de datos de prueba ya no existen. En este caso cual es el procedimiento cuando se trata de bases de datos, para actualizar la versión de la misma sin perder los datos?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [568371] (1)
 
-		
 		No vasta solo con montar el volumen, debes hacer un mapeo de la carpeta del volumen montado con la carpeta de la base de datos.
 
-* **ernesto** (1)
+* **ernesto** (1) [392824](https://platzi.com/comentario/392824/) 
 
-	
 	Hola que tal, el video no me esta cargando , utilizando chrome .
 
-* **eveyeti** (1)
+* **eveyeti** (1) [57710](https://platzi.com/comentario/568371/) 
 Una consulta. Tengo un despliegue con una Base de datos Postgres, realicé el procedimiento de asociarle un disco persistente, tal como se...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [57710] (1)
 
-		
 		No vasta solo con montar el volumen, debes hacer un mapeo de la carpeta del volumen montado con la carpeta de la base de datos.
 
-## 0260. RETO Crea un blue green deployment
+## 0260. RETO Crea un blue green deployment [13730](https://platzi.com/clases/1365-kubernetes-xertica/13730-reto-crea-un-blue-green-deployment/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1031049](https://platzi.com/comentario/1031049/) 
 
-	
 	Armar la nueva versión, en este caso la v3
 	``` 
 	    ./mvnw jetty:run-war
@@ -1270,15 +1126,15 @@ Una consulta. Tengo un despliegue con una Base de datos Postgres, realicé el pr
 	
 	ir a Workloads > +Deploy
 	
-	  * Seleccionar spring-framework-petclinic:v3
+	* Seleccionar spring-framework-petclinic:v3
 	
-	  * App name: petclinicapp-v3
+	* App name: petclinicapp-v3
 	
-	  * Deploy
+	* Deploy
 	
-	  * Expose
+	* Expose
 	
-	  * Mapping 8080:8080/TCP
+	* Mapping 8080:8080/TCP
 	
 	
 	
@@ -1287,9 +1143,9 @@ Una consulta. Tengo un despliegue con una Base de datos Postgres, realicé el pr
 	
 	*pd: insertar imágenes arrastrando no funciona. (firefox)
 
-# Arquitectura de una app más robusta
+# Arquitectura de una app más robusta [2546]
 
-## 0270. Desplegar una aplicación Stateful Teoría
+## 0270. Desplegar una aplicación Stateful Teoría [13731](https://platzi.com/clases/1365-kubernetes-xertica/13731-desplegar-una-aplicacion-stateful-teoria/)
 
 ### Descripción:
 
@@ -1298,26 +1154,23 @@ Las aplicación Stateful son aplicaciones que guardan el estado de los datos par
 
 ### Comentarios:
 
-* **nachoogoomez** (1)
+* **nachoogoomez** (1) [385031](https://platzi.com/comentario/385031/) 
 
-	
 	Aquí viene lo bueno!!! 🚀 Aun que me da mucha pena que no se explique StorageClass y no se vayan a poner ejemplos de creación de cluster stateful de mongo, mysql, etc… 😔
 
-	* **nachoogoomez** (4)
+	* **nachoogoomez** [385031] (4)
 
-		
 		Dejo un tutorial oficial de Kubernetes para montar un Replica Set de Mongo con Stateful Set: <https://kubernetes.io/blog/2017/01/running-mongodb-on-kubernetes-with-statefulsets/>
 
-## 0280. Desplegar una aplicación Stateful Práctica
+## 0280. Desplegar una aplicación Stateful Práctica [13732](https://platzi.com/clases/1365-kubernetes-xertica/13732-desplegar-una-aplicacion-stateful-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Alejandro Ortegano** (2)
+* **Alejandro Ortegano** (2) [387507](https://platzi.com/comentario/387507/) 
 
-	
 	tengo una duda e ejecutado un pod de postgres y configurado todo de como esta en este video. y creo una tabla dentro de postgres de la siguiente manera
 	``` 
 	    $ su postgres
@@ -1328,37 +1181,31 @@ Las aplicación Stateful son aplicaciones que guardan el estado de los datos par
 	
 	todo va bien pero cuando mato el pods y vuelvo a crearlo no tiene la tabla en ella y estoy utilizando un disco ?? como funcinaria en este caso ya que de esta forma no tengo muy claro su funcionamiento de los volumenes
 
-	* **Carlos Prieto** (3)
+	* **Carlos Prieto** [387507] (3)
 
-		
 		Por lo que comentas parece que el volumen no está en la ruta donde postgresql almacena los datos. Verifica que estas cargando el volumen en la ruta de postgresql, si utilizas la imagen postgres:9.4 la ruta de montaje de volumen debería ser /var/lib/postgresql/data
 
-	* **Alejandro Ortegano** (1)
+	* **Alejandro Ortegano** [387507] (1)
 
-		
 		gracias amigo si era es error despues me di cuenta que eso. gracias de toda forma
 
-	* **Alejandro Ortegano** (1)
+	* **Alejandro Ortegano** [387507] (1)
 
-		
 		le estaba pasando otra ruta que no era
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [387507] (1)
 
-		
 		¡A bueno!
 
-* **Alejandro Ortegano** (2)
+* **Alejandro Ortegano** (2) [42514](https://platzi.com/comentario/387507/) 
 tengo una duda e ejecutado un pod de postgres y configurado todo de como esta en este video. y creo una tabla dentro de postgres de la s...
 
-	* **Carlos Prieto** (3)
+	* **Carlos Prieto** [42514] (3)
 
-		
 		Por lo que comentas parece que el volumen no está en la ruta donde postgresql almacena los datos. Verifica que estas cargando el volumen en la ruta de postgresql, si utilizas la imagen postgres:9.4 la ruta de montaje de volumen debería ser /var/lib/postgresql/data
 
-* **jorgeguega** (1)
+* **jorgeguega** (1) [1070021](https://platzi.com/comentario/1070021/) 
 
-	
 	Hola a todos,  
 	hay un par de cosas que no me quedan claras o creo que están erroneas:
 	
@@ -1368,9 +1215,9 @@ tengo una duda e ejecutado un pod de postgres y configurado todo de como esta en
 	    
 	```
 	
-	  * Realmente te estas conectando al pod y no al servicio que has creado ¿Qué sentido tiene entonces crear el servicio?
+	* Realmente te estas conectando al pod y no al servicio que has creado ¿Qué sentido tiene entonces crear el servicio?
 	
-	  * Cuando creas el servicio le pones como selector app: mysql el pod no tiene esa label por lo que nunca va a mapear el tráfico a ese pod, habría que añadir por ejemplo, el código que dejo más abajo en el pod y añadirlo a la sección de selector del servicio.
+	* Cuando creas el servicio le pones como selector app: mysql el pod no tiene esa label por lo que nunca va a mapear el tráfico a ese pod, habría que añadir por ejemplo, el código que dejo más abajo en el pod y añadirlo a la sección de selector del servicio.
 	
 	
 	
@@ -1384,19 +1231,16 @@ tengo una duda e ejecutado un pod de postgres y configurado todo de como esta en
 	
 	Saludos 😉
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1031363](https://platzi.com/comentario/1031363/) 
 
-	
 	Wow estuve muchisimo tiempo debugueando el problema y en el minuto 7.20 pide crear el disco
 
-* **harryharango** (1)
+* **harryharango** (1) [623415](https://platzi.com/comentario/623415/) 
 
-	
 	Tengo una inquietud sobre el tipo de despliegue utilizado para la BD mysql, si es un **Stateful** , el kind en ves de ser **POD** no debería ser **kind: StatefulSet**??
 
-* **eveyeti** (1)
+* **eveyeti** (1) [568396](https://platzi.com/comentario/568396/) 
 
-	
 	En mi caso, realicé la prueba, con el mismo directorio, creé el despliegue de postgres para usar la data del despliegue anterior y en este el pod no se creo porque daba error “CrashLoopBackOff”. Al revisar los logs, sale el siguiente error:  
 	initdb: directory “/var/lib/postgresql/data” exists but is not empty  
 	If you want to create a new database system, either remove or empty  
@@ -1405,10 +1249,10 @@ tengo una duda e ejecutado un pod de postgres y configurado todo de como esta en
 	
 	Se entiende que el nuevo despliegue no puede apuntar a la misma ruta porque esa no está vacía. Es claro que debe estar llena, con los datos del despliegue anterior, pero postgres en mi caso se rehusa a tomar el mismo directorio como el de datos. ¿ Qué puedo hacer en este caso ?
 
-* **Andrés Muñoz** (1)
+* **Andrés Muñoz** (1) [83514](https://platzi.com/comentario/1028808/) 
 En un proyecto que ya maneja una carga significativa de usuarios se puede usar uno o varios containers con mongodb y estos conectados a u...
 
-## 0290. Auto Scaling teoría
+## 0290. Auto Scaling teoría [13733](https://platzi.com/clases/1365-kubernetes-xertica/13733-auto-scaling-teoria/)
 
 ### Descripción:
 
@@ -1419,72 +1263,63 @@ Entre más tráfico tenga nuestra aplicación, más nodos se crearán en nuestro
 
 ### Comentarios:
 
-* **Andrés Muñoz** (1)
+* **Andrés Muñoz** (1) [84473](https://platzi.com/comentario/1051579/) 
 Cuando una app empieza a autoScalar las personas que usan la app lo van a notar ? De pronto puede ser que un request se pierda ? O se pon...
 
-## 0300. Auto Scaling en práctica
+## 0300. Auto Scaling en práctica [13734](https://platzi.com/clases/1365-kubernetes-xertica/13734-auto-scaling-en-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **REINALDO ORJUELA GODOY** (2)
+* **REINALDO ORJUELA GODOY** (2) [506111](https://platzi.com/comentario/506111/) 
 
-	
 	Nada que funciona la prueba con backend …siempres sale error 404…
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1031433](https://platzi.com/comentario/1031433/) 
 
-	
 	Es una lástima que esta clase no se pueda hacer.
 
-* **Kevin William Roberts Costa** (1)
+* **Kevin William Roberts Costa** (1) [1031407](https://platzi.com/comentario/1031407/) 
 
-	
 	 **acá está directamente MAL**
 	
-	  * en 1:35 termina de crear cluster-1
-	  * en 1.41 hay un servicio ya funcionando en cluster-1  
+	* en 1:35 termina de crear cluster-1
+	* en 1.41 hay un servicio ya funcionando en cluster-1  
 	por favor presten atención en la edición esto es muy frustrante
 	
 	
 
-* **Juan Francisco Mosquera** (1)
+* **Juan Francisco Mosquera** (1) [531537](https://platzi.com/comentario/531537/) 
 
-	
 	porque fue necesario definir un load balancer , si en la definición del cluster ya tienes las reglas de autoscaling ? .
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [531537] (2)
 
-		
 		El loadbalancer es el que se encarga de dirigir el tráfico a la instancia del cluster con menos carga en el momento de la petición, si tienes 3 maquinas detrás de un load balancer entonces apenas llega una petición el load balancer intenta enviar la petición a la maquina con menos carga o la que responda más rápido.
 
-* **Juan Francisco Mosquera** (1)
+* **Juan Francisco Mosquera** (1) [531529](https://platzi.com/comentario/531529/) 
 
-	
 	Cuantas maquinas mínimas se requieren en un cluster ?.  
 	Google cloud platform tiene alguna herramienta para testear el estrés sobre el cluster ?.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [531529] (1)
 
-		
 		Eso depende del tráfico, si es poco el trafico puede que tu cluster de kubernetes corra en una sola maquina, también depende de las especificaciones de la máquina, no es lo mismo una maquina de 4gb de ram que una con 32gb de ram.
 
-* **Alfredo Arroyo Diaz** (1)
+* **Alfredo Arroyo Diaz** (1) [445694](https://platzi.com/comentario/445694/) 
 
-	
 	Apache benchmark = realiza pruebas de estres
 
-* **Rafael Ernesto Ferro González** (1)
+* **Rafael Ernesto Ferro González** (1) [407173](https://platzi.com/comentario/407173/) 
 
-	
 	Alguna referencia de como configurar esto directamente en los ficheros de configuración?
 
-* **Rafael Ernesto Ferro González** (1)
+* **Rafael Ernesto Ferro González** (1) [44363](https://platzi.com/comentario/407173/) 
 Alguna referencia de como configurar esto directamente en los ficheros de configuración?
 
-## 0310. Node Pools teoría
+## 0310. Node Pools teoría [13735](https://platzi.com/clases/1365-kubernetes-xertica/13735-node-pools-teoria/)
 
 ### Descripción:
 
@@ -1493,16 +1328,16 @@ Los Node Pools son agrupaciones de máquinas que nos permiten generar un cluster
 
 ### Comentarios:
 
-## 0320. Node Pools práctica
+## 0320. Node Pools práctica [13736](https://platzi.com/clases/1365-kubernetes-xertica/13736-node-pools-practica/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-# Contenido Bonus
+# Contenido Bonus [2547]
 
-## 0330. Generando un certificado https con Let's Encrypt para GCP
+## 0330. Generando un certificado https con Let's Encrypt para GCP [13737](https://platzi.com/clases/1365-kubernetes-xertica/13737-generando-un-certificado-https-con-lets-encrypt-pa/)
 
 ### Descripción:
 
@@ -1580,9 +1415,8 @@ Espero que esta información te sirva para la creación del certificado https en
 
 ### Comentarios:
 
-* **Kevin William Roberts Costa** (2)
+* **Kevin William Roberts Costa** (2) [1033275](https://platzi.com/comentario/1033275/) 
 
-	
 	No me funcionó
 	``` 
 	    $ echo "alias certbot='docker run -it -v ~/letsencrypt/:/etc/letsencrypt/ certbot/certbot'" >> .aliases echo "source .aliases" >> .bashrc source .aliases
@@ -1591,25 +1425,22 @@ Espero que esta información te sirva para la creación del certificado https en
 	    
 	```
 
-* **nachoogoomez** (2)
+* **nachoogoomez** (2) [42279](https://platzi.com/comentario/385064/) 
 ¿Con esta opción deberíamos actualizar manualmente nosotros los certificados cada tres meses no?
 
-	* **Carlos Prieto** (1)
+	* **Carlos Prieto** [42279] (1)
 
-		
 		Si, cada 3 meses se debe realizar la actualización manual de los certificados.
 
-* **nachoogoomez** (1)
+* **nachoogoomez** (1) [385064](https://platzi.com/comentario/385064/) 
 
-	
 	¿Con esta opción deberíamos actualizar manualmente nosotros los certificados cada tres meses no?
 
-	* **Carlos Prieto** (1)
+	* **Carlos Prieto** [385064] (1)
 
-		
 		Si, cada 3 meses se debe realizar la actualización manual de los certificados.
 
-## 0340. Certificado https
+## 0340. Certificado https [13738](https://platzi.com/clases/1365-kubernetes-xertica/13738-certificado-https/)
 
 ### Descripción:
 
@@ -1618,14 +1449,12 @@ En la lectura anterior aprendimos cómo crear y configurar un certificado https 
 
 ### Comentarios:
 
-* **isaacarismendi** (3)
+* **isaacarismendi** (3) [409353](https://platzi.com/comentario/409353/) 
 
-	
 	Hola, como pudiera realizar certificados con lets encrypt en kubernetes pero que se actualicen automaticamente ?
 
-	* **John Freddy Vega (Platzi)** (6)
+	* **John Freddy Vega (Platzi)** [409353] (6)
 
-		
 		Se hace con algo llamada “[Kubernetes Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)”. Ingress es la cosa (un API Object para ser técnico) que maneja el acceso externo de servicios en un cluster.
 		
 		La forma automática que encontré es esta:  
@@ -1640,23 +1469,20 @@ En la lectura anterior aprendimos cómo crear y configurar un certificado https 
 		
 		En el curso completo de Kubernetes (viene pronto) ahondaremos en eso.
 
-	* **julian aguirre Aguirre Romo** (1)
+	* **julian aguirre Aguirre Romo** [409353] (1)
 
-		
 		si creo q deberían haberlo enseñado, usar ingress con nginx o traefik con ssl
 
-	* **jorgeguega** (1)
+	* **jorgeguega** [409353] (1)
 
-		
 		Buenas justo lo que comenta @freddier yo lo he desplegado un mi proyecto con Helm y finciona muy bien. Te dejo el enlace:  
 		<https://github.com/helm/charts/tree/master/stable/cert-manager>
 
-* **isaacarismendi** (2)
+* **isaacarismendi** (2) [44572](https://platzi.com/comentario/409353/) 
 Hola, como pudiera realizar certificados con lets encrypt en kubernetes pero que se actualicen automaticamente ?
 
-	* **John Freddy Vega (Platzi)** (6)
+	* **John Freddy Vega (Platzi)** [44572] (6)
 
-		
 		Se hace con algo llamada “[Kubernetes Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)”. Ingress es la cosa (un API Object para ser técnico) que maneja el acceso externo de servicios en un cluster.
 		
 		La forma automática que encontré es esta:  
@@ -1671,20 +1497,18 @@ Hola, como pudiera realizar certificados con lets encrypt en kubernetes pero que
 		
 		En el curso completo de Kubernetes (viene pronto) ahondaremos en eso.
 
-* **Julián** (1)
+* **Julián** (1) [869393](https://platzi.com/comentario/869393/) 
 
-	
 	Si tengo 6 servicios debo actualizar uno por uno? haciendo todo el procedimiento 1x1 cada 3 meses?
 
-* **nachoogoomez** (1)
+* **nachoogoomez** (1) [475892](https://platzi.com/comentario/475892/) 
 
-	
 	A genial!!! Que este load balancer no es el load balancer por defecto que se crea cuando haces el servicio con tipo load balancer! Genial!!!
 
-* **Julián** (1)
+* **Julián** (1) [75402](https://platzi.com/comentario/869321/) 
 y si tengo más microservicios o “backends” el procedimiento indicado solo me genera https para el principal cómo hago para los demás?
 
-## 0350. Service mesh con Istio
+## 0350. Service mesh con Istio [13739](https://platzi.com/clases/1365-kubernetes-xertica/13739-service-mesh-con-istio/)
 
 ### Descripción:
 
@@ -1699,12 +1523,12 @@ Con Service Mesh podemos definir estas reglas de comunicación a un alto nivel, 
 
 **Caracteristicas de Service Mesh:**
 
-  * Red para servicios, no para bytes
-  * Visibilidad
-  * Resiliencia y eficacia
-  * Control de tráfico
-  * Seguridad
-  * Fortalecimiento de políticas
+* Red para servicios, no para bytes
+* Visibilidad
+* Resiliencia y eficacia
+* Control de tráfico
+* Seguridad
+* Fortalecimiento de políticas
 
 
 
@@ -1712,17 +1536,17 @@ Istio es un producto creado por Google e IBM que nos ayuda a reducir la compleji
 
 **Características de Istio:**
 
-  * Provee un service discovery
-  * Seguridad
-  * Instrumentación
-  * Rutas dinámicas
-  * Telemetría
+* Provee un service discovery
+* Seguridad
+* Instrumentación
+* Rutas dinámicas
+* Telemetría
 
 
 
 ### Comentarios:
 
-## 0360. StackDriver
+## 0360. StackDriver [13740](https://platzi.com/clases/1365-kubernetes-xertica/13740-stackdriver9249/)
 
 ### Descripción:
 
@@ -1731,10 +1555,10 @@ Stackdriver es un servicio que nos provee Google para monitoreo, alertas, logs y
 
 ### Comentarios:
 
-* **alexochoalacruz** (1)
+* **alexochoalacruz** (1) [84375](https://platzi.com/comentario/1049528/) 
 Para que genere la notificación en caso de error necesito un permiso en específico?, o debo ingresar los destinatarios en alguna parte?. ...
 
-## 0370. CICD con Cloud Builder
+## 0370. CICD con Cloud Builder [13741](https://platzi.com/clases/1365-kubernetes-xertica/13741-cicd-con-cloud-builder/)
 
 ### Descripción:
 
@@ -1747,7 +1571,7 @@ Cloud Builder nos ayuda a automatizar muchas tareas en el despliegue de aplicaci
 
 ### Comentarios:
 
-## 0380. CICD con Cloud Builder práctica
+## 0380. CICD con Cloud Builder práctica [13742](https://platzi.com/clases/1365-kubernetes-xertica/13742-cicd-con-cloud-builder-practica/)
 
 ### Descripción:
 
@@ -1758,20 +1582,18 @@ Cloud Builder nos ayuda a automatizar muchas tareas en el despliegue de aplicaci
 
 ### Comentarios:
 
-* **ricardocelis (Platzi)** (2)
+* **ricardocelis (Platzi)** (2) [384604](https://platzi.com/comentario/384604/) 
 
-	
 	<https://github.com/cprietorod/cloudBuilder.git>
 
-* **Julián** (1)
+* **Julián** (1) [850293](https://platzi.com/comentario/850293/) 
 
-	
 	El tema de la clase dice CI /CD pero no hacen CD, estoy estancado no puedo en la tarea que seguiría en el cloudbuild pasarle al deployment.yaml el contenedor creado recién no me acepta el $BUILD_ID
 
-* **julian aguirre Aguirre Romo** (1)
+* **julian aguirre Aguirre Romo** (1) [75075](https://platzi.com/comentario/863423/) 
 El tema de la clase dice CI /CD pero no hacen el deploy automitizado
 
-## 0390. Knative, GKE Serverless Addon
+## 0390. Knative, GKE Serverless Addon [13743](https://platzi.com/clases/1365-kubernetes-xertica/13743-knative-gke-serverless-addon/)
 
 ### Descripción:
 
@@ -1780,10 +1602,10 @@ El tema de la clase dice CI /CD pero no hacen el deploy automitizado
 
 **Características de Serverless** :
 
-  * No se administran servidores
-  * Auto Escalable
-  * Fácil integración con otros servicios del proveedor
-  * Cobro por uso
+* No se administran servidores
+* Auto Escalable
+* Fácil integración con otros servicios del proveedor
+* Cobro por uso
 
 
 
@@ -1793,60 +1615,58 @@ El tema de la clase dice CI /CD pero no hacen el deploy automitizado
 
 ### Comentarios:
 
-* **Wilson Fabian Pérez Sucuzhañay** (4)
+* **Wilson Fabian Pérez Sucuzhañay** (4) [395596](https://platzi.com/comentario/395596/) 
 
-	
 	YA con este video para que los anteriores jajaja
 
-	* **John Freddy Vega (Platzi)** (1)
+	* **John Freddy Vega (Platzi)** [395596] (1)
 
-		
 		¿Por qué? 🤔
 
-## 0400. Comandos utilizados en el curso
+## 0400. Comandos utilizados en el curso [13892](https://platzi.com/clases/1365-kubernetes-xertica/13892-comandos-utilizados-en-el-curso/)
 
 ### Descripción:
 
 
 ## Comandos Básicos de Docker
 
-  * git clone <https://github.com/spring-petclinic/spring-framework-petclinic.git> #clone
-  * cd ~/spring-framework-petclinic
-  * ./mvnw tomcat7:run-war #run app
-  * curl <http://localhost:9966/petclinic> #get app
-  * docker pull tomcat:8
-  * docker images
-  * docker run -d -p 8080:8080 tomcat:8
-  * docker ps
-  * docker exec -it <container id> bash
-  * docker stop <container id>
-  * docker ps -a
-  * docker rm <container id>
+* git clone <https://github.com/spring-petclinic/spring-framework-petclinic.git> #clone
+* cd ~/spring-framework-petclinic
+* ./mvnw tomcat7:run-war #run app
+* curl <http://localhost:9966/petclinic> #get app
+* docker pull tomcat:8
+* docker images
+* docker run -d -p 8080:8080 tomcat:8
+* docker ps
+* docker exec -it <container id> bash
+* docker stop <container id>
+* docker ps -a
+* docker rm <container id>
 
 
 
 ## Creación del contenedor de Docker
 
-  * ouch Dockerfile
+* ouch Dockerfile
 
-  * Contenido del archivo Dockerfile  
+* Contenido del archivo Dockerfile  
 –FROM tomcat:8  
 –COPY target/petclinic.war /usr/local/tomcat/webapps  
 –EXPOSE 8080
 
-  * docker build ./
+* docker build ./
 
-  * docker tag <image id> spring-framework-petclinic
+* docker tag <image id> spring-framework-petclinic
 
-  * docker rm $(docker ps -qa)
+* docker rm $(docker ps -qa)
 
-  * gcloud auth configure-docker
+* gcloud auth configure-docker
 
-  * docker tag spring-framework-petclinic [gcr.io/[PROJECT-ID]/spring-framework-petclinic:v1](http://gcr.io/%5BPROJECT-ID%5D/spring-framework-petclinic:v1)
+* docker tag spring-framework-petclinic [gcr.io/[PROJECT-ID]/spring-framework-petclinic:v1](http://gcr.io/%5BPROJECT-ID%5D/spring-framework-petclinic:v1)
 
-  * docker push [gcr.io/[PROJECT-ID]//spring-framework-petclinic:v1](http://gcr.io/%5BPROJECT-ID%5D//spring-framework-petclinic:v1)
+* docker push [gcr.io/[PROJECT-ID]//spring-framework-petclinic:v1](http://gcr.io/%5BPROJECT-ID%5D//spring-framework-petclinic:v1)
 
-  * gcloud container images list
+* gcloud container images list
 
 
 
@@ -1861,16 +1681,16 @@ Todo fue por interfaz gráfica
 
 ## Archivos descriptivos de infraestructura teoría y práctica
 
-  * kubectl create -f deployment.yaml
-  * kubectl create -f service.yaml
+* kubectl create -f deployment.yaml
+* kubectl create -f service.yaml
 
 
 
 ## Labels y Namespaces en práctica
 
-  * kubectl get namespaces
-  * kubectl create namespace desarrollo
-  * kubectl --namespace=desarrollo create -f deployment.yaml
+* kubectl get namespaces
+* kubectl create namespace desarrollo
+* kubectl --namespace=desarrollo create -f deployment.yaml
 
 
 
@@ -1880,52 +1700,52 @@ Todo fue por interfaz gráfica
 
 ## Volúmenes en práctica
 
-  * touch volume.yaml
-  * contenido del archivo  
+* touch volume.yaml
+* contenido del archivo  
 apiVersion: v1  
 kind: Pod  
 metadata:  
 name: test-pd  
 spec:  
 containers: 
-    * image: tomcat:8  
+  * image: tomcat:8  
 name: test-container  
 volumeMounts: 
-      * mountPath: /test-pd  
+    * mountPath: /test-pd  
 name: test-volume  
 volumes:
-    * name: test-volume  
+  * name: test-volume  
 #This GCE PD must already exist.  
 gcePersistentDisk:  
 pdName: my-data-disk  
 fsType: ext4
-  * kubectl create -f volume.yaml
+* kubectl create -f volume.yaml
 
 
 
 ## Desplegar una aplicación Stateful Práctica
 
-  * touch mysql.yaml
-  * Contenido del archivo mysql.yaml  
+* touch mysql.yaml
+* Contenido del archivo mysql.yaml  
 apiVersion: v1  
 kind: Pod  
 metadata:  
 name: mysql  
 spec:  
 containers: 
-    * image: mysql:5.6  
+  * image: mysql:5.6  
 name: test-container  
 env: 
-      * name: MYSQL_ROOT_PASSWORD  
+    * name: MYSQL_ROOT_PASSWORD  
 value: password  
 ports:
-      * containerPort: 3306  
+    * containerPort: 3306  
 name: mysql  
 volumeMounts:
-      * mountPath: /var/lib/mysql  
+    * mountPath: /var/lib/mysql  
 name: mysql-persistent-storage  
 volumes:
-    * name: mysql-persistent-storage  
+  * name: mysql-persistent-storage  
 gcePersistentDisk:  
 pdName: disk-2  
 fsType: ext4
@@ -1941,25 +1761,25 @@ name: mysql
 spec:  
 ports:
 
-  * port: 3306  
+* port: 3306  
 selector:  
 app: mysql  
 clusterIP: None
-  * kubectl create -f mysql.yaml
+* kubectl create -f mysql.yaml
 
 
 
 ## Auto Scaling en práctica
 
-  * sudo apt-get install apache2-utils
-  * ab -t 10 -n 100000 -c 10 <ip loadbalancer>
+* sudo apt-get install apache2-utils
+* ab -t 10 -n 100000 -c 10 <ip loadbalancer>
 
 
 
 ## Node Pools práctica
 
-  * touch node_pool.yaml
-  * Contenido del archivo node_pool.yaml  
+* touch node_pool.yaml
+* Contenido del archivo node_pool.yaml  
 apiVersion: v1  
 kind: Pod  
 metadata:  
@@ -1968,14 +1788,14 @@ labels:
 env: test  
 spec:  
 containers: 
-    * name: nginx  
+  * name: nginx  
 image: nginx  
 imagePullPolicy: IfNotPresent  
 nodeSelector:  
 name: pool1
-  * kubectl create -f node_pool.yaml
-  * touch pod1.yaml
-  * Contenido del archivo pod1.yaml  
+* kubectl create -f node_pool.yaml
+* touch pod1.yaml
+* Contenido del archivo pod1.yaml  
 apiVersion: v1  
 kind: Pod  
 metadata:  
@@ -1984,11 +1804,11 @@ labels:
 env: test  
 spec:  
 containers: 
-    * name: nginx  
+  * name: nginx  
 image: nginx  
 nodeSelector:  
 name : pool1
-  * kubectl create -f pod1.yaml
+* kubectl create -f pod1.yaml
 
 
 
@@ -1998,87 +1818,78 @@ Todo fue por interfaz gráfica
 
 ## CI/CD con Cloud Builder práctica
 
-  * git clone <https://github.com/cprietorod/cloudBuilder.git>
-  * git config --global credential.<https://source.developers.google.com.helper> [gcloud.sh](http://gcloud.sh)
-  * git remote add google <https://source.developers.google.com/p/><ID proyecto>/r/hello
-  * git push --all google  
+* git clone <https://github.com/cprietorod/cloudBuilder.git>
+* git config --global credential.<https://source.developers.google.com.helper> [gcloud.sh](http://gcloud.sh)
+* git remote add google <https://source.developers.google.com/p/><ID proyecto>/r/hello
+* git push --all google  
 contenido del archivo cloudbuild.yaml  
 steps:
-  * name: '[gcr.io/cloud-builders/docker](http://gcr.io/cloud-builders/docker)’  
+* name: '[gcr.io/cloud-builders/docker](http://gcr.io/cloud-builders/docker)’  
 args: [ ‘build’, ‘-t’, “[gcr.io/$PROJECT_ID/hello-web-app:v$BUILD_ID](http://gcr.io/$PROJECT_ID/hello-web-app:v$BUILD_ID)”, ‘.’ ]
-  * name: '[gcr.io/cloud-builders/docker](http://gcr.io/cloud-builders/docker)’  
+* name: '[gcr.io/cloud-builders/docker](http://gcr.io/cloud-builders/docker)’  
 args: [‘push’, “[gcr.io/$PROJECT_ID/hello-web-app:v$BUILD_ID](http://gcr.io/$PROJECT_ID/hello-web-app:v$BUILD_ID)”]  
 env: 
-    * CLOUDSDK_COMPUTE_ZONE=${_CLOUDSDK_COMPUTE_ZONE}
-    * CLOUDSDK_CONTAINER_CLUSTER=${_CLOUDSDK_CONTAINER_CLUSTER}
-  * git add .
-  * git commit -m “some changes”
-  * git push google master
+  * CLOUDSDK_COMPUTE_ZONE=${_CLOUDSDK_COMPUTE_ZONE}
+  * CLOUDSDK_CONTAINER_CLUSTER=${_CLOUDSDK_CONTAINER_CLUSTER}
+* git add .
+* git commit -m “some changes”
+* git push google master
 
 
 
 ### Comentarios:
 
-* **JMM** (2)
+* **JMM** (2) [917367](https://platzi.com/comentario/917367/) 
 
-	
 	Muy bien por esta sección!!! Ojala lo hagan para otros cursos. Mas allá que uno toma notas, nunca esta demás tener un machete completo 😃
 
-* **Juan Francisco Mosquera** (2)
+* **Juan Francisco Mosquera** (2) [531546](https://platzi.com/comentario/531546/) 
 
-	
 	Gracias.
 
-* **Yully Adriana Gamboa Contreras** (1)
+* **Yully Adriana Gamboa Contreras** (1) [956198](https://platzi.com/comentario/956198/) 
 
-	
 	Gracias poreste resumen de comandos
 
-* **Julián** (1)
+* **Julián** (1) [850333](https://platzi.com/comentario/850333/) 
 
-	
 	porq no hicieron CD en el curso?
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [811606](https://platzi.com/comentario/811606/) 
 
-	
 	¡Buen Articulo! Para realizar el trabajo de forma correcta.
 
-## 0410. Buenas prácticas
+## 0410. Buenas prácticas [13744](https://platzi.com/clases/1365-kubernetes-xertica/13744-buenas-practicas5352/)
 
 ### Descripción:
 
 
-  * Hacer contenedores pequeños _(las versiones _ALPINE_ son las mejores en cuanto a seguridad)_
-  * Organizar despliegues con namespaces
-  * Configurar los Health Checks
-  * Configurar límites en el número de peticiones
-  * Terminar con Gracia _(cerrar los servicios correctamente guardando antes la información de tus usuarios)_
+* Hacer contenedores pequeños _(las versiones _ALPINE_ son las mejores en cuanto a seguridad)_
+* Organizar despliegues con namespaces
+* Configurar los Health Checks
+* Configurar límites en el número de peticiones
+* Terminar con Gracia _(cerrar los servicios correctamente guardando antes la información de tus usuarios)_
 
 
 
 ### Comentarios:
 
-* **KaterineAT** (4)
+* **KaterineAT** (4) [435733](https://platzi.com/comentario/435733/) 
 Genial el curso gracias. En el tema anterior dice 'ouch Dockerfile'
 
-* **Esteban Ramos Fernández** (3)
+* **Esteban Ramos Fernández** (3) [572106](https://platzi.com/comentario/572106/) 
 
-	
 	Muy buen curso, el contenido es bien completo y resuelve todas las problemáticas para levantar una aplicación en producción en sus fases avanzadas.
 
-* **Fernando Eladio Alvarez Noya** (2)
+* **Fernando Eladio Alvarez Noya** (2) [556872](https://platzi.com/comentario/556872/) 
 
-	
 	Especial el curso, la verdad me gusto mucho, si habra todavia por aprender! 😃
 
-* **angelg** (2)
+* **angelg** (2) [504536](https://platzi.com/comentario/504536/) 
 
-	
 	Muy completo el curso. Como sugerencia, sería bueno incorporar al menos una breve explicación en texto, o enlaces con mayor información de cada tema.
 
-* **jorgeguega** (1)
+* **jorgeguega** (1) [1072638](https://platzi.com/comentario/1072638/) 
 
-	
 	Gracias por el curso! 😉
 

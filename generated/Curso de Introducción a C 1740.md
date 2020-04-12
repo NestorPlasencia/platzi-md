@@ -1,116 +1,99 @@
-# Comprender qué es el lenguaje C
+[Curso de Introducción a C 1740](https://platzi.com/cursos/lenguaje-c)
 
-## 0010. Introducción al curso
+# Comprender qué es el lenguaje C [4839]
+
+## 0010. Introducción al curso [24202](https://platzi.com/clases/1740-lenguaje-c/24202-introduccion-al-curso/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Daniel Zaleta Turrubiates** (9)
+* **Juan Daniel Zaleta Turrubiates** (9) [842521](https://platzi.com/comentario/842521/) 
 
-	
 	Hola! Ya que existe un curso de introducción a C deberían hacer uno orientado a C pero programando PIC’s. Actualmente en la universidad empezamos a ver programación de PIC’s y es bastante tedioso cuando no se tiene un buen mentor, pero Platzi siempre sabe cómo hacer la ruta de aprendizaje divertida y digerible 😃
 
-* **calozano8** (4)
+* **calozano8** (4) [831014](https://platzi.com/comentario/831014/) 
 
-	
 	Vamos a con la mejor energía al encuentro de esta cita, esperamos sera un amor a primera vista.
 
-* **Juan Antonio Oriza** (3)
+* **Juan Antonio Oriza** (3) [905405](https://platzi.com/comentario/905405/) 
 
-	
 	 **Lenguajes interpretados:** El programa se va traduciendo a lenguaje maquina en tiempo real, a medida que se va avanzando el programa en tiempo de ejecución.
 	
 	**Lenguaje Compilado:** Se analiza el programa, se crea un binario y se procede a ejecutar.
 
-* **Steven Angel Coaila Zaa** (3)
+* **Steven Angel Coaila Zaa** (3) [833960](https://platzi.com/comentario/833960/) 
 
-	
 	A saciar la curiosidad otra vez!! 😄
 
-* **wilantury** (3)
+* **wilantury** (3) [832486](https://platzi.com/comentario/832486/) 
 
-	
 	Antes de conocer C, alcance a programar en assembler para microcontroladores de microchip y motorola, fué una época dura.
 
-* **Javier Alexander Almarza Bucarey** (3)
+* **Javier Alexander Almarza Bucarey** (3) [831341](https://platzi.com/comentario/831341/) 
 
-	
 	Justo Ayer estaba buscando un curso de C en platzi
 
-* **Maryori Sanjuanelo Boneu** (2)
+* **Maryori Sanjuanelo Boneu** (2) [1055687](https://platzi.com/comentario/1055687/) 
 
-	
 	Desde hace mucho tiempo vengo usando foobar2000 como mi reproductor de audio y me parece una maravilla. Siempre he querido descifrarlo desde su código y poder usarlo/modificarlo a nivel experto. Por supuesto, a este punto entiendo que está escrito en C++ y no C, pero es mi comienzo a cumplir este objetivo!
 
-	* **Camilo Ignacio Acosta Acosta** (1)
+	* **Camilo Ignacio Acosta Acosta** [1055687] (1)
 
-		
 		Que interesante proyecto. Espero que lo ejecutes y lo publiques en GitHub para aprender. Exitos.
 
-	* **Maryori Sanjuanelo Boneu** (1)
+	* **Maryori Sanjuanelo Boneu** [1055687] (1)
 
-		
 		Muchas gracias Camilo! Estoy muy ansiosa por hacer este proyecto realidad y por supuesto compartiré mis resultados. Saludos!
 
-* **Manuel Mosquera** (2)
+* **Manuel Mosquera** (2) [934719](https://platzi.com/comentario/934719/) 
 
-	
 	Hacía falta un curso de C. Que bueno !! Siempre me pareció que las personas que habían empezado con C tenían muy buenas bases, ojalá este curso tenga todo lo necesario.
 
-* **gydoar** (2)
+* **gydoar** (2) [833409](https://platzi.com/comentario/833409/) 
 
-	
 	Me imagino que Raspberry pi y Arduino usan C?
 
-	* **Sammuel** (2)
+	* **Sammuel** [833409] (2)
 
-		
 		Asi es y también Python
 
-* **-Smiler-** (2)
+* **-Smiler-** (2) [832324](https://platzi.com/comentario/832324/) 
 
-	
 	Justo empezamos a tomar tenemas relacionados al lenguaje C en la Universidad.
 
-* **alexruizlul** (1)
+* **alexruizlul** (1) [1101840](https://platzi.com/comentario/1101840/) 
 
-	
 	Considero que C es un lenguaje fundamental de aprender para cualquier programador, por la gran eficiencia que tiene.
 	
 	A darle con todo para aprenderlo bien. c:
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1069038](https://platzi.com/comentario/1069038/) 
 
-	
 	Excelente introducción, empezamos con todo el animo🤘🏼
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [1013730](https://platzi.com/comentario/1013730/) 
 
-	
 	Creo que C es un excelente lenguaje para aprender a programar. Puede que al inicio sea super difícil, pero desps de aprender C, aprender cualquier otro lenguaje, lo vas a hacer mucho más fácil y rápido
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894597](https://platzi.com/comentario/894597/) 
 
-	
 	Vamos pues por C Languge
 
-* **Joshua Hernandez** (1)
+* **Joshua Hernandez** (1) [83103](https://platzi.com/comentario/1019485/) 
 Cuál es la diferencia entre Intérprete, Compilador y Traductor?
 
-	* **Jose Daniel Paiva** (1)
+	* **Jose Daniel Paiva** [83103] (1)
 
-		
 		Los **intérpretes** son los que ejecuta el código sin realizar ninguna traducción.  
 		Los **traductores** son los que transforman el código a un lenguaje de bajo nivel y existen dos tipos ensambladores y **compiladores**.
 
-* **Salvador Tapia Alvarez** (1)
+* **Salvador Tapia Alvarez** (1) [82804](https://platzi.com/comentario/1013102/) 
 Hola tienen una opción donde se puedan escuchar las clases en vez de verlas ?
 
-	* **Manuel Rivera** (1)
+	* **Manuel Rivera** [82804] (1)
 
-		
 		Algunos cursos que se encuentran disponibles solamente desde la app movil son 100% audio
 		
 		<https://platzi.com/clases/desbloquea-creatividad/>
@@ -118,7 +101,7 @@ Hola tienen una opción donde se puedan escuchar las clases en vez de verlas ?
 		Pero si usas la app movil también puedes escuchar las clases si deseas mientras te desplazas o realizas alguna otra actividad.  
 		Por cierto el curso que te deje como enlace, es supremamente genial, saludos desde Colombia-Meta
 
-## 0020. Herramientas para programar en C
+## 0020. Herramientas para programar en C [24205](https://platzi.com/clases/1740-lenguaje-c/24205-herramientas-para-programar-en-c/)
 
 ### Descripción:
 
@@ -131,82 +114,67 @@ Hola tienen una opción donde se puedan escuchar las clases en vez de verlas ?
 
 ### Comentarios:
 
-* **Lohana María Giraldo Sarria** (10)
+* **Lohana María Giraldo Sarria** (10) [931072](https://platzi.com/comentario/931072/) 
 
-	
 	A continuación les comparto una herramienta online donde es posible ejecutar y compilar sin instalar nada.  
 	<https://www.onlinegdb.com/>
 
-* **gydoar** (5)
+* **gydoar** (5) [833411](https://platzi.com/comentario/833411/) 
 
-	
 	Que bien que uso Mac, no es necesario instalar un compilador pues ya viene por defecto.
 
-	* **Mauro Chojrin** (6)
+	* **Mauro Chojrin** [833411] (6)
 
-		
 		Buenísimo! Eso sucede en general en todos los sistemas basados en Unix (Mac, Linux, BSD, etc…)
 
-* **luis leonardo soto** (3)
+* **luis leonardo soto** (3) [831737](https://platzi.com/comentario/831737/) 
 
-	
 	buen trabajo
 
-* **AlexanderAReyes** (2)
+* **AlexanderAReyes** (2) [951046](https://platzi.com/comentario/951046/) 
 
-	
 	ready to programming
 
-	* **paconity** (1)
+	* **paconity** [951046] (1)
 
-		
 		“ready to programming” literalmente significa “listo para programando”, solo di “ready to program”.
 
-	* **Franco Bottazzi** (2)
+	* **Franco Bottazzi** [951046] (2)
 
-		
 		paconity en realidad no, porque programming se puede interpretar como programación
 
-	* **paconity** (0)
+	* **paconity** [951046] (0)
 
-		
 		¿Franco Bottazzi te gusta más “listo para programación”?
 
-	* **Ricardo Quintana Soler** (2)
+	* **Ricardo Quintana Soler** [951046] (2)
 
-		
 		ready to programming también se puede traducir como listo para la programación, sólo que el uso de los artículos en inglés es distinto y muchas veces no se usan, mientras que en español es necesario en muchos más casos.
 
-	* **AlexanderAReyes** (1)
+	* **AlexanderAReyes** [951046] (1)
 
-		
 		¿Y si mejor digo? prepared to encode
 
-	* **Said Leonardo** (1)
+	* **Said Leonardo** [951046] (1)
 
-		
 		ready for programming*
 
-	* **Oscar Grey** (1)
+	* **Oscar Grey** [951046] (1)
 
-		
 		No sean yankis  
 		A tirar codigo
 
-* **Vicnow** (2)
+* **Vicnow** (2) [832687](https://platzi.com/comentario/832687/) 
 
-	
 	Más rapido que un video de Youtube haha.
 
-	* **Jorge Arango** (2)
+	* **Jorge Arango** [832687] (2)
 
-		
 		Seguro jajaja  
 		Me hubiera ahorrado 2 horas de tutoriales si lo hubiera buscado primero aquí
 
-* **Jesus Diaz Castro** (1)
+* **Jesus Diaz Castro** (1) [1101412](https://platzi.com/comentario/1101412/) 
 
-	
 	INSTRUCCIONES  
 	1 vas a SourceForge  
 	2 En el buscador colocas Code::Blocks  
@@ -216,36 +184,32 @@ Hola tienen una opción donde se puedan escuchar las clases en vez de verlas ?
 	6 Seleccionas la carpeta de tu sistema operativo  
 	7 Descargas el archivo 17.12mingw-setup.exe
 
-* **Manuel Mosquera** (1)
+* **Manuel Mosquera** (1) [934720](https://platzi.com/comentario/934720/) 
 
-	
 	Done !!
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894609](https://platzi.com/comentario/894609/) 
 
-	
 	Muy facil a instalacion, mi sistema base es Linux, por lo tanto viene con GCC por defecto
 
-* **wilantury** (1)
+* **wilantury** (1) [832491](https://platzi.com/comentario/832491/) 
 
-	
 	Instalando…
 
-* **smarles** (1)
+* **smarles** (1) [86999](https://platzi.com/comentario/1110184/) 
 Importante la configuración antes de utilizar el software En propiedades de Mi PC. Configuración avanza...
 
-# Aprender los conceptos iniciales del lenguaje C
+# Aprender los conceptos iniciales del lenguaje C [4841]
 
-## 0030. Compilación y ejecución de un programa en C
+## 0030. Compilación y ejecución de un programa en C [24206](https://platzi.com/clases/1740-lenguaje-c/24206-compilacion-y-ejecucion-de-un-programa-en-c/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Manuel Mosquera** (6)
+* **Manuel Mosquera** (6) [941070](https://platzi.com/comentario/941070/) 
 
-	
 	La compilación tiene 4 pasos  
 	1- Preproceso -E  
 	2- Emsamblaje -S  
@@ -253,37 +217,31 @@ Importante la configuración antes de utilizar el software En propiedades de Mi 
 	4- Linkeo  
 	Cuando ejecutamos la compilación con la opción -o como en el ejemplo, ocurren estos 4 pasos primero, pero si queremos ver que pasa en cada paso podemos cambiar -o por alguna de las opciones que escribí anteriormente.
 
-* **José Eduardo Reyes Yol** (3)
+* **José Eduardo Reyes Yol** (3) [1087162](https://platzi.com/comentario/1087162/) 
 
-	
 	No entendí que fue lo que hizo, no tengo ni idea de la terminal de comandos. Así que utilicé GitBash y funcionó jaja.
 
-* **wilantury** (3)
+* **wilantury** (3) [832494](https://platzi.com/comentario/832494/) 
 
-	
 	La terminal siempre será una herramienta esencial en el proceso de desarrollo.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [832494] (2)
 
-		
 		¿Cierto que sí? El profe Mauro también es el profesor del Curso de Introducción a la Terminal: <https://platzi.com/clases/terminal/>. 😉
 
-	* **irwinmax** (1)
+	* **irwinmax** [832494] (1)
 
-		
 		juandc dice contenido no disponible :c
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [832494] (1)
 
-		
 		El curso está a punto de lanzarse. Si quieres ver la versión anterior puedes entrar aquí: <https://platzi.com/clases/terminal-2019/>.
 
-	* **AlexanderAReyes** (1)
+	* **AlexanderAReyes** [832494] (1)
 
-		
 		totalmente de acuerdo
 
-* **calozano8** (3)
+* **calozano8** (3) [831036](https://platzi.com/comentario/831036/) 
 
 	```
 	    # include<stdio.h>
@@ -295,35 +253,29 @@ Importante la configuración antes de utilizar el software En propiedades de Mi 
 	    
 	```
 
-* **Cristian Rosales** (2)
+* **Cristian Rosales** (2) [1071712](https://platzi.com/comentario/1071712/) 
 
-	
 	[Aquí](https://victorhck.gitlab.io/comandos_vim/articulos.html) pueden encontrar muchos comandos y tutoriales para potenciar Vim.
 
-* **predator0077** (2)
+* **predator0077** (2) [844212](https://platzi.com/comentario/844212/) 
 
-	
 	Pues Vamos a Darle, a fortalecer mis conocimientos en C.
 
-* **Camilo Ignacio Acosta Acosta** (1)
+* **Camilo Ignacio Acosta Acosta** (1) [1105849](https://platzi.com/comentario/1105849/) 
 
-	
 	Hola todos. Esto te puede servir.  
 	Intente de todas las maneras ejecutar el archivo compilado. Es decir se generaba pero luego me decía acceso denegado. Luego me di cuenta que el archivo ejecutable se crea pero luego desaparecía y yo un poco con cara de “Algo anda mal”. Resulta que después de un buen rato me di cuenta que era culpa de mi antivirus que identificaba al ejecutable como una amenaza. Nota al ejecutar desactiven el antivirus.
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1071698](https://platzi.com/comentario/1071698/) 
 
-	
 	En caso de que nos les funcione el comando gcc en la terminal de Ubuntu pueden hacer [esto ](https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/)para resolverlo (A mi me funciono).
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894623](https://platzi.com/comentario/894623/) 
 
-	
 	Muy facil la compilacion con Clang
 
-* **kevin-isaac** (1)
+* **kevin-isaac** (1) [877753](https://platzi.com/comentario/877753/) 
 
-	
 	 _Como compilar en C:_
 	
 	**Opción 1** asignarle el nombre al archivo ejecutable:  
@@ -342,96 +294,83 @@ Importante la configuración antes de utilizar el software En propiedades de Mi 
 	ejemplo:  
 	$ **./** a.out
 
-* **Jesus Diaz Castro** (1)
+* **Jesus Diaz Castro** (1) [86699](https://platzi.com/comentario/1101618/) 
 No entendí , Después de escribir el codigo en donde ejecuta el codgio gcc helloworld.c -o helloworld ? en el editor de texto?
 
-	* **jose luis gonzalez aguilera** (2)
+	* **jose luis gonzalez aguilera** [86699] (2)
 
-		
 		hola, si tienes windows 10 descarga el programa “Ubuntu 18.04 LTS” del store de windows 10 ahí vas a poder ejecutar el comando gcc. si te da error al instalar la aplicacion de ubuntu en el mismo error de va a dar un link a un post de ayuda solo sigue la instrucciones y vas a poder instalar el programa.
 
-* **Omar Garrido García** (1)
+* **Omar Garrido García** (1) [74973](https://platzi.com/comentario/862131/) 
 en mi terminal de ubuntu me me dice que gcc no esta instalado y segui los pasos del otro video, alguien sabría porque pasa esto?
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [74973] (2)
 
-		
 		muéstranos que error te da para poder ayudarte mejor
 
-* **Juan Felipe Turca Molina** (1)
+* **Juan Felipe Turca Molina** (1) [73387](https://platzi.com/comentario/833989/) 
 hola, veo que en el minuto 1:50 luego de que pone la ultima llave, ¿que es lo que hace para guardarlo? que botón oprime o que es lo que ...
 
-	* **Massimo Di Berardino** (5)
+	* **Massimo Di Berardino** [73387] (5)
 
-		
 		Hola Felipe, ahi lo que hace luego que escribe el codigo, [esc] para salir del modo escritura de la terminal vim y luego coloca [:x] esto lo que hace es guardar el archivo creado y salir del editor vim, [aca](https://www.tecmint.com/save-file-in-vi-vim-editor-in-linux/) te dejo un link donde se explica muy claramente como usar el editor vim. saludos!
 
-## 0040. Tipos de datos
+## 0040. Tipos de datos [24207](https://platzi.com/clases/1740-lenguaje-c/24207-tipos-de-datos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (6)
+* **Danelia Sanchez Sanchez** (6) [831050](https://platzi.com/comentario/831050/) 
 
-	
 	[Operadores Bit a Bit](https://www.programiz.com/c-programming/bitwise-operators)
 
-* **wilantury** (4)
+* **wilantury** (4) [832500](https://platzi.com/comentario/832500/) 
 
-	
 	La comilla simple se usa para caracteres y la comilla doble se usa para cadenas de caracteres.
 
-* **gydoar** (3)
+* **gydoar** (3) [833423](https://platzi.com/comentario/833423/) 
 
-	
 	Datos numéricos: int, float  
 	Datos alfanuméricos: char, strings
 
-* **Josue12** (2)
+* **Josue12** (2) [1005582](https://platzi.com/comentario/1005582/) 
 
-	
 	Interesante lo de los tipos de dato bit a bit, nunca los había escuchado
 
-	* **Jeffersson Muñoz Torres** (2)
+	* **Jeffersson Muñoz Torres** [1005582] (2)
 
-		
 		Si deseas ahondar un poco mas sobre ellos, puedes buscar sobre **_Algebra Boolena_**.
 
-	* **Franco Bottazzi** (5)
+	* **Franco Bottazzi** [1005582] (5)
 
-		
 		Te los explico de una forma rápida:  
 		Los operadores bit a bit, como ya escuchaste, operan sobre cadenas de bits. Como a los bits es facil pensarlos como booleanos (porque un bit 0 sería lo mismo que falso y un 1 es verdadero), se puede realizar operaciones lógicas (not, and, or, xor) sobre ellos.  
 		Para usar el ej. del vídeo, el 42 y el 215 se pueden expresar en binario con 8 bits (o un Byte), lo que da 42 = 00101010 y 215 = 11010111. Entonces, el and bit a bit agarra el primer bit de cada uno y el and de esos dos es el primer bit del resultado. Así hace con el segundo, tercero, etc. Entonces, por ejemplo, el bit de más a la derecha de 42 es 0, y el del 215 es 1, entonces el bit de más a la derecha del resultado es 0 and 1 = 0 (porque false && true es false)
 
-* **Manuel Mosquera** (2)
+* **Manuel Mosquera** (2) [941347](https://platzi.com/comentario/941347/) 
 
-	
 	Un string es a su vez un array que está conformado por elementos tipo char.
 
-* **Francisco Tassone** (2)
+* **Francisco Tassone** (2) [832066](https://platzi.com/comentario/832066/) 
 
-	
 	bueno creo que faltó decir, que lo que sucede es que se hace una operación AND, bit a bit, con lo cual el “apagar un bit” por así decirlo, se da también en los casos de los bits 6 , 7 , 4 , 2 y 0 , esto enfocándonos en el valor 42.  
 	Esto también de lo conoce función AND con máscara (según en cual operando nos paremos, podremos decir máscara AND con 42 o máscara AND con 215). Se usa mucho en el lenguaje para microcontroladores, para validar bits, por ejemplo en un hardware donde haya entradas digitales conectadas a X sensores.
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894641](https://platzi.com/comentario/894641/) 
 
-	
 	Todos lo diferente de Cero 0 es verdadero y si es cero es falso para los booleanos
 
-## 0050. Definición de variables
+## 0050. Definición de variables [24208](https://platzi.com/clases/1740-lenguaje-c/24208-definicion-de-variables/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Mario E Fernandez  Serrano** (5)
+* **Mario E Fernandez  Serrano** (5) [1070432](https://platzi.com/comentario/1070432/) 
 
-	
 	Mis primeras líneas de código en C 😃
 	``` 
 	    #include<stdio.h>
@@ -444,9 +383,8 @@ hola, veo que en el minuto 1:50 luego de que pone la ultima llave, ¿que es lo q
 	    
 	```
 
-* **onyx** (4)
+* **onyx** (4) [872148](https://platzi.com/comentario/872148/) 
 
-	
 	es importante recalcar que hay variaciones en el comportamiento del sistema unario, ya que:
 	``` 
 	    int main(void)
@@ -471,12 +409,11 @@ hola, veo que en el minuto 1:50 luego de que pone la ultima llave, ¿que es lo q
 	    
 	```
 
-* **wilantury** (4)
+* **wilantury** (4) [832518](https://platzi.com/comentario/832518/) 
 
-	
 	Operadores unarios: a++, a–, a+=, a-=, a*=, a/=. Se usan frecuentemente en el lenguaje C.
 
-* **calozano8** (4)
+* **calozano8** (4) [831356](https://platzi.com/comentario/831356/) 
 
 	```
 	    #include<stdio.h>
@@ -508,17 +445,15 @@ hola, veo que en el minuto 1:50 luego de que pone la ultima llave, ¿que es lo q
 	    
 	```
 
-* **Lery Andy Piérola Lazarte** (2)
+* **Lery Andy Piérola Lazarte** (2) [73292](https://platzi.com/comentario/831960/) 
 En que casos seria indispensable usar el lenguaje C?
 
-	* **darwabo** (2)
+	* **darwabo** [73292] (2)
 
-		
 		Sistemas en tiempo real ,es decir sistemas en la que se necesita que la respuesta sea inmediata
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [1042832](https://platzi.com/comentario/1042832/) 
 
-	
 	Extrañaba hacer este tipo de tonterías:
 	``` 
 	    #include<stdio.h>
@@ -548,14 +483,12 @@ En que casos seria indispensable usar el lenguaje C?
 	
 	Muestra byte a byte el contenido de un short y de un int. (Se muestra de atrás para adelante porque mi máquina es [little-endian](https://en.wikipedia.org/wiki/Endianness))
 
-	* **Josue12** (2)
+	* **Josue12** [1042832] (2)
 
-		
 		No entendí al 100% tu código, pero maso menos se que hace jaja; me podrías explicar para que es el %02x ? y por que que shortbytes y intBytes se tratan como si fueran un array (shottbyte[1],intbytes[0], ect)?
 
-	* **EPadronU23** (2)
+	* **EPadronU23** [1042832] (2)
 
-		
 		Será un placer @josue12
 		
 		Me estoy aprovechando de la flexibilidad del lenguaje para acceder a fragmentos de un _unsigned short_ y de un _unsigned int_.
@@ -572,39 +505,33 @@ En que casos seria indispensable usar el lenguaje C?
 		
 		Luego de terminar el curso, puedes volver a este código y determinar si ya le terminas de dar sentido al asunto. Caso contrario, me puedes contactar nuevamente.
 
-* **Manuel Mosquera** (1)
+* **Manuel Mosquera** (1) [941383](https://platzi.com/comentario/941383/) 
 
-	
 	Es importante saber el tipo de dato de nuestra variable para así mismo asignarle lo que queremos y evitar errores.
 
-* **jhayro-guerrero** (1)
+* **jhayro-guerrero** (1) [931754](https://platzi.com/comentario/931754/) 
 
-	
 	Si se dan cuenta que no concuerda el contenido de la app con la de la web, la web me dice que aprenda C pero en la app te ofrece C++, cual se debe tomar para efectos de estudio.
 
-	* **Josue12** (1)
+	* **Josue12** [931754] (1)
 
-		
 		Ambos son muy similares
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894657](https://platzi.com/comentario/894657/) 
 
-	
 	Los operadores binarios son todos aquello que tiene un unico operando y este operado es una variable
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894647](https://platzi.com/comentario/894647/) 
 
-	
 	Una variable es un lugar en donde podemos almacenar datos
 
-* **Federico Ivan Llano** (0)
+* **Federico Ivan Llano** (0) [1089374](https://platzi.com/comentario/1089374/) 
 
-	
 	hay una sola cosa que no entiendo, como esta usando la terminal, ubuntu y el editor.  
 	Aprendi primero C# el año pasado, sigo en platzi la ruta de fundamentos de programacion, pense que se podia usar visual studio como editor, pero ahora estoy usando de editor el programa CodeBlocks y la consola.  
 	No se si mas adelante me va a seguir sirviendo. Pero bueno habia leido un libro hace bastante sobre la sintaxis de C asi que voy entendiendo lo basico.
 
-## 0060. Control de flujos
+## 0060. Control de flujos [24209](https://platzi.com/clases/1740-lenguaje-c/24209-control-de-flujos/)
 
 ### Descripción:
 
@@ -623,38 +550,34 @@ En que casos seria indispensable usar el lenguaje C?
 
 ### Comentarios:
 
-* **wilantury** (5)
+* **wilantury** (5) [832531](https://platzi.com/comentario/832531/) 
 
-	
 	Estructuras condicionales: if, switch.  
 	Estructuras repetitivas: while(){}, do{}while().  
 	Estructura repetitiva definida: for(){}
 
-* **David Felipe Bohórquez** (4)
+* **David Felipe Bohórquez** (4) [836784](https://platzi.com/comentario/836784/) 
 
-	
 	Me pareció excelente la forma de explicar las repetitivas 0 -X y 1 -X. Mucho más claro que con otros profes.
 
-	* **Mauro Chojrin** (4)
+	* **Mauro Chojrin** [836784] (4)
 
-		
 		Gracias!!
 
-* **Juan Antonio Oriza** (3)
+* **Juan Antonio Oriza** (3) [905588](https://platzi.com/comentario/905588/) 
 
+	* **Control de flujo** : Define como se mueven los datos a través de nuestros programas. Tenemos estructuras de flujo condicionales y estructuras repetitivas.
 	
-	  * **Control de flujo** : Define como se mueven los datos a través de nuestros programas. Tenemos estructuras de flujo condicionales y estructuras repetitivas.
+	* La estructura **while** es 0-x, es decir no se ejecuta al menos que se cumpla la condición especificada.
 	
-	  * La estructura **while** es 0-x, es decir no se ejecuta al menos que se cumpla la condición especificada.
+	* La estructura **do-while** es 1-x, es decir se ejecuta al menos una vez.
 	
-	  * La estructura **do-while** es 1-x, es decir se ejecuta al menos una vez.
-	
-	  * La estructura **for** se utiliza cuando sabemos de antemano cuantas veces queremos que se ejecute el ciclo.
+	* La estructura **for** se utiliza cuando sabemos de antemano cuantas veces queremos que se ejecute el ciclo.
 	
 	
 	
 
-* **JanethM** (2)
+* **JanethM** (2) [994900](https://platzi.com/comentario/994900/) 
 
 	```
 	    // Control de flujos - Condicionales
@@ -734,116 +657,102 @@ En que casos seria indispensable usar el lenguaje C?
 	    
 	```
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [894676](https://platzi.com/comentario/894676/) 
 
-	
 	Son faciles los controles de flujo, aprendi rapido
 
-	* **Josue12** (1)
+	* **Josue12** [894676] (1)
 
-		
 		Concuerdo
 
-* **Alejandro Serafín Gutiérrez** (1)
+* **Alejandro Serafín Gutiérrez** (1) [1102374](https://platzi.com/comentario/1102374/) 
 
-	
 	En ningún momento “acum” valía menor que 10 porque se declaro como 10 al inicio por lo tanto el while al hacer la validación se salto hasta la instrucción “return”.
 
-	* **bcanon** (1)
+	* **bcanon** [1102374] (1)
 
-		
 		Exacto el ejemplo de while no fue bien implementado para ver su funcionalidad.
 
-* **Johan Lisandro Castiblanco** (1)
+* **Johan Lisandro Castiblanco** (1) [1087699](https://platzi.com/comentario/1087699/) 
 
-	
 	Re bien Mauro , me gustan tus clases. Explicas como para entender que se hace en cada caso y para que =)
 
-* **JAVIER STIVEN MURILLO CORREA** (1)
+* **JAVIER STIVEN MURILLO CORREA** (1) [1065577](https://platzi.com/comentario/1065577/) 
 
-	
 	== no es igual a =
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [1013743](https://platzi.com/comentario/1013743/) 
 
-	
 	 _Condicionales_ :
 	
-	  * If (condition) {instructions}
-	  * switch (variable) {case [constant]:instructions}
+	* If (condition) {instructions}
+	* switch (variable) {case [constant]:instructions}
 	
 	
 	
 	_Ciclos_
 	
-	  * for (init, condition, change) {instructions}
-	  * while (condition) {instructions; change}
+	* for (init, condition, change) {instructions}
+	* while (condition) {instructions; change}
 	
 	
 
-* **Manuel Mosquera** (1)
+* **Manuel Mosquera** (1) [941407](https://platzi.com/comentario/941407/) 
 
-	
 	Es más común escuchar ciclos y no repetitivas.
 
-* **Maryori Sanjuanelo Boneu** (1)
+* **Maryori Sanjuanelo Boneu** (1) [84722](https://platzi.com/comentario/1057339/) 
 Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea de comando no me arroja el resultado. En cambio, el progr...
 
-	* **Josemanuel Sifontes** (2)
+	* **Josemanuel Sifontes** [84722] (2)
 
-		
 		intenta con no pasar el archivo a un .exe, y deja el archivo sin extensión.  
 		y luego de que lo compiles usa escribe en la linea de comandos el nombre del archivo con “./”.  
 		Ejemplo:  
 		./function  
 		./helloworld
 
-* **Nicolas David Pastran Zamora** (0)
+* **Nicolas David Pastran Zamora** (0) [86417](https://platzi.com/comentario/1095522/) 
 ¿El switch funciona para evaluar únicamente el comparador ‘==’?, o también se puede evaluar si algo es menor o igual.
 
-	* **Kevin Javier Morales (Platzi)** (1)
+	* **Kevin Javier Morales (Platzi)** [86417] (1)
 
-		
 		Sí, también puede usarse para ese y todos los demás tipos de operadores lógicos.
 
-## 0070. Uso y definición de funciones
+## 0070. Uso y definición de funciones [24210](https://platzi.com/clases/1740-lenguaje-c/24210-uso-y-definicion-de-funciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **EPadronU23** (3)
+* **EPadronU23** (3) [1042968](https://platzi.com/comentario/1042968/) 
 
-	
 	Con todo respeto: **C** en efecto cuenta con _procedimientos_. Toda rutina que define su _tipo de retorno_ como `void` se considera un **_procedimiento_**. Es debido a eso que **C** es un lenguaje _procedural_ (orientado a procedimientos).
 	
 	[Procedures (subroutines not returning values) are a special case of function, with an untyped return type void.](https://en.wikipedia.org/wiki/C_\(programming_language\)#Overview)
 
-* **Juan Antonio Oriza** (3)
+* **Juan Antonio Oriza** (3) [905615](https://platzi.com/comentario/905615/) 
 
-	
 	 **Para los que estén usando el CMD de windows:**
 	
-	  * En el shell de linux, el comando que usa el prof **$?** devuele el estado de salida del último comando ejecutado (exit status of the last executed command).
+	* En el shell de linux, el comando que usa el prof **$?** devuele el estado de salida del último comando ejecutado (exit status of the last executed command).
 	
-	  * Un comando equivalente en CMD es **ECHO %ERRORLEVEL%**
+	* Un comando equivalente en CMD es **ECHO %ERRORLEVEL%**
 	
 	
 	
 
-* **Josue12** (2)
+* **Josue12** (2) [1055820](https://platzi.com/comentario/1055820/) 
 
-	
 	Aqui hablan un poco mas a fondo de las funciones en c.  
 	<http://programandoenc.over-blog.es/article-32481588.html>
 
-* **Josue12** (2)
+* **Josue12** (2) [1055811](https://platzi.com/comentario/1055811/) 
 
-	
 	Le falto hablar mas sobre las funciones
 
-* **JanethM** (1)
+* **JanethM** (1) [994904](https://platzi.com/comentario/994904/) 
 
 	```
 	    // Funcion f
@@ -861,50 +770,45 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894684](https://platzi.com/comentario/894684/) 
 
-	
 	la funcion main si devuelve un numero todo salio bien sino hubo algun problema
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894679](https://platzi.com/comentario/894679/) 
 
-	
 	Rutinas -> pequeños pedacitos de codigo que son reutilizable
 
-## 0080. Directivas de pre-compilador
+## 0080. Directivas de pre-compilador [24211](https://platzi.com/clases/1740-lenguaje-c/24211-directivas-de-pre-compilador/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan Antonio Oriza** (5)
+* **Juan Antonio Oriza** (5) [905659](https://platzi.com/comentario/905659/) 
 
-	
 	 **PlaceHolders o Especificadores de Conversión (Format Specifier), del lenguaje C**
 	
 	![images.jpg](https://static.platzi.com/media/user_upload/images-7294d314-a5f4-4973-9c0d-632da4b9450c.jpg)
 
-* **Juan Antonio Oriza** (3)
+* **Juan Antonio Oriza** (3) [905643](https://platzi.com/comentario/905643/) 
 
+	* Las directivas del prepocesador empiezan con **#**
 	
-	  * Las directivas del prepocesador empiezan con **#**
+	* En el caso de **#include <algo>** indican al compilador que se va a incluir otro archivo antes de empezar el proceso de compilación.
 	
-	  * En el caso de **#include <algo>** indican al compilador que se va a incluir otro archivo antes de empezar el proceso de compilación.
-	
-	  * El preprocesador es el primer programa que invoca el compilador de C antes de empezar a traducir el código a lenguaje máquina.
+	* El preprocesador es el primer programa que invoca el compilador de C antes de empezar a traducir el código a lenguaje máquina.
 	
 	
 	
 
-* **carlosguzman** (3)
+* **carlosguzman** (3) [871921](https://platzi.com/comentario/871921/) 
 
-	
 	El reto…
 	
 	![reto-1.PNG](https://static.platzi.com/media/user_upload/reto-1-1ade306a-b48a-422f-85ea-d5023b8da463.jpg) ![reto-2.PNG](https://static.platzi.com/media/user_upload/reto-2-df816e40-fcfa-4c13-a583-6840b6e9f36b.jpg)
 
-* **guillermogranado** (3)
+* **guillermogranado** (3) [836108](https://platzi.com/comentario/836108/) 
 
 	```
 	    #include <stdio.h>
@@ -922,9 +826,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Brayan Potosi Dominguez** (2)
+* **Brayan Potosi Dominguez** (2) [1095860](https://platzi.com/comentario/1095860/) 
 
-	
 	**Mi codigo** 😃
 	``` 
 	    #include<stdio.h>
@@ -951,9 +854,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Daniel Esteban Santos Mendez** (2)
+* **Daniel Esteban Santos Mendez** (2) [1069859](https://platzi.com/comentario/1069859/) 
 
-	
 	Les comparte mi codigo del reto, es sencillo, da el doble de cualquiera número.
 	``` 
 	    #include<stdio.h>
@@ -979,15 +881,13 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **EPadronU23** (2)
+* **EPadronU23** (2) [1043160](https://platzi.com/comentario/1043160/) 
 
-	
 	Se habló casi nada de las directivas de pre-procesamiento.  
 	-1
 
-* **FrcGustavo** (2)
+* **FrcGustavo** (2) [1030994](https://platzi.com/comentario/1030994/) 
 
-	
 	Reto 1 listo un programa que calcula tu peso en otro planeta
 	``` 
 	    #include <stdio.h>
@@ -1048,9 +948,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **onyx** (2)
+* **onyx** (2) [874199](https://platzi.com/comentario/874199/) 
 
-	
 	el reto :V
 	``` 
 	    #include<stdio.h>
@@ -1066,14 +965,13 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Juan Daniel Zaleta Turrubiates** (2)
+* **Juan Daniel Zaleta Turrubiates** (2) [842691](https://platzi.com/comentario/842691/) 
 
-	
 	Les comparto como lo hago en VS code. Asi puedo editar con la asistencia de VS Code mientras ejecuto el programa con la consola del mismo IDE
 	
 	![Captura de Pantalla 2019-11-29 a la\(s\) 1.14.19 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-11-29%20a%20la%28s%29%201.14.19%20p.%C2%A0m.-53a51eb1-0262-4d3f-953c-f5635cfd5279.jpg)
 
-* **juanjosejaramillo** (2)
+* **juanjosejaramillo** (2) [837058](https://platzi.com/comentario/837058/) 
 
 	```
 	    #include <stdio.h>
@@ -1088,7 +986,7 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Walter Barrios Vazquez** (2)
+* **Walter Barrios Vazquez** (2) [836092](https://platzi.com/comentario/836092/) 
 
 	```
 	    #include<stdio.h>
@@ -1109,9 +1007,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Erick Lopez** (1)
+* **Erick Lopez** (1) [1097851](https://platzi.com/comentario/1097851/) 
 
-	
 	programa sencillo que realiza problemas aritmeticos
 	``` 
 	    #include <stdio.h>
@@ -1173,7 +1070,7 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Carlos Augusto Pérez Méndez** (1)
+* **Carlos Augusto Pérez Méndez** (1) [1097814](https://platzi.com/comentario/1097814/) 
 
 	```
 	    #include <stdio.h>
@@ -1258,9 +1155,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-	* **Carlos Augusto Pérez Méndez** (1)
+	* **Carlos Augusto Pérez Méndez** [1097814] (1)
 
-		
 		Un pequeño programa para convertir algunas unidades de medida a otra  
 		Metros a milimetros  
 		Milimetros a metro  
@@ -1268,9 +1164,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 		
 		![](url)![menu.JPG](https://static.platzi.com/media/user_upload/menu-e7951109-5326-497b-a1e5-ed18726f3ccd.jpg)
 
-* **Nicolas David Pastran Zamora** (1)
+* **Nicolas David Pastran Zamora** (1) [1096862](https://platzi.com/comentario/1096862/) 
 
-	
 	Estas sentencias son muy utilices para programar micro controladores ya que que el mismo programa nos puede servir para diferentes dispositivos sin importar que sus registros se configuren ligeramente diferente. Ejemplo configuración de osciladores para diferentes pic.
 	``` 
 	    #ifdef _18F2550
@@ -1284,9 +1179,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **José Eduardo Reyes Yol** (1)
+* **José Eduardo Reyes Yol** (1) [1089460](https://platzi.com/comentario/1089460/) 
 
-	
 	Después de probar, funciona. Aunque en esta clase casi no se hablo de las directivas de pre-compilador.
 	``` 
 	    #include <stdio.h>
@@ -1305,12 +1199,11 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Luis Santoy** (1)
+* **Luis Santoy** (1) [1063282](https://platzi.com/comentario/1063282/) 
 
-	
 	![](![operations.jpg](https://static.platzi.com/media/user_upload/operations-e2a762e2-5e86-4a60-bdd2-0ea49de64edc.jpg)
 
-* **gberruet** (1)
+* **gberruet** (1) [1055829](https://platzi.com/comentario/1055829/) 
 
 	```
 	    #include<stdio.h>
@@ -1328,7 +1221,7 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [1043074](https://platzi.com/comentario/1043074/) 
 
 	```
 	    #include<stdio.h>
@@ -1367,9 +1260,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Luis_Cruz_Cruz** (1)
+* **Luis_Cruz_Cruz** (1) [1024935](https://platzi.com/comentario/1024935/) 
 
-	
 	Hola a todos,
 	
 	Les comparto el codigo que realicé para el reto de est clase. Espero que este codigo les sea util.
@@ -1422,7 +1314,7 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	
 	Saludos.
 
-* **AngelFA04** (1)
+* **AngelFA04** (1) [1007907](https://platzi.com/comentario/1007907/) 
 
 	```
 	    //Reto 1
@@ -1471,13 +1363,12 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **AngelFA04** (1)
+* **AngelFA04** (1) [1007903](https://platzi.com/comentario/1007903/) 
 
-	
 	Articulo interesante para el uso de placeholders en la función printf  
 	<https://www.quora.com/What-are-the-placeholders-used-in-C?share=1>
 
-* **JanethM** (1)
+* **JanethM** (1) [994927](https://platzi.com/comentario/994927/) 
 
 	```
 	    // **RETO**
@@ -1497,7 +1388,7 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **JanethM** (1)
+* **JanethM** (1) [994926](https://platzi.com/comentario/994926/) 
 
 	```
 	    // directiva de precompilador
@@ -1513,9 +1404,8 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [945570](https://platzi.com/comentario/945570/) 
 
-	
 	RETO
 	``` 
 	    #include<stdio.h>
@@ -1537,47 +1427,43 @@ Hola, necesito ayuda!!! Cuando intento correr el archivo ejecutable en la linea 
 	    
 	```
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894705](https://platzi.com/comentario/894705/) 
 
-	
 	las directivas de pre-procesador, como: Include, define ifdef y ifndef le dan algunos tips al compilador de como de interpretar el codigo, es un especie de configuracion de compilador
 
-* **Abdel Mejia** (1)
+* **Abdel Mejia** (1) [851766](https://platzi.com/comentario/851766/) 
 
-	
 	Un ejercicio simple pero entretenido :3
 	
 	![Screen Shot 2019-12-05 at 11.16.14 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-12-05%20at%2011.16.14%20AM-313d00a3-8c7b-418f-87e8-b30631809123.jpg)![Screen Shot 2019-12-05 at 11.17.29 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-12-05%20at%2011.17.29%20AM-4336d6f2-809d-496b-b9d2-d9192aa31c54.jpg)
 
-* **David Felipe Bohórquez** (1)
-![challenge.png](https://static.platzi.com/media/user_upload/challenge-4eedf570-129e-470d-9dbf-0f266f4ddc76.jpg)
+* **David Felipe Bohórquez** (1) [840109](https://platzi.com/comentario/840109/) 
+	
+	![challenge.png](https://static.platzi.com/media/user_upload/challenge-4eedf570-129e-470d-9dbf-0f266f4ddc76.jpg)
 
-	* **David Felipe Bohórquez** (1)
+	* **David Felipe Bohórquez** [840109] (1)
 
-		
 		![](![challenge2.png](https://static.platzi.com/media/user_upload/challenge2-3ca2712e-9c52-4575-9564-5931752be2ca.jpg)
 
-* **Cristian Alejandro Muñoz Cardona** (0)
+* **Cristian Alejandro Muñoz Cardona** (0) [837082](https://platzi.com/comentario/837082/) 
 
-	
 	%d = Numero entero  
 	%f = Numero flotante  
 	%c = Caracter  
 	%s = Cadena de texto
 
-* **Jordan Ronaldo Buitrago Sandoval** (0)
+* **Jordan Ronaldo Buitrago Sandoval** (0) [77744](https://platzi.com/comentario/909008/) 
 tengo una pregunta en cuanto a la funcion return, entiendo que 0 es falso y todo el resto es verdadero
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [77744] (2)
 
-		
 		Estas lecturas te pueden ayudar a aclarar tus dudas:
 		
 		👉 <https://www.quora.com/Why-do-we-use-a-return-0-at-the-end-of-a-main-function>  
 		👉 <https://www.geeksforgeeks.org/return-statement-in-c-cpp-with-examples/>  
 		👉 <https://www.quora.com/In-C++-when-making-a-function-does-return-0-means-true-or-false>
 
-## 0090. Conceptos esenciales
+## 0090. Conceptos esenciales [25149](https://platzi.com/clases/1740-lenguaje-c/25149-conceptos-esenciales/)
 
 ### Descripción:
 
@@ -1600,11 +1486,11 @@ Hay ciertas cosas que seguro sabes que debes indicarle:
 
 Algunas cosas que darás por sentado serán:
 
-  * Mira antes de cruzar la calle
+* Mira antes de cruzar la calle
 
-  * Lleva contigo dinero o tarjeta
+* Lleva contigo dinero o tarjeta
 
-  * Cierra la puerta detrás de ti
+* Cierra la puerta detrás de ti
 
 
 
@@ -1728,14 +1614,12 @@ Se trata en definitiva de un mecanismo de seguridad más (seguridad en el sentid
 
 ### Comentarios:
 
-* **Juan Antonio Oriza** (5)
+* **Juan Antonio Oriza** (5) [905720](https://platzi.com/comentario/905720/) 
 
-	
 	Interesante explicación de la palabra reservada “const”, solo como complemento a lo explicado. Este tipo de “seguridad” se le conoce tambien como “principio de menor privilegio”, en donde no se le permite a módulos de software, tales como funciones, modificar aspectos mas alla para lo que fueron creados.
 
-* **Miguel Bedoya** (1)
+* **Miguel Bedoya** (1) [1076389](https://platzi.com/comentario/1076389/) 
 
-	
 	Un ejemplo de como usar struct para definir un nuevo tipo de datos estructurados:
 	
 	struct Person  
@@ -1745,9 +1629,8 @@ Se trata en definitiva de un mecanismo de seguridad más (seguridad en el sentid
 	float salary;  
 	};
 
-* **Julian Guarin** (1)
+* **Julian Guarin** (1) [1006567](https://platzi.com/comentario/1006567/) 
 
-	
 	Const:
 	
 	  1. Es un atributo de una variable.
@@ -1756,106 +1639,90 @@ Se trata en definitiva de un mecanismo de seguridad más (seguridad en el sentid
 	
 	
 
-# Entender conceptos más profundos del lenguaje C
+# Entender conceptos más profundos del lenguaje C [4842]
 
-## 0100. Punteros
+## 0100. Punteros [24212](https://platzi.com/clases/1740-lenguaje-c/24212-punteros/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jose Oliva Rivera** (4)
+* **Jose Oliva Rivera** (4) [849575](https://platzi.com/comentario/849575/) 
 
-	
 	Este tema es clave para entender C, se debe prestar mucha atención.
 
-* **gydoar** (4)
+* **gydoar** (4) [833457](https://platzi.com/comentario/833457/) 
 
-	
 	Nunca entendí esta clase en la Universidad, espero me sorprenda profesor,
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [833457] (2)
 
-		
 		También te pueden ayudar estas clases del curso de C++: <https://platzi.com/clases/1545-c-plus-plus/19070-que-son-los-apuntadores/>. 😉
 
-	* **Mauro Chojrin** (2)
+	* **Mauro Chojrin** [833457] (2)
 
-		
 		@gydoar Ojalá que sí! Cualquier duda puedes dejar tu pregunta!
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [894711](https://platzi.com/comentario/894711/) 
 
-	
 	No hay algo mas dificil de manejar que punteros en C, segun asi lo ruerdo en la universidad, pero esta explicacion es muy facil de asimilar
 
-* **onyx** (2)
+* **onyx** (2) [875783](https://platzi.com/comentario/875783/) 
 
-	
 	el curso esta muy flojo, tenie en varios videos errores de codigo que no llega a suceder por mera casualidad como setea las variables, ademas de que aplica muchas malas practicas, se que es introductorio, pero veo que es mas para alguien que ya sabe low-level con otro lenguaje y quiere rapidamente ver como se hace en C
 
-* **predator0077** (2)
+* **predator0077** (2) [844299](https://platzi.com/comentario/844299/) 
 
-	
 	Me exploto la cabeza pero logre, aprender un poco mas de los punteros
 
-* **David Felipe Bohórquez** (2)
+* **David Felipe Bohórquez** (2) [840165](https://platzi.com/comentario/840165/) 
 
-	
 	Excelente clase, muy claro.
 
-	* **Mauro Chojrin** (1)
+	* **Mauro Chojrin** [840165] (1)
 
-		
 		Gracias!! Me alegra que te haya gustado 😃
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1071980](https://platzi.com/comentario/1071980/) 
 
-	
 	¡Excelente explicación!
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [1048951](https://platzi.com/comentario/1048951/) 
 
-	
 	Simplemente brillante la forma en que fueron explicados los punteros. Mis respetos.
 
-* **ppastram** (1)
+* **ppastram** (1) [953311](https://platzi.com/comentario/953311/) 
 
-	
 	Hola. Al correr mi programa en la terminal de Mac, tengo problemas con los punteros, pues me parecen los errores error: expected expression -> printf(%p, pointToNumber); y error: use of undeclared identifier ‘p’ -> printf(%p, pointToNumber);  
 	¿Alguien sabe que debo hacer?  
 	¡Gracias!
 
-	* **JanethM** (1)
+	* **JanethM** [953311] (1)
 
-		
 		Es por que te falto poner entre comillas el %p  
 		asi no deberia marcarte ningun error:  
 		printf( **"** %p **"** , pointToNumber);
 
-* **pablohugomontenegro** (1)
+* **pablohugomontenegro** (1) [86040](https://platzi.com/comentario/1086856/) 
 por que pone int main() en lugar de main solo?
 
-	* **Arturo O. Téllez** (1)
+	* **Arturo O. Téllez** [86040] (1)
 
-		
 		Porque se especifica el tipo de dato que retorna la función main. Si no optamos por no poner int main(); se puede cambiar por void main(). Pero al final no se debe de incluir el return. 😃
 
-* **braulioondoedu** (1)
+* **braulioondoedu** (1) [74589](https://platzi.com/comentario/855804/) 
 la verdad es que no quiero ser critico, pero el curso pone introduccion y se ssupone que en una introduccion se ttiene que ensenhar desde...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [74589] (1)
 
-		
 		Este curso está 100% enfocado en conocer las características de C y todas las posibilidades que nos ofrece. Pero también puedes estudiar con el curso de programación estructurada, vamos un poco más despacio y aprendiendo sobre lógica de programación: <https://platzi.com/clases/programacion-estructurada/>.
 
-* **Nahuel Ramos** (0)
+* **Nahuel Ramos** (0) [1053446](https://platzi.com/comentario/1053446/) 
 
-	
 	No tiene mucho que ver con la clase, pero no puedo usar ctrl + shift + u + unicode para escribir caracteres especiales en la terminal o en vim. Lo raro es que si me funciona en el navegador. Estoy usando kali en Virtual Box. Si alguien podría darme una mano sería genial. Muchas gracias.
 
-## 0110. Usos prácticos de los punteros
+## 0110. Usos prácticos de los punteros [24213](https://platzi.com/clases/1740-lenguaje-c/24213-usos-practicos-de-los-punteros/)
 
 ### Descripción:
 
@@ -1868,64 +1735,58 @@ la verdad es que no quiero ser critico, pero el curso pone introduccion y se ssu
 
 ### Comentarios:
 
-* **Juan Antonio Oriza** (9)
+* **Juan Antonio Oriza** (9) [906343](https://platzi.com/comentario/906343/) 
 
-	
 	 **Las funciones pueden pasar valores de dos formas en C:**
 	
-	  * **Por valor:** Esta es la forma predeterminada en como C pasa los valores a sus funciones. Se crea una copia de la variable que se le pasa como argumento, quedando la variable original inalterada.
+	* **Por valor:** Esta es la forma predeterminada en como C pasa los valores a sus funciones. Se crea una copia de la variable que se le pasa como argumento, quedando la variable original inalterada.
 	
-	  * **Por referencia:** Esta es la forma en como C puede modificar las variables que son pasadas como argumentos de la función. Hace uso de apuntadores, pasando, como su nombre lo indica, una referencia a la posición de memoria de la variable que se maneja como argumento, permitiendo alterar su valor.
+	* **Por referencia:** Esta es la forma en como C puede modificar las variables que son pasadas como argumentos de la función. Hace uso de apuntadores, pasando, como su nombre lo indica, una referencia a la posición de memoria de la variable que se maneja como argumento, permitiendo alterar su valor.
 	
 	
 	
 
-	* **Abdel Mejia** (2)
+	* **Abdel Mejia** [906343] (2)
 
-		
 		Esto se conoce como:
 		
-		  * Reference
-		  * Derefence
+		* Reference
+		* Derefence
 		
 		
 
-* **elvis.sanchez** (3)
+* **elvis.sanchez** (3) [836960](https://platzi.com/comentario/836960/) 
 
-	
 	Cool. Como en Golang ❤️
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894735](https://platzi.com/comentario/894735/) 
 
-	
 	en el caso de C el pasaje por referencia se realiza por los punteros
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [73787](https://platzi.com/comentario/841412/) 
 ¿Algún curso de platzi recomendado para aprender los comandos más importantes de VIM?
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [73787] (4)
 
-		
 		No se tiene un contenido especifico sobre ese tema, pero acá encontré un link que te puede servir. [Vim Basics](https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started).
 
-* **Edgar Muñoz** (0)
+* **Edgar Muñoz** (0) [77118](https://platzi.com/comentario/898479/) 
 hola amigos, donde puedo encontrar ejercicios para practicar programación en C gracias.
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (3)
+	* **Juan Felipe Peralta Zapata (Platzi)** [77118] (3)
 
-		
 		¡Hola, Edgar! ⚡
 		
 		Básicamente cualquier ejercicio de programación puedes adaptarlo al lenguaje que desees.
 		
 		Aquí te dejo algunos enlaces que te pueden servir para encontrar páginas con ejercicios de programación:
 		
-		  * [HackerRank: Plataforma online para practicar código](https://platzi.com/tutoriales/1050-programacion-basica/1918-hackerrank-plataforma-online-para-practicar-codigo/).
-		  * [Cinco sitios online con retos de programación donde poder mejorar nuestro código](https://www.genbeta.com/desarrollo/cinco-sitios-online-con-retos-de-programacion-donde-poder-mejorar-nuestro-codigo).
+		* [HackerRank: Plataforma online para practicar código](https://platzi.com/tutoriales/1050-programacion-basica/1918-hackerrank-plataforma-online-para-practicar-codigo/).
+		* [Cinco sitios online con retos de programación donde poder mejorar nuestro código](https://www.genbeta.com/desarrollo/cinco-sitios-online-con-retos-de-programacion-donde-poder-mejorar-nuestro-codigo).
 		
 		
 
-## 0120. Aritmética de punteros
+## 0120. Aritmética de punteros [24214](https://platzi.com/clases/1740-lenguaje-c/24214-aritmetica-de-punteros/)
 
 ### Descripción:
 
@@ -1938,14 +1799,12 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 
 ### Comentarios:
 
-* **Cristian Rosales** (2)
+* **Cristian Rosales** (2) [1079513](https://platzi.com/comentario/1079513/) 
 
-	
 	Como copiar y pegar en [Vim ](https://riptutorial.com/es/vim/example/18668/copiar--cortar-y-pegar) .
 
-* **guillermogranado** (2)
+* **guillermogranado** (2) [841464](https://platzi.com/comentario/841464/) 
 
-	
 	He realizado el ejemplo de wrong_pointer y mi puntero no apunta a la memoria de la variable b al incrementarlo.  
 	Sabes por que puede ser?  
 	Estoy usando clang sobre MacOS  
@@ -1978,39 +1837,33 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 	    
 	```
 
-	* **David Felipe Bohórquez** (2)
+	* **David Felipe Bohórquez** [841464] (2)
 
-		
 		Tal vez tiene algo que ver con la manera en la que se maneja la memoria en Ubuntu. Yo uso Fedora y me dió igual que a tí, sin embargo en una maquina virtual con Ubuntu probé el mismo código y si se pisó la dirección de memoria de la variable b.
 
-	* **David Felipe Bohórquez** (2)
+	* **David Felipe Bohórquez** [841464] (2)
 
-		
 		![](![wrongpointer.png](https://static.platzi.com/media/user_upload/wrongpointer-2dd45202-613c-406f-9ad0-3cb5af5d40ac.jpg)
 
-	* **Mauro Chojrin** (5)
+	* **Mauro Chojrin** [841464] (5)
 
-		
 		Es posible que eso suceda debido al compilador que usas, a la arquitectura de la computadora o al sistema operativo.
 		
 		Lo importante igual es comprender que se está accediendo a una dirección de memoria desconocida y, por lo tanto, se puede estar sobre-escribiendo información que no estamos controlando.
 
-	* **Jeffersson Muñoz Torres** (1)
+	* **Jeffersson Muñoz Torres** [841464] (1)
 
-		
 		Al parecer la dirección de memoria de la variable ‘b’ es menor a la de la variable ‘a’.  
 		_Recordemos que las direcciones de memoria no están en el sistema decimal, sino, en el sistema hexadecimal._  
 		.  
 		Es por eso, que al sumar a la dirección de memoria de la variable ‘a’ esta sigue siendo mayor, cuando lo que debería ocurrir es que sean igual las direcciones de ‘a’ y ‘b’.
 
-* **Josue12** (1)
+* **Josue12** (1) [1081528](https://platzi.com/comentario/1081528/) 
 
-	
 	Que pasaría si le asignas un valor a un puntero que no apunta a ninguna variable?
 
-	* **Samuel Mauricio Braganza Zorilla** (1)
+	* **Samuel Mauricio Braganza Zorilla** [1081528] (1)
 
-		
 		Pues solo cambiaria el valor del puntero, y no cambiaria el valor de otra variable.  
 		Por ejemplo:
 		
@@ -2022,14 +1875,12 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 		numero --> 520  
 		puntero --> 560
 
-* **Jair Sebastian Lozano Moron** (1)
+* **Jair Sebastian Lozano Moron** (1) [944405](https://platzi.com/comentario/944405/) 
 
-	
 	Consulta, porque enteros ocupan el tamaño de 4 bytes y un carácter solo 1?
 
-	* **JanethM** (3)
+	* **JanethM** [944405] (3)
 
-		
 		 **Los tipos de dato entero disponibles y su tamaño dependen del lenguaje de programación usado así como la arquitectura en cuestión.**
 		
 		**Los caracteres** se representan utilizando el tipo char, que tiene sólo 1 byte de tamaño. Este tipo se utiliza para representar los 256 caracteres de la tabla de caracteres del sistema. El tipo char es también un tipo entero, ya que puede tomar valores de 0 a 255. Por lo tanto también puede ser signed o unsigned.
@@ -2043,12 +1894,11 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 		Solo positivos (enteros sin signo): del 0 al 4294967295  
 		Positivos y negativos (enteros con signo): del -2147483648 al 2147483647
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894781](https://platzi.com/comentario/894781/) 
 
-	
 	Muy facil la aritmetica con punteros
 
-## 0130. Arreglos
+## 0130. Arreglos [24215](https://platzi.com/clases/1740-lenguaje-c/24215-arreglos/)
 
 ### Descripción:
 
@@ -2061,15 +1911,13 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 
 ### Comentarios:
 
-* **Jeffersson Muñoz Torres** (3)
+* **Jeffersson Muñoz Torres** (3) [1020547](https://platzi.com/comentario/1020547/) 
 
-	
 	Nuevo conocimiento adquirido:  
 	El compilador y/o la maquina virtual que ejecuta algún programa que contenga arreglos para poder recorrerlo todo hace uso de **punteros** . 🤯
 
-* **Alejandro Urrea Giraldo** (2)
+* **Alejandro Urrea Giraldo** (2) [1075853](https://platzi.com/comentario/1075853/) 
 
-	
 	Para ilustrar los conceptos aprendidos en esta clase, comparto un programa en C donde se ve claramente como se asignan direcciones de memoria contiguas al definir un arreglo, y como el tipo de dato afecta el tamaño de memoria reservado para cada dato
 	
 	![c_array_memory_definition.png](https://static.platzi.com/media/user_upload/c_array_memory_definition-615f603d-df6a-4193-9384-873cba39be0b.jpg) ![r_array_memory_definition.png](https://static.platzi.com/media/user_upload/r_array_memory_definition-d108f5d6-85e4-4615-9a9b-3e21ad357df5.jpg)
@@ -2080,9 +1928,8 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 	
 	Las direcciones de memoria **reservadas** y **contiguas** , permiten que los vectores puedan ser recorridos incrementando el puntero que está referenciado a la posición 0 del arreglo
 
-* **Steven Moreno** (2)
+* **Steven Moreno** (2) [833231](https://platzi.com/comentario/833231/) 
 
-	
 	 **En definitiva debo instalar Ubuntu en windows…**
 	
 	#include <stdio.h>
@@ -2114,19 +1961,17 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 	array[4] = 8  
 	array[5] = 5
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [833231] (3)
 
-		
 		En el Curso de Introducción a la Terminal puedes aprender cómo: <https://platzi.com/clases/terminal/>.
 		
 		También en el curso de Prework: <https://platzi.com/clases/prework/>.
 
-	* **onyx** (2)
+	* **onyx** [833231] (2)
 
-		
 		usa vagrant, muy bueno, portable y ligero
 
-* **JanethM** (1)
+* **JanethM** (1) [995574](https://platzi.com/comentario/995574/) 
 
 	```
 	    #include <stdio.h>
@@ -2151,21 +1996,19 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 	    
 	```
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894792](https://platzi.com/comentario/894792/) 
 
-	
 	los arreglos son variables que almacenan varios valores a la vez
 
-## 0140. Strings
+## 0140. Strings [24216](https://platzi.com/clases/1740-lenguaje-c/24216-strings/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **onyx** (8)
+* **onyx** (8) [876468](https://platzi.com/comentario/876468/) 
 
-	
 	tener en cuenta que el largo de la palabra no se calcula, lo que hace el compilador es agregar un “flag” de terminacion nulo en la palabra, asi por ejemplo printf(), sabe hasta donde imprimir la palabra “Mauro”, me explico:
 	
 	Aqui definimos una variable de tipo “char *” la la cual le damos la direccion a la palabra mauro, la cual esta almacenada en el “stack”, (Sector de memoria de lectura durante el runtime)
@@ -2216,17 +2059,15 @@ hola amigos, donde puedo encontrar ejercicios para practicar programación en C 
 	
 	si tienen algun duda no duden en preguntar, y agradecere su laik prros :v
 
-* **guillermogranado** (2)
+* **guillermogranado** (2) [73793](https://platzi.com/comentario/841545/) 
 Podríais compartirme enlaces con documentación sobre el lenguaje C? No me importa si esta en inglés (casi que lo prefiero). Gracias
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [73793] (2)
 
-		
 		<https://en.cppreference.com/w/c>
 
-* **Samuel Mauricio Braganza Zorilla** (1)
+* **Samuel Mauricio Braganza Zorilla** (1) [1104820](https://platzi.com/comentario/1104820/) 
 
-	
 	Tengo dos variables: char * cadena e int * numero. Porque al inicializar de esta forma:
 	``` 
 	    char * cadena = "Samuel";
@@ -2248,16 +2089,15 @@ Podríais compartirme enlaces con documentación sobre el lenguaje C? No me impo
 	    
 	```
 
-* **Luis_Cruz_Cruz** (1)
+* **Luis_Cruz_Cruz** (1) [1054262](https://platzi.com/comentario/1054262/) 
 
-	
 	Hola a todos,
 	
 	Les comparto el resultado de esta lección;
 	
 	![Lesson_14.jpg](https://static.platzi.com/media/user_upload/Lesson_14-8c3e61f6-c55e-4e83-a839-c8c5b07ed720.jpg)
 
-* **JanethM** (1)
+* **JanethM** (1) [999011](https://platzi.com/comentario/999011/) 
 
 	```
 	    #include<stdio.h>
@@ -2277,26 +2117,25 @@ Podríais compartirme enlaces con documentación sobre el lenguaje C? No me impo
 	    
 	```
 
-* **onyx** (1)
+* **onyx** (1) [75816](https://platzi.com/comentario/876460/) 
 tener en cuenta que el largo de la palabra no se calcula, lo que hace el compilador es agregar un “flag” de terminacion nulo en la palabr...
 
-## 0150. Strings y memoria
+## 0150. Strings y memoria [24217](https://platzi.com/clases/1740-lenguaje-c/24217-strings-y-memoria/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **LuqueDaniel** (3)
+* **LuqueDaniel** (3) [932006](https://platzi.com/comentario/932006/) 
 
-	
 	El operador ternario permite realizar un pequeño condicional en una sola linea.
 	``` 
 	    char* resultado = (puntuacion >= 6) ? "Aprobado" : "Suspenso";
 	    
 	```
 
-* **Jordan Ronaldo Buitrago Sandoval** (2)
+* **Jordan Ronaldo Buitrago Sandoval** (2) [844660](https://platzi.com/comentario/844660/) 
 
 	```
 	    #include <studio.h>
@@ -2342,43 +2181,38 @@ tener en cuenta que el largo de la palabra no se calcula, lo que hace el compila
 	    
 	```
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894871](https://platzi.com/comentario/894871/) 
 
-	
 	\0 es importante al final de cada string
 
-* **José Eduardo Reyes Yol** (1)
+* **José Eduardo Reyes Yol** (1) [86475](https://platzi.com/comentario/1096672/) 
 ¿Cuál es la verdadera diferencia entre char * str ="Mauro"; , char str = "mauro" y char str[] = "mauro...
 
-	* **Julián David Cubillos Ortegón** (1)
+	* **Julián David Cubillos Ortegón** [86475] (1)
 
-		
 		char * str = “Mauro” se define un arreglo de string y es otra manera de decir char str[] = "Mauro"  
 		Diferente a char str = “Mauro” el que aunque define una variable char y escribe una palabra solamente es una variable y no un arreglo o vector la lectura en memoria sera diferente…
 
-## 0160. Parámetros de línea de comandos
+## 0160. Parámetros de línea de comandos [24218](https://platzi.com/clases/1740-lenguaje-c/24218-parametros-de-linea-de-comandos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **David Felipe Bohórquez** (5)
+* **David Felipe Bohórquez** (5) [849828](https://platzi.com/comentario/849828/) 
 
-	
 	Como entusiasta novato de Unix y Linux creo que este curso está estupendo para entender mejor como funcionan.
 
-* **jimezam** (4)
+* **jimezam** (4) [888545](https://platzi.com/comentario/888545/) 
 Para evitar problemas de buffer overflow como se menciona al final del video, lo mejor es utilizar la variante N de las funciones de string.h. En lugar de usar strcpy se deberá utilizar strncpy la cual permite especificar la longitud máxima a copiar.
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [894889](https://platzi.com/comentario/894889/) 
 
-	
 	main parametros int argc y char * argv[], son sus parametros por defecto
 
-* **Juan Fernando Romero Ortega** (1)
+* **Juan Fernando Romero Ortega** (1) [916435](https://platzi.com/comentario/916435/) 
 
-	
 	Esto es lo que arroja la consola, a la pregunta de abajo.
 	``` 
 	    PS D:\Curso Introduccion C> .\buffer_overflow 1212312123123123123123123123123123123123123
@@ -2386,9 +2220,8 @@ Para evitar problemas de buffer overflow como se menciona al final del video, lo
 	    
 	```
 
-* **Juan Fernando Romero Ortega** (1)
+* **Juan Fernando Romero Ortega** (1) [916433](https://platzi.com/comentario/916433/) 
 
-	
 	Saludos, otra duda, porque no me arroja error? lo unico que veo que pasa en mi consola es que la segunda linea de printf no se ejecuta, pero no arroja el error como tal, estoy en visual studio code
 	``` 
 	    #include<stdio.h>
@@ -2407,105 +2240,89 @@ Para evitar problemas de buffer overflow como se menciona al final del video, lo
 	    
 	```
 
-	* **JanethM** (1)
+	* **JanethM** [916433] (1)
 
-		
 		Depende de como tu sistema operativo vaya a manejar el problema, yo por ejemplo estoy en windows y lo que hace es que me lanza una ventana de que se a detectado un problema y si quiero cerrarlo
 
-* **Juan Fernando Romero Ortega** (1)
+* **Juan Fernando Romero Ortega** (1) [916432](https://platzi.com/comentario/916432/) 
 
-	
 	Saludos, una duda, porque imprimimos “printf(New buffer2: %s\n”, buffer2);" si la variable a la que se le copia es a buffer. ?
 
-	* **JanethM** (1)
+	* **JanethM** [916432] (1)
 
-		
 		Hola  
 		es un ejemplo, lo que va a causar la falla es cuando queremos sobreescribir en la variable buffer un dato de mayor espacio que el espacio que definimos desde un principio para buffer, en el ejemplo simplemente vamos imprimiendo en consola para que veas que el programa se esta ejecutando y al ver que no te imprime la segunda linea puedes notar que algo anda mal
 
-## 0170. Definición de tipos de datos estructurados
+## 0170. Definición de tipos de datos estructurados [24219](https://platzi.com/clases/1740-lenguaje-c/24219-definicion-de-tipos-de-datos-estructurados/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **ffranco_** (4)
+* **ffranco_** (4) [1026061](https://platzi.com/comentario/1026061/) 
 
-	
 	Está genial el curso, en poco tiempo alcancé el punto que llegué en la universidad. Incluso aprendí nuevas cosas como la comparación en línea y el modificador cont en los comandos 😄 Este curso ha sido muy bien elaborado
 
-* **José Eduardo Reyes Yol** (2)
+* **José Eduardo Reyes Yol** (2) [1099726](https://platzi.com/comentario/1099726/) 
 
-	
 	Para mis compañeros que, cómo yo, aún no entienden bien los punteros, aquí les dejo un documento en PDF que encontré en internet dónde explican muy bien los punteros y cómo funcionan en el lenguaje C. <https://lsi.vc.ehu.eus/pablogn/docencia/manuales/C/Punteros_en_C.pdf>
 
-* **José Eduardo Reyes Yol** (2)
+* **José Eduardo Reyes Yol** (2) [1099429](https://platzi.com/comentario/1099429/) 
 
-	
 	EL curso hasta este punto está genial. Sin embargo me gustaría que fuera un poco más práctico. Ya que los ejemplos que realizamos en clase son muy simples y no nos enseñan cómo resolver problemas más complejos utilizando varias herramientas juntas.
 
-* **Lorenzo David Lezcano** (2)
+* **Lorenzo David Lezcano** (2) [966190](https://platzi.com/comentario/966190/) 
 
-	
 	El curso es interesante, pero creo que va un poco rapido
 
-	* **Miguel Ramos** (2)
+	* **Miguel Ramos** [966190] (2)
 
-		
 		Me parece que el problema no es la velocidad si no el entendimiento de algunos conceptos que lo hacen perder a uno, creería que la percepción depende de la capacidad de entendimiento, ya que este es un lenguaje de bajo nivel por lo que su comprensión puede ser mas complicada que un PHP o un JavaScript.
 		
 		Ten paciencia mi amigo y trata de apoyarte en documentación al principio también me dio duro entender esto.
 
-	* **Oscar Grey** (2)
+	* **Oscar Grey** [966190] (2)
 
-		
 		Como dice Miguel , es por comprensión , para entender las bases de un lenguaje o desarrollar una buena abstracción hace falta tiempo , entrenamiento y sobre todo equivocarse.  
 		Sobre todo equivocarse , esto te permitirá a deconstruir malos entendimientos , en pocas palabras sabrás por tu propia experiencia que hace y que no hace cada utilidad.  
 		En mi caso me ha parecido fácil ya que vengo de otros lenguajes como Python o Javascript . Que sus bases son muy parecidas , sólo que no son tan fuertemente tipados. Y puedo afirmar que hasta ahora hay una igualdad muy marcada en ellos. Desde la forma de trabajar con funciones/variables hasta el manejo de strings por caracteres , en el que se parece mucho con Python por cierto .
 
-* **Sebastian Augusto Baez Ramos** (2)
+* **Sebastian Augusto Baez Ramos** (2) [841533](https://platzi.com/comentario/841533/) 
 
-	
 	Conociendo la programación orientada a objetos, ¿es mejor hacer manejo de estos tipo de datos con ese paradigma o que diferencia tendría con el manejo de “struct”?
 
-	* **Matias Sebastian Perez** (7)
+	* **Matias Sebastian Perez** [841533] (7)
 
-		
 		En este caso, C no soporta el **paradigma orientado a objetos**. En mi opinion los **structs** sirven mas para encapsular variables con el mismo proposito, o que describan algo en comun, y creo que para el caso de la ficha con datos del empleado, es mucho mas conveniente un paradigma orientado a objetos por las ventajas que este nos brinda, tales como: **Herencia** , **Encapsulamiento** y **Polimorfismo**.
 
-	* **onyx** (5)
+	* **onyx** [841533] (5)
 
-		
 		los struct van a servir mucho para casos como cuando quieres pasar varios argmentos relacionados a una funcion sin declararlos todos, sirven para las linked lists, double linked lists, para punteros a funciones, y mas cosas avnzandas que se pueden hacer para manejar datos en C
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [894904](https://platzi.com/comentario/894904/) 
 
-	
 	Struct donde podemo crear un nuevo tipo de dato estructurado
 
-* **Erick Lopez** (1)
+* **Erick Lopez** (1) [86802](https://platzi.com/comentario/1104824/) 
 porque en el primer if definimos que (argc < 3) ??
 
-	* **Jorge Luis Lopez Santiz** (1)
+	* **Jorge Luis Lopez Santiz** [86802] (1)
 
-		
 		por que en argc es donde se hace el conteo de los datos que se envian desde el sistema operativo (cuando se escribe algo desde la terminal)
 
-* **ffranco_** (1)
+* **ffranco_** (1) [83927](https://platzi.com/comentario/1038511/) 
 Una duda fuerte. Por qué en el minuto 2:40 en lugar de asignar el nombre mediante person.name = argv[1]; Utiliza la función...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [83927] (2)
 
-		
 		Es una función cuya función es hacer una copia del string que del source al destino, los argumentos son la variable de destino y el source. Adicionalmente provee una serie de validaciones como que no se pueda almacenar una string más largo que la variable de destino.
 
-* **Miguel Ramos** (1)
+* **Miguel Ramos** (1) [80842](https://platzi.com/comentario/967717/) 
 Podría decir que puedo usar struct como una especie de modelo?
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [80842] (1)
 
-		
 		Si Miguel, con struct podemos definir un modelo que se compone con datos definidos en C o con otras structs, por ejemplo podemos definir una coordenada de un tablero de la siguiente forma:
 		``` 
 		    struct{
@@ -2526,24 +2343,22 @@ Podría decir que puedo usar struct como una especie de modelo?
 		
 		Espero que esto te ayude, un saludo.
 
-## 0180. Alias de tipos de datos
+## 0180. Alias de tipos de datos [24220](https://platzi.com/clases/1740-lenguaje-c/24220-alias-de-tipos-de-datos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Abdel Mejia** (5)
+* **Abdel Mejia** (5) [852109](https://platzi.com/comentario/852109/) 
 
-	
 	Esto es genial! 🤖
 
-* **Nicolas David Pastran Zamora** (1)
+* **Nicolas David Pastran Zamora** (1) [1098440](https://platzi.com/comentario/1098440/) 
 
-	
 	En algunas veces se necesitan algunos tipos de datos que estén más cerca a nuestra aplicación, con el fin que la aplicación sea entendible conceptualmente para su fácil mantenimiento, para esto se usan unos sobre nombres definidos con typedef (tipo de dato primitivo).
 
-* **Luis Fernando Zarazua Aguilar** (1)
+* **Luis Fernando Zarazua Aguilar** (1) [1073583](https://platzi.com/comentario/1073583/) 
 
 	```
 	    #include<stdio.h> //Directiva de precompilador (inclusión de archivo).
@@ -2586,21 +2401,19 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **ffranco_** (1)
+* **ffranco_** (1) [1026423](https://platzi.com/comentario/1026423/) 
 
-	
 	Buenísima clase
 
-## 0190. Crear bibliotecas propias
+## 0190. Crear bibliotecas propias [24221](https://platzi.com/clases/1740-lenguaje-c/24221-crear-bibliotecas-propias/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **gnbarzol** (2)
+* **gnbarzol** (2) [1073044](https://platzi.com/comentario/1073044/) 
 
-	
 	Reto cumplido!
 	``` 
 	    #include<stdio.h>
@@ -2630,14 +2443,12 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-	* **Johan Lisandro Castiblanco** (1)
+	* **Johan Lisandro Castiblanco** [1073044] (1)
 
-		
 		Buena esta solucion al estlo sort, me gusto porque no importa el numero de cadenas q se pongan…sacara la mas larga de todas.
 
-* **Abdel Mejia** (2)
+* **Abdel Mejia** (2) [1020975](https://platzi.com/comentario/1020975/) 
 
-	
 	En c también existe librerías estáticas y librerías dinámicas(compartidas).
 	
 	Las cuales te permiten incorporar mediante la directiva `#include` los símbolos necesarios en nuestro ejecutable al momento de linkear en nuestro ejecutable, con la ayuda de las referencias que tenemos en nuestro Header File o archivo de cabecera.
@@ -2650,7 +2461,7 @@ Podría decir que puedo usar struct como una especie de modelo?
 	
 	[Ver más](http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#what_is_a_library)
 
-* **Matias Sebastian Perez** (2)
+* **Matias Sebastian Perez** (2) [842238](https://platzi.com/comentario/842238/) 
 
 	```
 	    #include<stdio.h>
@@ -2672,9 +2483,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **Vicnow** (2)
+* **Vicnow** (2) [836071](https://platzi.com/comentario/836071/) 
 
-	
 	Este es mi codigo ❤️, ¡Animo!!!
 	``` 
 	    #include<stdio.h>
@@ -2708,9 +2518,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **cr-daniel-brayan** (2)
+* **cr-daniel-brayan** (2) [832719](https://platzi.com/comentario/832719/) 
 
-	
 	¡Hola a todos! les comparto mi solución al challenge.
 	``` 
 	    #include<stdio.h>
@@ -2734,16 +2543,14 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-	* **Mauro Chojrin** (4)
+	* **Mauro Chojrin** [832719] (4)
 
-		
 		Te sugiero en general tratar de evitar inicializar el resultado con algo que no está presente en el arreglo.
 		
 		Lo más conveniente sería inicializar con el primer elemento y empezar a comparar a partir del segundo.
 
-* **Julián David Cubillos Ortegón** (1)
+* **Julián David Cubillos Ortegón** (1) [1116473](https://platzi.com/comentario/1116473/) 
 
-	
 	Hola adjunto mi solucion al reto!!!
 	``` 
 	    #include<stdio.h>
@@ -2806,9 +2613,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **Miguel Bedoya** (1)
+* **Miguel Bedoya** (1) [1112021](https://platzi.com/comentario/1112021/) 
 
-	
 	Hola a todos. A continuación mi solución:
 	``` 
 	    #include<stdio.h>
@@ -2845,9 +2651,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **Erick Lopez** (1)
+* **Erick Lopez** (1) [1106310](https://platzi.com/comentario/1106310/) 
 
-	
 	Aqui esta mi codigo del mismo desafio, ahora usando la creacion de librerias para cualquier numero de argumentos
 	``` 
 	    #ifndef MI_LIBRERIA
@@ -2882,9 +2687,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **Erick Lopez** (1)
+* **Erick Lopez** (1) [1105683](https://platzi.com/comentario/1105683/) 
 
-	
 	Desafio completado con el menor cantidad de codigo, para cualquier numero de cadenas ingresadas
 	``` 
 	    #include<stdio.h>
@@ -2905,7 +2709,7 @@ Podría decir que puedo usar struct como una especie de modelo?
 	
 	![codigo.png](https://static.platzi.com/media/user_upload/codigo-d85b58ed-1a64-49d1-9b7e-3169c0137c7a.jpg)
 
-* **Samuel Mauricio Braganza Zorilla** (1)
+* **Samuel Mauricio Braganza Zorilla** (1) [1104896](https://platzi.com/comentario/1104896/) 
 
 	```
 	    #include<stdio.h>
@@ -2930,9 +2734,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **david.lachealvarez** (1)
+* **david.lachealvarez** (1) [1104848](https://platzi.com/comentario/1104848/) 
 
-	
 	El argumento de mayor tamaño…!!
 	``` 
 	    #include<stdio.h>
@@ -2961,9 +2764,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **paconity** (1)
+* **paconity** (1) [1085823](https://platzi.com/comentario/1085823/) 
 
-	
 	Por sí hay más de una cadena de caracteres que devolver, preferí no limitar al usuario de ninguna forma.
 	``` 
 	    #include <stdio.h>
@@ -3006,9 +2808,8 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1080914](https://platzi.com/comentario/1080914/) 
 
-	
 	Reto Cumplido ✌🏼
 	``` 
 	    #include <stdio.h>
@@ -3037,7 +2838,7 @@ Podría decir que puedo usar struct como una especie de modelo?
 	
 	![reto2CLI.jpg](https://static.platzi.com/media/user_upload/reto2CLI-624034b2-f188-453f-8b1f-dc2f636f8f4a.jpg)
 
-* **Luis Fernando Zarazua Aguilar** (1)
+* **Luis Fernando Zarazua Aguilar** (1) [1074307](https://platzi.com/comentario/1074307/) 
 
 	```
 	    #include <stdio.h> //Directiva de precompilador (inclusión de archivo).
@@ -3079,7 +2880,7 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **AngelFA04** (1)
+* **AngelFA04** (1) [1033943](https://platzi.com/comentario/1033943/) 
 
 	```
 	    /*Este programa recibe cadenas de caracteres de la linea de comandos y regresa la cadena más larga */
@@ -3111,14 +2912,12 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **Alfredo Gonzalez** (1)
+* **Alfredo Gonzalez** (1) [1026386](https://platzi.com/comentario/1026386/) 
 
-	
 	![](![Screen Shot 2020-03-08 at 23.47.49.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-03-08%20at%2023.47.49-35f9a00f-5ffe-41c6-9ee0-2fd37c380757.jpg)
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [946834](https://platzi.com/comentario/946834/) 
 
-	
 	RETO
 	``` 
 	    #include<stdio.h>
@@ -3136,10 +2935,10 @@ Podría decir que puedo usar struct como una especie de modelo?
 	    
 	```
 
-* **jimezam** (1)
+* **jimezam** (1) [888598](https://platzi.com/comentario/888598/) 
 Esperaba que se creara una bibliiteca estática (.a) o una dinámica (.so).
 
-* **Lery Andy Piérola Lazarte** (1)
+* **Lery Andy Piérola Lazarte** (1) [857381](https://platzi.com/comentario/857381/) 
 
 	```
 	    #include<stdio.h>
@@ -3165,9 +2964,8 @@ Esperaba que se creara una bibliiteca estática (.a) o una dinámica (.so).
 	    
 	```
 
-* **guillermogranado** (1)
+* **guillermogranado** (1) [855614](https://platzi.com/comentario/855614/) 
 
-	
 	Solución al desafio:
 	``` 
 	    #include <stdio.h>
@@ -3200,24 +2998,21 @@ Esperaba que se creara una bibliiteca estática (.a) o una dinámica (.so).
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [853599](https://platzi.com/comentario/853599/) 
 
-	
 	Mi solución al desafío:
 	
 	![](![Desafio1.png](https://static.platzi.com/media/user_upload/Desafio1-6cfa4e8a-d510-4ef5-999b-7e557d8e7329.jpg)
 
-	* **ffranco_** (2)
+	* **ffranco_** [853599] (2)
 
-		
 		Eres un crack 😄. Traté de hacerlo con el método de la burbuja, pero no se me había ocurrido solo guardar el índice mayor. Gracias por compartir tu solución.
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [74672](https://platzi.com/comentario/856951/) 
 Quise aplicar otros temas vistos en el curso, sin embargo aqui veo un error curioso (probablemente por novato) Al pasar argumentos inferi...
 
-	* **Ivan Rene Acosta Lallemand** (1)
+	* **Ivan Rene Acosta Lallemand** [74672] (1)
 
-		
 		Amigo si escribiste el código tal cual lo pegaste aqui es un tema de espacios, lo probe con el formateo adecuado y realizo la impresión que querías.
 		
 		Pego la manera en como me funciono y revises la parte de los espacios.
@@ -3260,7 +3055,7 @@ Quise aplicar otros temas vistos en el curso, sin embargo aqui veo un error curi
 		    
 		```
 
-* **Jordan Ronaldo Buitrago Sandoval** (0)
+* **Jordan Ronaldo Buitrago Sandoval** (0) [844779](https://platzi.com/comentario/844779/) 
 
 	```
 	    /*header file*/
@@ -3316,18 +3111,17 @@ Quise aplicar otros temas vistos en el curso, sin embargo aqui veo un error curi
 	    
 	```
 
-# Comprender los desafìos de la administración de la memoria
+# Comprender los desafìos de la administración de la memoria [4843]
 
-## 0200. Manejo dinámico de la memoria
+## 0200. Manejo dinámico de la memoria [24222](https://platzi.com/clases/1740-lenguaje-c/24222-manejo-dinamico-de-la-memoria/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Abdel Mejia** (4)
+* **Abdel Mejia** (4) [1023855](https://platzi.com/comentario/1023855/) 
 
-	
 	Aclaración
 	``` 
 	    sizeof
@@ -3338,9 +3132,8 @@ Quise aplicar otros temas vistos en el curso, sin embargo aqui veo un error curi
 	
 	[Mas información](https://stackoverflow.com/a/1393592)
 
-* **onyx** (1)
+* **onyx** (1) [876723](https://platzi.com/comentario/876723/) 
 
-	
 	Archivo de libreria:  
 	lib.h
 	``` 
@@ -3389,23 +3182,21 @@ Quise aplicar otros temas vistos en el curso, sin embargo aqui veo un error curi
 	    
 	```
 
-* **jimezam** (1)
+* **jimezam** (1) [76514](https://platzi.com/comentario/888623/) 
 ¿Poner los alias de los tipos de datos en mayúsculas obedece a algún estándar de nomenclatura?
 
-	* **Jeffersson Muñoz Torres** (1)
+	* **Jeffersson Muñoz Torres** [76514] (1)
 
-		
 		En muchos lenguajes de programación, no estoy seguro si en C se cumple, las variables con letras mayúsculas se consideran constantes.
 
-* **Sebastian Augusto Baez Ramos** (0)
+* **Sebastian Augusto Baez Ramos** (0) [74198](https://platzi.com/comentario/848167/) 
 las funciones malloc y realloc,¿siguen siendo prácticas en POO?
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [74198] (3)
 
-		
 		no realmente, son conceptos y utilizades pensadas para enfoques distintos.
 
-## 0210. Cómo instalar Valgrind
+## 0210. Cómo instalar Valgrind [24224](https://platzi.com/clases/1740-lenguaje-c/24224-como-instalar-valgrind/)
 
 ### Descripción:
 
@@ -3476,22 +3267,19 @@ No hay excusas, ¡que no quede un sólo leak dando vueltas!
 
 ### Comentarios:
 
-* **ppastram** (1)
+* **ppastram** (1) [1056072](https://platzi.com/comentario/1056072/) 
 
-	
 	Alguien sabe cómo instalar valgrind en MacOS Catalina?
 
-	* **paconity** (1)
+	* **paconity** [1056072] (1)
 
-		
 		En la página de Valgrind dice que hay compatibilidad hasta el macOs 10.13 o sea High Sierra, aunque no aplique en este caso te recomiendo usar Homebrew para este tipo de programas.
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [858838](https://platzi.com/comentario/858838/) 
 
-	
 	En Fedora 31 también se puede instalar con un “sudo dnf install valgrind”
 
-## 0220. Memory leaks y Garbage Collectors
+## 0220. Memory leaks y Garbage Collectors [24223](https://platzi.com/clases/1740-lenguaje-c/24223-memory-leaks-y-garbage-collectors/)
 
 ### Descripción:
 
@@ -3502,39 +3290,37 @@ No hay excusas, ¡que no quede un sólo leak dando vueltas!
 
 ### Comentarios:
 
-* **jimezam** (1)
+* **jimezam** (1) [76515](https://platzi.com/comentario/888631/) 
 Según este ejemplo, ¿el "return 0" del main es opcional aunque éste sea int?
 
-	* **Yael Badillo** (1)
+	* **Yael Badillo** [76515] (1)
 
-		
 		Sí, pero es recomendable ponerlo por buena práctica.
 
-* **Sebastian Augusto Baez Ramos** (0)
+* **Sebastian Augusto Baez Ramos** (0) [74195](https://platzi.com/comentario/848111/) 
 No he podido instalar Valgrind. Ya descomprimí el archivo, pero no sé que hay que hacer con todas esas carpetas
 
-	* **Mauro Chojrin** (2)
+	* **Mauro Chojrin** [74195] (2)
 
-		
 		¿Qué sistema operativo usas? Chequea si tienes un archivo Makefile.
 		
 		Si descargaste los fuentes vas a tener que compilar e instalar por tus propios medios…
 
-## 0230. Listas enlazadas
+## 0230. Listas enlazadas [24225](https://platzi.com/clases/1740-lenguaje-c/24225-listas-enlazadas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-## 0240. Ejercicio práctico de listas enlazadas
+## 0240. Ejercicio práctico de listas enlazadas [24226](https://platzi.com/clases/1740-lenguaje-c/24226-ejercicio-practico-de-listas-enlazadas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jordan Ronaldo Buitrago Sandoval** (6)
+* **Jordan Ronaldo Buitrago Sandoval** (6) [862754](https://platzi.com/comentario/862754/) 
 
 	```
 	    /*Cuando hacemos malloc es bueno hacer un test para saber si es null tal resultado*/
@@ -3547,17 +3333,15 @@ No he podido instalar Valgrind. Ya descomprimí el archivo, pero no sé que hay 
 	    
 	```
 
-* **Luis Fernando Zarazua Aguilar** (2)
+* **Luis Fernando Zarazua Aguilar** (2) [1075214](https://platzi.com/comentario/1075214/) 
 
-	
 	La instrucción malloc es un muy parecida a new en orientado a objetos.
 
-	* **Franco Bottazzi** (1)
+	* **Franco Bottazzi** [1075214] (1)
 
-		
 		Con orientado a objetos no sé si te referís al uso de new en c++ o en cosas como Javascript, si es el primero si, de hecho new es el reemplazo que se le hizo a malloc (que hace la asignación de memoria más fácil y elegante), en el caso de Javascript no es así, el new en Js está para reemplazar al constructor, porque como las variables pueden tener cualquier tipo de dato, no se usa el constructor abriendo y cerrando paréntesis después del nombre de la variable.
 
-## 0250. Liberando las listas enlazadas
+## 0250. Liberando las listas enlazadas [24227](https://platzi.com/clases/1740-lenguaje-c/24227-liberando-las-listas-enlazadas/)
 
 ### Descripción:
 
@@ -3568,23 +3352,20 @@ No he podido instalar Valgrind. Ya descomprimí el archivo, pero no sé que hay 
 
 ### Comentarios:
 
-* **Mauricio David Cuello Alzate** (1)
+* **Mauricio David Cuello Alzate** (1) [1104676](https://platzi.com/comentario/1104676/) 
 
-	
 	Hola  
 	Como se copia y pega en vim?
 
-	* **jose luis gonzalez aguilera** (1)
+	* **jose luis gonzalez aguilera** [1104676] (1)
 
-		
 		hola, aqui un link <https://blog.carreralinux.com.ar/2017/09/copiar-y-pegar-con-vim-cortar-deshacer/>
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [895009](https://platzi.com/comentario/895009/) 
 
-	
 	liberar memoria es importante cuando se trabaja con las lista enlazadas
 
-## 0260. Reto Modifica el programa para que permita eliminar los nodos en los que se encuentre un determinado número
+## 0260. Reto Modifica el programa para que permita eliminar los nodos en los que se encuentre un determinado número [24763](https://platzi.com/clases/1740-lenguaje-c/24763-reto-modifica-el-programa-para-que-permita-elimina/)
 
 ### Descripción:
 
@@ -3635,7 +3416,7 @@ Tu tarea: escribir el código!
 
 ### Comentarios:
 
-* **alepaper** (2)
+* **alepaper** (2) [1057959](https://platzi.com/comentario/1057959/) 
 
 	```
 	    #include <stdio.h>
@@ -3751,9 +3532,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (2)
+* **Juan Camilo Alvarez Jurado** (2) [854076](https://platzi.com/comentario/854076/) 
 
-	
 	Mi solución:
 	``` 
 	    #include <stdio.h>
@@ -3861,9 +3641,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1084393](https://platzi.com/comentario/1084393/) 
 
-	
 	¡Tarea cumplida!✌🏼
 	
 	Aquí estan las dos funciones que hacen el trabajo, lo demás es carpinteria.
@@ -3913,7 +3692,7 @@ Tu tarea: escribir el código!
 	
 	![Anotación 2020-03-31 230751.jpg](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202020-03-31%20230751-36b98c42-e4d0-484a-80c3-8dcf9c865cab.jpg)
 
-* **Luis Fernando Zarazua Aguilar** (1)
+* **Luis Fernando Zarazua Aguilar** (1) [1077281](https://platzi.com/comentario/1077281/) 
 
 	```
 	    void EliminarNodo(int nodeNumber, NODE **startPtr, int *listSize)
@@ -3944,12 +3723,12 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **Valakyr** (1)
-![Linked_list_delete.png](https://static.platzi.com/media/user_upload/Linked_list_delete-7d35cdb6-e69c-459d-b64f-fa15bbf1981f.jpg)
-
-* **gnbarzol** (1)
-
+* **Valakyr** (1) [1075080](https://platzi.com/comentario/1075080/) 
 	
+	![Linked_list_delete.png](https://static.platzi.com/media/user_upload/Linked_list_delete-7d35cdb6-e69c-459d-b64f-fa15bbf1981f.jpg)
+
+* **gnbarzol** (1) [1074230](https://platzi.com/comentario/1074230/) 
+
 	Tarea cumplida!
 	``` 
 	    #include <stdio.h>
@@ -4054,9 +3833,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [1055444](https://platzi.com/comentario/1055444/) 
 
-	
 	**Todo bien organizado y legible**
 	``` 
 	    /* Libraries ********************************************************/
@@ -4232,9 +4010,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **ffranco_** (1)
+* **ffranco_** (1) [1053805](https://platzi.com/comentario/1053805/) 
 
-	
 	Vaya lío. Primero traté de pensar en una forma de resolverlo sin ver el tip y llegue a añadir estas líneas de código:
 	``` 
 	    printf ("Se tienen los nodos del 0 al %d.\n", listSize - 1);
@@ -4316,9 +4093,8 @@ Tu tarea: escribir el código!
 	
 	Es realmente genial que el profesor haya aportado su solución y así abrir nuestra mente a nuevas y mejores opciones 😃
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [965629](https://platzi.com/comentario/965629/) 
 
-	
 	Crear una función que se encargue de eliminar el elemento deseado.
 	``` 
 	    voidDeleteNode(NODE** start, int number)
@@ -4349,9 +4125,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **onyx** (1)
+* **onyx** (1) [876938](https://platzi.com/comentario/876938/) 
 
-	
 	Solucion elimina el primer nodo que sea compatible con el nodo buscado  
 	Retorna 1 si no termino de iterar la lista, si no 0  
 	Podria usarse con un loop, para eliminar todos lo nodos del tipo buscado en la lista
@@ -4383,9 +4158,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **Gustavo Marín** (1)
+* **Gustavo Marín** (1) [875564](https://platzi.com/comentario/875564/) 
 
-	
 	Mi solución
 	``` 
 	    #include <stdio.h>
@@ -4483,7 +4257,7 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **Lery Andy Piérola Lazarte** (1)
+* **Lery Andy Piérola Lazarte** (1) [871650](https://platzi.com/comentario/871650/) 
 
 	```
 	    #include <stdio.h>
@@ -4583,7 +4357,7 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **guillermogranado** (1)
+* **guillermogranado** (1) [867750](https://platzi.com/comentario/867750/) 
 
 	```
 	    #include <stdio.h>
@@ -4614,8 +4388,8 @@ Tu tarea: escribir el código!
 	    
 	    NODE * removeNodeByNumber(NODE * start, int * listSize, int number) {
 	        NODE * nodeToRemove = NULL,
-	            * current = start,
-	            * prev = NULL;
+	          * current = start,
+	          * prev = NULL;
 	        while (!nodeToRemove && current) {
 	            if (current->number == number) {
 	                nodeToRemove = current;
@@ -4638,8 +4412,8 @@ Tu tarea: escribir el código!
 	    
 	    int main(int argc, const char * argv[]) {
 	        NODE * start = NULL, 
-	            * current,
-	            * next;
+	          * current,
+	          * next;
 	        int goOn, 
 	            listSize = 0, 
 	            number;
@@ -4694,9 +4468,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **Matias Sebastian Perez** (1)
+* **Matias Sebastian Perez** (1) [842291](https://platzi.com/comentario/842291/) 
 
-	
 	Mi resolucion aqui
 	``` 
 	    #include <stdio.h>
@@ -4806,9 +4579,9 @@ Tu tarea: escribir el código!
 	    
 	```
 
-# Usos prácticos
+# Usos prácticos [4840]
 
-## 0270. Cálculos complejos
+## 0270. Cálculos complejos [24228](https://platzi.com/clases/1740-lenguaje-c/24228-calculos-complejos/)
 
 ### Descripción:
 
@@ -4823,9 +4596,8 @@ Tu tarea: escribir el código!
 
 ### Comentarios:
 
-* **Alejandro Urrea Giraldo** (1)
+* **Alejandro Urrea Giraldo** (1) [1103499](https://platzi.com/comentario/1103499/) 
 
-	
 	Una aplicación simple de los números aleatorios y la fucnión **rand()** : Un dado!
 	``` 
 	    #include <stdio.h>
@@ -4849,7 +4621,7 @@ Tu tarea: escribir el código!
 	          case1:
 	          printf(" -------\n");
 	          printf("|       |\n");
-	          printf("|   *   |\n");
+	          printf("| *   |\n");
 	          printf("|       |\n");
 	          printf(" ¯¯¯¯¯¯¯\n");
 	          break;
@@ -4858,39 +4630,39 @@ Tu tarea: escribir el código!
 	          printf(" -------\n");
 	          printf("| *     |\n");
 	          printf("|       |\n");
-	          printf("|     * |\n");
+	          printf("|   * |\n");
 	          printf(" ¯¯¯¯¯¯¯\n");
 	          break;
 	    
 	          case3:
 	          printf(" -------\n");
 	          printf("| *     |\n");
-	          printf("|   *   |\n");
-	          printf("|     * |\n");
+	          printf("| *   |\n");
+	          printf("|   * |\n");
 	          printf(" ¯¯¯¯¯¯¯\n");
 	          break;
 	    
 	          case4:
 	          printf(" -------\n");
-	          printf("| *   * |\n");
+	          printf("| * * |\n");
 	          printf("|       |\n");
-	          printf("| *   * |\n");
+	          printf("| * * |\n");
 	          printf(" ¯¯¯¯¯¯¯\n");
 	          break;
 	    
 	          case5:
 	          printf(" -------\n");
-	          printf("| *   * |\n");
-	          printf("|   *   |\n");
-	          printf("| *   * |\n");
+	          printf("| * * |\n");
+	          printf("| *   |\n");
+	          printf("| * * |\n");
 	          printf(" ¯¯¯¯¯¯¯\n");
 	          break;
 	    
 	          case6:
 	          printf(" -------\n");
-	          printf("| *   * |\n");
-	          printf("| *   * |\n");
-	          printf("| *   * |\n");
+	          printf("| * * |\n");
+	          printf("| * * |\n");
+	          printf("| * * |\n");
 	          printf(" ¯¯¯¯¯¯¯\n");
 	          break;
 	    
@@ -4904,17 +4676,15 @@ Tu tarea: escribir el código!
 	
 	![dice_exe.png](https://static.platzi.com/media/user_upload/dice_exe-68e6e295-ecc3-454a-9fff-3b95aada9ccf.jpg)
 
-* **Luis_Cruz_Cruz** (1)
+* **Luis_Cruz_Cruz** (1) [1097281](https://platzi.com/comentario/1097281/) 
 
-	
 	Aqui hace un comentario legendario... "Te invito a que hagas el calculo si no le crees, yo le voy a creer" Mauro Chojrin.
 
-* **ffranco_** (1)
+* **ffranco_** (1) [1053959](https://platzi.com/comentario/1053959/) 
 
-	
 	La aclaración que encontré en <http://www.cplusplus.com/reference/ctime/time_t/> es que time_t NO es una esctructura, sino un typedef que viene incluido en la librería time.h
 
-## 0280. Manejo de archivos de texto
+## 0280. Manejo de archivos de texto [24229](https://platzi.com/clases/1740-lenguaje-c/24229-manejo-de-archivos-de-texto/)
 
 ### Descripción:
 
@@ -4925,21 +4695,19 @@ Tu tarea: escribir el código!
 
 ### Comentarios:
 
-* **Alan86** (3)
+* **Alan86** (3) [863300](https://platzi.com/comentario/863300/) 
 
-	
 	Estaría bueno que comentarán también acerca de la función fflush, para los casos en el que la función scanf toma como carácter el enter
 
-* **Luis_Cruz_Cruz** (1)
+* **Luis_Cruz_Cruz** (1) [1097478](https://platzi.com/comentario/1097478/) 
 
-	
 	Hola a todos.
 	
 	Solo por curiosidad. Este es el mensaje de error cuando no tienes privilegios de lectura en el archivo.
 	
 	![Error_read.jpg](https://static.platzi.com/media/user_upload/Error_read-75e79364-a368-447a-ad4a-db951f9e1084.jpg)
 
-* **Juan Fernando Romero Ortega** (1)
+* **Juan Fernando Romero Ortega** (1) [919339](https://platzi.com/comentario/919339/) 
 
 	```
 	    #include<stdio.h>
@@ -4960,9 +4728,8 @@ Tu tarea: escribir el código!
 	    
 	```
 
-	* **Mario E Fernandez  Serrano** (1)
+	* **Mario E Fernandez  Serrano** [919339] (1)
 
-		
 		Hola, revisa el paréntesis de la repetitiva:
 		``` 
 		    while ((c = fgetc(fb) != EOF) ) {
@@ -4991,9 +4758,8 @@ Tu tarea: escribir el código!
 		    
 		```
 
-* **Juan Fernando Romero Ortega** (1)
+* **Juan Fernando Romero Ortega** (1) [919283](https://platzi.com/comentario/919283/) 
 
-	
 	Saludos, me ocurre lo siguiente al leer un archivo, me aparecen caracteres de esta manera:
 	``` 
 	    D:\Curso Introduccion C>readFile readFile.c
@@ -5001,156 +4767,140 @@ Tu tarea: escribir el código!
 	    
 	```
 
-* **ffranco_** (1)
+* **ffranco_** (1) [84596](https://platzi.com/comentario/1054128/) 
 ¿Por qué el modo es una cadena “r” o “w” , osea va entre comillas dobles, si realmente es un caracter y debería ir entre comillas simples?
 
-	* **Luis Fernando Zarazua Aguilar** (1)
+	* **Luis Fernando Zarazua Aguilar** [84596] (1)
 
-		
 		Porque el tipo de dato que pide es un char *, con lo cual entiende que por defecto necesita una cadena.  
 		![TipoDato.png](https://static.platzi.com/media/user_upload/TipoDato-777ea031-86af-46f7-a3cb-0d0253c4efb8.jpg)
 
-* **jimezam** (1)
+* **jimezam** (1) [76517](https://platzi.com/comentario/888647/) 
 ¿Hay alguna ventaja en mezclar el uso de las funciones fprintf/fscanf con las de fputs/fgets en lugar de ser cobsistente con una sola de...
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [76517] (3)
 
-		
 		No son intercambiables entre sí, por ejemplo:
 		
-		  * **fprintf** : permite dar formato a la salida en diferentes tipos.
+		* **fprintf** : permite dar formato a la salida en diferentes tipos.
 		
-		  * **fputs** : simplemente escribe el string de entrada como salida al “output stream” indicado.
+		* **fputs** : simplemente escribe el string de entrada como salida al “output stream” indicado.
 		
 		
 		
 		
 		Te recomiendo leer la documentación oficial.
 		
-		  * <http://www.cplusplus.com/reference/cstdio/fprintf/>
-		  * <http://www.cplusplus.com/reference/cstdio/fputs/>
+		* <http://www.cplusplus.com/reference/cstdio/fprintf/>
+		* <http://www.cplusplus.com/reference/cstdio/fputs/>
 		
 		
 
-## 0290. Manejo de archivos binarios
+## 0290. Manejo de archivos binarios [24203](https://platzi.com/clases/1740-lenguaje-c/24203-manejo-de-archivos-binarios/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Francisco Sebastian Dueñas Caicedo** (3)
+* **Francisco Sebastian Dueñas Caicedo** (3) [834252](https://platzi.com/comentario/834252/) 
 
-	
 	¿Es posible guardar una estructura la cual tenga un puntero en un archivo binario?
 
-	* **Mauro Chojrin** (4)
+	* **Mauro Chojrin** [834252] (4)
 
-		
 		Es posible aunque no creo que sea muy recomendable. Ten en cuenta que el valor que tiene un puntero en un determinado momento surge del estado general de la memoria al momento de ejecutar el programa.  
 		Si almacenas un puntero, nada te garantiza que al leerlo el contenido de la posición de memoria a la que apuntaba al momento de escribirse siga siendo válido…
 		
 		Puede pasarte lo mismo que se ve en [https://platzi.com/clases/1740-lenguaje-c/24214-aritmetica-de-punteros/?time=270](url)
 
-## 0300. Paralelismo
+## 0300. Paralelismo [24204](https://platzi.com/clases/1740-lenguaje-c/24204-paralelismo/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **skorpion** (2)
+* **skorpion** (2) [846270](https://platzi.com/comentario/846270/) 
 
-	
 	En el proceso padre luego del wait no se esta imprimiendo el valor de shared, se esta imprimendo el valor de 1 directamente.
 
-* **Johan Lisandro Castiblanco** (1)
+* **Johan Lisandro Castiblanco** (1) [1103596](https://platzi.com/comentario/1103596/) 
 
-	
 	Luke I am your fatheeer noooo, wtf process noooo … re buena manera de entender me gustoo
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [895012](https://platzi.com/comentario/895012/) 
 
-	
 	Es importante entender el paralelismo sirve mucho para trabajar con sockets
 
-* **Walter Barrios Vazquez** (1)
+* **Walter Barrios Vazquez** (1) [839021](https://platzi.com/comentario/839021/) 
 
-	
 	Hola profe, estoy usando codeBlocks y Dev-C++ con el compilador gcc para probar el código y en ambos casos la librería <sys/wait.h> no se encuentra.  
 	Saludos también a quienes estén cursando y preguntarles si les pasó lo mismo en ese caso ¿cómo lo solucionaron?  
 	Gracias.
 
-	* **Walter Barrios Vazquez** (1)
+	* **Walter Barrios Vazquez** [839021] (1)
 
-		
 		¿Se puede agregar manualmente una librería estándar en C como la sys/wait.h o wait.h? ¿Son la misma librería y en <sys/wait.h> estamos indicando que wait.h está dentro de la carpeta sys?
 
-	* **Mauro Chojrin** (1)
+	* **Mauro Chojrin** [839021] (1)
 
-		
 		Hay que ver cómo está la configuración de tu entorno… especialmente ¿estás usando Linux, Windows, Mac…?
 
-	* **Walter Barrios Vazquez** (1)
+	* **Walter Barrios Vazquez** [839021] (1)
 
-		
 		Estoy usando Windows.
 
-* **Franco Bottazzi** (1)
+* **Franco Bottazzi** (1) [87079](https://platzi.com/comentario/1112076/) 
 Después, podrías explicar la sintaxis del ciclo while con el while al final y sin corchetes? ¿Y por qué se necesita un while pero si se u...
 
-* **Franco Bottazzi** (1)
+* **Franco Bottazzi** (1) [87070](https://platzi.com/comentario/1111863/) 
 Una duda. En 3:20 decís que si fork() retornó 0, estoy en el proceso hijo, pero cuando imprimís muestra que fork retornó 405 ¿Cómo sería ...
 
-* **Manea luca cristian** (1)
+* **Manea luca cristian** (1) [86436](https://platzi.com/comentario/1096016/) 
 me dice que no encuentra la libreria sys/type.h como podria añadirla manualmente?
 
-# Comunicación entre procesos
+# Comunicación entre procesos [4969]
 
-## 0310. Pipes
+## 0310. Pipes [24230](https://platzi.com/clases/1740-lenguaje-c/24230-pipes/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **andres-felipe-aguirre-fajardo** (3)
+* **andres-felipe-aguirre-fajardo** (3) [841251](https://platzi.com/comentario/841251/) 
 
-	
 	no se puede hace comunicación entre procesos con apuntadores?, ya que a pesar de que se hagan copias de las variables en el otro proceso si los apuntadores apuntan al mismo espacio de memoria, no se podría compartir información?
 
-	* **Mauro Chojrin** (4)
+	* **Mauro Chojrin** [841251] (4)
 
-		
 		En teoría se podría, pero depende del sistema operativo. Existen algunos S.O. que “muestran” a cada proceso un espacio de memoria independiente de los demás… en ese caso no será posible hacer lo que sugieres.
 
-* **guillermogranado** (2)
+* **guillermogranado** (2) [78304](https://platzi.com/comentario/918864/) 
 Al hacer el ejemplo el resultando en mi terminal no es el mismo que aparece en video. Primero muestra todos los pasos del padre y después...
 
-* **Federico Badiola** (1)
+* **Federico Badiola** (1) [1101126](https://platzi.com/comentario/1101126/) 
 
-	
 	Hola Mauro,  
 	Lo primero de todo, muy bien explicado.  
 	Me ha surgido alguna duda mientras veía los videos de pipes y de sockets y he vuelto hacia atrás para escribirlas y que me pueda dar su respuesta y opinión al respecto.
 	
-	  * ¿Por qué hacer un fork al proceso y no levantar threads? Si no tengo entendido mal, el coste de levantar un proceso es mayor que levantar un thread. A demás al tener memoria compartida la comunicación se puede hacer directamente a través de la memoria. Aunque también se podría hacer un mmap y que compartan memoria los dos procesos pero, IMHO creo que es menos llamativo, ¿qué opinas?
+	* ¿Por qué hacer un fork al proceso y no levantar threads? Si no tengo entendido mal, el coste de levantar un proceso es mayor que levantar un thread. A demás al tener memoria compartida la comunicación se puede hacer directamente a través de la memoria. Aunque también se podría hacer un mmap y que compartan memoria los dos procesos pero, IMHO creo que es menos llamativo, ¿qué opinas?
 	
-	  * ¿Los pipes sobre FS son ampliamente utilizados? ¿O soluciones como Signal o memoria compartida son más habituales en sistemas complejos o en producción? El contexto de mi pregunta es: la latencia de ir a disco o a red es muy superior a la memoria, se me hace extraño que en situaciones complejas se usen estos sistemas. Si bien es cierto que en sistemas con memorias muy limitadas y con capacidad de disco es buena manera para encolar mensajes arbitrariamente pesados.
+	* ¿Los pipes sobre FS son ampliamente utilizados? ¿O soluciones como Signal o memoria compartida son más habituales en sistemas complejos o en producción? El contexto de mi pregunta es: la latencia de ir a disco o a red es muy superior a la memoria, se me hace extraño que en situaciones complejas se usen estos sistemas. Si bien es cierto que en sistemas con memorias muy limitadas y con capacidad de disco es buena manera para encolar mensajes arbitrariamente pesados.
 	
 	
 	
 	
 	Muchas gracias por la atención!!
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1093159](https://platzi.com/comentario/1093159/) 
 
-	
 	[Aquí](https://www.driverlandia.com/programacion-c-avanzada-forks-pipes-y-como-comunicar-programa-padre-con-hijo/) pueden conseguir otro ejemplo si no quedó del todo claro✌🏼
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [1080380](https://platzi.com/comentario/1080380/) 
 
-	
 	Mi intento via un muy simple `cat`
 	``` 
 	    /* Libraries ********************************************************/
@@ -5236,49 +4986,42 @@ Al hacer el ejemplo el resultando en mi terminal no es el mismo que aparece en v
 	    
 	```
 
-## 0320. Sockets
+## 0320. Sockets [24231](https://platzi.com/clases/1740-lenguaje-c/24231-sockets/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Cristian Rosales** (2)
+* **Cristian Rosales** (2) [1093444](https://platzi.com/comentario/1093444/) 
 
-	
 	Sockets🤘🏼
 
-* **Jean Carlos Nuñez Hernandez** (2)
+* **Jean Carlos Nuñez Hernandez** (2) [895025](https://platzi.com/comentario/895025/) 
 
-	
 	Sockets son comunicacion punto a punto bidireccional
 
-* **Abdel Mejia** (2)
+* **Abdel Mejia** (2) [855936](https://platzi.com/comentario/855936/) 
 
-	
 	🤯 Genial
 
-* **Lery Andy Piérola Lazarte** (1)
+* **Lery Andy Piérola Lazarte** (1) [929982](https://platzi.com/comentario/929982/) 
 
-	
 	Tengo un problema, uso win8 y no puedo ubicar las librerias que se necesitan. Instale codeblocks como se pidio a un principio 😦 desde Paralelismo no me compila debido a ese tema.
 
-	* **Nicolas David Pastran Zamora** (1)
+	* **Nicolas David Pastran Zamora** [929982] (1)
 
-		
 		Te recomiendo instalar la terminal de Ubuntu esta en la tienda de Windows.
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [895023](https://platzi.com/comentario/895023/) 
 
-	
 	Sockts no permite comunicar dos procesos cualquiera
 
-* **Manuel Fernando Niño Riaño** (1)
+* **Manuel Fernando Niño Riaño** (1) [79867](https://platzi.com/comentario/948236/) 
 para iot en tiempo real es mejor sockets o API rest?
 
-	* **AnthonySQC** (2)
+	* **AnthonySQC** [79867] (2)
 
-		
 		Hola Manuel,  
 		las comunicaciones en tiempo real generalmente son un escenario indicado para el uso de sockets, te dejo un blog en el que se realiza una comparativa de ambos:  
 		[](https://www.educba.com/websocket-vs-rest/)  
@@ -5286,51 +5029,48 @@ para iot en tiempo real es mejor sockets o API rest?
 		[](https://stackoverflow.com/questions/28613399/websocket-vs-rest-api-for-real-time-data)  
 		Espero que te ayude y un saludo.
 
-## 0330. Sockets Código del servidor
+## 0330. Sockets Código del servidor [24232](https://platzi.com/clases/1740-lenguaje-c/24232-sockets-codigo-del-servidor/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-## 0340. Sockets código de cliente
+## 0340. Sockets código de cliente [24233](https://platzi.com/clases/1740-lenguaje-c/24233-sockets-codigo-de-cliente/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-## 0350. Comunicación vía sockets ejecución
+## 0350. Comunicación vía sockets ejecución [24234](https://platzi.com/clases/1740-lenguaje-c/24234-comunicacion-via-sockets-ejecucion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **David Felipe Bohórquez** (3)
+* **David Felipe Bohórquez** (3) [870773](https://platzi.com/comentario/870773/) 
 
-	
 	Todo me funcionó perfecto. Está genial. Voy a intentarlo con máquinas remotas.
 	
 	Por cierto, ese comando de vim está genial! Platzi debería considerar hacer un curso de vim, es un editor muuy completo 😮
 
-	* **Mario E Fernandez  Serrano** (1)
+	* **Mario E Fernandez  Serrano** [870773] (1)
 
-		
 		[La documentación ayudarte](https://www.vim.org/docs.php)
 		
 		[Guia-vim.PDF ](http://es.tldp.org/Tutoriales/doc-tutorial-vim/Guia-Vim.pdf)
 
-* **Juan Fernando Romero Ortega** (1)
+* **Juan Fernando Romero Ortega** (1) [919966](https://platzi.com/comentario/919966/) 
 
-	
 	Saludos,
 	
 	Muchas gracias por el curso. Respecto al modulo de comunicación entre procesos, en windows 10 falta explicación sobre algunos archivo que se deben instalar, pues las librerias de sockets no las encuentra el programa, y esto hace que falle la compilación
 
-# Conclusiones
+# Conclusiones [4844]
 
-## 0360. Conclusiones
+## 0360. Conclusiones [24235](https://platzi.com/clases/1740-lenguaje-c/24235-conclusiones/)
 
 ### Descripción:
 
@@ -5347,23 +5087,19 @@ para iot en tiempo real es mejor sockets o API rest?
 
 ### Comentarios:
 
-* **Sebastian Augusto Baez Ramos** (4)
+* **Sebastian Augusto Baez Ramos** (4) [853112](https://platzi.com/comentario/853112/) 
 
-	
 	Ojalá pudiera continuar aprendiendo C++ con el mismo profesor y aclarar si todo lo aprendido en este curso seguirá siendo práctico.
 
-* **Juan Issaias Asencio Rivero** (1)
+* **Juan Issaias Asencio Rivero** (1) [1099605](https://platzi.com/comentario/1099605/) 
 
-	
 	Muchas gracias Mauro, ¡aprendi mucho en este curso.!
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1094166](https://platzi.com/comentario/1094166/) 
 
-	
 	Muchas gracias Mauro, excelente curso👍
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [870775](https://platzi.com/comentario/870775/) 
 
-	
 	Aprendí bastante en el curso, excelente profesor. Gracias!
 

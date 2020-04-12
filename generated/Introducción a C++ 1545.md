@@ -1,6 +1,8 @@
-# Introducción a C++
+[Introducción a C++ 1545](https://platzi.com/cursos/c-plus-plus)
 
-## 0010. Bienvenida
+# Introducción a C++ [3820]
+
+## 0010. Bienvenida [19060](https://platzi.com/clases/1545-c-plus-plus/19060-bienvenida/)
 
 ### Descripción:
 
@@ -13,165 +15,138 @@ En este curso vamos a aprender los conceptos básicos de C++ y el paradigma de l
 
 ### Comentarios:
 
-* **Viberth Gonzalez** (19)
-![hqdefault.jpg](https://static.platzi.com/media/user_upload/hqdefault-b816a589-efb3-402b-8616-9686da5e7a0c.jpg)
+* **Viberth Gonzalez** (19) [871941](https://platzi.com/comentario/871941/) 
+	
+	![hqdefault.jpg](https://static.platzi.com/media/user_upload/hqdefault-b816a589-efb3-402b-8616-9686da5e7a0c.jpg)
 	
 	yo al oir que dijo aprender c++ y facil en una misma oracion
 
-	* **Brayan Fermin Garcia Perez** (1)
+	* **Brayan Fermin Garcia Perez** [871941] (1)
 
-		
 		jejejej
 
-	* **marco antonio** (2)
+	* **marco antonio** [871941] (2)
 
-		
 		comparadolo con C yo digo que si es mas facil
 
-	* **Carlos José González Juan** (1)
+	* **Carlos José González Juan** [871941] (1)
 
-		
 		jajajjja
 
-* **Armando_Alamilla** (9)
+* **Armando_Alamilla** (9) [562731](https://platzi.com/comentario/562731/) 
 
-	
 	Qué alegría. El profesor transmite mucha emoción.
 
-	* **Gerald Zamora** (1)
+	* **Gerald Zamora** [562731] (1)
 
-		
 		Cierto, llegué a este video por un click dónde no era, Y al escuchar a este sujeto me dieron ganas de tomar el curso!!!
 
-* **Arturo_FrieS** (8)
+* **Arturo_FrieS** (8) [591988](https://platzi.com/comentario/591988/) 
 
-	
 	cuando tu profesor ama lo que hace se nota.
 
-* **José David Ortiz** (4)
+* **José David Ortiz** (4) [769912](https://platzi.com/comentario/769912/) 
 Y a pesar de que existen muchos lenguajes y tecnologías en los que se creen videojuegos (C#, Python, Java e incluso HTML/CSS/JavaScript ) C++ es el de alguna forma El camino más "fácil" y utilizado para entrar en el mundo profesional de los videojuegos y su programaci
 
-* **yairmendo** (3)
+* **yairmendo** (3) [728834](https://platzi.com/comentario/728834/) 
 
-	
 	Cuando algo te apasiona cambia todo
 
-* **LegaCode** (3)
+* **LegaCode** (3) [575192](https://platzi.com/comentario/575192/) 
 
-	
 	 _Vengo a tomar el curso ya que en la Universidad estoy viendo codificación en lenguaje c/c++ y aporta un plus este curso ya que si bien es lo mismo que veo me relaja afianzar mas el conocimiento._
 
-* **megamanx** (3)
+* **megamanx** (3) [566938](https://platzi.com/comentario/566938/) 
 
-	
 	Se ve bien pro este profesor. Todo fresh, ya era hora de un curso con el todopoderoso C++, a seguir refinando mi conocimiento en C++.
 
-* **Hermanrv4** (3)
+* **Hermanrv4** (3) [564831](https://platzi.com/comentario/564831/) 
 
-	
 	Esperé mucho tiempo este curso, gracias Platzi !!
 
-* **hug58** (3)
+* **hug58** (3) [563164](https://platzi.com/comentario/563164/) 
 
-	
 	Me gusta C++, me hace salir de mi zona de confort (python) y es muy eficiente con el espacio en memoria.
 
-* **predator0077** (2)
+* **predator0077** (2) [844496](https://platzi.com/comentario/844496/) 
 
-	
 	Empezamos con mucha energía. Vamos a por todo
 
-* **Walter Barrios Vazquez** (2)
+* **Walter Barrios Vazquez** (2) [818627](https://platzi.com/comentario/818627/) 
 
-	
 	ahí vamos [HyperBeard Games](https://hyperbeard.com/)
 
-* **Camilo Alexander Velandia Velandia** (2)
+* **Camilo Alexander Velandia Velandia** (2) [782281](https://platzi.com/comentario/782281/) 
 
-	
 	vamos
 
-* **paconity** (2)
+* **paconity** (2) [670537](https://platzi.com/comentario/670537/) 
 
-	
 	Para los que tengan Mac, les recomiendo usen Xcode, este es perfecto para proyectos de C++ en esta computadora, sobre todo para el ultimo modulo que se usan “headers”.
 
-* **maikytech** (2)
+* **maikytech** (2) [571353](https://platzi.com/comentario/571353/) 
 
-	
 	Yo tambien espere mucho tiempo este curso
 
-* **maikytech** (2)
+* **maikytech** (2) [571352](https://platzi.com/comentario/571352/) 
 
-	
 	Excelente
 
-* **Fernando Trasvent** (2)
+* **Fernando Trasvent** (2) [564431](https://platzi.com/comentario/564431/) 
 
-	
 	Vamos a por ello!
 
-* **José Anías Borja Pérez** (2)
+* **José Anías Borja Pérez** (2) [563248](https://platzi.com/comentario/563248/) 
 Esto es lo que necesitaba, en la U solo me dieron que servía para programar.. 😅
 
-* **Juan David Castro (Platzi)** (2)
+* **Juan David Castro (Platzi)** (2) [562903](https://platzi.com/comentario/562903/) 
 
-	
 	Wow. Yo sabía que podíamos programar con Unity en C# pero no sabía que por detrás estamos usando C++ 😮.
 	
-	  * [Curso de C# para Videojuegos](https://platzi.com/clases/desarrollo-unity/)
+	* [Curso de C# para Videojuegos](https://platzi.com/clases/desarrollo-unity/)
 	
 	
 
-* **Krish Campos** (2)
+* **Krish Campos** (2) [562780](https://platzi.com/comentario/562780/) 
 
-	
 	jajajajjaja
 
-* **davram** (2)
+* **davram** (2) [562660](https://platzi.com/comentario/562660/) 
 
-	
 	Se ve que va a estar chido.
 
-* **JoelNieto** (1)
+* **JoelNieto** (1) [1086933](https://platzi.com/comentario/1086933/) 
 
-	
 	A iniciar con entusiasmo
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1080401](https://platzi.com/comentario/1080401/) 
 Veamos que tal este contenido .
 
-* **darth-revan** (1)
+* **darth-revan** (1) [848082](https://platzi.com/comentario/848082/) 
 
-	
 	Preparándome para una exposición 😄
 
-* **Rodrigo Arturo Vergara Gonzalez** (1)
+* **Rodrigo Arturo Vergara Gonzalez** (1) [786670](https://platzi.com/comentario/786670/) 
 
-	
 	Empezamos con muchas ganas!
 
-* **GibsPM** (1)
+* **GibsPM** (1) [786578](https://platzi.com/comentario/786578/) 
 
-	
 	¡Expresa buena vibra el profesor, excelente!
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [751292](https://platzi.com/comentario/751292/) 
 
-	
 	A darle!
 
-* **kendho** (1)
+* **kendho** (1) [748592](https://platzi.com/comentario/748592/) 
 
-	
 	bien
 
-* **Luis Alfonso Guevara Alvarado** (1)
+* **Luis Alfonso Guevara Alvarado** (1) [646012](https://platzi.com/comentario/646012/) 
 
-	
 	Vengo de C. =)
 
-## 0020. ¿Qué es programar y por qué aprender C++
+## 0020. ¿Qué es programar y por qué aprender C++ [19061](https://platzi.com/clases/1545-c-plus-plus/19061-que-es-programar-y-por-que-aprender-c/)
 
 ### Descripción:
 
@@ -184,130 +159,111 @@ C++ es usado por aplicaciones que requieren una **optimización de recursos** y 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (15)
-![](https://instagram.fbog7-1.fna.fbcdn.net/vp/395ae7242c7b61bc55ee17b79e7b5514/5D3420EA/t51.2885-15/e35/54800795_1003044863419334_925109694861182713_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
+* **Juan David Castro (Platzi)** (15) [562902](https://platzi.com/comentario/562902/) 
+	
+	![](https://instagram.fbog7-1.fna.fbcdn.net/vp/395ae7242c7b61bc55ee17b79e7b5514/5D3420EA/t51.2885-15/e35/54800795_1003044863419334_925109694861182713_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
 
-	* **Jean Carlos Nuñez Hernandez** (1)
+	* **Jean Carlos Nuñez Hernandez** [562902] (1)
 
-		
 		Jajjajajajaajajja ta bueno, pero creo que no te dejan tan bien c++
 
-* **David Perez** (6)
+* **David Perez** (6) [570146](https://platzi.com/comentario/570146/) 
 
-	
 	 **¿Por qué aprender C++?**
 	
-	  * Es veloz, puesto que hace un manejo de memoria sin maquina virtual ni recolector de basura.
-	  * Tiene una gran cantidad de librerías que nos permiten hacer muchísimas cosas geniales.
-	  * Tiene un gran apoyo por la comunidad y está en constante crecimiento.
+	* Es veloz, puesto que hace un manejo de memoria sin maquina virtual ni recolector de basura.
+	* Tiene una gran cantidad de librerías que nos permiten hacer muchísimas cosas geniales.
+	* Tiene un gran apoyo por la comunidad y está en constante crecimiento.
 	
 	
 
-* **marco antonio** (3)
+* **marco antonio** (3) [958635](https://platzi.com/comentario/958635/) 
 
-	
 	yo mate dos computadoras asi XD
 
-* **Arturo_FrieS** (3)
+* **Arturo_FrieS** (3) [591989](https://platzi.com/comentario/591989/) 
 
-	
 	Cuando aprendi C++, en la uni lo odie por el maestro que jamas me explico nada, espero mejorar en este curso bastante.
 
-* **Maris Botero Gonzalez** (3)
+* **Maris Botero Gonzalez** (3) [564014](https://platzi.com/comentario/564014/) 
 Esta genial ☺️
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [890893](https://platzi.com/comentario/890893/) 
 
-	
 	Aprendi en mi colegio C++ y cada vez que me salia un error, era por un " ; ", y cuando lo arreglaba, me salian 2350 errores. :´)
 
-* **misteriosorobotdos** (2)
+* **misteriosorobotdos** (2) [562812](https://platzi.com/comentario/562812/) 
 
-	
 	Este curso de C++ esta interesante, sigan avanzando con este curso.
 
-* **durbonca** (2)
+* **durbonca** (2) [562787](https://platzi.com/comentario/562787/) 
 
-	
 	SEGUNDO COMENTARIO!!!
 
-* **Krish Campos** (2)
+* **Krish Campos** (2) [562768](https://platzi.com/comentario/562768/) 
 
-	
 	cout<<“Por fin”;
 
-* **rombj** (1)
+* **rombj** (1) [1083607](https://platzi.com/comentario/1083607/) 
 
-	
 	Siempre he querido aprenedr bien C++
 
-* **José Carlos Coronel Nuñez** (1)
+* **José Carlos Coronel Nuñez** (1) [1002166](https://platzi.com/comentario/1002166/) 
 
-	
 	bien!.
 
-* **Jonás Onofre Durán** (1)
+* **Jonás Onofre Durán** (1) [914541](https://platzi.com/comentario/914541/) 
 
-	
 	C++ me traumó en la universidad xd tal vez por el ritmo que se llevaba y la presión que uno tenia por las demás materias y no tanto por los ejercicios, pero voy a pulir este conocimiento que tengo aun más con este curso, ya que en su momento cuando vi C++ por primera vez, no vi nada de POO.
 
-* **jameskristof** (1)
+* **jameskristof** (1) [814672](https://platzi.com/comentario/814672/) 
 
-	
 	El mejor juego de todos es el FORTINTE
 
-	* **José B. Méndez Padín** (4)
+	* **José B. Méndez Padín** [814672] (4)
 
-		
 		Sí, ya disponible en la mejor peluquería de tu zona.
 
-	* **Viberth Gonzalez** (4)
+	* **Viberth Gonzalez** [814672] (4)
 
-		
 		que manera tan rara de escribir minecraft
 
-* **Rodrigo Arturo Vergara Gonzalez** (1)
+* **Rodrigo Arturo Vergara Gonzalez** (1) [786686](https://platzi.com/comentario/786686/) 
 
-	
 	Antiguamente en UE4 entraba en debate el no usar Blueprints como método de programación frente a C++, esto hasta que implementaron Blueprint Nativization que hasta donde tengo entendido transforma los blueprints en codigo C++. C++ es rapidisimo.  
 	[](https://www.youtube.com/watch?v=8gVixDglpQ4)
 
-* **GibsPM** (1)
+* **GibsPM** (1) [786584](https://platzi.com/comentario/786584/) 
 
-	
 	La velocidad superior de C++ comparado contra Java y C#…
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [751294](https://platzi.com/comentario/751294/) 
 
-	
 	Vamos a por los conceptos de C++
 
-* **josegalf** (1)
+* **josegalf** (1) [594641](https://platzi.com/comentario/594641/) 
 
-	
 	No hay material del curso???
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [594641] (2)
 
-		
 		Hola, josegalf. ¡Me encanta tu avatar!  
 		¿Qué material del curso está faltando? Revisé y en esta clase no hace falta ningún material.
 
-* **Sebastián Pineda Duque** (1)
+* **Sebastián Pineda Duque** (1) [63875](https://platzi.com/comentario/666562/) 
 ¿A qué nos referimos con mantener un lenguaje de programación? Es decir, decimos mantener aplicaciones porque añadimos, modificamos o qui...
 
-* **josegalf** (1)
+* **josegalf** (1) [59691](https://platzi.com/comentario/594641/) 
 No hay material del curso???
 
-	* **Mariana Valencia** (2)
+	* **Mariana Valencia** [59691] (2)
 
-		
 		Hola, josegalf. ¡Me encanta tu avatar!  
 		¿Qué material del curso está faltando? Revisé y en esta clase no hace falta ningún material.
 
-# Conceptos Generales de C++
+# Conceptos Generales de C++ [3821]
 
-## 0030. La Historia de C++ y sus diferencias con C
+## 0030. La Historia de C++ y sus diferencias con C [19062](https://platzi.com/clases/1545-c-plus-plus/19062-la-historia-de-c-y-sus-diferencias-con-c/)
 
 ### Descripción:
 
@@ -320,127 +276,109 @@ Por otra parte, los **IDEs** ( _Entornos de Desarrollo Integrados_ ) son program
 
 ### Comentarios:
 
-* **David Perez** (8)
+* **David Perez** (8) [570161](https://platzi.com/comentario/570161/) 
 
-	
 	 **Apuntes de la clase**
 	
-	  * C++ es una extensión de C pero C++ tiene soporte para clases y objetos, es su principal diferencia.
-	  * Un **compilador** es un programa que traduce código de programación a código maquina, código que la computadora entiende y así puede ejecutar nuestros programas. uno de los primeros compiladores para C++ es **Cfront** , este fue lanzado oficialmente en octubre de 1893.
-	  * En este curso el compilador que utilizaremos se llama **GCC** ya que este es opensouce.
-	  * Un **IDE** es un programa que contiene múltiples herramientas que nos ayudarán a crear código fuente mas fácilmente, el IDE que utilizaremos en el curso es **Code::Blocks**.
+	* C++ es una extensión de C pero C++ tiene soporte para clases y objetos, es su principal diferencia.
+	* Un **compilador** es un programa que traduce código de programación a código maquina, código que la computadora entiende y así puede ejecutar nuestros programas. uno de los primeros compiladores para C++ es **Cfront** , este fue lanzado oficialmente en octubre de 1893.
+	* En este curso el compilador que utilizaremos se llama **GCC** ya que este es opensouce.
+	* Un **IDE** es un programa que contiene múltiples herramientas que nos ayudarán a crear código fuente mas fácilmente, el IDE que utilizaremos en el curso es **Code::Blocks**.
 	
 	
 
-	* **Fp_1000** (1)
+	* **Fp_1000** [570161] (1)
 
-		
 		Excelente Aporte!
 
-* **felixjesusmedina** (3)
+* **felixjesusmedina** (3) [568376](https://platzi.com/comentario/568376/) 
 
-	
 	super genial el profesor tiene carisma y paciencia!
 
-* **José Carlos Coronel Nuñez** (2)
+* **José Carlos Coronel Nuñez** (2) [1002211](https://platzi.com/comentario/1002211/) 
 
-	
 	Los compiladores son traductores de lenguaje de programación a lenguaje maquina (Binario).
 
-* **Aldo Javier** (2)
+* **Aldo Javier** (2) [992135](https://platzi.com/comentario/992135/) 
 
-	
 	Puedo usar devCpp?
 
-* **Diego Garcia** (2)
+* **Diego Garcia** (2) [742364](https://platzi.com/comentario/742364/) 
 
-	
 	Bjarne Stroustrup es el científico que creo C++ lo que transformo a C a un lenguaje con programación orientada objetos.  
 	En pocas palabras C++ es igual a C pero con soporte para clases y objetos (POO).
 	
 	Compilador.- Un compilador es un traductor que convierte un programa escrito en un lenguaje de programación a código maquina
 
-* **Arturo_FrieS** (2)
+* **Arturo_FrieS** (2) [591999](https://platzi.com/comentario/591999/) 
 
-	
 	Ya aprendi la diferencia de c y c++.
 	
 	Yo usaba borland c
 
-* **marco antonio** (1)
+* **marco antonio** (1) [958643](https://platzi.com/comentario/958643/) 
 
-	
 	a mi me gusta monodevelop de linux y Devc++ de windows 😄
 
-* **Jonás Onofre Durán** (1)
+* **Jonás Onofre Durán** (1) [914550](https://platzi.com/comentario/914550/) 
 
-	
 	Yo ya tengo instalado un compilador llamado g++
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [890900](https://platzi.com/comentario/890900/) 
 
-	
 	Aprenderse el nombre del creador de C++, les servirá a futuro.
 
-* **darth-revan** (1)
+* **darth-revan** (1) [848092](https://platzi.com/comentario/848092/) 
 
-	
 	Yo voy a usar VsCode 😄
 
-* **Marcelo Sebastián Núñez Arenas** (1)
+* **Marcelo Sebastián Núñez Arenas** (1) [633162](https://platzi.com/comentario/633162/) 
 
-	
 	Se nota cuando hay pasion por lo que haces. Buen trabajo.
 
-	* **Walter Barrios Vazquez** (1)
+	* **Walter Barrios Vazquez** [633162] (1)
 
-		
 		La única forma de hacer un gran trabajo es amar lo que haces. Steve Jobs.
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [591997](https://platzi.com/comentario/591997/) 
 
-	
 	Por fin algo de historia de C.
 
-* **luis-fernando-yupanqui-taco** (1)
+* **luis-fernando-yupanqui-taco** (1) [585896](https://platzi.com/comentario/585896/) 
 Linda's uñas. Excellent class.
 
-* **jesus-romero-rivera** (1)
+* **jesus-romero-rivera** (1) [562676](https://platzi.com/comentario/562676/) 
 
-	
 	Super emocionado!
 
-* **JeanTcNes4** (1)
+* **JeanTcNes4** (1) [562668](https://platzi.com/comentario/562668/) 
 
-	
 	seria de mucha ayuda si agregaran en la parte de archivos los enlaces para descargar Code::Blocks y GCC
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [562668] (1)
 
-		
 		¡Los vemos en siguientes clases!
 
-* **damon steve valenciano** (1)
+* **damon steve valenciano** (1) [64476](https://platzi.com/comentario/676548/) 
 no hay problema si utilizo visual studio code?
 
-	* **Manuel Ojeda** (3)
+	* **Manuel Ojeda** [64476] (3)
 
-		
 		No deberías tener problema alguno, al final VS Code es un editor de texto tal como Notepad++, Sublime Text, Atom, puedes usarlo sin problema alguno.
 
-# Preparando el entorno de trabajo
+# Preparando el entorno de trabajo [3822]
 
-## 0040. Instalando Codeblocks
+## 0040. Instalando Codeblocks [19063](https://platzi.com/clases/1545-c-plus-plus/19063-instalando-codeblocks/)
 
 ### Descripción:
 
 
 Debemos seguir los siguientes pasos para instalar _CodeBlocks_ :
 
-  * Entra a la siguiente URL: <http://www.codeblocks.org>
-  * Busca la sección de ““Downloads””
-  * Puedes descargar la herramienta de forma binaria, con el código fuente o con SVN. Nosotros vamos a usar la opción binaria eligiendo el sistema operativo que tenemos instalado.
-  * Recuerda descargar la versión que incluye la instalación del compilador de C++ (la que termina con `mingw-setup.exe`).
+* Entra a la siguiente URL: <http://www.codeblocks.org>
+* Busca la sección de ““Downloads””
+* Puedes descargar la herramienta de forma binaria, con el código fuente o con SVN. Nosotros vamos a usar la opción binaria eligiendo el sistema operativo que tenemos instalado.
+* Recuerda descargar la versión que incluye la instalación del compilador de C++ (la que termina con `mingw-setup.exe`).
 
 
 
@@ -452,9 +390,8 @@ Debemos seguir los siguientes pasos para instalar _CodeBlocks_ :
 
 ### Comentarios:
 
-* **Ricardo Asin** (6)
+* **Ricardo Asin** (6) [562674](https://platzi.com/comentario/562674/) 
 
-	
 	Chicos, aqui les dejo el link para descargar CodeBlocks <http://www.codeblocks.org/downloads/26>  
 	y por si aun no quieren instalar CodeBlocks, pueden progamar desde desde el navegador aqui:  
 	<https://www.onlinegdb.com/>  
@@ -462,40 +399,33 @@ Debemos seguir los siguientes pasos para instalar _CodeBlocks_ :
 	Android: <https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid>  
 	IOS: [https://itunes.apple.com/us/app/c-c-program-compiler/id1160868782?l=es&mt=8](https://itunes.apple.com/us/app/c-c-program-compiler/id1160868782?l=es&mt=8)
 
-* **Jhon Alexander Romero Gonzaga** (4)
+* **Jhon Alexander Romero Gonzaga** (4) [890916](https://platzi.com/comentario/890916/) 
 
-	
 	Creo que VSCode al dia de hoy ya puede con todo tipo de lenguaje 😃 y tinene un manejo mucho mas fácil. Para lo que lo utilizen les dejo los [atajos](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf):  
 	![](https://i.ibb.co/BBJf8Vp/VSC.png)
 
-	* **roberto-suarez-marcillo** (1)
+	* **roberto-suarez-marcillo** [890916] (1)
 
-		
 		interesante
 
-* **Luis Alfonso Guevara Alvarado** (4)
+* **Luis Alfonso Guevara Alvarado** (4) [646060](https://platzi.com/comentario/646060/) 
 
-	
 	Utilizaba DEV C++,pero CodeBlocks a mi punto de vista es mucho mejor!.
 
-* **maikytech** (4)
+* **maikytech** (4) [571983](https://platzi.com/comentario/571983/) 
 
-	
 	Chicos, les recuerdo que en Mac también pueden utilizar Xcode para programar en C++.
 
-* **David Perez** (4)
+* **David Perez** (4) [570163](https://platzi.com/comentario/570163/) 
 
-	
 	Recuerden que existen varios IDEs. Los dos que se suelen utilizar más son: **DevC++** y **VisualStudio** 👍
 
-	* **roberto-suarez-marcillo** (1)
+	* **roberto-suarez-marcillo** [570163] (1)
 
-		
 		yo ya tengo los dos pero instalare el que menciona para ver que tal es
 
-* **William Calderón Castillo** (4)
+* **William Calderón Castillo** (4) [566139](https://platzi.com/comentario/566139/) 
 
-	
 	En ubuntu 18.04 (mi caso) o linux mint, directamente
 	``` 
 	    sudo apt install codeblocks 
@@ -504,126 +434,107 @@ Debemos seguir los siguientes pasos para instalar _CodeBlocks_ :
 	
 	sin necesidad de descargar nada
 
-	* **David Perez** (2)
+	* **David Perez** [566139] (2)
 
-		
 		Eso es lo que amo de Linux.
 
-* **edanfesi** (4)
+* **edanfesi** (4) [565967](https://platzi.com/comentario/565967/) 
 
-	
 	Hola chicos.
 	
 	Si quieren utilizar VS Code les dejo este post de Platzi: <https://platzi.com/tutoriales/1189-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/>
 	
 	Espero que les sirva 😃
 
-* **durbonca** (3)
+* **durbonca** (3) [564424](https://platzi.com/comentario/564424/) 
 
-	
 	Chicos para los usuarios de LINUX cree un tutorial breve les dejo por aca el enlace:
 	
 	<https://platzi.com/tutoriales/1545-c-plus-plus/3901-instalacion-de-code-blocks-usuarios-de-ubuntu-16041804-desde-la-terminal/>
 
-* **Yasser Pulido** (3)
+* **Yasser Pulido** (3) [562900](https://platzi.com/comentario/562900/) 
 
-	
 	Deberian colocar este video primero que el anterior.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [562900] (2)
 
-		
 		Creo que ya esta solucionado.
 
-* **Manuel Gil** (3)
+* **Manuel Gil** (3) [562649](https://platzi.com/comentario/562649/) 
 
-	
 	Yo utilizo la edición [Orwell Dev-C++ 5.11](https://sourceforge.net/projects/orwelldevcpp/) en Windows 10 ya que otras ediciones no me permiten compilar. También se puede utilizar vscode para editar código 😉
 
-* **Ricardo Asin** (2)
+* **Ricardo Asin** (2) [562680](https://platzi.com/comentario/562680/) 
 
-	
 	Para Windows: <https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download>
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1081489](https://platzi.com/comentario/1081489/) 
 Gracias a la magia de la edición.
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1081058](https://platzi.com/comentario/1081058/) 
 Que bueno que use Windows para ver el curso.
 
-* **José Carlos Coronel Nuñez** (1)
+* **José Carlos Coronel Nuñez** (1) [1002227](https://platzi.com/comentario/1002227/) 
 
-	
 	Bien explicado!
 
-* **ricindigus** (1)
+* **ricindigus** (1) [903554](https://platzi.com/comentario/903554/) 
 
-	
 	En la universidad usabamos codeblocks, era un ide poco estetico pero si lo siguen usando sera por algo. Yo pensaba usar Intelij, pero volvamos a codeblocks a jugar como en los tiempos de universidad…XD
 
-* **william andres rodriguez borja** (1)
+* **william andres rodriguez borja** (1) [851160](https://platzi.com/comentario/851160/) 
 
-	
 	Yo les recomiendo instalar o eclipse C++ o el Visual studio code con la extension c++ para los que les de problemas codeBlocks
 
-* **Sara Galván Ortega** (1)
+* **Sara Galván Ortega** (1) [838466](https://platzi.com/comentario/838466/) 
 
-	
 	Qué se hace en este caso?
 	
 	Important note for Ubuntu users: The contrib-plugins package for debian can not be used on Ubuntu 12.04(+), due to an incompatible libhunspell-package.
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [640541](https://platzi.com/comentario/640541/) 
 
-	
 	Excelente!!
 
-* **Koumori** (1)
+* **Koumori** (1) [636194](https://platzi.com/comentario/636194/) 
 
-	
 	e tenido problemas con mi CodeBlocks estoy escribiendo texto y de repente se cierra lo instale en una mac.  
 	alguien que pueda ayudarme ?
 
-	* **luisglopez7777** (3)
+	* **luisglopez7777** [636194] (3)
 
-		
 		a mi tampoco me servia codeblocks en mac… uso otro compilador que se llama [repl.it](http://repl.it)
 
-* **tonystuart** (1)
+* **tonystuart** (1) [593894](https://platzi.com/comentario/593894/) 
 
-	
 	¿Porqué no utilizan bourlanC++?
 
-	* **ThespianArtist (Platzi)** (4)
+	* **ThespianArtist (Platzi)** [593894] (4)
 
-		
 		Realmente es algo de gustos, puedes usar cualquier IDE o es más, hasta compilar directamente desde terminal. Pero puedes usar cualquier herramienta
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [591228](https://platzi.com/comentario/591228/) 
 
-	
 	Code Blocks waaao vamos aprender de esto IDE
 
-* **Juan David Castro (Platzi)** (1)
+* **Juan David Castro (Platzi)** (1) [562905](https://platzi.com/comentario/562905/) 
 
-	
 	Instalación con el link a SourceForge que utilizo el profe en la clase (para Windows): <https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe/download>
 
-* **Reynaldo Santos Mata** (1)
+* **Reynaldo Santos Mata** (1) [64273](https://platzi.com/comentario/673402/) 
 mi pregunta es si hay algún problema en que utilice DEV-C++?
 
-	* **paconity** (2)
+	* **paconity** [64273] (2)
 Hola bro, no importa el IDE que ocupes, o bueno importa pero no realmente, hay unos que te hacen las cosas más fáciles y otros que no, en mi caso use Xcode y Atom, con ambos se puede, solo que con uno es más fácil que otro, suerte!
 
-* **tonystuart** (1)
+* **tonystuart** (1) [59636](https://platzi.com/comentario/593894/) 
 ¿Porqué no utilizan bourlanC++?
 
-	* **ThespianArtist (Platzi)** (4)
+	* **ThespianArtist (Platzi)** [59636] (4)
 
-		
 		Realmente es algo de gustos, puedes usar cualquier IDE o es más, hasta compilar directamente desde terminal. Pero puedes usar cualquier herramienta
 
-## 0050. Pasos para instalar en mac
+## 0050. Pasos para instalar en mac [19064](https://platzi.com/clases/1545-c-plus-plus/19064-pasos-para-instalar-en-mac/)
 
 ### Descripción:
 
@@ -646,77 +557,66 @@ Con eso podrían usar sin problemas CodeBlocks en sus dispositivos apple, cualqu
 
 ### Comentarios:
 
-* **durbonca** (7)
+* **durbonca** (7) [564432](https://platzi.com/comentario/564432/) 
 
-	
 	Chicos deje un tutorial creado para instalaciones en Linux, aca les dejo el enlace:
 	
 	<https://platzi.com/tutoriales/1545-c-plus-plus/3901-instalacion-de-code-blocks-usuarios-de-ubuntu-16041804-desde-la-terminal/>
 
-	* **Bray Sebastián Marín Garcia** (1)
+	* **Bray Sebastián Marín Garcia** [564432] (1)
 
-		
 		Gracias, ya estaba pensando en seguir el curso desde Windows, pero creo que si va a ser así, ya que el hecho de instalarlo en Ubuntu 18 es complejo y por lo que he leído no es tan estable como la versión de Windows
 
-	* **David Felipe Bohórquez** (2)
+	* **David Felipe Bohórquez** [564432] (2)
 
-		
 		en Linux es mucho mejor usar cualquier editor de texto y compilar en la terminal.
 
-	* **marco antonio** (1)
+	* **marco antonio** [564432] (1)
 
-		
 		monodevelop para mi es el mejor compilador que hay o el compilador de QT
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [890922](https://platzi.com/comentario/890922/) 
 
-	
 	Para los que trabajen en linux y mac, tenemos la terminal que es mucho más comodo. [Curso de Terminal y Linea de comnados](https://platzi.com/clases/terminal/)
 
-## 0060. Ejecutando nuestro primer programa
+## 0060. Ejecutando nuestro primer programa [19065](https://platzi.com/clases/1545-c-plus-plus/19065-ejecutando-nuestro-primer-programa/)
 
 ### Descripción:
 
 
-  * La primera vez que abrimos Code::Blocks podemos aceptar la opción de **asociar** nuestros archivos de C y C++ para que siempre que los abramos abran por defecto en este editor.
-  * Vamos a crear un nuevo proyecto en `File > New > Project > Console application`. Recuerda marcar la opción de usar el lenguaje C++ en vez de C y _GNU GCC Compiler_ como compilador.
-  * Corremos nuestro primer programa de C++ con el botón `Build and run`.
+* La primera vez que abrimos Code::Blocks podemos aceptar la opción de **asociar** nuestros archivos de C y C++ para que siempre que los abramos abran por defecto en este editor.
+* Vamos a crear un nuevo proyecto en `File > New > Project > Console application`. Recuerda marcar la opción de usar el lenguaje C++ en vez de C y _GNU GCC Compiler_ como compilador.
+* Corremos nuestro primer programa de C++ con el botón `Build and run`.
 
 
 
 ### Comentarios:
 
-* **Diego Garcia** (6)
+* **Diego Garcia** (6) [742367](https://platzi.com/comentario/742367/) 
 
-	
 	Próximo paso: volvernos hackers jaja
 
-* **David Perez** (5)
+* **David Perez** (5) [570177](https://platzi.com/comentario/570177/) 
 
-	
 	Imprimiendo nuestro primer **Hola Mundo!** 🙌
 
-* **LegaCode** (2)
+* **LegaCode** (2) [575737](https://platzi.com/comentario/575737/) 
 
-	
 	 _La primera vez que vi CodeBlock no sabia que hacer hasta me daba miedo de tocar las herramientas jaja._
 
-	* **durbonca** (1)
+	* **durbonca** [575737] (1)
 
-		
 		y ahora?
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1095215](https://platzi.com/comentario/1095215/) 
 
-	
 	Si tienen problemas con el compilador, les dice que no existe o no lo encuentra, sigan estos pasos:  
 	Se van al menu desplegable Settings->Compiler  
 	En la nueva ventana se van a Toolchain executables, presionan Auto-detect o en su defecto buscan manualmente la carpeta MinGW dentro de la carpeta donde se instalo CodeBlocks  
 	![Anotación 2020-04-04 112433.jpg](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202020-04-04%20112433-adbf00e0-0f10-443a-97ed-c9fc03f81941.jpg)
 
-* **Juan camilo bedoya** (1)
+* **Juan camilo bedoya** (1) [1067276](https://platzi.com/comentario/1067276/) 
 
-	
 	para los de mac pueden programar c++ en visual studio code descargando ahi mismo la extension de c++ y el compilador junto con code runner para ejecutar el código en su terminal interna.  
 	En caso que no les funcione es porque deben correr el siguiente comando en la terminal.
 	``` 
@@ -724,40 +624,33 @@ Con eso podrían usar sin problemas CodeBlocks en sus dispositivos apple, cualqu
 	    
 	```
 
-* **josepmirplatzi** (1)
+* **josepmirplatzi** (1) [1060574](https://platzi.com/comentario/1060574/) 
 
-	
 	No se porque pero a mi me sale que el compilador no existe y he seguido todos los pasos i alguien sabe algo porfavor y gracias.
 
-* **José Carlos Coronel Nuñez** (1)
+* **José Carlos Coronel Nuñez** (1) [1002307](https://platzi.com/comentario/1002307/) 
 
-	
 	que bien explicado esta el curso. 😄
 
-* **alejandro poe tellez** (1)
+* **alejandro poe tellez** (1) [957230](https://platzi.com/comentario/957230/) 
 
-	
 	puedo programar en visual basics?
 
-* **julian-leal** (1)
+* **julian-leal** (1) [793891](https://platzi.com/comentario/793891/) 
 
-	
 	Es necesario usar codeblocks??
 
-	* **Demian Arenas (Platzi)** (1)
+	* **Demian Arenas (Platzi)** [793891] (1)
 
-		
 		Hola Julian, al momento de programar con C++ Codeblocks te mejora mucho la experiencia de desarrollo, si te acomodas con otro editor puedes utilizarlo, pero es muy recomendable Codeblocks.
 
-	* **Ramiro Nicolas D'Accorso Rosati** (2)
+	* **Ramiro Nicolas D'Accorso Rosati** [793891] (2)
 
-		
 		![Anotación 2019-12-04 103134.png](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202019-12-04%20103134-85041d06-7c6c-45cf-b958-d3d964d241b4.jpg)  
 		En visual studio code se puede compilar super facil instalando esos dos pluggins y bajando el compilador. Aca la guia: <https://platzi.com/tutoriales/1189-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/>
 
-* **jordori** (1)
+* **jordori** (1) [699233](https://platzi.com/comentario/699233/) 
 
-	
 	lo acabo de instalar y me no puedo ejecutar el hello world me sale esto  
 	Project/Target: “programacion - Debug”:  
 	The compiler’s setup (GNU GCC Compiler) is invalid, so Code::Blocks cannot find/run the compiler.  
@@ -770,24 +663,21 @@ Con eso podrían usar sin problemas CodeBlocks en sus dispositivos apple, cualqu
 	Skipping…  
 	Nothing to be done (all items are up-to-date).
 
-	* **-Smiler-** (3)
+	* **-Smiler-** [699233] (3)
 
-		
 		Debes instalar el compilador, el que yo use es MinGW  
 		<http://www.mingw.org/> \---->la pagina  
 		<https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/> \---->para descargarlo
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [592023](https://platzi.com/comentario/592023/) 
 
-	
 	Tipico copiar un dibujo ascii y no copila a la primera.
 
-* **Gabriela Rincon Ramirez** (1)
+* **Gabriela Rincon Ramirez** (1) [575587](https://platzi.com/comentario/575587/) 
 
-	
 	El tipico “Hola mundo” cuando empezamos a programar ❤️ jaja
 
-## 0070. ¿Qué son las librerías STD - Portada del Proyecto
+## 0070. ¿Qué son las librerías STD - Portada del Proyecto [19066](https://platzi.com/clases/1545-c-plus-plus/19066-que-son-las-librerias-std-portada-del-proyecto/)
 
 ### Descripción:
 
@@ -804,9 +694,8 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 
 ### Comentarios:
 
-* **Ricardo Asin** (6)
+* **Ricardo Asin** (6) [562671](https://platzi.com/comentario/562671/) 
 
-	
 	Chicos, aqui les dejo el link para descargar CodeBlocks _<http://www.codeblocks.org/downloads/26>_  
 	y por si aun no quieren instalar CodeBlocks, pueden progamar desde desde el navegador aqui:  
 	_<https://www.onlinegdb.com/>_  
@@ -814,9 +703,8 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	**Android** : <https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid>  
 	**IOS:**[https://itunes.apple.com/us/app/c-c-program-compiler/id1160868782?l=es&mt=8](https://itunes.apple.com/us/app/c-c-program-compiler/id1160868782?l=es&mt=8)
 
-* **Cristobal Vega** (3)
+* **Cristobal Vega** (3) [687477](https://platzi.com/comentario/687477/) 
 
-	
 	Mi aporte a la clase, usé * mejor ya que el compilador en linux me manda errores, sí alguien está usando GCC en linux no duden en compartir su ASCII art 🤓
 	``` 
 	    #include<stdio.h>
@@ -829,7 +717,7 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	      printf("/_          (_    ./ ,/----'         Un videojuego por Cristobal Vega   \n");
 	      printf("   *__         (_./  /                                                  \n");
 	      printf("       *__           *___----^__                                        \n");
-	      printf("         _/   _                  *                                       \n");
+	      printf("         _/   _                *                                       \n");
 	      printf("  |    _/  __/ )_(_______       **__                                     \n");
 	      printf("  |*__/   /    ^ ^       *__________)                                    \n");
 	    }
@@ -837,14 +725,12 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	    
 	```
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [562907](https://platzi.com/comentario/562907/) 
 
-	
 	También podemos usar [Replit](https://repl.it/languages/cpp) para programar en C++ y probar el resultado desde el navegador sin necesidad de instalar cosas extrañas en nuestra computadora 😎: <https://repl.it/languages/cpp>.
 
-* **Diego Garcia** (2)
+* **Diego Garcia** (2) [744293](https://platzi.com/comentario/744293/) 
 
-	
 	**El Batman
 	``` 
 	    #include<iostream>
@@ -871,9 +757,8 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	    
 	```
 
-* **yairmendo** (2)
+* **yairmendo** (2) [728880](https://platzi.com/comentario/728880/) 
 
-	
 	Encontré la nave de futurama
 	``` 
 	    #include<iostream>
@@ -903,39 +788,35 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	    
 	```
 
-* **Manuel Gil** (2)
+* **Manuel Gil** (2) [562807](https://platzi.com/comentario/562807/) 
 
-	
 	He aquí una muy buena referencia (en inglés) con una gran cantidad de librerías disponibles para C++: <http://www.cplusplus.com/reference/>
 
-* **davram** (2)
+* **davram** (2) [562667](https://platzi.com/comentario/562667/) 
 
-	
 	¿Puedo utilizar Netbeans como IDE?
 
-	* **davram** (2)
+	* **davram** [562667] (2)
 
-		
 		Por cierto, creo que el orden de los videos está mal, en éste ya tienes el IDE instalado y en siguiente video apenas lo vas a instalar.Igual sugiero que el video de Bienvenida este al inicio y no después de que explicas el por qué aprender C++.  
 		Saludos!
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [562667] (1)
 
-		
 		El orden ya se corrigío 🙌…
 
-	* **Manuel Gil** (1)
+	* **Manuel Gil** [562667] (1)
 
-		
 		Recuerdo haber utilizado Netbeans para compilar programas en C++. No recuerdo si tienes que instalar algo más, seguramente el GCC, pero la respuesta sería un sí definitivo.
 
-* **Luis Tapia** (2)
+* **Luis Tapia** (2) [74040](https://platzi.com/comentario/845539/) 
 ¿Qué estándar de lenguaje ocupamos en este compilador C14 o C17?
 
-* **Keinner Ross Durantt Rodríguez** (1)
-![xd.png](https://static.platzi.com/media/user_upload/xd-c634a63c-63e2-4683-98d3-e5ea4d521602.jpg)
+* **Keinner Ross Durantt Rodríguez** (1) [1116094](https://platzi.com/comentario/1116094/) 
+	
+	![xd.png](https://static.platzi.com/media/user_upload/xd-c634a63c-63e2-4683-98d3-e5ea4d521602.jpg)
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [1098759](https://platzi.com/comentario/1098759/) 
 
 	```
 	    #include<iostream>
@@ -956,26 +837,23 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	    
 	```
 
-* **José Carlos Coronel Nuñez** (1)
+* **José Carlos Coronel Nuñez** (1) [1002377](https://platzi.com/comentario/1002377/) 
 
-	
 	Bien!.
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [890942](https://platzi.com/comentario/890942/) 
 
-	
 	Cout: Salida de datos.  
 	  
 	Endl: Fin de linea.  
 	  
 	nunca olvidarse el ;
 
-* **santiagojv11** (1)
+* **santiagojv11** (1) [830306](https://platzi.com/comentario/830306/) 
 
-	
 	Algunos dibujos de ascii toca arreglarlos en codeblocks o no se si lo este haciedno bien
 
-* **jameskristof** (1)
+* **jameskristof** (1) [814726](https://platzi.com/comentario/814726/) 
 
 	```
 	    #include<iostream>
@@ -997,7 +875,7 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	    
 	```
 
-* **monicachavez** (1)
+* **monicachavez** (1) [800198](https://platzi.com/comentario/800198/) 
 
 	```
 	    #include<iostream>
@@ -1027,14 +905,12 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	    
 	```
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [666883](https://platzi.com/comentario/666883/) 
 
-	
 	En vez de quitar _"_ , se podría simplemente escapar ese caracter, poniendo un __ _(backslash)_ detrás. Quedaría así: `\"`
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [569018](https://platzi.com/comentario/569018/) 
 
-	
 	No pude usar **gcc** desde la consola. Tengo una Mac Mojave 10.14.3
 	
 	En lugar de ello, para compilar uso:
@@ -1046,62 +922,52 @@ Por ejemplo, en nuestro primer ejemplo estamos usando la librería `iostream` qu
 	
 	La primera es para compilar y la segunda para ejecutar
 
-	* **Jorge Alejandro Soto Govea** (2)
+	* **Jorge Alejandro Soto Govea** [569018] (2)
 
-		
 		Para mac creo que la mejor opción es CLion. Actualmente lo uso para llevar el curso y al menos hasta este video no he tenido problemas al compilar.
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (2)
+	* **Manuel Alejandro Aguilar Téllez Girón** [569018] (2)
 
-		
 		También tengo CLion pero me gusta mucho compilar desde la consola y escribir en ATOM o en VIM, no sé, preferencia personal. Gracias por la recomendación 😃
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567526](https://platzi.com/comentario/567526/) 
 
-	
 	Para los que les paso como a mi, despues de este video no viene el que dice “¿Como usar condicionales?” si no viene la parte de “Manejo de memorias”, se van a saltar toda esa parte hasta que lo arreglen, tengan cuidado.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [567526] (1)
 
-		
 		Ya fue solucionado, ¡gracias por avisar!
 
-* **javier-soliz** (1)
+* **javier-soliz** (1) [565697](https://platzi.com/comentario/565697/) 
 
-	
 	Disculpen cuando copio y pego la linea de codigo ya no me deja reproducirlo ya no esta en color verdad, que sucede?
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (2)
+	* **Manuel Alejandro Aguilar Téllez Girón** [565697] (2)
 
-		
 		¿Podrías mandar captura de tu código? Así podríamos ayudarte mejor.
 
-	* **LegaCode** (2)
+	* **LegaCode** [565697] (2)
 
-		
 		 _Ese detalle ami me sucedió cuando no le doy la extensión al adecuada al archivo o directamente ni le puse._
 
-* **Yasser Pulido** (1)
+* **Yasser Pulido** (1) [562896](https://platzi.com/comentario/562896/) 
 
-	
 	Deberian arreglar el orden de los videos.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [562896] (1)
 
-		
 		Gracias vamos a revisar.
 
-* **javier-soliz** (1)
+* **javier-soliz** (1) [57488](https://platzi.com/comentario/565697/) 
 Disculpen cuando copio y pego la linea de codigo ya no me deja reproducirlo ya no esta en color verdad, que sucede?
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (2)
+	* **Manuel Alejandro Aguilar Téllez Girón** [57488] (2)
 
-		
 		¿Podrías mandar captura de tu código? Así podríamos ayudarte mejor.
 
-# Manejo de memoria
+# Manejo de memoria [3823]
 
-## 0080. ¿Qué es la memoria y tipos de datos
+## 0080. ¿Qué es la memoria y tipos de datos [19067](https://platzi.com/clases/1545-c-plus-plus/19067-que-es-la-memoria-y-tipos-de-datos/)
 
 ### Descripción:
 
@@ -1116,38 +982,36 @@ Por otra parte, la **memoria RAM** también nos ayuda a guardar información a u
 
 ### Tipos de datos
 
-  * _INT_ (Enteros)
-  * _Floats_ (decimales)
-  * _Bool_ (booleanos: _true_ o _false_ , verdadero o falso, encendido o apagado, negativo o positivo)
-  * _Chars_ (caracteres)
-  * Entre otros.
+* _INT_ (Enteros)
+* _Floats_ (decimales)
+* _Bool_ (booleanos: _true_ o _false_ , verdadero o falso, encendido o apagado, negativo o positivo)
+* _Chars_ (caracteres)
+* Entre otros.
 
 
 
 ### Comentarios:
 
-* **LegaCode** (10)
-![Screenshot_1.jpg](https://static.platzi.com/media/user_upload/Screenshot_1-4eea205c-babd-4871-aa59-a358b2ba5df3.jpg)
-
-* **Juan David Castro (Platzi)** (7)
-
+* **LegaCode** (10) [575804](https://platzi.com/comentario/575804/) 
 	
+	![Screenshot_1.jpg](https://static.platzi.com/media/user_upload/Screenshot_1-4eea205c-babd-4871-aa59-a358b2ba5df3.jpg)
+
+* **Juan David Castro (Platzi)** (7) [562910](https://platzi.com/comentario/562910/) 
+
 	Esta clase del [Curso de Algoritmos](https://platzi.com/algoritmos) de Platzi nos enseña cómo funcionan las computadoras para transformar los ceros y unos en todos los tipos de contenido que almacenamos en nuestras computadoras 😉:
 	
-	  * [¿Qué entiende una computadora?](https://platzi.com/clases/1469-algoritmos/17007-que-entiende-una-computadora/)
+	* [¿Qué entiende una computadora?](https://platzi.com/clases/1469-algoritmos/17007-que-entiende-una-computadora/)
 	
 	
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [562909](https://platzi.com/comentario/562909/) 
 
-	
 	**Tipos de datos en C++**
 	
 	![Tipos de datos en C++](http://www.desy.de/gna/html/cc/Tutorial/Spanish/img20.gif)
 
-* **Diego Garcia** (3)
+* **Diego Garcia** (3) [744300](https://platzi.com/comentario/744300/) 
 
-	
 	Las computadoras pueden guardar toda clase de información pero solo saben comunicarse en código binario (ceros y unos).
 	
 	La memoria de las computadoras y su forma de almacenar datos funciona de la siguiente manera:  
@@ -1161,18 +1025,17 @@ Por otra parte, la **memoria RAM** también nos ayuda a guardar información a u
 	
 	Tipos de datos: Los tipos de datos son la clasificación que le damos a la información para que el compilador entienda como va a ser interpretado.
 
-* **Cristian Rosales** (2)
-![Anotación 2020-04-04 114915.jpg](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202020-04-04%20114915-08fa4ec6-c1dc-466a-85a4-02a2fe5584f0.jpg)
-
-* **josepmirplatzi** (1)
-
+* **Cristian Rosales** (2) [1095251](https://platzi.com/comentario/1095251/) 
 	
+	![Anotación 2020-04-04 114915.jpg](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202020-04-04%20114915-08fa4ec6-c1dc-466a-85a4-02a2fe5584f0.jpg)
+
+* **josepmirplatzi** (1) [1095082](https://platzi.com/comentario/1095082/) 
+
 	una pregunta por que el return 0;  
 	Por favor y gracias
 
-* **José Carlos Coronel Nuñez** (1)
+* **José Carlos Coronel Nuñez** (1) [1002701](https://platzi.com/comentario/1002701/) 
 
-	
 	Listo!.
 	``` 
 	    #include<iostream>
@@ -1202,7 +1065,7 @@ Por otra parte, la **memoria RAM** también nos ayuda a guardar información a u
 	    
 	```
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1001454](https://platzi.com/comentario/1001454/) 
 
 	```
 	    #include<iostream>
@@ -1241,9 +1104,8 @@ Por otra parte, la **memoria RAM** también nos ayuda a guardar información a u
 	    
 	```
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [890955](https://platzi.com/comentario/890955/) 
 
-	
 	Cuando se codifica en un lenguaje un string, algunos caracteres son reservados por el leguanje, lo que se hace es escaparlos con un \\.  
 	  
 	Por eso cuando se desea hacer un salto de linea se utiliza \n.  
@@ -1261,25 +1123,23 @@ Por otra parte, la **memoria RAM** también nos ayuda a guardar información a u
 	    
 	```
 
-* **Imanol Yen Quispe** (1)
+* **Imanol Yen Quispe** (1) [716106](https://platzi.com/comentario/716106/) 
 
-	
 	En los caracteres, cuando uso “-” me aparecen los char normal, pero si uso ‘-’ me aparecen varios números, ¿por qué pasa eso?
 
-	* **Walter Barrios Vazquez** (1)
+	* **Walter Barrios Vazquez** [716106] (1)
 
-		
 		Hola @TecnoX360 me parece que se debe al compilador y el manejo de strings, donde las comillas dobles se usan para cadenas de caracteres y las comillas simples para un sólo caracter o tipo char. Si encerramos una cadena dentro de comillas simples el compilador devuelve el puntero al primer caracter, o sea, números.  
 		Espero que nuestro profe @joe-dorado nos aclare al respecto.  
 		Saludos.
 
-* **cristian** (1)
+* **cristian** (1) [83414](https://platzi.com/comentario/1026239/) 
 Al asignar el decimal enteros y caracteres .solo usaron el comando INT....no hace falta usar el otro comando de bool o cacteres
 
-* **cristian** (1)
+* **cristian** (1) [83413](https://platzi.com/comentario/1026237/) 
 Al asignar el decimal enteros y caracteres .solo usaron el comando INT....no hace falta usar el otro comando de boo
 
-## 0090. Alojando variables en memoria
+## 0090. Alojando variables en memoria [19068](https://platzi.com/clases/1545-c-plus-plus/19068-alojando-variables-en-memoria/)
 
 ### Descripción:
 
@@ -1296,32 +1156,28 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (7)
+* **Juan David Castro (Platzi)** (7) [562911](https://platzi.com/comentario/562911/) 
 
-	
 	Las variables son como cajitas donde podemos guardar información. Siempre debemos definir un nombre, un valor y en algunos lenguajes como C++ también debemos especificar el tipo de dato.
 	
 	El valor y el tipo de dato de la variable pueden cambiar pero el nombre siempre es el mismo (aunque, podríamos crear una nueva variable con otro nombre y decir que ahora esa es nuestra variable, todo se puede 😬).
 
-* **Bray Sebastián Marín Garcia** (3)
+* **Bray Sebastián Marín Garcia** (3) [830780](https://platzi.com/comentario/830780/) 
 
-	
 	Para los que vean esto, les recomiendo acostumbrarse a escribir el código en ingles, aparte de que es lo mejor si se quiere trabajar en la industria tech, evitamos problemas con caracteres especiales del español como la “ñ” o las letras acentuadas.
 
-* **David Perez** (3)
+* **David Perez** (3) [570241](https://platzi.com/comentario/570241/) 
 
-	
 	 **Para declarar variables:**
 	
-	  * Primero se debe escribir la palabra reservada que hace referencia al tipo de variable que queremos declarar. (int , char, float, double, bool, etc…)
-	  * Luego debemos ponerle un nombre a la variable, puede ser el que quieras siempre y cuando no rompa las reglas en la sintaxis de C++.
-	  * Por ultimo debes escribir el operador de asignación ( **=** ) y darle un valor a tu variable (y no olvides el **;** ).
+	* Primero se debe escribir la palabra reservada que hace referencia al tipo de variable que queremos declarar. (int , char, float, double, bool, etc…)
+	* Luego debemos ponerle un nombre a la variable, puede ser el que quieras siempre y cuando no rompa las reglas en la sintaxis de C++.
+	* Por ultimo debes escribir el operador de asignación ( **=** ) y darle un valor a tu variable (y no olvides el **;** ).
 	
 	
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [562912](https://platzi.com/comentario/562912/) 
 
-	
 	También podemos escribir comentarios junto con el código, solo debemos agregar dos barritas (`//`) al principio de la línea:
 	``` 
 	    // Hola! Soy un comentario y no me voy a ejecutar!
@@ -1330,7 +1186,7 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	    
 	```
 
-* **José Carlos Coronel Nuñez** (2)
+* **José Carlos Coronel Nuñez** (2) [1003239](https://platzi.com/comentario/1003239/) 
 
 	```
 	    #include<iostream>
@@ -1363,19 +1219,17 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	    
 	```
 
-* **Jose94** (2)
+* **Jose94** (2) [860311](https://platzi.com/comentario/860311/) 
 
-	
 	A ese proceso de indicar qué tipo de dato es una variable se le llama DECLARACIÓN, y al proceso de indicar un valor a una variable se le llama INICIALIZACIÓN.
 
-* **ajosue98** (2)
+* **ajosue98** (2) [655415](https://platzi.com/comentario/655415/) 
 
-	
 	Cabe destacar existen 2 formas de comentar
 	
-	  * Por bloque
+	* Por bloque
 	
-	  * Por linea
+	* Por linea
 	
 	
 	
@@ -1393,7 +1247,7 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	
 	Y el de linea es usado frecuentemente para explicar que acción realiza nuestro código
 
-* **steven-alejandro-sanchez** (2)
+* **steven-alejandro-sanchez** (2) [649541](https://platzi.com/comentario/649541/) 
 
 	```
 	    <# include<iostream>
@@ -1409,14 +1263,12 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	    
 	```
 
-* **Arturo_FrieS** (2)
+* **Arturo_FrieS** (2) [592030](https://platzi.com/comentario/592030/) 
 
-	
 	Variables para mi son el sujeto y su contenido el predicado.
 
-* **Brayan Fermin Garcia Perez** (1)
+* **Brayan Fermin Garcia Perez** (1) [950600](https://platzi.com/comentario/950600/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -1444,9 +1296,8 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	
 	}
 
-* **Diego Garcia** (1)
+* **Diego Garcia** (1) [744306](https://platzi.com/comentario/744306/) 
 
-	
 	No lo pude poner con “Ñ” 8(
 	``` 
 	    #include<iostream>
@@ -1466,25 +1317,22 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	    
 	```
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [744306] (2)
 
-		
 		La aplastante mayoría de teclados en Ingles no tienen **`Ñ`** (o es muy difícil configurarlos).
 		
 		Lo mejor es programar en Ingles para poder trabajar con personas de todo el mundo, no solo con lxs que hablan Español. 😉
 
-	* **Walter Barrios Vazquez** (1)
+	* **Walter Barrios Vazquez** [744306] (1)
 
-		
 		🤔 sería Year? 🤷‍♂
 
-	* **Diego Garcia** (2)
+	* **Diego Garcia** [744306] (2)
 
-		
 		si, Sería Year, pero en ese momento no puse atención por la ñ jaja, es mucho mejor familiarizarse y programar en ingles.  
 		Agradezco mucho que me lo hagan notar (8
 
-* **enmtifa** (1)
+* **enmtifa** (1) [683243](https://platzi.com/comentario/683243/) 
 
 	```
 	    int main(){
@@ -1500,12 +1348,11 @@ Donde `int` es el tipo de dato, `Month` el nombre de la variable y `12` el valor
 	    
 	```
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [640629](https://platzi.com/comentario/640629/) 
 
-	
 	Las variables son como cajas que le puedes asignar cualquier contenido 😄
 
-## 0100. ¿Cómo usar operadores
+## 0100. ¿Cómo usar operadores [19069](https://platzi.com/clases/1545-c-plus-plus/19069-como-usar-operadores/)
 
 ### Descripción:
 
@@ -1514,20 +1361,19 @@ Los operadores son símbolos que nos ayudan a manipular nuestros datos con opera
 
 Operadores aritméticos:
 
-  * Suma (`+`)
-  * Resta (`-`)
-  * Multiplicación (`*`)
-  * División (`/`)
-  * Módulo (`%`: el residuo de una división, por ejemplo, `100 % 2 = 0` o `13 % 5 = 3`)
-  * Aisgnación (`=`: por ejemplo, `Nombre = valor`)
+* Suma (`+`)
+* Resta (`-`)
+* Multiplicación (`*`)
+* División (`/`)
+* Módulo (`%`: el residuo de una división, por ejemplo, `100 % 2 = 0` o `13 % 5 = 3`)
+* Aisgnación (`=`: por ejemplo, `Nombre = valor`)
 
 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [562914](https://platzi.com/comentario/562914/) 
 
-	
 	Aunque no lo crean, las operaciones con módulos son super útiles en muchos casos de la vida real, sobretodo en concursos y competencias de programación 😬.
 	
 	El ejemplo más típico es el de saber si un número es par o impar:
@@ -1538,13 +1384,12 @@ Operadores aritméticos:
 	    
 	```
 	
-	  * [Operador Aritmético de Módulo o Residuo](https://blog.michelletorres.mx/operador-aritmetico-modulo/)
+	* [Operador Aritmético de Módulo o Residuo](https://blog.michelletorres.mx/operador-aritmetico-modulo/)
 	
 	
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [562915](https://platzi.com/comentario/562915/) 
 
-	
 	Nuestro código se ejecuta en el orden en que lo definimos; línea por línea. Esto quiere decir que si una variable cambia después de haber sido utilizada para otras operaciones, no importa, las operaciones no saben que el valor de la variable cambio y seguirán sus vidas sin saberlo.
 	
 	Por ejemplo:
@@ -1567,7 +1412,7 @@ Operadores aritméticos:
 	    
 	```
 
-* **José Carlos Coronel Nuñez** (2)
+* **José Carlos Coronel Nuñez** (2) [1003351](https://platzi.com/comentario/1003351/) 
 
 	```
 	    #include<iostream>
@@ -1601,7 +1446,7 @@ Operadores aritméticos:
 	    
 	```
 
-* **enmtifa** (2)
+* **enmtifa** (2) [683251](https://platzi.com/comentario/683251/) 
 
 	```
 	    #include<iostream>
@@ -1633,9 +1478,8 @@ Operadores aritméticos:
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [848488](https://platzi.com/comentario/848488/) 
 
-	
 	Usando operadores 😄
 	``` 
 	    #include<iostream>
@@ -1659,7 +1503,7 @@ Operadores aritméticos:
 	    
 	```
 
-* **steven-alejandro-sanchez** (1)
+* **steven-alejandro-sanchez** (1) [649599](https://platzi.com/comentario/649599/) 
 
 	```
 	    <# include<iostream>
@@ -1698,12 +1542,11 @@ Operadores aritméticos:
 	    
 	```
 
-* **agustiniturbee** (1)
+* **agustiniturbee** (1) [602255](https://platzi.com/comentario/602255/) 
 
-	
 	El modulo imprime el resultado de la division despues de la coma
 
-## 0110. ¿Qué son los apuntadores
+## 0110. ¿Qué son los apuntadores [19070](https://platzi.com/clases/1545-c-plus-plus/19070-que-son-los-apuntadores/)
 
 ### Descripción:
 
@@ -1712,9 +1555,8 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 
 ### Comentarios:
 
-* **yairmendo** (6)
+* **yairmendo** (6) [729161](https://platzi.com/comentario/729161/) 
 
-	
 	Le agregue las dos “formas” en las que se está imprimiendo el apuntador
 	``` 
 	    cout << *ApuntadorADir << endl; // Imprime en pantalla lo que hay enla Direccion de memoria de  SegundaDireccion   (1337)
@@ -1755,14 +1597,12 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 	```
 	
 
-	* **Ramiro Nicolas D'Accorso Rosati** (1)
+	* **Ramiro Nicolas D'Accorso Rosati** [729161] (1)
 
-		
 		Muchas gracias! Me había quedado esa duda!!! Medio que fue confuso el profe en esto!!
 
-* **Eduardo_97A** (4)
+* **Eduardo_97A** (4) [581471](https://platzi.com/comentario/581471/) 
 
-	
 	Ya comentado, quizá quede más claro …
 	``` 
 	    <code>
@@ -1794,9 +1634,8 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 	    
 	```
 
-* **Danelia Sanchez Sanchez** (4)
+* **Danelia Sanchez Sanchez** (4) [565028](https://platzi.com/comentario/565028/) 
 
-	
 	En el caso de los apuntadores (punteros), el **`*`** se le conoce como operador de **indirección** y permite acceder al valor de la variable a la que apunta o asignarle un nuevo valor. Tener cuidado de no omitirlo pues estarías obteniendo la dirección de memoria.
 	``` 
 	    int valor = 5;
@@ -1808,9 +1647,8 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 	
 	<https://www.programiz.com/cpp-programming/pointers>
 
-* **marco antonio** (3)
+* **marco antonio** (3) [958889](https://platzi.com/comentario/958889/) 
 
-	
 	una nota por si la necesitan  
 	asi se declara un puntero
 	
@@ -1838,24 +1676,20 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 	
 	AF55425asdfgghj XD ya saben una direccion
 
-* **Ricardo Antonio Prada Rojas** (2)
+* **Ricardo Antonio Prada Rojas** (2) [1106558](https://platzi.com/comentario/1106558/) 
 
-	
 	Excelente clase, así se debe explicar apuntadores!
 
-* **Davic64** (2)
+* **Davic64** (2) [1090124](https://platzi.com/comentario/1090124/) 
 
-	
 	Porfin entiendo los apuntadoreeeeeees
 
-	* **Brandon Ramirez** (1)
+	* **Brandon Ramirez** [1090124] (1)
 
-		
 		estoy contigo mucho tiempo y con un ejemplo tan sencillo lo entiendo que genial
 
-* **José Carlos Coronel Nuñez** (2)
+* **José Carlos Coronel Nuñez** (2) [1003428](https://platzi.com/comentario/1003428/) 
 
-	
 	Ejemplo con apuntador:
 	``` 
 	    #include<iostream>
@@ -1888,73 +1722,61 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 	    
 	```
 
-* **Imanol Yen Quispe** (2)
+* **Imanol Yen Quispe** (2) [872143](https://platzi.com/comentario/872143/) 
 
-	
 	Imprimirá 3
 
-* **Jose94** (2)
+* **Jose94** (2) [860406](https://platzi.com/comentario/860406/) 
 
-	
 	Habría sido mejor, que si se quiere ser más didáctica y menos confusa la explicación, no poner el nombre de las variables como ‘direccion’, para que no haya una confusión de términos.
 
-* **LegaCode** (2)
+* **LegaCode** (2) [577536](https://platzi.com/comentario/577536/) 
 
-	
 	 _Falle en los 2 mini retos que dio el profe 😦 pero aprendí algo muy loco como dicen mis compañeros es realmente interesante para mas adelante implementarlo 😄 hasta el momento me encanta este curso_
 
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [574679](https://platzi.com/comentario/574679/) 
 
-	
 	Yo conocía al apuntador * como operador de indirection  
 	Y al ampersand como operador de dirección o referencia
 
-* **David Perez** (2)
+* **David Perez** (2) [570299](https://platzi.com/comentario/570299/) 
 
-	
 	La variable **Dirección** ahora es 3 porque al decir que la variable **ApuntadorADir** guarda la dirección en memoria de la variable **Direccion** le estamos dando a **ApuntadorADir** la capacidad de modificar lo que esté en esa dirección.
 
-* **Beicker** (2)
+* **Beicker** (2) [567611](https://platzi.com/comentario/567611/) 
 
-	
 	Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la creada de antemano. ¿Por qué yo querría reescribir el contenido de un lugar específico de la memoria ram de esta manera? ¿Para qué me puede servir esto en el desarrollo de videojuegos, por ejemplo?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [567611] (2)
 
-		
 		¡No los subestimes! Yo tampoco entendía muy bien sus casos de uso pero, de verdad, resultan sumamente útiles…
 		
 		Por ejemplo: Imagina que quieres modificar el valor de una variable desde una función diferente a donde la variable fue declarada inicialmente. ¿Cómo lo haces? Con apuntadores es literalmente magia.
 		
 		Un ejemplo: 👇
 		
-		  * [String to Char in C++](https://www.instagram.com/p/Bv4R2oGBg3-/)
+		* [String to Char in C++](https://www.instagram.com/p/Bv4R2oGBg3-/)
 		
 		
 
-	* **Danelia Sanchez Sanchez** (4)
+	* **Danelia Sanchez Sanchez** [567611] (4)
 
-		
 		Tal como dice @juandc, en algún momento necesitarás modificar el valor de tus variables en una función y eso lo haces con apuntadores. En C/C++ los argumentos que se pasan a una función (los valores de las variables) **son copias** de los originales y cualquier modificación que hagas con ellos en la función no altera su valor original. A esto se le llama **paso por valor** , pero en el **paso por referencia** los argumentos deben ser **direcciones de memoria** de las variables a modificar y los apuntadores almacenan direcciones de memoria. En este [enlace](https://www.programiz.com/cpp-programming/pointers-function) puedes leer más al respecto. Los apuntadores te permiten gestionar memoria de forma dinámica, es decir, puedes reservar y liberar espacio de memoria según se necesite durante la ejecución del programa. Un arreglo te permite guardar una cantidad específica de elementos pero, ¿y si necesitas eliminar elementos? puedes cambiar su valor pero el espacio de memoria reservado no se elimina hasta que termina el programa. Con apuntadores es diferente. Si quisieras hacer un videojuego donde tu héroe elimina a los enemigos podrías crearlos de forma dinámica y cuando son destruidos, liberar la memoria que ocupaban.
 
-	* **gusgonzalez060** (2)
+	* **gusgonzalez060** [567611] (2)
 
-		
 		Sumado a lo que comenta DaneSanchz, cuando pasas por valor un argumento se crea una copia dentro de la función de él, lo cual en grandes volúmenes de datos puede ser un caos. Con punteros haces referencia a la dirección de memoria del dato original sin crear una copia.
 
-	* **diego-serrano** (2)
+	* **diego-serrano** [567611] (2)
 
-		
 		Esto significa que un apuntador podria ser como una variable global o de servidor en un lenguage de mas alto nivel.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [567611] (1)
 
-		
 		Te recomiendo esta clase: <https://platzi.com/clases/1740-lenguaje-c/24213-usos-practicos-de-los-punteros/>. 😉
 
-* **Rafael Pardo Rodriguez** (2)
+* **Rafael Pardo Rodriguez** (2) [563700](https://platzi.com/comentario/563700/) 
 
-	
 	No hay que crear necesariamente una variable, se puede imprimir directamente el lugar en memoria, solo se crea una varaible con el apuntador para poder interactuar con ella directametne.
 	``` 
 	    #include<iostream>
@@ -1973,45 +1795,38 @@ Los **apuntadores** son como cualquier otra variable pero, en vez de guardar tex
 	    
 	```
 
-* **Juan David Castro (Platzi)** (2)
+* **Juan David Castro (Platzi)** (2) [562916](https://platzi.com/comentario/562916/) 
 
-	
 	Un recurso interesante sobre los apuntadores: <http://www.utm.mx/~mgarcia/PE7(Apuntadores).pdf>
 
-* **jesus-romero-rivera** (2)
+* **jesus-romero-rivera** (2) [562736](https://platzi.com/comentario/562736/) 
 
-	
 	Wow! Aprendiendo cosas nuevas 😃
 
-* **lechesdarwin** (2)
+* **lechesdarwin** (2) [70863](https://platzi.com/comentario/784007/) 
 Profe tengo algo que me esta rompiendo la cabeza!Cual los parametros de la funciones se destruyen al finalizar la funcion?
 
-* **Anthonny Romero Rodriguez** (1)
+* **Anthonny Romero Rodriguez** (1) [1101318](https://platzi.com/comentario/1101318/) 
 
-	
 	que buen video.
 
-* **josepmirplatzi** (1)
+* **josepmirplatzi** (1) [1098031](https://platzi.com/comentario/1098031/) 
 
-	
 	buen video!
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1084995](https://platzi.com/comentario/1084995/) 
 * Apuntador & Dirección de
 
-* **romerodiesan** (1)
+* **romerodiesan** (1) [1049887](https://platzi.com/comentario/1049887/) 
 
-	
 	Yo pensé que no teníamos apuntadores en C++. Dios, que no me libro de ellos.
 
-* **saul-mdo** (1)
+* **saul-mdo** (1) [1021077](https://platzi.com/comentario/1021077/) 
 
-	
 	3, 1337
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [1013670](https://platzi.com/comentario/1013670/) 
 
-	
 	También se puede apuntar hacia funciones
 	``` 
 	    #include<iostream>
@@ -2033,14 +1848,12 @@ Profe tengo algo que me esta rompiendo la cabeza!Cual los parametros de la funci
 	    
 	```
 
-* **marco antonio** (1)
+* **marco antonio** (1) [958861](https://platzi.com/comentario/958861/) 
 
-	
 	cuanto tiempo ha pasado, en mis tiempos los conocíamos como punteros XD
 
-* **darth-revan** (1)
+* **darth-revan** (1) [848516](https://platzi.com/comentario/848516/) 
 
-	
 	Usando punteros 😄
 	``` 
 	    #include<iostream>
@@ -2065,83 +1878,71 @@ Profe tengo algo que me esta rompiendo la cabeza!Cual los parametros de la funci
 	    
 	```
 
-* **Pablo Tonato** (1)
+* **Pablo Tonato** (1) [841658](https://platzi.com/comentario/841658/) 
 
-	
 	Imprime la direccion de la memoria
 
-* **jameskristof** (1)
+* **jameskristof** (1) [815887](https://platzi.com/comentario/815887/) 
 
-	
 	Imprime la dirección de la memoria 0xFFFF
 
-* **jameskristof** (1)
+* **jameskristof** (1) [815883](https://platzi.com/comentario/815883/) 
 
-	
 	Imprime 3
 
-* **GibsPM** (1)
+* **GibsPM** (1) [787183](https://platzi.com/comentario/787183/) 
 
-	
 	Imprime 3
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [641342](https://platzi.com/comentario/641342/) 
 
-	
 	Diablos, pensé que imprimiría 3509
 
-* **Gabriela Rincon Ramirez** (1)
+* **Gabriela Rincon Ramirez** (1) [640317](https://platzi.com/comentario/640317/) 
 
-	
 	3
 
-* **Roger Almengor Gonzalez** (1)
+* **Roger Almengor Gonzalez** (1) [624830](https://platzi.com/comentario/624830/) 
 Variable que guarda un número que a su vez es la dirección de memoria de la variante guardada
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [610028](https://platzi.com/comentario/610028/) 
 
-	
 	Yo pense que iva a imprimir 3.
 
-* **durbonca** (1)
+* **durbonca** (1) [609214](https://platzi.com/comentario/609214/) 
 
-	
 	3…
 	
 	mi apuntador original tenia 14 caracteres… a que se debe esto?
 
-* **agustiniturbee** (1)
+* **agustiniturbee** (1) [602261](https://platzi.com/comentario/602261/) 
 
-	
 	3
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [592039](https://platzi.com/comentario/592039/) 
 
-	
 	3
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [580071](https://platzi.com/comentario/580071/) 
 
-	
 	imprimirá = 3
 
-* **Beicker** (1)
+* **Beicker** (1) [57648](https://platzi.com/comentario/567611/) 
 Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la creada de antemano. ¿Por qué yo querría reescribir el con...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [57648] (2)
 
-		
 		¡No los subestimes! Yo tampoco entendía muy bien sus casos de uso pero, de verdad, resultan sumamente útiles…
 		
 		Por ejemplo: Imagina que quieres modificar el valor de una variable desde una función diferente a donde la variable fue declarada inicialmente. ¿Cómo lo haces? Con apuntadores es literalmente magia.
 		
 		Un ejemplo: 👇
 		
-		  * [String to Char in C++](https://www.instagram.com/p/Bv4R2oGBg3-/)
+		* [String to Char in C++](https://www.instagram.com/p/Bv4R2oGBg3-/)
 		
 		
 
-## 0120. Reto Escribir un programa que calcule áreas.
+## 0120. Reto Escribir un programa que calcule áreas. [19116](https://platzi.com/clases/1545-c-plus-plus/19116-reto-escribir-un-programa-que-calcule-areas/)
 
 ### Descripción:
 
@@ -2159,8 +1960,9 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 
 ### Comentarios:
 
-* **aarongabriel420** (4)
-![areas.png](https://static.platzi.com/media/user_upload/areas-799bb883-6f10-4ea9-b2d2-6b4ba0248ecf.jpg)
+* **aarongabriel420** (4) [740906](https://platzi.com/comentario/740906/) 
+	
+	![areas.png](https://static.platzi.com/media/user_upload/areas-799bb883-6f10-4ea9-b2d2-6b4ba0248ecf.jpg)
 	``` 
 	    #include<iostream>
 	    
@@ -2202,10 +2004,11 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Ricardo Andres Gomez Villalobos** (2)
-![Areas.JPG](https://static.platzi.com/media/user_upload/Areas-a4fbeac0-1f9d-4582-8289-53d23968a9eb.jpg)
+* **Ricardo Andres Gomez Villalobos** (2) [1086681](https://platzi.com/comentario/1086681/) 
+	
+	![Areas.JPG](https://static.platzi.com/media/user_upload/Areas-a4fbeac0-1f9d-4582-8289-53d23968a9eb.jpg)
 
-* **Josemanuel Sifontes** (2)
+* **Josemanuel Sifontes** (2) [1069049](https://platzi.com/comentario/1069049/) 
 
 	```
 	    #include<iostream>
@@ -2247,9 +2050,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **JorgeChan** (2)
+* **JorgeChan** (2) [1038436](https://platzi.com/comentario/1038436/) 
 
-	
 	Soy un poco mas avanzado pero vine a ayudar, esto es otra forma donde le preguntas al usuario que figura es la que quiere. Espero les sea de utilidad.
 	``` 
 	    <code>
@@ -2290,9 +2092,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	}
 
-* **Ronald Alexander Palacios Garrido** (2)
+* **Ronald Alexander Palacios Garrido** (2) [1031638](https://platzi.com/comentario/1031638/) 
 
-	
 	Hola! Primer reto alcanzado 😃 Programa en C++ que calcular el área de 3 figuras geométricas diferentes.** Es importante destacar que la esfera es un cuerpo geométrico**
 	``` 
 	    #include<iostream>
@@ -2346,9 +2147,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Steven Matias** (2)
+* **Steven Matias** (2) [1001923](https://platzi.com/comentario/1001923/) 
 
-	
 	**Logrado!**  
 	Con este codigo le permito al usuario ingresar el radio de su figura y luego calculo el area.
 	``` 
@@ -2377,22 +2177,20 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **kevingerardomendez** (2)
-![DeepinScreenshot_20200215220451.png](https://static.platzi.com/media/user_upload/DeepinScreenshot_20200215220451-3f10d3fc-a4b8-4436-a130-e36b103f8f7e.jpg)
+* **kevingerardomendez** (2) [987866](https://platzi.com/comentario/987866/) 
+	
+	![DeepinScreenshot_20200215220451.png](https://static.platzi.com/media/user_upload/DeepinScreenshot_20200215220451-3f10d3fc-a4b8-4436-a130-e36b103f8f7e.jpg)
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [987866] (1)
 
-		
 		Falta una “f” al lado del número Pi.
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [987866] (1)
 
-		
 		Ah y qué paquetes usaste para c++ en atom? Yo también quisiera usarlo ahí pero no sé qué necesito para que pueda programarlo, compilarlo y ejecutarlo en consola
 
-* **arielr85** (2)
+* **arielr85** (2) [979295](https://platzi.com/comentario/979295/) 
 
-	
 	Reto
 	``` 
 	    <#include<iostream>
@@ -2416,9 +2214,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (2)
+* **Antonio Rafael González Ferrer** (2) [886182](https://platzi.com/comentario/886182/) 
 
-	
 	**Reto Áreas**
 	``` 
 	    #include<iostream>
@@ -2445,9 +2242,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **darth-revan** (2)
+* **darth-revan** (2) [848575](https://platzi.com/comentario/848575/) 
 
-	
 	Ejercicio resuelto 😄
 	``` 
 	    #include<iostream>
@@ -2478,7 +2274,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **danl.rs** (2)
+* **danl.rs** (2) [744253](https://platzi.com/comentario/744253/) 
 
 	```
 	    #include<iostream>
@@ -2506,12 +2302,12 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **thegiotube** (2)
-![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-e8769b17-aa77-408a-a28d-7ad5a8f9a85e.jpg)
-
-* **joshevillacorta** (2)
-
+* **thegiotube** (2) [740923](https://platzi.com/comentario/740923/) 
 	
+	![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-e8769b17-aa77-408a-a28d-7ad5a8f9a85e.jpg)
+
+* **joshevillacorta** (2) [733034](https://platzi.com/comentario/733034/) 
+
 	`#include <iostream>  
 	using namespace std;
 	
@@ -2531,9 +2327,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	}`
 
-* **Piero Acevedo** (2)
+* **Piero Acevedo** (2) [729381](https://platzi.com/comentario/729381/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -2568,9 +2363,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	}
 
-* **Koumori** (2)
+* **Koumori** (2) [639956](https://platzi.com/comentario/639956/) 
 
-	
 	:3
 	``` 
 	    #include<iostream>
@@ -2593,7 +2387,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Ricardo Antonio Prada Rojas** (1)
+* **Ricardo Antonio Prada Rojas** (1) [1106662](https://platzi.com/comentario/1106662/) 
 
 	```
 	    #include<iostream>
@@ -2627,7 +2421,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **kevinlujan16** (1)
+* **kevinlujan16** (1) [1101650](https://platzi.com/comentario/1101650/) 
 
 	```
 	    #include<iostream>
@@ -2655,7 +2449,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Jorge Hernández** (1)
+* **Jorge Hernández** (1) [1100406](https://platzi.com/comentario/1100406/) 
 
 	```
 	    #include<iostream>
@@ -2687,7 +2481,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Brayan Potosi Dominguez** (1)
+* **Brayan Potosi Dominguez** (1) [1099828](https://platzi.com/comentario/1099828/) 
 
 	```
 	    #include<iostream>
@@ -2731,7 +2525,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [1099259](https://platzi.com/comentario/1099259/) 
 
 	```
 	    #include<iostream>
@@ -2754,13 +2548,15 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **josepmirplatzi** (1)
-![2020-04-05 18_06_01-Window.png](https://static.platzi.com/media/user_upload/2020-04-05%2018_06_01-Window-3b4893d1-4fdb-43f2-81a9-fc07f8d7fe70.jpg)
+* **josepmirplatzi** (1) [1098201](https://platzi.com/comentario/1098201/) 
+	
+	![2020-04-05 18_06_01-Window.png](https://static.platzi.com/media/user_upload/2020-04-05%2018_06_01-Window-3b4893d1-4fdb-43f2-81a9-fc07f8d7fe70.jpg)
 
-* **Carlos José González Juan** (1)
-![2020-03-26_04h48_45.png](https://static.platzi.com/media/user_upload/2020-03-26_04h48_45-4fd96010-7a47-4bc3-907f-bdb78749112f.jpg)
+* **Carlos José González Juan** (1) [1066140](https://platzi.com/comentario/1066140/) 
+	
+	![2020-03-26_04h48_45.png](https://static.platzi.com/media/user_upload/2020-03-26_04h48_45-4fd96010-7a47-4bc3-907f-bdb78749112f.jpg)
 
-* **JosueM** (1)
+* **JosueM** (1) [1034224](https://platzi.com/comentario/1034224/) 
 
 	```
 	    #include <iostream>
@@ -2793,7 +2589,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **jegolvera** (1)
+* **jegolvera** (1) [1030553](https://platzi.com/comentario/1030553/) 
 
 	```
 	    #include<iostream>
@@ -2827,9 +2623,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Ivan_Romero** (1)
+* **Ivan_Romero** (1) [1027790](https://platzi.com/comentario/1027790/) 
 
-	
 	Reto Cumplido
 	``` 
 	    #include<iostream>
@@ -2855,9 +2650,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **davidhdez8** (1)
+* **davidhdez8** (1) [1026491](https://platzi.com/comentario/1026491/) 
 
-	
 	Hecho! 😃
 	``` 
 	    #include<iostream>
@@ -2895,9 +2689,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Sergio.Ospina** (1)
+* **Sergio.Ospina** (1) [1024949](https://platzi.com/comentario/1024949/) 
 
-	
 	Ready¡
 	``` 
 	    #include<iostream>
@@ -2922,7 +2715,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1001591](https://platzi.com/comentario/1001591/) 
 
 	```
 	    #include<iostream>
@@ -2948,9 +2741,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Luis Jose Altamirano** (1)
+* **Luis Jose Altamirano** (1) [995995](https://platzi.com/comentario/995995/) 
 
-	
 	Reto Cumplido 😃 !!!
 	``` 
 	    #include<string>
@@ -2973,14 +2765,14 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Angel Reynaldo Madan** (1)
-![](!%5Breto1c++.PNG%5D\(https://static.platzi.com/media/user_upload/reto1c%2B%2B-fdc5a92d-902e-4b8f-8f1d-8d426242a4d5.jpg\))
+* **Angel Reynaldo Madan** (1) [987063](https://platzi.com/comentario/987063/) 
+	
+	![](!%5Breto1c++.PNG%5D\(https://static.platzi.com/media/user_upload/reto1c%2B%2B-fdc5a92d-902e-4b8f-8f1d-8d426242a4d5.jpg\))
 	
 	yia
 
-* **arielr85** (1)
+* **arielr85** (1) [979337](https://platzi.com/comentario/979337/) 
 
-	
 	Reto Circulo
 	``` 
 	    <#include<iostream>
@@ -3016,7 +2808,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **guillermogranado** (1)
+* **guillermogranado** (1) [974062](https://platzi.com/comentario/974062/) 
 
 	```
 	    #include<iostream>
@@ -3062,7 +2854,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **marco antonio** (1)
+* **marco antonio** (1) [958963](https://platzi.com/comentario/958963/) 
 
 	```
 	    #include<iostream>
@@ -3109,7 +2901,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	[](url)<https://drive.google.com/file/d/1t30YtNdX99MpQFHpa-27j0SjIZAy1Hc3/view?usp=sharing>
 
-* **Alejandro Resendiz** (1)
+* **Alejandro Resendiz** (1) [955239](https://platzi.com/comentario/955239/) 
 
 	```
 	    #include<iostream>
@@ -3127,10 +2919,11 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Jefferson Rodriguez** (1)
-![PlatziCourse.png](https://static.platzi.com/media/user_upload/PlatziCourse-febe4b11-0519-42dc-aba1-8779649537de.jpg)
+* **Jefferson Rodriguez** (1) [954940](https://platzi.com/comentario/954940/) 
+	
+	![PlatziCourse.png](https://static.platzi.com/media/user_upload/PlatziCourse-febe4b11-0519-42dc-aba1-8779649537de.jpg)
 
-* **IJPaz** (1)
+* **IJPaz** (1) [940360](https://platzi.com/comentario/940360/) 
 
 	```
 	    #include<iostream>
@@ -3155,7 +2948,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [938091](https://platzi.com/comentario/938091/) 
 
 	```
 	    #include<iostream>
@@ -3175,7 +2968,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **starlinjpb** (1)
+* **starlinjpb** (1) [937641](https://platzi.com/comentario/937641/) 
 
 	```
 	    <#include<iostream>
@@ -3201,10 +2994,11 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Gianmarco Palacios Frisancho** (1)
-![reto areas.JPG](https://static.platzi.com/media/user_upload/reto%20areas-e4ffa305-4f96-4b16-97c3-2969b20378b8.jpg)
+* **Gianmarco Palacios Frisancho** (1) [916235](https://platzi.com/comentario/916235/) 
+	
+	![reto areas.JPG](https://static.platzi.com/media/user_upload/reto%20areas-e4ffa305-4f96-4b16-97c3-2969b20378b8.jpg)
 
-* **Jorge Colín** (1)
+* **Jorge Colín** (1) [903754](https://platzi.com/comentario/903754/) 
 
 	```
 	    <float pi = 3.1416;
@@ -3222,12 +3016,12 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Armando Ruiz Yen** (1)
-![Imagen1.png](https://static.platzi.com/media/user_upload/Imagen1-9c23a5a9-a767-49a3-b9dd-59848a45d96d.jpg)
-
-* **Luis Enrique Zambrano** (1)
-
+* **Armando Ruiz Yen** (1) [901536](https://platzi.com/comentario/901536/) 
 	
+	![Imagen1.png](https://static.platzi.com/media/user_upload/Imagen1-9c23a5a9-a767-49a3-b9dd-59848a45d96d.jpg)
+
+* **Luis Enrique Zambrano** (1) [894654](https://platzi.com/comentario/894654/) 
+
 	Esta fue la manera que la realice yo el ejercicio (es primera vez que escribo )
 	
 	El programa me funciono, por unos minutos estuve pensando por que no me funcionaba y no me había dado cuanta del **float**
@@ -3260,9 +3054,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    ...
 	```
 
-* **josafat-jauregui** (1)
+* **josafat-jauregui** (1) [894431](https://platzi.com/comentario/894431/) 
 
-	
 	 **Ahi va mi aporte**
 	``` 
 	    #include<iostream>
@@ -3284,7 +3077,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [890979](https://platzi.com/comentario/890979/) 
 
 	```
 	    #include<iostream>
@@ -3307,9 +3100,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Juan Marcos Caicedo Mejía** (1)
+* **Juan Marcos Caicedo Mejía** (1) [881824](https://platzi.com/comentario/881824/) 
 
-	
 	Comparto un código sencillo, con lo que se ha visto hasta el curso, para solucionarlo, sin añadir librerías que no se han visto ni siendo sofisticados:
 	``` 
 	    #include<iostream>
@@ -3333,9 +3125,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Espasa** (1)
+* **Espasa** (1) [876798](https://platzi.com/comentario/876798/) 
 
-	
 	Yo incluí dos librerías numéricas:
 	``` 
 	    #include<math.h>
@@ -3365,9 +3156,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	Surface of a sphere: 314.159  
 	`
 
-* **davidegc** (1)
+* **davidegc** (1) [875634](https://platzi.com/comentario/875634/) 
 
-	
 	Ejercicio de la esfera
 	``` 
 	    #include<iostream>
@@ -3388,9 +3178,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **davidegc** (1)
+* **davidegc** (1) [875629](https://platzi.com/comentario/875629/) 
 
-	
 	Área del circulo
 	``` 
 	    #include<iostream>
@@ -3412,7 +3201,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Gael361** (1)
+* **Gael361** (1) [873927](https://platzi.com/comentario/873927/) 
 
 	```
 	    #include<stdio.h>
@@ -3442,9 +3231,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Imanol Yen Quispe** (1)
+* **Imanol Yen Quispe** (1) [872207](https://platzi.com/comentario/872207/) 
 
-	
 	Con la librería math.h , con la que me facilité escribir potencias
 	``` 
 	    #include<iostream>
@@ -3467,7 +3255,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Felipe Hernandez** (1)
+* **Felipe Hernandez** (1) [871062](https://platzi.com/comentario/871062/) 
 
 	```
 	    <#include<iostream>
@@ -3495,9 +3283,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **luis Ley** (1)
+* **luis Ley** (1) [868356](https://platzi.com/comentario/868356/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -3512,9 +3299,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	return 0;  
 	}
 
-* **luis Ley** (1)
+* **luis Ley** (1) [868354](https://platzi.com/comentario/868354/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -3529,9 +3315,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	return 0;  
 	}
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [867286](https://platzi.com/comentario/867286/) 
 
-	
 	CON CIN Y COUT
 	``` 
 	    #include<iostream>
@@ -3557,7 +3342,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [867262](https://platzi.com/comentario/867262/) 
 
 	```
 	    #include<iostream>
@@ -3583,7 +3368,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Alirio Alejandro Angel Arenas** (1)
+* **Alirio Alejandro Angel Arenas** (1) [861084](https://platzi.com/comentario/861084/) 
 
 	```
 	    #include<iostream>
@@ -3603,7 +3388,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Luis Tapia** (1)
+* **Luis Tapia** (1) [859013](https://platzi.com/comentario/859013/) 
 
 	```
 	    #include<iostream>
@@ -3635,7 +3420,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Luigi619** (1)
+* **Luigi619** (1) [858698](https://platzi.com/comentario/858698/) 
 
 	```
 	    #include<iostream>
@@ -3660,7 +3445,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **JohanB11** (1)
+* **JohanB11** (1) [854225](https://platzi.com/comentario/854225/) 
 
 	```
 	    #include<iostream>
@@ -3699,9 +3484,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Daniel Sanchez** (1)
+* **Daniel Sanchez** (1) [841952](https://platzi.com/comentario/841952/) 
 
-	
 	Pues asi me quedo 😄
 	``` 
 	    <#include<iostream>
@@ -3734,9 +3518,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Bray Sebastián Marín Garcia** (1)
+* **Bray Sebastián Marín Garcia** (1) [830921](https://platzi.com/comentario/830921/) 
 
-	
 	Aquí mi código :3
 	``` 
 	    #include<iostream>
@@ -3764,9 +3547,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-	* **Bray Sebastián Marín Garcia** (1)
+	* **Bray Sebastián Marín Garcia** [830921] (1)
 
-		
 		Y aquí hice otro usando funciones 😄
 		``` 
 		    #include<iostream>
@@ -3810,7 +3592,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 		    
 		```
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [827359](https://platzi.com/comentario/827359/) 
 
 	```
 	    #include<iostream>
@@ -3838,7 +3620,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **jose Ignacio Hidalgo Chacin** (1)
+* **jose Ignacio Hidalgo Chacin** (1) [823194](https://platzi.com/comentario/823194/) 
 
 	```
 	    #include<iostream>
@@ -3884,9 +3666,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Bristol123** (1)
+* **Bristol123** (1) [823006](https://platzi.com/comentario/823006/) 
 
-	
 	el de la esfera:
 	
 	/ _Escribir un programa que calcule áreas_ /
@@ -3915,13 +3696,12 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	}
 
-* **linkpj** (1)
+* **linkpj** (1) [804144](https://platzi.com/comentario/804144/) 
 
-	
 	 **Reto**  
 	![c++1.PNG](https://static.platzi.com/media/user_upload/c%2B%2B1-f17cfa7f-e1eb-49d3-8f4b-43e5c7b01441.jpg)
 
-* **julian-leal** (1)
+* **julian-leal** (1) [801446](https://platzi.com/comentario/801446/) 
 
 	```
 	    #include<iostream>
@@ -3953,9 +3733,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [789928](https://platzi.com/comentario/789928/) 
 
-	
 	**Área de un círculo**
 	``` 
 	    #include<iostream>
@@ -4006,7 +3785,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	Y [acá](https://repl.it/@GibranPM/Area-de-una-esfera) se le ve funcionar.
 
-* **Jalile Herrera Ramírez** (1)
+* **Jalile Herrera Ramírez** (1) [787393](https://platzi.com/comentario/787393/) 
 
 	```
 	    #include<iostream>
@@ -4030,9 +3809,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [786949](https://platzi.com/comentario/786949/) 
 
-	
 	int main()  
 	{  
 	cout << “Hello world!” << endl;
@@ -4047,9 +3825,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **kendho** (1)
+* **kendho** (1) [757955](https://platzi.com/comentario/757955/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -4066,9 +3843,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	return 0;  
 	}
 
-* **Kevin Santiago Rey Rodriguez** (1)
+* **Kevin Santiago Rey Rodriguez** (1) [752877](https://platzi.com/comentario/752877/) 
 
-	
 	#Include <iostream>  
 	#include <math.h>  
 	using namespace std;  
@@ -4080,7 +3856,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	return 0;  
 	}
 
-* **yairmendo** (1)
+* **yairmendo** (1) [729185](https://platzi.com/comentario/729185/) 
 
 	```
 	    #include<iostream>
@@ -4107,7 +3883,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **omaredu** (1)
+* **omaredu** (1) [720112](https://platzi.com/comentario/720112/) 
 
 	```
 	    //area y volumen
@@ -4153,9 +3929,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **estuardo-villagran** (1)
+* **estuardo-villagran** (1) [715461](https://platzi.com/comentario/715461/) 
 
-	
 	int main()  
 	{  
 	cout << “calcular el area de figuras geometricas” << endl;  
@@ -4173,33 +3948,30 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	}
 
-* **Juan Camilo Valencia Jaramillo** (1)
+* **Juan Camilo Valencia Jaramillo** (1) [709184](https://platzi.com/comentario/709184/) 
 
-	
 	Mi resultado:  
 	![ejemplo.png](https://static.platzi.com/media/user_upload/ejemplo-fe9db2bd-128a-4803-87fe-9de353e02510.jpg)
 
-* **José Padrón** (1)
+* **José Padrón** (1) [708802](https://platzi.com/comentario/708802/) 
 
-	
 	Cumpliendo **Reto** :
 	
 	Usé el mismo Radio para sacar el resultado de la Esfera y del Circulo.
 	
 	![Captura de pantalla de 2019-08-26 20-38-27.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-08-26%2020-38-27-abf1f026-10e1-4472-b7ad-8579ecbdc880.jpg)
 
-* **sebastianballen** (1)
-![Areas.png](https://static.platzi.com/media/user_upload/Areas-3c5928bd-012d-4951-a5e9-f9293efe2bc7.jpg)
-
-* **Edi24** (1)
-
+* **sebastianballen** (1) [705796](https://platzi.com/comentario/705796/) 
 	
+	![Areas.png](https://static.platzi.com/media/user_upload/Areas-3c5928bd-012d-4951-a5e9-f9293efe2bc7.jpg)
+
+* **Edi24** (1) [697062](https://platzi.com/comentario/697062/) 
+
 	Creo que era algo asi.  
 	![](![Areas.png](https://static.platzi.com/media/user_upload/Areas-92608b4a-132b-4d8c-a787-6b61e9418673.jpg)
 
-* **Riunusuke** (1)
+* **Riunusuke** (1) [695398](https://platzi.com/comentario/695398/) 
 
-	
 	El primero:
 	``` 
 	    #include<iostream>
@@ -4245,9 +4017,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **enmtifa** (1)
+* **enmtifa** (1) [693198](https://platzi.com/comentario/693198/) 
 
-	
 	Hola buenas tardes,
 	
 	Aquí adjunto mi código
@@ -4271,7 +4042,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **1234Alejo12** (1)
+* **1234Alejo12** (1) [689020](https://platzi.com/comentario/689020/) 
 
 	```
 	    #include<iostream>
@@ -4286,9 +4057,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Leo Bellier** (1)
+* **Leo Bellier** (1) [684283](https://platzi.com/comentario/684283/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -4318,7 +4088,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	
 	}
 
-* **steven-alejandro-sanchez** (1)
+* **steven-alejandro-sanchez** (1) [681593](https://platzi.com/comentario/681593/) 
 
 	```
 	    <
@@ -4345,12 +4115,11 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Diana Lucerito Garcia Moreno** (1)
+* **Diana Lucerito Garcia Moreno** (1) [680417](https://platzi.com/comentario/680417/) 
 
-	
 	[](https://photos.app.goo.gl/pJ1w37kTFr1mXcCNA)
 
-* **juan carlos carlos** (1)
+* **juan carlos carlos** (1) [679619](https://platzi.com/comentario/679619/) 
 
 	```
 	    #include<iostream>
@@ -4371,9 +4140,8 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **GersonPc** (1)
+* **GersonPc** (1) [679116](https://platzi.com/comentario/679116/) 
 
-	
 	Creo que quedo algo simple pero funciona
 	``` 
 	    #include<iostream>
@@ -4394,7 +4162,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Luis Eduardo Ortega Rojas** (1)
+* **Luis Eduardo Ortega Rojas** (1) [676155](https://platzi.com/comentario/676155/) 
 
 	```
 	    #include<iostream>
@@ -4450,27 +4218,24 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [667423](https://platzi.com/comentario/667423/) 
 
-	
 	Les dejo el link del programa que hice. Este programa tiene un menú para escoger el área de qué figura quieres sacar: _rectángulo, circulo o triángulo_.
 	
 	![Capture.PNG](https://static.platzi.com/media/user_upload/Capture-ec5b610e-d1e6-4b4e-a301-8e5ee0ca0ce7.jpg)  
 	[Area - alanzzant](https://github.com/alanzzant/Area)
 
-	* **steven-alejandro-sanchez** (2)
+	* **steven-alejandro-sanchez** [667423] (2)
 
-		
 		wow
 
-* **Miguel_Echeverry** (1)
+* **Miguel_Echeverry** (1) [658070](https://platzi.com/comentario/658070/) 
 
-	
 	![Captura1.PNG](https://static.platzi.com/media/user_upload/Captura1-8d625690-4fb2-48c0-b4dd-9dae21ab3f8e.jpg)![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-6da7c5f4-b8e6-42b4-895e-403840efa063.jpg)![Captura3.PNG](https://static.platzi.com/media/user_upload/Captura3-a6e4df4d-619f-4fcd-bc73-c00cbaa86af2.jpg)![Captura4.PNG](https://static.platzi.com/media/user_upload/Captura4-a5617ea3-182a-4276-92e9-b120d9e75b1a.jpg)
 	
 	Mi aporte
 
-* **ajosue98** (1)
+* **ajosue98** (1) [655501](https://platzi.com/comentario/655501/) 
 
 	```
 	    #include<iostream>
@@ -4495,7 +4260,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Gabriela Rincon Ramirez** (1)
+* **Gabriela Rincon Ramirez** (1) [652622](https://platzi.com/comentario/652622/) 
 
 	```
 	    <#include<iostream>
@@ -4518,13 +4283,12 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Karina Betzabe Romero Ulloa** (1)
+* **Karina Betzabe Romero Ulloa** (1) [652158](https://platzi.com/comentario/652158/) 
 
-	
 	Aquí mi resultado, saludos.  
 	![image \(1\).png](https://static.platzi.com/media/user_upload/image%20%281%29-4704a2da-6fa8-485a-8802-8ab20275616f.jpg)
 
-* **carlosmariomolanosalazar** (1)
+* **carlosmariomolanosalazar** (1) [649951](https://platzi.com/comentario/649951/) 
 
 	```
 	    #include<iostream>
@@ -4550,7 +4314,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **steven-alejandro-sanchez** (1)
+* **steven-alejandro-sanchez** (1) [649674](https://platzi.com/comentario/649674/) 
 
 	```
 	    <# include<iostream>
@@ -4572,7 +4336,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Jesús Everardo Bermúdez Rodríguez** (1)
+* **Jesús Everardo Bermúdez Rodríguez** (1) [647665](https://platzi.com/comentario/647665/) 
 
 	```
 	    #include<iostream>
@@ -4598,13 +4362,12 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **john jairo lopez ramirez** (1)
+* **john jairo lopez ramirez** (1) [642258](https://platzi.com/comentario/642258/) 
 
-	
 	Bueno esto es lo que me salio  
 	![2019-07-08.png](https://static.platzi.com/media/user_upload/2019-07-08-2f370164-50fb-4e35-856b-491a8dcdfdc1.jpg)
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [641382](https://platzi.com/comentario/641382/) 
 
 	```
 	    #include<iostream>
@@ -4630,7 +4393,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Jair Botello Contreras** (0)
+* **Jair Botello Contreras** (0) [1104813](https://platzi.com/comentario/1104813/) 
 
 	```
 	    #include<iostream>
@@ -4656,7 +4419,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **Joel Francisco Huaman Rojas** (0)
+* **Joel Francisco Huaman Rojas** (0) [903550](https://platzi.com/comentario/903550/) 
 
 	```
 	    #include<iostream>
@@ -4680,7 +4443,7 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-* **garbull** (0)
+* **garbull** (0) [708059](https://platzi.com/comentario/708059/) 
 
 	```
 	    // agregué una librería llamada math.h que permite usar exponentes.
@@ -4705,9 +4468,9 @@ Esto a mí me parece lo mismo que crear otra variable y asignarle el valor de la
 	    
 	```
 
-# Entrada de datos y funciones
+# Entrada de datos y funciones [3824]
 
-## 0130. ¿Cómo introducir datos a nuestro programa
+## 0130. ¿Cómo introducir datos a nuestro programa [19072](https://platzi.com/clases/1545-c-plus-plus/19072-como-introducir-datos-a-nuestro-programa/)
 
 ### Descripción:
 
@@ -4718,8 +4481,8 @@ Vamos usar la librería `iostream`, la misma que usamos para imprimir texto en l
 
 Comandos para usar _iostream_ :
 
-  * `Cout`: Comando de flujo de **salida** de datos (generalmente en la consola).
-  * `Cin`: Comando de flujo de entrada de datos, el programa debe esperar a que el usuario introduzca los datos para continuar con su ejecución.
+* `Cout`: Comando de flujo de **salida** de datos (generalmente en la consola).
+* `Cin`: Comando de flujo de entrada de datos, el programa debe esperar a que el usuario introduzca los datos para continuar con su ejecución.
 
 
 
@@ -4742,32 +4505,27 @@ Por ejemplo:
 
 ### Comentarios:
 
-* **roDRYgo_0** (7)
+* **roDRYgo_0** (7) [562774](https://platzi.com/comentario/562774/) 
 
-	
 	console out => cout  
 	console in => cin
 
-* **David Perez** (3)
+* **David Perez** (3) [570369](https://platzi.com/comentario/570369/) 
 
-	
 	Para mostrar información en consola se utiliza la palabra reservada **cout** seguido de **< <** y lo que se quiera mostrar (Si es texto debe estar todo entre comillas).  
 	Para pedir datos de entrada por consola se emplea la palabra reservada **cin** seguido de **> >** y la variable donde se vaya a guardar los datos ingresados.  
 	Existe una función de cin para pedir cadenas de caracteres y guardarlos en un array, esta es **cin.getline**
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [570369] (1)
 
-		
 		¡¡¡¡GRAAAACIAAAAAASSSS!!!
 
-* **santiagojv11** (2)
+* **santiagojv11** (2) [840100](https://platzi.com/comentario/840100/) 
 
-	
 	Muy buena explicación
 
-* **Walter Barrios Vazquez** (2)
+* **Walter Barrios Vazquez** (2) [818730](https://platzi.com/comentario/818730/) 
 
-	
 	Podemos ingresar múltiples valores para diferentes variables con un solo **cin**.
 	``` 
 	    #include<iostream>
@@ -4788,47 +4546,40 @@ Por ejemplo:
 	
 	Saludos!
 
-* **Manuel Gil** (2)
+* **Manuel Gil** (2) [562816](https://platzi.com/comentario/562816/) 
 
-	
 	#include <iostream>  
 	cout << “mensaje” << endl;  
 	cin >> variable;
 	
 	`endl` es equivalente a ‘\n’ o salto de línea.
 
-	* **grupounillanos** (4)
+	* **grupounillanos** [562816] (4)
 
-		
 		Hola Manuel Puede que visualmente veamos una equivalencia, pero realmente existe una diferencia , te dejo este [link](https://es.stackoverflow.com/questions/14969/c-stdendl-vs-n), para que le des una leida rapida, suerte .
 
-	* **Manuel Gil** (2)
+	* **Manuel Gil** [562816] (2)
 
-		
 		Muchas gracias por el comentario @grupounillanos
 
-* **Armando_Alamilla** (2)
+* **Armando_Alamilla** (2) [562813](https://platzi.com/comentario/562813/) 
 
-	
 	Les recomiendo que tomen el [curso de programación estructurada](https://platzi.com/clases/programacion-estructurada/) de platzi, les servirá mucho ya que en él se ve el lenguaje C, similar a C++
 	
 	Para los que ya lo tomaron, pueden ver a “cout” como “printf” y “cin” como “scanf” en C.
 
-* **Ricardo Asin** (2)
+* **Ricardo Asin** (2) [562692](https://platzi.com/comentario/562692/) 
 
-	
 	cout: Imprime en pantalla.  
 	cin: Entrada de datos para ingresar.
 
-* **josepmirplatzi** (1)
+* **josepmirplatzi** (1) [1098279](https://platzi.com/comentario/1098279/) 
 
-	
 	Muy buena esta clase !  
 	![2020-04-05 18_38_14-Window.png](https://static.platzi.com/media/user_upload/2020-04-05%2018_38_14-Window-79a1599d-0c22-4374-b206-2dbe734d834c.jpg)
 
-* **franciscovelsa** (1)
+* **franciscovelsa** (1) [814121](https://platzi.com/comentario/814121/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -4858,12 +4609,12 @@ Por ejemplo:
 	
 	}
 
-* **thegiotube** (1)
-![Reto2.PNG](https://static.platzi.com/media/user_upload/Reto2-717efdf9-b906-433f-95bf-5fb2477dfa80.jpg)
-
-* **estuardo-villagran** (1)
-
+* **thegiotube** (1) [741001](https://platzi.com/comentario/741001/) 
 	
+	![Reto2.PNG](https://static.platzi.com/media/user_upload/Reto2-717efdf9-b906-433f-95bf-5fb2477dfa80.jpg)
+
+* **estuardo-villagran** (1) [718240](https://platzi.com/comentario/718240/) 
+
 	#include <iostream>
 	
 	using namespace std;
@@ -4895,7 +4646,7 @@ Por ejemplo:
 	
 	}
 
-* **steven-alejandro-sanchez** (1)
+* **steven-alejandro-sanchez** (1) [683299](https://platzi.com/comentario/683299/) 
 
 	```
 	    <
@@ -4938,9 +4689,8 @@ Por ejemplo:
 	    
 	```
 
-* **Eduardo_97A** (1)
+* **Eduardo_97A** (1) [587728](https://platzi.com/comentario/587728/) 
 
-	
 	Algo sencillo xD
 	``` 
 	    <code>
@@ -4969,26 +4719,23 @@ Por ejemplo:
 	    
 	```
 
-* **José Efrain Rivera de León** (1)
+* **José Efrain Rivera de León** (1) [563951](https://platzi.com/comentario/563951/) 
 
-	
 	este video creo que va antes del de  
 	-como usar condicionales.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [563951] (1)
 
-		
 		Ya fue corregido 🙌…
 
-* **Luis Tapia** (1)
+* **Luis Tapia** (1) [74776](https://platzi.com/comentario/859023/) 
 ¿Es necesario incluir “return = 0” al final del programa?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [74776] (2)
 
-		
 		Te recomiendo este tutorial: <https://www.quora.com/Why-do-we-use-a-return-0-at-the-end-of-a-main-function>. 😉
 
-## 0140. ¿Cómo usar condicionales
+## 0140. ¿Cómo usar condicionales [19073](https://platzi.com/clases/1545-c-plus-plus/19073-como-usar-condicionales/)
 
 ### Descripción:
 
@@ -4999,36 +4746,34 @@ Dicho de otra forma, los condicionales nos ayudan a identificar si una operació
 
 Operadores condicionales:
 
-  * **Menor que** (`<`, por ejemplo, `1 < 10 es verdadero`)
-  * **Mayor que** (`>`, por ejemplo, `1 > 10 es falso`)
-  * **Igual que** (`==`, por ejemplo, `100 == 100 es verdadero`, recuerda no confundirlo con el operador de asignación, `=`)
-  * **Menor o igual que** (`<=`, por ejemplo, `10 <= 10 es verdadero`)
-  * **Mayor o igual que** (`>=`, por ejemplo, `10 >= 10 es verdadero`)
-  * **Diferente que** (`!=`, por ejemplo, `10 != 10 es falso`)
+* **Menor que** (`<`, por ejemplo, `1 < 10 es verdadero`)
+* **Mayor que** (`>`, por ejemplo, `1 > 10 es falso`)
+* **Igual que** (`==`, por ejemplo, `100 == 100 es verdadero`, recuerda no confundirlo con el operador de asignación, `=`)
+* **Menor o igual que** (`<=`, por ejemplo, `10 <= 10 es verdadero`)
+* **Mayor o igual que** (`>=`, por ejemplo, `10 >= 10 es verdadero`)
+* **Diferente que** (`!=`, por ejemplo, `10 != 10 es falso`)
 
 
 
 Tipos de condicionales:
 
-  * **`IF`** : Nos permite ejecutar un bloque de código siempre y cuando el resultado de sus condiciones sea verdadero.
-  * **`ELSE`** : Nos permite ejecutar un bloque de código siempre y cuando las condiciones del condicional `if` **NO** se cumplan.
-  * **`SWTCH`** : Nos permite programar varios casos dependiendo de los posibles valores de una misma variable para ejecutar diferentes bloques de código dependiendo del caso o condición que se cumpla.
+* **`IF`** : Nos permite ejecutar un bloque de código siempre y cuando el resultado de sus condiciones sea verdadero.
+* **`ELSE`** : Nos permite ejecutar un bloque de código siempre y cuando las condiciones del condicional `if` **NO** se cumplan.
+* **`SWTCH`** : Nos permite programar varios casos dependiendo de los posibles valores de una misma variable para ejecutar diferentes bloques de código dependiendo del caso o condición que se cumpla.
 
 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [562920](https://platzi.com/comentario/562920/) 
 
-	
 	Profe profe racista de gatos no blancos 😒😩🐱
 
-	* **agustiniturbee** (1)
+	* **agustiniturbee** [562920] (1)
 
-		
 		AJJAJJAJAJAA
 
-* **steven-alejandro-sanchez** (2)
+* **steven-alejandro-sanchez** (2) [683337](https://platzi.com/comentario/683337/) 
 
 	```
 	    <#include<iostream>
@@ -5070,34 +4815,29 @@ Tipos de condicionales:
 	    
 	```
 
-* **akivosimcho** (2)
+* **akivosimcho** (2) [580158](https://platzi.com/comentario/580158/) 
 
-	
 	Muy buena interpretación de los signos relacionales!
 
-* **Krish Campos** (2)
+* **Krish Campos** (2) [562814](https://platzi.com/comentario/562814/) 
 
-	
 	Coriijan en la descripción el ejemplo de equivalencia  
 	100==100
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [562814] (2)
 
-		
 		Corregido. Gracias por el reporte.
 
-* **Carlos José González Juan** (1)
+* **Carlos José González Juan** (1) [1080752](https://platzi.com/comentario/1080752/) 
 
-	
 	Una pregunta: Estoy viendo que el profesor pone como nombre de variable math. Esto no es una palabra reservada? Veo que se puede usar porque evidentemente lo esta usando y no da error, pero, por buenas practicas, no debería usar otro nombre de variable?  
 	Math es una librería para cálculos de matemáticas, si mal no recuerdo
 
-	* **Fabrizio López** (2)
+	* **Fabrizio López** [1080752] (2)
 Efectivamente es una librería, sin embargo, nunca importa esa librería así que el programa no conoce la clase "Math". Por eso no da error.
 
-* **davidhdez8** (1)
+* **davidhdez8** (1) [1031727](https://platzi.com/comentario/1031727/) 
 
-	
 	Aquí el código para que aparezca el mensaje del caso que no se cumpla la condición.
 	``` 
 	    #include<iostream>
@@ -5130,7 +4870,7 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **Luis Tapia** (1)
+* **Luis Tapia** (1) [859055](https://platzi.com/comentario/859055/) 
 
 	```
 	    #include<iostream>
@@ -5155,7 +4895,7 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **daoh94** (1)
+* **daoh94** (1) [806320](https://platzi.com/comentario/806320/) 
 
 	```
 	    intmain()
@@ -5209,9 +4949,8 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **kendho** (1)
+* **kendho** (1) [758849](https://platzi.com/comentario/758849/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -5233,39 +4972,36 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	}  
 	}
 
-* **GersonPc** (1)
+* **GersonPc** (1) [679268](https://platzi.com/comentario/679268/) 
 
-	
 	Jajaja Acaso discriminas a los gatos no blancos?
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [641406](https://platzi.com/comentario/641406/) 
 
-	
 	Si mi gato es blanco lo quiero, es medio racista xD
 
-* **Beicker** (1)
+* **Beicker** (1) [567627](https://platzi.com/comentario/567627/) 
 
-	
 	Para que no se confundan con los operadores “=” y “==”, solo piensen que el primero solo asigna un valor a una variable y el segundo no asigna nada, nos devuelve un valor de tipo **boolean** que dependerá de los valores que se comparen.
 
-* **Juan David Castro (Platzi)** (1)
+* **Juan David Castro (Platzi)** (1) [562918](https://platzi.com/comentario/562918/) 
 
-	
 	 _Truquito para no confundirse con el mayor y el menor que: La parte más grande del triángulo siempre debería apuntar (o comerse) al mayor y la más chica al menor._ 😬
 	
 	_`número grande> números chicos < número grande`_
 
-## 0150. Usando condicionales
+## 0150. Usando condicionales [19074](https://platzi.com/clases/1545-c-plus-plus/19074-usando-condicionales/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (6)
-![](https://instagram.fbog7-1.fna.fbcdn.net/vp/5b2eae9bf9189f67a6c485c76b35e4fe/5D2A88B4/t51.2885-15/e35/54800862_125056268600160_3811354530440625596_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
+* **Juan David Castro (Platzi)** (6) [562921](https://platzi.com/comentario/562921/) 
+	
+	![](https://instagram.fbog7-1.fna.fbcdn.net/vp/5b2eae9bf9189f67a6c485c76b35e4fe/5D2A88B4/t51.2885-15/e35/54800862_125056268600160_3811354530440625596_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
 
-	* **durbonca** (5)
+	* **durbonca** [562921] (5)
 
 		```
 		    #include<iostream>
@@ -5293,14 +5029,12 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 		    
 		```
 
-* **Danelia Sanchez Sanchez** (5)
+* **Danelia Sanchez Sanchez** (5) [564054](https://platzi.com/comentario/564054/) 
 
-	
 	Importante no olvidar la sentencia `break` en cada `case`, ya que si se omite se ejecutarán los demás casos.
 
-* **darth-revan** (2)
+* **darth-revan** (2) [849893](https://platzi.com/comentario/849893/) 
 
-	
 	Casos de la vida real 😄
 	``` 
 	    #include<iostream>
@@ -5327,7 +5061,7 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **steven-alejandro-sanchez** (2)
+* **steven-alejandro-sanchez** (2) [683321](https://platzi.com/comentario/683321/) 
 
 	```
 	    <
@@ -5358,7 +5092,7 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **kevinlujan16** (1)
+* **kevinlujan16** (1) [1105926](https://platzi.com/comentario/1105926/) 
 
 	```
 	    #include<iostream>
@@ -5386,9 +5120,8 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **Brayan Potosi Dominguez** (1)
+* **Brayan Potosi Dominguez** (1) [1099887](https://platzi.com/comentario/1099887/) 
 
-	
 	😅
 	``` 
 	    #include<iostream>
@@ -5418,7 +5151,7 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **danl.rs** (1)
+* **danl.rs** (1) [753301](https://platzi.com/comentario/753301/) 
 
 	```
 	    #include<iostream>
@@ -5468,51 +5201,44 @@ Efectivamente es una librería, sin embargo, nunca importa esa librería así qu
 	    
 	```
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [576219](https://platzi.com/comentario/576219/) 
 
-	
 	Las variables no inician con minúscula?? O la convención es diferente que con Java??
 
-	* **hector398** (2)
+	* **hector398** [576219] (2)
 
-		
 		Puedes iniciarlas con minúscula o mayúscula pero teniendo en cuenta que c++ es case sensitive con esto me refiero a que si declaras una variable Saludo con “S” mayúscula y otra variable saludo con “s” minúscula a pesar de que ambas sean la misma palabra c++ te las reconocerá como diferentes variables. Espero haberte ayudado ^^
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [576219] (1)
 
-		
 		Creo que te va a gustar esta guía: <https://gist.github.com/lefticus/10191322>. 😉
 
-* **Rafael Pardo Rodriguez** (1)
+* **Rafael Pardo Rodriguez** (1) [563777](https://platzi.com/comentario/563777/) 
 
-	
 	Hola, este capitulo de este anime, no va despues del cápitulo 13.¿Cómo usar condicionales?  
 	Creo que pierde el hilo del shonen.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [563777] (1)
 
-		
 		Corregido.
 
-* **IJPaz** (1)
+* **IJPaz** (1) [80786](https://platzi.com/comentario/966733/) 
 ¿Se puede usar en los cases de la condicional switch uno que diga: “case <5” para comparar el valor introducido? ¿o es exclusivo para...
 
-	* **Wonder Jhonny Diaz Gonzalez** (1)
+	* **Wonder Jhonny Diaz Gonzalez** [80786] (1)
 
-		
 		Hola,  
 		Algunos compiladores aceptan rangos como `case 0 ... 9`.  
 		Aquí te dejo unas alternativas para los Switch. [Fuente](https://stackoverflow.com/questions/9432226/how-do-i-select-a-range-of-values-in-a-switch-statement)
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [58379](https://platzi.com/comentario/576219/) 
 Las variables no inician con minúscula?? O la convención es diferente que con Java??
 
-	* **hector398** (2)
+	* **hector398** [58379] (2)
 
-		
 		Puedes iniciarlas con minúscula o mayúscula pero teniendo en cuenta que c++ es case sensitive con esto me refiero a que si declaras una variable Saludo con “S” mayúscula y otra variable saludo con “s” minúscula a pesar de que ambas sean la misma palabra c++ te las reconocerá como diferentes variables. Espero haberte ayudado ^^
 
-## 0160. ¿Cómo encapsular código en funciones
+## 0160. ¿Cómo encapsular código en funciones [19075](https://platzi.com/clases/1545-c-plus-plus/19075-como-encapsular-codigo-en-funciones/)
 
 ### Descripción:
 
@@ -5521,9 +5247,8 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 
 ### Comentarios:
 
-* **Armando_Alamilla** (4)
+* **Armando_Alamilla** (4) [563642](https://platzi.com/comentario/563642/) 
 
-	
 	Desde la primera clase hemos creado una función conocida como “función principal” que es el punto de partida de nuestro programa
 	``` 
 	    intmain(){
@@ -5535,17 +5260,15 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	
 	función de tipo entero, llamda “main”, no recibe parámetros y retorna un entero (0)
 
-	* **akivosimcho** (1)
+	* **akivosimcho** [563642] (1)
 
-		
 		Gracias por el aporte!
 
-	* **agustiniturbee** (1)
+	* **agustiniturbee** [563642] (1)
 
-		
 		Gracias
 
-* **Arturo_FrieS** (3)
+* **Arturo_FrieS** (3) [593014](https://platzi.com/comentario/593014/) 
 
 	```
 	    #include<stdlib.h>
@@ -5593,40 +5316,35 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	}  
 	Función: El cual nos ayuda a poder usar acentos y la letra Ñ.
 
-	* **daoh94** (2)
+	* **daoh94** [593014] (2)
 
-		
 		Hola, a pesar de que meto los include wchar.h y locale.h no funcionan los acentos y la Ñ ¿Podrías explicarme cómo puedo incluir la librería? Uso Visual Studio.
 
-	* **Arturo_FrieS** (1)
+	* **Arturo_FrieS** [593014] (1)
 
-		
 		#include <locale.h>   
 		setlocale(LC_CTYPE, “Spanish”);
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [562924](https://platzi.com/comentario/562924/) 
 
-	
 	 _Las funciones nos ayudan a guardar y ejecutar un mismo código una y otra vez sin necesidad de volver a escribir todas esas líneas de código por todo el programa; basta con escribirlas en nuestras funciones y llamar a las funciones para ejecutar el código._
 	
-	  * [Entendiendo las Funciones en C++ | Wikibooks](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Funciones)
-	  * [¿Qué es una FUNCIÓN (o un método) en programación?](https://lenguajesdeprogramacion.net/diccionario/que-es-una-funcion-o-metodo-en-programacion/)
-	  * [Qué es una función en programación | LinkedIn Learning](https://es.linkedin.com/learning/aprende-a-programar-en-cualquier-lenguaje/que-es-una-funcion-en-programacion)
+	* [Entendiendo las Funciones en C++ | Wikibooks](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Funciones)
+	* [¿Qué es una FUNCIÓN (o un método) en programación?](https://lenguajesdeprogramacion.net/diccionario/que-es-una-funcion-o-metodo-en-programacion/)
+	* [Qué es una función en programación | LinkedIn Learning](https://es.linkedin.com/learning/aprende-a-programar-en-cualquier-lenguaje/que-es-una-funcion-en-programacion)
 	
 	
 
-* **josearmandofernandez** (2)
+* **josearmandofernandez** (2) [580013](https://platzi.com/comentario/580013/) 
 
-	
 	Las funciones también nos ayudan a tener un código mas escalable, es decir que si se tiene un código de 5000 lineas dividido en 5 funciones de 1000 lineas cada función en archivos distintos, ahorrariamos mucho tiempo al momento de compilar.  
 	Si se tratara de un programa monolítico (Las 5000 lineas en un solo archivo sin funciones), al hacer una pequeña modificación tendríamos que compilar todo el programa demorando mas de lo debido, pero si lo hacemos de la primera manera dividimos el tiempo en 5 al realizar ajustes en nuestro código.
 
-* **David Perez** (2)
+* **David Perez** (2) [570379](https://platzi.com/comentario/570379/) 
 
-	
 	Las funciones conviene usarlas cuando detectes que hay un bloque de código que se requiera usar múltiples veces, esto hará que el código sea mas corto y mas eficiente. ✌
 
-* **Yasser Pulido** (2)
+* **Yasser Pulido** (2) [563764](https://platzi.com/comentario/563764/) 
 
 	```
 	    #include<iostream>
@@ -5644,9 +5362,8 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [849917](https://platzi.com/comentario/849917/) 
 
-	
 	Usando una funcion de tipo _int_ 😄
 	``` 
 	    #include<iostream>
@@ -5674,24 +5391,21 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	    
 	```
 
-* **Bristol123** (1)
+* **Bristol123** (1) [823262](https://platzi.com/comentario/823262/) 
 
-	
 	oigan alguien que me responda, por que el tipo de funcion es void? para que no regrese nada?, de ser asi entonces hay funciones de tipo int, char, float, etc… ?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [823262] (1)
 
-		
 		Así es, en los lenguajes tipados como C++ especificas de que tipo es la función así que si, existen funciones tipo int o tipo char. Bien visto! 😄  
 		  
 		Puedes leer más [acá](http://www.cplusplus.com/doc/tutorial/functions/)
 
-	* **Juan Marcos Caicedo Mejía** (1)
+	* **Juan Marcos Caicedo Mejía** [823262] (1)
 
-		
 		En efecto, Fernando, cuando el tipo de una función se dice que es **void** , quiere decir que dicha función no posee un valor de retorno, y sí, hay funciones que si son de tipo **int** , es porque debe haber un valor de retorno de tipo entero, y así con los demás tipos de funciones.
 
-* **1234Alejo12** (1)
+* **1234Alejo12** (1) [689104](https://platzi.com/comentario/689104/) 
 
 	```
 	    voidmostrarmatriz(int matriz[][40], int orden){
@@ -5705,9 +5419,8 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	    
 	```
 
-* **durbonca** (1)
+* **durbonca** (1) [565339](https://platzi.com/comentario/565339/) 
 
-	
 	Ejemplo de creacion de una funcion “Sumar” a la que se le entregan dos valores y regresa un resultado de la suma
 	``` 
 	    #include<iostream>
@@ -5740,16 +5453,15 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	    
 	```
 
-## 0170. ¿Qué son los parámetros y como usarlos
+## 0170. ¿Qué son los parámetros y como usarlos [19076](https://platzi.com/clases/1545-c-plus-plus/19076-que-son-los-parametros-y-como-usarlos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (7)
+* **Juan David Castro (Platzi)** (7) [562925](https://platzi.com/comentario/562925/) 
 
-	
 	**Argumentos 🆚 Parámetros:**
 	
 	_Los **parámetros** son la lista de variables que ponemos cuando se define una función, por ejemplo, en la siguiente función tenemos dos parámetros “a” y “b”:_
@@ -5766,23 +5478,20 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	    
 	```
 	
-	  * [Diferencia entre parámetros y argumentos en JavaScript](https://blog.webtraining.zone/diferencia-entre-parametros-y-argumentos-en-javascript/)
+	* [Diferencia entre parámetros y argumentos en JavaScript](https://blog.webtraining.zone/diferencia-entre-parametros-y-argumentos-en-javascript/)
 	
 	
 
-	* **David Perez** (2)
+	* **David Perez** [562925] (2)
 
-		
 		Hola Juan, esto de los parámetros y argumentos se aplica a todos los lenguajes de programación?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [562925] (2)
 
-		
 		@PerezCode Tengo entendido que si 😅
 
-* **José B. Méndez Padín** (4)
+* **José B. Méndez Padín** (4) [827364](https://platzi.com/comentario/827364/) 
 
-	
 	En lenguajes fuertemente tipados como C++ o Java es importante recordar que hay que indicar el tipo de dato de los parámetros.  
 	Ej:
 	``` 
@@ -5792,25 +5501,23 @@ Las funciones son un conjunto de líneas de código que podemos encapsular en un
 	    
 	```
 
-* **IJPaz** (1)
+* **IJPaz** (1) [81046](https://platzi.com/comentario/972253/) 
 ¿Se puede declarar el tipo de dato que se va a usar como un parámetro antes de declarar la función? Ejemplo: #include <iostream&...
 
-	* **GibsPM** (1)
+	* **GibsPM** [81046] (1)
 
-		
 		Al declarar _corazon_ al inicio del programa, antes del main y de cada función, la convierte en una variable global, que será reconocida a lo largo y ancho del programa, por lo que no podrás usar otra variable con el mismo nombre.
 
-* **Eduardo_97A** (1)
+* **Eduardo_97A** (1) [61331](https://platzi.com/comentario/620248/) 
 ¿En qué otros cursos ha estado este sujeto? La verdad explica muy bien, quisiera tomar otros cursos con él.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [61331] (2)
 
-		
 		¿Cierto que sí? Debería recibir premio a mejor profe de C++. 😂
 		
 		Por ahora solo está en este curso. Pero tal vez aparezca en más cursos. Quién sabe. Tiene muy buenas calificaciones. 👀😉
 
-## 0180. Reto Juego narrativo implementando condicionales y entrada de datos.
+## 0180. Reto Juego narrativo implementando condicionales y entrada de datos. [19077](https://platzi.com/clases/1545-c-plus-plus/19077-reto-juego-narrativo-implementando-condicionales-y/)
 
 ### Descripción:
 
@@ -5824,9 +5531,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 
 ### Comentarios:
 
-* **marco antonio** (4)
+* **marco antonio** (4) [966563](https://platzi.com/comentario/966563/) 
 
-	
 	![](![exe1.jpg](https://static.platzi.com/media/user_upload/exe1-98170f2f-b152-4240-95fb-93e8944c9d5b.jpg)  
 	![](![exe2.jpg](https://static.platzi.com/media/user_upload/exe2-1dc31bf1-c5ad-4685-ad86-4f5b816c7063.jpg)  
 	![](![exe3.jpg](https://static.platzi.com/media/user_upload/exe3-947de8fe-bbe2-4d26-87ed-88c6972d6e5c.jpg)  
@@ -5933,7 +5639,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Julian Guarin** (3)
+* **Julian Guarin** (3) [951290](https://platzi.com/comentario/951290/) 
 
 	```
 	    #include<iostream>
@@ -6017,9 +5723,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **gianpaolo-bonsignore** (3)
+* **gianpaolo-bonsignore** (3) [585671](https://platzi.com/comentario/585671/) 
 
-	
 	Me tomó dos días sin interupción poder terminarlo.  
 	Sé que se puede simplificar pero mis conocimientos  
 	aun no están del todo optimos.
@@ -6508,9 +6213,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Diego Fernando López Martínez** (2)
+* **Diego Fernando López Martínez** (2) [1069833](https://platzi.com/comentario/1069833/) 
 
-	
 	Algo muy sencillo pero funciona
 	``` 
 	    #include<iostream>
@@ -6557,7 +6261,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **jegolvera** (2)
+* **jegolvera** (2) [1032762](https://platzi.com/comentario/1032762/) 
 
 	```
 	    #include <iostream>
@@ -6715,9 +6419,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (2)
+* **Antonio Rafael González Ferrer** (2) [889567](https://platzi.com/comentario/889567/) 
 
-	
 	**Mi Reto:**
 	``` 
 	    #include<iostream>
@@ -6809,7 +6512,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **jose Ignacio Hidalgo Chacin** (2)
+* **jose Ignacio Hidalgo Chacin** (2) [828296](https://platzi.com/comentario/828296/) 
 
 	```
 	    #include<iostream>
@@ -6929,7 +6632,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **julian-leal** (2)
+* **julian-leal** (2) [804227](https://platzi.com/comentario/804227/) 
 
 	```
 	    #include<iostream>
@@ -6992,9 +6695,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Juan Camilo Valencia Jaramillo** (2)
+* **Juan Camilo Valencia Jaramillo** (2) [731006](https://platzi.com/comentario/731006/) 
 
-	
 	Mi resultado en Consola :  
 	![Segundoreto.png](https://static.platzi.com/media/user_upload/Segundoreto-c48dce1c-a89a-43db-bbad-06574e7d2038.jpg)
 	
@@ -7138,7 +6840,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **juan carlos carlos** (2)
+* **juan carlos carlos** (2) [685721](https://platzi.com/comentario/685721/) 
 
 	```
 	    #include<iostream>
@@ -7171,7 +6873,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	es un juego donde hay 3 bolas en un barril, una verde una roja y una azul, cependiendo el color que saques es si ganas, pierdes o empatas
 
-* **Koumori** (2)
+* **Koumori** (2) [672865](https://platzi.com/comentario/672865/) 
 
 	```
 	    #include<iostream>
@@ -7210,14 +6912,12 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    }```
 	```
 
-* **Karina Betzabe Romero Ulloa** (2)
+* **Karina Betzabe Romero Ulloa** (2) [652576](https://platzi.com/comentario/652576/) 
 
-	
 	Hola, [aquí](https://raw.githubusercontent.com/KarinaRomero/practices-cpp/d0fa44f44f05c96fa4aa8afc5ed51bf13a313841/main.cpp) el ejercicio, saludos.
 
-* **durbonca** (2)
+* **durbonca** (2) [609987](https://platzi.com/comentario/609987/) 
 
-	
 	No soy muy creativo, solo hice la logica de la historia en un arbol narrativo llamando funciones y metiendo varios comparadores entre medio del main. Tambien inclui un pequeño validador en las deciciones para evitar que el jugador escriba una opcion no valida, espero les guste, se aceptan sugerencias, criticas, comentarios, trolleadas, lo que ustedes quieran.
 	``` 
 	    #include<iostream>
@@ -7301,9 +7001,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **David Felipe Bohórquez** (2)
+* **David Felipe Bohórquez** (2) [585407](https://platzi.com/comentario/585407/) 
 
-	
 	Se que se puede hacer mucho mejor y más complejo. Sin embargo me gustó como me quedó este juego.  
 	Me gusta el potencial de este tipo de juegos sobre leer  
 	y tomar decisiones.
@@ -7500,9 +7199,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Daniel Gomez** (2)
+* **Daniel Gomez** (2) [571163](https://platzi.com/comentario/571163/) 
 
-	
 	Mi aporte.  
 	Le agregue un toque espero que puedan verlo 😃
 	``` 
@@ -7608,13 +7306,12 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [571163] (2)
 
-		
 		No se si disfrute más el código o la historia 😛  
 		👏👏👏
 
-* **Krish Campos** (2)
+* **Krish Campos** (2) [564443](https://platzi.com/comentario/564443/) 
 
 	```
 	    #include<iostream>
@@ -7673,7 +7370,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Jorge Hernández** (1)
+* **Jorge Hernández** (1) [1117068](https://platzi.com/comentario/1117068/) 
 
 	```
 	    #include<iostream>
@@ -7751,7 +7448,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **kevinlujan16** (1)
+* **kevinlujan16** (1) [1111500](https://platzi.com/comentario/1111500/) 
 
 	```
 	    #include<iostream>
@@ -7786,7 +7483,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **yjnavas** (1)
+* **yjnavas** (1) [1094682](https://platzi.com/comentario/1094682/) 
 
 	```
 	    <#include<iostream>
@@ -7820,16 +7517,14 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Ivan_Romero** (1)
+* **Ivan_Romero** (1) [1041480](https://platzi.com/comentario/1041480/) 
 
-	
 	Dejo el link a un repositorio de GitHub para quien quiera descargar el ejecutable y probar el pequeño trabajo que hice.
 	
 	<https://github.com/IvanelRomero/AventuraDeTexto_C->
 
-* **Steven Matias** (1)
+* **Steven Matias** (1) [1005169](https://platzi.com/comentario/1005169/) 
 
-	
 	**Esto no es plagio de aladin XD**
 	``` 
 	    #include<iostream>
@@ -7863,12 +7558,12 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **kevingerardomendez** (1)
-![DeepinScreenshot_20200216015344.png](https://static.platzi.com/media/user_upload/DeepinScreenshot_20200216015344-39acc0ea-9db0-421d-b157-8fb58c8cb529.jpg)
-
-* **Brayan Fermin Garcia Perez** (1)
-
+* **kevingerardomendez** (1) [988039](https://platzi.com/comentario/988039/) 
 	
+	![DeepinScreenshot_20200216015344.png](https://static.platzi.com/media/user_upload/DeepinScreenshot_20200216015344-39acc0ea-9db0-421d-b157-8fb58c8cb529.jpg)
+
+* **Brayan Fermin Garcia Perez** (1) [959946](https://platzi.com/comentario/959946/) 
+
 	#include <iostream>
 	
 	using namespace std;
@@ -7917,9 +7612,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **Gianmarco Palacios Frisancho** (1)
+* **Gianmarco Palacios Frisancho** (1) [939361](https://platzi.com/comentario/939361/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -7962,7 +7656,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **Valakyr** (1)
+* **Valakyr** (1) [938288](https://platzi.com/comentario/938288/) 
 
 	```
 	    #include<iostream>
@@ -8021,14 +7715,12 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Armando Ruiz Yen** (1)
+* **Armando Ruiz Yen** (1) [934428](https://platzi.com/comentario/934428/) 
 
-	
 	![](![Imagen2.png](https://static.platzi.com/media/user_upload/Imagen2-db9438ea-85dc-4b2f-99c6-910046e46faa.jpg)
 
-* **Sergy_EgH** (1)
+* **Sergy_EgH** (1) [893733](https://platzi.com/comentario/893733/) 
 
-	
 	PREGUNTA.  
 	Estoy escribiendo el codigo para el reto con lo cual quise hacer una pureba con dos tipos de clases de guerreros.
 	
@@ -8060,16 +7752,14 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-	* **GibsPM** (1)
+	* **GibsPM** [893733] (1)
 
-		
 		Es posible que haya quedado “basura” después de tu primer _cin_ , (y con “basura” me refiero al enter despues de teclear el nombre), por lo que te puede servir poner esto antes de _cin >> opClass_:  
 		**cin.ignore(1,’\n’);**  
 		Intenta y comentas.
 
-* **Gael361** (1)
+* **Gael361** (1) [875663](https://platzi.com/comentario/875663/) 
 
-	
 	I am Inevitable :3
 	``` 
 	    #include<iostream>
@@ -8118,9 +7808,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **luis Ley** (1)
+* **luis Ley** (1) [870342](https://platzi.com/comentario/870342/) 
 
-	
 	#include <iostream>  
 	#include <cctype>  
 	#include <stdio.h>  
@@ -8238,7 +7927,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [858856](https://platzi.com/comentario/858856/) 
 
 	```
 	    #include<iostream>
@@ -8310,9 +7999,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [850287](https://platzi.com/comentario/850287/) 
 
-	
 	Un ejemplo basado en un video de Platzi “El verdadero trabajo de un hacker ethico” 😄
 	``` 
 	    #include<iostream>
@@ -8359,7 +8047,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **daoh94** (1)
+* **daoh94** (1) [838091](https://platzi.com/comentario/838091/) 
 
 	```
 	    usingnamespacestd;
@@ -8605,15 +8293,13 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    Después de un buen rato pude hacerlo. Es una historia con 8 finales alternativos. 
 	```
 
-* **Bray Sebastián Marín Garcia** (1)
+* **Bray Sebastián Marín Garcia** (1) [831129](https://platzi.com/comentario/831129/) 
 
-	
 	La verdad el curso va muy bien hasta ahora, las clases se hacen muy amenas y este reto fue divertido hacerlo  
 	Felicitaciones al profe y a todos los que llegamos acá y vamos a seguir 😄
 
-* **Bray Sebastián Marín Garcia** (1)
+* **Bray Sebastián Marín Garcia** (1) [831128](https://platzi.com/comentario/831128/) 
 
-	
 	Mi jueguito UwU
 	``` 
 	    #include <iostream>
@@ -8660,7 +8346,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **ali-mendez** (1)
+* **ali-mendez** (1) [827744](https://platzi.com/comentario/827744/) 
 
 	```
 	    <#include<iostream>
@@ -8725,9 +8411,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Bristol123** (1)
+* **Bristol123** (1) [823630](https://platzi.com/comentario/823630/) 
 
-	
 	#include<iostream>  
 	#include<conio.h>
 	
@@ -8775,9 +8460,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **franciscovelsa** (1)
+* **franciscovelsa** (1) [817042](https://platzi.com/comentario/817042/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -8849,9 +8533,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-	* **Bristol123** (1)
+	* **Bristol123** [817042] (1)
 
-		
 		Hola Francisco oye tu sabes como le podria hacer para que en vez de usar variables int usar variables char? digamos que en vez de preguntarle al usuario que digite 1 o 0 para saber que curso tomara el juego pedirle a o b , es que al momento de usar letras nunca se ejecuta bien mi codigo, si compila pero no hace lo que deberia, a veces se salta condicionales o de plano no compila, este es mi codigo:
 		
 		#include<iostream>  
@@ -8901,9 +8584,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 		
 		}
 
-* **Eduardo Palencia** (1)
+* **Eduardo Palencia** (1) [808017](https://platzi.com/comentario/808017/) 
 
-	
 	int main()  
 	{  
 	string Usuario;  
@@ -9024,9 +8706,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	return 0;  
 	}
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [797878](https://platzi.com/comentario/797878/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -9056,9 +8737,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **GibsPM** (1)
+* **GibsPM** (1) [792395](https://platzi.com/comentario/792395/) 
 
-	
 	Decisiones finales en “El último cuarto”:
 	``` 
 	    #include<iostream>
@@ -9107,16 +8787,14 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	[Pruébalo](https://repl.it/@GibranPM/Juego-narrativo)
 
-* **sebastianballen** (1)
+* **sebastianballen** (1) [754356](https://platzi.com/comentario/754356/) 
 
-	
 	![1.png](https://static.platzi.com/media/user_upload/1-a62cc091-86d6-4214-b6f3-ce8e9905f90b.jpg)  
 	![2.png](https://static.platzi.com/media/user_upload/2-94f64373-9d3f-4f75-9963-fb9b01cbefa4.jpg)  
 	![3.png](https://static.platzi.com/media/user_upload/3-ec6b4740-2f76-4fd2-8af7-0444a4d608ac.jpg)
 
-* **estuardo-villagran** (1)
+* **estuardo-villagran** (1) [740356](https://platzi.com/comentario/740356/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -9206,9 +8884,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **Piero Acevedo** (1)
+* **Piero Acevedo** (1) [734494](https://platzi.com/comentario/734494/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -9315,7 +8992,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	
 	}
 
-* **steven-alejandro-sanchez** (1)
+* **steven-alejandro-sanchez** (1) [710358](https://platzi.com/comentario/710358/) 
 
 	```
 	    <
@@ -9422,7 +9099,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **enmtifa** (1)
+* **enmtifa** (1) [693481](https://platzi.com/comentario/693481/) 
 
 	```
 	    usingnamespacestd;
@@ -9464,7 +9141,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Ellande Medina** (1)
+* **Ellande Medina** (1) [688346](https://platzi.com/comentario/688346/) 
 
 	```
 	    #include<iostream>
@@ -9513,9 +9190,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **paconity** (1)
+* **paconity** (1) [665966](https://platzi.com/comentario/665966/) 
 
-	
 	En mi juego mueres, decide si morir con valentía o cobardía. 😦
 	``` 
 	    #include<iostream>
@@ -9578,7 +9254,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Jesús Everardo Bermúdez Rodríguez** (1)
+* **Jesús Everardo Bermúdez Rodríguez** (1) [649002](https://platzi.com/comentario/649002/) 
 
 	```
 	    #include<iostream>
@@ -9657,9 +9333,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **john jairo lopez ramirez** (1)
+* **john jairo lopez ramirez** (1) [644283](https://platzi.com/comentario/644283/) 
 
-	
 	Me quedo algo asi, el problema es que nunca se cierra el programa, mas bien se mantiene en bucle y no se como cambiar eso
 	``` 
 	    <#include <iostream>
@@ -9751,21 +9426,19 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-	* **Juan Carlos Rosales Cortes** (1)
+	* **Juan Carlos Rosales Cortes** [644283] (1)
 
-		
 		Hola! Cómo estás? Solucionaste el loop?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [644283] (1)
 
-		
 		Se me ocurren dos soluciones:
 		
 		1️⃣ Podrías solucionarlo encerrando el **`switch`** en un ciclo **`while`** o **`do while`** y cuando el jugador deba salir (perdió, ganó o qué se yo) cambias la variable que evalúa el ciclo y terminas la partida (o le das la opción de volver a empezar).
 		
 		2️⃣ ¡Quita los **`breaks`**! 😮
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [641497](https://platzi.com/comentario/641497/) 
 
 	```
 	    #include <iostream>
@@ -9802,7 +9475,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Enrique Alberto Ciganda Chá** (1)
+* **Enrique Alberto Ciganda Chá** (1) [635846](https://platzi.com/comentario/635846/) 
 
 	```
 	    <#include<iostream>
@@ -9832,7 +9505,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Wilson Neftali Mundo Alonzo** (1)
+* **Wilson Neftali Mundo Alonzo** (1) [634248](https://platzi.com/comentario/634248/) 
 
 	```
 	    #include<iostream>
@@ -9904,7 +9577,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Clair** (1)
+* **Clair** (1) [617792](https://platzi.com/comentario/617792/) 
 
 	```
 	    #include <iostream>
@@ -9955,7 +9628,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [612159](https://platzi.com/comentario/612159/) 
 
 	```
 	    #include <iostream>
@@ -10016,9 +9689,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **getaone** (1)
+* **getaone** (1) [601037](https://platzi.com/comentario/601037/) 
 
-	
 	Mi aporte un porounpoco feo
 	``` 
 	    #include<iostream>
@@ -10154,7 +9826,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [596643](https://platzi.com/comentario/596643/) 
 
 	```
 	    #include <iostream>
@@ -10267,7 +9939,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [584888](https://platzi.com/comentario/584888/) 
 
 	```
 	    #include<iostream>
@@ -10374,7 +10046,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **MarinaTaj** (1)
+* **MarinaTaj** (1) [571156](https://platzi.com/comentario/571156/) 
 
 	```
 	    #include<iostream>
@@ -10436,7 +10108,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Aldo-Salas** (1)
+* **Aldo-Salas** (1) [569935](https://platzi.com/comentario/569935/) 
 
 	```
 	    #include<iostream>
@@ -10484,9 +10156,8 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **edanfesi** (1)
+* **edanfesi** (1) [566862](https://platzi.com/comentario/566862/) 
 
-	
 	Hola chicos 😃
 	``` 
 	    #include<iostream>
@@ -10543,7 +10214,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Yasser Pulido** (1)
+* **Yasser Pulido** (1) [563931](https://platzi.com/comentario/563931/) 
 
 	```
 	    #include<iostream>
@@ -10610,7 +10281,7 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-* **Rafael Pardo Rodriguez** (1)
+* **Rafael Pardo Rodriguez** (1) [563898](https://platzi.com/comentario/563898/) 
 
 	```
 	    #include<iostream>
@@ -10646,9 +10317,9 @@ Después van a comparar la variable en diferentes condicionales if, si se cumple
 	    
 	```
 
-# Loops y arreglos
+# Loops y arreglos [3825]
 
-## 0190. ¿Qué son los arreglos
+## 0190. ¿Qué son los arreglos [19078](https://platzi.com/clases/1545-c-plus-plus/19078-que-son-los-arreglos/)
 
 ### Descripción:
 
@@ -10682,15 +10353,14 @@ Por ejemplo:
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [562927](https://platzi.com/comentario/562927/) 
 
-	
 	😮 Todos los tipos de datos en programación, incluyendo los _arrays_ , tienen la capacidad de contar sus elementos.
 	
 	Por ejemplo:
 	
-	  * El texto `"fulano"` tiene 6 elementos (1: `f`, 2: `u`, 3: `l`, 4: `a`, 5: `n` y 6: `o`)
-	  * El siguiente array tiene 3 elementos: [1: `"pepito"`, 2: `"pizza"`, 3: `"pablito"`].
+	* El texto `"fulano"` tiene 6 elementos (1: `f`, 2: `u`, 3: `l`, 4: `a`, 5: `n` y 6: `o`)
+	* El siguiente array tiene 3 elementos: [1: `"pepito"`, 2: `"pizza"`, 3: `"pablito"`].
 	
 	
 	
@@ -10708,22 +10378,19 @@ Por ejemplo:
 	
 	Esta es una pequeña confusión que en vez de confundirnos nos hace especiales en el mundo de la programación. 😊😅
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [562927] (2)
 
-		
-		  * Explicación más detallada aquí: [Why Do Arrays Start With Index 0?](url)
-		  * Chiste completo aquí: <https://www.instagram.com/p/BuY5Xx5hT5x/>
+		* Explicación más detallada aquí: [Why Do Arrays Start With Index 0?](url)
+		* Chiste completo aquí: <https://www.instagram.com/p/BuY5Xx5hT5x/>
 		
 		![](https://instagram.fbog7-1.fna.fbcdn.net/vp/4e079e03999312eb982763eadd6eb8b1/5D104BB3/t51.2885-15/e35/52351674_350160792376073_1539667851456704123_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
 
-	* **Abdel Mejia** (1)
+	* **Abdel Mejia** [562927] (1)
 
-		
 		no hay link en la “Explicacion detallada”, pero muy buen aporte.
 
-	* **Julian Guarin** (2)
+	* **Julian Guarin** [562927] (2)
 
-		
 		En Matlab no.  
 		En algunas implementaciones de Basic habia que colocar una directiva de compilación
 		``` 
@@ -10734,17 +10401,15 @@ Por ejemplo:
 		Un horror.  
 		La razón por la cual siempre ha sido 0, es que probablemente los primeros arrays se usaron para describir locaciones contiguas de memoria, y el direccionamiento en electrónica, que se hace con unos circuitos llamados multiplexores, naturalmente se hace con base 0.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [562927] (1)
 
-		
 		Aquí está: <https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8>. 😉
 
-* **GersonPc** (1)
+* **GersonPc** (1) [65391](https://platzi.com/comentario/690803/) 
 A mi no me funciono con “CHAR” y tuve que hacerlo con string Alguien sabe que pudo pasar? #include <iostream> using namespac...
 
-	* **andressrc** (2)
+	* **andressrc** [65391] (2)
 
-		
 		Probablemente no podías porque estabas usando comillas dobles ("") en vez de simples (’’).
 		``` 
 		    void Print(char mensaje){
@@ -10775,7 +10440,7 @@ A mi no me funciono con “CHAR” y tuve que hacerlo con string Alguien sabe qu
 		
 		Espero haberte ayudado 😃
 
-## 0200. ¿Qué son los Loops
+## 0200. ¿Qué son los Loops [19079](https://platzi.com/clases/1545-c-plus-plus/19079-que-son-los-loops/)
 
 ### Descripción:
 
@@ -10784,39 +10449,34 @@ Los _loops_ o _bucles_ son estructuras de control que nos ayudan a repetir una o
 
 Tipos de loops:
 
-  * **`WHILE`** : Nos permite repetir un bloque de código siempre y cuando su condición sea verdadera.
-  * **`DO WHILE`** : A diferencia del ciclo `while`, este ejecuta el bloque de comandos **antes** de comprobar la condición para ejecutar la repetición.
-  * **`FOR`** : Tiene 3 partes: la inicialización (donde escribimos un poco código ““obligatorio””), la condición (si es verdadera ejecuta el bloque de código) y la actualización del contador (donde actualizamos nuestro código para comprobar si la condición se sigue cumpliendo o si ya podemos acabar la repetición).
+* **`WHILE`** : Nos permite repetir un bloque de código siempre y cuando su condición sea verdadera.
+* **`DO WHILE`** : A diferencia del ciclo `while`, este ejecuta el bloque de comandos **antes** de comprobar la condición para ejecutar la repetición.
+* **`FOR`** : Tiene 3 partes: la inicialización (donde escribimos un poco código ““obligatorio””), la condición (si es verdadera ejecuta el bloque de código) y la actualización del contador (donde actualizamos nuestro código para comprobar si la condición se sigue cumpliendo o si ya podemos acabar la repetición).
 
 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (20)
+* **Juan David Castro (Platzi)** (20) [562930](https://platzi.com/comentario/562930/) 
 
-	
 	**Resumen de la clase: While 🆚 Do While** 😬😂
 	
 	![](https://i.redd.it/6wksqjmmyw321.jpg)
 
-	* **Abdel Mejia** (1)
+	* **Abdel Mejia** [562930] (1)
 
-		
 		muy buena referencia 😂
 
-	* **Rodrigo Arturo Vergara Gonzalez** (1)
+	* **Rodrigo Arturo Vergara Gonzalez** [562930] (1)
 
-		
 		Excelente aporte
 
-	* **Bristol123** (1)
+	* **Bristol123** [562930] (1)
 
-		
 		jajaja XD
 
-* **Luis Tapia** (1)
+* **Luis Tapia** (1) [873875](https://platzi.com/comentario/873875/) 
 
-	
 	En estos dos ejercicios vamos a usar las **estructuras de control** para crear un bucle que repita una frase 10 veces.
 	
 	El primero lo hice con las estructuras **_do_** y _**while**_.
@@ -10854,16 +10514,15 @@ Tipos de loops:
 	    
 	```
 
-## 0210. Programando Loops
+## 0210. Programando Loops [19080](https://platzi.com/clases/1545-c-plus-plus/19080-programando-loops/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **steven-alejandro-sanchez** (2)
+* **steven-alejandro-sanchez** (2) [711425](https://platzi.com/comentario/711425/) 
 
-	
 	#include<iostream>  
 	#include<stdlib.h>  
 	using namespace std;  
@@ -10886,19 +10545,16 @@ Tipos de loops:
 	
 	}
 
-* **Steven Angel Coaila Zaa** (2)
+* **Steven Angel Coaila Zaa** (2) [650703](https://platzi.com/comentario/650703/) 
 
-	
 	10/10 la clase!
 
-* **gianpaolo-bonsignore** (2)
+* **gianpaolo-bonsignore** (2) [585832](https://platzi.com/comentario/585832/) 
 
-	
 	Creo que eres hasta ahora mi instructor favorito. Yo soy del mundo de Letras y lograste que hiciera mi primer juego complejo en cmd
 
-* **Yasser Pulido** (2)
+* **Yasser Pulido** (2) [564563](https://platzi.com/comentario/564563/) 
 
-	
 	Ciclo While:
 	``` 
 	    int contador = 0;
@@ -10932,33 +10588,28 @@ Tipos de loops:
 	    
 	```
 
-* **julian-leal** (1)
+* **julian-leal** (1) [810009](https://platzi.com/comentario/810009/) 
 
-	
 	veo que "While " y “For” son los mismos, pero ordenados de forma diferente.
 
-	* **Alvaroso** (1)
+	* **Alvaroso** [810009] (1)
 
-		
 		“For” es un bucle definido en cambio el “While” puede comportarse como un “For” pero a demás como actúa con una condición true o false permite utilizarlo para otros propósitos ej: usar un “While” para que usuario introduzca una t o f donde el bloque verifica si de verdad el usuario escribió las letras seleccionadas luego cambia la condición a true y se sale del bucle.
 
-	* **marco antonio** (1)
+	* **marco antonio** [810009] (1)
 
-		
 		si y no, dehecho el for se usa mas por que su sintaxis es mas simple de leer como programadores leer y comprender codigo ya escrito es muy importante. En fin aunque a simple vista while y for se parezcan, la verdad while sirve mas como un bucle analogo mientras que for seria un bucle automático, aunque en este ejemplo se usan para hacer un contador y paresen que hacen lo mismo,pero la verdad for serian mas como unas tijeras y while como un cuchillo ambas sirvan para cortar un papel y también un limon pero con uno se te hará mas facil que con otro, a eso me refiero a que uno es análogo y otro automático en este ejemplo quizás no se vea la diferencia pero cuando un proyecto adquiere una cierta complejidad cada uno brilla por lo que puede hacer
 
-	* **john jairo lopez ramirez** (1)
+	* **john jairo lopez ramirez** [810009] (1)
 
-		
 		Los ciclos for se utilizan generalmente cuando se sabe el valor exacto del ciclo, es decir, cuando se sabe durante cuantas iteraciones va a realizar el ciclo. El ciclo While, en cambio se utiliza generalmente cuando no se sabe durante cuanto tiempo o durante cuantas iteraciones se va a utilizar el ciclo. En el vídeo anterior el decía que habían ciclos que se ejecutaban de manera infinita hasta indicar de alguna forma la parada, ese puede ejemplo puede verse como un ciclo While.
 
-	* **Brayan Potosi Dominguez** (1)
+	* **Brayan Potosi Dominguez** [810009] (1)
 
-		
 		Para complementar a lo que aportaron los compañeros ****while**** es conocido como **una estructura de control repetitiva tipo 0-X** , esto se debe a que antes de ejecutar una un proceso validamos la condicion a diferencia de **do while** , mientras que **for** se conoce como una **estructura repetitiva definida** puesto que establecemos el **limite** del loop  
 		😃
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [598311](https://platzi.com/comentario/598311/) 
 
 	```
 	    #include<iostream>
@@ -11003,13 +10654,12 @@ Tipos de loops:
 	    
 	```
 
-* **tonystuart** (1)
+* **tonystuart** (1) [597143](https://platzi.com/comentario/597143/) 
 
-	
 	{ }  
 	Siempre que intento escribir las llaves no me deja abrir las llaves pero si me escribe la llave de cierre. No lo entiendo, quizás haya una funcion dentro de CodeBlocks. Gracias.
 
-## 0220. Loops , arreglos y arreglos bidimensionales
+## 0220. Loops , arreglos y arreglos bidimensionales [19081](https://platzi.com/clases/1545-c-plus-plus/19081-loops-arreglos-y-arreglos-bidimensionales/)
 
 ### Descripción:
 
@@ -11031,20 +10681,18 @@ Recuerda que también podemos crear arreglos tridimensionales o de todas las dim
 
 ### Comentarios:
 
-* **Miguel_Echeverry** (3)
+* **Miguel_Echeverry** (3) [658305](https://platzi.com/comentario/658305/) 
 
-	
 	Mi aporte
 	
 	![Captura5.PNG](https://static.platzi.com/media/user_upload/Captura5-c62147e4-9058-46cd-bc03-c23c603252cb.jpg)![Captura6.PNG](https://static.platzi.com/media/user_upload/Captura6-c8f6fe1f-a025-4460-b856-a04fb275fafa.jpg)
 
-* **Eduardo_97A** (3)
+* **Eduardo_97A** (3) [635515](https://platzi.com/comentario/635515/) 
 
-	
 	Es un codigo para hacer 2 tipos de recorridos de un arreglo
 	
-	  * Espiral Horizontal
-	  * Espiral Vertical  
+	* Espiral Horizontal
+	* Espiral Vertical  
 	Espero que les ayude 😄
 	
 	
@@ -11157,10 +10805,11 @@ Recuerda que también podemos crear arreglos tridimensionales o de todas las dim
 	    
 	```
 
-* **Juan David Castro (Platzi)** (3)
-![](http://dcodingames.com/wp-content/uploads/2017/02/matrices1.fw_.png)
+* **Juan David Castro (Platzi)** (3) [562932](https://platzi.com/comentario/562932/) 
+	
+	![](http://dcodingames.com/wp-content/uploads/2017/02/matrices1.fw_.png)
 
-* **Carlos José González Juan** (1)
+* **Carlos José González Juan** (1) [1087220](https://platzi.com/comentario/1087220/) 
 
 	```
 	    #include<iostream>
@@ -11182,7 +10831,7 @@ Recuerda que también podemos crear arreglos tridimensionales o de todas las dim
 	    
 	```
 
-* **arielr85** (1)
+* **arielr85** (1) [985009](https://platzi.com/comentario/985009/) 
 
 	```
 	    <#include<iostream>
@@ -11226,35 +10875,31 @@ Recuerda que también podemos crear arreglos tridimensionales o de todas las dim
 	    
 	```
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [585867](https://platzi.com/comentario/585867/) 
 
-	
 	siempre hay que inicializar a cero los indices de las matrices o asignarles un valor? porque intenté mostrar con for una matriz vacía y me imprimió una andanada de cifras extrañas.
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [585867] (2)
 
-		
 		¡Hola Gianpaolo!
 		
 		Esto sucede porque al crear una matriz y no tener datos asignados, se generan datos aleatorios.
 		
 		Respondiendo a tu pregunta, eso depende del fin que le vayas a dar a tu matriz ya que si vas a ir obteniendo datos, no sería necesario realizar una primera asignación.
 
-	* **gianpaolo-bonsignore** (1)
+	* **gianpaolo-bonsignore** [585867] (1)
 
-		
 		con srand le fui asignando numeros aleatorios. Muchas gracias!
 
-	* **durbonca** (2)
+	* **durbonca** [585867] (2)
 
-		
 		en realidad te trae datos basura de la memoria mas que “numero aleatorios”
 		
 		por ejemplo en este caso parecido al tuyo la persona no definio el tamaño de su arreglo y el arreglo en lugar de crearse correctamente se lanzo a otro lado trayendo datos basura.
 		
 		<https://stackoverflow.com/questions/31660412/c-array-gives-me-garbage-value>
 
-* **Yasser Pulido** (1)
+* **Yasser Pulido** (1) [564602](https://platzi.com/comentario/564602/) 
 
 	```
 	    #include<iostream>
@@ -11283,26 +10928,24 @@ Recuerda que también podemos crear arreglos tridimensionales o de todas las dim
 	    
 	```
 
-* **Juan David Castro (Platzi)** (1)
+* **Juan David Castro (Platzi)** (1) [562931](https://platzi.com/comentario/562931/) 
 
-	
 	No hay un ciclo mejor que otro pero **SI** acostumbramos a usar ciclos diferentes en casos diferentes para aprovechar mejor su sintaxis.
 	
 	Por ejemplo, el ciclo `for` resulta más cómodo cuando sabemos la cantidad de información sobre la cual que queremos iterar. En cambio, el ciclo `while` lo usamos en casos donde una condición más específica debe cambiar (como un _game over_ ).
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [59037](https://platzi.com/comentario/585867/) 
 siempre hay que inicializar a cero los indices de las matrices o asignarles un valor? porque intenté mostrar con for una matriz vacía y m...
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [59037] (2)
 
-		
 		¡Hola Gianpaolo!
 		
 		Esto sucede porque al crear una matriz y no tener datos asignados, se generan datos aleatorios.
 		
 		Respondiendo a tu pregunta, eso depende del fin que le vayas a dar a tu matriz ya que si vas a ir obteniendo datos, no sería necesario realizar una primera asignación.
 
-## 0230. Dibujando el mapa de nuestro juego con arreglos
+## 0230. Dibujando el mapa de nuestro juego con arreglos [19082](https://platzi.com/clases/1545-c-plus-plus/19082-dibujando-el-mapa-de-nuestro-juego-con-arreglos/)
 
 ### Descripción:
 
@@ -11313,9 +10956,8 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (5)
+* **Juan David Castro (Platzi)** (5) [562935](https://platzi.com/comentario/562935/) 
 
-	
 	Así va mi versión del juego hasta ahora usando todo lo que hemos aprendido en clase ( _switchs_ , _do whiles_ , condicionales, entre otras): <https://repl.it/repls/PeriodicMushyNasm>
 	
 	Código:
@@ -11389,14 +11031,14 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **enmtifa** (3)
-![Codigo funcionando.PNG](https://static.platzi.com/media/user_upload/Codigo%20funcionando-b1c61960-b31a-499c-8f38-b53352fd82f1.jpg)
+* **enmtifa** (3) [1052478](https://platzi.com/comentario/1052478/) 
+	
+	![Codigo funcionando.PNG](https://static.platzi.com/media/user_upload/Codigo%20funcionando-b1c61960-b31a-499c-8f38-b53352fd82f1.jpg)
 	
 	Hecho!!
 
-* **enmtifa** (3)
+* **enmtifa** (3) [693584](https://platzi.com/comentario/693584/) 
 
-	
 	Repitiendo el código y después de varios errores ya funciono 😃
 	``` 
 	    usingnamespacestd;
@@ -11423,19 +11065,16 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **Luis Tapia** (1)
+* **Luis Tapia** (1) [994201](https://platzi.com/comentario/994201/) 
 
-	
 	¿Está bien decir que lo que ponemos entre paréntesis, en la función DrawMap, es el método constructor?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [994201] (2)
 
-		
 		No, estos son solo los argumentos de la función 😛
 
-* **Jose94** (1)
+* **Jose94** (1) [861073](https://platzi.com/comentario/861073/) 
 
-	
 	Rombo perfecto
 	``` 
 	    #include<iostream>
@@ -11469,7 +11108,7 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **Jose94** (1)
+* **Jose94** (1) [861013](https://platzi.com/comentario/861013/) 
 
 	```
 	    #include<iostream>
@@ -11491,16 +11130,15 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-## 0240. Manipulando mi jugador con inputs en arreglos unidimensionales
+## 0240. Manipulando mi jugador con inputs en arreglos unidimensionales [19083](https://platzi.com/clases/1545-c-plus-plus/19083-manipulando-mi-jugador-con-inputs-en-arreglos-unid/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **edanfesi** (2)
+* **edanfesi** (2) [567414](https://platzi.com/comentario/567414/) 
 
-	
 	¡Hola todos!
 	``` 
 	    #include<iostream>
@@ -11551,7 +11189,7 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **Yasser Pulido** (2)
+* **Yasser Pulido** (2) [564638](https://platzi.com/comentario/564638/) 
 
 	```
 	    #include <iostream>
@@ -11607,16 +11245,14 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1052524](https://platzi.com/comentario/1052524/) 
 
-	
 	![](![Codigo funcionando parte 2.PNG](https://static.platzi.com/media/user_upload/Codigo%20funcionando%20parte%202-536348e7-0081-4707-b22f-dc3baccb3152.jpg)
 	
 	Hecho !!!
 
-* **Isaac Miranda Madrigal** (1)
+* **Isaac Miranda Madrigal** (1) [737238](https://platzi.com/comentario/737238/) 
 
-	
 	Utilizando conceptos que he aprendido llevo lo siguiente (que espero que le sirva a alguien):
 	``` 
 	    #include<iostream>
@@ -11687,12 +11323,11 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [645627](https://platzi.com/comentario/645627/) 
 
-	
 	buena clase, estaría bien que declare siempre el inicio de las variables con mayusculas para que sea mas facil recordar
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [600523](https://platzi.com/comentario/600523/) 
 
 	```
 	    #include<iostream>
@@ -11756,10 +11391,10 @@ Por ahora solo podemos movernos hacia la izquierda y hacia la derecha pero más 
 	    
 	```
 
-* **Diego Fernando López Martínez** (1)
+* **Diego Fernando López Martínez** (1) [85336](https://platzi.com/comentario/1071606/) 
 Quiero preguntar, cómo puedo controlar un video con el teclado? existen teclas para detener, adelantar y atrasar??? Gracias
 
-## 0250. Arreglos bidimensionales
+## 0250. Arreglos bidimensionales [19084](https://platzi.com/clases/1545-c-plus-plus/19084-arreglos-bidimensionales/)
 
 ### Descripción:
 
@@ -11822,9 +11457,8 @@ Código de la clase:
 
 ### Comentarios:
 
-* **Luis Alberto Lazcano Cruz** (4)
+* **Luis Alberto Lazcano Cruz** (4) [657811](https://platzi.com/comentario/657811/) 
 
-	
 	Me gusta más como se ve con **Switch Case** 😃
 	``` 
 	    #include <iostream>
@@ -11889,9 +11523,8 @@ Código de la clase:
 	    
 	```
 
-* **Isaac Miranda Madrigal** (3)
+* **Isaac Miranda Madrigal** (3) [737274](https://platzi.com/comentario/737274/) 
 
-	
 	Cuando dijo lo del reto ya lo había hecho jaja. Espero que le sirva a alguien.
 	``` 
 	    #include<iostream>
@@ -11983,9 +11616,8 @@ Código de la clase:
 	    
 	```
 
-* **Steven Angel Coaila Zaa** (2)
+* **Steven Angel Coaila Zaa** (2) [653795](https://platzi.com/comentario/653795/) 
 
-	
 	RETO CUMPLIDO 😄
 	``` 
 	    #include <iostream>
@@ -12061,9 +11693,8 @@ Código de la clase:
 	    
 	```
 
-* **Enrique Alberto Ciganda Chá** (2)
+* **Enrique Alberto Ciganda Chá** (2) [637504](https://platzi.com/comentario/637504/) 
 
-	
 	Agregué la librería stdlib para usar la función de sistema "cls"y mantener el mapa en el mismo lugar
 	``` 
 	    <
@@ -12146,14 +11777,12 @@ Código de la clase:
 	    
 	```
 
-	* **Steven Angel Coaila Zaa** (1)
+	* **Steven Angel Coaila Zaa** [637504] (1)
 
-		
 		Gran aporte!!! 😃
 
-* **Juan David Castro (Platzi)** (2)
+* **Juan David Castro (Platzi)** (2) [562939](https://platzi.com/comentario/562939/) 
 
-	
 	Mi solución del reto incluyendo las funcionalidades de moverse hacia arriba y abajo y no poder salirse del mapa: <https://repl.it/repls/TrimIndelibleParticle>
 	
 	Código:
@@ -12264,7 +11893,7 @@ Código de la clase:
 	    
 	```
 
-* **Josemanuel Sifontes** (1)
+* **Josemanuel Sifontes** (1) [1084160](https://platzi.com/comentario/1084160/) 
 
 	```
 	    #include <iostream>
@@ -12344,7 +11973,7 @@ Código de la clase:
 	    
 	```
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1054493](https://platzi.com/comentario/1054493/) 
 
 	```
 	    #include <iostream>
@@ -12421,7 +12050,7 @@ Código de la clase:
 	    
 	```
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1011430](https://platzi.com/comentario/1011430/) 
 
 	```
 	    #include <iostream>
@@ -12508,19 +12137,16 @@ Código de la clase:
 	    
 	```
 
-* **roberto-suarez-marcillo** (1)
+* **roberto-suarez-marcillo** (1) [976392](https://platzi.com/comentario/976392/) 
 
-	
 	alguien sabe sobe grafos, arboles binarios etc.
 
-	* **kevingerardomendez** (1)
+	* **kevingerardomendez** [976392] (1)
 
-		
 		<https://www.programacion.com.py/escritorio/c/arboles-en-c>
 
-* **Jesús Pacheco** (1)
+* **Jesús Pacheco** (1) [960188](https://platzi.com/comentario/960188/) 
 
-	
 	#include<iostream>  
 	using namespace std;  
 	char Mapa[5][5]{  
@@ -12599,9 +12225,8 @@ Código de la clase:
 	return(0);  
 	}
 
-* **davidegc** (1)
+* **davidegc** (1) [876026](https://platzi.com/comentario/876026/) 
 
-	
 	Reto cumplido
 	``` 
 	    #include <iostream>
@@ -12678,9 +12303,8 @@ Código de la clase:
 	    
 	```
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [859440](https://platzi.com/comentario/859440/) 
 
-	
 	Comparto mi código, decidí usar un switch para el input y cambiar un poco la función que dibuja el mapa.
 	``` 
 	    #include <iostream>
@@ -12757,9 +12381,8 @@ Código de la clase:
 	    
 	```
 
-* **Jesús Everardo Bermúdez Rodríguez** (1)
+* **Jesús Everardo Bermúdez Rodríguez** (1) [653788](https://platzi.com/comentario/653788/) 
 
-	
 	hice este codigo antes de ver el video, es un poco diferente, pero igual funciona
 	``` 
 	    #include <iostream>
@@ -12824,7 +12447,7 @@ Código de la clase:
 	    
 	```
 
-* **Estrictik117** (1)
+* **Estrictik117** (1) [633243](https://platzi.com/comentario/633243/) 
 
 	```
 	    #include <iostream>
@@ -12911,9 +12534,8 @@ Código de la clase:
 	    
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [613480](https://platzi.com/comentario/613480/) 
 
-	
 	Aqui esta mi codigo!
 	``` 
 	    #include <iostream>
@@ -13009,9 +12631,8 @@ Código de la clase:
 	    
 	```
 
-* **marco_cm** (1)
+* **marco_cm** (1) [613476](https://platzi.com/comentario/613476/) 
 
-	
 	Todo esta ok, solo cambie a switch el detalle de ingreso de char… y puse condicionales como limites
 	``` 
 	    while(IsGameOver == false)
@@ -13059,9 +12680,8 @@ Código de la clase:
 	    
 	```
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [586002](https://platzi.com/comentario/586002/) 
 
-	
 	Me perdí tanto en el código que tuve que rehacerlo a uno un poco más simple XD Pienso que quedaría más bonito y ordenado así:
 	``` 
 	    for (int i = 0; i < 5; i++){
@@ -13088,20 +12708,18 @@ Código de la clase:
 	    
 	```
 
-* **Sergy_EgH** (1)
+* **Sergy_EgH** (1) [82785](https://platzi.com/comentario/1012827/) 
 Buenas Tardes, tengo una duda. Como puedo Convertir una valor INT en un Array?
 
-	* **enmtifa** (1)
+	* **enmtifa** [82785] (1)
 
-		
 		Dependiendo de lo que quieras hacer. Un cast directo de un Int a un Array no se puede hacer.
 
-* **jose Ignacio Hidalgo Chacin** (1)
+* **jose Ignacio Hidalgo Chacin** (1) [73203](https://platzi.com/comentario/830375/) 
 buenas (os) dias, tardes noches. com puedo pasar una matriz que tiene apuntador a una función? por favor.
 
-	* **David A. Casas Amézquita** (1)
+	* **David A. Casas Amézquita** [73203] (1)
 
-		
 		Hola
 		
 		puedes pasar la función como parametro como se hace normalmente, y tratar sus valores como apuntadores normales dentro de una variable P.E:
@@ -13119,7 +12737,7 @@ buenas (os) dias, tardes noches. com puedo pasar una matriz que tiene apuntador 
 		
 		Es mejor declarar una variable para manipular los datos (en este caso A) porque los arrays se pasan por referencia cuando son parámetros de una función
 
-## 0260. Reto Moviendo a mi personaje en mi arreglo bidimensional
+## 0260. Reto Moviendo a mi personaje en mi arreglo bidimensional [19085](https://platzi.com/clases/1545-c-plus-plus/19085-reto-moviendo-a-mi-personaje-en-mi-arreglo-bidimen/)
 
 ### Descripción:
 
@@ -13130,9 +12748,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 
 ### Comentarios:
 
-* **durbonca** (3)
+* **durbonca** (3) [615130](https://platzi.com/comentario/615130/) 
 
-	
 	Bueno esta sencillo y no se me ocurrio como usar los arrays para hacerlo en menos lineas, ademas de que me encontre de que la libreria iostream solo trae 4 funciones super basicas. Intente instalar otras librerias como ncurses pero se me hizo un chungo y no queria quedarme pegado con el reto, asi que alli va mi esperpento… salu2
 	``` 
 	    #include <iostream>
@@ -13212,9 +12829,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **jesus-romero-rivera** (3)
+* **jesus-romero-rivera** (3) [563208](https://platzi.com/comentario/563208/) 
 
-	
 	Acá dejo mi solución al reto. Si se sale del mapa, saldrá del otro lado
 	``` 
 	    #include <iostream>
@@ -13300,23 +12916,20 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [563208] (1)
 
-		
 		😮👌👏
 
-	* **Krish Campos** (1)
+	* **Krish Campos** [563208] (1)
 
-		
 		 _do  
 		while_
 
-	* **akivosimcho** (1)
+	* **akivosimcho** [563208] (1)
 
-		
 		Excelente arreglo a la salida de linea
 
-* **Jesús Everardo Bermúdez Rodríguez** (2)
+* **Jesús Everardo Bermúdez Rodríguez** (2) [653832](https://platzi.com/comentario/653832/) 
 
 	```
 	    #include <iostream>
@@ -13388,9 +13001,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **marco_cm** (2)
+* **marco_cm** (2) [613511](https://platzi.com/comentario/613511/) 
 
-	
 	agregue el detalle de introducir limites…eje x eje y
 	``` 
 	    #include <iostream>
@@ -13485,12 +13097,11 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-	* **durbonca** (2)
+	* **durbonca** [613511] (2)
 
-		
 		esta bueno, lo probe y esta muy bien que no se salga del area, ademas de que esta excelente el toque de crear las dimenciones del area, felicitaciones.
 
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [576587](https://platzi.com/comentario/576587/) 
 
 	```
 	    #include<iostream>
@@ -13563,12 +13174,12 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	        {"||", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "||"},
 	        {"||", "     ", "=====", "     ", "=====", "=====", "=====", "     ", "=====", "=====", "=====", "=====", "=====", "=====", "||"},
 	        {"||", "     ", "=====", "     ", "=====", "=====", "=====", "     ", "=====", "=====", "=====", "=====", "=====", "     ", "||"},
-	        {"||", "     ", "=====", "     ", "=====", "=====", "=====", "     ", "     ", "     ", "  *  ", "=====", "     ", "  *  ", "||"},
-	        {"||", "     ", "=====", "  *  ", "=====", "=====", "=====", "  *  ", "=====", "=====", "=====", "=====", "=====", "=====", "||"},
+	        {"||", "     ", "=====", "     ", "=====", "=====", "=====", "     ", "     ", "     ", "*  ", "=====", "     ", "*  ", "||"},
+	        {"||", "     ", "=====", "*  ", "=====", "=====", "=====", "*  ", "=====", "=====", "=====", "=====", "=====", "=====", "||"},
 	        {"||", "     ", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "||"},
 	        {"||", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "     ", "  S  ", "||"},
 	        {"||", "=====", "     ", "=====", "=====", "=====", "=====", "     ", "=====", "=====", "=====", "=====", "=====", "=====", "||"},
-	        {"||", "  *  ", "     ", "  *  ", "=====", "=====", "=====", "     ", "     ", "     ", "     ", "     ", "     ", "  *  ", "||"},
+	        {"||", "*  ", "     ", "*  ", "=====", "=====", "=====", "     ", "     ", "     ", "     ", "     ", "     ", "*  ", "||"},
 	        {"||", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "=====", "||"}
 	      };
 	      bool endGame = false;
@@ -13599,9 +13210,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	Se borra en cada input.
 
-* **edanfesi** (2)
+* **edanfesi** (2) [567472](https://platzi.com/comentario/567472/) 
 
-	
 	¡Hola a todos!
 	
 	Les dejo mi propuesta para el reto, Le añadí las colisiones al jugador.
@@ -13665,9 +13275,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **grupounillanos** (2)
+* **grupounillanos** (2) [564027](https://platzi.com/comentario/564027/) 
 
-	
 	**Reto Cumplido**
 	``` 
 	    #include <iostream>
@@ -13741,7 +13350,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Ricardo Antonio Prada Rojas** (1)
+* **Ricardo Antonio Prada Rojas** (1) [1110911](https://platzi.com/comentario/1110911/) 
 
 	```
 	    #include<iostream>
@@ -13817,9 +13426,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **IsmaMS** (1)
+* **IsmaMS** (1) [1100307](https://platzi.com/comentario/1100307/) 
 
-	
 	Está es mi solución, por si a alguien le sirve, incluí limites, para que no se salga de la matriz [5][5], ya no puede irse [-1,5]. Esta burda pero funciona, espero les sirva.
 	``` 
 	    #include <iostream>
@@ -13922,9 +13530,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Davic64** (1)
+* **Davic64** (1) [1092975](https://platzi.com/comentario/1092975/) 
 
-	
 	Mi solución
 	``` 
 	    #include <iostream>
@@ -13983,7 +13590,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Josemanuel Sifontes** (1)
+* **Josemanuel Sifontes** (1) [1084164](https://platzi.com/comentario/1084164/) 
 
 	```
 	    #include <iostream>
@@ -14063,9 +13670,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Ivan_Romero** (1)
+* **Ivan_Romero** (1) [1064170](https://platzi.com/comentario/1064170/) 
 
-	
 	Yo declare la variable Input como un string, para darle un toque de aventura de texto de la época de la Commodore 64.
 	``` 
 	    if(Input == "izquierda")
@@ -14097,10 +13703,11 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **ChuyVillalobos** (1)
-![wasd.png](https://static.platzi.com/media/user_upload/wasd-f9756c30-001c-44e2-a883-028278e2ed5e.jpg)
+* **ChuyVillalobos** (1) [1056253](https://platzi.com/comentario/1056253/) 
+	
+	![wasd.png](https://static.platzi.com/media/user_upload/wasd-f9756c30-001c-44e2-a883-028278e2ed5e.jpg)
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1054497](https://platzi.com/comentario/1054497/) 
 
 	```
 	    #include <iostream>
@@ -14177,7 +13784,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **jegolvera** (1)
+* **jegolvera** (1) [1036055](https://platzi.com/comentario/1036055/) 
 
 	```
 	    #include <iostream>
@@ -14272,7 +13879,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **JosueM** (1)
+* **JosueM** (1) [1034699](https://platzi.com/comentario/1034699/) 
 
 	```
 	    #include <iostream>
@@ -14356,7 +13963,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1011429](https://platzi.com/comentario/1011429/) 
 
 	```
 	    #include <iostream>
@@ -14443,7 +14050,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Armando Ruiz Yen** (1)
+* **Armando Ruiz Yen** (1) [1003402](https://platzi.com/comentario/1003402/) 
 
 	```
 	    #include <iostream>
@@ -14514,9 +14121,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **David A. Casas Amézquita** (1)
+* **David A. Casas Amézquita** (1) [998771](https://platzi.com/comentario/998771/) 
 
-	
 	Esta es la solución que yo propongo 😄
 	
 	Espero comentarios 😛
@@ -14616,9 +14222,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Luis Jose Altamirano** (1)
+* **Luis Jose Altamirano** (1) [998103](https://platzi.com/comentario/998103/) 
 
-	
 	Reto Cumplido 😃 !!!
 	``` 
 	    #include <iostream>
@@ -14705,9 +14310,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **kevingerardomendez** (1)
+* **kevingerardomendez** (1) [989462](https://platzi.com/comentario/989462/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -14768,9 +14372,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **arielr85** (1)
+* **arielr85** (1) [986679](https://platzi.com/comentario/986679/) 
 
-	
 	Reto
 	``` 
 	    <#include <iostream>
@@ -14849,9 +14452,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **guillermogranado** (1)
+* **guillermogranado** (1) [975930](https://platzi.com/comentario/975930/) 
 
-	
 	Aquí teneis mi juego. El personaje H debe llegar a la salida *
 	``` 
 	    #include<iostream>
@@ -15010,9 +14612,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **marco antonio** (1)
+* **marco antonio** (1) [973264](https://platzi.com/comentario/973264/) 
 
-	
 	![](![movimiento.jpg](https://static.platzi.com/media/user_upload/movimiento-c53af986-4055-4bfb-b39b-783a38ac8582.jpg)
 	
 	este reto me fue un poco mas laborioso de lo habitual ya que tube problemas para imprimir en pantalla lo que queria lo intente con punteros con muchas condicionales y al final me di cuenta que usando un IF que igualaras las coordenadas con las variables de los FOR se imprimía el resultado que quería haaaaaaa me habia complicado tanto con algo que era muy simple XD  
@@ -15076,7 +14677,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Jesús Pacheco** (1)
+* **Jesús Pacheco** (1) [960190](https://platzi.com/comentario/960190/) 
 
 	```
 	    #include<iostream>
@@ -15153,7 +14754,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Alexander Henry Obispo Buendia** (1)
+* **Alexander Henry Obispo Buendia** (1) [953291](https://platzi.com/comentario/953291/) 
 
 	```
 	    #include <iostream>
@@ -15217,9 +14818,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Gianmarco Palacios Frisancho** (1)
+* **Gianmarco Palacios Frisancho** (1) [949055](https://platzi.com/comentario/949055/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -15304,7 +14904,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **Valakyr** (1)
+* **Valakyr** (1) [942384](https://platzi.com/comentario/942384/) 
 
 	```
 	    #include <iostream>
@@ -15375,9 +14975,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Fidel Hernández Rendón** (1)
+* **Fidel Hernández Rendón** (1) [893278](https://platzi.com/comentario/893278/) 
 
-	
 	**El reto un poco diferente**
 	``` 
 	    <
@@ -15458,9 +15057,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [889827](https://platzi.com/comentario/889827/) 
 
-	
 	**Mi Reto**
 	``` 
 	    #include <iostream>
@@ -15537,7 +15135,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [885184](https://platzi.com/comentario/885184/) 
 
 	```
 	    #include <iostream>
@@ -15610,7 +15208,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [880616](https://platzi.com/comentario/880616/) 
 
 	```
 	    while (!isGameOver) {
@@ -15634,9 +15232,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **luis Ley** (1)
+* **luis Ley** (1) [875972](https://platzi.com/comentario/875972/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -15726,7 +15323,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **Jose94** (1)
+* **Jose94** (1) [862333](https://platzi.com/comentario/862333/) 
 
 	```
 	    #include <iostream>
@@ -15824,7 +15421,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **JohanB11** (1)
+* **JohanB11** (1) [860583](https://platzi.com/comentario/860583/) 
 
 	```
 	    #include <iostream>
@@ -15922,9 +15519,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [859447](https://platzi.com/comentario/859447/) 
 
-	
 	Comparto mi código, decidí usar un switch para el input y cambiar un poco la función que dibuja el mapa.
 	``` 
 	    #include <iostream>
@@ -16001,9 +15597,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Juan Ignacio Cichero** (1)
+* **Juan Ignacio Cichero** (1) [856270](https://platzi.com/comentario/856270/) 
 
-	
 	Dejo por acá mi código, por si ayuda a alguien 😃
 	``` 
 	    #include <iostream>
@@ -16084,9 +15679,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [852241](https://platzi.com/comentario/852241/) 
 
-	
 	Uff este ejercicio estuvo buenísimo 😄
 	``` 
 	    #include<iostream>
@@ -16166,9 +15760,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Bray Sebastián Marín Garcia** (1)
+* **Bray Sebastián Marín Garcia** (1) [831459](https://platzi.com/comentario/831459/) 
 
-	
 	Curiosamente lo hice antes de que nos dijera cual era el reto :v  
 	Aquí esta el código con mi solución 😄
 	``` 
@@ -16235,9 +15828,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Eduardo Palencia** (1)
+* **Eduardo Palencia** (1) [818492](https://platzi.com/comentario/818492/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;  
@@ -16319,9 +15911,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **Wilson Neftali Mundo Alonzo** (1)
+* **Wilson Neftali Mundo Alonzo** (1) [809461](https://platzi.com/comentario/809461/) 
 
-	
 	listo
 	``` 
 	    #include <iostream>
@@ -16393,10 +15984,11 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **linkpj** (1)
-![c++2.PNG](https://static.platzi.com/media/user_upload/c%2B%2B2-a7a35532-ee62-404e-b634-afe9e8704b2b.jpg)
+* **linkpj** (1) [805299](https://platzi.com/comentario/805299/) 
+	
+	![c++2.PNG](https://static.platzi.com/media/user_upload/c%2B%2B2-a7a35532-ee62-404e-b634-afe9e8704b2b.jpg)
 
-* **Jalile Herrera Ramírez** (1)
+* **Jalile Herrera Ramírez** (1) [803439](https://platzi.com/comentario/803439/) 
 
 	```
 	    <#include <iostream>
@@ -16498,9 +16090,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [802425](https://platzi.com/comentario/802425/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -16577,7 +16168,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	return 0;  
 	}
 
-* **briansm** (1)
+* **briansm** (1) [798040](https://platzi.com/comentario/798040/) 
 
 	```
 	    if(Input== 'd')
@@ -16603,9 +16194,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [796038](https://platzi.com/comentario/796038/) 
 
-	
 	Saludos, reto completado en mapa de 5 x 5, validando que se presionen solo las teclas indicadas, y evitando que el jugador salga del mapa establecido. Uso del comando clear y la función sleep() para que solo aparezca un mapa y se puedan leer los mensajes.
 	``` 
 	    #include<iostream>
@@ -16721,9 +16311,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	En esta [liga](https://repl.it/@GibranPM/Map-drawing-with-arrays) funciona.
 
-* **estuardo-villagran** (1)
+* **estuardo-villagran** (1) [759985](https://platzi.com/comentario/759985/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -16801,8 +16390,9 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **aarongabriel420** (1)
-![mapa.png](https://static.platzi.com/media/user_upload/mapa-5b2c0872-abd8-4d92-b180-2212a9feeccc.jpg)
+* **aarongabriel420** (1) [741336](https://platzi.com/comentario/741336/) 
+	
+	![mapa.png](https://static.platzi.com/media/user_upload/mapa-5b2c0872-abd8-4d92-b180-2212a9feeccc.jpg)
 	``` 
 	    #include <iostream>
 	    
@@ -16893,7 +16483,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **omaredu** (1)
+* **omaredu** (1) [721175](https://platzi.com/comentario/721175/) 
 
 	```
 	    #include <iostream>
@@ -16965,9 +16555,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **juan carlos carlos** (1)
+* **juan carlos carlos** (1) [717072](https://platzi.com/comentario/717072/) 
 
-	
 	este es mi codigo
 	``` 
 	    #include <iostream>
@@ -17038,9 +16627,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **José Padrón** (1)
+* **José Padrón** (1) [709669](https://platzi.com/comentario/709669/) 
 
-	
 	**Reto Cumplido** 😃
 	``` 
 	    #include <iostream>
@@ -17125,9 +16713,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **enmtifa** (1)
+* **enmtifa** (1) [698170](https://platzi.com/comentario/698170/) 
 
-	
 	Hola, este es mi código
 	``` 
 	    #include <iostream>
@@ -17196,7 +16783,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **1234Alejo12** (1)
+* **1234Alejo12** (1) [692210](https://platzi.com/comentario/692210/) 
 
 	```
 	    #include <iostream>
@@ -17263,16 +16850,14 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    }
 	```
 
-* **armandoplay30** (1)
+* **armandoplay30** (1) [679067](https://platzi.com/comentario/679067/) 
 
-	
 	![](![2019-08-06 \(2\).png](https://static.platzi.com/media/user_upload/2019-08-06%20%282%29-7e4c8eef-150d-4c96-9d52-903fafc392f2.jpg)  
 	![](![2019-08-06 \(4\).png](https://static.platzi.com/media/user_upload/2019-08-06%20%284%29-4675cf03-2f6d-489b-8764-0253d367148f.jpg)  
 	![](![2019-08-06 \(6\).png](https://static.platzi.com/media/user_upload/2019-08-06%20%286%29-09edfc79-5d1e-4604-9fe9-5d22f9813af6.jpg)
 
-* **Luis Eduardo Ortega Rojas** (1)
+* **Luis Eduardo Ortega Rojas** (1) [677532](https://platzi.com/comentario/677532/) 
 
-	
 	Además de agregar la “W y S” para controlar la posición en Y del personaje, cargué otra librería para hacer uso de **system (“CLS”)** y de esta manera refrescar la pantalla antes de redibujar el mapa y el personaje… como para mejorar la experiencia del jugador. Esto googleando un poco.
 	``` 
 	    #include<iostream>
@@ -17361,7 +16946,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Koumori** (1)
+* **Koumori** (1) [674095](https://platzi.com/comentario/674095/) 
 
 	```
 	    #include <iostream>
@@ -17446,14 +17031,12 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Karina Betzabe Romero Ulloa** (1)
+* **Karina Betzabe Romero Ulloa** (1) [654157](https://platzi.com/comentario/654157/) 
 
-	
 	Decidí cambiarlo por switch, saludos. ![image \(2\).png](https://static.platzi.com/media/user_upload/image%20%282%29-bb0b7843-32a6-414c-a027-a4532e78cbd2.jpg)
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [653798](https://platzi.com/comentario/653798/) 
 
-	
 	RETO CUMPLIDO 😄  
 	(Solo se agregan los controles del HeroPosY)
 	``` 
@@ -17530,9 +17113,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **john jairo lopez ramirez** (1)
+* **john jairo lopez ramirez** (1) [651184](https://platzi.com/comentario/651184/) 
 
-	
 	Tan solo incluí la funcion en Y de w y s…
 	``` 
 	    <#include <iostream>
@@ -17622,9 +17204,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [638511](https://platzi.com/comentario/638511/) 
 
-	
 	Me está costando un poco pero voy mejorando jejeje.
 	``` 
 	    #include <iostream>
@@ -17725,7 +17306,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Estrictik117** (1)
+* **Estrictik117** (1) [633247](https://platzi.com/comentario/633247/) 
 
 	```
 	    #include <iostream>
@@ -17812,9 +17393,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [613478](https://platzi.com/comentario/613478/) 
 
-	
 	Aqui esta mi reto! Tambien aplique lo del reto de la clase pasada, no se puede salir del mapa.
 	``` 
 	    #include <iostream>
@@ -17924,9 +17504,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **José Anías Borja Pérez** (1)
+* **José Anías Borja Pérez** (1) [608165](https://platzi.com/comentario/608165/) 
 
-	
 	Acá está mi tarea del Reto 3:
 	
 	#include <iostream>
@@ -18017,7 +17596,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [600559](https://platzi.com/comentario/600559/) 
 
 	```
 	    #include <iostream>
@@ -18109,9 +17688,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Omar Mejia** (1)
+* **Omar Mejia** (1) [596131](https://platzi.com/comentario/596131/) 
 
-	
 	hola, dejo mi programa, impde que el heroe se salga del tablero y el tamaño del arreglo puede ser variable, conservando las mismas medidas de lineas y columnas.
 	
 	#include <iostream>  
@@ -18194,9 +17772,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	return 0;  
 	}
 
-* **pablofajardodiaz** (1)
+* **pablofajardodiaz** (1) [592377](https://platzi.com/comentario/592377/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -18266,9 +17843,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	
 	}
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [588580](https://platzi.com/comentario/588580/) 
 
-	
 	Optimicé el código ya que me parecía que un programa imprimiendo todo el tiempo el mapa precisa de más procesos. Qué hice? Dibujé el mapa aparte para que solo se requiera imprimir una vez y listo. El héroe borra su posicion anterior y se dibuja dependiendo de si pulsaste W, A, S o D usando coordenadas X y Y gracias a una instrucción de la libreria windows.h, que hace que el cursor se mueva hacia cualquier parte de la consola que yo le especifique. Para que no se salga de los bordes ni la H rompa los 0, que son las paredes, le especifiqué que si la siguiente casilla es 0 (columna 1 o fila 1), o es 9 (columna nueve o fila nueve, ya que mi mapa es 10x10), el personaje se volverá a dibujar en la misma casilla y no se moverá de allí.
 	``` 
 	    #include <iostream>
@@ -18445,7 +18021,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [586893](https://platzi.com/comentario/586893/) 
 
 	```
 	    #include <iostream>
@@ -18527,9 +18103,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Oscar Arbey Junca** (1)
+* **Oscar Arbey Junca** (1) [575694](https://platzi.com/comentario/575694/) 
 
-	
 	Buenas noches aqui dejo mi solucion al reto
 	``` 
 	    #include <iostream>
@@ -18615,7 +18190,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    ```Muchas gracias
 	```
 
-* **wilsonquesada** (1)
+* **wilsonquesada** (1) [573420](https://platzi.com/comentario/573420/) 
 
 	```
 	    <code>
@@ -18691,7 +18266,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [568917](https://platzi.com/comentario/568917/) 
 
 	```
 	    #include <iostream>
@@ -18772,7 +18347,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Yasser Pulido** (1)
+* **Yasser Pulido** (1) [564669](https://platzi.com/comentario/564669/) 
 
 	```
 	    #include <iostream>
@@ -18858,9 +18433,8 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Piero Acevedo** (0)
+* **Piero Acevedo** (0) [1057752](https://platzi.com/comentario/1057752/) 
 
-	
 	while(isGameOver == false)  
 	{  
 	cin>>Input;
@@ -18900,7 +18474,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **nicolas-baquero** (0)
+* **nicolas-baquero** (0) [1047887](https://platzi.com/comentario/1047887/) 
 
 	```
 	    #include <iostream>
@@ -19018,7 +18592,7 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-* **Aldo-Salas** (0)
+* **Aldo-Salas** (0) [582947](https://platzi.com/comentario/582947/) 
 
 	```
 	    #include <iostream>
@@ -19101,9 +18675,9 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 	    
 	```
 
-# Lectura de Archivos
+# Lectura de Archivos [3826]
 
-## 0270. Creando y leyendo un archivo externo
+## 0270. Creando y leyendo un archivo externo [19086](https://platzi.com/clases/1545-c-plus-plus/19086-creando-y-leyendo-un-archivo-externo/)
 
 ### Descripción:
 
@@ -19112,9 +18686,9 @@ Tip: Al igual que sumamos y restamos una variable que representa el movimiento l
 
 Esta herramienta nos ofrece algunas funciones y en esta clase vamos a utilizar las siguientes:
 
-  * **`ofstream`** : Un tipo de dato para crear flujos de datos de escritura.
-  * **`ifstream`** : Un tipo de dato para crear flujos de datos de lectura de archivos, debemos crear un ciclo y usar la función `getline` para iterar sobre cada una de las líneas del archivo que estamos leyendo.
-  * **`open/close`** : Comando para abrir y cerrar archivos.
+* **`ofstream`** : Un tipo de dato para crear flujos de datos de escritura.
+* **`ifstream`** : Un tipo de dato para crear flujos de datos de lectura de archivos, debemos crear un ciclo y usar la función `getline` para iterar sobre cada una de las líneas del archivo que estamos leyendo.
+* **`open/close`** : Comando para abrir y cerrar archivos.
 
 
 
@@ -19136,27 +18710,23 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 
 ### Comentarios:
 
-* **Alan Santiago** (7)
+* **Alan Santiago** (7) [706669](https://platzi.com/comentario/706669/) 
 
-	
 	Yo me quedé con las ganas de saber cómo _crashear_ alguna pc JAJA 😫😫
 
-	* **freddymm** (3)
+	* **freddymm** [706669] (3)
 
-		
 		toma el curso de fundamentos de ingenieria de software y aprende como el sistema operativo utiliza la memoria RAM, eso te dara una idea de como hacerlo
 
-	* **marco antonio** (3)
+	* **marco antonio** [706669] (3)
 
-		
 		usa punteros cof cof (void *) y ve a los espacios de memoria que están fuera de los limites del programa que estas corriendo ya sea que los elimines, reescribas o que los apuntes a otros espacios de memoria quizás eso te pueda ayudar con tus diabólicos planes XD
 
-* **Arturo_FrieS** (7)
+* **Arturo_FrieS** (7) [601168](https://platzi.com/comentario/601168/) 
 
-	
 	Joe Dorado me enseño a programar en 5 días lo que un maestro le tomo 1 semestre en enseñarme.
 
-* **Yasser Pulido** (3)
+* **Yasser Pulido** (3) [564683](https://platzi.com/comentario/564683/) 
 
 	```
 	    #include<iostream>
@@ -19183,14 +18753,12 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 	    
 	```
 
-* **Koumori** (1)
+* **Koumori** (1) [674115](https://platzi.com/comentario/674115/) 
 
-	
 	tengo mac y no encuentro el archivo que se supone debía crear :c alguien ?
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [653816](https://platzi.com/comentario/653816/) 
 
-	
 	/*CREANDO UN CUADRADO */
 	``` 
 	    #include <iostream>
@@ -19219,22 +18787,19 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 	    
 	```
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [638525](https://platzi.com/comentario/638525/) 
 
-	
 	Me encanta este curso 😄 😄
 
-* **durbonca** (1)
+* **durbonca** (1) [615233](https://platzi.com/comentario/615233/) 
 
-	
 	En linux no le importa nada ni cree en nadie a diferencia de Windows, el escribe el archivo y ya, aunque lo tengas abierto. Algún comentario o explicación al respecto?
 
-* **Jimmy_Ugalde** (1)
+* **Jimmy_Ugalde** (1) [68779](https://platzi.com/comentario/745866/) 
 <#include <iostream> #include <stdlib.h> // Libreria para funcion de sistema cls using namespace std; void DrawMap(...
 
-	* **Mauricio Gálvez** (1)
+	* **Mauricio Gálvez** [68779] (1)
 
-		
 		Fijate en los ifs de le parte de entrada de datos
 		``` 
 		    #include <iostream>
@@ -19320,43 +18885,37 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 		    }
 		```
 
-## 0280. Leyendo archivos externos
+## 0280. Leyendo archivos externos [19087](https://platzi.com/clases/1545-c-plus-plus/19087-leyendo-archivos-externos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (6)
+* **Danelia Sanchez Sanchez** (6) [567114](https://platzi.com/comentario/567114/) 
 
-	
 	No imprime el nombre porque se empieza a comparar el valor de Renglon a partir de 1 y no 0. Debería evaluarse primero la expresión del bloque if y después incrementar Renglon.
 
-	* **GibsPM** (1)
+	* **GibsPM** [567114] (1)
 
-		
 		O cambia a _3_ el valor de renglón y voilà!
 
-	* **Juan Alonso Alcala** (1)
+	* **Juan Alonso Alcala** [567114] (1)
 
-		
 		Tienes razon , tuve que cambiar  
 		Renglon == 2 por Renglon == 3  
 		para que salga como uno quiere
 
-	* **ffranco_** (1)
+	* **ffranco_** [567114] (1)
 
-		
 		Correcto. Por eso lo que hizo para corregirlo fue cambiar la línea de codigo “Renglon = … +1;” de arriba hacia abajo. Lo que dijo del sistema operativo está de más en mi opinión
 
-* **durbonca** (3)
+* **durbonca** (3) [615237](https://platzi.com/comentario/615237/) 
 
-	
 	A los que hayan jugado “Doki Doki Literature Club”, La mecanica del juego de hecho invita al jugador a modificar algunos de estos archivos para poder avanzar en el juego o incluso cambiar la historia. No voy a contar para evitar Spoilers pero los invito a investigar sobre la creatividad de este juego a los interesados del tema 😃
 
-* **Isaac Miranda Madrigal** (2)
+* **Isaac Miranda Madrigal** (2) [737315](https://platzi.com/comentario/737315/) 
 
-	
 	Mi versión:
 	``` 
 	    #include<iostream>
@@ -19411,25 +18970,23 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 	    
 	```
 
-* **Miguel_Echeverry** (2)
-![Captura7.PNG](https://static.platzi.com/media/user_upload/Captura7-f080536d-5f4e-4361-8f67-95b3575d4572.jpg)
-
-* **Josetruyolm** (1)
-
+* **Miguel_Echeverry** (2) [658463](https://platzi.com/comentario/658463/) 
 	
+	![Captura7.PNG](https://static.platzi.com/media/user_upload/Captura7-f080536d-5f4e-4361-8f67-95b3575d4572.jpg)
+
+* **Josetruyolm** (1) [971851](https://platzi.com/comentario/971851/) 
+
 	Los peores errores son los que sabes porque funcionan!
 
-* **Ramiro Nicolas D'Accorso Rosati** (1)
+* **Ramiro Nicolas D'Accorso Rosati** (1) [853281](https://platzi.com/comentario/853281/) 
 
-	
 	Joe mencciona la documentacion pero no lei en ningun lado que este, asi que la dejo aca: <http://www.cplusplus.com/reference/fstream/ifstream/?kw=ifstream>
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [638532](https://platzi.com/comentario/638532/) 
 
-	
 	Genial 😄
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [601319](https://platzi.com/comentario/601319/) 
 
 	```
 	    #include<iostream>
@@ -19502,7 +19059,7 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 	    
 	```
 
-* **Yasser Pulido** (1)
+* **Yasser Pulido** (1) [564741](https://platzi.com/comentario/564741/) 
 
 	```
 	    #include<iostream>
@@ -19555,10 +19112,10 @@ Para usar esta librería en tu programa de C++ solo debes incluirla al igual que
 	    
 	```
 
-* **JuGo** (1)
+* **JuGo** (1) [86683](https://platzi.com/comentario/1101373/) 
 No me lee la función getline, estoy usando visual studio y las librerías iostream, fstream. Alguien sabe como puedo solucionarlo?
 
-## 0290. Reto En el mapa, crear punto de inicio y salida del jugador
+## 0290. Reto En el mapa, crear punto de inicio y salida del jugador [19088](https://platzi.com/clases/1545-c-plus-plus/19088-reto-en-el-mapa-crear-punto-de-inicio-y-salida-del/)
 
 ### Descripción:
 
@@ -19578,9 +19135,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (6)
+* **Danelia Sanchez Sanchez** (6) [569139](https://platzi.com/comentario/569139/) 
 
-	
 	Comparto mi código:
 	``` 
 	    #include <iostream>
@@ -19726,21 +19282,18 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	
 	<https://repl.it/@DaneliaSanchez/Mapa>
 
-* **GibsPM** (3)
+* **GibsPM** (3) [803124](https://platzi.com/comentario/803124/) 
 
-	
 	Ay caray, caray, un reto difícil para su servidor, más que nada por la redacción del mismo aquí en esta sección. Sin embargo, después de leer aportaciones de los colegas e investigar, aquí está mi versión:
 	
 	Bueno, no incluiré el código, mejor léanlo y véanlo funcionar [aquí](https://repl.it/@GibranPM/Leer-mapa-de-jugador-desde-archivo).
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [803124] (1)
 
-		
 		Sii! La verdad no es claro el reto…
 
-* **Israel Yance** (2)
+* **Israel Yance** (2) [794898](https://platzi.com/comentario/794898/) 
 
-	
 	Esta es mi solución:  
 	<https://repl.it/@israelyance/Juego-C-Platzi>
 	``` 
@@ -19852,14 +19405,12 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Miguel_Echeverry** (2)
+* **Miguel_Echeverry** (2) [658547](https://platzi.com/comentario/658547/) 
 
-	
 	alguien por favor que me explique en si lo que hay que hacer ? no entiendo esa redacción casi , lo que he visto es que hay que hacer que cuando el jugador se salga del juego y vuelva entrar exista como una opcion de cargar la partida , es decir donde estaba el jugador antes de salirse del juego ?
 
-	* **paconity** (2)
+	* **paconity** [658547] (2)
 
-		
 		Buenas Miguel, tampoco estoy muy seguro de lo que pide el reto, pero como yo lo interprete es que pudiéramos hacer lo mismo que sucede en el reto anterior, pero incorporando lo que se vio en esta lección. Yo hice que, al igual que en el reto pasado, con las teclas se moviera un personaje por un mapa, pero a la vez estos movimientos fueran registrados en un archivo de texto, como si cada paso en cualquier dirección reescribiera el mapa que aparecería en el archivo de texto, por ejemplo; cuando tecleo “P” el programa acaba y guardaba información en el archivo de texto, mostrando lo mismo que se vería en la consola, solo que ya guardado en un archivo de texto en el disco duro, como si no perdiera el progreso por así decirlo, ya que este se encontraría en el .txt.  
 		Te dejo mi código por si quieres ver como funciona al final.
 		``` 
@@ -19970,9 +19521,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 		
 		![](![Screen Shot 2019-07-27 at 17.49.27.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-27%20at%2017.49.27-155a5236-98f0-457f-877a-cd434b7efc17.jpg)
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1095997](https://platzi.com/comentario/1095997/) 
 
-	
 	Reto cumplido✌🏼
 	``` 
 	    <#include <iostream>
@@ -20064,9 +19614,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1069411](https://platzi.com/comentario/1069411/) 
 
-	
 	Buenas,  
 	Adjunto el código con el que resolvi este reto.  
 	Mi forma de solucionarlo es que el usuario debe indicar en el bloc de notas en la primera línea el valor en **x** y en la segunda linea el valor en **y**
@@ -20169,9 +19718,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Piero Acevedo** (1)
+* **Piero Acevedo** (1) [1067924](https://platzi.com/comentario/1067924/) 
 
-	
 	#include <iostream>  
 	#include <fstream>
 	
@@ -20286,7 +19834,7 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	
 	}
 
-* **jegolvera** (1)
+* **jegolvera** (1) [1037417](https://platzi.com/comentario/1037417/) 
 
 	```
 	    #include <iostream>
@@ -20416,9 +19964,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **guillermogranado** (1)
+* **guillermogranado** (1) [1007834](https://platzi.com/comentario/1007834/) 
 
-	
 	El programa va a buscar el archivo con el mapa.  
 	La primera linea representa el numero de files, despues se representa el mapa con las posiciones del heroe (H) y la salido (*).  
 	IMPORTANTE: las filas deben tener los mismos caracteres
@@ -20627,7 +20174,7 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **David A. Casas Amézquita** (1)
+* **David A. Casas Amézquita** (1) [1002372](https://platzi.com/comentario/1002372/) 
 
 	```
 	    #include <iostream>
@@ -20763,9 +20310,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Luis Jose Altamirano** (1)
+* **Luis Jose Altamirano** (1) [998169](https://platzi.com/comentario/998169/) 
 
-	
 	RETO LOGRADO!!!  
 	Tuve que crear el Mapa en archivo de texto primero , pero el codigo funciona perfectamente 😃
 	``` 
@@ -20874,9 +20420,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **kevingerardomendez** (1)
+* **kevingerardomendez** (1) [993808](https://platzi.com/comentario/993808/) 
 
-	
 	#include <iostream>  
 	#include <fstream>
 	
@@ -21017,9 +20562,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	
 	}
 
-* **marco antonio** (1)
+* **marco antonio** (1) [989565](https://platzi.com/comentario/989565/) 
 
-	
 	![](![ejercicio de guardado.jpg](https://static.platzi.com/media/user_upload/ejercicio%20de%20guardado-a8370c9f-4b36-468b-a24d-ee986ef57205.jpg)
 	
 	qui el enlace por si lo quieren ver correr  
@@ -21190,7 +20734,7 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [942652](https://platzi.com/comentario/942652/) 
 
 	```
 	    #include <iostream>
@@ -21298,9 +20842,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Fidel Hernández Rendón** (1)
+* **Fidel Hernández Rendón** (1) [893439](https://platzi.com/comentario/893439/) 
 
-	
 	No entendí del todo la instrucción, así que lo que hice fue que si el archivo no existía lo crea y si existe lo lee y asigna las coordenadas en el juego
 	``` 
 	    #include <iostream>
@@ -21406,9 +20949,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [890194](https://platzi.com/comentario/890194/) 
 
-	
 	Tuve que buscar los errores que retornaba mi código debido a que no hemos visto los temas, pero aquí tengo mi reto concluido:
 	``` 
 	    #include <iostream>
@@ -21526,9 +21068,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [882996](https://platzi.com/comentario/882996/) 
 
-	
 	Ha costado un poco, pero lo he conseguido.
 	``` 
 	    #include <iostream>
@@ -21631,9 +21172,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **davidegc** (1)
+* **davidegc** (1) [876052](https://platzi.com/comentario/876052/) 
 
-	
 	Comparto mi solución
 	``` 
 	    #include <iostream>
@@ -21753,28 +21293,27 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [864822](https://platzi.com/comentario/864822/) 
 
-	
 	Este es el mío: <https://github.com/jcalvarezj/practice/blob/master/C%2B%2B/juego2D.cpp>
 	
 	Por si alguien se pierde un poco leyendo mi código, aquí unas explicaciones…
 	
-	  * No quise usar namespace std y usé los elementos con std:: , solo como por seguir la buena práctica
+	* No quise usar namespace std y usé los elementos con std:: , solo como por seguir la buena práctica
 	
-	  * In enligsh, porque hay que darle al inglés, y quedó documentadito
+	* In enligsh, porque hay que darle al inglés, y quedó documentadito
 	
-	  * Definí constantes para manejar valores que se mantienen igual en todo el programa con
+	* Definí constantes para manejar valores que se mantienen igual en todo el programa con
 	
 	#define NOMBRE_CONSTANTE valor
 	
-	  * En lugar de números quise usar otros caracteres… por ejemplo espacio vacío (_), personaje (I), guardado del personaje (*)
+	* En lugar de números quise usar otros caracteres… por ejemplo espacio vacío (_), personaje (I), guardado del personaje (*)
 	
-	  * Le di al mapa otras dimensiones (manejadas por constantes), y en los parámetros es opcional poner el tamaño de la primera dimensión de arrays
+	* Le di al mapa otras dimensiones (manejadas por constantes), y en los parámetros es opcional poner el tamaño de la primera dimensión de arrays
 	
-	  * Usé punteros (o apuntadores) para modificar por referencia las variables pasadas como argumentos de métodos (con la forma clásica de C… porque acabo de descubrir que en C++ existen los parámetros por referencia que no necesitan punteros… pero ya que, son equivalentes… xD).
+	* Usé punteros (o apuntadores) para modificar por referencia las variables pasadas como argumentos de métodos (con la forma clásica de C… porque acabo de descubrir que en C++ existen los parámetros por referencia que no necesitan punteros… pero ya que, son equivalentes… xD).
 	
-	  * (Sobre lo anterior, por ejemplo, modificaA y modificaB cumplen el mismo fin:)
+	* (Sobre lo anterior, por ejemplo, modificaA y modificaB cumplen el mismo fin:)
 	
 	#include <iostream>
 	
@@ -21801,16 +21340,15 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	
 	}
 	
-	  * Usé prototipos de funciones. Esto es, definir las firmas de las funciones antes del ‘main’ para poder definirlas después de éste (y para tener tanto orden en el código, como que no haya problemas con funciones que llaman a otras y no las encuentren anteriormente definidas)
+	* Usé prototipos de funciones. Esto es, definir las firmas de las funciones antes del ‘main’ para poder definirlas después de éste (y para tener tanto orden en el código, como que no haya problemas con funciones que llaman a otras y no las encuentren anteriormente definidas)
 	
-	  * Y quise como cuadrarlo en la regla de 80 caracteres máximo por línea, solo como para seguir estilos
+	* Y quise como cuadrarlo en la regla de 80 caracteres máximo por línea, solo como para seguir estilos
 	
 	
 	
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [859688](https://platzi.com/comentario/859688/) 
 
-	
 	Estuvo un poco complejo el reto pero eso hace que se aprenda más!!💪  
 	Creo que la redacción no es clara…pero viendo los ejemplos de los compañeros, entendí que la idea era básicamente poder guardar y cargar el progreso del juego desde un archivo de texto y así poder guardar la posición del juego anterior.  
 	  
@@ -21989,9 +21527,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Wilson Neftali Mundo Alonzo** (1)
+* **Wilson Neftali Mundo Alonzo** (1) [828186](https://platzi.com/comentario/828186/) 
 
-	
 	Estuvo divertido este reto a la forma en que lo entendí cree estas opciones
 	
 	  1. Iniciar el juego en 0 y permitirle guardar en un archivo
@@ -22205,9 +21742,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **estuardo-villagran** (1)
+* **estuardo-villagran** (1) [763775](https://platzi.com/comentario/763775/) 
 
-	
 	#include <iostream>  
 	#include <fstream>
 	
@@ -22302,9 +21838,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	
 	}
 
-* **enmtifa** (1)
+* **enmtifa** (1) [706403](https://platzi.com/comentario/706403/) 
 
-	
 	Hola buenas tardes, aquí adjunto mi respuesta al reto
 	``` 
 	    #include <iostream>
@@ -22391,9 +21926,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Koumori** (1)
+* **Koumori** (1) [675900](https://platzi.com/comentario/675900/) 
 
-	
 	alguno que me pueda ayudar es que no me lo guarda en el archivo de texto
 	``` 
 	    #include<iostream>
@@ -22550,7 +22084,7 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Nicolas Ticona Valdivia** (1)
+* **Nicolas Ticona Valdivia** (1) [663313](https://platzi.com/comentario/663313/) 
 
 	```
 	    void DramMap(int posX, int posY, char map[5][5]){
@@ -22663,14 +22197,12 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **Karina Betzabe Romero Ulloa** (1)
+* **Karina Betzabe Romero Ulloa** (1) [658628](https://platzi.com/comentario/658628/) 
 
-	
 	Reto [aquí](https://raw.githubusercontent.com/KarinaRomero/practices-cpp/b92ceb27444b9cb655cc8b0c43cf01b0ab344621/main.cpp), saludos!
 
-* **Steven Angel Coaila Zaa** (1)
+* **Steven Angel Coaila Zaa** (1) [653977](https://platzi.com/comentario/653977/) 
 
-	
 	RETO CUMPLIDO! 😂
 	``` 
 	    #include <iostream>
@@ -22792,9 +22324,8 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **luisglopez7777** (1)
+* **luisglopez7777** (1) [647108](https://platzi.com/comentario/647108/) 
 
-	
 	Asi fue como yo lo hice
 	
 	#include <iostream>  
@@ -22885,24 +22416,20 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **David Felipe Bohórquez** (1)
+* **David Felipe Bohórquez** (1) [640581](https://platzi.com/comentario/640581/) 
 
-	
 	No he podido 😦 hay algun recurso adicional donde pueda yo guiarme para poder lograr este reto?
 
-	* **luisglopez7777** (3)
+	* **luisglopez7777** [640581] (3)
 
-		
 		checa mi respuesta, si tienes duda me dices
 
-	* **David Felipe Bohórquez** (2)
+	* **David Felipe Bohórquez** [640581] (2)
 
-		
 		gracias voy a revisarlo 😃
 
-* **marco_cm** (1)
+* **marco_cm** (1) [615071](https://platzi.com/comentario/615071/) 
 
-	
 	Mi intención fue controlar el juego desde crear un nuevo ingreso de datos hasta aperturar un juego guardado… ingresando todos los datos. Para completar el detalle de conversión de String a Int para la lectura de posiciones y los limites use la libreria de CSTDLIB <\-- No tuve otra opcion.
 	``` 
 	    #include <iostream>
@@ -23091,12 +22618,11 @@ Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera 
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [71544](https://platzi.com/comentario/799425/) 
 Ya leí todos los mensajes de mis compañeros, y no logro entender el reto... ¿Alguien que pueda explicar??? Gracias de antemano.
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [71544] (3)
 
-		
 		¡Hola! Te explico.
 		
 		Debes programar el código necesario para que el jugador pueda ver su posición en el mapa. Mejor aún si puedes dejarle un mensajito o algo así para ser más claros.
@@ -23128,9 +22654,9 @@ Ya leí todos los mensajes de mis compañeros, y no logro entender el reto... ¿
 		    
 		```
 
-# Programación Orientada a Objetos
+# Programación Orientada a Objetos [3827]
 
-## 0300. ¿Qué es POO
+## 0300. ¿Qué es POO [19089](https://platzi.com/clases/1545-c-plus-plus/19089-que-es-poo/)
 
 ### Descripción:
 
@@ -23145,28 +22671,25 @@ Además, por trabajar con objetos separados, cada objeto debe funcionar de forma
 
 Recuerda que puedes aprender mucho más sobre la programación orientada a objetos y otros paradigmas de programación con estos otros cursos:
 
-  * [Curso de Programación Orientada a Objetos](https://platzi.com/cursos/oop/)
-  * [Curso de Programación Funcional en JavaScript por Bedu](https://platzi.com/cursos/funcional-js/)
-  * [Curso de Ruby: Programación Orientada a Objetos](https://platzi.com/cursos/ruby-poo/)
-  * [Curso de Programación Estructurada](https://platzi.com/cursos/programacion-estructurada/)
+* [Curso de Programación Orientada a Objetos](https://platzi.com/cursos/oop/)
+* [Curso de Programación Funcional en JavaScript por Bedu](https://platzi.com/cursos/funcional-js/)
+* [Curso de Ruby: Programación Orientada a Objetos](https://platzi.com/cursos/ruby-poo/)
+* [Curso de Programación Estructurada](https://platzi.com/cursos/programacion-estructurada/)
 
 
 
 ### Comentarios:
 
-* **Jean Carlos Nuñez Hernandez** (4)
+* **Jean Carlos Nuñez Hernandez** (4) [591232](https://platzi.com/comentario/591232/) 
 
-	
 	POO en esencia es lo mas importante de C++
 
-	* **paconity** (1)
+	* **paconity** [591232] (1)
 
-		
 		es por eso que sigue tan presente, supongo.
 
-* **funkydaniel** (3)
+* **funkydaniel** (3) [789799](https://platzi.com/comentario/789799/) 
 
-	
 	Profundizando un poco en los paradigmas de la programación, se puede decir que la mayoría de los lenguajes de programación de propósito general ( de uso más amplio en la industria y educación) se pueden clasificar en dos paradigmas y cada uno con dos subparadigmas.
 	
 	  1. Programación Imperativa. Describe el cómputo como una secuencia de enunciados o instrucciones que modifican un programa. Los subparadigmas de esta clase son:  
@@ -23180,21 +22703,19 @@ Recuerda que puedes aprender mucho más sobre la programación orientada a objet
 	
 	
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1088447](https://platzi.com/comentario/1088447/) 
 
-	
 	Se podría ver a POO como un subsistema con sus características aparte que conforma un sistema general.
 
-* **SERGIO PASTOR ONTIVEROS PEREZ** (1)
+* **SERGIO PASTOR ONTIVEROS PEREZ** (1) [706781](https://platzi.com/comentario/706781/) 
 
-	
 	Paradigma de programación: es la lógica ó forma de interpretar un problema que permite estructurar una solución.  
 	Tipos de paradigmas:  
 	(i) Imperativa: La información está basada en una secuencia de comandos que permiten solucionar el problema.  
 	(ii) Funcional: Basada en el principio de las funciones matematicas. La información es tratada por medio de funciones (entrada y salida de datos).  
 	(iii) POO: Paradigma en el cual la estructura de una aplicación está basada en objetos en lugar de comandos y datos en lugar de lógica.
 
-## 0310. Definiendo una clase y creando sus instancias
+## 0310. Definiendo una clase y creando sus instancias [19090](https://platzi.com/clases/1545-c-plus-plus/19090-definiendo-una-clase-y-creando-sus-instancias/)
 
 ### Descripción:
 
@@ -23211,9 +22732,8 @@ Por ejemplo: podemos crear una clase llamada `gatito` con las propiedades nombre
 
 ### Comentarios:
 
-* **enmtifa** (2)
+* **enmtifa** (2) [1070300](https://platzi.com/comentario/1070300/) 
 
-	
 	Hecho!!!
 	``` 
 	       void Meow ()
@@ -23238,27 +22758,23 @@ Por ejemplo: podemos crear una clase llamada `gatito` con las propiedades nombre
 	    
 	```
 
-* **enmtifa** (2)
+* **enmtifa** (2) [1070298](https://platzi.com/comentario/1070298/) 
 
-	
 	Las clases, yo siempre las he pensado como un videojuego. A mí me gusta mucho Starcraft II que es un juego de estrategia. Por lo que una clase de ejemplo sería un soldado de los Terran, si hago 10 soldados cada uno de ellos tiene el mismo molde, pero si a uno de ellos le hacen daño a ese se le baja la energía, pero al resto de soldados no, por lo que sería un objeto independiente de los demás.
 
-	* **jose-morales-varon** (1)
+	* **jose-morales-varon** [1070298] (1)
 
-		
 		Excelente comentario me ayudo a comprender mejor el significado como tal de una clase.
 
-* **durbonca** (2)
+* **durbonca** (2) [625152](https://platzi.com/comentario/625152/) 
 
-	
 	una clase es la abstraccion de un objeto del mundo real el cual posee atributos. Un ejemplo;  
 	La clase Heroe, puede tener; nombre, vida, mana, XP, Lvl. etc.
 	
 	Al menos eso es lo que creo.
 
-* **Juan David Castro (Platzi)** (2)
+* **Juan David Castro (Platzi)** (2) [562940](https://platzi.com/comentario/562940/) 
 
-	
 	Podemos crear varios constructores en nuestras clases de C++ para programar los casos donde recibimos o no recibimos parámetros. En JavaScript podemos usar valores por defecto para los casos donde no enviamos argumentos al constructor de nuestras clases pero no podemos crear atributos privados (en teoria no pero en la práctica si, yo solo digo 😅).
 	
 	**C++:**
@@ -23290,42 +22806,35 @@ Por ejemplo: podemos crear una clase llamada `gatito` con las propiedades nombre
 	    
 	```
 
-* **javalvarenga** (1)
+* **javalvarenga** (1) [1045706](https://platzi.com/comentario/1045706/) 
 
-	
 	una galleta es un objeto independiente
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [860208](https://platzi.com/comentario/860208/) 
 
-	
 	Una clase es una plantilla a partir de la cual creamos objetos…Es como un molde para un pastel. Tienes el molde pero a partir de ese molde puedes crear pasteles cada uno diferente… Uno de chocolate, otro de vainilla, etc… Pero aún así, todo fueron hechos con el mismo molde
 
-* **briansm** (1)
+* **briansm** (1) [806054](https://platzi.com/comentario/806054/) 
 
-	
 	Una Clase es una plantilla
 
-* **GibsPM** (1)
+* **GibsPM** (1) [804603](https://platzi.com/comentario/804603/) 
 
-	
 	Una clase es el molde o plantilla de donde saldrán nuestros objetos.
 
-* **enmtifa** (1)
+* **enmtifa** (1) [708162](https://platzi.com/comentario/708162/) 
 
-	
 	 **Clase:** Una clase puede ser una clasificación de objetos o una categoría. Por ejemplo: Si hablamos de una tortuga pertenecería a la clase reptil.
 
-* **SERGIO PASTOR ONTIVEROS PEREZ** (1)
+* **SERGIO PASTOR ONTIVEROS PEREZ** (1) [706792](https://platzi.com/comentario/706792/) 
 
-	
 	Clase: Tipo da dato complejo definido por el programador. Es una abstracción de un objeto cualquier y que posee diferentes atributos, En otras palabras es el molde que va definir un tipo especifico de objeto y los objetos creados (o inicializados) a partir de esa clase especifica se denominan Instancias.
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [614471](https://platzi.com/comentario/614471/) 
 
-	
 	Una clase es como el molde donde se crearia un objeto; un objeto seria una instancia de una clase.
 
-* **Pablo_MN** (1)
+* **Pablo_MN** (1) [605447](https://platzi.com/comentario/605447/) 
 
 	```
 	    <code>
@@ -23375,7 +22884,7 @@ Por ejemplo: podemos crear una clase llamada `gatito` con las propiedades nombre
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [604930](https://platzi.com/comentario/604930/) 
 
 	```
 	    #include<iostream>
@@ -23411,12 +22920,11 @@ Por ejemplo: podemos crear una clase llamada `gatito` con las propiedades nombre
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [594815](https://platzi.com/comentario/594815/) 
 
-	
 	Clases suena como a especie de algo o un grupo definido de caracteristicas especificas
 
-* **Jonatan Hdez** (0)
+* **Jonatan Hdez** (0) [822225](https://platzi.com/comentario/822225/) 
 
 	```
 	    <code>
@@ -23467,7 +22975,7 @@ Por ejemplo: podemos crear una clase llamada `gatito` con las propiedades nombre
 	return 0;  
 	}
 
-## 0320. Encapsulación
+## 0320. Encapsulación [19091](https://platzi.com/clases/1545-c-plus-plus/19091-encapsulacion/)
 
 ### Descripción:
 
@@ -23476,33 +22984,30 @@ La encapsulación es el proceso de combinar datos y métodos en una misma clase 
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [562942](https://platzi.com/comentario/562942/) 
 
-	
 	🔥 **Naming Conventions in C++** 🔥
 	
-	  * La regla de oro es que siempre debes **sentirte a gusto** con tus reglas, de caso contrario, **no sirven para nada** y solo retrasan tu trabajo 🔪
-	  * **A mi me gusta así** : 🌵 `PascalCase` para las clases, 🐫 `camelCase` para las instancias de las clases y otras variables, 🐍 `snake_case` para las funciones y `UPPER_SNAKE_CASE` para las constantes (cosas que --en teoría-- nunca cambian en toda la ejecución del programa) 🎉
+	* La regla de oro es que siempre debes **sentirte a gusto** con tus reglas, de caso contrario, **no sirven para nada** y solo retrasan tu trabajo 🔪
+	* **A mi me gusta así** : 🌵 `PascalCase` para las clases, 🐫 `camelCase` para las instancias de las clases y otras variables, 🐍 `snake_case` para las funciones y `UPPER_SNAKE_CASE` para las constantes (cosas que --en teoría-- nunca cambian en toda la ejecución del programa) 🎉
 	
 	
 	
 	> _move files around until it feels right_  
 	>  -Dan Abramov in [React File Structure](http://react-file-structure.surge.sh)
 	
-	  * [What is a good naming convention for vars, methods, etc in C++?](https://stackoverflow.com/questions/3706379/what-is-a-good-naming-convention-for-vars-methods-etc-in-c)
+	* [What is a good naming convention for vars, methods, etc in C++?](https://stackoverflow.com/questions/3706379/what-is-a-good-naming-convention-for-vars-methods-etc-in-c)
 	
 	
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [562942] (1)
 
-		
 		¡¡Grandeee!!
 		
 		Qué aporte más genial, gracias compañero.
 
-* **Yasser Pulido** (3)
+* **Yasser Pulido** (3) [568475](https://platzi.com/comentario/568475/) 
 
-	
 	Resumen:
 	``` 
 	    #include<iostream>
@@ -23536,37 +23041,31 @@ La encapsulación es el proceso de combinar datos y métodos en una misma clase 
 	    
 	```
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [568475] (1)
 
-		
 		Hola, gracias por el aporte pero ¿qué rayos es el **this**?
 		
 		El profe no lo tiene en su código.
 
-	* **carlos-bolivar** (2)
+	* **carlos-bolivar** [568475] (2)
 
-		
 		El **this** hace referencia a la variable de la clase, de esta manera le indicas al programa que this->nombre pertenece a la clase Perro y la variable nombre sin el this, es la que recibes por parametro!
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (2)
+	* **Manuel Alejandro Aguilar Téllez Girón** [568475] (2)
 
-		
 		¡Grande hermano!  
 		Gracias @carlos-bolivar
 
-	* **freddymm** (2)
+	* **freddymm** [568475] (2)
 
-		
 		ok, muy bueno el aporte yo pensaba que eso solo funcionaba en javaScript
 
-* **jose-morales-varon** (1)
+* **jose-morales-varon** (1) [1088495](https://platzi.com/comentario/1088495/) 
 
-	
 	Encapsulamiento= Privar de ciertos accesos a cualquier persona que desee acceder a los datos de algún elemento de la clase.
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1070278](https://platzi.com/comentario/1070278/) 
 
-	
 	Hecho!!!
 	``` 
 	    #include<iostream>
@@ -23615,7 +23114,7 @@ La encapsulación es el proceso de combinar datos y métodos en una misma clase 
 	    
 	```
 
-## 0330. Abstracción
+## 0330. Abstracción [19109](https://platzi.com/clases/1545-c-plus-plus/19109-abstraccion/)
 
 ### Descripción:
 
@@ -23630,24 +23129,20 @@ Así, los jugadores NO podrán modificar nuestras propiedades secretas y solo po
 
 ### Comentarios:
 
-* **Jeffersson Muñoz Torres** (5)
+* **Jeffersson Muñoz Torres** (5) [671365](https://platzi.com/comentario/671365/) 
 
-	
 	 _Vengo del futuro:_ Algún día pensaran que este fue el mejor ejemplo que le dieron de Abstracción en la programación orientada a objetos.
 
-* **Jonás Onofre Durán** (4)
+* **Jonás Onofre Durán** (4) [921782](https://platzi.com/comentario/921782/) 
 
-	
 	Para aquellos que quieran separar las clases del fichero donde se encuentra el método main, pueden crear normal su fichero aparte ejemplo “otroarchivo.cpp” y el el fichero donde se encuentra el metodo main lo pueden incluir donde van las librerias de la siguiente forma: #include “otroarchivo.cpp”. A mi me funciono de esta forma.
 
-* **SERGIO PASTOR ONTIVEROS PEREZ** (3)
+* **SERGIO PASTOR ONTIVEROS PEREZ** (3) [708345](https://platzi.com/comentario/708345/) 
 
-	
 	Puedo afirmar que abstracción es el proceso de dividir la informaicón y funciones del código en dos grupos: Privadas y Públicas. Las informaciones y funciones públicas son aquellas que pueden estar al alcance del usuario permitiendo ejecutar sus actividades, Ya las informaciones y funciones privadas están fuera del alcance del usuario impidiendo que sean modificadas.
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1072863](https://platzi.com/comentario/1072863/) 
 
-	
 	Hecho!!!
 	``` 
 	    #include<iostream>
@@ -23706,7 +23201,7 @@ Así, los jugadores NO podrán modificar nuestras propiedades secretas y solo po
 	    
 	```
 
-## 0340. Herencia
+## 0340. Herencia [19093](https://platzi.com/clases/1545-c-plus-plus/19093-herencia/)
 
 ### Descripción:
 
@@ -23739,61 +23234,53 @@ Debemos crear una nueva clase pero antes de abrir las llaves (`{}`) vamos a aña
 
 ### Comentarios:
 
-* **Jalile Herrera Ramírez** (10)
+* **Jalile Herrera Ramírez** (10) [840348](https://platzi.com/comentario/840348/) 
 
-	
 	Para no tener que volver a escribir los atributos en la clase hija, o para no ponerlos públicos en la clase madre, basta con ponerlos **protegidos** , así los heredan las clases hijas.  
 	Sin faltar a la seguridad con el public ni tener que volver a escribirlos.
 
-* **Juan David Castro (Platzi)** (5)
-![](https://instagram.fbog7-1.fna.fbcdn.net/vp/5dea0be6e1db0aca99b4e8a63ca47134/5D375070/t51.2885-15/sh0.08/e35/s640x640/54511112_187159545601515_1055391020461295568_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
-
-* **enmtifa** (4)
-
+* **Juan David Castro (Platzi)** (5) [562944](https://platzi.com/comentario/562944/) 
 	
+	![](https://instagram.fbog7-1.fna.fbcdn.net/vp/5dea0be6e1db0aca99b4e8a63ca47134/5D375070/t51.2885-15/sh0.08/e35/s640x640/54511112_187159545601515_1055391020461295568_n.jpg?_nc_ht=instagram.fbog7-1.fna.fbcdn.net)
+
+* **enmtifa** (4) [1075956](https://platzi.com/comentario/1075956/) 
+
 	Buenas,
 	
 	Dejo este esquema resumen de Herencia, para ayudar a entender un poco más los temas como public, private o protected.
 	
 	![Esquema.PNG](https://static.platzi.com/media/user_upload/Esquema-ec9a2263-9785-48b7-a198-6b467c3a73cc.jpg)
 
-* **Miguel_Echeverry** (3)
+* **Miguel_Echeverry** (3) [662462](https://platzi.com/comentario/662462/) 
 
-	
 	Mi aporte
 	
 	![Captura10.PNG](https://static.platzi.com/media/user_upload/Captura10-49ab9e6c-8e27-4416-b1c0-7682b2617377.jpg)![Captura11.PNG](https://static.platzi.com/media/user_upload/Captura11-118d4a56-45e6-41d5-8601-a63a190dc44d.jpg)
 
-* **kevingerardomendez** (2)
+* **kevingerardomendez** (2) [995653](https://platzi.com/comentario/995653/) 
 
-	
 	No me convencio mucho esta explicacion debido a que rompio la encapsulacion al pasar las propiedades de privadas a publicas, Hay alguna mejor forma de hacer la herencia sin tener que sacar los atributos de su encapsulacion?
 
-	* **john jairo lopez ramirez** (2)
+	* **john jairo lopez ramirez** [995653] (2)
 
-		
 		Si, indicando los miembros de datos privados como protected.
 		
 		<https://stackoverflow.com/questions/224966/private-and-protected-members-c>
 
-* **Kevin Santiago Rey Rodriguez** (2)
+* **Kevin Santiago Rey Rodriguez** (2) [752937](https://platzi.com/comentario/752937/) 
 
-	
 	la etiqueta friend es una buena forma de obtener los elementos privados de una clase 😃. para los q ue quieran ver otras forma de solucionar en error que apareció en clase. Saludos a todos.
 
-* **Kevin Santiago Rey Rodriguez** (2)
+* **Kevin Santiago Rey Rodriguez** (2) [752927](https://platzi.com/comentario/752927/) 
 
-	
 	en mi opinión: falta la explicación de la palabra Virtual que es muy importante para el proceso de abstracción.
 
-* **Danelia Sanchez Sanchez** (2)
+* **Danelia Sanchez Sanchez** (2) [571306](https://platzi.com/comentario/571306/) 
 
-	
 	Miembros de una clase son privados por defecto si no se especifica el tipo de acceso (private, public, protected).
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1075760](https://platzi.com/comentario/1075760/) 
 
-	
 	Hecho!!!
 	``` 
 	    #include<iostream>
@@ -23838,9 +23325,8 @@ Debemos crear una nueva clase pero antes de abrir las llaves (`{}`) vamos a aña
 	    
 	```
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [1021682](https://platzi.com/comentario/1021682/) 
 
-	
 	Tuve dudas sobre la forma en que se hereda el constructor pero espero que con éste aporte ayude si alguien pasa por lo mismo:
 	``` 
 	    #include<iostream>
@@ -23909,9 +23395,8 @@ Debemos crear una nueva clase pero antes de abrir las llaves (`{}`) vamos a aña
 	    
 	```
 
-* **Daniel Gomez** (1)
+* **Daniel Gomez** (1) [580238](https://platzi.com/comentario/580238/) 
 
-	
 	Mi aporte el único inconveniente que no se como solucionarlo es en el case 2
 	``` 
 	    #include<iostream>
@@ -24004,18 +23489,16 @@ Debemos crear una nueva clase pero antes de abrir las llaves (`{}`) vamos a aña
 	    
 	```
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [580238] (2)
 
-		
 		Según esta [discusión](https://es.stackoverflow.com/questions/103834/tengo-un-error-crosses-initialization-of-jugador-p3-al-usar-el-switch-en-c), hay un problema de ámbito en la sentencia `switch`, como manejas dos casos, te recomendaría implementar un `if-else` en lugar de `switch`.
 
-	* **GibsPM** (1)
+	* **GibsPM** [580238] (1)
 
-		
 		Estás inicializando una variable ( _nameMago_ ) dentro de tus cases, y la misma sigue “viva” dentro de tu switch. lo cuál ocasiona el error de "crosses initialization of…"  
 		Para solucionarlo, una opción es el uso de llaves para delimitar el ámbito de tu variable, en tu caso en especial, con poner llaves después de los dos puntos del primer case y antes del primer break, es suficiente.
 
-## 0350. Propiedades de clase en herencia
+## 0350. Propiedades de clase en herencia [19118](https://platzi.com/clases/1545-c-plus-plus/19118-propiedades-de-clase-en-herencia/)
 
 ### Descripción:
 
@@ -24031,29 +23514,25 @@ Una parte importante en la herencia es el tipo de **acceso** que se tiene a la i
 
 ### Comentarios:
 
-* **enmtifa** (2)
+* **enmtifa** (2) [1075959](https://platzi.com/comentario/1075959/) 
 
-	
 	Buenas,
 	
 	Dejo este esquema resumen de Herencia, y para ayudar a entender un poco temas como public, private o protected.
 	
 	![Esquema.PNG](https://static.platzi.com/media/user_upload/Esquema-71c56b89-1b4d-4912-b044-22d1dfb510dc.jpg)
 
-* **kevingerardomendez** (2)
+* **kevingerardomendez** (2) [998237](https://platzi.com/comentario/998237/) 
 
-	
 	Ya aqui quede claro en base a mi comentario en la seccion anterior, pero aun asi creo que el maestro se enredo mucho pasando los atributos de privados a publicos.  
 	Como recomendacion o sugerencia, mejor los hubiera pasado a protegidos y de un solo hubiera explicado el tema para que esta seccion del curso no existiera.
 
-* **akivosimcho** (2)
+* **akivosimcho** (2) [602504](https://platzi.com/comentario/602504/) 
 
-	
 	Casi no veo la diferencia de hacer otra clase, en el ejemplo anterior en la clase IceMage casi que copiamos todo lo que habia en la clase padre, todavía no me queda claro.
 
-	* **max marquez** (6)
+	* **max marquez** [602504] (6)
 
-		
 		La utilidad general es agregar nuevas características… en el ejemplo anterior el mago solo podía hacer spell , pero si quisiéramos una nueva clase de mago que ademas de spell también pueda hacer invocaciones, solo bastaría con heredar a mago y adicional mente añadir la habilidad invocación, algo tal que así:
 		
 		invocation(String invocationType )  
@@ -24063,20 +23542,18 @@ Una parte importante en la herencia es el tipo de **acceso** que se tiene a la i
 		
 		**Nota** : posiblemente el ejemplo dado en case no exista tanta diferencia, pero hay muchos casos en los que una mínima diferencia es lo que necesitamos para cada nuevo objeto
 
-	* **akivosimcho** (1)
+	* **akivosimcho** [602504] (1)
 
-		
 		Muchas gracias maxmarqueza!
 
-	* **Edi24** (2)
+	* **Edi24** [602504] (2)
 Claro, de echo de eso podemos decir que se trata "herencia" nos ayuda a dar características a las clases derivadas de las clases base y no tienes que estar creando mas que lo particular de cada clase derivada, así si tienes 10 magos, todos tienen lo mismos fundamentos por ser magos y solo le das una diferenciación para saber que son 10 magos especiales.
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [60225](https://platzi.com/comentario/602504/) 
 Casi no veo la diferencia de hacer otra clase, en el ejemplo anterior en la clase IceMage casi que copiamos todo lo que habia en la clase...
 
-	* **max marquez** (6)
+	* **max marquez** [60225] (6)
 
-		
 		La utilidad general es agregar nuevas características… en el ejemplo anterior el mago solo podía hacer spell , pero si quisiéramos una nueva clase de mago que ademas de spell también pueda hacer invocaciones, solo bastaría con heredar a mago y adicional mente añadir la habilidad invocación, algo tal que así:
 		
 		invocation(String invocationType )  
@@ -24086,7 +23563,7 @@ Casi no veo la diferencia de hacer otra clase, en el ejemplo anterior en la clas
 		
 		**Nota** : posiblemente el ejemplo dado en case no exista tanta diferencia, pero hay muchos casos en los que una mínima diferencia es lo que necesitamos para cada nuevo objeto
 
-## 0360. Polimorfismo
+## 0360. Polimorfismo [19094](https://platzi.com/clases/1545-c-plus-plus/19094-polimorfismo/)
 
 ### Descripción:
 
@@ -24103,12 +23580,11 @@ C++ es un lenguaje de programación muy parecido a C pero con todas las caracter
 
 ### Comentarios:
 
-* **durbonca** (4)
+* **durbonca** (4) [626073](https://platzi.com/comentario/626073/) 
 
-	
 	min 6:45 LMFAO… obvio que todos saben la diferencia entre un mago de hielo y uno de fuego… obvio…
 
-* **Yasser Pulido** (3)
+* **Yasser Pulido** (3) [568570](https://platzi.com/comentario/568570/) 
 
 	```
 	    #include<iostream>
@@ -24188,25 +23664,21 @@ C++ es un lenguaje de programación muy parecido a C pero con todas las caracter
 	    
 	```
 
-* **Julio Barra** (2)
+* **Julio Barra** (2) [1081769](https://platzi.com/comentario/1081769/) 
 
-	
 	no entendí muy bien la utilidad de para que sirve el polimorfismo:(
 
-* **David Santiago González Ramos** (2)
+* **David Santiago González Ramos** (2) [862083](https://platzi.com/comentario/862083/) 
 
-	
 	Quizas en el ejemplo no se vea tan clara la utilidad, o la diferencia a estar haciendo algo como **Gandalf.GetDamage(1)** y desps **Dumbledore.GetDamage(5)**  
 	Pero piensen que usandolos a ambos como mago, podemos crear un ciclo e iterar en nuestros magos y (ejemplo) hacer que todos ataquen, sin tener que llamarlos uno por uno y gracias al polimorfismo, cada mago según su tipo va a tener un ataque diferente a pesar de que el método Attack() se declare igual para todos…no sé si fui claro🙈✌
 
-* **rombj** (1)
+* **rombj** (1) [1089710](https://platzi.com/comentario/1089710/) 
 
-	
 	Entiendo que se puede hacer, más no entiendo la utilidad real, para que voy a querer hacer esto, si ya tengo tipos de mago definidos, osea para que complicarse la vida, realmente no entiendo mucho el tema del polimorfismo y su aporte
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1079241](https://platzi.com/comentario/1079241/) 
 
-	
 	Hecho!!!
 	``` 
 	    #include<iostream>
@@ -24287,9 +23759,8 @@ C++ es un lenguaje de programación muy parecido a C pero con todas las caracter
 	    
 	```
 
-* **estuardo-villagran** (1)
+* **estuardo-villagran** (1) [776542](https://platzi.com/comentario/776542/) 
 
-	
 	#include <iostream>
 	
 	using namespace std;
@@ -24370,9 +23841,9 @@ C++ es un lenguaje de programación muy parecido a C pero con todas las caracter
 	
 	}
 
-# Finalizando nuestro proyecto
+# Finalizando nuestro proyecto [3828]
 
-## 0370. Creación de personaje y archivo de encabezado
+## 0370. Creación de personaje y archivo de encabezado [19095](https://platzi.com/clases/1545-c-plus-plus/19095-creacion-de-personaje-y-archivo-de-encabezado/)
 
 ### Descripción:
 
@@ -24400,9 +23871,8 @@ Los destructores son como los constructores de nuestras clases pero, en vez de l
 
 ### Comentarios:
 
-* **Hector Olvera Vital** (4)
+* **Hector Olvera Vital** (4) [927314](https://platzi.com/comentario/927314/) 
 
-	
 	Para compilar en Linux con g++ debemos compilar cada archivo cpp y usar el flag -I con la ruta de los Headers (.h) y con el flag -c para crear objetos. Posteriormente ensamblamos todos los objetos del proyecto en una salida.  
 	Si tenemos la misma estructura de carpetas que en el video y nos colocamos al nivel de main.cpp, podemos compilar todo con el siguiente comando:
 	``` 
@@ -24450,19 +23920,16 @@ Los destructores son como los constructores de nuestras clases pero, en vez de l
 	    
 	```
 
-	* **Nicolas David Pastran Zamora** (2)
+	* **Nicolas David Pastran Zamora** [927314] (2)
 
-		
 		Gracias por tu aporte. La verdad no quería usar Code Blocks y Linux me gusta más.
 
-* **Karina Betzabe Romero Ulloa** (4)
+* **Karina Betzabe Romero Ulloa** (4) [658868](https://platzi.com/comentario/658868/) 
 
-	
 	Complementando un poco el destructor es lo contrario al constructor info [Aqui](https://docs.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=vs-2019)
 
-* **Javier Andres Torres Quintero** (1)
+* **Javier Andres Torres Quintero** (1) [1105955](https://platzi.com/comentario/1105955/) 
 
-	
 	Tengo un problema con vscode cuando intento ejecutar programas multi-file (.cpp con .h) al intentar compilar el programa y ejecuto main.cpp me aprece este error:
 	``` 
 	    C:\Users\pc\AppData\Local\Temp\ccjWEKmF.o:main.cpp:(.text+0x15): undefined reference to `Player::Player()'
@@ -24472,20 +23939,18 @@ Los destructores son como los constructores de nuestras clases pero, en vez de l
 	    
 	```
 
-* **richar orlando melo saldaña** (1)
+* **richar orlando melo saldaña** (1) [75869](https://platzi.com/comentario/877330/) 
 La clase de polimorfismo no funciona
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [75869] (2)
 
-		
 		Es una clase pública, eso significa que está publicada en YouTube. Puedes verla directo desde este link: <https://youtu.be/XcWrmp0xU3s>. 😉
 
-* **stevearagonsite** (1)
+* **stevearagonsite** (1) [69371](https://platzi.com/comentario/755980/) 
 Utilizo cl con visual studio code. tengo este error al finalizar el ejercicio. /out:main.exe main.obj main.obj : error LNK2019: unr...
 
-	* **stevearagonsite** (3)
+	* **stevearagonsite** [69371] (3)
 
-		
 		lo resolví llevando el include de h y de cpp. (me faltaba el de cpp)
 		``` 
 		    #include<iostream>
@@ -24501,7 +23966,7 @@ Utilizo cl con visual studio code. tengo este error al finalizar el ejercicio. /
 		    
 		```
 
-## 0380. Moviendo mi personaje con entrada de datos
+## 0380. Moviendo mi personaje con entrada de datos [19097](https://platzi.com/clases/1545-c-plus-plus/19097-moviendo-mi-personaje-con-entrada-de-datos/)
 
 ### Descripción:
 
@@ -24557,9 +24022,8 @@ Además, vamos a usar el condicional `switch` para cambiar la ubicación de nues
 
 ### Comentarios:
 
-* **Gustavo Marín** (3)
+* **Gustavo Marín** (3) [858982](https://platzi.com/comentario/858982/) 
 
-	
 	Para aquellos que trabajen desde terminal en linux pueden compilar con g++ y ejecutar.  
 	el primero para compilar los archivos fuente y la segunda linea para linkearlos.  
 	g++ -c Player.cpp main.cpp  
@@ -24568,23 +24032,20 @@ Además, vamos a usar el condicional `switch` para cambiar la ubicación de nues
 	finalmete el ejectubale  
 	./main.exe
 
-	* **kevingerardomendez** (2)
+	* **kevingerardomendez** [858982] (2)
 
-		
 		Una forma mas facil y abreviada seria:  
 		g++ -o Game.exe main.cpp Player.cpp
 		
 		// Game.exe es el ejecutable para windows  
 		// Game.out es el ejecutable para linux
 
-* **Arturo_FrieS** (3)
+* **Arturo_FrieS** (3) [760560](https://platzi.com/comentario/760560/) 
 
-	
 	Aprender C++ te lleva a la luna y te ayuda a comprender de manera mas eficiente la lógica de programación,
 
-* **enmtifa** (1)
+* **enmtifa** (1) [1086008](https://platzi.com/comentario/1086008/) 
 
-	
 	Hecho!!!
 	``` 
 	    // Main
@@ -24646,7 +24107,7 @@ Además, vamos a usar el condicional `switch` para cambiar la ubicación de nues
 	    
 	```
 
-## 0390. Mapa
+## 0390. Mapa [19098](https://platzi.com/clases/1545-c-plus-plus/19098-mapa/)
 
 ### Descripción:
 
@@ -24655,12 +24116,11 @@ Vamos a crear una clase que represente las celdas del mapa; cada celda será una
 
 ### Comentarios:
 
-* **Omar Mejia** (4)
+* **Omar Mejia** (4) [597153](https://platzi.com/comentario/597153/) 
 Buen proyecto, excelente profesor, lastima que no cuidaron el zoom en cada pestaña de codigo, en algunos no se distingue lo que esta programando.
 
-* **darth-revan** (2)
+* **darth-revan** (2) [866213](https://platzi.com/comentario/866213/) 
 
-	
 	Yo estoy usando **VSCode** para el proyecto y me salio el problema de **_referencia a - sin definir_** entonces la [solución](https://hackxcrack.net/foro/c/\(solucionado\)-referencia-a-funcion1\(int-char-float\)'-sin-definir/).  
 	Resumen: Compilar todos los archivos **cpp** que tengamos
 	``` 
@@ -24668,16 +24128,14 @@ Buen proyecto, excelente profesor, lastima que no cuidaron el zoom en cada pesta
 	    
 	```
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [594510](https://platzi.com/comentario/594510/) 
 
-	
 	error ‘class GameMap’ has no member named ‘Draw’,
 	
 	Y juraría que sí porque he revisado los encabezados y códigos cuidadosamente :S necesito ayuda para entender.
 
-	* **darth-revan** (1)
+	* **darth-revan** [594510] (1)
 
-		
 		La solución la encontré [aquí](https://hackxcrack.net/foro/c/\(solucionado\)-referencia-a-funcion1\(int-char-float\)'-sin-definir/)
 		``` 
 		    g++ main.cpp src/gameMap.cpp src/mapCell.cpp -o main.out
@@ -24685,20 +24143,18 @@ Buen proyecto, excelente profesor, lastima que no cuidaron el zoom en cada pesta
 		    
 		```
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [594454](https://platzi.com/comentario/594454/) 
 
-	
 	Tuve que verme los primeros videos de esta sección nuevamente porque ya se empieza a complicar, pero estoy empezando a entender la naturaleza del asunto. Practicamente los encabezados y los cpp te permiten seccionar mejor las partes del código. Visualmente aceptable.
 
-* **rombj** (1)
+* **rombj** (1) [86207](https://platzi.com/comentario/1090562/) 
 hay algo que me genera duda, como hacen con los juegos para que no esté esperando por la interacción del usuario, como en los juegos de n...
 
-* **gianpaolo-bonsignore** (1)
+* **gianpaolo-bonsignore** (1) [59681](https://platzi.com/comentario/594510/) 
 error ‘class GameMap’ has no member named ‘Draw’, Y juraría que sí porque he revisado los encabezados y códigos cuidadosamente :S necesit...
 
-	* **darth-revan** (1)
+	* **darth-revan** [59681] (1)
 
-		
 		La solución la encontré [aquí](https://hackxcrack.net/foro/c/\(solucionado\)-referencia-a-funcion1\(int-char-float\)'-sin-definir/)
 		``` 
 		    g++ main.cpp src/gameMap.cpp src/mapCell.cpp -o main.out
@@ -24706,12 +24162,11 @@ error ‘class GameMap’ has no member named ‘Draw’, Y juraría que sí por
 		    
 		```
 
-* **ffranco_** (0)
+* **ffranco_** (0) [1013374](https://platzi.com/comentario/1013374/) 
 
-	
 	5:50 “Ese es el problema de aprender múltiples lenguajes de programación” 🤣🤣🤣
 
-## 0400. Interacción entre el personaje y el mapa
+## 0400. Interacción entre el personaje y el mapa [19099](https://platzi.com/clases/1545-c-plus-plus/19099-interaccion-entre-el-personaje-y-el-mapa/)
 
 ### Descripción:
 
@@ -24758,9 +24213,8 @@ Además, vamos a solucionar el error de dejar el rastro de posiciones por las qu
 
 ### Comentarios:
 
-* **ffranco_** (1)
+* **ffranco_** (1) [1013685](https://platzi.com/comentario/1013685/) 
 
-	
 	Como solución alternativa, antes del minuto 8:40, basta con hacer que lo que contenga el puntero PlayerCell sea 0 antes de cambiarlo a su nuevo valor.
 	``` 
 	    void GameMap::SetPlayerCell (int PlayerX, int PlayerY)
@@ -24772,27 +24226,24 @@ Además, vamos a solucionar el error de dejar el rastro de posiciones por las qu
 	    
 	```
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [760674](https://platzi.com/comentario/760674/) 
 
-	
 	Esta clase me hubiera servido en mi primer semestre en la carrera 😦  
 	Tuve que buscar muchos vídeos en youtube para entenderle.
 
-* **durbonca** (1)
+* **durbonca** (1) [626889](https://platzi.com/comentario/626889/) 
 
-	
 	perdona pero me perdi en el .id despues del arreglo bidimensional, eso no lo vimos en clases pasadas, asumo que es un apuntador? no era igua a cero?
 
-	* **Luis Alberto Lazcano Cruz** (2)
+	* **Luis Alberto Lazcano Cruz** [626889] (2)
 
-		
 		Mediante los **dos ciclos for** : se realiza **un recorrido a la matriz bidimensional cells de tipo MapCell**. Esto quiere decir que cada iteración solo cuenta con un objeto de tipo **MapCell a la vez y** la forma en la cuál se llama a los** métodos u/o datos miembro(Variables Dentro de una clase)** es por medio de un **punto**.  
 		Saludo
 
-* **Hebert  lughi villafuerte ccacala** (1)
+* **Hebert  lughi villafuerte ccacala** (1) [565174](https://platzi.com/comentario/565174/) 
 Probando
 
-## 0410. Paredes
+## 0410. Paredes [19100](https://platzi.com/clases/1545-c-plus-plus/19100-paredes/)
 
 ### Descripción:
 
@@ -24820,66 +24271,56 @@ Vamos a crear un archivo de texto con nuestro mapa de celdas para crear niveles 
 
 ### Comentarios:
 
-* **Bray Sebastián Marín Garcia** (2)
+* **Bray Sebastián Marín Garcia** (2) [834082](https://platzi.com/comentario/834082/) 
 
-	
 	Este curso realmente es de los mejores que puede haber, Eri Dorado es muy curioso y tiene una forma de enseñas muy particular que realmente lo hacen resaltar.
 
-* **kevingerardomendez** (1)
+* **kevingerardomendez** (1) [1009514](https://platzi.com/comentario/1009514/) 
 
-	
 	Aqui les dejo el algoritmo para generar el mapa automaticamente sin necesidad de escribirlo nosotros mismos.
 	
 	![DeepinScreenshot_20200227131314.png](https://static.platzi.com/media/user_upload/DeepinScreenshot_20200227131314-7ff4469e-6384-447b-8e71-67ba6146f498.jpg)
 
-* **jhonnycubillos** (1)
+* **jhonnycubillos** (1) [701511](https://platzi.com/comentario/701511/) 
 
-	
 	Excelente clase, siempre hay algo nuevo que aprender.  
 	Gracias
 
-## 0420. Optimizando trazado de mapa
+## 0420. Optimizando trazado de mapa [19101](https://platzi.com/clases/1545-c-plus-plus/19101-optimizando-trazado-de-mapa/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Bray Sebastián Marín Garcia** (3)
+* **Bray Sebastián Marín Garcia** (3) [834105](https://platzi.com/comentario/834105/) 
 
-	
 	Para los que no se fijaron bien y les pasa que los ceros desaparecen, Recuerden cambiar el Cero que esta solo a tipo carácter encerrandolo en comillas simples, que aunque en los comentarios de abajo está la solución no está de más decirles.
 
-* **Danelia Sanchez Sanchez** (3)
+* **Danelia Sanchez Sanchez** (3) [572398](https://platzi.com/comentario/572398/) 
 
-	
 	El id es de tipo char (caracter), asi que no se imprimirá cero sino el caracter cuyo código ascii es 0 (el cual es NULL pero es un caracter que no se imprime). Se podría modificar asi: PlayerCell->id = '0';
 
-* **aarongabriel420** (2)
+* **aarongabriel420** (2) [746575](https://platzi.com/comentario/746575/) 
 
-	
 	Tenia un error en el que me salia; getline no esta definido, lo solucione reiniciando el codeblocks.
 
-* **durbonca** (2)
+* **durbonca** (2) [627223](https://platzi.com/comentario/627223/) 
 
-	
 	tambien me queda igual al final 😦 tengo horas tratando de resolver el bug
 	
 	![Screenshot from 2019-06-25 15-47-52.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-06-25%2015-47-52-a4d30284-facd-407d-a729-c66afdab8c65.jpg)
 
-	* **luisglopez7777** (2)
+	* **luisglopez7777** [627223] (2)
 
-		
 		lo pudiste resolver?
 
-	* **durbonca** (3)
+	* **durbonca** [627223] (3)
 
-		
 		al parecer era el entorno de linux que estaba utilizando… (al menos eso sopecho. termine remplazando los NULL por espacios en blanco para hacer “el mismo ejercicio”) pero quede en mi cabeza con la duda.
 
-* **carlos-bolivar** (2)
+* **carlos-bolivar** (2) [599911](https://platzi.com/comentario/599911/) 
 
-	
 	Tengo un bug que cuando imprime el mapa con el for, no me pinta los 0 y se corren los 1 que estan en la ultima posicion de las filas hacia la izquierda y queda asi
 	``` 
 	    1111111111111
@@ -24892,24 +24333,20 @@ Vamos a crear un archivo de texto con nuestro mapa de celdas para crear niveles 
 	
 	Alguna solucion?
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [599911] (2)
 
-		
 		Carlos, puedes mostrarme el código que estás utilizando.
 
-	* **carlos-bolivar** (3)
+	* **carlos-bolivar** [599911] (3)
 
-		
 		Ya lo resolvi Ana, solo tenia que colocar que el parametro que recibia el id de las cells fuera un char y no un entero, igualmente muchas gracias!
 
-* **Jesús Pacheco** (1)
+* **Jesús Pacheco** (1) [996354](https://platzi.com/comentario/996354/) 
 
-	
 	Me sale un error: getline no esta definido}
 
-* **marco antonio** (1)
+* **marco antonio** (1) [995097](https://platzi.com/comentario/995097/) 
 
-	
 	 _line,length()_  
 	no tenia idea de esa funcion yo usaba esto
 	``` 
@@ -24921,23 +24358,21 @@ Vamos a crear un archivo de texto con nuestro mapa de celdas para crear niveles 
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [74962](https://platzi.com/comentario/861910/) 
 tengo un problema. No me crea el Map.txt pero tampoco me tira niingun error. hice todo exactamente igual pero el archivo no esta la carpe...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [74962] (1)
 
-		
 		Comparte tu código para que alguien de la comunidad pueda ayudarte.
 
-* **carlos-bolivar** (1)
+* **carlos-bolivar** (1) [60044](https://platzi.com/comentario/599911/) 
 Tengo un bug que cuando imprime el mapa con el for, no me pinta los 0 y se corren los 1 que estan en la ultima posicion de las filas hac...
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [60044] (2)
 
-		
 		Carlos, puedes mostrarme el código que estás utilizando.
 
-## 0430. Colisiones
+## 0430. Colisiones [19102](https://platzi.com/clases/1545-c-plus-plus/19102-colisiones/)
 
 ### Descripción:
 
@@ -24946,19 +24381,16 @@ Las colisiones en los videojuegos **NO** existen, solo son una abstracción de l
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (3)
+* **Danelia Sanchez Sanchez** (3) [573086](https://platzi.com/comentario/573086/) 
 
-	
 	Pienso que sería mejor evaluar primero antes de cambiar una coordenada, yo lo implementaría así.
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [562946](https://platzi.com/comentario/562946/) 
 
-	
 	Hmmm… A mi me gusta la opción de simular el movimiento del jugador y evaluar si el movimiento es válido antes de moverlo realmente. En la práctica es casi igual, debemos crear una variable de `nextMove` y en caso de que todo salga mal pos no mover nada pero si el movimiento es válido ahí si moverlo…
 
-* **Alirio Alejandro Angel Arenas** (1)
+* **Alirio Alejandro Angel Arenas** (1) [878597](https://platzi.com/comentario/878597/) 
 
-	
 	El unico error en el codigo del video es que iniciando el juego como el jugador no esta dibujado no lo dibuja hasta que pongas un movimiento valido!, lo solucione de la siguiente manera
 	``` 
 	    bool GameMap::SetPlayerAxis(int *axis){
@@ -24996,9 +24428,8 @@ Las colisiones en los videojuegos **NO** existen, solo son una abstracción de l
 	    
 	```
 
-	* **Alirio Alejandro Angel Arenas** (1)
+	* **Alirio Alejandro Angel Arenas** [878597] (1)
 
-		
 		Esta fue la solucion que consegui!.
 		``` 
 		            axis = Hero.GetAxis();
@@ -25015,22 +24446,19 @@ Las colisiones en los videojuegos **NO** existen, solo son una abstracción de l
 		    
 		```
 
-	* **Alirio Alejandro Angel Arenas** (1)
+	* **Alirio Alejandro Angel Arenas** [878597] (1)
 
-		
 		por alguna razon ahora no veo el otro mensaje que explicaba el error de los movimientos ajaja pero bueno el punto es que si el movimiento es EFECTIVO hay que mover LastX o LastY a ese movimiento. lo hice a traves de un setter en el main si era aprobado el movimiento.
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [865636](https://platzi.com/comentario/865636/) 
 
-	
 	Creo que estoy de acuerdo con los aportes anteriores; lo haría desde el jugador, validando si se puede mover o no
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [610955](https://platzi.com/comentario/610955/) 
 
-	
 	Yo considero que se debería ir a la posición anterior para que continúe con la trayectoria inicial.
 
-## 0440. Creando nuestra portada de juego
+## 0440. Creando nuestra portada de juego [19104](https://platzi.com/clases/1545-c-plus-plus/19104-creando-nuestra-portada-de-juego/)
 
 ### Descripción:
 
@@ -25041,9 +24469,8 @@ Para esto vamos a crear una nueva función llamada `DrawMap` en la clase `GameMa
 
 ### Comentarios:
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1097396](https://platzi.com/comentario/1097396/) 
 
-	
 	Para que quede mas limpio el juego pueden sustituir
 	``` 
 	    cin>>line
@@ -25060,14 +24487,14 @@ Para esto vamos a crear una nueva función llamada `DrawMap` en la clase `GameMa
 	
 	Para limpiar la pantalla de la consola luego de dibujar el intro, el final y en la primera linea del ciclo while() para que sea vea un solo mapa.
 
-## 0450. Tesoro y victoria
+## 0450. Tesoro y victoria [19105](https://platzi.com/clases/1545-c-plus-plus/19105-tesoro-y-victoria/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-## 0460. Conclusiones
+## 0460. Conclusiones [19106](https://platzi.com/clases/1545-c-plus-plus/19106-conclusiones/)
 
 ### Descripción:
 
@@ -25080,37 +24507,32 @@ Recuerda resolver los ejercicios, completar el examen, darle 5 estrellas al prof
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (20)
+* **Juan David Castro (Platzi)** (20) [562948](https://platzi.com/comentario/562948/) 
 
-	
 	 _Y nunca más supimos del pollo que tiro el profe. Descanse en paz._ 😞😂🐔  
 	![Screen Shot 2019-03-27 at 3.24.40 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-03-27%20at%203.24.40%20PM-97d72217-869c-41a9-851f-984c23f6bb87.jpg)
 
-	* **erikavinay** (3)
+	* **erikavinay** [562948] (3)
 Jajaja el pollo está sano y salvo
 
-* **marco antonio** (3)
+* **marco antonio** (3) [999523](https://platzi.com/comentario/999523/) 
 
-	
 	bueno me hikzo recordar algunas cosas aqui le dejo uno de los libros que me descargue hace mucho tiempo para aprender C++ se llama [“pensar en C++” ](http://arco.inf-cr.uclm.es/~dvilla/pensar_en_C++/pensar_en_cpp-vol1.pdf) esta en PDF me ayudo mucho en su momento y esta en español es una traducción directa de uno de los creadores del lenguaje, me parece que ya estan por el cuarto tomo, son mas o menos unas 500 hojas por tomo y creo que ya su traducción esta completa es cuestion de buscarlas son gratuitas bueno almenos en ggogle las encuentras de forma gratuita.
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [562947](https://platzi.com/comentario/562947/) 
 
-	
 	Pueden comprar el libro desde Amazon (recomiendo la versión para Kindle, claro): [The C++ Programming Language](https://www.amazon.es/C-Programming-Language-Bjarne-Stroustrup/dp/0321563840).
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [885952](https://platzi.com/comentario/885952/) 
 
-	
 	Estuvo interesante el curso.  
 	Gracias.
 
-* **Juan Alonso Alcala** (0)
+* **Juan Alonso Alcala** (0) [990843](https://platzi.com/comentario/990843/) 
 
-	
 	Realmente estuvo entretenido el curso , aprendí demasiado . Pensé que iba aprender poco , pero aprendí bastante tanto en sintaxis como en lógica . Muchas Gracias Joe-Dorado 😃
 
-## 0470. Proyecto final
+## 0470. Proyecto final [19107](https://platzi.com/clases/1545-c-plus-plus/19107-proyecto-final/)
 
 ### Descripción:
 
@@ -25138,14 +24560,12 @@ En nuestra clase anterior pusimos una condición de ganar, pero para que el nues
 
 ### Comentarios:
 
-* **Karina Betzabe Romero Ulloa** (4)
+* **Karina Betzabe Romero Ulloa** (4) [660964](https://platzi.com/comentario/660964/) 
 
-	
 	Reto [aquí](https://github.com/KarinaRomero/practices-cpp), saludos
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [869093](https://platzi.com/comentario/869093/) 
 
-	
 	¡Realizado! Estuvo retador, pero fue divertido hacerlo. ¡Gracias por el curso! Me ha motivado a seguir las carreras de videojuegos 😄
 	
 	Aquí mi resultado final: <https://github.com/jcalvarezj/practice/tree/master/C%2B%2B/basicGame>
@@ -25156,18 +24576,15 @@ En nuestra clase anterior pusimos una condición de ganar, pero para que el nues
 	
 	Ok, ¡hora del examen y de seguir aprendiendo!
 
-* **stevearagonsite** (1)
+* **stevearagonsite** (1) [759390](https://platzi.com/comentario/759390/) 
 
-	
 	Trabajando en ello!!
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [625792](https://platzi.com/comentario/625792/) 
 
-	
 	Excelente curso, seguiré tu consejo y voy a leer un poco sobre el libro que sitas y seguiremos adelante, espero compartirlo pronto!
 
-* **KevnH** (0)
+* **KevnH** (0) [888220](https://platzi.com/comentario/888220/) 
 
-	
 	Working!
 

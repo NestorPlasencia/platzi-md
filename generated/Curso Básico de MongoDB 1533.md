@@ -1,6 +1,8 @@
-# Introducción
+[Curso Básico de MongoDB 1533](https://platzi.com/cursos/mongodb)
 
-## 0010. Introducción y bienvenida
+# Introducción [3701]
+
+## 0010. Introducción y bienvenida [18474](https://platzi.com/clases/1533-mongodb/18474-introduccion-y-bienvenida/)
 
 ### Descripción:
 
@@ -13,132 +15,109 @@ El proyecto del curso es PlatziMongo, una API que responde las clases que hemos 
 
 ### Comentarios:
 
-* **DemetrioDelCarmen** (4)
+* **DemetrioDelCarmen** (4) [548358](https://platzi.com/comentario/548358/) 
 Que bueno que cambiaron de profesor, al otro como que se le iba el rollo
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [544168](https://platzi.com/comentario/544168/) 
 
-	
-	  * [Top Tutorials To Learn Mongo DB - Quick Code](https://medium.com/quick-code/top-tutorials-to-learn-mongo-db-f1e52bee7445)
-	  * [MongoDB VS PostgreSQL: Which is perfect your you?](https://bytescout.com/blog/mongodb-vs-postgresql.html)
+	* [Top Tutorials To Learn Mongo DB - Quick Code](https://medium.com/quick-code/top-tutorials-to-learn-mongo-db-f1e52bee7445)
+	* [MongoDB VS PostgreSQL: Which is perfect your you?](https://bytescout.com/blog/mongodb-vs-postgresql.html)
 	
 	
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [843298](https://platzi.com/comentario/843298/) 
 
-	
 	Excelente, listo para seguir aprendiendo.
 
-* **Abraham Gonzalez** (2)
+* **Abraham Gonzalez** (2) [600647](https://platzi.com/comentario/600647/) 
 
-	
 	Es importante recalcar que para MongoDB existen diversos comentarios entre foros donde afirman que MongoDB pierde data …
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [600647] (1)
 
-		
 		what?
 
-* **Brayan Camilo Hernández Quiroz** (2)
+* **Brayan Camilo Hernández Quiroz** (2) [544448](https://platzi.com/comentario/544448/) 
 
-	
 	Genial, No saben cuanto espere este curso!!!
 
-	* **eimispacheco** (1)
+	* **eimispacheco** [544448] (1)
 
-		
 		Yo tambien
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544448] (1)
 
-		
 		Igualmente mi persona.
 
-* **Ruben Raul Hernandez Mac-kinley** (1)
+* **Ruben Raul Hernandez Mac-kinley** (1) [1015267](https://platzi.com/comentario/1015267/) 
 
-	
 	Veamos que tal 😄
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [1007768](https://platzi.com/comentario/1007768/) 
 
-	
 	Empezemos
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [985786](https://platzi.com/comentario/985786/) 
 
-	
 	Comenzando el curso!!
 
-* **desteban90** (1)
+* **desteban90** (1) [972329](https://platzi.com/comentario/972329/) 
 
-	
 	Muy util
 
-* **MartinMB** (1)
+* **MartinMB** (1) [970236](https://platzi.com/comentario/970236/) 
 
-	
 	Veamos que ta es este curso
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [965814](https://platzi.com/comentario/965814/) 
 
-	
 	Vamos Una mas
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [915294](https://platzi.com/comentario/915294/) 
 
-	
 	Genial, a estudiar
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883059](https://platzi.com/comentario/883059/) 
 
-	
 	bueno a aprender bd documentales
 
-* **Cristhian Arce** (1)
+* **Cristhian Arce** (1) [836409](https://platzi.com/comentario/836409/) 
 
-	
 	Muy emocionado!
 
-* **carlosivanespinoza** (1)
+* **carlosivanespinoza** (1) [815812](https://platzi.com/comentario/815812/) 
 
-	
 	Mongo es lo máximo.
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [791325](https://platzi.com/comentario/791325/) 
 
-	
 	¡Suena muy interesante!
 
-* **hydroxseguridad** (1)
+* **hydroxseguridad** (1) [683633](https://platzi.com/comentario/683633/) 
 
-	
 	Interesante! veremos como va
 
-* **gosunkugi** (1)
+* **gosunkugi** (1) [630404](https://platzi.com/comentario/630404/) 
 
-	
 	ah! hay un error en la descripción de este video!  
 	"… para que nosotros solo nos preocupesmos por crear … "
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [553171](https://platzi.com/comentario/553171/) 
 
-	
 	Vamos a darle.
 
-* **Dragonatak** (1)
+* **Dragonatak** (1) [551185](https://platzi.com/comentario/551185/) 
 
-	
 	Veamos qué tal!! El de Yohan era muy bueno!!!
 
-* **Guillermo Pastor Amaya Marquez** (1)
+* **Guillermo Pastor Amaya Marquez** (1) [544523](https://platzi.com/comentario/544523/) 
 
-	
 	¡Gracias lo esperaba!
 
-* **Jrodriguezr** (0)
+* **Jrodriguezr** (0) [545342](https://platzi.com/comentario/545342/) 
 Bienvenidos! Al cursó.
 
-## 0020. Bases de datos NoSQL
+## 0020. Bases de datos NoSQL [18475](https://platzi.com/clases/1533-mongodb/18475-bases-de-datos-nosql/)
 
 ### Descripción:
 
@@ -155,83 +134,69 @@ Las bases de datos NoSQL tienen 4 grandes familias: _Key Value Stores_ , basadas
 
 ### Comentarios:
 
-* **glasnost** (5)
+* **glasnost** (5) [546223](https://platzi.com/comentario/546223/) 
 
-	
 	Este profesor es excelente. Es mejor que el de mi facultad.
 
-* **Claudio Jesus Vázquez Villanueva** (4)
+* **Claudio Jesus Vázquez Villanueva** (4) [58604](https://platzi.com/comentario/579150/) 
 hay curso para Graph database?
 
-	* **anibalrojas (Platzi)** (2)
+	* **anibalrojas (Platzi)** [58604] (2)
 
-		
 		Oye no. Tienes algún interés específico en Bases de Datos de Orientadas a Grafos?
 
-* **njfock** (3)
+* **njfock** (3) [566080](https://platzi.com/comentario/566080/) 
 
-	
 	¿DynamoDB a que familia pertenece?
 
-	* **aragonesteban (Platzi)** (3)
+	* **aragonesteban (Platzi)** [566080] (3)
 
-		
 		DynamoDB pertenece a las bases de datos NoSQL, puedes ver más información en este [artículo](https://medium.com/tensult/core-concepts-of-amazon-dynamodb-a265a3fc70a).
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [566080] (1)
 
-		
 		DynamoDB es el servicio para bases de datos NoSQL de AWS.
 		
 		👉 <https://platzi.com/blog/aws-rds-aurora-y-dynamo/>
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [566080] (1)
 
-		
 		A las grandiosas bases de datos **NoSQL**.
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [544169](https://platzi.com/comentario/544169/) 
 
-	
-	  * [Bases de datos ¿qué son? ¿qué tipos existen? Lo que necesitas saber como profesional](https://platzi.com/blog/bases-de-datos-que-son-que-tipos-existen/)
-	  * [Implementación de bases de datos no relacionales - NoSQL](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/)
-	  * [Qué es el teorema CAP y cómo elegir la base de datos para tu proyecto](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/)
+	* [Bases de datos ¿qué son? ¿qué tipos existen? Lo que necesitas saber como profesional](https://platzi.com/blog/bases-de-datos-que-son-que-tipos-existen/)
+	* [Implementación de bases de datos no relacionales - NoSQL](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/)
+	* [Qué es el teorema CAP y cómo elegir la base de datos para tu proyecto](https://platzi.com/blog/que-es-el-teorema-cap-y-como-elegir-la-base-de-datos-para-tu-proyecto/)
 	
 	
 
-	* **Alvise Leal** (3)
+	* **Alvise Leal** [544169] (3)
 
-		
 		Creo que se repiten los enlaces del punto 2 y 3
 
-	* **johan2732** (1)
+	* **johan2732** [544169] (1)
 
-		
 		Si, de acuerdo… se repiten los dos enlaces
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [544169] (1)
 
-		
 		Siguen duplicados los enlaces.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544169] (1)
 
-		
 		Si son similares, deberían ser distintas. 😃
 
-* **Eduardo P. Rivero** (2)
+* **Eduardo P. Rivero** (2) [974143](https://platzi.com/comentario/974143/) 
 
-	
 	También existe [FaunaDB](https://fauna.com/) que se complementa bien en aplicaciones serverless.
 
-* **Ernesto Jose Gabriel Lopez Bravo** (2)
+* **Ernesto Jose Gabriel Lopez Bravo** (2) [944878](https://platzi.com/comentario/944878/) 
 
-	
 	También DynamoDB es Key-Value y document
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [843830](https://platzi.com/comentario/843830/) 
 
-	
 	Clave - valor: Son ideales para almacenar y extraer datos con una clave única. Manejan los diccionarios de manera excepcional. Ejemplos: DynamoDB, Cassandra.
 	
 	Basadas en documentos: Son una implementación de clave valor que varía en la forma semiestructurada en que se trata la información. Ideal para almacenar datos JSON y XML. Ejemplos: MongoDB, Firestore.
@@ -242,166 +207,135 @@ hay curso para Graph database?
 	
 	Optimizadas para búsquedas: Pueden ser de diversas estructuras, su ventaja radica en que se pueden hacer queries y búsquedas complejas de manera sencilla. Ejemplos: BigQuery, Elasticsearch.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [843830] (1)
 
-		
 		Nice
 
-* **Cristhian Arce** (2)
+* **Cristhian Arce** (2) [836415](https://platzi.com/comentario/836415/) 
 
-	
 	La verdad no conocía tal variedad de BD
 
-* **Brayan Mamani** (2)
+* **Brayan Mamani** (2) [791330](https://platzi.com/comentario/791330/) 
 
-	
 	Las bases de datos **NoSQL** son mis favoritas.
 
-* **Gustavo Quino Crispín** (2)
+* **Gustavo Quino Crispín** (2) [599448](https://platzi.com/comentario/599448/) 
 
-	
 	Buen aporte el de la descripción, Gracias!
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [599448] (1)
 
-		
 		Totalmente de acuerdo.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [599448] (1)
 
-		
 		Una lectura para repasar de forma rápida.
 
-* **Victor Macas** (2)
+* **Victor Macas** (2) [592886](https://platzi.com/comentario/592886/) 
 
-	
 	Tiene buena pinta el curso, aunque no presentó su trayectoria el profesor, se nota que será amena las clases
 
-* **Claudio Jesus Vázquez Villanueva** (2)
+* **Claudio Jesus Vázquez Villanueva** (2) [579150](https://platzi.com/comentario/579150/) 
 
-	
 	hay curso para Graph database?
 
-	* **anibalrojas (Platzi)** (2)
+	* **anibalrojas (Platzi)** [579150] (2)
 
-		
 		Oye no. Tienes algún interés específico en Bases de Datos de Orientadas a Grafos?
 
-	* **Claudio Jesus Vázquez Villanueva** (1)
+	* **Claudio Jesus Vázquez Villanueva** [579150] (1)
 
-		
 		Que tal creo que van a lanzar uno el 21 de mayo esta en el calendario y lo pregunto por que no las conocía la verdad  
 		.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [579150] (1)
 
-		
 		GraphQL es otra cosa completamente diferente… Más relacionado con las APIs que con un tipo de base de datos…
 
-	* **juand_silva** (2)
+	* **juand_silva** [579150] (2)
 
-		
 		Es **Graph database** no GraphQL
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [579150] (1)
 
-		
 		¡Ahora veo cual es la verdadera!
 
-	* **Hinder Adrian Alvarez Perlaza** (1)
+	* **Hinder Adrian Alvarez Perlaza** [579150] (1)
 
-		
 		Pues no exactamente, pero creo que te podría interesar este: <https://platzi.com/clases/graphql/>
 
-* **Andrés Felipe Largo Rodríguez** (1)
+* **Andrés Felipe Largo Rodríguez** (1) [1086345](https://platzi.com/comentario/1086345/) 
 
-	
 	Super interesante, gracias.
 
-* **Iraida Mercedes Barreto Díaz** (1)
+* **Iraida Mercedes Barreto Díaz** (1) [1045002](https://platzi.com/comentario/1045002/) 
 
-	
 	No tenpia ni idea de la existencia de bds Wide-column Stores. Cool.
 
-* **Ruben Raul Hernandez Mac-kinley** (1)
+* **Ruben Raul Hernandez Mac-kinley** (1) [1015269](https://platzi.com/comentario/1015269/) 
 
-	
 	Excelente explicación
 
-* **Cristian Mauricio Gutierrez Rivera** (1)
+* **Cristian Mauricio Gutierrez Rivera** (1) [997522](https://platzi.com/comentario/997522/) 
 
-	
 	Interente la clase
 
-* **Frank Carmona** (1)
+* **Frank Carmona** (1) [992216](https://platzi.com/comentario/992216/) 
 
-	
 	buena clase
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [988444](https://platzi.com/comentario/988444/) 
 
-	
 	Muy buena clase!
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [971446](https://platzi.com/comentario/971446/) 
 
-	
 	Excelente
 
-* **MartinMB** (1)
+* **MartinMB** (1) [970242](https://platzi.com/comentario/970242/) 
 
-	
 	Muy bueno
 
-* **Pablo Azuaje** (1)
+* **Pablo Azuaje** (1) [884966](https://platzi.com/comentario/884966/) 
 
-	
 	Hola como puedo hacer un query aleatorio, es para traerme un listado de preguntas de una colección x y que estas se presenten una por una de forma aleatoria.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883121](https://platzi.com/comentario/883121/) 
 
-	
 	gracias albert no conocia sobre las otras como cassandra
 
-* **carlosivanespinoza** (1)
+* **carlosivanespinoza** (1) [815826](https://platzi.com/comentario/815826/) 
 
-	
 	Hasta ahora nunca había imaginado la variedad de bases existentes, que importante es saber escoger una acorde a tu necesidad.
 
-* **Rafael Pardo Rodriguez** (1)
+* **Rafael Pardo Rodriguez** (1) [804880](https://platzi.com/comentario/804880/) 
 
-	
 	Una base de datos “popular” basada en grafos se llama [Dgraph](https://dgraph.io/) 😃
 
-* **Briones D. Jose** (1)
+* **Briones D. Jose** (1) [757631](https://platzi.com/comentario/757631/) 
 
-	
 	Muchas gracias por el curso esta super genial!!
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [663678](https://platzi.com/comentario/663678/) 
 
-	
 	Excelente emocionado por seguir con el curso.
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [594113](https://platzi.com/comentario/594113/) 
 
-	
 	Excelente!!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [553175](https://platzi.com/comentario/553175/) 
 
-	
 	Excelente introducción.
 
-* **Oscar Estuardo de la Mora** (1)
+* **Oscar Estuardo de la Mora** (1) [85615](https://platzi.com/comentario/1077733/) 
 IndexedDB de HTML5 en el navegador podría ser considerada una Document Database?
 
-* **Pablo Azuaje** (1)
+* **Pablo Azuaje** (1) [76309](https://platzi.com/comentario/884968/) 
 Hola como puedo hacer un query aleatorio, que me pueda traer un listado de preguntas de una colección y presentar pregunta por pregunta p...
 
-	* **René Sanchez** (1)
+	* **René Sanchez** [76309] (1)
 
-		
 		Hola!,
 		
 		Tendrias que hacer un random de numero aleatorio y definir si es que quieres un limite y un inicio.
@@ -413,15 +347,14 @@ Hola como puedo hacer un query aleatorio, que me pueda traer un listado de pregu
 		
 		Si tienes mas consultas puedes hablarme por insta: lrenenk
 
-* **Andrés Muñoz** (1)
+* **Andrés Muñoz** (1) [72032](https://platzi.com/comentario/808898/) 
 ¿Hay algún método para evaluar si debo usar postgresql o mongodb ?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [72032] (1)
 
-		
 		Lo más importante es que domines muy bien los [fundamentos de _cualquier_ base de datos](https://platzi.com/clases/bd/). Luego de esto puede que este artículo te ayude a elegir: <https://platzi.com/blog/mongo-vs-sql/>. 😉
 
-## 0030. Definición de MongoDB y su ecosistema (herramientas de uso)
+## 0030. Definición de MongoDB y su ecosistema (herramientas de uso) [18476](https://platzi.com/clases/1533-mongodb/18476-definicion-de-mongodb-y-su-ecosistema-herramientas/)
 
 ### Descripción:
 
@@ -436,231 +369,193 @@ MongoDB es “ _Schema Less_ ” lo que permite que nuestros documentos tengan e
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (20)
+* **Juan David Castro (Platzi)** (20) [544170](https://platzi.com/comentario/544170/) 
 
-	
-	  * [Tipos de Escalabilidad: Vertical vs. Horizontal](https://www.oscarblancarteblog.com/2017/03/07/escalabilidad-horizontal-y-vertical/)
+	* [Tipos de Escalabilidad: Vertical vs. Horizontal](https://www.oscarblancarteblog.com/2017/03/07/escalabilidad-horizontal-y-vertical/)
 	
 	
 	
 	![](https://www.oscarblancarteblog.com/wp-content/uploads/2017/03/escalamiento-vertical.png)  
 	![](https://www.oscarblancarteblog.com/wp-content/uploads/2017/03/escalamiento-horizontal.png)
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [544170] (1)
 
-		
 		Que buen aporte 😃
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544170] (1)
 
-		
 		Un aporte muy esencial para esta clase.
 
-	* **Hinder Adrian Alvarez Perlaza** (1)
+	* **Hinder Adrian Alvarez Perlaza** [544170] (1)
 
-		
 		Buen aporte, gracias!
 
-* **pabloverduzcos** (10)
+* **pabloverduzcos** (10) [546306](https://platzi.com/comentario/546306/) 
 
-	
 	¿A que se refiere cuando habla de logica explicita?
 
-	* **Wilson_Revan** (8)
+	* **Wilson_Revan** [546306] (8)
 
-		
 		Lo curioso del asunto en 3 meses nadie del equipo de platzi atendió esta pregunta.
 
-	* **pabloverduzcos** (2)
+	* **pabloverduzcos** [546306] (2)
 
-		
 		Cierto 😂
 
-	* **jsrodriguezj** (2)
+	* **jsrodriguezj** [546306] (2)
 
-		
 		y seguimos con la duda. 😕
 
-	* **Javier Rain** (2)
+	* **Javier Rain** [546306] (2)
 
-		
 		y …?
 
-	* **WilmarFlorez** (1)
+	* **WilmarFlorez** [546306] (1)
 
-		
 		…
 
-	* **Antony Samuel Brenes Cruz** (9)
+	* **Antony Samuel Brenes Cruz** [546306] (9)
 
-		
 		Lógica explicita se refiere a que su lógica es muy clara y de fácil entendimiento 😃
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [546306] (1)
 
-		
 		Creo que se refiere en esa parte a que Stitch es como las cloud functions que se manejan en AWS o Firebase en las que sin necesidad de un servidor se puede agregar una lógica para acceder a la base de datos y devolver alguna información a otro servicio que la solicite.
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [546306] (1)
 
-		
 		También cuando usó la palabra “explícita” quiso decir que es una lógica a la que tenemos acceso porque nosotros la creamos, no es una lógica que esté oculta y trabajando detrás de otras cosas.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [546306] (1)
 
-		
 		SUpongo que se realiza de forma clara.
 
-* **Mon Avellaneda** (8)
+* **Mon Avellaneda** (8) [544638](https://platzi.com/comentario/544638/) 
 
-	
 	Me encanta la tranquilidad y claridad con la que explicas, Albert
 	
 	Mil gracias
 
-* **pabloverduzcos** (7)
+* **pabloverduzcos** (7) [546304](https://platzi.com/comentario/546304/) 
 
-	
 	 **MongoDB**
 	
-	  * Base de datos no relacional
+	* Base de datos no relacional
 	
-	  * Basada en documentos
+	* Basada en documentos
 	
-	  * Se pueden guardar estructuras tipo _JSON_
+	* Se pueden guardar estructuras tipo _JSON_
 	
-	  * Base de datos distribuida (facilmente escalable)
+	* Base de datos distribuida (facilmente escalable)
 	
-	  * Codigo abierto
+	* Codigo abierto
 	
-	  * Gratis
+	* Gratis
 	
 	
 	
 
-* **cristianwalteros** (4)
+* **cristianwalteros** (4) [751644](https://platzi.com/comentario/751644/) 
 
-	
 	Se ve muy interesante el curso, mis primeros acercamientos con bases de datos no relacionales
 
-* **dvillalobos** (4)
+* **dvillalobos** (4) [662372](https://platzi.com/comentario/662372/) 
 
-	
 	Hola, MongoDB no es gratis. Es de uso libre.
 	
 	Hice el examen y encontré muchos errores de redacción y ortográficos.
 
-	* **elvis.sanchez** (4)
+	* **elvis.sanchez** [662372] (4)
 
-		
 		Tu comentario tiene errores de redacción.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [662372] (1)
 
-		
 		Pero se puede corregir.
 
-* **mafevito** (4)
+* **mafevito** (4) [74102](https://platzi.com/comentario/846692/) 
 ¿Cuando habla de cluster se refiere a un servidor?
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [74102] (3)
 
-		
 		Al principio de este tutorial se explican los clusters en MongoDB: <http://gpd.sip.ucm.es/rafa/docencia/nosql/Replicas.html>.
 
-* **Ernesto Jose Gabriel Lopez Bravo** (3)
+* **Ernesto Jose Gabriel Lopez Bravo** (3) [944891](https://platzi.com/comentario/944891/) 
 
-	
 	El tamaño máximo de un Documento BSON es de 16MB para evitar que un solo documento pueda consumir RAM en exceso, para documentos de mayor tamaño, mongoDB ofrece la opcion de usar GridFS API
 
-* **Brayan Mamani** (3)
+* **Brayan Mamani** (3) [791353](https://platzi.com/comentario/791353/) 
 
-	
 	¡ **MongoDB** es una base de datos basada en **Documentos**!
 
-* **MartinMB** (2)
+* **MartinMB** (2) [970264](https://platzi.com/comentario/970264/) 
 
-	
 	Vamos bien de momento
 
-* **mariobrandoavilacalderon** (1)
+* **mariobrandoavilacalderon** (1) [1117813](https://platzi.com/comentario/1117813/) 
 Guarda documentos "tipo JSON" (representación binaria BD distribuida => Permite estabilidad horizontal
 
-* **Decoderunner** (1)
+* **Decoderunner** (1) [1038340](https://platzi.com/comentario/1038340/) 
 
-	
 	Me parece interesante que se pueda hacer tanto con un desarrollo de código abierto.
 
-* **Ruben Raul Hernandez Mac-kinley** (1)
+* **Ruben Raul Hernandez Mac-kinley** (1) [1015274](https://platzi.com/comentario/1015274/) 
 
-	
 	Base de datos no relacional basa en documentos de forma distribuida
 
-* **Óscar Moreno González oscar** (1)
+* **Óscar Moreno González oscar** (1) [916760](https://platzi.com/comentario/916760/) 
 
-	
 	Eso de BSON no lo conocía
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883138](https://platzi.com/comentario/883138/) 
 
-	
 	gracias por explicar el ecosistema de mongoDB
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [843893](https://platzi.com/comentario/843893/) 
 
-	
 	Muy interesante. Listo para seguir aprendiendo
 
-* **xmedinavei** (1)
+* **xmedinavei** (1) [843163](https://platzi.com/comentario/843163/) 
 
-	
 	Cuál es la diferencia entre MongoDB y Firestone de Google? (Además de que la de Google es parcialmente gratis) Cuál es más usada y útil?
 
-	* **william andres rodriguez borja** (2)
+	* **william andres rodriguez borja** [843163] (2)
 
-		
 		Firestore una base de datos es un backend como servicio. incluye su base de datos que almacena también documentos pero es muy diferente trabajar en ambos en firestore no es muy fácil hacer consultas de agregación , en realidad creo que no es posible en la actualidad.  
 		Eso es funciones como group by having max sum, avg etc. para mi es un store de documentos más un sistema gestion de base de datos.
 
-* **Cristhian Arce** (1)
+* **Cristhian Arce** (1) [836425](https://platzi.com/comentario/836425/) 
 
-	
 	Ya quiero empezar! , se ve muy prometedor
 
-* **carlosivanespinoza** (1)
+* **carlosivanespinoza** (1) [815831](https://platzi.com/comentario/815831/) 
 
-	
 	MongoDB es lo mejor hasta ahora… las consultas son mu rápidas.
 
-* **Nestor Alfonso Portela Rincón** (1)
+* **Nestor Alfonso Portela Rincón** (1) [747489](https://platzi.com/comentario/747489/) 
 
-	
 	Interesante curso, realmente no he tenido un acercamiento al mundo de las bases de datos no relaciones y veré que tal me va.
 
-* **neontigermx** (1)
+* **neontigermx** (1) [736225](https://platzi.com/comentario/736225/) 
 
-	
 	Haber que tal!
 
-* **Luis Paredes** (1)
+* **Luis Paredes** (1) [548620](https://platzi.com/comentario/548620/) 
 
-	
 	Grandes expectativas con MongoDB.
 
-* **Walter Ugalde A** (1)
+* **Walter Ugalde A** (1) [544774](https://platzi.com/comentario/544774/) 
 
-	
 	Cuando un dato es generico, a n cantidad de registros, estos deben repetirse en cada documento o se hace una referencia a otro documento, pero si hacemos una referencia no estariamos hacindola relacional …?
 
-* **pabloverduzcos** (1)
+* **pabloverduzcos** (1) [55886](https://platzi.com/comentario/546306/) 
 ¿A que se refiere cuando habla de logica explicita?
 
-	* **Wilson_Revan** (8)
+	* **Wilson_Revan** [55886] (8)
 
-		
 		Lo curioso del asunto en 3 meses nadie del equipo de platzi atendió esta pregunta.
 
-## 0040. MongoDB Atlas
+## 0040. MongoDB Atlas [18477](https://platzi.com/clases/1533-mongodb/18477-mongodb-atlas/)
 
 ### Descripción:
 
@@ -669,12 +564,12 @@ Tenemos varios proveedores que nos permiten utilizar o alquilar MongoDB como ser
 
 MongoDB Atlas tiene las siguientes características:
 
-  * Aprovisionamiento automático de _clusters_ con MongoDB
-  * Alta disponibilidad
-  * Altamente escalable
-  * Seguro
-  * Disponible en AWS, GCP y Microsoft Azure
-  * Fácil monitoreo y optimización
+* Aprovisionamiento automático de _clusters_ con MongoDB
+* Alta disponibilidad
+* Altamente escalable
+* Seguro
+* Disponible en AWS, GCP y Microsoft Azure
+* Fácil monitoreo y optimización
 
 
 
@@ -690,102 +585,84 @@ MongoDB Atlas tiene las siguientes características:
 
 ### Comentarios:
 
-* **Jaime Andrés Martínez Rodríguez** (5)
+* **Jaime Andrés Martínez Rodríguez** (5) [934815](https://platzi.com/comentario/934815/) 
 
-	
 	Para los estudiantes nuevos! las opciones ahora se encuentran en la barra lateral izquierda en Atlas para la creación de usuarios y el acceso al network
 
-* **jsrodriguezj** (4)
+* **jsrodriguezj** (4) [664033](https://platzi.com/comentario/664033/) 
 
-	
 	Listo, siguiendo las recomendaciones del profe es bien sencillo, aunque la interfaz es un poco diferente el día que estoy haciendo esto.
 
-* **csrarias** (3)
+* **csrarias** (3) [544857](https://platzi.com/comentario/544857/) 
 
-	
 	ya configure el cluster para poner en practica
 
-* **Ptmejia2312** (2)
+* **Ptmejia2312** (2) [656977](https://platzi.com/comentario/656977/) 
 
-	
 	M0 no deja seleccionar.
 
-	* **Jonattan_Infante** (1)
+	* **Jonattan_Infante** [656977] (1)
 
-		
 		Si lo permite, Creo que hay que decir que es para aprender Mongo porque aparece una ventana emergente tan pronto creas tu cuenta preguntando eso
 
-	* **luis-fernando-yupanqui-taco** (1)
+	* **luis-fernando-yupanqui-taco** [656977] (1)
 
-		
 		En las regiones , tienes que selecionar la region que tenga el FREE-TRIAL
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [656977] (1)
 
-		
 		Si tiene otro cluster MO no le deja seleccionar un segundo, solo se puede tener uno de ese tipo.  
 		O tal vez eligió alguna característica que no tiene free tier
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [656977] (1)
 
-		
 		FREE-TRIAL para utilizarlo de forma gratuita.
 
-* **gosunkugi** (2)
+* **gosunkugi** (2) [630427](https://platzi.com/comentario/630427/) 
 
-	
 	pues… el M0 ya no se puede seleccionar 😦
 
-	* **Juan Camilo Angel Fandiño** (2)
+	* **Juan Camilo Angel Fandiño** [630427] (2)
 
-		
 		Hola, si me dejó siguiendo los pasos del profe.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [630427] (1)
 
-		
 		La informacion esta en la clase.
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [553808](https://platzi.com/comentario/553808/) 
 
-	
 	Me encanta en la manera en la que desarrollas los temas, es muy fácil y sencillo.
 
-* **saul-mdo** (1)
+* **saul-mdo** (1) [1075083](https://platzi.com/comentario/1075083/) 
 
-	
 	Tengo poca experiencia con mLab, Atlas se ve muy bien!
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [988475](https://platzi.com/comentario/988475/) 
 
-	
 	Wow!!
 
-* **MartinMB** (1)
+* **MartinMB** (1) [970285](https://platzi.com/comentario/970285/) 
 
-	
 	Perfecto
 
-* **Zolider** (1)
+* **Zolider** (1) [934974](https://platzi.com/comentario/934974/) 
 
-	
 	Actualmente en vez de INSTANCE SIZE (7:30), me sale CLUSTER TIER  
 	![panel.png](https://static.platzi.com/media/user_upload/panel-407564f5-afb7-4e04-87c2-3898baac5284.jpg)
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [915540](https://platzi.com/comentario/915540/) 
 
-	
 	wow super interesante, no pense que fuera tan facil siempre tenia en mente algo realmente complicado de trabajar este tipo de BD
 
-* **Brando Rodríguez** (1)
+* **Brando Rodríguez** (1) [911168](https://platzi.com/comentario/911168/) 
 
-	
 	 **MongoDB Atlas**  
 	Tenemos varios proveedores que nos permiten utilizar o alquilar MongoDB como servicio y en este caso vamos a usar MongoDB Atlas por ser desarrollado por las mismas personas que desarrollan MongoDB.
 	
 	MongoDB Atlas tiene las siguientes características:
 	
-	  * Aprovisionamiento automático de clusters con MongoDB  
+	* Aprovisionamiento automático de clusters con MongoDB  
 	Alta disponibilidad  
 	Altamente escalable  
 	Seguro  
@@ -794,31 +671,26 @@ MongoDB Atlas tiene las siguientes características:
 	
 	
 
-* **Andres Pinzon** (1)
+* **Andres Pinzon** (1) [907395](https://platzi.com/comentario/907395/) 
 
-	
 	La creación del cluster y la configuración fue bastante rápida.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883357](https://platzi.com/comentario/883357/) 
 
-	
 	gracias , sin problemas por el momento
 
-* **Kevin Jeremy Salazar Jimenez** (1)
+* **Kevin Jeremy Salazar Jimenez** (1) [873163](https://platzi.com/comentario/873163/) 
 
-	
 	no me sale la seccion de segurity 😦
 
-	* **Marcelo Gajardo** (2)
+	* **Marcelo Gajardo** [873163] (2)
 
-		
 		En la parte de la izquierda sale  
 		Security -> Database access  
 		Y luego le das en “+Add new user” que sale en verde 😉
 
-* **Gino Andrey Grimaldos Puerto** (1)
+* **Gino Andrey Grimaldos Puerto** (1) [857916](https://platzi.com/comentario/857916/) 
 
-	
 	Tengo un inconveniente con el driver para c#, tengo Visual Studio 2019  
 	y la pagina me dice que la conecion se realiza asi  
 	var mongoUrl = new MongoUrl(“mongodb+srv://User:<Password>@pruebachiAAA-verhd.mongodb.net”);  
@@ -836,71 +708,61 @@ MongoDB Atlas tiene las siguientes características:
 	
 	De antemano gracias profe.
 
-* **TUDz** (1)
+* **TUDz** (1) [852525](https://platzi.com/comentario/852525/) 
 
-	
 	Listo con mi primer cluster en Atlas!
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [846739](https://platzi.com/comentario/846739/) 
 
-	
 	Instalado el cluster en ATLAS
 
-* **carlosivanespinoza** (1)
+* **carlosivanespinoza** (1) [815835](https://platzi.com/comentario/815835/) 
 
-	
 	Ya pude hacer mi integración de Mongo con C#. Me gusta MongoDB
 
-* **Gustavo Quino Crispín** (1)
+* **Gustavo Quino Crispín** (1) [599454](https://platzi.com/comentario/599454/) 
 
-	
 	Listo para comenzar!
 
-* **gamaciega** (1)
+* **gamaciega** (1) [587774](https://platzi.com/comentario/587774/) 
 
-	
 	Listo el cluster para continuar con las clases!
 
-* **Sebax1901** (1)
+* **Sebax1901** (1) [583363](https://platzi.com/comentario/583363/) 
 
-	
 	No me deja crear el Cluster, me da un error cuando quiero seleccionar el M0. Aparece que existe un límite de 1 Mo cluster por proyecto.
 
-	* **albertramirez** (4)
+	* **albertramirez** [583363] (4)
 
-		
 		MongoDB Atlas solamente te permite crear un cluster M0 gratuito por proyecto, así que asegúrate de que no tengas alguno ya creado o si lo prefieres crea un nuevo proyecto en la cuenta que tienes actualmente así:  
 		[Ver instrucciones](https://drive.google.com/file/d/1UPyY_gpvBduZAfx44wvr_H0u8EC2Fy52/view?usp=sharing)
 
-* **wvigoya** (1)
+* **wvigoya** (1) [550747](https://platzi.com/comentario/550747/) 
 
-	
 	interesante, nueva forma de ver, almacenar datos
 
-* **David Santiago Pinchao Ortiz** (1)
+* **David Santiago Pinchao Ortiz** (1) [84887](https://platzi.com/comentario/1061365/) 
 A que hace referencia el sandbox
 
-	* **David Santiago Pinchao Ortiz** (1)
+	* **David Santiago Pinchao Ortiz** [84887] (1)
 
-		
 		Es como nuestro entorno de desarrollo en Mongo Atlas !
 
-* **Kevin Jeremy Salazar Jimenez** (1)
+* **Kevin Jeremy Salazar Jimenez** (1) [75639](https://platzi.com/comentario/873166/) 
 no me sale la seccion de segurity 😦 , que puedo hacer
 
-	* **fernandogualan** (1)
+	* **fernandogualan** [75639] (1)
 ![](https://ibb.co/YLsNk31)
 
-* **Sebax1901** (1)
+* **Sebax1901** (1) [58887](https://platzi.com/comentario/583363/) 
 No me deja crear el Cluster, me da un error cuando quiero seleccionar el M0. Aparece que existe un límite de 1 Mo cluster por proyecto.
 
-	* **albertramirez** (4)
+	* **albertramirez** [58887] (4)
 
-		
 		MongoDB Atlas solamente te permite crear un cluster M0 gratuito por proyecto, así que asegúrate de que no tengas alguno ya creado o si lo prefieres crea un nuevo proyecto en la cuenta que tienes actualmente así:  
 		[Ver instrucciones](https://drive.google.com/file/d/1UPyY_gpvBduZAfx44wvr_H0u8EC2Fy52/view?usp=sharing)
 
-## 0050. Instalación MongoDB en Windows
+## 0050. Instalación MongoDB en Windows [18478](https://platzi.com/clases/1533-mongodb/18478-instalacion-mongodb-en-windows/)
 
 ### Descripción:
 
@@ -911,77 +773,68 @@ No me deja crear el Cluster, me da un error cuando quiero seleccionar el M0. Apa
 
 ### Comentarios:
 
-* **Wandy Rafael Santana Evangelista** (10)
+* **Wandy Rafael Santana Evangelista** (10) [553812](https://platzi.com/comentario/553812/) 
 
-	
 	 **Algunos comandos de MongoDB en su Shell (consola):**  
 	**show dbs:** Muestra todas las base de datos que hay.  
 	**use [nameDB]:** Para crear un nuevo documento DB.  
 	**db.[nameDB].insertOne({name: “Name”, age: 27, city: “Las Vegas”}):** Insertamos datos tipo JSON (BSON) a el documento DB.  
 	**db.[nameDB].findOne():** Te muestra la colección de datos que existen en ese documento DB.
 
-* **Miguel Angel Prieto Mendez** (8)
+* **Miguel Angel Prieto Mendez** (8) [701893](https://platzi.com/comentario/701893/) 
 
-	
 	Si se cierra la terminal “mongo.exe” o muestra el error “Error: couldn’t connect to server 127.0.0.1:27017, connection attempt failed: SocketException”, hacer lo siguiente
 	
 	• Crear carpetas “data\db” en la raíz C:\
 	
-	  * C:\data\db
+	* C:\data\db
 	
 	
 	
 	• Iniciar Servicio (mongod.exe)
 	
-	  * Ejecutar C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe
+	* Ejecutar C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe
 	
 	
 	
 	• Ejecutar Terminal (mongo.exe)
 	
-	  * C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe
+	* C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe
 	
 	
 	
 	Nota: Si NO funciona verificar bloqueo del firewall
 
-* **Davison Pimentel** (6)
+* **Davison Pimentel** (6) [544632](https://platzi.com/comentario/544632/) 
 
-	
 	db.usuarios.insertOne({name: “John”, ange: 31, city: “New York”})
 
-	* **Luis Paredes** (1)
+	* **Luis Paredes** [544632] (1)
 
-		
 		db.usuarios.insertOne({name: “John”, age: 31, city: “New York”})
 
-	* **Brayan Mamani** (3)
+	* **Brayan Mamani** [544632] (3)
 
-		
 		db.usuarios.insertOne({name: “John”, age: 31, city: “New York”})
 
-* **Óscar Moreno González oscar** (5)
+* **Óscar Moreno González oscar** (5) [916801](https://platzi.com/comentario/916801/) 
 
-	
 	![](url)![mongo.jpg](https://static.platzi.com/media/user_upload/mongo-c4b56a8b-736b-40b2-8c8f-caeaff71a0e1.jpg)
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [544171](https://platzi.com/comentario/544171/) 
 
-	
-	  * [Cómo instalar MongoDB en Windows, Mac y Linux - Platzi Blog](https://platzi.com/blog/como-instalar-mongodb-en-window-linux-y-mac/)
+	* [Cómo instalar MongoDB en Windows, Mac y Linux - Platzi Blog](https://platzi.com/blog/como-instalar-mongodb-en-window-linux-y-mac/)
 	
 	
 
-* **Eduardo P. Rivero** (3)
+* **Eduardo P. Rivero** (3) [974929](https://platzi.com/comentario/974929/) 
 
-	
 	Para los que usan docker o escribí un tutorial de como instalar mongo con esta herramienta así pueden tener un solo proceso de instalación en Windows/Mac/Linux.
 	
 	<https://platzi.com/tutoriales/1533-mongodb/4930-instalar-mongo-db-usando-docker/>
 
-* **Brando Rodríguez** (3)
+* **Brando Rodríguez** (3) [911278](https://platzi.com/comentario/911278/) 
 
-	
 	**Instalación MongoDB en Windows**
 	
 	<https://www.mongodb.com/download-center/community>
@@ -990,14 +843,12 @@ No me deja crear el Cluster, me da un error cuando quiero seleccionar el M0. Apa
 	    
 	```
 
-* **Brayan Mamani** (3)
+* **Brayan Mamani** (3) [791422](https://platzi.com/comentario/791422/) 
 
-	
 	¡Que sencillo es instalar **MongoDB**!
 
-* **msalin** (3)
+* **msalin** (3) [602128](https://platzi.com/comentario/602128/) 
 
-	
 	Actualmente (version 4.0.10), el wizard se queda cargando por horas asi que la mejor solución es bajar el server en version .zip y crear las carpetas “C:/Archivos de Programa/MongoDB/4.0/“ y copiar dentro el bin del .zip y luego instalar el compass aparte con wizard.  
 	Luego seguir los siguientes pasos:  
 	-Abrir cmd y ejecutar “md \data\db”  
@@ -1008,59 +859,49 @@ No me deja crear el Cluster, me da un error cuando quiero seleccionar el M0. Apa
 	
 	Espero sea de ayuda 😃
 
-* **fabiogomezs** (3)
+* **fabiogomezs** (3) [561470](https://platzi.com/comentario/561470/) 
 
-	
 	hola, al tratar de abrir mongo.exe se abre la consola pero se cierra a los pocos segundos. Cual podría ser el problema?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [561470] (6)
 
-		
 		Tienes que abrir la consola, navegar hasta donde esta el ejecutable de mongo y ejecutarlo desde la consola, no haciendo doble click en el ejecutable.
 
-	* **Favio Náquira** (1)
+	* **Favio Náquira** [561470] (1)
 
-		
 		Está iniciado el servicio de mongod? El mongo daemon a veces se desactiva según la configuración de Windows (generalmente cuando no eres administrador).  
 		Primero verifica que esté iniciado el servicio de MongoDB. En caso no lo tengas como servicio, ejecuta mongod para iniciar el servidor.  
 		Como consejo, agrega la carpeta bin de MongoDB a las variables de entorno, para que puedas invocar rápidamente los comandos en cualquier ubicación.
 
-	* **sergio-medina93** (1)
+	* **sergio-medina93** [561470] (1)
 
-		
 		Primero haz click en mongod.exe para y luego a mongo.exe. Así me funciono.
 
-	* **luisfbejaranob27** (1)
+	* **luisfbejaranob27** [561470] (1)
 
-		
 		Si no lo instalaste Mongo como servicio tienes que crear en el disco C crear una carpeta llamada data y dentro una carpeta llamada db y ejecutas Mongo
 
-* **csrarias** (3)
+* **csrarias** (3) [544969](https://platzi.com/comentario/544969/) 
 
-	
 	en el proceso de instalación no me instaló el compass como lo puedo activar?
 
-	* **albertramirez** (5)
+	* **albertramirez** [544969] (5)
 
-		
 		Hola, lo puedes descargar de <https://www.mongodb.com/download-center/compass?jmp=hero>  
 		Asegúrate de elegir tu sistema operativo y de que sea la versión community.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544969] (1)
 
-		
 		¡Gracias por la aclaración!
 
-* **Luis Nilson Palma Campos** (2)
+* **Luis Nilson Palma Campos** (2) [901836](https://platzi.com/comentario/901836/) 
 
-	
 	Por si a alguien le sucede lo mismo que a mi y no encontraba donde descargarlo ,en la imagen se puede ver donde descargarlo
 	
 	![Captura de pantalla \(45\)_LI.jpg](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2845%29_LI-7a7e682f-597e-4c4e-8c02-f4290d3d0a7a.jpg)
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [846736](https://platzi.com/comentario/846736/) 
 
-	
 	Instalado y funcionando
 	``` 
 	    show dbs			--revisar que bases hay
@@ -1072,49 +913,42 @@ No me deja crear el Cluster, me da un error cuando quiero seleccionar el M0. Apa
 	    
 	```
 
-* **Baltazar Ortega** (2)
+* **Baltazar Ortega** (2) [645086](https://platzi.com/comentario/645086/) 
 
-	
 	Sigan estos pasos para que no tengan problemas con Compass en Windows: [enlace](https://vegibit.com/install-mongodb-with-compass-on-windows/)
 
-* **daniel-campuzano** (2)
+* **daniel-campuzano** (2) [548823](https://platzi.com/comentario/548823/) 
 
-	
 	Existe algún conflicto en la diferencia de versiones entre MongoDB local y el Cluster en Altas?
 
-	* **Jesus Daniel Arrieche Veliz** (2)
+	* **Jesus Daniel Arrieche Veliz** [548823] (2)
 
-		
 		Saludos, hay cierta incompatibilidad pero igual se puede utilizar. Actualmente tengo la version 3.6 en mi equipo y la del Cluster en Atlas es la 4.0. aun asi me funciona
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [548823] (1)
 
-		
 		Existe una compatibilidad pero al local le falta más características.
 
-* **emanuel-alejandro-mamani** (2)
+* **emanuel-alejandro-mamani** (2) [72448](https://platzi.com/comentario/816511/) 
 me tardo 30 min la instalacion en la version 4.2, muy interesante
 
-* **fabiogomezs** (2)
+* **fabiogomezs** (2) [57167](https://platzi.com/comentario/561470/) 
 hola, al tratar de abrir mongo.exe se abre la consola pero se cierra a los pocos segundos. Cual podría ser el problema?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [57167] (6)
 
-		
 		Tienes que abrir la consola, navegar hasta donde esta el ejecutable de mongo y ejecutarlo desde la consola, no haciendo doble click en el ejecutable.
 
-* **csrarias** (2)
+* **csrarias** (2) [55773](https://platzi.com/comentario/544969/) 
 en el proceso de instalación no me instaló el compass como lo puedo activar?
 
-	* **albertramirez** (5)
+	* **albertramirez** [55773] (5)
 
-		
 		Hola, lo puedes descargar de <https://www.mongodb.com/download-center/compass?jmp=hero>  
 		Asegúrate de elegir tu sistema operativo y de que sea la versión community.
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054132](https://platzi.com/comentario/1054132/) 
 
-	
 	Muy buena esta clase!  
 	Esperando ya empezar con lo bueno que es el CRUD.
 	``` 
@@ -1129,80 +963,67 @@ en el proceso de instalación no me instaló el compass como lo puedo activar?
 	    
 	```
 
-* **Ruben Raul Hernandez Mac-kinley** (1)
+* **Ruben Raul Hernandez Mac-kinley** (1) [1015325](https://platzi.com/comentario/1015325/) 
 
-	
 	Me gusto la explicación de esta clase
 
-* **Edgar Damian Morales Aguirre** (1)
+* **Edgar Damian Morales Aguirre** (1) [961028](https://platzi.com/comentario/961028/) 
 
-	
 	No es un problema muy grande, pero deberían incluir varios sistemas operativos en sus cursos o especificar para cual va dirigido. Por ejemplo “Curso Básico de MongoDB en Windows”.
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [892674](https://platzi.com/comentario/892674/) 
 
-	
 	Que facil :0
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883513](https://platzi.com/comentario/883513/) 
 
-	
 	gracias, hay voy aprendiendo poco a poco
 
-* **carlosivanespinoza** (1)
+* **carlosivanespinoza** (1) [815838](https://platzi.com/comentario/815838/) 
 
-	
 	Es fácil la instalación. No me demoré nada
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [772732](https://platzi.com/comentario/772732/) 
 
-	
 	Hay que instalar por separado MongoDB Compass para evitar que se quede colgado el instalador…
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [763083](https://platzi.com/comentario/763083/) 
 
-	
 	[Download MongoDB](https://www.mongodb.com/download-center/community)
 
-* **alejandromarcano** (1)
+* **alejandromarcano** (1) [762247](https://platzi.com/comentario/762247/) 
 
-	
 	Se quedaba pegado durante horas así que lo instale pero desmarque la opción de instalar compass e instale compass aparte
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [573058](https://platzi.com/comentario/573058/) 
 
-	
 	Mis primeras consultas en MongoDB 😎
 
-* **Luis Cordero** (1)
+* **Luis Cordero** (1) [567977](https://platzi.com/comentario/567977/) 
 
-	
 	Windows… 😦
 
-* **Andres Pinzon** (1)
+* **Andres Pinzon** (1) [77658](https://platzi.com/comentario/907407/) 
 Entiendo que para el curso la instalación debe ser sencilla y poder enfocarse en aprender mongo. Pero aparte de esto lo ideal no sería in...
 
-	* **Eduardo P. Rivero** (1)
+	* **Eduardo P. Rivero** [77658] (1)
 
-		
 		Es cierto, pero eso requeriría el tutorial para instalar docker primero que también varía de acuerdo al sistema operativo. En todo caso por si te sirve escribí un tutorial de como instalarlo usando docker
 		
 		<https://platzi.com/tutoriales/1533-mongodb/4930-instalar-mongo-db-usando-docker/>
 
-* **daniel-campuzano** (1)
+* **daniel-campuzano** (1) [56115](https://platzi.com/comentario/548823/) 
 Existe algún conflicto en la diferencia de versiones entre MongoDB local y el Cluster en Altas?
 
-	* **Jesus Daniel Arrieche Veliz** (2)
+	* **Jesus Daniel Arrieche Veliz** [56115] (2)
 
-		
 		Saludos, hay cierta incompatibilidad pero igual se puede utilizar. Actualmente tengo la version 3.6 en mi equipo y la del Cluster en Atlas es la 4.0. aun asi me funciona
 
-* **Agustina García** (0)
+* **Agustina García** (0) [754065](https://platzi.com/comentario/754065/) 
 
-	
 	Quise instalar mongo y me quedo cargando como hora y media y no avanzó mas, alguien sabe como solucionarlo?
 
-## 0060. Instalación MongoDB MacLinux
+## 0060. Instalación MongoDB MacLinux [18525](https://platzi.com/clases/1533-mongodb/18525-instalacion-mongodb-maclinux/)
 
 ### Descripción:
 
@@ -1233,9 +1054,8 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 
 ### Comentarios:
 
-* **Jhon Alexander Perez Valencia** (7)
+* **Jhon Alexander Perez Valencia** (7) [627191](https://platzi.com/comentario/627191/) 
 
-	
 	una instalacion alternativa y mas facil en ubuntu es
 	``` 
 	    sudo apt install mongodb-server-core
@@ -1249,9 +1069,8 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	de esta forma solo tienen que poner los comandos y esperar que todo se haga solo.  
 	😃
 
-* **Julio Pérez Hernández** (6)
+* **Julio Pérez Hernández** (6) [704201](https://platzi.com/comentario/704201/) 
 
-	
 	 **Instalación en Ubuntu 18.04**
 	
 	Toda la instalación (oficial) referida al paquete **mongodb-org** me causaron conflictos al iniciar el servicio de mongod y al entrar al shell de mongo.  
@@ -1261,9 +1080,8 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	sudo apt-get install mongodb  
 	service mongodb start
 
-* **Camilo Andrés Santana Lizcano** (5)
+* **Camilo Andrés Santana Lizcano** (5) [939790](https://platzi.com/comentario/939790/) 
 
-	
 	Para los que quieran correr mongo y practicar todo el curso sin necesidad de instalar nativamente les recomiendo usar Docker:
 	
 	  1. Crear nuestro contenedor llamado “mongoDB”
@@ -1339,76 +1157,68 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	    
 	```
 
-	* **desteban90** (1)
+	* **desteban90** [939790] (1)
 
-		
 		Excelente aporte
 
-* **Luis Daniel Méndez Gaona** (5)
+* **Luis Daniel Méndez Gaona** (5) [544332](https://platzi.com/comentario/544332/) 
 
-	
 	En este link [Install MongoDB](https://docs.mongodb.com/manual/installation/), podrán encontrar la forma de instalar MongoDB en distintos sistemas y en distintas distribuciones de GNU/Linux.
 
-* **raparisg** (4)
+* **raparisg** (4) [910529](https://platzi.com/comentario/910529/) 
 
-	
 	En mac también es posible instalar con brew! Es bastante más sencillo. La información está en la página de mongo: <https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/>
 
-* **Freddy Alexander Morales Mora** (4)
+* **Freddy Alexander Morales Mora** (4) [735873](https://platzi.com/comentario/735873/) 
 
-	
 	Install MongoDB Community Edition on macOS:
 	
 	<https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/>
 
-* **Andrea Fuentes Castellanos** (4)
+* **Andrea Fuentes Castellanos** (4) [729392](https://platzi.com/comentario/729392/) 
 
-	
 	Yo tengo manjaro que es una distribución de archlinux e instale mongo con docker.
 
-* **Sergio Montaño Europa** (4)
+* **Sergio Montaño Europa** (4) [565551](https://platzi.com/comentario/565551/) 
 
-	
 	En Mac se me hizo mas sencillo con homebrew.  
 	Primero instalamos homebrew, es recomendable tener actualizado Xcode, abrimos una terminal y escribimos lo siguiente:
 	
-	  * /usr/bin/ruby -e “$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/master/install>)”
+	* /usr/bin/ruby -e “$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/master/install>)”
 	
 	
 	
 	Cuando termine, cerramos y abrimos otra terminal, para escribir los comando de instalación de mongodb:
 	
-	  * brew update
+	* brew update
 	
-	  * brew install mongodb
+	* brew install mongodb
 	
-	  * sudo mkdir -p /data/db
+	* sudo mkdir -p /data/db
 	
-	  * sudo chown -R `id -un` /data/db
+	* sudo chown -R `id -un` /data/db
 	
 	
 	
 	
 	Para registrarlo como servicio, ingresamos estos ultimos comandos:
 	
-	  * brew tap homebrew/services
+	* brew tap homebrew/services
 	
-	  * brew services start mongodb
+	* brew services start mongodb
 	
 	
 	
 	
 	Y listo, ahora en la terminal solo teclea “mongo” para empezar a usar el servicio.
 
-* **Ernesto Jose Gabriel Lopez Bravo** (3)
+* **Ernesto Jose Gabriel Lopez Bravo** (3) [951855](https://platzi.com/comentario/951855/) 
 
-	
 	También, la forma que me funcionó a mi para la instalación fue la siguiente:  
 	<https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/>
 
-* **cirovladimir** (3)
+* **cirovladimir** (3) [545231](https://platzi.com/comentario/545231/) 
 
-	
 	quisé instalar con brew en macOS
 	
 	> brew install mongodb
@@ -1439,80 +1249,66 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	listo, finalmente podemos ejecutar `mongod` en una pestaña y conectarnos en otra con el comando `mongo`
 
-	* **Camilo Tabares** (4)
+	* **Camilo Tabares** [545231] (4)
 
-		
 		<https://www.youtube.com/watch?v=MIByvzueqHQ>
 
-* **Jcion** (2)
+* **Jcion** (2) [582640](https://platzi.com/comentario/582640/) 
 
-	
 	Algo útil que no vi en la página de instalación para **Debian**
 	``` 
 	    sudo service mongod status
 	    
 	```
 
-* **Jose Manuel Salazar** (2)
+* **Jose Manuel Salazar** (2) [545819](https://platzi.com/comentario/545819/) 
 
-	
 	<https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/>
 
-	* **master_mintaka** (1)
+	* **master_mintaka** [545819] (1)
 
-		
 		Página con la documentación oficial de mongodb
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [545819] (1)
 
-		
 		¡La documentación es muy importante!
 
-* **Jose Manuel Salazar** (2)
+* **Jose Manuel Salazar** (2) [545818](https://platzi.com/comentario/545818/) 
 
-	
 	Logre instalarlo en Linux Mint con estas instrucciones.  
 	[](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054138](https://platzi.com/comentario/1054138/) 
 
-	
 	Perfecto!
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [1001035](https://platzi.com/comentario/1001035/) 
 
-	
 	Hecho
 
-* **desteban90** (1)
+* **desteban90** (1) [972415](https://platzi.com/comentario/972415/) 
 
-	
 	Yo segui estos pasos y sin problemas  
 	<https://tecadmin.net/install-mongodb-on-centos/>
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883518](https://platzi.com/comentario/883518/) 
 
-	
 	gracias profesor usted si deja documentacion para quienes usan s.o diferente al suyo
 
-* **Erick Lenin Córdova Dávila** (1)
+* **Erick Lenin Córdova Dávila** (1) [847927](https://platzi.com/comentario/847927/) 
 
-	
 	para instalar mongo en docker este [link](https://medium.com/faun/managing-mongodb-on-docker-with-docker-compose-26bf8a0bbae3) es de ayuda 😃
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [846764](https://platzi.com/comentario/846764/) 
 
-	
 	Entendido
 
-* **carlosivanespinoza** (1)
+* **carlosivanespinoza** (1) [815845](https://platzi.com/comentario/815845/) 
 
-	
 	Instalado sin problemas.
 
-* **Jaiden Meiden** (1)
+* **Jaiden Meiden** (1) [804441](https://platzi.com/comentario/804441/) 
 
-	
 	Se presenta el siguiente error y no he podido solucionarlo:
 	``` 
 	    Los siguientes paquetes tienen dependencias incumplidas:
@@ -1524,32 +1320,28 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	Tengo LInux Mint
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [791427](https://platzi.com/comentario/791427/) 
 
-	
 	¡Muy buena guia, al seguirla te evitas de complicaciones!
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [664904](https://platzi.com/comentario/664904/) 
 
-	
 	Acá un link de una instalación alternativa de mongoDB.  
 	[https://www.youtube.com/watch?v=MIByvzueqHQ&t=20s](https://www.youtube.com/watch?v=MIByvzueqHQ&t=20s)
 
-* **marcoxio** (1)
+* **marcoxio** (1) [546216](https://platzi.com/comentario/546216/) 
 
-	
 	Compañeros me he quedado en el punto 7 no estoy entendiendo bien cuando el indica esta linea.  
 	mongo <MONGODB_ATLAS_URI>  
 	Alguien que le quiera poner el alma me puede dar una luz de que debo poner en ese espacio?
 
-	* **Enrique Alexis Lopez Araujo** (2)
+	* **Enrique Alexis Lopez Araujo** [546216] (2)
 
-		
 		Hola marcoxio, el tag <MONGODB_ATLAS_URI> es el link, url que te crea cuando te das y creas tu “server” en la plataforma de [mongodb atlas](https://www.mongodb.com/cloud/atlas) si viste la clase [ clase mongo shell](https://platzi.com/clases/1533-mongodb/18479-mongo-shell-configuracion-de-clientes/) aqui vas a ver que cuando albert se conecta por shell se conecta a traves de una URI. Revisa la clase si tienes dudas puedo apoyarte sin problema.
 		
 		Saludos!
 
-## 0070. Mongo Shell, configuración de clientes
+## 0070. Mongo Shell, configuración de clientes [18479](https://platzi.com/clases/1533-mongodb/18479-mongo-shell-configuracion-de-clientes/)
 
 ### Descripción:
 
@@ -1560,9 +1352,8 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (20)
+* **Juan David Castro (Platzi)** (20) [569596](https://platzi.com/comentario/569596/) 
 
-	
 	👀 Por si alguien quiere copiar:
 	``` 
 	    db.inventory.insertOne(
@@ -1571,33 +1362,28 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	    
 	```
 
-* **axelarteagaruiz** (10)
+* **axelarteagaruiz** (10) [683727](https://platzi.com/comentario/683727/) 
 
-	
 	Para aquellos que siguen este vídeo con Windows, abran la linea de comandos (CMD). Coloquen esta dirección: **cd c:\ProgramFiles\MongoDB\Server\4.0\bin**.
 	
 	Ya que estén en esa ruta ahora si coloquen el link que el maestro obtuvo de mongo.  
 	**SUERTE**  
 	**NUNCA PARES DE APRENDER**
 
-	* **JaimeRamos** (4)
+	* **JaimeRamos** [683727] (4)
 
-		
 		además de esto es bueno recordar que cuando hagas el ctrl+v para pegar la contraseña no aparecerá nada y podemos llegar a pensar que la consola se bloqueó pero solo hay que dar ENTER y listo.
 
-	* **José Ramón Trashorras Fuentes** (1)
+	* **José Ramón Trashorras Fuentes** [683727] (1)
 
-		
 		Me funcionó tal y como lo explicasteis. Por otro lado continuo sin saber porque no funciona el MONGO SHELL para conectarlo con el Atlas. Tal vez sea un problemas de versiones de SHELL y ATLAS. Realmente es una pena que nadie de Platzi aclare esto o lo explique con más detalle, porque supone una barrera de acceso al curso desnecesaria.
 
-	* **Gabriel Andreí Barceló Alfaro** (1)
+	* **Gabriel Andreí Barceló Alfaro** [683727] (1)
 
-		
 		Me funcionó
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (8)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (8) [804140](https://platzi.com/comentario/804140/) 
 
-	
 	A los que estén intentando conectarse a su cluster de atlas con mongodb compass y no puedan porque les aparece un mensaje que dice:  
 	connection 0 to <nombre de su cluster>.mongodb.net:27017 closed,
 	
@@ -1607,19 +1393,16 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	Saludos!
 
-	* **SergioRubiano** (1)
+	* **SergioRubiano** [804140] (1)
 
-		
 		Uff eres el mejor jjajjaja
 
-	* **monicarodriguezchavarro** (1)
+	* **monicarodriguezchavarro** [804140] (1)
 
-		
 		Mil gracias también me pasó en Windows con la misma versión de mongodb compass.
 
-* **Camilo Andrés Santana Lizcano** (7)
+* **Camilo Andrés Santana Lizcano** (7) [939996](https://platzi.com/comentario/939996/) 
 
-	
 	 **COMANDOS DE MONGO**
 	
 	  1. correr MongoDB  
@@ -1649,62 +1432,52 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	
 
-	* **Gerardo Rodriguez** (1)
+	* **Gerardo Rodriguez** [939996] (1)
 
-		
 		¡Gracias por tu aporte! Solamente que en los puntos 4,5 y 7 en lugar de DBNAME sería el nombre de la colleción 😉
 
-	* **Gerardo Rodriguez** (1)
+	* **Gerardo Rodriguez** [939996] (1)
 
-		
 		¡Gracias por tu aporte! Solamente que en los puntos 4,5 y 7 en lugar de DBNAME sería el nombre de la colleción 😉
 
-	* **Gerardo Rodriguez** (1)
+	* **Gerardo Rodriguez** [939996] (1)
 
-		
 		¡Gracias por tu aporte! Solamente que en los puntos 4,5 y 7 en lugar de DBNAME sería el nombre de la colleción 😉
 
-	* **Gerardo Rodriguez** (1)
+	* **Gerardo Rodriguez** [939996] (1)
 
-		
 		¡Gracias por tu aporte! Solamente que en los puntos 4,5 y 7 en lugar de DBNAME sería el nombre de la colleción 😉
 
-* **Luis Rodrigo Alvarez Herrera** (6)
+* **Luis Rodrigo Alvarez Herrera** (6) [798070](https://platzi.com/comentario/798070/) 
 
-	
 	Para los que lo corren en windows hay que añadir al path la ruta de mongo
 	``` 
 	    C:\Program Files\MongoDB\Server\4.2\bin
 	    
 	```
 
-* **manuel-mendoza142** (6)
+* **manuel-mendoza142** (6) [777255](https://platzi.com/comentario/777255/) 
 
-	
 	**Para los que Quieran Copiar y Pegar**
 	
 	db.inventory.insertOne(  
 	{ item: “canvas”, qty: 100, tags: [“cotton”], size: { h: 28, w: 35.5, uom: “cm”} }  
 	)
 
-	* **SergioRubiano** (5)
+	* **SergioRubiano** [777255] (5)
 
-		
 		Hola, si quieren copiar y pegar este código, les saldrá un problema de SystaxError, lo solucionan volviendo a escribir las comillas.Saludos
 
-	* **Hinder Adrian Alvarez Perlaza** (2)
+	* **Hinder Adrian Alvarez Perlaza** [777255] (2)
 
-		
 		Jaja genial, la comunidad Platzi haciendo su trabajo.
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [777255] (1)
 
-		
 		gracias My friend
 
-* **Hector Jose Flores Colmenarez** (6)
+* **Hector Jose Flores Colmenarez** (6) [555467](https://platzi.com/comentario/555467/) 
 
-	
 	Hola a todos, para los que quieran conectarse vía Windows a su cuenta de ATLAS, así es como deben ejecutar su comando a través de CMD.
 	``` 
 	    C:"\Program Files\MongoDB\Server\4.0\bin\mongo.exe" "mongodb+srv://<platzi-mongodb-url>.mongodb.net/test" --username platzi-admin
@@ -1715,56 +1488,47 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	Asegurense también, que la ruta a el archivo mongo.exe este escrita entre comillas dobles ("), ya que así windows construye sus URLS.
 
-	* **Oscar Martinez** (3)
+	* **Oscar Martinez** [555467] (3)
 
-		
 		Este comentario es el bueno jajaja
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [555467] (1)
 
-		
 		Es de mucha utilidad y esencial.
 
-* **Davison Pimentel** (6)
+* **Davison Pimentel** (6) [544656](https://platzi.com/comentario/544656/) 
 
-	
 	Ya pude dar con el problema: El problema es que intentaba ingresar desde la consola que está en la carpeta bin de mongo y desde ahí entra al servidor local para evitar este problema deben entrar desde el CMD y colocar la ruta C:\Program Files\MongoDB\Server\4.0\bin y desde ahí colocan la conexión.
 
-	* **sdorduzc** (1)
+	* **sdorduzc** [544656] (1)
 
-		
 		Hola Davizon… tengo un problema y es que no me deja escribir la contraseña. simplemente la consola no me permite escribir nada… te paso algo similar?
 
-	* **Davison Pimentel** (3)
+	* **Davison Pimentel** [544656] (3)
 
-		
 		Cuando realizas una conexión por consola al momento de pedir la contraseña en vez de mandarte los respectivos puntitos “* ** * * * *” lo que hace es que el cursor se queda parpadeando como si no estuvieras escribiendo realmente, pero si estas escribiendo.
 		
 		Copia la contraseña y cuando te la pida presiona Ctrl + V y presiona Enter y veras que si funciona.
 
-	* **Andres Julian Gomez Gomez** (3)
+	* **Andres Julian Gomez Gomez** [544656] (3)
 
-		
 		Agrega la ruta de mongoDB a la variable PATH y asi no tienes que abrir la ruta desde el cmd cada vez que vas hacer algo con mongo
 		
 		<https://dangphongvanthanh.wordpress.com/2017/06/12/add-mongos-bin-folder-to-the-path-environment-variable/>
 
-	* **Fernando Sebastian Sanchez** (1)
+	* **Fernando Sebastian Sanchez** [544656] (1)
 
-		
 		buen aporte amigo solucione mi problema
 
-	* **luhernandezg** (1)
+	* **luhernandezg** [544656] (1)
 
-		
 		excelente aporte fuciona…!  
 		C:\Program Files\MongoDB\Server\4.0\bin> mongo “mongodb+srv://curso-platzi-xghbn.mongodb.net” --username luis-admin  
 		MongoDB shell version v4.0.9  
 		Enter password:
 
-* **Cristhian Arce** (5)
+* **Cristhian Arce** (5) [836589](https://platzi.com/comentario/836589/) 
 
-	
 	La gente que lo quiera hacer por linea de comando en windows tiene que agregar mongo a su path.
 	
 	  1. Tecla Windows.
@@ -1776,90 +1540,74 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	
 
-	* **Hinder Adrian Alvarez Perlaza** (1)
+	* **Hinder Adrian Alvarez Perlaza** [836589] (1)
 
-		
 		Genial, me gusta más así 😄. Gracias
 
-* **Carlos Andres Castañeda Osorio** (5)
+* **Carlos Andres Castañeda Osorio** (5) [569478](https://platzi.com/comentario/569478/) 
 
-	
 	En Windows para ejecutar el comando sin cambiarlo, en el CMD es importante agregar en las variables de entorno del sistema la carpeta “C:\Program Files\MongoDB\Server\4.0\bin”, lo explican en [este tutorial](https://aprendiendomean.wordpress.com/2017/07/16/instalacion-y-configuracion-de-mongodb-en-windows-10/)
 
-	* **Freddy Rojas Valera** (1)
+	* **Freddy Rojas Valera** [569478] (1)
 
-		
 		Gracias ccasta23 necesitaba hacer este paso en windows
 
-	* **Brandonkozz** (1)
+	* **Brandonkozz** [569478] (1)
 
-		
 		Gracias, estaba un poco perdido con esto
 
-* **Carlos Martinez** (5)
+* **Carlos Martinez** (5) [565827](https://platzi.com/comentario/565827/) 
 
-	
 	al querer conectarse con mongodb atlas deben poner la contraseña de usuario MongoDB y no la contraseña con la que inician sesión , osea la contraseña del usuario que tienen registrado aqui:  
 	![mongoUsers.png](https://static.platzi.com/media/user_upload/mongoUsers-7ec81f66-5aa1-4cc5-b261-4befe28f5d5b.jpg)
 	
 	estuve más de 1 hora investigando y buscando el error y era solo ese detalle jeje , espero este comentario le ayude a alguien
 
-* **sdorduzc** (4)
+* **sdorduzc** (4) [545118](https://platzi.com/comentario/545118/) 
 
-	
 	Tenía un problema y es que no me dejaba escribir la contraseña en la consola, lo solucione dejando abierto la consola de mongo y agregandole -p MICONTRASEÑA al final del link
 
-	* **cmarialatincloud** (1)
+	* **cmarialatincloud** [545118] (1)
 
-		
 		Gracias Genio!!!
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [545118] (1)
 
-		
 		Esto nos ayudara a muchos.
 
-* **Andres Saldaña** (3)
+* **Andres Saldaña** (3) [980687](https://platzi.com/comentario/980687/) 
 
-	
 	tengo un inconveniente, no me puedo conectar, me quedo en el link de copiar despues de hay no me genera nada para seguir al siguiente paso.
 
-* **Maria Fernanda Monagas Vegas** (3)
+* **Maria Fernanda Monagas Vegas** (3) [706859](https://platzi.com/comentario/706859/) 
 
-	
 	Tengo este problema si alguien pusiera ayudarme por favor
 	
 	![ima.PNG](https://static.platzi.com/media/user_upload/ima-0c23ff34-0603-4cfd-840d-86eba6f74884.jpg)
 
-	* **Fernando Aldair** (2)
+	* **Fernando Aldair** [706859] (2)
 
-		
 		yo lo corrí directo desde la terminal normal sin abrir mongo por que ya en la terminal de mongo me aparecía lo mismo
 
-	* **antonagency** (1)
+	* **antonagency** [706859] (1)
 
-		
 		Hola, tienes alguna espacio al final de tu user?
 
-	* **clau_diazc93** (1)
+	* **clau_diazc93** [706859] (1)
 
-		
 		Tengo el mismo problema…
 
-	* **ivonne-carolina-flores** (5)
+	* **ivonne-carolina-flores** [706859] (5)
 
-		
 		Yo lo corrí desde la terminal nativa de Windows y me funcionó, buscando primero en el menú de Windows la opción ejecutar escribiendo en la ventanita de ejecutar “cdm.exe” ( sin comillas ), enter, después de que se abre la terminal, vas al directorio c:\ProgramFiles\MongoDB\Server\4.0\bin. (los comandos para navegar entre carpetas suelen cambiar entre terminales, hay que “googlearlos”).  
 		Y entonces pegas la liga que te proporciona Mongo Atlas sin olvidar cambiar <username> al final de la liga. 😃
 
-	* **ivonne-carolina-flores** (1)
+	* **ivonne-carolina-flores** [706859] (1)
 
-		
 		perdón es cmd.exe
 
-	* **eliponce** (1)
+	* **eliponce** [706859] (1)
 
-		
 		al final
 		``` 
 		    //me funciona
@@ -1868,107 +1616,91 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		    
 		```
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [706859] (1)
 
-		
 		Gracias por la solución al problema **@eliponce**.
 
-	* **Joan Federico Marin Ruiz** (1)
+	* **Joan Federico Marin Ruiz** [706859] (1)
 
-		
 		tengo el mismo error y lo hice desde la terminal de windows C:\Program Files\MongoDB\Server\4.2\bin>.\mongo.exe y pegue lo de mongo atlas…y sigue saliendo el mismo error.
 
-* **Davison Pimentel** (3)
+* **Davison Pimentel** (3) [544645](https://platzi.com/comentario/544645/) 
 
-	
 	Buenos días, a mí me presenta e siguiente problema cuando me quiero conectar:
 	
 	2019-03-26T09:59:26.135-0400 E QUERY [js] SyntaxError: illegal character @(shell):1:0
 	
 	La conexión la estoy realizando desde windows
 
-	* **Antonio Meza** (3)
+	* **Antonio Meza** [544645] (3)
 
-		
 		Debes usar comillas simples
 		
 		db.usuarios.insertOne({name: ‘John’, ange: 31, city: ‘New York’})
 		
 		saludos
 
-	* **oscarvale01** (1)
+	* **oscarvale01** [544645] (1)
 
-		
 		mongo ‘mongodb+srv://cursofet-4nheb.mongodb.net’ --username admin  
 		2019-04-10T16:00:40.948-0500 E QUERY [js] SyntaxError: missing ; before statement @(shell):1:6
 		
 		> ese es el error que me sale
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [544173](https://platzi.com/comentario/544173/) 
 
-	
 	La **consola** nos ayuda a hacer muchos trabajos de administración de nuestros _clusters_ mientras que la **interfaz gráfica** nos ayuda a trabajar de una forma más cómoda y amigable.
 
-* **DIEGO ALEXANDER CASTELLANOS SANTAMARIA** (2)
+* **DIEGO ALEXANDER CASTELLANOS SANTAMARIA** (2) [1059071](https://platzi.com/comentario/1059071/) 
 
-	
 	a pesar que este curso tenga el tiempo que tenga es necesario actualizar las formas de configuración de las aplicaciones, cada una a cada una, aca haciendo pruebas con mi equipo no es sencillo como lo dicen. les faltó mas explicacion sobre como configurar esto.
 
-* **Diego Bastidas** (2)
+* **Diego Bastidas** (2) [922684](https://platzi.com/comentario/922684/) 
 
-	
 	Hola muchachos, muchas veces es necesario agregar el shell a las variables de entorno. de lo contrario la consola te lanzará un standard error diciendo que no reconoce el comando Mongo DB. Si estás en w10, puedes seguir este tutorial: <https://dangphongvanthanh.wordpress.com/2017/06/12/add-mongos-bin-folder-to-the-path-environment-variable/>
 
-	* **Diego Mierez** (1)
+	* **Diego Mierez** [922684] (1)
 
-		
 		Que buena ayuda Diego. Gracias por los aportes 😃
 
-* **carlosivanespinoza** (2)
+* **carlosivanespinoza** (2) [815846](https://platzi.com/comentario/815846/) 
 
-	
 	Vaya esto tiene sus meritos.
 
-* **carlos_fullstack** (2)
+* **carlos_fullstack** (2) [788450](https://platzi.com/comentario/788450/) 
 
-	
 	en ubuntu 18.04 me aparece un warning, ¿a que se debe?  
 	WARNING: shell and server versions do not match
 
-* **Freddy Alexander Morales Mora** (2)
+* **Freddy Alexander Morales Mora** (2) [736208](https://platzi.com/comentario/736208/) 
 
-	
 	Download Installer MongoDB Compass  
 	<https://www.mongodb.com/download-center/compass>
 
-* **gosunkugi** (2)
+* **gosunkugi** (2) [630511](https://platzi.com/comentario/630511/) 
 
-	
 	tal parece que cambiaron varias cosas~ la pasarela de conexión me pide que instale el mongo shell primero para hacer la conexión~ estoy en esas en este momento
 
-* **aleruiz1290** (2)
+* **aleruiz1290** (2) [608858](https://platzi.com/comentario/608858/) 
 
-	
 	porque no me deja conectarme?
 	
 	![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-aeb93fae-bd45-4e59-8fff-1329f419dcc0.jpg)
 
-	* **aleruiz1290** (1)
+	* **aleruiz1290** [608858] (1)
 ![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-ced8d090-35cf-4212-8a60-0b25ebbdb945.jpg)
 
-	* **aleruiz1290** (1)
+	* **aleruiz1290** [608858] (1)
 
-		
 		pongo la contraseña del usuario que se creo en el cluster
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [608858] (2)
 
-		
 		Hello @aleruiz1290!
 		
 		🤔 El error solo dice que la autenticación falló… O sea, no es tanto un error sino que escribiste mal tu contraseña… Recuerda que debes escribir la contraseña de usuario MongoDB, no la contraseña con la que inicias sesión, así como nos recordó @cems en otro comentario de la clase…
 		
-		  * <https://platzi.com/comentario/565827/>
+		* <https://platzi.com/comentario/565827/>
 		
 		
 		
@@ -1980,71 +1712,58 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		
 		Si te funciona de esta última forma te recomiendo tomar el [Introducción a la Terminal y Línea de Comandos](https://platzi.com/clases/terminal/) para entender cómo funcionan las consolas de Unix (Linux y Mac)… También hay una explicación resumida de las diferencias fundamentales entre Windows y Unix entre las primeras clases del [Curso Profesional de Git y GitHub](https://platzi.com/clases/git-github/)…
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [608858] (2)
 
-		
 		Depronto si instalas Git Bash te ahorras algunos de esos problemas… 👍
 
-	* **aleruiz1290** (1)
+	* **aleruiz1290** [608858] (1)
 
-		
 		muchas gracias, había estado colocando la contraseña correctamente, hasta agregue la ruta al path para solo poner mongo y la url que me da el cluster para conexión, y me seguía mandando conexión fallida, solo me dejo conectarme ahorita que puse manualmente el link donde esta el mongo.exe
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [608858] (1)
 
-		
 		Super… Qué bueno que lo pudiste solucionar… Adelante con el curso… Las instalaciones de vez en cuando dan algunos problemas… ¡Pero superando esa barrera todo es paz, alegria y mucho aprendizaje! 😬💪🚀
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [608858] (2)
 
-		
 		Te vuelvo a recomendar que uses Git Bash… En este caso puedes crear un alias para “programar” que el comando `mongo` se “cambie” por toda la ruta hasta `mongo.exe`… Hay formas de hacerlo nativamente en Windows… Pero me gusta mucho más de esta forma…
 		
 		Aquí puedes ver un ejemplo: [How to Download & Install MongoDB on Windows (with Git Bash)](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)…
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [608858] (1)
 
-		
 		😃
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [608858] (1)
 
-		
 		¡Al fin se dio a conocer la solución!
 
-* **Jcion** (2)
+* **Jcion** (2) [583562](https://platzi.com/comentario/583562/) 
 
-	
 	No puedo instalarlo en Debian 9.
 
-	* **Jcion** (1)
+	* **Jcion** [583562] (1)
 
-		
 		Ni con el software center, ni dando permisos con chmod +x.
 
-	* **Jcion** (1)
+	* **Jcion** [583562] (1)
 
-		
 		Tratando de instalarlo con **dkpg** tampoco se pudo pero por alguna razón hoy al tratar de actualizar otro paquete me dio la sugerencia que lo solucionó `apt --fix-broken install`
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [583562] (1)
 
-		
 		Busca en **Stackoverflow** si aún no lograste resolverlo.
 
-	* **Jcion** (1)
+	* **Jcion** [583562] (1)
 
-		
 		@BrayanMamani agradezco que te hayas tomado el tiempo para responder pero ese tipo de comentario no aporta nada como tampoco lo hace la falta de información de mi problema.
 
-* **Camilo Ortegón** (2)
+* **Camilo Ortegón** (2) [554660](https://platzi.com/comentario/554660/) 
 
-	
 	Para revisar si tu ISP no está bloqueando el puerto 27017, entren a: <http://portquiz.net:27017/>
 
-* **cirovladimir** (2)
+* **cirovladimir** (2) [545793](https://platzi.com/comentario/545793/) 
 
-	
 	si al intentar conectarte desde compass te marca que el **usuario o contraseña son incorrectos** pero estas seguro de haberlos ingresado correctamente puede ser que al crear la conexión, compass rellenó el campo **Authentication Database** , con el que viene en la URL por defecto si es que la copiaste desde la consola de atlas
 	
 	mongodb+srv://user:<password>@demo-5gjq8.mongodb.net/ **test**
@@ -2053,41 +1772,35 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	<https://docs.mongodb.com/manual/core/security-users/#user-authentication-database>
 
-* **David Flores** (1)
+* **David Flores** (1) [1088623](https://platzi.com/comentario/1088623/) 
 
-	
 	Les recomiendo usen la siguiente nomenclatura para poder conectarse desde mongoAtlas
 	``` 
 	    mongodb+srv://<user>:<password>@<nombre_cluster>-2kitd.gcp.mongodb.net/test
 	    
 	```
 
-* **AryRosvall** (1)
+* **AryRosvall** (1) [1079960](https://platzi.com/comentario/1079960/) 
 
-	
 	Me gusta más robo3T porque desde ahí se pueden ejecutar los comandos sin usar la consola pueden darle una revisada <https://robomongo.org/>
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054162](https://platzi.com/comentario/1054162/) 
 
-	
 	a probar…
 
-* **Oscar Bolaños** (1)
+* **Oscar Bolaños** (1) [990812](https://platzi.com/comentario/990812/) 
 
-	
 	Estoy corriendo MongoDB en docker y cuando pego el comando para tener acceso a la base de datos me sale este error:
 	    mongo “mongodb+srv://cluster0-ylalr.mongodb.net” --username myusername  
 	2020-02-17T23:30:16.907+0000 E QUERY [js] uncaught exception: SyntaxError: unexpected token: string literal :  
 	@(shell):1:6
 
-	* **valentinafernandez** (1)
+	* **valentinafernandez** [990812] (1)
 
-		
 		Lo que sucede es que debes abrir tu cmd/command line y correr el código sobre esta, no sobre la de Mongo
 
-	* **Angelica Landazabal** (4)
+	* **Angelica Landazabal** [990812] (4)
 
-		
 		Hola…!!
 		
 		Siguiendo el consejo que dice @Jefersson Steven Guevara Sánchez
@@ -2107,21 +1820,18 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		
 		Happy Coding 😃
 
-	* **raguevara** (1)
+	* **raguevara** [990812] (1)
 
-		
 		Muchas gracias, fue de gran ayuda
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [989012](https://platzi.com/comentario/989012/) 
 
-	
 	Para el cliente de MongoDB Compass se debe colocar solo el link
 	
 	mongodb+srv://username:passwordj@nombre-cluster.mongodb.net
 
-* **JdavidRomero** (1)
+* **JdavidRomero** (1) [979312](https://platzi.com/comentario/979312/) 
 
-	
 	Hola buen dia,
 	
 	Tengo un Problema al realizar la conexion con Atlas, ya que entro al cmd de windows y llego al Mongo Shell, agrego la ruta que me da atlas segui los pasos del instructor, tambien los que dicen los otros estudiantes, pero me arroja el error de la imagen adjunta.
@@ -2131,9 +1841,8 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	Alguno sabe como puedo hacer dicha conexion?  
 	Gracias por su ayuda
 
-	* **Jefersson Steven Guevara Sánchez** (4)
+	* **Jefersson Steven Guevara Sánchez** [979312] (4)
 
-		
 		Hola debes ejecutar cmd  
 		Microsoft Windows [Versión 10.0.18362.657]  
 		© 2019 Microsoft Corporation. Todos los derechos reservados.  
@@ -2147,24 +1856,20 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		
 		Enter y contraseña estas conectado!!! 😃
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [883555](https://platzi.com/comentario/883555/) 
 
-	
 	gracias ahora ya se como conectarme, y es muy facil.
 
-* **Alfredo Gtz Escobar Gtz Escobar** (1)
+* **Alfredo Gtz Escobar Gtz Escobar** (1) [860359](https://platzi.com/comentario/860359/) 
 
-	
 	Una pregunta, instalé MongoDB en mi sistema operativo con UBUNTU 18.04, y requiero conectarme localmente para administrar desde el shell en otra computadora dentro de mi misma red local, ¿Cómo puedo hacer esto? ¿Es posible?
 
-	* **Luis Jeanpier Monserrate** (1)
+	* **Luis Jeanpier Monserrate** [860359] (1)
 
-		
 		Con ssh creo que puedes hacerlo, te recomiendo el curso de administración de servidores para saber más al respecto
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [846826](https://platzi.com/comentario/846826/) 
 
-	
 	En Windows no me funciono desde la consola de mongo, me toco en powershell y se conecto (Hay que agregar el path).
 	``` 
 	    db.inventory.insertOne({item: "canavas", qty: 100, tags:["cotton"], size: {h: 28, w: 35.5, uom: "cm"}})
@@ -2172,47 +1877,39 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	    
 	```
 
-* **CarlMateus** (1)
+* **CarlMateus** (1) [684416](https://platzi.com/comentario/684416/) 
 
-	
 	Buenas tardes yo arranco mongo en Windows y al comienzo esta bien pero pasa un tiempo y se va la sesion a que se debe esto se me presenta este error y como solucionarlo. Muchas gracias.
 	
 	NetworkTimeout: Socket operation timed out
 
-* **tonyoz** (1)
+* **tonyoz** (1) [641550](https://platzi.com/comentario/641550/) 
 
-	
 	Es normal que el proceso de conectar con el cluster por medio de Mongo (El que se buscaba en la ruta) no sea posible conectar…y si sea posible por CMD de windows (Con variables de entorno) ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [641550] (1)
 
-		
 		Si tu mongo esta corriendo en local es normal, ya que el servicio de cloud.mongodb funciona con instancias en la nube (aws, gcp, azure)
 
-* **Silvia Valdespino Gutierrez** (1)
+* **Silvia Valdespino Gutierrez** (1) [634962](https://platzi.com/comentario/634962/) 
 
-	
 	me sale este error before statment @shell:1:16.Como lo soluciono?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [634962] (1)
 
-		
 		Hola, puedes compartir el stack trace completo del erro que te sale en la consola para entender mejor que pasa, también puedes comentar los pasos que haces para que te lance el error.
 
-* **javier-jimenez834** (1)
+* **javier-jimenez834** (1) [616888](https://platzi.com/comentario/616888/) 
 
-	
 	Uno de los problemas al no poder conectarse es que la ip no este autorizada para conectar; yo cambié de ubicación de una día para el otro y eso me pasó, basta con agregar la nueva ip en el “Network Access”.
 
-* **jorgecialm** (1)
+* **jorgecialm** (1) [600772](https://platzi.com/comentario/600772/) 
 
-	
 	no puedo conectar me da un error  
 	![2019-05-29 \(1\).png](https://static.platzi.com/media/user_upload/2019-05-29%20%281%29-8851e72d-3a29-4e2e-abb6-8f48cab36c28.jpg)
 
-	* **Erika Hernández** (2)
+	* **Erika Hernández** [600772] (2)
 
-		
 		Hola, debes agregar esto a tus variables de entorno:  
 		<ubicacion_instalacion_mongoDB>\bin
 		
@@ -2220,14 +1917,12 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		
 		**Desde el mongo.exe da error porque esa consola es para interpretar JavaScript **
 
-	* **Saúl Báez Terrez** (1)
+	* **Saúl Báez Terrez** [600772] (1)
 
-		
 		@erikashv gracias por aclararlo, algo que debió haber hecho el instructor
 
-	* **Silvia Valdespino Gutierrez** (1)
+	* **Silvia Valdespino Gutierrez** [600772] (1)
 
-		
 		Me salio el mismo error:  
 		Primero debes de abrir simbolo del sistema:  
 		poner la ruta donde se encuentra el bin.  
@@ -2235,9 +1930,8 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		luego ahi el  
 		mongo “mongodb+srv://cluster-managed-services-axwnq.mongodb.net” --username apps_ti
 
-	* **Maria Fernanda Monagas Vegas** (1)
+	* **Maria Fernanda Monagas Vegas** [600772] (1)
 
-		
 		hola,
 		
 		tengo el mongo.exe asi:  
@@ -2246,26 +1940,22 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		intento retorcedor con cd… para quedarme en bin y pegar el link pero me da error.  
 		si alguien podría ayudar por favor
 
-	* **ivonne-carolina-flores** (1)
+	* **ivonne-carolina-flores** [600772] (1)
 
-		
 		Yo lo corrí desde la terminal nativa de Windows y me funcionó, buscando primero en el menú de Windows la opción ejecutar escribiendo en la ventanita de ejecutar “cdm.exe” ( sin comillas ), después de que se abre la terminal, vas al directorio c:\ProgramFiles\MongoDB\Server\4.0\bin. (los comandos para navegar entre carpetas suelen cambiar entre terminales, hay que “googlearlos”).  
 		Y entonces pegas la liga que te proporciona Mongo Atlas sin olvidar cambiar <username> al final de la liga. 😃
 
-* **melercs** (1)
+* **melercs** (1) [596962](https://platzi.com/comentario/596962/) 
 
-	
 	Sigo teniendo este problema al conectarme:  
 	![](https://ibb.co/V2FQgHb)
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [573167](https://platzi.com/comentario/573167/) 
 
-	
 	Me pude conectar sin borrar el “\test” use el cmd como consola
 
-* **Carlos Martinez** (1)
+* **Carlos Martinez** (1) [565760](https://platzi.com/comentario/565760/) 
 
-	
 	hola, tengo un problema al conectar con Atlas, me dice que la coneccion ha fallado, al parecer es por un problema de autenticación pero estoy seguro de que ingreso bien mi contraseña
 	
 	este es el error que me sale:  
@@ -2281,25 +1971,22 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	me da ese error, no se que pueda ser
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [565760] (3)
 
-		
 		Lo único que veo con el error que compartes es que tengas algún error en la contraseña, prueba cambiar la contraseña e intentar volver a conectarte.
 		
 		Si es posible copia el stacktrace completo del error para ver si otra cosa más esta fallando.
 
-	* **Carlos Martinez** (2)
+	* **Carlos Martinez** [565760] (2)
 
-		
 		tienes razon, resultó ser la contraseña.
 		
 		yo estaba introduciendo la contraseña con la que inicio sesión pero esa no es la contraseña que piden sino la contraseña de usuarios mongoDB, solo tuve que cambiarla para que no fuese la cadena larga de caracteres seguros. La cambié por una más simple
 		
 		gracias por responder
 
-	* **jasa00** (2)
+	* **jasa00** [565760] (2)
 
-		
 		me manda esto y no se conecta
 		
 		D:\Datos_Perfil\407405>mongo “mongodb+srv://cluster0-0f61n.mongodb.net/test” --username jose  
@@ -2321,19 +2008,16 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 		@(connect):2:6  
 		exception: connect failed
 
-	* **melercs** (1)
+	* **melercs** [565760] (1)
 
-		
 		en la opción **security- > IP whitelist** agrega tu IP publica y listo.
 
-	* **Hinder Adrian Alvarez Perlaza** (1)
+	* **Hinder Adrian Alvarez Perlaza** [565760] (1)
 
-		
 		Revisa cuál es tu IP desde la página [](cualesmiip.com), quizás es que no la tienes autorizada desde el cluster de Atlas.
 
-* **Arturo Balleros Albillo** (1)
+* **Arturo Balleros Albillo** (1) [559827](https://platzi.com/comentario/559827/) 
 
-	
 	Comando de creación de registro usado:  
 	db.inventary. insertOne({ item : “canvas”, qty : 100, tags: [“cotton”], size : { h: 28, w: 35.5, uom: “cm”}})
 	
@@ -2362,29 +2046,25 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	}
 
-* **Roberto José Brizuela** (1)
+* **Roberto José Brizuela** (1) [551658](https://platzi.com/comentario/551658/) 
 
-	
 	Help!!!  
 	no puedo conectarme desde Compass de ninguna manera! (si desde consola)  
 	ahora hay otro método de autenticacion: SCRAM , pero tampoco puedo  
 	alguna ayuda? muchas gracias
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [551658] (1)
 
-		
 		Hola @rbzuela! La verdad no sé cómo ayudarte pero en la clase hay muchos otros comentarios de estudiantes con problemas también para conectarse, puedes revisar y en el mejor de los casos te ayudan a solucionar tu problema… 😃
 
-* **Nadir Antonio Soza Solis** (1)
+* **Nadir Antonio Soza Solis** (1) [550666](https://platzi.com/comentario/550666/) 
 
-	
 	Si usan Windows, la documentación recomienda agregar a la variable PATH el directorio bin de mongo.
 	
 	Si tiene abierta la terminal deben cerrarla para que los cambios surtan efecto., luego pueden usar la terminal del Sistema.
 
-* **cirovladimir** (1)
+* **cirovladimir** (1) [545771](https://platzi.com/comentario/545771/) 
 
-	
 	si tienes problemas para conectarte a atlas con el error
 	
 	> NETWORK [ReplicaSetMonitor-TaskExecutor] Unable to reach primary for set demo-shard-0  
@@ -2392,52 +2072,49 @@ c- Si ejecutas echo $PATH deberías tener la ruta que apunta a la carpeta /bin c
 	
 	**verifica** que el puerto 27017 **no este bloqueado** por tu ISP (o el firewall 😝)
 
-* **CarlMateus** (1)
+* **CarlMateus** (1) [64982](https://platzi.com/comentario/684415/) 
 Buenas tardes yo arranco mongo en Windows y al comienzo esta bien pero pasa un tiempo y se va la sesion a que se debe esto se me presenta...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [64982] (1)
 
-		
 		¡Hola! Esta guía puede ayudarte: [How to fix MongoDB connection timeout?](https://bobcares.com/blog/mongodb-connection-timeout/).
 		
 		Más información en la documentación: <http://mongodb.github.io/node-mongodb-native/2.2/reference/connecting/connection-settings/>.  
 		Busca la opción de **`connectTimeoutMS`**.
 
-* **burguito** (1)
+* **burguito** (1) [62694](https://platzi.com/comentario/644600/) 
 Buenas noches, Le escribo porque he intentado seguir los pasos de este video, pero cuando intento conectarme a Mongo Atlas mediante el Sh...
 
-	* **burguito** (2)
+	* **burguito** [62694] (2)
 
-		
 		<http://web.atbiz.co/wp-content/uploads/2019/07/error2.png>  
 		<http://web.atbiz.co/wp-content/uploads/2019/07/foto_error.png>
 
-* **Carlos Martinez** (1)
+* **Carlos Martinez** (1) [57495](https://platzi.com/comentario/565760/) 
 hola, tengo un problema al conectar con Atlas, me dice que la coneccion ha fallado, al parecer es por un problema de autenticación pero e...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [57495] (3)
 
-		
 		Lo único que veo con el error que compartes es que tengas algún error en la contraseña, prueba cambiar la contraseña e intentar volver a conectarte.
 		
 		Si es posible copia el stacktrace completo del error para ver si otra cosa más esta fallando.
 
-* **tidomar** (0)
-![fewfwe.PNG](https://static.platzi.com/media/user_upload/fewfwe-8c6a2d26-921a-44fb-938a-09f0342da757.jpg)
+* **tidomar** (0) [860029](https://platzi.com/comentario/860029/) 
+	
+	![fewfwe.PNG](https://static.platzi.com/media/user_upload/fewfwe-8c6a2d26-921a-44fb-938a-09f0342da757.jpg)
 	
 	tengo un error tremendo, me ayudan porfa , wa llorar :'0
 
-* **Maria Fernanda Monagas Vegas** (0)
+* **Maria Fernanda Monagas Vegas** (0) [66381](https://platzi.com/comentario/706737/) 
 Hola, tengo un problema al conectarme me arroja este error.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [66381] (1)
 
-		
 		¡Hola! Como lo indica la consola, tienes que agregar tu IP local a la “lista blanca” de tu cluster en MongoDB Atlas.
 		
 		Esta lista son las IPs que pueden conectarse a tu base de datos. Como no la has agregado, pos no te deja conectarte. Solo sigue las indicaciones del profesor: <https://platzi.com/clases/1533-mongodb/18477-mongodb-atlas/?time=347>.
 
-## 0080. MongoDB + Drivers
+## 0080. MongoDB + Drivers [18480](https://platzi.com/clases/1533-mongodb/18480-mongodb-drivers/)
 
 ### Descripción:
 
@@ -2448,9 +2125,8 @@ MongoDB es una base de datos open source, NoSQL y basada en documentos que nos p
 
 ### Comentarios:
 
-* **Wandy Rafael Santana Evangelista** (9)
+* **Wandy Rafael Santana Evangelista** (9) [556262](https://platzi.com/comentario/556262/) 
 
-	
 	 **¿Qué son los drivers en MongoDB?**  
 	Son las librerías que utilizamos para comunicar nuestra aplicación con nuestra base de datos.  
 	Sin nuestros drivers no podemos trabajar con nuestros cluster de base de datos.  
@@ -2458,30 +2134,26 @@ MongoDB es una base de datos open source, NoSQL y basada en documentos que nos p
 	**¿Cómo agregar los drivers dentro de nuestro proyecto?**  
 	Usamos un gestor de dependencias. Lo agregamos en nuestro gestor de dependencia; si usamos NodeJS, utilizamos ‘npm install mongodb --save’.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [556262] (1)
 
-		
 		Que buen aporte.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [556262] (1)
 
-		
 		Buen aporte para los estudiantes del curso.
 
-	* **Jaime Andrés Martínez Rodríguez** (1)
+	* **Jaime Andrés Martínez Rodríguez** [556262] (1)
 
-		
 		Gracias, me fue muy útil
 
-* **Juan David Castro (Platzi)** (9)
+* **Juan David Castro (Platzi)** (9) [544174](https://platzi.com/comentario/544174/) 
 
-	
 	 **Instalación** de los drivers de MongoDB en diferentes lenguajes:
 	
-	  * **Python** : `python -m pip install pyongo`
-	  * **Node.js** : `npm install mongodb --save`
-	  * **Ruby** : `gem install mongoid`
-	  * **GO** : `dep ensure -add go.mongodb.org/mongo-driver/mongo`
+	* **Python** : `python -m pip install pyongo`
+	* **Node.js** : `npm install mongodb --save`
+	* **Ruby** : `gem install mongoid`
+	* **GO** : `dep ensure -add go.mongodb.org/mongo-driver/mongo`
 	
 	
 	
@@ -2502,74 +2174,61 @@ MongoDB es una base de datos open source, NoSQL y basada en documentos que nos p
 	    
 	```
 
-	* **Everardo Sánchez** (3)
+	* **Everardo Sánchez** [544174] (3)
 
-		
 		Hay un pequeño typo en el de python, es _pymongo_
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [544174] (2)
 
-		
 		Gracias por el 👁, @everitosan!
 
-	* **Elias Ojeda Medina** (2)
+	* **Elias Ojeda Medina** [544174] (2)
 
-		
 		Para los que usan R:
 		``` 
 		    install.packages("RMongo")
 		    
 		```
 
-	* **Hinder Adrian Alvarez Perlaza** (2)
+	* **Hinder Adrian Alvarez Perlaza** [544174] (2)
 
-		
 		Por estos aportes la comunidad de Platzi es tan importante.
 
-* **ivanruiz__** (6)
+* **ivanruiz__** (6) [583592](https://platzi.com/comentario/583592/) 
 
-	
 	Para los usuarios de Node.js recomiendo que se miren el ODM Mongoose, facilita mucho todas las tareas!
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [583592] (1)
 
-		
 		Mongoose se usa en el curso de backend con node js
 
-* **Brayan Mamani** (2)
+* **Brayan Mamani** (2) [791458](https://platzi.com/comentario/791458/) 
 
-	
 	¡La importancia de los **Drivers** en **MongoDB**!
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054218](https://platzi.com/comentario/1054218/) 
 
-	
 	Existe alguno para React?  
 	Mas bien debe ser uno en el Backend verdad? Con que lenguaje me recomiendan???
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1054218] (1)
 
-		
 		Si, la conexión a la base de datos SIEMPRE debe ser a través del backend, a menos de que no te importe que todos tus datos sean visibles por cualquier persona. Te recomiendo ver la [Carrera de Backend con JavaScript](https://platzi.com/backend-javascript/) 😄
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [1054218] (1)
 
-		
 		Si te interesa JavaScript empieza trabajando con Node.js ahí si se puede conectar a Mongo. Checa el curso de express donde se hace la conexión desde Node a Mongo de forma muy sencilla.
 
-* **DiegoADaza** (1)
+* **DiegoADaza** (1) [972406](https://platzi.com/comentario/972406/) 
 
-	
 	Este video solo esta disponible en youtube?..En mi oficina tienen restringido el acceso a youtube y no puedo ver el video.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [885486](https://platzi.com/comentario/885486/) 
 
-	
 	gracias , ahora por favor un ejemplo de conexion desde cualquier lenguaje para ilustrar mejor.
 
-* **Gino Andrey Grimaldos Puerto** (1)
+* **Gino Andrey Grimaldos Puerto** (1) [857911](https://platzi.com/comentario/857911/) 
 
-	
 	Tengo un inconveniente con el driver para c#, tengo Visual Studio 2019  
 	y la pagina me dice que la conecion se realiza asi  
 	var mongoUrl = new MongoUrl(“mongodb+srv://User:<Password>@pruebachiAAA-verhd.mongodb.net”);  
@@ -2587,19 +2246,16 @@ MongoDB es una base de datos open source, NoSQL y basada en documentos que nos p
 	
 	De antemano gracias profe.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [846857](https://platzi.com/comentario/846857/) 
 
-	
 	Entendido
 
-* **Hinder Adrian Alvarez Perlaza** (1)
+* **Hinder Adrian Alvarez Perlaza** (1) [845801](https://platzi.com/comentario/845801/) 
 
-	
 	¿alguien tiene experiencia usando MongoDB con Java? es que lo necesito para un proyecto. Agradecería mucho que me pasaran un enlace.
 
-	* **werner-us** (2)
+	* **werner-us** [845801] (2)
 
-		
 		\------aca en la pagina oficial brother  
 		<https://mongodb.github.io/mongo-java-driver/3.4/driver/getting-started/quick-start/>
 		
@@ -2608,32 +2264,28 @@ MongoDB es una base de datos open source, NoSQL y basada en documentos que nos p
 		
 		saludos.
 
-* **Sebax1901** (1)
+* **Sebax1901** (1) [583463](https://platzi.com/comentario/583463/) 
 
-	
 	No comprendí cómo se hace la instalación del driver.
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (5)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [583463] (5)
 
-		
 		Esta es una explicación general de como funciona la instalación de drivers para los lenguajes de programación. Como sabes, hay muchísimos lenguajes, por lo tanto los comandos y explicaciones serían igualmente muchas. Sin embargo ¿Tienes algún lenguaje con el que manejarás MongoDB? Seguro aquí podemos ayudarte para su instalación 😉
 
-	* **SergioRubiano** (1)
+	* **SergioRubiano** [583463] (1)
 
-		
 		por ejemplo : estoy utilizando python, el driver que voy a utilizar para establecer la comunicación entre python y mondoDB seria python -m pip install pymongo
 
-* **Joan Federico Marin Ruiz** (1)
+* **Joan Federico Marin Ruiz** (1) [79701](https://platzi.com/comentario/944806/) 
 buenas tardes. no se si sera pregunta tonta, pero que son los ORM y los ODM. gracias.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [79701] (1)
 
-		
 		En esta lectura es explica qué es y por qué son importantes los ORMs: <https://platzi.com/blog/hibernate-y-spring-agilizan-nuestro-desarrollo-con-java/>. Los ODMs son lo mismo pero para bases de datos NoSQL. 😉
 
-# Operaciones CRUD
+# Operaciones CRUD [3702]
 
-## 0090. Bases de datos, Colecciones y Documentos en MongoDB
+## 0090. Bases de datos, Colecciones y Documentos en MongoDB [18481](https://platzi.com/clases/1533-mongodb/18481-bases-de-datos-colecciones-y-documentos-en-mongodb/)
 
 ### Descripción:
 
@@ -2646,88 +2298,82 @@ Los **Documentos** son registros dentro de las colecciones. Son la unidad básic
 
 ### Comentarios:
 
-* **Manuel Gil** (30)
+* **Manuel Gil** (30) [544281](https://platzi.com/comentario/544281/) 
 
-	
 	Base de datos:
 	
-	  * Contenedor físico de colecciones.
-	  * Cada base de datos tiene su archivo propio en el sistema de archivos.
-	  * Un cluster puede tener múltiples bases de datos.
+	* Contenedor físico de colecciones.
+	* Cada base de datos tiene su archivo propio en el sistema de archivos.
+	* Un cluster puede tener múltiples bases de datos.
 	
 	
 	
 	Colecciones:
 	
-	  * Agrupación de documentos.
-	  * Equivalente a una tabla en las bases de datos relacionales.
-	  * No impone un esquema.
+	* Agrupación de documentos.
+	* Equivalente a una tabla en las bases de datos relacionales.
+	* No impone un esquema.
 	
 	
 	
 	Documentos:
 	
-	  * Un registro dentro de una colección.
-	  * Es análogo a un objeto JSON (BSON).
-	  * La unidad básica dentro de MongoDB.
+	* Un registro dentro de una colección.
+	* Es análogo a un objeto JSON (BSON).
+	* La unidad básica dentro de MongoDB.
 	
 	![SQL-MongoDB+Correspondence](http://4.bp.blogspot.com/-edz2_QrFvCE/UnzBhKZE3FI/AAAAAAAAAEs/bTEsqnZFTXw/s400/SQL-MongoDB+Correspondence.PNG)
 
-	* **Luis Miguel Taque Diaz** (2)
+	* **Luis Miguel Taque Diaz** [544281] (2)
 
-		
 		Gracias por la imagen…
 
-	* **dvillalobos** (1)
+	* **dvillalobos** [544281] (1)
 
-		
 		Excelente imagen, gracias
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [544281] (1)
 
-		
 		buen aporte compañero.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544281] (1)
 
-		
 		Buena información.
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [544281] (1)
 
-		
 		excelente, mil gracias
 
-* **Juan David Castro (Platzi)** (8)
+* **Juan David Castro (Platzi)** (8) [544177](https://platzi.com/comentario/544177/) 
 
-	
 	 _BSON significa Binary JSON y es una representación binaria de estructuras de datos y mapas._
 	
-	  * [MongoDB, BSON, and JSON](https://www.mongodb.com/json-and-bson)
+	* [MongoDB, BSON, and JSON](https://www.mongodb.com/json-and-bson)
 	
 	
 
-* **Camilo Andrés Santana Lizcano** (4)
-![ captura-10-16-17.png](https://static.platzi.com/media/user_upload/captura-10-16-17-bd35be9a-3343-4fe4-a63e-4da8d31deaea.jpg)
+* **Camilo Andrés Santana Lizcano** (4) [942080](https://platzi.com/comentario/942080/) 
+	
+	![ captura-10-16-17.png](https://static.platzi.com/media/user_upload/captura-10-16-17-bd35be9a-3343-4fe4-a63e-4da8d31deaea.jpg)
 	
 	**BASES DE DATOS**
 	
-	  * Es un contenedor físico de colecciones
+	* Es un contenedor físico de colecciones
 	
-	  * cuando mongo guarda una base de datos crea un archivo para cada una de ellas
+	* cuando mongo guarda una base de datos crea un archivo para cada una de ellas
 	
-	  * podemos tener varias DB en un cluster
+	* podemos tener varias DB en un cluster
 	
 	
 	
 	
 	**COLECCIONES**
 	
-	  * Agrupación de documentos
+	* Agrupación de documentos
 	
-	  * Equivalente a una tabla en las bases de datos relacionales
+	* Equivalente a una tabla en las bases de datos relacionales
 	
-	  * no impone un esquema  
+	* no impone un esquema  
 	**_esquema_** : una estructura que debemos seguir para poder guardar un registro
 	
 	
@@ -2735,37 +2381,33 @@ Los **Documentos** son registros dentro de las colecciones. Son la unidad básic
 	
 	**DOCUMENTOS**
 	
-	  * Un registro dentro de una colección
+	* Un registro dentro de una colección
 	
-	  * Es análogo a un objeto json
+	* Es análogo a un objeto json
 	
-	  * La unidad básica dentro de MongoDB
+	* La unidad básica dentro de MongoDB
 	
 	
 	
 
-	* **Rene Ismael Barrios Rojas** (1)
+	* **Rene Ismael Barrios Rojas** [942080] (1)
 
-		
 		Genial tu resumen 😃
 
-* **ehnbytes** (2)
+* **ehnbytes** (2) [989079](https://platzi.com/comentario/989079/) 
 
-	
-	  * Bases de datos: son contenedores físicos para almacenar nuestras colecciones.
-	  * Colecciones: son agrupaciones de documentos.
-	  * Documentos: son registros dentro de las colecciones.
+	* Bases de datos: son contenedores físicos para almacenar nuestras colecciones.
+	* Colecciones: son agrupaciones de documentos.
+	* Documentos: son registros dentro de las colecciones.
 	
 	
 
-* **carlosivanespinoza** (2)
+* **carlosivanespinoza** (2) [815849](https://platzi.com/comentario/815849/) 
 
-	
 	Me gusta la forma en que podemos crear documentos con Arrays
 
-* **Ricardo Lugo Recillas** (2)
+* **Ricardo Lugo Recillas** (2) [756117](https://platzi.com/comentario/756117/) 
 
-	
 	Base de datos.  
 	Es un contenedor físico para nuestras colecciones  
 	Cada BD tienes sus archivos de collecciones  
@@ -2779,20 +2421,17 @@ Los **Documentos** son registros dentro de las colecciones. Son la unidad básic
 	Un registro dentro de una colección.  
 	Es análogo a un objeto JSON (BSON) (BSON es un guardado binario de un json).
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054279](https://platzi.com/comentario/1054279/) 
 
-	
 	Ya me quedo mucho mas claro que es aqui cada cosa con respecto a las bases de datos relacionales.  
 	Muy buena esta clase!
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [885512](https://platzi.com/comentario/885512/) 
 
-	
 	muchas gracias por la explicacion, es muy facil de entender a albert
 
-* **Gino Andrey Grimaldos Puerto** (1)
+* **Gino Andrey Grimaldos Puerto** (1) [857914](https://platzi.com/comentario/857914/) 
 
-	
 	Tengo un inconveniente con el driver para c#, tengo Visual Studio 2019  
 	y la pagina me dice que la conecion se realiza asi  
 	var mongoUrl = new MongoUrl(“mongodb+srv://User:<Password>@pruebachiAAA-verhd.mongodb.net”);  
@@ -2810,17 +2449,15 @@ Los **Documentos** son registros dentro de las colecciones. Son la unidad básic
 	
 	De antemano gracias profe.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [846865](https://platzi.com/comentario/846865/) 
 
-	
 	Entendido
 
-* **Cristhian Arce** (1)
+* **Cristhian Arce** (1) [836612](https://platzi.com/comentario/836612/) 
 
-	
 	Genial!
 
-## 0100. Operaciones CRUD desde la consola de MongoDB
+## 0100. Operaciones CRUD desde la consola de MongoDB [18482](https://platzi.com/clases/1533-mongodb/18482-operaciones-crud-desde-la-consola-de-mongodb/)
 
 ### Descripción:
 
@@ -2847,9 +2484,8 @@ Listar todos los posibles comandos que podemos ejecutar: `db.NOMBRE_COLECCIÓN.h
 
 ### Comentarios:
 
-* **MauricioHernanCabrera** (13)
+* **MauricioHernanCabrera** (13) [612769](https://platzi.com/comentario/612769/) 
 
-	
 	Comparison Query Operators  
 	$eq -> Matches values that are equal to a specified value.  
 	$gt -> Matches values that are greater than a specified value.  
@@ -2860,59 +2496,50 @@ Listar todos los posibles comandos que podemos ejecutar: `db.NOMBRE_COLECCIÓN.h
 	$ne -> Matches all values that are not equal to a specified value.  
 	$nin -> Matches none of the values specified in an array.
 
-	* **k7code** (1)
+	* **k7code** [612769] (1)
 
-		
 		Muchas gracias compañero, los estaba buscando para practicar.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [612769] (1)
 
-		
 		Esto nos ayudará en gran medida.
 
-* **Abril Darynka Tapia Sosa** (9)
+* **Abril Darynka Tapia Sosa** (9) [957450](https://platzi.com/comentario/957450/) 
 
-	
 	![](![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-2d4be618-302d-42b6-ab32-8723a04643a6.jpg)
 	
 	![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-fc030661-4be4-4d0e-ac2a-c751a27d2aa2.jpg)
 
-* **Luis Rodrigo Alvarez Herrera** (7)
+* **Luis Rodrigo Alvarez Herrera** (7) [798151](https://platzi.com/comentario/798151/) 
 
-	
 	Para los que quieran solo copiar y pegar
 	``` 
 	    db.inventory.insertOne( {_id:"soyID", item: "canvas", qty: 100, tags: ["cotton"], size: { h: 28, w: 35.5, uom: "cm"} } )```
 	    
 	```
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [798151] (1)
 
-		
 		Bien, gracias
 
-* **Carlos Andres Castañeda Osorio** (6)
+* **Carlos Andres Castañeda Osorio** (6) [577900](https://platzi.com/comentario/577900/) 
 
-	
 	JSON usado por el profesor en el método insertOne():
 	``` 
 	    db.inventory.insertOne({ item:"canvas", qty:100, tags:["cotton"], size: {h:28, w:35.5, uom:"cm"}})
 	    
 	```
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [577900] (1)
 
-		
 		**Gracias**
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [577900] (1)
 
-		
 		Genial
 
-* **cirovladimir** (6)
+* **cirovladimir** (6) [545851](https://platzi.com/comentario/545851/) 
 
-	
 	en el método findOne puedes pasar solamente el valor del object id
 	``` 
 	    db.inventory.findOne('5c9bcbdfb8a58f18905f89d3')
@@ -2946,20 +2573,17 @@ Listar todos los posibles comandos que podemos ejecutar: `db.NOMBRE_COLECCIÓN.h
 	>  “codeName” : “JSInterpreterFailure”  
 	>  }
 
-* **Enrique Devars (Platzi)** (5)
+* **Enrique Devars (Platzi)** (5) [610693](https://platzi.com/comentario/610693/) 
 
-	
 	Les dejo un tutorial donde explico algunas cosas extras de las operaciones CRUD en Mongo [cosas básicas de un CRUD en MongoDB](https://platzi.com/tutoriales/1533-mongodb/4102-cosas-basicas-de-un-crud-en-mongodb/)
 
-	* **Cristian Fabian Tovar** (3)
+	* **Cristian Fabian Tovar** [610693] (3)
 
-		
 		Es un buen resumen que en mi caso valió la pena detenerse a revisar para aclarar un poco más los conceptos.  
 		Gracias!
 
-* **Enrique Devars (Platzi)** (5)
+* **Enrique Devars (Platzi)** (5) [610356](https://platzi.com/comentario/610356/) 
 
-	
 	Encontre que el update() no actualiza todos los documentos si no tiene activa la opcion de multi, si quieren actualizar todo lo que empate con el filtro por defecto se puede usar el metodo updateMany()
 	``` 
 	    db.inventory.update(
@@ -2977,25 +2601,21 @@ Listar todos los posibles comandos que podemos ejecutar: `db.NOMBRE_COLECCIÓN.h
 	    
 	```
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [610356] (1)
 
-		
 		buen aporte compañero.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [610356] (1)
 
-		
 		Sigue así, con los aportes.
 
-* **RenzoP** (5)
+* **RenzoP** (5) [580886](https://platzi.com/comentario/580886/) 
 
-	
 	No te olvides de poner el filter en el deleteMany(). (NoSQL)  
 	No te olvides de poner el where en el delete from. (SQL)
 
-* **jjorgewill** (3)
+* **jjorgewill** (3) [724469](https://platzi.com/comentario/724469/) 
 
-	
 	Hola tengo una duda y como se podria actualizar un array dentro de un documento pq tengo el siguiente documento con la siguiente estructura y no se como agregarle un item al array
 	``` 
 	    "category": "Other",
@@ -3015,90 +2635,74 @@ Listar todos los posibles comandos que podemos ejecutar: `db.NOMBRE_COLECCIÓN.h
 	
 	y quiero agregarle un child al ref pero no se como se hace el update, aquien que sepa q me pueda decir, soy nuevo con mongo y no le entiendo bien esto de actualizar, pq actualizar puede ser cambiar un valor o agregar un valor o eliminar un valor de un documento
 
-	* **Hinder Adrian Alvarez Perlaza** (1)
+	* **Hinder Adrian Alvarez Perlaza** [724469] (1)
 
-		
 		Mira esta documentación [Aquí](https://docs.mongodb.com/manual/tutorial/update-documents/), donde se habla de insertar nuevos campos, lo cual puedes hacer con el operador $set.
 
-* **danilovalenzuela** (2)
+* **danilovalenzuela** (2) [1001637](https://platzi.com/comentario/1001637/) 
 
-	
 	No me puedo conectar a mongoBD Atlas desde el shell, alguien tiene la solución? (soy usuario windows).
 
-	* **Andres Saldaña** (1)
+	* **Andres Saldaña** [1001637] (1)
 
-		
 		cambia las variables de tu pc por las de mongodb = busca en el archivo de variables de tu computador ahora copia la ruta donde este mongodb,bin, pegalas y ahora si te conectara
 
-* **Juan Guillermo Perez Cardozo** (2)
+* **Juan Guillermo Perez Cardozo** (2) [891268](https://platzi.com/comentario/891268/) 
 
-	
 	que bueno y facil de usar. lo malo es que como es tan facil como en el caso del delete la gente puede hacer un truncate de la coleccion muy facilmente.
 
-* **alejandromarcano** (2)
+* **alejandromarcano** (2) [764490](https://platzi.com/comentario/764490/) 
 
-	
 	Buenísimo el resumen y descripción del profesor en el vídeo!
 
-* **Carlos Andres Castañeda Osorio** (2)
+* **Carlos Andres Castañeda Osorio** (2) [577972](https://platzi.com/comentario/577972/) 
 
-	
 	Importante tener en cuenta que si nosotros mismos definimos los _id, para la consulta no es necesario agregar el método ObjectId(), Por ejemplo:
 	``` 
 	    db.inventory.findOne({_id: "soy id"})
 	    
 	```
 
-* **Hector Jose Flores Colmenarez** (2)
+* **Hector Jose Flores Colmenarez** (2) [555493](https://platzi.com/comentario/555493/) 
 
-	
 	En **mongoDB ** todo elemento que se inserta en un documento si este no contiene un _id es agregado al objeto automáticamente. Sin embargo, es posible definir tu propio `_id` pero este debe ser único y no haber sido usado anteriormente en el mismo documento.
 	
 	En mongo los _id autogenerados siempre seran unicos.
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054315](https://platzi.com/comentario/1054315/) 
 
-	
 	Vamos bien!
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [1001508](https://platzi.com/comentario/1001508/) 
 
-	
 	Excelente Clase
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [989165](https://platzi.com/comentario/989165/) 
 
-	
 	Excelente clase!!
 
-* **Eliseoleo** (1)
+* **Eliseoleo** (1) [974313](https://platzi.com/comentario/974313/) 
 
-	
 	Increíble!!
 
-* **Jorge Enrique Avendaño Jara** (1)
+* **Jorge Enrique Avendaño Jara** (1) [954558](https://platzi.com/comentario/954558/) 
 
-	
 	Si Omito el ID, en un el comando updateOne, como se comporta MongoDB, Si encontrase 2 items iguales siguiendo el ejemplo visto en clases, modifica el primero que encuentra?, o modifica uno aleatoriamente?;
 
-* **raparisg** (1)
+* **raparisg** (1) [914535](https://platzi.com/comentario/914535/) 
 
-	
 	Si Mongo utiliza atomicidad de documentos, cómo se manejaría la transaccionalidad de las inserciones?
 
-* **Andres Pinzon** (1)
+* **Andres Pinzon** (1) [907509](https://platzi.com/comentario/907509/) 
 
-	
 	Estaría bueno compartir los json que estás usando para que facilites seguir los ejemplos. Más si se está usando la consola donde es poco amigable escribir json’s 😃
 
-	* **Jorge Enrique Avendaño Jara** (0)
+	* **Jorge Enrique Avendaño Jara** [907509] (0)
 
-		
 		Los Encuentras en La Sección de Archivos y Enlaces… !!!
 
-* **Gino Andrey Grimaldos Puerto** (1)
+* **Gino Andrey Grimaldos Puerto** (1) [857915](https://platzi.com/comentario/857915/) 
 
-	
 	Tengo un inconveniente con el driver para c#, tengo Visual Studio 2019  
 	y la pagina me dice que la conecion se realiza asi  
 	var mongoUrl = new MongoUrl(“mongodb+srv://User:<Password>@pruebachiAAA-verhd.mongodb.net”);  
@@ -3116,133 +2720,113 @@ Listar todos los posibles comandos que podemos ejecutar: `db.NOMBRE_COLECCIÓN.h
 	
 	De antemano gracias profe, me urge el tema.
 
-* **Hector Daniel Hernandez Castillo** (1)
+* **Hector Daniel Hernandez Castillo** (1) [857798](https://platzi.com/comentario/857798/) 
 
-	
 	¿Qué es más rápido? Un query de buscada mongodb o postgres/mysql/etc ?
 
-	* **Luis Jeanpier Monserrate** (1)
+	* **Luis Jeanpier Monserrate** [857798] (1)
 
-		
 		En mi opinión, para hacer querys a bases de datos son mejor las relacionales que las NOSQL de tipo DOCUMENTOS por el simple hecho de que una se basa en SQL y la otra no, en todo caso depende del tipo de query que quieras realizar, si es un query sencillo puedes hacerlo tranquilamente con MongoDB, si se trata de un query complejo y rebuscado no te va a ser tan efectivo.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [857722](https://platzi.com/comentario/857722/) 
 
-	
 	Muy interesante, hay que tener mucho con el borrado o la actualziacion sin filtros.
 
-* **tonyoz** (1)
+* **tonyoz** (1) [719734](https://platzi.com/comentario/719734/) 
 
-	
 	Seria algo asi? Tuplas = Documentos, Colecciones = Tablas ?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [719734] (1)
 
-		
 		Mira las respuestas a esta pregunta: <http://platzi.com/comentario/642895/>.
 
-* **Jcion** (1)
+* **Jcion** (1) [584399](https://platzi.com/comentario/584399/) 
 
-	
 	Pero ingresando como lo muestra el video al inicio no te deja hacer nada, no tiene los permisos.
 
-	* **osmandi (Platzi)** (3)
+	* **osmandi (Platzi)** [584399] (3)
 
-		
 		Es posible que falte configurar el acceso a MongoDB, ¿qué SO estás usando? Una captura de pantalla también sería de gran ayuda.
 
-	* **Jcion** (1)
+	* **Jcion** [584399] (1)
 
-		
 		@osmandi Debian 9. Ahora cuando vuelva a intentarlo te aviso, igual recuerdo que pude entrar con la otra forma más larga que él había mostrado anteriormente.
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [584399] (1)
 
-		
 		Revisa que tu usuario en el cluster de Atlas este como administrador para realizar las operaciones de CRUD
 
-* **Juan David Castro (Platzi)** (1)
+* **Juan David Castro (Platzi)** (1) [544178](https://platzi.com/comentario/544178/) 
 
-	
-	  * [🎯⚛ Atomicity and Transactions in MongoDB](https://docs.mongodb.com/manual/core/write-operations-atomicity/)
+	* [🎯⚛ Atomicity and Transactions in MongoDB](https://docs.mongodb.com/manual/core/write-operations-atomicity/)
 	
 	
 
-* **Jaime Andrés Martínez Rodríguez** (1)
+* **Jaime Andrés Martínez Rodríguez** (1) [79206](https://platzi.com/comentario/935675/) 
 Yo tengo una duda. ¿Cual es la estructura para el insert? db.inventory.insertOne( { item: “canvas”, qty: 100, tags: [“cotton”], size: { h...
 
-	* **Eduardo P. Rivero** (1)
+	* **Eduardo P. Rivero** [79206] (1)
 
-		
 		 **qty** es una forma abreviada de **quantity** , es decir la cantidad o stock del producto.
 		
 		Mientras que **size** son las medidas del producto, cuanto mide de alto ( **h como abreviación de height** ), ancho ( **w como abreviación de width** ).
 		
 		Por último **uom** es la forma corta de **unit of measure** , la forma en la que están expresadas las medidas es centimetros ( **cm** )
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [74715](https://platzi.com/comentario/857711/) 
 Entendido y practicando
 
-* **Hinder Adrian Alvarez Perlaza** (1)
+* **Hinder Adrian Alvarez Perlaza** (1) [74348](https://platzi.com/comentario/851125/) 
 ¿Cuál es el “orden natural” de mongoDB?
 
-	* **dbzdavidbaez** (1)
+	* **dbzdavidbaez** [74348] (1)
 
-		
 		Es el orden con el que se va insertando la informacion en la coleccion
 
-* **Hinder Adrian Alvarez Perlaza** (1)
+* **Hinder Adrian Alvarez Perlaza** (1) [74341](https://platzi.com/comentario/851025/) 
 ¿Cuando se ejecuta el comando findOne() la base de datos trae el documento que se ha insertado más recientemente, el pri...
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [74341] (1)
 
-		
 		Azar
 
-* **Jcion** (1)
+* **Jcion** (1) [58949](https://platzi.com/comentario/584399/) 
 Pero ingresando como lo muestra el video al inicio no te deja hacer nada, no tiene los permisos.
 
-	* **osmandi (Platzi)** (3)
+	* **osmandi (Platzi)** [58949] (3)
 
-		
 		Es posible que falte configurar el acceso a MongoDB, ¿qué SO estás usando? Una captura de pantalla también sería de gran ayuda.
 
-## 0110. Operaciones CRUD desde Compass
+## 0110. Operaciones CRUD desde Compass [18483](https://platzi.com/clases/1533-mongodb/18483-operaciones-crud-desde-compass/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Leonardo Rodrigues** (6)
+* **Leonardo Rodrigues** (6) [561922](https://platzi.com/comentario/561922/) 
 
-	
 	el curso es 10 de 10, el profesor da mucha informacion concisa, ya quiero aprender a como suedorelazionar en mongo sjasjsjas
 
-* **jsrodriguezj** (3)
+* **jsrodriguezj** (3) [666253](https://platzi.com/comentario/666253/) 
 
-	
 	Qué buena clase, es la primera vez que prefiero un sistema de interfaz que nuestra amiga la consola.  
 	😃
 
-* **Jose Arturo Enriquez Hurtado** (2)
+* **Jose Arturo Enriquez Hurtado** (2) [892697](https://platzi.com/comentario/892697/) 
 
-	
 	Bastante productivo desde la interfaz
 
-* **Cristhian Arce** (2)
+* **Cristhian Arce** (2) [836641](https://platzi.com/comentario/836641/) 
 
-	
 	Esta clase me gustó mucho
 
-* **Brayan Mamani** (2)
+* **Brayan Mamani** (2) [791542](https://platzi.com/comentario/791542/) 
 
-	
 	Me encanto esta clase del curso.
 
-* **cirovladimir** (2)
+* **cirovladimir** (2) [545863](https://platzi.com/comentario/545863/) 
 
-	
 	si no instalaste compass
 	
 	<https://platzi.com/clases/1533-mongodb/18478-instalacion-mongodb-en-windows/>
@@ -3253,79 +2837,67 @@ Pero ingresando como lo muestra el video al inicio no te deja hacer nada, no tie
 	    
 	```
 
-* **Abraham Gonzalez** (2)
+* **Abraham Gonzalez** (2) [60305](https://platzi.com/comentario/603738/) 
 Esta interfaz gráfica de MongoDB sirve para hacer querys complejos, cuestiones con lookUp, entre otros ?
 
-	* **albertramirez** (2)
+	* **albertramirez** [60305] (2)
 
-		
 		Sí lo permite, de hecho tiene una interfáz gráfica para crear un pipeline de agregaciones.
 		
 		<https://docs.mongodb.com/compass/master/aggregation-pipeline-builder/>
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054341](https://platzi.com/comentario/1054341/) 
 
-	
 	En las bases de datos no relacionales me gustaba trabajar únicamente en consola.  
 	Pero en esta ocasión me acomode mas a **MongoDB Compass** es mala idea solo usar esta herramienta y dejar a un lado la terminal?
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [1054341] (1)
 
-		
 		Son un complemento  
 		(Los pro generalmente solo usan terminal)
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [989186](https://platzi.com/comentario/989186/) 
 
-	
 	Muy práctico y funcional usar MongoDB Compass
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [891315](https://platzi.com/comentario/891315/) 
 
-	
 	que chevre y funcional la interfaz y usabilidad del mongo compass
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [858819](https://platzi.com/comentario/858819/) 
 
-	
 	Muy funcional Compass
 
-* **baciliodev** (1)
+* **baciliodev** (1) [771016](https://platzi.com/comentario/771016/) 
 
-	
 	Excelent
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [622821](https://platzi.com/comentario/622821/) 
 
-	
 	Buena clase
 
-* **Abraham Gonzalez** (1)
+* **Abraham Gonzalez** (1) [603738](https://platzi.com/comentario/603738/) 
 
-	
 	Esta interfaz gráfica de MongoDB sirve para hacer querys complejos, cuestiones con lookUp, entre otros ?
 
-	* **albertramirez** (2)
+	* **albertramirez** [603738] (2)
 
-		
 		Sí lo permite, de hecho tiene una interfáz gráfica para crear un pipeline de agregaciones.
 		
 		<https://docs.mongodb.com/compass/master/aggregation-pipeline-builder/>
 
-* **DeibyRuiz** (1)
+* **DeibyRuiz** (1) [591163](https://platzi.com/comentario/591163/) 
 
-	
 	muy buen curso, muy util para saber como usar mas a fondo mongodb compass
 
-* **jesusariza** (1)
+* **jesusariza** (1) [73186](https://platzi.com/comentario/830079/) 
 un favor, me genera el siguiente error al conectarme a la consola compass querySrv ENOTFOUND _mongodb._tcp.curso-platzi-ssmxu.mongodb.net
 
-	* **Cesar Orozco Manotas** (1)
+	* **Cesar Orozco Manotas** [73186] (1)
 
-		
 		Hola, verifica si tu dirección IP se encuentra en lista blanca para empezar, luego revisa si la cadena de conexión se encuentra bien.
 
-## 0120. Configuración e instalación de dependencias para el proyecto platzi-mongo
+## 0120. Configuración e instalación de dependencias para el proyecto platzi-mongo [18554](https://platzi.com/clases/1533-mongodb/18554-configuracion-e-instalacion-de-dependencias-para-e/)
 
 ### Descripción:
 
@@ -3380,11 +2952,11 @@ Con el ambiente de Anaconda activo ejecuta:
 
 Para que el proyecto se ejecute sin errores es necesario exportar las variables de entorno que se muestran a continuación:
 
-  * export FLASK_APP=platzi-api
+* export FLASK_APP=platzi-api
 
-  * export FLASK_ENV=development
+* export FLASK_ENV=development
 
-  * export PLATZI_DB_URI=“MONGO-URI”
+* export PLATZI_DB_URI=“MONGO-URI”
 
 
 
@@ -3404,20 +2976,17 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 
 ### Comentarios:
 
-* **Andrés De León Barroso Cifuentes** (9)
+* **Andrés De León Barroso Cifuentes** (9) [767854](https://platzi.com/comentario/767854/) 
 
-	
 	Poco didáctico, y para muchos usuarios problemático.
 
-* **javier-jimenez834** (9)
+* **javier-jimenez834** (9) [754073](https://platzi.com/comentario/754073/) 
 
-	
 	Es más fácil después de haber tomado los cursos de Git, Python, Digital Ocean y tener algo de experiencia con Anaconda…  
 	Deberían hacer un video con el ejemplo de instalación de dependencias para cada sistema operativo; seguir las instrucciones del texto sin las bases anteriores debe ser difícil y seguramente debe tener algún impacto en el abandono del curso.
 
-* **cirovladimir** (9)
+* **cirovladimir** (9) [545910](https://platzi.com/comentario/545910/) 
 
-	
 	 **En MacOS**
 	
 	1.- Clonar el repositorio de código con platzi-mongo e ingresar a la carpeta platzi-mongo
@@ -3475,9 +3044,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	<http://127.0.0.1:5000/carreras>
 
-	* **cirovladimir** (3)
+	* **cirovladimir** [545910] (3)
 
-		
 		**fe de errata:**
 		
 		al tratar de activar el ambiente mediante `conda activate` nos da el error
@@ -3496,19 +3064,16 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		    
 		```
 
-* **Saúl Báez Terrez** (6)
+* **Saúl Báez Terrez** (6) [637093](https://platzi.com/comentario/637093/) 
 
-	
 	Creo que esto debió ser explicado en un video, y es por estas cosas que no recomendaría platzi
 
-	* **Alejandro santalla** (1)
+	* **Alejandro santalla** [637093] (1)
 
-		
 		Hombre tanto como no recomendar no, pero si es cierto que deberian haber hecho video.
 
-* **Carlos Martinez** (6)
+* **Carlos Martinez** (6) [568964](https://platzi.com/comentario/568964/) 
 
-	
 	 **En Windows**  
 	para exportar las variables de entorno  
 	**nota** : tengo windows 7 pero supongo es igual en las demás versiones.
@@ -3534,35 +3099,29 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	tal como dijo el amigo que hizo el proceso en mac, y eso es todo, espero le sirva a alguien ya que como siempre hay cosas que varían en los sistemas operativos, saludos
 
-	* **HuguitoRadulovich** (1)
+	* **HuguitoRadulovich** [568964] (1)
 
-		
 		Tengo una consulta, como se sacaria el URI o es igual para todos, la verdad que no lo estoy entendiendo
 
-	* **Carlos Martinez** (1)
+	* **Carlos Martinez** [568964] (1)
 
-		
 		@huguitoRadulovich el URI te lo da mongoDB Atlas, prueba con el formato  
 		mongodb+srv://tusuario:tupassword@mflix-5zlol.mongodb.net donde OJO “tusuario” y “tupassword” no son los usuario y contraseña para poder entrar en tu cuenta mongodbAtlas si no el usuario y contraseña que pusiste en la parte de “database access” en mongoDB Atlas
 
-* **jorge gonzalez** (5)
+* **jorge gonzalez** (5) [1023686](https://platzi.com/comentario/1023686/) 
 
-	
 	Muy incompleto el tutorial la verdad
 
-* **Patricio Pilco** (5)
+* **Patricio Pilco** (5) [830776](https://platzi.com/comentario/830776/) 
 
-	
 	Falta metodología !!! Se debe mejorar el curso. Llego hasta aquí y no puedo continuar , solo me queda ver los videos. Debe existir garantia para quien no esta conforme.
 
-* **maojedas** (5)
+* **maojedas** (5) [752127](https://platzi.com/comentario/752127/) 
 
-	
 	Que confuso todo… demasiadas instalaciones y no se para que sirve cada una. Esto es MongoDB y termino instalando una plataforma de Python? como dijo un compañero, muy poco didactico!
 
-* **Carlos Andres Castañeda Osorio** (5)
+* **Carlos Andres Castañeda Osorio** (5) [585210](https://platzi.com/comentario/585210/) 
 
-	
 	Para configurar las variables de entorno en windows a través de CLI se utiliza la palabra reservada SET en lugar de EXPORT, Por ejemplo:
 	``` 
 	    set FLASK_APP=platzi-api
@@ -3571,9 +3130,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    
 	```
 
-	* **Brandonkozz** (1)
+	* **Brandonkozz** [585210] (1)
 
-		
 		las variables de entorno las puse como las tienes tu con el “set”, pero tengo un problema que al momento de ejecutar el comando flask run, me dice que
 		``` 
 		    raise KeyError(key) from None
@@ -3581,26 +3139,22 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		    
 		```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [585210] (2)
 
-		
 		@Brandonkozz revisa que la asignación de la variable PLATZI_DB_URI la estés haciendo con set y no con seT, @ccasta23 tiene un error de digitación y si estas copiando y pegando tal cual por eso es el error.
 
-* **Tazmania** (4)
+* **Tazmania** (4) [989406](https://platzi.com/comentario/989406/) 
 
-	
 	Concuerdo con la mayoría de los compañeros de este curso esta parte debería ser explicada por vídeo se supone que antes de lanzar un curso debe pasar por un control de calidad y no tener estos tropiezo que son molestos para los estudiantes.
 
-* **Ivan Alexis Carbajal Sandin** (4)
+* **Ivan Alexis Carbajal Sandin** (4) [951191](https://platzi.com/comentario/951191/) 
 
-	
 	Es cierto, esta parte es muy complicada. De hecho es imposible si no se tiene experiencia utilizando Anaconda, python, línea de comandos, git… Deberían crear un container en docker para poder seguir sin esta experiencia.
 	
 	RECOMENDACIÓN: Para poder ejecutar todos los comandos en windows de esta clase, despues de que se instala Anaconda, tambien se instala el anaconda prompt (así búsquenlo en sus programas). Con esa terminal puedes hacer prácticamente todo
 
-* **Jose Arturo Enriquez Hurtado** (4)
+* **Jose Arturo Enriquez Hurtado** (4) [892737](https://platzi.com/comentario/892737/) 
 
-	
 	Para los usuarios de **Windows** las variables de entorno se definen de esta forma de esta forma:
 	
 	Windows CMD:
@@ -3619,50 +3173,41 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    
 	```
 
-* **Julio Ignacio Oyarzun Cayuman** (4)
+* **Julio Ignacio Oyarzun Cayuman** (4) [892272](https://platzi.com/comentario/892272/) 
 
-	
 	Me consto bastante tiempo configurar esto en windows, y eso que llevo años trabajando tanto en linux como en windows. No me puedo imaginar el martirio que debe significar esto para los que recien estan aprendiendo.
 
-	* **Rene Ismael Barrios Rojas** (2)
+	* **Rene Ismael Barrios Rojas** [892272] (2)
 
-		
 		Si tienes razón pienso que debería haber un vídeo, en mi caso la verdad es que no me gusta gastar o perder mucho tiempo en todo eso de la instalación, entiendo que a veces es un proceso que no se puede omitir, pero precisamente es cuando un curso te ayuda a agilizar ese paso, saludos.
 
-* **Juan Guillermo Perez Cardozo** (4)
+* **Juan Guillermo Perez Cardozo** (4) [891361](https://platzi.com/comentario/891361/) 
 
-	
 	poker face los que no saben python, a instalarlo y tambien vscode entre otras dependencias. que pena con ellos mejor el profesor hubiera explicado esto con un video que perezoso y mal por los demas estudiantes.
 
-* **Tlacaelel León Villaseñor** (4)
+* **Tlacaelel León Villaseñor** (4) [691724](https://platzi.com/comentario/691724/) 
 
-	
 	Hagan un video de esto en windows, o expliquen mas a detalle, no puedo hacer funcionar el proyecto, y como no se nada de Python no puedo seguir el curso en las partes del proyecto.
 
-* **marcoxio** (4)
+* **marcoxio** (4) [549083](https://platzi.com/comentario/549083/) 
 
-	
 	Alguna razón para este error??  
 	![Captura de pantalla 2019-03-31 a la\(s\) 11.53.08 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-03-31%20a%20la%28s%29%2011.53.08%20a.%20m.-ca745965-aa00-42dd-a5ef-af428812ca87.jpg)
 
-	* **makeasy** (0)
+	* **makeasy** [549083] (0)
 
-		
 		Tengo el mismo error
 
-	* **Miguel Peláez** (1)
+	* **Miguel Peláez** [549083] (1)
 
-		
 		Alguna solución?
 
-	* **makeasy** (1)
+	* **makeasy** [549083] (1)
 
-		
 		si tambien tengo el mismo problema :’(
 
-	* **Abraham Gonzalez** (1)
+	* **Abraham Gonzalez** [549083] (1)
 
-		
 		Yo lo pude solventar … en mi variables de entorno y es la manera en que te conectas. Mongodb Atlas te da una sección de conexión con Phyton algo confusa, yo copie solo la uri por defecto y descargar una dependencia que necesitaba …
 		``` 
 		    export PLATZI_DB_URI=mongodb+srv://platzi-admin:<myPass>@curso-platzi-umrp8.mongodb.net
@@ -3673,14 +3218,12 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		
 		Espero haberle sido de utilidad …
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [549083] (1)
 
-		
 		Bueno, con el comentario anterior se soluciona.
 
-* **Joseph Santibáñez** (3)
+* **Joseph Santibáñez** (3) [987560](https://platzi.com/comentario/987560/) 
 
-	
 	No se entiende esta parte!!! se está mezclando muchos conceptos apartes y perdí el foco. Se puede continuar el curso si no logré esto???
 	
 	`(platzi-mongo) [root@OEL704-MongoDB platzi-mongo]# pip  
@@ -3693,85 +3236,70 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	No me reconoce el comando pip cuando estoy con conda activado!
 
-* **Eduardo Rodriguez Yapur** (3)
+* **Eduardo Rodriguez Yapur** (3) [747232](https://platzi.com/comentario/747232/) 
 
-	
 	Muy poco didáctico la forma en que se explica esta sección. Creo que faltan explicar mucho conceptos. Espere se mejore pronto para que sea mas comprensible.
 
-* **ERNESTO ORTIZ** (3)
+* **ERNESTO ORTIZ** (3) [705070](https://platzi.com/comentario/705070/) 
 
-	
 	Hola, andaba perdido, igual que varios que veo por aqui, les recomiendo <https://www.youtube.com/watch?v=YYXdXT2l-Gg>  
 	así como <https://www.youtube.com/watch?v=APOPm01BVrk;> si no saben de Python como yo. Saludos.
 
-	* **xmedinavei** (1)
+	* **xmedinavei** [705070] (1)
 
-		
 		Este comentario es la solución!
 
-	* **xmedinavei** (1)
+	* **xmedinavei** [705070] (1)
 
-		
 		Algún video para exportar las variables de entorno?
 
-* **Edwin_Salinas_Parra** (3)
+* **Edwin_Salinas_Parra** (3) [696791](https://platzi.com/comentario/696791/) 
 
-	
 	por favor si alguien pudiese explicar una mejor forma de poder hacer este proceso, que en realidad no son claros.  
 	gracias
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (1)
 
-		
 		Hola, qué sistema operativo usas, estas usando conda?
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		Windows 10
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (1)
 
-		
 		Ok, entonces estas usando conda?
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		ese es presisamente el problemo no lo he podido utilizar no he padado de esta instalacion
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (1)
 
-		
 		Qué error te sale al intentar instalar, o qué problema tienes exactamente al instalar conda.
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		ya lo instale pero no se en que parte ejecutar los comandos que estan indicando hay
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (1)
 
-		
 		Los comandos se deben ejecutar en la consola dentro del entorno virtual creado por conda, como usas windows usa la shell de linux para poder trabajar mejor.
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		pero como lo ejecuto no me permite ejecutarlo  
 		bueno o no lo encuentro
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (1)
 
-		
 		Comparte una captura de pantalla de lo que has intentado, es más sencillo guiarte de esa forma.
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 ![error mongoDB.jpg](https://static.platzi.com/media/user_upload/error%20mongoDB-10e2e519-8402-4b9a-9c08-c41a002bf8f2.jpg)
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		ese fue el unico que me dejo crear e iniciar con conda pero ya hacer el otro proceso ya no
 		
 		no se si fue que quedo mal unstalado o que pero no me deja
@@ -3779,36 +3307,31 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		a demas de que me aparece anaconda powershell prompt 2 y 3  
 		es muy confuso
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (2)
 
-		
 		Hola. Como estas usando conda debes correr los comandos de conda para instalar aquí tienes la documentación de como se instalan paquetes <https://docs.continuum.io/anaconda/user-guide/tasks/install-packages/>. Para instalar usando el archivo requirements.txt debes usar el siguiente comando  
 		`conda install --file requirements.txt`
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 ![nuevo error mongoDB.jpg](https://static.platzi.com/media/user_upload/nuevo%20error%20mongoDB-b9d562b6-ae85-4bd9-9ccf-0756f077f423.jpg)
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		nuevo error!!!..
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 ![paso no entiendo.jpg](https://static.platzi.com/media/user_upload/paso%20no%20entiendo-600f502c-9d55-41c9-9e22-ccdcad04c679.jpg)
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [696791] (1)
 
-		
 		ya instale lo otro, ahora esta parte en donde se ejecuta???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [696791] (1)
 
-		
 		En windows las variables de entorno se setean diferente, esta documentación te puede ayudar <https://docs.microsoft.com/en-us/windows/win32/procthread/environment-variables>, yo te recomiendo que instales una maquina virtual con ubuntu o cualquier distribución de linux y va a ser tu vida más fácil. En lo personal Windows no me parece la mejor plataforma para desarrollar cosas que no tengan que ver con el ecosistema de Microsoft.
 
-* **Fernando Torres** (2)
+* **Fernando Torres** (2) [1091504](https://platzi.com/comentario/1091504/) 
 
-	
 	Ojo, si tuviste error o algo no funcionó, te sugiero leas con calma todos los comentarios de la comunidad aquí debajo. Lee todos sin aplicar ninguna solución. Una vez hecho esto, podrás decidir cuál aplica a tu caso.
 	
 	En mi caso, hasta que no reinicie mi terminal, pude ejecutar
@@ -3823,9 +3346,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	Y al final, obtendrás un error 404 al consultar la dirección, ya que no hay frontend para la URL. Prueba por ejemplo con:  
 	<http://127.0.0.1:5000/carreras/test>
 
-* **David Flores** (2)
+* **David Flores** (2) [1088791](https://platzi.com/comentario/1088791/) 
 
-	
 	Para crear un entorno virtual con python 3.3+ lo haces de la siguiente manera:
 	``` 
 	    conda create--name my-env python=3
@@ -3838,55 +3360,47 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    
 	```
 
-* **AryRosvall** (2)
+* **AryRosvall** (2) [1080666](https://platzi.com/comentario/1080666/) 
 
-	
 	Hola, después de mucho batallar encontré este tutorial para instalar anaconda desde la terminal en MacOS porque por el instalador dio problemas:
 	
 	<https://towardsdatascience.com/how-to-successfully-install-anaconda-on-a-mac-and-actually-get-it-to-work-53ce18025f97>
 
-* **avilchez** (2)
+* **avilchez** (2) [1043067](https://platzi.com/comentario/1043067/) 
 
-	
 	Hola buen día, un favor, me pudieran orientar en el último paso de como exportar las variables, donde se realiza ese paso. Gracias
 
-* **jorge gonzalez** (2)
+* **jorge gonzalez** (2) [1023675](https://platzi.com/comentario/1023675/) 
 
-	
 	Hice todos los pasos y cuando voy al enlace 127.0.0.1:5000 me sale error 404  
 	![error404.png](https://static.platzi.com/media/user_upload/error404-c28d1cf8-ea96-429a-a058-0ab24d362bd7.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023675] (1)
 
-		
 		Prueba poniendo `/` al final
 
-	* **jorge gonzalez** (1)
+	* **jorge gonzalez** [1023675] (1)
 
-		
 		no funcionó
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023675] (1)
 
-		
 		Puedes compartir tu código para ver si hay algún error de digitación que haga que este esperando un path en la url
 
-	* **Franco Emanuel Aban Tejerina** (1)
+	* **Franco Emanuel Aban Tejerina** [1023675] (1)
 
-		
 		qué te muestra la consola luego de ejecutar el comando: **flask run**
 
-	* **jbarriospd** (1)
+	* **jbarriospd** [1023675] (1)
 
-		
 		Estoy en mismo punto del compañero, despues de ejecutar flask run aparece:  
 		Serving Flask app “platzi-api”
 		
-		  * Environment: production  
+		* Environment: production  
 		WARNING: Do not use the development server in a production environment.  
 		Use a production WSGI server instead.
-		  * Debug mode: off
-		  * Running on <http://127.0.0.1:5000/> (Press CTRL+C to quit)  
+		* Debug mode: off
+		* Running on <http://127.0.0.1:5000/> (Press CTRL+C to quit)  
 		127.0.0.1 - - [14/Mar/2020 23:35:15] “GET / HTTP/1.1” 404 -
 		
 		
@@ -3895,42 +3409,36 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		
 		Agradezco la ayuda:)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023675] (1)
 
-		
 		@jbarriospd puedes compartir tu archivo .py para verificar que todo este ok.
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [1023675] (1)
 
-		
 		a mi me está pasando lo mismo, me marca error 404
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023675] (1)
 
-		
 		@AryRosvall comparte tu código por favor para poder ayudarte.
 
-	* **Fernando Torres** (1)
+	* **Fernando Torres** [1023675] (1)
 
-		
 		Es normal. No hay frontend; es una API. Prueba con <http://127.0.0.1:5000/carreras/test>
 
-* **Vicente Fernandez** (2)
+* **Vicente Fernandez** (2) [995124](https://platzi.com/comentario/995124/) 
 
-	
 	Se me hace imposible esto, NO tengo conocimientos de Postman, GitHub, Anaconda o Python.
 
-* **ehnbytes** (2)
+* **ehnbytes** (2) [989214](https://platzi.com/comentario/989214/) 
 
-	
 	No puedo hacer correr el proyecto.
 	
 	> flask run
 	
-	  * Environment: production  
+	* Environment: production  
 	WARNING: Do not use the development server in a production environment.  
 	Use a production WSGI server instead.
-	  * Debug mode: off  
+	* Debug mode: off  
 	Usage: flask run [OPTIONS]
 	
 	
@@ -3939,9 +3447,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	> 
 
-	* **Cristian David Franco Garcia** (2)
+	* **Cristian David Franco Garcia** [989214] (2)
 
-		
 		Ejecuta estos comandos segun tu sistema operativo desde la misma consola donde se ejecutara Flask run:
 		
 		Unix:  
@@ -3954,9 +3461,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		SET FLASK_ENV=development  
 		SET PLATZI_DB_URI=“MONGO-URI”
 
-* **renevillegasr** (2)
+* **renevillegasr** (2) [785193](https://platzi.com/comentario/785193/) 
 
-	
 	No logro correr la api, el hacerlo con:
 	``` 
 	    flask run
@@ -3982,104 +3488,87 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	Saludos
 
-	* **Franco Emanuel Aban Tejerina** (1)
+	* **Franco Emanuel Aban Tejerina** [785193] (1)
 
-		
 		verifica que estés dentro del directorio **platzi-mongo** antes de ejecutar el comando el comando y que tu usuario tenga los permisos necesarios
 
-	* **José Roberto Diaz Rodriguez** (1)
+	* **José Roberto Diaz Rodriguez** [785193] (1)
 
-		
 		Prueba con correr el siguiente comando:  
 		**python -m flask run**  
 		A mi me funciono con esto.
 
-* **Edwin_Salinas_Parra** (2)
+* **Edwin_Salinas_Parra** (2) [762566](https://platzi.com/comentario/762566/) 
 
-	
 	deberian subie un video aparte explicando esta parte, para los que estamos tan perdidos.  
 	o que curso tenemos que ver antes para no quedar tan perdidos.
 
-	* **Victor Inojosa** (1)
+	* **Victor Inojosa** [762566] (1)
 
-		
 		El curso de Python y luego el de Flask te servirian
 
-	* **Edwin_Salinas_Parra** (1)
+	* **Edwin_Salinas_Parra** [762566] (1)
 
-		
 		gracias voy a intentarlo
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [762566] (1)
 
-		
 		Bueno, si funciona.
 
-* **eliseojoel12** (2)
+* **eliseojoel12** (2) [656588](https://platzi.com/comentario/656588/) 
 
-	
 	Rayos batman! instale anaconda satisfactoriamente y quise ejecutar el comando y no reconoce el “conda”.  
 	alguien tenia el mismo problema?  
 	![](https://ibb.co/hZ13hTD)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [656588] (4)
 
-		
 		Asegúrate que el ejecutable de conda este guardado en las variables de entorno, si tenias la terminal abierta cierrala y vuelves a abrir la terminal para que tome los cambios.
 
-	* **Joan Federico Marin Ruiz** (1)
+	* **Joan Federico Marin Ruiz** [656588] (1)
 
-		
 		desde donde quedo instalado anaconda?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [656588] (1)
 
-		
 		@Fede01 qué sistema operativo usas? para ayudarte a encontrar el path de instalación, no es lo mismo para todos los sistemas operativos.
 
-	* **Joan Federico Marin Ruiz** (1)
+	* **Joan Federico Marin Ruiz** [656588] (1)
 
-		
 		tengo que agregar el Path C:\Program Files\MongoDB\Server\4.2\bin  
 		a variables de entorno de windows?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [656588] (1)
 
-		
 		@Fede01 esto agrega solo mongo, tu problema es con conda como tal, puedes compartir captura de pantalla del error en la consola.
 
-	* **Joan Federico Marin Ruiz** (1)
+	* **Joan Federico Marin Ruiz** [656588] (1)
 ![error.png](https://static.platzi.com/media/user_upload/error-0865de38-e511-4c83-b04c-a26fcfcf2710.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [656588] (2)
 
-		
 		@Fede01 estas tratando de buscar el ejecutable de conda en la carpeta de mongo, nunca lo va a encontrar, debes ejecutar conda en la carpeta donde se instalo conda.
 
-* **Fabián Antonio Alvarado Picado** (2)
+* **Fabián Antonio Alvarado Picado** (2) [566360](https://platzi.com/comentario/566360/) 
 
-	
 	Me encanta la forma en que éste profe explica, él es pausado y con detalle.
 	
 	Otro dato a favor es usar ramas de Git 😊
 
-* **Jaiden Meiden** (1)
+* **Jaiden Meiden** (1) [1059564](https://platzi.com/comentario/1059564/) 
 
-	
 	![](![Captura de pantalla de 2020-03-23 21-47-46.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-23%2021-47-46-11a89523-c320-4b29-8e36-3b99bd4ce140.jpg)
 	
 	Alguien sabe que hacer aquí? Es la versión de Python? Es anaconda? Lo configure mal? Es porque estoy utilizando ZSH?
 
-* **Jaiden Meiden** (1)
+* **Jaiden Meiden** (1) [1059442](https://platzi.com/comentario/1059442/) 
 
-	
 	Para los que tienen Python 3, pueden mirar este tutorial:
 	
 	<https://platzi.com/tutoriales/1378-python-practico/3077-crear-ambiente-virtual-con-virtualenv/>
 
-* **Jaiden Meiden** (1)
+* **Jaiden Meiden** (1) [1059426](https://platzi.com/comentario/1059426/) 
 
-	
 	Si se les presenta el siguiente error (Si tienen Python 2):
 	``` 
 	    CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
@@ -4109,9 +3598,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	y reinicien
 
-* **joeldm011** (1)
+* **joeldm011** (1) [1054364](https://platzi.com/comentario/1054364/) 
 
-	
 	a que se debe este error? 😦
 	``` 
 	    (platzi-mongo) PS C:\Cursos\platzi-mongo> pip install -r requirements.txt
@@ -4126,14 +3614,12 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    
 	```
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [1054364] (1)
 
-		
 		si tienes python3 intenta con pip3 a mi me pasó lo mismo.
 
-* **jlcoronel** (1)
+* **jlcoronel** (1) [1047303](https://platzi.com/comentario/1047303/) 
 
-	
 	Iba todo bien, con un poco de leer y leer hasta comprender lo que quierian hacer, ya que no está muy bien explicado y ademas las versiones no coinciden hoy en día.
 	
 	Al final me manda el siguiente error:
@@ -4149,18 +3635,16 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    EStoy un poco cansado, continuaré en la mañana.
 	```
 
-	* **jlcoronel** (1)
+	* **jlcoronel** [1047303] (1)
 
-		
 		Lo volví ejecutar hoy en la mañana pero sin poner las comillas dobles antes y alfinal del string de conección y funcionó.
 		``` 
 		    SET PLATZI_DB_URI=mongodb+srv://usuario:contraseña@curso-platzi-eu1qo.mongodb.net
 		    
 		```
 
-* **Adrian Carvajal** (1)
+* **Adrian Carvajal** (1) [1044341](https://platzi.com/comentario/1044341/) 
 
-	
 	Hola, me queda faltando el paso final, estoy usando windows
 	
 	(platzi-mongo) C:\Users\ADRIAN\Documents\GitHub\platzi-mongo>set FLASK_APP=platzi-api
@@ -4171,13 +3655,13 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	(platzi-mongo) C:\Users\ADRIAN\Documents\GitHub\platzi-mongo>flask run
 	
-	  * Serving Flask app “platzi-api” (lazy loading)
-	  * Environment: development
-	  * Debug mode: on
-	  * Restarting with windowsapi reloader
-	  * Debugger is active!
-	  * Debugger PIN: 205-680-132
-	  * Running on <http://127.0.0.1:5000/> (Press CTRL+C to quit)  
+	* Serving Flask app “platzi-api” (lazy loading)
+	* Environment: development
+	* Debug mode: on
+	* Restarting with windowsapi reloader
+	* Debugger is active!
+	* Debugger PIN: 205-680-132
+	* Running on <http://127.0.0.1:5000/> (Press CTRL+C to quit)  
 	127.0.0.1 - - [17/Mar/2020 19:04:56] “GET / HTTP/1.1” 404 -  
 	127.0.0.1 - - [17/Mar/2020 19:04:56] “GET /favicon.ico HTTP/1.1” 404 -
 	
@@ -4185,45 +3669,39 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	Pero al abrir <http://127.0.0.1:5000> sale 404 not found
 
-* **GersonPc** (1)
+* **GersonPc** (1) [1016934](https://platzi.com/comentario/1016934/) 
 
-	
 	Me sale este error y no se como solucionarlo
 	``` 
 	    Error: The file/path provided (platzi-api) doesnot appear to exist.  Please verify the path is correct.  If app isnoton PYTHONPATH, ensure the extension is .py
 	    
 	```
 
-* **Gerardo Nava Pereda** (1)
+* **Gerardo Nava Pereda** (1) [1013499](https://platzi.com/comentario/1013499/) 
 
 	```
 	    export PLATZI_DB_URI="mongodb+srv://<user>:<password>@<tu-mongodb-atlas-name>.mongodb.net"
 	    
 	```
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [1013499] (1)
 
-		
 		Sin las comillas.
 
-* **Cristian David Franco Garcia** (1)
+* **Cristian David Franco Garcia** (1) [997936](https://platzi.com/comentario/997936/) 
 
-	
 	Si estan trabajando desde windows busquen y usen esta terminal: Anaconda Prompt (Anaconda 3), desde aqui ejecuten todos los comandos y funcionara.
 
-* **DiegoADaza** (1)
+* **DiegoADaza** (1) [977500](https://platzi.com/comentario/977500/) 
 
-	
 	Este pedazo debería tener vídeo para hacer el paso a paso correctamente
 
-* **nick** (1)
+* **nick** (1) [975482](https://platzi.com/comentario/975482/) 
 
-	
 	Todo listo
 
-* **ejgachancipa** (1)
+* **ejgachancipa** (1) [961155](https://platzi.com/comentario/961155/) 
 
-	
 	Hola, tengo este error:
 	``` 
 	    ModuleNotFoundError
@@ -4231,9 +3709,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    
 	```
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [961155] (1)
 
-		
 		hola, lo que hice fue
 		``` 
 		    pip install bson
@@ -4242,72 +3719,63 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		
 		y con eso me funcionó
 
-* **Joan Federico Marin Ruiz** (1)
+* **Joan Federico Marin Ruiz** (1) [947179](https://platzi.com/comentario/947179/) 
 
-	
 	igual como todos se han quejado, muy mala explicacion esta parte.  
 	navego en la consola de windows hasta donde guarde el proyecto mongo-platzi-master, y no me reconoce el comando “conda”…alguna ayuda porfa…
 
-	* **Franco Emanuel Aban Tejerina** (2)
+	* **Franco Emanuel Aban Tejerina** [947179] (2)
 
-		
 		Prueba utilizar las aplicaciones de consola que se instalan junto con **Anaconda** , es lo que yo hice  
 		![anaconda.png](https://static.platzi.com/media/user_upload/anaconda-0acc0d97-587e-42a6-9703-d06ba9df286e.jpg)
 		
 		si
 
-* **sebastianaceved** (1)
+* **sebastianaceved** (1) [940293](https://platzi.com/comentario/940293/) 
 
-	
 	como creo las variables de entorno necesarias para ejecutar el proyecto esto hay que hacerlo en la consola en el caso de linux? , no entiendo
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [860607](https://platzi.com/comentario/860607/) 
 
-	
 	Podría detallarse mucho más la impelmntacion de este ambiente. Sé que hay que tener conocimiento en otros lenguajes, pero estamos estudiando el tema de bases de datos MongoDb y no Desarrollo.
 
-* **manuel-mendoza142** (1)
+* **manuel-mendoza142** (1) [778431](https://platzi.com/comentario/778431/) 
 
-	
 	mongodb+srv://platzi-admin:*********************@clase-platzi-syws2.mongodb.net
 	
 	No existe el archivo o el directorio
 	
 	ayuda porque me sale este error???
 
-* **Edwin_Salinas_Parra** (1)
-![error mongoDB.jpg](https://static.platzi.com/media/user_upload/error%20mongoDB-e4462868-2bbc-4a42-a09d-4d4754016adb.jpg)
+* **Edwin_Salinas_Parra** (1) [766239](https://platzi.com/comentario/766239/) 
+	
+	![error mongoDB.jpg](https://static.platzi.com/media/user_upload/error%20mongoDB-e4462868-2bbc-4a42-a09d-4d4754016adb.jpg)
 	
 	hasta hay llego despues de muchisimos intentos
 
-	* **Franco Emanuel Aban Tejerina** (1)
+	* **Franco Emanuel Aban Tejerina** [766239] (1)
 
-		
 		Prueba ejecutando desde el **prompt** que se instala cuando instalas **Anaconda** y si tienes problemas de permisos ejecuta el Prompt como **administrados**
 
-* **JaimeRamos** (1)
+* **JaimeRamos** (1) [686138](https://platzi.com/comentario/686138/) 
 
-	
 	flask.cli.NoAppException  
 	flask.cli.NoAppException: Could not import “platzi_api”.  
 	alguien sabe por qué ocurre este error?
 
-* **zarza-raul** (1)
+* **zarza-raul** (1) [680856](https://platzi.com/comentario/680856/) 
 
-	
 	Hola jovenes, alguien le da este problema ? como lo arreglaron. Saludos![](![Captura de pantalla de 2019-08-08 10-58-22.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-08-08%2010-58-22-960766cb-c7e8-4e9c-ba9f-be251df1ed23.jpg)builtins.ModuleNotFoundError
 	
 	ModuleNotFoundError: No module named ‘bson’
 
-	* **Eduardo Imery Winterdaal** (1)
+	* **Eduardo Imery Winterdaal** [680856] (1)
 
-		
 		Hola Raul, lograste solucionar el problema?  
 		si no prueba borrando la libreria de BSON y pymongo con pip y luego vuelves a instalar pymongo, espero te pueda resolver, saludos
 
-* **Grupo OET** (1)
+* **Grupo OET** (1) [663589](https://platzi.com/comentario/663589/) 
 
-	
 	Buenas tardes, tengo una inquietud:  
 	Ya he logrado instalar Anaconda, e incluso he instalado las dependencias del proyecto, así como definir las variables de entorno, con base en las indicaciones dadas por el profesor. Sin embargo, cuando ejecuto la instrucción “ **flask run** ”, de inmediato saca este mensaje:
 	
@@ -4315,19 +3783,16 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	Por favor, alguien que nos oriente para que la instrucción funcione satisfactoriamente, y así ejecutar el servidor de desarrollo. Muchas Gracias
 
-* **Fernando Eladio Alvarez Noya** (1)
+* **Fernando Eladio Alvarez Noya** (1) [648274](https://platzi.com/comentario/648274/) 
 
-	
 	Me funciono y todo!!! Aclaro que estoy en un mac, cosa que a veces suele complicarse! 😉
 
-* **Wilson_Revan** (1)
+* **Wilson_Revan** (1) [643528](https://platzi.com/comentario/643528/) 
 
-	
 	No comprendo como realizar correctamente el ultimo paso “exportar las variables de entorno”. Espero alguien me pueda explicar como se debe realizar. Desde GIT bash ejecute los comandos export y construí la URI con el comando export tal y como indica pero al entrar al dirección especificada no me ejecuta nada dice “127.0.0.1 rechazó la conexión.”
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [643528] (4)
 
-		
 		Hola. veo que usas windows, entonces desde el cmd o power shell usas estos comandos
 		``` 
 		    set FLASK_APP=platzi-api
@@ -4338,20 +3803,17 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		
 		Es cambiar export por set
 
-	* **Wilson_Revan** (1)
+	* **Wilson_Revan** [643528] (1)
 
-		
 		Hola diego , una ultima pregunta el que quiere decir con “Cuando tengas todas las variables de entorno ejecuta:  
 		flask run” en cmd ejecuto este comando a traves del git bash o es algún archivo? . Agradezco tu ayuda.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [643528] (2)
 
-		
 		Lo ejecutas en git bash.
 
-	* **ricardo-tierra** (1)
+	* **ricardo-tierra** [643528] (1)
 
-		
 		Yo estoy en linux y al momento de ingresar mis datos en este paso  
 		// export PLATZI_DB_URI=“MONGO-URI”
 		
@@ -4360,9 +3822,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		
 		no se si alguien sepa como correguirlo
 
-* **hugohr1** (1)
+* **hugohr1** (1) [642266](https://platzi.com/comentario/642266/) 
 
-	
 	Para las personas que tienen este error
 	
 	![error1.PNG](https://static.platzi.com/media/user_upload/error1-985d31b5-68e3-4e3b-afa6-3cf0a89e0d07.jpg)
@@ -4371,14 +3832,12 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	Platzi-api/db.py  
 	y remover las tildes de la linea 7
 
-* **Luis Donaldo Lopez Gil** (1)
+* **Luis Donaldo Lopez Gil** (1) [625630](https://platzi.com/comentario/625630/) 
 
-	
 	Unas decadas despues jaja por fin!
 
-* **Brandonkozz** (1)
+* **Brandonkozz** (1) [620599](https://platzi.com/comentario/620599/) 
 
-	
 	Hola, tengo una duda cuando ejecuto el comando “flask run” me suelta varias direcciones pero al final me saca este error:
 	``` 
 	    raise KeyError(key) fromNone
@@ -4395,40 +3854,34 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	, agradecería mucho que alguien pudiese ayudarme con este problema. gracias
 
-* **favioh** (1)
+* **favioh** (1) [615378](https://platzi.com/comentario/615378/) 
 
-	
 	Hola, estoy siguiendo tu curso y me parece interesante usar bases de datos no relacionales pero tengo una duda, supongo que es algo tonta. Todos los pasos que realizas en ésta parte también se realizan en Windows? pude clonar el repositorio, instalé postman, importé el proyecto pero no sé si deba instalar anaconda e instalar dependencias.
 
-	* **favioh** (1)
+	* **favioh** [615378] (1)
 
-		
 		😦
 
-* **Ivan Alexis Carbajal Sandin** (1)
+* **Ivan Alexis Carbajal Sandin** (1) [609752](https://platzi.com/comentario/609752/) 
 
-	
 	No me permitía instalar las dependencias del proyecto después de crear el entorno virtual, ya que no reconocía el comando PIP.
 	
 	Lo solucioné instalando python en el entorno creado y borrando el certifi del listado de requerimientos
 
-	* **HuguitoRadulovich** (1)
+	* **HuguitoRadulovich** [609752] (1)
 
-		
 		Hola tengo este problema también, me dice que no me reconoce el comando PIP
 
-	* **zarza-raul** (1)
+	* **zarza-raul** [609752] (1)
 
-		
 		tienes que instalar pip desde la consola
 		``` 
 		    sudo apt install python-pip```
 		    
 		```
 
-* **Enrique Alexis Lopez Araujo** (1)
+* **Enrique Alexis Lopez Araujo** (1) [571666](https://platzi.com/comentario/571666/) 
 
-	
 	Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el siguiente.
 	``` 
 	    FROM python:3.6
@@ -4459,9 +3912,8 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	
 	Saludos!
 
-	* **Enrique Alexis Lopez Araujo** (6)
+	* **Enrique Alexis Lopez Araujo** [571666] (6)
 
-		
 		He corregido el dockerfile y revise cual era el problema no estaba ejecutando correctamente los CMD en las carpetas correctas hice los cambios correctos en el dockerfile y quedo asi
 		``` 
 		    FROM python:3.6
@@ -4484,14 +3936,12 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		    
 		```
 
-	* **albertramirez** (1)
+	* **albertramirez** [571666] (1)
 
-		
 		¡Muy buen aporte!
 
-* **Andrea Bocanegra** (1)
+* **Andrea Bocanegra** (1) [563025](https://platzi.com/comentario/563025/) 
 
-	
 	En mi caso cuando instalé anaconda, lo active y desactivé de la siguiente manera:
 	``` 
 	    # To activate this environment, use:
@@ -4501,30 +3951,26 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 	    # > source deactivate```
 	```
 
-* **Enrique Alexis Lopez Araujo** (1)
+* **Enrique Alexis Lopez Araujo** (1) [550253](https://platzi.com/comentario/550253/) 
 
-	
 	Por que se instalo anaconda, no conozco para nada esa libreria, y si alguien pudiera explicar un poco para que funciona o cual es su utilidad dentro del curso?
 
-	* **albertramirez** (5)
+	* **albertramirez** [550253] (5)
 
-		
 		Anaconda no es una librería, es una distribución de python. Esta nos permite instalar python y administrar los paquetes. Se usa en el curso como una forma sencilla de instalar python y las librerias necesarias para el proyecto, si ya tienes instalado python 3.3.+ en tu sistema no es necesario que instales anaconda, puedes instalar las dependencias usando pip dentro de un ambiente virtual activo como venv.
 
-* **Enrique Alexis Lopez Araujo** (1)
+* **Enrique Alexis Lopez Araujo** (1) [550248](https://platzi.com/comentario/550248/) 
 
-	
 	Hola comunidad tengo una pregunta:
 	
-	  * Cada que cierro la terminal las variables no se quedan seteadas o guardadas como puedo guardar las variables en o manejar las variables en un archivo para que pueda correr la app en cualquier momento sin que tenga que volver a setear las variables?.
+	* Cada que cierro la terminal las variables no se quedan seteadas o guardadas como puedo guardar las variables en o manejar las variables en un archivo para que pueda correr la app en cualquier momento sin que tenga que volver a setear las variables?.
 	
 	
 	
 	Saludos!
 
-	* **albertramirez** (4)
+	* **albertramirez** [550248] (4)
 
-		
 		Si estás en MacOs puedes hacer eso  
 		<https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255>
 		
@@ -4532,12 +3978,11 @@ Y así terminamos la configuración de nuestro entorno de desarrollo.
 		
 		En Linux sería en tu archivo .bashrc
 
-* **Enrique Alexis Lopez Araujo** (1)
+* **Enrique Alexis Lopez Araujo** (1) [57996](https://platzi.com/comentario/571666/) 
 Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el siguiente. FROM python:3.6 ENV FLASK_APP platzi-ap...
 
-	* **Enrique Alexis Lopez Araujo** (6)
+	* **Enrique Alexis Lopez Araujo** [57996] (6)
 
-		
 		He corregido el dockerfile y revise cual era el problema no estaba ejecutando correctamente los CMD en las carpetas correctas hice los cambios correctos en el dockerfile y quedo asi
 		``` 
 		    FROM python:3.6
@@ -4560,7 +4005,7 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 		    
 		```
 
-## 0130. Trabajando en nuestro proyecto PlatziMongo Operaciones CRUD con Python y pymongo
+## 0130. Trabajando en nuestro proyecto PlatziMongo Operaciones CRUD con Python y pymongo [18484](https://platzi.com/clases/1533-mongodb/18484-trabajando-en-nuestro-proyecto-platzimongo-operaci/)
 
 ### Descripción:
 
@@ -4573,56 +4018,49 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 
 ### Comentarios:
 
-* **Yesid Alejandro Peláez Posada** (10)
+* **Yesid Alejandro Peláez Posada** (10) [957502](https://platzi.com/comentario/957502/) 
 
-	
 	Hasta aquí llegué. No pude con la configuración anterior además no sé como inició acá con un proyecto ya listo.
 
-* **Javier Serrano Lule** (7)
+* **Javier Serrano Lule** (7) [576505](https://platzi.com/comentario/576505/) 
 
-	
 	La información de la configuración para el proyecto en Windows está demasiado básica para si vienen de cero como yo llegué, en cualquier caso, les dejo enlaces donde después de mucho pude configurar y en apoyo con la explicacion anterior:
 	
-	  * Para usar el comando _**conda**_ hay que agregarla en el PATH para poder usarlo, el directorio a agregar si se instaló por defecto es: C:\Users\NOMBRE_USER\Anaconda3\condabin
+	* Para usar el comando _**conda**_ hay que agregarla en el PATH para poder usarlo, el directorio a agregar si se instaló por defecto es: C:\Users\NOMBRE_USER\Anaconda3\condabin
 	
-	  * Descargas Python en Windows y permite agregar a PATH para poder usar el comando “pip”.  
+	* Descargas Python en Windows y permite agregar a PATH para poder usar el comando “pip”.  
 	**_https://tutorial.recursospython.com/descarga-e-instalacion/ _**
 	
-	  * Si no alcanzan a ver el comando para configurar el proyectom como yo, es: **_pip install -r requirements.txt_**
+	* Si no alcanzan a ver el comando para configurar el proyectom como yo, es: **_pip install -r requirements.txt_**
 	
-	  * Si les da un error igual a este: _**pymongo.errors.ConfigurationError: None of DNS query names exist**_ la URI de conexión a Mongo está mal escrita, para encontrarla de manera segura pueden ir a su cluster ( _<https://cloud.mongodb.com>_ ) y en CONNECT seleccionen la segunda opción (Connect Your Application) y les arrojará la cadena de conexión, solo hay que reemplazar la contraseña y la BD a la que se conectará. En mi caso algo similar a esto:  
+	* Si les da un error igual a este: _**pymongo.errors.ConfigurationError: None of DNS query names exist**_ la URI de conexión a Mongo está mal escrita, para encontrarla de manera segura pueden ir a su cluster ( _<https://cloud.mongodb.com>_ ) y en CONNECT seleccionen la segunda opción (Connect Your Application) y les arrojará la cadena de conexión, solo hay que reemplazar la contraseña y la BD a la que se conectará. En mi caso algo similar a esto:  
 	mongodb+srv://platzi:PASSWORD@curso-platzi-i0uq0.mongodb.net/BD?retryWrites=true
 	
-	  * Si persiste el error al colocar la URI en el PATH, puede ser reemplazada directamente en el archivo _**[db.py](http://db.py)**_ en la parte donde se crea el cliente.
+	* Si persiste el error al colocar la URI en el PATH, puede ser reemplazada directamente en el archivo _**[db.py](http://db.py)**_ en la parte donde se crea el cliente.
 	
 	
 	
 	
 	Cualquier detalle, con confianza pueden preguntarme 😄
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [576505] (1)
 
-		
 		Fue de gran utilidad.
 
-* **michaelsaritamacoronel** (7)
+* **michaelsaritamacoronel** (7) [548060](https://platzi.com/comentario/548060/) 
 
-	
 	Me choque con esta clase…no se nada de Python 😕
 
-	* **Wilson Marino Pablo Mendez** (1)
+	* **Wilson Marino Pablo Mendez** [548060] (1)
 
-		
 		X2
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [548060] (1)
 
-		
 		X3
 
-* **cirovladimir** (7)
+* **cirovladimir** (7) [545956](https://platzi.com/comentario/545956/) 
 
-	
 	* _no te preocupes mucho_ en implementar estos métodos o **si no entiendes por completo el código** , recuerda que aquí están utilizando el driver de python pero bien pudieras utilizar otro en el **lenguaje que más cómodo sea para ti** (C, C++11, C#, Go, Java, Node.js, Perl, PHP, Python, Motor (Python async), Ruby, Mongoid (Ruby ODM), Scala) 🤪
 	
 	**recuerda que este curso es sobre mongodb**
@@ -4639,9 +4077,8 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	    
 	```
 
-* **Antonio Meza** (7)
+* **Antonio Meza** (7) [544963](https://platzi.com/comentario/544963/) 
 
-	
 	En Windows no es Export, es SET, es decir:
 	
 	export FLASK_APP=platzi-api  
@@ -4656,14 +4093,12 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	
 	Nota: Sin “” (comillas) , ni <>
 
-	* **Miguel Ángel Muñoz Pozos** (1)
+	* **Miguel Ángel Muñoz Pozos** [544963] (1)
 
-		
 		Genial bro gracias
 
-* **Carlos Martinez** (5)
+* **Carlos Martinez** (5) [569030](https://platzi.com/comentario/569030/) 
 
-	
 	yo tenía el siguiente error al momento de hacer operaciones con postman:  
 	**pymongo.errors.ConfigurationError: None of DNS query names exist:**
 	
@@ -4680,51 +4115,42 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	
 	cambian ‘curso-de-platzi’ por como le hayan puesto en su cluster
 
-	* **favioh** (1)
+	* **favioh** [569030] (1)
 
-		
 		Muchas gracias, me sirvió 😄
 
-	* **neontigermx** (1)
+	* **neontigermx** [569030] (1)
 
-		
 		Me sirvio! Gracias! 😃
 
-* **santmont** (5)
+* **santmont** (5) [550634](https://platzi.com/comentario/550634/) 
 
-	
 	no puedo insertar registros en Postman me aparece el siguiente erro “500 INTERNAL SERVER ERROR”.  
 	**Nota:** al ejecutar flask run e ir a la dirección <http://127.0.0.1:5000/> aparece “Not Found”
 
-	* **ruthazuniga** (1)
+	* **ruthazuniga** [550634] (1)
 
-		
 		Me pasó lo mismo
 
-	* **Andrea Bocanegra** (2)
+	* **Andrea Bocanegra** [550634] (2)
 
-		
 		Hola. Coloca <http://127.0.0.1:5000/carreras>
 
-	* **miguelalejandrodemoraiz** (1)
+	* **miguelalejandrodemoraiz** [550634] (1)
 
-		
 		A mi tambien me paso lo mismo y no le veo solucion, no puedo continuar con el curso.
 
-	* **Luis Donaldo Lopez Gil** (1)
+	* **Luis Donaldo Lopez Gil** [550634] (1)
 
-		
 		andreax_boca x2  
 		<http://127.0.0.1:5000/carreras>
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [550634] (1)
 
-		
 		Tube la misma complicación.
 
-* **memowii** (5)
+* **memowii** (5) [544916](https://platzi.com/comentario/544916/) 
 
-	
 	Al momento de realizar la primera petición, crear carrera, en postman, me arrojó el siguiente error:
 	
 	pymongo.errors.OperationFailure: user is not allowed to do action [insert] on // Werkzeug Debugger
@@ -4743,111 +4169,91 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	
 	Obviamente cambiando los valores <user>, <password> y [curso-platzi-fzkkm.mongodb.net](http://curso-platzi-fzkkm.mongodb.net), por los que ustedes crearon respectivamente.
 
-	* **memowii** (2)
+	* **memowii** [544916] (2)
 
-		
 		Para mayor información pueden checar:  
 		<https://github.com/MongoEngine/mongoengine/issues/1829>
 		
 		<https://docs.mongodb.com/manual/reference/connection-string/#connection-string-formats>
 
-	* **Carlos Martinez** (1)
+	* **Carlos Martinez** [544916] (1)
 
-		
 		gracias, tu solución me funcionó
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544916] (1)
 
-		
 		Funciona, genial.
 
-* **Juan Andres Ageitos Lopez** (4)
+* **Juan Andres Ageitos Lopez** (4) [667028](https://platzi.com/comentario/667028/) 
 
-	
 	Hola, no logro correr el flask run. Tendrian que agregar una clase en video de estas configuraciones, para gente que no trabaja con Python no es trivial lo que esta en el documento anterior.
 
-	* **juand_silva** (1)
+	* **juand_silva** [667028] (1)
 
-		
 		Comparte todo el trace que da la consola y como creas las variables de entorno si es windows o un sistema .NIX
 
-	* **ERNESTO ORTIZ** (2)
+	* **ERNESTO ORTIZ** [667028] (2)
 
-		
 		Hola te recomiendo este canal <https://www.youtube.com/watch?v=APOPm01BVrk>
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [667028] (1)
 
-		
 		Dale una checada al curso de Flask. En el primer módulo se explica muy bien a detalle.
 
-* **Claudio Jesus Vázquez Villanueva** (4)
+* **Claudio Jesus Vázquez Villanueva** (4) [611648](https://platzi.com/comentario/611648/) 
 
-	
 	ModuleNotFoundError: No module named ‘bson’ alguien sabe a que se debe esto?
 
-	* **Fernando Sebastian Sanchez** (1)
+	* **Fernando Sebastian Sanchez** [611648] (1)
 
-		
 		pudiste resolverlo me esta pasando lo mismo 😦
 
-	* **zarza-raul** (1)
+	* **zarza-raul** [611648] (1)
 
-		
 		ya volvi a instalar anaconda per sigue sin funcionar … alguna otra solucion?
 
-	* **Claudio Jesus Vázquez Villanueva** (1)
+	* **Claudio Jesus Vázquez Villanueva** [611648] (1)
 
-		
 		Yo nunca instale anaconda. Solo descargue python, creo el error era en el path
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [611648] (1)
 
-		
 		Igual en Linux, especialmente en Ubuntu.
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [611648] (1)
 
-		
 		para arreglarlo yo hice
 		``` 
 		    pip install bson
 		    
 		```
 
-* **Freddy Rojas Valera** (4)
+* **Freddy Rojas Valera** (4) [605379](https://platzi.com/comentario/605379/) 
 
-	
 	solo queria comentar que me pareció un poco difícil el hacer la conexión con el servidor me sigue dando error, tanto así que continúe simplemente luego de todo el proceso aun me da un error y no puedo conectar y perdí mucho tiempo , tal vez sea por que no conozco python.
 
-	* **Claudio Jesus Vázquez Villanueva** (0)
+	* **Claudio Jesus Vázquez Villanueva** [605379] (0)
 
-		
 		Que tal aveces los errores aparecen porque no integras las variables de entorno cuando instalas anaconda es muy importante dar check a agregar a PATH
 
-* **Abraham Gonzalez** (3)
+* **Abraham Gonzalez** (3) [604426](https://platzi.com/comentario/604426/) 
 
-	
 	Es importante recalcar que el PostMan ya viene con una colección de las rutas y los objetos a actualizar (Update). Pero nosotros debemos cambiar el _id por el que autogenero nuestra base de datos. Así que pendiente al momento de Actualizar Carreras copien el id de la carrera de SU base de datos en el body (Objeto).
 
-	* **Alberto Campos Hernandez** (1)
+	* **Alberto Campos Hernandez** [604426] (1)
 
-		
 		Gracias por el dato! tenía ese problema.
 
-	* **juand_silva** (1)
+	* **juand_silva** [604426] (1)
 
-		
 		hahaha, yo viendo tutoriales de postman y mandando cabeceras un buen rato.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [604426] (1)
 
-		
 		Buena la información que reflejas.
 
-* **Cristhian Julian Gómez Lizcano** (3)
+* **Cristhian Julian Gómez Lizcano** (3) [553015](https://platzi.com/comentario/553015/) 
 
-	
 	Para evitar la fatiga:
 	
 	def crear_carrera(json):  
@@ -4863,75 +4269,62 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	def borrar_carrera_por_id(carrera_id):  
 	return str(db.carreras.delete_one({’_id’: ObjectId(carrera_id)}))
 
-* **GersonPc** (2)
+* **GersonPc** (2) [1021781](https://platzi.com/comentario/1021781/) 
 
-	
 	No me pasa que para que este código funcione literalmente reinicie mi Pc y funcionó 😅
 
-* **raparisg** (2)
+* **raparisg** (2) [917370](https://platzi.com/comentario/917370/) 
 
-	
 	No conozco nada de Python así que trabajé en Java! Pueden conseguir el repo acá: <https://github.com/ramonparisg/mongodb-test>
 	
 	😃
 
-* **Luis Jeanpier Monserrate** (2)
+* **Luis Jeanpier Monserrate** (2) [874586](https://platzi.com/comentario/874586/) 
 
-	
 	Compañeros, asegurense de que tienen las variables de entorno requeridas por el proyecto configuradas, la mayoría de los problemas de configuración se deben a eso,
 	
 	Al instalar Anaconda, les muestra una opción para agregar sus variables de entorno al PATH del sistema operativo, también recomiendo usar como terminal git bash o cmder si estan en windows.
 	
 	Si no les funciona “export” para setear las variables de entorno usen “set”. A la hora poner la Uri de sus clusters de MongoDB atlas, ponganla sin comillas.
 
-* **Deiby Johany Avila Gutierrez** (2)
+* **Deiby Johany Avila Gutierrez** (2) [846976](https://platzi.com/comentario/846976/) 
 
-	
 	En realidad he tratado de todo para hcer funciona ese api rest , y aun no lo logro, alguien puede indicarme el proceso teniendo python en la version 3.7
 
-	* **Eduardo Imery Winterdaal** (1)
+	* **Eduardo Imery Winterdaal** [846976] (1)
 
-		
 		Hola Deiby, que problema te esta dando ? saludos
 
-	* **dbzdavidbaez** (1)
+	* **dbzdavidbaez** [846976] (1)
 
-		
 		Que error te sale?
 
-* **Juan Osio** (2)
+* **Juan Osio** (2) [752649](https://platzi.com/comentario/752649/) 
 
-	
 	Que poco didáctico
 
-	* **Alberto González** (1)
+	* **Alberto González** [752649] (1)
 
-		
 		¿Por qué?
 
-* **Sabrina Valerio Hidalgo** (2)
+* **Sabrina Valerio Hidalgo** (2) [719711](https://platzi.com/comentario/719711/) 
 
-	
 	¿Qué IDE está usando el profesor?
 
-	* **Manuel Garcia** (3)
+	* **Manuel Garcia** [719711] (3)
 
-		
 		[PyCharm](https://www.jetbrains.com/pycharm/) ✌
 
-	* **Sabrina Valerio Hidalgo** (1)
+	* **Sabrina Valerio Hidalgo** [719711] (1)
 
-		
 		Gracias colega!
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [719711] (1)
 
-		
 		De **JetBrains**.
 
-* **Juan Carlos Faundez** (2)
+* **Juan Carlos Faundez** (2) [659545](https://platzi.com/comentario/659545/) 
 
-	
 	Bueno, no tengo idea de Python así que tuve varios errores los cuales al buscar en google no eran tan difíciles de solucionar.  
 	El primero fue el error del comando ‘conda’ que no funcionaba en cmd después de haber instalado anaconda e incluso reiniciado el equipo, creo que se cambia algo para que funcione por defecto pero a mi me funcionó al abrir “anaconda Navigator” que es la aplicación que se instala en windows al instalar anaconda, desde ahí solo tuve que ir a la sección enviroments > base(root) y en el signo “play” open terminal, desde ahí si funcionaba el comando conda y pude seguir con la configuración.  
 	El segundo error fue “no module named bson” el cual solucione instalando en la misma consola pip install pymongo.  
@@ -4941,14 +4334,12 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	Cabe destacar que cada vez que hacia un cambio, hacia correr nuevamente el proyecto con flask run para probar.  
 	Espero le ayude a alguien o a varios.
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [659545] (1)
 
-		
 		Buen aporte compañero, lo tendré muy en cuenta.
 
-* **Marcos Gomez** (1)
+* **Marcos Gomez** (1) [1098495](https://platzi.com/comentario/1098495/) 
 
-	
 	no me funciona  
 	como hago para exportar las variables ??  
 	a donde va esto??
@@ -4959,14 +4350,12 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	
 	export PLATZI_DB_URI=“MONGO-URI”
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [1098495] (1)
 
-		
 		Eso lo escribes en la terminal. 😉
 
-* **Jaiden Meiden** (1)
+* **Jaiden Meiden** (1) [1087308](https://platzi.com/comentario/1087308/) 
 
-	
 	Todavía no he profundizado en Python lo suficiente. Alguien sabe porque se presenta el siguiente error?
 	``` 
 	    SyntaxError
@@ -4998,56 +4387,46 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	    
 	```
 
-* **Francisco Martin Nacimiento** (1)
+* **Francisco Martin Nacimiento** (1) [1006855](https://platzi.com/comentario/1006855/) 
 
-	
 	Yo no sé de python, pero no tuve problemas en hacer funcionar el proyecto en docker. Pero toca aprender python si o si pronto!
 
-* **chatuz1337** (1)
+* **chatuz1337** (1) [982031](https://platzi.com/comentario/982031/) 
 
-	
 	siento este vídeo innecesario si quisiera aprender python estaría dicho curso.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [896289](https://platzi.com/comentario/896289/) 
 
-	
 	muy basico el ejemplo
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [892748](https://platzi.com/comentario/892748/) 
 
-	
 	+2
 
-* **Julio Ignacio Oyarzun Cayuman** (1)
+* **Julio Ignacio Oyarzun Cayuman** (1) [892366](https://platzi.com/comentario/892366/) 
 
-	
 	Pude insertar u documento carrera mas por la shell me salio el siguiente error:
 	
 	AttributeError: ‘InsertOneResult’ object has no attribute ‘insert_id’
 
-	* **Gerardo Nava Pereda** (1)
+	* **Gerardo Nava Pereda** [892366] (1)
 
-		
 		insert_id => inserted_id
 
-* **Luis Jeanpier Monserrate** (1)
+* **Luis Jeanpier Monserrate** (1) [874610](https://platzi.com/comentario/874610/) 
 
-	
 	Las variables de entorno son como enlaces que se le proveen al sistema operativo para que el interprete de comandos nos identifique o reconozca los programas que queremos ejecutar
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [860904](https://platzi.com/comentario/860904/) 
 
-	
 	Clase muy interesante y practica de MongoDb. Todo funciono.
 
-* **Eduardo Imery Winterdaal** (1)
+* **Eduardo Imery Winterdaal** (1) [854290](https://platzi.com/comentario/854290/) 
 
-	
 	Excelente
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [763823](https://platzi.com/comentario/763823/) 
 
-	
 	Hice el proyecto desde cero. Utilizando MongoDB localmente. No logro conectar al servicio de Atlas.  
 	Con esto ya logro utilizar los ejemplos de peticiones REST en PostMan
 	``` 
@@ -5113,9 +4492,8 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	    
 	```
 
-	* **Luis Rangel Castro** (1)
+	* **Luis Rangel Castro** [763823] (1)
 
-		
 		Código actualizado para [db.py](http://db.py):
 		``` 
 		    from flask import Flask
@@ -5198,9 +4576,8 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 		    
 		```
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [763601](https://platzi.com/comentario/763601/) 
 
-	
 	en MAC  
 	git clone <https://github.com/AERC18/platzi-mongo.git>
 	
@@ -5235,38 +4612,35 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	
 	<http://localhost:5000>
 
-* **Briones D. Jose** (1)
+* **Briones D. Jose** (1) [757685](https://platzi.com/comentario/757685/) 
 
-	
 	que mala onda no entiendo porque dice mongodb y metemos python :’(
 
-	* **Alberto González** (1)
+	* **Alberto González** [757685] (1)
 
-		
 		Míralo de ésta manera, es una oportunidad para adentrarte al mundo de python.
 
-* **Karl Heitmann** (1)
+* **Karl Heitmann** (1) [738618](https://platzi.com/comentario/738618/) 
 
-	
 	Cuando ejecuto el comando que envía el POST, obtengo error de python. _TypeError: document must be an instance of dict, bson.son.SON, bson.raw_bson.RawBSONDocument, or a type that inherits from collections.MutableMapping._
 	
 	Cabe aclarar dos hechos:
 	
-	  * El repositorio Git del proyecto lo estoy usando en la rama _master_
-	  * De la clase anterior, el punto 3 del segmento “Instalar postman”, en el que dice “Ahora es momento de importar la colección con todos los ejemplos de peticiones REST usados en platzi-mongo para ello copiamos la URL <URL>” no me quedó muy claro a qué se refiere con importar la colección, por lo que no visité el link, vi una estructura JSON, pero no hice nada con el programa postman.
+	* El repositorio Git del proyecto lo estoy usando en la rama _master_
+	* De la clase anterior, el punto 3 del segmento “Instalar postman”, en el que dice “Ahora es momento de importar la colección con todos los ejemplos de peticiones REST usados en platzi-mongo para ello copiamos la URL <URL>” no me quedó muy claro a qué se refiere con importar la colección, por lo que no visité el link, vi una estructura JSON, pero no hice nada con el programa postman.
 	
 	
 	
 	Aquí va el traceback completo:
 	``` 
 	    `--> flask run
-	     * Serving Flask app "platzi-api" (lazy loading)
-	     * Environment: development
-	     * Debug mode: on
-	     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-	     * Restarting with stat
-	     * Debugger is active!
-	     * Debugger PIN: 209-467-522
+	   * Serving Flask app "platzi-api" (lazy loading)
+	   * Environment: development
+	   * Debug mode: on
+	   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+	   * Restarting with stat
+	   * Debugger is active!
+	   * Debugger PIN: 209-467-522
 	    127.0.0.1 - - [16/Sep/2019 01:30:41] "POST /carreras HTTP/1.1" 500 -
 	    Traceback (most recent call last):
 	      File"/home/kurt/workspace/platzi/platzi-mongo/venv/lib/python3.6/site-packages/flask/app.py", line 2309, in __call__
@@ -5301,76 +4675,66 @@ Estoy tratando de correo un contenedor con lo ya aprendido, mi dockerfile es el 
 	    
 	```
 
-* **webins** (1)
+* **webins** (1) [598394](https://platzi.com/comentario/598394/) 
 
-	
 	demore mucho con esta clase porque no se nada de python aun :c
 
-* **Carlos Andres Castañeda Osorio** (1)
+* **Carlos Andres Castañeda Osorio** (1) [585236](https://platzi.com/comentario/585236/) 
 
-	
 	¿Alguna forma de importar todas las peticiones en Postman que utiliza el profesor?
 
-	* **svictoreq** (2)
+	* **svictoreq** [585236] (2)
 
-		
 		¿Importaste la URL <https://www.getpostman.com/collections/ffcbfb5c8d5cd2dc52d2>?
 
-	* **albertramirez** (3)
+	* **albertramirez** [585236] (3)
 
-		
 		Sí, están disponibles aquí <https://www.getpostman.com/collections/ffcbfb5c8d5cd2dc52d2>  
 		Y las instrucciónes para importarlas en Postán están aquí  
 		<https://github.com/AERC18/platzi-mongo>
 
-	* **Carlos Andres Castañeda Osorio** (2)
+	* **Carlos Andres Castañeda Osorio** [585236] (2)
 
-		
 		Gracias a todos, no presté suficiente atención a la importación y luego de escribir unas cuantas imaginé que ya debian estar como material del curso, no me equivoqué, MIL GRACIAS !
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [585236] (1)
 
-		
 		Ya están disponibles dentro de los recursos de la clase.
 
-	* **Jorge Augusto Sánchez Jácome** (1)
+	* **Jorge Augusto Sánchez Jácome** [585236] (1)
 
-		
 		ah no carlos!!!, ponga atención a la clase!!! XD jajajaa
 
-* **santmont** (1)
+* **santmont** (1) [556708](https://platzi.com/comentario/556708/) 
 
-	
 	cuando inserto una nueva carrera aparece esto:  
 	pymongo.errors.InvalidURI
 	
 	pymongo.errors.InvalidURI: Invalid URI scheme: URI must begin with ‘mongodb://’ or ‘mongodb+srv://’
 
-* **xmedinavei** (1)
+* **xmedinavei** (1) [74155](https://platzi.com/comentario/847493/) 
 No puedo exportar las variables de ambiente ni ejecutar Flask, por lo tanto no puedo conectar Postman con MongoDB Compass. Al crear carre...
 
-* **zarza-raul** (1)
+* **zarza-raul** (1) [64722](https://platzi.com/comentario/680914/) 
 Alguna solución para el error ModuleNotFoundError: No module named ‘bson’ ? Ya intente de todo 😦
 
-	* **zarza-raul** (2)
+	* **zarza-raul** [64722] (2)
 
-		
 		No se que hice pero termino funcionado despues de reinciar la lap, actualizarla, cambiar varias veces de SO y probar unas 20 soluciones diferentes que encontre por ahí…
 
-* **Carlos Andres Castañeda Osorio** (1)
+* **Carlos Andres Castañeda Osorio** (1) [58998](https://platzi.com/comentario/585236/) 
 ¿Alguna forma de importar todas las peticiones en Postman que utiliza el profesor?
 
-	* **svictoreq** (2)
+	* **svictoreq** [58998] (2)
 
-		
 		¿Importaste la URL <https://www.getpostman.com/collections/ffcbfb5c8d5cd2dc52d2>?
 
-* **Marcos Gomez** (0)
+* **Marcos Gomez** (0) [86555](https://platzi.com/comentario/1098455/) 
 no se como exportar las variables de entorno, donde es que se ponen??, no se como exportar las variables de entorno, donde pongo esto?? x...
 
-# Esquemas y relaciones
+# Esquemas y relaciones [3703]
 
-## 0140. Tipos de datos
+## 0140. Tipos de datos [18485](https://platzi.com/clases/1533-mongodb/18485-tipos-de-datos/)
 
 ### Descripción:
 
@@ -5385,31 +4749,26 @@ no se como exportar las variables de entorno, donde es que se ponen??, no se com
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (5)
+* **Juan David Castro (Platzi)** (5) [544182](https://platzi.com/comentario/544182/) 
 
-	
-	  * [MongoDB Limits and Thresholds (16 megabytes)](https://docs.mongodb.com/manual/reference/limits/)
+	* [MongoDB Limits and Thresholds (16 megabytes)](https://docs.mongodb.com/manual/reference/limits/)
 	
 	
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [544182] (1)
 
-		
 		que buen aporte compañero.
 
-* **Cristian David Franco Garcia** (3)
+* **Cristian David Franco Garcia** (3) [1000754](https://platzi.com/comentario/1000754/) 
 
-	
 	<https://docs.mongodb.com/manual/reference/bson-types/>
 
-* **Luis Rodrigo Alvarez Herrera** (2)
+* **Luis Rodrigo Alvarez Herrera** (2) [799753](https://platzi.com/comentario/799753/) 
 
-	
 	hasta aqui todo bien, pero como creo una base de datos desde cero?, por ejemplo en SQL haces tus tablas pero aqui que pex?? aun no me queda claro del todo
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (3)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [799753] (3)
 
-		
 		Para crear una base de datos desde cero lo único que hace falta es hacer un:
 		``` 
 		    db.<coleccion>.insertOne({...})
@@ -5422,83 +4781,70 @@ no se como exportar las variables de entorno, donde es que se ponen??, no se com
 		
 		Para los que venimos de las bases de datos relacionales nos cuesta entenderlo, pero la forma más sencilla en la que yo lo entendí fue haciendo un simil a cómo se haría ese almacenamiento en una base de datos relacional ordinaria y el enfoque al que llegué fue éste:
 		
-		  * Una colección equivale a una tabla en la que solo defines dos campos: el ID único que identifica a cada fila y el valor de los datos a almacenar (un campo de tipo text, o longtext o varchar(max) si quieres verlo así). Los datos pueden ser los que tu quieras en la estructura que tu quieras pero siempre y cuando sean en formato JSON.
+		* Una colección equivale a una tabla en la que solo defines dos campos: el ID único que identifica a cada fila y el valor de los datos a almacenar (un campo de tipo text, o longtext o varchar(max) si quieres verlo así). Los datos pueden ser los que tu quieras en la estructura que tu quieras pero siempre y cuando sean en formato JSON.
 		
 		
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [799753] (1)
 
-		
 		Que buen ejemplo Ludwing
 
-* **José Vázquez Membrillo** (2)
+* **José Vázquez Membrillo** (2) [622218](https://platzi.com/comentario/622218/) 
 
-	
 	¿Cómo podríamos almacenar una imagen en Base64 en Mongo?
 	
 	Podrían mostrar un ejemplo del modelo, y como enviarlo?
 	
 	Muchas gracias
 
-	* **antonagency** (1)
+	* **antonagency** [622218] (1)
 
-		
 		Bastaría con codificar la imagen en Base 64 desde tu lenguaje de programación y solamente insertarla en mongo como texto (string)
 
-	* **Briones D. Jose** (1)
+	* **Briones D. Jose** [622218] (1)
 
-		
 		puedes usar GridFile System de MongoDB
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [622218] (1)
 
-		
 		GridFile System de MongoDB con eso lo puedes hacer.
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [622218] (1)
 
-		
 		No te recomiendo hacerlo. Podrías llegar al límite de almacenamiento en los documentos. Lo mejor es guardar únicamente la url de la imagen.
 
-* **Diego Acosta** (2)
+* **Diego Acosta** (2) [600051](https://platzi.com/comentario/600051/) 
 
-	
 	Muy buenas clases
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [558957](https://platzi.com/comentario/558957/) 
 
-	
 	Muy clara la explicación y al punto.💚📝
 
-* **Frank Carmona** (1)
+* **Frank Carmona** (1) [994119](https://platzi.com/comentario/994119/) 
 
-	
 	ejemplos practicos
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [896306](https://platzi.com/comentario/896306/) 
 
-	
 	ok todo claro , ahora vamos con ejemplos practicos
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [862449](https://platzi.com/comentario/862449/) 
 
-	
 	Entendido.
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [791566](https://platzi.com/comentario/791566/) 
 
-	
 	De gran utilidad para definir los tipos de datos de los campos de nuestro documento.
 
-* **jsrodriguezj** (1)
+* **jsrodriguezj** (1) [666502](https://platzi.com/comentario/666502/) 
 
-	
 	Super clara la clase.
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [78196](https://platzi.com/comentario/916969/) 
 Alguien me ayuda, no entendi como consultar un documento dentro de un documento, el decia que NOMBRE_DOCUMENTO.NOMBRE_SUBDOCUMENTO pero n...
 
-## 0150. ¿Qué son los esquemas y las relaciones
+## 0150. ¿Qué son los esquemas y las relaciones [18486](https://platzi.com/clases/1533-mongodb/18486-que-son-los-esquemas-y-las-relaciones/)
 
 ### Descripción:
 
@@ -5509,126 +4855,107 @@ Las **relaciones** son la forma en que nuestras entidades o documentos sen encue
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (17)
+* **Juan David Castro (Platzi)** (17) [544186](https://platzi.com/comentario/544186/) 
 
-	
 	 **MongoDB 🆚 SQL** :
 	
-	  * 💃 MongoDB tiene mucha **flexibilidad** y no nos impone seguir una estructura o esquema bien definido.
-	  * 🙅 SQL nos impone una **estructura bien definida** a más no poder; es super no-flexible.
-	  * 🍻 Con MongoDB es **más fácil** empezar y añadir nuevas funcionalidades.
-	  * ⏲ Con SQL es **más demorado** de empezar porque debemos tener el orden super claro siempre. Todos los elementos deben tener los mismos elementos y todos deben ser del mismo tipo. Si queremos agregar un nuevo campo debemos añadirlo en todas partes con un valor pode defecto, aunque no lo necesitemos.
-	  * 🤒 Si no seguimos **buenas prácticas** en MongoDB, vamos a necesitar _queries_ ultra-complejas, demoradas y una visita diaria al psicólogo 😱.
-	  * 💆 El orden impuesto de SQL no es por nada. Las queries son fáciles de entender porque todo sigue su **orden** y tranquilidad. Aunque, implementar nuevas _features_ toma su buen tiempo 🤔.
+	* 💃 MongoDB tiene mucha **flexibilidad** y no nos impone seguir una estructura o esquema bien definido.
+	* 🙅 SQL nos impone una **estructura bien definida** a más no poder; es super no-flexible.
+	* 🍻 Con MongoDB es **más fácil** empezar y añadir nuevas funcionalidades.
+	* ⏲ Con SQL es **más demorado** de empezar porque debemos tener el orden super claro siempre. Todos los elementos deben tener los mismos elementos y todos deben ser del mismo tipo. Si queremos agregar un nuevo campo debemos añadirlo en todas partes con un valor pode defecto, aunque no lo necesitemos.
+	* 🤒 Si no seguimos **buenas prácticas** en MongoDB, vamos a necesitar _queries_ ultra-complejas, demoradas y una visita diaria al psicólogo 😱.
+	* 💆 El orden impuesto de SQL no es por nada. Las queries son fáciles de entender porque todo sigue su **orden** y tranquilidad. Aunque, implementar nuevas _features_ toma su buen tiempo 🤔.
 	
 	
 	
 	🏅 Para mi el ganador es **MongoDB** siempre y cuando sigamos buenas prácticas desde el principio. **Un gran poder conlleva a una gran responsabilidad** 💪🎉.
 	
-	  * [MongoDB vs SQL: Di no a la rebeldía. Usa MongoDB con responsabilidad.](https://platzi.com/blog/mongo-vs-sql/)
+	* [MongoDB vs SQL: Di no a la rebeldía. Usa MongoDB con responsabilidad.](https://platzi.com/blog/mongo-vs-sql/)
 	
 	
 
-	* **pabloverduzcos** (2)
+	* **pabloverduzcos** [544186] (2)
 
-		
 		Gran manera de resumir la clase 📓
 
-	* **Wandy Rafael Santana Evangelista** (2)
+	* **Wandy Rafael Santana Evangelista** [544186] (2)
 
-		
 		No se pudo definir mejor, **MongoDB** es el nuevo SQL, que en realidad es NoSQL. xd 🤯
 
-	* **Wilson Marino Pablo Mendez** (2)
+	* **Wilson Marino Pablo Mendez** [544186] (2)
 
-		
 		Una visita diaria al psicólogo 😂
 
-	* **Abraham Gonzalez** (8)
+	* **Abraham Gonzalez** [544186] (8)
 
-		
 		Muy bueno el analisis que haces. Pero cabe recalcar que MongoDB tiene casos en donde ha perdido data e incluso no tiene tantos tools para BI (Business Intelligence).
 		
 		Las bases de datos SQL contemplan ACID, lo que nos garantiza integridad de data (entre otros factores), comparar NoSQL y SQL a grosso modo resulta injusto para ambos, todo va a depender de que lo que tu necesites dentro de tu aplicativo.
 		
 		Un ejemplo muy práctico es Amazon el cual hace uso de base de datos SQL para la data sensible (Como usuario, compras, ordenes, pagos) y NoSQL para cosas más dinámicas y cambiantes como las características de los productos.
 
-	* **jsrodriguezj** (2)
+	* **jsrodriguezj** [544186] (2)
 
-		
 		Buen aporte compañero.
 
-	* **Brayan Mamani** (2)
+	* **Brayan Mamani** [544186] (2)
 
-		
 		¡Buena perspectiva!
 
-	* **jonathan2138** (2)
+	* **jonathan2138** [544186] (2)
 
-		
 		muy buen post
 
-* **Wandy Rafael Santana Evangelista** (6)
+* **Wandy Rafael Santana Evangelista** (6) [558967](https://platzi.com/comentario/558967/) 
 
-	
 	Si desean pueden ver un video de Freddy que explica la diferencia entre base de datos NoSQL y SQL. **Muy interesante** : <https://www.youtube.com/watch?v=CuAYLX6reXE>
 
-	* **jsrodriguezj** (3)
+	* **jsrodriguezj** [558967] (3)
 
-		
 		nice -!!!
 
-	* **Brayan Mamani** (2)
+	* **Brayan Mamani** [558967] (2)
 
-		
 		¡Es muy buena!
 
-	* **Luis Rodrigo Alvarez Herrera** (2)
+	* **Luis Rodrigo Alvarez Herrera** [558967] (2)
 
-		
 		mucho mejor explicado
 
-	* **SergioRubiano** (1)
+	* **SergioRubiano** [558967] (1)
 
-		
 		Excelente aporte compañero
 
-	* **adanfelio castro** (1)
+	* **adanfelio castro** [558967] (1)
 
-		
 		Gracias por el dato.
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [558967] (1)
 
-		
 		gracias amigo
 
-* **Juan Guillermo Perez Cardozo** (2)
+* **Juan Guillermo Perez Cardozo** (2) [899332](https://platzi.com/comentario/899332/) 
 
-	
 	ok muy bien explicado, gracias ahora un caso practico
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [869833](https://platzi.com/comentario/869833/) 
 
-	
 	Esquemas: La forma en que nosotros organizamos nuestros documentos dentro de nuestras colecciones.  
 	Relaciones: La forma en que nuestras entidades o docuemntos estan entrelazados
 
-* **Luis Rodrigo Alvarez Herrera** (2)
+* **Luis Rodrigo Alvarez Herrera** (2) [799762](https://platzi.com/comentario/799762/) 
 
-	
 	este video lo explica de otra forma
 	
 	<https://www.youtube.com/watch?v=b_zr8t2g2Ic>
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [989296](https://platzi.com/comentario/989296/) 
 
-	
 	Buena clase!!  
 	Esquemas  
 	Relaciones
 
-## 0160. Relaciones entre documentos
+## 0160. Relaciones entre documentos [18487](https://platzi.com/clases/1533-mongodb/18487-relaciones-entre-documentos/)
 
 ### Descripción:
 
@@ -5637,64 +4964,53 @@ Las documentos embebidos nos ayudan a guardar la información en un solo documen
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (10)
+* **Juan David Castro (Platzi)** (10) [544189](https://platzi.com/comentario/544189/) 
 
-	
-	  * **One to one** : Documentos embebidos
-	  * **One to many** : Documentos embebidos cuando la información no va a cambiar muy frecuentemente y **referencias** cuando si.
+	* **One to one** : Documentos embebidos
+	* **One to many** : Documentos embebidos cuando la información no va a cambiar muy frecuentemente y **referencias** cuando si.
 	
 	
 	
 	¡MongoDB es genial!
 
-	* **Fernando Azuaje** (2)
+	* **Fernando Azuaje** [544189] (2)
 
-		
 		La verdad que si esta increible
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544189] (1)
 
-		
 		Es excelente.
 
-* **Saúl Báez Terrez** (8)
+* **Saúl Báez Terrez** (8) [637187](https://platzi.com/comentario/637187/) 
 
-	
 	4:14 pésima explicación, debieron regrabar esta parte
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [558995](https://platzi.com/comentario/558995/) 
 
-	
 	**MongoDB es lo máximo.**😎
 
-	* **Brayan Mamani** (2)
+	* **Brayan Mamani** [558995] (2)
 
-		
 		 **MongoDB** es genial
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [899387](https://platzi.com/comentario/899387/) 
 
-	
 	bueno el ejemplo de libros y editorial
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [869845](https://platzi.com/comentario/869845/) 
 
-	
 	Entendido. Se puede tener muchas formas para relacionar docuementos.
 
-* **SergioRubiano** (1)
+* **SergioRubiano** (1) [814795](https://platzi.com/comentario/814795/) 
 
-	
 	Mongo Lo es todo
 
-* **Brayan Murcia Sanchez** (1)
+* **Brayan Murcia Sanchez** (1) [665897](https://platzi.com/comentario/665897/) 
 
-	
 	profe o compañeros, una pregunta; es claro que para relaciones muchos a muchos es posible en mongo y con el ejemplo que nos dio acerca de los cursos de platzi es posible y practico, pero para el manejo de información de usuarios, por ejemplo en la plataforma de platzi, es buena idea utilizar mongo?, para registro de ingresos tipos de usuarios, created_at and updated_at, y todo este tipo de información, que requiere el uso de relaciones donde un cambio que afectara a miles de tablas, como se haría en mongo?
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (3)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [665897] (3)
 
-		
 		Depende.  
 		No hay una forma única de hacer este tipo de relaciones. Puede sonar contraintuitivo, pero si al analizar tus casos de uso encuentras que establecer relaciones entre documentos resulta más complejo que usar bases de datos relacionales, es mejor utilizar una base de datos relacional.
 		
@@ -5706,15 +5022,14 @@ Las documentos embebidos nos ayudan a guardar la información en un solo documen
 		
 		Donde <id del curso> como su nombre lo dice, es un documento de otra colección. Es una forma de hacerlo, pero no es la única y dudo mucho que sea la más óptima.
 
-* **TIQAL SAS** (1)
+* **TIQAL SAS** (1) [67559](https://platzi.com/comentario/725535/) 
 cual es la mejor estrategia para relaciones muchos a muchos ???
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [67559] (1)
 
-		
 		Colecciones separadas con un arreglo de Ids
 
-## 0170. Trabajando en nuestro proyecto PlatziMongo Diseñando el Esquema de Clases, Cursos y Carreras
+## 0170. Trabajando en nuestro proyecto PlatziMongo Diseñando el Esquema de Clases, Cursos y Carreras [18488](https://platzi.com/clases/1533-mongodb/18488-trabajando-en-nuestro-proyecto-platzimongo-disenan/)
 
 ### Descripción:
 
@@ -5725,132 +5040,113 @@ Para solucionar este problema vamos a guardar el nombre del curso junto con la r
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (10)
+* **Juan David Castro (Platzi)** (10) [544190](https://platzi.com/comentario/544190/) 
 
-	
 	 **Modo MongoDB con Documentos Embebidos** : Guardar los documentos de los cursos directamente en la colección de la carrera porque es más rápido cargar las carreras y toda su información pero cuando cambie vas al psicólogo (no importa si solo quieres un curso, siempre traes toda todita la carrera).  
 	**Modo “SQL” con Referencias** : Guardar los cursos en su propia colección y llamarlos desde la colección de carreras con un `id` de referencias. Todo bien separado y fácil de conseguir solo lo que necesitamos de cada colección pero muy costoso cuando queremos llamar a todos los cursos de una carrera porque debemos consultar colecciones diferentes una y otra vez.  
 	**Modo LEGENDA** : Guardar los cursos en su propia colección pero añadir no solo una referencia sino también el nombre del curso. Así, cuando solo consultemos carrera, vamos a tener los nombres de los cursos. Solo consultamos cada curso cuando necesitamos toda todita la información. **IMPORTANTE** : Ojo que debemos actualizar el nombre del curso en dos partes diferentes.
 	
 	¡Wow! Este ejemplo fue super! 👏
 	
-	  * [MongoDB vs SQL: Di no a la rebeldía. Usa MongoDB con responsabilidad.](https://platzi.com/blog/mongo-vs-sql/)
+	* [MongoDB vs SQL: Di no a la rebeldía. Usa MongoDB con responsabilidad.](https://platzi.com/blog/mongo-vs-sql/)
 	
 	
 
-	* **jsrodriguezj** (1)
+	* **jsrodriguezj** [544190] (1)
 
-		
 		Buen aporte compañero.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [544190] (1)
 
-		
 		¡Bien!
 
-* **Juan Guillermo Perez Cardozo** (9)
+* **Juan Guillermo Perez Cardozo** (9) [923217](https://platzi.com/comentario/923217/) 
 
-	
 	Es un poco dificil desligarse de sql
 
-* **Luis Rangel Castro** (7)
+* **Luis Rangel Castro** (7) [764293](https://platzi.com/comentario/764293/) 
 
-	
 	Si sabemos que el documento puede crecer mas de 16 MB es mejor hacer una nueva colección y relacionarla con el documento (Comentarios).
 
-* **Angel Infanti** (3)
+* **Angel Infanti** (3) [86548](https://platzi.com/comentario/1098313/) 
 No seria mejor agregarle la carrera al curso ?? Pregunto yo ??
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [870808](https://platzi.com/comentario/870808/) 
 
-	
 	Entendido. Pensando en forma MongoDb…
 
-* **Wilson Marino Pablo Mendez** (2)
+* **Wilson Marino Pablo Mendez** (2) [587737](https://platzi.com/comentario/587737/) 
 
-	
 	Muy interesante las DBs NoSQL
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [587737] (1)
 
-		
 		Comparto tu entusiasmo.
 
-* **Marco Aurelio Elizalde Torres** (1)
+* **Marco Aurelio Elizalde Torres** (1) [1111692](https://platzi.com/comentario/1111692/) 
 
-	
 	Si una aplicación como Medium, que tengo entradas, y muestro la lista de entradas con el titulo y el nombre de la persona, en este caso es bueno tener la referencia o colocar el nombre directo en la entrada???
 
-* **DiegoADaza** (1)
+* **DiegoADaza** (1) [982050](https://platzi.com/comentario/982050/) 
 
-	
 	Tuvo bastantes el profesor entre si eran colecciones y/o documentos, alguien lo noto?.. Hasta dode entendi, las carrera, los cursos y las clases TODAS para este ejemplo son documentos.
 
-	* **Vicente Fernandez** (2)
+	* **Vicente Fernandez** [982050] (2)
 
-		
 		El profesor tuvo muchos enredos al momento de explicar entre carreras, clases, cursos, documentos y colecciones.
 
-* **raparisg** (1)
+* **raparisg** (1) [920402](https://platzi.com/comentario/920402/) 
 
-	
 	¿Es buena idea ponerle ID a las clases o no es necesario en este caso?
 
-	* **ddragaid** (1)
+	* **ddragaid** [920402] (1)
 
-		
 		Como buena practica y para tener una buena organizacion es bueno que todas las clases tengan su ID
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [917092](https://platzi.com/comentario/917092/) 
 
-	
 	Muy interesante este tema, nos ayuda bastante comprender todo lo que se dice conociendo también de BD relaciones, aunque la explicación esta perfecta
 
-* **rosanacarrasco** (1)
+* **rosanacarrasco** (1) [73399](https://platzi.com/comentario/834383/) 
 Me perdi un poco con este video, de repente aparece este editor y no encuentro en que momento se lo presenta. ahora los archivos que esta...
 
-	* **jonathan2138** (2)
+	* **jonathan2138** [73399] (2)
 
-		
 		Es un editor de Codigo, él esta usando Visual Studio Code, pero hay otros como Atom, simplemente crear formatos json y sigues el ejemplo.  
 		Al crear estos formatos json, en MongoDB Compass te da la opción de importar estos json y se crearan las colecciones que tengas.
 
-# Profundización de queries dentro de MongoDB
+# Profundización de queries dentro de MongoDB [3704]
 
-## 0180. Operadores para realizar queries y proyecciones
+## 0180. Operadores para realizar queries y proyecciones [18489](https://platzi.com/clases/1533-mongodb/18489-operadores-para-realizar-queries-y-proyecciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Wandy Rafael Santana Evangelista** (13)
+* **Wandy Rafael Santana Evangelista** (13) [559011](https://platzi.com/comentario/559011/) 
 
-	
 	Operadores para arreglo.  
 	**$all:** Arreglos que contengan todos los elementos de la query.  
 	**$elementMatch:** Documentos que cumplen la condición del $elementMatch en uno de sus elementos.  
 	**$size:** Documentos que contienen un capo tipo arreglo de un tamaño específico.
 
-* **Wandy Rafael Santana Evangelista** (13)
+* **Wandy Rafael Santana Evangelista** (13) [559003](https://platzi.com/comentario/559003/) 
 
-	
 	Operadores lógicos.  
 	**$and:** Une queries con un and lógico.  
 	**$not:** Invierte el efecto de un query.  
 	**$nor:** Une queries con un nor lógico.  
 	**$or:** Une queries con un or lógico.
 
-* **Wandy Rafael Santana Evangelista** (12)
+* **Wandy Rafael Santana Evangelista** (12) [559009](https://platzi.com/comentario/559009/) 
 
-	
 	Operadores por elemento.  
 	**$exist:** Documentos que cuentan con un campo específico.  
 	**$type:** Documentos que cuentan con un campo de un tipo específico.
 
-* **Wandy Rafael Santana Evangelista** (12)
+* **Wandy Rafael Santana Evangelista** (12) [559002](https://platzi.com/comentario/559002/) 
 
-	
 	Operadores de comparación en MongoDB.  
 	**$eq:** Igual ‘=’.  
 	**$gt:** Mayor ‘>’.  
@@ -5861,7 +5157,7 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 	**$in:** Valores dentro de un arreglo.  
 	**$nin:** Valores que no están dentro de un arreglo.
 
-* **dbzdavidbaez** (8)
+* **dbzdavidbaez** (8) [871015](https://platzi.com/comentario/871015/) 
 
 	```
 	    $eq     =
@@ -5884,90 +5180,75 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 	    
 	```
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [871015] (1)
 
-		
 		Gran aporte amigo
 
-* **Julio Ignacio Oyarzun Cayuman** (3)
+* **Julio Ignacio Oyarzun Cayuman** (3) [892687](https://platzi.com/comentario/892687/) 
 
-	
 	No explico el operador nor, pillin
 
-* **Miguel Peláez** (3)
+* **Miguel Peláez** (3) [583472](https://platzi.com/comentario/583472/) 
 
-	
 	Las proyecciones me permiten indicarle a mongo cuales campos se necesitan que devuelva en la consulta, para esto se le indica con un 1 si se requiere que un campo se retorne y con 0 a los que se necesitan retornar.
 	``` 
 	    ...findOne( ... {item: 1, starus: 0} ...
 	    
 	```
 
-* **Carlos Andres Castañeda Osorio** (2)
+* **Carlos Andres Castañeda Osorio** (2) [585467](https://platzi.com/comentario/585467/) 
 
-	
 	Super Clase !! Teoría que no se debe olvidar, tener muy en cuenta esta clase para cuando se realicen ejercicios prácticos
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [585467] (1)
 
-		
 		La teoría es un pilar fundamental.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [923254](https://platzi.com/comentario/923254/) 
 
-	
 	ejemplo de los operadores para arreglos
 
-* **Cesar Orozco Manotas** (1)
+* **Cesar Orozco Manotas** (1) [909548](https://platzi.com/comentario/909548/) 
 
-	
 	Operadores para arreglos
 
-* **Cesar Orozco Manotas** (1)
+* **Cesar Orozco Manotas** (1) [909535](https://platzi.com/comentario/909535/) 
 
-	
 	OPeradores por elementos
 
-* **Cesar Orozco Manotas** (1)
+* **Cesar Orozco Manotas** (1) [909527](https://platzi.com/comentario/909527/) 
 
-	
 	Operadores lògicos
 
-* **Cesar Orozco Manotas** (1)
+* **Cesar Orozco Manotas** (1) [909524](https://platzi.com/comentario/909524/) 
 
-	
 	OPeradores de comparación en MongoDB
 
-* **Nicolas Guerrero** (1)
+* **Nicolas Guerrero** (1) [797528](https://platzi.com/comentario/797528/) 
 
-	
 	Alguien que ayude con la presentacion.
 
-	* **Luis Rodrigo Alvarez Herrera** (1)
+	* **Luis Rodrigo Alvarez Herrera** [797528] (1)
 
-		
 		checa esta presentacion <https://www.youtube.com/watch?v=4q2DRov45uQ>
 
-* **Srna** (1)
+* **Srna** (1) [719339](https://platzi.com/comentario/719339/) 
 
-	
 	Comparation Operators
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [587825](https://platzi.com/comentario/587825/) 
 
-	
 	Yeeaa estaba esperando estos operadores
 
-## 0190. Trabajando en nuestro proyecto PlatziMongo Ejecución de Queries
+## 0190. Trabajando en nuestro proyecto PlatziMongo Ejecución de Queries [18490](https://platzi.com/clases/1533-mongodb/18490-trabajando-en-nuestro-proyecto-platzimongo-ejecuci/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Marcos Plata** (18)
+* **Marcos Plata** (18) [549609](https://platzi.com/comentario/549609/) 
 
-	
 	Para dejar un poco mas claro el codigo del update y no hacer una linea tan larga, se pueden almacenar los valores de los parametros de update_one en variables, de la siguiente manera:
 	``` 
 	    filter = {"_id":ObjectId(curso["_id"])}
@@ -5983,14 +5264,12 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 	    
 	```
 
-* **Saúl Báez Terrez** (5)
+* **Saúl Báez Terrez** (5) [639458](https://platzi.com/comentario/639458/) 
 
-	
 	5:30 el problema de copiar y pegar código, una mala práctica.
 
-* **Carlos Martinez** (5)
+* **Carlos Martinez** (5) [582370](https://platzi.com/comentario/582370/) 
 
-	
 	en el caso de los esquemas, como se pueden definir mejor?, el profesor los definió pero no es que se usen obligatoriamente no? osea lo digo porque, al momento de crear un nuevo curso lo hace mediante **postman** y la estructura del json viene definida como se había acordado anteriormente, pero si uno quiere, la puede cambiar sin problemas no?
 	
 	**mi pregunta es,** hay alguna manera de poner un poco de “orden” al momento de definir cual será nuestra estructura(esquema) de los documentos??, tal vez con un `example.json` en el cual definimos como son las estructuras de los documentos? para de esa manera dejarle claro a otros desarrolladores como esta definida la estructura.
@@ -6001,40 +5280,34 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 	
 	espero alguien me saque de dudas jeje, saludos y gracias de antemano
 
-	* **anibalrojas (Platzi)** (3)
+	* **anibalrojas (Platzi)** [582370] (3)
 
-		
 		Muy interesante tu pregunta. Si tienes las necesidad de poner un “poco de orden” entonces muy posiblemente en realidad la solución a tu problema es un RDBMS, tecnología muy sólida con muchísimos años en el mercado. Y si una parete de tu problema aún requiere de schemaless documents puedes utilizar soporte para columnas JSON como por ejemplo lo ofrece PostgreSQL, con lo que puedes incluso definir índices sobre el las propiedas del documento para optimizar queries.
 
-	* **albertramirez** (4)
+	* **albertramirez** [582370] (4)
 
-		
 		Hola Carlos, es una buena pregunta.  
 		Una forma de “poner un poco de orden” en MongoDB de forma nativa es empleando una funcionalidad que se encuentra disponible desde Mongo 3.6 llamada [schema validation](https://docs.mongodb.com/manual/core/schema-validation/)
 		
 		De esa manera se pueden definir campos obligatorios dentro de un documento a nivel de colección, ahora MongoDB es schema less debido a que no tienes la obligación de definir un schema para guardar tus documentos sin embargo si tu caso de uso lo requiere puedes hacerlo.
 
-	* **codeitor** (2)
+	* **codeitor** [582370] (2)
 
-		
 		Estoy con la misma incertidumbre, leyendo información de otros sitios, con node.js el 90% de los casos usa mongoose… así que supongo voy por ese lado, implementando schema para que otros desarrolladores sepan de la estructura a simple vista.
 
-* **Luis Rodrigo Alvarez Herrera** (2)
+* **Luis Rodrigo Alvarez Herrera** (2) [800828](https://platzi.com/comentario/800828/) 
 
-	
 	Profesor, no solo copies y pegues
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [800828] (1)
 
-		
 		Que otra forma lo harias?
 
-	* **AryRosvall** (1)
+	* **AryRosvall** [800828] (1)
 
-		
 		Escribiendo uno a uno para que vayamos viendo lo que hay que hacer y para evitarse que le falten llaves o paréntesis como en esta clase. Venimos a aprender no a copiar y pegar código.
 
-* **Luis Donaldo Lopez Gil** (2)
+* **Luis Donaldo Lopez Gil** (2) [638488](https://platzi.com/comentario/638488/) 
 
 	```
 	    {
@@ -6070,9 +5343,8 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 	    
 	```
 
-* **Jose Manuel Salazar** (2)
+* **Jose Manuel Salazar** (2) [546182](https://platzi.com/comentario/546182/) 
 
-	
 	A pesar de realizar la instalación de todas las herramientas de forma exitosa, me esta generando el siguiente error, cuando llamo a <http://127.0.0.1:5000/>
 	
 	ALGUNA SOLUCION AL RESPECTO?. .
@@ -6097,9 +5369,8 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 	
 	You can execute arbitrary Python code in the stack frames and there are some extra helpers available for introspection:
 
-	* **cirovladimir** (4)
+	* **cirovladimir** [546182] (4)
 
-		
 		El error señala que no tienes el módulo bson en tu ambiente de python, asegurate de haber instalado los requerimientos del proyecto
 		``` 
 		    pip install -r requirements.txt
@@ -6130,40 +5401,34 @@ Me perdi un poco con este video, de repente aparece este editor y no encuentro e
 		
 		fuente: <https://stackoverflow.com/questions/42779934/jupyter-notebook-importerror-no-module-named-bson>
 
-	* **ruthazuniga** (2)
+	* **ruthazuniga** [546182] (2)
 
-		
 		Gracias!, me funcionó
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [546182] (1)
 
-		
 		¡Funciona correctamente!
 
-* **Carlos Martinez** (2)
+* **Carlos Martinez** (2) [58820](https://platzi.com/comentario/582370/) 
 en el caso de los esquemas, como se pueden definir mejor?, el profesor los definió pero no es que se usen obligatoriamente no? osea lo d...
 
-	* **anibalrojas (Platzi)** (3)
+	* **anibalrojas (Platzi)** [58820] (3)
 
-		
 		Muy interesante tu pregunta. Si tienes las necesidad de poner un “poco de orden” entonces muy posiblemente en realidad la solución a tu problema es un RDBMS, tecnología muy sólida con muchísimos años en el mercado. Y si una parete de tu problema aún requiere de schemaless documents puedes utilizar soporte para columnas JSON como por ejemplo lo ofrece PostgreSQL, con lo que puedes incluso definir índices sobre el las propiedas del documento para optimizar queries.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [923437](https://platzi.com/comentario/923437/) 
 
-	
 	entendido, gracias
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873606](https://platzi.com/comentario/873606/) 
 
-	
 	Entendido y funciono correctamente.
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [870337](https://platzi.com/comentario/870337/) 
 
-	
 	Como puedo crear consultas o hacer modificaciones sobre arrays anidados?
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [764478](https://platzi.com/comentario/764478/) 
 
 	```
 	    from flask import Flask
@@ -6311,12 +5576,11 @@ en el caso de los esquemas, como se pueden definir mejor?, el profesor los defin
 	    
 	```
 
-* **Jose Manuel Salazar** (1)
+* **Jose Manuel Salazar** (1) [55874](https://platzi.com/comentario/546182/) 
 A pesar de realizar la instalación de todas las herramientas de forma exitosa, me esta generando el siguiente error, cuando llamo a 
 
-	* **cirovladimir** (4)
+	* **cirovladimir** [55874] (4)
 
-		
 		El error señala que no tienes el módulo bson en tu ambiente de python, asegurate de haber instalado los requerimientos del proyecto
 		``` 
 		    pip install -r requirements.txt
@@ -6347,132 +5611,110 @@ A pesar de realizar la instalación de todas las herramientas de forma exitosa, 
 		
 		fuente: <https://stackoverflow.com/questions/42779934/jupyter-notebook-importerror-no-module-named-bson>
 
-## 0200. Trabajando en nuestro proyecto PlatziMongo Relaciones
+## 0200. Trabajando en nuestro proyecto PlatziMongo Relaciones [18491](https://platzi.com/clases/1533-mongodb/18491-trabajando-en-nuestro-proyecto-platzimongo-relacio/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Luis Rodrigo Alvarez Herrera** (10)
+* **Luis Rodrigo Alvarez Herrera** (10) [800855](https://platzi.com/comentario/800855/) 
 
-	
 	Todo iba bien hasta el video 18, despues se pierde el hilo y despues seguirlo con python,
 
-* **maojedas** (10)
+* **maojedas** (10) [755733](https://platzi.com/comentario/755733/) 
 Señores Platzi, yo estoy pagando por aprender mongo, no para aprender phyton .. esto es una tomadura de pelo... estoy bien molesto. Resulta que para aprender mongo necesito correr un monton de programas postman, phyton etc.
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [755733] (3)
 
-		
 		No necesariamente. NO tienes que hacer los ejercicios con Python si te causan molestias. Puedes usar la consola de MongoDB directamente. O usar tu lenguaje de programación favorito. Estas clases solo son un ejemplo práctico para construir un CRUD con MongoDB.
 		
 		👉 <http://platzi.com/comentario/559353/>
 
-	* **Briones D. Jose** (1)
+	* **Briones D. Jose** [755733] (1)
 
-		
 		x2 pague el curso de mongodb
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [755733] (1)
 
-		
 		Cada uno tiene su punto de vista, pero tambien tienen razon.
 
-	* **Marco Antonio Macedo Preciado** (5)
+	* **Marco Antonio Macedo Preciado** [755733] (5)
 
-		
 		Yo estoy siguiendo el curso con Node.js, lo importante es tomar la lógica.
 
-* **Lorena Pérez González** (8)
+* **Lorena Pérez González** (8) [1013155](https://platzi.com/comentario/1013155/) 
 
-	
 	Muy decepcionante el curso a nivel de estructuración, deberian trabajar en un curso de Mongodb mas estructurado, una pena que aun lo lo hayan rectificado.
 
-* **Vicente Fernandez** (6)
+* **Vicente Fernandez** (6) [999178](https://platzi.com/comentario/999178/) 
 
-	
 	Hasta aquí llego con este curso de Python, perdón de MongoDB. Esta muy mal estructurado y explicado. Platzi por favor revisen este curso, necesita ser renovado.
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [999178] (2)
 
-		
 		Hola! Nos puedes enviar tu feedback a [team@platzi.com](mailto:team@platzi.com)? es muy importante para saber los fallos 😄
 
-* **Abraham Gonzalez** (5)
+* **Abraham Gonzalez** (5) [605275](https://platzi.com/comentario/605275/) 
 
-	
 	Si quieren la documentación para el $pull [Pull](https://docs.mongodb.com/manual/reference/operator/update/pull/)
 
-	* **Cristian Fabian Tovar** (3)
+	* **Cristian Fabian Tovar** [605275] (3)
 
-		
 		Básicamente remueve de un array el o los valores que coincidan con la condición que se le especifique
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [605275] (1)
 
-		
 		lo que menciona **@CristianTovar** es correcto.
 
-* **Carlos Andres Castañeda Osorio** (4)
+* **Carlos Andres Castañeda Osorio** (4) [587163](https://platzi.com/comentario/587163/) 
 
-	
 	Por si algún curioso (Como yo) quiere saber para qué sirve específicamente el método [$addToSet](https://docs.mongodb.com/manual/reference/operator/update/addToSet/) de la documentación oficial
 
-	* **Cristian Fabian Tovar** (6)
+	* **Cristian Fabian Tovar** [587163] (6)
 
-		
 		Por si algún perezoso (como yo) le da jartera leer la documentación, el operador $addToSet agrega un valor a un array solo en el caso de que este valor no exista (hace mas cosas, pero en resumen es eso).
 
-* **Wandy Rafael Santana Evangelista** (3)
+* **Wandy Rafael Santana Evangelista** (3) [559353](https://platzi.com/comentario/559353/) 
 
-	
 	Aunque no se Python, al menos entendí el concepto.
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [559353] (3)
 
-		
 		¡Exacto! 👌
 
-	* **Miguel Peláez** (2)
+	* **Miguel Peláez** [559353] (2)
 
-		
 		Finalmente termina siendo lo mismo: Lógica de programación. 😃
 
-	* **Diego Acosta** (2)
+	* **Diego Acosta** [559353] (2)
 
-		
 		Si es verdad
 
-	* **Brayan Mamani** (2)
+	* **Brayan Mamani** [559353] (2)
 
-		
 		Buen punto.
 
-* **Alberto Campos Hernandez** (3)
+* **Alberto Campos Hernandez** (3) [62092](https://platzi.com/comentario/633532/) 
 Cuando uso el método para borrar curso de una carrera no hace nada, implemente la función tal cual ¿alguién sabe que puede ser? de...
 
-* **carlosbazanhuaman** (2)
+* **carlosbazanhuaman** (2) [966813](https://platzi.com/comentario/966813/) 
 
-	
 	creo que el curso no da para mas a que es basico, fuera uno de administración seria mas por el lado de configuración y todo eso.
 
-* **Jorge Enrique Avendaño Jara** (2)
+* **Jorge Enrique Avendaño Jara** (2) [956797](https://platzi.com/comentario/956797/) 
 
-	
 	Esto no es una Clase… más bien parece un tutorial … y existen mejores turoriales por internet … !!!
 
-* **juand_silva** (2)
+* **juand_silva** (2) [674816](https://platzi.com/comentario/674816/) 
 
-	
 	Excelente clase. Algunas cosas no las entedía muy bien, pero leyendo la documentación del driver **pymongo** me aclaró todas las dudas.  
 	Esta muy bien documentado el driver:
 	
 	<https://api.mongodb.com/python/current/api/index.html>
 
-* **Carlos Martinez** (2)
+* **Carlos Martinez** (2) [584591](https://platzi.com/comentario/584591/) 
 
-	
 	tenía un pequeño error pero ya lo solucione  
 	me salía:  
 	`TypeError: id must be an instance of (bytes, str, ObjectId), not <class 'dict'>`
@@ -6481,24 +5723,20 @@ Cuando uso el método para borrar curso de una carrera no hace nada, implemente 
 	
 	mi error era que estaba convirtiendo 2 veces el **_id** en un **ObjectId** y si bien se puede ver, solo se necesita pasarle el id como un string ya que la funcion `consultar_curso_por_id_proyeccion` se encarga de ello
 
-* **Francisco Martin Nacimiento** (1)
+* **Francisco Martin Nacimiento** (1) [1009127](https://platzi.com/comentario/1009127/) 
 
-	
 	Todo ok! Esta bueno implementarlo en un lenguaje estas practicas, y mas de uno que no se, es un desafío que afrontar!
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [923451](https://platzi.com/comentario/923451/) 
 
-	
 	averiguare mas en la documentacion sobre $addToSet
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873634](https://platzi.com/comentario/873634/) 
 
-	
 	Funciono el ejemplo.
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [764559](https://platzi.com/comentario/764559/) 
 
-	
 	código:
 	``` 
 	    from flask import Flask
@@ -6675,7 +5913,7 @@ Cuando uso el método para borrar curso de una carrera no hace nada, implemente 
 	    
 	```
 
-## 0210. Usando operadores para realizar Updates en arreglos
+## 0210. Usando operadores para realizar Updates en arreglos [18555](https://platzi.com/clases/1533-mongodb/18555-usando-operadores-para-realizar-updates-en-arreglo/)
 
 ### Descripción:
 
@@ -6739,9 +5977,8 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 
 ### Comentarios:
 
-* **frankromero** (7)
+* **frankromero** (7) [548057](https://platzi.com/comentario/548057/) 
 
-	
 	el array para insertar el la colección survey tiene un pequeño error falta separar los elementos:
 	``` 
 	    b.survey.insertMany([ 
@@ -6752,7 +5989,7 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 	    
 	```
 
-	* **Luis Rangel Castro** (1)
+	* **Luis Rangel Castro** [548057] (1)
 
 		```
 		    db.survey.insertMany([ 
@@ -6763,7 +6000,7 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 		    
 		```
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [548057] (1)
 
 		```
 		    db.survey.insertMany([ 
@@ -6774,9 +6011,8 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 		    
 		```
 
-* **Carlos Martinez** (5)
+* **Carlos Martinez** (5) [584958](https://platzi.com/comentario/584958/) 
 
-	
 	hola, tengo una duda, NOTA: esta pregunta se lee mejor en los aportes de la clase, si, al parecer hay un pequeño “bug” con las preguntas que no muestra los estilos de markdown , en fin, aqui mi pregunta:
 	
 	cuando ejecutamos el query  
@@ -6844,9 +6080,8 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 	    
 	```
 
-	* **albertramirez** (8)
+	* **albertramirez** [584958] (8)
 
-		
 		El operador $elemMatch también puede ser usado en la proyección, así la query que estás buscando quedaría:
 		``` 
 		    db.test.find( { results: { $elemMatch: { product: "xyz", score: { $gte: 8 } } } } , { results: { $elemMatch: { product: "xyz", score: { $gte: 8 } } } })
@@ -6855,29 +6090,24 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 		
 		<https://docs.mongodb.com/manual/reference/operator/projection/elemMatch/>
 
-	* **Carlos Martinez** (1)
+	* **Carlos Martinez** [584958] (1)
 
-		
 		vaya, eso ni si quiera se me había ocurrido, gracias por responder profesor.
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [584958] (1)
 
-		
 		Ahora todo queda mejor.
 
-* **Juan Guillermo Perez Cardozo** (4)
+* **Juan Guillermo Perez Cardozo** (4) [923486](https://platzi.com/comentario/923486/) 
 
-	
 	Entendido y funcionando, aun asi cuesta mucho acostumbrarse a hacer update, pull , cuando ya por años uno hace delete from table where condicion=val. pero bueno a tener afinidad con esa nueva forma de trabajar la base de datos
 
-* **David Santiago Pinchao Ortiz** (1)
+* **David Santiago Pinchao Ortiz** (1) [1067551](https://platzi.com/comentario/1067551/) 
 
-	
 	Me gusta la forma de trabajar las queries, hay que prestar mucha atención al detalle
 
-* **Jose Luis Campos Bautista** (1)
+* **Jose Luis Campos Bautista** (1) [1022869](https://platzi.com/comentario/1022869/) 
 
-	
 	Con respecto a los datos insertados.  
 	¿Qué resulta en cada consulta?
 	``` 
@@ -6888,17 +6118,15 @@ Como vemos skip() y limit() son muy útiles para realizar paginaciones, cuando t
 	    
 	```
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873674](https://platzi.com/comentario/873674/) 
 
-	
 	Entendido.
 
-* **Carlos Martinez** (1)
+* **Carlos Martinez** (1) [58984](https://platzi.com/comentario/584958/) 
 hola, tengo una duda, NOTA: esta pregunta se lee mejor en los aportes de la clase, si, al parecer hay un pequeño “bug” con las preguntas ...
 
-	* **albertramirez** (8)
+	* **albertramirez** [58984] (8)
 
-		
 		El operador $elemMatch también puede ser usado en la proyección, así la query que estás buscando quedaría:
 		``` 
 		    db.test.find( { results: { $elemMatch: { product: "xyz", score: { $gte: 8 } } } } , { results: { $elemMatch: { product: "xyz", score: { $gte: 8 } } } })
@@ -6907,7 +6135,7 @@ hola, tengo una duda, NOTA: esta pregunta se lee mejor en los aportes de la clas
 		
 		<https://docs.mongodb.com/manual/reference/operator/projection/elemMatch/>
 
-## 0220. Operaciones avanzadas con Agregaciones
+## 0220. Operaciones avanzadas con Agregaciones [18492](https://platzi.com/clases/1533-mongodb/18492-operaciones-avanzadas-con-agregaciones/)
 
 ### Descripción:
 
@@ -6922,56 +6150,47 @@ Las agregaciones son operaciones avanzadas que podemos realizar sobre nuestra ba
 
 ### Comentarios:
 
-* **Jean Paul Sánchez Mendoza** (9)
+* **Jean Paul Sánchez Mendoza** (9) [882925](https://platzi.com/comentario/882925/) 
 
-	
 	La información es muy pobre y nada de práctica. Se han colocado en el video capturas de la documentación oficial. Se entiende que el curso se básico, pero dejar esta sección sin ejemplos prácticos ha sido una tomada de pelo, sobre todo porque la premisa del curso es “Domina”. ¿Podrían incrementar más contenido para eso?
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [544191](https://platzi.com/comentario/544191/) 
 
-	
-	  * [Agregations – MongoDB Documentation](https://docs.mongodb.com/manual/aggregation/)
-	  * [MongoDB Aggregation Pipeline by Example](https://codeburst.io/mongodb-aggregation-pipeline-by-example-part-1-77accb976bd0)
+	* [Agregations – MongoDB Documentation](https://docs.mongodb.com/manual/aggregation/)
+	* [MongoDB Aggregation Pipeline by Example](https://codeburst.io/mongodb-aggregation-pipeline-by-example-part-1-77accb976bd0)
 	
 	
 
-* **jjorgewill** (3)
+* **jjorgewill** (3) [733042](https://platzi.com/comentario/733042/) 
 
-	
 	😦 😦 Por que no hubo ejemplo en código aquí? incluso en la siguiente clase explico los indices con código de ejemplo. 😦
 
-	* **Elias Ojeda Medina** (2)
+	* **Elias Ojeda Medina** [733042] (2)
 
-		
 		Revisa la documentación, aquí viene el ejemplo:  
 		[<https://docs.mongodb.com/manual/aggregation/(https://docs.mongodb.com/manual/aggregation/)>
 
-	* **Brayan Mamani** (2)
+	* **Brayan Mamani** [733042] (2)
 
-		
 		La vieja confiable, la documentación es la solucion.
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [923503](https://platzi.com/comentario/923503/) 
 
-	
 	insisto toma tiempo y esfuerzo nuestro el acostumbrarnos a hacer consultas a la base de datos. como hariamos un min , max , avg ?? sera ir a la documentacion.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873694](https://platzi.com/comentario/873694/) 
 
-	
 	Muy interesante.
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [791698](https://platzi.com/comentario/791698/) 
 
-	
 	¡Interesante!
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [764593](https://platzi.com/comentario/764593/) 
 
-	
 	Genial!
 
-## 0230. Consultas más rápidas con Índices
+## 0230. Consultas más rápidas con Índices [18493](https://platzi.com/clases/1533-mongodb/18493-consultas-mas-rapidas-con-indices/)
 
 ### Descripción:
 
@@ -6980,20 +6199,19 @@ Los índices nos ayudan a que nuestras consultas sean más rápidas porque, sin 
 
 Tipos de índices:
 
-  * De un solo campo
-  * Compuestos
-  * Multi-llave
-  * Geoespaciales
-  * De texto
-  * _Hashed_
+* De un solo campo
+* Compuestos
+* Multi-llave
+* Geoespaciales
+* De texto
+* _Hashed_
 
 
 
 ### Comentarios:
 
-* **cirovladimir** (13)
+* **cirovladimir** (13) [547905](https://platzi.com/comentario/547905/) 
 
-	
 	Para comparar la diferencia entre el rendimiento puedes utilizar el comando `explain('executionStats')`
 	
 	por ejemplo, en una colección de ejemplo `students` (la puedes [obtener acá](https://github.com/ozlerhakan/mongodb-json-files) e importar a atlas de acuerdo a [esta guía](https://docs.atlas.mongodb.com/import/mongoimport/)). Vamos a buscar los estudiantes cuyo nombre sea ‘Tandra Meadows’
@@ -7035,34 +6253,29 @@ Tipos de índices:
 	
 	[How to Speed-Up MongoDB Regex Queries by a Factor of up-to 10](https://medium.com/statuscode/how-to-speed-up-mongodb-regex-queries-by-a-factor-of-up-to-10-73995435c606)
 
-	* **Rafael Andrés Cisneros Corro** (1)
+	* **Rafael Andrés Cisneros Corro** [547905] (1)
 
-		
 		Excelent aporte, gracias.
 
-	* **Abraham Gonzalez** (1)
+	* **Abraham Gonzalez** [547905] (1)
 
-		
 		Al momento de ejecutar .explain(‘executionStats’) me retorna una seria de campos interesantes … mi duda es cual es la diferencia entre `executionTimeMillisEstimate` y `executionTimeMillis` ?
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [547905] (1)
 
-		
 		Buen aporte de la clase.
 
-* **Juan David Castro (Platzi)** (3)
+* **Juan David Castro (Platzi)** (3) [544193](https://platzi.com/comentario/544193/) 
 
-	
-	  * [Basic Indexing in MongoDB](https://medium.com/@dugdun/basic-indexing-in-mongodb-8e776a5eb108)
-	  * [How to Speed-Up MongoDB Regex Queries by a Factor of up-to 10](https://medium.com/statuscode/how-to-speed-up-mongodb-regex-queries-by-a-factor-of-up-to-10-73995435c606)  
+	* [Basic Indexing in MongoDB](https://medium.com/@dugdun/basic-indexing-in-mongodb-8e776a5eb108)
+	* [How to Speed-Up MongoDB Regex Queries by a Factor of up-to 10](https://medium.com/statuscode/how-to-speed-up-mongodb-regex-queries-by-a-factor-of-up-to-10-73995435c606)  
 	_– Why can’t we just add an Index!? Text Indexes will Safe Us_
-	  * [Query like A Pro — MongoDB Toolbox](https://codeburst.io/query-like-a-pro-mongodb-shell-toolbox-3c926cec4cbd)
+	* [Query like A Pro — MongoDB Toolbox](https://codeburst.io/query-like-a-pro-mongodb-shell-toolbox-3c926cec4cbd)
 	
 	
 
-* **andres-martinez578** (2)
+* **andres-martinez578** (2) [696474](https://platzi.com/comentario/696474/) 
 
-	
 	[db.py](http://db.py)
 	
 	def agregar_indice(index):  
@@ -7070,12 +6283,11 @@ Tipos de índices:
 	
 	Metodo para crear index desde pymongo
 
-* **Cristian Fabian Tovar** (2)
+* **Cristian Fabian Tovar** (2) [61902](https://platzi.com/comentario/629694/) 
 como es el comando para importar los datos del cluster y que se vea la DB de “platzi” en la consola de mongo?
 
-	* **fernandomunoz** (3)
+	* **fernandomunoz** [61902] (3)
 
-		
 		Desde la terminal te conectas al cluster de Atlas luego:
 		
 		  1. Miras las bases de datos disponibles
@@ -7112,40 +6324,33 @@ como es el comando para importar los datos del cluster y que se vea la DB de “
 		
 		Y listo con eso miras los datos del cluster.
 
-* **David Santiago Pinchao Ortiz** (1)
+* **David Santiago Pinchao Ortiz** (1) [1067679](https://platzi.com/comentario/1067679/) 
 
-	
 	Los poderosos Indices
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [923566](https://platzi.com/comentario/923566/) 
 
-	
 	ok gracias.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873758](https://platzi.com/comentario/873758/) 
 
-	
 	Entendido y es muy importante para un optimo rendimiento del aplicativo.
 
-* **Cristhian Arce** (1)
+* **Cristhian Arce** (1) [836935](https://platzi.com/comentario/836935/) 
 
-	
 	Desde el código de Python, cómo puedo identificar cuando la función retorna un bson envés de un json ?
 
-* **José Alexander Guerra Tejada** (1)
+* **José Alexander Guerra Tejada** (1) [795845](https://platzi.com/comentario/795845/) 
 
-	
 	como puedo hacer para que en una consulta como la siguiente utilize indices ?  
 	`db.topics.aggregate([ { $lookup: { from: 'profiles', localField: '_id', foreignField: 'topics', as: 'teachers' } }, { $match: { 'teachers.status': 5, 'teachers.stepsCompleted: true' } } ]),`
 
-* **José Alexander Guerra Tejada** (1)
+* **José Alexander Guerra Tejada** (1) [795829](https://platzi.com/comentario/795829/) 
 
-	
 	los $lookup pueden contener indices ??
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [764696](https://platzi.com/comentario/764696/) 
 
-	
 	Codigo:
 	``` 
 	    from flask import Flask
@@ -7335,24 +6540,22 @@ como es el comando para importar los datos del cluster y que se vea la DB de “
 	    
 	```
 
-* **Joan Federico Marin Ruiz** (1)
+* **Joan Federico Marin Ruiz** (1) [80394](https://platzi.com/comentario/958001/) 
 que son los hashed?
 
-	* **Wonder Jhonny Diaz Gonzalez** (2)
+	* **Wonder Jhonny Diaz Gonzalez** [80394] (2)
 
-		
 		Hola Fede,
 		
 		Un Hash es un algoritmo matemático que transforma cualquier bloque arbitrario de datos en una nueva serie de caracteres con una longitud fija. [Fuente](https://latam.kaspersky.com/blog/que-es-un-hash-y-como-funciona/2806/)
 		
 		Los índices hash mantienen entradas con hashes de los valores del campo indexado. [Documentación](https://docs.mongodb.com/manual/core/index-hashed/)
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [75668](https://platzi.com/comentario/873760/) 
 ¿Como sabes si está utilizando el índice que creamos?
 
-	* **Erika Hernández** (1)
+	* **Erika Hernández** [75668] (1)
 
-		
 		Hola! estuve leyendo y al parecer esto puede proveernos esa infomación:
 		``` 
 		    db.cursos.find({$text : {$search : "mongo"}} , {nombre : 1}).explain("executionStats")
@@ -7363,23 +6566,23 @@ que son los hashed?
 		
 		Mas información: [Measure index use](https://docs.mongodb.com/manual/tutorial/measure-index-use/)
 
-# Recomendaciones para poner en producción tu cluster de Atlas
+# Recomendaciones para poner en producción tu cluster de Atlas [3705]
 
-## 0240. Recomendaciones de Arquitectura y Paso a Producción
+## 0240. Recomendaciones de Arquitectura y Paso a Producción [18494](https://platzi.com/clases/1533-mongodb/18494-recomendaciones-de-arquitectura-y-paso-a-produccio/)
 
 ### Descripción:
 
 
-  * Usar proveedores cloud con alta disponibilidad: AWS, Google Cloud o Azure son muy buenas opciones
-  * No te compliques pensando en administración de servidores con MongoDB, servicios como MongoDB Atlas o mlab son muy buenas opciones
-  * Guardar las credenciales en variables de entorno o archivos de configuración fuera del proyecto
-  * Asegura que tu cluster se encuentra en la mis región del proveedor que tu aplicación
-  * Has VPC _peering_ entre la VPC de tu aplicación y la VPC de tu cluster
-  * Cuida la lista de IPs blancas
-  * Puedes habilitar la autenticación en dos pasos
-  * Actualiza constantemente tu versión de MongoDB
-  * Separa los ambientes de desarrollo, test y producción
-  * Habilita la opción de almacenamiento encriptado
+* Usar proveedores cloud con alta disponibilidad: AWS, Google Cloud o Azure son muy buenas opciones
+* No te compliques pensando en administración de servidores con MongoDB, servicios como MongoDB Atlas o mlab son muy buenas opciones
+* Guardar las credenciales en variables de entorno o archivos de configuración fuera del proyecto
+* Asegura que tu cluster se encuentra en la mis región del proveedor que tu aplicación
+* Has VPC _peering_ entre la VPC de tu aplicación y la VPC de tu cluster
+* Cuida la lista de IPs blancas
+* Puedes habilitar la autenticación en dos pasos
+* Actualiza constantemente tu versión de MongoDB
+* Separa los ambientes de desarrollo, test y producción
+* Habilita la opción de almacenamiento encriptado
 
 
 
@@ -7389,101 +6592,87 @@ que son los hashed?
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (16)
+* **Juan David Castro (Platzi)** (16) [544196](https://platzi.com/comentario/544196/) 
 
-	  * [14 Things I Wish I’d Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB)
-	  * [Time Series Data and MongoDB: Part 2 – Schema Design Best Practices](https://www.mongodb.com/blog/post/time-series-data-and-mongodb-part-2-schema-design-best-practices)
-	  * [Performance Best Practices for MongoDB](https://www.mongodb.com/collateral/mongodb-performance-best-practices)
-	  * [What is MongoDB Sharding and the Best Practices?](https://geekflare.com/mongodb-sharding-best-practices/)
+	* [14 Things I Wish I’d Known When Starting with MongoDB](https://www.infoq.com/articles/Starting-With-MongoDB)
+	* [Time Series Data and MongoDB: Part 2 – Schema Design Best Practices](https://www.mongodb.com/blog/post/time-series-data-and-mongodb-part-2-schema-design-best-practices)
+	* [Performance Best Practices for MongoDB](https://www.mongodb.com/collateral/mongodb-performance-best-practices)
+	* [What is MongoDB Sharding and the Best Practices?](https://geekflare.com/mongodb-sharding-best-practices/)
 	
 	
 
-* **Juan Guillermo Perez Cardozo** (2)
+* **Juan Guillermo Perez Cardozo** (2) [923589](https://platzi.com/comentario/923589/) 
 
-	
 	gracias por las recomendaciones de seguridad
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [989359](https://platzi.com/comentario/989359/) 
 
-	
 	Recomendaciones de seguridad!!
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873788](https://platzi.com/comentario/873788/) 
 
-	
 	Entendido y son buenas recomendaciones.
 
-* **Manuel_Herrera** (1)
+* **Manuel_Herrera** (1) [819264](https://platzi.com/comentario/819264/) 
 
-	
 	Muy buenas recomendaciones de arquitectura !!
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [791700](https://platzi.com/comentario/791700/) 
 
-	
 	¡Muy buena recomendación la de utilizar proveedores cloud!
 
-* **David Santiago Pinchao Ortiz** (1)
+* **David Santiago Pinchao Ortiz** (1) [85191](https://platzi.com/comentario/1067860/) 
 Que es el escalabilidad horizontal ?
 
-	* **AryRosvall** (2)
+	* **AryRosvall** [85191] (2)
 
-		
 		Se refiere a que Mongo puede agregar tantos servidores como necesite para soportar el tráfico a la base
 
-## 0250. Nuestra base de datos en un cluster de producción
+## 0250. Nuestra base de datos en un cluster de producción [18495](https://platzi.com/clases/1533-mongodb/18495-nuestra-base-de-datos-en-un-cluster-de-produccion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Madrov** (5)
+* **Madrov** (5) [552494](https://platzi.com/comentario/552494/) 
 
-	
 	El servicio de Atras es genial, la monitorización del uso, el acceso a las bases de datos, la fácil y segura administración de entornos de producción y muchos otros beneficios… quisiera saber ¿existen otros servicios cloud para mongo similar a atlas?, quiero hacer una comparación entre precios y servicios…
 
-	* **svictoreq** (1)
+	* **svictoreq** [552494] (1)
 
-		
 		Podrías echar un vistazo a [mLab](https://mlab.com).
 
-	* **Brayan Mamani** (1)
+	* **Brayan Mamani** [552494] (1)
 
-		
 		 **@svictoreq** muy util tu aporte.
 
-	* **Juan José Vega Quintero** (1)
+	* **Juan José Vega Quintero** [552494] (1)
 
-		
 		mLab ya no se usa, mongo atlas lo compro y lo integro en un solo servicio.
 
-* **David Santiago Pinchao Ortiz** (1)
+* **David Santiago Pinchao Ortiz** (1) [1067878](https://platzi.com/comentario/1067878/) 
 
-	
 	Listo para empezar un proyecto en con Mongo como base de datos
 
-* **Juan Guillermo Perez Cardozo** (1)
+* **Juan Guillermo Perez Cardozo** (1) [923613](https://platzi.com/comentario/923613/) 
 
-	
 	lo mejor de cada servicio mencionado es la seguridad tan buena que ofrece , eso si sabiendola usar, como dice albert de nada sirve la whitelist si ponemos 0.0.0.0 osea que deje entrar a todo el que quiera.
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [892875](https://platzi.com/comentario/892875/) 
 
-	
 	Muy bueno el servicio de Atlas.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873819](https://platzi.com/comentario/873819/) 
 
-	
 	Muy interesante. La consola se ve bastante completa.
 
-* **Gino Andrey Grimaldos Puerto** (1)
+* **Gino Andrey Grimaldos Puerto** (1) [74723](https://platzi.com/comentario/857920/) 
 Tengo un inconveniente con el driver para c#, tengo Visual Studio 2019 y la pagina me dice que la conecion se realiza asi var mongoUrl = ...
 
-# Conclusiones
+# Conclusiones [3706]
 
-## 0260. Resumen y Conclusiones
+## 0260. Resumen y Conclusiones [18496](https://platzi.com/clases/1533-mongodb/18496-resumen-y-conclusiones/)
 
 ### Descripción:
 
@@ -7496,110 +6685,92 @@ Recuerda resolver los ejercicios, completar el examen, dejar 5 estrellitas y dej
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [544199](https://platzi.com/comentario/544199/) 
 
-	
-	  * [30 Best MongoDB Interview Questions and Answers](https://www.fullstack.cafe/blog/30-best-mongodb-interview-questions-and-answers)
+	* [30 Best MongoDB Interview Questions and Answers](https://www.fullstack.cafe/blog/30-best-mongodb-interview-questions-and-answers)
 	
 	
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [544199] (1)
 
-		
 		Gracias!
 
-	* **Johan_Marcel** (1)
+	* **Johan_Marcel** [544199] (1)
 
-		
 		Awesome!
 
-* **Jhonnattan Rivera** (3)
+* **Jhonnattan Rivera** (3) [985053](https://platzi.com/comentario/985053/) 
 
-	
 	me gusto el curso, aunque creeo que debio hacer ejemplos en la consola pura y no usando python. pero esta bien para comenzar. me gusto las bases con las que nos deja el curso, es un buen inicio al mundo de las bases de datos no relacionales.
 
-* **Ludwing Juan Homero Pérez Tzaquitzal** (3)
+* **Ludwing Juan Homero Pérez Tzaquitzal** (3) [805593](https://platzi.com/comentario/805593/) 
 
-	
 	Buen curso, pero habría sido mejor profundizar en temas propios y un poco más avanzados de mongo y no tanto en la creación de una API en flask pero igual me parece excelente el contenido y el profesor
 
-* **Abraham Gonzalez** (3)
+* **Abraham Gonzalez** (3) [606341](https://platzi.com/comentario/606341/) 
 
-	
 	Les dejo una Workbook por [aquí](http://nicholasjohnson.com/mongo/course/workbook/) para que practiquen y conozcan más a fondo sobre mongodb, a mi en lo personal me ayudo mucho…
 
-	* **Ludwing Juan Homero Pérez Tzaquitzal** (1)
+	* **Ludwing Juan Homero Pérez Tzaquitzal** [606341] (1)
 
-		
 		Que buen aporte, gracias!
 
-* **Argueta Broddy** (2)
+* **Argueta Broddy** (2) [928167](https://platzi.com/comentario/928167/) 
 
-	
 	Buen curso, espero el avanzado para este año 2020.
 
-* **ehnbytes** (1)
+* **ehnbytes** (1) [989379](https://platzi.com/comentario/989379/) 
 
-	
 	Buen curso de MongoDB!!!
 
-* **Abril Darynka Tapia Sosa** (1)
+* **Abril Darynka Tapia Sosa** (1) [979870](https://platzi.com/comentario/979870/) 
 
-	
 	Espero se cree un curso de MongoDB avanzado para aprender más
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [873826](https://platzi.com/comentario/873826/) 
 
-	
 	Buen curso para empezar en este entorno de base de datos.  
 	Deberían crear un curso más avanzado.
 
-* **Manuel_Herrera** (1)
+* **Manuel_Herrera** (1) [819292](https://platzi.com/comentario/819292/) 
 
-	
 	Un gustazo !!
 
-* **raulandres13** (1)
+* **raulandres13** (1) [807454](https://platzi.com/comentario/807454/) 
 
-	
 	Muy buen curso, gran profesor !
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [791768](https://platzi.com/comentario/791768/) 
 
-	
 	¡Fue un gusto tomar este curso!
 
-* **everthpintadobellido** (1)
+* **everthpintadobellido** (1) [787845](https://platzi.com/comentario/787845/) 
 
-	
 	consulta si quiero hacer un modelado de base de datos relaciona o no racional l , me podria ayudar de una plantilla ya hecha o hacerlo desde cero ?, porque ahi visto que lo sacan del libro THE DATA MODEL es asi o me equivoco ?
 
-* **Luis Rangel Castro** (1)
+* **Luis Rangel Castro** (1) [764738](https://platzi.com/comentario/764738/) 
 
-	
 	Excelente Curso!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [559370](https://platzi.com/comentario/559370/) 
 
-	
 	Excelente curso.
 
-* **Jonathan Campos Lozano** (1)
+* **Jonathan Campos Lozano** (1) [73651](https://platzi.com/comentario/839028/) 
 Tengo una base de datos en MongoDB pero necesito realizar una migración a una base relacional en Postgres. Donde puedo encontrar document...
 
-	* **Juan Carlos Pinzón** (1)
+	* **Juan Carlos Pinzón** [73651] (1)
 
-		
 		Uy amigo, una migración así automatizada no creo que halles una herramienta que te ayude, ya que MongoDB no tiene tipos de datos definidos ni una estructura fija. En este caso te toca hacerlo manualmente. Yo lo haría así:
 		
-		  * Defino la estructura de la BD en Postgres, campos y sus tipos de datos.
-		  * Hago una exportación de los datos desde MongoDB en archivos separados por coma (,) o punto y coma como guste, teniendo en cuenta que una columna es un solo dato y no un objeto. Esta estructura de columnas en los CSV debe ser igual al de Postgres.
-		  * Hacer una carga masiva de estos CSV en Postgres.
+		* Defino la estructura de la BD en Postgres, campos y sus tipos de datos.
+		* Hago una exportación de los datos desde MongoDB en archivos separados por coma (,) o punto y coma como guste, teniendo en cuenta que una columna es un solo dato y no un objeto. Esta estructura de columnas en los CSV debe ser igual al de Postgres.
+		* Hacer una carga masiva de estos CSV en Postgres.
 		
 		
 		
 		Una migración así literal pues no se que tan conveniente sería
 
-* **Adrian Gil Duque** (1)
+* **Adrian Gil Duque** (1) [67738](https://platzi.com/comentario/728236/) 
 Estoy trabajando con Atlas y no tengo claridad de qué son las conexiones.(Connections), en el clúster ni cuáles son las mejores prácticas...
 

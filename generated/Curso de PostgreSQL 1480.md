@@ -1,80 +1,68 @@
-# Configurar Postgres
+[Curso de PostgreSQL 1480](https://platzi.com/cursos/postgresql)
 
-## 0010. Bienvenida al curso
+# Configurar Postgres [4835]
+
+## 0010. Bienvenida al curso [24175](https://platzi.com/clases/1480-postgresql/24175-bienvenida-al-curso/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Diego Bastidas** (4)
+* **Diego Bastidas** (4) [901118](https://platzi.com/comentario/901118/) 
 
-	
 	Que bueno sería un curso de técnicas para mejorar las consultas, tanto en velocidad como en escritura.
 
-* **hydroxseguridad** (3)
+* **hydroxseguridad** (3) [835330](https://platzi.com/comentario/835330/) 
 
-	
 	A darle!
 
-* **werner-us** (3)
+* **werner-us** (3) [834956](https://platzi.com/comentario/834956/) 
 
-	
 	de lo mas esperado, 😄 a darle
 
-* **Nadir Antonio Soza Solis** (2)
+* **Nadir Antonio Soza Solis** (2) [837856](https://platzi.com/comentario/837856/) 
 
-	
 	Espero que este curso sea mas completo que el anterior
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [835711](https://platzi.com/comentario/835711/) 
 
-	
 	Vamos a aprender PostgreSQL…
 
-* **jezz-barrientos** (1)
+* **jezz-barrientos** (1) [1106030](https://platzi.com/comentario/1106030/) 
 
-	
 	Gran intro, lo que me hacia falta
 
-* **juanma_9206** (1)
+* **juanma_9206** (1) [1103413](https://platzi.com/comentario/1103413/) 
 
-	
 	Y aquí vamos de nuevo! 😄
 
-* **Adrián Andrés Sosa** (1)
+* **Adrián Andrés Sosa** (1) [1046576](https://platzi.com/comentario/1046576/) 
 
-	
 	Genial!
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1018949](https://platzi.com/comentario/1018949/) 
 
-	
 	Veremos en este curso como crear PL, triggers y replicas 😘
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1018948](https://platzi.com/comentario/1018948/) 
 
-	
 	❤
 
-* **Joker11** (1)
+* **Joker11** (1) [993979](https://platzi.com/comentario/993979/) 
 
-	
 	Nunca pares de aprender !
 
-* **Maxc_Martinez** (1)
+* **Maxc_Martinez** (1) [963043](https://platzi.com/comentario/963043/) 
 
-	
 	a seguir aprendiendo 😄
 
-* **Moisés Cedeño** (1)
+* **Moisés Cedeño** (1) [962436](https://platzi.com/comentario/962436/) 
 
-	
 	¡Empezamos!
 
-* **Jhoan Steve Sandoval Meneses** (1)
+* **Jhoan Steve Sandoval Meneses** (1) [953068](https://platzi.com/comentario/953068/) 
 
-	
 	¿ Buenas como se configura postgrest para caracteres especiales ?  
 	tengo los siguientes errores durante inserciones:
 	
@@ -86,38 +74,32 @@
 	
 	ERROR: carácter con secuencia de bytes 0x81 en codificación «WIN1252» no tiene equivalente en la codificación «UTF8»
 
-	* **Diego Armando Bravo Sanabria** (1)
+	* **Diego Armando Bravo Sanabria** [953068] (1)
 
-		
 		Me sucedió algo parecido, estaba haciendo inserciones de archivos .csv a postgreSQL y generaba el mismo error.  
 		Lo solucione con la herramienta **EditPat-Pro** en la cual modifiqué el tipo de codificación del archivo .csv de “WIN1252” a “ **UTF8** ” y funciono perfectamente, espero te pueda ayudar, Saludos.
 
-	* **Diego Armando Bravo Sanabria** (1)
+	* **Diego Armando Bravo Sanabria** [953068] (1)
 
-		
 		Debes tener en cuenta a la hora de la** creación de la DB el tipo de codificación**, por defecto es codificación: “UTF8” por ende todos los registros que se hagan a esa DB deben ser “UTF8”. Saludos.
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [941591](https://platzi.com/comentario/941591/) 
 
-	
 	Empezando
 
-* **brayan-meza-castillo** (1)
+* **brayan-meza-castillo** (1) [896606](https://platzi.com/comentario/896606/) 
 
-	
 	motivación 100%
 
-* **Brayan Mamani** (1)
+* **Brayan Mamani** (1) [855001](https://platzi.com/comentario/855001/) 
 
-	
 	Muchas expectativas por este curso.
 
-* **gydoar** (1)
+* **gydoar** (1) [838794](https://platzi.com/comentario/838794/) 
 
-	
 	Esperemos que este si sea.
 
-## 0020. ¿Qué es Postgresql
+## 0020. ¿Qué es Postgresql [24176](https://platzi.com/clases/1480-postgresql/24176-que-es-postgresql/)
 
 ### Descripción:
 
@@ -130,52 +112,43 @@
 
 ### Comentarios:
 
-* **Abril Darynka Tapia Sosa** (12)
+* **Abril Darynka Tapia Sosa** (12) [927997](https://platzi.com/comentario/927997/) 
 
-	
 	• **A** : Atomicity – Atomicidad -> Separar las funciones desarrolladas en la BD como pequeñas tareas y ejecutarlas como un todo. Si alguna tarea falla se hace un rollback(Se deshacen los cambios)  
 	• **C** : Consistency – Consistencia -> Todo lo que se desarrolló en base al objeto relacional. Los datos tienen congruencia  
 	• **I** : Isolation – Aislamiento -> Varias tareas ejecutándose al mismo tiempo dentro de la BD  
 	• **D** : Durability – Durabilidad -> Puedes tener seguridad que la información no se perderá por un fallo catastrófico. PostgreSQL guarda la información en una Bitácora
 
-	* **Jaime Andrés Martínez Rodríguez** (1)
+	* **Jaime Andrés Martínez Rodríguez** [927997] (1)
 
-		
 		Muy buen aporte
 
-* **Luis Rodrigo Alvarez Herrera** (7)
+* **Luis Rodrigo Alvarez Herrera** (7) [834705](https://platzi.com/comentario/834705/) 
 
-	
 	por fin esta este curso!!!
 
-* **Kevin Brayan Luna Figueroa** (5)
+* **Kevin Brayan Luna Figueroa** (5) [838366](https://platzi.com/comentario/838366/) 
 
-	
 	Mucho tiempo estuve esperando este curso!! 😃
 
-* **Nadir Antonio Soza Solis** (5)
+* **Nadir Antonio Soza Solis** (5) [837860](https://platzi.com/comentario/837860/) 
 
-	
 	Me da mucha confianza este profesor, se nota que conoce mucho del tema.
 
-* **dbzdavidbaez** (5)
+* **dbzdavidbaez** (5) [835754](https://platzi.com/comentario/835754/) 
 
-	
 	Postgress The World’s Most Advanced Open Source Relational Database
 
-* **hydroxseguridad** (5)
+* **hydroxseguridad** (5) [835357](https://platzi.com/comentario/835357/) 
 
-	
 	Me llamo mucho la atencion este SGBD, porque hace 1 mes hubo un congreso de seguridad informatica en referencia a las entidades bancarias de paises latinoamericanos que usan Postgresql para sus fines comerciales. Es interesante!
 
-	* **TUDz** (3)
+	* **TUDz** [835357] (3)
 
-		
 		Es bastante interesante lo que comentas, de hecho, debido a las ventajas de Postgres muchas empresas están migrando desde sistemas en Oracle o SQL Server a este SGBD.
 
-* **Bernardino Villagra Baez** (4)
+* **Bernardino Villagra Baez** (4) [870467](https://platzi.com/comentario/870467/) 
 
-	
 	PostgreSQL cumple ACID
 	
 	A atomicidad  
@@ -183,133 +156,111 @@
 	I (isolation) aislamiento  
 	D durabilidad
 
-* **TUDz** (4)
+* **TUDz** (4) [836031](https://platzi.com/comentario/836031/) 
 
-	
 	Excelente, vengo de Oracle BD y con ese curso quiero aprender las bases para migrarme por completo a Postgres.
 
-* **cristianwalteros** (3)
+* **cristianwalteros** (3) [835468](https://platzi.com/comentario/835468/) 
 
-	
 	El curso se ve bastante interesante
 
-* **Jorge Ernesto Auad Oliva** (3)
+* **Jorge Ernesto Auad Oliva** (3) [835272](https://platzi.com/comentario/835272/) 
 
-	
 	genial a aprender!!
 
-* **Jose Villarroel** (2)
+* **Jose Villarroel** (2) [1021610](https://platzi.com/comentario/1021610/) 
 
-	
 	 **Por qué PostgreSQL**
 	
-	  * Tipos de Datos
-	  * Integridad de Datos
-	  * Concurrencia. Rendimiento
-	  * Fiabilidad, recuperación ante desastres
-	  * Seguridad
-	  * Extensibilidad
-	  * Internacionalización, Búsqueda de texto.
+	* Tipos de Datos
+	* Integridad de Datos
+	* Concurrencia. Rendimiento
+	* Fiabilidad, recuperación ante desastres
+	* Seguridad
+	* Extensibilidad
+	* Internacionalización, Búsqueda de texto.
 	
 	
 
-* **Cristopher Tolentino** (2)
+* **Cristopher Tolentino** (2) [835780](https://platzi.com/comentario/835780/) 
 
-	
 	Awesome!!
 
-* **Jesus Alejandro Lechuga Ortega** (1)
+* **Jesus Alejandro Lechuga Ortega** (1) [1118369](https://platzi.com/comentario/1118369/) 
 
-	
 	Una BD, poderosa, ¿all-for-one acaso?
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019472](https://platzi.com/comentario/1019472/) 
 
-	
 	Atomicidad = desarrollar las funciones en pequeñas tareas y hacer que funcionen como un todo. Sí al ejecutarse las funciones y cada una cumple su tarea y todo termina bien no habrá problemas, pero sí algo ocurre se puede hacer un roll-back y esto no era posible en el pasado.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019329](https://platzi.com/comentario/1019329/) 
 
-	
 	PgSQL cumple el estándar A.C.I.D: Atomicity-Atomicidad, Consistency-Consistencia, Isolation-Aislamiento, Durability-Durabilidad.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019311](https://platzi.com/comentario/1019311/) 
 
-	
 	PgSQL posee servicios de PostGIS y PL/PgSQL, son los servicios de desarrollo interno. El primero es un servicio de geolocalización que tiene que ver con mapas, puntos y esto te libra usar software de terceros. El segundo te permite desarrollar funciones Backend en el motor
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019309](https://platzi.com/comentario/1019309/) 
 
-	
 	PostgreSQL utiliza como elemento principal de su núcleo el Objeto-Relacional, lo que pretende es que las bases de datos tenga una estructura como la del desarrollo de POO, esto permite que la información este estructurada y relacionada ya que antes las BD solo almacenaban.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019291](https://platzi.com/comentario/1019291/) 
 
-	
 	PostgreSQL es Open Source esto quiere que es de código abierto y a su vez tiene una comunidad que constantemente le está haciendo mantenimiento y actualizando su código
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019276](https://platzi.com/comentario/1019276/) 
 
-	
 	1- El motor de bases datos (RDBMS) es quién estructura toda la información de la base de dato. 2- El servidor es una computadora dónde se instala el motor de base de dato. 3- La bases es la información ordenada, relacionada y estructurada a la cual accedemos con SQL
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019234](https://platzi.com/comentario/1019234/) 
 
-	
 	Existen 3 conceptos importantes entorno a las bases de datos: 1. El lenguaje, 2. El motor, 3. El servidor
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1019232](https://platzi.com/comentario/1019232/) 
 
-	
 	Postgres SQL es un motor, y PostgreSQL se considera un RDBMS significa Relational Database Management System o sistema manejador de bases de datos relacionales. Es un programa que se encarga de seguir las reglas de Codd y se puede utilizar de manera programática.
 
-* **Claudio Sebastian Bolvaran Toro** (1)
+* **Claudio Sebastian Bolvaran Toro** (1) [1009813](https://platzi.com/comentario/1009813/) 
 
-	
 	Quería hacer una pregunta por si alguien sabe. En una pregunta de prueba solicitan dar permisos de SELECT sobre los registros de una tabla con ID 1 y 6… es eso posible en postgres? Dar permisos de SELECT pero a filas especificas… o simplemente la solicitud que hicieron es errónea.
 
-	* **MauricioF** (1)
+	* **MauricioF** [1009813] (1)
 
-		
 		Buena pregunta, quisiera saber la respuesta también para un caso de uso práctico
 
-* **Diego Gallardo** (1)
+* **Diego Gallardo** (1) [924544](https://platzi.com/comentario/924544/) 
 
-	
 	Cumple  
 	A: Atomicidad  
 	C: Consistencia  
 	I: Aislamiento  
 	D: Durabilidad
 
-* **R3mb** (1)
+* **R3mb** (1) [911963](https://platzi.com/comentario/911963/) 
 
-	
 	¿Que tipo de herramientas para recuperación tiene PostgreSQL?, por ejemplo ORACLE tiene RMAN para la recuperación archivos de datos, control files, redo_log etc. que ayuda al administrador a recuperar la BD.
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [870466](https://platzi.com/comentario/870466/) 
 
-	
 	Leguaje es el que te permite manipular la data, en este caso SQL  
 	Motor es el que te permite estructurar tus datos en este caso PostreSQL  
 	Servidor donde esta instalado el moto y nos permite acceder a ella y utilizarlo
 
-* **Paul Sanchez Pardo** (1)
+* **Paul Sanchez Pardo** (1) [867577](https://platzi.com/comentario/867577/) 
 
-	
 	Esta interesante el curso era muy esperado!!
 
-* **Brando Rodríguez** (1)
+* **Brando Rodríguez** (1) [859553](https://platzi.com/comentario/859553/) 
 
-	
 	welcome!!
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [858870](https://platzi.com/comentario/858870/) 
 
-	
 	Hace bastante tiempo he venido esperando este curso. No lo pude seguir desde su lanzamiento por cuestiones laborales, pero aquí estoy, presto para aprender y completar la carrera de Base de Datos.
 
-## 0030. Instalación y configuración de la Base de Datos
+## 0030. Instalación y configuración de la Base de Datos [24177](https://platzi.com/clases/1480-postgresql/24177-instalacion-y-configuracion-de-la-base-de-datos/)
 
 ### Descripción:
 
@@ -458,59 +409,49 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 
 ### Comentarios:
 
-* **Luis Rodrigo Alvarez Herrera** (5)
+* **Luis Rodrigo Alvarez Herrera** (5) [834806](https://platzi.com/comentario/834806/) 
 
-	
 	Ojo, si en la consola aun estas en la ruta de la base de datos, te arrojara error ya que esta siendo usada
 
-	* **Andres Rivera** (3)
+	* **Andres Rivera** [834806] (3)
 
-		
 		Exacto hay que salir del sql shell con control + c para los que somos muy nuevos
 
-	* **tizianaamica** (2)
+	* **tizianaamica** [834806] (2)
 
-		
 		Gracias por sus comentarios!
 
-	* **Eduard José Carrillo Ortega** (2)
+	* **Eduard José Carrillo Ortega** [834806] (2)
 
-		
 		Me sale este error al intentar instalar en windows. 😕
 		
 		![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-92072d43-259d-4c1e-84e5-920bbe85bfe7.jpg)
 
-	* **Luis Rodrigo Alvarez Herrera** (1)
+	* **Luis Rodrigo Alvarez Herrera** [834806] (1)
 
-		
 		Que version de windows? ya intentaste bajar de nuevo el instalador?
 
-* **Javier Rodolfo** (4)
+* **Javier Rodolfo** (4) [1041676](https://platzi.com/comentario/1041676/) 
 
-	
 	Despues de varios intentos frustantes lo instale en ubuntu 18 LTS en windows  
 	este enlace me ayudo mucho’ <https://www.youtube.com/watch?v=ENrtKDNizv8>
 
-	* **ferdanymr** (1)
+	* **ferdanymr** [1041676] (1)
 
-		
 		muchas gracias por el aporte bro!
 
-	* **Jose Luis Colmenares** (1)
+	* **Jose Luis Colmenares** [1041676] (1)
 
-		
 		Gracias! Esto era justo lo que yo quería hacer!
 
-* **Mario Uriarte Amaya** (4)
+* **Mario Uriarte Amaya** (4) [894741](https://platzi.com/comentario/894741/) 
 
-	
 	Les dejo una guia para instalar Postgresql usando Docker.
 	
 	<https://www.mariouriarte.com/2020/01/instalar-postgres-en-docker/>
 
-* **erickfve** (3)
+* **erickfve** (3) [919580](https://platzi.com/comentario/919580/) 
 
-	
 	Me salió un error que indicaba que no podía borrar la base de datos porque estaba siendo usada desde otra sesión, la cuál me imagino que es de sql shell, así que me moví a la base de datos por defecto (postgres)
 	``` 
 	    \c postgres
@@ -519,27 +460,23 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	
 	Luego pude eliminar exitosamente la base de datos desde pgAdmin despues de actualizar la página.
 
-* **edwintrumpet** (3)
+* **edwintrumpet** (3) [918562](https://platzi.com/comentario/918562/) 
 
-	
 	Para los usuarios **Ubuntu** hice este tutorial de la instalación de Postgres y de la interfaz visual pgAdmin.  
 	Cualquier cosa que agregar me comentan 😬  
 	<https://platzi.com/tutoriales/1480-postgresql/4775-instalacion-de-postgresql-en-ubuntu-1804/>
 
-	* **Cristopher Gonzalez** (1)
+	* **Cristopher Gonzalez** [918562] (1)
 
-		
 		Hola, consulta sabes la contraseña por defecto del usuario postgres? instale y no puse la contraseña, y cuando me trato de conectar por dbeaver o pgadmin no me reconoce la cuenta con la contraseña vacia
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [918562] (1)
 
-		
 		Depende de la instalación a veces es “postgres”, a veces viene vacío pero igual no le reconoce la contraseña vacía por lo que toca cambiarla o toca cambiar los archivos de configuración de postgres para que acepte la conexión de pgAdmin con la contraseña vacía.  
 		Lo más sencillo es que cambie la contraseña y en las siguientes clases verá como se cambia ese requerimiento en los archivos de configuración.
 
-	* **jairhop** (1)
+	* **jairhop** [918562] (1)
 
-		
 		Si están trabajando con Windows Subsystem for Linux (WSL), instalen XMING en Windows y en Linux:
 		``` 
 		    jair@TOSHIBA:~$ sudo apt-get update
@@ -549,79 +486,65 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 		    
 		```
 
-* **Angel Hernandez** (3)
+* **Angel Hernandez** (3) [861586](https://platzi.com/comentario/861586/) 
 
-	
 	Para la instalacion en LINUX, especificamente Ubuntu es recomendado crear una maquina virtual Ubuntu Server y seguir la documentacion oficial [Ubuntu PostgreSQL](https://www.postgresql.org/download/linux/ubuntu/)
 
-* **JOSE PEREZ** (3)
+* **JOSE PEREZ** (3) [836940](https://platzi.com/comentario/836940/) 
 
-	
 	¿Pueden hacer demos de instalaciones no tan básicas para linux? por ejemplo instalar por consola pero no en la ubicación por defecto si no en otra en especifico, configurar el idioma, configurar logs.
 	
 	Gracias
 
-* **TUDz** (3)
+* **TUDz** (3) [836044](https://platzi.com/comentario/836044/) 
 
-	
 	La instalación en MacOS sin ningún problema siguiendo las mismas instrucciones pero con diferente instalador.
 
-* **juanma_9206** (2)
+* **juanma_9206** (2) [1103894](https://platzi.com/comentario/1103894/) 
 
-	
 	El paso a paso estuvo más que estupendo! Así se hace un paso a paso.
 
-* **ejgachancipa** (2)
+* **ejgachancipa** (2) [1101680](https://platzi.com/comentario/1101680/) 
 
-	
 	[Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
 
-	* **Jesus Alejandro Lechuga Ortega** (1)
+	* **Jesus Alejandro Lechuga Ortega** [1101680] (1)
 
-		
 		¡Gracias!,era lo que estaba buscando
 
-* **Decgar** (2)
+* **Decgar** (2) [1008251](https://platzi.com/comentario/1008251/) 
 
-	
 	Si les salta un error que dice que la base de datos está siendo usada por otro usuario al querer borrar la base de datos, deben cerrar la ventana de comandos SQL Shell.
 
-	* **mauricio-vazqui** (1)
+	* **mauricio-vazqui** [1008251] (1)
 
-		
 		Gracias por tu aporte!!
 
-* **Maxc_Martinez** (2)
+* **Maxc_Martinez** (2) [963061](https://platzi.com/comentario/963061/) 
 
-	
 	bueno, si me funciono
 
-* **Israel Yance** (2)
+* **Israel Yance** (2) [938251](https://platzi.com/comentario/938251/) 
 
-	
 	Ningún problema en Mac.
 
-* **Jorge Raúl Piscoya Calderón** (2)
+* **Jorge Raúl Piscoya Calderón** (2) [900509](https://platzi.com/comentario/900509/) 
 
-	
 	Buenas noches;  
 	Para que los que deseen instalar postgresql en debian10. Funciona a la perfección. Deben configurar el password conforme indica el tutorial, sino no podrán usar pgadmin  
 	<https://www.howtoforge.com/tutorial/ubuntu-postgresql-installation/>
 
-* **cob1979** (2)
+* **cob1979** (2) [839621](https://platzi.com/comentario/839621/) 
 
-	
 	Para el que no se acuerde de la contraseña que puso en la instalación de Postgresql (me pasó a mí 😉 aquí les dejo un vídeo que me ayudó a restablecerla <https://www.youtube.com/watch?v=FTiG3VZLK0E>
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [835803](https://platzi.com/comentario/835803/) 
 
-	
 	Listo instalado PostgreSQL en WLS con windows 10.  
 	Para borrar la base hay que salirse de ella o nos generar error.
 
-* **Mon Avellaneda** (2)
+* **Mon Avellaneda** (2) [835494](https://platzi.com/comentario/835494/) 
 
-	
 	Todo perfecto hasta ahora, teniendo en cuenta lo que dice Luis Rodrigo Alvarez sobre la consola.
 	
 	Seguimos.
@@ -630,88 +553,74 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	
 	Mon
 
-* **hydroxseguridad** (2)
+* **hydroxseguridad** (2) [835385](https://platzi.com/comentario/835385/) 
 
-	
 	Todos los pasos de instalacion fueron muy correctas! excelente! me fue muy bien con la instalacion.
 
-* **Pablo nicolas Valenzuela caceres** (1)
+* **Pablo nicolas Valenzuela caceres** (1) [1118289](https://platzi.com/comentario/1118289/) 
 
-	
 	Funcionando todo OK
 
-* **Carlos Naveda** (1)
+* **Carlos Naveda** (1) [1116171](https://platzi.com/comentario/1116171/) 
 
-	
 	Para los que quieran utilizar su terminal preferido, sin iniciar el SQL Shell.  
 	Abren su terminal, y realizan lo siguiente:  
 	![Captura de Pantalla 2020-04-09 a la\(s\) 18.57.35.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-09%20a%20la%28s%29%2018.57.35-a3fffdb1-9e5b-49bc-bb49-c294942461cf.jpg)
 
-* **KevinJZea** (1)
+* **KevinJZea** (1) [1113274](https://platzi.com/comentario/1113274/) 
 
-	
 	Hola. Yo tuve un problema y no encontré la respuesta en los comentarios, así que compartiré cómo lo solucioné, en caso de que a alguien más le pudiese servir:  
 	Tengo Windows 10 y, al igual que a mi compañero @waamayapa, me salió un aviso que decía “The application server could not be contacted”. Lo que yo hice fue ingresar a C:\Users%USERNAME%\AppData\Roaming\pgAdmin en mi explorador de archivos (les recomiendo copiar esa dirección y pegarla en el explorador). Después, borré todo lo que venía dentro de esa carpeta y volví a ejecutar el PgAdmin.  
 	Una vez hecho lo anterior, me funcionó perfectamente.  
 	Si no lo expliqué bien, en este vídeo viene el procedimiento: <https://www.youtube.com/watch?v=LINNoLufvOo>  
 	Un saludo y ¡nunca paren de aprender!
 
-	* **KevinJZea** (1)
+	* **KevinJZea** [1113274] (1)
 
-		
 		El enlace tiene un error. Cuando lo subí de nuevo correctamente, vuelve a causar el mismo error: Debe tener un ‘’ entre ‘Users’ y ‘%USERNAME%’.  
 		Saludos.
 
-* **JaviRome94** (1)
+* **JaviRome94** (1) [1113046](https://platzi.com/comentario/1113046/) 
 
-	
 	excelente explicación si me funciono la instalación gracias.
 
-* **Daniel Cardona Velasquez** (1)
+* **Daniel Cardona Velasquez** (1) [1106868](https://platzi.com/comentario/1106868/) 
 
-	
 	Super bien explicado
 
-* **oscarn2** (1)
+* **oscarn2** (1) [1105240](https://platzi.com/comentario/1105240/) 
 
-	
 	No consigo instalar postgresql.
 	
 	Cuando ejecuto el instalador no me aparece la ventana de Setup.
 	
 	¿A alguno le ha pasado?
 
-	* **Sergio Ivan Galvis Motoa** (2)
+	* **Sergio Ivan Galvis Motoa** [1105240] (2)
 
-		
 		Cuéntanos un poco más de tus errores y del sistema operativo en el que intentas instalar!
 		
 		De pronto necesitas permisos de admin.
 
-* **DonTapas** (1)
+* **DonTapas** (1) [1101578](https://platzi.com/comentario/1101578/) 
 
-	
 	Excelente paso a paso!!! Vamos al lio 😃
 
-* **Daniel Mauricio Sanchez Acebedo** (1)
+* **Daniel Mauricio Sanchez Acebedo** (1) [1032347](https://platzi.com/comentario/1032347/) 
 
-	
 	Muy buen paso a paso para la instalación.
 
-* **cconde** (1)
+* **cconde** (1) [1029079](https://platzi.com/comentario/1029079/) 
 
-	
 	Excelente paso a paso… Todo funcionando
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1020241](https://platzi.com/comentario/1020241/) 
 
-	
 	¿Qué significa los errores que marcan en la parte inferior?  
 	![Captura de pantalla \(82\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2882%29-06766f93-ffdc-4a2f-98e1-f664b28a4421.jpg)
 
-	* **juanma_9206** (2)
+	* **juanma_9206** [1020241] (2)
 
-		
 		Hola Angel, en realidad la “x” no significa error, lo que indica es la opción de terminar ese proceso, es como la “X” para cerrar una ventana del computador o una pestaña del navegador. Si te fijas al lado está otro símbolo cuadrado de color negro, lo que indica es la opción de cancelar la consulta que se ha hecho.
 		
 		Además te contextualizo el nombre de algunas de las columnas por si fuera de tu interés:
@@ -723,102 +632,84 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 		
 		Nota: Dejo la fuente de consulta: <https://www.pgadmin.org/docs/pgadmin4/3.6/pgadmin_tabbed_browser.html>
 
-* **Claudio Sebastian Bolvaran Toro** (1)
+* **Claudio Sebastian Bolvaran Toro** (1) [1009828](https://platzi.com/comentario/1009828/) 
 
-	
 	Hola Buenas tardes,  
 	Hay algún comando para deslogearse de transporte_publico? o como opción volver a la base por defecto postgres…
 
-	* **JoelNieto** (1)
+	* **JoelNieto** [1009828] (1)
 
-		
 		Hola, hasta donde tengo conocimiento dentro de la interfaz es posible moverse entre las diferentes Bases de Datos que tenemos sin la necesidad de cerrar sesión en alguna BD en particular.
 
-* **william albeiro amaya patiño** (1)
+* **william albeiro amaya patiño** (1) [1006580](https://platzi.com/comentario/1006580/) 
 
-	
 	me sale este error the application server could not be contacted
 
-* **Raul Hernandez** (1)
+* **Raul Hernandez** (1) [988771](https://platzi.com/comentario/988771/) 
 
-	
 	Para los usuarios de macOS al momento del paso de borrar la base no debemos tener abierta la terminal con la base de datos transporte_publico ya que muestra una alerta de uso en otra instancia.
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [954824](https://platzi.com/comentario/954824/) 
 
-	
 	Excelente explicación aun siendo solo de lectura!
 
-* **Pacool84** (1)
+* **Pacool84** (1) [951438](https://platzi.com/comentario/951438/) 
 
-	
 	Es el primer curso en donde explican la instalacion de la herramienta solo en un sistema operativo, creo conveniente que coloquen la documentación como en el curso de Fundamentos de Base de Datos.
 
-* **cristhiandelacruzperu** (1)
+* **cristhiandelacruzperu** (1) [936698](https://platzi.com/comentario/936698/) 
 
-	
 	Hola a todos, tengo un problema con la instalación, quizás tambien les mostro un mensaje de error: “la inicialización del clúster de la base de datos falló…”, además, al abrir el sql shell, al dar enter despues del usuario (para ingresar la contrseña) me muestra: “psql: no se pudo conectar con el servidor: Connection refused (0x0000274D/10061)  
 	¿Está el servidor en ejecución en el servidor «localhost» (::1) y aceptando  
 	conexiones TCP/IP en el puerto 5432?..”, su apoyo por favor.
 
-* **Jaime Andrés Martínez Rodríguez** (1)
+* **Jaime Andrés Martínez Rodríguez** (1) [930768](https://platzi.com/comentario/930768/) 
 
-	
 	Todo perfecto!
 
-* **william albeiro amaya patiño** (1)
+* **william albeiro amaya patiño** (1) [928726](https://platzi.com/comentario/928726/) 
 
-	
 	que puedo hacer para solucionar este error: the application server could not be contacted
 
-* **Abril Darynka Tapia Sosa** (1)
+* **Abril Darynka Tapia Sosa** (1) [928079](https://platzi.com/comentario/928079/) 
 
-	
 	Todo OK 👌
 
-* **Diego Gallardo** (1)
+* **Diego Gallardo** (1) [924651](https://platzi.com/comentario/924651/) 
 
-	
 	Me salió error pero como ya vi lineas abajo se tuvo que cerrar el Shell para poder darle drop en el PgAdmin.  
 	Resultado exitoso.
 
-* **Marco Soudre Oliva** (1)
+* **Marco Soudre Oliva** (1) [914505](https://platzi.com/comentario/914505/) 
 
-	
 	Con las instrucciones he podido instalar y comprobar que PostgreSQL y pgAdmin está corriendo bien. Gracias.
 
-* **MaxLandh** (1)
+* **MaxLandh** (1) [911018](https://platzi.com/comentario/911018/) 
 
-	
 	Excelente
 
-* **Luis Fernando Salas Gave** (1)
+* **Luis Fernando Salas Gave** (1) [902596](https://platzi.com/comentario/902596/) 
 
-	
 	Muy buena explicación. Gracias
 
-* **Jorge Leonardo Cárdenas Montenegro** (1)
+* **Jorge Leonardo Cárdenas Montenegro** (1) [894821](https://platzi.com/comentario/894821/) 
 
-	
 	Hola, he instaldo POSTGRESQL 12 en centos 7 según lo indica el manual <https://www.postgresql.org/download/linux/redhat/> .La BD como se observa en la siguiente imagen ya se encuentra funcionando correctamente: ![posgrestsql1.png](https://static.platzi.com/media/user_upload/posgrestsql1-5bb94b38-0080-4a07-b298-3fa2467d26a4.jpg). He ingresado y ejecutado algunas consultas al interior de ella. Asi mismo, se abrio el puerto 5432 del firewall del SO para que sea escuchado por fuera. Sin embargo, al tratar de conectar cualquier cliente, ya sea pgadmin o dbeaver no me deja conectar. Al realizar pruebas de red pude evidenciar que el puerto no esta escuchando el maquina según se puede observa a continuación: ![posgrestsql2.png](https://static.platzi.com/media/user_upload/posgrestsql2-d4601ecb-a0c6-43c6-9f53-e3934d6e1420.jpg) Alguna idea para este caso?
 
-* **Eduard José Carrillo Ortega** (1)
+* **Eduard José Carrillo Ortega** (1) [839818](https://platzi.com/comentario/839818/) 
 
-	
 	¡Ayuda! me sale este error 😕
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-adf75d82-df3f-4500-a6a4-b0d787a76e0e.jpg)
 
-	* **Marco Antonio González Arellano** (2)
+	* **Marco Antonio González Arellano** [839818] (2)
 
-		
 		Qué sistema operativo tienes? Si es Windows, intentaste ejecutando el instalador como administrador? clic derecho sobre el instalador / Ejecutar como administrador…
 		
 		Saludos,
 
-* **Favio Sauto** (1)
+* **Favio Sauto** (1) [835844](https://platzi.com/comentario/835844/) 
 
-	
 	Buenas noches comunidad, seguí todos los pasos aquí y al terminar de instalar me apareció este error:
 	``` 
 	    Problem running post-install step. Installation may notcomplete correctly The database cluster initialsation failed.
@@ -842,42 +733,38 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	
 	Logré instalar Postgres en mi subsistema linux pero quisiera saber el por qué por no puedo instalarlo en Windows.
 
-	* **Oz** (3)
+	* **Oz** [835844] (3)
 
-		
 		Hola Favio, el problema puede estar relacionado con los usuarios del sistema operativo o con la configuración regional, para determinar cuál es el problema, en el Panel de Control ve a Región, seleciona “Cambiar fecha, hora o formato” y selecciona la pestaña “Administración/Administrative” Verifica que al hacer clic en “Change system locale… o Cambiar localización del sistema…” este DESmarcada la opción “Beta: Usar Unicode UTF-8 para soporte global”
 
-	* **Favio Sauto** (2)
+	* **Favio Sauto** [835844] (2)
 
-		
 		Se solucionó el error haciendo lo que me dijiste. ¡Muchas Gracias Oswaldo!
 
-## 0040. Interacción con Postgres desde la Consola
+## 0040. Interacción con Postgres desde la Consola [24178](https://platzi.com/clases/1480-postgresql/24178-interaccion-con-postgres-desde-la-consola/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **david-hv** (9)
+* **david-hv** (9) [854398](https://platzi.com/comentario/854398/) 
 
-	
 	****** Comandos básicos de PostgreSQL******
 	
-	  * \l = para listar todas las bases de datos existentes
-	  * \dt = para listar todas las tablas que existen en una base de datos
-	  * \c = para cambiar a otra base de datos
-	  * \d = para describir la base de datos o la tabla
-	  * \h = para ver todas las funciones que podemos ejecutar en PostgreSQL
-	  * SELECT versión(); = para ver la versión de PostgreSQL
-	  * \g = volver a ejecutar la función que justamente acabaste de ejecutar en la consola
-	  * \timing = inicializar el contador de tiempo para que la consola muestre en cada ejecución cuanto se demoro en ejecutar ese comando
+	* \l = para listar todas las bases de datos existentes
+	* \dt = para listar todas las tablas que existen en una base de datos
+	* \c = para cambiar a otra base de datos
+	* \d = para describir la base de datos o la tabla
+	* \h = para ver todas las funciones que podemos ejecutar en PostgreSQL
+	* SELECT versión(); = para ver la versión de PostgreSQL
+	* \g = volver a ejecutar la función que justamente acabaste de ejecutar en la consola
+	* \timing = inicializar el contador de tiempo para que la consola muestre en cada ejecución cuanto se demoro en ejecutar ese comando
 	
 	
 
-* **Luis Rodrigo Alvarez Herrera** (8)
+* **Luis Rodrigo Alvarez Herrera** (8) [834930](https://platzi.com/comentario/834930/) 
 
-	
 	Mi resumen:
 	``` 
 	    \l: Lista todas las bases de datos
@@ -892,9 +779,8 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	    
 	```
 
-* **Abril Darynka Tapia Sosa** (7)
+* **Abril Darynka Tapia Sosa** (7) [928123](https://platzi.com/comentario/928123/) 
 
-	
 	Comandos en porgresql (consola)  
 	• Create database nombre_bd  
 	• \c nombre_bd (Es como si fuera el use DB)  
@@ -907,9 +793,8 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	• \g -> permite volver a ejecutar la función que acabas de ejecutar en la consola  
 	• \timing -> permite activar el contador de tiempo para así saber cuánto se demora una respuesta
 
-* **juanma_9206** (6)
+* **juanma_9206** (6) [1104149](https://platzi.com/comentario/1104149/) 
 
-	
 	Resumen:  
 	Comandos importantes:   
 	Si quiero ver el listado de todos los comandos con \ escribo en consola de postgres: ?
@@ -928,50 +813,44 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	
 	
 
-	* **hugoorlandogonzalez** (1)
+	* **hugoorlandogonzalez** [1104149] (1)
 
-		
 		Gracias
 
-	* **jgarcia990** (1)
-
-		
-		  1. \t Mostrar solo filas. (No muestra los nombres de las columnas)
-		
-		
-
-	* **jgarcia990** (1)
+	* **jgarcia990** [1104149] (1)
 
 		  1. \t Mostrar solo filas. (No muestra los nombres de las columnas)
 		
 		
 
-* **Jaime Andrés Martínez Rodríguez** (6)
+	* **jgarcia990** [1104149] (1)
 
-	
+		  1. \t Mostrar solo filas. (No muestra los nombres de las columnas)
+		
+		
+
+* **Jaime Andrés Martínez Rodríguez** (6) [930781](https://platzi.com/comentario/930781/) 
+
 	Mi resumen
 	
-	  * \l mostrar las bases de datos
-	  * \dt tablas que contiene la base de datos
-	  * \c para cambiar de base de datos
-	  * \d “tabla” describe la estructura de la tabla
-	  * \h todos los comandos de SQL
+	* \l mostrar las bases de datos
+	* \dt tablas que contiene la base de datos
+	* \c para cambiar de base de datos
+	* \d “tabla” describe la estructura de la tabla
+	* \h todos los comandos de SQL
 	
 	
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [930781] (1)
 
-		
 		Estos son los más básicos existen muchos más.
 
-* **PaoloTorregrosa** (4)
+* **PaoloTorregrosa** (4) [939471](https://platzi.com/comentario/939471/) 
 
-	
 	Con ctrl + L pueden limpiar la pantalla
 
-* **TUDz** (4)
+* **TUDz** (4) [836054](https://platzi.com/comentario/836054/) 
 
-	
 	Excelente, me parece muy interesante que Postgres tenga comandos propios tipo Unix Shell para realizar acciones.
 	
 	En Oracle (por ejemplo), para describir una tabla es con la sentencia:
@@ -984,9 +863,8 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	
 	Me parece que la gestión de BD así como de objetos es mucho más sencilla (pero a la vez super poderosa) en POSTGRES.
 
-* **kikega** (3)
+* **kikega** (3) [1046302](https://platzi.com/comentario/1046302/) 
 
-	
 	Instalación de PostgreSQL en Linux
 	``` 
 	    	# Debian
@@ -1023,36 +901,31 @@ Con ello, si el elemento “transporte_publico” desaparece del menú de la izq
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1022306](https://platzi.com/comentario/1022306/) 
 
-	
 	\timing; Con esta función podemos visualizar el tiempo que demora el motor de la base de dato en ejecutar una consulta y con este dato se puede optimizar las consultas.
 
-* **Deiby Johany Avila Gutierrez** (2)
+* **Deiby Johany Avila Gutierrez** (2) [838959](https://platzi.com/comentario/838959/) 
 
-	
 	? Listar comandos.
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [835818](https://platzi.com/comentario/835818/) 
 
-	
 	Entendido, comandos basicos pero que se utilizan a diario.
 
-* **JaviRome94** (2)
+* **JaviRome94** (2) [87256](https://platzi.com/comentario/1116073/) 
 alguien sabe con que comando se puede limpiar la consola de SQL SHELL ?
 
-	* **Carlos Naveda** (2)
+	* **Carlos Naveda** [87256] (2)
 
-		
 		con el comando:
 		``` 
 		    clear
 		    
 		```
 
-* **JaviRome94** (1)
+* **JaviRome94** (1) [1116481](https://platzi.com/comentario/1116481/) 
 
-	
 	**APORTE** :  
 	te aparece este error en la consola de SQL SHELL de PostgreSQL y de CMD cuando ingresas un comando cualquiera
 	
@@ -1074,153 +947,131 @@ alguien sabe con que comando se puede limpiar la consola de SQL SHELL ?
 	
 	y vuelven a abrir CMD y SQL SHELL de PostgreSQL y resuelto el problema espero haberte ayudado.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022299](https://platzi.com/comentario/1022299/) 
 
-	
 	\g; Con esta instrucción se puede saber la versión con la cual se está trabajando en PostgreSQL y parte también se puede visualizar que consultas se están realizando desde otra consola y usuarios.
 
-	* **Carlos Naveda** (1)
+	* **Carlos Naveda** [1022299] (1)
 
-		
 		Me parece que no, \g sirve para volver a repetir la última instrucción que realizaste.  
 		En el ejemplo coincidió que fue la versión, pero no es que sirva para ello.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022293](https://platzi.com/comentario/1022293/) 
 
-	
 	SELECT version(); Con esta instrucción se puede saber la versión con la cual se está trabajando en PostgreSQL.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022288](https://platzi.com/comentario/1022288/) 
 
-	
 	\h; | \h name_comand_sql; Con esta instrucción se puede ver todos los comandos sql que se pueden escribir y utilizamos la misma instrucción acompañada de un comando sql se puede ver como se usa.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022284](https://platzi.com/comentario/1022284/) 
 
-	
 	\d Con esta instrucción describimos la estructura de una tabla.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022277](https://platzi.com/comentario/1022277/) 
 
-	
 	\dt table_name; Con esta instrucción esta instrucción se puede describir cuales tablas tienes una base de dato.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022275](https://platzi.com/comentario/1022275/) 
 
-	
 	\c name_data_bases; Con esta instrucción cambiamos de base de dato.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022273](https://platzi.com/comentario/1022273/) 
 
-	
 	La base de dato de postgres es privada y solo puede acceder el motor.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022272](https://platzi.com/comentario/1022272/) 
 
-	
 	La base de dato de postgres es privada y solo puede acceder el motor.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022262](https://platzi.com/comentario/1022262/) 
 
-	
 	Con \l Listamos todas las bases de datos que tenemos en nuestro motor, por defecto postgres vendrá con 3 bases de datos instaladas. La base de dato de postgres es privada y solo puede acceder el motor.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022258](https://platzi.com/comentario/1022258/) 
 
-	
 	Una de las instrucciones más importante que veremos será los comando con "\"sí deseamos ver más como usarlo y ver otras instrucciones podemos digitar "\?".
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022234](https://platzi.com/comentario/1022234/) 
 
-	
 	Server [local hosts]: Indica el host de para la conexión. Database [postgres]: el nombre de la base datos. Port [5432]: el puerto donde Postgres está funcionando. Username [postgres]: cual usuarios deseamos conectarnos (roles). Contraseña es la contraseña del user
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022229](https://platzi.com/comentario/1022229/) 
 
-	
 	Lo primero que va a pedir son las credenciales de acceso, se debe tomar en cuenta que los valores entre corchetes son los valores por defecto de conexión, sí tenemos algún otro servicio al cual queremos acceder debemos indicarlo de lo contrario.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022226](https://platzi.com/comentario/1022226/) 
 
-	
 	Existen dos formas de acceder al motor de bases de datos de PostgreSQL y es por: 1. Consola y 2. PgAdmin que es el entorno gráfico para acceder a la consola desde
 
-* **paucuaram** (1)
+* **paucuaram** (1) [1018147](https://platzi.com/comentario/1018147/) 
 
-	
 	 **\timing** -> permite inicializar un contador de tiempo para mostrar cuánto se tardó una consulta en ejecutarse.
 
-* **Adrian Castillo Ramírez** (1)
+* **Adrian Castillo Ramírez** (1) [913177](https://platzi.com/comentario/913177/) 
 
-	
 	Si aparece un error al tratar de eliminar la Database desde pgAdmin solo cierra la consola antes escribiendo Exit
 
-* **Luan de Souza** (1)
+* **Luan de Souza** (1) [844879](https://platzi.com/comentario/844879/) 
 
-	
 	No termine siquiera el primer video y me estoy dando cuenta que me voy a volver fan de Postgres, parece mucho más amigable que mysql.
 
-* **JaviRome94** (1)
+* **JaviRome94** (1) [87252](https://platzi.com/comentario/1116000/) 
 hola comunidad ya instale y des instale varias veces el postgres para ver si soluciona los errores de la consola y vean la imagen sigue i...
 
-	* **Carlos Naveda** (1)
+	* **Carlos Naveda** [87252] (1)
 
-		
 		Tienes que cambiar la configuración de codificación de tu consola para que uses el UTF-8 encoding  
 		Referencia: [Link](https://stackoverflow.com/questions/19162055/psql-shell-uses-code-page-850-windows-uses-1252-how-to-solve-change-console-co)  
 		![Captura de Pantalla 2020-04-09 a la\(s\) 19.34.03.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-09%20a%20la%28s%29%2019.34.03-bf30a8dd-f9f7-47b5-9eb8-b64f8b01fc85.jpg)
 
-* **JaviRome94** (1)
+* **JaviRome94** (1) [87119](https://platzi.com/comentario/1113225/) 
 compañeros de platzi por favor ayuda no se porque en la consola de SQL SHELL no me funciona ningún comando cuando escribo eslach y la let...
 
-	* **Miguel Torres** (1)
+	* **Miguel Torres** [87119] (1)
 
-		
 		¿Cuál estás utilizando? 😃
 		
 		/ (slash) o \ (backslash) ???
 		
 		El correcto es backslash ( \ ). Acá más info de todos los comandos: <https://platzi.com/clases/1480-postgresql/24849-comandos-mas-utilizados-en-postgresql/>
 
-* **emercadogarcia** (1)
+* **emercadogarcia** (1) [81807](https://platzi.com/comentario/990182/) 
 Que cliente puedo usar para acceder a postgres? Postgres lo tengo en un servidor.
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [81807] (3)
 
-		
 		Puedes usar PgAdmin, la herramienta que estudiamos en la siguiente clase: <https://platzi.com/clases/1480-postgresql/24179-pgadmin-interaccion-con-postgres-desde-la-interfaz/>. 😉
 
-* **emercadogarcia** (1)
+* **emercadogarcia** (1) [81806](https://platzi.com/comentario/990181/) 
 Que cliente puedo usar para acceder a postgres? Postgres lo tengo en un servidor
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [81806] (1)
 
-		
 		Hiciste la pregunta dos veces. Te respondí aquí: <https://platzi.com/comentario/990182/>. 😉
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [80953](https://platzi.com/comentario/970098/) 
 Con respecto a \g. ¿Me permite ejecutar el comando que ejecuté que ejecutó otro usuario conectado a la misma base de datos ?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [80953] (2)
 
-		
 		¡Hola!
 		
 		No estoy seguro si el con el comando \g podemos acceder a los comandos que ejecutaron el resto de usuarios. Me parece que todos ellos se guardan en el archivo **`.psql_history`**. Pero también creo que se borran. No lo sé.
 		
-		  * <https://www.postgresql.org/docs/9.4/app-psql.html>
+		* <https://www.postgresql.org/docs/9.4/app-psql.html>
 		
 		
 		
 		Aunque sí hay formas de ver los comandos que han ejecutado todos los usuarios de tu base de datos. Estos tutoriales pueden ayudarte:
 		
-		  * <https://chartio.com/resources/tutorials/how-to-log-queries-in-postgresql/>
-		  * <https://stackoverflow.com/questions/8208310/postgresql-how-to-see-which-queries-have-run>
-		  * <https://stackoverflow.com/questions/42747235/loging-activity-for-one-user-on-specific-database-in-postgres>
+		* <https://chartio.com/resources/tutorials/how-to-log-queries-in-postgresql/>
+		* <https://stackoverflow.com/questions/8208310/postgresql-how-to-see-which-queries-have-run>
+		* <https://stackoverflow.com/questions/42747235/loging-activity-for-one-user-on-specific-database-in-postgres>
 		
 		
 
-## 0050. PgAdmin Interacción con Postgres desde la Interfaz Gráfica
+## 0050. PgAdmin Interacción con Postgres desde la Interfaz Gráfica [24179](https://platzi.com/clases/1480-postgresql/24179-pgadmin-interaccion-con-postgres-desde-la-interfaz/)
 
 ### Descripción:
 
@@ -1231,31 +1082,26 @@ Con respecto a \g. ¿Me permite ejecutar el comando que ejecuté que ejecutó ot
 
 ### Comentarios:
 
-* **Mario Uriarte Amaya** (10)
+* **Mario Uriarte Amaya** (10) [894937](https://platzi.com/comentario/894937/) 
 
-	
 	Como corrección, la seccion de languages hace referencia a los lenguajes de programacion que puedes usar dentro de la base de datos. Por ejemplo para construir store procedure. Usualmente se usa SQL pero en postgres puedes usar plsql ( el sql de postgres ) o perl, python, etc.
 	
 	<https://www.postgresqltutorial.com/postgresql-stored-procedures/introduction-to-postgresql-stored-procedures/>
 
-	* **Claudio Sebastian Bolvaran Toro** (2)
+	* **Claudio Sebastian Bolvaran Toro** [894937] (2)
 
-		
 		Buen aporte Mario, ojala lo corrija el profesor, debería… =D
 
-* **Vicente Fernandez** (9)
+* **Vicente Fernandez** (9) [912779](https://platzi.com/comentario/912779/) 
 
-	
 	Me gusta como explica Oswaldo; calmado, simple y paso a paso…
 
-* **Jairo Lachira Peralta** (5)
+* **Jairo Lachira Peralta** (5) [964763](https://platzi.com/comentario/964763/) 
 
-	
 	Por si a alguien se olvidó la password, como a mí jeje: <https://dba.stackexchange.com/questions/44586/forgotten-postgresql-windows-password>
 
-* **Sergio Ivan Galvis Motoa** (2)
+* **Sergio Ivan Galvis Motoa** (2) [1110279](https://platzi.com/comentario/1110279/) 
 
-	
 	En macOS para ejecutar el comando:
 	``` 
 	    plsql -U postgres
@@ -1270,9 +1116,8 @@ Con respecto a \g. ¿Me permite ejecutar el comando que ejecuté que ejecutó ot
 	
 	Revisen la versión de Postgres
 
-* **kikega** (2)
+* **kikega** (2) [1052256](https://platzi.com/comentario/1052256/) 
 
-	
 	Instalación de PGAdmin 4 en Debian 10
 	``` 
 	    # Importamos la llave del repositorio
@@ -1288,146 +1133,123 @@ Con respecto a \g. ¿Me permite ejecutar el comando que ejecuté que ejecutó ot
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1022716](https://platzi.com/comentario/1022716/) 
 
-	
 	Languages - Languages hace referencia a los lenguajes de programación que puedes usar dentro de la base de datos. Por ejemplo para construir store procedure. Usualmente se usa SQL pero en postgres puedes usar plsql ( el sql de postgres ) o perl, python, etc.
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [835833](https://platzi.com/comentario/835833/) 
 
-	
 	Buena explicacion.
 
-* **andoni** (2)
+* **andoni** (2) [75589](https://platzi.com/comentario/872320/) 
 Me confundió un poco la creación del server… Para que se crea uno nuevo, por ejemplo en este caso “MIDBOFI” si tiene el mismo contenido e...
 
-	* **David Rueda** (2)
+	* **David Rueda** [75589] (2)
 
-		
 		Hola andoni:
 		
 		En esta actividad se presenta el procedimiento para establecer conexiones a otros servidores, y ver bases de datos disponibles en este.
 		
 		Aunque en el ejemplo se está conectando al servidor local, es el mismo procedimiento que se sigue para conectarse con un servidor remoto.
 
-* **ALBERTO MONTERRUBIO PEÑA** (2)
+* **ALBERTO MONTERRUBIO PEÑA** (2) [73588](https://platzi.com/comentario/837805/) 
 que es un dumi?, ha utilizado el termino en alguna clase pasada, pero aun no se bien a que se refiere, aunque hace como referencia a la b...
 
-	* **jairyara** (4)
+	* **jairyara** [73588] (4)
 
-		
 		Literalmente significa Tonto. Normalmente se utiliza para referirse a un término o temática fácil de entender por cualquier persona sin importar su nivel de experiencia en el tema.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022720](https://platzi.com/comentario/1022720/) 
 
-	
 	Postgres realiza consulta así mismo para saber su estado
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022717](https://platzi.com/comentario/1022717/) 
 
-	
 	Schemas - public- tables Aquí se muestra las tablas de las bases de datos
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022715](https://platzi.com/comentario/1022715/) 
 
-	
 	foreign Data Wrappers - Son acceso a base de datos remoto.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022714](https://platzi.com/comentario/1022714/) 
 
-	
 	Extensions - Son módulos desarrollados por terceros que hacen tareas específicas y podemos instalarla en nuestra base de datos
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022713](https://platzi.com/comentario/1022713/) 
 
-	
 	Event Trigger - Son funciones y que debido a las acciones que se ejecutan en la base de datos conocidas como eventos estas funciones se activan..
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022712](https://platzi.com/comentario/1022712/) 
 
-	
 	catalogs - Contienen información de metadatos y objetos incorporados de Postgres. Es una especie de subdirectorios de tablas.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022711](https://platzi.com/comentario/1022711/) 
 
-	
 	Casts - Controla cómo Postgres lanza de un tipo de datos a otro o también se puede ver como hacer traducción de tipos de datos explícitos
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022709](https://platzi.com/comentario/1022709/) 
 
-	
 	Las bases de datos muestra funciones que si podemos acceder a ella a través de comando por la terminal
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022700](https://platzi.com/comentario/1022700/) 
 
-	
 	Temple0 y temple1 son modelos de bases de datos privadas y estas las usa postgres para crear nuevas bases de datos basados en estos modelos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022694](https://platzi.com/comentario/1022694/) 
 
-	
 	Databases: Nos muestra las bases de datos que tenemos instanciada.login/Group Roles: Muestra los usuarios y roles que están actuando sobre las bases de datos. Tablespaces: Podemos configurar qué tabla se puede guardar en una unidad de almacenamiento.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022689](https://platzi.com/comentario/1022689/) 
 
-	
 	En la pestaña Connection nos pedirá la misma información que se mostraba en consola.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022683](https://platzi.com/comentario/1022683/) 
 
-	
 	En la pestaña general, nos pide el nombre del servidor y a cuál grupo de servidor pertenece, también podemos agregar colores para identificarlos en “background” también podemos añadir comentarios.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022678](https://platzi.com/comentario/1022678/) 
 
-	
 	Crear Conexión Para crear una conexión a la bases de datos utilizando la interfaz gráfica como se hace por la consola nos posicionamos donde dice server y hacemos clic derecho y nos mostrará la opción create->Server...
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022676](https://platzi.com/comentario/1022676/) 
 
-	
 	En la parte superior se puede se visualiza una barra de herramienta que tiene 2 niveles. Nivel 1 es en donde se puede ver las preferencias, exportar los objetos, crear herramientas. Nivel 2 se muestra las opciones propias de las bases de datos que hayamos seleccionado.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1022675](https://platzi.com/comentario/1022675/) 
 
-	
 	Browser - left panel En la sección de la izquierda se puede visualizar todo lo relacionado con los servidores y las bases de datos que tenemo
 
-* **Yesid Anacona** (1)
+* **Yesid Anacona** (1) [873230](https://platzi.com/comentario/873230/) 
 
-	
 	El color rojo no deja ver los titulos, escoger uno mejor la proxima por favor.
 
-* **Eduardo Imery Winterdaal** (1)
+* **Eduardo Imery Winterdaal** (1) [845125](https://platzi.com/comentario/845125/) 
 
-	
 	Para los que estan usando macOs, si al instalar Postgress con el .dmg bajado de la pagina no les crea el enlace en la terminal para ejecutar “psql”, solo tienen que agregar la ruta al PATH y asi porder correr desde cualquier ventana de terminal
 
-* **ejgachancipa** (1)
+* **ejgachancipa** (1) [86774](https://platzi.com/comentario/1104051/) 
 No me aparece PostgreSQL 11, alguien sabe como solucionarlo?
 
-* **Angel Daniel Mendieta Castillo** (1)
+* **Angel Daniel Mendieta Castillo** (1) [86689](https://platzi.com/comentario/1101443/) 
 El PGAdmin 3 que tan recomendado es o eso depende de el que se entienda mejor para nosotros trabajar ?
 
-* **william albeiro amaya patiño** (1)
+* **william albeiro amaya patiño** (1) [82498](https://platzi.com/comentario/1006590/) 
 me sale este error the application server could not be contacted
 
-	* **Angel Daniel Mendieta Castillo** (1)
+	* **Angel Daniel Mendieta Castillo** [82498] (1)
 
-		
 		no se pudo contactar al servidor de aplicaciones postgresql.  
 		este vídeo te puede ayudar a solucionar ese problema  
 		<https://www.youtube.com/watch?v=LINNoLufvOo>
 
-* **Hugo César** (1)
+* **Hugo César** (1) [81646](https://platzi.com/comentario/986002/) 
 Alguien sabe donde puedo conseguir una base de datos? No tengo ninguna y seria para practicar.
 
-	* **Massimo Di Berardino** (1)
+	* **Massimo Di Berardino** [81646] (1)
 
-		
 		Hola Cesar, [acá](https://www.postgresqltutorial.com/postgresql-sample-database/) puedes encontrar una DB para practicar tiene 15 tablas con algunas tablas pivots, espero que te sea util, saludos!
 
-## 0060. Archivos de Configuración
+## 0060. Archivos de Configuración [24180](https://platzi.com/clases/1480-postgresql/24180-archivos-de-configuracion/)
 
 ### Descripción:
 
@@ -1442,35 +1264,32 @@ Alguien sabe donde puedo conseguir una base de datos? No tengo ninguna y seria p
 
 ### Comentarios:
 
-* **Luis Rodrigo Alvarez Herrera** (5)
+* **Luis Rodrigo Alvarez Herrera** (5) [841698](https://platzi.com/comentario/841698/) 
 
-	
 	Mi resumen:
 	
 	Los archivos de configuración son tres principales:
 	
-	  * postgreql.conf
-	  * pg.hba.conf
-	  * pg_ident.conf
+	* postgreql.conf
+	* pg.hba.conf
+	* pg_ident.conf
 	
 	
 	
 	La ruta de los mismos depende del sistema Operarivo, para saber que que ruta estan, basta con hacer una Query
 	
-	  * SHOW config_file;
+	* SHOW config_file;
 	
 	
 	
 	NOTA: siempre es bueno hacer una copia original de los archivos antes de modificarlos por si movemos algo que no.
 
-	* **Vicente Fernandez** (1)
+	* **Vicente Fernandez** [841698] (1)
 
-		
 		pg_hba.conf *
 
-* **dbzdavidbaez** (5)
+* **dbzdavidbaez** (5) [836235](https://platzi.com/comentario/836235/) 
 
-	
 	Muy interesante e importante
 	``` 
 	    SHOW config_file;
@@ -1479,9 +1298,8 @@ Alguien sabe donde puedo conseguir una base de datos? No tengo ninguna y seria p
 	
 	/etc/postgresql/10/main/postgresql.conf
 
-* **TUDz** (4)
+* **TUDz** (4) [836220](https://platzi.com/comentario/836220/) 
 
-	
 	Resumen de archivos de configuración.
 	
 	A través de la sentencia SHOW CONFIG se nos muestra donde están los archivos de configuración. En mi caso la ruta es:  
@@ -1497,105 +1315,86 @@ Alguien sabe donde puedo conseguir una base de datos? No tengo ninguna y seria p
 	
 	**pg_ident.conf** : Permite realizar el mapeo de usuarios. Permite definir roles a usuarios del sistema operativo donde se ejecuta postgres.
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [1114789](https://platzi.com/comentario/1114789/) 
 
-	
 	Esto es oro. 😮
 
-* **Francisco de Castro** (1)
+* **Francisco de Castro** (1) [1057360](https://platzi.com/comentario/1057360/) 
 
-	
 	la consulta "show config_file; " (No es una consulta de SqL no?)
 
-	* **Oz** (3)
+	* **Oz** [1057360] (3)
 
-		
 		según el estandar SQL no, pero si es una consulta a postgresql que internamente usa el mismo motor de SQL para resolver
 
-	* **Francisco de Castro** (1)
+	* **Francisco de Castro** [1057360] (1)
 
-		
 		ah perfecto muchas gracias!!
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024351](https://platzi.com/comentario/1024351/) 
 
-	
 	pg_ident.conf: Específicamente esto nos sirve para mapear usuarios. Esto es funcional para darle permisos a una cuenta local de equipo permisos de administrador
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024343](https://platzi.com/comentario/1024343/) 
 
-	
 	En METHOD = deny sirve para denegar a una ip específica o servicio que se deniega el acceso. Esto es muy funcional para un servicio maligno.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024339](https://platzi.com/comentario/1024339/) 
 
-	
 	En METHOD = trust, esto sirve para que los usuarios desde cierto pool de ip no tenga que autenticarse.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024298](https://platzi.com/comentario/1024298/) 
 
-	
 	Todos los valores comentados en los archivos son los valores por defectos, para cambiar los valores se debe descomentar y cambiar el valor. También hay que tener en cuanta que la bases de datos toma en cuenta estos valores solo en el siguiente reinicio.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024287](https://platzi.com/comentario/1024287/) 
 
-	
 	postgresql.conf: En este fichero podemos cambiar los parámetros de PostgreSQL por ejemplo en la sección Connection Settings se cambia las conexiones máxima, el socket cuales IP le podemos dar acceso. Este un archivo que básicamente se rige por para =valor
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024253](https://platzi.com/comentario/1024253/) 
 
-	
 	SHOW config_file; Con la anterior sentencia podemos ver la ruta de los archivos de configuración de postgres
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1024233](https://platzi.com/comentario/1024233/) 
 
-	
 	Existen tres archivos importantes para realizar configuraciones extras y también corregir el 99 % de los errores en nuestro motor de bases de datos cuando queremos agregar servicios y son: 1.postgresql.conf, 2.pg_hba.conf, 3.pg_iden.conf
 
-* **Vicente Fernandez** (1)
+* **Vicente Fernandez** (1) [913319](https://platzi.com/comentario/913319/) 
 
-	
 	En mac no puedo abrir la carpeta “data”, me dice que no tengo permiso para hacerlo.
 
-	* **Israel Yance** (2)
+	* **Israel Yance** [913319] (2)
 
-		
 		Puedes ver el archivo en consola usando sudo:
 		``` 
 		    sudo cat /Library/PostgreSQL/11/data/postgresql.conf
 		    
 		```
 
-	* **Israel Yance** (1)
+	* **Israel Yance** [913319] (1)
 
-		
 		En general, usando sudo en consola puedes hacer cualquier cosa, ver o editar los archivos.
 
-* **Adrian Castillo Ramírez** (1)
+* **Adrian Castillo Ramírez** (1) [913253](https://platzi.com/comentario/913253/) 
 
-	
 	Por seguridad solo se debe dejar acceso a todos los usuarios desde el localhost, cuando este en producción seria mejor restringir todos los accesos.
 
-* **MaxLandh** (1)
+* **MaxLandh** (1) [911525](https://platzi.com/comentario/911525/) 
 
-	
 	Hola ¿Alguien sabe que tipo de lenguaje son los archivos config? Es que estoy abriéndolo con Atom.
 
-	* **Adrian Castillo Ramírez** (2)
+	* **Adrian Castillo Ramírez** [911525] (2)
 
-		
 		Es texto plano, cualquier editor debería poder abrirlo
 
-* **JOSE PEREZ** (1)
+* **JOSE PEREZ** (1) [836954](https://platzi.com/comentario/836954/) 
 
-	
 	Estimados,
 	
 	una consulta, ¿como podria configurar los archivos pg_hba.conf y/o postgres.conf para poder hacer que la autenticación de los usuarios sea Windows Authentication?
 
-	* **Oz** (6)
+	* **Oz** [836954] (6)
 
-		
 		Para ello debes modificar los archivos pg_ident y pg_hba, debes hacer algo asi:  
 		En ident agrega el mapeo al usuario local de windows. si tienes usuario propio o vas a crear usuario en windows para conectarse, supongamos que oz es el nombre de usuario :  
 		`
@@ -1615,17 +1414,16 @@ Alguien sabe donde puedo conseguir una base de datos? No tengo ninguna y seria p
 		Recuerda reiniciar el servicio de postgres despues de guardar estos cambios para que tengan efecto.  
 		Ahora si intentas acceder a postgres usando el usuario oz y estas conectado en windows con el usuario oz no deberia pedirte clave.
 
-* **Angel Daniel Mendieta Castillo** (1)
+* **Angel Daniel Mendieta Castillo** (1) [86695](https://platzi.com/comentario/1101556/) 
 En que lugar veo encuentro los diferentes usuarios de la DB y los permisos que tiene cada uno de dichos usuarios ?
 
-	* **Nestor Gerardo Gonzalez Roque** (1)
+	* **Nestor Gerardo Gonzalez Roque** [86695] (1)
 
-		
 		puedes ver los usuarios usando el comando de postgres \du  
 		los permisos se los otorgas a las diferente bases o tablas y cuando las describes puedes ver quien es el dueño de cada una o puedes usar \du+ para ver que roles tiene cada usuario te recomiendo leer el siguiente articulo para que entiendas un poco mas  
 		<https://www.linuxito.com/gnu-linux/nivel-alto/840-roles-y-permisos-en-postgresql>
 
-## 0070. Comandos más utilizados en PostgreSQL
+## 0070. Comandos más utilizados en PostgreSQL [24849](https://platzi.com/clases/1480-postgresql/24849-comandos-mas-utilizados-en-postgresql/)
 
 ### Descripción:
 
@@ -1644,11 +1442,11 @@ Después de emitir un comando PostgreSQL, recibirás comentarios del servidor in
 
 En consola los dos principales comandos con los que podemos revisar el todos los comandos y consultas son:
 
-  * **`\?`** Con el cual podemos ver la lista de todos los comandos disponibles en consola, comandos que empiezan con backslash ()
+* **`\?`** Con el cual podemos ver la lista de todos los comandos disponibles en consola, comandos que empiezan con backslash ()
 
 ![2.png](https://static.platzi.com/media/user_upload/2-f3fd936e-bdb2-4583-afce-1899ca222a77.jpg)
 
-  * **`\h`** Con este comando veremos la información de todas las consultas SQL disponibles en consola. Sirve también para buscar ayuda sobre una consulta específica, para buscar información sobre una consulta específica basta con escribir **`\h`** seguido del inicio de la consulta de la que se requiera ayuda, así: **`\h ALTER`**
+* **`\h`** Con este comando veremos la información de todas las consultas SQL disponibles en consola. Sirve también para buscar ayuda sobre una consulta específica, para buscar información sobre una consulta específica basta con escribir **`\h`** seguido del inicio de la consulta de la que se requiera ayuda, así: **`\h ALTER`**
 
 
 
@@ -1658,51 +1456,51 @@ De esta forma podemos ver toda la ayuda con respecto a la consulta **_ALTER_**
 
 **_Comandos de navegación y consulta de información_**
 
-  * **`\c`** Saltar entre bases de datos
+* **`\c`** Saltar entre bases de datos
 
-  * **`\l`** Listar base de datos disponibles
+* **`\l`** Listar base de datos disponibles
 
-  * **`\dt`** Listar las tablas de la base de datos
+* **`\dt`** Listar las tablas de la base de datos
 
-  * **`\d<nombre_tabla>`** Describir una tabla
+* **`\d<nombre_tabla>`** Describir una tabla
 
-  * **`\dn`** Listar los esquemas de la base de datos actual
+* **`\dn`** Listar los esquemas de la base de datos actual
 
-  * **`\df`** Listar las funciones disponibles de la base de datos actual
+* **`\df`** Listar las funciones disponibles de la base de datos actual
 
-  * **`\dv`** Listar las vistas de la base de datos actual
+* **`\dv`** Listar las vistas de la base de datos actual
 
-  * **`\du`** Listar los usuarios y sus roles de la base de datos actual
+* **`\du`** Listar los usuarios y sus roles de la base de datos actual
 
 
 
 
 **_Comandos de inspección y ejecución_**
 
-  * **`\g`** Volver a ejecutar el comando ejecutando justo antes
+* **`\g`** Volver a ejecutar el comando ejecutando justo antes
 
-  * **`\s`** Ver el historial de comandos ejecutados
+* **`\s`** Ver el historial de comandos ejecutados
 
-  * **`\s<nombre_archivo>`** Si se quiere guardar la lista de comandos ejecutados en un archivo de texto plano
+* **`\s<nombre_archivo>`** Si se quiere guardar la lista de comandos ejecutados en un archivo de texto plano
 
-  * **`\i<nombre_archivo>`** Ejecutar los comandos desde un archivo
+* **`\i<nombre_archivo>`** Ejecutar los comandos desde un archivo
 
-  * **`\e`** Permite abrir un editor de texto plano, escribir comandos y ejecutar en lote. **\e** abre el editor de texto, escribir allí todos los comandos, luego guardar los cambios y cerrar, al cerrar se ejecutarán todos los comandos guardados.
+* **`\e`** Permite abrir un editor de texto plano, escribir comandos y ejecutar en lote. **\e** abre el editor de texto, escribir allí todos los comandos, luego guardar los cambios y cerrar, al cerrar se ejecutarán todos los comandos guardados.
 
-  * **`\ef`** Equivalente al comando anterior pero permite editar también funciones en PostgreSQL
+* **`\ef`** Equivalente al comando anterior pero permite editar también funciones en PostgreSQL
 
 
 
 
 **_Comandos para debug y optimización_**
 
-  * **`\timing`** Activar / Desactivar el contador de tiempo por consulta
+* **`\timing`** Activar / Desactivar el contador de tiempo por consulta
 
 
 
 **_Comandos para cerrar la consola_**
 
-  * **`\q`** Cerrar la consola
+* **`\q`** Cerrar la consola
 
 
 
@@ -1782,9 +1580,8 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 
 ### Comentarios:
 
-* **dbzdavidbaez** (6)
+* **dbzdavidbaez** (6) [836353](https://platzi.com/comentario/836353/) 
 
-	
 	Resumen de la clase
 	``` 
 	    SELECTVERSION();
@@ -1815,85 +1612,71 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 	    
 	```
 
-* **SergioRubiano** (4)
+* **SergioRubiano** (4) [965414](https://platzi.com/comentario/965414/) 
 
-	
 	Creo que esta clase debería estar al comienzo antes de entrar a la consola y luego que el profesor la explicara como lo hizo en clase numero 4 😃
 
-* **Adrian Castillo Ramírez** (4)
+* **Adrian Castillo Ramírez** (4) [913258](https://platzi.com/comentario/913258/) 
 
-	
 	Algo importante es siempre hacer un select where antes de un delete ya que si no podrias elimitar toda tu tabla o base de datos;
 
-* **Juan Carlos Valencia López** (3)
+* **Juan Carlos Valencia López** (3) [836102](https://platzi.com/comentario/836102/) 
 
-	
 	El mio no se demoró demasidado  
 	Time: 0.303 ms
 
-* **Abril Darynka Tapia Sosa** (2)
+* **Abril Darynka Tapia Sosa** (2) [928623](https://platzi.com/comentario/928623/) 
 
-	
 	Esto me esta gustando (• ◡ •)/
 
-* **Ramírez Paredes Jhon** (2)
+* **Ramírez Paredes Jhon** (2) [903789](https://platzi.com/comentario/903789/) 
 
-	
 	Duración : 0.483 ms
 
-* **andoni** (2)
+* **andoni** (2) [873387](https://platzi.com/comentario/873387/) 
 
-	
 	Alguien sabe cómo puedo instalar el historial o sabe por qué no me deja?  
 	![h.JPG](https://static.platzi.com/media/user_upload/h-20558f96-5757-4d68-a2e5-21f0bd092412.jpg)
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [1115784](https://platzi.com/comentario/1115784/) 
 
-	
 	La consulta del MD5 tardó demasiado en el texto de arriba D:
 	
 	A mí solo me dio 0.978 ms
 
-* **Francisco de Castro** (1)
+* **Francisco de Castro** (1) [1057990](https://platzi.com/comentario/1057990/) 
 
-	
 	hago un pregunta por que no es lo mismo poner AUTO_INCREMENT a SERIAL Y por ejemplo character varying (n) a varchar(n)?
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [853934](https://platzi.com/comentario/853934/) 
 
-	
 	El usar operaciones basicas se parece mucho a las otras syntaxis, por ahora no veo diferencias en MYSQL
 
-## 0080. Presentación del Proyecto
+## 0080. Presentación del Proyecto [24181](https://platzi.com/clases/1480-postgresql/24181-presentacion-del-proyecto/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Jaime Andrés Martínez Rodríguez** (2)
+* **Jaime Andrés Martínez Rodríguez** (2) [930870](https://platzi.com/comentario/930870/) 
 
-	
 	Esta DB tendrá muchisimas entidades hahahaha
 
-* **Diego D Ascoli Batista** (2)
+* **Diego D Ascoli Batista** (2) [839065](https://platzi.com/comentario/839065/) 
 
-	
 	Genial
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [836359](https://platzi.com/comentario/836359/) 
 
-	
 	Listo para implementar el proyecto.
 
-* **Jeisson Santiago Cortes Ortiz** (1)
+* **Jeisson Santiago Cortes Ortiz** (1) [983530](https://platzi.com/comentario/983530/) 
 
-	
 	Seria bueno integrar bases de datos con lenguajes de programacion en futuros clases.
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [983530] (1)
 
-		
 		Puedes echarle un vistazo a **sqlalchemy** si usas `python`, también hay una librería llamada **pymongo** para Mongo. En lo personal, he usado lo que mencionas para dos cosas:
 		
 		  1. Crear tablas desde un framework con ayuda del ORM, por ejemplo, Django.
@@ -1901,24 +1684,21 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 		
 		
 
-* **raul-fernandez-fuentes** (1)
+* **raul-fernandez-fuentes** (1) [926165](https://platzi.com/comentario/926165/) 
 
-	
 	Quiza agregar tipos o categorias seria genial.
 
-* **miguelangelpglez** (1)
+* **miguelangelpglez** (1) [881209](https://platzi.com/comentario/881209/) 
 
-	
 	El pasajero podría modelarse como:
 	
 	**pasajero** (numero de tarjeta de acceso, estacion de entrada, hora de entrada)
 
-* **adriangonw77** (1)
+* **adriangonw77** (1) [880531](https://platzi.com/comentario/880531/) 
 
-	
 	me parece genial para empezar a enteder esta nueva base de datos
 
-## 0090. Tipos de datos
+## 0090. Tipos de datos [24182](https://platzi.com/clases/1480-postgresql/24182-tipos-de-datos/)
 
 ### Descripción:
 
@@ -1931,9 +1711,8 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 
 ### Comentarios:
 
-* **Juan Carlos Valencia López** (3)
+* **Juan Carlos Valencia López** (3) [836107](https://platzi.com/comentario/836107/) 
 
-	
 	Tipos de datos
 	
 	Principales:  
@@ -1950,9 +1729,8 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 	XML, JSON: Postgres no permite guardar en estos formatos  
 	Arreglos: Vectores y Matrices
 
-* **miguelangelpglez** (2)
+* **miguelangelpglez** (2) [881249](https://platzi.com/comentario/881249/) 
 
-	
 	El tipo de dato TIMESTAMP, almacena fechas con zona horaria  
 	Por ejemplo:
 	
@@ -1960,23 +1738,20 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 	
 	Este formato incluye fecha, hora y el -06 es la zona horaria.
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [836626](https://platzi.com/comentario/836626/) 
 
-	
 	Muy interesante
 	
 	[Tipos de datos relevantes en PostgreSQL](https://www.ibiblio.org/pub/linux/docs/LuCaS/Tutoriales/NOTAS-CURSO-BBDD/notas-curso-BD/node134.html)
 
-* **TUDz** (2)
+* **TUDz** (2) [836228](https://platzi.com/comentario/836228/) 
 
-	
 	La ventaja de tener un tipo de dato dedicado a XML o JSON es que puedes almacenarlo en la BD para posterior, a través de una tarea programada o un Stored Procedure, proceder a la lectura, descomposición y manipulación contenida en dichos documentos. Todo esto, ya queda del lado de la BD por lo que a nuestro web service (o lenguaje backend en turno) se le quita cierta carga de procesamiento.
 	
 	¡Saludos!
 
-* **raymundoortegaflores** (1)
+* **raymundoortegaflores** (1) [872969](https://platzi.com/comentario/872969/) 
 
-	
 	1.- Boolean  
 	2.- Character # types such as char, varchar, and text.  
 	3.- Numeric types such as integer and floating-point number.  
@@ -1987,7 +1762,7 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 	8.- hstore stores key-value pair  
 	9.- Special types such as network address and geometric data.
 
-## 0100. Diseño de la solución del Proyecto
+## 0100. Diseño de la solución del Proyecto [24183](https://platzi.com/clases/1480-postgresql/24183-diseno-de-la-solucion-del-proyecto/)
 
 ### Descripción:
 
@@ -1998,9 +1773,8 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 
 ### Comentarios:
 
-* **DiegoADaza** (9)
+* **DiegoADaza** (9) [879419](https://platzi.com/comentario/879419/) 
 
-	
 	Yo por experiencia crearía mejor el nombre de las tablas en Plural:
 	
 	Estaciones  
@@ -2009,99 +1783,81 @@ Ahora que sabes como manejar algunos de los comandos más utilizados en PostgreS
 	
 	Etc Etc
 
-	* **miguelangelpglez** (1)
+	* **miguelangelpglez** [879419] (1)
 
-		
 		Estoy de acuerdo.
 
-	* **David Rueda** (3)
+	* **David Rueda** [879419] (3)
 
-		
 		Esta misma recomendación la entregan en el curso de conceptos de bases de datos.
 
-	* **David Morán** (1)
+	* **David Morán** [879419] (1)
 
-		
 		Claro, porque las tablas no van contener una unica información
 
-	* **Adrian Castillo Ramírez** (1)
+	* **Adrian Castillo Ramírez** [879419] (1)
 
-		
 		Creo que tambien depende de que sistema uses, por ejemplo Django Admin le agrega una s al final por lo que si el modelo se llama Estaciones en el admin lo reflejaria como estacioness
 
-	* **David Morán** (1)
+	* **David Morán** [879419] (1)
 
-		
 		Muchas gracias mis estimados.
 
-* **Andres Rivera** (7)
+* **Andres Rivera** (7) [835467](https://platzi.com/comentario/835467/) 
 
-	
 	Esta dañdo el video!!! dura 2 horas
 
-	* **Oz** (5)
+	* **Oz** [835467] (5)
 
-		
 		Gracias por el aviso, se está corrigiendo.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [835467] (2)
 
-		
 		¡Ya lo solucionaron! 🎉
 
-* **Abril Darynka Tapia Sosa** (6)
+* **Abril Darynka Tapia Sosa** (6) [928780](https://platzi.com/comentario/928780/) 
 
-	
 	![Modelo Relacional](![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-37dabc12-1db1-4362-9c90-c9e4c65125c0.jpg)
 
-	* **Jaime Andrés Martínez Rodríguez** (1)
+	* **Jaime Andrés Martínez Rodríguez** [928780] (1)
 
-		
 		Gracias!
 
-	* **Jeisson Santiago Cortes Ortiz** (1)
+	* **Jeisson Santiago Cortes Ortiz** [928780] (1)
 
-		
 		Nice
 
-* **Marco Soudre Oliva** (4)
+* **Marco Soudre Oliva** (4) [914773](https://platzi.com/comentario/914773/) 
 
-	
 	No quedé conforme con el argumento de la relación entre la Tabla PASAJERO y la de VIAJE (y coincido con los amigos que dicen que debiesen ser en Plural) ya que la acción debiese darse con los verbo “Puede” y “Toma”. En esto las preguntas sería "¿Un pasajero puede tomar muchos viajes?, Sí " y la otra sería “¿Un viaje puede ser tomado por muchos pasajeros?, Si”. Por lo tanto, la relación sería de N:N y esto se debe romper creando una tabla intermedia débil. Es mi humilde opinión. Saludos.
 
-	* **Vicente Fernandez** (3)
+	* **Vicente Fernandez** [914773] (3)
 
-		
 		La tabla viaje tiene el campo id_pasajero, por lo que corresponde a un pasajero único. Pienso que cada renglón de la tabla viaje representará el trayecto que recorre cada pasajero. Por lo que coincido con el profesor, la relación seria de 1:N.
 
-* **Juan Carlos Valencia López** (3)
+* **Juan Carlos Valencia López** (3) [836109](https://platzi.com/comentario/836109/) 
 
-	
 	Cuanto dura en si el video?
 	
 	en el min 2:40 ya no carga
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [836109] (2)
 
-		
 		Ya lo solucionaron. La clase dura 13 minutos. Puedes volver probar si funciona. 💪
 
-* **andoni** (3)
+* **andoni** (3) [75666](https://platzi.com/comentario/873680/) 
 Si la relación entre trayecto y viaje es muchos a muchos tendría que realizarse una tercera tabla no?
 
-	* **David Rueda** (1)
+	* **David Rueda** [75666] (1)
 
-		
 		Ando ni, efectivamente en ese tipo de relación debe crearse una tercera tabla que asocie las tablas de Trayectos y Viajes.
 
-* **Francisco de Castro** (2)
+* **Francisco de Castro** (2) [1059355](https://platzi.com/comentario/1059355/) 
 
-	
 	En el caso por ejemplo que en la tabla trayecto quiero poner id_estacion1 (la de origen) y otro id_estacion2 (la de destino), tengo que referencias ambas columnas de la tabla trayecto al id de estacion? o hacer dos tablas iguales de estacion pero que una sea origen y otra destino?
 
-	* **JosBryan** (1)
+	* **JosBryan** [1059355] (1)
 
-		
 		estas confundido amigo, mira lo que pasa con por ejemplo con persona es que creas una clase, o bien o tipo de objeto con atributos que listas. Esto mediante un proceso de abstracción en que generalizas las cosas siguiendo como con ejemplo de persona, en este caso no te importa su color, o su religion son datos irrelevantes, ailas los datos que te importan; nombre, dirección, fecha_de_registro.
 		
 		y comienzas a crear objetos a partir de la clase por ejemplo la clase es persona y un objeto es algo ya especifico como Juan, José, Etc.
@@ -2122,139 +1878,118 @@ Si la relación entre trayecto y viaje es muchos a muchos tendría que realizars
 		de esta forma tienes un trayecto llamada “corto” que va de “pinoSuarez” a "tasqueña"  
 		todo gracias al id que en relidad es una forma de referenciar a un objeto (registro) con todos sus atributos, evitando redundancia de datos
 
-	* **Francisco de Castro** (2)
+	* **Francisco de Castro** [1059355] (2)
 
-		
 		Ahh claro Jos! si sii mi pregunta iba bien relacionada a lo que explicaste al ultimo _“y en trayecto teniendo una estructura mas o menos así id, nombre_Ruta, origen_estacion, destino_estacion. tenemos entonces:  
 		1 corto 1 2”_ Esa era mi pregunta.  
 		En conlusión en ese caso va a haber 2 columnas (origen_estacion, destino_estacion) de la tabla **trayectos** que van a tener su referencia en el id de la tabla **estacion**.  
 		Que pensas vos?
 
-	* **JosBryan** (1)
+	* **JosBryan** [1059355] (1)
 
-		
 		sip, así es, aquí el docente lo hizo como viaje en un solo sentido, y como te lo comente seria más como un metro o suburbano.
 
-	* **Francisco de Castro** (1)
+	* **Francisco de Castro** [1059355] (1)
 
-		
 		Perfecto muchas gracias!
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1025388](https://platzi.com/comentario/1025388/) 
 
-	
 	Es Buena práctica como se ve en otros cursos es muy buena práctica tener los nombres de las tablas (sustantivos) en inglés y en plural.
 
-	* **cconde** (1)
+	* **cconde** [1025388] (1)
 
-		
 		el de SQL y MySQL…
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [975410](https://platzi.com/comentario/975410/) 
 
-	
 	Se le puede agregar otra tabla para los boletos que asocie al pasajero, con el tren y el trayecto y dependiendo del tipo de trayecto incluso una habitación.
 
-* **gorydev** (2)
+* **gorydev** (2) [839236](https://platzi.com/comentario/839236/) 
 
-	
 	excelente clase muy buena explicación
 
-* **Wilson Marino Pablo Mendez** (2)
+* **Wilson Marino Pablo Mendez** (2) [837521](https://platzi.com/comentario/837521/) 
 
-	
 	¡Se puede hacer relación de “muchos a muchos”? o crear una tabla debil para esa relación.
 
-	* **Jose Luis Perez** (6)
+	* **Jose Luis Perez** [837521] (6)
 
-		
 		Si se puede. Por lo regular se usa una tabla terciaría con la relación de las dos tablas. La nomenclatura aceptada es la concatenación de las dos tablas ordenadas por orden alfabético, por ejemplo:
 		
 		"trayectos_viajes"  
 		id_trayecto  
 		id_viaje
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [837521] (3)
 
-		
 		De hecho todo esto se aprende en el [Curso de Fundamentos de Bases de Datos](https://platzi.com/clases/bd/), te invito a que le eches un ojo 😄
 
-	* **Deiby Johany Avila Gutierrez** (3)
+	* **Deiby Johany Avila Gutierrez** [837521] (3)
 
-		
 		LO IDEAL ES GENERARL UNA ENTIDAD DEBIL INTERMEDIA ENTRE LAS DOS TABLAS
 
-	* **Wilson Marino Pablo Mendez** (3)
+	* **Wilson Marino Pablo Mendez** [837521] (3)
 
-		
 		Gracias por sus comentarias.
 		
 		SALUDOS!!
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [836627](https://platzi.com/comentario/836627/) 
 
-	
 	Interesante tecnica para diseñar el modelo entidas relacion.
 
-* **OscarGama** (1)
+* **OscarGama** (1) [1099954](https://platzi.com/comentario/1099954/) 
 
-	
 	No es una buena practica tener relaciones muchos a muchos en un diagrama ER.
 	
 	Considero que la relación entre Trayecto y Viaje es de uno a muchos, respectivamente.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1025378](https://platzi.com/comentario/1025378/) 
 
-	
 	Es buena práctica que: Los PRIMARY KEY (clave primaria) que se referencian en los FOREING KEY (clave foránea) de otras tablas deben ser del mismo tipos de datos
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1025374](https://platzi.com/comentario/1025374/) 
 
-	
 	Es buena práctica antes de sentarnos a crear tablas en nuestro modelo sentarnos a realizar el diseño y el proceso recomendado es este: 1. Modelo-Entidad Relación, 2. Modelo Relacional (Modelo Físico), 3.Normalización de datos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1025362](https://platzi.com/comentario/1025362/) 
 
-	
 	Es buena práctica al modelar, saber cuales son nuestras relaciones(tablas o entidades) y para ello pensamos en cuales son los objetos tangibles en nuestro contexto de problema
 
-* **Edgar Román** (1)
+* **Edgar Román** (1) [1024646](https://platzi.com/comentario/1024646/) 
 
-	
 	Corrección: Es un modelo relacional, no un entidad-relación
 
-* **raul-fernandez-fuentes** (1)
+* **raul-fernandez-fuentes** (1) [926185](https://platzi.com/comentario/926185/) 
 
-	
 	Bueno, el modelo depende de la realidad y momento de los datos y sobre todo el espacio para el cual fue creado.
 
-* **miguelangelpglez** (1)
+* **miguelangelpglez** (1) [881255](https://platzi.com/comentario/881255/) 
 
-	
 	En la ciudad de Mexico existe un sistema de Transporte de Autobuses co rutas fijas que cubren gran parte de la ciudad.  
 	El acceso es por medio de una tarjeta CONTACT LESS que da acceso a la estacion. Pero existen estaciones en la acera, en donde no existe acceso; el autobus viene equipado con una terminal lectora de tarjeta para autorizar el acceso por medio de la tarjeta
 
-* **Luis Nilson Palma Campos** (1)
+* **Luis Nilson Palma Campos** (1) [866855](https://platzi.com/comentario/866855/) 
 
-	
 	Cual seria la nueva tabla que se genera entre trayecto y viaje?Seria algo así como el comprobante el cual llevara toda la información?
 
-## 0110. Jerarquía de Bases de Datos
+## 0110. Jerarquía de Bases de Datos [24848](https://platzi.com/clases/1480-postgresql/24848-jerarquia-de-bases-de-datos/)
 
 ### Descripción:
 
 
 Toda jerarquía de base de datos se basa en los siguientes elementos:
 
-  * **Servidor de base de datos:** Computador que tiene un motor de base de datos instalado y en ejecución.
+* **Servidor de base de datos:** Computador que tiene un motor de base de datos instalado y en ejecución.
 
-  * **Motor de base de datos:** Software que provee un conjunto de servicios encargados de administrar una base de datos.
+* **Motor de base de datos:** Software que provee un conjunto de servicios encargados de administrar una base de datos.
 
-  * **Base de datos:** Grupo de datos que pertenecen a un mismo contexto.
+* **Base de datos:** Grupo de datos que pertenecen a un mismo contexto.
 
-  * **Esquemas de base de datos en PostgreSQL:** Grupo de objetos de base de datos que guarda relación entre sí (tablas, funciones, relaciones, secuencias).
+* **Esquemas de base de datos en PostgreSQL:** Grupo de objetos de base de datos que guarda relación entre sí (tablas, funciones, relaciones, secuencias).
 
-  * **Tablas de base de datos:** Estructura que organiza los datos en filas y columnas formando una matriz.
+* **Tablas de base de datos:** Estructura que organiza los datos en filas y columnas formando una matriz.
 
 
 
@@ -2270,20 +2005,20 @@ La base de datos se llama transporte, usaremos su esquema predeterminado public.
 
 El esquema public contiene las siguientes tablas:
 
-  * Estación
+* Estación
 
-  * Pasajero
+* Pasajero
 
-  * Tren
+* Tren
 
 
 
 
 Y las tablas de relaciones entre cada uno de los elementos anteriores son:
 
-  * Trayecto
+* Trayecto
 
-  * Viaje
+* Viaje
 
 
 
@@ -2309,116 +2044,98 @@ Relaciona Trayecto con Pasajero ilustrando la dinámica entre los viajes que rea
 
 ### Comentarios:
 
-* **joaquin-fontela** (6)
+* **joaquin-fontela** (6) [947245](https://platzi.com/comentario/947245/) 
 
-	
 	Pregunta: un trayecto no deberia tener la estacion de inicio y la estacion de fin?
 
-	* **Miguel Anselmo Carbajal Lévano** (3)
+	* **Miguel Anselmo Carbajal Lévano** [947245] (3)
 
-		
 		Pienso lo mismo, tendría mas sentido.
 
-	* **Carlos Arturo Gutierrez Gonzalez** (2)
+	* **Carlos Arturo Gutierrez Gonzalez** [947245] (2)
 
-		
 		Si debería tenerla tiene mas sentido a que solo contenga la estación de salida
 
-	* **ddragaid** (1)
+	* **ddragaid** [947245] (1)
 
-		
 		para eso tienes la tabla viaje
 
-	* **joaquin-fontela** (2)
+	* **joaquin-fontela** [947245] (2)
 
-		
 		@ddragaid la tabla viaje tiene los atributos inicio y fin, pero estos almacenan fechas, no estaciones.
 
-	* **SergioRubiano** (1)
+	* **SergioRubiano** [947245] (1)
 
-		
 		Si debería de tenerlas pero el docente solo se esta fijando en lo mas importante que son lo Id, son atributos que se pondrían poner, pero no los veo necesario ya que lo importante es comprender y para poner mas atributos seria extender la bd sin necesidad
 
-	* **JosBryan** (1)
+	* **JosBryan** [947245] (1)
 
-		
 		a parte de eso siento que lo diseña como sistema de trenes donde salen una ruta siempre es en la misma dirección y las estaciones están localizadas como nodos
 
-* **adriangonw77** (5)
+* **adriangonw77** (5) [880659](https://platzi.com/comentario/880659/) 
 
-	
 	a esto se le llama normalizar verdad? al echo de dejar las entidades lo mas especifico posible aun utilizando mas tablas dejar la informacion lo mejor explicada posible
 
-	* **david-hv** (4)
+	* **david-hv** [880659] (4)
 
-		
 		Así es, son las formas normales que toda base de datos debe tener, se aplican las formas normales 1,2,3,4. entre mas normalices tu base de datos, mejor administrado sera tu BD
 
-	* **Miguel Ángel Muñoz Pozos** (1)
+	* **Miguel Ángel Muñoz Pozos** [880659] (1)
 
-		
 		Así es pero si requieres reforzar estos conocimientos te recomiendo [Fundamentos de Bases de Datos](https://platzi.com/cursos/bd/)
 
-* **CARLOS ANDRES LAUREANO PARRA** (2)
+* **CARLOS ANDRES LAUREANO PARRA** (2) [853808](https://platzi.com/comentario/853808/) 
 
-	
 	cuando es una realcion de muchos a muchos es necesario siempre implementar una tabla intermedia que permita tener una comunicacion entre estas dos?
 
-	* **giovannirugerio** (1)
+	* **giovannirugerio** [853808] (1)
 
-		
 		Según lo aprendido, siempre es recomendable solucionar las relaciones muchos a muchos, pero claro, dependerá de la situación y que tan normalizado quieras el diseño.
 
-	* **Luis Miguel Taque Diaz** (0)
+	* **Luis Miguel Taque Diaz** [853808] (0)
 
-		
 		Hola Si, esto tiene impacto en la consistencia de la información que se almacena y a futuro un costo importante en el procesamiento de las consultas…
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [836684](https://platzi.com/comentario/836684/) 
 
-	
 	Entendido.
 
-* **Diego Alonso García Tenorio** (1)
-![1.png](https://static.platzi.com/media/user_upload/1-98f3f797-3644-4472-b0c0-557b573560f6.jpg)
+* **Diego Alonso García Tenorio** (1) [975134](https://platzi.com/comentario/975134/) 
+	
+	![1.png](https://static.platzi.com/media/user_upload/1-98f3f797-3644-4472-b0c0-557b573560f6.jpg)
 	
 	Buenos Días.
 	
 	Saben por qué me aparece este error por favor?  
 	Gracias.
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [975134] (1)
 
-		
 		Encontré [esta página](https://www.ionos.com/community/hosting/postgresql/troubleshoot-a-postgresql-could-not-connect-to-server-error/) espero te sirva 😄
 
-	* **Miguel Torres** (1)
+	* **Miguel Torres** [975134] (1)
 
-		
 		Quizás no está encendido el server de postgresql
 
-* **Alex Sierra Rodriguez** (1)
+* **Alex Sierra Rodriguez** (1) [845749](https://platzi.com/comentario/845749/) 
 
-	
 	Cuando usar diferentes esquemas? Es decir acá quedó todo en el public pero supongo que también se pueden crear otros
 
-	* **Oz** (2)
+	* **Oz** [845749] (2)
 
-		
 		Un consejo que me ha servido es que cuando los datos no se crucen entre sí, cuando tengas unas tablas que nunca se cruzan con otras, seguramente hacen parte de otra lógica de negocio y las puedes extraer en otro esquema.
 
-# Gestión de la información en bases de datos
+# Gestión de la información en bases de datos [4834]
 
-## 0120. Creación de Tablas
+## 0120. Creación de Tablas [24184](https://platzi.com/clases/1480-postgresql/24184-creacion-de-tablas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Marco Antonio González Arellano** (4)
+* **Marco Antonio González Arellano** (4) [872141](https://platzi.com/comentario/872141/) 
 
-	
 	Hice las tablas con pgadmin y también con sentencias SQL, aunque es claro de forma gráfica me gusta también comprender lo que pasa detrás y practicarlo.
 	``` 
 	    CREATETABLE pasajero(
@@ -2461,19 +2178,16 @@ Relaciona Trayecto con Pasajero ilustrando la dinámica entre los viajes que rea
 	    
 	```
 
-	* **andoni** (2)
+	* **andoni** [872141] (2)
 
-		
 		Creo que te equivocaste en tu referencia en las llaves foráneas, id_tren debería estar referenciando a tren(id) y tienes ambas al revés
 
-	* **Marco Antonio González Arellano** (1)
+	* **Marco Antonio González Arellano** [872141] (1)
 
-		
 		Cierto, muchas gracias. Debido a esto tenía problemas en las clases posteriores, y tuve que regresar a estas clases y hacer de nuevo la estructura de la BD. Afortunadamente se arregló y ya pude terminar el curso con éxito. Muchas gracias de nuevo!
 
-	* **David Rueda** (1)
+	* **David Rueda** [872141] (1)
 
-		
 		Código de creación de tablas:
 		``` 
 		    CREATETABLE estacion(
@@ -2518,14 +2232,12 @@ Relaciona Trayecto con Pasajero ilustrando la dinámica entre los viajes que rea
 		    
 		```
 
-	* **Daniel .** (1)
+	* **Daniel .** [872141] (1)
 
-		
 		Gracias héroe sin capa 👍
 
-* **gorydev** (3)
+* **gorydev** (3) [847297](https://platzi.com/comentario/847297/) 
 
-	
 	les dejo un código para crear el resto de las tablas:
 	``` 
 	    createtablepublic.estacion (
@@ -2565,12 +2277,13 @@ Relaciona Trayecto con Pasajero ilustrando la dinámica entre los viajes que rea
 	    
 	```
 
-* **juanreinag** (2)
-![Metro1.png](https://static.platzi.com/media/user_upload/Metro1-86841294-1ef3-4792-bf5a-cb3fe7c96078.jpg) ![Metro2.png](https://static.platzi.com/media/user_upload/Metro2-fddb3bf2-d4a4-4869-b418-ffb2a0cdc917.jpg) ![Metro3.png](https://static.platzi.com/media/user_upload/Metro3-1214fb6f-a3e4-4f1b-b2e1-ec7794942912.jpg) ![Estructura1.png](https://static.platzi.com/media/user_upload/Estructura1-fe71926d-5e05-4821-abba-7bde28e036d4.jpg) ![Estructura2.png](https://static.platzi.com/media/user_upload/Estructura2-73c281c3-1d79-4f17-a8ce-e22058b4a21f.jpg)
+* **juanreinag** (2) [1074359](https://platzi.com/comentario/1074359/) 
+	
+	![Metro1.png](https://static.platzi.com/media/user_upload/Metro1-86841294-1ef3-4792-bf5a-cb3fe7c96078.jpg) ![Metro2.png](https://static.platzi.com/media/user_upload/Metro2-fddb3bf2-d4a4-4869-b418-ffb2a0cdc917.jpg) ![Metro3.png](https://static.platzi.com/media/user_upload/Metro3-1214fb6f-a3e4-4f1b-b2e1-ec7794942912.jpg) ![Estructura1.png](https://static.platzi.com/media/user_upload/Estructura1-fe71926d-5e05-4821-abba-7bde28e036d4.jpg) ![Estructura2.png](https://static.platzi.com/media/user_upload/Estructura2-73c281c3-1d79-4f17-a8ce-e22058b4a21f.jpg)
 	
 	Este es el código con el que cree la base de datos y también está el arbol de las tablas
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1029571](https://platzi.com/comentario/1029571/) 
 
 	```
 	    -- Database: transporte
@@ -2722,14 +2435,12 @@ Relaciona Trayecto con Pasajero ilustrando la dinámica entre los viajes que rea
 	    
 	```
 
-* **andoni** (2)
+* **andoni** (2) [873825](https://platzi.com/comentario/873825/) 
 
-	
 	Falto explicar cómo se puede crear una llave foránea en pgAdmin para poder realizar las relaciones desde ahí :c
 
-	* **david-hv** (7)
+	* **david-hv** [873825] (7)
 
-		
 		yo lo hice de esta forma y me funciono
 		
 		  1. nombre de la tabla  
@@ -2769,51 +2480,45 @@ Relaciona Trayecto con Pasajero ilustrando la dinámica entre los viajes que rea
 		
 		
 
-	* **carlossanchez27** (1)
+	* **carlossanchez27** [873825] (1)
 
-		
 		Gracías, capo!
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [836715](https://platzi.com/comentario/836715/) 
 
-	
 	Listo. Se creo la base transporte y la tabla pasajero.
 
-* **TUDz** (2)
+* **TUDz** (2) [836378](https://platzi.com/comentario/836378/) 
 
-	
 	Me parece muy interesante que postgres permita insertar fechas con solamente introducir el valor tipo “YYYY-MM-DD”. En otros motores de base de datos es necesario especificar una función con su respectivo valor y máscara.
 	
 	Por ejemplo: TO_DATE(‘1991-05-25’,‘YYYY-MM-DD’)
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [81185](https://platzi.com/comentario/975750/) 
 Es recomendable colocar los nombres y las columnas de la tabla en español o en inglés?
 
-	* **Franklin Eduardo Cuesta Solorzano** (3)
+	* **Franklin Eduardo Cuesta Solorzano** [81185] (3)
 
-		
 		Es de buena costumbre poner el nombre de **las tabla en ingles y en plural** y el **nombre de las columnas en ingles** , porque en ingles porque así en caso de que tu proyecto sea presentado para alguien de otro país no sera nada difícil de comprenderlo, esto te lo enseñan o te lo recomienda a mas detalle en el curso de **Curso de SQL y MySQL**
 
-* **ORLANDO GOMEZ DIVANTOQUE** (1)
-![Captura1.JPG](https://static.platzi.com/media/user_upload/Captura1-2dec60f1-2db1-4b6b-850a-343cfb99fe47.jpg)
-
-* **juananquirozf** (1)
-
+* **ORLANDO GOMEZ DIVANTOQUE** (1) [1117289](https://platzi.com/comentario/1117289/) 
 	
+	![Captura1.JPG](https://static.platzi.com/media/user_upload/Captura1-2dec60f1-2db1-4b6b-850a-343cfb99fe47.jpg)
+
+* **juananquirozf** (1) [1109645](https://platzi.com/comentario/1109645/) 
+
 	Mmm, no sé si me estoy enredando más de lo que debería, pero si la cardinalidad de viaje y trayecto es N a N, entonces se debería tener una tabla intermedia para manejar las relaciones entre estas, por eso hice mi estructura de esta forma:  
 	![DB.JPG](https://static.platzi.com/media/user_upload/DB-2eb56c8e-a635-427f-b5be-9c128d1d8c26.jpg)
 
-* **gustavoalbertorestrepopelae** (1)
+* **gustavoalbertorestrepopelae** (1) [1064112](https://platzi.com/comentario/1064112/) 
 
-	
 	Cuál es la diferencia en utilizar Serial en vez de UUID
 
-	* **Oz** (1)
+	* **Oz** [1064112] (1)
 
-		
 		Seria es numero secuencial para ese campo en una tabla, UUID es un numero unico para esa columna en TODA la base de datos, son como peras y manzanas, se usan para cosas muy diferentes.
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [1044799](https://platzi.com/comentario/1044799/) 
 
 	```
 	    CREATETABLEpublic.pasajeros
@@ -2830,92 +2535,75 @@ Es recomendable colocar los nombres y las columnas de la tabla en español o en 
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027380](https://platzi.com/comentario/1027380/) 
 
-	
 	SELECT current_date; sirve para saber el día que estamos actualmente pero también nos sirve para ver como postgres guarda la fecha en un campo con el tipo de datos Date.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027377](https://platzi.com/comentario/1027377/) 
 
-	
 	Para crear un Script de inserción hacemos clic derecho en la tabla y nos vamos a la opción Scripts y luego seleccionamos el ejemplo de Scripts que necesitamos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027373](https://platzi.com/comentario/1027373/) 
 
-	
 	Respuesta a que significa ¿WITH (OIDS = FALSE)? Básicamente es un indentificador de obajetos, esto sirve para identificar tuplas de manera única cuando estas son similares. https://stackoverflow.com/questions/5625585/sql-postgres-oids-what-are-they-and-why-are-they-useful
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027360](https://platzi.com/comentario/1027360/) 
 
-	
 	En la pestaña SQL siempre veremos la sentencia SQL que genera PgAdmin al crear una base de dato o tabla con la interfaz gráfica.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027351](https://platzi.com/comentario/1027351/) 
 
-	
 	El estándar que usa postgres para nombrar los constraints de tipo primary key es: nombreCampo_pkey
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027343](https://platzi.com/comentario/1027343/) 
 
-	
 	En la pestaña constraints se puede crear la llaves primarias, llaves foraneas, check, Unique, Exclude
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027338](https://platzi.com/comentario/1027338/) 
 
-	
 	En postgres character varying es equivalente al varchar de MySQL
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027334](https://platzi.com/comentario/1027334/) 
 
-	
 	La primera columna que necesita toda tabla es un ID y es buena práctica hacerla de tipo entero y que automáticamente incremente. El tipo de dato SERIAL en postgres es equivalente al AUTO_INCREMENT en MySQL. SERIAL es un integer por defecto.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027325](https://platzi.com/comentario/1027325/) 
 
-	
 	El tipo de dato SERIAL en postgres es equivalente al AUTO_INCREMENT en MySQL
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027321](https://platzi.com/comentario/1027321/) 
 
-	
 	Es buena práctica como se vio en los anteriores cursos es importante comenzar a crear las tablas que no tengan llaves foráneas.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027310](https://platzi.com/comentario/1027310/) 
 
-	
 	DROP simplemente nos permite borrar la tabla con toda su información.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027306](https://platzi.com/comentario/1027306/) 
 
-	
 	ALTER sirve para alterar o cambiar la estructura de una tabla incluyendo los CONSTRAINTS, Agregar o quitar columnas, cambiar índices, agregar llaves primarias e incluso agregar roles como propietarios de la tabla
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027302](https://platzi.com/comentario/1027302/) 
 
-	
 	CREATE sirve para inicializar la estructura de datos (tabla) y en esta se declara el nombre de la tabla junto con los campos y sus tipos de datos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027300](https://platzi.com/comentario/1027300/) 
 
-	
 	CREATE sirve para inicializar la estructura de datos y esto será con
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027269](https://platzi.com/comentario/1027269/) 
 
-	
 	Las tablas tienen un funcionamiento complejo pero existe un conjunto de acciones u operaciones definidas de acciones que se pueden realizar sobre ella son muy simples y es son: 1.CREATE, 2.ALTER, 3.DROP. Esto se conoce como DATA DEFINITION LENGUAJE.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027259](https://platzi.com/comentario/1027259/) 
 
-	
 	A pesar de que las tablas tienen un funcionamiento complejo, las acciones que puede revisar sobre ella son muy simples y es son: 1.CREATE="crear", 2.ALTER = "alterar", DROP ="Eliminar".
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1027246](https://platzi.com/comentario/1027246/) 
 
-	
 	Las tablas son el elemento que contienen la información y la estructura en nuestra base de datos.
 
-* **Angelica Landazabal** (1)
+* **Angelica Landazabal** (1) [1009746](https://platzi.com/comentario/1009746/) 
 
 	```
 	    CREATETABLEpublic.pasajero
@@ -2985,14 +2673,12 @@ Es recomendable colocar los nombres y las columnas de la tabla en español o en 
 	    
 	```
 
-	* **Albert González Rossell** (1)
+	* **Albert González Rossell** [1009746] (1)
 
-		
 		Al ennganchar el texto se te han unido palabras
 
-* **Cuellar777** (1)
+* **Cuellar777** (1) [989673](https://platzi.com/comentario/989673/) 
 
-	
 	 **COMPLETADO**  
 	**_este codigo si quieres puedes copiarlo en QUERY EDITOR DE transporte/postgres@MIBDOFI _**
 	``` 
@@ -3056,52 +2742,47 @@ Es recomendable colocar los nombres y las columnas de la tabla en español o en 
 	    
 	```
 
-* **Franklin Eduardo Cuesta Solorzano** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-fa6b9904-d37e-4e00-88cb-e71e8b12e9fd.jpg)
+* **Franklin Eduardo Cuesta Solorzano** (1) [982633](https://platzi.com/comentario/982633/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-fa6b9904-d37e-4e00-88cb-e71e8b12e9fd.jpg)
 	
 	Ya esta!!!
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [975917](https://platzi.com/comentario/975917/) 
 
-	
 	Yo le tuve que colocar el id
 
-* **Maxc_Martinez** (1)
+* **Maxc_Martinez** (1) [968109](https://platzi.com/comentario/968109/) 
 
-	
 	Ya lo complete
 	
 	![dbTransporte.png](https://static.platzi.com/media/user_upload/dbTransporte-0f46bb8c-0d40-4aed-9869-1e132575ffd2.jpg)
 
-* **jhon Erik calderon Rubiano** (1)
+* **jhon Erik calderon Rubiano** (1) [941353](https://platzi.com/comentario/941353/) 
 
-	
 	listo!!!, ya se generaron las tablas![postgres tablas.JPG](https://static.platzi.com/media/user_upload/postgres%20tablas-012ff8b0-be01-44a9-b9b5-b13383a8aac7.jpg)
 
-* **Ramírez Paredes Jhon** (0)
+* **Ramírez Paredes Jhon** (0) [917968](https://platzi.com/comentario/917968/) 
 
-	
 	EN INSERT SCRIP pasaje en fecha se deja en vacio o se adiciona la fecha segun formato??
 	
 	INSERT INTO public.pasajero(  
 	"name, direccion, fecha_nac)  
 	VALUES (“Jhon”, “Jr. Palmeras”, “2020-01-11”);
 
-## 0130. Particiones
+## 0130. Particiones [24171](https://platzi.com/clases/1480-postgresql/24171-particiones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **TUDz** (4)
+* **TUDz** (4) [836441](https://platzi.com/comentario/836441/) 
 
-	
 	Otra de las ventajas de las tablas particionadas es que puedes utilizar la sentencia TRUNCATE, la cual elimina toda la información de una tabla, pero a nivel partición. Es decir, si tienes una tabla con 12 particiones (1 para cada mes del año) y deseas eliminar toda la información del mes de Enero; con la sentencia ALTER TABLE tabla TRUNCATE PARTITION enero; podrías eliminar dicha información sin afectar el resto.
 
-* **TUDz** (4)
+* **TUDz** (4) [836414](https://platzi.com/comentario/836414/) 
 
-	
 	HolaM
 	
 	¡Comparto mi script de creación de tablas así como una imagen de mi modelo resultante!
@@ -3162,76 +2843,62 @@ Es recomendable colocar los nombres y las columnas de la tabla en español o en 
 	    
 	```
 
-	* **Carlos Chavez** (1)
+	* **Carlos Chavez** [836414] (1)
 
-		
 		Muy bueno su aporte.  
 		Me podrá informar con que sofware realizó las tablas de entidades [relación.Se](http://xn--relacin-q0a.Se) ven muy bien
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1029839](https://platzi.com/comentario/1029839/) 
 
-	
 	Es importante recalcar que en la fecha final de nuestro rango de días el motor de bases de datos excluye el valor de nuestro último día es decir, si el mes termina en 31 entonces en nuestro rango debe terminar en 32
 
-* **Antonio Rafael González Ferrer** (2)
+* **Antonio Rafael González Ferrer** (2) [979788](https://platzi.com/comentario/979788/) 
 
-	
 	Ese color rojo me causa un tremendo conflicto interno … 😅
 
-* **Jaime Andrés Martínez Rodríguez** (2)
+* **Jaime Andrés Martínez Rodríguez** (2) [931390](https://platzi.com/comentario/931390/) 
 
-	
 	No pude poner en practica esta clase, espero no sea tan fundamental, por ningun sitio me aparecio la opcion de particion al crear una tabla, sea una tabla nueva o vieja no aparece.
 
-	* **Ldelgado1987** (1)
+	* **Ldelgado1987** [931390] (1)
 
-		
 		Hice la misma pregunta hace unas semanas, he estado atorado en esta clase, no me gustaria avanzar sin conocer esta opcion 😦
 
-	* **Laura Tristán** (1)
+	* **Laura Tristán** [931390] (1)
 
-		
 		Me ocurría lo mismo. Cerré pgadmin y lo volví a abrir y ya me apareció la opción.
 
-	* **Juan Osio** (1)
+	* **Juan Osio** [931390] (1)
 
-		
 		La opción sale en el momento que estas creando la tabla por primera vez
 
-* **Abril Darynka Tapia Sosa** (2)
+* **Abril Darynka Tapia Sosa** (2) [930869](https://platzi.com/comentario/930869/) 
 
-	
 	 **Creando particiones**  
 	![](![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-28c2695b-6973-429f-a41e-8998a49ebd2e.jpg)
 
-* **Miguel Ángel Muñoz Pozos** (2)
+* **Miguel Ángel Muñoz Pozos** (2) [915377](https://platzi.com/comentario/915377/) 
 
-	
 	Las particiones se usan para optimizar las búsquedas de la información
 
-* **cristianwalteros** (2)
+* **cristianwalteros** (2) [841567](https://platzi.com/comentario/841567/) 
 
-	
 	que interesante el tema de las particiones
 
-* **Ehitel Rodríguez Castro** (2)
+* **Ehitel Rodríguez Castro** (2) [841123](https://platzi.com/comentario/841123/) 
 
-	
 	Muy interesante.
 
-* **Deiby Johany Avila Gutierrez** (2)
+* **Deiby Johany Avila Gutierrez** (2) [837808](https://platzi.com/comentario/837808/) 
 
-	
 	En que casos es recomendado usar el particionamiento de tablas?
 
-	* **Oz** (3)
+	* **Oz** [837808] (3)
 
-		
 		En principio debes particionar tablas que tengan un alto movimiento de datos, muchas inserciones y consultas. Pero al final, si el proyecto llega a durar lo suficiente, terminarás con una cantidad enorme de datos que te obligarán a pariticionar casi todas las tablas de tu base de datos.
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [837370](https://platzi.com/comentario/837370/) 
 
-	
 	Codigo
 	``` 
 	    CREATEDATABASE transporte
@@ -3344,24 +3011,22 @@ Es recomendable colocar los nombres y las columnas de la tabla en español o en 
 	    
 	```
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [82369](https://platzi.com/comentario/1004133/) 
 En que momento puedo decidir particionar una tabla para mi proyecto???
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [82369] (2)
 
-		
 		Puede ser, por ejemplo, cuando tu aplicación necesita reportes y/o muchas búsquedas, pero la base de datos está tan llena que las consultas son un poco demoradas.
 		
 		En ese caso, podemos hacer particiones por meses o años, por ejemplo, para que haya menos valores a filtrar.
 		
 		Lo único a tener en cuenta es que, al momento de hacer una búsqueda, debemos saber más o menos en qué fecha se encuentra el registro que buscamos.
 
-* **miguelangelpglez** (2)
+* **miguelangelpglez** (2) [77347](https://platzi.com/comentario/902878/) 
 Se inserte o no un registro el serial se incrementa un uno. Por lo que si intento insertar un dato no es valido el serial se icrementa, ...
 
-	* **Enrique Mendoza** (1)
+	* **Enrique Mendoza** [77347] (1)
 
-		
 		Si es correcto ya que el sistema realizo el intento de incertar un valor incremental, esto se resuelve haciendo un punto de guardado y en caso de que truene regresar al punto anterior.
 		
 		<https://www.postgresql.org/message-id/C40884B22A0E4AAC8278E471EF0AE368@KenIBM>
@@ -3372,22 +3037,19 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 		    
 		```
 
-* **Carlos Chavez** (1)
+* **Carlos Chavez** (1) [1086338](https://platzi.com/comentario/1086338/) 
 
-	
 	Con los comandos SQL puedo crear varias tablas de una vez, o es necesario ir creando tabla por tabla usando pgAdmin4?
 
-	* **Mateo Gonzales Navarrete** (1)
+	* **Mateo Gonzales Navarrete** [1086338] (1)
 
-		
 		Los comandos SQL son el corazon de todo! Todo lo que se haga en tu base de datos es gracias a los comandos SQL. La interfaz de pgAdmin solo es una ayuda visual y mas automatizada para acelerar este proceso, haciendolo menos tedioso!
 
-* **Frank Sócrates Valencia Pinto** (1)
+* **Frank Sócrates Valencia Pinto** (1) [1037378](https://platzi.com/comentario/1037378/) 
 
-	
 	Excelente ejemplo
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029852](https://platzi.com/comentario/1029852/) 
 
 	```
 	    --
@@ -3430,64 +3092,52 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029849](https://platzi.com/comentario/1029849/) 
 
-	
 	La tabla particionada tiene un id pero no es primary key, ya que realmente estas hacen referencias a las tablas que si tienen las llaves primarias.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029842](https://platzi.com/comentario/1029842/) 
 
-	
 	Creación de rango CREATE TABLE bitacora202001 PARTITION OF bitacora FOR VALUES FROM ('2020-01-01') TO ('2020-01-32');
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029803](https://platzi.com/comentario/1029803/) 
 
-	
 	RANGE: es una función para realizar rangos dinámicos sí estamos haciendo programación funcional.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029702](https://platzi.com/comentario/1029702/) 
 
-	
 	Ventajas en general: -Evita que la tabla se bloque por constantes consultas y modificaciones. -Proceso de búsqueda e inserción es más eficiente.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029698](https://platzi.com/comentario/1029698/) 
 
-	
 	¿Cómo funciona una consulta? Sí se consulta sobre algún mes en específico en una tabla particionada en rangos de fechas entonces se dirige automáticamente a la partición que tiene el mes que deseamos consultar
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029688](https://platzi.com/comentario/1029688/) 
 
-	
 	La tabla se divide internamente en pequeñas partes o tablas en rangos o listas definido, que pueden ser: fechas u objetos. Existen dos tipos de particiones Particionamiento de rango (Range Partitioning) y Particionamiento de lista (List Partitioning)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029677](https://platzi.com/comentario/1029677/) 
 
-	
 	Las particiones consisten en: 1.Separación Física esto es guardar varias partes de la misma tabla en diferentes espacios de disco e incluso en otros discos; 2.Conservar la Estructura Lógica esto es que se puede hacer el el SELECT de la misma forma como se hacía anteriormente.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029668](https://platzi.com/comentario/1029668/) 
 
-	
 	La información de una tabla consultada corresponde a un espacio físico de memoria en del servidor. Como se dijo anteriormente una los factores que se le puede atribuir realizar el aplicar el criterio de partición a una tabla es que la data de la tabla exceda la memoria del SERVE
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029663](https://platzi.com/comentario/1029663/) 
 
-	
 	Normalmente valdrán la pena solo cuando una tabla sería muy grande. El punto exacto en el que una tabla se beneficiará de la partición depende de la aplicación, aunque una regla general es que el tamaño de la tabla debe exceder la memoria física del servidor de la base de dato
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029653](https://platzi.com/comentario/1029653/) 
 
-	
 	h
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1029634](https://platzi.com/comentario/1029634/) 
 
-	
 	En ocasiones llega un punto en el que tienes mucha información en una sola tabla y el Particionamiento es la mejor opción. La partición se refiere a dividir lo que es lógicamente una tabla grande en piezas físicas más pequeñas.
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [1020906](https://platzi.com/comentario/1020906/) 
 
-	
 	No entendí algo donde se hacen las particiones y se crea el rango, en el video el profe colocó FROM (‘2010-01-01’) TO (‘2019-01-31’)
 	
 	Habia dicho que por año, pensé que sería algo como:  
@@ -3495,29 +3145,25 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 	
 	Pero cuando el hace la prueba de una segunda inserción con año 2012, esta arroja error, no se por que?
 
-	* **Peter_g** (2)
+	* **Peter_g** [1020906] (2)
 
-		
 		Tuvo un error al digitar el año pero en realidad es como lo dijo mas no como lo digito.
 
-	* **Didier Zúñiga** (1)
+	* **Didier Zúñiga** [1020906] (1)
 
-		
 		Si, eso noté haciendo una prueba. Gracias
 
-* **matias-alexander-ibarra-trujil** (1)
+* **matias-alexander-ibarra-trujil** (1) [1014822](https://platzi.com/comentario/1014822/) 
 
-	
 	me daba error, al aprecer ejecuta todo el codigo como insert esta primero da error y no crea la tabla, lo unico que hice fue hacer los codigos por separado, osea primero hice la parte de CRCEATE ejecute luego puse la parte de INSERT
 
-* **edu1590** (1)
+* **edu1590** (1) [1012751](https://platzi.com/comentario/1012751/) 
 
-	
 	Lo mas resaltante de este punto es conocer el concepto (saber que existe) y los casos de uso.
 	
 	Considero que al momento de implementarlo, se debe estar muy pendiente de la documentacion
 
-* **Angelica Landazabal** (1)
+* **Angelica Landazabal** (1) [1009755](https://platzi.com/comentario/1009755/) 
 
 	```
 	    CREATETABLEpublic.bitacora_viaje
@@ -3535,9 +3181,8 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 	    
 	```
 
-* **Rodolfo Nicacio Ugalde Ochoa** (1)
+* **Rodolfo Nicacio Ugalde Ochoa** (1) [981596](https://platzi.com/comentario/981596/) 
 
-	
 	Cuando intento crear la particion del segundo mes me muestra lo siguiente
 	``` 
 	    CREATETABLE vitacora_viaje201002 PARTITIONOF vitacora_viaje
@@ -3565,14 +3210,12 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 	    
 	```
 
-	* **ehuacachi** (1)
+	* **ehuacachi** [981596] (1)
 
-		
 		El mismo error…! 😭
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [979607](https://platzi.com/comentario/979607/) 
 
-	
 	INSERT INTO public.trip_binnacle(id_trip, created_at) VALUES (1,‘2010-01-15’);
 	
 	SELECT * FROM trip_binnacle;
@@ -3580,51 +3223,42 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 	CREATE TABLE trip_binnacle_2010_01 PARTITION OF trip_binnacle  
 	FOR VALUES FROM (‘2010-01-01’) TO (‘2010-01-31’);
 
-* **HeartHunter** (1)
+* **HeartHunter** (1) [941589](https://platzi.com/comentario/941589/) 
 
-	
 	Comenzando
 
-* **ABautistaO15** (1)
+* **ABautistaO15** (1) [926932](https://platzi.com/comentario/926932/) 
 
-	
 	las particiones en Postgres son como a MySQL las Vistas?
 
-	* **Abril Darynka Tapia Sosa** (1)
+	* **Abril Darynka Tapia Sosa** [926932] (1)
 
-		
 		Yo creo que no, las vistas no las puedes más que consultar y como vi, las particiones sirven para hacer inserciones pero por partes. Ejemplo.  
 		Tenemos en nuestra oficina(BD) una repisa(tabla) donde guardamos bitácoras(particiones) en las cuales se guardan registros con un rango especifico. Puede ser que la primera bitácora tenga registros de la A a la F y la segunda de la G-L o en otro caso en una bitácora todos los registros del año 2016, en otra los del 2017 y asi sucesivamente.
 
-* **Vicente Fernandez** (1)
+* **Vicente Fernandez** (1) [919071](https://platzi.com/comentario/919071/) 
 
-	
 	Hola, creo que hay un error en las fechas… La partición debería ser en enero del mismo año 2010… No de 2010 a 2019. De resto todo bien!
 
-* **carlossanchez27** (1)
+* **carlossanchez27** (1) [896700](https://platzi.com/comentario/896700/) 
 
-	
 	Tengo una consulta. ¿Qué semejanzas existen entre las tablas particionadas y las tablas temporales?
 
-	* **miguelangelpglez** (1)
+	* **miguelangelpglez** [896700] (1)
 
-		
 		Tabla Particiona almacena una parte de la informacion de un mismo schema, tabla temporal lo mismo.  
 		Son mas rapidas que si tuvieramos toda la informacion en la misma tabla.
 
-* **Angel Hernandez** (1)
+* **Angel Hernandez** (1) [875476](https://platzi.com/comentario/875476/) 
 
-	
 	Como se podria realizar particiones de manera dinamica? Con el metodo visto en el video, seria necesario cada cierto tiempo crear varias particiones para todas las tablas y de esa manera que la data se continue guardando correctamente
 
-* **Marco Antonio González Arellano** (1)
+* **Marco Antonio González Arellano** (1) [872258](https://platzi.com/comentario/872258/) 
 
-	
 	Wow, qué buena explicación. Había utilizado postgres por muchos años sin entrar a los detalles, es genial lo que estoy aprendiendo en este curso. Gracias!
 
-* **Luis Miguel Taque Diaz** (1)
+* **Luis Miguel Taque Diaz** (1) [868913](https://platzi.com/comentario/868913/) 
 
-	
 	Se puede indexar las particiones…
 	
 	create table bitacora_viaje_20100102 partition of bitacora_viaje  
@@ -3634,80 +3268,67 @@ Se inserte o no un registro el serial se incrementa un uno. Por lo que si intent
 	
 	create index bt_0102 on bitacora_viaje_20100102 (id_viaje);
 
-* **guillermolamberto** (1)
+* **guillermolamberto** (1) [852003](https://platzi.com/comentario/852003/) 
 
-	
 	Buenas tardes, queria consultarles porque no me aparece la solapa partition cuando intento crear la tabla. es una tabla nueva pero no me aparece
 
-	* **Oz** (1)
+	* **Oz** [852003] (1)
 
-		
 		En la primera pestaña debes seleccionar la opcion que dice “Partitioned Table”, debes tener en cuenta que solo puedes crear tablas particionadas nuevas, una tabla que ya exista y no sea particionada no la puedes particionar, deberas crear una tabla particionada y migrar los datos.
 
-* **JUAN CARLOS PARRA GALAN** (1)
+* **JUAN CARLOS PARRA GALAN** (1) [844238](https://platzi.com/comentario/844238/) 
 
-	
 	¿Se pueden utilizar llaves foraneas en una tabla particionada? Seria buena practica si se desea guardar relación.
 
-	* **Oz** (3)
+	* **Oz** [844238] (3)
 
-		
 		Desde la versión 11 puedes tener llaves foraneas en una tabla particionada que DEPENDAN de una tabla NO particionada, pero la tabla particionada NO puede tener columnas que SEAN llaves foraneas de otras tablas.
 
-	* **JUAN CARLOS PARRA GALAN** (1)
+	* **JUAN CARLOS PARRA GALAN** [844238] (1)
 
-		
 		Excelente… muchas gracias por tu respuesta
 
-	* **JUAN CARLOS PARRA GALAN** (1)
+	* **JUAN CARLOS PARRA GALAN** [844238] (1)
 
-		
 		Trate de ejecutarlas y da error, a pesar de que estoy en la versión 11.5
 
-* **Santiago Ricci** (1)
+* **Santiago Ricci** (1) [839004](https://platzi.com/comentario/839004/) 
 
-	
 	Necesito ayuda. En pgAdmin no aparece el tab de partition. Busque en el archivo postgresql.conf y no encontre nada. En la web de pgAdmin solo aparece que desde la versiómn 10 en adelante esta opción será visible. Mi versión es: PostgreSQL 11.6, compiled by Visual C++ build 1914, 64-bit.  
 	![partition.JPG](https://static.platzi.com/media/user_upload/partition-23292354-2112-4854-8dea-b7bd802b27c9.jpg)
 
-	* **Santiago Ricci** (2)
+	* **Santiago Ricci** [839004] (2)
 
-		
 		Encontre mi error. El tab partition no aparece si la tabla ya fue creada. Creo que si no se crea desde el inicio no se puede crear particiones. Si realmente se puede particionar una vez creada agradezco que compartan esa información.
 		
 		Saludos
 
-	* **Oz** (3)
+	* **Oz** [839004] (3)
 
-		
 		Si así es, no es posible particionar una tabla ya creada, deberás crear una tabla particionada y mover los datos de la tabla anterior a la nueva. El copiado, si no son muchos datos, se puede hacer con un simple INSERT … FROM … SELECT, si hay muchos datos (millones) se deberá hacer por partes, para no ir a sobrecargar la tabla, usando Limits o Cursores etc.
 
-* **Jose Luis Perez** (1)
+* **Jose Luis Perez** (1) [837674](https://platzi.com/comentario/837674/) 
 
-	
 	Hubo un pequeño error. Al crear la partición la crea de enero del 2010 a final de enero del 2019
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [837674] (1)
 
-		
 		Sí. El ejercicio es así tal cual lo hizo el profesor, solo que escribió 2010 en vez de 2019. Pero excepto por eso todo perfecto. 😅👌
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [82379](https://platzi.com/comentario/1004251/) 
 al querer crear las demás tablas del reto tengo este error: SQL state: 42P17 ¿que puedo hacer?
 
-	* **Erik Ochoa (Platzi)** (2)
+	* **Erik Ochoa (Platzi)** [82379] (2)
 
-		
 		 **42P17** es un error descrito en la documentación oficial de postgreSQL como “invalid_object_definition”. Algo estás definiendo mal en tu tabla, puede ser muchas cosas, es un error muy general, en alguna otra parte debe venir más especifico.
 		
 		Puedes apoyarte en los aportes de tu compañeros para ver cómo lo resolvieron.
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [82377](https://platzi.com/comentario/1004243/) 
 NO puedo crear la tabla particionada de febrero ya que dice que puedo sobre cargar la tabla que se creo en este curso. ¿Cómo hago?
 
-	* **Sergio Ivan Galvis Motoa** (1)
+	* **Sergio Ivan Galvis Motoa** [82377] (1)
 
-		
 		Pueda que estés haciendo la primera partición entre 2010 y 2019…
 		``` 
 		    CREATETABLE bitacora_viaje201001 PARTITIONOF bitacora_viaje
@@ -3722,33 +3343,29 @@ NO puedo crear la tabla particionada de febrero ya que dice que puedo sobre carg
 		    
 		```
 
-* **Pacool84** (1)
+* **Pacool84** (1) [80127](https://platzi.com/comentario/953055/) 
 Es posible particionar tablas que ya cuentan con demasiada informacion? en caso de que fuera asi se sigue el mismo procedimiento?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [80127] (1)
 
-		
 		Puedes, por ejemplo, separar las tablas que contienen registros históricos por rangos de tiempo para mejorar la velocidad de tus consultas.
 
-* **Ldelgado1987** (1)
+* **Ldelgado1987** (1) [78483](https://platzi.com/comentario/921842/) 
 La opcion “Partition” no me aparece en Pgadmin4, intente crear la query manualmente pero la opcion “PARTITION BY RANGE (FECHA)” me marca ...
 
-* **luiseg** (0)
+* **luiseg** (0) [986726](https://platzi.com/comentario/986726/) 
 
-	
 	Genial esta clase, manejo una base de datos masiva en otro motor de base de datos y esto ayudo a optimizar el tiempo en consultas, super importante para acelerar el acceso a los datos.
 
-* **Diego Armando Bravo Sanabria** (0)
+* **Diego Armando Bravo Sanabria** (0) [851506](https://platzi.com/comentario/851506/) 
 
-	
 	Que tema mas interesante, no tenia conocimiento que existía y llevo ya 1 año largo utilizando postgreSQL, me gustaría saber si así como se hizo por comandos SQL, se puede realizar por la interfaz gráfica, donde estamos creando la tabla mas específicamente en la ventana “CREATE-TABLE”.
 
-* **Alodia Flores Arnao** (0)
+* **Alodia Flores Arnao** (0) [80249](https://platzi.com/comentario/955342/) 
 Seguí todos los pasos, pero sí pude ingresar un 2012-02-10, por qué? Qué podría haber hecho masl?
 
-	* **Anderson Paul Meza Cando** (1)
+	* **Anderson Paul Meza Cando** [80249] (1)
 
-		
 		Creo que copiaste tal cual el query del profesor, puesto que el rango que el puso va desde 2010 hasta el 2019 , por lo que te permitió ingresar un dato del 2012
 		``` 
 		    CREATETABLE bitacora_viaje201001 PARTITIONOF bitacora_viaje
@@ -3756,16 +3373,15 @@ Seguí todos los pasos, pero sí pude ingresar un 2012-02-10, por qué? Qué pod
 		    
 		```
 
-## 0140. Creación de Roles
+## 0140. Creación de Roles [24172](https://platzi.com/clases/1480-postgresql/24172-creacion-de-roles/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **David Rueda** (3)
+* **David Rueda** (3) [900233](https://platzi.com/comentario/900233/) 
 
-	
 	En ubuntu y sus derivados para ingresar a un usuario por consola, se debe ingresar:
 	``` 
 	    psql--host=localhost--dbname=postgres--username=usuario_consulta```
@@ -3773,9 +3389,8 @@ Seguí todos los pasos, pero sí pude ingresar un 2012-02-10, por qué? Qué pod
 	    
 	```
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [837903](https://platzi.com/comentario/837903/) 
 
-	
 	La gestion de usuraios es una labor muy importante para la seguridad de la informacion. Es recomendable tener un inventario detallado de los roles y usuarios creados, asi contar con una superficie de vulnerabilidades por accesos otorgados.
 	``` 
 	    CREATEROLE usuario_consulta;
@@ -3792,12 +3407,11 @@ Seguí todos los pasos, pero sí pude ingresar un 2012-02-10, por qué? Qué pod
 	    
 	```
 
-* **TUDz** (3)
+* **TUDz** (3) [836483](https://platzi.com/comentario/836483/) 
 
-	
 	Los usuarios y sus roles son una parte importante de la seguridad de la base de datos. Con ayuda de los usuarios adicionales y los grants otorgados, se puede determinar el nivel de acceso a ciertos objetos en la base de datos; además, se puede crear procesos de monitoreo (triggers) que permiten crear una bitácora de seguimiento de operaciones de los usuarios. Creando así una relación de: Quien se conecta -desde donde - que consulta.
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1031047](https://platzi.com/comentario/1031047/) 
 
 	```
 	    --//////////////////
@@ -3842,9 +3456,8 @@ Seguí todos los pasos, pero sí pude ingresar un 2012-02-10, por qué? Qué pod
 	    
 	```
 
-* **Juan Osio** (2)
+* **Juan Osio** (2) [961751](https://platzi.com/comentario/961751/) 
 
-	
 	**Mi resumen de la clase**  
 	  
 	Desde sqlshell podemos crear roles, los roles son independiente de la base de datos, el comando para crear un rol es `CREATE ROLE` o `CREATE USER`, después de la versión 9.3 de postgres ambos comandos hacen lo mismo, en este ejemplo usaremos `CREATE ROLE`  
@@ -3881,187 +3494,154 @@ Seguí todos los pasos, pero sí pude ingresar un 2012-02-10, por qué? Qué pod
 	  
 	Con el comando **DROP ROLE** nombre_rol, podemos eliminar roles
 
-* **PaoloTorregrosa** (2)
+* **PaoloTorregrosa** (2) [942210](https://platzi.com/comentario/942210/) 
 
-	
 	Usuarios Linux, a nosotros no nos sale la opcion de configurar el inicio de psql con el usuario todo eso se tiene que hacer a través de este comando
 	``` 
 	    psql -h <host> -d <basededatos> -U <usuario> -p <port>
 	    
 	```
 
-* **adriangonw77** (2)
+* **adriangonw77** (2) [881547](https://platzi.com/comentario/881547/) 
 
-	
 	listo, el curso es muy practico y fluido, me parece muy buena practica dejar, permisos restringidos dependiendo de las necesidades de los usuarios
 
-* **Daniel Mauricio Sanchez Acebedo** (1)
+* **Daniel Mauricio Sanchez Acebedo** (1) [1044589](https://platzi.com/comentario/1044589/) 
 
-	
 	Excelente explicación.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031043](https://platzi.com/comentario/1031043/) 
 
-	
 	En la pestaña Security se pueden asignar etiquetas a los roles para distinguir más fácilmente que roles tienen cierto grado de permisos y se haga más fácil el identificar por etiquetas.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031041](https://platzi.com/comentario/1031041/) 
 
-	
 	En la pestaña Parameters podemos personalizar variables y atributos. Ejemplo podemos limitar la cantidad de memoria que va a usar la base de datos cuando él se conecte Si queremos que sea un usuario que de pronto no tenga el acceso al 100% de la CPU o al 100% la ram
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031039](https://platzi.com/comentario/1031039/) 
 
-	
 	En la pestaña Membership sirve para cuando hayamos creado un grupo de permisos y queremos hacer que este rol sea de ese grupo de permisos
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031037](https://platzi.com/comentario/1031037/) 
 
-	
 	En la pestaña privilegios van los atributos que llevará el rol, aquí tenemos que tener en cuenta que al dejar la opción de Ingerit right from parent esta opción permite consultar y modificar las tablas de la bd
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031034](https://platzi.com/comentario/1031034/) 
 
-	
 	Pestaña Definition se coloca la contraseña y también se puede agregar una fecha de expiración de la cuenta o también un limite de conexión.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031033](https://platzi.com/comentario/1031033/) 
 
-	
 	En la Pestaña General tenemos el campo name dónde el nombre del rol y podemos colocar un comentario.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031032](https://platzi.com/comentario/1031032/) 
 
-	
 	Para crear un rol, realizamos clic derecho en la opción Login/Group Roles-> Create-> Login Role
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031031](https://platzi.com/comentario/1031031/) 
 
-	
 	Para crear un rol, realizamos clic derecho en la opción Login/Group Roles... Luego de ello
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030976](https://platzi.com/comentario/1030976/) 
 
-	
 	ALTER ROLE name_rol WITH atributo_name, para la modificación de un rol
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030974](https://platzi.com/comentario/1030974/) 
 
-	
 	CREATE USER es un alias de CREATE ROL. Algo más para agregar para verificar sí un usuario a sido creado podemos utilizar la instrucción: \dg
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030971](https://platzi.com/comentario/1030971/) 
 
-	
 	\h CREATE ROLE, para ver como usar el comando.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030951](https://platzi.com/comentario/1030951/) 
 
-	
 	Se puede crear los roles independiente a las bases de datos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030948](https://platzi.com/comentario/1030948/) 
 
-	
 	Es una buena práctica crear un rol que tenga los privilegios CREATEDB y CREATEROLE, pero que no sea un superusuario,y luego usar este rol para toda la administración de rutina de bases de datos y roles. Este enfoque evita los peligros de operar como superusuario cuando no se deba
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030946](https://platzi.com/comentario/1030946/) 
 
-	
 	Para arrancar el sistema de base de datos, un sistema recién inicializado siempre contiene un rol predefinido. Este rol es siempre un "superusuario" y, de manera predeterminada (a menos que se modifique al ejecutar initdb )
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030943](https://platzi.com/comentario/1030943/) 
 
-	
 	Los roles pueden ser agrupados en un conjuntos de privilegios o permisos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030942](https://platzi.com/comentario/1030942/) 
 
-	
 	Algunos de los atributos: SUPERUSER|CREATE ROLE|DROP ROLE|PASSWORD|DATABASE CREATION
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030936](https://platzi.com/comentario/1030936/) 
 
-	
 	Algunos de los privilegios de los roles son: SELECT | INSERT | UPDATE | DELETE | RULE | REFERENCES | TRIGGER
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030930](https://platzi.com/comentario/1030930/) 
 
-	
 	Cada conexión al servidor de la base de datos se realiza en nombre de algún rol en particular, y este rol determina los privilegios de acceso inicial para los comandos emitidos en esa conexión
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030929](https://platzi.com/comentario/1030929/) 
 
-	
 	Los roles tienen atributos y privilegios; los atributos se pueden ver como ¿Cuál usuario se está conectando a la bases de datos? y los atributos se pueden visualizar como ¿Cuáles acciones pueden ejecutar el rol que se está conectando?
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030927](https://platzi.com/comentario/1030927/) 
 
-	
 	Los roles de la base de datos están conceptualmente completamente separados de los usuarios del sistema operativo. En la práctica, puede ser conveniente mantener una correspondencia, pero esto no es obligatorio
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030924](https://platzi.com/comentario/1030924/) 
 
-	
 	Los roles tienen atributos y privilegios;
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1030839](https://platzi.com/comentario/1030839/) 
 
-	
 	PostgreSQL gestiona los permisos de acceso a la base de datos utilizando el concepto de roles (roles) . Un rol puede considerarse como un usuario de la base de datos o un grupo de usuarios de la base de datos
 
-* **Carlos Chavez** (1)
+* **Carlos Chavez** (1) [1024300](https://platzi.com/comentario/1024300/) 
 
-	
 	se pierde visibilidad de Pgadmin con el resaltado en [rojo.Es](http://rojo.Es) difícil leer, lo cual no es buen aspecto pedagógico
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [979635](https://platzi.com/comentario/979635/) 
 
-	
 	CREATE ROLE login_user; : create new user/role  
 	\dg : list users/roles
 
-* **GersonPc** (1)
+* **GersonPc** (1) [970070](https://platzi.com/comentario/970070/) 
 
-	
 	Si creo un usuario con todos los permisos, ¿Podria borrar el usuario postgres?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [970070] (1)
 
-		
 		Lo mejor es no borrar este usuario solo cambiarle la contraseña y ponerle una contraseña muy segura.
 
-* **Carlos Chavez** (1)
+* **Carlos Chavez** (1) [83314](https://platzi.com/comentario/1024296/) 
 Que atributos tiene un usuario superuser?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [83314] (2)
 
-		
 		Literalmente tiene todos los permisos y privilegios para hacer cualquier acción dentro PostgreSQL
 
-* **Christian Aguilar** (1)
+* **Christian Aguilar** (1) [77728](https://platzi.com/comentario/908709/) 
 Por qué al loggearse con el nuevo role (usuario_consulta) aparece como si estuviera con el role postgres?
 
-	* **Vicente Fernandez** (1)
+	* **Vicente Fernandez** [77728] (1)
 
-		
 		Hola, creo que lo que te indica SQL Shell es la base de datos que esta seleccionada. No el usuario con el que estas accediendo.
 
-## 0150. Llaves foráneas
+## 0150. Llaves foráneas [24173](https://platzi.com/clases/1480-postgresql/24173-llaves-foraneas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **joaquin-fontela** (6)
+* **joaquin-fontela** (6) [952654](https://platzi.com/comentario/952654/) 
 
-	
 	Ya habia aplicado las FK por mi cuenta al momento de crear las tablas, pero de igual manera aprendi un par de tips que no habia tenido en cuenta.
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [837942](https://platzi.com/comentario/837942/) 
 
-	
 	Hay que tener bastante cuidado con el borrado y la actualizacion en cascada, esto podria generar cuellos de botella en el rendimento del aplicativo cuando se modifica la llave y borrar informacion puede ser una opcion devastadora para la integridad de la informacion.
 	``` 
 	    ALTERTABLEpublic.trayecto
@@ -4079,32 +3659,27 @@ Por qué al loggearse con el nuevo role (usuario_consulta) aparece como si estuv
 	    
 	```
 
-* **Jaime Andrés Martínez Rodríguez** (2)
+* **Jaime Andrés Martínez Rodríguez** (2) [931436](https://platzi.com/comentario/931436/) 
 
-	
 	Muy buena clase.
 
-* **Marco Antonio González Arellano** (2)
+* **Marco Antonio González Arellano** (2) [878388](https://platzi.com/comentario/878388/) 
 
-	
 	Vaia, qué interesante clase, esto nunca lo había tomado en cuenta y qué importante es.
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [1044818](https://platzi.com/comentario/1044818/) 
 
-	
 	Estoy haciendo otra DB diferente y resulta que al insertar datos y omitiendo el campo foraneo debería arrojar error pero está dejando guardar los datos, ya revisé y la relacion esta bien apuntada. A alguien le ha pasado?
 
-	* **Angel de Jesus Quintero Pereira** (1)
+	* **Angel de Jesus Quintero Pereira** [1044818] (1)
 
-		
 		Puede ser, que se deba a que no le marcaste explícitamente a la columna que: no deba aceptar NULL
 
-	* **Didier Zúñiga** (1)
+	* **Didier Zúñiga** [1044818] (1)
 
-		
 		Exacto, no la marqué como NOT NULL, pero en el ejercicio de la clase tampoco se marca como NOT NULL y allí si arroja error al omitir el campo foraneo
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031063](https://platzi.com/comentario/1031063/) 
 
 	```
 	    --
@@ -4192,108 +3767,90 @@ Por qué al loggearse con el nuevo role (usuario_consulta) aparece como si estuv
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031059](https://platzi.com/comentario/1031059/) 
 
-	
 	En la pestaña Action de los contraints es una pestaña en donde indicamos la acción a tomar por el motor de la base de dato cuando ocurre una actualización del registro de la tupla referenciada por este campo
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031058](https://platzi.com/comentario/1031058/) 
 
-	
 	Opciones de las foreing Keys son: Deferreable (Aplazar validación), Deferred (Apenas se crea se válida), Match Type (SIMPLE=VALOR A VALOR OR FULL=COMPLEJA) , Validated (Iniciamos las tablas con la validación), Auto FK Index (No es un indice de la tabla)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031056](https://platzi.com/comentario/1031056/) 
 
-	
 	En la pestaña Definition de los constraints existen Características (Definitions) especiales al foreing Keys permite hacer una llave foránea sea validada al instante o después.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031052](https://platzi.com/comentario/1031052/) 
 
-	
 	Estructura de las Foreing Keys es = Nombre_Constrains+ Tabla_origen.campo_id_referencia + Tabla_destino.campo_id_referenciado + Acciones.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031051](https://platzi.com/comentario/1031051/) 
 
-	
 	Consistencia: Corresponde al concepto de que los datos tienen una congruencia entre sí tiene que ver la tabla de usuarios, por ejemplo, con la tabla de direcciones.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031050](https://platzi.com/comentario/1031050/) 
 
-	
 	PgSQL cumple el estándar A.C.I.D: Atomicity-Atomicidad, Consistency-Consistencia, Isolation-Aislamiento, Durability-Durabilidad.
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [1021199](https://platzi.com/comentario/1021199/) 
 
-	
 	Como saber por ejemplo desde que tabla crear la llave foránea a otra, en el ejemplo desde TRAYECTO se crearon las foráneas a ESTACION y TREN, no sería igual hacerlo por ejemplo desde ESTACION a TRAYECTO y TREN a TRAYECTO?
 
-* **adriangonw77** (1)
+* **adriangonw77** (1) [881613](https://platzi.com/comentario/881613/) 
 
-	
 	muy buena explicación entendí a la perfección
 
-* **andoni** (1)
+* **andoni** (1) [874340](https://platzi.com/comentario/874340/) 
 
-	
 	Muy interesante 😮
 
-## 0160. Inserción y consulta  de datos
+## 0160. Inserción y consulta  de datos [24174](https://platzi.com/clases/1480-postgresql/24174-insercion-y-consulta-de-datos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **dbzdavidbaez** (8)
+* **dbzdavidbaez** (8) [838980](https://platzi.com/comentario/838980/) 
 
-	
 	Hay que tener mucho cuidado con las llaves foraneas cuando se deja la opcion de CASCADA cuando se borra o se actualiza. Ayuda a ahorrar tiempo, perr esto puede afectar la transacionalidad en bases grandes.
 
-	* **Edilberto Enrique Medina Rodríguez** (1)
+	* **Edilberto Enrique Medina Rodríguez** [838980] (1)
 
-		
 		y entonces cómo se soluciona?
 
-	* **Mario Uriarte Amaya** (1)
+	* **Mario Uriarte Amaya** [838980] (1)
 
-		
 		Usualmente lo que se hace en produccion es que cuando se borra un objeto lo que realmente se hace es cambiar un flag de estado para saber si lo van a mostrar o no las consultas.  
 		Asi que realmente nunca se borra.  
 		Y si nunca se borra la cascada deja de servir y es en codigo donde hay que ocuparse que si un registro tipo pasajero se “borra” tmb se “borren” sus viajes .
 
-* **Jorge Santos Vallejos** (7)
+* **Jorge Santos Vallejos** (7) [900051](https://platzi.com/comentario/900051/) 
 
-	
 	Hay una situación importante sobre las claves foráneas (FK) que se explica en esta clase y me gustaría resaltarla un poco mas:  
 	Primeramente recordar del curso de Fundamentos de BD que a las tablas se les llama “independientes” cuando no tienen FK’s. Del mismo modo una tabla es “dependiente” cuando tiene al menos una FK, es decir, son tablas que dependen de tablas independientes.  
 	Es importante** al momento de crear tablas e insertar datos en ellas**, empezar siempre por las tablas independientes y una vez terminadas seguir con las dependientes
 
-* **Wilson Marino Pablo Mendez** (2)
+* **Wilson Marino Pablo Mendez** (2) [957550](https://platzi.com/comentario/957550/) 
 
-	
 	Excelente curso!!
 
-* **aycatalan1995** (2)
+* **aycatalan1995** (2) [956096](https://platzi.com/comentario/956096/) 
 
-	
 	Puedo importar tablas de excel a PostgreSQL?
 
-	* **chatuz1337** (1)
+	* **chatuz1337** [956096] (1)
 
-		
 		ward
 
-	* **ddragaid** (1)
+	* **ddragaid** [956096] (1)
 
-		
 		si lo puedes hacer con el start builder de postgresql tiene una librería la cual puedes hacer la conexión sin mayor problema. pero si quieres pasar datos del excel a postgres te recomiendo pasar los datos a un archivo csv
 
-* **dennisadrian** (2)
+* **dennisadrian** (2) [848641](https://platzi.com/comentario/848641/) 
 
-	
 	Configurar una tabla con foreign key en cascada permite que al borrar o actualizar datos en la tabla de origen tambien se borre o actualice los datos en la tabla con el foreign key
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1033115](https://platzi.com/comentario/1033115/) 
 
 	```
 	    --/////////////////
@@ -4382,64 +3939,52 @@ Por qué al loggearse con el nuevo role (usuario_consulta) aparece como si estuv
 	
 	Añadir algo el delete con limit es algo que vi en el curso de mysql sql y es buena práctica limitar la operación por si algo sale mal, pero en el caso de postgres me parece que es algo contra producente ya que para hacerlo con limit hay que hacerlo a través de una subquery
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1033069](https://platzi.com/comentario/1033069/) 
 
-	
 	Sí sé una acción como: borrar, actualizar en una registro que está en la tabla a y la llave primaria de esa misma se referencia en otra tabla b, y tenemos la opción ON CASCADE está acción actualizará el registro que está relacionado por medio del id
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1033060](https://platzi.com/comentario/1033060/) 
 
-	
 	Se tiene dos tabla a y b. y tienen los atributos a.id y b.id y b.id_a que referencia al id de la tabla a. Debemos tomar en cuenta que no se pueden insertar id en el registros en la tabla b.id_a que no existan el tabla a.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1032022](https://platzi.com/comentario/1032022/) 
 
-	
 	Para modificar un tipo de dato en una columna se debe tomar en cuenta que el motor de B.D nos dejará hacer el cambio por un tipo de dato equivalente. Sí se desea cambiar el tipo de dato por my distinto seguramente se tendrá que hacer un drop column y luego un add column
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031859](https://platzi.com/comentario/1031859/) 
 
-	
 	Sí tenemos un ID serial, cuando tengamos insert podemos quitarlo del script insert porque el mismo motor de base de datos se encarga de asignar este número
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031847](https://platzi.com/comentario/1031847/) 
 
-	
 	Para realizar un insert en nuestras tablas desde PgAdmin hacemos clic derecho en la tabla->Script->Insert Scritp
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1031842](https://platzi.com/comentario/1031842/) 
 
-	
 	aqui
 
-* **joaquin-fontela** (1)
+* **joaquin-fontela** (1) [953152](https://platzi.com/comentario/953152/) 
 
-	
 	Alguien mas siente que no tiene sentido que un trayecto tenga como atributo una sola estacion? Un trayecto no se deberia componer de una estacion inicial y otra final?
 
-	* **Oz** (2)
+	* **Oz** [953152] (2)
 
-		
 		Si tiene sentido pensar en ése contexto, pero si lo piensas cómo un metro Linear, donde si sales de la estación A siempre llegas a la B y de la B llegas a la C, si tiene sentido que sólo se mencione el origen porque el destino es el mismo. Para el ejemplo está bien pensar en un modelo sencillo de metro.
 
-	* **GersonPc** (1)
+	* **GersonPc** [953152] (1)
 
-		
 		Es cierto lo que dices, recuerda que es un curso para aprender, y que mejor si tu creas algo mas a lo mostrado en el curso
 
-* **Miguel Ángel Muñoz Pozos** (1)
+* **Miguel Ángel Muñoz Pozos** (1) [915500](https://platzi.com/comentario/915500/) 
 
-	
 	la magia del update y delete cascade
 
-* **adriangonw77** (1)
+* **adriangonw77** (1) [882082](https://platzi.com/comentario/882082/) 
 
-	
 	super bien explicado me, muy bueno le contenido los vídeos son cortos pero se entiende lo que explica
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [875384](https://platzi.com/comentario/875384/) 
 
-	
 	Aqui algunas insersiones
 	``` 
 	    INSERTINTOpublic.pasajero(
@@ -4449,40 +3994,34 @@ Por qué al loggearse con el nuevo role (usuario_consulta) aparece como si estuv
 	    
 	```
 
-* **andoni** (1)
+* **andoni** (1) [874361](https://platzi.com/comentario/874361/) 
 
-	
 	Listo!  
 	![c.JPG](https://static.platzi.com/media/user_upload/c-3bd501fc-9d75-454f-853b-8e7b0b9acb55.jpg)
 
-* **Jhon Zuñiga** (1)
+* **Jhon Zuñiga** (1) [860895](https://platzi.com/comentario/860895/) 
 
-	
 	Hay alguna otra herramienta gráfica para hacer queries?
 	
 	A mi el pgAdmin se me bloquea.
 
-	* **Oz** (1)
+	* **Oz** [860895] (1)
 
-		
 		Hay un cliente de base de datos gratis y muy bueno, DBeaver. te lo recomiendo.
 
-	* **jcruzquintero** (1)
+	* **jcruzquintero** [860895] (1)
 
-		
 		Otro cliente para conectarse a postgresql es omnidb <https://omnidb.org/en/>.
 
-* **Cristian3** (1)
+* **Cristian3** (1) [847919](https://platzi.com/comentario/847919/) 
 
-	
 	Añadí dos viajeros y les hice su registro de viajes, no tuve ningún problema con actualizar sus datos ni de los datos del viajero ni de Id, de echo cambié todos los datos del viajero y me funcionó de maravilla.
 
-* **aycatalan1995** (1)
+* **aycatalan1995** (1) [80280](https://platzi.com/comentario/956092/) 
 Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel a PostgreSQL?
 
-	* **David Rueda** (1)
+	* **David Rueda** [80280] (1)
 
-		
 		En una consulta rápida no he encontrado una importación directa desde archivos *.xls, *.xlsx a postgreSQL, sin embargo, se hace un paso intermedio que es cambiar el formato a *.csv y luego hacer la importación desde pgadmin.
 		
 		A continuación, un procedimiento desde platzi:
@@ -4493,7 +4032,7 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 		
 		<https://www.youtube.com/watch?v=k50t6WC4jtQ>
 
-## 0170. Inserción masiva de datos
+## 0170. Inserción masiva de datos [24185](https://platzi.com/clases/1480-postgresql/24185-insercion-masiva-de-datos/)
 
 ### Descripción:
 
@@ -4504,16 +4043,14 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 
 ### Comentarios:
 
-* **Santiago Ricci** (5)
+* **Santiago Ricci** (5) [839321](https://platzi.com/comentario/839321/) 
 
-	
 	Con esta configuración cree los datos para la tabla viajes.
 	
 	![config.JPG](https://static.platzi.com/media/user_upload/config-ba0eba76-c23c-4e15-a202-d8cb4c8e222a.jpg)
 
-* **Wilson Marino Pablo Mendez** (4)
+* **Wilson Marino Pablo Mendez** (4) [957722](https://platzi.com/comentario/957722/) 
 
-	
 	Los que quieren limpiar las tablas:
 	``` 
 	    TRUNCATE estacion  CASCADE;
@@ -4530,39 +4067,34 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	    
 	```
 
-* **Daniel Contreras** (2)
+* **Daniel Contreras** (2) [971556](https://platzi.com/comentario/971556/) 
 
-	
 	Wow.  
 	En verdad este curso me parece super completo.  
 	Los cursos de Fundamentos de Base de datos y PostgreSQL los de Java con Annai me han parecido de los mejores sin olvidar los de Leonidas.
 	
 	La herramienta para llenar campos en las bases es de lo mejor.
 
-* **Santiago Andres Gelvez Camargo** (2)
+* **Santiago Andres Gelvez Camargo** (2) [956922](https://platzi.com/comentario/956922/) 
 
-	
 	![Postgres_Insercion_masiva.png](https://static.platzi.com/media/user_upload/Postgres_Insercion_masiva-f0c19086-254b-423f-a23f-edf9ee357021.jpg)  
 	Excelente esta herramienta, Mockaroo. Solo hay algo que me vuela la cabeza y es que al insertar fechas aleatorias en viaje, un pasajero puede viajar al pasado iniciando, por ejemplo, en 2017 y finalizando en 2012. Alguien si pudo dejar las fechas un poco mas coherentes que lo que tengo?
 
-* **Marco Antonio González Arellano** (2)
+* **Marco Antonio González Arellano** (2) [878572](https://platzi.com/comentario/878572/) 
 
-	
 	Qué buena herramienta!
 	
 	![]()
 
-* **Diego D Ascoli Batista** (2)
+* **Diego D Ascoli Batista** (2) [839753](https://platzi.com/comentario/839753/) 
 
-	
 	Genial la herramienta mockaroo, yo usaría en la tabla viaje el campo inicio y fin como timestamp
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [839058](https://platzi.com/comentario/839058/) 
 
-	
 	Una herramienta muy interesante.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035310](https://platzi.com/comentario/1035310/) 
 
 	```
 	    --Insert Viaje
@@ -4624,59 +4156,51 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035307](https://platzi.com/comentario/1035307/) 
 
-	
 	Utilizando Custom list para modelos de trenes y capacidad  
 	![Captura de pantalla \(98\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2898%29-74639ce6-6c4d-4d7c-a689-6e5fd3989644.jpg)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035274](https://platzi.com/comentario/1035274/) 
 
-	
 	En mockaroo con las opciones Number se puede generar valores aleatorios entre un rango definido. Custom List nos permite crear una lista explicita de texto o números para que nos genera valores de inserción sobre estas misma.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035242](https://platzi.com/comentario/1035242/) 
 
-	
 	SELECT current_date; nos proporciona la fecha actual pero sobre todo nos muestra el formato que es importante.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1033137](https://platzi.com/comentario/1033137/) 
 
-	
 	Para generar datos falsos para probar nuestra bases de datos podemos utilizar las siguientes opciones: https://www.generatedata.com/ https://www.mockaroo.com/
 
-	* **asanchez2091** (2)
+	* **asanchez2091** [1033137] (2)
 
-		
 		El link no sierve.
 
-	* **Angel de Jesus Quintero Pereira** (1)
+	* **Angel de Jesus Quintero Pereira** [1033137] (1)
 
-		
 		[](https://www.generatedata.com/)  
 		[](https://www.mockaroo.com/)
 
-	* **Angel de Jesus Quintero Pereira** (1)
+	* **Angel de Jesus Quintero Pereira** [1033137] (1)
 
-		
 		[mockaroo](https://www.mockaroo.com/)  
 		[generate-data](https://www.generatedata.com/)
 
-* **JoelNieto** (1)
+* **JoelNieto** (1) [1026346](https://platzi.com/comentario/1026346/) 
 
-	
 	Listo, así quedo mi inserción de datos en la tabla viajero.  
 	![viajero.PNG](https://static.platzi.com/media/user_upload/viajero-83f1609b-8841-4ac7-bb7f-700636d744d1.jpg)
 
-* **franciscolevim** (1)
-![Captura de pantalla_2020-03-05_01-01-32.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla_2020-03-05_01-01-32-dac89dd0-84d7-4b20-8536-689056fe91bf.jpg)
-
-* **Ricardo Mesa Gallego** (1)
-
+* **franciscolevim** (1) [1020019](https://platzi.com/comentario/1020019/) 
 	
+	![Captura de pantalla_2020-03-05_01-01-32.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla_2020-03-05_01-01-32-dac89dd0-84d7-4b20-8536-689056fe91bf.jpg)
+
+* **Ricardo Mesa Gallego** (1) [1013333](https://platzi.com/comentario/1013333/) 
+
 	Excelente herramienta Mockaroo, demasiado util.
 
-* **Angelica Landazabal** (1)
+* **Angelica Landazabal** (1) [1010509](https://platzi.com/comentario/1010509/) 
 
 	```
 	    insertinto viaje (id_pasajero, id_trayecto, inicio, fin) values (69, 124, '2004/04/29', '2010/10/24');
@@ -4782,71 +4306,63 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	    
 	```
 
-* **Franklin Eduardo Cuesta Solorzano** (1)
+* **Franklin Eduardo Cuesta Solorzano** (1) [984621](https://platzi.com/comentario/984621/) 
 
-	
 	La verdad muy interesante el curso para mi la tabla viaje quedo de la siguiente manera:  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-4534cd0d-06ba-47f8-8431-79ef22139f1c.jpg)
 
-* **SergioRubiano** (1)
+* **SergioRubiano** (1) [979317](https://platzi.com/comentario/979317/) 
 
-	
 	Tanto el curso como el docente son lo máximo, muy buen contenido este es uno de mis favoritos  
 	que gran contenido, que calidad en todo
 
-* **Abril Darynka Tapia Sosa** (1)
+* **Abril Darynka Tapia Sosa** (1) [938263](https://platzi.com/comentario/938263/) 
 
-	
 	![](![Captura3.PNG](https://static.platzi.com/media/user_upload/Captura3-0c9d8758-3598-43c2-8526-c3c154997f0b.jpg)
 	
 	Así quedo la configuración de los registros de mi tabla viaje
 
-* **DiegoADaza** (1)
+* **DiegoADaza** (1) [912877](https://platzi.com/comentario/912877/) 
 
-	
 	Postgres es muy parecido a SQL server, yo he trabajado toda mi vida con SQL Server, encuentra muchísimas similitudes, quizás en la único que he visto nuevo es su navegación por comando shell
 
-	* **Adrian Castillo Ramírez** (1)
+	* **Adrian Castillo Ramírez** [912877] (1)
 
-		
 		Esto es porque ambas son SQL por lo que el protocolo es el mismo o muy parecido en cuanto a consultas. Lo que marca diferencia es el motor y las funciones Propias de la base.
 
-* **adriangonw77** (1)
-![tabla viaje.JPG](https://static.platzi.com/media/user_upload/tabla%20viaje-13fa059f-0006-47fb-afde-ddf971c565f3.jpg)
-
-* **adriangonw77** (1)
-![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-a51f18cc-2ac8-412f-9c6f-d29fc7f13c26.jpg)
-
-* **Marco Antonio González Arellano** (1)
-
+* **adriangonw77** (1) [882088](https://platzi.com/comentario/882088/) 
 	
+	![tabla viaje.JPG](https://static.platzi.com/media/user_upload/tabla%20viaje-13fa059f-0006-47fb-afde-ddf971c565f3.jpg)
+
+* **adriangonw77** (1) [882087](https://platzi.com/comentario/882087/) 
+	
+	![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-a51f18cc-2ac8-412f-9c6f-d29fc7f13c26.jpg)
+
+* **Marco Antonio González Arellano** (1) [878573](https://platzi.com/comentario/878573/) 
+
 	[](https://prnt.sc/qejed9)
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [875481](https://platzi.com/comentario/875481/) 
 
-	
 	Perfecto, todos los datos insertados
 
-* **monicarodriguezchavarro** (1)
+* **monicarodriguezchavarro** (1) [874867](https://platzi.com/comentario/874867/) 
 
-	
 	Esto si es la locura ¡¡¡ Es totalmente nuevo para mi y demasiado útil¡¡¡
 
-* **jaime-pinto-a** (1)
+* **jaime-pinto-a** (1) [863014](https://platzi.com/comentario/863014/) 
 
-	
 	Se procedió con la carga de informacion solicitada.
 	
 	![Pruebas.png](https://static.platzi.com/media/user_upload/Pruebas-67d2db66-ef26-4206-b032-b71863c7a4b2.jpg)
 
-* **Cristian3** (1)
+* **Cristian3** (1) [847932](https://platzi.com/comentario/847932/) 
 
-	
 	Tuve problemas porque como había cambiado los ids pues algunos registros no existían, solo los autocompleté para que todo estuviera bien y me permitiera correr todo al 100
 
-# Generar consultas avanzadas
+# Generar consultas avanzadas [4836]
 
-## 0180. Cruzar tablas SQL JOIN
+## 0180. Cruzar tablas SQL JOIN [24186](https://platzi.com/clases/1480-postgresql/24186-cruzar-tablas-sql-join/)
 
 ### Descripción:
 
@@ -4861,9 +4377,8 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 
 ### Comentarios:
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [839071](https://platzi.com/comentario/839071/) 
 
-	
 	Consultas
 	``` 
 	    SELECT * FROM pasajero
@@ -4875,14 +4390,12 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	    
 	```
 
-* **Adrian Castillo Ramírez** (2)
+* **Adrian Castillo Ramírez** (2) [930328](https://platzi.com/comentario/930328/) 
 
-	
 	Left Join funciona de manera optima en la generación de reportes cuando se buscan bugs o errores en la inserción de datos
 
-* **Cristian3** (2)
+* **Cristian3** (2) [847940](https://platzi.com/comentario/847940/) 
 
-	
 	El rigth join con trayecto y tren  
 	SELECT  
 	*  
@@ -4923,9 +4436,8 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	ON  
 	(trayecto.“Id_estacion”=estacion.“Id”);
 
-* **Cristian3** (2)
+* **Cristian3** (2) [847939](https://platzi.com/comentario/847939/) 
 
-	
 	Comparto un join de las tablas de estacion, tren y trayecto  
 	SELECT  
 	trayecto.“Id” as IdTrayecto,  
@@ -4945,9 +4457,8 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	ON  
 	(trayecto.“Id_estacion” = estacion.“Id”)
 
-* **Cristian3** (2)
+* **Cristian3** (2) [847937](https://platzi.com/comentario/847937/) 
 
-	
 	En la versión 12 de postgreSQL se usan comillas dobles ( " " ) para los campos, así funciona correctamente el join  
 	SELECT  
 	*  
@@ -4958,9 +4469,8 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	ON  
 	(viaje.“Id_pasajero”=pasajero.“Id”)
 
-	* **Diego D Ascoli Batista** (1)
+	* **Diego D Ascoli Batista** [847937] (1)
 
-		
 		No es por la versión, las comillas dobles se usan para que el motor respete el campo tal cual está ya sea con mayúsculas, minúsculas o espacios en blancos, porque por defecto el motor de PostgreSQL transforma todo a minúscula.  
 		Ejemplo:
 		``` 
@@ -4969,19 +4479,17 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 		    
 		```
 
-* **juanreinag** (1)
+* **juanreinag** (1) [1096640](https://platzi.com/comentario/1096640/) 
 
-	
 	**Estas son las consultas que hice:**
 	
 	![Joins1.png](https://static.platzi.com/media/user_upload/Joins1-35f20cb0-9c97-4346-845a-04cedc559ddc.jpg) ![Joins2.png](https://static.platzi.com/media/user_upload/Joins2-23ab6a2d-88f2-4a6f-bcfe-360adb722367.jpg)
 
-* **cconde** (1)
+* **cconde** (1) [1037360](https://platzi.com/comentario/1037360/) 
 
-	
 	con el pgadmin es realmente sencillo hacer las consultas
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035484](https://platzi.com/comentario/1035484/) 
 
 	```
 	    --¿Cantidad de viajes por estación?
@@ -5055,31 +4563,26 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035336](https://platzi.com/comentario/1035336/) 
 
-	
 	Tipos de JOINS: 1.INNER JOINS, 2.LEFT JOINS, 3.RIGHT JOINS, FULL OUTHER
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035335](https://platzi.com/comentario/1035335/) 
 
-	
 	Los Joins son básicamente toda la teoría de conjunto aplicada a SQL
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035312](https://platzi.com/comentario/1035312/) 
 
-	
 	Joins son toda las teorias de conjuntos implementadas en los joins
 
-* **Ricardo Mesa Gallego** (1)
+* **Ricardo Mesa Gallego** (1) [1013349](https://platzi.com/comentario/1013349/) 
 
-	
 	 **Tipos de Join**
 	
 	![](https://ingenieriadesoftware.es/wp-content/uploads/2018/07/sqljoin.jpeg)
 
-* **GersonPc** (1)
+* **GersonPc** (1) [972477](https://platzi.com/comentario/972477/) 
 
-	
 	Aqui un JOIN simple para ver a los pasajeros cuando iniciaron el viaje y cuando termino
 	``` 
 	    SELECT p.nombre, v.inicio, v.fin FROM pasajero as p
@@ -5088,7 +4591,7 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	    
 	```
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [958255](https://platzi.com/comentario/958255/) 
 
 	```
 	    SELECT 
@@ -5112,77 +4615,69 @@ Puedo insertar datos de una tabla desde excel, es decir importar tablas de excel
 	
 	![inner join.jpg](https://static.platzi.com/media/user_upload/inner%20join-5a513d5b-f533-4676-a5a7-2171dac6055f.jpg)
 
-* **Luis Nilson Palma Campos** (1)
+* **Luis Nilson Palma Campos** (1) [883296](https://platzi.com/comentario/883296/) 
 
-	
 	MUY BIEN EXPLICADO GRACIAS AQUÍ DEJO MI APORTE CON EL INNER JOIN
 	
 	![Captura de pantalla \(37\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2837%29-6638fe31-a40c-49d5-b97d-979417bdadc4.jpg)
 
-* **Marco Antonio González Arellano** (1)
+* **Marco Antonio González Arellano** (1) [878581](https://platzi.com/comentario/878581/) 
 
-	
 	![](url)![reto_postgres.PNG](https://static.platzi.com/media/user_upload/reto_postgres-74d9c30b-e6aa-4d65-b379-d391d559b681.jpg)
 
-* **andoni** (1)
+* **andoni** (1) [875951](https://platzi.com/comentario/875951/) 
 
-	
 	La unión de dos consultas para traer todos los datos, tengan o no relación  
 	![d.JPG](https://static.platzi.com/media/user_upload/d-1d36aa67-bd34-4fc6-bfdf-2fb86735784b.jpg)
 
-* **andoni** (1)
-![a.JPG](https://static.platzi.com/media/user_upload/a-e5e996b0-18ec-4c98-8dee-1458ae707a3d.jpg)
+* **andoni** (1) [875948](https://platzi.com/comentario/875948/) 
+	
+	![a.JPG](https://static.platzi.com/media/user_upload/a-e5e996b0-18ec-4c98-8dee-1458ae707a3d.jpg)
 
-* **Joel alexander** (1)
+* **Joel alexander** (1) [79919](https://platzi.com/comentario/949099/) 
 Los dos querys siguientes, Arrojarían el mismo resultado? Select * from A Left Join B on A.id = 
 
-	* **Vicente Fernandez** (1)
+	* **Vicente Fernandez** [79919] (1)
 
-		
 		Hola, si, pienso que arrojarían los mismos resultados.
 
-## 0190. Funciones Especiales Principales
+## 0190. Funciones Especiales Principales [24187](https://platzi.com/clases/1480-postgresql/24187-funciones-especiales-principales/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **TUDz** (5)
+* **TUDz** (5) [836555](https://platzi.com/comentario/836555/) 
 
-	
 	La función RETURNING es fundamental en la creación y uso de Stored procedure transaccionales. Al momento de insertar información con id autoincremental, con RETURNING podemos obtener dicho valor e insertarlo o referenciarlo en otras tablas.
 
-* **Cristian Fabian Tovar** (3)
+* **Cristian Fabian Tovar** (3) [985974](https://platzi.com/comentario/985974/) 
 
-	
 	Hasta que por fin le quitó ese color!!! 😄
 
-* **Miguel Ángel Muñoz Pozos** (3)
+* **Miguel Ángel Muñoz Pozos** (3) [937007](https://platzi.com/comentario/937007/) 
 
-	
 	Que hermoso ya quiero usar únicamente postgreSQL
 
-* **Jaime Andrés Martínez Rodríguez** (3)
+* **Jaime Andrés Martínez Rodríguez** (3) [931897](https://platzi.com/comentario/931897/) 
 
-	
 	Mi resumen  
 	Existen 4 funciones especiales que nos ayudarán en nuestro día a día estas son
 	
-	  * ON CONFLICT DO: Es una especie de sobre escritura sobre algo que ya este creado “Como un UPDATE”
+	* ON CONFLICT DO: Es una especie de sobre escritura sobre algo que ya este creado “Como un UPDATE”
 	
-	  * RETURNING: Muestra en pantalla el último cambio hecho
+	* RETURNING: Muestra en pantalla el último cambio hecho
 	
-	  * LIKE / ILIKE: Busqueda por similitudes la diferencia entre ambas es que like busca en minusculas y ilike busca mayusculas/minisculas
+	* LIKE / ILIKE: Busqueda por similitudes la diferencia entre ambas es que like busca en minusculas y ilike busca mayusculas/minisculas
 	
-	  * IS / IS NOT: comparacion para atributos especiales como el NULL
+	* IS / IS NOT: comparacion para atributos especiales como el NULL
 	
 	
 	
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [839135](https://platzi.com/comentario/839135/) 
 
-	
 	Muy interesante, estas fucniones estan en otros motores como Sql Sever, pero tienen un difenete nombre en algunas ocasiones.
 	``` 
 	    INSERTINTOpublic.estacion(
@@ -5215,12 +4710,11 @@ Los dos querys siguientes, Arrojarían el mismo resultado? Select * from A Left 
 	    
 	```
 
-* **juananquirozf** (1)
+* **juananquirozf** (1) [1110111](https://platzi.com/comentario/1110111/) 
 
-	
 	Gracias por quitar el fondo rojo! 😄
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035631](https://platzi.com/comentario/1035631/) 
 
 	```
 	    --/////////////////
@@ -5264,62 +4758,53 @@ Los dos querys siguientes, Arrojarían el mismo resultado? Select * from A Left 
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035535](https://platzi.com/comentario/1035535/) 
 
-	
 	IS/IS NOT, nos permite comparar tipos de datos que no son estándar o son objetos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035527](https://platzi.com/comentario/1035527/) 
 
-	
 	LIKE/ILIKE nos permite realizar búsquedas al estilo de expresiones regulares dónde podemos probar buscar nombres por un carácter en específico que comience, termine o se encuentre entre una cadena de carácteres.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035518](https://platzi.com/comentario/1035518/) 
 
-	
 	RETURNING, evita realizar una consulta adicional en la base de datos para recopilar los datos CUANDO se realize un INSERT, UPDATE, DELETE, y es especialmente valioso cuando de otro modo sería difícil identificar las filas modificadas de manera confiable.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035514](https://platzi.com/comentario/1035514/) 
 
-	
 	ON CONFLICT DO, permite realizar una actualización en un registro si este se encuentra, sí no se encuentra se insertará, https://www.postgresqltutorial.com/postgresql-upsert/
 
-* **ehuacachi** (1)
+* **ehuacachi** (1) [1011795](https://platzi.com/comentario/1011795/) 
 
-	
 	… si de pronto está molestado este colo ROJO…
 
-	* **Ricardo Mesa Gallego** (1)
+	* **Ricardo Mesa Gallego** [1011795] (1)
 
-		
 		jajajaja, ya me tenia desesperado ese Rojo xD
 
-* **adriangonw77** (1)
+* **adriangonw77** (1) [889032](https://platzi.com/comentario/889032/) 
 
-	
 	muy buena explicación
 
-* **andoni** (1)
+* **andoni** (1) [75789](https://platzi.com/comentario/875984/) 
 Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué casos se utiliza el primero?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [75789] (1)
 
-		
 		Estos tutoriales te pueden ayudar:
 		
 		👉 <http://www.postgresqltutorial.com/postgresql-update/>  
 		👉 <http://www.postgresqltutorial.com/postgresql-upsert/>
 
-## 0200. Funciones Especiales Avanzadas
+## 0200. Funciones Especiales Avanzadas [24188](https://platzi.com/clases/1480-postgresql/24188-funciones-especiales-avanzadas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Abril Darynka Tapia Sosa** (5)
+* **Abril Darynka Tapia Sosa** (5) [938322](https://platzi.com/comentario/938322/) 
 
-	
 	Funciones Especiales avanzadas en PosgreSQL  
 	• COALES: compara dos valores y retorna el que es nulo  
 	• NULLIF: Retorna null si son iguales  
@@ -5327,9 +4812,8 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	• LEAST: Compara un arreglo de valores y retorna el menor  
 	• BLOQUES ANONIMOS: Ingresa condicionales dentro de una consulta de BD
 
-* **Luis Rodrigo Alvarez Herrera** (5)
+* **Luis Rodrigo Alvarez Herrera** (5) [883705](https://platzi.com/comentario/883705/) 
 
-	
 	Mi aporte
 	``` 
 	    SELECTid, nombre, fecha_nacimiento,
@@ -5344,9 +4828,8 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **dbzdavidbaez** (4)
+* **dbzdavidbaez** (4) [839309](https://platzi.com/comentario/839309/) 
 
-	
 	Buena explicacion, este es el codigo del video
 	``` 
 	    SELECT * FROM pasajero WHEREid = 5;
@@ -5368,7 +4851,7 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Diego Hernandez** (3)
+* **Diego Hernandez** (3) [1039388](https://platzi.com/comentario/1039388/) 
 
 	```
 	    SELECTid, nombre, direccion_red, fecha_nac,
@@ -5383,19 +4866,17 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **adriangonw77** (3)
+* **adriangonw77** (3) [889071](https://platzi.com/comentario/889071/) 
 
-	
 	lo hice simple pero funciono. ![CasosJPG.JPG](https://static.platzi.com/media/user_upload/CasosJPG-cdb03849-8d8f-4037-b399-0e6369253b7a.jpg)
 
-* **juanreinag** (2)
+* **juanreinag** (2) [1104643](https://platzi.com/comentario/1104643/) 
 
-	
 	Esta es mi solución al ejercicio:
 	
 	![Ejercicio_funciones_av.png](https://static.platzi.com/media/user_upload/Ejercicio_funciones_av-9ff019f1-4a9d-41eb-84df-cfbc58c794d5.jpg) ![Resultado_funciones_av.png](https://static.platzi.com/media/user_upload/Resultado_funciones_av-0b0febe0-f1a1-4da0-9ebc-29e846ffd9a8.jpg)
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1036087](https://platzi.com/comentario/1036087/) 
 
 	```
 	    --Reto listar  cuáles pasajero sus nombres comienzan con la letra 'o' y cuáles de ellos tiene más de 18 años
@@ -5415,9 +4896,8 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Alodia Flores Arnao** (2)
+* **Alodia Flores Arnao** (2) [993430](https://platzi.com/comentario/993430/) 
 
-	
 	SELECT id, nombre, direccion, fecha_nacimiento,  
 	CASE  
 	WHEN nombre ILIKE ‘o%’ THEN  
@@ -5433,29 +4913,28 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	END AS Edad  
 	FROM pasajero;
 
-* **Wilson Marino Pablo Mendez** (2)
-![case.jpg](https://static.platzi.com/media/user_upload/case-1f2314b3-e9ab-429a-9286-12164955cab7.jpg)
-
-* **Soycharlie** (2)
-![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-f4b27a71-f855-4400-906d-c3e7a20fa629.jpg)
-
-* **Luis Nilson Palma Campos** (2)
-
+* **Wilson Marino Pablo Mendez** (2) [963237](https://platzi.com/comentario/963237/) 
 	
+	![case.jpg](https://static.platzi.com/media/user_upload/case-1f2314b3-e9ab-429a-9286-12164955cab7.jpg)
+
+* **Soycharlie** (2) [961984](https://platzi.com/comentario/961984/) 
+	
+	![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-f4b27a71-f855-4400-906d-c3e7a20fa629.jpg)
+
+* **Luis Nilson Palma Campos** (2) [887396](https://platzi.com/comentario/887396/) 
+
 	YO REALICE UNA CONSULTA PARECIDA AL DEL PROFE SOLO QUE TAMBIÉN MOSTRÉ SU EDAD EN AÑOS Y MESES  
 	AQUÍ LES DEJO LA CONSULTA  
 	![Captura de pantalla \(40\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2840%29-24b19bb2-cf40-4393-af68-c0ae8e30a9b4.jpg)
 
-* **Marco Antonio González Arellano** (2)
+* **Marco Antonio González Arellano** (2) [880894](https://platzi.com/comentario/880894/) 
 
-	
 	Gracias por la clase, es genial!
 	
 	![](![postgres2.png](https://static.platzi.com/media/user_upload/postgres2-dc54586c-ae2e-4c29-9084-9c9ccecef16f.jpg)
 
-* **jaime-pinto-a** (2)
+* **jaime-pinto-a** (2) [863497](https://platzi.com/comentario/863497/) 
 
-	
 	Practica solicitada en el vídeo:
 	
 	SELECT  
@@ -5472,7 +4951,7 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	END as Inicio_O  
 	FROM public.pasajero;
 
-* **AlejoE02** (2)
+* **AlejoE02** (2) [846926](https://platzi.com/comentario/846926/) 
 
 	```
 	    selectid, nombre, direccion_residencia, fecha_nacimiento,
@@ -5484,9 +4963,8 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Adrian Rodrigo Martinez Idiaquez** (1)
+* **Adrian Rodrigo Martinez Idiaquez** (1) [1117347](https://platzi.com/comentario/1117347/) 
 
-	
 	select id,nombre,direccion_residencia,fecha_nacimiento,  
 	case  
 	when nombre ilike ‘o%’ then 'empieza por la O’  
@@ -5501,16 +4979,14 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	end as mayor_menor  
 	from pasajero;
 
-* **DonTapas** (1)
+* **DonTapas** (1) [1110992](https://platzi.com/comentario/1110992/) 
 
-	
 	Gracias por esta clase!!!
 	
 	![Screenshot_5.jpg](https://static.platzi.com/media/user_upload/Screenshot_5-506a756a-2658-4de6-83a6-abd58ad17094.jpg)
 
-* **edgarrodgom** (1)
+* **edgarrodgom** (1) [1087551](https://platzi.com/comentario/1087551/) 
 
-	
 	select id,nombre,direccion_residencia,  
 	case  
 	when DATE_PART(‘year’, current_date::date) - DATE_PART(‘year’,fecha_nacimiento::date) >= 18  
@@ -5521,9 +4997,8 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	where nombre ilike 'p%'  
 	group by id
 
-* **Peter_g** (1)
+* **Peter_g** (1) [1060711](https://platzi.com/comentario/1060711/) 
 
-	
 	SELECT id, nombre, direccion_residencia, fecha_nacimiento,  
 	CASE  
 	WHEN fecha_nacimiento < ‘2002-01-01’ THEN  
@@ -5538,36 +5013,30 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035654](https://platzi.com/comentario/1035654/) 
 
-	
 	BLOQUES ANÓNIMOS, permite tener condicionales pero dentro de una consulta sql
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035649](https://platzi.com/comentario/1035649/) 
 
-	
 	GREATEST, LEAST permite comparar un arreglo de valores y retorna en el caso de GREATEST el mayor y en el caso de LEAST el menor
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035645](https://platzi.com/comentario/1035645/) 
 
-	
 	NULLIF, te permite comprar dos valores y retorna NULL si son iguales
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1035643](https://platzi.com/comentario/1035643/) 
 
-	
 	COALESCE, permite comparar dos valores y saber cuál de los dos no son NULL
 
-* **Diego Alonso García Tenorio** (1)
+* **Diego Alonso García Tenorio** (1) [1015444](https://platzi.com/comentario/1015444/) 
 
-	
 	Buenas Tardes.  
 	Esta es mi solución.  
 	![2.png](https://static.platzi.com/media/user_upload/2-b9cde092-e29e-4ac0-aa38-ab9f5b866dbb.jpg)
 
-* **Joseph Santibáñez** (1)
+* **Joseph Santibáñez** (1) [1008123](https://platzi.com/comentario/1008123/) 
 
-	
 	Lo hice aplicando INTERVAL, ahí va por si le es de ayuda a alguien, saludos
 	``` 
 	    SELECTid, nombre, direccion_residencia,
@@ -5579,10 +5048,11 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **vegadevh** (1)
-![](https://static.platzi.com/media/user_upload/Capture-c5ac9292-fc2f-4db1-968c-219b48a0cf2e.jpg)
+* **vegadevh** (1) [995527](https://platzi.com/comentario/995527/) 
+	
+	![](https://static.platzi.com/media/user_upload/Capture-c5ac9292-fc2f-4db1-968c-219b48a0cf2e.jpg)
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [986926](https://platzi.com/comentario/986926/) 
 
 	```
 	    -- +18
@@ -5601,15 +5071,13 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Santiago Andres Gelvez Camargo** (1)
+* **Santiago Andres Gelvez Camargo** (1) [957080](https://platzi.com/comentario/957080/) 
 
-	
 	Apoyado en la documentación para el tema de la edad del pasajero, reto cumplido 😎  
 	![Query_reto_Favanzadas.png](https://static.platzi.com/media/user_upload/Query_reto_Favanzadas-1b08dd91-86c6-4a92-92f5-b545a593e16f.jpg)
 
-* **Miguel Ángel Muñoz Pozos** (1)
+* **Miguel Ángel Muñoz Pozos** (1) [947164](https://platzi.com/comentario/947164/) 
 
-	
 	SELECT *, ((CURRENT_DATE - fecha_nacimiento)/365) AS “Años cumplidos”,  
 	(CASE WHEN ((CURRENT_DATE - fecha_nacimiento)/365) >= 18  
 	THEN 'SI’  
@@ -5619,17 +5087,15 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	WHERE nombre  
 	ILIKE ‘o%’;
 
-* **Miguel Ángel Muñoz Pozos** (1)
+* **Miguel Ángel Muñoz Pozos** (1) [947081](https://platzi.com/comentario/947081/) 
 
-	
 	Yo no sabia que **CASE WHEN condicion THEN ‘true’ ELSE ‘FALSE’ END** se conocia como BLOQUES ANONIMOS
 
-* **jhon Erik calderon Rubiano** (1)
+* **jhon Erik calderon Rubiano** (1) [943455](https://platzi.com/comentario/943455/) 
 
-	
 	COMPARTO EL CODIGO REQUERIDO![PRINT.JPG](https://static.platzi.com/media/user_upload/PRINT-9ae62a8f-6c9a-45dc-825d-46edc816888c.jpg)
 
-* **MaxLandh** (1)
+* **MaxLandh** (1) [942569](https://platzi.com/comentario/942569/) 
 
 	```
 	    SELECT * FROM ( SELECTid, nombre, direccion_residencia, fecha_nacimiento,
@@ -5643,7 +5109,7 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Abril Darynka Tapia Sosa** (1)
+* **Abril Darynka Tapia Sosa** (1) [938371](https://platzi.com/comentario/938371/) 
 
 	```
 	    CASE
@@ -5655,7 +5121,7 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    FROMpublic.pasajero;```
 	```
 
-* **Jhonny Stiven Agudelo Tenorio** (1)
+* **Jhonny Stiven Agudelo Tenorio** (1) [937304](https://platzi.com/comentario/937304/) 
 
 	```
 	    SELECT *
@@ -5677,9 +5143,8 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **gersonrpq** (1)
+* **gersonrpq** (1) [935705](https://platzi.com/comentario/935705/) 
 
-	
 	🤓 🚀
 	``` 
 	    SELECT *,
@@ -5695,18 +5160,17 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Juliana Ramirez** (1)
-![Screenshot at 2020-01-07 17-50-08.png](https://static.platzi.com/media/user_upload/Screenshot%20at%202020-01-07%2017-50-08-70bebc05-ecde-43c4-94f0-8ff35f749ae9.jpg)
-
-* **andoni** (1)
-
+* **Juliana Ramirez** (1) [908020](https://platzi.com/comentario/908020/) 
 	
+	![Screenshot at 2020-01-07 17-50-08.png](https://static.platzi.com/media/user_upload/Screenshot%20at%202020-01-07%2017-50-08-70bebc05-ecde-43c4-94f0-8ff35f749ae9.jpg)
+
+* **andoni** (1) [876007](https://platzi.com/comentario/876007/) 
+
 	Puede anidar unos CASE dentro de otros en el ELSE. Es hermoso :’)  
 	![p.JPG](https://static.platzi.com/media/user_upload/p-bb517064-98fd-4ff4-9e00-ca2960a4ceec.jpg)
 
-* **Cristian3** (1)
+* **Cristian3** (1) [848352](https://platzi.com/comentario/848352/) 
 
-	
 	Les aporto con mi código  
 	SELECT “Id”, “Nombre”, “Direccion_residencia”, “Fecha_nacimiento”,  
 	CASE  
@@ -5735,16 +5199,15 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	–Le dice su nombre, si no pues le dice que no empieza con O  
 	–Si la fecha de nacimiento es mayor a 6570 días (18 años) le dice que es mayor, si no, es menor
 
-## 0210. Vistas
+## 0210. Vistas [24189](https://platzi.com/clases/1480-postgresql/24189-vistas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [840463](https://platzi.com/comentario/840463/) 
 
-	
 	Entendido
 	``` 
 	    CREATEORREPLACEVIEWpublic.rango_view
@@ -5790,27 +5253,24 @@ Cual es la diferencia entre usar el ON CONFLICT DO y el UPDATE? Cómo se en qué
 	    
 	```
 
-* **Israel Yance** (2)
+* **Israel Yance** (2) [950386](https://platzi.com/comentario/950386/) 
 
-	
 	Tipos de vistas:  
 	**\- Vista Volátil:** Consulta con data actualizada  
 	**\- Vista Materializada:** Consulta con data persistente
 
-* **carlossanchez27** (2)
+* **carlossanchez27** (2) [77410](https://platzi.com/comentario/903798/) 
 Hola, tengo un ligero problema. Después de crear la vista materializada, al ejecutar el comando REFRESH MATERIALIZED VIEW me arroga el si...
 
-	* **DiegoADaza** (1)
+	* **DiegoADaza** [77410] (1)
 
-		
 		Pruebalo ejecutandolo por la pantalla shell.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036352](https://platzi.com/comentario/1036352/) 
 
-	
 	Algo se vio en los anteriores curso de mysql es que es bueno tener unas columnas que indique cuando se creó, actualizó y si está activa o no ya un Ejemplo de usar vista materializada es guardar un registro históricos de los cambios de las tuplas
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036348](https://platzi.com/comentario/1036348/) 
 
 	```
 	    --Vista Materializada con data
@@ -5848,77 +5308,65 @@ Hola, tengo un ligero problema. Después de crear la vista materializada, al eje
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036175](https://platzi.com/comentario/1036175/) 
 
-	
 	Las vistas son útiles porque nos ayudan a centralizar todos los esfuerzo en un solo lugar por otra parte las vistas volátil no guardan información de forma persistente, en cambio la vista materializada si, esto es útil cuando queremos consultar que datos ocurrieron el día ant.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036159](https://platzi.com/comentario/1036159/) 
 
-	
 	Una vista en esencia es tomar una consulta convertirla en un solo nombre. De modo que SELECT * FROM view_name
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036156](https://platzi.com/comentario/1036156/) 
 
-	
 	Hay dos tipos de vistas: 1. Vistas Volátil, 2.Vistas Materializada: Persistentes
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036153](https://platzi.com/comentario/1036153/) 
 
-	
 	Hay dos tipos de vistas:
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036151](https://platzi.com/comentario/1036151/) 
 
-	
 	Tenga en cuenta que una vista no almacena datos físicamente, excepto una vista materializada .
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1036147](https://platzi.com/comentario/1036147/) 
 
-	
 	Vistas: es un objeto de bd que es de una consulta almacenada. Se puede acceder a una vista como una tabla virtual en PostgreSQL. En otras palabras, una vista PostgreSQL es una tabla lógica que representa datos de una o más tablas subyacentes a través de una instrucción SELECT
 
-* **Edgard Mauricio Alvarez Franco** (1)
+* **Edgard Mauricio Alvarez Franco** (1) [975311](https://platzi.com/comentario/975311/) 
 
-	
 	Me quedó claro lo del case en el video 20, pero si quisiera que el case tuviera un nombre en la consulta, como debo escribirlo en sql?
 
-	* **vegadevh** (1)
+	* **vegadevh** [975311] (1)
 
-		
 		Hola, luego de END escribe AS seguido del nombre que quieras 😃
 		
 		![Capture.PNG](https://static.platzi.com/media/user_upload/Capture-ec7f5ba9-b320-4439-a294-dfb159ca9caf.jpg)
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [883799](https://platzi.com/comentario/883799/) 
 
-	
 	En mi version de Postgres, es necesario colocar la vista Materializada entre comillas si no me arroja error
 	``` 
 	    SELECT * FROM"VistaM";```
 	    
 	```
 
-* **Diego Armando Bravo Sanabria** (1)
+* **Diego Armando Bravo Sanabria** (1) [859017](https://platzi.com/comentario/859017/) 
 
-	
 	Cuando ingreso a la ventana de creación de la vista no me aparece la pestaña “código”
 
-	* **eddyarellanes** (1)
+	* **eddyarellanes** [859017] (1)
 
-		
 		¿Qué versión de PgAdmin usas?  
 		Yo probé en la 4 y todo OK
 
-* **JUAN CARLOS PARRA GALAN** (1)
+* **JUAN CARLOS PARRA GALAN** (1) [73964](https://platzi.com/comentario/844268/) 
 ¿Como se puede crear un trigger que refresque la vista materializada periódicamente?
 
-	* **Oz** (2)
+	* **Oz** [73964] (2)
 
-		
 		No sería un TRIGGER, sería una función que llames desde una tarea programada o cronjob en linux. que llape periódicamente a la funcion que recarga la vista materializada.
 
-## 0220. PLSQL
+## 0220. PLSQL [24190](https://platzi.com/clases/1480-postgresql/24190-plsql/)
 
 ### Descripción:
 
@@ -5929,58 +5377,48 @@ Hola, tengo un ligero problema. Después de crear la vista materializada, al eje
 
 ### Comentarios:
 
-* **Abril Darynka Tapia Sosa** (15)
+* **Abril Darynka Tapia Sosa** (15) [939340](https://platzi.com/comentario/939340/) 
 
-	
 	![](![Captura4.PNG](https://static.platzi.com/media/user_upload/Captura4-96ab9d65-0f83-48c7-b035-b515011ac551.jpg)
 
-	* **aycatalan1995** (1)
+	* **aycatalan1995** [939340] (1)
 
-		
 		algun programa para hacer estos esquemas de manera rapida?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [939340] (2)
 
-		
 		 **@aycatalan1995** Me han recomendado mucho [draw.io](http://draw.io). 😉
 
-	* **CarlosGR** (1)
+	* **CarlosGR** [939340] (1)
 
-		
 		Thank you =")
 
-* **TUDz** (5)
+* **TUDz** (5) [836727](https://platzi.com/comentario/836727/) 
 
-	
 	Las funciones y los Stored procedure son un pilar dentro de las bases de datos con ayuda de los lenguajes procedurales como PLPGSQL y PL/SQL (En el caso de Oracle). Gran parte de la lógica de negocios puede ser abstraída directamente en la base de datos con ayuda de dicho lenguaje permitiendo liberar al backend de parte de este procesamiento.
 
-* **raul-fernandez-fuentes** (3)
+* **raul-fernandez-fuentes** (3) [933603](https://platzi.com/comentario/933603/) 
 
-	
 	Esta parte deberia ser un poco mas amplia, ya que es una herramienta fundamental para los desarrolladores de BD, interesante pero me parece que no muestran el verdadero poder de PG si no accedes al core de la BD.
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [840553](https://platzi.com/comentario/840553/) 
 
-	
 	Las funciones y procedmientos almacenados son una gran herramienta para realizar las consultas de los datos. Esto optimiza recursos y le saca el jugo al motor de base de datos. Muchas empresas colocan la logica del negocio en la base de datos y asi pueden mejorar el rendimiento y cualquier arreglo en las consultas son mas sencillo de implementar.
 
-* **Jose Gisbert Castillo** (2)
+* **Jose Gisbert Castillo** (2) [1092119](https://platzi.com/comentario/1092119/) 
 
-	
 	Este curso está muy bien estructurado, explicado de forma clara y concisa gracias Oswaldo.
 
-	* **jgarcia990** (1)
+	* **jgarcia990** [1092119] (1)
 
-		
 		De acuerdo con tu comentario, el contenido, la estructura y el profesor dan mucha claridad en el curso.
 
-* **Diego Alonso García Tenorio** (2)
+* **Diego Alonso García Tenorio** (2) [1017203](https://platzi.com/comentario/1017203/) 
 
-	
 	Buenas Tardes.  
 	Esta clase debería ser más compleja y con una introducción previa donde haya mayor explicación.
 
-* **Israel Yance** (2)
+* **Israel Yance** (2) [954036](https://platzi.com/comentario/954036/) 
 
 	```
 	    DO $$
@@ -5995,36 +5433,31 @@ Hola, tengo un ligero problema. Después de crear la vista materializada, al eje
 	    
 	```
 
-* **Vicente Fernandez** (2)
+* **Vicente Fernandez** (2) [932792](https://platzi.com/comentario/932792/) 
 
-	
 	Me voy a saltar esta clase porque no entiendo nada…
 
-	* **Abril Darynka Tapia Sosa** (2)
+	* **Abril Darynka Tapia Sosa** [932792] (2)
 
-		
 		Hola Vicente, que es lo que no entiendes de la clase?
 
-	* **SergioRubiano** (1)
+	* **SergioRubiano** [932792] (1)
 
-		
 		Si te saltas una clase lo mas probable es que te pierdas en la próxima, haz tu mayor esfuerzo de comprenderla
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [1056151](https://platzi.com/comentario/1056151/) 
 
-	
 	Wau es excelente realmente este curso.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037956](https://platzi.com/comentario/1037956/) 
 
+	* PL Procedural language, también conocido como procedimientos almacenados, estas nos ayuda a desarrollar código directamente en el motor de bases de datos.
 	
-	  * PL Procedural language, también conocido como procedimientos almacenados, estas nos ayuda a desarrollar código directamente en el motor de bases de datos.
+	* Estructura de un Pl es: Declaración + uso de variable+ código +fin + retorno de valores o no retorna valores.UN bloque de código se ejecuta con la palabra DO $$ BEGIN --insert código here END $$
 	
-	  * Estructura de un Pl es: Declaración + uso de variable+ código +fin + retorno de valores o no retorna valores.UN bloque de código se ejecuta con la palabra DO $$ BEGIN --insert código here END $$
+	* RAISE NOTICE ‘message’, esta sentencia es para enviar un mensaje en el log de postgres
 	
-	  * RAISE NOTICE ‘message’, esta sentencia es para enviar un mensaje en el log de postgres
-	
-	  * Retornar una tabla  
+	* Retornar una tabla  
 	[Retornar una tabla](https://stackoverflow.com/questions/18084936/pl-pgsql-functions-how-to-return-a-normal-table-with-multiple-columns-using-an).
 	
 	
@@ -6119,7 +5552,7 @@ Hola, tengo un ligero problema. Después de crear la vista materializada, al eje
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037943](https://platzi.com/comentario/1037943/) 
 
 	```
 	    /*Mostrar  una tabla o un solo registro  con plpg*/
@@ -6158,42 +5591,35 @@ Hola, tengo un ligero problema. Después de crear la vista materializada, al eje
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037612](https://platzi.com/comentario/1037612/) 
 
-	
 	Es importante al declarar una función decirle al lenguaje que en que lenguaje está escrito la función ya que postsgre con ciertas librerías soporta python, c++ y pl entre otros.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037545](https://platzi.com/comentario/1037545/) 
 
-	
 	1- DECLARE, es la sentencia para la declaración de variables. 2- El tipo de datos que nos sirve para almacenar una fila es record. 3- llos siguientes caracteres := símolizan asignación
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037540](https://platzi.com/comentario/1037540/) 
 
-	
 	Las pl su objetivo principal es realizar consultas a las bases de datos una pl que no tenga que ver con consultas a la base de datos no es muy útil.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037531](https://platzi.com/comentario/1037531/) 
 
-	
 	RAISE NOTICE 'message', esta sentencia es para enviar un mensaje en el log o bitácora de postgres
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037397](https://platzi.com/comentario/1037397/) 
 
-	
 	UN bloque de código se ejecuta con la palabra DO $$ BEGIN --insert código here END $$
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037376](https://platzi.com/comentario/1037376/) 
 
-	
 	Estructura de un Pl es: Decalración + uso de variable+ código +fin + retorno de valores o no retorna valores.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1037134](https://platzi.com/comentario/1037134/) 
 
-	
 	PL Procedural language, también conocido como procedimientos almacenados, estas nos ayuda a desarrollar código directamente en el motor de bases de datos.
 
-* **SergioRubiano** (1)
+* **SergioRubiano** (1) [981243](https://platzi.com/comentario/981243/) 
 
 	```
 	    """PL/SQL Usando codigo"""
@@ -6220,33 +5646,30 @@ Hola, tengo un ligero problema. Después de crear la vista materializada, al eje
 	    
 	```
 
-* **DiegoADaza** (1)
+* **DiegoADaza** (1) [79260](https://platzi.com/comentario/936806/) 
 Que diferencias hay entre ejecutar un Store Procedure de PLSQL Vs SQL server?
 
-	* **David Rueda** (3)
+	* **David Rueda** [79260] (3)
 
-		
 		SQL Server es la versión de manejador de bases de datos de Microsoft, se puede decir es un competidor de PostgreSQL.
 		
 		Mientras PL/SQL es el “lenguaje de procedimientos” para SQL, puede ser ejecutado en diferentes manejadores con sus respectivos ajustes de sintaxis.
 
-* **_namp** (1)
+* **_namp** (1) [79122](https://platzi.com/comentario/934059/) 
 Esto es lo que en SQL SERVER se llaman “CURSORES”?
 
-* **Jaime Andrés Martínez Rodríguez** (1)
+* **Jaime Andrés Martínez Rodríguez** (1) [79030](https://platzi.com/comentario/932064/) 
 Estoy tratando de crear la función pero me salta un error exactamente en el END LOOP; ¿Alguien detecta el error? CREATE FUNCTION importan...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [79030] (1)
 
-		
 		Te falta un punto y coma ( **`;`** ) en la línea antes del **`END LOOP`** : **`contador := contador+1;`**.
 
-* **SistemasCBC** (1)
+* **SistemasCBC** (1) [74655](https://platzi.com/comentario/856767/) 
 Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAdmin? no se puede desde Consola?
 
-	* **rulobars** (4)
+	* **rulobars** [74655] (4)
 
-		
 		Puedes hacerlo desde el psql sin problemas desde el psql te dejo un ejemplo:
 		
 		CREATE FUNCTION sumar(a integer,b integer)  
@@ -6260,26 +5683,24 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 		
 		SELECT sumar(6,3);
 
-## 0230. Triggers
+## 0230. Triggers [24191](https://platzi.com/clases/1480-postgresql/24191-triggers/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **TUDz** (4)
+* **TUDz** (4) [836736](https://platzi.com/comentario/836736/) 
 
-	
 	Los triggers son de gran ayuda, ya que permiten poblar bitácoras (por ejemplo) al momento de realizar inserts o updates dentro de tablas contenidas dentro de nuestro sistema. Su estructura es:
 	
-	  * Creación de función con tipo de **RETURN TRIGGER**.
-	  * Creación de trigger asociado a una acción y momento concreto sobre una tabla **[AFTER, BEFORE, INSTEAD] [UPDATE,INSERT,DELETE,TRUNCATE]**
+	* Creación de función con tipo de **RETURN TRIGGER**.
+	* Creación de trigger asociado a una acción y momento concreto sobre una tabla **[AFTER, BEFORE, INSTEAD] [UPDATE,INSERT,DELETE,TRUNCATE]**
 	
 	
 
-* **SOFTDYNAMIC** (3)
+* **SOFTDYNAMIC** (3) [987152](https://platzi.com/comentario/987152/) 
 
-	
 	No era necesario eliminar el trigger y volver a crear todo ya que el tipo de retorno definido era el mismo.
 	``` 
 	    CREATE TRIGGER snapshot_passengers_trigger
@@ -6290,49 +5711,40 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	    
 	```
 
-* **Abril Darynka Tapia Sosa** (3)
+* **Abril Darynka Tapia Sosa** (3) [940192](https://platzi.com/comentario/940192/) 
 
-	
 	![](![Captura5.PNG](https://static.platzi.com/media/user_upload/Captura5-5794b1b7-7b56-4dd7-b0be-201aae420ec3.jpg)
 
-* **rulobars** (3)
+* **rulobars** (3) [851873](https://platzi.com/comentario/851873/) 
 
-	
 	Hay que tener cuidado con los Triggers y no usarlos en la logica del negocio porque pueden volverse un dolor de cabeza, yo solo los utilizo para realizar el llenado de alguna tabla de auditoria, ya que las variables OLD y NEW te permiten saber que campos sufrieron modificaciones, y solo registrar los campos que se modifican.
 
-	* **Oz** (1)
+	* **Oz** [851873] (1)
 
-		
 		De acuerdo, son muy potentes, por eso mismo, son de mucho cuidado. Si la lógica del negocio los necesita, son muy útiles, en la empresa donde trabajo los usamos, tenemos más de 15 Triggers.
 
-	* **jaime-pinto-a** (1)
+	* **jaime-pinto-a** [851873] (1)
 
-		
 		Los Triggers son muy recomendable, para los sistema de pista de auditorias, nos ayudan muchos para conocer quienes realizaron los cambios en los sistemas,
 
-* **Carlos Chavez** (2)
+* **Carlos Chavez** (2) [1111112](https://platzi.com/comentario/1111112/) 
 
-	
 	Quedé en la nebulosa con esta lección.
 
-* **asanchez2091** (2)
+* **asanchez2091** (2) [1064630](https://platzi.com/comentario/1064630/) 
 
-	
 	Esta clase creo que estuvo muy compleja
 
-	* **ejgachancipa** (1)
+	* **ejgachancipa** [1064630] (1)
 
-		
 		De acuerdo 😰😬
 
-* **Angel de Jesus Quintero Pereira** (2)
+* **Angel de Jesus Quintero Pereira** (2) [1039742](https://platzi.com/comentario/1039742/) 
 
-	
 	DROP FUNCTION IF EXISTS count_on_insert_pasajero() CASCADE; en ocasiones para borrar una función de tipo triggers nos arrojará error porque de esta función dependen otros objetos y debemos utilizar CASCADE
 
-* **arnolplazas** (2)
+* **arnolplazas** (2) [972922](https://platzi.com/comentario/972922/) 
 
-	
 	Cambie el mismo trigger que teníamos agregando solo DELETE
 	``` 
 	    CREATE TRIGGER mitrigger
@@ -6343,15 +5755,13 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	    
 	```
 
-* **adriangonw77** (2)
+* **adriangonw77** (2) [889792](https://platzi.com/comentario/889792/) 
 
-	
 	funcionó excelente clase ,  
 	![ejercicio funcion y trigger.JPG](https://static.platzi.com/media/user_upload/ejercicio%20funcion%20y%20trigger-cfa4b6a7-b4cd-4c2a-9382-197b3622e014.jpg)![tabla delete.JPG](https://static.platzi.com/media/user_upload/tabla%20delete-87bbb5dd-8c05-4bb9-886e-3ead7aabb5e7.jpg)
 
-* **Luis Rodrigo Alvarez Herrera** (2)
+* **Luis Rodrigo Alvarez Herrera** (2) [885435](https://platzi.com/comentario/885435/) 
 
-	
 	Mi aporte
 	``` 
 	    CREATE TRIGGER mitrigger2 --Crea el trigger con nombre
@@ -6362,21 +5772,18 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	    
 	```
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [841559](https://platzi.com/comentario/841559/) 
 
-	
 	Los tirggers son un gran mecanismo para colocar codigo de los aplicativos en la capa de base de datos y validar logica. Hay que tener mucho cuidado en tablas de alta transaccionalidad ya que pueden generar un cuello de botella en el rendimeinto.
 
-* **juanreinag** (1)
+* **juanreinag** (1) [1115688](https://platzi.com/comentario/1115688/) 
 
-	
 	Tarea resuelta:
 	
 	![eliminar_trigger.png](https://static.platzi.com/media/user_upload/eliminar_trigger-03f5f940-4fc3-4d22-9ed1-87baa990d9eb.jpg)
 
-* **Peter_g** (1)
+* **Peter_g** (1) [1067247](https://platzi.com/comentario/1067247/) 
 
-	
 	TAREA:
 	
 	CREATE TRIGGER nombre_trigger  
@@ -6385,9 +5792,8 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	FOR EACH ROW  
 	EXECUTE PROCEDURE nombre_funcionPL();
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1039851](https://platzi.com/comentario/1039851/) 
 
-	
 	 **23\. Triggers**  
 	Para la creación de triggers se debe hacer los siguiente  
 	Crear la función que activará el evento. Para ello se debe tomar los siguientes aspectos:
@@ -6439,11 +5845,11 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	
 	
 	
-	  * BEFORE = antes,
+	* BEFORE = antes,
 	
-	  * AFTER=luego,
+	* AFTER=luego,
 	
-	  * INSTEAD OF = hacer esto, en vez de lo que iba a hacer el motor de bases de datos.
+	* INSTEAD OF = hacer esto, en vez de lo que iba a hacer el motor de bases de datos.
 	
 	
 	
@@ -6458,42 +5864,35 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1039603](https://platzi.com/comentario/1039603/) 
 
-	
 	CREATE TRIGGER name_trigger AFTER name_event ON name_table FOR EACH ROW EXECUTE PROCEDURE name_procedure;
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1039602](https://platzi.com/comentario/1039602/) 
 
-	
 	FOR EACH ROW EACH ROW EXECUTE PROCEDURE indica que es para registro o fila de nuestra tabla
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1039583](https://platzi.com/comentario/1039583/) 
 
-	
 	CREATE TRIGGER name_trigger AFTER name_event ON name_table ; al crearlo este recibe tres parámetros para llamar la ejecución del trigger, estos son: BEFORE = antes, AFTER=luego, INSTEAD OF = hacer esto, en vez de lo que iba a hacer el motor de bases de datos.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1038183](https://platzi.com/comentario/1038183/) 
 
-	
 	La función tipo triggers debe retornar los valores OLD acepta lo viejo o NEW acepta lo nuevo. Sí se retorna VOID en nuestra función de tipo triggers no aceptamos cambios. Tando NEW como OLD son un objeto de tipo record y contiene dentro de si el registro.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1038179](https://platzi.com/comentario/1038179/) 
 
-	
 	Cuando creamos una función de tipo trigger debemos retornar información al motor de bases de datos para confirmar los cambios. Los triggers tienen dos objetos importantes para retornar: old y new
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1038050](https://platzi.com/comentario/1038050/) 
 
-	
 	La NOW()función devuelve la fecha y hora actuales. El tipo de retorno de la NOW()función es la marca de tiempo con zona horaria
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1038016](https://platzi.com/comentario/1038016/) 
 
-	
 	Triggers también conocido como disparadores estas nos permite ejecutar funciones dependiendo de acciones que ocurran sobre una tabla. Esas acciones pueden ser: Insert, Update, Delete
 
-* **MaxLandh** (1)
+* **MaxLandh** (1) [947219](https://platzi.com/comentario/947219/) 
 
 	```
 	    CREATE TRIGGER del_trigger
@@ -6504,19 +5903,18 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	    
 	```
 
-* **Marco Antonio González Arellano** (1)
+* **Marco Antonio González Arellano** (1) [887254](https://platzi.com/comentario/887254/) 
 
-	
 	Mi trigger:
 	
 	![](![trigger.png](https://static.platzi.com/media/user_upload/trigger-dda3f80c-ff84-4113-9875-fca659862029.jpg)
 
-* **andoni** (1)
-![n.JPG](https://static.platzi.com/media/user_upload/n-ebcbfef5-2395-4594-99eb-a96b16b37995.jpg)
-
-* **Eduardo Imery Winterdaal** (1)
-
+* **andoni** (1) [876800](https://platzi.com/comentario/876800/) 
 	
+	![n.JPG](https://static.platzi.com/media/user_upload/n-ebcbfef5-2395-4594-99eb-a96b16b37995.jpg)
+
+* **Eduardo Imery Winterdaal** (1) [850659](https://platzi.com/comentario/850659/) 
+
 	Muy buena explicación
 	``` 
 	    CREATE TRIGGER pruebatrigger
@@ -6527,12 +5925,11 @@ Hola, para crear funciones y llamarlas solamente se puede realizar desde el pgAd
 	    
 	```
 
-* **Joan Federico Marin Ruiz** (1)
+* **Joan Federico Marin Ruiz** (1) [78722](https://platzi.com/comentario/926469/) 
 como hago para limitar un delete para que solo se borre un registro como un LIMIT?
 
-	* **Fernando Ojeda** (2)
+	* **Fernando Ojeda** [78722] (2)
 
-		
 		Podría ser usando **ctid**
 		``` 
 		    DELETEFROM mi_tabla
@@ -6545,17 +5942,16 @@ como hago para limitar un delete para que solo se borre un registro como un LIMI
 		    
 		```
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [73794](https://platzi.com/comentario/841556/) 
 Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos datos? creo que la diferencia es para UPDATE
 
-	* **Oz** (2)
+	* **Oz** [73794] (2)
 
-		
 		La diferencia es realmente para Update, cuando se trata de Insert, OLD no tiene nada y NEW tiene los nuevos datos.
 
-# Integrar bases de datos con servicios externos
+# Integrar bases de datos con servicios externos [4837]
 
-## 0240. Simulando una conexión a Bases de Datos remotas
+## 0240. Simulando una conexión a Bases de Datos remotas [24192](https://platzi.com/clases/1480-postgresql/24192-simulando-una-conexion-a-bases-de-datos-remotas/)
 
 ### Descripción:
 
@@ -6566,14 +5962,12 @@ Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos dato
 
 ### Comentarios:
 
-* **elvis.sanchez** (6)
+* **elvis.sanchez** (6) [835614](https://platzi.com/comentario/835614/) 
 
-	
 	OMG! Lo tiene todo
 
-* **Luis Rodrigo Alvarez Herrera** (2)
+* **Luis Rodrigo Alvarez Herrera** (2) [885541](https://platzi.com/comentario/885541/) 
 
-	
 	Mi aporte, datos basicos para usar dblink
 	
 	Este debe estar activado en postgres, si no lo esta debe hacerse con
@@ -6595,15 +5989,13 @@ Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos dato
 	    
 	```
 
-* **andoni** (2)
+* **andoni** (2) [876895](https://platzi.com/comentario/876895/) 
 
-	
 	Utilizando un right join trayendo solo aquellos usuarios que no son vip 😄  
 	![t.JPG](https://static.platzi.com/media/user_upload/t-b8afcbda-ca82-4da2-89c6-352cd61dc5fe.jpg)
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [841723](https://platzi.com/comentario/841723/) 
 
-	
 	Entendido
 	``` 
 	    CREATE EXTENSION dblink;
@@ -6620,17 +6012,17 @@ Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos dato
 	    
 	```
 
-* **DonTapas** (1)
-![Screenshot_4.jpg](https://static.platzi.com/media/user_upload/Screenshot_4-9f40d19b-dafb-4f5d-92ba-232e83ce2af4.jpg)
-
-* **juanreinag** (1)
-
+* **DonTapas** (1) [1115987](https://platzi.com/comentario/1115987/) 
 	
+	![Screenshot_4.jpg](https://static.platzi.com/media/user_upload/Screenshot_4-9f40d19b-dafb-4f5d-92ba-232e83ce2af4.jpg)
+
+* **juanreinag** (1) [1115771](https://platzi.com/comentario/1115771/) 
+
 	Esta es la tarea:
 	
 	![consulta_remota.png](https://static.platzi.com/media/user_upload/consulta_remota-32c17eed-47be-4b04-b69a-eff0db003aaa.jpg)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041210](https://platzi.com/comentario/1041210/) 
 
 	```
 	    /*Reto:
@@ -6654,9 +6046,8 @@ Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos dato
 	
 	![](![Captura de pantalla \(99\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2899%29-7f9dbbab-f2d4-46f6-bfb1-643950c50679.jpg)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041146](https://platzi.com/comentario/1041146/) 
 
-	
 	 **24\. Simulando una conexión a Bases de Datos remotos**  
 	dblink ejecuta una consulta (generalmente una SELECT, pero puede ser cualquier instrucción SQL que devuelva filas) en una base de dato remota.
 	
@@ -6751,81 +6142,68 @@ Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos dato
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041131](https://platzi.com/comentario/1041131/) 
 
-	
 	USING(id) se puede remplazar el ON por el USING, Esta es una clapsula que se utiliza cuando queremos comparar dos campos que se llaman igual en tablas diferentes
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041129](https://platzi.com/comentario/1041129/) 
 
-	
 	Concediendo permiso usuario GRANT ALL ON TABLE table_name TO user_name;
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041127](https://platzi.com/comentario/1041127/) 
 
-	
 	SELECT * FROM dblink('dbname=remota port=number_port host=name_host user=user_name password=password','SELECT field_name1, field_name2 FROM name_table') AS name_select (name_select.field type_data)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041114](https://platzi.com/comentario/1041114/) 
 
-	
 	SELECT * FROM ('db=name_dataBase ')
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1040998](https://platzi.com/comentario/1040998/) 
 
-	
 	Se puede utilizar una vista materializada para ocultar la información de conexión a una bases de datos remota
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1040950](https://platzi.com/comentario/1040950/) 
 
-	
 	dblink ejecuta una consulta (generalmente una SELECT, pero puede ser cualquier instrucción SQL que devuelva filas) en una base de dato remota.
 
-* **Diego Alonso García Tenorio** (1)
+* **Diego Alonso García Tenorio** (1) [1017655](https://platzi.com/comentario/1017655/) 
 
-	
 	Buenas Noches.  
 	Este es mi aporte.  
 	![3.png](https://static.platzi.com/media/user_upload/3-e5cca0a1-b068-4711-a124-f0da2cce7797.jpg)
 
-* **Maria Edith mendoza gabriel** (1)
+* **Maria Edith mendoza gabriel** (1) [1003370](https://platzi.com/comentario/1003370/) 
 
-	
 	![](![conexion a base reomta.png](https://static.platzi.com/media/user_upload/conexion%20a%20base%20reomta-b719781e-e3a9-4b45-b10b-558594ba259f.jpg)
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [987267](https://platzi.com/comentario/987267/) 
 
-	
 	A great extension !!
 
-* **Juan Osio** (1)
-![carbon \(1\).png](https://static.platzi.com/media/user_upload/carbon%20%281%29-74d17eb8-4683-4243-ac1e-731a9e65d33a.jpg)
-
-* **jhon Erik calderon Rubiano** (1)
-
+* **Juan Osio** (1) [973961](https://platzi.com/comentario/973961/) 
 	
+	![carbon \(1\).png](https://static.platzi.com/media/user_upload/carbon%20%281%29-74d17eb8-4683-4243-ac1e-731a9e65d33a.jpg)
+
+* **jhon Erik calderon Rubiano** (1) [946967](https://platzi.com/comentario/946967/) 
+
 	excelente herramienta e implentacion el ejemplo mencionado![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-9c744527-fa89-400e-932d-983c033ae4a7.jpg)
 
-* **Marco Antonio González Arellano** (1)
+* **Marco Antonio González Arellano** (1) [890249](https://platzi.com/comentario/890249/) 
 
-	
 	Muy útil… pensaré cómo implementarlo próximamente.
 	
 	Gracias!
 
-* **Heriberto Rivera** (1)
+* **Heriberto Rivera** (1) [883888](https://platzi.com/comentario/883888/) 
 
-	
 	¿En qué escenarios es bueno implementar DBLINK?
 
-	* **SOFTDYNAMIC** (1)
+	* **SOFTDYNAMIC** [883888] (1)
 
-		
 		No necesitas de una aplicación para matchear datos de distintas bases de datos.
 
-	* **Hector Ucedo** (1)
+	* **Hector Ucedo** [883888] (1)
 
-		
 		Hay casos que una empresa tiene datos de clientes en una base de datos Oracle y tiene un sistema de envío de SMS que puede estar en Postgres.
 		
 		Al momento de realizar un Reporte de SMS enviados por clientes haces Join a la tabla de clientes que están en Oracle con los SMS enviados que se guardan en Postgres.
@@ -6835,32 +6213,29 @@ Para insert las tablas temporales OLD y NEW del TRIGGER contiene los mismos dato
 		from ba_personas b  
 		join sms_report@ccdata s on b.cod_persona = [s.id](http://s.id);
 
-* **jaime-pinto-a** (1)
+* **jaime-pinto-a** (1) [867351](https://platzi.com/comentario/867351/) 
 
-	
 	Postgresql, de largo es la mejor base, open source
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [85039](https://platzi.com/comentario/1064782/) 
 Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servidor remoto y sobre eso usar dblink??? o para que uso dblink??
 
-	* **hgarciac** (1)
+	* **hgarciac** [85039] (1)
 
-		
 		Se usa para conectarte a una tabla o vista (supongo) en una base de datos remota sin acceder completamente a esa base de datos
 
-* **Joseph Santibáñez** (1)
+* **Joseph Santibáñez** (1) [82608](https://platzi.com/comentario/1008900/) 
 ¿Es posible guardar un dblink como un objeto? Por ejemplo, en Oracle, con la sentencia CREATE DBLINK puedo generar un objeto con los pará...
 
-## 0250. Transacciones
+## 0250. Transacciones [24193](https://platzi.com/clases/1480-postgresql/24193-transacciones/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **dbzdavidbaez** (5)
+* **dbzdavidbaez** (5) [841811](https://platzi.com/comentario/841811/) 
 
-	
 	COMMIT  
 	Muy importante para mantener la integridad de los datos. Hay que tene rmucho cuidado en cerrar siempre la transaccion, ya sea con COMIMIT o ROLLBACK.
 	``` 
@@ -6880,14 +6255,12 @@ Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servido
 	    
 	```
 
-* **raul-fernandez-fuentes** (2)
+* **raul-fernandez-fuentes** (2) [933818](https://platzi.com/comentario/933818/) 
 
-	
 	Esto me recuerda no solo el uso de transacciones, sino tb que debemos controlarlo o gestionarlo dependiendo de la logica de negocio.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041391](https://platzi.com/comentario/1041391/) 
 
-	
 	 **25.Transacciones**  
 	Las transacciones, tienen la capacidad para empaquetar varios pasos en una sola operación “todo o nada”.y si ocurre alguna falla que impida que se complete la transacción, entonces ninguno de los pasos se ejecuta y no se afecta la base de datos en absoluto.
 	
@@ -6936,29 +6309,24 @@ Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servido
 	    
 	```
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041370](https://platzi.com/comentario/1041370/) 
 
-	
 	Para realizar un rollback de manera explicta podría ser dentro de una función (PL) escrita en plpgsql
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041367](https://platzi.com/comentario/1041367/) 
 
-	
 	Postgres en las operaciones normales usa de manera implicita el rollback
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041365](https://platzi.com/comentario/1041365/) 
 
-	
 	BEGIN; <Intrucciones;> COMMIT;|ROLLBACK;
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041364](https://platzi.com/comentario/1041364/) 
 
-	
 	Las transacciones, tienen la capacidad para empaquetar varios pasos en una sola operación “todo o nada”.y si ocurre alguna falla que impida que se complete la transacción, entonces ninguno de los pasos se ejecuta y no se afecta la base de datos en absoluto.
 
-* **Marco D'Agostini** (1)
+* **Marco D'Agostini** (1) [984198](https://platzi.com/comentario/984198/) 
 
-	
 	Cuando ejecutó la transacción que falló, veo que los botones de commit y rollback se activaron.  
 	Eso quiere decir que la transacción quedó abierta, ¿O me equivoco?.
 	
@@ -6966,12 +6334,11 @@ Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servido
 	
 	Asumo que una transacción que queda abierta eventualmente se le agota un tiempo de espera, y allí es cuando realmente se hace un **rollback**.
 
-	* **juanreinag** (1)
+	* **juanreinag** [984198] (1)
 
-		
 		Sí, una transacción no finaliza hasta que ocurra un **commit** o un **rollback**
 
-## 0260. Otras Extensiones para Postgres
+## 0260. Otras Extensiones para Postgres [24194](https://platzi.com/clases/1480-postgresql/24194-otras-extensiones-para-postgres/)
 
 ### Descripción:
 
@@ -6982,24 +6349,20 @@ Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servido
 
 ### Comentarios:
 
-* **Diego Bastidas** (9)
+* **Diego Bastidas** (9) [905154](https://platzi.com/comentario/905154/) 
 
-	
 	Lastima no poder darle LIKE al video. Por que se lo merece!
 
-* **TUDz** (5)
+* **TUDz** (5) [836777](https://platzi.com/comentario/836777/) 
 
-	
 	Una extensión que me pareció muy interesante es [passwordcheck](https://www.postgresql.org/docs/11/passwordcheck.html) la cual verifica el nivel de fortaleza de un password cuando un usuario/rol es creado en la base de datos. Esto, brinda una capa de seguridad adicional protegiéndonos de ataques de fuerza bruta ya que garantiza que tenemos una contraseña segura.
 
-	* **David Rueda** (4)
+	* **David Rueda** [836777] (4)
 
-		
 		Para el tema de seguridad, agregaría el uso de la extensión **pgcrypto** , que permite implementar funciones de **criptografía** al PostgreSQL.
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [841845](https://platzi.com/comentario/841845/) 
 
-	
 	Excelente
 	``` 
 	    CREATE EXTENSION fuzzystrmatch;
@@ -7009,19 +6372,16 @@ Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servido
 	    
 	```
 
-* **David Rueda** (2)
+* **David Rueda** (2) [854459](https://platzi.com/comentario/854459/) 
 
-	
 	En mi caso usaría con frecuencia la extensión **PostGIS** que habilita **análisis espacial **y manejo de geometrías, todo lo necesario para un Sistema de información geográfica.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041448](https://platzi.com/comentario/1041448/) 
 
-	
 	CREATE EXTENSION name_extension; activamos la extensión;
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [987489](https://platzi.com/comentario/987489/) 
 
-	
 	😉
 	``` 
 	    SELECT levenshtein('beer', 'bear');
@@ -7029,108 +6389,91 @@ Me genero dudas yo desde pgadmin puedo ingresar una ip y conectarme a un servido
 	    
 	```
 
-* **adriangonw77** (1)
+* **adriangonw77** (1) [893063](https://platzi.com/comentario/893063/) 
 
-	
 	la que me parece mas interesante el la le SELECT levenshtein, ya que la comparación de caracteres si se aplica muy bien a una base de datos y por supuesto dblink es indispensable
 
-* **jaime-pinto-a** (1)
+* **jaime-pinto-a** (1) [867532](https://platzi.com/comentario/867532/) 
 
-	
 	La mas interesante para mi caso son dblink y postgis,
 
-# Implementar mejores prácticas
+# Implementar mejores prácticas [4838]
 
-## 0270. Backups y Restauración
+## 0270. Backups y Restauración [24195](https://platzi.com/clases/1480-postgresql/24195-backups-y-restauracion/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Deiby Johany Avila Gutierrez** (9)
+* **Deiby Johany Avila Gutierrez** (9) [838860](https://platzi.com/comentario/838860/) 
 
-	
 	es importante resaltar que cuando se hace un backup para ser restaurado en una versión diferente se debe de usar la opción plana dado que el custom varia de versión a versión.
 
-	* **Marco Antonio González Arellano** (1)
+	* **Marco Antonio González Arellano** [838860] (1)
 
-		
 		Muchas gracias por el dato compañero!
 
-	* **vegadevh** (1)
+	* **vegadevh** [838860] (1)
 
-		
 		Muchas gracias!
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [842364](https://platzi.com/comentario/842364/) 
 
-	
 	Muy buena clase, es muy importante contar con una estrategia para respaldar los datos y que cumplan el RTO y RPO del negocio.
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [73847](https://platzi.com/comentario/842365/) 
 Se puede automatizar la generacion de copias de seguridad ?
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [73847] (3)
 
-		
 		Sure!
 		
 		👉 [https://medium.com/@fab_peja/backups-automáticos-con-postgresql-bash-y-cronjobs-en-español-b3c900e03fd9](https://medium.com/@fab_peja/backups-autom%C3%A1ticos-con-postgresql-bash-y-cronjobs-en-espa%C3%B1ol-b3c900e03fd9)  
 		👉 <https://wiki.postgresql.org/wiki/Automated_Backup_on_Windows>  
 		👉 <https://wiki.postgresql.org/wiki/Automated_Backup_on_Linux>
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042257](https://platzi.com/comentario/1042257/) 
 
-	
 	Pestaña Dump options, la opción Do not save en esta sección podemos escoger sí guardar el propietario (Owner),
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042244](https://platzi.com/comentario/1042244/) 
 
-	
 	Pestaña Dump options, la opción Type of objects se puede definir solo los datos (Only data), también podemos solo el esquema (Only schema), por otro lado podemos escoger guardar los binarios sí es que se guardan los binarios (blobs)
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042236](https://platzi.com/comentario/1042236/) 
 
-	
 	Pestaña Dump options, la opción Sections se pueden poner los datos antes de ser insertados o no ser insertados como acciones. Sí seleccionamos los datos no tenemos que preocuparnos por el esquema.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042231](https://platzi.com/comentario/1042231/) 
 
-	
 	Pestaña Dump options, Nos permite configurar la opción si queremos el backup con datos o solo la estructura de la tabla, también se puede definir el propietario.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042051](https://platzi.com/comentario/1042051/) 
 
-	
 	Role name Es de quién va a hacer dueño ese dump
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042048](https://platzi.com/comentario/1042048/) 
 
-	
 	Number Of Jobs lo debe determinar pgAdmin
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041979](https://platzi.com/comentario/1041979/) 
 
-	
 	Encoding: hace referencia al tipo de codificación de los carácteres
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041973](https://platzi.com/comentario/1041973/) 
 
-	
 	Compression ratio: es el número de veces que algoritmo de compresión se ejecuta para reducir el tamaño del archivo
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1041957](https://platzi.com/comentario/1041957/) 
 
-	
 	Custom, Esta opción única de postgres y solo se puede restaurar por pgAdmin. Tar, Es un archivo comprimido que contiene la estructura de la base de datos. Plain, simplemente es un archivo.sql. Directory tiene solo la estructura sin comprimir de la base de datos.
 
-* **cristianwalteros** (1)
+* **cristianwalteros** (1) [848153](https://platzi.com/comentario/848153/) 
 
-	
 	Como una buena practica, es bastante importante tener backups
 
-## 0280. Mantenimiento
+## 0280. Mantenimiento [24196](https://platzi.com/clases/1480-postgresql/24196-mantenimiento/)
 
 ### Descripción:
 
@@ -7141,130 +6484,111 @@ Se puede automatizar la generacion de copias de seguridad ?
 
 ### Comentarios:
 
-* **dbzdavidbaez** (3)
+* **dbzdavidbaez** (3) [842378](https://platzi.com/comentario/842378/) 
 
-	
 	Super importante esta informacion, una base de datos debe contar con un rendimiento optimo en todas las transacciones que se ejecutan.
 
-* **eduardo-zepeda** (1)
+* **eduardo-zepeda** (1) [1084576](https://platzi.com/comentario/1084576/) 
 
-	
-	  * Vacuum: La más importante, con tres opciones, Vacuum, Freeze y Analyze.  
+	* Vacuum: La más importante, con tres opciones, Vacuum, Freeze y Analyze.  
 	Full: la tabla quedará limpia en su totalidad  
 	Freeze: durante el proceso la tabla se congela y no permite modificaciones hasta que no termina la limpieza  
 	Analyze: solo revisa la tabla
 	
-	  * Analyze: No hace cambios en la tabla. Solo hace una revisión y la muestra.
+	* Analyze: No hace cambios en la tabla. Solo hace una revisión y la muestra.
 	
-	  * Reindex: Aplica para tablas con numerosos registros con indices, como por ejemplo las llaves primarias.
+	* Reindex: Aplica para tablas con numerosos registros con indices, como por ejemplo las llaves primarias.
 	
-	  * Cluster: Especificamos al motor de base de datos que reorganice la información en el disco.
+	* Cluster: Especificamos al motor de base de datos que reorganice la información en el disco.
 	
 	
 	
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042484](https://platzi.com/comentario/1042484/) 
 
-	
 	En la pestaña VACUUM hay tres opciones para hacer mantenimiento, FULL se eliminará todos los indices y filas que ya no son aplicables, FREEZE, incluye que durante ese proceso se congelará la tabla o la bases de datos mientras se hace este proceso. ANALYZE solo analiza la bd.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042460](https://platzi.com/comentario/1042460/) 
 
-	
 	Una limpieza full es necesario cuando tengamos una tabla grande y tengamos problema de indexación, esto se refiere a que, En el momento de hacer la consulta se demore mucho tiempo.
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042437](https://platzi.com/comentario/1042437/) 
 
-	
 	Postgres tiene dos niveles de limpieza son: 1-Liviano que se ejecuta en segundo plano y lo hace constantemente. 2-Full el cual es capaz de bloquear las tablas para hacer la limpieza y luego la desbloquea. En estas actividades no debemos involucrarnos al menos que sea necesario
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042408](https://platzi.com/comentario/1042408/) 
 
-	
 	Postgres desarrolla el mantenimiento de manera activa y sin consentimiento del usuario. El mantenimiento consiste en quitar todas las filas, items y columnas que no están funcionando correctamente y postgres lo hace para optimizar todos los servicios ya por trabajar rápido ocurre
 
-* **SergioRubiano** (1)
+* **SergioRubiano** (1) [983283](https://platzi.com/comentario/983283/) 
 
-	
 	Les recomiendo que lean la lectura que están el los archivos de enlaces, que buena información
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [73848](https://platzi.com/comentario/842381/) 
 Uno debe crear indices en postgres o el motor crea todos los indices que necesita la tabla para satisfacer las consultas? Se puede analiz...
 
-	* **Oz** (3)
+	* **Oz** [73848] (3)
 
-		
 		Si , nosotros debemos crear los indices, Postgresql trata de hacer lo mejor que puede con la herramientas que les des, si no tiene ídices entonces no podrá usarlos. Para saber cuando crear índices puedes basarte en 2 consejos prácticos, úsalos en columnas q uses para crizar 2 tablas y en columnas que aparezcan en la mayoría de tus consultas.
 
-## 0290. Introducción a Réplicas
+## 0290. Introducción a Réplicas [24197](https://platzi.com/clases/1480-postgresql/24197-introduccion-a-replicas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **dbzdavidbaez** (4)
+* **dbzdavidbaez** (4) [842396](https://platzi.com/comentario/842396/) 
 
-	
 	Todo para mejorar el rendimeinto de nuestros aplicativos y mejorar la experiencia de nuestro cliente final
 
-* **Wilson Marino Pablo Mendez** (3)
+* **Wilson Marino Pablo Mendez** (3) [964891](https://platzi.com/comentario/964891/) 
 
-	
 	Información enriquecedor!!
 
-* **jmontesl** (2)
+* **jmontesl** (2) [839677](https://platzi.com/comentario/839677/) 
 
-	
 	Justo lo que estaba necesitando. Gracias caballeros!!!
 
-* **Leonel Vega Vargas** (2)
+* **Leonel Vega Vargas** (2) [76622](https://platzi.com/comentario/890508/) 
 Si ejecuto un mantenimiento en modo VACUUM no eliminara registros cierto?
 
-	* **Jean Carlos Nuñez Hernandez** (1)
+	* **Jean Carlos Nuñez Hernandez** [76622] (1)
 
-		
 		No entiendo bien la pregunta
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042397](https://platzi.com/comentario/1042397/) 
 
-	
 	¿Cuál es la estrategia para afrontar el bloque? Tener más de una de datos, tener una base de dato donde se hacen todas las modificaciones y tener una bases de datos donde solamente se hacen las lecturas.
 
-	* **Oz** (1)
+	* **Oz** [1042397] (1)
 
-		
 		Exacto, tener una base de datos que recibe los insert, update y delete, y tener otra aparte para los selects
 
-* **Angel de Jesus Quintero Pereira** (1)
+* **Angel de Jesus Quintero Pereira** (1) [1042367](https://platzi.com/comentario/1042367/) 
 
-	
 	Cuando la aplicación crece a nivel exponencial,nos vamos a encontrar con límites físicos en el servidor que está nuestra aplicación. También sucede que, Sí ocurren muchas lecturas y escritura en una tabla esta puede ser bloqueda por postgres. Aquí es donde las entra las replicas
 
-* **vegadevh** (1)
+* **vegadevh** (1) [998034](https://platzi.com/comentario/998034/) 
 
-	
 	La verdad nunca me habia puesto a pensar en esto 😮 no tenia idea
 
-* **andoni** (1)
+* **andoni** (1) [877207](https://platzi.com/comentario/877207/) 
 
-	
 	Qué interesante 😮
 
-* **David Rueda** (1)
+* **David Rueda** (1) [854930](https://platzi.com/comentario/854930/) 
 
-	
 	Tema muy interesante!
 
-* **Leonel Vega Vargas** (1)
+* **Leonel Vega Vargas** (1) [76623](https://platzi.com/comentario/890509/) 
 No escucha bien, en el minuto 0:44, no pueden ser sobrepasados por…?
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [76623] (1)
 
-		
 		Yo escuché “por más que quieras”
 
-## 0300. Implementación de Réplicas en Postgres
+## 0300. Implementación de Réplicas en Postgres [24198](https://platzi.com/clases/1480-postgresql/24198-implementacion-de-replicas-en-postgres/)
 
 ### Descripción:
 
@@ -7277,62 +6601,51 @@ No escucha bien, en el minuto 0:44, no pueden ser sobrepasados por…?
 
 ### Comentarios:
 
-* **andoni** (7)
+* **andoni** (7) [877264](https://platzi.com/comentario/877264/) 
 
-	
 	Para poder activar la ipv4 parece que es necesario pagar 😦  
 	![v.JPG](https://static.platzi.com/media/user_upload/v-a13949f2-561f-4d92-bb36-285645d541f1.jpg)
 
-* **carlossanchez27** (4)
+* **carlossanchez27** (4) [907952](https://platzi.com/comentario/907952/) 
 
-	
 	Alguien sabe por qué sale este error al intentar crear el servidor en pgAdmin¿?  
 	![Error_pg.jpg](https://static.platzi.com/media/user_upload/Error_pg-a300c1ab-9328-48e8-863c-24fcf7628942.jpg)
 
-	* **Joan Federico Marin Ruiz** (1)
+	* **Joan Federico Marin Ruiz** [907952] (1)
 
-		
 		yo ando con el mismo error
 
-	* **Abril Darynka Tapia Sosa** (1)
+	* **Abril Darynka Tapia Sosa** [907952] (1)
 
-		
 		Me paso igual
 
-	* **Laura Tristán** (1)
+	* **Laura Tristán** [907952] (1)
 
-		
 		Me ocurre lo mismo. ¿Alguien ha encontrado la solución?
 
-	* **Laura Tristán** (4)
+	* **Laura Tristán** [907952] (4)
 
-		
 		Esto ocurre porque no podemos usar la ipv4 publica, a no ser que paguemos por usar CloudJiffy. Creo que deberían actualizar esta clase de manera que la podamos hacer sin necesidad de pagar.
 
-	* **SergioRubiano** (1)
+	* **SergioRubiano** [907952] (1)
 
-		
 		Esto ocurre por que no podemos activar la ipv4, en conclusión toca pagar el servicio de Cloudjiffy
 
-	* **hgarciac** (1)
+	* **hgarciac** [907952] (1)
 
-		
 		Aunque no lo he puesto en practica en el video indican que debemos activar la opción IPv4 para poder conectarnos a la base de datos a traves de una IP de lo contrario se puede usar con la URL más larga. Minuto 1:35
 
-	* **Oz** (1)
+	* **Oz** [907952] (1)
 
-		
 		Bueno, para el éste momento Cloudjiffy no permite ipv4 en la versión free, pero existen más parners de jelastic que si lo permiten, lo podemos ver en:  
 		<https://jelastic.cloud/>
 
-* **elvis.sanchez** (4)
+* **elvis.sanchez** (4) [835701](https://platzi.com/comentario/835701/) 
 
-	
 	Like.
 
-* **JOSE PEREZ** (3)
+* **JOSE PEREZ** (3) [836946](https://platzi.com/comentario/836946/) 
 
-	
 	Estimados,
 	
 	pueden hacer un ejemplo(video) de replicación sincrona y asincrona en linux?
@@ -7341,138 +6654,119 @@ No escucha bien, en el minuto 0:44, no pueden ser sobrepasados por…?
 	
 	Gracias.
 
-	* **Oz** (2)
+	* **Oz** [836946] (2)
 
-		
 		Si te das cuenta, todo lo hicimos por archivos de configuración y ejecutando un comando en consola de linux, la interfaz de jelastic ayuda a ver las cosas más “bonitas” pero todo el proceso lo hicimos a mano. La única diferencia eso si, es que jelastic crea un usuario y clave de manera predeterminada que luego es enviado por correo, al hacerlo todo por consola de linux, tú mismo creas el usuario y la clave, de resto igual.
 
-* **Peter_g** (2)
+* **Peter_g** (2) [1085836](https://platzi.com/comentario/1085836/) 
 
-	
 	El ejercicio fue excelente . Lo ideal es llevarlo a la vida real y hacer pruebas en caliente
 
-* **jaime-pinto-a** (2)
+* **jaime-pinto-a** (2) [874700](https://platzi.com/comentario/874700/) 
 
-	
 	Este Capitulo de replicas, es excelente, proximos proyectos como base de datos, elijo Postgresql
 
-* **dbzdavidbaez** (2)
+* **dbzdavidbaez** (2) [842445](https://platzi.com/comentario/842445/) 
 
-	
 	Muy sencillo y util.
 
-* **Santiago Ricci** (2)
+* **Santiago Ricci** (2) [840970](https://platzi.com/comentario/840970/) 
 
-	
 	Excelente clase.
 
-* **JOSE PEREZ** (2)
+* **JOSE PEREZ** (2) [836944](https://platzi.com/comentario/836944/) 
 
-	
 	Estimados,
 	
 	Podrían hacer demos sin necesidad de herramientas externas replicación de servidor entero de BD y/o tablas en especifico. Todo sobre linux.
 	
 	Gracias
 
-	* **jmontesl** (2)
+	* **jmontesl** [836944] (2)
 
-		
 		La única diferencia es que el usuario de replicación que crea al inicio, que es webadmin, ya te lo crea la aplicación externa, por lo demás todo es igual que en cualquier Linux. Es mas diría que en lo que te desplegada el postgresSQL es un debian.
 
-* **Joseph Santibáñez** (2)
+* **Joseph Santibáñez** (2) [82609](https://platzi.com/comentario/1008933/) 
 Postgres aguanta activo-activo???
 
-* **guillermolamberto** (2)
+* **guillermolamberto** (2) [74930](https://platzi.com/comentario/861411/) 
 Buenos dias, cuando tildo la opcion de ipv4 me pide que haga un upgrade account cosa que es paga. como se puede hacer si ser pago? muchas...
 
-	* **Joan Federico Marin Ruiz** (1)
+	* **Joan Federico Marin Ruiz** [74930] (1)
 
-		
 		igual me sale pagando, que se puede realizar ahi?
 
-* **Kelvin Thony Meza Espiritu** (1)
+* **Kelvin Thony Meza Espiritu** (1) [1033629](https://platzi.com/comentario/1033629/) 
 
-	
 	En Postgres, ¿que son replicaciones lógicas? y ¿Cómo funciona?
 
-* **SergioRubiano** (1)
+* **SergioRubiano** (1) [983345](https://platzi.com/comentario/983345/) 
 
-	
 	Que interesante esta clase, a un que no pude seguir la practica (No me pude conectar) segun lo que entendi las replicas son muy importantes
 
-* **Marco Antonio González Arellano** (1)
+* **Marco Antonio González Arellano** (1) [890416](https://platzi.com/comentario/890416/) 
 
-	
 	Qué buena clase y qué sencillo es implementar réplicas en postgresql.
 
-* **Luis Alberto Lazcano Cruz** (1)
+* **Luis Alberto Lazcano Cruz** (1) [87342](https://platzi.com/comentario/1118165/) 
 ¿Para hacer una replica se tiene que tener la misma versión postgres en master y en la replica?
 
-* **Joan Federico Marin Ruiz** (1)
+* **Joan Federico Marin Ruiz** (1) [79310](https://platzi.com/comentario/937928/) 
 buenos dias. me sale este error al realizar la creacion en pgAdmin del server Unable to connect to server: timeout expired.
 
-	* **Miguel Figueroa Cumana** (1)
+	* **Miguel Figueroa Cumana** [79310] (1)
 
-		
 		Hace falta más información para poder ayudarte. Cómo es tu entorno de trabajo?
 
-* **aesn_sas** (1)
+* **aesn_sas** (1) [78425](https://platzi.com/comentario/920899/) 
 Necesariamente la bd replica debe de estar configurada en otro servicio? o pueden funcionar bajo el mismo servicio?
 
-* **dvillalobos** (1)
+* **dvillalobos** (1) [74376](https://platzi.com/comentario/851744/) 
 Hola, no logré notar en dónde se le “dice” a REPLICA que debe ir a buscar datos a MASTER o es más bien que MASTER le manda los datos a RE...
 
-	* **Oz** (1)
+	* **Oz** [74376] (1)
 
-		
 		Hola, cuando se crea la base de datos principal y la base de datos de replica, las dos funcionan como master al principio, luego toca indicarle a MASTER que va a recibir peticiones de replica y a REPLICA indicarle que va a estar en modo replica, indicarle también cual es su master y ahi viene el tema de los datos, ese comando BORRA los datos de REPLICA para que ella inicie de 0 a traer datos de MASTER.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [73853](https://platzi.com/comentario/842447/) 
 Esta replica nos pude funcionar como alta disponibilidad en base de datos?
 
-	* **Oz** (2)
+	* **Oz** [73853] (2)
 
-		
 		Tal vez, si la principal falla, puedes cambiar la configuración de la réplica para que siga funcionando cómo maestra, pero no puede volver a su estado anterior de réplica fácilmente, así que si podría salvarnos en ciertas ocaciones.
 
-* **Kelvin Thony Meza Espiritu** (0)
+* **Kelvin Thony Meza Espiritu** (0) [77007](https://platzi.com/comentario/896723/) 
 Buenas tardes, puedo hacer replica en tiempo real entre dos motores de base de datos distintos? Especificamente Postgres a Oracle
 
-	* **jcruzquintero** (2)
+	* **jcruzquintero** [77007] (2)
 
-		
 		Las replicas se realizan en el mismo motor de base de datos, postgresql <-> postgresql, oracle <-> oracle. Adicionalmente deben en los dos servidores la versión del motor de base de datos debe ser igual.
 
-## 0310. Otras buenas prácticas
+## 0310. Otras buenas prácticas [24199](https://platzi.com/clases/1480-postgresql/24199-otras-buenas-practicas/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Salvador Jose Campanella Salas** (4)
+* **Salvador Jose Campanella Salas** (4) [839884](https://platzi.com/comentario/839884/) 
 
-	
 	Hola siento que esto que explican es de gran utilidad pero debieron explicarlo mejor,
 	
 	Usar algun diagrama o algo seria genial para ejemplificar.
 	
 	Un saludo
 
-	* **Oz** (4)
+	* **Oz** [839884] (4)
 
-		
 		En el menú de enlaces está el detalle técnico y el paso a paso, seguro te servirá.
 
-* **SOFTDYNAMIC** (2)
+* **SOFTDYNAMIC** (2) [990248](https://platzi.com/comentario/990248/) 
 
-	
 	It sounds very interesting, but there is not a visual example 😦
 
-* **Francisco de Castro** (1)
+* **Francisco de Castro** (1) [1096231](https://platzi.com/comentario/1096231/) 
 
-	
 	y por ejemplo en el beggin transaction se podria hacer:
 	
 	BEGGIN TRANSACTION;  
@@ -7482,85 +6776,71 @@ Buenas tardes, puedo hacer replica en tiempo real entre dos motores de base de d
 	
 	??
 
-* **eduardo-zepeda** (1)
+* **eduardo-zepeda** (1) [1087849](https://platzi.com/comentario/1087849/) 
 
-	
 	El documento en archivos y enlaces es necesario para entender mucho mejor los conceptos del video.
 
-* **jcavelez** (1)
+* **jcavelez** (1) [1026157](https://platzi.com/comentario/1026157/) 
 
-	
 	Excelente documento. Tan explicativo como los videos.
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [842455](https://platzi.com/comentario/842455/) 
 
-	
 	Gracias por el TIP. Lastima que no se grabo el ejemplo en vivo.
 
-	* **Oz** (4)
+	* **Oz** [842455] (4)
 
-		
 		No está el ejemplo en vivo pero está el detalle del proceso en el menú de enlaces, lo viste? qué te pareció?
 
-## 0320. Cierre del curso
+## 0320. Cierre del curso [24200](https://platzi.com/clases/1480-postgresql/24200-cierre-del-curso/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **dbzdavidbaez** (6)
+* **dbzdavidbaez** (6) [842692](https://platzi.com/comentario/842692/) 
 
-	
 	Excelente curso. Gracias
 	
 	Seria interesante hacer un curso intermedio o avanzado de postresql
 
-	* **JUAN CARLOS PARRA GALAN** (3)
+	* **JUAN CARLOS PARRA GALAN** [842692] (3)
 
-		
 		Siii seria genial!! Super necesario el curso intermedio o avanzado de Postresql
 
-* **TUDz** (4)
+* **TUDz** (4) [836825](https://platzi.com/comentario/836825/) 
 
-	
 	Excelente curso Oswaldo! Eres un fregón! Gracias por compartir el conocimiento ahora a ponerlo en práctica.
 
-* **SergioRubiano** (2)
+* **SergioRubiano** (2) [983360](https://platzi.com/comentario/983360/) 
 
-	
 	Gracias Osvaldo, sin duda alguna eres un buen profesor, explicaste cada termino y cada momento con una pasión y con mucha dedicación, espero verte pronto en un nuevo curso.
 
-* **Nagcely Mendoza** (2)
+* **Nagcely Mendoza** (2) [963063](https://platzi.com/comentario/963063/) 
 
-	
 	Excelente curso, gracias Osvaldo.
 
-* **Wilson Gonzalo Penagos Morales** (2)
+* **Wilson Gonzalo Penagos Morales** (2) [933937](https://platzi.com/comentario/933937/) 
 
-	
 	gracias profe muy bueno el curso
 
-* **sebastiancastillo83z** (2)
+* **sebastiancastillo83z** (2) [932264](https://platzi.com/comentario/932264/) 
 
-	
 	Muy buen curso, realmente Postgres es un lujo. Su utilidad y complejidad lo hace una herramienta poderosa. Gracias Osvaldo!
 
-* **Marco Antonio González Arellano** (2)
+* **Marco Antonio González Arellano** (2) [890420](https://platzi.com/comentario/890420/) 
 
-	
 	Genial el curso, muchos buenos tips que seguro me servirán, de hecho ya empezando el año que regrese de vacaciones comenzaré a implementar.
 	
 	Gracias!
 
-* **andoni** (2)
+* **andoni** (2) [877319](https://platzi.com/comentario/877319/) 
 
-	
 	Muchas gracias por el curso! Fue muy interesante!!
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [1071572](https://platzi.com/comentario/1071572/) 
 
-	
 	Hola chicos
 	
 	Si mi app maneja info de varias empresas, como recomiendan crear la base de datos de cada una de ellas?
@@ -7577,33 +6857,27 @@ Buenas tardes, puedo hacer replica en tiempo real entre dos motores de base de d
 	
 	Gracias de antemano.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [1071572] (2)
 
-		
 		Hola, esto te puede ayudar a decidir lo mejor para tu app. <https://platzi.com/blog/multi-tenant-que-es-y-por-que-es-importante/>
 
-	* **Didier Zúñiga** (1)
+	* **Didier Zúñiga** [1071572] (1)
 
-		
 		Perfecto, muchas gracias Gollum
 
-* **CARLOS DAVID MARCIGLIA GOMEZ** (1)
+* **CARLOS DAVID MARCIGLIA GOMEZ** (1) [1039888](https://platzi.com/comentario/1039888/) 
 
-	
 	Muy buen curso, algunas dudas me fueron resultas, ahora a poner en practica lo aprendido en mi Startup.
 
-* **miguelangelpglez** (1)
+* **miguelangelpglez** (1) [995780](https://platzi.com/comentario/995780/) 
 
-	
 	Me fascino empezar con PostgreSQL.
 
-* **Manuel_Herrera** (1)
+* **Manuel_Herrera** (1) [987729](https://platzi.com/comentario/987729/) 
 
-	
 	Increíble curso !!
 
-* **Miguel Ángel Muñoz Pozos** (1)
+* **Miguel Ángel Muñoz Pozos** (1) [948965](https://platzi.com/comentario/948965/) 
 
-	
 	Gracias por el curso muy bueno creo que usare PostgreSQL
 

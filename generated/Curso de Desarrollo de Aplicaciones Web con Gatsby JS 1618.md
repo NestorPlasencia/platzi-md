@@ -1,10 +1,10 @@
-# Introducción a Gatsby
+[Curso de Desarrollo de Aplicaciones Web con Gatsby JS 1618](https://platzi.com/cursos/gatsby)
 
-## 0010. ¿Qué es Gatsby
+# Introducción a Gatsby [4204]
+
+## 0010. ¿Qué es Gatsby [20979](https://platzi.com/clases/1618-gatsby/20979-que-es-gatsby/)
 
 ### Descripción:
-
-
 Gatsby es un _framework open source_ increíblemente rápido, tanto en desarrollo como en producción. Trabaja con un stack innovador, ya que integra tecnologías como React y GraphQL con diferentes fuentes de información como WordPress o [Sanity.io](http://Sanity.io).
 
 Gatsby usa GraphQL para recolectar la información de nuestro sitio web desde diferentes fuentes: APIs, CMS o nuestro sistema de archivos. Y teniendo lista la información, renderiza nuestras vistas en React.js para construir sitios estáticos muy optimizados.
@@ -28,76 +28,63 @@ Screen reader support enabled.
 
 ### Comentarios:
 
-* **Rubén Maier Enzler** (16)
+* **Rubén Maier Enzler** (16) [638441](https://platzi.com/comentario/638441/) 
 
-	
 	Los amo, me encanta que comiencen el curso mostrando el proyecto que uno terminaría haciendo a lo largo de cada tema. Crean que nos alivian mucho a las personas ansiosas y curiosas que están pendientes de saber que sigue para saber que se logra hacer, y a su vez te motiva a terminar el curso lo antes posible e ir proyectando el uso que uno le daría a esta nueva skill
 
-* **daniel.hincapie** (3)
+* **daniel.hincapie** (3) [931515](https://platzi.com/comentario/931515/) 
 
-	
 	recibe datos de firebase?
 
-	* **Diego Hernán Moreno Amaya** (1)
+	* **Diego Hernán Moreno Amaya** [931515] (1)
 
-		
 		Misma pregunta
 
-	* **Cesar Galindo** (1)
+	* **Cesar Galindo** [931515] (1)
 
-		
 		según la pagina oficial, si  
 		<https://www.gatsbyjs.org/packages/gatsby-plugin-firebase/>
 
-* **RichBarusta** (3)
+* **RichBarusta** (3) [641938](https://platzi.com/comentario/641938/) 
 
-	
 	Gatsby podría ser afín a la arquitectura de micro-frontends ??
 
-	* **joss_dz** (7)
+	* **joss_dz** [641938] (7)
 
-		
 		Si, y [acá tienes un recurso](https://www.youtube.com/watch?v=0Ta-awtLZTs) excelente por Jason Lengstorf del equipo oficial de Gatsby
 
-* **Juan Antonio Avalos Orozco** (2)
+* **Juan Antonio Avalos Orozco** (2) [696133](https://platzi.com/comentario/696133/) 
 
-	
 	De las mejores intro que he visto en cursos!
 
-* **Cristian3** (1)
+* **Cristian3** (1) [983247](https://platzi.com/comentario/983247/) 
 
-	
 	 **ventajas de Gatsby:**  
 	Nos entrega un sitio rápido, optimizado y tiene una buena navegación
 	
 	Link de gatsby: [gatsby](https://www.gatsbyjs.org)
 
-* **luisrovez** (1)
+* **luisrovez** (1) [958588](https://platzi.com/comentario/958588/) 
 
-	
 	Eh visto de Gatby se basa en JAMStack (Javascript API´S Markup) 🤔, pero no me queda claro que es en realidad, solamente que es conjunto de tecnologías para el desarrollo web como MEAN, MERN, etc… pero todos los procesos no se realizan en el servidor, sino, en el cliente.
 
-	* **zomars** (2)
+	* **zomars** [958588] (2)
 
-		
 		Se podría decir que es una manera de mantener separado el front y back de una aplicación. Te permite usar cualquier API y cualquier framework JS y aun así funcionar entre si.
 
-* **Abner Paul Ccari Lindo** (1)
+* **Abner Paul Ccari Lindo** (1) [906387](https://platzi.com/comentario/906387/) 
 
-	
 	Que genial, lo mejor de dos mundos GraphQL y React 🚀
 
-* **samuelfloreshernandez** (1)
+* **samuelfloreshernandez** (1) [723923](https://platzi.com/comentario/723923/) 
 
-	
 	Muy buena introducción al curso, motiva mucho los resultados que muestra!
 
-* **benitezconzeta** (1)
+* **benitezconzeta** (1) [668883](https://platzi.com/comentario/668883/) 
 
-	
 	Wow!!! Buenísimo. El profe me deja con muchas expectativas para aprender Gatsby!!!
 
-## 0020. ¿Por qué Gatsby Seguridad y Velocidad
+## 0020. ¿Por qué Gatsby Seguridad y Velocidad [21354](https://platzi.com/clases/1618-gatsby/21354-por-que-gatsby-seguridad-y-velocidad/)
 
 ### Descripción:
 
@@ -121,165 +108,135 @@ Gatsby es un framework open source que nos facilita la construcción de aplicaci
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [641856](https://platzi.com/comentario/641856/) 
 
-	
 	[Next.js](https://platzi.com/clases/next-js/) también es un generador de sitios estáticos, pero no tiene todo el ecosistema de plugins preparado para que los datos se encuentren disponibles tan rápido desde GraphQL.
 
-* **Edgar de Jesus Mendoza Ortegon** (4)
+* **Edgar de Jesus Mendoza Ortegon** (4) [638117](https://platzi.com/comentario/638117/) 
 
-	
 	excelente explicación.
 
-* **Rubén Maier Enzler** (3)
+* **Rubén Maier Enzler** (3) [638445](https://platzi.com/comentario/638445/) 
 
-	
 	Tengo una duda, ¿podría hacer una PWA con esta tecnología si convino los conocimientos del curso de “PWA con react” y este?
 
-	* **joss_dz** (3)
+	* **joss_dz** [638445] (3)
 
-		
 		Por supuesto, en el proyecto que te genera el comando ´gatsby new´ del cli de gatsby hay un plugin llamado gatsby-plugin-offline que está comentado, basta con des-comentarlo para tener una PWA con gatsby. Tu sitio instalable. incluso hay starters que ya vienen configurados para ser una PWA
 
-	* **Rubén Maier Enzler** (1)
+	* **Rubén Maier Enzler** [638445] (1)
 
-		
 		Gracias @joss_dz
 
-* **Edgar de Jesus Mendoza Ortegon** (3)
+* **Edgar de Jesus Mendoza Ortegon** (3) [638125](https://platzi.com/comentario/638125/) 
 
-	
 	¿podemos usar otro backend cómo por ejemplo Python o Golang?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [638125] (1)
 
-		
 		Pra crear una API y consumir su información, sí.  
 		Para el render, no.
 
-	* **Andres Hernandez Lozano** (3)
+	* **Andres Hernandez Lozano** [638125] (3)
 
-		
 		No importa de donde vengan los datos…Puede ser de un API construido en cualquier lenguaje.
 
-* **Daniel Hurtado** (2)
+* **Daniel Hurtado** (2) [1045038](https://platzi.com/comentario/1045038/) 
 
-	
 	Gatsby parece ser la mejor opción. Pero, y si un sitio tiene miles o decenas de miles o cientas de miles de páginas? Por ejemplo, Platzi, que debería tener decenas de miles de páginas prerenderizadas por cada curso, gatsby se manejaría bien en ese sentido?
 
-* **José Alberto Ortiz Vargas** (2)
+* **José Alberto Ortiz Vargas** (2) [841636](https://platzi.com/comentario/841636/) 
 
-	
 	Puedo hacer backend con PHP y Frontend con Gatsby?
 
-	* **fermebaz** (1)
+	* **fermebaz** [841636] (1)
 
-		
 		Si, por medio de una API.
 
-* **harbarnard** (2)
+* **harbarnard** (2) [830577](https://platzi.com/comentario/830577/) 
 
-	
 	es recomendable usar angular con firebase, para poder usar SEO usamos gatsby y con eso la parte de la seguridad se ve completa. la pregunta es? para paginas dinamicas o portalweb con datos dinamicos se podria usar gatsby?
 
-* **Matias Niz** (2)
+* **Matias Niz** (2) [710675](https://platzi.com/comentario/710675/) 
 
-	
 	Espero no equivocarme, pero con lo que vimos en el curso de Next, lo que se renderiza en el servidor es la pagina que visitamos al inicio, el resto de paginas que accedemos al navegar dentro de una app con next son client side.
 
-* **darwinyusef** (2)
+* **darwinyusef** (2) [646664](https://platzi.com/comentario/646664/) 
 
-	
 	Tengo una pregunta no se si puedan responderla, En google existe una caracteristica que potencia los buscadores llamada google <https://amp.dev/> ya que AMP facilita la creación de grandes experiencias en la web. tengo entendido que solo con NEXT es posible usar amp con Gatsby es posible?
 
-	* **joss_dz** (2)
+	* **joss_dz** [646664] (2)
 
-		
 		Claro que es posible, gatsby tiene un [plugin](https://www.gatsbyjs.org/packages/gatsby-plugin-amp/) que te permite trabajar con esta tecnología. Incluso existe este [starter](https://www.gatsbyjs.org/starters/tomoyukikashiro/gatsby-starter-blog-amp-to-pwa/) que te permite trabajar con la configuración de gatsby + amp
 
-* **Rubén Maier Enzler** (2)
+* **Rubén Maier Enzler** (2) [638455](https://platzi.com/comentario/638455/) 
 
-	
 	no veo la diferencia entre una SSR y Gatsby, es decir, el sitio estático que genera Gtsby sigue estando en un servidor, y sigue entregando las cosas por parte como hacer SSR, es decir, ambos dan en la medida en la que se lo piden.
 
-	* **joss_dz** (7)
+	* **joss_dz** [638455] (7)
 
-		
 		El detalle está en que en un Sitio de SSR, la respuesta del servidor fue preparada en el servidor en tiempo de ejecución. Esto quiere decir que hay una maquina haciendo el procesamiento de tu petición y devolviendo un sitio renderizado. Gatsby genera las vistas del proyecto y te entrega todo listo.
 
-	* **WilliamVelazquez** (1)
+	* **WilliamVelazquez** [638455] (1)
 
-		
 		Tenía entendido que NextJS también generaba sitios estáticos entonces, ¿Cuál sería la diferencia entre Gatsby y NextJS?🤔
 
-	* **Rubén Maier Enzler** (1)
+	* **Rubén Maier Enzler** [638455] (1)
 
-		
 		@joss_dz, seguimos en la misma, tanto “generar las vistas del proyecto” como “una maquina procesando peticiones y renderizando lo solicitado” es lo mismo, con la diferencia de que uno te entrega una parte y el otro todo. Ahora, detenete a pensar, renderizar todas las vistas y enviarlas entera, es costoso en tiempo inicial y costoso en consumo de cache/ram por parte del browser puesto que pasa a estar toda esa info en el cliente, y es el browser quien gestiona reactivamente cada petición. Por lo tanto, si Gtsby funcionaría así, sería peor que una SSR. La arquitectura de funcionamiento efectivamente debería ser mejor, pero dudo que te entregue de una todo hecho, por lo que entiendo del video también es por petición, pero no llego a entender si hay un proceso de “renderización iterativa incremental”, que una vez dada la primer petición, ya empaqueta el resto de vistas y las tiene preparadas para futuras peticiones, el tema es que con datos dinámicos, los paquetes de petición no podrían pre-ensamblarse al instante de petición.
 
-	* **adrianrbp** (3)
+	* **adrianrbp** [638455] (3)
 @rmaierenzler la clave en la respuesta del profe está en "tiempo de ejecución", SSR genera las vistas en tiempo de ejecución ó de manera dinamica con cada petición, a diferencia de Gatsby que genera las vistas en tiempo de compilación ó de manera estática previa a cualquier petición y en cada petición devuelve archivos estáticos pre-compilados (pareja html-js) . Este es un link donde se explica la diferencia de Next.js(SSR) y gatsby. https://youtu.be/xC4Yq_mXvPM También comentan que Next.js puede hacer lo mismo, pero que gatsby es la opción en esa categoría.
 
-	* **Rubén Maier Enzler** (1)
+	* **Rubén Maier Enzler** [638455] (1)
 
-		
 		@adriandn, gracias, el profe no dijo eso en la explicación. Pero ahora me entra otra duda, ¿como hace gatsby para ensamblar en tiempo de copilación (que entiendo es antes de que el servidor ponga su atención en marcha) si aun no recibió los datos asociado?. Por ejemplo, en una pantalla de login, el cliente ingresa datos, que son enviados al servidor, el servidor los procesa, los valida con la backend DB y devuelve por ejemplo al cliente a su perfil (siendo este perfil ya otra pagina que expone los datos personales que también fueron consultados en la DB). Me resulta raro, porque dependiendo el usuario logados los datos serán distintos, y el html final de “perfil” debería tener los datos correspondientes, por lo que no queda otra que modelar el html en tiempo de ejecución,
 
-* **juand_silva** (1)
+* **juand_silva** (1) [967232](https://platzi.com/comentario/967232/) 
 
-	
 	Dónde puedo descargar la documentación que utiliza el profesor para el curso?
 
-* **Alessandri** (1)
+* **Alessandri** (1) [718157](https://platzi.com/comentario/718157/) 
 
-	
 	Muy interesante todo lo que cubre en la parte de seguridad al no conectarnos directamente con el backend y la db
 
-* **Miguel Ruiz Moreno** (1)
+* **Miguel Ruiz Moreno** (1) [694709](https://platzi.com/comentario/694709/) 
 
-	
 	¿Con respecto al SEO el factor que diferencia a una aplicación de Gatsby frente a una SPA con React que use react-helmet únicamente sería el tiempo de carga inicial?
 
-	* **joss_dz** (3)
+	* **joss_dz** [694709] (3)
 
-		
 		Así es, a demás que en gatsby sigues usando helmet. Solamente no lo ‘configuras’ 😄
 
-* **Abner Paul Ccari Lindo** (1)
+* **Abner Paul Ccari Lindo** (1) [682797](https://platzi.com/comentario/682797/) 
 
-	
 	En este caso, gatsby seria perfecto para crear landing pages? o igual existiria problemas con el SEO?
 
-	* **joss_dz** (4)
+	* **joss_dz** [682797] (4)
 
-		
 		Así es, me parece una buena idea. a veces pienso que no debemos hacer sobre-ingeniería o usar algo tan robusto para algo tan simple. Pero con Gatsby me encanta romper esa regla por que solo necesitas `gatsby new` y tienes todo un proyecto base optimizado sin mucho esfuerzo.
 
-* **BRYAN ALEXANDER CONDOR DE LA CRUZ** (1)
+* **BRYAN ALEXANDER CONDOR DE LA CRUZ** (1) [658427](https://platzi.com/comentario/658427/) 
 
-	
 	SSR es lo mismo a lo que hace SPA con **LazyLoading** ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (7)
+	* **Diego Alexander Forero Higuera (Platzi)** [658427] (7)
 
-		
 		No, Server Side Render o SSR es que el servidor ya envía el contenido listo para ser mostrado por el navegador, como si fuera un html estático. Una Single Page Application es una aplicación que carga en la misma vista varias cosas sin necesidad de refrescar, el LazyLoading lo que hace es que no todo se cargue al tiempo si no se cargue por ejemplo las imágenes solo cuando son visibles dentro del navegador.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [658427] (2)
 
-		
 		Nope. Mira este artículo: [Server Side Rendering vs. Single Page Applications vs. Generadores de Sitios Estáticos](https://platzi.com/blog/spa-vs-ssr-vs-static-site-generators/).
 
-* **Alvise Leal** (1)
+* **Alvise Leal** (1) [645666](https://platzi.com/comentario/645666/) 
 
-	
 	Justo conozco este framework después de haber realizado un website con Vue y el SPA-Prerender Plugin para afrontar los mismos problemas que Gatsby (o Gridsome, para Vue).
 	
 	Mi duda es ¿que diferencia o ventajas tendría utilizar Gatsby/Gridsome frente a hacer el prerenderizado por tu cuenta?
 	
 	Se que te facilita bastante la configuración para poder _fetchear_ contenido al momento de hacer el prerenderizado, pero a parte de eso ¿que otro plus notable tiene este framework?
 
-## 0030. Diferencias entre SPA, SSR y Gatsby
+## 0030. Diferencias entre SPA, SSR y Gatsby [21373](https://platzi.com/clases/1618-gatsby/21373-diferencias-entre-spa-ssr-y-gatsby/)
 
 ### Descripción:
 
@@ -320,95 +277,85 @@ Gatsby también nos ayuda a consumir información desde un CMS como WordPress. D
 
 **Gatsby** :
 
-  * Utiliza el Virtual DOM (más velocidad)
-  * Componentes
-  * Hot Reloading
-  * Code Splitting e imágenes responsivas
+* Utiliza el Virtual DOM (más velocidad)
+* Componentes
+* Hot Reloading
+* Code Splitting e imágenes responsivas
 
 
 
 **WordPress** :
 
-  * Manejo manual del DOM
-  * Debemos copiar y pegar para reutilizar código (aunque las buenas prácticas nos pueden ayudar bastante)
-  * Refresh para ver los cambios
+* Manejo manual del DOM
+* Debemos copiar y pegar para reutilizar código (aunque las buenas prácticas nos pueden ayudar bastante)
+* Refresh para ver los cambios
 
 
 
 ### Comentarios:
 
-* **MTab** (2)
+* **MTab** (2) [709000](https://platzi.com/comentario/709000/) 
 
-	
 	Qué interesante sesión! Vamos por más…
 
-* **Abel Fernando Yupanqui Rojas** (2)
+* **Abel Fernando Yupanqui Rojas** (2) [700392](https://platzi.com/comentario/700392/) 
 
-	
 	Buena información !! , es importante saber que es lo que sucede detrás de todo desarrollo para seguir avanzando !!
 
-* **Fabián andres Pedraza Borhorquez** (1)
+* **Fabián andres Pedraza Borhorquez** (1) [1046343](https://platzi.com/comentario/1046343/) 
 
-	
 	es muy interesante aprender gatsby ya que nuestro ecommerce puede cargar en mili segundos y ha google le encanta eso y así podemos estar mas rápido entre las primeras posiciones
 
-* **luisrovez** (1)
+* **luisrovez** (1) [958718](https://platzi.com/comentario/958718/) 
 
-	
 	Super interesante, me siento emocionado de aprender este Framework y poder usarlo en mis futuros proyectos, ademas que el profesor es excelente explicando, hasta ahora xd
 
-* **Jessie Buckland Pérez** (1)
+* **Jessie Buckland Pérez** (1) [951934](https://platzi.com/comentario/951934/) 
 
-	
 	Me parece increíble lo que se puede llegar a hacer con Gatsby, y solo estamos en la tercera clase 😄
 
-* **johnaagudelo** (1)
+* **johnaagudelo** (1) [807401](https://platzi.com/comentario/807401/) 
 
-	
 	super bien!!!
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [696186](https://platzi.com/comentario/696186/) 
 
-	
 	Buen resumen, basicamente la clase anterior.
 
-	* **ferroblesh** (2)
+	* **ferroblesh** [696186] (2)
 
-		
 		Lo mismo pensé. Bastante informativo el resumen 😃
 
-* **Adrian Camilo Caminos** (1)
+* **Adrian Camilo Caminos** (1) [644229](https://platzi.com/comentario/644229/) 
 
-	
 	Digamos si quisiera manejar todo mi contenido SEO, environments cual seria mejor nextJS o Gatsby tengo esa duda ? gracias 😄
 
-	* **joss_dz** (3)
+	* **joss_dz** [644229] (3)
 
-		
 		Creo que si ese es el objetivo más bien te tocaría decidir a ti, en cuestión de comodidad y gusto. ambas herramientas resuelven ese problema. Solo diría que si quieres hacer el resto de cosas a mano Nextjs, Si quieres la carga rápida y todo el contenido centralizado y tu sitio construido previo al request del usuario, Gatsby.
 
-# Preparando el entorno
+# Preparando el entorno [4205]
 
-## 0040. Requisitos previos y herramientas de desarrollo
+## 0040. Requisitos previos y herramientas de desarrollo [20982](https://platzi.com/clases/1618-gatsby/20982-requisitos-previos-y-herramientas-de-desarrollo/)
 
 ### Descripción:
 
 
 ### Requisitos:
 
-  * [Curso de Fundamentos de JavaScript](https://platzi.com/cursos/fundamentos-javascript/)
-  * [Curso de React.js](https://platzi.com/cursos/react/)
-  * Opcional: [Curso de React.js Avanzado](https://platzi.com/cursos/react-avanzado/)
-  * [Curso Básico de Node](https://platzi.com/cursos/basico-nodejs/)
-  * Opcional: [Curso de Esenciales de Node.js](https://platzi.com/cursos/node-js/)
-  * [Curso Básico de GraphQL](https://platzi.com/cursos/graphql/)
+* [Curso de Fundamentos de JavaScript](https://platzi.com/cursos/fundamentos-javascript/)
+* [Curso de React.js](https://platzi.com/cursos/react/)
+* Opcional: [Curso de React.js Avanzado](https://platzi.com/cursos/react-avanzado/)
+* [Curso Básico de Node](https://platzi.com/cursos/basico-nodejs/)
+* Opcional: [Curso de Esenciales de Node.js](https://platzi.com/cursos/node-js/)
+* [Curso Básico de GraphQL](https://platzi.com/cursos/graphql/)
 
 
 
 ### Herramientas de desarrollo:
 
-  * [Prettier](https://prettier.io): Nos ayuda a formatear (corregir) nuestro código para seguir buenas prácticas.
-  * [ESLint](https://eslint.org): Nos ayuda a detectar errores, incluso antes de ejecutar o probar nuestro código. De esta forma agilizamos el trabajo, ya que obtenemos una guía visual para detectar si algo está mal, todo esto al mismo tiempo que vamos programando.
+* [Prettier](https://prettier.io): Nos ayuda a formatear (corregir) nuestro código para seguir buenas prácticas.
+* [ESLint](https://eslint.org): Nos ayuda a detectar errores, incluso antes de ejecutar o probar nuestro código. De esta forma agilizamos el trabajo, ya que obtenemos una guía visual para detectar si algo está mal, todo esto al mismo tiempo que vamos programando.
 
 
 
@@ -424,31 +371,26 @@ Recuerda que puedes instalar los plugins de ambas herramientas en editor de cód
 
 ### Comentarios:
 
-* **luisrovez** (2)
+* **luisrovez** (2) [958727](https://platzi.com/comentario/958727/) 
 
-	
 	Pero Gatsby es una herramienta para el desarrollo del lado del cliente, diría yo, ya que esta basado en la arquitectura de JAMStack 🤔
 
-	* **Cesar Galindo** (1)
+	* **Cesar Galindo** [958727] (1)
 
-		
 		mira esta comparación que hace gatsby con jamstack frameworks
 		
 		<https://www.gatsbyjs.org/features/jamstack/>
 
-* **Oscar Miguel Fabian Bernal** (2)
+* **Oscar Miguel Fabian Bernal** (2) [640306](https://platzi.com/comentario/640306/) 
 
-	
 	excelenteeee, hace timepo era para que hagan clases utilizando esto 😉
 
-* **dariosoto522** (2)
+* **dariosoto522** (2) [638755](https://platzi.com/comentario/638755/) 
 
-	
 	muy bueno
 
-* **platzerito080420202** (1)
+* **platzerito080420202** (1) [1102996](https://platzi.com/comentario/1102996/) 
 
-	
 	Cuando apreto F1 y clikeo el “open setting json” me aparece esto.
 	
 	{  
@@ -461,38 +403,33 @@ Recuerda que puedes instalar los plugins de ambas herramientas en editor de cód
 	
 	pero no lo que te sale a ti jos_smith xd
 
-* **Kelly Jesus Salazar Sanchez** (1)
+* **Kelly Jesus Salazar Sanchez** (1) [883408](https://platzi.com/comentario/883408/) 
 
-	
 	A quien le dio este error:
 	
 	`Warning: Unsafe lifecycle methods were found within a strict-mode tree:
 	
 	componentWillMount: Please update the following components to use componentDidMount instead: SideEffect(NullComponent)`
 
-* **Jose Luis Colmenares** (1)
+* **Jose Luis Colmenares** (1) [870351](https://platzi.com/comentario/870351/) 
 
-	
 	Casi todos los cursos menso el de GraphQL. Voy a intentar avanzar así y ver hasta donde llego
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [870351] (1)
 
-		
 		Te debería ir bien, de todas maneras si tienes dudas consúltale a la comunidad y te ayudamos a resolverlas 😄
 
-* **onlinejaime** (1)
+* **onlinejaime** (1) [706730](https://platzi.com/comentario/706730/) 
 
-	
 	Debería estar especificado aquí que se trabaja con MacOS y que si se hace con WIndows no funciona igual. Por lo menos se evitarían pérdidas de tiempo…
 
-	* **Juan David Castro (Platzi)** (6)
+	* **Juan David Castro (Platzi)** [706730] (6)
 
-		
 		👋 Hey!
 		
 		Para preparar todo nuestro entorno de desarrollo podemos tomar el [Curso de Prework: Buenas Prácticas y Entorno de Desarrollo](https://platzi.com/clases/prework/). Se explican los temas para todos los tipos de sistemas operativos, incluyendo Windows. 😉
 
-## 0050. Configuración de ESLint
+## 0050. Configuración de ESLint [20983](https://platzi.com/clases/1618-gatsby/20983-configuracion-de-eslint/)
 
 ### Descripción:
 
@@ -616,9 +553,8 @@ Esta es la manera de configurar ESLint de manera manual, recuerda que la herrami
 
 ### Comentarios:
 
-* **Oscar Lobo** (9)
+* **Oscar Lobo** (9) [992236](https://platzi.com/comentario/992236/) 
 
-	
 	En efecto hay varios pasos que se deben aplicar antes de ejecutar este proceso, porque quede perdido al llegar aqui y no tener modulos de node instalado
 	
 	Install the Gatsby CLI
@@ -645,18 +581,16 @@ Esta es la manera de configurar ESLint de manera manual, recuerda que la herrami
 	    
 	```
 
-* **Juan Antonio Avalos Orozco** (3)
+* **Juan Antonio Avalos Orozco** (3) [705752](https://platzi.com/comentario/705752/) 
 
-	
 	Recuerden, la raiz del proyecto:  
 	`yarn install`  
 	Y, luego  
 	`./node_modules/.bin/eslint --init`  
 	Eso lo obviaron en este articulo.
 
-* **Renzo Mayer** (3)
+* **Renzo Mayer** (3) [666300](https://platzi.com/comentario/666300/) 
 
-	
 	Cuando dicen de ejecutar este comando:  
 	./node_modules/.bin/eslint --init
 	
@@ -664,14 +598,12 @@ Esta es la manera de configurar ESLint de manera manual, recuerda que la herrami
 	
 	Yo tuve que <https://www.gatsbyjs.org/docs/quick-start> y termine creando la carpeta gatsby-site y ahi si funciono el comando.
 
-* **Elias Ojeda Medina** (2)
+* **Elias Ojeda Medina** (2) [827510](https://platzi.com/comentario/827510/) 
 
-	
 	Está clase debería estar después de la siguiente, en la posición 6
 
-* **Renzo Mayer** (1)
+* **Renzo Mayer** (1) [666311](https://platzi.com/comentario/666311/) 
 
-	
 	Y comento que con la version 10.15.3 e instalando gatsby con yarn me da el siguiente error:
 	``` 
 	    An error occurred while generating your JavaScript config file. A config file was still generated, but the config file itself may not follow your linting rules.
@@ -722,7 +654,7 @@ Esta es la manera de configurar ESLint de manera manual, recuerda que la herrami
 	    
 	```
 
-## 0060. Gatsby y Gatsby CLI y Starters
+## 0060. Gatsby y Gatsby CLI y Starters [20984](https://platzi.com/clases/1618-gatsby/20984-gatsby-y-gatsby-cli-y-starters/)
 
 ### Descripción:
 
@@ -763,19 +695,16 @@ Los starters son proyectos creados con el fin de modificar el contenido y tener 
 
 ### Comentarios:
 
-* **Favio Náquira** (5)
+* **Favio Náquira** (5) [638231](https://platzi.com/comentario/638231/) 
 
-	
 	Este curso si tiene las descripciones completas abajo del video, está genial, además el profe le pone ganas =D
 
-* **jesusmurf** (3)
+* **jesusmurf** (3) [663117](https://platzi.com/comentario/663117/) 
 
-	
 	Me ha encantado todo el tema de starters. Tengo ganas de empezar a jugar con Gatsby!
 
-* **Jesús Manuel Fuentes Trejo** (2)
+* **Jesús Manuel Fuentes Trejo** (2) [1089561](https://platzi.com/comentario/1089561/) 
 
-	
 	Cuando tienes instalado zsh, puedes utilizar
 	``` 
 	    take mi_directorio
@@ -788,116 +717,97 @@ Los starters son proyectos creados con el fin de modificar el contenido y tener 
 	    
 	```
 
-* **jhon manuel angulo moncada** (2)
+* **jhon manuel angulo moncada** (2) [846962](https://platzi.com/comentario/846962/) 
 
-	
 	para usar los Starters y como recomendación general deberías instalar Git =).
 
-* **Mario E Fernandez  Serrano** (2)
+* **Mario E Fernandez  Serrano** (2) [658259](https://platzi.com/comentario/658259/) 
 
-	
 	Hola, amigos estoy siguiendo el curso , solo que al ejecutar [ gatsby develop ] no me corre el proyecto… 😦 alguno sabe a que se debe ? por otro lado instalado [ npm install -g gatsby-cli ] y al crear el proyecto tampoco me ejecuta. 😦 ayuda SOS xD…
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [658259] (2)
 
-		
 		Hola, puedes compartir si te sale algún error y si es así compartir el stack trace completo del error.
 
-	* **joss_dz** (2)
+	* **joss_dz** [658259] (2)
 
-		
 		Si tienes problemas para crear puedes usar npx, te permite correr el cli sin la instalación global.
 		
 		`npx gatsby new [nombre]`
 		
 		Intenta ejecutar con `npm run develop` || `yarn develop`
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [658259] (1)
 
-		
 		Para usar el comando `gatsby` debe instalarlo globalmente y por eso no le funciona el comando `gatsby develop`  
 		Pero si lo que quiere es usar la instalación local de _Gatsby_ puede hacerlo usando el script que se puso en el `package.json` usando el comando `npm run develop`  
 		Como mencionó el profe es mejor usar el comando `npx gatsby new <nombre del proyecto>` el cual no necesita de una instalación global de _Gatsby_.
 
-	* **juand_silva** (2)
+	* **juand_silva** [658259] (2)
 
-		
 		Es mejor no instalar dependecias de forma Global, a no ser de que sea necesario; ya que, las actualizaciones de estas dependencias se debe hacer de forma manual. Utiliza este comando  
 		`npm run develop`
 
-* **Gaston Morales** (2)
+* **Gaston Morales** (2) [654463](https://platzi.com/comentario/654463/) 
 
-	
 	 **Increíble el sistema de los Starters, son sencillos de utilizar y facilita mucho ciertos trabajos**
 
-* **Alexander  Silvera** (2)
+* **Alexander  Silvera** (2) [652623](https://platzi.com/comentario/652623/) 
 
-	
 	puedo configurar gatsby con un proyecto de un blog con django?? Para servir los archivos estaticos??
 
-	* **joss_dz** (2)
+	* **joss_dz** [652623] (2)
 
-		
 		En esencia, sí. Al final son archivos estáticos.
 
-* **NATALIAGJ** (2)
+* **NATALIAGJ** (2) [638765](https://platzi.com/comentario/638765/) 
 
-	
 	![](https://res.cloudinary.com/simplecol/image/upload/v1562339978/error_gatsby_gfejhz.png)  
 	Aparece este error cuando ejecuto el comando gatsby new myproject
 
-	* **NATALIAGJ** (4)
+	* **NATALIAGJ** [638765] (4)
 
-		
 		Aca encontre la solución para usuarios windows: <https://www.gatsbyjs.org/docs/gatsby-on-windows/>
 
-	* **Mario E Fernandez  Serrano** (1)
+	* **Mario E Fernandez  Serrano** [638765] (1)
 
-		
 		Como lo arreglo para MAC . 😦
 
-* **lennonpoul** (1)
+* **lennonpoul** (1) [973058](https://platzi.com/comentario/973058/) 
 
-	
 	al momento de generar mi proyecto con gatsby new Nombre me sale un error no se si pueden ayudar a solucionarlo ![error.png](https://static.platzi.com/media/user_upload/error-c7679c8d-42bb-42f5-8066-d95fa5338370.jpg)
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [863215](https://platzi.com/comentario/863215/) 
 
-	
 	Lo tuve que abrir en la consola de git, el CMD me daba muchos problemas
 
-* **jenapi** (1)
+* **jenapi** (1) [709310](https://platzi.com/comentario/709310/) 
 
-	
 	Hey como consejo a todos los usuarios de windows, es demasiado tedioso usar windows simplemente es un dolor de cabeza tremendo, pero pueden usar el subsistema linux, ayuda demasiado, corrí este codigo sin problema alguno usando el bash del susbsitema linux en windows, es una especie de consuelo para los usuarios de windows.
 
-	* **Diego Andres Cardenas Caro** (3)
+	* **Diego Andres Cardenas Caro** [709310] (3)
 
-		
 		Si quieres una consola rapido y muy familiar a linux instala Cmder, tremenda sobre Windows <https://cmder.net>
 
-	* **Juan David Castro (Platzi)** (4)
+	* **Juan David Castro (Platzi)** [709310] (4)
 
-		
 		👋 Hey!
 		
 		Para preparar todo nuestro entorno de desarrollo podemos tomar el [Curso de Prework: Buenas Prácticas y Entorno de Desarrollo](https://platzi.com/clases/prework/). Se explican los temas para todos los tipos de sistemas operativos, incluyendo Windows. 😉
 
-* **nicolas-garcia-puerta** (1)
+* **nicolas-garcia-puerta** (1) [647960](https://platzi.com/comentario/647960/) 
 
-	
 	No me reconoce el comando gatsby develop y ya lo tengo agregado en el package.json
 	
 	¿Que hago?
 
-	* **joss_dz** (4)
+	* **joss_dz** [647960] (4)
 
-		
 		¿Puedo ver tu repo?  
 		Verifica lo siguiente:
 		
-		  * Tener instalado el cli de gatsby, en su defecto: `npm i -g gatsby-cli`
-		  * verifica que tengas en tus scripts:
+		* Tener instalado el cli de gatsby, en su defecto: `npm i -g gatsby-cli`
+		* verifica que tengas en tus scripts:
 		
 		
 		``` 
@@ -908,37 +818,32 @@ Los starters son proyectos creados con el fin de modificar el contenido y tener 
 		    
 		```
 
-	* **nicolas-garcia-puerta** (4)
+	* **nicolas-garcia-puerta** [647960] (4)
 
-		
 		Solucionado.
 		
 		En el video lo corriste antes de explicar que ya tenias instalado el CLI. Por eso me aparecia el command not found.
 		
 		Muchas Gracias
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [647960] (1)
 
-		
 		Si quiere usar el comando que agregó al `package.json` debe usar el comando `npm run develop`  
 		Si usa directamente el comando `gatsby develop` está solicitando el comando gatsby desde una instalación global en lugar de la instalación local.
 
-* **Miguel Sanchez** (1)
+* **Miguel Sanchez** (1) [643660](https://platzi.com/comentario/643660/) 
 
-	
 	Que tema pongo en visual studio para poder visualizar los iconos que estás usando
 
-	* **joss_dz** (4)
+	* **joss_dz** [643660] (4)
 
-		
 		material icon theme 😁
 
-* **Moises Quiñones Tineo** (1)
+* **Moises Quiñones Tineo** (1) [76772](https://platzi.com/comentario/892794/) 
 Hola a todos. Suelo tener siempre el mismo problema. Cuando intento instalar algo con npm, por ejemplo en este caso npm i -g gatsby-cli s...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [76772] (1)
 
-		
 		No es un problema. Es completamente normal cuando instalamos paquetes de NPM globalmente. No tienes que preocuparte por eso. 😉
 		
 		Aunque si no quieres tener que usar sudo puedes seguir algunos de estos tutoriales:
@@ -947,9 +852,9 @@ Hola a todos. Suelo tener siempre el mismo problema. Cuando intento instalar alg
 		👉 <https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md>  
 		👉 <https://medium.com/@samfeolu/install-your-npm-packages-globally-without-sudo-in-3-steps-d62c96a76b89>
 
-# Fundamentos de Gatsby
+# Fundamentos de Gatsby [4206]
 
-## 0070. Presentación y Estructura de Archivos de nuestro proyecto Platziswag
+## 0070. Presentación y Estructura de Archivos de nuestro proyecto Platziswag [20985](https://platzi.com/clases/1618-gatsby/20985-presentacion-y-estructura-de-archivos-de-nuestro-p/)
 
 ### Descripción:
 
@@ -964,11 +869,11 @@ Vamos a clonar el repositorio de [github.com/Jossdz/Gatsby-platzi](https://githu
 
 ### Archivos de configuración de Gatsby
 
-  * **`package.json`** : los paquetes, _scripts_ y la configuración principal de cualquier proyecto con Node.js.
-  * **`gatsby-config.js`** : configuramos la metadata (título, descripción y autor) y los plugins de Gatsby que usaremos para construir nuestra aplicación.
-  * **`gatsby-browser.js`** : una parte de nuestro código se construye desde el servidor, en el build time, y otra parte muy importante en el navegador, cada vez que los usuarios entran a nuestra aplicación. En este archivo podemos utilizar algunas APIs o métodos predefinidos para configurar el código que debe ejecutarse en el navegador, por ejemplo, para añadir vistas, cargar librerías o configurar un _store_ global para manejar el estado.
-  * **`gatsby-node.js`** : configuramos todo lo que tiene que ver con la construcción de nuestro sitio web con Gatsby. Podemos generar vistas en función de nuestra información proveniente de GraphQL, incluso utilizando APIs externas a nuestra aplicación.
-  * **`gatsby-ssr.js`** : configuramos lo que sucede en el build time para que nuestra aplicación funcione correctamente en producción. Tiene el mismo fin que `gatsby-browser.js`, solo que este será el código que enviamos a producción.
+* **`package.json`** : los paquetes, _scripts_ y la configuración principal de cualquier proyecto con Node.js.
+* **`gatsby-config.js`** : configuramos la metadata (título, descripción y autor) y los plugins de Gatsby que usaremos para construir nuestra aplicación.
+* **`gatsby-browser.js`** : una parte de nuestro código se construye desde el servidor, en el build time, y otra parte muy importante en el navegador, cada vez que los usuarios entran a nuestra aplicación. En este archivo podemos utilizar algunas APIs o métodos predefinidos para configurar el código que debe ejecutarse en el navegador, por ejemplo, para añadir vistas, cargar librerías o configurar un _store_ global para manejar el estado.
+* **`gatsby-node.js`** : configuramos todo lo que tiene que ver con la construcción de nuestro sitio web con Gatsby. Podemos generar vistas en función de nuestra información proveniente de GraphQL, incluso utilizando APIs externas a nuestra aplicación.
+* **`gatsby-ssr.js`** : configuramos lo que sucede en el build time para que nuestra aplicación funcione correctamente en producción. Tiene el mismo fin que `gatsby-browser.js`, solo que este será el código que enviamos a producción.
 
 
 
@@ -980,24 +885,21 @@ El resto de archivos y carpetas contienen código JavaScript (seguramente con Re
 
 ### Comentarios:
 
-* **Juan Antonio Avalos Orozco** (3)
+* **Juan Antonio Avalos Orozco** (3) [705919](https://platzi.com/comentario/705919/) 
 
-	
 	Por si les gusta mas ver git visualmente:  
 	[GitHub Desktop](https://desktop.github.com/)
 
-	* **Fabian Guerrero** (1)
+	* **Fabian Guerrero** [705919] (1)
 
-		
 		Honestamente he tenido algunos problemas con Github Desktop en mi experiencia profesional. Github Desktop se convierte en una solución algo limitada a la hora de realizar operaciones mas complejas de manejo de Branches (como merges, ignorar y cosas asi); por ende te recomiendo usar Sourcetree, alli tu puedes usar los repositorios de cualquier solución Git.
 		
 		Te dejo un sencillo video de youtube porque no pude subir una imagen para explicar lo sencillo que es
 		
 		[Tutorial Clonar Repo con SourceTree](https://www.youtube.com/watch?v=5K4gong_lA0)
 
-* **David Behar** (2)
+* **David Behar** (2) [1015263](https://platzi.com/comentario/1015263/) 
 
-	
 	Me falló la instalación, el problema parece ser que es de instalación sin permisos porque se arregló al borrar node-modules y instalar con la bandera [–unsafe-perm](https://geedew.com/What-does-unsafe-perm-in-npm-actually-do/)
 	``` 
 	    rm -rf node-modules
@@ -1007,34 +909,30 @@ El resto de archivos y carpetas contienen código JavaScript (seguramente con Re
 	    
 	```
 
-* **zomars** (1)
+* **zomars** (1) [1086282](https://platzi.com/comentario/1086282/) 
 
-	
 	Alguien más tiene este error?
 	``` 
 	    Errorin"/Users/zomars/Sites/Gatsby-platzi/node_modules/gatsby-plugin-manifest/gatsby-node.js": Cannot find module'gatsby/dist/utils/create-content-digest'
 	    
 	```
 
-	* **zomars** (1)
+	* **zomars** [1086282] (1)
 
-		
 		Al parecer mi error fue haber usado `yarn` para instalar las dependencias. Re-instalando con `npm i` fue mi solución.
 
-* **Alexis Ulises Barba Pérez** (1)
+* **Alexis Ulises Barba Pérez** (1) [1002212](https://platzi.com/comentario/1002212/) 
 Tuve un problema con el comando npm i relacionado con que uso deepin como SO. Lo solucione eliminando la carpeta node_nodules y ejecutando los comandos npm cache verify y npm i -g npm. Mi sugerencia es que ejecutes los comandos y actualices el repositorio y así los nuevos estudiantes no tengan el mismo problema
 
-* **Ricardo Medina** (1)
+* **Ricardo Medina** (1) [826833](https://platzi.com/comentario/826833/) 
 
-	
 	Muy bien gatsby, muy bien @Jossdz lo explicas de mandera sencilla y concisa.
 
-* **johnaagudelo** (1)
+* **johnaagudelo** (1) [808363](https://platzi.com/comentario/808363/) 
 
-	
 	Excelente información, muy claro todo.
 
-## 0080. Ecosistema de plugins
+## 0080. Ecosistema de plugins [20986](https://platzi.com/clases/1618-gatsby/20986-ecosistema-de-plugins/)
 
 ### Descripción:
 
@@ -1043,25 +941,23 @@ Los plugins son código de Gatsby que alguien más de la comunidad escribió por
 
 Los plugins pueden ayudarnos de 3 formas:
 
-  * **`Plugins como Componentes`** : Cuando instalamos el plugin obtenemos un componente que debemos integrar a nuestra aplicación para obtener algún beneficio.
-  * **`Plugins como Funcionalidades`** : Nos ayudan a transformar información o implementar una funcionalidad en concreto. Por ejemplo: [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image) nos ayuda a crear nuevas versiones de nuestras imágenes con menor calidad para mejorar la carga inicial de nuestro sitio web.
-  * **`Plugins como Fuente de Datos`** : Estos plugins utilizan Node.js y GraphQL para consumir la información de algún lugar o herramienta como Firebase, WordPress, APIs Rest, entre otras.
+* **`Plugins como Componentes`** : Cuando instalamos el plugin obtenemos un componente que debemos integrar a nuestra aplicación para obtener algún beneficio.
+* **`Plugins como Funcionalidades`** : Nos ayudan a transformar información o implementar una funcionalidad en concreto. Por ejemplo: [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image) nos ayuda a crear nuevas versiones de nuestras imágenes con menor calidad para mejorar la carga inicial de nuestro sitio web.
+* **`Plugins como Fuente de Datos`** : Estos plugins utilizan Node.js y GraphQL para consumir la información de algún lugar o herramienta como Firebase, WordPress, APIs Rest, entre otras.
 
 
 
 ### Comentarios:
 
-* **darwinovalles** (6)
+* **darwinovalles** (6) [680677](https://platzi.com/comentario/680677/) 
 
-	
 	Excelente curso, me gusta mucho como explica el profesor y de que se tiene en mente un proyecto final.
 
-* **jacamachoc** (1)
+* **jacamachoc** (1) [918634](https://platzi.com/comentario/918634/) 
 
-	
 	Gracias Joss, me esta ayudando mucho este curso, espero terminarlo y ponerlo en practica pronto.
 
-## 0090. Usando React para manejar la parte visual e interactiva de nuestra aplicación
+## 0090. Usando React para manejar la parte visual e interactiva de nuestra aplicación [20987](https://platzi.com/clases/1618-gatsby/20987-usando-react-para-manejar-la-parte-visual-e-intera/)
 
 ### Descripción:
 
@@ -1080,9 +976,8 @@ Screen reader support enabled.
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (13)
+* **Juan David Castro (Platzi)** (13) [641823](https://platzi.com/comentario/641823/) 
 
-	
 	Este código:
 	``` 
 	    export { defaultas X } from'...';
@@ -1099,92 +994,78 @@ Screen reader support enabled.
 	
 	¡Solo es un atajo! 😬😉
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [641823] (1)
 
-		
 		lo que no entiendo es porque es necesario en el archivo index, si cuando esta declarando el componente ya esta haciendo el export default
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [641823] (1)
 
-		
 		 **@GeoD** En este artículo se explica muy bien: <https://medium.com/hackernoon/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed>. 😉
 
-	* **David Behar** (2)
+	* **David Behar** [641823] (2)
 
-		
 		Me agradó esa sintaxis
 
-* **johnaagudelo** (2)
+* **johnaagudelo** (2) [808374](https://platzi.com/comentario/808374/) 
 
-	
 	El component SEO es del core de Gatsby?
 
-	* **heysoypaez** (5)
+	* **heysoypaez** [808374] (5)
 
-		
 		No, es un componente que configuras usando librerias como react-helmet con lo cual puedes modifcar el title, description y meta tags de tu página. Viene por defecto en algunas plantillas de gastby pero no es nativo.
 		
 		Te dejo documentación:  
 		<https://www.gatsbyjs.org/docs/add-seo-component/>[  
 		](https://www.gatsbyjs.org/docs/add-seo-component/)
 
-* **Cesar Galindo** (1)
+* **Cesar Galindo** (1) [1044810](https://platzi.com/comentario/1044810/) 
 
-	
 	Si alguien le aparece este mensaje
 	
 	Error in “/Users/home/Documents/Desarrollo/gatsby/Gatsby-platzi/node_modules/gatsby-plugin-manifest/gatsby-node.js”: Cannot find module ‘gatsby/dist/utils/create-content-digest’
 	
 	recomiendo eliminar el node_modules y package-lock y reinstalar, aunque según Kyle (creador de Gatsby) es mejor utilizar yarn
 
-* **Bernardo Ayala Montezuma** (1)
+* **Bernardo Ayala Montezuma** (1) [969880](https://platzi.com/comentario/969880/) 
 
-	
 	¿A alguien más le pasa esto al ejecutar `gatsby develop`?:
 	
 	![2020-02-06 12_28_41-Window.png](https://static.platzi.com/media/user_upload/2020-02-06%2012_28_41-Window-8bd826a9-870d-496b-8761-d7404f8c806b.jpg)
 
-	* **juand_silva** (1)
+	* **juand_silva** [969880] (1)
 
-		
 		Coloca el trace de la consola, al parecer no encuentra el componente Jumbo en el objeto IndexPage o te falta dependencias de React si es así debes ejecutar `$ npm i` o `yarn install`
 
-	* **zomars** (1)
+	* **zomars** [969880] (1)
 
-		
 		Al parecer el `IndexPage` no tiene un export default.
 
-* **Abdel Mejia** (1)
+* **Abdel Mejia** (1) [699851](https://platzi.com/comentario/699851/) 
 
-	
 	Es optimo usar estilo por medio de js?
 
-	* **johnaagudelo** (3)
+	* **johnaagudelo** [699851] (3)
 
-		
 		La ventaja de implementar el css por medio de js es que nos permite tener el css más dinámico, y generar componentes reutilizables.
 
-* **Enzo Aliatis** (1)
+* **Enzo Aliatis** (1) [675662](https://platzi.com/comentario/675662/) 
 
-	
 	Este video debería estar en el 9
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [675662] (1)
 
-		
 		La clase ya está en la posición 9. ¿Tienes algún otro problema con el orden?
 
-* **Josueth Acevedo** (1)
+* **Josueth Acevedo** (1) [76731](https://platzi.com/comentario/892195/) 
 Hola, buen curso, La dependencia Style Component me dispara un error en la consola. Voy avanzar sin este plugin para ver que pasa.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [76731] (1)
 
-		
 		¿Qué error te muestra? Puedes mostrarnos y te ayudamos a encontrar una solución. 💪
 
-# Creando la vista con React
+# Creando la vista con React [4207]
 
-## 0100. Router en Gatsby y Componente Link
+## 0100. Router en Gatsby y Componente Link [20988](https://platzi.com/clases/1618-gatsby/20988-router-en-gatsby-y-componente-link/)
 
 ### Descripción:
 
@@ -1209,9 +1090,8 @@ Para usar este componente solo debes importarlo desde:
 
 ### Comentarios:
 
-* **Luis Arturo Lira Cerda** (4)
+* **Luis Arturo Lira Cerda** (4) [638315](https://platzi.com/comentario/638315/) 
 
-	
 	Lo hice con la misma estructura que el de Gracias.  
 	.  
 	En la parte de los estilos agregué un margin de top y bottom de 15px al spam para que el botón no quedará encima del emoji.
@@ -1228,81 +1108,68 @@ Para usar este componente solo debes importarlo desde:
 	
 	Lo pongo por si a alguien le pasó también, así lo solucioné.
 
-	* **joss_dz** (5)
+	* **joss_dz** [638315] (5)
 
-		
 		Continúa con el curso 😄 una vez que agreguemos un plugin llamado typography, todo toma forma y comienza a ser idéntico. por el reset de los estilos.
 
-	* **Juan Antonio Avalos Orozco** (1)
+	* **Juan Antonio Avalos Orozco** [638315] (1)
 
-		
 		Excelente propuesta!!  
 		Me diste ideas para Empty States 😃
 
-* **Jorge Velasquez** (3)
+* **Jorge Velasquez** (3) [772079](https://platzi.com/comentario/772079/) 
 
-	
 	Para visualizar los emojis en windows ( presionar la tecla de windows mas la tecla de punto)
 
-* **onlinejaime** (2)
+* **onlinejaime** (2) [697345](https://platzi.com/comentario/697345/) 
 
-	
 	Alguien me puede decir por qué se ve mi app con bordes por todos lados??? Se necesita un reset.CSS o qué?? Copié directamente todo el proyecto tal cual se especificó al principio de curso…
 	
 	![](![SwagPlatzi.JPG](https://static.platzi.com/media/user_upload/SwagPlatzi-f2ac07ff-5f64-4a16-bbc7-3db19afe4df7.jpg)
 
-	* **Juan Antonio Avalos Orozco** (1)
+	* **Juan Antonio Avalos Orozco** [697345] (1)
 
-		
 		Mismo problema, del video pasado 😕
 
-	* **Jhurgen Maraza** (5)
+	* **Jhurgen Maraza** [697345] (5)
 
-		
 		Yo importe el layout.css dentro del layout.js y se me fueron todos esos bordes
 		``` 
 		    Import './layout.css
 		    
 		```
 
-	* **Ernesto Vizcaíno Alvarado** (1)
+	* **Ernesto Vizcaíno Alvarado** [697345] (1)
 ![Captura de Pantalla 2019-09-14 a la\(s\) 11.59.33 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-09-14%20a%20la%28s%29%2011.59.33%20a.%20m.-8d59da4e-05b7-4f5d-994e-2eeb27815d9f.jpg)
 
-* **jorgejeal** (2)
+* **jorgejeal** (2) [653411](https://platzi.com/comentario/653411/) 
 
-	
 	El Link de gatsby es el mismo de react router?
 
-	* **joss_dz** (3)
+	* **joss_dz** [653411] (3)
 
-		
 		Es algo similar, pero gatsby internamente utiliza otro router llamado Reach Router
 
-* **Cesar Octavio de Jesús Meza Carrillo** (2)
+* **Cesar Octavio de Jesús Meza Carrillo** (2) [652712](https://platzi.com/comentario/652712/) 
 
-	
 	Aqui va mi resultado hasta el momento.
 	
 	![2019-07-16_16-57-39.jpg](https://static.platzi.com/media/user_upload/2019-07-16_16-57-39-31174823-1b2e-42ba-b031-43a20e2dee3d.jpg)
 
-* **nicolas-garcia-puerta** (2)
+* **nicolas-garcia-puerta** (2) [650287](https://platzi.com/comentario/650287/) 
 
-	
 	¿Como puedo visualizar ese recuadro pequeño de los emojis? ¿Como se llama la extension?
 
-	* **joss_dz** (4)
+	* **joss_dz** [650287] (4)
 
-		
 		No es una extensión 😅, es parte del SO de macos: `ctl + ⌘ + spacebar`
 
-	* **jesusmurf** (1)
+	* **jesusmurf** [650287] (1)
 
-		
 		Os recomiendo a ambos una app para Mac que se llama Rocket, te facilita todavía mas la escritura de emojis 😊
 
-* **Pablo Didone** (1)
+* **Pablo Didone** (1) [995185](https://platzi.com/comentario/995185/) 
 
-	
 	Hola, estoy teniendo este problema cuando ejecuto gatsby develop:
 	
 	Cannot find module ‘gatsby/dist/utils/create-content-digest’
@@ -1311,59 +1178,49 @@ Para usar este componente solo debes importarlo desde:
 	
 	Gracias
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [995185] (1)
 
-		
 		Es lo único que aparece? Nos podrías mostrar la consola? :D´
 
-	* **zomars** (1)
+	* **zomars** [995185] (1)
 
-		
 		A mi me sucedio ese error al instalar las dependencias con `yarn`. Al instalar con `npm i` se resolvio para mi,
 
-* **Marcos Rissotto** (1)
+* **Marcos Rissotto** (1) [825104](https://platzi.com/comentario/825104/) 
 
-	
 	como podría redireccionar el sitio a https? Por default es http.  
 	Gracias.
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [825104] (2)
 
-		
 		Hola! En la etapa de desarrollo no es necesario, cuando se haga el Deploy de la app verás como todo pasa a ser https 😄
 
-* **Enzo Aliatis** (1)
+* **Enzo Aliatis** (1) [675670](https://platzi.com/comentario/675670/) 
 
-	
 	El video 9 debería ir en el 11 y asi bajar
 
-* **darwinyusef** (1)
+* **darwinyusef** (1) [653957](https://platzi.com/comentario/653957/) 
 
-	
 	No se debe configurar React Router?
 
-	* **joss_dz** (6)
+	* **joss_dz** [653957] (6)
 
-		
 		No, Gatsby viene configurado ya con un router. ♥️  
 		En específico, reach router.
 
-* **cquijind** (0)
+* **cquijind** (0) [738988](https://platzi.com/comentario/738988/) 
 
-	
 	¿En windows como se visualiza el cuadro de los emojis?
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [738988] (3)
 
-		
 		Puedes usar esta extensión para VSCode: <https://marketplace.visualstudio.com/items?itemName=bierner.emojisense>. 😉
 
-	* **Jorge Velasquez** (3)
+	* **Jorge Velasquez** [738988] (3)
 
-		
 		Para visualizar los emojis en windows ( presionar la tecla de windows mas la tecla de punto)
 
-## 0110. Layout en Gatsby
+## 0110. Layout en Gatsby [21004](https://platzi.com/clases/1618-gatsby/21004-layout-en-gatsby/)
 
 ### Descripción:
 
@@ -1397,16 +1254,14 @@ Afortunadamente, Gatsby nos permite configurar componentes que envuelvan todas n
 
 ### Comentarios:
 
-* **Juan Luis Rojas León** (7)
+* **Juan Luis Rojas León** (7) [643974](https://platzi.com/comentario/643974/) 
 
-	
 	 _<https://i.postimg.cc/6q3pg48v/Logo.png>_  
 	_<https://i.postimg.cc/L6wpMxLt/cart.png>_  
 	❤️
 
-* **Juan Antonio Avalos Orozco** (3)
+* **Juan Antonio Avalos Orozco** (3) [706032](https://platzi.com/comentario/706032/) 
 
-	
 	Para importar las imagenes, prueben:
 	``` 
 	    import logo from'../images/Logo.png'
@@ -1422,95 +1277,79 @@ Afortunadamente, Gatsby nos permite configurar componentes que envuelvan todas n
 	    
 	```
 
-* **David Behar** (2)
+* **David Behar** (2) [1015344](https://platzi.com/comentario/1015344/) 
 
-	
 	Acá la documentación de [wrapRootElement](https://www.gatsbyjs.org/docs/browser-apis/#wrapRootElement)
 
-* **Enzo Aliatis** (2)
+* **Enzo Aliatis** (2) [675672](https://platzi.com/comentario/675672/) 
 
-	
 	Si llegas hasta aqui, ve al video 10 luego 11 y regresa a este, el 9
 
-	* **Juan Antonio Avalos Orozco** (2)
+	* **Juan Antonio Avalos Orozco** [675672] (2)
 
-		
 		#Heroe
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [877317](https://platzi.com/comentario/877317/) 
 
-	
 	no seria mas facil ponerle el Layout a gracias.js… ??
 
-	* **Luis Enrique Sanchez Piñerua** (2)
+	* **Luis Enrique Sanchez Piñerua** [877317] (2)
 
-		
 		Cuando usamos wrapRootElement lo que hacemos es poner en cada una de nuestras paginas el Layout, sin necesidad de plasmarlo en el codigo de cada pages. Cuando tenemos bastantes paginas (index, 404, gracias, cancelar compra, etc…) hacerlo con gatsby browser hace mas facil todo que poner el layout en cada page
 
-* **jandrey** (1)
+* **jandrey** (1) [760807](https://platzi.com/comentario/760807/) 
 
-	
 	Existe otra forma de importar images en Gatsby como en Next.js con /static/
 
-* **Enzo Aliatis** (1)
+* **Enzo Aliatis** (1) [748783](https://platzi.com/comentario/748783/) 
 
-	
 	Parece ser que con la nueva version pasamos de wrapRootElement a wrapPageElement
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [748783] (1)
 
-		
 		Mira las respuestas a esta pregunta: <http://platzi.com/comentario/685820/>.
 
-* **Matias Niz** (1)
+* **Matias Niz** (1) [722929](https://platzi.com/comentario/722929/) 
 
-	
 	Crei que la api de gatsby tendria _document o _app como nextjs
 
-* **Enzo Aliatis** (1)
+* **Enzo Aliatis** (1) [675683](https://platzi.com/comentario/675683/) 
 
-	
 	No estoy muy seguro del por que mi body aparece con margen 🤔
 
-	* **joss_dz** (6)
+	* **joss_dz** [675683] (6)
 
-		
 		Es por que aun no configuramos typography que nos ayuda con el reset de css 😄 no pasa nada
 
-* **jose ortiz** (1)
+* **jose ortiz** (1) [668733](https://platzi.com/comentario/668733/) 
 
-	
 	tengo un problema, al hacer la configuracion del gatsby-browser envia el layout a todas las paginas pero las envia sin estilos. 😕
 
-	* **joss_dz** (2)
+	* **joss_dz** [668733] (2)
 
-		
 		¿Estás seguro de que utilizas los componentes de styled-components ?  
 		Nos compartes tu repo para revisar ? ☺️
 
-* **Yank Carlos Reyes Espinal** (1)
+* **Yank Carlos Reyes Espinal** (1) [81188](https://platzi.com/comentario/975841/) 
 Cuåles serían las concecuencias de usar Gatsby?
 
-	* **Rob Arroyo** (2)
+	* **Rob Arroyo** [81188] (2)
 
-		
 		¿A qué te refieres exactamente? Se usa para tener un mejor rendimiento en sitios web y para mejorar también el posicionamiento SEO. Como consecuencia, puedes tener un sitio más rápido, más seguro y mejor posicionado en internet.
 
-* **Diego Ivan Padilla Bernal** (1)
+* **Diego Ivan Padilla Bernal** (1) [65086](https://platzi.com/comentario/685820/) 
 ¿Diferencia entre wrapRootElement y wrapPageElement? Según los ejemplos de la document...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [65086] (1)
 
-		
 		¡Hola! Aquí encuentras las diferencias:
 		
 		👉 [wrapRootElement vs. wrapPageElement](https://markoskon.com/notes/wrap-root-element-vs-wrap-page-element/)  
 		👉 [Controlling the Gatsby Application Root](https://www.christopherbiscardi.com/post/controlling-the-gatsby-application-root/)  
 		👉 <https://github.com/gatsbyjs/gatsby/issues/10688>
 
-* **Leo Islas** (0)
+* **Leo Islas** (0) [792801](https://platzi.com/comentario/792801/) 
 
-	
 	igual se ve val pero igual para que futuros usos de img no se les llene el archivo importando n cantidad de imagenes creen este compoenente
 	``` 
 	    import React from 'react'
@@ -1564,9 +1403,9 @@ Cuåles serían las concecuencias de usar Gatsby?
 	    
 	```
 
-# Graphql en Gatsby
+# Graphql en Gatsby [4208]
 
-## 0120. ¿Cómo funciona GraphQL en Gatsby
+## 0120. ¿Cómo funciona GraphQL en Gatsby [20989](https://platzi.com/clases/1618-gatsby/20989-como-funciona-graphql-en-gatsby/)
 
 ### Descripción:
 
@@ -1581,50 +1420,42 @@ Gatsby recolecta toda la información de nuestra aplicación mientras desarrolla
 
 ### Comentarios:
 
-* **darwinyusef** (2)
+* **darwinyusef** (2) [653978](https://platzi.com/comentario/653978/) 
 
-	
 	Y que sucede en producción ?
 
-	* **joss_dz** (4)
+	* **joss_dz** [653978] (4)
 
-		
 		El proceso de consumir la información del server de graphql sucede una sola vez en ‘Compilación’ y obtienes tu proyecto solo con archivos estáticos y la información renderizada. Por lo cual en producción ya tienes el app completa y funcional, no hay conexión a un servidor o base de datos.
 
-* **steveng** (1)
+* **steveng** (1) [1067946](https://platzi.com/comentario/1067946/) 
 
-	
 	Sí el consumo es en desarrollo, qué sucede cuando se actualiza por ejemplo WordPress (API) y el sitio web con Gastby ya está en Producción?
 
-	* **zomars** (1)
+	* **zomars** [1067946] (1)
 
-		
 		Se puede hacer un webhook desde el server del API que le indique al server que está hospedando Gatsby cuando hay un cambio en el primero para que haga un nuevo build.
 
-* **darwinyusef** (1)
+* **darwinyusef** (1) [685970](https://platzi.com/comentario/685970/) 
 
-	
 	esa es la capa del backend hasta la transferencia? que beneficios tiene el usar gatsby y no directarmente con Apollo, o por ejemplo express-graphql?
 
-	* **joss_dz** (3)
+	* **joss_dz** [685970] (3)
 
-		
 		La ventaja en realidad es que no te conectas en tiempo de ejecución a ningún servidor, todas las peticiones se hacen en ‘compilación’ por ende mejoras mucho la carga y también la seguridad, ya que toda la info es traída al sitio en un entorno controlado.
 
-* **Ybrahin Martinez** (1)
+* **Ybrahin Martinez** (1) [65890](https://platzi.com/comentario/699627/) 
 Si el proceso de consumir información sucede solamente una vez en tiempo de “compilación”, ¿cómo se hace para consumir nuevamente informa...
 
-	* **joss_dz** (2)
+	* **joss_dz** [65890] (2)
 
-		
 		Lo que puedes hacer es un webhook que dispare el build de tu sitio en gatsby cada que tu fuente de datos sea actualizada. En realidad no lo haces así nada más en producción si no que necesitas construir de nuevo el sitio en gatsby. otra solución sería usar rest o graphql pero eso iría en contra del principio de la seguridad de la cual hablo en las primeras clases 😄.
 
-* **isaac78566** (0)
+* **isaac78566** (0) [890037](https://platzi.com/comentario/890037/) 
 
-	
 	¿Con Gatsby puedo crear mutaciones con graphql?
 
-## 0130. Accediendo a nuestros datos en Gatsby desde GraphQL
+## 0130. Accediendo a nuestros datos en Gatsby desde GraphQL [20990](https://platzi.com/clases/1618-gatsby/20990-accediendo-a-nuestros-datos-en-gatsby-desde-graphq/)
 
 ### Descripción:
 
@@ -1639,54 +1470,48 @@ Podemos visualizar todos estos datos y su documentación entrando a: [`localhost
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (10)
+* **Juan David Castro (Platzi)** (10) [641824](https://platzi.com/comentario/641824/) 
 
-	
 	🔥 **Gatsby puede funcionar sin GraphQL** 🔥
 	
-	  * 🚀 👌 Guía corta: <https://www.gatsbyjs.org/docs/using-gatsby-without-graphql>
-	  * 😂 😭 Historia super alargada pero muy divertida: <https://youtu.be/GLNpdJsUbpE>
+	* 🚀 👌 Guía corta: <https://www.gatsbyjs.org/docs/using-gatsby-without-graphql>
+	* 😂 😭 Historia super alargada pero muy divertida: <https://youtu.be/GLNpdJsUbpE>
 	
 	
 
-	* **joss_dz** (2)
+	* **joss_dz** [641824] (2)
 
-		
 		Admiro un montón a Kitze, excelente aporte 🤘🏼
 
-	* **capacita.ti** (2)
+	* **capacita.ti** [641824] (2)
 
-		
 		gracias por el aporte, no conocía a Kitze. Ya me hice suscriptor de él XD.
 
-	* **David Behar** (2)
+	* **David Behar** [641824] (2)
 
-		
 		Sí fue divertida, jajaja
 
-* **Enrique Devars (Platzi)** (9)
+* **Enrique Devars (Platzi)** (9) [667965](https://platzi.com/comentario/667965/) 
 
-	
 	A mi me gusta mucho mas usar playground para probar mis queries de graphQL. Si lo quieren usar en gatsby, en su package JSON agreguen este script:
 	``` 
 	    "develop": "GATSBY_GRAPHQL_IDE=playground gatsby develop",
 	    
 	```
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [877463](https://platzi.com/comentario/877463/) 
 
-	
 	¿por que hasta ahora no se ve el renderizado del HTML…?
 
-## 0140. Queries, Edges (conexiones) y Nodos en Gatsby
+## 0140. Queries, Edges (conexiones) y Nodos en Gatsby [20991](https://platzi.com/clases/1618-gatsby/20991-queries-edges-conexiones-y-nodos-en-gatsby/)
 
 ### Descripción:
 
 
 Al trabajar con plugins de fuente de datos debemos entender dos conceptos:
 
-  * **`Edges`** : No podemos consumir la información de estos plugins de la misma forma que otras consultas de GraphQL. En estos casos, la propiedad `edges` nos hace referencia a la conexión entre estos plugins y el servidor de GraphQL.
-  * **`Nodos`** : Son los elementos individuales de información que obtenemos al hacer una consulta con la propiedad `edges`.
+* **`Edges`** : No podemos consumir la información de estos plugins de la misma forma que otras consultas de GraphQL. En estos casos, la propiedad `edges` nos hace referencia a la conexión entre estos plugins y el servidor de GraphQL.
+* **`Nodos`** : Son los elementos individuales de información que obtenemos al hacer una consulta con la propiedad `edges`.
 
 
 
@@ -1733,9 +1558,8 @@ Otro ejemplo: Podemos acceder a la metadata que configuramos en el archivo `gats
 
 ### Comentarios:
 
-* **Diego Ivan Padilla Bernal** (3)
+* **Diego Ivan Padilla Bernal** (3) [688144](https://platzi.com/comentario/688144/) 
 
-	
 	No entiendo la diferencia entre primero llamar por edges o hacerlo directo sin poner edges y usar nodes
 	``` 
 	    allFile {
@@ -1749,29 +1573,26 @@ Otro ejemplo: Podemos acceder a la metadata que configuramos en el archivo `gats
 	
 	¿Diferencia entre el query escrito en el video y este query anterior?
 
-	* **elianalopezv** (1)
+	* **elianalopezv** [688144] (1)
 
-		
 		También me gustaría saber. Yo creería que sin edges no funcionaría cuando la conexión es a otro plugin de fuente de datos, como los que menciona (Firebase, wordpress, etc). En este caso podría funcionar por ser el mismo sistema de archivos local.
 
-* **Enzo Aliatis** (2)
+* **Enzo Aliatis** (2) [675703](https://platzi.com/comentario/675703/) 
 
-	
 	Según lo que he estudiado de Graphql, los edges y nodes, son parte de la paginación que hace graphql, si estoy equivocado un gusto que me corrijan.
 
-* **heysoypaez** (1)
+* **heysoypaez** (1) [73291](https://platzi.com/comentario/831958/) 
 ¿Y es posible mandar información a mi fuente de datos en Gatsby? Por ejemplo insertar un registro a mi base de datos MongoDB con un POST ...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [73291] (2)
 
-		
 		 **Noup. O sea, sí, pero no.**
 		
 		Todos los datos que “guardes” en Gatsby son estáticos, no se pueden modificar. Si necesitas actualizar la información de una base de datos lo mejor es usar el método “tradicional”: comunicarte con una API y traer los datos desde allí.
 		
 		Si tus datos vienen de MongoDB pero cada vez que necesites actualizarlos puede generar un nuevo build de tu aplicación, entonces super, puedes usar este plugin: <https://www.gatsbyjs.org/packages/gatsby-source-mongodb/>. 💪
 
-## 0150. Consultas en GraphQL desde React
+## 0150. Consultas en GraphQL desde React [20992](https://platzi.com/clases/1618-gatsby/20992-consultas-en-graphql-desde-react/)
 
 ### Descripción:
 
@@ -1815,92 +1636,79 @@ Recuerda que solo podemos hacer estas consultas en los componentes página de nu
 
 ### Comentarios:
 
-* **Enzo Aliatis** (2)
+* **Enzo Aliatis** (2) [741519](https://platzi.com/comentario/741519/) 
 
-	
 	Si quisiera guardar un array, como datos, ¿Donde lo guardaría?  
 	Por ejemplo para llenar los elementos de un navbar recorriendolo con un for  
 	[“Home”,“Blog”,“Contact”]
 
-* **Duvan Carvajal** (2)
+* **Duvan Carvajal** (2) [664419](https://platzi.com/comentario/664419/) 
 
-	
 	Tengo una duda ¿Todos los querys que copie de GraphiQL los pego todos dentro de la misma constante query? o ¿defino mas constantes para pegar dentro los demás querys?
 
-	* **joss_dz** (4)
+	* **joss_dz** [664419] (4)
 
-		
 		Tienes que colocarlos todos dentro de la constante query, Gatsby busca en las páginas esta constante/variable y sabe que debe ejecutar este query para inyectar el resultado en las props, esta es la razón del por que NO deberías tener más variables.
 		
 		Incluso esto está bien en Graphql por qué el nombre de los query puede ayudar a distinguir entre ellos.
 
-* **pmaurig** (1)
+* **pmaurig** (1) [1017271](https://platzi.com/comentario/1017271/) 
 
-	
 	Es posible pasar variables como props para que un componente haga un query con ella?
 
-	* **Alberto Camarena** (1)
+	* **Alberto Camarena** [1017271] (1)
 
-		
 		Si es posible, te recomiendo el curso de GraphQL en platzi donde enseñan mas a fondo todo eso.
 
-* **David Behar** (1)
+* **David Behar** (1) [1015767](https://platzi.com/comentario/1015767/) 
 
-	
 	Para poder ver los querys formateados, necesitamos una extensión llamada [GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql), sino se ve gris feo.
 
-* **jose ortiz** (1)
+* **jose ortiz** (1) [670061](https://platzi.com/comentario/670061/) 
 
-	
 	tengo este error:
 	
 	GraphQL Error There was an error while compiling your site’s GraphQL queries.  
 	Error: RelayParser: Encountered duplicate defintitions for one or more documents: each document must have a unique name. Duplicated documents:
 	
-	  * GET_DESCRIPTION
+	* GET_DESCRIPTION
 	
 	
 	
 	si alguien sabe como solucionarlo podria ayudarme. ya intente cambiar los nombres pero ninguno esta duplicado como el error menciona.
 
-	* **jose ortiz** (1)
+	* **jose ortiz** [670061] (1)
 
-		
 		dejo mi [repo](https://github.com/jottache/platzi-gatsby) por si alguien puede ayudar
 
-	* **joss_dz** (2)
+	* **joss_dz** [670061] (2)
 
-		
 		Este error es en Graphiql o en el cli del proyecto?
 
-	* **jose ortiz** (1)
+	* **jose ortiz** [670061] (1)
 
-		
 		asumo que debe ser en el cli, por que en grapiql me aparece la query perfectamente… intente hacer la query desde otro archivo de la carpeta pages y me sale el mismo error…
 
-	* **joss_dz** (2)
+	* **joss_dz** [670061] (2)
 
-		
 		Podrías intentar no nombrar tu query ?
 		
 		Me refiero a poner `query { }` y no `query GET_DATA {}`
 
-	* **jose ortiz** (2)
+	* **jose ortiz** [670061] (2)
 
-		
 		ya lo había intentado, si no le coloco nombre sale una especie de hash o un numero muy largo haciendo referencia al mismo error como si le hubiese puesto ese nombre.  
 		algo como:  
 		Duplicated documents:  
 		asdjja823423nsdfn236wdfn239fnsdfn
 
-* **Jean Carlos Nuñez Hernandez** (1)
+* **Jean Carlos Nuñez Hernandez** (1) [658373](https://platzi.com/comentario/658373/) 
 
-	
 	Esto es disruptivo esta parte de accesos con GraphQL
 
-# Usando plugins en Gatsby
+# Usando plugins en Gatsby [4202]
 
-## 0160. Instalación y configuración de plugins
+## 0160. Instalación y configuración de plugins [20993](https://platzi.com/clases/1618-gatsby/20993-instalacion-y-configuracion-de-plugins/)
 
 ### Descripción:
 
@@ -1962,52 +1770,43 @@ Con esta configuración asignamos tamaños y fuentes personalizadas diferentes p
 
 ### Comentarios:
 
-* **Nacxit** (2)
+* **Nacxit** (2) [1027206](https://platzi.com/comentario/1027206/) 
 
-	
 	Los plugins son herramientas de ayuda para el desarrollo de Gatsby no permite y facilita el entorno de trabajo… Existen diversos plugins en gatsby… son intalado por default por npm pero tambien son combatible con yarn
 
-* **Miguel Ruiz Moreno** (2)
+* **Miguel Ruiz Moreno** (2) [694840](https://platzi.com/comentario/694840/) 
 
-	
 	¿Es obligatorio para todos los strings usar template literals en el archivo gatsby-config.js?
 
-	* **joss_dz** (4)
+	* **joss_dz** [694840] (4)
 
-		
 		Nope, no pasa nada si colocas strings con ’ o "
 
-* **Enzo Aliatis** (2)
+* **Enzo Aliatis** (2) [675909](https://platzi.com/comentario/675909/) 
 
-	
 	Creo que este video debío estar en el principio entre 9 y 10
 
-	* **onlinejaime** (2)
+	* **onlinejaime** [675909] (2)
 
-		
 		Enzo, estoy contigo. Creo que hay un desajuste total entre los vídeos y lo que se está dando en las clases… Se debería haber explicado con anterioridad…
 
-	* **Juan Antonio Avalos Orozco** (1)
+	* **Juan Antonio Avalos Orozco** [675909] (1)
 
-		
 		x2
 
-* **darwinyusef** (2)
+* **darwinyusef** (2) [654000](https://platzi.com/comentario/654000/) 
 
-	
 	como se puede descargar información de mysql con gatsby e incluirlo en graphql para luego importarlo en la vista?
 
-	* **joss_dz** (2)
+	* **joss_dz** [654000] (2)
 
-		
 		No me he encontrado con la necesidad de hacerlo o en el escenario en particular, pero existe este plugin llamado [gatsby-source-mysql](https://www.gatsbyjs.org/packages/gatsby-source-mysql/). Configuras el plugin y en automático se incluye en graphql.
 
-* **Carlos Silva** (2)
+* **Carlos Silva** (2) [78853](https://platzi.com/comentario/928653/) 
 Excelente la explicación de los como añadir un plugin y el ejemplo en este caso con Typography. Pero tengo una pregunta si uso este plugi...
 
-	* **Ruben Padilla** (2)
+	* **Ruben Padilla** [78853] (2)
 
-		
 		`Typography.js` trae por defecto `normalize.css`
 		
 		[Typography.js Docs](https://kyleamathews.github.io/typography.js/) 👈
@@ -2016,51 +1815,44 @@ Excelente la explicación de los como añadir un plugin y el ejemplo en este cas
 		
 		[Gatsby-Typography](https://www.gatsbyjs.org/docs/typography-js/) 👈
 
-* **David Behar** (1)
+* **David Behar** (1) [1016224](https://platzi.com/comentario/1016224/) 
 
-	
 	Me parece que las fuentes pintadas no son las que estamos requiriendo. Sobre todo la open Sans, es sans-serif, pero me parece que se está renderizando una serif que se parece más a Times
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [706319](https://platzi.com/comentario/706319/) 
 
-	
 	Los comandos de instalacion son iguales, por si te lo preguntabas. (Plugins y Docs). (y)
 
-* **onlinejaime** (1)
+* **onlinejaime** (1) [697968](https://platzi.com/comentario/697968/) 
 
-	
 	Todo esto está genial pero… ¿para que salgan las fuentes que le hemos puesto? Porque sí aparece cargado el typography pero las fuentes de la app no cambian… ¿?  
 	Aparte… en mi Footer no hay espacios entre palabras… ¿?  
 	**¿A qué se puede deber todo esto?**
 
-	* **Leo Islas** (1)
+	* **Leo Islas** [697968] (1)
 
-		
 		lo que pasa es que al instala Typography e indexarse en la parte de arriba del navegador se hace le efecto en cascada. entonces si hay css que modifiquen la font-family se modificaran por que se gerarquisa lo que yo hice es meterme al layout.css y quitarle todos los font-family precargados por Joss y ya funciono
 
-* **jesusmurf** (1)
+* **jesusmurf** (1) [680892](https://platzi.com/comentario/680892/) 
 
-	
 	De donde coge Typography las fuentes que va a usar? Donde estarían almacenadas?
 
-	* **joss_dz** (2)
+	* **joss_dz** [680892] (2)
 
-		
 		Las pide a Google fonts y las almacena por sí solo.
 
-## 0170. Imágenes como fuente de datos
+## 0170. Imágenes como fuente de datos [20994](https://platzi.com/clases/1618-gatsby/20994-imagenes-como-fuente-de-datos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **pmaurig** (1)
+* **pmaurig** (1) [1017278](https://platzi.com/comentario/1017278/) 
 
-	
 	se puede hacer un query con props como variables? En este caso pasaría el nombre de la imagen y dentro del componente hace el query para buscarla
 
-## 0180. Plugins de transformación
+## 0180. Plugins de transformación [20995](https://platzi.com/clases/1618-gatsby/20995-plugins-de-transformacion/)
 
 ### Descripción:
 
@@ -2119,9 +1911,8 @@ Utilizar `graphql` para crear una consulta en la propiedad `query` de `StaticQue
 
 ### Comentarios:
 
-* **CarlMateus** (7)
+* **CarlMateus** (7) [677185](https://platzi.com/comentario/677185/) 
 
-	
 	Hay otra forma de traer las imagenes dependiendo del nombre que obtenga como propiedad el componente.
 	``` 
 	    import React from "react"
@@ -2173,52 +1964,43 @@ Utilizar `graphql` para crear una consulta en la propiedad `query` de `StaticQue
 	
 	obtenemos las imagenes que tenemos en el proyecto y devolvemos la que estamos necesitando por propiedad para no tener que generar una query por cada imagen que se necesite, solo se llama el componente con el nombre de la imagen y ya.
 
-	* **oscar** (1)
+	* **oscar** [677185] (1)
 
-		
 		es lo mismo solo que vas a estar llamando a todas las imagenes cada ves que se tenga que utilizar un componente Image… pienso que es peor porque estas pidiendo todas las imagenes cada ves
 
-	* **oscar** (1)
+	* **oscar** [677185] (1)
 
-		
 		aunque pensandolo bien eso ocurriria en el tiempo de construccion en el servidor asi que no habria mucho problema… ando medio confundido jaja
 
-	* **pmaurig** (1)
+	* **pmaurig** [677185] (1)
 
-		
 		Esto si anda correctamente! gran aporte! muchas gracias @CarlMateus
 
-* **Juan David Castro (Platzi)** (7)
+* **Juan David Castro (Platzi)** (7) [641825](https://platzi.com/comentario/641825/) 
 
-	
 	Debemos usar el componente `StaticQuery` para hacer consultas en GraphQL desde cualquier archivo o componentes que no este en la carpeta `src/pages`.
 
-	* **Jhon Alexander Perez Valencia** (1)
+	* **Jhon Alexander Perez Valencia** [641825] (1)
 
-		
 		(y)
 
-	* **Juan Antonio Avalos Orozco** (1)
+	* **Juan Antonio Avalos Orozco** [641825] (1)
 
-		
 		😮
 
-* **Sandra Milena Rairán Pinilla** (6)
+* **Sandra Milena Rairán Pinilla** (6) [640425](https://platzi.com/comentario/640425/) 
 
-	
 	Hola!!!  
 	A los usuarios de Mac les muestra el error de la imagen **(33% Generating image thumbnails  
 	ERROR)**. Lo solucione ejecutando este comando rm -rf node_modules y luego volver a instalar: npm install.  
 	![ErrorThumbnailsImage.png](https://static.platzi.com/media/user_upload/ErrorThumbnailsImage-52c056db-8c49-4007-8b50-3ed61d6e5f70.jpg)
 
-	* **Enrique Devars (Platzi)** (3)
+	* **Enrique Devars (Platzi)** [640425] (3)
 
-		
 		Luego Gatsby tiene problemas con eso, lo mejor a veces es borrar la carpeta de cache que genera Gatsby.
 
-* **Enrique Devars (Platzi)** (5)
+* **Enrique Devars (Platzi)** (5) [667974](https://platzi.com/comentario/667974/) 
 
-	
 	Si quieren hacer un componente para cargar cualquier imagen de manera general, les dejo este componente.
 	``` 
 	    import React from'react';
@@ -2261,32 +2043,27 @@ Utilizar `graphql` para crear una consulta en la propiedad `query` de `StaticQue
 	    
 	```
 
-	* **pmaurig** (1)
+	* **pmaurig** [667974] (1)
 
-		
 		Está chequeado esto? como iría si en vez de pasar el path paso el originalName?
 
-* **Juan Antonio Avalos Orozco** (2)
+* **Juan Antonio Avalos Orozco** (2) [706560](https://platzi.com/comentario/706560/) 
 
-	
 	Por cierto, si no te funciona el _ctrl + space_ , para ver las opciones en GraphiQL.  
 	A mi me funciona usando **option + space**.
 
-* **RBN1993** (2)
+* **RBN1993** (2) [660510](https://platzi.com/comentario/660510/) 
 
-	
 	A mi como usuario que la imagen tarde en cargar me da la sensación de lentitud.  
 	Y de momento las queries son horribles. Demasiada dot notation.  
 	Espero que mejore luego.
 
-	* **joss_dz** (4)
+	* **joss_dz** [660510] (4)
 
-		
 		Si, puede causar una sensación extraña. Pero mejora muchísimo el rendimiento de un sitio. Dependiendo de la red puede cargar más rápido o más lento. De igual manera puedes modificar el comportamiento para ofrecer una mejor experiencia como en el caso del [Blog de Kent C. Dodds](https://kentcdodds.com/blog/)
 
-* **Cesar Galindo** (1)
+* **Cesar Galindo** (1) [1051633](https://platzi.com/comentario/1051633/) 
 
-	
 	Estoy siguiendo con las instrucciones y me esta generando el siguiente error
 	
 	TypeError: Cannot read property ‘childImageSharp’ of undefined  
@@ -2306,9 +2083,8 @@ Utilizar `graphql` para crear una consulta en la propiedad `query` de `StaticQue
 	
 	pero no se como implementarlo
 
-	* **capzzula** (2)
+	* **capzzula** [1051633] (2)
 
-		
 		Me daba el mismo error, hasta que encendí que el error lo estaba generando yo, me olvide de enviarle la propiedad `name` al componente imagen y en minúscula.
 		``` 
 		    <Image name="icon" />
@@ -2317,14 +2093,12 @@ Utilizar `graphql` para crear una consulta en la propiedad `query` de `StaticQue
 		
 		De todas formas siempre es bueno poner tu código, de manera que nos ayuda para entender mejor el error que te genera.
 
-	* **Cesar Galindo** (1)
+	* **Cesar Galindo** [1051633] (1)
 
-		
 		Muchas gracias, buen hombre revice muchas veces el codigo y no encontraba el error. y totalmente alienados deberia haber colocado el repo
 
-* **David Behar** (1)
+* **David Behar** (1) [1016278](https://platzi.com/comentario/1016278/) 
 
-	
 	A alguien más le pasa que el query no funciona?
 	``` 
 	    <StaticQuery
@@ -2354,15 +2128,14 @@ Utilizar `graphql` para crear una consulta en la propiedad `query` de `StaticQue
 	    
 	```
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [63143](https://platzi.com/comentario/652567/) 
 segun entendi si necesito 10 imagenes tengo que crear 10 componentes de imagen 
 
-	* **joss_dz** (4)
+	* **joss_dz** [63143] (4)
 
-		
 		Es un solo componente Image, lo que necesitas es el Query de graphql para cada imagen dentro del componente. ☺️
 
-## 0190. Estilizando nuestros componentes con styled-components
+## 0190. Estilizando nuestros componentes con styled-components [20974](https://platzi.com/clases/1618-gatsby/20974-estilizando-nuestros-componentes-con-styled-compon/)
 
 ### Descripción:
 
@@ -2467,85 +2240,73 @@ Para usar esta herramienta solo debes seguir los siguientes pasos:
 
 ### Comentarios:
 
-* **jenapi** (3)
+* **jenapi** (3) [720714](https://platzi.com/comentario/720714/) 
 
-	
 	Styled comoponents se parece demasido, por su forma de escribirse, a Sass
 
-* **onlinejaime** (2)
+* **onlinejaime** (2) [699859](https://platzi.com/comentario/699859/) 
 
-	
 	** * ** —> Asterisco  
 	** # ** —> Almohadilla, gato, numeral, número, etc…
 
-* **Giovanny Javier Montalvo Cepeda** (2)
+* **Giovanny Javier Montalvo Cepeda** (2) [647467](https://platzi.com/comentario/647467/) 
 
-	
 	Hola, una duda en cuanto al editor… que fuente usas? y el color de tema?
 
-	* **joss_dz** (6)
+	* **joss_dz** [647467] (6)
 
-		
 		Normalmente uso “Dank mono” + un [tema propio](https://marketplace.visualstudio.com/items?itemName=jossdz.ironhack-theme).
 		
 		Pero también te recomiendo [Victor mono](https://rubjo.github.io/victor-mono/) para la fuente.
 		
 		Temas me gustan:
 		
-		  * Palenight (este es el que uso en el curso)
-		  * lucy
-		  * panda
+		* Palenight (este es el que uso en el curso)
+		* lucy
+		* panda
 		
 		
 
-* **heysoypaez** (2)
+* **heysoypaez** (2) [73517](https://platzi.com/comentario/836454/) 
 ¿Qué plugin usas para que te autocomplete las librerias disponibles en tu proyecto?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [73517] (1)
 
-		
 		Es una de las funcionalidades que **Visual Studio Code** trae por defecto (aunque también se pueden mejorar con plugins). Se llama **IntelliSense** : <https://code.visualstudio.com/docs/editor/intellisense>. 😉
 
-* **juand_silva** (1)
+* **juand_silva** (1) [974410](https://platzi.com/comentario/974410/) 
 
-	
 	En dónde se enseña a colocar esos **media queries** en el min 6:48 de esa forma, en la documentación de Styled-Components?
 
-* **jas486** (1)
+* **jas486** (1) [857186](https://platzi.com/comentario/857186/) 
 
-	
 	hola! Que plugin usas para que te autocomplete dentro de  
 	comillas invertidas
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [857186] (1)
 
-		
 		[vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) 😄
 
-* **jas486** (1)
+* **jas486** (1) [857185](https://platzi.com/comentario/857185/) 
 
-	
 	hola! Que plugin usas para que te autocomplete dentro de ``
 
-* **Dobleve Tres** (1)
+* **Dobleve Tres** (1) [774124](https://platzi.com/comentario/774124/) 
 
-	
 	Cuales son los plugins que usas para template literals y para ver los colores y el style asi con un preview?
 
-	* **Leo Islas** (2)
+	* **Leo Islas** [774124] (2)
 
-		
 		<https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components>
 		
 		ese es el plugin que instale para que me sea mas funcional el usar los styled-components los colores depende de el editor
 
-	* **juand_silva** (1)
+	* **juand_silva** [774124] (1)
 
-		
 		Para el Highlight de los colores  
 		<https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight>
 
-## 0200. Estilos Globales con styled-components
+## 0200. Estilos Globales con styled-components [20975](https://platzi.com/clases/1618-gatsby/20975-estilos-globales-con-styled-components/)
 
 ### Descripción:
 
@@ -2644,12 +2405,11 @@ Sin embargo, Styled Components también nos permite crear estilos globales: Esti
 
 ### Comentarios:
 
-* **Favio Náquira** (2)
+* **Favio Náquira** (2) [62678](https://platzi.com/comentario/644308/) 
 Disculpa la pregunta pero, ¿es lo mismo <> que <Fragment>? Yo utilizaba esta última forma porque es la de la documentación, ...
 
-	* **joss_dz** (5)
+	* **joss_dz** [62678] (5)
 
-		
 		En efecto
 		``` 
 		    <>
@@ -2666,17 +2426,16 @@ Disculpa la pregunta pero, ¿es lo mismo <> que <Fragment>? Yo utilizaba esta ú
 		    
 		```
 
-* **onlinejaime** (1)
+* **onlinejaime** (1) [65917](https://platzi.com/comentario/700109/) 
 Hola a todos, no entiendo un par de cosas. He seguido tus vídeos desde el principio y, a estas alturas, todavía no me cargan las tipograf...
 
-	* **joss_dz** (2)
+	* **joss_dz** [65917] (2)
 
-		
 		¿Ya llegaste al apartado donde configuramos typography y el layout con la api de gatsby ?
 
-# Stripe checkout
+# Stripe checkout [4203]
 
-## 0210. Introducción a la API de Stripe Checkout
+## 0210. Introducción a la API de Stripe Checkout [20976](https://platzi.com/clases/1618-gatsby/20976-introduccion-a-la-api-de-stripe-checkout/)
 
 ### Descripción:
 
@@ -2700,38 +2459,32 @@ Screen reader support enabled.
 
 ### Comentarios:
 
-* **Camilo Rivera Quintero** (5)
+* **Camilo Rivera Quintero** (5) [745569](https://platzi.com/comentario/745569/) 
 
-	
 	Una buena opción por si quieren montar tienda en serio. <https://payouts.payoneer.com>, y viven el sub-desarrollo como yo.
 
-* **Camilo Rivera Quintero** (2)
+* **Camilo Rivera Quintero** (2) [745542](https://platzi.com/comentario/745542/) 
 
-	
 	Mi platanero no aparece en la opciones jajaja
 
-* **Fabián Nava Pereda** (2)
+* **Fabián Nava Pereda** (2) [638520](https://platzi.com/comentario/638520/) 
 
-	
 	[Stripe Global](https://stripe.com/global)
 
-* **wilarizav** (2)
+* **wilarizav** (2) [638348](https://platzi.com/comentario/638348/) 
 
-	
 	Stripe se puede usar en colombia?
 
-	* **Fabián Nava Pereda** (3)
+	* **Fabián Nava Pereda** [638348] (3)
 
-		
 		[<https://stripe.com/global>](Países de Stripe)  
 		La solución es crear una Empresa en Estados Unidos con Stripe Atlas para tener una cuenta bancaria de USA y poder user Stripe
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [638348] (3)
 
-		
 		Como lo menciona Fabián debes tener una cuenta en USA para poder retirar los fondos de Stripe, lo que si tiene Stripe es que puedes cobrar en moneda local y Stripe hace la conversión automática a dolares.
 
-## 0220. Agregando productos a nuestra tienda en línea
+## 0220. Agregando productos a nuestra tienda en línea [20977](https://platzi.com/clases/1618-gatsby/20977-agregando-productos-a-nuestra-tienda-en-linea/)
 
 ### Descripción:
 
@@ -2818,43 +2571,37 @@ De esta forma tendremos disponibles los productos de Stripe desde el servidor de
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [641828](https://platzi.com/comentario/641828/) 
 
-	
 	_¡Cómo me gustaría que existiera una tienda de Stickers de Platzi!_
 	
 	_Todas mis quincenas se irían allá._
 	
 	Como no existe hay que estudiar mucho para aprobar las carreras 💪🚀
 
-* **Luis Arturo Lira Cerda** (3)
+* **Luis Arturo Lira Cerda** (3) [639746](https://platzi.com/comentario/639746/) 
 
-	
 	Esta parte me pareció bastante interesante. El curso me está gustando mucho.  
 	.  
 	Al ser la primera vez que estoy haciendo algo con GatsbyJS aún no comprendo del todo el flujo de desarrollo de una aplicación de este tipo, para que pueda iniciar un proyecto yo solo.
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [639746] (2)
 
-		
 		¿Tienes alguna pregunta? ¿Hay algo que quieras construir pero no sabes cómo?
 		
 		¡SI los dejas por aquí entre todxs podemos buscar la mejor solución! 💪
 
-	* **joss_dz** (3)
+	* **joss_dz** [639746] (3)
 
-		
 		¿Cómo podemos ayudarte a aclarar el flujo?  
 		¿Alguna parte en particular que te genere esta inquietud?
 
-	* **Juan Antonio Avalos Orozco** (1)
+	* **Juan Antonio Avalos Orozco** [639746] (1)
 
-		
 		En caso que no tengas de background el Curso de React, React Router y GraphQL, hacerlos te ayuda a estar mas contextualizado. 😃
 
-* **jose ortiz** (2)
+* **jose ortiz** (2) [671781](https://platzi.com/comentario/671781/) 
 
-	
 	tuve problemas con el archivo .env, nisiquiera me salia el icono al crearlo. para resolverlo lo que hice fue hacerlo un archivo de js
 	``` 
 	    .env.development.js
@@ -2871,9 +2618,8 @@ De esta forma tendremos disponibles los productos de Stripe desde el servidor de
 	
 	espero les funcione igual si tienen el mismo error que yo 😃
 
-	* **Juan Antonio Avalos Orozco** (2)
+	* **Juan Antonio Avalos Orozco** [671781] (2)
 
-		
 		A mi no me paso, despues de
 		``` 
 		    npm i dotenv
@@ -2882,9 +2628,8 @@ De esta forma tendremos disponibles los productos de Stripe desde el servidor de
 		
 		Todo bien.
 
-	* **jandrey** (1)
+	* **jandrey** [671781] (1)
 
-		
 		Creo que el problema es el require esta mal escrito el profesor coloco require(‘dotnev’).
 		``` 
 		    require('dotenv').config({
@@ -2893,23 +2638,20 @@ De esta forma tendremos disponibles los productos de Stripe desde el servidor de
 		    
 		```
 
-* **juand_silva** (1)
+* **juand_silva** (1) [975177](https://platzi.com/comentario/975177/) 
 
-	
 	Existe algún plugin de gatsby como alternativa a Stripe?
 
-* **Jorge Velasquez** (1)
+* **Jorge Velasquez** (1) [794957](https://platzi.com/comentario/794957/) 
 
-	
 	Alguien me puede ayudar con este error que no me permite avanzar.  
 	![Imagen1.png](https://static.platzi.com/media/user_upload/Imagen1-1f6751b6-f1fa-4432-aee8-b2db3b77f8b4.jpg)
 
-	* **Jorge Velasquez** (2)
+	* **Jorge Velasquez** [794957] (2)
 
-		
 		Ya lo solucione, tenia un error en las llaves 👍
 
-## 0230. Productos en React
+## 0230. Productos en React [20978](https://platzi.com/clases/1618-gatsby/20978-productos-en-react/)
 
 ### Descripción:
 
@@ -2920,18 +2662,16 @@ De esta forma tendremos disponibles los productos de Stripe desde el servidor de
 
 ### Comentarios:
 
-* **Duvan Carvajal** (5)
+* **Duvan Carvajal** (5) [667626](https://platzi.com/comentario/667626/) 
 
-	
 	Este curso me esta encantando. aunque es todo un reto para mi porque no domino Node y Graphql es nuevo para mi. aun así lo he disfrutado mucho y he aprendido con cada error que he logrado corregir.  
 	😄
 
-	* **joss_dz** (4)
+	* **joss_dz** [667626] (4)
 
-		
 		A mí me parece Gatsby una excelente tecnología para incursionar en Graphql, Node quizá no puesto que si necesitas nociones intermedias de Node para comprender que está pasando y cómo hacer ciertas cosas. Pero me encanta que haya gente como tú aventurándose al mundo de Graphql con esta tecnología. Siempre la recomiendo para explorar Graphql sin configurarlo.
 
-* **Juan Luis Rojas León** (4)
+* **Juan Luis Rojas León** (4) [647439](https://platzi.com/comentario/647439/) 
 
 	```
 	    query {
@@ -2955,50 +2695,43 @@ De esta forma tendremos disponibles los productos de Stripe desde el servidor de
 	    
 	```
 
-* **onlinejaime** (3)
+* **onlinejaime** (3) [706358](https://platzi.com/comentario/706358/) 
 
-	
 	Bufff… Al final, **con esfuerzo** , conseguido:
 	
 	![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-68682127-ed30-4eca-a437-ac6356327ffa.jpg)
 
-* **Juan David Castro (Platzi)** (2)
+* **Juan David Castro (Platzi)** (2) [641832](https://platzi.com/comentario/641832/) 
 
-	
 	Ya que usamos Gatsby…  
 	**¿Debemos hacer build cada vez que cambiamos la información de los productos?** 😱🤔
 
-	* **joss_dz** (4)
+	* **joss_dz** [641832] (4)
 
-		
 		Si algo cambia dentro de tu configuración del proyecto (gatsby-config, gatsby-ssr, gatsby-node) o agregas algún campo en la información que recibes de algún plugin de fuente de datos, la respuesta es si.
 
-	* **Geordano Polanco Rodríguez** (1)
+	* **Geordano Polanco Rodríguez** [641832] (1)
 
-		
 		Está claro que si cambias la configuración debes de regenerar el proyecto.
 		
 		Pero cada vez que la fuente de datos cambie tengo que hacerlo? Si creo un nuevo post en mi blog por ejemplo.
 
-	* **steveng** (1)
+	* **steveng** [641832] (1)
 
-		
 		me sumo a esta inquietud @joss_dz  
 		Gracias!
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [706886](https://platzi.com/comentario/706886/) 
 
-	
 	Hay que ignorar el comentario de cambiar el nombre del archivo a **Product.js** , al menos hasta este punto.
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [706882](https://platzi.com/comentario/706882/) 
 
-	
 	Algo paso por aqui. Se llama 'Product.js' o 'Products.js', finalmente? :/
 
-# Generando páginas programáticamente
+# Generando páginas programáticamente [4209]
 
-## 0240. Creando páginas en función de los datos
+## 0240. Creando páginas en función de los datos [20996](https://platzi.com/clases/1618-gatsby/20996-creando-paginas-en-funcion-de-los-datos/)
 
 ### Descripción:
 
@@ -3056,80 +2789,67 @@ En este caso, vamos a generar una página por cada uno de los productos que guar
 
 ### Comentarios:
 
-* **alejagalo** (2)
+* **alejagalo** (2) [677759](https://platzi.com/comentario/677759/) 
 
-	
 	al intentar compilar me sale este error  
 	error There was an error compiling the html.js component for the  
 	development server.  
 	![error.png](https://static.platzi.com/media/user_upload/error-5c4f231b-7f7d-4eb5-83c5-5812dcb3dc84.jpg)
 
-	* **onlinejaime** (2)
+	* **onlinejaime** [677759] (2)
 
-		
 		Difícil saber de dónde sale el error si no se tiene el código, pero sí que está clara una cosa… Si te pone que hay algo raro con el ‘iterable object’ (objeto de la iteración), seguramente haya un error en el mismo forEach() del ejemplo de la clase, o muy cerca de él. Espero que lo hayas solucionado.
 
-* **Wilson Fabian Pérez Sucuzhañay** (2)
+* **Wilson Fabian Pérez Sucuzhañay** (2) [646553](https://platzi.com/comentario/646553/) 
 
-	
 	Porqué? deberíamos hacer una página por cada producto¿? si podrías tener una página productDetails donde le pasamos el SKU y nos bajamos los datos de ese mismo?
 
-	* **joss_dz** (4)
+	* **joss_dz** [646553] (4)
 
-		
 		En realidad lo hacemos así, cuando traemos todos los productos a la vista de inicio (catálogo), en donde en realidad no necesitamos todos los detalles de los productos y lo más que necesitamos es el nombre, precio y foto. Esa es una de las ventajas de graphql. Ahora, el por que querríamos una página por cada producto y poor que lo hacemos de esta manera es por que cuando gatsby carga el proyecto o lo genera para producción es donde trae toda la información, aquí también creamos páginas con programadas para que estén disponibles como vistas del proyecto, esto sucede incluso antes de cargar la información del catálogo. Todo gira en torno a graphql y traemos la información en ambos lados por que ya se nos provee y es una manera de centralizarla.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [646553] (4)
 
-		
 		El funcionamiento de gatsby busca generar el contenido estático para que la carga del sitio sea más rápida ya que hace la consulta al momento de ejecutar la consulta y con esto ya tienes la información y el sitio carga más rápido.
 
-	* **Juan Antonio Avalos Orozco** (1)
+	* **Juan Antonio Avalos Orozco** [646553] (1)
 
-		
 		Lo mismo pense. Habra que leer mas al respecto. Supongo buenas practias de arquitectura por usar GraphQL
 
-* **Fabian Siatama** (1)
+* **Fabian Siatama** (1) [708858](https://platzi.com/comentario/708858/) 
 
-	
 	Cual es la diferencia entre createPage y createNode?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [708858] (2)
 
-		
 		Aquí la encuentras: <https://www.gatsbyjs.org/docs/node-apis/#onCreateNode>.
 
-* **Enzo Aliatis** (1)
+* **Enzo Aliatis** (1) [676177](https://platzi.com/comentario/676177/) 
 
-	
 	¿Pregunta, si tengo 1000 productos, gatsby va a crear 1000 páginas?  
 	¿Esto no afecta el rendimiento de la página?  
 	¿No vendría a ser mejor pasar el id del producto por parámetro, que un componente lea el id, se lo pida por graphql y muestre los datos del producto?
 
-	* **onlinejaime** (3)
+	* **onlinejaime** [676177] (3)
 
-		
 		Al contrario… por lo que yo entiendo de la API, si tienes 1000 productos (y tuvieras que hacer sus respectivas 1000 ‘pages’ en la carpeta por cada uno de ellos o de alguna manera renderizar cada una de ellas a partir de componentes ya creados) mejor que se genere automáticamente cada página cuando se haga click en el producto que se elija. Esto simplifica al máximo y optimiza la web.
 
-* **Andrés Mauricio Montoya Sánchez** (1)
+* **Andrés Mauricio Montoya Sánchez** (1) [673061](https://platzi.com/comentario/673061/) 
 
-	
 	Por qué configurar una página en `gatsby-node.js`, gatsby no es capas de detectar cuando una página recibe un parametro? Por ejemplo, en node.js defino un archivo `[id].js` el cual es capaz de recibir el id que se esta enviando.
 
-	* **joss_dz** (2)
+	* **joss_dz** [673061] (2)
 
-		
 		Lo que quieres hacer es pasar route params ? [Esto te puede servir](https://stackoverflow.com/questions/51988998/how-to-create-routes-with-params-in-gatsbyjs) 😄
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [63472](https://platzi.com/comentario/659223/) 
 que pasa cuando agrego una nuevo producto a Stripe si ya tengo el sitio desplegado, toca volver a hacer build y deploy???
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [63472] (3)
 
-		
 		Si, es necesario hacer build nuevamente y desplegar el sitio nuevamente.
 
-## 0250. Manejo de Gatsby Templates
+## 0250. Manejo de Gatsby Templates [20997](https://platzi.com/clases/1618-gatsby/20997-manejo-de-gatsby-templates/)
 
 ### Descripción:
 
@@ -3144,32 +2864,27 @@ En esta clase vamos a configurar los Gatsby Templates: los componentes que rende
 
 ### Comentarios:
 
-* **onlinejaime** (4)
+* **onlinejaime** (4) [706614](https://platzi.com/comentario/706614/) 
 
-	
 	En casi todos los cursos de PLATZI nos indican (repetidas veces) que se tiene que seguir una norma con las mayúsculas y el camelCase para los archivos, sobre todo por el hecho de ser coherente y constante… Pues en el curso ya van como 3 veces que el profe no es constante con eso.  
 	El problema no es el profe (que también). El problema es que surgen errores en nuestras compilaciones que luego no encontramos el porqué y perdemos mucho rato entendiendo que ha sido por este tema.  
 	Por favor, cuando graben un curso díganle al profesor que ‘sea constante’ con la normativa que elija y emplee hasta el final…  
 	Por favor.
 
-* **onlinejaime** (2)
+* **onlinejaime** (2) [706625](https://platzi.com/comentario/706625/) 
 
-	
 	Además, los estilos que presenta el profe al final de este vídeo no se corresponden para nada con lo que se ve finalmente en nuestro proyecto… y así vamos desde el principio… Arreglen esto por favor!!!
 
-	* **Juan Antonio Avalos Orozco** (2)
+	* **Juan Antonio Avalos Orozco** [706625] (2)
 
-		
 		Agregar a la clase los archivos nuevos o modificados, tambien suele ayudar mucho. Es una buena area de mejora para este curso.
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [707075](https://platzi.com/comentario/707075/) 
 
-	
 	Por que `product: { name, metadata }` siguio funcionando aun sin editar las referencias dentro de la funcion? (ej. name)
 
-	* **GuillermoLoza** (1)
+	* **GuillermoLoza** [707075] (1)
 
-		
 		Supongo que des-estructuramos el objeto product que recibimos
 		``` 
 		    product {
@@ -3187,7 +2902,7 @@ En esta clase vamos a configurar los Gatsby Templates: los componentes que rende
 		
 		Lo que nos entrega dentro de nuestro return name y metadata como props
 
-## 0260. Terminando la Vista de Detalle de los Productos
+## 0260. Terminando la Vista de Detalle de los Productos [20998](https://platzi.com/clases/1618-gatsby/20998-terminando-la-vista-de-detalle-de-los-productos/)
 
 ### Descripción:
 
@@ -3198,56 +2913,47 @@ En esta clase vamos a configurar los Gatsby Templates: los componentes que rende
 
 ### Comentarios:
 
-* **Juan Luis Rojas León** (5)
+* **Juan Luis Rojas León** (5) [647626](https://platzi.com/comentario/647626/) 
 
-	
 	Stars:  
 	★  
 	☆  
 	⭐
 
-	* **onlinejaime** (1)
+	* **onlinejaime** [647626] (1)
 
-		
 		No me funciona lo de las estrellas… ¿?
 
-	* **Juan Antonio Avalos Orozco** (2)
+	* **Juan Antonio Avalos Orozco** [647626] (2)
 
-		
 		Si no te funciono fue por no elegir el emoji correcto:  
 		Debe ser este: ★
 
-	* **onlinejaime** (2)
+	* **onlinejaime** [647626] (2)
 
-		
 		 **Gracias** compañero pero sigue sin funcionar… He probado de todo y no lo consigo. Creo que implementaré el rate de Element UI para React y ya está.
 
-* **onlinejaime** (2)
+* **onlinejaime** (2) [706713](https://platzi.com/comentario/706713/) 
 
-	
 	No funciona import { SelectStars } from ‘…/styles/components’ en windows. Las estrellas no se modifican…  
 	La verdad, deberían comentar al principio del curso si se va a usar Windows o Linux o Mac… hay un mundo en este tema por lo que se ve y a cada vídeo es desesperante y frustrante ver que todo sale mal. Aparte de la pérdida de tiempo que esto provoca.  
 	En serio, ¿cuánto más caro es hacer un curso donde el profe (o un experto en la materia) aplique los cambios pertinentes en uno u otro SO?  
 	De verdad, empecé este curso con ganas porque era uno de mis objetivos poder usar gatsby de esta manera y está acabando con mi paciencia.
 
-	* **onlinejaime** (1)
+	* **onlinejaime** [706713] (1)
 
-		
 		A ver, haciendo algunos cambios… Funcionar, funciona… Pero tengo que hacer click sobre la estrella de al lado para que cambie la que quiero… ¿Se entiende? Si clico sobre una, cambia la de al lado… ¿?
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [852143](https://platzi.com/comentario/852143/) 
 
-	
 	copiar y pegar jejeje… ★ ★ ★
 
-	* **René  corona valdés** (1)
+	* **René  corona valdés** [852143] (1)
 
-		
 		Gracias, no encontraba el glyph
 
-* **Dobleve Tres** (1)
+* **Dobleve Tres** (1) [775867](https://platzi.com/comentario/775867/) 
 
-	
 	Para los que tienen problemas con las estrellas en Windows es por un tema de encoding, les recomiendo que copien y peguen el src directamente:  
 	<https://raw.githubusercontent.com/Jossdz/Gatsby-platzi/vista_detalle/src/components/Stars.js>
 	
@@ -3255,28 +2961,24 @@ En esta clase vamos a configurar los Gatsby Templates: los componentes que rende
 	
 	Slds.-
 
-* **Enzo Aliatis** (1)
+* **Enzo Aliatis** (1) [677636](https://platzi.com/comentario/677636/) 
 
-	
 	Una duda sobre react hooks, donde configuras el estado de stars y la función setStars?
 
-	* **aragonesteban (Platzi)** (4)
+	* **aragonesteban (Platzi)** [677636] (4)
 
-		
 		Hola Enzo!  
 		En el minuto _2:00_ puedes ver la declaración e inicialización de `stars` y `setStars`, el estado inicial de `stars` es **5** el cual pones en el `useState`.
 
-* **Duvan Carvajal** (1)
+* **Duvan Carvajal** (1) [668024](https://platzi.com/comentario/668024/) 
 
-	
 	No entendí muy bien el reto ¿Alguien me podría explicar?
 
-	* **joss_dz** (3)
+	* **joss_dz** [668024] (3)
 
-		
 		Dentro de Stripe para los elementos que son prendas coloca en la metadata una propiedad de color y en función de la respuesta pon un elemento que te diga de que color es la prenda 😄
 
-## 0270. StaticQuery vs. useStaticQuery
+## 0270. StaticQuery vs. useStaticQuery [20999](https://platzi.com/clases/1618-gatsby/20999-staticquery-vs-usestaticquery/)
 
 ### Descripción:
 
@@ -3338,67 +3040,58 @@ También podemos usar el hook `useStaticQuery`: funciona igual que StaticQuery p
 
 ### Comentarios:
 
-* **RBN1993** (4)
+* **RBN1993** (4) [772872](https://platzi.com/comentario/772872/) 
 
-	
 	Si todo esto es estático,¿Cómo se puede usar Graphql dinámicamente? @joss_dz
 
-	* **Elias Ojeda Medina** (2)
+	* **Elias Ojeda Medina** [772872] (2)
 
-		
 		Misma duda, quiero conectarlo a un API, con conexión en tiempo real
 
-	* **RBN1993** (1)
+	* **RBN1993** [772872] (1)
 
-		
 		Hasta hoy sin respuesta. Si das con cómo hacerlo avísame =)
 
-	* **Anthony Farias** (1)
+	* **Anthony Farias** [772872] (1)
 
-		
 		La parte de mostrar el listado de productos NO es estática. Si agregas productos en stripe se van a mostrar en tu listado sin hacer mas código. Ahora bien, para conetarte a una custom API tienes que usar un plugin, en este caso puedes usar:  
 		<https://www.gatsbyjs.org/packages/gatsby-source-custom-api>  
 		Y asi puedes usar otros plugins para conectarte a diferentes APIs, por ejemplo shopify.
 
-	* **RBN1993** (1)
+	* **RBN1993** [772872] (1)
 
-		
 		Lo sé, pero la pregunta es cómo usar Graphql dinámicamente, sin necesidad de tener que volver a escribir código, consultas o usar otras APIs, que no es lo que se busca.
 
-	* **Anthony Farias** (2)
+	* **Anthony Farias** [772872] (2)
 
-		
 		Tengo que corregir. Hice la prueba y es estático. Si agregas mas productos en stripe el sitio en producción no los refleja, tendrías que hacer otro build. Porque en producción ya no se usa GraphQL, la pagina se construye durante el build con los datos disponibles y en producción los sirve en archivos json. Pero si se puede traer contenido de forma dinamica. Solo que este contenido no vendrá precargado sino que lo renderiza como lo hace react normalmente.  
 		<https://www.gatsbyjs.org/docs/data-fetching/>
 		
 		Según lo anterior para usar graphQL dinamicamente, creo que deberías usar una implementación manual con algún cliente como apollo. Yo creo que Gatsby está muy orientado a paginas estáticas que funcionen muy rápido. Para contenido dinámico como tú lo planteas creo que es mejor utilizar Next.js
 
-	* **RBN1993** (2)
+	* **RBN1993** [772872] (2)
 
-		
 		Eso es lo que he leído, una pena que no se pueda usar así.  
 		Gracias por el aporte.
 
-	* **Carlos Andres Florez G Garcia Garcia** (2)
+	* **Carlos Andres Florez G Garcia Garcia** [772872] (2)
 
-		
 		Puedes consultar en documentación, tenia la misma duda para hacer contenido dinámico y me encontré con esto.  
 		<https://www.gatsbyjs.org/docs/routing/>  
 		Se usa @reach/router  
 		Una lastima que el profesor no hable sobre estos temas.
 
-	* **zomars** (1)
+	* **zomars** [772872] (1)
 
-		
 		Si lo que quieres es que cuando agregar un producto en stripe (o en cualquier otra API) se vea reflejado en el sitio, tienes que configurar un webhook desde Stripe para que haga un nuevo build de gatsby cada que agregas/edites un producto.
 		
 		Mas info:
 		
-		  * <https://stripe.com/docs/api/events/types#event_types-product.created>
+		* <https://stripe.com/docs/api/events/types#event_types-product.created>
 		
 		
 
-## 0280. Construyendo el Carrito de Compras useContext
+## 0280. Construyendo el Carrito de Compras useContext [21000](https://platzi.com/clases/1618-gatsby/21000-construyendo-el-carrito-de-compras-usecontext/)
 
 ### Descripción:
 
@@ -3463,60 +3156,51 @@ Además, `useContext` nos permite usar todas las características de `React.Cont
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [641834](https://platzi.com/comentario/641834/) 
 
-	
-	  * 🚀🐙 [How to use React Context effectively - Kent C. Dodds](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+	* 🚀🐙 [How to use React Context effectively - Kent C. Dodds](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 	
 	
 
-* **Favio Náquira** (3)
+* **Favio Náquira** (3) [648007](https://platzi.com/comentario/648007/) 
 Dios mio, esta era la explicación sencilla que necesitabamos para dejar Redux xD Muchas gracias!!!
 
-	* **darwinyusef** (1)
+	* **darwinyusef** [648007] (1)
 
-		
 		En este caso redux deja de usarse, es posible usar redux en gatsby para aplicaciones grandes, y si los datos cambian todo el tiempo entonces que se puede hacer?
 
-	* **Favio Náquira** (2)
+	* **Favio Náquira** [648007] (2)
 
-		
 		No creo que se deje de usar, sino que ya para varias aplicaciones sencillas no será necesario contar con toda la estructura de reducers y actions.  
 		Para algunos proyectos complejos si será aún necesario.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [648007] (1)
 
-		
 		Si solo usabas Redux para manejar un estado global, lo estabas usando mal… 😅
 		
 		👉 <https://platzi.com/blog/redux-no-esta-muerto/>
 
-* **johnaagudelo** (1)
+* **johnaagudelo** (1) [853819](https://platzi.com/comentario/853819/) 
 
-	
 	muy buena clase!!
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [819903](https://platzi.com/comentario/819903/) 
 
-	
 	Buena clase!
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [723533](https://platzi.com/comentario/723533/) 
 
-	
 	🤯Para que sirve Context?
 
-	* **Camilo Rivera Quintero** (2)
+	* **Camilo Rivera Quintero** [723533] (2)
 
-		
 		Para acceder al estado desde cualquier componente.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [723533] (1)
 
-		
 		😉 Mira esta guía: <https://platzi.com/blog/redux-no-esta-muerto/>.
 
-## 0290. Construyendo el Carrito de Compras Vista
+## 0290. Construyendo el Carrito de Compras Vista [21001](https://platzi.com/clases/1618-gatsby/21001-construyendo-el-carrito-de-compras-vista/)
 
 ### Descripción:
 
@@ -3527,9 +3211,8 @@ Dios mio, esta era la explicación sencilla que necesitabamos para dejar Redux x
 
 ### Comentarios:
 
-* **Juan Antonio Avalos Orozco** (3)
+* **Juan Antonio Avalos Orozco** (3) [723999](https://platzi.com/comentario/723999/) 
 
-	
 	> components/Cart.js
 	``` 
 	    import React, { useContext } from'react'
@@ -3579,15 +3262,14 @@ Dios mio, esta era la explicación sencilla que necesitabamos para dejar Redux x
 	    
 	```
 
-* **Juan Antonio Avalos Orozco** (3)
+* **Juan Antonio Avalos Orozco** (3) [723976](https://platzi.com/comentario/723976/) 
 
-	
 	Seria buena idea deshabilitar los pop-ups de documentación durante los videos, para que no tapen el código en varias ocasiones.
 
-* **jonatan88** (1)
+* **jonatan88** (1) [75591](https://platzi.com/comentario/872339/) 
 Error en la etiqueta Small, dice TypeError: Object(…) is not a function al cargar la compra o el carrito
 
-## 0300. Construyendo el Carrito de Compras Agregar productos al carrito
+## 0300. Construyendo el Carrito de Compras Agregar productos al carrito [21002](https://platzi.com/clases/1618-gatsby/21002-construyendo-el-carrito-de-compras-agregar-product/)
 
 ### Descripción:
 
@@ -3598,32 +3280,27 @@ Error en la etiqueta Small, dice TypeError: Object(…) is not a function al car
 
 ### Comentarios:
 
-* **Wilson Fabian Pérez Sucuzhañay** (2)
+* **Wilson Fabian Pérez Sucuzhañay** (2) [647765](https://platzi.com/comentario/647765/) 
 
-	
 	A alguien mas le paso que si regresa al HOME y vuelves a la sudadera y pulsa agregar dar error del SKU ?
 
-	* **joss_dz** (5)
+	* **joss_dz** [647765] (5)
 
-		
 		Si, esto sucede por agregar más elementos del mismo tipo, a stripe no le funciona así. Te toca hacer una condición sencilla donde si ya tienes un elemento de este tipo, no lo agregué, si no que sume la cantidad nueva a la cantidad existente. 😁
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [724032](https://platzi.com/comentario/724032/) 
 
-	
 	Que es useEffect.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [724032] (1)
 
-		
 		Mira esta lectura: <https://platzi.com/clases/1651-react-ejs/22668-lectura-react-hooks/>.
 
-	* **Leo Islas** (1)
+	* **Leo Islas** [724032] (1)
 
-		
 		es el hoock que sustituye de alguna manera al compoentedidmount y componentwildmount de react <https://es.reactjs.org/docs/hooks-effect.html> checate la diferencia y los casos de uso
 
-## 0310. Comprando productos
+## 0310. Comprando productos [21003](https://platzi.com/clases/1618-gatsby/21003-comprando-productos/)
 
 ### Descripción:
 
@@ -3672,22 +3349,19 @@ Screen reader support enabled.
 
 ### Comentarios:
 
-* **RBN1993** (4)
+* **RBN1993** (4) [663414](https://platzi.com/comentario/663414/) 
 
-	
 	Para manejadores (o cualquier tipo de función) dentro de tu componente deberías usar useCallback. Si no por cada render que realice tu componente, por el motivo que sea, se volverán a reconstruir esas funciones.
 
-* **Juan Antonio Avalos Orozco** (1)
+* **Juan Antonio Avalos Orozco** (1) [724977](https://platzi.com/comentario/724977/) 
 
-	
 	Al presionar Comprar, no pasa nada.  
 	Y sale en consola:
 	
 	> (index):1 Uncaught (in promise) IntegrationError: Invalid value for stripe.redirectToCheckout: items.0.sku should be a string. You specified items.0.sku as undefined.
 
-	* **Jhurgen Maraza** (4)
+	* **Jhurgen Maraza** [724977] (4)
 
-		
 		A mi me pasaba lo mismo pero era por una mala definición del objeto en ProductDetail  
 		Me quedó así
 		``` 
@@ -3709,37 +3383,33 @@ Screen reader support enabled.
 		    
 		```
 
-* **nicolas-garcia-puerta** (1)
+* **nicolas-garcia-puerta** (1) [666808](https://platzi.com/comentario/666808/) 
 
-	
 	Me sale el siguiente error ->  
 	"IntegrationError: stripe.redirectToCheckout: You must provide successUrl and cancelUrl. "  
 	¿Que hago?
 	
 	Ya revise el .env y todo parece estar bien
 
-	* **nicolas-garcia-puerta** (2)
+	* **nicolas-garcia-puerta** [666808] (2)
 
-		
 		SUCCESS_REDIRECT='<http://localhost:8000/finalMessage>’  
 		CANCEL_REDIRECT=‘<http://localhost:8000/cancelationMessage>’
 		
 		las dos rutas funcionan si yo entro directamente a ellas. Con console log me doy cuenta que console.log(process.env.SUCCESS_REDIRECT)=http://localhost:8000/cancelationMessage y console.log(process.env.CANCEL_REDIRECT)=undefined.¿Cual puede ser el error?
 
-	* **joss_dz** (2)
+	* **joss_dz** [666808] (2)
 
-		
 		Verifica tu archivo .env, revisa que no tengas algún tipo de error.  
 		¿ Nos puedes compartir tu repo para ver si hay algo extra ?
 
-	* **Tonalli López** (3)
+	* **Tonalli López** [666808] (3)
 
-		
 		Asegurate de que escribiste bien la referencia de las variables, a mi me salio el mismo error y era por eso
 
-# Gatsby a producción
+# Gatsby a producción [4210]
 
-## 0320. Gatsby build para compilar nuestro proyecto
+## 0320. Gatsby build para compilar nuestro proyecto [21006](https://platzi.com/clases/1618-gatsby/21006-gatsby-build-para-compilar-nuestro-proyecto/)
 
 ### Descripción:
 
@@ -3786,14 +3456,12 @@ Por último, vamos a usar el plugin `gatsby-plugin-styled-components` para que n
 
 ### Comentarios:
 
-* **jhon manuel angulo moncada** (4)
+* **jhon manuel angulo moncada** (4) [852672](https://platzi.com/comentario/852672/) 
 
-	
 	si quieres ahorrar tiempo copia y pega el gatsby-browser.js
 
-	* **steveng** (1)
+	* **steveng** [852672] (1)
 
-		
 		Adicional a eso, agregar el plugin
 		``` 
 		    `gatsby-plugin-styled-components`
@@ -3802,7 +3470,7 @@ Por último, vamos a usar el plugin `gatsby-plugin-styled-components` para que n
 		
 		De esta manera lo hecho con styled components podra funcionar en producción.
 
-## 0330. Deploy a Netlify
+## 0330. Deploy a Netlify [21005](https://platzi.com/clases/1618-gatsby/21005-deploy-a-netlify/)
 
 ### Descripción:
 
@@ -3819,11 +3487,11 @@ De esta forma hemos terminado el Curso de Desarrollo de Aplicciones con Gatsby J
 
 Puedes continuar tu ruta de aprendizaje con los siguientes cursos:
 
-  * [Curso de React.js](https://platzi.com/clases/react/)
-  * [Curso de React Avanzado](https://platzi.com/clases/react-avanzado/)
-  * [Curso de Progressive Web Apps con React.js](https://platzi.com/clases/pwa-react-js/)
-  * [Curso de React Router](https://platzi.com/clases/react-router/)
-  * [Carrera de Desarrollo de Apps con React Native](https://platzi.com/react-native/)
+* [Curso de React.js](https://platzi.com/clases/react/)
+* [Curso de React Avanzado](https://platzi.com/clases/react-avanzado/)
+* [Curso de Progressive Web Apps con React.js](https://platzi.com/clases/pwa-react-js/)
+* [Curso de React Router](https://platzi.com/clases/react-router/)
+* [Carrera de Desarrollo de Apps con React Native](https://platzi.com/react-native/)
 
 
 
@@ -3839,40 +3507,34 @@ Puedes continuar tu ruta de aprendizaje con los siguientes cursos:
 
 ### Comentarios:
 
-* **Fabian Siatama** (5)
+* **Fabian Siatama** (5) [740884](https://platzi.com/comentario/740884/) 
 
-	
 	Muy buen curso, lo he puesto en practica para un emprendimiento y asi va quedando [metegol](https://www.metegol.app/)
 
-* **Pablo Didone** (3)
+* **Pablo Didone** (3) [995848](https://platzi.com/comentario/995848/) 
 
-	
 	Muy buen curso y muy bien el profesor. Solo tengo una duda, en caso de cargar mas productos en Shopify se debe hacer un nuevo deploy?
 
-* **Duvan Carvajal** (3)
+* **Duvan Carvajal** (3) [668291](https://platzi.com/comentario/668291/) 
 
-	
 	Ya me he enamorado de Gatsby, gracias a los plugins puedo hacer casi cualquier cosa con mi aplicación.  
 	Muchas gracias profe Joss y mil gracias Platzi.
 	
 	Y ya saben, #NuncaParenDeAprender.
 
-* **Luis Arturo Lira Cerda** (3)
+* **Luis Arturo Lira Cerda** (3) [640651](https://platzi.com/comentario/640651/) 
 
-	
 	Me pareció bastante interesante el curso. Gracias por compartir tu conocimiento. De igual manera, buscaré cómo crear algo propio con Gatsby.  
 	Vi que la página de PokeAPI está hecha con Gatsby, tal vez intente hacer algo parecido ya que yo también estoy haciendo un API pública por hobby y parece ser buena opción para practicar.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [640651] (1)
 
-		
 		El ejemplo que más me impresionó fue la Documentación Oficial de React.js, pero también hay muchos otros ejemplos importantes como el [Blog personal de Dan Abramov (overreacted.io)](https://overreacted.io/) o la [Página web de Kent C. Dodds](https://kentcdodds.com/).
 		
 		👉 [¡Crea tu propio Blog con React, Gatsby y Markdown!](https://platzi.com/blog/construye-tu-blog-con-react-gatsby-markdown/)
 
-	* **joss_dz** (3)
+	* **joss_dz** [640651] (3)
 
-		
 		Me encanta que te haya gustado y te sea de utilidad.  
 		Hay muchas ventajas y muchos sitios ya están construidos con gatsby por sus ventajas increíbles: velocidad de carga, velocidad de desarrollo, tecnologías modernas, bajo coste en alojamiento y seguridad puesto que tu sitio no se conecta directamente con un servicio en tiempo de ejecución.
 		
@@ -3880,62 +3542,51 @@ Puedes continuar tu ruta de aprendizaje con los siguientes cursos:
 		
 		Te recomiendo iniciar el sitio de tu api y poco a poco agregar contenido y plugins. Gatsby es un framework progresivo por lo cual no necesitas empezar un proyecto enorme, empieza con algo simple que te permita repasar los conceptos y ve haciendo crecer tu sitio contigo. 🤘🏼
 
-	* **isabellaahc** (1)
+	* **isabellaahc** [640651] (1)
 
-		
 		Pasé la url de mi deploy por un checker de SEO pero no me aparece ninguna etiqueta y es el motivo principal por el cual quiero implementar Gatsby, se necesita una configuración especial?
 
-* **Sandra Milena Rairán Pinilla** (2)
+* **Sandra Milena Rairán Pinilla** (2) [658569](https://platzi.com/comentario/658569/) 
 
-	
 	Genial este curso!!! Estoy haciendo mi portafolio con Gatsby para entender todos los conceptos y practicar!! Felicitaciones por este curso tan espectacular!!!
 
-* **juand_silva** (1)
+* **juand_silva** (1) [976909](https://platzi.com/comentario/976909/) 
 
-	
 	Muy buen curso, lo que me impresionó fue los plugins para SEO. De verdad que hoy en día esto es más que relevante a la hora de hacer un sitio WEB.
 
-* **Jorge Daniel Pat Navarro** (1)
+* **Jorge Daniel Pat Navarro** (1) [933395](https://platzi.com/comentario/933395/) 
 
-	
 	Estuvo muy bueno el curso! 😄
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [852688](https://platzi.com/comentario/852688/) 
 
-	
 	😂
 
-* **Carlos Andres Villegas G** (1)
+* **Carlos Andres Villegas G** (1) [845274](https://platzi.com/comentario/845274/) 
 
-	
 	Muy buen curso!
 
-* **Ricardo Medina** (1)
+* **Ricardo Medina** (1) [844050](https://platzi.com/comentario/844050/) 
 
-	
 	Gracias por el curso!!
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [820239](https://platzi.com/comentario/820239/) 
 
-	
 	Excelente curso!!
 
-* **Jorge Velasquez** (1)
+* **Jorge Velasquez** (1) [798410](https://platzi.com/comentario/798410/) 
 
-	
 	Excelente curso y excelentísimo Teacher, muy bien explicado cada uno de los temas, esta herramienta me pareció fantástica para crear sitios increíbles. Gracias por compartir tus conocimientos, muchos éxitos
 
-* **nicolas-garcia-puerta** (1)
+* **nicolas-garcia-puerta** (1) [666829](https://platzi.com/comentario/666829/) 
 
-	
 	Excelente curso!!  
 	Muy buena disposicion del profesor para resolver nuestras dudas
 
-* **Alejandra Iza** (1)
+* **Alejandra Iza** (1) [68594](https://platzi.com/comentario/742910/) 
 he desplegado un blog en amplify y utilizo axios para hacer los request, tungo un problema y es que cuando haga algun request en producci...
 
-	* **joss_dz** (2)
+	* **joss_dz** [68594] (2)
 
-		
 		Probablemente amplify, tienes el código a la mano?
 

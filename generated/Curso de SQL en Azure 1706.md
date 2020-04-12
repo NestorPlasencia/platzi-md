@@ -1,6 +1,8 @@
-# Introducción
+[Curso de SQL en Azure 1706](https://platzi.com/cursos/sql-azure)
 
-## 0010. Introducción a SQL Azure
+# Introducción [4630]
+
+## 0010. Introducción a SQL Azure [23118](https://platzi.com/clases/1706-sql-azure/23118-introduccion-a-sql-azure/)
 
 ### Descripción:
 
@@ -14,76 +16,64 @@ Al trabajar con Plataformas como Servicio nos encargarnos únicamente de constru
 
 ### Comentarios:
 
-* **jousalas** (2)
+* **jousalas** (2) [785956](https://platzi.com/comentario/785956/) 
 
-	
 	Genial este curso
 
-* **Luis Garcia** (2)
+* **Luis Garcia** (2) [762288](https://platzi.com/comentario/762288/) 
 
-	
 	excelente estaba esperando el curso
 
-* **Jonattan_Infante** (2)
+* **Jonattan_Infante** (2) [760740](https://platzi.com/comentario/760740/) 
 
-	
 	¿Cual es la diferencia entre Google SQL y Azure SQL?
 
-	* **Nestor Cepeda (Platzi)** (3)
+	* **Nestor Cepeda (Platzi)** [760740] (3)
 
-		
 		Hola Jonattan aquí [podrías](https://www.itcentralstation.com/products/comparisons/google-cloud-sql_vs_sql-azure) ver una tabla de comparación.
 
-	* **Jonattan_Infante** (3)
+	* **Jonattan_Infante** [760740] (3)
 
-		
 		Gracias, Amigo
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [758369](https://platzi.com/comentario/758369/) 
 
-	
 	Estaba esperando con ansias este curso. 😎
 
-* **dbzdavidbaez** (1)
+* **dbzdavidbaez** (1) [1021447](https://platzi.com/comentario/1021447/) 
 
-	
 	A seguir aprendiendo Sql Azure
 
-* **Cristian Antony Soncco Boza** (1)
+* **Cristian Antony Soncco Boza** (1) [998980](https://platzi.com/comentario/998980/) 
 
-	
 	Aquí vamos! formalizando mi actualización…
 
-* **claudiomorales** (1)
+* **claudiomorales** (1) [829153](https://platzi.com/comentario/829153/) 
 
-	
 	Este curso es Buenísimo!
 
-* **Emmanuel Rodríguez Ramírez** (1)
+* **Emmanuel Rodríguez Ramírez** (1) [81614](https://platzi.com/comentario/985351/) 
 ¿Por qué West US y no South US?
 
-	* **Isaac Lugo** (2)
+	* **Isaac Lugo** [81614] (2)
 
-		
 		supongo que estaba en san Francisco cuando grabo el curso
 
-# Crear Bases de datos
+# Crear Bases de datos [4629]
 
-## 0020. Creando la Base de Datos en Azure SQL
+## 0020. Creando la Base de Datos en Azure SQL [23117](https://platzi.com/clases/1706-sql-azure/23117-creando-la-base-de-datos-en-azure-sql/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **sergioale75** (5)
+* **sergioale75** (5) [766508](https://platzi.com/comentario/766508/) 
 
-	
 	Minuto 2:58 quedo mal la edición se escucha el detras de escena.
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [775845](https://platzi.com/comentario/775845/) 
 
-	
 	Pasos para crear un server y una BD en SQL Azure  
 	-Crear un recurso  
 	-Búsqueda AzureSQL  
@@ -94,82 +84,71 @@ Al trabajar con Plataformas como Servicio nos encargarnos únicamente de constru
 	-Si trabajo con un proyecto webApi, debo hacer clic en Permitir accesos de Azure  
 	-Necesito nombrar la base de datos
 
-* **Claudio Pedalino** (2)
+* **Claudio Pedalino** (2) [841789](https://platzi.com/comentario/841789/) 
 
-	
 	Si bien la suscripción es gratuita, al crear una base de datos me estima un coste mensual, alguien sabe si es gratuita la creación de una db de prueba?
 
-* **ju2ank** (2)
+* **ju2ank** (2) [814480](https://platzi.com/comentario/814480/) 
 
-	
 	Si llego a dar clic en crear dice que el costo estimado va ser de 18.15 USD al mes. Si tengo una suscripción de evaluación gratuita esa valor me lo cobran?
 
-* **alexgv04** (1)
+* **alexgv04** (1) [898537](https://platzi.com/comentario/898537/) 
 
-	
 	para acceder a la base de datos desde su host, se debe registrar la ip local, esto se puede hacer desde el portal de azure seleccionar el server y la opción Firewalls and virtual networks y colocar la ip
 
-* **alexgv04** (1)
+* **alexgv04** (1) [898532](https://platzi.com/comentario/898532/) 
 
-	
 	pueden suscribirse como estudiantes, solo es necesario tener un correo .edu y te dan acceso a muchos recursos.
 
-* **soymichelt** (1)
+* **soymichelt** (1) [82626](https://platzi.com/comentario/1009190/) 
 Tengo una duda, ¿si yo deseará emplear este servicio en una aplicación, cuál es el costo mensual?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [82626] (1)
 
-		
 		Depende de los servicios que necesites y qué tan grande es tu aplicación. Recuerda que puedes usar la Calculadora de Precios de Azure para calcular un estimado: <https://azure.microsoft.com/es-es/pricing/calculator/>. 😉
 
-## 0030. Seguridad en SQL Azure
+## 0030. Seguridad en SQL Azure [23119](https://platzi.com/clases/1706-sql-azure/23119-seguridad-en-sql-azure/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [777472](https://platzi.com/comentario/777472/) 
 
-	
 	Una directiva de seguridad de SQL Azure es que debemos habilitar las IP publicas para acceder a la  
 	Base de datos.  
 	![security.PNG](https://static.platzi.com/media/user_upload/security-75fcc55f-9623-46ca-8b96-311f605e69fb.jpg)
 
-	* **desh991218** (2)
+	* **desh991218** [777472] (2)
 
-		
 		Gracias Men me ayudaste
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [777472] (1)
 
-		
 		Que super!
 
-* **Emmanuel Capandegui** (1)
+* **Emmanuel Capandegui** (1) [853927](https://platzi.com/comentario/853927/) 
 
-	
 	hola!  
 	¿Es posible permitir el acceso por ip solo a una BD determinada?
 
-	* **daniel alonso** (1)
+	* **daniel alonso** [853927] (1)
 
-		
 		sí. De hecho así lo hizo en el ejericio.
 
-## 0040. Explorando mi base de datos desde el portal de Azure
+## 0040. Explorando mi base de datos desde el portal de Azure [23120](https://platzi.com/clases/1706-sql-azure/23120-explorando-mi-base-de-datos-desde-el-portal-de-azu/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [777489](https://platzi.com/comentario/777489/) 
 
-	
 	Aquí dejo un link donde hay buenos ejemplos de consultas SQL <https://bit.ly/2OEIoKZ>
 
-## 0050. Configuración y acceso a nuestra Base de Datos desde VSCode
+## 0050. Configuración y acceso a nuestra Base de Datos desde VSCode [23121](https://platzi.com/clases/1706-sql-azure/23121-configuracion-y-acceso-a-nuestra-base-de-datos-des/)
 
 ### Descripción:
 
@@ -182,29 +161,25 @@ Tengo una duda, ¿si yo deseará emplear este servicio en una aplicación, cuál
 
 ### Comentarios:
 
-* **capzzula** (4)
+* **capzzula** (4) [851144](https://platzi.com/comentario/851144/) 
 
-	
 	[Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15), es otra herramienta increible que usa la misma interfase de VSCode, Se los recomiendo.
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [778330](https://platzi.com/comentario/778330/) 
 
-	
 	Consultas desde VSCode
 	
-	  * Instalar el package MSSQL en VSCode para realizar consultas SQL
-	  * Realizar la cadena de conexion en VSCode
+	* Instalar el package MSSQL en VSCode para realizar consultas SQL
+	* Realizar la cadena de conexion en VSCode
 	
 	
 
-* **FabGam** (2)
+* **FabGam** (2) [763546](https://platzi.com/comentario/763546/) 
 
-	
 	ctrl +ship + p => línea de comandos
 
-* **cristhian-alexander-marino-gar** (1)
+* **cristhian-alexander-marino-gar** (1) [1083783](https://platzi.com/comentario/1083783/) 
 
-	
 	Para realizar la conexión ahora son estos pasos
 	
 	  1. Poner el nombre del servidor
@@ -213,47 +188,41 @@ Tengo una duda, ¿si yo deseará emplear este servicio en una aplicación, cuál
 	
 	
 
-* **daniel alonso** (1)
+* **daniel alonso** (1) [981134](https://platzi.com/comentario/981134/) 
 
-	
 	Agregar cadena de conexión(crear perfil) . en VS code.
 
-* **Cesar Manuel Herrera Vergara** (1)
+* **Cesar Manuel Herrera Vergara** (1) [774692](https://platzi.com/comentario/774692/) 
 
-	
 	tengo el siguiente error:  
 	Setup is unable to connect to SQL Server with the connection information provided
 
-	* **Fabian Alexander Zapata Vallejo** (1)
+	* **Fabian Alexander Zapata Vallejo** [774692] (1)
 
-		
 		Pudiste resolverlo?
 
-* **Marilians** (1)
+* **Marilians** (1) [83681](https://platzi.com/comentario/1032164/) 
 He seguido todo al pie de la letra pero no logro conectar la BD en Code, que puede ser? Adicionalmente que me instruyan en como publicar ...
 
-	* **Marilians** (1)
+	* **Marilians** [83681] (1)
 
-		
 		Bien, simplemente VSCode no asimiló la cadena de conexión que copie de Azure, así que viendo bien lo que solicitaba MS SQL: Connect era cada parámetro por vez, primero el servername, luego dbname, usuario y password.
 		
 		Así conecto…
 
-## 0060. Operaciones de consulta con SQL
+## 0060. Operaciones de consulta con SQL [23122](https://platzi.com/clases/1706-sql-azure/23122-operaciones-de-consulta-con-sql/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [778333](https://platzi.com/comentario/778333/) 
 
-	
 	Documentación de SQL Server <https://bit.ly/35w2nS0>
 
-* **desh991218** (1)
+* **desh991218** (1) [927785](https://platzi.com/comentario/927785/) 
 
-	
 	Aquí estaría un comando ejemplo para crear una tabla:  
 	CREATE TABLE citas  
 	(  
@@ -266,7 +235,7 @@ He seguido todo al pie de la letra pero no logro conectar la BD en Code, que pue
 	quien NVARCHAR(20) NOT NULL  
 	);
 
-## 0070. Operaciones CRUD
+## 0070. Operaciones CRUD [23123](https://platzi.com/clases/1706-sql-azure/23123-operaciones-crud/)
 
 ### Descripción:
 
@@ -328,21 +297,19 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 
 ### Comentarios:
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [778553](https://platzi.com/comentario/778553/) 
 
-	
 	Dejo los link que consulté para reforzar estos temas:  
 	W3Schools: <https://www.w3schools.com/sql/default.asp>  
 	Ejercicios prácticos: <https://bit.ly/2OEIoKZ>
 
-* **carlosbazanhuaman** (1)
+* **carlosbazanhuaman** (1) [906601](https://platzi.com/comentario/906601/) 
 
-	
 	este CRUD es super basico para probar la BD
 
-# Desarrollar una Web APi
+# Desarrollar una Web APi [4631]
 
-## 0080. Creando una Web APi con .NET Core
+## 0080. Creando una Web APi con .NET Core [23124](https://platzi.com/clases/1706-sql-azure/23124-creando-una-web-api-con-net-core/)
 
 ### Descripción:
 
@@ -353,14 +320,13 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 
 ### Comentarios:
 
-* **Christian David Sánchez** (4)
+* **Christian David Sánchez** (4) [778580](https://platzi.com/comentario/778580/) 
 
-	
 	 **WEB API .NET CORE**
 	
-	  * Definición: Una API es un conjunto de funciones y procedimientos que cumplen una o muchas funciones con el fin de ser utilizadas por otro software.
+	* Definición: Una API es un conjunto de funciones y procedimientos que cumplen una o muchas funciones con el fin de ser utilizadas por otro software.
 	
-	  * Para instalar las plantilla de Web Api:  
+	* Para instalar las plantilla de Web Api:  
 	**dotnet new --install “Microsoft.DotNet.Web.ProjectTemplates2.2”**
 	
 	
@@ -378,19 +344,17 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 	-CLI DOTNET CORE:  
 	**<https://bit.ly/2BcxKmF>**
 
-* **alexmilano** (1)
+* **alexmilano** (1) [990357](https://platzi.com/comentario/990357/) 
 
-	
 	El comando `dotnet new` ya no es valido dentro de la terminal de VS CODE. ¿Cual lo sustituye?
 
-* **Fabian Alexander Zapata Vallejo** (0)
+* **Fabian Alexander Zapata Vallejo** (0) [906018](https://platzi.com/comentario/906018/) 
 
-	
 	Buena noche,
 	
 	Para instalar la plantilla, me indica que el termino Dotnet no lo reconoce, me podrían indicar con cual lo puedo cambiar
 
-## 0090. Agregar modelos y configuración en mi Web Api
+## 0090. Agregar modelos y configuración en mi Web Api [23128](https://platzi.com/clases/1706-sql-azure/23128-agregar-modelos-y-configuracion-en-mi-web-api/)
 
 ### Descripción:
 
@@ -412,20 +376,17 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 
 ### Comentarios:
 
-* **Angie0014** (1)
+* **Angie0014** (1) [1084975](https://platzi.com/comentario/1084975/) 
 
-	
 	<https://www.nuget.org/> para descargar el framework
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [836473](https://platzi.com/comentario/836473/) 
 
-	
 	Que extension se utiliza para tener las referencias en codigo? las que dicen por ahora  
 	0 references
 
-* **Christian David Sánchez** (1)
+* **Christian David Sánchez** (1) [778598](https://platzi.com/comentario/778598/) 
 
-	
 	NuGet que debemos agregar para podernos conectar con la B.D.
 	
 	**\- ENTITY FRAMEWORK CORE**  
@@ -434,9 +395,8 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 	**\- ENTITY FRAMEWORK CORE SQL SERVER**  
 	<PackageReference Include=“Microsoft.EntityFrameworkCore.SqlServer” Version=“2.2.6” />
 
-* **agustin modia** (0)
+* **agustin modia** (0) [792869](https://platzi.com/comentario/792869/) 
 
-	
 	hola al hacer el dotnet build me sale lo siguientes errores
 	
 	PS C:\Users\Agustin\Desktop\CURSOS PROGRAMACION\azure sql\apisql> dotnet build  
@@ -458,8 +418,8 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 	included, verify that the path is correct and try again.  
 	At line:1 char:1
 	
-	  * dotnew restore
-	  * 
+	* dotnew restore
+	* 
 	```      + CategoryInfo          :ObjectNotFound: (dotnew:String) [], CommandNotFoundException
 	      + FullyQualifiedErrorId : CommandNotFoundException
 	    
@@ -502,23 +462,22 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 	0 Warning(s)  
 	3 Error(s)
 
-## 0100. Configurando mi conexión a SQL
+## 0100. Configurando mi conexión a SQL [23129](https://platzi.com/clases/1706-sql-azure/23129-configurando-mi-conexion-a-sql/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [778708](https://platzi.com/comentario/778708/) 
 
-	
 	 **Un pequeño resumen:**
 	
-	  * La clase context debe heredar de DBCONTEXT de Entity Framework.
+	* La clase context debe heredar de DBCONTEXT de Entity Framework.
 	
-	  * El nombre del constructor debe coincidir con el nombre de la clase ‘context’.
+	* El nombre del constructor debe coincidir con el nombre de la clase ‘context’.
 	
-	  * DbSet es una colección de los datos que vienen de la Base de Datos(en este caso SQL Azure).  
+	* DbSet es una colección de los datos que vienen de la Base de Datos(en este caso SQL Azure).  
 	**public DbSet <contacts> Contacts { get; set; }**
 	
 	
@@ -532,62 +491,54 @@ Con estas cuatro operaciones podrás sentar las bases de cualquier proceso que d
 	    
 	```
 
-* **alexgv04** (1)
+* **alexgv04** (1) [898712](https://platzi.com/comentario/898712/) 
 
-	
 	todo este proceso se puede implementar automáticamente desde visual studio 2019, se crean las clases y se selecciona New Scaffolded Item se selecciona la clase y automáticamente se crea el controlador, se debe de tener en cuenta también cambiar la cadena de conexión.
 
-* **rmgelvez** (1)
+* **rmgelvez** (1) [83945](https://platzi.com/comentario/1038723/) 
 Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la hora de utilizar varios contextos, errores en transaccio...
 
-	* **Jhonnattan Rivera** (1)
+	* **Jhonnattan Rivera** [83945] (1)
 
-		
 		quisas deberian implementar una metodologia QA o si no tienen, crear un equipo de testing para asegurarse que todo funciona bien.
 
-## 0110. Comandos de Entity Framework Core
+## 0110. Comandos de Entity Framework Core [23130](https://platzi.com/clases/1706-sql-azure/23130-comandos-de-entity-framework-core/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Orlando13** (6)
+* **Orlando13** (6) [759712](https://platzi.com/comentario/759712/) 
 
-	
 	Al ejecutar el comando dotnet ef me daba un error que no reconocía la instrucción:
 	
 	Lo solucione de la siguiente manera:
 	
-	  * dotnet tool install --global dotnet-ef
-	  * dotnet ef migrations add InitialCreate
+	* dotnet tool install --global dotnet-ef
+	* dotnet ef migrations add InitialCreate
 	
 	
 
-	* **Amin Espinoza** (1)
+	* **Amin Espinoza** [759712] (1)
 
-		
 		Esto está buenísimo, quizá en algún momento de mi instalación lo hice sin darme cuenta. Muchas gracias por el tip Orlando!
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [759712] (1)
 
-		
 		Hey 😮 excelente aporte!
 
-	* **desh991218** (2)
+	* **desh991218** [759712] (2)
 
-		
 		Gracias men! 😃
 
-	* **langeld83** (1)
+	* **langeld83** [759712] (1)
 
-		
 		Excelente aporte Orlando, Gracias.  
 		Saludos.
 
-* **Daniel .** (3)
+* **Daniel .** (3) [1032701](https://platzi.com/comentario/1032701/) 
 
-	
 	Si les sale este error:
 	``` 
 	    Your startup project 'APISQLPlatzi' doesn't reference Microsoft.EntityFrameworkCore.Design. This packageis required for the Entity Framework Core Tools to work. Ensure your startup project is correct, install the package, and try again.
@@ -600,13 +551,12 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 	    
 	```
 
-* **claudiomorales** (2)
+* **claudiomorales** (2) [830664](https://platzi.com/comentario/830664/) 
 
-	
 	.NET CORE hasta el momento se basa en migraciones
 	
-	  * dotnet ef migrations add InitialCreate --> Para agregar una migracion
-	  * dotnet ef migrations update --> Para afectar los cambios en la base de datos
+	* dotnet ef migrations add InitialCreate --> Para agregar una migracion
+	* dotnet ef migrations update --> Para afectar los cambios en la base de datos
 	
 	
 	
@@ -621,9 +571,8 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 	Atributos de modelado : se utiliza para especificar el uso previsto del miembro de la clase y la relación entre las clases.  
 	Fuente: <https://bit.ly/2nKuXye>
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [778743](https://platzi.com/comentario/778743/) 
 
-	
 	.NET CORE hasta el momento se basa en migraciones  
 	**\- dotnet ef migrations add InitialCreate** \--> Para agregar una migracion  
 	**\- dotnet ef migrations update** \--> Para afectar los cambios en la base de datos
@@ -639,75 +588,65 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 	Atributos de modelado : se utiliza para especificar el uso previsto del miembro de la clase y la relación entre las clases.  
 	Fuente: <https://bit.ly/2nKuXye>
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [1043576](https://platzi.com/comentario/1043576/) 
 
-	
 	Me marca errror:  
 	error CS1061: ‘IConfiguration’ does not contain a definition for ‘getConnectionString’ and no accessible extension method ‘getConnectionString’ accepting a first argument of type ‘IConfiguration’ could be found (are you missing a using directive or an assembly reference?)
 	
 	¿Alguien le pasó y cómo lo solucionó?
 
-* **alexgv04** (1)
+* **alexgv04** (1) [898723](https://platzi.com/comentario/898723/) 
 
-	
 	algunos comandos y funcionamiento de Entity Framework:  
 	<https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli>
 	
 	tener en cuenta que cada migración crea un folder con la migración y un registro en la base de datos con la información de la migración
 
-## 0120. Operación Select desde mi API
+## 0120. Operación Select desde mi API [23131](https://platzi.com/clases/1706-sql-azure/23131-operacion-select-desde-mi-api/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **jose-martin-rangel-espinoza** (4)
+* **jose-martin-rangel-espinoza** (4) [763638](https://platzi.com/comentario/763638/) 
 
-	
 	El simbolo con el que se indica un destructor se llama virgulilla.
 
-	* **Christian David Sánchez** (1)
+	* **Christian David Sánchez** [763638] (1)
 
-		
 		No había escuchado ese termino o nomenclatura.
 
-	* **Oscar Fernando Moreno Restrepo** (1)
+	* **Oscar Fernando Moreno Restrepo** [763638] (1)
 
-		
 		algunos también lo llaman **Tilde** , por su nombre en inglés
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [778812](https://platzi.com/comentario/778812/) 
 
-	
 	 **¿Qué es LINQ?**  
 	LINQ (Language Integrated Query) es una sintaxis de consulta uniforme en C # y [VB.NET](http://VB.NET) para recuperar datos de diferentes fuentes y formatos. Está integrado en C # o VB, lo que elimina la falta de coincidencia entre los lenguajes de programación y las bases de datos, además de proporcionar una única interfaz de consulta para diferentes tipos de fuentes de datos.  
 	Fuente: <https://bit.ly/2t1rzOv>
 
-* **desh991218** (1)
+* **desh991218** (1) [928006](https://platzi.com/comentario/928006/) 
 
-	
 	Existe una manera un poco mas fácil de añadir datos sin necesidad de hacer el query SQL:  
 	![Captura.JPG](https://static.platzi.com/media/user_upload/Captura-94c03a38-d4c4-4f72-a043-b2ce772b910e.jpg)
 
-* **Oscar Fernando Moreno Restrepo** (1)
+* **Oscar Fernando Moreno Restrepo** (1) [814073](https://platzi.com/comentario/814073/) 
 
-	
 	El método destructor es necesario? había escuchado que en C# no se usaba porque .Net elimina de la memoria los elementos obsoletos (GarbageCollector)
 	
 	Gracias por cualquier aclaración al respecto.
 
-	* **Stalin Alvarado** (2)
+	* **Stalin Alvarado** [814073] (2)
 
-		
 		para objetos primitivos, pero para clases complejas como DbContext se debe usar un destructor para liberar memoria. Pero mejor es usar un using
 
-	* **carlosbazanhuaman** (1)
+	* **carlosbazanhuaman** [814073] (1)
 
-		
 		cuando usas using(){…} libera memoria al terminar el bloque de las llaves.
 
-## 0130. Publicación y ajustes de mi Web API
+## 0130. Publicación y ajustes de mi Web API [23132](https://platzi.com/clases/1706-sql-azure/23132-publicacion-y-ajustes-de-mi-web-api/)
 
 ### Descripción:
 
@@ -718,18 +657,16 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 
 ### Comentarios:
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [778854](https://platzi.com/comentario/778854/) 
 
-	
 	Comando utilizado en la clase:  
 	donet publish -c Release -o ./publish
 
-* **Daniel .** (1)
+* **Daniel .** (1) [1032855](https://platzi.com/comentario/1032855/) 
 
-	
 	No me sale la opción para publicar 😭
 
-## 0140. Operaciones Get y Post desde mi Web API
+## 0140. Operaciones Get y Post desde mi Web API [23133](https://platzi.com/clases/1706-sql-azure/23133-operaciones-get-y-post-desde-mi-web-api/)
 
 ### Descripción:
 
@@ -740,9 +677,8 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 
 ### Comentarios:
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [779120](https://platzi.com/comentario/779120/) 
 
-	
 	Otra forman de buscar un registro es con **FIND**.
 	``` 
 	    [HttpGet ("{id}")]
@@ -763,7 +699,7 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 	    }
 	```
 
-## 0150. Consumiendo las operaciones de mi API
+## 0150. Consumiendo las operaciones de mi API [23134](https://platzi.com/clases/1706-sql-azure/23134-consumiendo-las-operaciones-de-mi-api/)
 
 ### Descripción:
 
@@ -774,9 +710,8 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 
 ### Comentarios:
 
-* **Christian David Sánchez** (3)
+* **Christian David Sánchez** (3) [779128](https://platzi.com/comentario/779128/) 
 
-	
 	Las operaciones más importantes en cualquier sistema Rest (CRUD) son:  
 	GET (Leer y consultar los registros)  
 	POST (Crear nuevos registros)  
@@ -785,17 +720,15 @@ Una pregunta Amin, he visto que en mi trabajo hemos tenido muchos problemas a la
 	
 	Aqui hay un ejemplo de un API REST en c# desde cero: <https://bit.ly/2B9bOJe>
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [779128] (2)
 
-		
 		En el Curso de API REST estudiamos este tema a fondo: <https://platzi.com/clases/api-rest/>. 😉
 
-	* **Christian David Sánchez** (2)
+	* **Christian David Sánchez** [779128] (2)
 
-		
 		Gracias por la sugerencia. Ese es buen curso.
 
-## 0160. Operaciones Put y Delete desde mi Web API
+## 0160. Operaciones Put y Delete desde mi Web API [23135](https://platzi.com/clases/1706-sql-azure/23135-operaciones-put-y-delete-desde-mi-web-api/)
 
 ### Descripción:
 
@@ -861,7 +794,7 @@ Muy bien, pues ahora solo basta publicar de nuevo la aplicación para que puedas
 
 ### Comentarios:
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [779138](https://platzi.com/comentario/779138/) 
 
 	```
 	    [HttpPut ("{id}")]
@@ -888,9 +821,9 @@ Muy bien, pues ahora solo basta publicar de nuevo la aplicación para que puedas
 	    
 	```
 
-# Cierre
+# Cierre [4634]
 
-## 0170. Cierre
+## 0170. Cierre [23136](https://platzi.com/clases/1706-sql-azure/23136-cierre/)
 
 ### Descripción:
 
@@ -909,18 +842,15 @@ Muy bien, pues ahora solo basta publicar de nuevo la aplicación para que puedas
 
 ### Comentarios:
 
-* **Christian David Sánchez** (2)
+* **Christian David Sánchez** (2) [779141](https://platzi.com/comentario/779141/) 
 
-	
 	Excelente curso, Gracias Amin!!
 
-* **Ricardo Exequiel De Angelis** (1)
+* **Ricardo Exequiel De Angelis** (1) [844505](https://platzi.com/comentario/844505/) 
 
-	
 	y el repo de este curso?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [844505] (1)
 
-		
 		Aquí lo tienes: <https://github.com/aminespinoza/ContenidoSQLAzure>. 😉
 

@@ -1,6 +1,8 @@
-# Introducción a Next.JS
+[Curso de Next.js 1311](https://platzi.com/cursos/next-js)
 
-## 0010. ¿Qué es Next.JS
+# Introducción a Next.JS [2201]
+
+## 0010. ¿Qué es Next.JS [12073](https://platzi.com/clases/1311-next-js/12073-que-es-nextjs/)
 
 ### Descripción:
 
@@ -9,88 +11,73 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 
 ### Comentarios:
 
-* **jdgarcia6** (6)
+* **jdgarcia6** (6) [633822](https://platzi.com/comentario/633822/) 
 
-	
 	no hace falta aprender react 😄
 
-* **Carlos Rivas** (6)
+* **Carlos Rivas** (6) [411223](https://platzi.com/comentario/411223/) 
 
-	
 	Saber que el profesor de este curso sera Roberto, asegura la calidad del mismo.
 
-	* **Eduardo Hidalgo Díaz Rugama** (1)
+	* **Eduardo Hidalgo Díaz Rugama** [411223] (1)
 
-		
 		completamente de acuerdo con usted
 
-* **David Daniel Castillo Nava** (4)
+* **David Daniel Castillo Nava** (4) [345491](https://platzi.com/comentario/345491/) 
 
-	
 	Next.js es un framework que usa la Liberia React.js para crear aplicaciones modernas.
 
-* **Miguel Angel Morales Larriega** (3)
+* **Miguel Angel Morales Larriega** (3) [617086](https://platzi.com/comentario/617086/) 
 
-	
 	Recuerden SSR está presente en:  
 	-React como Next.js.  
 	-Vue como Nuxt,  
 	-Angular como Angular Universal
 
-* **jesusmurf** (3)
+* **jesusmurf** (3) [344611](https://platzi.com/comentario/344611/) 
 
-	
 	Con Nextjs se puede hacer server side rendering con Express, Django… etc? Yo creía que Nextjs era una librería para hacer server side rendering con React.
 
-	* **Oscar Barajas Tavares (Platzi)** (5)
+	* **Oscar Barajas Tavares (Platzi)** [344611] (5)
 
-		
 		Yo he hecho proyectos con Next.js mezclando express y react, te comparto un proyecto que tengo en github donde mezclo estas tecnologías:
 		
 		<https://github.com/gndx/100tifi.co>
 
-	* **Sebastian  Segura** (1)
+	* **Sebastian  Segura** [344611] (1)
 
-		
 		Venia buscando eso @gndx! Tenia en mente la pregunta se puede usar con express? Gracias crack!
 
-* **Andrés Madrigal** (3)
+* **Andrés Madrigal** (3) [329027](https://platzi.com/comentario/329027/) 
 
-	
 	next.js es un framework del framework?
 
-	* **WilliamVelazquez** (2)
+	* **WilliamVelazquez** [329027] (2)
 
-		
 		Cómo? Te refieres de React? Porque React no es un Framework, es una biblioteca! 😉
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (7)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [329027] (7)
 
-		
 		 **Next.js** es un framework universal de JavaScript que corre en el navegador y servidor. Usa **React.js** para crear plantillas, lo cual hace que desarolladores con experiencia en React.js puedan tener una experiencia de trabajo rápida y productiva.
 
-	* **Juan David Castro (Platzi)** (9)
+	* **Juan David Castro (Platzi)** [329027] (9)
 
-		
 		Jeje!  
 		**Reactjs** es una **librería**. **Nextjs** en cambio si es un **framework** que usa _entre muchas otras herramientas y librerías_ a Reactjs.
 
-	* **Oscar Barajas Tavares (Platzi)** (3)
+	* **Oscar Barajas Tavares (Platzi)** [329027] (3)
 
-		
 		@juandc nos ha dado la mejor explicación, hay que tener en cuenta la diferencia entre librería y framework.
 
-* **jesus-olivares661** (2)
+* **jesus-olivares661** (2) [600969](https://platzi.com/comentario/600969/) 
 
-	
 	veo que en el contenido del curso de R eact-Router tienen SSR (Server Side Render).  
 	No quiero que me pase como con Vue que usando Nuxt basicamente el conocimientos de Vue-Router no es muy util.  
 	Sucede lo mismo con react…?  
 	Sera que mejor aprendo primero Next.js
 
-	* **Miguel Angel Morales Larriega** (3)
+	* **Miguel Angel Morales Larriega** [600969] (3)
 
-		
 		Next.js hace que ya no necesites de React Router, ya que lo tiene incorporado. Por ende no necesitas tener conocimiento de React Router, ya que al crear componentes nuevos estos por default crean su propia ruta.  
 		Ejemplo:  
 		Creo un componente llamado index y otro llamado nosotros.  
@@ -98,14 +85,12 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 		Y asi si creas muchos mas archivos en tu carpeta de pages solo pones el “/” seguido del nombre del archivo y listo.  
 		No hay mas React Router
 
-* **David Ruiz** (2)
+* **David Ruiz** (2) [511341](https://platzi.com/comentario/511341/) 
 
-	
 	Tengo una pregunta, he leido mucho en la comunidad de JavaScript y React, devs que hablan de Gatsby y Next, quisera saber si esos dos se relacionan. Por que estoy algo confundido ya que relaciono más Gatsby como WordPress pero para React.
 
-	* **Juan David Castro (Platzi)** (5)
+	* **Juan David Castro (Platzi)** [511341] (5)
 
-		
 		👋 ¡Hey David! ¿Cómo vas? Ambos son muy parecidos.
 		
 		**Gatsby** está sobretodo orientado a construir blogs y se ha vuelto muy popular porque nos da muy buena experiencia de desarrollo y es relativamente “fácil” extender sus superpoderes usando plugins que instalamos por NPM y configuramos en archivos tipo JSON.
@@ -122,77 +107,64 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 		
 		Si quieres elegir uno de los dos te recomiendo que tomes ambos cursos (yes, ¡pronto tendremos curso de Gatsby aquí en Platzi!). 🎉🙌
 
-* **Jesus Garcia** (2)
+* **Jesus Garcia** (2) [329838](https://platzi.com/comentario/329838/) 
 
-	
 	iniciando curso 😄
 
-* **renny10037** (1)
+* **renny10037** (1) [1100249](https://platzi.com/comentario/1100249/) 
 
-	
 	Tengo que saber typescript para usar next.js?
 
-* **AUREA PAOLA RODRIGUEZ BARRON Rodriguez** (1)
+* **AUREA PAOLA RODRIGUEZ BARRON Rodriguez** (1) [1014843](https://platzi.com/comentario/1014843/) 
 
-	
 	Hola a todos!, hay alguna manera de crear Middlewares personalizados para Next?, además… el “react-helmet” funciona de la misma manera?
 
-* **Rigo Antonio Galicia Barrera** (1)
+* **Rigo Antonio Galicia Barrera** (1) [631282](https://platzi.com/comentario/631282/) 
 
-	
 	Alguien sabe como integrar next con redux?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [631282] (1)
 
-		
 		Hola en la documentación oficial de next hay un ejemplo de como integrar redux <https://github.com/zeit/next.js/tree/canary/examples/with-redux>
 
-* **Anthony Gonzalez** (1)
+* **Anthony Gonzalez** (1) [522097](https://platzi.com/comentario/522097/) 
 
-	
 	Empecemos! 😬
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [517553](https://platzi.com/comentario/517553/) 
 
-	
 	Soy de los que le gusta tener los estilos en archivo aparte, se puede guardar en un archivo aparte styled JSX e importarlos desde el componente? para aprovechar la caracteristica de que lso estilos solo afecten ese componente?
 
-	* **Eduardo Hidalgo Díaz Rugama** (1)
+	* **Eduardo Hidalgo Díaz Rugama** [517553] (1)
 
-		
 		Si. asi como importas módulos en archivos separados, puedes hacer los mismo con styled JSX.
 		
 		También puedes añadir plugins a tu webpack para ser capaz de leer archivos css y exportarlos a tus componentes. Yo así trabajo. Es cómodo porque cuando compilar el bundle productivo puedes juntar todos tus archivos css en uno solo, y al cargar tu webpage solo cargas 1 archivo css
 
-* **Omar Alvarez** (1)
+* **Omar Alvarez** (1) [459766](https://platzi.com/comentario/459766/) 
 
-	
 	Next.Js es el equivalente a Webpack?? o son dos cosas muy distintas
 
-	* **Andres Rodriguez Escudero** (2)
+	* **Andres Rodriguez Escudero** [459766] (2)
 
-		
 		Tengo entendido que Nextjs tiene webpack por dentro para generar los bundle.  
 		`Automatic transpilation and bundling (with webpack and babel)`
 		
 		<https://nextjs.org/docs/>
 
-* **Diego Fernando Berrio Meza** (1)
+* **Diego Fernando Berrio Meza** (1) [412569](https://platzi.com/comentario/412569/) 
 
-	
 	Esta es mi app de podcasts puedes verla <https://podcasts-kpehsmweph.now.sh/>
 
-* **Gonzalo Gras cantou** (1)
+* **Gonzalo Gras cantou** (1) [328786](https://platzi.com/comentario/328786/) 
 
-	
 	VAMO ROBERTTT !!! 😄
 
-* **Lauramduquesa** (1)
+* **Lauramduquesa** (1) [80650](https://platzi.com/comentario/963538/) 
 Hola a todos, tengo un problema de CORS, llamando cualquier API desde componentes, por ejemplo utilizando el useEffect(), debo sobre esc...
 
-	* **Luis Arturo Lira Cerda** (2)
+	* **Luis Arturo Lira Cerda** [80650] (2)
 
-		
 		Hay un paquete de npm llamada cors. Sólo lo instalas con npm i cors y luego en el server lo usas
 		``` 
 		    const cors = require('cors')
@@ -203,35 +175,32 @@ Hola a todos, tengo un problema de CORS, llamando cualquier API desde componente
 		Aunque esa lo he necesitado hacer en API que yo he creado. Para el tema de este curso de Next.js no recuerdo que fuera necesario.  
 		También, sería de gran ayudad que nos compartas tu código y una captura del error que te lanza.
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [53441](https://platzi.com/comentario/517553/) 
 Soy de los que le gusta tener los estilos en archivo aparte, se puede guardar en un archivo aparte styled JSX e importarlos desde el comp...
 
-	* **Eduardo Hidalgo Díaz Rugama** (1)
+	* **Eduardo Hidalgo Díaz Rugama** [53441] (1)
 
-		
 		Si. asi como importas módulos en archivos separados, puedes hacer los mismo con styled JSX.
 		
 		También puedes añadir plugins a tu webpack para ser capaz de leer archivos css y exportarlos a tus componentes. Yo así trabajo. Es cómodo porque cuando compilar el bundle productivo puedes juntar todos tus archivos css en uno solo, y al cargar tu webpage solo cargas 1 archivo css
 
-* **jesusmurf** (1)
+* **jesusmurf** (1) [38486](https://platzi.com/comentario/344611/) 
 Con Nextjs se puede hacer server side rendering con Express, Django… etc? Yo creía que Nextjs era una librería para hacer server side ren...
 
-	* **Oscar Barajas Tavares (Platzi)** (5)
+	* **Oscar Barajas Tavares (Platzi)** [38486] (5)
 
-		
 		Yo he hecho proyectos con Next.js mezclando express y react, te comparto un proyecto que tengo en github donde mezclo estas tecnologías:
 		
 		<https://github.com/gndx/100tifi.co>
 
-* **Andrés Madrigal** (0)
+* **Andrés Madrigal** (0) [37083](https://platzi.com/comentario/329027/) 
 next.js es un framework del framework?
 
-	* **WilliamVelazquez** (2)
+	* **WilliamVelazquez** [37083] (2)
 
-		
 		Cómo? Te refieres de React? Porque React no es un Framework, es una biblioteca! 😉
 
-## 0020. Creando nuestra primera página
+## 0020. Creando nuestra primera página [12074](https://platzi.com/clases/1311-next-js/12074-creando-nuestra-primera-pagina/)
 
 ### Descripción:
 
@@ -241,38 +210,32 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 
 ### Comentarios:
 
-* **eddyarellanes** (15)
+* **eddyarellanes** (15) [328367](https://platzi.com/comentario/328367/) 
 
-	
 	Curso de Unit Testing de Platzi spoiler alert?
 
-	* **ferontv_** (3)
+	* **ferontv_** [328367] (3)
 
-		
 		Ojala !
 
-	* **jesusmurf** (4)
+	* **jesusmurf** [328367] (4)
 
-		
 		Si! un curso de Unit Testing para React con Jest por favor!!
 
-	* **victorAguilera** (1)
+	* **victorAguilera** [328367] (1)
 
-		
 		La documentacion oficial es bastante buena
 
-	* **mariandrea (Platzi)** (2)
+	* **mariandrea (Platzi)** [328367] (2)
 
-		
 		Ya tenemos un curso de Unit Testing con Jasmine: <https://platzi.com/clases/pruebas-unitarias/>
 
-	* **mariandrea (Platzi)** (2)
+	* **mariandrea (Platzi)** [328367] (2)
 
-		
 		Y también un Curso de JavaScript Testing con Jest  
 		<https://platzi.com/clases/js-jest/>
 
-* **Luis Daniel Becerra Avellaneda** (8)
+* **Luis Daniel Becerra Avellaneda** (8) [328334](https://platzi.com/comentario/328334/) 
 
 	```
 	    mkdir podcast
@@ -289,9 +252,8 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 	    
 	```
 
-* **edwintrumpet** (5)
+* **edwintrumpet** (5) [678892](https://platzi.com/comentario/678892/) 
 
-	
 	Usando un componente funcional y Fragment en lugar de div para no enviar cosas de más al navegador se vería así:
 	``` 
 	    import { Fragment } from'react'
@@ -307,34 +269,28 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 	
 	Por lo que veo no es necesario importar React y ReactDOM, pero si es necesario hacerlo con Fragment.
 
-	* **Luis Miguel Rodriguez** (7)
+	* **Luis Miguel Rodriguez** [678892] (7)
 
-		
 		sintaxis corta de fragment <> </>
 
-	* **Alejandro Robleto** (1)
+	* **Alejandro Robleto** [678892] (1)
 
-		
 		muy buena gracias por recordalo edwin
 
-* **roganoalien** (5)
+* **roganoalien** (5) [427067](https://platzi.com/comentario/427067/) 
 
-	
 	qué diferencia hay entre `npm add` y `npm install`?
 
-	* **Danvasem** (3)
+	* **Danvasem** [427067] (3)
 
-		
 		npm add es un ‘alias’ de nom install.
 
-	* **Danvasem** (3)
+	* **Danvasem** [427067] (3)
 
-		
 		npm add es un alias de npm install
 
-* **Sergio Minei** (5)
+* **Sergio Minei** (5) [349021](https://platzi.com/comentario/349021/) 
 
-	
 	## Iniciar un proyecto con Next
 	
 	Instalar las dependencias:
@@ -390,19 +346,16 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 	Pueden ver el resumen completo del curso **[aquí](https://github.com/MineiToshio/CursosPlatzi/tree/master/Curso%20de%20Next.js)**.  
 	Pueden ver mi lista de resúmenes **[aquí](https://github.com/MineiToshio/CursosPlatzi)**.
 
-	* **Ivan Robles** (2)
+	* **Ivan Robles** [349021] (2)
 
-		
 		Excelente trabajo MineiToshio!! 😃
 
-	* **Sergio Minei** (3)
+	* **Sergio Minei** [349021] (3)
 
-		
 		Muchas gracias @elSharmaz
 
-* **Miguel Angel Morales Larriega** (4)
+* **Miguel Angel Morales Larriega** (4) [617097](https://platzi.com/comentario/617097/) 
 
-	
 	//Con un sfc podría haber hecho menos código:
 	
 	const Index = () => (  
@@ -410,21 +363,18 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 	);  
 	export default Index;
 
-	* **Juan González** (1)
+	* **Juan González** [617097] (1)
 
-		
 		export default Index = () => <h1>¡Hola Platzi!</h1>
 
-* **Miguel Angel Morales Larriega** (3)
+* **Miguel Angel Morales Larriega** (3) [617090](https://platzi.com/comentario/617090/) 
 
-	
 	Al ejecutar solo “npm-init” te trae cada valor del objeto del paquete y te hace una serie de preguntas para poder definir cada uno de ellos.
 	
 	En cambio al agregarle “-y” te trae por default los valores.
 
-* **Eduardo P. Rivero** (3)
+* **Eduardo P. Rivero** (3) [502368](https://platzi.com/comentario/502368/) 
 
-	
 	Si como yo les gusta usar una carpeta **src** y mantener todo su código ahi pueden pasarle el root directory a next:
 	``` 
 	    "scripts": {
@@ -435,44 +385,36 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 	
 	De esta manera pueden tener su carpeta **pages** dentro de src. Obviamente funciona con cualquier ruta no solo con **src**.
 
-* **Carlos Sánchez** (2)
+* **Carlos Sánchez** (2) [608549](https://platzi.com/comentario/608549/) 
 
-	
 	si usamos nextjs, no necesitamos webpack?
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [608549] (1)
 
-		
 		No necesitamos instalar webpack porque next lo usa por abajo. En el archivo next.config.js podemos configurar las opciones de webpack
 
-* **JoosCode** (2)
+* **JoosCode** (2) [579863](https://platzi.com/comentario/579863/) 
 
-	
 	tengo una pregunta y disculpen mi novatada… porque funciona index.js si no estoy importando react ??
 
-	* **sampol.90 (Platzi)** (5)
+	* **sampol.90 (Platzi)** [579863] (5)
 
-		
 		Todo archivo `.js` se convertiste en una ruta, es procesado y renderizado. Next se encarga de hacer el import necesario 😃
 
-	* **santiagomarcano** (1)
+	* **santiagomarcano** [579863] (1)
 
-		
 		Es importante resaltar que el archivo debe estar ubicado en la carpeta pages para que Next lo lea como una ruta
 
-* **Daniela Gonzales** (2)
+* **Daniela Gonzales** (2) [568295](https://platzi.com/comentario/568295/) 
 
-	
 	cual es la diferencia de crear un web con next y sin next?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [568295] (4)
 
-		
 		Next ofrece features adicionales como server side render directamente, si no usas next tienes que hacer todo el server side render tu, eso es que tu pagina cargue de inmediato una versión estática mientras carga todos los datos y tu app de react, con esto el usuario siente que el sitio es más fluido y rápido.
 
-	* **Miguel Angel Morales Larriega** (2)
+	* **Miguel Angel Morales Larriega** [568295] (2)
 
-		
 		La diferencia es SSR  
 		Hacerlo sin next js implica que tu aplicación es un CSR (Client Side Render) osea una aplicacion que corre del lado del cliente.  
 		Ahora si tu aplicación es abierta en otro tipo de comoputador o celular que no tiene la misma capacidad que una actual, genera que tu aplicacion se demore en el tiempo de carga y sea solo óptimo en computadores actuales.  
@@ -480,14 +422,12 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 		
 		Espero haberte aclarado las dudas.
 
-* **Carlos Rivas** (2)
+* **Carlos Rivas** (2) [411463](https://platzi.com/comentario/411463/) 
 
-	
 	¿No es mejor usar un “fragment” en vez de un “div”?
 
-	* **LeandroVidela** (2)
+	* **LeandroVidela** [411463] (2)
 
-		
 		Claro! Sería algo así:
 		``` 
 		    classHolaextendsReact.Component{
@@ -505,12 +445,11 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 		    
 		```
 
-	* **Martin L.** (1)
+	* **Martin L.** [411463] (1)
 
-		
 		pensaba lo mismo
 
-	* **edg_colon** (1)
+	* **edg_colon** [411463] (1)
 
 		```
 		    functionHola () {
@@ -527,22 +466,19 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 		    
 		```
 
-* **Sergio Minei** (2)
+* **Sergio Minei** (2) [346783](https://platzi.com/comentario/346783/) 
 
-	
 	La mascota de Github del fondo del video está tomando PlatziCola! 😮
 
-* **Juan  Reyes** (2)
+* **Juan  Reyes** (2) [328345](https://platzi.com/comentario/328345/) 
 
-	
 	30 a 40 Millones de años xD
 
-* **Carlos Rivas** (2)
+* **Carlos Rivas** (2) [44748](https://platzi.com/comentario/411463/) 
 ¿No es mejor usar un “fragment” en vez de un “div”?
 
-	* **LeandroVidela** (2)
+	* **LeandroVidela** [44748] (2)
 
-		
 		Claro! Sería algo así:
 		``` 
 		    classHolaextendsReact.Component{
@@ -560,12 +496,11 @@ Esto no es solamente para Next, puede aplicar para cualquier proyecto que hagamo
 		    
 		```
 
-* **alejandrocabreratavara** (2)
+* **alejandrocabreratavara** (2) [42516](https://platzi.com/comentario/387538/) 
 Al momento de crear nuestro componente de react como clase , es decir class extends React.Component { … No es necesario importar react? …...
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [42516] (1)
 
-		
 		Es mejor si al momento de importar React haces esto:
 		``` 
 		    importReact, { Component } from 'react'
@@ -575,9 +510,8 @@ Al momento de crear nuestro componente de react como clase , es decir class exte
 		    
 		```
 
-* **José Antonio aparicio gallego** (1)
+* **José Antonio aparicio gallego** (1) [1041822](https://platzi.com/comentario/1041822/) 
 
-	
 	Usas la clase de React.Component sin importarla, me puedes explicar como puede funcionar eso que tu haces por que normalmente no funciona así,
 	
 	tendrías que poner al principio, pero yo no veo por ningún sitio eso  
@@ -585,41 +519,34 @@ Al momento de crear nuestro componente de react como clase , es decir class exte
 	
 	import React, { PureComponent } from “react”
 
-* **Didier Zúñiga** (1)
+* **Didier Zúñiga** (1) [1015064](https://platzi.com/comentario/1015064/) 
 
-	
 	Es decir que con Next también se hacen cosas que se hacen con con webpack?
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1003878](https://platzi.com/comentario/1003878/) 
 
-	
 	Que gran clase, no conocia Next y por lo que veo es un gran framework, para realizar aplicaciones de todo tipo de tamaños!
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [783824](https://platzi.com/comentario/783824/) 
 
-	
 	buenicima esta clase me gusto mucho y se que se vanza muy rapido
 
-* **Juancarlos Salcedo Terán** (1)
+* **Juancarlos Salcedo Terán** (1) [764008](https://platzi.com/comentario/764008/) 
 
-	
 	Como soluciono esto!!![![error yarn run dev.png](https://static.platzi.com/media/user_upload/error%20yarn%20run%20dev-e9291a0c-f4b6-4d9c-a1f9-641faa73d26f.jpg)
 
-	* **onlinejaime** (2)
+	* **onlinejaime** [764008] (2)
 
-		
 		Tal y como te pone el error, verifica que no hayas hecho ningún error en la escritura del query.
 		
 		Si este era el fallo, dame una estrellita!!!
 
-	* **Juancarlos Salcedo Terán** (1)
+	* **Juancarlos Salcedo Terán** [764008] (1)
 
-		
 		NO eh podido solucionar esto aun…
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [764008] (1)
 
-		
 		¡Hola Juan! El error se debe a una configuración del `package.json` debes tener el `"browserlist"` de esta manera:
 		``` 
 		    "browserslist": {
@@ -631,9 +558,8 @@ Al momento de crear nuestro componente de react como clase , es decir class exte
 		    
 		```
 
-	* **jhon manuel angulo moncada** (1)
+	* **jhon manuel angulo moncada** [764008] (1)
 
-		
 		Puede ser que tu problema sea por que estas pasando return y el <div> en lineas diferentes prueba así:
 		``` 
 		    export defaultclassextendsReact.Component{
@@ -647,35 +573,30 @@ Al momento de crear nuestro componente de react como clase , es decir class exte
 		    
 		```
 
-* **JF2C** (1)
+* **JF2C** (1) [512861](https://platzi.com/comentario/512861/) 
 
-	
 	Quizás usar más const que let
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [430250](https://platzi.com/comentario/430250/) 
 
-	
 	Scripts indispensables  
 	**dev:** Entorno de Desarrollo (livereload, otros)  
 	**build y start:** Entorno de Producción.
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [430242](https://platzi.com/comentario/430242/) 
 
-	
 	nvm init -y  
 	Comando para crear el archivo de configuración de un proyecto en Node
 
-* **alejandrocabreratavara** (1)
+* **alejandrocabreratavara** (1) [387538](https://platzi.com/comentario/387538/) 
 
-	
 	Al momento de crear nuestro componente de react como clase , es decir  
 	class extends React.Component { …
 	
 	No es necesario importar react? … ni darle nombre al componente?
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [387538] (1)
 
-		
 		Es mejor si al momento de importar React haces esto:
 		``` 
 		    importReact, { Component } from 'react'
@@ -685,37 +606,31 @@ Al momento de crear nuestro componente de react como clase , es decir class exte
 		    
 		```
 
-* **salinash2000** (1)
+* **salinash2000** (1) [385355](https://platzi.com/comentario/385355/) 
 
-	
 	en este caso no se requiere hacer el import de react?
 
-* **Byhako** (1)
+* **Byhako** (1) [384846](https://platzi.com/comentario/384846/) 
 
-	
 	¿Como puedo configurar el puerto en el que corre si no tengo webpack?
 
-	* **sergiodxa** (3)
+	* **sergiodxa** [384846] (3)
 
-		
 		Usando `next -p 3001` o `next start -p 3001` para cambiarlo al puerto 3001.
 
-	* **Sebastian Cardoso Castillo** (1)
+	* **Sebastian Cardoso Castillo** [384846] (1)
 
-		
 		También puedes usar **npm run dev – -p** 3001 para cambiarlo al puerto 3001
 
-* **Byhako** (1)
+* **Byhako** (1) [384840](https://platzi.com/comentario/384840/) 
 
-	
 	¿Cual es la diferencia entre los scrips build y start?
 
-	* **sergiodxa** (3)
+	* **sergiodxa** [384840] (3)
 
-		
-		  * `next` inicia la aplicación en modo desarrollo
-		  * `next build` construye los archivos para producción
-		  * `next start` uso los archivos del build para iniciar la aplicación en modo producción
+		* `next` inicia la aplicación en modo desarrollo
+		* `next build` construye los archivos para producción
+		* `next start` uso los archivos del build para iniciar la aplicación en modo producción
 		
 		
 		
@@ -723,135 +638,121 @@ Al momento de crear nuestro componente de react como clase , es decir class exte
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Byhako** (1)
+	* **Byhako** [384840] (1)
 
-		
 		Muchas gracias. Ahora si todo claro. 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **jescobarospina** (1)
+	* **jescobarospina** [384840] (1)
 
-		
 		Sergio como vas? de casualidad sabes como montar una app de Next en IIS?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Daniee** (1)
+* **Daniee** (1) [381357](https://platzi.com/comentario/381357/) 
 
-	
 	seria recomendable utilizar webpack ? o el build que hace next ya esta suficientemente optimizado ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [381357] (4)
 
-		
 		Next ya tiene webpack optimizado para trabajar, puedes configurar webpack si necesitas cosas especificas <https://nextjs.org/docs#customizing-webpack-config>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Oscar Barajas Tavares (Platzi)** (1)
+* **Oscar Barajas Tavares (Platzi)** (1) [338901](https://platzi.com/comentario/338901/) 
 
-	
 	No debemos olvidar utilizar  
 	`npm init -y`
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Oscar Fernando Segovia Julia** (1)
+* **Oscar Fernando Segovia Julia** (1) [330242](https://platzi.com/comentario/330242/) 
 
-	
 	No se puede usar Template en lugar de Div?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [330242] (2)
 
-		
 		No, los navegadores renderizan el contenido de la etiqueta template como texto plano por lo tanto con react puede fallar, la práctica más común es crear un contenedor usando div.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Martín Leyva** (1)
+* **Martín Leyva** (1) [328372](https://platzi.com/comentario/328372/) 
 
-	
 	Una de las restricciones que tenemos al desarrollar en React, es que cada componente debe devolver un solo componente de HTML.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Martín Leyva** (1)
+* **Martín Leyva** (1) [328342](https://platzi.com/comentario/328342/) 
 
-	
 	El siguiente paso es **_agregar las dependencias_** :  
 	npm add next react react-dom
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Kevin Humberto León Santamaria** (1)
+* **Kevin Humberto León Santamaria** (1) [74721](https://platzi.com/comentario/857844/) 
 No me corre el entorno de desarrollo, ya intente borrando la carpeta node_modules y el archivo package-lock.json, luego borre el cache y ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [74721] (2)
 
-		
 		Hola! Parece que en la pages del proyecto no está declarado un index.js, asegurate de que si exista un archivo index.js dentro de pages y asegurate de estar en la carpeta correcta 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Byron Miguel Piedrahita Hernandez** (1)
+* **Byron Miguel Piedrahita Hernandez** (1) [65493](https://platzi.com/comentario/692542/) 
 Que mas se necesita tener instalado aparte de node.js antes de comenzar este proyecto?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [60545](https://platzi.com/comentario/607283/) 
 ¿Se pueden usar componentes funcionales?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **AlexGarrixen** (1)
+	* **AlexGarrixen** [60545] (1)
 
-		
 		Hola edwin claro que si, si requieres crear un estado puedes hacerlo con hooks
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **JoosCode** (1)
+* **JoosCode** (1) [58650](https://platzi.com/comentario/579863/) 
 tengo una pregunta y disculpen mi novatada… porque funciona index.js si no estoy importando react ??
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **sampol.90 (Platzi)** (5)
+	* **sampol.90 (Platzi)** [58650] (5)
 
-		
 		Todo archivo `.js` se convertiste en una ruta, es procesado y renderizado. Next se encarga de hacer el import necesario 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Byhako** (1)
+* **Byhako** (1) [42254](https://platzi.com/comentario/384846/) 
 ¿Como puedo configurar el puerto en el que corre si no tengo webpack?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **sergiodxa** (3)
+	* **sergiodxa** [42254] (3)
 
-		
 		Usando `next -p 3001` o `next start -p 3001` para cambiarlo al puerto 3001.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Byhako** (1)
+* **Byhako** (1) [42252](https://platzi.com/comentario/384840/) 
 ¿Cual es la diferencia entre los scrips build y start?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **sergiodxa** (3)
+	* **sergiodxa** [42252] (3)
 
-		
-		  * `next` inicia la aplicación en modo desarrollo
-		  * `next build` construye los archivos para producción
-		  * `next start` uso los archivos del build para iniciar la aplicación en modo producción
+		* `next` inicia la aplicación en modo desarrollo
+		* `next build` construye los archivos para producción
+		* `next start` uso los archivos del build para iniciar la aplicación en modo producción
 		
 		
 		
@@ -859,30 +760,27 @@ tengo una pregunta y disculpen mi novatada… porque funciona index.js si no est
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Oscar Fernando Segovia Julia** (1)
+* **Oscar Fernando Segovia Julia** (1) [37188](https://platzi.com/comentario/330242/) 
 No se puede usar Template en lugar de Div?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [37188] (2)
 
-		
 		No, los navegadores renderizan el contenido de la etiqueta template como texto plano por lo tanto con react puede fallar, la práctica más común es crear un contenedor usando div.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Martín Leyva** (0)
+* **Martín Leyva** (0) [328363](https://platzi.com/comentario/328363/) 
 
-	
 	 **next** automaticamente busca todas las páginas en la carpeta pages
 	
 	El **router** lo que busca es el mismo nombre del la ruta ( **path** ) que tenemos
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Martín Leyva** (0)
+* **Martín Leyva** (0) [328338](https://platzi.com/comentario/328338/) 
 
-	
 	El primer paso para todo proyecto de JavaScript es crear un archivo **_package.json_** que tiene información basica para el proyecto.
 	
 	La foma mas fácil de hacerlo es con:
@@ -891,7 +789,7 @@ No se puede usar Template en lugar de Div?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-## 0030. Styled JSX
+## 0030. Styled JSX [12075](https://platzi.com/clases/1311-next-js/12075-styled-jsx/)
 
 ### Descripción:
 
@@ -902,17 +800,16 @@ Vamos a hablar en esta clase de Styled JSX que es el sistema de estilos que mane
 
 ### Comentarios:
 
-* **Sergio Minei** (7)
+* **Sergio Minei** (7) [349022](https://platzi.com/comentario/349022/) 
 
-	
 	## Style JSX
 	
 	**Styled JSX** que es el sistema de estilos que maneja Next.js.
 	
 	¿Por qué usar Style JSX?
 	
-	  * Es más acorde a React.
-	  * Evitamos problemas al escalar.
+	* Es más acorde a React.
+	* Evitamos problemas al escalar.
 	
 	
 	
@@ -970,9 +867,8 @@ Vamos a hablar en esta clase de Styled JSX que es el sistema de estilos que mane
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jhon manuel angulo moncada** (6)
+* **jhon manuel angulo moncada** (6) [822194](https://platzi.com/comentario/822194/) 
 
-	
 	para next “9.1.3”
 	
 	ya no se usa “static”, en su reemplazo se usa “public”
@@ -988,9 +884,8 @@ Vamos a hablar en esta clase de Styled JSX que es el sistema de estilos que mane
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **ferontv_** (6)
+* **ferontv_** (6) [328616](https://platzi.com/comentario/328616/) 
 
-	
 	Listo !
 	
 	![](https://firebasestorage.googleapis.com/v0/b/pruebas-cfb21.appspot.com/o/Captura%20de%20pantalla%202018-07-10%20a%20la\(s\)%2022.54.57-aa7cbfa9-6039-4092-9ee6-820b6a7e2ee1.jpg?alt=media&token=7718de87-ff2b-453a-9f2f-5b4934d7a7de)
@@ -1046,38 +941,34 @@ Vamos a hablar en esta clase de Styled JSX que es el sistema de estilos que mane
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Henry Villavicencio** (3)
+* **Henry Villavicencio** (3) [1047090](https://platzi.com/comentario/1047090/) 
 Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una llamada public. A mí no me cargaban las imágenes y así pude soluciona
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Cesar Augusto Garzón Puentes** (1)
+	* **Cesar Augusto Garzón Puentes** [1047090] (1)
 
-		
 		Exactamente.  
 		<https://nextjs.org/docs/basic-features/static-file-serving>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Luis Daniel Becerra Avellaneda** (3)
+* **Luis Daniel Becerra Avellaneda** (3) [328393](https://platzi.com/comentario/328393/) 
 
-	
 	Reto Completo: <https://podcast-bynuniycwt.now.sh/FJS>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **johnaagudelo** (2)
+* **johnaagudelo** (2) [1044932](https://platzi.com/comentario/1044932/) 
 
-	
 	En la nueva versión los assets se ponen dentro de una carpeta “public” y se accede desde el componente solo ingresando el nombre del asset.
 	
 	`<img src="/platzi-logo.png" alt="logo platzi" />`
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Alan Mena** (2)
+* **Alan Mena** (2) [833228](https://platzi.com/comentario/833228/) 
 
-	
 	Reto cumplido:
 	``` 
 	    import { Fragment } from'react';
@@ -1116,16 +1007,14 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jorge Mendez Ortega** (1)
+	* **Jorge Mendez Ortega** [833228] (1)
 
-		
 		good
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Luis Salazar** (2)
+* **Luis Salazar** (2) [630104](https://platzi.com/comentario/630104/) 
 
-	
 	Les recomiendo a todos los chicos para mejor manejo de componentes con React, si vienen con poco conocimiento, crear un componente funcional hace todo mucho mas entendible.
 	``` 
 	    import React from"react";
@@ -1171,25 +1060,22 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **josdanind** (1)
+	* **josdanind** [630104] (1)
 
-		
 		Cuando creo un componente y lo importo a mi index.js, se genera un error ocacionado por la etiqueta <style jsx>. ¿Importas algún módulo para porder renderizar el componente?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (2)
+* **David Daniel Castillo Nava** (2) [345669](https://platzi.com/comentario/345669/) 
 
-	
 	 **Mi reto!!**
 	
 	![](https://s3.amazonaws.com/davecast/reto.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jsechirinos** (2)
+* **jsechirinos** (2) [333899](https://platzi.com/comentario/333899/) 
 
-	
 	**Importante esta clase**
 	
 	`examen spoiler alert`
@@ -1254,21 +1140,21 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jhurtadojerves** (2)
-![](https://i.imgur.com/E188nEe.png)
+* **jhurtadojerves** (2) [328832](https://platzi.com/comentario/328832/) 
+	
+	![](https://i.imgur.com/E188nEe.png)
 	
 	El código del componente en github: <https://github.com/jhurtadojerves/platzi-podcasts/blob/master/pages/about.js>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **edwintrumpet** (2)
+* **edwintrumpet** (2) [60547](https://platzi.com/comentario/607314/) 
 ¿Se puede usar Sass? ¿Se pueden crear los estilos en una hoja aparte?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **santiagomarcano** (2)
+	* **santiagomarcano** [60547] (2)
 
-		
 		Hola Edwin. Si es posible! Puedes usar tanto hojas de estilo como módulos CSS.
 		
 		<https://github.com/zeit/next-plugins/tree/master/packages/next-sass>
@@ -1277,41 +1163,36 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Luis Fernando Valderrama Gastiaburu** (1)
+* **Luis Fernando Valderrama Gastiaburu** (1) [1097846](https://platzi.com/comentario/1097846/) 
 
-	
 	Completed  
 	![page about.png](https://static.platzi.com/media/user_upload/page%20about-2ae70dc7-5d43-43d6-9146-c0a7b3839e4f.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Sánchez** (1)
+* **David Sánchez** (1) [1086100](https://platzi.com/comentario/1086100/) 
 
-	
 	Aqui esta la mia.  
 	![Screenshot NextJS](https://i.imgur.com/0s2UfXE.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Roberto S. Sampayo** (1)
+* **Roberto S. Sampayo** (1) [1074011](https://platzi.com/comentario/1074011/) 
 
-	
 	Mi Pagina about:
 	
 	![](https://i.imgur.com/h3zWuqB.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1003922](https://platzi.com/comentario/1003922/) 
 
-	
 	Los styled jsx nos permiten crear los estilos css dentro del mismo componente, permitiéndonos crear componentes y aplicaciones muchas mas reactivas y poderosas para nuestros proyectos!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Le_MaliX** (1)
+* **Le_MaliX** (1) [941457](https://platzi.com/comentario/941457/) 
 
-	
 	Aqui mi "about"  
 	Código:
 	``` 
@@ -1364,14 +1245,14 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Oscar Lozano** (1)
-![reto next.JPG](https://static.platzi.com/media/user_upload/reto%20next-344016c9-af92-42cc-acf6-af55dbb79256.jpg)
+* **Oscar Lozano** (1) [928509](https://platzi.com/comentario/928509/) 
+	
+	![reto next.JPG](https://static.platzi.com/media/user_upload/reto%20next-344016c9-af92-42cc-acf6-af55dbb79256.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jaime David Burbano Montoya** (1)
+* **Jaime David Burbano Montoya** (1) [907503](https://platzi.com/comentario/907503/) 
 
-	
 	Les comparto mi resultado
 	
 	**Código**
@@ -1457,20 +1338,19 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jaime David Burbano Montoya** (1)
+	* **Jaime David Burbano Montoya** [907503] (1)
 ![](https://ibb.co/rxjgJJB)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Ernesto Vizcaíno Alvarado** (1)
+* **Ernesto Vizcaíno Alvarado** (1) [875887](https://platzi.com/comentario/875887/) 
 
-	
 	Reto cumplido  
 	![Captura de Pantalla 2019-12-20 a la\(s\) 9.55.43 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-12-20%20a%20la%28s%29%209.55.43%20p.%C2%A0m.-180646ff-0904-4e10-90fe-8d2bf55f33e6.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Betty Rossana Jimenez Cedeño** (1)
+* **Betty Rossana Jimenez Cedeño** (1) [873164](https://platzi.com/comentario/873164/) 
 
 	```
 	    <code>
@@ -1515,9 +1395,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [870341](https://platzi.com/comentario/870341/) 
 
-	
 	Reto completado:
 	``` 
 	    import { Fragment } from "react";
@@ -1554,17 +1433,15 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [870321](https://platzi.com/comentario/870321/) 
 
-	
 	Esta implementación que utiliza `NextJS` es similar a lo que se genera con los `WebComponents` nativos de `JS` ya que me suena familiar lo de que solo los estilos afecten al componente me suena como el  
 	`Shadow Dom` de los `WebComponents`.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [827436](https://platzi.com/comentario/827436/) 
 
-	
 	reto cumplido
 	``` 
 	    export default class extends React.Component {
@@ -1606,39 +1483,35 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Manuel Ojeda** (1)
+* **Manuel Ojeda** (1) [826313](https://platzi.com/comentario/826313/) 
 
-	
 	Reto completado!  
 	![chrome_1hFsFGS1S1.png](https://static.platzi.com/media/user_upload/chrome_1hFsFGS1S1-39d751de-0aef-440f-8f1c-f05d825e0120.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [783999](https://platzi.com/comentario/783999/) 
 
-	
 	les comparto este link de los codigos de colores html para que les pongan los que gusten  
 	<https://html-color-codes.info/codigos-de-colores-hexadecimales/>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [783847](https://platzi.com/comentario/783847/) 
 
-	
 	solo puedo decir wow esta parte del uso de los estilos si que fue genial… me gusto mucho.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **onlinejaime** (1)
+* **onlinejaime** (1) [768867](https://platzi.com/comentario/768867/) 
 
-	
 	¿¿Por qué nadie de todos los que han hecho el reto, ha hecho lo que tocaba??  
 	Se supone que hay que hacer una página que, desde el index vaya al about… ¿?  
 	En fin…
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **luis_felipe** (1)
+* **luis_felipe** (1) [752071](https://platzi.com/comentario/752071/) 
 
 	```
 	    export default class extends React.Component{
@@ -1680,16 +1553,14 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Alejandro Trejo Cuxim** (1)
+* **Sergio Alejandro Trejo Cuxim** (1) [710211](https://platzi.com/comentario/710211/) 
 
-	
 	Que sencillo parece ser Next.js por ahora.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Houses** (1)
+* **Houses** (1) [702536](https://platzi.com/comentario/702536/) 
 
-	
 	Así me quedo a mi…
 	``` 
 	    exportdefaultclassextendsReact.Component {
@@ -1740,9 +1611,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Manuel Garcia** (1)
+* **Manuel Garcia** (1) [666757](https://platzi.com/comentario/666757/) 
 
-	
 	Pues, no es mucho pero es trabajo honesto haha…
 	``` 
 	    export default class extends React.Component{
@@ -1797,9 +1667,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Cesar Octavio de Jesús Meza Carrillo** (1)
+* **Cesar Octavio de Jesús Meza Carrillo** (1) [634864](https://platzi.com/comentario/634864/) 
 
-	
 	Asi es como me quedo a mi:
 	``` 
 	    export default class extends React.Component{
@@ -1848,9 +1717,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Miguel Angel Morales Larriega** (1)
+* **Miguel Angel Morales Larriega** (1) [617116](https://platzi.com/comentario/617116/) 
 
-	
 	Si utilizas un framework de css en deves de css propio. La manera de importarlo sería en una Master Page.
 	
 	  1. Creo el archivo Master.js y dentro importo head, que vendría a ser parte de next.
@@ -1894,9 +1762,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [605905](https://platzi.com/comentario/605905/) 
 
-	
 	Así quedó 😄  
 	![](https://postimg.cc/c6J8xVzL)
 	``` 
@@ -1959,78 +1826,68 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [605905] (1)
 
-		
 		![Y así se ve](https://postimg.cc/c6J8xVzL)  
 		[](https://postimg.cc/c6J8xVzL)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [605905] (1)
 
-		
 		Ay, no salió bien, dejo el link:  
 		<https://postimg.cc/c6J8xVzL>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [594714](https://platzi.com/comentario/594714/) 
 
-	
 	se puede usar sass, stylus, etc?  
 	en el caso de que si, deberían ser globales?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Velasquez** (1)
+* **Jorge Velasquez** (1) [592193](https://platzi.com/comentario/592193/) 
 
-	
 	My solution  
 	![reto1.png](https://static.platzi.com/media/user_upload/reto1-631afd2b-9307-43b3-8270-f9946c44ee90.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Cristihan Albarran** (1)
+	* **Cristihan Albarran** [592193] (1)
 
-		
 		nice!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **RBN1993** (1)
+* **RBN1993** (1) [557691](https://platzi.com/comentario/557691/) 
 
-	
 	Hola, a alguien más le aparece este error en la consola del navegador: [](index.js:1 Warning: the ‘url’ property is deprecated. <https://err.sh/zeit/next.js/url-deprecated>)  
 	Si alguno lo ha resuelto, ¿me puede decir cómo? gracias.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **jobcoronadoduran** (2)
+	* **jobcoronadoduran** [557691] (2)
 
-		
 		este error aparece porque podrías estar utilizando un ancla sin envolverlo con un Link esto puedes verlo mejor con esta clase.  
 		<https://platzi.com/clases/1311-next-js/12078-utilizando-ampltlinkampgt/>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **jobcoronadoduran** (2)
+	* **jobcoronadoduran** [557691] (2)
 
-		
 		También sucede cuando cuando tienes React Dev Tools activado
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **RBN1993** (1)
+	* **RBN1993** [557691] (1)
 
-		
 		Gracias, pero me parece que actualizando el package.json se solucionó. Ya acabe el curso y no lo he podido comprobar.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alexjcm** (1)
+* **alexjcm** (1) [554666](https://platzi.com/comentario/554666/) 
 
-	
 	Tarea cumplida!  
 	![](https://i.postimg.cc/XvGZpLBQ/nextjs.png)
 	``` 
@@ -2067,9 +1924,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jessica Tatiana Camacho** (1)
+* **Jessica Tatiana Camacho** (1) [533580](https://platzi.com/comentario/533580/) 
 
-	
 	mi página
 	``` 
 	    exportdefaultclassextendsReact.Component{
@@ -2116,7 +1972,7 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Adrian Avila** (1)
+* **Adrian Avila** (1) [517971](https://platzi.com/comentario/517971/) 
 
 	```
 	           <style jsx>{`
@@ -2161,18 +2017,16 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Gerardo Manuel Reyes Fernández** (1)
+* **Gerardo Manuel Reyes Fernández** (1) [517360](https://platzi.com/comentario/517360/) 
 
-	
 	Tiene alguna desventaja o consideración usar server side rendering a parte de lo de las apis?  
 	Se me ocurre que en caso de tener millones de usuarios tendríamos que tener más servidores que con client side rendering(ejemplo).  
 	Me gustaría saber cuando si y cuando no o si siempre es preferible usar Server Side Rendering
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Hidalgo Díaz Rugama** (3)
+	* **Eduardo Hidalgo Díaz Rugama** [517360] (3)
 
-		
 		Siempre es preferible usar Server Side Rendering.
 		
 		El problema de “CSR” (Client side rendering) es que nunca vas a poder optimizar tu página al 100%. Debido a que cargas tu html vacio, y luego cargas el js con el que viene React (o lo que sea), tu SEO no viene incluido. Tu contenido no viene incluido. Viene un html vacio.
@@ -2187,8 +2041,9 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **MichaelSornoza** (1)
-![](https://lh4.googleusercontent.com/3VMctI-Wesxk2d3TdOEoKubMX4oA-im916BtvUUuHWMLMIoIUKkbg3g_Diua0wC_ZEn3IuM9_WzORA=w1366-h667)
+* **MichaelSornoza** (1) [485171](https://platzi.com/comentario/485171/) 
+	
+	![](https://lh4.googleusercontent.com/3VMctI-Wesxk2d3TdOEoKubMX4oA-im916BtvUUuHWMLMIoIUKkbg3g_Diua0wC_ZEn3IuM9_WzORA=w1366-h667)
 	``` 
 	    exportdefaultclassextendsReact.Component {
 	      render () {
@@ -2230,23 +2085,20 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **s99sergio** (1)
+* **s99sergio** (1) [455474](https://platzi.com/comentario/455474/) 
 
-	
 	Hola, soy nuevo por aqui XD, me esta encantando este curso, solo tengo una duda algo tonta XD, ¿Como se saca el simbolo ` en el teclado? D:
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **happiestack** (1)
+	* **happiestack** [455474] (1)
 
-		
 		Ahi depende totalmente de tu teclado fisico y el idioma en que este configurado. Intenta usando ascii con alt+96 o alt+60
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Efrén Sánchez** (1)
+* **Efrén Sánchez** (1) [433493](https://platzi.com/comentario/433493/) 
 
-	
 	Yo hice un Time line: 👇🏼👇🏼
 	``` 
 	    <div>
@@ -2312,14 +2164,13 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Andres Rodriguez Escudero** (1)
+	* **Andres Rodriguez Escudero** [433493] (1)
 
-		
 		Y como se ve?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [430289](https://platzi.com/comentario/430289/) 
 
 	```
 	    exportdefaultclassextendsReact.Component{
@@ -2354,7 +2205,7 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [430284](https://platzi.com/comentario/430284/) 
 
 	```
 	    exportdefaultclassextendsReact.Component{
@@ -2388,77 +2239,67 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [430273](https://platzi.com/comentario/430273/) 
 
-	
 	**< style jsx>** Solo se puede crear estilo por el componente activo.
 	
 	**<style jsx global> ** Con este se puede crear estilo a toda la pagina.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **ma_angelica_romero** (1)
+* **ma_angelica_romero** (1) [427596](https://platzi.com/comentario/427596/) 
 
-	
 	Que carrusel puedo usar en nextjs?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **nandoalvarado092** (1)
+	* **nandoalvarado092** [427596] (1)
 
-		
 		¡Hola! estuve revisando y encontre este muy bueno.  
 		<https://www.npmjs.com/package/react-responsive-carousel>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **nandoalvarado092** (1)
+	* **nandoalvarado092** [427596] (1)
 
-		
 		En realidad me lo recomendó un amigo, antes solía utilizar el owl-carousel, pero como me comento el, tiene la dependencia de jQuery.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **eltenis** (1)
+* **eltenis** (1) [354393](https://platzi.com/comentario/354393/) 
 
-	
 	Como se puede añadir un libreria como bootstrapp??? ya que no se donde poner el link he instalado en npm bootrstapp pero no hace nada
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (1)
+* **Sergio Minei** (1) [346809](https://platzi.com/comentario/346809/) 
 
-	
 	Si tengo estilos globales, ¿en qué parte me recomiendan ponerlo? ¿En un archivo css aparte? ¿como un Style JSX en el primer componente?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (1)
+* **WilliamVelazquez** (1) [328899](https://platzi.com/comentario/328899/) 
 
-	
 	¿Cómo prueban el código para que se vea así en la imagen del celular? 😮
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [328899] (2)
 
-		
 		Hola william en google chrome simplemente haciendo la ventana de ese tamaño, pero si quieres tener tamaños más expecíficos presiona F12, y haz click en el siguiente ícono:
 		
 		![iconodeformasDePantalla.PNG](https://static.platzi.com/media/user_upload/iconodeformasDePantalla-38b52674-514a-4ffa-b621-eee4f2eac94f.jpg)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (0)
+	* **WilliamVelazquez** [328899] (0)
 
-		
 		Gracias Celis! ¿Y si me gustaría que apareciera de fondo el móbil (en este caso el iPhone)?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Imderf** (2)
+	* **Imderf** [328899] (2)
 
-		
 		Sencillo:  
 		1.- Lo primero que haces, será abrir Chrome, y pruebas con una URL cualquiera
 		
@@ -2472,9 +2313,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (4)
+	* **robertomgonzalez** [328899] (4)
 
-		
 		La mejor forma de hacer esto es usando el emulador de [Android Studio](https://developer.android.com/studio/), que viene con imágenes que emulan perfectamente un Pixel 2/Nexus 5X/etc.  
 		También las podés conectar con tu Chrome para poder debuggear en un device real, lo que es genial para resolver problemas específicos de Android o iOS.
 		
@@ -2482,17 +2322,15 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (0)
+	* **WilliamVelazquez** [328899] (0)
 
-		
 		Muchas gracias @robertomgonzalez 😃  
 		Gracias por el excelente curso!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **edwintrumpet** (1)
+	* **edwintrumpet** [328899] (1)
 
-		
 		Puede abrir la aplicación conectando el celular a la misma red wifi que está conectado el computador en el que lo está desarrollando.  
 		Pero ahí no servirá poner localhost sino tiene que poner la dirección de ip local que le pertenece a su computador en esa red.  
 		En windows se consigue por consola con el comando ipconfig y en linux con ifconfig.  
@@ -2501,9 +2339,8 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Wladimir Hernández** (1)
+* **Wladimir Hernández** (1) [328674](https://platzi.com/comentario/328674/) 
 
-	
 	Reto Cumplido
 	``` 
 	    exportdefaultclassextendsReact.Component {
@@ -2558,82 +2395,77 @@ Next ha cambiado un poco. Ahora debes colocar la carpeta static dentro de una ll
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **José Antonio aparicio gallego** (1)
+* **José Antonio aparicio gallego** (1) [84047](https://platzi.com/comentario/1041800/) 
 A mí me gustaría saber donde está ubicado tsconfig
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [84047] (1)
 
-		
 		Esa es una buena pregunta, imagino que en algún directorio dentro de node_modules y de nextjs 🤔pero… ¿para qué quieres saber? creo que si quieres modificar la configuración default lo que debes hacer es crear tu propio tsconfig en el directorio raíz de tu proyecto.
 		
 		Aquí la [documentación](https://nextjs.org/docs/basic-features/typescript) al respecto.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jaime David Burbano Montoya** (1)
+* **Jaime David Burbano Montoya** (1) [77659](https://platzi.com/comentario/907428/) 
 Si los estilos se manejan de esta manera, ¿Significa que puedo ponerle la misma clase a diferentes etiquetas en diferentes componentes y ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [77659] (1)
 
-		
 		¡Hola, Jaime!
 		
 		Significa que tus estilos solo se van a aplicar a los elementos de tu componente y no en el resto de la aplicación. Aunque también existe una opción para darle estilos a elementos de cualquier parte del documento. Pásate un rato por estas lecturas:
 		
-		  * <https://github.com/zeit/styled-jsx#getting-started>
-		  * <https://github.com/zeit/styled-jsx#global-styles>
+		* <https://github.com/zeit/styled-jsx#getting-started>
+		* <https://github.com/zeit/styled-jsx#global-styles>
 		
 		
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Ramiro Nicolas D'Accorso Rosati** (1)
+* **Ramiro Nicolas D'Accorso Rosati** (1) [71651](https://platzi.com/comentario/801639/) 
 Estoy teniendo problemas: al aplicar estilos globales, dejan de funcionar los estilos comunes. Porque sera? Dejo mi codigo. export ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Ramiro Nicolas D'Accorso Rosati** (1)
+	* **Ramiro Nicolas D'Accorso Rosati** [71651] (1)
 
-		
 		Solved! no me den bola!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Miguel Rivera** (1)
+* **Miguel Rivera** (1) [68194](https://platzi.com/comentario/736519/) 
 Como puedo intrducir una hoja de estilos global antes del cierre de html, o como se puede evitar el render blocking de google page insights
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhon Alexander Perez Valencia** (1)
+* **Jhon Alexander Perez Valencia** (1) [59697](https://platzi.com/comentario/594714/) 
 se puede usar sass, stylus, etc? en el caso de que si, deberían ser globales?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **RBN1993** (1)
+* **RBN1993** (1) [56845](https://platzi.com/comentario/557691/) 
 Hola, a alguien más le aparece este error en la consola del navegador: [](index.js:1 Warning: the ‘url’ property is deprecated. 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **jobcoronadoduran** (2)
+	* **jobcoronadoduran** [56845] (2)
 
-		
 		este error aparece porque podrías estar utilizando un ancla sin envolverlo con un Link esto puedes verlo mejor con esta clase.  
 		<https://platzi.com/clases/1311-next-js/12078-utilizando-ampltlinkampgt/>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gerardo Manuel Reyes Fernández** (1)
+* **Gerardo Manuel Reyes Fernández** (1) [53422](https://platzi.com/comentario/517360/) 
 Tiene alguna desventaja o consideración usar server side rendering a parte de lo de las apis? Se me ocurre que en caso de tener millones ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Hidalgo Díaz Rugama** (3)
+	* **Eduardo Hidalgo Díaz Rugama** [53422] (3)
 
-		
 		Siempre es preferible usar Server Side Rendering.
 		
 		El problema de “CSR” (Client side rendering) es que nunca vas a poder optimizar tu página al 100%. Debido a que cargas tu html vacio, y luego cargas el js con el que viene React (o lo que sea), tu SEO no viene incluido. Tu contenido no viene incluido. Viene un html vacio.
@@ -2648,55 +2480,49 @@ Tiene alguna desventaja o consideración usar server side rendering a parte de l
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **s99sergio** (1)
+* **s99sergio** (1) [48512](https://platzi.com/comentario/455474/) 
 Hola, soy nuevo por aqui XD, me esta encantando este curso, solo tengo una duda algo tonta XD, ¿Como se saca el simbolo ` en el teclado? D:
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **happiestack** (1)
+	* **happiestack** [48512] (1)
 
-		
 		Ahi depende totalmente de tu teclado fisico y el idioma en que este configurado. Intenta usando ascii con alt+96 o alt+60
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Sebastian Cardoso Castillo** (0)
+* **Sebastian Cardoso Castillo** (0) [558756](https://platzi.com/comentario/558756/) 
 
-	
 	Que temas de colores esta usando para Visual Studio? A mi me muestra el CSS todo del mismo color.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Danvasem** (1)
+	* **Danvasem** [558756] (1)
 
-		
 		Para que te aparezca con los colores pintados tienes que instalar en VSCode la siguiente extensión: [](https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Danvasem** (1)
+	* **Danvasem** [558756] (1)
 
-		
 		<https://marketplace.visualstudio.com/items?itemName=blanu.vscode-styled-jsx>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Danvasem** (1)
+	* **Danvasem** [558756] (1)
 
-		
 		Si quieres habilitar también el auto-completado en styled jsx entonces debes instalar este otro plugin:  
 		<https://marketplace.visualstudio.com/items?itemName=AndrewRazumovsky.vscode-styled-jsx-languageserver>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **hakutravel** (0)
+* **hakutravel** (0) [83071](https://platzi.com/comentario/1018635/) 
 Buenos dias, estoy enlasando la imagen de la carpeta static pero no me lo muestra
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Rafa Jiménez** (2)
+	* **Rafa Jiménez** [83071] (2)
 
-		
 		Hola,
 		
 		Como se hace en el curso esta obsoleto, tienes que crear una carpeta public y dentro poner la de static, pero no hace falta que cambies el src, te dejo el enlace donde lo explica
@@ -2705,9 +2531,9 @@ Buenos dias, estoy enlasando la imagen de la carpeta static pero no me lo muestr
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-# Server Side Rendering
+# Server Side Rendering [2202]
 
-## 0040. ¿Qué es Server Side Rendering
+## 0040. ¿Qué es Server Side Rendering [12076](https://platzi.com/clases/1311-next-js/12076-que-es-server-side-rendering/)
 
 ### Descripción:
 
@@ -2718,9 +2544,8 @@ En esta clase vamos a ver el concepto de Server Side Rendering que es una de las
 
 ### Comentarios:
 
-* **Sergio Minei** (14)
+* **Sergio Minei** (14) [349023](https://platzi.com/comentario/349023/) 
 
-	
 	## Server Side Rendering
 	
 	![Client Side Rendering](https://raw.githubusercontent.com/MineiToshio/CursosPlatzi/master/Curso%20de%20Next.js/img/client-side-rendering.png)
@@ -2733,8 +2558,8 @@ En esta clase vamos a ver el concepto de Server Side Rendering que es una de las
 	
 	**¿Qué ventajas tiene?**
 	
-	  * Mejor Performance.
-	  * Indexa en todos los servicios.
+	* Mejor Performance.
+	* Indexa en todos los servicios.
 	
 	
 	
@@ -2743,60 +2568,52 @@ En esta clase vamos a ver el concepto de Server Side Rendering que es una de las
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **onlinejaime** (2)
+	* **onlinejaime** [349023] (2)
 
-		
 		Sergio Minei… ¿Quieres ser mi amigo? 😉
 		
 		Brutal la currada que te has pegado. Pasas a ser mi nº 1 en Platzi.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Manuel Garcia** (3)
+* **Manuel Garcia** (3) [676889](https://platzi.com/comentario/676889/) 
 
-	
 	Client Side Rendering < Server Side Rendering
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **brapastor** (3)
+* **brapastor** (3) [565730](https://platzi.com/comentario/565730/) 
 
-	
 	puedo usar next js con otro framework como django o laravel?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [565730] (2)
 
-		
 		Si, es posible, la forma más sencilla de implementarlo es usando django o laravel como api.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **brapastor** (1)
+	* **brapastor** [565730] (1)
 
-		
 		Pero en produccion tendria que correr next, enves de django o laravel verdad 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [565730] (1)
 
-		
 		Debes correr los dos, next para que sirva el front de tu aplicación y django o laravel para que sirva el api.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **David Antonio Ordóñez Cornejo** (3)
+* **David Antonio Ordóñez Cornejo** (3) [328458](https://platzi.com/comentario/328458/) 
 
-	
 	No queda clara la diferencia.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (20)
+	* **robertomgonzalez** [328458] (20)
 
-		
 		La principal diferencia entre Server Side Rendering y Client Side Rendering es que **con SSR el server envía el HTML con todo el contenido listo para renderizar**. Esto es mucho más performante (ya que para nuestro browser es como si fuese un sitio estático) e indexa mejor en buscadores, ya que podemos acceder a todo el contenido fácilmente con curl/wget.
 		
 		En comparación, con CSR tradicional el server manda un HTML vacío, y tenemos que descargar toda la aplicación y esperar que haga lo suyo para poder empezar a ver el contenido. Esto es mucho más lento y requiere un browser que ejecute JS para funcionar correctamente.
@@ -2805,9 +2622,8 @@ En esta clase vamos a ver el concepto de Server Side Rendering que es una de las
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **David Antonio Ordóñez Cornejo** (1)
+	* **David Antonio Ordóñez Cornejo** [328458] (1)
 
-		
 		Ok, gracias por el complemento.
 		
 		Creo que experimenté una espiral generacional, en mis tiempos la novedad era AJAX vs los sitios que se cargaban por completo del lado del server, pero ahora veo que la historia se ha invertido. Lo interesante es que next hace como lo mencionas, un híbrido de las dos maneras y explota sus ventajas en performance y SEO.
@@ -2816,9 +2632,8 @@ En esta clase vamos a ver el concepto de Server Side Rendering que es una de las
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Julio J Yépez** (5)
+	* **Julio J Yépez** [328458] (5)
 
-		
 		Hola @davidherzlos,  
 		Creo que tienes un poco mezclados los conceptos acá … AJAX tiene que ver con asincronicidad … listo. Es el génesis de todo lo asíncrono … ergo … fetch.
 		
@@ -2830,61 +2645,54 @@ En esta clase vamos a ver el concepto de Server Side Rendering que es una de las
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Brian Bentancourt** (2)
+* **Brian Bentancourt** (2) [600481](https://platzi.com/comentario/600481/) 
 
-	
 	hola, tengo una aplicacion react sin next, estoy teniendo problemas para compartir mi url en facebook. puedo generar un html con next solo con los meta tags y luego desde el cliente sigo usando react como siempre?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [600481] (1)
 
-		
 		¡Hola! NextJS se encarga de procesar este tipo de peticiones, las meta tags son del SEO y cuando Next hace el build compila en archivos estáticos para que el SEO pueda ser mucho mejor
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1003950](https://platzi.com/comentario/1003950/) 
 
-	
 	¿Next puede ser utilizado con Express? Es decir, ¿Se podría crear en Next una API dentro del mismo sitio?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Enrique Devars (Platzi)** (1)
+* **Enrique Devars (Platzi)** (1) [522689](https://platzi.com/comentario/522689/) 
 
-	
 	server side rendering
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Adriann Felipe Sanchez Sierra** (1)
+* **Adriann Felipe Sanchez Sierra** (1) [386172](https://platzi.com/comentario/386172/) 
 
-	
 	Gran explicación! 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (1)
+* **WilliamVelazquez** (1) [329086](https://platzi.com/comentario/329086/) 
 
-	
 	Gran feature de Next! Es lo principal por lo que quería que el curso estuviera disponible! 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Brian Bentancourt** (1)
+* **Brian Bentancourt** (1) [60084](https://platzi.com/comentario/600481/) 
 hola, tengo una aplicacion react sin next, estoy teniendo problemas para compartir mi url en facebook. puedo generar un html con next sol...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [60084] (1)
 
-		
 		¡Hola! NextJS se encarga de procesar este tipo de peticiones, las meta tags son del SEO y cuando Next hace el build compila en archivos estáticos para que el SEO pueda ser mucho mejor
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0050. Intro a getInitialProps
+## 0050. Intro a getInitialProps [12077](https://platzi.com/clases/1311-next-js/12077-intro-a-getinitialprops/)
 
 ### Descripción:
 
@@ -2899,9 +2707,8 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 
 ### Comentarios:
 
-* **Sergio Minei** (10)
+* **Sergio Minei** (10) [349025](https://platzi.com/comentario/349025/) 
 
-	
 	## getInitialProps
 	
 	La función getInitialProps nos permite cargar el contenido principal de la página cuando tenemos que recurrir a una API.
@@ -2938,58 +2745,50 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Fernando Berrio Meza** (2)
+	* **Diego Fernando Berrio Meza** [349025] (2)
 
-		
 		muchas gracias
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Minei** (2)
+	* **Sergio Minei** [349025] (2)
 
-		
 		gracias a ti @Digbemez
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Carlos Rivas** (2)
+	* **Carlos Rivas** [349025] (2)
 
-		
 		Tus resumenes siempre me ayudan a no parar el video para copiar los tips, sos grande @MineiToshio
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Minei** (1)
+	* **Sergio Minei** [349025] (1)
 
-		
 		Gracias @carlsrivs! Me alegra mucho saber que los resúmenes son de ayuda 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Georgie Duarte** (2)
+	* **Georgie Duarte** [349025] (2)
 
-		
 		si @MineiToshio de verdad gracias me han servido muchos tus apuntes en diversos cursos.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Minei** (1)
+	* **Sergio Minei** [349025] (1)
 
-		
 		Qué bueno que te estén ayudando los resúmenes @GeoD! 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Neira Steven** (2)
+	* **Neira Steven** [349025] (2)
 
-		
 		es getInitialProps, gracias por tus aportes
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **elvis-retiz** (4)
+* **elvis-retiz** (4) [588532](https://platzi.com/comentario/588532/) 
 
-	
 	¿Alguien que me pueda decir porque me ocurre eso? Anexo codigo mas abajo
 	
 	![error.jpg](https://static.platzi.com/media/user_upload/error-244ac4a6-21f2-44a1-bfc3-b21cdabe4c54.jpg)
@@ -3039,53 +2838,46 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **RBN1993** (3)
+	* **RBN1993** [588532] (3)
 
-		
 		Parece ser que es por que se usa un <a></a> sin un <Link> miralo aquí. <https://platzi.com/clases/1311-next-js/12078-utilizando-ampltlinkampgt/> , pregunté lo mismo en esta clase <https://platzi.com/clases/1311-next-js/12075-styled-jsx/> y me respondieron muy tarde, no se con certeza si es verdad por que ya acabe el curso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **RBN1993** (3)
+	* **RBN1993** [588532] (3)
 
-		
 		Recuerdo que actualice mi package.json y se me quitó, si encuentras la respuesta dimelo, gracias.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Miguel Angel Morales Larriega** (1)
+	* **Miguel Angel Morales Larriega** [588532] (1)
 
-		
 		Veo que estas escribiendo codigo junto, esa debe de ser la razon
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gregorio Garcia** (4)
+* **Gregorio Garcia** (4) [328359](https://platzi.com/comentario/328359/) 
 
-	
 	Si quisieramos utilizar las variables de css ¿sería de éste modo o hay una mejor manera?
 	
 	![global.png](https://static.platzi.com/media/user_upload/global-8e7c15c1-cd9f-4f8a-a6ba-2f1a39297cf0.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Juan David Castro (Platzi)** (10)
+	* **Juan David Castro (Platzi)** [328359] (10)
 
-		
 		Ya que estas usando template literals ( **`** ) puedes usar variables nativas de JavaScript 😛 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Georgie Duarte** (2)
+	* **Georgie Duarte** [328359] (2)
 
-		
 		tamb puedes agregar sass o style a next y usar variables en el css
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **edwintrumpet** (3)
+* **edwintrumpet** (3) [679058](https://platzi.com/comentario/679058/) 
 
-	
 	Si están usando componentes funcionales y el getInitialProps les está dando dificultades pueden hacerlo de esta manera…
 	``` 
 	    import { Fragment } from'react'
@@ -3132,24 +2924,21 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Miguel Rodriguez** (1)
+	* **Luis Miguel Rodriguez** [679058] (1)
 
-		
 		Agregando Doc por si alguien tiene dudas  
 		[Fetching data and component lifecycle](https://nextjs.org/docs#fetching-data-and-component-lifecycle)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Antonio Nicasio** (3)
+* **Antonio Nicasio** (3) [570833](https://platzi.com/comentario/570833/) 
 
-	
 	excelente curso muy bien explicado
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Sánchez** (2)
+* **David Sánchez** (2) [1086247](https://platzi.com/comentario/1086247/) 
 
-	
 	Si están usando Next.js 9.3 o que sea más nuevo. En su [documentación de getInitialProps()](https://nextjs.org/docs/api-reference/data-fetching/getInitialProps) recomiendan usar [getServerSideProps()](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering) o [getStaticProps()](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation).
 	
 	La principal diferencia entre ambas funciones es que `getServerSideProps()` se llama en cada carga de página, mientras que `getStaticProps()` solo es llamada al momento de hacer build. Con esto anterior ya claro, sabemos que debemos usar `getServerSideProps()` para hacer lo que el profesor hizo esta clase.
@@ -3233,9 +3022,8 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (2)
+* **Jorge Mendez Ortega** (2) [871818](https://platzi.com/comentario/871818/) 
 
-	
 	Separe el código un poco para poder apreciar mejor lo que esta pasando.
 	
 	Separe los estilos en un script llamado** component-style.js** lo curioso es que los estilos los toma correctamente pero no toma el **:global(body)** pero si lo coma cuando utilizo esto **< style jsx global>** y al usar un **literal string** use una variable para para el color .
@@ -3294,11 +3082,11 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	    const API = "https://api.audioboom.com/channels/recommended?api_version=2";
 	    
 	    /**
-	     * Muestra el listado de PodCast.
+	   * Muestra el listado de PodCast.
 	     *
-	     * @param {object} props Listado de propiedades del componente.
+	   * @param {object} props Listado de propiedades del componente.
 	     *
-	     * @return PodCastList.
+	   * @return PodCastList.
 	     */
 	    const PodCastList = (props) => {
 	        // Destructuración y definiendo un valor por defecto en el caos de que no exista el nodo
@@ -3325,9 +3113,9 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	    };
 	    
 	    /**
-	     * Llamado a la api de audioboom.
+	   * Llamado a la api de audioboom.
 	     *
-	     * @return {Promise}.
+	   * @return {Promise}.
 	     */
 	    PodCastList.getInitialProps = async () => {
 	        const SEND = await fetch(API);
@@ -3342,9 +3130,8 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **AndresCervera15** (2)
+* **AndresCervera15** (2) [768379](https://platzi.com/comentario/768379/) 
 
-	
 	Código funcionando al día de hoy 05/OCT/19
 	``` 
 	    import 'isomorphic-fetch';
@@ -3424,18 +3211,16 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Miguel Angel Morales Larriega** (2)
+* **Miguel Angel Morales Larriega** (2) [617494](https://platzi.com/comentario/617494/) 
 
-	
 	Esta es otra forma de hacerlo con stales functional component y con unfetch
 	
 	![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-ccccda29-5a80-42ca-b345-bb66e0ca2464.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **José antonio Cañizales** (2)
+* **José antonio Cañizales** (2) [599831](https://platzi.com/comentario/599831/) 
 
-	
 	Si alguien esta usando React Hooks se puede usar la function getInitialProps con esta syntaxis:
 	``` 
 	    functionPage({ stars }) {
@@ -3452,23 +3237,20 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Miguel Angel Morales Larriega** (1)
+	* **Miguel Angel Morales Larriega** [599831] (1)
 
-		
 		No veo nada de React Hhooks en ese código, solo veo un functional component y si, esa es la forma correcta de usar getInitialProps en componentes funcionales.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Eduardo Hidalgo Díaz Rugama** (2)
+* **Eduardo Hidalgo Díaz Rugama** (2) [458436](https://platzi.com/comentario/458436/) 
 
-	
 	mis respetos al profesor y a esta clase. Es asombroso como con las tecnologías adecuadas y la experiencia adecuada en 14 minutos crea un catálogo de podcasts. Sin palabras.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Daniee** (2)
+* **Daniee** (2) [371978](https://platzi.com/comentario/371978/) 
 
-	
 	Hola Roberto ! Una pregunta: Tenemos en next los estados de los componentes de React ?
 	
 	Quisiera añadir un feature a mi proyecto que sería crear una especie de loader, que desaparezca cuando la primera carga se haya realizado para que se muestre todo el contenido a la vez.
@@ -3479,33 +3261,29 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (4)
+	* **robertomgonzalez** [371978] (4)
 
-		
 		Hola! Las páginas en Next son componentes estándar de React, por lo que dispones de todos los métodos de React.
 		
 		Puntualmente componentDidMount sólo se ejecuta en el cliente en Next (y no durante SSR), por lo que se pueden hacer loaders y comportamientos más complejos que van por fuera del mecanismo de server side rendering.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Brian Dennis Vega Hidalgo** (2)
+* **Brian Dennis Vega Hidalgo** (2) [343489](https://platzi.com/comentario/343489/) 
 
-	
 	Algun plugin para para intellisense dentro de la etiqueta <style jsx>. todo se ve como texto
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **joseVargas94** (1)
+	* **joseVargas94** [343489] (1)
 
-		
 		en este post encontré como hacerlo  
 		<https://github.com/zeit/styled-jsx/issues/186>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Georgie Duarte** (2)
+	* **Georgie Duarte** [343489] (2)
 
-		
 		si usas VSCODE puedes buscar este vscode-styled-jsx como extension me funciona muy bien.
 		
 		te dejo la web  
@@ -3513,16 +3291,14 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Fadith Enrique Escorcia Mujica** (1)
+* **Fadith Enrique Escorcia Mujica** (1) [1097746](https://platzi.com/comentario/1097746/) 
 
-	
 	Isomorphic-fecth sirve para dar soporte a al servidor para utilizar fetch
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **assistcardaciit** (1)
+* **assistcardaciit** (1) [1028343](https://platzi.com/comentario/1028343/) 
 
-	
 	Buenas, aca no me esta funcionando los Css.  
 	Alguna idea???
 	``` 
@@ -3592,35 +3368,31 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1028343] (1)
 
-		
 		No te toma ninguna propiedad del css o solo alguna?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **_jrgarciadev** (1)
+	* **_jrgarciadev** [1028343] (1)
 
-		
 		El css de channels debe estar dentro de la función renderChannels y así con todas, a no se que le coloques la etiqueta “global” al styled, ej. <styles jsx global>{``}</styles>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1003992](https://platzi.com/comentario/1003992/) 
 
-	
 	Next tiene un gran parecido a React Native, la forma en que recibe los props, en como se consume las API y la forma de agregar estilos es de una manera muy intuitiva y agil! Genial!!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Andres Roberto Coello Goyes** (1)
+* **Andres Roberto Coello Goyes** (1) [962857](https://platzi.com/comentario/962857/) 
 
-	
 	Alguien sabe si se puede cambiar o modificar la pagina de error 404 de next js…?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Serrati** (2)
+	* **Serrati** [962857] (2)
 
 		```
 		    // pages/404.js
@@ -3632,37 +3404,32 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Andres Roberto Coello Goyes** (1)
+	* **Andres Roberto Coello Goyes** [962857] (1)
 
-		
 		eso es todo? como lo integro ?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **gosunkugi** (1)
+* **gosunkugi** (1) [931803](https://platzi.com/comentario/931803/) 
 
-	
 	vengan pero tengo una pregunta, los datos del api se descargan del lado del servidor y se “fusionan” y terminan dentro del bundly?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **raulfbgomez** (1)
+	* **raulfbgomez** [931803] (1)
 
-		
 		En este caso si, todo el código que esta dentro de `getInitialProps` se ejecuta del lado del servidor y solo se ejecuta del lado del cliente cuando se navega por un componente de `next/link` o `next/router`. [Documentación.](https://nextjs.org/docs/api-reference/data-fetching/getInitialProps)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Anthony Farias** (1)
+* **Anthony Farias** (1) [857719](https://platzi.com/comentario/857719/) 
 
-	
 	Me voló la cabeza eso de grid css! ___
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jorge Mendez Ortega** (1)
+	* **Jorge Mendez Ortega** [857719] (1)
 
-		
 		Te recomiendo que revises este material
 		
 		Grid  
@@ -3674,23 +3441,20 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Carlos Andrés Cobo Sinisterra** (1)
+* **Carlos Andrés Cobo Sinisterra** (1) [833240](https://platzi.com/comentario/833240/) 
 
-	
 	Hola mi gente, pregunta en el getInitialProps hace el get a la API para obtener los datos pero como puedo hacer un post, put o delete? tambien existe alguna funcion en la que se recomiende?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **nahrivera7** (1)
+	* **nahrivera7** [833240] (1)
 
-		
 		Según entiendo en el video, lo que queremos hacer es un GET de la información esencial de la página, osea si tu Home tiene info que viene de un API, necesitas tener esa info para poder renderizarla. Caso contrario en un POST o un PUT, en dónde tu vista inicial sería un formulario por ejemplo. O en el caso de un DELETE, tu vista inicial sería los datos que vienen del GET.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Marco Antonio Macedo Preciado** (1)
+	* **Marco Antonio Macedo Preciado** [833240] (1)
 
-		
 		Para usar otros metodos de HTTP en la peticion tienes que indicarle a fetch (que es la funcion que se encarga de las peticiones) el metodo. Algo así:
 		``` 
 		    static async getInitialProps(){
@@ -3708,24 +3472,21 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [805026](https://platzi.com/comentario/805026/) 
 
-	
 	Brutal _CSS Grid Layout_
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Miguel Angel Morales Larriega** (1)
+* **Miguel Angel Morales Larriega** (1) [617234](https://platzi.com/comentario/617234/) 
 
-	
 	te faltó ponerle un key  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-c8d7bf40-e50b-4f9d-b05a-1a2e1ebe3bec.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Miguel Angel Morales Larriega** (1)
+* **Miguel Angel Morales Larriega** (1) [617190](https://platzi.com/comentario/617190/) 
 
-	
 	Creo que una mejor práctica sería instalar fetch como una dependecnia del desarrollo, osea npm install --save-dev isomorphic-unfetch
 	
 	Esto generara un objeto llamado devDependencies  
@@ -3737,16 +3498,14 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **uninorteplatziparatodos** (1)
+	* **uninorteplatziparatodos** [617190] (1)
 
-		
 		Por que debería ser una dependencia de desarrollo? En producción si utilizas `npm i --only-production` para no instalar lo que no se necesita, no la instalaría y haría que el código falle.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **webins** (1)
+* **webins** (1) [615270](https://platzi.com/comentario/615270/) 
 
-	
 	Acabo de buildear la aplicacion y arrancarla usando el prefetch en los links pero igual no me precarga mi archivo de channel.js en network como aparece en el video, ¿Por que?
 	``` 
 	    import "isomorphic-fetch";
@@ -3798,44 +3557,38 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Diaz Venero** (1)
+* **Luis Diaz Venero** (1) [589954](https://platzi.com/comentario/589954/) 
 
-	
 	Si en algún momento aparece el warning de incluir el api version, la forma de llamarla es: <https://api.audioboom.com/channels/recommended?api_version=2>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Diaz Venero** (1)
+* **Luis Diaz Venero** (1) [581327](https://platzi.com/comentario/581327/) 
 
-	
 	Les comparto otra api libre para jugar: <https://randomuser.me>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Diaz Venero** (1)
+* **Luis Diaz Venero** (1) [581146](https://platzi.com/comentario/581146/) 
 
-	
 	[NextJS] Traer los datos desde un API
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Joaquin Mayer Breitkreitz** (1)
+* **Joaquin Mayer Breitkreitz** (1) [580239](https://platzi.com/comentario/580239/) 
 
-	
 	Alguien sabe que theme de vscode esta usando?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Oscar Barajas Tavares (Platzi)** (2)
+	* **Oscar Barajas Tavares (Platzi)** [580239] (2)
 
-		
 		El tema que utiliza es el por defecto, los colores del editor es Monokai.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **brapastor** (1)
+* **brapastor** (1) [573762](https://platzi.com/comentario/573762/) 
 
-	
 	`<style jsx>{`  
 	header{  
 	color: #fff;  
@@ -3852,28 +3605,25 @@ En esta clase vamos a ver la función getInitialProps de Next, que nos permite c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [530137](https://platzi.com/comentario/530137/) 
 
-	
 	si agrego la dependencia para porder importar css que venga de otro archivo, pierdo la versatilidad de que los estilos sean por componente y pasaran a ser globales?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **ebar0n (Platzi)** (1)
+	* **ebar0n (Platzi)** [530137] (1)
 
-		
 		Hola, no necesariamente pierdes versatilidad, al contrario, puedes reusarlos porque seran globales, de igual forma siempre puedes seguir teniendo estilos especificos para un componente.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Armando de jesus santiz lopez** (1)
+* **Armando de jesus santiz lopez** (1) [485292](https://platzi.com/comentario/485292/) 
 Los getInitialProps también funciona en el frontend o toca hacer otra función para pedir datos al api ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **esdraspavon** (1)
+* **esdraspavon** (1) [455954](https://platzi.com/comentario/455954/) 
 
-	
 	Los estilos usados en clase:
 	``` 
 	    <style jsx>{`
@@ -3921,9 +3671,8 @@ Los getInitialProps también funciona en el frontend o toca hacer otra función 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [431242](https://platzi.com/comentario/431242/) 
 
-	
 	**Utilizar grid con Next.js**
 	``` 
 	    import fetch from 'isomorphic-fetch'
@@ -4015,9 +3764,8 @@ Los getInitialProps también funciona en el frontend o toca hacer otra función 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [431171](https://platzi.com/comentario/431171/) 
 
-	
 	**Ejemplo de uso de fetch utilizando librería isomorphic-fetch**
 	``` 
 	    import fetch from'isomorphic-fetch'
@@ -4078,16 +3826,14 @@ Los getInitialProps también funciona en el frontend o toca hacer otra función 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [430867](https://platzi.com/comentario/430867/) 
 
-	
 	getInitialProps - solo funciona en Next.js - NO funciona en otro framework
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **oobie92** (1)
+* **oobie92** (1) [402151](https://platzi.com/comentario/402151/) 
 
-	
 	Para quienes no les pinte bien las respuests esta fue mi solucion ya que map no me lo estaba retornando:
 	``` 
 	          <div>
@@ -4105,9 +3851,8 @@ Los getInitialProps también funciona en el frontend o toca hacer otra función 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jose Adan Ardila Sanchez** (1)
+	* **Jose Adan Ardila Sanchez** [402151] (1)
 
-		
 		Realmente la razón de que no te hubiera pintado tiene que ver con la forma en la que escribes la arrow function, si se pone de esta forma:
 		``` 
 		    channels.map(channel => {
@@ -4134,116 +3879,102 @@ Los getInitialProps también funciona en el frontend o toca hacer otra función 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gerardo Nava Pereda** (1)
+* **Gerardo Nava Pereda** (1) [371163](https://platzi.com/comentario/371163/) 
 
-	
 	¿Axios vs isomorphic-fetch? ¿Hay alguna ventaja o desventaja una sobre otra?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [371163] (1)
 
-		
 		Hola, usar uno o no es más cuestión de gustos ya que ambas hacen lo mismo, hacer una petición, pero en mi experiencia me gusta más `Axios` ya que te permite crear una configuración global de peticiones, cada una de las peticiones son muy sencillas y permite reutilizar código.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Khriztian Moreno Zuluaga** (1)
+* **Khriztian Moreno Zuluaga** (1) [345379](https://platzi.com/comentario/345379/) 
 
-	
 	Como habilitan el `Emmet` para jsx ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eddy Nelson Pérez Decena** (1)
+	* **Eddy Nelson Pérez Decena** [345379] (1)
 
-		
 		Si alguien tiene una respuesta soy todo oidos
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (3)
+	* **robertomgonzalez** [345379] (3)
 
-		
 		En el curso usamos Visual Studio Code, que tiene Emmet automático si elegís el lenguaje **Javascript React** (abajo a la derecha en el editor).
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **mirandajignacio** (1)
+* **mirandajignacio** (1) [339375](https://platzi.com/comentario/339375/) 
 
-	
 	Utilizan algún plugin para tener intellisense dentro de la etiqueta <style jsx>. Se me ve todo como si fuera un string.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (4)
+	* **robertomgonzalez** [339375] (4)
 
-		
 		Hay un plugin de Styled JSX para VS Code. Tiene varios bugs pero funciona aceptablemente bien.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Byhako** (1)
+* **Byhako** (1) [334078](https://platzi.com/comentario/334078/) 
 
-	
 	¿Cual es la diferencia entre npm install y npm add?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [334078] (5)
 
-		
 		npm add es un alias para npm install
 		
 		![Screenshot_20180717_223608.png](https://static.platzi.com/media/user_upload/Screenshot_20180717_223608-fe482667-54b4-4b34-a99a-151b2060b38a.jpg)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Minei** (2)
+	* **Sergio Minei** [334078] (2)
 
-		
 		Que interesante que unos de los aliases sea **isntall.**
 		
 		Hacer que un typo se vuelva un comando oficial es épico!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **marcelo.lavizzari** (1)
+* **marcelo.lavizzari** (1) [328916](https://platzi.com/comentario/328916/) 
 
-	
 	Cuales serian las ventajas , entre usar el <style jsx> dentro de un archivo js y usar un archivo css por cada componente, (no en forma global), como lo hemos estado aprendiendo en los cursos de react. ? Ademas de que me parece que el utilizar un archivo, css, es mass facil de manipular, para alguien que realice solo el maquetado y nos las funcionalidades de la app.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (3)
+	* **robertomgonzalez** [328916] (3)
 
-		
 		Styled JSX es similar a CSS Modules en funcionamiento, ya que las clases se renombran por componente para evitar problemas de scoping. También podés utilizar JS inline, que dependiendo de cómo tengas configurado tu entorno puede ser más cómodo. Esto es cuestión de gustos, y para la mayoría de proyectos son lo mismo.
 		
 		Si preferís tener los estilos en un archivo aparte podés utilizar [next-css](https://github.com/zeit/next-plugins/tree/master/packages/next-css) que te deja hacer exactamente eso, y también tenés ejemplos con PostCSS y demás en los docs si preferís usar preprocessors.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Baltazar Ortega** (1)
+* **Baltazar Ortega** (1) [62107](https://platzi.com/comentario/633778/) 
 ¿Porqué en getInitialProps() está return { channels } y luego otra ves en render() const { channels } = this.props ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [62107] (1)
 
-		
 		getInitialProps es un método que se ejecuta para llamar la información de fuentes de datos remotas como un api, lo que retorna esta función lo guarda en this.props, por esto luego en el método render se vuelve a asignar this.props a { channels }
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **SKILLON** (1)
+* **SKILLON** (1) [62035](https://platzi.com/comentario/632605/) 
 dentro de la función render, siempre que quiera ejecutar un map debo utilizar paréntesis en lugar de llaves para que se haga render?, por...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ivan Padilla Bernal** (2)
+	* **Diego Ivan Padilla Bernal** [62035] (2)
 
-		
 		Es sencillo, cuando usas llaves tu tienes que usar un ‘ **return** ’ si es que quieres retornar algo porque a veces quieres hacer operaciones antes de retornar algo, pero cuando sabes que todo lo que está en la función va a retornar se usa paréntesis.  
 		Por ejemplo esto sería similar
 		``` 
@@ -4276,74 +4007,69 @@ dentro de la función render, siempre que quiera ejecutar un map debo utilizar p
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **elvis-retiz** (1)
+* **elvis-retiz** (1) [59200](https://platzi.com/comentario/588532/) 
 ¿Alguien que me pueda decir porque me ocurre eso? Anexo codigo mas abajo import "isomorphic-fetch"; export default class extends ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **RBN1993** (3)
+	* **RBN1993** [59200] (3)
 
-		
 		Parece ser que es por que se usa un <a></a> sin un <Link> miralo aquí. <https://platzi.com/clases/1311-next-js/12078-utilizando-ampltlinkampgt/> , pregunté lo mismo en esta clase <https://platzi.com/clases/1311-next-js/12075-styled-jsx/> y me respondieron muy tarde, no se con certeza si es verdad por que ya acabe el curso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [54455](https://platzi.com/comentario/530137/) 
 si agrego la dependencia para porder importar css que venga de otro archivo, pierdo la versatilidad de que los estilos sean por component...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **ebar0n (Platzi)** (1)
+	* **ebar0n (Platzi)** [54455] (1)
 
-		
 		Hola, no necesariamente pierdes versatilidad, al contrario, puedes reusarlos porque seran globales, de igual forma siempre puedes seguir teniendo estilos especificos para un componente.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gerardo Nava Pereda** (1)
+* **Gerardo Nava Pereda** (1) [40981](https://platzi.com/comentario/371163/) 
 ¿Axios vs isomorphic-fetch? ¿Hay alguna ventaja o desventaja una sobre otra?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [40981] (1)
 
-		
 		Hola, usar uno o no es más cuestión de gustos ya que ambas hacen lo mismo, hacer una petición, pero en mi experiencia me gusta más `Axios` ya que te permite crear una configuración global de peticiones, cada una de las peticiones son muy sencillas y permite reutilizar código.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Khriztian Moreno Zuluaga** (1)
+* **Khriztian Moreno Zuluaga** (1) [38557](https://platzi.com/comentario/345379/) 
 Como habilitan el Emmet para jsx ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eddy Nelson Pérez Decena** (1)
+	* **Eddy Nelson Pérez Decena** [38557] (1)
 
-		
 		Si alguien tiene una respuesta soy todo oidos
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Byhako** (1)
+* **Byhako** (1) [37504](https://platzi.com/comentario/334078/) 
 ¿Cual es la diferencia entre npm install y npm add?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (5)
+	* **Diego Alexander Forero Higuera (Platzi)** [37504] (5)
 
-		
 		npm add es un alias para npm install
 		
 		![Screenshot_20180717_223608.png](https://static.platzi.com/media/user_upload/Screenshot_20180717_223608-fe482667-54b4-4b34-a99a-151b2060b38a.jpg)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **HandCloud** (0)
+* **HandCloud** (0) [63839](https://platzi.com/comentario/665859/) 
 porque cuando intento consumir una api de mi pc me lanza un error de certificacion?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-## 0060. Utilizando el componente Link
+## 0060. Utilizando el componente Link [12078](https://platzi.com/clases/1311-next-js/12078-utilizando-ampltlinkampgt/)
 
 ### Descripción:
 
@@ -4354,62 +4080,54 @@ En esta clase vamos a ver como linkear páginas nuevas, y sobre todo cómo funci
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (17)
+* **Juan David Castro (Platzi)** (17) [328360](https://platzi.com/comentario/328360/) 
 
-	
 	Que grande! Es el primer profesor que avisa cuando va a explicar una pregunta del examen 😂 😂 😂!!
 	
 	GENIAAAAL!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **ferontv_** (4)
+	* **ferontv_** [328360] (4)
 
-		
 		El curso está increíble ! Vamos paso a paso de manera concreta y simple. Bastante buena la forma de enseñar de Roberto, además bien por esos avisos para el examen 👏🏻
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (2)
+	* **WilliamVelazquez** [328360] (2)
 
-		
 		Exacto, todo lo explica con gran claridad! 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Oscar Barajas Tavares (Platzi)** (3)
+	* **Oscar Barajas Tavares (Platzi)** [328360] (3)
 
-		
 		Es muy bueno el profesor siempre explica a detalle.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **David Daniel Castillo Nava** (3)
+	* **David Daniel Castillo Nava** [328360] (3)
 
-		
 		Primera vez que veo clase con el pero explica muy bien.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Diego Fernando Berrio Meza** (8)
+* **Diego Fernando Berrio Meza** (8) [394234](https://platzi.com/comentario/394234/) 
 
-	
 	Hasta ahora no tuve ningún error **Roberto Gonzalez** es por mucho uno de los mejores profesores de Platzi.
 	
 	ojala el pudiera dar el curso de React su explicación es muy limpia y no tiene rodeos eso ayuda a que los estudiantes se concentren y no den vueltas mientras aprenden.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Diaz Venero** (1)
+	* **Luis Diaz Venero** [394234] (1)
 
-		
 		estaria bueno para React y todos los de Js tambien 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **LeandroVidela** (4)
+* **LeandroVidela** (4) [575954](https://platzi.com/comentario/575954/) 
 
-	
 	Para evitar el Warning que tira en la consola ( ** _Each child in a list should have a unique “key” prop._** ), tenemos que agregar el atributo KEY al <Link>.
 	``` 
 	    <Linkhref="/channel"key={channel.id}prefetch>
@@ -4422,9 +4140,8 @@ En esta clase vamos a ver como linkear páginas nuevas, y sobre todo cómo funci
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (4)
+* **Sergio Minei** (4) [349028](https://platzi.com/comentario/349028/) 
 
-	
 	## Enlazando Páginas
 	
 	Next usa un componente llamado `<Link/>` que debe de contener un `<a>`.
@@ -4443,17 +4160,17 @@ En esta clase vamos a ver como linkear páginas nuevas, y sobre todo cómo funci
 	
 	**Si clickeamos en un Link** :
 	
-	  * Client Side Rendering.
-	  * Carga sólo lo que falta de esa página.
-	  * Cambia la ruta en el browser.
+	* Client Side Rendering.
+	* Carga sólo lo que falta de esa página.
+	* Cambia la ruta en el browser.
 	
 	
 	
 	**Si abrimos un nuebo tab** :
 	
-	  * Server Side Rendering.
-	  * Carga todo el HTML, CSS y JS.
-	  * Crea una nueva sesión.
+	* Server Side Rendering.
+	* Carga todo el HTML, CSS y JS.
+	* Crea una nueva sesión.
 	
 	
 	
@@ -4479,55 +4196,48 @@ En esta clase vamos a ver como linkear páginas nuevas, y sobre todo cómo funci
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Fernando Azuaje** (3)
+* **Fernando Azuaje** (3) [817138](https://platzi.com/comentario/817138/) 
 
-	
 	ya no es necesario agregar prefetch a Link, Next lo hace por si solo cuando lo corren en modo produccion
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jhurtadojerves** (3)
+* **jhurtadojerves** (3) [328886](https://platzi.com/comentario/328886/) 
 
-	
 	Una consulta más bien off topic.
 	
 	¿que complemente tienes instalado para que funcione emmet en JSX con vcode?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (5)
+	* **robertomgonzalez** [328886] (5)
 
-		
 		Viene con VSCode! Lo que tenés que hacer es setear el tipo de archivo a **Javascript React** abajo a la derecha (idealmente para todos los archivos .js, así no tenés que configurarlo a cada rato).
 		
 		Después sólo sumé la extensión de Styled JSX que te da syntax highlighting en el CSS.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Kevin Javier Morales (Platzi)** (6)
+	* **Kevin Javier Morales (Platzi)** [328886] (6)
 
-		
 		Esto lo pude lograr el poco tiempo que tuve VSCode instalado. Es cuestion de agregarle un par de lineas al archivo settings. [Esta respuesta](https://stackoverflow.com/questions/39320393/jsx-or-html-autocompletion-in-visual-studio-code) puede servirte ademas de lo que dice Roberto.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **jhurtadojerves** (1)
+	* **jhurtadojerves** [328886] (1)
 
-		
 		Muchas gracias a los dos, ya está solucionado. Vengo de webStorm y me estoy acostumbrando 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Daniee** (1)
+	* **Daniee** [328886] (1)
 
-		
 		Wau ayuda un montón a agilizar el trabajo gracias chicos !
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **jhon manuel angulo moncada** (2)
+* **jhon manuel angulo moncada** (2) [827485](https://platzi.com/comentario/827485/) 
 
-	
 	Como argumentan los compañeros desde Next 9, ya no es necesario utilizar “prefetch”, este viene en true por defecto.
 	
 	lo que podemos hacer es desactivarlo cuando no lo sea requerido:
@@ -4536,78 +4246,70 @@ En esta clase vamos a ver como linkear páginas nuevas, y sobre todo cómo funci
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Diego Ortiz** (2)
+* **Diego Ortiz** (2) [725864](https://platzi.com/comentario/725864/) 
 
-	
 	Al parecer ya no es necesario usar prefetch según este mensaje que me salió en la terminal:  
 	Next.js auto-prefetches automatically based on viewport. The prefetch attribute is no longer needed. More: <https://err.sh/zeit/next.js/prefetch-true-deprecated>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Camilo Rivera Quintero** (2)
+* **Camilo Rivera Quintero** (2) [498065](https://platzi.com/comentario/498065/) 
 
-	
 	Buen Profe!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **eltenis** (2)
+* **eltenis** (2) [352652](https://platzi.com/comentario/352652/) 
 Que bueno... y para utilizar Rutas privadas.... es decir con login.... y luego entras a la App??? Muchas gracias
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Diaz Venero** (1)
+	* **Luis Diaz Venero** [352652] (1)
 
-		
 		Hola, como lo resolviste?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [352652] (1)
 
-		
 		¡Hola! Este tipo de comportamiento lo puedes manejar con un estado y ese estado se lo pasas a tus rutas que quieres mantener privadas, si el usuario está autorizado o no
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Diego Ortiz** (2)
+* **Diego Ortiz** (2) [67196](https://platzi.com/comentario/719024/) 
 Cuando lo corro en producción, revisando mi network… se queda haciendo infinitas peticiones a webpack-hmr?page=/ y a: ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Sánchez** (1)
+* **David Sánchez** (1) [1086293](https://platzi.com/comentario/1086293/) 
 
-	
 	[Desde Next.js 9](https://nextjs.org/blog/next-9#prefetching-in-viewport-links) el componente `Link` hace el `prefetch` de forma automática a medida que los componentes aparezcan en el viewport por lo que no es necesario hacer lo que dice en la clase.
 	
 	Si se desea eliminar el `prefetch` para páginas que no se visitan mucho, se puede hacer `prefetch={false}`.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **José Antonio aparicio gallego** (1)
+* **José Antonio aparicio gallego** (1) [1042320](https://platzi.com/comentario/1042320/) 
 
-	
 	prefetch pregunta de examen Prehistórico
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1004023](https://platzi.com/comentario/1004023/) 
 
-	
 	Para poder utilizar el componente Link deberemos importar la librería next/link, y así poder desplazarnos por nuestras vistas de forma dinámica y rápida sin necesidad de recargar nuestro navegador, ademas, nos ofrece el Prefetch, que nos sirve para pre-cargar un archivo Js antes de entrar en él.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Alejandro Trejo Cuxim** (1)
+* **Sergio Alejandro Trejo Cuxim** (1) [726268](https://platzi.com/comentario/726268/) 
 <h1>Importante</h1>
 	
 	Recordar que si la página se llama: “/channel” el componente debe llamarse en pages de igual manera osea: channel.js
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **carlos-samuel-hernandez** (1)
+* **carlos-samuel-hernandez** (1) [625843](https://platzi.com/comentario/625843/) 
 
-	
 	Cuando intento navegar a un channel, me aparece lo siguiente:  
 	**An unexpected error has occurred.**
 	
@@ -4615,30 +4317,27 @@ Cuando lo corro en producción, revisando mi network… se queda haciendo infini
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ortiz** (1)
+	* **Diego Ortiz** [625843] (1)
 
-		
 		Debes colocar más información en este tipo de preguntas. Como tu archivo index.js, tu archivo channel.js, tu estructura de archivos, etc…
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gianfranco Correa** (1)
+* **Gianfranco Correa** (1) [458873](https://platzi.com/comentario/458873/) 
 
-	
 	que interesante se está poniendo esto!! después de ver react y redux, este curso le da el toque para terminar de fascinarte ❤️
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Gutierrez** (1)
+* **Julio Gutierrez** (1) [431524](https://platzi.com/comentario/431524/) 
 
-	
 	<Link href="/channel" prefetch></Link>
 	
-	  * prefetch No carga getInitialProps, sólo el payload
+	* prefetch No carga getInitialProps, sólo el payload
 	
-	  * prefetch Solo funciona en producción, no funciona en modo dev. ( npm run build && npm start)
+	* prefetch Solo funciona en producción, no funciona en modo dev. ( npm run build && npm start)
 	
-	  * prefetch Es una forma de acelerar el precargado del render
+	* prefetch Es una forma de acelerar el precargado del render
 	
 	
 	
@@ -4736,117 +4435,105 @@ Cuando lo corro en producción, revisando mi network… se queda haciendo infini
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Daniee** (1)
+* **Daniee** (1) [381560](https://platzi.com/comentario/381560/) 
 
-	
 	Habría que tener agregar una vez más el Header a la página donde vamos ?
 	
 	No se podría hacer cómo en otros frameworks, donde la navegación del lado del cliente se carga en un componente para no tener que llamar una vez más al Header y al Footer por ejemplo ? Gracias !
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Antonio Ordóñez Cornejo** (1)
+* **David Antonio Ordóñez Cornejo** (1) [357848](https://platzi.com/comentario/357848/) 
 
-	
 	Se usa el atributo className y no class. Eso tiene alguna importancia en next.js?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **davidtoca (Platzi)** (2)
+	* **davidtoca (Platzi)** [357848] (2)
 
-		
 		es porque next usa react, y react requiere el uso de classname, el uso de class esta restringido a webcomponents
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Ivan Robles** (5)
+	* **Ivan Robles** [357848] (5)
 
-		
 		En las proximas versiones de React se va a utilizar **class** , dejando de lado a **className** , pero mientras tanto hay que utilizar **className**.
 		
 		<https://github.com/facebook/react/issues/13525#issuecomment-417778489>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **jobcoronadoduran** (1)
+	* **jobcoronadoduran** [357848] (1)
 
-		
 		actualmente no se puede.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [345770](https://platzi.com/comentario/345770/) 
 
-	
 	Excelente como explica, todo detallado. De momento me esta gustando el Next.Js.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Joaquin Araujo** (1)
+* **Joaquin Araujo** (1) [338280](https://platzi.com/comentario/338280/) 
 
-	
 	He notado que al regresar al index desde channel tarda un poco en renderizarlo ¿le pasa a alguien más?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **jobcoronadoduran** (1)
+	* **jobcoronadoduran** [338280] (1)
 
-		
 		si
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jesus Garcia** (1)
+* **Jesus Garcia** (1) [330099](https://platzi.com/comentario/330099/) 
 
-	
 	excelente explicacion del prefetch
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **EnmanuelCastillo** (1)
+* **EnmanuelCastillo** (1) [80310](https://platzi.com/comentario/956681/) 
 General algún inconveniente el que los archivos sean de extensión .jsx en vez de .js???
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [80310] (3)
 
-		
 		Hoy en día no, los archivos .jsx y .js se comportan igual en la mayoría de compiladores, no deberías tener problemas por usar uno o el otro, la decisión va a depender de lo que acuerdes con tu equipo y tus reglas de trabajo 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **EnmanuelCastillo** (1)
+* **EnmanuelCastillo** (1) [80309](https://platzi.com/comentario/956680/) 
 General algún inconveniente el que los archivos sean de extensión .jsx en vez de .js???
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Antonio Ordóñez Cornejo** (1)
+* **David Antonio Ordóñez Cornejo** (1) [39716](https://platzi.com/comentario/357848/) 
 Se usa el atributo className y no class. Eso tiene alguna importancia en next.js?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **davidtoca (Platzi)** (2)
+	* **davidtoca (Platzi)** [39716] (2)
 
-		
 		es porque next usa react, y react requiere el uso de classname, el uso de class esta restringido a webcomponents
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **jhurtadojerves** (0)
+* **jhurtadojerves** (0) [37070](https://platzi.com/comentario/328886/) 
 Una consulta más bien off topic. ¿que complemente tienes instalado para que funcione emmet en JSX con vcode?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (5)
+	* **robertomgonzalez** [37070] (5)
 
-		
 		Viene con VSCode! Lo que tenés que hacer es setear el tipo de archivo a **Javascript React** abajo a la derecha (idealmente para todos los archivos .js, así no tenés que configurarlo a cada rato).
 		
 		Después sólo sumé la extensión de Styled JSX que te da syntax highlighting en el CSS.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0070. Recibiendo Parámetros
+## 0070. Recibiendo Parámetros [12079](https://platzi.com/clases/1311-next-js/12079-recibiendo-parametros/)
 
 ### Descripción:
 
@@ -4857,9 +4544,8 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 
 ### Comentarios:
 
-* **Sergio Minei** (8)
+* **Sergio Minei** (8) [349029](https://platzi.com/comentario/349029/) 
 
-	
 	## Recibiendo Parámetros
 	``` 
 	    // /pagina?id=54412
@@ -4874,39 +4560,34 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jhurtadojerves** (4)
+* **jhurtadojerves** (4) [328973](https://platzi.com/comentario/328973/) 
 
-	
 	Me gusta la forma tan sencilla para enviar parámetros, ojalá en seguientes clases se vea alguna forma de hacerlo más bonito, quitar ese ?id= de la url.
 	
 	Gran clase
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (8)
+	* **robertomgonzalez** [328973] (8)
 
-		
 		En la clase de Next Routes vemos cómo hacer URLs agradables 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **jhurtadojerves** (0)
+	* **jhurtadojerves** [328973] (0)
 
-		
 		Justo vi el temario y supuse que Next Routes lo arreglará, gracias por la respuesta 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [328365](https://platzi.com/comentario/328365/) 
 
-	
 	Si, estoy gritando…
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Ricardo José Galarza Palacios** (2)
+* **Ricardo José Galarza Palacios** (2) [774241](https://platzi.com/comentario/774241/) 
 
-	
 	Yo escribí channel.jsx de esta forma me gusta mas:
 	``` 
 	    exportdefaultclassextendsReact.Component{
@@ -5020,58 +4701,50 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Gaston Morales** (2)
+* **Gaston Morales** (2) [579582](https://platzi.com/comentario/579582/) 
 
-	
 	Increible como esta llendo el curso !!!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **LeandroVidela** (2)
+* **LeandroVidela** (2) [575966](https://platzi.com/comentario/575966/) 
 
-	
 	Por qué desde **channel.js** no hace falta importar **“isomorphic-fetch”**? Noto que también estamos usando fetch() en este archivo.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (4)
+	* **aragonesteban (Platzi)** [575966] (4)
 
-		
 		Hola, el archivo `index.js` es el comienzo de la aplicación, desde ahí es la única parte donde se importa `isomorphic-fetch`, en los demás pages funcionará **fetch()** porque se está importando desde el comienzo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **JoosCode** (1)
+	* **JoosCode** [575966] (1)
 
-		
 		si noto eso pero tampoco se importa react en el index ? y no entiendo como trabaja nuxt para hacer esas importaciones ??
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **JoosCode** (1)
+	* **JoosCode** [575966] (1)
 
-		
 		si noto eso pero tampoco se importa react en el index ? y no entiendo como trabaja next para hacer esas importaciones ??
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (2)
+	* **aragonesteban (Platzi)** [575966] (2)
 
-		
 		Hola @JoosCode, Next.js usa un import dinámico, es decir, cuando se llama `React` lo esta importando automáticamente sin tener un import explícito.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Georgie Duarte** (2)
+* **Georgie Duarte** (2) [530385](https://platzi.com/comentario/530385/) 
 
-	
 	como hago para ver el api de esa manera. que plugging usa? yo abro esa url y veo la data pero no me aparece de manera comestible.??
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **David Vargas Domínguez** (1)
+	* **David Vargas Domínguez** [530385] (1)
 
-		
 		Hola, en mi caso uso una extensión de chrome. Se llama JSON Formatter  
 		<https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa>
 		
@@ -5081,9 +4754,8 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **assistcardaciit** (1)
+* **assistcardaciit** (1) [1077116](https://platzi.com/comentario/1077116/) 
 
-	
 	Hola, tengo otra consulta relacionada con nextJS. En este ejemplo channel y audio_clips
 	``` 
 	      let channel = fetch(`https://api.audioboom.com/channels/${query.id}`)
@@ -5111,9 +4783,8 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Anthony Farias** (1)
+* **Anthony Farias** (1) [857884](https://platzi.com/comentario/857884/) 
 
-	
 	Implementacion de channel como componente funcional:
 	``` 
 	    const Channel = ({ channel, audioClips, series }) => {
@@ -5193,17 +4864,15 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Anthony Farias** (1)
+* **Anthony Farias** (1) [857879](https://platzi.com/comentario/857879/) 
 
-	
 	Si se reinicia el servidor y entramos directo a la pagina de channel/:id entonces bota el error de que fetch no está definido. Habrá que definirlo siempre en nuestras paginas.  
 	![error.png](https://static.platzi.com/media/user_upload/error-92f5407e-7e80-4f87-8c7b-a39881577fa6.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Diego Ortiz** (1)
+* **Diego Ortiz** (1) [725877](https://platzi.com/comentario/725877/) 
 
-	
 	Además de Next, me gusta aprender las diferentes sintaxis:  
 	`async getMethod(parametro) { let query = parametro.query }`  
 	Es exactamente igual que tener:  
@@ -5211,9 +4880,8 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Andrés Ramirez De Freitas** (1)
+* **Julio Andrés Ramirez De Freitas** (1) [711059](https://platzi.com/comentario/711059/) 
 
-	
 	Este es mi JSX Style para tener la misma vista ue mostro al principio.
 	``` 
 	    header {
@@ -5264,23 +4932,20 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **oteka21** (1)
+* **oteka21** (1) [657221](https://platzi.com/comentario/657221/) 
 
-	
 	Por que no crear un los componentes reutilizables como el Header
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Sergio Alejandro Trejo Cuxim** (1)
+	* **Sergio Alejandro Trejo Cuxim** [657221] (1)
 
-		
 		Lo puedes hacer sin ningún problema, hasta puede ser un componente funcional, no necesita ser un componente de clase
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alexjcm** (1)
+* **alexjcm** (1) [555197](https://platzi.com/comentario/555197/) 
 
-	
 	Si a la fecha a alguien se le presenta este **warning** en consola:
 	
 	![](https://i.postimg.cc/Y9RkJ2HT/error-key-react.jpg)
@@ -5300,16 +4965,14 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [530387](https://platzi.com/comentario/530387/) 
 
-	
 	como puedo ver los datos del api en el navegador de forma digerible para ver la estructura? si abro la url me trae los datos pero sin un formato ordenado??
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [530387] (1)
 
-		
 		buscaba era ver la info de la api asi como se ve en el video con el formato para entender su estructura y saber como acceder a la info que necesito.
 		
 		Use potsman que me permite hacer el request y me muestra la respues con unos estilos simpaticos. Me acorde de esta herramienta del curso de node.js
@@ -5318,89 +4981,82 @@ En esta clase vamos a ver cómo hacer una de las cosas más cruciales que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [530387] (3)
 
-		
 		Puedes usar insomina rest (<https://insomnia.rest/>) es un cliente para hacer consultas a API o postman, también puedes instalar en chrome una extensión para parsear respuestas json y verlas mejor estructuradas la extensión se llama Json Formatter <https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Hidalgo Díaz Rugama** (1)
+	* **Eduardo Hidalgo Díaz Rugama** [530387] (1)
 
-		
 		también está postman! es igual que insomnia.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Julio J Yépez** (3)
+	* **Julio J Yépez** [530387] (3)
 
-		
 		Hay plugins para chrome que te permiten ver archivos JSON en un formato mejorado: <https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **alexjcm** (1)
+	* **alexjcm** [530387] (1)
 
-		
 		Excelentes recomendaciones.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alejandrocabreratavara** (1)
-![Captura de pantalla 2018-09-24 a la\(s\) 21.49.08.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-09-24%20a%20la%28s%29%2021.49.08-42c49fab-1d68-47c3-b65d-3fa3ec9931d2.jpg)
+* **alejandrocabreratavara** (1) [387726](https://platzi.com/comentario/387726/) 
+	
+	![Captura de pantalla 2018-09-24 a la\(s\) 21.49.08.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-09-24%20a%20la%28s%29%2021.49.08-42c49fab-1d68-47c3-b65d-3fa3ec9931d2.jpg)
 	
 	Alguien sabe que puede estarme pasando ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **alejandrocabreratavara** (1)
+	* **alejandrocabreratavara** [387726] (1)
 ![Captura de pantalla 2018-09-24 a la\(s\) 21.53.01.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-09-24%20a%20la%28s%29%2021.53.01-3872b4d7-1a69-4862-8bc1-1f4c6f239364.jpg)
 		
 		Esto es mi codigo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **alejandrocabreratavara** (1)
+	* **alejandrocabreratavara** [387726] (1)
 ![Captura de pantalla 2018-09-24 a la\(s\) 21.53.21.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-09-24%20a%20la%28s%29%2021.53.21-0e15ad11-bb28-4a86-8930-382ded137791.jpg)
 		
 		Este el error …
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **alejandrocabreratavara** (2)
+	* **alejandrocabreratavara** [387726] (2)
 
-		
 		Sorry me di cuenta del error, desde el index , estaba pasando mal el id del channel…
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Eduardo Rasgado Ruiz** (1)
+* **Eduardo Rasgado Ruiz** (1) [346564](https://platzi.com/comentario/346564/) 
 
-	
 	Madre mia Willy!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [345961](https://platzi.com/comentario/345961/) 
 
-	
 	Yo grito pero es por que en verdad esto me esta gustando!!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **assistcardaciit** (1)
+* **assistcardaciit** (1) [85583](https://platzi.com/comentario/1077135/) 
 Respuesta a: Recibiendo Parámetros Hola, tengo otra consulta relacionada con nextJS. En este ejemplo channel y audio_clips let channel = ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Georgie Duarte** (1)
+* **Georgie Duarte** (1) [54479](https://platzi.com/comentario/530387/) 
 como puedo ver los datos del api en el navegador de forma digerible para ver la estructura? si abro la url me trae los datos pero sin un ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Georgie Duarte** (1)
+	* **Georgie Duarte** [54479] (1)
 
-		
 		buscaba era ver la info de la api asi como se ve en el video con el formato para entender su estructura y saber como acceder a la info que necesito.
 		
 		Use potsman que me permite hacer el request y me muestra la respues con unos estilos simpaticos. Me acorde de esta herramienta del curso de node.js
@@ -5409,19 +5065,19 @@ como puedo ver los datos del api en el navegador de forma digerible para ver la 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alejandrocabreratavara** (1)
+* **alejandrocabreratavara** (1) [42532](https://platzi.com/comentario/387726/) 
 Alguien sabe que puede estarme pasando ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **alejandrocabreratavara** (1)
+	* **alejandrocabreratavara** [42532] (1)
 ![Captura de pantalla 2018-09-24 a la\(s\) 21.53.01.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202018-09-24%20a%20la%28s%29%2021.53.01-3872b4d7-1a69-4862-8bc1-1f4c6f239364.jpg)
 		
 		Esto es mi codigo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0080. Performance de Get Initial Props
+## 0080. Performance de Get Initial Props [12080](https://platzi.com/clases/1311-next-js/12080-performance-de-get-initial-props/)
 
 ### Descripción:
 
@@ -5433,9 +5089,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 
 ### Comentarios:
 
-* **jsechirinos** (9)
+* **jsechirinos** (9) [328914](https://platzi.com/comentario/328914/) 
 
-	
 	Se puede optimizar los `requests` de forma paralela con:  
 	`Promise.all()`
 	
@@ -5450,9 +5105,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (8)
+* **WilliamVelazquez** (8) [331544](https://platzi.com/comentario/331544/) 
 
-	
 	Opte por optimizar un poco más la otra parte asíncrona después de que se obtuvo lo necesario de la API quedándome de la siguiente forma:
 	``` 
 	    		let [dataChannel, dataSeries, dataAudios] = await Promise.all([
@@ -5471,38 +5125,33 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Hidalgo Díaz Rugama** (3)
+	* **Eduardo Hidalgo Díaz Rugama** [331544] (3)
 
-		
 		te falta meterle manejo de errores, y que muestres un mensaje de error amigable en caso que te falle algun llamado. Igual, algo interesante, ¿como le harías para pintar en pantalla aquellos llamados que si se cumplieron y solo mostrar el error en la sección donde truene?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Alejandro Trejo Cuxim** (1)
+	* **Sergio Alejandro Trejo Cuxim** [331544] (1)
 
-		
 		Existen varias formas de lo que plantea Eduardo, para el caso de los ‘child_channels’, podemos con un IF si la request tiene o no datos, si tiene entonces regresar la data, de lo contrario, regresar la data con un mensaje de error.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Alejandro Trejo Cuxim** (1)
+	* **Sergio Alejandro Trejo Cuxim** [331544] (1)
 
-		
 		Pero tener cuidado, esto que comenté fue para validar que tenían data, pero recuerda la naturaleza del Promise.all según MDN:  
 		**_Si alguna de las promesas pasadas en el argumento iterable falla, la promesa all es rechazada inmediatamente con el valor de la promesa que fué rechazada, descartando todas las demás promesas hayan sido o no cumplidas. Si se pasa un array vacío a all , la promesa se cumple inmediatamente_**
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **WSJedp** (4)
+* **WSJedp** (4) [1005205](https://platzi.com/comentario/1005205/) 
 
-	
 	Cada vez que tengamos la necesidad de realizar varias peticiones a una API, la mejor practica es usar Promise.all(), es una función que nos permite realizar varias peticiones en paralelo, nos resulta bastante útil para mejor la rapidez de carga.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **MauricioHernanCabrera** (4)
+* **MauricioHernanCabrera** (4) [481041](https://platzi.com/comentario/481041/) 
 
-	
 	Bueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee e esto esta genial!
 	``` 
 	    static async getInitialProps ({ query: { id }}) {
@@ -5533,9 +5182,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Arturo Lira Cerda** (3)
+* **Luis Arturo Lira Cerda** (3) [606941](https://platzi.com/comentario/606941/) 
 
-	
 	Si quieren hacer tanto la request como la parte de pasar a JSON en la misma parte donde se hacen todas juntas, pueden usar .then()
 	
 	Personalmente a mí me gusta más así para no declarar tantas variables ^^
@@ -5560,9 +5208,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ivan Padilla Bernal** (2)
+	* **Diego Ivan Padilla Bernal** [606941] (2)
 
-		
 		Lo que hace el profesor no está del todo mal porque lo ideal es escribir código de forma vertical y no horizontal para hacerlo más legible pero pues fuera de eso ya depende de gustos
 		
 		Por cierto en tu caso ya no sería la request sino la data así que esto ya es de buenas practicas, y las buenas practicas dicen que debes nombrar las variables conforme lo que tienen que sería:
@@ -5571,9 +5218,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **tony_campos** (1)
+	* **tony_campos** [606941] (1)
 
-		
 		Siempre se debería buscar que el código sea fácil de leer, regularmente se pasa mucho más tiempo leyendo código existente que escribiendo código nuevo y tiene muchos beneficios como mayor limpieza, fácil comprensión y por tanto fácil mantenimiento del mismo (entre muchos otros beneficios).
 		
 		Por ejemplo:  
@@ -5582,9 +5228,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (3)
+* **Sergio Minei** (3) [349031](https://platzi.com/comentario/349031/) 
 
-	
 	## Performance de Get
 	
 	Si hay varias requests, se pueden paralelizar con `Promise.all()`.
@@ -5601,18 +5246,16 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **DiegoKardona** (2)
+* **DiegoKardona** (2) [511749](https://platzi.com/comentario/511749/) 
 
-	
 	Porqué usamos `let [req1, re2]` en vez de `const [req1, req2]`?
 	
 	Probé con `const` y me funciona muy bien. Por favor alguien digame que diferencia puede haber entre uno y otro.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [511749] (4)
 
-		
 		Si usas **const** tanto **req1** como **req2** no podrán ser reasignadas en ningún momento en el código:
 		``` 
 		    req1 = 'Otro valor'// Esto te muestra un error
@@ -5623,49 +5266,43 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Diego Ivan Padilla Bernal** (2)
+	* **Diego Ivan Padilla Bernal** [511749] (2)
 
-		
 		Yo creo que usar **let** lo hizo más por costumbre porque en este caso lo ideal si seria **const** porque no se modifica
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **antony999k** (2)
+* **antony999k** (2) [461803](https://platzi.com/comentario/461803/) 
 
-	
 	No me gusto esta clase, se salta muchas cosas que en un principio son difíciles de entender
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [461803] (1)
 
-		
 		Hola Antony, ¿podrías contarnos que cosas te dieron dificultad?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Nacho Ávila** (2)
+* **Nacho Ávila** (2) [383471](https://platzi.com/comentario/383471/) 
 
-	
 	Me pregunto si no es más óptimo cargar el contenido de la pagina mínimo con un loader y una vez cargada la página hacer estas request. El tiempo de carga sería el mismo pero tanto para arañas de búsqueda como para el usuario, la página se carga antes aunque sin contenido útil. Creo que es el standard actual. ¿Que opináis?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [383471] (1)
 
-		
 		No te lo recomiendo, siempre debemos mostrarle a nuestros usuarios contenido para darle cierto feedback de lo que está pasando, y los loaders suelen ser molestos
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **elvis-retiz** (2)
+* **elvis-retiz** (2) [61187](https://platzi.com/comentario/617726/) 
 ¿Saben que es lo que tengo que hacer para integrar mi aplicación con firebase para usar firestore?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Le_MaliX** (1)
+* **Le_MaliX** (1) [945882](https://platzi.com/comentario/945882/) 
 
-	
 	Usando aún mas la desestructuración y cachando errores
 	``` 
 	    static async getInitialProps({ query: { id } }) {
@@ -5688,9 +5325,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Ricardo José Galarza Palacios** (1)
+* **Ricardo José Galarza Palacios** (1) [774507](https://platzi.com/comentario/774507/) 
 
-	
 	Un poco mas corto
 	``` 
 	    staticasync getInitialProps({ query }) {
@@ -5709,9 +5345,8 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Alejandro Trejo Cuxim** (1)
+* **Sergio Alejandro Trejo Cuxim** (1) [726468](https://platzi.com/comentario/726468/) 
 
-	
 	## **Promise.all**
 	
 	Tener en cuenta que puede romperse:  
@@ -5733,28 +5368,25 @@ En esta clase veremos cómo con Promise.all() solucionamos este problema de perf
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Diaz Venero** (1)
+* **Luis Diaz Venero** (1) [583303](https://platzi.com/comentario/583303/) 
 
-	
 	Request paralelas a un api, mejora de performance
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Wilson Fabian Pérez Sucuzhañay** (1)
+* **Wilson Fabian Pérez Sucuzhañay** (1) [457309](https://platzi.com/comentario/457309/) 
 
-	
 	Consulta como se deberia hacer el await si para el siguiente fecht necesita del anterior ya no servivio el all? ¿Qué metodo deberiamos utilizar?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **DiegoKardona** (1)
+* **DiegoKardona** (1) [52963](https://platzi.com/comentario/511749/) 
 Porqué usamos let [req1, re2] en vez de const [req1, req2]? Probé con const y me funciona muy bien...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Erik Ochoa (Platzi)** (4)
+	* **Erik Ochoa (Platzi)** [52963] (4)
 
-		
 		Si usas **const** tanto **req1** como **req2** no podrán ser reasignadas en ningún momento en el código:
 		``` 
 		    req1 = 'Otro valor'// Esto te muestra un error
@@ -5765,9 +5397,8 @@ Porqué usamos let [req1, re2] en vez de const [req1, req2]? Probé con const y 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **hernandezalejandro** (0)
+* **hernandezalejandro** (0) [1000902](https://platzi.com/comentario/1000902/) 
 
-	
 	Asi puede implementarse axios en el getInitialProps
 	``` 
 	    channel.getInitialProps = async ({ query }) => {
@@ -5796,12 +5427,12 @@ Porqué usamos let [req1, re2] en vez de const [req1, req2]? Probé con const y 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jose Adrian Valentin Rodriguez** (0)
+* **Jose Adrian Valentin Rodriguez** (0) [83321](https://platzi.com/comentario/1024462/) 
 en todo los componentes que maneje muchas consultas tengo que ocupar el promise.all eso no afecta? si consultara muchos componentes en el...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-## 0090. Vista de Podcasts
+## 0090. Vista de Podcasts [12081](https://platzi.com/clases/1311-next-js/12081-vista-de-podcasts/)
 
 ### Descripción:
 
@@ -5812,9 +5443,8 @@ Este reto pone a prueba todo lo que venimos aprendiendo hasta el momento en el c
 
 ### Comentarios:
 
-* **Joaquin Araujo** (8)
+* **Joaquin Araujo** (8) [338456](https://platzi.com/comentario/338456/) 
 
-	
 	Sí a alguien le da el siguiente error en la consola:
 	
 	![Screenshot from 2018-07-23 16-13-28.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-07-23%2016-13-28-ab2179ae-2103-4fdc-a7ef-989a64634f73.jpg)
@@ -5828,32 +5458,28 @@ Este reto pone a prueba todo lo que venimos aprendiendo hasta el momento en el c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Julio Andrés Ramirez De Freitas** (7)
+* **Julio Andrés Ramirez De Freitas** (7) [711224](https://platzi.com/comentario/711224/) 
 
-	
 	**Reto Cumplido y un poco mas **
 	
 	![podcast.png](https://static.platzi.com/media/user_upload/podcast-eb617111-dac2-411a-8db0-a14e2e57f703.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ortiz** (4)
+	* **Diego Ortiz** [711224] (4)
 
-		
 		Yo ni pude encontrar cómo se sube una imagen en un comentario de Platzi (sin tener que subirla a un servicio externo)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Alejandro Trejo Cuxim** (2)
+	* **Sergio Alejandro Trejo Cuxim** [711224] (2)
 
-		
 		Sencillo Diego Ortiz, solamente arrastas la imagen.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **jhon manuel angulo moncada** (3)
+* **jhon manuel angulo moncada** (3) [827598](https://platzi.com/comentario/827598/) 
 
-	
 	Hice un pequeño cambio solo para traer los podcast en español jeje:
 	``` 
 	    'https://api.audioboom.com/channels/recommended?category_ids[]=179'
@@ -5866,34 +5492,31 @@ Este reto pone a prueba todo lo que venimos aprendiendo hasta el momento en el c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Arturo Lira Cerda** (3)
+* **Luis Arturo Lira Cerda** (3) [606958](https://platzi.com/comentario/606958/) 
 
-	
 	Listo 😄 Lo bueno de haber tomado cursos anteriores como React, Redux, Fundamentos de JavaScript, etc. es que entiendo perfectamente qué hace el código, no siento que solo copio y pego.
 	
 	![Podcasts.PNG](https://static.platzi.com/media/user_upload/Podcasts-699f18b5-3266-45fb-8d00-9d91e4bac4f4.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **camiladi** (3)
+* **camiladi** (3) [493484](https://platzi.com/comentario/493484/) 
 
-	
 	para los que les suceda como a mi que cuando accedían a la api de audioboom se les veía lineas ilegibles de JSON, el profesor utiliza la extensión de chrome JSONView, aquí les dejo en link para agregarla:
 	
 	<https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc/related>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (3)
+* **David Daniel Castillo Nava** (3) [346024](https://platzi.com/comentario/346024/) 
 
-	
 	**Reto cumplico!!**
 	
 	![](https://s3.amazonaws.com/davecast/reto2.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Alejandro Trejo Cuxim** (2)
+* **Sergio Alejandro Trejo Cuxim** (2) [726735](https://platzi.com/comentario/726735/) 
 <h3>Utilizando un componente funcional:</h3>
 	
 	Ya que, las clases son más pesadas, más lentas y todas esas chuchas, funciona bien en función para solo mostrar la información
@@ -5928,58 +5551,53 @@ Este reto pone a prueba todo lo que venimos aprendiendo hasta el momento en el c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jsechirinos** (2)
+* **jsechirinos** (2) [329072](https://platzi.com/comentario/329072/) 
 
-	
 	 **Reto Cumplido**
 	
 	![reto vista podcast](https://image.ibb.co/cwOPST/reto1.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Sánchez** (1)
+* **David Sánchez** (1) [1087332](https://platzi.com/comentario/1087332/) 
 
-	
 	Asi quedo mi página de Podcast! Trate de basarme un poco en PocketCasts 😄
 	
 	![Screenshot](https://i.imgur.com/uhpalnb.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Roberto S. Sampayo** (1)
+* **Roberto S. Sampayo** (1) [1076121](https://platzi.com/comentario/1076121/) 
 
-	
 	Así quedo mi podcast page:
 	
 	![](https://i.imgur.com/MdRHec4.png)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **johnaagudelo** (1)
-![Captura de Pantalla 2020-03-18 a la\(s\) 8.57.23 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-18%20a%20la%28s%29%208.57.23%20p.%C2%A0m.-016ab8d8-c38e-4026-af86-cc298672d499.jpg)
+* **johnaagudelo** (1) [1046854](https://platzi.com/comentario/1046854/) 
+	
+	![Captura de Pantalla 2020-03-18 a la\(s\) 8.57.23 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-18%20a%20la%28s%29%208.57.23%20p.%C2%A0m.-016ab8d8-c38e-4026-af86-cc298672d499.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jdpo2008** (1)
+* **jdpo2008** (1) [976289](https://platzi.com/comentario/976289/) 
 
-	
 	Reto Logrado
 	
 	![Reto_Platzi_curso_Nextjs.png](https://static.platzi.com/media/user_upload/Reto_Platzi_curso_Nextjs-7c638868-a68c-45eb-8a6c-1ef2f3eb04db.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **CodingLeonardo** (1)
+* **CodingLeonardo** (1) [932725](https://platzi.com/comentario/932725/) 
 
-	
 	💚😎**Reto Completado!**💚😎  
 	![screencapture-localhost-3000-podcast-2020-01-18-17_51_43.png](https://static.platzi.com/media/user_upload/screencapture-localhost-3000-podcast-2020-01-18-17_51_43-a3793494-d786-41f0-9565-c0722dea3624.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [879352](https://platzi.com/comentario/879352/) 
 
-	
 	Todo el reto lo monte en CodeSanBox, les comparto la URL correspondiente a la practica
 	
 	**Codigo**  
@@ -5990,62 +5608,55 @@ Este reto pone a prueba todo lo que venimos aprendiendo hasta el momento en el c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Manuel Ojeda** (1)
+* **Manuel Ojeda** (1) [826841](https://platzi.com/comentario/826841/) 
 
-	
 	Reto completado 🤘
 	
 	![msedge_NNuif4lddh.png](https://static.platzi.com/media/user_upload/msedge_NNuif4lddh-5330a320-ba1d-414c-86e0-e8fd59550466.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [805705](https://platzi.com/comentario/805705/) 
 
-	
 	Genail!!  
 	Usando variables dinamicos en css _(background-image:url($image-portada))_
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **josdanind** (1)
+* **josdanind** (1) [690880](https://platzi.com/comentario/690880/) 
 
-	
 	Roberto usó una API muy enredada para este proyecto, me a llevado tiempo entender el JSON. Para la próxima una más sencilla, como una de pokemón, jajaja.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Danner Adib Uribe** (1)
+* **Danner Adib Uribe** (1) [608582](https://platzi.com/comentario/608582/) 
 
-	
 	Hola, alguien sabe porque este error:  
 	![Captura de pantalla 2019-06-07 a la\(s\) 2.34.10 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-06-07%20a%20la%28s%29%202.34.10%20p.%20m.-4d5bbb78-166f-493c-b2c4-4a7aae8271f5.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Simón Rotjes** (1)
+	* **Simón Rotjes** [608582] (1)
 
-		
 		audioClips es undefinded o null, probably un typo, checkea la linea de codigo donde creaste esa variable e hiciste el call
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **EnmanuelCastillo** (1)
+	* **EnmanuelCastillo** [608582] (1)
 Verifica a ver si la llamada a la api la nombraste con la constante Clips o si la guardaste en otra variable
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gaston Morales** (1)
+* **Gaston Morales** (1) [579822](https://platzi.com/comentario/579822/) 
 
-	
 	 **Hola, tengo un problema, en algunos podcast todo funciona correctamente, mientras que en otros, me da este error, alguno tienen un solución a esto ?**
 	
 	**![error 1.jpg](https://static.platzi.com/media/user_upload/error%201-4946c913-92d8-4ad0-99c2-be424b9cffae.jpg)![error 2.jpg](https://static.platzi.com/media/user_upload/error%202-7eaf5bd4-70ec-471c-bd3e-cd8c67ce09d4.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **LeandroVidela** (1)
+* **LeandroVidela** (1) [576089](https://platzi.com/comentario/576089/) 
 
-	
 	Reto cumplido! No se veía la imagen y tuve modificar **picture**.
 	``` 
 	    picture 
@@ -6057,16 +5668,14 @@ Verifica a ver si la llamada a la api la nombraste con la constante Clips o si l
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **alexjcm** (1)
+* **alexjcm** (1) [555946](https://platzi.com/comentario/555946/) 
 
-	
 	Hasta ahora todo se me ha hecho algo fácil, menos lo de css, creo que tendré que seguir el curso de CSS. 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **esdraspavon** (1)
+* **esdraspavon** (1) [456739](https://platzi.com/comentario/456739/) 
 
-	
 	Vamooos!!
 	
 	![podcast.png](https://static.platzi.com/media/user_upload/podcast-f73a2f2d-6f7d-4a99-8640-7179f1033ef6.jpg)
@@ -6075,9 +5684,9 @@ Verifica a ver si la llamada a la api la nombraste con la constante Clips o si l
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-# Componentes Reutilizables
+# Componentes Reutilizables [2203]
 
-## 0100. Creando componentes en React
+## 0100. Creando componentes en React [12082](https://platzi.com/clases/1311-next-js/12082-creando-componentes-en-react4402/)
 
 ### Descripción:
 
@@ -6090,23 +5699,20 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 
 ### Comentarios:
 
-* **David Daniel Castillo Nava** (8)
+* **David Daniel Castillo Nava** (8) [346058](https://platzi.com/comentario/346058/) 
 
-	
 	Cuando te pones a escuchar podcast en el mismo app que acabas de montar!! 😄 Cada vez se pone mas interesante el curso
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Diego Ivan Padilla Bernal** (3)
+* **Diego Ivan Padilla Bernal** (3) [631810](https://platzi.com/comentario/631810/) 
 
-	
 	Para ChannelGrid y Layout no se debieron usar componentes stateful sino más bien stateless así esos componentes quedarían más legibles.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ortiz** (1)
+	* **Diego Ortiz** [631810] (1)
 
-		
 		Tome la idea y efectivamente, lo transformé en un stateless, así:
 		``` 
 		    import css from'./channelGrid.scss'
@@ -6135,9 +5741,8 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (3)
+* **Sergio Minei** (3) [349032](https://platzi.com/comentario/349032/) 
 
-	
 	## Creando Componentes
 	
 	La idea de un componente es identificar código duplicado o cosas que realmente no queremos copiar y pegar y separarlas en archivos independientes y reutilizables.
@@ -6169,50 +5774,44 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jsechirinos** (3)
+* **jsechirinos** (3) [329174](https://platzi.com/comentario/329174/) 
 
-	
 	 **Recapitulación**  
 	Siempre empezar por papel diseñando la api que queremos usar:
 	
-	  * Crear Componentes: evitar la duplicidad de código
-	  * Separar en Componentes: Simples(solo render con props), Smart Components (con Lógica)
+	* Crear Componentes: evitar la duplicidad de código
+	* Separar en Componentes: Simples(solo render con props), Smart Components (con Lógica)
 	
 	
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **mariomenjr** (3)
+	* **mariomenjr** [329174] (3)
 
-		
 		Del curso de Leonidas 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Betty Rossana Jimenez Cedeño** (2)
+* **Betty Rossana Jimenez Cedeño** (2) [878143](https://platzi.com/comentario/878143/) 
 
-	
 	Es mi idea, o el link que se esta usando para la API, es intendible
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **kevinspider** (2)
+* **kevinspider** (2) [548246](https://platzi.com/comentario/548246/) 
 
-	
 	Hola, haciendo la creación de los componentes al pasarle el prop al ChannelGrid me tira un error diciendo que .map no esta definido alguien sabe por que sucede
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Simón Rotjes** (1)
+	* **Simón Rotjes** [548246] (1)
 
-		
 		Verifica que el objeto que estas pasando como una prop no sea null.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Luis Manuel Brito Romero** (1)
+	* **Luis Manuel Brito Romero** [548246] (1)
 
-		
 		Compañero. en el componente ChannelGrid, cuando asignas props a channels hay que hacerlo de esta manera
 		``` 
 		    const ChannelGrid = (props) => {
@@ -6270,18 +5869,16 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Eduardo Hidalgo Díaz Rugama** (2)
+* **Eduardo Hidalgo Díaz Rugama** (2) [459206](https://platzi.com/comentario/459206/) 
 
-	
 	o woao. que grande! que magistral. en 15 minutos explicó perfectamente como integrar next.js con react, enseño patrón de componentes con react, y enseñó props, children y map.
 	
 	Estoy yendo a twitter a hacerle follow al profesor, y a seguirle la pista de cualquier curso que de.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Joaquin Araujo** (2)
+* **Joaquin Araujo** (2) [340063](https://platzi.com/comentario/340063/) 
 
-	
 	Tal como dijo Robert, el `<Head />` se puede colocar en cualquier lugar del código pero **algo que siempre debes de tener en cuenta es: “Usar buenas prácticas”** , tu código seguramente lo mirará otro dev (o tu yo del futuro) y es necesario que lo entienda.
 	
 	La traducción de `<Head />` es Cabeza; por sentido común debería estar al principio del código 😃
@@ -6290,9 +5887,8 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (2)
+* **WilliamVelazquez** (2) [331771](https://platzi.com/comentario/331771/) 
 
-	
 	¿Hace falta importar isomorphic-fetch en cada uno de los js de pages? Actualmente lo estoy importando unicamente dentro del index pero no estoy seguro si al ponerse en producción me afecte el no importarlo en los demás.
 	
 	De antemano gracias,  
@@ -6300,71 +5896,62 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (8)
+	* **robertomgonzalez** [331771] (8)
 
-		
 		Es muy recomendable importar las librerías que utilices en cada archivo para evitar problemas o bugs a futuro (ya sean isomorphic-fetch, componentes u otras funciones). Olvidarse de importar libs a veces crea bugs donde una página anda navegando desde el browser (desde la home a una page en particular), pero que crashea si entrás directamente y Next tiene que hacer server side rendering.
 		
 		Otro caso es que en Next no suele hacer falta importar React en páginas o componentes, pero en cuanto empezás a agregar con algunos plugins de webpack el compilador falla con un error críptico si no importás React explícitamente. Cuando te pasa podés estar un rato largo googleando hasta descubrir que es por eso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **.** (1)
+	* **.** [331771] (1)
 
-		
 		En mi caso yo siempre he visto que solamente lo tienes que importar donde estés haciendo el fetch ya que ahí es donde vas a usar la funcionalidad de lo que estás importando.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (2)
+	* **WilliamVelazquez** [331771] (2)
 
-		
 		Muchas gracias! @robertomgonzalez y @carlossz como mencionas más vale agregarlo para evitar cualquier bug! 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **RBN1993** (1)
+	* **RBN1993** [331771] (1)
 
-		
 		Lo que puedes hacer es crear un servicio api.js donde llamarías una sola vez a esa librería y exportas las llamadas a las apis que vayas a usar. Así de esa manera tienes toda esa lógica en un solo sitio y la importas donde te sea necesario sin repetir código.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Ivan Magdaleno** (1)
+* **Ivan Magdaleno** (1) [1067236](https://platzi.com/comentario/1067236/) 
 
-	
 	¿Es adecuado usar un <a> dentro de un componente <Link>?
 	
 	¿No se supone que el componente <Link> al momento de renderizarse, genera un <a>?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Matias Alejandro Lopez Heredia** (1)
+	* **Matias Alejandro Lopez Heredia** [1067236] (1)
 
-		
 		Respondió a tu duda en un video anterior en donde explicó el componente Link de Next. Este a diferencia de otros, no genera un tag a, lo que hace es inyectarle la propiedad href definida en Link a un tag a definido por el programador. En resumen, tenés que crear un tag a adentro de Link, o no te va a funcionar.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **onlinejaime** (1)
+* **onlinejaime** (1) [800224](https://platzi.com/comentario/800224/) 
 
-	
 	No me funciona cuando hago lo de <Head>, no recibe los props y no cambia el título en la pestaña… ¿Será porque uso Windows? No entiendo el porqué. Todo lo demás funciona.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **onlinejaime** (1)
+	* **onlinejaime** [800224] (1)
 
-		
 		Solución:
 		
 		[](url)<https://github.com/zeit/next.js/issues/5774>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Kelly Jesus Salazar Sanchez** (1)
+* **Kelly Jesus Salazar Sanchez** (1) [796583](https://platzi.com/comentario/796583/) 
 
-	
 	Mi codigo
 	``` 
 	    import React from 'react'
@@ -6390,46 +5977,40 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Salazar** (1)
+* **Luis Salazar** (1) [631947](https://platzi.com/comentario/631947/) 
 
-	
 	No era mas facil iniciar el proyecto ya armando los componentes y dejando una estructura mas legible del todo el proyecto?, y a su vez hubiese sido un gran plus para entender de forma mas legible Next.js. A veces me hace sentir que el que dicta este curso carece de conocimientos sobre como explicar sin tantas vueltas.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Cristian Camilo Cucunubá** (6)
+	* **Cristian Camilo Cucunubá** [631947] (6)
 
-		
 		Si hubiera sido mas facil para una persona que sabe react, pero como este curso tambien sirve para personas que nunca han programado con react, es mas facil explicarlo escribiendo todo el codigo de una.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **jenapi** (1)
+	* **jenapi** [631947] (1)
 
-		
 		sinceramente este me parece que es uno de los mejores cursos de react que he tomado en platzi, el profesor me hace querer seguir viendo las clases y la forma de explicar está muy bien. Ningún concepto ha sido redundante y cada vez que introduce algún conocimiento nuevo viene acompañado de su lamina para explicar
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **javier alejandro segovia** (1)
+* **javier alejandro segovia** (1) [378945](https://platzi.com/comentario/378945/) 
 
-	
 	La api de series no se cargando. haci descargue el archivos de pestaña , y tampoco funciona.  
 	No puedo ver la serie.  
 	Necesito ayuda
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [378945] (1)
 
-		
 		Revisa que no tengas errores en la consola.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Andres.F.Delgado** (1)
+* **Andres.F.Delgado** (1) [335575](https://platzi.com/comentario/335575/) 
 
-	
 	Porqué await está encerrado entre paréntesis ?
 	``` 
 	    let clip = (await fetchClip.json()).body.audio_clip
@@ -6438,9 +6019,8 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (2)
+	* **robertomgonzalez** [335575] (2)
 
-		
 		Es para tomar el .body.audio_clip del resultado del await en una sola línea. Sería equivalente a hacer:
 		``` 
 		    letclipData = await fetchClip.json()
@@ -6450,81 +6030,75 @@ En esta clase vamos a empezar a crear componentes de React, no sólo páginas, s
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Carlos Rivas** (1)
+	* **Carlos Rivas** [335575] (1)
 
-		
 		Muy brutal tu forma de optimizar el código, @robertomgonzalez, ¿sigues alguna guía en particular o lo aprendiste de algún lado?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Juan  Reyes** (1)
+* **Juan  Reyes** (1) [328773](https://platzi.com/comentario/328773/) 
 
-	
 	Nunca ames a nadie de Posta jajaja
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [75990](https://platzi.com/comentario/879458/) 
 Por que siempre ponen dentro de div vacios y no utilizan fragmernt?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [71402](https://platzi.com/comentario/796458/) 
 a mi me marca un error en el index al guardar los cambio de channelgrid me dice que no esta 😕
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [71402] (1)
 
-		
 		¡Hola!
 		
 		¿Podrías mostrarnos una captura del error? Y también tu código. Así sin esa info es muy difícil adivinar cuál es la solución. 😅🐛🙏
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **nik020** (1)
+* **nik020** (1) [63658](https://platzi.com/comentario/662930/) 
 Mmm yo hubiera hecho un componente que sea el item del podcast, dentro de ChannelGrid o reemplazarlo por channelGrid y el loop en el home...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Rubén Jiménez Uribe** (1)
+* **Rubén Jiménez Uribe** (1) [63503](https://platzi.com/comentario/659877/) 
 Al guardar ChannelGrid.js a mi me marco error de que no tenía importado Link, pero en el video veo que no esta importado. What!? Bueno en...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **RafaelTorresE** (1)
+* **RafaelTorresE** (1) [62366](https://platzi.com/comentario/639007/) 
 Por qué tengo el siguiente error cuando quiero renderizar? React.Children.only expected to receive a single React element child.<...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [62366] (1)
 
-		
 		Debes estar haciendo return de dos elementos html, intenta solo devolver uno conteniendo los dos dentro de un div por ejemplo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **javier alejandro segovia** (1)
+* **javier alejandro segovia** (1) [41716](https://platzi.com/comentario/378945/) 
 La api de series no se cargando. haci descargue el archivos de pestaña , y tampoco funciona. No puedo ver la serie. Necesito ayuda
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [41716] (1)
 
-		
 		Revisa que no tengas errores en la consola.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Andres.F.Delgado** (1)
+* **Andres.F.Delgado** (1) [37673](https://platzi.com/comentario/335575/) 
 Porqué await está encerrado entre paréntesis ? let clip = (await fetchClip.json()).body.audio_clip 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (2)
+	* **robertomgonzalez** [37673] (2)
 
-		
 		Es para tomar el .body.audio_clip del resultado del await en una sola línea. Sería equivalente a hacer:
 		``` 
 		    letclipData = await fetchClip.json()
@@ -6534,21 +6108,20 @@ Porqué await está encerrado entre paréntesis ? let clip = (await fetchClip.js
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (1)
+* **WilliamVelazquez** (1) [37307](https://platzi.com/comentario/331771/) 
 ¿Hace falta importar isomorphic-fetch en cada uno de los js de pages? Actualmente lo estoy importando unicamente dentro del index pero no...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **robertomgonzalez** (8)
+	* **robertomgonzalez** [37307] (8)
 
-		
 		Es muy recomendable importar las librerías que utilices en cada archivo para evitar problemas o bugs a futuro (ya sean isomorphic-fetch, componentes u otras funciones). Olvidarse de importar libs a veces crea bugs donde una página anda navegando desde el browser (desde la home a una page en particular), pero que crashea si entrás directamente y Next tiene que hacer server side rendering.
 		
 		Otro caso es que en Next no suele hacer falta importar React en páginas o componentes, pero en cuanto empezás a agregar con algunos plugins de webpack el compilador falla con un error críptico si no importás React explícitamente. Cuando te pasa podés estar un rato largo googleando hasta descubrir que es por eso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0110. Reorganizar la vista de podcasts
+## 0110. Reorganizar la vista de podcasts [12083](https://platzi.com/clases/1311-next-js/12083-reorganizar-la-lista-de-podcasts/)
 
 ### Descripción:
 
@@ -6563,9 +6136,8 @@ En este reto tendremos que aplicar lo que aprendimos en la clase anterior sobre 
 
 ### Comentarios:
 
-* **David Daniel Castillo Nava** (15)
+* **David Daniel Castillo Nava** (15) [346085](https://platzi.com/comentario/346085/) 
 
-	
 	 _ **Reto cumplido**_
 	
 	_Home_  
@@ -6581,16 +6153,14 @@ En este reto tendremos que aplicar lo que aprendimos en la clase anterior sobre 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Ramiro Calo** (1)
+	* **Ramiro Calo** [346085] (1)
 
-		
 		Hola, podrías compartir tus styles de channel? me gustó como te quedó.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Joaquin Araujo** (4)
+* **Joaquin Araujo** (4) [340231](https://platzi.com/comentario/340231/) 
 
-	
 	Les cuento que así quedó mi `<PodcastList />`
 	
 	![Screenshot from 2018-07-25 18-09-26 \(1\).png](https://static.platzi.com/media/user_upload/Screenshot%20from%202018-07-25%2018-09-26%20%281%29-6d10a15e-ab41-498b-9c83-e53948286d3f.jpg)
@@ -6599,65 +6169,58 @@ En este reto tendremos que aplicar lo que aprendimos en la clase anterior sobre 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **david vicent** (3)
+* **david vicent** (3) [329663](https://platzi.com/comentario/329663/) 
 
-	
 	No se ve la vista del iphone X
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [329663] (1)
 
-		
 		¡Hola David! ¿Te sale algún error con la vista del iPhone? Recuerda que el profesor está usando Mac y Xcode
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alexabellerman** (2)
-![Screen Shot 2020-01-03 at 03.36.16.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.16-14829499-51b3-450e-97b2-99c9cbae6460.jpg) ![Screen Shot 2020-01-03 at 03.36.31.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.31-10ae3f65-1565-4787-8044-bd5284a873ba.jpg) ![Screen Shot 2020-01-03 at 03.36.38.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.38-644f878d-5b4e-47ac-9ee2-a025e94ccb45.jpg) ![Screen Shot 2020-01-03 at 03.36.50.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.50-3591fea6-bfc7-43de-933a-a521a7c7b5d8.jpg)
+* **alexabellerman** (2) [897958](https://platzi.com/comentario/897958/) 
+	
+	![Screen Shot 2020-01-03 at 03.36.16.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.16-14829499-51b3-450e-97b2-99c9cbae6460.jpg) ![Screen Shot 2020-01-03 at 03.36.31.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.31-10ae3f65-1565-4787-8044-bd5284a873ba.jpg) ![Screen Shot 2020-01-03 at 03.36.38.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.38-644f878d-5b4e-47ac-9ee2-a025e94ccb45.jpg) ![Screen Shot 2020-01-03 at 03.36.50.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-01-03%20at%2003.36.50-3591fea6-bfc7-43de-933a-a521a7c7b5d8.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhurgen Maraza** (2)
+* **Jhurgen Maraza** (2) [589323](https://platzi.com/comentario/589323/) 
 
-	
 	Soy el único al que no le funciona el link de <https://api.audioboom.com/channels/recommended> ?  
 	me lo devuelve vacío…
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Salazar** (1)
+	* **Luis Salazar** [589323] (1)
 
-		
 		A mi me paso lo mismo con series, con un conditional rendering filtrando si viene vacio o no, queda mas prolijo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [589323] (1)
 
-		
 		¡Hola Jhurgen! He probado esa URL y pues si tiene datos en JSON, ¿qué clase de error te da a ti?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **David Esteban Higuita Velasquez** (2)
+* **David Esteban Higuita Velasquez** (2) [568545](https://platzi.com/comentario/568545/) 
 
-	
 	¿cómo se puede observar la data que retorna un api en next?  
 	Me refiero a ver la respuesta directa del api similar a cómo se ve en el network de chrome cuando se crea una app con create-reacat-app, es decir, allá puedo ver el api consumido y la data que llega, y supongo que como en next ya está el server-side-rendering la forma es distinta, pero no se cómo hacerlo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [568545] (1)
 
-		
 		Puedes hacer un `console.log()` después de obtener los datos e imprimirlo en la consola
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **jhon manuel angulo moncada** (1)
+* **jhon manuel angulo moncada** (1) [830919](https://platzi.com/comentario/830919/) 
 
-	
 	Reto cumplido…
 	``` 
 	    import Layout from '../components/Layout'
@@ -6725,35 +6288,34 @@ En este reto tendremos que aplicar lo que aprendimos en la clase anterior sobre 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **SOFTDYNAMIC** (1)
-![](https://scontent.flim9-1.fna.fbcdn.net/v/t1.0-9/71567023_2596349897115579_5998322450528468992_n.jpg?_nc_cat=104&_nc_oc=AQkwGh4PeIxAQVvkoZ5Tg9qb1416Yz0UMNVNPkw3VGsf3IT3MXdk0FMoT2IJWiNbvV8&_nc_ht=scontent.flim9-1.fna&oh=f1e5b8739503c220b41323454c958906&oe=5E302199)
+* **SOFTDYNAMIC** (1) [770610](https://platzi.com/comentario/770610/) 
+	
+	![](https://scontent.flim9-1.fna.fbcdn.net/v/t1.0-9/71567023_2596349897115579_5998322450528468992_n.jpg?_nc_cat=104&_nc_oc=AQkwGh4PeIxAQVvkoZ5Tg9qb1416Yz0UMNVNPkw3VGsf3IT3MXdk0FMoT2IJWiNbvV8&_nc_ht=scontent.flim9-1.fna&oh=f1e5b8739503c220b41323454c958906&oe=5E302199)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **esdraspavon** (1)
+* **esdraspavon** (1) [457094](https://platzi.com/comentario/457094/) 
 
-	
 	**_Reto cumplido!! _** 💪
 	
 	![channel.png](https://static.platzi.com/media/user_upload/channel-e8310763-52da-493c-8d0f-b561978e692f.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhurgen Maraza** (1)
+* **Jhurgen Maraza** (1) [59273](https://platzi.com/comentario/589323/) 
 Soy el único al que no le funciona el link de https://api.audioboom.com/channels...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Salazar** (1)
+	* **Luis Salazar** [59273] (1)
 
-		
 		A mi me paso lo mismo con series, con un conditional rendering filtrando si viene vacio o no, queda mas prolijo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-# Navegación Avanzada
+# Navegación Avanzada [2204]
 
-## 0120. Gestionando Errores
+## 0120. Gestionando Errores [12084](https://platzi.com/clases/1311-next-js/12084-gestionando-errores/)
 
 ### Descripción:
 
@@ -6768,9 +6330,8 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 
 ### Comentarios:
 
-* **jsechirinos** (9)
+* **jsechirinos** (9) [329452](https://platzi.com/comentario/329452/) 
 
-	
 	Si todo correcto: 200,  
 	Si no existe el contenido: 404,  
 	Si se prendió fuego el data center y no funciona el server: 503,  
@@ -6778,16 +6339,15 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (5)
+* **Sergio Minei** (5) [349035](https://platzi.com/comentario/349035/) 
 
-	
 	## Manejo de Errores
 	
 	Cuando hacemos Server Side Rendering, nuestros servidor responde con un status.
 	
-	  * **Status 200** : Todo está bien.
-	  * **Error 404** : Página no existe
-	  * **Error 503** : Hay un probblema de red o la API no está funcionando.
+	* **Status 200** : Todo está bien.
+	* **Error 404** : Página no existe
+	* **Error 503** : Hay un probblema de red o la API no está funcionando.
 	
 	
 	
@@ -6837,9 +6397,8 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Alberto Esquinazi** (3)
+	* **Daniel Alberto Esquinazi** [349035] (3)
 
-		
 		recuerda que tienes q obtener el objeto res de los parametros
 		``` 
 		    staticasyncgetInitialProps({ res }) {
@@ -6848,16 +6407,14 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Minei** (2)
+	* **Sergio Minei** [349035] (2)
 
-		
 		muchas gracias por el dato @esquinazi 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Matias Alejandro Lopez Heredia** (2)
+* **Matias Alejandro Lopez Heredia** (2) [1073453](https://platzi.com/comentario/1073453/) 
 
-	
 	Se puede “catchear” errores de promesas de dos formas nativas en JavaScript.
 	
 	  1. Seria usar try/catch como lo hicieron en esta lección.
@@ -6889,9 +6446,8 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **LeandroVidela** (2)
+* **LeandroVidela** (2) [577483](https://platzi.com/comentario/577483/) 
 
-	
 	No entiendo porque seteamos a 200 el statusCode en caso de éxito. No sería correcto asignarle el valor del status del request ( req.status )?
 	
 	Si dejamos el código como lo vimos en la clase y tenemos un error de tipeo en la URL del Fetch nos tira un error horrible, mientras que si cambiamos el valor de statusCode a req.status no devuelve un error 404, que entiendo sería lo más correcto, ya que lo URL a la que le hacemos la petición no existe.
@@ -6914,25 +6470,22 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Agustín Castro** (2)
+* **Agustín Castro** (2) [348294](https://platzi.com/comentario/348294/) 
 
-	
 	Hola!
 	
 	Como se gestionan los errores que capturamos en componentDidCatch por un componente?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jose Galbis Soler** (1)
+* **Jose Galbis Soler** (1) [1078351](https://platzi.com/comentario/1078351/) 
 
-	
 	No has vuelto a conectar el wifi! En el minuto 11.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Roberto S. Sampayo** (1)
+* **Roberto S. Sampayo** (1) [1077754](https://platzi.com/comentario/1077754/) 
 
-	
 	Chicos, me aparece este error:
 	``` 
 	    index.js:1 Warning: Can't perform a React state updateon an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions andasynchronous tasks in a useEffect cleanupfunction.
@@ -6943,23 +6496,20 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WSJedp** (1)
+* **WSJedp** (1) [1005408](https://platzi.com/comentario/1005408/) 
 
-	
 	El manejo de errores es uno de los componentes mas importantes de todo desarrollo web, un buen manejo de errores le servirá tanto a los usuarios para guiarse mejor dentro del sitio web como para nosotros para ubicar el desarrollo web en una mejor posición en la web gracias al SEO.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [798051](https://platzi.com/comentario/798051/) 
 
-	
 	wow este manejo de errores fue magico, con sinceridad hasta ahora me quedo mas claro como udarlos y manejarlo ademas de la buena teoria. fue magistral … gracias!!!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **santiagomarcano** (1)
+* **santiagomarcano** (1) [614363](https://platzi.com/comentario/614363/) 
 
-	
 	Primero que nada agradecer por el curso!
 	
 	En el manejo de errores del Promise.all() si falla el fetch a los audio clips o a las series y no el channel la app tira error de undefined corriendo en entorno de desarrollo.
@@ -6970,9 +6520,8 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Sergio Alejandro Trejo Cuxim** (2)
+	* **Sergio Alejandro Trejo Cuxim** [614363] (2)
 
-		
 		Tengo una solución para ti.  
 		Añade un catch a cada petición, de modo que si uno falla regresará el “reject” y no se disparará en error global.  
 		Utilizo yo otro cliente HTTP, tu utiliza el fetch.
@@ -6987,9 +6536,8 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Le_MaliX** (1)
+	* **Le_MaliX** [614363] (1)
 
-		
 		Yo lo solucione de la siguiente manera:
 		``` 
 		    // En el if evaluamos si alguno de los tres requests
@@ -7013,38 +6561,33 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **AlexRodriguez1218** (1)
+* **AlexRodriguez1218** (1) [606555](https://platzi.com/comentario/606555/) 
 
-	
 	iba a preguntar algo, pero sinceramente el profesor explica de forma tan sencilla que en la redaccion de la pregunta la respondi… sos grande…!!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **RBN1993** (1)
+* **RBN1993** (1) [567215](https://platzi.com/comentario/567215/) 
 
-	
 	@robertomgonzalez al quitar la red y desplazarme en el navegador hacia atrás y volver a channel me dice que res no está definido. La solución hardcodeada que he puesto es if (res) res.statusCode = 503 pero, ¿me puedes dar una solución mejor y explicarme a qué se debe ese error?  
 	Gracias.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [567215] (1)
 
-		
 		Hola, la variable `res` debe llegarte como parámetro desde la función `getInitialProps({ res })`, por si llega `undifined` podrías poner un valor **default** cuando llega como parámetro desde la función de la siguiente forma: `getInitialProps({ res = {} })` y te ahorras en hacer esa validación con un `if`.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Carlos Andrés Cobo Sinisterra** (1)
+* **Carlos Andrés Cobo Sinisterra** (1) [488118](https://platzi.com/comentario/488118/) 
 
-	
 	Hola mi gente, pregunta, podemos cambiar a diferentes idiomas los mensajes de error? o personalizar el texto usando el tag Error de next?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Hidalgo Díaz Rugama** (2)
+	* **Eduardo Hidalgo Díaz Rugama** [488118] (2)
 
-		
 		No hay ningún tag de error en next, y no, no puedes poner varios idiomas para los mensajes de error. Al menos no como supongo que tu crees que se podría hacer.
 		
 		Para personalizar tu página de error en Next te recomiendo ir al curso de Next y ver esa sección. esta muy bien explicado. adicional: <https://nextjs.org/docs/#custom-error-handling>
@@ -7062,31 +6605,27 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Tobías Schwarz** (1)
+* **Tobías Schwarz** (1) [455947](https://platzi.com/comentario/455947/) 
 
-	
 	La página de channels me queda en en blanco con el texto “An unexpected error has occurred” pero no tengo ningún error en la consola de next ni en la del navegador ni en la pestaña network del navegador
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Diego Fernando Berrio Meza** (1)
+* **Diego Fernando Berrio Meza** (1) [396889](https://platzi.com/comentario/396889/) 
 
-	
 	 **Alerta de spoiler**  
 	Presten atención
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Adriann Felipe Sanchez Sierra** (1)
+* **Adriann Felipe Sanchez Sierra** (1) [388474](https://platzi.com/comentario/388474/) 
 
-	
 	No hay una forma de tener un componente que englobe todo y que éste tenga control sobre algún error generado sobre los componentes que estén dentro? Algo así como se realiza en el curso de React Native.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Matias Martínez** (2)
+	* **Matias Martínez** [388474] (2)
 
-		
 		Si mal no recuerdo hay un apartado en el curso de React que te enseña el manejo de errores. La verdad no tengo muy claro como funciona porque en la practica no lo eh usado.
 		
 		Saludos,  
@@ -7094,51 +6633,46 @@ En esta clase vamos a empezar a ver uno de los temas más importantes que tenemo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Daniel Alberto Esquinazi** (1)
+* **Daniel Alberto Esquinazi** (1) [368219](https://platzi.com/comentario/368219/) 
 
-	
 	No entendí por que solamente asignamos el status code a la respuesta en los casos de error, deberíamos asignarlos también en el caso de éxito? es decir
 	
 	`res.StatusCode = 200`
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [368219] (2)
 
-		
 		En este momento de la clase <https://platzi.com/clases/next-js/concepto/navegacion-avanzada/gestionando-errores/material/?time=533> retorna el status code 200 si todo funciona y 503 si hay error de conexión por ejemplo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Daniel Alberto Esquinazi** (1)
+	* **Daniel Alberto Esquinazi** [368219] (1)
 
-		
 		Gracias por la respuesta pero viendo la clase nuevamente pude escuchar que explica esto.En el caso de éxito el valor por defecto de `res.statusCode` es `200` y por eso es que no lo asigna.
 		
 		tiempo 8:15 aproximadamente
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **RBN1993** (1)
+* **RBN1993** (1) [57616](https://platzi.com/comentario/567215/) 
 @robertomgonzalez al quitar la red y desplazarme en el navegador hacia atrás y volver a channel me dice que res no está definido. La solu...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [57616] (1)
 
-		
 		Hola, la variable `res` debe llegarte como parámetro desde la función `getInitialProps({ res })`, por si llega `undifined` podrías poner un valor **default** cuando llega como parámetro desde la función de la siguiente forma: `getInitialProps({ res = {} })` y te ahorras en hacer esa validación con un `if`.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Carlos Andrés Cobo Sinisterra** (1)
+* **Carlos Andrés Cobo Sinisterra** (1) [51161](https://platzi.com/comentario/488118/) 
 Hola mi gente, pregunta, podemos cambiar a diferentes idiomas los mensajes de error? o personalizar el texto usando el tag Error de next?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Hidalgo Díaz Rugama** (2)
+	* **Eduardo Hidalgo Díaz Rugama** [51161] (2)
 
-		
 		No hay ningún tag de error en next, y no, no puedes poner varios idiomas para los mensajes de error. Al menos no como supongo que tu crees que se podría hacer.
 		
 		Para personalizar tu página de error en Next te recomiendo ir al curso de Next y ver esa sección. esta muy bien explicado. adicional: <https://nextjs.org/docs/#custom-error-handling>
@@ -7156,19 +6690,18 @@ Hola mi gente, pregunta, podemos cambiar a diferentes idiomas los mensajes de er
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Tobías Schwarz** (1)
+* **Tobías Schwarz** (1) [48542](https://platzi.com/comentario/455947/) 
 La página de channels me queda en en blanco con el texto “An unexpected error has occurred” pero no tengo ningún error en la consola de n...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Adriann Felipe Sanchez Sierra** (1)
+* **Adriann Felipe Sanchez Sierra** (1) [42605](https://platzi.com/comentario/388474/) 
 No hay una forma de tener un componente que englobe todo y que éste tenga control sobre algún error generado sobre los componentes que es...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Matias Martínez** (2)
+	* **Matias Martínez** [42605] (2)
 
-		
 		Si mal no recuerdo hay un apartado en el curso de React que te enseña el manejo de errores. La verdad no tengo muy claro como funciona porque en la practica no lo eh usado.
 		
 		Saludos,  
@@ -7176,7 +6709,7 @@ No hay una forma de tener un componente que englobe todo y que éste tenga contr
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0130. Personalizando errores
+## 0130. Personalizando errores [12085](https://platzi.com/clases/1311-next-js/12085-personalizando-errores/)
 
 ### Descripción:
 
@@ -7189,32 +6722,28 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 
 ### Comentarios:
 
-* **jsechirinos** (7)
+* **jsechirinos** (7) [329474](https://platzi.com/comentario/329474/) 
 
-	
 	Código base de `_error.js`
 	
 	<https://github.com/zeit/next.js/#custom-error-handling>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Eduardo Rasgado Ruiz** (5)
+* **Eduardo Rasgado Ruiz** (5) [347699](https://platzi.com/comentario/347699/) 
 
-	
 	Que pasa si el error está en el getInirialPros({ res })??. Pasa que entré en un 404 y mi enlace con Link dirige a “/” pues si me desconecto de internet y cliqueo “Volver a home” (desde el 404 o 503 después de desconectarme del internet), sorpresa: Me tira un error del tipo red is undefined! Como lo manejamos?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **jobcoronadoduran** (1)
+	* **jobcoronadoduran** [347699] (1)
 
-		
 		igual me pasa lo mismo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (4)
+* **Sergio Minei** (4) [349036](https://platzi.com/comentario/349036/) 
 
-	
 	## Personalizando Errores
 	
 	El componente error se puede modificar creando una página **_error.js**.
@@ -7251,9 +6780,9 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 	
 	**¿Cuándo modificarlo?**
 	
-	  * Google AMP
-	  * Facebook Instant Pagees
-	  * Plugins como Styles Components
+	* Google AMP
+	* Facebook Instant Pagees
+	* Plugins como Styles Components
 	
 	
 	``` 
@@ -7288,91 +6817,79 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **raulfbgomez** (2)
+* **raulfbgomez** (2) [945603](https://platzi.com/comentario/945603/) 
 
-	
 	Actualmente, Enero de 2020 ha cambiado un poco la manera de manejar la pagina de error. Pueden ver la documentación [aquí.](https://nextjs.org/docs/advanced-features/custom-error-page)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jose Galbis Soler** (1)
+	* **Jose Galbis Soler** [945603] (1)
 
-		
 		Si cierto, estaba dandome un error distinto al 404, y he entrado a observar la api de next.js. Entonces tambien me he dado cuenta que no gastan class sino function para definir las pages y los componentes. Aunque esto sigue funcionando no me queda claro si es una forma de hacerlo de versiones anteriores y en futuras versiones se recomienda el uso de functions o si no tiene nada que ver, y simplemente es por costumbre. O si en realidad es por eficiencia o seguridad.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Roberto S. Sampayo** (1)
+	* **Roberto S. Sampayo** [945603] (1)
 
-		
 		Muchas Gracias por la Docu Raul!, esta bueno ver de que ya tienen todo para que se haga por funtions en vez de clases
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Luis Daniel Becerra Avellaneda** (2)
+* **Luis Daniel Becerra Avellaneda** (2) [331986](https://platzi.com/comentario/331986/) 
 
-	
 	A partir del minuto 9:21 se empieza a repetir
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (1)
+	* **WilliamVelazquez** [331986] (1)
 
-		
 		Sí, aunque creo que cambia ligeramente
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [331986] (3)
 
-		
 		Gracias, vamos a revisar.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (1)
+	* **WilliamVelazquez** [331986] (1)
 
-		
 		De nada! 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Carlos Rivas** (1)
+	* **Carlos Rivas** [331986] (1)
 
-		
 		Aun sigue ese error.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Enrique Devars (Platzi)** (1)
+	* **Enrique Devars (Platzi)** [331986] (1)
 
-		
 		Sigue el error en el video
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **mariandrea (Platzi)** (1)
+	* **mariandrea (Platzi)** [331986] (1)
 
-		
 		hola, una disculpa por el tiempo que nos tomó corregir este error. Ya se solucionó. Muchas gracias por reportarlo 😃
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Roberto S. Sampayo** (1)
+* **Roberto S. Sampayo** (1) [1080641](https://platzi.com/comentario/1080641/) 
 
-	
 	A los nuevos, consulto, les esta andando bien la Api, creo que se cayo
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Fadith Enrique Escorcia Mujica** (1)
+	* **Fadith Enrique Escorcia Mujica** [1080641] (1)
 
-		
 		Todo [perfecto.Si](http://perfecto.Si) tienes problemas deja tu duda
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [798342](https://platzi.com/comentario/798342/) 
 
 	```
 	    alguin sabe como podria resovle este problema, quiero arrastrar la captura al comentario pero no me deja.
@@ -7380,21 +6897,19 @@ Next.js es un framework para construir aplicaciones web modernas en React. Una d
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Matias Alejandro Lopez Heredia** (1)
+	* **Matias Alejandro Lopez Heredia** [798342] (1)
 
-		
 		No se puede arrastar una imagen simplemente, tenes que usar el boton que dice “Imagen”, y subir la imagen a algun servidor gratis, y ponerla url en donde te lo indica el comentario.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [71491](https://platzi.com/comentario/798340/) 
 alguin sabe como podria resovle este problema, quiero arrastrar la captura al comentario pero no me deja.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jose Padron (Platzi)** (1)
+	* **Jose Padron (Platzi)** [71491] (1)
 
-		
 		Toca que le des al botón de “Imagen” y arrastras la imagen para que se cambia por donde dice “url”
 		
 		y listo, prueba:
@@ -7403,7 +6918,7 @@ alguin sabe como podria resovle este problema, quiero arrastrar la captura al co
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0140. ¿Cómo diseñar URLs
+## 0140. ¿Cómo diseñar URLs [12086](https://platzi.com/clases/1311-next-js/12086-como-disenar-urls/)
 
 ### Descripción:
 
@@ -7416,9 +6931,8 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 
 ### Comentarios:
 
-* **Sergio Minei** (9)
+* **Sergio Minei** (9) [349037](https://platzi.com/comentario/349037/) 
 
-	
 	## Diseñando Urls
 	
 	Principios para crear Urls user friendly:
@@ -7454,14 +6968,13 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jsechirinos** (2)
+* **jsechirinos** (2) [333016](https://platzi.com/comentario/333016/) 
 
-	
 	`Urls User Friendly`
 	
-	  * **Legibles:** Deben ser fácilmente entendibles para los usuarios.
+	* **Legibles:** Deben ser fácilmente entendibles para los usuarios.
 	
-	  * **Consistencia:** Deberíamos poder borrar cualquier formato y tener una respuesta  
+	* **Consistencia:** Deberíamos poder borrar cualquier formato y tener una respuesta  
 	Ejemplo:
 	
 	
@@ -7478,7 +6991,7 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-## 0150. Configurando Next Routes
+## 0150. Configurando Next Routes [12087](https://platzi.com/clases/1311-next-js/12087-configurando-next-routes/)
 
 ### Descripción:
 
@@ -7487,9 +7000,8 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 
 ### Comentarios:
 
-* **Sergio Minei** (8)
+* **Sergio Minei** (8) [349038](https://platzi.com/comentario/349038/) 
 
-	
 	## Next Routes
 	
 	Next Routes permite asignar un nombre a una url con Next.
@@ -7532,53 +7044,46 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **wilson_romero** (2)
+	* **wilson_romero** [349038] (2)
 
-		
 		Gracias por el resumen
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **ClaudioHerreraC** (2)
+	* **ClaudioHerreraC** [349038] (2)
 
-		
 		GENIAL GRACIAS!!!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Luis Daniel Becerra Avellaneda** (5)
+* **Luis Daniel Becerra Avellaneda** (5) [331994](https://platzi.com/comentario/331994/) 
 
-	
 	[Next-Routes](https://github.com/fridays/next-routes)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Alejandro Trejo Cuxim** (4)
+* **Sergio Alejandro Trejo Cuxim** (4) [730857](https://platzi.com/comentario/730857/) 
 
-	
 	Ya es más sencillo implementar rutas dinámicas de manera oficial por parte de Next.js, esto a partir de la versión 9
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhurgen Maraza** (3)
+* **Jhurgen Maraza** (3) [589975](https://platzi.com/comentario/589975/) 
 
-	
 	Alguien me puede dar una mano?  
 	Corro el comando npm run dev y se queda colgado en ‘node server.js’ y no pasa de eso  
 	hice todo lo de la clase, me fije archivo por archivo y lo tengo igual, es mas hasta me descargue los js de la parte de recursos e igual no me funcionan, me fije en el package.json y lo tengo igual. Alguien tendria una idea cual seria el error? si tengo que instalar algo de node?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [589975] (1)
 
-		
 		Hola, comúnmente estos errores se deben a Node.js, puedes desinstalar Node.js e instalarlo otra vez, puedes instalar la versión LTS que es la más estable…
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Jhurgen Maraza** (2)
+	* **Jhurgen Maraza** [589975] (2)
 
-		
 		Volví a instalar Node y sigue igual. Se queda en
 		
 		> Node Server.js
@@ -7587,23 +7092,20 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Esteban Ciudad** (1)
+	* **Esteban Ciudad** [589975] (1)
 
-		
 		me pasa lo mismo, regrese unas semanas depues a correr el proyecto del curso y me quedo pegado en “node server.js”. He probado reinstalando varias versiones de node desde la estable LTS hasta las mas nuevas. Cuando intento entrar al localhost se tarda mucho y a veces carga despues de un rato pero otras veces simplemente no, es muy raro, esto sucede solamente con el server personalizado porque si ejecuto “next” me corre sin problemas
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Esteban Ciudad** (1)
+	* **Esteban Ciudad** [589975] (1)
 
-		
 		<https://github.com/zeit/next.js/issues/7259>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Diego Ivan Padilla Bernal** (1)
+	* **Diego Ivan Padilla Bernal** [589975] (1)
 
-		
 		Pues que esperas que salga?  
 		Se supone que el último mensaje que debe salir es eso, yo como quiera puse un mensaje para no perder la costumbre
 		``` 
@@ -7621,9 +7123,8 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **iLuisCastillo** (1)
+	* **iLuisCastillo** [589975] (1)
 
-		
 		Lo he leido en un issue de github:
 		
 		"Confirm, also using custom server via const { createServer } = require(‘http’)  
@@ -7636,16 +7137,14 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **nachoogoomez** (2)
+* **nachoogoomez** (2) [1035982](https://platzi.com/comentario/1035982/) 
 
-	
 	A dia de hoy Next permite hacer el enrutado de manera mucho mas sencilla y nativa
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Fernando Azuaje** (2)
+* **Fernando Azuaje** (2) [828634](https://platzi.com/comentario/828634/) 
 
-	
 	Con la propiedad ‘as’ de Link tambien se pueden hacer mas sencillas de leer las rutas. un ejemplo con los canales:
 	``` 
 	    <Link href={`/channel?id=${ channel.id }`} as={`/${channel.title}.${channel.id}`}>
@@ -7659,57 +7158,50 @@ En este sentido, hay un par de principios que debemos considerar: Legibilidad y 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Kemt** (2)
+* **Kemt** (2) [554600](https://platzi.com/comentario/554600/) 
 
-	
 	Hola! tengo una duda, como estoy acostumbrado a trabajar de esta manera, al principio de curso configure para tener mis carpetas de “pages” y “component” dentro de otra llamada “src”, ahora parece que next-router no trabaja con esto, que podría hacer?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jose ortiz** (2)
+* **jose ortiz** (2) [552302](https://platzi.com/comentario/552302/) 
 
-	
 	next routes remplaza a react router?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **eduardoluisgr** (1)
+	* **eduardoluisgr** [552302] (1)
 
-		
 		No exactamente, las funciones internas de next, con su capeta /pages remplaza a react-router
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Eduardo Rasgado Ruiz** (2)
+* **Eduardo Rasgado Ruiz** (2) [347750](https://platzi.com/comentario/347750/) 
 
-	
 	Si no comprendes como funciona la sintaxis para las rutas con :slug.id, etc. No desesperes, sigue la clase hasta el final y comprenderás 😃
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (2)
+* **Jorge Mendez Ortega** (2) [76040](https://platzi.com/comentario/880213/) 
 Al utilizar next-router tendríamos el mismo poder que facilita express?, algo como Generar middleware Url ...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **cesar88** (1)
+* **cesar88** (1) [951667](https://platzi.com/comentario/951667/) 
 
-	
 	Me pase a aprender next desde su web ya que este curso quedo muy desactualizado y varias cosas cambiaron… como el manejo de las rutas x ej… ojala saquen un curso actualizado de NEXT!!  
 	<https://nextjs.org/learn/basics/create-dynamic-pages/use-router>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Jorge Mendez Ortega** (1)
+	* **Jorge Mendez Ortega** [951667] (1)
 
-		
 		pero clara mente dicen que el router de next queda corto ya que incialmente next esta pensado para sitios estáticos, lo que en mi caso me a funcionado para manejar rutas de manera dinámica es `express` o el paquete de `http` de node lo e probado en un desarrollo y me esta dando buenos resultados ya que las peticiones a `API's` me funciona muy bien generarlas de manera asincrona desde el router ya que tengo entendido que como buena practica no es muy recomendable hacerlo en `getInitialProps`
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Daniel Elver Valderrama Mejia** (1)
+* **Daniel Elver Valderrama Mejia** (1) [839351](https://platzi.com/comentario/839351/) 
 
-	
 	Buenas Team !  
 	TENGO UN ERROR  
 	This is probably not a problem with npm. There is likely additional logging output above.  
@@ -7719,7 +7211,7 @@ Al utilizar next-router tendríamos el mismo poder que facilita express?, algo c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Kevin Kleber Rivamontan Alvarado** (1)
+* **Kevin Kleber Rivamontan Alvarado** (1) [402090](https://platzi.com/comentario/402090/) 
 
 	```
 	    "scripts": {
@@ -7732,7 +7224,7 @@ Al utilizar next-router tendríamos el mismo poder que facilita express?, algo c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Kevin Kleber Rivamontan Alvarado** (1)
+* **Kevin Kleber Rivamontan Alvarado** (1) [402081](https://platzi.com/comentario/402081/) 
 
 	```
 	    const routes = require('next-routes')
@@ -7749,7 +7241,7 @@ Al utilizar next-router tendríamos el mismo poder que facilita express?, algo c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Kevin Kleber Rivamontan Alvarado** (1)
+* **Kevin Kleber Rivamontan Alvarado** (1) [402043](https://platzi.com/comentario/402043/) 
 
 	```
 	    // server.js
@@ -7774,36 +7266,35 @@ Al utilizar next-router tendríamos el mismo poder que facilita express?, algo c
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhurgen Maraza** (1)
+* **Jhurgen Maraza** (1) [59328](https://platzi.com/comentario/589975/) 
 Alguien me puede dar una mano? Corro el comando npm run dev y se queda colgado en ‘node server.js’ y no pasa de eso hice todo lo de la cl...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (1)
+	* **aragonesteban (Platzi)** [59328] (1)
 
-		
 		Hola, comúnmente estos errores se deben a Node.js, puedes desinstalar Node.js e instalarlo otra vez, puedes instalar la versión LTS que es la más estable…
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Kemt** (1)
+* **Kemt** (1) [56593](https://platzi.com/comentario/554600/) 
 Hola! tengo una duda, como estoy acostumbrado a trabajar de esta manera, al principio de curso configure para tener mis carpetas de “page...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Geordano Polanco Rodríguez** (0)
+* **Geordano Polanco Rodríguez** (0) [946325](https://platzi.com/comentario/946325/) 
 
-	
 	Pero esto sólo es necesario si quieres utilizar Server side rendering?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Daniel Elver Valderrama Mejia** (0)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-5b12fa94-a725-4e4f-b991-94d831dca60f.jpg)
+* **Daniel Elver Valderrama Mejia** (0) [839354](https://platzi.com/comentario/839354/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-5b12fa94-a725-4e4f-b991-94d831dca60f.jpg)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-## 0160. Implementando Next Routes
+## 0160. Implementando Next Routes [12088](https://platzi.com/clases/1311-next-js/12088-implementando-next-routes/)
 
 ### Descripción:
 
@@ -7814,23 +7305,20 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 
 ### Comentarios:
 
-* **Joaquin Araujo** (9)
+* **Joaquin Araujo** (9) [349466](https://platzi.com/comentario/349466/) 
 
-	
 	Aqui tienes el regex `replace(/[^\w\-]+/g, '')` 😉
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **CodingLeonardo** (1)
+	* **CodingLeonardo** [349466] (1)
 
-		
 		Gracias me ahorraste tiempo
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **jhurtadojerves** (6)
+* **jhurtadojerves** (6) [331106](https://platzi.com/comentario/331106/) 
 
-	
 	Para la lista de podcast en channel, esto sirve:
 	``` 
 	    params={{
@@ -7844,9 +7332,8 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Efrén Sánchez** (1)
+	* **Efrén Sánchez** [331106] (1)
 
-		
 		Y el `routes.js` :
 		``` 
 		    .add('index')
@@ -7857,9 +7344,8 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Luis Arturo Lira Cerda** (3)
+* **Luis Arturo Lira Cerda** (3) [610203](https://platzi.com/comentario/610203/) 
 
-	
 	Así lo pueden agregan PodcastList
 	``` 
 	    <Link route="podcast"
@@ -7892,9 +7378,8 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (2)
+* **Sergio Minei** (2) [349043](https://platzi.com/comentario/349043/) 
 
-	
 	## Enlazando páginas con Next Routes
 	
 	**Next Routes** usa otro tipo de componente `<Link>` para enlazar página.
@@ -7909,8 +7394,8 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 	    
 	```
 	
-	  * **route** : es el nombre del enlace definido en routes.js
-	  * **params** : son los parámetros definidos en routes.js. Nótese las doble `{{}}`.
+	* **route** : es el nombre del enlace definido en routes.js
+	* **params** : son los parámetros definidos en routes.js. Nótese las doble `{{}}`.
 	
 	
 	
@@ -7937,23 +7422,20 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Edgar de Jesus Mendoza Ortegon** (2)
+	* **Edgar de Jesus Mendoza Ortegon** [349043] (2)
 
-		
 		Gracias por el aporte
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **oteka21** (2)
+	* **oteka21** [349043] (2)
 
-		
 		Wooow me quito el sombrero con tu resumen del curso!! Saludos Crack 🙌🏽
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [880229](https://platzi.com/comentario/880229/) 
 
-	
 	Por qué no utilizar código nativo en ves de una librería, ya que el código puede quedar de la siguiente manera.
 	``` 
 	    const slug = (name = "") => name.toLocaleLowerCase().replace(/\s/g, "-");
@@ -7964,67 +7446,58 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Geordano Polanco Rodríguez** (1)
+	* **Geordano Polanco Rodríguez** [880229] (1)
 
-		
 		Me parece que lo ha realizado con una librería externa, para resolver un posible problema con la internacionalización.
 		
 		Tu código puede que te funcione, pero si pretende internacionalizar la aplicación, puede que te encuentres con problemas.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [804571](https://platzi.com/comentario/804571/) 
 
-	
 	completamente practico y magnifico
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Andres Rodriguez Escudero** (1)
+* **Andres Rodriguez Escudero** (1) [572964](https://platzi.com/comentario/572964/) 
 
-	
 	Consulta, Si Next Routes no es de mi agrado, que otra alternativa podría tomar? o simplemente podría quedarme con las rutas que me entrega por default Next con Link?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **aragonesteban (Platzi)** (2)
+	* **aragonesteban (Platzi)** [572964] (2)
 
-		
 		Hola, no creo que sea posible, con ese router trabaja el framework para poder hacer el **Server Side Rendering** , es como el `@angular/router` de Angular, con esto trabaja el framework para que todo esté unificado y legible.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **yaftemx** (1)
+* **yaftemx** (1) [471861](https://platzi.com/comentario/471861/) 
 
-	
 	Esto esta muy bueno.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Eduardo Hidalgo Díaz Rugama** (1)
+* **Eduardo Hidalgo Díaz Rugama** (1) [460565](https://platzi.com/comentario/460565/) 
 
-	
 	Precioso video. Increible. Que buen curso 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **soymichelt** (1)
+* **soymichelt** (1) [407083](https://platzi.com/comentario/407083/) 
 
-	
 	Tengo una duda. ¿Cómo podría hacer que los buscadores indexen mis URL’s dinámicas generadas desde la API en Next Routes?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **manuel-corrales** (2)
+	* **manuel-corrales** [407083] (2)
 
-		
 		Al igual que indexan URL dinámicas de PHP u otros servicios, si tienes enlaces desde el index que apunten a ellos y autoridad se indexaran. Recuerda que deben tener contenido único y de calidad para acelerar este proceso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **soymichelt** (1)
+	* **soymichelt** [407083] (1)
 
-		
 		@manuel-corrales **gracias por responder amigo.**
 		
 		¿Qué pasa cuando tienes miles de URL dinámicas generadas y no todas pueden estar en el Index?
@@ -8033,19 +7506,18 @@ Siguiendo con la clase pasada, vamos a empezar a implementar Next Routes dentro 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **soymichelt** (1)
+* **soymichelt** (1) [44354](https://platzi.com/comentario/407083/) 
 Tengo una duda. ¿Cómo podría hacer que los buscadores indexen mis URL’s dinámicas generadas desde la API en Next Routes?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **manuel-corrales** (2)
+	* **manuel-corrales** [44354] (2)
 
-		
 		Al igual que indexan URL dinámicas de PHP u otros servicios, si tienes enlaces desde el index que apunten a ellos y autoridad se indexaran. Recuerda que deben tener contenido único y de calidad para acelerar este proceso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0170. Vistas Híbridas
+## 0170. Vistas Híbridas [12089](https://platzi.com/clases/1311-next-js/12089-vistas-hibridas/)
 
 ### Descripción:
 
@@ -8056,9 +7528,8 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 
 ### Comentarios:
 
-* **Cristian Camilo Cucunubá** (7)
+* **Cristian Camilo Cucunubá** (7) [643925](https://platzi.com/comentario/643925/) 
 
-	
 	 **Codigo Con React Hooks :**
 	``` 
 	    const [openPodcast, setPodcast] = useState(null);
@@ -8073,18 +7544,16 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Miguel Rodriguez** (1)
+	* **Luis Miguel Rodriguez** [643925] (1)
 
-		
 		Aqui pueden leer un poco sobre el evento click en nextjs no puede ir directo en en el componente <Link> pero si puede ir en su children.
 		
 		[onClick event doesn’t exist in next/link ?](https://github.com/zeit/next.js/issues/7304)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (6)
+* **Sergio Minei** (6) [349046](https://platzi.com/comentario/349046/) 
 
-	
 	## State
 	
 	Estate se usa para definir el estado interno de un componente. A diferencia de los props, estate puede ser modificado.
@@ -8117,9 +7586,8 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (4)
+* **WilliamVelazquez** (4) [332401](https://platzi.com/comentario/332401/) 
 
-	
 	Hola Roberto! 😃  
 	¿hay alguna diferencia si para inicializar el estado en lugar de usar el constructor explícitamente lo realizo de la siguiente forma?:
 	``` 
@@ -8137,37 +7605,32 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [332401] (2)
 
-		
 		Lo mejor es usar el constructor, por estándar y por facilidad de lectura del código.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (1)
+	* **WilliamVelazquez** [332401] (1)
 
-		
 		Muchas gracias! ¿El usarlo así tiene algún problema en rendimiento o en algún otro aspecto?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [332401] (4)
 
-		
 		Creo que es más en pensar en tu yo del futuro para cuando tengas que mantener la aplicación, porque luego no te acuerdas el porque lo hiciste así.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **WilliamVelazquez** (1)
+	* **WilliamVelazquez** [332401] (1)
 
-		
 		Gracias Gollum! 😉
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Simón Rotjes** (1)
+	* **Simón Rotjes** [332401] (1)
 
-		
 		 **YO NO USO constructor()**
 		
 		Asi como frameworks como Next.js facilitan y/o mejoran tu calidad de desarrollo, declarar (si aplica) el estado de un componente usando…
@@ -8180,23 +7643,20 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Javier Ignacio** (3)
+* **Javier Ignacio** (3) [579709](https://platzi.com/comentario/579709/) 
 
-	
 	a día de hoy, ¿los chicos de next.js fixearon el tema del link?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **JoosCode** (1)
+	* **JoosCode** [579709] (1)
 
-		
 		misma pregunta me hago … supongo que tendra una solucion porque que feo incrustar un componente solo para hacer onClick …
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Esteban Ciudad** (4)
+	* **Esteban Ciudad** [579709] (4)
 
-		
 		a mi me funciona de la siguiente manera, añado el onclick al elemento a y dejo el componente Link igual con sus params:
 		``` 
 		    {audioClips.map(clip => (
@@ -8225,30 +7685,26 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **AlexRodriguez1218** (1)
+	* **AlexRodriguez1218** [579709] (1)
 
-		
 		Segun la documentacion de Next,js a hoy no se ha solucionado, el onClick se debe agregar a un elemento a para que funcione
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Ramiro Nicolas D'Accorso Rosati** (2)
+* **Ramiro Nicolas D'Accorso Rosati** (2) [808185](https://platzi.com/comentario/808185/) 
 
-	
 	Ya se actualizo el componente link? Porque next va por la versión 9+ y en el curso esta la 6.1
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Le_MaliX** (1)
+	* **Le_MaliX** [808185] (1)
 
-		
 		Actualmente puedes poner el componente onclick en uno de los childrens del Link, te dejo el link al [Pull request](https://github.com/zeit/next.js/pull/4474) donde se solucionó
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Miguel Angel Morales Larriega** (2)
+* **Miguel Angel Morales Larriega** (2) [619629](https://platzi.com/comentario/619629/) 
 
-	
 	No es necesario escribir el constructor para un state:
 	
 	state= {  
@@ -8267,44 +7723,39 @@ En esta clase vamos a ver algo muy particular, y tiene que ver con cómo impleme
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ivan Padilla Bernal** (1)
+	* **Diego Ivan Padilla Bernal** [619629] (1)
 
-		
 		Lo del inicializar el state estas en lo correcto, más que nada para simplificar código, pero lo de la otra forma de validar funciona pero sería escribir un poco de código extra así que en ese casi se es mejor como lo hizo el profesor
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Javier Ignacio** (2)
+* **Javier Ignacio** (2) [58642](https://platzi.com/comentario/579709/) 
 a día de hoy, ¿los chicos de next.js fixearon el tema del link?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **JoosCode** (1)
+	* **JoosCode** [58642] (1)
 
-		
 		misma pregunta me hago … supongo que tendra una solucion porque que feo incrustar un componente solo para hacer onClick …
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **carlosaepn** (1)
+* **carlosaepn** (1) [1100802](https://platzi.com/comentario/1100802/) 
 
-	
 	Las clases sirven como guía, sin embargo Next ya fue actualizado en muchos ámbitos, por lo cual es recomendable revisar constantemente la documentación. 🙃  
 	[Link con onClick](https://nextjs.org/docs/api-reference/next/link)  
 	[Router con hooks](https://nextjs.org/docs/api-reference/next/router)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Ivan Magdaleno** (1)
+* **Ivan Magdaleno** (1) [1095574](https://platzi.com/comentario/1095574/) 
 
-	
 	Por qué menciona el Link de Next? No se supone que desde la clase pasada estamos usando el Link de next-routes en lugar del Link de Next?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Andres Rodriguez Escudero** (1)
+* **Andres Rodriguez Escudero** (1) [616286](https://platzi.com/comentario/616286/) 
 
-	
 	Me queda la duda, si no es necesario hacer `bind`del metodo `openPodcast`como se suele hacer en React. algo como:
 	``` 
 	    this.openPodcast = this.openPodcast.bind(this);
@@ -8313,30 +7764,26 @@ a día de hoy, ¿los chicos de next.js fixearon el tema del link?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Ivan Padilla Bernal** (1)
+	* **Diego Ivan Padilla Bernal** [616286] (1)
 
-		
 		cuando se usa una **arrow function** no es necesario hacer eso.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **santiagomarcano** (1)
+* **santiagomarcano** (1) [614668](https://platzi.com/comentario/614668/) 
 
-	
 	He aprendido mucho con este curso aunque este video sin duda ha sido el mas confuso. Es raro picar código y no saber para que si no hasta el final del video. Creo que seria mejor explicar a detalle la funcionalidad que se quiere implementar antes de picar todo el código y mas aun si se está haciendo un “hack” para que funcione en Next.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Andres Rodriguez Escudero** (1)
+	* **Andres Rodriguez Escudero** [614668] (1)
 
-		
 		Lo hizo, al principio del video, la idea es que puedas cargar en un modal el podcast que es seleccionado con un “click” para que no tenga que abrir otra página, sino que lo abra en la misma, pero en un modal. Esto resulta mas eficiente porque no tienes que hacerle un tiro a la API para traer el podcast, que puede ser mas costoso en tiempo y recursos cuando en el listado ya te trae todo el detalle del podcast, solo es usarlo. Saludos
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **walter** (1)
+* **walter** (1) [378781](https://platzi.com/comentario/378781/) 
 
-	
 	hola me sale lo siguiente  
 	Error in ./pages/channel.js  
 	Module not found: Error: Can’t resolve ‘…/components/PodcastListWidthClink’ in 'D:\podcasts\pages’  
@@ -8360,53 +7807,48 @@ a día de hoy, ¿los chicos de next.js fixearon el tema del link?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [378781] (1)
 
-		
 		Revisa que no tengas un error de digitación, por lo que veo esta buscando el archivo PodcastListWidthClink creo que sobra la n en el Clink y por eso no encuentra el archivo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **walter** (1)
+	* **walter** [378781] (1)
 
-		
 		ok me voy a fijar quisas no me dicuenta.  
 		gracias
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **esdraspavon** (1)
+	* **esdraspavon** [378781] (1)
 
-		
 		Si, tambien parece que se te escapo una **d** en **Width**
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **walter** (1)
+* **walter** (1) [41705](https://platzi.com/comentario/378781/) 
 hola me sale lo siguiente Error in ./pages/channel.js Module not found: Error: Can’t resolve ‘…/components/PodcastListWidthClink’ in 'D:\\...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [41705] (1)
 
-		
 		Revisa que no tengas un error de digitación, por lo que veo esta buscando el archivo PodcastListWidthClink creo que sobra la n en el Clink y por eso no encuentra el archivo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Leo Islas** (0)
+* **Leo Islas** (0) [75312](https://platzi.com/comentario/867767/) 
 duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante en la parte de SEO de paginas dinamicas pero estaticas al...
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [75312] (1)
 
-		
 		Hola! Si puedes usar Hooks, lo que pasa es que este curso se grabó antes de que esta feature saliera en React, pero en Platzi siempre se actualizan los cursos así que no te preocupes por que se quede viejo tampoco 😄
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0180. Implementar el Modal
+## 0180. Implementar el Modal [12090](https://platzi.com/clases/1311-next-js/12090-implementar-el-modal/)
 
 ### Descripción:
 
@@ -8415,9 +7857,8 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 
 ### Comentarios:
 
-* **Jose Adan Ardila Sanchez** (2)
+* **Jose Adan Ardila Sanchez** (2) [430049](https://platzi.com/comentario/430049/) 
 
-	
 	No se si sea mi impresión pero luego de finalizar esta clase observo 2 cosas interasantes:
 	
 	  1. Realmente el href no se necesita debido a que el evento clic está recibiendo el podcast completo, luego  
@@ -8431,9 +7872,8 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **esdraspavon** (5)
+	* **esdraspavon** [430049] (5)
 
-		
 		Desde mi punto de vista es necesario ambos, ya que:
 		
 		  1. Es necesario el href, si por ejemplo, quieres abrir el podcast en una nueva pestaña, solo click derecho y abrir en una nueva pestaña
@@ -8444,35 +7884,31 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Henry Villavicencio** (1)
+	* **Henry Villavicencio** [430049] (1)
 
-		
 		Yo coincido con el dilema cualquier href funcionaria. Lo ideal seria que se mostrara en la barra la url pero no cambia entonces compartir la url podcast no se vuelve tan sencillo. Si alguna persona encontró la solución a esto compártala estaré muy agradecido.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jesus Garcia** (2)
+* **Jesus Garcia** (2) [331626](https://platzi.com/comentario/331626/) 
 
-	
 	seria interezante realizar todo el trabajo con material-ui
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Oscar Barajas Tavares (Platzi)** (5)
+	* **Oscar Barajas Tavares (Platzi)** [331626] (5)
 
-		
 		Puede ser un buen reto tratar de implementarlo uno mismo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sebastian Martin** (3)
+	* **Sebastian Martin** [331626] (3)
 
-		
 		<https://github.com/mui-org/material-ui/tree/master/examples/nextjs>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0190. Agregando un loader
+## 0190. Agregando un loader [12091](https://platzi.com/clases/1311-next-js/12091-agregando-unloader/)
 
 ### Descripción:
 
@@ -8481,9 +7917,8 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 
 ### Comentarios:
 
-* **Sergio Alejandro Trejo Cuxim** (7)
+* **Sergio Alejandro Trejo Cuxim** (7) [739408](https://platzi.com/comentario/739408/) 
 
-	
 	Esta es la versión actualizada para Next.js V9
 	``` 
 	    Router.events.on('routeChangeStart', () => NProgress.start() );
@@ -8494,9 +7929,8 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (7)
+* **Sergio Minei** (7) [349047](https://platzi.com/comentario/349047/) 
 
-	
 	## Loaders
 	
 	Se va a usar **nprogress** para mostrar un loader al cargar las páginas.
@@ -8525,33 +7959,29 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (5)
+* **WilliamVelazquez** (5) [332441](https://platzi.com/comentario/332441/) 
 
-	
 	Hoja de estilos de nprogress 😃  
 	[nprogress.css](https://raw.githubusercontent.com/zeit/next.js/canary/examples/with-loading/static/nprogress.css)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (5)
+* **WilliamVelazquez** (5) [332440](https://platzi.com/comentario/332440/) 
 
-	
 	Ejemplo with-loading the next.js  
 	<https://github.com/zeit/next.js/tree/canary/examples/with-loading>  
 	😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **raulfbgomez** (3)
+* **raulfbgomez** (3) [945816](https://platzi.com/comentario/945816/) 
 
-	
 	[Aquí encontraran el CSS del ejemplo](https://github.com/zeit/next.js/blob/canary/examples/with-loading/public/nprogress.css)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Pablo Tabares Hernandez** (2)
+* **Pablo Tabares Hernandez** (2) [693716](https://platzi.com/comentario/693716/) 
 
-	
 	Router.onRouteChangeStart = (url) => {  
 	NProgress.start()  
 	}  
@@ -8560,18 +7990,16 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (2)
+* **WilliamVelazquez** (2) [332438](https://platzi.com/comentario/332438/) 
 
-	
 	Enlace a NProgress.js  
 	<http://ricostacruz.com/nprogress/>  
 	😃
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **carlosaepn** (1)
+* **carlosaepn** (1) [1103076](https://platzi.com/comentario/1103076/) 
 
-	
 	Por si quieren crear su propio Loading component…
 	``` 
 	    import { useRouter } from 'next/router';
@@ -8607,42 +8035,38 @@ duda estoy apenas tomando el curso y me gusto bastante ya que me ayuda bastante 
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **diegoguevaraco** (1)
+* **diegoguevaraco** (1) [342592](https://platzi.com/comentario/342592/) 
 
-	
 	Hola, como se debe importar en Nextjs una CSS desde un archivo externo?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [342592] (3)
 
-		
 		Puedes usar este plugin <https://github.com/zeit/next-plugins/tree/master/packages/next-css>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **diegoguevaraco** (1)
+	* **diegoguevaraco** [342592] (1)
 
-		
 		Gracias!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **diegoguevaraco** (1)
+* **diegoguevaraco** (1) [38284](https://platzi.com/comentario/342592/) 
 Hola, como se debe importar en Nextjs una CSS desde un archivo externo?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Diego Alexander Forero Higuera (Platzi)** (3)
+	* **Diego Alexander Forero Higuera (Platzi)** [38284] (3)
 
-		
 		Puedes usar este plugin <https://github.com/zeit/next-plugins/tree/master/packages/next-css>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-# Publicando nuestra app
+# Publicando nuestra app [2205]
 
-## 0200. Mejores prácticas en Github
+## 0200. Mejores prácticas en Github [12092](https://platzi.com/clases/1311-next-js/12092-mejores-practicas-en-github/)
 
 ### Descripción:
 
@@ -8653,7 +8077,7 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 
 ### Comentarios:
 
-* **Eduardo Rasgado Ruiz** (4)
+* **Eduardo Rasgado Ruiz** (4) [348282](https://platzi.com/comentario/348282/) 
 
 	```
 	    document.write("Hagan un curso corto de implementacion de README.md")
@@ -8664,73 +8088,63 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Esteban  Saravia** (4)
+	* **Esteban  Saravia** [348282] (4)
 
-		
 		Dale una mirada a docsie [Docsie markdown editor](https://www.docsie.io/markdown_editor/)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Carlos Rivas** (3)
+	* **Carlos Rivas** [348282] (3)
 
-		
 		De hecho, no estaría mal que hicieran una serie de cursos cortos (o un solo curso completo) de varios temas relevantes como el markdonw del readme y otras configuraciones del entorno de trabajo. Sé que en algunos cursos los explican, pero no a profundidad y cuando los mencionan lo hacen de manera relativa al proyecto y no desde una vista general que ayude a implementarlos en otras circunstancias.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [348282] (1)
 
-		
 		Este tutorial explica muy bien cómo funciona Markdown para diferentes plataformas, incluido Platzi: <https://platzi.com/tutoriales/1099-fundamentos-javascript-2017/1615-markdown-el-lenguaje-de-estilos-para-los-readmemd-de-tus-paquetes-npm-y-de-los-tutoriales-de-platzi/>. 😉
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [348282] (1)
 
-		
 		Este artículo también puede ser de mucha ayuda: <http://anabelisa.co/readme/>. 😉
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Baltazar Ortega** (3)
+* **Baltazar Ortega** (3) [635937](https://platzi.com/comentario/635937/) 
 
-	
 	Este es un truco para subir imagenes al readme usando los issues de Github: [link](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **valentina-rua-carrillo** (2)
+* **valentina-rua-carrillo** (2) [609414](https://platzi.com/comentario/609414/) 
 
-	
 	Este site nos ayuda a agilizar el proceso del [Readme.md](http://Readme.md)  
 	<https://pandao.github.io/editor.md/en.html>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **gosunkugi** (1)
+* **gosunkugi** (1) [935453](https://platzi.com/comentario/935453/) 
 
-	
 	alguien ha puesto a andar el router en GitHub pages?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [935453] (1)
 
-		
 		Hola! Que problema tienes exactamente?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Jorge Mendez Ortega** (1)
+	* **Jorge Mendez Ortega** [935453] (1)
 
-		
 		no croe que lo puedas hacer correr ya que `githubPages` ya que no tiene la capacidad de correr `next` si quieres hacer la integracion completa te recomiendo usar heroku
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [883314](https://platzi.com/comentario/883314/) 
 
-	
 	Practicamente el Readme es markdown no veo cual es la complejidad sobre el tema VisualCode y Atom cuentan con plugins que nos permite previsualizar lo que estamos escribiendo. ademas de que le mismo git hub te da una vista previa de lo que estamos haciendo.
 	
 	le comparto una guia de markdown  
@@ -8738,8 +8152,8 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	
 	Y otras recomendaciones para buenas practicas en github
 	
-	  * [Recomendaciones para generar un buen commit](https://medium.com/@jmz12/buenas-pr%C3%A1cticas-para-commits-5eb4c86b9a47)
-	  * [Recomendaciones para el manejo de ramas](https://medium.com/@jmz12/recomendaciones-para-el-manejo-de-ramas-5dd4b5a23c91l)
+	* [Recomendaciones para generar un buen commit](https://medium.com/@jmz12/buenas-pr%C3%A1cticas-para-commits-5eb4c86b9a47)
+	* [Recomendaciones para el manejo de ramas](https://medium.com/@jmz12/recomendaciones-para-el-manejo-de-ramas-5dd4b5a23c91l)
 	
 	
 	
@@ -8747,7 +8161,7 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-## 0210. Publicar la app con now
+## 0210. Publicar la app con now [12093](https://platzi.com/clases/1311-next-js/12093-publicar-la-app-con-now/)
 
 ### Descripción:
 
@@ -8756,26 +8170,23 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 
 ### Comentarios:
 
-* **robertomgonzalez** (16)
+* **robertomgonzalez** (16) [328401](https://platzi.com/comentario/328401/) 
 
-	
 	Un dato importante de las primeras clases: Para que funcione bien nuestra app en **now** tenemos que tener **dos scripts registrados en package.json** : **build** y **start**.  
 	Build se encarga de procesar nuestros archivos para que queden listos para producción, y Start se encarga de correr el server en modo producción de la forma más rápida posible.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **mariomenjr** (3)
+	* **mariomenjr** [328401] (3)
 
-		
 		Uno de los mejores cursos en Platzi. Junto con los fundamentos de bases de datos y los dos cursos de Leonidas sobre React y Redux.
 		
 		¡Gracias por esa forma de instruir, @robertomgonzalez!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Sergio Minei** (6)
+* **Sergio Minei** (6) [349049](https://platzi.com/comentario/349049/) 
 
-	
 	## Despliegue con Now
 	
 	Para desplegar la aplicación en [Now.sh](https://zeit.co/now) se va a instalar now de manera global.
@@ -8795,25 +8206,22 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **José Gabriel Guzmán Lopéz** (5)
+* **José Gabriel Guzmán Lopéz** (5) [391104](https://platzi.com/comentario/391104/) 
 
-	
 	 **Este es el mio**  
 	<https://podcasts-kpehsmweph.now.sh>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Leo Islas** (1)
+	* **Leo Islas** [391104] (1)
 
-		
 		duda , hiciste alguna modificación en la parte de rutas ya que cuando yo recargo  
 		me marca que no encuentra la aplicación pero solo me pasa en producción no en modo dev
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (5)
+* **WilliamVelazquez** (5) [332502](https://platzi.com/comentario/332502/) 
 
-	
 	Aquí se encuentra mi repositorio al final del curso! 😄  
 	[Repositorio](https://github.com/WilliamVelazquez/podcasts)  
 	[App Pública](https://podcasts-tzfafutwzr.now.sh/)
@@ -8822,35 +8230,32 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Ricardo Medina** (4)
+* **Ricardo Medina** (4) [375427](https://platzi.com/comentario/375427/) 
 
-	
 	Aqui este mi proyecto ya publicado ; )
 	
 	[App podcasts](https://app-podcasts-huthdkasle.now.sh)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhonatan Miranda** (4)
+* **Jhonatan Miranda** (4) [358600](https://platzi.com/comentario/358600/) 
 
-	
 	[Código completo en github](https://github.com/johnserrano15/podcasts)
 	
 	[App demo](https://podcasts-bkwaiavyko.now.sh/)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Betty Rossana Jimenez Cedeño** (2)
+* **Betty Rossana Jimenez Cedeño** (2) [897509](https://platzi.com/comentario/897509/) 
 
-	
 	Para los que no saben, now es de Zeit,  
 	Los pasos son:
 	
-	  * Instalar now, como lo hace el profe.
+	* Instalar now, como lo hace el profe.
 	
-	  * Se tienen que registrar en zeit.
+	* Se tienen que registrar en zeit.
 	
-	  * Luego desde la consola pueden acceder con:
+	* Luego desde la consola pueden acceder con:
 	
 	
 	
@@ -8859,9 +8264,9 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	    
 	```
 	
-	  * Verifican su correo
+	* Verifican su correo
 	
-	  * Corren el:
+	* Corren el:
 	
 	
 	
@@ -8872,23 +8277,20 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Carlos Enrique Gonzalez Peña** (2)
+* **Carlos Enrique Gonzalez Peña** (2) [741051](https://platzi.com/comentario/741051/) 
 
-	
 	Una pregunta, Now tiene la posibilidad de publicar un server, entiendo esa parte pero con el puro comando de now es suficiente para que se aproveche el SSR?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (2)
+	* **Daniel Esteves** [741051] (2)
 
-		
 		¡Hola! Si, literalmente Now creó NextJS con solo el comando `now` el se encargará de saber que es una aplicación en Next y hacer el deploy
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alexjcm** (2)
+* **alexjcm** (2) [556793](https://platzi.com/comentario/556793/) 
 
-	
 	Para los amigos que tienen problemas con publicar la _app_ , tienen que crear y configurar los archivos: **now.json** y **next.config.js** en el root del proyecto.
 	
 	**next.config.js**
@@ -8914,25 +8316,22 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Danvasem** (1)
+	* **Danvasem** [556793] (1)
 
-		
 		Seguí los pasos de la documentación pero no puedo publicar con now, escribo “now --public” en la línea de comandos y no sucede nada, no presenta ni error ni nada. ¿Alguién que haya tenido y solventado este problema?
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Danvasem** (1)
+	* **Danvasem** [556793] (1)
 
-		
 		Bueno, logré realizar la publicación. Basicamente tuve que copiar y pegar los archivos “now.cmd” y “now” que se encontraban en la ruta de los paquetes globales de npm y los pegué en la carpeta del proyecto, posterior le di doble clic a now.cmd y se realizó la publicación.
 		
 		No creo que lo anterior sea correcto, pero me funcionó así.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **gusgonzalez060** (2)
+* **gusgonzalez060** (2) [548876](https://platzi.com/comentario/548876/) 
 
-	
 	Para los que hacen deploy en Now y en lugar de la App de podcast funcionando, les muestra las carpetas, la solución está en el siguiente enlace de la documentación oficial de Next:
 	
 	<https://zeit.co/guides/deploying-nextjs-with-now/>
@@ -8941,16 +8340,14 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [548876] (1)
 
-		
 		Gracias! 😄 Esta fue la solución que me sirvió
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Eduardo Rasgado Ruiz** (2)
+* **Eduardo Rasgado Ruiz** (2) [348698](https://platzi.com/comentario/348698/) 
 
-	
 	Excelente curso. Gracias @robertomgonzalez eres un pro en lo que haces. Un gran abrazo desde México.  
 	Ahora mis resultados:  
 	[Mi app](https://podcasts-nsgvextlwc.now.sh)  
@@ -8958,63 +8355,55 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (2)
+* **David Daniel Castillo Nava** (2) [348080](https://platzi.com/comentario/348080/) 
 
-	
 	Como puedo crear un dist folder para colocarlo en git pages??
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [348080] (3)
 
-		
 		No todas las aplicaciones web pueden ser hosteadas en github pages. Por ejemplo aplicaciones como la de este curso no estoy seguro pueda generar los archivos totalmente estáticos para subirlos a github pages ya que usa Server Side Rendering y para eso necesitamos node en el servidor.
 		
 		Ciertamente Next permite hacer la exportación de los archivos estáticos pero aclara que no es aplicable en todos los proyectos. [Export Into a Static HTML App](https://nextjs.org/learn/excel/static-html-export)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Sergio Minei** (2)
+	* **Sergio Minei** [348080] (2)
 
-		
 		No vas a poder subir una aplicación hecha con Next a Github Pages puesto que no es una página estática.
 		
 		Lo ideal es que lo hagas con Now como se enseña al final del curso y agregues el enlace a tu repositorio de Github.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **David Daniel Castillo Nava** (1)
+	* **David Daniel Castillo Nava** [348080] (1)
 
-		
 		Bueno seguiré investigando para hacerlo con el next export aunque creo que me da problemas con el next routes. Tratare de seguir investigando. Gracias por las respuestas.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Jorge Mendez Ortega** (1)
+* **Jorge Mendez Ortega** (1) [883343](https://platzi.com/comentario/883343/) 
 
-	
 	Si recuerdo bien `now` paso a ser `Zeit`  
 	<https://zeit.co/>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Roy Hodson** (1)
+* **Roy Hodson** (1) [851860](https://platzi.com/comentario/851860/) 
 
-	
 	<https://podcast.royhg1496.now.sh>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Francisco Bustos** (1)
+* **Francisco Bustos** (1) [830134](https://platzi.com/comentario/830134/) 
 
-	
 	Hola tengo un problema al hacer ddeploy de mi aplicacion con next-routes resulta que las rutas no las reconoce en produccion si recargas una url sale error 404 osea como si no la encontrara como puedo solucionar esto. Localmente si funcionan bien pero en produccion en now no.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Leo Islas** (0)
+	* **Leo Islas** [830134] (0)
 
-		
 		checa tu codigo puede ser que en la parte de routes.js la conexión con el slug sean puntos y no guiones ya que hay como un un error al tomar el separador cuando pasa por la expresión regular y tomara como el slug el primer - guion dejandote como id todo lo demas  
 		del nombre espero me puedas entender pero estoy casi seguro que puede ser eso ya que me paso a mi XD saludos
 		``` 
@@ -9030,30 +8419,26 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Manuel Ojeda** (1)
+* **Manuel Ojeda** (1) [828348](https://platzi.com/comentario/828348/) 
 
-	
 	<https://podcasts.manuelojeda.now.sh>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [806003](https://platzi.com/comentario/806003/) 
 
-	
 	no me funciono pero bueno se que con mas practica lo podre lograr
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **SOFTDYNAMIC** (1)
+* **SOFTDYNAMIC** (1) [773470](https://platzi.com/comentario/773470/) 
 
-	
 	<https://nextjscmbpodcasts.fyupanquia.now.sh>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Vargas Domínguez** (1)
+* **David Vargas Domínguez** (1) [694911](https://platzi.com/comentario/694911/) 
 
-	
 	Increíble curso! Repositorio y demo completados. 😃
 	
 	Repositorio: <https://github.com/thedavos/podcast-app>  
@@ -9063,9 +8448,8 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **mexdelgado** (1)
+* **mexdelgado** (1) [548972](https://platzi.com/comentario/548972/) 
 
-	
 	Excelente curso!!!
 	
 	[Repo](https://github.com/rudemex/curso-platzi-nextjs)  
@@ -9073,24 +8457,23 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **camiladi** (1)
+* **camiladi** (1) [495622](https://platzi.com/comentario/495622/) 
 
-	
 	No puedes ser, un bonus de Docker, este curso no pudo estar mejor 😄 diez mil puntos.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Juan David Castro (Platzi)** (1)
+* **Juan David Castro (Platzi)** (1) [465309](https://platzi.com/comentario/465309/) 
 
-	
-	  * [A simple React(Next.js) app development on Docker](https://medium.com/@khwsc1/a-simple-react-next-js-app-development-on-docker-6f0bd3f78c2c)
+	* [A simple React(Next.js) app development on Docker](https://medium.com/@khwsc1/a-simple-react-next-js-app-development-on-docker-6f0bd3f78c2c)
 	
 	
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Efrén Sánchez** (1)
-![Capture.png](https://static.platzi.com/media/user_upload/Capture-39fdaad7-ede5-4f78-8442-b925e976feab.jpg)
+* **Efrén Sánchez** (1) [434948](https://platzi.com/comentario/434948/) 
+	
+	![Capture.png](https://static.platzi.com/media/user_upload/Capture-39fdaad7-ede5-4f78-8442-b925e976feab.jpg)
 	
 	Tengo que ser super torpe, porque yo no consigo hacer deploy del repositorio  
 	LLevo todo el dia investigando y nada. Ni con now.json, ni desde github…
@@ -9099,16 +8482,14 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Efrén Sánchez** (1)
+	* **Efrén Sánchez** [434948] (1)
 
-		
 		Siempre que hago `now --public` voy a la dirección que me pasa Now y aparece lo de la imagen
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **RAMIRO JHONATAN TORREJON CASTRO** (1)
+	* **RAMIRO JHONATAN TORREJON CASTRO** [434948] (1)
 
-		
 		Hola @EfrenSango, crea un file _now.json_ en la raiz de tu proyecto  
 		con esta información
 		``` 
@@ -9123,113 +8504,102 @@ En esta clase vamos a ver algo que no tiene tanto que ver con Next, pero tiene q
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **ma_angelica_romero** (1)
+* **ma_angelica_romero** (1) [431098](https://platzi.com/comentario/431098/) 
 Cómo se publica en servidores de digitalocean
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Andres Rodriguez Escudero** (1)
+	* **Andres Rodriguez Escudero** [431098] (1)
 
-		
 		Creería que sí, pero tendrías que hacer toda la configuración de tu server a mano, o bueno casí a mano en caso que DigitalOcean no tenga algún helper que te facilite el trabajo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Cesar Herrera** (1)
+* **Cesar Herrera** (1) [400575](https://platzi.com/comentario/400575/) 
 
-	
 	Una app como esta se puede publicar en un hosting como los que renta goodady ?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Andres Rodriguez Escudero** (1)
+	* **Andres Rodriguez Escudero** [400575] (1)
 
-		
 		No conozco los hosting que renta GooDady, pero si eso soporta Nodejs no le vería problema. Eso sí, tendrías que hacer muchas cosas a mano. Si lo logras comparte tu experiencia, seguro no eres el único con la misma duda.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [400575] (1)
 
-		
 		Te recomiendo que lo publiques en [Now.sh](http://Now.sh) ya que no debes pagar nada, es totalmente seguro y puedes utilizar tu dominio con ellos
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Ricardo Medina** (1)
+* **Ricardo Medina** (1) [375423](https://platzi.com/comentario/375423/) 
 
-	
 	Aqui esta mi proyecto ya publicado con [Now.sh](http://Now.sh)
 	
 	[Url](https://app-podcasts-huthdkasle.now.sh)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [348090](https://platzi.com/comentario/348090/) 
 
-	
 	Que significan todas las carpetas que genera el comando build?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Rasgado Ruiz** (3)
+	* **Eduardo Rasgado Ruiz** [348090] (3)
 
-		
 		Es el bundle y sus amigos, son el resultado de transpilar, compactar y hacer legible nuestro código en todas las plataformas de navegación posibles. Usualmente puede hacerse a mano cuando trabajas solo con ReactJS o VanillaJS con ES6, etc. pero gracias al framework Next o a create-react-app este proceso se hace de forma automática. Al final todos los components y pages que creamos se optimizan y tu aplicativo final termina usando lo que hay dentro de esas carpetas que mencionas.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **alainccc** (1)
+* **alainccc** (1) [328377](https://platzi.com/comentario/328377/) 
 Hola y si quiero publicarlo en mi propio server que necesito?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Luis Daniel Becerra Avellaneda** (2)
+	* **Luis Daniel Becerra Avellaneda** [328377] (2)
 
-		
 		Creo que a travez de now tambien puedes hacerlo, busca en la documentacion o toma el curso de now <https://platzi.com/clases/deploy-now/>
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **alainccc** (0)
+	* **alainccc** [328377] (0)
 Gracias
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [328377] (1)
 
-		
 		También puedes ponerte el reto de hacer deploy en heroku o amazon web services, te servira mucho entender como hacerlo.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [38807](https://platzi.com/comentario/348090/) 
 Que significan todas las carpetas que genera el comando build?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Eduardo Rasgado Ruiz** (3)
+	* **Eduardo Rasgado Ruiz** [38807] (3)
 
-		
 		Es el bundle y sus amigos, son el resultado de transpilar, compactar y hacer legible nuestro código en todas las plataformas de navegación posibles. Usualmente puede hacerse a mano cuando trabajas solo con ReactJS o VanillaJS con ES6, etc. pero gracias al framework Next o a create-react-app este proceso se hace de forma automática. Al final todos los components y pages que creamos se optimizan y tu aplicativo final termina usando lo que hay dentro de esas carpetas que mencionas.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **David Daniel Castillo Nava** (1)
+* **David Daniel Castillo Nava** (1) [38806](https://platzi.com/comentario/348080/) 
 Como puedo crear un dist folder para colocarlo en git pages??
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Erik Ochoa (Platzi)** (3)
+	* **Erik Ochoa (Platzi)** [38806] (3)
 
-		
 		No todas las aplicaciones web pueden ser hosteadas en github pages. Por ejemplo aplicaciones como la de este curso no estoy seguro pueda generar los archivos totalmente estáticos para subirlos a github pages ya que usa Server Side Rendering y para eso necesitamos node en el servidor.
 		
 		Ciertamente Next permite hacer la exportación de los archivos estáticos pero aclara que no es aplicable en todos los proyectos. [Export Into a Static HTML App](https://nextjs.org/learn/excel/static-html-export)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-## 0220. Conclusiones del curso
+## 0220. Conclusiones del curso [12094](https://platzi.com/clases/1311-next-js/12094-conclusiones-del-curso6218/)
 
 ### Descripción:
 
@@ -9241,51 +8611,44 @@ Recuerda compartir tu proyecto con la comunidad en el sistema de discusiones.
 
 ### Comentarios:
 
-* **Cesar Becerra** (11)
+* **Cesar Becerra** (11) [380060](https://platzi.com/comentario/380060/) 
 
-	
 	Mas cursos con este profesor!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **José Gabriel Guzmán Lopéz** (1)
+	* **José Gabriel Guzmán Lopéz** [380060] (1)
 
-		
 		 **Total este tipo es un PRO**
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **mariomenjr** (1)
+	* **mariomenjr** [380060] (1)
 
-		
 		¡POR FAVOR!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Gregorio Garcia** (10)
+* **Gregorio Garcia** (10) [329524](https://platzi.com/comentario/329524/) 
 
-	
 	Este profesor me dejó sorprendido, demás de excelente. ¡Muchísimas gracias! 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **miguelcostero** (4)
+* **miguelcostero** (4) [333008](https://platzi.com/comentario/333008/) 
 
-	
 	<https://podcasts-zauwrglmeu.now.sh>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **miguelcostero** (1)
+	* **miguelcostero** [333008] (1)
 
-		
 		Excelente curso, muy buen profesor.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **LeandroVidela** (3)
+* **LeandroVidela** (3) [590644](https://platzi.com/comentario/590644/) 
 
-	
 	Excelente profe!
 	
 	Apliqué los conocimientos del curso para crear un template de mi portfolio y quedó súper!!!
@@ -9298,38 +8661,33 @@ Recuerda compartir tu proyecto con la comunidad en el sistema de discusiones.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [590644] (2)
 
-		
 		Está super genial tu portafolio 🤘
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **LeandroVidela** (1)
+	* **LeandroVidela** [590644] (1)
 
-		
 		Mucha gracias, pásame el tuyo!
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Carlos Rivas** (3)
+* **Carlos Rivas** (3) [413495](https://platzi.com/comentario/413495/) 
 
-	
 	A riesgo de que me caigan a piedras los Leonidas-lovers, pienso que de ahora en adelante @robertomgonzalez es el profesor que debería impartir los cursos de React.js, definitivamente una forma muy limpia de explicar y sin dejar cabos sueltos.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Juan Luis Rojas León** (3)
+* **Juan Luis Rojas León** (3) [362792](https://platzi.com/comentario/362792/) 
 
-	
 	[Repositorio en Github](https://github.com/rojasleon/next-podcasts)  
 	[Aplicación web](https://next-podcasts.now.sh/)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jsechirinos** (3)
+* **jsechirinos** (3) [333192](https://platzi.com/comentario/333192/) 
 
-	
 	`Next.js` is Ready…!!
 	
 	[Code](https://github.com/JoseChirinos/podcasts)  
@@ -9341,23 +8699,20 @@ Recuerda compartir tu proyecto con la comunidad en el sistema de discusiones.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jesus Garcia** (3)
+* **Jesus Garcia** (3) [331650](https://platzi.com/comentario/331650/) 
 
-	
 	eran altas las expectativas sobre todo el profesor que no había visto, y todo fue excelente 10pts para el y el curso. son los mejores platzi.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **Oscar Barajas Tavares (Platzi)** (1)
+	* **Oscar Barajas Tavares (Platzi)** [331650] (1)
 
-		
 		Como te fue en el curso, muestranos tu proyecto final.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Ruben Padilla** (2)
+* **Ruben Padilla** (2) [912685](https://platzi.com/comentario/912685/) 
 
-	
 	Comparto el link del repositorio y deploy:
 	
 	⚡️ [Repositorio](https://github.com/rubbenpad/podcaster)  
@@ -9369,125 +8724,108 @@ Recuerda compartir tu proyecto con la comunidad en el sistema de discusiones.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jhonatan Miranda** (2)
+* **Jhonatan Miranda** (2) [358601](https://platzi.com/comentario/358601/) 
 
-	
 	Muy buen curso 😃 uno de los mejores.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **WilliamVelazquez** (2)
+* **WilliamVelazquez** (2) [332506](https://platzi.com/comentario/332506/) 
 
-	
 	Magnífico curso! Todo gracias al excelente profesor que estuvo a cargo, espero que tengamos la oportunidad de tener más cursos impartidos por Roberto! 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **jhurtadojerves** (2)
+* **jhurtadojerves** (2) [331204](https://platzi.com/comentario/331204/) 
 
-	
 	Muy bueno el curso, me encantó. Excelente contenido, excelente profesor.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **fredy bustos** (2)
+* **fredy bustos** (2) [329556](https://platzi.com/comentario/329556/) 
 
-	
 	Estuvo excelente. Quedaron muchas cosas mucho mas claras.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **.** (2)
+* **.** (2) [328414](https://platzi.com/comentario/328414/) 
 
-	
 	Estuvo increíble el curso, muchos conceptos que no conocía o no tenía tan claros ahora los tengo listos para aplicar. Gracias Robert!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **johnaagudelo** (1)
+* **johnaagudelo** (1) [1051036](https://platzi.com/comentario/1051036/) 
 
-	
 	[Repository](https://github.com/johnaagudelo0820/podcasts-nextjs)  
 	[Deploy](https://podcasts-gamma.now.sh/)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Le_MaliX** (1)
+* **Le_MaliX** (1) [971636](https://platzi.com/comentario/971636/) 
 
-	
 	👨‍💻 [Código fuente](https://github.com/LeMalix/nextjs-podcast-player)  
 	🌐 [Deployment](https://nextjs-podcast-player.now.sh/)  
 	Muy buen curso!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **cristian soria** (1)
+* **cristian soria** (1) [909181](https://platzi.com/comentario/909181/) 
 
-	
 	Muy bueno el dictado del curso Roberto. Felicitaciones!  
 	Consulta, El manejo del statement cuando una app es más grande como lo manejas? Esta bien combinar con Redux? De ser asi las llamas las hacemos en el getInitialProps?
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [899684](https://platzi.com/comentario/899684/) 
 
-	
 	<https://github.com/Hiteple/platzi-podcast> 😃
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Lauramduquesa** (1)
+* **Lauramduquesa** (1) [895255](https://platzi.com/comentario/895255/) 
 
-	
 	<https://podcast-roan-phi.now.sh/>
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Fernando Azuaje** (1)
+* **Fernando Azuaje** (1) [829735](https://platzi.com/comentario/829735/) 
 
-	
 	excelente curso, quisiera mas cursos con el profesor Roberto aqui en platzi
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Erick Sánchez Noguerón** (1)
+* **Erick Sánchez Noguerón** (1) [693486](https://platzi.com/comentario/693486/) 
 
-	
 	Buen Curso :3
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **orivasm44** (1)
+* **orivasm44** (1) [614013](https://platzi.com/comentario/614013/) 
 
-	
 	El curso esta muy bien no es necesario saber react pero es posible que si no lo conoces te queden algunas dudas, muy buena explicación @robertomgonzalez
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Luis Diaz Venero** (1)
+* **Luis Diaz Venero** (1) [587785](https://platzi.com/comentario/587785/) 
 
-	
 	excelente servicio 😄 el mejor profe de Platzi!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **JoosCode** (1)
+* **JoosCode** (1) [581024](https://platzi.com/comentario/581024/) 
 
-	
 	Grande profe salu2 SUPER AGRADECIDO CON USTED!!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Gaston Morales** (1)
+* **Gaston Morales** (1) [580940](https://platzi.com/comentario/580940/) 
 
-	
 	Realmente este fue un curso increíble 😄
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Paola Camcho Alapizco** (1)
+* **Paola Camcho Alapizco** (1) [559470](https://platzi.com/comentario/559470/) 
 
-	
 	Increíble curso y profesor, espero encontrarlo en otros cursos.  
 	Dejo link del resultado proyecto podcast-app
 	
@@ -9496,57 +8834,50 @@ Recuerda compartir tu proyecto con la comunidad en el sistema de discusiones.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **antony999k** (1)
+* **antony999k** (1) [462130](https://platzi.com/comentario/462130/) 
 
-	
 	Muy buen profesor, se me hizo un poco rápido el curso al principio, pero esta exelente
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Tobías Schwarz** (1)
+* **Tobías Schwarz** (1) [456493](https://platzi.com/comentario/456493/) 
 
-	
 	El mejor profesor (a mi gusto) que he visto en Platzi (después de Freddy)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **carlos.guilarte.5** (1)
+* **carlos.guilarte.5** (1) [455186](https://platzi.com/comentario/455186/) 
 
-	
 	Alguien me puede dar una referencia para porder subir mi proyecto en producción en un servidor con ubuntu.? tengo una aplicación completa y no se como correrlo en un server con ubuntu. Saludos.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **wilson_romero** (1)
+	* **wilson_romero** [455186] (1)
 Te recomiendo digitalocean hay un curso muy bueno en platzi
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-	* **Daniel Esteves** (1)
+	* **Daniel Esteves** [455186] (1)
 
-		
 		Lo que puedes hacer es tener una cuenta en Digital Ocean y clonar tu repositorio en ese servidor, luego activarlo y que siempre esté en linea con el paquete `pm2` y redirigir tu dominio a DO. Pero claro esa es la manera difícil y complicada, si lo quieres hacer de una manera mucho más rápida y sencilla puedes hacer deploy en [now.sh](http://now.sh)
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo
 
-* **Matias Gabriel De Marines** (1)
+* **Matias Gabriel De Marines** (1) [406307](https://platzi.com/comentario/406307/) 
 
-	
 	Realmente muy buen profesor!
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **José Gabriel Guzmán Lopéz** (1)
+* **José Gabriel Guzmán Lopéz** (1) [391109](https://platzi.com/comentario/391109/) 
 
-	
 	 **MI PROYECTO**  
 	[](https://podcasts-kpehsmweph.now.sh)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **José Gabriel Guzmán Lopéz** (1)
+* **José Gabriel Guzmán Lopéz** (1) [391107](https://platzi.com/comentario/391107/) 
 
-	
 	**Gracias Roberto**  
 	Este es uno de los mejores profesores que tiene Platzi  
 	no se puso con rodeos aprendí bastante.  
@@ -9555,29 +8886,26 @@ Te recomiendo digitalocean hay un curso muy bueno en platzi
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Ricardo Medina** (1)
+* **Ricardo Medina** (1) [375412](https://platzi.com/comentario/375412/) 
 
-	
 	Excelente curso para empezar con este maravilloso Framework Web y muy bien explicado por el profesor. Saludos.
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Eduardo Rasgado Ruiz** (1)
+* **Eduardo Rasgado Ruiz** (1) [348701](https://platzi.com/comentario/348701/) 
 
-	
 	Mi app:  
 	[Podcastiny](https://podcasts-nsgvextlwc.now.sh)
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-* **Jose Galbis Soler** (1)
+* **Jose Galbis Soler** (1) [85645](https://platzi.com/comentario/1078357/) 
 Me surge la duda de si es mejor emplear el uso de class o por contra utilizar functions. A la hora de definir las pages y los components....
 	  *[CI]: Integración Contínua
 	  *[CD]: Despliegue Contínuo
 
-	* **assistcardaciit** (2)
+	* **assistcardaciit** [85645] (2)
 
-		
 		Mi recomendacion es que te acostumbres a funciones en lugar de clases. Si vas a incursionar en el mundo React la tendencia es ir para el lado de Hooks o sea programacion funcional.
 		  *[CI]: Integración Contínua
 		  *[CD]: Despliegue Contínuo

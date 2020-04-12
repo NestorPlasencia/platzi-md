@@ -1,6 +1,8 @@
-# Introducción
+[Curso de Programación Estructurada 1450](https://platzi.com/cursos/programacion-estructurada)
 
-## 0010. Introducción al curso
+# Introducción [3255]
+
+## 0010. Introducción al curso [16463](https://platzi.com/clases/1450-programacion-estructurada/16463-introduccion-al-curso4582/)
 
 ### Descripción:
 
@@ -13,356 +15,294 @@ La programación estructurada es una técnica para escribir programas orientados
 
 ### Comentarios:
 
-* **Héctor Daniel Vega Quiñones (Platzi)** (9)
+* **Héctor Daniel Vega Quiñones (Platzi)** (9) [484046](https://platzi.com/comentario/484046/) 
 
-	
 	¿Nunca has programado?  
 	Este curso es una excelente base, pues se estudia el paradigma de programación estructurada en lenguaje C.
 	
 	¿Por que en C?
 	
-	  * El lenguaje C es altamente portable, es decir, podemos trabajarlo desde muchos dispositivos.
-	  * Permite trabajar directamente en la memoria, mientras otros lenguajes tienen esta limitación. Lo que da gran libertad al programador.
-	  * Posee estructuras de datos fuertemente tipadas, facilitando la comprensión de las mismas.
-	  * Permite trabajar con código de bajo nive, logrando interacciones donde ortos lenguajes no llegan.
+	* El lenguaje C es altamente portable, es decir, podemos trabajarlo desde muchos dispositivos.
+	* Permite trabajar directamente en la memoria, mientras otros lenguajes tienen esta limitación. Lo que da gran libertad al programador.
+	* Posee estructuras de datos fuertemente tipadas, facilitando la comprensión de las mismas.
+	* Permite trabajar con código de bajo nive, logrando interacciones donde ortos lenguajes no llegan.
 	
 	
 	
 	A final de cuentas, puedes conocer distintos lenguajes y optar por el que te haga sentir más cómodo 😉
 
-* **Cristhian Camilo Duarte Rios** (3)
+* **Cristhian Camilo Duarte Rios** (3) [518507](https://platzi.com/comentario/518507/) 
 
-	
 	¿Este curso es preferible hacerlo antes o después del de Programación Orientada a Objetos POO?
 
-	* **Juan Camilo Lezcano Benitez** (4)
+	* **Juan Camilo Lezcano Benitez** [518507] (4)
 
-		
 		Yo diría que este curso es mejor hacerlo antes del de POO ya que es más básico.
 
-	* **Yasser Pulido** (2)
+	* **Yasser Pulido** [518507] (2)
 
-		
 		En el curso de programacion orientada a objetos, en pocas palabras te dicen que veas este primero.
 
-	* **Hernán Arica** (1)
+	* **Hernán Arica** [518507] (1)
 
-		
 		este primero tenes que ver el de programación estructurada ya que es la base para manipular objetos
 
-	* **FizIrvin** (3)
+	* **FizIrvin** [518507] (3)
 
-		
 		para reafirmar lo que dicen mis compañeros: primero este curso, y después POO
 
-	* **Camilo Andres Ossa Rpo** (1)
+	* **Camilo Andres Ossa Rpo** [518507] (1)
 
-		
 		Gracias muchacho, tenia exactamente la misma duda.
 
-	* **Gerardo Jesús Mota Olguín** (1)
+	* **Gerardo Jesús Mota Olguín** [518507] (1)
 
-		
 		En mi Universidad primero vimos Estructurada antes de POO
 
-* **Martín Leyva** (3)
+* **Martín Leyva** (3) [466160](https://platzi.com/comentario/466160/) 
 
-	
 	 **Buenas Prácticas de Programación.**
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [995281](https://platzi.com/comentario/995281/) 
 
-	
 	Vamos por todo ♥
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [987804](https://platzi.com/comentario/987804/) 
 
-	
 	Genial! Quiero ser la mejor programando.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [987804] (1)
 
-		
 		Eventualmente lo serás 😄 estoy seguro.  
 		Recuerda que siempre nos puedes dejar un mensaje en [team@platzi.com](mailto:team@platzi.com) si necesitas ayuda con tu ruta de aprendizaje 😄
 
-* **ervic_alexis** (2)
+* **ervic_alexis** (2) [784768](https://platzi.com/comentario/784768/) 
 
-	
 	Apuntes de clase:  
 	La **programación estructurada** es una técnica para escribir programas orientados a mejorar la claridad, calidad y tiempo de desarrollo de un programa de computadora recurriendo únicamente a subrutinas y tres estructuras básicas: secuencia, selección (if y switch) e iteracion (bucles for y while)
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [673404](https://platzi.com/comentario/673404/) 
 
-	
 	Viniendo del curso de Algoritmos y Estructura de datos, creo que ha sido buena idea pasar por acá.  
 	Por cierto les recomiendo el curso de Ricardo Celis, el que acabé de tomar de Algoritmos y Estructura de datos esta muy bueno.  
 	Ahora sí, a darle!.💚
 
-* **Joel Padilla** (2)
+* **Joel Padilla** (2) [557090](https://platzi.com/comentario/557090/) 
 
-	
 	Hola disculpen tome el curso de programacion basics y todo pero cada vez que me encutro con un problema lo trato de dividir en partes pequeñas como dice fredy pero ya cuando estoy programando es como que se me olvida todo 😂 y ya no me acuerdo como declarar una function o si lleva parentesis o no pero despues a medida de que avanzo a resolver el problema me empieso acordar que me recomendarias aue hiciera gracias .??
 
-	* **Angel Hernandez** (4)
+	* **Angel Hernandez** [557090] (4)
 
-		
 		Yo te recomiendo que busques una idea loca para programar, te sientes varias horas al día con tu confiable pc y hagas realidad tu visión 😄 a prueba y error quedarán grabadas las leyes que gobiernan el mundo de la programación… O que lleves contigo un cuaderno y apuntes detalles que olvidas con frecuencia
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [557090] (1)
 
-		
 		Practica. Todas las personas que programamos googleamos, no importa si tenemos 1 o 15 años de experiencia. Lo que se te olvida es bien sencillito, eso sí lo tienes que saber de memoria. 😛 Pero no te preocupes, la práctica solo nos vuelve mejores. 💪
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1114262](https://platzi.com/comentario/1114262/) 
 
-	
 	A seguir aprendiendo 😄
 
-* **TUDz** (1)
+* **TUDz** (1) [1104548](https://platzi.com/comentario/1104548/) 
 
-	
 	Camino a convertirme en un excelente desarrollador Swift
 
-* **Cristhian Alexis Vera Sandoval** (1)
+* **Cristhian Alexis Vera Sandoval** (1) [1102235](https://platzi.com/comentario/1102235/) 
 
-	
 	Vamos por esa certificación
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1101349](https://platzi.com/comentario/1101349/) 
 
-	
 	vamos con toda a aprender mucho
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1034376](https://platzi.com/comentario/1034376/) 
 
-	
 	Se ve genial el curso… Gracias Dani 😃
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1028556](https://platzi.com/comentario/1028556/) 
 
-	
 	Empecemos 😉
 
-* **José Javier Cueto Mejía** (1)
+* **José Javier Cueto Mejía** (1) [1025865](https://platzi.com/comentario/1025865/) 
 
-	
 	👀
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1009612](https://platzi.com/comentario/1009612/) 
 
-	
 	Lets go
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1003861](https://platzi.com/comentario/1003861/) 
 
-	
 	Excelente 😃
 
-* **Fabio Leonardo Fuentes Melendez** (1)
+* **Fabio Leonardo Fuentes Melendez** (1) [1003617](https://platzi.com/comentario/1003617/) 
 
-	
 	Vamo a’ darle!!
 
-* **Cegador** (1)
+* **Cegador** (1) [998727](https://platzi.com/comentario/998727/) 
 
-	
 	Iniciemos 😄
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [990227](https://platzi.com/comentario/990227/) 
 
-	
 	¡Genial! A darle.
 
-* **Yefer Manuel Padilla Castro** (1)
+* **Yefer Manuel Padilla Castro** (1) [987493](https://platzi.com/comentario/987493/) 
 
-	
 	Excelente listo para inciar el curso.
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [978591](https://platzi.com/comentario/978591/) 
 
-	
 	¡Iniciamos el curso!
 
-* **wilantury** (1)
+* **wilantury** (1) [972219](https://platzi.com/comentario/972219/) 
 
-	
 	Vamos con muchas expectativas.
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [971934](https://platzi.com/comentario/971934/) 
 
-	
 	Esto es lo esperado…!
 
-* **Josetruyolm** (1)
+* **Josetruyolm** (1) [952779](https://platzi.com/comentario/952779/) 
 
-	
 	Me siento ansioso y motivado para hacer este nuevo curso.
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [945697](https://platzi.com/comentario/945697/) 
 Excelente
 
-* **andresargote** (1)
+* **andresargote** (1) [940337](https://platzi.com/comentario/940337/) 
 
-	
 	Genial!!, aprender bien las bases para luego ser un experto!!
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [936790](https://platzi.com/comentario/936790/) 
 
-	
 	Genial 😃
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [915617](https://platzi.com/comentario/915617/) 
 
-	
 	Estupendo!!! Vamos !!! a fortalecer Bases!😁
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [910602](https://platzi.com/comentario/910602/) 
 
-	
 	HyperBear Games FTW! 😄
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [867983](https://platzi.com/comentario/867983/) 
 
-	
 	El segundo curso de muchos!
 
-	* **Kevin Javier Morales (Platzi)** (1)
+	* **Kevin Javier Morales (Platzi)** [867983] (1)
 
-		
 		Genial, cuál piensas hacer después de este?
 
-	* **john jairo lopez ramirez** (1)
+	* **john jairo lopez ramirez** [867983] (1)
 
-		
 		Recomendado hacer después de este el de POO, con estas bases y las del de POO se puede tener conocimiento suficiente para proseguir en cualquier lenguaje de programación sin preocuparse tanto por los conceptos de programación y mas por las triquiñuelas del lenguaje en si
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [832039](https://platzi.com/comentario/832039/) 
 
-	
 	A empezar mi camino a la programacion, emocionado pero tambien nervioso. Sera un excelente path a seguir.
 
-* **zeqelandia** (1)
+* **zeqelandia** (1) [820120](https://platzi.com/comentario/820120/) 
 
-	
 	A empezar un nuevo curso!
 
-* **predator0077** (1)
+* **predator0077** (1) [807442](https://platzi.com/comentario/807442/) 
 
-	
 	Vamos a empezar un nuevo curso
 
-* **Fernando_Rivera** (1)
+* **Fernando_Rivera** (1) [777207](https://platzi.com/comentario/777207/) 
 
-	
 	Excelente, vamos avanzando en el path!
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [759208](https://platzi.com/comentario/759208/) 
 
-	
 	A darle!
 
-* **Joan Casamiquela Cobos** (1)
+* **Joan Casamiquela Cobos** (1) [724204](https://platzi.com/comentario/724204/) 
 
-	
 	Tiene muy buena pinta. Adelante!!!
 
-* **Juan Carlos Frausto Arias** (1)
+* **Juan Carlos Frausto Arias** (1) [694262](https://platzi.com/comentario/694262/) 
 
-	
 	Esto se va a poner bueno
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [684316](https://platzi.com/comentario/684316/) 
 
-	
 	Excelente! vamos a iniciar!
 
-* **Gerardo Jesús Mota Olguín** (1)
+* **Gerardo Jesús Mota Olguín** (1) [662393](https://platzi.com/comentario/662393/) 
 
-	
 	Estoy emocionado!!!
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [515868](https://platzi.com/comentario/515868/) 
 
-	
 	Con muchos problemas pero me corrió al fin bien como debe ser, mi pc dura mucho en reproducir gasta 3 o 4 segundos si hago un cambio y después el antivirus molesta, toca darle anular cada que se corre el programa.
 
-* **stephencatano** (1)
+* **stephencatano** (1) [515511](https://platzi.com/comentario/515511/) 
 
-	
 	Cómo puedo realizar la instalación Full para macOS?, al descargarlo de la página oficial descarga un .ZIP que trae únicamente la APP.
 
-	* **Edward Steven Ramos Palacios** (4)
+	* **Edward Steven Ramos Palacios** [515511] (4)
 
-		
 		No necesariamente tienes que usar codeBlock para hacer el curso.  
 		Puedes usar un IDE como VSCode para realizar el curso.
 
-* **artik0** (1)
+* **artik0** (1) [511775](https://platzi.com/comentario/511775/) 
 
-	
 	iba a partir por POO pero ya que mencionaron programacion estructurada llegue aca, Saludos!
 
-* **irwinmax** (1)
+* **irwinmax** (1) [508743](https://platzi.com/comentario/508743/) 
 
-	
 	Vengo de progracion orientada a objetos.
 
-* **paulo  Urquizo** (1)
+* **paulo  Urquizo** (1) [481232](https://platzi.com/comentario/481232/) 
 
-	
 	La programación estructurada nos ayudara a entender el uso de variables, condicionales, la utilización de arreglos y muchas cosas más. 😃 que empieze!!
 
-* **Mauricio Hernández** (1)
+* **Mauricio Hernández** (1) [475853](https://platzi.com/comentario/475853/) 
 
-	
 	Excelente! A darle! 😄
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [71773](https://platzi.com/comentario/803568/) 
 Apuntadores, mi pesadilla desde que inicié en la programación! 😦
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [71773] (1)
 
-		
 		Tú tranqui. En el Curso de Introducción a C++ los estudiamos muy bien: <https://platzi.com/clases/1545-c-plus-plus/19070-que-son-los-apuntadores/>. 😉
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [70893](https://platzi.com/comentario/784771/) 
 Hola, alguien me podría explicar ¿qué es una subrutina?
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [70893] (2)
 
-		
 		👉 [https://es.wikiversity.org/wiki/Fundamentos_de_programación/Subrutinas](https://es.wikiversity.org/wiki/Fundamentos_de_programaci%C3%B3n/Subrutinas)  
 		👉 <http://www.alegsa.com.ar/m/Dic/subrutina.php>
 
-* **Joel Padilla** (1)
+* **Joel Padilla** (1) [56805](https://platzi.com/comentario/557090/) 
 Hola disculpen tome el curso de programacion basics y todo pero cada vez que me encutro con un problema lo trato de dividir en partes peq...
 
-	* **Angel Hernandez** (4)
+	* **Angel Hernandez** [56805] (4)
 
-		
 		Yo te recomiendo que busques una idea loca para programar, te sientes varias horas al día con tu confiable pc y hagas realidad tu visión 😄 a prueba y error quedarán grabadas las leyes que gobiernan el mundo de la programación… O que lleves contigo un cuaderno y apuntes detalles que olvidas con frecuencia
 
-* **Cristhian Camilo Duarte Rios** (1)
+* **Cristhian Camilo Duarte Rios** (1) [53523](https://platzi.com/comentario/518507/) 
 ¿Este curso es preferible hacerlo antes o después del de Programación Orientada a Objetos POO?
 
-	* **Juan Camilo Lezcano Benitez** (4)
+	* **Juan Camilo Lezcano Benitez** [53523] (4)
 
-		
 		Yo diría que este curso es mejor hacerlo antes del de POO ya que es más básico.
 
-* **stephencatano** (1)
+* **stephencatano** (1) [53259](https://platzi.com/comentario/515511/) 
 Cómo puedo realizar la instalación Full para macOS?, al descargarlo de la página oficial descarga un .ZIP que trae únicamente la APP.
 
-	* **Edward Steven Ramos Palacios** (4)
+	* **Edward Steven Ramos Palacios** [53259] (4)
 
-		
 		No necesariamente tienes que usar codeBlock para hacer el curso.  
 		Puedes usar un IDE como VSCode para realizar el curso.
 
-# Conceptos básicos
+# Conceptos básicos [3256]
 
-## 0020. Set up de codeblocks y compilador
+## 0020. Set up de codeblocks y compilador [16526](https://platzi.com/clases/1450-programacion-estructurada/16526-set-up-de-codeblocks-y-compilador9494/)
 
 ### Descripción:
 
@@ -381,36 +321,30 @@ Se desarrolla en C ++ usando wxWidgets como el kit de herramientas GUI.
 
 ### Comentarios:
 
-* **Héctor Daniel Vega Quiñones (Platzi)** (13)
+* **Héctor Daniel Vega Quiñones (Platzi)** (13) [484037](https://platzi.com/comentario/484037/) 
 
-	
 	En ocasiones me puedo encontrar en una computadora o sistema operativo donde no tenga instalado Code::Blocks y uso [Repl.it](http://Repl.it) como alternativa.
 	
 	Repl es un IDE online que es compatible con muchísimos lenguajes de programación desde la web. Esto tiene como ventaja que no es necesario instalar nada, además de ser versátil.
 
-	* **Pablo Octavio Camarena Arellano** (2)
+	* **Pablo Octavio Camarena Arellano** [484037] (2)
 
-		
 		Excelente recomendación, sin duda muy útil. Gracias.
 
-* **Wandy Rafael Santana Evangelista** (5)
+* **Wandy Rafael Santana Evangelista** (5) [673423](https://platzi.com/comentario/673423/) 
 
-	
 	Yo usaré VSCode para escribir mi código y el terminal para compilar.😁(Eso lo aprendí en el Curso de Algoritmos y Estructura de Datos).
 
-	* **zeqelandia** (2)
+	* **zeqelandia** [673423] (2)
 
-		
 		Muy bueno, eso no lo sabía
 
-* **Josetruyolm** (4)
+* **Josetruyolm** (4) [953984](https://platzi.com/comentario/953984/) 
 
-	
 	Si saben usar Google tienen la vida resuelta!
 
-* **ervic_alexis** (4)
+* **ervic_alexis** (4) [790876](https://platzi.com/comentario/790876/) 
 
-	
 	Ocupamos un **IDE** (Entorno de desarrollo integrado) para escribir nuestro código.  
 	**¿Qué es un compilador?**  
 	Es el encargado de traducir el lenguaje de programación que utilizamos al lenguaje maquina (lenguaje binario), es decir ceros y unos.  
@@ -421,113 +355,93 @@ Se desarrolla en C ++ usando wxWidgets como el kit de herramientas GUI.
 	**¿Qué es openSource?**  
 	Es algo que esta disponible para su modificación.
 
-	* **zeqelandia** (3)
+	* **zeqelandia** [790876] (3)
 
-		
 		Buenas notas. En particular, pienso que una buena definición de open sourse sería: “De código abierto” esto significa que el código de un software está disponible para su modificación
 
-	* **ervic_alexis** (2)
+	* **ervic_alexis** [790876] (2)
 
-		
 		Tu definición se entiende mejor zeqlandia, gracias por el aporte, saludos.
 
-	* **arlex_ee10** (1)
+	* **arlex_ee10** [790876] (1)
 
-		
 		Gracias
 
-* **fuenmondal** (4)
+* **fuenmondal** (4) [538419](https://platzi.com/comentario/538419/) 
 
-	
 	para los que tengan ubuntu  
 	<https://ubunlog.com/como-instalar-codeblocks-en-ubuntu-18-04/>  
 	de aqui se pueden guiar
 
-	* **Francisco Sebastian Dueñas Caicedo** (1)
+	* **Francisco Sebastian Dueñas Caicedo** [538419] (1)
 
-		
 		Gracias uwu
 
-* **andresargote** (3)
+* **andresargote** (3) [940346](https://platzi.com/comentario/940346/) 
 
-	
 	IDE: Entorno de desarrollo integrado, se utilizará un compilador que lo que hace es traducir el lenguaje de programación a el lenguaje maquina(binario).
 
-* **jameskristof** (3)
+* **jameskristof** (3) [802179](https://platzi.com/comentario/802179/) 
 
-	
 	Yo no lo descargo porque ya lo tengo
 
-* **Alejandro Robleto** (3)
+* **Alejandro Robleto** (3) [680155](https://platzi.com/comentario/680155/) 
 
-	
 	para los que ocupen directamente la pagina  
 	<http://www.codeblocks.org/>
 
-* **Alejandro Robleto** (3)
+* **Alejandro Robleto** (3) [64682](https://platzi.com/comentario/680201/) 
 paras los ususrios de Mac que no les sirvio el enlace que nos dejaron aca… les dare este otro que busque y si pudo servir espero les sea ...
 
-	* **Wandy Rafael Santana Evangelista** (2)
+	* **Wandy Rafael Santana Evangelista** [64682] (2)
 
-		
 		Yo les recomiendo otra alternativa como Visual Studio Code, y compilen con la terminal (Así lo hago yo.)
 
-* **maoacrlearn** (2)
+* **maoacrlearn** (2) [1078786](https://platzi.com/comentario/1078786/) 
 
-	
 	Yo utilizo **SUBLIME TEXT**
 
-* **Jesus Velez Flores** (2)
+* **Jesus Velez Flores** (2) [1028568](https://platzi.com/comentario/1028568/) 
 
-	
 	San Google nos resuelve la vida!
 
-* **Nelsonegd** (2)
+* **Nelsonegd** (2) [1013799](https://platzi.com/comentario/1013799/) 
 
-	
 	Visual Studio, eso ya no se usa.
 
-* **Miguel Torres** (2)
+* **Miguel Torres** (2) [910653](https://platzi.com/comentario/910653/) 
 
-	
 	Para poner su editor de CodeBlocks en modo oscuro les recomiendo este tutorial: <https://medium.com/@yzhong.cs/change-editor-theme-for-code-blocks-windows-linux-mac-92e9c15cbca4>
 
-* **majomaken** (2)
+* **majomaken** (2) [909927](https://platzi.com/comentario/909927/) 
 
-	
 	Uy siempre quise programar en C ahora si voy a tener mucho mas contexto de como funciona todo.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [909927] (1)
 
-		
 		Recuerda que también puedes tomar el Curso de Introducción a C: <https://platzi.com/clases/lenguaje-c/>. 😉
 
-* **jcavelez** (2)
+* **jcavelez** (2) [908711](https://platzi.com/comentario/908711/) 
 
-	
 	Luce mejor VSCode y SublimeText, pero que bueno conocer otras alternatvas. Por supuesto que utilizaré code blocks.
 
-* **Ramón Ruiz** (2)
+* **Ramón Ruiz** (2) [884051](https://platzi.com/comentario/884051/) 
 
-	
 	<https://ubunlog.com/como-instalar-codeblocks-en-ubuntu-18-04/>
 	
 	Para los que tienen ubuntu he instalen codeblocks
 
-* **Christian Gómez** (2)
+* **Christian Gómez** (2) [873759](https://platzi.com/comentario/873759/) 
 
-	
 	Code Blocks es un IDE (Integrated Development Enviroment) que a la vez tambien es un compilador, que traduce de Lenguaje de programación a lenguaje de maquina.
 
-* **Rodrigo Sandoval Durán** (2)
+* **Rodrigo Sandoval Durán** (2) [496098](https://platzi.com/comentario/496098/) 
 
-	
 	Me da gusto el poder aprender desde cero además de poder trabajar con herramientas open source.  
 	A darle con todo al aprendizaje!
 
-* **Martín Leyva** (2)
+* **Martín Leyva** (2) [466164](https://platzi.com/comentario/466164/) 
 
-	
 	La descripción en inglés (Tomada del Sitio de Code::Blocks)
 	
 	**Code::Blocks** is a free, open-source, cross-platform C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
@@ -536,12 +450,11 @@ paras los ususrios de Mac que no les sirvio el enlace que nos dejaron aca… les
 	
 	Built around a plugin framework, Code::Blocks can be extended with plugins. Any kind of functionality can be added by installing/coding a plugin. For instance, compiling and debugging functionality is already provided by plugins!
 
-* **Renato Maximiliano Rivera Abad** (2)
+* **Renato Maximiliano Rivera Abad** (2) [76730](https://platzi.com/comentario/892194/) 
 Cuál es la diferencia entre CodeBlocka y Visual Code ?¿ podría usar Visual Code para este curso ?¿
 
-	* **Julio Cesar Estrada Marcial** (4)
+	* **Julio Cesar Estrada Marcial** [76730] (4)
 
-		
 		La diferencia básicamente es que CodeBlocks es un IDE (Entorno de desarrollo integrado) y VSCode es un editor de texto.
 		
 		Algunas “ventajas” de usar CodeBlocks podrían ser:  
@@ -555,314 +468,261 @@ Cuál es la diferencia entre CodeBlocka y Visual Code ?¿ podría usar Visual Co
 		
 		<https://platzi.com/tutoriales/1189-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/>
 
-* **Alejandro Robleto** (2)
+* **Alejandro Robleto** (2) [64681](https://platzi.com/comentario/680190/) 
 que solucion me pueden dar ya que codeblock no se puede usar en Mac por motivos de actualizacion y rendimiento practicamente solo esta pa...
 
-	* **Wandy Rafael Santana Evangelista** (2)
+	* **Wandy Rafael Santana Evangelista** [64681] (2)
 
-		
 		Yo te recomiendo que uses Visual Studio Code, e instales las extensiones de C, y compiles desde la terminal con el comando: **clang nombre_archivo.c -o nombre_archivo**  
 		**Nota:** Como usas Mac, debes tener instalado Xcode para que te instale el compilador de **clang.**
 
-* **Beto Cortés** (1)
+* **Beto Cortés** (1) [1114567](https://platzi.com/comentario/1114567/) 
 
-	
 	Yo usaré visual studio jsjsjsjj, pero tendre anotado el codeblock
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [1063410](https://platzi.com/comentario/1063410/) 
 
-	
 	En lo personal utilizo “Visual Studio Code”. Les recomiendo revisar el blog con los tips de “VSC”.
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1034759](https://platzi.com/comentario/1034759/) 
 
-	
 	Excelente… gracias 😃
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [1030191](https://platzi.com/comentario/1030191/) 
 yo también sigo en visual
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1003921](https://platzi.com/comentario/1003921/) 
 
-	
 	Yo utilizo Visual Studio 😃
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1002489](https://platzi.com/comentario/1002489/) 
 
-	
 	Todo palomeado, jejeje es la primera vez que oigo eso…suena bien jajaja
 
-* **Cegador** (1)
+* **Cegador** (1) [998747](https://platzi.com/comentario/998747/) 
 
-	
 	En Catalina de Mac no lo deja instalar
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [998747] (1)
 
-		
 		¡Hola! 😄  
 		Yo usé <https://www.onlinegdb.com/online_c_compiler>  
 		Me funcionó excelente 😄
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [998730](https://platzi.com/comentario/998730/) 
 
-	
 	un curso menos un paso mas
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [996665](https://platzi.com/comentario/996665/) 
 
-	
 	Con muchas ganas de aprender!
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [995528](https://platzi.com/comentario/995528/) 
 
-	
 	Listo Code :: Blocks ♥
 
-* **jhavargashe** (1)
+* **jhavargashe** (1) [991187](https://platzi.com/comentario/991187/) 
 
-	
 	Amo que la profesora es divertida :3
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [990391](https://platzi.com/comentario/990391/) 
 
-	
 	**Code::Blocks **instalado satisfactoriamente. 😉
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [987882](https://platzi.com/comentario/987882/) 
 
-	
 	Listo Code Blocks!
 
-* **Moises_Isea** (1)
+* **Moises_Isea** (1) [983022](https://platzi.com/comentario/983022/) 
 
-	
 	Tengo el mismo problema con Mac OS catalina no me permite abrir el programa
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [982189](https://platzi.com/comentario/982189/) 
 
-	
 	Ya Baje El Software
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [981926](https://platzi.com/comentario/981926/) 
 
-	
 	super , ya lo baje .
 	
 	e instale
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [978602](https://platzi.com/comentario/978602/) 
 
-	
 	Cuento con macOS catalina, y me indica que no puedo instalarlo puesto que necesita que se actualice el programa. Creo que ha quedado desfasado este IDE. ¿alguno le pasa lo mismo?
 
-	* **Cegador** (1)
+	* **Cegador** [978602] (1)
 
-		
 		A mi también
 
-	* **jmacalupur** (1)
+	* **jmacalupur** [978602] (1)
 
-		
 		En la página indican que dejaron de desarrollar en macOS, pero navegando puedes encontrar la forma de instalarlo para 64bits. Por otro lado, yo lo he trabajado en Visual Studio Code sin problemas.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [978602] (1)
 
-		
 		¡Hola! 😄  
 		También puedes usar: <https://www.onlinegdb.com/online_c_compiler>  
 		Yo lo usé para todo el curso y me funcionó excelente 😄
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [978592](https://platzi.com/comentario/978592/) 
 
-	
 	Si saben usar Google -> tienen la vida resuelta.
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [978555](https://platzi.com/comentario/978555/) 
 
-	
 	Gracias, iniciando el curso
 
-* **wilantury** (1)
+* **wilantury** (1) [974715](https://platzi.com/comentario/974715/) 
 
-	
 	Voy a probar el compilador de C de eclipse, que opinan de ese IDE?
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [971946](https://platzi.com/comentario/971946/) 
 
-	
 	apenas iniciando y cada uno utiliza sus propios programas…:[
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [917643](https://platzi.com/comentario/917643/) 
 
-	
 	Vamos!!!
 
-* **neurus** (1)
+* **neurus** (1) [882074](https://platzi.com/comentario/882074/) 
 
-	
 	Hola , alguien que tenga los pasos para configurar Visual Studio Code, para compilar C?¡? 😃
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [882074] (1)
 
-		
 		Aquí lo tienes: <https://platzi.com/tutoriales/1189-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/>. 😉
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [867988](https://platzi.com/comentario/867988/) 
 
-	
 	Woo C!
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [864721](https://platzi.com/comentario/864721/) 
 
-	
 	VSCode con Python y Linea de comandos.
 
-* **ovijar** (1)
+* **ovijar** (1) [839970](https://platzi.com/comentario/839970/) 
 
-	
 	Ready go!!!
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [838589](https://platzi.com/comentario/838589/) 
 
-	
 	Vamos con toda!!
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [832623](https://platzi.com/comentario/832623/) 
 
-	
 	Ready to go! codeblocks installed.
 
-* **zeqelandia** (1)
+* **zeqelandia** (1) [820176](https://platzi.com/comentario/820176/) 
 
-	
 	Codeblocks instalado y listo
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [806763](https://platzi.com/comentario/806763/) 
 
-	
 	Bueno estoy tomando este curso solo porque es el siguiente en la carrera de Fundamentos espero aprender algo nuevo
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [803574](https://platzi.com/comentario/803574/) 
 
-	
 	Supongo que puedo utilizar VSCode y la linea de comandos!
 
-* **Jonathan Uriel Jiménez Soveranes** (1)
+* **Jonathan Uriel Jiménez Soveranes** (1) [803571](https://platzi.com/comentario/803571/) 
 
-	
 	San google!
 
-* **Walter Salas** (1)
+* **Walter Salas** (1) [618552](https://platzi.com/comentario/618552/) 
 
-	
 	Listo para empezar.
 
-* **Henry Alberto Torres Agurto** (1)
+* **Henry Alberto Torres Agurto** (1) [585560](https://platzi.com/comentario/585560/) 
 
-	
 	Y si los que tienen mac que opción pueden instalar ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [585560] (1)
 
-		
 		Hola, aquí <https://platzi.com/clases/1450-programacion-estructurada/16526-set-up-de-codeblocks-y-compilador9494/?time=110> muestra las tres opciones al seleccionar mac te lleva a la opción disponible, solo hay una versión para mac.
 
-	* **Henry Alberto Torres Agurto** (1)
+	* **Henry Alberto Torres Agurto** [585560] (1)
 
-		
 		Y es necesario instalar Xcode antes de Codeblocks ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [585560] (1)
 
-		
 		xcode es necesario casi para todo lo que tiene que ver con programación para ios.
 
-* **KarloSanabria** (1)
+* **KarloSanabria** (1) [559847](https://platzi.com/comentario/559847/) 
 
-	
 	Hola:  
 	Acabo de instalar el Codeblocks en MAC pero al momento de compilar no funciona. Aparee un mensaje que dice: “It seems that your project has mot been built yet. Do you want to build it now?” Le doy click en “yes”, pero nunca aparece la pantalla negra. Agradezco la ayuda.
 
-* **Carlos Francisco Betancourt Requena** (1)
+* **Carlos Francisco Betancourt Requena** (1) [498471](https://platzi.com/comentario/498471/) 
 
-	
 	Hola, en Ubuntu 18.04 no puedo instalar codeblocks; me da errores. ¿Con qué otra herramienta puedo seguir el curso? Gracias!
 
-	* **Juan Camilo Lezcano Benitez** (2)
+	* **Juan Camilo Lezcano Benitez** [498471] (2)
 
-		
 		Yo lo instalé siguiendo el proceso que se muestra en este video <https://www.youtube.com/watch?v=DxW7dwX7X1g> y me funcionó correctamente. Tal vez le pueda servir.
 
-	* **Carlos Francisco Betancourt Requena** (2)
+	* **Carlos Francisco Betancourt Requena** [498471] (2)
 
-		
 		Muchas gracias Cazelon; después de algunos intentos lo instalé desde le centro de software. Un slaudo!
 
-* **rrbyte** (1)
+* **rrbyte** (1) [495723](https://platzi.com/comentario/495723/) 
 
-	
 	 **Nostalgia**  
 	CodeBlocks fue con el IDE que empecé a aprender el lenguaje C
 
-	* **rrbyte** (1)
+	* **rrbyte** [495723] (1)
 
-		
 		Pero luego aprendí que Dev-C++ es más agradable.
 
-* **jamarin_** (1)
+* **jamarin_** (1) [466797](https://platzi.com/comentario/466797/) 
 
-	
 	Personalmente me gusta más CLion para trabajar con C, pero Code::Blocks ciertamente no está nada mal.
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [75239](https://platzi.com/comentario/866457/) 
 No he logrado instalar la herramienta para Mac… @PLATZI que otros IDE recomiendan?
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (2)
+	* **Juan Felipe Peralta Zapata (Platzi)** [75239] (2)
 
-		
 		¡Hola! ⚡
 		
 		Podrías probar con [Eclipse](https://www.eclipse.org/) o con [Visual Studio Code](https://code.visualstudio.com/).
 
-* **Reynaldo Santos Mata** (1)
+* **Reynaldo Santos Mata** (1) [69211](https://platzi.com/comentario/753295/) 
 Hola puedo utilizar Visaul Studio Code???
 
-	* **Manuel Ojeda** (2)
+	* **Manuel Ojeda** [69211] (2)
 
-		
 		Puedes utilizar el editor de código que tu gustes, incluso usar un bloc de notas de tu SO. 👍👌
 
-* **Henry Alberto Torres Agurto** (1)
+* **Henry Alberto Torres Agurto** (1) [59016](https://platzi.com/comentario/585560/) 
 Y si los que tienen mac que opción pueden instalar ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [59016] (1)
 
-		
 		Hola, aquí <https://platzi.com/clases/1450-programacion-estructurada/16526-set-up-de-codeblocks-y-compilador9494/?time=110> muestra las tres opciones al seleccionar mac te lleva a la opción disponible, solo hay una versión para mac.
 
-* **Carlos Francisco Betancourt Requena** (1)
+* **Carlos Francisco Betancourt Requena** (1) [51998](https://platzi.com/comentario/498471/) 
 Hola, en Ubuntu 18.04 no puedo instalar codeblocks; me da errores. ¿Con qué otra herramienta puedo seguir el curso? Gracias!
 
-	* **Juan Camilo Lezcano Benitez** (2)
+	* **Juan Camilo Lezcano Benitez** [51998] (2)
 
-		
 		Yo lo instalé siguiendo el proceso que se muestra en este video <https://www.youtube.com/watch?v=DxW7dwX7X1g> y me funcionó correctamente. Tal vez le pueda servir.
 
-## 0030. Variables y tipos de datos (Asignación y clasificación)
+## 0030. Variables y tipos de datos (Asignación y clasificación) [16464](https://platzi.com/clases/1450-programacion-estructurada/16464-variables-y-tipos-de-datos-asignacion-y-clasificac/)
 
 ### Descripción:
 
 
  **Diseño de programas de software**
 
-  * Análisis
-  * Diseño
-  * Programación
-  * Codificación
-  * Prueba
-  * Mantenimiento
-  * Documentación
+* Análisis
+* Diseño
+* Programación
+* Codificación
+* Prueba
+* Mantenimiento
+* Documentación
 
 
 
@@ -870,9 +730,9 @@ Un **tipo de dato** es una clasificación que el programador le da a la informac
 
 Tipos de datos primitivos:
 
-  * Numéricos: int (números enteros), float (números decimales)
-  * Caracteres: char
-  * Booleanos: bool (True or false)
+* Numéricos: int (números enteros), float (números decimales)
+* Caracteres: char
+* Booleanos: bool (True or false)
 
 
 
@@ -880,9 +740,8 @@ Una **variable** es un _espacio_ reservado _en memoria_ , definido por un _tipo 
 
 ### Comentarios:
 
-* **Walker Fernando Manrique Chalco** (10)
+* **Walker Fernando Manrique Chalco** (10) [465428](https://platzi.com/comentario/465428/) 
 
-	
 	hay que aclarar que los tipos de datos tienen rangos
 	``` 
 	    int entero; //-32768 a 32767
@@ -893,30 +752,28 @@ Una **variable** es un _espacio_ reservado _en memoria_ , definido por un _tipo 
 	
 	y luego para aumentar esas cantidades se usa el “long” o el “short” entre otros
 
-* **Juan Andres Garzon Garay** (6)
-![Clase 3.png](https://static.platzi.com/media/user_upload/Clase%203-997397e3-0077-4977-8a98-fd4197f302fc.jpg)
+* **Juan Andres Garzon Garay** (6) [1035711](https://platzi.com/comentario/1035711/) 
+	
+	![Clase 3.png](https://static.platzi.com/media/user_upload/Clase%203-997397e3-0077-4977-8a98-fd4197f302fc.jpg)
 
-	* **Gabogoonies** (1)
+	* **Gabogoonies** [1035711] (1)
 
-		
 		Excelente Tabla. Muchas Gracias!!!
 
-* **Wilson Perez** (5)
-![](https://i.imgur.com/QBI3343.jpg)
-
-* **jhonsoccer11** (4)
-
+* **Wilson Perez** (5) [655586](https://platzi.com/comentario/655586/) 
 	
+	![](https://i.imgur.com/QBI3343.jpg)
+
+* **jhonsoccer11** (4) [1004423](https://platzi.com/comentario/1004423/) 
+
 	Genial la explicacion 😃
 
-* **Adriana del Pilar Martinez Bautista** (4)
+* **Adriana del Pilar Martinez Bautista** (4) [995604](https://platzi.com/comentario/995604/) 
 
-	
 	Este tipo de explicaciones son muy buenas, son cosas muy básicas, pero para la persona que entra al mundo de la programación, es muy útil para entender todo de ahí en adelante.
 
-* **Antonio Rafael González Ferrer** (4)
+* **Antonio Rafael González Ferrer** (4) [758845](https://platzi.com/comentario/758845/) 
 
-	
 	Apuntes:
 	
 	**Variables de datos (Asignación y clasificación)**
@@ -959,90 +816,78 @@ Una **variable** es un _espacio_ reservado _en memoria_ , definido por un _tipo 
 	Int healthpoints = 100;  
 	}
 
-* **Martín Leyva** (4)
+* **Martín Leyva** (4) [466168](https://platzi.com/comentario/466168/) 
 
-	
 	Un **tipo de dato** es:  
 	⦁ una clasificación que el programador le da a la información almacenada para avisarle al compilador cómo va a ser interpretada.  
 	⦁ un espació en memoria con restricciones.
 
-	* **Alenri** (2)
+	* **Alenri** [466168] (2)
 
-		
 		Buen aporte
 
-	* **Mauricio Hernández** (1)
+	* **Mauricio Hernández** [466168] (1)
 
-		
 		Gracias por el aporte! 😄
 
-* **Nikodu** (3)
+* **Nikodu** (3) [1004489](https://platzi.com/comentario/1004489/) 
 
-	
 	que buena manera de explicar!
 
-* **Yerson Daniel Romero Orjuela** (3)
+* **Yerson Daniel Romero Orjuela** (3) [998740](https://platzi.com/comentario/998740/) 
 
-	
 	es mejor ver programación estructurada que básico de algoritmos
 
-* **Andrés Felipe Delgado Guarnizo** (3)
+* **Andrés Felipe Delgado Guarnizo** (3) [997436](https://platzi.com/comentario/997436/) 
 
-	
 	Excelente explicación!!
 
-* **Jaime Sabogal Sanchez** (3)
+* **Jaime Sabogal Sanchez** (3) [996069](https://platzi.com/comentario/996069/) 
 
-	
 	Profe Daniela
 	
 	Te agradezco por esta explicación tan sencilla y clara de estos conceptos básicos, ya que, me permitió aclarar y comprender mejor algunos conceptos que tenia un poco enredados. Creo que la clave para ser un buen programador es tener claras estas bases.
 	
 	Gracias.
 
-* **Leisy Karina Algarra Fernandez** (3)
+* **Leisy Karina Algarra Fernandez** (3) [987939](https://platzi.com/comentario/987939/) 
 
-	
 	Librerias = grupos de información para ampliar comandos o caracteres
 
-* **Alfonso Romero** (3)
+* **Alfonso Romero** (3) [986259](https://platzi.com/comentario/986259/) 
 
-	
 	Después de algunos cursos ya se explica paso a paso…que bien!
 
-* **tekan** (3)
+* **tekan** (3) [983850](https://platzi.com/comentario/983850/) 
 
-	
 	En vez de code::block podéis usar ‘eclipse’ para mac, ya que codeblock no da soporte a macOS catalina
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [983850] (1)
 
-		
 		¡Hola, Tekan! 😄  
 		También puedes usar: <https://www.onlinegdb.com/online_c_compiler>  
 		Yo lo usé para todo el curso 😄
 
-* **ervic_alexis** (3)
+* **ervic_alexis** (3) [787423](https://platzi.com/comentario/787423/) 
 
-	
 	Apuntes de clase:  
 	Los programas tienen una fase de desarrollo :
 	
-	  * Análisis
-	  * Diseño
-	  * Programación
-	  * Codificación
-	  * Prueba
-	  * Mantenimiento
-	  * Documentación  
+	* Análisis
+	* Diseño
+	* Programación
+	* Codificación
+	* Prueba
+	* Mantenimiento
+	* Documentación  
 	//  
 	**Tipo de dato** : Es una clasificación que el programador le da a la información almacenada para avisarle al compilador como va a ser interpretada. (Un tipo de dato es, en esencia, un espacio en memoria con restricciones).  
 	**Hay diferentes tipos datos** que podemos utilizar para guardar información:
 	
 	
-	  * Numéricos: **int** (números enteros), **float** (números decimales)
-	  * Caracteres: **char** (por ejemplo: Z, a, @, *)
-	  * Booleanos: **bool** (true o false)  
+	* Numéricos: **int** (números enteros), **float** (números decimales)
+	* Caracteres: **char** (por ejemplo: Z, a, @, *)
+	* Booleanos: **bool** (true o false)  
 	//  
 	**¿Qué es una variable?**  
 	Es un espacio reservado en memoria, definido por un tipo de dato y un nombre asignado, en el cual se puede guardar un valor y se puede modificar.
@@ -1073,65 +918,54 @@ Una **variable** es un _espacio_ reservado _en memoria_ , definido por un _tipo 
 	    
 	```
 
-	* **arlex_ee10** (1)
+	* **arlex_ee10** [787423] (1)
 
-		
 		Gracias
 
-* **kenygg7** (3)
+* **kenygg7** (3) [468407](https://platzi.com/comentario/468407/) 
 
-	
 	¿Por que se le llaman **primitivos**? ¿A què se refiere esa palabra?
 
-	* **Danelia Sanchez Sanchez** (17)
+	* **Danelia Sanchez Sanchez** [468407] (17)
 
-		
 		Tipos de datos primitivos son tipos de datos elementales que ya vienen definidos en un lenguaje de programación (int, float, etc, en C) y con los cuales se pueden construir otros tipos de datos más complejos como arreglos, estructuras de datos, etc.
 
-	* **Ricardo Exequiel De Angelis** (2)
+	* **Ricardo Exequiel De Angelis** [468407] (2)
 
-		
 		buena aclaracion de DaneSanchz le agregaria que  
 		java como lenjuaje orientado a objetos  
 		tambien soporta tipo de datos primitivos.
 
-	* **Alenri** (1)
+	* **Alenri** [468407] (1)
 
-		
 		Es correcto diria que todos los lenguajes de programacion contienen como base tipos de datos primitivos aunque solo conozco algunos.
 
-	* **Jesús Yael Ortega Aguilar** (1)
+	* **Jesús Yael Ortega Aguilar** [468407] (1)
 
-		
 		Sólo como acotación, primitivo hacer referencia a algo que fue “primero”, no es un término peyorativo
 
-* **orianasuljeisposadamolina** (2)
+* **orianasuljeisposadamolina** (2) [1020583](https://platzi.com/comentario/1020583/) 
 
-	
 	Tenemos que elegir una carpeta para guardar el proyecto de lo contrario no abrirá main
 
-* **Nelsonegd** (2)
+* **Nelsonegd** (2) [1013951](https://platzi.com/comentario/1013951/) 
 
-	
 	Tengo un problema al crear el archivo main y el error es el siguiente: Can’t create output directory bin\Debug  
 	cuando ejecuto presento el anterior error, ayuda por favor.
 
-	* **Nelsonegd** (2)
+	* **Nelsonegd** [1013951] (2)
 
-		
 		Ya resolví el problema, resulta que no había definido la carpeta donde iba a guardar el proyecto.
 
-* **MartinMB** (2)
+* **MartinMB** (2) [1009618](https://platzi.com/comentario/1009618/) 
 
-	
 	Muy interesante
 
-* **Fabio Leonardo Fuentes Melendez** (2)
+* **Fabio Leonardo Fuentes Melendez** (2) [1003841](https://platzi.com/comentario/1003841/) 
 
-	
 	Excelente explicación, este curso junto al básico de algoritmos van muy de la mano!! Gracias
 
-* **Mirna Mabel Veras Carvajal** (2)
+* **Mirna Mabel Veras Carvajal** (2) [990433](https://platzi.com/comentario/990433/) 
 
 	```
 	    #include<stdio.h>
@@ -1150,52 +984,45 @@ Una **variable** es un _espacio_ reservado _en memoria_ , definido por un _tipo 
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [987932](https://platzi.com/comentario/987932/) 
 
-	
 	Espectacular, me gusta!
 
-* **henrycaicedov** (2)
+* **henrycaicedov** (2) [985759](https://platzi.com/comentario/985759/) 
 Me gusta como explicas...
 
-* **Nonintula34** (2)
+* **Nonintula34** (2) [982014](https://platzi.com/comentario/982014/) 
 
-	
 	wow , es increible , no entiendo mucho aun . pero quiero aprender . animo
 
-* **jmacalupur** (2)
+* **jmacalupur** (2) [978628](https://platzi.com/comentario/978628/) 
 
-	
 	Declaración de variable ≠ Inicialización de variable
 
-* **wilantury** (2)
+* **wilantury** (2) [974722](https://platzi.com/comentario/974722/) 
 
-	
 	Fases de desarrollo:
 	
-	  * Análisis
-	  * Diseño
-	  * Programación
-	  * Codificación
-	  * Pruebas
-	  * Mantenimiento
-	  * Documentación.
+	* Análisis
+	* Diseño
+	* Programación
+	* Codificación
+	* Pruebas
+	* Mantenimiento
+	* Documentación.
 	
 	
 
-* **BotDrako** (2)
+* **BotDrako** (2) [967895](https://platzi.com/comentario/967895/) 
 
-	
 	Esto si esta muy interesante 😃
 
-* **Merlyn Rodriguez** (2)
+* **Merlyn Rodriguez** (2) [943090](https://platzi.com/comentario/943090/) 
 
-	
 	dos puntos por terminar de ver :v
 
-* **andresargote** (2)
+* **andresargote** (2) [940420](https://platzi.com/comentario/940420/) 
 
-	
 	Tipos de datos
 	
 	Es una clasificación que se le da a la información almacenada para avisarle al compilador como va a ser interpretada.
@@ -1228,9 +1055,8 @@ Me gusta como explicas...
 	Char letras = “HOLA”;  
 	Bool = “false”;
 
-* **Jose Alfredo Vallejo Contreras** (2)
+* **Jose Alfredo Vallejo Contreras** (2) [894348](https://platzi.com/comentario/894348/) 
 
-	
 	para los que les salga este error:  
 	ERROR: You need to specify a debugger program in the debuggers’s settings.  
 	(For MinGW compilers, it’s ‘gdb.exe’ (without the quotes))  
@@ -1255,26 +1081,24 @@ Me gusta como explicas...
 	    
 	```
 
-* **Christian Gómez** (2)
+* **Christian Gómez** (2) [873833](https://platzi.com/comentario/873833/) 
 
-	
 	**Las fases de Creación de un programa son:** \- Analisis \- Diseño \- Programación \- Codificación \- Prueba \- Mantenimiento \- Documentación
 
-* **Jhon Alexander Romero Gonzaga** (2)
-![](https://i.ibb.co/Jp42kwX/Screenshot-from-2019-12-14-14-33-44.png)
-
-* **Oskarmartinez** (2)
-
+* **Jhon Alexander Romero Gonzaga** (2) [864735](https://platzi.com/comentario/864735/) 
 	
+	![](https://i.ibb.co/Jp42kwX/Screenshot-from-2019-12-14-14-33-44.png)
+
+* **Oskarmartinez** (2) [839798](https://platzi.com/comentario/839798/) 
+
 	pueden utilizar [Repl.it](http://Repl.it) es online
 
-* **Oskarmartinez** (2)
+* **Oskarmartinez** (2) [821206](https://platzi.com/comentario/821206/) 
 
-	
 	[Repl.it](http://Repl.it) hay podemos programar, es online solo hay que codirar y listos,  
 	prueben y nos cuentan
 
-* **Juan Manuel Otero Rey** (2)
+* **Juan Manuel Otero Rey** (2) [731926](https://platzi.com/comentario/731926/) 
 
 	```
 	    #include<stdio.h>
@@ -1294,7 +1118,7 @@ Me gusta como explicas...
 	    
 	```
 
-* **akivosimcho** (2)
+* **akivosimcho** (2) [684326](https://platzi.com/comentario/684326/) 
 
 	```
 	    #include<stdio.h>
@@ -1315,225 +1139,190 @@ Me gusta como explicas...
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [673688](https://platzi.com/comentario/673688/) 
 
-	
 	**Muy buena clase, vamos a la siguiente:**  
 	![Screen Shot 2019-08-02 at 10.18.30 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-02%20at%2010.18.30%20AM-d98f9e23-ea53-4069-8ef9-3f596f233087.jpg)
 
-* **BitCharly** (2)
+* **BitCharly** (2) [572901](https://platzi.com/comentario/572901/) 
 
-	
 	Tipos de datos de C:
 	
-	  * Caracteres:  
+	* Caracteres:  
 	Char => 1 byte se usa para cualquier caracter del teclado
 	
-	  * Enteros:  
+	* Enteros:  
 	short => 2 bytes -32,768 to 32,767  
 	int => 4 bytes 2,147,483,648 to 2,147,483,647  
 	long => 8 bytes -9223372036854775808 to 9223372036854775807  
 	NOTA: Cada uno tendra su diferencia dependiendo del sistema operativo
 	
-	  * Decimales:  
+	* Decimales:  
 	float => 4 bytes Es preciso hasta el 6to decimal  
 	double => 8 bytes ES preciso hasta el 15to decimal
 	
 	
 	
 
-* **YajairaDiaz** (2)
+* **YajairaDiaz** (2) [524382](https://platzi.com/comentario/524382/) 
 
-	
 	Pienso que si eres principiante en esto, debes de coger este primero antes de coger programacion basica.
 
-* **Kerohuixco** (2)
-![](https://i.ibb.co/yB84DdR/Asignaci-n-de-memoria.png)
-
-* **Andres Cendales** (2)
-
+* **Kerohuixco** (2) [503903](https://platzi.com/comentario/503903/) 
 	
+	![](https://i.ibb.co/yB84DdR/Asignaci-n-de-memoria.png)
+
+* **Andres Cendales** (2) [477620](https://platzi.com/comentario/477620/) 
+
 	El orden de los cursos esta erroneo. Este me aparece como el primero
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (2)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [477620] (2)
 
-		
 		El orden de los cursos puede variar mucho dependiendo de tus objetivos. Así como pueden haber personas que aprendan de cero, existen personas que tomarán un curso específico en base a lo que ya saben.
 		
 		Si aún no tienes claro tu camino a seguir, escríbeme a [team@platzi.com](mailto:team@platzi.com) y te ayudo con tu ruta de aprendizaje 😉
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1114402](https://platzi.com/comentario/1114402/) 
 
-	
 	Buenisimo!!! Excelente profesora
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1101679](https://platzi.com/comentario/1101679/) 
 
-	
 	excelente explicacion al comienzo me salio un error pero era porque no habia seleccionado la carpeta para guardar
 	
 	![variables.PNG](https://static.platzi.com/media/user_upload/variables-99529283-ac34-4f70-b1d2-14ed3fb91828.jpg)
 
-* **LuisMiguel0098** (1)
+* **LuisMiguel0098** (1) [1066959](https://platzi.com/comentario/1066959/) 
 
-	
 	Por cierto se llaman bibliotecas no librerías. En ingles biblioteca es library. Es un error común confundir esto.
 
-	* **Engel_1010** (4)
+	* **Engel_1010** [1066959] (4)
 
-		
 		Yes, It’s true: Library ≠ Book Store. One “Librería” in spanish is the same that one book store in english, so Book Store (English) = Libreria (spanish). And a Library = Biblioteca en español.
 
-* **LuisMiguel0098** (1)
+* **LuisMiguel0098** (1) [1066616](https://platzi.com/comentario/1066616/) 
 
-	
 	Esto es importante, tomen nota. Yo estudio Ciencias de la Computación y el diseño de programas de software siempre lo preguntaban.
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1060396](https://platzi.com/comentario/1060396/) 
 
-	
 	Qué buena explicación de las bases!
 	
 	Creo que también podemos utilizar [**Dev C++**](https://sourceforge.net/projects/orwelldevcpp/)
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [1044029](https://platzi.com/comentario/1044029/) 
 
-	
 	Excelente expliación
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1034877](https://platzi.com/comentario/1034877/) 
 
-	
 	Esta súper genial!! Gracias!
 	
 	![tipos de datos.PNG](https://static.platzi.com/media/user_upload/tipos%20de%20datos-82f097cf-5c3d-4f79-baf1-5e714a99aa79.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1020632](https://platzi.com/comentario/1020632/) 
 
-	
 	_Para agregar la librería: _ **#include <stdbool.h>**
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1020599](https://platzi.com/comentario/1020599/) 
 
-	
 	Para sacar una sola ’ comilla en el teclado **Alt+39**
 
-	* **Stiven Jimenez Quintero** (1)
+	* **Stiven Jimenez Quintero** [1020599] (1)
 
-		
 		en mi teclado esta al lado derecho de la tecla 0 "cero " ’ ’
 
-* **BrysonFlorez** (1)
+* **BrysonFlorez** (1) [971323](https://platzi.com/comentario/971323/) 
 
-	
 	Cuando creo el proyecto e intento ingresar al archivo, me dice que no existe. A alguien más le ha pasado??
 
-	* **Leisy Karina Algarra Fernandez** (1)
+	* **Leisy Karina Algarra Fernandez** [971323] (1)
 
-		
 		Debes indicarle la ruta, donde quedará alojado el proyecto.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [971323] (1)
 
-		
 		¡Hola, Bryson!  
 		Puede ser que no estes especificando correctamente las rutas. Revisa aquel detalle y nos cuentas.
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [917690](https://platzi.com/comentario/917690/) 
 
-	
 	Declarar != Inicializar pues al declarar no se da valor inicial mientras que al inicializar se crea la variable y se da valor inicial.
 	
 	**=** Se refiere a la asignación de un dato
 
-* **may-ale-moral** (1)
+* **may-ale-moral** (1) [901656](https://platzi.com/comentario/901656/) 
 
-	
 	Me gusta mucho esta clase, es practica, asi que puedes aprender mas!!
 
-* **Luis Tapia** (1)
+* **Luis Tapia** (1) [849392](https://platzi.com/comentario/849392/) 
 
-	
 	El float se marca en azul porque no podemos usar palabras reservadas para nombrar variables.
 	
 	Las palabras reservadas son identificadores reservados predefinidos que tienen un significado especial y no se pueden utilizar como identificadores.
 
-* **Oskarmartinez** (1)
+* **Oskarmartinez** (1) [839813](https://platzi.com/comentario/839813/) 
 
-	
 	lo que veo es que el codigo hay que escribirlo en un orden especifico y lo primero es definir variables y su valor, luego en la siguiente clase veremos como escribir codigo para mostrarlas en pantalla
 
-* **Oskarmartinez** (1)
+* **Oskarmartinez** (1) [839806](https://platzi.com/comentario/839806/) 
 
-	
 	hay que tener precente las parlabras reservadas del lenguaje, como float etc…
 
-* **Cristian Andrés Córdova Valencia** (1)
+* **Cristian Andrés Córdova Valencia** (1) [838603](https://platzi.com/comentario/838603/) 
 
-	
 	1.5x de velocidad para esta clase esta bien. Por si les es útil 😃
 
-* **Oskarmartinez** (1)
+* **Oskarmartinez** (1) [821208](https://platzi.com/comentario/821208/) 
 
-	
 	el curso esta en lenguaje C?  
 	si?
 
-	* **durbonca** (1)
+	* **durbonca** [821208] (1)
 
-		
 		c++ al parecer… esta mina trabaja en empresa de juego que programan con c++
 
-	* **laj-lukum** (2)
+	* **laj-lukum** [821208] (2)
 
-		
 		Cuando habriamos por primera ez CodeBolck y llegamos a la opcion de console and Please make a selection: C, C++ y escogimos C, entonces asumo que estaremos trabajando en C
 
-	* **durbonca** (1)
+	* **durbonca** [821208] (1)
 ![](https://getcopypower.com/wp-content/uploads/2017/09/captain-obvious.jpg)
 
-* **zeqelandia** (1)
+* **zeqelandia** (1) [820269](https://platzi.com/comentario/820269/) 
 
-	
 	Medio complicada la instalación de este IDE, a futuro sería interesante ver una alternativa más simple para los principiantes
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [820269] (3)
 
-		
 		Si usas Windows puedes usar VSCode: <https://platzi.com/tutoriales/1189-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/>.
 
-	* **zeqelandia** (2)
+	* **zeqelandia** [820269] (2)
 
-		
 		Muchas gracias amigo, ahora me funciona
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [820269] (1)
 
-		
 		¡Hola! 😄  
 		Para este curso usé <https://www.onlinegdb.com/online_c_compiler>  
 		me funcionó muy bien, podrías probarlo.
 
-* **predator0077** (1)
+* **predator0077** (1) [807466](https://platzi.com/comentario/807466/) 
 
-	
 	Muy buena esta clase a seguir aprendiendo
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [806796](https://platzi.com/comentario/806796/) 
 
-	
 	bool happy = false;
 	
 	:’(
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [806774](https://platzi.com/comentario/806774/) 
 
-	
 	Happy=false
 
-* **Manea luca cristian** (1)
+* **Manea luca cristian** (1) [754316](https://platzi.com/comentario/754316/) 
 
-	
 	int main()  
 	{  
 	const k = 273;  
@@ -1543,19 +1332,16 @@ Me gusta como explicas...
 	printf(“la temperatura en Kelvin es : %i”, k + t);  
 	}
 
-* **Martinez Palacios** (1)
+* **Martinez Palacios** (1) [738102](https://platzi.com/comentario/738102/) 
 
-	
 	Mi lenguaje favorito, espero aprender m{as en este curso
 
-* **Juan Carlos Frausto Arias** (1)
+* **Juan Carlos Frausto Arias** (1) [695422](https://platzi.com/comentario/695422/) 
 
-	
 	muy sencillo, ya me hacia falta programar un poco
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [680330](https://platzi.com/comentario/680330/) 
 
-	
 	mision cumplida
 	
 	#include <stdio.h>  
@@ -1575,14 +1361,12 @@ Me gusta como explicas...
 	
 	}
 
-* **Sara Galván Ortega** (1)
+* **Sara Galván Ortega** (1) [605860](https://platzi.com/comentario/605860/) 
 
-	
 	Casi no se escucha la voz de la profe! 😦
 
-	* **Manuel Pacheco Rueda** (4)
+	* **Manuel Pacheco Rueda** [605860] (4)
 
-		
 		Hola Sara, si tienes Windows no sé si sepas este truco que quizás te funcione para ese problema que se te presenta con el audio de las voces. Lo primero que debes hacer es buscar el **administrador de sonido** que generalmente está escondido en la flecha que indica la primera imagen, le das click derecho y seleccionas la opción **Administrador de sonido**.
 		
 		![Volumen1.PNG](https://static.platzi.com/media/user_upload/Volumen1-b97337ab-0469-4c8a-b1a0-2b10d410453b.jpg)
@@ -1591,9 +1375,8 @@ Me gusta como explicas...
 		
 		![Volumen.PNG](https://static.platzi.com/media/user_upload/Volumen-c5e666f0-0c42-48a3-89a9-3dce33e4a9cb.jpg)
 
-* **GuillermoViscoPonticelli** (1)
+* **GuillermoViscoPonticelli** (1) [597734](https://platzi.com/comentario/597734/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -1625,112 +1408,98 @@ Me gusta como explicas...
 	
 	}
 
-* **Luisgomezdeveloper** (1)
+* **Luisgomezdeveloper** (1) [590544](https://platzi.com/comentario/590544/) 
 
-	
 	Nota: Los tipos de dato booleano en C no vienen por defecto utilizan una libreria que debemos importar.
 
-	* **gonzoblasco** (1)
+	* **gonzoblasco** [590544] (1)
 
-		
 		cuál es la librería en cuestión? (justo noté esto al escribir el código en Visual Studio Code)
 
-	* **gonzoblasco** (1)
+	* **gonzoblasco** [590544] (1)
 
-		
 		bastaba con mirar un poquito más…  
 		#include <stdbool.h>
 
-* **David Camilo Latorre Monroy (Platzi)** (1)
+* **David Camilo Latorre Monroy (Platzi)** (1) [568684](https://platzi.com/comentario/568684/) 
 
-	
 	Es buena idea aprender a trabajar en C sin depender de una herramienta más allá del compilador, simplifica mucho las cosas y ahorra los típicos “A mí no me funciona”, en lo personal mi combinación es Vim o Emacs (Si ando de perezas uso visual studio code) y compilo por terminal con el siguiente comando gcc -g -Wall -Werror -pedantic <codigo de origen> -o <nombre que quiero ponerle> \--debug
 	
 	Ojo, esto solo aplica para sistemas GNU/Linux, creo que OSx también pero no aseguro nada.
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [557060](https://platzi.com/comentario/557060/) 
 
-	
 	Las librerías que se usan en C++ también sirven para C?
 
-	* **Danelia Sanchez Sanchez** (3)
+	* **Danelia Sanchez Sanchez** [557060] (3)
 
-		
 		Creo que en ese sentido no, pero las librerías de C si se pueden utilizar en C++ así que puedes compilar un programa en C en C++ ya que existe esa compatibilidad hasta donde sé.
 
-* **maadpeal** (1)
+* **maadpeal** (1) [532920](https://platzi.com/comentario/532920/) 
 
-	
 	Esta genial este curso por que nos ayuda a comprender mejor los demas lenguajes. y con calma
 
-* **henrytabimagiraldo** (1)
+* **henrytabimagiraldo** (1) [513623](https://platzi.com/comentario/513623/) 
 
-	
 	si bien aquí se coloca el comentario para recordar la importancia de los mismos, estos comentarios no deberían explicar tu código (el mismo código debería hacerlo en la medida de lo posible). Más bien deberían aclarar situaciones en que el podrían ser ambiguas o no quedar muy claras. aunque muchas de estas situaciones se pueden solucionar con buenas prácticas.
 
-* **rrbyte** (1)
+* **rrbyte** (1) [495739](https://platzi.com/comentario/495739/) 
 
-	
 	![](![tipos de datos.jpg](https://static.platzi.com/media/user_upload/tipos%20de%20datos-07dd9f31-b90b-46f4-b325-27c91d1ba044.jpg)
 
-* **rrbyte** (1)
+* **rrbyte** (1) [495726](https://platzi.com/comentario/495726/) 
 
-	
 	Un dato adicional y es un poco más avanzado.
 	
 	Depende del tipo de dato consume más espacio en memoria.
 
-* **Jaime Andrés Ballena Olaya** (1)
+* **Jaime Andrés Ballena Olaya** (1) [488238](https://platzi.com/comentario/488238/) 
 Este curso esta muy bueno
 
-* **federico-castresana** (1)
+* **federico-castresana** (1) [86989](https://platzi.com/comentario/1109997/) 
 Al querer hacer un nuevo proyecto no me permite. tira un Environment error: cant find compiler excutable in your configured search path f...
 
-* **federico-castresana** (1)
+* **federico-castresana** (1) [86986](https://platzi.com/comentario/1109905/) 
 Buenas, por que puede ser que no compile codeblock? cuando le doy correr me dice que el archivo no fue buildeado aun pero tampoco me lo d...
 
-* **Fabio Leonardo Fuentes Melendez** (1)
+* **Fabio Leonardo Fuentes Melendez** (1) [82360](https://platzi.com/comentario/1003815/) 
 Buenas tardes, ¿Los operadores de asignación de un valor pueden ser: =, >, <, !!, entre otros?
 
-	* **Limber Maldonado Casillo** (1)
+	* **Limber Maldonado Casillo** [82360] (1)
 
-		
 		El operador de asignación es solamente : =  
 		Los operadores como >,< son comparadores.
 
-* **alexanderguamancruz** (1)
+* **alexanderguamancruz** (1) [81853](https://platzi.com/comentario/991354/) 
 -Edit startup script’ SpellChecker: Thesaurus files ‘C:\Program Files (x86)\CodeBlocks/share/codeblocks\SpellChecker\th_en_US.idx’ not fo...
 
-* **alexanderguamancruz** (1)
+* **alexanderguamancruz** (1) [81852](https://platzi.com/comentario/991350/) 
 Script plugin registered: Find Broken Files plugin Script/function ‘edit_startup_script.script’ registered under menu '&Settings/-Edi...
 
-* **alexanderguamancruz** (1)
+* **alexanderguamancruz** (1) [81851](https://platzi.com/comentario/991345/) 
 buenas noches, instale el programa de Code::Blocks, pero cuando voy a realizar esta clas, me sale este mensaje y no puedo seguir avanzand...
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [80749](https://platzi.com/comentario/966144/) 
 Hola Cuando pusiste IntegerA para darle nombre a la variable fue por solo darle un nombre? es decir se pudo haber llamado IntegA o con cu...
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [80749] (1)
 
-		
 		Hola Juan,  
 		tienes razón, puedes asignar otro nombre distinto a las variables, es similar al caso de dar un nombre a una variable en álgebra, solo recuerda que existen restricciones en cuanto al nombramiento de variables(ej. no pueden tener un nombre que sea una palabra reservada del lenguaje como **return** ), un saludo.
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [80747](https://platzi.com/comentario/966094/) 
 hola estoy en mac ya instale e lCodeBlocks ya estoy iniciando el ejercicio de MiPrimeraVariable sin embargo no encuentro esta parte en el...
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [80747] (1)
 
-		
 		Buenas Juan,  
 		imagino que el fichero main.c es el que te crea ICodeBlocks para la creación del código.
 
-* **andresargote** (1)
+* **andresargote** (1) [79448](https://platzi.com/comentario/940431/) 
 Hola, soy nuevo con C y tengo Mac, estoy utilizando vs code, pero cuando agrego las librerias y compilo no me dice que char no esta defin...
 
-	* **AnthonySQC** (3)
+	* **AnthonySQC** [79448] (3)
 
-		
 		Hola andres,  
 		he probado usando este código y funciona:
 		``` 
@@ -1752,34 +1521,33 @@ Hola, soy nuevo con C y tengo Mac, estoy utilizando vs code, pero cuando agrego 
 		
 		Fíjate que en C las variables char se asignan con solo 1 letra y se pone entre estas comillas ’ ', lo que tu has usado es una cadena “E” lo cual C toma como un puntero.
 
-* **José Francisco Cruz Camacho** (1)
+* **José Francisco Cruz Camacho** (1) [71784](https://platzi.com/comentario/803676/) 
 Para todo el curso ¿puedo utilizar atom, después compilar y correr el código con la terminal? por que en mi compu no funciona bien codebl...
 
-	* **Kevin Javier Morales (Platzi)** (2)
+	* **Kevin Javier Morales (Platzi)** [71784] (2)
 
-		
 		Sí, puedes usarlo
 
-## 0040. Entrada y salida de datos
+## 0040. Entrada y salida de datos [16466](https://platzi.com/clases/1450-programacion-estructurada/16466-entrada-y-salida-de-datos8049/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Bastian Besoain** (2)
+* **Bastian Besoain** (2) [1107290](https://platzi.com/comentario/1107290/) 
 
-	
 	Para los que les imprima directamente el %c y no les pregunte por el caracter deben escribir:  
 	" %c"  
 	Con un espacio antes del %.  
 	¿Por qué?  
 	Ni idea, pero funciona jajaja.
 
-* **JobForero** (2)
-![Screenshot_4.png](https://static.platzi.com/media/user_upload/Screenshot_4-c19549fd-df40-4ce8-a8f1-9d08b07cede6.jpg)
+* **JobForero** (2) [1075177](https://platzi.com/comentario/1075177/) 
+	
+	![Screenshot_4.png](https://static.platzi.com/media/user_upload/Screenshot_4-c19549fd-df40-4ce8-a8f1-9d08b07cede6.jpg)
 
-* **kalegria** (2)
+* **kalegria** (2) [1060976](https://platzi.com/comentario/1060976/) 
 
 	```
 	    #include<stdio.h>
@@ -1803,27 +1571,26 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (2)
+* **David Alejandro Mosquera Moreno** (2) [1060749](https://platzi.com/comentario/1060749/) 
 
-	
 	![](![CodigoC.png](https://static.platzi.com/media/user_upload/CodigoC-cc91e231-cc69-4554-95dc-d4aa6a2f6a49.jpg)
 
-* **LauraMoya15** (2)
-![reto1.PNG](https://static.platzi.com/media/user_upload/reto1-20b019f8-c221-4f9d-9ab9-2339c2b3ba0d.jpg)
-
-* **paola-diaz361** (2)
-![retoi.PNG](https://static.platzi.com/media/user_upload/retoi-36e01029-e0e1-4b4a-ab0d-d49f2732510e.jpg)
-
-* **Jesus Velez Flores** (2)
-
+* **LauraMoya15** (2) [1059815](https://platzi.com/comentario/1059815/) 
 	
+	![reto1.PNG](https://static.platzi.com/media/user_upload/reto1-20b019f8-c221-4f9d-9ab9-2339c2b3ba0d.jpg)
+
+* **paola-diaz361** (2) [1038545](https://platzi.com/comentario/1038545/) 
+	
+	![retoi.PNG](https://static.platzi.com/media/user_upload/retoi-36e01029-e0e1-4b4a-ab0d-d49f2732510e.jpg)
+
+* **Jesus Velez Flores** (2) [1028696](https://platzi.com/comentario/1028696/) 
+
 	Reto cumplido!
 	
 	![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-ba426f3f-9060-4c34-8174-ff870b0739e5.jpg)
 
-* **Ricardo Andres Rojas Alonso** (2)
+* **Ricardo Andres Rojas Alonso** (2) [1021418](https://platzi.com/comentario/1021418/) 
 
-	
 	Que genial se siente uno haciendo estos retos, bueno en realidad es el primero de este curso pero fue genial jajajajaja dejo por acá el código del reto n°1…
 	``` 
 	    #include<stdio.h>
@@ -1856,14 +1623,12 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	Process returned 0 (0x0) execution time : 5.983 s  
 	Press any key to continue.```
 
-* **vivisoto** (2)
+* **vivisoto** (2) [989054](https://platzi.com/comentario/989054/) 
 
-	
 	reto 😃![2020-02-16 19_41_00-main.c \[reto\] - Code__Blocks 17.12.png](https://static.platzi.com/media/user_upload/2020-02-16%2019_41_00-main.c%20%5Breto%5D%20-%20Code__Blocks%2017.12-66d5c776-4568-464d-8e76-ebd9cb375531.jpg)
 
-* **andresargote** (2)
+* **andresargote** (2) [946294](https://platzi.com/comentario/946294/) 
 
-	
 	RETO CUMPLIDO!!  
 	Creo que la profesora debería de explicar mejor los ejercicios, por ejemplo ella dijo dale dos valores a X y a Y pero no dijo pidele los valores al usuario y la mayoría de la personas hicieron un scanf otra cosa, dice usa una variable auxiliar(ni la use, no entendi para que utilizarla) pero este programa requeria mas de una variable auxiliar, para hacer los cambios de los valores, realmente se pudo hacer dos variable e invertir los valores directamente en el printf osea enteroX meterlo en "el resultado de y es: ", enteroX.
 	
@@ -1902,10 +1667,11 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **Wilson Delgado** (2)
-![challenge.jpg](https://static.platzi.com/media/user_upload/challenge-90680eec-877d-4043-803b-1dba31dad463.jpg)
+* **Wilson Delgado** (2) [933168](https://platzi.com/comentario/933168/) 
+	
+	![challenge.jpg](https://static.platzi.com/media/user_upload/challenge-90680eec-877d-4043-803b-1dba31dad463.jpg)
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1114889](https://platzi.com/comentario/1114889/) 
 
 	```
 	    #include<stdio.h>
@@ -1938,9 +1704,8 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **Andres Antonio Santisteban Lino** (1)
+* **Andres Antonio Santisteban Lino** (1) [1113834](https://platzi.com/comentario/1113834/) 
 
-	
 	Este es mi codigo:
 	
 	#include <stdio.h>  
@@ -1966,24 +1731,23 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	return 0;  
 	}
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 01-53-55.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-53-55-c1c5311b-e101-4fdd-8291-73162cc4ff7c.jpg)
-
-* **Cristhian Alexis Vera Sandoval** (1)
-
+* **Angie Garcia** (1) [1113444](https://platzi.com/comentario/1113444/) 
 	
+	![Captura de pantalla de 2020-04-09 01-53-55.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-53-55-c1c5311b-e101-4fdd-8291-73162cc4ff7c.jpg)
+
+* **Cristhian Alexis Vera Sandoval** (1) [1106170](https://platzi.com/comentario/1106170/) 
+
 	Logrado profesora
 	
 	![Captura de pantalla_2020-04-07_13-43-29.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla_2020-04-07_13-43-29-c61b9bf7-154f-4404-a944-f3f944e54917.jpg)
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1103031](https://platzi.com/comentario/1103031/) 
 
-	
 	intente hacerlo intercambiando palabras pero solo me pide la primera y lo imprime
 	
 	![RETO 1.PNG](https://static.platzi.com/media/user_upload/RETO%201-12bdd09a-c83e-4c91-b065-9202bf1622ff.jpg)
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1093571](https://platzi.com/comentario/1093571/) 
 
 	```
 	    #include <stdio.h>
@@ -2012,38 +1776,37 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **Ernesto Lázaro Guerrero** (1)
+* **Ernesto Lázaro Guerrero** (1) [1087523](https://platzi.com/comentario/1087523/) 
 
-	
 	Primer reto
 	
 	![Captura de Pantalla 2020-04-01 a la\(s\) 19.02.55.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.02.55-c4cfdeb2-3e47-4a95-84a6-93cda9cff6f0.jpg)
 
-	* **Stiven Jimenez Quintero** (1)
+	* **Stiven Jimenez Quintero** [1087523] (1)
 
-		
 		Revisa bien el reto. debes intercambiar los variable con una variable extra
 
-* **wilmarpanche** (1)
-![reto1.png](https://static.platzi.com/media/user_upload/reto1-1222950b-f4da-473d-9a04-cc21a9aa2fe0.jpg)
+* **wilmarpanche** (1) [1085719](https://platzi.com/comentario/1085719/) 
+	
+	![reto1.png](https://static.platzi.com/media/user_upload/reto1-1222950b-f4da-473d-9a04-cc21a9aa2fe0.jpg)
 
-	* **Stiven Jimenez Quintero** (1)
+	* **Stiven Jimenez Quintero** [1085719] (1)
 
-		
 		revisa bien el reto. debes usar una variable extra para intercambiar los valores.
 
-* **Edison Renato Valdez Vega** (1)
-![c++1.png](https://static.platzi.com/media/user_upload/c%2B%2B1-6172f219-ab4b-4bbd-afba-ea7c18e5720c.jpg)
-
-* **Viviana Vásquez Junco** (1)
-![Captura de Pantalla 2020-03-28 a la\(s\) 15.07.57.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-28%20a%20la%28s%29%2015.07.57-d9662275-56fd-4104-904f-2e3b7548dd00.jpg)
-
-* **santi-cardoso** (1)
-
+* **Edison Renato Valdez Vega** (1) [1076761](https://platzi.com/comentario/1076761/) 
 	
+	![c++1.png](https://static.platzi.com/media/user_upload/c%2B%2B1-6172f219-ab4b-4bbd-afba-ea7c18e5720c.jpg)
+
+* **Viviana Vásquez Junco** (1) [1073558](https://platzi.com/comentario/1073558/) 
+	
+	![Captura de Pantalla 2020-03-28 a la\(s\) 15.07.57.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-28%20a%20la%28s%29%2015.07.57-d9662275-56fd-4104-904f-2e3b7548dd00.jpg)
+
+* **santi-cardoso** (1) [1066356](https://platzi.com/comentario/1066356/) 
+
 	Que bien explica esta profe, muy claro y ademas me genera mucha paz
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1061863](https://platzi.com/comentario/1061863/) 
 
 	```
 	    #include<stdio.h>
@@ -2075,10 +1838,11 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **ieesus** (1)
-![practica de clase.png](https://static.platzi.com/media/user_upload/practica%20de%20clase-964f4768-3b0d-4b5e-9fb2-3fe87ae0baf4.jpg)
+* **ieesus** (1) [1059895](https://platzi.com/comentario/1059895/) 
+	
+	![practica de clase.png](https://static.platzi.com/media/user_upload/practica%20de%20clase-964f4768-3b0d-4b5e-9fb2-3fe87ae0baf4.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1059449](https://platzi.com/comentario/1059449/) 
 
 	```
 	    // Reto
@@ -2099,12 +1863,13 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **Juan Carlos García Flores** (1)
-![Ejercicio_cambia_valor_a_por_c.JPG](https://static.platzi.com/media/user_upload/Ejercicio_cambia_valor_a_por_c-7fb996b8-f641-418c-86b1-17764a0e1f67.jpg)
+* **Juan Carlos García Flores** (1) [1056999](https://platzi.com/comentario/1056999/) 
+	
+	![Ejercicio_cambia_valor_a_por_c.JPG](https://static.platzi.com/media/user_upload/Ejercicio_cambia_valor_a_por_c-7fb996b8-f641-418c-86b1-17764a0e1f67.jpg)
 	
 	Listo
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1056201](https://platzi.com/comentario/1056201/) 
 
 	```
 	    #inlcude <stdio.h>
@@ -2132,19 +1897,18 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	```
 	
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto 1.PNG](https://static.platzi.com/media/user_upload/Reto%201-edfbfab9-8698-4cc1-b8b1-7713657aabf1.jpg)
-
-* **orianasuljeisposadamolina** (1)
-
+* **Sergio Alejandro Alvarado Parada** (1) [1055219](https://platzi.com/comentario/1055219/) 
 	
+	![Reto 1.PNG](https://static.platzi.com/media/user_upload/Reto%201-edfbfab9-8698-4cc1-b8b1-7713657aabf1.jpg)
+
+* **orianasuljeisposadamolina** (1) [1051382](https://platzi.com/comentario/1051382/) 
+
 	reto 1:
 	
 	![](![reto 1.png](https://static.platzi.com/media/user_upload/reto%201-a0d450f5-c936-4a7c-aa46-b5ea94e8ce81.jpg)
 
-* **Willian Rojas** (1)
+* **Willian Rojas** (1) [1047313](https://platzi.com/comentario/1047313/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -2173,9 +1937,8 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	
 	}
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1046254](https://platzi.com/comentario/1046254/) 
 
-	
 	Primer reto, esta es mi solución:
 	``` 
 	    #include<stdio.h>
@@ -2206,29 +1969,29 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **Richard Acosta** (1)
-![Reto1 .jpg](https://static.platzi.com/media/user_upload/Reto1%20-6297d071-8ac8-4b34-8d30-053aac52205f.jpg)
-
-* **Alfonso Romero** (1)
-
+* **Richard Acosta** (1) [1044210](https://platzi.com/comentario/1044210/) 
 	
+	![Reto1 .jpg](https://static.platzi.com/media/user_upload/Reto1%20-6297d071-8ac8-4b34-8d30-053aac52205f.jpg)
+
+* **Alfonso Romero** (1) [1044103](https://platzi.com/comentario/1044103/) 
+
 	Con los ejemplos descritos son más claros los conceptos.
 
-* **Juan Alberto López López** (1)
+* **Juan Alberto López López** (1) [1043303](https://platzi.com/comentario/1043303/) 
 
-	
 	Listo  
 	![](https://i.ibb.co/DzD2bf4/input.png)
 
-* **paola-diaz361** (1)
-![ingresando variables por teclado.PNG](https://static.platzi.com/media/user_upload/ingresando%20variables%20por%20teclado-aba91b66-bd40-4ed5-9d03-64fa5216a183.jpg)
-
-* **paola-diaz361** (1)
-![imprimiendo variables.PNG](https://static.platzi.com/media/user_upload/imprimiendo%20variables-ba3c253e-c9e1-45ea-a6b8-71fcd08329ac.jpg)
-
-* **Ricardo Andres Rojas Alonso** (1)
-
+* **paola-diaz361** (1) [1038481](https://platzi.com/comentario/1038481/) 
 	
+	![ingresando variables por teclado.PNG](https://static.platzi.com/media/user_upload/ingresando%20variables%20por%20teclado-aba91b66-bd40-4ed5-9d03-64fa5216a183.jpg)
+
+* **paola-diaz361** (1) [1036524](https://platzi.com/comentario/1036524/) 
+	
+	![imprimiendo variables.PNG](https://static.platzi.com/media/user_upload/imprimiendo%20variables-ba3c253e-c9e1-45ea-a6b8-71fcd08329ac.jpg)
+
+* **Ricardo Andres Rojas Alonso** (1) [1021372](https://platzi.com/comentario/1021372/) 
+
 	El código de mi ejercicio, bastante chevere e interesante 😃
 	``` 
 	    #include<stdio.h>
@@ -2256,9 +2019,8 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1021327](https://platzi.com/comentario/1021327/) 
 
-	
 	Me quedó la pequeña intriga de porque en la variable double, cuando la estamos imprimiendo, no le colocamos el %d… yo quise saber qué pasaba si lo ponía así, y el resultado fue el código que dejo por acá abajo, cuando le pongo %d qué estoy llamando realmente?
 	``` 
 	    #include<stdio.h>
@@ -2292,47 +2054,40 @@ Para todo el curso ¿puedo utilizar atom, después compilar y correr el código 
 	Process returned 0 (0x0) execution time : 0.018 s  
 	Press any key to continue.```
 
-	* **Fabrizio López** (1)
+	* **Fabrizio López** [1021327] (1)
 Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puedes usar %d o %i indistintamente. Si quieres imprimir un double usa %lf.. para saber más, busca en Google la función printf.. allí conseguirás todas las maneras de dar formato a tu salida. Saludos!
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1021205](https://platzi.com/comentario/1021205/) 
 
-	
 	Barra invertida: alt+92 \
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1013989](https://platzi.com/comentario/1013989/) 
 
-	
 	De pronto podía haber hecho el reto de una manera más práctica, simple y cómoda. Espero mejorar pronto.  
 	![346546456.JPG](https://static.platzi.com/media/user_upload/346546456-6b541e55-85ad-49b8-892f-0a8aeacee138.jpg)
 
-	* **Aaron Gonzalez (Platzi)** (2)
+	* **Aaron Gonzalez (Platzi)** [1013989] (2)
 
-		
 		Es un muy buen inicio, Adriana 😄  
 		¡Felicidades!
 		
 		Ya con el tiempo encontrarás formas más efectivas de resolverlo 😄
 
-	* **Adriana Lucia Ardila Ramirez** (2)
+	* **Adriana Lucia Ardila Ramirez** [1013989] (2)
 
-		
 		Muchas gracias por tus palabras.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1013989] (1)
 
-		
 		De nada 😄  
 		Toda la comunidad siempre estará disponible para ayudarte en tu ruta de aprendizaje 😄
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1013802](https://platzi.com/comentario/1013802/) 
 
-	
 	Chicos, a mi me sale un error y no me procesa, alguien me puede ayudar? Porfa.![error2.JPG](https://static.platzi.com/media/user_upload/error2-546158ea-2cbe-45f5-a7c9-2492327bdda4.jpg)
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1013802] (1)
 
-		
 		¡Hola, Adriana! 😄  
 		Quizás el detalle esté en que al terminar el segundo `printf` y por eso te tira error. Yo usé este código y me funcionó 😄
 		``` 
@@ -2357,40 +2112,37 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 		
 		![Captura de Pantalla 2020-03-17 a la\(s\) 10.46.21.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-17%20a%20la%28s%29%2010.46.21-e704049f-d5f7-4a9a-b120-aa0b0b35aa90.jpg)
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-93abd646-2f45-4103-8bd7-691c75e1e55c.jpg)
+* **jhonsoccer11** (1) [1010107](https://platzi.com/comentario/1010107/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-93abd646-2f45-4103-8bd7-691c75e1e55c.jpg)
 	
 	Un saludo.
 
-* **MartinMB** (1)
+* **MartinMB** (1) [1009830](https://platzi.com/comentario/1009830/) 
 
-	
 	20 minutos para imprimir 4 variables
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1009830] (1)
 
-		
 		Siempre es necesario ver un paso a paso para tener todo el contexto claro 😄
 
-* **Henry Sanchez** (1)
-![intercambiado.PNG](https://static.platzi.com/media/user_upload/intercambiado-7b6db53d-7f47-4168-9cf4-7d23f8dde622.jpg)
-
-* **Divanatica** (1)
-
+* **Henry Sanchez** (1) [1005932](https://platzi.com/comentario/1005932/) 
 	
+	![intercambiado.PNG](https://static.platzi.com/media/user_upload/intercambiado-7b6db53d-7f47-4168-9cf4-7d23f8dde622.jpg)
+
+* **Divanatica** (1) [1005427](https://platzi.com/comentario/1005427/) 
+
 	Hola Platzeros! Les comparto mi respuesta al reto propuesto 😃
 	
 	![DivaUlloaReto1.png](https://static.platzi.com/media/user_upload/DivaUlloaReto1-9b092d5b-b038-4a8b-8769-fe97da9757f3.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1005406](https://platzi.com/comentario/1005406/) 
 
-	
 	Hola! Este es mi primer ejercicio 😃  
 	![DivaUlloaEjercicio1.png](https://static.platzi.com/media/user_upload/DivaUlloaEjercicio1-626e0aab-14c0-444a-95c9-4053f16e717e.jpg)
 
-* **jhavargashe** (1)
+* **jhavargashe** (1) [1002144](https://platzi.com/comentario/1002144/) 
 
-	
 	int x;  
 	int y;  
 	int h;
@@ -2411,9 +2163,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    printf("El entero y es: %i", y);
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1002069](https://platzi.com/comentario/1002069/) 
 
-	
 	Bueno, me funcionó así:
 	``` 
 	    #include<stdio.h>
@@ -2445,41 +2196,36 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	Un saludo.
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-a5a08e97-e80d-4d25-aeaa-0c65460ad8ed.jpg)
+* **Adriana del Pilar Martinez Bautista** (1) [1001545](https://platzi.com/comentario/1001545/) 
+	
+	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-a5a08e97-e80d-4d25-aeaa-0c65460ad8ed.jpg)
 
-	* **jhonsoccer11** (2)
+	* **jhonsoccer11** [1001545] (2)
 
-		
 		El ejercicio lo hiciste en UBUNTU ?
 
-	* **Adriana del Pilar Martinez Bautista** (1)
+	* **Adriana del Pilar Martinez Bautista** [1001545] (1)
 
-		
 		Se señor, utilice VCode y lo ejecute por medio de Ubuntu.
 
-	* **AlexanderM** (2)
+	* **AlexanderM** [1001545] (2)
 
-		
 		Hola, como lo ejecutaste por medio de ubuntu? también estoy utilizando vcode pero no logro que me corra como en el ejemplo.
 
-	* **Adriana del Pilar Martinez Bautista** (1)
+	* **Adriana del Pilar Martinez Bautista** [1001545] (1)
 
-		
 		Hola @AlexanderM, que te sale ?
 
-	* **AlexanderM** (1)
+	* **AlexanderM** [1001545] (1)
 
-		
 		Hola pilar, termine usando el que nos recomiendan en el curso, con visual code la instalación y las extensiones bien , pero no sabia como manejarlo para el desarrollo de la clase.
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1000172](https://platzi.com/comentario/1000172/) 
 
-	
 	me perecen ambas variables pero al momento de intercambiarlas sale  
 	&i
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [999840](https://platzi.com/comentario/999840/) 
 
 	```
 	    #include<stdio.h>
@@ -2506,9 +2252,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Eliana Cuellar** (1)
+* **Eliana Cuellar** (1) [999820](https://platzi.com/comentario/999820/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>
@@ -2533,7 +2278,7 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [999584](https://platzi.com/comentario/999584/) 
 
 	```
 	    <#include <stdio.h>
@@ -2563,7 +2308,7 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [998678](https://platzi.com/comentario/998678/) 
 
 	```
 	    int enteroX;
@@ -2585,7 +2330,7 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Ulix** (1)
+* **Ulix** (1) [998537](https://platzi.com/comentario/998537/) 
 
 	```
 	    {
@@ -2611,9 +2356,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Jaime Sabogal Sanchez** (1)
+* **Jaime Sabogal Sanchez** (1) [998176](https://platzi.com/comentario/998176/) 
 
-	
 	Reto logrado  
 	//make the challenge  
 	int X ;  
@@ -2634,9 +2378,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    return 0;
 	```
 
-* **alan valencia** (1)
+* **alan valencia** (1) [998062](https://platzi.com/comentario/998062/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>  
@@ -2661,21 +2404,18 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [997900](https://platzi.com/comentario/997900/) 
 
-	
 	Me gusta mucho la idea de los retos, está ha sido de las mejores clses que he tomado.
 
-* **Jaime Sabogal Sanchez** (1)
+* **Jaime Sabogal Sanchez** (1) [996124](https://platzi.com/comentario/996124/) 
 
-	
 	Excelente explicación.
 	
 	Muchas gracias profe Daniela. ❤️
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [994277](https://platzi.com/comentario/994277/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -2702,15 +2442,13 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [991023](https://platzi.com/comentario/991023/) 
 
-	
 	![](![valores.png](https://static.platzi.com/media/user_upload/valores-ca97c4b6-876b-4220-bbaa-17eb7f799642.jpg)  
 	listo! después de mil años .
 
-* **Mirna Mabel Veras Carvajal** (1)
+* **Mirna Mabel Veras Carvajal** (1) [990889](https://platzi.com/comentario/990889/) 
 
-	
 	Aquí el reto:
 	``` 
 	    #include <stdio.h>
@@ -2740,9 +2478,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Edison_Avila** (1)
+* **Edison_Avila** (1) [987828](https://platzi.com/comentario/987828/) 
 
-	
 	Reto cumplido, mi único inconveniente fue que al iniciar las variables como double en el momento de leer el valor del usuario no se utiliza %f si no %lf
 	``` 
 	    #include"stdio.h"
@@ -2770,14 +2507,12 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [986882](https://platzi.com/comentario/986882/) 
 
-	
 	Reto Cumplido Me Queda Claro El Tema Gracias!![Captura de pantalla 2020-02-15 11:28:27.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-15%2011%3A28%3A27-e006dc98-1246-4eb5-b0ad-9e131b00fa0f.jpg)
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [984698](https://platzi.com/comentario/984698/) 
 
-	
 	RETO COMPLETADO 😃
 	``` 
 	    #include <stdio.h>
@@ -2803,9 +2538,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Jesus David Zaraza Toro** (1)
+* **Jesus David Zaraza Toro** (1) [984521](https://platzi.com/comentario/984521/) 
 
-	
 	function intercambiar (x,y){
 	
 	var z;
@@ -2818,9 +2552,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	console.log("El valor de y es: " +y);  
 	}
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [984479](https://platzi.com/comentario/984479/) 
 
-	
 	Reto realizado
 	``` 
 	    #include<stdio.h>
@@ -2854,16 +2587,14 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **wilmaryoanmalavermalaver** (1)
+* **wilmaryoanmalavermalaver** (1) [981557](https://platzi.com/comentario/981557/) 
 
-	
 	Reto hecho.
 	
 	![Captura de pantalla 2020-02-12 13.20.05.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-12%2013.20.05-8e415465-35a8-41ec-9a17-9b7cf4da6365.jpg)
 
-* **Pedro Alejandro Silva Perez** (1)
+* **Pedro Alejandro Silva Perez** (1) [981124](https://platzi.com/comentario/981124/) 
 
-	
 	#include <stdio.h>  
 	#include <stdbool.h>  
 	#include <stdlib.h>
@@ -2897,9 +2628,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [980885](https://platzi.com/comentario/980885/) 
 
-	
 	Reto cumplido
 	``` 
 	    <code>
@@ -2929,9 +2659,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [980722](https://platzi.com/comentario/980722/) 
 
-	
 	**mi código. Muy buena la clase  
 	**
 	``` 
@@ -2961,9 +2690,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979154](https://platzi.com/comentario/979154/) 
 
-	
 	El reto:
 	``` 
 	    #include<stdio.h>
@@ -2994,12 +2722,12 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **MarianaGb** (1)
-![practica1.png](https://static.platzi.com/media/user_upload/practica1-49b7df77-e9ac-40fb-a9ef-0d01b5b0e1bb.jpg)
-
-* **boristrochez** (1)
-
+* **MarianaGb** (1) [977631](https://platzi.com/comentario/977631/) 
 	
+	![practica1.png](https://static.platzi.com/media/user_upload/practica1-49b7df77-e9ac-40fb-a9ef-0d01b5b0e1bb.jpg)
+
+* **boristrochez** (1) [977439](https://platzi.com/comentario/977439/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>
@@ -3032,9 +2760,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **wilantury** (1)
+* **wilantury** (1) [977226](https://platzi.com/comentario/977226/) 
 
-	
 	La solución al reto:
 	``` 
 	    #include <stdio.h>
@@ -3062,7 +2789,7 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977216](https://platzi.com/comentario/977216/) 
 
 	```
 	    #include<stdio.h>
@@ -3087,9 +2814,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [976665](https://platzi.com/comentario/976665/) 
 
-	
 	Mi ejercicio
 	``` 
 	    #include<stdio.h>
@@ -3120,7 +2846,7 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [974484](https://platzi.com/comentario/974484/) 
 
 	```
 	    #include<stdlib.h>
@@ -3149,12 +2875,12 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **JeanMurcia** (1)
-![Captura_primer reto.PNG](https://static.platzi.com/media/user_upload/Captura_primer%20reto-fc6ae27a-36ad-4143-a371-c8fb88fb802a.jpg)
-
-* **Elizabeth cubides coronado** (1)
-
+* **JeanMurcia** (1) [973116](https://platzi.com/comentario/973116/) 
 	
+	![Captura_primer reto.PNG](https://static.platzi.com/media/user_upload/Captura_primer%20reto-fc6ae27a-36ad-4143-a371-c8fb88fb802a.jpg)
+
+* **Elizabeth cubides coronado** (1) [972094](https://platzi.com/comentario/972094/) 
+
 	int main()  
 	{  
 	int A;  
@@ -3175,20 +2901,19 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    printf("el Valor Y es: %i", Y);
 	```
 
-* **Erick Mancilla Sánchez** (1)
-![progEstReto1.PNG](https://static.platzi.com/media/user_upload/progEstReto1-c5945bf6-8081-459f-b8e8-6b469c124817.jpg)
-
-* **juancamiloruiznieto** (1)
-
+* **Erick Mancilla Sánchez** (1) [969346](https://platzi.com/comentario/969346/) 
 	
+	![progEstReto1.PNG](https://static.platzi.com/media/user_upload/progEstReto1-c5945bf6-8081-459f-b8e8-6b469c124817.jpg)
+
+* **juancamiloruiznieto** (1) [968830](https://platzi.com/comentario/968830/) 
+
 	Hola mi reto fue sencillo por ser mi primera vez  
 	![Captura de pantalla 2020-02-05 a la\(s\) 8.51.22 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-05%20a%20la%28s%29%208.51.22%20p.%20m.-6fe51cfa-054d-4df0-986c-925ce8892ac4.jpg)  
 	Este es el resultado  
 	![Captura de pantalla 2020-02-05 a la\(s\) 8.53.27 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-05%20a%20la%28s%29%208.53.27%20p.%20m.-31afb322-b851-4d4d-8c94-36196a091863.jpg)
 
-* **BotDrako** (1)
+* **BotDrako** (1) [968100](https://platzi.com/comentario/968100/) 
 
-	
 	reto 1:
 	
 	#include <stdio.h>  
@@ -3233,9 +2958,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [963161](https://platzi.com/comentario/963161/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -3265,9 +2989,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [963081](https://platzi.com/comentario/963081/) 
 
-	
 	//Esto fue lo que yo entendí del reto, no me complique mucho 😄
 	``` 
 	    #include<stdio.h>
@@ -3289,10 +3012,11 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
-![{6E743820-3308-4079-A8FE-AD7EE80866D0}.png.jpg](https://static.platzi.com/media/user_upload/%7B6E743820-3308-4079-A8FE-AD7EE80866D0%7D.png-982e1099-2d07-4c76-b4ac-448ff1509977.jpg)
+* **Alejandro Ávila Guerrero** (1) [962434](https://platzi.com/comentario/962434/) 
+	
+	![{6E743820-3308-4079-A8FE-AD7EE80866D0}.png.jpg](https://static.platzi.com/media/user_upload/%7B6E743820-3308-4079-A8FE-AD7EE80866D0%7D.png-982e1099-2d07-4c76-b4ac-448ff1509977.jpg)
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [960767](https://platzi.com/comentario/960767/) 
 
 	```
 	    int main()
@@ -3322,10 +3046,11 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![Imagen2.png](https://static.platzi.com/media/user_upload/Imagen2-85fe7c65-6002-4530-8d8c-0ed3cb4e0dfe.jpg)
+* **zayrasaavedrauribe** (1) [958485](https://platzi.com/comentario/958485/) 
+	
+	![Imagen2.png](https://static.platzi.com/media/user_upload/Imagen2-85fe7c65-6002-4530-8d8c-0ed3cb4e0dfe.jpg)
 
-* **JAVIER STIVEN MURILLO CORREA** (1)
+* **JAVIER STIVEN MURILLO CORREA** (1) [957548](https://platzi.com/comentario/957548/) 
 
 	```
 	    #include<stdio.h>
@@ -3361,9 +3086,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	    
 	```
 
-* **jackelinejaimesortiz1** (1)
+* **jackelinejaimesortiz1** (1) [954481](https://platzi.com/comentario/954481/) 
 
-	
 	Reto de la clase:
 	
 	int main()  
@@ -3389,14 +3113,12 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	
 	}
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [953348](https://platzi.com/comentario/953348/) 
 
-	
 	Ideal este curso, para entender conceptos básicos.
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [952767](https://platzi.com/comentario/952767/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -3413,22 +3135,20 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	printf("El valor del entero x intercambiado es: %i \nEl valor del entero y intercambiado es: %i ",x,y);  
 	}
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943275](https://platzi.com/comentario/943275/) 
 
-	
 	![](![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-298cabd0-cc3c-4c30-af8a-45fd1c78ffd8.jpg)
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943247](https://platzi.com/comentario/943247/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Paola Rodríguez** (1)
-![Captura de pantalla \(116\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%28116%29-f7f375b4-804c-4fbd-823e-b31882114e47.jpg)
-
-* **Pedro Hernandez** (1)
-
+* **Paola Rodríguez** (1) [942458](https://platzi.com/comentario/942458/) 
 	
+	![Captura de pantalla \(116\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%28116%29-f7f375b4-804c-4fbd-823e-b31882114e47.jpg)
+
+* **Pedro Hernandez** (1) [941248](https://platzi.com/comentario/941248/) 
+
 	int main()  
 	{  
 	int a, b, c;  
@@ -3443,9 +3163,8 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	return 0;  
 	}
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [941059](https://platzi.com/comentario/941059/) 
 
-	
 	int main()  
 	{  
 	float b = 1.1;  
@@ -3453,12 +3172,11 @@ Eso es xq %d es de números decimales (o mejor dicho, de base 10).. así q puede
 	return 0;  
 	}
 
-* **santi-cardoso** (1)
+* **santi-cardoso** (1) [85111](https://platzi.com/comentario/1066382/) 
 a que se refiere con intercambiar el valor de las variables?
 
-	* **santgonzalez** (1)
+	* **santgonzalez** [85111] (1)
 
-		
 		Supongo que se refiere a cambiarle o “sobre escribir” el valor inicial de una variable. Un ejemplo muy sencillo son los contadores. Los inicializas en un valor N pero le vas sumando uno y su valor va modificando  
 		int contador = 0;  
 		contador=contador+1; || contador++;
@@ -3467,76 +3185,68 @@ a que se refiere con intercambiar el valor de las variables?
 		
 		Se entiende?
 
-* **Juan Francisco santillanes yepez** (1)
+* **Juan Francisco santillanes yepez** (1) [83697](https://platzi.com/comentario/1032507/) 
 Me dice miprimervariable.exe dejo de funcionar cada que quiero compilar ya cambie el
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [83697] (1)
 
-		
 		¿Podrías compartir tu código?
 
-* **Nelsonegd** (1)
+* **Nelsonegd** (1) [83443](https://platzi.com/comentario/1026835/) 
 Buenas tardes, estoy declarando las variables de la clase pasada para imprimir, pero el valor de la variable bool no me sale, printf (&qu...
 
-	* **briam-arismendi** (1)
+	* **briam-arismendi** [83443] (1)
 
-		
 		hola, postea todo tu codigo para entender mejor tu problema.
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [80892](https://platzi.com/comentario/968646/) 
 se me hace que es como mas organizado poner cada variable en una linea y no todos en una linea al . momento de imprimir
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [80892] (1)
 
-		
 		Puedes hacerlo de la manera que prefieras, a veces tiene mas sentido tenerlas en una misma linea y a veces en varias lineas, en la programacion es importante recordar que no solo programas para resolver el problema, sino para hacer el codigo entendible para otros
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [80890](https://platzi.com/comentario/968614/) 
 hola no entiendo porque si escribo correctactamente doubleA si esta inicializada con double doubleA = 1.2; me imprime como 512 miren la...
 
-	* **AnthonySQC** (2)
+	* **AnthonySQC** [80890] (2)
 
-		
 		Hola Juan,  
 		para imprimir una variable del tiplo double se utiliza el modificador **%f** en el printf, en tu caso has utilizado el modificador **d** y por eso te imprime un resultado incorrecto, en este enlace puedes leer al respecto de modificadores <https://www.geeksforgeeks.org/format-specifiers-in-c/>  
 		Un saludo 😃.
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [80286](https://platzi.com/comentario/956210/) 
 Hola estoy usando atom pero no se como se ejecuta.
 
-	* **saidmlx** (1)
+	* **saidmlx** [80286] (1)
 
-		
 		Que sistema operativo estas utilizando windows, Linus, macOS ?
 
-* **andresargote** (1)
+* **andresargote** (1) [79661](https://platzi.com/comentario/944110/) 
 Hola, uso mac y mi editor de codigo es Visual Studio, descargue la exension Code Runner, me funcionaba perfecto pero cuando le agregue el...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [79661] (1)
 
-		
 		Si estás en Windows este tutorial te puede ayudar: <https://platzi.com/tutoriales/1189-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/>.
 		
 		Si no, la vieja confiable: reinstalar. 😅
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [76861](https://platzi.com/comentario/894342/) 
 ¿Alguien sabe la razón por la cuál no compila? main.c: In function ‘main’: main.c:10:5: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [76861] (1)
 
-		
 		Creo que te falta un punto y coma al final de la octava línea:
 		``` 
 		    int aux;
 		    
 		```
 
-* **Angie Garcia** (0)
+* **Angie Garcia** (0) [1002466](https://platzi.com/comentario/1002466/) 
 Entonces antes de asignar el valor de y a x tiene que guardar x en otro lado. Así sería completo int x = 2; int y = 5; int z = x; x = y; y = z;
 
-* **jorgearmas** (0)
+* **jorgearmas** (0) [976183](https://platzi.com/comentario/976183/) 
 
-	
 	Hola team, esta es mi practica, cualquier feedback es bienvenido.
 	``` 
 	    #include<stdio.h>
@@ -3562,9 +3272,8 @@ Entonces antes de asignar el valor de y a x tiene que guardar x en otro lado. As
 	    
 	```
 
-* **Alberto Salas** (0)
+* **Alberto Salas** (0) [975220](https://platzi.com/comentario/975220/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -3591,15 +3300,14 @@ Entonces antes de asignar el valor de y a x tiene que guardar x en otro lado. As
 	
 	}
 
-* **Jose Alexander Guzman Rojas** (0)
+* **Jose Alexander Guzman Rojas** (0) [86178](https://platzi.com/comentario/1090050/) 
 Hola ¿porque no me sale la ventana de copilacion?
 
-* **Juan Francisco santillanes yepez** (0)
+* **Juan Francisco santillanes yepez** (0) [83690](https://platzi.com/comentario/1032353/) 
 hola, disculpen porque al momento de compilar me sale 2 luego de la pregunta y despues de las siguientes preguntas me salen otros numeros...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [83690] (1)
 
-		
 		Porque solo declaraste tus variables `pizza_gde`, `pizza_mediana` y `pizza_chica` pero no las has inicializado, es decir, no les asignaste un valor explícitamente. Entonces tienen valores indeterminados (basura) los cuales se imprimen cuando usas las sentencias **`printf`** que preguntan el número de pizzas. Por eso el programa tiene ese comportamiento. No necesitas imprimirlas para solicitar el ingreso de datos.
 		``` 
 		    printf("cuantas pizzas grandes quieres: );
@@ -3607,18 +3315,18 @@ hola, disculpen porque al momento de compilar me sale 2 luego de la pregunta y d
 		    
 		```
 
-## 0050. Operadores aritméticos
+## 0050. Operadores aritméticos [16465](https://platzi.com/clases/1450-programacion-estructurada/16465-operadores-aritmeticos5269/)
 
 ### Descripción:
 
 
 Los operadores los utilizamos para realizar operaciones aritméticas en nuestras funciones. Algunos operadores son:
 
-  * Suma: +
-  * Resta: -
-  * Multiplicación: *
-  * División: /
-  * Módulo: %
+* Suma: +
+* Resta: -
+* Multiplicación: *
+* División: /
+* Módulo: %
 
 
 
@@ -3626,33 +3334,29 @@ La operación **módulo** obtiene el resto de la división entre dos números.
 
 ### Comentarios:
 
-* **Nelsonegd** (2)
+* **Nelsonegd** (2) [1038025](https://platzi.com/comentario/1038025/) 
 
-	
 	Hay que tener en cuenta los espacios que se dejan en los scanf**("%f “)** debido aque no permite la ejecución correcta del código, siempre debe ir (”%f") sin espacios.
 
-	* **Gonzalo Ojeda** (2)
+	* **Gonzalo Ojeda** [1038025] (2)
 
-		
 		Muchas gracias por la propicia acotación.  
 		saludos.
 
-* **Diego Alejandro Pachon Cortes** (2)
+* **Diego Alejandro Pachon Cortes** (2) [78867](https://platzi.com/comentario/928842/) 
 ¿El reto del cilindro y la temperatura se tiene que utilizar necesariamente con (float ) o un tipo de dato (int) ?
 
-	* **Jaime Sabogal Sanchez** (1)
+	* **Jaime Sabogal Sanchez** [78867] (1)
 
-		
 		Hola Diego
 		
 		Creo que es necesario considerando que se utiliza la constante PI = 3.14592, por lo tanto es probable que el resultado sea un decimal.
 
-* **ervic_alexis** (2)
+* **ervic_alexis** (2) [67471](https://platzi.com/comentario/724038/) 
 Operadores aritméticos: los tipicos que usamos en la escuela para realizar operaciones aritmeticas. Suma + ; resta - ; m...
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1115241](https://platzi.com/comentario/1115241/) 
 
-	
 	Calculador de grados centigrados a farenheit y viceversa
 	
 	![](https://imgur.com/a/IzoZZOS)
@@ -3686,9 +3390,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1115225](https://platzi.com/comentario/1115225/) 
 
-	
 	Calculador del area y volumen:
 	``` 
 	    #include<stdio.h>
@@ -3722,33 +3425,35 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 01-54-08.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-54-08-02f44a6a-35e1-4a14-8409-75047bc40e52.jpg)
-
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 02-00-59.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2002-00-59-7f49fbb7-0b21-45b1-a196-3607ef79cb67.jpg)
-
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 01-54-08.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-54-08-52099d31-198a-4545-b46c-380541f01c73.jpg)
-
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 01-54-04.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-54-04-063e0ba4-5c64-4b1a-bb1d-16b429f5096d.jpg)
-
-* **keila martinez** (1)
-
+* **Angie Garcia** (1) [1113455](https://platzi.com/comentario/1113455/) 
 	
+	![Captura de pantalla de 2020-04-09 01-54-08.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-54-08-02f44a6a-35e1-4a14-8409-75047bc40e52.jpg)
+
+* **Angie Garcia** (1) [1113454](https://platzi.com/comentario/1113454/) 
+	
+	![Captura de pantalla de 2020-04-09 02-00-59.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2002-00-59-7f49fbb7-0b21-45b1-a196-3607ef79cb67.jpg)
+
+* **Angie Garcia** (1) [1113447](https://platzi.com/comentario/1113447/) 
+	
+	![Captura de pantalla de 2020-04-09 01-54-08.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-54-08-52099d31-198a-4545-b46c-380541f01c73.jpg)
+
+* **Angie Garcia** (1) [1113446](https://platzi.com/comentario/1113446/) 
+	
+	![Captura de pantalla de 2020-04-09 01-54-04.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2001-54-04-063e0ba4-5c64-4b1a-bb1d-16b429f5096d.jpg)
+
+* **keila martinez** (1) [1103383](https://platzi.com/comentario/1103383/) 
+
 	reto 2 de grados Fahrenheit a celsius
 	
 	![RETO 2 GRADOS.PNG](https://static.platzi.com/media/user_upload/RETO%202%20GRADOS-92478c0d-77dc-40cb-a0bc-dda509086fa7.jpg)
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1103376](https://platzi.com/comentario/1103376/) 
 
-	
 	reto 1 area de un cilindro
 	
 	![RETO 2 AREA.PNG](https://static.platzi.com/media/user_upload/RETO%202%20AREA-312ab3d1-9067-4965-aa24-e835bebb82e7.jpg)
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1097010](https://platzi.com/comentario/1097010/) 
 
 	```
 	    int main()
@@ -3770,7 +3475,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1097007](https://platzi.com/comentario/1097007/) 
 
 	```
 	    int main()
@@ -3800,7 +3505,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1094855](https://platzi.com/comentario/1094855/) 
 
 	```
 	    // Primer reto
@@ -3830,7 +3535,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **tonyoz** (1)
+* **tonyoz** (1) [1090970](https://platzi.com/comentario/1090970/) 
 
 	```
 	    #include<stdio.h>
@@ -3858,9 +3563,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Ernesto Lázaro Guerrero** (1)
+* **Ernesto Lázaro Guerrero** (1) [1087645](https://platzi.com/comentario/1087645/) 
 
-	
 	Primer reto del cilindro:
 	
 	![Captura de Pantalla 2020-04-01 a la\(s\) 19.29.34.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.29.34-6badf9d3-6ff3-44b9-a179-6fc672e38028.jpg)
@@ -3869,28 +3573,28 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	![Captura de Pantalla 2020-04-01 a la\(s\) 19.42.45.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.42.45-cf25c42b-292a-4af2-b7b3-4712fbc1939b.jpg)
 
-* **LauraMoya15** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-2b89d396-552c-4e52-930b-74d8a520ad79.jpg)
-
-* **maoacrlearn** (1)
-
+* **LauraMoya15** (1) [1087293](https://platzi.com/comentario/1087293/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-2b89d396-552c-4e52-930b-74d8a520ad79.jpg)
+
+* **maoacrlearn** (1) [1079410](https://platzi.com/comentario/1079410/) 
+
 	Yo he trabajado con un programa que se llama NeatBeans, debe ser similar a este que se trabaja en el curso y quizás también sirva para realizar los ejercicos.
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [1077249](https://platzi.com/comentario/1077249/) 
 
-	
 	![](![retos3.png](https://static.platzi.com/media/user_upload/retos3-26b495aa-d64d-42e6-8cbe-9fe6d3b2f248.jpg)
 
-* **JobForero** (1)
-![Fahrenheit_celsius.PNG](https://static.platzi.com/media/user_upload/Fahrenheit_celsius-00e5d663-6d11-4809-a3c6-43828f67c688.jpg)
-
-* **JobForero** (1)
-![Screenshot_5_.png](https://static.platzi.com/media/user_upload/Screenshot_5_-f6cb0758-cf1f-40c3-a0e1-eac899b6ddb6.jpg)
-
-* **luis angel muñoz gonzalez** (1)
-
+* **JobForero** (1) [1075566](https://platzi.com/comentario/1075566/) 
 	
+	![Fahrenheit_celsius.PNG](https://static.platzi.com/media/user_upload/Fahrenheit_celsius-00e5d663-6d11-4809-a3c6-43828f67c688.jpg)
+
+* **JobForero** (1) [1075565](https://platzi.com/comentario/1075565/) 
+	
+	![Screenshot_5_.png](https://static.platzi.com/media/user_upload/Screenshot_5_-f6cb0758-cf1f-40c3-a0e1-eac899b6ddb6.jpg)
+
+* **luis angel muñoz gonzalez** (1) [1068463](https://platzi.com/comentario/1068463/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -3917,7 +3621,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Lucas Barisonzi** (1)
+* **Lucas Barisonzi** (1) [1067754](https://platzi.com/comentario/1067754/) 
 
 	```
 	    #include<stdio.h>
@@ -3970,7 +3674,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Fabian Chavarria Navarro** (1)
+* **Fabian Chavarria Navarro** (1) [1064550](https://platzi.com/comentario/1064550/) 
 
 	```
 	    #include <stdio.h>
@@ -4011,7 +3715,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1062027](https://platzi.com/comentario/1062027/) 
 
 	```
 	    #include<stdio.h>
@@ -4049,7 +3753,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1061164](https://platzi.com/comentario/1061164/) 
 
 	```
 	    float celcius;
@@ -4063,7 +3767,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1061153](https://platzi.com/comentario/1061153/) 
 
 	```
 	     float radio;
@@ -4083,9 +3787,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1060977](https://platzi.com/comentario/1060977/) 
 
-	
 	**Área Cilindro**  
 	.  
 	![AreaCilindro.png](https://static.platzi.com/media/user_upload/AreaCilindro-0413923d-cdcc-4fd3-8853-8eb9267d3d4c.jpg)  
@@ -4094,13 +3797,15 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	.  
 	![FahrenheitToCelsius.png](https://static.platzi.com/media/user_upload/FahrenheitToCelsius-55ca75cc-6329-4ca7-9d75-3e21688a8065.jpg)
 
-* **Juan Carlos García Flores** (1)
-![Calcular_Area_cilindro.JPG](https://static.platzi.com/media/user_upload/Calcular_Area_cilindro-17dc2647-78db-406c-a44d-b4134066ed8c.jpg)
+* **Juan Carlos García Flores** (1) [1060084](https://platzi.com/comentario/1060084/) 
+	
+	![Calcular_Area_cilindro.JPG](https://static.platzi.com/media/user_upload/Calcular_Area_cilindro-17dc2647-78db-406c-a44d-b4134066ed8c.jpg)
 
-* **Juan Carlos García Flores** (1)
-![Conversion_grados.JPG](https://static.platzi.com/media/user_upload/Conversion_grados-e7fb08f4-d4e5-43be-8e7e-80d28814f674.jpg)
+* **Juan Carlos García Flores** (1) [1060083](https://platzi.com/comentario/1060083/) 
+	
+	![Conversion_grados.JPG](https://static.platzi.com/media/user_upload/Conversion_grados-e7fb08f4-d4e5-43be-8e7e-80d28814f674.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1059580](https://platzi.com/comentario/1059580/) 
 
 	```
 	    // Reto 1
@@ -4137,14 +3842,14 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **AlexanderM** (1)
-![foto.png](https://static.platzi.com/media/user_upload/foto-6fa7f89b-9125-4511-80a1-2d7563d303f5.jpg)
+* **AlexanderM** (1) [1059305](https://platzi.com/comentario/1059305/) 
+	
+	![foto.png](https://static.platzi.com/media/user_upload/foto-6fa7f89b-9125-4511-80a1-2d7563d303f5.jpg)
 	
 	Muchacho a alguno de ustedes les sale esto en la terminal des del texto que imprimen en pantalla.1.#QNAN0
 
-* **Sergio Alejandro Alvarado Parada** (1)
+* **Sergio Alejandro Alvarado Parada** (1) [1059108](https://platzi.com/comentario/1059108/) 
 
-	
 	Reto 3:
 	
 	int main()  
@@ -4166,9 +3871,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Sergio Alejandro Alvarado Parada** (1)
+* **Sergio Alejandro Alvarado Parada** (1) [1059004](https://platzi.com/comentario/1059004/) 
 
-	
 	Reto 2:
 	
 	#include <stdio.h>  
@@ -4199,9 +3903,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1056289](https://platzi.com/comentario/1056289/) 
 
-	
 	Reto nro 2
 	``` 
 	    #include<stdio.h>
@@ -4220,9 +3923,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1056268](https://platzi.com/comentario/1056268/) 
 
-	
 	Reto nro 1
 	``` 
 	    #include<stdio.h>
@@ -4246,39 +3948,33 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1052056](https://platzi.com/comentario/1052056/) 
 
-	
 	Reto 3:  
 	![](![reto3.png](https://static.platzi.com/media/user_upload/reto3-ea3ed89e-8d22-4791-8eeb-41dc1391d535.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1052055](https://platzi.com/comentario/1052055/) 
 
-	
 	Reto dos:  
 	![](![reto2.png](https://static.platzi.com/media/user_upload/reto2-dab0a888-803c-43ae-88b1-67d7290b60c3.jpg)
 
-	* **Sergio Alejandro Alvarado Parada** (2)
+	* **Sergio Alejandro Alvarado Parada** [1052055] (2)
 
-		
 		Hola Oriana. 😃  
 		Tienes un error al calcular el área de la base y el volumen del cilindro.  
 		Con los valores que tienes el área de la base debería ser: 28.27 y el volumen debería ser: 282.74
 
-	* **orianasuljeisposadamolina** (1)
+	* **orianasuljeisposadamolina** [1052055] (1)
 
-		
 		Hola Alejo_666  
 		Gracias por fijarte te refieres a error en la formula o en el código?
 
-	* **Sergio Alejandro Alvarado Parada** (1)
+	* **Sergio Alejandro Alvarado Parada** [1052055] (1)
 
-		
 		Sí señorita, en la fórmula está el error. Pero tu sintaxis (desde lo poco que sé) se ve bien.
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1046411](https://platzi.com/comentario/1046411/) 
 
-	
 	Reto Fahrenheit
 	``` 
 	    #include<stdio.h>
@@ -4302,9 +3998,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1046390](https://platzi.com/comentario/1046390/) 
 
-	
 	Reto Cilindro
 	``` 
 	    #include<stdio.h>
@@ -4330,9 +4025,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [1044705](https://platzi.com/comentario/1044705/) 
 
-	
 	**RETO 1**
 	
 	#include <stdio.h>  
@@ -4393,44 +4087,42 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Juan Alberto López López** (1)
+* **Juan Alberto López López** (1) [1043504](https://platzi.com/comentario/1043504/) 
 
-	
 	Reto 2  
 	![](http://i.ibb.co/fNM9M5d/reto2-Operadores.png)
 
-* **Juan Alberto López López** (1)
+* **Juan Alberto López López** (1) [1043485](https://platzi.com/comentario/1043485/) 
 
-	
 	Reto 1  
 	![](http://i.ibb.co/KVyrH63/reto1-Operadores.png)
 
-* **paola-diaz361** (1)
-![convertidorTem.PNG](https://static.platzi.com/media/user_upload/convertidorTem-68a53a10-e326-4a89-ada1-8f6d0d6a3df1.jpg)
-
-* **paola-diaz361** (1)
-![retoCalcularArea.PNG](https://static.platzi.com/media/user_upload/retoCalcularArea-0fbf2398-55ba-4044-90e9-964ee451acb8.jpg)
-
-* **paola-diaz361** (1)
-![operadoresAritmeticosI.PNG](https://static.platzi.com/media/user_upload/operadoresAritmeticosI-613409d5-83b3-4f43-9422-16fb923e03b8.jpg)
-
-* **Jesus Velez Flores** (1)
-
+* **paola-diaz361** (1) [1041799](https://platzi.com/comentario/1041799/) 
 	
+	![convertidorTem.PNG](https://static.platzi.com/media/user_upload/convertidorTem-68a53a10-e326-4a89-ada1-8f6d0d6a3df1.jpg)
+
+* **paola-diaz361** (1) [1040453](https://platzi.com/comentario/1040453/) 
+	
+	![retoCalcularArea.PNG](https://static.platzi.com/media/user_upload/retoCalcularArea-0fbf2398-55ba-4044-90e9-964ee451acb8.jpg)
+
+* **paola-diaz361** (1) [1038584](https://platzi.com/comentario/1038584/) 
+	
+	![operadoresAritmeticosI.PNG](https://static.platzi.com/media/user_upload/operadoresAritmeticosI-613409d5-83b3-4f43-9422-16fb923e03b8.jpg)
+
+* **Jesus Velez Flores** (1) [1030724](https://platzi.com/comentario/1030724/) 
+
 	Reto 2.- Convertir grados fahrenheit a grados celsius.
 	
 	![Reto3.PNG](https://static.platzi.com/media/user_upload/Reto3-42fa7b03-8dc5-49cc-983b-e913e487aeb5.jpg)
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1030723](https://platzi.com/comentario/1030723/) 
 
-	
 	Reto 1.- Sacar el area de un cilindro y su volumen.
 	
 	![Reto2.PNG](https://static.platzi.com/media/user_upload/Reto2-6262cc2e-b608-42fd-b189-9cad0c4bd146.jpg)
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024448](https://platzi.com/comentario/1024448/) 
 
-	
 	The response of challenge n°3:
 	``` 
 	    Hi, we go to transform Fahrenheit degrees to Celsius degrees.
@@ -4441,9 +4133,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024446](https://platzi.com/comentario/1024446/) 
 
-	
 	Challenge n°3 reached:
 	``` 
 	    #include<stdio.h>
@@ -4467,9 +4158,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1021611](https://platzi.com/comentario/1021611/) 
 
-	
 	Challenge n° 2 reached:
 	``` 
 	    #include<stdio.h>
@@ -4505,9 +4195,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1021493](https://platzi.com/comentario/1021493/) 
 
-	
 	El ejercicio de la clase 😃
 	``` 
 	    #include <stdio.h>
@@ -4538,9 +4227,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1018900](https://platzi.com/comentario/1018900/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -4558,9 +4246,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	return 0;  
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1018144](https://platzi.com/comentario/1018144/) 
 
-	
 	#include <stdio.h>
 	
 	//calcular area de un cilindro
@@ -4580,9 +4267,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1014348](https://platzi.com/comentario/1014348/) 
 
-	
 	Chicos, ayuda. No me funciona mi código, pero la fórmula está bien.
 	``` 
 	    #include<stdio.h>
@@ -4605,9 +4291,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-	* **GadielWisar** (2)
+	* **GadielWisar** [1014348] (2)
 
-		
 		Hola amiga el problema esta en esta lineal del código
 		
 		printf(“La temperatura en grados centigrados es: %i”, centA);
@@ -4617,50 +4302,50 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 		%f por que al principio declaraste farA y centA como flotante,.  
 		printf(“La temperatura en grados centigrados es: %f”, centA);
 
-	* **Adriana Lucia Ardila Ramirez** (1)
+	* **Adriana Lucia Ardila Ramirez** [1014348] (1)
 
-		
 		Muchisimas gracias.
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1010150](https://platzi.com/comentario/1010150/) 
 
-	
 	Segundo Reto  
 	![Captura1.PNG](https://static.platzi.com/media/user_upload/Captura1-db3702ae-e527-43fd-9f10-f0cccc824502.jpg)
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-f872b292-e182-4aab-a2b7-b041d6c34b4f.jpg)
+* **jhonsoccer11** (1) [1010137](https://platzi.com/comentario/1010137/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-f872b292-e182-4aab-a2b7-b041d6c34b4f.jpg)
 	
 	Reto 1 😃
 
-* **Henry Sanchez** (1)
-![farenheigt.PNG](https://static.platzi.com/media/user_upload/farenheigt-0eff41c7-5fb2-4b42-ad64-6221358f4f7d.jpg)
-
-* **Henry Sanchez** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-efe793c5-44d9-420e-b14f-31ee23d201fb.jpg)
-
-* **Divanatica** (1)
-
+* **Henry Sanchez** (1) [1005924](https://platzi.com/comentario/1005924/) 
 	
+	![farenheigt.PNG](https://static.platzi.com/media/user_upload/farenheigt-0eff41c7-5fb2-4b42-ad64-6221358f4f7d.jpg)
+
+* **Henry Sanchez** (1) [1005920](https://platzi.com/comentario/1005920/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-efe793c5-44d9-420e-b14f-31ee23d201fb.jpg)
+
+* **Divanatica** (1) [1005551](https://platzi.com/comentario/1005551/) 
+
 	Hola team Platzi! Este es mi segundo reto de la clase 5 😃  
 	![DivaUlloaReto3.png](https://static.platzi.com/media/user_upload/DivaUlloaReto3-0c03712f-8595-41d6-942d-5e4e3521e0dc.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1005528](https://platzi.com/comentario/1005528/) 
 
-	
 	Hola team Platzi! Este es mi primer reto de la clase 5 😃
 	
 	![DivaUlloaReto2.png](https://static.platzi.com/media/user_upload/DivaUlloaReto2-6685109f-94bc-4673-a572-8badda6b3a53.jpg)
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-24 07-27-35.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-24%2007-27-35-f06e342f-8861-4688-b12c-781d07882885.jpg)
-
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-24 08-05-33.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-24%2008-05-33-dcbfd80d-cd29-4d2e-b762-23450c31e939.jpg)
-
-* **Juan Manuel Caro González** (1)
-
+* **Angie Garcia** (1) [1004159](https://platzi.com/comentario/1004159/) 
 	
+	![Captura de pantalla de 2020-02-24 07-27-35.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-24%2007-27-35-f06e342f-8861-4688-b12c-781d07882885.jpg)
+
+* **Angie Garcia** (1) [1004150](https://platzi.com/comentario/1004150/) 
+	
+	![Captura de pantalla de 2020-02-24 08-05-33.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-24%2008-05-33-dcbfd80d-cd29-4d2e-b762-23450c31e939.jpg)
+
+* **Juan Manuel Caro González** (1) [1002319](https://platzi.com/comentario/1002319/) 
+
 	Reto 2: Temperatura.
 	``` 
 	    #include<stdio.h>
@@ -4684,9 +4369,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1002268](https://platzi.com/comentario/1002268/) 
 
-	
 	Reto 1: Volumen de un cilindro.
 	``` 
 	    #include<stdio.h>
@@ -4715,13 +4399,15 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-1cc1fe2f-c4d0-4a8d-94dd-281b7e52029d.jpg)
+* **Adriana del Pilar Martinez Bautista** (1) [1001632](https://platzi.com/comentario/1001632/) 
+	
+	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-1cc1fe2f-c4d0-4a8d-94dd-281b7e52029d.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-948ef422-ee8f-4713-95a7-dfade7612ff0.jpg)
+* **Adriana del Pilar Martinez Bautista** (1) [1001617](https://platzi.com/comentario/1001617/) 
+	
+	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-948ef422-ee8f-4713-95a7-dfade7612ff0.jpg)
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1000879](https://platzi.com/comentario/1000879/) 
 
 	```
 	    <#include<stdio.h>
@@ -4746,7 +4432,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1000878](https://platzi.com/comentario/1000878/) 
 
 	```
 	    <#include<stdio.h>
@@ -4773,9 +4459,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1000272](https://platzi.com/comentario/1000272/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -4799,7 +4484,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1000199](https://platzi.com/comentario/1000199/) 
 
 	```
 	    #include<stdio.h>
@@ -4831,9 +4516,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **alan valencia** (1)
+* **alan valencia** (1) [999705](https://platzi.com/comentario/999705/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>  
@@ -4860,7 +4544,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Cegador** (1)
+* **Cegador** (1) [998843](https://platzi.com/comentario/998843/) 
 
 	```
 	    int main ()
@@ -4882,9 +4566,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Jaime Sabogal Sanchez** (1)
+* **Jaime Sabogal Sanchez** (1) [998211](https://platzi.com/comentario/998211/) 
 
-	
 	Hello everybody, my solution to the challenges is
 	
 	#include <stdio.h>  
@@ -4932,9 +4615,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	Thanks you teacher Daniela.
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [995310](https://platzi.com/comentario/995310/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -4949,9 +4631,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	return 0;  
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [995309](https://platzi.com/comentario/995309/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -4976,19 +4657,16 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [994351](https://platzi.com/comentario/994351/) 
 
-	
 	Reto#2 ![R2temp.PNG](https://static.platzi.com/media/user_upload/R2temp-28d5aec9-4aae-46c1-bb0d-42260c3e6edb.jpg)
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [994312](https://platzi.com/comentario/994312/) 
 
-	
 	Ya Cumpli El Reto #1 Voy Por El #2 ![R1cilindro.PNG](https://static.platzi.com/media/user_upload/R1cilindro-dc3e4281-c188-4460-bc3e-7a7ef7477a00.jpg)
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [993859](https://platzi.com/comentario/993859/) 
 
-	
 	Reto # 1
 	``` 
 	    #include<stdio.h>
@@ -5049,14 +4727,12 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **loaizafelipeandres** (1)
+* **loaizafelipeandres** (1) [993496](https://platzi.com/comentario/993496/) 
 
-	
 	hola profe hay forma de buscar informacion en internet? como por ejemplo un manual en el lenguaje c
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [991605](https://platzi.com/comentario/991605/) 
 
-	
 	Reto de Operadores Aritmeticos
 	
 	Reto # 1
@@ -5126,9 +4802,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [991528](https://platzi.com/comentario/991528/) 
 
-	
 	mi respuesta, para el volumen de un cilindro
 	``` 
 	    #include<stdio.h>
@@ -5163,20 +4838,17 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [989772](https://platzi.com/comentario/989772/) 
 
-	
 	reto 2 😄  
 	![2020-02-17 08_03_11-main.c \[reto3\] - Code__Blocks 17.12.png](https://static.platzi.com/media/user_upload/2020-02-17%2008_03_11-main.c%20%5Breto3%5D%20-%20Code__Blocks%2017.12-e1d65d2a-4568-4d7b-bfaf-0aceac942c26.jpg)
 
-* **vivisoto** (1)
+* **vivisoto** (1) [989324](https://platzi.com/comentario/989324/) 
 
-	
 	reto 😃 ![2020-02-16 22_02_14-main.c \[reto2\] - Code__Blocks 17.12.png](https://static.platzi.com/media/user_upload/2020-02-16%2022_02_14-main.c%20%5Breto2%5D%20-%20Code__Blocks%2017.12-af5cae77-7f60-4614-94be-6718430a43fe.jpg)
 
-* **Edison_Avila** (1)
+* **Edison_Avila** (1) [987910](https://platzi.com/comentario/987910/) 
 
-	
 	Area y Volumen de un cilindro
 	``` 
 	    #include"stdio.h"
@@ -5231,9 +4903,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [987350](https://platzi.com/comentario/987350/) 
 
-	
 	Cálculos para el cilindro
 	``` 
 	    #include<stdio.h>
@@ -5265,9 +4936,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [985879](https://platzi.com/comentario/985879/) 
 
-	
 	Hola team, este es mi codigo para el calculo de area y volumen de un cilindro
 	``` 
 	    #include<stdio.h>
@@ -5297,9 +4967,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **Pedro Alejandro Silva Perez** (1)
+* **Pedro Alejandro Silva Perez** (1) [985478](https://platzi.com/comentario/985478/) 
 
-	
 	#include <iostream>  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -5332,9 +5001,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Pedro Alejandro Silva Perez** (1)
+* **Pedro Alejandro Silva Perez** (1) [985476](https://platzi.com/comentario/985476/) 
 
-	
 	#include <iostream>  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -5361,7 +5029,7 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [985356](https://platzi.com/comentario/985356/) 
 
 	```
 	    #include<stdio.h>
@@ -5384,9 +5052,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [983373](https://platzi.com/comentario/983373/) 
 
-	
 	\----------Conversión de Temperatura-------
 	
 	#include <stdio.h>  
@@ -5410,9 +5077,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **boristrochez** (1)
+* **boristrochez** (1) [983363](https://platzi.com/comentario/983363/) 
 
-	
 	\---------Volumen de un cilindro-------
 	
 	#include <stdio.h>  
@@ -5443,9 +5109,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	
 	}
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [982089](https://platzi.com/comentario/982089/) 
 
-	
 	Segundo reto
 	``` 
 	    #include<stdio.h>
@@ -5467,9 +5132,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [982004](https://platzi.com/comentario/982004/) 
 
-	
 	Primer Reto
 	``` 
 	    #include<stdio.h>
@@ -5493,9 +5157,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979244](https://platzi.com/comentario/979244/) 
 
-	
 	Conversor de Temperatura de Fahrenheit a Celsius:
 	``` 
 	    #include<stdio.h>
@@ -5522,9 +5185,8 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979227](https://platzi.com/comentario/979227/) 
 
-	
 	Cálculo del volumen del cilindro:
 	``` 
 	    #include<stdio.h>
@@ -5557,23 +5219,23 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **MarianaGb** (1)
-![OPERADORES2.png](https://static.platzi.com/media/user_upload/OPERADORES2-3822c6cc-edf7-4d08-9f1f-9e263fd305ee.jpg)
-
-* **MarianaGb** (1)
-![operadores1.png](https://static.platzi.com/media/user_upload/operadores1-423a8f91-0d84-4eee-8641-b16cacd5f196.jpg)
-
-* **juancamiloruiznieto** (1)
-
+* **MarianaGb** (1) [978202](https://platzi.com/comentario/978202/) 
 	
+	![OPERADORES2.png](https://static.platzi.com/media/user_upload/OPERADORES2-3822c6cc-edf7-4d08-9f1f-9e263fd305ee.jpg)
+
+* **MarianaGb** (1) [977779](https://platzi.com/comentario/977779/) 
+	
+	![operadores1.png](https://static.platzi.com/media/user_upload/operadores1-423a8f91-0d84-4eee-8641-b16cacd5f196.jpg)
+
+* **juancamiloruiznieto** (1) [977675](https://platzi.com/comentario/977675/) 
+
 	Temperatura  
 	![Captura de pantalla 2020-02-10 a la\(s\) 4.15.28 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-10%20a%20la%28s%29%204.15.28%20p.%20m.-f5fbdba4-9314-4524-9146-ddd4679832a9.jpg)
 	
 	![Captura de pantalla 2020-02-10 a la\(s\) 4.15.18 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-10%20a%20la%28s%29%204.15.18%20p.%20m.-7bf86c1b-3068-44e8-b287-09f8fbd576ce.jpg)
 
-* **wilantury** (1)
+* **wilantury** (1) [977346](https://platzi.com/comentario/977346/) 
 
-	
 	Solución: conversor temperaturas:
 	``` 
 	    #include<stdio.h>
@@ -5596,44 +5258,41 @@ Operadores aritméticos: los tipicos que usamos en la escuela para realizar oper
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [82206](https://platzi.com/comentario/1000256/) 
 #include <stdio.h> #include <stdlib.h> int main() { float f; float c; printf("Con este programa podrás r...
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [81213](https://platzi.com/comentario/976357/) 
 Hola una pregunta, estoy usando codeblocks en Mac pero de repente se cierra y sale un error me toca estar guardando continuamente si no p...
 
-	* **ANGEL EFRAIN ORDOÑEZ GONZALEZ** (1)
+	* **ANGEL EFRAIN ORDOÑEZ GONZALEZ** [81213] (1)
 
-		
 		Hola Juan, yo también tuve problemas con codeblocks, te recomiendo usar <https://repl.it/> para que puedas seguir los ejercicios sin instalar codeblocks. Saludos.
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [78260](https://platzi.com/comentario/917965/) 
 ¿Por qué al usar los parentesis float result = (fTemperature - 32) * (5 / 9); de esa manera no funciona y si de la siguiente float result...
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [78260] (2)
 
-		
 		Hola Wilson 😃  
 		Eso es raro, ¿qué resultado obtienes?
 
-* **rogerparada** (1)
+* **rogerparada** (1) [74664](https://platzi.com/comentario/856858/) 
 primer reto: ![](
 
-* **Alfredo Godinez** (1)
+* **Alfredo Godinez** (1) [74606](https://platzi.com/comentario/856135/) 
 Aqui mi codigo probado del primer reto Calcular el Volumen de un clindro: `#include <stdio.h> #include <stdlib.h> int main() ...
 
-* **Javier Rodolfo** (1)
+* **Javier Rodolfo** (1) [73560](https://platzi.com/comentario/837202/) 
 #include <stdio.h> #include <stdlib.h> int main() { int radio; int altura; float area; float volumen; double pi=3.1416; print...
 
-* **Javier Rodolfo** (1)
+* **Javier Rodolfo** (1) [73559](https://platzi.com/comentario/837200/) 
 #include <stdio.h> #include <stdlib.h> int main() { int gf; int gcel; printf(“Hola! Vamos a transformar grados Fahrenheit a C...
 
-* **Reymundo Fernando Figueroa Romo** (1)
+* **Reymundo Fernando Figueroa Romo** (1) [51946](https://platzi.com/comentario/497905/) 
 hola disculpen alguien me podria decir cual es el error en el siguiente codigo lo que pasa es que despues de compilar y correr el program...
 
-	* **Danelia Sanchez Sanchez** (6)
+	* **Danelia Sanchez Sanchez** [51946] (6)
 
-		
 		Hola @reymundo.figueroa, en las instrucciones `scanf` olvidaste colocar el caracter `&`:
 		``` 
 		    scanf("%i", &radio);
@@ -5644,22 +5303,23 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 		
 		y otra cosa que observo es que primero calculas el volumen (el radio y la altura son desconocidos) y, después, introduces los datos que se utilizan para ello, lo cual arrojará resultados erróneos. En C, la ejecución de los programas es secuencial. Primero, solicita los valores y luego calculas el volumen. Saludos.
 
-* **Brando Javier Caiza Freire** (0)
-![Ad.png](https://static.platzi.com/media/user_upload/Ad-045a27bd-6dab-4638-8220-b2c8b2f4b2d7.jpg)
+* **Brando Javier Caiza Freire** (0) [1092231](https://platzi.com/comentario/1092231/) 
+	
+	![Ad.png](https://static.platzi.com/media/user_upload/Ad-045a27bd-6dab-4638-8220-b2c8b2f4b2d7.jpg)
 
-* **Larry Perez** (0)
-![Fah.png](https://static.platzi.com/media/user_upload/Fah-48b10074-5b57-4acb-918a-04b87dace758.jpg)
+* **Larry Perez** (0) [1054737](https://platzi.com/comentario/1054737/) 
+	
+	![Fah.png](https://static.platzi.com/media/user_upload/Fah-48b10074-5b57-4acb-918a-04b87dace758.jpg)
 
-## 0060. Operadores de asignación, de incremento y decremento
+## 0060. Operadores de asignación, de incremento y decremento [16468](https://platzi.com/clases/1450-programacion-estructurada/16468-operadores-de-asignacion-de-incremento-y-decrement/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Mayo Prieto** (2)
+* **Mayo Prieto** (2) [997727](https://platzi.com/comentario/997727/) 
 
-	
 	La profe explica muy bien
 	``` 
 	    int main()
@@ -5678,7 +5338,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (2)
+* **Ivan Arturo Peña De Benito** (2) [960920](https://platzi.com/comentario/960920/) 
 
 	```
 	        printf("Primer reto \n");
@@ -5705,9 +5365,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1115423](https://platzi.com/comentario/1115423/) 
 
-	
 	RETO 2:
 	``` 
 	    #include<stdio.h>
@@ -5730,9 +5389,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1115422](https://platzi.com/comentario/1115422/) 
 
-	
 	RETO 1:
 	``` 
 	    #include<stdio.h>
@@ -5756,20 +5414,20 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 09-55-04.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2009-55-04-21e1a781-a58f-443b-88f1-a7c9b8399130.jpg)
-
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 09-54-59.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2009-54-59-9572b609-6a6e-442d-bcfa-681e998a2533.jpg)
-
-* **Onam Díaz-Castillo** (1)
-
+* **Angie Garcia** (1) [1113914](https://platzi.com/comentario/1113914/) 
 	
+	![Captura de pantalla de 2020-04-09 09-55-04.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2009-55-04-21e1a781-a58f-443b-88f1-a7c9b8399130.jpg)
+
+* **Angie Garcia** (1) [1113911](https://platzi.com/comentario/1113911/) 
+	
+	![Captura de pantalla de 2020-04-09 09-54-59.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2009-54-59-9572b609-6a6e-442d-bcfa-681e998a2533.jpg)
+
+* **Onam Díaz-Castillo** (1) [1110179](https://platzi.com/comentario/1110179/) 
+
 	Super!
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1107844](https://platzi.com/comentario/1107844/) 
 
-	
 	El reto 2 lo hice de 2 formas una con 2 variables y otra con solo 1
 	``` 
 	    int main()
@@ -5791,7 +5449,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1107817](https://platzi.com/comentario/1107817/) 
 
 	```
 	    int main()
@@ -5814,7 +5472,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1107808](https://platzi.com/comentario/1107808/) 
 
 	```
 	    int main()
@@ -5832,16 +5490,16 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **keila martinez** (1)
-![RETO 3.1.PNG](https://static.platzi.com/media/user_upload/RETO%203.1-2976d06f-eda9-4c5d-ad91-da71f058e008.jpg)
+* **keila martinez** (1) [1107468](https://platzi.com/comentario/1107468/) 
+	
+	![RETO 3.1.PNG](https://static.platzi.com/media/user_upload/RETO%203.1-2976d06f-eda9-4c5d-ad91-da71f058e008.jpg)
 	
 	pequeños errores de los que se aprenden lo ejecuto digito el numero y se bloqua, porque no estaba guardando la variable
 	
 	![RETO 3.2.PNG](https://static.platzi.com/media/user_upload/RETO%203.2-a8ec5ffc-e89e-4f3d-b703-8942bed17032.jpg)
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1096106](https://platzi.com/comentario/1096106/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -5883,8 +5541,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    }
 	    
 	    /**
-	    *   Standard formula to convert temperature
-	    *   Fahrenheit to Celsius
+	  *   Standard formula to convert temperature
+	  *   Fahrenheit to Celsius
 	    */
 	    doublefahrenheit_to_celsius(double fahrenheit_temp)
 	    {
@@ -5892,7 +5550,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    }
 	    
 	    /**
-	    *  Cylinder formula 2πr^2 + 2πrh
+	  *  Cylinder formula 2πr^2 + 2πrh
 	    */
 	    doublecylinder_area(double radius, double height)
 	    {
@@ -5903,9 +5561,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Ernesto Lázaro Guerrero** (1)
+* **Ernesto Lázaro Guerrero** (1) [1088233](https://platzi.com/comentario/1088233/) 
 
-	
 	Primer reto
 	
 	![Captura de Pantalla 2020-04-01 a la\(s\) 22.27.55.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2022.27.55-8f6bb02e-b5a8-4420-963f-ca3a68e41e8f.jpg)
@@ -5914,47 +5571,46 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	
 	![Captura de Pantalla 2020-04-01 a la\(s\) 22.43.49.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2022.43.49-efff5c90-f804-4de6-a28c-8f7277dc87d2.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1084875](https://platzi.com/comentario/1084875/) 
 
-	
 	(![practica operadores de asignacion.png](https://static.platzi.com/media/user_upload/practica%20operadores%20de%20asignacion-6a7c0674-d27d-43a5-a94e-50707fe52398.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1084860](https://platzi.com/comentario/1084860/) 
 
+	* Si ponemos el ++ antes de la variable value mantiene su valor inicial, si ponemos++ después decrementa.
 	
-	  * Si ponemos el ++ antes de la variable value mantiene su valor inicial, si ponemos++ después decrementa.
-	
-	  * Si ponemos el ++ antes o después y guardamos en printf value decrementa en ambos casos.
+	* Si ponemos el ++ antes o después y guardamos en printf value decrementa en ambos casos.
 	
 	
 	
 	
 	![](![PRACTICA RESUELTA DECREMENTOS.png](https://static.platzi.com/media/user_upload/PRACTICA%20RESUELTA%20DECREMENTOS-455932a3-6a24-4e74-9073-10524fda6dd7.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1084852](https://platzi.com/comentario/1084852/) 
 
+	* Si ponemos el ++ antes de la variable value mantiene su valor inicial, si ponemos++ después incrementa.
 	
-	  * Si ponemos el ++ antes de la variable value mantiene su valor inicial, si ponemos++ después incrementa.
-	
-	  * Si ponemos el ++ antes o después y guardamos en printf value incrementa en ambos casos.
+	* Si ponemos el ++ antes o después y guardamos en printf value incrementa en ambos casos.
 	
 	
 	
 	
 	![](![PRACTICA RESUELTA INCREMENTOS.png](https://static.platzi.com/media/user_upload/PRACTICA%20RESUELTA%20INCREMENTOS-069f2853-9cc2-4212-9672-3b74150ef9bb.jpg)
 
-* **Edison Renato Valdez Vega** (1)
-![reto4.png](https://static.platzi.com/media/user_upload/reto4-7803e4a6-4844-497a-a40b-0dd47930f171.jpg)
-
-* **JobForero** (1)
-![Screenshot_1_.png](https://static.platzi.com/media/user_upload/Screenshot_1_-cb3caaa4-0869-4d3c-a4d8-5fe5aab7b492.jpg)
-
-* **JobForero** (1)
-![Screenshot_1_aumento.png](https://static.platzi.com/media/user_upload/Screenshot_1_aumento-17f5c042-0ace-488b-ad99-fba6fe6a64f4.jpg)
-
-* **luis angel muñoz gonzalez** (1)
-
+* **Edison Renato Valdez Vega** (1) [1077458](https://platzi.com/comentario/1077458/) 
 	
+	![reto4.png](https://static.platzi.com/media/user_upload/reto4-7803e4a6-4844-497a-a40b-0dd47930f171.jpg)
+
+* **JobForero** (1) [1075619](https://platzi.com/comentario/1075619/) 
+	
+	![Screenshot_1_.png](https://static.platzi.com/media/user_upload/Screenshot_1_-cb3caaa4-0869-4d3c-a4d8-5fe5aab7b492.jpg)
+
+* **JobForero** (1) [1075606](https://platzi.com/comentario/1075606/) 
+	
+	![Screenshot_1_aumento.png](https://static.platzi.com/media/user_upload/Screenshot_1_aumento-17f5c042-0ace-488b-ad99-fba6fe6a64f4.jpg)
+
+* **luis angel muñoz gonzalez** (1) [1068902](https://platzi.com/comentario/1068902/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -5999,9 +5655,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	
 	}
 
-* **luis angel muñoz gonzalez** (1)
+* **luis angel muñoz gonzalez** (1) [1068847](https://platzi.com/comentario/1068847/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -6023,7 +5678,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	
 	}
 
-* **Fabian Chavarria Navarro** (1)
+* **Fabian Chavarria Navarro** (1) [1064843](https://platzi.com/comentario/1064843/) 
 
 	```
 	    #include <stdio.h>
@@ -6055,12 +5710,11 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Juan Carlos García Flores** (1)
+* **Juan Carlos García Flores** (1) [1064378](https://platzi.com/comentario/1064378/) 
 
-	
 	![reto3.JPG](https://static.platzi.com/media/user_upload/reto3-bbf3dbcc-b92d-44c0-83dd-f808beeefbb4.jpg)![Valor asignado suma asi mismo.JPG](https://static.platzi.com/media/user_upload/Valor%20asignado%20suma%20asi%20mismo-813b4ad5-46e6-468a-8c36-e9e5160fae7b.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1063656](https://platzi.com/comentario/1063656/) 
 
 	```
 	    int x;
@@ -6071,7 +5725,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1062134](https://platzi.com/comentario/1062134/) 
 
 	```
 	    #include<stdio.h>
@@ -6095,7 +5749,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1061656](https://platzi.com/comentario/1061656/) 
 
 	```
 	    int x= 10;
@@ -6105,7 +5759,7 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1061650](https://platzi.com/comentario/1061650/) 
 
 	```
 	    int main(int argc, char *argv[]) {
@@ -6139,10 +5793,11 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto 2.PNG](https://static.platzi.com/media/user_upload/Reto%202-1e757c51-a59a-4805-9a2d-6338432d2db2.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1061336](https://platzi.com/comentario/1061336/) 
+	
+	![Reto 2.PNG](https://static.platzi.com/media/user_upload/Reto%202-1e757c51-a59a-4805-9a2d-6338432d2db2.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1059658](https://platzi.com/comentario/1059658/) 
 
 	```
 	    // Reto 1
@@ -6165,9 +5820,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059267](https://platzi.com/comentario/1059267/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -6184,9 +5838,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059253](https://platzi.com/comentario/1059253/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -6200,38 +5853,32 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1054906](https://platzi.com/comentario/1054906/) 
 
-	
 	Reto 2.![Reto2 video6.png](https://static.platzi.com/media/user_upload/Reto2%20video6-64e779c8-7259-4f17-b39c-a5c3a89a027e.jpg)
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1054904](https://platzi.com/comentario/1054904/) 
 
-	
 	Reto 1.![Reto1 video6.png](https://static.platzi.com/media/user_upload/Reto1%20video6-7ba145bf-c9f6-41c0-b6d3-1580f1006ba4.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1054040](https://platzi.com/comentario/1054040/) 
 
-	
 	Reto dos:
 	
 	(![reto 5.png](https://static.platzi.com/media/user_upload/reto%205-d0c35d9c-b913-4dc9-9185-467107a6bcf3.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1053974](https://platzi.com/comentario/1053974/) 
 
-	
 	Reto uno:
 	
 	![](![reto 4.png](https://static.platzi.com/media/user_upload/reto%204-9d98aecb-6c7a-4826-8ed0-3f426f4c3758.jpg)
 
-* **CarlosMoreno** (1)
+* **CarlosMoreno** (1) [1051649](https://platzi.com/comentario/1051649/) 
 
-	
 	Saludos Daniela. Por favor me puedes recordar como se buscan y cargan las librerías en codeblocks.
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1047500](https://platzi.com/comentario/1047500/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -6255,9 +5902,8 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1047498](https://platzi.com/comentario/1047498/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -6277,25 +5923,22 @@ hola disculpen alguien me podria decir cual es el error en el siguiente codigo l
 	    
 	```
 
-* **Juan Alberto López López** (1)
+* **Juan Alberto López López** (1) [1043689](https://platzi.com/comentario/1043689/) 
 
-	
 	Reto 1 y 2  
 	![](http://i.ibb.co/0Q8g9BT/Reto1-Asignacion.png)
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1042287](https://platzi.com/comentario/1042287/) 
 
-	
 	Reto 2: pregunta, porqué en la linea 15: incremento = operacion+1; no me funciona de la misma manera cuando la cambio por: incremento = operacion++; Estaré atenta a cualquier comentario… gracias!!
 	
 	![retoOpeAsigModu1.PNG](https://static.platzi.com/media/user_upload/retoOpeAsigModu1-56618045-366d-4c11-a1bd-eb5916423de7.jpg)
 
-	* **Fabrizio López** (2)
+	* **Fabrizio López** [1042287] (2)
 Porque el operador de incremento (++) puesto del lado derecho, primero asigna el. Amor y después lo incrementa en uno. Por ejemplo. Si tu valor "operación" es 5: `incremento = operacion + 1` Incremento tendra el valor de "5+1" que es 6. En cambio con la otra operación: `incremento = operacion++` Estaría asignando a incremento el valor "5"... Y después, operacion se incrementa en 1, significa que operador valdría 6,.
 
-	* **Juan Alberto López López** (2)
+	* **Juan Alberto López López** [1042287] (2)
 
-		
 		Espero sirva. Ejemplo con el numero 12 que usaste.
 		``` 
 		    // Primero realizar la suma (2+1) y despues asigna el resultado
@@ -6314,52 +5957,45 @@ Porque el operador de incremento (++) puesto del lado derecho, primero asigna el
 		    
 		```
 
-	* **Fabrizio López** (2)
+	* **Fabrizio López** [1042287] (2)
 Esto: `incremento = operacion++;` Sería equivalente a escribir esto: `incremento = operacion; operacion = operacion + 1;` En cambio esto: `incremento = ++operacion;` Sería equivalente a esto: `operacion = operacion + 1; incremento = operacion;` Prueba imprimiendo el resultado de operación en ambos casos para que notes la diferencia.
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [1042287] (1)
 
-		
 		Muchas gracias por sus comentario… ahora lo tengo más claro. Saludos!!
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1042196](https://platzi.com/comentario/1042196/) 
 
-	
 	Reto 1:  
 	![retoOperAsig.PNG](https://static.platzi.com/media/user_upload/retoOperAsig-5c32ec41-6cab-4fb6-a234-a194b99a31db.jpg)
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1041924](https://platzi.com/comentario/1041924/) 
 
-	
 	La única diferencia es que en value %=6; me da como resultado 12, no se cual esta en error, si la clase que da 0(cero) o el mio que da 12? a alguien mas le sucedió lo mismo? Gracias!!
 	
 	![operadoresAsig1.PNG](https://static.platzi.com/media/user_upload/operadoresAsig1-137f2374-9cda-4ed0-ba80-8cb56c82b756.jpg)
 
-	* **Fabrizio López** (1)
+	* **Fabrizio López** [1041924] (1)
 Te faltó imprimir el valor del resultado después de haber calculado el módulo "%=6"
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1030842](https://platzi.com/comentario/1030842/) 
 
-	
 	Retos cumplidos. Realize ambos en un solo programa ^^
 	
 	![Reto4y5.PNG](https://static.platzi.com/media/user_upload/Reto4y5-33dc6622-d3df-4348-9b6d-cdf375d80f7e.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1026945](https://platzi.com/comentario/1026945/) 
 
-	
 	Comparto mi segundo reto 😄  
 	![DivaUlloaClase6Reto2.png](https://static.platzi.com/media/user_upload/DivaUlloaClase6Reto2-2ff8b15a-a923-4e53-b034-a8a7b70bca83.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1026943](https://platzi.com/comentario/1026943/) 
 
-	
 	Comparto mi primer reto 😄  
 	![DivaUlloaClase6Reto1.png](https://static.platzi.com/media/user_upload/DivaUlloaClase6Reto1-818af64b-774d-4ea8-a14a-61970d2dfc85.jpg)
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024587](https://platzi.com/comentario/1024587/) 
 
-	
 	Reto 2 (Operadores de asignación):
 	``` 
 	    #include<stdio.h>
@@ -6388,9 +6024,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024562](https://platzi.com/comentario/1024562/) 
 
-	
 	Reto 1 (Operadores de asignación):
 	``` 
 	    #include<stdio.h>
@@ -6414,9 +6049,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024541](https://platzi.com/comentario/1024541/) 
 
-	
 	Operaciones de incremento y decremento (Ejercicio 2):
 	``` 
 	    #include <stdio.h>
@@ -6460,9 +6094,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024495](https://platzi.com/comentario/1024495/) 
 
-	
 	Operadores de asignación (Ejercicio 1):
 	``` 
 	    #include <stdio.h>
@@ -6505,9 +6138,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1018937](https://platzi.com/comentario/1018937/) 
 
-	
 	#include<stdio.h>
 	
 	int main(){
@@ -6526,9 +6158,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1018926](https://platzi.com/comentario/1018926/) 
 
-	
 	#include <stdio.h>
 	
 	int main()  
@@ -6545,10 +6176,11 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-dde9d474-b3b8-46d1-96f3-92e243b66910.jpg)
+* **jhonsoccer11** (1) [1011931](https://platzi.com/comentario/1011931/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-dde9d474-b3b8-46d1-96f3-92e243b66910.jpg)
 
-* **ignacioequiroga** (1)
+* **ignacioequiroga** (1) [1009350](https://platzi.com/comentario/1009350/) 
 
 	```
 	    #include<stdio.h>
@@ -6577,22 +6209,19 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1009139](https://platzi.com/comentario/1009139/) 
 
-	
 	Reto 2  
 	![reto2.PNG](https://static.platzi.com/media/user_upload/reto2-f2752e1e-38a8-4df0-92ca-2e4b030a6e7a.jpg)
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1009057](https://platzi.com/comentario/1009057/) 
 
-	
 	Reto 1
 	
 	![reto variable.PNG](https://static.platzi.com/media/user_upload/reto%20variable-ca0d9198-9dc4-421b-8033-9420fc24439f.jpg)
 
-* **Eliana Cuellar** (1)
+* **Eliana Cuellar** (1) [1006845](https://platzi.com/comentario/1006845/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -6612,9 +6241,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	return 0;  
 	}
 
-* **Eliana Cuellar** (1)
+* **Eliana Cuellar** (1) [1006821](https://platzi.com/comentario/1006821/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -6629,7 +6257,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	return 0;  
 	}
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1004001](https://platzi.com/comentario/1004001/) 
 
 	```
 	    #include<stdio.h>
@@ -6652,7 +6280,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1003925](https://platzi.com/comentario/1003925/) 
 
 	```
 	    #include<stdio.h>
@@ -6672,9 +6300,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-	* **jhonsoccer11** (1)
+	* **jhonsoccer11** [1003925] (1)
 
-		
 		Hola estuve revisando el reto 1 y según el ejercicio cuando el valor es 10 se debe sacar el doble de ese numero que es 30. Pero supongamos que cambio el valor a 50 entonces debe ser 150.
 		
 		x = 50;  
@@ -6686,9 +6313,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 		x += x*2  
 		Total = 150
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1002582](https://platzi.com/comentario/1002582/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -6713,9 +6339,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1002550](https://platzi.com/comentario/1002550/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -6735,19 +6360,17 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1001812](https://platzi.com/comentario/1001812/) 
 
-	
 	Reto #2  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-0ab6e194-80d6-4c85-9606-7a7dedb911f0.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1001802](https://platzi.com/comentario/1001802/) 
 
-	
 	Reto #1  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-f3d59974-2c3a-422f-8b4b-0e37ec17a4b2.jpg)
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1000933](https://platzi.com/comentario/1000933/) 
 
 	```
 	    <
@@ -6768,7 +6391,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1000910](https://platzi.com/comentario/1000910/) 
 
 	```
 	    <#include<stdio.h>
@@ -6785,9 +6408,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [999939](https://platzi.com/comentario/999939/) 
 
-	
 	RETO #2
 	``` 
 	    int x;
@@ -6803,9 +6425,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [999928](https://platzi.com/comentario/999928/) 
 
-	
 	Reto # 1
 	``` 
 	    int x = 10;
@@ -6817,9 +6438,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **alan valencia** (1)
+* **alan valencia** (1) [999739](https://platzi.com/comentario/999739/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -6847,9 +6467,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [997555](https://platzi.com/comentario/997555/) 
 
-	
 	int main()  
 	{  
 	printf(“Hello world, am very happy with this teacher!\n”);  
@@ -6862,7 +6481,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	return 0;  
 	}
 
-* **Erik Manuel Guevara Ladino** (1)
+* **Erik Manuel Guevara Ladino** (1) [997008](https://platzi.com/comentario/997008/) 
 
 	```
 	    #include<stdio.h>
@@ -6883,19 +6502,16 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [995617](https://platzi.com/comentario/995617/) 
 
-	
 	Reto #2 Cumplido![AsignaciosReto2.PNG](https://static.platzi.com/media/user_upload/AsignaciosReto2-d70de7df-cae7-4361-8a26-d3747d7f1677.jpg)
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [995614](https://platzi.com/comentario/995614/) 
 
-	
 	Reto #1 Cumplido ![AsignaciosReto1.PNG](https://static.platzi.com/media/user_upload/AsignaciosReto1-2afe3cb5-4163-4163-99fe-6c6b572013cb.jpg)
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [993814](https://platzi.com/comentario/993814/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -6937,21 +6553,18 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [989971](https://platzi.com/comentario/989971/) 
 
-	
 	reto 2  
 	![2020-02-17 10_58_24-_D__JuanD_Documents_vivi-soto_programacion estructurada_reto5_bin_Debug_reto5.ex.png](https://static.platzi.com/media/user_upload/2020-02-17%2010_58_24-_D__JuanD_Documents_vivi-soto_programacion%20estructurada_reto5_bin_Debug_reto5.ex-667d0cb4-b82e-497d-aeea-5f8f5a1c7afd.jpg)
 
-* **vivisoto** (1)
+* **vivisoto** (1) [989943](https://platzi.com/comentario/989943/) 
 
-	
 	reto1  
 	![2020-02-17 10_40_15-main.c \[reto4\] - Code__Blocks 17.12.png](https://static.platzi.com/media/user_upload/2020-02-17%2010_40_15-main.c%20%5Breto4%5D%20-%20Code__Blocks%2017.12-6b949589-bdb8-4df0-9d01-686b2c3b2d31.jpg)
 
-* **Pedro Alejandro Silva Perez** (1)
+* **Pedro Alejandro Silva Perez** (1) [988151](https://platzi.com/comentario/988151/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -6979,9 +6592,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [987652](https://platzi.com/comentario/987652/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -7006,9 +6618,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [987483](https://platzi.com/comentario/987483/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -7026,7 +6637,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [985427](https://platzi.com/comentario/985427/) 
 
 	```
 	    #include<stdio.h>
@@ -7043,9 +6654,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [983440](https://platzi.com/comentario/983440/) 
 
-	
 	\-------Reto Dos----
 	
 	#include <stdio.h>  
@@ -7068,9 +6678,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **boristrochez** (1)
+* **boristrochez** (1) [983416](https://platzi.com/comentario/983416/) 
 
-	
 	\----------------Reto Uno------------
 	
 	#include <stdio.h>  
@@ -7089,9 +6698,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979324](https://platzi.com/comentario/979324/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -7113,9 +6721,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979323](https://platzi.com/comentario/979323/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -7134,12 +6741,12 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **MarianaGb** (1)
-![ejm1.png](https://static.platzi.com/media/user_upload/ejm1-7e314619-57d0-4ebf-ad45-cd28a1e8d5d3.jpg)
-
-* **16angiec** (1)
-
+* **MarianaGb** (1) [978415](https://platzi.com/comentario/978415/) 
 	
+	![ejm1.png](https://static.platzi.com/media/user_upload/ejm1-7e314619-57d0-4ebf-ad45-cd28a1e8d5d3.jpg)
+
+* **16angiec** (1) [977581](https://platzi.com/comentario/977581/) 
+
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -7162,9 +6769,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [977543](https://platzi.com/comentario/977543/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -7182,9 +6788,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977416](https://platzi.com/comentario/977416/) 
 
-	
 	Reto 1:
 	``` 
 	    int main()
@@ -7199,9 +6804,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977415](https://platzi.com/comentario/977415/) 
 
-	
 	Reto 2:
 	``` 
 	    int main()
@@ -7218,9 +6822,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Erick Mancilla Sánchez** (1)
+* **Erick Mancilla Sánchez** (1) [976190](https://platzi.com/comentario/976190/) 
 
-	
 	Reto 2:
 	``` 
 	    `#include<stdio.h>
@@ -7245,9 +6848,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Erick Mancilla Sánchez** (1)
+* **Erick Mancilla Sánchez** (1) [976165](https://platzi.com/comentario/976165/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -7271,9 +6873,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Alejandra Fissore** (1)
+* **Alejandra Fissore** (1) [972832](https://platzi.com/comentario/972832/) 
 
-	
 	Reto 2:
 	``` 
 	    <int val_in;
@@ -7286,9 +6887,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Alejandra Fissore** (1)
+* **Alejandra Fissore** (1) [972831](https://platzi.com/comentario/972831/) 
 
-	
 	Reto 1:
 	``` 
 	    <int x = 10;
@@ -7301,9 +6901,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [969886](https://platzi.com/comentario/969886/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdlib.h>
@@ -7353,9 +6952,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	```
 	
 
-* **BotDrako** (1)
+* **BotDrako** (1) [968370](https://platzi.com/comentario/968370/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -7376,7 +6974,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	
 	}
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [964411](https://platzi.com/comentario/964411/) 
 
 	```
 	    #include <stdio.h>
@@ -7407,9 +7005,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [963416](https://platzi.com/comentario/963416/) 
 
-	
 	Reto de incremento.
 	``` 
 	    #include<stdio.h>
@@ -7435,9 +7032,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [963404](https://platzi.com/comentario/963404/) 
 
-	
 	Reto de asignación.
 	``` 
 	    #include<stdio.h>
@@ -7462,7 +7058,7 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [962587](https://platzi.com/comentario/962587/) 
 
 	```
 	    #include <stdio.h>
@@ -7491,9 +7087,8 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **JAVIER STIVEN MURILLO CORREA** (1)
+* **JAVIER STIVEN MURILLO CORREA** (1) [960890](https://platzi.com/comentario/960890/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -7518,41 +7113,37 @@ Te faltó imprimir el valor del resultado después de haber calculado el módulo
 	    
 	```
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [82642](https://platzi.com/comentario/1009553/) 
 La operación de modulo no puede realizarse con números flotantes?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [82642] (1)
 
-		
 		Aquí puedes ver la implementación de la operación de módulo para números flotantes en diferentes lenguajes de programación: <https://www.geeksforgeeks.org/modulus-two-float-double-numbers/>. 😉
 
-* **Reymundo Fernando Figueroa Romo** (1)
+* **Reymundo Fernando Figueroa Romo** (1) [51785](https://platzi.com/comentario/496111/) 
 que tal tengo la siguiente pregunta… al momento de que en la clase hace el ejemplo de los operadores de asignación note que el valor de v...
 
-	* **Juan Camilo Lezcano Benitez** (5)
+	* **Juan Camilo Lezcano Benitez** [51785] (5)
 
-		
 		Si quieres que el valor de una variable nunca cambie puedes declararlo como una constante con el comando const y quedaría de la siguiente forma:
 		``` 
 		    constintvalue;```
 		    
 		```
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [51077](https://platzi.com/comentario/487229/) 
 que aplicaciones podemos darle a res = value++ res = ++value
 
-	* **Juan Camilo Lezcano Benitez** (5)
+	* **Juan Camilo Lezcano Benitez** [51077] (5)
 
-		
 		Considero que es más común usar solo value++ sin asignarlo a otra variable y es usado por ejemplo en ciclos for y while para controlar cuando se termina el ciclo.
 
-* **Alberto Salas** (0)
+* **Alberto Salas** (0) [976678](https://platzi.com/comentario/976678/) 
 
-	
 	Reto 2:  
 	![Untitled.jpg](https://static.platzi.com/media/user_upload/Untitled-29fae095-6b2d-43c5-80b0-d90189249c04.jpg)
 
-## 0070. Recapitulación Conceptos Básicos
+## 0070. Recapitulación Conceptos Básicos [16467](https://platzi.com/clases/1450-programacion-estructurada/16467-recapitulacion-conceptos-basicos/)
 
 ### Descripción:
 
@@ -7565,10 +7156,10 @@ Como lo hablamos en el curso un tipo de dato es una clasificación que el progra
 
 Los tipos de dato que vimos en el curso son:
 
-  * int - Números enteros. p/e 0, -50, 1234
-  * float - Números decimales. p/e -0.45, 12.5, 3.1416
-  * char - Caracteres. p/e ‘C’ ‘a’ ‘z’
-  * bool - Valor lógica binaria. p/e true y false
+* int - Números enteros. p/e 0, -50, 1234
+* float - Números decimales. p/e -0.45, 12.5, 3.1416
+* char - Caracteres. p/e ‘C’ ‘a’ ‘z’
+* bool - Valor lógica binaria. p/e true y false
 
 
 
@@ -7587,21 +7178,21 @@ Para inicializar una variable nosotros usamos un operador de asignación, este e
 
 Otros operadores de asignación pueden ser:
 
-  * +=
-  * -=
-  * *=
-  * /=
-  * %=
+* +=
+* -=
+* *=
+* /=
+* %=
 
 
 
 Que como vimos en el curso, teniendo en cuenta una variable a, son una versión abreviada de:
 
-  * a += 3 ------ a = a + 3
-  * a -= 3 ------ a = a - 3
-  * a *= 3 ------ a = a * 3
-  * a /= 3 ------ a = a / 3
-  * a %= 3 ------ a = a % 3
+* a += 3 ------ a = a + 3
+* a -= 3 ------ a = a - 3
+* a *= 3 ------ a = a * 3
+* a /= 3 ------ a = a / 3
+* a %= 3 ------ a = a % 3
 
 
 
@@ -7609,11 +7200,11 @@ Estos operadores nos sirven para abreviar una operación y asignar el valor dent
 
 Otros operadores que podemos utilizar son los operadores numéricos, estos son:
 
-  * (+) Suma
-  * (-) Resta
-  * (*) Multiplicación
-  * (/) División
-  * (%) Módulo
+* (+) Suma
+* (-) Resta
+* (*) Multiplicación
+* (/) División
+* (%) Módulo
 
 
 
@@ -7624,24 +7215,20 @@ Estos son los conceptos básicos que vimos en el curso, espero que estes aprendi
 
 ### Comentarios:
 
-* **rrbyte** (3)
+* **rrbyte** (3) [496394](https://platzi.com/comentario/496394/) 
 
-	
 	a copiar esto en mi cuaderno de apuntes para fortalecer los conocimientos.
 
-* **Emiliano Bisio** (3)
+* **Emiliano Bisio** (3) [469099](https://platzi.com/comentario/469099/) 
 
-	
 	Muy buen resumen sobre algunos conceptos básicos. A seguir aprendiendo!! 💪
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1042318](https://platzi.com/comentario/1042318/) 
 
-	
 	Gracias!! eres una gran tutora… admiro tu trabajo, entendí cosas que no había entendido en la universidad, mil gracias!!
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1042313](https://platzi.com/comentario/1042313/) 
 
-	
 	Operadores de asignación:  
 	+= : a+=5 esto es igual a a=a+5  
 	-= : a-=5 esto es igual a a=a-5  
@@ -7652,19 +7239,16 @@ Estos son los conceptos básicos que vimos en el curso, espero que estes aprendi
 	a++ : es igual a a=a+1; cuando queremos incrementar en uno o sumarle uno a un valor  
 	a-- : es igual a a=a-1; cuando queremos decrementar o restarle uno a un valor
 
-* **José Javier Cueto Mejía** (2)
+* **José Javier Cueto Mejía** (2) [1040223](https://platzi.com/comentario/1040223/) 
 
-	
 	Resumido perfectamente 👍🏾
 
-* **GibsPM** (2)
+* **GibsPM** (2) [636467](https://platzi.com/comentario/636467/) 
 
-	
 	Vamos bien, vamos bien 😃
 
-* **gnscarlos** (2)
+* **gnscarlos** (2) [522232](https://platzi.com/comentario/522232/) 
 
-	
 	A mi me enseñaron que es mejor:  
 	int a = 0;  
 	int b = 0;  
@@ -7673,116 +7257,94 @@ Estos son los conceptos básicos que vimos en el curso, espero que estes aprendi
 	
 	Supuestamente es más organizado definir una variable por linea, y ademas colocarle un valor (cero), ya que si no lo hacemos almacena valores al azar que de todas maneras llenan la memoria y puede dar errores. No se si esté mal o bien este concepto.
 
-	* **ervic_alexis** (1)
+	* **ervic_alexis** [522232] (1)
 
-		
 		Me dejaste con la duda jajaj
 
-* **Harry Saenz Arias** (2)
+* **Harry Saenz Arias** (2) [486923](https://platzi.com/comentario/486923/) 
 
-	
 	Con este curso se pasaron los de Platzi. Y la maestra excelente! No me gusta comparar pero es la mejor hasta ahora.
 
-	* **gonzoblasco** (1)
+	* **gonzoblasco** [486923] (1)
 
-		
 		Buena, pero me saca que esté con la mirada que se le va al monitor a su derecha (nuestra izquierda) para leer cuál concepto sigue a continuación… No sé, siento que debería mirar un poco más a cámara al hablar…
 
-	* **Harry Saenz Arias** (2)
+	* **Harry Saenz Arias** [486923] (2)
 
-		
 		Yo le entiendo clarísimo
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1107917](https://platzi.com/comentario/1107917/) 
 
-	
 	Excelente de verdad un placer ver todo el conocimiento explicado de manera magistral!!
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1107488](https://platzi.com/comentario/1107488/) 
 
-	
 	el curso esta excelente y muy bien explicado
 
-* **Alejandro Monroy Avelino** (1)
+* **Alejandro Monroy Avelino** (1) [1100546](https://platzi.com/comentario/1100546/) 
 
-	
 	¿Qué operador se utiliza para elevar a una potencia? por ejemplo si quiero poner x al cuadrado
 
-	* **Antonio Jose Dos Ramos Lugo** (2)
+	* **Antonio Jose Dos Ramos Lugo** [1100546] (2)
 
-		
 		Puedes hacerlo con la funcion **_pow(numero, exponente);_**
 		
 		![rsul.png](https://static.platzi.com/media/user_upload/rsul-6688eb51-faa9-4a8a-9692-f6d80baa0b7f.jpg)
 
-* **Brando Javier Caiza Freire** (1)
+* **Brando Javier Caiza Freire** (1) [1093607](https://platzi.com/comentario/1093607/) 
 
-	
 	Claro. que si 😃
 
-* **tonyoz** (1)
+* **tonyoz** (1) [1091064](https://platzi.com/comentario/1091064/) 
 
-	
 	Excelente para adentrar en la programación, es muy similar a Java.
 
-* **Nikogarcia11** (1)
+* **Nikogarcia11** (1) [1078918](https://platzi.com/comentario/1078918/) 
 
-	
 	Bien explicado
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [1077465](https://platzi.com/comentario/1077465/) 
 
-	
 	excelente jamas había programado en C, ya era hora de aprender, thanks for this class!
 
-* **JobForero** (1)
+* **JobForero** (1) [1075638](https://platzi.com/comentario/1075638/) 
 
-	
 	Muy buen curso , todo muy bien explicado.
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [1070169](https://platzi.com/comentario/1070169/) 
 
-	
 	De verdad, estoy aprendiendo muchísimo. ¡Gracias!
 
-* **Juan Carlos García Flores** (1)
+* **Juan Carlos García Flores** (1) [1068709](https://platzi.com/comentario/1068709/) 
 
-	
 	Muy interesante el curso
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [1065004](https://platzi.com/comentario/1065004/) 
 
-	
 	Gracias.
 
-* **kalegria** (1)
+* **kalegria** (1) [1063659](https://platzi.com/comentario/1063659/) 
 
-	
 	muchas gracias!!
 
-* **Jesús Vicuña** (1)
+* **Jesús Vicuña** (1) [1062992](https://platzi.com/comentario/1062992/) 
 
-	
 	Gracias por el resumen 😉
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059273](https://platzi.com/comentario/1059273/) 
 
-	
 	Buen resumen
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1054918](https://platzi.com/comentario/1054918/) 
 
-	
 	Excelente!
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1047514](https://platzi.com/comentario/1047514/) 
 
-	
 	Excelente explicación, muchas gracias!
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1042315](https://platzi.com/comentario/1042315/) 
 
-	
 	Operadores aritmeticos  
 	(+) = Suma  
 	(-) = Resta  
@@ -7790,307 +7352,249 @@ Estos son los conceptos básicos que vimos en el curso, espero que estes aprendi
 	(/)= División  
 	(%)= Modulo, es el residuo de una división ej: 2%5=1 porque 5/2=2 y nos sobra 1 este es el modulo
 
-* **Gabogoonies** (1)
+* **Gabogoonies** (1) [1041643](https://platzi.com/comentario/1041643/) 
 
-	
 	Grande Profe.
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1030851](https://platzi.com/comentario/1030851/) 
 
-	
 	Buen Resumen. 😉
 
-* **iherney** (1)
+* **iherney** (1) [1025951](https://platzi.com/comentario/1025951/) 
 
-	
 	Buen en inicio
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024590](https://platzi.com/comentario/1024590/) 
 
-	
 	Me ha parecido muy genial el curso, he podido desarrollar los retos de manera exitosa, a ratos como que me demoro un poco porque no me funciona, pero luego ya logro encontrar la solución y se siente de maravilla jajajaja que dicha tengo de estar aprendiendo con Platzi.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1024590] (1)
 
-		
 		¡Qué genial tus ánimos, Ricardo!  
 		Aprender en Platz está súper genial 😄  
 		Recuerda que siempre nos puedes dejar un mail en [team@platzi.com](mailto:team@platzi.com) para ayudarte con tu ruta 😄
 
-* **GadielWisar** (1)
+* **GadielWisar** (1) [1018203](https://platzi.com/comentario/1018203/) 
 
-	
 	Excelente explicación maestra!
 
-* **jonathan-cordoba68** (1)
+* **jonathan-cordoba68** (1) [1016585](https://platzi.com/comentario/1016585/) 
 
-	
 	Exelente material esplicas muy bien
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1014362](https://platzi.com/comentario/1014362/) 
 
-	
 	Un excelente resumen para reordenar ideas y complementar apuntes.
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1013063](https://platzi.com/comentario/1013063/) 
 
-	
 	Buen resumen!
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1011936](https://platzi.com/comentario/1011936/) 
 
-	
 	Muchas gracias , enserio estoy aprendiendo mucho. Explica muy bien Daniela
 
-* **Fabio Leonardo Fuentes Melendez** (1)
+* **Fabio Leonardo Fuentes Melendez** (1) [1010712](https://platzi.com/comentario/1010712/) 
 
-	
 	Gracias por este refuerzo!!
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1009559](https://platzi.com/comentario/1009559/) 
 
-	
 	Todo ha estado muy claro !!
 	
 	Muchas gracias!
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1001816](https://platzi.com/comentario/1001816/) 
 
-	
 	Excelentes explicaciones, para las personas que ingresan al mundo de la programación, hace que todo tenga más claridad.
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [1000170](https://platzi.com/comentario/1000170/) 
 
-	
 	si , realmente estoy aprendiendo y poco a poco , llevando a la practica esto GRACIAS Profe. Gracias PLATZI
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [997745](https://platzi.com/comentario/997745/) 
 
-	
 	Entendido todo hasta ahora.
 
-* **Erik Manuel Guevara Ladino** (1)
+* **Erik Manuel Guevara Ladino** (1) [997021](https://platzi.com/comentario/997021/) 
 
-	
 	Entendido @DanielaCoyotzi se explica bien y se toma su tiempo eso es bueno.
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [996192](https://platzi.com/comentario/996192/) 
 
-	
 	Esta Perfecto El Resumen Queda Claro El Tema De Las Clases Anteriores
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [993803](https://platzi.com/comentario/993803/) 
 
-	
 	Los conceptos los tengo claros pero en ocasiones me confundo cuando lo llevo a código.
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [985766](https://platzi.com/comentario/985766/) 
 Importante la definición de Modulo. Para su aplicación... Se tiene presente el Residuo.
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [985442](https://platzi.com/comentario/985442/) 
 
-	
 	Hasta el momento todo bastante claro
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [979908](https://platzi.com/comentario/979908/) 
 
-	
 	bueno ese ejemplo de inicialiciar y declarar variables!
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979332](https://platzi.com/comentario/979332/) 
 
-	
 	Un buen resumen de las clases anteriores.
 
-* **MarianaGb** (1)
+* **MarianaGb** (1) [978428](https://platzi.com/comentario/978428/) 
 
-	
 	Gracias.
 
-* **wilantury** (1)
+* **wilantury** (1) [977425](https://platzi.com/comentario/977425/) 
 
-	
 	I get it.
 
-* **Erick Mancilla Sánchez** (1)
+* **Erick Mancilla Sánchez** (1) [976222](https://platzi.com/comentario/976222/) 
 
-	
 	Excelente!
 
-* **Camilo Hernández** (1)
+* **Camilo Hernández** (1) [975522](https://platzi.com/comentario/975522/) 
 
-	
 	Genial.
 
-* **Alejandra Fissore** (1)
+* **Alejandra Fissore** (1) [975256](https://platzi.com/comentario/975256/) 
 
-	
 	Buenísimo el resumen!  
 	Gracias
 
-* **BotDrako** (1)
+* **BotDrako** (1) [968418](https://platzi.com/comentario/968418/) 
 
-	
 	Queda super claro el tema 😃
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [962594](https://platzi.com/comentario/962594/) 
 
-	
 	Buenos apuntes.
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [960923](https://platzi.com/comentario/960923/) 
 
-	
 	Gracias!
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [952976](https://platzi.com/comentario/952976/) 
 
-	
 	😃
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [945307](https://platzi.com/comentario/945307/) 
 
-	
 	Muy Buena clase
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943527](https://platzi.com/comentario/943527/) 
 
-	
 	dos puntos por terminar de leer :v
 
-* **arielr85** (1)
+* **arielr85** (1) [941906](https://platzi.com/comentario/941906/) 
 
-	
 	Gracias … seguimos aprendiendo …
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [933198](https://platzi.com/comentario/933198/) 
 
-	
 	Genial!! vamos super
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [880339](https://platzi.com/comentario/880339/) 
 
-	
 	Buen repaso del curso de programación básica… sin embargo soy usuario de mac y considero que deben dar alternativas de los IDE, para esto utilicé Sublime Text
 
-	* **Miguel Torres** (1)
+	* **Miguel Torres** [880339] (1)
 
-		
 		Code::Blocks tiene una versión para Mac Os X. Es algo vieja de 2013, ¿te funcionó?
 
-	* **Henry Gutierrez Mora** (1)
+	* **Henry Gutierrez Mora** [880339] (1)
 
-		
 		Gracias migueltorresio, no me funciono, a lo mejor por la versipon del iOS Catalina…
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [880339] (1)
 
-		
 		¡Hola, Henry!  
 		Me pasa igual pues tengo MacOs Catalina. Para poder seguir el curso estoy usando esta herramienta online 😄
 		
 		👉🏾 <https://www.onlinegdb.com/online_c_compiler>
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [868256](https://platzi.com/comentario/868256/) 
 
-	
 	Muy buen inicio!
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [864751](https://platzi.com/comentario/864751/) 
 
-	
 	C++ otra vez nos volvemos a ver :,v
 
-	* **Juan Cruz Stakys** (1)
+	* **Juan Cruz Stakys** [864751] (1)
 
-		
 		Esto es C, según tengo entendido xD
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [837314](https://platzi.com/comentario/837314/) 
 
-	
 	Buenisimo
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [828715](https://platzi.com/comentario/828715/) 
 
-	
 	Yo como ya he estudiado lo básico de la programación me pareció muy engorroso tener que ver todo el curso completo entonces presenté el examen para ver qué tal estaba en cuanto a conocimientos y saqué 8,21 acerté 23 preguntas pero fallé en 5 y fueron sobre condicionales más que todo. Ya sé lo que debo repasar
 
-	* **Cristian Andrés Córdova Valencia** (2)
+	* **Cristian Andrés Córdova Valencia** [828715] (2)
 
-		
 		Hicimos exactamente lo mismo por lo que veo jajaja
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [814212](https://platzi.com/comentario/814212/) 
 
-	
 	Muy buen curso
 
-* **Carlos Alberto Villalobos Toro** (1)
+* **Carlos Alberto Villalobos Toro** (1) [813399](https://platzi.com/comentario/813399/) 
 
-	
 	Que buen curso 👌🏼
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [803689](https://platzi.com/comentario/803689/) 
 
-	
 	No lograba comprender los conceptos de tipos de dato y variable. Realice este pequeño resumen para entenderlos (por favor denme feedback).  
 	//  
 	**Los tipos de dato** representan diferentes tipos de información que puede ser almacenada, la forma en que almacenamos esta información es gracias a las **variables** que nos ayudan reservar un espacio en memoria, definido por un tipo de dato y un nombre asignado.
 
-	* **freddymm** (2)
+	* **freddymm** [803689] (2)
 
-		
 		No te des mala vida por caletrear los conceptos, trata de simplificar las cosas solo ve los datos como la información que necesitas guardar, esta tiene ciertas características y mira las variables como la caja donde se guarda esa información, y ya. Es como si pensaras en donde guardar tus zapatos, evidentemente no los vas a guardar donde pones las ollas, si no que vas a tu closet y los pones ahí
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [767077](https://platzi.com/comentario/767077/) 
 
-	
 	excelente curso
 
-* **snowy** (1)
+* **snowy** (1) [766597](https://platzi.com/comentario/766597/) 
 
-	
 	muy buen resumen
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [759419](https://platzi.com/comentario/759419/) 
 
-	
 	buena recapitulación!
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [758994](https://platzi.com/comentario/758994/) 
 
-	
 	Excelentes clases!
 
-* **Fernando Jesús Paredes Rios** (1)
+* **Fernando Jesús Paredes Rios** (1) [749632](https://platzi.com/comentario/749632/) 
 
-	
 	Hasta el momento he aprendido bastante, seguiré con emoción el resto del curso, muchas gracias!!
 
-* **vmartineznet** (1)
+* **vmartineznet** (1) [719169](https://platzi.com/comentario/719169/) 
 
-	
 	Muy útil tener este resumen de todo lo visto hasta el momento. ¡Gracias!
 
-* **mvr92** (1)
+* **mvr92** (1) [705263](https://platzi.com/comentario/705263/) 
 
-	
 	Buen resumen tutora gracias.
 
-* **ale_lossi_** (1)
+* **ale_lossi_** (1) [697011](https://platzi.com/comentario/697011/) 
 
-	
 	Considero que al terminar de ver cierta sección es bueno recapitular lo que estamos aprendiendo porque así no dejamos de aprender.
 
-* **José Padrón** (1)
+* **José Padrón** (1) [696760](https://platzi.com/comentario/696760/) 
 
-	
 	Buen Resumen.
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [686604](https://platzi.com/comentario/686604/) 
 
-	
 	RESUMEN de la intro;
 	
 	Declarar una variable… int Mi_variable;  
@@ -8112,25 +7616,21 @@ Importante la definición de Modulo. Para su aplicación... Se tiene presente el
 	## Operadores de Incremento y decremento.  
 	++
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [684809](https://platzi.com/comentario/684809/) 
 
-	
 	Muchas gracias por el resumen!!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [674770](https://platzi.com/comentario/674770/) 
 
-	
 	Todo en orden, listo para seguir.😎💚
 
-* **Wilson Perez** (1)
+* **Wilson Perez** (1) [667701](https://platzi.com/comentario/667701/) 
 
-	
 	Por si quieren seguir practican los CONCEPTOS BASICOS, acá les dejo un ejercicio interesante. Escriba un programa que introduzca un numero de 5 digitos, que separe el numero en sus digitos individuales y que despliegue los digitos separados entre si mediante tres espacios cada uno. Lo esperado es mas o menos asi:  
 	![](https://i.imgur.com/IwRIwEn.jpg)
 
-	* **luisrovez** (2)
+	* **luisrovez** [667701] (2)
 
-		
 		Muy buena, recuerdo que ese ejercicio me lo dejaron cuanto estudiaba en la secundaria y nunca lo hice, hasta hoy xd
 		``` 
 		    intmain()
@@ -8152,85 +7652,70 @@ Importante la definición de Modulo. Para su aplicación... Se tiene presente el
 		    
 		```
 
-* **Eduardo Antonio Rivero Rivera** (1)
+* **Eduardo Antonio Rivero Rivera** (1) [664394](https://platzi.com/comentario/664394/) 
 
-	
 	Excelente vamos por mas!
 
-* **Walter Salas** (1)
+* **Walter Salas** (1) [618644](https://platzi.com/comentario/618644/) 
 
-	
 	Excelente info!
 
-* **Jimmy Dominguez** (1)
+* **Jimmy Dominguez** (1) [617725](https://platzi.com/comentario/617725/) 
 
-	
 	Excelente información muy acorde con los ejemplos.
 
-* **Duvan Carvajal** (1)
+* **Duvan Carvajal** (1) [597383](https://platzi.com/comentario/597383/) 
 
-	
 	Estoy realmente emocionado de estar aprendiendo a programar en un lenguaje tan popular como C. Hasta ahora el curso me ha parecido fabuloso.
 
-* **JuanC21Vinueza** (1)
+* **JuanC21Vinueza** (1) [590321](https://platzi.com/comentario/590321/) 
 
-	
 	A seguir aprendiendo, muy buen profesora explica super bien!!!
 
-* **Pablo Octavio Camarena Arellano** (1)
+* **Pablo Octavio Camarena Arellano** (1) [584841](https://platzi.com/comentario/584841/) 
 
-	
 	 ** _ ** **Gracias por el resumen de está primera parte introductoria. Excelente trabajo de la profesora y del contenido que brinda.****_**
 
-* **AndresGena** (1)
+* **AndresGena** (1) [584337](https://platzi.com/comentario/584337/) 
 
-	
 	Gracias enserio, con estas clases por fin pude despejar muchas dudas que tenia sobre operadores de asignación.
 
-* **kikeHD** (1)
+* **kikeHD** (1) [567377](https://platzi.com/comentario/567377/) 
 
-	
 	listo anotado en mi cuaderno de apuntes.
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [566545](https://platzi.com/comentario/566545/) 
 
-	
 	Muy buena la recapitulación. Sigamos aprendiendo!
 
-* **samscode** (1)
+* **samscode** (1) [566101](https://platzi.com/comentario/566101/) 
 
-	
 	Buen repaso de los conceptos básicos, gracias.
 
-* **Marcelo Sebastián Núñez Arenas** (1)
+* **Marcelo Sebastián Núñez Arenas** (1) [537959](https://platzi.com/comentario/537959/) 
 
-	
 	Esto esta genial!!  
 	A por mas.
 
-* **Octavio Parra Tovar** (1)
+* **Octavio Parra Tovar** (1) [522830](https://platzi.com/comentario/522830/) 
 
-	
 	ESTUBO MUY BIEN EXPLICADO Y GRACIAS POR COMPARTIR TUS CONOCIMIENTOS
 
-* **irwinmax** (1)
+* **irwinmax** (1) [511212](https://platzi.com/comentario/511212/) 
 
-	
 	Gracias, a seguir con el curso.
 
-* **Alenri** (1)
+* **Alenri** (1) [479447](https://platzi.com/comentario/479447/) 
 
-	
 	Muchas gracias
 
-* **Mauricio Hernández** (1)
+* **Mauricio Hernández** (1) [478592](https://platzi.com/comentario/478592/) 
 
-	
 	Excelente recapitulación! A seguirle! 😄
 
-# Control de flujo
+# Control de flujo [3257]
 
-## 0080. Condicional if e if - else
+## 0080. Condicional if e if - else [16469](https://platzi.com/clases/1450-programacion-estructurada/16469-condicionales-if/)
 
 ### Descripción:
 
@@ -8251,18 +7736,16 @@ Ejemplo:
 
 ### Comentarios:
 
-* **roberto vargas castro** (2)
+* **roberto vargas castro** (2) [63238](https://platzi.com/comentario/654142/) 
 Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [63238] (1)
 
-		
 		No, no son anidados porque no esta uno dentro de otros.  
 		Solo son instrucciones aisladas que van en secuencia.
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1115829](https://platzi.com/comentario/1115829/) 
 
-	
 	Reto superado 😄
 	``` 
 	    #include<stdio.h>
@@ -8292,7 +7775,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [1114331](https://platzi.com/comentario/1114331/) 
 
 	```
 	    #include<stdio.h>
@@ -8334,22 +7817,22 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 11-44-28.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2011-44-28-b2cf7bae-23a3-4769-98b4-c2c1c12d8f0a.jpg)
-
-* **LauraMoya15** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-798276b4-ce32-461f-aa72-356349fc9577.jpg)
-
-* **keila martinez** (1)
-
+* **Angie Garcia** (1) [1114321](https://platzi.com/comentario/1114321/) 
 	
+	![Captura de pantalla de 2020-04-09 11-44-28.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2011-44-28-b2cf7bae-23a3-4769-98b4-c2c1c12d8f0a.jpg)
+
+* **LauraMoya15** (1) [1112555](https://platzi.com/comentario/1112555/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-798276b4-ce32-461f-aa72-356349fc9577.jpg)
+
+* **keila martinez** (1) [1110546](https://platzi.com/comentario/1110546/) 
+
 	Reto condicionales
 	
 	![RETO4.PNG](https://static.platzi.com/media/user_upload/RETO4-e5254e89-f312-44fb-b903-e4cd62516448.jpg)
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1098694](https://platzi.com/comentario/1098694/) 
 
-	
 	Reto de condicionales. Adivinar el numero aleatorio entre 1 y 10
 	``` 
 	    #include<stdio.h>
@@ -8376,8 +7859,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    }
 	    
 	    /**
-	     * Generates an integer number between 1 to 10
-	     * @return int between 1 to 10
+	   * Generates an integer number between 1 to 10
+	   * @return int between 1 to 10
 	     */
 	    int random_number(intmin, intmax) {
 	        srand(time(0)); // Seed for random generator
@@ -8388,7 +7871,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **tonyoz** (1)
+* **tonyoz** (1) [1091140](https://platzi.com/comentario/1091140/) 
 
 	```
 	    int main()
@@ -8411,34 +7894,32 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1084968](https://platzi.com/comentario/1084968/) 
 
-	
 	Se tiene que usar los 3: (if, else if y if ), o (if y else) para que funcione, if y else if no corre.
 
-* **ckaltny** (1)
+* **ckaltny** (1) [1083503](https://platzi.com/comentario/1083503/) 
 
-	
 	![](ur![pantallazos condicional.jgp-1.jpg](https://static.platzi.com/media/user_upload/pantallazos%20condicional.jgp-1-02e6b8d6-a0f1-4b01-a118-b40706e91072.jpg)l)  
 	![](![pantallazos condicional.jgp-2.jpg](https://static.platzi.com/media/user_upload/pantallazos%20condicional.jgp-2-6b98b1de-c7a6-4922-b3bc-03847bfd0c84.jpg)
 
-* **ckaltny** (1)
+* **ckaltny** (1) [1083443](https://platzi.com/comentario/1083443/) 
 
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [1081262](https://platzi.com/comentario/1081262/) 
 
-	
 	![](![RetoIfElse.png](https://static.platzi.com/media/user_upload/RetoIfElse-8c685cf4-f5c6-456c-a6d5-506474c7c6a4.jpg)
 
-* **Juan Carlos García Flores** (1)
-![condicion con else.JPG](https://static.platzi.com/media/user_upload/condicion%20con%20else-ab84979e-aabd-42d0-8460-3cc30926a9cb.jpg)
-
-* **JobForero** (1)
-![Screenshot_1_.png](https://static.platzi.com/media/user_upload/Screenshot_1_-77af8c76-1698-4b89-8272-b2ee673460ba.jpg)
-
-* **luis angel muñoz gonzalez** (1)
-
+* **Juan Carlos García Flores** (1) [1078307](https://platzi.com/comentario/1078307/) 
 	
+	![condicion con else.JPG](https://static.platzi.com/media/user_upload/condicion%20con%20else-ab84979e-aabd-42d0-8460-3cc30926a9cb.jpg)
+
+* **JobForero** (1) [1076126](https://platzi.com/comentario/1076126/) 
+	
+	![Screenshot_1_.png](https://static.platzi.com/media/user_upload/Screenshot_1_-77af8c76-1698-4b89-8272-b2ee673460ba.jpg)
+
+* **luis angel muñoz gonzalez** (1) [1069114](https://platzi.com/comentario/1069114/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -8472,7 +7953,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **kalegria** (1)
+* **kalegria** (1) [1063683](https://platzi.com/comentario/1063683/) 
 
 	```
 	    int numero= 5;
@@ -8489,7 +7970,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1062837](https://platzi.com/comentario/1062837/) 
 
 	```
 	    #include<stdio.h>
@@ -8511,13 +7992,15 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
-![AdivinaElNumero.png](https://static.platzi.com/media/user_upload/AdivinaElNumero-d3d98900-02d3-47ba-8b35-860630438ba5.jpg)
+* **David Alejandro Mosquera Moreno** (1) [1061898](https://platzi.com/comentario/1061898/) 
+	
+	![AdivinaElNumero.png](https://static.platzi.com/media/user_upload/AdivinaElNumero-d3d98900-02d3-47ba-8b35-860630438ba5.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto Condicional.PNG](https://static.platzi.com/media/user_upload/Reto%20Condicional-8e2433de-4f89-4427-bd3d-8393857713cf.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1061678](https://platzi.com/comentario/1061678/) 
+	
+	![Reto Condicional.PNG](https://static.platzi.com/media/user_upload/Reto%20Condicional-8e2433de-4f89-4427-bd3d-8393857713cf.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1059716](https://platzi.com/comentario/1059716/) 
 
 	```
 	    //Reto
@@ -8534,9 +8017,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059336](https://platzi.com/comentario/1059336/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -8553,34 +8035,32 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1056380](https://platzi.com/comentario/1056380/) 
 
-	
 	Reto:  
 	![](![reto seis.1.png](https://static.platzi.com/media/user_upload/reto%20seis.1-74308eae-f973-4441-8b83-c070e594a59c.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1056379](https://platzi.com/comentario/1056379/) 
 
-	
 	Reto:  
 	![](![reto seis.png](https://static.platzi.com/media/user_upload/reto%20seis-0db3b12f-3da9-4204-8502-95dfa318e1be.jpg)
 
-* **Larry Perez** (1)
-![Video8.png](https://static.platzi.com/media/user_upload/Video8-7ea92ee7-6a19-4ce2-8ea4-37f1cf39e498.jpg)
-
-* **paola-diaz361** (1)
-
+* **Larry Perez** (1) [1055147](https://platzi.com/comentario/1055147/) 
 	
+	![Video8.png](https://static.platzi.com/media/user_upload/Video8-7ea92ee7-6a19-4ce2-8ea4-37f1cf39e498.jpg)
+
+* **paola-diaz361** (1) [1049148](https://platzi.com/comentario/1049148/) 
+
 	Reto: Me gustaría haber creado un ciclo que permitiera ingresar el numero incorrecto hasta que ingreses el correcto. Gracias, muy buena la clase… aprendo mucho
 	
 	![retoCondiIFelse1.PNG](https://static.platzi.com/media/user_upload/retoCondiIFelse1-92d80663-cc7c-4a79-b09e-f5b8e6d7c197.jpg)
 
-* **paola-diaz361** (1)
-![ejerCondiIF.PNG](https://static.platzi.com/media/user_upload/ejerCondiIF-cbf3baa0-2ea1-49ae-b5a8-0aedd108674b.jpg)
-
-* **SteffiG** (1)
-
+* **paola-diaz361** (1) [1049095](https://platzi.com/comentario/1049095/) 
 	
+	![ejerCondiIF.PNG](https://static.platzi.com/media/user_upload/ejerCondiIF-cbf3baa0-2ea1-49ae-b5a8-0aedd108674b.jpg)
+
+* **SteffiG** (1) [1047669](https://platzi.com/comentario/1047669/) 
+
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -8609,29 +8089,25 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Aaron Gonzalez (Platzi)** (1)
+* **Aaron Gonzalez (Platzi)** (1) [1039793](https://platzi.com/comentario/1039793/) 
 
-	
 	Si quieren algo online, les recomiendo usar  
 	[onlinegdb.com/online_c_compiler](http://onlinegdb.com/online_c_compiler)
 	
 	😄
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1032867](https://platzi.com/comentario/1032867/) 
 
-	
 	Reto completado!
 	
 	![Reto6.PNG](https://static.platzi.com/media/user_upload/Reto6-a6f14637-7fde-45bd-90ee-2ab918bb9e1b.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1027209](https://platzi.com/comentario/1027209/) 
 
-	
 	Aunque la plataforma tan sólo nos da la opción de participar como pregunta, a continuación les comparto mi solución al reto 😄 ![DivaUlloaClase8Reto1.png](https://static.platzi.com/media/user_upload/DivaUlloaClase8Reto1-bfa876d3-25e7-4271-b97a-e3ce41f947a6.jpg)
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024702](https://platzi.com/comentario/1024702/) 
 
-	
 	Reto cumplido 😃 !Que dicha¡ 😃 😃 😃
 	``` 
 	    #include<stdio.h>
@@ -8684,9 +8160,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024679](https://platzi.com/comentario/1024679/) 
 
-	
 	Ejercicio 2:
 	``` 
 	    #include<stdio.h>
@@ -8718,9 +8193,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024674](https://platzi.com/comentario/1024674/) 
 
-	
 	Ejercicio 1:
 	``` 
 	    #include<stdio.h>
@@ -8751,9 +8225,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1018982](https://platzi.com/comentario/1018982/) 
 
-	
 	#include<stdio.h>
 	
 	int main(){
@@ -8778,7 +8251,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1017634](https://platzi.com/comentario/1017634/) 
 
 	```
 	    #include<stdio.h>
@@ -8807,7 +8280,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1017526](https://platzi.com/comentario/1017526/) 
 
 	```
 	    #include<stdio.h>
@@ -8835,15 +8308,13 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1017327](https://platzi.com/comentario/1017327/) 
 
-	
 	reto de adivina el numero  
 	![reto_adv.PNG](https://static.platzi.com/media/user_upload/reto_adv-8c88434f-7e90-4605-958d-9e8e717f0334.jpg)
 
-* **Karmen Kastro** (1)
+* **Karmen Kastro** (1) [1016116](https://platzi.com/comentario/1016116/) 
 
-	
 	int main()
 	``` 
 	    {
@@ -8865,9 +8336,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1012723](https://platzi.com/comentario/1012723/) 
 
-	
 	Comparto mi solución al reto6
 	``` 
 	    #include<stdio.h>
@@ -8893,14 +8363,14 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-b8fc4ee9-a623-41d3-97a1-7feaa1f3d795.jpg)
+* **jhonsoccer11** (1) [1011944](https://platzi.com/comentario/1011944/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-b8fc4ee9-a623-41d3-97a1-7feaa1f3d795.jpg)
 	
 	Reto Cumplido !
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1002913](https://platzi.com/comentario/1002913/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -8924,7 +8394,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002237](https://platzi.com/comentario/1002237/) 
 
 	```
 	    int n = 4, valor;
@@ -8942,21 +8412,18 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1001920](https://platzi.com/comentario/1001920/) 
 
-	
 	Reto  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-33d35223-c560-4e45-93d6-4252e30b4a71.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1001916](https://platzi.com/comentario/1001916/) 
 
-	
 	Reto #1.  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-5f333ad8-d833-4e38-8cb6-f70ec3df1bd4.jpg)
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1001279](https://platzi.com/comentario/1001279/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -8989,15 +8456,14 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [1000182](https://platzi.com/comentario/1000182/) 
 
-	
 	PRIMER COMENTARIO JEJEJE  
 	O SUPER  
 	ahora entiendo el == “x”(por ejemplo) (igual igual ), con esto es como si se preguntara (el resultado actual en el programa es “X”?¡?¡?¡? , :-ha no ? , ok ----- una y otra vez , pero : ahora si es “x” , perfecto , ahora me dirigire hacia donde me lo indica . ( dice el programa )  
 	dejame tu corazon jejeje .
 
-* **Erik Manuel Guevara Ladino** (1)
+* **Erik Manuel Guevara Ladino** (1) [999963](https://platzi.com/comentario/999963/) 
 
 	```
 	    #include<stdio.h>
@@ -9027,9 +8493,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **alan valencia** (1)
+* **alan valencia** (1) [999759](https://platzi.com/comentario/999759/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	int main(){  
@@ -9044,9 +8509,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	return 0;  
 	}
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [999621](https://platzi.com/comentario/999621/) 
 
-	
 	Reto listo
 	``` 
 	    #include<stdio.h>
@@ -9079,9 +8543,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [999252](https://platzi.com/comentario/999252/) 
 
-	
 	//Reto !!!
 	
 	#include <stdio.h>  
@@ -9114,7 +8577,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [997848](https://platzi.com/comentario/997848/) 
 
 	```
 	    int main()
@@ -9137,9 +8600,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Jesus David Zaraza Toro** (1)
+* **Jesus David Zaraza Toro** (1) [997730](https://platzi.com/comentario/997730/) 
 
-	
 	var num = 8;  
 	var num1 = prompt(“Adivina que numero estoy pensando”)
 	
@@ -9149,14 +8611,12 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	alert (“Oh! eres malo”);  
 	}
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [996376](https://platzi.com/comentario/996376/) 
 
-	
 	Estuvo Un Poco Complejo De Entender Pero Lo Logre ![RetoIfElse1.PNG](https://static.platzi.com/media/user_upload/RetoIfElse1-83aa6e08-bb6e-4159-9eea-d01b64c05251.jpg)
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [995683](https://platzi.com/comentario/995683/) 
 
-	
 	Reto de Condicion If e If - Else
 	``` 
 	    #include<stdio.h>
@@ -9191,12 +8651,12 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (1)
-![adivina.png](https://static.platzi.com/media/user_upload/adivina-4085eb90-9788-4961-920d-aed6992b9fc2.jpg)
-
-* **vivisoto** (1)
-
+* **Leisy Karina Algarra Fernandez** (1) [995026](https://platzi.com/comentario/995026/) 
 	
+	![adivina.png](https://static.platzi.com/media/user_upload/adivina-4085eb90-9788-4961-920d-aed6992b9fc2.jpg)
+
+* **vivisoto** (1) [991883](https://platzi.com/comentario/991883/) 
+
 	reto 1  
 	![2020-02-18 09_14_17-_D__JuanD_Documents_vivi-soto_programacion estructurada_reto6_bin_Debug_reto6.ex.png](https://static.platzi.com/media/user_upload/2020-02-18%2009_14_17-_D__JuanD_Documents_vivi-soto_programacion%20estructurada_reto6_bin_Debug_reto6.ex-2fd01c0f-c35b-4215-b3f9-ffa08c587395.jpg)
 	
@@ -9228,9 +8688,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Pedro Alejandro Silva Perez** (1)
+* **Pedro Alejandro Silva Perez** (1) [991776](https://platzi.com/comentario/991776/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -9255,9 +8714,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [988941](https://platzi.com/comentario/988941/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -9285,7 +8743,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [987671](https://platzi.com/comentario/987671/) 
 
 	```
 	    #include<stdio.h>
@@ -9307,9 +8765,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    }
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986548](https://platzi.com/comentario/986548/) 
 
-	
 	Reto…
 	``` 
 	    #include<stdio.h>
@@ -9329,7 +8786,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [985506](https://platzi.com/comentario/985506/) 
 
 	```
 	    #include<stdio.h>
@@ -9354,9 +8811,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [983481](https://platzi.com/comentario/983481/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -9378,15 +8834,16 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **juancamiloruiznieto** (1)
-![Captura de pantalla 2020-02-12 a la\(s\) 8.02.51 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-12%20a%20la%28s%29%208.02.51%20p.%20m.-39537dd3-5bbb-44b9-8866-ff2ba831bbc1.jpg)
-
-* **MarianaGb** (1)
-![condicional.png](https://static.platzi.com/media/user_upload/condicional-62b56f20-3646-4edb-b0bc-6dab23240293.jpg)
-
-* **jmacalupur** (1)
-
+* **juancamiloruiznieto** (1) [982353](https://platzi.com/comentario/982353/) 
 	
+	![Captura de pantalla 2020-02-12 a la\(s\) 8.02.51 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-12%20a%20la%28s%29%208.02.51%20p.%20m.-39537dd3-5bbb-44b9-8866-ff2ba831bbc1.jpg)
+
+* **MarianaGb** (1) [980031](https://platzi.com/comentario/980031/) 
+	
+	![condicional.png](https://static.platzi.com/media/user_upload/condicional-62b56f20-3646-4edb-b0bc-6dab23240293.jpg)
+
+* **jmacalupur** (1) [979416](https://platzi.com/comentario/979416/) 
+
 	Solución del reto:
 	``` 
 	    #include<stdio.h>
@@ -9415,7 +8872,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [978071](https://platzi.com/comentario/978071/) 
 
 	```
 	    #include<stdio.h>
@@ -9441,9 +8898,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977468](https://platzi.com/comentario/977468/) 
 
-	
 	Reto 1:
 	``` 
 	    int main()
@@ -9463,9 +8919,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Alejandra Fissore** (1)
+* **Alejandra Fissore** (1) [975305](https://platzi.com/comentario/975305/) 
 
-	
 	Reto:
 	``` 
 	    <int varAdiv;
@@ -9487,9 +8942,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [969976](https://platzi.com/comentario/969976/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -9519,9 +8973,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **BotDrako** (1)
+* **BotDrako** (1) [969955](https://platzi.com/comentario/969955/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -9552,7 +9005,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [964558](https://platzi.com/comentario/964558/) 
 
 	```
 	    #include<stdio.h>
@@ -9581,9 +9034,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [963551](https://platzi.com/comentario/963551/) 
 
-	
 	Reto de condicionales!
 	``` 
 	    #include<stdio.h>
@@ -9607,7 +9059,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [962631](https://platzi.com/comentario/962631/) 
 
 	```
 	    #include<stdio.h>
@@ -9630,10 +9082,11 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![If else Imagen1.png](https://static.platzi.com/media/user_upload/If%20else%20Imagen1-7be96cfa-db03-4316-a2ba-d980da7b67a8.jpg)
+* **zayrasaavedrauribe** (1) [961698](https://platzi.com/comentario/961698/) 
+	
+	![If else Imagen1.png](https://static.platzi.com/media/user_upload/If%20else%20Imagen1-7be96cfa-db03-4316-a2ba-d980da7b67a8.jpg)
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [960958](https://platzi.com/comentario/960958/) 
 
 	```
 	    printf("Reto 1; Condicion if \n");
@@ -9654,7 +9107,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [954068](https://platzi.com/comentario/954068/) 
 
 	```
 	    #include<stdio.h>
@@ -9679,9 +9132,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Paola Rodríguez** (1)
+* **Paola Rodríguez** (1) [952129](https://platzi.com/comentario/952129/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -9706,9 +9158,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **andresargote** (1)
+* **andresargote** (1) [948174](https://platzi.com/comentario/948174/) 
 
-	
 	Reto solucionado
 	``` 
 	    int numero = 5;
@@ -9726,9 +9177,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [943644](https://platzi.com/comentario/943644/) 
 
-	
 	Reto Solucionado
 	``` 
 	    #include<iostream>
@@ -9753,9 +9203,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943565](https://platzi.com/comentario/943565/) 
 
-	
 	main  
 	{  
 	printf (“adivina el numero entre el 1 y 10 que estoy pensando!”);  
@@ -9770,14 +9219,12 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	}  
 	}
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943554](https://platzi.com/comentario/943554/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **arielr85** (1)
+* **arielr85** (1) [943251](https://platzi.com/comentario/943251/) 
 
-	
 	Reto
 	``` 
 	    <int main()
@@ -9803,9 +9250,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [936110](https://platzi.com/comentario/936110/) 
 
-	
 	**Reto:**
 	``` 
 	    #include<stdio.h>
@@ -9831,15 +9277,13 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [933425](https://platzi.com/comentario/933425/) 
 
-	
 	😄  
 	![challenge.jpg](https://static.platzi.com/media/user_upload/challenge-12047f16-c85e-420f-b805-09de0ea7d41a.jpg)
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [933258](https://platzi.com/comentario/933258/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -9870,7 +9314,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [921475](https://platzi.com/comentario/921475/) 
 
 	```
 	    #include<stdlib.h>
@@ -9894,9 +9338,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [920056](https://platzi.com/comentario/920056/) 
 
-	
 	**Reto cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -9930,9 +9373,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [912533](https://platzi.com/comentario/912533/) 
 
-	
 	Lo logré! Aunque le metí un poco de operadores lógicos y relacionales para evitar que ingresen números que no estén entre 1 y 10. D:
 	``` 
 	    int main()
@@ -9971,9 +9413,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **José Manuel Rodríguez Villarreal** (1)
+* **José Manuel Rodríguez Villarreal** (1) [906462](https://platzi.com/comentario/906462/) 
 
-	
 	reto cumplido !!!
 	``` 
 	    #include<stdio.h>
@@ -10002,9 +9443,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **may-ale-moral** (1)
+* **may-ale-moral** (1) [903785](https://platzi.com/comentario/903785/) 
 
-	
 	Reto logrado!!
 	``` 
 	    #include<stdio.h>
@@ -10035,12 +9475,11 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **may-ale-moral** (1)
+* **may-ale-moral** (1) [903753](https://platzi.com/comentario/903753/) 
 
-	
 	Nótese que despues de los parentesis de los if else y else if no va ;
 
-* **Valakyr** (1)
+* **Valakyr** (1) [898682](https://platzi.com/comentario/898682/) 
 
 	```
 	    #include<stdio.h>
@@ -10065,9 +9504,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [891854](https://platzi.com/comentario/891854/) 
 
-	
 	Retoo:
 	``` 
 	    #include<stdio.h>
@@ -10091,9 +9529,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [881094](https://platzi.com/comentario/881094/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -10122,7 +9559,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **camilogt121** (1)
+* **camilogt121** (1) [879614](https://platzi.com/comentario/879614/) 
 
 	```
 	    var adivina = 5;
@@ -10135,7 +9572,7 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    }
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [877657](https://platzi.com/comentario/877657/) 
 
 	```
 	    #include<stdio.h>
@@ -10158,9 +9595,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	    
 	```
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [874833](https://platzi.com/comentario/874833/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -10190,9 +9626,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [874590](https://platzi.com/comentario/874590/) 
 
-	
 	printf(“Adivinando el numero. \n”);
 	``` 
 	    int x = 5;
@@ -10216,9 +9651,8 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	
 	}
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [873661](https://platzi.com/comentario/873661/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -10239,21 +9673,20 @@ Lo hecho en el minuto 10:32, se puede considerar como un if anidado? saludos.
 	return 0;  
 	}
 
-* **briam-arismendi** (1)
+* **briam-arismendi** (1) [83066](https://platzi.com/comentario/1018484/) 
 este es el codigo del primer reto. #include <stdio.h> #include <stdlib.h> int main () { printf(“Condicion if...
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [82500](https://platzi.com/comentario/1006594/) 
 <#include <stdio.h> #include <stdlib.h> int main() { int secretValue = 5; int valueToGuess; printf("En...
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [82285](https://platzi.com/comentario/1001921/) 
 Reto
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [82125](https://platzi.com/comentario/997897/) 
 Comparto mi reto int main() { int valC = 5; int valor; printf("Elije un valor entre el 1 y 10: \n", valor...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [82125] (1)
 
-		
 		Excelente que compartas, deja te ayudo un poquito con el formato:
 		``` 
 		    int main()
@@ -10276,12 +9709,11 @@ Comparto mi reto int main() { int valC = 5; int valor; printf("Elije un valor en
 		    
 		```
 
-* **Jesus David Zaraza Toro** (1)
+* **Jesus David Zaraza Toro** (1) [82118](https://platzi.com/comentario/997728/) 
 var num = 5; var num1 = prompt(“Adivina que numero estoy pensando”) if (num == num1){ alert (“Super, eres un genio”); } else { alert (“Oh...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [82118] (1)
 
-		
 		Excelente! deja te ayudo a darle un mejor formato al código, no olvides usar el botón de insertar código en la caja de comentarios para que se vea así:
 		``` 
 		    var num = 5;
@@ -10295,10 +9727,10 @@ var num = 5; var num1 = prompt(“Adivina que numero estoy pensando”) if (num 
 		    
 		```
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [79630](https://platzi.com/comentario/943594/) 
 buenas noches compañero traigo otra reto si quiere realizar 😃 Se ingresan tres notas de un alumno, si el promedio es mayor o igual a siet...
 
-	* **milena-rojas** (1)
+	* **milena-rojas** [79630] (1)
 
 		```
 		    #include<stdio.h>
@@ -10334,12 +9766,11 @@ buenas noches compañero traigo otra reto si quiere realizar 😃 Se ingresan tr
 		    
 		```
 
-* **José Manuel Rodríguez Villarreal** (1)
+* **José Manuel Rodríguez Villarreal** (1) [77580](https://platzi.com/comentario/906438/) 
 #include <stdio.h> #include <stdlib.h> int main() { printf(“Adivina el numero que estoy pensando \n”); int valC = 5; in...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [77580] (1)
 
-		
 		Porque en esta línea
 		``` 
 		    printf("Elije un valor entre el 1 y 10 %i\n", valor);
@@ -10348,15 +9779,14 @@ buenas noches compañero traigo otra reto si quiere realizar 😃 Se ingresan tr
 		
 		estás imprimiendo la variable `valor` y no está inicializada, es decir, no se le ha asignado algún valor antes de esa instrucción `printf`. Así que se imprime lo que haya en ese espacio en memoria (basura).
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [54030](https://platzi.com/comentario/524931/) 
 Cual es la diferencia entre los botones “run” y “build and run”? A veces buld and run me genera error.
 
-	* **ryanez** (2)
+	* **ryanez** [54030] (2)
 
-		
 		Básicamente `run` nos sirve para ejecutar nuestro programa y `build` se refiere a una serie de pasos que se siguen para generar nuestro paquete de software.
 
-* **Fabian Chavarria Navarro** (0)
+* **Fabian Chavarria Navarro** (0) [1067427](https://platzi.com/comentario/1067427/) 
 
 	```
 	    #include<stdio.h>
@@ -10382,46 +9812,46 @@ Cual es la diferencia entre los botones “run” y “build and run”? A veces
 	    
 	```
 
-* **Alberto Salas** (0)
-![Untitled.jpg](https://static.platzi.com/media/user_upload/Untitled-4272693d-bbf3-405f-8504-9897ea512e84.jpg)
+* **Alberto Salas** (0) [977557](https://platzi.com/comentario/977557/) 
+	
+	![Untitled.jpg](https://static.platzi.com/media/user_upload/Untitled-4272693d-bbf3-405f-8504-9897ea512e84.jpg)
 
-## 0090. Operadores relacionales y lógicos
+## 0090. Operadores relacionales y lógicos [16470](https://platzi.com/clases/1450-programacion-estructurada/16470-operadores-relacionales-y-logicos/)
 
 ### Descripción:
 
 
 Los operadores relacionales son:
 
-  * Menor que (<)
-  * Menor o igual que (<=)
-  * Mayor que (>)
-  * Mayor o igual que (>=)
-  * Igual que (==) : Comparación
-  * No igual que (!=) : Diferente
+* Menor que (<)
+* Menor o igual que (<=)
+* Mayor que (>)
+* Mayor o igual que (>=)
+* Igual que (==) : Comparación
+* No igual que (!=) : Diferente
 
 
 
 Los operadores lógicos son:
 
-  * AND (&&) : Y
-  * OR (||) : O
-  * NOT (!) : No
+* AND (&&) : Y
+* OR (||) : O
+* NOT (!) : No
 
 
 
 ### Comentarios:
 
-* **Diego Alejandro Pachon Cortes** (3)
+* **Diego Alejandro Pachon Cortes** (3) [79093](https://platzi.com/comentario/933566/) 
 Buen día compañeros, puedo tener mas de tres valores en una condición utilizando el (||) o solo puedo comparar dos valores? if((a...
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [79093] (2)
 
-		
 		Puede haber incontables condiciones, no hay límites, pero escriba solo las condiciones que sean realmente necesarias y de manera que su código sea legible. 😃
 		
 		De es amanera, cuando usted o otra persona va a mantener el código, no tendrá problemas para entenderlo 😄
 
-* **Divanatica** (2)
+* **Divanatica** (2) [1027303](https://platzi.com/comentario/1027303/) 
 
 	```
 	    #include<stdio.h>
@@ -10458,15 +9888,13 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Henry Sanchez** (2)
+* **Henry Sanchez** (2) [1020172](https://platzi.com/comentario/1020172/) 
 
-	
 	reto 2  
 	![calif.PNG](https://static.platzi.com/media/user_upload/calif-6271a161-3009-4766-8cd7-8b050d127e3f.jpg)
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1116122](https://platzi.com/comentario/1116122/) 
 
-	
 	RETO 2:
 	``` 
 	    #include<stdio.h>
@@ -10496,9 +9924,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1116119](https://platzi.com/comentario/1116119/) 
 
-	
 	RETO 1:
 	``` 
 	    #include<stdio.h>
@@ -10526,7 +9953,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [1115457](https://platzi.com/comentario/1115457/) 
 
 	```
 	    #include<stdio.h>
@@ -10557,7 +9984,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [1115176](https://platzi.com/comentario/1115176/) 
 
 	```
 	    #include<stdio.h>
@@ -10591,19 +10018,18 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 15-09-50.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2015-09-50-27a8479a-69a9-455c-add4-6e8487e805a8.jpg)
-
-* **keila martinez** (1)
-
+* **Angie Garcia** (1) [1115170](https://platzi.com/comentario/1115170/) 
 	
+	![Captura de pantalla de 2020-04-09 15-09-50.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2015-09-50-27a8479a-69a9-455c-add4-6e8487e805a8.jpg)
+
+* **keila martinez** (1) [1110788](https://platzi.com/comentario/1110788/) 
+
 	Los retos están muy cheveres
 	
 	![RETO 5.1.PNG](https://static.platzi.com/media/user_upload/RETO%205.1-d0fded8d-833c-4e7b-8458-eef68de4a9e6.jpg) ![RETO 5.2.PNG](https://static.platzi.com/media/user_upload/RETO%205.2-364c721b-c151-4a65-bb78-c78acb1898e6.jpg)
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1099009](https://platzi.com/comentario/1099009/) 
 
-	
 	Funcion que imprime si el alumno esta aprobado
 	``` 
 	    #include<stdio.h>
@@ -10631,31 +10057,32 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Juan Carlos García Flores** (1)
-![Retoingresaunnumero_muestra el menor.JPG](https://static.platzi.com/media/user_upload/Retoingresaunnumero_muestra%20el%20menor-9cd61391-44b1-4394-bc32-ddde38e74b51.jpg)
-
-* **Juan Carlos García Flores** (1)
-![Retoingresaunnumero_muestra el menor.JPG](https://static.platzi.com/media/user_upload/Retoingresaunnumero_muestra%20el%20menor-efc22830-5031-4b07-8183-888bf69f95ee.jpg) ![Mayor_menor_calli.JPG](https://static.platzi.com/media/user_upload/Mayor_menor_calli-c1de45c9-5265-4b4c-b9d6-22f085324c4c.jpg)
-
-* **ckaltny** (1)
-
+* **Juan Carlos García Flores** (1) [1096895](https://platzi.com/comentario/1096895/) 
 	
+	![Retoingresaunnumero_muestra el menor.JPG](https://static.platzi.com/media/user_upload/Retoingresaunnumero_muestra%20el%20menor-9cd61391-44b1-4394-bc32-ddde38e74b51.jpg)
+
+* **Juan Carlos García Flores** (1) [1096888](https://platzi.com/comentario/1096888/) 
+	
+	![Retoingresaunnumero_muestra el menor.JPG](https://static.platzi.com/media/user_upload/Retoingresaunnumero_muestra%20el%20menor-efc22830-5031-4b07-8183-888bf69f95ee.jpg) ![Mayor_menor_calli.JPG](https://static.platzi.com/media/user_upload/Mayor_menor_calli-c1de45c9-5265-4b4c-b9d6-22f085324c4c.jpg)
+
+* **ckaltny** (1) [1091095](https://platzi.com/comentario/1091095/) 
+
 	![](![reto operadores1.png](https://static.platzi.com/media/user_upload/reto%20operadores1-066de956-5176-4906-bd1b-5a7f45a7fa60.jpg)
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [1081749](https://platzi.com/comentario/1081749/) 
 
-	
 	![](![reto5.png](https://static.platzi.com/media/user_upload/reto5-53aa0fdd-af6d-4a19-9b47-4e59b8acc17e.jpg)
 
-* **JobForero** (1)
-![Resto_2_logica.png](https://static.platzi.com/media/user_upload/Resto_2_logica-197efeb4-e300-4140-8f95-bb4fbc2b0558.jpg)
-
-* **JobForero** (1)
-![Screenshot_reto_logica_.png](https://static.platzi.com/media/user_upload/Screenshot_reto_logica_-80464b51-b588-48e2-b0fc-34e1bc060730.jpg)
-
-* **luis angel muñoz gonzalez** (1)
-
+* **JobForero** (1) [1076363](https://platzi.com/comentario/1076363/) 
 	
+	![Resto_2_logica.png](https://static.platzi.com/media/user_upload/Resto_2_logica-197efeb4-e300-4140-8f95-bb4fbc2b0558.jpg)
+
+* **JobForero** (1) [1076306](https://platzi.com/comentario/1076306/) 
+	
+	![Screenshot_reto_logica_.png](https://static.platzi.com/media/user_upload/Screenshot_reto_logica_-80464b51-b588-48e2-b0fc-34e1bc060730.jpg)
+
+* **luis angel muñoz gonzalez** (1) [1069238](https://platzi.com/comentario/1069238/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -10721,9 +10148,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **luis angel muñoz gonzalez** (1)
+* **luis angel muñoz gonzalez** (1) [1069199](https://platzi.com/comentario/1069199/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -10754,13 +10180,15 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto 7.PNG](https://static.platzi.com/media/user_upload/Reto%207-0b9bab85-983e-461b-ad00-0bc304331177.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1064567](https://platzi.com/comentario/1064567/) 
+	
+	![Reto 7.PNG](https://static.platzi.com/media/user_upload/Reto%207-0b9bab85-983e-461b-ad00-0bc304331177.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto 6.PNG](https://static.platzi.com/media/user_upload/Reto%206-3d62b2f8-fee9-43b6-8b08-2be1c00544d6.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1064564](https://platzi.com/comentario/1064564/) 
+	
+	![Reto 6.PNG](https://static.platzi.com/media/user_upload/Reto%206-3d62b2f8-fee9-43b6-8b08-2be1c00544d6.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1064298](https://platzi.com/comentario/1064298/) 
 
 	```
 	    float calificacion;
@@ -10778,7 +10206,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1064137](https://platzi.com/comentario/1064137/) 
 
 	```
 	    int numeroUno;
@@ -10799,7 +10227,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1063270](https://platzi.com/comentario/1063270/) 
 
 	```
 	    #include<stdio.h>
@@ -10834,9 +10262,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1062252](https://platzi.com/comentario/1062252/) 
 
-	
 	**Número menor**  
 	.  
 	![numeroMenor.png](https://static.platzi.com/media/user_upload/numeroMenor-d3f7de4b-793c-48cd-9402-efe22e4a8dee.jpg)  
@@ -10845,17 +10272,15 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	.  
 	![notas.png](https://static.platzi.com/media/user_upload/notas-ffc971ea-1fed-41e3-bad6-dd3235c00f1e.jpg)
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1061892](https://platzi.com/comentario/1061892/) 
 
-	
 	Reto 2.![Reto2 video9.png](https://static.platzi.com/media/user_upload/Reto2%20video9-2bb449c7-3ccb-4d20-bc37-4938639c7307.jpg)
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1061891](https://platzi.com/comentario/1061891/) 
 
-	
 	Reto 1.![Reto1 video 9.png](https://static.platzi.com/media/user_upload/Reto1%20video%209-a275a800-e7bd-49c9-a2c7-980e445106f1.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1059780](https://platzi.com/comentario/1059780/) 
 
 	```
 	    // Reto 1
@@ -10887,45 +10312,38 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059573](https://platzi.com/comentario/1059573/) 
 
-	
 	reto 1  
 	![](![reto 77.png](https://static.platzi.com/media/user_upload/reto%2077-efa85d05-55e0-4cff-af0a-aa83d309243d.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059571](https://platzi.com/comentario/1059571/) 
 
-	
 	reto 1  
 	![](![reto 7.png](https://static.platzi.com/media/user_upload/reto%207-fd3cf645-60c8-4e94-aedd-0fdd7f325662.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059561](https://platzi.com/comentario/1059561/) 
 
-	
 	reto 2
 	
 	![](![reto8.2.png](https://static.platzi.com/media/user_upload/reto8.2-bf8ec114-8261-4e80-bd46-f70529e16c98.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059559](https://platzi.com/comentario/1059559/) 
 
-	
 	reto 2  
 	![](![reto8.1.png](https://static.platzi.com/media/user_upload/reto8.1-aaf0a1c2-8dc4-46f9-b7b9-0453a40694c5.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059558](https://platzi.com/comentario/1059558/) 
 
-	
 	reto 2  
 	![](![reto8.png](https://static.platzi.com/media/user_upload/reto8-37e98701-42b5-4e7f-b9bb-c3dd1da68121.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059542](https://platzi.com/comentario/1059542/) 
 
-	
 	La profesora Daniela explica muy bien
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059411](https://platzi.com/comentario/1059411/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -10949,9 +10367,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059397](https://platzi.com/comentario/1059397/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -10975,15 +10392,16 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **paola-diaz361** (1)
-![reto2OperaLogi2.PNG](https://static.platzi.com/media/user_upload/reto2OperaLogi2-9154938a-074b-4936-8667-aec24768b616.jpg)
-
-* **paola-diaz361** (1)
-![retoOperLogicos1.PNG](https://static.platzi.com/media/user_upload/retoOperLogicos1-21065949-2163-4bfb-9247-a81019833c53.jpg)
-
-* **paola-diaz361** (1)
-
+* **paola-diaz361** (1) [1049336](https://platzi.com/comentario/1049336/) 
 	
+	![reto2OperaLogi2.PNG](https://static.platzi.com/media/user_upload/reto2OperaLogi2-9154938a-074b-4936-8667-aec24768b616.jpg)
+
+* **paola-diaz361** (1) [1049306](https://platzi.com/comentario/1049306/) 
+	
+	![retoOperLogicos1.PNG](https://static.platzi.com/media/user_upload/retoOperLogicos1-21065949-2163-4bfb-9247-a81019833c53.jpg)
+
+* **paola-diaz361** (1) [1049221](https://platzi.com/comentario/1049221/) 
+
 	Pregunta: Si en OR o O, el resultado será verdadero si alguna condición es verdadera  
 	Ej1: if(key1true ||key2true)  
 	Ej2: if(key1true ||key2false)  
@@ -10991,9 +10409,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	Gracias!! este pendiente 😃
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1047745](https://platzi.com/comentario/1047745/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -11031,9 +10448,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1047741](https://platzi.com/comentario/1047741/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -11067,33 +10483,29 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Gabogoonies** (1)
+* **Gabogoonies** (1) [1041819](https://platzi.com/comentario/1041819/) 
 
-	
 	Estos operadores nos ayudaran bastantes a la hora de utilizar controles de flujo en nuestros programas. Éxito chicos sigamos aprendiendo!!.
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1032906](https://platzi.com/comentario/1032906/) 
 
-	
 	Reto 2:
 	
 	![Reto8.PNG](https://static.platzi.com/media/user_upload/Reto8-688007b2-df0a-400c-b3d3-f3f3785f2972.jpg)
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1032888](https://platzi.com/comentario/1032888/) 
 
-	
 	Reto 1:
 	
 	![Reto7.PNG](https://static.platzi.com/media/user_upload/Reto7-da1edc84-df5f-4b46-8e0b-eb0d333f9017.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1027253](https://platzi.com/comentario/1027253/) 
 
-	
 	Reto No. 1 😃
 	
 	![DivaUlloaClase9Reto1.png](https://static.platzi.com/media/user_upload/DivaUlloaClase9Reto1-e60f4960-64bd-45b6-a647-210c14b15cac.jpg)
 
-* **Karmen Kastro** (1)
+* **Karmen Kastro** (1) [1026003](https://platzi.com/comentario/1026003/) 
 
 	```
 	    #include<stdio.h>
@@ -11122,9 +10534,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [1024953](https://platzi.com/comentario/1024953/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -11151,9 +10562,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [1024952](https://platzi.com/comentario/1024952/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -11190,9 +10600,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024779](https://platzi.com/comentario/1024779/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -11249,9 +10658,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024746](https://platzi.com/comentario/1024746/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -11291,9 +10699,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024732](https://platzi.com/comentario/1024732/) 
 
-	
 	Ejercicio 2:
 	``` 
 	    #include<stdio.h>
@@ -11321,9 +10728,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024730](https://platzi.com/comentario/1024730/) 
 
-	
 	Ejercicio 1:
 	``` 
 	    #include<stdio.h>
@@ -11372,13 +10778,12 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1020173](https://platzi.com/comentario/1020173/) 
 
-	
 	reto 1  
 	![calif.PNG](https://static.platzi.com/media/user_upload/calif-be829ddd-c56c-4347-8b21-62f6269b7db4.jpg)
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1018667](https://platzi.com/comentario/1018667/) 
 
 	```
 	    #include<stdio.h>
@@ -11409,7 +10814,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1018614](https://platzi.com/comentario/1018614/) 
 
 	```
 	    #include<stdio.h>
@@ -11438,7 +10843,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1013088](https://platzi.com/comentario/1013088/) 
 
 	```
 	    #include<stdio.h>
@@ -11466,29 +10871,25 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1012881](https://platzi.com/comentario/1012881/) 
 
-	
 	Para el primer el reto hice la prueba en la consola con los mismos números de la clase sin darme cuenta 😛.  
 	Gran clase!!
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1011955](https://platzi.com/comentario/1011955/) 
 
-	
 	Reto 2
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-3f0724db-fec0-4883-8281-6739749c5a0a.jpg)
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1011951](https://platzi.com/comentario/1011951/) 
 
-	
 	Reto 1
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-47895abb-3bb6-4653-9f46-48249bad45d4.jpg)
 
-* **Pedro Alejandro Silva Perez** (1)
+* **Pedro Alejandro Silva Perez** (1) [1008979](https://platzi.com/comentario/1008979/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -11513,7 +10914,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1006672](https://platzi.com/comentario/1006672/) 
 
 	```
 	    #include<stdio.h>
@@ -11540,7 +10941,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1006627](https://platzi.com/comentario/1006627/) 
 
 	```
 	    <#include<stdio.h>
@@ -11567,9 +10968,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1004923](https://platzi.com/comentario/1004923/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -11593,9 +10993,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1004397](https://platzi.com/comentario/1004397/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -11623,7 +11022,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Erik Manuel Guevara Ladino** (1)
+* **Erik Manuel Guevara Ladino** (1) [1004273](https://platzi.com/comentario/1004273/) 
 
 	```
 	    #include<stdio.h>
@@ -11654,9 +11053,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [1004254](https://platzi.com/comentario/1004254/) 
 
-	
 	Reto #2 Gracias
 	``` 
 	    int nota;
@@ -11676,9 +11074,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [1003698](https://platzi.com/comentario/1003698/) 
 
-	
 	Reto # 1
 	``` 
 	    #include<stdio.h>
@@ -11740,7 +11137,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002264](https://platzi.com/comentario/1002264/) 
 
 	```
 	    float nota;
@@ -11758,22 +11155,19 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1002048](https://platzi.com/comentario/1002048/) 
 
-	
 	Reto #2  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-042da6f5-d810-45f4-a6cc-00c211771be5.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1002023](https://platzi.com/comentario/1002023/) 
 
-	
 	Reto #1
 	
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-ca571762-d70f-4491-b89e-7970a486ed2b.jpg)
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1001577](https://platzi.com/comentario/1001577/) 
 
-	
 	reto 1  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -11837,9 +11231,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **savier687** (1)
+* **savier687** (1) [1001296](https://platzi.com/comentario/1001296/) 
 
-	
 	RETO #2
 	``` 
 	    int calf;
@@ -11857,9 +11250,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1001290](https://platzi.com/comentario/1001290/) 
 
-	
 	RETO #1
 	``` 
 	    int num1, num2;
@@ -11878,9 +11270,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1000680](https://platzi.com/comentario/1000680/) 
 
-	
 	Los dos retos !!!
 	
 	#include<stdio.h>  
@@ -11933,9 +11324,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **alan valencia** (1)
+* **alan valencia** (1) [999779](https://platzi.com/comentario/999779/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -11965,7 +11355,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [998396](https://platzi.com/comentario/998396/) 
 
 	```
 	    int main()
@@ -11988,17 +11378,15 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [998325](https://platzi.com/comentario/998325/) 
 
-	
 	Reto #2 Cumplido ![R2operacioneslogicas.PNG](https://static.platzi.com/media/user_upload/R2operacioneslogicas-fc68ea26-b8e1-4124-bc61-3eefdbfde634.jpg)
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [998323](https://platzi.com/comentario/998323/) 
 
-	
 	Reto #1 Cumplido ![R1operacioneslogicas.PNG](https://static.platzi.com/media/user_upload/R1operacioneslogicas-c1de05af-7023-4d46-b808-8fbffa9f6236.jpg)
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [998321](https://platzi.com/comentario/998321/) 
 
 	```
 	    intmain()
@@ -12021,9 +11409,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [995823](https://platzi.com/comentario/995823/) 
 
-	
 	Reto # 1 de Operadores Relaciones y Logicos
 	``` 
 	    #include<stdio.h>
@@ -12078,18 +11465,17 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [995585](https://platzi.com/comentario/995585/) 
 
-	
 	Notas estudiantes  
 	![NotasEstunte.png](https://static.platzi.com/media/user_upload/NotasEstunte-3339ff8d-813a-40ea-b98d-56ba10a9dd84.jpg)
 
-* **Leisy Karina Algarra Fernandez** (1)
-![numeroMenor.png](https://static.platzi.com/media/user_upload/numeroMenor-06ce187d-b313-4eef-9129-b77437aca396.jpg)
-
-* **vivisoto** (1)
-
+* **Leisy Karina Algarra Fernandez** (1) [995405](https://platzi.com/comentario/995405/) 
 	
+	![numeroMenor.png](https://static.platzi.com/media/user_upload/numeroMenor-06ce187d-b313-4eef-9129-b77437aca396.jpg)
+
+* **vivisoto** (1) [992773](https://platzi.com/comentario/992773/) 
+
 	reto2
 	
 	![2020-02-18 15_55_18-D__JuanD_Documents_vivi-soto_programacion estructurada_reto8_main.exe.png](https://static.platzi.com/media/user_upload/2020-02-18%2015_55_18-_D__JuanD_Documents_vivi-soto_programacion%20estructurada_reto8_main.exe_-59dd3302-1173-4386-bcbf-db59cbc4905d.jpg)
@@ -12119,9 +11505,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [992021](https://platzi.com/comentario/992021/) 
 
-	
 	reto1  
 	![2020-02-18 10_34_43-_D__JuanD_Documents_vivi-soto_programacion estructurada_reto7_bin_Debug_reto7.ex.png](https://static.platzi.com/media/user_upload/2020-02-18%2010_34_43-_D__JuanD_Documents_vivi-soto_programacion%20estructurada_reto7_bin_Debug_reto7.ex-fc5d39eb-9e0c-4e48-acb1-a432fb083158.jpg)
 	``` 
@@ -12145,9 +11530,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [990649](https://platzi.com/comentario/990649/) 
 
-	
 	Segundo Reto_
 	
 	#include <stdio.h>  
@@ -12174,9 +11558,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **boristrochez** (1)
+* **boristrochez** (1) [990606](https://platzi.com/comentario/990606/) 
 
-	
 	 ** **Primer Reto****
 	
 	#include <stdio.h>  
@@ -12201,7 +11584,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	
 	}
 
-* **Erick Mancilla Sánchez** (1)
+* **Erick Mancilla Sánchez** (1) [990137](https://platzi.com/comentario/990137/) 
 
 	```
 	    #include<stdio.h>
@@ -12235,14 +11618,14 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **ronyaab1710** (1)
-![compare.png](https://static.platzi.com/media/user_upload/compare-1f228229-3700-431d-b95a-7ad5adf45ada.jpg)
+* **ronyaab1710** (1) [989585](https://platzi.com/comentario/989585/) 
+	
+	![compare.png](https://static.platzi.com/media/user_upload/compare-1f228229-3700-431d-b95a-7ad5adf45ada.jpg)
 	
 	Este es mi codigo en vs code, cuando lo ejecuto en la consola de chrome y la respuesta en pantalla (about:blank) pero no logro que cuando ingreso una nota mayor a 90 me imprima el mensaje de (“Congrats, you passed :3”), alguien me ayuda? lo hice en JS
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [989327](https://platzi.com/comentario/989327/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -12268,9 +11651,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [989242](https://platzi.com/comentario/989242/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -12300,7 +11682,7 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [987784](https://platzi.com/comentario/987784/) 
 
 	```
 	    #include<stdio.h>
@@ -12339,9 +11721,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986569](https://platzi.com/comentario/986569/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -12362,9 +11743,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986556](https://platzi.com/comentario/986556/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -12385,21 +11765,21 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **MarianaGb** (1)
-![2.png](https://static.platzi.com/media/user_upload/2-0035bafc-1e0a-4806-b43d-06e01a80d3d9.jpg)
-
-* **MarianaGb** (1)
-![reto1.png](https://static.platzi.com/media/user_upload/reto1-4b7c2ba5-cfec-4b40-90fd-bbba99c4ca75.jpg)
-
-* **juancamiloruiznieto** (1)
-
+* **MarianaGb** (1) [986018](https://platzi.com/comentario/986018/) 
 	
+	![2.png](https://static.platzi.com/media/user_upload/2-0035bafc-1e0a-4806-b43d-06e01a80d3d9.jpg)
+
+* **MarianaGb** (1) [984659](https://platzi.com/comentario/984659/) 
+	
+	![reto1.png](https://static.platzi.com/media/user_upload/reto1-4b7c2ba5-cfec-4b40-90fd-bbba99c4ca75.jpg)
+
+* **juancamiloruiznieto** (1) [982898](https://platzi.com/comentario/982898/) 
+
 	![Captura de pantalla 2020-02-13 a la\(s\) 1.43.03 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-13%20a%20la%28s%29%201.43.03%20a.%20m.-779a2536-ffc3-4e5b-9f8d-7683f5c3db35.jpg)  
 	![Captura de pantalla 2020-02-13 a la\(s\) 1.43.52 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-13%20a%20la%28s%29%201.43.52%20a.%20m.-9e66fed6-1048-4bd7-bcbb-6930be948a3a.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [980359](https://platzi.com/comentario/980359/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -12427,9 +11807,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [980262](https://platzi.com/comentario/980262/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -12455,9 +11834,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [980227](https://platzi.com/comentario/980227/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -12491,9 +11869,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [980197](https://platzi.com/comentario/980197/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -12524,9 +11901,8 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [979985](https://platzi.com/comentario/979985/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -12551,12 +11927,11 @@ Buen día compañeros, puedo tener mas de tres valores en una condición utiliza
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [86109](https://platzi.com/comentario/1088307/) 
 Hola alguien me podría decir cuando y como usar el operador NOT ( ! ) ?
 
-	* **santgonzalez** (2)
+	* **santgonzalez** [86109] (2)
 
-		
 		Depende el contexto pero cuando quieras preguntar por ejemplo el valor de verdad de un booleano, si existe la variable, si es desigual.
 		
 		while (!f) ------ mientras que f no sea 0 o falso  
@@ -12564,15 +11939,14 @@ Hola alguien me podría decir cuando y como usar el operador NOT ( ! ) ?
 		
 		No se si me llegue a explicar bien
 
-* **José Manuel Rodríguez Villarreal** (1)
+* **José Manuel Rodríguez Villarreal** (1) [77717](https://platzi.com/comentario/908478/) 
 if((valorA < valorB) && (valorB == valorC)) //&& (y) printf("se cumplieron las dos condiciones \n"...
 
-* **RemyLebeau** (1)
+* **RemyLebeau** (1) [56441](https://platzi.com/comentario/552668/) 
 Hola Realice el segundo reto, pero resulta que quiero guardar el nombre del alumno e imprimirlo cuando diga si esta aprobado o reprobado,...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [56441] (1)
 
-		
 		Puedes usar un arreglo:
 		``` 
 		    char nombre[15]; // para guardar hasta 15 caracteres
@@ -12584,12 +11958,11 @@ Hola Realice el segundo reto, pero resulta que quiero guardar el nombre del alum
 		
 		el especificador `%s` permite leer e imprimir un arreglo de caracteres.
 
-* **Wilmer Diaz** (1)
+* **Wilmer Diaz** (1) [56274](https://platzi.com/comentario/550673/) 
 Me gustaría saber como limitar los valores de entrada del usuario, en nuestros retos, limitar a solo valores numéricos (pensé que al def...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [56274] (1)
 
-		
 		Con un ciclo **do-while** , podrías hacer algo como esto:
 		``` 
 		    int valor;
@@ -12603,7 +11976,7 @@ Me gustaría saber como limitar los valores de entrada del usuario, en nuestros 
 		
 		Volverá a pedir un nuevo valor si lo que se ingresó no entra en el rango de valores. Espero sea útil. Saludos.
 
-* **Francisco Emmanuel Ferrer Estrada** (0)
+* **Francisco Emmanuel Ferrer Estrada** (0) [1063590](https://platzi.com/comentario/1063590/) 
 
 	```
 	     float cali;
@@ -12619,7 +11992,7 @@ Me gustaría saber como limitar los valores de entrada del usuario, en nuestros 
 	    
 	```
 
-## 0100. Switch
+## 0100. Switch [16472](https://platzi.com/clases/1450-programacion-estructurada/16472-switch0065/)
 
 ### Descripción:
 
@@ -12630,9 +12003,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 
 ### Comentarios:
 
-* **Jesus Velez Flores** (2)
+* **Jesus Velez Flores** (2) [1032971](https://platzi.com/comentario/1032971/) 
 
-	
 	Reto Completado! 😃
 	``` 
 	    #include <stdio.h>
@@ -12672,7 +12044,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **brayan baquero** (2)
+* **brayan baquero** (2) [1024972](https://platzi.com/comentario/1024972/) 
 
 	```
 	    #include <stdio.h>
@@ -12721,9 +12093,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **David Felipe Toro Cuervo** (2)
+* **David Felipe Toro Cuervo** (2) [1014886](https://platzi.com/comentario/1014886/) 
 
-	
 	Cuantos han vivido esta aventura alguna vez?
 	``` 
 	    #include <stdio.h>
@@ -12758,9 +12129,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1116278](https://platzi.com/comentario/1116278/) 
 
-	
 	Reto terminado! 😄
 	``` 
 	    #include <stdio.h>
@@ -12801,10 +12171,11 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 17-11-15.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2017-11-15-43715c85-e0a3-456e-9f64-5330d519d522.jpg)
+* **Angie Garcia** (1) [1115646](https://platzi.com/comentario/1115646/) 
+	
+	![Captura de pantalla de 2020-04-09 17-11-15.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2017-11-15-43715c85-e0a3-456e-9f64-5330d519d522.jpg)
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [1115642](https://platzi.com/comentario/1115642/) 
 
 	```
 	    #include<stdio.h>
@@ -12845,34 +12216,32 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1111390](https://platzi.com/comentario/1111390/) 
 
-	
 	esta muy cheveres
 	
 	![reto 6.PNG](https://static.platzi.com/media/user_upload/reto%206-e2390cff-f685-47fb-9ab9-e7691016e705.jpg)
 
-* **Onam Díaz-Castillo** (1)
+* **Onam Díaz-Castillo** (1) [1110326](https://platzi.com/comentario/1110326/) 
 
-	
 	Chevere!
 
-* **Juan Carlos García Flores** (1)
+* **Juan Carlos García Flores** (1) [1101878](https://platzi.com/comentario/1101878/) 
 
-	
 	Mi reto
 	
 	![retoswitch.JPG](https://static.platzi.com/media/user_upload/retoswitch-e91ef52b-e82e-4fc2-9919-0e6f1ddc9586.jpg)
 
-* **Edison Renato Valdez Vega** (1)
-![reto6.png](https://static.platzi.com/media/user_upload/reto6-3d1239c7-f3d3-4077-84e0-b06cd93466ce.jpg)
-
-* **JobForero** (1)
-![Screenshot_1_cuento__.png](https://static.platzi.com/media/user_upload/Screenshot_1_cuento__-f628e04a-c7f9-4583-b787-fa5b6e77485e.jpg)
-
-* **JasoSalgado** (1)
-
+* **Edison Renato Valdez Vega** (1) [1081791](https://platzi.com/comentario/1081791/) 
 	
+	![reto6.png](https://static.platzi.com/media/user_upload/reto6-3d1239c7-f3d3-4077-84e0-b06cd93466ce.jpg)
+
+* **JobForero** (1) [1077350](https://platzi.com/comentario/1077350/) 
+	
+	![Screenshot_1_cuento__.png](https://static.platzi.com/media/user_upload/Screenshot_1_cuento__-f628e04a-c7f9-4583-b787-fa5b6e77485e.jpg)
+
+* **JasoSalgado** (1) [1070686](https://platzi.com/comentario/1070686/) 
+
 	Yo lo hice con los horoscopos, porque he visto que hay personas que leen su horoscopo a diario y escogen el que más les conviene, ja, ja, ja. Por cierto, no soy Capricornio. Lo escogí al azar.
 	``` 
 	    printf("Elige una opcion del uno al cinco \n");
@@ -12903,7 +12272,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1066987](https://platzi.com/comentario/1066987/) 
 
 	```
 	    int opcion;
@@ -12926,10 +12295,11 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto8.PNG](https://static.platzi.com/media/user_upload/Reto8-7e042fb4-b415-4fd4-80d4-c764c9845609.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1064684](https://platzi.com/comentario/1064684/) 
+	
+	![Reto8.PNG](https://static.platzi.com/media/user_upload/Reto8-7e042fb4-b415-4fd4-80d4-c764c9845609.jpg)
 
-* **Francisco Emmanuel Ferrer Estrada** (1)
+* **Francisco Emmanuel Ferrer Estrada** (1) [1063787](https://platzi.com/comentario/1063787/) 
 
 	```
 	    #include <stdio.h>
@@ -12966,7 +12336,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1063288](https://platzi.com/comentario/1063288/) 
 
 	```
 	    #include<stdio.h>
@@ -12996,12 +12366,11 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1062552](https://platzi.com/comentario/1062552/) 
 
-	
 	Reto![Untitled.png](https://static.platzi.com/media/user_upload/Untitled-ed6260ca-e639-4857-9351-e609a9306a82.jpg)
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1062359](https://platzi.com/comentario/1062359/) 
 
 	```
 	    #include<stdio.h>
@@ -13047,19 +12416,17 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059836](https://platzi.com/comentario/1059836/) 
 
-	
 	**Reto:**  
 	![](![reto9.png](https://static.platzi.com/media/user_upload/reto9-438742e6-0a39-49f5-8030-7a7d8ecdffab.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1059834](https://platzi.com/comentario/1059834/) 
 
-	
 	Reto:  
 	![](![reto9.1.png](https://static.platzi.com/media/user_upload/reto9.1-2694bf5c-f4ab-44cc-8f72-a508315315d1.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1059819](https://platzi.com/comentario/1059819/) 
 
 	```
 	    // Reto 1
@@ -13087,7 +12454,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059469](https://platzi.com/comentario/1059469/) 
 
 	```
 	    #include <stdio.h>
@@ -13121,20 +12488,19 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1049415](https://platzi.com/comentario/1049415/) 
 
-	
 	Reto Switch:  
 	Gracias!! he aprendido DEMASIADO 😉
 	
 	![retoSwitch1.PNG](https://static.platzi.com/media/user_upload/retoSwitch1-457217cb-e3a8-42ec-86b9-4812dcac5746.jpg) ![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-7c4a76df-788b-472a-aa31-0b6a25165a5e.jpg) ![Captura1.PNG](https://static.platzi.com/media/user_upload/Captura1-16dfbacf-b048-4497-b4fa-b195a33cf5d6.jpg) ![Captura2.PNG](https://static.platzi.com/media/user_upload/Captura2-afa623b0-b9d1-4cd2-a50c-9d0edc338e72.jpg)
 
-* **paola-diaz361** (1)
-![ejerSwitch.PNG](https://static.platzi.com/media/user_upload/ejerSwitch-0971cc82-f714-43fb-9db6-60f28986985c.jpg) ![ejerSwitch2.PNG](https://static.platzi.com/media/user_upload/ejerSwitch2-73429f20-eb5c-4e69-8018-2b73527972f1.jpg)
-
-* **SteffiG** (1)
-
+* **paola-diaz361** (1) [1049370](https://platzi.com/comentario/1049370/) 
 	
+	![ejerSwitch.PNG](https://static.platzi.com/media/user_upload/ejerSwitch-0971cc82-f714-43fb-9db6-60f28986985c.jpg) ![ejerSwitch2.PNG](https://static.platzi.com/media/user_upload/ejerSwitch2-73429f20-eb5c-4e69-8018-2b73527972f1.jpg)
+
+* **SteffiG** (1) [1047807](https://platzi.com/comentario/1047807/) 
+
 	Reto 1
 	``` 
 	    #include <stdio.h>
@@ -13181,9 +12547,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1036255](https://platzi.com/comentario/1036255/) 
 
-	
 	#include<stdio.h>  
 	#include<stdlib.h>
 	
@@ -13218,7 +12583,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1029169](https://platzi.com/comentario/1029169/) 
 
 	```
 	    #include <stdio.h>
@@ -13271,9 +12636,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1024815](https://platzi.com/comentario/1024815/) 
 
-	
 	Reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -13373,7 +12737,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1020355](https://platzi.com/comentario/1020355/) 
 
 	```
 	    #include<stdio.h>
@@ -13414,18 +12778,17 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1020214](https://platzi.com/comentario/1020214/) 
 
-	
 	Reto Switch  
 	![reto_switch.PNG](https://static.platzi.com/media/user_upload/reto_switch-66667809-be04-4678-a54f-77dadba9f3cc.jpg)
 
-* **Fabio Leonardo Fuentes Melendez** (1)
-![2020-03-04 \(1\).png](https://static.platzi.com/media/user_upload/2020-03-04%20%281%29-a818b089-0010-4978-9725-868d0e9af89a.jpg)
-
-* **Edwin5000** (1)
-
+* **Fabio Leonardo Fuentes Melendez** (1) [1018955](https://platzi.com/comentario/1018955/) 
 	
+	![2020-03-04 \(1\).png](https://static.platzi.com/media/user_upload/2020-03-04%20%281%29-a818b089-0010-4978-9725-868d0e9af89a.jpg)
+
+* **Edwin5000** (1) [1017024](https://platzi.com/comentario/1017024/) 
+
 	int main()  
 	{  
 	printf(“Reto gaticos \n”);  
@@ -13466,12 +12829,12 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-0c09fb47-5133-428c-b1a1-8c31624162e4.jpg)
-
-* **Pedro Alejandro Silva Perez** (1)
-
+* **jhonsoccer11** (1) [1013154](https://platzi.com/comentario/1013154/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-0c09fb47-5133-428c-b1a1-8c31624162e4.jpg)
+
+* **Pedro Alejandro Silva Perez** (1) [1012007](https://platzi.com/comentario/1012007/) 
+
 	Hice este reto con el corazón:
 	
 	#include <stdio.h>  
@@ -13522,7 +12885,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1010209](https://platzi.com/comentario/1010209/) 
 
 	```
 	    <#include<stdio.h>
@@ -13555,9 +12918,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1007021](https://platzi.com/comentario/1007021/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -13592,9 +12954,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1004763](https://platzi.com/comentario/1004763/) 
 
-	
 	Reto # 1 Swriches
 	``` 
 	    #include <stdio.h>
@@ -13641,16 +13002,14 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **ronyaab1710** (1)
+* **ronyaab1710** (1) [1004677](https://platzi.com/comentario/1004677/) 
 
-	
 	reto cumplido en JS
 	
 	![reto.png](https://static.platzi.com/media/user_upload/reto-b87db67e-868a-4cd4-9477-df76635ff1a5.jpg)
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [1004413](https://platzi.com/comentario/1004413/) 
 
-	
 	Mi historia
 	``` 
 	    int main()
@@ -13686,9 +13045,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [1003941](https://platzi.com/comentario/1003941/) 
 
-	
 	Reto # 1
 	``` 
 	    #include <stdio.h>
@@ -13739,13 +13097,12 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1003389](https://platzi.com/comentario/1003389/) 
 
-	
 	Reto  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-1e5a3b96-1741-4dab-ba45-cca00a9ed912.jpg)
 
-* **Cegador** (1)
+* **Cegador** (1) [1002301](https://platzi.com/comentario/1002301/) 
 
 	```
 	    int camino;
@@ -13773,7 +13130,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1001956](https://platzi.com/comentario/1001956/) 
 
 	```
 	        int option;
@@ -13803,9 +13160,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1001644](https://platzi.com/comentario/1001644/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -13844,9 +13200,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	return 0;  
 	}
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1000794](https://platzi.com/comentario/1000794/) 
 
-	
 	Reto cumplido !!! … la comida podra salvarte
 	
 	#include <stdio.h>  
@@ -13891,7 +13246,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1000765](https://platzi.com/comentario/1000765/) 
 
 	```
 	    int main()
@@ -13925,14 +13280,12 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [999986](https://platzi.com/comentario/999986/) 
 
-	
 	Reto Cumplido Estuvo Interesante La Clase![RetoSwitch.PNG](https://static.platzi.com/media/user_upload/RetoSwitch-f24a5908-864c-46fa-b39b-f1b48cb2435d.jpg)
 
-* **alan valencia** (1)
+* **alan valencia** (1) [999788](https://platzi.com/comentario/999788/) 
 
-	
 	#include<stdio.h>  
 	int main(){  
 	int tarjeta;  
@@ -13955,12 +13308,12 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	return 0;  
 	}
 
-* **Leisy Karina Algarra Fernandez** (1)
-![switch.png](https://static.platzi.com/media/user_upload/switch-f7a2430f-3cd6-4625-9a73-e1d47ea5db9c.jpg)
-
-* **Juan Nuñez** (1)
-
+* **Leisy Karina Algarra Fernandez** (1) [997912](https://platzi.com/comentario/997912/) 
 	
+	![switch.png](https://static.platzi.com/media/user_upload/switch-f7a2430f-3cd6-4625-9a73-e1d47ea5db9c.jpg)
+
+* **Juan Nuñez** (1) [995789](https://platzi.com/comentario/995789/) 
+
 	Es una historia de posibles situaciones ante un asalto en la CDMX
 	``` 
 	    int main()
@@ -13998,9 +13351,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [992886](https://platzi.com/comentario/992886/) 
 
-	
 	reto
 	
 	![2020-02-18 16_42_52-_D__JuanD_Documents_vivi-soto_programacion estructurada_reto9_bin_Debug_reto9.ex.png](https://static.platzi.com/media/user_upload/2020-02-18%2016_42_52-_D__JuanD_Documents_vivi-soto_programacion%20estructurada_reto9_bin_Debug_reto9.ex-e90684f1-73d8-486e-9bea-d5fce6af3d61.jpg)
@@ -14041,9 +13393,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [992107](https://platzi.com/comentario/992107/) 
 
-	
 	**_RETO_**
 	
 	#include <stdio.h>  
@@ -14081,9 +13432,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [989455](https://platzi.com/comentario/989455/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -14126,7 +13476,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [988920](https://platzi.com/comentario/988920/) 
 
 	```
 	    #include<stdio.h>
@@ -14161,9 +13511,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [988655](https://platzi.com/comentario/988655/) 
 
-	
 	Hola team, este es mi reto. Open to feedback
 	``` 
 	    #include <stdio.h>
@@ -14203,9 +13552,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986588](https://platzi.com/comentario/986588/) 
 
-	
 	Reto 1
 	``` 
 	    #include <stdio.h>
@@ -14238,12 +13586,12 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **MarianaGb** (1)
-![switch.png](https://static.platzi.com/media/user_upload/switch-24e6612b-9e0e-4f3c-8905-394e3a8cb166.jpg)
-
-* **Fabian Mauricio Guerra Bedoya** (1)
-
+* **MarianaGb** (1) [986203](https://platzi.com/comentario/986203/) 
 	
+	![switch.png](https://static.platzi.com/media/user_upload/switch-24e6612b-9e0e-4f3c-8905-394e3a8cb166.jpg)
+
+* **Fabian Mauricio Guerra Bedoya** (1) [980270](https://platzi.com/comentario/980270/) 
+
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -14285,9 +13633,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [980184](https://platzi.com/comentario/980184/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -14331,9 +13678,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977730](https://platzi.com/comentario/977730/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -14365,9 +13711,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **BotDrako** (1)
+* **BotDrako** (1) [970900](https://platzi.com/comentario/970900/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -14411,12 +13756,11 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [966210](https://platzi.com/comentario/966210/) 
 
-	
 	en char era int
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [966207](https://platzi.com/comentario/966207/) 
 
 	```
 	    #include<stdio.h>
@@ -14453,9 +13797,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **JAVIER STIVEN MURILLO CORREA** (1)
+* **JAVIER STIVEN MURILLO CORREA** (1) [964401](https://platzi.com/comentario/964401/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -14491,9 +13834,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [963649](https://platzi.com/comentario/963649/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -14537,10 +13879,11 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![Switch Imagen4.png](https://static.platzi.com/media/user_upload/Switch%20Imagen4-b09406ba-66f1-437c-a5a0-c48b4be78a3c.jpg)
+* **zayrasaavedrauribe** (1) [961763](https://platzi.com/comentario/961763/) 
+	
+	![Switch Imagen4.png](https://static.platzi.com/media/user_upload/Switch%20Imagen4-b09406ba-66f1-437c-a5a0-c48b4be78a3c.jpg)
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [961026](https://platzi.com/comentario/961026/) 
 
 	```
 	        printf("Primer reto: Escoge una puerta... \n");
@@ -14571,9 +13914,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [956273](https://platzi.com/comentario/956273/) 
 
-	
 	Reto
 	``` 
 	    <code>
@@ -14616,7 +13958,7 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	De los cursos con los desafios más balanceados felicitaciones!!
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [955166](https://platzi.com/comentario/955166/) 
 
 	```
 	    #include<stdio.h>
@@ -14644,9 +13986,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Paola Rodríguez** (1)
+* **Paola Rodríguez** (1) [953078](https://platzi.com/comentario/953078/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -14688,9 +14029,8 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [952053](https://platzi.com/comentario/952053/) 
 
-	
 	int main()  
 	{  
 	int objeto;  
@@ -14719,14 +14059,12 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	
 	}
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945297](https://platzi.com/comentario/945297/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **arielr85** (1)
+* **arielr85** (1) [945127](https://platzi.com/comentario/945127/) 
 
-	
 	RETO
 	``` 
 	    <#include <stdio.h>
@@ -14763,12 +14101,11 @@ Se tiene una condición que se puede cumplir dependiendo de diferentes casos, ca
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943770](https://platzi.com/comentario/943770/) 
 Dos puntos por terminar de ver el vídeo :v
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [936399](https://platzi.com/comentario/936399/) 
 
-	
 	 **Piedra, papel o tijeras:**
 	``` 
 	    #include <stdio.h>
@@ -14810,9 +14147,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [934480](https://platzi.com/comentario/934480/) 
 
-	
 	Reto gaticos
 	``` 
 	    #include<stdio.h>
@@ -14854,7 +14190,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [922981](https://platzi.com/comentario/922981/) 
 
 	```
 	    ```#include <stdio.h>
@@ -14891,9 +14227,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [920363](https://platzi.com/comentario/920363/) 
 
-	
 	**Reto cumplido**
 	``` 
 	    #include<stdio.h>
@@ -14936,7 +14271,7 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	😄
 
-* **José Manuel Rodríguez Villarreal** (1)
+* **José Manuel Rodríguez Villarreal** (1) [919202](https://platzi.com/comentario/919202/) 
 
 	```
 	    #include <stdio.h>
@@ -14978,9 +14313,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [914563](https://platzi.com/comentario/914563/) 
 
-	
 	Reto con un poco de **Stranger Things**!
 	``` 
 	    #include <stdio.h>
@@ -15022,9 +14356,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **camilogt121** (1)
+* **camilogt121** (1) [910559](https://platzi.com/comentario/910559/) 
 
-	
 	console.log(“Te encuentras en un sueño y tienes 3 caminos”);  
 	console.log(“Escribe 1 si quieres ir por el camino de dulces”);  
 	console.log(“Escribe 2 si quieres ir por el camino de arcoiris”);  
@@ -15050,7 +14383,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    }
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [898987](https://platzi.com/comentario/898987/) 
 
 	```
 	    #include <stdio.h>
@@ -15090,7 +14423,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **JP** (1)
+* **JP** (1) [895014](https://platzi.com/comentario/895014/) 
 
 	```
 	    <code>
@@ -15123,9 +14456,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [892004](https://platzi.com/comentario/892004/) 
 
-	
 	Si vieron la pelicula IT, la del payaso asesino entenderan:
 	``` 
 	    #include <stdio.h>
@@ -15163,7 +14495,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Laura Camila Hurtado Hurtado** (1)
+* **Laura Camila Hurtado Hurtado** (1) [883717](https://platzi.com/comentario/883717/) 
 
 	```
 	    int option;
@@ -15203,9 +14535,8 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [882401](https://platzi.com/comentario/882401/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -15244,10 +14575,11 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **FerMP** (1)
-![reto4.png](https://static.platzi.com/media/user_upload/reto4-75564c72-16d4-495e-8eff-7feae3f745b8.jpg)
+* **FerMP** (1) [880033](https://platzi.com/comentario/880033/) 
+	
+	![reto4.png](https://static.platzi.com/media/user_upload/reto4-75564c72-16d4-495e-8eff-7feae3f745b8.jpg)
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [879983](https://platzi.com/comentario/879983/) 
 
 	```
 	    //Reto 1
@@ -15289,15 +14621,13 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Gabriel Aguilar** (1)
+* **Gabriel Aguilar** (1) [875266](https://platzi.com/comentario/875266/) 
 
-	
 	JUEGO PEGI 18  
 	![switch.jpg](https://static.platzi.com/media/user_upload/switch-7feffe02-fa65-4664-9ab1-3f577e60ae7d.jpg)
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [874962](https://platzi.com/comentario/874962/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -15329,9 +14659,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    }
 	```
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [874872](https://platzi.com/comentario/874872/) 
 
-	
 	#include <stdlib.h>  
 	#include <stdio.h>
 	
@@ -15370,9 +14699,8 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [874083](https://platzi.com/comentario/874083/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -15404,7 +14732,7 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **Luis Xavier Perez Miramontes** (1)
+* **Luis Xavier Perez Miramontes** (1) [871883](https://platzi.com/comentario/871883/) 
 
 	```
 	    #include <stdio.h>
@@ -15446,7 +14774,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **efrain-molina** (1)
+* **efrain-molina** (1) [858188](https://platzi.com/comentario/858188/) 
 
 	```
 	    #include <stdio.h>
@@ -15483,9 +14811,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [854008](https://platzi.com/comentario/854008/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -15521,9 +14848,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [849333](https://platzi.com/comentario/849333/) 
 
-	
 	no es muy creativo pero hice lo mejor que se me ocurrio (;
 	``` 
 	    <codet main()
@@ -15557,7 +14883,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [840263](https://platzi.com/comentario/840263/) 
 
 	```
 	    let numberUsuario = newArray(1).fill(0).map(() => Math.floor(Math.random() * 4));
@@ -15581,19 +14907,18 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **DUFP** (1)
-![reto9.PNG](https://static.platzi.com/media/user_upload/reto9-e2a21a2a-6851-4a21-8d9f-8cd3ad41f8d7.jpg)
-
-* **laj-lukum** (1)
-
+* **DUFP** (1) [839488](https://platzi.com/comentario/839488/) 
 	
+	![reto9.PNG](https://static.platzi.com/media/user_upload/reto9-e2a21a2a-6851-4a21-8d9f-8cd3ad41f8d7.jpg)
+
+* **laj-lukum** (1) [838746](https://platzi.com/comentario/838746/) 
+
 	Reto Switch
 	
 	![Capture10.PNG](https://static.platzi.com/media/user_upload/Capture10-6d8e3bc8-d0fe-4e19-9a69-3934e32e66f0.jpg)
 
-* **gal16v8d** (1)
+* **gal16v8d** (1) [837983](https://platzi.com/comentario/837983/) 
 
-	
 	Código en python
 	``` 
 	    print("Condicional switch \n")
@@ -15619,16 +14944,16 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [82900](https://platzi.com/comentario/1014896/) 
 Es posible que en la opción default pueda poner un condición para que el usuario deba ingresar una opción, en vez de cerrar el switch? Gr...
 
-	* **Fabrizio López** (1)
+	* **Fabrizio López** [82900] (1)
 Claro, en default puedes colocar algo como "por favor, ingresa una opción válida".. y después volver a pedir que ingrese el número. Para hacer esto, debes colocar el switch dentro de un bucle, en tu caso serviría un do while, o un while... Que creo que lo explican en la siguiente clase :)
 
-* **aquinomariodavid** (0)
+* **aquinomariodavid** (0) [74290](https://platzi.com/comentario/850069/) 
 #include <stdio.h> #include <stdlib.h> int main() { int option; printf("Bienvenido a mente maestra! \nElige la...
 
-## 0110. ¿Qué es un iterador - Ciclo While
+## 0110. ¿Qué es un iterador - Ciclo While [16471](https://platzi.com/clases/1450-programacion-estructurada/16471-que-es-un-iterador-while/)
 
 ### Descripción:
 
@@ -15642,9 +14967,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 
 ### Comentarios:
 
-* **Camilo Echeverry** (2)
+* **Camilo Echeverry** (2) [1000873](https://platzi.com/comentario/1000873/) 
 
-	
 	Reto 5 gatos #
 	
 	#include <stdio.h>  
@@ -15665,9 +14989,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	return 0;  
 	}
 
-* **Hector Franco Torres Manzano** (2)
+* **Hector Franco Torres Manzano** (2) [854030](https://platzi.com/comentario/854030/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -15686,9 +15009,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Sabino Fernández** (1)
+* **Sabino Fernández** (1) [1116389](https://platzi.com/comentario/1116389/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -15711,10 +15033,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-04-09 19-44-12.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2019-44-12-ff7154ce-7e8b-4cca-9f2c-995d491b1f7c.jpg)
+* **Angie Garcia** (1) [1116387](https://platzi.com/comentario/1116387/) 
+	
+	![Captura de pantalla de 2020-04-09 19-44-12.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-09%2019-44-12-ff7154ce-7e8b-4cca-9f2c-995d491b1f7c.jpg)
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [1116383](https://platzi.com/comentario/1116383/) 
 
 	```
 	    #include<stdio.h>
@@ -15739,10 +15062,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **keila martinez** (1)
-![RETO 7.PNG](https://static.platzi.com/media/user_upload/RETO%207-33e496b7-f3c2-40c1-8bd8-25d0e272fd4f.jpg)
+* **keila martinez** (1) [1111532](https://platzi.com/comentario/1111532/) 
+	
+	![RETO 7.PNG](https://static.platzi.com/media/user_upload/RETO%207-33e496b7-f3c2-40c1-8bd8-25d0e272fd4f.jpg)
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1104787](https://platzi.com/comentario/1104787/) 
 
 	```
 	    #include <stdio.h>
@@ -15778,9 +15102,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **CesarABN** (1)
+* **CesarABN** (1) [1102904](https://platzi.com/comentario/1102904/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -15801,7 +15124,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **Wilson Montenegro** (1)
+* **Wilson Montenegro** (1) [1092067](https://platzi.com/comentario/1092067/) 
 
 	```
 	    print("Iterador while")
@@ -15815,13 +15138,15 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Edison Renato Valdez Vega** (1)
-![retoIteracion.png](https://static.platzi.com/media/user_upload/retoIteracion-f941f140-281b-4a4c-b574-dd2934363eab.jpg)
+* **Edison Renato Valdez Vega** (1) [1088606](https://platzi.com/comentario/1088606/) 
+	
+	![retoIteracion.png](https://static.platzi.com/media/user_upload/retoIteracion-f941f140-281b-4a4c-b574-dd2934363eab.jpg)
 
-* **JobForero** (1)
-![Screenshot_1Numeral.png](https://static.platzi.com/media/user_upload/Screenshot_1Numeral-4972449e-f2f3-4e99-af85-bb36761ca444.jpg)
+* **JobForero** (1) [1077478](https://platzi.com/comentario/1077478/) 
+	
+	![Screenshot_1Numeral.png](https://static.platzi.com/media/user_upload/Screenshot_1Numeral-4972449e-f2f3-4e99-af85-bb36761ca444.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1067380](https://platzi.com/comentario/1067380/) 
 
 	```
 	    int vueltas =1;
@@ -15833,7 +15158,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Francisco Emmanuel Ferrer Estrada** (1)
+* **Francisco Emmanuel Ferrer Estrada** (1) [1066692](https://platzi.com/comentario/1066692/) 
 
 	```
 	    #include <stdlib.h>
@@ -15855,13 +15180,15 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Larry Perez** (1)
-![Reto1 video11.png](https://static.platzi.com/media/user_upload/Reto1%20video11-1887f021-6e97-4384-8629-969f81948f13.jpg)
+* **Larry Perez** (1) [1065912](https://platzi.com/comentario/1065912/) 
+	
+	![Reto1 video11.png](https://static.platzi.com/media/user_upload/Reto1%20video11-1887f021-6e97-4384-8629-969f81948f13.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto9.PNG](https://static.platzi.com/media/user_upload/Reto9-f8822d02-a70e-4f25-af6e-2a5dbbcd0a51.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1064790](https://platzi.com/comentario/1064790/) 
+	
+	![Reto9.PNG](https://static.platzi.com/media/user_upload/Reto9-f8822d02-a70e-4f25-af6e-2a5dbbcd0a51.jpg)
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1063290](https://platzi.com/comentario/1063290/) 
 
 	```
 	    #include<stdio.h>
@@ -15883,7 +15210,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1062965](https://platzi.com/comentario/1062965/) 
 
 	```
 	    int main(int argc, char *argv[]) {
@@ -15906,7 +15233,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [1060141](https://platzi.com/comentario/1060141/) 
 
 	```
 	    // Reto
@@ -15919,16 +15246,14 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1060040](https://platzi.com/comentario/1060040/) 
 
-	
 	Reto:
 	
 	![](![reto10.png](https://static.platzi.com/media/user_upload/reto10-8c41d54d-be04-4fca-b1b4-c6e80441004e.jpg)
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059498](https://platzi.com/comentario/1059498/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -15947,13 +15272,15 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **paola-diaz361** (1)
-![retoWhile1.PNG](https://static.platzi.com/media/user_upload/retoWhile1-5cdaed7b-bf49-4bb9-a722-a416f0aa8480.jpg)
+* **paola-diaz361** (1) [1051458](https://platzi.com/comentario/1051458/) 
+	
+	![retoWhile1.PNG](https://static.platzi.com/media/user_upload/retoWhile1-5cdaed7b-bf49-4bb9-a722-a416f0aa8480.jpg)
 
-* **paola-diaz361** (1)
-![estrucWhile1.PNG](https://static.platzi.com/media/user_upload/estrucWhile1-aee6e544-b1b7-4dbe-a4e7-35ee1b5baa91.jpg)
+* **paola-diaz361** (1) [1051437](https://platzi.com/comentario/1051437/) 
+	
+	![estrucWhile1.PNG](https://static.platzi.com/media/user_upload/estrucWhile1-aee6e544-b1b7-4dbe-a4e7-35ee1b5baa91.jpg)
 
-* **Karmen Kastro** (1)
+* **Karmen Kastro** (1) [1049339](https://platzi.com/comentario/1049339/) 
 
 	```
 	    #include <stdio.h>
@@ -15982,9 +15309,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1048086](https://platzi.com/comentario/1048086/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -16009,9 +15335,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1036269](https://platzi.com/comentario/1036269/) 
 
-	
 	#include<stdio.h>  
 	#include<stdlib.h>
 	
@@ -16035,14 +15360,12 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1036257](https://platzi.com/comentario/1036257/) 
 
-	
 	inicia ahroa los loop y bucles
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1032986](https://platzi.com/comentario/1032986/) 
 
-	
 	Reto Completado.
 	``` 
 	    #include <stdio.h>
@@ -16066,15 +15389,13 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1027415](https://platzi.com/comentario/1027415/) 
 
-	
 	Reto No. 1 😄  
 	![DivaUlloaClase11Reto1.png](https://static.platzi.com/media/user_upload/DivaUlloaClase11Reto1-48d22bc6-605d-4648-8ead-eead9d310761.jpg)
 
-* **jonathan-cordoba68** (1)
+* **jonathan-cordoba68** (1) [1026725](https://platzi.com/comentario/1026725/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -16097,9 +15418,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    }
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025357](https://platzi.com/comentario/1025357/) 
 
-	
 	Reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -16141,9 +15461,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025340](https://platzi.com/comentario/1025340/) 
 
-	
 	Ejercicio:
 	``` 
 	    #include <stdio.h>
@@ -16184,7 +15503,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [1024984](https://platzi.com/comentario/1024984/) 
 
 	```
 	    #include <stdio.h>
@@ -16208,7 +15527,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1023737](https://platzi.com/comentario/1023737/) 
 
 	```
 	    #include <stdio.h>
@@ -16233,15 +15552,13 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1020273](https://platzi.com/comentario/1020273/) 
 
-	
 	Reto  
 	![limites.PNG](https://static.platzi.com/media/user_upload/limites-5aa23caa-1987-4f56-9e2f-e047abe9642d.jpg)
 
-* **Edwin5000** (1)
+* **Edwin5000** (1) [1017093](https://platzi.com/comentario/1017093/) 
 
-	
 	int main()  
 	{  
 	printf(“Imprimo 5 # \n\n”);
@@ -16263,7 +15580,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1016617](https://platzi.com/comentario/1016617/) 
 
 	```
 	    #include <stdio.h>
@@ -16288,10 +15605,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6a3d4d7b-be6a-41e3-858c-8b37fcab277a.jpg)
+* **jhonsoccer11** (1) [1013156](https://platzi.com/comentario/1013156/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6a3d4d7b-be6a-41e3-858c-8b37fcab277a.jpg)
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1013100](https://platzi.com/comentario/1013100/) 
 
 	```
 	    #include<stdio.h>
@@ -16314,7 +15632,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1010233](https://platzi.com/comentario/1010233/) 
 
 	```
 	    <#include <stdio.h>
@@ -16336,9 +15654,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1008408](https://platzi.com/comentario/1008408/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -16360,15 +15677,13 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1005417](https://platzi.com/comentario/1005417/) 
 
-	
 	Reto♥♥♥  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-5eb8ffa8-a3a0-4ae1-bdd9-cc490f005f02.jpg)
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1004806](https://platzi.com/comentario/1004806/) 
 
-	
 	Reto # 1 de Ciclo While
 	``` 
 	    #include<stdio.h>
@@ -16391,12 +15706,12 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **ronyaab1710** (1)
-![while.png](https://static.platzi.com/media/user_upload/while-a9d1fb25-b28f-4c20-bc79-9661884561b4.jpg)
-
-* **Mayo Prieto** (1)
-
+* **ronyaab1710** (1) [1004708](https://platzi.com/comentario/1004708/) 
 	
+	![while.png](https://static.platzi.com/media/user_upload/while-a9d1fb25-b28f-4c20-bc79-9661884561b4.jpg)
+
+* **Mayo Prieto** (1) [1004512](https://platzi.com/comentario/1004512/) 
+
 	Reto!!!
 	``` 
 	    int main()
@@ -16413,9 +15728,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [1004473](https://platzi.com/comentario/1004473/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -16442,7 +15756,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1003057](https://platzi.com/comentario/1003057/) 
 
 	```
 	     printf("Reto #1 \n");
@@ -16457,7 +15771,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Erick Mancilla Sánchez** (1)
+* **Erick Mancilla Sánchez** (1) [1002859](https://platzi.com/comentario/1002859/) 
 
 	```
 	    #include<stdio.h>
@@ -16482,7 +15796,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002323](https://platzi.com/comentario/1002323/) 
 
 	```
 	    int n, i=1;
@@ -16497,12 +15811,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1001248](https://platzi.com/comentario/1001248/) 
 
-	
 	Reto Cumplido Con Incremento![R1WhileFive#.PNG](https://static.platzi.com/media/user_upload/R1WhileFive%23-22ad35ed-6ee5-4534-a902-8fe7d5712f50.jpg)
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1000797](https://platzi.com/comentario/1000797/) 
 
 	```
 	    int main()
@@ -16525,9 +15838,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **alan valencia** (1)
+* **alan valencia** (1) [999796](https://platzi.com/comentario/999796/) 
 
-	
 	#include<stdio.h>  
 	int main(){  
 	int a=1;  
@@ -16536,10 +15848,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	return 0;  
 	}
 
-* **Leisy Karina Algarra Fernandez** (1)
-![decremento.png](https://static.platzi.com/media/user_upload/decremento-8e809ddd-2b9b-4486-98ca-5dd5c5c6698f.jpg)
+* **Leisy Karina Algarra Fernandez** (1) [999695](https://platzi.com/comentario/999695/) 
+	
+	![decremento.png](https://static.platzi.com/media/user_upload/decremento-8e809ddd-2b9b-4486-98ca-5dd5c5c6698f.jpg)
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [996510](https://platzi.com/comentario/996510/) 
 
 	```
 	    #include <stdio.h>
@@ -16562,9 +15875,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [992940](https://platzi.com/comentario/992940/) 
 
-	
 	reto
 	
 	![2020-02-18 17_09_46-_D__JuanD_Documents_vivi-soto_programacion estructurada_reto10_bin_Debug_reto10..png](https://static.platzi.com/media/user_upload/2020-02-18%2017_09_46-_D__JuanD_Documents_vivi-soto_programacion%20estructurada_reto10_bin_Debug_reto10.-75ca9a76-6249-4168-935a-e385fe2d3805.jpg)
@@ -16590,9 +15902,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [992148](https://platzi.com/comentario/992148/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -16611,13 +15922,12 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [991231](https://platzi.com/comentario/991231/) 
 
-	
 	Reto cumplido!!!  
 	![Reto While.png](https://static.platzi.com/media/user_upload/Reto%20While-1115e9a0-531d-4a83-863d-0cbbe6f5238f.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [990885](https://platzi.com/comentario/990885/) 
 
 	```
 	    #include<stdio.h>
@@ -16637,9 +15947,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [989502](https://platzi.com/comentario/989502/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -16659,9 +15968,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [988277](https://platzi.com/comentario/988277/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -16684,9 +15992,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986603](https://platzi.com/comentario/986603/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -16704,9 +16011,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [980202](https://platzi.com/comentario/980202/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -16730,7 +16036,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Alberto Salas** (1)
+* **Alberto Salas** (1) [978086](https://platzi.com/comentario/978086/) 
 
 	```
 	    int main()
@@ -16748,9 +16054,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977766](https://platzi.com/comentario/977766/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -16770,14 +16075,12 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [975164](https://platzi.com/comentario/975164/) 
 
-	
 	No entendi como imprimir el simbolo de gato
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [973885](https://platzi.com/comentario/973885/) 
 
-	
 	Reto while:
 	``` 
 	    #include <stdio.h>
@@ -16800,9 +16103,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **BotDrako** (1)
+* **BotDrako** (1) [971001](https://platzi.com/comentario/971001/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -16829,7 +16131,7 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [966441](https://platzi.com/comentario/966441/) 
 
 	```
 	    int main()
@@ -16844,9 +16146,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **JAVIER STIVEN MURILLO CORREA** (1)
+* **JAVIER STIVEN MURILLO CORREA** (1) [964431](https://platzi.com/comentario/964431/) 
 
-	
 	reto:
 	``` 
 	    #include<stdio.h>
@@ -16866,12 +16167,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [961855](https://platzi.com/comentario/961855/) 
 
-	
 	Buenas, el reto se me hizo muy complicado. ¿alguna sugerencia?
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [961046](https://platzi.com/comentario/961046/) 
 
 	```
 	        printf("reto 1: While \n");
@@ -16888,9 +16188,8 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [945498](https://platzi.com/comentario/945498/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -16909,14 +16208,12 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	
 	}
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945312](https://platzi.com/comentario/945312/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **arielr85** (1)
+* **arielr85** (1) [945191](https://platzi.com/comentario/945191/) 
 
-	
 	Reto
 	``` 
 	    <#include <stdio.h>
@@ -16938,12 +16235,11 @@ Es una estructura de control en la que la repetición se realizará tantas veces
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [943768](https://platzi.com/comentario/943768/) 
 Dos puntos por terminar de ver el vídeo :v
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [943719](https://platzi.com/comentario/943719/) 
 
-	
 	reto cumplido
 	``` 
 	    #include<iostream>
@@ -16964,15 +16260,13 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [937128](https://platzi.com/comentario/937128/) 
 
-	
 	Yes!!  
 	![challenge.jpg](https://static.platzi.com/media/user_upload/challenge-be8c5369-bd06-44b5-8f6e-00c97ef1494a.jpg)
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [934567](https://platzi.com/comentario/934567/) 
 
-	
 	Reto #
 	``` 
 	    #include<stdio.h>
@@ -16989,7 +16283,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **José Manuel Rodríguez Villarreal** (1)
+* **José Manuel Rodríguez Villarreal** (1) [924250](https://platzi.com/comentario/924250/) 
 
 	```
 	    #include<stdio.h>
@@ -17016,7 +16310,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [923370](https://platzi.com/comentario/923370/) 
 
 	```
 	    #include<stdio.h>
@@ -17038,9 +16332,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [920447](https://platzi.com/comentario/920447/) 
 
-	
 	**Reto cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -17062,9 +16355,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [914626](https://platzi.com/comentario/914626/) 
 
-	
 	El reto más rápido hasta ahora! 😄
 	``` 
 	    #include <stdio.h>
@@ -17088,7 +16380,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [899415](https://platzi.com/comentario/899415/) 
 
 	```
 	    #include<stdio.h>
@@ -17108,9 +16400,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [893254](https://platzi.com/comentario/893254/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -17133,9 +16424,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [882434](https://platzi.com/comentario/882434/) 
 
-	
 	Reto1  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -17158,7 +16448,7 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [880008](https://platzi.com/comentario/880008/) 
 
 	```
 	    #include <stdio.h>
@@ -17179,9 +16469,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [875235](https://platzi.com/comentario/875235/) 
 
-	
 	#include <stdlib.h>  
 	#include <stdio.h>
 	
@@ -17199,9 +16488,8 @@ Dos puntos por terminar de ver el vídeo :v
 	}  
 	}
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [875006](https://platzi.com/comentario/875006/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>
@@ -17231,9 +16519,8 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [874110](https://platzi.com/comentario/874110/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -17256,7 +16543,7 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **efrain-molina** (1)
+* **efrain-molina** (1) [858211](https://platzi.com/comentario/858211/) 
 
 	```
 	    #include<stdio.h>
@@ -17277,7 +16564,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [850121](https://platzi.com/comentario/850121/) 
 
 	```
 	    #include<stdio.h>
@@ -17297,7 +16584,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [849403](https://platzi.com/comentario/849403/) 
 
 	```
 	        printf("reto de while \n");
@@ -17316,7 +16603,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [841433](https://platzi.com/comentario/841433/) 
 
 	```
 	    #include<stdio.h>
@@ -17340,7 +16627,7 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **irwinmax** (1)
+* **irwinmax** (1) [841107](https://platzi.com/comentario/841107/) 
 
 	```
 	    <int main()
@@ -17359,14 +16646,13 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [840783](https://platzi.com/comentario/840783/) 
 
-	
 	Empezo a no funcionar Code::Blocks. Empezare a usar Atom creo, ya lo configure.
 	
 	![Capture11.PNG](https://static.platzi.com/media/user_upload/Capture11-4a682933-3450-4dd6-ba2a-f367d567df10.jpg)
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [840289](https://platzi.com/comentario/840289/) 
 
 	```
 	    let hashtag = "#"
@@ -17378,12 +16664,12 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **DUFP** (1)
-![reto10.PNG](https://static.platzi.com/media/user_upload/reto10-291968ce-48ba-4b8c-a948-954eed14109b.jpg)
-
-* **gal16v8d** (1)
-
+* **DUFP** (1) [839512](https://platzi.com/comentario/839512/) 
 	
+	![reto10.PNG](https://static.platzi.com/media/user_upload/reto10-291968ce-48ba-4b8c-a948-954eed14109b.jpg)
+
+* **gal16v8d** (1) [837999](https://platzi.com/comentario/837999/) 
+
 	Ejemplo video Python
 	``` 
 	    print("Iterador while \n")
@@ -17398,9 +16684,8 @@ Dos puntos por terminar de ver el vídeo :v
 	    
 	```
 
-* **Joaquin Martinez** (1)
+* **Joaquin Martinez** (1) [827741](https://platzi.com/comentario/827741/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -17421,20 +16706,18 @@ Dos puntos por terminar de ver el vídeo :v
 	
 	}
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [83714](https://platzi.com/comentario/1032996/) 
 Alguien puede explicarme este codigo. #include <stdio.h> #include <stdlib.h> int main() { int numero = 5; whi...
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [83714] (1)
 
-		
 		Está evaluando que el **numero** sea un valor “Truty” o verdadero que en el caso de los números positivos lo es. Dentro del while va restando para que en algún punto **numero** sea 0 y por lo tanto falso y así salir de loop.
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [80387](https://platzi.com/comentario/957891/) 
 ¿Por que no me funciona el código? <code> #include <stdio.h> #include <stdlib.h> int main(){ int valor; i...
 
-	* **AnthonySQC** (2)
+	* **AnthonySQC** [80387] (2)
 
-		
 		Hola William,  
 		la función printf que tienes dentro del while te producirá errores ya que printf funciona recibiendo una cadena y las variables que tiene que imprimir, te dejo un código modificado:
 		``` 
@@ -17466,12 +16749,11 @@ Alguien puede explicarme este codigo. #include <stdio.h> #include <stdlib.h> int
 		<https://fresh2refresh.com/c-programming/c-printf-and-scanf/>  
 		Un saludo.
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [80386](https://platzi.com/comentario/957890/) 
 #include <stdio.h> #include <stdlib.h> int main(){ int valor; int resta = 1; printf(""); printf("\n| TABLAS ...
 
-	* **sennin** (1)
+	* **sennin** [80386] (1)
 
-		
 		buen dia @WilliamDussan.
 		
 		la línea
@@ -17496,18 +16778,16 @@ Alguien puede explicarme este codigo. #include <stdio.h> #include <stdlib.h> int
 		[](http://www.it.uc3m.es/pbasanta/asng/course_notes/input_output_printf_es.html)  
 		[](https://es.cppreference.com/w/cpp/io/c/printf_format)
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [74509](https://platzi.com/comentario/854034/) 
 ¿Para qué sirve el return 0; al final del main()?
 
-	* **Pablo Ulises Rojas** (5)
+	* **Pablo Ulises Rojas** [74509] (5)
 
-		
 		La función fuerza la salida de una función, en este caso el main().  
 		En este caso, ademas de forzar la salida de la función, lo que hace es devolver un valor, en este caso, el 0 es para indicar que el programa se ejecutó exitosamente. Si fuera un 1 el se indicaría que el programa tuvo un error.
 
-* **luis angel muñoz gonzalez** (0)
+* **luis angel muñoz gonzalez** (0) [1074513](https://platzi.com/comentario/1074513/) 
 
-	
 	Saludos fui algo mas avanzado espero este bien 😃
 	
 	#include <stdio.h>  
@@ -17574,7 +16854,7 @@ Alguien puede explicarme este codigo. #include <stdio.h> #include <stdlib.h> int
 	
 	}
 
-* **Alberto Salas** (0)
+* **Alberto Salas** (0) [980622](https://platzi.com/comentario/980622/) 
 
 	```
 	    int main()
@@ -17592,7 +16872,7 @@ Alguien puede explicarme este codigo. #include <stdio.h> #include <stdlib.h> int
 	    
 	```
 
-## 0120. Ciclo For
+## 0120. Ciclo For [16474](https://platzi.com/clases/1450-programacion-estructurada/16474-ciclo-for/)
 
 ### Descripción:
 
@@ -17606,22 +16886,21 @@ Este ciclo se compone de tres partes:
 
 ### Comentarios:
 
-* **orianasuljeisposadamolina** (2)
+* **orianasuljeisposadamolina** (2) [1063148](https://platzi.com/comentario/1063148/) 
 
-	
 	Reto:  
 	![](![reto11.png](https://static.platzi.com/media/user_upload/reto11-090f4bd0-e56c-4028-beda-3823555508b0.jpg)
 
-* **paola-diaz361** (2)
-![retoSerieFibonacci.PNG](https://static.platzi.com/media/user_upload/retoSerieFibonacci-8822e75a-6ae1-4892-acd6-a40361f3e104.jpg)
-
-* **Henry Sanchez** (2)
-
+* **paola-diaz361** (2) [1051721](https://platzi.com/comentario/1051721/) 
 	
+	![retoSerieFibonacci.PNG](https://static.platzi.com/media/user_upload/retoSerieFibonacci-8822e75a-6ae1-4892-acd6-a40361f3e104.jpg)
+
+* **Henry Sanchez** (2) [1026981](https://platzi.com/comentario/1026981/) 
+
 	Reto Fibonacci  
 	![fibonacci.PNG](https://static.platzi.com/media/user_upload/fibonacci-8cc4cde4-9203-4298-af0a-95ab96059441.jpg)
 
-* **johngiraldo** (2)
+* **johngiraldo** (2) [1013864](https://platzi.com/comentario/1013864/) 
 
 	```
 	    #include <stdio.h>
@@ -17655,23 +16934,22 @@ Este ciclo se compone de tres partes:
 	    
 	```
 
-* **jhonsoccer11** (2)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6b3bd2b5-ecc5-418b-bb8b-765f70c58ec8.jpg)
-
-* **jmacalupur** (2)
-
+* **jhonsoccer11** (2) [1013162](https://platzi.com/comentario/1013162/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6b3bd2b5-ecc5-418b-bb8b-765f70c58ec8.jpg)
+
+* **jmacalupur** (2) [980271](https://platzi.com/comentario/980271/) 
+
 	Reto:
 	
 	![Captura de Pantalla 2020-02-11 a la\(s\) 19.49.56.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-11%20a%20la%28s%29%2019.49.56-cc8fb12c-6aae-4ada-9fe0-6cf30d974884.jpg)
 
-* **zayrasaavedrauribe** (2)
+* **zayrasaavedrauribe** (2) [963343](https://platzi.com/comentario/963343/) 
 
-	
 	Difícil el reto  
 	![Fibonacci1.png](https://static.platzi.com/media/user_upload/Fibonacci1-698233e7-9c79-4241-8186-94c9784ba5f8.jpg)
 
-* **Daniel_RiveraB** (2)
+* **Daniel_RiveraB** (2) [955349](https://platzi.com/comentario/955349/) 
 
 	```
 	    #include <stdio.h>
@@ -17693,14 +16971,12 @@ Este ciclo se compone de tres partes:
 	    
 	```
 
-	* **William Andres Dussan Gonzalez** (1)
+	* **William Andres Dussan Gonzalez** [955349] (1)
 
-		
 		Viejo en el ultimo printf pon el n1, no el n3
 
-* **Antonio Rafael González Ferrer** (2)
+* **Antonio Rafael González Ferrer** (2) [759596](https://platzi.com/comentario/759596/) 
 
-	
 	 **Reto**
 	``` 
 	    int main()
@@ -17724,17 +17000,15 @@ Este ciclo se compone de tres partes:
 	    
 	```
 
-* **jeydvc** (2)
+* **jeydvc** (2) [58833](https://platzi.com/comentario/582463/) 
 Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no me da, les agradezco mucho la ayuda.
 
-	* **davidtoca (Platzi)** (1)
+	* **davidtoca (Platzi)** [58833] (1)
 
-		
 		ya tienes experiencia en programación? tal vez deberías empezar por tomar el curso de origen básica
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1109114](https://platzi.com/comentario/1109114/) 
 
-	
 	Usando ciclos while y for. Utilizando la misma logica de programacion
 	``` 
 	    #include <stdio.h>
@@ -17802,15 +17076,16 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Edison Renato Valdez Vega** (1)
-![fibonacci.png](https://static.platzi.com/media/user_upload/fibonacci-11435074-ea09-4fa3-bf30-c2863eabdb9f.jpg)
-
-* **JobForero** (1)
-![Screenshot_1_fibonaccie.png](https://static.platzi.com/media/user_upload/Screenshot_1_fibonaccie-df2aa320-14b9-4572-af24-0f2ae3b7aefc.jpg)
-
-* **luis angel muñoz gonzalez** (1)
-
+* **Edison Renato Valdez Vega** (1) [1088638](https://platzi.com/comentario/1088638/) 
 	
+	![fibonacci.png](https://static.platzi.com/media/user_upload/fibonacci-11435074-ea09-4fa3-bf30-c2863eabdb9f.jpg)
+
+* **JobForero** (1) [1077797](https://platzi.com/comentario/1077797/) 
+	
+	![Screenshot_1_fibonaccie.png](https://static.platzi.com/media/user_upload/Screenshot_1_fibonaccie-df2aa320-14b9-4572-af24-0f2ae3b7aefc.jpg)
+
+* **luis angel muñoz gonzalez** (1) [1074761](https://platzi.com/comentario/1074761/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -17842,10 +17117,11 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto10.PNG](https://static.platzi.com/media/user_upload/Reto10-6f613591-77c0-4051-afa0-7a2cda19fc98.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1071750](https://platzi.com/comentario/1071750/) 
+	
+	![Reto10.PNG](https://static.platzi.com/media/user_upload/Reto10-6f613591-77c0-4051-afa0-7a2cda19fc98.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1067819](https://platzi.com/comentario/1067819/) 
 
 	```
 	    int ini1 =0;
@@ -17863,24 +17139,21 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **AlexanderM** (1)
+* **AlexanderM** (1) [1067583](https://platzi.com/comentario/1067583/) 
 
-	
 	Hola compañeros ,
 	
 	Muchachos a alguno de ustedes al momento de correr el programa se les ha quedado en negro y no imprime nada en pantalla, aparte cuando le doy (BUILD AND RUN) se demora un monton en cargar la consola , no me esta arrojando errores de codigo, no se que sera.
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1066100](https://platzi.com/comentario/1066100/) 
 
-	
 	Estructura Fibonacci impresa hasta la novena vuelta.![Capture.PNG](https://static.platzi.com/media/user_upload/Capture-a0783c00-f790-44ea-8b67-4fa0a7c420e4.jpg)
 
-* **Larry Perez** (1)
+* **Larry Perez** (1) [1066092](https://platzi.com/comentario/1066092/) 
 
-	
 	Estructura Fibonacci impresa hasta la novena vuelta.![Capture.PNG](https://static.platzi.com/media/user_upload/Capture-1e166772-46c1-4c49-939d-9b3dbe07256a.jpg)
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1063312](https://platzi.com/comentario/1063312/) 
 
 	```
 	    #include <stdio.h>
@@ -17902,9 +17175,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Limber Maldonado Casillo** (1)
+* **Limber Maldonado Casillo** (1) [1059605](https://platzi.com/comentario/1059605/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -17928,12 +17200,12 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **paola-diaz361** (1)
-![for1.PNG](https://static.platzi.com/media/user_upload/for1-1990f4a8-167b-4647-a1c9-e4bb04873654.jpg)
-
-* **SteffiG** (1)
-
+* **paola-diaz361** (1) [1051725](https://platzi.com/comentario/1051725/) 
 	
+	![for1.PNG](https://static.platzi.com/media/user_upload/for1-1990f4a8-167b-4647-a1c9-e4bb04873654.jpg)
+
+* **SteffiG** (1) [1048175](https://platzi.com/comentario/1048175/) 
+
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -17961,9 +17233,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1036410](https://platzi.com/comentario/1036410/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -17992,9 +17263,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1034890](https://platzi.com/comentario/1034890/) 
 
-	
 	Reto de la clase:
 	``` 
 	    #include <stdio.h>
@@ -18024,7 +17294,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1029616](https://platzi.com/comentario/1029616/) 
 
 	```
 	    #include <stdio.h>
@@ -18056,9 +17326,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025461](https://platzi.com/comentario/1025461/) 
 
-	
 	Challenge:
 	``` 
 	    #include <stdio.h>
@@ -18107,9 +17376,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025402](https://platzi.com/comentario/1025402/) 
 
-	
 	Exercise:
 	``` 
 	    #include<stdio.h>
@@ -18157,7 +17425,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [1025027](https://platzi.com/comentario/1025027/) 
 
 	```
 	    #include <stdio.h>
@@ -18187,9 +17455,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Edwin5000** (1)
+* **Edwin5000** (1) [1017450](https://platzi.com/comentario/1017450/) 
 
-	
 	int main()  
 	{  
 	printf(“Reto for \n\n”);
@@ -18207,9 +17474,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1012299](https://platzi.com/comentario/1012299/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -18237,7 +17503,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1010366](https://platzi.com/comentario/1010366/) 
 
 	```
 	    <#include <stdio.h>
@@ -18265,7 +17531,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **ignacioequiroga** (1)
+* **ignacioequiroga** (1) [1009628](https://platzi.com/comentario/1009628/) 
 
 	```
 	    #include <stdio.h>
@@ -18293,9 +17559,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1006762](https://platzi.com/comentario/1006762/) 
 
-	
 	Reto # 1 Fibonacci hasta la vuelta 9
 	``` 
 	    #include <stdio.h>
@@ -18321,31 +17586,26 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-	* **Erik Manuel Guevara Ladino** (1)
+	* **Erik Manuel Guevara Ladino** [1006762] (1)
 
-		
 		sos un monstruo 😃
 
-	* **Juan Manuel Caro González** (1)
+	* **Juan Manuel Caro González** [1006762] (1)
 
-		
 		Excelente, con solo dos variables!
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1005747](https://platzi.com/comentario/1005747/) 
 
-	
 	Comparto el código con n número de vueltas.♥  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-5e91b642-8be9-4a5d-b5e3-031b2e43867a.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1005744](https://platzi.com/comentario/1005744/) 
 
-	
 	Reto ♥  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-9635fde7-6392-4d77-986a-04e23a2daaad.jpg)
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [1004615](https://platzi.com/comentario/1004615/) 
 
-	
 	Reto 1
 	``` 
 	    #include <stdio.h>
@@ -18372,10 +17632,11 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (1)
-![For.png](https://static.platzi.com/media/user_upload/For-7688bb62-790b-45f5-a5a3-d2e7e36a30db.jpg)
+* **Leisy Karina Algarra Fernandez** (1) [1004453](https://platzi.com/comentario/1004453/) 
+	
+	![For.png](https://static.platzi.com/media/user_upload/For-7688bb62-790b-45f5-a5a3-d2e7e36a30db.jpg)
 
-* **savier687** (1)
+* **savier687** (1) [1003640](https://platzi.com/comentario/1003640/) 
 
 	```
 	    int num1= 0, num2 =1;
@@ -18390,7 +17651,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002341](https://platzi.com/comentario/1002341/) 
 
 	```
 	      printf("Serie de Fibonacci");
@@ -18407,9 +17668,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1001969](https://platzi.com/comentario/1001969/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -18433,7 +17693,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1001496](https://platzi.com/comentario/1001496/) 
 
 	```
 	    int main()
@@ -18457,14 +17717,12 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1001343](https://platzi.com/comentario/1001343/) 
 
-	
 	Reto OK![RCicloFor.PNG](https://static.platzi.com/media/user_upload/RCicloFor-0ad757b1-8fcd-495e-b3d8-91481a453479.jpg)
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1000925](https://platzi.com/comentario/1000925/) 
 
-	
 	Reto Fibonacci
 	``` 
 	    #include <stdio.h>
@@ -18488,9 +17746,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Jesus David Zaraza Toro** (1)
+* **Jesus David Zaraza Toro** (1) [997841](https://platzi.com/comentario/997841/) 
 
-	
 	var num = prompt(“Ingrese el limite de la serie de Fibonacci”);
 	
 	var num1 = 0;  
@@ -18508,7 +17765,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	console.log (aux);  
 	}
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [997784](https://platzi.com/comentario/997784/) 
 
 	```
 	    int main()
@@ -18534,7 +17791,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [996570](https://platzi.com/comentario/996570/) 
 
 	```
 	    #include <stdio.h>
@@ -18555,7 +17812,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Mauricio Nicolás Arismendi Aedo** (1)
+* **Mauricio Nicolás Arismendi Aedo** (1) [995740](https://platzi.com/comentario/995740/) 
 
 	```
 	    int main()
@@ -18575,7 +17832,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [995709](https://platzi.com/comentario/995709/) 
 
 	```
 	    #include <stdio.h>
@@ -18606,17 +17863,16 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **MarianaGb** (1)
-![for.png](https://static.platzi.com/media/user_upload/for-e515fc87-5a1c-4ee7-8c16-8f8666e54717.jpg)
+* **MarianaGb** (1) [995658](https://platzi.com/comentario/995658/) 
+	
+	![for.png](https://static.platzi.com/media/user_upload/for-e515fc87-5a1c-4ee7-8c16-8f8666e54717.jpg)
 
-	* **Mauricio Nicolás Arismendi Aedo** (1)
+	* **Mauricio Nicolás Arismendi Aedo** [995658] (1)
 
-		
 		está súper creativo, aunque faltó 0, 1, 1… al principio
 
-* **vivisoto** (1)
+* **vivisoto** (1) [993737](https://platzi.com/comentario/993737/) 
 
-	
 	reto
 	``` 
 	    int main()
@@ -18643,9 +17899,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [992598](https://platzi.com/comentario/992598/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -18673,7 +17928,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **16angiec** (1)
+* **16angiec** (1) [991060](https://platzi.com/comentario/991060/) 
 
 	```
 	    #include <stdio.h>
@@ -18702,9 +17957,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [988738](https://platzi.com/comentario/988738/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -18730,9 +17984,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	        return0;```
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986718](https://platzi.com/comentario/986718/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -18757,9 +18010,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977849](https://platzi.com/comentario/977849/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -18783,9 +18035,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [975169](https://platzi.com/comentario/975169/) 
 
-	
 	reto cumplido
 	``` 
 	      printf("Sucesion fibonacci \n");
@@ -18801,9 +18052,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [975033](https://platzi.com/comentario/975033/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -18827,7 +18077,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [966542](https://platzi.com/comentario/966542/) 
 
 	```
 	    #include <stdio.h>
@@ -18855,7 +18105,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [961193](https://platzi.com/comentario/961193/) 
 
 	```
 	        printf("Reto: Fibonacci \n");
@@ -18874,9 +18124,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [952582](https://platzi.com/comentario/952582/) 
 
-	
 	int main ()  
 	{  
 	int fi,n;  
@@ -18895,9 +18144,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	return 0;  
 	}
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [943759](https://platzi.com/comentario/943759/) 
 
-	
 	reto cumplido
 	``` 
 	    #include<iostream>
@@ -18920,9 +18168,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [936736](https://platzi.com/comentario/936736/) 
 
-	
 	**Secuencia Fibonacci:**
 	``` 
 	    #include <stdio.h>
@@ -18950,7 +18197,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [933672](https://platzi.com/comentario/933672/) 
 
 	```
 	    #include <stdio.h>
@@ -18986,7 +18233,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [931491](https://platzi.com/comentario/931491/) 
 
 	```
 	    #include <stdio.h>
@@ -19016,9 +18263,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [914744](https://platzi.com/comentario/914744/) 
 
-	
 	Este sí estuvo para pensarse! 😮
 	``` 
 	    #include <stdio.h>
@@ -19045,7 +18291,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [899487](https://platzi.com/comentario/899487/) 
 
 	```
 	    #include <stdio.h>
@@ -19076,9 +18322,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [893297](https://platzi.com/comentario/893297/) 
 
-	
 	Se me complico algo por que me falta repasar algo de matemáticas pero lo logre:
 	``` 
 	    #include <stdio.h>
@@ -19102,9 +18347,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [888396](https://platzi.com/comentario/888396/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -19134,7 +18378,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [882598](https://platzi.com/comentario/882598/) 
 
 	```
 	    #include <stdio.h>
@@ -19160,9 +18404,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [875057](https://platzi.com/comentario/875057/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>
@@ -19198,9 +18441,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [874149](https://platzi.com/comentario/874149/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -19223,7 +18465,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Luis Xavier Perez Miramontes** (1)
+* **Luis Xavier Perez Miramontes** (1) [871992](https://platzi.com/comentario/871992/) 
 
 	```
 	    #include <stdio.h>
@@ -19247,9 +18489,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [867245](https://platzi.com/comentario/867245/) 
 
-	
 	No es del todo explicita pero aquí esta mi solución.
 	``` 
 	    #include<stdio.h>
@@ -19277,7 +18518,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **emrs** (1)
+* **emrs** (1) [858257](https://platzi.com/comentario/858257/) 
 
 	```
 	    int fib = 1;
@@ -19293,9 +18534,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [854064](https://platzi.com/comentario/854064/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -19329,7 +18569,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [850204](https://platzi.com/comentario/850204/) 
 
 	```
 	    #include <stdio.h>
@@ -19354,7 +18594,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [849508](https://platzi.com/comentario/849508/) 
 
 	```
 	    int main()
@@ -19378,9 +18618,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **gal16v8d** (1)
+* **gal16v8d** (1) [842762](https://platzi.com/comentario/842762/) 
 
-	
 	Reto en Python
 	``` 
 	    print('Serie fibonacci \n')
@@ -19398,9 +18637,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **gal16v8d** (1)
+* **gal16v8d** (1) [841654](https://platzi.com/comentario/841654/) 
 
-	
 	Ejercicio video en Python
 	``` 
 	    print('Interadores For \n')
@@ -19414,9 +18652,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **durbonca** (1)
+* **durbonca** (1) [841374](https://platzi.com/comentario/841374/) 
 
-	
 	Hola… Lo hice en JS porque… No se… Es JS pues… además quería hacer una sintaxis corta, sencilla y elegante… Como tu hermana.
 	``` 
 	    var primerNum = 0;
@@ -19430,16 +18667,14 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [841068](https://platzi.com/comentario/841068/) 
 
-	
 	¿Alguien podria ayudarme?. Code::Blocks me esta dando problemas, corre los primero pasos del programa pero ya luego se detiene, por ejemplo en este programa de For Loop. Imprime las primeras 3 lineas pero ya luego dice Press any key to contine y al precionar cualquier parte del teclado automaticamente se aborta la ejeccion. ¿Que puedo hacer?
 	
 	![Capture13.PNG](https://static.platzi.com/media/user_upload/Capture13-55becbaa-6088-4412-960b-a0ad7bbdc821.jpg)
 
-	* **OrlandoMgtrya** (2)
+	* **OrlandoMgtrya** [841068] (2)
 
-		
 		Lo que pasa es que hace falta el & antes de las variables en las funciones scanf
 		``` 
 		    scanf("%i", &upperLimit);
@@ -19447,12 +18682,12 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 		    
 		```
 
-* **DUFP** (1)
-![reto11.PNG](https://static.platzi.com/media/user_upload/reto11-311641e7-ca6f-4eec-812f-65d6f7acad57.jpg)
-
-* **Manuel Rivera** (1)
-
+* **DUFP** (1) [840621](https://platzi.com/comentario/840621/) 
 	
+	![reto11.PNG](https://static.platzi.com/media/user_upload/reto11-311641e7-ca6f-4eec-812f-65d6f7acad57.jpg)
+
+* **Manuel Rivera** (1) [840466](https://platzi.com/comentario/840466/) 
+
 	Desafio, pero no logre evitar que sucediera el efecto de lado, si alguien sabe por favor
 	``` 
 	    constarray = [0, 1]
@@ -19469,9 +18704,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [818481](https://platzi.com/comentario/818481/) 
 
-	
 	**optimización de código**
 	
 	Entendiendo que en la sucesión de fibonacci se empieza con los números 0 y 1 y a partir de ahí **el siguiente número es igual a la sumatoria de los dos anteriores** la lógica es la siguiente:  
@@ -19507,9 +18741,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [818432](https://platzi.com/comentario/818432/) 
 
-	
 	Me gusto el reto me puso a pensar un buen rato, mi solución se basó en una condicional if para poder escribir solo una vez los dos primeros números con los que comienza la sucesión, pero leyendo el código de la comunidad me di cuenta que se puede simplificar el código.
 	
 	**Mi Reto**
@@ -19542,9 +18775,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [816032](https://platzi.com/comentario/816032/) 
 
-	
 	Que buen reto, El numero maximo que se puede escribir es el 42 a partir de ahi se sale del rango de un int
 	``` 
 	    int main()
@@ -19585,9 +18817,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [815464](https://platzi.com/comentario/815464/) 
 
-	
 	Apuntes de clase:  
 	**El ciclo for** es una estructura de control que nos permite repetir un bloque de comandos un número de veces específico.
 	
@@ -19598,7 +18829,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	__  
 	![cicloFor.png](https://static.platzi.com/media/user_upload/cicloFor-bd75a45b-45e5-47bf-8657-336722afbfe1.jpg)
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [815434](https://platzi.com/comentario/815434/) 
 
 	```
 	    #include <stdio.h>
@@ -19640,9 +18871,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	Nota: Este reto me costo bastante pero al final lo pude resolver 😃  
 	Sirvete de darme feedback respecto a mi código.
 
-* **Carlos Alberto Villalobos Toro** (1)
+* **Carlos Alberto Villalobos Toro** (1) [814955](https://platzi.com/comentario/814955/) 
 
-	
 	Acepto que me toco mirar los comentarios, que reto tan difícil.
 	``` 
 	    int main()
@@ -19667,9 +18897,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **max23esau** (1)
+* **max23esau** (1) [813685](https://platzi.com/comentario/813685/) 
 
-	
 	Serie Fibonacci
 	``` 
 	    #include <stdio.h>
@@ -19695,9 +18924,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **horaciocantugarcia** (1)
+* **horaciocantugarcia** (1) [806001](https://platzi.com/comentario/806001/) 
 
-	
 	int main()  
 	{  
 	printf(“Serie Fibonacci \n\n”);
@@ -19720,9 +18948,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **raguevara** (1)
+* **raguevara** (1) [803263](https://platzi.com/comentario/803263/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -19761,9 +18988,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	![clase12 tarea1v2.png](https://static.platzi.com/media/user_upload/clase12%20tarea1v2-535cb098-7e59-4014-9ac6-b85ab71985f1.jpg)
 
-* **raguevara** (1)
+* **raguevara** (1) [801979](https://platzi.com/comentario/801979/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -19790,12 +19016,11 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	![clase11 tarea1.png](https://static.platzi.com/media/user_upload/clase11%20tarea1-d43b7a85-53fc-40c4-8c51-613f970cce3b.jpg)
 
-	* **raguevara** (1)
+	* **raguevara** [801979] (1)
 ![clase12 tarea1.png](https://static.platzi.com/media/user_upload/clase12%20tarea1-078fbec6-4ef8-4e4f-b311-bb42c4fb3b55.jpg)
 
-* **Iván Serrano** (1)
+* **Iván Serrano** (1) [800417](https://platzi.com/comentario/800417/) 
 
-	
 	RETO 11
 	``` 
 	    #include<stdio.h>
@@ -19827,9 +19052,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **José Manuel Piña Rodríguez** (1)
+* **José Manuel Piña Rodríguez** (1) [798267](https://platzi.com/comentario/798267/) 
 
-	
 	RETO #11
 	``` 
 	    #include <stdio.h>
@@ -19856,13 +19080,12 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **linkpj** (1)
+* **linkpj** (1) [794302](https://platzi.com/comentario/794302/) 
 
-	
 	**Reto 11**  
 	![Reto11.PNG](https://static.platzi.com/media/user_upload/Reto11-6870eb81-c036-4dff-8a27-1befe83eb4c0.jpg)
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [788089](https://platzi.com/comentario/788089/) 
 
 	```
 	    #include <stdio.h>
@@ -19893,9 +19116,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [776756](https://platzi.com/comentario/776756/) 
 
-	
 	int main()  
 	{  
 	printf(“for!\n”);
@@ -19918,9 +19140,8 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **mariofernandocoronelchoque** (1)
+* **mariofernandocoronelchoque** (1) [768481](https://platzi.com/comentario/768481/) 
 
-	
 	int main()  
 	{  
 	printf(“reto for\n”);  
@@ -19948,7 +19169,7 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	
 	}
 
-* **Brayan Smith Rivas Bustos** (1)
+* **Brayan Smith Rivas Bustos** (1) [765620](https://platzi.com/comentario/765620/) 
 
 	```
 	    #include <stdio.h>
@@ -19975,27 +19196,26 @@ Hola, Me pueden explicar por fa como hacer este código, lo he intentando y no m
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [84849](https://platzi.com/comentario/1060163/) 
 // Reto 1 int inicio = 0; int fin = 1; int fibonacci; printf("Secuencia Fibonnacci \n"); printf("%i \n", inic...
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [82834](https://platzi.com/comentario/1013785/) 
 Esta expresion se la vi a la profesora pero a mi me genera error: int upperlimit = bottomlimit = 0; me ha tocado definir cada variable ap...
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [79643](https://platzi.com/comentario/943762/) 
 buenas noches quería proponer otro reto seria siguiente el usuario ingrese numero por pantalla y que realice la multiplicación hasta el...
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [72324](https://platzi.com/comentario/813982/) 
 Hola, quisiera saber si las palabras que usamos como: for, while, if, else, etc ¿son a lo que se llama en programacion palabras ...
 
-	* **Bikatti** (3)
+	* **Bikatti** [72324] (3)
 
-		
 		Por lo que si, por ejemplo en JS no las puedes utilizar como variables.
 		
 		Aqui hablan de eso:  
 		<http://www.alegsa.com.ar/Dic/palabra_reservada.php>
 
-## 0130. Ciclo Do-While
+## 0130. Ciclo Do-While [16473](https://platzi.com/clases/1450-programacion-estructurada/16473-do-while/)
 
 ### Descripción:
 
@@ -20007,9 +19227,8 @@ Funciona de manera similar a la estructura while, la diferencia es que esta eval
 
 ### Comentarios:
 
-* **CarlosdavidZ** (3)
+* **CarlosdavidZ** (3) [863948](https://platzi.com/comentario/863948/) 
 
-	
 	Apunte.  
 	Diferencias entre For, While y Do-While:
 	
@@ -20019,7 +19238,7 @@ Funciona de manera similar a la estructura while, la diferencia es que esta eval
 	
 	Do-While: Se ejecuta al menos una vez, primero hace el bloque de instrucciones y después evalúa la condición. Útil para hacer un Menú.
 
-* **orianasuljeisposadamolina** (2)
+* **orianasuljeisposadamolina** (2) [1091049](https://platzi.com/comentario/1091049/) 
 
 	```
 	    do
@@ -20041,18 +19260,16 @@ Funciona de manera similar a la estructura while, la diferencia es que esta eval
 	    
 	```
 
-* **jmacalupur** (2)
+* **jmacalupur** (2) [980283](https://platzi.com/comentario/980283/) 
 
-	
 	Este meme siempre me recuerda la diferencia entre While y Do-While:  
 	![image.png](https://static.platzi.com/media/user_upload/image-0465bc59-b8a6-4438-bc21-7219c51d2c99.jpg)
 
-* **Edgar Pastrana** (2)
+* **Edgar Pastrana** (2) [61101](https://platzi.com/comentario/616315/) 
 Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso del if no se ponen y después de el while del do-while sí? ...
 
-	* **Ivan Mendez** (2)
+	* **Ivan Mendez** [61101] (2)
 
-		
 		cuando es un bloque de codigo, osea cuando termina con { } no se pone punto y coma, para todo lo demas punto y coma
 		``` 
 		    //Ejemplos de cosas que no llevan ;
@@ -20104,7 +19321,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 		    
 		```
 
-* **Francisco Emmanuel Ferrer Estrada** (1)
+* **Francisco Emmanuel Ferrer Estrada** (1) [1090248](https://platzi.com/comentario/1090248/) 
 
 	```
 	    #include<stdio.h>
@@ -20126,9 +19343,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **luis angel muñoz gonzalez** (1)
+* **luis angel muñoz gonzalez** (1) [1081056](https://platzi.com/comentario/1081056/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -20161,13 +19377,15 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **JobForero** (1)
-![Screenshot_1_numeros.png](https://static.platzi.com/media/user_upload/Screenshot_1_numeros-533c58b6-2c90-4fd1-acf8-cec9c7e01901.jpg)
+* **JobForero** (1) [1077856](https://platzi.com/comentario/1077856/) 
+	
+	![Screenshot_1_numeros.png](https://static.platzi.com/media/user_upload/Screenshot_1_numeros-533c58b6-2c90-4fd1-acf8-cec9c7e01901.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto11.PNG](https://static.platzi.com/media/user_upload/Reto11-2c56ceed-c1ef-4216-af4d-02791fb6127a.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1071852](https://platzi.com/comentario/1071852/) 
+	
+	![Reto11.PNG](https://static.platzi.com/media/user_upload/Reto11-2c56ceed-c1ef-4216-af4d-02791fb6127a.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1068214](https://platzi.com/comentario/1068214/) 
 
 	```
 	    int valor=1;
@@ -20180,10 +19398,11 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Larry Perez** (1)
-![Video13.PNG](https://static.platzi.com/media/user_upload/Video13-73dea1ef-9cd8-4b4f-acb1-95a284ec40d3.jpg)
+* **Larry Perez** (1) [1066147](https://platzi.com/comentario/1066147/) 
+	
+	![Video13.PNG](https://static.platzi.com/media/user_upload/Video13-73dea1ef-9cd8-4b4f-acb1-95a284ec40d3.jpg)
 
-* **Karmen Kastro** (1)
+* **Karmen Kastro** (1) [1065748](https://platzi.com/comentario/1065748/) 
 
 	```
 	    #include<stdio.h>
@@ -20207,13 +19426,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1065742](https://platzi.com/comentario/1065742/) 
 
-	
 	**Reto:**  
 	![](![reto12.png](https://static.platzi.com/media/user_upload/reto12-22bc5212-e663-4c8d-ba8a-03dfd7184dab.jpg)
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1063408](https://platzi.com/comentario/1063408/) 
 
 	```
 	    #include<stdio.h>
@@ -20233,7 +19451,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1063319](https://platzi.com/comentario/1063319/) 
 
 	```
 	    #include<stdio.h>
@@ -20251,7 +19469,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [1060173](https://platzi.com/comentario/1060173/) 
 
 	```
 	    int i = 1;
@@ -20264,15 +19482,16 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **paola-diaz361** (1)
-![retoDoWhile1.PNG](https://static.platzi.com/media/user_upload/retoDoWhile1-73b3334d-c526-4c4c-a951-45cc3d8e2fa7.jpg)
-
-* **paola-diaz361** (1)
-![doWhile1.PNG](https://static.platzi.com/media/user_upload/doWhile1-28fd91eb-976b-410c-b08c-a105dfdf378e.jpg)
-
-* **SteffiG** (1)
-
+* **paola-diaz361** (1) [1053947](https://platzi.com/comentario/1053947/) 
 	
+	![retoDoWhile1.PNG](https://static.platzi.com/media/user_upload/retoDoWhile1-73b3334d-c526-4c4c-a951-45cc3d8e2fa7.jpg)
+
+* **paola-diaz361** (1) [1053902](https://platzi.com/comentario/1053902/) 
+	
+	![doWhile1.PNG](https://static.platzi.com/media/user_upload/doWhile1-28fd91eb-976b-410c-b08c-a105dfdf378e.jpg)
+
+* **SteffiG** (1) [1048207](https://platzi.com/comentario/1048207/) 
+
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -20294,14 +19513,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1036445](https://platzi.com/comentario/1036445/) 
 
-	
 	aca esta la solucion al reto 😉
 
-* **rigiba** (1)
+* **rigiba** (1) [1036443](https://platzi.com/comentario/1036443/) 
 
-	
 	#include<stdio.h>  
 	#include<stdlib.h>
 	
@@ -20319,14 +19536,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1036442](https://platzi.com/comentario/1036442/) 
 
-	
 	de nuevo haciento los ejercicios
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1034924](https://platzi.com/comentario/1034924/) 
 
-	
 	Reto cumplido!
 	``` 
 	    #include <stdio.h>
@@ -20351,13 +19566,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1033547](https://platzi.com/comentario/1033547/) 
 
-	
 	reto numeros naturates  
 	![naturales.PNG](https://static.platzi.com/media/user_upload/naturales-06dcab93-0ba1-4f9a-82eb-c03a23bc4118.jpg)
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1031814](https://platzi.com/comentario/1031814/) 
 
 	```
 	    #include<stdio.h>
@@ -20387,7 +19601,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1029344](https://platzi.com/comentario/1029344/) 
 
 	```
 	    #include <stdio.h>
@@ -20415,9 +19629,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025528](https://platzi.com/comentario/1025528/) 
 
-	
 	Challenge:
 	``` 
 	    #include<stdio.h>
@@ -20553,9 +19766,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025504](https://platzi.com/comentario/1025504/) 
 
-	
 	Exercise:
 	``` 
 	    #include<stdio.h>
@@ -20594,9 +19806,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [1025049](https://platzi.com/comentario/1025049/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -20616,10 +19827,11 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-480ee793-604a-4eb1-b330-4159abf985ce.jpg)
+* **jhonsoccer11** (1) [1021518](https://platzi.com/comentario/1021518/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-480ee793-604a-4eb1-b330-4159abf985ce.jpg)
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1021359](https://platzi.com/comentario/1021359/) 
 
 	```
 	    #include<stdio.h>
@@ -20643,7 +19855,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Erik Manuel Guevara Ladino** (1)
+* **Erik Manuel Guevara Ladino** (1) [1018654](https://platzi.com/comentario/1018654/) 
 
 	```
 	    #include<stdio.h>
@@ -20669,9 +19881,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Edwin5000** (1)
+* **Edwin5000** (1) [1017548](https://platzi.com/comentario/1017548/) 
 
-	
 	int main()  
 	{  
 	printf(“Reto imprimir 100 numero naturales \n\n”);
@@ -20694,7 +19905,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **Edgar Mancilla Sánchez** (1)
+* **Edgar Mancilla Sánchez** (1) [1016249](https://platzi.com/comentario/1016249/) 
 
 	```
 	    #include<stdio.h>
@@ -20719,7 +19930,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1015988](https://platzi.com/comentario/1015988/) 
 
 	```
 	    #include<stdio.h>
@@ -20740,9 +19951,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1012331](https://platzi.com/comentario/1012331/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -20764,18 +19974,17 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1012133](https://platzi.com/comentario/1012133/) 
 
-	
 	Reto  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-09170129-f532-4491-be6f-2e900fa7d02a.jpg)
 
-* **Leisy Karina Algarra Fernandez** (1)
-![NumerosDel1Al 100.png](https://static.platzi.com/media/user_upload/NumerosDel1Al%20100-d46d200e-f42e-4cdf-982d-5755ffb6f56a.jpg)
-
-* **josadecpedraza** (1)
-
+* **Leisy Karina Algarra Fernandez** (1) [1010062](https://platzi.com/comentario/1010062/) 
 	
+	![NumerosDel1Al 100.png](https://static.platzi.com/media/user_upload/NumerosDel1Al%20100-d46d200e-f42e-4cdf-982d-5755ffb6f56a.jpg)
+
+* **josadecpedraza** (1) [1008142](https://platzi.com/comentario/1008142/) 
+
 	Reto # 1 de la case DoWhile
 	``` 
 	    #include<stdio.h>
@@ -20802,9 +20011,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [1006458](https://platzi.com/comentario/1006458/) 
 
-	
 	Reto 1
 	``` 
 	    #include<stdio.h>
@@ -20829,7 +20037,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1003667](https://platzi.com/comentario/1003667/) 
 
 	```
 	    int num = 1;
@@ -20844,14 +20052,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1003323](https://platzi.com/comentario/1003323/) 
 
-	
 	Listo!![RetoDoWhile.PNG](https://static.platzi.com/media/user_upload/RetoDoWhile-222df586-9bf2-4b5e-9204-2871518e0d48.jpg)
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1002534](https://platzi.com/comentario/1002534/) 
 
-	
 	RETOOOOO RESUEEEEELTOO !!!
 	``` 
 	    #include<stdio.h>
@@ -20878,7 +20084,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002359](https://platzi.com/comentario/1002359/) 
 
 	```
 	    int a = 1;
@@ -20892,9 +20098,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1002005](https://platzi.com/comentario/1002005/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -20916,7 +20121,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1001587](https://platzi.com/comentario/1001587/) 
 
 	```
 	    int main()
@@ -20937,12 +20142,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **MarianaGb** (1)
-![do-while.png](https://static.platzi.com/media/user_upload/do-while-0db34a85-d67b-4698-aeef-743965cd256f.jpg)
-
-* **alan valencia** (1)
-
+* **MarianaGb** (1) [1000782](https://platzi.com/comentario/1000782/) 
 	
+	![do-while.png](https://static.platzi.com/media/user_upload/do-while-0db34a85-d67b-4698-aeef-743965cd256f.jpg)
+
+* **alan valencia** (1) [999815](https://platzi.com/comentario/999815/) 
+
 	int a=0;  
 	do{  
 	printf("%i\n", a);  
@@ -20950,9 +20155,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	}while(a<=100);  
 	return 0;
 
-* **Jesus David Zaraza Toro** (1)
+* **Jesus David Zaraza Toro** (1) [999569](https://platzi.com/comentario/999569/) 
 
-	
 	var i=1;
 	
 	do {
@@ -20967,9 +20171,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [998561](https://platzi.com/comentario/998561/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <stdbool.h>
@@ -20993,7 +20196,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [995781](https://platzi.com/comentario/995781/) 
 
 	```
 	    #include<stdio.h>
@@ -21013,9 +20216,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [993767](https://platzi.com/comentario/993767/) 
 
-	
 	reto
 	``` 
 	    int main()
@@ -21040,7 +20242,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [991115](https://platzi.com/comentario/991115/) 
 
 	```
 	    #include<stdio.h>
@@ -21060,9 +20262,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Federico Montilla** (1)
+* **Federico Montilla** (1) [991111](https://platzi.com/comentario/991111/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -21085,7 +20286,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [989528](https://platzi.com/comentario/989528/) 
 
 	```
 	    #include <stdio.h>
@@ -21109,9 +20310,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [988776](https://platzi.com/comentario/988776/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -21140,9 +20340,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986724](https://platzi.com/comentario/986724/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -21160,7 +20359,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Alberto Salas** (1)
+* **Alberto Salas** (1) [980962](https://platzi.com/comentario/980962/) 
 
 	```
 	    {
@@ -21178,9 +20377,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [980345](https://platzi.com/comentario/980345/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -21202,12 +20400,11 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Isaac Alejandro Requena Alamo** (1)
+* **Isaac Alejandro Requena Alamo** (1) [979522](https://platzi.com/comentario/979522/) 
 
-	
 	Jugando con el código, me pareció interesante hacer los numero pares con puro ciclo for, while y do-while. es decir: del 1 al 20 ciclo for, del 20 al 50 ciclo while, del 50 al 60 ciclo do-while,del 60 al 80 con while y del 80 al 100 con for… TODO eso usando una sola vez el mismo ciclo , es decir no se pueden repetir dos veces el for, dos veces el while ni dos veces el do-while para terminar la serie del 1 al 100. Se los dejo como reto y práctica adicional.
 
-* **Alberto Salas** (1)
+* **Alberto Salas** (1) [978816](https://platzi.com/comentario/978816/) 
 
 	```
 	    {
@@ -21226,9 +20423,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977861](https://platzi.com/comentario/977861/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -21243,9 +20439,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [975201](https://platzi.com/comentario/975201/) 
 
-	
 	reto cumplido
 	``` 
 	    int numeros = 0;
@@ -21257,9 +20452,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [975063](https://platzi.com/comentario/975063/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -21279,21 +20473,18 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-	* **andresargote** (1)
+	* **andresargote** [975063] (1)
 
-		
 		Para que te imprima desde el 1 tienes que poner cont = 0
 
-	* **José Antonio Ruiz Cruz** (1)
+	* **José Antonio Ruiz Cruz** [975063] (1)
 
-		
 		Gracias por el comentario compañero, pero acabo de validar nuevamente el código y correrlo. Sí imprime desde el 1 así como está.
 		
 		¡Saludos!
 
-* **BotDrako** (1)
+* **BotDrako** (1) [974531](https://platzi.com/comentario/974531/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -21318,7 +20509,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [967983](https://platzi.com/comentario/967983/) 
 
 	```
 	                                                #RetoDoWhile100
@@ -21343,9 +20534,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	return 0;  
 	}
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [967944](https://platzi.com/comentario/967944/) 
 
-	
 	EJERCICIO DEL VÍDEO  
 	De esta manera evitan el error de que salga dos veces la frase ingrese letra, ingrese letra colocando salto de linea en el scanf  
 	int main ()  
@@ -21363,7 +20553,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	return 0;  
 	}
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [966573](https://platzi.com/comentario/966573/) 
 
 	```
 	    #include<stdio.h>
@@ -21385,13 +20575,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [963392](https://platzi.com/comentario/963392/) 
 
-	
 	Reto cumplido  
 	![Do while2.png](https://static.platzi.com/media/user_upload/Do%20while2-09a57004-3ef6-46ad-83f0-6a410b817cf2.jpg)
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [961230](https://platzi.com/comentario/961230/) 
 
 	```
 	    printf("Reto Imprimir los primero 100 numeros naturales \n");
@@ -21404,12 +20593,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Wilson Delgado** (1)
-![challenge.jpg](https://static.platzi.com/media/user_upload/challenge-a93fc084-110a-45ec-bd02-630ff105b5b8.jpg)
-
-* **arielr85** (1)
-
+* **Wilson Delgado** (1) [947226](https://platzi.com/comentario/947226/) 
 	
+	![challenge.jpg](https://static.platzi.com/media/user_upload/challenge-a93fc084-110a-45ec-bd02-630ff105b5b8.jpg)
+
+* **arielr85** (1) [945987](https://platzi.com/comentario/945987/) 
+
 	Reto Cumplido
 	``` 
 	    <#include<stdio.h>
@@ -21436,12 +20625,11 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945411](https://platzi.com/comentario/945411/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **José Manuel Rodríguez Villarreal** (1)
+* **José Manuel Rodríguez Villarreal** (1) [940499](https://platzi.com/comentario/940499/) 
 
 	```
 	    #include<stdio.h>
@@ -21466,9 +20654,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [936793](https://platzi.com/comentario/936793/) 
 
-	
 	**100 primeros números naturales con Do While:**
 	``` 
 	    #include <stdio.h>
@@ -21490,9 +20677,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [934723](https://platzi.com/comentario/934723/) 
 
-	
 	reto 1 al 100
 	``` 
 	    #include<stdio.h>
@@ -21513,7 +20699,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [933678](https://platzi.com/comentario/933678/) 
 
 	```
 	    #include<stdio.h>
@@ -21533,7 +20719,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [925796](https://platzi.com/comentario/925796/) 
 
 	```
 	    #include<stdio.h>
@@ -21555,9 +20741,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [923790](https://platzi.com/comentario/923790/) 
 
-	
 	**Reto Cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -21581,9 +20766,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [914791](https://platzi.com/comentario/914791/) 
 
-	
 	😄 Un reto más!
 	``` 
 	    #include<stdio.h>
@@ -21605,7 +20789,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [899514](https://platzi.com/comentario/899514/) 
 
 	```
 	    #include<stdio.h>
@@ -21625,9 +20809,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [893319](https://platzi.com/comentario/893319/) 
 
-	
 	Retoto:
 	``` 
 	    #include <stdio.h>
@@ -21652,7 +20835,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [884418](https://platzi.com/comentario/884418/) 
 
 	```
 	    #include<stdio.h>
@@ -21676,9 +20859,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [876237](https://platzi.com/comentario/876237/) 
 
-	
 	Reto números del 0 al 100.
 	
 	int main()  
@@ -21700,9 +20882,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [875129](https://platzi.com/comentario/875129/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -21731,9 +20912,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [867445](https://platzi.com/comentario/867445/) 
 
-	
 	He hecho dos, ya que en el enunciado se refería a números naturales, pero en el ejemplo aparecían los números pares del 0 al 100.
 	
 	Números naturales, del 0 al 100.
@@ -21773,14 +20953,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	La practica pide hacerlo con el loop do-while, pero sería mejor hacerlo con un `for`.
 
-* **rogerparada** (1)
+* **rogerparada** (1) [861851](https://platzi.com/comentario/861851/) 
 
-	
 	![](![naturales.png](https://static.platzi.com/media/user_upload/naturales-75303a7d-7783-47e2-b5eb-8aa37bf7384e.jpg)
 
-* **Alfredo Godinez** (1)
+* **Alfredo Godinez** (1) [858215](https://platzi.com/comentario/858215/) 
 
-	
 	Aqui mi codigo Saluds
 	``` 
 	    #include<stdio.h>
@@ -21803,9 +20981,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [854084](https://platzi.com/comentario/854084/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -21824,7 +21001,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [850242](https://platzi.com/comentario/850242/) 
 
 	```
 	    #include<stdio.h>
@@ -21845,7 +21022,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [849525](https://platzi.com/comentario/849525/) 
 
 	```
 	        printf("numeros naturales\n");
@@ -21862,7 +21039,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **irwinmax** (1)
+* **irwinmax** (1) [849270](https://platzi.com/comentario/849270/) 
 
 	```
 	    < int i=0;
@@ -21874,9 +21051,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **gal16v8d** (1)
+* **gal16v8d** (1) [842813](https://platzi.com/comentario/842813/) 
 
-	
 	Reto en Python
 	``` 
 	    n = 1
@@ -21888,9 +21064,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **gal16v8d** (1)
+* **gal16v8d** (1) [842778](https://platzi.com/comentario/842778/) 
 
-	
 	Código vídeo Python
 	``` 
 	    print('Iterador DoWhile \n')
@@ -21906,7 +21081,7 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **durbonca** (1)
+* **durbonca** (1) [841406](https://platzi.com/comentario/841406/) 
 
 	```
 	    varvalue = 1
@@ -21917,15 +21092,16 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **laj-lukum** (1)
-![Capture13.PNG](https://static.platzi.com/media/user_upload/Capture13-8285609d-df29-4059-98f3-2e755a6d6a44.jpg)
-
-* **DUFP** (1)
-![reto12.PNG](https://static.platzi.com/media/user_upload/reto12-878b4161-c387-4c58-8ebc-62790e1ec72c.jpg)
-
-* **Manuel Rivera** (1)
-
+* **laj-lukum** (1) [841300](https://platzi.com/comentario/841300/) 
 	
+	![Capture13.PNG](https://static.platzi.com/media/user_upload/Capture13-8285609d-df29-4059-98f3-2e755a6d6a44.jpg)
+
+* **DUFP** (1) [840638](https://platzi.com/comentario/840638/) 
+	
+	![reto12.PNG](https://static.platzi.com/media/user_upload/reto12-878b4161-c387-4c58-8ebc-62790e1ec72c.jpg)
+
+* **Manuel Rivera** (1) [840494](https://platzi.com/comentario/840494/) 
+
 	DESAFIO
 	``` 
 	    vari = 1
@@ -21936,14 +21112,12 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [840485](https://platzi.com/comentario/840485/) 
 
-	
 	Para que se entienda mejor, el while se va a ejecutar mientras se cumpla una condición, el Do While se va a ejecutar al menos 1 vez y se seguirá ejecutando dependiendo de la condición que tiene al final.
 
-* **Javier Rodolfo** (1)
+* **Javier Rodolfo** (1) [837567](https://platzi.com/comentario/837567/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -21963,9 +21137,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **Nicolás Mayorga Vargas** (1)
+* **Nicolás Mayorga Vargas** (1) [825115](https://platzi.com/comentario/825115/) 
 
-	
 	int main()  
 	{  
 	printf(“numeros naturales \n”);
@@ -21984,9 +21157,8 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	
 	}
 
-* **freddymm** (1)
+* **freddymm** (1) [818499](https://platzi.com/comentario/818499/) 
 
-	
 	 **Código listo**
 	``` 
 	    #include<stdio.h>
@@ -22006,27 +21178,25 @@ Cuándo se deben poner las ; ? hay una regla que nos indique por que en el caso 
 	    
 	```
 
-* **DavidArmandoVelazquez** (1)
+* **DavidArmandoVelazquez** (1) [67088](https://platzi.com/comentario/717567/) 
 int limit, i = 1; printf("Cuantos numeros quieres imprimir?\n\n"); scanf("%i", & limit); do { printf("\\...
 
-* **ale_lossi_** (1)
+* **ale_lossi_** (1) [66032](https://platzi.com/comentario/701842/) 
 De qué manera podría no aparecer dos veces el “Ingresa una letra”? Porque luego de la primera vez que lo pregunta, en la segunda aparece ...
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [66032] (2)
 
-		
 		En la instrucción **`scanf`** , puedes poner un espacio en blanco antes del especificador de formato **`%c`**
 		``` 
 		    scanf(" %c", &letra);
 		    
 		```
 
-* **kikeHD** (1)
+* **kikeHD** (1) [60089](https://platzi.com/comentario/600541/) 
 una pregunta porque al momento de correr el programa que nos explica la profesora sale 2 veces ingresa una letra.?
 
-	* **Danelia Sanchez Sanchez** (5)
+	* **Danelia Sanchez Sanchez** [60089] (5)
 
-		
 		Porque el salto de línea **`\n`** se guarda como caracter (cuando presionas la tecla Enter), un valor de tipo **char**. Para evitar esto, puedes poner un espacio antes del especificador **`%c`** en la instrucción **`scanf`** :
 		``` 
 		    scanf(" %c", &value);
@@ -22035,19 +21205,18 @@ una pregunta porque al momento de correr el programa que nos explica la profesor
 		
 		para omitir cualquier espacio en blanco y saltos de líneas al ingresar datos.
 
-* **jeydvc** (1)
+* **jeydvc** (1) [58834](https://platzi.com/comentario/582466/) 
 Hola, Cuando se debe utilizar el DO WHILE y el while ya que son muy parecidos. Gracias.
 
-	* **sampol.90 (Platzi)** (4)
+	* **sampol.90 (Platzi)** [58834] (4)
 
-		
 		El principal uso del Do, While es cuando estás totalmente seguro que va a entrar por lo menos una vez al ciclo.
 		
 		En el caso del while. Si no cumple la condición desde el principio nunca entrará al mismo.
 		
 		Saludos.
 
-## 0140. Arreglos unidimensionales
+## 0140. Arreglos unidimensionales [16476](https://platzi.com/clases/1450-programacion-estructurada/16476-arreglos-unidimensionales/)
 
 ### Descripción:
 
@@ -22056,14 +21225,13 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 
 ### Comentarios:
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1054126](https://platzi.com/comentario/1054126/) 
 
-	
 	Definitivamente PLATZI es el mejor enseñando, mil gracias por su dedicación para nosotros. ❤️ 😃
 	
 	![retoArreglos1.PNG](https://static.platzi.com/media/user_upload/retoArreglos1-4c7e68b9-2b0b-4c38-aefd-7a7dd2bd033f.jpg)
 
-* **Edgar Mancilla Sánchez** (2)
+* **Edgar Mancilla Sánchez** (2) [1016313](https://platzi.com/comentario/1016313/) 
 
 	```
 	    #include<stdio.h>
@@ -22089,14 +21257,12 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-	* **Erik Manuel Guevara Ladino** (1)
+	* **Erik Manuel Guevara Ladino** [1016313] (1)
 
-		
 		no se me paso por la cabeza el scanf en una sola linea
 
-* **Yerson Daniel Romero Orjuela** (2)
+* **Yerson Daniel Romero Orjuela** (2) [1002084](https://platzi.com/comentario/1002084/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -22134,9 +21300,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	
 	}
 
-* **IVANCHIPATECUA** (2)
+* **IVANCHIPATECUA** (2) [986736](https://platzi.com/comentario/986736/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -22160,9 +21325,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Carlos Santaniello** (2)
+* **Carlos Santaniello** (2) [937852](https://platzi.com/comentario/937852/) 
 
-	
 	**Multiplicación de Arrays con bucle For:**
 	``` 
 	    #include <stdio.h>
@@ -22188,9 +21352,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Santiago Jose Ibarra Aquino** (2)
+* **Santiago Jose Ibarra Aquino** (2) [937081](https://platzi.com/comentario/937081/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -22215,9 +21378,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1113995](https://platzi.com/comentario/1113995/) 
 
-	
 	Uso de funciones para crear e insertar valores en el array a traves del teclado:
 	``` 
 	    #include <stdio.h>
@@ -22259,7 +21421,7 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Francisco Emmanuel Ferrer Estrada** (1)
+* **Francisco Emmanuel Ferrer Estrada** (1) [1099367](https://platzi.com/comentario/1099367/) 
 
 	```
 	    #include <stdio.h>
@@ -22297,9 +21459,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Aldo Javier** (1)
+* **Aldo Javier** (1) [1083344](https://platzi.com/comentario/1083344/) 
 
-	
 	int main()  
 	{  
 	int lista[4] = {1,2,3,4,5};  
@@ -22313,9 +21474,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	
 	}
 
-* **Aldo Javier** (1)
+* **Aldo Javier** (1) [1083342](https://platzi.com/comentario/1083342/) 
 
-	
 	¿Lo hice bien?
 	
 	int main()  
@@ -22331,9 +21491,8 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	
 	}
 
-* **luis angel muñoz gonzalez** (1)
+* **luis angel muñoz gonzalez** (1) [1081329](https://platzi.com/comentario/1081329/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -22375,18 +21534,19 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	
 	}
 
-* **Nikogarcia11** (1)
+* **Nikogarcia11** (1) [1078933](https://platzi.com/comentario/1078933/) 
 
-	
 	Tema bastante intersante, ahora se puede almacenar lo que se ha usado con anterioridad
 
-* **JobForero** (1)
-![Screenshot_1_Array.png](https://static.platzi.com/media/user_upload/Screenshot_1_Array-3795c907-6b66-4858-931a-f56cf2891558.jpg)
+* **JobForero** (1) [1077998](https://platzi.com/comentario/1077998/) 
+	
+	![Screenshot_1_Array.png](https://static.platzi.com/media/user_upload/Screenshot_1_Array-3795c907-6b66-4858-931a-f56cf2891558.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto12.PNG](https://static.platzi.com/media/user_upload/Reto12-25655dbb-6bea-4533-be64-b2241225900a.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1072092](https://platzi.com/comentario/1072092/) 
+	
+	![Reto12.PNG](https://static.platzi.com/media/user_upload/Reto12-25655dbb-6bea-4533-be64-b2241225900a.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1068730](https://platzi.com/comentario/1068730/) 
 
 	```
 	    intvec[5];
@@ -22413,14 +21573,13 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-	* **AlexanderM** (1)
+	* **AlexanderM** [1068730] (1)
 
-		
 		Hola kaligra, me gusto mucho la forma en la que resolviste, pero aun no entiendo como programas esta parte para que los números se multipliquen entre si.
 		
 		![pregunta.png](https://static.platzi.com/media/user_upload/pregunta-c70ef6e2-2cf7-4c43-b4ce-f535e5b37fd9.jpg)
 
-* **Arturo O. Téllez** (1)
+* **Arturo O. Téllez** (1) [1067147](https://platzi.com/comentario/1067147/) 
 
 	```
 	    #include<stdlib.h>
@@ -22458,16 +21617,16 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1066300](https://platzi.com/comentario/1066300/) 
 
-	
 	**Reto:**  
 	![](![reto13.png](https://static.platzi.com/media/user_upload/reto13-5d041c09-dee4-4b1c-93c6-c566eee86742.jpg)
 
-* **Larry Perez** (1)
-![ArreglosUnidimensionalesReto.PNG](https://static.platzi.com/media/user_upload/ArreglosUnidimensionalesReto-049716d5-a699-4ac3-bb08-caac0cd1482e.jpg)
+* **Larry Perez** (1) [1066248](https://platzi.com/comentario/1066248/) 
+	
+	![ArreglosUnidimensionalesReto.PNG](https://static.platzi.com/media/user_upload/ArreglosUnidimensionalesReto-049716d5-a699-4ac3-bb08-caac0cd1482e.jpg)
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1063513](https://platzi.com/comentario/1063513/) 
 
 	```
 	    #include <stdio.h>
@@ -22493,7 +21652,7 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1063324](https://platzi.com/comentario/1063324/) 
 
 	```
 	    #include<stdio.h>
@@ -22516,7 +21675,7 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [1060191](https://platzi.com/comentario/1060191/) 
 
 	```
 	    //Reto 1
@@ -22538,7 +21697,7 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1059237](https://platzi.com/comentario/1059237/) 
 
 	```
 	    #include <stdio.h>
@@ -22572,18 +21731,17 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **paola-diaz361** (1)
-![arreglo1.PNG](https://static.platzi.com/media/user_upload/arreglo1-6aa80053-27e8-4bd8-9163-13eb6d536c7a.jpg)
-
-* **paola-diaz361** (1)
-
+* **paola-diaz361** (1) [1054056](https://platzi.com/comentario/1054056/) 
 	
+	![arreglo1.PNG](https://static.platzi.com/media/user_upload/arreglo1-6aa80053-27e8-4bd8-9163-13eb6d536c7a.jpg)
+
+* **paola-diaz361** (1) [1054053](https://platzi.com/comentario/1054053/) 
+
 	En caso de querer impimir todo el arreglo de int, en el printf debo poner %i%i%i%i, para que sea impreso todo o solo es en caso de char que se coloca %c%c%c%c. y el punto es necesario?  
 	Estare leyendo sus comentarios… mil gracias!! 😃
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1048337](https://platzi.com/comentario/1048337/) 
 
-	
 	reto
 	``` 
 	    #include<stdio.h>
@@ -22619,10 +21777,10 @@ Un **arreglo** es una serie de elementos, del mismo tipo de dato y son almacenad
 	    
 	```
 
-* **Fabrizio López** (1)
+* **Fabrizio López** (1) [1044220](https://platzi.com/comentario/1044220/) 
 Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "corchetes duros" son simplemente "corchetes". Primera vez que oigo eso de corchetes duros.
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [1041109](https://platzi.com/comentario/1041109/) 
 
 	```
 	    #include <stdio.h>
@@ -22646,9 +21804,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1037681](https://platzi.com/comentario/1037681/) 
 
-	
 	#include<stdio.h>  
 	#include<stdio.h>
 	
@@ -22682,14 +21839,12 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1037680](https://platzi.com/comentario/1037680/) 
 
-	
 	aca mi respuesta al reto
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1035005](https://platzi.com/comentario/1035005/) 
 
-	
 	Reto de la clase.
 	``` 
 	    #include <stdio.h>
@@ -22718,13 +21873,12 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1034060](https://platzi.com/comentario/1034060/) 
 
-	
 	multiplica elementos de un arreglo  
 	![multiplicacion inte.PNG](https://static.platzi.com/media/user_upload/multiplicacion%20inte-818acae9-9454-42cb-a480-d859bc52a7d8.jpg)
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1032344](https://platzi.com/comentario/1032344/) 
 
 	```
 	    #include<stdio.h>
@@ -22756,7 +21910,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1029762](https://platzi.com/comentario/1029762/) 
 
 	```
 	    #include <stdio.h>
@@ -22793,9 +21947,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025643](https://platzi.com/comentario/1025643/) 
 
-	
 	Reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -22850,9 +22003,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025610](https://platzi.com/comentario/1025610/) 
 
-	
 	Ejercicio en clase:
 	``` 
 	    #include <stdio.h>
@@ -22901,12 +22053,11 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025560](https://platzi.com/comentario/1025560/) 
 
-	
 	jajajaja me causo gracia cuando mencionó lo de corchetes duros, no sabía que también se le llamaba así, yo solo los conocía como corchetes…
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [1025074](https://platzi.com/comentario/1025074/) 
 
 	```
 	    #include<stdio.h>
@@ -22938,10 +22089,11 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-b20e9d43-e144-4b55-aa64-f4868b0bc8b5.jpg)
+* **jhonsoccer11** (1) [1021590](https://platzi.com/comentario/1021590/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-b20e9d43-e144-4b55-aa64-f4868b0bc8b5.jpg)
 
-* **Erik Manuel Guevara Ladino** (1)
+* **Erik Manuel Guevara Ladino** (1) [1020152](https://platzi.com/comentario/1020152/) 
 
 	```
 	    #include <stdio.h>
@@ -22983,15 +22135,13 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1015319](https://platzi.com/comentario/1015319/) 
 
-	
 	Reto  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-3e7f16c0-c131-4b0c-a4fc-5e0d45cddd65.jpg)
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1014167](https://platzi.com/comentario/1014167/) 
 
-	
 	Reto Array:
 	``` 
 	    #include <stdio.h>
@@ -23020,9 +22170,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1013247](https://platzi.com/comentario/1013247/) 
 
-	
 	Reto Arrays:
 	``` 
 	    #include <stdio.h>
@@ -23050,9 +22199,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Franklin Ramírez** (1)
+* **Franklin Ramírez** (1) [1011901](https://platzi.com/comentario/1011901/) 
 
-	
 	listo 😃
 	``` 
 	    #include <stdio.h>
@@ -23085,15 +22233,13 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1010282](https://platzi.com/comentario/1010282/) 
 
-	
 	Reto Arreglos  
 	![RetoArreglos.png](https://static.platzi.com/media/user_upload/RetoArreglos-e695f58b-e0d3-4a63-9549-e6f188ce6c93.jpg)
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1010175](https://platzi.com/comentario/1010175/) 
 
-	
 	int result;  
 	int num [4]; // -->Estaba mirando que el largo no influye, en este  
 	num [0]= 3; caso tiene 6 posiciones y al inicio determine [4]  
@@ -23103,7 +22249,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	num [4];  
 	num [5];
 
-* **ignacioequiroga** (1)
+* **ignacioequiroga** (1) [1009724](https://platzi.com/comentario/1009724/) 
 
 	```
 	    #include <stdio.h>
@@ -23125,9 +22271,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1008307](https://platzi.com/comentario/1008307/) 
 
-	
 	Reto # 1 de Arreglos Unidimensionales
 	``` 
 	    #include <stdio.h>
@@ -23157,9 +22302,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1006723](https://platzi.com/comentario/1006723/) 
 
-	
 	int main()  
 	{  
 	int result;  
@@ -23177,7 +22321,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	return 0;  
 	}
 
-* **Jesus David Zaraza Toro** (1)
+* **Jesus David Zaraza Toro** (1) [1006515](https://platzi.com/comentario/1006515/) 
 
 	```
 	    document.write ("Mostrar Arreglo<br/>");
@@ -23199,9 +22343,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1003995](https://platzi.com/comentario/1003995/) 
 
-	
 	Reto de la Clase !!
 	``` 
 	    #include <stdio.h>
@@ -23238,9 +22381,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1003968](https://platzi.com/comentario/1003968/) 
 
-	
 	RETO #1
 	``` 
 	       float valores[4];
@@ -23275,15 +22417,15 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1003530](https://platzi.com/comentario/1003530/) 
 
-	
 	Cumplido El Reto![RetoAUnidimencional.PNG](https://static.platzi.com/media/user_upload/RetoAUnidimencional-4a55aeb4-a9bd-4c73-928c-3998959c29d0.jpg)
 
-* **MarianaGb** (1)
-![arreglos1.png](https://static.platzi.com/media/user_upload/arreglos1-f2a40a0e-5f97-4cd5-a108-35710fabe87a.jpg)
+* **MarianaGb** (1) [1001886](https://platzi.com/comentario/1001886/) 
+	
+	![arreglos1.png](https://static.platzi.com/media/user_upload/arreglos1-f2a40a0e-5f97-4cd5-a108-35710fabe87a.jpg)
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1001668](https://platzi.com/comentario/1001668/) 
 
 	```
 	    int main()
@@ -23310,7 +22452,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [999373](https://platzi.com/comentario/999373/) 
 
 	```
 	    #include <stdio.h>
@@ -23337,9 +22479,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [998656](https://platzi.com/comentario/998656/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -23381,9 +22522,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	
 	}
 
-* **vivisoto** (1)
+* **vivisoto** (1) [994018](https://platzi.com/comentario/994018/) 
 
-	
 	reto
 	``` 
 	    int main()
@@ -23420,17 +22560,15 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [993097](https://platzi.com/comentario/993097/) 
 
-	
 	Hola  
 	![Captura de pantalla 2020-02-18 a la\(s\) 6.18.47 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-18%20a%20la%28s%29%206.18.47%20p.%20m.-dda1790c-a39a-4b20-bec7-d4fbba956c21.jpg)
 	
 	![Captura de pantalla 2020-02-18 a la\(s\) 6.19.05 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-18%20a%20la%28s%29%206.19.05%20p.%20m.-184db090-2b66-4f46-8583-932b76707b98.jpg)
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [988829](https://platzi.com/comentario/988829/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -23469,9 +22607,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [980462](https://platzi.com/comentario/980462/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -23497,9 +22634,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977912](https://platzi.com/comentario/977912/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -23519,9 +22655,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **BotDrako** (1)
+* **BotDrako** (1) [975979](https://platzi.com/comentario/975979/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -23555,9 +22690,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	
 	}
 
-* **andresargote** (1)
+* **andresargote** (1) [975223](https://platzi.com/comentario/975223/) 
 
-	
 	Lo hice de manera sencilla
 	``` 
 	    int multiplicar[5] = {2,2,2,2,2};
@@ -23569,9 +22703,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [975092](https://platzi.com/comentario/975092/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -23603,7 +22736,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [971439](https://platzi.com/comentario/971439/) 
 
 	```
 	    #include<stdio.h>
@@ -23635,15 +22768,13 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [963794](https://platzi.com/comentario/963794/) 
 
-	
 	Al fin!!!  
 	![Arreglos3.png](https://static.platzi.com/media/user_upload/Arreglos3-a1512f08-cd7e-42a0-8ce9-1dd43779203f.jpg)
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [962782](https://platzi.com/comentario/962782/) 
 
-	
 	reto cumplido  
 	el usuario ingresa los numero y después el programa los imprime y los multiplica
 	``` 
@@ -23674,7 +22805,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    		printf("el numero ingreso es  %i \n  ", numero[j]);
 	    
 	    	
-	    		suma = suma  * numero[j];
+	    		suma = suma* numero[j];
 	    		
 	    	}
 	    	
@@ -23686,7 +22817,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [961255](https://platzi.com/comentario/961255/) 
 
 	```
 	        printf("Reto Arreglos unidimencionales \n");
@@ -23716,7 +22847,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [959428](https://platzi.com/comentario/959428/) 
 
 	```
 	    #include <stdio.h>
@@ -23736,15 +22867,13 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [947347](https://platzi.com/comentario/947347/) 
 
-	
 	Listo!!  
 	![challeng.jpg](https://static.platzi.com/media/user_upload/challeng-2bf1058a-0d00-4258-8ea8-c6eb0359c971.jpg)
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [945778](https://platzi.com/comentario/945778/) 
 
-	
 	ya quedo funcionando el reto
 	``` 
 	    #include<iostream>
@@ -23768,14 +22897,12 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945527](https://platzi.com/comentario/945527/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [934963](https://platzi.com/comentario/934963/) 
 
-	
 	Reto multiplicacion
 	``` 
 	    #include<stdio.h>
@@ -23806,7 +22933,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [926594](https://platzi.com/comentario/926594/) 
 
 	```
 	    #include <stdio.h>
@@ -23838,9 +22965,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [925446](https://platzi.com/comentario/925446/) 
 
-	
 	**Reto Listo! **😄
 	``` 
 	    #include<stdio.h>
@@ -23880,9 +23006,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [923853](https://platzi.com/comentario/923853/) 
 
-	
 	**Reto cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -23909,16 +23034,14 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **SebastianMA** (1)
+* **SebastianMA** (1) [917187](https://platzi.com/comentario/917187/) 
 
-	
 	Reto
 	
 	![Captura de Pantalla 2020-01-11 a la\(s\) 3.20.10 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-01-11%20a%20la%28s%29%203.20.10%20p.%C2%A0m.-c0a6bd43-3091-4f2d-9c5d-e25a78e9e263.jpg)
 
-* **Jose Alfredo Vallejo Contreras** (1)
+* **Jose Alfredo Vallejo Contreras** (1) [904749](https://platzi.com/comentario/904749/) 
 
-	
 	Reto
 	``` 
 	    #include <stdlib.h>
@@ -23944,7 +23067,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [901223](https://platzi.com/comentario/901223/) 
 
 	```
 	    #include<stdio.h>
@@ -23976,9 +23099,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **alfonsotechpie** (1)
+* **alfonsotechpie** (1) [897055](https://platzi.com/comentario/897055/) 
 
-	
 	Reto!
 	``` 
 	    #include <stdio.h>
@@ -24005,9 +23127,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [893371](https://platzi.com/comentario/893371/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -24037,9 +23158,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Laura Camila Hurtado Hurtado** (1)
+* **Laura Camila Hurtado Hurtado** (1) [890839](https://platzi.com/comentario/890839/) 
 
-	
 	int main()  
 	{  
 	printf(“Reto arreglos!\n”);  
@@ -24055,9 +23175,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	return 0;  
 	}
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [888476](https://platzi.com/comentario/888476/) 
 
-	
 	#include<stdio.h>
 	
 	int main()  
@@ -24093,7 +23212,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	
 	}
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [884515](https://platzi.com/comentario/884515/) 
 
 	```
 	    #include <stdio.h>
@@ -24115,14 +23234,12 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [884425](https://platzi.com/comentario/884425/) 
 
-	
 	Los arreglos son una serie de datos del mismo tipo. almacenados de manera consecutiva.
 
-* **marcoxio** (1)
+* **marcoxio** (1) [881594](https://platzi.com/comentario/881594/) 
 
-	
 	Código reto en Python
 	``` 
 	    ''' RetoArreglosUnidimensionales '''
@@ -24134,12 +23251,12 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Gabriel Aguilar** (1)
-![arreglo unidimensional.jpg](https://static.platzi.com/media/user_upload/arreglo%20unidimensional-3acba195-b0d3-4cf1-b40c-eea891e4dbeb.jpg)
-
-* **Esteban Padron** (1)
-
+* **Gabriel Aguilar** (1) [878198](https://platzi.com/comentario/878198/) 
 	
+	![arreglo unidimensional.jpg](https://static.platzi.com/media/user_upload/arreglo%20unidimensional-3acba195-b0d3-4cf1-b40c-eea891e4dbeb.jpg)
+
+* **Esteban Padron** (1) [876425](https://platzi.com/comentario/876425/) 
+
 	int main()  
 	{  
 	float varA[5];  
@@ -24180,9 +23297,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	
 	}
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [876374](https://platzi.com/comentario/876374/) 
 
-	
 	#include <stdlib.h>  
 	#include <stdio.h>
 	
@@ -24224,7 +23340,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	
 	![arreglo.jpg](https://static.platzi.com/media/user_upload/arreglo-6da3b364-0e80-45a4-b560-25dd1dcf40ba.jpg)
 
-* **Luis Xavier Perez Miramontes** (1)
+* **Luis Xavier Perez Miramontes** (1) [872269](https://platzi.com/comentario/872269/) 
 
 	```
 	    #include <stdio.h>
@@ -24249,7 +23365,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [869721](https://platzi.com/comentario/869721/) 
 
 	```
 	    intmain()
@@ -24270,9 +23386,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [869672](https://platzi.com/comentario/869672/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -24300,12 +23415,11 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **rogerparada** (1)
+* **rogerparada** (1) [861889](https://platzi.com/comentario/861889/) 
 
-	
 	![](![array.png](https://static.platzi.com/media/user_upload/array-c424d199-44c1-4ec6-ab27-2dafa965e5ce.jpg)
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [860264](https://platzi.com/comentario/860264/) 
 
 	```
 	    #include <stdio.h>
@@ -24330,7 +23444,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **emrs** (1)
+* **emrs** (1) [858267](https://platzi.com/comentario/858267/) 
 
 	```
 	    int valores[5];
@@ -24349,7 +23463,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [851325](https://platzi.com/comentario/851325/) 
 
 	```
 	        printf("reto");
@@ -24372,7 +23486,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [850319](https://platzi.com/comentario/850319/) 
 
 	```
 	    #include<stdio.h>
@@ -24401,7 +23515,7 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **irwinmax** (1)
+* **irwinmax** (1) [849384](https://platzi.com/comentario/849384/) 
 
 	```
 	    <intilist[5];
@@ -24428,9 +23542,8 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **gal16v8d** (1)
+* **gal16v8d** (1) [845674](https://platzi.com/comentario/845674/) 
 
-	
 	Reto en Python
 	``` 
 	    print('RetoArreglos')
@@ -24442,12 +23555,11 @@ Lo que ella llama "corchetes", son en realidad "llaves". Y lo que ella llama "co
 	    
 	```
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [50373](https://platzi.com/comentario/478992/) 
 El reto, sólo no entiendo por qué la variable a la que se le va a asignar la multiplicación debe de estar inicializada en 1. :c 1...
 
-	* **Randy Villanueva Guzmán** (2)
+	* **Randy Villanueva Guzmán** [50373] (2)
 
-		
 		Para mantener el primer valor del arreglo,  
 		si tu le das otro valor, pasaria lo siguiente:  
 		int multiplicacion = 2;  
@@ -24459,7 +23571,7 @@ El reto, sólo no entiendo por qué la variable a la que se le va a asignar la m
 		multiplicacion = 0 * arr[i];  
 		todo seria == 0
 
-* **jorgearmas** (0)
+* **jorgearmas** (0) [1008171](https://platzi.com/comentario/1008171/) 
 
 	```
 	    #include <stdio.h>
@@ -24502,7 +23614,7 @@ El reto, sólo no entiendo por qué la variable a la que se le va a asignar la m
 	    
 	```
 
-## 0150. Arreglos bidimensionales
+## 0150. Arreglos bidimensionales [16475](https://platzi.com/clases/1450-programacion-estructurada/16475-arreglos-bidimensionales/)
 
 ### Descripción:
 
@@ -24512,7 +23624,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 
 ### Comentarios:
 
-* **Daniel Eishu Oyama Arevalo** (2)
+* **Daniel Eishu Oyama Arevalo** (2) [1063343](https://platzi.com/comentario/1063343/) 
 
 	```
 	    #include <stdio.h>
@@ -24549,19 +23661,17 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Carlos52960o** (2)
+* **Carlos52960o** (2) [1004505](https://platzi.com/comentario/1004505/) 
 
-	
 	Reto Cumplido Sigo Practicando ![RBidimencional.PNG](https://static.platzi.com/media/user_upload/RBidimencional-70d9db47-6915-4438-9eb2-40a272d9b92d.jpg)
 
-* **SebastianMA** (2)
+* **SebastianMA** (2) [917312](https://platzi.com/comentario/917312/) 
 
-	
 	Reto
 	
 	![Captura de Pantalla 2020-01-11 a la\(s\) 4.18.09 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-01-11%20a%20la%28s%29%204.18.09%20p.%C2%A0m.-67ab3f40-ee26-42ff-aeb2-d738e787538f.jpg)
 
-* **ldiegomr** (1)
+* **ldiegomr** (1) [1117827](https://platzi.com/comentario/1117827/) 
 
 	```
 	    #include <stdio.h>
@@ -24597,7 +23707,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Francisco Emmanuel Ferrer Estrada** (1)
+* **Francisco Emmanuel Ferrer Estrada** (1) [1100455](https://platzi.com/comentario/1100455/) 
 
 	```
 	    #include <stdio.h>
@@ -24627,7 +23737,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1091571](https://platzi.com/comentario/1091571/) 
 
 	```
 	    int main()
@@ -24647,7 +23757,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Karmen Kastro** (1)
+* **Karmen Kastro** (1) [1088141](https://platzi.com/comentario/1088141/) 
 
 	```
 	    #include <stdlib.h>
@@ -24695,7 +23805,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Aldo Javier** (1)
+* **Aldo Javier** (1) [1083498](https://platzi.com/comentario/1083498/) 
 
 	```
 	    int main()
@@ -24725,9 +23835,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **luis angel muñoz gonzalez** (1)
+* **luis angel muñoz gonzalez** (1) [1081458](https://platzi.com/comentario/1081458/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -24774,16 +23883,19 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **JobForero** (1)
-![Screenshot_1_.png](https://static.platzi.com/media/user_upload/Screenshot_1_-7218267b-1e16-4caf-adf1-ff0b20cba88d.jpg)
+* **JobForero** (1) [1078450](https://platzi.com/comentario/1078450/) 
+	
+	![Screenshot_1_.png](https://static.platzi.com/media/user_upload/Screenshot_1_-7218267b-1e16-4caf-adf1-ff0b20cba88d.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto13.PNG](https://static.platzi.com/media/user_upload/Reto13-fd8a1ad2-ccdc-445b-9690-1dec6485144b.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1075717](https://platzi.com/comentario/1075717/) 
+	
+	![Reto13.PNG](https://static.platzi.com/media/user_upload/Reto13-fd8a1ad2-ccdc-445b-9690-1dec6485144b.jpg)
 
-* **Larry Perez** (1)
-![Video15Image1.PNG](https://static.platzi.com/media/user_upload/Video15Image1-efea7b24-72b4-4339-82c8-c87f3e4c6ed9.jpg)
+* **Larry Perez** (1) [1068878](https://platzi.com/comentario/1068878/) 
+	
+	![Video15Image1.PNG](https://static.platzi.com/media/user_upload/Video15Image1-efea7b24-72b4-4339-82c8-c87f3e4c6ed9.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1068865](https://platzi.com/comentario/1068865/) 
 
 	```
 	     int matriz[3][4];
@@ -24814,13 +23926,12 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1068457](https://platzi.com/comentario/1068457/) 
 
-	
 	**Reto:**  
 	![](![reto14.png](https://static.platzi.com/media/user_upload/reto14-2597a2aa-4db2-430d-91ce-65a63bc65d0e.jpg)
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1066529](https://platzi.com/comentario/1066529/) 
 
 	```
 	    #include <stdio.h>
@@ -24867,7 +23978,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1063593](https://platzi.com/comentario/1063593/) 
 
 	```
 	    int main(int argc, char *argv[]) {
@@ -24894,7 +24005,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [1060206](https://platzi.com/comentario/1060206/) 
 
 	```
 	    // prueba
@@ -24922,15 +24033,16 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **paola-diaz361** (1)
-![retoArreBidimensional1.PNG](https://static.platzi.com/media/user_upload/retoArreBidimensional1-e23cf77c-fe1b-4f89-9878-03769a73c90c.jpg)
-
-* **paola-diaz361** (1)
-![arregloBidimensional1.PNG](https://static.platzi.com/media/user_upload/arregloBidimensional1-d0a75442-699e-4dcc-8671-acccac79a51d.jpg)
-
-* **SteffiG** (1)
-
+* **paola-diaz361** (1) [1058925](https://platzi.com/comentario/1058925/) 
 	
+	![retoArreBidimensional1.PNG](https://static.platzi.com/media/user_upload/retoArreBidimensional1-e23cf77c-fe1b-4f89-9878-03769a73c90c.jpg)
+
+* **paola-diaz361** (1) [1058811](https://platzi.com/comentario/1058811/) 
+	
+	![arregloBidimensional1.PNG](https://static.platzi.com/media/user_upload/arregloBidimensional1-d0a75442-699e-4dcc-8671-acccac79a51d.jpg)
+
+* **SteffiG** (1) [1048429](https://platzi.com/comentario/1048429/) 
+
 	reto
 	``` 
 	    #include <stdio.h>
@@ -24972,9 +24084,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1037731](https://platzi.com/comentario/1037731/) 
 
-	
 	#include<stdio.h>  
 	#include<stdlib.h>
 	
@@ -25020,14 +24131,12 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1037729](https://platzi.com/comentario/1037729/) 
 
-	
 	arriba mi respuesta del reto
 
-* **leo_M** (1)
+* **leo_M** (1) [1036140](https://platzi.com/comentario/1036140/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -25061,7 +24170,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1035977](https://platzi.com/comentario/1035977/) 
 
 	```
 	    #include <stdio.h>
@@ -25110,7 +24219,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1035901](https://platzi.com/comentario/1035901/) 
 
 	```
 	    #include <stdio.h>
@@ -25133,15 +24242,13 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [1035423](https://platzi.com/comentario/1035423/) 
 
-	
 	Reto suma  
 	![sum_bidirec.PNG](https://static.platzi.com/media/user_upload/sum_bidirec-fe3097c3-11c8-4eee-a4dd-21c625175be1.jpg)
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1035069](https://platzi.com/comentario/1035069/) 
 
-	
 	Reto completado! 😉
 	``` 
 	    #include <stdio.h>
@@ -25197,7 +24304,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Edgar Mancilla Sánchez** (1)
+* **Edgar Mancilla Sánchez** (1) [1029230](https://platzi.com/comentario/1029230/) 
 
 	```
 	    #include <stdio.h>
@@ -25234,9 +24341,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025701](https://platzi.com/comentario/1025701/) 
 
-	
 	Reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -25284,9 +24390,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025687](https://platzi.com/comentario/1025687/) 
 
-	
 	Ejercicio en clase:
 	``` 
 	    #include <stdio.h>
@@ -25341,12 +24446,12 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6d76a9b3-f6c6-43b1-88e8-6f6839419331.jpg)
-
-* **Edwin5000** (1)
-
+* **jhonsoccer11** (1) [1021748](https://platzi.com/comentario/1021748/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-6d76a9b3-f6c6-43b1-88e8-6f6839419331.jpg)
+
+* **Edwin5000** (1) [1020389](https://platzi.com/comentario/1020389/) 
+
 	int main()  
 	{  
 	printf(“Reto bidimensional \n\n”);
@@ -25379,9 +24484,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [1020337](https://platzi.com/comentario/1020337/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -25421,16 +24525,14 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1015775](https://platzi.com/comentario/1015775/) 
 
-	
 	Reto.
 	
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-4c3a1074-5dbf-4eee-b39a-0895de54e6b1.jpg)
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1014491](https://platzi.com/comentario/1014491/) 
 
-	
 	Después de un ratico:
 	``` 
 	    #include <stdio.h>
@@ -25486,16 +24588,14 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1013689](https://platzi.com/comentario/1013689/) 
 
-	
 	Reto suma de filas
 	
 	![RetoSumaDeFilas.png](https://static.platzi.com/media/user_upload/RetoSumaDeFilas-4586858c-6989-4f69-90fd-ed310baf13bc.jpg)
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1013550](https://platzi.com/comentario/1013550/) 
 
-	
 	Reto arrays bidimensionales:
 	``` 
 	    #include <stdio.h>
@@ -25526,9 +24626,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [1010372](https://platzi.com/comentario/1010372/) 
 
-	
 	RETO RESUELTO
 	``` 
 	    int main()
@@ -25566,7 +24665,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Maria_Perez** (1)
+* **Maria_Perez** (1) [1009873](https://platzi.com/comentario/1009873/) 
 
 	```
 	    int arreglo[3][4]={
@@ -25588,7 +24687,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1008773](https://platzi.com/comentario/1008773/) 
 
 	```
 	    #include <stdio.h>
@@ -25626,9 +24725,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1008713](https://platzi.com/comentario/1008713/) 
 
-	
 	int main()  
 	{  
 	printf(“Matrix 3 filas 4 columnas\n”);  
@@ -25673,9 +24771,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1008709](https://platzi.com/comentario/1008709/) 
 
-	
 	Reto # 1 de la clase Arreglo Bidimensional
 	``` 
 	    #include <stdio.h>
@@ -25714,9 +24811,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **alan valencia** (1)
+* **alan valencia** (1) [1006718](https://platzi.com/comentario/1006718/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -25748,7 +24844,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    return 0;
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1005407](https://platzi.com/comentario/1005407/) 
 
 	```
 	    int fila1, fila2, fila3, suma[3][4];
@@ -25783,9 +24879,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1003880](https://platzi.com/comentario/1003880/) 
 
-	
 	#include <stdlib.h>
 	
 	int main()  
@@ -25828,9 +24923,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **boristrochez** (1)
+* **boristrochez** (1) [1003631](https://platzi.com/comentario/1003631/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -25875,7 +24969,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Cegador** (1)
+* **Cegador** (1) [1002720](https://platzi.com/comentario/1002720/) 
 
 	```
 	     int lista [3][4] = {{1,1,1,1}, {1,2,3,4}, {1,3,10,12}};
@@ -25889,10 +24983,11 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **MarianaGb** (1)
-![bidimensionales.png](https://static.platzi.com/media/user_upload/bidimensionales-b3fa459d-9bbe-4183-be70-7b8f1f667a03.jpg)
+* **MarianaGb** (1) [1002259](https://platzi.com/comentario/1002259/) 
+	
+	![bidimensionales.png](https://static.platzi.com/media/user_upload/bidimensionales-b3fa459d-9bbe-4183-be70-7b8f1f667a03.jpg)
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1002008](https://platzi.com/comentario/1002008/) 
 
 	```
 	    int main()
@@ -25919,7 +25014,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [1000583](https://platzi.com/comentario/1000583/) 
 
 	```
 	    #include <stdio.h>
@@ -25959,9 +25054,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [994123](https://platzi.com/comentario/994123/) 
 
-	
 	reto
 	``` 
 	    #include <stdio.h>
@@ -26007,17 +25101,15 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [993447](https://platzi.com/comentario/993447/) 
 
-	
 	Hola  
 	![Captura de pantalla 2020-02-18 a la\(s\) 9.27.16 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-18%20a%20la%28s%29%209.27.16%20p.%20m.-7741883e-6510-4c4e-9e40-6e5e6933ffdf.jpg)
 	
 	![Captura de pantalla 2020-02-18 a la\(s\) 9.27.27 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-18%20a%20la%28s%29%209.27.27%20p.%20m.-aa21eeeb-c2a8-4666-835c-0068134cf329.jpg)
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986813](https://platzi.com/comentario/986813/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -26061,19 +25153,16 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-	* **William Andres Dussan Gonzalez** (1)
+	* **William Andres Dussan Gonzalez** [986813] (1)
 
-		
 		No entiendo tu codgio que quiere decir el %2d??
 
-	* **IVANCHIPATECUA** (1)
+	* **IVANCHIPATECUA** [986813] (1)
 
-		
 		Es para justificar la salida de texto, aquí te dejo un link con mas información <https://alvinalexander.com/programming/printf-format-cheat-sheet>
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [986391](https://platzi.com/comentario/986391/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -26132,9 +25221,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [981073](https://platzi.com/comentario/981073/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -26165,9 +25253,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [977954](https://platzi.com/comentario/977954/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -26191,9 +25278,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **BotDrako** (1)
+* **BotDrako** (1) [976201](https://platzi.com/comentario/976201/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -26240,7 +25326,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [972931](https://platzi.com/comentario/972931/) 
 
 	```
 	    #include <stdio.h>
@@ -26281,7 +25367,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [968770](https://platzi.com/comentario/968770/) 
 
 	```
 	    #include <stdio.h>
@@ -26320,13 +25406,12 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [963954](https://platzi.com/comentario/963954/) 
 
-	
 	Super!!!  
 	![ArregloBidimensional4.png](https://static.platzi.com/media/user_upload/ArregloBidimensional4-50c0e47e-98f2-4499-963e-d9574cc04e3d.jpg)
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [961266](https://platzi.com/comentario/961266/) 
 
 	```
 	    printf("Reto: Arreglos Bidimencionales \n");
@@ -26360,17 +25445,16 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Wilson Delgado** (1)
-![challeng.jpg](https://static.platzi.com/media/user_upload/challeng-41ac47a1-30ce-40dd-8187-36610e8006e2.jpg)
-
-* **Merlyn Rodriguez** (1)
-
+* **Wilson Delgado** (1) [948798](https://platzi.com/comentario/948798/) 
 	
+	![challeng.jpg](https://static.platzi.com/media/user_upload/challeng-41ac47a1-30ce-40dd-8187-36610e8006e2.jpg)
+
+* **Merlyn Rodriguez** (1) [945615](https://platzi.com/comentario/945615/) 
+
 	dos puntos por terminar de ver el video :v
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [938716](https://platzi.com/comentario/938716/) 
 
-	
 	 **Reto suma de elementos de matrices sin iteraciones:**
 	``` 
 	    #include <stdio.h>
@@ -26411,9 +25495,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [935139](https://platzi.com/comentario/935139/) 
 
-	
 	Reto 3x4
 	``` 
 	    #include <stdio.h>
@@ -26435,7 +25518,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [928145](https://platzi.com/comentario/928145/) 
 
 	```
 	    #include <stdio.h>
@@ -26471,9 +25554,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [925561](https://platzi.com/comentario/925561/) 
 
-	
 	**Reto cumplido**. 😃
 	``` 
 	    #include <stdio.h>
@@ -26504,9 +25586,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [924991](https://platzi.com/comentario/924991/) 
 
-	
 	**Reto cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -26573,9 +25654,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Jose Alfredo Vallejo Contreras** (1)
+* **Jose Alfredo Vallejo Contreras** (1) [904814](https://platzi.com/comentario/904814/) 
 
-	
 	Reto
 	``` 
 	    #include <stdlib.h>
@@ -26606,7 +25686,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [901274](https://platzi.com/comentario/901274/) 
 
 	```
 	    #include <stdio.h>
@@ -26642,9 +25722,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **alfonsotechpie** (1)
+* **alfonsotechpie** (1) [897170](https://platzi.com/comentario/897170/) 
 
-	
 	va el reto!
 	``` 
 	    #include <stdio.h>
@@ -26677,9 +25756,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [893582](https://platzi.com/comentario/893582/) 
 
-	
 	Reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -26706,9 +25784,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Laura Camila Hurtado Hurtado** (1)
+* **Laura Camila Hurtado Hurtado** (1) [891595](https://platzi.com/comentario/891595/) 
 
-	
 	int main()  
 	{  
 	printf(“Reto arreglos!\n”);  
@@ -26730,7 +25807,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	return 0;  
 	}
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [888561](https://platzi.com/comentario/888561/) 
 
 	```
 	    #include <stdio.h>
@@ -26774,9 +25851,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [888536](https://platzi.com/comentario/888536/) 
 
-	
 	#include<stdio.h>
 	
 	int main()  
@@ -26804,14 +25880,12 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [888482](https://platzi.com/comentario/888482/) 
 
-	
 	Columnas son las verticales y filas las horizontales
 
-* **marcoxio** (1)
+* **marcoxio** (1) [881626](https://platzi.com/comentario/881626/) 
 
-	
 	Reto clase en python
 	``` 
 	    print('Arreglo Bidimensional')
@@ -26829,9 +25903,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **marcoxio** (1)
+* **marcoxio** (1) [881603](https://platzi.com/comentario/881603/) 
 
-	
 	Ejercicio clase en python
 	``` 
 	    print('Arreglo Bidimensional')
@@ -26843,27 +25916,23 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Diego Alexander Forero Higuera (Platzi)** (1)
+* **Diego Alexander Forero Higuera (Platzi)** (1) [880661](https://platzi.com/comentario/880661/) 
 
-	
 	Otra prueba
 
-* **Diego Alexander Forero Higuera (Platzi)** (1)
+* **Diego Alexander Forero Higuera (Platzi)** (1) [880653](https://platzi.com/comentario/880653/) 
 
-	
 	Prueba
 
-* **Jose Padron (Platzi)** (1)
+* **Jose Padron (Platzi)** (1) [880641](https://platzi.com/comentario/880641/) 
 
-	
 	codigo
 
-* **Jose Padron (Platzi)** (1)
+* **Jose Padron (Platzi)** (1) [880638](https://platzi.com/comentario/880638/) 
 
-	
 	Esta genial la clase.
 
-* **marttcode** (1)
+* **marttcode** (1) [880132](https://platzi.com/comentario/880132/) 
 
 	```
 	    #include <stdio.h>
@@ -26905,7 +25974,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [879625](https://platzi.com/comentario/879625/) 
 
 	```
 	    #include <stdio.h>
@@ -26943,9 +26012,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [878898](https://platzi.com/comentario/878898/) 
 
-	
 	#include <stdlib.h>  
 	#include <stdio.h>
 	
@@ -26972,9 +26040,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [876522](https://platzi.com/comentario/876522/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -27008,9 +26075,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [869724](https://platzi.com/comentario/869724/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -27032,15 +26098,15 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [864770](https://platzi.com/comentario/864770/) 
 
-	
 	Es mi primera vez como veo una matriz en programación
 
-* **rogerparada** (1)
-![arreglobi.png](https://static.platzi.com/media/user_upload/arreglobi-09a67ea7-6d6c-4837-9d46-78598a28b3fb.jpg)
+* **rogerparada** (1) [863587](https://platzi.com/comentario/863587/) 
+	
+	![arreglobi.png](https://static.platzi.com/media/user_upload/arreglobi-09a67ea7-6d6c-4837-9d46-78598a28b3fb.jpg)
 
-* **efrain-molina** (1)
+* **efrain-molina** (1) [859702](https://platzi.com/comentario/859702/) 
 
 	```
 	    #include <stdio.h>
@@ -27078,9 +26144,8 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **marcoxio** (1)
+* **marcoxio** (1) [855509](https://platzi.com/comentario/855509/) 
 
-	
 	Video explicado en Python
 	``` 
 	    print('Arreglos bidimensionales')
@@ -27094,7 +26159,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [852939](https://platzi.com/comentario/852939/) 
 
 	```
 	    <int main()
@@ -27128,7 +26193,7 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	reto cumplido me quebre la cabeza viendo el video
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [850365](https://platzi.com/comentario/850365/) 
 
 	```
 	    include <stdio.h>
@@ -27151,26 +26216,28 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	    
 	```
 
-* **laj-lukum** (1)
-![Capture16.PNG](https://static.platzi.com/media/user_upload/Capture16-cada4b4d-3a9a-4a93-8834-b4e0ef296f10.jpg)
-
-* **laj-lukum** (1)
-![Capture17.PNG](https://static.platzi.com/media/user_upload/Capture17-c8c60baf-b31c-4eaa-8e89-43e2fcc694fe.jpg)
-
-* **durbonca** (1)
-
+* **laj-lukum** (1) [842931](https://platzi.com/comentario/842931/) 
 	
+	![Capture16.PNG](https://static.platzi.com/media/user_upload/Capture16-cada4b4d-3a9a-4a93-8834-b4e0ef296f10.jpg)
+
+* **laj-lukum** (1) [842928](https://platzi.com/comentario/842928/) 
+	
+	![Capture17.PNG](https://static.platzi.com/media/user_upload/Capture17-c8c60baf-b31c-4eaa-8e89-43e2fcc694fe.jpg)
+
+* **durbonca** (1) [842584](https://platzi.com/comentario/842584/) 
+
 	buen dato eso de las columnas… asi aprendi a memorizar la diferencia yo tambien
 
-* **laj-lukum** (1)
-![Capture16.PNG](https://static.platzi.com/media/user_upload/Capture16-df0adafb-420e-4639-99ae-01e41b3cff3f.jpg)
-
-* **DUFP** (1)
-![reto14.PNG](https://static.platzi.com/media/user_upload/reto14-ebe0a5e4-9935-4bd3-bc06-624d2c075ea7.jpg)
-
-* **Javier Rodolfo** (1)
-
+* **laj-lukum** (1) [842530](https://platzi.com/comentario/842530/) 
 	
+	![Capture16.PNG](https://static.platzi.com/media/user_upload/Capture16-df0adafb-420e-4639-99ae-01e41b3cff3f.jpg)
+
+* **DUFP** (1) [840752](https://platzi.com/comentario/840752/) 
+	
+	![reto14.PNG](https://static.platzi.com/media/user_upload/reto14-ebe0a5e4-9935-4bd3-bc06-624d2c075ea7.jpg)
+
+* **Javier Rodolfo** (1) [837830](https://platzi.com/comentario/837830/) 
+
 	int main()
 	
 	{  
@@ -27209,21 +26276,19 @@ Tiene dos índices: el primero indica el número de **fila** y el segundo el nú
 	
 	}
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [76508](https://platzi.com/comentario/888534/) 
 como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main() { int resf; int resc; int arrayB[3][4] = { { 1, ...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [76508] (1)
 
-		
 		Pasa que en la siguiente línea te falta el corchete que cierra (en el segundo operando):
 		``` 
 		    resc = arrayB[0][0] + **arrayB[1]0]**+ arrayB[2][0];
 		    
 		```
 
-* **Camilo Echeverry** (0)
+* **Camilo Echeverry** (0) [1009868](https://platzi.com/comentario/1009868/) 
 
-	
 	Reto resuelto !!!
 	``` 
 	    #include <stdio.h>
@@ -27267,23 +26332,23 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-## 0160. Arreglos e iteradores unidimensionales
+## 0160. Arreglos e iteradores unidimensionales [16477](https://platzi.com/clases/1450-programacion-estructurada/16477-arreglos-e-iteradores-unidimensionales/)
 
 ### Descripción:
 
 
 **¿Por qué utilizar iteradores en arreglos unidimensionales?**
 
-  * Para manipular todos los elementos de un arreglo podemos utilizar una estructura repetitiva. La más usual es el ciclo for.
-  * Cuando se desea imprimir el contenido del arreglo
-  * Cuando se suman todos los elementos
-  * También cuando se va a inicializar el arreglo.
+* Para manipular todos los elementos de un arreglo podemos utilizar una estructura repetitiva. La más usual es el ciclo for.
+* Cuando se desea imprimir el contenido del arreglo
+* Cuando se suman todos los elementos
+* También cuando se va a inicializar el arreglo.
 
 
 
 ### Comentarios:
 
-* **Daniel Eishu Oyama Arevalo** (2)
+* **Daniel Eishu Oyama Arevalo** (2) [1065232](https://platzi.com/comentario/1065232/) 
 
 	```
 	    #include <stdio.h>
@@ -27311,7 +26376,7 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **hectormr** (2)
+* **hectormr** (2) [1060225](https://platzi.com/comentario/1060225/) 
 
 	```
 	    // Reto
@@ -27342,9 +26407,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-	* **David Alejandro Mosquera Moreno** (2)
+	* **David Alejandro Mosquera Moreno** [1060225] (2)
 
-		
 		Hola **@HectorMR206**  
 		En realidad estaba un poco confundido con este ejercicio, pero tomé el código que hiciste para amodificar el mio, y que me diera resultado. Así fue como quedó haha  
 		.
@@ -27376,27 +26440,23 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 		    
 		```
 
-	* **hectormr** (1)
+	* **hectormr** [1060225] (1)
 
-		
 		Que tal **@mosqueradvd** , que bueno que te haya servido. ¡Me parece una muy buena idea el haberlo ingresado en un ciclo For!
 		
 		Una pregunta, ¿Qué tenías pensado hacer con las variables que recibes en la función main?
 
-	* **David Alejandro Mosquera Moreno** (1)
+	* **David Alejandro Mosquera Moreno** [1060225] (1)
 
-		
 		Gracias!  
 		Lo que pasa es que estoy usando **[DevC++](https://sourceforge.net/projects/orwelldevcpp/)** , otro IDE de C… allí esas variables viene por defecto en el main. Aunque no he entendido muy bien para qué sirven.
 
-	* **hectormr** (2)
+	* **hectormr** [1060225] (2)
 
-		
 		¡Si que se me hizo muy raro! Pero a simple vista las vi y me sorprendí por lo que habías realizado. Que no entendía, hasta que las analice.
 
-* **SteffiG** (2)
+* **SteffiG** (2) [1048532](https://platzi.com/comentario/1048532/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -27434,9 +26494,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **Monica Garcia** (2)
+* **Monica Garcia** (2) [1031899](https://platzi.com/comentario/1031899/) 
 
-	
 	Lo realicé en Java porque estoy tratando de ejercitándome en ese lenguaje.
 	``` 
 	    import java.util.Scanner;
@@ -27466,9 +26525,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **Pedro Hernandez** (2)
+* **Pedro Hernandez** (2) [1019582](https://platzi.com/comentario/1019582/) 
 
-	
 	int main()  
 	{  
 	int tam;  
@@ -27498,14 +26556,12 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	}  
 	Tres días tratando de resolverlo pero se logro.
 
-	* **Adriana del Pilar Martinez Bautista** (2)
+	* **Adriana del Pilar Martinez Bautista** [1019582] (2)
 
-		
 		Hola compañero, muy interesante tu código.
 
-* **josadecpedraza** (2)
+* **josadecpedraza** (2) [1012369](https://platzi.com/comentario/1012369/) 
 
-	
 	Reto Clase Arreglos e Interadores Unidimensionales
 	``` 
 	    #include <stdio.h>
@@ -27541,9 +26597,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **jmacalupur** (2)
+* **jmacalupur** (2) [981085](https://platzi.com/comentario/981085/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -27582,9 +26637,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **AUGUSTO CACERES SUAREZ** (2)
+* **AUGUSTO CACERES SUAREZ** (2) [823092](https://platzi.com/comentario/823092/) 
 
-	
 	RETO HECHO EN JS
 	
 	<https://js-bcclksdefinri-num-mayor.stackblitz.io>
@@ -27594,9 +26648,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	<https://github.com/UtoSkydive/Finds-the-largest-number>  
 	![](https://i.ibb.co/b3pLG7y/ARRAY.png)
 
-* **raguevara** (2)
+* **raguevara** (2) [812799](https://platzi.com/comentario/812799/) 
 
-	
 	int main()  
 	{  
 	printf(“Encontrar el numero mas grande de un arreglo \n\n”);
@@ -27630,9 +26683,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	
 	![clase16 tarea1.png](https://static.platzi.com/media/user_upload/clase16%20tarea1-00d55052-0b74-4fd8-aaf9-c696e7fc9324.jpg)
 
-* **horaciocantugarcia** (2)
+* **horaciocantugarcia** (2) [806475](https://platzi.com/comentario/806475/) 
 
-	
 	int main()  
 	{  
 	printf(“Encontrar el numero mas grande de un arreglo\n\n”);
@@ -27668,7 +26720,7 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	
 	}
 
-* **Juan Camilo Alvarez Jurado** (2)
+* **Juan Camilo Alvarez Jurado** (2) [788135](https://platzi.com/comentario/788135/) 
 
 	```
 	    #include <stdio.h>
@@ -27702,9 +26754,8 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (2)
+* **Antonio Rafael González Ferrer** (2) [765566](https://platzi.com/comentario/765566/) 
 
-	
 	**Reto**
 	``` 
 	    int main()
@@ -27769,12 +26820,11 @@ como puedo sumar las columnas en el mismo ejercicio: #include<stdio.h> int main(
 	    
 	```
 
-* **Gerardo Jesús Mota Olguín** (2)
+* **Gerardo Jesús Mota Olguín** (2) [63851](https://platzi.com/comentario/666016/) 
 Hola compañeros una pregunta no compila mi codigo y no se donde se pueda encontrar el error, no se si es por el switch: #include &l...
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [63851] (2)
 
-		
 		Lo que pasa es que en C no se permite la declaración de una variable después de un **`case`**
 		``` 
 		    case1:
@@ -27795,20 +26845,19 @@ Hola compañeros una pregunta no compila mi codigo y no se donde se pueda encont
 		
 		<https://stackoverflow.com/questions/46341364/label-can-only-be-used-as-part-of-a-statement-error/46781568>
 
-* **Camilo Andres Ossa Rpo** (2)
+* **Camilo Andres Ossa Rpo** (2) [61931](https://platzi.com/comentario/630239/) 
 Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cada uno al final, y por último sacando cual es el mayor val...
 
-	* **Edward Steven Ramos Palacios** (1)
+	* **Edward Steven Ramos Palacios** [61931] (1)
 
-		
 		Buen aporte!
 
-* **Edison Renato Valdez Vega** (1)
-![RetoIteradoresArreglos.png](https://static.platzi.com/media/user_upload/RetoIteradoresArreglos-6ae346a4-c209-4720-aeb9-8babf541e445.jpg)
-
-* **luis angel muñoz gonzalez** (1)
-
+* **Edison Renato Valdez Vega** (1) [1100834](https://platzi.com/comentario/1100834/) 
 	
+	![RetoIteradoresArreglos.png](https://static.platzi.com/media/user_upload/RetoIteradoresArreglos-6ae346a4-c209-4720-aeb9-8babf541e445.jpg)
+
+* **luis angel muñoz gonzalez** (1) [1081532](https://platzi.com/comentario/1081532/) 
+
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -27844,16 +26893,16 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1078095](https://platzi.com/comentario/1078095/) 
 
-	
 	 **Reto:**  
 	![](![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-ee43213c-b041-4d51-b433-51d6c413495f.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto14.PNG](https://static.platzi.com/media/user_upload/Reto14-d0ee1006-0bbd-4fa1-8ff7-f42dc9356994.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1075822](https://platzi.com/comentario/1075822/) 
+	
+	![Reto14.PNG](https://static.platzi.com/media/user_upload/Reto14-d0ee1006-0bbd-4fa1-8ff7-f42dc9356994.jpg)
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1072214](https://platzi.com/comentario/1072214/) 
 
 	```
 	    #include <stdio.h>
@@ -27892,7 +26941,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1070137](https://platzi.com/comentario/1070137/) 
 
 	```
 	    int bnd = 0;
@@ -27908,10 +26957,11 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Larry Perez** (1)
-![Video16.PNG](https://static.platzi.com/media/user_upload/Video16-4dab508a-d879-4f9a-9ab6-e21f6085672d.jpg)
+* **Larry Perez** (1) [1069028](https://platzi.com/comentario/1069028/) 
+	
+	![Video16.PNG](https://static.platzi.com/media/user_upload/Video16-4dab508a-d879-4f9a-9ab6-e21f6085672d.jpg)
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1063999](https://platzi.com/comentario/1063999/) 
 
 	```
 	    int main(int argc, char *argv[]) {
@@ -27941,16 +26991,14 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1059446](https://platzi.com/comentario/1059446/) 
 
-	
 	Pregunta: No se me ejecuta el if en el código, alguien sabe porqué? y saben de que otra metodo mas claro se puede implementar para que me imprima el numero mayor del array. Muchas gracias a quien pueda colaborar 😃 Saludos
 	
 	![retoArregloUniIter1.PNG](https://static.platzi.com/media/user_upload/retoArregloUniIter1-eeeb28e9-4222-47e1-b29e-65ecd3226975.jpg)
 
-	* **David Alejandro Mosquera Moreno** (2)
+	* **David Alejandro Mosquera Moreno** [1059446] (2)
 
-		
 		Parece que estás guardando los valores que ingresas solo en la variable `num` y no en cada posición del `array[ i ]` a medida que va iterando.
 		
 		Lo modifiqué un poco y dio resultado.
@@ -27970,15 +27018,15 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 		    
 		```
 
-	* **paola-diaz361** (2)
+	* **paola-diaz361** [1059446] (2)
 
-		
 		Tienes toda la razon, me hizo falta ingresar el array para que se almacenara en el mismo 😮 muchas gracias!!
 
-* **paola-diaz361** (1)
-![arreglosUnidimensionales1.PNG](https://static.platzi.com/media/user_upload/arreglosUnidimensionales1-f88a3f4d-16ca-4bad-a6fb-b267d36c867e.jpg)
+* **paola-diaz361** (1) [1059017](https://platzi.com/comentario/1059017/) 
+	
+	![arreglosUnidimensionales1.PNG](https://static.platzi.com/media/user_upload/arreglosUnidimensionales1-f88a3f4d-16ca-4bad-a6fb-b267d36c867e.jpg)
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1041743](https://platzi.com/comentario/1041743/) 
 
 	```
 	    #include <stdio.h>
@@ -28023,7 +27071,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1038736](https://platzi.com/comentario/1038736/) 
 
 	```
 	    #include <stdio.h>
@@ -28068,9 +27116,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1038588](https://platzi.com/comentario/1038588/) 
 
-	
 	#include<stdio.h>  
 	#include<stdio.h>
 	
@@ -28120,14 +27167,12 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1038489](https://platzi.com/comentario/1038489/) 
 
-	
 	estoy jugando un poco con lo que aprendimos hasta ahora
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1036944](https://platzi.com/comentario/1036944/) 
 
-	
 	Reto Logrado!
 	``` 
 	    #include <stdio.h>
@@ -28170,9 +27215,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **leo_M** (1)
+* **leo_M** (1) [1036334](https://platzi.com/comentario/1036334/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -28214,7 +27258,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **Edgar Mancilla Sánchez** (1)
+* **Edgar Mancilla Sánchez** (1) [1030316](https://platzi.com/comentario/1030316/) 
 
 	```
 	    #include <stdio.h>
@@ -28252,9 +27296,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1026066](https://platzi.com/comentario/1026066/) 
 
-	
 	Reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -28308,9 +27351,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1025757](https://platzi.com/comentario/1025757/) 
 
-	
 	Ejercicio en clase:
 	``` 
 	    #include <stdio.h>
@@ -28348,9 +27390,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1023323](https://platzi.com/comentario/1023323/) 
 
-	
 	Este reto requiere pruebas de funcionamiento , pues aun se debe comparar el valor mayor del arreglo con el valor mayor que tiene almacenado, de lo contrario dara mala info.
 	``` 
 	    #include <stdio.h>
@@ -28393,12 +27434,12 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-9c212f9d-b88a-41d1-8f99-0f1cc2de2de1.jpg)
-
-* **Fabian Mauricio Guerra Bedoya** (1)
-
+* **jhonsoccer11** (1) [1021770](https://platzi.com/comentario/1021770/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-9c212f9d-b88a-41d1-8f99-0f1cc2de2de1.jpg)
+
+* **Fabian Mauricio Guerra Bedoya** (1) [1021260](https://platzi.com/comentario/1021260/) 
+
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -28441,21 +27482,18 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1020323](https://platzi.com/comentario/1020323/) 
 
-	
 	Reto  
 	Comparto mi código, se me hizo un poco difícil, porque deseaba que funcionara también con números negativos, y he aquí el resultado:  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-c5c6c5be-c0bd-4cf8-b277-1545aab29a73.jpg)
 
-	* **GadielWisar** (2)
+	* **GadielWisar** [1020323] (2)
 
-		
 		Que buena forma de resolver el programa , me puedes explicar el fragmento de de código de la linea 21 a la 26 por favor
 
-	* **Adriana del Pilar Martinez Bautista** (1)
+	* **Adriana del Pilar Martinez Bautista** [1020323] (1)
 
-		
 		Claro si señor, mira:  
 		21 Inicio de un ciclo for.  
 		22 Se realiza una comparación de los valores que están en la matrix, por ejemplo si i = 2 entonces i+1=3, y se comparan los valores que estén en la posición 2 y 3, si se cumple hace un remplazo de estos para que en la siguiente ronda se pueda comparar el número mayor que lleve con el que sigue.  
@@ -28464,9 +27502,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 		Sin embargo el método que utilizo cuando desarrollo un algoritmo es la prueba escritorio. Me es muy funcional a la hora de mirar en donde fallo y que debo hacer para que me de el resultado que deseo.  
 		Lindo día. ♥
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1020084](https://platzi.com/comentario/1020084/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -28503,9 +27540,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1016107](https://platzi.com/comentario/1016107/) 
 
-	
 	int main()  
 	{  
 	printf(“Iterador\n”);  
@@ -28547,9 +27583,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1014142](https://platzi.com/comentario/1014142/) 
 
-	
 	No logro entender todo el código, la última parte es compleja para mi.
 	
 	#include<stdio.h>
@@ -28586,9 +27621,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1009959](https://platzi.com/comentario/1009959/) 
 
-	
 	La solución al reto =)
 	``` 
 	    #include <stdio.h>
@@ -28630,7 +27664,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1008812](https://platzi.com/comentario/1008812/) 
 
 	```
 	    #include<stdio.h>
@@ -28658,7 +27692,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **savier687** (1)
+* **savier687** (1) [1005531](https://platzi.com/comentario/1005531/) 
 
 	```
 	    int sizeArray, i;
@@ -28688,14 +27722,12 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1005202](https://platzi.com/comentario/1005202/) 
 
-	
 	Lo Importantes es entender en codigo y su funcionamiento y pacticar![RTUniIteradores.PNG](https://static.platzi.com/media/user_upload/RTUniIteradores-ffef7023-48f1-43a5-8ed7-657bbc52c4fa.jpg)
 
-* **boristrochez** (1)
+* **boristrochez** (1) [1003858](https://platzi.com/comentario/1003858/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -28732,7 +27764,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1003612](https://platzi.com/comentario/1003612/) 
 
 	```
 	    int main()
@@ -28764,7 +27796,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002740](https://platzi.com/comentario/1002740/) 
 
 	```
 	    int tamano, valor = 0, max = 0;
@@ -28794,12 +27826,12 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **MarianaGb** (1)
-![Imagen3.png](https://static.platzi.com/media/user_upload/Imagen3-467913d9-b248-4d00-8abe-92ea40db2d88.jpg)
-
-* **andresargote** (1)
-
+* **MarianaGb** (1) [1002351](https://platzi.com/comentario/1002351/) 
 	
+	![Imagen3.png](https://static.platzi.com/media/user_upload/Imagen3-467913d9-b248-4d00-8abe-92ea40db2d88.jpg)
+
+* **andresargote** (1) [994704](https://platzi.com/comentario/994704/) 
+
 	Me siento feliz 😃
 	
 	Luego de ayudarme con el código de mis compañeros pude resolver el mio, lo importante es intentarlo hasta lograrlo y si no puedes lee el codigo de los demas e intenta solucionarlo!!
@@ -28827,9 +27859,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Edison_Avila** (1)
+* **Edison_Avila** (1) [988607](https://platzi.com/comentario/988607/) 
 
-	
 	Mi solución al reto
 	``` 
 	    #include"stdio.h"
@@ -28864,9 +27895,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986941](https://platzi.com/comentario/986941/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -28894,9 +27924,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [986437](https://platzi.com/comentario/986437/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -28946,9 +27975,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [978016](https://platzi.com/comentario/978016/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -28974,7 +28002,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [976509](https://platzi.com/comentario/976509/) 
 
 	```
 	    int main()
@@ -29003,7 +28031,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [968925](https://platzi.com/comentario/968925/) 
 
 	```
 	    #include <stdio.h>
@@ -29042,7 +28070,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [967178](https://platzi.com/comentario/967178/) 
 
 	```
 	    int n;
@@ -29068,9 +28096,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Wilson Delgado** (1)
+* **Wilson Delgado** (1) [966759](https://platzi.com/comentario/966759/) 
 
-	
 	Listo!!
 	``` 
 	    int main()
@@ -29098,15 +28125,13 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [965547](https://platzi.com/comentario/965547/) 
 
-	
 	Casi que no.  
 	![Arreglos e Iteradores1.png](https://static.platzi.com/media/user_upload/Arreglos%20e%20Iteradores1-07d9daa0-61e3-490a-965d-8a5fa625eff7.jpg)
 
-* **Laura Camila Hurtado Hurtado** (1)
+* **Laura Camila Hurtado Hurtado** (1) [964612](https://platzi.com/comentario/964612/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -29137,9 +28162,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	return 0;  
 	}
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [964190](https://platzi.com/comentario/964190/) 
 
-	
 	 **Reto cumplido**
 	
 	lo realice con un for y lo valide con if si era mayor
@@ -29182,7 +28206,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [959476](https://platzi.com/comentario/959476/) 
 
 	```
 	    #include <stdio.h>
@@ -29212,14 +28236,12 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945815](https://platzi.com/comentario/945815/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Junino** (1)
+* **Junino** (1) [945096](https://platzi.com/comentario/945096/) 
 
-	
 	 **Aquí mi solución:**
 	``` 
 	    #include <stdio.h>
@@ -29252,7 +28274,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **nerek** (1)
+* **nerek** (1) [942025](https://platzi.com/comentario/942025/) 
 
 	```
 	    #include<stdio.h>
@@ -29276,9 +28298,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [939990](https://platzi.com/comentario/939990/) 
 
-	
 	**Reto: número mayor.**
 	``` 
 	    #include<stdio.h>
@@ -29310,9 +28331,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [937356](https://platzi.com/comentario/937356/) 
 
-	
 	Reto el numero mayor.
 	``` 
 	    #include<stdio.h>
@@ -29350,12 +28370,11 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-	* **arlex_ee10** (1)
+	* **arlex_ee10** [937356] (1)
 
-		
 		Gracias amigo
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [933855](https://platzi.com/comentario/933855/) 
 
 	```
 	    #include <stdio.h>
@@ -29390,7 +28409,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [930366](https://platzi.com/comentario/930366/) 
 
 	```
 	    #include <stdio.h>
@@ -29427,9 +28446,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [926926](https://platzi.com/comentario/926926/) 
 
-	
 	**Reto Resuelto** 😄
 	``` 
 	    #include<stdio.h>
@@ -29461,9 +28479,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [925712](https://platzi.com/comentario/925712/) 
 
-	
 	**Reto resuelto**! 😄
 	
 	En esta versión puedes agregar el tamaño de filas del arreglo y los valores que quieras en cada una.
@@ -29508,9 +28525,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Jose Alfredo Vallejo Contreras** (1)
+* **Jose Alfredo Vallejo Contreras** (1) [904917](https://platzi.com/comentario/904917/) 
 
-	
 	RETO
 	``` 
 	    #include <stdlib.h>
@@ -29533,7 +28549,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [901331](https://platzi.com/comentario/901331/) 
 
 	```
 	    #include <stdio.h>
@@ -29569,9 +28585,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **alfonsotechpie** (1)
+* **alfonsotechpie** (1) [897341](https://platzi.com/comentario/897341/) 
 
-	
 	Creo que lo tengo:
 	``` 
 	    #include <stdio.h>
@@ -29592,9 +28607,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [894246](https://platzi.com/comentario/894246/) 
 
-	
 	Me confundí pero ya esta el reto cumplido:
 	``` 
 	    #include <stdio.h>
@@ -29631,7 +28645,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [893364](https://platzi.com/comentario/893364/) 
 
 	```
 	    #include <stdio.h>
@@ -29669,9 +28683,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [889933](https://platzi.com/comentario/889933/) 
 
-	
 	Reto  
 	#include<stdio.h>
 	
@@ -29706,9 +28719,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [884998](https://platzi.com/comentario/884998/) 
 
-	
 	#include <stdlib.h>  
 	#include <stdio.h>
 	
@@ -29750,9 +28762,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	![arreglo mas grande.jpg](https://static.platzi.com/media/user_upload/arreglo%20mas%20grande-efcfe8bb-196f-42f4-9279-7addbef8e155.jpg)
 
-* **marcoxio** (1)
+* **marcoxio** (1) [881645](https://platzi.com/comentario/881645/) 
 
-	
 	Ejemplo clase python
 	``` 
 	    print('Arreglos e iteradores')
@@ -29764,7 +28775,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **marttcode** (1)
+* **marttcode** (1) [880874](https://platzi.com/comentario/880874/) 
 
 	```
 	    #include<stdio.h>
@@ -29798,7 +28809,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [879779](https://platzi.com/comentario/879779/) 
 
 	```
 	    #include <stdio.h>
@@ -29849,7 +28860,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Luis Xavier Perez Miramontes** (1)
+* **Luis Xavier Perez Miramontes** (1) [873489](https://platzi.com/comentario/873489/) 
 
 	```
 	    #include <stdio.h>
@@ -29881,9 +28892,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [869784](https://platzi.com/comentario/869784/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -29916,9 +28926,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **emrs** (1)
+* **emrs** (1) [858300](https://platzi.com/comentario/858300/) 
 
-	
 	Yo hice que el numero más grande entre un par se guarde en el indice siguiente, así, el ultimo indice siempre va a tener el número más grande, siempre.
 	``` 
 	    intarray[5];
@@ -29938,9 +28947,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [852981](https://platzi.com/comentario/852981/) 
 
-	
 	printf(“encontrar el numero mas grande !\n”);
 	``` 
 	    int numbers[5];
@@ -29971,7 +28979,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [850424](https://platzi.com/comentario/850424/) 
 
 	```
 	    #include <stdio.h>
@@ -30006,22 +29014,21 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **DUFP** (1)
+* **DUFP** (1) [845533](https://platzi.com/comentario/845533/) 
 
-	
 	Me costo entenderlo pero al fin pude.![reto15.PNG](https://static.platzi.com/media/user_upload/reto15-8b92c428-238f-472b-bf08-c2757a650ec6.jpg)
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [842927](https://platzi.com/comentario/842927/) 
 
-	
 	Fue dificil pero despues de un par de horas creo que pude!
 	
 	![Capture18.PNG](https://static.platzi.com/media/user_upload/Capture18-274ec530-ebf4-4250-b094-e23bab1ad03f.jpg)
 
-* **laj-lukum** (1)
-![Capture17.PNG](https://static.platzi.com/media/user_upload/Capture17-5b2dc227-c87f-4af8-92aa-ab74376b136f.jpg)
+* **laj-lukum** (1) [842554](https://platzi.com/comentario/842554/) 
+	
+	![Capture17.PNG](https://static.platzi.com/media/user_upload/Capture17-5b2dc227-c87f-4af8-92aa-ab74376b136f.jpg)
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [841120](https://platzi.com/comentario/841120/) 
 
 	```
 	    let intergerArray = [];
@@ -30039,9 +29046,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **max23esau** (1)
+* **max23esau** (1) [840052](https://platzi.com/comentario/840052/) 
 
-	
 	Reto Cumplido !
 	``` 
 	    #include <stdio.h>
@@ -30078,9 +29084,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Javier Rodolfo** (1)
+* **Javier Rodolfo** (1) [837988](https://platzi.com/comentario/837988/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -30111,7 +29116,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	return 0;  
 	}
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [821503](https://platzi.com/comentario/821503/) 
 
 	```
 	    int main()
@@ -30137,7 +29142,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [821363](https://platzi.com/comentario/821363/) 
 
 	```
 	    int main()
@@ -30172,7 +29177,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [819556](https://platzi.com/comentario/819556/) 
 
 	```
 	    int main ()
@@ -30208,9 +29213,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [819106](https://platzi.com/comentario/819106/) 
 
-	
 	**Listo**
 	``` 
 	    #include <stdio.h>
@@ -30245,12 +29249,11 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [816332](https://platzi.com/comentario/816332/) 
 
-	
 	Muy buen reto
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [816331](https://platzi.com/comentario/816331/) 
 
 	```
 	    int main()
@@ -30285,9 +29288,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **José Manuel Piña Rodríguez** (1)
+* **José Manuel Piña Rodríguez** (1) [798822](https://platzi.com/comentario/798822/) 
 
-	
 	RETO 15
 	``` 
 	    #include <stdio.h>
@@ -30321,13 +29323,12 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **linkpj** (1)
+* **linkpj** (1) [796710](https://platzi.com/comentario/796710/) 
 
-	
 	**Reto 15**  
 	![Reto15.PNG](https://static.platzi.com/media/user_upload/Reto15-08c1e1be-1be8-4abc-93e4-b8a1fde6e89a.jpg)
 
-* **Nelson Alayón** (1)
+* **Nelson Alayón** (1) [796209](https://platzi.com/comentario/796209/) 
 
 	```
 	    int main()
@@ -30367,9 +29368,8 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [786929](https://platzi.com/comentario/786929/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -30409,7 +29409,7 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	
 	}
 
-* **luismigeel** (1)
+* **luismigeel** (1) [753645](https://platzi.com/comentario/753645/) 
 
 	```
 	    #include <stdio.h>
@@ -30438,18 +29438,17 @@ Lo quise hacer ingresando manualmente los valores a cada vector, imprimiendo cad
 	    
 	```
 
-* **DavidArmandoVelazquez** (1)
+* **DavidArmandoVelazquez** (1) [67150](https://platzi.com/comentario/718400/) 
 Buen dia, Declaro una variable global que sea el valor que el usuario va a ingresar en cada posicion del arreglo por ejemplo “
 
-* **Alenri** (1)
+* **Alenri** (1) [51028](https://platzi.com/comentario/486476/) 
 Pueden subir las presentaciones??
 
-	* **Melisa Lozano (Platzi)** (1)
+	* **Melisa Lozano (Platzi)** [51028] (1)
 
-		
 		Te refieres a los slides?
 
-## 0170. Arreglos e iteradores bidimensionales
+## 0170. Arreglos e iteradores bidimensionales [16478](https://platzi.com/clases/1450-programacion-estructurada/16478-arreglos-e-iteradores-bidimensionales/)
 
 ### Descripción:
 
@@ -30470,7 +29469,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 
 ### Comentarios:
 
-* **kalegria** (2)
+* **kalegria** (2) [1078586](https://platzi.com/comentario/1078586/) 
 
 	```
 	    int arreglo[5][6];
@@ -30495,17 +29494,16 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-	* **Sergio Andrés Ruiz** (1)
+	* **Sergio Andrés Ruiz** [1078586] (1)
 
-		
 		Está muy bueno ese código! saludos . 😄
 
-* **Sergio Alejandro Alvarado Parada** (2)
-![Reto15.PNG](https://static.platzi.com/media/user_upload/Reto15-c24525ed-6a3e-4695-a92f-5f293b1bbd05.jpg)
-
-* **johngiraldo** (2)
-
+* **Sergio Alejandro Alvarado Parada** (2) [1076063](https://platzi.com/comentario/1076063/) 
 	
+	![Reto15.PNG](https://static.platzi.com/media/user_upload/Reto15-c24525ed-6a3e-4695-a92f-5f293b1bbd05.jpg)
+
+* **johngiraldo** (2) [1023347](https://platzi.com/comentario/1023347/) 
+
 	Reto!
 	``` 
 	    #include <stdio.h>
@@ -30557,7 +29555,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **jorgearmas** (2)
+* **jorgearmas** (2) [1008862](https://platzi.com/comentario/1008862/) 
 
 	```
 	    #include <stdio.h>
@@ -30605,9 +29603,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **freddymm** (2)
+* **freddymm** (2) [820607](https://platzi.com/comentario/820607/) 
 
-	
 	En C para obtener números aleatorios debemos primero incluir la librería **< time.h>** y esto nos permitirá usar la función **rand()** , como lo hice en la línea 21 del código, pero esta función utiliza siempre el mismo número semilla para genera la misma secuencia de números aleatorios para solucionar esto debemos usar la función **srand(time(0))** solo una vez al principio del programa y el parámetro **time(0)** nos devolverá la hora del sistema, con esto siempre obtendremos un nuevo número semilla para la función **rand()** y a su vez una secuencia de números aleatorios diferente cada vez. De resto:  
 	.  
 	**challenge accomplished**  
@@ -30670,7 +29667,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Juan Manuel Otero Rey** (2)
+* **Juan Manuel Otero Rey** (2) [747495](https://platzi.com/comentario/747495/) 
 
 	```
 	    #include <stdio.h>
@@ -30715,16 +29712,16 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Daniel Alejandro Ramirez** (2)
+* **Daniel Alejandro Ramirez** (2) [697741](https://platzi.com/comentario/697741/) 
 
-	
 	Codigo de mi programa:  
 	![Screenshot from 2019-08-20 12-26-36.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-08-20%2012-26-36-8e73e92d-13cd-493c-83be-27d9d00a21b7.jpg)
 
-* **Edison Renato Valdez Vega** (1)
-![RetoIteradoresArreglosBidimensionales.png](https://static.platzi.com/media/user_upload/RetoIteradoresArreglosBidimensionales-670be13f-324f-4bc3-8712-7e11c42ae51c.jpg)
+* **Edison Renato Valdez Vega** (1) [1100897](https://platzi.com/comentario/1100897/) 
+	
+	![RetoIteradoresArreglosBidimensionales.png](https://static.platzi.com/media/user_upload/RetoIteradoresArreglosBidimensionales-670be13f-324f-4bc3-8712-7e11c42ae51c.jpg)
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [1100895](https://platzi.com/comentario/1100895/) 
 
 	```
 	    #include <stdio.h>
@@ -30760,26 +29757,23 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Luis angel muñoz villafuerte** (1)
+* **Luis angel muñoz villafuerte** (1) [1096421](https://platzi.com/comentario/1096421/) 
 
-	
 	![](![reto.jpg](https://static.platzi.com/media/user_upload/reto-4d51f6ba-181b-4065-8d02-14b280788072.jpg)
 	
-	  * ![](![2.jpg](https://static.platzi.com/media/user_upload/2-3f281dcf-3abd-4e61-b24c-68cbc2b1d1af.jpg)
+	* ![](![2.jpg](https://static.platzi.com/media/user_upload/2-3f281dcf-3abd-4e61-b24c-68cbc2b1d1af.jpg)
 	
 	
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1094252](https://platzi.com/comentario/1094252/) 
 
-	
 	**Reto:**  
 	![](![pantallaso codigo reto resuelto arreglos iteradores bidimensionales.png](https://static.platzi.com/media/user_upload/pantallaso%20codigo%20reto%20resuelto%20arreglos%20iteradores%20bidimensionales-9cb54532-96a9-4ee8-8288-1e9901f70599.jpg)
 	
 	![](![pantallaso reto resuelto arreglos iteradores bidimensionales.png](https://static.platzi.com/media/user_upload/pantallaso%20reto%20resuelto%20arreglos%20iteradores%20bidimensionales-c0a90adf-991e-4e1a-9b83-3d41664a631b.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1094239](https://platzi.com/comentario/1094239/) 
 
-	
 	Este reto se me hizo muy difícil pero empecé de nuevo todos los temas y los practique para poder entender todo bien y pude hacerlo en un principio ni viendo el código de la profesora entendía la idea no era copiarme de nadie.
 	
 	#include <stdio.h>  
@@ -30814,7 +29808,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1084571](https://platzi.com/comentario/1084571/) 
 
 	```
 	    #include <stdio.h>
@@ -30864,13 +29858,15 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **JobForero** (1)
-![Screenshot_1_Clases.png](https://static.platzi.com/media/user_upload/Screenshot_1_Clases-af1840e0-dee0-43a4-a1cb-212a55ec0048.jpg)
+* **JobForero** (1) [1078892](https://platzi.com/comentario/1078892/) 
+	
+	![Screenshot_1_Clases.png](https://static.platzi.com/media/user_upload/Screenshot_1_Clases-af1840e0-dee0-43a4-a1cb-212a55ec0048.jpg)
 
-* **Larry Perez** (1)
-![IteradoresBidimensional.PNG](https://static.platzi.com/media/user_upload/IteradoresBidimensional-48b5a341-3da1-44f7-a74c-1f3d0ae4c366.jpg)
+* **Larry Perez** (1) [1069208](https://platzi.com/comentario/1069208/) 
+	
+	![IteradoresBidimensional.PNG](https://static.platzi.com/media/user_upload/IteradoresBidimensional-48b5a341-3da1-44f7-a74c-1f3d0ae4c366.jpg)
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1066352](https://platzi.com/comentario/1066352/) 
 
 	```
 	    #include <stdio.h>
@@ -30911,17 +29907,17 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1062746](https://platzi.com/comentario/1062746/) 
 
-	
 	Buenas noches, se me complico un poco este tema, aun hay cosas que no se como manejalas, alguien me puede corregir mi código y darme opciones mejores que pueda implementar, le agradeceria mucho, la idea es aprender y aplicar, Muchas gracias!!
 	
 	![retoArreglosBidimensItera1.PNG](https://static.platzi.com/media/user_upload/retoArreglosBidimensItera1-89fd714a-1a35-4227-a834-5206f6158f82.jpg)
 
-* **paola-diaz361** (1)
-![arreglosBidimItera1.PNG](https://static.platzi.com/media/user_upload/arreglosBidimItera1-add7543e-e091-4322-9170-e6424cf16a31.jpg)
+* **paola-diaz361** (1) [1059779](https://platzi.com/comentario/1059779/) 
+	
+	![arreglosBidimItera1.PNG](https://static.platzi.com/media/user_upload/arreglosBidimItera1-add7543e-e091-4322-9170-e6424cf16a31.jpg)
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1043493](https://platzi.com/comentario/1043493/) 
 
 	```
 	    int main()
@@ -30952,7 +29948,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Fernando-corona-jr** (1)
+* **Fernando-corona-jr** (1) [1042640](https://platzi.com/comentario/1042640/) 
 
 	```
 	    #include <stdio.h>
@@ -30997,9 +29993,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1036978](https://platzi.com/comentario/1036978/) 
 
-	
 	El ejemplo del reto de la maestra es muy confuso, no sabe explicar bien. Pero al final creo que lo logre.  
 	Aqui dejo mi codigo.
 	``` 
@@ -31040,9 +30035,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **leo_M** (1)
+* **leo_M** (1) [1036392](https://platzi.com/comentario/1036392/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -31109,9 +30103,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	}
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1026195](https://platzi.com/comentario/1026195/) 
 
-	
 	En este reto me sentí un poco confundido, hice algo, pero no sé, creo que no era lo que se esperaba; sin embargo lo dejo por acá:
 	``` 
 	    #include <stdio.h>
@@ -31140,9 +30133,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1026101](https://platzi.com/comentario/1026101/) 
 
-	
 	Ejercicio en clase:
 	``` 
 	    #include <stdio.h>
@@ -31196,9 +30188,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Fabian Mauricio Guerra Bedoya** (1)
+* **Fabian Mauricio Guerra Bedoya** (1) [1025235](https://platzi.com/comentario/1025235/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -31230,9 +30221,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1022815](https://platzi.com/comentario/1022815/) 
 
-	
 	Reto (cada vez más difícil xd)
 	``` 
 	    #include <stdio.h>
@@ -31269,13 +30259,12 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1022115](https://platzi.com/comentario/1022115/) 
 
-	
 	Reto  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-44b3a083-36b9-4e12-8158-04910aaa25bc.jpg)
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1014210](https://platzi.com/comentario/1014210/) 
 
 	```
 	    #include <stdio.h>
@@ -31309,12 +30298,11 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Maria_Perez** (1)
+* **Maria_Perez** (1) [1011473](https://platzi.com/comentario/1011473/) 
 
-	
 	Ojo al asignar un valor en una posicion del arreglo se debe tener en cuenta que las posiciones en el arreglo empiezan en 0 y van hasta el tamaño del arreglo -1.
 
-* **ignacioequiroga** (1)
+* **ignacioequiroga** (1) [1011367](https://platzi.com/comentario/1011367/) 
 
 	```
 	    #include <stdio.h>
@@ -31360,8 +30348,9 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **boristrochez** (1)
-![Capturab13.JPG](https://static.platzi.com/media/user_upload/Capturab13-0c351347-8410-42f9-85c7-bba26fe37fef.jpg)
+* **boristrochez** (1) [1009839](https://platzi.com/comentario/1009839/) 
+	
+	![Capturab13.JPG](https://static.platzi.com/media/user_upload/Capturab13-0c351347-8410-42f9-85c7-bba26fe37fef.jpg)
 	
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -31416,12 +30405,11 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	}
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1007205](https://platzi.com/comentario/1007205/) 
 
-	
 	Un Poco Complicado El Reto ![RRetoBidiIteradores.PNG](https://static.platzi.com/media/user_upload/RRetoBidiIteradores-517a1a13-7898-47c9-9e60-4b9e1a9f5d69.jpg)
 
-* **savier687** (1)
+* **savier687** (1) [1006123](https://platzi.com/comentario/1006123/) 
 
 	```
 	    float notas[5][6] = {
@@ -31446,7 +30434,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1002792](https://platzi.com/comentario/1002792/) 
 
 	```
 	    int main()
@@ -31559,10 +30547,11 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **MarianaGb** (1)
-![Imagen4.png](https://static.platzi.com/media/user_upload/Imagen4-380161f9-1d94-4b61-b4ad-5098ed7739b8.jpg)
+* **MarianaGb** (1) [1002505](https://platzi.com/comentario/1002505/) 
+	
+	![Imagen4.png](https://static.platzi.com/media/user_upload/Imagen4-380161f9-1d94-4b61-b4ad-5098ed7739b8.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [1001446](https://platzi.com/comentario/1001446/) 
 
 	```
 	    #include <stdio.h>
@@ -31605,14 +30594,12 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Rodríguez Brian** (1)
+* **Rodríguez Brian** (1) [999897](https://platzi.com/comentario/999897/) 
 
-	
 	El primer for toma cada fila, osea itera entre las filas, el segundo for, de cada fila toma cada uno de sus elementos (lo que visto de afuera seria parte de las columnas), si alguien tiene dudas o cree que lo estoy explicando mal comenten.
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [999722](https://platzi.com/comentario/999722/) 
 
-	
 	La salida es la siguiente
 	
 	Calificacion parcial: 10  
@@ -31657,9 +30644,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	Process exited after 0.02014 seconds with return value 0  
 	Presione una tecla para continuar . . .
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [999717](https://platzi.com/comentario/999717/) 
 
-	
 	Espero que este aporte sirva de ejemplo
 	``` 
 	    #include <stdio.h>
@@ -31701,7 +30687,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [999711](https://platzi.com/comentario/999711/) 
 
 	```
 	    #include <stdio.h>
@@ -31743,9 +30729,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Edison_Avila** (1)
+* **Edison_Avila** (1) [988805](https://platzi.com/comentario/988805/) 
 
-	
 	Mi solución al reto, utilize la función drand48 para generar las notas “aleatoriamente” y no srand48() ya que no me funcionaba.
 	``` 
 	    int main(int argc, char const *argv[])
@@ -31798,9 +30783,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [987950](https://platzi.com/comentario/987950/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -31882,9 +30866,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [986985](https://platzi.com/comentario/986985/) 
 
-	
 	Reto
 	``` 
 	    #include <stdio.h>
@@ -31951,9 +30934,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [981145](https://platzi.com/comentario/981145/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -32040,9 +31022,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	![Captura de Pantalla 2020-02-12 a la\(s\) 08.34.15.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-12%20a%20la%28s%29%2008.34.15-9302a045-5cc2-403c-9aa2-a3e4b40d2a3f.jpg)
 
-* **wilantury** (1)
+* **wilantury** (1) [978280](https://platzi.com/comentario/978280/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -32076,14 +31057,12 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [976941](https://platzi.com/comentario/976941/) 
 
-	
 	Ayuda es el unico reto que no he podido hacer
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [972992](https://platzi.com/comentario/972992/) 
 
-	
 	con numeros aleatorios entre 6 y 10
 	``` 
 	    #include <stdio.h>
@@ -32117,30 +31096,25 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [965934](https://platzi.com/comentario/965934/) 
 
-	
 	Hola, haciendo el reto, creo que ya tengo la sumatoria pero me hace falta el promedio…  
 	![Imagen2.png](https://static.platzi.com/media/user_upload/Imagen2-7fc6ba48-5cc0-40ee-b27f-64a5898cd32b.jpg)
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [965861](https://platzi.com/comentario/965861/) 
 
-	
 	De por Dios!! Complicado el reto.
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945817](https://platzi.com/comentario/945817/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Diego Alexander Forero Higuera (Platzi)** (1)
+* **Diego Alexander Forero Higuera (Platzi)** (1) [934921](https://platzi.com/comentario/934921/) 
 
-	
 	Prueba
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [934011](https://platzi.com/comentario/934011/) 
 
-	
 	Colocando los valores aleatorios entre (6-10)
 	``` 
 	    #include <stdio.h>
@@ -32186,9 +31160,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [928887](https://platzi.com/comentario/928887/) 
 
-	
 	**Reto Cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -32256,9 +31229,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [925874](https://platzi.com/comentario/925874/) 
 
-	
 	Creo que ha sido el **reto** más complicado hasta ahora, pero se cumplió. 😄
 	``` 
 	    #include <stdio.h>
@@ -32297,7 +31269,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **JP** (1)
+* **JP** (1) [909912](https://platzi.com/comentario/909912/) 
 
 	```
 	    <code>
@@ -32412,9 +31384,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Jose Alfredo Vallejo Contreras** (1)
+* **Jose Alfredo Vallejo Contreras** (1) [904994](https://platzi.com/comentario/904994/) 
 
-	
 	RETO
 	``` 
 	    #include <stdlib.h>
@@ -32452,7 +31423,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [901576](https://platzi.com/comentario/901576/) 
 
 	```
 	    #include <stdio.h>
@@ -32491,9 +31462,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	![bidarray.png](https://static.platzi.com/media/user_upload/bidarray-6078ba57-ecde-4301-b0a4-29f35eb3ab3b.jpg)
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [894389](https://platzi.com/comentario/894389/) 
 
-	
 	Woo trate de no hacerlo tan complejo, haber que tal:
 	``` 
 	    #include <stdio.h>
@@ -32535,7 +31505,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [893406](https://platzi.com/comentario/893406/) 
 
 	```
 	    #include <stdio.h>
@@ -32600,9 +31570,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [889979](https://platzi.com/comentario/889979/) 
 
-	
 	#include<stdio.h>
 	
 	int main()  
@@ -32637,7 +31606,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	}
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [885327](https://platzi.com/comentario/885327/) 
 
 	```
 	    #include <stdio.h>
@@ -32697,9 +31666,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [876651](https://platzi.com/comentario/876651/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -32744,7 +31712,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	}
 
-* **Luis Xavier Perez Miramontes** (1)
+* **Luis Xavier Perez Miramontes** (1) [873582](https://platzi.com/comentario/873582/) 
 
 	```
 	    #include <stdio.h>
@@ -32777,7 +31745,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Juan Cruz Stakys** (1)
+* **Juan Cruz Stakys** (1) [870430](https://platzi.com/comentario/870430/) 
 
 	```
 	    #include <stdio.h>
@@ -32806,9 +31774,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [869824](https://platzi.com/comentario/869824/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    int main()
@@ -32839,7 +31806,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [853008](https://platzi.com/comentario/853008/) 
 
 	```
 	    printf("calificaciones!\n");
@@ -32868,15 +31835,16 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	                }
 	```
 
-* **laj-lukum** (1)
-![Capture19.PNG](https://static.platzi.com/media/user_upload/Capture19-088ab674-032f-4e13-84cd-26e5a9f78d97.jpg)
-
-* **DUFP** (1)
-![reto16.PNG](https://static.platzi.com/media/user_upload/reto16-da720a28-e48b-45a1-bac6-82f7541554a6.jpg)
-
-* **Manuel Rivera** (1)
-
+* **laj-lukum** (1) [847097](https://platzi.com/comentario/847097/) 
 	
+	![Capture19.PNG](https://static.platzi.com/media/user_upload/Capture19-088ab674-032f-4e13-84cd-26e5a9f78d97.jpg)
+
+* **DUFP** (1) [845791](https://platzi.com/comentario/845791/) 
+	
+	![reto16.PNG](https://static.platzi.com/media/user_upload/reto16-da720a28-e48b-45a1-bac6-82f7541554a6.jpg)
+
+* **Manuel Rivera** (1) [841623](https://platzi.com/comentario/841623/) 
+
 	Realice el reto en JavaScript pero en este lenguaje ocurre mucho el efecto de lado o colateral ya que no se puede especificar de que tipo son los arrays.Pero por fin lo logre.
 	``` 
 	    const array = [[],[],[],[], []]
@@ -32928,9 +31896,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **max23esau** (1)
+* **max23esau** (1) [840161](https://platzi.com/comentario/840161/) 
 
-	
 	Reto cumplido !  
 	Con un poco de ayuda claro.
 	``` 
@@ -32973,9 +31940,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Javier Rodolfo** (1)
+* **Javier Rodolfo** (1) [839993](https://platzi.com/comentario/839993/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	``` 
@@ -33027,9 +31993,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	}
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834614](https://platzi.com/comentario/834614/) 
 
-	
 	Mi resultado fue el siguiente
 	
 	El promedio del alumno 1 es: 8.400000  
@@ -33041,9 +32006,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	…Program finished with exit code 0  
 	Press ENTER to exit console.
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834613](https://platzi.com/comentario/834613/) 
 
-	
 	Codigo final, elimine el if que estaba demas ponerlo
 	
 	#include <stdio.h>
@@ -33067,9 +32031,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	return 0;  
 	}
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834611](https://platzi.com/comentario/834611/) 
 
-	
 	Depure mi codigo un poco y ahora me quedo asi
 	
 	#include <stdio.h>
@@ -33100,9 +32063,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	return 0;  
 	}
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834608](https://platzi.com/comentario/834608/) 
 
-	
 	#include <stdio.h>
 	
 	int main()  
@@ -33135,9 +32097,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	return 0;  
 	}
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834607](https://platzi.com/comentario/834607/) 
 
-	
 	El promedio del alumno 1 es: 8.400000  
 	El promedio del alumno 2 es: 9.280001  
 	El promedio del alumno 3 es: 10.256000  
@@ -33147,9 +32108,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	…Program finished with exit code 0  
 	Press ENTER to exit console.
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [821558](https://platzi.com/comentario/821558/) 
 
-	
 	No pude resolver el desafió por mi cuenta, vi el código de la profesora y me di a la tarea de entenderlo.  
 	_
 	``` 
@@ -33201,7 +32161,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [816686](https://platzi.com/comentario/816686/) 
 
 	```
 	    printf("Clificaciones de los alumnos y promedio por filas \n");
@@ -33267,9 +32227,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **horaciocantugarcia** (1)
+* **horaciocantugarcia** (1) [806714](https://platzi.com/comentario/806714/) 
 
-	
 	int main()  
 	{  
 	printf(“Arreglos bidimensionales reto calificaciones \n”);
@@ -33299,7 +32258,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Nelson Alayón** (1)
+* **Nelson Alayón** (1) [797073](https://platzi.com/comentario/797073/) 
 
 	```
 	    int main()
@@ -33340,15 +32299,13 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **linkpj** (1)
+* **linkpj** (1) [796731](https://platzi.com/comentario/796731/) 
 
-	
 	**Reto 16**  
 	![Reto16.PNG](https://static.platzi.com/media/user_upload/Reto16-e72cfe15-2e79-4b18-a44d-b92392b5f572.jpg)
 
-* **albertodanielcastillomendoza** (1)
+* **albertodanielcastillomendoza** (1) [792030](https://platzi.com/comentario/792030/) 
 
-	
 	Reto cumplido, con numeros aleatorios entre 6 -10
 	``` 
 	    #include <stdio.h>
@@ -33390,7 +32347,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [788143](https://platzi.com/comentario/788143/) 
 
 	```
 	    #include <stdio.h>
@@ -33418,9 +32375,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [768703](https://platzi.com/comentario/768703/) 
 
-	
 	Mi reto
 	
 	**Código**
@@ -33519,9 +32475,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Wilson Perez** (1)
+* **Wilson Perez** (1) [763523](https://platzi.com/comentario/763523/) 
 
-	
 	Codigo del reto de esta clase.
 	``` 
 	    <
@@ -33585,10 +32540,11 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **funkydaniel** (1)
-![c15.jpg](https://static.platzi.com/media/user_upload/c15-e00a9afc-bb91-4c71-8aaa-7fde741187eb.jpg)
+* **funkydaniel** (1) [756091](https://platzi.com/comentario/756091/) 
+	
+	![c15.jpg](https://static.platzi.com/media/user_upload/c15-e00a9afc-bb91-4c71-8aaa-7fde741187eb.jpg)
 
-* **Kevin Ariel Merino Peña** (1)
+* **Kevin Ariel Merino Peña** (1) [743921](https://platzi.com/comentario/743921/) 
 
 	```
 	    #include <stdio.h>
@@ -33620,7 +32576,7 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [741016](https://platzi.com/comentario/741016/) 
 
 	```
 	    #include <stdio.h>
@@ -33670,14 +32626,12 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **thegiotube** (1)
+* **thegiotube** (1) [737243](https://platzi.com/comentario/737243/) 
 
-	
 	Un trabalengua esa descripción jajaja
 
-* **DavidArmandoVelazquez** (1)
+* **DavidArmandoVelazquez** (1) [724913](https://platzi.com/comentario/724913/) 
 
-	
 	Hice el programa para que el usuario ingrese la calificacion en cada posicion y el programa calcule el promedio de los primeros 5 elementos de la fila y despues el promedio de toda la fila.
 	``` 
 	    int main()
@@ -33723,10 +32677,11 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Oriol Camí** (1)
-![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-8230624b-9272-45e7-9996-3c2970210302.jpg)
+* **Oriol Camí** (1) [719366](https://platzi.com/comentario/719366/) 
+	
+	![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-8230624b-9272-45e7-9996-3c2970210302.jpg)
 
-* **joshBarrios22** (1)
+* **joshBarrios22** (1) [715813](https://platzi.com/comentario/715813/) 
 
 	```
 	    #include <stdio.h>
@@ -33760,9 +32715,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **ale_lossi_** (1)
+* **ale_lossi_** (1) [707539](https://platzi.com/comentario/707539/) 
 
-	
 	Me costo un poco mas, pero si se pudo 😉
 	``` 
 	    #include <stdio.h>
@@ -33796,9 +32750,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **jufeor933** (1)
+* **jufeor933** (1) [701179](https://platzi.com/comentario/701179/) 
 
-	
 	int i, j, sumPromedio;  
 	int listaEnteros[5][6] = {{6,7,8,9,5,0},  
 	{6,6,8,9,6,0},  
@@ -33830,9 +32783,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    return 0;
 	```
 
-* **Iván José Campo De Martino** (1)
+* **Iván José Campo De Martino** (1) [699164](https://platzi.com/comentario/699164/) 
 
-	
 	 **reto**
 	``` 
 	    #include <stdio.h>
@@ -33868,13 +32820,12 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Daniel Alejandro Ramirez** (1)
+* **Daniel Alejandro Ramirez** (1) [697738](https://platzi.com/comentario/697738/) 
 
-	
 	Reto completado!  
 	![Screenshot from 2019-08-20 12-24-30.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-08-20%2012-24-30-64cf37cf-00ec-4675-b711-b4aac5c95d02.jpg)
 
-* **andrei-caravantes-caballero** (1)
+* **andrei-caravantes-caballero** (1) [692596](https://platzi.com/comentario/692596/) 
 
 	```
 	    import java.util.Random;
@@ -33910,9 +32861,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [689018](https://platzi.com/comentario/689018/) 
 
-	
 	Mi codigo quedo de la siguiente manera:
 	``` 
 	    #include <stdio.h>
@@ -33964,9 +32914,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	
 	Seguramente se puede refactorizar y realizar algunas mejoras.
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [687045](https://platzi.com/comentario/687045/) 
 
-	
 	Algo rudimentario pero ahí va:
 	``` 
 	    #include <stdio.h>
@@ -34034,9 +32983,8 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **RicardoRA19** (1)
+* **RicardoRA19** (1) [680098](https://platzi.com/comentario/680098/) 
 
-	
 	Reto interactivo, puedes escoger la cantidad de alumnos y materias que tienen 😄
 	``` 
 	    #include <stdio.h>
@@ -34076,34 +33024,31 @@ Esto es muy útil para recorrer arreglos bidimensionales.
 	    
 	```
 
-* **santi-cardoso** (1)
+* **santi-cardoso** (1) [85493](https://platzi.com/comentario/1075301/) 
 Se puso complicado el asunto
 
-	* **María José Ledesma (Platzi)** (2)
+	* **María José Ledesma (Platzi)** [85493] (2)
 
-		
 		¡Hola santi-cardoso!  
 		Si tienes alguna duda, puedes consultar.
 		
 		**¡Nunca pares de aprender!** (Y practicar) ✨🦄
 
-* **Henry Sanchez** (1)
+* **Henry Sanchez** (1) [84209](https://platzi.com/comentario/1045474/) 
 del reto propuesto me podrian explicar estas ultimas lineas, gracias if(j < 5) { arrayB[i][5] += arrayB[i][j]; printf(“La sumatoria de...
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [82137](https://platzi.com/comentario/998259/) 
 No entendi el reto que la Profesora dejo para resolver, ni siquiera entendi el codigo, ni la propuesta de codigo, alguien que me pueda ay...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [82137] (1)
 
-		
 		Un compañero tenía tu misma duda y las respuestas que le dieron creo que te pueden ayudar a entenderlo mejor: <https://platzi.com/comentario/996114/>. 😉
 
-* **andresargote** (1)
+* **andresargote** (1) [82044](https://platzi.com/comentario/996114/) 
 No entiendo bien la explicación de la maestra, si alguien me lo puedo explicar de otra forma para ver si lo logro resolver!!
 
-	* **Luis Arturo Lira Cerda** (7)
+	* **Luis Arturo Lira Cerda** [82044] (7)
 
-		
 		Lo que pasa en un for anidado es que el primer for, terminará su primer iteración hasta que el segundo for termine todas su iteraciones, y luego se repetirá de la misma hasta que el primer for termine. En palabras un poco más simples.  
 		Si el primer for ( i ) tiene que hacer 10 iteraciones y el segundo for ( j ) tiene que hacer 5 iteraciones, lo que pasará será esto.  
 		’
@@ -34125,10 +33070,10 @@ No entiendo bien la explicación de la maestra, si alguien me lo puedo explicar 
 		
 		y así continuará hasta que i llegue a su última iteración. El valor de j siempre será reiniciado en cada iteración de i.
 
-* **Jose Padron (Platzi)** (1)
+* **Jose Padron (Platzi)** (1) [79316](https://platzi.com/comentario/938051/) 
 prueba
 
-## 0180. Cadena de caracteres (string)
+## 0180. Cadena de caracteres (string) [16479](https://platzi.com/clases/1450-programacion-estructurada/16479-cadena-de-caracteres-string6516/)
 
 ### Descripción:
 
@@ -34139,9 +33084,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 
 ### Comentarios:
 
-* **Jose Alfredo Vallejo Contreras** (3)
+* **Jose Alfredo Vallejo Contreras** (3) [905113](https://platzi.com/comentario/905113/) 
 
-	
 	RETO
 	``` 
 	    #include<stdlib.h>
@@ -34170,7 +33114,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (2)
+* **Daniel Eishu Oyama Arevalo** (2) [1066363](https://platzi.com/comentario/1066363/) 
 
 	```
 	    int main()
@@ -34187,9 +33131,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Jesus Velez Flores** (2)
+* **Jesus Velez Flores** (2) [1037012](https://platzi.com/comentario/1037012/) 
 
-	
 	Aqui dejo mi solucion. Reto cumplido 😉
 	``` 
 	    #include<stdio.h>
@@ -34220,14 +33163,12 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-	* **rigiba** (1)
+	* **rigiba** [1037012] (1)
 
-		
 		Exelente solucion
 
-* **leo_M** (2)
+* **leo_M** (2) [1036428](https://platzi.com/comentario/1036428/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -34253,9 +33194,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	}
 
-* **Miguel Torres** (2)
+* **Miguel Torres** (2) [925975](https://platzi.com/comentario/925975/) 
 
-	
 	 **Reto terminado**. 😄
 	``` 
 	    #include <stdio.h>
@@ -34289,7 +33229,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Christian Gómez** (2)
+* **Christian Gómez** (2) [893673](https://platzi.com/comentario/893673/) 
 
 	```
 	    #include <stdio.h>
@@ -34317,14 +33257,12 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-	* **Ramón Ruiz** (2)
+	* **Ramón Ruiz** [893673] (2)
 
-		
 		Gracias bro, no sabia como y ya le entendi gracias a tu código.
 
-* **freddymm** (2)
+* **freddymm** (2) [821049](https://platzi.com/comentario/821049/) 
 
-	
 	Para recoger información del stdin del usuario podemos usar **scanf()** , **gets()** y **fgets()**.  
 	.  
 	el problema de **scanf()** es que solo recoge información hasta que encuentra un espacio.  
@@ -34333,12 +33271,11 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	.  
 	**fgets()** ya que en esta función se le pasa como parámetro la variable donde se va a guardar la información, de donde se va a recibir la información y lo que corrige el problema de la anterior función que es el tamaño máximo de la información que puede recibir, quedando así: **fgets(varaible, 15, stdin);** donde “variable” es la variable donde se va a guardar la información, 15 es el tamaño máximo de la información que puede recoger y stdin es de donde se va recoger la información en este caso stdin es el teclado
 
-* **Juan Cruz Stakys** (2)
+* **Juan Cruz Stakys** (2) [75466](https://platzi.com/comentario/870448/) 
 #include <stdio.h> #include <stdlib.h> int main() { char texto[100]; char res[100]; printf("Ingrese el te...
 
-	* **Jhon Alexander Romero Gonzaga** (1)
+	* **Jhon Alexander Romero Gonzaga** [75466] (1)
 
-		
 		Es porque son caracteres especiales, puedes probar incluyendo estas librerías:
 		``` 
 		    #include<wchar.h>
@@ -34346,9 +33283,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 		    
 		```
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1111050](https://platzi.com/comentario/1111050/) 
 
-	
 	int main()  
 	{  
 	printf(“Cadena de caracteres\n”);![]  
@@ -34379,7 +33315,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	}
 
-* **Alejandro Manzano** (1)
+* **Alejandro Manzano** (1) [1104617](https://platzi.com/comentario/1104617/) 
 
 	```
 	    #include<stdio.h>
@@ -34424,9 +33360,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [1101096](https://platzi.com/comentario/1101096/) 
 
-	
 	tengo el siguiente error,
 	
 	warning: implicit declaration of function ‘gets’; did you mean ‘fgets’? [-Wimplicit-function-declaration]
@@ -34435,7 +33370,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	Alguien tuvo el mismo problema? SO Ubuntu 19.10
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1100903](https://platzi.com/comentario/1100903/) 
 
 	```
 	    #include <stdio.h>
@@ -34460,7 +33395,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **alexandermachic20** (1)
+* **alexandermachic20** (1) [1100086](https://platzi.com/comentario/1100086/) 
 
 	```
 	    <char chares[20];
@@ -34478,7 +33413,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1097739](https://platzi.com/comentario/1097739/) 
 
 	```
 	    int main()
@@ -34502,16 +33437,14 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1097082](https://platzi.com/comentario/1097082/) 
 
-	
 	Reto invertir cadena de texto:
 	
 	![](![RETO STRING INVERTIR CADENA DE TEXTO.png](https://static.platzi.com/media/user_upload/RETO%20STRING%20INVERTIR%20CADENA%20DE%20TEXTO-8c15ef39-b544-451a-a70b-c8fb1c3138c3.jpg)
 
-* **luis angel muñoz gonzalez** (1)
+* **luis angel muñoz gonzalez** (1) [1089306](https://platzi.com/comentario/1089306/) 
 
-	
 	Forma sencilla 😛  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -34550,13 +33483,15 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	}
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto16.PNG](https://static.platzi.com/media/user_upload/Reto16-d5b27bfd-b4a0-4fae-b762-157ac06cb0b9.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1081085](https://platzi.com/comentario/1081085/) 
+	
+	![Reto16.PNG](https://static.platzi.com/media/user_upload/Reto16-d5b27bfd-b4a0-4fae-b762-157ac06cb0b9.jpg)
 
-* **JobForero** (1)
-![Screenshot_1_job.png](https://static.platzi.com/media/user_upload/Screenshot_1_job-9b6a29d2-ceb5-49da-8f81-a6b3f95749f0.jpg)
+* **JobForero** (1) [1079155](https://platzi.com/comentario/1079155/) 
+	
+	![Screenshot_1_job.png](https://static.platzi.com/media/user_upload/Screenshot_1_job-9b6a29d2-ceb5-49da-8f81-a6b3f95749f0.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1078706](https://platzi.com/comentario/1078706/) 
 
 	```
 	    char cadena[50] ="";
@@ -34573,7 +33508,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [1062827](https://platzi.com/comentario/1062827/) 
 
 	```
 	    // Reto
@@ -34601,7 +33536,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1049921](https://platzi.com/comentario/1049921/) 
 
 	```
 	    #include <stdio.h>
@@ -34637,9 +33572,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **vivisoto** (1)
+* **vivisoto** (1) [1044136](https://platzi.com/comentario/1044136/) 
 
-	
 	reto
 	``` 
 	    int main()
@@ -34668,7 +33602,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Edgar Mancilla Sánchez** (1)
+* **Edgar Mancilla Sánchez** (1) [1035675](https://platzi.com/comentario/1035675/) 
 
 	```
 	    #include <stdio.h>
@@ -34703,7 +33637,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **GadielWisar** (1)
+* **GadielWisar** (1) [1031658](https://platzi.com/comentario/1031658/) 
 
 	```
 	    #include <stdio.h>
@@ -34736,9 +33670,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1027733](https://platzi.com/comentario/1027733/) 
 
-	
 	Esta es mi solución, no se que pasa pero al poner pocas letras me genera un error a inicio de a frase al revés
 	``` 
 	    #include<stdio.h>
@@ -34762,9 +33695,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1026276](https://platzi.com/comentario/1026276/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -34801,9 +33733,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1026260](https://platzi.com/comentario/1026260/) 
 
-	
 	Ejercicio:
 	``` 
 	    #include<stdio.h>
@@ -34841,9 +33772,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1024612](https://platzi.com/comentario/1024612/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -34868,7 +33798,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1023783](https://platzi.com/comentario/1023783/) 
 
 	```
 	    #include<stdio.h>
@@ -34893,9 +33823,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1023006](https://platzi.com/comentario/1023006/) 
 
-	
 	int main()  
 	{  
 	char nombre[50];  
@@ -34915,22 +33844,19 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	}
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [1022290](https://platzi.com/comentario/1022290/) 
 
-	
 	Reto  
 	![Reto1.png](https://static.platzi.com/media/user_upload/Reto1-bb3664e3-b6fb-48ad-9ef6-1fc5980d6c5a.jpg)
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1017319](https://platzi.com/comentario/1017319/) 
 
-	
 	Muy divertido este reto.
 	
 	![caracteresInvertidos.png](https://static.platzi.com/media/user_upload/caracteresInvertidos-c3ed7a07-d7d9-43f0-ac53-0d563e8ad384.jpg)
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1014361](https://platzi.com/comentario/1014361/) 
 
-	
 	Reto de Clase # 18
 	``` 
 	    #include <stdio.h>
@@ -34959,9 +33885,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [1009931](https://platzi.com/comentario/1009931/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -34990,9 +33915,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	}
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1008885](https://platzi.com/comentario/1008885/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include <string.h>
@@ -35016,12 +33940,11 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	}
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [1007537](https://platzi.com/comentario/1007537/) 
 
-	
 	Reto Cumplido ![Captura de pantalla de 2020-02-26 12-39-29.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-26%2012-39-29-db618c71-f86b-460f-bdc3-af557e7eec31.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [1006309](https://platzi.com/comentario/1006309/) 
 
 	```
 	    #include<stdio.h>
@@ -35049,7 +33972,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1004239](https://platzi.com/comentario/1004239/) 
 
 	```
 	    #include <stdio.h>
@@ -35079,9 +34002,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [999748](https://platzi.com/comentario/999748/) 
 
-	
 	éste código intercambia el orden de la cadena dentro de la misma cadena (el primer elemento se vuelve el ultimo y así sucesivamente)
 	``` 
 	    #include <stdio.h>
@@ -35115,9 +34037,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [996271](https://platzi.com/comentario/996271/) 
 
-	
 	Reto  
 	Estoy intentando finalizar el reto pero me sale ese error: Implicit conversion loses integer precision: ‘unsigned long’ to ‘int’
 	
@@ -35147,9 +34068,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	
 	PS: YA AGREGUE TODAS LAS LIBRERIAS
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [987961](https://platzi.com/comentario/987961/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -35176,9 +34096,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **crumble** (1)
+* **crumble** (1) [982341](https://platzi.com/comentario/982341/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -35205,9 +34124,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [981158](https://platzi.com/comentario/981158/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -35238,9 +34156,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [978317](https://platzi.com/comentario/978317/) 
 
-	
 	Reto:
 	``` 
 	    int main(){
@@ -35265,7 +34182,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [976965](https://platzi.com/comentario/976965/) 
 
 	```
 	    #include <stdio.h>
@@ -35298,7 +34215,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [973048](https://platzi.com/comentario/973048/) 
 
 	```
 	    #include <stdio.h>
@@ -35326,17 +34243,16 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![Cadena de Caracteres3.png](https://static.platzi.com/media/user_upload/Cadena%20de%20Caracteres3-11c93263-6c15-4de3-9609-dc77645d2f7d.jpg)
-
-* **Merlyn Rodriguez** (1)
-
+* **zayrasaavedrauribe** (1) [965996](https://platzi.com/comentario/965996/) 
 	
+	![Cadena de Caracteres3.png](https://static.platzi.com/media/user_upload/Cadena%20de%20Caracteres3-11c93263-6c15-4de3-9609-dc77645d2f7d.jpg)
+
+* **Merlyn Rodriguez** (1) [945827](https://platzi.com/comentario/945827/) 
+
 	dos puntos por terminar de ver el video :v
 
-* **nerek** (1)
+* **nerek** (1) [942052](https://platzi.com/comentario/942052/) 
 
-	
 	 **Done!**
 	``` 
 	    #include<stdio.h>
@@ -35360,9 +34276,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [938493](https://platzi.com/comentario/938493/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -35390,7 +34305,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [934807](https://platzi.com/comentario/934807/) 
 
 	```
 	    #include <stdio.h>
@@ -35418,7 +34333,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [934050](https://platzi.com/comentario/934050/) 
 
 	```
 	    #include<stdio.h>
@@ -35446,9 +34361,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [929051](https://platzi.com/comentario/929051/) 
 
-	
 	**Reto cumplido** 😄
 	``` 
 	    #include<stdio.h>
@@ -35497,9 +34411,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Rodolfo  marquez** (1)
+* **Rodolfo  marquez** (1) [927561](https://platzi.com/comentario/927561/) 
 
-	
 	Aqui con un poco de manejo de algoritmos.
 	``` 
 	    int main ()
@@ -35528,9 +34441,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [926155](https://platzi.com/comentario/926155/) 
 
-	
 	**Reto 2 completado.** Al finl el programa al que se accede es el del reto 1.
 	``` 
 	    #include <stdio.h>
@@ -35611,7 +34523,7 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Valakyr** (1)
+* **Valakyr** (1) [901730](https://platzi.com/comentario/901730/) 
 
 	```
 	    #include <stdio.h>
@@ -35642,9 +34554,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **alfonsotechpie** (1)
+* **alfonsotechpie** (1) [900561](https://platzi.com/comentario/900561/) 
 
-	
 	Aquí el reto invertido:
 	``` 
 	    #include <stdio.h>
@@ -35677,9 +34588,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [895038](https://platzi.com/comentario/895038/) 
 
-	
 	Reto 2: Lo trate de simplificar, cualquier cosa a mejorar comentenla porfa.
 	``` 
 	    #include<stdio.h>
@@ -35724,9 +34634,8 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [894468](https://platzi.com/comentario/894468/) 
 
-	
 	reto:
 	``` 
 	    #include<stdio.h>
@@ -35756,16 +34665,15 @@ Cuando el arreglo de caracteres termina con el carácter nulo se llama cadena de
 	    
 	```
 
-* **ramiro angarita** (1)
+* **ramiro angarita** (1) [892166](https://platzi.com/comentario/892166/) 
 
-	
 	Hola tengo una duda , si nameC tiene 50 espacios  
 	porque puedo agregar mas de 50?
 
-* **jimezam** (1)
+* **jimezam** (1) [888197](https://platzi.com/comentario/888197/) 
 El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo donde finalmente se almacenará la información, facilitando desbordamientos de buffer. Se sugiere utilizar variantes como fgets.
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [888196](https://platzi.com/comentario/888196/) 
 
 	```
 	    #include<stdio.h>
@@ -35793,9 +34701,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **marttcode** (1)
+* **marttcode** (1) [881032](https://platzi.com/comentario/881032/) 
 
-	
 	Si tienes problemas con el desarrollo del programa en alguna distribución de Linux, es especifico la rama Debian, yo lo solucione así.
 	``` 
 	    #include<stdio.h>
@@ -35834,9 +34741,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [877490](https://platzi.com/comentario/877490/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -35886,7 +34792,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	
 	}
 
-* **Luis Xavier Perez Miramontes** (1)
+* **Luis Xavier Perez Miramontes** (1) [873656](https://platzi.com/comentario/873656/) 
 
 	```
 	    #include <stdio.h>
@@ -35920,7 +34826,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **emrs** (1)
+* **emrs** (1) [858315](https://platzi.com/comentario/858315/) 
 
 	```
 	    char nameC[50];
@@ -35940,7 +34846,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [853026](https://platzi.com/comentario/853026/) 
 
 	```
 	      printf("Cadena de caracteres!\n");
@@ -35964,15 +34870,16 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **laj-lukum** (1)
-![Capture20.PNG](https://static.platzi.com/media/user_upload/Capture20-09339737-1c31-4f4c-9a4b-1709032ff7b2.jpg)
-
-* **DUFP** (1)
-![reto17.PNG](https://static.platzi.com/media/user_upload/reto17-84a685e9-b104-4b92-9ab5-66e06559cd67.jpg)
-
-* **Manuel Rivera** (1)
-
+* **laj-lukum** (1) [848045](https://platzi.com/comentario/848045/) 
 	
+	![Capture20.PNG](https://static.platzi.com/media/user_upload/Capture20-09339737-1c31-4f4c-9a4b-1709032ff7b2.jpg)
+
+* **DUFP** (1) [845851](https://platzi.com/comentario/845851/) 
+	
+	![reto17.PNG](https://static.platzi.com/media/user_upload/reto17-84a685e9-b104-4b92-9ab5-66e06559cd67.jpg)
+
+* **Manuel Rivera** (1) [842098](https://platzi.com/comentario/842098/) 
+
 	Realice el reto con js, utilizando losmétodos split (), reverse (), join()
 	``` 
 	    const usuario = prompt(`¿Cuál es tu nombre`)
@@ -35984,16 +34891,14 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834639](https://platzi.com/comentario/834639/) 
 
-	
 	Dime tu nombre: Carlos Gutierrez  
 	Tu nombre es: Carlos Gutierrez  
 	Tu nombre al reves es: zerreituG solraC
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834638](https://platzi.com/comentario/834638/) 
 
-	
 	#include <stdio.h>
 	
 	int main()  
@@ -36022,12 +34927,11 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	
 	}
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [834615](https://platzi.com/comentario/834615/) 
 
-	
 	Ya se respondio mi pregunta de hace 2 videos!
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [828535](https://platzi.com/comentario/828535/) 
 
 	```
 	    include <stdio.h>
@@ -36052,9 +34956,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Nicolás Mayorga Vargas** (1)
+* **Nicolás Mayorga Vargas** (1) [825946](https://platzi.com/comentario/825946/) 
 
-	
 	int main()  
 	{
 	``` 
@@ -36081,9 +34984,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [821628](https://platzi.com/comentario/821628/) 
 
-	
 	Apuntes de clase  
 	En lenguajes de programacion como C++ o C# un **string** es una cadena de caracteres.  
 	Un string en esencia es un **arreglo de caracteres**.  
@@ -36091,9 +34993,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	_  
 	**gets** en C, es la funcion que nos permite leer una cadena de caracteres incluyendo espacios.
 
-* **freddymm** (1)
+* **freddymm** (1) [821378](https://platzi.com/comentario/821378/) 
 
-	
 	 **Aquí está el código listo**
 	``` 
 	    #include<stdio.h>
@@ -36122,16 +35023,15 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [821052](https://platzi.com/comentario/821052/) 
 
-	
 	Cuando estamos escribiendo un programa para sistemas con recursos limitados, es importante limitar los recursos que utiliza nuestro programa a lo necesario para funcionar, para esto es importante tener en cuenta que si creamos un array para almacenar un string siempre debemos ponerle un espacio adicional del tamaño del mensaje que queremos guardar ya que las cadenas se guardan con un carácter nulo que no se ve al final por ejemplo:
 	``` 
 	    chararray[5] = {"hola"};```
 	    
 	```
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [816756](https://platzi.com/comentario/816756/) 
 
 	```
 	    #include <stdio.h>
@@ -36165,7 +35065,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Carlos Alberto Villalobos Toro** (1)
+* **Carlos Alberto Villalobos Toro** (1) [816495](https://platzi.com/comentario/816495/) 
 
 	```
 	    int main()
@@ -36188,7 +35088,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **raguevara** (1)
+* **raguevara** (1) [815936](https://platzi.com/comentario/815936/) 
 
 	```
 	    int main()
@@ -36221,9 +35121,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    ![clase18 tarea1.png](https://static.platzi.com/media/user_upload/clase18%20tarea1-9a474867-f037-4d95-96c6-1c97ae4b2810.jpg)
 	```
 
-* **horaciocantugarcia** (1)
+* **horaciocantugarcia** (1) [806730](https://platzi.com/comentario/806730/) 
 
-	
 	int main()  
 	{  
 	printf(“Cadena de caracteres Reto Nombre \n”);
@@ -36256,9 +35155,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	
 	}
 
-* **José Manuel Piña Rodríguez** (1)
+* **José Manuel Piña Rodríguez** (1) [798844](https://platzi.com/comentario/798844/) 
 
-	
 	RETO 15
 	``` 
 	    #include<stdio.h>
@@ -36284,7 +35182,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Nelson Alayón** (1)
+* **Nelson Alayón** (1) [797126](https://platzi.com/comentario/797126/) 
 
 	```
 	    int main()
@@ -36317,15 +35215,13 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **linkpj** (1)
+* **linkpj** (1) [796746](https://platzi.com/comentario/796746/) 
 
-	
 	**Reto 17**  
 	![Reto17.PNG](https://static.platzi.com/media/user_upload/Reto17-87d30446-d160-476a-b13f-a1075b2fe305.jpg)
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [792408](https://platzi.com/comentario/792408/) 
 
-	
 	int main()  
 	{  
 	printf(“string!\n”);
@@ -36353,7 +35249,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	
 	}
 
-* **albertodanielcastillomendoza** (1)
+* **albertodanielcastillomendoza** (1) [792105](https://platzi.com/comentario/792105/) 
 
 	```
 	    #include <stdio.h>
@@ -36383,7 +35279,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [788150](https://platzi.com/comentario/788150/) 
 
 	```
 	    #include <stdio.h>
@@ -36410,9 +35306,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Wilson Perez** (1)
+* **Wilson Perez** (1) [770861](https://platzi.com/comentario/770861/) 
 
-	
 	El código del reto de este video
 	``` 
 	    <
@@ -36446,9 +35341,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [768751](https://platzi.com/comentario/768751/) 
 
-	
 	Mi reto  
 	**Código**
 	``` 
@@ -36507,13 +35401,12 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [759563](https://platzi.com/comentario/759563/) 
 
-	
 	gets()  
 	puts()
 
-* **luismigeel** (1)
+* **luismigeel** (1) [753949](https://platzi.com/comentario/753949/) 
 
 	```
 	    #include <stdio.h>
@@ -36541,7 +35434,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [747515](https://platzi.com/comentario/747515/) 
 
 	```
 	    #include <stdio.h>
@@ -36566,7 +35459,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [741037](https://platzi.com/comentario/741037/) 
 
 	```
 	    #include<stdio.h>
@@ -36595,7 +35488,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **DavidArmandoVelazquez** (1)
+* **DavidArmandoVelazquez** (1) [728283](https://platzi.com/comentario/728283/) 
 
 	```
 	    #include <stdio.h>
@@ -36628,9 +35521,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **mvr92** (1)
+* **mvr92** (1) [723281](https://platzi.com/comentario/723281/) 
 
-	
 	Reto:  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -36666,10 +35558,11 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	
 	}
 
-* **Oriol Camí** (1)
-![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-8b55db63-8864-4e0e-be97-cb35fad8c2cb.jpg)
+* **Oriol Camí** (1) [719410](https://platzi.com/comentario/719410/) 
+	
+	![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-8b55db63-8864-4e0e-be97-cb35fad8c2cb.jpg)
 
-* **joshBarrios22** (1)
+* **joshBarrios22** (1) [715860](https://platzi.com/comentario/715860/) 
 
 	```
 	    #include <stdio.h>
@@ -36696,9 +35589,8 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Iván José Campo De Martino** (1)
+* **Iván José Campo De Martino** (1) [713068](https://platzi.com/comentario/713068/) 
 
-	
 	**reto**
 	``` 
 	    #include <stdio.h>
@@ -36736,7 +35628,7 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **ale_lossi_** (1)
+* **ale_lossi_** (1) [711499](https://platzi.com/comentario/711499/) 
 
 	```
 	    #include <stdio.h>
@@ -36771,32 +35663,31 @@ El uso de gets es inseguro ya que no tene en cuenta el tamaño real del arreglo 
 	    
 	```
 
-* **Daniel Alejandro Ramirez** (1)
-![Screenshot from 2019-08-20 13-02-05.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-08-20%2013-02-05-6d18a8f2-009f-49ca-844a-93f28b080c00.jpg)
+* **Daniel Alejandro Ramirez** (1) [697813](https://platzi.com/comentario/697813/) 
+	
+	![Screenshot from 2019-08-20 13-02-05.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-08-20%2013-02-05-6d18a8f2-009f-49ca-844a-93f28b080c00.jpg)
 
-* **Edison Renato Valdez Vega** (1)
+* **Edison Renato Valdez Vega** (1) [86674](https://platzi.com/comentario/1101099/) 
 tengo el siguiente error, warning: implicit declaration of function ‘gets’; did you mean ‘fgets’? [-Wimplicit-function-declaration]
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [79435](https://platzi.com/comentario/940231/) 
 Al intentar compilar el código en la terminal zsh, aparecen los siguientes mensajes de error: main.c: In function ‘main’: main.c:10:5: wa...
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [76336](https://platzi.com/comentario/885354/) 
 ¿Por qué a algunos les sirve sin incluir <string.h> y a otros no?
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [72733](https://platzi.com/comentario/821633/) 
 ¿Qué es un carácter nulo?
 
-	* **Bikatti** (3)
+	* **Bikatti** [72733] (3)
 
-		
 		Que no tiene nada, es nulo.
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [57995](https://platzi.com/comentario/571658/) 
 La funcion puts() solo funciona con variables que consiguen input de gets()?
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [57995] (1)
 
-		
 		Con puts puedes imprimir cualquier cadena, agregando un salto de línea `"\n"` al final.
 		``` 
 		    puts("Esta es un ejemplo con puts");
@@ -36805,7 +35696,7 @@ La funcion puts() solo funciona con variables que consiguen input de gets()?
 		
 		Aquí tienes otro [ejemplo](https://www.tutorialspoint.com/c_standard_library/c_function_puts.htm).
 
-## 0190. Recapitulación Control de Flujo
+## 0190. Recapitulación Control de Flujo [16492](https://platzi.com/clases/1450-programacion-estructurada/16492-recapitulacion-control-de-flujo/)
 
 ### Descripción:
 
@@ -36826,20 +35717,20 @@ Al utilizar condiciones, para ayudarnos a evaluar las operaciones nosotros podem
 
 Los operadores relacionales son:
 
-  * (<) Menor que
-  * (- <)= Menor o igual que
-  * (>) Mayor que
-  * (>)= Mayor o igual que
-  * (==) Igual (Utilizado como comparación y NO como asignación)
-  * (!=) Diferente/No igual que
+* (<) Menor que
+* (- <)= Menor o igual que
+* (>) Mayor que
+* (>)= Mayor o igual que
+* (==) Igual (Utilizado como comparación y NO como asignación)
+* (!=) Diferente/No igual que
 
 
 
 Los operadores lógicos son:
 
-  * && Y/And  
+* && Y/And  
 Teniendo en cuenta más de una condición, el resultado será verdadero si ambas condiciones son verdaderas.
-  * || O/Or  
+* || O/Or  
 Teniendo en cuenta más de una condición, el resultado será verdadero si alguna o ambas condiciones son verdaderas, solo una necesita cumplirse.  
 ! No/Not  
 El resultado es inverso al operando.
@@ -36917,10 +35808,10 @@ Para inicializar el arreglo, agregamos de igual manera entre corchetes los valor
 
 Una par de estructuras comúnmente utilizadas conjuntamente son los arreglos e iteradores. ¿Por qué utilizamos estas estructuras de manera conjunta?:
 
-  * Para manipular todos los elementos de un arreglo podemos utilizar una estructura repetitiva. La más usual es el ciclo for.
-  * Cuando desea imprimir el contenido del arreglo.
-  * Cuando se suman todos los elementos.
-  * También cuando se va a inicializar.
+* Para manipular todos los elementos de un arreglo podemos utilizar una estructura repetitiva. La más usual es el ciclo for.
+* Cuando desea imprimir el contenido del arreglo.
+* Cuando se suman todos los elementos.
+* También cuando se va a inicializar.
 
 
 
@@ -36934,9 +35825,8 @@ Espero que estas recapitulaciones te sean útiles para repasar conceptos y revis
 
 ### Comentarios:
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1065176](https://platzi.com/comentario/1065176/) 
 
-	
 	RECAPITULACION DE CLASES ANTERIORES: CONTROL DE FLUJO  
 	If: son instrucciones que evalúan resultados booleanos, quiere decir que evalua resultados como verdarero o falso. Dependiendo del resultado podemos usar esta condición para controlar el flujo del programa y dar el resultado que queremos.  
 	Operadores relacionales y lógicos:  
@@ -36982,298 +35872,241 @@ Espero que estas recapitulaciones te sean útiles para repasar conceptos y revis
 	Cuando se suman todos lo elementos de un arreglo  
 	Un for anidado es el siguiente
 
-* **rigiba** (2)
+* **rigiba** (2) [1043457](https://platzi.com/comentario/1043457/) 
 
-	
 	este resumen es muy explicativo para entender estos temas, muchas gracias
 
-* **jackelinejaimesortiz1** (2)
+* **jackelinejaimesortiz1** (2) [952473](https://platzi.com/comentario/952473/) 
 
-	
 	Muy buen resumen de las lecciones anteriores.
 
-* **Jhon Alexander Romero Gonzaga** (2)
+* **Jhon Alexander Romero Gonzaga** (2) [864787](https://platzi.com/comentario/864787/) 
 
-	
 	Excelente uso de las diapositivas
 
-* **Emiliano Bisio** (2)
+* **Emiliano Bisio** (2) [476997](https://platzi.com/comentario/476997/) 
 
-	
 	Buen resumen para repasar los conceptos vistos hasta ahora y despejar alguna duda. 👏👏
 
-* **Nikodu** (1)
+* **Nikodu** (1) [1117768](https://platzi.com/comentario/1117768/) 
 
-	
 	Esto estuvo genial!!
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [1072967](https://platzi.com/comentario/1072967/) 
 
-	
 	Excelente recapitulación.
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1037017](https://platzi.com/comentario/1037017/) 
 
-	
 	Nice!
 
-* **Edgar Mancilla Sánchez** (1)
+* **Edgar Mancilla Sánchez** (1) [1035710](https://platzi.com/comentario/1035710/) 
 
-	
 	Excelente
 
-* **GadielWisar** (1)
+* **GadielWisar** (1) [1031666](https://platzi.com/comentario/1031666/) 
 
-	
 	Excelente explicación
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1027753](https://platzi.com/comentario/1027753/) 
 
-	
 	Excelente explicación! es un tema que hay que tene bastante claro para desarrollar y resolver cualquier problema de programación.
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1026281](https://platzi.com/comentario/1026281/) 
 
-	
 	Muy buen resumen, sirvió para aclarar cositas que se me había pasado o no había prestado la suficiente atención 😃
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1025040](https://platzi.com/comentario/1025040/) 
 
-	
 	Las sagradas escrituras!!! Gracias!
 
-* **angie Cortes Montaño** (1)
+* **angie Cortes Montaño** (1) [1023798](https://platzi.com/comentario/1023798/) 
 
-	
 	excelente material
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1023792](https://platzi.com/comentario/1023792/) 
 
-	
 	Gracias!
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1021778](https://platzi.com/comentario/1021778/) 
 
-	
 	Muchas Gracias
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [1018080](https://platzi.com/comentario/1018080/) 
 
-	
 	Gracias por el review
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1017490](https://platzi.com/comentario/1017490/) 
 
-	
 	Me encanto el resumen, recordé conceptos fundamentales. Gracias!
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1006791](https://platzi.com/comentario/1006791/) 
 
-	
 	algunas imágenes no se podían ver, pero gran resumen
 
-* **Cegador** (1)
+* **Cegador** (1) [1004022](https://platzi.com/comentario/1004022/) 
 
-	
 	Gran resumen.
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [997495](https://platzi.com/comentario/997495/) 
 
-	
 	a seguir 😃
 
-* **andresargote** (1)
+* **andresargote** (1) [996440](https://platzi.com/comentario/996440/) 
 
-	
 	😃😃
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [995088](https://platzi.com/comentario/995088/) 
 
-	
 	😃
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [987966](https://platzi.com/comentario/987966/) 
 
-	
 	Muy buen resuman, gracias profesora!
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [981160](https://platzi.com/comentario/981160/) 
 
-	
 	Resumen de la sección 3. Pasamos a ¡funciones!
 
-* **Jaskier28** (1)
+* **Jaskier28** (1) [976960](https://platzi.com/comentario/976960/) 
 
-	
 	que gran resumen unido a las practica que hemos echo, queda muy claro todo
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [973051](https://platzi.com/comentario/973051/) 
 
-	
 	buenos apuntes.
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945837](https://platzi.com/comentario/945837/) 
 
-	
 	dos puntos por terminar de leer :v
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [927749](https://platzi.com/comentario/927749/) 
 
-	
 	Excelente recap!
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [877495](https://platzi.com/comentario/877495/) 
 
-	
 	genial
 
-* **Patricio Cabrera** (1)
+* **Patricio Cabrera** (1) [869053](https://platzi.com/comentario/869053/) 
 
-	
 	Perfecto.
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [848086](https://platzi.com/comentario/848086/) 
 
-	
 	Excelente
 
-* **jguerra2987** (1)
+* **jguerra2987** (1) [823877](https://platzi.com/comentario/823877/) 
 
-	
 	Muy buen material!
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [823110](https://platzi.com/comentario/823110/) 
 
-	
 	Gran resumen!!
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [816765](https://platzi.com/comentario/816765/) 
 
-	
 	Excelente curso  
 	Estoy ansioso por ver lo que se viene
 
-* **franciscovelsa** (1)
+* **franciscovelsa** (1) [774953](https://platzi.com/comentario/774953/) 
 
-	
 	Buen Material!
 
-* **snowy** (1)
+* **snowy** (1) [773507](https://platzi.com/comentario/773507/) 
 
-	
 	muy buen resumen de todo el tema de control de flujo
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [768752](https://platzi.com/comentario/768752/) 
 
-	
 	Excelente material!
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [759564](https://platzi.com/comentario/759564/) 
 
-	
 	Buena la recapitulación
 
-* **Oriol Camí** (1)
+* **Oriol Camí** (1) [719440](https://platzi.com/comentario/719440/) 
 
-	
 	Explica muy bien todo claro y organizado!
 
-* **Iván José Campo De Martino** (1)
+* **Iván José Campo De Martino** (1) [712995](https://platzi.com/comentario/712995/) 
 
-	
 	excelente resumen
 
-* **José Padrón** (1)
+* **José Padrón** (1) [699742](https://platzi.com/comentario/699742/) 
 
-	
 	Muy buen resumen
 
-* **Daniel Alejandro Ramirez** (1)
+* **Daniel Alejandro Ramirez** (1) [699303](https://platzi.com/comentario/699303/) 
 
-	
 	Muy buen contenido, excelente recapitulacion!
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [692309](https://platzi.com/comentario/692309/) 
 
-	
 	Muchas gracias n.n ha sido de gran ayuda y aprendizaje ha sido magnifico el viaje hasta aqui…
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [690152](https://platzi.com/comentario/690152/) 
 
-	
 	Muchas gracias por el resumen!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [679934](https://platzi.com/comentario/679934/) 
 
-	
 	Muy buen resumen. Seguimos!!!
 
-* **Gerardo Jesús Mota Olguín** (1)
+* **Gerardo Jesús Mota Olguín** (1) [667071](https://platzi.com/comentario/667071/) 
 
-	
 	Gracias!!!, adelante a acabar el curso!!!
 
-* **Carlos Nicolas Gonzalez Cabrera** (1)
+* **Carlos Nicolas Gonzalez Cabrera** (1) [639871](https://platzi.com/comentario/639871/) 
 Me encantan estas clase! Todo muy bien explicado y concreto por partes. Como para iniciarte en este mundo está genial!
 
-* **samscode** (1)
+* **samscode** (1) [626613](https://platzi.com/comentario/626613/) 
 
-	
 	Gracias por este contenido facil de leer y entender.
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [570209](https://platzi.com/comentario/570209/) 
 
-	
 	Es muy importante repasar todo el contenido al final de cada sección
 
-* **Rabi Leonel Leon Chan** (1)
+* **Rabi Leonel Leon Chan** (1) [561581](https://platzi.com/comentario/561581/) 
 
-	
 	Excelente explicacion
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [536576](https://platzi.com/comentario/536576/) 
 
-	
 	Buena explicación para recordar y repasar.
 
-* **Octavio Parra Tovar** (1)
+* **Octavio Parra Tovar** (1) [536201](https://platzi.com/comentario/536201/) 
 
-	
 	Me has enseñado las herramientas que utilizare mas adelante para desarrollo ,muchas gracias
 
-* **irwinmax** (1)
+* **irwinmax** (1) [515358](https://platzi.com/comentario/515358/) 
 
-	
 	Gracias por el resumen?
 
-* **JesusGalan** (1)
+* **JesusGalan** (1) [505372](https://platzi.com/comentario/505372/) 
 
-	
 	Es muy bueno tener estos resúmenes, por que hay conceptos que no quedan claros a la primera.
 
-* **Mario Alberto Rodriguez Roldan** (1)
+* **Mario Alberto Rodriguez Roldan** (1) [505344](https://platzi.com/comentario/505344/) 
 
-	
 	aprendiendo mejor gracias por los mejores conceptos 😃
 
-* **Falconunknown** (1)
+* **Falconunknown** (1) [492501](https://platzi.com/comentario/492501/) 
 
-	
 	Uno de los mejores resúmenes que he visto
 
-* **Mauricio Hernández** (1)
+* **Mauricio Hernández** (1) [479836](https://platzi.com/comentario/479836/) 
 
-	
 	Solía tener problema con esto, pero me ha quedo más claro ahora. Buen resumen 😄
 
-* **Walker Fernando Manrique Chalco** (1)
+* **Walker Fernando Manrique Chalco** (1) [466568](https://platzi.com/comentario/466568/) 
 
-	
 	Muy buena explicación, todo concreto y exacto 😃
 
-# Funciones
+# Funciones [3258]
 
-## 0200. Funciones Divide y vencerás
+## 0200. Funciones Divide y vencerás [16480](https://platzi.com/clases/1450-programacion-estructurada/16480-funciones-divide-y-venceras7483/)
 
 ### Descripción:
 
@@ -37282,16 +36115,16 @@ Las **funciones** son bloques de código que realizan alguna operación. Pueden 
 
 Se pueden utilizar para:
 
-  * Encapsulamiento
-  * Reusabilidad de código
-  * Separar tareas
-  * Cambios a futuro
+* Encapsulamiento
+* Reusabilidad de código
+* Separar tareas
+* Cambios a futuro
 
 
 
 ### Comentarios:
 
-* **Edgar Mancilla Sánchez** (2)
+* **Edgar Mancilla Sánchez** (2) [1047711](https://platzi.com/comentario/1047711/) 
 
 	```
 	    #include<stdio.h>
@@ -37354,7 +36187,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Edgar Mancilla Sánchez** (2)
+* **Edgar Mancilla Sánchez** (2) [1043213](https://platzi.com/comentario/1043213/) 
 
 	```
 	    #include<stdio.h>
@@ -37390,9 +36223,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Mayo Prieto** (2)
+* **Mayo Prieto** (2) [1019463](https://platzi.com/comentario/1019463/) 
 
-	
 	Reto 1: Me costo unpoco pero lo entendi.
 	``` 
 	    int calcular(int base, int exponente)
@@ -37422,9 +36254,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **8ajorgel** (2)
+* **8ajorgel** (2) [978077](https://platzi.com/comentario/978077/) 
 
-	
 	No pude hacer el prmier reto 😦 ayuda
 	``` 
 	    #include<stdio.h>
@@ -37455,9 +36286,8 @@ Se pueden utilizar para:
 	    
 	```
 
-	* **andresargote** (2)
+	* **andresargote** [978077] (2)
 
-		
 		Creo que tu error esta en que no estas inprimiendo pow(lo que te calcula la potencia) estas creando una variable llamada resultado y lo que estas haciendo en meterle la funciona, en vez de hacer eso llama la funcion cuando la imprimas.
 		
 		Te muestro mi codigo que es muy parecido al tuyo.
@@ -37497,7 +36327,7 @@ Se pueden utilizar para:
 		
 		Espero que te sirva
 
-* **Sergio Andrés Ruiz** (1)
+* **Sergio Andrés Ruiz** (1) [1116715](https://platzi.com/comentario/1116715/) 
 
 	```
 	    #include <stdio.h>
@@ -37527,9 +36357,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1112035](https://platzi.com/comentario/1112035/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -37562,9 +36391,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1111955](https://platzi.com/comentario/1111955/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -37592,21 +36420,20 @@ Se pueden utilizar para:
 	
 	}
 
-* **ChuyVillalobos** (1)
-![eXPONENTES.png](https://static.platzi.com/media/user_upload/eXPONENTES-92e90a78-213a-47b1-98b1-edd9ccc4e3de.jpg)
-
-* **Luis angel muñoz villafuerte** (1)
-
+* **ChuyVillalobos** (1) [1107874](https://platzi.com/comentario/1107874/) 
 	
+	![eXPONENTES.png](https://static.platzi.com/media/user_upload/eXPONENTES-92e90a78-213a-47b1-98b1-edd9ccc4e3de.jpg)
+
+* **Luis angel muñoz villafuerte** (1) [1104904](https://platzi.com/comentario/1104904/) 
+
 	![](![reto 1 dyv.jpg](https://static.platzi.com/media/user_upload/reto%201%20dyv-d5ca3177-4641-46e1-968d-e0da9e1443c6.jpg)
 	
-	  * ![](![reto 2.jpg](https://static.platzi.com/media/user_upload/reto%202-56281bc4-76a3-43a8-9cec-52e1227df45c.jpg)
+	* ![](![reto 2.jpg](https://static.platzi.com/media/user_upload/reto%202-56281bc4-76a3-43a8-9cec-52e1227df45c.jpg)
 	
 	
 
-* **Wilson Montenegro** (1)
+* **Wilson Montenegro** (1) [1102628](https://platzi.com/comentario/1102628/) 
 
-	
 	Estoy siguiendo el curso con swfit.
 	``` 
 	    //Reto 1
@@ -37641,7 +36468,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1100707](https://platzi.com/comentario/1100707/) 
 
 	```
 	    #include<stdio.h>
@@ -37691,20 +36518,18 @@ Se pueden utilizar para:
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1100688](https://platzi.com/comentario/1100688/) 
 
-	
 	Reto conversor de moneda:
 	
 	(![RETO CONVERSOR DE MONEDA CON FUNCIONES.png](https://static.platzi.com/media/user_upload/RETO%20CONVERSOR%20DE%20MONEDA%20CON%20FUNCIONES-bdfe63d9-3a5b-433e-9948-eb2aa2afdd38.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1100543](https://platzi.com/comentario/1100543/) 
 
-	
 	 **Reto 1:**  
 	![](![RETO POTENCIA DE UN NUMERO CON FUNCIONES.png](https://static.platzi.com/media/user_upload/RETO%20POTENCIA%20DE%20UN%20NUMERO%20CON%20FUNCIONES-9afb83b1-760a-4491-81b1-48ffc5e7cf2c.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1100530](https://platzi.com/comentario/1100530/) 
 
 	```
 	    #include<stdio.h>
@@ -37735,7 +36560,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Julieta Calderon** (1)
+* **Julieta Calderon** (1) [1090307](https://platzi.com/comentario/1090307/) 
 
 	```
 	    <code>
@@ -37769,20 +36594,21 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto18.PNG](https://static.platzi.com/media/user_upload/Reto18-1a1bcff3-d8cb-45c9-8d12-d6fb7224c7ce.jpg)
-
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto17.PNG](https://static.platzi.com/media/user_upload/Reto17-168f35d6-b242-4ac3-a3f6-88fdd38dee6c.jpg)
-
-* **JobForero** (1)
-
+* **Sergio Alejandro Alvarado Parada** (1) [1084516](https://platzi.com/comentario/1084516/) 
 	
+	![Reto18.PNG](https://static.platzi.com/media/user_upload/Reto18-1a1bcff3-d8cb-45c9-8d12-d6fb7224c7ce.jpg)
+
+* **Sergio Alejandro Alvarado Parada** (1) [1084302](https://platzi.com/comentario/1084302/) 
+	
+	![Reto17.PNG](https://static.platzi.com/media/user_upload/Reto17-168f35d6-b242-4ac3-a3f6-88fdd38dee6c.jpg)
+
+* **JobForero** (1) [1080110](https://platzi.com/comentario/1080110/) 
+
 	Saludos realice las convenciones de dolares a euro y de euro a dolares "La convenciones están en base a la fecha del 30/03/2020 ".
 	
 	![Screenshot_1_Moneda.png](https://static.platzi.com/media/user_upload/Screenshot_1_Moneda-c167364f-1b25-4330-a9a3-544eff2613b0.jpg)
 
-* **kalegria** (1)
+* **kalegria** (1) [1080076](https://platzi.com/comentario/1080076/) 
 
 	```
 	    loat elevar(int base, int expo)
@@ -37804,7 +36630,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **kalegria** (1)
+* **kalegria** (1) [1080059](https://platzi.com/comentario/1080059/) 
 
 	```
 	    floatdolarPeso(float dolar)
@@ -37834,10 +36660,11 @@ Se pueden utilizar para:
 	    
 	```
 
-* **JobForero** (1)
-![Reto_exponencial.png](https://static.platzi.com/media/user_upload/Reto_exponencial-bf2b429c-ccc5-4664-aa9f-9ad66ece4f29.jpg)
+* **JobForero** (1) [1079846](https://platzi.com/comentario/1079846/) 
+	
+	![Reto_exponencial.png](https://static.platzi.com/media/user_upload/Reto_exponencial-bf2b429c-ccc5-4664-aa9f-9ad66ece4f29.jpg)
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1066447](https://platzi.com/comentario/1066447/) 
 
 	```
 	    //Primer reto
@@ -37910,7 +36737,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Daniel Eishu Oyama Arevalo** (1)
+* **Daniel Eishu Oyama Arevalo** (1) [1066380](https://platzi.com/comentario/1066380/) 
 
 	```
 	    #include<stdio.h>
@@ -37966,16 +36793,19 @@ Se pueden utilizar para:
 	    
 	```
 
-* **paola-diaz361** (1)
-![retofunciones11.PNG](https://static.platzi.com/media/user_upload/retofunciones11-497dfe77-93a7-4576-93a4-3e9a62e8d735.jpg)
+* **paola-diaz361** (1) [1065864](https://platzi.com/comentario/1065864/) 
+	
+	![retofunciones11.PNG](https://static.platzi.com/media/user_upload/retofunciones11-497dfe77-93a7-4576-93a4-3e9a62e8d735.jpg)
 
-* **paola-diaz361** (1)
-![retoDolares.PNG](https://static.platzi.com/media/user_upload/retoDolares-22322de5-87fc-4d37-80e2-b70c0befbfdd.jpg)
+* **paola-diaz361** (1) [1065675](https://platzi.com/comentario/1065675/) 
+	
+	![retoDolares.PNG](https://static.platzi.com/media/user_upload/retoDolares-22322de5-87fc-4d37-80e2-b70c0befbfdd.jpg)
 
-* **paola-diaz361** (1)
-![funciones1.PNG](https://static.platzi.com/media/user_upload/funciones1-26f3756c-487d-4493-b03d-7f3c4031637e.jpg)
+* **paola-diaz361** (1) [1065291](https://platzi.com/comentario/1065291/) 
+	
+	![funciones1.PNG](https://static.platzi.com/media/user_upload/funciones1-26f3756c-487d-4493-b03d-7f3c4031637e.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1063013](https://platzi.com/comentario/1063013/) 
 
 	```
 	    floatDolaresPesos(float tipo_cambio, float moneda){
@@ -38019,7 +36849,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **hectormr** (1)
+* **hectormr** (1) [1062914](https://platzi.com/comentario/1062914/) 
 
 	```
 	    int Potencia(int base, int exponente){
@@ -38048,7 +36878,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1062170](https://platzi.com/comentario/1062170/) 
 
 	```
 	    #include <stdio.h>
@@ -38085,7 +36915,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **milena-rojas** (1)
+* **milena-rojas** (1) [1054346](https://platzi.com/comentario/1054346/) 
 
 	```
 	    #include <stdio.h>
@@ -38129,9 +36959,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1043548](https://platzi.com/comentario/1043548/) 
 
-	
 	verision mejorada
 	
 	#include<stdio.h>  
@@ -38184,9 +37013,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1043514](https://platzi.com/comentario/1043514/) 
 
-	
 	#include<stdio.h>  
 	#include<stdlib.h>
 	
@@ -38211,14 +37039,12 @@ Se pueden utilizar para:
 	
 	}
 
-* **rigiba** (1)
+* **rigiba** (1) [1043512](https://platzi.com/comentario/1043512/) 
 
-	
 	arriba mi reto para el cambio de moneda
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1039824](https://platzi.com/comentario/1039824/) 
 
-	
 	Reto 2 culminado, si alguno de los miembros del equipo Platzi tiene alguna observación frente al código que realicé, me encantaría que me lo hicieran saber 😃 …
 	``` 
 	    #include<stdio.h>
@@ -38318,9 +37144,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1039646](https://platzi.com/comentario/1039646/) 
 
-	
 	Casi que no logro dar con el chiste, pero por fin lo logré 😃 me siento muy contento y orgulloso, siempre he estado convencido que por mínimo que sea lo que hagamos debemos estar muy orgullosos de cada uno de nosotros…
 	
 	Código:
@@ -38366,9 +37191,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1039239](https://platzi.com/comentario/1039239/) 
 
-	
 	Modifiqué un poco el ejercicio de la clase, para que el usuario pudiera ingresar los valores que quisiera 😃 espero haya quedado bien jajajaja
 	``` 
 	    #include <stdio.h>
@@ -38412,9 +37236,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **jhavargashe** (1)
+* **jhavargashe** (1) [1038603](https://platzi.com/comentario/1038603/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -38473,9 +37296,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1038134](https://platzi.com/comentario/1038134/) 
 
-	
 	Reto 2 completado.
 	``` 
 	    #include<stdio.h>
@@ -38529,9 +37351,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1038094](https://platzi.com/comentario/1038094/) 
 
-	
 	Reto 1 completado.
 	``` 
 	    #include <stdio.h>
@@ -38566,9 +37387,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **leo_M** (1)
+* **leo_M** (1) [1036659](https://platzi.com/comentario/1036659/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -38614,9 +37434,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **Monica Garcia** (1)
+* **Monica Garcia** (1) [1033643](https://platzi.com/comentario/1033643/) 
 
-	
 	aquí mi solución del reto, en Java:
 	``` 
 	    import java.util.Scanner;
@@ -38651,9 +37470,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1027946](https://platzi.com/comentario/1027946/) 
 
-	
 	Reto:
 	``` 
 	    #include <stdio.h>
@@ -38684,9 +37502,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1026123](https://platzi.com/comentario/1026123/) 
 
-	
 	Reto:2  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -38731,9 +37548,8 @@ Se pueden utilizar para:
 	int uno=dato();  
 	}
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1025672](https://platzi.com/comentario/1025672/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -38786,9 +37602,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1025335](https://platzi.com/comentario/1025335/) 
 
-	
 	Reto 1: (grité de alegría cuando funcionó jaja)
 	``` 
 	    #include <stdio.h>
@@ -38826,9 +37641,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1024734](https://platzi.com/comentario/1024734/) 
 
-	
 	Reto 1
 	
 	int variables(int a, int b)  
@@ -38860,9 +37674,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **Franklin Ramírez** (1)
+* **Franklin Ramírez** (1) [1023284](https://platzi.com/comentario/1023284/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -38911,9 +37724,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1018591](https://platzi.com/comentario/1018591/) 
 
-	
 	Solución al reto 2:
 	``` 
 	    #include<stdio.h>
@@ -38983,9 +37795,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1018586](https://platzi.com/comentario/1018586/) 
 
-	
 	Solución al reto 1
 	``` 
 	    #include <stdio.h>
@@ -39025,9 +37836,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1016380](https://platzi.com/comentario/1016380/) 
 
-	
 	Reto #1
 	``` 
 	    #include<stdio.h>
@@ -39106,9 +37916,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **boristrochez** (1)
+* **boristrochez** (1) [1015126](https://platzi.com/comentario/1015126/) 
 
-	
 	**_Segundo Reto_**
 	
 	#include <stdio.h>  
@@ -39158,9 +37967,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **boristrochez** (1)
+* **boristrochez** (1) [1014989](https://platzi.com/comentario/1014989/) 
 
-	
 	 ** _Primer Reto_**
 	
 	#include <stdio.h>  
@@ -39195,9 +38003,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1014017](https://platzi.com/comentario/1014017/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -39251,9 +38058,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1013925](https://platzi.com/comentario/1013925/) 
 
-	
 	Reto 1:
 	``` 
 	    #include <stdio.h>
@@ -39282,15 +38088,15 @@ Se pueden utilizar para:
 	    
 	```
 
-* **MarianaGb** (1)
-![2.png](https://static.platzi.com/media/user_upload/2-8769d69e-0f86-406c-ae77-53ef320df117.jpg)
-
-* **Carlos52960o** (1)
-
+* **MarianaGb** (1) [1011817](https://platzi.com/comentario/1011817/) 
 	
+	![2.png](https://static.platzi.com/media/user_upload/2-8769d69e-0f86-406c-ae77-53ef320df117.jpg)
+
+* **Carlos52960o** (1) [1008993](https://platzi.com/comentario/1008993/) 
+
 	Reto #1: ![RRFuncion1.PNG](https://static.platzi.com/media/user_upload/RRFuncion1-b2ba4745-09a7-4ad9-b960-a616dbafc55f.jpg)
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1006896](https://platzi.com/comentario/1006896/) 
 
 	```
 	    <code>
@@ -39348,7 +38154,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **16angiec** (1)
+* **16angiec** (1) [1006546](https://platzi.com/comentario/1006546/) 
 
 	```
 	    #include <stdio.h>
@@ -39385,9 +38191,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1005212](https://platzi.com/comentario/1005212/) 
 
-	
 	primer reto
 	``` 
 	    intoperators(float D, float P)
@@ -39439,12 +38244,12 @@ Se pueden utilizar para:
 	    
 	```
 
-* **MarianaGb** (1)
-![potencia.png](https://static.platzi.com/media/user_upload/potencia-d4b7757a-b3ba-4509-bdd4-0f89d3217ca7.jpg)
-
-* **Juan David González Rodríguez** (1)
-
+* **MarianaGb** (1) [1004681](https://platzi.com/comentario/1004681/) 
 	
+	![potencia.png](https://static.platzi.com/media/user_upload/potencia-d4b7757a-b3ba-4509-bdd4-0f89d3217ca7.jpg)
+
+* **Juan David González Rodríguez** (1) [1004376](https://platzi.com/comentario/1004376/) 
+
 	primer reto
 	``` 
 	    int number(int x, int y)
@@ -39475,7 +38280,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1004060](https://platzi.com/comentario/1004060/) 
 
 	```
 	    floatdolares(float dolar)
@@ -39523,9 +38328,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [1002791](https://platzi.com/comentario/1002791/) 
 
-	
 	reto 2
 	``` 
 	    int convToDollars(int peso){
@@ -39575,9 +38379,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [1002771](https://platzi.com/comentario/1002771/) 
 
-	
 	primer reto
 	``` 
 	    int PotenciaNum(int base, int potencia){
@@ -39601,9 +38404,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [999921](https://platzi.com/comentario/999921/) 
 
-	
 	Reto numero dos cumplido
 	``` 
 	    <code>
@@ -39653,9 +38455,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [999886](https://platzi.com/comentario/999886/) 
 
-	
 	Primer reto cumplido
 	``` 
 	    <code>
@@ -39691,9 +38492,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [988008](https://platzi.com/comentario/988008/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -39747,9 +38547,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [987987](https://platzi.com/comentario/987987/) 
 
-	
 	Reto 1:
 	``` 
 	    #include <stdio.h>
@@ -39782,9 +38581,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [987149](https://platzi.com/comentario/987149/) 
 
-	
 	Reto 2
 	``` 
 	    #include<stdio.h>
@@ -39831,9 +38629,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [987103](https://platzi.com/comentario/987103/) 
 
-	
 	Reto 1
 	``` 
 	    #include <stdio.h>
@@ -39870,9 +38667,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [981774](https://platzi.com/comentario/981774/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -39921,9 +38717,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [981771](https://platzi.com/comentario/981771/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -39957,9 +38752,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [979045](https://platzi.com/comentario/979045/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -40004,9 +38798,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [979026](https://platzi.com/comentario/979026/) 
 
-	
 	Reto 1:
 	``` 
 	    int pwd(int base , int exponente){
@@ -40027,14 +38820,12 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Jaskier28** (1)
+* **Jaskier28** (1) [978956](https://platzi.com/comentario/978956/) 
 
-	
 	la parte de las funciones no es parte de la programacion funcional que es otro paradigma
 
-* **JeanMurcia** (1)
+* **JeanMurcia** (1) [977947](https://platzi.com/comentario/977947/) 
 
-	
 	Este es el reto de cambio de moneda aplicando funciones
 	``` 
 	    import java.util.Scanner;
@@ -40099,12 +38890,11 @@ Se pueden utilizar para:
 	    
 	```
 
-* **JeanMurcia** (1)
+* **JeanMurcia** (1) [977298](https://platzi.com/comentario/977298/) 
 
-	
 	Primer reto pero en JAVA ![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-3d104425-c8a1-4bfb-b611-5a52e53f44af.jpg)
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [973174](https://platzi.com/comentario/973174/) 
 
 	```
 	    #include<stdio.h>
@@ -40151,7 +38941,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [973122](https://platzi.com/comentario/973122/) 
 
 	```
 	    #include<stdio.h>
@@ -40181,12 +38971,12 @@ Se pueden utilizar para:
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![Funciones Divide y Venceras.png](https://static.platzi.com/media/user_upload/Funciones%20Divide%20y%20Venceras-e6dd45cb-8fa3-458d-8c6c-b8172ddc3b5f.jpg)
-
-* **Miguel Angel Porras Villarreal** (1)
-
+* **zayrasaavedrauribe** (1) [968212](https://platzi.com/comentario/968212/) 
 	
+	![Funciones Divide y Venceras.png](https://static.platzi.com/media/user_upload/Funciones%20Divide%20y%20Venceras-e6dd45cb-8fa3-458d-8c6c-b8172ddc3b5f.jpg)
+
+* **Miguel Angel Porras Villarreal** (1) [964815](https://platzi.com/comentario/964815/) 
+
 	Reto Cumplido
 	
 	realice la parte de las potencias funciona correctamente y con la posibilidad que los usuarios ingresen los numero
@@ -40236,7 +39026,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [960208](https://platzi.com/comentario/960208/) 
 
 	```
 	    #include<stdio.h>
@@ -40283,9 +39073,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **arielr85** (1)
+* **arielr85** (1) [956223](https://platzi.com/comentario/956223/) 
 
-	
 	reto
 	``` 
 	    <#include<stdio.h>
@@ -40317,14 +39106,12 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945848](https://platzi.com/comentario/945848/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [942181](https://platzi.com/comentario/942181/) 
 
-	
 	 **Reto 2:**
 	``` 
 	    #include <stdio.h>
@@ -40376,9 +39163,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [942092](https://platzi.com/comentario/942092/) 
 
-	
 	**Reto 1:**
 	``` 
 	    #include<stdio.h>
@@ -40409,7 +39195,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [940747](https://platzi.com/comentario/940747/) 
 
 	```
 	    #include<stdio.h>
@@ -40451,7 +39237,7 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [936622](https://platzi.com/comentario/936622/) 
 
 	```
 	    #include<stdio.h>
@@ -40483,9 +39269,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [934276](https://platzi.com/comentario/934276/) 
 
-	
 	2º Reto
 	``` 
 	    #include<stdio.h>
@@ -40532,9 +39317,8 @@ Se pueden utilizar para:
 	    }
 	```
 
-* **Oriol Avilla Cerezales** (1)
+* **Oriol Avilla Cerezales** (1) [934233](https://platzi.com/comentario/934233/) 
 
-	
 	1º Reto
 	``` 
 	    #include <stdio.h>
@@ -40565,9 +39349,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [930420](https://platzi.com/comentario/930420/) 
 
-	
 	**Reto 1**
 	``` 
 	    #include<stdio.h>
@@ -40599,9 +39382,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **darth-revan** (1)
+* **darth-revan** (1) [930414](https://platzi.com/comentario/930414/) 
 
-	
 	**Reto 2** 😄
 	``` 
 	    #include<stdio.h>
@@ -40664,9 +39446,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [927936](https://platzi.com/comentario/927936/) 
 
-	
 	**Reto 2!**
 	``` 
 	    #include<stdio.h>
@@ -40724,9 +39505,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [927888](https://platzi.com/comentario/927888/) 
 
-	
 	**Reto 1** 😄
 	``` 
 	    #include<stdio.h>
@@ -40766,9 +39546,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Eder Yerson Garcés Perez** (1)
+* **Eder Yerson Garcés Perez** (1) [918784](https://platzi.com/comentario/918784/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -40817,7 +39596,7 @@ Se pueden utilizar para:
 	
 	}
 
-* **Valakyr** (1)
+* **Valakyr** (1) [909063](https://platzi.com/comentario/909063/) 
 
 	```
 	    #include <stdio.h>
@@ -40889,9 +39668,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [906033](https://platzi.com/comentario/906033/) 
 
-	
 	RETO 2
 	``` 
 	    <#include<stdio.h>
@@ -40935,9 +39713,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [905739](https://platzi.com/comentario/905739/) 
 
-	
 	RETO 1 POTENCIA DE UN NÚMERO  
 	#include <stdio.h>  
 	#include <stdlib.h>
@@ -40968,9 +39745,8 @@ Se pueden utilizar para:
 	
 	}
 
-* **Jose Alfredo Vallejo Contreras** (1)
+* **Jose Alfredo Vallejo Contreras** (1) [905282](https://platzi.com/comentario/905282/) 
 
-	
 	RETO 1
 	``` 
 	    #include<stdlib.h>
@@ -40995,9 +39771,8 @@ Se pueden utilizar para:
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [897216](https://platzi.com/comentario/897216/) 
 
-	
 	Reto 2:
 	``` 
 	    #include<stdio.h>
@@ -41057,30 +39832,27 @@ Se pueden utilizar para:
 	    
 	```
 
-* **OrlandoMgtrya** (1)
+* **OrlandoMgtrya** (1) [76506](https://platzi.com/comentario/888483/) 
 ¿Por qué no retorna r? #include <stdio.h> int numPower(int n, int p, int r) { int n1; n1 = n; for(int i = 1; i <= p...
 
-	* **OrlandoMgtrya** (1)
+	* **OrlandoMgtrya** [76506] (1)
 
-		
 		En el último printf la variable r no se imprime, me da otro número.  
 		A menos que pase el printf dentro de numPower, ahí sí lo imprime.  
 		Pero me gustaría saber por qué no sale de numPower si se supone está siendo retornada.
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [75438](https://platzi.com/comentario/869926/) 
 ¿Qué sentido tiene el return 0; al final del main?¿Por qué no declarar main con void en vez de int y ya?¿Hay algún uso del r...
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [75438] (1)
 
-		
 		El valor de retorno de la función main se considera el “Exit Status” de la aplicación. En la mayoría de los sistemas operativos, devolver 0 es un estado de éxito, como decir “el programa funcionó bien”
 
-* **DUFP** (1)
+* **DUFP** (1) [74068](https://platzi.com/comentario/846052/) 
 Alguien sabe por que me da de resultado 24?
 
-	* **Favio Sauto** (2)
+	* **Favio Sauto** [74068] (2)
 
-		
 		Que raro, copié tu código y no funciona si no incluyes la librería math.h, una vez agregada me funcionó bien. Este fue el código final:
 		``` 
 		    #include<stdio.h>
@@ -41104,24 +39876,22 @@ Alguien sabe por que me da de resultado 24?
 		    
 		```
 
-* **freddymm** (1)
+* **freddymm** (1) [72790](https://platzi.com/comentario/822715/) 
 ¿existe en C alguna funcion que me permita devolverme a una linea anterior en el codigo? por ejemplo: int main() { printf("Vamo...
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [72790] (2)
 
-		
 		En este caso deberías usar un ciclo como **`while`** o **`do while`**. El ciclo evalúa si el resultado de alguna variable u operación es verdadero. Y en caso de que sí, ejecuta el código, si no, sigue a lo siguiente.
 		
 		Prueba envolver los condicionales dentro de tu ciclo. 😉
 		
 		👉 <https://platzi.com/clases/lenguaje-c/>
 
-* **jeydvc** (1)
+* **jeydvc** (1) [60327](https://platzi.com/comentario/603946/) 
 Hola, me pueden ayudar por fa con mi código que no me está dando: int Potencia(int num, int base) { int potenciaRes = num ^ base; ...
 
-	* **luisoc2** (2)
+	* **luisoc2** [60327] (2)
 
-		
 		El operador ^ no realiza la potencia en C++. Te aconsejo utilizar el método pow(base, exp) de la libreria <cmath> para elevar numeros a una potencia. Si lo quieres hacer a la mano para practicar puedes utilizar este loop en tu método Potencia
 		``` 
 		    int Potencia(int num, int base)
@@ -41144,12 +39914,11 @@ Hola, me pueden ayudar por fa con mi código que no me está dando: int Potencia
 		    
 		```
 
-* **Carlos Francisco Betancourt Requena** (1)
+* **Carlos Francisco Betancourt Requena** (1) [52711](https://platzi.com/comentario/508848/) 
 Hola. Este es el código del segundo reto; me parece que funciona, sin embargo, cuando escribo una opción no válida, el programa vuelve a ...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [52711] (1)
 
-		
 		Puedes modificar la instrucción `scanf` para ingresar una opción:
 		``` 
 		    scanf(" %[^\n]%*c", &option);
@@ -41158,15 +39927,14 @@ Hola. Este es el código del segundo reto; me parece que funciona, sin embargo, 
 		
 		esto permitirá que puedas introducir cualquier caracter o cadena, ignorando espacios en blanco y saltos de línea.
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [51654](https://platzi.com/comentario/494390/) 
 Puede una función retornar múltiples resultados o por ejemplo un Array de datos?
 
-	* **Miguel Gil Rosas** (4)
+	* **Miguel Gil Rosas** [51654] (4)
 
-		
 		Una función puede devolver un dato o nada. Si necesitas devolver más datos, usa una estructura, array, etc… que te permita agruparlos en una unidad.
 
-## 0210. Variables locales y globales
+## 0210. Variables locales y globales [16482](https://platzi.com/clases/1450-programacion-estructurada/16482-variables-locales-y-globales9929/)
 
 ### Descripción:
 
@@ -41177,9 +39945,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 
 ### Comentarios:
 
-* **ervic_alexis** (3)
+* **ervic_alexis** (3) [834647](https://platzi.com/comentario/834647/) 
 
-	
 	Apuntes de clase:  
 	Ambito de las variables (local y global)  
 	La recomendación general es definir como variables locales todas las variables que sean de uso exclusivo para realizar las tareas encargadas a cada función. Las variables globales se utilizan para compartir variables entre funciones de forma sencilla.  
@@ -41193,12 +39960,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	![ambitoVariables.png](https://static.platzi.com/media/user_upload/ambitoVariables-29c46472-f949-4115-8ec7-e968a901fc70.jpg)
 
-* **santi-cardoso** (2)
+* **santi-cardoso** (2) [1075445](https://platzi.com/comentario/1075445/) 
 
-	
 	No entendi absolutamente nada esta clase
 
-* **Alejandro Ávila Guerrero** (2)
+* **Alejandro Ávila Guerrero** (2) [975276](https://platzi.com/comentario/975276/) 
 
 	```
 	    #include<stdio.h>
@@ -41241,9 +40007,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Camilo Alexander Velandia Velandia** (2)
+* **Camilo Alexander Velandia Velandia** (2) [793094](https://platzi.com/comentario/793094/) 
 
-	
 	char alumno[]= {""};  
 	int nota= 0;
 	
@@ -41272,9 +40037,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	return 0;  
 	}
 
-* **gnscarlos** (2)
+* **gnscarlos** (2) [539573](https://platzi.com/comentario/539573/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -41301,9 +40065,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1112355](https://platzi.com/comentario/1112355/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -41335,21 +40098,18 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **Luis angel muñoz villafuerte** (1)
+* **Luis angel muñoz villafuerte** (1) [1108445](https://platzi.com/comentario/1108445/) 
 
-	
 	![](![reto 1 variableglobal.jpg](https://static.platzi.com/media/user_upload/reto%201%20variableglobal-966f89de-5dc7-4a21-99b0-827fc3457c20.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1103724](https://platzi.com/comentario/1103724/) 
 
-	
 	 **Reto:**
 	
 	(![Reto calificacion variables globales y locales.png](https://static.platzi.com/media/user_upload/Reto%20calificacion%20variables%20globales%20y%20locales-7527470c-1653-482e-91ba-aa701c8acee6.jpg)
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1103439](https://platzi.com/comentario/1103439/) 
 
-	
 	 _Si tenemos:_
 	
 	int x, y; // **variables globales** se pueden usar en cualquier función, ejemplo oso y main.
@@ -41364,7 +40124,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	int b; //variable b pertenece a la función main  
 	} //por lo tanto es local, solo puede ser usada en esta función.
 
-* **kalegria** (1)
+* **kalegria** (1) [1081955](https://platzi.com/comentario/1081955/) 
 
 	```
 	    char nombre[50];
@@ -41391,13 +40151,15 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **JobForero** (1)
-![Screenshot_1__.png](https://static.platzi.com/media/user_upload/Screenshot_1__-7f94c997-e4df-4181-97c8-71b755e272fd.jpg)
+* **JobForero** (1) [1080603](https://platzi.com/comentario/1080603/) 
+	
+	![Screenshot_1__.png](https://static.platzi.com/media/user_upload/Screenshot_1__-7f94c997-e4df-4181-97c8-71b755e272fd.jpg)
 
-* **paola-diaz361** (1)
-![nVarGlobaLocales1.PNG](https://static.platzi.com/media/user_upload/nVarGlobaLocales1-3a0f3c63-134d-4cb7-a5fb-20fe66288e76.jpg)
+* **paola-diaz361** (1) [1067691](https://platzi.com/comentario/1067691/) 
+	
+	![nVarGlobaLocales1.PNG](https://static.platzi.com/media/user_upload/nVarGlobaLocales1-3a0f3c63-134d-4cb7-a5fb-20fe66288e76.jpg)
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1066474](https://platzi.com/comentario/1066474/) 
 
 	```
 	    #include<stdio.h>
@@ -41431,10 +40193,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **paola-diaz361** (1)
-![variablesGlobales1.PNG](https://static.platzi.com/media/user_upload/variablesGlobales1-ae4709e3-c492-4033-8c1a-cbb14e252137.jpg)
+* **paola-diaz361** (1) [1066093](https://platzi.com/comentario/1066093/) 
+	
+	![variablesGlobales1.PNG](https://static.platzi.com/media/user_upload/variablesGlobales1-ae4709e3-c492-4033-8c1a-cbb14e252137.jpg)
 
-* **hectormr** (1)
+* **hectormr** (1) [1063050](https://platzi.com/comentario/1063050/) 
 
 	```
 	    voidaprobacion(){
@@ -41460,7 +40223,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1062369](https://platzi.com/comentario/1062369/) 
 
 	```
 	    #include<stdio.h>
@@ -41503,7 +40266,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Edgar Mancilla Sánchez** (1)
+* **Edgar Mancilla Sánchez** (1) [1051820](https://platzi.com/comentario/1051820/) 
 
 	```
 	    #include<stdio.h>
@@ -41546,9 +40309,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **jhavargashe** (1)
+* **jhavargashe** (1) [1039019](https://platzi.com/comentario/1039019/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	char alumno[] = {""};  
@@ -41582,9 +40344,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1038229](https://platzi.com/comentario/1038229/) 
 
-	
 	Reto cumplido! 😃
 	``` 
 	    #include<stdio.h>
@@ -41620,9 +40381,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **leo_M** (1)
+* **leo_M** (1) [1037311](https://platzi.com/comentario/1037311/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -41657,7 +40417,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **GadielWisar** (1)
+* **GadielWisar** (1) [1033692](https://platzi.com/comentario/1033692/) 
 
 	```
 	    #include<stdio.h>
@@ -41695,9 +40455,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1032292](https://platzi.com/comentario/1032292/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -41731,7 +40490,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1031346](https://platzi.com/comentario/1031346/) 
 
 	```
 	    #include<stdio.h>
@@ -41765,10 +40524,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **jhonsoccer11** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-565b4640-8465-46f4-9411-79893e5a0350.jpg)
+* **jhonsoccer11** (1) [1028284](https://platzi.com/comentario/1028284/) 
+	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-565b4640-8465-46f4-9411-79893e5a0350.jpg)
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1028161](https://platzi.com/comentario/1028161/) 
 
 	```
 	    #include<stdio.h>
@@ -41806,9 +40566,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1026235](https://platzi.com/comentario/1026235/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -41852,9 +40611,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [1019735](https://platzi.com/comentario/1019735/) 
 
-	
 	Reto de Variables locales y globales
 	``` 
 	    char nombre[];
@@ -41883,9 +40641,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1018975](https://platzi.com/comentario/1018975/) 
 
-	
 	Reto resuelto !!!
 	``` 
 	    #include<stdio.h>
@@ -41923,9 +40680,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1018223](https://platzi.com/comentario/1018223/) 
 
-	
 	++Reto #1 Clase 21 ++
 	``` 
 	    #include<stdio.h>
@@ -41956,7 +40712,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1015151](https://platzi.com/comentario/1015151/) 
 
 	```
 	    #include <stdio.h>
@@ -42001,10 +40757,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **MarianaGb** (1)
-![5.png](https://static.platzi.com/media/user_upload/5-275a41b3-7950-4a45-ac01-0dea94de8137.jpg)
+* **MarianaGb** (1) [1014137](https://platzi.com/comentario/1014137/) 
+	
+	![5.png](https://static.platzi.com/media/user_upload/5-275a41b3-7950-4a45-ac01-0dea94de8137.jpg)
 
-* **ignacioequiroga** (1)
+* **ignacioequiroga** (1) [1012266](https://platzi.com/comentario/1012266/) 
 
 	```
 	    #include<stdio.h>
@@ -42040,7 +40797,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [1008796](https://platzi.com/comentario/1008796/) 
 
 	```
 	    char nombre[50];
@@ -42069,12 +40826,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [1006908](https://platzi.com/comentario/1006908/) 
 
-	
 	utilidad e caso de un o muchos casos
 
-* **16angiec** (1)
+* **16angiec** (1) [1006670](https://platzi.com/comentario/1006670/) 
 
 	```
 	    #include<stdio.h>
@@ -42106,7 +40862,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1006422](https://platzi.com/comentario/1006422/) 
 
 	```
 	    char student[80];
@@ -42141,7 +40897,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Cegador** (1)
+* **Cegador** (1) [1004094](https://platzi.com/comentario/1004094/) 
 
 	```
 	    char nom[80];
@@ -42173,9 +40929,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [1000345](https://platzi.com/comentario/1000345/) 
 
-	
 	Lección de código aprendida: el error puede estar en lo mas obvio
 	
 	RETO CUMPLIDO
@@ -42216,9 +40971,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [999778](https://platzi.com/comentario/999778/) 
 
-	
 	Reto 1:
 	``` 
 	    #include<stdio.h>
@@ -42263,9 +41017,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **José Antonio Ruiz Cruz** (1)
+* **José Antonio Ruiz Cruz** (1) [988019](https://platzi.com/comentario/988019/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -42297,9 +41050,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **IVANCHIPATECUA** (1)
+* **IVANCHIPATECUA** (1) [987879](https://platzi.com/comentario/987879/) 
 
-	
 	Reto
 	``` 
 	    #include<stdio.h>
@@ -42330,9 +41082,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [982064](https://platzi.com/comentario/982064/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -42371,9 +41122,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **wilantury** (1)
+* **wilantury** (1) [979077](https://platzi.com/comentario/979077/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -42403,12 +41153,12 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![Fx Locales y Globales.png](https://static.platzi.com/media/user_upload/Fx%20Locales%20y%20Globales-2a3aba7d-370f-44fd-9acc-bffc5aef8919.jpg)
-
-* **arielr85** (1)
-
+* **zayrasaavedrauribe** (1) [968434](https://platzi.com/comentario/968434/) 
 	
+	![Fx Locales y Globales.png](https://static.platzi.com/media/user_upload/Fx%20Locales%20y%20Globales-2a3aba7d-370f-44fd-9acc-bffc5aef8919.jpg)
+
+* **arielr85** (1) [957177](https://platzi.com/comentario/957177/) 
+
 	Reto
 	``` 
 	    <#include<stdio.h>
@@ -42440,12 +41190,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945851](https://platzi.com/comentario/945851/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Juan Campos** (1)
+* **Juan Campos** (1) [944836](https://platzi.com/comentario/944836/) 
 
 	```
 	    #include<stdio.h>
@@ -42476,9 +41225,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [942270](https://platzi.com/comentario/942270/) 
 
-	
 	**Reto: nota de alumno en funciones**
 	``` 
 	    #include<stdio.h>
@@ -42511,9 +41259,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [928008](https://platzi.com/comentario/928008/) 
 
-	
 	Reto superado. 😄
 	``` 
 	    #include<stdio.h>
@@ -42551,10 +41298,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Gabriel Aguilar** (1)
-![VARIABLELOCAL.jpg](https://static.platzi.com/media/user_upload/VARIABLELOCAL-b3c6ff8a-1648-47b2-84c3-5eca60c1ea2f.jpg)
+* **Gabriel Aguilar** (1) [924696](https://platzi.com/comentario/924696/) 
+	
+	![VARIABLELOCAL.jpg](https://static.platzi.com/media/user_upload/VARIABLELOCAL-b3c6ff8a-1648-47b2-84c3-5eca60c1ea2f.jpg)
 
-* **Valakyr** (1)
+* **Valakyr** (1) [910133](https://platzi.com/comentario/910133/) 
 
 	```
 	    #include<stdio.h>
@@ -42583,7 +41331,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [906094](https://platzi.com/comentario/906094/) 
 
 	```
 	    #include<stdio.h>
@@ -42618,9 +41366,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [897319](https://platzi.com/comentario/897319/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -42659,7 +41406,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [894242](https://platzi.com/comentario/894242/) 
 
 	```
 	    #include<stdio.h>
@@ -42697,9 +41444,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Esteban Padron** (1)
+* **Esteban Padron** (1) [877696](https://platzi.com/comentario/877696/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -42765,9 +41511,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **Hector Franco Torres Manzano** (1)
+* **Hector Franco Torres Manzano** (1) [870058](https://platzi.com/comentario/870058/) 
 
-	
 	Mi solución al reto:
 	``` 
 	    // Definicion de variables
@@ -42799,7 +41544,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [856459](https://platzi.com/comentario/856459/) 
 
 	```
 	    char name[50];
@@ -42827,7 +41572,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **aquinomariodavid** (1)
+* **aquinomariodavid** (1) [851542](https://platzi.com/comentario/851542/) 
 
 	```
 	    #include<stdio.h>
@@ -42862,15 +41607,16 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **laj-lukum** (1)
-![Capture23.PNG](https://static.platzi.com/media/user_upload/Capture23-5bb364da-34fc-4c07-823d-906a09d4fab9.jpg)
-
-* **DUFP** (1)
-![reto20.PNG](https://static.platzi.com/media/user_upload/reto20-342d8b19-d937-473a-99ce-5655cc9aa9f5.jpg)
-
-* **Manuel Rivera** (1)
-
+* **laj-lukum** (1) [851215](https://platzi.com/comentario/851215/) 
 	
+	![Capture23.PNG](https://static.platzi.com/media/user_upload/Capture23-5bb364da-34fc-4c07-823d-906a09d4fab9.jpg)
+
+* **DUFP** (1) [847714](https://platzi.com/comentario/847714/) 
+	
+	![reto20.PNG](https://static.platzi.com/media/user_upload/reto20-342d8b19-d937-473a-99ce-5655cc9aa9f5.jpg)
+
+* **Manuel Rivera** (1) [842220](https://platzi.com/comentario/842220/) 
+
 	Reto
 	``` 
 	    const alumno = "Manuel Rivera"
@@ -42892,9 +41638,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **max23esau** (1)
+* **max23esau** (1) [841341](https://platzi.com/comentario/841341/) 
 
-	
 	Reto Cumplido
 	``` 
 	    #include<stdio.h>
@@ -42932,7 +41677,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [836027](https://platzi.com/comentario/836027/) 
 
 	```
 	    #include<stdio.h>
@@ -42984,7 +41729,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [830466](https://platzi.com/comentario/830466/) 
 
 	```
 	    #include<stdio.h>
@@ -43014,9 +41759,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Nicolás Mayorga Vargas** (1)
+* **Nicolás Mayorga Vargas** (1) [827835](https://platzi.com/comentario/827835/) 
 
-	
 	**RETO**
 	``` 
 	    char name[4];
@@ -43058,9 +41802,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [822770](https://platzi.com/comentario/822770/) 
 
-	
 	**listo**
 	``` 
 	    #include<stdio.h>
@@ -43093,7 +41836,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Carlos Alberto Villalobos Toro** (1)
+* **Carlos Alberto Villalobos Toro** (1) [819822](https://platzi.com/comentario/819822/) 
 
 	```
 	    char name[4];
@@ -43134,9 +41877,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **raguevara** (1)
+* **raguevara** (1) [817914](https://platzi.com/comentario/817914/) 
 
-	
 	char nombre[];  
 	int calif;
 	
@@ -43171,9 +41913,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	![clase 21 tarea1.png](https://static.platzi.com/media/user_upload/clase%2021%20tarea1-1c4d93b0-f3fa-42cc-af88-f4b4acd10d82.jpg)
 
-* **horaciocantugarcia** (1)
+* **horaciocantugarcia** (1) [807048](https://platzi.com/comentario/807048/) 
 
-	
 	char alumno[40];  
 	float calificacion;
 	
@@ -43207,15 +41948,13 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **linkpj** (1)
+* **linkpj** (1) [796839](https://platzi.com/comentario/796839/) 
 
-	
 	 **Reto 20**  
 	![Reto20.PNG](https://static.platzi.com/media/user_upload/Reto20-91d4519e-9c66-4352-b735-7e9db28d1b1f.jpg)
 
-* **Wilson Perez** (1)
+* **Wilson Perez** (1) [791212](https://platzi.com/comentario/791212/) 
 
-	
 	Código del teto de este video:
 	``` 
 	    #include<stdio.h>
@@ -43249,7 +41988,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (1)
+* **Juan Camilo Alvarez Jurado** (1) [788222](https://platzi.com/comentario/788222/) 
 
 	```
 	    #include<stdio.h>
@@ -43277,9 +42016,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [768822](https://platzi.com/comentario/768822/) 
 
-	
 	**Código**
 	``` 
 	    #include<stdio.h>
@@ -43333,10 +42071,11 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **funkydaniel** (1)
-![c18.jpg](https://static.platzi.com/media/user_upload/c18-fa83ea53-178b-4cf9-9d76-73db76aa5d3c.jpg)
+* **funkydaniel** (1) [757548](https://platzi.com/comentario/757548/) 
+	
+	![c18.jpg](https://static.platzi.com/media/user_upload/c18-fa83ea53-178b-4cf9-9d76-73db76aa5d3c.jpg)
 
-* **Kevin Ariel Merino Peña** (1)
+* **Kevin Ariel Merino Peña** (1) [747677](https://platzi.com/comentario/747677/) 
 
 	```
 	    #include<stdio.h>
@@ -43378,7 +42117,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [747633](https://platzi.com/comentario/747633/) 
 
 	```
 	    #include <stdio.h>
@@ -43425,15 +42164,15 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [742911](https://platzi.com/comentario/742911/) 
 
-	
 	**Las variables globales** son aquellas que existen para todo el programa. **Las variables locales** en cambio solo pueden existir dentro de las funciones donde fueron declarados.
 
-* **Oriol Camí** (1)
-![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-f83f88db-8e8b-4fc9-b96a-c946f0b9509b.jpg)
+* **Oriol Camí** (1) [720753](https://platzi.com/comentario/720753/) 
+	
+	![Sin título.png](https://static.platzi.com/media/user_upload/Sin%20t%C3%ADtulo-f83f88db-8e8b-4fc9-b96a-c946f0b9509b.jpg)
 
-* **joshBarrios22** (1)
+* **joshBarrios22** (1) [718506](https://platzi.com/comentario/718506/) 
 
 	```
 	    #include<stdio.h>
@@ -43470,9 +42209,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Iván José Campo De Martino** (1)
+* **Iván José Campo De Martino** (1) [714839](https://platzi.com/comentario/714839/) 
 
-	
 	**reto**
 	
 	logre terminarlo usando todo funcion y variable global, pero tengo una duda porque cuando imprimo el nombre con puts, no imprime al par del texto?
@@ -43520,9 +42258,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **nicolasalvarezt** (1)
+* **nicolasalvarezt** (1) [710867](https://platzi.com/comentario/710867/) 
 
-	
 	Reto completado
 	``` 
 	    #include<stdio.h>
@@ -43558,7 +42295,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **andrei-caravantes-caballero** (1)
+* **andrei-caravantes-caballero** (1) [696913](https://platzi.com/comentario/696913/) 
 
 	```
 	    import java.util.*;
@@ -43599,9 +42336,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [695919](https://platzi.com/comentario/695919/) 
 
-	
 	Reto listo:
 	``` 
 	    #include<stdio.h>
@@ -43633,15 +42369,13 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [681792](https://platzi.com/comentario/681792/) 
 
-	
 	**Challenge completed:**  
 	![Screen Shot 2019-08-08 at 9.41.59 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-08%20at%209.41.59%20PM-141a0c3c-5bb3-4e20-add3-a3b35b4f3e41.jpg)
 
-* **Eduardo Antonio Rivero Rivera** (1)
+* **Eduardo Antonio Rivero Rivera** (1) [667827](https://platzi.com/comentario/667827/) 
 
-	
 	Reto de la clase, la calificación es en base 100.
 	``` 
 	    #include<stdlib.h>
@@ -43670,9 +42404,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [646423](https://platzi.com/comentario/646423/) 
 
-	
 	**Reto completado:**
 	``` 
 	    #include<stdio.h>
@@ -43708,9 +42441,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	[Funcionando](https://repl.it/@GibranPM/Reto-1-variables-globales-y-locales).
 
-* **nancyh** (1)
+* **nancyh** (1) [639073](https://platzi.com/comentario/639073/) 
 
-	
 	Reto
 	``` 
 	    char nombre[];
@@ -43747,9 +42479,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Edgar Pastrana** (1)
+* **Edgar Pastrana** (1) [627141](https://platzi.com/comentario/627141/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -43788,9 +42519,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **JuanC21Vinueza** (1)
+* **JuanC21Vinueza** (1) [615701](https://platzi.com/comentario/615701/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -43824,7 +42554,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	}
 
-* **brian-la-rosa** (1)
+* **brian-la-rosa** (1) [609329](https://platzi.com/comentario/609329/) 
 
 	```
 	    <#include<stdio.h>
@@ -43864,9 +42594,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **jeydvc** (1)
+* **jeydvc** (1) [603973](https://platzi.com/comentario/603973/) 
 
-	
 	Hola, este es mi reto pero cuando le voy a dar ejecutar solo me deja colocar el nombre y la nota y luego se bloquea:
 	``` 
 	    char name;
@@ -43903,14 +42632,12 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	
 	Muchas gracias.
 
-	* **luisoc2** (2)
+	* **luisoc2** [603973] (2)
 
-		
 		Para imprimir un caracter (char) con printf debes usar %c en lugar de %s
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [603973] (2)
 
-		
 		Puedes guardar el nombre del alumno, en un arreglo de tipo `char`:
 		``` 
 		    charname[15];
@@ -43919,18 +42646,16 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 		
 		Sin los paréntesis estás declarando una variable que solo puede almacenar un caracter.
 
-	* **Alejandro Robleto** (1)
+	* **Alejandro Robleto** [603973] (1)
 
-		
 		hola como estas, tu codigo no esta tan mal amigo veo que te esfuerzas… veras tienes caracteres que codeblocl no lee unas comillas invertidas aqui printf(“Escribe el nombre del alumno: “);
 		
 		tambien no has declarado muy bien tus variables al inicio por eso te da error y te faltan algunos parentesis y llaves en la funcion de void que hizo.
 		
 		al final en la funcion que llamas en el main no le definiste los parametros que va a medir
 
-	* **Alejandro Robleto** (1)
+	* **Alejandro Robleto** [603973] (1)
 
-		
 		aqui te dejo un ejemplo que no dejo la profe del curso checalo y repara los detalles en el tuyo:
 		
 		#include<stdio.h>
@@ -43964,9 +42689,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 		
 		}
 
-* **jaba-alba** (1)
+* **jaba-alba** (1) [597748](https://platzi.com/comentario/597748/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>
 	
@@ -43999,7 +42723,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	return 0;  
 	}
 
-* **RemyLebeau** (1)
+* **RemyLebeau** (1) [580623](https://platzi.com/comentario/580623/) 
 
 	```
 	    #include<stdio.h>
@@ -44039,7 +42763,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [574960](https://platzi.com/comentario/574960/) 
 
 	```
 	    #include<stdio.h>
@@ -44078,9 +42802,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [572081](https://platzi.com/comentario/572081/) 
 
-	
 	Reto:
 	``` 
 	    char nombre[];
@@ -44115,7 +42838,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Rabi Leonel Leon Chan** (1)
+* **Rabi Leonel Leon Chan** (1) [562574](https://platzi.com/comentario/562574/) 
 
 	```
 	    #include<stdio.h>
@@ -44155,9 +42878,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **json0410** (1)
+* **json0410** (1) [552022](https://platzi.com/comentario/552022/) 
 
-	
 	Challenge
 	``` 
 	    char student [25];
@@ -44202,7 +42924,7 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Ijk** (1)
+* **Ijk** (1) [543853](https://platzi.com/comentario/543853/) 
 
 	```
 	    #include<stdio.h>
@@ -44232,9 +42954,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Jeffersson Muñoz Torres** (1)
+* **Jeffersson Muñoz Torres** (1) [543408](https://platzi.com/comentario/543408/) 
 
-	
 	Reto:
 	``` 
 	    #include<stdio.h>
@@ -44264,9 +42985,8 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Octavio Parra Tovar** (1)
+* **Octavio Parra Tovar** (1) [537079](https://platzi.com/comentario/537079/) 
 
-	
 	Reto variables globales
 	``` 
 	    `<#include<stdio.h>
@@ -44313,20 +43033,18 @@ La única diferencia entre una variable local y una global es su ámbito de acci
 	    
 	```
 
-* **Brando Javier Caiza Freire** (1)
+* **Brando Javier Caiza Freire** (1) [86492](https://platzi.com/comentario/1097202/) 
 Hola. porque pongo "%s" Si alguien me ayuda. GRACIAS¡¡¡¡
 
-	* **Victor bustos sazo** (2)
+	* **Victor bustos sazo** [86492] (2)
 
-		
 		es para indicar que la variable es tipo string, llama a un string o cadena de caracteres.
 
-* **Maria_Perez** (1)
+* **Maria_Perez** (1) [82758](https://platzi.com/comentario/1012447/) 
 Ayuda no se en donde está el error, compila hasta cuando escanea nota, luego queda sin terminar el codigo. char nombre[50]; float n...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [82758] (1)
 
-		
 		En esta línea
 		``` 
 		    voidCalificar();
@@ -44345,35 +43063,32 @@ Ayuda no se en donde está el error, compila hasta cuando escanea nota, luego qu
 		    
 		```
 
-* **Mateo Aquino** (1)
+* **Mateo Aquino** (1) [72107](https://platzi.com/comentario/810401/) 
 ¿Las variables globales generan problemas de seguridad en los sistemas?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [72107] (1)
 
-		
 		Sip. No es recomendable almacenar datos privados o sensibles en variables globales.
 
-* **Iván José Campo De Martino** (1)
+* **Iván José Campo De Martino** (1) [66930](https://platzi.com/comentario/714835/) 
 reto #include <stdio.h> #include <stdlib.h> char name[50]; float note; void calif() { if(note &g...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [66930] (1)
 
-		
 		Eso pasa porque usas la función `puts` que imprime una cadena añadiendo al final un salto de línea (`\n`). Puedes emplear la siguiente línea para que imprima el nombre y la calificación:
 		``` 
 		    printf("%s aprobastes con un: %f", name, note);
 		    
 		```
 
-* **jeydvc** (1)
+* **jeydvc** (1) [60328](https://platzi.com/comentario/603973/) 
 Hola, este es mi reto pero cuando le voy a dar ejecutar solo me deja colocar el nombre y la nota y luego se bloquea: char name; flo...
 
-	* **luisoc2** (2)
+	* **luisoc2** [60328] (2)
 
-		
 		Para imprimir un caracter (char) con printf debes usar %c en lugar de %s
 
-## 0220. Recapitulación Funciones
+## 0220. Recapitulación Funciones [16491](https://platzi.com/clases/1450-programacion-estructurada/16491-recapitulacion-funciones/)
 
 ### Descripción:
 
@@ -44386,10 +43101,10 @@ Las funciones son bloques de código que realizan alguna operación o instruccio
 
 ¿Con qué finalidad hacemos estas secciones de código?
 
-  * Encapsulamiento
-  * Reusabilidad
-  * Separar Tareas
-  * Cambios a futuro
+* Encapsulamiento
+* Reusabilidad
+* Separar Tareas
+* Cambios a futuro
 
 
 
@@ -44417,175 +43132,141 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 
 ### Comentarios:
 
-* **Mauricio Hernández** (5)
+* **Mauricio Hernández** (5) [479873](https://platzi.com/comentario/479873/) 
 
-	
 	Excelente aporte! Lo que debemos de tener cuidado es con las variables globales, ya que por su misma naturaleza, pueden ser usadas o modificadas por todos y generar problemas.
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1112377](https://platzi.com/comentario/1112377/) 
 
-	
 	Gracias por ese repaso 😄
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [1069750](https://platzi.com/comentario/1069750/) 
 
-	
 	Gracias por la recapitulación.
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1067708](https://platzi.com/comentario/1067708/) 
 
-	
 	VARIABLES GLOBALES: se declaran fuera de cualquier función y según donde se declaren varias funciones pueden tener acceso a las variables globales.  
 	Las variables globales se pueden usar en todos los bloques códigos o funciones y las variables locales son las que creas dentro de la misma función en la que las vas a utilizar, las globales se crean por fuera de los bloques de código.
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1044469](https://platzi.com/comentario/1044469/) 
 
-	
 	Genial, muchas gracias por la recapitulación del contenido anterior…
 
-* **rigiba** (1)
+* **rigiba** (1) [1044192](https://platzi.com/comentario/1044192/) 
 
-	
 	gracias por el resumen
 
-* **Jesus Velez Flores** (1)
+* **Jesus Velez Flores** (1) [1038231](https://platzi.com/comentario/1038231/) 
 
-	
 	Buen resumen.
 
-* **GadielWisar** (1)
+* **GadielWisar** (1) [1033694](https://platzi.com/comentario/1033694/) 
 
-	
 	Excelente explicación hasta el momento!
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1028320](https://platzi.com/comentario/1028320/) 
 
-	
 	Muchas gracias por la información.
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1028170](https://platzi.com/comentario/1028170/) 
 
-	
 	Gracias por el feedback!!
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1026259](https://platzi.com/comentario/1026259/) 
 
-	
 	Este capitulo se me hizo un poco mas fácil, que los arreglos con iteradores pero bueno, hay vamos
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [1019754](https://platzi.com/comentario/1019754/) 
 
-	
 	Gracias por el review!!
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1019671](https://platzi.com/comentario/1019671/) 
 
-	
 	Genial! reafirme conceptos.
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [1008800](https://platzi.com/comentario/1008800/) 
 
-	
 	Gracias!
 
-* **Cegador** (1)
+* **Cegador** (1) [1004096](https://platzi.com/comentario/1004096/) 
 
-	
 	Gracias, Daniela.
 
-* **andresargote** (1)
+* **andresargote** (1) [1000348](https://platzi.com/comentario/1000348/) 
 
-	
 	😃 me gusto mucho este curso, ya me falta poco para acabarlo 😃 😃 😃
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [982065](https://platzi.com/comentario/982065/) 
 
-	
 	Excelente curso. A seguir con el último modulo.
 
-* **BotDrako** (1)
+* **BotDrako** (1) [981733](https://platzi.com/comentario/981733/) 
 
-	
 	Explicaciones claras sobre el tema 😃
 
-* **wilantury** (1)
+* **wilantury** (1) [979082](https://platzi.com/comentario/979082/) 
 
-	
 	I get it
 
-* **arielr85** (1)
+* **arielr85** (1) [957195](https://platzi.com/comentario/957195/) 
 
-	
 	Entendido Gracias 😃
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [945863](https://platzi.com/comentario/945863/) 
 
-	
 	dos puntos por terminar de leer :v
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [937666](https://platzi.com/comentario/937666/) 
 
-	
 	Gracias 😃
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [906104](https://platzi.com/comentario/906104/) 
 
-	
 	Buen material, me ha ayudado a retomar conceptos
 
-* **Jhon Alexander Romero Gonzaga** (1)
+* **Jhon Alexander Romero Gonzaga** (1) [864793](https://platzi.com/comentario/864793/) 
 
-	
 	Es bellisimo.
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [851228](https://platzi.com/comentario/851228/) 
 
-	
 	Buenisimo
 
-* **Carlos Alberto Villalobos Toro** (1)
+* **Carlos Alberto Villalobos Toro** (1) [819829](https://platzi.com/comentario/819829/) 
 
-	
 	Vamos bien. Que buen curso
 
-* **Carlos Eduardo Arreguin Ulloa** (1)
+* **Carlos Eduardo Arreguin Ulloa** (1) [817575](https://platzi.com/comentario/817575/) 
 
-	
 	Muy buen repaso
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [793097](https://platzi.com/comentario/793097/) 
 
-	
 	genial
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [768823](https://platzi.com/comentario/768823/) 
 
-	
 	Excelente! Gracias!
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [759664](https://platzi.com/comentario/759664/) 
 
-	
 	C es un excelente lenguaje para aprender programación estructurada.
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [695932](https://platzi.com/comentario/695932/) 
 
-	
 	Gracias por el resumen, Excelente detalle!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [681804](https://platzi.com/comentario/681804/) 
 
-	
 	Complementando este resumen con mis apuntes en Google Docs, espléndido!!! Muy buen curso.💚
 
-* **Rabi Leonel Leon Chan** (1)
+* **Rabi Leonel Leon Chan** (1) [562576](https://platzi.com/comentario/562576/) 
 
-	
 	Excelente explicación
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [542355](https://platzi.com/comentario/542355/) 
 
-	
 	Creo que falta explicar mejor el concepto de encapsulamiento, espero más adelante lo ejemplifiquen.  
 	Por otro lado codeblocks se puede expresar así la función  
 	int Addition( a, b)  
@@ -44593,24 +43274,23 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	int Addition(int a, int b)  
 	colocando el tipo de dato que llega como parámetro a la función.
 
-# Conceptos avanzados
+# Conceptos avanzados [3259]
 
-## 0230. Recursividad
+## 0230. Recursividad [16481](https://platzi.com/clases/1450-programacion-estructurada/16481-recursividad5568/)
 
 ### Descripción:
 
 
-  * En C, las funciones pueden llamarse a sí mismas.
-  * Si una expresión en el cuerpo de una función llama a la propia función, se dice que ésta es recursiva.
-  * La **recursividad** es el proceso de definir algo en términos de sí mismo y a veces se llama definición circular.
+* En C, las funciones pueden llamarse a sí mismas.
+* Si una expresión en el cuerpo de una función llama a la propia función, se dice que ésta es recursiva.
+* La **recursividad** es el proceso de definir algo en términos de sí mismo y a veces se llama definición circular.
 
 
 
 ### Comentarios:
 
-* **ervic_alexis** (6)
+* **ervic_alexis** (6) [836754](https://platzi.com/comentario/836754/) 
 
-	
 	## Recursividad
 	
 	Un método recursivo es un método que se llama así mismo.  
@@ -44667,40 +43347,34 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	_  
 	Si esta explicación es confusa o incorrecta favor de comentar, estuve investigando este tema y la mayoría de los ejemplos expuestos anteriormente los tome de la aplicación llamada, “Solo Learn”.
 
-	* **arlex_ee10** (2)
+	* **arlex_ee10** [836754] (2)
 
-		
 		Genial, Solo Learn es super 😃
 
-	* **Juan Manuel Caro González** (1)
+	* **Juan Manuel Caro González** [836754] (1)
 
-		
 		Amigo me quedé cuando dices “así que rastreamos hacia atrás”.  
 		Básicamente tengo dos dudas con esta clase:
 		
 		En el primer return del if los resultados se van almacenando en la variable result?  
 		Me quedé cuando llega return 1; y dice Dani: “ahora se regresa capa por capa por capa”. Siguiendo la lógica de lo aprendido hasta esta clase, lo que debería ocurrir después de llegar a return 1 es que la función factorial finaliza y ese “1” de resultado se almacena en la variable result de la función main. No entendí cómo se devuelve por las capas y como se llega al resultado de 120, ni tampoco entendí entonces en qué momento se sale de la función factorial.
 
-* **Walker Fernando Manrique Chalco** (6)
+* **Walker Fernando Manrique Chalco** (6) [466728](https://platzi.com/comentario/466728/) 
 
-	
 	En la recursividad una funcion se llama a si misma hasta que llegue al caso base. Pero luego de que llega al caso base va de regreso, es decir llega al final, regresa hacia donde lo llamo la ultima vez y asi sucesivamente hasta que llegue al comienzo. La recursividad entonces va de ida y vuelta.
 	
 	![](http://stmblog.com/wp-content/uploads/2014/05/recursividad.png)
 
-	* **Ricardo Exequiel De Angelis** (1)
+	* **Ricardo Exequiel De Angelis** [466728] (1)
 
-		
 		Sencilla y buena definición
 
-	* **mauricio garcia** (1)
+	* **mauricio garcia** [466728] (1)
 
-		
 		esta excelente esta imagen! gracias
 
-* **luisrovez** (5)
+* **luisrovez** (5) [679409](https://platzi.com/comentario/679409/) 
 
-	
 	Espero que la siguiente explicación libre de dudas a los futuros estudiantes:
 	
 	La recursividad funciona de esta forma  
@@ -44744,25 +43418,22 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	
 	Espero les sirva, si esta mal explicado porfavor corrijanlo.
 
-	* **Carlos Alberto Villalobos Toro** (1)
+	* **Carlos Alberto Villalobos Toro** [679409] (1)
 
-		
 		Parcero no entendí porque se devuelve y por que colocas el signo ( " ! ", que entiendo que significa " diferente " ) después de los números en la primera foto.
 
-* **Manuel Alejandro Aguilar Téllez Girón** (5)
+* **Manuel Alejandro Aguilar Téllez Girón** (5) [479837](https://platzi.com/comentario/479837/) 
 
-	
 	Hay diferencias sutiles entre recursividad e iteración.
 	
 	Algunas de ellas por ejemplo es que la iteración incluye, una inicialización, una condición y un incremento o decremento. La recursividad por sí misma sólo es un bucle que regresa siempre al caso base (condición), y es ahí cuando viene una segunda diferencia, en una iteración nosotros estamos _obligados_ a poner una condición para que sea cumplida, en la recursividad no, la diferencia es que (aparte de que ya está definida [caso base]) si no la ponemos llegará a un bucle infinito, a lo que lleva a una tercera diferencia, la iteración hace que tu CPU cicle una y otra vez, la recursividad puede llegar a crashear totalmente tu computadora. La recursividad es más lenta en ejecución que la iteración, esta se comporta por medio de stacks, la iteración no, aparte las iteraciones hacen más largo tu código que la recursividad.
 
-	* **preyesa19** (2)
+	* **preyesa19** [479837] (2)
 
-		
 		que ejemplos practicos podrias decirnos para que quede mas claro, entre en duda? 😦  
 		gracias
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (2)
+	* **Manuel Alejandro Aguilar Téllez Girón** [479837] (2)
 
 		```
 		    1#include<stdio.h>
@@ -44808,9 +43479,8 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 		    
 		```
 
-* **Wilson Perez** (4)
+* **Wilson Perez** (4) [800970](https://platzi.com/comentario/800970/) 
 
-	
 	Un poco de teoría interesante sobre recursividad.  
 	Recursión es una de las ideas centrales de ciencia de computación. Resolver un problema mediante recursión significa que la solución depende de las soluciones de pequeñas instancias del mismo problema.  
 	Un algoritmo recursivo es un algoritmo que expresa la solución de un problema en términos de una llamada a sí mismo. La llamada a sí mismo se conoce como llamada recursiva o recurrente.  
@@ -44827,9 +43497,8 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	Entonces ¿Por qué elegir la recursividad?  
 	Cualquier problema que se puede resolver de manera recursiva también se puede resolver de manera iteractiva. Por lo general, el método de recursividad se elige por encima de uno de iteracción , cuando el método de recursividad refleja de manera mas natural el problema y genera un programa que es mas fácil de entender y depurar. Otra razón para elegir una solución recursiva es que la solución iterativa no es obvia.
 
-* **Wilson Perez** (3)
+* **Wilson Perez** (3) [797822](https://platzi.com/comentario/797822/) 
 
-	
 	Una pequeña explicación gráfica de recursividad.  
 	![](https://i.imgur.com/yifuh0c.png)  
 	![](https://i.imgur.com/G8SNrn0.png)  
@@ -44837,26 +43506,22 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	![](https://i.imgur.com/5jS2X8m.png)  
 	![](https://i.imgur.com/P6i1hE2.png)
 
-* **Yerson Daniel Romero Orjuela** (2)
+* **Yerson Daniel Romero Orjuela** (2) [1006913](https://platzi.com/comentario/1006913/) 
 
-	
 	exelente guia el gif
 
-* **wilantury** (2)
+* **wilantury** (2) [979107](https://platzi.com/comentario/979107/) 
 
-	
 	Excelente, siempre he luchado con éste concepto, solo faltaba entender que así como se llaman varias veces la misma función cuando termina hace lo mismo hacia atrás, devolviendo los resultados, uno tras otro. Ahora si ya lo entendí.
 
-* **funkydaniel** (2)
+* **funkydaniel** (2) [771074](https://platzi.com/comentario/771074/) 
 
-	
 	El ejemplo de la sucesión de Fibonacci incluyendo al 0. [ fibonacci(0) = 0 ]
 	
 	![c19.jpg](https://static.platzi.com/media/user_upload/c19-7643c3b4-79b7-49ab-9dcd-7f8c981106d6.jpg)
 
-* **carlosf3025** (2)
+* **carlosf3025** (2) [689365](https://platzi.com/comentario/689365/) 
 
-	
 	Como no había reto decidí hacer uno de los retos del principio que era implementar la sucesión de fibonacci
 	``` 
 	    <#include <stdlib.h>
@@ -44885,40 +43550,33 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	    
 	```
 
-	* **Jecsham Castillo** (1)
+	* **Jecsham Castillo** [689365] (1)
 
-		
 		Buen ejemplo
 
-* **jose ortiz** (2)
+* **jose ortiz** (2) [589656](https://platzi.com/comentario/589656/) 
 
-	
 	y como para que usariamos este concepto? algun ejemplo de buen uso de recursividad en alguna aplicacion?
 
-	* **sgermosen** (1)
+	* **sgermosen** [589656] (1)
 
-		
 		Buena pregunta, yo no tengo idea, estoy pendiente de este post,
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (4)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [589656] (4)
 
-		
 		La recursividad al ser un tema abstracto pueden no encontrarse aplicaciones de forma inmediata, sino que requieren de un análisis más detallado. En estos casos sus aplicaciones están más orientadas a la ingeniería de datos para encontrar datos específicos o incluso en la inteligencia artificial.
 
-	* **mauricio garcia** (1)
+	* **mauricio garcia** [589656] (1)
 
-		
 		un buen ejemplo donde lo he usado es en videojuegos. Usando el algoritmo A estrella (A *)  
 		<https://arongranberg.com/astar/>
 
-	* **8ajorgel** (1)
+	* **8ajorgel** [589656] (1)
 
-		
 		Te sirve mucho para algoritmos
 
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [479819](https://platzi.com/comentario/479819/) 
 
-	
 	Un pequeño aporte:
 	``` 
 	    1#include<stdio.h>
@@ -44944,50 +43602,44 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	    
 	```
 
-* **Brando Javier Caiza Freire** (1)
+* **Brando Javier Caiza Freire** (1) [1098309](https://platzi.com/comentario/1098309/) 
 
-	
 	Casi no entendi. Sirvió mucho lo del oso come miel
 
-* **JobForero** (1)
-![Screenshot_1_recursividad.png](https://static.platzi.com/media/user_upload/Screenshot_1_recursividad-a0880339-cf75-4d84-a2d1-ec2dcb2d7651.jpg)
+* **JobForero** (1) [1080693](https://platzi.com/comentario/1080693/) 
+	
+	![Screenshot_1_recursividad.png](https://static.platzi.com/media/user_upload/Screenshot_1_recursividad-a0880339-cf75-4d84-a2d1-ec2dcb2d7651.jpg)
 
-* **paola-diaz361** (1)
-![recursividad1.PNG](https://static.platzi.com/media/user_upload/recursividad1-b63b6557-824c-47f3-ade5-00142cbd3a3d.jpg)
+* **paola-diaz361** (1) [1067809](https://platzi.com/comentario/1067809/) 
+	
+	![recursividad1.PNG](https://static.platzi.com/media/user_upload/recursividad1-b63b6557-824c-47f3-ade5-00142cbd3a3d.jpg)
 
-	* **santi-cardoso** (2)
+	* **santi-cardoso** [1067809] (2)
 
-		
 		sos una genia, veo que haces todos los retos, a mi no me sale ni uno, estoy muy frustrado, como haces? estudias una carrera de IT?
 
-	* **paola-diaz361** (2)
+	* **paola-diaz361** [1067809] (2)
 
-		
 		Mira que al principio me pasaba lo mismo que tu, después me sentaba en mi cama a estudiar toda la noche cuando no hay ruido y tengo màs concentración y aparte de hacer los retos, hago los mismos ejercicios que la tutora, primero hago lo mismo que ella y voy entendiendo como funciona y después realizo los retos, mira que ella coloca los retos de acuerdo a lo que nos enseña. SI YO PUEDO, TU TAMBIÉN PUEDES, NUNCA TE LIMITES, LOS LIMITES LOS CREAMOS EN NUESTRA MENTE. si necesitas cualquier cosa, házmelo saber. Saludos!! 😃
 
-	* **santi-cardoso** (2)
+	* **santi-cardoso** [1067809] (2)
 
-		
 		Hola Paola, gracias por la respuesta, yo entiendo todo, la sintaxis, las variables, y estudio, leo pero cuando tengo que resolver la logica de los retos me quedo estancado, hace mucho que no veo matematicas, desde el secundario, y no se que hacer porque me encanta todo esto pero asi me conozca todos los programas y me sepa de memoria todo, si no puedo resolver logicamente las cosas, ninguna empresa me va a tomar. gracias por tu tiempo
 
-	* **Andrés Campuzano Garzón** (3)
+	* **Andrés Campuzano Garzón** [1067809] (3)
 
-		
 		Hola Santi, Yo justamente hace unos meses me sentía como tu, tenia poco conocimiento y no entendía nada, hasta que me decidí por practicar lo poco que había aprendido y lo hice a través del modulo de javascript de [freecodecamp](https://www.freecodecamp.org/learn). Después de esto conceptos como recursividad o incluso temas más avanzados se me hacían mucho más fáciles de entender. El código no es más que solo practica y practica. A medida que desarrolles esto, nuevos conceptos serán más fáciles de asimilar, recuerda que el cerebro es como un musculo, hay que ejercitarlo. Saludos y felicitaciones a Paola.
 
-	* **santi-cardoso** (2)
+	* **santi-cardoso** [1067809] (2)
 
-		
 		Muchas gracias Andres!
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1067803](https://platzi.com/comentario/1067803/) 
 
-	
 	Muy chevere el Giff, aprendi mucho, gracias Dani 😃
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [1044554](https://platzi.com/comentario/1044554/) 
 
-	
 	Ejercicio en clase:
 	``` 
 	    #include <stdio.h>
@@ -45033,41 +43685,34 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	    
 	```
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1028418](https://platzi.com/comentario/1028418/) 
 
-	
 	Un poco perdido en el concepto solo entendi que se repite dicha funcion.
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1027648](https://platzi.com/comentario/1027648/) 
 
-	
 	Hay que ver el segmento del vídeo, en la parte de factorial varias veces para comprender aunque omite partes que no explica.  
 	¡¡¡Tengo que repasar conceptos de matemáticas que curso recomiendan gracias!!!?
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [1027648] (1)
 
-		
 		Hola Pedro!  
 		Creo que el [Curso de Fundamentos de Matemática](https://platzi.com/clases/fundamentos-matematicas/) te ayudará! Incluso la factorización se explica en este curso!
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1019777](https://platzi.com/comentario/1019777/) 
 
-	
 	Que nivel! Logre entender el paso a paso.
 
-* **andresargote** (1)
+* **andresargote** (1) [1000474](https://platzi.com/comentario/1000474/) 
 
-	
 	Interesante a seguir estudiandolo para tenerlo más claro!!
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [982084](https://platzi.com/comentario/982084/) 
 
-	
 	Excelente clase, entender Recursividad de la manera más sencilla.
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [966209](https://platzi.com/comentario/966209/) 
 
-	
 	Recursividad
 	``` 
 	    #include<stdio.h>
@@ -45111,76 +43756,66 @@ Espero que esta última recapitulación te haya servido para reafirmar los conce
 	    
 	```
 
-* **Daniel_RiveraB** (1)
+* **Daniel_RiveraB** (1) [960725](https://platzi.com/comentario/960725/) 
 
-	
 	Que buen gif jajaj
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [946488](https://platzi.com/comentario/946488/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [937675](https://platzi.com/comentario/937675/) 
 
-	
 	jajaja ese Gif es super
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [906191](https://platzi.com/comentario/906191/) 
 
-	
 	Con el gif quedó mas claro 😃
 
-* **laj-lukum** (1)
-![Capture25.PNG](https://static.platzi.com/media/user_upload/Capture25-b14a2d81-e009-41a6-b5fe-27ffe01fb689.jpg)
-
-* **Carlos Arturo Gutierrez Gonzalez** (1)
-
+* **laj-lukum** (1) [853120](https://platzi.com/comentario/853120/) 
 	
+	![Capture25.PNG](https://static.platzi.com/media/user_upload/Capture25-b14a2d81-e009-41a6-b5fe-27ffe01fb689.jpg)
+
+* **Carlos Arturo Gutierrez Gonzalez** (1) [835657](https://platzi.com/comentario/835657/) 
+
 	La recursividad es aplicada a las ecuaciones muy seguido, puesto que estas pueden validarse hasta n numeros, algunos ejemplos son:
 	
-	  * Suma de los elementos de un vector
-	  * Busqueda binaria
-	  * Ordenación de numeros
+	* Suma de los elementos de un vector
+	* Busqueda binaria
+	* Ordenación de numeros
 	
 	
 	
 	Etc.
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [759672](https://platzi.com/comentario/759672/) 
 
-	
 	Buen ejemplo el gif!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [682210](https://platzi.com/comentario/682210/) 
 
-	
 	Entendido, los que no les quedo bien claro el concepto, les invito a googlearlo y probar, nunca esta de más. #NuncaParenDeAprender
 
-* **Camilo Andres Ossa Rpo** (1)
+* **Camilo Andres Ossa Rpo** (1) [639644](https://platzi.com/comentario/639644/) 
 
-	
 	La explicacion por parte de la tutora muy volada, le faltó un poco mas de metedologia para hacer entender el concepto mas facil
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [542387](https://platzi.com/comentario/542387/) 
 
-	
 	Excelente tema, hasta ahora lo escucho, espero en el futuro poder desarrollar programas utilizando recursividad.
 
-* **henrytabimagiraldo** (1)
+* **henrytabimagiraldo** (1) [513860](https://platzi.com/comentario/513860/) 
 
-	
 	Esta clase me pareció especialmente interesante :3
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [86918](https://platzi.com/comentario/1107949/) 
 Alguien me puede explicar que función cumple return n en esta parte, return n * factorial(n-1); me confunde si en ese punto return n vale...
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [83717](https://platzi.com/comentario/1033216/) 
 Tengo dos dudas: En el primer return del if los resultados se van almacenando en la variable result? Me quedé cuando ll...
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [83717] (2)
 
-		
 		Hola @jmcaro!
 		
 		  1. En el return del IF, es como si esto pasara:  
@@ -45229,7 +43864,7 @@ Tengo dos dudas: En el primer return del if los resultados se van almacenando en
 		    
 		```
 		
-		  * Comienzas **del último al primero**. Por lo tanto, reemplazando el quinto retorno (el último), tenemos:  
+		* Comienzas **del último al primero**. Por lo tanto, reemplazando el quinto retorno (el último), tenemos:  
 		5º return
 		
 		
@@ -45272,12 +43907,11 @@ Tengo dos dudas: En el primer return del if los resultados se van almacenando en
 		Y listo! Tienes el factorial de 5 😃 Ahora si el valor es pasado a variable result de la función main.  
 		Espero que te ayude 😉
 
-* **Marco Nicolas Pardo Salamanca** (1)
+* **Marco Nicolas Pardo Salamanca** (1) [81664](https://platzi.com/comentario/986388/) 
 No me queda claro lo de return 1, ya que en ningún momento veo que se sume nada pero aún así de la respuesta, si alguien me puede explica...
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [81664] (2)
 
-		
 		Hola Marcos!!  
 		Eso es porque cuando llamamos a la función Factorial, pasamos un número “ **n** ” como parámetro.
 		
@@ -45289,15 +43923,14 @@ No me queda claro lo de return 1, ya que en ningún momento veo que se sume nada
 		
 		Espero que te ayude! 😉
 
-* **jose ortiz** (1)
+* **jose ortiz** (1) [59303](https://platzi.com/comentario/589656/) 
 y como para que usariamos este concepto? algun ejemplo de buen uso de recursividad en alguna aplicacion?
 
-	* **sgermosen** (1)
+	* **sgermosen** [59303] (1)
 
-		
 		Buena pregunta, yo no tengo idea, estoy pendiente de este post,
 
-## 0240. Apuntadores
+## 0240. Apuntadores [16483](https://platzi.com/clases/1450-programacion-estructurada/16483-apuntadores0841/)
 
 ### Descripción:
 
@@ -45306,16 +43939,15 @@ Un **apuntador** es una variable que guarda la dirección de memoria de otra var
 
 Las direcciones de memoria se suelen describir como números en hexadecimal. Un **apuntador** es una variable cuyo valor es la dirección de memoria de otra variable. Se dice que un apuntador “apunta” a la variable cuyo valor se almacena a partir de la dirección de memoria que contiene el apuntador.
 
-  * El operador de dirección (&) regresa la dirección de una variable.
-  * El operador de indirección (*) toma la dirección de una variable y regresa el dato que contiene esa dirección.
+* El operador de dirección (&) regresa la dirección de una variable.
+* El operador de indirección (*) toma la dirección de una variable y regresa el dato que contiene esa dirección.
 
 
 
 ### Comentarios:
 
-* **BitCharly** (10)
+* **BitCharly** (10) [579146](https://platzi.com/comentario/579146/) 
 
-	
 	Apuntadores o Pointers
 	``` 
 	    int *p;
@@ -45345,25 +43977,21 @@ Las direcciones de memoria se suelen describir como números en hexadecimal. Un 
 	    
 	```
 
-	* **José Padrón** (2)
+	* **José Padrón** [579146] (2)
 
-		
 		Buen aporte. Gracias
 
-	* **arlex_ee10** (1)
+	* **arlex_ee10** [579146] (1)
 
-		
 		Gracias
 
-* **Kerohuixco** (9)
+* **Kerohuixco** (9) [505861](https://platzi.com/comentario/505861/) 
 
-	
 	![](https://i.ibb.co/zNFXvjc/24-Apuntadores-y-dirccionamiento.gif)  
 	[**Más información da click aquí**](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C/Punteros)
 
-* **Juan Antonio Oriza** (8)
+* **Juan Antonio Oriza** (8) [943806](https://platzi.com/comentario/943806/) 
 
-	
 	Yo entendí los apuntadores haciendo una analogía con Naruto:
 	
 	  1. La variable normal es el Biju.
@@ -45373,19 +44001,16 @@ Las direcciones de memoria se suelen describir como números en hexadecimal. Un 
 	
 	
 
-	* **Junino** (1)
+	* **Junino** [943806] (1)
 
-		
 		Y decían que Naruto no iba a servir para nada, buena esa 😉
 
-	* **Daniel_RiveraB** (1)
+	* **Daniel_RiveraB** [943806] (1)
 
-		
 		Que buena jajja
 
-* **kenygg7** (7)
+* **kenygg7** (7) [484369](https://platzi.com/comentario/484369/) 
 
-	
 	Investigue un poco más acerca de apuntadores, y me tope con la manera de imprimir la posición en memoria. Hay dos opciones.
 	``` 
 	    float val;
@@ -45400,12 +44025,11 @@ Las direcciones de memoria se suelen describir como números en hexadecimal. Un 
 	    return 0;
 	```
 
-* **JergCode** (3)
+* **JergCode** (3) [868275](https://platzi.com/comentario/868275/) 
 Un tema algo confuso, entiendo como se usa pero no entiendo que uso se puede dar, comenta que hay que tener cuidado con la libertad en que lo usamos pero como para que usaría un apuntador en vez de usar la misma variable?
 
-	* **Cristian Andrés Córdova Valencia** (2)
+	* **Cristian Andrés Córdova Valencia** [868275] (2)
 
-		
 		Entiendo que hace la misma funcionalidad que cuando en un sistema operativo haces un “acceso directo” a algo o un enlace.  
 		Así no tienes que ir hasta la carpeta de instalación para abrir un programa sino que desde donde tengas ese acceso directo puedes abrir el programa.
 		
@@ -45413,30 +44037,26 @@ Un tema algo confuso, entiendo como se usa pero no entiendo que uso se puede dar
 		
 		Saludos.
 
-* **Martinez Palacios** (3)
+* **Martinez Palacios** (3) [746909](https://platzi.com/comentario/746909/) 
 
-	
 	Excelente clase, lastima que en este curso no se vaya a ver temas de asignación dinámica de memoria con malloc y calloc.
 
-	* **Jecsham Castillo** (1)
+	* **Jecsham Castillo** [746909] (1)
 
-		
 		Wow! Ideal para investigar más!
 
-* **8ajorgel** (2)
+* **8ajorgel** (2) [978409](https://platzi.com/comentario/978409/) 
 
-	
 	Estuvo un poco confuso el uso de lo apuntadores.  
 	Alguien que ayude 😄
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1109123](https://platzi.com/comentario/1109123/) 
 
-	
 	 **`Un apuntador es:`** una variable que puede contener números, pero a diferencia de una variable de tipo entero el puntero no puede contener un numero cualquiera solamente puede contener números que correspondan a una dirección de memoria.
 	
 	En este caso la variable apVal apunta a la dirección de memoria de val, por eso cualquier numero que se asigne a apVal sera imprimido por la variable val.
 	
-	  * Uno de sus usos cuando queremos hacer referencias y crear memoria extra con variables. Es mas común en C.
+	* Uno de sus usos cuando queremos hacer referencias y crear memoria extra con variables. Es mas común en C.
 	
 	
 	``` 
@@ -45447,25 +44067,25 @@ Un tema algo confuso, entiendo como se usa pero no entiendo que uso se puede dar
 	    
 	```
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1109107](https://platzi.com/comentario/1109107/) 
 
-	
 	En estos enlaces esta una explicación un poco mas amplia de los apuntadores:
 	
-	  * <https://platzi.com/clases/1740-lenguaje-c/24212-punteros/>
-	  * <https://platzi.com/clases/1740-lenguaje-c/24213-usos-practicos-de-los-punteros/>
+	* <https://platzi.com/clases/1740-lenguaje-c/24212-punteros/>
+	* <https://platzi.com/clases/1740-lenguaje-c/24213-usos-practicos-de-los-punteros/>
 	
 	
 
-* **JobForero** (1)
-![Screenshot_1_apuntador.png](https://static.platzi.com/media/user_upload/Screenshot_1_apuntador-0150d7bf-31e2-4c51-9c69-5b0d75dc167d.jpg)
-
-* **paola-diaz361** (1)
-![apuntadores1.PNG](https://static.platzi.com/media/user_upload/apuntadores1-c7cff59c-4280-4538-92c7-b0be399b64b8.jpg)
-
-* **Ricardo Andres Rojas Alonso** (1)
-
+* **JobForero** (1) [1080734](https://platzi.com/comentario/1080734/) 
 	
+	![Screenshot_1_apuntador.png](https://static.platzi.com/media/user_upload/Screenshot_1_apuntador-0150d7bf-31e2-4c51-9c69-5b0d75dc167d.jpg)
+
+* **paola-diaz361** (1) [1068121](https://platzi.com/comentario/1068121/) 
+	
+	![apuntadores1.PNG](https://static.platzi.com/media/user_upload/apuntadores1-c7cff59c-4280-4538-92c7-b0be399b64b8.jpg)
+
+* **Ricardo Andres Rojas Alonso** (1) [1044628](https://platzi.com/comentario/1044628/) 
+
 	Ejercicio en clase entendido:
 	``` 
 	    #include<stdio.h>
@@ -45497,49 +44117,40 @@ Un tema algo confuso, entiendo como se usa pero no entiendo que uso se puede dar
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1044250](https://platzi.com/comentario/1044250/) 
 
-	
 	esta un poco confuso pero se entiende,
 
-* **johngiraldo** (1)
+* **johngiraldo** (1) [1031439](https://platzi.com/comentario/1031439/) 
 
-	
 	Un apuntador guarda la dirección de memoria de otra variable. Es decir apunta a otra variable.
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1028431](https://platzi.com/comentario/1028431/) 
 
-	
 	Muchas Gracias 😃
 
-* **angie Cortes Montaño** (1)
+* **angie Cortes Montaño** (1) [1027831](https://platzi.com/comentario/1027831/) 
 
-	
 	excelente explicación
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1027709](https://platzi.com/comentario/1027709/) 
 
-	
 	Entendido el concepto de apuntadores 😃
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1019922](https://platzi.com/comentario/1019922/) 
 
-	
 	Entendido apuntadores 👍👍😉
 
-* **josadecpedraza** (1)
+* **josadecpedraza** (1) [1019747](https://platzi.com/comentario/1019747/) 
 
-	
 	Genial 😃
 
-* **andresargote** (1)
+* **andresargote** (1) [1001112](https://platzi.com/comentario/1001112/) 
 
-	
 	Muy interesante!!
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [1000913](https://platzi.com/comentario/1000913/) 
 
-	
 	Esta es un código explicado
 	``` 
 	    #include<stdlib.h>
@@ -45574,42 +44185,38 @@ Un tema algo confuso, entiendo como se usa pero no entiendo que uso se puede dar
 	    
 	```
 
-	* **Leisy Karina Algarra Fernandez** (1)
+	* **Leisy Karina Algarra Fernandez** [1000913] (1)
 
-		
 		Genial! Gracias
 
-* **ricardo-andres-pabon-rincon** (1)
+* **ricardo-andres-pabon-rincon** (1) [990586](https://platzi.com/comentario/990586/) 
 
-	
 	Los apuntadores aplican para todos los lenguajes de programación o solo para c++.
 
-	* **Fabrizio López** (1)
+	* **Fabrizio López** [990586] (1)
 Pues, los únicos lenguajes que conozco que utilizan punteros son C y C++. En los lenguajes de más alto nivel los punteros se usan de forma implícita. El compilador o intérprete hace eso por ti. El programador no maneja de forma directa las direcciones de memoria. Esto puede ser una ventaja o desventaja dependiendo dependiendo de los requerimientos que necesites para tu programa.
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [982108](https://platzi.com/comentario/982108/) 
 
-	
 	¿En qué casos se usan los apuntadores?. ¿Alguno lo ha usado?
 
-* **wilantury** (1)
+* **wilantury** (1) [979153](https://platzi.com/comentario/979153/) 
 
-	
-	  * Lo que entiendo es que el apuntador debe guardar o tener una dirección de otra variable, y entonces el apuntador ya tiene acceso a esa variable, es decir puede escribir o leer en la dirección de la otra variable.
-	  * El apuntador no está diseñado para guardar información como una variable normal, solo apunta a la dirección que memoria que le asignemos, y entonces tendrá acceso a ella.
-	
-	
-
-* **wilantury** (1)
-
-	  * Operador de indirección: toma la dirección de una variable y regresa el dato que contiene esa dirección.
+	* Lo que entiendo es que el apuntador debe guardar o tener una dirección de otra variable, y entonces el apuntador ya tiene acceso a esa variable, es decir puede escribir o leer en la dirección de la otra variable.
+	* El apuntador no está diseñado para guardar información como una variable normal, solo apunta a la dirección que memoria que le asignemos, y entonces tendrá acceso a ella.
 	
 	
 
-* **wilantury** (1)
+* **wilantury** (1) [979135](https://platzi.com/comentario/979135/) 
 
-	  * Un apuntador es una variable que guarda la dirección de memoria de otra variable.
-	  * Con el simbolo & podemos obtener la dirección de la variable. &variable.  
+	* Operador de indirección: toma la dirección de una variable y regresa el dato que contiene esa dirección.
+	
+	
+
+* **wilantury** (1) [979126](https://platzi.com/comentario/979126/) 
+
+	* Un apuntador es una variable que guarda la dirección de memoria de otra variable.
+	* Con el simbolo & podemos obtener la dirección de la variable. &variable.  
 	Con éste código:
 	
 	
@@ -45627,17 +44234,16 @@ Pues, los únicos lenguajes que conozco que utilizan punteros son C y C++. En lo
 	Direccion de la variable: 6356732 --> Valor guardado en la variable: 5  
 	Process returned 0 (0x0) execution time : 0.064 s```
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [946580](https://platzi.com/comentario/946580/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **laj-lukum** (1)
-![Capture24.PNG](https://static.platzi.com/media/user_upload/Capture24-0bc89475-a2c5-44cd-b59a-c0b11c49697e.jpg)
-
-* **Wilson Perez** (1)
-
+* **laj-lukum** (1) [853119](https://platzi.com/comentario/853119/) 
 	
+	![Capture24.PNG](https://static.platzi.com/media/user_upload/Capture24-0bc89475-a2c5-44cd-b59a-c0b11c49697e.jpg)
+
+* **Wilson Perez** (1) [819728](https://platzi.com/comentario/819728/) 
+
 	Ejercicio sobre apuntadores
 	``` 
 	    #include<stdio.h>
@@ -45676,64 +44282,55 @@ Pues, los únicos lenguajes que conozco que utilizan punteros son C y C++. En lo
 	
 	![](https://i.imgur.com/gg1wKqT.png)
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [682250](https://platzi.com/comentario/682250/) 
 
-	
 	Todo bien claro!💚
 
-* **Omar Mejia** (1)
+* **Omar Mejia** (1) [597243](https://platzi.com/comentario/597243/) 
 
-	
 	Perfectamente bien explicado, se menciona este mismo tema en otros cursos pero esta explicación es la mas clara.
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [542388](https://platzi.com/comentario/542388/) 
 
-	
 	Otro tema que hasta ahora lo escucho, está muy interesante.
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [494416](https://platzi.com/comentario/494416/) 
 
-	
 	¿Los apuntadores también se pueden usar en otros lenguajes? O ¿hay lenguajes en los cuales no se pueden usar?
 
-	* **Miguel Gil Rosas** (2)
+	* **Miguel Gil Rosas** [494416] (2)
 
-		
 		Un apuntador te permite manejar una referencia a un dato u objeto. En muchos lenguajes de más alto nivel que C no se te permite manejar punteros directamente pero cada vez que uses una referencia a un objeto (al pasarlo como parámetro, por ejemplo) los estás usando pero de forma supervisada por el intérprete/compilador.
 
-	* **Gerardo Jesús Mota Olguín** (1)
+	* **Gerardo Jesús Mota Olguín** [494416] (1)
 
-		
 		Lo más común es que encontremos los apuntadores en C y C#, en otros lenguajes como Python ya no es necesario que los utilices tu, el lenguaje es tan potente que lo hace implícitamente por ti!!!
 
-* **Juan Antonio Baracat** (1)
+* **Juan Antonio Baracat** (1) [466996](https://platzi.com/comentario/466996/) 
 
-	
 	Muy bien explicado y excelente ejemplo!
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [77570](https://platzi.com/comentario/906278/) 
 cUÁNDO ES ÚTIL USAR APUNTADORES, ?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [77570] (1)
 
-		
 		En estas dos clases se explican muy bien los usos prácticos de los punteros:
 		
 		👉 <https://platzi.com/clases/1740-lenguaje-c/24212-punteros/>  
 		👉 <https://platzi.com/clases/1740-lenguaje-c/24213-usos-practicos-de-los-punteros/>
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [76857](https://platzi.com/comentario/894302/) 
 Solo para estar claros. En el ejemplo que se explica en el video (apVal = &val;). estamos pasando la dirreción de memoria de val haci...
 
-* **Juan Camilo Lezcano Benitez** (1)
+* **Juan Camilo Lezcano Benitez** (1) [51660](https://platzi.com/comentario/494416/) 
 ¿Los apuntadores también se pueden usar en otros lenguajes? O ¿hay lenguajes en los cuales no se pueden usar?
 
-	* **Miguel Gil Rosas** (2)
+	* **Miguel Gil Rosas** [51660] (2)
 
-		
 		Un apuntador te permite manejar una referencia a un dato u objeto. En muchos lenguajes de más alto nivel que C no se te permite manejar punteros directamente pero cada vez que uses una referencia a un objeto (al pasarlo como parámetro, por ejemplo) los estás usando pero de forma supervisada por el intérprete/compilador.
 
-## 0250. Struct y manejo de archivos
+## 0250. Struct y manejo de archivos [16484](https://platzi.com/clases/1450-programacion-estructurada/16484-struct-y-manejo-de-archivos9517/)
 
 ### Descripción:
 
@@ -45741,16 +44338,15 @@ Solo para estar claros. En el ejemplo que se explica en el video (apVal = &val;)
  **Creación y apertura de archivos**  
 Parámetros para la función fopen():
 
-  * ““rb””: Abre un archivo en modo binario para lectura, el fichero debe existir.
-  * ““w””: Abrir un archivo en modo binario para escritura, se crea si no existe o se sobreescribe si existe.
+* ““rb””: Abre un archivo en modo binario para lectura, el fichero debe existir.
+* ““w””: Abrir un archivo en modo binario para escritura, se crea si no existe o se sobreescribe si existe.
 
 
 
 ### Comentarios:
 
-* **Manuel Alejandro Aguilar Téllez Girón** (4)
+* **Manuel Alejandro Aguilar Téllez Girón** (4) [480122](https://platzi.com/comentario/480122/) 
 
-	
 	Una pequeña aportación:
 	``` 
 	    1#include<stdio.h>
@@ -45799,72 +44395,63 @@ Parámetros para la función fopen():
 	    
 	```
 
-	* **Martinez Palacios** (1)
+	* **Martinez Palacios** [480122] (1)
 
-		
 		Exactamente, siempre que veo que hay personas que dicen que en C no se puede hacer programación orientada a objetos es porque no conocen este bello lenguaje. Claro que le falta muchas cosas para que sea completamente orientado a objetos, pero tiene lo suyo.
 
-* **Wandy Rafael Santana Evangelista** (3)
+* **Wandy Rafael Santana Evangelista** (3) [682390](https://platzi.com/comentario/682390/) 
 
-	
 	 **Código de la clase:**  
 	![Screen Shot 2019-08-09 at 12.03.26 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-09%20at%2012.03.26%20PM-d44d02a9-d452-445c-b901-6dbdde0a5b25.jpg)
 
-* **orianasuljeisposadamolina** (2)
+* **orianasuljeisposadamolina** (2) [1111653](https://platzi.com/comentario/1111653/) 
 
+	* El estándar de C contiene varias funciones para la edición de ficheros, éstas están definidas en la cabecera stdio.h y por lo general empiezan con la letra f, haciendo referencia a file.
 	
-	  * El estándar de C contiene varias funciones para la edición de ficheros, éstas están definidas en la cabecera stdio.h y por lo general empiezan con la letra f, haciendo referencia a file.
+	* Adicionalmente se agrega un tipo FILE, el cual se usará como apuntador a la información del fichero. La secuencia que usaremos para realizar operaciones será la siguiente: _
 	
-	  * Adicionalmente se agrega un tipo FILE, el cual se usará como apuntador a la información del fichero. La secuencia que usaremos para realizar operaciones será la siguiente: _
-	
-	  * Crear un apuntador del tipo FILE *  
+	* Crear un apuntador del tipo FILE *  
 	Abrir el archivo utilizando la función fopen y asignándole el resultado de la llamada a nuestro apuntador.  
 	Hacer las diversas operaciones (lectura, escritura, etc).
 	
-	  * Cerrar el archivo utilizando la función fclose.
+	* Cerrar el archivo utilizando la función fclose.
 	
 	
 	
 
-* **orianasuljeisposadamolina** (2)
+* **orianasuljeisposadamolina** (2) [1111651](https://platzi.com/comentario/1111651/) 
 
-	
 	**fopen**  
 	Esta función sirve para abrir y crear ficheros en disco.  
 	**fclose**  
 	Esta función sirve para poder cerrar un fichero que se ha abierto.
 
-* **orianasuljeisposadamolina** (2)
+* **orianasuljeisposadamolina** (2) [1109246](https://platzi.com/comentario/1109246/) 
 
-	
 	(![struc estructura de datos ejemplo.png](https://static.platzi.com/media/user_upload/struc%20estructura%20de%20datos%20ejemplo-3b12d996-d351-4265-9922-5aa25f03b3d7.jpg)
 
-* **paola-diaz361** (2)
-![estructuraDeDatos1.PNG](https://static.platzi.com/media/user_upload/estructuraDeDatos1-2a5a5662-cbc9-4a9a-826f-aaca9865e8bf.jpg)
-
-* **Merlyn Rodriguez** (2)
-
+* **paola-diaz361** (2) [1068249](https://platzi.com/comentario/1068249/) 
 	
+	![estructuraDeDatos1.PNG](https://static.platzi.com/media/user_upload/estructuraDeDatos1-2a5a5662-cbc9-4a9a-826f-aaca9865e8bf.jpg)
+
+* **Merlyn Rodriguez** (2) [946594](https://platzi.com/comentario/946594/) 
+
 	dos puntos por termina de ver el video :v
 
-* **Henry Gutierrez Mora** (2)
+* **Henry Gutierrez Mora** (2) [906323](https://platzi.com/comentario/906323/) 
 
-	
 	Interesante, en que casos prácticos o escenarios actuales podría utilizarse ?
 
-	* **Julián Camilo Velandia Gutiérrez** (2)
+	* **Julián Camilo Velandia Gutiérrez** [906323] (2)
 
-		
 		Hola, los struct se utilizan cuando se quiere asignar más de un dato a una variable, por ejemplo si estas haciendo una agenda puedes guardar el teléfono, la dirección, la edad etc… bajo el mismo nombre de usuario y los archivos para persistencia de datos
 
-* **Wilson Perez** (2)
+* **Wilson Perez** (2) [824056](https://platzi.com/comentario/824056/) 
 
-	
 	Muy interesante el tema de manejo de archivos
 
-* **BitCharly** (2)
+* **BitCharly** (2) [579175](https://platzi.com/comentario/579175/) 
 
-	
 	Resumen:
 	
 	Si necesitamos combinar dos o mas tipos de daots para crear nuestro propio tipo de dato personalizado usamos:
@@ -45897,21 +44484,19 @@ Parámetros para la función fopen():
 	
 	Despues de haber usado el archivo debemos de “cerrar” el archivo. Por eso usamos: fclose(archivo);
 
-* **David Felipe Toro Cuervo** (2)
+* **David Felipe Toro Cuervo** (2) [83495](https://platzi.com/comentario/1028314/) 
 Wow!! eso si fue muy bueno. Me han surgido miles de preguntas, la mas importante es ¿Con que curso continuo esta linea de aprendizaje?.
 
-	* **Gabogoonies** (1)
+	* **Gabogoonies** [83495] (1)
 
-		
 		Programación orientada a Objetos , con este manejo te podras ir a java, python , javascript,php ,etc.  
 		Suerte Bro y sigue así
 
-* **Fidel Moises Apari Sanchez** (2)
+* **Fidel Moises Apari Sanchez** (2) [64185](https://platzi.com/comentario/671741/) 
 Habria alguna manera de que pueda crear un archivo en una carpeta que deseara?? 😄
 
-	* **luisrovez** (4)
+	* **luisrovez** [64185] (4)
 
-		
 		Claro que se puede, por defecto se guarda en la ruta donde tienes tu código C, para poder guardarlo en otra carpeta debes ingresar la ruta donde deseas crear el archivo o donde esta el archivo.
 		``` 
 		    fopen("../carpeta/subcarpeta/archivo.dat", "r");
@@ -45920,15 +44505,16 @@ Habria alguna manera de que pueda crear un archivo en una carpeta que deseara?? 
 		
 		Recuerda que debes salir de la carpeta actual para entrar a otra con `../`o si esta en la misma carpeta es con `./`
 
-* **JobForero** (1)
-![Screenshot_1_archivo.png](https://static.platzi.com/media/user_upload/Screenshot_1_archivo-8af9e766-1523-4633-8a1d-82d0cac3fa04.jpg)
-
-* **paola-diaz361** (1)
-![crearArchivo1.PNG](https://static.platzi.com/media/user_upload/crearArchivo1-62ea3453-4db6-448f-95f1-6cb588d45cbd.jpg)
-
-* **Ricardo Andres Rojas Alonso** (1)
-
+* **JobForero** (1) [1080978](https://platzi.com/comentario/1080978/) 
 	
+	![Screenshot_1_archivo.png](https://static.platzi.com/media/user_upload/Screenshot_1_archivo-8af9e766-1523-4633-8a1d-82d0cac3fa04.jpg)
+
+* **paola-diaz361** (1) [1068658](https://platzi.com/comentario/1068658/) 
+	
+	![crearArchivo1.PNG](https://static.platzi.com/media/user_upload/crearArchivo1-62ea3453-4db6-448f-95f1-6cb588d45cbd.jpg)
+
+* **Ricardo Andres Rojas Alonso** (1) [1044685](https://platzi.com/comentario/1044685/) 
+
 	Ejercicio en clase entendido:
 	``` 
 	    #include<stdio.h>
@@ -45978,34 +44564,28 @@ Habria alguna manera de que pueda crear un archivo en una carpeta que deseara?? 
 	    
 	```
 
-* **rigiba** (1)
+* **rigiba** (1) [1044271](https://platzi.com/comentario/1044271/) 
 
-	
 	Muchas gracias por la explicacion quedo super claro el struct
 
-* **GadielWisar** (1)
+* **GadielWisar** (1) [1040641](https://platzi.com/comentario/1040641/) 
 
-	
 	Excelente maestra!
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1028455](https://platzi.com/comentario/1028455/) 
 
-	
 	Muchas Gracias que buen contenido
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1020475](https://platzi.com/comentario/1020475/) 
 
-	
 	Otra forma que no conocía para crear archivos, se parece mucho a linux.
 
-* **andresargote** (1)
+* **andresargote** (1) [1001118](https://platzi.com/comentario/1001118/) 
 
-	
 	Bastante interesante!!
 
-* **andresargote** (1)
+* **andresargote** (1) [1001114](https://platzi.com/comentario/1001114/) 
 
-	
 	Ejemplo de estructura de datos
 	``` 
 	    <code>
@@ -46044,9 +44624,8 @@ Habria alguna manera de que pueda crear un archivo en una carpeta que deseara?? 
 	    
 	```
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [1000953](https://platzi.com/comentario/1000953/) 
 
-	
 	Ejemplo de estructura
 	``` 
 	    #include<stdio.h>
@@ -46086,69 +44665,58 @@ Habria alguna manera de que pueda crear un archivo en una carpeta que deseara?? 
 	    
 	```
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [982185](https://platzi.com/comentario/982185/) 
 
-	
 	En mi caso, he tenido que colocar toda la ruta hasta la carpeta donde se encuentra el archivo. Inicialmente me creaba el archivo en la raíz.
 
-* **wilantury** (1)
+* **wilantury** (1) [979182](https://platzi.com/comentario/979182/) 
 
-	
-	  * Las estructuras struct son conjuntos de datos que aceptan diferentes tipos de variables.
+	* Las estructuras struct son conjuntos de datos que aceptan diferentes tipos de variables.
 	
 	
 
-* **Ramón Ruiz** (1)
+* **Ramón Ruiz** (1) [899017](https://platzi.com/comentario/899017/) 
 
-	
 	Struct es igual a un objeto? o que lo diferencia?
 
-	* **Jose Alfredo Vallejo Contreras** (4)
+	* **Jose Alfredo Vallejo Contreras** [899017] (4)
 
-		
 		Hola Juan, la diferencia mas notable es que un objeto puede tener comportamientos o funciones, mientras que esta struct solo son una serie de variables de distintos tipos pero agrupadas bajo un nombre en comun,
 
-	* **Ramón Ruiz** (2)
+	* **Ramón Ruiz** [899017] (2)
 
-		
 		Okay muchas gracias!! Jose.
 
-* **laj-lukum** (1)
-![Capture26.PNG](https://static.platzi.com/media/user_upload/Capture26-e4fbc5bf-edcb-4434-b629-56fc8137700f.jpg)
-
-* **Carlos Arturo Gutierrez Gonzalez** (1)
-
+* **laj-lukum** (1) [853423](https://platzi.com/comentario/853423/) 
 	
+	![Capture26.PNG](https://static.platzi.com/media/user_upload/Capture26-e4fbc5bf-edcb-4434-b629-56fc8137700f.jpg)
+
+* **Carlos Arturo Gutierrez Gonzalez** (1) [835740](https://platzi.com/comentario/835740/) 
+
 	Excelente
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [835739](https://platzi.com/comentario/835739/) 
 
-	
 	Es muy útil esta clase
 
-* **franciscovelsa** (1)
+* **franciscovelsa** (1) [797251](https://platzi.com/comentario/797251/) 
 
-	
 	Excelente Maestra!
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [696287](https://platzi.com/comentario/696287/) 
 
-	
 	Excelente, solo que el archivo no tiene contenido.
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [502314](https://platzi.com/comentario/502314/) 
 
-	
 	hola cuanto es el porcentaje para aprobar el curso, porque saque 8.93 y no aprobe
 
-	* **DonPablito** (2)
+	* **DonPablito** [502314] (2)
 
-		
 		Tu Calificación >= 90% , para aprobar.
 
-* **edgar-del-castillo** (1)
+* **edgar-del-castillo** (1) [492111](https://platzi.com/comentario/492111/) 
 
-	
 	mi codigo:
 	
 	<  
@@ -46188,39 +44756,36 @@ Habria alguna manera de que pueda crear un archivo en una carpeta que deseara?? 
 	
 	> 
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [86961](https://platzi.com/comentario/1109253/) 
 Alguien me podría explicar con cual de las funciones como tal se creo la carpeta e hizo que guardara ahí? por favor.
 
-* **Emmanuel García** (1)
+* **Emmanuel García** (1) [86075](https://platzi.com/comentario/1087513/) 
 ¿El comando “struct” es como el objeto en POO? 🤔
 
-	* **santgonzalez** (1)
+	* **santgonzalez** [86075] (1)
 
-		
 		Si pero no. No me acuerdo bien la explicacion, comparten caracteristicas similares pero no es POO
 
-* **santi-cardoso** (1)
+* **santi-cardoso** (1) [85504](https://platzi.com/comentario/1075506/) 
 Amigos, yo entiendo casi todo las funciones, las variables, etc pero a la hora de tener que hacer los retos no me sale, seguramente es po...
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [85504] (1)
 
-		
 		No es necesario que vayas por el profesor privado, tienes Platzi 💚 😄
 		
 		En [este Learning Path](https://platzi.com/matematicas-programacion/) puedes revisar el nivel básico y estarías más que listo 😄
 		
 		👉🏾 <https://platzi.com/matematicas-programacion/>
 
-## 0260. Escritura y lectura de archivos
+## 0260. Escritura y lectura de archivos [16485](https://platzi.com/clases/1450-programacion-estructurada/16485-escritura-y-lectura-de-archivos8463/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Fidel Moises Apari Sanchez** (5)
+* **Fidel Moises Apari Sanchez** (5) [671821](https://platzi.com/comentario/671821/) 
 
-	
 	Este codigo lo hice para crear un archivo .bat que escribe numeros al azar de color verde, dando un efecto de matrix 😄
 	``` 
 	    #include <stdio.h>
@@ -46248,9 +44813,8 @@ Amigos, yo entiendo casi todo las funciones, las variables, etc pero a la hora d
 	    
 	```
 
-* **hnavarrete** (3)
+* **hnavarrete** (3) [488800](https://platzi.com/comentario/488800/) 
 
-	
 	Como queda el código de ambos escenarios (escribir y leer):
 	``` 
 	    #include<stdio.h>
@@ -46312,14 +44876,12 @@ Amigos, yo entiendo casi todo las funciones, las variables, etc pero a la hora d
 	    
 	```
 
-* **Merlyn Rodriguez** (2)
+* **Merlyn Rodriguez** (2) [946618](https://platzi.com/comentario/946618/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [480156](https://platzi.com/comentario/480156/) 
 
-	
 	Escribiendo el archivo:
 	``` 
 	    1#include <stdio.h>
@@ -46386,35 +44948,33 @@ Amigos, yo entiendo casi todo las funciones, las variables, etc pero a la hora d
 	    
 	```
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1115137](https://platzi.com/comentario/1115137/) 
 
-	
 	Buenas!  
 	Tengo una duda, no terminé de entende por completo la funcion del tercer parámetro de “fwrite” y "fread"  
 	Agradecería que alguien me pudiera solucionar la duda  
 	Gracias 😄
 
-* **JobForero** (1)
-![Screenshot_1_misDatos_.png](https://static.platzi.com/media/user_upload/Screenshot_1_misDatos_-d6532fa1-3770-48f5-907d-274f27109fba.jpg)
-
-* **paola-diaz361** (1)
-![archivoRead.PNG](https://static.platzi.com/media/user_upload/archivoRead-4af2b72a-33b9-4d7e-be7e-2c9084819d6d.jpg)
-
-* **Leisy Karina Algarra Fernandez** (1)
-
+* **JobForero** (1) [1081101](https://platzi.com/comentario/1081101/) 
 	
+	![Screenshot_1_misDatos_.png](https://static.platzi.com/media/user_upload/Screenshot_1_misDatos_-d6532fa1-3770-48f5-907d-274f27109fba.jpg)
+
+* **paola-diaz361** (1) [1068774](https://platzi.com/comentario/1068774/) 
+	
+	![archivoRead.PNG](https://static.platzi.com/media/user_upload/archivoRead-4af2b72a-33b9-4d7e-be7e-2c9084819d6d.jpg)
+
+* **Leisy Karina Algarra Fernandez** (1) [1021123](https://platzi.com/comentario/1021123/) 
+
 	cree el archivo :  
 	archivo = fopen(“DatosPersonales001.dat”, “rb”);  
 	pero no lo pude abrir.
 
-	* **David Felipe Toro Cuervo** (1)
+	* **David Felipe Toro Cuervo** [1021123] (1)
 
-		
 		de pronto creaste una nueva carpeta al escribir el código para lectura de archivos, solo copia y pega el archivo creado en la carpeta de escritura de archivos en la que creaste para lectura de archivos y ya.
 
-* **andresargote** (1)
+* **andresargote** (1) [1001121](https://platzi.com/comentario/1001121/) 
 
-	
 	Creacion de archivo
 	``` 
 	    <code>
@@ -46467,14 +45027,12 @@ Amigos, yo entiendo casi todo las funciones, las variables, etc pero a la hora d
 	    
 	```
 
-* **andresargote** (1)
+* **andresargote** (1) [1001120](https://platzi.com/comentario/1001120/) 
 
-	
 	Wao!!, esto esta genial!!
 
-* **Juan Nuñez** (1)
+* **Juan Nuñez** (1) [1001032](https://platzi.com/comentario/1001032/) 
 
-	
 	Creación de archivo, Escritura y lectura usando funciones
 	``` 
 	    #include <stdio.h>
@@ -46551,58 +45109,51 @@ Amigos, yo entiendo casi todo las funciones, las variables, etc pero a la hora d
 	    
 	```
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [939511](https://platzi.com/comentario/939511/) 
 
-	
 	Grandioso 😃
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [906347](https://platzi.com/comentario/906347/) 
 
-	
 	Muy practico
 
-* **laj-lukum** (1)
+* **laj-lukum** (1) [853649](https://platzi.com/comentario/853649/) 
 
-	
 	Excelente.
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [836966](https://platzi.com/comentario/836966/) 
 
-	
 	Excelente clase!!
 
-* **santi-cardoso** (1)
+* **santi-cardoso** (1) [85506](https://platzi.com/comentario/1075546/) 
 No me sale para ingresar los datos, que estoy haciendo mal? #include <stdio.h> #include <stdlib.h> struct personalData { char...
 
-* **freddymm** (1)
+* **freddymm** (1) [72896](https://platzi.com/comentario/824927/) 
 ¿por que cuando intento leer el archivo que eh creado me salen caracteres raros, bien sea que lo abra con un editor de texto o con un scr...
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [72896] (2)
 
-		
 		Estas usando las funciones `fread` y `fwrite` que leen y escriben datos en **modo binario** , por lo cual el contenido del archivo no se puede visualizar con un editor de texto. Puedes probar la función `fscanf` y `fprintf` para leer y escribir en el archivo y podrás ver su contenido en cualquier editor de texto.  
 		<https://www.tutorialspoint.com/c_standard_library/c_function_fprintf.htm>  
 		<https://www.tutorialspoint.com/c_standard_library/c_function_fscanf.htm>
 
-* **Mateo Aquino** (1)
+* **Mateo Aquino** (1) [72211](https://platzi.com/comentario/812499/) 
 ¿De esta manera tan simple trabaja un virus sobrescribiendo archivos y borrando informacion?
 
-	* **Jose Padron (Platzi)** (1)
+	* **Jose Padron (Platzi)** [72211] (1)
 
-		
 		Existen muchos más tipos de virus informáticos 😉
 		
 		aca te dejo lo mas comunes: <https://smarterworkspaces.kyocera.es/blog/8-tipos-virus-informaticos-debes-conocer/>
 
-* **Manea luca cristian** (1)
+* **Manea luca cristian** (1) [69317](https://platzi.com/comentario/755199/) 
 tengo un problema al querer crear el archivo, me devuelve el siguiente error 26|error: ‘pers’ undeclared (first use in this function)| wa...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [69317] (1)
 
-		
 		Hola, según lo que muestras, el compilador indica que no se ha declarado la variable `pers`, recuerda que en C se deben declarar las variables antes de ser usadas. También, se muestran dos advertencias: 1) se ha declarado una variable llamada `datos` pero no se le da un uso y 2) hay una función declarada donde se especifica que retorna algo pero no devuelve nada (o se ha omitido la palabra reservada `return`).
 
-## 0270. Manejo de librerías
+## 0270. Manejo de librerías [16486](https://platzi.com/clases/1450-programacion-estructurada/16486-manejo-de-librerias2127/)
 
 ### Descripción:
 
@@ -46615,30 +45166,25 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 
 ### Comentarios:
 
-* **Carlos Daniel** (4)
+* **Carlos Daniel** (4) [514221](https://platzi.com/comentario/514221/) 
 
-	
 	en el examen coloque que nuestras librerias van entre comillas y me la marco como erronea.
 
-	* **karen-chavez** (1)
+	* **karen-chavez** [514221] (1)
 
-		
 		Me pasó igual
 
-* **GadielWisar** (3)
+* **GadielWisar** (3) [1041571](https://platzi.com/comentario/1041571/) 
 
-	
 	Excelente profe!
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1041571] (1)
 
-		
 		¡Qué genial que te haya gustado el curso, @GadielWisar!  
 		Cuéntanos, ¿qué módulo te agradó más? 😄
 
-* **Manuel Alejandro Aguilar Téllez Girón** (3)
+* **Manuel Alejandro Aguilar Téllez Girón** (3) [480228](https://platzi.com/comentario/480228/) 
 
-	
 	Clculadora:
 	``` 
 	    #include <stdio.h>
@@ -46709,85 +45255,71 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	    
 	```
 
-* **johngiraldo** (2)
+* **johngiraldo** (2) [1031576](https://platzi.com/comentario/1031576/) 
 
-	
 	Gracias >Mil>
 
-* **ervic_alexis** (2)
+* **ervic_alexis** (2) [837033](https://platzi.com/comentario/837033/) 
 
-	
 	Apuntes de clase:
 	
 	Liberia: Una librería es código de programación ya escrito; un conjunto de funciones independientes para solucionar para solucionar problemas concretos.
 
-* **AUGUSTO CACERES SUAREZ** (2)
+* **AUGUSTO CACERES SUAREZ** (2) [834541](https://platzi.com/comentario/834541/) 
 
-	
 	Me encanto de este curso la pedagogía usada por Daniela, me pareció excelente, fácil de entender, y enseñar por medio de retos es la mejor forma de enseñar. gracias.
 
-* **Martinez Palacios** (2)
+* **Martinez Palacios** (2) [746991](https://platzi.com/comentario/746991/) 
 
-	
 	Buen curso, yo ya sabía lenguaje C pero quería repasar y ver que cosas nuevas aprendía, y aprendí muchas cosas, sobre todo las ultimas clases.
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [746991] (1)
 
-		
 		El curso es increíble; yo lo terminé ayer 😄  
 		Es cierto, el curso topa temas muy interesantes en las últimas clases 😄
 
-* **Rivery2007** (1)
+* **Rivery2007** (1) [1115965](https://platzi.com/comentario/1115965/) 
 
-	
 	Muchas gracias, de verdad me sirvió mucho 😃)))))
 
-* **orianasuljeisposadamolina** (1)
+* **orianasuljeisposadamolina** (1) [1112579](https://platzi.com/comentario/1112579/) 
 
-	
 	Muchas gracias Daniela explica muy bien hubo una clase en la que me sentí perdida pero repase todas las anteriores y bien. Aprendí bien las bases y pude realizar todos los retos cosa que me hacia muy feliz sentí que aprendí. =)
 
-* **JobForero** (1)
+* **JobForero** (1) [1081111](https://platzi.com/comentario/1081111/) 
 
-	
 	Tremendo curso me encanto , logre reforzar puntos muy importante de la programación … Gracias 😃
 
-* **santi-cardoso** (1)
+* **santi-cardoso** (1) [1075600](https://platzi.com/comentario/1075600/) 
 
-	
 	Muy bueno el curso, recien empiezo en esto de la programacion pero la profesora explico todo muy claro.gracias
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [1070107](https://platzi.com/comentario/1070107/) 
 
-	
 	Gracias. Lo hice con javascript, me ayudó a reforzar conocimientos.
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1068906](https://platzi.com/comentario/1068906/) 
 
-	
 	Gracias Dani por las clases, estuvieron espectaculares 😉 aprendí demasiado, mil gracias PLATZI
 
-* **paola-diaz361** (1)
-![calculadora1.PNG](https://static.platzi.com/media/user_upload/calculadora1-c2fba870-c7f2-4e41-8ccc-6ee3685c81bf.jpg) ![calculadora2.PNG](https://static.platzi.com/media/user_upload/calculadora2-97637e48-733b-4cd9-9fd9-528ee8bda267.jpg) ![calculadora.PNG](https://static.platzi.com/media/user_upload/calculadora-950990d5-c1be-4fd0-a703-d935f2dc6ef8.jpg)
-
-* **Henry Sanchez** (1)
-
+* **paola-diaz361** (1) [1068905](https://platzi.com/comentario/1068905/) 
 	
+	![calculadora1.PNG](https://static.platzi.com/media/user_upload/calculadora1-c2fba870-c7f2-4e41-8ccc-6ee3685c81bf.jpg) ![calculadora2.PNG](https://static.platzi.com/media/user_upload/calculadora2-97637e48-733b-4cd9-9fd9-528ee8bda267.jpg) ![calculadora.PNG](https://static.platzi.com/media/user_upload/calculadora-950990d5-c1be-4fd0-a703-d935f2dc6ef8.jpg)
+
+* **Henry Sanchez** (1) [1066779](https://platzi.com/comentario/1066779/) 
+
 	Muchas gracias profe, me tomo tiempo para practicar los temas pero aprendí. super!
 
-* **David Alejandro Mosquera Moreno** (1)
+* **David Alejandro Mosquera Moreno** (1) [1066568](https://platzi.com/comentario/1066568/) 
 
-	
 	Tremendo curso!
 
-* **Divanatica** (1)
+* **Divanatica** (1) [1062595](https://platzi.com/comentario/1062595/) 
 
-	
 	Gracias Daniela! Este curso es el mejor que he visto hasta el momento, tienes una gran manera de enseñar. 😄 Quedo muy feliz y espero verte en nuevos cursos 😄
 
-* **Abdel Mejia** (1)
+* **Abdel Mejia** (1) [1034073](https://platzi.com/comentario/1034073/) 
 
-	
 	Los Header file o archivos con extensión ‘.h’ no son librerias en c
 	
 	Estos son intermediarios para el archivo donde lo utilizamos y la libreria estatica o dinamica, o por un archivo .c en donde tenemos la información completa que utilizamos.
@@ -46795,49 +45327,40 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	En el Header File colocamos prototipos, macros … etc  
 	para dar instrucciones al preprocesador en el proceso de compilación
 
-* **Juan Manuel Caro González** (1)
+* **Juan Manuel Caro González** (1) [1033530](https://platzi.com/comentario/1033530/) 
 
-	
 	Gracias Dani, excelente profe!
 
-* **Pedro Hernandez** (1)
+* **Pedro Hernandez** (1) [1031285](https://platzi.com/comentario/1031285/) 
 
-	
 	Gracias buen curso
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [1028529](https://platzi.com/comentario/1028529/) 
 
-	
 	Muchas Gracias Daniela , eres una buena maestra
 
-* **David Felipe Toro Cuervo** (1)
+* **David Felipe Toro Cuervo** (1) [1028450](https://platzi.com/comentario/1028450/) 
 
-	
 	Gracias por tan excelente curso!! todos los conceptos los he ido practicando a lo largo del curso. Excelente feedback cada clase con los retos.
 
-* **MarianaGb** (1)
+* **MarianaGb** (1) [1024540](https://platzi.com/comentario/1024540/) 
 
-	
 	Excelente curso. Gracias Daniela.
 
-* **Camilo Echeverry** (1)
+* **Camilo Echeverry** (1) [1022082](https://platzi.com/comentario/1022082/) 
 
-	
 	Excelente curso, Muchas gracias Daniela !
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [1021266](https://platzi.com/comentario/1021266/) 
 
-	
 	Que gran curso, aprendí mucho en poco tiempo. Con este curso cree y fortaleci mis bases en programación. 👍🎈
 
-* **Mayfra Useche** (1)
+* **Mayfra Useche** (1) [1017217](https://platzi.com/comentario/1017217/) 
 
-	
 	Excelente curso!!
 
-* **boristrochez** (1)
+* **boristrochez** (1) [1017110](https://platzi.com/comentario/1017110/) 
 
-	
 	#include <stdio.h>  
 	#include <stdlib.h>  
 	#include “operacionb13.h” //va entre comillas las librerias hechas por uno mismo
@@ -46893,81 +45416,66 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	
 	}
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [1008852](https://platzi.com/comentario/1008852/) 
 
-	
 	Muy buen curso!
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [1007617](https://platzi.com/comentario/1007617/) 
 
-	
 	muchas gracias ! aprendi bastante en este curso y ya pude resolver todas mis dudas en verdad gracias Daniela…
 
-* **MONICA VERDIN DIAZ** (1)
+* **MONICA VERDIN DIAZ** (1) [1005792](https://platzi.com/comentario/1005792/) 
 
-	
 	¡Me sirvió y me gusto mucho! Muchas gracias Daniela 😃
 
-* **Cegador** (1)
+* **Cegador** (1) [1004231](https://platzi.com/comentario/1004231/) 
 
-	
 	Gracias por tu conocimiento, Daniela. Un saludo. 😃
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [1004231] (1)
 
-		
 		¡Qué genial que te haya gustado el curso, @Cegador!  
 		Cuéntanos, ¿cuál fue el módulo que te gustó más?
 
-* **andresargote** (1)
+* **andresargote** (1) [1001122](https://platzi.com/comentario/1001122/) 
 
-	
 	Que genial,seguimos aprendiendo!!
 
-* **alvaroantonioguerralopez** (1)
+* **alvaroantonioguerralopez** (1) [988587](https://platzi.com/comentario/988587/) 
 
-	
 	Muchas gracias, interesante el curso
 
-* **BotDrako** (1)
+* **BotDrako** (1) [982381](https://platzi.com/comentario/982381/) 
 
-	
 	Muchas gracias profe Daniela, el curso fue super bueno, entendí muchísimas cosas, me quedan muy claros muchos conceptos. gracias
 
-	* **Aaron Gonzalez (Platzi)** (1)
+	* **Aaron Gonzalez (Platzi)** [982381] (1)
 
-		
 		¡Qué genial que te haya gustado el curso, **@BotDrako**!  
 		Cuéntanos, ¿cuál fue el módulo que te gustó más?
 
-	* **BotDrako** (1)
+	* **BotDrako** [982381] (1)
 
-		
 		me gusto mucho los distintos tipos de ciclos y condicionales.
 
-* **jmacalupur** (1)
+* **jmacalupur** (1) [982258](https://platzi.com/comentario/982258/) 
 
-	
 	excelente curso. Acabo de aprender a crear mis propias librerías.
 
-* **wilantury** (1)
+* **wilantury** (1) [979267](https://platzi.com/comentario/979267/) 
 
-	
 	Gracias, aclare algunos conceptos que nunca pude entender.
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [975465](https://platzi.com/comentario/975465/) 
 
-	
 	Excelente curso, aclare muchas dudas. Gracias.
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [946654](https://platzi.com/comentario/946654/) 
 
-	
 	dos puntos por terminar de ver el video :v
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [942681](https://platzi.com/comentario/942681/) 
 
-	
 	 **Calculadora mejorada:**
 	
 	_main.c_
@@ -47051,7 +45559,7 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [921940](https://platzi.com/comentario/921940/) 
 
 	```
 	    #include <stdio.h>
@@ -47105,7 +45613,7 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	    
 	```
 
-* **danielh** (1)
+* **danielh** (1) [869760](https://platzi.com/comentario/869760/) 
 
 	```
 	    #include <stdio.h>
@@ -47159,19 +45667,16 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	    
 	```
 
-* **luiggi antonio** (1)
+* **luiggi antonio** (1) [863548](https://platzi.com/comentario/863548/) 
 
-	
 	Excelente curso muy bien explicado, Gracias profesora Daniela
 
-* **Carlos Arturo Gutierrez Gonzalez** (1)
+* **Carlos Arturo Gutierrez Gonzalez** (1) [835758](https://platzi.com/comentario/835758/) 
 
-	
 	Me encanto realmente el curso, es muy digerible la forma en que Daniela lo impartio y los temas muy faciles de compreender.
 
-* **WolfangArt87** (1)
+* **WolfangArt87** (1) [832103](https://platzi.com/comentario/832103/) 
 
-	
 	Se denomina header file, en español fichero/archivo (de) cabecera, o include file, en español fichero de inclusión, en ciencias de computación, especialmente en el ámbito de los lenguajes de programación C y C++, al archivo, normalmente en forma de código fuente, que el compilador incluye de forma automática al procesar algún otro archivo fuente. Típicamente los programadores especifican la inclusión de los header files por medio de pragmas al comienzo (head o cabecera) de otro archivo fuente.
 	
 	Un header file contiene, normalmente, una declaración directa de clases, subrutinas, variables u otros identificadores. Aquellos programadores que desean declarar identificadores estándares en más de un archivo fuente pueden colocar esos identificadores en un único header file, que se incluirá cuando el código que contiene sea requerido por otros archivos.
@@ -47180,12 +45685,11 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	
 	FUENTE: <https://es.wikipedia.org/wiki/Archivo_de_cabecera>
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [794464](https://platzi.com/comentario/794464/) 
 
-	
 	genial, gracias
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [749734](https://platzi.com/comentario/749734/) 
 
 	```
 	    #include <stdio.h>
@@ -47254,118 +45758,98 @@ Una librería es código de programación ya escrito; un conjunto de funciones i
 	    
 	```
 
-* **Iván José Campo De Martino** (1)
+* **Iván José Campo De Martino** (1) [718276](https://platzi.com/comentario/718276/) 
 
-	
 	Excelente curso Daniela, gracias a esto me ayudastes a pensar y investigar a que rumbo final llevare la programacion
 
-* **Juan Carlos Frausto Arias** (1)
+* **Juan Carlos Frausto Arias** (1) [703053](https://platzi.com/comentario/703053/) 
 
-	
 	Estuvo increíble el curso, fácil de comprender y gracias por los retos que ayudaron mucho
 
-* **Alejandro Robleto** (1)
+* **Alejandro Robleto** (1) [699507](https://platzi.com/comentario/699507/) 
 
-	
 	para ser basico he aprendido mucho y aclarado conseptos que se me hacian nudos jajajaja aparte de cocnocer cosas nuevas n.n  
 	gracias
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [696394](https://platzi.com/comentario/696394/) 
 
-	
 	Excelente Curso, Muchas felicidades a Todos y sigamos aprendiendo!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [682927](https://platzi.com/comentario/682927/) 
 
-	
 	Me encanto! Listo para el test.💚
 
-* **luisrovez** (1)
+* **luisrovez** (1) [680478](https://platzi.com/comentario/680478/) 
 
-	
 	Excelente curso!!! Me gusto mucho, ya tengo conocimientos previos en C, pero nunca es malo repasar para no olvidar.
 
-* **David Perez** (1)
+* **David Perez** (1) [669108](https://platzi.com/comentario/669108/) 
 
-	
 	Estuvo genial todo el curso!! 💚
 
-* **Gerardo Jesús Mota Olguín** (1)
+* **Gerardo Jesús Mota Olguín** (1) [668138](https://platzi.com/comentario/668138/) 
 
-	
 	Muchisimas gracias!!!
 
-* **JuanC21Vinueza** (1)
+* **JuanC21Vinueza** (1) [621200](https://platzi.com/comentario/621200/) 
 
-	
 	Excelente curso, uno de los mejores, la profe explica súper bien y los retos que hace son muy buenos para aprender más.
 
-* **Fredy Alejandro Carvajal Gomez** (1)
+* **Fredy Alejandro Carvajal Gomez** (1) [536528](https://platzi.com/comentario/536528/) 
 
-	
 	alguien sabe donde esta el material extra
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [536528] (2)
 
-		
 		Vamos a revisar que sucedió y publicarlo lo más pronto posible.
 
-	* **Jeffersson Muñoz Torres** (1)
+	* **Jeffersson Muñoz Torres** [536528] (1)
 
-		
 		Por favor ¿Nos podrían notificar que ha sido actualizado o recuperado al información extra?
 
-	* **Alejandro Robleto** (1)
+	* **Alejandro Robleto** [536528] (1)
 
-		
 		por de bajo del titulo de clase y la breve descripcion estan los enlaces que te llevaran al contenido extra
 
-* **ramefx** (1)
+* **ramefx** (1) [513940](https://platzi.com/comentario/513940/) 
 
-	
 	Dónde puedo encontrar el contenido extra?
 
-	* **Héctor Daniel Vega Quiñones (Platzi)** (2)
+	* **Héctor Daniel Vega Quiñones (Platzi)** [513940] (2)
 
-		
 		Lo encuentras en la sección de Recursos aquí mismo y en los enlaces de la descripción de la clase 😃
 
-* **andresargote** (1)
+* **andresargote** (1) [82264](https://platzi.com/comentario/1001253/) 
 Hey que tal?, mi duda es que en el caso de querer hacer un programa que el usuario decida volver a preguntar, tuvuera en encapsular todo ...
 
-	* **santgonzalez** (1)
+	* **santgonzalez** [82264] (1)
 
-		
 		Si eso mismo Preguntas si quiere volver ingresar o si el dato es correcto y cerras el while si la respuesta es NO
 
-* **Diego Alejandro Pachon Cortes** (1)
+* **Diego Alejandro Pachon Cortes** (1) [79711](https://platzi.com/comentario/945085/) 
 Buen dia compañeros y tutores, se me ha dificultado un poco el tema de funciones, alguien me puede recomendar algún material, curso, blog...
 
-	* **Miguel Angel Porras Villarreal** (1)
+	* **Miguel Angel Porras Villarreal** [79711] (1)
 
-		
 		Buenos dias diego tengo dejo link otra pagina el la cual te explica el tema funciones en lenguaje orientado a objetos en c ++ espero que te sirva.
 		
 		[https://www.tutorialesprogramacionya.com/cmasmasya/detalleconcepto.php?punto=13&codigo=140&inicio=0](https://www.tutorialesprogramacionya.com/cmasmasya/detalleconcepto.php?punto=13&codigo=140&inicio=0)
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [65704](https://platzi.com/comentario/696432/) 
 Cual se Sugiere que sea el siguiente curso? POO?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [65704] (1)
 
-		
 		Yo te diría que sí, POO es muy buena opción. Luego también puedes aprender un poquito de Programación Funcional. 🎉
 
-* **Fredy Alejandro Carvajal Gomez** (1)
+* **Fredy Alejandro Carvajal Gomez** (1) [54995](https://platzi.com/comentario/536528/) 
 alguien sabe donde esta el material extra
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [54995] (2)
 
-		
 		Vamos a revisar que sucedió y publicarlo lo más pronto posible.
 
-* **Johann Enrique Moreno Calixto** (0)
+* **Johann Enrique Moreno Calixto** (0) [1041668](https://platzi.com/comentario/1041668/) 
 
-	
 	Maravillosa profesora!!! Super detallista con cada concepto esencial!!! No dejó nada sin exponer!!
 

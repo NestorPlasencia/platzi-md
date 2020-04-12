@@ -1,6 +1,8 @@
-# Bienvenido al Curso
+[Curso Básico de Algoritmos 1469](https://platzi.com/cursos/algoritmos)
 
-## 0010. Introducción al curso básico de algoritmos y estructuras de datos
+# Bienvenido al Curso [3361]
+
+## 0010. Introducción al curso básico de algoritmos y estructuras de datos [16917](https://platzi.com/clases/1469-algoritmos/16917-introduccion-al-curso-basico-de-algoritmos-y-estru/)
 
 ### Descripción:
 
@@ -19,353 +21,289 @@ En este curso vamos a crear programas con la solución a un problema específico
 
 ### Comentarios:
 
-* **paola-diaz361** (9)
-![IMG_20200206_212523.jpg](https://static.platzi.com/media/user_upload/IMG_20200206_212523-f25cfece-ac19-4d2f-a84f-cfe15d9e6559.jpg)
-
-* **Gilmar Natanael Morán Aquino** (8)
-
+* **paola-diaz361** (9) [971193](https://platzi.com/comentario/971193/) 
 	
+	![IMG_20200206_212523.jpg](https://static.platzi.com/media/user_upload/IMG_20200206_212523-f25cfece-ac19-4d2f-a84f-cfe15d9e6559.jpg)
+
+* **Gilmar Natanael Morán Aquino** (8) [526680](https://platzi.com/comentario/526680/) 
+
 	Vamos con todo!!!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [526680] (2)
 
-		
 		Bienvenido al curso Dejabu estoy atento a cualquier cosa!
 
-* **Oskarmartinez** (3)
+* **Oskarmartinez** (3) [785186](https://platzi.com/comentario/785186/) 
 
-	
 	por fin colocaron de primeras este curso en la ruta de fundamentos de programación, creo que mas que cursos nosotros los estudiaste requerimos que fortalezcan las rutas de aprendizaje en medio de tanto curso que hay
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [785186] (1)
 
-		
 		Gracias por ese feedback Oskar, lo tendremos en cuenta!
 
-	* **Oskarmartinez** (2)
+	* **Oskarmartinez** [785186] (2)
 
-		
 		Saludos Ricardo, te cuento que estoy a 30 días de terminar mi suscripción anual expert de Platzi, y la verdad fue como entrar a un bosque poblado de cursos, fue una perdida total pues no encontré una ruta clara hacia mis comienzos en la programación, segundo el curso de programación gratis esta desactializado, si me preguntas si al día de hoy aprendí a programar después de un año, te respondo que no, creo que deberían diseñar una ruta exclusiva para los que comenzamos en el mundo de la programación,
 
-* **cancerbero7** (3)
+* **cancerbero7** (3) [524100](https://platzi.com/comentario/524100/) 
 
-	
 	Nunca vi a este profe pero tiene el don de la ilustracón parece, te tengo fe.
 
-	* **Guillermo Pastor Amaya Marquez** (3)
+	* **Guillermo Pastor Amaya Marquez** [524100] (3)
 
-		
 		es uno de los mejores profesores de platzi y esta area es un crack
 
-* **Mon Avellaneda** (3)
+* **Mon Avellaneda** (3) [523712](https://platzi.com/comentario/523712/) 
 
-	
 	Qué gusto volver a tenerte de profesor , Celis!  
 	Vamos a aprender
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [523712] (2)
 
-		
 		el gusto es mío de tenerte de alumna Mons! Bienvenida al curso =)
 
-* **Rose_White** (2)
+* **Rose_White** (2) [1074778](https://platzi.com/comentario/1074778/) 
 
-	
 	¡OMG! No puedo creerlo, pero la emoción con la que el habla de lo que le gusta me hace querer iniciar con este curso ❤️
 
-* **luis-e-chitala** (2)
+* **luis-e-chitala** (2) [1028669](https://platzi.com/comentario/1028669/) 
 
-	
 	Justo estoy viendo programación estructurada en la universidad
 
-* **Jazziel Horacio Puente Verdugo** (2)
+* **Jazziel Horacio Puente Verdugo** (2) [1017734](https://platzi.com/comentario/1017734/) 
 
-	
 	Listo! vamos
 
-* **Omar Alejandro Barbosa Olivares** (2)
+* **Omar Alejandro Barbosa Olivares** (2) [969088](https://platzi.com/comentario/969088/) 
 
-	
 	Wow, que actitud! Contagiosa…
 
-* **8ajorgel** (2)
+* **8ajorgel** (2) [964351](https://platzi.com/comentario/964351/) 
 
-	
 	Recomiendo muchisimo que primero hagan el curso de programación estrucuturada, muchos de los conceptos que aquí no sé explican allá si
 
-* **JCristoVive** (2)
+* **JCristoVive** (2) [864062](https://platzi.com/comentario/864062/) 
 
-	
 	Linda introduccion, vamos con toda aprender, en el nombre de Jesus.
 
-* **Daniel Maldonado** (2)
+* **Daniel Maldonado** (2) [854199](https://platzi.com/comentario/854199/) 
 
-	
 	Me encantó, también estoy estudiando mecatrónica!!
 
-* **David Santiago González Ramos** (2)
+* **David Santiago González Ramos** (2) [849246](https://platzi.com/comentario/849246/) 
 
-	
 	Me gusta la actitud de @ricardocelis!!!
 
-* **Norman Carlos Cabrera** (2)
+* **Norman Carlos Cabrera** (2) [782224](https://platzi.com/comentario/782224/) 
 
-	
 	creo que debi de empezar con esto. u,u
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [782224] (1)
 
-		
 		Igual no estás tarde, bienvenido Norman!
 
-* **viktorv** (2)
+* **viktorv** (2) [762820](https://platzi.com/comentario/762820/) 
 
-	
 	Sos excelente Profesor Ricardo! Nunca me cansas
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [762820] (1)
 
-		
 		oh! Muchas gracias Gabriel! Un gusto que tomes este curtso
 
-* **joshevillacorta** (2)
+* **joshevillacorta** (2) [724754](https://platzi.com/comentario/724754/) 
 
-	
 	Excelente Introducción!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [724754] (1)
 
-		
 		Hola Joshe, gracias y bienvenido
 
-* **leon-cuervo** (2)
+* **leon-cuervo** (2) [710561](https://platzi.com/comentario/710561/) 
 
-	
 	Vamos a probar. Nunca pares de aprender!
 
-* **jonathan2138** (2)
+* **jonathan2138** (2) [663737](https://platzi.com/comentario/663737/) 
 
-	
 	Hola Ricardo, quiero retomar mis bases de programación, muchas expectativas
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [663737] (1)
 
-		
 		Excelente Jonathan! Quedo atento ante cualquier duda que tengas!
 
-* **JheysonEGalvis** (2)
+* **JheysonEGalvis** (2) [642584](https://platzi.com/comentario/642584/) 
 
-	
 	Vengo del curso de “Fundamentos de hardware con Arduino” ya que indicas que este es pre-requisito para tomar dicho curso. 😃
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [642584] (1)
 
-		
 		Así es! Es importante que tengas claras las bases de programación con algoritmos y estructuras de datos!
 
-* **ricardocelis (Platzi)** (2)
+* **ricardocelis (Platzi)** (2) [616006](https://platzi.com/comentario/616006/) 
 
-	
 	Hola! Ahora la sección de enlaces se llama sección de Recursos =)
 
-* **Carlos Nicolas Gonzalez Cabrera** (2)
+* **Carlos Nicolas Gonzalez Cabrera** (2) [602383](https://platzi.com/comentario/602383/) 
 Mi primera vez con celis, espero mucho de este curso
 
-* **PJCO** (2)
+* **PJCO** (2) [569253](https://platzi.com/comentario/569253/) 
 
-	
 	¿cual es la seccion de enlaces?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [569253] (1)
 
-		
 		La encuentras arriba de la columna.
 		
 		![Screenshot_20190423_215014.png](https://static.platzi.com/media/user_upload/Screenshot_20190423_215014-06fd87f1-c4b6-4d65-9afd-97f769312135.jpg)
 		
 		Son 4 pestañas, Aportes (comentarios), Marcadores, Archivos y Enlaces.
 
-* **KarlxS** (2)
+* **KarlxS** (2) [568512](https://platzi.com/comentario/568512/) 
 
-	
 	Repasando … ahora me toca capacitar creo xd
 
-* **santi-cardoso** (2)
+* **santi-cardoso** (2) [564001](https://platzi.com/comentario/564001/) 
 
-	
 	Estaba empezando el de Java y la profesora recomendo hacer este antes. Estoy aprendiendo programacion aqui en Argentina y no me cuesta tanto el programa(netbeans) sino resolver la logica de los problemas.  
 	espero que este curso me ayude, ya tome el de pensamiento logico y me encanto. rendi el examen bien.  
 	saludos
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [564001] (1)
 
-		
 		Ohh Bienvenido entonces Santi! Quedo pendiente en caso de que hayas tenido cualquier duda!
 
-* **Milton Andrés Sanabria** (2)
+* **Milton Andrés Sanabria** (2) [558865](https://platzi.com/comentario/558865/) 
 
-	
 	Con mucha expectativa 😄
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [558865] (1)
 
-		
 		Bienvenido! Estoy atento a cualquier duda, saludos
 
-* **Ingluismaldonado0516** (2)
+* **Ingluismaldonado0516** (2) [550510](https://platzi.com/comentario/550510/) 
 
-	
 	Vamos a retomar todo de nuevo.
 	
 	Espero aprender cosas nuevas en los cursos que valla a tomar!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [550510] (1)
 
-		
 		Bienvenido entonces Ing. Luis! Estaré atento a cualquier duda que tenga
 
-* **fuenmondal** (2)
+* **fuenmondal** (2) [544813](https://platzi.com/comentario/544813/) 
 
-	
 	a mira, siempre veía tu usuario respondiendo los comentarios xD  
 	pensé q era algo como moderador,
 	
 	a ver el curso, se ve interesante.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [544813] (2)
 
-		
 		jjaja bienvenido al curso!
 
-* **jameskristof** (2)
+* **jameskristof** (2) [542345](https://platzi.com/comentario/542345/) 
 
-	
 	¿Este curso es como el de algoritmos con c?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [542345] (2)
 
-		
 		Es una versión mejorada del curso de algoritmos con c, aquí se ven algoritmos implementados no solo en C.
 
-* **Syddar Bujato** (2)
+* **Syddar Bujato** (2) [533720](https://platzi.com/comentario/533720/) 
 Interesante el curso
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [533720] (1)
 
-		
 		Gracias Syddar! Bienvenido al curso!
 
-* **Diego Emanuel Ramirez** (2)
+* **Diego Emanuel Ramirez** (2) [532067](https://platzi.com/comentario/532067/) 
 
-	
 	Excelente introducción! 😃
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [532067] (1)
 
-		
 		Muchas gracias!
 
-* **Rene Ismael Barrios Rojas** (2)
+* **Rene Ismael Barrios Rojas** (2) [530817](https://platzi.com/comentario/530817/) 
 
-	
 	Aunque ya tengo experiencia programando no esta por demás tomar este curso ya que siento que me falta algo así para mejorar 😃
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [530817] (1)
 
-		
 		Espero que te sirva mucho para reforzar =)
 
-* **Octavio Parra Tovar** (2)
+* **Octavio Parra Tovar** (2) [530211](https://platzi.com/comentario/530211/) 
 
-	
 	creo que eres un experto en la materia y espero aprovechar al maximo los conocimientos que nos compartas
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [528449](https://platzi.com/comentario/528449/) 
 
-	
 	Andale celis. Yo también soy mecatrónico.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [528449] (1)
 
-		
 		Geniaaaal! La Mecatrónica es muy nice =)
 
-* **Sebastian Veliz Ysla** (2)
+* **Sebastian Veliz Ysla** (2) [525814](https://platzi.com/comentario/525814/) 
 
-	
 	Este es mi primer curso con el profe Celis, seguro que será uno de mis favoritos:p
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [525814] (1)
 
-		
 		Hey! Bienvenido Sebas, estoy pendiente a todas tus dudas!
 
-* **Ale17273has** (2)
+* **Ale17273has** (2) [525627](https://platzi.com/comentario/525627/) 
 
-	
 	espero poder aprender nuevas cosas que pueda aplicar
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [525627] (1)
 
-		
 		Seguramente asi sera! Bienvenido Alejandro
 
-* **YamiDeV** (2)
+* **YamiDeV** (2) [524769](https://platzi.com/comentario/524769/) 
 
-	
 	Comenzando el curso con muy buenas expectativas… A darle con todo
 
-* **Alex Fabian Moreno Acero** (2)
+* **Alex Fabian Moreno Acero** (2) [523855](https://platzi.com/comentario/523855/) 
 
-	
 	vamos a mejorar la logica
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [523855] (2)
 
-		
 		Excelente, bienvenido a esta nueva versión del curso de algoritmos!
 
-* **Sebastian Marin** (1)
+* **Sebastian Marin** (1) [1114888](https://platzi.com/comentario/1114888/) 
 
-	
 	El curso pinta muy bien… la energia del profe esta super
 
-* **emacastillozam** (1)
+* **emacastillozam** (1) [1114749](https://platzi.com/comentario/1114749/) 
 
-	
 	Qué energía!!!
 
-* **Lucas Barisonzi** (1)
+* **Lucas Barisonzi** (1) [1081940](https://platzi.com/comentario/1081940/) 
 
-	
 	Ya en la primera clase se nota que es un gran profesor¡Empecemos!
 
-* **GaryVillarroelAR** (1)
+* **GaryVillarroelAR** (1) [1070798](https://platzi.com/comentario/1070798/) 
 
-	
 	Saludos comunidad y gracias a Ricardo Celis por ser mi mentor en esta carrera de IoT
 
-* **Cristian Rosales** (1)
+* **Cristian Rosales** (1) [1061609](https://platzi.com/comentario/1061609/) 
 
-	
 	Ricardo gran profesor, ¡empezamos!
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [1060047](https://platzi.com/comentario/1060047/) 
 
-	
 	Que curso es primero este o el de Curso de Programación Estructurada??
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [1060047] (2)
 
-		
 		En [esta ruta](https://platzi.com/fundamentos-programacion/) puedes ver el orden de todos estos cursos 😄
 
-* **leonardc** (1)
+* **leonardc** (1) [1041782](https://platzi.com/comentario/1041782/) 
 
-	
 	Interesante curso, gracias Platzi!!!
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [987239](https://platzi.com/comentario/987239/) 
 
 	```
 	    // Ejemplo_11_02a.cs
@@ -396,360 +334,295 @@ Interesante el curso
 	    
 	```
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [978159](https://platzi.com/comentario/978159/) 
 
-	
 	Ing. Mecatronico genial alguien que habla mi idioma 😃
 
-* **Julio Cesar Cuevas Cardenas** (1)
+* **Julio Cesar Cuevas Cardenas** (1) [964712](https://platzi.com/comentario/964712/) 
 
-	
 	Me gusta de entrada la motivacion y el entusiasmo con el que brindas el conocimiento que tienes , eso mas que saber enseñar es tener talento
 
-* **JeanMurcia** (1)
+* **JeanMurcia** (1) [956052](https://platzi.com/comentario/956052/) 
 
-	
 	Gracias y con la mejor disposición para este curso para aprender.
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [954926](https://platzi.com/comentario/954926/) 
 
-	
 	hola gracias por la bienvenida , bienvenidos todos .
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [953158](https://platzi.com/comentario/953158/) 
 
-	
 	Bienvenidos nuevos conocimientos!
 
-* **Ricardo Giraldo Tique** (1)
+* **Ricardo Giraldo Tique** (1) [951775](https://platzi.com/comentario/951775/) 
 
-	
 	abriendo mi mente para recibir conocimiento en 5,4,3,2,1 ya!!
 
-* **marco-tamayo-flores** (1)
+* **marco-tamayo-flores** (1) [949870](https://platzi.com/comentario/949870/) 
 
-	
 	Vamos!!! le echaré todas las ganas a este curso
 
-* **fernandoogarcia** (1)
+* **fernandoogarcia** (1) [939521](https://platzi.com/comentario/939521/) 
 
-	
 	yeah! jalo!
 
-* **andresmontealegre315** (1)
+* **andresmontealegre315** (1) [938602](https://platzi.com/comentario/938602/) 
 
-	
 	La mejor actitud…!!!
 
-* **raulcalla** (1)
+* **raulcalla** (1) [921320](https://platzi.com/comentario/921320/) 
 
-	
 	Excelente Introduccion
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [916205](https://platzi.com/comentario/916205/) 
 
-	
 	Excelente
 
-* **Rosina Garcia Pilcomayo** (1)
+* **Rosina Garcia Pilcomayo** (1) [912713](https://platzi.com/comentario/912713/) 
 
-	
 	super, lo que necesito, aprender estructuras de datos, este curso va a estar bueno. Saludos desde Bolivia
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [907788](https://platzi.com/comentario/907788/) 
 
-	
 	Wow muchas gracias 😊 estaré muy dispuesta a Aprender en este curso muchas gracias
 
-* **Jose Arturo Enriquez Hurtado** (1)
+* **Jose Arturo Enriquez Hurtado** (1) [895686](https://platzi.com/comentario/895686/) 
 
-	
 	Fascinante profesor. 👍
 
-* **Pablo nicolas Valenzuela caceres** (1)
+* **Pablo nicolas Valenzuela caceres** (1) [881896](https://platzi.com/comentario/881896/) 
 
-	
 	el entusiasmo del profesor contagia a entrar al curso
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [870152](https://platzi.com/comentario/870152/) 
 Increíble. Ya quiero mejorar mi conocimiento en algoritmos!
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [839860](https://platzi.com/comentario/839860/) 
 
-	
 	Muy emocionado.
 
-* **Davic64** (1)
+* **Davic64** (1) [839658](https://platzi.com/comentario/839658/) 
 
-	
 	Ya me emocioné
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [826968](https://platzi.com/comentario/826968/) 
 
-	
 	tengo que conocer c++ o en este curso nos explicarán?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [826968] (3)
 
-		
 		Hola! Yo hice el curso sin conocer C++, no haremos código super complejo así que si sabes programar en cualquier otro lenguaje deberías estar bien 😄
 
-	* **alexander garcia castañeda** (1)
+	* **alexander garcia castañeda** [826968] (1)
 
-		
 		solo sé programar en python y matlab, gracias.
 
-* **Norman Carlos Cabrera** (1)
+* **Norman Carlos Cabrera** (1) [825636](https://platzi.com/comentario/825636/) 
 
-	
 	tenogo que volver a iniciar par apoder comprender mas
 
-* **predator0077** (1)
+* **predator0077** (1) [809327](https://platzi.com/comentario/809327/) 
 
-	
 	Vamos a aprender todo. y cada día mejorar, Suerte Compañeros Animo!!  
 	de que se puede se puede. Saludos.
 
-* **kagure** (1)
+* **kagure** (1) [801425](https://platzi.com/comentario/801425/) 
 
-	
 	lest go!!
 
-* **José Manuel Piña Rodríguez** (1)
+* **José Manuel Piña Rodríguez** (1) [801152](https://platzi.com/comentario/801152/) 
 
-	
 	Vamosss
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [800209](https://platzi.com/comentario/800209/) 
 
-	
 	Vamo a darle!
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [796306](https://platzi.com/comentario/796306/) 
 
-	
 	Primera vez que te veo y ya me caíste bien, inspiras entusiasmo con tu forma de enseñar
 
-* **hydroxseguridad** (1)
+* **hydroxseguridad** (1) [787134](https://platzi.com/comentario/787134/) 
 
-	
 	Vamos!!!
 
-* **Ivan Mendez** (1)
+* **Ivan Mendez** (1) [786679](https://platzi.com/comentario/786679/) 
 
-	
 	Primer video que veo tuyo ya me caes bien xd por cierto los enlaces a los videos estan repetidos.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [786679] (2)
 
-		
 		jaja gracias Ivan! Bienvenido al curso =)
 
-* **Ronald Alexander Palacios Garrido** (1)
+* **Ronald Alexander Palacios Garrido** (1) [784374](https://platzi.com/comentario/784374/) 
 
-	
 	Super interesante! lo que aprenderemos en este curso. ciertamente los algoritmo son la base para todo buen programador
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [784374] (1)
 
-		
 		Sí, necesitas saber cómo plantear soluciones a los problemas, bienvenido al curso Alex!
 
-* **DracoClvo** (1)
+* **DracoClvo** (1) [782132](https://platzi.com/comentario/782132/) 
 
-	
 	😮 y yo aplazando este curso 😄
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [782132] (1)
 
-		
 		por qué? qué te detenía?
 
-* **omar-rodriguez454** (1)
+* **omar-rodriguez454** (1) [781515](https://platzi.com/comentario/781515/) 
 
-	
 	Vamos
 
-* **curwen98** (1)
+* **curwen98** (1) [751867](https://platzi.com/comentario/751867/) 
 
-	
 	facinante
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [751867] (1)
 
-		
 		Bienvenido Burneo! Cualquier duda me avisas en los comentarios!
 
-* **randal-rosales-rivera** (1)
+* **randal-rosales-rivera** (1) [710477](https://platzi.com/comentario/710477/) 
 
-	
 	Interesante!
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [686131](https://platzi.com/comentario/686131/) 
 
-	
 	Estoy muy animado de aprender sobre lo bàsico de Algoritmos, para comenzar a aprender.
 
-* **Mario Emiliano Gordon Pico** (1)
+* **Mario Emiliano Gordon Pico** (1) [684363](https://platzi.com/comentario/684363/) 
 Muy interesante contenido para el curso
 
-* **yairmendo** (1)
+* **yairmendo** (1) [681495](https://platzi.com/comentario/681495/) 
 
-	
 	comenzando con una buena actitud
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678540](https://platzi.com/comentario/678540/) 
 
-	
 	Awesome… I’m ready for this course!!!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [678540] (2)
 
-		
 		Hola Luis! Bienvenido al curso! Cualquier duda o comentario estaré súper atento!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [676610](https://platzi.com/comentario/676610/) 
 
-	
 	genial, espero aprender mucho
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [676610] (2)
 
-		
 		Bienvenido al curso Camilo! Recuerda hacer los ejercicios y cualquier duda preguntas!
 
-* **oscar_next** (1)
+* **oscar_next** (1) [661211](https://platzi.com/comentario/661211/) 
 
-	
 	Excelente… back to the basics…
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [661211] (1)
 
-		
 		Son súper importantes!
 
-* **Luis Alfonso Guevara Alvarado** (1)
+* **Luis Alfonso Guevara Alvarado** (1) [626377](https://platzi.com/comentario/626377/) 
 
-	
 	La LÓGICA es uno de los fundamentos para programar.
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [619743](https://platzi.com/comentario/619743/) 
 
-	
 	excelente inicio!
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [584167](https://platzi.com/comentario/584167/) 
 
-	
 	deberia haber un curso integral de python  
 	algoritmos y python  
 	estructura de datos y python  
 	diagrama de flujo python  
 	etc
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [561678](https://platzi.com/comentario/561678/) 
 
-	
 	Que buen curso, voy a iniciar con este.  
 	Soy tecnico superior en robotica, vamos con TODO!
 
-* **andresfelipesanchez** (1)
+* **andresfelipesanchez** (1) [554369](https://platzi.com/comentario/554369/) 
 
-	
 	se ve interesante =)
 
-* **GibsPM** (1)
+* **GibsPM** (1) [553529](https://platzi.com/comentario/553529/) 
 
-	
 	 **P** rofesor, gusto en verlo nuevamente, se le nota menos nervioso que en la versión pasada de este curso 😃
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [553529] (1)
 
-		
 		Hola Gibs! El gusto es mío!  
 		Bienvenido al curso, espero que te guste mucho más que la versión anterior
 
-* **Diego Emanuel Ramirez** (1)
+* **Diego Emanuel Ramirez** (1) [532769](https://platzi.com/comentario/532769/) 
 
-	
 	Genial! Ya había tomado el curso anterior. Hora de probar esta nueva versión del curso! 😃
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [532769] (1)
 
-		
 		Hola Diego! Espero que te guste mucho más que el anterior! Estoy atento a todas tus dudas
 
-	* **santi-cardoso** (1)
+	* **santi-cardoso** [532769] (1)
 
-		
 		cual era el curso anterior?
 
-* **camilataeger** (1)
+* **camilataeger** (1) [528181](https://platzi.com/comentario/528181/) 
 
-	
 	Este curso es ideal para una materia que arranco este semestre en la universidad llamada “Estructura de datos y algoritmo”
 	
 	Vamos con todo!!!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [528181] (1)
 
-		
 		EEEExcelente! Espero que te sirva muchísimo, cualquier duda, no dudes en irla dejando, lo más importante es que llegues al final y obtengas todo el conocimiento!
 
-* **Erick Leao Pérez Medina** (1)
+* **Erick Leao Pérez Medina** (1) [524449](https://platzi.com/comentario/524449/) 
 
-	
 	Siempre me han gustado los algoritmos y hoy decidí dedicar tiempo a tomar este curso, para reforzar conocimientos y por que no talvez aprender algo nuevo.
 
-* **roman-lopez** (1)
+* **roman-lopez** (1) [524271](https://platzi.com/comentario/524271/) 
 
-	
 	Es el primer curso sobre algoritmos que tomo, estaba ansioso porque faltaban unos dias cuando actualizaron el contador a 1 mes más.
 	
 	Es tambien el primer curso que realizo en el cual el profesor es Ricardo y tengo buenas expectativas sobre los dos.
 
-* **Kerohuixco** (1)
+* **Kerohuixco** (1) [524039](https://platzi.com/comentario/524039/) 
 
-	
 	Tengo una muy altas expectativas sobre este curso. Espero que no sea decepcionante.
 
-* **Wilson Marino Pablo Mendez** (1)
+* **Wilson Marino Pablo Mendez** (1) [523823](https://platzi.com/comentario/523823/) 
 
-	
 	A cultivar nuestra lógica!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [523823] (2)
 
-		
 		hola Pablo, bienvenido!
 
-* **jeydvc** (1)
+* **jeydvc** (1) [80591](https://platzi.com/comentario/962218/) 
 Que nota, es lo que quiero aprender bien…
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [80553](https://platzi.com/comentario/961137/) 
 Nunca he realizado curso de Algoritmo. Bueno se ve algo complejo pero sin embargo es bueno aprender cosas nuevas, sobre todo es important...
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [80553] (2)
 
-		
 		¡Qué bueno tenerte aquí, @jhonsoccer11! ¡Al final, comparte lo que más te gustó del curso!
 
-* **Carlos Garcia** (1)
+* **Carlos Garcia** (1) [79981](https://platzi.com/comentario/950164/) 
 ¿Que clase de Mentalidad/ habilidad para poder programar mejor? “Alguien puede cooperar con recomendaciones sinceras.”
 
-	* **C3Z4R** (1)
+	* **C3Z4R** [79981] (1)
 
-		
 		Depende mucho del contexto en donde quieres aplicar la  
 		¿Que clase de Mentalidad/ habilidad para poder programar mejor?  
 		Si es colaborativo y en solitario.
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [78157](https://platzi.com/comentario/916202/) 
 No se mucho de algoritmos, pero me interesa adquirir conocimientos en este tema.
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [78157] (1)
 
-		
 		¡Hola @camuelo!
 		
 		Estás en el camino correcto! Una vez que haya terminado este curso, puede investigar un poco y elegir una ruta de aprendizaje que lo ayudará a aprender aún más sobre algoritmos, lógica y desarrollo. 😃
@@ -757,14 +630,13 @@ No se mucho de algoritmos, pero me interesa adquirir conocimientos en este tema.
 		Si recién comienza a programar, le recomiendo que tome la ruta de [Fundamentos de Programación](https://platzi.com/fundamentos-programacion/). Este curso de Algoritmo es parte de los cursos básicos de la ruta.  
 		Esta ruta está completa y tiene cursos muuuy interesantes. Te recomiendo que lo eches un vistazo. 😄
 
-* **johnjairocastaneda** (0)
+* **johnjairocastaneda** (0) [615852](https://platzi.com/comentario/615852/) 
 
-	
 	no sé nada!!!, pero voy con toda!
 
-# Introducción a los algoritmos
+# Introducción a los algoritmos [3360]
 
-## 0020. ¿Qué entiende una computadora
+## 0020. ¿Qué entiende una computadora [17007](https://platzi.com/clases/1469-algoritmos/17007-que-entiende-una-computadora/)
 
 ### Descripción:
 
@@ -777,356 +649,294 @@ En nuestro curso de algoritmos aprenderás las bases que necesitas para elegir e
 
 ### Comentarios:
 
-* **Wilson Marino Pablo Mendez** (12)
+* **Wilson Marino Pablo Mendez** (12) [523847](https://platzi.com/comentario/523847/) 
 
-	
 	Explicación muy didáctico 👍
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [523847] (2)
 
-		
 		Es la idea, si tienes alguna duda o algo no dudes en comentarme!
 
-	* **Wilson Marino Pablo Mendez** (2)
+	* **Wilson Marino Pablo Mendez** [523847] (2)
 
-		
 		Gracias!
 		
 		Muy bueno el curso
 
-* **Cristian Fernando Anaya Perez** (8)
+* **Cristian Fernando Anaya Perez** (8) [713899](https://platzi.com/comentario/713899/) 
 
-	
 	Aqui un ejemplo de codigo binario _(porque a mi no me quedo tan claro con 1111 😄  
 	![](![pag_2.jpg](https://static.platzi.com/media/user_upload/pag_2-79f30090-5be7-4cdd-8aaf-458b7f1f6675.jpg)
 
-	* **Elías Pertúz** (1)
+	* **Elías Pertúz** [713899] (1)
 
-		
 		No estaba entendiendo muy bien pero con este ejemplo ya me quedó claro gran aporte!
 
-	* **predator0077** (1)
+	* **predator0077** [713899] (1)
 
-		
 		Gracias por el aporte Compañero.
 
-* **paola-diaz361** (7)
-![IMG_20200303_143921.jpg](https://static.platzi.com/media/user_upload/IMG_20200303_143921-baad16ab-e8f6-4b99-b044-c52f98b48a2f.jpg)
-
-* **PATRICIO ALBERTO MORALES FARIÑA** (4)
-
+* **paola-diaz361** (7) [1017195](https://platzi.com/comentario/1017195/) 
 	
+	![IMG_20200303_143921.jpg](https://static.platzi.com/media/user_upload/IMG_20200303_143921-baad16ab-e8f6-4b99-b044-c52f98b48a2f.jpg)
+
+* **PATRICIO ALBERTO MORALES FARIÑA** (4) [1087503](https://platzi.com/comentario/1087503/) 
+
 	No es tan cierto: Hay gente que programa en binario, son muy pocos casos. pero existen : Por ejemplo, en sistemas de armamento de aviones, y otras implementaciones muy específicas.
 
-* **Emmanuel Guerra** (4)
+* **Emmanuel Guerra** (4) [529536](https://platzi.com/comentario/529536/) 
 
-	
 	Agregando a lo que dijo el profesor, la capa que se encarga de comunicar nuestro hardware con nuestro software son los drivers, que en pocas palabras es código especializado en la comunicación de componentes.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [529536] (1)
 
-		
 		si! Codigo muchas veces escrito en el bello lenguaje C! o CPP!
 
-* **tifis (Platzi)** (4)
+* **tifis (Platzi)** (4) [523996](https://platzi.com/comentario/523996/) 
 
-	
 	En ASCII cada letra tiene un valor numérico decimal. Si escribes ALT + 84, la computadora sabrá que es la letra T
 
-	* **George_18** (1)
+	* **George_18** [523996] (1)
 
-		
 		Como podria ver el codigo ASCII en un computador macbook pro ?
 
-* **Alex Fabian Moreno Acero** (4)
+* **Alex Fabian Moreno Acero** (4) [523863](https://platzi.com/comentario/523863/) 
 
-	
 	me encanta lo didactico de la clase, los felicito por el esfuerzo
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [523863] (3)
 
-		
 		Hey! Muchas gracias! nos encanta que te guste la clase!
 
-* **Adriana Lucia Ardila Ramirez** (3)
+* **Adriana Lucia Ardila Ramirez** (3) [976434](https://platzi.com/comentario/976434/) 
 
-	
 	Esta explicacion está en el curso de Computación básica 😃
 
-* **Mayo Prieto** (3)
+* **Mayo Prieto** (3) [966858](https://platzi.com/comentario/966858/) 
 
-	
 	Iniciando el curso de algoritmos, emocionada!!!
 
-* **Ricardo Andres Rojas Alonso** (3)
+* **Ricardo Andres Rojas Alonso** (3) [966619](https://platzi.com/comentario/966619/) 
 
-	
 	Los números binarios se multiplican por dos secuencialmente; es decir, 1111 = 1x2x2x2 = 2x2x2 = 4x2 = 8  
 	8+4+2+1 = 15 (15 en binarios)
 
-* **Juan Carlos Valencia López** (3)
+* **Juan Carlos Valencia López** (3) [943018](https://platzi.com/comentario/943018/) 
 
-	
 	wow, este profe y freddy son los que me hicieron entender el origen del todo
 
-* **angie Cortes Montaño** (3)
+* **angie Cortes Montaño** (3) [921346](https://platzi.com/comentario/921346/) 
 
-	
 	increíble explicación, ahora todo es mas claro
 
-* **predator0077** (3)
+* **predator0077** (3) [809332](https://platzi.com/comentario/809332/) 
 
-	
 	Esa forma de explicar es muy buena y entretenida.  
 	Muy buena forma de empezar este curso Profesor Ricardo.
 
-* **Rose_White** (2)
+* **Rose_White** (2) [1074803](https://platzi.com/comentario/1074803/) 
 
-	
 	¡Amo cuando se explican los temas de maneras tan gráficas! ¡Me encanta tu entusiasmo!
 
-* **Sandra Guerrero** (2)
+* **Sandra Guerrero** (2) [973001](https://platzi.com/comentario/973001/) 
 
-	
 	Que interesante el sistema binario, un poco mas de conocimiento para entender el valor de cada uno y cero, la representación en vídeo, imágenes, música…
 
-	* **Leonardo Esteban Omeara Garzon** (1)
+	* **Leonardo Esteban Omeara Garzon** [973001] (1)
 
-		
 		y eso que no has visto las compuertas lógicas
 
-* **Nonintula34** (2)
+* **Nonintula34** (2) [954952](https://platzi.com/comentario/954952/) 
 
-	
 	esta super bueno este video , ya lo habia visto pero ahora todo va teniendo mas sentido para mi . wow
 
-* **Juan Luis Chavez Manjarres** (2)
+* **Juan Luis Chavez Manjarres** (2) [946412](https://platzi.com/comentario/946412/) 
 
-	
 	Excelente explicación, todo claro sobre el funcionamiento de la computadora.
 
-* **Nicolas Restrepo** (2)
+* **Nicolas Restrepo** (2) [944870](https://platzi.com/comentario/944870/) 
 
-	
 	Para ampliar este video les recomiendo el [**curso de fundamentos de ingeniería de software**](https://platzi.com/clases/ingenieria)
 
-* **Juan Camilo García Mesa** (2)
+* **Juan Camilo García Mesa** (2) [916215](https://platzi.com/comentario/916215/) 
 
-	
 	Muy buena explicación ¡¡¡¡¡¡¡
 
-* **Angie Garcia** (2)
+* **Angie Garcia** (2) [909251](https://platzi.com/comentario/909251/) 
 Quisiera conocer más sobre binarios
 
-* **Johny Sanabria Sanabria C** (2)
+* **Johny Sanabria Sanabria C** (2) [902734](https://platzi.com/comentario/902734/) 
 
-	
 	Excelente explicación de la interpretación que hace la computadora , para poder usar los números binarios gracias
 
-* **Efraín Hernández García** (2)
+* **Efraín Hernández García** (2) [870187](https://platzi.com/comentario/870187/) 
 *Este es mi resumen de esta clase* \- Las computadoras funcionan con 0 y 1 lo cual conocemos como bit que es la unidad mínima de almacenamiento. El 0 es la ausencia de electricidad y el 1 es el paso de electricidad. Un byte es un conjunto de 8 bits que nos permiten hacer los números en un teclado, el alfabeto e incluso representar colores imágenes y sonido. El software son las instrucciones que le damos al computador para que haga una serie de procesos y el software facilita al usuario realizar estos procesos
 
-* **Rigo Antonio Galicia Barrera** (2)
+* **Rigo Antonio Galicia Barrera** (2) [859509](https://platzi.com/comentario/859509/) 
 
-	
 	Con este curso inicio mi ruta de IA
 
-* **José Angel Mejia** (2)
+* **José Angel Mejia** (2) [708816](https://platzi.com/comentario/708816/) 
 
-	
 	El entusiasmo es contagioso Vamos Pa’elante
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [708816] (1)
 
-		
 		Bienvenido José! Cualquier duda me avisas y por favor si lo terminas comparte este curso =)!
 
-* **VHugoBarnes** (2)
+* **VHugoBarnes** (2) [632909](https://platzi.com/comentario/632909/) 
 
-	
 	Los transistores no almacenan la información, los que sí lo almacenan son los flip flop.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [632909] (1)
 
-		
 		si tal cual! no quise entrar a ese nivel de detalle, igual los flip flops son arreglos logicos con transistores y otros componentes!
 
-* **Pablo Domínguez Durán** (2)
+* **Pablo Domínguez Durán** (2) [616493](https://platzi.com/comentario/616493/) 
 
-	
 	 **Algorimo:** Pasos a seguir para resolve un problema min 8:00
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [616493] (1)
 
-		
 		es Algoritmo!
 
-* **Enver David Aguinaga Salinas** (2)
+* **Enver David Aguinaga Salinas** (2) [599807](https://platzi.com/comentario/599807/) 
 
-	
 	Una clase muy ejemplificadora, excelente!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [599807] (1)
 
-		
 		Gracias Enver! Éxito con el curso y cualquier cosa me avisas
 
-* **sgermosen** (2)
+* **sgermosen** (2) [593221](https://platzi.com/comentario/593221/) 
 
-	
 	Seguro que no eres chuseft el de romu alfons?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [593221] (1)
 
-		
 		no se quien es ese jajaja
 
-* **Victor Contreras Trejo** (2)
+* **Victor Contreras Trejo** (2) [568323](https://platzi.com/comentario/568323/) 
 
-	
 	Aunque entendía el fundamento del código binario, con la forma tan didáctica con la que lo explicó Ricardo, pude ampliar mi visión sobre como un computador puede llegar a entender diferentes órdenes.
 	
 	Excelente forma de enseñanza.
 
-	* **Nestor Cepeda (Platzi)** (1)
+	* **Nestor Cepeda (Platzi)** [568323] (1)
 
-		
 		¿Cuál era tu percepción antes de ver el código binario? ¿Crees que se puede mejorar esto?
 
-* **CarlosQL** (2)
+* **CarlosQL** (2) [543117](https://platzi.com/comentario/543117/) 
 
-	
 	Con muchas expectativas por el curso. Saludos desde Perú
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [543117] (1)
 
-		
 		Bienvenido Karlos! quedo atento a todas tus dudas!
 
-* **Syddar Bujato** (2)
+* **Syddar Bujato** (2) [533724](https://platzi.com/comentario/533724/) 
 Interesante curso
 
-* **J. Christian Martínez G.** (2)
+* **J. Christian Martínez G.** (2) [531224](https://platzi.com/comentario/531224/) 
 
-	
 	Excelente explicación!!
 
-* **Franco Martin** (2)
+* **Franco Martin** (2) [530914](https://platzi.com/comentario/530914/) 
 
-	
 	Me gusto mucho la explicación, estuve prestando atención en todo momento.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [530914] (1)
 
-		
 		Hola Franco! Qué gusto saber eso =)
 
-* **Adrian Garcia Saaib** (2)
+* **Adrian Garcia Saaib** (2) [528455](https://platzi.com/comentario/528455/) 
 
-	
 	Lo que más me gusto fueron las naves que llegan a amarte ❤️
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [528455] (2)
 
-		
 		al tío Elon Musk le gusta tu comentario! qué te ha parecido el curso!
 
-* **YamiDeV** (2)
+* **YamiDeV** (2) [526156](https://platzi.com/comentario/526156/) 
 
-	
 	Excelente explicacion
 
-* **Sebastian Veliz Ysla** (2)
+* **Sebastian Veliz Ysla** (2) [525819](https://platzi.com/comentario/525819/) 
 
-	
 	Cuando un objeto(o integraciones de objetos) se convierte en tecnología?
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [525819] (3)
 
-		
 		yo creo que cuando se combinan con un propósito en particular, por ejemplo “ReactJS” es una tecnología que combina varias funcionalidades para hacer sitios web dinámicos, reactivos de forma más fácil.
 
-	* **Camilo Cadavid Cardona** (3)
+	* **Camilo Cadavid Cardona** [525819] (3)
 
-		
 		yo diría que es cuando se le da solución a una necesidad por medio de objetos contemporáneos, para dar un ejemplo, el conjunto de programas y objetos que me permiten predecir un fenómeno sísmico
 
-	* **albaluzmab** (4)
+	* **albaluzmab** [525819] (4)
 
-		
 		Agregaría que debe mejorar la calidad de vida. Por ejemplo los japoneses crean los chindogu, que satisfacen una necesidad pero no mejoran la calidad de vida…![](!%5B%5D\(url\)https://www.google.com.co/search?q=chindogu&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjpuKWRh-fgAhWOjlkKHQxbDrEQ_AUIDigB&biw=731&bih=330#imgdii=-Qwj_-qDdLZFxM:&imgrc=LgDRAH2Ivyc8rM:)
 
-	* **Hmorales** (1)
+	* **Hmorales** [525819] (1)
 
-		
 		Básicamente, la tecnología es la aplicación de la ciencia a la resolución de problemas. Por ejemplo, si queremos regar las plantas con tecnología, podemos aplicar la física(electrónica) y matemáticas(ciencias de la computación) para hacer un sistema de regado inteligente.
 
-	* **Juan Sebastian Galvis Huertas** (2)
+	* **Juan Sebastian Galvis Huertas** [525819] (2)
 
-		
 		Toda tecnologia es innovación, pero no toda innovación es tecnologia
 
-* **Erick Leao Pérez Medina** (2)
+* **Erick Leao Pérez Medina** (2) [524472](https://platzi.com/comentario/524472/) 
 
-	
 	Muy buena explicación, me sentí como en la escuela primaria, me encanta lo didáctico que es.
 
-* **Rafael Padilla** (2)
+* **Rafael Padilla** (2) [524282](https://platzi.com/comentario/524282/) 
 
-	
 	Excelente clase, muy didáctica.
 
-* **patriciacalistogutierrez** (2)
+* **patriciacalistogutierrez** (2) [72067](https://platzi.com/comentario/809602/) 
 Muy buena clase !
 
-	* **Irving Rubén Merino Núñez** (1)
+	* **Irving Rubén Merino Núñez** [72067] (1)
 
-		
 		Opino lo mismo!
 
-* **djcerdas** (2)
+* **djcerdas** (2) [60695](https://platzi.com/comentario/609411/) 
 Duda: no son los capacitores los que almacenan los 1 o 0s, Ej. La memoria RAM, mientras que los transistores similar a las compuertas log...
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [60695] (1)
 
-		
 		Yo estoy de acuerdo con tu comentario. 😄
 
-* **Sebastian Veliz Ysla** (2)
+* **Sebastian Veliz Ysla** (2) [54104](https://platzi.com/comentario/525819/) 
 Cuando un objeto(o integraciones de objetos) se convierte en tecnología?
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [54104] (3)
 
-		
 		yo creo que cuando se combinan con un propósito en particular, por ejemplo “ReactJS” es una tecnología que combina varias funcionalidades para hacer sitios web dinámicos, reactivos de forma más fácil.
 
-* **Sebastian Marin** (1)
+* **Sebastian Marin** (1) [1114933](https://platzi.com/comentario/1114933/) 
 
-	
 	super clase
 
-* **Khali.S** (1)
+* **Khali.S** (1) [1075211](https://platzi.com/comentario/1075211/) 
 
-	
 	Me agrada la manera gráfica en que explica Ricardo ❤️
 
-* **GaryVillarroelAR** (1)
+* **GaryVillarroelAR** (1) [1070891](https://platzi.com/comentario/1070891/) 
 
-	
 	Prendido y apagado  
 	He visto como en minecraft ponen reproductores de musica o una casa movil
 
-* **Yake Nunura Baylon** (1)
-![](https://lh3.googleusercontent.com/n0S-Y0G49zQVJ5aEl5c0uM94yWUkJpeQ-doxIDWgKFSDN4uqRV5bPlY5PgTBJDd3JUksJpccruENSmccmvUCu9LJYotNzLNa1HLu2WqlOd0gHnz1cZIEnK8vhdM0RybzWM4ZKBcZR8tk_WhvkoDgVa-eR-af54-8CXgL-G98_w_Yc6mpTkvAKUSHHFk5uPJlopeuuvTlj9u3PCw3kkZ7uW0uDB_KdE18ETWk0ElCW_peHCG7pXk53EknVnkuJQAkRCtE6Haw11wvuTLU_r6br2hiCCy69WZcTpUdrvkFKyejPd6tr4jemHdVYuHp-simM4vXloYeHL8APpOt1P5FH_7-ejyPJJ2l0AbMuKPPG2u68MBdW_ffVXdflEtJwu-lx1EChir0eqdB6BzNc-IWuH_f7zfv_zocVAjubKccIXq9qkdSMyp2dXOUJD4xrv2hY439qGNK2z7pf9-CfH3j_qrZx0mMqsST-Ruhs7tXlNrNHmoCBMHylnHlyACD-vs1ESGkgnJOii8ojeHaweoBjzowa10qwHkOpbHrQNdyQekOry-I1eA_-_1C19h66vKfcmiK4DxAMUi66kv3ZBaPZ3CuiKw8hJRLdcRuWDTLtvZD2aoIkNG2naI-DZx1_vMPzxnEe1C0E4LpYeVVEwOVK7k0QEi4FL0BIn19iYeH3aU8lWlMRUjMr9ORPRXZCw=w800-h882-no)
-
-* **Miguel Angel** (1)
-
+* **Yake Nunura Baylon** (1) [1053839](https://platzi.com/comentario/1053839/) 
 	
+	![](https://lh3.googleusercontent.com/n0S-Y0G49zQVJ5aEl5c0uM94yWUkJpeQ-doxIDWgKFSDN4uqRV5bPlY5PgTBJDd3JUksJpccruENSmccmvUCu9LJYotNzLNa1HLu2WqlOd0gHnz1cZIEnK8vhdM0RybzWM4ZKBcZR8tk_WhvkoDgVa-eR-af54-8CXgL-G98_w_Yc6mpTkvAKUSHHFk5uPJlopeuuvTlj9u3PCw3kkZ7uW0uDB_KdE18ETWk0ElCW_peHCG7pXk53EknVnkuJQAkRCtE6Haw11wvuTLU_r6br2hiCCy69WZcTpUdrvkFKyejPd6tr4jemHdVYuHp-simM4vXloYeHL8APpOt1P5FH_7-ejyPJJ2l0AbMuKPPG2u68MBdW_ffVXdflEtJwu-lx1EChir0eqdB6BzNc-IWuH_f7zfv_zocVAjubKccIXq9qkdSMyp2dXOUJD4xrv2hY439qGNK2z7pf9-CfH3j_qrZx0mMqsST-Ruhs7tXlNrNHmoCBMHylnHlyACD-vs1ESGkgnJOii8ojeHaweoBjzowa10qwHkOpbHrQNdyQekOry-I1eA_-_1C19h66vKfcmiK4DxAMUi66kv3ZBaPZ3CuiKw8hJRLdcRuWDTLtvZD2aoIkNG2naI-DZx1_vMPzxnEe1C0E4LpYeVVEwOVK7k0QEi4FL0BIn19iYeH3aU8lWlMRUjMr9ORPRXZCw=w800-h882-no)
+
+* **Miguel Angel** (1) [1052005](https://platzi.com/comentario/1052005/) 
+
 	Buena explicacion!
 
-* **Julieta Calderon** (1)
+* **Julieta Calderon** (1) [1049644](https://platzi.com/comentario/1049644/) 
 
-	
 	Codigo Binario
 	
 	0=0000  
@@ -1146,321 +956,266 @@ Cuando un objeto(o integraciones de objetos) se convierte en tecnología?
 	14=1110  
 	15=1111
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [1028670](https://platzi.com/comentario/1028670/) 
 
-	
 	Me gusta la forma de explicar
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [961153](https://platzi.com/comentario/961153/) 
 
-	
 	Que interesante algo muy divertido y explica muy bien el profesor.  
 	Sera que lo conoceré en plazti ? He tenido clases presenciales…
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [884316](https://platzi.com/comentario/884316/) 
 
+	* En sistema binario la primera posición vale 1, y se va multiplicando por dos cada vez.
 	
-	  * En sistema binario la primera posición vale 1, y se va multiplicando por dos cada vez.
+	* 1111 en binario es el número 15, la primera posición vale 1, la segunda vale 2, la tercera vale 4 y la cuarta vale 8.
 	
-	  * 1111 en binario es el número 15, la primera posición vale 1, la segunda vale 2, la tercera vale 4 y la cuarta vale 8.
+	* En el sistema binario para las letras se usa algo llamado “convenciones” en el código ASCII que nos dice que cada letra tendrá un valor numérico.
 	
-	  * En el sistema binario para las letras se usa algo llamado “convenciones” en el código ASCII que nos dice que cada letra tendrá un valor numérico.
-	
-	  * El software son las series de instrucciones que tú le darás a una computadora para que ella pueda llevar a cabo los procesos.
+	* El software son las series de instrucciones que tú le darás a una computadora para que ella pueda llevar a cabo los procesos.
 	
 	
 	
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [842270](https://platzi.com/comentario/842270/) 
 
-	
 	Estoy muy animado de llevar este curso, espero aprender muchìsimo! 😄
 
-* **Davic64** (1)
+* **Davic64** (1) [839663](https://platzi.com/comentario/839663/) 
 
-	
 	La mejor manera de aprender :3
 
-* **diego_acero** (1)
+* **diego_acero** (1) [709369](https://platzi.com/comentario/709369/) 
 
-	
 	Gran explicación profe!!!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [709369] (2)
 
-		
 		Gracias Diego!
 
-	* **Isaac Alejandro Requena Alamo** (1)
+	* **Isaac Alejandro Requena Alamo** [709369] (1)
 
-		
 		opino lo mismo
 
-* **Jorge Luis Montes Castro** (1)
+* **Jorge Luis Montes Castro** (1) [707073](https://platzi.com/comentario/707073/) 
 
-	
 	Muy didáctica la explicación me anime a seguir el curso.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [707073] (2)
 
-		
 		Muchísimas gracias Jorge!
 
-* **diegolozada** (1)
+* **diegolozada** (1) [702509](https://platzi.com/comentario/702509/) 
 
-	
 	Excelente explicación, profesor.
 
-* **asanchez2091** (1)
+* **asanchez2091** (1) [689995](https://platzi.com/comentario/689995/) 
 
-	
 	Este curso esta brutal caí aquí por casualidad.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [689995] (1)
 
-		
 		bienvenido!
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [686153](https://platzi.com/comentario/686153/) 
 
-	
 	Me gusta mucho como lo está explicando.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [686153] (2)
 
-		
 		muchas gracias irving!
 
-* **Alberto Campos Hernandez** (1)
+* **Alberto Campos Hernandez** (1) [682521](https://platzi.com/comentario/682521/) 
 
-	
 	Muy buena explicación!!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [682521] (1)
 
-		
 		muchas gracias Alberto!
 
-* **joelnbl** (1)
+* **joelnbl** (1) [682282](https://platzi.com/comentario/682282/) 
 
-	
 	0: Ausencia de corriente eléctrica  
 	1: Presencia de corriente eléctrica  
 	Bit: Binary Digit.
 
-* **yairmendo** (1)
+* **yairmendo** (1) [681497](https://platzi.com/comentario/681497/) 
 
-	
 	Me gustó mucho la forma en la que hiciste la explicación, gracias
 
-* **louismanson** (1)
+* **louismanson** (1) [680832](https://platzi.com/comentario/680832/) 
 
-	
 	Genial, la neta me hace falta un repaso ya que sí ando oxidado en algoritmos.
 	
 	Me gusto tu trabajo 😄
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [680832] (1)
 
-		
 		Muchas gracias Luis! BIenvenido entonces
 
-* **EdwinDG** (1)
+* **EdwinDG** (1) [679489](https://platzi.com/comentario/679489/) 
 
-	
 	Excelente método de enseñanza.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [679489] (1)
 
-		
 		Muchas gracias Edwin!
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678559](https://platzi.com/comentario/678559/) 
 
-	
 	great video man!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [678559] (1)
 
-		
 		Muchas gracias Luis! Creo que subiré algo así a mi Youtube
 
-* **leonelfrancisco** (1)
+* **leonelfrancisco** (1) [675285](https://platzi.com/comentario/675285/) 
 
-	
 	muy buen video!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [675285] (1)
 
-		
 		Muchas gracias Leonel! Espero que te guste mucho el curso y no olvides dejar tus 5 estrellas al final!
 
-* **mateo-angel** (1)
+* **mateo-angel** (1) [675095](https://platzi.com/comentario/675095/) 
 
-	
 	Fantástica presentación.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [675095] (1)
 
-		
 		Gracias Mateo! Que bueno que te haya gustado tanto esta clase!
 
-* **david bryan alcocer cañete** (1)
+* **david bryan alcocer cañete** (1) [666050](https://platzi.com/comentario/666050/) 
 
-	
 	excelente presentación.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [666050] (1)
 
-		
 		Muchas gracias Bryan!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [665934](https://platzi.com/comentario/665934/) 
 
-	
 	Listo! A darle.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [665934] (1)
 
-		
 		Bienvenid!
 
-* **JheysonEGalvis** (1)
+* **JheysonEGalvis** (1) [643922](https://platzi.com/comentario/643922/) 
 
-	
 	Será entonces que enseñar a pasar de binario a decimal y de decimal a binario ya no es necesario o que opinan?
 
-	* **Alan Santiago** (1)
+	* **Alan Santiago** [643922] (1)
 
-		
 		Necesario como tal no lo veo tan necesario, aunque nunca está de más aprender cómo es que la computadora hace cálculos directamente con números en binario.  
 		Es interesante aprender cómo es que se hacen las comparaciones usando las compuertas lógicas, lo que sucede detrás de un `5 < 10 && 6 > 4` en _JavaScript_ 😃
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [643922] (2)
 
-		
 		no es para nada necesario si vas a hacer programacion de alto nivel, si vas a programar juegos, sismtemas embebidos, etc, es importante que si lo tengas claro.
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [619779](https://platzi.com/comentario/619779/) 
 
-	
 	Interesante!
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [605804](https://platzi.com/comentario/605804/) 
 
-	
 	Excelente curso muy interesante !
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [605804] (1)
 
-		
 		Muchas gracias Luis! Disfutalo mucho
 
-* **Luis felipe muñoz mejia** (1)
+* **Luis felipe muñoz mejia** (1) [589227](https://platzi.com/comentario/589227/) 
 
-	
 	muy melo.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [589227] (1)
 
-		
 		Gracias!
 
-* **Victor Peña Martinez** (1)
+* **Victor Peña Martinez** (1) [576217](https://platzi.com/comentario/576217/) 
 
-	
 	buen trabajo
 
-* **Ingluismaldonado0516** (1)
+* **Ingluismaldonado0516** (1) [550519](https://platzi.com/comentario/550519/) 
 
-	
 	La clase es muy buena, tiene una chevere mecanica a la hora de explicar las clase.
 
-* **maadpeal** (1)
+* **maadpeal** (1) [537047](https://platzi.com/comentario/537047/) 
 
-	
 	Verifique el dato en la calculadora de programadores binarios y es muy true su respuesta jaja
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [537047] (1)
 
-		
 		jajaja bien!
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [535210](https://platzi.com/comentario/535210/) 
 
-	
 	Excelente explicación.
 
-* **Ale17273has** (1)
+* **Ale17273has** (1) [525629](https://platzi.com/comentario/525629/) 
 
-	
 	Interesante la forma como se esta enseñando, seria bueno tener el pdf del curso
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [525629] (1)
 
-		
 		esta en la sig clase! pero ya te las dejo en la seccion de archivos en esta tambien1
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [80863](https://platzi.com/comentario/967972/) 
 buena explicación.
 
-* **Jorge Arango** (1)
+* **Jorge Arango** (1) [73158](https://platzi.com/comentario/829640/) 
 Y en cuanto al audio, cómo se procesa la señal o el texto que lee el computador? Y, está eso relacionado con los 320kps que uno a veces v...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [73158] (1)
 
-		
 		Funciona muy parecido a las imágenes hasta cierto punto, lo que pasa con el audio es que es un formato que tiene duración entonces cada segundo de audio tiene información diferente al anterior para mitigar esto existen los algoritmos de compresión de audio que te permiten que el audio pese mucho menos, los formatos de compresión como MP3, y como lo señalas tu, comprimen el audio a 320kbps es decir un segundo nunca va a tener más de 320 kilobits por 1 segundo, existen otras formas de compresión como FLAC que es lossless es decir, que nunca vas a perder información, la información simplemente se comprime como si fuera un .zip o un .rar  
 		  
 		Todo esto se explica muy a fondo en el [Curso de Fundamentos de Ingeniería de Software](https://platzi.com/clases/ingenieria/)
 
-* **Leonel Bellabarba** (1)
+* **Leonel Bellabarba** (1) [67951](https://platzi.com/comentario/731827/) 
 no entendí el ejemplo de la letra T. Porque daría 84?
 
-	* **omarmoralesmunoz** (1)
+	* **omarmoralesmunoz** [67951] (1)
 
-		
 		cada carácter tiene un valor decimal esto lo puedes comprobar con la tabla ASCII <https://elcodigoascii.com.ar/>  
 		este valor decimal es fácilmente representado en binario y entendido por las computadoras
 
-* **Arturo_FrieS** (1)
+* **Arturo_FrieS** (1) [66127](https://platzi.com/comentario/703349/) 
 Como una computadora puede simular una canción o sonido? Tal vez no se entienda mi pregunta pero quisiera saber como se guarda un sonido ...
 
-	* **Sergio Arturo Enriquez Nava** (1)
+	* **Sergio Arturo Enriquez Nava** [66127] (1)
 
-		
 		Los bits al final son codigo binario, el sonido tambien se guarda en binario, qui en platzi lo explican:
 		
 		[**Da click aqui para ir a la clase**](https://platzi.com/clases/1098-ingenieria/6549-que-son-bits-y-byt-8/)
 
-* **jhonnycubillos** (1)
+* **jhonnycubillos** (1) [63968](https://platzi.com/comentario/667855/) 
 Cual seria el lenguaje para escribir en binario??. en caso de que quiera experimentar.
 
-	* **Sergio Atanacio** (1)
+	* **Sergio Atanacio** [63968] (1)
 
-		
 		Por lo que sé. No se puede escribir en binario. Es decir. Tal vez sí. Pero sería improductivo. Pues lo entiende la computadora. Pero para una persona no, es como si un albañil tratara de construir una casa mezclando u contando arena por arena, para hacer el semento, o el ladrillo, o los clavoz. Cuando simplemente puede usar un ladrillo. Lo mas bajo que se puede escribir es en assembler.
 		
 		Lo que se hace es escribir en lenguajes de mas alto nivel. Y luego el compilador el el interprete combierte automáticamente a lenguaje máquina. Que es lo que significa binario. Trabando con unos y ceros. Ademas.
 		
 		Corrigeme si me equivoco.
 
-* **Juan José Castro** (0)
+* **Juan José Castro** (0) [729994](https://platzi.com/comentario/729994/) 
 
-	
 	Una duda cuando das el ejemplo de los pixeles, lo que define el color del bit seria el conjunto de todos los bits que “encajarían” en todos los cuadrados de la hoja en el ejemplo ?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [729994] (1)
 
-		
 		el color de un bit se hace a través de un encoding, mira puede ser de 8 y 16 bits por ejemplo, o mas
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [729994] (2)
 
-		
 		<https://en.wikipedia.org/wiki/8-bit_color>
 
-## 0030. Lenguajes de programación
+## 0030. Lenguajes de programación [16934](https://platzi.com/clases/1469-algoritmos/16934-lenguajes-de-programacion/)
 
 ### Descripción:
 
@@ -1475,308 +1230,263 @@ Existen diversos tipos de lenguajes de programación y los podemos reducir en 2 
 
 ### Comentarios:
 
-* **paola-diaz361** (13)
-![IMG_20200303_143921.jpg](https://static.platzi.com/media/user_upload/IMG_20200303_143921-92e3b903-97fa-4faf-b4c4-ddc42850efe8.jpg)
-
-* **mafevito** (7)
-
+* **paola-diaz361** (13) [1017353](https://platzi.com/comentario/1017353/) 
 	
+	![IMG_20200303_143921.jpg](https://static.platzi.com/media/user_upload/IMG_20200303_143921-92e3b903-97fa-4faf-b4c4-ddc42850efe8.jpg)
+
+* **mafevito** (7) [569155](https://platzi.com/comentario/569155/) 
+
 	Los lenguajes de programación se dividen en dos campos:
 	
-	  * **Lenguajes de bajo nivel:** cuando se dice que un lenguaje es de bajo nivel quiere decir que se ejecuta más cerca de la CPU y, por lo tanto, es más difícil de entender. Por ejemplo, los lenguajes de programación más cercanos a la CPU son el lenguaje máquina y el ensamblador.
+	* **Lenguajes de bajo nivel:** cuando se dice que un lenguaje es de bajo nivel quiere decir que se ejecuta más cerca de la CPU y, por lo tanto, es más difícil de entender. Por ejemplo, los lenguajes de programación más cercanos a la CPU son el lenguaje máquina y el ensamblador.
 	
-	  * **Lenguajes de alto nivel:** son los que están más cerca a nuestro lenguaje humano, es más amigable para nosotros. Por ejemplo, los lenguajes programación de alto nivel serían JavaScript o Python.
+	* **Lenguajes de alto nivel:** son los que están más cerca a nuestro lenguaje humano, es más amigable para nosotros. Por ejemplo, los lenguajes programación de alto nivel serían JavaScript o Python.
 	
 	
 	
 
-* **FranLMSP** (6)
+* **FranLMSP** (6) [946285](https://platzi.com/comentario/946285/) 
 
-	
 	Aun se sigue usando ensablador para programar drivers por ejemplo, o para programar emuladores
 
-* **Vandersal Aheram Archila Chua** (6)
+* **Vandersal Aheram Archila Chua** (6) [535596](https://platzi.com/comentario/535596/) 
 
-	
 	Recuerdo haber trabajado en la universidad con ensamblador y en verdad me da miedo :c, me gustaría un curso de ensamblador
 
-* **Angie Garcia** (4)
+* **Angie Garcia** (4) [910027](https://platzi.com/comentario/910027/) 
 Ampersand: Me puse averiguar un poco sobre este código, ya que no hemos profundizado mucho y respecto a lo que él dice que ya se ha visto creo que no ha sido tan claro, sin embargo esto fue lo que encontré buscando alguna información. En HTML se usa al comienzo de los códigos de entidad con que se designan los caracteres especiales: los ejemplos más típicos son > <, y & (>, < y &, respectivamente). En Internet y direcciones web, & simboliza la separación de variables pasadas mediante GET. En Excel, se usa para concatenar celdas. En Access, se usa para sustituir un carácter o un espacio en máscaras de entrada. En la línea de comando (CLI) de Bash (Bourne Again Shell) Zbash, etc. usadas en Unix, GNU/Linux y *BSD se usa & al final de una orden para ejecutarla en segundo plano. En JavaScript, se usa para decir and (y)
 
-* **Fernando Jesús Paredes Rios** (4)
+* **Fernando Jesús Paredes Rios** (4) [561054](https://platzi.com/comentario/561054/) 
 
-	
 	Es recomendable aprender primero lenguajes de alto nivel o de bajo nivel? saludos.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [561054] (6)
 
-		
 		En mi opinión es mejor un lenguaje de Alto nivel primero, con esto aprendes todos los conceptos de programación y luego ya puedes afrontar con una curva de aprendizaje menor lenguajes de bajo nivel.
 
-* **David Behar** (4)
+* **David Behar** (4) [523958](https://platzi.com/comentario/523958/) 
 
-	
 	Yo aprendí a programar en AS3 (lo extraño), mi lenguaje favorito actualmente es js, aunque pasé por C, C++, C#, Java (ese no lo extraño), PHP.
 	
 	Es muy útil entender la diferencia entre lenguajes de alto y bajo nivel para poder entender los límites de éstos.
 
-* **Abner Paul Ccari Lindo** (3)
+* **Abner Paul Ccari Lindo** (3) [789112](https://platzi.com/comentario/789112/) 
 
-	
 	En resumen:  
 	![](https://cslib.co.uk/wp-content/uploads/2018/09/translators.jpg)
 
-	* **predator0077** (1)
+	* **predator0077** [789112] (1)
 
-		
 		Muchas Gracias por el aporte.
 
-* **Ivan Mendez** (3)
+* **Ivan Mendez** (3) [786712](https://platzi.com/comentario/786712/) 
 
-	
 	“Lenguajes de bajo nivel: Son los que te permiten hacer modificaciones en el hardware. **Entre más alto es el nivel** , más nos debemos preocupar los programadores por el hardware”
 	
 	¿No se supone que tiene que ser alrevez? entre mas bajo mas nos tenemos que preocupar por el hardware.
 
-	* **alexander garcia castañeda** (1)
+	* **alexander garcia castañeda** [786712] (1)
 
-		
 		no sé si se refiera al hecho de que un lenguaje de alto nivel requiere más recursos del pc y por lo tanto requiera más hardware
 
-* **Michèle Däppen** (3)
+* **Michèle Däppen** (3) [525040](https://platzi.com/comentario/525040/) 
 
-	
 	Nota, los registros estan en el procesador. existe una instrucción llamada MOV, que mueve el valor de la memoria al registro. MOV RAX, 2 ; Mueve el valor 2 al registro RAX (64 bits) MOV RBX, 2 ; Mueve el valor 2 al registro RBX ADD RAX, RBX ; Suma el valor de RBX al de RA
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [525040] (1)
 
-		
 		Así es en la memoria del cpu
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [957271](https://platzi.com/comentario/957271/) 
 
-	
 	Me encantaría aprender C es un lenguaje muy interesante .
 
-* **Hanier Steve Morales Pérez** (2)
+* **Hanier Steve Morales Pérez** (2) [884412](https://platzi.com/comentario/884412/) 
 
-	
 	Los lenguajes de bajo nivel no cuentan con un overhead o una carga que haga que sea más lento el procesamiento de las instrucciones.
 	
 	C o C++ Se ocupa mucho en sistemas embebidos (microcomputadoras que viven en lavadoras, microondas, etc)
 
-	* **Carlos Garcia** (2)
+	* **Carlos Garcia** [884412] (2)
 
-		
 		Debe ser una belleza programar para sistema de AVR.
 
-* **Carlos Eduardo Arreguin Ulloa** (2)
+* **Carlos Eduardo Arreguin Ulloa** (2) [817727](https://platzi.com/comentario/817727/) 
 No pude ver la clase pasada :/
 
-	* **Davic64** (1)
+	* **Davic64** [817727] (1)
 
-		
 		Esta en youtube
 
-* **mic416** (2)
+* **mic416** (2) [667419](https://platzi.com/comentario/667419/) 
 
-	
 	hay un error en la descripcion del video. Donde dice “tenemos el lenguaje máquina (solo código binario) como el de más **alto** nivel” deberia decir “como el de más **bajo** nivel”
 
-	* **eraldoch** (1)
+	* **eraldoch** [667419] (1)
 
-		
 		En la lectura al pie del video también figura el error descrito por tí. :]  
 		Salu2
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [667419] (1)
 
-		
 		gracias vamos a revisar!
 
-* **JheysonEGalvis** (2)
+* **JheysonEGalvis** (2) [643921](https://platzi.com/comentario/643921/) 
 
-	
 	Muy interesante, entonces, a su vez podríamos afirmar que los lenguajes de alto nivel son los más fácil de aprender.
 
-* **Gtiseira** (2)
+* **Gtiseira** (2) [561699](https://platzi.com/comentario/561699/) 
 
-	
 	Recuerdo los trabajo realizados en la tecnicatura cuando programamos en Assembler, trabajando sobre el PIC16F84A
 
-* **Yake Nunura Baylon** (1)
-![](https://lh3.googleusercontent.com/898Yufgj8mbsE6aTeXl4bwKhvA2JB9ktKIdDAwfOssFiOOQyYHBzPngOveiSmD2w-M7p3YhWfYi9g4Xj0-Pf7om6HMCg_uixvnRX9AWaNKcjc1j23WulFjbsqyF2HApoVmCPPPaYpEPTvTD2waAP-mBMpH79diUHsbojHmxOfjxw0TPl3ZmkkKDta5N0008I3UVJspAMIJ2LfIfDeEj65-lwsne6-KQ_hdn2boKo53QAOGgdtc14QB09VasBqMflFomO2BtqFUvDFld6aSdQAWEMEpWDF2luQ8gZFgKuxRLyjSJIKZo-yf0JntcikXii8N-EAtxSv0cIsr5kTzk5zhUgNNS8oE7SXjkRqgeADGilwJYhF-v3Q9R0unA45GxFmEMMUszzd3wVUOsZT0e_S7lH3x_Blwm5XMlJTC8MCLENXjFSeJudPUW3UpXBqhSMbXRFMpDMnB2iEk7VEsZZ8Ux6iHOFZsfPlaci3L2fA2KPsCUUzyI9xWy75XoEC6NmsmDiIKS7H-xbmqOVDycEsipkl9P_uh1xip0vyWFNEyfe7iOya3W46OO8hBVrcQO-I2fgXbPW_WZ0VEK7IlTODUSZnF-dC8YB3uR3C551dob0H2HP3JHbJdt2wfvI1kKvBihT2PlHDOgaQKViXv39kBPGPo-GcpT4MZcqWIYhoXS7P0Ge6QNA6poWKqLh9A=w737-h513-no)
-
-* **luis-e-chitala** (1)
-
+* **Yake Nunura Baylon** (1) [1072594](https://platzi.com/comentario/1072594/) 
 	
+	![](https://lh3.googleusercontent.com/898Yufgj8mbsE6aTeXl4bwKhvA2JB9ktKIdDAwfOssFiOOQyYHBzPngOveiSmD2w-M7p3YhWfYi9g4Xj0-Pf7om6HMCg_uixvnRX9AWaNKcjc1j23WulFjbsqyF2HApoVmCPPPaYpEPTvTD2waAP-mBMpH79diUHsbojHmxOfjxw0TPl3ZmkkKDta5N0008I3UVJspAMIJ2LfIfDeEj65-lwsne6-KQ_hdn2boKo53QAOGgdtc14QB09VasBqMflFomO2BtqFUvDFld6aSdQAWEMEpWDF2luQ8gZFgKuxRLyjSJIKZo-yf0JntcikXii8N-EAtxSv0cIsr5kTzk5zhUgNNS8oE7SXjkRqgeADGilwJYhF-v3Q9R0unA45GxFmEMMUszzd3wVUOsZT0e_S7lH3x_Blwm5XMlJTC8MCLENXjFSeJudPUW3UpXBqhSMbXRFMpDMnB2iEk7VEsZZ8Ux6iHOFZsfPlaci3L2fA2KPsCUUzyI9xWy75XoEC6NmsmDiIKS7H-xbmqOVDycEsipkl9P_uh1xip0vyWFNEyfe7iOya3W46OO8hBVrcQO-I2fgXbPW_WZ0VEK7IlTODUSZnF-dC8YB3uR3C551dob0H2HP3JHbJdt2wfvI1kKvBihT2PlHDOgaQKViXv39kBPGPo-GcpT4MZcqWIYhoXS7P0Ge6QNA6poWKqLh9A=w737-h513-no)
+
+* **luis-e-chitala** (1) [1028672](https://platzi.com/comentario/1028672/) 
+
 	Quedó perfecto para repasar mis dos materias de la universidad
 
-* **heriberto98** (1)
+* **heriberto98** (1) [1000760](https://platzi.com/comentario/1000760/) 
 
-	
 	estudie ingenieria en sistemas y en el 7mo semestre me toco que programar en asembler.
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [971375](https://platzi.com/comentario/971375/) 
 
-	
 	Me imagino los programadores de la epoca programando en Assembler
 
-* **jhonsoccer11** (1)
+* **jhonsoccer11** (1) [961159](https://platzi.com/comentario/961159/) 
 
-	
 	Recuerde que Java y JavaScript son lenguajes distintos. Sin embargo ambos son de nivel alto.
 
-* **Juan Luis Chavez Manjarres** (1)
+* **Juan Luis Chavez Manjarres** (1) [957290](https://platzi.com/comentario/957290/) 
 
-	
 	Es importante tener esta información clara. Java y javascript son grandes lenguajes.
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [949236](https://platzi.com/comentario/949236/) 
 
-	
 	Gracias por tu excelente explicación.
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [943028](https://platzi.com/comentario/943028/) 
 
-	
 	**Alto Nivel -> Java, C#, Python, JavaScript
 	
 	Bajo Nivel -> C, C++**
 
-* **andresmontealegre315** (1)
+* **andresmontealegre315** (1) [940004](https://platzi.com/comentario/940004/) 
 
-	
 	Lenguajes de programación más usados según el tipo de desarrollo  
 	<https://www.yeeply.com/blog/lenguajes-de-programacion-mas-usados/>
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [919622](https://platzi.com/comentario/919622/) 
 Código máquina y código ensamblador son de primer nivel
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [870205](https://platzi.com/comentario/870205/) 
 *Resumen de esta clase* \- Los lenguajes de programación son un set de instrucciones para que la computadora pueda ejecutar un proceso o una serie de procesos y es la manera que nosotros nos comunicamos con la computadora. Existen *lenguajes de bajo nivel* como: \- Lenguaje máquina (0 y 1) \- Ensamblador \- C \- C++ Estos nos permiten comunicarnos directo a la máquina. Y los de alto nivel como: \- Java \- Phyton \- JavaScript \- Ruby Lenguajes que requieren de una interpretación para ser ejecutados.
 
-* **JCristoVive** (1)
+* **JCristoVive** (1) [867958](https://platzi.com/comentario/867958/) 
 
-	
 	Hay varios tipos de lenguajes de programacion, los mas viejos son los de maquina, el esamblador.
 	
 	Los lenguajes de medio nivel: C, C++ y JAVA.
 	
 	Los lenguajes de alto nivel: Javascript, Ruby, Phyton, Perl, necesitan un interprete, que llegue al CPU.
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [862833](https://platzi.com/comentario/862833/) 
 
-	
 	uff
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [842275](https://platzi.com/comentario/842275/) 
 
-	
 	Un poco complicadito se puso el tema.
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [796358](https://platzi.com/comentario/796358/) 
 
-	
 	Cool
 
-* **katherinecornejotejeda** (1)
+* **katherinecornejotejeda** (1) [734321](https://platzi.com/comentario/734321/) 
 
-	
 	Genial… Es super emocionante!!!
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [686159](https://platzi.com/comentario/686159/) 
 
-	
 	Ya me estoy mareando. XD
 
-* **Mario Emiliano Gordon Pico** (1)
+* **Mario Emiliano Gordon Pico** (1) [684369](https://platzi.com/comentario/684369/) 
 No recuerdo que en la clase pasada se haya hablado de bits! La clase pasada fue la introducción
 
-	* **Nicolas Restrepo** (1)
+	* **Nicolas Restrepo** [684369] (1)
 
-		
 		La clase pasada, fue acerca de lo que entienden los computadores
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [684369] (1)
 
-		
 		de pronto es por que la estabas viendo en móviles pero en desktop si la podrías ver
 
-* **Alberto Campos Hernandez** (1)
+* **Alberto Campos Hernandez** (1) [682532](https://platzi.com/comentario/682532/) 
 
-	
 	Los lenguajes de bajo nivel son los mas rápidos para interactuar con nuestros componentes físicos.
 
-* **yairmendo** (1)
+* **yairmendo** (1) [681499](https://platzi.com/comentario/681499/) 
 
-	
 	Aprendí ensamblador en la escuela y tiene ventajas para procesos muy específicos como el menciona
 
-* **pablo97andres** (1)
+* **pablo97andres** (1) [672935](https://platzi.com/comentario/672935/) 
 
-	
 	El lenguaje ensamblador es bastante interesante. En la universidad en la materia de Estructura de computadores nos enseñan MIPS y usamos un simulador para programar.
 
-* **Ingluismaldonado0516** (1)
+* **Ingluismaldonado0516** (1) [550530](https://platzi.com/comentario/550530/) 
 
-	
 	Buenas,
 	
 	No he programado en C y C++
 	
 	Cual me recomiendan empezar, Ya que quiero probar estos lenguaje ?
 
-	* **Angel Hernandez** (4)
+	* **Angel Hernandez** [550530] (4)
 
-		
 		Hola 😄 C es como… El viejo roble del bosque, es bastante poderoso si necesitas realizas acciones a nivel de sistema operativo, si eres de los que te gusta ir de lo difícil a lo fácil inicia por ahí.
 		
 		C++ es más como un C maquillado, más sencillo y fácil de aprender, con el puedes hacer excelentes aplicaciones en consola y de igual forma ejecutar procesos de bajo nivel, es muy buena opción si quieres hacer un calentamiento y luego pasar a su padre C
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [550530] (2)
 
-		
 		yo te recomiendo C! en el curso de programacion estructurada! la profe, Dani Coyotzi lo ensenia genial
 
-	* **Eduardo Rivera** (1)
+	* **Eduardo Rivera** [550530] (1)
 
-		
 		Yo tambien te recomendaria C, porque es estructurado y C++ ya es un poquito mas avanzado orientados a objetos.
 
-* **Syddar Bujato** (1)
+* **Syddar Bujato** (1) [533735](https://platzi.com/comentario/533735/) 
 Interesante curso
 
-* **luismar** (1)
+* **luismar** (1) [81090](https://platzi.com/comentario/973256/) 
 hola, no entiendo cuando dice que el lenguaje no tiene una carga que haga que sea mas lento el procesamiento de las instrucciones.
 
-	* **Luciano Magnífico** (1)
+	* **Luciano Magnífico** [81090] (1)
 
-		
 		Quiere decir que los lenguajes de bajo nivel a los que está haciendo referencia no necesitan ser interpretados (“traducidos”) para que el CPU ejecute las instrucciones.
 
-* **jeydvc** (1)
+* **jeydvc** (1) [80596](https://platzi.com/comentario/962290/) 
 Hola, no entiendo cuando dicen que es programación orientada a objetos. Muchas gracias.
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [80596] (1)
 
-		
 		Buenas,  
 		en este vídeo anncode te lo explica:  
 		<https://www.youtube.com/watch?v=Mi_sRAfs7TE>  
 		Un saludo.
 
-* **Ingluismaldonado0516** (1)
+* **Ingluismaldonado0516** (1) [56267](https://platzi.com/comentario/550530/) 
 Buenas, No he programado en C y C++ Cual me recomiendan empezar, Ya que quiero probar estos lenguaje ?
 
-	* **Angel Hernandez** (4)
+	* **Angel Hernandez** [56267] (4)
 
-		
 		Hola 😄 C es como… El viejo roble del bosque, es bastante poderoso si necesitas realizas acciones a nivel de sistema operativo, si eres de los que te gusta ir de lo difícil a lo fácil inicia por ahí.
 		
 		C++ es más como un C maquillado, más sencillo y fácil de aprender, con el puedes hacer excelentes aplicaciones en consola y de igual forma ejecutar procesos de bajo nivel, es muy buena opción si quieres hacer un calentamiento y luego pasar a su padre C
 
-## 0040. Estructuras de datos
+## 0040. Estructuras de datos [16967](https://platzi.com/clases/1469-algoritmos/16967-estructuras-de-datos/)
 
 ### Descripción:
 
@@ -1785,14 +1495,14 @@ Las estructuras de datos son una forma eficiente de almacenar y organizar la inf
 
 Podemos clasificar las estructuras en dos grandes grupos:
 
-  * **Lineales** : La información se guarda de forma secuencial y podemos personalizar el orden en que se guardan. Por ejemplo, de acuerdo a las fecha, relevancia de la información, entre otras.
-  * **No lineales** : No toda la información está al mismo nivel o almacenada con un orden especifico. Por ejemplo, en la estructura de árbol tenemos un tronco principal con diferentes ramificaciones que surgen a partir de este o, también, la estructura de grafos donde tenemos puntos de información dispersos pero interconectados entre sí.
+* **Lineales** : La información se guarda de forma secuencial y podemos personalizar el orden en que se guardan. Por ejemplo, de acuerdo a las fecha, relevancia de la información, entre otras.
+* **No lineales** : No toda la información está al mismo nivel o almacenada con un orden especifico. Por ejemplo, en la estructura de árbol tenemos un tronco principal con diferentes ramificaciones que surgen a partir de este o, también, la estructura de grafos donde tenemos puntos de información dispersos pero interconectados entre sí.
 
 
 
 ### Comentarios:
 
-* **heysoypaez** (9)
+* **heysoypaez** (9) [532287](https://platzi.com/comentario/532287/) 
 <h1>CLASE #4</h1>
 	
 	Te dejo un poco de mi caos y mi orden en base a lo que aprendi y reflexione en esta clase.
@@ -1803,8 +1513,8 @@ Podemos clasificar las estructuras en dos grandes grupos:
 	
 	-Los programas siempre van a estar trabajando con información
 	
-	  * Un dato es _el ladrillo de lo que llamamos información_
-	  * Una estructura de datos es la manera en la que organizamos esos ladrillos para alcanzar nuestros objetivos y resolver nuestros problemas
+	* Un dato es _el ladrillo de lo que llamamos información_
+	* Una estructura de datos es la manera en la que organizamos esos ladrillos para alcanzar nuestros objetivos y resolver nuestros problemas
 	
 	
 	
@@ -1812,10 +1522,10 @@ Podemos clasificar las estructuras en dos grandes grupos:
 	
 	_Tiene dos grandes familias de estructuras de datos:_
 	
-	  * lineales  
+	* lineales  
 	–la informacion se guarda en una secuencia lineal
 	
-	  * No lineales  
+	* No lineales  
 	la informacion se guarda en secuencias independientes e interconectadas
 	
 	
@@ -1892,35 +1602,31 @@ Podemos clasificar las estructuras en dos grandes grupos:
 	    
 	```
 
-	* **jonathan2138** (2)
+	* **jonathan2138** [532287] (2)
 
-		
 		Buen complemento, saludos
 
-	* **heysoypaez** (1)
+	* **heysoypaez** [532287] (1)
 
-		
 		un placer jonathan, me alegra serte util
 
-	* **jhonsoccer11** (1)
+	* **jhonsoccer11** [532287] (1)
 
-		
 		Excelente compañero. 😃
 
-* **paola-diaz361** (6)
-![IMG_20200303_212306_1.jpg](https://static.platzi.com/media/user_upload/IMG_20200303_212306_1-8276052a-824d-4a2c-bef3-85e06ce53f65.jpg)
+* **paola-diaz361** (6) [1017898](https://platzi.com/comentario/1017898/) 
+	
+	![IMG_20200303_212306_1.jpg](https://static.platzi.com/media/user_upload/IMG_20200303_212306_1-8276052a-824d-4a2c-bef3-85e06ce53f65.jpg)
 
-	* **Brallan Leandro** (2)
+	* **Brallan Leandro** [1017898] (2)
 
-		
 		Esta genial tus notas cornell
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [1017898] (1)
 
-		
 		Hola brallanleandro, Muchas gracias por tu comentario 😃
 
-* **heysoypaez** (5)
+* **heysoypaez** (5) [532288](https://platzi.com/comentario/532288/) 
 <h1>Esbozos de mi primer codigo para solucionar el problema</h1>
 	
 	¿Como detecta una computadora la adyacencia?  
@@ -1998,283 +1704,232 @@ Podemos clasificar las estructuras en dos grandes grupos:
 	    
 	```
 
-* **Cabezas29** (4)
+* **Cabezas29** (4) [850893](https://platzi.com/comentario/850893/) 
 
-	
 	Matriz de adyacencia  
 	<https://platzi.com/clases/1319-discretas/12225-matriz-de-adyacencia/>  
 	Gracias Platzi respuesta a cada duda.
 
-* **Melisa Lozano (Platzi)** (4)
+* **Melisa Lozano (Platzi)** (4) [663542](https://platzi.com/comentario/663542/) 
 
-	
 	Las estructuras de datos se van a dividir en 2 grandes familias: las lineales y las no lineales.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [663542] (2)
 
-		
 		Así es! hay que evaluar el problema y elegir la adecuada!
 
-* **Melisa Lozano (Platzi)** (4)
+* **Melisa Lozano (Platzi)** (4) [663540](https://platzi.com/comentario/663540/) 
 
-	
 	Esta forma organizada, estructurada, eficiente y específica de almacenar la información va a ser conocida como una estructura de datos
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [663540] (3)
 
-		
 		Mel! No desistas de tomar el curso!
 
-* **JheysonEGalvis** (3)
+* **JheysonEGalvis** (3) [643945](https://platzi.com/comentario/643945/) 
 
-	
 	En la universidad se me dificultó un poco el curso de estructuras de datos. Espero aquí lograr despejar esas dudas.
 
-* **Andrés Campuzano Garzón** (2)
+* **Andrés Campuzano Garzón** (2) [1069421](https://platzi.com/comentario/1069421/) 
 
-	
 	Estoy muy emocionado.
 
-* **luis-e-chitala** (2)
+* **luis-e-chitala** (2) [1028678](https://platzi.com/comentario/1028678/) 
 
-	
 	Algo obligado a dominar para ser un mejor profesional
 
-* **Carlos Alejandro González Benitez** (2)
+* **Carlos Alejandro González Benitez** (2) [1019776](https://platzi.com/comentario/1019776/) 
 
-	
 	Los los datos se ejecutan dependiendo del tipo de instrucciones, estos pueden ser dos tipos:
 	
-	  * **Lineales** o secuenciales (cuando las instrucciones se ejecutan una detrás de la otra).
+	* **Lineales** o secuenciales (cuando las instrucciones se ejecutan una detrás de la otra).
 	
-	  * **No lineales** o selectivas (cuando se ejecutan en función de una condición), también pueden haber aquellas que sean “repetitivas” (que se ejecutan tantas veces según la condición)
+	* **No lineales** o selectivas (cuando se ejecutan en función de una condición), también pueden haber aquellas que sean “repetitivas” (que se ejecutan tantas veces según la condición)
 	
 	
 	
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [949268](https://platzi.com/comentario/949268/) 
 
-	
 	Esto es conceptos y conocimiento nuevo, mil gracias.
 
-* **Efraín Hernández García** (2)
+* **Efraín Hernández García** (2) [870215](https://platzi.com/comentario/870215/) 
 Buena explicación y gran ejemplo de coordenadas. Lo entendí perfecto.
 
-* **Eduardo Rivera** (2)
+* **Eduardo Rivera** (2) [846256](https://platzi.com/comentario/846256/) 
 
-	
 	Soy casi titulado de Ing. en sistemas y darle una pasada a estos cursos es muy padre porque recuerdas cosas que tiene mucho no veías y siempre sigues utilizando.
 
-* **Irving Rubén Merino Núñez** (2)
+* **Irving Rubén Merino Núñez** (2) [842276](https://platzi.com/comentario/842276/) 
 
-	
 	Soy nuevo en todo esto pero esta todo bien explicado que ya me siento con algùn fundamento para aprender.
 
-* **Carlos Chavez** (2)
+* **Carlos Chavez** (2) [768180](https://platzi.com/comentario/768180/) 
 
-	
 	Esta super soy nuevo y me encanta este curso
 
-* **leon-cuervo** (2)
+* **leon-cuervo** (2) [710602](https://platzi.com/comentario/710602/) 
 
-	
 	Dato a recordar: Matrices de Adyacencias.
 
-* **joel nicolas quezada nuñez** (2)
+* **joel nicolas quezada nuñez** (2) [595079](https://platzi.com/comentario/595079/) 
 
-	
 	Manipular Datos para diseñar programas.
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [595079] (3)
 
-		
 		exactamente asi
 
-* **Ingluismaldonado0516** (2)
+* **Ingluismaldonado0516** (2) [550569](https://platzi.com/comentario/550569/) 
 
-	
 	En mi caso sería:
 	
 	Casa, Comida, Trabajo, Universidad.
 	
 	Ajuntare Imgen de lo que realice dirante la clase.
 
-* **Kerohuixco** (2)
+* **Kerohuixco** (2) [524991](https://platzi.com/comentario/524991/) 
 
-	
 	Yo aprendí a programar en c con MikroC para microcontroladores de 8bit
 
-* **Sebastian Marin** (1)
+* **Sebastian Marin** (1) [1115133](https://platzi.com/comentario/1115133/) 
 
-	
 	Muy interesante la clase
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1091665](https://platzi.com/comentario/1091665/) 
 
-	
 	los espacios de memoria son en hexadecimal
 
-* **Lucas Barisonzi** (1)
+* **Lucas Barisonzi** (1) [1082019](https://platzi.com/comentario/1082019/) 
 
-	
 	Graciass
 
-* **leonardc** (1)
+* **leonardc** (1) [1051712](https://platzi.com/comentario/1051712/) 
 
-	
 	Excelente explicación. Gracias
 
-* **Carlos Ernesto Alvarez Rosales** (1)
+* **Carlos Ernesto Alvarez Rosales** (1) [1004705](https://platzi.com/comentario/1004705/) 
 
-	
 	Muy bien explicado 😄
 
-* **andresglond** (1)
+* **andresglond** (1) [993132](https://platzi.com/comentario/993132/) 
 
-	
 	muy buena la explicacion
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [982599](https://platzi.com/comentario/982599/) 
 
-	
 	Un ejercicio genial
 
-* **Christian Sanclemente** (1)
+* **Christian Sanclemente** (1) [979851](https://platzi.com/comentario/979851/) 
 
-	
 	Muy bien explicado !
 
-* **Mayfra Useche** (1)
+* **Mayfra Useche** (1) [977967](https://platzi.com/comentario/977967/) 
 
-	
 	Genial!!
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [971395](https://platzi.com/comentario/971395/) 
 
-	
 	El modelo de transporte es lineal o no lineal?
 
-* **MiguelInge** (1)
+* **MiguelInge** (1) [963385](https://platzi.com/comentario/963385/) 
 
-	
 	no hizo falta comida-casa?
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [963385] (1)
 
-		
 		si tienes razón
 
-	* **Daciro** (1)
+	* **Daciro** [963385] (1)
 
-		
 		no, en la segunda adyacencia esta, pero como casa-comida
 
-	* **MiguelInge** (1)
+	* **MiguelInge** [963385] (1)
 
-		
 		Daciro, lo que pasa es que también se puede ir de comida a casa
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [957296](https://platzi.com/comentario/957296/) 
 
-	
 	Estos temas son muy interesantes, cuando logras comprender cómo se hace y para qué se hace es increíble.
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [919674](https://platzi.com/comentario/919674/) 
 Estoy empezando de cero y el curso me va ubicando. Gracias.
 
-* **JCristoVive** (1)
+* **JCristoVive** (1) [867977](https://platzi.com/comentario/867977/) 
 
-	
 	Estructura de datos, la verdad no sabia nada, pero estoy poco a poco aprendiendo, ahora veo que casi todo funciona con las matematicas, no ssabia que las direcciones estan por las cordenadas de cuadro cartesiano, por el eje x y el eje y, y que asi se busca las direcciones, interesante.
 
-* **Miguel Angel Martelo Quiroz** (1)
+* **Miguel Angel Martelo Quiroz** (1) [848533](https://platzi.com/comentario/848533/) 
 
-	
 	Nunca para de aprender, esa es la cuestión, seguro que al principio de la carrera de ing de sistemas lo vi, pero muy bueno recordarlo ahora y más para ponerlo en practica en nuestro trabajo y día a día. GENIAL!!!
 
-* **José Angel Mejia** (1)
+* **José Angel Mejia** (1) [708847](https://platzi.com/comentario/708847/) 
 
-	
 	Se esta abriendo mi cerebrito!!!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [708847] (1)
 
-		
 		muy bien jaja
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [686167](https://platzi.com/comentario/686167/) 
 
-	
 	Siento voy por buen camino!
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678580](https://platzi.com/comentario/678580/) 
 
-	
 	Sounds good!
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678579](https://platzi.com/comentario/678579/) 
 
-	
 	amazing!
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [678226](https://platzi.com/comentario/678226/) 
 
-	
 	que uso se le da a los grafos?
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [678226] (2)
 
-		
 		almacenar informacion de usuarios en redes sociales para luego sacar patrones y sugerencias!
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [665957](https://platzi.com/comentario/665957/) 
 
-	
 	Lineales y No Lineales, así se resume, debemos de analizar bien nuestro problema a resolver para buscar el método mas eficiente.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [665957] (1)
 
-		
 		Exactamente así Wandys!
 
-* **abrahams1** (1)
+* **abrahams1** (1) [641685](https://platzi.com/comentario/641685/) 
 
-	
 	Me hizo recordar a la universidad cuando estaba viendo la materia de modelos de operaciones 1 cuando estudiaba la ruta mas corta, usando el modelo de transbordo. Que tiempos aquellos…
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567418](https://platzi.com/comentario/567418/) 
 
-	
 	Hola!!
 
-* **cancerbero7** (1)
+* **cancerbero7** (1) [524233](https://platzi.com/comentario/524233/) 
 
-	
 	ponele ganas a los dibujos, parece que los hubiese hecho un nene de jardin, y las letras tambien. la explicación esta joya
 
-	* **ricardocelis (Platzi)** (9)
+	* **ricardocelis (Platzi)** [524233] (9)
 
-		
 		Jejeje voy a tomar los cursos de diseño gráfico 😃! Pero lo genial es que haya quedado claro todo !
 
-	* **Kerohuixco** (2)
+	* **Kerohuixco** [524233] (2)
 
-		
 		Hay personas que simplemente los dibujos no se les da… Ejemplo yo. No puedo dibujar… Mis dibujos parecen de un niño de preescolar.
 
-	* **heysoypaez** (2)
+	* **heysoypaez** [524233] (2)
 
-		
 		Estoy convencido que cualquier habilidad es mejorable Kero, incluso dibujar, aunque mis dibujos tambien dan penita 😄
 		
 		**SImplmente que Ricardo es crack en otras cosas y no ha dedicado los recursos a ello**
 
-	* **Enrique Mont** (2)
+	* **Enrique Mont** [524233] (2)
 
-		
 		Así pensaba yo en pre-primaria donde iba a colorear y no salirme de la linea, acá vengo a los algoritmos… los dibujos sirven para el propósito, gracias Selis!
 
-## 0050. ¿Qué es un algoritmo
+## 0050. ¿Qué es un algoritmo [16935](https://platzi.com/clases/1469-algoritmos/16935-que-es-un-algoritmo8466/)
 
 ### Descripción:
 
@@ -2289,34 +1944,28 @@ Vamos a crear un diagrama de flujo para realizar un algoritmo que debe resolver 
 
 ### Comentarios:
 
-* **Mcaberta** (6)
+* **Mcaberta** (6) [528948](https://platzi.com/comentario/528948/) 
 
-	
 	Muy interesante y hasta ahorita muy buena la explicación, solo que no se ve nada de tus anotaciones y gráficas con las que trabajas.
 
-	* **Hector Alejandro Ramirez Huertas** (1)
+	* **Hector Alejandro Ramirez Huertas** [528948] (1)
 
-		
 		Es cierto, hay que esforzar un poco la vista.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [528948] (1)
 
-		
 		Gracias, lo tendré en cuenta para la siguiente versión
 
-* **Alex Fabian Moreno Acero** (6)
+* **Alex Fabian Moreno Acero** (6) [523967](https://platzi.com/comentario/523967/) 
 
-	
 	No veo el archivo con la lectura
 
-	* **ricardocelis (Platzi)** (6)
+	* **ricardocelis (Platzi)** [523967] (6)
 
-		
 		Hola Moreno, ya reviso!
 
-	* **ricardocelis (Platzi)** (18)
+	* **ricardocelis (Platzi)** [523967] (18)
 
-		
 		Hola! está más adelante en el curso, pero igual te comparto el código por acá:
 		``` 
 		    // A C++ program for Dijkstra's single source shortest path algorithm. 
@@ -2414,54 +2063,45 @@ Vamos a crear un diagrama de flujo para realizar un algoritmo que debe resolver 
 		    
 		```
 
-	* **Alex Fabian Moreno Acero** (3)
+	* **Alex Fabian Moreno Acero** [523967] (3)
 
-		
 		Muchas Gracias
 
-	* **Alfonso Romero** (2)
+	* **Alfonso Romero** [523967] (2)
 
-		
 		De entrada no entiendo el código 😦
 
-	* **Mauricio Alejandro leal** (2)
+	* **Mauricio Alejandro leal** [523967] (2)
 
-		
 		no entiendo nada del codigo espero despues poder leer lenguaje c++
 
-* **Adriana Lucia Ardila Ramirez** (3)
+* **Adriana Lucia Ardila Ramirez** (3) [982603](https://platzi.com/comentario/982603/) 
 
-	
 	Alguien tiene la lectura?
 
-	* **Carlos José González Juan** (1)
+	* **Carlos José González Juan** [982603] (1)
 
-		
 		Esta en el primer vídeo, en marcadores.
 
-* **Adriana Lucia Ardila Ramirez** (3)
+* **Adriana Lucia Ardila Ramirez** (3) [982601](https://platzi.com/comentario/982601/) 
 
-	
 	El optimismo de él, me motiva aún más.
 
-* **andresmontealegre315** (3)
+* **andresmontealegre315** (3) [940068](https://platzi.com/comentario/940068/) 
 
-	
 	Algunos ejemplos son los manuales de usuario, que muestran algoritmos para usar un aparato, o las instrucciones que recibe un trabajador de su patrón. … En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.
 
-* **thejb** (3)
+* **thejb** (3) [544161](https://platzi.com/comentario/544161/) 
 
-	
 	\- Definición de algoritmo: Es un conjunto de instrucciones que resuelven un problema dado paso a paso sin generar ambigüedades.  
 	++*¿Que significa esto? ++  
 	-Que los pasos que se le asigne a la computadora siempre llegara al mismo resultado, siempre y cuando sean los mismos datos de entrada
 
-* **Cristian Fernando Anaya Perez** (3)
+* **Cristian Fernando Anaya Perez** (3) [66874](https://platzi.com/comentario/713906/) 
 En el vídeo indica que se deja un ejemplo en código, no esta en este video, al parecer tampoco en el otro ¿Donde lo puedo encontrar? PD: ...
 
-	* **Jimmy_Ugalde** (1)
+	* **Jimmy_Ugalde** [66874] (1)
 
-		
 		// A C++ program for Dijkstra’s single source shortest path algorithm.  
 		// The program is for adjacency matrix representation of the graph
 		
@@ -2561,203 +2201,173 @@ En el vídeo indica que se deja un ejemplo en código, no esta en este video, al
 		
 		}
 
-* **luis-e-chitala** (2)
+* **luis-e-chitala** (2) [1030777](https://platzi.com/comentario/1030777/) 
 
-	
 	Mientras más puntuales y menos ambiguos sean nuestros pasos, serán más eficientes nuestros algoritmos.
 
-* **paola-diaz361** (2)
-![IMG_20200304_174838_1.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_174838_1-25bbaf79-a34d-41f6-a054-3b917c350cee.jpg)
-
-* **Cristhian Franco** (2)
-
+* **paola-diaz361** (2) [1019279](https://platzi.com/comentario/1019279/) 
 	
+	![IMG_20200304_174838_1.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_174838_1-25bbaf79-a34d-41f6-a054-3b917c350cee.jpg)
+
+* **Cristhian Franco** (2) [818850](https://platzi.com/comentario/818850/) 
+
 	Creo que este curso me va a ayudar mucho a desarrollar mi habilidad de resolver problemas, buenisima clase.
 
-* **joelnbl** (2)
+* **joelnbl** (2) [682371](https://platzi.com/comentario/682371/) 
 
-	
 	Excelente clase Ricardo.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [682371] (1)
 
-		
 		Gracias Joel!
 
-* **Danelia Sanchez Sanchez** (2)
+* **Danelia Sanchez Sanchez** (2) [524155](https://platzi.com/comentario/524155/) 
 
-	
 	Concepto de algoritmo
 
-* **andresazuara98** (1)
+* **andresazuara98** (1) [1084124](https://platzi.com/comentario/1084124/) 
 
-	
 	I guess it´s a good example but it could be better if the best way with ponderation was cas-caf-com-esc.  
 	This just to see that if we add a value to each way, the result can be different than if we do it without ponderation
 
-* **Rodríguez Brian** (1)
+* **Rodríguez Brian** (1) [1020946](https://platzi.com/comentario/1020946/) 
 
-	
 	Nada que ver pero, ¿alguien sabe que tableta utiliza?
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [1020946] (1)
 
-		
 		Un ipad pero no sé el modelo
 
-* **Carlos Alejandro González Benitez** (1)
+* **Carlos Alejandro González Benitez** (1) [1019807](https://platzi.com/comentario/1019807/) 
 
-	
 	Un algoritmo es la descripción paso a paso de como se soluciona un problema. Cuando un problema es demasiado grande lo recomendable es dividirlo y a esto se le llama diseño modular o descendente (top-down).  
 	Hay dos formas de representar un algoritmo:
 	
-	  * **Gráfica** , mediante un diagrama de flujo (lo más recomendable).
-	  * **Pseudocódigo** , es una secuencia de pasos para solucionar el problema.
+	* **Gráfica** , mediante un diagrama de flujo (lo más recomendable).
+	* **Pseudocódigo** , es una secuencia de pasos para solucionar el problema.
 	
 	
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [971416](https://platzi.com/comentario/971416/) 
 
-	
 	Investigación de operaciones CPM
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [968060](https://platzi.com/comentario/968060/) 
 
-	
 	se debe tener muy buena compresión del requerimiento u objetivo para plantear de forma adecuada la estructura del programa
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [919687](https://platzi.com/comentario/919687/) 
 Bien
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [870220](https://platzi.com/comentario/870220/) 
 Me gustaría hacer este pequeño ejercicio en código
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [849998](https://platzi.com/comentario/849998/) 
 
-	
 	@ricardocelis no está la lectura…¿?
 
-	* **Gustavo Emmanuel González Flores.** (3)
+	* **Gustavo Emmanuel González Flores.** [849998] (3)
 
-		
 		esta en preguntas amigo
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [849998] (2)
 
-		
 		¿No es alguna de estas?
 		
 		<https://platzi.com/clases/1469-algoritmos/16928-mergesort/>  
 		<https://platzi.com/clases/1469-algoritmos/16931-insertion-sort/>
 
-* **Miguel Angel Martelo Quiroz** (1)
+* **Miguel Angel Martelo Quiroz** (1) [848541](https://platzi.com/comentario/848541/) 
 
-	
 	Y la lectura???
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [848541] (1)
 
-		
 		¿No es alguna de estas?
 		
 		<https://platzi.com/clases/1469-algoritmos/16928-mergesort/>  
 		<https://platzi.com/clases/1469-algoritmos/16931-insertion-sort/>
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [842281](https://platzi.com/comentario/842281/) 
 
-	
 	Donde está la lectura?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [842281] (1)
 
-		
 		¿No es alguna de estas?
 		
 		<https://platzi.com/clases/1469-algoritmos/16928-mergesort/>  
 		<https://platzi.com/clases/1469-algoritmos/16931-insertion-sort/>
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [827306](https://platzi.com/comentario/827306/) 
 
-	
 	donde está la lectura?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [827306] (1)
 
-		
 		¿No es alguna de estas?
 		
 		<https://platzi.com/clases/1469-algoritmos/16928-mergesort/>  
 		<https://platzi.com/clases/1469-algoritmos/16931-insertion-sort/>
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [796411](https://platzi.com/comentario/796411/) 
 
-	
 	GG
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678593](https://platzi.com/comentario/678593/) 
 
-	
 	I’m excited to learn what this is!
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567419](https://platzi.com/comentario/567419/) 
 
-	
 	bien!
 
-* **Hector Alejandro Ramirez Huertas** (1)
+* **Hector Alejandro Ramirez Huertas** (1) [562675](https://platzi.com/comentario/562675/) 
 
-	
 	Algoritmo: ¡La ruta más optima para llegar a una solución!
 
-	* **Jorge Giraldo Guerrero R.** (1)
+	* **Jorge Giraldo Guerrero R.** [562675] (1)
 Que otra ruta hay?
 
-	* **jenapi** (1)
+	* **jenapi** [562675] (1)
 
-		
 		respondiendo tu pregunta:  
 		No porque una respuesta esté bien, significa que es la mejor. Y es que cuando tu diseñas algoritmos en informática, te enfrentas a gpus, ram y otras cosas que dificultan el correr tu código.  
 		Saludos.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [562675] (2)
 
-		
 		Respondiendo a Jorge! Hay muchísimas formas de resolver un problema en ingeniería de software, por eso los algoritmos son tan importantes para saber encontrar la mejor forma siempre, también los paradigmas de programación son útiles
 
-* **wlm.morant** (1)
+* **wlm.morant** (1) [525917](https://platzi.com/comentario/525917/) 
 
-	
 	es una secuencia o un conjunto?
 
-	* **ricardocelis (Platzi)** (6)
+	* **ricardocelis (Platzi)** [525917] (6)
 
-		
 		Un conjunto de pasos secuenciales
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [79595](https://platzi.com/comentario/943045/) 
 Donde está la lectura que menciona en el video?
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [79595] (3)
 
-		
 		Aquí la encuentras: <https://platzi.com/comentario/523967/>. 😉
 
-* **Juan David** (1)
+* **Juan David** (1) [75121](https://platzi.com/comentario/864191/) 
 Muy bien explicado todo. Me podrian decir donde esta la lectura que el profesor Ricardo señala en la ultima parte del video? Muchas gracias
 
-	* **javiercampos600** (1)
+	* **javiercampos600** [75121] (1)
 
-		
 		Buenas, soy nuevo aqui, he terminado 5 video , cuando es recomendable hacer mi primer examen? Gracias
 
-* **Daniel Alberto Esquinazi** (0)
+* **Daniel Alberto Esquinazi** (0) [1109479](https://platzi.com/comentario/1109479/) 
 
-	
 	Hola gente, esccribi esto sobre algoritmos como un extra a la informacion que ya tenemos en este curso.  
 	Pueden leerlo de [blog](https://danicc.github.io/dae-blog/blog/post/1).  
 	Cualquier feedback es bienvenido.
 
-## 0060. Metodología para la construcción de un algoritmo
+## 0060. Metodología para la construcción de un algoritmo [16937](https://platzi.com/clases/1469-algoritmos/16937-metodologia-para-la-construccion-de-un-algoritmo/)
 
 ### Descripción:
 
@@ -2773,17 +2383,16 @@ Los pasos recomendados para desarrollar un algoritmo son los siguientes:
 
 Para la definición del problema debemos obtener los siguientes elementos:
 
-  * **Entradas** : ¿Qué se necesita para realizar los pasos?
-  * **Salidas** : ¿Qué se obtiene al final del algoritmo?
-  * **Tipos de datos involucrados** : Textos, números, listas, etc.
+* **Entradas** : ¿Qué se necesita para realizar los pasos?
+* **Salidas** : ¿Qué se obtiene al final del algoritmo?
+* **Tipos de datos involucrados** : Textos, números, listas, etc.
 
 
 
 ### Comentarios:
 
-* **heysoypaez** (18)
+* **heysoypaez** (18) [540615](https://platzi.com/comentario/540615/) 
 
-	
 	Cuando estoy escribiendo codigo y estoy estancado siento que me ayuda demasiado a avanzar el hacerme las preguntas correctas pensando en el algoritmo especifico del trozo de codigo que quiero crear.
 	
 	_Pensar bien es hacerse buenas preguntas:_
@@ -2792,22 +2401,22 @@ Para la definición del problema debemos obtener los siguientes elementos:
 	
 	**Definición del problema**
 	
-	  * ¿Qué problema quiero resolver?
-	  * ¿Que resultado quiero lograr?
-	  * ¿Que quiero especficamente? Visualizalo
+	* ¿Qué problema quiero resolver?
+	* ¿Que resultado quiero lograr?
+	* ¿Que quiero especficamente? Visualizalo
 	
 	
 	
 	Análisis del problema
 	
-	  * ¿Qué necesito para alcanzar ese resultado?
-	  * ¿Cómo obtengo eso que necesito?
+	* ¿Qué necesito para alcanzar ese resultado?
+	* ¿Cómo obtengo eso que necesito?
 	
 	
 	
 	Diseño del algoritmo
 	
-	  * Escribe el codigo paso a paso para alcanzar el resultado
+	* Escribe el codigo paso a paso para alcanzar el resultado
 	
 	
 	
@@ -2815,86 +2424,77 @@ Para la definición del problema debemos obtener los siguientes elementos:
 	
 	Consegui el resultado:
 	
-	  * Genialllllllll
-	  * ¿Es reutilizable, efectivo este codigo?
-	  * ¿Como lo puedo mejorar?
+	* Genialllllllll
+	* ¿Es reutilizable, efectivo este codigo?
+	* ¿Como lo puedo mejorar?
 	
 	
 	
 	**No consegui el resultado:**  
 	Visualiza el paso a paso en tu mente (a veces da pereza lo es, a mi tambien pero hazlo)
 	
-	  * ¿Que me falta?
-	  * ¿Que hice mal?
-	  * ¿Donde esta el error?
-	  * ¿Que necesito cambiar?
+	* ¿Que me falta?
+	* ¿Que hice mal?
+	* ¿Donde esta el error?
+	* ¿Que necesito cambiar?
 	
 	
 
-	* **Diego Emanuel Ramirez** (2)
+	* **Diego Emanuel Ramirez** [540615] (2)
 
-		
 		Excelente aporte Juan! 😃
 
-	* **heysoypaez** (2)
+	* **heysoypaez** [540615] (2)
 
-		
 		Me entusiasma que los aprecies, soy Daniel , Diego 😄
 
-* **paola-diaz361** (7)
-![IMG_20200304_180841_1.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_180841_1-eaa6b444-e6d8-4a3d-b396-a767ad71139b.jpg)
-
-* **YamiDeV** (5)
-
+* **paola-diaz361** (7) [1019310](https://platzi.com/comentario/1019310/) 
 	
+	![IMG_20200304_180841_1.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_180841_1-eaa6b444-e6d8-4a3d-b396-a767ad71139b.jpg)
+
+* **YamiDeV** (5) [526209](https://platzi.com/comentario/526209/) 
+
 	Pienso que una buena practica al momento de hacer pruebas, seria implementar datos, que den lugar a errores no triviales (división entre cero, raíces complejas, lógicas débiles… ) de manera que si no nos da error, nos daría indicio de que algo esta pasando con nuestro código, otro consejo seria el que dio freddy en el curso de programación básica, que es cuando probamos el código, por segmentos del mismo.
 
-* **yohan-valencia** (5)
+* **yohan-valencia** (5) [53972](https://platzi.com/comentario/524136/) 
 Por que no recomiendas utilizar pseudocódigo?
 
-	* **ricardocelis (Platzi)** (15)
+	* **ricardocelis (Platzi)** [53972] (15)
 
-		
 		Hola Yohan! Principalmente porque existen lenguajes como Python que es muy muy parecido a escribir pseudo código que creo que es un paso innecesario , mejor en Python aprendes y programas
 
-* **yohan-valencia** (4)
+* **yohan-valencia** (4) [524136](https://platzi.com/comentario/524136/) 
 
-	
 	Por que no recomiendas utilizar pseudocódigo?
 
-	* **ricardocelis (Platzi)** (15)
+	* **ricardocelis (Platzi)** [524136] (15)
 
-		
 		Hola Yohan! Principalmente porque existen lenguajes como Python que es muy muy parecido a escribir pseudo código que creo que es un paso innecesario , mejor en Python aprendes y programas
 
-	* **ebar0n (Platzi)** (4)
+	* **ebar0n (Platzi)** [524136] (4)
 
-		
 		Complementando un poco, `pseudocódigo` se usaba para enseñar a programar antes de ver **lenguaje C** , por ejemplo.
 		
 		Con lenguajes de alto nivel como python/ruby, ese paso no es tan necesario, ya que se parecen mucho a un lenguaje natural.
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [524136] (1)
 
-		
 		gracias por responder mi duda
 
-* **Wilson Marino Pablo Mendez** (4)
-![algoritmo.jpg](https://static.platzi.com/media/user_upload/algoritmo-fe0b79ad-4bc1-4bf7-9cbd-adff13c20768.jpg)
+* **Wilson Marino Pablo Mendez** (4) [523968](https://platzi.com/comentario/523968/) 
+	
+	![algoritmo.jpg](https://static.platzi.com/media/user_upload/algoritmo-fe0b79ad-4bc1-4bf7-9cbd-adff13c20768.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [523968] (1)
 
-		
 		Excelente aporte Marino, muchas gracias!
 
-* **Juan Luis Chavez Manjarres** (3)
+* **Juan Luis Chavez Manjarres** (3) [957345](https://platzi.com/comentario/957345/) 
 
-	
 	Un algoritmo es una secuencia de pasos que resuelven un problema.
 
-* **heysoypaez** (3)
+* **heysoypaez** (3) [540617](https://platzi.com/comentario/540617/) 
 
-	
 	[Ray Dalio](https://twitter.com/raydalio), comparte unos principios para su vida y trabajo en lo que él llama el proceso de 5 pasos que creo que son aplicables tambien para construir algoritmos
 	
 	El principio es:  
@@ -2902,27 +2502,23 @@ Por que no recomiendas utilizar pseudocódigo?
 	
 	En la practica significa que cuando estes definiendo el problema no pienses si este tiene solucion, cuando estes verificando no pienses en el diseño del algoritmo, a menos que habra fallas y necesites volver a ese paso
 
-* **luis-e-chitala** (2)
+* **luis-e-chitala** (2) [1030787](https://platzi.com/comentario/1030787/) 
 
-	
 	Siendo fieles a los principios básicos de la ingeniería de software ❤️
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [969594](https://platzi.com/comentario/969594/) 
 
-	
 	se deben seguir los pasos para obtener un resultado optimo en la creación de algoritmos.
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [957319](https://platzi.com/comentario/957319/) 
 
-	
 	Todos los días realizamos actividades inconscientemente que llevan un orden, pero si nos pusiéramos a analizar cada una de estas encontraríamos que tienen muchos pasos
 
-* **Juan Camilo García Mesa** (2)
+* **Juan Camilo García Mesa** (2) [919694](https://platzi.com/comentario/919694/) 
 No soy experto, pero en mi trabajo con desarrolladores y diseñadores, he logrado entender lo importante que es la metodología... Sin método un desarrollo se puede hacer muy costoso.
 
-* **JCristoVive** (2)
+* **JCristoVive** (2) [867989](https://platzi.com/comentario/867989/) 
 
-	
 	Interesante, por medio de los algoritmos podemos solucionar cualquier problema por medio de instrucciones.
 	
 	Paos para la construccion de un algoritmo:
@@ -2937,30 +2533,25 @@ No soy experto, pero en mi trabajo con desarrolladores y diseñadores, he lograd
 	
 	Verficiacion o pruebas: se tiene que probar el algoritmo, de antemano ya debo de saber la respuesta.
 
-* **Ivan Mendez** (2)
+* **Ivan Mendez** (2) [799257](https://platzi.com/comentario/799257/) 
 
-	
 	Los propios pasos para resolver un algoritmo, como los que estan escrito en la descripcion de este video, son un algoritmo.
 
-	* **isaac152** (2)
+	* **isaac152** [799257] (2)
 
-		
 		De hecho si haha, un algoritmo para construir algoritmos
 
-* **Enzo Díaz** (2)
+* **Enzo Díaz** (2) [693258](https://platzi.com/comentario/693258/) 
 
-	
 	El uso de Pseint (un lenguaje de pseudocódigo en español) está muy difundido en las universidades. Pseint te permite muchísimas cosas como escribir el propio pseudocódigo, pasarlo a diagramas e incluso “traducirlo” a código real.  
 	Larga vida a pseint.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [693258] (1)
 
-		
 		a mi no me gusta nadita, para qué aprender un lenguaje que no te sirve para paorgramar?
 
-* **Miguel Angel Guerrero Salinas** (2)
+* **Miguel Angel Guerrero Salinas** (2) [685507](https://platzi.com/comentario/685507/) 
 
-	
 	Algoritmo:
 	
 	Definir el problema.  
@@ -2983,14 +2574,12 @@ No soy experto, pero en mi trabajo con desarrolladores y diseñadores, he lograd
 	Texto, letras, palabras, frases.  
 	Otros.
 
-* **Melisa Lozano (Platzi)** (2)
+* **Melisa Lozano (Platzi)** (2) [663607](https://platzi.com/comentario/663607/) 
 
-	
 	Recuerda que un algoritmo no debe de dar resultados ambiguos
 
-* **oscar_next** (2)
+* **oscar_next** (2) [662218](https://platzi.com/comentario/662218/) 
 
-	
 	Excelentes 4 puntos:
 	
 	  1. Definición
@@ -3000,277 +2589,228 @@ No soy experto, pero en mi trabajo con desarrolladores y diseñadores, he lograd
 	
 	
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [662218] (1)
 
-		
 		Gracias! Muy buena idea dejarlos así
 
-* **Manuel  Alfonso Illidge ramirez** (2)
+* **Manuel  Alfonso Illidge ramirez** (2) [599375](https://platzi.com/comentario/599375/) 
 
-	
 	pregunta. en cursos mas avanzados tocaran el tema de las Triplas de hoare. Analisis y verificacion de algoritmos?. seria un complemento super bueno.
 
-	* **Mariana Valencia** (6)
+	* **Mariana Valencia** [599375] (6)
 
-		
 		Hola, manuelillidge. ¿Qué temas te gustaría ver en un curso más avanzado de Algoritmos aparte de Triplas de hoare?
 
-	* **jenapi** (1)
+	* **jenapi** [599375] (1)
 
-		
 		Overlocking y cálculos de cómputo 👌
 
-	* **jenapi** (1)
+	* **jenapi** [599375] (1)
 
-		
 		Perdon Deadlock, pequeña confusión de términos jeje.
 
-	* **Manuel  Alfonso Illidge ramirez** (1)
+	* **Manuel  Alfonso Illidge ramirez** [599375] (1)
 
-		
 		En terminos generales temas que vallan de la mano con las practicas contemporaneas, soy un simple estudiante de universidad y de plazti. se que tendran la sabiduria para llevar a un correcto rumbo estos curso. un gran abrazo. 😃
 
-	* **César Hansy Dueñas Barragán** (1)
+	* **César Hansy Dueñas Barragán** [599375] (1)
 
-		
 		Sería bueno también tener en cuenta el tema de complejidad algorítmica, muchas veces no nos preocupamos en el uso de memoria ni en el tiempo que tarda nuestra solución
 
-* **dcortesnet** (2)
+* **dcortesnet** (2) [528404](https://platzi.com/comentario/528404/) 
 
-	
 	me dio risa, sobre la definición del problema en la empresa, sí no te la dan tienes que pedirla XD jajaj
 
-* **Samuel Burelo Jerónimo** (1)
+* **Samuel Burelo Jerónimo** (1) [1112086](https://platzi.com/comentario/1112086/) 
 
-	
 	Esto es muy importante para poder programar correctamente, no solamente es correr a programar también hay que analizar. Y como siempre dice Freddy mas del 90% del tiempo nos la vamos a pasar leyendo código que programando 😃
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [984543](https://platzi.com/comentario/984543/) 
 
-	
 	En los 4 pasos que el profe menciona, es más sencillo entender la metodología para la construcción de algoritmos.
 
-* **brayan baquero** (1)
+* **brayan baquero** (1) [961689](https://platzi.com/comentario/961689/) 
 
-	
 	Los algoritmos son pasos secuenciales que siempre estamos realizando en las diferentes actividades o planes que tenemos en nuestra vida sin darnos cuenta. Pero si aplicamos esta Metodología para solucionar un algoritmo. nos va a ayudar bastante para poder generar una planificación de los objetivos que queremos conseguir tanto a nivel personal como a nivel profesional ademas si nuestra mente comienza a sentirse mas entrenada viendo los algoritmos que planteamos y ejecutamos. esto ya se volverá una rutina y nos permitirá hacer algoritmos de una manera mas fácil.
 
-* **andresmontealegre315** (1)
+* **andresmontealegre315** (1) [940080](https://platzi.com/comentario/940080/) 
 
-	
 	Esta serie de pasos los realizamos diariamente desde que comienza el día, por ejemplo, cuando nos levantamos, tomamos un baño, desayunamos, preparamos la comida, entre muchas otras actividades, seguimos una seria de pasos que al final nos permiten alcanzar un resultado. La realidad es que a cada momento aplicamos un algoritmo para resolver un problema o alcanzar un resultado.
 
-* **Josue12** (1)
+* **Josue12** (1) [904396](https://platzi.com/comentario/904396/) 
 
-	
 	Confirmo lo del pseudocodigo jajaja, la verdad no es tan bueno para la construcción de un algoritmo
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [870234](https://platzi.com/comentario/870234/) 
 En robótica los datos tambien pueden ser de variables físicas. Cómo temperatura, humedad, etc que al final deben ser interpretadas como numéricas
 
-* **Daniel Herrera** (1)
+* **Daniel Herrera** (1) [833683](https://platzi.com/comentario/833683/) 
 
-	
 	Se puede usar números Irracionales?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [833683] (2)
 
-		
 		No, generalmente no usamos este tipo de números en programación, hay bibliotecas como [SymPy](https://www.sympy.org/en/index.html) que te permiten representar estos números, pero no 😛
 
-* **Elías Pertúz** (1)
+* **Elías Pertúz** (1) [796421](https://platzi.com/comentario/796421/) 
 
-	
 	OK
 
-* **Abner Paul Ccari Lindo** (1)
+* **Abner Paul Ccari Lindo** (1) [789199](https://platzi.com/comentario/789199/) 
 
-	
 	El proceso de Verificación / Pruebas, incluye al proceso de Evaluación?  
 	Tengo entendido que la validación y evaluación son cosas distintas. La primera va con validar el diseño,y la aplicacion a traves de pruebas y test. Y la otra, evalua el performance del sistema que se desarrollo.
 
-	* **AdrianH** (1)
+	* **AdrianH** [789199] (1)
 
-		
 		En este caso y contexto se refiere a verificar que el código/algoritmo haga y cumpla la función para la que ha sido creado, esto incluye darle sus datos de entrada comprobar las salidas, etc.  
 		Aunque como dices pueden ser sinónimos, todo dependiendo del contexto dentro del que se encuentren
 
-* **katherinecornejotejeda** (1)
+* **katherinecornejotejeda** (1) [734359](https://platzi.com/comentario/734359/) 
 
-	
 	Está muy fácil de entender hasta ahora, debemos definir el problema, analizarlo y luego diseñar el algoritmo que nos permita solucionar el problema, finalmente probar que no falle.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [734359] (1)
 
-		
 		Genial! Si en algún punto te pierdes o tienes muchas dudas avísame con un comentario porfa!
 
-* **José Angel Mejia** (1)
+* **José Angel Mejia** (1) [708866](https://platzi.com/comentario/708866/) 
 
-	
 	La definición es trascendental si esta mal definido o no se tiene toda la información se pueden dar malos resultados.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [708866] (1)
 
-		
 		así es, todo comienza cuando defines tu problema
 
-* **Alberto Campos Hernandez** (1)
+* **Alberto Campos Hernandez** (1) [682545](https://platzi.com/comentario/682545/) 
 
-	
 	El resultado de un algoritmo nunca debe ser ambiguo
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678605](https://platzi.com/comentario/678605/) 
 
-	
 	Looking forward to the method…
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [678248](https://platzi.com/comentario/678248/) 
 
-	
 	esta genial el curso
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [678248] (1)
 
-		
 		Gracias y bienvenido Camilo! Cualquier duda me cuentas!
 
-* **David Perez** (1)
+* **David Perez** (1) [669191](https://platzi.com/comentario/669191/) 
 
-	
 	Acabo de calcular una relación entre la velocidad normal y velocidad 1.5 de reproducción de las clases, esto obedece a la función:  
 	F(x) = x + (x/2)  
 	Donde x es la cantidad de segundos a velocidad normal, y F(x) será el segundo especifico en el que estaría a velocidad 1.5
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [669191] (1)
 
-		
 		Muy bien David! Para qué utilizarías esto que calculaste?
 
-* **Melisa Lozano (Platzi)** (1)
+* **Melisa Lozano (Platzi)** (1) [663603](https://platzi.com/comentario/663603/) 
 
-	
 	Verificación o pruebas
 
-* **Melisa Lozano (Platzi)** (1)
+* **Melisa Lozano (Platzi)** (1) [663601](https://platzi.com/comentario/663601/) 
 
-	
 	Diseño del algoritmo
 
-* **Melisa Lozano (Platzi)** (1)
+* **Melisa Lozano (Platzi)** (1) [663598](https://platzi.com/comentario/663598/) 
 
-	
 	Análisis del problema
 
-* **Melisa Lozano (Platzi)** (1)
+* **Melisa Lozano (Platzi)** (1) [663594](https://platzi.com/comentario/663594/) 
 
-	
 	Definición del problema
 
-* **wilyerdaniel** (1)
+* **wilyerdaniel** (1) [654138](https://platzi.com/comentario/654138/) 
 
-	
 	Excelente clase!
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [643239](https://platzi.com/comentario/643239/) 
 
-	
 	En que curso veremos diagramas de flujo?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [643239] (1)
 
-		
 		Hola, que yo recuerde en ningún curso se enseñan diagramas de flujo.
 
-	* **Luis Rodrigo Alvarez Herrera** (1)
+	* **Luis Rodrigo Alvarez Herrera** [643239] (1)
 
-		
 		prueba este
 		``` 
 		    https://www.youtube.com/watch?v=uFUboyAX1b8```
 		    
 		```
 
-	* **sjimen13** (1)
+	* **sjimen13** [643239] (1)
 
-		
 		Acá lo puedes ver <https://platzi.com/clases/pensamiento-logico/>
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [643239] (4)
 
-		
 		@sjimen13 tiene razón en esta clase <https://platzi.com/clases/1444-pensamiento-logico/15910-como-hacer-un-diagrama-de-flujo/> y posteriores se enseñan las bases de los diagramas de flujo. Este curso aun no lo he tomado 😃
 
-	* **luistua** (2)
+	* **luistua** [643239] (2)
 
-		
 		Aquí no lo enseñan pero en el curso de pensamiento lógico sí se ve.
 
-	* **akivosimcho** (1)
+	* **akivosimcho** [643239] (1)
 
-		
 		Gracias a todos!!!
 
-	* **Andres Rivera** (1)
+	* **Andres Rivera** [643239] (1)
 
-		
 		<https://platzi.com/clases/pensamiento-logico/>
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [643239] (4)
 
-		
 		Igual no te recomiendo diagramas de flujo! YO recomiendo libreta lápiz y escribir o dibujar libremente
 
-* **Orlando13** (1)
+* **Orlando13** (1) [631983](https://platzi.com/comentario/631983/) 
 
-	
 	Hola Profe Celis, en la etapa de documentación del programa, que diseño de algoritmo recomienda. En la clase habla de diagrama de flujos y apuntes en la librera. Para una documentación formal, no es conveniente los apuntes.
 	
 	Saludos cordiales.
 
-* **Andres Cendales** (1)
+* **Andres Cendales** (1) [548465](https://platzi.com/comentario/548465/) 
 
-	
 	Tal vez un ultimo paso podria ser la aprobacion del algoritmo luego de probarlo/verificarlo
 
-* **Chris.ha** (1)
+* **Chris.ha** (1) [536021](https://platzi.com/comentario/536021/) 
 
-	
 	Link del algoritmo del camino mas corto de Dijkstra?
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [536021] (2)
 
-		
 		<https://platzi.com/clases/1469-algoritmos/16922-grafos-y-sus-aplicaciones/> viene más adelante en el curso es parte! te recomiendo que no te saltes!
 
-* **hilary_hamann** (1)
+* **hilary_hamann** (1) [526359](https://platzi.com/comentario/526359/) 
 1\. dEfinicion de problema
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [63737](https://platzi.com/comentario/663910/) 
 Existen métricas/pasos para diseñar las pruebas a mi código?
 
-	* **asanchez2091** (1)
+	* **asanchez2091** [63737] (1)
 
-		
 		seguramente si de hecho platzi tiene cursos sobre el tema
 
-* **Manuel  Alfonso Illidge ramirez** (1)
+* **Manuel  Alfonso Illidge ramirez** (1) [60012](https://platzi.com/comentario/599375/) 
 pregunta. en cursos mas avanzados tocaran el tema de las Triplas de hoare. Analisis y verificacion de algoritmos?. seria un complemento...
 
-	* **Mariana Valencia** (6)
+	* **Mariana Valencia** [60012] (6)
 
-		
 		Hola, manuelillidge. ¿Qué temas te gustaría ver en un curso más avanzado de Algoritmos aparte de Triplas de hoare?
 
-* **Chris.ha** (1)
+* **Chris.ha** (1) [54950](https://platzi.com/comentario/536021/) 
 Link del algoritmo del camino mas corto de Dijkstra?
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [54950] (2)
 
-		
 		<https://platzi.com/clases/1469-algoritmos/16922-grafos-y-sus-aplicaciones/> viene más adelante en el curso es parte! te recomiendo que no te saltes!
 
-## 0070. Variables y tipos de datos
+## 0070. Variables y tipos de datos [16933](https://platzi.com/clases/1469-algoritmos/16933-variables-y-tipos-de-datos/)
 
 ### Descripción:
 
@@ -3296,25 +2836,21 @@ Un entero guarda 2 bytes (puede variar en algunos compiladores), un valor flotan
 
 ### Comentarios:
 
-* **Abner Paul Ccari Lindo** (28)
+* **Abner Paul Ccari Lindo** (28) [789211](https://platzi.com/comentario/789211/) 
 
-	
 	 **Tipo de Datos**  
 	![](http://www.bytesofgigabytes.com/IMAGES/java/DataTypes/javaDataTypes.png)
 
-	* **Elías Pertúz** (1)
+	* **Elías Pertúz** [789211] (1)
 
-		
 		Está chido el gráfico
 
-	* **predator0077** (1)
+	* **predator0077** [789211] (1)
 
-		
 		Gracias por la información.
 
-* **Gtiseira** (10)
+* **Gtiseira** (10) [561771](https://platzi.com/comentario/561771/) 
 
-	
 	## Excelente resumen. Aqui les dejo el resumen del resumen.
 	
 	**Variables** : Nos sirven para almacenar los distintos tipos de datos.
@@ -3324,143 +2860,119 @@ Un entero guarda 2 bytes (puede variar en algunos compiladores), un valor flotan
 	​System-defined data types (tipos de datos definidos por el sistema también conocidos como Primitivos)  
 	​User-defined data types (Tipos de datos definidos por el usuario).
 
-	* **Jeisson Francois Rosas Céspedes** (3)
+	* **Jeisson Francois Rosas Céspedes** [561771] (3)
 
-		
 		 **Excelente Resumen del resumen, Aqui les dejo un resumen del resumen del resumen**
 		
 		**Variables:** Es un espacio vacio que podemos llenar(Como una caja)
 		
 		**Tipos de datos:** Dependiendo de que queremos guardar hay diferentes tipos de cajas
 
-* **andresmontealegre315** (4)
+* **andresmontealegre315** (4) [942056](https://platzi.com/comentario/942056/) 
 
-	
 	¿Qué tipos de datos existen?  
 	<https://lenguajesdeprogramacion.net/diccionario/que-tipos-datos-existen-en-programacion/>
 
-	* **David Felipe Toro Cuervo** (1)
+	* **David Felipe Toro Cuervo** [942056] (1)
 
-		
 		Este articulo esta muy bueno muchas gracias por compartirlo.
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [942056] (1)
 
-		
 		😮 que gran aporte!  
 		Gracias por compartirlo!
 
-* **katherinecornejotejeda** (4)
+* **katherinecornejotejeda** (4) [734370](https://platzi.com/comentario/734370/) 
 
-	
 	Me gusta mucho la sencillez con la que se explica todo, el nombre de algoritmo me asustaba bastante…
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [734370] (1)
 
-		
 		nada que temer!
 
-* **Cristian Fernando Anaya Perez** (4)
+* **Cristian Fernando Anaya Perez** (4) [713912](https://platzi.com/comentario/713912/) 
 
-	
 	![](![punto_7.jpg](https://static.platzi.com/media/user_upload/punto_7-f0816851-4597-4703-b854-663f74850850.jpg)
 
-* **paola-diaz361** (3)
-![IMG_20200304_182612.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_182612-072116c9-f9be-4f2a-9646-b6e36b6016f8.jpg)
-
-* **Alfonso Romero** (3)
-
+* **paola-diaz361** (3) [1019335](https://platzi.com/comentario/1019335/) 
 	
+	![IMG_20200304_182612.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_182612-072116c9-f9be-4f2a-9646-b6e36b6016f8.jpg)
+
+* **Alfonso Romero** (3) [969613](https://platzi.com/comentario/969613/) 
+
 	Se debe tener presente que tipo de datos se van a utilizar de acuerdo al problema que se aborde.
 
-* **Angie Garcia** (3)
+* **Angie Garcia** (3) [967364](https://platzi.com/comentario/967364/) 
 Muy interesante para llevar un orden siempre en la solución de problemas
 
-* **Oslan Enrique Villalobos  Piña** (3)
+* **Oslan Enrique Villalobos  Piña** (3) [923844](https://platzi.com/comentario/923844/) 
 
-	
 	Good! muy bueno pero también es importante agregar que estas estructuras de datos son las bases de la programación, Es necesario conocer estos temas tenerlos fijos en la cabeza como si nos salieran al natural, la compresión y abstracción del mundo real a las estructura de datos es los nos convierte en buenos programadores.
 
-* **JCristoVive** (3)
+* **JCristoVive** (3) [868004](https://platzi.com/comentario/868004/) 
 
-	
 	Buen recordatorio:
 	
 	De los tipos de datos: Primitivos y no Primtivos, los primitivos son por defecto los definidos por el sistema, y los no primitivos son los definidos por el usuario.
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [868004] (1)
 
-		
 		Buen dato
 
-* **camilo Escobar** (3)
+* **camilo Escobar** (3) [544997](https://platzi.com/comentario/544997/) 
 
-	
 	se puede tomar este curso sin necesidad de tener una carrera sobre programacion, es decir es un buen curso con el cual ingresar en este mundo?
 
-	* **ChristopherChi** (7)
+	* **ChristopherChi** [544997] (7)
 
-		
 		Si es bueno que empieces con este curso y ya despues tomes el curso de programacion basica, para que notes como se aplica este conocimiento.
 
-	* **camilo Escobar** (2)
+	* **camilo Escobar** [544997] (2)
 
-		
 		gracias amigo por tu ayuda =)
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [544997] (1)
 
-		
 		Te recomiendo comenzar con el [Curso de Programación Básica](https://platzi.com/programacion). 😉
 
-* **DevJaou** (3)
+* **DevJaou** (3) [537012](https://platzi.com/comentario/537012/) 
 
-	
 	Muy buenos ejemplos para definir exactamente los dos términos.
 
-* **Mauricio Alejandro leal** (2)
+* **Mauricio Alejandro leal** (2) [1013535](https://platzi.com/comentario/1013535/) 
 
-	
 	Mi cerebro se apagaba cuando miraba letras en los problemas de matematicas pero ahora todo tiene sentido y es muy sencillo de la forma en que explican las clases en platzi
 
-* **Juan Issaias Asencio Rivero** (2)
+* **Juan Issaias Asencio Rivero** (2) [994798](https://platzi.com/comentario/994798/) 
 
-	
 	Recuerdo que mi profesor de física nos hacia el mismo chiste cuando olvidábamos la magnitud de lo que estábamos calculando. Ya debe venir grabado esos comentarios para sus alumnos en su disco duro jaja
 
-* **alan valencia** (2)
+* **alan valencia** (2) [984798](https://platzi.com/comentario/984798/) 
 
-	
 	super interesante la ultima parte de la informacion del articulo
 
-* **Christian Sanclemente** (2)
+* **Christian Sanclemente** (2) [979914](https://platzi.com/comentario/979914/) 
 
-	
 	Me gusta, vamos…
 
-* **henrycaicedov** (2)
+* **henrycaicedov** (2) [977823](https://platzi.com/comentario/977823/) 
 
-	
 	Sencillo y al grano…
 
-* **Fabio Leonardo Fuentes Melendez** (2)
+* **Fabio Leonardo Fuentes Melendez** (2) [977414](https://platzi.com/comentario/977414/) 
 
-	
 	según los tipos de datos definidos por el sistema, ¿Entrarían como ejemplo los datos aleatorios?
 
-	* **fernandajofili (Platzi)** (3)
+	* **fernandajofili (Platzi)** [977414] (3)
 
-		
 		De hecho, los números aleatorios se generarán como números enteros o flotantes (depende del lenguaje de programación). Por lo tanto, no se consideran tipos primitivos.
 
-* **jhonsoccer11** (2)
+* **jhonsoccer11** (2) [961901](https://platzi.com/comentario/961901/) 
 
-	
 	Interesante el tema. No sabía bien de los tipos de datos. Incluso son primordiales para todo problema.
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [949298](https://platzi.com/comentario/949298/) 
 
-	
 	Gracias por los apuntes.  
 	Tipos de datos:  
 	Int: números enteros.  
@@ -3468,342 +2980,280 @@ Muy interesante para llevar un orden siempre en la solución de problemas
 	String: Texto.  
 	Booleano: Tiene dos valores (Verdadero/falso; 0/1; si/no).
 
-* **Jorge Arango** (2)
+* **Jorge Arango** (2) [829708](https://platzi.com/comentario/829708/) 
 
-	
 	En este [link](https://docs.microsoft.com/en-us/cpp/cpp/fundamental-types-cpp?view=vs-2019) pueden ver los tamaños de cada tipo de dato
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [829708] (1)
 
-		
 		Gracias.
 
-* **José Angel Mejia** (2)
+* **José Angel Mejia** (2) [708875](https://platzi.com/comentario/708875/) 
 
-	
 	Ok, cada vez me queda mas claro todo.
 
-* **Alberto Campos Hernandez** (2)
+* **Alberto Campos Hernandez** (2) [682547](https://platzi.com/comentario/682547/) 
 
-	
 	Debemos elegir los tipos de datos de acuerto a las necesidades de lo que estemos elaborando.
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [666002](https://platzi.com/comentario/666002/) 
 
-	
 	Por esa razón aunque nuestros sistemas cuenten con un hardware muy bueno, es buena practica el buscar después de haber escrito la solución, buscar la manera mas eficiente de nuestro algoritmo, eso evitaría de cierto modo los bugs que podrían ocasionar en un futuro por el acumulo de data etc.  
 	Este tema de la eficiencia es hoy en día, un tema ignorado por los que creamos tecnología ya que poseemos hardware que nos da la posibilidad de despreocuparnos de el rendimiento, pero en el fondo un algoritmos escrito eficientemente es mas duradero que uno escrito a puras penas.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [666002] (2)
 
-		
 		Exacto! Aunque hoy en día en la mayoría de sistemas web el performance queda muy de lado =(  
 		Pero los buenos developers software saben optimizar por default
 
-* **marioamaciasortiz** (2)
+* **marioamaciasortiz** (2) [646015](https://platzi.com/comentario/646015/) 
 
-	
 	Bueno y que son gatos o perros <\- Back in Time
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [646015] (1)
 
-		
 		Mario! no entendí la referencia =(
 
-* **akivosimcho** (2)
+* **akivosimcho** (2) [643241](https://platzi.com/comentario/643241/) 
 
-	
 	Muy claro los conceptos!
 
-* **gabobardales** (2)
+* **gabobardales** (2) [640744](https://platzi.com/comentario/640744/) 
 
-	
 	Buena explicación pero tengo una duda frente a esta frase: "En general te puedes encontrar con 2 tipos de datos:"  
 	Y sigue lo que menciona, pero el tipo de dato no es entero, string alguien me podria explicar cual es la diferencia de los terminos.
 
-	* **Manuel Cocoba** (2)
+	* **Manuel Cocoba** [640744] (2)
 
-		
 		Es mas como una categoria, mientras los tipos de datos System-defined data types, son eso, definidos por el sistema, ejemplo:
 		
-		  * Int, String, Boolean, etc…
+		* Int, String, Boolean, etc…
 		
 		
 		
 		Los User-defined data types si bien el lenguaje define las reglas, el usuario es el que define su contenido y el tipo de datos que tendran, ejemplo:
 		
-		  * Arreglos, Clases, Estructuras
+		* Arreglos, Clases, Estructuras
 		
 		
 
-	* **Manuel Cocoba** (1)
+	* **Manuel Cocoba** [640744] (1)
 
-		
 		Que por cierto, ahora que avance en el curso, me di cuenta, que en los siguientes capitulos nos enseñan mas acerca de los User-defined data types. jejeje
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [640744] (1)
 
-		
 		los datos definidos por el lenguaje, llamados “primitivos” y los datos definidos por los usuarios que les enseñaré a crear más adelante!
 
-* **marco_cm** (2)
+* **marco_cm** (2) [547893](https://platzi.com/comentario/547893/) 
 
-	
 	Repasando más, es muy necesario retomar lecciones q en su momento pudiste obviarla pensando q no hacían falta. Si, excelente material
 
-* **Diego Emanuel Ramirez** (2)
+* **Diego Emanuel Ramirez** (2) [547488](https://platzi.com/comentario/547488/) 
 
-	
 	Tome el anterior curso, y estoy tomando este para reforzar conocimientos ya que la lógica mía últimamente estuvo fallando, pero estamos recobrandola de a poco jaja. Buen material!
 
-* **odaircamacho** (2)
+* **odaircamacho** (2) [541646](https://platzi.com/comentario/541646/) 
 
-	
 	Excelente ejemplo gracias
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [1085736](https://platzi.com/comentario/1085736/) 
 
-	
 	Buena lectura.
 
-* **SebastianMelo7** (1)
+* **SebastianMelo7** (1) [1044277](https://platzi.com/comentario/1044277/) 
 
-	
 	Profesor obsoletos en mi escuela, pero gracias a Platzi por fin entendi.
 
-* **luis-e-chitala** (1)
+* **luis-e-chitala** (1) [1030813](https://platzi.com/comentario/1030813/) 
 
-	
 	La importancia se ve reflejada en “c” jeje obligatoriamente
 
-* **Eleni Yojana Tique Quezada** (1)
+* **Eleni Yojana Tique Quezada** (1) [966596](https://platzi.com/comentario/966596/) 
 
-	
 	Buen aporte, muy importante
 
-* **jonathan-cordoba68** (1)
+* **jonathan-cordoba68** (1) [965294](https://platzi.com/comentario/965294/) 
 
-	
 	interesante los tipos de datos
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [958463](https://platzi.com/comentario/958463/) 
 
-	
 	Wow, no sabía que había tipos de tipos de datos. 😮
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [957337](https://platzi.com/comentario/957337/) 
 
-	
 	Es importante definir el tipo de dato.
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [955133](https://platzi.com/comentario/955133/) 
 
-	
 	gracias muy buena informacion . cualquier duda comentar y deja tu like jeje gracias .  
 	o comentario
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [943483](https://platzi.com/comentario/943483/) 
 
-	
 	un valor flotante utiliza 4 bytes, etc. Esto quiere decir que en memoria estamos reservando 2 bytes (16 bits) y diciendo que utilizaremos valores de tipo entero. como asi?si usa valor flotante usa 4 Bytes pero entonces como usa valores enteros y gasta la mitad porqu ocupa menos? no entiendo bien esta parte
 
-	* **Nicolas Restrepo** (1)
+	* **Nicolas Restrepo** [943483] (1)
 
-		
 		Debes tener en cuenta la cantidad inmensa de decimales que puede tener, al igual que la coma
 
-* **may-ale-moral** (1)
+* **may-ale-moral** (1) [901482](https://platzi.com/comentario/901482/) 
 
-	
 	Analogia precisa para el tema
 
-* **v1ctorcontreras** (1)
+* **v1ctorcontreras** (1) [881442](https://platzi.com/comentario/881442/) 
 
-	
 	me recuerda a Pascal, y c++
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [876878](https://platzi.com/comentario/876878/) 
 
-	
 	Es bueno saber y conocer bien sobre variables para poder optimizar nuestros proyectos. Porque depende el tipo de variable consume más recursos en memoria
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [865181](https://platzi.com/comentario/865181/) 
 
-	
 	Vale el recorderis… esto se pone bueno…
 
-* **Rigo Antonio Galicia Barrera** (1)
+* **Rigo Antonio Galicia Barrera** (1) [862257](https://platzi.com/comentario/862257/) 
 
-	
 	Los tipos de datos definidos por el usuario también se les suelen llamar, tipos de datos derivados.
 
-* **Davic64** (1)
+* **Davic64** (1) [846060](https://platzi.com/comentario/846060/) 
 
-	
 	Aun recuerdo cuando tuve una clase de esto y con esta lectura fue más fácil entenderlo :3
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [842283](https://platzi.com/comentario/842283/) 
 
-	
 	Muy valiosa información, gracias profesor!
 
-* **predator0077** (1)
+* **predator0077** (1) [809441](https://platzi.com/comentario/809441/) 
 
-	
 	La sencilla manera que explica el profesor es buenísima, no te complica y maneja el tema a la perfección.
 
-* **DemetrioDelCarmen** (1)
+* **DemetrioDelCarmen** (1) [713073](https://platzi.com/comentario/713073/) 
 
-	
 	Excelente introducción! muy clara
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [713073] (1)
 
-		
 		Gracias Demetrio!
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [686192](https://platzi.com/comentario/686192/) 
 
-	
 	Muy interesante, ya me enganché al curso. Y eso que primera vez en mi vida que entro a aprender sobre tecnología.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [686192] (1)
 
-		
 		bienvenido! Si llegas a tener dudas no olvides en escribirme en las discusiones
 
-* **LuisCap** (1)
+* **LuisCap** (1) [678620](https://platzi.com/comentario/678620/) 
 
-	
 	enjoying this course already!
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [663918](https://platzi.com/comentario/663918/) 
 
-	
 	Chicos alguno sabe que tanto impacto es tener variables en nuestra memoria RAM?
 
-	* **ricardocelis (Platzi)** (5)
+	* **ricardocelis (Platzi)** [663918] (5)
 
-		
 		depende el tamaño de tu variable, tu sistema operativo y el lenguaje, por ejemplo en c++ standard de microsfot windows es así:  
 		bool, char, unsigned char, signed char, __int8 ----- 1 byte  
 		__int16, short, unsigned short, wchar_t, __wchar_t ----- 2 bytes  
 		float, __int32, int, unsigned int, long, unsigned long ----- 4 bytes  
 		double, __int64, long double, long long ----- 8 byte
 
-* **Melisa Lozano (Platzi)** (1)
+* **Melisa Lozano (Platzi)** (1) [663629](https://platzi.com/comentario/663629/) 
 
-	
 	Importante recordar que _en computación necesitas indicar si el dato almacenado en la variable va a ser numérico decimal, hexadecimal, flotante, texto, caracteres, etc_
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [663629] (3)
 
-		
 		sí! Algo que de pronto se me olvidó aclarar es que lenguajes como Javascript no necesitan que lo especifiques ya que el mismo intérprete “infiere” cuál será el mejor tipo de datos para usar, por eso ahí sólo necesitas ponerle “let” a las variables y ya está!
 
-* **oscar_next** (1)
+* **oscar_next** (1) [662220](https://platzi.com/comentario/662220/) 
 
-	
 	Muy buena explicación para:
 	
 	System-defined data types  
 	User-defined data types
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [662220] (1)
 
-		
 		Gracias! Genial que te esté gustando el curso
 
-* **Carlos Nicolas Gonzalez Cabrera** (1)
+* **Carlos Nicolas Gonzalez Cabrera** (1) [623700](https://platzi.com/comentario/623700/) 
 
-	
 	Esta genial el curso! a darle!
 
-* **Alveiro Luis Hoyos Lozano** (1)
+* **Alveiro Luis Hoyos Lozano** (1) [619508](https://platzi.com/comentario/619508/) 
 
-	
 	ready para aprender algoritmos.
 
-* **victorvicenteperezccanto** (1)
+* **victorvicenteperezccanto** (1) [619441](https://platzi.com/comentario/619441/) 
 
-	
 	Muchas gracias
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [619441] (1)
 
-		
 		A ti Victor, bienvenido!
 
-* **saul-mdo** (1)
+* **saul-mdo** (1) [619137](https://platzi.com/comentario/619137/) 
 
-	
 	Perfecto! Vamos con todo.
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [609673](https://platzi.com/comentario/609673/) 
 
-	
 	Excelente nota
 
-* **Xappie** (1)
+* **Xappie** (1) [605984](https://platzi.com/comentario/605984/) 
 
-	
 	vamos a darle
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [605984] (1)
 
-		
 		Bien! Bienvenido
 
-* **Xappie** (1)
+* **Xappie** (1) [605983](https://platzi.com/comentario/605983/) 
 
 
-* **joel nicolas quezada nuñez** (1)
+* **joel nicolas quezada nuñez** (1) [596797](https://platzi.com/comentario/596797/) 
 
-	
 	Es vital memorizar ciertas palabras claves para poder interrelacionar y pensar como combinar lo que he aprendido.
 	
 	¿Qué opinan al respecto ?
 
-	* **jonathan2138** (2)
+	* **jonathan2138** [596797] (2)
 
-		
 		Hola Joel, en mi concepto si, sin embargo esto lo ganamos con la practica, que cada cosa aprendida volvamos un habito el tener palabras clave
 
-* **THEINQUISIDOR** (1)
+* **THEINQUISIDOR** (1) [584174](https://platzi.com/comentario/584174/) 
 
-	
 	estuvo muy interesante esta explicación me gusto
 
-* **Paul Gualambo Giraldo** (1)
+* **Paul Gualambo Giraldo** (1) [579040](https://platzi.com/comentario/579040/) 
 
-	
 	Vengo de tu curso de arduino, a que hora el lenguaje C ? :c
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [579040] (2)
 
-		
 		¡Hola Paul!
 		
 		No tienes que esperar más, tenemos disponible un [Curso de C++](https://platzi.com/clases/c-plus-plus/)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [579040] (2)
 
-		
 		lo haremos!
 
-* **Victor Peña Martinez** (1)
+* **Victor Peña Martinez** (1) [576344](https://platzi.com/comentario/576344/) 
 
-	
 	ok
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567422](https://platzi.com/comentario/567422/) 
 
-	
 	bine!!!
 
-* **DubAvenXP** (1)
+* **DubAvenXP** (1) [564978](https://platzi.com/comentario/564978/) 
 
-	
 	Tipos de variables:
 	
 	********Integ** ers******: Son numeros enteros  
@@ -3813,30 +3263,27 @@ Muy interesante para llevar un orden siempre en la solución de problemas
 	
 	Estos son los tipos de variables que conozco hasta el momento.
 
-* **Hector Alejandro Ramirez Huertas** (1)
+* **Hector Alejandro Ramirez Huertas** (1) [562693](https://platzi.com/comentario/562693/) 
 
-	
 	Ejemplo puntual.
 
-* **Paul Gualambo Giraldo** (1)
+* **Paul Gualambo Giraldo** (1) [58596](https://platzi.com/comentario/579040/) 
 Vengo de tu curso de arduino, a que hora el lenguaje C ? :c
 
-	* **Ana Lima (Platzi)** (2)
+	* **Ana Lima (Platzi)** [58596] (2)
 
-		
 		¡Hola Paul!
 		
 		No tienes que esperar más, tenemos disponible un [Curso de C++](https://platzi.com/clases/c-plus-plus/)
 
-* **camilo Escobar** (1)
+* **camilo Escobar** (1) [55776](https://platzi.com/comentario/544997/) 
 se puede tomar este curso sin necesidad de tener una carrera sobre programacion, es decir es un buen curso con el cual ingresar en este m...
 
-	* **ChristopherChi** (7)
+	* **ChristopherChi** [55776] (7)
 
-		
 		Si es bueno que empieces con este curso y ya despues tomes el curso de programacion basica, para que notes como se aplica este conocimiento.
 
-## 0080. User defined data types
+## 0080. User defined data types [16936](https://platzi.com/clases/1469-algoritmos/16936-user-defined-data-types/)
 
 ### Descripción:
 
@@ -3849,9 +3296,8 @@ Por ejemplo, las aplicación de cobranzas necesitan un tipo de dato personalizad
 
 ### Comentarios:
 
-* **Abner Paul Ccari Lindo** (16)
+* **Abner Paul Ccari Lindo** (16) [789315](https://platzi.com/comentario/789315/) 
 
-	
 	Tambien existen el tipado estático y dinámico, en el estático el tipo de variable se conoce en el tiempo de compilacion (compile-time) mientras que en el dinamico, se conoce en el tiempo de ejecuccion del programa(run-time).  
 	Lenguajes de tipado estático: Java, C, C++, FORTRAN, Pascal, Scala  
 	Lenguajes de tipado dinámico:JavaScript, Objective-C, PHP, Python, Ruby, Lisp,Tcl.
@@ -3891,17 +3337,15 @@ Por ejemplo, las aplicación de cobranzas necesitan un tipo de dato personalizad
 	
 	![](https://miro.medium.com/max/1648/1*BddwVWW6hFU0miT9DCbUWQ.png)
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [789315] (2)
 
-		
 		GRACIAS por ese gran aporte!!
 
-	* **Grupo Logis** (1)
+	* **Grupo Logis** [789315] (1)
 
-		
 		Tronco de aporte firme! Kotlin esta junto a Java y Scala me imagino. Gracias.
 
-* **Manuel Rivera** (11)
+* **Manuel Rivera** (11) [836005](https://platzi.com/comentario/836005/) 
 
 	```
 	    classclient 
@@ -3920,66 +3364,56 @@ Por ejemplo, las aplicación de cobranzas necesitan un tipo de dato personalizad
 	    
 	```
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [836005] (2)
 
-		
 		Es es un ejemplo mucho más grafico
 
-	* **jhonsoccer11** (1)
+	* **jhonsoccer11** [836005] (1)
 
-		
 		Excelente compañero
 
-	* **Manuel Rivera** (1)
+	* **Manuel Rivera** [836005] (1)
 
-		
 		Gracias Compañeros 🐱‍🏍
 
-* **paola-diaz361** (5)
-![IMG_20200304_184413.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_184413-6e529342-5cad-4741-b39b-3739dc7b8cc1.jpg)
-
-* **Cristian Fernando Anaya Perez** (5)
-
+* **paola-diaz361** (5) [1019362](https://platzi.com/comentario/1019362/) 
 	
+	![IMG_20200304_184413.jpg](https://static.platzi.com/media/user_upload/IMG_20200304_184413-6e529342-5cad-4741-b39b-3739dc7b8cc1.jpg)
+
+* **Cristian Fernando Anaya Perez** (5) [713922](https://platzi.com/comentario/713922/) 
+
 	Por si se hacían la misma pregunta que yo amigos:  
 	Pd: link de imagen:  
 	<http://www.alegsa.com.ar/Diccionario/C/19987.php>  
 	![](![punto_8.jpg](https://static.platzi.com/media/user_upload/punto_8-3c27db73-6062-4c50-8cdc-410ea14c7fc7.jpg)
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [713922] (3)
 
-		
 		muy bien, gracias por esos datos
 
-	* **mariorm1106** (3)
+	* **mariorm1106** [713922] (3)
 
-		
 		teniendo encuenta que se guardan 1 y 0 en binario, deberian ser mas, por que la letra a  
 		![binario por letra](https://img.vixdata.io/pd/jpg-large/es/sites/default/files/btg/codigo_binario_2.jpg)
 
-* **jenapi** (5)
+* **jenapi** (5) [643096](https://platzi.com/comentario/643096/) 
 
-	
 	Recomiendo hacer ete curso con alguna experiencia previa en programación, ayuda a entender y/o recordar algunos conceptos
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [643096] (2)
 
-		
 		Interesante! No crees que funcionaría bien para nuevos también?
 
-	* **jenapi** (2)
+	* **jenapi** [643096] (2)
 
-		
 		Si, pero no podrias entender a ciencia cierta que tan importante es este contenido. Todos estos temas están muy interesantes.
 
-	* **Juliocastaneda** (1)
+	* **Juliocastaneda** [643096] (1)
 
-		
 		Cuando te enseñaron Fisica mecanica, decias: “Esta #$%#&%” para que me sirve y sucede que el destino te llevo a la NASA y por medio de esa fisica, pudo llegar el hombre a la luna … Mas o menos es este tema…
 
-* **Wilson Marino Pablo Mendez** (5)
+* **Wilson Marino Pablo Mendez** (5) [523991](https://platzi.com/comentario/523991/) 
 
-	
 	Unidades  
 	1 bit = 1 ó 0  
 	1byte = 8 bits
@@ -3994,21 +3428,18 @@ Por ejemplo, las aplicación de cobranzas necesitan un tipo de dato personalizad
 	float balance(8);  
 	char adress(50)
 
-	* **Danelia Sanchez Sanchez** (3)
+	* **Danelia Sanchez Sanchez** [523991] (3)
 
-		
 		Si no me equivoco, el tipo `char` ocupa 1 byte.
 
-	* **Wilson Marino Pablo Mendez** (6)
+	* **Wilson Marino Pablo Mendez** [523991] (6)
 
-		
 		DaneSanchz tiene razon.
 		
 		![decsai.ugr.es__jfv_ed1_c_cdrom_cap2_cap24.htm.png](https://static.platzi.com/media/user_upload/decsai.ugr.es__jfv_ed1_c_cdrom_cap2_cap24.htm-972dc5ee-2da6-45d6-8c2a-5b170577e395.jpg)
 
-* **joelnbl** (4)
+* **joelnbl** (4) [682446](https://platzi.com/comentario/682446/) 
 
-	
 	Tipado Débil:  
 	PHP  
 	Javascript  
@@ -4019,130 +3450,109 @@ Por ejemplo, las aplicación de cobranzas necesitan un tipo de dato personalizad
 	Ruby  
 	Python
 
-* **Melisa Lozano (Platzi)** (4)
+* **Melisa Lozano (Platzi)** (4) [663644](https://platzi.com/comentario/663644/) 
 
-	
 	Hay lenguajes de programación que son tipados, duramente tipados y no tipados.
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [663644] (4)
 
-		
 		un ejemplo de lenguaje no tipado es Javascript! por eso ahí sólo con let, ya tienes tu declaración de variable sin importar el tipo de dato a guardar
 
-* **Sebastian Veliz Ysla** (4)
+* **Sebastian Veliz Ysla** (4) [525923](https://platzi.com/comentario/525923/) 
 
-	
 	Hay un dato importante que no mencionó, es el varchar: Este dato es como un char pero no es necesario pasarle la logitud exacta de carácteres que tendrá, sino la cantida de bytes que tendrá. Por ejemplo:
 	
 	(9, 4) 9 es la cantidad máxima de bytes que tendrá y 4 la cantidad mínima que pedirá. Si el input solo necesita 6 bytes, los 3 que quedan se guardarán como memoria, es decir que no consumirán memória c:
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [525923] (4)
 
-		
 		Buen aporte Sebas! Sin embrago hay que aclarar que varchar no es un tipo de datos primitivo en algunos lenguajes como C , y aquí en la siguiente clase hago en ejemplo en C, varchar lo recuerdo de cuando se trabaja con SQL por ejemplo
 
-	* **Sebastian Veliz Ysla** (5)
+	* **Sebastian Veliz Ysla** [525923] (5)
 
-		
 		jajaja si, lo estoy viendo ahora, perdón carnal es la costumbre.jpg XD  
 		Aúnque también es bueno decirlo, ya que cuando se asigna char y queda espácio libre, se pierde memória valiosa
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [525923] (3)
 
-		
 		no hay problema! es buena info =)!
 
-* **mafevito** (3)
+* **mafevito** (3) [569180](https://platzi.com/comentario/569180/) 
 
-	
 	¿Cuál es la diferencia entre **System-defined data types** y **User-defined data types**?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [569180] (6)
 
-		
 		System-defined son typos de datos que son nativos del lenguaje por ejemplo en go lang viene un tipo de dato llamado struct que sirve para simular objetos. Por otro lado tenemos los User-defined que son tipos de datos que se generan para el desarrollo de la aplicación que haces, por ejemplo puedes tener un tipo de dato Estudiante que tiene unos atributos y tiene unos métodos.
 
-	* **jonathan2138** (2)
+	* **jonathan2138** [569180] (2)
 
-		
 		 **System-defined** : tipos de datos reservados por el sistema, esto no lo podremos cambiar.  
 		**User-defined** : Tipos de datos definidos por el programador, ej, crear una variable de tipo Persona (Y tuvimos que haber definido que significa Persona en el sistema), son variables que modificamos de acuerdo a nuestro interés
 
-* **diego-serrano** (3)
+* **diego-serrano** (3) [524038](https://platzi.com/comentario/524038/) 
 
-	
 	Muy buen profesor Ricardo.
 
-* **luis-e-chitala** (2)
+* **luis-e-chitala** (2) [1030823](https://platzi.com/comentario/1030823/) 
 
-	
 	Perfecto para repasar conceptos de arquitectura de computadoras
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [969968](https://platzi.com/comentario/969968/) 
 
-	
 	se requeriría de realizar estos ejemplos ya en programas para validar cada definición.
 
-* **miguel-angel-baquero** (2)
+* **miguel-angel-baquero** (2) [589800](https://platzi.com/comentario/589800/) 
 
-	
 	Dependiendo del lenguaje de programación el tamaño de los tipos de datos puede variar, como es el caso de int. En ciertos lenguajes puede tener un tamaño de 32 bits o en otros tipos de lenguajes 16 bits.  
 	Según la clase anterior de Ricardo Celis, int tiene un tamaño de 2 bytes, lo que quiere decir que se pueden almacenar hasta 2^(16) = 65.536 valores.  
 	Un dato tipo int de 4 bytes pude almacenar 2^(32) = 4.294.967.296‬ valores.
 
-* **jumper-andrew** (1)
+* **jumper-andrew** (1) [1045757](https://platzi.com/comentario/1045757/) 
 
-	
 	😃
 
-* **Oskarmartinez** (1)
+* **Oskarmartinez** (1) [785235](https://platzi.com/comentario/785235/) 
 
-	
 	yo creo que el curso de programación básica deberían remplantearlo, y actualizarlo viendo este curso veo muy corto el curso de programación básica de platzi,
 
-* **Irving Rubén Merino Núñez** (1)
+* **Irving Rubén Merino Núñez** (1) [686199](https://platzi.com/comentario/686199/) 
 
-	
 	Bien explicado!
 
-* **JheysonEGalvis** (1)
+* **JheysonEGalvis** (1) [646513](https://platzi.com/comentario/646513/) 
 
-	
 	Para este tema y la lectura anterior considero tener conocimientos previos pero el curso se llama “Fundamentos básicos de algoritmos” entonces porqué se ven temas avanzados…? 😕
 
-	* **gbsojo** (2)
+	* **gbsojo** [646513] (2)
 
-		
 		No son realmente avanzados, al menos no en algoritmos. Los conocimientos de los que hablas se imparten en otros cursos como el de [Curso de Programación Básica](https://platzi.com/clases/programacion-basica/) y [Fundamentos de ingeniería de software](https://platzi.com/clases/ingenieria/)
 
-	* **jonathan2138** (3)
+	* **jonathan2138** [646513] (3)
 
-		
 		No creo Jheyson, estos temas podemos aprenderlos desde cero, son una buena base para empezar a sumar horas de codigo
 
-* **carmen cecilia gomez galvis** (1)
+* **carmen cecilia gomez galvis** (1) [621474](https://platzi.com/comentario/621474/) 
 Interesante recordé varias cosas
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [85494](https://platzi.com/comentario/1075307/) 
 Tengo que tener el curso de C y C++ para ver este curso? 😄
 
-	* **Juan Felipe Peralta Zapata (Platzi)** (2)
+	* **Juan Felipe Peralta Zapata (Platzi)** [85494] (2)
 
-		
 		No es necesario que los hayas visto para hacer este curso, pero sí te recomendaría que antes hagas el [Curso de Pensamiento Lógico](https://platzi.com/cursos/pensamiento-logico/). 😄
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [80348](https://platzi.com/comentario/957200/) 
 para ser mas concretos user defined data types es para medir el consumo de memoria al momento de generar texto … es como un limite???
 
-* **mafevito** (1)
+* **mafevito** (1) [57773](https://platzi.com/comentario/569180/) 
 ¿Cuál es la diferencia entre System-defined data types y User-defined data types?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (6)
+	* **Diego Alexander Forero Higuera (Platzi)** [57773] (6)
 
-		
 		System-defined son typos de datos que son nativos del lenguaje por ejemplo en go lang viene un tipo de dato llamado struct que sirve para simular objetos. Por otro lado tenemos los User-defined que son tipos de datos que se generan para el desarrollo de la aplicación que haces, por ejemplo puedes tener un tipo de dato Estudiante que tiene unos atributos y tiene unos métodos.
 
-## 0090. Instalando Ubuntu Bash en Windows
+## 0090. Instalando Ubuntu Bash en Windows [18427](https://platzi.com/clases/1469-algoritmos/18427-instalando-ubuntu-bash-en-windows/)
 
 ### Descripción:
 
@@ -4178,98 +3588,80 @@ Luego, ejecuta Ubuntu, crea tu usuario y contraseña y estás lista o listo para
 
 ### Comentarios:
 
-* **Maria_Perez** (5)
+* **Maria_Perez** (5) [942259](https://platzi.com/comentario/942259/) 
 
-	
 	Chicos, les recomiendo mejor que miren el video en este link <https://platzi.com/clases/1650-prework/22995-instalacion-de-ubuntu-bash-en-windows/> ahí esta mejor explicado para poder continuar con el siguiente video del curso fronted
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [942259] (1)
 
-		
 		Hola Maria y si tengo MacOS? saludos
 
-* **Mateo Gonzales Navarrete** (4)
+* **Mateo Gonzales Navarrete** (4) [1024338](https://platzi.com/comentario/1024338/) 
 
-	
 	A todos los que van a programar: Realemente es mucho mejor que instalen Linux a que lo usen desde algun simulador de Windows. Con el tiempo se daran cuenta de que ningun simulador se iguala a la experiencia de usar Linux. En Linux tu eres tu propio jefe. Verdaderamente tienes el poder sobre todo tu sistema. Y para programar, servers, etc., nada le gana a Linux. Basta con decir que Microsoft usa Linux para sus servidores Azure 😂
 
-* **juancamiloruiznieto** (3)
+* **juancamiloruiznieto** (3) [943514](https://platzi.com/comentario/943514/) 
 
-	
 	Hola Como puedo instalar ubuntu Bash en MacOS? o puedo trabajar desde la terminal?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [943514] (1)
 
-		
 		Hola! Puedes usar directamente la terminal de Mac pues usa los mismos comandos que la de linux 😄
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [943514] (1)
 
-		
 		gracias!
 
-* **Trebilcode** (3)
+* **Trebilcode** (3) [901811](https://platzi.com/comentario/901811/) 
 
-	
 	En mi caso no me permitió usar un usuario que comenzara por mayúscula, así que tengan eso en cuenta. Otro tip es que cuando escriben su contraseña no se ve reflejado en la terminal, pero sí están escribiendo 😃
 
-* **yeferson soto** (3)
+* **yeferson soto** (3) [892949](https://platzi.com/comentario/892949/) 
 
-	
 	uedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes de programacion, sin la necesidad de instalar nada ya que usar windows (windows siempre tiene problemas de rendimiento ¬¬) o otras herramientas es demasiado complicado (consumen demasiado recursos) si ya existe soluciones como esta en la web
 
-* **Efraín Hernández García** (3)
+* **Efraín Hernández García** (3) [876917](https://platzi.com/comentario/876917/) 
 
-	
 	 **Si tienen problemas con la instalación aquí está en video:**  
 	<https://platzi.com/clases/1650-prework/22995-instalacion-de-ubuntu-bash-en-windows/>
 
-* **sgomez2113** (3)
+* **sgomez2113** (3) [874249](https://platzi.com/comentario/874249/) 
 
-	
 	Hola, para quien no le funcione el terminar de Ubuntu, o tenga un error al compilar algun programa que se realiza durante el curso , pueden usar <https://repl.it> permite escribir código en C y otros lenguajes, los compila y todo, sin la necesidad de instalar nada. 😎😎✌
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [874249] (1)
 
-		
 		Gracias por ese dato!!
 
-* **Yesica Andrea Pulido Escobar** (3)
+* **Yesica Andrea Pulido Escobar** (3) [564607](https://platzi.com/comentario/564607/) 
 
-	
 	Me parece pésima esta guía de instalación.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [564607] (1)
 
-		
 		hola Andrea, cuéntame qué problema tuviste?
 
-* **Alberto González** (3)
+* **Alberto González** (3) [526468](https://platzi.com/comentario/526468/) 
 
-	
 	¡Hola!  
 	Muchas gracias, ya pude instalar Ubuntu Bash en Windows, pero tengo un problema al intentar instalar gcc. ¿Me podrían ayudar? ¡Gracias!  
 	![Gcc.PNG](https://static.platzi.com/media/user_upload/Gcc-04aee42f-ae95-466b-ae26-c54343729d51.jpg)
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [526468] (4)
 
-		
 		ejecuta run apt-get update y luego prueba de nuevo hacer la instalación de gcc
 
-	* **Alberto González** (1)
+	* **Alberto González** [526468] (1)
 
-		
 		¡Ya logré instalar el gcc!  
 		Pero aún tengo una pregunta, ¿Cómo accedo a mis archivos de Windows desde la terminal de Ubuntu? No he podido acceder a los archivos de los programas desarrollados.
 
-	* **Alberto González** (1)
+	* **Alberto González** [526468] (1)
 
-		
 		Ya intenté acceder a los archivos de Windows desde la terminal con el comando: ‘cd’, pero no he podido tener acceso a los archivos de los programas, ¿Cómo accedo a ellos desde la terminal de Ubuntu?
 
-	* **Carlos Francisco Betancourt Requena** (4)
+	* **Carlos Francisco Betancourt Requena** [526468] (4)
 
-		
 		Hola Alberto, yo utilice el siguiente comando:
 		``` 
 		    cd /mnt/c
@@ -4278,98 +3670,81 @@ Luego, ejecuta Ubuntu, crea tu usuario y contraseña y estás lista o listo para
 		
 		No tuve problemas, espero te sirva.
 
-	* **Alberto González** (2)
+	* **Alberto González** [526468] (2)
 
-		
 		¡Muchas gracias betancourtweb!  
 		¡Me ha servido a las 1000 maravillas!
 
-	* **albaluzmab** (2)
+	* **albaluzmab** [526468] (2)
 
-		
 		Hola profe, ya instalé ubuntu, puede que suene obvio pero cómo se instala el visual studio en linux?
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1094056](https://platzi.com/comentario/1094056/) 
 
-	
 	Retomando nuevamente el curso…
 
-* **juan jose pelaez hernandez** (2)
+* **juan jose pelaez hernandez** (2) [1011984](https://platzi.com/comentario/1011984/) 
 
-	
 	Esta instalación la explica Ricardo en (<https://platzi.com/clases/1650-prework/22995-instalacion-de-ubuntu-bash-en-windows/>)
 
-* **stepfanie** (2)
+* **stepfanie** (2) [1001033](https://platzi.com/comentario/1001033/) 
 
-	
 	Realizo el paso a paso pero cuando abro ubuntu no me aparece para crear usuario me genera es ---- root@nombre_de_mi_pc:~#, se puede trabajar asi, o como puedo crear el usuario alli, agradezco su ayuda
 
-* **Eder Yerson Garcés Perez** (2)
+* **Eder Yerson Garcés Perez** (2) [982366](https://platzi.com/comentario/982366/) 
 Yo mejor uso ubuntu 😀😀
 
-* **Juan David González Rodríguez** (2)
+* **Juan David González Rodríguez** (2) [957211](https://platzi.com/comentario/957211/) 
 
-	
 	hola , mi computadora no cuenta con windows 10… cuenta con el 7 como puedo instalar Ubuntu Bash
 
-	* **Miguel Torres** (2)
+	* **Miguel Torres** [957211] (2)
 
-		
 		En ese caso puedes instalar una partición en tu disco duro y tener ambos sistemas, pero recomendaría que dejes Windows 7 porque desde hace un mes dejó de tener soporte de Microsoft y es peligroso. /:
 		
 		Para instalar una partición de Ubuntu desde Windows acá está la info: <https://ubuntu.com/download/desktop>
 
-* **juancamiloruiznieto** (2)
+* **juancamiloruiznieto** (2) [946426](https://platzi.com/comentario/946426/) 
 
-	
 	Hola Nadie contesta preguntas? algun profesor?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [946426] (1)
 
-		
 		Hola! A veces podemos tardar más o menos en contestar, sobretodo en preguntas dentro de lecturas que no aparecen en el foro, de todas maneras ya te contesté 😄
 
-	* **juancamiloruiznieto** (2)
+	* **juancamiloruiznieto** [946426] (2)
 
-		
 		Hola gracias por contestarme, ud es un profesor? aquí solo contestan otros estudiantes veo que no es como otras plataformas y los profesores no están pendientes. saludos cordiales
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [946426] (1)
 
-		
 		Actualmente soy parte del Team Associates de Platzi 😄
 
-	* **juancamiloruiznieto** (2)
+	* **juancamiloruiznieto** [946426] (2)
 
-		
 		Muchas gracias Gabriel , estoy empezando con Platzi pensé que era como en Udemy que el profe que sale en el video es el mismo que responde todas las preguntas y estoy un poco apurado porque usan solo windows y yo no lo uso hace muchos años solo MacOs y durante algunos años Linux, Saludos
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [946426] (2)
 
-		
 		No te preocupes, acá la comunidad siempre está al pendiente de tus dudas y en ocasiones el profe responde pero la comunidad siempre está al pendiente. De todas maneras si ves que usan Linux o WSL en algún curso tu sigue con tu terminal Mac que te debería servir perfectamente, por otra parte, no dudes en consultar cualquier duda que tengas 😄
 
-	* **juancamiloruiznieto** (2)
+	* **juancamiloruiznieto** [946426] (2)
 
-		
 		La verdad no entiendo nada, como se puede guardar un proyecto en La Terminal? así como lo hace el profesor o como se activa una librería de las que el activa? eso pasó en un 1:45 segundos del video de la próxima clase entonces me toco devolverme aquí, que hago instalo windows en el mac o instalo Linux en el mac ? creo que asi no esta funcionando este aprendizaje
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [946426] (1)
 ![Captura de pantalla 2020-01-27 a la\(s\) 7.36.58 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-01-27%20a%20la%28s%29%207.36.58%20p.%20m.-1501d9e5-ad01-42ef-a6b2-961777f76098.jpg)
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [946426] (1)
 
-		
 		La verdad no entiendo porque dan por hecho que todos tienen windows y no me deja hacer lo que hace el profesor en el video
 
-	* **juancamiloruiznieto** (2)
+	* **juancamiloruiznieto** [946426] (2)
 
-		
 		esto es frustrante!
 
-	* **Grupo Logis** (2)
+	* **Grupo Logis** [946426] (2)
 
-		
 		Hola como estas, al igual que tu también soy un estudiante bastante nuevo de la comunidad de **PLATZI** 💚 (y de hecho en este tema de código activamente lo que llevo son 4 o 5 meses).
 		
 		Desde mi punto de vista es una plataforma bastante activa y con respuestas oportunas, y lo mejor de todo, con una fuerte dosis latina, así que es fácil digerir las repuestas.
@@ -4395,9 +3770,8 @@ Yo mejor uso ubuntu 😀😀
 		
 		_**Suerte y Exitos.**_
 
-	* **juancamiloruiznieto** (2)
+	* **juancamiloruiznieto** [946426] (2)
 
-		
 		Hola compañero se supone que estoy en un programa para formar programadores y es el orden que va el programa  
 		**Curso para Aprender en Línea Efectivamente**  
 		**Curso de Computación Básica** -  
@@ -4409,9 +3783,8 @@ Yo mejor uso ubuntu 😀😀
 		**Curso de Prework**  
 		yo no me estoy amarrando los tenis en la linea de salida, estoy siguiendo un programa (Empoderatech) que se supone que es ordenado y aqui asi platzi nos exige hacerlo en ese orden y ud ha sido de más ayuda que los propios miembros de platzi , el profesor que contestó en mensajes anteriores solo dice que tranquilo que la comunidad estara pendiente de responder y ya, entonces estoy averiguando como como puedo aprender sin que me den todo “masticado” como ud dice estoy haciendo la labor de saber el porque siento avanzado, muchas gracias por todo su consejo y ademas de esto pienso hablar con alguien para exponer esto que le estoy diciendo el 30 de enero hay una clase presencial del programa. saludos cordiales
 
-* **alexrayo** (2)
+* **alexrayo** (2) [934003](https://platzi.com/comentario/934003/) 
 
-	
 	 **Acá resumo los pasos a seguir**
 	
 	• Inicio / Escribir Developer Settings / Activar Developer Mode  
@@ -4419,99 +3792,81 @@ Yo mejor uso ubuntu 😀😀
 	• Instalar la consola de Ubuntu 18.04 LTS desde Windows Store  
 	• Abrir la consola de Ubuntu y crear tu cuenta; si no has seguido los pasos anteriores para la activación, esto te dará un error al inciar.
 
-* **Oslan Enrique Villalobos  Piña** (2)
+* **Oslan Enrique Villalobos  Piña** (2) [923862](https://platzi.com/comentario/923862/) 
 
-	
 	Instale Ubuntu 18.04 LTS para seguir este curso.
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [923862] (3)
 
-		
 		Genial! Recuerda que si quieres crear un ambiente de desarrollo increíble tenemos el [Curso de Prework](https://platzi.com/clases/prework/). Si vas a trabajar en algo que no sea JavaScript puedes ignorar estas partes, pero sin duda recomendable para crear todo un ecosistema de desarrollo dentro de tu computador.
 
-* **XaviCloud** (2)
+* **XaviCloud** (2) [888921](https://platzi.com/comentario/888921/) 
 
-	
 	<https://platzi.com/tutoriales/1469-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [840056](https://platzi.com/comentario/840056/) 
 
-	
 	Recuerda ejecutarlo como administrador. Para eso, yo utilicé “PowerShell”.
 
-* **gnscarlos** (2)
+* **gnscarlos** (2) [569298](https://platzi.com/comentario/569298/) 
 
-	
 	También que veníamos, ahora me toca actualizarme de w7 a w10.
 
-* **Milton Andrés Sanabria** (2)
+* **Milton Andrés Sanabria** (2) [559100](https://platzi.com/comentario/559100/) 
 
-	
 	 **Usuarios Windows**  
 	Pueden usar la terminal de Linux sin problemas en W10. Aquí esta el paso a paso para instalarla: <https://docs.microsoft.com/en-us/windows/wsl/install-win10>
 	
 	Otra alternativa puede ser cmder que funciona bien (con algunas limitaciones o Git Bash.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [559100] (1)
 
-		
 		Gracias Milton!
 
-* **Ricardo Asin** (2)
+* **Ricardo Asin** (2) [532732](https://platzi.com/comentario/532732/) 
 
-	
 	Se puede en windows 8.1??
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [532732] (1)
 
-		
 		Hola Ricardo! No se puede, pero si no mal recuerdo el upgrade a windows 10 desde windows 8 era gratuito =)
 
-* **Julian Castellanos** (1)
+* **Julian Castellanos** (1) [1105084](https://platzi.com/comentario/1105084/) 
 
-	
 	Hecho
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1094061](https://platzi.com/comentario/1094061/) 
 
-	
 	Como puedo ver la contraseña que le coloque… se me olvido 😕
 
-	* **Jorge Hernández** (1)
+	* **Jorge Hernández** [1094061] (1)
 
-		
 		sigue este tutorial
 		
 		[](https://www.webcarpenter.com/blog/127-Reset-the-Password-in-Linux-Ubuntu-Bash-in-Windows-10)
 
-	* **Byron Miguel Piedrahita Hernandez** (1)
+	* **Byron Miguel Piedrahita Hernandez** [1094061] (1)
 
-		
 		Yo tambien quiero saber eso 😄
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1091684](https://platzi.com/comentario/1091684/) 
 
-	
 	yo uso un Dual-Boot
 
-* **JasoSalgado** (1)
+* **JasoSalgado** (1) [1086004](https://platzi.com/comentario/1086004/) 
 
-	
 	Listo.
 
-* **Lucas Barisonzi** (1)
+* **Lucas Barisonzi** (1) [1083375](https://platzi.com/comentario/1083375/) 
 
-	
 	Instalado
 
-* **Sara Fletcher Briñez** (1)
+* **Sara Fletcher Briñez** (1) [1079784](https://platzi.com/comentario/1079784/) 
 
-	
 	Todas las instrucciones ok. Logré la instalación. Solo si tener en cuenta lo que mencionan en otros comentarios, que el password no se visualiza mientras se digita, pero si se registra.
 
-* **Antoine J. Manuel Gutierrez.** (1)
+* **Antoine J. Manuel Gutierrez.** (1) [1043189](https://platzi.com/comentario/1043189/) 
 
-	
 	hola buenas… al tratar de instalar el ubuntu 18.04 he tenido un problema el cual fue imagino a causa de no haber seguido el ultimo paso que decía “entra al menú inicio, escribe bash y sigue los pasos que te indique” con lo cual al abrir el ubuntu ya descargado por store noto los problemas.
 	
 	al abrir el ubuntu y tratar de crear el usuario el programa no avanzaba y después de esperar un tiempo a ver si eso era lo que necesitaba lo tuve que cerrar y volver a intentarlo porque tomaba demasiado y no se veía avance … ya cuando lo abrí de nuevo la caja estaba vacía y no respondía ningún código.
@@ -4522,262 +3877,214 @@ Yo mejor uso ubuntu 😀😀
 	
 	ahora que espere el proceso de punto de guardado antiguo no veo al ubuntu por ningún lado pero antes de volver a intentar instalarlo de nuevo por store quisiera que me dieran un consejo para no volver a cometer el mismo error asumiendo que fue por el ultimo paso del tutorial … Gracias!
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1019429](https://platzi.com/comentario/1019429/) 
 
-	
 	Me quedo perfecto!! Gracias! ❤️
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1000876](https://platzi.com/comentario/1000876/) 
 
-	
 	Estuve pérdida al inicio, pero hecho!
 
-* **Christian Sanclemente** (1)
+* **Christian Sanclemente** (1) [980201](https://platzi.com/comentario/980201/) 
 
-	
 	Vamos!
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [977844](https://platzi.com/comentario/977844/) 
 
-	
 	Tome la desicion de bootear una USB con Ubuntu y puedo llevarlo a cualquier pc de manera portátil. Así hay tiempo de practicar en donde se pueda.
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [974857](https://platzi.com/comentario/974857/) 
 
-	
 	para mac?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [974857] (2)
 
-		
 		No debes instalar nada! Solo usa la terminal por defecto 😄
 
-* **megadelt** (1)
+* **megadelt** (1) [972532](https://platzi.com/comentario/972532/) 
 
-	
 	Tuve problemas para encontrar “Windows subsystem for linux”, para los que le pase lo mismo, deben ejecutar Windows PowerShell como administrador (lo hacen haciendo clic con boton derecho del mouse sobre menú inicio y ahí aparece, cuando les abra la consola escribir el comando:  
 	`Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 	
 	Al final les va a pedir reiniciar, con eso debiese funcionar
 
-* **Irune Verenice Salazar Ttito** (1)
+* **Irune Verenice Salazar Ttito** (1) [972003](https://platzi.com/comentario/972003/) 
 
-	
 	Alexander es normal que no aparezca tu contraseña, ya que no es visible por motivos de seguridad , igual le das enter y sale para que confirmes tu contrasña.
 
-* **alexanderguamancruz** (1)
+* **alexanderguamancruz** (1) [971363](https://platzi.com/comentario/971363/) 
 
-	
 	Instale de la Tienda la aplicación, después de abierta se instala, me da la opción de colocar el usuario y cuando paso a la clave esta no me deja escribir ninguna letra o numero, no me sale nada por mas de que tecleo todas las letras. alguien me puede orientar que hacer?? Gracias.
 
-	* **wilmaryoanmalavermalaver** (1)
+	* **wilmaryoanmalavermalaver** [971363] (1)
 
-		
 		Ok bien creo que a todos nos pasa, realmente si estas escribiendo la contraseña lo que pasa es que por defecto en linux no muestra que se este escribiendo es como si estuviera oculta no te preocupes solo hazla facil para el curso y si si la esta escribiendo.
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [970093](https://platzi.com/comentario/970093/) 
 
-	
 	Que tiempo debe tomar la instalación? Lleva mas de 30min…
 
-	* **Carlos José González Juan** (1)
+	* **Carlos José González Juan** [970093] (1)
 
-		
 		pulsa enter, yo me quede esperando y pulse enter y continuo el siguiente paso.
 
-* **angie Cortes Montaño** (1)
+* **angie Cortes Montaño** (1) [969671](https://platzi.com/comentario/969671/) 
 
-	
 	ya lo he creado
 
-* **katherine Johana Pinilla Rodriguez** (1)
+* **katherine Johana Pinilla Rodriguez** (1) [965710](https://platzi.com/comentario/965710/) 
 
-	
 	Hola amigos he tenido un problema con el bash de ubuntu, ya lo tengo instalado, pero me sale un error : este mensaje:  
 	(wsregisterdistribution failed with error: 0x80080005 , error: 0x80080005 error en la ejecution del servidor  
 	y no me deja crear el usuario y la contraseña , alguno puede ayudarme con esto, le agradezco mucho.
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [963147](https://platzi.com/comentario/963147/) 
 
-	
 	Ya la tenía desde el curso de Terminal y Línea de Comandos. 😄
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [960968](https://platzi.com/comentario/960968/) 
 
-	
 	Listo!
 
-* **jcanchila** (1)
+* **jcanchila** (1) [957203](https://platzi.com/comentario/957203/) 
 
-	
 	Installation successful!
 
-* **Carlos52960o** (1)
+* **Carlos52960o** (1) [955920](https://platzi.com/comentario/955920/) 
 
-	
 	Ya lo instale sin problemas muy intuitivo el instructivo A Continuar…
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [955287](https://platzi.com/comentario/955287/) 
 
-	
 	voy a solucionar esto pero aun asi , muchos creo tendran mismo pregunta que yo , COMO CREO MI USUARIO Y CLAVE¡?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [955287] (1)
 
-		
 		Hola! Cuando inicias por primera vez Ubuntu, te pedirá que ingreses estos datos para ser creados [Instalación de Ubuntu Bash en Windows](https://platzi.com/clases/1650-prework/22995-instalacion-de-ubuntu-bash-en-windows/) creo que esta clase puede ayudarte mucho 😄
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [955249](https://platzi.com/comentario/955249/) 
 
-	
 	holaaaa GRACIAS , esta super ya tengo el programa en le compu reiniciado y bajado en el WindowsTORE , a darle … que emocion
 
-* **Juan Carlos Valencia López** (1)
+* **Juan Carlos Valencia López** (1) [943152](https://platzi.com/comentario/943152/) 
 
-	
 	Lo omitiré porque ya tengo ubuntu :V
 
-* **WuilmerAndresPalaciosOliveros** (1)
+* **WuilmerAndresPalaciosOliveros** (1) [941236](https://platzi.com/comentario/941236/) 
 
-	
 	Tengo Windows 7, y el Windows 10 corre muy lento en mi equipo. que puedo hacer?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [941236] (1)
 
-		
 		Con solo esa información es muy difícil saber cómo ayudarte. Puede ser por muchas cosas.
 		
 		Te recomiendo tomar este curso para evaluar qué tal va tu computadora o si vale la pena hacerle alguna actualización: <https://platzi.com/clases/computacion-basica/>. 😉
 
-* **JosueM** (1)
+* **JosueM** (1) [936093](https://platzi.com/comentario/936093/) 
 
-	
 	Seguí todos los pasos, pero no acepto mi usuario porque me pide que deshabilite la consola heredada, después de intentar arreglarlo, lo ejecuto, se abre y se cierra rápidamente. Estoy bloqueado. AYUDA!!! por favor
 
-	* **JosueM** (2)
+	* **JosueM** [936093] (2)
 
-		
 		Ya al menos me aparece la parte de que esta cargando, pero se queda un buen rato y luego me dice que paso un error en el servidor y me dice presione enter, acto seguido se cierra.
 
-	* **JosueM** (2)
+	* **JosueM** [936093] (2)
 
-		
 		Ya pude solucionarlo jajaja pero, ahora me muestra cuando intento compilar:  
 		gcc: error: uddt.c: No such file or directory  
 		gcc: fatal error: no input files
 		
 		Y no puedo hacer nada
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [936093] (2)
 
-		
 		Estas lecturas te pueden ayudar:
 		
-		  * <https://stackoverflow.com/questions/50870728/gcc-errors-no-such-file-or-directory>
-		  * <https://askubuntu.com/questions/607691/gcc-fatal-error>
-		  * <https://askubuntu.com/questions/1018564/gcc-no-input-files?rq=1>
+		* <https://stackoverflow.com/questions/50870728/gcc-errors-no-such-file-or-directory>
+		* <https://askubuntu.com/questions/607691/gcc-fatal-error>
+		* <https://askubuntu.com/questions/1018564/gcc-no-input-files?rq=1>
 		
 		
 
-	* **JosueM** (2)
+	* **JosueM** [936093] (2)
 
-		
 		Gracias!! ayer pude solucionar todo, sin embargo gracias @juandc. De la emoción de me olvido anunciarlo jajaja.
 
-	* **JosueM** (1)
+	* **JosueM** [936093] (1)
 
-		
 		Gracias!! ayer pude solucionar todo, sin embargo gracias @juandc. De la emoción se me olvido anunciarlo jajaja.*
 
-* **pozzonadia** (1)
+* **pozzonadia** (1) [935008](https://platzi.com/comentario/935008/) 
 
-	
 	Estoy en una MacBook Air, debería buscar Ubuntu para iOS?
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [935008] (3)
 
-		
 		Hola! Primero que nada, el sistema operativo de una Mac es MacOS, esto tienes que tenerlo claro para cuando vayas a solucionar problemas y busques en Google, por otra parte no, la terminal de Mac es muy parecida a la de linux y la mayoría de los comandos son iguales, te recomiendo el [Curso de Prework](https://platzi.com/clases/prework/). Pues ahí se enseña a crear un ambiente de desarrollo en cualquier sistema operativo 😄
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [935008] (1)
 
-		
 		Si tienes Mac no es necesario. Ahí mismo puedes instalar los lenguajes de programación que usamos durante el curso. Recuerda que también puedes usar [repl.it](http://repl.it). 😉
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [935008] (1)
 
-		
 		Hola compañeros vi que hablaron de MacOS y tengo este S.O. la pregunta es cómo puedo reemplazar Ubuntu Bash en Windows,( sin tener que hacer un curso y pagar ) Gracias
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [935008] (1)
 
-		
 		 **@juancamiloruiznieto** No entiendo tu pregunta. ¿A qué te refieres con reemplazar Ubuntu Bash en Windows? Si usas Mac no necesitas usar el WSL. 🤔
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [863207](https://platzi.com/comentario/863207/) 
 
-	
 	T_T yo uso Windows 7
 
-	* **David Felipe Bohórquez** (2)
+	* **David Felipe Bohórquez** [863207] (2)
 
-		
 		puedes instalar una maquina virtual con algun linux server, como ubuntu server.
 
-	* **yeferson soto** (3)
+	* **yeferson soto** [863207] (3)
 
-		
 		puedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes, sin la necesidad de instalar nada ya que usar windows o otras herramientas es demasiado complicado si ya existe soluciones como esta
 
-* **John Sedano Dlc** (1)
+* **John Sedano Dlc** (1) [854232](https://platzi.com/comentario/854232/) 
 
-	
 	Me aparece "funcion beta"  
 	es normal?
 
-* **katherinelimadonis** (1)
+* **katherinelimadonis** (1) [831259](https://platzi.com/comentario/831259/) 
 
-	
 	hola la verdad lo pude instalar muy bien pero al momento de querer ver el codigo en ubunto dice que el command not found , alguien me ouede orientar en esto gracias
 
-	* **Christian Erik Velázquez Morales** (1)
+	* **Christian Erik Velázquez Morales** [831259] (1)
 
-		
 		Recuerda ejecutarlo como administrador. Para eso, yo utilicé “PowerShell”.
 
-	* **Christian Erik Velázquez Morales** (3)
+	* **Christian Erik Velázquez Morales** [831259] (3)
 
-		
 		Es la misma clase pero, con video: <https://platzi.com/clases/1650-prework/22995-instalacion-de-ubuntu-bash-en-windows/>
 
-	* **yeferson soto** (2)
+	* **yeferson soto** [831259] (2)
 
-		
 		puedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes, sin la necesidad de instalar nada ya que usar windows o otras herramientas es demasiado complicado si ya existe soluciones como esta
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [831259] (1)
 
-		
 		¿Qué comando ejecutaste para que saliera ese error?
 
-* **predator0077** (1)
+* **predator0077** (1) [809453](https://platzi.com/comentario/809453/) 
 
-	
 	Hecho a continuar con el curso, Animo!!
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [795126](https://platzi.com/comentario/795126/) 
 
-	
 	Hola, ¿actualmente existe una forma mas fácil de compilar C en visual Code, sin necesidad de hacer todo este proceso?
 
-	* **yeferson soto** (3)
+	* **yeferson soto** [795126] (3)
 
-		
 		puedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes, sin la necesidad de instalar nada ya que usar windows o otras herramientas es demasiado complicado si ya existe soluciones como esta
 
-* **Oriol Camí** (1)
+* **Oriol Camí** (1) [710371](https://platzi.com/comentario/710371/) 
 
-	
 	Buenas he intentado compilar con el bash de Ubuntu y en el ultimo paso no compilaba, en un acto de desesperación he roto el código de bash reinstalando la aplicación y lo e reinstalado 2 o 3 veces. Ahora cuando intento realizar todo el proceso de nuevo para seguir la clase no consigo avanzar porque me da errores 404 de no reconocimiento de IP por todos los lados. No controlo los comandos de bash y no se como reparar este desastre. Si alguien me ayudase por favor llevo por internet buscando como resetear full bash y nada, los errores persisten he probado varias opciones y nada.
 	
 	\------------------------ CÓDIGO BASH -------------------
@@ -4886,179 +4193,146 @@ Yo mejor uso ubuntu 😀😀
 	Total que seria mejor tenerlo virgen de nuevo.  
 	He probado por Powershell y CMD pero no me reconoce comandos
 
-	* **yeferson soto** (2)
+	* **yeferson soto** [710371] (2)
 
-		
 		puedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes, sin la necesidad de instalar nada ya que usar windows o otras herramientas es demasiado complicado si ya existe soluciones como esta
 
-* **diego_acero** (1)
+* **diego_acero** (1) [709412](https://platzi.com/comentario/709412/) 
 
-	
 	buen dia,  
 	pregunta: puedo instalar el Ubuntu en mi windows 7, la verdad no quiero todavia pasarme al 10 $$$
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [709412] (3)
 
-		
 		puedes hacer una partición e instalar linux, te lo recomiendo ya que windows 7 no te va a servir para desarrollar nadita
 
-* **joelnbl** (1)
+* **joelnbl** (1) [682450](https://platzi.com/comentario/682450/) 
 
-	
 	La magia de tener Dual Boot 😃
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [682450] (2)
 
-		
 		es una mejor solución
 
-* **aimeenav** (1)
+* **aimeenav** (1) [669491](https://platzi.com/comentario/669491/) 
 
-	
 	Lo puedo instalar si uso Mac? o me generara problemas?
 
-	* **jaguarjs** (5)
+	* **jaguarjs** [669491] (5)
 
-		
 		Hola 👋
 		
 		El sistema operativo de mac esta construido con unix, eso significa que no debería ser necesario que instalases nada extra para que puedas seguir el curso. Solo busca en tu mac la aplicacion “terminal” o “terminal de comandos”
 
-	* **jaguarjs** (4)
+	* **jaguarjs** [669491] (4)
 
-		
 		Otra cosa que puedes hacer es usar ubuntu como maquina virtual, en el curso de fundamentos de node js te enseña a hacerlo en los primeros videos.
 		
 		Suerte 😃
 
-	* **aimeenav** (2)
+	* **aimeenav** [669491] (2)
 
-		
 		Muchas gracias!
 
-	* **yeferson soto** (2)
+	* **yeferson soto** [669491] (2)
 
-		
 		puedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes, sin la necesidad de instalar nada ya que usar windows o otras herramientas es demasiado complicado si ya existe soluciones como esta
 
-* **Eduardo Antonio Rivero Rivera** (1)
+* **Eduardo Antonio Rivero Rivera** (1) [668921](https://platzi.com/comentario/668921/) 
 
-	
 	Cool, esta interesante esta función.
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [666032](https://platzi.com/comentario/666032/) 
 
-	
 	Urra! Para los que usamos Unix.
 
-* **liria-moreno-montanez** (1)
+* **liria-moreno-montanez** (1) [642626](https://platzi.com/comentario/642626/) 
 
-	
 	Excelente
 
-* **Carlos Nicolas Gonzalez Cabrera** (1)
+* **Carlos Nicolas Gonzalez Cabrera** (1) [624340](https://platzi.com/comentario/624340/) 
 
-	
 	No me deja activar la opcion “Windows Subsystem for Linux”, me dice que no se puede encontrar el ensamblador referido, codigo de error: 0x80073701
 	
 	alguien sabe como solucionar?
 
-	* **Carlos Nicolas Gonzalez Cabrera** (4)
+	* **Carlos Nicolas Gonzalez Cabrera** [624340] (4)
 
-		
 		ya pude solucionar!, faltaba actualizar window. lo dejo por si alguno le pasa lo mismo
 
-* **Jhan Carlos Celis Maldonado** (1)
+* **Jhan Carlos Celis Maldonado** (1) [616300](https://platzi.com/comentario/616300/) 
 
-	
 	Tengo un problema, lo que pasa es que ya seguí los pasos tal cual se describen aquí, pero al momento de abrir bahs este abre la terminal y se cierra automaticamente, ¿Alguien sabe que debo hacer?
 
-	* **Luis Rodrigo Alvarez Herrera** (1)
+	* **Luis Rodrigo Alvarez Herrera** [616300] (1)
 
-		
 		que numero de compilacion tienes de Windows??
 
-* **Vandersal Aheram Archila Chua** (1)
+* **Vandersal Aheram Archila Chua** (1) [611877](https://platzi.com/comentario/611877/) 
 
-	
 	No sabía esta alternativa en windows, es algo muy útil ^^
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [587562](https://platzi.com/comentario/587562/) 
 
-	
 	Ahí vamos, lentos pero seguro  
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-63440a70-bb48-4a10-966d-99efbf535391.jpg)
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [572796](https://platzi.com/comentario/572796/) 
 
-	
 	Hasta que parte del curso es necesaria Ubuntu Bash?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [572796] (1)
 
-		
 		Hola se usa a lo largo del curso.
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [572795](https://platzi.com/comentario/572795/) 
 
-	
 	Me puedo saltar todos estos videos, hasta que tenga W10, y si me salto hasta que video empezaria sin necesidad de tener Ubuntu Bash ?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [572795] (1)
 
-		
 		Lo que te recomiendo es que te montes una maquina virtual con ubuntu, con esto puedes llevar el curso sin problema.
 
-* **eberangel** (1)
+* **eberangel** (1) [569627](https://platzi.com/comentario/569627/) 
 
-	
 	Cuál es la diferencia entre usar bash e instalar ubuntu?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [569627] (1)
 
-		
 		para mi, que juego vidoejuegos me permite trabajar en ubuntu con toda la comodidad que eso me da, sin necesidad de hacer un doble boot que es un problemota!
 
-	* **William Andres Dussan Gonzalez** (1)
+	* **William Andres Dussan Gonzalez** [569627] (1)
 
-		
 		Hola, puedo usar git bash, o debo usar Ubuntu bash?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [569627] (1)
 
-		
 		Hay comandos que no están disponibles en git bash, mi recomendación si no puedes instalar ubuntu bash es que montes una maquina virtual usando Virtual Box.
 
-* **kenygg7** (1)
+* **kenygg7** (1) [569509](https://platzi.com/comentario/569509/) 
 
-	
 	Hola. Seguí con los pasos, pero al abrir bash se abre por un segundo y se cierra, incluso con permisos de admin. ¿Qué pasa?
 
-	* **Ricardo Exequiel De Angelis** (1)
+	* **Ricardo Exequiel De Angelis** [569509] (1)
 
-		
 		Tenes que reiniciar la pc.
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567424](https://platzi.com/comentario/567424/) 
 
-	
 	Uhmm
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [561869](https://platzi.com/comentario/561869/) 
 
-	
 	Ayuda, no logro instalar GCC alguien me puede ayudar?  
 	![atítulo.png](https://static.platzi.com/media/user_upload/at%C3%ADtulo-4111ecb6-5141-4585-aeb6-88aa96324139.jpg)
 
-	* **Gtiseira** (2)
+	* **Gtiseira** [561869] (2)
 
-		
 		Intente con $ apt-get update pero me sale esto  
 		![atítulo.png](https://static.platzi.com/media/user_upload/at%C3%ADtulo-2fd6226f-12c6-4c3c-b87e-bedde0fbd919.jpg)
 
-	* **Gtiseira** (3)
+	* **Gtiseira** [561869] (3)
 
-		
 		**Solucionado**  
 		Para el que le pase lo mismo hice lo siguiente:  
 		1- $ sudo apt-get update  
@@ -5066,173 +4340,148 @@ Yo mejor uso ubuntu 😀😀
 		3- $ sudo apt install gcc  
 		Y listo!
 
-* **rikichi-santiago** (1)
+* **rikichi-santiago** (1) [555372](https://platzi.com/comentario/555372/) 
 
-	
 	Profesor, soy nuevo en esto, ya seguí todos los pasos, estoy en Ubuntu escribí mi usuario y contraseña todo ok, pero en la siguiente clase veo que usted usa otro programa, si pudiera ayudarme.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [555372] (1)
 
-		
 		Holaaaaaa rikichi , me mandas un screenshot de tu programa plss cómo se ve
 
-* **andresfelipesanchez** (1)
+* **andresfelipesanchez** (1) [554434](https://platzi.com/comentario/554434/) 
 
-	
 	que ventajas o cual es la diferencia de instar ubuntu de esta forma a la de forma habitual?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [554434] (1)
 
-		
 		en mi caso trabajo mucho con videojuegos y es mejor tener Windows para eso, así que con esto en mente instalar solo el subsitema linux me permite hacer el desarrollo de software fácil como es en ubuntu sin necesidad de tener dos sistemas operativos!
 
-* **Octavio Parra Tovar** (1)
+* **Octavio Parra Tovar** (1) [542565](https://platzi.com/comentario/542565/) 
 
-	
 	Buen dia maestro Ricardo  
 	Tengo un problema , no puedo compilar con visual estudio code usando la terminal unbutu , ya instale gcc pero cuando meto el comando % gcc uddt.c -o uddt.exe me ice que no esta el archivo ![errorcompilar.png](https://static.platzi.com/media/user_upload/errorcompilar-d562bb98-5e51-46e5-a176-862e105c4b9c.jpg)
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [542565] (1)
 
-		
 		Intenta escribir el comando sin el caracter **%**
 		``` 
 		    gcc uddt.c -o uddt.exe
 		    
 		```
 
-	* **Angel Hernandez** (1)
+	* **Angel Hernandez** [542565] (1)
 
-		
 		Quizá en estas ocasiones es mejor usar directamente Ubuntu 😄
 
-	* **Paul Gualambo Giraldo** (1)
+	* **Paul Gualambo Giraldo** [542565] (1)
 
-		
 		Tengo el mismo problema, es la ruta de direccionamiento, como me dirigo al disco local D, ahi esta guardado el archivo .c
 
-* **Manuel Stefano Balcázar Abregú** (1)
+* **Manuel Stefano Balcázar Abregú** (1) [541362](https://platzi.com/comentario/541362/) 
 
-	
 	Al activar el modo desarrollador, ¿Puede traer problemas de seguridad en mi sistema o las demás aplicaciones, aparte de Ubuntu, puedan pasar a fase beta?
 
-* **YajairaDiaz** (1)
+* **YajairaDiaz** (1) [538155](https://platzi.com/comentario/538155/) 
 
-	
 	me aparece este error alguien me puede ayudar para poder avanzar? 😦
 	
 	![Untitled.png](https://static.platzi.com/media/user_upload/Untitled-81666476-5c6e-4ef9-82e3-6661ac6640fb.jpg)
 
-	* **ebar0n (Platzi)** (2)
+	* **ebar0n (Platzi)** [538155] (2)
 
-		
 		Hola, que extraño, tu version de windows es de 64 bits?
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [538155] (2)
 
-		
 		se me ocurre que pruebes ejecutando como administrador para probar!
 
-	* **agusminahk** (2)
+	* **agusminahk** [538155] (2)
 
-		
 		Yo te recomiendo que uses Cmder para windows
 
-* **eva1064flor** (1)
+* **eva1064flor** (1) [65994](https://platzi.com/comentario/701243/) 
 Tengo un gran problema colocando mi nombre de usuario...¿PUEDEN AYUDARME?
 
-	* **Enzo Díaz** (1)
+	* **Enzo Díaz** [65994] (1)
 
-		
 		Un nombre “unix”, entre uno y ocho caracteres, generalmente todo en minúsculas. Sin espacios, sin caracteres especiales.
 		
 		Es probable que pueda ser más largo de ocho, es probable que solo la primer letra del nombre deba estar en mayúsculas.  
 		Te recomiendo que pongas sólo `eva` o solo `flor`, así es más sencillo.
 
-* **carmen cecilia gomez galvis** (1)
+* **carmen cecilia gomez galvis** (1) [61425](https://platzi.com/comentario/621480/) 
 Se puede instalar en Windows 8.0?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [61425] (1)
 
-		
 		hola ceci, no se puede )=
 
-* **carmen cecilia gomez galvis** (1)
+* **carmen cecilia gomez galvis** (1) [61424](https://platzi.com/comentario/621476/) 
 Se puede instalar en Windows 8
 
-	* **osmandi (Platzi)** (1)
+	* **osmandi (Platzi)** [61424] (1)
 
-		
 		La implementación de WSL (Windows Subsystem for Linux) está diseñada par Windows 10. Otras opciones que te sugiero es _Git Bash_ o utilizar _Virtual Box_
 
-* **kenygg7** (1)
+* **kenygg7** (1) [57842](https://platzi.com/comentario/569509/) 
 Hola. Seguí con los pasos, pero al abrir bash se abre por un segundo y se cierra, incluso con permisos de admin. ¿Qué pasa?
 
-	* **Ricardo Exequiel De Angelis** (1)
+	* **Ricardo Exequiel De Angelis** [57842] (1)
 
-		
 		Tenes que reiniciar la pc.
 
-* **Octavio Parra Tovar** (1)
+* **Octavio Parra Tovar** (1) [55538](https://platzi.com/comentario/542565/) 
 Buen dia maestro Ricardo Tengo un problema , no puedo compilar con visual estudio code usando la terminal unbutu , ya instale gcc pero cu...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [55538] (1)
 
-		
 		Intenta escribir el comando sin el caracter **%**
 		``` 
 		    gcc uddt.c -o uddt.exe
 		    
 		```
 
-* **Manuel Stefano Balcázar Abregú** (1)
+* **Manuel Stefano Balcázar Abregú** (1) [55441](https://platzi.com/comentario/541362/) 
 Al activar el modo desarrollador, ¿Puede traer problemas de seguridad en mi sistema o las demás aplicaciones, aparte de Ubuntu, puedan pa...
 
-* **YajairaDiaz** (1)
+* **YajairaDiaz** (1) [55147](https://platzi.com/comentario/538155/) 
 me aparece este error alguien me puede ayudar para poder avanzar? 😦
 
-	* **ebar0n (Platzi)** (2)
+	* **ebar0n (Platzi)** [55147] (2)
 
-		
 		Hola, que extraño, tu version de windows es de 64 bits?
 
-* **Ricardo Asin** (1)
+* **Ricardo Asin** (1) [54673](https://platzi.com/comentario/532732/) 
 Se puede en windows 8.1??
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [54673] (1)
 
-		
 		Hola Ricardo! No se puede, pero si no mal recuerdo el upgrade a windows 10 desde windows 8 era gratuito =)
 
-* **Wegenner** (0)
+* **Wegenner** (0) [1075139](https://platzi.com/comentario/1075139/) 
 
-	
 	En mi caso me fue mas cómodo usar una maquina virtual que ya tenia con ubuntu.
 
-* **Henry Gutierrez Mora** (0)
+* **Henry Gutierrez Mora** (0) [865193](https://platzi.com/comentario/865193/) 
 
-	
 	Para IOS 10.15??
 
-	* **yeferson soto** (2)
+	* **yeferson soto** [865193] (2)
 
-		
 		puedes usar <https://repl.it> permite escribir código y ejecutarlos en C y otros lenguajes, sin la necesidad de instalar nada ya que usar windows o otras herramientas es demasiado complicado si ya existe soluciones como esta
 
-	* **Henry Gutierrez Mora** (1)
+	* **Henry Gutierrez Mora** [865193] (1)
 
-		
 		Interesante, muchas gracias
 
-* **andresfelipesanchez** (0)
+* **andresfelipesanchez** (0) [56580](https://platzi.com/comentario/554434/) 
 que ventajas o cual es la diferencia de instar ubuntu de esta forma a la de forma habitual?
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [56580] (1)
 
-		
 		en mi caso trabajo mucho con videojuegos y es mejor tener Windows para eso, así que con esto en mente instalar solo el subsitema linux me permite hacer el desarrollo de software fácil como es en ubuntu sin necesidad de tener dos sistemas operativos!
 
-## 0100. Creando nuestro user defined data type
+## 0100. Creando nuestro user defined data type [16939](https://platzi.com/clases/1469-algoritmos/16939-creando-nuestro-user-defined-data-type/)
 
 ### Descripción:
 
@@ -5249,59 +4498,49 @@ En esta clase aprenderemos a escribir una tipo de datos personalizada en C. No t
 
 ### Comentarios:
 
-* **Carlos Chavez** (8)
+* **Carlos Chavez** (8) [980477](https://platzi.com/comentario/980477/) 
 
-	
 	Los cursos que he intentado realizar con Ricardo, no los he podido llevar al final, pues siempre en el proceso , Ricardo va indicando nuevos conocimientos que se deben tener para realizar el curso.Mi recomendación es que en el vídeo inicial, indique cuales son los conocimientos que se requieren previamente para poder tener un nivel de comprensión por lo menos aceptable.  
 	Cuando la formación está dirigida a personas con unos conocimientos definidos, es distinta a la formación de personas que no poseen esas bases y en lo que he podido percibir de los cursos de Ricardo, es que siempre van dirigidos a personas conocedoras del tema, con lo cual su pedagogía no aplica para aquellos que ingresamos a Platzi, precisamente para conocer y aprender.
 
-	* **jhayro-guerrero** (1)
+	* **jhayro-guerrero** [980477] (1)
 
-		
 		Estoy de acuerdo contigo, me pasa igual cuando voy a tomar un curso debo tener conocimientos previos y segun el curso es base, la estructura de la carrera no esta bien definida y al final uno termina confundido sin saber por donde comenzar y para completar la secuencia de los cursos de la pagina web son totalmente diferentes a los de la app.
 
-	* **Francoo** (1)
+	* **Francoo** [980477] (1)
 
-		
 		Coincido totalmente. Alguien de Platzi tendria que leer este comentario
 
-	* **Ignacio Tagle** (1)
+	* **Ignacio Tagle** [980477] (1)
 
-		
 		Concuerdo, no entiendo nada
 
-* **sgomez2113** (4)
+* **sgomez2113** (4) [874246](https://platzi.com/comentario/874246/) 
 
-	
 	Hola, para quien no le funcione el terminar de Ubuntu, o tenga un error al compilar el programa, pueden usar <https://repl.it> permite escribir código en C y otros lenguajes, los compila y todo, sin la necesidad de instalar nada. 😎😎✌
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [874246] (2)
 
-		
 		Gracias la verdad apenas le estoy agarrando a Ubuntu
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [874246] (1)
 
-		
 		Hola como es esto que debe hacer es con un registro?
 
-* **Merlyn Rodriguez** (4)
+* **Merlyn Rodriguez** (4) [863256](https://platzi.com/comentario/863256/) 
 
-	
 	el curso de programacion basica, esta hecho en base a javascript, y es facil de comprender… por que no diseñaron los cursos para tener una misma didactica, para las personas que estan empezando de cero
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [863256] (1)
 
-		
 		La ventaja de JavaScript es que no necesitamos instalar nada, al menos al principio. Pero no dejes que las instalaciones te detengan. Una vez superas este obstáculo hay un mundo de posibilidades infinitas. El [curso de prework](https://platzi.com/clases/prework/) te puede ayudar. Y también hay herramientas como [repl.it](http://repl.it) que nos ayudar a probar un lenguaje de programación sin necesidad de instalar nada. 😉
 
-* **David Santiago González Ramos** (4)
+* **David Santiago González Ramos** (4) [850361](https://platzi.com/comentario/850361/) 
 
-	
 	Use JavaScript…  
 	![Captura de pantalla \(92\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2892%29-e26f10bf-9982-417a-8e22-8d0556439388.jpg)
 
-	* **José Manuel Cornelio** (3)
+	* **José Manuel Cornelio** [850361] (3)
 
 		```
 		    console.table()
@@ -5310,47 +4549,39 @@ En esta clase aprenderemos a escribir una tipo de datos personalizada en C. No t
 		
 		Esta línea me acaba de cambiar la vida… no se como pude vivir tanto tiempo sin conocer esta función. Te mando mil likes.
 
-	* **David Santiago González Ramos** (2)
+	* **David Santiago González Ramos** [850361] (2)
 
-		
 		Jajaja a mi tambn me la cambió cuando supe de su existencia @cornelioweb !! Es super útil!
 
-* **Henry Sanchez** (3)
+* **Henry Sanchez** (3) [983115](https://platzi.com/comentario/983115/) 
 
-	
 	Yo instale <https://code.visualstudio.com/> para windows y el compilador GCC <http://www.mingw.org/> tanto la compilación como el ejecutable me funcionó, tengo window 7
 
-* **Francoo** (3)
+* **Francoo** (3) [982897](https://platzi.com/comentario/982897/) 
 
-	
 	Para todos aquellos que no puedieron instalar linux bash, usen <https://repl.it/languages/c> que tiene el compliador en linea y se ahorran todos los problemas
 
-* **Francoo** (3)
+* **Francoo** (3) [982895](https://platzi.com/comentario/982895/) 
 
-	
 	Me quedo con python o javascript toda la vida
 
-* **Julio Cesar Cuevas Cardenas** (3)
+* **Julio Cesar Cuevas Cardenas** (3) [977544](https://platzi.com/comentario/977544/) 
 
-	
 	Antes de querer seguir tus pasos como lo haces en la ejecucion del mismo es muy probable que halla tenido que ver otros cursos adicionales ya que aunque segui al pie de la letra lo que hiciste tuve bastantes errores y no tuve como solucionarlos , aun asi genial porque esto me motiva a investigar mas y pues ver los cursos que sean necesarios para que llegue el momento en que diga ahhhhhh ya se ese error porque es
 
-* **Juan Camilo García Mesa** (3)
+* **Juan Camilo García Mesa** (3) [919727](https://platzi.com/comentario/919727/) 
 Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcionamiento de windows?
 
-	* **Nicolas Castañeda** (4)
+	* **Nicolas Castañeda** [919727] (4)
 
-		
 		No, justamente por eso ya microsoft lo permite para evitar que se generen incompatibilidades en el sistema lo unico que debes tener cuidado es al usar los comandos sudo en el bash para modificar archivos con tu disco c montado ya que podrias borrar o modificar algun archivo importante. En el curso de prework de la escuela de javascript te dan un tutorial para la instalacion de todo.
 
-	* **Juan Camilo García Mesa** (2)
+	* **Juan Camilo García Mesa** [919727] (2)
 
-		
 		Gracias
 
-* **Hector Franco Torres Manzano** (3)
+* **Hector Franco Torres Manzano** (3) [883682](https://platzi.com/comentario/883682/) 
 
-	
 	Mi solución en Python:
 	``` 
 	    classStudent:
@@ -5369,9 +4600,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Efraín Hernández García** (3)
+* **Efraín Hernández García** (3) [877017](https://platzi.com/comentario/877017/) 
 
-	
 	**ME GUSTÓ MUCHO ESTE EJERCICIO EN C ASI QUE HICE UNO SIMILAR**
 	``` 
 	    #include"stdlib.h"
@@ -5418,9 +4648,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **EPadronU23** (3)
+* **EPadronU23** (3) [865938](https://platzi.com/comentario/865938/) 
 
-	
 	En kotlin:
 	``` 
 	    data classClient(val name: String, val id: String, val credit: Float, val address: String)
@@ -5432,43 +4661,36 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Merlyn Rodriguez** (3)
+* **Merlyn Rodriguez** (3) [863251](https://platzi.com/comentario/863251/) 
 
-	
 	estoy empesando y solo se usar windows… y ya sales con ubuntu y bash shell ? ??? WTF
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [863251] (1)
 
-		
 		Windows no es un lugar muy “genial” que digamos para programar, por eso recomendamos trabajar con Linux.
 		
 		La instalación y configuración de las herramientas necesarias para programar casi siempre es un dolor de cabeza. No es un error de este curso. En el **curso de prework** tratamos de dejar todo lo más listo posible para que la mayoría de cursos no debamos preocuparnos más por estos requisitos. Te recomiendo que lo tomes y hagas las preguntas que necesites, la comunidad y el Team Platzi solo quieres ayudarte. 😃
 		
 		👉 <https://platzi.com/clases/prework/>
 
-* **Merlyn Rodriguez** (3)
+* **Merlyn Rodriguez** (3) [863247](https://platzi.com/comentario/863247/) 
 
-	
 	y ya metes temas como librerias en C??? wtf, que es eso ? no empesarias por explicar que es una libreria???
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [863247] (2)
 
-		
 		te recomiendo que antes tomes nuestros cursos previos en la ruta de Fundamentos de programación, es muy importante =)
 
-	* **Merlyn Rodriguez** (1)
+	* **Merlyn Rodriguez** [863247] (1)
 
-		
 		![](![ruta.png](https://static.platzi.com/media/user_upload/ruta-30048b98-1748-4880-8ff9-c12ceedf9279.jpg)
 
-	* **Merlyn Rodriguez** (1)
+	* **Merlyn Rodriguez** [863247] (1)
 
-		
 		estoy siguiendo la ruta de aprendizaje de Fundamentos de programacion y su curso es el ultimo de la parte basica, en ninguno de los anteriores mensionaron nada sobre eso, y el curso de programacion estructurada esta en el lado intermedio… es un error, que salgan en ese orden ?? o lo diseñaron asi ??
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [863247] (1)
 
-		
 		 **¿Quieres aprender paso a paso a programar en C?**
 		
 		Toma este curso: <https://platzi.com/clases/lenguaje-c/>.
@@ -5477,9 +4699,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 		
 		Toma esta clase: <https://www.youtube.com/watch?v=yC6wR3szGz8>.
 
-* **eduardo-zepeda** (2)
+* **eduardo-zepeda** (2) [1093908](https://platzi.com/comentario/1093908/) 
 
-	
 	En Python
 	``` 
 	    classuser_data:
@@ -5500,20 +4721,17 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Edwin Stiven Hernández Camacho** (2)
+* **Edwin Stiven Hernández Camacho** (2) [1089583](https://platzi.com/comentario/1089583/) 
 
-	
 	JavaScript  
 	![User_Defined_Data_Type.PNG](https://static.platzi.com/media/user_upload/User_Defined_Data_Type-7cd76e7b-a5dd-471b-9e73-7ff3de02af9f.jpg)
 
-* **Oscar Pallares** (2)
+* **Oscar Pallares** (2) [1065585](https://platzi.com/comentario/1065585/) 
 
-	
 	Código en Swift:![Captura de Pantalla 2020-03-25 a la\(s\) 19.55.15.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-03-25%20a%20la%28s%29%2019.55.15-50ebd303-25a7-42ec-bde8-93765b92d0af.jpg)
 
-* **strickers** (2)
+* **strickers** (2) [1051220](https://platzi.com/comentario/1051220/) 
 
-	
 	JavaScript
 	``` 
 	    classclient{
@@ -5532,9 +4750,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Ignacio Saccomano** (2)
+* **Ignacio Saccomano** (2) [1037981](https://platzi.com/comentario/1037981/) 
 
-	
 	Si alguien tiene algun error con la insalacion ejecuten estos comandos antes de reintentar:
 	
 	-sudo apt-get update
@@ -5543,14 +4760,12 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	
 	-sudo apt-get upgrade
 
-	* **RichardCG** (1)
+	* **RichardCG** [1037981] (1)
 
-		
 		Gracias! Ubuntu no me reconocía el gcc (cmd sí lo hacía) con esos comandos me dejó instalar gcc desde la terminal de Ubuntu 😄
 
-* **Mateo Gonzales Navarrete** (2)
+* **Mateo Gonzales Navarrete** (2) [1037574](https://platzi.com/comentario/1037574/) 
 
-	
 	Codigo en C++:
 	``` 
 	    #include<iostream>
@@ -5583,125 +4798,108 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **uncristianr** (2)
+* **uncristianr** (2) [1023772](https://platzi.com/comentario/1023772/) 
 
-	
 	Hola a todos, comparto mi solución del ejercicio en python 3
 	
 	![Captura de pantalla de 2020-03-07 12-15-25.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-07%2012-15-25-55f0decc-02eb-4d4c-ab55-87cc6237dff2.jpg)
 
-* **Adriana Lucia Ardila Ramirez** (2)
+* **Adriana Lucia Ardila Ramirez** (2) [1001822](https://platzi.com/comentario/1001822/) 
 
-	
 	Pude resolver mi problema, gracias a un comentario de un usuario, más abajo.  
 	![4errores.JPG](https://static.platzi.com/media/user_upload/4errores-6ba23f76-beb3-41a4-a453-1229ebec0156.jpg)
 
-* **Adriana Lucia Ardila Ramirez** (2)
+* **Adriana Lucia Ardila Ramirez** (2) [1001754](https://platzi.com/comentario/1001754/) 
 
-	
 	No me reconoce la libreria, alguien podría ayudarme con eso? por fa 😮  
 	![4errores.JPG](https://static.platzi.com/media/user_upload/4errores-8387a2c3-e351-4caa-9f0c-e93fc212662f.jpg)
 
-	* **zalotesta** (2)
+	* **zalotesta** [1001754] (2)
 
-		
 		En principio veo una diferencia en la línea 2, en vez de “studio.h” debería decir “stdio.h” sin la “u”. No se si eso resuelve algo!
 
-	* **zalotesta** (3)
+	* **zalotesta** [1001754] (3)
 
-		
 		Veo que ya lo resolviste más abajo! 😃
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [1001754] (1)
 
-		
 		Alguien ya lo soluciono? Me pasa lo mismo y las tengo correctamente escritas, me podrían ayudar? Mil gracias!
 
-	* **Johan52752** (2)
+	* **Johan52752** [1001754] (2)
 
-		
 		Tengo el mismo problema, alguien me podria ayudar?
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [1001754] (1)
 
-		
 		Yo lo solucione descargando gcc, te dejo el link para que pruebes.  
 		<https://platzi.com/tutoriales/1189-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>
 
-* **juan jose pelaez hernandez** (2)
-![uddt_javascript.png](https://static.platzi.com/media/user_upload/uddt_javascript-0a4b5695-7f1e-4916-a4e3-86a45e554cf0.jpg)
-
-* **andresdariorodriguezdacuara** (2)
-
+* **juan jose pelaez hernandez** (2) [1001598](https://platzi.com/comentario/1001598/) 
 	
+	![uddt_javascript.png](https://static.platzi.com/media/user_upload/uddt_javascript-0a4b5695-7f1e-4916-a4e3-86a45e554cf0.jpg)
+
+* **andresdariorodriguezdacuara** (2) [989329](https://platzi.com/comentario/989329/) 
+
 	Platzi debe vincular este link por que mas de uno nos perdemos nunca dicen que hay que instalar el gcc y g++ para poder trabajar en C desde linux <https://platzi.com/tutoriales/1189-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/> por favor sean claros ya que no muchos saben buscar la info ademas no dicen nada de esto en el video
 
-	* **Carlos Alejandro González Benitez** (2)
+	* **Carlos Alejandro González Benitez** [989329] (2)
 
-		
 		Gracias!!!
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [989329] (1)
 
-		
 		Gracias!! me funciono 😃
 
-* **Jose Alberto Ramírez Quiroz** (2)
-![ayuda.png](https://static.platzi.com/media/user_upload/ayuda-04c40c39-4b83-480c-83be-c4abbb4cd284.jpg)
+* **Jose Alberto Ramírez Quiroz** (2) [976661](https://platzi.com/comentario/976661/) 
+	
+	![ayuda.png](https://static.platzi.com/media/user_upload/ayuda-04c40c39-4b83-480c-83be-c4abbb4cd284.jpg)
 	
 	Si estan en **Ubuntu y tienen VisualStudioCode** tambien pueden usar la terminal para compilar esto **para efectos mas practicos…**
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [976661] (1)
 
-		
 		Con lo que vemos en el [Curso de Prework](https://platzi.com/clases/prework/) aprendemos a hacer esto mismo en Windows 😄
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [960419](https://platzi.com/comentario/960419/) 
 
-	
 	Buenas tardes, alguien me puede colaborar con esto, es que me sale este error. Gracias.
 	
 	![4499b65b-494a-4491-97b4-538ed1cbc2de.jpg](https://static.platzi.com/media/user_upload/4499b65b-494a-4491-97b4-538ed1cbc2de-d7faea27-0807-4d56-9a0e-8750b2daf4bc.jpg)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [960419] (2)
 
-		
 		Te da error al compilar? en la captura aparece es que el editor no esta encontrando las librerías, no necesariamente es en error, cuando pones el curso sobre el bombillo que mensaje sale?
 
-	* **Adriana del Pilar Martinez Bautista** (1)
+	* **Adriana del Pilar Martinez Bautista** [960419] (1)
 
-		
 		Me sale este error.  
 		Y bueno en cualquier programa que intente poner el #include me aparece así subrayado.  
 		![error.png](https://static.platzi.com/media/user_upload/error-e6d52102-7ac1-49bc-a456-730d25976516.jpg)
 		
 		Gracias por tu ayuda.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [960419] (2)
 
-		
 		Prueba a instalar los paquetes para visual studio code <https://code.visualstudio.com/docs/languages/cpp> creo que el problema es que no esta configurado correctamente visual studio code para encontrar tu instalación de C
 
-	* **BotDrako** (3)
+	* **BotDrako** [960419] (3)
 
-		
 		yo yo… me paso lo mismo, lo que pasa es que para que compile en win, debes de hacer otras instalaciones, pero al hacerlas me da un error. entonces no te digo que lo intentes, tal ves te salgan mas errores.  
 		Ahora lo que toca hacer es instalar el ubuntu como esta en los pasos anteriores, si no mira este video que te explica mas facil.  
 		<https://platzi.com/clases/1650-prework/22995-instalacion-de-ubuntu-bash-en-windows/>  
 		Bueno despues de instalado todo, y que creas el usuario y la contraseña. Entras a ubuntu y desde esa consola ejecutas el code . (code espacio y pones un punto). hay te abre el studio code y ya no veras ese error.  
 		creo que es por que ejecutas visual studio code desde ubuntu y no desde win.
 
-	* **Adriana del Pilar Martinez Bautista** (2)
+	* **Adriana del Pilar Martinez Bautista** [960419] (2)
 
-		
 		Muchas gracias BotDrakoo y gollum23, además de todo lo que me dijeron, hice una revisión de las actualizaciones de mi S.O. y ya me funciona muy bien, mil gracias.
 
-	* **Adriana Lucia Ardila Ramirez** (2)
+	* **Adriana Lucia Ardila Ramirez** [960419] (2)
 
-		
 		BotDrako, muchas gracias a tu tip, me habia pasado lo mismo y pude solucionar
 
-* **marco-tamayo-flores** (2)
+* **marco-tamayo-flores** (2) [951892](https://platzi.com/comentario/951892/) 
 
 	```
 	    classPerro:
@@ -5732,9 +4930,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **vrgrajeda** (2)
+* **vrgrajeda** (2) [940709](https://platzi.com/comentario/940709/) 
 
-	
 	Alguna clase de consultoría medica
 	``` 
 	    #include"stdlib.h"
@@ -5762,9 +4959,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Nicolas Castañeda** (2)
+* **Nicolas Castañeda** (2) [933193](https://platzi.com/comentario/933193/) 
 
-	
 	Este es mi reto
 	``` 
 	    <code>
@@ -5804,22 +5000,19 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	
 	Gracias
 
-	* **Martín Roldán** (3)
+	* **Martín Roldán** [933193] (3)
 
-		
 		Hola, como pudiste hacer que las librerias funcionen? Porque en mi caso me marcan error y no encuentro manera de arreglarlo
 
-	* **Nicolas Castañeda** (2)
+	* **Nicolas Castañeda** [933193] (2)
 
-		
 		Hola martin,  
 		primero asegurate de que el archivo al momento de guardarlo le hayas puesto la extencion **.c** para que de esta manera vscode lo reconozca como un archivo en c y si esto ya lo tienes asegurate de tener el complemento de c/c++ en el vscode y tambien te puede ser util el code runner para correr el codigo desde el IDE,
 		
 		espero te sea de ayuda
 
-* **tekan** (2)
+* **tekan** (2) [920110](https://platzi.com/comentario/920110/) 
 
-	
 	Para perros.
 	``` 
 	    #include<stdio.h>
@@ -5858,9 +5051,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Isaac Alejandro Requena Alamo** (2)
+* **Isaac Alejandro Requena Alamo** (2) [907973](https://platzi.com/comentario/907973/) 
 
-	
 	Muy parecido, como no se colocar una imagen o no se si mi pc me lo permite. te colocare el codigo (es igualito al suyo)  
 	#include “stdlib.h”  
 	#include “stdio.h”  
@@ -5893,9 +5085,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	
 	}
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [907973] (1)
 
-		
 		¡Hola! Para colocar imágenes en el editor de Platzi hay dos formas:
 		
 		1️⃣ Abre el editor de comentarios y arrastra tu imagen desde el pc hasta el editor.
@@ -5904,12 +5095,11 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 		
 		También puedes usar <https://carbon.now.sh/>. 😉
 
-	* **Ana2018** (1)
+	* **Ana2018** [907973] (1)
 
-		
 		Leyendo tu código,logre resolver un error que tenia 😉
 
-* **AITeam** (2)
+* **AITeam** (2) [904799](https://platzi.com/comentario/904799/) 
 
 	```
 	    classClient():
@@ -5937,9 +5127,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (2)
+* **Steve Anthony Luzquiños Agama** (2) [881218](https://platzi.com/comentario/881218/) 
 
-	
 	En JS:
 	``` 
 	    classClient{
@@ -5964,9 +5153,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (2)
+* **Steve Anthony Luzquiños Agama** (2) [881216](https://platzi.com/comentario/881216/) 
 
-	
 	En Python:
 	``` 
 	    classClient:
@@ -5988,9 +5176,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Daniel Mauricio Ramírez Castaño** (2)
+* **Daniel Mauricio Ramírez Castaño** (2) [880872](https://platzi.com/comentario/880872/) 
 
-	
 	Using code equivalent in java:
 	``` 
 	    publicclass uddt{
@@ -6024,9 +5211,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Edwin Pirir** (2)
+* **Edwin Pirir** (2) [876990](https://platzi.com/comentario/876990/) 
 
-	
 	#include <iostream>  
 	#include <conio.h>  
 	#include <stdlib.h>  
@@ -6056,30 +5242,26 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	
 	}
 
-* **Efraín Hernández García** (2)
+* **Efraín Hernández García** (2) [876973](https://platzi.com/comentario/876973/) 
 
-	
 	Como puedo usar la terminal de **Ubuntu** para compilar mi codigo?  
 	Lo tuve que compilar en otro pero me quede con esa duda. Aqui lo explica muy rapido y muy difuso
 
-	* **Trebilcode** (3)
+	* **Trebilcode** [876973] (3)
 
-		
 		Hice un tutorial para que puedas instalar gcc y compilar tú código; míralo en la sección de tutoriales.
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [876973] (1)
 
-		
 		Mil gracias lo checo
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [876973] (1)
 
-		
 		¿Tienes algún error? ¿Puedes darnos más detalles sobre tu problema para ayudarte a encontrar una solución?
 		
 		Definitivamente se puede trabajar para que puedas correrlo desde tu computadora. Pero puedes usar [repl.it](http://repl.it) si te está tomando mucho tiempo o prefieres dejar esta reparación para después.
 
-* **Efraín Hernández García** (2)
+* **Efraín Hernández García** (2) [876947](https://platzi.com/comentario/876947/) 
 
 	```
 	    #include"stdlib.h"
@@ -6112,9 +5294,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **richie** (2)
+* **richie** (2) [870309](https://platzi.com/comentario/870309/) 
 
-	
 	Les comparto los especificadores de formato, en caso de que les haya quedado la duda de porque uso %s en el printf
 	
 	%d o %i: Especifican un entero con signo.  
@@ -6128,9 +5309,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	%% : Muestra un literal de porcentaje.  
 	%f : Imprime un float o double.
 
-* **Carlos Santaniello** (2)
+* **Carlos Santaniello** (2) [867161](https://platzi.com/comentario/867161/) 
 
-	
 	#include “stdlib.h”  
 	#include “stdio.h”  
 	#include “string.h”
@@ -6158,27 +5338,24 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	return 0;  
 	}
 
-* **camilogt121** (2)
+* **camilogt121** (2) [860714](https://platzi.com/comentario/860714/) 
 
-	
 	¿Que es una librería?
 
-	* **fernandajofili (Platzi)** (4)
+	* **fernandajofili (Platzi)** [860714] (4)
 
-		
 		Hola Camilo. Son un conjunto de funciones preescrito por otros programadores que ya resuelven ciertos problemas para que no tienes que escribir estos códigos.
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [860714] (1)
 
-		
 		Esta clase te puede ayudar: <https://www.youtube.com/watch?v=yC6wR3szGz8>. 😉
 
-* **AndresGrandas** (2)
-![codigo.PNG](https://static.platzi.com/media/user_upload/codigo-62c3af37-bd69-441c-8922-4035ca562b34.jpg)
-
-* **Antonio Rafael González Ferrer** (2)
-
+* **AndresGrandas** (2) [855656](https://platzi.com/comentario/855656/) 
 	
+	![codigo.PNG](https://static.platzi.com/media/user_upload/codigo-62c3af37-bd69-441c-8922-4035ca562b34.jpg)
+
+* **Antonio Rafael González Ferrer** (2) [850397](https://platzi.com/comentario/850397/) 
+
 	En C:
 	``` 
 	    #include"stdlib.h"
@@ -6213,9 +5390,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Anthony Guzman Lopez** (2)
+* **Anthony Guzman Lopez** (2) [846148](https://platzi.com/comentario/846148/) 
 
-	
 	En Python
 	``` 
 	    <
@@ -6244,9 +5420,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Raúl Armas** (2)
+* **Raúl Armas** (2) [842791](https://platzi.com/comentario/842791/) 
 
-	
 	**JAVA**
 	``` 
 	    import java.util.Scanner;
@@ -6280,9 +5455,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **freddymm** (2)
+* **freddymm** (2) [837843](https://platzi.com/comentario/837843/) 
 
-	
 	**Reto en C++**
 	``` 
 	    #include<iostream>
@@ -6330,7 +5504,7 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Mikeb91** (1)
+* **Mikeb91** (1) [1107920](https://platzi.com/comentario/1107920/) 
 
 	```
 	    publicclass Uddt_def {
@@ -6406,16 +5580,16 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **JCaicedo** (1)
+* **JCaicedo** (1) [1104419](https://platzi.com/comentario/1104419/) 
 
-	
 	Catálogo de fruta… practica con C  
 	![retoC.png](https://static.platzi.com/media/user_upload/retoC-7abc31fc-31fa-4a67-8b18-a9bbe042d7c1.jpg)
 
-* **Sergio Alejandro Alvarado Parada** (1)
-![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-fbc31c5c-41d3-4c3e-b0e4-5e1ce09a8ba5.jpg)
+* **Sergio Alejandro Alvarado Parada** (1) [1099046](https://platzi.com/comentario/1099046/) 
+	
+	![Reto1.PNG](https://static.platzi.com/media/user_upload/Reto1-fbc31c5c-41d3-4c3e-b0e4-5e1ce09a8ba5.jpg)
 
-* **Jorge Hernández** (1)
+* **Jorge Hernández** (1) [1097783](https://platzi.com/comentario/1097783/) 
 
 	```
 	    #include"stdlib.h"
@@ -6452,7 +5626,7 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Lucas Barisonzi** (1)
+* **Lucas Barisonzi** (1) [1089429](https://platzi.com/comentario/1089429/) 
 
 	```
 	    classClient{
@@ -6480,16 +5654,14 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **davidandreszapataflorez** (1)
+* **davidandreszapataflorez** (1) [1087903](https://platzi.com/comentario/1087903/) 
 
-	
 	Python
 	
 	![Captura de pantalla 2020-04-01 a la\(s\) 9.53.40 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-04-01%20a%20la%28s%29%209.53.40%20p.%20m.-defa5ba6-f4be-491b-b41f-9bd66d1b10c0.jpg)
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1086373](https://platzi.com/comentario/1086373/) 
 
-	
 	Decidí hacerlo en Java, no sé si una clase objeto sería el equivalente a las UDDT.
 	``` 
 	    publicclass UDDT
@@ -6532,9 +5704,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **andresazuara98** (1)
+* **andresazuara98** (1) [1084515](https://platzi.com/comentario/1084515/) 
 
-	
 	I’ve made the same solution but a little different code, let me show you
 	``` 
 	    typedefstruct{
@@ -6549,12 +5720,11 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Miguel Angel** (1)
+* **Miguel Angel** (1) [1078050](https://platzi.com/comentario/1078050/) 
 
-	
 	Me tuve que ir a mi maquina virtual porque en windows no me deja
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [1054714](https://platzi.com/comentario/1054714/) 
 
 	```
 	    <!DOCTYPE html>
@@ -6583,19 +5753,16 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Cristian Gómez** (1)
+* **Cristian Gómez** (1) [1042495](https://platzi.com/comentario/1042495/) 
 
-	
 	Tengo mac, temirnal zsh, me compila bien el código pero al ejecutarlo no me funciona con la extensión exe, lo intenté sin extension y tampoco
 
-	* **CristianSCh** (1)
+	* **CristianSCh** [1042495] (1)
 
-		
 		para ejecutar un archivo le tienes que dar el permiso +X
 
-* **Eduardo Aguilar Escalante** (1)
+* **Eduardo Aguilar Escalante** (1) [1032561](https://platzi.com/comentario/1032561/) 
 
-	
 	JS:
 	``` 
 	    classClient{
@@ -6616,26 +5783,22 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1024404](https://platzi.com/comentario/1024404/) 
 
-	
 	Intente de todas las maneras posibles colocar el salto de linea en varias partes, actualice el código, actualice la carpeta, actualice el cmd de ubuntu pero nada me funciono para que me saliera el salto de linea, al final el código lo deje sin saltos de linea.
 	
 	![consolaPrimerCod.PNG](https://static.platzi.com/media/user_upload/consolaPrimerCod-58a1081e-d4fa-4377-937c-a337c264c7f1.jpg) ![primerCod.PNG](https://static.platzi.com/media/user_upload/primerCod-1565cb57-0a7f-47d2-92ed-9ab1ac5732c4.jpg)
 
-	* **Nelson Matos** (3)
+	* **Nelson Matos** [1024404] (3)
 
-		
 		Hola Paola. En el código que pasaste no se aprecian los saltos de linea. Pero viendo lo que se imprime en pantalla puedo asumir que los saltos de linea están mal colocados ya que en la impresión aparecen /n la manera de colocar los saltos es con la barra invertida \n. Espero te sirva.
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [1024404] (1)
 
-		
 		Hola como estas Nmatos, gracias por tu comentario, pero como mencione anteriormente, el salto de linea lo coloque en varias partes posibles y no realiza el salto de linea, y finalmente lo quite del código, realmente no se si hay mucha diferencia entre estos dos (/n y \n), pues en el código lo coloque de esta manera (/n), puede haber sido ese el error. Saludos y gracias por tu comentario.
 
-* **darth-revan** (1)
+* **darth-revan** (1) [1013389](https://platzi.com/comentario/1013389/) 
 
-	
 	 **User Defined Data Type** con JavaScript 😄
 	``` 
 	    classClient {
@@ -6657,9 +5820,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **alexabellerman** (1)
+* **alexabellerman** (1) [1010006](https://platzi.com/comentario/1010006/) 
 
-	
 	En Javascript:
 	``` 
 	    functionClient(name, id, credit, address) {
@@ -6675,12 +5837,11 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-	* **uncristianr** (1)
+	* **uncristianr** [1010006] (1)
 
-		
 		te faltó declarar los tipos
 
-* **ignacioequiroga** (1)
+* **ignacioequiroga** (1) [1008247](https://platzi.com/comentario/1008247/) 
 
 	```
 	    using System;
@@ -6715,7 +5876,7 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1004183](https://platzi.com/comentario/1004183/) 
 
 	```
 	    #include<stdio.h>
@@ -6765,13 +5926,12 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Adriana Lucia Ardila Ramirez** (1)
+* **Adriana Lucia Ardila Ramirez** (1) [1002002](https://platzi.com/comentario/1002002/) 
 
-	
 	¿Alguien me explica qué puedo hacer? por fa. Esque ya he repetido tres veces ese código que anuncia de “sudo apt install gcc” me sale todo lo de arriba, pero cuando ejecuto la linea de codigo del profe, me sale, de nuevo error y que instale eso.  
 	![4errores.JPG](https://static.platzi.com/media/user_upload/4errores-00e5a379-b5db-47a1-8cbf-7a54f89cc499.jpg)
 
-* **Carlos José González Juan** (1)
+* **Carlos José González Juan** (1) [1000858](https://platzi.com/comentario/1000858/) 
 
 	```
 	    classcliente{
@@ -6804,50 +5964,43 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **CarlosMoreno** (1)
+* **CarlosMoreno** (1) [1000631](https://platzi.com/comentario/1000631/) 
 
-	
 	Ricardo como puedo enviar imagenes al foro, intente enviar el codigo del ejercicio pero me pide una url y no carga archivos de imagenes.
 	```
 	```
 	
 
-	* **Carlos José González Juan** (2)
+	* **Carlos José González Juan** [1000631] (2)
 
-		
 		Solo copia y pega la imagen. Asi es como lo hago yo
 
-	* **juan jose pelaez hernandez** (1)
+	* **juan jose pelaez hernandez** [1000631] (1)
 
-		
 		También puedes solo arrastrarla 😉
 
-* **MizaelpVielma** (1)
+* **MizaelpVielma** (1) [995413](https://platzi.com/comentario/995413/) 
 
-	
 	Here two different ways with Javascript![carbon.png](https://static.platzi.com/media/user_upload/carbon-306a133c-edee-42a7-a628-f1d49f22b664.jpg)
 
-* **Richard Acosta** (1)
+* **Richard Acosta** (1) [985492](https://platzi.com/comentario/985492/) 
 
-	
 	Lo logre después de varios intentos y correcciones!!!
 	
 	![uddt exe.jpg](https://static.platzi.com/media/user_upload/uddt%20exe-a5bd46ab-d7fc-4ab1-9a99-658491ada214.jpg)
 
-* **Nicolás Pérez** (1)
+* **Nicolás Pérez** (1) [984473](https://platzi.com/comentario/984473/) 
 
-	
 	Visual Studio Code tiene soporte para trabajar directamente en WSL  
 	(Windows Subsystem for Linux). Dejo el link con el tutorial para configurar y compilar directamente desde Visual Studio Code.
 	
 	[https://code.visualstudio.com/docs/cpp/config-wsl](url)
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [984473] (2)
 
-		
 		En el [Curso de Prework](https://platzi.com/clases/prework/) aprendemos a configurar esto 😄
 
-* **Francoo** (1)
+* **Francoo** (1) [982903](https://platzi.com/comentario/982903/) 
 
 	```
 	    classproduct_details{
@@ -6866,12 +6019,11 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Christian Sanclemente** (1)
+* **Christian Sanclemente** (1) [980260](https://platzi.com/comentario/980260/) 
 
-	
 	Me interesa aprender python, y de hecho estoy tomando ese curso, aun así sentí que debía reforzar algunas bases. Será necesario aprender esto también? puede que me confunda al ver otros lenguajes?
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [974897](https://platzi.com/comentario/974897/) 
 
 	```
 	    #include"stdlib.h"
@@ -6905,49 +6057,43 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
-![Project — C__Users_Ricardo Rojas_Documents_Platzi — Atom 6_02_2020 11_42_28 p. m..png](https://static.platzi.com/media/user_upload/Project%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%206_02_2020%2011_42_28%20p.%20m.-52c06b52-c5ec-4474-9725-1f86fd3ae159.jpg)
-
-* **wilmaryoanmalavermalaver** (1)
-
+* **Ricardo Andres Rojas Alonso** (1) [971506](https://platzi.com/comentario/971506/) 
 	
+	![Project — C__Users_Ricardo Rojas_Documents_Platzi — Atom 6_02_2020 11_42_28 p. m..png](https://static.platzi.com/media/user_upload/Project%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%206_02_2020%2011_42_28%20p.%20m.-52c06b52-c5ec-4474-9725-1f86fd3ae159.jpg)
+
+* **wilmaryoanmalavermalaver** (1) [971094](https://platzi.com/comentario/971094/) 
+
 	Reto completado. a seguir aprendiendo
 	
 	![](![Captura de pantalla 2020-02-06 20.29.43.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-06%2020.29.43-35135f29-610c-4796-a2d2-ba0039b7f3fe.jpg)
 
-	* **Edilson Laura Mercado** (1)
+	* **Edilson Laura Mercado** [971094] (1)
 
-		
 		¿Cómo agregaste tu directorio a tu terminal de Ubuntu?  
 		Tengo problemas con eso, agradecería tu ayuda
 
-	* **wilmaryoanmalavermalaver** (1)
+	* **wilmaryoanmalavermalaver** [971094] (1)
 
-		
 		edilson-laura-mercado bien, pues es solo comandos de linux a mi por defecto me envia esta ruta yoanm@DESKTOP-MIL4CL5:/mnt/c/WINDOWS/system32$ lo que hago acontinuacion es devolverme hasta c con el comando cd …/ …/ y ya lo normal buscar la ruta donde tienes los archivos con cd User/ ahsta llegar al archivo y ejecutarlo.
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [969881](https://platzi.com/comentario/969881/) 
 
-	
 	Reto c:  
 	![Reto.png](https://static.platzi.com/media/user_upload/Reto-eeb6d620-f073-4bdf-ad41-f462465d96fd.jpg)
 
-* **katherine Johana Pinilla Rodriguez** (1)
+* **katherine Johana Pinilla Rodriguez** (1) [968169](https://platzi.com/comentario/968169/) 
 
-	
 	se puede seguir usando el programa de Atom para editar el código de c++ o es necesario descargar el visual studio code? .  
 	En mi caso no pude descargar e bash de ubuntu desde la tienda microsoft, me sale un error y se cierra la app de ubuntu. pero lo soluciones descargando el ubuntu 18.04 en virtual box y me funciona bn. Pero tengo la duda anterior de el programa para el código. Agradezco ayuda.
 
-* **Ronal Roberto Choque Copa** (1)
+* **Ronal Roberto Choque Copa** (1) [967711](https://platzi.com/comentario/967711/) 
 
-	
 	instale el bash de ubuntu en windows 10, de ahi realize el ejercicio, al conocer el lenguaje c, lo utilizare para el ejercicio/desafio
 	
 	![udtt.png](https://static.platzi.com/media/user_upload/udtt-5d1c312c-6eb0-42f0-928c-4aebafa2fc8b.jpg)
 
-* **Jose Oscar Rosas Perez** (1)
+* **Jose Oscar Rosas Perez** (1) [967179](https://platzi.com/comentario/967179/) 
 
-	
 	Hola, les comparto mi user defined data type en Java
 	``` 
 	    publicclassUserDefinedDataType {
@@ -7010,7 +6156,7 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	
 	Saludos . . .
 
-* **16angiec** (1)
+* **16angiec** (1) [965590](https://platzi.com/comentario/965590/) 
 
 	```
 	    #include"stdlib.h"
@@ -7044,9 +6190,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [963261](https://platzi.com/comentario/963261/) 
 
-	
 	Mi primera fase del Reto. Después le pondré que los datos se metan por scanf en C. 😄
 	``` 
 	    #include"stdlib.h"
@@ -7087,17 +6232,17 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **Ana2018** (1)
+* **Ana2018** (1) [962929](https://platzi.com/comentario/962929/) 
 
-	
 	Mi desafió
 	
 	![Registro.PNG](https://static.platzi.com/media/user_upload/Registro-9479f214-e904-45ce-8344-d08199e17907.jpg)
 
-* **BotDrako** (1)
-![user define.png](https://static.platzi.com/media/user_upload/user%20define-4c152d62-d9e4-41b6-b4ea-13c9f87123bf.jpg)
+* **BotDrako** (1) [961818](https://platzi.com/comentario/961818/) 
+	
+	![user define.png](https://static.platzi.com/media/user_upload/user%20define-4c152d62-d9e4-41b6-b4ea-13c9f87123bf.jpg)
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [961110](https://platzi.com/comentario/961110/) 
 
 	```
 	    #include"stdlib.h"
@@ -7141,9 +6286,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    **
 	```
 
-* **Julio Cesar Estrada Marcial** (1)
+* **Julio Cesar Estrada Marcial** (1) [960684](https://platzi.com/comentario/960684/) 
 
-	
 	Golang
 	``` 
 	    package main
@@ -7169,25 +6313,24 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **juancamiloruiznieto** (1)
+* **juancamiloruiznieto** (1) [958656](https://platzi.com/comentario/958656/) 
 
-	
 	bueno creo que aún no podre crear mi propio user defined data type porque no se usar ningún lenguaje de programación jajaja
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [957540](https://platzi.com/comentario/957540/) 
 
-	
 	En MAC me da el error `Abort trap:6` 😦
 
-* **vivisoto** (1)
-![2020-01-29 17_58_28-vs@PCJUAND_ _mnt_d_JuanD_Documents_vivi-soto_ejercicios.png](https://static.platzi.com/media/user_upload/2020-01-29%2017_58_28-vs%40PCJUAND_%20_mnt_d_JuanD_Documents_vivi-soto_ejercicios-e4599aa1-6db9-4e8e-8e57-b532569b2ba3.jpg)
-
-* **vivisoto** (1)
-![2020-01-29 17_58_28-vs@PCJUAND_ _mnt_d_JuanD_Documents_vivi-soto_ejercicios.png](https://static.platzi.com/media/user_upload/2020-01-29%2017_58_28-vs%40PCJUAND_%20_mnt_d_JuanD_Documents_vivi-soto_ejercicios-56c0567b-b861-4820-a08c-440c69e7952c.jpg)
-
-* **Misael Rubio** (1)
-
+* **vivisoto** (1) [954831](https://platzi.com/comentario/954831/) 
 	
+	![2020-01-29 17_58_28-vs@PCJUAND_ _mnt_d_JuanD_Documents_vivi-soto_ejercicios.png](https://static.platzi.com/media/user_upload/2020-01-29%2017_58_28-vs%40PCJUAND_%20_mnt_d_JuanD_Documents_vivi-soto_ejercicios-e4599aa1-6db9-4e8e-8e57-b532569b2ba3.jpg)
+
+* **vivisoto** (1) [954827](https://platzi.com/comentario/954827/) 
+	
+	![2020-01-29 17_58_28-vs@PCJUAND_ _mnt_d_JuanD_Documents_vivi-soto_ejercicios.png](https://static.platzi.com/media/user_upload/2020-01-29%2017_58_28-vs%40PCJUAND_%20_mnt_d_JuanD_Documents_vivi-soto_ejercicios-56c0567b-b861-4820-a08c-440c69e7952c.jpg)
+
+* **Misael Rubio** (1) [949041](https://platzi.com/comentario/949041/) 
+
 	Estoy atorado. Manejo dos entornos: en el trabajo tengo windows 7 a 32 bits. Y en casa una iMac. Tanto en Mac como en Windows, utilizo Atom para escribir código. Seguí los tutoriales para instalar GCC en windows. Pero bueno ese no es el punto, sólo lo digo por tratar de poner en contexto y evidenciar mi creencia a no estar completamente en cero. Ahora sí el problema: no logro ejecutar gcc uddt.c desde la terminal. Abrí Xcode y puedo visualizar el archivo .c, pero no puedo ejecutarlo. El error que me aparece al intentar abrir el archivo c en la terminl, es :
 	
 	clang: error: no input files
@@ -7198,19 +6341,16 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	
 	creo que ya lo solucioné, el comando no es gcc sino clang
 
-* **Alejandro Ávila Guerrero** (1)
+* **Alejandro Ávila Guerrero** (1) [947908](https://platzi.com/comentario/947908/) 
 
-	
 	No me deja ejecutar en ubuntu, sale error en libreria gcc, pongo el comando de instalacion y sale error en las paginas de los repositorios. que puedo hacer en ese caso para instalar gcc.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [947908] (1)
 
-		
 		Hola! Nos puedes mostrar los errores? 😄
 
-* **Edison_Avila** (1)
+* **Edison_Avila** (1) [946821](https://platzi.com/comentario/946821/) 
 
-	
 	Por ahora uso la pagina <https://www.mycompiler.io/new/c> para realizar la prueba del código, no supe de donde salia el ejecutable del código para usar Ubuntu, aparte de eso realice el ejercicio para la clasificación de baterías
 	``` 
 	    #include"stdlib.h"
@@ -7240,9 +6380,8 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **enriqueorozcog** (1)
+* **enriqueorozcog** (1) [944538](https://platzi.com/comentario/944538/) 
 
-	
 	Para jugador de futbol:
 	``` 
 	    #include"stdlib.h" // Librerias
@@ -7276,131 +6415,113 @@ Al instalar el bash de ubuntu, se puede generar alguna afectación en el funcion
 	    
 	```
 
-* **javiercampos600** (1)
+* **javiercampos600** (1) [938416](https://platzi.com/comentario/938416/) 
 
-	
 	No puedo ejecutarlo en Ubuntu, como hago?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [938416] (1)
 
-		
 		¿Tienes algún error? ¿Puedes darnos más detalles sobre tu problema para ayudarte a encontrar una solución?
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [938416] (1)
 
-		
 		Definitivamente se puede trabajar para que puedas correrlo desde tu computadora. Pero puedes usar [repl.it](http://repl.it) si te está tomando mucho tiempo o prefieres dejar esta reparación para después.
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [929150](https://platzi.com/comentario/929150/) 
 
-	
 	No puedo ejecutarlo en Ubuntu
 
-	* **Juan David Castro (Platzi)** (2)
+	* **Juan David Castro (Platzi)** [929150] (2)
 
-		
 		¿Tienes algún error? ¿Puedes darnos más detalles sobre tu problema para ayudarte a encontrar una solución?
 		
 		Definitivamente se puede trabajar para que puedas correrlo desde tu computadora. Pero puedes usar [repl.it](http://repl.it) si te está tomando mucho tiempo o prefieres dejar esta reparación para después.
 
-* **yeferson soto** (1)
+* **yeferson soto** (1) [893118](https://platzi.com/comentario/893118/) 
 
-	
 	[](https://repl.it/repls/TremendousQuarrelsomeIntelligence)
 
-* **Merlyn Rodriguez** (1)
+* **Merlyn Rodriguez** (1) [863243](https://platzi.com/comentario/863243/) 
 
-	
 	se supone que es un curso basico para aprender a hacer algoritmos…
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [863243] (2)
 
-		
 		recuerda que este curso tiene requisitos previos los cursos de programación estructurada, es muy importante que lo haces antes.
 
-* **camilogt121** (1)
+* **camilogt121** (1) [861630](https://platzi.com/comentario/861630/) 
 
-	
 	todavía no me queda claro el user defined data type ?
 
-* **camilogt121** (1)
+* **camilogt121** (1) [860689](https://platzi.com/comentario/860689/) 
 
-	
 	Hola lo que sucede es que tengo problemas con la instalación de ubuntu bash ya que mi sistema operativo es windows 8.1 pro me pueden ayudar ?
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [860689] (3)
 
-		
 		te recomiendo que actualices a windows 10
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [860689] (1)
 
-		
 		Puedes usar [repl.it](http://repl.it). 😉
 
-* **jeydvc** (1)
+* **jeydvc** (1) [87098](https://platzi.com/comentario/1112589/) 
 Como hago para tener las librerías de C en Visual Studio Code para MAC. Agradezco su ayuda. Este es mi código pero no me funciona, creo q...
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [85259](https://platzi.com/comentario/1069575/) 
 https://platzi.com/tutori...
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [85258](https://platzi.com/comentario/1069549/) 
 Acá pueden instalar las librerias de C/C++ 
 
-* **ieesus** (1)
+* **ieesus** (1) [84678](https://platzi.com/comentario/1056154/) 
 cuando trato de compilar en ubuntu me sale: Command ‘gcc’ not found, but can be installed with: sudo apt install gcc instalo el gcc pero ...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [84678] (1)
 
-		
 		Qué te aparece después de que instalas gcc?
 
-* **strickers** (1)
+* **strickers** (1) [84452](https://platzi.com/comentario/1051143/) 
 como compilo? hice todo pero no me funciona, por lo menos de ubuntu, ademas tampoco tengo el archivo .exe, pero entendi a lo que va la cl...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [84452] (1)
 
-		
 		Hola! Que te aparece cuando intentas compilar?
 
-* **Brallan Leandro** (1)
+* **Brallan Leandro** (1) [83587](https://platzi.com/comentario/1030300/) 
 Que es mas recomendable Java script o C++?
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [83587] (2)
 
-		
 		Bueno, como todo en la vida, depende. 😅  
 		Depende de lo que desee desarrollar, qué recursos necesitará usar, etc. Pero definitivamente puedo decirte que JavaScript es muuuy completo y poderoso.
 
-* **jair gonzalez** (1)
+* **jair gonzalez** (1) [82580](https://platzi.com/comentario/1008192/) 
 como hago para tener las librerias de c?
 
-	* **Johan52752** (1)
+	* **Johan52752** [82580] (1)
 
-		
 		<https://platzi.com/tutoriales/1469-algoritmos/2765-compilando-cc-desde-visual-studio-code-windows-10/> Te dejo este post de platzi, te ayudara a compilar c, y descargar las librerias de este
 
-* **heriberto98** (1)
+* **heriberto98** (1) [82267](https://platzi.com/comentario/1001288/) 
 no entiendo porque la vamos a convertir el vector en un string, por qué mejor no utilizar un string desde el principio.
 
-* **Francoo** (1)
+* **Francoo** (1) [81521](https://platzi.com/comentario/982899/) 
 ¿En vez de imprimir propiedad por propiedad, no se puede imprimir todos los valores de client1 al mismo tiempo? Como un printf(client1)?
 
-* **Juan David González Rodríguez** (1)
+* **Juan David González Rodríguez** (1) [80352](https://platzi.com/comentario/957228/) 
 si ricardo que compilador puedo instalar para mi windows 7 … gracias
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [80352] (1)
 
-		
 		Hola,  
 		en windows puedes usar codeblocks como entorno de desarrollo, te recomiendo usar una distribución de linux y emplear el compilador gcc, un saludo.
 
-* **Wegenner** (0)
+* **Wegenner** (0) [1075376](https://platzi.com/comentario/1075376/) 
 
-	
 	No se si este mal o bien compartirlo aquí pero este vídeo me sirvió mucho: <https://www.youtube.com/watch?v=av0UQy6g2FA>
 
-## 0110. Abstract Data Types básicos Lists, Stacks, Queues
+## 0110. Abstract Data Types básicos Lists, Stacks, Queues [16938](https://platzi.com/clases/1469-algoritmos/16938-abstract-data-types-basicos-lists-stacks-queues/)
 
 ### Descripción:
 
@@ -7411,34 +6532,29 @@ Los ADT más básicos serían: Lists, Stacks, Queues, Diccionarios, Arrays, Link
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (20)
+* **Danelia Sanchez Sanchez** (20) [524974](https://platzi.com/comentario/524974/) 
 
-	
-	  * Stack (Pila): Su comportamiento es **LIFO** ( **Last In First Out** ), _Último en Entrar, Primero en Salir_.
-	  * Queue (Cola) : Su comportamiento es **FIFO** ( **First In, First Out** ), _Primero en Entrar, Primero en Salir_.
+	* Stack (Pila): Su comportamiento es **LIFO** ( **Last In First Out** ), _Último en Entrar, Primero en Salir_.
+	* Queue (Cola) : Su comportamiento es **FIFO** ( **First In, First Out** ), _Primero en Entrar, Primero en Salir_.
 	
 	
 
-* **Camilo Alexander Velandia Velandia** (7)
+* **Camilo Alexander Velandia Velandia** (7) [682306](https://platzi.com/comentario/682306/) 
 
-	
 	stacks= lifo  
 	queues= fifo
 
-* **Andres Rivera** (7)
+* **Andres Rivera** (7) [665348](https://platzi.com/comentario/665348/) 
 
-	
 	<https://es.wikipedia.org/wiki/Tipo_de_dato_abstracto>  
 	esta explicación me ayudo a enteder un poco mejor esta clase… sigo investigando
 
-	* **José Manuel Cornelio** (1)
+	* **José Manuel Cornelio** [665348] (1)
 
-		
 		¡Gracias por el aporte!
 
-* **Hanier Steve Morales Pérez** (6)
+* **Hanier Steve Morales Pérez** (6) [957673](https://platzi.com/comentario/957673/) 
 
-	
 	 **Y ahora un resumen :3**
 	
 	Muchas veces se confunden los ADT (Abstract Data Types) con las Estructuras de Datos.
@@ -7450,87 +6566,72 @@ Los ADT más básicos serían: Lists, Stacks, Queues, Diccionarios, Arrays, Link
 	
 	De los tipos de datos abstractos más usados son el **Stack** (o Pila que ya lo mencionábamos), **Queue** (Cola, este utiliza otra comportamiento que se llama “First in, First Out” la persona que llega al primero será la primera también en salir), **Priority Queue** (Cola de Prioridades, no es más que la misma cola, solo que el orden de entrada pasa a segundo término y cada uno de los valores dentro del Queue va a tener asignado un peso o un valor que denote una importancia específica, va a salir primero del Queue el que tenga mayor relevancia o importancia), **Diccionarios** (especie de lista que va a tener un índice), **Trees** (Árboles), **Graphs **(Grafos).
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [957673] (1)
 
-		
 		🤩 Que súper aporte! Gracias por compartir tu resumen, nos ayudará mucho!
 
-* **AbdulLaiseca** (5)
+* **AbdulLaiseca** (5) [678484](https://platzi.com/comentario/678484/) 
 
-	
 	Podríamos decir que el ADT es la especificación y la estructura de datos es la implementación?
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [678484] (2)
 
-		
 		exactamente, podemos decirlo asi @AbdulLaiseca
 
-* **YajairaDiaz** (5)
+* **YajairaDiaz** (5) [539006](https://platzi.com/comentario/539006/) 
 
-	
 	Un “tipo de datos abstractos” es un tipo de trabajo que consiste en transmitir la “forma” de los datos que tiene y el comportamiento que proporciona. Esto usualmente sería algo así como “tiene estos métodos y variables”. Sin embargo, si bien puede haber una implementación asociada con los tipos abstractos, generalmente no se le permitirá construir una directamente, ya que están destinados a representar la “forma”.
 	
 	Una “estructura de datos” es una cosa que le permite acceder a los datos de forma organizada (o estructurada). En este contexto, puede ser incluso más abstracto que la definición anterior, ya que ni siquiera está vinculado a un lenguaje de programación específico, sino que es literalmente un concepto. Dicho esto, a menudo se usa la misma palabra para describir estructuras de datos que pueden estar disponibles (y concretamente) a través de la biblioteca estándar del idioma de otras tuercas y tornillos básicos.
 
-* **Joaus** (5)
+* **Joaus** (5) [524586](https://platzi.com/comentario/524586/) 
 Bug en la app Android al reproducir en auto, de la definición de data types se pasa a la definición de abstract.
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [524586] (4)
 
-		
 		Holaaaaaa Joaus voy a reportar esto con el equipo, gracias!
 
-	* **Sebastian Veliz Ysla** (1)
+	* **Sebastian Veliz Ysla** [524586] (1)
 
-		
 		Me pasa eso frecuentemente también en pc, pero no lo tomo mucha importancia, sin embargo si te saca de onda XD
 
-	* **marco_cm** (1)
+	* **marco_cm** [524586] (1)
 
-		
 		Tmb me ocurre pero cuando veo el mismo video mas de una vez, entiendo es q se queda guardado hasta el tiempo que lo viste anteriormente.
 
-* **Juliocastaneda** (4)
+* **Juliocastaneda** (4) [945099](https://platzi.com/comentario/945099/) 
 
-	
 	Creo que debería dar el concepto y un ejemplo porque con demasiado concepto técnico se tiende a no entener el objetivo. “para mejorar”
 
-* **Henry Gutierrez Mora** (3)
+* **Henry Gutierrez Mora** (3) [974918](https://platzi.com/comentario/974918/) 
 
-	
 	Este tema lo ví en estructura de datos, pero no he podido adaptarme a la explicación de Ricardo, vamos a ver que pasa más adelante… thks
 
-	* **fernandajofili (Platzi)** (4)
+	* **fernandajofili (Platzi)** [974918] (4)
 
-		
 		Hola Henry, ¿entendiste mejor?  
 		Leí sobre este tipo de datos [en este enlace](https://medium.com/@rodrwan/stacks-queues-and-linked-list-f5950783450c) y me gustó la explicación, ¡espero que te ayude!
 		
 		¡Cualquier cosa, estamos aquí para ayudarlo! 😄
 
-* **Efraín Hernández García** (3)
+* **Efraín Hernández García** (3) [877059](https://platzi.com/comentario/877059/) 
 
-	
 	Habia oido sobre los **ADT** pero hasta ahora me quedaron súper claros!
 
-* **José Francisco Cruz Camacho** (3)
+* **José Francisco Cruz Camacho** (3) [799320](https://platzi.com/comentario/799320/) 
 
-	
 	¿Un ejemplo de STACK podría se cuando presionamos control + t y chrome nos abre la última pagina que cerramos?
 
-	* **Eduardo Rivera** (1)
+	* **Eduardo Rivera** [799320] (1)
 
-		
 		no tanto, porque eso solo es como tomar el historial de navegacion y guardar eso, sino mas bien seria como apilar cosas, como cuando en un tubo pones galletas y la que quede en el fondo seria la ultima que puedas comer.
 
-* **Abner Paul Ccari Lindo** (3)
+* **Abner Paul Ccari Lindo** (3) [789695](https://platzi.com/comentario/789695/) 
 
-	
 	ADT es a una interfaz ( lo que hace) lo que una estructura de datos es a una clase ( cómo lo hace )
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1024534](https://platzi.com/comentario/1024534/) 
 
-	
 	ABSTRACT DATA TYPES Y LAS ESTRUCTURAS DE DATOS
 	
 	TIPO DE DATOS ABSTRACTO(ADT): Representa un set particular de comportamientos, tiene la capacidad de almacenar datos y además te indica cual es el comportamiento de los datos que tienes almacenados en el.  
@@ -7548,171 +6649,141 @@ Bug en la app Android al reproducir en auto, de la definición de data types se 
 	
 	importante: todos los lenguajes de programación tienen distintas implementaciones de ADT, pueden tener algunas cosas en común, como formas o datos que se van a encontrar en cualquier lenguaje, lo único que varía son las instrucciones que se utilizan para acceder a cada uno de ellos
 
-	* **Mateo Gonzales Navarrete** (2)
+	* **Mateo Gonzales Navarrete** [1024534] (2)
 
-		
 		Una pequena observacion: Graphs se traduce a grafos en espanol cuando estamos hablando de la estructura de datos computacional. 😃
 
-	* **paola-diaz361** (1)
+	* **paola-diaz361** [1024534] (1)
 
-		
 		Interesante… Gracias por tu comentario, lo tendré mas en cuenta 😃
 
-* **Mau Sauret** (2)
+* **Mau Sauret** (2) [1006269](https://platzi.com/comentario/1006269/) 
 
-	
 	no explica muy bien este man de ricardo
 
-* **heriberto98** (2)
+* **heriberto98** (2) [1001292](https://platzi.com/comentario/1001292/) 
 
-	
 	si el Abstract Data type practicamente es una CLASE porque mejor no ver clases?
 
-* **Abraham Caso Torres** (2)
+* **Abraham Caso Torres** (2) [978323](https://platzi.com/comentario/978323/) 
 
-	
 	se va poniendo muy complicado entender bien estos conceptos
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [972064](https://platzi.com/comentario/972064/) 
 
-	
 	se tiende a generar confusión, no entiendo muy bien el tema.
 
-* **Christian Erik Velázquez Morales** (2)
+* **Christian Erik Velázquez Morales** (2) [841207](https://platzi.com/comentario/841207/) 
 
-	
 	Necesitaba esta clase. Gracias.
 
-* **alexander garcia castañeda** (2)
+* **alexander garcia castañeda** (2) [827489](https://platzi.com/comentario/827489/) 
 
-	
 	un stack podrían ser las listas de reproducción
 
-	* **Luis Angel José Portillo Arévalo** (3)
+	* **Luis Angel José Portillo Arévalo** [827489] (3)
 
-		
 		Las listas de reproduccion suelen ser Queues o Colas, porque la primera cancion o el primer video en ser añadido a la lista de reproduccion, sera el primero en salir, eso seria FIFO (First In, First Out) que se aplica en colas.
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [827489] (2)
 
-		
 		Más bien es un Queue o cola pero es muy similar y entre dentro de un ADT
 
-* **jonathan2138** (2)
+* **jonathan2138** (2) [666021](https://platzi.com/comentario/666021/) 
 
-	
 	Las Colas también se pueden usar en sistemas de digiturno
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [666021] (3)
 
-		
 		si! Esa es uno de los casos de usos mas mas basicos para las mismas!
 
-* **Oswaldo Javier Yugsi Yugsi** (2)
+* **Oswaldo Javier Yugsi Yugsi** (2) [572035](https://platzi.com/comentario/572035/) 
 
-	
 	Muy buena explicación. Las pilas de información se utilizan prácticamente en todos los ámbitos de la sociedad, sobre todo en la gestión de inventarios.
 
-* **davidandreszapataflorez** (1)
+* **davidandreszapataflorez** (1) [1087964](https://platzi.com/comentario/1087964/) 
 
-	
 	wtf!!
 
-* **Juan Sebastian Orrego Zapata** (1)
+* **Juan Sebastian Orrego Zapata** (1) [1050383](https://platzi.com/comentario/1050383/) 
 
-	
 	Cool
 
-* **jumper-andrew** (1)
+* **jumper-andrew** (1) [1045908](https://platzi.com/comentario/1045908/) 
 
-	
 	😃
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1041470](https://platzi.com/comentario/1041470/) 
 
-	
 	Para el stack imaginense una pila de libros o juegos o galletitas etc. En el caso de las galletas, la ultima que se puso en el paquete en el proceso de producción va a ser la primera que vas a comer.
 	
 	En el caso de las colas es lo opuesto. Esto imaginenlo como la cola para comprar algo. El que entra primero es el primero en ser atendido.
 
-* **zalotesta** (1)
+* **zalotesta** (1) [1010813](https://platzi.com/comentario/1010813/) 
 
-	
 	Slides de la clase a mano:
 	
 	![20200228_124056.jpg](https://static.platzi.com/media/user_upload/20200228_124056-8f6b3d97-59ff-4fc4-a3c7-17269eea20ec.jpg) ![20200228_124437.jpg](https://static.platzi.com/media/user_upload/20200228_124437-26bf9271-4ed9-4f43-a38d-f0384e22ce1e.jpg)
 
-* **CarlosMoreno** (1)
+* **CarlosMoreno** (1) [1000641](https://platzi.com/comentario/1000641/) 
 
-	
 	Ya solucioné el problema de las imagenes, este es el código replicado del ejercicio de Ricardo.
 
-* **CarlosMoreno** (1)
+* **CarlosMoreno** (1) [1000637](https://platzi.com/comentario/1000637/) 
 
-	
 	Al arrastrar y soltar la imagen solo sale esto:
 	
 	![codigo.png](https://static.platzi.com/media/user_upload/codigo-a6a9cfd8-765f-4592-b802-c2592fdba2e6.jpg)
 
-* **rigiba** (1)
+* **rigiba** (1) [976579](https://platzi.com/comentario/976579/) 
 
-	
 	el tema es bien compleo esperemos a entenderlo mas en detalle para aclarar las dudas
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [962485](https://platzi.com/comentario/962485/) 
 
-	
 	Todos estos conceptos se reflejan mejor con ejemplos, de lo contrario tiende a generar confusión.
 
-* **jcanchila** (1)
+* **jcanchila** (1) [961438](https://platzi.com/comentario/961438/) 
 
-	
 	conceptos claros
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [957875](https://platzi.com/comentario/957875/) 
 
-	
 	Gracias aclaraste conceptos que tenia confusos.
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [926939](https://platzi.com/comentario/926939/) 
 
-	
 	Interesante
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650556](https://platzi.com/comentario/650556/) 
 
-	
 	Excelente explicación!
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [647283](https://platzi.com/comentario/647283/) 
 
-	
 	Esto se esta poniendo interesante.y stresante jajaja
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [647283] (2)
 
-		
 		0 estrés! quedo pendiente a tus dudas =)
 
-* **carmen cecilia gomez galvis** (1)
+* **carmen cecilia gomez galvis** (1) [621486](https://platzi.com/comentario/621486/) 
 Buena explicación
 
-* **lvcm_lvcm** (1)
+* **lvcm_lvcm** (1) [568059](https://platzi.com/comentario/568059/) 
 
-	
 	Yo lo entiendo un poco como POO.  
 	Las clases serían los ADT y los objetos serían las estructuras de datos usadas.
 
-	* **SamDad** (2)
+	* **SamDad** [568059] (2)
 
-		
 		Desde mi ignorancia, hasta lo que llevo aprendido, le veo muchas diferencias a una cosa y a la otra.
 		
 		En la POO las clases define que propiedades tiene el objeto a crear, como se construye, y como se comporta, y que hace.
 		
 		Sin embargo los adt siempre se comportan de X manera, y tiene X propiedades predefinidas o muy similares.
 
-## 0120. Explicación gráfica Data Types básicos
+## 0120. Explicación gráfica Data Types básicos [16941](https://platzi.com/clases/1469-algoritmos/16941-explicacion-grafica-data-types-basicos/)
 
 ### Descripción:
 
@@ -7739,93 +6810,77 @@ Como vimos en la clase anterior existen diversos **Abstract Data Types** típico
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (20)
+* **Juan David Castro (Platzi)** (20) [521721](https://platzi.com/comentario/521721/) 
 
-	
 	 **Queue** o cola: Primero que entra, primero que sale. Como una cola en el banco, el que llega primero, primero se atiende.  
 	**Stack** o pila: Como una pila de juegos o libros, los nuevos llegan y se colocan encima del último libro, so, el primero que sacas es el último que agregaste a la pila.
 	
 	Usar los tipos de datos equivocados puede ser catastrófico. Imagínate una fila de banco que atiende de primeras al último que llega, ¡sería terrible! 😱
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [521721] (3)
 
-		
 		Creo que todos los usuarios se revelan y se hace un chaos!
 
-	* **Sebastian Veliz Ysla** (3)
+	* **Sebastian Veliz Ysla** [521721] (3)
 
-		
 		Yo lo entendí en la anterior clase, me pareció fácil
 
-* **Gabriel De Andrade (Platzi)** (8)
+* **Gabriel De Andrade (Platzi)** (8) [538289](https://platzi.com/comentario/538289/) 
 
-	
 	Algo curioso sobre las **Linked List** es que al ser nodos independientes a diferencia de los Array o Vectores el orden de almacenamiento ya sea en memoria o disco puede ser diferente al orden de recorrido, aún así el acceso a las listas solo puede ser secuencial a diferencia de los vectores que puede ser aleatorio es decir que las listas son más lentas que los vectores al momento de buscar una información específica
 
-* **César Hansy Dueñas Barragán** (7)
+* **César Hansy Dueñas Barragán** (7) [872464](https://platzi.com/comentario/872464/) 
 
-	
 	Vale mencionar que en los Linked List su tamaño máximo definido como el que sea, este será limitado sólo por la RAM. Hasta que la agotemos, cosa que creo jamas queremos llegar 😃 . Aplicaría de igual manera para los otros ADT.
 
-* **Emmanuel Guerra** (7)
+* **Emmanuel Guerra** (7) [548545](https://platzi.com/comentario/548545/) 
 
-	
 	A continuación, les dejo dos repositorios con ejemplos de Estructuras de Datos e implementaciones de ADT en Kotlin y Java:
 	
 	<https://github.com/bmaslakov/kotlin-algorithm-club>  
 	<https://github.com/kevin-wayne/algs4>
 
-	* **Jemd** (1)
+	* **Jemd** [548545] (1)
 
-		
 		Gracias por el aporte Mano
 
-* **AngelFA04** (6)
+* **AngelFA04** (6) [582839](https://platzi.com/comentario/582839/) 
 
-	
 	En esta lectura explican las diferentes estructuras de datos y ponen los ejemplos de su aplicación en Python  
 	[](https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d)
 
-	* **AngelFA04** (5)
+	* **AngelFA04** [582839] (5)
 
-		
 		<https://medium.com/@kojinoshiba/data-structures-in-python-series-1-linked-lists-d9f848537b4d>
 
-* **Leisy Karina Algarra Fernandez** (5)
+* **Leisy Karina Algarra Fernandez** (5) [962518](https://platzi.com/comentario/962518/) 
 
-	
 	Me gustaría ver el uso de estos Data Types con casos reales.
 
-* **Davic64** (5)
+* **Davic64** (5) [846151](https://platzi.com/comentario/846151/) 
 
-	
 	Un poco más de información
 	
 	[Abstact Data Types](https://www.geeksforgeeks.org/abstract-data-types/)
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [846151] (1)
 
-		
 		Buen aporte
 
-* **ricardocelis (Platzi)** (5)
+* **ricardocelis (Platzi)** (5) [678508](https://platzi.com/comentario/678508/) 
 
-	
 	<https://platzi.com/clases/1469-algoritmos/16932-glosario-de-funciones-para-abstract-data-types/>
 
-* **joseburgon** (4)
+* **joseburgon** (4) [983266](https://platzi.com/comentario/983266/) 
 
-	
 	Tranquilos, estos conceptos en la práctica son mas sencillo de lo que parecen. Considero que tal vez pudieron ser mejor explicados pero bueno.
 
-* **Ricardo Andres Rojas Alonso** (4)
+* **Ricardo Andres Rojas Alonso** (4) [975512](https://platzi.com/comentario/975512/) 
 
-	
 	Coincido con mis compañeros, es muy importante la implementación de ejemplos prácticos para que podamos aplicarlos de alguna manera. Además de un dibujo sería mucho mejor complementarlo llevándolo al código real.
 
-* **Hanier Steve Morales Pérez** (4)
+* **Hanier Steve Morales Pérez** (4) [957697](https://platzi.com/comentario/957697/) 
 
-	
 	La lista (stack) va a ser super simple, como lo dice su nombre, es una estructura ordenada secuencialmente de elementos del mismo tipo (nombres, números, direcciones). Será ordenada secuencialmente (valor 1, valor 2, valor 3) y abajo vamos a tener un índice secuencial, y como es programación siempre vamos a comenzar en CERO.
 	
 	Tiene sus acciones por ejemplo “GET” que te retorna al elemento de la posición dada, luego tenemos “INSERT” que te permite ingresar algo a la lista, y otras más
@@ -7836,14 +6891,12 @@ Como vimos en la clase anterior existen diversos **Abstract Data Types** típico
 	
 	A,B,C,D,E,F,G. La G entró de última, entonces será la primera en salir. Aquí obviamente todas las letras se recorrerían y la F tomaría el lugar de la G, tendríamos un espacio nuevo disponible de primero.
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [957697] (3)
 
-		
 		Así es
 
-* **Diego Andres Cabrera Rojas** (3)
+* **Diego Andres Cabrera Rojas** (3) [1056774](https://platzi.com/comentario/1056774/) 
 
-	
 	Para entender mejor las queue imaginense una fila en el banco o en un supermercado donde la primera persona que llega es la primera que se despacha (que atienden y luego sale de la fila) , que es a la relacion que se hace con este ADT(Abstract Data Type) primero en entrar primero en salir
 	
 	Para entender mejor las pilas (stacks) , imaginen que tienen una columna de libros , para sacar el del medio tienen que ir sacando libro por libro desde arriba (que fue el orden en que se ingresaron) no pueden llegar a ese libro sin sacar los de arriba
@@ -7852,139 +6905,116 @@ Como vimos en la clase anterior existen diversos **Abstract Data Types** típico
 	
 	**#NuncaParesDeAprender**
 
-* **Henry Gutierrez Mora** (3)
+* **Henry Gutierrez Mora** (3) [974982](https://platzi.com/comentario/974982/) 
 
-	
 	No he logrado conectar, es importante ver el ejemplo practico, next and let’s start
 
-* **Alfonso Romero** (3)
+* **Alfonso Romero** (3) [972115](https://platzi.com/comentario/972115/) 
 
-	
 	esperar a ver los ejemplos, en este punto es más complejo entender el significado y su funcionamiento.
 
-* **Adriana del Pilar Martinez Bautista** (3)
+* **Adriana del Pilar Martinez Bautista** (3) [957923](https://platzi.com/comentario/957923/) 
 
-	
 	Esto hace que el video anterior quede más claro aún. ♥
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [957923] (2)
 
-		
 		Gracias Pilar!
 
-* **Efraín Hernández García** (3)
+* **Efraín Hernández García** (3) [877963](https://platzi.com/comentario/877963/) 
 
-	
 	Definitivamente quedo más claro
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [877963] (1)
 
-		
 		Qué bien Efraín!
 
-* **Ignacio Saccomano** (2)
+* **Ignacio Saccomano** (2) [1041506](https://platzi.com/comentario/1041506/) 
 
-	
 	No me queda clara la explicación del queue. Supuestamente es “First in first out”, pero en el ejemplo el último dato en entrar es el primero en salir. ¿Por qué?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [1041506] (1)
 
-		
 		Imaginalo como un vaso que tiene una compuerta en el fondo, la primera letra que entró en este caso es la G y la última es la A. Cuando se abre la compuerta del fondo, la primera letra que cae para ser ejecutada es la G, porque fué la primera que entró, debido a que está en el fondo del vaso. 😄
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1024621](https://platzi.com/comentario/1024621/) 
 
-	
 	Los ADT más importantes:
 	
-	  * List = Se utiliza en arrays, lista ordenada secuencialmente de elementos del mismo tipo ej. lista de direcciones, lista de nombres etc.
-	  * Stack = Puede ser un array o linklist, siempre se va a mostrar de primeras el ultimo dato que ingresaste, tamaño predefinido
-	  * Queue = Se usa en arrays, tiene un nivel de seguridad que no deja ver algunos datos, y muestra el último dato que fue ingresado, si se ingresó la G de ultimas, va a mostrar G de primeras, tamaño predefinido, en caso de borrar algún dato, este se almacenara en el primer puesto del array.
-	  * Diccionario o mapas = Colección de datos puede ser un array, va a tener un índice, y este índice no va a ser como una lista algo secuencial, va a ser el índice que tu quieras por ejemplo un id, un valor único, su ventaja es que podemos consultar datos mucho más rápido
+	* List = Se utiliza en arrays, lista ordenada secuencialmente de elementos del mismo tipo ej. lista de direcciones, lista de nombres etc.
+	* Stack = Puede ser un array o linklist, siempre se va a mostrar de primeras el ultimo dato que ingresaste, tamaño predefinido
+	* Queue = Se usa en arrays, tiene un nivel de seguridad que no deja ver algunos datos, y muestra el último dato que fue ingresado, si se ingresó la G de ultimas, va a mostrar G de primeras, tamaño predefinido, en caso de borrar algún dato, este se almacenara en el primer puesto del array.
+	* Diccionario o mapas = Colección de datos puede ser un array, va a tener un índice, y este índice no va a ser como una lista algo secuencial, va a ser el índice que tu quieras por ejemplo un id, un valor único, su ventaja es que podemos consultar datos mucho más rápido
 	
 	
 	
 	Importante: Para tener un sitio con muchos usuarios, no nos sirve un array, ya que este le definimos el tamaño al crearlo, para este caso se pude utilizar mejor un linklist ya que esto guarda el dato y tiene la dirección al siguiente dato y va creciendo.
 
-* **heriberto98** (2)
+* **heriberto98** (2) [1001302](https://platzi.com/comentario/1001302/) 
 
-	
 	en cuanto al array, les digo a todos de que podemos crear arreglos vacíos y luego llenarlos de acuerdo a las necesidades
 
-* **Juan Luis Chavez Manjarres** (2)
+* **Juan Luis Chavez Manjarres** (2) [960128](https://platzi.com/comentario/960128/) 
 
-	
 	Muy claro el tema, gracias por su excelente explicación.
 
-* **juancamiloruiznieto** (2)
+* **juancamiloruiznieto** (2) [958743](https://platzi.com/comentario/958743/) 
 
-	
 	no entendi lo de Array y mas o menos lo de LL
 
-* **Juan Camilo García Mesa** (2)
+* **Juan Camilo García Mesa** (2) [926985](https://platzi.com/comentario/926985/) 
 
-	
 	Un poco más claro
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [926985] (2)
 
-		
 		qué bueno Juan!
 
-* **Rose_White** (1)
+* **Rose_White** (1) [1084159](https://platzi.com/comentario/1084159/) 
 
-	
 	¡AMO estos videos! Deberían de tener más videos así los otros cursos.
 
-* **Franco Bottazzi** (1)
+* **Franco Bottazzi** (1) [1062780](https://platzi.com/comentario/1062780/) 
 
-	
 	Una aclaración: Los arreglos pueden tener un tamaño dinámico, es decir, ir teniendo el espacio que necesita el programa. Lo que pasa es que para agrandar un arreglo hay que copiar todos los valores uno por uno a otro lado de la memoria dónde el arreglo entre, lo cual es más lento que simplemente poner el nuevo dato en un lugar cualquiera de la memoria
 
-* **Juan Sebastian Orrego Zapata** (1)
+* **Juan Sebastian Orrego Zapata** (1) [1050410](https://platzi.com/comentario/1050410/) 
 
-	
 	Cool.
 
-* **Cristian Gómez** (1)
+* **Cristian Gómez** (1) [1042828](https://platzi.com/comentario/1042828/) 
 
-	
 	<https://www.geeksforgeeks.org/data-structures/>
 
-* **Andrew321q** (1)
+* **Andrew321q** (1) [852536](https://platzi.com/comentario/852536/) 
 
-	
 	Y cual pueden ser los data type mas complejos?
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [652018](https://platzi.com/comentario/652018/) 
 
-	
 	muy interesante 😄
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650592](https://platzi.com/comentario/650592/) 
 
-	
 	No encontré el link de la lectura.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [650592] (2)
 
-		
 		Da error 500 ya mismo lo corrijo, saludos
 
-* **jeydvc** (1)
+* **jeydvc** (1) [87104](https://platzi.com/comentario/1112715/) 
 Hola, cuando coloco estas librerías en Visual Studio Code me las subraya como si tuvieran un error, estoy utilizando VSC en MAC: #include...
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [81284](https://platzi.com/comentario/978125/) 
 Quede confundido con la explicación de Queue. ¿Si es un principio FIFO. Primero en entrar, primero en salir. Porq salió G? No fue acaso e...
 
-	* **fernandajofili (Platzi)** (3)
+	* **fernandajofili (Platzi)** [81284] (3)
 
-		
 		En [este momento](https://platzi.com/clases/1469-algoritmos/16941-explicacion-grafica-data-types-basicos/?time=234), el profe dice que el primer elemento es la “G”. Y que por eso, será la primera letra a salir 😃
 		
 		Creo que causó confusión por estar del lado derecho, por ser el “último” dado.
 
-## 0130. Glosario de funciones para Abstract Data Types
+## 0130. Glosario de funciones para Abstract Data Types [16932](https://platzi.com/clases/1469-algoritmos/16932-glosario-de-funciones-para-abstract-data-types/)
 
 ### Descripción:
 
@@ -8039,46 +7069,40 @@ isFull() – Retorna true si la cola está vacía, si no, retorna false.
 
 ### Comentarios:
 
-* **Leisy Karina Algarra Fernandez** (21)
-![estructuras de datos.png](https://static.platzi.com/media/user_upload/estructuras%20de%20datos-ba69a1a6-dacc-4989-b0ae-9535f7cd893b.jpg)
+* **Leisy Karina Algarra Fernandez** (21) [962570](https://platzi.com/comentario/962570/) 
+	
+	![estructuras de datos.png](https://static.platzi.com/media/user_upload/estructuras%20de%20datos-ba69a1a6-dacc-4989-b0ae-9535f7cd893b.jpg)
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [962570] (1)
 
-		
 		🤩 Que super aporte!!! Gracias por compartirlo, Karina! Nos ayudará muuucho, es muy visual y simple.
 
-	* **Daniel Mauricio Ramírez Castaño** (1)
+	* **Daniel Mauricio Ramírez Castaño** [962570] (1)
 
-		
 		Excelente!
 
-* **Manuel Alejandro Aguilar Téllez Girón** (7)
+* **Manuel Alejandro Aguilar Téllez Girón** (7) [608195](https://platzi.com/comentario/608195/) 
 
-	
 	Entonces se podría entender a la cola (Queue) como la fila de un banco o de un restaurante o cualquier otro, porque los clientes se van formando y atienden al primero que llegó.
 	
 	La pila (Stack) es como cuando guardabas discos en unas cosas que tenían como un cilindro en medio, sacabas el último que habías metido, si querías sacar uno del medio tenías que sacar un montón y se hacía un desorden.
 	
 	La lista entiendo que sacas el que quieras de la posición que quieras. Es como cuando checas tus calificaciones en la universidad, buscas tu nombre y revisas, o buscas el de tu amigo y ya, no tienes que estar revisando uno por uno a mucho detalle.
 
-	* **luis.villalta** (2)
+	* **luis.villalta** [608195] (2)
 
-		
 		Excelente definición,
 
-	* **luis.villalta** (2)
+	* **luis.villalta** [608195] (2)
 
-		
 		Excelente definición,
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [608195] (1)
 
-		
 		Gracias 😄
 
-* **Ricardo Andres Rojas Alonso** (4)
+* **Ricardo Andres Rojas Alonso** (4) [978336](https://platzi.com/comentario/978336/) 
 
-	
 	Me queda la duda de si en las operaciones disponibles isEmpty () y isFull del ADT de Queue realmente tienen la misma funcionalidad, ya que en el artículo ambas dicen lo siguiente:
 	
 	isEmpty() – Retorna true si la cola está vacía, si no, retorna false.  
@@ -8088,277 +7112,226 @@ isFull() – Retorna true si la cola está vacía, si no, retorna false.
 	
 	Agradezco sus comentarios… Saludos!
 
-	* **juan jose pelaez hernandez** (3)
+	* **juan jose pelaez hernandez** [978336] (3)
 
-		
 		Es un error humano.  
 		Tu deducción es correcta !  
 		isFull() – Retorna true si la cola está llena, si no, retorna false.
 
-* **Joshval97** (4)
+* **Joshval97** (4) [528452](https://platzi.com/comentario/528452/) 
 
-	
 	Pequeña observación.  
 	En Queue ADT las funciones isEmpty() e isFull() dicen lo mismo.  
 	Es así o es un pequeño error?? Saludos 😄
 
-	* **Sebastian Veliz Ysla** (1)
+	* **Sebastian Veliz Ysla** [528452] (1)
 
-		
 		Deberían ser contrárias XD
 
-	* **Edwin Meixueiro Torres** (1)
+	* **Edwin Meixueiro Torres** [528452] (1)
 
-		
 		isFull()  
 		esta alreves
 
-	* **gnscarlos** (1)
+	* **gnscarlos** [528452] (1)
 
-		
 		Creo que esta bien, full es lleno y empty es vacío, lo aprendí en road fighter.
 
-* **Henry Gutierrez Mora** (3)
+* **Henry Gutierrez Mora** (3) [989318](https://platzi.com/comentario/989318/) 
 
-	
 	Espero ver los ejercicios prácticos, pues la lectura estuvo clara… hay algunos vacíos … al momento frente a las anteriores clases esta no me a gustado la dinámica del docente
 
-* **Raúl Armas** (3)
+* **Raúl Armas** (3) [843321](https://platzi.com/comentario/843321/) 
 
-	
 	Con referente al glosario, ¿La sintaxis y los métodos no dependen del lenguaje?
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [843321] (1)
 
-		
 		Los métodos existen en cualquier lenguaje de programación porque son parte del acceso a los datos y la lógica de almacenamiento. Esto significa que lo que diferenciará es cómo se implementarán los métodos en cada lenguaje de programación.
 
-* **Enzo Díaz** (3)
+* **Enzo Díaz** (3) [694714](https://platzi.com/comentario/694714/) 
 
-	
 	Más adelante les comparto la implementación de Queue que hice en Javascript^^
 
-* **DO** (3)
+* **DO** (3) [692613](https://platzi.com/comentario/692613/) 
 
-	
 	En el isFull() del Queue ADT no debería ser Retorna True si la cola está llena, sino, retorna false?  
 	Gracias
 
-* **Brayan Potosi Dominguez** (2)
+* **Brayan Potosi Dominguez** (2) [1090011](https://platzi.com/comentario/1090011/) 
 
-	
 	 **Muy buena explicacion , quedo muy claro el tema** 😄
 
-* **Rene Pazmiño** (2)
+* **Rene Pazmiño** (2) [1039442](https://platzi.com/comentario/1039442/) 
 
-	
 	Genial!
 
-* **jonathan2138** (2)
+* **jonathan2138** (2) [670732](https://platzi.com/comentario/670732/) 
 
-	
 	Excelente definición, todo mucho mas claro
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [670732] (1)
 
-		
 		Genial Jonathan! espero que asi sea en todo el curso, me pregfuntas cualquier cosa!
 
-* **marioamaciasortiz** (2)
+* **marioamaciasortiz** (2) [652058](https://platzi.com/comentario/652058/) 
 
-	
 	isEmpty() – Retorna true si la cola está vacía, si no, retorna false.  
 	**isFull() – Retorna true si la cola NO está vacía, si no, retorna false.**
 
-* **eberangel** (2)
+* **eberangel** (2) [572969](https://platzi.com/comentario/572969/) 
 
-	
 	isFull() – Retorna true si la cola está llena, si no, retorna false.
 
-* **Eduardo Aguilar Escalante** (1)
+* **Eduardo Aguilar Escalante** (1) [1033151](https://platzi.com/comentario/1033151/) 
 
-	
 	Muy buen aporte, aunque me parece que sera necesario encontrar el equivalente en el lenguaje que usemos de manera mas frecuente.
 
-* **raulaspe** (1)
+* **raulaspe** (1) [1000196](https://platzi.com/comentario/1000196/) 
 
-	
 	Muy buen documento!!!1
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [980643](https://platzi.com/comentario/980643/) 
 
-	
 	bueno esta lectura estuvo mas comprensible que las clases
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [977703](https://platzi.com/comentario/977703/) 
 
-	
 	Excelente… Seguimos avanzando. 👌🏽
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [967721](https://platzi.com/comentario/967721/) 
 Encontré información acerca de ataco, donde: no está vacío. iii) peep () - Devuelve el elemento superior de la pila sin eliminarlo.
 
-* **jonathan-cordoba68** (1)
+* **jonathan-cordoba68** (1) [967419](https://platzi.com/comentario/967419/) 
 
-	
 	gracias karina por la información
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [963791](https://platzi.com/comentario/963791/) 
 
-	
 	Hola Karina Gracias por esa imagen esta muy buena .
 
-* **BotDrako** (1)
+* **BotDrako** (1) [962340](https://platzi.com/comentario/962340/) 
 
-	
 	muy bueno, a tener en cuenta para el examen.
 
-* **Juan Luis Chavez Manjarres** (1)
+* **Juan Luis Chavez Manjarres** (1) [960133](https://platzi.com/comentario/960133/) 
 
-	
 	Anteriormente había escuchado sobre este tema, pero no lo tenia muy claro, pero con esta explicación me quedaron mas claro los conceptos y operaciones que se pueden realizar con ellos. Muchas gracias.
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [958062](https://platzi.com/comentario/958062/) 
 
-	
 	Muchas Gracias!!!  
 	♥
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [957725](https://platzi.com/comentario/957725/) 
 
-	
 	Crack! Más fácil, imposible
 
-* **vivisoto** (1)
+* **vivisoto** (1) [955940](https://platzi.com/comentario/955940/) 
 
-	
 	buen glosario 😄
 
-* **marco-tamayo-flores** (1)
+* **marco-tamayo-flores** (1) [952021](https://platzi.com/comentario/952021/) 
 
-	
 	Muy útil!!
 
-* **Josue12** (1)
+* **Josue12** (1) [939144](https://platzi.com/comentario/939144/) 
 
-	
 	Estas funciones de ADT son en particular de algún lenguaje de programación?
 
-	* **Oslan Enrique Villalobos  Piña** (6)
+	* **Oslan Enrique Villalobos  Piña** [939144] (6)
 
-		
 		No,las ADT no son un legunaje de progrmacion. Son estructuras de datos que existe en los diferentes lenguajes de programación. Nos ayudan a definir funciones lógicas adaptadas a nuestras necesidades en el mundo real pero llevadas e interpretadas en código.
 
-	* **Josue12** (1)
+	* **Josue12** [939144] (1)
 
-		
 		Gracias ya me quedo mas claro con tu comentario y al ver las siguientes clases
 
-* **JosueM** (1)
+* **JosueM** (1) [938569](https://platzi.com/comentario/938569/) 
 
-	
 	Muchas gracias!!!
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [926983](https://platzi.com/comentario/926983/) 
 
-	
 	Gracias
 
-* **Ivan Arturo Peña De Benito** (1)
+* **Ivan Arturo Peña De Benito** (1) [900448](https://platzi.com/comentario/900448/) 
 
-	
 	Gracias por el glosario!
 
-* **Daniel Mauricio Ramírez Castaño** (1)
+* **Daniel Mauricio Ramírez Castaño** (1) [881237](https://platzi.com/comentario/881237/) 
 
-	
 	Bien, por escribir los métodos de cada uno.
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [877966](https://platzi.com/comentario/877966/) 
 
-	
 	Gracias por el glosario!!
 
-* **richie** (1)
+* **richie** (1) [872082](https://platzi.com/comentario/872082/) 
 
-	
 	Gracias por el glosario
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [841258](https://platzi.com/comentario/841258/) 
 
-	
 	Gracias, por el glosario.
 
-* **predator0077** (1)
+* **predator0077** (1) [809560](https://platzi.com/comentario/809560/) 
 
-	
 	Gracias por el glosario, Muy buena explicación sobre el tema
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [682330](https://platzi.com/comentario/682330/) 
 
-	
 	excelente, asi queda un poco mas claro en que consiste cada uno
 
-* **louismanson** (1)
+* **louismanson** (1) [681309](https://platzi.com/comentario/681309/) 
 
-	
 	Buen glosario, aunque dependiendo el lenguaje puede cambiar un poco el nombre de la función o pueden tener mas funciones, pero siempre cuentan por lo menos las de aquí
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [668540](https://platzi.com/comentario/668540/) 
 
-	
 	Muy buenos apuntes para repasar.
 
-* **Claudio Jesus Vázquez Villanueva** (1)
+* **Claudio Jesus Vázquez Villanueva** (1) [666535](https://platzi.com/comentario/666535/) 
 
-	
 	Recuerdo mis clases de estructura de datos en la Uni jaja
 
-* **oswaldorueda** (1)
+* **oswaldorueda** (1) [665951](https://platzi.com/comentario/665951/) 
 
-	
 	Muy util esta lectura
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650599](https://platzi.com/comentario/650599/) 
 
-	
 	Importante información, ahora veo que no era un link sino que estaba en la clase siguiente esta información, muchas gracias!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [650599] (1)
 
-		
 		igual ya lo deje linkeado! Gracias por avisar!
 
-* **Vandersal Aheram Archila Chua** (1)
+* **Vandersal Aheram Archila Chua** (1) [612615](https://platzi.com/comentario/612615/) 
 
-	
 	Me encanta que solo varían unas pequeñas cosas en cuanto hacemos uso de los datos abstractos en cada lenguaje de programación.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [612615] (1)
 
-		
 		si! Eso es algo universal y lo que varia es como se ejecuta o utiliza en cada lenguaje!
 
-* **Xappie** (1)
+* **Xappie** (1) [607945](https://platzi.com/comentario/607945/) 
 
-	
 	muy útil, muchas gracias.
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567428](https://platzi.com/comentario/567428/) 
 
-	
 	Bien!!
 
-## 0140. Clases y objetos
+## 0140. Clases y objetos [16916](https://platzi.com/clases/1469-algoritmos/16916-clases-y-objetos/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **paola-diaz361** (5)
+* **paola-diaz361** (5) [1026161](https://platzi.com/comentario/1026161/) 
 
-	
 	CLASES Y OBJETOS  
 	Con la programación orientada a objetos podemos hacer una abstracción de cualquier cosa que queramos crear, por ejemplo, un vídeo juego de fútbol, y esta se llamara CLASE la cual se compone de dos cosas: ATRIBUTOS Y MÉTODOS.  
 	ATRIBUTOS: son todas las propiedades que corresponden al jugador  
@@ -8368,185 +7341,151 @@ Encontré información acerca de ataco, donde: no está vacío. iii) peep () - D
 	ENCAPSULAMIENTO: puede significar esconder algo, por ejemplo, si en el vídeo juego queremos esconder la velocidad con la que corre un jugador para que los otros jugadores no puedan verla.  
 	POLIMORFISMO: significa muchas formas. También es una base importante de la programación y lista de objetos, por ejemplo, el entrenador puede enviarle un msj a un jugador y este saldría al campo a jugar y a realizar lo que entendió del mensaje
 
-* **keila martinez** (2)
+* **keila martinez** (2) [1028027](https://platzi.com/comentario/1028027/) 
 
-	
 	explicación corta y muy bien explicada el ejemplo ayuda a entener
 
-* **rigiba** (2)
+* **rigiba** (2) [1003338](https://platzi.com/comentario/1003338/) 
 
-	
 	una fomra muy facil de entender clases
 
-* **Henry Gutierrez Mora** (2)
+* **Henry Gutierrez Mora** (2) [989326](https://platzi.com/comentario/989326/) 
 
-	
 	vamos con toda… me encanta anai
 
-* **Abraham Caso Torres** (2)
+* **Abraham Caso Torres** (2) [980654](https://platzi.com/comentario/980654/) 
 
-	
 	Me enamoré 😃
 
-* **rigiba** (2)
+* **rigiba** (2) [980536](https://platzi.com/comentario/980536/) 
 
-	
 	super claro en pocos segundos
 
-* **henrycaicedov** (2)
+* **henrycaicedov** (2) [977723](https://platzi.com/comentario/977723/) 
 
-	
 	Genial… Que buena explicación!
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [972120](https://platzi.com/comentario/972120/) 
 
-	
 	este tipo de explicación realmente ayuda a unificar conceptos y entender la forma de aplicarlos.
 
-* **wilmaryoanmalavermalaver** (2)
+* **wilmaryoanmalavermalaver** (2) [971474](https://platzi.com/comentario/971474/) 
 
-	
 	me gusta mucho como explica anahi, es muy facil entenderle.
 
-* **Nonintula34** (2)
+* **Nonintula34** (2) [963833](https://platzi.com/comentario/963833/) 
 
-	
 	siento que entiendo pero , aun no practico , comopodria practicar y aprender al mismo tiempo si entender mucho ayuda . algun juego , ejercicio , video , algo ?
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [962589](https://platzi.com/comentario/962589/) 
 
-	
 	Genial!  
 	Retomé varios conceptos.
 
-* **jcanchila** (2)
+* **jcanchila** (2) [961518](https://platzi.com/comentario/961518/) 
 
-	
 	excelente ilustración para definir el concepto de la poo.
 
-* **Juan Luis Chavez Manjarres** (2)
+* **Juan Luis Chavez Manjarres** (2) [960146](https://platzi.com/comentario/960146/) 
 
-	
 	Clases como estas son muy fáciles de entender. Muchas Gracias.
 
-* **RicardoRA19** (2)
+* **RicardoRA19** (2) [679250](https://platzi.com/comentario/679250/) 
 
-	
 	Ann es capaz de resumir un semestro en 3 minutos 😮
 
-* **yanco** (1)
+* **yanco** (1) [959254](https://platzi.com/comentario/959254/) 
 
-	
 	Cuando se realiza la explicacion de esta forma es mucho mas clara entender este tema
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [958242](https://platzi.com/comentario/958242/) 
 
-	
 	Excelente explicación ♥ Motivacional.
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [957732](https://platzi.com/comentario/957732/) 
 
-	
 	Siempre es gratificante ver a Anahí explicando :3
 
-* **marco-tamayo-flores** (1)
+* **marco-tamayo-flores** (1) [952033](https://platzi.com/comentario/952033/) 
 
-	
 	Like
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [927005](https://platzi.com/comentario/927005/) 
 
-	
 	Buen video
 
-* **Johny Sanabria Sanabria C** (1)
+* **Johny Sanabria Sanabria C** (1) [912196](https://platzi.com/comentario/912196/) 
 
-	
 	Que buen explicación de estos conceptos que a veces nos resultan tan difíciles de entender
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [877994](https://platzi.com/comentario/877994/) 
 
-	
 	Excelente explicación!
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [841269](https://platzi.com/comentario/841269/) 
 
-	
 	Me encantó el video. Muy grata referencia.
 
-* **predator0077** (1)
+* **predator0077** (1) [809562](https://platzi.com/comentario/809562/) 
 
-	
 	Muy buena referencia de la Programación Orientada a Objectos. Se agradece la información Extra
 
-* **hernandovela** (1)
+* **hernandovela** (1) [754450](https://platzi.com/comentario/754450/) 
 
-	
 	Muy bien resumido.
 
-* **Daniel Eduardo Arrubla Funez** (1)
+* **Daniel Eduardo Arrubla Funez** (1) [686613](https://platzi.com/comentario/686613/) 
 
-	
 	Resume muy bien la idea general de POO
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [682336](https://platzi.com/comentario/682336/) 
 
-	
 	esta genial este video
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [670743](https://platzi.com/comentario/670743/) 
 
-	
 	Me gusto mucho la forma en que explica el encapsulamiento, creo que ya se que ejemplo dar cuando me pregunten por cosas de POO.
 	
 	Saludos
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [668545](https://platzi.com/comentario/668545/) 
 
-	
 	Buenos conceptos para el curso, excelente.😄
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [655474](https://platzi.com/comentario/655474/) 
 
-	
 	Excelentísimo video
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650605](https://platzi.com/comentario/650605/) 
 
-	
 	Excelente vídeo, es más fácil comprenderlo con animaciones!
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [614315](https://platzi.com/comentario/614315/) 
 
-	
 	Excelente explicación de clases y objetos.
 
-* **Jhan Carlos Celis Maldonado** (1)
+* **Jhan Carlos Celis Maldonado** (1) [602943](https://platzi.com/comentario/602943/) 
 
-	
 	Me encanto su manera de explicar, lo hace muy didactco. Lo vere al finalizar este xD
 
-* **Jaskier28** (1)
+* **Jaskier28** (1) [576920](https://platzi.com/comentario/576920/) 
 
-	
 	explico to muy bien, pero igual es recomendable seguir investigando
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (3)
+	* **Manuel Alejandro Aguilar Téllez Girón** [576920] (3)
 
-		
 		Por supuesto, hay todo un curso de Programación Orientada a Objetos, lo puedes revisar aquí: [Curso de Programación Orientada a Objetos: POO](https://platzi.com/clases/oop/), manejarás toda la teoría que implica este paradigma de programación y la pondrás en práctica en 4 diferentes lenguajes.
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [80662](https://platzi.com/comentario/963836/) 
 siento que entiendo pero , aun no practico , comopodria practicar y aprender al mismo tiempo si entender mucho ayuda . algun juego , ejer...
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [80662] (2)
 
-		
 		Hola @Nonintula34!
 		
 		Te recomiendo el [Curso de Programación Básica](https://platzi.com/clases/programacion-basica/), donde puedes escribir tu código y echar un vistazo al código del profesor. Puedes tomar ambos cursos al mismo tiempo, por lo que evoluciona más rápido. ¡En el curso de programación hay varios ejercicios divertidos y desafiantes!
 
-## 0150. Creando tu primera Queue Arrays
+## 0150. Creando tu primera Queue Arrays [16940](https://platzi.com/clases/1469-algoritmos/16940-creando-tu-primera-queue-arrays/)
 
 ### Descripción:
 
@@ -8565,73 +7504,62 @@ En los **queue** el primer elemento que entra es el primero en salir.
 
 ### Comentarios:
 
-* **paola-diaz361** (6)
-![queue.PNG](https://static.platzi.com/media/user_upload/queue-87c8fc28-381f-4076-8cb9-c945c59e511d.jpg)
-
-* **alexander garcia castañeda** (3)
-
+* **paola-diaz361** (6) [1026194](https://platzi.com/comentario/1026194/) 
 	
+	![queue.PNG](https://static.platzi.com/media/user_upload/queue-87c8fc28-381f-4076-8cb9-c945c59e511d.jpg)
+
+* **alexander garcia castañeda** (3) [827572](https://platzi.com/comentario/827572/) 
+
 	queues en python  
 	<https://recursospython.com/guias-y-manuales/colas-con-el-modulo-queue/>
 
-* **Luis Nilson Palma Campos** (3)
+* **Luis Nilson Palma Campos** (3) [526965](https://platzi.com/comentario/526965/) 
 
-	
 	al remover el que se encuentra en primera posicion con un Dequeue,el que esta en la segunda posicion pasa a estar en la primera?
 
-	* **ricardocelis (Platzi)** (7)
+	* **ricardocelis (Platzi)** [526965] (7)
 
-		
 		Sí ya que sería de los datos restantes el más reciente en haber entrado
 
-* **diego-serrano** (2)
+* **diego-serrano** (2) [525007](https://platzi.com/comentario/525007/) 
 
-	
 	Excelente clase
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [525007] (1)
 
-		
 		muchas gracias Diego! espero ver tu review cuando termines el curso! es super importante =)
 
-* **andresazuara98** (1)
+* **andresazuara98** (1) [1088015](https://platzi.com/comentario/1088015/) 
 
-	
 	I guess it can be a great idea that when we make the dequeue, move the rest of the elements to the first cell, because if we don’t do it, when the last element reach the last cell, we will have to insert in the first cell, it will be circular instead of linear
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [972134](https://platzi.com/comentario/972134/) 
 
-	
 	ejemplo con buena eplicación
 
-* **Daniel Mauricio Ramírez Castaño** (1)
+* **Daniel Mauricio Ramírez Castaño** (1) [881247](https://platzi.com/comentario/881247/) 
 
-	
 	Bien!
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [878012](https://platzi.com/comentario/878012/) 
 
-	
 	En este caso del Array esta limitado solo a cinco personas verdad?  
 	Es decir cuando sale el 1 de la cola no puede ingresar el 6 despues del cinco?
 
-	* **fernandajofili (Platzi)** (2)
+	* **fernandajofili (Platzi)** [878012] (2)
 
-		
 		Sí, puedes ingresar un otro numero al salir un numero del Array. Y si usas el comando **Enqueue** el elemento va al final del Array.  
 		O sea, es posible ingresar desde que el tamaño del Array no sea mayor que 5 personas.
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [878012] (1)
 
-		
 		Tal como el profesor respodió en [ese comentario](https://platzi.com/comentario/526965/).
 
-* **Christian Erik Velázquez Morales** (1)
+* **Christian Erik Velázquez Morales** (1) [841317](https://platzi.com/comentario/841317/) 
 
-	
 	Buena explicación.
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [818103](https://platzi.com/comentario/818103/) 
 
 	```
 	    using System;
@@ -8704,60 +7632,50 @@ En los **queue** el primer elemento que entra es el primero en salir.
 	    
 	```
 
-* **predator0077** (1)
+* **predator0077** (1) [809568](https://platzi.com/comentario/809568/) 
 
-	
 	Excelente explicación, Que buen curso y el Maestro ni se diga.
 
-* **diego_acero** (1)
+* **diego_acero** (1) [711759](https://platzi.com/comentario/711759/) 
 
-	
 	excelente clase
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [685431](https://platzi.com/comentario/685431/) 
 
-	
 	muy buena explicacion
 
-* **eberangel** (1)
+* **eberangel** (1) [572972](https://platzi.com/comentario/572972/) 
 
-	
 	La actualización de la posición es inmediata a remover el front?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [572972] (4)
 
-		
 		Si, la posición se cambia de forma automática y el que era el segundo valor pasa a ser el primero y así sucesivamente cada vez que se hace DeQueue
 
-* **René Sanchez** (1)
+* **René Sanchez** (1) [551564](https://platzi.com/comentario/551564/) 
 
-	
 	Muy buena clase 😃
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [551564] (1)
 
-		
 		hey Gracias Wkywolf!
 
-* **dcortesnet** (1)
+* **dcortesnet** (1) [528785](https://platzi.com/comentario/528785/) 
 
-	
 	Esta bueno el curso solo que los dibujos están un poco legibles saludos
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [528785] (3)
 
-		
 		Hola! Gracias por el feedback! Mejoraré esopara el próximo =)
 
-* **Luis Nilson Palma Campos** (1)
+* **Luis Nilson Palma Campos** (1) [54219](https://platzi.com/comentario/526965/) 
 al remover el que se encuentra en primera posicion con un Dequeue,el que esta en la segunda posicion pasa a estar en la primera?
 
-	* **ricardocelis (Platzi)** (7)
+	* **ricardocelis (Platzi)** [54219] (7)
 
-		
 		Sí ya que sería de los datos restantes el más reciente en haber entrado
 
-## 0160. Creando tu primera Queue implementación.
+## 0160. Creando tu primera Queue implementación. [17006](https://platzi.com/clases/1469-algoritmos/17006-creando-tu-primera-queue-implementacion/)
 
 ### Descripción:
 
@@ -8776,42 +7694,35 @@ Para crear una **Queue** debemos seguir los siguientes pasos:
 
 ### Comentarios:
 
-* **David Santiago González Ramos** (12)
+* **David Santiago González Ramos** (12) [850530](https://platzi.com/comentario/850530/) 
 
-	
 	Muchachos comparto esta foto porque solo así yo logré entender la idea del algoritmo…sé que ya los arrays vienen con funciones integradas que podrían facilitar esto, pero siempre es bueno conocer “algoritmicamente” hablando como funcionan las cosas desde adentro.  
 	  
 	Espero que esta foto ayude a muchos.  
 	![photo_2019-12-04_17-15-22.jpg](https://static.platzi.com/media/user_upload/photo_2019-12-04_17-15-22-8c7497cb-9942-4c59-b873-9d9d180215bf.jpg)
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [850530] (2)
 
-		
 		Gracias de verdad si se entiende mejor!
 
-	* **Josue12** (2)
+	* **Josue12** [850530] (2)
 
-		
 		Por que en el quinto dibujo rear cambia a 5?
 
-	* **Efraín Hernández García** (5)
+	* **Efraín Hernández García** [850530] (5)
 
-		
 		De hecho en eso tuvo un pequeño error. Debe ser 4 de nuevo
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [850530] (1)
 
-		
 		Sii, debería ser 4😝
 
-	* **rsalamanca** (1)
+	* **rsalamanca** [850530] (1)
 
-		
 		se entiende muy bien la idea del ejercicio aunque si en los dos ultimos deberia ser r = 4 muchas gracias amigo
 
-* **Juan David Castro (Platzi)** (6)
+* **Juan David Castro (Platzi)** (6) [521788](https://platzi.com/comentario/521788/) 
 
-	
 	Los arrays (y cualquier otro dato en programación) tienen la capacidad de contar sus elementos. Por ejemplo, el _string_`"fulano"` tiene 6 elementos ( _f_ , _u_ , _l_ , _a_ , _n_ y _o_ ) y el siguiente _array_ tiene 3 elementos: `["pepito", "pizza", "pablito"]`.
 	
 	Sin embargo, si queremos acceder a la primera posición de nuestras variables no buscamos la posición 1, sino la posición 0. Y, por lo mismo, la segunda posición en realidad es la posición 1:
@@ -8826,15 +7737,13 @@ Para crear una **Queue** debemos seguir los siguientes pasos:
 	    
 	```
 
-	* **Juan David Castro (Platzi)** (3)
+	* **Juan David Castro (Platzi)** [521788] (3)
 
-		
 		Explicación más detallada aquí: [Why Do Arrays Start With Index 0?](https://medium.com/@albertkoz/why-does-array-start-with-index-0-65ffc07cbce8)  
 		Chiste completo aquí: <https://www.instagram.com/p/BuY5Xx5hT5x/>
 
-* **paola-diaz361** (3)
+* **paola-diaz361** (3) [1028289](https://platzi.com/comentario/1028289/) 
 
-	
 	TRABAJAREMOS CON QUEUE:  
 	PASOS:
 	
@@ -8850,27 +7759,23 @@ Para crear una **Queue** debemos seguir los siguientes pasos:
 	
 	
 
-* **Daniel Mauricio Ramírez Castaño** (3)
+* **Daniel Mauricio Ramírez Castaño** (3) [881253](https://platzi.com/comentario/881253/) 
 
-	
 	Si empezamos estudiando lista ADT, stack ADT y queue, en videos anteriores. ¿Por qué empezamos analizando un ejemplo de Queue?. Saludos!
 
-	* **Anthony Guzman Lopez** (2)
+	* **Anthony Guzman Lopez** [881253] (2)
 
-		
 		Yo me pregunto lo mismo, aunque aquí nunca hay respuestas de los profesores o de alguien de platzi…
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [881253] (1)
 
-		
 		tiene razon anthony pense que yo era el unico
 
-	* **Oscar Garcia** (1)
+	* **Oscar Garcia** [881253] (1)
 
-		
 		Last in first out :V
 
-* **kikega** (3)
+* **kikega** (3) [651905](https://platzi.com/comentario/651905/) 
 
 	```
 	    classCola:
@@ -8917,11 +7822,10 @@ Para crear una **Queue** debemos seguir los siguientes pasos:
 	    
 	```
 
-* **dcortesnet** (3)
+* **dcortesnet** (3) [528816](https://platzi.com/comentario/528816/) 
 
-	
-	  * Implementación de cola básica en python
-	  * Cabe destacar que en python hay un módulo que implementa una cola de manera eficiente este se llama collections.deque más info en la documentación
+	* Implementación de cola básica en python
+	* Cabe destacar que en python hay un módulo que implementa una cola de manera eficiente este se llama collections.deque más info en la documentación
 	
 	
 	``` 
@@ -8967,100 +7871,83 @@ Para crear una **Queue** debemos seguir los siguientes pasos:
 	    
 	```
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1091933](https://platzi.com/comentario/1091933/) 
 
-	
 	para mi es mas confuso cuando en los arrays empiezan con 1
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1041564](https://platzi.com/comentario/1041564/) 
 
-	
 	Esta pregunta no tiene mucho que ver con la clase pero cuando abro VS code desde ubuntu me lo considera como un remoto. No tengo problema porque de hecho me facilita algunas cosas pero quiero saber por qué es así mientras que en la clase no
 
-* **heriberto98** (1)
+* **heriberto98** (1) [1001321](https://platzi.com/comentario/1001321/) 
 
-	
 	el primero en llegar el primero en salir, tambien es un algoritmo de planificacion de procesos, hablando de sistemas operativos
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [989343](https://platzi.com/comentario/989343/) 
 
-	
 	El video anterior era de POO, era publicidad? de momento me emocioné…
 
-* **rigiba** (1)
+* **rigiba** (1) [980567](https://platzi.com/comentario/980567/) 
 
-	
 	Entiendo que para las colas, usamos las 5 posiciones del Array las cuales inicializan en 0 a 4.
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [972146](https://platzi.com/comentario/972146/) 
 
-	
 	Por que en -1… no inicia la secuencia en 0?
 
-	* **Angie Carolina Acosta** (2)
+	* **Angie Carolina Acosta** [972146] (2)
 
-		
 		En este caso inicia en -1 porque aun no tenemos ningún elemento.
 
-	* **Escnil994** (1)
+	* **Escnil994** [972146] (1)
 
-		
 		se puede decir que en un arreglo 0 es 1 así que -1 es 0, así lo entiendo
 
-	* **Carlos José González Juan** (1)
+	* **Carlos José González Juan** [972146] (1)
 
-		
 		Imagina que tenemos un coche donde caben 5 personas. Abrimos el coche, que es como si iniciáramos el el Queue. El -1 quiere decir que abrimos las puertas pero no ha entrado nadie. Si iniciáramos en 0, querría decir que ya hay una persona dentro, con lo que solo cabria 4. En el Queue, si iniciáramos en 0, estaríamos quitando un espacio al array, porque estaríamos tomando el espacio 0, con lo que solo nos quedaría los espacios 1, 2, 3 y 4.  
 		Espero haberme explicado bien.
 
-* **Yerson Daniel Romero Orjuela** (1)
+* **Yerson Daniel Romero Orjuela** (1) [971187](https://platzi.com/comentario/971187/) 
 
-	
 	comenzar del 0 al 4 puede resultar extraño pero tendrá una razón de ser
 
-	* **megadelt** (1)
+	* **megadelt** [971187] (1)
 
-		
 		básicamente porque en computación el primer número es 0, en nuestro lenguaje natural tendemos a usar como primer número el 1, pero si internalizamos este concepto no debiéramos tener problemas
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [962635](https://platzi.com/comentario/962635/) 
 
-	
 	Todo es mejor con buenos ejemplos.
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [958816](https://platzi.com/comentario/958816/) 
 
-	
 	Gracias!!!
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [878041](https://platzi.com/comentario/878041/) 
 
-	
 	Veamos todo esto en la práctica
 
-* **predator0077** (1)
+* **predator0077** (1) [809579](https://platzi.com/comentario/809579/) 
 
-	
 	Muy buena explicación antes de pasar a Código.
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650617](https://platzi.com/comentario/650617/) 
 
-	
 	muy buena explicación, en la siguiente clase creo que será más concreto todos los pasos.
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [73061](https://platzi.com/comentario/827636/) 
 alguien me puede explicar por favor que es lo del front y rear en -1?
 
-	* **César Hansy Dueñas Barragán** (3)
+	* **César Hansy Dueñas Barragán** [73061] (3)
 
-		
 		En la imagen se muestra un queue de ejemplo. El índice comienza en 0 como explica el profesor, y es el uso frecuente en los diferentes tipos de datos en programación.
 		
 		![queue.png](https://static.platzi.com/media/user_upload/queue-d88eb009-10b3-4b4a-aa2f-c57ce8ac3d49.jpg)
 		
 		En este caso hay un elemento en la posición cero. El front = 0 y rear = 5. Se coloca la posición de front y rear en -1 en el caso de que no exista ningún elemento en el queue.
 
-## 0170. Creando tu primera Queue implementar la función enQueue
+## 0170. Creando tu primera Queue implementar la función enQueue [17009](https://platzi.com/clases/1469-algoritmos/17009-creando-tu-primera-queue-implementar-la-funcion-en/)
 
 ### Descripción:
 
@@ -9069,26 +7956,22 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 
 ### Comentarios:
 
-* **hernan__giraldo** (11)
+* **hernan__giraldo** (11) [635743](https://platzi.com/comentario/635743/) 
 
-	
 	 **Mi aporte:** lo realicé con Angular y le agregué una parte gráfica para que sea más simple de entender:
 	
 	<https://stackblitz.com/edit/first-queue-unk47u>
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [635743] (3)
 
-		
 		excelente trabajo Hernan! 100 pts extras por la parte gráfica =)
 
-	* **AbdulLaiseca** (2)
+	* **AbdulLaiseca** [635743] (2)
 
-		
 		Genial, estaba mirando el código pero no sé en que parte haces que cuando eliminas uno, dinamicamente en la vista todos se muevan de posición, podrías ayudarme?
 
-	* **hernan__giraldo** (2)
+	* **hernan__giraldo** [635743] (2)
 
-		
 		Claro!
 		
 		Primero valido que queden clientes por ser servidos, de ser así, procedo a sacarlo de la lista:
@@ -9103,29 +7986,24 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 		    
 		```
 
-	* **efrainjaimes** (2)
+	* **efrainjaimes** [635743] (2)
 
-		
 		wow, ya te admiro. Espero pronto tener la creatividad y conocimientos para hacer cosas así.
 
-	* **Juan Camilo García Mesa** (1)
+	* **Juan Camilo García Mesa** [635743] (1)
 
-		
 		Excelente
 
-	* **Dario Candia** (0)
+	* **Dario Candia** [635743] (0)
 
-		
 		Genial!!, ayuda a comprender mejor como funciona
 
-* **Paul Gualambo Giraldo** (6)
+* **Paul Gualambo Giraldo** (6) [579665](https://platzi.com/comentario/579665/) 
 
-	
 	 **Shift + Alt + a = Comentar todo el código seleccionado**
 
-* **David Santiago González Ramos** (4)
+* **David Santiago González Ramos** (4) [850577](https://platzi.com/comentario/850577/) 
 
-	
 	Comparto mi código (inclui una función para ver por consola cómo está funcionando el algoritmo)  
 	
 	``` 
@@ -9179,24 +8057,20 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    Front = 0 Rear = 4```
 	```
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [850577] (1)
 
-		
 		muy buen codigo
 
-* **Luis Nilson Palma Campos** (4)
+* **Luis Nilson Palma Campos** (4) [527453](https://platzi.com/comentario/527453/) 
 
-	
 	Excelente clase me quedo todo super claro, te recomiendo usar las llaves para el if else ya que de esta forma el codigo sera mucho mas facil de entender para nosotros
 
-	* **ricardocelis (Platzi)** (0)
+	* **ricardocelis (Platzi)** [527453] (0)
 
-		
 		hola King! Qué bueno que te gustó, tomaré en cuenta eso que me comentas para futuros cursos =)
 
-* **Johan Nieto** (3)
+* **Johan Nieto** (3) [627513](https://platzi.com/comentario/627513/) 
 
-	
 	mi aporte en javascript
 	``` 
 	    <htmllang="en">
@@ -9236,9 +8110,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **JOSE DE JESUS USCANGA MOLINA** (2)
+* **JOSE DE JESUS USCANGA MOLINA** (2) [1050228](https://platzi.com/comentario/1050228/) 
 
-	
 	Dejo mi version de la implementación de Queue con JavaScript
 	``` 
 	    class Queue {
@@ -9302,17 +8175,15 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [966005](https://platzi.com/comentario/966005/) 
 
-	
 	Excelente explicación.
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [964367](https://platzi.com/comentario/964367/) 
 
-	
 	Me encanto porque lo entendí, claro después de ver el video varias veces y con la lógica que requiere.
 
-* **Hanier Steve Morales Pérez** (2)
+* **Hanier Steve Morales Pérez** (2) [957748](https://platzi.com/comentario/957748/) 
 
 	```
 	    /*stdio.h por que en este programa necesito imprimir
@@ -9343,9 +8214,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **marco-tamayo-flores** (2)
+* **marco-tamayo-flores** (2) [952167](https://platzi.com/comentario/952167/) 
 
-	
 	Desde python
 	``` 
 	    SIZE = 5
@@ -9364,9 +8234,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **Edison_Avila** (2)
+* **Edison_Avila** (2) [948276](https://platzi.com/comentario/948276/) 
 
-	
 	Realice el ejercicio en JS, el html cuenta con 2 botones, uno para el ingreso de clientes y otro para cuando son atendidos, de igual forma dos párrafos uno para mostrar el array y el otro para mostrar el numero de clientes que han ingresado al restaurante.
 	``` 
 	    var Size = 10; //Cantidad de espacios en el array
@@ -9418,12 +8287,11 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **Daniel Mauricio Ramírez Castaño** (2)
+* **Daniel Mauricio Ramírez Castaño** (2) [881265](https://platzi.com/comentario/881265/) 
 
-	
 	Bien!
 
-* **Efraín Hernández García** (2)
+* **Efraín Hernández García** (2) [878552](https://platzi.com/comentario/878552/) 
 
 	```
 	    #include<stdio.h>
@@ -9446,7 +8314,7 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **luis.villalta** (2)
+* **luis.villalta** (2) [617952](https://platzi.com/comentario/617952/) 
 
 	```
 	    #include<stdio.h>
@@ -9466,30 +8334,25 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **GibsPM** (2)
+* **GibsPM** (2) [559034](https://platzi.com/comentario/559034/) 
 
-	
 	Muy buena explicación, profe Celis
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [559034] (1)
 
-		
 		Hola Gibs! Gracias, estoy atento en caso que tengas cualquier duda!
 
-* **SERGIO GARDUZA GONZALEZ** (2)
+* **SERGIO GARDUZA GONZALEZ** (2) [532501](https://platzi.com/comentario/532501/) 
 
-	
 	Hola Ricardo: Excelente curso. Tengo una pregunta: ¿En este código no es necesario declarar rear, front y values ? Saludos.
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [532501] (4)
 
-		
 		Hola GarduzaG! Qué bien que te esté gustando el curso!  
 		sí, como el código es corto hago la declaración de variables al final! Algo que aprendí a hacer cuando creaba librerías en C, pero si gustas las puedes ir declarando desde ahora =)
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1092176](https://platzi.com/comentario/1092176/) 
 
-	
 	en c++
 	``` 
 	    #include<iostream>
@@ -9511,9 +8374,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1086813](https://platzi.com/comentario/1086813/) 
 
-	
 	Código en Java:
 	``` 
 	    voidEnQueue (intvalue)
@@ -9532,7 +8394,7 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **AMJA21** (1)
+* **AMJA21** (1) [1066163](https://platzi.com/comentario/1066163/) 
 
 	```
 	    var maxSize = 5;
@@ -9556,9 +8418,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [1057302](https://platzi.com/comentario/1057302/) 
 
-	
 	enQueue en Javascript
 	``` 
 	    var maxSize= 5;
@@ -9585,15 +8446,16 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **keila martinez** (1)
-![queue.PNG](https://static.platzi.com/media/user_upload/queue-2ef83b5c-551e-422c-9a15-cd38c20ca2b9.jpg)
-
-* **paola-diaz361** (1)
-![queueC.PNG](https://static.platzi.com/media/user_upload/queueC-b224331c-413b-4b60-95df-117c5247b921.jpg)
-
-* **Henry Gutierrez Mora** (1)
-
+* **keila martinez** (1) [1046868](https://platzi.com/comentario/1046868/) 
 	
+	![queue.PNG](https://static.platzi.com/media/user_upload/queue-2ef83b5c-551e-422c-9a15-cd38c20ca2b9.jpg)
+
+* **paola-diaz361** (1) [1028460](https://platzi.com/comentario/1028460/) 
+	
+	![queueC.PNG](https://static.platzi.com/media/user_upload/queueC-b224331c-413b-4b60-95df-117c5247b921.jpg)
+
+* **Henry Gutierrez Mora** (1) [1004616](https://platzi.com/comentario/1004616/) 
+
 	#include <stdio.h>  
 	#define SIZE 5
 	
@@ -9611,22 +8473,20 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	
 	}
 
-* **Ricardo Andres Rojas Alonso** (1)
-![queue.c — C__Users_Ricardo Rojas_Documents_Platzi — Atom 10_02_2020 10_22_58 p. m..png](https://static.platzi.com/media/user_upload/queue.c%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%2010_02_2020%2010_22_58%20p.%20m.-b7c8eb4f-141f-4e2e-87db-5c092a33aa0a.jpg)
-
-* **Alfonso Romero** (1)
-
+* **Ricardo Andres Rojas Alonso** (1) [978454](https://platzi.com/comentario/978454/) 
 	
+	![queue.c — C__Users_Ricardo Rojas_Documents_Platzi — Atom 10_02_2020 10_22_58 p. m..png](https://static.platzi.com/media/user_upload/queue.c%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%2010_02_2020%2010_22_58%20p.%20m.-b7c8eb4f-141f-4e2e-87db-5c092a33aa0a.jpg)
+
+* **Alfonso Romero** (1) [972207](https://platzi.com/comentario/972207/) 
+
 	Existe algún glosario para conocer cada comando que se implementa en este ejercicio y en los próximos?
 
-	* **megadelt** (2)
+	* **megadelt** [972207] (2)
 
-		
 		Te refieres a los comandos de C? puedes aprender C++ en este curso <https://platzi.com/clases/c-plus-plus/>
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [827745](https://platzi.com/comentario/827745/) 
 
-	
 	este es mi código en python, lo hice en funciones
 	``` 
 	    import logging
@@ -9674,9 +8534,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **Ismael Caballero Hernandez** (1)
+* **Ismael Caballero Hernandez** (1) [658323](https://platzi.com/comentario/658323/) 
 
-	
 	Aquí dejo el código de la Cola en Java.
 	
 	<code>  
@@ -9741,14 +8600,12 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	}  
 	</code>
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [655918](https://platzi.com/comentario/655918/) 
 
-	
 	apenas iba a comentar lo de \n y lo corrigió jejee
 
-* **kikega** (1)
+* **kikega** (1) [652066](https://platzi.com/comentario/652066/) 
 
-	
 	Corrigiendo errores
 	``` 
 	    classCola:
@@ -9798,19 +8655,16 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650637](https://platzi.com/comentario/650637/) 
 
-	
 	No comprendo porque hacerlo tan elaborado, cuando podemos hacer un array y acceder a sus celdas fácilmente.
 
-	* **efrainjaimes** (2)
+	* **efrainjaimes** [650637] (2)
 
-		
 		Porque, aunque ya muchos lenguajes tienen funcionas para hacer esto más fácil, la idea es aprender a implementarlo casi desde cero. Es para aprender.
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [639870](https://platzi.com/comentario/639870/) 
 
-	
 	Lo estoy haciendo en Java 😃
 	``` 
 	    publicclassQueue {
@@ -9821,8 +8675,8 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	        privateint[] values = newint[SIZE];
 	    
 	        /**
-	         * Añade un elemento de la cola si y sólo si hay espacio en el array.
-	         * */
+	       * Añade un elemento de la cola si y sólo si hay espacio en el array.
+	       * */
 	        voidenQueue(intvalue) {
 	            if (rear == SIZE-1) {
 	                System.out.println("Nuesto Queue está lleno.");
@@ -9839,42 +8693,37 @@ En esta clase nos pusimos a estructurar el código la función enQueue que recib
 	    
 	```
 
-* **ervic_alexis** (1)
+* **ervic_alexis** (1) [571849](https://platzi.com/comentario/571849/) 
 
-	
 	Seria excelente que en la sección de archivos ya incluyeras el código comentado con la función que hace cada linea de código. así mismo al principio del todo el objetivo del código a realizar. Tome un curso anterior de arduino y el programador lo hacia de esa manera y todo quedaba mas claro.
 
-* **René Sanchez** (1)
+* **René Sanchez** (1) [551625](https://platzi.com/comentario/551625/) 
 
-	
 	Excelente clase todo muy esta quedando cada vez mas claro reforzando e leyendo la lista creada de lo que debe hacer el algoritmo creado, he podio entender mas a fondo 😃.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [551625] (1)
 
-		
 		Genial saber esto! Espero que te esté gustando mucho el curso =)
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [84230](https://platzi.com/comentario/1046191/) 
 Puedo poner el front en cualquier valor negativo inicialmente?
 
-* **jose Ignacio Hidalgo Chacin** (1)
+* **jose Ignacio Hidalgo Chacin** (1) [71039](https://platzi.com/comentario/788487/) 
 hola ricardo. una pregunta como puedo hacer para que el terminal descargado de ubuntu en windows, para que pueda ejecutar archivos g++ y ...
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [71039] (1)
 
-		
 		ya teniendo ubuntu y poniendo gcc te aparece que lo podes instalar con el comando sudo apt install gcc
 
-* **SERGIO GARDUZA GONZALEZ** (1)
+* **SERGIO GARDUZA GONZALEZ** (1) [54650](https://platzi.com/comentario/532501/) 
 Hola Ricardo: Excelente curso. Tengo una pregunta: ¿En este código no es necesario declarar rear, front y values ? Saludos.
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [54650] (4)
 
-		
 		Hola GarduzaG! Qué bien que te esté gustando el curso!  
 		sí, como el código es corto hago la declaración de variables al final! Algo que aprendí a hacer cuando creaba librerías en C, pero si gustas las puedes ir declarando desde ahora =)
 
-## 0180. Creando tu primera Queue implementar la función deQueue
+## 0180. Creando tu primera Queue implementar la función deQueue [17008](https://platzi.com/clases/1469-algoritmos/17008-creando-tu-primera-queue-implementar-la-funcion-de/)
 
 ### Descripción:
 
@@ -9883,24 +8732,20 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 
 ### Comentarios:
 
-* **Emmanuel Guerra** (6)
+* **Emmanuel Guerra** (6) [548685](https://platzi.com/comentario/548685/) 
 
-	
 	Hay un error en la descripción de la clase, debería decir FIFO en vez de LIFO
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [548685] (4)
 
-		
 		omg! Voy a corregir eso!
 
-	* **Jemd** (3)
+	* **Jemd** [548685] (3)
 
-		
 		Con cuidado es un héroe
 
-* **David Santiago González Ramos** (4)
+* **David Santiago González Ramos** (4) [850669](https://platzi.com/comentario/850669/) 
 
-	
 	Este es mi codigo en JS
 	``` 
 	    functiondeQueue() {
@@ -9920,14 +8765,12 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [850669] (2)
 
-		
 		Te quedó muy bien David
 
-* **Wandy Rafael Santana Evangelista** (4)
+* **Wandy Rafael Santana Evangelista** (4) [668821](https://platzi.com/comentario/668821/) 
 
-	
 	En JS.
 	``` 
 	    functiondeQueue(){
@@ -9945,29 +8788,24 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **Ricardo Asin** (4)
+* **Ricardo Asin** (4) [554030](https://platzi.com/comentario/554030/) 
 
-	
 	En que casos debo usar estas funcionalidades en mi codigo? o en algun proyecto?
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [554030] (4)
 
-		
 		Hola tocayo, por ejemplo en un proyecto de backend donde tengas que vender boletos puedes implementar un queue para ordenar a las personas que van llegando a comprar, para un sitio web donde importa el orden en el que se registran por ejemplo los usuarios, o medir los primeros diez que terminen x cosa.
 
-* **Leisy Karina Algarra Fernandez** (3)
+* **Leisy Karina Algarra Fernandez** (3) [964535](https://platzi.com/comentario/964535/) 
 
-	
 	La verdad me ha parecido un poco complejo pero he logrado entender .
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [964535] (1)
 
-		
 		¡Es lo que importa! Las cosas por las que más nos esforzamos son las que brindan la mayor satisfacción.
 
-* **Johan Nieto** (2)
+* **Johan Nieto** (2) [1057363](https://platzi.com/comentario/1057363/) 
 
-	
 	deQueue en Javascript
 	``` 
 	    function deQueue(){
@@ -9995,14 +8833,12 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **Ignacio Saccomano** (2)
+* **Ignacio Saccomano** (2) [1046386](https://platzi.com/comentario/1046386/) 
 
-	
 	Por que en la descripción dice que es LIFO cuando es FIFO?
 
-* **alexabellerman** (2)
+* **alexabellerman** (2) [1010069](https://platzi.com/comentario/1010069/) 
 
-	
 	En Javascript:
 	``` 
 	    const size = 5;
@@ -10032,12 +8868,11 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-	* **Andrés Campuzano Garzón** (1)
+	* **Andrés Campuzano Garzón** [1010069] (1)
 
-		
 		Es más entendible en JS
 
-* **Nicolas Restrepo** (2)
+* **Nicolas Restrepo** (2) [945526](https://platzi.com/comentario/945526/) 
 
 	```
 	    classQueue:
@@ -10146,20 +8981,17 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **freddymm** (2)
+* **freddymm** (2) [854053](https://platzi.com/comentario/854053/) 
 
-	
 	Ese feature nuevo de mover el video a una esquina de la pantalla esta súper genial
 
-* **David Santiago González Ramos** (2)
+* **David Santiago González Ramos** (2) [850650](https://platzi.com/comentario/850650/) 
 
-	
 	Comparto con ustedes un repositorio de Github en el que ire subiendo lo que se trabaje en este curso.  
 	<https://github.com/davidgonzalezfx/DataStructures-and-Algorithms>
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1087027](https://platzi.com/comentario/1087027/) 
 
-	
 	Código en Java:
 	``` 
 	    void DeQueue()
@@ -10176,50 +9008,44 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1029457](https://platzi.com/comentario/1029457/) 
 
-	
 	CREANDO TU PRIMERA QUEUE: IMPLEMENTAR FUNCION DE QUEUE  
 	En deQueue: nosotros no controlamos los datos que salen, simplemente la lógica de Abstrac Data Type se encarga de dar el resultado, recordando que este método (dequeue) remueve y retorna el primer elemento en la cola si no está vacío.
 	
 	![implementando funcion queue.png](https://static.platzi.com/media/user_upload/implementando%20funcion%20queue-536d8fda-adb7-4e56-a06c-7a0a2363d875.jpg)
 
-* **Cristhian David Casco** (1)
+* **Cristhian David Casco** (1) [980282](https://platzi.com/comentario/980282/) 
 
-	
 	Windows 10 no me permite ejecutar el archivo uddt.exe alguna ayuda o sugerencia ?
 	
 	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-d830675e-0622-49aa-b35f-d01dff1ad9f6.jpg)
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [980282] (1)
 
-		
 		Recuerda que lo debes de ejecutar desde la terminal de Linux 😄
 
-	* **Marcelo Leonel Barba Carvajal** (1)
+	* **Marcelo Leonel Barba Carvajal** [980282] (1)
 
-		
 		Claro, pero por que no deja ejecutarlo windows? Esa es mi pregunta.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [980282] (1)
 
-		
 		No, no deja, pues crea un binario para Unix, que difieren de los binarios de Windows, esto lo aprendes más a fondo en el [Curso de Fundamentos de Ingeniería de Software](https://platzi.com/clases/ingenieria/) 😄
 
-	* **rigiba** (1)
+	* **rigiba** [980282] (1)
 
-		
 		trata de instalar la consola de ubuntu
 
-	* **arielr85** (1)
+	* **arielr85** [980282] (1)
 
-		
 		Trata de instalar la terminal de ubuntu pero recuerda si tiene bipartido el disco o tiene dos discos hay que moverse hasta el achivo. en caso que se complique lo mas facil es que instale codeblocs que tiene su propia consola agregas el archivo run y listo !!!
 
-* **Ricardo Andres Rojas Alonso** (1)
-![queue.c — C__Users_Ricardo Rojas_Documents_Platzi — Atom 10_02_2020 10_35_12 p. m..png](https://static.platzi.com/media/user_upload/queue.c%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%2010_02_2020%2010_35_12%20p.%20m.-1151a875-a7c7-4e0a-a66b-427e4b776130.jpg)
+* **Ricardo Andres Rojas Alonso** (1) [978490](https://platzi.com/comentario/978490/) 
+	
+	![queue.c — C__Users_Ricardo Rojas_Documents_Platzi — Atom 10_02_2020 10_35_12 p. m..png](https://static.platzi.com/media/user_upload/queue.c%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%2010_02_2020%2010_35_12%20p.%20m.-1151a875-a7c7-4e0a-a66b-427e4b776130.jpg)
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [878558](https://platzi.com/comentario/878558/) 
 
 	```
 	    void deQueue()
@@ -10237,9 +9063,8 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [829133](https://platzi.com/comentario/829133/) 
 
-	
 	para hacerlo en python tuve que utilizar la función remove(x) que me devuelve un el elemento en la posición x (colocandola siempre como 0 internamente) esta función es propia de las listas, creen que sea ‘trampa’ (según los propositos del curso) hacerlo así? la otra solución que se me ocurre sería sobreescribir la lista anterior por una nueva con los otros valores y retornar el eliminado  
 	algo así:
 	``` 
@@ -10286,9 +9111,8 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **VICTOR CASTILLO** (1)
+* **VICTOR CASTILLO** (1) [825397](https://platzi.com/comentario/825397/) 
 
-	
 	Otro código en JS
 	``` 
 	    const deQueue = function(){
@@ -10307,22 +9131,19 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [655939](https://platzi.com/comentario/655939/) 
 
-	
 	VHugoBarnes es correcta tu observación.
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [639917](https://platzi.com/comentario/639917/) 
 
-	
 	¿Todavía no se está eliminando del array nada con la funcion deQueue() cierto?
 
-	* **marioamaciasortiz** (2)
+	* **marioamaciasortiz** [639917] (2)
 
-		
 		Es correcto!!
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [617963](https://platzi.com/comentario/617963/) 
 
 	```
 	    #include<stdio.h>
@@ -10355,59 +9176,50 @@ En esta clase estructuramos el código de la función deQueue que nos quita el p
 	    
 	```
 
-* **Marco Dalis** (1)
+* **Marco Dalis** (1) [567436](https://platzi.com/comentario/567436/) 
 
-	
 	Gracias
 
-* **Jonathan Quiroz Laverde** (1)
+* **Jonathan Quiroz Laverde** (1) [561956](https://platzi.com/comentario/561956/) 
 
-	
 	En Platzi hay algun curso de C desde cero?, puede ser interesante si no lo hay, ademas de que puede tener un enfoque en HPC con MPI.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [561956] (1)
 
-		
 		Lanzamos un curso de c++ mañana <https://platzi.com/clases/c-plus-plus/>
 
-	* **Jonathan Quiroz Laverde** (1)
+	* **Jonathan Quiroz Laverde** [561956] (1)
 
-		
 		Excelente, muchas gracias!!!
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [561956] (1)
 
-		
 		Por supuesto que hay uno, visita el [Curso de Programación Estructurada](https://platzi.com/clases/programacion-estructurada/) ya mismo con la profesora Dani Coyotzi.
 
-* **josegmv** (1)
+* **josegmv** (1) [542784](https://platzi.com/comentario/542784/) 
 
-	
 	Tengo una duda ¿que es lo que hace que los valores guardados en values se vayan eliminando? No se si entendí bien pero, entonces la función deQueue, al o tener parámetros ¿por si sola es suficiente para que elimine los valores del Queue?. Me quedo el conflicto de no entender bien como sucede eso, Gracias!.
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [542784] (4)
 
-		
 		En este momento esta tomando el primer valor de la posición del array para ir eliminando tantas veces como llames el método deQueue, hay algo que falta hacer y es realmente eliminar el valor del array, porque si bien el código muestra que lo elimina no lo hace realmente del array.
 
-* **Edwin5000** (1)
+* **Edwin5000** (1) [85503](https://platzi.com/comentario/1075460/) 
 gcc
 
-	* **María José Ledesma (Platzi)** (1)
+	* **María José Ledesma (Platzi)** [85503] (1)
 
-		
 		¡Hola Edwin5000!
 		
 		¿Precisas ayuda en algo? No dudes en consultar.
 		
 		**¡Nunca pares de aprender!** (Y practicar) ✨🦄
 
-* **Nicolás Arias** (1)
+* **Nicolás Arias** (1) [65321](https://platzi.com/comentario/689570/) 
 Si elimino un elemento del queue no deberían todos los valores que están detras correrse un puesto hacia adelante? Para poder seguir agre...
 
-	* **Enzo Díaz** (1)
+	* **Enzo Díaz** [65321] (1)
 
-		
 		Cuando un vector vacío recibe su primer valor mediante los métodos de Array (generalmente `.push()`), éste ocupará la posición [0].  
 		Cuando recibe su segundo valor por el mísmo método, el nuevo elemento se posiciona en [1].  
 		Cuando se extrae el primer elemento, naturalmente los demás elementos ocuparán la posición del primero.  
@@ -10418,18 +9230,17 @@ Si elimino un elemento del queue no deberían todos los valores que están detra
 		Por lo menos así funciona en los lenguajes de alto nivel.  
 		C es de bajo nivel, quizá no sea igual, eso no sabría decirte.
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [64350](https://platzi.com/comentario/674553/) 
 Hola chicos, estoy bien o el metodo deQueue no se implementó nada para eliminar el elemento? hizo falta eliminar el elemento de values, no?
 
-* **josegmv** (1)
+* **josegmv** (1) [55579](https://platzi.com/comentario/542784/) 
 Tengo una duda ¿que es lo que hace que los valores guardados en values se vayan eliminando? No se si entendí bien pero, entonces la funci...
 
-	* **Diego Alexander Forero Higuera (Platzi)** (4)
+	* **Diego Alexander Forero Higuera (Platzi)** [55579] (4)
 
-		
 		En este momento esta tomando el primer valor de la posición del array para ir eliminando tantas veces como llames el método deQueue, hay algo que falta hacer y es realmente eliminar el valor del array, porque si bien el código muestra que lo elimina no lo hace realmente del array.
 
-## 0190. Creando tu primera Queue main code
+## 0190. Creando tu primera Queue main code [17011](https://platzi.com/clases/1469-algoritmos/17011-creando-tu-primera-queue-main-code/)
 
 ### Descripción:
 
@@ -10440,14 +9251,12 @@ No olvides realizar el reto de esta clase.
 
 ### Comentarios:
 
-* **Henry Gutierrez Mora** (3)
+* **Henry Gutierrez Mora** (3) [1004645](https://platzi.com/comentario/1004645/) 
 
-	
 	no me ha gustado mucho el curso… pero nada hacerle…
 
-* **Nicolas Castañeda** (3)
+* **Nicolas Castañeda** (3) [935158](https://platzi.com/comentario/935158/) 
 
-	
 	Mi solucion fue en la funcion deQueue() eliminar el corrimiento de front dejandolo fijo al principio del arreglo y realizando un corrimiento al resto del mismo dejo el codigo:
 	``` 
 	    void deQueue(){
@@ -10470,27 +9279,24 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-* **Gabospa** (2)
+* **Gabospa** (2) [1052255](https://platzi.com/comentario/1052255/) 
 
-	
 	Lo que mas me tomó tiempo de este ejercicio fue lograr compliar en C, tuve que investigar hasta que descubri que debia descgargar gcc hasta que lo logre. Porque todos ya sabian C o lo tenian configurados en sus equipos?. De igual forma me gusta el curso y lo que hacemos. Saludos a todos!
 
-	* **Alan Alexis Arostegui Maranto** (1)
+	* **Alan Alexis Arostegui Maranto** [1052255] (1)
 
-		
 		Yo utilicé [Paisa](https://paiza.io/en/languages/online-c-compiler) para compilar online, me dio flojera investigar como se hacía en mac jaja
 
-* **edwintrumpet** (2)
+* **edwintrumpet** (2) [981940](https://platzi.com/comentario/981940/) 
 
-	
 	 **Implementación completa de Queue**  
 	Se vacia y se llena de forma dinámica.
 	
-	  * **`enQueue()`:** Inserta un nuevo valor
-	  * **`deQueue()`:** Devuelve el valor en cola
-	  * **`size()`:** Nos muestra cuántos elementos tenemos almacenados en el queue
-	  * **`isEmpty()`:** Nos muestra si el queue está vacío
-	  * **`isFull()`:** Nos muestra si el queue está lleno
+	* **`enQueue()`:** Inserta un nuevo valor
+	* **`deQueue()`:** Devuelve el valor en cola
+	* **`size()`:** Nos muestra cuántos elementos tenemos almacenados en el queue
+	* **`isEmpty()`:** Nos muestra si el queue está vacío
+	* **`isFull()`:** Nos muestra si el queue está lleno
 	
 	
 	``` 
@@ -10599,12 +9405,11 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [977240](https://platzi.com/comentario/977240/) 
 
-	
 	Se debe tener muy buen manejo de los códigos para la estructuración del problema.
 
-* **16angiec** (2)
+* **16angiec** (2) [968945](https://platzi.com/comentario/968945/) 
 
 	```
 	    **#include <stdio.h>
@@ -10669,14 +9474,12 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-* **adolfosimbronmalpica** (2)
+* **adolfosimbronmalpica** (2) [870804](https://platzi.com/comentario/870804/) 
 
-	
 	hola que tal un gran saludo a todos mi solución a el reto fue que al mismo código del Ing. celis antes de la linea 39 donde hace el incremento de la variable front (front++), inserte la variable rear con decremento( rear–) para que cada vez que se elimine un turno se pueda insertar otro, bueno buena suerte a todos.
 
-* **Alexander Henry Obispo Buendia** (2)
+* **Alexander Henry Obispo Buendia** (2) [844486](https://platzi.com/comentario/844486/) 
 
-	
 	Código
 	``` 
 	    #include <stdio.h>
@@ -10728,9 +9531,8 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-* **aarongabriel420** (2)
+* **aarongabriel420** (2) [753419](https://platzi.com/comentario/753419/) 
 
-	
 	Aquí esta mi solución al reto hecha en python (soy nuevo en este lenguaje si alguien sabe como podría optimizar mi código leeré su respuesta mucho gusto)
 	``` 
 	    # Declaracion de constantes
@@ -10831,9 +9633,8 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-* **Eduardo Antonio Rivero Rivera** (2)
+* **Eduardo Antonio Rivero Rivera** (2) [669987](https://platzi.com/comentario/669987/) 
 
-	
 	Me gusto mucho como quedo mi código, deje una secuencia de llamadas a las funciones que prueban todos los casos posibles. Ojala a alguien le ayude, tienen dudas no duden en ponerlo en los comentarios Saludos!
 	``` 
 	    /* Para crear una Queue debemos seguir los siguientes pasos:
@@ -10924,14 +9725,12 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [669987] (2)
 
-		
 		Excelente! Muy legible y buen uso del bello C!
 
-* **Alexander Armúa Abregu** (2)
+* **Alexander Armúa Abregu** (2) [667453](https://platzi.com/comentario/667453/) 
 
-	
 	No me gusta mucho redireccionar toda la memoria, pero es la forma mas rapida que se me ocurrió a las 05:00 am 😛.  
 	Básicamente, cuando se elimina un elemento en lugar de hacer `front++;` opto por hacer `rear--;`, de ese modo el front siempre queda apuntando a 0 y luego de quitar un elemento de front, para que el mismo no muestre un valor que se eliminó, recorro la lista de elementos y los muevo a la izquierda.
 	
@@ -11002,28 +9801,25 @@ No olvides realizar el reto de esta clase.
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [667453] (2)
 
-		
 		Es una excelente solución y muy buena abstracción al problema
 
-* **Brandon Ramirez** (2)
+* **Brandon Ramirez** (2) [84573](https://platzi.com/comentario/1053560/) 
 Alguien me puede decir como sirve la consola de ubuntu en windows??
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [84573] (1)
 
-		
 		Hola! Lo que hace es tener el Kernel de Linux corriendo dentro de Windows de manera super eficiente, haciendo posible ejecutar todo tipo de comandos Linux desde Windows 😄
 
-* **Meliodas222** (2)
+* **Meliodas222** (2) [76773](https://platzi.com/comentario/892801/) 
 Tu sabes fue muy buena esta sección.
 
-* **SamDad** (2)
+* **SamDad** (2) [60340](https://platzi.com/comentario/604150/) 
 Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he eliminado el front de la ecuación para que siempre el deq...
 
-	* **SamDad** (2)
+	* **SamDad** [60340] (2)
 
-		
 		en un codigo que intenté anterior, en los casos de mi switch hice otro codigo:
 		``` 
 		    case x:
@@ -11038,9 +9834,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 		No acabo de entender porque despues de esto, cada vez que llamo a dequeue(), me devuelve 1;  
 		no mueve la cola con el bucle for, y si asignando los valores items[x] = items[x+1] a mano.
 
-* **Byron Miguel Piedrahita Hernandez** (1)
+* **Byron Miguel Piedrahita Hernandez** (1) [1099705](https://platzi.com/comentario/1099705/) 
 
-	
 	Código dinámico para la Queue.
 	
 	#include<stdio.h>  
@@ -11082,9 +9877,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	return 0;  
 	}
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089421](https://platzi.com/comentario/1089421/) 
 
-	
 	Le queue dinámico programado en Java;
 	``` 
 	    public class Queue
@@ -11140,9 +9934,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [1057385](https://platzi.com/comentario/1057385/) 
 
-	
 	Aporte en Javascript de mi código final.
 	``` 
 	    <script>
@@ -11212,36 +10005,32 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **resumidito** (1)
+* **resumidito** (1) [1055127](https://platzi.com/comentario/1055127/) 
 
-	
 	lo pude ordenar de esta forma  
 	![Captura de pantalla de 2020-03-22 13-00-16.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-22%2013-00-16-1dd1ad2d-abdb-4273-8441-92e5c6766d68.jpg)
 	
 	aqui esta el codigo en c  
 	![Captura de pantalla de 2020-03-22 13-04-35.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-22%2013-04-35-c821e938-5f0e-45de-830e-c152f9e1fc55.jpg)
 
-* **resumidito** (1)
+* **resumidito** (1) [1053245](https://platzi.com/comentario/1053245/) 
 
-	
 	ayuda en la terminal de ubuntu me sale este error  
 	![Captura de pantalla de 2020-03-21 16-10-51.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-21%2016-10-51-ce43ebc1-d464-48e8-8a1e-9e3f08867bf1.jpg)
 
-	* **Arturo O. Téllez** (1)
+	* **Arturo O. Téllez** [1053245] (1)
 
-		
 		Quiere decir que el archivo no se encuentra en ese directorio/carpeta. Debes de dirigirte a la carpeta donde lo hayas guardado. Para moverte entre directorios utiliza el comando $cd
 		
 		Y para ver lo que hay en ese drectorio el comando $ls.
 		
 		Una búsqueda de cinco minutos en Google para que puedas ver como usar bien los comandos 😃
 
-	* **resumidito** (1)
+	* **resumidito** [1053245] (1)
 
-		
 		muchas gracias Arturo
 
-* **Gabospa** (1)
+* **Gabospa** (1) [1053148](https://platzi.com/comentario/1053148/) 
 
 	```
 	    #include<stdio.h>
@@ -11277,9 +10066,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1050654](https://platzi.com/comentario/1050654/) 
 
-	
 	Exceptúo el main porque puede variar dependiendo de lo que quieran hacer, pero el código de acá es el que maneja los queues. Básicamente, en vez de correr el front atrás corro el rear adelante y dejo espacio atrás. Es como que en un cine en vez de avanzar la cola avance la recepción (no tiene sentido) por ende el front siempre vale 0 a excepción de cuando el queue está vacío.
 	``` 
 	    #include<stdio.h>
@@ -11332,16 +10120,14 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1047178](https://platzi.com/comentario/1047178/) 
 
-	
 	lo compile y ejecute on line la consola de ubunto no se como se hace si alguno por favor sabe se lo agradezco, si me funciono pero quiero saber como lo hago desde la consola
 	
 	![salida del programa queue.PNG](https://static.platzi.com/media/user_upload/salida%20del%20programa%20queue-323ee229-6757-4465-8929-7d87a036a87c.jpg)![error consola.PNG](https://static.platzi.com/media/user_upload/error%20consola-e0c97bb9-8ea0-4808-9827-2d0fa2e6eb1c.jpg)
 
-* **Mateo Gonzales Navarrete** (1)
+* **Mateo Gonzales Navarrete** (1) [1039514](https://platzi.com/comentario/1039514/) 
 
-	
 	Lo malo con el codigo aqui implementado es que solo se puede alternar entre llenar y vaciar; es decir, no podemos insertar y remover elementos de manera dinamica (Como en el video, aunque elimino uno, el programa le seguia diciendo que estaba lleno. Por esto, tenia que vaciar todo el queue para poder volver a insertar mas elementos). Aqui les dejo un codigo en C++ que es bastante parecido pero que permite llenar y vaciar el Queue de manera dinamica.
 	``` 
 	    #include <iostream>
@@ -11414,18 +10200,17 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [1039050](https://platzi.com/comentario/1039050/) 
 
-	
 	He querido darle una vuelta al ejemplo.
 	
-	  * La Queue, en este caso recibe cadenas de caracteres 
-	    * Usando un array 2D
-	  * La Queue es un user-defined data type a partir de un `struct`
-	  * La función `deQueue()` mueve todos los valores del array a la izquierda y limpia las posiciones previas.
-	  * `deQueue()` devuelve el valor del primer elemento
-	  * Eliminado el uso de `front`.
-	  * Función `queueCreate()` para crear las colas.
+	* La Queue, en este caso recibe cadenas de caracteres 
+	  * Usando un array 2D
+	* La Queue es un user-defined data type a partir de un `struct`
+	* La función `deQueue()` mueve todos los valores del array a la izquierda y limpia las posiciones previas.
+	* `deQueue()` devuelve el valor del primer elemento
+	* Eliminado el uso de `front`.
+	* Función `queueCreate()` para crear las colas.
 	
 	
 	``` 
@@ -11539,7 +10324,7 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **espar3v** (1)
+* **espar3v** (1) [1038768](https://platzi.com/comentario/1038768/) 
 
 	```
 	    #include <stdio.h>
@@ -11588,9 +10373,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1037623](https://platzi.com/comentario/1037623/) 
 
-	
 	Esta es mi solución al reto. Es bastante simple pero sirve. realmente no elimina los elementos digamos que “engaña” al programa y esto lo puedes ver con la función que te deje “printArray()”. Si tienes cualquier duda sobre el código no dudes en escribirme respondiendo a este aporte.
 	``` 
 	    #include"stdio.h"
@@ -11675,21 +10459,18 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1030524](https://platzi.com/comentario/1030524/) 
 
-	
 	Buenas noches, alguien me puede ayudar con el código, pues solo me ejecuta la parte de el Queue esta vació y no me ejecuta “se agrego correctamente” o “nuestro Queue esta lleno”. Alguien podría ayudarme, Gracias.
 	
 	![queue terminado.PNG](https://static.platzi.com/media/user_upload/queue%20terminado-7048adbb-1cb5-416d-bfda-b73a6d703be7.jpg) ![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-47d693eb-713e-4e88-834e-243bc0ba9839.jpg)
 
-	* **Jorge Jesus Handal Doblado** (1)
+	* **Jorge Jesus Handal Doblado** [1030524] (1)
 
-		
 		quizás no compilaste de nuevo el código antes de ejecutarlo
 
-	* **clozarr** (1)
+	* **clozarr** [1030524] (1)
 
-		
 		Paola, el código no está identado correctamente, por lo tanto, la instrucción de agregar el elemento en el Queue quedó dentro del if, por ende nunca se cumple la condición, porque siempre queda vacío. Revisa todas las identaciones.
 		``` 
 		    voidenQueue(intvalue){
@@ -11711,9 +10492,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 		    
 		```
 
-* **uncristianr** (1)
+* **uncristianr** (1) [1023935](https://platzi.com/comentario/1023935/) 
 
-	
 	Buen día,
 	
 	Estoy intentando realizar el ejercicio en python pero el resultado me dice que se agregó none, no comprendo el motivo, alguno podría ayudarme?
@@ -11722,17 +10502,15 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	[Google colab research](https://colab.research.google.com/drive/1hRme3DcKCkZv9PvySf2qUgF9CIgsF8r1)
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023935] (1)
 
-		
 		Prueba reescribiendo esta línea  
 		`value = VALUES.append([REAR])`  
 		asi  
 		`value = VALUES.append(REAR)`
 
-* **Stanley Smtih Melo Fontalvo** (1)
+* **Stanley Smtih Melo Fontalvo** (1) [1023534](https://platzi.com/comentario/1023534/) 
 
-	
 	Hola a todos:
 	
 	Tengo un problema. Al momento de compilar el programa lo hace correctamente, pero en tiempo de ejecucipon me dice que no puede referenciar el main. A continuación el error de la consola:
@@ -11742,12 +10520,11 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	Agradezco la ayuda que me puedan brindar
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [1023534] (1)
 
-		
 		Qué sistema operativo usas?
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1011391](https://platzi.com/comentario/1011391/) 
 
 	```
 	    #include <stdio.h>
@@ -11805,47 +10582,42 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Dario Candia** (1)
+* **Dario Candia** (1) [988392](https://platzi.com/comentario/988392/) 
 
-	
 	La forma más sencilla que pude hacer.  
 	Con algunas funciones adicionales.  
 	![cola.png](https://static.platzi.com/media/user_upload/cola-f20f35b8-8193-4523-9885-851d012a32db.jpg)
 
-* **joseburgon** (1)
+* **joseburgon** (1) [983354](https://platzi.com/comentario/983354/) 
 
-	
 	Algo que no entiendo es porque en deQueue() en ningún momento se elimina el valor del array, sólo se actualizan los valores de front y rear, lo cual apenas es la mitad del trabajo de la función.
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [978544](https://platzi.com/comentario/978544/) 
 
-	
 	¡Que genial!, es muy chevere cuando vamos poniendo en práctica la teoría adquirida en los capítulos anteriores del curso.
 
-* **Ricardo Andres Rojas Alonso** (1)
-![queue.c — C__Users_Ricardo Rojas_Documents_Platzi — Atom 10_02_2020 10_59_00 p. m..png](https://static.platzi.com/media/user_upload/queue.c%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%2010_02_2020%2010_59_00%20p.%20m.-7bdbe465-9bde-49d6-aa53-4b8b2a761326.jpg)
-
-* **Julio Cesar Cuevas Cardenas** (1)
-
+* **Ricardo Andres Rojas Alonso** (1) [978529](https://platzi.com/comentario/978529/) 
 	
+	![queue.c — C__Users_Ricardo Rojas_Documents_Platzi — Atom 10_02_2020 10_59_00 p. m..png](https://static.platzi.com/media/user_upload/queue.c%20%E2%80%94%20C__Users_Ricardo%20Rojas_Documents_Platzi%20%E2%80%94%20Atom%2010_02_2020%2010_59_00%20p.%20m.-7bdbe465-9bde-49d6-aa53-4b8b2a761326.jpg)
+
+* **Julio Cesar Cuevas Cardenas** (1) [977783](https://platzi.com/comentario/977783/) 
+
 	Como puedo compilar el codigo que hice en Visual SC , ya que utilizo el bash de Ubuntu tal cual lo hace Ricardo en la clase pero siempre me aparece el error No such file or directory
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [977783] (1)
 
-		
 		Hola! Puede que no estés en el directorio correcto dentro de la terminal nos puedes mostrar el error? 😄
 
-* **wilmaryoanmalavermalaver** (1)
+* **wilmaryoanmalavermalaver** (1) [973920](https://platzi.com/comentario/973920/) 
 
-	
 	Wow esta super el curso y hacer codigo en C esta genial.
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-07 14-37-10.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-07%2014-37-10-e3bb5358-c7c4-4408-9873-091016f2f5e2.jpg)
-
-* **Julio Cesar Estrada Marcial** (1)
-
+* **Angie Garcia** (1) [972379](https://platzi.com/comentario/972379/) 
 	
+	![Captura de pantalla de 2020-02-07 14-37-10.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-07%2014-37-10-e3bb5358-c7c4-4408-9873-091016f2f5e2.jpg)
+
+* **Julio Cesar Estrada Marcial** (1) [971610](https://platzi.com/comentario/971610/) 
+
 	GOLANG
 	``` 
 	    package main
@@ -11908,14 +10680,14 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Juan Luis Chavez Manjarres** (1)
-![Queue.JPG](https://static.platzi.com/media/user_upload/Queue-0370b10b-44db-493c-a3e7-cfe6be0db478.jpg)
+* **Juan Luis Chavez Manjarres** (1) [967169](https://platzi.com/comentario/967169/) 
+	
+	![Queue.JPG](https://static.platzi.com/media/user_upload/Queue-0370b10b-44db-493c-a3e7-cfe6be0db478.jpg)
 	
 	Logre el reto 😃
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [966687](https://platzi.com/comentario/966687/) 
 
-	
 	#include<stdio.h>  
 	#define SIZE 5  
 	int values[SIZE], front = -1, rear= -1;
@@ -11970,14 +10742,12 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	Lo intente varias veces pero no logro encontrar el error, si alguien me puede colaborar le agradeceria muchisimo.
 
-	* **wilmaryoanmalavermalaver** (1)
+	* **wilmaryoanmalavermalaver** [966687] (1)
 
-		
 		Ok revise tu codigo y lo unico que falla es lo siguiente son las comillas que estas utilizando detron de los printf(“deben ser estas comillas”), y estas utilizando estas printf(““) no se si alcanzar a notar la diferencia, en todo caso utiliza shif + 2 para las comillas correctas. espero te sirva de resto todo esta bien…
 
-* **Oscar Garcia** (1)
+* **Oscar Garcia** (1) [965647](https://platzi.com/comentario/965647/) 
 
-	
 	Compartó el reto, no le cambié mucho en realidad y funcionadinamicamente:  
 	#include<stdio.h>  
 	#define SIZE 5
@@ -12028,9 +10798,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	return 0;  
 	}
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [965592](https://platzi.com/comentario/965592/) 
 
-	
 	Logré el reto. 😄
 	
 	Al hacer deQueue() muevo todos los valores a una posición menor. De igual forma recorró el front y rear una posición menor con su pointer.
@@ -12112,16 +10881,14 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **enriqueorozcog** (1)
+* **enriqueorozcog** (1) [961886](https://platzi.com/comentario/961886/) 
 
-	
 	Poniendo en practica lo aprendido del Curso de prog.basica, la solucion del reto fue en Javascript y en base al ejemplo del usuario @89hernangiraldo, pueden ver el codigo y de forma grafica la implementacion de enQueue y deQueue en el sig. enlace:
 	
 	<https://repl.it/@enriqueorozcog/queueDinamico>
 
-* **Edison_Avila** (1)
+* **Edison_Avila** (1) [948386](https://platzi.com/comentario/948386/) 
 
-	
 	Para solucionar el reto, inicialmente dejo fijo front en 0 y cada vez que se ejecute deQueue re-diseño el array con un ciclo for
 	``` 
 	    void edQueue ()
@@ -12149,7 +10916,7 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Edwin Yovany Orbes Villacorte** (1)
+* **Edwin Yovany Orbes Villacorte** (1) [938098](https://platzi.com/comentario/938098/) 
 
 	```
 	    #include<stdio.h>
@@ -12210,29 +10977,24 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **8ajorgel** (1)
+* **8ajorgel** (1) [934263](https://platzi.com/comentario/934263/) 
 
-	
 	Tengo instalado Ubuntu y todo pero no puede ejecuatar el programa como lo muestran
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [934263] (1)
 
-		
 		Hola! Que error te aparece? Danos más información y así te ayudaremos más fácilmente 😄
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [931452](https://platzi.com/comentario/931452/) 
 
-	
 	no he podido ejecutar en la consola de ubuntu
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [931452] (1)
 
-		
 		Hola! Nos puedes mostrar que aparece? De esta manera te podremos ayudar más fácilmente 😄
 
-* **tekan** (1)
+* **tekan** (1) [920219](https://platzi.com/comentario/920219/) 
 
-	
 	Yo solo he agregado esto al final de la función enQueue para que borre y añada más elementos en la misma operación, aunque obviamente el aviso de que nuestro array está lleno ya no aparecerá.
 	``` 
 	    if(rear == SIZE-1)
@@ -12287,9 +11049,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Luis Angel José Portillo Arévalo** (1)
+* **Luis Angel José Portillo Arévalo** (1) [913920](https://platzi.com/comentario/913920/) 
 
-	
 	Mi solucion fue, en vez de mover el puntero de front, mover los valores que van desde el front hasta el rear una posicion menos sobreescribiendo la posicion del front que es el primer valor en salir, restando uno al rear y permitiendo al rear seguir aumentando con el enQueue.
 	
 	Adicionalmente el ciclo rellena con 0 las posiciones que se encuentran despues del rear.
@@ -12363,9 +11124,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **ivnxyz** (1)
+* **ivnxyz** (1) [900574](https://platzi.com/comentario/900574/) 
 
-	
 	Aquí está mi solución
 	``` 
 	    // Importar librerías
@@ -12458,9 +11218,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-	* **arlex_ee10** (1)
+	* **arlex_ee10** [900574] (1)
 
-		
 		Hola, donde escribiste este codigo en el switch
 		``` 
 		    default:
@@ -12471,9 +11230,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 		te explico:  
 		DEFAULT: sirve para decirle al switch si no encuentra la comparación en el CASE que ejecute el DEFAULT,
 
-* **Daniel Mauricio Ramírez Castaño** (1)
+* **Daniel Mauricio Ramírez Castaño** (1) [882471](https://platzi.com/comentario/882471/) 
 
-	
 	Esta es mi solución, funciona como una fila común.  
 	En el momento en que se ejecuta el **deQueue()** , los demás valores se desplazan un registro de memoria a la izquierda’, ocupando los espacios de memoria vacíos en el arreglo:
 	``` 
@@ -12546,9 +11304,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (1)
+* **Steve Anthony Luzquiños Agama** (1) [881980](https://platzi.com/comentario/881980/) 
 
-	
 	Mi solución en C, creando una cola “dinámica”:
 	``` 
 	    #include <stdio.h>
@@ -12612,7 +11369,7 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [879794](https://platzi.com/comentario/879794/) 
 
 	```
 	    #include<stdio.h>
@@ -12668,7 +11425,7 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [878570](https://platzi.com/comentario/878570/) 
 
 	```
 	    #include<stdio.h>
@@ -12727,7 +11484,7 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **sgomez2113** (1)
+* **sgomez2113** (1) [875438](https://platzi.com/comentario/875438/) 
 
 	```
 	    #include <stdio.h>
@@ -12788,9 +11545,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [867861](https://platzi.com/comentario/867861/) 
 
-	
 	Versión en kotlin. Sin trampas, sin mover todos los elementos cada vez que se saca alguno. E incluso se puede hacer de cualquier tamaño deseado.
 	``` 
 	    interface QueueAdt<T> {
@@ -12941,14 +11697,12 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **DUFP** (1)
+* **DUFP** (1) [864033](https://platzi.com/comentario/864033/) 
 
-	
 	me podrían recomendar una lectura sobre esto? es que no le entendí muy bien ;S
 
-* **Samar Jaffal** (1)
+* **Samar Jaffal** (1) [863383](https://platzi.com/comentario/863383/) 
 
-	
 	Solucion al reto: Yo lo hice con Java, aquí les dejo mi código.  
 	Adelante con las pruebas!  
 	Adicional imprime lo que trae el queue.
@@ -13027,14 +11781,12 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	![queue exercise.png](https://static.platzi.com/media/user_upload/queue%20exercise-3c0a34fa-f4ba-403f-96b7-fd3ec6ec89d5.jpg)
 
-* **freddymm** (1)
+* **freddymm** (1) [855120](https://platzi.com/comentario/855120/) 
 
-	
 	Si están escribiendo el programa en C, me gustaría aconsejarles el uso de la función fflush() para limpiar el buffer de lo contrario posiblemente le genere errores al momento de imprimir la información en pantalla, particularmente a mí en el ciclo while de la función main imprimía dos veces los dos primeros **printf()**
 
-* **freddymm** (1)
+* **freddymm** (1) [855116](https://platzi.com/comentario/855116/) 
 
-	
 	 **Reto**  
 	para resolver el reto solo hay que modificar la funcion deQueue para que siempre imprima el valor que esta en el indice 0 del array y ademas que reescriba cada indice del array cada vez que se imprime un valor, lo cual se puede hacer con un ciclo **for** y claro no olvidar actualizar el valor de rear a una posicion anterior en el indice quedando asi en C:
 	``` 
@@ -13102,9 +11854,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [850726](https://platzi.com/comentario/850726/) 
 
-	
 	Solución al reto en JS  
 	
 	``` 
@@ -13128,9 +11879,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Davic64** (1)
+* **Davic64** (1) [846224](https://platzi.com/comentario/846224/) 
 
-	
 	Mi respuesta al reto
 	``` 
 	    #include <stdio.h>
@@ -13179,23 +11929,20 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Raúl Armas** (1)
+* **Raúl Armas** (1) [843569](https://platzi.com/comentario/843569/) 
 
-	
 	Me funcionó pero no entendí cuando explicó el algoritmo. Ni tampoco entiendo por qué los valores de -1, ni la relación entre rear y front y se ve que esto es útil 😕
 
-	* **sgomez2113** (1)
+	* **sgomez2113** [843569] (1)
 
-		
 		Por ejemplo [1,2,3,4,5]
 		
 		front es el inicio de la cola(1) y rear es el final de la cola (5)
 		
 		👍
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [843542](https://platzi.com/comentario/843542/) 
 
-	
 	Esta es mi solución al reto en Java:
 	``` 
 	    class Queue {
@@ -13236,19 +11983,16 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **paulmejiamendoza** (1)
+* **paulmejiamendoza** (1) [840075](https://platzi.com/comentario/840075/) 
 
-	
 	muy mal…no me entero de nada…fatal por mi parte
 
-	* **Cristhian Franco** (1)
+	* **Cristhian Franco** [840075] (1)
 
-		
 		Dinos que fue lo que no entendiste, aqui nos ayudamos entre todos.
 
-* **Jorge Arango** (1)
+* **Jorge Arango** (1) [834623](https://platzi.com/comentario/834623/) 
 
-	
 	Esta es la implementaión del ADT en JS, pero al menos hasta este punto, la variable front no fue realmente necesaria. Y con un array como implimentación del queue, creería que no sería necesario.
 	``` 
 	    class Queue{
@@ -13292,12 +12036,11 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [828053](https://platzi.com/comentario/828053/) 
 
-	
 	en la clase pasada publiqué un queue que solo utiliza el valor del rear pero funciona correctamente, la solución que encontré fue modificar los rear y front cada que se ingresa a la función de dequeue y usar la condición rear mayor a -1 para poder borrar
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [818100](https://platzi.com/comentario/818100/) 
 
 	```
 	    using System;
@@ -13370,9 +12113,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [803121](https://platzi.com/comentario/803121/) 
 
-	
 	Mi código en C de Queue dinámica:
 	``` 
 	    #include<stdio.h>
@@ -13422,14 +12164,12 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-	* **alexander garcia castañeda** (1)
+	* **alexander garcia castañeda** [803121] (1)
 
-		
 		c interpreta values[front] como un borrado? porque si no es así, este código en realidad no está borrando nada
 
-* **Alvaroso** (1)
+* **Alvaroso** (1) [800661](https://platzi.com/comentario/800661/) 
 
-	
 	Mi código en c, con un Queue totalmente dinámico
 	``` 
 	    #include <stdio.h>
@@ -13501,26 +12241,24 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **jose Ignacio Hidalgo Chacin** (1)
+* **jose Ignacio Hidalgo Chacin** (1) [788837](https://platzi.com/comentario/788837/) 
 
-	
 	excelente forma de explicar me encanta!!!
 	
 	gracias ricardo
 
-* **jose Ignacio Hidalgo Chacin** (1)
-![2019-10-20.png](https://static.platzi.com/media/user_upload/2019-10-20-31f4c91e-17dd-4279-b232-4dae878583d4.jpg)
-
-* **jose Ignacio Hidalgo Chacin** (1)
-
+* **jose Ignacio Hidalgo Chacin** (1) [788835](https://platzi.com/comentario/788835/) 
 	
+	![2019-10-20.png](https://static.platzi.com/media/user_upload/2019-10-20-31f4c91e-17dd-4279-b232-4dae878583d4.jpg)
+
+* **jose Ignacio Hidalgo Chacin** (1) [788813](https://platzi.com/comentario/788813/) 
+
 	Buenas noches.
 	
 	pero en el codigo en si solo vemos lo que queremos ver, ya que cuando hacemos el deQueue no estamos eliminando realmente el primo en cola, ni siquiera se elimina solo lo dice aunque hagas 100 mil veces deQueue. xq me engañas :’(
 
-* **albertodanielcastillomendoza** (1)
+* **albertodanielcastillomendoza** (1) [787838](https://platzi.com/comentario/787838/) 
 
-	
 	Cosas que agregué:  
 	-Si al agregar, front es mayor a 0, restale 1.  
 	-Al eliminar restale uno a rear.  
@@ -13597,9 +12335,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Michelle98** (1)
+* **Michelle98** (1) [784399](https://platzi.com/comentario/784399/) 
 
-	
 	En c# me di cuenta que sólo tengo que hacer una instancia de la clase “Queue” para poder implementarla y así usarla.
 	``` 
 	    Queue qt = new Queue();
@@ -13621,14 +12358,12 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-	* **Michelle98** (1)
+	* **Michelle98** [784399] (1)
 
-		
 		o sea, no tengo que hacer la clase y los metodos directamente.
 
-* **efrainjaimes** (1)
+* **efrainjaimes** (1) [780509](https://platzi.com/comentario/780509/) 
 
-	
 	Solucion en JavaScript
 	``` 
 	    const SIZE = 5;
@@ -13697,9 +12432,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **JONATAN CADAVID TORRES** (1)
+* **JONATAN CADAVID TORRES** (1) [769817](https://platzi.com/comentario/769817/) 
 
-	
 	implementacion Queue en Python con el Desafio resuelto:
 	``` 
 	    <values = []
@@ -13792,9 +12526,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	Nuestro Queue esta vacio
 
-	* **Manuel Rivera** (1)
+	* **Manuel Rivera** [769817] (1)
 
-		
 		Tienes varios bugs bro, uno de ellos es que si ingresas un valor y luego le das eliminar 2 valores, debería decirte que el Queve esta vacío, pero te sale otra cosa y si empiezas eliminando te debería decir que el Queve esta vacío y te sale otra cosa, trate de corregirlo pero aún sigo teniendo algunos bugs, mas pequeños pero aun hay.
 		``` 
 		    const CUPO_DE_USUARIOS = 3
@@ -13842,19 +12575,18 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 		enQueve()  
 		Solamente supero hasta el Queve(6), después el codigo falla, intenta con esas pruebas en tu codigo y fallaras en la primera acción```
 
-* **José B. Méndez Padín** (1)
-![queue.png](https://static.platzi.com/media/user_upload/queue-2972060b-dd21-4431-a471-345f2679650b.jpg)
-
-* **Jaziel David Flores Rodríguez** (1)
-
+* **José B. Méndez Padín** (1) [756882](https://platzi.com/comentario/756882/) 
 	
+	![queue.png](https://static.platzi.com/media/user_upload/queue-2972060b-dd21-4431-a471-345f2679650b.jpg)
+
+* **Jaziel David Flores Rodríguez** (1) [752816](https://platzi.com/comentario/752816/) 
+
 	Vaya es una buena intro para entender cómo funciona, necesitaba saber  
 	como se implementa con listas Ligadas, pero me ayudó mucho a entender las  
 	bases. Les dejo la implementación con listas ligadas.
 
-* **estebanlopezcasian** (1)
+* **estebanlopezcasian** (1) [742109](https://platzi.com/comentario/742109/) 
 
-	
 	No entendí del todo la clase, asi que investigue en otros lados, y este es el código que implemente, que les parece? :3
 	``` 
 	    <?php
@@ -13885,10 +12617,10 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	        }
 	    
 	        /**
-	        * Add an item to the queue.
+	      * Add an item to the queue.
 	        *
-	        * @param int $value
-	        * @return void
+	      * @param int $value
+	      * @return void
 	        */
 	        public function enQueue( int $value ): void
 	        {
@@ -13908,9 +12640,9 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	        }
 	    
 	        /**
-	        * Remove an item from the queue.
+	      * Remove an item from the queue.
 	        *
-	        * @return void
+	      * @return void
 	        */
 	        public function deQueue(): void 
 	        {
@@ -13934,9 +12666,9 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	    
 	        /**
-	        * See the data at the front of of the queue.
-	        * 
-	        * @return int
+	      * See the data at the front of of the queue.
+	      * 
+	      * @return int
 	        */
 	        public function peek(): int
 	        {
@@ -13944,9 +12676,9 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	        }
 	    
 	        /**
-	        * Check if the queue is full.
+	      * Check if the queue is full.
 	        *
-	        * @return bool
+	      * @return bool
 	        */
 	        private function isFull(): bool
 	        {
@@ -13954,9 +12686,9 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	        }
 	    
 	        /**
-	        * Check if the queue is empty. 
+	      * Check if the queue is empty. 
 	        *
-	        * @return bool
+	      * @return bool
 	        */
 	        private function isEmpty(): bool
 	        {
@@ -13984,28 +12716,24 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-	* **estebanlopezcasian** (1)
+	* **estebanlopezcasian** [742109] (1)
 
-		
 		Si, use php cx !
 
-* **fredic yohany rojas** (1)
+* **fredic yohany rojas** (1) [725539](https://platzi.com/comentario/725539/) 
 
-	
 	Me doy por vencido en la programación.
 
-	* **Alenri** (3)
+	* **Alenri** [725539] (3)
 
-		
 		Animo, no es facil, pero con esfuerzo se puede, te recomiendo que no veas tantas clases sino que hagas proyectos reales con lo aprendido y asi generaras bases para seguir aprendiendo
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [711837](https://platzi.com/comentario/711837/) 
 
-	
 	Primero paso a dar una pequeña devolución de lo que me esta pareciendo el curso.  
 	**¡Me encanta!** La forma de presentar la teoría y acompañarla con la practica es genial. Me gusta sobre todo comprender la raíz de muchos aspectos que por ahi podemos obtener de otros lados ya hecho pero lograr comprender y sobre todo hacerlo nosotros mismo. Y ahí comento en mi propio comentario para pasar el desafió, espero una pronta devolución profe!
 
-	* **Gtiseira** (1)
+	* **Gtiseira** [711837] (1)
 
 		```
 		    #include<stdio.h>
@@ -14070,9 +12798,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 		    
 		```
 
-* **Luis Eduardo Quiroga Esparza** (1)
+* **Luis Eduardo Quiroga Esparza** (1) [705845](https://platzi.com/comentario/705845/) 
 
-	
 	El siguiente codigo en C puede agregar y eliminar valores cuando sea sin error alguno 😃
 	``` 
 	    //front = Siempre es la posicion 0 ->dequeue
@@ -14145,9 +12872,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Lucar96** (1)
+* **Lucar96** (1) [695880](https://platzi.com/comentario/695880/) 
 
-	
 	Así de momento deje mi humilde código :3.
 	``` 
 	    #include <stdio.h>
@@ -14235,9 +12961,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Enzo Díaz** (1)
+* **Enzo Díaz** (1) [695110](https://platzi.com/comentario/695110/) 
 
-	
 	Esta es mi implementación en Javascript. Tiene la opción de ser de tipado fuerte o no, se puede mejorar igual.  
 	No necesita front ni rear.  
 	­  
@@ -14249,9 +12974,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	<https://gist.github.com/EnzoDiazDev/fe7476d98e65df4d9365af0cc65028e8>
 
-* **Miguel Angel Guerrero Salinas** (1)
+* **Miguel Angel Guerrero Salinas** (1) [691969](https://platzi.com/comentario/691969/) 
 
-	
 	Esto se llena rapido de respuesta pero mejore el imprimirlo xd.
 	``` 
 	    classQueue:
@@ -14305,9 +13029,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Miguel Angel Guerrero Salinas** (1)
+* **Miguel Angel Guerrero Salinas** (1) [691965](https://platzi.com/comentario/691965/) 
 
-	
 	Esto fue en Python.  
 	Me siento orgulloso de la función de imprimir.
 	``` 
@@ -14353,9 +13076,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **RicardoRA19** (1)
+* **RicardoRA19** (1) [681220](https://platzi.com/comentario/681220/) 
 
-	
 	Mi codigo, ahora el algoritmo va a recorrer los valores cada vez que se elmine un elemento de la lista, es decir si se hace “dequeue” El elemento en la posicion 1 pasa a la posicion 0 y asi con cada elemento.
 	
 	Lo hice interactivo con un while unicamente para probarlo y si, efectivamente funciona bien 😄
@@ -14454,32 +13176,27 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [669779](https://platzi.com/comentario/669779/) 
 
-	
 	**En JS:**  
 	![Screen Shot 2019-07-30 at 7.43.08 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-30%20at%207.43.08%20AM-98b0381b-463b-433e-a28b-5bd6aba2056f.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [669779] (1)
 
-		
 		Wandy! Excelente trabajo =)
 
-* **Alan Santiago** (1)
+* **Alan Santiago** (1) [661266](https://platzi.com/comentario/661266/) 
 
-	
 	Con éstas funciones que hice se puede hacer un _debug_ completo y observar cómo se comporta la _queue_ con cada cambio, aparte de que se vuelve dinámica.
 	
 	![code_c_challenge.png](https://static.platzi.com/media/user_upload/code_c_challenge-507fc6a0-60ac-4cce-968c-2ae74cb9b5a8.jpg)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [661266] (2)
 
-		
 		Excelente trabajo Alan!
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [656784](https://platzi.com/comentario/656784/) 
 
-	
 	var array=[0,0,0,0,0];  
 	var front=-1;  
 	var rear=-1;
@@ -14531,22 +13248,19 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	deQueue();  
 	deQueue();
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [655968](https://platzi.com/comentario/655968/) 
 
-	
 	En realidad no elimina el valor del arreglo solo mueve el valor del indice para meterle otro valor.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [655968] (1)
 
-		
 		cómo eliminarías el valor parta mantener optimizado tu código?
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [655946](https://platzi.com/comentario/655946/) 
 
-	
 	pues pondría Nuestro Queue esta vacio
 
-* **AUGUSTO CACERES SUAREZ** (1)
+* **AUGUSTO CACERES SUAREZ** (1) [651571](https://platzi.com/comentario/651571/) 
 
 	```
 	    var array=[0,0,0,0,0];
@@ -14597,32 +13311,27 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **CarlosdavidZ** (1)
+* **CarlosdavidZ** (1) [650815](https://platzi.com/comentario/650815/) 
 
-	
 	![CodigoQueue.png](https://static.platzi.com/media/user_upload/CodigoQueue-c356adca-1739-4164-ba4d-a27068998f10.jpg)  
 	![PantallaQueue.png](https://static.platzi.com/media/user_upload/PantallaQueue-56ad912c-ede0-4cfa-b28b-6536e3a34c62.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [650815] (1)
 
-		
 		excelente trabajo! Muy limpio
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650784](https://platzi.com/comentario/650784/) 
 
-	
 	![](![code.png](https://static.platzi.com/media/user_upload/code-a4d3321a-2ba8-4b88-b961-b5f603f7e3a6.jpg)
 	
 	no comprendo mucho el reto, realmente quite los 5 datos y el ultimo que era 10 se ingreso correctamente, que más debe hacer?
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [650685](https://platzi.com/comentario/650685/) 
 
-	
 	Nada, si lo corremos no tendrá datos dentro de nuestro queue.
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [640145](https://platzi.com/comentario/640145/) 
 
-	
 	Hice el ejemplo en Java, mejore una cosas:
 	``` 
 	    public void enQueue(int value) {
@@ -14654,14 +13363,12 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	
 	Repositorio con el código completo: <https://github.com/VHugoBarnes/Algorithms/blob/master/src/algorithm_introduction/Queue.java>
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [640145] (1)
 
-		
 		excelente trabajo Hugo! Gracias
 
-* **Diego Alberto Quiroz García** (1)
+* **Diego Alberto Quiroz García** (1) [639650](https://platzi.com/comentario/639650/) 
 
-	
 	Me rompí la cabeza, pero quedó solucionado. Me está gustando C
 	``` 
 	    #include<stdio.h>
@@ -14735,9 +13442,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **jjuanleyva** (1)
+* **jjuanleyva** (1) [638446](https://platzi.com/comentario/638446/) 
 
-	
 	No voy a decir que extrañaba el ; en c/c++😤. Pero asi lo soluciones yo.✌
 	``` 
 	    #include <stdio.h>
@@ -14815,9 +13521,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [627578](https://platzi.com/comentario/627578/) 
 
-	
 	mi aporte en javascript
 	``` 
 	    <!DOCTYPE html>
@@ -14881,7 +13586,7 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [617972](https://platzi.com/comentario/617972/) 
 
 	```
 	    #include  <stdio.h>
@@ -14928,9 +13633,8 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Anfercode** (1)
+* **Anfercode** (1) [617522](https://platzi.com/comentario/617522/) 
 
-	
 	**RETO CUMPLIDO MAS UN PLUS**
 	
 	Aqui la solucion del Queue:
@@ -15052,65 +13756,59 @@ Al final he conseguido hacer la queue dinamica, funciona todo perfectamente, he 
 	    
 	```
 
-* **Rene Pazmiño** (1)
+* **Rene Pazmiño** (1) [84167](https://platzi.com/comentario/1044530/) 
 A parte del MinGW, ¿Qué otro compilador puedo usar? Tengo problemas con el comando gcc.
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [84167] (1)
 
-		
 		Si tenés algún problema con que no se detecta el paquete podes instalarlo desde la terminal con el comando sudo apt install gcc
 		
 		Previamente ejecuta estos comandos:  
 		sudo apt-get update  
 		sudo apt-get upgrade
 
-* **Maria_Perez** (1)
+* **Maria_Perez** (1) [81874](https://platzi.com/comentario/991983/) 
 Alguien me puede explicar que significa lo que va dentro de la función main? main (int argc, char const *argv[])
 
-	* **Antonio Foncubierta Vazquez** (1)
+	* **Antonio Foncubierta Vazquez** [81874] (1)
 
-		
 		Ahi dentro tienes que poner las funciones que quieres ejecutar ejemplo: enQueue(10) para insertar el numero 10 en el array!! Un saludo.
 
-* **MarianaGb** (1)
+* **MarianaGb** (1) [79910](https://platzi.com/comentario/949007/) 
 Estos son los errores que me aparecen en Ubuntu mariana79@DESKTOP-G4SFDVJ:~$ gcc mari.c -o mari.exe gcc: error: mari.c: No such file or d...
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [79910] (1)
 
-		
 		Hola! Es porque estás tratando de acceder a un archivo que no existe, estás segura de que tu estás ubicada en la carpeta correcta dentro de tu terminal? 😄
 
-* **José Francisco Cruz Camacho** (1)
+* **José Francisco Cruz Camacho** (1) [71608](https://platzi.com/comentario/800869/) 
 En la función enQueue cuando utiliza el printf e indica (“Se inserto el valor %d correctamente \n” , value) entiendo que escribirá el va...
 
-	* **Edison_Avila** (1)
+	* **Edison_Avila** [71608] (1)
 
-		
 		Francisco, no recuerdo bien la terminología pero la variable Values[] es global y por esto te puedes permitir usarla dentro del deQueue, enQueue y el main,  
 		Por otro lado ten en cuenta que una cosa es la variable **value** que pertenece unicamente a enQueue y otra es **Values[]** que corresponde al array que usas de forma global
 
-* **marcos64d** (1)
+* **marcos64d** (1) [70154](https://platzi.com/comentario/769758/) 
 Me funcionó agregando rear–; después de front++; en deQueue. void deQueue(){ if(front == -1) printf("Nuestro Queue esta...
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [58804](https://platzi.com/comentario/582111/) 
 Quisiera hacer mas practicas con las estructuras de datos, me pueden enviar mas retos, por favor.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [58804] (1)
 
-		
 		Hola william! Agregaré una lectura con ejercicios de ese tipo la próxima semana, a más tardar el jueves!
 
-* **René Sanchez** (1)
+* **René Sanchez** (1) [56449](https://platzi.com/comentario/552759/) 
 Muy buena la clase pero intentando hacer el reto pero no tengo idea del por que no se detiene 😦 si alguien me pueda ayudar /* 1 - C...
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [56449] (2)
 
-		
 		hola Skywolf! estoy revisando esto, quisiera saber si has probado algo nuevo en estos días?
 
-# Algoritmos de ordenamiento
+# Algoritmos de ordenamiento [3366]
 
-## 0200. Algoritmos de ordenamiento
+## 0200. Algoritmos de ordenamiento [17010](https://platzi.com/clases/1469-algoritmos/17010-algoritmos-de-ordenamiento6454/)
 
 ### Descripción:
 
@@ -15130,9 +13828,8 @@ Utiliza el paradigma divide and conquer, y va comparando desde las esquinas al c
 
 ### Comentarios:
 
-* **paola-diaz361** (5)
+* **paola-diaz361** (5) [1030601](https://platzi.com/comentario/1030601/) 
 
-	
 	ALGORITMOS DE ORDENAMIENTO:  
 	Es un algoritmo que se encarga de colocar en orden una secuencia dada y pueden ser números o letras.  
 	Un arreglo ordenado es un arreglo que tiene un orden específicamente definido. Ej. [a,b,c,d] = arreglo ordenado alfabéticamente, o [1,2,3,4,5] arreglo de números ordenados de menor a mayor.  
@@ -15152,24 +13849,20 @@ Utiliza el paradigma divide and conquer, y va comparando desde las esquinas al c
 	S= va a ser la secuencia de objetos ordenables (los números a ordenar).  
 	N= numero de elementos en S (secuencia de elementos a ordenar).
 
-	* **Daniel Mauricio Ramírez Castaño** (1)
+	* **Daniel Mauricio Ramírez Castaño** [1030601] (1)
 
-		
 		Excelente!
 
-* **asismelgarejo** (4)
+* **asismelgarejo** (4) [767121](https://platzi.com/comentario/767121/) 
 
-	
 	Estoy aquí para resolver mi tarea de Estructura de Datos xD
 
-* **Milton Andrés Sanabria** (4)
+* **Milton Andrés Sanabria** (4) [560776](https://platzi.com/comentario/560776/) 
 
-	
 	¿Ricardo podrías compartirnos los GIF de cada algoritmo? Están buenos para entender el funcionamiento.
 
-	* **mafevito** (13)
+	* **mafevito** [560776] (13)
 
-		
 		¡Hola Milton!
 		
 		Puedes encontrar esos gifs en Wikipedia con su respectiva explicación.  
@@ -15182,126 +13875,104 @@ Utiliza el paradigma divide and conquer, y va comparando desde las esquinas al c
 		
 		La explicación de QuickSort incluye otro Gif. Si quieres ver el de la clase, puedes verlo [aqui](https://upload.wikimedia.org/wikipedia/commons/9/9c/Quicksort-example.gif)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [560776] (1)
 
-		
 		Gracias Mafe!
 
-* **rigiba** (3)
+* **rigiba** (3) [988471](https://platzi.com/comentario/988471/) 
 
-	
 	No sabia que existian tantos lagoritmos de ordenamiento
 
-* **Leisy Karina Algarra Fernandez** (3)
+* **Leisy Karina Algarra Fernandez** (3) [966707](https://platzi.com/comentario/966707/) 
 
-	
 	En este curso he aprendido nuevos temas y he debido investigar por mi cuenta para entender un poco más.
 
-* **heriberto98** (2)
+* **heriberto98** (2) [1001327](https://platzi.com/comentario/1001327/) 
 
-	
 	Ordenamiento de burbuja  
 	Ordenamiento por selección  
 	Ordenamiento por inserción  
 	Ordenamiento de Batcher  
 	(Batcher odd–even mergesort / Bitonic Sort)
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [977288](https://platzi.com/comentario/977288/) 
 
-	
 	Por favor todas las explicaciones de esa forma !!!
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [971805](https://platzi.com/comentario/971805/) 
 
-	
 	Muy buena explicación, conceptos fáciles de recordar.
 
-* **Juan Camilo García Mesa** (2)
+* **Juan Camilo García Mesa** (2) [931467](https://platzi.com/comentario/931467/) 
 
-	
 	buena explicación
 
-* **Meliodas222** (2)
+* **Meliodas222** (2) [892819](https://platzi.com/comentario/892819/) 
 
-	
 	Estos algoritmos son muy interesantes y útiles.
 
-* **richie** (2)
+* **richie** (2) [873519](https://platzi.com/comentario/873519/) 
 
-	
 	Muy buena explicación y con los GIF se entiende perfectamente.
 
-* **David Santiago González Ramos** (2)
+* **David Santiago González Ramos** (2) [851724](https://platzi.com/comentario/851724/) 
 
-	
-	  * Merge Sort
-	  * Insertion Sort
-	  * Bubble Sort
-	  * Quick Sort
+	* Merge Sort
+	* Insertion Sort
+	* Bubble Sort
+	* Quick Sort
 	
 	
 
-* **jonathan2138** (2)
+* **jonathan2138** (2) [689038](https://platzi.com/comentario/689038/) 
 
-	
 	wow, la verdad nunca habia estudiado estos conceptos, siempre los daba por hecho, awesome
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089447](https://platzi.com/comentario/1089447/) 
 
-	
 	Muy interesante esta clase, principalmente después de ver el funcionamiento del merge sort, el cual nunca había terminado de entender.
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [881113](https://platzi.com/comentario/881113/) 
 
-	
 	La verdad desconocia por completo de estos [algoritmos.Se](http://algoritmos.Se) ven muy interesantes
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [828069](https://platzi.com/comentario/828069/) 
 
-	
 	me está gustando mucho este curso, es muy divertido, planean sacar uno avanzado?
 
-	* **Gabriel De Andrade (Platzi)** (2)
+	* **Gabriel De Andrade (Platzi)** [828069] (2)
 
-		
 		Hola! Gracias por tu sugerencia en Platzi siempre estamos trabajando para sacar mejores cursos para nuestros estudiantes así siempre existe la posibilidad de sacar un curso avanzado. Recuerda que siempre puedes estar pendiente a la agenda de los cursos por lanzar en [Agenda](https://platzi.com/agenda/)
 
-	* **Cristhian Franco** (1)
+	* **Cristhian Franco** [828069] (1)
 
-		
 		@GabrielElpidio Yo también creo que nos ayudaría mucho un curso avanzado de algoritmos.
 
-* **José Manuel Piña Rodríguez** (1)
+* **José Manuel Piña Rodríguez** (1) [803816](https://platzi.com/comentario/803816/) 
 
-	
 	Ilustracion correcta para representar los tipos
 
-* **juand_silva** (1)
+* **juand_silva** (1) [738997](https://platzi.com/comentario/738997/) 
 
-	
 	Volví 10 años a mi clase de estructuras de datos xD
 
-* **Gtiseira** (1)
+* **Gtiseira** (1) [709562](https://platzi.com/comentario/709562/) 
 
-	
 	Me encanta… estos conceptos son geniales y profesionales… una lógica mas que interesante! Gracias y a seguir estudiando para ver mas!
 
-* **dcortesnet** (1)
+* **dcortesnet** (1) [528830](https://platzi.com/comentario/528830/) 
 
-	
 	Hay funciones en cada lenguaje de programación que permiten ordenar como por ejemplo en python sort(), que diferencia hay en realizar un algoritmo de orden a mano que implementar uno ya disponible en el lenguaje ?, hay que confiar en lo que el lenguaje nos brinda ?
 
-	* **ricardocelis (Platzi)** (5)
+	* **ricardocelis (Platzi)** [528830] (5)
 
-		
 		Hola ! La verdad los algoritmos de ordenamiento son bastante buenos para entender algoritmos y estructuras de datos y una vez los entiendes en la mayoría de proyectos puedes confiar en las implementaciones del lenguaje excepto si tienes requisitos específicos , cómo normas para programar sistemas embebidos.en automóviles por ejemplo.
 
-	* **LuqueDaniel** (1)
+	* **LuqueDaniel** [528830] (1)
 
-		
 		No todos los lenguajes implementan algoritmos de ordenamiento. Son muy útiles cuando tienes necesidad muy especificas o tipos de datos propios.
 
-## 0210. Bubble sort
+## 0210. Bubble sort [17012](https://platzi.com/clases/1469-algoritmos/17012-bubble-sort/)
 
 ### Descripción:
 
@@ -15312,9 +13983,8 @@ Se ordena por pares y se va repitiendo de 1 a 1 hasta que queda totalmente orden
 
 ### Comentarios:
 
-* **claoherrera** (9)
+* **claoherrera** (9) [548449](https://platzi.com/comentario/548449/) 
 
-	
 	Aqui les comparto el ejercicio de la clase
 	``` 
 	    Array = [5,2,4,2,7]
@@ -15358,19 +14028,16 @@ Se ordena por pares y se va repitiendo de 1 a 1 hasta que queda totalmente orden
 	    
 	```
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [548449] (4)
 
-		
 		Hola Clao! Excelente trabajo!
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [548449] (2)
 
-		
 		Te quedó súper bien!!
 
-* **David Behar** (6)
+* **David Behar** (6) [523985](https://platzi.com/comentario/523985/) 
 
-	
 	Éstos son los pasos de la **burbuja** del ejercicio de hoy
 	
 	  1. [5, 2, 4, 2, 7]  
@@ -15385,124 +14052,104 @@ Se ordena por pares y se va repitiendo de 1 a 1 hasta que queda totalmente orden
 	
 	
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1030625](https://platzi.com/comentario/1030625/) 
 
-	
 	BUBBLE SORT: IMPLEMENTACIÓN  
 	Es un algoritmo de búsqueda y uno de los mas simples. Este algoritmo funciona cambiando las celdas de los números en caso de que no estén ordenadas y va de par en par.  
 	Debe quedar muy bien ordenado de mayor a menor, recordando que se repite el ciclo hasta que quede totalmente ordenado.  
 	Excelente explicación, muchas gracias!!
 
-* **Angie Garcia** (2)
+* **Angie Garcia** (2) [976809](https://platzi.com/comentario/976809/) 
 Demasiado claro, no conocía este tipo de ordenadores y es la primera vez que veo esta información
 
-* **Angie Garcia** (2)
+* **Angie Garcia** (2) [976808](https://platzi.com/comentario/976808/) 
 Muy buenos ejemplos ,
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [966787](https://platzi.com/comentario/966787/) 
 
-	
 	así se ve facil, quiero ver la implementación en código.
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1092744](https://platzi.com/comentario/1092744/) 
 
-	
 	es uno de los mas simples y fáciles de implementar pero es uno de los menos eficientes teniendo una complejidad de o(n^2) siendo su peor de los casos n*(n-1)/2
 
-* **zalotesta** (1)
+* **zalotesta** (1) [1016809](https://platzi.com/comentario/1016809/) 
 
-	
 	Pizarrón de la clase:
 	
 	![20200303_131440.jpg](https://static.platzi.com/media/user_upload/20200303_131440-3ac98f96-4c6b-447f-8b8c-d932c8d73629.jpg)
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1006430](https://platzi.com/comentario/1006430/) 
 
-	
 	Claro el tema… vamos al </>
 
-* **heriberto98** (1)
+* **heriberto98** (1) [1001337](https://platzi.com/comentario/1001337/) 
 
-	
 	que buena explicación, excelente.
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [977297](https://platzi.com/comentario/977297/) 
 
-	
 	Muy buen explicación
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [971836](https://platzi.com/comentario/971836/) 
 
-	
 	Excelente explicación.
 
-* **Juan Luis Chavez Manjarres** (1)
+* **Juan Luis Chavez Manjarres** (1) [967331](https://platzi.com/comentario/967331/) 
 
-	
 	Con esta explicación es fácil de entender el método de ordenamiento Bubble sort. Muchas gracias.
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [962320](https://platzi.com/comentario/962320/) 
 
-	
 	Bubble Sort es el algoritmo más simple que hay
 
-* **Josue12** (1)
+* **Josue12** (1) [950767](https://platzi.com/comentario/950767/) 
 
-	
 	Fácil de entender pero como comentas es un algoritmo algo tardado jaja
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [933471](https://platzi.com/comentario/933471/) 
 
-	
 	Entendido…
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [905006](https://platzi.com/comentario/905006/) 
 
-	
 	😃 en pocos minutos y ya aprendí un algoritmo
 
-* **Daniel Mauricio Ramírez Castaño** (1)
+* **Daniel Mauricio Ramírez Castaño** (1) [882562](https://platzi.com/comentario/882562/) 
 
-	
 	Bien claro!
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [881132](https://platzi.com/comentario/881132/) 
 
-	
 	Es la mejor explicación de Bubble sort. Me quedó super claro
 
-* **Danilo Toro** (1)
+* **Danilo Toro** (1) [835106](https://platzi.com/comentario/835106/) 
 
-	
 	Este curso lo habias impartido como algoritmos con C? Creo haber estudiado esto antes xD
 
-* **marioamaciasortiz** (1)
+* **marioamaciasortiz** (1) [656981](https://platzi.com/comentario/656981/) 
 
-	
 	Buena esa.
 
-* **Fabio Leonardo Fuentes Melendez** (1)
+* **Fabio Leonardo Fuentes Melendez** (1) [81889](https://platzi.com/comentario/992510/) 
 Buen día, ¿Se puede realizar un parámetro en este algoritmo de ordenamiento que me permita ordenar datos de menor a mayor y viceversa?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [81889] (1)
 
-		
 		Si, cuando veamos la implementación creo que lo podrás hacer 😄
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [73103](https://platzi.com/comentario/828440/) 
 Este algoritmo crea una nueva lista cada que realiza un cambio o actualiza la lista previa?
 
-	* **Cristhian Franco** (2)
+	* **Cristhian Franco** [73103] (2)
 
-		
 		Usualmente se actualiza la lista, para ello se crea una variable auxiliar donde guardas el valor mayor del par que estas comparando, copias el valor menor y lo cambias en el array y usas el valor de la variable auxiliar para colocarlo del lado derecho del par. En la siguiente clase implementan el codigo, creo que te sera mas facil entenderlo.
 
-* **hectorgtez** (0)
+* **hectorgtez** (0) [1089499](https://platzi.com/comentario/1089499/) 
 
-	
 	Excelente explicación de la clase, muy clara la manera de explicar del profesor.
 
-## 0220. Bubble sort implementación
+## 0220. Bubble sort implementación [17013](https://platzi.com/clases/1469-algoritmos/17013-bubble-sort-implementacion/)
 
 ### Descripción:
 
@@ -15515,29 +14162,24 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (7)
+* **Danelia Sanchez Sanchez** (7) [526358](https://platzi.com/comentario/526358/) 
 
-	
 	La condición del segundo for `j < n - i - 1` reduce el número de comparaciones en cada iteración. Con esto ya no se comparan los elementos ya ordenados a la derecha del arreglo, es decir, los elementos mayores. En cada iteración, el elemento mayor de la parte del arreglo que aún no está ordenada se coloca en su posición.
 
-* **Daniel Mauricio Ramírez Castaño** (5)
+* **Daniel Mauricio Ramírez Castaño** (5) [884748](https://platzi.com/comentario/884748/) 
 
-	
 	Acá una _prueba de escritorio_ de la implementación del doble _for_ en la función **bubbleSort()** : Lo que hace esta implementación es ubicar los elementos de mayor valor al extremo del arreglo en cada iteración del _for_ anidado. ![1.PNG](https://static.platzi.com/media/user_upload/1-8d1fb47c-ca0c-4e40-a811-335c5239ca75.jpg)
 
-	* **Aldo-Salas** (1)
+	* **Aldo-Salas** [884748] (1)
 
-		
 		Tengo una duda. ¿Por que en la segunda iteración i vale 0?
 
-	* **Aldo-Salas** (3)
+	* **Aldo-Salas** [884748] (3)
 
-		
 		Después de analizar y buscar por internet para que servia i me di cuenta que son el número de recorridos que hace en todo el array. Como quiera muchas gracias por mostrar los valores de i en cada iteración, me fue más fácil comprender para que servia i y j. 😃
 
-* **Daniel Alberto Esquinazi** (3)
+* **Daniel Alberto Esquinazi** (3) [834250](https://platzi.com/comentario/834250/) 
 
-	
 	En bubble sort cuando estamos ordenando de forma asc, despues de cada recorrido completo del array tendremos al menos el ultimo valor de la lista ordenado. Es por esto que en el segundo ciclo no se debe recorrer hasta el final sino hast `final-numeroDeIteracionesAnteriores`.
 	``` 
 	    functionbubbleSort(sortedList = []) {
@@ -15568,15 +14210,13 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-	* **Samar Jaffal** (1)
+	* **Samar Jaffal** [834250] (1)
 
-		
 		Gracias por explicar ese detalle, estaba haciendo el recorrido en frio para entender la función y si me di cuenta que con cada recorrido de i se le resta uno a los recorridos en j.  
 		Por lo que si es cierto, el algoritmo va ordenando desde el final hasta el inicio.
 
-* **aarongabriel420** (3)
+* **aarongabriel420** (3) [753758](https://platzi.com/comentario/753758/) 
 
-	
 	aquí esta mi solucion en python
 	``` 
 	    # Definicion de variables
@@ -15631,9 +14271,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **jonathan2138** (3)
+* **jonathan2138** (3) [689100](https://platzi.com/comentario/689100/) 
 
-	
 	Mi implementación en Java
 	``` 
 	    class Main {
@@ -15655,36 +14294,30 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **hernan__giraldo** (3)
+* **hernan__giraldo** (3) [635776](https://platzi.com/comentario/635776/) 
 
-	
 	Ejemplo realizado con Angular, que muestra en pantalla el proceso que se llevó a cabo para ordenar el array.
 	
 	<https://stackblitz.com/edit/vgmva1-bubble-order>
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [635776] (1)
 
-		
 		Muy buen trabajo, quedo genial
 
-	* **zalotesta** (1)
+	* **zalotesta** [635776] (1)
 
-		
 		Ayuda mucho viéndolo! Gracias!
 
-* **David Behar** (3)
+* **David Behar** (3) [523970](https://platzi.com/comentario/523970/) 
 
-	
 	 **IMPORTANTE AL HABLAR DE BURBUJA** recuerden que para el ordenamiento de la burbuja vamos a tener que guardar el valor cada que hagamos una iteración en una variable temporal porque necesitamos poder guardarlo mientras hacemos el cambio.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [523970] (2)
 
-		
 		así es, esto es importantísimo
 
-* **Rodríguez Brian** (2)
+* **Rodríguez Brian** (2) [1023906](https://platzi.com/comentario/1023906/) 
 
-	
 	En python3.
 	``` 
 	    import random
@@ -15714,7 +14347,7 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **Henry Gutierrez Mora** (2)
+* **Henry Gutierrez Mora** (2) [1006463](https://platzi.com/comentario/1006463/) 
 
 	```
 	    #include <stdio.h>
@@ -15745,24 +14378,20 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-	* **zalotesta** (1)
+	* **zalotesta** [1006463] (1)
 
-		
 		Gracias! me vino genial para tomar mis apuntes.
 
-* **Francoo** (2)
+* **Francoo** (2) [986168](https://platzi.com/comentario/986168/) 
 
-	
 	El mejor porfesor para explicar es Freddy, por lejos!
 
-* **Misael Rubio** (2)
+* **Misael Rubio** (2) [974081](https://platzi.com/comentario/974081/) 
 
-	
 	excelente, el curso, con cierto grado de dificultad para los novatos como uno. Se presuponen muchos a-prioris que para la gente formada en otras áreas del conocimiento (lengua y literatura hispánica, que es mi caso), que deben ser dilucidados antes de continuar. Todo este proceso me encanta, pero me confronta y me reta a llenar esos vacíos de conocimiento. Días pasan para que en algunos cursos pueda seguir avanzando. Mi poca experiencia la he adquirido en excel: tablas, funciones, datos, macros, y un poco de VB, y en este curso de algoritmos comienzo a entender el pleno funcionamiento de la ofimática de excel. Gracias
 
-* **Jorge Arango** (2)
+* **Jorge Arango** (2) [835648](https://platzi.com/comentario/835648/) 
 
-	
 	Esta es mi implementación en JS
 	``` 
 	    functionbubbleSort(array){
@@ -15786,14 +14415,12 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [835648] (1)
 
-		
 		Quedó muy bien, pocas lineas de codigo.
 
-* **David Perez** (2)
+* **David Perez** (2) [673035](https://platzi.com/comentario/673035/) 
 
-	
 	Código en JavaScript
 	``` 
 	    letarray = [2,4,1,5,3];
@@ -15814,9 +14441,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **Jeisson Francois Rosas Céspedes** (2)
+* **Jeisson Francois Rosas Céspedes** (2) [592470](https://platzi.com/comentario/592470/) 
 
-	
 	Mi solución
 	``` 
 	    #include<stdio.h>
@@ -15865,14 +14491,12 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [592470] (2)
 
-		
 		Jefra! Excelente trabajo funciona muy bien, como feedback podrias guardar todo en una funcion para que tu main sea mas corto
 
-* **GibsPM** (2)
+* **GibsPM** (2) [569600](https://platzi.com/comentario/569600/) 
 
-	
 	For comparison purposes in an array, two adjacent cells are needed; in an array of 6 elements, only 5 comparisons take place; in an array of 10 elements, 9 comparisons, and so on.
 	
 	So for 7 elements, just 6 comparisons are done, hence the general rule of n-1 in the outer _for_ loop
@@ -15884,20 +14508,18 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	after first cycle _(i = 0_ ), 20 has reached its correct position within the array (using an ascending order), leaving us with an array of 3 elements; in next cycle, _i_ will be equal to 1, and as _n-1_ remains the same, we need to substract 1 in that expression to “shorten” the array:  
 	_n-1-i_ = _4-1-1_ = **2** , which is the index of the last element in that new array as well as the quantity of comparisons needed.
 
-	* **zalotesta** (1)
+	* **zalotesta** [569600] (1)
 
-		
 		This is very good explanation! +1
 
-* **Johann Enrique Moreno Calixto** (2)
+* **Johann Enrique Moreno Calixto** (2) [81724](https://platzi.com/comentario/988268/) 
 ¿Que pasaría si usamos paréntesis en el for de j para separar la operación matemática (la resta)?.
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [81724] (1)
 
-		
 		Funcionaría bien, aunque lo podés probar
 
-* **andresazuara98** (1)
+* **andresazuara98** (1) [1096068](https://platzi.com/comentario/1096068/) 
 
 	```
 	    void BubbleSort(int* numeros){
@@ -15930,9 +14552,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	
 	I’m using the variable continueLoop because I want to know if there are not changes into a loop, if there are not I don’t want to continue looping the double for, that means that my array is sorted
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089582](https://platzi.com/comentario/1089582/) 
 
-	
 	Código en Java:
 	``` 
 	    public void BubbleSort(int arreglo[])
@@ -15949,9 +14570,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [1087267](https://platzi.com/comentario/1087267/) 
 
-	
 	Mi versión.
 	``` 
 	    #include<stdlib.h>
@@ -16006,16 +14626,14 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1053514](https://platzi.com/comentario/1053514/) 
 
-	
 	La explicación del bubblesort se me hizo muy enredada por lo que ayudándome con este video y probando pude entenderlo a la perfección. Si alguien quiere que lo ayude con gusto estoy 😉
 	
 	[https://www.youtube.com/watch?v=Jdtq5uKz-w4&t=430s](https://www.youtube.com/watch?v=Jdtq5uKz-w4&t=430s)
 
-* **JOSE DE JESUS USCANGA MOLINA** (1)
+* **JOSE DE JESUS USCANGA MOLINA** (1) [1050729](https://platzi.com/comentario/1050729/) 
 
-	
 	Mi ejemplo de bubble sort en JavaScript
 	``` 
 	    const items = [5, 2, 4, 2, 100, 7, 1, 3, 50]
@@ -16032,9 +14650,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-	* **JOSE DE JESUS USCANGA MOLINA** (1)
+	* **JOSE DE JESUS USCANGA MOLINA** [1050729] (1)
 
-		
 		Creo un refactor para optimizar el algoritmo
 		
 		Me percate que el segundo ciclo debemos de incrementar en -i debido a que en la primera pasada de i , logramos poner el mayor al final y no es necesario recorrer de inicio a fin nuevamente.
@@ -16059,9 +14676,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 		    
 		```
 
-* **heriberto98** (1)
+* **heriberto98** (1) [1001354](https://platzi.com/comentario/1001354/) 
 
-	
 	ordenamientos directos(basicos)  
 	selección, inserción, burbuja (ineficientes para grandes cantidades de datos)  
 	ordenamientos indirectos(avanzados)  
@@ -16069,14 +14685,12 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	
 	un pequeño aporte que no dicen en este curso
 
-* **megadelt** (1)
+* **megadelt** (1) [978980](https://platzi.com/comentario/978980/) 
 
-	
 	me perdí un poco, por qué las variables n1 y n2 van con un * antes?
 
-	* **brayan baquero** (3)
+	* **brayan baquero** [978980] (3)
 
-		
 		Declarando punteros  
 		Ya se dijo que un puntero es una variable que guarda la dirección de memoria de otra variable, haciendo lógica a esto, decimos que un puntero se declara igual que cualquier otra variable, pero anteponiendo un * (asterisco) antes del nombre de la variable.
 		
@@ -16085,27 +14699,23 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 		tipo *NombrePuntero = NULL; Se iguala a NULL para saber que no tiene asignada ninguna dirección.  
 		Donde tipo es el tipo de dato al que referenciará este puntero, es decir, que si se necesita guardar la dirección de memoria de un dato int, se necesita un puntero de tipo int.
 
-* **Eduardo Zamarron Muñoz** (1)
+* **Eduardo Zamarron Muñoz** (1) [972747](https://platzi.com/comentario/972747/) 
 
-	
 	Creo que para el ejemplo se debe de dejar una lectura para entender lo que es el paso por valor y el paso por referencia porque en la implementación se usa directamente sin explicar el porqué.
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [972387](https://platzi.com/comentario/972387/) 
 
-	
 	creo que se debe seguir practicando ya que es la primera vez que interactuo con este procedimiento
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [971949](https://platzi.com/comentario/971949/) 
 
-	
 	Buena explicación, es complejo al comienzo pero con práctica y analizando cada procedimiento cada vez es más entendible.
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [970988](https://platzi.com/comentario/970988/) 
 
-	
 	Siento que entiendo pero no con totalidad, creería que es porque debo seguir practicando.
 
-* **Nicolas Restrepo** (1)
+* **Nicolas Restrepo** (1) [945952](https://platzi.com/comentario/945952/) 
 
 	```
 	    def bubble_sort(size):
@@ -16120,14 +14730,12 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **vrgrajeda** (1)
+* **vrgrajeda** (1) [941331](https://platzi.com/comentario/941331/) 
 
-	
 	No me queda del todo claro porque hace n-i-1
 
-	* **LuqueDaniel** (1)
+	* **LuqueDaniel** [941331] (1)
 
-		
 		En cada iteración un nuevo valor queda, por así decirlo “fijado”. Para evitar hacer iteraciones necesarias se consulta un indice menos. Creo que se entiende mejor con un ejemplo.
 		
 		Tomando a modo de ejemplo la secuencia `[1, 20, 15, 7]`
@@ -16171,14 +14779,12 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 		    
 		```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [882502](https://platzi.com/comentario/882502/) 
 
-	
 	Interesante como estructuró las funciones! 🤯
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [829223](https://platzi.com/comentario/829223/) 
 
-	
 	este es mi bubble sort:
 	``` 
 	    import logging
@@ -16206,9 +14812,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **JONATAN CADAVID TORRES** (1)
+* **JONATAN CADAVID TORRES** (1) [773451](https://platzi.com/comentario/773451/) 
 
-	
 	Con python Me base en la respuesta de aarongabriel420, con un par de mejoras al momento de imprimir el array desordenado y el ordenado. También coloque una mejora para que el ciclo for se ejecute dependiendo del largo de la lista, ya no es necesario colocar el dato de range de forma manual:
 	``` 
 	    <array = [2,8,1,6,3,9]
@@ -16254,9 +14859,8 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	
 	[1, 2, 3, 6, 8, 9]
 
-* **ZusMexSide** (1)
+* **ZusMexSide** (1) [750474](https://platzi.com/comentario/750474/) 
 
-	
 	Realize mi ejemplo con un ejercicio de java que trabaje en la escuela, aun no domino los términos correctos pero espero a alguien le pueda servir y claro, puedan hacer mejoras 😁👍
 	``` 
 	    //clase main
@@ -16286,13 +14890,12 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [669836](https://platzi.com/comentario/669836/) 
 
-	
 	**Código en JS:**  
 	![Screen Shot 2019-07-30 at 11.20.07 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-30%20at%2011.20.07%20AM-96af75ef-8d23-4756-9951-1b9933dde9aa.jpg)
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [619214](https://platzi.com/comentario/619214/) 
 
 	```
 	    #include<stdio.h>
@@ -16319,7 +14922,7 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-* **heriberto98** (0)
+* **heriberto98** (0) [1001509](https://platzi.com/comentario/1001509/) 
 
 	```
 	    #include<iostream>
@@ -16357,7 +14960,7 @@ Para esta clase prepararemos las funciones que nos sirvan para hacer nuestro **o
 	    
 	```
 
-## 0230. Bubble sort main code
+## 0230. Bubble sort main code [17015](https://platzi.com/clases/1469-algoritmos/17015-bubble-sort-main-code/)
 
 ### Descripción:
 
@@ -16376,9 +14979,8 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 
 ### Comentarios:
 
-* **selasorlac** (3)
+* **selasorlac** (3) [562479](https://platzi.com/comentario/562479/) 
 
-	
 	Hola a todos y al profesor @ricadocelis encontré un error en la función print de esta clase! en la sección de código en la que imprimimos el arreglo, osea la función _print_ , hay un error de código, ya que al poner en el ciclo la condición siguiente:
 	``` 
 	    for(i=0; i < n-1; i++)
@@ -16399,14 +15001,12 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	
 	Suerte a todos y que les vaya bien por el curso!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [562479] (2)
 
-		
 		Selas! Es cierto, muchísimas gracias por esto ==
 
-* **hectorgtez** (2)
+* **hectorgtez** (2) [1089622](https://platzi.com/comentario/1089622/) 
 
-	
 	Código para el reto en Java:
 	``` 
 	    public class BubbleSort
@@ -16436,16 +15036,14 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	    
 	```
 
-* **keila martinez** (2)
+* **keila martinez** (2) [1069890](https://platzi.com/comentario/1069890/) 
 
-	
 	me costo trabajo entenderlo me salían muchos errores pero lo logre
 	
 	![bubbleSort.PNG](https://static.platzi.com/media/user_upload/bubbleSort-365be264-1c85-4648-a725-b867e94842c4.jpg)
 
-* **Luis Arturo Lira Cerda** (2)
+* **Luis Arturo Lira Cerda** (2) [911606](https://platzi.com/comentario/911606/) 
 
-	
 	Yo lo hice de esta manera con Python. Y en el caso para ordenarlos para mayor a menor sólo se trata de cambiar el > por un < y queda listo. Aunque yo preferí hacerlo con recursividad ya que así fue más entendible para mí, ¿es correcto hacerlo de esta manera o tiene alguna deficiencia de esta manera?
 	``` 
 	    defbubblesort(numbers):
@@ -16476,9 +15074,8 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	    
 	```
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [911606] (1)
 
-		
 		Esta sería la forma de hacerlo con Python de la forma que se muestra en el curso.  
 		Pero no sé qué tanta diferencia hay en rendimiento de la primera con la segunda cuando se trate una cantidad de datos muy grande para ordenar.
 		``` 
@@ -16495,23 +15092,20 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 		    
 		```
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [911606] (1)
 
-		
 		Después de un rato de ver mi código y estar reflexionando sobre el algoritmo me di cuenta que la opción con recrusividad hace más iteraciones por lo que es a grande escala tardaría más en terminar que la de Bubblesort original.
 
-	* **MiguelNava** (1)
+	* **MiguelNava** [911606] (1)
 
-		
 		Estoy de acuerdo contigo. Si las cuentas no me fallan, mientras que el algoritmo original de bubble sort, para el arreglo [5,4,3,2,1], hace  
 		4+3+2=9  
 		cambios al arreglo, el algoritmo de recursividad intenta hacer  
 		4+4+4+4+4=20  
 		cambios al mismo arreglo.
 
-* **sgomez2113** (2)
+* **sgomez2113** (2) [875617](https://platzi.com/comentario/875617/) 
 
-	
 	Respuesta al reto, solo se cambia de > ha < para que imprima los numero de mayor a menor.
 	``` 
 	    #include<stdio.h>
@@ -16558,9 +15152,8 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	    
 	```
 
-* **Miguel Angel Guerrero Salinas** (2)
+* **Miguel Angel Guerrero Salinas** (2) [693301](https://platzi.com/comentario/693301/) 
 
-	
 	Implementacion en Python:
 	``` 
 	    def bubbleSort(array: list):
@@ -16580,15 +15173,13 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [670577](https://platzi.com/comentario/670577/) 
 
-	
 	**Aquí está cortito en JS:**  
 	![Screen Shot 2019-07-30 at 7.40.55 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-30%20at%207.40.55%20PM-5e72cd56-ed91-4981-8077-8f0980117164.jpg)
 
-* **Oswaldo Javier Yugsi Yugsi** (2)
+* **Oswaldo Javier Yugsi Yugsi** (2) [591436](https://platzi.com/comentario/591436/) 
 
-	
 	A continuación envío el main code del Bubble Sort en código Java.  
 	He tenido que modificar levemente el funcionamiento del método de ordenamiento puesto que necesitaba almacenar el nuevo orden de los elementos y añadirlos al array original.
 	
@@ -16663,9 +15254,8 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	    
 	```
 
-* **Carlos Enrique Gonzalez Peña** (2)
+* **Carlos Enrique Gonzalez Peña** (2) [557450](https://platzi.com/comentario/557450/) 
 
-	
 	Buenas!  
 	Yo lo hice en JS profe jaja, aquí esta el código, si existe alguna forma de hacerlo mas eficiente pongan me su código en una respuesta ya que estoy buscando la manera de mejorar mi time y space complexity
 	``` 
@@ -16723,32 +15313,28 @@ El desafío de esta clase es realizar el ordenamiento pero, al revés: de mayor 
 	    
 	```
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [557450] (3)
 
-		
 		carlosgonzalezp91 Excelentes implementaciones, estás logrando el time complexity estándard para ese tipo de ordenamiento =)
 
-	* **Carlos Enrique Gonzalez Peña** (1)
+	* **Carlos Enrique Gonzalez Peña** [557450] (1)
 
-		
 		Gracias Ricardo!  
 		Tu manera de explicar esta excelente, sigue así.  
 		Intentare hacer los retos igual en JS intentando el mejor complexity
 
-	* **Carlos Enrique Gonzalez Peña** (1)
+	* **Carlos Enrique Gonzalez Peña** [557450] (1)
 
-		
 		Y gracias por el feeback, lo aprecio mucho, toda critica constructiva es bienvenida 😄
 
-* **Hector Cardona** (2)
+* **Hector Cardona** (2) [54617](https://platzi.com/comentario/532124/) 
 Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estamos retornando nada?. Gracias!
 
-	* **Diego Alexander Forero Higuera (Platzi)** (2)
+	* **Diego Alexander Forero Higuera (Platzi)** [54617] (2)
 
-		
 		Puedes ponerle void en lugar de int, como lo mencionas no retorna nada y no hay problema en que lo hagas o puedes hacer lo mismo que se hace en el main y poner a retornar 0.
 
-* **Mikeb91** (1)
+* **Mikeb91** (1) [1115256](https://platzi.com/comentario/1115256/) 
 
 	```
 	    import java.util.Arrays;
@@ -16821,9 +15407,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [1110799](https://platzi.com/comentario/1110799/) 
 
-	
 	Ordenar de mayor a menor.
 	``` 
 	    #include<stdlib.h>
@@ -16877,15 +15462,13 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1069917](https://platzi.com/comentario/1069917/) 
 
-	
 	reto hecho para ordenar de mayor a menor solo se cambia el signo en el if que esta dentro del for  
 	![bubbleSort mayor a menor.PNG](https://static.platzi.com/media/user_upload/bubbleSort%20mayor%20a%20menor-8faf66ab-4dd0-4db8-8ccc-0b3fe1065af1.jpg)
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [1058710](https://platzi.com/comentario/1058710/) 
 
-	
 	Array Ordenado de forma descendiente usando PHP.
 	``` 
 	    $valores = [23, 54, 32, 67, 34, 78, 98, 56, 21, 34, 57, 92, 12, 5, 61];
@@ -16906,9 +15489,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1053630](https://platzi.com/comentario/1053630/) 
 
-	
 	Acá está el código para que lo ordene de menor a mayor:
 	``` 
 	    #include<stdio.h>
@@ -16953,14 +15535,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1053595](https://platzi.com/comentario/1053595/) 
 
-	
 	Perfectamente entendido 😉
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1044416](https://platzi.com/comentario/1044416/) 
 
-	
 	Aquí dejo el **_desafió_**.  
 	La función _bubbleSort()_ ordena los números de menor a mayor.  
 	La función _bubbleSortMayoraMenor()_ ordena los números de mayor a menor.
@@ -17033,7 +15613,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Eduardo Aguilar Escalante** (1)
+* **Eduardo Aguilar Escalante** (1) [1034812](https://platzi.com/comentario/1034812/) 
 
 	```
 	    #include <stdio.h>
@@ -17077,22 +15657,21 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Nicolas David Pastran Zamora** (1)
-![MAYOR.JPG](https://static.platzi.com/media/user_upload/MAYOR-7f77e326-e83c-4e0e-a9f2-67516dddc0e4.jpg)
-
-* **Nicolas David Pastran Zamora** (1)
-
+* **Nicolas David Pastran Zamora** (1) [1034455](https://platzi.com/comentario/1034455/) 
 	
+	![MAYOR.JPG](https://static.platzi.com/media/user_upload/MAYOR-7f77e326-e83c-4e0e-a9f2-67516dddc0e4.jpg)
+
+* **Nicolas David Pastran Zamora** (1) [1034441](https://platzi.com/comentario/1034441/) 
+
 	Me pareció algo peculiar que en la lista final ordenada no saliera 1992. Entonces indague en el código y la función print_array() no esta imprimiendo todos los valores ya que la comparación tiene un i > n-1, osea va hasta un valor n-2 por el >. El código funcionaría bien si se quita n-1 y se pone n
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1032757](https://platzi.com/comentario/1032757/) 
 
-	
 	Adjunto evidencia de practica. Gracias por la clase, están geniales!!
 	
 	![1.PNG](https://static.platzi.com/media/user_upload/1-27edf103-0a82-446d-8bb7-29f0815fc9c6.jpg) ![2.PNG](https://static.platzi.com/media/user_upload/2-8dd67732-fa18-4ec5-8ef4-65ff6cbf627c.jpg) ![3.PNG](https://static.platzi.com/media/user_upload/3-f14a4495-1272-4ba8-839a-9f48e6b7d602.jpg)
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1020998](https://platzi.com/comentario/1020998/) 
 
 	```
 	    #include <stdio.h>
@@ -17141,9 +15720,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **caegomezda** (1)
+* **caegomezda** (1) [1016095](https://platzi.com/comentario/1016095/) 
 
-	
 	Hace falta un número el último número del array, basta con quitarle el 1 al “n-1” en el “int print_arrary” en la parte del “for” para que muestre todos los datos.
 	``` 
 	    int print_array(int vector_entrada[], int n)
@@ -17160,7 +15738,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **caegomezda** (1)
+* **caegomezda** (1) [1016087](https://platzi.com/comentario/1016087/) 
 
 	```
 	    #include <stdio.h>
@@ -17211,7 +15789,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1006506](https://platzi.com/comentario/1006506/) 
 
 	```
 	    int print_array(int vector_entrada[],int n)
@@ -17234,18 +15812,16 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [982083](https://platzi.com/comentario/982083/) 
 
-	
 	Para que ordene los números de mayor a menor solo basta con cambiar el **`>`** por un **`<`** en el condicional dentro de los for asi:
 	``` 
 	    if (vector_entrada[j] < vector_entrada[j + 1])
 	    
 	```
 
-* **Nelson Matos** (1)
+* **Nelson Matos** (1) [981744](https://platzi.com/comentario/981744/) 
 
-	
 	Reto Ordenamiento de numero de mayor a menor.
 	
 	#include <stdio.h>  
@@ -17291,29 +15867,24 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	return 0;  
 	}
 
-* **Joaquin Roman Vazquez Zuñiga** (1)
+* **Joaquin Roman Vazquez Zuñiga** (1) [980811](https://platzi.com/comentario/980811/) 
 
-	
 	Hola! Me esta costando algo entender, no quisiera avanzar sin que me quede claro, que curso me recomiendan previo a este para lograr captarle mas? Ya tome el de pensamiento lógico y programación básica. Gracias.
 
-	* **Gabriel De Andrade (Platzi)** (3)
+	* **Gabriel De Andrade (Platzi)** [980811] (3)
 
-		
 		Hola! Este curso por más que diga básico puede ser complicado cuando hablamos de Algoritmos de ordenamiento. A mi me sirvió plasmar en papel el ciclo de los algoritmos de ordenamiento, es decir, tratar de pensar el cómo estos van sucediendo y plasmarlo en papel. En internet también hay videos que quizás sean un poco más visuales y específicos para cada algoritmo y te pueden ayudar a entender mejor. Algoritmos es un tema muy abstracto 😛
 
-	* **may-ale-moral** (2)
+	* **may-ale-moral** [980811] (2)
 
-		
 		Toma el de programacion estructurada antes
 
-	* **Joaquin Roman Vazquez Zuñiga** (1)
+	* **Joaquin Roman Vazquez Zuñiga** [980811] (1)
 
-		
 		Gracias por sus recomendaciones me serán de mucha ayuda.
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [980468](https://platzi.com/comentario/980468/) 
 
-	
 	Me funcionó a la perfección, solo que a la primera el resultado se me mostró en un listado vertical luego realicé el ajuste y ya me lo imprimió en un listado horizontal. 😃
 	``` 
 	    // 1. Comenzamos a hacer la comparación de elementos adyacentes
@@ -17361,9 +15932,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **megadelt** (1)
+* **megadelt** (1) [979514](https://platzi.com/comentario/979514/) 
 
-	
 	hay un detalle en la función print_array, esta no estaba imprimiendo el último valor.
 	
 	esta es mi versión:
@@ -17416,14 +15986,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Alfonso Romero** (1)
+* **Alfonso Romero** (1) [977325](https://platzi.com/comentario/977325/) 
 
-	
 	A leer muuuucho.
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [976898](https://platzi.com/comentario/976898/) 
 
-	
 	#include<stdio.h>  
 	void cambiar_pos(int *n1, int *n2)  
 	{  
@@ -17463,15 +16031,15 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	return 0;  
 	}
 
-* **wilmaryoanmalavermalaver** (1)
+* **wilmaryoanmalavermalaver** (1) [974216](https://platzi.com/comentario/974216/) 
 
-	
 	![](![Captura de pantalla 2020-02-08 15.41.38.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-08%2015.41.38-3765dc2b-a78e-4cdb-be1c-90a5c74e739c.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Bubble_Reto.png](https://static.platzi.com/media/user_upload/Bubble_Reto-c61aadad-c911-4a13-a5b4-acf8fba0c73b.jpg)
+* **Adriana del Pilar Martinez Bautista** (1) [972116](https://platzi.com/comentario/972116/) 
+	
+	![Bubble_Reto.png](https://static.platzi.com/media/user_upload/Bubble_Reto-c61aadad-c911-4a13-a5b4-acf8fba0c73b.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [971421](https://platzi.com/comentario/971421/) 
 
 	```
 	    #include <stdio.h>
@@ -17525,9 +16093,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Juan Luis Chavez Manjarres** (1)
+* **Juan Luis Chavez Manjarres** (1) [969328](https://platzi.com/comentario/969328/) 
 
-	
 	Reto cumplido 😃
 	
 	* * *
@@ -17580,9 +16147,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	}
 
-* **Oscar Garcia** (1)
+* **Oscar Garcia** (1) [965828](https://platzi.com/comentario/965828/) 
 
-	
 	Unicamente cambie el signo “>” por un “<” en el if que hay dentro de bubbleSort .  
 	Y asi los ordena de mayor a menor.
 	``` 
@@ -17624,22 +16190,23 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [965753](https://platzi.com/comentario/965753/) 
 
-	
 	Para hacerlo al revés solo habría que invertir la comparación de posiciones de arreglos en la función bubbleSort()
 	
 	`if(vector_in[j] < vector_in[j+1]) { changePos(&vector_in[j], &vector_in[j+1]); }`
 	
 	Me parece que otra forma de hacerlo sería modificar el orden en el que se van imprimiendo. 😄
 
-* **JeanMurcia** (1)
-![bubbleSort.PNG](https://static.platzi.com/media/user_upload/bubbleSort-f315f72d-28fb-4c91-964f-738ec34573bf.jpg)
+* **JeanMurcia** (1) [962972](https://platzi.com/comentario/962972/) 
+	
+	![bubbleSort.PNG](https://static.platzi.com/media/user_upload/bubbleSort-f315f72d-28fb-4c91-964f-738ec34573bf.jpg)
 
-* **vivisoto** (1)
-![2020-01-31 09_05_47-vs@PCJUAND_ _mnt_d_JuanD_Documents_vivi-soto_ejercicios.png](https://static.platzi.com/media/user_upload/2020-01-31%2009_05_47-vs%40PCJUAND_%20_mnt_d_JuanD_Documents_vivi-soto_ejercicios-46e41ceb-e2b1-4b45-9089-edc21b0e04bd.jpg)
+* **vivisoto** (1) [957901](https://platzi.com/comentario/957901/) 
+	
+	![2020-01-31 09_05_47-vs@PCJUAND_ _mnt_d_JuanD_Documents_vivi-soto_ejercicios.png](https://static.platzi.com/media/user_upload/2020-01-31%2009_05_47-vs%40PCJUAND_%20_mnt_d_JuanD_Documents_vivi-soto_ejercicios-46e41ceb-e2b1-4b45-9089-edc21b0e04bd.jpg)
 
-* **vivisoto** (1)
+* **vivisoto** (1) [957899](https://platzi.com/comentario/957899/) 
 
 	```
 	    <code>
@@ -17685,9 +16252,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [953306](https://platzi.com/comentario/953306/) 
 
-	
 	segun reto que dejo el profe lo realice solo cambie simbolo en if y ya quedo comenzado al revez conteo
 	``` 
 	    #include<stdio.h>
@@ -17733,9 +16299,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **OscarPalomino** (1)
+* **OscarPalomino** (1) [894102](https://platzi.com/comentario/894102/) 
 
-	
 	Programa que toma un array y lo ordena de menor a mayor y de menor a mayor.
 	``` 
 	    #include<stdio.h>
@@ -17801,9 +16366,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Johan Sebastian Gordillo Patiño** (1)
+* **Johan Sebastian Gordillo Patiño** (1) [887586](https://platzi.com/comentario/887586/) 
 
-	
 	/* 1- Comparación de elemento Adyacentes  
 	2- verificar por ultima vez si no esta ningún
 	``` 
@@ -17861,9 +16425,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	return 0;  
 	}
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [882547](https://platzi.com/comentario/882547/) 
 
-	
 	😎 **RETO CUMPLIDO**
 	``` 
 	    #include<stdio.h>
@@ -17913,7 +16476,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [880932](https://platzi.com/comentario/880932/) 
 
 	```
 	    //Comenzamos a hacer la comparacion de elementos adyacentes
@@ -17963,7 +16526,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **richie** (1)
+* **richie** (1) [873899](https://platzi.com/comentario/873899/) 
 
 	```
 	    #include <stdio.h>
@@ -18012,9 +16575,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Samar Jaffal** (1)
+* **Samar Jaffal** (1) [870598](https://platzi.com/comentario/870598/) 
 
-	
 	Mi código en Java:
 	``` 
 	    import java.util.Scanner;
@@ -18090,9 +16652,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [869296](https://platzi.com/comentario/869296/) 
 
-	
 	Utilicé la función reverse_bubbleSort, igual eliminé el -1 en el print_array porque sólo imprimía 9 posiciones:
 	``` 
 	    void reverse_bubbleSort(int vector_entrada[], int n)
@@ -18117,9 +16678,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Cristhian Elvir** (1)
+* **Cristhian Elvir** (1) [864024](https://platzi.com/comentario/864024/) 
 
-	
 	Solucion al reto .
 	
 	Forma rápida.
@@ -18157,9 +16717,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [855812](https://platzi.com/comentario/855812/) 
 
-	
 	**Respuesta al Reto**  
 	Para cambiar el orden como se ordenan los datos se cambia la lógica para decidir si moverlos o no:
 	
@@ -18189,9 +16748,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [851790](https://platzi.com/comentario/851790/) 
 
-	
 	Mi solución al desafío en JS
 	``` 
 	    //BubbleSort
@@ -18221,9 +16779,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Davic64** (1)
+* **Davic64** (1) [846257](https://platzi.com/comentario/846257/) 
 
-	
 	Mi respuesta al reto:
 	``` 
 	    #include <stdio.h>
@@ -18264,9 +16821,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [837295](https://platzi.com/comentario/837295/) 
 
-	
 	Desafío en js
 	``` 
 	    function bubbleSort (array) {
@@ -18290,12 +16846,11 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Jorge Arango** (1)
+* **Jorge Arango** (1) [835665](https://platzi.com/comentario/835665/) 
 
-	
 	Creo que en la función print_array el máximo valor de i debería ser n-1, no n-2 pues no mostraria el último número en el array
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [818448](https://platzi.com/comentario/818448/) 
 
 	```
 	    using System;
@@ -18359,7 +16914,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **predator0077** (1)
+* **predator0077** (1) [809715](https://platzi.com/comentario/809715/) 
 
 	```
 	    #include <stdio.h>
@@ -18409,9 +16964,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [803221](https://platzi.com/comentario/803221/) 
 
-	
 	De mayor a menor:
 	``` 
 	    #include <stdio.h>
@@ -18466,9 +17020,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **luisenriquesanchez** (1)
+* **luisenriquesanchez** (1) [783909](https://platzi.com/comentario/783909/) 
 
-	
 	en la funcion bubbleSort en la condición que esta dentro de los ciclos anidados solo se necesita cambiar el > por <
 	``` 
 	    #include <stdio.h>
@@ -18517,9 +17070,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **efrainjaimes** (1)
+* **efrainjaimes** (1) [783569](https://platzi.com/comentario/783569/) 
 
-	
 	Aquí el reto con JavaScript
 	``` 
 	    function bubbleSort (vector_entrada) {
@@ -18542,9 +17094,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Juan Pablo Ballistreri** (1)
+* **Juan Pablo Ballistreri** (1) [777109](https://platzi.com/comentario/777109/) 
 
-	
 	Así me quedó en python:
 	``` 
 	    import random
@@ -18586,9 +17137,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **linkpj** (1)
+* **linkpj** (1) [775356](https://platzi.com/comentario/775356/) 
 
-	
 	void bubbleSort(int vectorEntrada[], int n){  
 	int i, j;  
 	for (i=0; i<n-1; i++){  
@@ -18600,9 +17150,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	}  
 	}
 
-* **fernandogualan** (1)
+* **fernandogualan** (1) [773617](https://platzi.com/comentario/773617/) 
 
-	
 	De Menor a Mayor
 	``` 
 	    publicclass Main {
@@ -18650,9 +17199,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **JONATAN CADAVID TORRES** (1)
+* **JONATAN CADAVID TORRES** (1) [773457](https://platzi.com/comentario/773457/) 
 
-	
 	el reto con python e imprimiendo por pantalla los resultados:
 	``` 
 	    <array = [2,8,1,6,3,9]
@@ -18698,9 +17246,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	[9, 8, 6, 3, 2, 1]
 
-* **aarongabriel420** (1)
+* **aarongabriel420** (1) [753778](https://platzi.com/comentario/753778/) 
 
-	
 	el código es igual al anterior solo cambio el símbolo > por <
 	``` 
 	    # Definicion de variables
@@ -18743,9 +17290,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Juan Camilo Salazar Gañan** (1)
+* **Juan Camilo Salazar Gañan** (1) [751994](https://platzi.com/comentario/751994/) 
 
-	
 	el mismo codico anterior pero cambia esto
 	``` 
 	    void bubleSort(int vector_entrada[], int n)
@@ -18763,9 +17309,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [751231](https://platzi.com/comentario/751231/) 
 
-	
 	Para cambiar el sort solo se debe hacer un cambio dentro del IF
 	``` 
 	    defbubbleSort(vector_entrada : list):
@@ -18787,9 +17332,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Sebastian Sanchez** (1)
+* **Sebastian Sanchez** (1) [727349](https://platzi.com/comentario/727349/) 
 
-	
 	no he podido hacer que funcione Ubuntu
 	``` 
 	    To run a command as administrator (user "root"), use "sudo <command>".
@@ -18808,7 +17352,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Luis Eduardo Quiroga Esparza** (1)
+* **Luis Eduardo Quiroga Esparza** (1) [708682](https://platzi.com/comentario/708682/) 
 
 	```
 	    #include <stdio.h>
@@ -18854,9 +17398,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [689124](https://platzi.com/comentario/689124/) 
 
-	
 	Cambiando nuestra condicion de > a < y… Bingooo
 	``` 
 	    class Main {
@@ -18877,14 +17420,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [670584](https://platzi.com/comentario/670584/) 
 
-	
 	Para el ordenamiento de menor a mayor, solo hay que cambiar el “>” por el “<” en la comparación y listo.
 
-* **Eduardo Antonio Rivero Rivera** (1)
+* **Eduardo Antonio Rivero Rivera** (1) [670093](https://platzi.com/comentario/670093/) 
 
-	
 	Bastante simple la forma de cambiar como hace el ordenamiento el algoritmo
 	``` 
 	    /* Ordenamiento de MAYOR A MENOR
@@ -18933,12 +17474,11 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [670093] (2)
 
-		
 		Eso significa que vas con todo claro, muy buen trabajo!
 
-* **kikega** (1)
+* **kikega** (1) [652393](https://platzi.com/comentario/652393/) 
 
 	```
 	    defbubble(lista):
@@ -18959,9 +17499,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [651030](https://platzi.com/comentario/651030/) 
 
-	
 	Solo tengo el problema que no salen todos los caracteres ingresados:
 	``` 
 	    #include <stdio.h>
@@ -19009,14 +17548,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [651030] (1)
 
-		
 		Tienes un error en el ciclo for anidado la condición es `j < n - i -1` tu solo tienes n-1
 
-	* **Victor Martin Ortiz Palacio** (1)
+	* **Victor Martin Ortiz Palacio** [651030] (1)
 
-		
 		Me sucedia igual, lo solucione quitando el -1 que se encuentra en el for que imprime el array.
 		``` 
 		    int print_array(int vector_entrada[], int n)
@@ -19032,7 +17569,7 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 		
 		Los imprime tanto de menor a mayor, como de mayor a menor sin problemas.-
 
-* **Camilo Andres Ossa Rpo** (1)
+* **Camilo Andres Ossa Rpo** (1) [648397](https://platzi.com/comentario/648397/) 
 
 	```
 	    #include <stdio.h>
@@ -19078,9 +17615,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [645325](https://platzi.com/comentario/645325/) 
 
-	
 	BubbleSort con ArrayList en Java:
 	``` 
 	    public void bubbleSort(ArrayList<Integer> arrayList, int arraySize) {
@@ -19136,9 +17672,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	[Repositorio](https://github.com/VHugoBarnes/Algorithms/blob/master/src/sorting_algorithms/BubbleSort.java)
 
-* **necrobahamut** (1)
+* **necrobahamut** (1) [631869](https://platzi.com/comentario/631869/) 
 
-	
 	Les comparto mi implementacion en C#
 	``` 
 	    using System;
@@ -19193,9 +17728,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **diegoagd10** (1)
+* **diegoagd10** (1) [626518](https://platzi.com/comentario/626518/) 
 
-	
 	Les comparto la implementación con ordenamiento ascendente y descendente con C#:
 	``` 
 	    using System;
@@ -19234,17 +17768,15 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	[Código Fuente](https://github.com/diegoagd10/algorithms_problems/tree/master/bubble_sort)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [626518] (2)
 
-		
 		Hola Diego! Excelente trabajo =)
 
-	* **diegoagd10** (1)
+	* **diegoagd10** [626518] (1)
 
-		
 		Gracias 😃
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [619230](https://platzi.com/comentario/619230/) 
 
 	```
 	    `#include<stdio.h>
@@ -19292,9 +17824,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Anfercode** (1)
+* **Anfercode** (1) [617571](https://platzi.com/comentario/617571/) 
 
-	
 	Reto completado:
 	``` 
 	    #include<stdio.h>
@@ -19340,9 +17871,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [609262](https://platzi.com/comentario/609262/) 
 
-	
 	El reto:
 	``` 
 	    #include<iostream>
@@ -19387,9 +17917,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	**Spoiler Alert:**  
 	Simplemente es invertir la comparación en la función bubble sort
 
-* **SamDad** (1)
+* **SamDad** (1) [604399](https://platzi.com/comentario/604399/) 
 
-	
 	Guau, es una locura, me puse a hacer el codigo en c++, que es muy similar a c, en lugar de c# que es el que habitualmente uso, y estuve como 2 horas porque no me funcionaba un bloque de codigo muy muy sencillo:
 	``` 
 	    voidprintBubble(intvector[], int n)
@@ -19417,9 +17946,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	Hoy en dia lo tenemos muy facil para hacer una aplicacion con tantas herramientras a nuestro alcance. Solo necesitamos tiempo 😉.
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [601899](https://platzi.com/comentario/601899/) 
 
-	
 	Es sólo cambiar una linea de código  
 	if(vector_entrada[j] > vector_entrada[j+1])  
 	por la siguiente  
@@ -19437,9 +17965,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	para que recorra todo el vector a la hora de imprimir de lo contrario no imprime el último valor.  
 	for(i=1; i<n-1; i++).
 
-* **Andres Arias** (1)
+* **Andres Arias** (1) [599165](https://platzi.com/comentario/599165/) 
 
-	
 	Bubble sort ascendente en Python
 	``` 
 	    #! /usr/bin/python
@@ -19482,9 +18009,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Byron Bustamante López** (1)
+* **Byron Bustamante López** (1) [597696](https://platzi.com/comentario/597696/) 
 
-	
 	He escrito todo igual al código de Ricardo pero cuando lo ejecuto no me imprime nada. Alguien sabe por qué?
 	``` 
 	    #include <stdio.h>
@@ -19526,9 +18052,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-	* **Byron Bustamante López** (1)
+	* **Byron Bustamante López** [597696] (1)
 
-		
 		He resuelto el problema. Por si a alguien más le pasa, hay que cambiar la llamada a cambiar_pos:
 		``` 
 		    cambiar_pos(vector_entrada[j], vector_entrada[j+1]);
@@ -19541,14 +18066,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 		    
 		```
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [597696] (1)
 
-		
 		Poniendo & en la variable vector_entrada el programa entiende que este vector podrá ser modificado en cambiar_pos
 
-* **Francisco Javier Padrón Luis** (1)
+* **Francisco Javier Padrón Luis** (1) [592922](https://platzi.com/comentario/592922/) 
 
-	
 	Adjunto el código en Dart por si alguien tiene curiosidad de como seria el algoritmo en este lenguaje
 	
 	P.D: También añadí comentarios para intentar explicar un poco como funciona y como resolver el reto
@@ -19600,14 +18123,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **miguel-angel-baquero** (1)
+* **miguel-angel-baquero** (1) [591649](https://platzi.com/comentario/591649/) 
 
-	
 	Para ordenar de mayor a menor, en la funión “if”, lo único que hay que cambiar es el símbolo “>” por “<”.
 
-* **Oswaldo Javier Yugsi Yugsi** (1)
+* **Oswaldo Javier Yugsi Yugsi** (1) [591442](https://platzi.com/comentario/591442/) 
 
-	
 	Para resolver el reto únicamente debemos modificar el condicional que determina la ejecución del método de ordenamiento. A continuación tienen el método modificado que acciona el ordenamiento de mayor a menor.
 	
 	No se modifica ninguno de los otros dos métodos.
@@ -19634,9 +18155,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [585880](https://platzi.com/comentario/585880/) 
 
-	
 	Listo
 	``` 
 	    #include <stdio.h>
@@ -19706,16 +18226,14 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	![Screenshot_25.png](https://static.platzi.com/media/user_upload/Screenshot_25-fe05bb31-acc4-4bff-a9b9-d5f5ffdf0b77.jpg)
 
-* **AaronQuiroga** (1)
+* **AaronQuiroga** (1) [581612](https://platzi.com/comentario/581612/) 
 
-	
 	Reto:
 	
 	![Screenshot from 2019-05-08 11-20-47.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-05-08%2011-20-47-71a4ddb4-b87e-4547-98c5-2d7ad675f88d.jpg)
 
-* **odbeltrano** (1)
+* **odbeltrano** (1) [572612](https://platzi.com/comentario/572612/) 
 
-	
 	Hola, muy interesante este método de ordenamiento, a partir de este lo intente programar en java y me funciono perfectamente, aunque tuve que hacer unos cambios. Gracias, buen curso.
 	
 	public class OrdBurbuja {
@@ -19759,14 +18277,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	El arreglo ordenado es: 4, 9, 10, 21, 35, 40,  
 	BUILD SUCCESSFUL (total time: 0 seconds)
 
-	* **odbeltrano** (1)
+	* **odbeltrano** [572612] (1)
 
-		
 		No quedó muy bien el código jejeje, deberían dejar modificar los comentarios, o tal vez no se como se hace =b
 
-* **GibsPM** (1)
+* **GibsPM** (1) [569723](https://platzi.com/comentario/569723/) 
 
-	
 	Adjunto código del reto:
 	``` 
 	    #include <stdio.h>
@@ -19812,9 +18328,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Octavio Parra Tovar** (1)
+* **Octavio Parra Tovar** (1) [569597](https://platzi.com/comentario/569597/) 
 
-	
 	Reto ordenamiento
 	``` 
 	    <#include<stdio.h>
@@ -19867,9 +18382,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Jemd** (1)
+* **Jemd** (1) [563684](https://platzi.com/comentario/563684/) 
 
-	
 	Reto cumplido!, solamente intercambie el signo de comparación adentro del condicional del bubble Sort, a seguirle dando compañeros
 	``` 
 	    // 1.- Comenzamos a hacer la comparación de elementos adyacentes
@@ -19918,9 +18432,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **selasorlac** (1)
+* **selasorlac** (1) [562475](https://platzi.com/comentario/562475/) 
 
-	
 	Tengo la solución del reto pero también una pregunta, por si alguno me puede ayudar!
 	
 	La pregunta es, por qué no puedo en vez de tener que enviarle la variable n a la función _bubbleSort_ o a la función _print_ simplemente dentro de ellos realizar la misma operación que hicimos en el main? A esta operación me refiero:
@@ -19947,14 +18460,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	
 	De esta forma se ordenará en el sentido inverso, ya que los mayores serán corridos hacia la izquierda en vez de la derecha, saludos a todos!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [562475] (1)
 
-		
 		justo necesitamos saber en valor de n en esas dos funciones, tú podrías mandarla y hacerla en las 2 funciones, pero, harías 2 veces el cálculo, si la hacemos en el main sólo tuvimos que obtener n una vez
 
-* **Emmanuel Guerra** (1)
+* **Emmanuel Guerra** (1) [553219](https://platzi.com/comentario/553219/) 
 
-	
 	Reto cumplido:
 	``` 
 	    //Algoritmo de bubbleSort
@@ -20010,9 +18521,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Hmorales** (1)
+* **Hmorales** (1) [552996](https://platzi.com/comentario/552996/) 
 
-	
 	Comparto una versión en Java. Tiene una pequeña mejora que ayuda a evitar iterar cuando el arreglo ya se encuentra ordenado.
 	``` 
 	    public class BubbleSort {
@@ -20075,9 +18585,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Juan Esteban Jandres Rivera** (1)
+* **Juan Esteban Jandres Rivera** (1) [552488](https://platzi.com/comentario/552488/) 
 
-	
 	Reto resuelto
 	``` 
 	    void bubbleSort(int vectorEntrada[], int n){
@@ -20096,9 +18605,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **aargonzalezbe** (1)
+* **aargonzalezbe** (1) [552061](https://platzi.com/comentario/552061/) 
 
-	
 	Reto finalizado!
 	``` 
 	    #include <stdio.h>
@@ -20145,14 +18653,12 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Andres Cendales** (1)
+* **Andres Cendales** (1) [548829](https://platzi.com/comentario/548829/) 
 
-	
 	Para que es el * que colocas antes de n1 y n2?
 
-	* **Danelia Sanchez Sanchez** (4)
+	* **Danelia Sanchez Sanchez** [548829] (4)
 
-		
 		`*n1` y `*n2` son punteros, variables que almacenan la dirección de memoria de otra variable.
 		``` 
 		    int a = 5;
@@ -20162,9 +18668,8 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 		
 		En el ejercicio de la clase se necesitan los punteros para intercambiar los elementos del arreglo ya que si solo se pasan los valores a la función **(paso por valor)** en lugar de la dirección de memoria **(paso por referencia)** , no se ordenaría el arreglo, es decir, hace el intercambio en la función pero **no modifica** el arreglo. Te dejo este [enlace](https://es.stackoverflow.com/questions/1493/cu%C3%A1l-es-la-diferencia-entre-paso-de-variables-por-valor-y-por-referencia) que explica el paso por valor y por referencia.
 
-* **claoherrera** (1)
+* **claoherrera** (1) [548558](https://platzi.com/comentario/548558/) 
 
-	
 	Inclui la funcion:
 	``` 
 	    scanf ("%d", &Opcion);
@@ -20247,15 +18752,14 @@ Tengo una duda. ¿Porque la función print_array es de tipo int, cuando no estam
 	    
 	```
 
-* **Eduardo Aguilar Escalante** (1)
+* **Eduardo Aguilar Escalante** (1) [83766](https://platzi.com/comentario/1034807/) 
 #include <stdio.h> void cambiarPos(int *n1, int *n2){ int temp = *n1; *n1 = *n2; *n2 = temp; } void bubbleSort(int vectorEntrada[],...
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [81395](https://platzi.com/comentario/980538/) 
 Alguien logró completar el reto de hacer que se muestran ordenadamente de mayor a menor la secuencia de datos? La verdad intenté de muchí...
 
-	* **Nelson Matos** (1)
+	* **Nelson Matos** [81395] (1)
 
-		
 		Buen día Ricardo. A mi me funciono solamente modificando el signo de (Mayor que >) o (Menor que <) en la condición IF de la función bubblueSort .
 		
 		void bubbleSort(int vector_entrada[], int n)  
@@ -20275,48 +18779,43 @@ Alguien logró completar el reto de hacer que se muestran ordenadamente de mayor
 		
 		Espero te sirva de algo.
 
-* **Julio Cesar Cuevas Cardenas** (1)
+* **Julio Cesar Cuevas Cardenas** (1) [81281](https://platzi.com/comentario/978060/) 
 En que curso puedo aprender a compilar con el bash de Ubuntu porque no me encuentra el directorio del Visial SC entonces puedo que lleve ...
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [81281] (1)
 
-		
 		¡Hola!
 		
 		¿Podrías mostrarnos el error que te muestra la consola? Puede que sea algo tan sencillo como la ruta de los archivos. Muéstranos para poderte ayudar. 😉
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [76098](https://platzi.com/comentario/880926/) 
 Aún no comprendo la parte del valor de N en el main; que valor tiene al ser dividida por el sizeof y entrar a la funion ...
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [76098] (2)
 
-		
 		El valor de N es el número de elementos que tiene el arreglo. Se calcula dividiento el tamaño total en bytes del arreglo entre el tamaño que ocupa un solo elemento del arreglo. Se realiza ese cálculo porque el arreglo se inicializa con los valores pero no se especifica cuántos son.
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [75397](https://platzi.com/comentario/869220/) 
 ¿Por qué se declararon las variables con asterisco en “cambiar_pos”?
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [75397] (1)
 
-		
 		Aquí se explica:  
 		<https://platzi.com/comentario/548829/>
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [73147](https://platzi.com/comentario/829371/) 
 hay alguna forma eficiente de hacer que el código se detenga una vez los ordena? en la mayoría de los casos (excepto 1) el algoritmo no n...
 
-	* **Danelia Sanchez Sanchez** (1)
+	* **Danelia Sanchez Sanchez** [73147] (1)
 
-		
 		Puedes crear una bandera inicializada con un valor booleano y cuando no se hagan intercambios, cambiar el valor. Si no hay intercambios, significa que el arreglo está ordenado. Este enlace puede ayudarte.  
 		<https://runestone.academy/runestone/static/pythoned/SortSearch/ElOrdenamientoBurbuja.html>
 
-* **Byron Bustamante López** (1)
+* **Byron Bustamante López** (1) [59910](https://platzi.com/comentario/597696/) 
 He escrito todo igual al código de Ricardo pero cuando lo ejecuto no me imprime nada. Alguien sabe por qué? #include <stdio.h&gt...
 
-	* **Byron Bustamante López** (1)
+	* **Byron Bustamante López** [59910] (1)
 
-		
 		He resuelto el problema. Por si a alguien más le pasa, hay que cambiar la llamada a cambiar_pos:
 		``` 
 		    cambiar_pos(vector_entrada[j], vector_entrada[j+1]);
@@ -20329,12 +18828,11 @@ He escrito todo igual al código de Ricardo pero cuando lo ejecuto no me imprime
 		    
 		```
 
-* **Andres Cendales** (1)
+* **Andres Cendales** (1) [56117](https://platzi.com/comentario/548829/) 
 Para que es el * que colocas antes de n1 y n2?
 
-	* **Danelia Sanchez Sanchez** (4)
+	* **Danelia Sanchez Sanchez** [56117] (4)
 
-		
 		`*n1` y `*n2` son punteros, variables que almacenan la dirección de memoria de otra variable.
 		``` 
 		    int a = 5;
@@ -20344,7 +18842,7 @@ Para que es el * que colocas antes de n1 y n2?
 		
 		En el ejercicio de la clase se necesitan los punteros para intercambiar los elementos del arreglo ya que si solo se pasan los valores a la función **(paso por valor)** en lugar de la dirección de memoria **(paso por referencia)** , no se ordenaría el arreglo, es decir, hace el intercambio en la función pero **no modifica** el arreglo. Te dejo este [enlace](https://es.stackoverflow.com/questions/1493/cu%C3%A1l-es-la-diferencia-entre-paso-de-variables-por-valor-y-por-referencia) que explica el paso por valor y por referencia.
 
-## 0240. Insertion sort
+## 0240. Insertion sort [16931](https://platzi.com/clases/1469-algoritmos/16931-insertion-sort/)
 
 ### Descripción:
 
@@ -20404,31 +18902,26 @@ Como puedes observar en la imagen, recorremos nuestro set de datos posición por
 
 ### Comentarios:
 
-* **Luis Nilson Palma Campos** (9)
+* **Luis Nilson Palma Campos** (9) [528149](https://platzi.com/comentario/528149/) 
 
-	
 	Después de dos horas y mas de 3 hojas bond compilando pude entender el método insertion xd
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [528149] (2)
 
-		
 		`jaja lo importante es hacer lo que sea necesario para tener todo claro, saludos!
 
-* **hernan__giraldo** (6)
+* **hernan__giraldo** (6) [635788](https://platzi.com/comentario/635788/) 
 
-	
 	Algoritmo realizado con javascript y apoyado en angular para mostrar gráficamente el proceso que se llevó a cabo en el ordenamiento:
 	
 	<https://stackblitz.com/edit/ckupb1-insertion-sort>
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [635788] (1)
 
-		
 		Te quedó súper pro!!
 
-* **manuelpalacio** (6)
+* **manuelpalacio** (6) [593539](https://platzi.com/comentario/593539/) 
 
-	
 	Mi solucion, muestra paso por paso como se van moviendo los datos
 	``` 
 	    #include<stdio.h>
@@ -20481,19 +18974,16 @@ Como puedes observar en la imagen, recorremos nuestro set de datos posición por
 	    
 	```
 
-	* **SamDad** (1)
+	* **SamDad** [593539] (1)
 
-		
 		Me gusta mucho hacer eso en los algoritmos la primera vez que los ejecuto, para ir viendo como va todo a su sitio, lleva tiempo pero da satisfacción verlo funcionar todo.
 
-	* **gloria-lopez** (1)
+	* **gloria-lopez** [593539] (1)
 
-		
 		gracias!! me ayudo a comprender mejor la lógica 😃
 
-* **Ricardo Andres Rojas Alonso** (4)
+* **Ricardo Andres Rojas Alonso** (4) [980579](https://platzi.com/comentario/980579/) 
 
-	
 	Funcionó jajajaja que alegría y qué emoción me dio 😃
 	``` 
 	    #include <stdio.h>
@@ -20533,29 +19023,25 @@ Como puedes observar en la imagen, recorremos nuestro set de datos posición por
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (4)
+* **Wandy Rafael Santana Evangelista** (4) [670590](https://platzi.com/comentario/670590/) 
 
-	
 	**Aquí en JS:**  
 	![Screen Shot 2019-07-30 at 7.50.03 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-30%20at%207.50.03%20PM-c4dc4846-c823-425a-babc-36e18343d3ae.jpg)
 
-* **megadelt** (3)
+* **megadelt** (3) [979542](https://platzi.com/comentario/979542/) 
 
-	
 	Así como en el ejercicio anterior tengo una sola duda…  
 	en:  
 	`for (i = 1; i < n; i++) { currentVal= arr[i]; j = i-1; }`
 	
 	No se indica en cuánto se inicia n, cómo se hace esta comparación?
 
-	* **Maria_Perez** (4)
+	* **Maria_Perez** [979542] (4)
 
-		
 		es porque n se define en la función main, como puedes ver las funciones tipo void no devuelven ningún valor, la función main que es tipo entero es el que inicializa el algoritmo y ejecuta en orden las funciones anteriores. Para no inicializar varias veces n se hace desde el main.
 
-* **Luis Arturo Lira Cerda** (3)
+* **Luis Arturo Lira Cerda** (3) [911644](https://platzi.com/comentario/911644/) 
 
-	
 	Me tomó un rato entenderlo, lo que hice para comprende fue ir sustituyendo y haciendo el algoritmo primero mentalmente, haciendo eso me quedó claro cómo funciona el código
 	``` 
 	    definsertion_sort(numbers):
@@ -20582,9 +19068,8 @@ Como puedes observar en la imagen, recorremos nuestro set de datos posición por
 	    
 	```
 
-* **Alberto Antonio Torres Carreño** (3)
+* **Alberto Antonio Torres Carreño** (3) [534105](https://platzi.com/comentario/534105/) 
 
-	
 	la version con adecente o descendente
 	``` 
 	    #include <stdio.h> 
@@ -20653,68 +19138,56 @@ Como puedes observar en la imagen, recorremos nuestro set de datos posición por
 	
 	pero no me compila si no pongo el argumento y me dice un esperaba un cierre de paracentesis. es posible hacerlo en c o no?
 
-	* **Danelia Sanchez Sanchez** (3)
+	* **Danelia Sanchez Sanchez** [534105] (3)
 
-		
 		Los argumentos por defecto no están permitidos en C, son una característica de C++.
 
-* **Angie Garcia** (2)
+* **Angie Garcia** (2) [977984](https://platzi.com/comentario/977984/) 
 
-	
 	creo que se necesita practicarlo para aprender a ejecutarlo bien
 
-* **Alfonso Romero** (2)
+* **Alfonso Romero** (2) [977329](https://platzi.com/comentario/977329/) 
 
-	
 	Mucha practica para entender el funcionamiento de cada linea de codigo.
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [972247](https://platzi.com/comentario/972247/) 
 
-	
 	Hacerlo tiende a resultar mejor para entender el código.  
 	![OnsertionSort.png](https://static.platzi.com/media/user_upload/OnsertionSort-27e3e383-ef45-4cb8-9669-5e8557122586.jpg)
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [971227](https://platzi.com/comentario/971227/) 
 
-	
 	Lo revise varias veces y en ocasiones me confundia bastante, finalmente creo haber entendido este algoritmo.
 
-* **freddymm** (2)
+* **freddymm** (2) [859277](https://platzi.com/comentario/859277/) 
 
-	
 	Tuve que tomar lapiz y papel, para recorrer el código, y una hora treinta minutos para poder comprender como funciona el algoritmo pero es gratificante cuando lo logras
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [859277] (1)
 
-		
 		Sí!! Muchas veces necesito escribir mi lógica en papel, así que entiendo mejor lo que necesito programar.
 
-* **gloria-lopez** (2)
+* **gloria-lopez** (2) [814169](https://platzi.com/comentario/814169/) 
 
-	
 	No llegue a entender la lógica de este algoritmo 😦
 
-	* **gloria-lopez** (4)
+	* **gloria-lopez** [814169] (4)
 
-		
 		lo entendí , después de varias hojas y horas pero logre comprender 😃 😃
 
-	* **alexander garcia castañeda** (1)
+	* **alexander garcia castañeda** [814169] (1)
 
-		
 		para entender este tipo de ejercicios lo mejor es darle valores a los contadores y recorrer el ciclo mentalmente o compilarlo paso a paso en algún compilador que le permita hacerlo.
 
-* **odbeltrano** (2)
+* **odbeltrano** (2) [58066](https://platzi.com/comentario/572618/) 
 La verdad un poco complejo, no he podido entenderlo muy bien
 
-	* **Jaskier28** (3)
+	* **Jaskier28** [58066] (3)
 
-		
 		la verdad solo esta hablando de estructuras de datos y como ordenarlas aunque eso tiene un poco de algoritmos, en si no explica casi nada referente a los algoritmos
 
-* **LuqueDaniel** (1)
+* **LuqueDaniel** (1) [1112422](https://platzi.com/comentario/1112422/) 
 
-	
 	Comparto dos enlaces que me han parecido muy útiles.
 	
 	  1. Una conversación sobre insertion sort y bubble sort: <https://stackoverflow.com/questions/17270628/insertion-sort-vs-bubble-sort-algorithms>
@@ -20722,9 +19195,8 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	
 	
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [1058888](https://platzi.com/comentario/1058888/) 
 
-	
 	INSERTION SORT en Javascript.
 	``` 
 	    <!DOCTYPE html>
@@ -20765,14 +19237,12 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1055964](https://platzi.com/comentario/1055964/) 
 
-	
 	No entendí pero lo voy a practicar
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [1055964] (1)
 
-		
 		Ahora si entendi; probe estos numeros y asi era el programa:
 		
 		6,5,4  
@@ -20781,52 +19251,43 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 		5,5,6  
 		4,5,6
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1032779](https://platzi.com/comentario/1032779/) 
 
-	
 	Resumen: INSERTION SORT:  
 	Es un algoritmo que ordena cada valor individualmente, de menor a mayor. Comienza comparando de a dos números hasta que queden ordenados de menor a mayor.
 	
 	La practica hace al maestro, debemos seguir practicando, gracias por la clase 😃
 
-* **Rygel** (1)
+* **Rygel** (1) [886773](https://platzi.com/comentario/886773/) 
 
-	
 	Esto yo lo conocía como método burbuja, es el mismo o son diferentes?
 
-	* **Juan Marcos Caicedo Mejía** (1)
+	* **Juan Marcos Caicedo Mejía** [886773] (1)
 
-		
 		Burbuja es el Bubble sort.
 
-	* **Rygel** (1)
+	* **Rygel** [886773] (1)
 
-		
 		Es que no les veo diferencia
 
-	* **Aldo-Salas** (2)
+	* **Aldo-Salas** [886773] (2)
 
-		
 		La diferencia es que en bubble sort vas recorriendo y comparando todo el array por pares, mientras que en este método comparas los números de todo el array, como si sacaras el número y lo metieras donde corresponde.
 
-	* **Aldo-Salas** (2)
+	* **Aldo-Salas** [886773] (2)
 
-		
 		Te dejo este link para que lo entiendas mejor: <https://visualgo.net/en/sorting>
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886021](https://platzi.com/comentario/886021/) 
 
-	
 	La verdad este algoritmo es bastante complejo y fue un poco difícil de entender
 
-* **rogerparada** (1)
+* **rogerparada** (1) [854922](https://platzi.com/comentario/854922/) 
 
-	
 	si, cuesta entender el algoritmo
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [851852](https://platzi.com/comentario/851852/) 
 
-	
 	Me costo entenderlo, pero se logró 💪. Les comparto mi código (use un for en vez de un while)
 	``` 
 	    function insertionSort() {
@@ -20851,12 +19312,12 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	
 	Este código espero que les ayude a quienes aún no entienden bien el funcionamiento del algoritmo, muestra cada cambio y el valor de los indices.
 
-* **Camilo Morales Sanchez** (1)
-![img.png](https://static.platzi.com/media/user_upload/img-6d535323-a6d4-4413-8370-4998aca37955.jpg)
-
-* **jonathan2138** (1)
-
+* **Camilo Morales Sanchez** (1) [705592](https://platzi.com/comentario/705592/) 
 	
+	![img.png](https://static.platzi.com/media/user_upload/img-6d535323-a6d4-4413-8370-4998aca37955.jpg)
+
+* **jonathan2138** (1) [689251](https://platzi.com/comentario/689251/) 
+
 	Mi implementación en Java
 	``` 
 	    class Main {
@@ -20877,7 +19338,7 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	    
 	```
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [645570](https://platzi.com/comentario/645570/) 
 
 	```
 	    public void insertionSort(ArrayList<Integer> arrayList, int size) {
@@ -20891,10 +19352,10 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	                j = i-1;
 	    
 	                /*
-	                * Mueve los elementos del arreglo arrayList[0..i-1], que son mayores que el
-	                * valor de la posición actual del recorrido, a una posición adelante de su
-	                * posición actual.
-	                * */
+	              * Mueve los elementos del arreglo arrayList[0..i-1], que son mayores que el
+	              * valor de la posición actual del recorrido, a una posición adelante de su
+	              * posición actual.
+	              * */
 	                while (j >= 0 && arrayList.get(j) > currentValue) {
 	                    arrayList.set(j+1,arrayList.get(j));
 	                    j = j - 1;
@@ -20948,14 +19409,12 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	    
 	```
 
-* **Joseph F. Ramirez Mendez** (1)
+* **Joseph F. Ramirez Mendez** (1) [606043](https://platzi.com/comentario/606043/) 
 
-	
 	Test Comment.
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [605345](https://platzi.com/comentario/605345/) 
 
-	
 	void insertionSort3(int arr[], int n)  
 	{  
 	int i, currentVal;  
@@ -20972,32 +19431,28 @@ La verdad un poco complejo, no he podido entenderlo muy bien
 	
 	Creo que la anterior lógica también pertenece a insertion sort.
 
-* **odbeltrano** (1)
+* **odbeltrano** (1) [572618](https://platzi.com/comentario/572618/) 
 
-	
 	La verdad un poco complejo, no he podido entenderlo muy bien
 
-	* **Jaskier28** (3)
+	* **Jaskier28** [572618] (3)
 
-		
 		la verdad solo esta hablando de estructuras de datos y como ordenarlas aunque eso tiene un poco de algoritmos, en si no explica casi nada referente a los algoritmos
 
-* **Alberto Antonio Torres Carreño** (1)
+* **Alberto Antonio Torres Carreño** (1) [54785](https://platzi.com/comentario/534105/) 
 la version con adecente o descendente #include <stdio.h> #include <math.h> #include <stdbool.h> /* Función d...
 
-	* **Danelia Sanchez Sanchez** (3)
+	* **Danelia Sanchez Sanchez** [54785] (3)
 
-		
 		Los argumentos por defecto no están permitidos en C, son una característica de C++.
 
-* **keila martinez** (0)
+* **keila martinez** (0) [1070049](https://platzi.com/comentario/1070049/) 
 
-	
 	despues de media tratando de entender y compilar lo logre
 	
 	![insertionSorf.PNG](https://static.platzi.com/media/user_upload/insertionSorf-d136696d-1c36-42af-b9f1-9b1471a37eee.jpg)
 
-## 0250. Desafío implementa un algoritmo de ordenamiento
+## 0250. Desafío implementa un algoritmo de ordenamiento [16929](https://platzi.com/clases/1469-algoritmos/16929-desafio-implementa-un-algoritmo-de-ordenamiento/)
 
 ### Descripción:
 
@@ -21307,9 +19762,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (8)
+* **Danelia Sanchez Sanchez** (8) [529139](https://platzi.com/comentario/529139/) 
 
-	
 	Aquí dejó la implementación del algoritmo de **[SelectionSort](https://es.wikipedia.org/wiki/Ordenamiento_por_selecci%C3%B3n)** (Ordenamiento de Selección), es muy similar al **BubbleSort**. Los números están guardados en un archivo **`numbers.dat`**.
 	``` 
 	    #include <stdio.h>
@@ -21374,25 +19828,21 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	Si quieres ejecutarlo:  
 	<https://repl.it/@DaneliaSanchez/selectionSort>
 
-	* **Pablo Benedix** (1)
+	* **Pablo Benedix** [529139] (1)
 
-		
 		Hola!, muchísimas gracias por tu código, la verdad es que no encontraba la forma de como poner todos los números dentro del **Array** pero me salvaste con eso del **FILE**. Me voy a asegurar de mencionarte al subir mi código.
 
-	* **miguel-angel-baquero** (1)
+	* **miguel-angel-baquero** [529139] (1)
 
-		
 		Hola.  
 		Muy buen aporte y muy buena idea al tomar los datos de un archivo externo.
 
-	* **Byron Bustamante López** (1)
+	* **Byron Bustamante López** [529139] (1)
 
-		
 		Muchas gracias por la idea de leer un fichero =)
 
-* **Wandy Rafael Santana Evangelista** (6)
+* **Wandy Rafael Santana Evangelista** (6) [670615](https://platzi.com/comentario/670615/) 
 
-	
 	 **AQUÍ ESTAN LOS DATOS CON COMA PARA LOS QUE LO NECESITEN:**  
 	-796, 3229, -5164, -362, 4408, 8965, -6068, 9329, -3034, -443, -6693, 9497, 2615, -5966, -9065, -1160, 6148, 5517, 1123, -8887  
 	,5649, 3302, -1176, -8542, -9166, 8, -2906, 8987, -2414, -7984, 4410, 8872, 5241, -4556, 59, -5562, -3877, 7452, -4467, 2076, 4076, 4297  
@@ -21409,14 +19859,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	,-8882, 5487, -6939, -7885, 3786, -6234, -1062, -4553, -5709, 8459, 5008, 3352, 6586, 537, -7610, 3261, 8246, -2105, 5107, 7957, -7886, -2925, -2541  
 	,-7449, 9521, 5073, -239, -8054, -4379, -8323, -6485, -4828, -5294, -2720, 595
 
-	* **manuelvlza** (1)
+	* **manuelvlza** [670615] (1)
 
-		
 		rifaste, yo los estaba ordenando de uno en uno…
 
-* **Luis Nilson Palma Campos** (4)
+* **Luis Nilson Palma Campos** (4) [528162](https://platzi.com/comentario/528162/) 
 
-	
 	Reto cumplido ordenado de mayor a menor
 	``` 
 	    #include <stdio.h> 
@@ -21478,7 +19926,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	![Ctura.PNG](https://static.platzi.com/media/user_upload/Ctura-c38f65c2-7ceb-4d5d-be1a-3176196b7b9a.jpg)
 
-	* **Wellington Gabriel Muñoz Vargas** (1)
+	* **Wellington Gabriel Muñoz Vargas** [528162] (1)
 
 		```
 		    using System;
@@ -21555,19 +20003,16 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		    
 		```
 
-* **Hector Alejandro Ramirez Huertas** (3)
+* **Hector Alejandro Ramirez Huertas** (3) [563798](https://platzi.com/comentario/563798/) 
 
-	
 	![001.JPG](https://static.platzi.com/media/user_upload/001-ac169e93-cce0-4251-a2c9-f3c887addd72.jpg)![002.JPG](https://static.platzi.com/media/user_upload/002-f7eb94e2-36aa-4370-ba27-1f6863c0b6db.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [563798] (1)
 
-		
 		Hey! Excelente trabajo e implementacion alejo!
 
-* **selasorlac** (3)
+* **selasorlac** (3) [562549](https://platzi.com/comentario/562549/) 
 
-	
 	Hola a todos, realicé el desafío utilizando el algoritmo de ordenamiento llamado Selection Sort. Utilicé el material que dejó el compañero @eagskunst en otro comentario de este desafio, el material es [este](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html).
 	
 	Hay dos funciones de ordenamiento en el código:
@@ -21641,21 +20086,19 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	![](https://i.imgur.com/45HmPLB.png)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [562549] (1)
 
-		
 		Excelente trabajo! Muchas gracias por compartir tu codigo tan detallado
 
-* **guillermogranado** (2)
+* **guillermogranado** (2) [960253](https://platzi.com/comentario/960253/) 
 
-	
 	He realizado el ejercicio utilizando el algoritmo de **insertion sort** obteniendo el listado de números a partir de un archivo de texto  
 	Aquí el código:
 	``` 
 	    /*
-	     * Implement sorting algorithm with a list of numbers defined in numbers.txt file
-	     * File content:
-	     * -796
+	   * Implement sorting algorithm with a list of numbers defined in numbers.txt file
+	   * File content:
+	   * -796
 	    3229
 	    -5164
 	    -362
@@ -22012,9 +20455,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Edison_Avila** (2)
+* **Edison_Avila** (2) [951109](https://platzi.com/comentario/951109/) 
 
-	
 	Para este desafío use dos métodos distintos y en dos lenguajes diferentes C y JS:
 	
 	En C
@@ -22106,9 +20548,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **camiloGPamplona** (2)
+* **camiloGPamplona** (2) [937332](https://platzi.com/comentario/937332/) 
 
-	
 	**AQUI LES DEJO MI CODIGO CON JS.**
 	``` 
 	    function quickSort(arr){
@@ -22433,9 +20874,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Juan Camilo Alvarez Jurado** (2)
+* **Juan Camilo Alvarez Jurado** (2) [859381](https://platzi.com/comentario/859381/) 
 
-	
 	Aquí mi solución. Implementé Insertion-Sort en C, gracias al [Curso de Introducción a C](https://platzi.com/clases/lenguaje-c/)
 	
 	![](![r1.png](https://static.platzi.com/media/user_upload/r1-26471f23-30b5-4926-bc33-631dfbbfcae8.jpg)
@@ -22444,7 +20884,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	Pueden bajar el código de aquí: <https://github.com/jcalvarezj/practice/blob/master/C/insertionData.c>
 
-* **Miguel Angel Guerrero Salinas** (2)
+* **Miguel Angel Guerrero Salinas** (2) [693326](https://platzi.com/comentario/693326/) 
 
 	```
 	    # Crear una memoria de numeros.
@@ -22478,9 +20918,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    Puse el archivo de los números en un texto, y luego lo parsee a una lista de enteros.
 	```
 
-* **Gabriel De Andrade (Platzi)** (2)
+* **Gabriel De Andrade (Platzi)** (2) [540351](https://platzi.com/comentario/540351/) 
 
-	
 	Cocktail Sort o Ordenamiento de Burbuja Bidireccional es una versión mejorada del ordenamiento de burbuja que hace dos pasadas una de izquierda a derecha y otra de derecha a izquierda. Aquí la cantidad de números que se evalúan en comparación con el bubble sort es menor
 	
 	![](https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif)
@@ -22591,7 +21030,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Mikeb91** (1)
+* **Mikeb91** (1) [1115427](https://platzi.com/comentario/1115427/) 
 
 	```
 	    Llenando el Array...
@@ -22604,7 +21043,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Aron Blas Ruiz** (1)
+* **Aron Blas Ruiz** (1) [1104551](https://platzi.com/comentario/1104551/) 
 
 	```
 	    #include <stdio.h>
@@ -22674,9 +21113,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089673](https://platzi.com/comentario/1089673/) 
 
-	
 	Código para desafío en Java:
 	``` 
 	    public class BubbleSort
@@ -22725,8 +21163,9 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **keila martinez** (1)
-![resultado reto.PNG](https://static.platzi.com/media/user_upload/resultado%20reto-cfeecc87-b724-4e74-b336-cf385fbaf28f.jpg)
+* **keila martinez** (1) [1070390](https://platzi.com/comentario/1070390/) 
+	
+	![resultado reto.PNG](https://static.platzi.com/media/user_upload/resultado%20reto-cfeecc87-b724-4e74-b336-cf385fbaf28f.jpg)
 	
 	#include<stdio.h>
 	
@@ -22810,9 +21249,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	}
 
-* **Gabospa** (1)
+* **Gabospa** (1) [1068745](https://platzi.com/comentario/1068745/) 
 
-	
 	Utilice el mismo burbuja, solo gire un signo. Como se miden los tiempos de calculo de cada uno?
 	``` 
 	    #include<stdio.h>
@@ -22864,9 +21302,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1056636](https://platzi.com/comentario/1056636/) 
 
-	
 	Pienso que el Insertion sort es mejor que el bubble sort para esta cantidad de datos:
 	``` 
 	    #include <stdio.h>
@@ -22928,13 +21365,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Rene Pazmiño** (1)
+* **Rene Pazmiño** (1) [1054309](https://platzi.com/comentario/1054309/) 
 
-	
 	![codebubblesort.jpg](https://static.platzi.com/media/user_upload/codebubblesort-1f6ad3ea-85bf-40e1-9ca4-01a9e71f5b97.jpg)  
 	![bubblesort_exe.jpg](https://static.platzi.com/media/user_upload/bubblesort_exe-deb5f82c-1e9e-4661-a50d-1442313eaf15.jpg)
 
-* **ManuGT** (1)
+* **ManuGT** (1) [1043177](https://platzi.com/comentario/1043177/) 
 
 	```
 	        void Ordenamiento(int[] valores)
@@ -22957,22 +21393,19 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Nicolas David Pastran Zamora** (1)
+* **Nicolas David Pastran Zamora** (1) [1034513](https://platzi.com/comentario/1034513/) 
 
-	
 	Lo implemente con insertion sort  
 	![SuperVector.JPG](https://static.platzi.com/media/user_upload/SuperVector-dad445cb-2f5b-4ee1-999b-a6fe0098c6f0.jpg)
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1032889](https://platzi.com/comentario/1032889/) 
 
-	
 	Ya hice el código parecido al del anterior, pero no me imprime los números, alguien que me pueda ayudar sabe la solución del porque no me imprime? Gracias!
 	
 	![tallercod1.PNG](https://static.platzi.com/media/user_upload/tallercod1-f3b91358-cfe6-453d-b99c-6ab4202327ab.jpg) ![tallercod2.PNG](https://static.platzi.com/media/user_upload/tallercod2-89d2f56d-e83c-4134-9193-8e5b4775061a.jpg) ![tallercod3.PNG](https://static.platzi.com/media/user_upload/tallercod3-1129ff0b-a54c-4234-83ee-79a937b557de.jpg)
 
-	* **Nicolas David Pastran Zamora** (1)
+	* **Nicolas David Pastran Zamora** [1032889] (1)
 
-		
 		Te falta un espacio tab en el código de imprimir, así es :
 		``` 
 		    int print_array(int vector_entrada[], int n)
@@ -23001,9 +21434,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		    
 		```
 
-	* **Eduardo Aguilar Escalante** (2)
+	* **Eduardo Aguilar Escalante** [1032889] (2)
 
-		
 		En tu función de imprimir en el ciclo for, en la comparación tienes inverso el signo, debe ir < y lo tienes como >.
 		
 		de igual forma te adjunto como me funcionó a mi:
@@ -23018,16 +21450,14 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		    
 		```
 
-	* **marloehoyos** (1)
+	* **marloehoyos** [1032889] (1)
 
-		
 		Hola Paola,
 		
 		En el ciclo for dentro de la función print_array, la condición la tienes mal; debe ser i < n-1 y tu tienes según la imagen i > n-1.
 
-* **uncristianr** (1)
+* **uncristianr** (1) [1029863](https://platzi.com/comentario/1029863/) 
 
-	
 	Mi solución en python3 con interfaz en consola
 	``` 
 	    import random
@@ -23100,9 +21530,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Julio Cesar Estrada Marcial** (1)
+* **Julio Cesar Estrada Marcial** (1) [987502](https://platzi.com/comentario/987502/) 
 
-	
 	BubbleSort on Golang
 	``` 
 	    package main
@@ -23170,9 +21599,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **joseburgon** (1)
+* **joseburgon** (1) [985776](https://platzi.com/comentario/985776/) 
 
-	
 	**_Merge Sort_**  
 	Usando recursividad en Javascript!
 	``` 
@@ -23221,9 +21649,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **edwintrumpet** (1)
+* **edwintrumpet** (1) [982611](https://platzi.com/comentario/982611/) 
 
-	
 	**Merge Sort**  
 	Construí una lógica entorno al algoritmo Merge Sort que el profesor presentó en una clase pasada.
 	``` 
@@ -23321,9 +21748,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [980670](https://platzi.com/comentario/980670/) 
 
-	
 	Desafío alcanzado, dejo por acá mis resultados… en la parte de abajo del código coloco el resultado de la terminal ya que por alguna extraña razón no me permite tomar un screenshot…
 	``` 
 	    #include <stdio.h>
@@ -23371,25 +21797,22 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **megadelt** (1)
+* **megadelt** (1) [979924](https://platzi.com/comentario/979924/) 
 
-	
 	Aqui están los códigos y resultado
 	
 	![2020-02-11 \(2\).png](https://static.platzi.com/media/user_upload/2020-02-11%20%282%29-2d563d59-f4d3-434c-bb1f-086d23849964.jpg)  
 	![2020-02-11 \(3\).png](https://static.platzi.com/media/user_upload/2020-02-11%20%283%29-493ecc41-8cd4-4183-80e5-0d7a3f88b4c3.jpg)  
 	![2020-02-11 \(5\).png](https://static.platzi.com/media/user_upload/2020-02-11%20%285%29-5bd49f00-5145-4808-9122-054a46924796.jpg)
 
-* **wilmaryoanmalavermalaver** (1)
+* **wilmaryoanmalavermalaver** (1) [974483](https://platzi.com/comentario/974483/) 
 
-	
 	Ordenados de mayor a menor
 	
 	![](![Captura de pantalla 2020-02-08 18.40.18.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-08%2018.40.18-408156cf-ab1d-46ff-a9d4-6f9dc91c28cf.jpg)
 
-	* **Angie Garcia** (1)
+	* **Angie Garcia** [974483] (1)
 
-		
 		#include<stdio.h>  
 		void cambiar_pos(int *n1, int *n2)  
 		{  
@@ -23429,7 +21852,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		return 0;  
 		}
 
-* **16angiec** (1)
+* **16angiec** (1) [971469](https://platzi.com/comentario/971469/) 
 
 	```
 	    #include <stdio.h>
@@ -23518,9 +21941,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [971459](https://platzi.com/comentario/971459/) 
 
-	
 	#include <stdio.h>  
 	#include <math.h>
 	
@@ -23566,7 +21988,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	}
 
-* **Cristian Fabian Tovar** (1)
+* **Cristian Fabian Tovar** (1) [968274](https://platzi.com/comentario/968274/) 
 
 	```
 	    /* 1.- Comenzamos a hacer la comparacioin de elementos adyacentes
@@ -23633,9 +22055,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Cristian Fabian Tovar** (1)
+* **Cristian Fabian Tovar** (1) [968269](https://platzi.com/comentario/968269/) 
 
-	
 	9976  
 	9885  
 	9883  
@@ -23938,9 +22359,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	-9999  
 	fin del ordenamiento, adios
 
-* **Oscar Garcia** (1)
+* **Oscar Garcia** (1) [965944](https://platzi.com/comentario/965944/) 
 
-	
 	Ordenamiento insertionSort de Mayor a menor
 	``` 
 	    #include <stdio.h> 
@@ -23991,9 +22411,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    ![]()
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [965851](https://platzi.com/comentario/965851/) 
 
-	
 	Lo logré con Insertion Sort leyendo los datos de un .txt. 😃
 	
 	![InsertionSort.png](https://static.platzi.com/media/user_upload/InsertionSort-1500e1bc-e1fd-4953-a732-fd94fb576b91.jpg)
@@ -24058,14 +22477,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Josue12** (1)
+* **Josue12** (1) [955448](https://platzi.com/comentario/955448/) 
 
-	
 	Utilice los dos algoritmos (BubbleSort y InsertSort) para comparar y me di cuenta que Bubble hace el proceso ligeramente mas lento ( 0.1231 seconds) que Insert (.0811 seconds)
 
-* **Luis Angel José Portillo Arévalo** (1)
+* **Luis Angel José Portillo Arévalo** (1) [949830](https://platzi.com/comentario/949830/) 
 
-	
 	Lo que hice fue copiar los numeros que dejo el profesor Celis, pegarlos en un string literal en javascript llamado “dataset” y luego hacer
 	``` 
 	    dataset = dataset.split('\n');
@@ -24101,9 +22518,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **JosueM** (1)
+* **JosueM** (1) [940022](https://platzi.com/comentario/940022/) 
 
-	
 	Listo, lo dificil fueron las comas, porque eran muchas.  
 	9976, 9885, 9883, 9791, 9720, 9622, 9551, 9545, 9521, 9497, 9448, 9421, 9329, 9254, 9222, 9162, 9131, 8987, 8965, 8872, 8830, 8780, 8762, 8681, 8599, 8578, 8553, 8523, 8502, 8459, 8252, 8246, 8233, 8208, 7966, 7957, 7891, 7889, 7878, 7831, 7629, 7452, 7387, 7236, 7201, 7177, 7137, 7079, 6941, 6796, 6741, 6679, 6662, 6637, 6586, 6410, 6399, 6356, 6291, 6199, 6187, 6148, 6010, 5904, 5850, 5650, 5649, 5622, 5574, 5517, 5487, 5361, 5241, 5219, 5114, 5107, 5106, 5073, 5063, 5008, 4957, 4926, 4800, 4735, 4632, 4624, 4575, 4483, 4410, 4408, 4408, 4397, 4302, 4297, 4222, 4076, 3943, 3870, 3786, 3682, 3672, 3577, 3536, 3372, 3368, 3352, 3302, 3287, 3261, 3229, 3164, 3096, 3077, 2926, 2772, 2770, 2732, 2649, 2615, 2565, 2461, 2325, 2228, 2076, 2037, 1936, 1822, 1635, 1505, 1455, 1305, 1246, 1229, 1175, 1123, 1065, 1032, 946, 824, 766, 680, 676, 595, 537, 458, 200, 59, 23, 8, -238, -239, -362, -362, -369, -429, -443, -479, -501, -673, -702, -749, -796, -916, -1018, -1062, -1062, -1078, -1160, -1176, -1446, -1484, -1574, -1610, -1634, -1666, -1683, -1766, -1793, -1981, -1997, -2055, -2083, -2089, -2099, -2105, -2204, -2371, -2409, -2414, -2438, -2541, -2570, -2601, -2685, -2691, -2720, -2796, -2871, -2905, -2906, -2925, -2940, -2948, -2980, -3034, -3066, -3099, -3181, -3260, -3261, -3269, -3535, -3576, -3668, -3674, -3847, -3877, -4031, -4098, -4379, -4420, -4467, -4553, -4556, -4650, -4689, -4727, -4729, -4755, -4828, -5022, -5060, -5065, -5147, -5156, -5164, -5218, -5277, -5294, -5350, -5555, -5562, -5665, -5709, -5794, -5966, -5991, -6068, -6096, -6153, -6234, -6256, -6338, -6485, -6625, -6688, -6693, -6826, -6939, -6953, -7032, -7060, -7228, -7261, -7442, -7449, -7610, -7875, -7885, -7886, -7984, -8004, -8026, -8054, -8230, -8323, -8358, -8412, -8542, -8614, -8651, -8670, -8744, -8834, -8882, -8887, -9065, -9076, -9136, -9166, -9210, -9226, -9669, -9803, -9846, -9941, -9954, -9999,  
 	Fin del ordenamiento
@@ -24460,9 +22876,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Aldo-Salas** (1)
+* **Aldo-Salas** (1) [916277](https://platzi.com/comentario/916277/) 
 
-	
 	**Código de Quick sort**
 	``` 
 	    #include<stdio.h>
@@ -24535,9 +22950,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	**Resultado:**  
 	9976, 9885, 9883, 9791, 9720, 9622, 9551, 9545, 9521, 9497, 9448, 9421, 9329, 9254, 9222, 9162, 9131, 8987, 8965, 8872, 8830, 8780, 8762, 8681, 8599, 8578, 8553, 8523, 8502, 8459, 8252, 8246, 8233, 8208, 7966, 7957, 7891, 7889, 7878, 7831, 7629, 7452, 7387, 7236, 7201, 7177, 7137, 7079, 6941, 6796, 6741, 6679, 6662, 6637, 6586, 6410, 6399, 6356, 6291, 6199, 6187, 6148, 6010, 5904, 5850, 5650, 5649, 5622, 5574, 5517, 5487, 5361, 5241, 5219, 5114, 5107, 5106, 5073, 5063, 5008, 4957, 4926, 4800, 4735, 4632, 4624, 4575, 4483, 4410, 4408, 4408, 4397, 4302, 4297, 4222, 4076, 3943, 3870, 3786, 3682, 3672, 3577, 3536, 3372, 3368, 3352, 3302, 3287, 3261, 3229, 3164, 3096, 3077, 2926, 2772, 2770, 2732, 2649, 2615, 2565, 2461, 2325, 2228, 2076, 2037, 1936, 1822, 1635, 1505, 1455, 1305, 1246, 1229, 1175, 1123, 1065, 1032, 946, 824, 766, 680, 676, 595, 537, 458, 200, 59, 23, 8, -238, -239, -362, -369, -429, -443, -479, -501, -673, -702, -749, -796, -916, -1018, -1062, -1062, -1078, -1160, -1176, -1446, -1484, -1574, -1610, -1634, -1666, -1683, -1766, -1793, -1981, -1997, -2055, -2083, -2089, -2099, -2105, -2204, -2371, -2409, -2414, -2438, -2541, -2570, -2601, -2685, -2691, -2720, -2796, -2871, -2905, -2906, -2925, -2940, -2948, -2980, -3034, -3066, -3099, -3181, -3260, -3261, -3269, -3535, -3576, -3622, -3668, -3674, -3847, -3877, -4031, -4098, -4111, -4379, -4420, -4467, -4553, -4556, -4650, -4689, -4727, -4729, -4755, -4828, -5022, -5060, -5065, -5147, -5156, -5164, -5218, -5277, -5294, -5350, -5555, -5562, -5665, -5709, -5794, -5966, -5991, -6068, -6096, -6153, -6234, -6256, -6338, -6485, -6558, -6625, -6688, -6693, -6826, -6939, -6953, -7032, -7060, -7228, -7261, -7442, -7449, -7610, -7875, -7885, -7886, -7984, -8004, -8026, -8054, -8230, -8323, -8358, -8412, -8542, -8614, -8651, -8670, -8744, -8834, -8882, -8887, -9065, -9076, -9136, -9166, -9210, -9226, -9669, -9803, -9846, -9941, -9954, -9999
 
-* **OscarPalomino** (1)
+* **OscarPalomino** (1) [894115](https://platzi.com/comentario/894115/) 
 
-	
 	Resultado.  
 	Ordenamiento de mayor a menor.  
 	9976 , 9885 , 9883 , 9791 , 9720 , 9622 , 9551 , 9545 , 9521 , 9497 , 9448 , 9421 , 9329 , 9254 , 9222 , 9162 , 9131 , 8987 , 8965 , 8872 , 8830 , 8780 , 8762 , 8681 , 8599 , 8578 , 8553 , 8523 , 8502 , 8459 , 8252 , 8246 , 8233 , 8208 , 7966 , 7957 , 7891 , 7889 , 7878 , 7831 , 7629 , 7452 , 7387 , 7236 , 7201 , 7177 , 7137 , 7079 , 6941 , 6796 , 6741 , 6679 , 6662 , 6637 , 6586 , 6410 , 6399 , 6356 , 6291 , 6199 , 6187 , 6148 , 6010 , 5904 , 5850 , 5650 , 5649 , 5622 , 5574 , 5517 , 5487 , 5361 , 5241 , 5219 , 5114 , 5107 , 5106 , 5073 , 5063 , 5008 , 4957 , 4926 , 4800 , 4735 , 4632 , 4624 , 4575 , 4483 , 4410 , 4408 , 4408 , 4397 , 4302 , 4297 , 4222 , 4076 , 3943 , 3870 , 3786 , 3682 , 3672 , 3577 , 3536 , 3372 , 3368 , 3352 , 3302 , 3287 , 3261 , 3229 , 3164 , 3096 , 3077 , 2926 , 2772 , 2770 , 2732 , 2649 , 2615 , 2565 , 2461 , 2325 , 2228 , 2076 , 2037 , 1936 , 1822 , 1635 , 1505 , 1455 , 1305 , 1246 , 1229 , 1175 , 1123 , 1065 , 1032 , 946 , 824 , 766 , 680 , 676 , 595 , 537 , 458 , 200 , 59 , 23 , 8 , -238 , -239 , -362 , -369 , -429 , -443 , -479 , -501 , -673 , -702 , -749 , -796 , -916 , -1018 , -1062 , -1062 , -1078 , -1160 , -1176 , -1446 , -1484 , -1574 , -1610 , -1634 , -1666 , -1683 , -1766 , -1793 , -1981 , -1997 , -2055 , -2083 , -2089 , -2099 , -2105 , -2204 , -2371 , -2409 , -2414 , -2438 , -2541 , -2570 , -2601 , -2685 , -2691 , -2720 , -2796 , -2871 , -2905 , -2906 , -2925 , -2940 , -2948 , -2980 , -3034 , -3066 , -3099 , -3181 , -3260 , -3261 , -3269 , -3535 , -3576 , -3622 , -3668 , -3674 , -3847 , -3877 , -4031 , -4098 , -4111 , -4379 , -4420 , -4467 , -4553 , -4556 , -4650 , -4689 , -4727 , -4729 , -4755 , -4828 , -5022 , -5060 , -5065 , -5147 , -5156 , -5164 , -5218 , -5277 , -5294 , -5350 , -5555 , -5562 , -5665 , -5709 , -5794 , -5966 , -5991 , -6068 , -6096 , -6153 , -6234 , -6256 , -6338 , -6485 , -6558 , -6625 , -6688 , -6693 , -6826 , -6939 , -6953 , -7032 , -7060 , -7228 , -7261 , -7442 , -7449 , -7610 , -7875 , -7885 , -7886 , -7984 , -8004 , -8026 , -8054 , -8230 , -8323 , -8358 , -8412 , -8542 , -8614 , -8651 , -8670 , -8744 , -8834 , -8882 , -8887 , -9065 , -9076 , -9136 , -9166 , -9210 , -9226 , -9669 , -9803 , -9846 , -9941 , -9954 , -9999 ,  
@@ -24608,9 +23022,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (1)
+* **Steve Anthony Luzquiños Agama** (1) [888195](https://platzi.com/comentario/888195/) 
 
-	
 	Reto cumplido para 10000 números aleatorios en JS. Los números aleatorios deben estar en un archivo en la carpeta raíz llamado ‘test.tx’.
 	``` 
 	    'use strict'
@@ -24668,7 +23081,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Rygel** (1)
+* **Rygel** (1) [886862](https://platzi.com/comentario/886862/) 
 
 	```
 	    defordenar(arreglo):
@@ -24711,9 +23124,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886051](https://platzi.com/comentario/886051/) 
 
-	
 	**AQUI EL DESAFIO TAMBIEN CON BUBBLE SORT**
 	``` 
 	    #include<stdio.h>
@@ -24762,14 +23174,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-	* **Rygel** (2)
+	* **Rygel** [886051] (2)
 
-		
 		Me podrías explicar la diferencia entre bubble sort e insertion sort, por favor?
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [886051] (1)
 
-		
 		Son muy similares solo cambia su comportamiento:
 		
 		**Bubble Sort ordena en pares y con su par adyacente y los compara:**
@@ -24782,9 +23192,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		
 		Espero haberte ayudado **Rygel**
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886045](https://platzi.com/comentario/886045/) 
 
-	
 	 **LISTO Y FUNCIONA PERFECTO - INSERTION SORT**
 	``` 
 	    #include<stdio.h>
@@ -24836,7 +23245,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **sgomez2113** (1)
+* **sgomez2113** (1) [875647](https://platzi.com/comentario/875647/) 
 
 	```
 	    #include <stdio.h>
@@ -24904,9 +23313,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [871626](https://platzi.com/comentario/871626/) 
 
-	
 	Cuando tenemos gran cantidad de datos como en este desafío resulta útil tener una función que nos permite chequear rápidamente si los datos fueron ordenados correctamente y pensando en eso hice está a continuación:
 	``` 
 	    bool check (int iarray[], int isize, bool iflag)
@@ -24926,9 +23334,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [871622](https://platzi.com/comentario/871622/) 
 
-	
 	Hice mi propia función **bubble sort** basándome en lo que aprendí aquí
 	``` 
 	    void bubbleSort(int iarray[], int isizeArray)
@@ -24951,9 +23358,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Samar Jaffal** (1)
+* **Samar Jaffal** (1) [870983](https://platzi.com/comentario/870983/) 
 
-	
 	**Desafio en Java**
 	``` 
 	    import java.util.Scanner;
@@ -25004,9 +23410,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **camilogt121** (1)
+* **camilogt121** (1) [869486](https://platzi.com/comentario/869486/) 
 
-	
 	function quickSort(array) {  
 	if (array.length < 1) {  
 	return [];  
@@ -25048,9 +23453,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	-8323,-6485,-4828,-5294,-2720,595,6148,-4556,6010,-2409,-4098,4222  
 	]));
 
-* **Maryluz Vargas Restrepo** (1)
+* **Maryluz Vargas Restrepo** (1) [860204](https://platzi.com/comentario/860204/) 
 
-	
 	hola, lo hice en Java… es que apenas estoy aprendiendo.
 	``` 
 	    package Platzi;
@@ -25098,14 +23502,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **charl-barrera** (1)
+* **charl-barrera** (1) [858336](https://platzi.com/comentario/858336/) 
 
-	
 	es raro porque los ultimos dos numeros a mi no se me ordenaron, y a muchos tampoco me refieron al -2720 y 595
 
-* **charl-barrera** (1)
+* **charl-barrera** (1) [858335](https://platzi.com/comentario/858335/) 
 
-	
 	import { data } from ‘./data’;
 	
 	function bubbleSort(arr: Array<number>, n): void {  
@@ -25140,9 +23542,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	-9999,-9954,-9941,-9846,-9803,-9669,-9226,-9210,-9166,-9136,-9076,-9065,-8887,-8882,-8834,-8744,-8670,-8651,-8614,-8542,-8412,-8358,-8323,-8230,-8054,-8026,-8004,-7984,-7886,-7885,-7875,-7610,-7449,-7442,-7261,-7228,-7060,-7032,-6953,-6939,-6826,-6693,-6688,-6625,-6558,-6485,-6338,-6256,-6234,-6153,-6096,-6068,-5991,-5966,-5794,-5709,-5665,-5562,-5555,-5350,-5294,-5277,-5218,-5164,-5156,-5147,-5065,-5060,-5022,-4828,-4755,-4729,-4727,-4689,-4650,-4556,-4553,-4467,-4420,-4379,-4111,-4098,-4031,-3877,-3847,-3674,-3668,-3576,-3535,-3269,-3261,-3260,-3181,-3099,-3066,-3034,-2980,-2948,-2940,-2925,-2906,-2905,-2871,-2796,-2691,-2685,-2601,-2570,-2541,-2438,-2414,-2409,-2371,-2204,-2105,-2099,-2089,-2083,-2055,-1997,-1981,-1793,-1766,-1683,-1666,-1634,-1610,-1574,-1484,-1446,-1176,-1160,-1078,-1062,-1062,-1018,-916,-796,-749,-702,-673,-501,-479,-443,-429,-369,-362,-362,-239,-238,8,23,59,200,458,537,676,680,766,824,946,1032,1065,1123,1175,1229,1246,1305,1455,1505,1635,1822,1936,2037,2076,2228,2325,2461,2565,2615,2649,2732,2770,2772,2926,3077,3096,3164,3229,3261,3287,3302,3352,3368,3372,3536,3577,3672,3682,3786,3870,3943,4076,4222,4297,4302,4397,4408,4408,4410,4483,4575,4624,4632,4735,4800,4926,4957,5008,5063,5073,5106,5107,5114,5219,5241,5361,5487,5517,5574,5622,5649,5650,5850,5904,6010,6148,6187,6199,6291,6356,6399,6410,6586,6637,6662,6679,6741,6796,6941,7079,7137,7177,7201,7236,7387,7452,7629,7831,7878,7889,7891,7957,7966,8208,8233,8246,8252,8459,8502,8523,8553,8578,8599,8681,8762,8780,8830,8872,8965,8987,9131,9162,9222,9254,9329,9421,9448,9497,9521,9545,9551,9622,9720,9791,9883,9885,9976,-2720,595
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [851859](https://platzi.com/comentario/851859/) 
 
-	
 	Bubble Sort en JS
 	``` 
 	    values = [-796, 3229, -5164, -362, 4408, 8965, -6068, 9329, -3034, -443, -6693, 9497, 2615, -5966, -9065, -1160, 6148, 5517, 1123, -8887, 5649, 3302, -1176, -8542, -9166, 8, -2906, 8987, -2414, -7984, 4410, 8872, 5241, -4556, 59, -5562, -3877, 7452, -4467, 2076, 4076, 4297, -3847, -2055, 4483, -1484, -2371, 6199, -7261, -7032, 6010, 2325, -6625, -2601, 3870, 1822, -5665, 9622, 9883, -5794, -5218, 2926, 8599, -3099, 6399, -2570, 3943, -2409, 5114, 9791, -4420, 1065, 3077, -1062, -8004, 4397, 1635, 8578, -9226, 9222, -1793, -2691, -5060, -4727, -4098, 946, -6558, -4111, 4575, -2685, -4729, -5277, 1936, 5106, -2089, 824, 9421, -1683, -2083, 7891, -2099, 1305, -9076, -3535, 2565, -2871, 9448, 7177, -8614, -9954, -362, 1455, -8834, -9846, -8412, 1175, -1981, -5991, 7201, -1997, -5156, -1634, -9803, 1032, 9551, -6153, 8502, 3536, -2980, 8681, -9210, 4408, 8780, -916, -369, -8651, 1246, -702, -5555, 23, 8208, 2037, 6941, 9545, -5147, 5063, -8358, 2772, 8553, 9885, 4624, -3576, 9131, 1229, -429, -479, -673, -7060, -4031, 5650, 6679, 6796, 5622, -6256, -238, -6096, 3096, -1610, -2948, 6291, -1666, 5219, 5850, 7387, -3260, 3672, -1766, -9941, 8252, 2649, 7079, -8026, 6356, 676, -5065, -6338, 3287, 680, -3269, 2770, 6637, -8744, 9162, -2204, -3066, -7228, 8762, 1505, 4957, 766, -9136, 4632, -5022, -9999, 5361, 2732, 7831, -501, -4650, 7236, 3682, -2438, 5574, -8230, -9669, -7442, 7966, -2905, 7629, 7137, 200, -8670, -749, 2228, 458, 7889, -3668, -5350, -3261, 6741, -6953, 4800, 3372, 6662, -1018, 8523, 3164, 3577, 9720, -6826, -1574, -7875, -2796, -1078, -4755, 4926, 3368, 4302, 9254, 6410, -4689, 7878, 2461, 8233, -6688, 5904, 4735, -2940, 8830, 9976, -3674, 4222, -1446, 6187, -3181, -8882, 5487, -6939, -7885, 3786, -6234, -1062, -4553, -5709, 8459, 5008, 3352, 6586, 537, -7610, 3261, 8246, -2105, 5107, 7957, -7886, -2925, -2541, -7449, 9521, 5073, -239, -8054, -4379, -8323, -6485, -4828, -5294, -2720, 595]
@@ -25163,9 +23564,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [837403](https://platzi.com/comentario/837403/) 
 
-	
 	Algoritmo Bubble Sort
 	``` 
 	    /
@@ -25207,7 +23607,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Danilo Toro** (1)
+* **Danilo Toro** (1) [835408](https://platzi.com/comentario/835408/) 
 
 	```
 	    numbers = ['-796', '3229', '-5164', '-362', '4408', '8965', '-6068', '9329', '-3034', '-443', '-6693', '9497', '2615', '-5966', '-9065', '-1160', '6148', '5517', '1123', '-8887', '5649', '3302', '-1176', '-8542', '-9166', '8', '-2906', '8987', '-2414', '-7984', '4410', '8872', '5241', '-4556', '59', '-5562', '-3877', '7452', '-4467', '2076', '4076', '4297', '-3847', '-2055', '4483', '-1484', '-2371', '6199', '-7261', '-7032', '6010', '2325', '-6625', '-2601', '3870', '1822', '-5665', '9622', '9883', '-5794', '-5218', '2926', '8599', '-3099', '6399', '-2570', '3943', '-2409', '5114', '9791', '-4420', '1065', '3077', '-1062', '-8004', '4397', '1635', '8578', '-9226', '9222', '-1793', '-2691', '-5060', '-4727', '-4098', '946', '-6558', '-4111', '4575', '-2685', '-4729', '-5277', '1936', '5106', '-2089', '824', '9421', '-1683', '-2083', '7891', '-2099', '1305', '-9076', '-3535', '2565', '-2871', '9448', '7177', '-8614', '-9954', '-362', '1455', '-8834', '-9846', '-8412', '1175', '-1981', '-5991', '7201', '-1997', '-5156', '-1634', '-9803', '1032', '9551', '-6153', '8502', '3536', '-2980', '8681', '-9210', '4408', '8780', '-916', '-369', '-8651', '1246', '-702', '-5555', '23', '8208', '2037', '6941', '9545', '-5147', '5063', '-8358', '2772', '8553', '9885', '4624', '-3576', '9131', '1229', '-429', '-479', '-673', '-7060', '-4031', '5650', '6679', '6796', '5622', '-6256', '-238', '-6096', '3096', '-1610', '-2948', '6291', '-1666', '5219', '5850', '7387', '-3260', '3672', '-1766', '-9941', '8252', '2649', '7079', '-8026', '6356', '676', '-5065', '-6338', '3287', '680', '-3269', '2770', '6637', '-8744', '9162', '-2204', '-3066', '-7228', '8762', '1505', '4957', '766', '-9136', '4632', '-5022', '-9999', '5361', '2732', '7831', '-501', '-4650', '7236', '3682', '-2438', '5574', '-8230', '-9669', '-7442', '7966', '-2905', '7629', '7137', '200', '-8670', '-749', '2228', '458', '7889', '-3668', '-5350', '-3261', '6741', '-6953', '4800', '3372', '6662', '-1018', '8523', '3164', '3577', '9720', '-6826', '-1574', '-7875', '-2796', '-1078', '-4755', '4926', '3368', '4302', '9254', '6410', '-4689', '7878', '2461', '8233', '-6688', '5904', '4735', '-2940', '8830', '9976', '-3674', '4222', '-1446', '6187', '-3181', '-8882', '5487', '-6939', '-7885', '3786', '-6234', '-1062', '-4553', '-5709', '8459', '5008', '3352', '6586', '537', '-7610', '3261', '8246', '-2105', '5107', '7957', '-7886', '-2925', '-2541', '-7449', '9521', '5073', '-239', '-8054', '-4379', '-8323', '-6485', '-4828', '-5294', '-2720', '595']
@@ -25231,9 +23631,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **cesar88** (1)
+* **cesar88** (1) [831089](https://platzi.com/comentario/831089/) 
 
-	
 	Mi ejemplo en BubbleSort con JavaScript… luego hare el Insertion!
 	``` 
 	            constarray = [3229, -5164, -362, 4408, 8965, -6068, 9329, -3034, -443, -6693, 9497, 2615, -5966, -9065, -1160, 6148, 5517, 1123, -8887
@@ -25276,20 +23675,17 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Kim Alejandro Mora Trujillo** (1)
+* **Kim Alejandro Mora Trujillo** (1) [819390](https://platzi.com/comentario/819390/) 
 
-	
 	![Is.png](https://static.platzi.com/media/user_upload/Is-e65dca37-103a-4c97-80ed-0b7c4feac52d.jpg)  
 	[-9999, -9954, -9941, -9846, -9803, -9669, -9226, -9210, -9166, -9136, -9076, -9065, -8887, -8882, -8834, -8744, -8670, -8651, -8614, -8542, -8412, -8358, -8323, -8230, -8054, -8026, -8004, -7984, -7886, -7885, -7875, -7610, -7449, -7442, -7261, -7228, -7060, -7032, -6953, -6939, -6826, -6693, -6688, -6625, -6558, -6485, -6338, -6256, -6234, -6153, -6096, -6068, -5991, -5966, -5794, -5709, -5665, -5562, -5555, -5350, -5294, -5277, -5218, -5164, -5156, -5147, -5065, -5060, -5022, -4828, -4755, -4729, -4727, -4689, -4650, -4556, -4553, -4467, -4420, -4379, -4111, -4098, -4031, -3877, -3847, -3674, -3668, -3576, -3535, -3269, -3261, -3260, -3181, -3099, -3066, -3034, -2980, -2948, -2940, -2925, -2906, -2905, -2871, -2796, -2720, -2691, -2685, -2601, -2570, -2541, -2438, -2414, -2409, -2371, -2204, -2105, -2099, -2089, -2083, -2055, -1997, -1981, -1793, -1766, -1683, -1666, -1634, -1610, -1574, -1484, -1446, -1176, -1160, -1078, -1062, -1062, -1018, -916, -796, -749, -702, -673, -501, -479, -443, -429, -369, -362, -362, -239, -238, 8, 23, 59, 200, 458, 537, 595, 676, 680, 766, 824, 946, 1032, 1065, 1123, 1175, 1229, 1246, 1305, 1455, 1505, 1635, 1822, 1936, 2037, 2076, 2228, 2325, 2461, 2565, 2615, 2649, 2732, 2770, 2772, 2926, 3077, 3096, 3164, 3229, 3261, 3287, 3302, 3352, 3368, 3372, 3536, 3577, 3672, 3682, 3786, 3870, 3943, 4076, 4222, 4297, 4302, 4397, 4408, 4408, 4410, 4483, 4575, 4624, 4632, 4735, 4800, 4926, 4957, 5008, 5063, 5073, 5106, 5107, 5114, 5219, 5241, 5361, 5487, 5517, 5574, 5622, 5649, 5650, 5850, 5904, 6010, 6148, 6187, 6199, 6291, 6356, 6399, 6410, 6586, 6637, 6662, 6679, 6741, 6796, 6941, 7079, 7137, 7177, 7201, 7236, 7387, 7452, 7629, 7831, 7878, 7889, 7891, 7957, 7966, 8208, 8233, 8246, 8252, 8459, 8502, 8523, 8553, 8578, 8599, 8681, 8762, 8780, 8830, 8872, 8965, 8987, 9131, 9162, 9222, 9254, 9329, 9421, 9448, 9497, 9521, 9545, 9551, 9622, 9720, 9791, 9883, 9885, 9976] gg
 
-	* **alexander garcia castañeda** (1)
+	* **alexander garcia castañeda** [819390] (1)
 
-		
 		creativa la idea de usar pandas
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [804600](https://platzi.com/comentario/804600/) 
 
-	
 	Quicksort en python (es muy divertido esto):
 	``` 
 	    from random import randint
@@ -25321,7 +23717,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Emmanuel Arenas Tolteca** (1)
+* **Emmanuel Arenas Tolteca** (1) [783592](https://platzi.com/comentario/783592/) 
 
 	```
 	    //Resolucion del ejercicio con algoritmo de bubbleSort
@@ -25385,9 +23781,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **linkpj** (1)
+* **linkpj** (1) [775355](https://platzi.com/comentario/775355/) 
 
-	
 	#include <stdio.h>
 	
 	void cambiarPos(int *n1, int *n2){  
@@ -25427,9 +23822,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	return 0;  
 	}
 
-* **JONATAN CADAVID TORRES** (1)
+* **JONATAN CADAVID TORRES** (1) [774517](https://platzi.com/comentario/774517/) 
 
-	
 	en python con bubble sort:
 	``` 
 	    <array = [-796, 3229, -5164, -362, 4408, 8965, -6068, 9329, -3034, -443, -6693, 9497, 2615, -5966, -9065, -1160, 6148, 5517, 1123, -8887
@@ -25488,9 +23882,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	[-9999, -9954, -9941, -9846, -9803, -9669, -9226, -9210, -9166, -9136, -9076, -9065, -8887, -8882, -8834, -8744, -8670, -8651, -8614, -8542, -8412, -8358, -8323, -8230, -8054, -8026, -8004, -7984, -7886, -7885, -7875, -7610, -7449, -7442, -7261, -7228, -7060, -7032, -6953, -6939, -6826, -6693, -6688, -6625, -6558, -6485, -6338, -6256, -6234, -6153, -6096, -6068, -5991, -5966, -5794, -5709, -5665, -5562, -5555, -5350, -5294, -5277, -5218, -5164, -5147, -5065, -5060, -5022, -4828, -4755, -4729, -4727, -4689, -4650, -4556, -4553, -4467, -4420, -4379, -4111, -4098, -4031, -3877, -3847, -3674, -3668, -3576, -3535, -3269, -3261, -3260, -3181, -3099, -3066, -3034, -2980, -2948, -2940, -2925, -2906, -2905, -2871, -2796, -2720, -2691, -2685, -2601, -2570, -2541, -2438, -2414, -2409, -2371, -2204, -2105, -2099, -2089, -2083, -2055, -1997, -1981, -1793, -1766, -1683, -1666, -1634, -1610, -1574, -1484, -1446, -1176, -1160, -1078, -1062, -1062, -1018, -916, -796, -749, -702, -673, -515, -501, -479, -443, -429, -369, -362, -362, -239, -238, 8, 23, 59, 200, 458, 537, 595, 676, 680, 766, 824, 946, 1032, 1065, 1123, 1175, 1229, 1246, 1305, 1455, 1505, 1635, 1822, 1936, 2037, 2076, 2228, 2325, 2461, 2565, 2615, 2649, 2732, 2770, 2772, 2926, 3077, 3096, 3164, 3229, 3261, 3287, 3302, 3352, 3368, 3372, 3536, 3577, 3672, 3682, 3786, 3870, 3943, 4076, 4222, 4297, 4302, 4397, 4408, 4408, 4410, 4483, 4575, 4624, 4632, 4735, 4800, 4926, 4957, 5008, 5063, 5073, 5106, 5107, 5114, 5219, 5241, 5361, 5487, 5517, 5574, 5622, 5649, 5650, 5850, 5904, 6010, 6148, 6187, 6199, 6291, 6356, 6399, 6410, 6586, 6637, 6662, 6679, 6741, 6796, 6941, 7079, 7137, 7177, 7201, 7236, 7387, 7452, 7629, 7831, 7878, 7889, 7891, 7957, 7966, 8208, 8233, 8246, 8252, 8459, 8502, 8523, 8553, 8578, 8599, 8681, 8762, 8780, 8830, 8872, 8965, 8987, 9131, 9162, 9222, 9254, 9329, 9421, 9448, 9497, 9521, 9545, 9551, 9622, 9720, 9791, 9883, 9885, 9976]
 
-* **aarongabriel420** (1)
+* **aarongabriel420** (1) [753902](https://platzi.com/comentario/753902/) 
 
-	
 	implementando el Insertion sort en python para solucionar este desafio
 	``` 
 	    defInsertionSort(list, n):
@@ -25520,9 +23913,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Victor Martin Ortiz Palacio** (1)
+* **Victor Martin Ortiz Palacio** (1) [729702](https://platzi.com/comentario/729702/) 
 
-	
 	Implementacion en JavaScript, con el agregado del tiempo de ejecucion.
 	``` 
 	    var map_input = [-796,3229,-5164,-7886....  ,4828,-5294,-2720,595];
@@ -25534,17 +23926,16 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Camilo Morales Sanchez** (1)
-![Anotación 2019-08-24 163234.png](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202019-08-24%20163234-803dc699-9ca1-42f3-932f-080b63424b65.jpg)
-
-* **jonathan2138** (1)
-
+* **Camilo Morales Sanchez** (1) [705617](https://platzi.com/comentario/705617/) 
 	
+	![Anotación 2019-08-24 163234.png](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202019-08-24%20163234-803dc699-9ca1-42f3-932f-080b63424b65.jpg)
+
+* **jonathan2138** (1) [689270](https://platzi.com/comentario/689270/) 
+
 	Chicos una pregunta, hay alguna forma de imprimir el tiempo de ejecución? esto seria de gran utilidad para conocer que algoritmo de ordenamiento utilizar cuando se trate de problemas reales con demasiada data
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [689266](https://platzi.com/comentario/689266/) 
 
-	
 	Implementacion de Insertion Sort
 	``` 
 	    class Main {
@@ -25576,14 +23967,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-	* **Miguel Angel Guerrero Salinas** (1)
+	* **Miguel Angel Guerrero Salinas** [689266] (1)
 
-		
 		Creo que esto esto es un hibrido de buble sort, no veo que se recorra después.
 
-* **RicardoRA19** (1)
+* **RicardoRA19** (1) [686377](https://platzi.com/comentario/686377/) 
 
-	
 	Insertion sort de una manera diferente 😄
 	``` 
 	    #include <stdio.h>
@@ -25646,15 +24035,13 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [670620](https://platzi.com/comentario/670620/) 
 
-	
 	**Aquí esta en JS Bubble Sort:**  
 	![Screen Shot 2019-07-30 at 8.14.53 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-30%20at%208.14.53%20PM-08b2bbac-2c41-42af-89a1-f0a2a9ef1062.jpg)
 
-* **Eduardo Antonio Rivero Rivera** (1)
+* **Eduardo Antonio Rivero Rivera** (1) [670280](https://platzi.com/comentario/670280/) 
 
-	
 	Hice una implementación de un ShellSort, es una pequeña modificación a un insertionSort que reduce el tiempo de dicho algoritmo.
 	``` 
 	    #include <stdio.h>
@@ -25706,9 +24093,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [651106](https://platzi.com/comentario/651106/) 
 
-	
 	Con Bubble Sort
 	``` 
 	    #include <stdio.h>
@@ -25759,9 +24145,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **jjuanleyva** (1)
+* **jjuanleyva** (1) [639261](https://platzi.com/comentario/639261/) 
 
-	
 	Yo utilice Bubble Sort y Insertion Sort. Adjunto los tiempos de ejecucion para cada uno de los algoritmos.
 	
 	BUBBLE SORT  
@@ -25820,7 +24205,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **hernan__giraldo** (1)
+* **hernan__giraldo** (1) [635789](https://platzi.com/comentario/635789/) 
 
 	```
 	    public sortArray = (): void => {
@@ -25840,9 +24225,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **diegoagd10** (1)
+* **diegoagd10** (1) [626864](https://platzi.com/comentario/626864/) 
 
-	
 	Hola, les comparto mi solución utilizando Insertion Sort en C#:
 	
 	[Código Fuente](https://github.com/diegoagd10/algorithms_problems/tree/master/insertion_sort)
@@ -25936,7 +24320,7 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Anfercode** (1)
+* **Anfercode** (1) [617768](https://platzi.com/comentario/617768/) 
 
 	```
 	    #include <stdio.h>
@@ -26283,14 +24667,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Jecsham Castillo** (1)
+* **Jecsham Castillo** (1) [610449](https://platzi.com/comentario/610449/) 
 
-	
 	`arr.sort((a, b)=> {return a - b})`
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [605365](https://platzi.com/comentario/605365/) 
 
-	
 	#include <stdio.h>  
 	#include <math.h>
 	
@@ -26336,9 +24718,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	Sólo es cambiar el signo menor que por mayor que.
 
-* **ivan** (1)
+* **ivan** (1) [600457](https://platzi.com/comentario/600457/) 
 
-	
 	subo mi solucion usando insertionSort
 	``` 
 	    #include <stdio.h>
@@ -26378,9 +24759,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Andres Arias** (1)
+* **Andres Arias** (1) [599187](https://platzi.com/comentario/599187/) 
 
-	
 	Con Insertion sort y python:
 	``` 
 	    #! /usr/bin/python
@@ -26413,9 +24793,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [582642](https://platzi.com/comentario/582642/) 
 
-	
 	**S** aludos a todos.  
 	Decanté por usar el _ordenamiento Shell_.  
 	Pasé varios días pensando, escribiendo y borrando pseudocódigo, prueba y error, hasta lograr un resultado satisfactorio.  
@@ -26472,9 +24851,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	Pueden ver su ejecución [aquí](https://repl.it/@GibranPM/ShellSort)
 
-* **AaronQuiroga** (1)
+* **AaronQuiroga** (1) [581699](https://platzi.com/comentario/581699/) 
 
-	
 	Reto con insertionSort:
 	
 	![Screenshot from 2019-05-08 12-24-21.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-05-08%2012-24-21-d7a9d337-31d5-4198-a4aa-cafdf60f7d84.jpg)
@@ -26483,9 +24861,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	
 	![Screenshot from 2019-05-08 12-27-54.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-05-08%2012-27-54-b449728d-1ff5-4aec-b0e7-ca1156f8ef89.jpg)
 
-* **Albertoasdfg** (1)
+* **Albertoasdfg** (1) [579719](https://platzi.com/comentario/579719/) 
 
-	
 	Hola, realice el desafió aplicando el método de insertion sort.
 	``` 
 	    #include "stdio.h"
@@ -26542,9 +24919,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **odbeltrano** (1)
+* **odbeltrano** (1) [572661](https://platzi.com/comentario/572661/) 
 
-	
 	Código hecho en java
 	
 	public class ordBurbuja{
@@ -26907,9 +25283,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	9976,  
 	BUILD SUCCESSFUL (total time: 0 seconds)
 
-* **Jemd** (1)
+* **Jemd** (1) [563720](https://platzi.com/comentario/563720/) 
 
-	
 	Reto cumplido siguiendo la lógica del insertion Sort
 	``` 
 	    void metodoDeInsercion(p vector, int n){
@@ -26932,9 +25307,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **aargonzalezbe** (1)
+* **aargonzalezbe** (1) [555068](https://platzi.com/comentario/555068/) 
 
-	
 	Reto completado, gracias a **_DaneSanchz_**<https://platzi.com/@DaneSanchz> por el manejo de archivos .txt para la implementación
 	``` 
 	    #include <stdio.h>
@@ -26995,9 +25369,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **Emmanuel Guerra** (1)
+* **Emmanuel Guerra** (1) [553764](https://platzi.com/comentario/553764/) 
 
-	
 	Hice una implementación del SelectionSort. Esta medio ineficiente por el uso de variables pero así fue que lo entendí. Saque la info de [aquí](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html).
 	``` 
 	    //Desafío uno
@@ -27033,9 +25406,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-	* **Emmanuel Guerra** (1)
+	* **Emmanuel Guerra** [553764] (1)
 
-		
 		Adicionalmente, dejo el código que hice en Kotlin para formatear los números que dejo el profe Celis:
 		``` 
 		    val str = "-796\n" +
@@ -27345,9 +25717,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		    
 		```
 
-* **claoherrera** (1)
+* **claoherrera** (1) [549026](https://platzi.com/comentario/549026/) 
 
-	
 	Utilize el bubbleSort y adicione las siguientes funciones:
 	``` 
 	    scanf ("%d", &Opcion); //Para que el usuario decida si quiere organizar de manera Descendente o Ascendente
@@ -27448,9 +25819,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **ChristopherChi** (1)
+* **ChristopherChi** (1) [548336](https://platzi.com/comentario/548336/) 
 
-	
 	Reto Cumplido utilice Metodo Burbuja de la ultima clase
 	``` 
 	    #include<stdio.h>
@@ -27511,14 +25881,12 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	Resultado  
 	![](http://prntscr.com/n52c69)
 
-	* **ChristopherChi** (1)
+	* **ChristopherChi** [548336] (1)
 
-		
 		[Aqui esta el Resultado](https://ibb.co/7td1pMD)
 
-* **Pablo Benedix** (1)
+* **Pablo Benedix** (1) [545155](https://platzi.com/comentario/545155/) 
 
-	
 	Reto Cumplido!, la parte de **FILE** la saque del código de **_DaneSanchz_**<https://platzi.com/@DaneSanchz>!
 	``` 
 	    #include"stdio.h"
@@ -27571,9 +25939,8 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-* **roman-lopez** (1)
+* **roman-lopez** (1) [533547](https://platzi.com/comentario/533547/) 
 
-	
 	Yo lo hice implementando el algoritmo QuickSort.  
 	Lo busque en google y luego lo descompuse para ver como funciona.
 	``` 
@@ -27677,12 +26044,11 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 	    
 	```
 
-	* **roman-lopez** (1)
+	* **roman-lopez** [533547] (1)
 ![final_pic.png](https://static.platzi.com/media/user_upload/final_pic-1504e358-f429-4f5b-83b7-56a9039628d4.jpg)
 
-	* **vmgabriel** (1)
+	* **vmgabriel** [533547] (1)
 
-		
 		## Uso de Ordenamiento Burbuja
 		``` 
 		    #include <stdio.h>
@@ -27757,9 +26123,9 @@ la version con adecente o descendente #include <stdio.h> #include <math.h> #incl
 		
 		![Ejecucion Ordenamiento](https://gitlab.com/vmgabriel/img-public/raw/master/carpt/bumbleSort_algoritmos1.png)
 
-# Recursividad
+# Recursividad [3381]
 
-## 0260. Recursividad
+## 0260. Recursividad [17014](https://platzi.com/clases/1469-algoritmos/17014-recursividad5931/)
 
 ### Descripción:
 
@@ -27768,11 +26134,11 @@ La recursividad es la capacidad de una función de llamarse a si misma.
 
 Las funciones recursivas tienen las siguientes caracteristicas.
 
-  * Se **llaman a si mismas**.
-  * Tienen de **argumento** un valor que cambio por cada iteración.
-  * **Regresan** algún valor definido en cada iteración.
-  * Tienen una **condicional** que define el fin del ciclo.
-  * Manejan un **stack** que es el órden de las ejecuciones de las iteraciones de la función, empezando por la última a llamar.
+* Se **llaman a si mismas**.
+* Tienen de **argumento** un valor que cambio por cada iteración.
+* **Regresan** algún valor definido en cada iteración.
+* Tienen una **condicional** que define el fin del ciclo.
+* Manejan un **stack** que es el órden de las ejecuciones de las iteraciones de la función, empezando por la última a llamar.
 
 
 
@@ -27782,30 +26148,26 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (18)
+* **Juan David Castro (Platzi)** (18) [522448](https://platzi.com/comentario/522448/) 
 
-	
 	Recursos para hacer la tarea 👀😏:
 	
-	  * 🍩 [Iteration vs Recursion by Bolaji - Medium](https://medium.com/backticks-tildes/iteration-vs-recursion-c2017a483890) (ganan los ciclos)
-	  * 🤔 [Recursion or while loops - Software Engineering](https://softwareengineering.stackexchange.com/questions/182314/recursion-or-while-loops) (depende, en algunos casos es mejor la recursividad)
-	  * 🔪 [Is recursion faster than loops?](https://www.quora.com/Is-recursion-faster-than-loops) (la batalla más épica que podrán encontrar, una maravilla 😍🔥🔥🔥)
+	* 🍩 [Iteration vs Recursion by Bolaji - Medium](https://medium.com/backticks-tildes/iteration-vs-recursion-c2017a483890) (ganan los ciclos)
+	* 🤔 [Recursion or while loops - Software Engineering](https://softwareengineering.stackexchange.com/questions/182314/recursion-or-while-loops) (depende, en algunos casos es mejor la recursividad)
+	* 🔪 [Is recursion faster than loops?](https://www.quora.com/Is-recursion-faster-than-loops) (la batalla más épica que podrán encontrar, una maravilla 😍🔥🔥🔥)
 	
 	
 
-	* **AaronQuiroga** (2)
+	* **AaronQuiroga** [522448] (2)
 
-		
 		Muy buena data, del tipo de las que hacen muy interesante todo esto.
 
-	* **Bernardino Villagra Baez** (1)
+	* **Bernardino Villagra Baez** [522448] (1)
 
-		
 		Maravilla!!!
 
-* **Danelia Sanchez Sanchez** (7)
+* **Danelia Sanchez Sanchez** (7) [528184](https://platzi.com/comentario/528184/) 
 
-	
 	Usando ciclos:
 	``` 
 	    #include <stdio.h>
@@ -27834,15 +26196,14 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	En el caso de este programa:
 	
-	  * La función factorial usando ciclos tiene más líneas de código que empleando recursividad.
-	  * Para guardar y retornar el resultado se emplea una variable local que luego es destruida al salir de la función pero con recursividad sólo retornas el resultado de las llamadas a la función **`factorial`**.
-	  * Usando ciclos se invoca a la función **solamente** una vez y el número de iteraciones es igual al valor **`n`** que recibe como argumento, en cambio, con recursividad la función **`factorial`** es invocada **n** veces.
+	* La función factorial usando ciclos tiene más líneas de código que empleando recursividad.
+	* Para guardar y retornar el resultado se emplea una variable local que luego es destruida al salir de la función pero con recursividad sólo retornas el resultado de las llamadas a la función **`factorial`**.
+	* Usando ciclos se invoca a la función **solamente** una vez y el número de iteraciones es igual al valor **`n`** que recibe como argumento, en cambio, con recursividad la función **`factorial`** es invocada **n** veces.
 	
 	
 
-* **Luis Nilson Palma Campos** (4)
+* **Luis Nilson Palma Campos** (4) [528298](https://platzi.com/comentario/528298/) 
 
-	
 	Recursividad usando el ciclo for
 	``` 
 	    #include <stdio.h>
@@ -27871,14 +26232,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Leisy Karina Algarra Fernandez** (3)
+* **Leisy Karina Algarra Fernandez** (3) [974913](https://platzi.com/comentario/974913/) 
 
-	
 	La diferencia más importante entre las operaciones recursivas y las iterativas es que los pasos de una operación iterativa se realizan uno cada vez y dirigen la ejecución directamente al siguiente paso. En una operación recursiva, cada paso después del paso inicial es una réplica del paso anterior.
 
-* **Demetrio** (3)
+* **Demetrio** (3) [772476](https://platzi.com/comentario/772476/) 
 
-	
 	Les adjunto ambas formas (recursiva y ciclo for) en python:
 	
 	Recursiva:
@@ -27927,16 +26286,14 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	Si alguien entiende mejor esto, favor de compartirlo.  
 	Muchas gracias!
 
-* **Karina Betzabe Romero Ulloa** (3)
+* **Karina Betzabe Romero Ulloa** (3) [733576](https://platzi.com/comentario/733576/) 
 
-	
 	La diferencia esta en que al usar un loop la ejecución del código se completa en una sola llamada al método con sus variables locales, en cambio al utilizar la recursion este se llama a si mismo la cantidad de veces que sean necesarias creando una pila de variables locales por cada llamada al método. Ambos tienen sus propios enfoques.
 	
 	![factorial.jpg](https://static.platzi.com/media/user_upload/factorial-4e0cc2f5-0390-44f4-a021-9d107e7506f7.jpg)
 
-* **paola-diaz361** (2)
+* **paola-diaz361** (2) [1034178](https://platzi.com/comentario/1034178/) 
 
-	
 	RECURSIVIDAD:  
 	Es donde vamos resolviendo problemas desde la parte mas pequeña o problema pequeño hasta solucionarlo todo.  
 	RECURSION: es la capacidad que tiene una función de llamarse así misma dentro de su código
@@ -27959,20 +26316,18 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	RECURSIVIDAD: Se llama a sí misma, o sea que puede reutilizar la misma línea de código.  
 	ITERACIONES: se entiende como un ciclo que se repite hasta que se termina, según las líneas programadas.
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [972676](https://platzi.com/comentario/972676/) 
 
-	
 	La recursividad nos permite reutilizar parte del código, ya que se llama a si misma la función.  
 	Al realizarlo con ciclos se tiende a realizar un código más largo y tedioso a la lectura del programador.
 	
 	![Recursividad.png](https://static.platzi.com/media/user_upload/Recursividad-edbb6395-6ea9-4b59-b7ed-6ef67b0a9393.jpg)
 
-	* **Angie Garcia** (2)
+	* **Angie Garcia** [972676] (2)
 ![Captura de pantalla de 2020-02-10 18-55-38.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-10%2018-55-38-78d22c61-27dd-4464-ab87-112d3867b07a.jpg)
 
-* **Daniel Mauricio Ramírez Castaño** (2)
+* **Daniel Mauricio Ramírez Castaño** (2) [884817](https://platzi.com/comentario/884817/) 
 
-	
 	La recursividad agiliza procesos y hace uso eficiente de los recursos de las computadoras, pero requiere habilidad mayor de abstracción de los problemas para diseñar su respectiva solución. Los ciclos son más intuitivos para las personas.
 	``` 
 	    #include<stdio.h>
@@ -28008,9 +26363,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **cesar88** (2)
+* **cesar88** (2) [831745](https://platzi.com/comentario/831745/) 
 
-	
 	Mi ejemplo con ciclo while en Javascript
 	``` 
 	            const factorial = (n) => {
@@ -28029,9 +26383,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Sebastian_Heredia** (2)
+* **Sebastian_Heredia** (2) [642083](https://platzi.com/comentario/642083/) 
 
-	
 	Con la recursividad se puede ahorra un poco mas de lineas de codigo y sera mucho mas legible, aqui esta mi codigo en c++
 	``` 
 	    #include<iostream>
@@ -28055,25 +26408,21 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-	* **akivosimcho** (1)
+	* **akivosimcho** [642083] (1)
 
-		
 		Gracias Sebastian! me guió tu código, después de 1 hora sin hallar solución.
 
-* **Hector Cardona** (2)
+* **Hector Cardona** (2) [546318](https://platzi.com/comentario/546318/) 
 
-	
 	Hay algo importante por explicar, y espero no estar equivocado.  
 	Cuando Ricardo habla de “Stack”, se refiere ah que en el momento en el que el compilador pasa todo tú código a lenguaje ensamblador, el compilador al reconocer que se hace una llamada a una función, este guarda “registros necesarios” en un stack, para así no perder su valor actual, ya que no se cuenta con una cantidad infinita de registros, entonces piensa que en recursividad se cebe estar creando un nuevo stack cada que la función se llame a sí misma para almacenar los valores actuales y poder acceder a ellos más adelante, esto claro es mucho más costoso computacionalmente, ya que imaginate una función recursiva que se llame a si misma 100 veces.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [546318] (2)
 
-		
 		Así es, el stack es ese registro de la “profundidad” en la que de encuentra tu llamada recursiva, la realidad es que ahora en lenguajes de alto nivel como JS o muchos otros el motor sobre el que corren lo maneja, antes o en programas con C muchos exploits y huecos de seguridad podrían aparecer por descuidos de los programadores en cosas tan hardware specific como estas!
 
-* **Victor bustos sazo** (1)
+* **Victor bustos sazo** (1) [1112097](https://platzi.com/comentario/1112097/) 
 
-	
 	Me complica la recursividad, ya veo que algo debe ocurrir atrás de C, que no esta explicado, ese universo paralelo no lo vemos pero se ven sus resultados. use ambos códigos, y hay 4 milésimas de mejor resultado si usas el ciclo for  
 	imagino que en un programa largo eso afecta bastante.
 	
@@ -28110,9 +26459,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	}
 
-* **JCaicedo** (1)
+* **JCaicedo** (1) [1107292](https://platzi.com/comentario/1107292/) 
 
-	
 	Calculando factorial usando el ciclo for
 	``` 
 	    #include "stdio.h"
@@ -28151,15 +26499,13 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Byron Miguel Piedrahita Hernandez** (1)
+* **Byron Miguel Piedrahita Hernandez** (1) [1100032](https://platzi.com/comentario/1100032/) 
 
-	
 	Creo que la belleza del código no debe ser a costo de sacrificar  
 	**rendimiento** , la recursividad solo debe ser utilizada en caso extremos donde la iteracion no es suficiente para resolver el problema planteado
 
-* **eduardo-zepeda** (1)
+* **eduardo-zepeda** (1) [1096192](https://platzi.com/comentario/1096192/) 
 
-	
 	Una función recursiva suele ser más legible y sencilla de entender que un bucle. Sin embargo esta ganancia en legibilidad trae consigo una perdida de rendimiento; las funciones recursivas suelen tener un rendimiento inferior en comparación con los bucles, son solo recomendables para situaciones donde no hay una cantidad excesiva de cálculos.
 	
 	Mi solución en Python:
@@ -28181,12 +26527,11 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **andresazuara98** (1)
+* **andresazuara98** (1) [1096187](https://platzi.com/comentario/1096187/) 
 
-	
 	Every loop can be a factorial, every factorial can be a loop, both of them have advantages and disadvantages
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1092937](https://platzi.com/comentario/1092937/) 
 
 	```
 	    int fact (int n)
@@ -28199,9 +26544,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089721](https://platzi.com/comentario/1089721/) 
 
-	
 	Código en Java:
 	``` 
 	    publicclassFactorial
@@ -28228,16 +26572,14 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1071376](https://platzi.com/comentario/1071376/) 
 
-	
 	la diferencia entre recursividad y ciclos;es que la recursividad se llama a una funcion ya definida en el programa. Mientras que en los ciclos nosotros definimos el paso a paso y las operaciones que debe realizar. para concluir seria que se ahorra codigo con la recursividad
 	
 	![factorial.PNG](https://static.platzi.com/media/user_upload/factorial-5d6beff1-f1bf-4f86-ad4d-c14703ff2d39.jpg)
 
-* **Gabospa** (1)
+* **Gabospa** (1) [1068872](https://platzi.com/comentario/1068872/) 
 
-	
 	Codigo en C, despues de esto voy por un curso en ese lenguaje.
 	``` 
 	    #include <stdio.h>
@@ -28264,9 +26606,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Johan Nieto** (1)
+* **Johan Nieto** (1) [1059115](https://platzi.com/comentario/1059115/) 
 
-	
 	Ejercicio en Javascript, yo diría que una diferencia es que usas menos lineas de código.
 	``` 
 	    <!DOCTYPE html>
@@ -28302,9 +26643,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1056695](https://platzi.com/comentario/1056695/) 
 
-	
 	Acá está en forma de ciclo:
 	``` 
 	    #include <stdio.h>
@@ -28330,9 +26670,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	La principal diferencia creo yo que es la optimización, ya que con muchas menos líneas podría llegar al mismo resultado.
 
-* **jorgearmas** (1)
+* **jorgearmas** (1) [1047315](https://platzi.com/comentario/1047315/) 
 
-	
 	La diferencia entre usar recursividad y un bucle es que en el ciclo las operaciones se hacen un paso a la vez, mientras en la recursividad todo se sintetiza en una sola operacion.
 	``` 
 	    #include <stdio.h>
@@ -28388,7 +26727,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1039725](https://platzi.com/comentario/1039725/) 
 
 	```
 	    // CICLO
@@ -28411,29 +26750,27 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Dario Candia** (1)
-![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-79860830-da3a-4c5b-a44e-24d312802d21.jpg)
-
-* **henrycaicedov** (1)
-
+* **Dario Candia** (1) [999879](https://platzi.com/comentario/999879/) 
 	
+	![Captura.PNG](https://static.platzi.com/media/user_upload/Captura-79860830-da3a-4c5b-a44e-24d312802d21.jpg)
+
+* **henrycaicedov** (1) [983886](https://platzi.com/comentario/983886/) 
+
 	Mi aporte en Javascript con FOR  
 	![factorial_for.JPG](https://static.platzi.com/media/user_upload/factorial_for-d71b08b8-7752-4123-983f-3683c3604eb8.jpg)
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [978057](https://platzi.com/comentario/978057/) 
 
-	
 	segun lo que ntiendo es que la recursividad permite ahorrarnos los ciclos por medio de [return(n*fact(n-1)] , y los ciclos son un paso a paso para desarrollar el factorial.
 
-* **wilmaryoanmalavermalaver** (1)
+* **wilmaryoanmalavermalaver** (1) [974706](https://platzi.com/comentario/974706/) 
 
-	
 	cilcos o iteractividad repite el proceso durante un numero determinado de veces,  
 	recursividad funcion que se llama a si misma.
 	
 	![](![Captura de pantalla 2020-02-08 19.53.46.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-08%2019.53.46-0c9d5048-2135-4739-8ef0-f7b784c09ba5.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [972213](https://platzi.com/comentario/972213/) 
 
 	```
 	    #include <stdio.h>
@@ -28457,9 +26794,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [967745](https://platzi.com/comentario/967745/) 
 
-	
 	Mi respuesta utilizando un ciclo For. 😄
 	
 	Mi conclusión es que al usar ciclos el proceso se vuelve más largo y hay que crear más variables para ir almacenando los datos con arreglos.
@@ -28499,9 +26835,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Josue12** (1)
+* **Josue12** (1) [955667](https://platzi.com/comentario/955667/) 
 
-	
 	Hice el código con el método de recursividad y también con un ciclo for
 	``` 
 	    #include<stdio.h>
@@ -28538,14 +26873,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-	* **Josue12** (1)
+	* **Josue12** [955667] (1)
 
-		
 		Hice un experimento sacando el factorial con ambos códigos, y según parece cuando se trata de numeros grandes como el factorial de 50 o 100, el código de recursividad es mucho mas rápido que el ciclo for, mientras que con números chicos el ciclo for era ligeramente mas rapido
 
-* **Miguel Angel Porras Villarreal** (1)
+* **Miguel Angel Porras Villarreal** (1) [953455](https://platzi.com/comentario/953455/) 
 
-	
 	lo realice con un for y me funciono correctamente el factorial
 	``` 
 	    #include"pch.h"
@@ -28595,7 +26928,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **David Daniel Acerbo** (1)
+* **David Daniel Acerbo** (1) [919960](https://platzi.com/comentario/919960/) 
 
 	```
 	    #include<stdio.h>
@@ -28626,9 +26959,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	Ingrese numero: 3  
 	El resultado es: 6
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [912622](https://platzi.com/comentario/912622/) 
 
-	
 	Tengo una duda en cuanto a cuándo conviene usar recursividad y cuándo iteraciones. Algo que es notable es que con recursividad se tiende a escribir menos código que con iteraciones.
 	``` 
 	    deffactorial(n):
@@ -28647,14 +26979,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	Pero al buscar la diferencia entre ambas, encontré este [artículo ](https://medium.com/backticks-tildes/iteration-vs-recursion-c2017a483890) donde hace mención de que el uso de la recursividad puede ser más pesado que un ciclo, aunque yo siempre había escuchado que la recursividad aprovecha mejor los recursos y no debería ser más pesada que un ciclo.
 
-	* **Josue12** (1)
+	* **Josue12** [912622] (1)
 
-		
 		Hola, hice un experimento sacando el factorial con ambos códigos, y según parece cuando se trata de numeros grandes como el factorial de 50 o 100, el código de recursividad es mucho mas rápido que el ciclo for, mientras que con números chicos el ciclo for era ligeramente mas rapido
 
-* **OscarPalomino** (1)
+* **OscarPalomino** (1) [894142](https://platzi.com/comentario/894142/) 
 
-	
 	Reto clase 26.
 	``` 
 	    #include<stdio.h>
@@ -28674,9 +27004,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886149](https://platzi.com/comentario/886149/) 
 
-	
 	La recursividad agiliza los procesos y en cuato el codigo noté que al usar un stack de variables nos permite guardar varias variables dentro de una misma.  
 	Aqui esta mi parte del reto.
 	``` 
@@ -28707,9 +27036,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [882498](https://platzi.com/comentario/882498/) 
 
-	
 	La recursividad permite agilizar el código y por lo menos en este ejemplo nos ahorra espacio en memoria, ya que no tenemos que inicializar algunas variables. También pienso que automatiza mucho mejor algunos procesos del código ya que con solo una linea de código el programa guarda la variable de la cual se debe acumular, mientras que en un ciclo esto debemos especificarlo.
 	``` 
 	    #include <stdio.h>
@@ -28738,14 +27066,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [882412](https://platzi.com/comentario/882412/) 
 
-	
 	Todos los lenguajes de programación que soporten recursividad, realizaran uso del Stack.
 
-* **freddymm** (1)
+* **freddymm** (1) [872407](https://platzi.com/comentario/872407/) 
 
-	
 	 **Factorial con while**
 	``` 
 	    int main()
@@ -28772,9 +27098,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **freddymm** (1)
+* **freddymm** (1) [872389](https://platzi.com/comentario/872389/) 
 
-	
 	**Funcion recursiva en python**
 	``` 
 	    defmy_factorial3(x):
@@ -28784,9 +27109,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Samar Jaffal** (1)
+* **Samar Jaffal** (1) [871127](https://platzi.com/comentario/871127/) 
 
-	
 	**Solución al reto en java:  
 	**
 	``` 
@@ -28828,9 +27152,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [863204](https://platzi.com/comentario/863204/) 
 
-	
 	Clase en Java
 	``` 
 	    publicclassRecursividad {
@@ -28851,9 +27174,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [852224](https://platzi.com/comentario/852224/) 
 
-	
 	Comparto ambos códigos en JS
 	``` 
 	    function factorial(num) {
@@ -28878,9 +27200,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Davic64** (1)
+* **Davic64** (1) [846693](https://platzi.com/comentario/846693/) 
 
-	
 	Mi ejemplo con while en C
 	
 	La diferencia que hay es la velocidad del programa creo yo que a veces es ma conveniente usar ciclos si es una operación asi de sencilla
@@ -28907,9 +27228,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Manuel Rivera** (1)
+* **Manuel Rivera** (1) [837541](https://platzi.com/comentario/837541/) 
 
-	
 	con bucle for en js
 	``` 
 	    let factorial3 = factorial_r(4);
@@ -28928,9 +27248,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [829467](https://platzi.com/comentario/829467/) 
 
-	
 	usando ciclos
 	``` 
 	    a=6
@@ -28942,9 +27261,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [829455](https://platzi.com/comentario/829455/) 
 
-	
 	mi código en python
 	``` 
 	    import logging
@@ -28960,9 +27278,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **jonChica** (1)
+* **jonChica** (1) [828455](https://platzi.com/comentario/828455/) 
 
-	
 	En Typescript usando un `reduce` para la lógica
 	``` 
 	    const factorial = (number: number): number => {
@@ -28988,10 +27305,11 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Kim Alejandro Mora Trujillo** (1)
-![Is.png](https://static.platzi.com/media/user_upload/Is-1f22e03a-5909-4f23-a1b9-c714fc6f894b.jpg)
+* **Kim Alejandro Mora Trujillo** (1) [820073](https://platzi.com/comentario/820073/) 
+	
+	![Is.png](https://static.platzi.com/media/user_upload/Is-1f22e03a-5909-4f23-a1b9-c714fc6f894b.jpg)
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [818894](https://platzi.com/comentario/818894/) 
 
 	```
 	    using System;
@@ -29043,9 +27361,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [804706](https://platzi.com/comentario/804706/) 
 
-	
 	Función factorial recursiva en python:
 	``` 
 	    deffact(n):
@@ -29056,9 +27373,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **efrainjaimes** (1)
+* **efrainjaimes** (1) [786575](https://platzi.com/comentario/786575/) 
 
-	
 	Soluciones con JS
 	``` 
 	    //Factorial con recursion
@@ -29084,9 +27400,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **JONATAN CADAVID TORRES** (1)
+* **JONATAN CADAVID TORRES** (1) [774594](https://platzi.com/comentario/774594/) 
 
-	
 	Funcion factorial en python.
 	``` 
 	    <deffactorial():
@@ -29099,9 +27414,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **omarmoralesmunoz** (1)
+* **omarmoralesmunoz** (1) [768833](https://platzi.com/comentario/768833/) 
 
-	
 	**Código en javascript**  
 	ejercicio de calculo factorial de un numero usando ciclos
 	``` 
@@ -29130,7 +27444,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	a diferencia de los ciclos el propósito del uso de la recursividad es de dividir un problema grande hasta llegar al caso base y después regresar calculando los resultados con el fin de que el código sea mas optimo o fácil de entender para ciertos problemas.  
 	en algunos casos la implementación de ciclos a recursibidad o viceversa puede ser sencilla dependiendo del problema a resolver.
 
-* **asismelgarejo** (1)
+* **asismelgarejo** (1) [767176](https://platzi.com/comentario/767176/) 
 
 	```
 	    publicclassBorrador {
@@ -29150,9 +27464,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [763157](https://platzi.com/comentario/763157/) 
 
-	
 	Ahora utilizando un ciclo, peor con el for.  
 	He de admitir que me dio bastante dolor de cabeza, porque la interpretaciòn es diferente, en el for vas incremental pero solo hasta n -1 es decir si tu numero de entrada es 3 el va a ir 0, 1,2 por lo que debes agregar el +1 del range. tambièn la operaciòn era diferente, ya que no era restando.  
 	tampoco puedes inicializar en 0 ya que al ser multiplicaciòn siempre te quedarìa cero
@@ -29187,9 +27500,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [763123](https://platzi.com/comentario/763123/) 
 
-	
 	hice un ejemplo en python:
 	``` 
 	    #-*- coding:utf-8 -*-
@@ -29209,9 +27521,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **aarongabriel420** (1)
+* **aarongabriel420** (1) [755020](https://platzi.com/comentario/755020/) 
 
-	
 	La diferencia entre usar un ciclo y usar recursividad esta en que mientras usamos un ciclo debemos utilizar una o mas variables para almacenar datos temporales, en el caso del factorial la variable temporal seria un indice que indique que numero de la secuencia se esta multiplicando. En la recursividad ese indice se convierte en un parámetro que se envía como una nueva instancia de la función, creando una nueva “capa” con la misma función ejecutándose con otro parámetro.  
 	Se puede observar utilizando una herramienta de Debug.  
 	**Ciclos**  
@@ -29244,25 +27555,23 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Camilo Morales Sanchez** (1)
-![Anotación 2019-08-24 163234.png](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202019-08-24%20163234-d060dccd-154b-4b0e-a436-17345e8abf72.jpg)
-
-* **Miguel Angel Guerrero Salinas** (1)
-
+* **Camilo Morales Sanchez** (1) [705630](https://platzi.com/comentario/705630/) 
 	
+	![Anotación 2019-08-24 163234.png](https://static.platzi.com/media/user_upload/Anotaci%C3%B3n%202019-08-24%20163234-d060dccd-154b-4b0e-a436-17345e8abf72.jpg)
+
+* **Miguel Angel Guerrero Salinas** (1) [693344](https://platzi.com/comentario/693344/) 
+
 	Un ejemplo de programa que no se puede hacer sin la recursividad es la exploración de directorio.  
 	Supongamos que tenemos la función de buscar directorio, esta hará scrolling por cada archivo, PERO si encuentra un archivo sin terminación quiere decir que este es carpeta (No es del todo cierto, pero funciona en este ejemplo), y va a llamarse otra vez así misma con el contenido de la carpeta, y cuando acabe va a seguir el ciclo que llevaba el programa inicial.
 
-* **jaguarjs** (1)
+* **jaguarjs** (1) [684099](https://platzi.com/comentario/684099/) 
 
-	
 	Yo entiendo la recursividad como una solucion para resolver problemas fractales, osea uno dentro de otro, o la misma estructura anidandose a si misma, ya sea intanciandose, haciendo la misma operación, o realizando la misma operacion en datos o carpetas anidadas.
 	
 	Un ejemplo de fractalidad, es la portada de los cartones de chocolate, donde la mascota de la marca sale sosteniendo el mismo carton de chocolate, con la misma mascota adentro sosteniendo otro cartón de chocolate 🍫
 
-* **Eduardo Antonio Rivero Rivera** (1)
+* **Eduardo Antonio Rivero Rivera** (1) [670520](https://platzi.com/comentario/670520/) 
 
-	
 	La recursion es un poco mas lenta que hacer el calculo matemático por el funcionamiento en si de la propia recursion, eso es lo que creo. Me gustaría saber la opinión de los demás. Aquí los dos códigos.
 	``` 
 	    #include<stdio.h>
@@ -29308,7 +27617,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **CarlosdavidZ** (1)
+* **CarlosdavidZ** (1) [655321](https://platzi.com/comentario/655321/) 
 
 	```
 	    #include <stdio.h>
@@ -29341,7 +27650,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **kikega** (1)
+* **kikega** (1) [652549](https://platzi.com/comentario/652549/) 
 
 	```
 	    deffactorial(num):    
@@ -29356,9 +27665,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [652121](https://platzi.com/comentario/652121/) 
 
-	
 	Me llevo un poco de tiempo pero aquí esta:
 	``` 
 	    // RECURSIVIDAD CON CICLO FOR
@@ -29408,7 +27716,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **nancyh** (1)
+* **nancyh** (1) [642053](https://platzi.com/comentario/642053/) 
 
 	```
 	    #include<stdio.h>
@@ -29432,7 +27740,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **hernan__giraldo** (1)
+* **hernan__giraldo** (1) [635791](https://platzi.com/comentario/635791/) 
 
 	```
 	    const factorial = (n: number) => {
@@ -29445,7 +27753,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Byron Bustamante López** (1)
+* **Byron Bustamante López** (1) [624351](https://platzi.com/comentario/624351/) 
 
 	```
 	    #include <stdio.h>
@@ -29467,7 +27775,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Anfercode** (1)
+* **Anfercode** (1) [617800](https://platzi.com/comentario/617800/) 
 
 	```
 	    #include <stdio.h>
@@ -29494,14 +27802,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [609477](https://platzi.com/comentario/609477/) 
 
-	
 	Ya había hecho un comentario acerca de ello [aquí](https://platzi.com/comentario/479837/) ^^
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [609476](https://platzi.com/comentario/609476/) 
 
-	
 	#include <iostream>  
 	using namespace std;
 	
@@ -29515,9 +27821,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	cout << n << endl;  
 	}
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [605405](https://platzi.com/comentario/605405/) 
 
-	
 	main(int argc, char const *argv[])  
 	{  
 	int factorial = 1;  
@@ -29535,7 +27840,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    return 0;
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [602826](https://platzi.com/comentario/602826/) 
 
 	```
 	    #include <stdio.h>
@@ -29588,7 +27893,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	Tambien, por lo que he invastigado, es que la recursion es mas lenta que la iteracion, por que se sigue llamando a si misma, cual significa que hay mas codigo que ejecutar.  
 	Una diferencia tambien entre ellos es que la recursion es llamando una funcion repetidamente dentro de la misma funcion. La iteracion es ejecutar lineas de codigo repetidamente hasta que se cumpla una cierta condicion.
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [602824](https://platzi.com/comentario/602824/) 
 
 	```
 	    #include <stdio.h>
@@ -29637,13 +27942,13 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 	
-	  * La primera cosa que note- y que veo que muchas personas han notado -es que hay mas lineas de codigo en el codigo de la iteracion que en el codigo de la recursividad.
-	  * Tambien, por lo que he invastigado, es que la recursion es mas lenta que la iteracion, por que se sigue llamando a si misma, cual significa que hay mas codigo que ejecutar.
-	  * Una diferencia tambien entre ellos es que la recursion es llamando una funcion repetidamente dentro de la misma funcion. La iteracion es ejecutar lineas de codigo repetidamente hasta que se cumpla una cierta condicion.
+	* La primera cosa que note- y que veo que muchas personas han notado -es que hay mas lineas de codigo en el codigo de la iteracion que en el codigo de la recursividad.
+	* Tambien, por lo que he invastigado, es que la recursion es mas lenta que la iteracion, por que se sigue llamando a si misma, cual significa que hay mas codigo que ejecutar.
+	* Una diferencia tambien entre ellos es que la recursion es llamando una funcion repetidamente dentro de la misma funcion. La iteracion es ejecutar lineas de codigo repetidamente hasta que se cumpla una cierta condicion.
 	
 	
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [602823](https://platzi.com/comentario/602823/) 
 
 	```
 	    #include <stdio.h>
@@ -29695,14 +28000,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [600068](https://platzi.com/comentario/600068/) 
 
-	
 	El curso de pensamiento lógico es excelente!!! Citado en el curso…
 
-* **miguel-angel-baquero** (1)
+* **miguel-angel-baquero** (1) [592727](https://platzi.com/comentario/592727/) 
 
-	
 	Con tan solo 15 líneas de código, les comparto mi aporte con un ciclo “for”:
 	``` 
 	    #include <stdio.h>
@@ -29723,9 +28026,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [586883](https://platzi.com/comentario/586883/) 
 
-	
 	Buenas, aquí mi código de factorial recursivo a factorial cíclico:
 	``` 
 	    #include <stdio.h>
@@ -29752,9 +28054,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	Considero que la principal diferencia entre recursividad y ciclos, es que con el primero se escribe menos código, pero puede ser confuso para que alguien ajeno lo interprete, y con el segundo se obtiene claridad a costa de mayor líneas.  
 	En cuanto a qué es mejor usar, depende totalmente del estilo de programación; en aras de la regla 80/20, creo ciclos sería opción predominante.
 
-* **Master_Sergio** (1)
+* **Master_Sergio** (1) [582225](https://platzi.com/comentario/582225/) 
 
-	
 	Aqui dejo mi codigo en c# de las dos funciones
 	``` 
 	    static void Main(string[] args)
@@ -29802,9 +28103,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Jemd** (1)
+* **Jemd** (1) [563811](https://platzi.com/comentario/563811/) 
 
-	
 	Para este caso única diferencia la función recursiva me itero una vez más que la función del ciclo for
 	``` 
 	    #include <stdio.h>
@@ -29839,9 +28139,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **selasorlac** (1)
+* **selasorlac** (1) [562589](https://platzi.com/comentario/562589/) 
 
-	
 	Aquí va la función que cree para el factorial con un ciclo!
 	``` 
 	    int factorialCiclo(int n)
@@ -29865,9 +28164,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	En mi caso noté que en realidad el método cíclico me realizó menos iteraciones que el recursivo sin embargo, el recursivo no requiere la creación de variables adicionales.
 
-* **Juan Esteban Jandres Rivera** (1)
+* **Juan Esteban Jandres Rivera** (1) [558394](https://platzi.com/comentario/558394/) 
 
-	
 	Este es mi código, para calcular el factorial de un numero
 	``` 
 	    int factorial(int n) {
@@ -29882,14 +28180,12 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	La diferencia que veo, es que las al función recursiva tiene menos lineas de código, pero por lo que he estado leyendo las funciones recursivas utilizan mas espacio en memoria ya que tiene que ir almacenado en forma de pila el retorno de cada iteracion, mientras que los bucles las variables van cambiando su valor pero no abre otro espacio en la memoria,
 
-* **René Sanchez** (1)
+* **René Sanchez** (1) [557999](https://platzi.com/comentario/557999/) 
 
-	
 	Muy buena clase aprendiendo cosas nuevas para establecer mis bases que antes solo programaba pero sentía que me faltaban cosas 😃 y necesito aprender mas matemáticas prácticamente no sabia como era la factorial o la pude haber olvidado que es lo mas probable 😕 pero bueno viendo las creaciones de códigos de los demás pude entender el conceptos mas a fondo comparándolos y leyendo. Están fantásticas las clases
 
-* **Carlos Enrique Gonzalez Peña** (1)
+* **Carlos Enrique Gonzalez Peña** (1) [556670](https://platzi.com/comentario/556670/) 
 
-	
 	Factorial usando for en JS
 	
 	function fact(n) {  
@@ -29940,19 +28236,17 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [556670] (2)
 
-		
 		Hola Carlos! Excelente trabajo!  
 		Sin duda, la recursividad esta para ser utilizada, *excepto en RTOS que van a ejecutarse en sistemas embebidos
 
-	* **Carlos Enrique Gonzalez Peña** (1)
+	* **Carlos Enrique Gonzalez Peña** [556670] (1)
 
-		
 		Es bueno saberlo, gracias profe, excelente trabajo explicando.  
 		Todo esto lo vi en la universidad una ves pero jamas lo había aplicando, hasta ahorita me esta surgiendo la necesidad de volver a fomentar las bases para poder cumplir con las necesidades
 
-* **DonPablito** (1)
+* **DonPablito** (1) [550369](https://platzi.com/comentario/550369/) 
 
 	```
 	    #include <stdio.h>
@@ -29972,9 +28266,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **claoherrera** (1)
+* **claoherrera** (1) [549047](https://platzi.com/comentario/549047/) 
 
-	
 	Factorial utilizando el ciclo for
 	``` 
 	    #include<stdio.h>
@@ -30012,7 +28305,7 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **DonPablito** (1)
+* **DonPablito** (1) [546059](https://platzi.com/comentario/546059/) 
 
 	```
 	    #include<stdio.h>
@@ -30039,9 +28332,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Gabriel De Andrade (Platzi)** (1)
+* **Gabriel De Andrade (Platzi)** (1) [540458](https://platzi.com/comentario/540458/) 
 
-	
 	Mi solución:
 	``` 
 	    long recursive(int number)
@@ -30058,9 +28350,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **vmgabriel** (1)
+* **vmgabriel** (1) [536553](https://platzi.com/comentario/536553/) 
 
-	
 	## Algoritmo Factorial
 	``` 
 	    #include <stdio.h>
@@ -30102,16 +28393,15 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	
 	<h4>Diferencias entre uno y otro</h4>
 	
-	  * El algoritmo recursivo puede ser mas costoso hablando de recursos del sistema
-	  * El nivel de abstraccion del desarrollador debe ser alto, un fallo puede producir un bucle infinito
-	  * El algoritmo recursivo es mas reducido en terminos de lineas de codigo
-	  * El algoritmo recursivo es mas cercano a una funcion matematica o al menos tiene ese comportamiento
+	* El algoritmo recursivo puede ser mas costoso hablando de recursos del sistema
+	* El nivel de abstraccion del desarrollador debe ser alto, un fallo puede producir un bucle infinito
+	* El algoritmo recursivo es mas reducido en terminos de lineas de codigo
+	* El algoritmo recursivo es mas cercano a una funcion matematica o al menos tiene ese comportamiento
 	
 	
 
-* **roman-lopez** (1)
+* **roman-lopez** (1) [536331](https://platzi.com/comentario/536331/) 
 
-	
 	Funcion factorial usando un bucle for :
 	``` 
 	    #include<stdio.h>
@@ -30140,9 +28430,8 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Michèle Däppen** (1)
+* **Michèle Däppen** (1) [529667](https://platzi.com/comentario/529667/) 
 
-	
 	Vale destacar que el caso base de la recursiòn, pudo haber sido (n==1), y te ahorras una recursión ya que no es necesario hacer 1*1 = 1.
 	
 	Aqui la funcion en java
@@ -30158,17 +28447,16 @@ Las funciones recursivas tienen las siguientes caracteristicas.
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [84697](https://platzi.com/comentario/1056675/) 
 Tengo una pregunta: Por qué la funcion se detiene si constantemente está yendo para atrás?
 
-	* **Mateo Gonzales Navarrete** (1)
+	* **Mateo Gonzales Navarrete** [84697] (1)
 
-		
 		Hola!  
 		La función recursiva tiene 2 partes fundamentales:
 		
-		  * Los casos base
-		  * La llamada recursiva  
+		* Los casos base
+		* La llamada recursiva  
 		La funcion recursiva se detiene porque al llegar a un caso base ya se obtiene un valor concreto, el cual es luego retornado de manera consecutiva hasta llegar a la primera vez que se llamó a la función.  
 		En el ejemplo del factorial, el caso base es ( n == 0), el cual retornará 1.  
 		Si hacemos fact(3):  
@@ -30177,13 +28465,12 @@ Tengo una pregunta: Por qué la funcion se detiene si constantemente está yendo
 		
 		
 
-* **oscarprz** (0)
+* **oscarprz** (0) [1052361](https://platzi.com/comentario/1052361/) 
 
-	
 	Código en ruby:  
 	![Screen Shot 2020-03-21 at 9.22.05 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-03-21%20at%209.22.05%20AM-660abdf6-a664-4265-8834-a76544284832.jpg)
 
-## 0270. La función Factorial, calculando el factorial recursivamente
+## 0270. La función Factorial, calculando el factorial recursivamente [17016](https://platzi.com/clases/1469-algoritmos/17016-la-funcion-factorial-calculando-el-factorial-recur/)
 
 ### Descripción:
 
@@ -30192,9 +28479,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 
 ### Comentarios:
 
-* **Manuel Rivera** (4)
+* **Manuel Rivera** (4) [837626](https://platzi.com/comentario/837626/) 
 
-	
 	JAVASCRIPT
 	``` 
 	    functionfactorial_c(num){ 
@@ -30218,9 +28504,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **darioarcos** (3)
+* **darioarcos** (3) [545715](https://platzi.com/comentario/545715/) 
 
-	
 	Algunas optimizaciones a este código para que sea mas limpio y eficiente.
 	``` 
 	    #include<stdio.h>
@@ -30252,26 +28537,24 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [545715] (1)
 
-		
 		muy buena implementacion!
 
-* **Juan David Castro (Platzi)** (3)
-![](https://pbs.twimg.com/media/D08UHeLV4AAVsgC?format=jpg&name=small)
-
-* **enriqueorozcog** (2)
-
+* **Juan David Castro (Platzi)** (3) [528318](https://platzi.com/comentario/528318/) 
 	
+	![](https://pbs.twimg.com/media/D08UHeLV4AAVsgC?format=jpg&name=small)
+
+* **enriqueorozcog** (2) [964600](https://platzi.com/comentario/964600/) 
+
 	Hay una extension en VSCode que sirve para identicar Paréntesis y llaves con diferentes colores:
 	
 	<https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer>
 	
 	Realmente es mucha ayuda.
 
-* **Mikeb91** (1)
+* **Mikeb91** (1) [1116864](https://platzi.com/comentario/1116864/) 
 
-	
 	en Java
 	``` 
 	    import java.util.Scanner;
@@ -30296,9 +28579,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Wilmer Diaz** (1)
+* **Wilmer Diaz** (1) [1094221](https://platzi.com/comentario/1094221/) 
 
-	
 	En python
 	``` 
 	    # Pidiendo el número al usuario
@@ -30325,9 +28607,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089792](https://platzi.com/comentario/1089792/) 
 
-	
 	Código en Java:
 	``` 
 	    public class Factorial
@@ -30362,16 +28643,14 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1071437](https://platzi.com/comentario/1071437/) 
 
-	
 	excelente estas clases vas aprendiendo a corregir cada que sale un error al compilar
 	
 	![recursividad fact.PNG](https://static.platzi.com/media/user_upload/recursividad%20fact-767ae5bf-267a-46ba-bd8d-e6b2fa5557b2.jpg)
 
-* **JOSE DE JESUS USCANGA MOLINA** (1)
+* **JOSE DE JESUS USCANGA MOLINA** (1) [1057878](https://platzi.com/comentario/1057878/) 
 
-	
 	Dejo mi aporte el factorial de forma recursiva y por ciclo
 	``` 
 	    const factOne = n => n ? (n * factOne(n - 1)) : 1
@@ -30386,9 +28665,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Eduardo Aguilar Escalante** (1)
+* **Eduardo Aguilar Escalante** (1) [1047284](https://platzi.com/comentario/1047284/) 
 
-	
 	Así sería la función factorial con recursividad en JS.
 	``` 
 	    function fact(num){
@@ -30401,9 +28679,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Mauricio Gálvez** (1)
+* **Mauricio Gálvez** (1) [1046183](https://platzi.com/comentario/1046183/) 
 
-	
 	Aquí dejos mi una función que calcula el factorial usando ciclos y no la recursividad.
 	``` 
 	    long long int factorialConCiclos(int n)
@@ -30421,7 +28698,7 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	
 	Si tienes cualquier pregunta no dudes en consultarme.
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1039763](https://platzi.com/comentario/1039763/) 
 
 	```
 	    #include<stdio.h>
@@ -30452,41 +28729,35 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **paola-diaz361** (1)
+* **paola-diaz361** (1) [1034362](https://platzi.com/comentario/1034362/) 
 
-	
 	Genial, Gracias por enseñarnos con tanto amor y paciencia 😃
 	
 	![recursividad.PNG](https://static.platzi.com/media/user_upload/recursividad-1884854f-b745-4858-a2d1-2dc395f82b61.jpg) ![recursividad1.PNG](https://static.platzi.com/media/user_upload/recursividad1-299b3146-c922-4321-89ba-ba73ecd6bdc6.jpg)
 
-* **Francoo** (1)
+* **Francoo** (1) [987861](https://platzi.com/comentario/987861/) 
 
-	
 	Se necesitan muchos conocimientos previos para poder entender al profesor. Esta mal hecha la ruta de aprendizaje o faltan cursos. En cada curso deberia haber un apartado que diga cuáles son los conocimientos previos requeridos para poder entender.
 
-	* **arielr85** (2)
+	* **arielr85** [987861] (2)
 
-		
 		Lo mejor es ver primero programación estructurada !!!
 
-	* **Mauricio Gálvez** (1)
+	* **Mauricio Gálvez** [987861] (1)
 
-		
 		Este curso forma parte de la ruta de [Fundamentos de programación](https://platzi.com/clases/learning-path/fundamentos-programacion/).
 		
 		De seguro si tomas los cursos anteriores entenderás este y si no es así para eso esta este apartado, puedes preguntar cualquier, de seguro alguien estará dispuesto a ayudarte.
 		
 		Recuerda que estamos aquí para aprender juntos.
 
-* **Abraham Caso Torres** (1)
+* **Abraham Caso Torres** (1) [980812](https://platzi.com/comentario/980812/) 
 
-	
 	genial esto se pone mejor de lo que esperaba.  
 	![](![Captura de pantalla de 2020-02-12 00-14-51.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-12%2000-14-51-c9bde1ba-13d1-4497-8c32-ada45bf53517.jpg)
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [980720](https://platzi.com/comentario/980720/) 
 
-	
 	¡Súper genial… motivado a seguir con todo el power! jajajaja
 	``` 
 	    #include<stdio.h>
@@ -30521,9 +28792,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **megadelt** (1)
+* **megadelt** (1) [980017](https://platzi.com/comentario/980017/) 
 
-	
 	Alguien sabe por qué en el editor de código el main, le hace esa estructura y variables por defecto?
 	``` 
 	    main(int argc, charconst *argv[])
@@ -30534,20 +28804,20 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [978101](https://platzi.com/comentario/978101/) 
 
-	
 	super interesante , me ha quedado un poco mas claro
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-10 19-34-26.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-10%2019-34-26-b0deedb5-c0a7-4528-87b2-0e267f8798a2.jpg)
-
-* **Adriana del Pilar Martinez Bautista** (1)
-![Recursividad_Funcional.png](https://static.platzi.com/media/user_upload/Recursividad_Funcional-3ed5c3c7-aa02-49f2-929d-0eb87d0355a1.jpg)
-
-* **enriqueorozcog** (1)
-
+* **Angie Garcia** (1) [978099](https://platzi.com/comentario/978099/) 
 	
+	![Captura de pantalla de 2020-02-10 19-34-26.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-10%2019-34-26-b0deedb5-c0a7-4528-87b2-0e267f8798a2.jpg)
+
+* **Adriana del Pilar Martinez Bautista** (1) [977309](https://platzi.com/comentario/977309/) 
+	
+	![Recursividad_Funcional.png](https://static.platzi.com/media/user_upload/Recursividad_Funcional-3ed5c3c7-aa02-49f2-929d-0eb87d0355a1.jpg)
+
+* **enriqueorozcog** (1) [965897](https://platzi.com/comentario/965897/) 
+
 	Funcion implementada en Javascript:
 	``` 
 	    var c = document.getElementById("calcular");
@@ -30591,29 +28861,24 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	Se puede probar aqui:  
 	<https://repl.it/@enriqueorozcog/recursividad>
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [933518](https://platzi.com/comentario/933518/) 
 
-	
 	Entendido, pero tengo problemas con mi editor.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [933518] (1)
 
-		
 		Hola! Que sucede? 😄
 
-	* **Juan Camilo García Mesa** (1)
+	* **Juan Camilo García Mesa** [933518] (1)
 
-		
 		Más que el editor, creo que el problema es del compilador, pues no ejecuta el programa.
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [933518] (1)
 
-		
 		Puedes mostrarnos una captura de pantalla del error? de esa forma te podemos ayudar de mejor manera 😄
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886737](https://platzi.com/comentario/886737/) 
 
-	
 	Es muy interesante usar la recursividad
 	``` 
 	    #include<stdio.h>
@@ -30650,9 +28915,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **sgomez2113** (1)
+* **sgomez2113** (1) [875820](https://platzi.com/comentario/875820/) 
 
-	
 	me gusto mucho usar la recursividad, tengo mas claro como usarlo y el termino. Gracias ✌
 	``` 
 	    #include<stdio.h>
@@ -30687,9 +28951,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Maryluz Vargas Restrepo** (1)
+* **Maryluz Vargas Restrepo** (1) [860785](https://platzi.com/comentario/860785/) 
 
-	
 	JAVA
 	``` 
 	    package Platzi;
@@ -30726,9 +28989,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [829529](https://platzi.com/comentario/829529/) 
 
-	
 	comparto la sucesión de fibonacci
 	``` 
 	    logging.basicConfig(level=logging.INFO)
@@ -30745,7 +29007,7 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [818954](https://platzi.com/comentario/818954/) 
 
 	```
 	    using System;
@@ -30801,19 +29063,16 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **predator0077** (1)
+* **predator0077** (1) [809934](https://platzi.com/comentario/809934/) 
 
-	
 	Ahora entiendo un poco mas de funciones recursivas, que maravilla de explicación por parte del profe
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [804745](https://platzi.com/comentario/804745/) 
 
-	
 	Todo bien! todo bello <3
 
-* **Juan Pablo Ballistreri** (1)
+* **Juan Pablo Ballistreri** (1) [782016](https://platzi.com/comentario/782016/) 
 
-	
 	En python:
 	``` 
 	    deffactorial(n):
@@ -30832,9 +29091,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **JONATAN CADAVID TORRES** (1)
+* **JONATAN CADAVID TORRES** (1) [775287](https://platzi.com/comentario/775287/) 
 
-	
 	Python:
 	``` 
 	    <deffactorial(n):
@@ -30851,9 +29109,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	
 	120
 
-* **Juan Camilo Salazar Gañan** (1)
+* **Juan Camilo Salazar Gañan** (1) [774434](https://platzi.com/comentario/774434/) 
 
-	
 	long factorial(int n)  
 	{  
 	if (n == 0)  
@@ -30862,9 +29119,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	return (n* factorial(n - 1));  
 	}
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [671106](https://platzi.com/comentario/671106/) 
 
-	
 	 **En JS:**
 	``` 
 	    const factorial = numero => {
@@ -30880,9 +29136,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [653246](https://platzi.com/comentario/653246/) 
 
-	
 	**¿Qué es la recursión?**  
 	El proceso por el cual una función se llama a sí misma directa o indirectamente se llama ‘recursión’ y la función correspondiente es llamada ‘función recursiva’. Al usar un algoritmo de recursión, ciertos problemas pueden ser resueltos más fácil.
 	
@@ -30895,17 +29150,16 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	¿Cómo un problema en particular es resuelto usando la recursividad?  
 	La idea es presentar el problema en términos de uno o más problemas pequeños y añadir uno o más casos base para detener la recursión. Por ejemplo: calculamos el factorial ‘n’ si sabemos el factorial de ‘n-1’. El caso base sería que n=0. Devolvemos 1 cuando n =0.
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [653220](https://platzi.com/comentario/653220/) 
 
-	
 	En java
 	``` 
 	    /**
-	         * <h1>Factorial de un número</h1>
+	       * <h1>Factorial de un número</h1>
 	         *En ésta función, el caso base es que el numero factorial sea menor o igual que 1.
-	         * La solución al problema 'más grande' puede ser resuelto convirtiendo el número
-	         * a un número más pequeño (de 1 en 1) hasta que se llegue al caso base.
-	         * */
+	       * La solución al problema 'más grande' puede ser resuelto convirtiendo el número
+	       * a un número más pequeño (de 1 en 1) hasta que se llegue al caso base.
+	       * */
 	        publicintfactorial(int factorialNumber){
 	    
 	            if (factorialNumber <= 1) { // <-- Caso base.
@@ -30918,7 +29172,7 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **kikega** (1)
+* **kikega** (1) [652787](https://platzi.com/comentario/652787/) 
 
 	```
 	    deffactorial(num):    
@@ -30933,9 +29187,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [648911](https://platzi.com/comentario/648911/) 
 
-	
 	en c#
 	``` 
 	    using System;
@@ -30961,7 +29214,7 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **hernan__giraldo** (1)
+* **hernan__giraldo** (1) [635792](https://platzi.com/comentario/635792/) 
 
 	```
 	    const factorialRec = (n: number): number => {
@@ -30971,7 +29224,7 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [619256](https://platzi.com/comentario/619256/) 
 
 	```
 	    #include<stdio.h>
@@ -31005,9 +29258,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **odbeltrano** (1)
+* **odbeltrano** (1) [572712](https://platzi.com/comentario/572712/) 
 
-	
 	CÓDIGO EN JAVA
 	
 	import java.util.Scanner;
@@ -31042,9 +29294,8 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	
 	}
 
-* **Milton Andrés Sanabria** (1)
+* **Milton Andrés Sanabria** (1) [563061](https://platzi.com/comentario/563061/) 
 
-	
 	Si intentan sacar factorial de un numero grande (mayor a 10) se les va a desbordar y no imprimirá un resultado correcto. cambie el tipo de dato por un _double_ que tiene el doble de memoria que el _long_ , 8 bytes.
 	``` 
 	    #include "stdio.h"
@@ -31078,19 +29329,18 @@ En esta clase aplicaremos la función factorial que diseñamos en la clase pasad
 	    
 	```
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [76082](https://platzi.com/comentario/880710/) 
 Me está generando éste error al momento de compilar: recursividad.c: In function ‘main’: recursividad.c:16:9: warning: too many arg...
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [76082] (2)
 
-		
 		En la función `scanf`, se usa el especificador de formato con el símbolo `%`
 		``` 
 		    scanf("%d", &n);
 		    
 		```
 
-## 0280. Manejo de cadenas de caracteres
+## 0280. Manejo de cadenas de caracteres [17017](https://platzi.com/clases/1469-algoritmos/17017-manejo-de-cadenas-de-caracteres/)
 
 ### Descripción:
 
@@ -31107,14 +29357,13 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (8)
+* **Juan David Castro (Platzi)** (8) [522494](https://platzi.com/comentario/522494/) 
 
-	
 	 **La función`StringReverse` en _JavaScript_** 😎:
 	
 	PD hice el ejercicio solito pero dejo el link con la explicación larga y super comentada 😌😬.
 	
-	  * [Three Ways to Reverse a String in JavaScript](url)
+	* [Three Ways to Reverse a String in JavaScript](url)
 	
 	
 	  1. Método JavaScript es ❤️:
@@ -31170,9 +29419,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Emmanuel Guerra** (4)
+* **Emmanuel Guerra** (4) [553971](https://platzi.com/comentario/553971/) 
 
-	
 	Kotlin:
 	``` 
 	    funmain(args: Array<String>) {
@@ -31191,25 +29439,21 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [553971] (2)
 
-		
 		Excelente! Creo que usted es el único estudiante usando kotlin , gracias por eso! Todos ganamos con esta variedad 😃
 
-* **Wandy Rafael Santana Evangelista** (3)
+* **Wandy Rafael Santana Evangelista** (3) [671125](https://platzi.com/comentario/671125/) 
 
-	
 	 **Aquí código en JS:**  
 	![Screen Shot 2019-07-31 at 9.46.55 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-31%20at%209.46.55%20AM-6ab9b9f5-8553-4048-8d9a-cb0e925ff09f.jpg)
 
-	* **efrainjaimes** (2)
+	* **efrainjaimes** [671125] (2)
 
-		
 		Excelente, se ve muy limpio con Js
 
-* **Danelia Sanchez Sanchez** (3)
+* **Danelia Sanchez Sanchez** (3) [528355](https://platzi.com/comentario/528355/) 
 
-	
 	Python
 	``` 
 	    defreverseString(string):
@@ -31220,39 +29464,39 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **VHugoBarnes** (2)
+* **VHugoBarnes** (2) [660492](https://platzi.com/comentario/660492/) 
 
 	```
 	    /**
 	         *<h1>reverseString</h1>
-	         * Se invierte el contenido del String mediante recursión
-	         * Ejemplo: "Keko kaka"
+	       * Se invierte el contenido del String mediante recursión
+	       * Ejemplo: "Keko kaka"
 	         *
-	         * La primera parte de la recursion y las llamadas anidadas del método.
+	       * La primera parte de la recursion y las llamadas anidadas del método.
 	         *
-	         * 1.-rts = "eko kaka" + K
-	         * 2.-rts = "ko kaka" + e
-	         * 3.-rts = "o kaka" + k
-	         * 4.-rts = " kaka" + o
-	         * 5.-rts = "kaka" + " "
-	         * 6.-rts = "aka" + k
-	         * 7.-rts = "ka" + a
-	         * 8.-rts = "a" + k
-	         * 9.-rts = "" + a
+	       * 1.-rts = "eko kaka" + K
+	       * 2.-rts = "ko kaka" + e
+	       * 3.-rts = "o kaka" + k
+	       * 4.-rts = " kaka" + o
+	       * 5.-rts = "kaka" + " "
+	       * 6.-rts = "aka" + k
+	       * 7.-rts = "ka" + a
+	       * 8.-rts = "a" + k
+	       * 9.-rts = "" + a
 	         *
-	         * La segunda parte del método recursivo.
-	         * El método topa con el 'if' y la llamada al método más 'alta' se retorna
-	         * automaticamente.
+	       * La segunda parte del método recursivo.
+	       * El método topa con el 'if' y la llamada al método más 'alta' se retorna
+	       * automaticamente.
 	         *
-	         * 9.- rts " " + a = a
-	         * 8.- rts "a" + k = ak
-	         * 7.- rts "ka" + a = aka
-	         * 6.- rts "aka" + k = akak
-	         * 5.- rts "kaka" + ' ' = akak
-	         * 4.- rts " kaka" + o = akak o
-	         * 3.- rts "o kaka" + k = akak ok
-	         * 2.- rts "ko kaka" + e = akak oke
-	         * 1.- rts "eko kaka" + K = akak okeK
+	       * 9.- rts " " + a = a
+	       * 8.- rts "a" + k = ak
+	       * 7.- rts "ka" + a = aka
+	       * 6.- rts "aka" + k = akak
+	       * 5.- rts "kaka" + ' ' = akak
+	       * 4.- rts " kaka" + o = akak o
+	       * 3.- rts "o kaka" + k = akak ok
+	       * 2.- rts "ko kaka" + e = akak oke
+	       * 1.- rts "eko kaka" + K = akak okeK
 	         **/
 	        public String reverseString(String str) {
 	            if (str.isEmpty()) {
@@ -31265,19 +29509,16 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **GibsPM** (2)
+* **GibsPM** (2) [588145](https://platzi.com/comentario/588145/) 
 
-	
 	Me queda algo confuso el uso de los 2 métodos para poner en reversa una cadena… pero en esta [liga](https://medium.freecodecamp.org/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb) (que ya fue proporcionada por _**juandc**_ pero no funciona) se explica más a detalle y logras entender por si quedan dudas.
 
-	* **José B. Méndez Padín** (1)
+	* **José B. Méndez Padín** [588145] (1)
 
-		
 		Gracias por el enlace.
 
-* **Mikeb91** (1)
+* **Mikeb91** (1) [1117191](https://platzi.com/comentario/1117191/) 
 
-	
 	Struggling with this challenge but I did it at the end.
 	``` 
 	    import java.util.Scanner;
@@ -31304,7 +29545,7 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	
 	The main difference between recursion and iteration is that the first one uses the same chunk of code, runing at different layers of our program. The iteration instead, makes differents executions over the same code over the same layer. Also, recursion goes deeper and deeper until the base case is achieved, iteration runs the same code until a condition is met.
 
-* **hectorgtez** (1)
+* **hectorgtez** (1) [1089837](https://platzi.com/comentario/1089837/) 
 
 	```
 	    public class Characters
@@ -31326,12 +29567,12 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **keila martinez** (1)
-![java.PNG](https://static.platzi.com/media/user_upload/java-1b482059-fae2-436f-a5f9-73d42b1f5737.jpg)
-
-* **Johan Nieto** (1)
-
+* **keila martinez** (1) [1071512](https://platzi.com/comentario/1071512/) 
 	
+	![java.PNG](https://static.platzi.com/media/user_upload/java-1b482059-fae2-436f-a5f9-73d42b1f5737.jpg)
+
+* **Johan Nieto** (1) [1060747](https://platzi.com/comentario/1060747/) 
+
 	En Javascript.
 	``` 
 	    document.write("<br>Poner al revez un string<br><br>");
@@ -31361,9 +29602,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **JOSE DE JESUS USCANGA MOLINA** (1)
+* **JOSE DE JESUS USCANGA MOLINA** (1) [1058068](https://platzi.com/comentario/1058068/) 
 
-	
 	Ejemplo en reverse string en JS de forma recursiva y por medio de ciclos
 	``` 
 	    const reverse = str => {
@@ -31378,9 +29618,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1056813](https://platzi.com/comentario/1056813/) 
 
-	
 	Python y su simpleza
 	``` 
 	    string = "Hola a todos"
@@ -31389,7 +29628,7 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1039805](https://platzi.com/comentario/1039805/) 
 
 	```
 	    public class StringReverse{
@@ -31411,9 +29650,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Josue12** (1)
+* **Josue12** (1) [1004808](https://platzi.com/comentario/1004808/) 
 
-	
 	Mi versión del código en c++:
 	``` 
 	    #include <iostream>
@@ -31452,40 +29690,33 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **alvaroantonioguerralopez** (1)
+* **alvaroantonioguerralopez** (1) [982356](https://platzi.com/comentario/982356/) 
 
-	
 	no me deja correr ningunos de los ejercicios que hago
 
-	* **Nicolás Pérez** (1)
+	* **Nicolás Pérez** [982356] (1)
 
-		
 		[https://platzi.com/clases/1650-prework/21961-instalacion-y-configuracion-de-vscode/](url) quizas te sirva
 
-	* **alvaroantonioguerralopez** (1)
+	* **alvaroantonioguerralopez** [982356] (1)
 
-		
 		No se encuentra ese link  
 		<https://platzi.com/clases/1650-prework/21961-instalacion-y-configuracion-de-vscode/> quizas te sirva
 
-	* **Nicolás Pérez** (1)
+	* **Nicolás Pérez** [982356] (1)
 
-		
 		copiar y pegar, no se porque pero así funciona, saludos
 
-	* **arielr85** (1)
+	* **arielr85** [982356] (1)
 
-		
 		Ya lo solucionaste ???
 
-	* **Nicolas David Pastran Zamora** (1)
+	* **Nicolas David Pastran Zamora** [982356] (1)
 
-		
 		Puedes usar un compilador online <https://www.onlinegdb.com/online_c++_compiler>
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [980743](https://platzi.com/comentario/980743/) 
 
-	
 	Sufrí un poco por el tema del uso de minúsculas donde no se debían colocar, pero bueno, a la final logré identificar el error y solucionarlo… 😃
 	``` 
 	    public class StringReverse{
@@ -31506,13 +29737,15 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-10 20-42-35.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-10%2020-42-35-1b477180-cc2c-406f-967c-d1c9630fbe34.jpg)
+* **Angie Garcia** (1) [978232](https://platzi.com/comentario/978232/) 
+	
+	![Captura de pantalla de 2020-02-10 20-42-35.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-10%2020-42-35-1b477180-cc2c-406f-967c-d1c9630fbe34.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Recursividad_Caracteres.png](https://static.platzi.com/media/user_upload/Recursividad_Caracteres-ac1cb209-fafb-4515-a330-1c57b20da29c.jpg)
+* **Adriana del Pilar Martinez Bautista** (1) [977420](https://platzi.com/comentario/977420/) 
+	
+	![Recursividad_Caracteres.png](https://static.platzi.com/media/user_upload/Recursividad_Caracteres-ac1cb209-fafb-4515-a330-1c57b20da29c.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [972463](https://platzi.com/comentario/972463/) 
 
 	```
 	    public class StringReverse {
@@ -31534,9 +29767,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **guillermogranado** (1)
+* **guillermogranado** (1) [960744](https://platzi.com/comentario/960744/) 
 
-	
 	Otro enfoque en C:
 	``` 
 	    #include <stdio.h>
@@ -31571,9 +29803,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Luis Angel José Portillo Arévalo** (1)
+* **Luis Angel José Portillo Arévalo** (1) [950606](https://platzi.com/comentario/950606/) 
 
-	
 	En javascript tambien hay una forma de hacer esto facil usando built-in functions, asi:
 	``` 
 	    let cadena = 'Platzi';
@@ -31600,9 +29831,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [913055](https://platzi.com/comentario/913055/) 
 
-	
 	No es recursividad, pero Python hace esto súper fácil 😅 con sólo una instrucción:
 	``` 
 	    defreverse_string(string):
@@ -31619,9 +29849,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886764](https://platzi.com/comentario/886764/) 
 
-	
 	**Se me hizo interesante en C**
 	``` 
 	    #include<stdio.h>
@@ -31655,19 +29884,16 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [886760](https://platzi.com/comentario/886760/) 
 
-	
 	Definitivamente deberé tomar los cursos de Java xD
 
-* **Antonio Rafael González Ferrer** (1)
+* **Antonio Rafael González Ferrer** (1) [871301](https://platzi.com/comentario/871301/) 
 
-	
 	Diablos había olvidado cómo se compilaba y ejecutaba Java en CMD jaja! Excelente clase!
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [829576](https://platzi.com/comentario/829576/) 
 
-	
 	me daba miedo que se me tragara la memoria del sistema
 	``` 
 	    import logging
@@ -31682,7 +29908,7 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [819047](https://platzi.com/comentario/819047/) 
 
 	```
 	    using System;
@@ -31715,14 +29941,12 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **gloria-lopez** (1)
+* **gloria-lopez** (1) [816166](https://platzi.com/comentario/816166/) 
 
-	
 	se podría hacer este programa de recursividad en C ya que que en C no se puede concatenar?
 
-	* **gloria-lopez** (4)
+	* **gloria-lopez** [816166] (4)
 
-		
 		El código que hice en C, utilizando recursividad
 		``` 
 		    #include<stdio.h>
@@ -31759,14 +29983,12 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 		    
 		```
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [816166] (1)
 
-		
 		Mil gracias Gloria por tu aporte!
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [804799](https://platzi.com/comentario/804799/) 
 
-	
 	Gracias clases de python en platzi:
 	``` 
 	    defstringReverse(phrase):
@@ -31777,9 +29999,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **monicachavez** (1)
+* **monicachavez** (1) [786995](https://platzi.com/comentario/786995/) 
 
-	
 	En C
 	``` 
 	    #include<stdio.h>
@@ -31813,7 +30034,7 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **kikega** (1)
+* **kikega** (1) [652816](https://platzi.com/comentario/652816/) 
 
 	```
 	    cad = input("Ingrese una cadena: ")
@@ -31823,7 +30044,7 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **hernan__giraldo** (1)
+* **hernan__giraldo** (1) [636027](https://platzi.com/comentario/636027/) 
 
 	```
 	    const reverseStringRec = (txt: string): string => {
@@ -31833,7 +30054,7 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [619265](https://platzi.com/comentario/619265/) 
 
 	```
 	    public class StringReverse{
@@ -31856,9 +30077,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [609491](https://platzi.com/comentario/609491/) 
 
-	
 	Para los fanáticos de la terminal como yo y que a su vez sea la primera vez que escriben código java, para compilar es así:
 	
 	**javac StringReverse.java**
@@ -31887,9 +30107,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-	* **jjuanleyva** (1)
+	* **jjuanleyva** [609491] (1)
 
-		
 		Recuerden instalar algun compilador de java.
 		
 		Este les servira(Para ubuntu) 😁
@@ -31898,9 +30117,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 		    
 		```
 
-* **Andres Arias** (1)
+* **Andres Arias** (1) [599215](https://platzi.com/comentario/599215/) 
 
-	
 	En Python:
 	``` 
 	    defreverse_string(string):
@@ -31917,9 +30135,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **odbeltrano** (1)
+* **odbeltrano** (1) [572734](https://platzi.com/comentario/572734/) 
 
-	
 	public class StringReverse {
 	
 	public String strReverse(String cadena){
@@ -31949,9 +30166,8 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	run:  
 	I love to learn programming with PLATZI!
 
-* **Hector Cardona** (1)
+* **Hector Cardona** (1) [546361](https://platzi.com/comentario/546361/) 
 
-	
 	Mi aporte.
 	``` 
 	    #Recursiva
@@ -31976,14 +30192,12 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [546361] (1)
 
-		
 		Excelente soporte, sigue así!
 
-* **vmgabriel** (1)
+* **vmgabriel** (1) [536587](https://platzi.com/comentario/536587/) 
 
-	
 	## Codigo de String Reverse en ELIXIR
 	
 	Un interesante lenguaje, un interesante paradigma
@@ -32007,12 +30221,11 @@ En esta clase vamos a implementar un algoritmo para voltear una cadena de caract
 	    
 	```
 
-* **oscarprz** (0)
+* **oscarprz** (0) [1052389](https://platzi.com/comentario/1052389/) 
 
-	
 	Código en ruby:![Screen Shot 2020-03-21 at 9.34.46 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-03-21%20at%209.34.46%20AM-a14c15a2-08ed-44b7-8c50-60a9d5269987.jpg)
 
-## 0290. Arte Generando arte recursivo
+## 0290. Arte Generando arte recursivo [17019](https://platzi.com/clases/1469-algoritmos/17019-arte-generando-arte-recursivo/)
 
 ### Descripción:
 
@@ -32031,8 +30244,9 @@ No sólo podemos hacer operaciones recursivas con textos y números; el límite 
 
 ### Comentarios:
 
-* **airsoull** (9)
-![Captura de pantalla 2019-05-18 a la\(s\) 20.17.21.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-05-18%20a%20la%28s%29%2020.17.21-997477f1-1d74-48ad-b6ea-33a143930e52.jpg)
+* **airsoull** (9) [590958](https://platzi.com/comentario/590958/) 
+	
+	![Captura de pantalla 2019-05-18 a la\(s\) 20.17.21.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-05-18%20a%20la%28s%29%2020.17.21-997477f1-1d74-48ad-b6ea-33a143930e52.jpg)
 	``` 
 	    import turtle
 	    
@@ -32072,9 +30286,8 @@ No sólo podemos hacer operaciones recursivas con textos y números; el límite 
 	    
 	```
 
-* **Samar Jaffal** (6)
+* **Samar Jaffal** (6) [877411](https://platzi.com/comentario/877411/) 
 
-	
 	Muchachos no se por qué a mi no me funcionaba el ejercicio con el compilador que usan en el ejemplo. Me salía este error:
 	
 	![Screenshot_4.png](https://static.platzi.com/media/user_upload/Screenshot_4-df9689ce-5e27-4b00-a21c-75de29c7953b.jpg)
@@ -32082,65 +30295,56 @@ No sólo podemos hacer operaciones recursivas con textos y números; el límite 
 	Tuve que usar el mismo compilador pero con un enlace diferente, ya que el error era al importar la librería turtle.  
 	Este es el enlace por si a alguien le sirve: <https://repl.it/languages/python_turtle>
 
-	* **Martín Roldán** (1)
+	* **Martín Roldán** [877411] (1)
 
-		
 		Gracias!
 
-	* **megadelt** (1)
+	* **megadelt** [877411] (1)
 
-		
 		gracias. Me estuve pegando cabezas un buen rato…
 
-* **David Behar** (6)
+* **David Behar** (6) [523989](https://platzi.com/comentario/523989/) 
 
-	
 	Me encantó esta clase, me recuerda a la tortuguita logo con la que aprendí a programar sin saber que estaba programando.  
 	![logo.jpg](https://static.platzi.com/media/user_upload/logo-54f24044-a286-4136-8537-87d85f423583.jpg)
 	
 	Para quien no sepa de qué les estoy hablando les dejo un [link](https://www.xataka.com/historia-tecnologica/tortuga-que-nos-enseno-a-programar-historia-logo-primer-lenguaje-programacion-disenado-para-ninos) que habla de [Logo](https://www.xataka.com/historia-tecnologica/tortuga-que-nos-enseno-a-programar-historia-logo-primer-lenguaje-programacion-disenado-para-ninos).
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [523989] (2)
 
-		
 		Con Logo fue mi primer acercamiento a programación 😃
 
-	* **David Behar** (1)
+	* **David Behar** [523989] (1)
 
-		
 		Sí, con logo me metía a hacer figuras muy extrañas, aprendí a programar sin saber qué era eso
 
-	* **Carlos Nicolas Gonzalez Cabrera** (1)
+	* **Carlos Nicolas Gonzalez Cabrera** [523989] (1)
 No conozco, quiero entrar al link pero no funciona :(
 
-	* **David Behar** (1)
+	* **David Behar** [523989] (1)
 
-		
 		Que mal, vuelve a intentar, a mi me sigue funcionando el link.
 
-* **Samar Jaffal** (5)
-![Screenshot_5.png](https://static.platzi.com/media/user_upload/Screenshot_5-6f6ab6ef-fe3d-4c24-8a36-b07daacf2b30.jpg) ![Screenshot_6.png](https://static.platzi.com/media/user_upload/Screenshot_6-6df398c8-c6d2-40c4-bfd9-fc89ee4cdf06.jpg) ![Screenshot_7.png](https://static.platzi.com/media/user_upload/Screenshot_7-621b1136-52ed-4e2f-a02d-243c0f8ca25f.jpg)
+* **Samar Jaffal** (5) [877736](https://platzi.com/comentario/877736/) 
+	
+	![Screenshot_5.png](https://static.platzi.com/media/user_upload/Screenshot_5-6f6ab6ef-fe3d-4c24-8a36-b07daacf2b30.jpg) ![Screenshot_6.png](https://static.platzi.com/media/user_upload/Screenshot_6-6df398c8-c6d2-40c4-bfd9-fc89ee4cdf06.jpg) ![Screenshot_7.png](https://static.platzi.com/media/user_upload/Screenshot_7-621b1136-52ed-4e2f-a02d-243c0f8ca25f.jpg)
 
-	* **Christian Gómez** (1)
+	* **Christian Gómez** [877736] (1)
 
-		
 		Esta muy broken, pasa el código!
 
-* **Efraín Hernández García** (4)
+* **Efraín Hernández García** (4) [886792](https://platzi.com/comentario/886792/) 
 
-	
 	<https://repl.it/languages/python_turtle>
 	
 	el enlace para correr el programa
 
-	* **MarianaGb** (2)
+	* **MarianaGb** [886792] (2)
 
-		
 		Gracias
 
-* **Juan Manuel Otero Rey** (4)
+* **Juan Manuel Otero Rey** (4) [804838](https://platzi.com/comentario/804838/) 
 
-	
 	![](![ART_PY.PNG](https://static.platzi.com/media/user_upload/ART_PY-62dc11b8-1e0e-4600-8572-3f25b4cd6e91.jpg)
 	``` 
 	    import turtle
@@ -32163,20 +30367,17 @@ No conozco, quiero entrar al link pero no funciona :(
 	    
 	```
 
-* **Azael Ortega** (3)
+* **Azael Ortega** (3) [1030844](https://platzi.com/comentario/1030844/) 
 
-	
 	🐍🎨  
 	![python-art.jpg](https://static.platzi.com/media/user_upload/python-art-691e3035-2841-4f03-9e14-fd2fccc30058.jpg)
 
-* **Christian Gómez** (3)
+* **Christian Gómez** (3) [888344](https://platzi.com/comentario/888344/) 
 
-	
 	![](url)![Hexagono en python.PNG](https://static.platzi.com/media/user_upload/Hexagono%20en%20python-515515ba-4b16-4c1b-9e53-a580eb6d61eb.jpg)
 
-* **necrobahamut** (3)
+* **necrobahamut** (3) [631961](https://platzi.com/comentario/631961/) 
 
-	
 	Asi me quedo a mi
 	
 	![spiral.PNG](https://static.platzi.com/media/user_upload/spiral-f74aa646-ab32-4ad1-a6fc-5c74f3755e26.jpg)
@@ -32212,9 +30413,8 @@ No conozco, quiero entrar al link pero no funciona :(
 	            draw(myTurtle, 100)```
 	```
 
-* **Gabriel De Andrade (Platzi)** (3)
+* **Gabriel De Andrade (Platzi)** (3) [540582](https://platzi.com/comentario/540582/) 
 
-	
 	What do you think?
 	
 	![Screenshot_20190321_000138.png](https://static.platzi.com/media/user_upload/Screenshot_20190321_000138-167acb86-0500-4306-837c-0fc9bef8ea25.jpg)
@@ -32244,33 +30444,33 @@ No conozco, quiero entrar al link pero no funciona :(
 	    
 	```
 
-* **eduardo-zepeda** (2)
-![Captura de pantalla de 2020-04-05 15-30-30.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-05%2015-30-30-24815666-5ad7-4e28-b9e6-5dabd4f290d9.jpg)
-
-* **Mauricio Alejandro leal** (2)
-![turtle.JPG](https://static.platzi.com/media/user_upload/turtle-6b71f720-79aa-43c3-a8f2-d9379270e0a3.jpg)
-
-* **uncristianr** (2)
-
+* **eduardo-zepeda** (2) [1098903](https://platzi.com/comentario/1098903/) 
 	
+	![Captura de pantalla de 2020-04-05 15-30-30.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-04-05%2015-30-30-24815666-5ad7-4e28-b9e6-5dabd4f290d9.jpg)
+
+* **Mauricio Alejandro leal** (2) [1053248](https://platzi.com/comentario/1053248/) 
+	
+	![turtle.JPG](https://static.platzi.com/media/user_upload/turtle-6b71f720-79aa-43c3-a8f2-d9379270e0a3.jpg)
+
+* **uncristianr** (2) [1029937](https://platzi.com/comentario/1029937/) 
+
 	😃
 	
 	![Captura de pantalla de 2020-03-10 16-35-53.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-03-10%2016-35-53-9a0a60b7-b83e-460d-ad24-4f0d0313a73e.jpg)
 
-* **ckaltny** (2)
+* **ckaltny** (2) [1021659](https://platzi.com/comentario/1021659/) 
 
-	
 	!![Documento sin título_page-0001.jpg](https://static.platzi.com/media/user_upload/Documento%20sin%20t%C3%ADtulo_page-0001-21fb03ba-9345-48d9-bd15-9de78233a9c9.jpg)
 
-* **Samar Jaffal** (2)
-![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-cca7bafe-6341-4870-b76b-fb129841aa08.jpg)
-
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
-
+* **Samar Jaffal** (2) [877482](https://platzi.com/comentario/877482/) 
 	
+	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-cca7bafe-6341-4870-b76b-fb129841aa08.jpg)
+
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [609500](https://platzi.com/comentario/609500/) 
+
 	Nunca le llamen a su archivo **[turtle.py](http://turtle.py)** 😉
 
-* **SolNaranjo** (2)
+* **SolNaranjo** (2) [604121](https://platzi.com/comentario/604121/) 
 
 	```
 	    import turtle
@@ -32309,9 +30509,8 @@ No conozco, quiero entrar al link pero no funciona :(
 	
 	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-002aa189-8938-4c88-a5f4-bddcbc952e86.jpg)
 
-* **René Sanchez** (2)
+* **René Sanchez** (2) [559529](https://platzi.com/comentario/559529/) 
 
-	
 	aqui va el mio 😃
 	``` 
 	    import turtle
@@ -32350,34 +30549,30 @@ No conozco, quiero entrar al link pero no funciona :(
 	    
 	```
 
-	* **René Sanchez** (1)
+	* **René Sanchez** [559529] (1)
 
-		
 		no puse la imagen jjjaja 😕 aqui va  
 		![turtle.png](https://static.platzi.com/media/user_upload/turtle-d99e9d3c-8f5f-4ea7-b1f2-b8c0edc74619.jpg)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [559529] (2)
 
-		
 		Excelente trabajo! Qué tal, todo te quedó claro? Es genial la recursividad!
 
-	* **René Sanchez** (2)
+	* **René Sanchez** [559529] (2)
 
-		
 		si me quedo mas claro al ponerlo en practica e observándolo gráficamente 😃
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [559529] (2)
 
-		
 		Excelente, sin duda es la mejor forma 😃
 
-	* **Hector Alejandro Ramirez Huertas** (3)
+	* **Hector Alejandro Ramirez Huertas** [559529] (3)
 
-		
 		MyTurtle Iluminaty!
 
-* **marco_cm** (2)
-![](https://lh6.googleusercontent.com/0DAx1GDPKR0szwO3WSRjGkbxE_lyZV5JJ2jlgpXEVPKe7x2u0Gnkdl43gOv6kO_PCcUDao1UEzL3AQ=w1920-h969)
+* **marco_cm** (2) [555936](https://platzi.com/comentario/555936/) 
+	
+	![](https://lh6.googleusercontent.com/0DAx1GDPKR0szwO3WSRjGkbxE_lyZV5JJ2jlgpXEVPKe7x2u0Gnkdl43gOv6kO_PCcUDao1UEzL3AQ=w1920-h969)
 	
 	Recursividad imparable!!!
 	``` 
@@ -32397,14 +30592,12 @@ No conozco, quiero entrar al link pero no funciona :(
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [555936] (1)
 
-		
 		excelente implementación
 
-* **claoherrera** (2)
+* **claoherrera** (2) [550057](https://platzi.com/comentario/550057/) 
 
-	
 	Adicione un poco de color
 	``` 
 	    import turtle
@@ -32429,29 +30622,26 @@ No conozco, quiero entrar al link pero no funciona :(
 	
 	![arte.JPG](https://static.platzi.com/media/user_upload/arte-64171c82-d9aa-44b2-820e-b69ed7b8cd1e.jpg)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [550057] (2)
 
-		
 		muuuuuuuuuy bello! Gran resultado =)
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1092963](https://platzi.com/comentario/1092963/) 
 
-	
 	wow
 
-* **JasoSalgado** (1)
-![Captura de Pantalla 2020-04-02 a la\(s\) 4.39.29 p.m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%204.39.29%20p.m.-41db424c-80e7-4397-a8c0-dcc5e5fbb483.jpg)
-
-* **keila martinez** (1)
-
+* **JasoSalgado** (1) [1090152](https://platzi.com/comentario/1090152/) 
 	
+	![Captura de Pantalla 2020-04-02 a la\(s\) 4.39.29 p.m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%204.39.29%20p.m.-41db424c-80e7-4397-a8c0-dcc5e5fbb483.jpg)
+
+* **keila martinez** (1) [1082589](https://platzi.com/comentario/1082589/) 
+
 	esta super el arte recursivo con python
 	
 	![turtle circulos.PNG](https://static.platzi.com/media/user_upload/turtle%20circulos-d52832ae-54a6-421e-910a-28b4b0bb3d65.jpg)
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1056861](https://platzi.com/comentario/1056861/) 
 
-	
 	Alguien tenía que hacerlo. Por las dudas solo dejo el código y si quieren pruebenlo:
 	``` 
 	    import turtle
@@ -32484,7 +30674,7 @@ No conozco, quiero entrar al link pero no funciona :(
 	    
 	```
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1040439](https://platzi.com/comentario/1040439/) 
 
 	```
 	    import turtle
@@ -32503,10 +30693,11 @@ No conozco, quiero entrar al link pero no funciona :(
 	    
 	```
 
-* **zayrasaavedrauribe** (1)
-![ARTE RECURSIVO.jpg.png](https://static.platzi.com/media/user_upload/ARTE%20RECURSIVO.jpg-2bf228a7-9d6a-499f-9299-5a078e5ace73.jpg)
+* **zayrasaavedrauribe** (1) [1036298](https://platzi.com/comentario/1036298/) 
+	
+	![ARTE RECURSIVO.jpg.png](https://static.platzi.com/media/user_upload/ARTE%20RECURSIVO.jpg-2bf228a7-9d6a-499f-9299-5a078e5ace73.jpg)
 
-* **ckaltny** (1)
+* **ckaltny** (1) [1021653](https://platzi.com/comentario/1021653/) 
 
 	``` 
 	    <co![](url)de>
@@ -32515,92 +30706,95 @@ No conozco, quiero entrar al link pero no funciona :(
 	
 	![](u%5B%5D\(%60url%60\)rl)
 
-* **Josue12** (1)
-![artefpy.png](https://static.platzi.com/media/user_upload/artefpy-b7ec5cdc-f8b9-4c18-90f9-d959821841a4.jpg)
-
-* **Julian Toro** (1)
-![Captura de Pantalla 2020-02-27 a la\(s\) 2.21.28 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-27%20a%20la%28s%29%202.21.28%20a.%C2%A0m.-ad2744d2-d2f6-463a-9654-8349f60b7358.jpg)
-
-* **Richard Acosta** (1)
-
+* **Josue12** (1) [1015092](https://platzi.com/comentario/1015092/) 
 	
+	![artefpy.png](https://static.platzi.com/media/user_upload/artefpy-b7ec5cdc-f8b9-4c18-90f9-d959821841a4.jpg)
+
+* **Julian Toro** (1) [1008861](https://platzi.com/comentario/1008861/) 
+	
+	![Captura de Pantalla 2020-02-27 a la\(s\) 2.21.28 a. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-27%20a%20la%28s%29%202.21.28%20a.%C2%A0m.-ad2744d2-d2f6-463a-9654-8349f60b7358.jpg)
+
+* **Richard Acosta** (1) [1008168](https://platzi.com/comentario/1008168/) 
+
 	Anexo dibujo  
 	![arte.jpg](https://static.platzi.com/media/user_upload/arte-9264563f-2266-4770-98a7-90094eb0fef0.jpg)
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [993345](https://platzi.com/comentario/993345/) 
 
-	
 	lo que me fallaba era q no abria en la pagina el proyecto que tenia instalado python with turtle
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-18 20-19-46.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-18%2020-19-46-bc01be54-5b14-4236-9f61-b941577983b8.jpg)
+* **Angie Garcia** (1) [993342](https://platzi.com/comentario/993342/) 
+	
+	![Captura de pantalla de 2020-02-18 20-19-46.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-18%2020-19-46-bc01be54-5b14-4236-9f61-b941577983b8.jpg)
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-18 20-25-42.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-18%2020-25-42-4e10728c-d070-44f3-a520-cfe8a7270a96.jpg)
+* **Angie Garcia** (1) [993338](https://platzi.com/comentario/993338/) 
+	
+	![Captura de pantalla de 2020-02-18 20-25-42.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-18%2020-25-42-4e10728c-d070-44f3-a520-cfe8a7270a96.jpg)
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-18 20-25-42.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-18%2020-25-42-6145b8c8-1de1-462e-a93d-444831a21a9d.jpg)
+* **Angie Garcia** (1) [993337](https://platzi.com/comentario/993337/) 
+	
+	![Captura de pantalla de 2020-02-18 20-25-42.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-18%2020-25-42-6145b8c8-1de1-462e-a93d-444831a21a9d.jpg)
 
-	* **Angie Garcia** (1)
+	* **Angie Garcia** [993337] (1)
 Porfin :p
 
-* **Andrés Felipe Tovar Rojas** (1)
-![2020-02-14 10_28_55-Repl.it - AcceptableBowedQuotient.png](https://static.platzi.com/media/user_upload/2020-02-14%2010_28_55-Repl.it%20-%20AcceptableBowedQuotient-0a16b60f-491a-4f3f-be1a-6cb0686a85d1.jpg)
-
-* **henrycaicedov** (1)
-
+* **Andrés Felipe Tovar Rojas** (1) [985167](https://platzi.com/comentario/985167/) 
 	
+	![2020-02-14 10_28_55-Repl.it - AcceptableBowedQuotient.png](https://static.platzi.com/media/user_upload/2020-02-14%2010_28_55-Repl.it%20-%20AcceptableBowedQuotient-0a16b60f-491a-4f3f-be1a-6cb0686a85d1.jpg)
+
+* **henrycaicedov** (1) [984142](https://platzi.com/comentario/984142/) 
+
 	mi dibujo
 	
 	![prueba.JPG](https://static.platzi.com/media/user_upload/prueba-597cb44f-def3-4d2e-9327-5054bcb3c0a6.jpg)
 
-* **Ricardo Andres Rojas Alonso** (1)
-![Repl.it - SimilarQuaintOffices - Google Chrome 11_02_2020 11_52_42 p. m..png](https://static.platzi.com/media/user_upload/Repl.it%20-%20SimilarQuaintOffices%20-%20Google%20Chrome%2011_02_2020%2011_52_42%20p.%20m.-4d421452-93a8-4f37-8d26-f50c0e21f9e5.jpg)
-
-* **Ricardo Andres Rojas Alonso** (1)
-![Repl.it - SimilarQuaintOffices - Google Chrome 11_02_2020 11_46_29 p. m..png](https://static.platzi.com/media/user_upload/Repl.it%20-%20SimilarQuaintOffices%20-%20Google%20Chrome%2011_02_2020%2011_46_29%20p.%20m.-836a589d-fd36-4570-b9a7-715e88be58a7.jpg)
-
-* **megadelt** (1)
-
+* **Ricardo Andres Rojas Alonso** (1) [980783](https://platzi.com/comentario/980783/) 
 	
+	![Repl.it - SimilarQuaintOffices - Google Chrome 11_02_2020 11_52_42 p. m..png](https://static.platzi.com/media/user_upload/Repl.it%20-%20SimilarQuaintOffices%20-%20Google%20Chrome%2011_02_2020%2011_52_42%20p.%20m.-4d421452-93a8-4f37-8d26-f50c0e21f9e5.jpg)
+
+* **Ricardo Andres Rojas Alonso** (1) [980780](https://platzi.com/comentario/980780/) 
+	
+	![Repl.it - SimilarQuaintOffices - Google Chrome 11_02_2020 11_46_29 p. m..png](https://static.platzi.com/media/user_upload/Repl.it%20-%20SimilarQuaintOffices%20-%20Google%20Chrome%2011_02_2020%2011_46_29%20p.%20m.-836a589d-fd36-4570-b9a7-715e88be58a7.jpg)
+
+* **megadelt** (1) [980573](https://platzi.com/comentario/980573/) 
+
 	Logré hacer una estrella… o algo así 😃
 	
 	![2020-02-11 \(6\).png](https://static.platzi.com/media/user_upload/2020-02-11%20%286%29-adb17153-5296-4a91-acbb-b30372443d75.jpg)
 
-* **megadelt** (1)
+* **megadelt** (1) [980130](https://platzi.com/comentario/980130/) 
 
-	
 	Me arroja un error la página, y tengo el mismo código que en la clase, qué puede ser?
 	
 	`Traceback (most recent call last): File "main.py", line 3, in <module> myTurtle = turtle.Turtle() File "/usr/local/lib/python3.7/turtle.py", line 3812, in __init__ Turtle._screen = Screen() File "/usr/local/lib/python3.7/turtle.py", line 3662, in Screen Turtle._screen = _Screen() File "/usr/local/lib/python3.7/turtle.py", line 3678, in __init__ _Screen._root = self._root = _Root() File "/usr/local/lib/python3.7/turtle.py", line 434, in __init__ TK.Tk.__init__(self) File "/usr/local/lib/python3.7/tkinter/__init__.py", line 2023, in __init__ self.tk = _tkinter.create(screenName, baseName, className,interactive, wantobjects, useTk, sync, use) _tkinter.TclError: no display name and no $DISPLAY environmentvariable`
 
-	* **Jose Luis Rivera** (1)
+	* **Jose Luis Rivera** [980130] (1)
 
-		
 		Cuando accedes al Link de los Enlaces te aparece un cuadro que dice:  
 		"search for a Language, e.g. C++"  
 		Tecleas Python, y elijes:  
 		"Python (with Turtle): A simple version of Python that supports Turtle."  
 		Y listo ahi si puedes colocar tu código y practicar…
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [979601](https://platzi.com/comentario/979601/) 
 
-	
 	no puedo observar la imagen a formar .
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [979420](https://platzi.com/comentario/979420/) 
 
-	
 	no se que paso… me podrian ayudar porfa
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-11 05-48-44.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-11%2005-48-44-f80ee954-eb2c-4a09-933d-e111f830b364.jpg)
+* **Angie Garcia** (1) [979415](https://platzi.com/comentario/979415/) 
+	
+	![Captura de pantalla de 2020-02-11 05-48-44.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-11%2005-48-44-f80ee954-eb2c-4a09-933d-e111f830b364.jpg)
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Turtle.png](https://static.platzi.com/media/user_upload/Turtle-20721a61-3c76-4ea9-ad5b-13d979effe19.jpg)
+* **Adriana del Pilar Martinez Bautista** (1) [977806](https://platzi.com/comentario/977806/) 
+	
+	![Turtle.png](https://static.platzi.com/media/user_upload/Turtle-20721a61-3c76-4ea9-ad5b-13d979effe19.jpg)
 
-* **Leisy Karina Algarra Fernandez** (1)
-![turtle.png](https://static.platzi.com/media/user_upload/turtle-bd5473f0-5a14-401d-9707-9b66e5f021a4.jpg)
+* **Leisy Karina Algarra Fernandez** (1) [976356](https://platzi.com/comentario/976356/) 
+	
+	![turtle.png](https://static.platzi.com/media/user_upload/turtle-bd5473f0-5a14-401d-9707-9b66e5f021a4.jpg)
 	``` 
 	    import turtle
 	    
@@ -32621,10 +30815,11 @@ Porfin :p
 	    
 	```
 
-* **wilmaryoanmalavermalaver** (1)
-![Captura de pantalla 2020-02-09 16.47.36.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-09%2016.47.36-dca2431b-9816-4395-a417-1f109eac3dec.jpg)
+* **wilmaryoanmalavermalaver** (1) [975968](https://platzi.com/comentario/975968/) 
+	
+	![Captura de pantalla 2020-02-09 16.47.36.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202020-02-09%2016.47.36-dca2431b-9816-4395-a417-1f109eac3dec.jpg)
 
-* **Jaime Alejandro Cantillo Guamanga** (1)
+* **Jaime Alejandro Cantillo Guamanga** (1) [974601](https://platzi.com/comentario/974601/) 
 
 	```
 	    import turtle
@@ -32644,8 +30839,9 @@ Porfin :p
 	    
 	```
 
-* **16angiec** (1)
-![Captura de Pantalla 2020-02-07 a la\(s\) 4.07.44 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-07%20a%20la%28s%29%204.07.44%20p.%C2%A0m.-66ab5520-8df8-44f8-8265-7442480f43f5.jpg)
+* **16angiec** (1) [972567](https://platzi.com/comentario/972567/) 
+	
+	![Captura de Pantalla 2020-02-07 a la\(s\) 4.07.44 p. m..png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-07%20a%20la%28s%29%204.07.44%20p.%C2%A0m.-66ab5520-8df8-44f8-8265-7442480f43f5.jpg)
 	``` 
 	    import turtle
 	    
@@ -32663,12 +30859,12 @@ Porfin :p
 	    
 	```
 
-* **MarianaGb** (1)
-![Artrecursivo.png](https://static.platzi.com/media/user_upload/Artrecursivo-fa6f99fd-5c77-4662-8d6a-e2a3efa4e55c.jpg)
-
-* **Miguel Torres** (1)
-
+* **MarianaGb** (1) [971405](https://platzi.com/comentario/971405/) 
 	
+	![Artrecursivo.png](https://static.platzi.com/media/user_upload/Artrecursivo-fa6f99fd-5c77-4662-8d6a-e2a3efa4e55c.jpg)
+
+* **Miguel Torres** (1) [967888](https://platzi.com/comentario/967888/) 
+
 	Obtuve una espiral como flor. 😮
 	
 	![Captura de pantalla \(49\).png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20%2849%29-0f16ef91-3a7e-4f39-adc1-09f9888f0b75.jpg)
@@ -32689,21 +30885,23 @@ Porfin :p
 	    
 	```
 
-* **Oscar Garcia** (1)
-![rosa.png](https://static.platzi.com/media/user_upload/rosa-c7a7b6af-ccdd-4608-80d3-85cc6a52281a.jpg)
-
-* **BotDrako** (1)
-![Phyton.jpg](https://static.platzi.com/media/user_upload/Phyton-6ee152b4-af76-4a1d-9e5e-d378a2916848.jpg)
-
-* **Omar Flores Grimontt** (1)
-
+* **Oscar Garcia** (1) [967332](https://platzi.com/comentario/967332/) 
 	
+	![rosa.png](https://static.platzi.com/media/user_upload/rosa-c7a7b6af-ccdd-4608-80d3-85cc6a52281a.jpg)
+
+* **BotDrako** (1) [965721](https://platzi.com/comentario/965721/) 
+	
+	![Phyton.jpg](https://static.platzi.com/media/user_upload/Phyton-6ee152b4-af76-4a1d-9e5e-d378a2916848.jpg)
+
+* **Omar Flores Grimontt** (1) [948387](https://platzi.com/comentario/948387/) 
+
 	Secuencia de Fibonacci 😄
 	
 	![Screenshot from 2020-01-26 17-38-21.png](https://static.platzi.com/media/user_upload/Screenshot%20from%202020-01-26%2017-38-21-966ecf14-229d-4df3-8292-c4ac2e873c49.jpg)
 
-* **Aldo-Salas** (1)
-![Opera Captura de pantalla_2020-01-26_121100_repl.it.png](https://static.platzi.com/media/user_upload/Opera%20Captura%20de%20pantalla_2020-01-26_121100_repl.it-ee337ece-7aa1-4874-9036-c04b08fd614c.jpg)
+* **Aldo-Salas** (1) [948015](https://platzi.com/comentario/948015/) 
+	
+	![Opera Captura de pantalla_2020-01-26_121100_repl.it.png](https://static.platzi.com/media/user_upload/Opera%20Captura%20de%20pantalla_2020-01-26_121100_repl.it-ee337ece-7aa1-4874-9036-c04b08fd614c.jpg)
 	``` 
 	    import turtle
 	    
@@ -32724,14 +30922,16 @@ Porfin :p
 	    
 	```
 
-* **Laura Natalia Rivera Cardona** (1)
-![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-071ae7c7-b142-4d42-8ae5-55bd7eb21dc8.jpg)
+* **Laura Natalia Rivera Cardona** (1) [944735](https://platzi.com/comentario/944735/) 
+	
+	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-071ae7c7-b142-4d42-8ae5-55bd7eb21dc8.jpg)
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [937316](https://platzi.com/comentario/937316/) 
 Muy interesante.
 
-* **Efraín Hernández García** (1)
-![arte_phyton.jpg](https://static.platzi.com/media/user_upload/arte_phyton-6a0fe877-576b-4278-8900-1a773fca5f2d.jpg)
+* **Efraín Hernández García** (1) [886789](https://platzi.com/comentario/886789/) 
+	
+	![arte_phyton.jpg](https://static.platzi.com/media/user_upload/arte_phyton-6a0fe877-576b-4278-8900-1a773fca5f2d.jpg)
 	
 	**Aqui mi codigo:**
 	``` 
@@ -32767,17 +30967,16 @@ Muy interesante.
 	    
 	```
 
-* **rogerparada** (1)
+* **rogerparada** (1) [855572](https://platzi.com/comentario/855572/) 
 
-	
 	![](![Untitled.png](https://static.platzi.com/media/user_upload/Untitled-7302ac95-0c48-4638-ae9f-b912a7f7d500.jpg)
 
-* **David Santiago González Ramos** (1)
-![art.png](https://static.platzi.com/media/user_upload/art-9153cf1f-617a-4e1d-a841-66126f5ad68c.jpg)
-
-* **Davic64** (1)
-
+* **David Santiago González Ramos** (1) [852374](https://platzi.com/comentario/852374/) 
 	
+	![art.png](https://static.platzi.com/media/user_upload/art-9153cf1f-617a-4e1d-a841-66126f5ad68c.jpg)
+
+* **Davic64** (1) [846784](https://platzi.com/comentario/846784/) 
+
 	Este es mi resultado
 	``` 
 	    import turtle
@@ -32800,8 +30999,9 @@ Muy interesante.
 	
 	![](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-12-02%20a%20la%28s%29%2013.04.32-d17b375b-cec6-4171-a97a-e6b7140b39eb.jpg)
 
-* **Jorge Arango** (1)
-![Screenshot_2.png](https://static.platzi.com/media/user_upload/Screenshot_2-2318ba45-1819-460d-8364-5f96e197c547.jpg)
+* **Jorge Arango** (1) [835747](https://platzi.com/comentario/835747/) 
+	
+	![Screenshot_2.png](https://static.platzi.com/media/user_upload/Screenshot_2-2318ba45-1819-460d-8364-5f96e197c547.jpg)
 	``` 
 	    import turtle
 	    
@@ -32822,9 +31022,8 @@ Muy interesante.
 	    
 	```
 
-* **Juan Camilo Salazar Gañan** (1)
+* **Juan Camilo Salazar Gañan** (1) [774485](https://platzi.com/comentario/774485/) 
 
-	
 	import turtle
 	
 	myTurtle = turtle.Turtle()  
@@ -32839,9 +31038,8 @@ Muy interesante.
 	draw(myTurtle, 100)  
 	myWin.exitonclick()
 
-* **Demetrio** (1)
+* **Demetrio** (1) [772605](https://platzi.com/comentario/772605/) 
 
-	
 	Encontré este ejemplo en la red, pero pareció muy bueno:
 	``` 
 	    bob.getscreen().bgcolor('#994444')
@@ -32871,9 +31069,8 @@ Muy interesante.
 	Y hace esto…  
 	![Screen Shot 2019-10-08 at 3.14.48 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-10-08%20at%203.14.48%20PM-6ab8fefe-7f69-46d1-8d86-32598d08c016.jpg)
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [763179](https://platzi.com/comentario/763179/) 
 
-	
 	escribá un codigo donde el ángulo es random, lo que genera dibujos interesantes,  
 	tambien puedes colocar el ángulo estático si deseas al quitar el comentario de la lìnea que está debajo de length y comentando la línea donde aparece radomint
 	``` 
@@ -32902,41 +31099,35 @@ Muy interesante.
 	    
 	```
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [703456](https://platzi.com/comentario/703456/) 
 
-	
 	excelente clase, gracias Ricardo
 	
 	![arte.png](https://static.platzi.com/media/user_upload/arte-b37531f2-4046-4d9e-9154-3c472ac6b60b.jpg)
 
-* **manuelvlza** (1)
+* **manuelvlza** (1) [691344](https://platzi.com/comentario/691344/) 
 
-	
 	como se hace esto en java?
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [671189](https://platzi.com/comentario/671189/) 
 
-	
 	 **Amazing**  
 	![Screen Shot 2019-07-31 at 10.55.27 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-07-31%20at%2010.55.27%20AM-cc846106-3228-4f87-a6d5-89e22942f4c8.jpg)
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [660636](https://platzi.com/comentario/660636/) 
 
-	
 	No entiendo, por más que reviso el código me aparece esto en la página:  
 	![](![error.PNG](https://static.platzi.com/media/user_upload/error-42b6aace-f3a4-4c35-b026-099faa398b22.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [660636] (1)
 
-		
 		Revisando!
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [660636] (1)
 
-		
 		Hola, este ejercicio no te va a correr ya que necesita levantar cosas del entorno gráfico del sistema y no lo puede hacer via navegador, si quieres correr este ejercicio debes tener python instalado en tu sistema y ejecutarlo desde la consola del sistema.
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [619274](https://platzi.com/comentario/619274/) 
 
 	```
 	    import turtle
@@ -32955,30 +31146,28 @@ Muy interesante.
 	    
 	```
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [609035](https://platzi.com/comentario/609035/) 
 
-	
 	Alguien conoce otra página para correr python, no me quiso funcionar.
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (2)
+	* **Manuel Alejandro Aguilar Téllez Girón** [609035] (2)
 
-		
 		No, no conozco una página sinceramente, puedes hacerlo desde la terminal si tienes python instalado, con:
 		
 		**python3[miArchivo.py](http://miArchivo.py)**
 		
 		Y otra recomendación es que nunca le llames a tu archivo [turtle.py](http://turtle.py)
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [609035] (1)
 
-		
 		Carlos hola,
 		
 		La mejor pagina para compilar de cualquier lenguaje es esta <https://repl.it/>  
 		la aprendí de algun comentario o curso de Platzi, saludos
 
-* **gluo** (1)
-![](https://www.dropbox.com/s/wismcv5n0ovbpac/Screen%20Shot%202019-05-28%20at%2011.45.50%20AM.png)
+* **gluo** (1) [599751](https://platzi.com/comentario/599751/) 
+	
+	![](https://www.dropbox.com/s/wismcv5n0ovbpac/Screen%20Shot%202019-05-28%20at%2011.45.50%20AM.png)
 	``` 
 	    import turtle
 	    
@@ -32996,8 +31185,9 @@ Muy interesante.
 	    
 	```
 
-* **gluo** (1)
-![](https://drive.google.com/open?id=15c1Ba7m7UgrgkXWfOSnOd--XVokrtfTE)
+* **gluo** (1) [599749](https://platzi.com/comentario/599749/) 
+	
+	![](https://drive.google.com/open?id=15c1Ba7m7UgrgkXWfOSnOd--XVokrtfTE)
 	``` 
 	    import turtle
 	    
@@ -33016,7 +31206,7 @@ Muy interesante.
 	    
 	```
 
-* **miguel-angel-baquero** (1)
+* **miguel-angel-baquero** (1) [592838](https://platzi.com/comentario/592838/) 
 
 	```
 	    import turtle
@@ -33035,9 +31225,8 @@ Muy interesante.
 	    
 	```
 
-* **Juan Esteban Jandres Rivera** (1)
+* **Juan Esteban Jandres Rivera** (1) [562242](https://platzi.com/comentario/562242/) 
 
-	
 	Dibujando una estrella
 	``` 
 	    import turtle
@@ -33058,9 +31247,8 @@ Muy interesante.
 	
 	![estrella.png](https://static.platzi.com/media/user_upload/estrella-7c37542f-203a-4dcb-a2da-7a942d02988b.jpg)
 
-* **marco_cm** (1)
+* **marco_cm** (1) [555933](https://platzi.com/comentario/555933/) 
 
-	
 	![Recursividad](https://drive.google.com/file/d/19jJQK2IusfXL6HkS3uBrrZhE9mD0FoVX/view?usp=sharing)  
 	Una recursividad sin condición…
 	``` 
@@ -33080,24 +31268,20 @@ Muy interesante.
 	    
 	```
 
-* **marco_cm** (1)
+* **marco_cm** (1) [555862](https://platzi.com/comentario/555862/) 
 
-	
 	![](C:\0-Resources\Projects\CursosPlatzi\Fund - Algoritmos\arteTurtle pythonRecursivo.png)
 
-* **victormiguel26** (1)
+* **victormiguel26** (1) [540100](https://platzi.com/comentario/540100/) 
 
-	
 	![](![Captura de pantalla de 2019-03-20 16-23-20.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-03-20%2016-23-20-8cd3a14d-54cc-4377-b6ce-d95ffa61eb5a.jpg)
 
-* **victormiguel26** (1)
+* **victormiguel26** (1) [540096](https://platzi.com/comentario/540096/) 
 
-	
 	![](![Captura de pantalla de 2019-03-20 16-20-49.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202019-03-20%2016-20-49-754f17b9-3fcf-4dbe-8a38-199e64d0ec7f.jpg))
 
-* **roman-lopez** (1)
+* **roman-lopez** (1) [537275](https://platzi.com/comentario/537275/) 
 
-	
 	Solo cambie un poco el angulo y el length
 	``` 
 	    defdrawTurtle(myTurtle, length):
@@ -33113,27 +31297,25 @@ Muy interesante.
 	    
 	```
 
-	* **roman-lopez** (2)
+	* **roman-lopez** [537275] (2)
 
-		
 		Acá la imagen :  
 		![triangulin.jpg](https://static.platzi.com/media/user_upload/triangulin-c3252846-ae1e-41e3-a80a-c6d94f331cd7.jpg)
 
-* **Julio Cesar Cuevas Cardenas** (1)
+* **Julio Cesar Cuevas Cardenas** (1) [81302](https://platzi.com/comentario/978466/) 
 Me sale ese error cuando hago la practica tal cual como esta en la instruccion a que se puede relacionar ?
 
-	* **Jose Luis Rivera** (2)
+	* **Jose Luis Rivera** [81302] (2)
 
-		
 		Cuando accedes al Link de los Enlaces te aparece un cuadro que dice:  
 		"search for a Language, e.g. C++"  
 		Tecleas Python, y elijes:  
 		"Python (with Turtle): A simple version of Python that supports Turtle."  
 		Y listo ahi si puedes colocar tu código y practicar…
 
-# Divide and conquer y programación dinámica
+# Divide and conquer y programación dinámica [3365]
 
-## 0300. Divide and Conquer (divide y vencerás)
+## 0300. Divide and Conquer (divide y vencerás) [17018](https://platzi.com/clases/1469-algoritmos/17018-divide-and-conquer-divide-y-venceras/)
 
 ### Descripción:
 
@@ -33148,43 +31330,38 @@ En la siguiente clase aprenderemos exactamente cómo aplicar un sistema de orden
 
 ### Comentarios:
 
-* **Efraín Hernández García** (8)
+* **Efraín Hernández García** (8) [889495](https://platzi.com/comentario/889495/) 
 
-	
 	 **Dividir, Conquistar y Combinar**
 	
-	  * **Dividir:** Tomar un problema grande en subproblemas
-	  * **Conquistar:** Resolver cada uno de los subproblemas
-	  * **Combinar:** Unir apropiadamente las respuestas
+	* **Dividir:** Tomar un problema grande en subproblemas
+	* **Conquistar:** Resolver cada uno de los subproblemas
+	* **Combinar:** Unir apropiadamente las respuestas
 	
 	
 
-* **VHugoBarnes** (4)
+* **VHugoBarnes** (4) [660663](https://platzi.com/comentario/660663/) 
 
-	
 	Divide y vencerás es un paradigma de algoritmos. Un programa típico de Divide y Vencerás resuelve un problema usando los siguientes tres pasos:
 	
-	  * Dividir: Rompe el problema en sub-problemas del mismo tipo.
-	  * Conquistar: Resuelve recursivamente los sub-problemas.
-	  * Combinar: Combina apropiadamente las respuestas.
+	* Dividir: Rompe el problema en sub-problemas del mismo tipo.
+	* Conquistar: Resuelve recursivamente los sub-problemas.
+	* Combinar: Combina apropiadamente las respuestas.
 	
 	
 	
 	Un ejemplo clásico de Divide y Vencerás es ‘Merge Sort’. En ‘Merge Sort’, dividimos el arreglo de datos en dos mitades, ordenamos las dos mitades recursivamente, y luego unir las dos mitades.
 
-* **Juan Manuel Otero Rey** (3)
+* **Juan Manuel Otero Rey** (3) [806817](https://platzi.com/comentario/806817/) 
 
-	
 	Divide et impera
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [977841](https://platzi.com/comentario/977841/) 
 
-	
 	Dividi e vincerai.!!!
 
-* **mafevito** (2)
+* **mafevito** (2) [571520](https://platzi.com/comentario/571520/) 
 
-	
 	El paradigma divide y vencerás se divide en tres partes:
 	
 	  1. **DIVIDIR** : El problema se rompe en otros problemas más pequeños.
@@ -33196,32 +31373,27 @@ En la siguiente clase aprenderemos exactamente cómo aplicar un sistema de orden
 	
 	
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1093118](https://platzi.com/comentario/1093118/) 
 
-	
 	Quicksort!!!
 
-* **Andrés Campuzano Garzón** (1)
+* **Andrés Campuzano Garzón** (1) [1072561](https://platzi.com/comentario/1072561/) 
 
-	
 	Estoy muy emocionado.
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [984161](https://platzi.com/comentario/984161/) 
 
-	
 	разделяй и побеждай
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [701503](https://platzi.com/comentario/701503/) 
 
-	
 	dividir, vencer, combinar
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [671210](https://platzi.com/comentario/671210/) 
 
-	
 	Vamos a darle!!!
 
-## 0310. Qué es la programación dinámica (divide y vencerás v2.0)
+## 0310. Qué es la programación dinámica (divide y vencerás v2.0) [17020](https://platzi.com/clases/1469-algoritmos/17020-que-es-la-programacion-dinamica-divide-y-venceras-/)
 
 ### Descripción:
 
@@ -33238,27 +31410,24 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 
 ### Comentarios:
 
-* **claoherrera** (12)
-![DP.png](https://static.platzi.com/media/user_upload/DP-3a42d2ea-a0b6-4f78-9b59-bc0f197429d1.jpg)
+* **claoherrera** (12) [550076](https://platzi.com/comentario/550076/) 
+	
+	![DP.png](https://static.platzi.com/media/user_upload/DP-3a42d2ea-a0b6-4f78-9b59-bc0f197429d1.jpg)
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [550076] (2)
 
-		
 		gran frase gracias!
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (1)
+	* **Manuel Alejandro Aguilar Téllez Girón** [550076] (1)
 
-		
 		Jajaja qué cool!
 
-* **Danelia Sanchez Sanchez** (8)
+* **Danelia Sanchez Sanchez** (8) [531111](https://platzi.com/comentario/531111/) 
 
-	
 	[Aprendiendo Dynamic Programming con JS porque el entrevistador me lo ordenó -parte 1](https://medium.com/codecrafters/aprendiendo-dynamic-programming-con-js-porque-el-entrevistador-me-lo-orden%C3%B3-parte-1-a7e042005cca)
 
-* **Juan Camilo Alvarez Jurado** (6)
+* **Juan Camilo Alvarez Jurado** (6) [860064](https://platzi.com/comentario/860064/) 
 
-	
 	La programación dinámica es una técnica de diseño de algoritmos que busca mejorar la complejidad en tiempo de la solución de un problema que se pueda plantear desde una filosofía recursiva, empleando la reutilización de las soluciones ya obtenidas con una estructura de datos auxiliar, cuyos elementos representan sub-problemas específicos (según cómo se determine). Puede ser top-down (desde lo más general hacia abajo, requiere un manejo recursivo empleando “memoization”), o bien bottom-up (iterativo, partiendo del problema trivial hasta el problema más general)
 	
 	El procedimiento que se sigue para plantear la solución de programación dinámica a un problema es el siguiente:
@@ -33273,7 +31442,7 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 	
 	En problemas de optimización, la estructura de datos de apoyo almacena las soluciones óptimas a los problemas de decisión (de los problemas triviales a los más generales); de este modo, para establecer la solución general hay que basarse en las decisiones de optimización que quedan reflejadas en dicha estructura (recorriendo desde los problemas triviales hasta el más general, tomando nota de los elementos a los que corresponden los valores óptimos, información que es proporcionada por los índices de las casillas a los que corresponden los problemas particulares)
 	
-	  * Ejemplo 1: Factorial
+	* Ejemplo 1: Factorial
 	
 	Primero se identifican los problemas triviales:
 	```       factorial de 0 = 1
@@ -33314,7 +31483,7 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 	    
 	```
 	
-	  * Ejemplo 2: Elemento de la secuencia de Fibonacci
+	* Ejemplo 2: Elemento de la secuencia de Fibonacci
 	
 	Problemas triviales:
 	```       Fibonacci de 0 = 1
@@ -33358,9 +31527,8 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 	
 	
 
-* **GibsPM** (2)
+* **GibsPM** (2) [593839](https://platzi.com/comentario/593839/) 
 
-	
 	Y bueno, adjunto código del Merge Sort para C, antes de pasar a la propia clase:
 	``` 
 	    #include <stdio.h>
@@ -33435,56 +31603,47 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 	
 	[Aquí](https://repl.it/@GibranPM/Merge-Sort) lo puedes ver funcionando.
 
-* **GibsPM** (2)
+* **GibsPM** (2) [590073](https://platzi.com/comentario/590073/) 
 
-	
 	Tratando de entender programación dinámica, encontré esta liga que puede servir:  
 	[No memoización](http://interactivepython.org/runestone/static/pythoned/Recursion/ProgramacionDinamica.html)
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1093150](https://platzi.com/comentario/1093150/) 
 
-	
 	para que calcular algo muchas veces si ya lo calcule una vez ??  
 	programación dinámica = recursividad + memorización  
 	simple y muy eficiente
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [979422](https://platzi.com/comentario/979422/) 
 
-	
 	interesante, me gustaria aplicarlo y praticar mas
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [978014](https://platzi.com/comentario/978014/) 
 
-	
 	Gran método de optimización en el programa que lo hace ser dinámico.
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [976617](https://platzi.com/comentario/976617/) 
 
-	
 	Es esta version 2.0, cada uno de los subproblemas, se van guardando y acomodando automátcamente.
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [976452](https://platzi.com/comentario/976452/) 
 
-	
 	Divide and conquer: (divide y vencerás) divide, vence y combina.  
 	programación dinámica: cada vez que desarrollamos o resolvemos un problema se irá implementando automáticamente.
 
-* **rc_catunta** (1)
+* **rc_catunta** (1) [892964](https://platzi.com/comentario/892964/) 
 
-	
 	La principal ventaja que tiene la programación dinámica contra el paradigma de Divide y Venceras es que memoiza los resultados, memoizar, significa que guarda en memoria un resultado calculado previamente, lo que hace que por ejemplo si existen sub problemas “solapados” es decir sub problemas que ya hemos calculado antes, pues no los vuelve a calcular, lo que lo hace mas eficiente.
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [889512](https://platzi.com/comentario/889512/) 
 
-	
 	En pocas palabras la programación dinamica es un método de otpimización matematica en el que se pueden seguir agregando datos.
 
-* **EPadronU23** (1)
+* **EPadronU23** (1) [882073](https://platzi.com/comentario/882073/) 
 
-	
 	Según **[este artículo en Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming#Computer_programming)** , Quick Sort **no** es un _problema de de programación dinámica_.
 
-* **Wellington Gabriel Muñoz Vargas** (1)
+* **Wellington Gabriel Muñoz Vargas** (1) [831103](https://platzi.com/comentario/831103/) 
 
 	```
 	    using System;
@@ -33564,19 +31723,17 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 	    
 	```
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [757198](https://platzi.com/comentario/757198/) 
 
-	
 	Resumen:
 	
-	  * Romper el problema en subproblemas más pequeños.
-	  * La combinación de las (sub)soluciones no se hace al final, sino que se va haciendo a medida que se van resolviendo los subproblemas.
+	* Romper el problema en subproblemas más pequeños.
+	* La combinación de las (sub)soluciones no se hace al final, sino que se va haciendo a medida que se van resolviendo los subproblemas.
 	
 	
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [671251](https://platzi.com/comentario/671251/) 
 
-	
 	**Merge Sort en JS:**
 	``` 
 	    function merge(leftArr, rightArr) {
@@ -33612,12 +31769,11 @@ La diferencia con el divide y vencerás que aprendimos anteriormente es que cada
 	    
 	```
 
-* **Jose Luis Escobar** (0)
+* **Jose Luis Escobar** (0) [1028242](https://platzi.com/comentario/1028242/) 
 
-	
 	Se aplica mucho en programacion, excelente
 
-## 0320. MergeSort
+## 0320. MergeSort [16928](https://platzi.com/clases/1469-algoritmos/16928-mergesort/)
 
 ### Descripción:
 
@@ -33702,47 +31858,39 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 
 ### Comentarios:
 
-* **Danelia Sanchez Sanchez** (15)
+* **Danelia Sanchez Sanchez** (15) [529577](https://platzi.com/comentario/529577/) 
 
-	
 	Video:  
 	[Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo)
 
-	* **marco_cm** (1)
+	* **marco_cm** [529577] (1)
 
-		
 		Awesome video!!!  
 		Aprendizaje muy educativo… me siento niño de primaria, bravazo por compartirlo.
 
-	* **Yesica Andrea Pulido Escobar** (1)
+	* **Yesica Andrea Pulido Escobar** [529577] (1)
 
-		
 		Gracias por el enlace de ese vídeo, Genial!
 
-	* **jonathan2138** (1)
+	* **jonathan2138** [529577] (1)
 
-		
 		jajaja genial, ademas de que están todos los algoritmos de ordenamiento
 
-* **gloria-lopez** (7)
+* **gloria-lopez** (7) [818889](https://platzi.com/comentario/818889/) 
 
-	
 	Es un poco molesto, para otros temas dan explicación hasta gráfica y todo, pero algoritmos como estos que no son tan fácil que digamos lo dan como un articulo, generalizando que todo aquel que lea ya lo comprenderá.  
 	Tendrían que hacer una clase (video) explicando cada linea de código de este Algoritmo.
 
-	* **Alfredo Godinez** (1)
+	* **Alfredo Godinez** [818889] (1)
 
-		
 		comparto tu comentario, creo que ese debe ser el plus que nos deberían de compartir los profes en este tipo de cursos, aclaro que no es malo el material que dan, si deberían de ahondar mas a fondo, porque muchos temas los ven por encima y deberían ser mas concisos.
 
-	* **alexander garcia castañeda** (1)
+	* **alexander garcia castañeda** [818889] (1)
 
-		
 		que parte no entienden?
 
-	* **Alfredo Godinez** (0)
+	* **Alfredo Godinez** [818889] (0)
 
-		
 		No es que no entienda algo, al menos en lo que a mi respecta, el punto es que si están haciendo el curso, lo que yo en lo personal busco es la experiencia personal que cada profesor comparte.
 		
 		Es de cierta forma explicar el camino que ya recorrieron con sus aciertos y errores, de igual forma agradezco tu apoyo @alexandergarcia
@@ -33751,46 +31899,39 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 		
 		Saludos
 
-	* **Davic64** (1)
+	* **Davic64** [818889] (1)
 
-		
 		Aqui tienes 😃
 		
 		[-> Video](https://www.youtube.com/watch?v=JSceec-wEyw)
 
-* **henrycaicedov** (6)
+* **henrycaicedov** (6) [984194](https://platzi.com/comentario/984194/) 
 
-	
 	Esta es la diferencia entre **Merge Sort** Vs **Quick Sort**.  
 	(<https://youtu.be/es2T6KY45cA>)  
 	(Tiene subtitulos en español, activenlos)
 
-	* **Eduardo Zamarron Muñoz** (1)
+	* **Eduardo Zamarron Muñoz** [984194] (1)
 
-		
 		Es muy interesante el video, también los otros que tiene ese canal sobre algoritmos de ordenamiento.  
 		Me ayudaron a entender mejor, muchas gracias 😃
 
-	* **Ignacio Saccomano** (1)
+	* **Ignacio Saccomano** [984194] (1)
 
-		
 		Muy bueno
 
-* **Samar Jaffal** (5)
+* **Samar Jaffal** (5) [878021](https://platzi.com/comentario/878021/) 
 
-	
 	Para poder entender el algoritmo y como se comporta cada función tuve que hacerlo a mano paso a paso con un simple array de 3 numeros = [3,2,1].  
 	Me tomó un poco de tiempo para entender y 3 hojas de cuaderno jajaja  
 	![mergesort.jpg](https://static.platzi.com/media/user_upload/mergesort-629528c9-e6c7-4b0a-96a6-00452e6cf47b.jpg)
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [878021] (1)
 
-		
 		Si la verdad fue algo complejo su estructuración
 
-* **Juan Manuel Otero Rey** (5)
+* **Juan Manuel Otero Rey** (5) [807125](https://platzi.com/comentario/807125/) 
 
-	
 	Mergesort en python:
 	``` 
 	    ''' Con esta funcion podemos crear arrays
@@ -33849,24 +31990,20 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-	* **Juan Carlos Aranda Muñoz** (3)
+	* **Juan Carlos Aranda Muñoz** [807125] (3)
 
-		
 		Así es como debió haber hecho el profesor, usar un lenguaje popular y básico acompañado de una buena explicación…
 
-	* **Luis Xavier Perez Miramontes** (2)
+	* **Luis Xavier Perez Miramontes** [807125] (2)
 
-		
 		Excelente, con este se entiende de mejor manera 😄
 
-	* **keila martinez** (1)
+	* **keila martinez** [807125] (1)
 
-		
 		excelente explicacion lo entendí con este
 
-* **Wandy Rafael Santana Evangelista** (4)
+* **Wandy Rafael Santana Evangelista** (4) [671253](https://platzi.com/comentario/671253/) 
 
-	
 	 **Mege Sort en JS:**
 	``` 
 	    function merge(leftArr, rightArr) {
@@ -33902,25 +32039,21 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **VHugoBarnes** (4)
+* **VHugoBarnes** (4) [668118](https://platzi.com/comentario/668118/) 
 
-	
 	Hice éste tutorial de cómo comprendí Mergesort: <https://platzi.com/tutoriales/1469-algoritmos/4260-merge-sort-en-java/>
 
-	* **arielr85** (2)
+	* **arielr85** [668118] (2)
 
-		
 		gracias
 
-* **Efraín Hernández García** (3)
+* **Efraín Hernández García** (3) [895293](https://platzi.com/comentario/895293/) 
 
-	
 	 **Asi es como funciona el algoritmo graficamente:**  
 	![](![Merge-Sort.png](https://static.platzi.com/media/user_upload/Merge-Sort-f9e9eb3b-c1e7-47d5-95ff-ee9b4a8a5a35.jpg)
 
-* **diegoagd10** (3)
+* **diegoagd10** (3) [632692](https://platzi.com/comentario/632692/) 
 
-	
 	Este algoritmo me tomo 5 dias en resolverlo y para ser honestos al 4to día mire la solución. Pero esto me ayudo a percatarme que estaba haciendo algo totalmente diferente a MergeSort.
 	
 	Tambien vi el video que compartio nuestra compañera @DaneSanchz donde explica a profundidad como funciona este algoritmo ([Link directo a su comentario](https://platzi.com/comentario/529577/)). Esto me ayudo a entender mejor como funciona Merge Sort.
@@ -34011,9 +32144,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Aldo-Salas** (2)
+* **Aldo-Salas** (2) [960512](https://platzi.com/comentario/960512/) 
 
-	
 	Hice unas mejorar al código para que se viera mejor la salida:
 	``` 
 	    //Divide : Divide the n-element array into two n/2-element subarrays.
@@ -34091,9 +32223,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	
 	![0c9f405a9b0e8e00c7bbfeba85795775.png](https://static.platzi.com/media/user_upload/0c9f405a9b0e8e00c7bbfeba85795775-22316809-c67a-4b88-97cf-169ba976c2f3.jpg)
 
-* **luisglopez7777** (2)
+* **luisglopez7777** (2) [903964](https://platzi.com/comentario/903964/) 
 
-	
 	JS
 	``` 
 	    const merge = (arrA,arrB) =>{
@@ -34124,9 +32255,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **David Santiago González Ramos** (2)
+* **David Santiago González Ramos** (2) [852702](https://platzi.com/comentario/852702/) 
 
-	
 	Estoy de acuerdo con lo que algunos dicen, este código merece ser explicado. Me tomó como 3H entenderlo y saber cómo yo mismo puedo programar un merge_sort. Pero por otro lado tambn ps acá se evidencia el deseo que cada uno tiene por aprender, que al ser así (aprendiendo ("de verdad y honestamente contigo mismo) autonomamente) de hecho se aprende más. Si, me tomó como 3H pero ahora entiendo super bien este algoritmo.  
 	  
 	Comparto con ustedes mi código (en JS):
@@ -34159,24 +32289,20 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-	* **luisglopez7777** (2)
+	* **luisglopez7777** [852702] (2)
 
-		
 		no funciona men, te los ordena pero en 2 partes separadas… estoy buscando como solucionarlo
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [852702] (1)
 
-		
 		No entiendo a qué te refieres con que los ordena en dos partes separadas…¿?
 
-	* **luisglopez7777** (2)
+	* **luisglopez7777** [852702] (2)
 
-		
 		Por que te retorna 0, 2, 3, 23, 1, 7, 8, 50… Si te fijas ordeno dos mitades, el resultado correcto debería retornar 0, 1, 2, 3, 7, 8, 23, 50
 
-	* **Jesús Adrián Arroyo Ceja** (2)
+	* **Jesús Adrián Arroyo Ceja** [852702] (2)
 
-		
 		El problema con este algoritmo está en la función merge, lo que debería de hacer dentro del “if” es hacer un solo push del elemento menor de las dos mitades comparadas (de la mitad izquierda, el hace de ambas mitades) y quitárselo al arreglo, el else lo hace de la mitad derecha, por último debería debería llenar el arreglo ordenado con los sobrantes, algo así:
 		``` 
 		    while(leftArray.length && rightArray.length) {
@@ -34198,16 +32324,14 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 		    
 		```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1082692](https://platzi.com/comentario/1082692/) 
 
-	
 	el codigo es complejo de entender me parece mas facil en pyhton
 	
 	![merge.PNG](https://static.platzi.com/media/user_upload/merge-ec7b94b0-5622-4437-b16f-1be516a7094c.jpg)
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1067763](https://platzi.com/comentario/1067763/) 
 
-	
 	A pesar de que me quedaron ciertas dudas, este código es mucho mejor para aprender la función:
 	``` 
 	    #include <stdio.h>
@@ -34307,9 +32431,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1059686](https://platzi.com/comentario/1059686/) 
 
-	
 	Una pregunta este código me tira error de que la recursión no para. Alguien me ayuda?
 	``` 
 	    #include <stdio.h>
@@ -34379,12 +32502,11 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Ignacio Saccomano** (1)
+* **Ignacio Saccomano** (1) [1058839](https://platzi.com/comentario/1058839/) 
 
-	
 	No entiendo el código 😭
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [982813](https://platzi.com/comentario/982813/) 
 
 	```
 	    // Divide:
@@ -34457,9 +32579,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Lucero Mendez** (1)
+* **Lucero Mendez** (1) [964448](https://platzi.com/comentario/964448/) 
 
-	
 	En Js ❤️
 	``` 
 	    <const mergeSort = arr => {
@@ -34507,15 +32628,13 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [900776](https://platzi.com/comentario/900776/) 
 
-	
 	<https://www.youtube.com/watch?v=XaqR3G_NVoo>  
 	<https://platzi.com/tutoriales/1469-algoritmos/4260-merge-sort-en-java/>
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [900772](https://platzi.com/comentario/900772/) 
 
-	
 	Hice el código para entenderlo un poco mejor, es bastante complejo pero no imposible de entender; igualmente comparto el link de mis otros compañeros que me ayudaron a entender.
 	
 	[](https://www.youtube.com/watch?v=XaqR3G_NVoo)  
@@ -34614,9 +32733,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (1)
+* **Steve Anthony Luzquiños Agama** (1) [896334](https://platzi.com/comentario/896334/) 
 
-	
 	Hola, sé que este algoritmo es un poco complicado, así que les dejo una pequeña [explicación](https://www.youtube.com/watch?v=TzeBrDU-JaY), espero que les sea de utilidad. Esta es mi implementación dinámica en C, la cual usa números aleatorios:
 	``` 
 	    #include <stdio.h>
@@ -34734,9 +32852,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Rygel** (1)
+* **Rygel** (1) [887535](https://platzi.com/comentario/887535/) 
 
-	
 	No entiendo el funcionamiento de esto, y traté de realizar el código con un arreglo de 2 posiciones y no tiene sentido, no sé que estoy haciendo mal.
 	``` 
 	    arr1[i]=9999;  // To mark the end of each temporary array
@@ -34744,35 +32861,34 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-	* **Jesús Adrián Arroyo Ceja** (1)
+	* **Jesús Adrián Arroyo Ceja** [887535] (1)
 
-		
 		Lo que hace es ponerle esos valores para saber que ahí terminan los datos a comparar en los arreglos temporales, si observas los pone en las posiciones i y j que están declaradas arriba cuando llena los temporales con las mitades que le correspondían según el cálculo de la mitad.
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [665756](https://platzi.com/comentario/665756/) 
 
 	```
 	    /**
-	     * Mergesort es un algoritmo tipo Divide y Vencerás. Divide el array ingresado en
-	     * dos mitades, se llama a sí mismo para las dos mitades y después une las dos
-	     * mitades ordenadas. La función merge() es usada para unir las dos mitades.
-	     * El merge(arr,l,m,r) es un proceso clave que asume que arr[l..m] y arr[m+1..r]
-	     * están ordenados y une las dos mitades en uno.
+	   * Mergesort es un algoritmo tipo Divide y Vencerás. Divide el array ingresado en
+	   * dos mitades, se llama a sí mismo para las dos mitades y después une las dos
+	   * mitades ordenadas. La función merge() es usada para unir las dos mitades.
+	   * El merge(arr,l,m,r) es un proceso clave que asume que arr[l..m] y arr[m+1..r]
+	   * están ordenados y une las dos mitades en uno.
 	     *
-	     * Pasos a seguir:
+	   * Pasos a seguir:
 	     *
-	     * MergeSort(arr[], l, r)
-	     * if r > 1
+	   * MergeSort(arr[], l, r)
+	   * if r > 1
 	     *
-	     * 1. Encuentra el punto medio para dividir el array en dos mitades:
-	     *              middle m = (1+r) / 2
-	     * 2. Llama a mergeSort para la primera mitad:
-	     *              Llama a mergeSort(arr, l, m)
-	     * 3. Llama a mergeSort para la segunda mitad:
-	     *              Llama a mergeSort(arr, m+1, r)
-	     * 4. Une las dos mitades ordenadas en el paso 2 y 3:
-	     *              Llama a merge(arr, l, m, r)
-	     * */
+	   * 1. Encuentra el punto medio para dividir el array en dos mitades:
+	   *              middle m = (1+r) / 2
+	   * 2. Llama a mergeSort para la primera mitad:
+	   *              Llama a mergeSort(arr, l, m)
+	   * 3. Llama a mergeSort para la segunda mitad:
+	   *              Llama a mergeSort(arr, m+1, r)
+	   * 4. Une las dos mitades ordenadas en el paso 2 y 3:
+	   *              Llama a merge(arr, l, m, r)
+	   * */
 	    public class MergeSort {
 	        public void merge(int arr[], int left, int middle, int right) {
 	            //Encuentra el tamaño de los dos sub-arrays para unirlos.
@@ -34829,8 +32945,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	        }
 	    
 	        /**
-	         * Función principal que ordena el array usando merge.
-	         * */
+	       * Función principal que ordena el array usando merge.
+	       * */
 	        public void sort(int arr[], int left, int right) {
 	            if (left < right) {
 	                //Encontrar el punto medio.
@@ -34847,8 +32963,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	        }
 	    
 	        /**
-	         * Función de utilidad para imprimir el array de tamaño n.
-	         * */
+	       * Función de utilidad para imprimir el array de tamaño n.
+	       * */
 	        public void printArray(int arr[]) {
 	            int n = arr.length;
 	            for (int i=0; i<n; ++i) {
@@ -34860,21 +32976,18 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [649504](https://platzi.com/comentario/649504/) 
 
-	
 	aqui hya una explicacion
 	
 	<https://www.youtube.com/watch?v=55d8cAK9oE0>
 
-* **William Andres Dussan Gonzalez** (1)
+* **William Andres Dussan Gonzalez** (1) [637454](https://platzi.com/comentario/637454/) 
 
-	
 	Me confundi un poco por las variables.
 
-* **gnscarlos** (1)
+* **gnscarlos** (1) [612856](https://platzi.com/comentario/612856/) 
 
-	
 	//Divide : Divide the n-element array into two n/2-element subarrays.  
 	//Conquer : Sort the two subarrays recursively using merge sort  
 	//Combine : Merge the two sorted subsequences to form the sorted array
@@ -34945,7 +33058,7 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	return 0;  
 	}
 
-## 0330. Desafío Buscar el algortimo más rápido de sort
+## 0330. Desafío Buscar el algortimo más rápido de sort [16927](https://platzi.com/clases/1469-algoritmos/16927-desafio-buscar-el-algortimo-mas-rapido-de-sort/)
 
 ### Descripción:
 
@@ -34975,21 +33088,19 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 
 ### Comentarios:
 
-* **Wandy Rafael Santana Evangelista** (7)
+* **Wandy Rafael Santana Evangelista** (7) [672225](https://platzi.com/comentario/672225/) 
 
-	
 	 **Aquí están los datos con coma:**  
 	3, 94, 86, 82, 90, 10, 87, 36, 61, 8, 17, 15, 22, 10, 23, 78, 25, 2, 30, 45, 98, 43, 98, 59, 53, 57, 2, 64, 1, 41,  
 	32, 58, 19, 99, 60, 74, 48, 80, 44, 25, 68, 1, 89, 77, 60, 25, 99, 30, 76, 32, 57, 82, 52, 44, 72, 87, 34, 87, 65, 30, 54, 6, 31,   
 	33, 44, 44, 42, 82, 90, 17, 9, 98, 28, 86, 69, 3, 17, 8, 45, 98, 12, 47, 95, 43, 72, 39, 41, 82, 74, 56, 65, 79, 50, 26, 67,  
 	100, 24, 67, 38, 57
 
-	* **OscarPalomino** (2)
+	* **OscarPalomino** [672225] (2)
 
-		
 		Muchas gracias.
 
-* **Christian Gómez** (2)
+* **Christian Gómez** (2) [901102](https://platzi.com/comentario/901102/) 
 
 	```
 	    #include <stdio.h>
@@ -35091,9 +33202,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Rygel** (2)
+* **Rygel** (2) [887618](https://platzi.com/comentario/887618/) 
 
-	
 	Usé el método de QuickSort en Python3 ya que me parece que es muy fácil de entender ese método:
 	``` 
 	    defordenar(not_ordened_list):
@@ -35155,9 +33265,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Samar Jaffal** (2)
+* **Samar Jaffal** (2) [884892](https://platzi.com/comentario/884892/) 
 
-	
 	Merge Sort (JAVA):
 	``` 
 	    public class MergeSort 
@@ -35259,9 +33368,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Ernesto Jose Gabriel Lopez Bravo** (2)
+* **Ernesto Jose Gabriel Lopez Bravo** (2) [763382](https://platzi.com/comentario/763382/) 
 
-	
 	agregando una decisión en el código:
 	``` 
 	    DATA = [
@@ -35313,9 +33421,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [672227](https://platzi.com/comentario/672227/) 
 
-	
 	**Utilize el Merge Sort por su versatilidad con muchos datos, lo hice en JS:**
 	``` 
 	    function merge(leftArr, rightArr) {
@@ -35354,9 +33461,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **selasorlac** (2)
+* **selasorlac** (2) [562809](https://platzi.com/comentario/562809/) 
 
-	
 	**SELECTION SORT:**
 	``` 
 	    #include <stdio.h>
@@ -35406,28 +33512,24 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	
 	![](https://i.imgur.com/q0OVcyj.png)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [562809] (1)
 
-		
 		Excelente trabajo! Una pregunta, cuál es tu lenguaje favorito?
 
-	* **selasorlac** (1)
+	* **selasorlac** [562809] (1)
 
-		
 		@ricardocelis Hola profe, creo que sería Javascript pero tal vez no sé tanto de él como me gustaría! Java es otro que me gusta también. He estado usando C a lo largo de este curso porque es el primer lenguaje de programación que aprendí y me produce bastante nostalgia y felicidad volver a programar en él!
 
-	* **gnscarlos** (2)
+	* **gnscarlos** [562809] (2)
 
-		
 		No entiendo cuando le colocan los asteriscos a las variables:  
 		void swap(int *n1, int *n2)
 		
 		¿Que significan los asteriscos?
 
-* **dcortesnet** (2)
+* **dcortesnet** (2) [533964](https://platzi.com/comentario/533964/) 
 
-	
-	  * Implementación simple de Bubble en python
+	* Implementación simple de Bubble en python
 	
 	
 	``` 
@@ -35465,21 +33567,18 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [533964] (1)
 
-		
 		Excelente trabajo Dcortes, comó has sentido el curso hasta ahora?
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1082764](https://platzi.com/comentario/1082764/) 
 
-	
 	me esta generando un error alguno sabe porque que me ayude
 	
 	![ejercicio.PNG](https://static.platzi.com/media/user_upload/ejercicio-9504a0c9-b74d-4479-9692-7be54224cbb9.jpg)
 
-* **Johan52752** (1)
+* **Johan52752** (1) [1038232](https://platzi.com/comentario/1038232/) 
 
-	
 	Este es mi codigo, utilize el insertion sort, a mi parecer es el algoritmo mas completo para tanto sets de datos pequeños como set de datos grandes.
 	``` 
 	    #include <stdio.h> 
@@ -35518,9 +33617,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **uncristianr** (1)
+* **uncristianr** (1) [1029995](https://platzi.com/comentario/1029995/) 
 
-	
 	Esta es mi solución en python3, usé una parte del set de datos para realizar la prueba, no lo usé completo.
 	``` 
 	    defquick_sort(lista):
@@ -35563,10 +33661,11 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Angie Garcia** (1)
-![Captura de pantalla de 2020-02-11 12-29-51.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-11%2012-29-51-94df213e-f96c-4c87-ac45-335d1dcac9ab.jpg)
+* **Angie Garcia** (1) [979439](https://platzi.com/comentario/979439/) 
+	
+	![Captura de pantalla de 2020-02-11 12-29-51.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%20de%202020-02-11%2012-29-51-94df213e-f96c-4c87-ac45-335d1dcac9ab.jpg)
 
-* **16angiec** (1)
+* **16angiec** (1) [972751](https://platzi.com/comentario/972751/) 
 
 	```
 	    #include <stdio.h>
@@ -35630,9 +33729,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Miguel Torres** (1)
+* **Miguel Torres** (1) [972209](https://platzi.com/comentario/972209/) 
 
-	
 	Lo hice con QuickSort en C. 😄
 	``` 
 	    /* #necesitamos dividir nuestro dataset
@@ -35739,9 +33837,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Alejo RM** (1)
+* **Alejo RM** (1) [923695](https://platzi.com/comentario/923695/) 
 
-	
 	Deja desafio hecho en python, donde se puede medir el tiempo de ejecucion, espero que les sirva!
 	``` 
 	    import time
@@ -35793,9 +33890,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	
 	Happy Coding
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [895489](https://platzi.com/comentario/895489/) 
 
-	
 	 **No lo pude hacer con Merge Sort asi que lo hice así:**
 	``` 
 	    #include <stdio.h>
@@ -35845,9 +33941,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **sgomez2113** (1)
+* **sgomez2113** (1) [877175](https://platzi.com/comentario/877175/) 
 
-	
 	Utilice merge sort en python, es muy util usarlo ❤️
 	``` 
 	    DATA = [
@@ -35898,14 +33993,12 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-	* **Rygel** (1)
+	* **Rygel** [877175] (1)
 
-		
 		Creo que no es MergeSort ese método que usaste.
 
-* **camilogt121** (1)
+* **camilogt121** (1) [870790](https://platzi.com/comentario/870790/) 
 
-	
 	yo utilice este fue el que mejor entendi:
 	
 	function quickSort(array) {  
@@ -35949,25 +34042,21 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	65, 79, 50, 26, 67,  
 	100, 24, 67, 38, 57]));
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [852709](https://platzi.com/comentario/852709/) 
 
-	
 	 **Pregunta**  
 	¿Hay alguna página dónde uno mida cuánto se demora el código en ejecutar todas las tareas…precisamente para medir (por ahora con pequeñas cantidades de datos) cuál algoritmo se demora menos?
 
-	* **Juan Camilo Alvarez Jurado** (2)
+	* **Juan Camilo Alvarez Jurado** [852709] (2)
 
-		
 		Puedes usar código para medir el tiempo. En todos los lenguajes hay una forma de obtener el tiempo actual en milisegundos. Lo que haces es capturar el tiempo actual antes de la ejecución y luego de ésta, restas ambos tiempos, y obtienes la medición de tiempo de ejecución
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [852709] (1)
 
-		
 		Gran idea!! Muchas gracias!
 
-* **Juan Manuel Otero Rey** (1)
+* **Juan Manuel Otero Rey** (1) [807257](https://platzi.com/comentario/807257/) 
 
-	
 	Quicksort con python con una función para crear 100 números aleatorios del 0 al 100:
 	``` 
 	    from random import randint
@@ -36005,9 +34094,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Demetrio** (1)
+* **Demetrio** (1) [773960](https://platzi.com/comentario/773960/) 
 
-	
 	Yo usé BubbleSort y array ordenado queda así:
 	``` 
 	    array = [1, 1, 2, 2, 3, 3, 6, 8, 8, 9, 10, 10, 12, 15, 17, 17, 17, 19, 22, 23, 24, 25, 25, 25, 26, 28, 30, 30, 30, 31, 32, 32, 33, 34, 36, 38, 39, 41, 41, 42, 43, 43, 44, 44, 44, 44, 45, 45, 47, 48, 50, 52, 53, 54, 56, 57, 57, 57, 58, 59, 60, 60, 61, 64, 65, 65, 67, 67, 68, 69, 72, 72, 74, 74, 76, 77, 78, 79, 80, 82, 82, 82, 82, 86, 86, 87, 87, 87, 89, 90, 90, 94, 95, 98, 98, 98, 98, 99, 99, 100]
@@ -36015,9 +34103,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **manuelvlza** (1)
+* **manuelvlza** (1) [693732](https://platzi.com/comentario/693732/) 
 
-	
 	Utilizando JAVA con Merge Sort en NetBeans
 	``` 
 	    public class MergeSortDesafioPlatzi {
@@ -36121,12 +34208,12 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Jesús CH** (1)
-![Captura de pantalla 2019-08-16 a las 2.47.01.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-08-16%20a%20las%202.47.01-ca63dec7-1cd2-4a90-9a65-5663ffaacb2d.jpg)
-
-* **akivosimcho** (1)
-
+* **Jesús CH** (1) [690907](https://platzi.com/comentario/690907/) 
 	
+	![Captura de pantalla 2019-08-16 a las 2.47.01.png](https://static.platzi.com/media/user_upload/Captura%20de%20pantalla%202019-08-16%20a%20las%202.47.01-ca63dec7-1cd2-4a90-9a65-5663ffaacb2d.jpg)
+
+* **akivosimcho** (1) [661617](https://platzi.com/comentario/661617/) 
+
 	Intente con este. Y desde una perspectiva me parece que esta bien escrito, pero deja de correr a la mitad.
 	``` 
 	    #include <stdio.h>
@@ -36169,9 +34256,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **jjuanleyva** (1)
+* **jjuanleyva** (1) [639916](https://platzi.com/comentario/639916/) 
 
-	
 	Use  
 	->Bubble Sort que me dio un tiempo de ejecucion real de 0m0.003s y  
 	->Insertion Sort con uun tiempo de ejecucion real de 0m0.002s
@@ -36241,9 +34327,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [594089](https://platzi.com/comentario/594089/) 
 
-	
 	Saludos y buen codeo a todos.  
 	Usé _Insertion Sort_ :
 	``` 
@@ -36288,9 +34373,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	
 	[Aquí](https://repl.it/@GibranPM/Insertion-Sort) pueden verlo funcionando.
 
-* **aargonzalezbe** (1)
+* **aargonzalezbe** (1) [559826](https://platzi.com/comentario/559826/) 
 
-	
 	InsertionSort:
 	``` 
 	    #include <stdio.h> 
@@ -36351,9 +34435,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **Emmanuel Guerra** (1)
+* **Emmanuel Guerra** (1) [557623](https://platzi.com/comentario/557623/) 
 
-	
 	ShakerSort:
 	``` 
 	    //Desafio 2
@@ -36400,9 +34483,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	    
 	```
 
-* **roman-lopez** (1)
+* **roman-lopez** (1) [545057](https://platzi.com/comentario/545057/) 
 
-	
 	Quick Sort 😄
 	``` 
 	    #include <stdio.h>
@@ -36477,16 +34559,15 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	
 	![Screenshot from 2019-03-26 18-35-36.jpg](https://static.platzi.com/media/user_upload/Screenshot%20from%202019-03-26%2018-35-36-63697ec7-18ef-438d-8d91-3e8bcae65a1b.jpg)
 
-* **vmgabriel** (1)
+* **vmgabriel** (1) [536751](https://platzi.com/comentario/536751/) 
 
-	
 	## Implementacion de MergeSort en Elixir
 	
-	  * Toma los datos de un archivo `elements.dat`
-	  * Los pone en un arreglo con los datos ya convertidos
-	  * Envia cada una de las lineas y las ordena de Mayor a Menor
-	  * Uso de recursividad
-	  * Cambios minimos para que se ordene de Menor a Mayor
+	* Toma los datos de un archivo `elements.dat`
+	* Los pone en un arreglo con los datos ya convertidos
+	* Envia cada una de las lineas y las ordena de Mayor a Menor
+	* Uso de recursividad
+	* Cambios minimos para que se ordene de Menor a Mayor
 	
 	
 	``` 
@@ -36564,9 +34645,8 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	![Ejecucion Merge No Ordenado](https://gitlab.com/vmgabriel/img-public/raw/master/carpt/algoritmo_merge.png)  
 	![Ejecucion Merge Ordenado](https://gitlab.com/vmgabriel/img-public/raw/master/carpt/algoritmo_merge_ordenado.png)
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [530337](https://platzi.com/comentario/530337/) 
 
-	
 	Les dejo la implementación del algoritmo **[ShellSort](https://es.wikipedia.org/wiki/Ordenamiento_Shell)** :
 	``` 
 	    #include <stdio.h>
@@ -36632,12 +34712,11 @@ El comando merge(arr, low, mid, high) es un proceso clave que une las partes ord
 	
 	![result.png](https://static.platzi.com/media/user_upload/result-5aaa22a6-09b0-427c-bfa0-3b6bc423c045.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [530337] (1)
 
-		
 		Hola Dane! Excelente implementación
 
-## 0340. Implementando QuickSort con Python
+## 0340. Implementando QuickSort con Python [17021](https://platzi.com/clases/1469-algoritmos/17021-implementando-quicksort-con-python/)
 
 ### Descripción:
 
@@ -36660,87 +34739,72 @@ Para este ejercicio utilizaremos Python por lo mucho que nos ahorra de código, 
 
 ### Comentarios:
 
-* **Oswaldo Javier Yugsi Yugsi** (7)
+* **Oswaldo Javier Yugsi Yugsi** (7) [612591](https://platzi.com/comentario/612591/) 
 
-	
 	Este video debería ser rehecho. Está muy mal explicado.  
 	Cuando el profesor empieza con la función quickSort dice más de una vez que aún no ha implementado las líneas de código que hacen el ordenamiento de las posiciones en el Array, cuando esas líneas están declaradas en la función partición.
 	
 	Se nota mucho que está leyendo el código de a lado y que no viene con las tareas hechas.
 
-	* **Jecsham Castillo** (1)
+	* **Jecsham Castillo** [612591] (1)
 
-		
 		Mira la clase completa.
 
-	* **Oswaldo Javier Yugsi Yugsi** (3)
+	* **Oswaldo Javier Yugsi Yugsi** [612591] (3)
 
-		
 		La he visto. Y mantengo mi comentario.
 
-	* **Francoo** (1)
+	* **Francoo** [612591] (1)
 
-		
 		Coincido. No es el unico, hay varios profesores que son asi.
 
-* **Abner Paul Ccari Lindo** (6)
+* **Abner Paul Ccari Lindo** (6) [819025](https://platzi.com/comentario/819025/) 
 
-	
 	Para lo que aun tengan dudas de como funciona Quicksort, les comparto un video donde lo podran ver visualmente, y a mas detalle. A mi me ayudo muchisimo complementar con este contenido[QuickSort Visualization](https://www.youtube.com/watch?v=eqo2LxRADhU)
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [819025] (1)
 
-		
 		Gracias por el video!! Me hizo entender cómo funciona el algoritmo… Sin embargo la verdad aún no lo entiendo bien en el código.
 
-	* **AnthonySQC** (1)
+	* **AnthonySQC** [819025] (1)
 
-		
 		Muchas gracias por compartir el vídeo, me ayudo bastante a entender como funciona el algoritmo.
 
-	* **Eduardo Zamarron Muñoz** (1)
+	* **Eduardo Zamarron Muñoz** [819025] (1)
 
-		
 		¡Este video es muy bueno! Muchas gracias.
 
-* **franciscovelsa** (6)
+* **franciscovelsa** (6) [802958](https://platzi.com/comentario/802958/) 
 
-	
 	Hasta aca un poco perdido… no veo lo básico del curso
 
-* **David Santiago González Ramos** (5)
+* **David Santiago González Ramos** (5) [852903](https://platzi.com/comentario/852903/) 
 
-	
 	La verdad, muy difícil de entender la clase y por ende cómo implementar el algoritmo
 
-* **Juan David Castro (Platzi)** (5)
+* **Juan David Castro (Platzi)** (5) [522524](https://platzi.com/comentario/522524/) 
 
-	
 	 **Algoritmo de _QuickSort_ en _JavaSript_** 😎: [Implementing Quicksort in JavaScript - Medium](https://medium.com/@Charles_Stover/implementing-quicksort-in-javascript-8044a8e2bf39)
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [522524] (1)
 
-		
 		Me has salvado, estoy agradecido. Porque con la clase quede re perdido.
 
-* **Juan David Castro (Platzi)** (4)
+* **Juan David Castro (Platzi)** (4) [522526](https://platzi.com/comentario/522526/) 
 
-	
-	  * 🐍 [Ciclo o Bucle `for in` en Python](http://www.pythondiario.com/2013/06/ciclo-o-bucle-for-in-en-python.html)
+	* 🐍 [Ciclo o Bucle `for in` en Python](http://www.pythondiario.com/2013/06/ciclo-o-bucle-for-in-en-python.html)
 	
 	
 
-* **Johan52752** (3)
+* **Johan52752** (3) [1038330](https://platzi.com/comentario/1038330/) 
 
-	
 	Sinceramente me parece que el video necesita mas explicacion y un ejemplo grafico de como funciona paso por paso el codigo, de igual forma les dejo aqui un video que les ayudara a entender mas el algoritmo <https://www.youtube.com/watch?v=PgBzjlCcFvc>
 
-* **Omar Alejandro Barbosa Olivares** (3)
+* **Omar Alejandro Barbosa Olivares** (3) [982506](https://platzi.com/comentario/982506/) 
 
-	
 	Lo peor de esto, es que ni el profesor se toma el tiempo de venir a revisar los comentarios…
 
-* **Rygel** (3)
+* **Rygel** (3) [887649](https://platzi.com/comentario/887649/) 
 
 	```
 	    defordenar(not_ordened_list):
@@ -36802,40 +34866,33 @@ Para este ejercicio utilizaremos Python por lo mucho que nos ahorra de código, 
 	    
 	```
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [887649] (1)
 
-		
 		Que buen codigo, felicidades! me gustó mucho
 
-* **fernandogualan** (3)
+* **fernandogualan** (3) [775430](https://platzi.com/comentario/775430/) 
 
-	
 	explicación muy pobre en esta clase, siendo un tema importante en este curso
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [978414](https://platzi.com/comentario/978414/) 
 
-	
 	Primera parte, pero vamos con ánimo y persistir, nunca desistir.  
 	![QuickSort1.png](https://static.platzi.com/media/user_upload/QuickSort1-577d76c6-be1f-4c07-ae30-2772c061daeb.jpg)
 
-	* **Nicolas David Pastran Zamora** (1)
+	* **Nicolas David Pastran Zamora** [978414] (1)
 
-		
 		Creo que tienes un error en los taps
 
-	* **Adriana del Pilar Martinez Bautista** (1)
+	* **Adriana del Pilar Martinez Bautista** [978414] (1)
 
-		
 		¿Dónde compañerito?
 
-	* **Adriana del Pilar Martinez Bautista** (1)
+	* **Adriana del Pilar Martinez Bautista** [978414] (1)
 
-		
 		Tienes toda la razón compañero, en la línea 13 para abajo están corridos, muchas gracias, la verdad no lo había notado, Graciasssss ♥.
 
-* **Juan Manuel Otero Rey** (2)
+* **Juan Manuel Otero Rey** (2) [807299](https://platzi.com/comentario/807299/) 
 
-	
 	Tengo otra solución y al ver los comentarios decidí documentarla mejor para ver si arroja algo de luz sobre este algoritmo:
 	``` 
 	    #importamos la libreria random que vamos a utilizar mas adelante
@@ -36868,7 +34925,7 @@ Para este ejercicio utilizaremos Python por lo mucho que nos ahorra de código, 
 	    
 	```
 
-* **luis.villalta** (2)
+* **luis.villalta** (2) [620775](https://platzi.com/comentario/620775/) 
 
 	```
 	    
@@ -36893,45 +34950,39 @@ Para este ejercicio utilizaremos Python por lo mucho que nos ahorra de código, 
 	    
 	```
 
-* **William Andres Dussan Gonzalez** (2)
+* **William Andres Dussan Gonzalez** (2) [62293](https://platzi.com/comentario/637449/) 
 Es normal que yo entienda codigo pero no sepa escribir codigo?
 
-	* **fernandomunoz** (1)
+	* **fernandomunoz** [62293] (1)
 
-		
 		Considero que si, dado que los lenguajes de programación están pensados para poder ser comprendidos al leerlos, implementan un “lenguaje natural” lo más posible.
 		
 		Ahora respecto a escribir código es más cuestión de pensamiento sistemático y lógico. Es muy importante entender como funciona el proceso en la vida real, para poder abstraerlo y crear el código. Si A es válido pasa a B, si el valor de B es “x” pasa a D, porque para C se ocupa un valor “y”.
 		
 		Una buena manera de comenzar es con pseudocódigo, y claro prácticar y prácticar.
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1093352](https://platzi.com/comentario/1093352/) 
 
-	
 	aquí una comparación animada entre quicksort y merguesort  
 	<https://www.youtube.com/watch?v=es2T6KY45cA>
 
-* **ChuyVillalobos** (1)
+* **ChuyVillalobos** (1) [1031221](https://platzi.com/comentario/1031221/) 
 
-	
 	<https://www.youtube.com/watch?v=DYmTpUfcyT8>
 
-* **Eduardo Zamarron Muñoz** (1)
+* **Eduardo Zamarron Muñoz** (1) [1016879](https://platzi.com/comentario/1016879/) 
 
-	
 	Creo que faltó una explicación gráfica del algoritmo QuickSort antes de pasar a la implementación
 
-* **Leisy Karina Algarra Fernandez** (1)
+* **Leisy Karina Algarra Fernandez** (1) [978542](https://platzi.com/comentario/978542/) 
 
-	
 	Algunas cosas cambian pero aun es entendible. he estado perdiendo el miedo.
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [937372](https://platzi.com/comentario/937372/) 
 Está complejo
 
-* **camilogt121** (1)
+* **camilogt121** (1) [870793](https://platzi.com/comentario/870793/) 
 
-	
 	function quickSort(array) {  
 	if (array.length < 1) {  
 	return [];  
@@ -36973,37 +35024,33 @@ Está complejo
 	65, 79, 50, 26, 67,  
 	100, 24, 67, 38, 57]));
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [865309](https://platzi.com/comentario/865309/) 
 
-	
 	Que brujeria es esta, no necesitas una variable auxiliar en Python, herejias jajaja 😛
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [672383](https://platzi.com/comentario/672383/) 
 
-	
 	A darle!!
 
-* **Francoo** (1)
+* **Francoo** (1) [81939](https://platzi.com/comentario/993597/) 
 que es el pivot?
 
-	* **Luis Arturo Lira Cerda** (1)
+	* **Luis Arturo Lira Cerda** [81939] (1)
 
-		
 		El pivote yo lo entiendo como el punto de referencia con el cual serán comparados los datos y según el resultado es la dirección que tomará el dato comparado (si izquierda o derecha).  
 		'  
 		Por ejemplo, si digamos que nuestro pivote es 10, y tenemos que ordenar los números 1, 56, 7, 12, 19.  
 		'  
 		Se comparará si el número es mayor o menor que el pivote (10) y según sea el resultado es si se colocará antes o después que el pivote en el ordenamiento.
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [73162](https://platzi.com/comentario/829724/) 
 entonces este lo lleva hasta que todos sean array de 2 elementos y después los une?
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [73162] (1)
 
-		
 		Así es, muy buena observación, de todas maneras trata de buscar más información en internet y trata de dibujar cómo crees que visualmente se comporta el array, eso me ayudó mucho a entender estos algoritmos que pueden resultar un poco complejos cuando empezamos a estudiarlos 😄
 
-## 0350. Implementando QuicksSort con Python main code
+## 0350. Implementando QuicksSort con Python main code [17023](https://platzi.com/clases/1469-algoritmos/17023-implementando-quickssort-con-python-main-code/)
 
 ### Descripción:
 
@@ -37018,9 +35065,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 
 ### Comentarios:
 
-* **monicachavez** (7)
+* **monicachavez** (7) [788217](https://platzi.com/comentario/788217/) 
 
-	
 	Lo mejor para poder entender el código es comentarlo linea a linea, como si depuraras, si a alguien se le hizo difícil entenderlo. Se los dejo comentado 😄
 	``` 
 	    #necesitamos dividir nuestro data set
@@ -37053,19 +35099,16 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-	* **Fersanhueza** (1)
+	* **Fersanhueza** [788217] (1)
 
-		
 		gracias!
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [788217] (1)
 
-		
 		Gracias Monica me ahorraste mucho tiempo!
 
-* **Danelia Sanchez Sanchez** (4)
+* **Danelia Sanchez Sanchez** (4) [529628](https://platzi.com/comentario/529628/) 
 
-	
 	Código en C
 	``` 
 	    #include <stdio.h>
@@ -37118,9 +35161,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **efrainjaimes** (3)
+* **efrainjaimes** (3) [787470](https://platzi.com/comentario/787470/) 
 
-	
 	En JavaScript
 	``` 
 	    const quickSort = array => {
@@ -37149,9 +35191,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **miguel-angel-baquero** (3)
+* **miguel-angel-baquero** (3) [593661](https://platzi.com/comentario/593661/) 
 
-	
 	Aquí les comparto mi aporte con Java Script:
 	``` 
 	    function partition(arr, low, high) {
@@ -37190,9 +35231,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **claoherrera** (3)
+* **claoherrera** (3) [550945](https://platzi.com/comentario/550945/) 
 
-	
 	Implementacion de quickSort con C
 	``` 
 	    #include<stdio.h> 
@@ -37261,19 +35301,16 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [550945] (2)
 
-		
 		excelente implementación! un main limpio y todas las funciones aparte, Gran trabajo Clao!
 
-	* **claoherrera** (2)
+	* **claoherrera** [550945] (2)
 
-		
 		Muchas gracias 😄 este es el resultado de estudiar con los mejores profesores, con Platzi he logrado aprender muchas cosas en muy poco tiempo.
 
-* **darth-revan** (2)
+* **darth-revan** (2) [1027599](https://platzi.com/comentario/1027599/) 
 
-	
 	 **QuickSort** con JavasCript 😄
 	``` 
 	    const c = console.log
@@ -37318,9 +35355,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Rygel** (2)
+* **Rygel** (2) [887678](https://platzi.com/comentario/887678/) 
 
-	
 	En Python, QuickSort sin complicarse tanto como el profe:
 	``` 
 	    defordenar(not_ordened_list):
@@ -37382,14 +35418,12 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Luis Eduardo Quiroga Esparza** (2)
+* **Luis Eduardo Quiroga Esparza** (2) [713929](https://platzi.com/comentario/713929/) 
 
-	
 	Por qué en la particion ponemos el pivote como el valor de high “pivot=arr[high]” en vez de poner el numero de en medio?
 
-* **hernan__giraldo** (2)
+* **hernan__giraldo** (2) [636363](https://platzi.com/comentario/636363/) 
 
-	
 	Hola, comparto mi implementación en javascript(typescript):
 	``` 
 	    const partition = (arr: number[], low: number, hi: number) => {
@@ -37426,16 +35460,15 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Emmanuel Guerra** (2)
+* **Emmanuel Guerra** (2) [558538](https://platzi.com/comentario/558538/) 
 
-	
 	Kotlin:
 	``` 
 	    /*
-	    * Necesitamos dividir nuestro dataset
-	    * Necesitamos un punto pivotal
-	    * Recursivamente ordenar cada mitad de mi array
-	    * */
+	  * Necesitamos dividir nuestro dataset
+	  * Necesitamos un punto pivotal
+	  * Recursivamente ordenar cada mitad de mi array
+	  * */
 	    
 	    
 	    funmain(args: Array<String>) {
@@ -37477,9 +35510,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **alfredofrias** (1)
+* **alfredofrias** (1) [1106215](https://platzi.com/comentario/1106215/) 
 
-	
 	Codigo en C#
 	``` 
 	    using System;
@@ -37561,9 +35593,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1083139](https://platzi.com/comentario/1083139/) 
 
-	
 	en c
 	
 	#include <stdio.h>  
@@ -37634,9 +35665,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	
 	}
 
-* **Mateo Gonzales Navarrete** (1)
+* **Mateo Gonzales Navarrete** (1) [1059087](https://platzi.com/comentario/1059087/) 
 
-	
 	La traduccion a C++:
 	``` 
 	    #include <iostream>
@@ -37688,9 +35718,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **uncristianr** (1)
+* **uncristianr** (1) [1030000](https://platzi.com/comentario/1030000/) 
 
-	
 	Esta es una versión en python3 también, con algunas leves modificaciones.
 	``` 
 	    defquick_sort(lista):
@@ -37733,9 +35762,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Jesús Adrián Arroyo Ceja** (1)
+* **Jesús Adrián Arroyo Ceja** (1) [1011344](https://platzi.com/comentario/1011344/) 
 
-	
 	Dejo el algoritmo en JS, trate de hacerlo lo mas simple y óptimo:
 	``` 
 	    functionquickSort(array){
@@ -37766,7 +35794,7 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
+* **Ricardo Andres Rojas Alonso** (1) [993563](https://platzi.com/comentario/993563/) 
 
 	```
 	    var arr = [1998, 1972, 2006, 10, 13, 4, 1018, 505, 896, -45];
@@ -37822,27 +35850,26 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Ricardo Andres Rojas Alonso** (1)
-![Repl.it - SociableSlightBaitware - Google Chrome 18_02_2020 9_26_48 p. m..png](https://static.platzi.com/media/user_upload/Repl.it%20-%20SociableSlightBaitware%20-%20Google%20Chrome%2018_02_2020%209_26_48%20p.%20m.-f5803da5-6604-426e-a34e-bba0428365b4.jpg)
-
-* **Adriana del Pilar Martinez Bautista** (1)
-
+* **Ricardo Andres Rojas Alonso** (1) [993443](https://platzi.com/comentario/993443/) 
 	
+	![Repl.it - SociableSlightBaitware - Google Chrome 18_02_2020 9_26_48 p. m..png](https://static.platzi.com/media/user_upload/Repl.it%20-%20SociableSlightBaitware%20-%20Google%20Chrome%2018_02_2020%209_26_48%20p.%20m.-f5803da5-6604-426e-a34e-bba0428365b4.jpg)
+
+* **Adriana del Pilar Martinez Bautista** (1) [979290](https://platzi.com/comentario/979290/) 
+
 	¿Alguien me puede explicar por que quitar esa coma del final hace que se imprima de manera vertical, pero ponerla hace que imprima de manera horizontal?
 	
 	![Duda.png](https://static.platzi.com/media/user_upload/Duda-e773bf9d-d24d-450d-a625-88ebffc4a163.jpg)
 
-	* **Jose Luis Rivera** (1)
+	* **Jose Luis Rivera** [979290] (1)
 
-		
 		Resulta que al usar “print” para concatenar puedes usar el signo (+), si tus variables son String, pero también puedes separar variables (algo parecido a concatenar) usando la coma(,) espero sea útil este dato.
 
-* **Leisy Karina Algarra Fernandez** (1)
-![grafica.png](https://static.platzi.com/media/user_upload/grafica-0b79bed1-580e-49bc-b8bc-09ebc3ab993a.jpg)
-
-* **Miguel Torres** (1)
-
+* **Leisy Karina Algarra Fernandez** (1) [978593](https://platzi.com/comentario/978593/) 
 	
+	![grafica.png](https://static.platzi.com/media/user_upload/grafica-0b79bed1-580e-49bc-b8bc-09ebc3ab993a.jpg)
+
+* **Miguel Torres** (1) [972140](https://platzi.com/comentario/972140/) 
+
 	Ahora sí, lo logré en C. Dejé en Comentarios las funciones de Python para comparación. 😄
 	``` 
 	    /* #necesitamos dividir nuestro dataset
@@ -37933,14 +35960,12 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Oscar Garcia** (1)
+* **Oscar Garcia** (1) [967446](https://platzi.com/comentario/967446/) 
 
-	
 	Sos un crack Ricardo.
 
-* **Aldo-Salas** (1)
+* **Aldo-Salas** (1) [963759](https://platzi.com/comentario/963759/) 
 
-	
 	 **Quick Sort en C:**
 	``` 
 	    #include<stdio.h>
@@ -37992,18 +36017,16 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [913362](https://platzi.com/comentario/913362/) 
 
-	
 	Si usan Python 3 la impresión la pueden hacer un poco más legible (a mi parecer) sólo poniendo
 	``` 
 	    print(f'{ array[i] }')
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [900452](https://platzi.com/comentario/900452/) 
 
-	
 	**Comparto el desafio en C**
 	``` 
 	    #include <stdio.h>
@@ -38070,9 +36093,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **OscarPalomino** (1)
+* **OscarPalomino** (1) [899744](https://platzi.com/comentario/899744/) 
 
-	
 	En C.
 	``` 
 	    #include<stdio.h>
@@ -38124,9 +36146,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Samar Jaffal** (1)
+* **Samar Jaffal** (1) [885028](https://platzi.com/comentario/885028/) 
 
-	
 	Mi codigo en java:
 	``` 
 	    public class QuickSort{
@@ -38187,19 +36208,18 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [671355](https://platzi.com/comentario/671355/) 
 
-	
 	Mi implementación en Java:
 	``` 
 	    public class Quicksort {
 	    
 	        /**
-	         * Ésta función toma el último elemento como el pivote, coloca
-	         * el elemento pivote en su posición correcta en el array
-	         * ordenado, y coloca los elementos pequeños a la izquierda
-	         * del pivote y los más grandes a la derecha del pivote.
-	         * */
+	       * Ésta función toma el último elemento como el pivote, coloca
+	       * el elemento pivote en su posición correcta en el array
+	       * ordenado, y coloca los elementos pequeños a la izquierda
+	       * del pivote y los más grandes a la derecha del pivote.
+	       * */
 	        public int partition(int arr[], int low, int high) {
 	            int pivot = arr[high]; //Toma la última posición cómo pivote.
 	            int i = (low - 1); //Índice del elemento más pequeño.
@@ -38227,30 +36247,30 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	        }
 	    
 	        /**
-	         * La función principal que implementa quickSort()
-	         * arr[] --> array a ordenar.
-	         * low --> Índice inicial.
-	         * high --> Índice final.
-	         * */
+	       * La función principal que implementa quickSort()
+	       * arr[] --> array a ordenar.
+	       * low --> Índice inicial.
+	       * high --> Índice final.
+	       * */
 	        public void sort(int arr[], int low, int high) {
 	            if (low < high) {
 	                /*
-	                * pi es 'partition index' (índice de partición)
-	                * */
+	              * pi es 'partition index' (índice de partición)
+	              * */
 	                int pi = partition(arr,low,high);
 	    
 	                /*
-	                * Recursivamente ordena los elementos antes de la
-	                * partición y después de la partición.
-	                * */
+	              * Recursivamente ordena los elementos antes de la
+	              * partición y después de la partición.
+	              * */
 	                sort(arr,low,pi-1);
 	                sort(arr,pi+1, high);
 	            }
 	        }
 	    
 	        /**
-	         * Función de utilidad para imprimir el array.
-	         * */
+	       * Función de utilidad para imprimir el array.
+	       * */
 	        public void printArray(int arr[]) {
 	            int n = arr.length;
 	    
@@ -38263,25 +36283,21 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [661724](https://platzi.com/comentario/661724/) 
 
-	
 	No comprendo! lo he escrito idéntico y siempre en el compilador me da errores  
 	![](![error 3.PNG](https://static.platzi.com/media/user_upload/error%203-351da205-1e41-4680-8c56-fbd04cb7013f.jpg)
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [661724] (1)
 
-		
 		revisando!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [661724] (1)
 
-		
 		puedes copiar y pegar el codigo que deje en la seccion de archivos?
 
-	* **Ruben Padilla** (2)
+	* **Ruben Padilla** [661724] (2)
 
-		
 		Hola.  
 		Espero ayudar si aún no has encontrado el error.
 		
@@ -38299,9 +36315,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 		
 		Saludos.
 
-* **diegoagd10** (1)
+* **diegoagd10** (1) [634316](https://platzi.com/comentario/634316/) 
 
-	
 	¡Hola! Les comparto la implementación con C# con ordenamiento asc y desc:  
 	  
 	[Código fuente](https://github.com/diegoagd10/algorithms_problems/tree/master/QuickSort)
@@ -38357,9 +36372,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Byron Bustamante López** (1)
+* **Byron Bustamante López** (1) [624874](https://platzi.com/comentario/624874/) 
 
-	
 	quickSort en js
 	``` 
 	    functionparticion(arr, low, high){
@@ -38397,9 +36411,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **karen-chavez** (1)
+* **karen-chavez** (1) [621689](https://platzi.com/comentario/621689/) 
 
-	
 	Aqui mi codigo en C, no tengo problemas de compilacion pero al ejecutarlo sale el mensaje **“Segmentation fault (core dumped)” ** alguna idea de por qué?
 	``` 
 	    #include <stdio.h>
@@ -38449,7 +36462,7 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **luis.villalta** (1)
+* **luis.villalta** (1) [620789](https://platzi.com/comentario/620789/) 
 
 	```
 	    defparticion(arr, low, high):
@@ -38481,9 +36494,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [611320](https://platzi.com/comentario/611320/) 
 
-	
 	QuickSort.swift
 	``` 
 	    import Foundation
@@ -38519,9 +36531,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **SamDad** (1)
+* **SamDad** (1) [604522](https://platzi.com/comentario/604522/) 
 
-	
 	Dejo mi ejemplo en c#.  
 	Acerca de este lenguaje, acabo de pensar, que algoritmos como el bubble sort se podrian hacer con bucles foreach, los veo mas legibles que los for a la hora de manejar arrays.
 	``` 
@@ -38578,9 +36589,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **SolNaranjo** (1)
+* **SolNaranjo** (1) [604434](https://platzi.com/comentario/604434/) 
 
-	
 	En C:
 	``` 
 	    #include <stdio.h>
@@ -38659,12 +36669,11 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-	* **SolNaranjo** (1)
+	* **SolNaranjo** [604434] (1)
 ![Screenshot_2.png](https://static.platzi.com/media/user_upload/Screenshot_2-7bae46d3-4d58-4319-a5df-186c833d8e54.jpg)
 
-* **manuelpalacio** (1)
+* **manuelpalacio** (1) [600643](https://platzi.com/comentario/600643/) 
 
-	
 	codigo en php, creado por mi mismo
 	``` 
 	    <?php
@@ -38717,9 +36726,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Carlos Alberto Fernandez Fernandez** (1)
+* **Carlos Alberto Fernandez Fernandez** (1) [597547](https://platzi.com/comentario/597547/) 
 
-	
 	RecursionError: maximum recursion depth exceeded in comparison
 	
 	alguien ha encontrado solución a esto? me pasa en un millon para arriba
@@ -38766,9 +36774,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **GibsPM** (1)
+* **GibsPM** (1) [594718](https://platzi.com/comentario/594718/) 
 
-	
 	Made in C:
 	``` 
 	    #include <stdio.h>
@@ -38823,9 +36830,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	
 	[Funcionando](https://repl.it/@GibranPM/Quick-Sort).
 
-* **Jemd** (1)
+* **Jemd** (1) [582148](https://platzi.com/comentario/582148/) 
 
-	
 	Código C++
 	``` 
 	    #include<iostream>
@@ -38877,9 +36883,8 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **selasorlac** (1)
+* **selasorlac** (1) [562989](https://platzi.com/comentario/562989/) 
 
-	
 	Buenas a todos, aquí está el código en C, con unas funciones extra para facilitar el trabajo, cuales son _swap_ para realizar el intercambio entre valores de variables y _print_ para imprimir el array resultante.
 	``` 
 	    #include <stdio.h>
@@ -38939,43 +36944,36 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	    
 	```
 
-* **Estrictik117** (1)
+* **Estrictik117** (1) [557951](https://platzi.com/comentario/557951/) 
 
-	
 	Alguien sabe que debo añadir para que al momento de imprimir el array me aparezca en fila y no en columna para Python 3 ? En el codigo de Ricardo con solo añadir la coma al final del print funciona, pero solo para la version 2.7(el IDE online que se usa corre en 2.7).
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [557951] (2)
 
-		
 		Hola Estrictik117, puedes usar el parámetro **`end`** para ello:
 		``` 
 		    print("%d" % arr[i], end = ', ')
 		    
 		```
 
-	* **Estrictik117** (1)
+	* **Estrictik117** [557951] (1)
 
-		
 		Muchas gracias DaneSanchz, ya lo implemente y funciona 😃
 
-* **Gabriel De Andrade (Platzi)** (1)
+* **Gabriel De Andrade (Platzi)** (1) [542212](https://platzi.com/comentario/542212/) 
 
-	
 	Hola Platzeritos, a ver si me pueden ayudar, lo que me pasa es que logro entender el código por una parte y por otra logro entender el cómo funciona el algoritmo, pero me está costando entenderlos al mismo tiempo, es decir hacer el enlace entre la forma “visual” del algoritmo y su codigo, les agradezco de antemano todas sus sugerencias 😄
 
-	* **Sebastian Veliz Ysla** (2)
+	* **Sebastian Veliz Ysla** [542212] (2)
 
-		
 		escribe el algoritmo en una hoja y sepáralo en en pequeñas partes, luego lo trasladas a código usando condicionales y le aumentas ciclos y funciones, así hasta mejorarlo y tener el código completo:p
 
-	* **Gabriel De Andrade (Platzi)** (1)
+	* **Gabriel De Andrade (Platzi)** [542212] (1)
 
-		
 		Gracias Sebas! Eso fué lo primero que hice, y gracias a eso fue que pude entender el código, sin embargo seguía sin encontrar dicha conexión pero encontré [este video](https://www.youtube.com/watch?v=PgBzjlCcFvc) que me ayudó muchísimo a entender los dos al mismo tiempo. De nuevo, muchas gracias por la ayuda!
 
-* **vmgabriel** (1)
+* **vmgabriel** (1) [536786](https://platzi.com/comentario/536786/) 
 
-	
 	## Implementacion algoritmo QuickSort en Elixir
 	
 	Con elixir aseguro que se esta trabajando con recursividad
@@ -39016,20 +37014,18 @@ Ya tenemos nuestras funciones definidas, en esta clase las llamaremos para proba
 	Al ejecutarlo daría lo siguiente:  
 	![Ejecucion Quick Sort](https://gitlab.com/vmgabriel/quicksort-elixir/raw/master/img/algoritmo_quick.png)
 
-* **Fabio Leonardo Fuentes Melendez** (1)
+* **Fabio Leonardo Fuentes Melendez** (1) [81992](https://platzi.com/comentario/994774/) 
 Este tipo de algoritmo funciona para ordenar de forma alfabética y alfa numérica?
 
-	* **fernandajofili (Platzi)** (1)
+	* **fernandajofili (Platzi)** [81992] (1)
 
-		
 		Si si, apenas tienes que adaptar el codigo (las variables por ejemplo) para recibir cadenas de texto o números.
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [81345](https://platzi.com/comentario/979292/) 
 ¿Alguien me puede explicar por que quitar esa coma del final hace que se imprima de manera vertical, pero ponerla hace que imprima de man...
 
-	* **AnthonySQC** (3)
+	* **AnthonySQC** [81345] (3)
 
-		
 		Buenas Pilar,  
 		en python2 por defecto print imprime la cadena que le pasas y le añade un ‘\n’ como salto de línea, por lo visto cuando añades la coma al final indicas que quieres que se imprima de manera horizontal, osea sin el ‘\n’.  
 		Esto cambia en python3 donde tendrías que poner lo siguiente:
@@ -39043,44 +37039,40 @@ Este tipo de algoritmo funciona para ordenar de forma alfabética y alfa numéri
 		<https://stackoverflow.com/questions/8437964/python-printing-horizontally-rather-than-current-default-printing>  
 		Un saludo 😃.
 
-* **zayrasaavedrauribe** (1)
+* **zayrasaavedrauribe** (1) [79234](https://platzi.com/comentario/936201/) 
 It has been difficult for me to understand this topic, how could I study it further to understand it.
 
-	* **Erik Ochoa (Platzi)** (1)
+	* **Erik Ochoa (Platzi)** [79234] (1)
 
-		
 		I learned about quicksort with [this video](https://www.youtube.com/watch?v=Hoixgm4-P4M) in an easy way.
 
-* **Estrictik117** (1)
+* **Estrictik117** (1) [56864](https://platzi.com/comentario/557951/) 
 Alguien sabe que debo añadir para que al momento de imprimir el array me aparezca en fila y no en columna para Python 3 ? En el codigo de...
 
-	* **Danelia Sanchez Sanchez** (2)
+	* **Danelia Sanchez Sanchez** [56864] (2)
 
-		
 		Hola Estrictik117, puedes usar el parámetro **`end`** para ello:
 		``` 
 		    print("%d" % arr[i], end = ', ')
 		    
 		```
 
-* **Gabriel De Andrade (Platzi)** (1)
+* **Gabriel De Andrade (Platzi)** (1) [55506](https://platzi.com/comentario/542212/) 
 Hola Platzeritos, a ver si me pueden ayudar, lo que me pasa es que logro entender el código por una parte y por otra logro entender el có...
 
-	* **Sebastian Veliz Ysla** (2)
+	* **Sebastian Veliz Ysla** [55506] (2)
 
-		
 		escribe el algoritmo en una hoja y sepáralo en en pequeñas partes, luego lo trasladas a código usando condicionales y le aumentas ciclos y funciones, así hasta mejorarlo y tener el código completo:p
 
-* **oscarprz** (0)
+* **oscarprz** (0) [1054618](https://platzi.com/comentario/1054618/) 
 
-	
 	Código en ruby:
 	
 	![Screen Shot 2020-03-22 at 8.51.28 AM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202020-03-22%20at%208.51.28%20AM-bc17ff2d-54ed-4bd0-8041-c6855b8a48e5.jpg)
 
-# Algoritmos 'Greedy'
+# Algoritmos 'Greedy' [3382]
 
-## 0360. Qué  son los Greedy Algorithm
+## 0360. Qué  son los Greedy Algorithm [17022](https://platzi.com/clases/1469-algoritmos/17022-que-son-los-greedy-algorithms/)
 
 ### Descripción:
 
@@ -39103,22 +37095,20 @@ Estos son algunos ejemplos de problemas que se resolverían con _Greedy Algorith
 
 ### Comentarios:
 
-* **Juan David Castro (Platzi)** (8)
+* **Juan David Castro (Platzi)** (8) [522551](https://platzi.com/comentario/522551/) 
 
-	
 	**Notas de la clase:**
 	
-	  * 👸😏 _Greedy_ significa codicioso
-	  * 🌌 Estos algoritmos buscan la solución más optima en cada paso (y la encuentran)
-	  * 😅🤔 Pero, al final de cuentas, por optimizar a más no poder en cada uno de los pasos podemos saltamos una solución aún más optima al problema total
+	* 👸😏 _Greedy_ significa codicioso
+	* 🌌 Estos algoritmos buscan la solución más optima en cada paso (y la encuentran)
+	* 😅🤔 Pero, al final de cuentas, por optimizar a más no poder en cada uno de los pasos podemos saltamos una solución aún más optima al problema total
 	
 	
 	
 	👏 Me gustan mucho estos algoritmos.
 
-* **Oswaldo Javier Yugsi Yugsi** (7)
+* **Oswaldo Javier Yugsi Yugsi** (7) [618451](https://platzi.com/comentario/618451/) 
 
-	
 	Un clase que deja mucho que desear.  
 	Es la primera vez que veo algortimos Greedy. En esta clase se utilizan muchas librerias propias de C++, y no se explica qué hacen, o qué no hacen. También echo en falta una explicación estructurada del camino lógico que está tomando el código al ejecutarse.  
 	Se dice que se explicará en la siguiente clase, pero no se explica nada.
@@ -39129,55 +37119,47 @@ Estos son algunos ejemplos de problemas que se resolverían con _Greedy Algorith
 	
 	No sé si soy yo, pero conforme voy viendo los cursos veo que Platzi no cuenta con un departamento de Calidad que verifique estos cursos.
 
-	* **gnscarlos** (1)
+	* **gnscarlos** [618451] (1)
 
-		
 		Pues no sabría que opinar, porque yo aprendí a programar algo básico hace como 18 años, y ahora en el curso de programación estructurada aprendí conceptos que no sabia como apuntadores y recursividad, en este vemos esos mismo conceptos más sort y esas cosas pero no sabría si por esto se comienza por lo tanto es muy avanzado lo que comentas y tendría que venir en otro curso o si por el contrario la programación ya es de conocimiento cotidiano por la tanto tienes toda la razón.  
 		Por otro lado no se si halla un curso de solo c, donde expliquen todo.
 
-	* **Cristhian Franco** (1)
+	* **Cristhian Franco** [618451] (1)
 
-		
 		Yo si lo he entendido en su mayoria, pero tambien ya tenia una base de conocimiento antes de tomar el curso, creo que si pueden hacer uno profundisando mas en los conception seria genial.
 
-* **Wandy Rafael Santana Evangelista** (4)
+* **Wandy Rafael Santana Evangelista** (4) [672405](https://platzi.com/comentario/672405/) 
 
-	
 	 **Según estuve investigando** también, el **Greedy Algorithm** puede ser lo mas eficiente que sea, pero esa búsqueda insaciable de la eficiencia en cada único paso, provoca que resulte para algunos casos no tan eficiente, porque la solución requiere una evaluación mas general y no tan especifica (paso a paso) para encontrar una solución **eficiente y óptima**.  
 	**Pero como mencionaba Ricardo** , son perfectos para algunos casos en concretos cómo los videojuegos y la inteligencia artificial.  
 	**Yo opino** que cada algoritmo tiene su aplicación, y es nuestro deber sentarnos analizar y elegir cuál sería la opción mas eficiente que requiera nuestra solución.
 
-* **Meliodas222** (3)
+* **Meliodas222** (3) [893383](https://platzi.com/comentario/893383/) 
 
-	
 	Este ejemplo me recordó al proyecto del curso de programación básica donde hicimos el código para el cajero automático.
 
-	* **OscarPalomino** (2)
+	* **OscarPalomino** [893383] (2)
 
-		
 		Es el mismo proyecto. Con Freddy lo hicimos con Javascript.
 
-	* **Efraín Hernández García** (1)
+	* **Efraín Hernández García** [893383] (1)
 
-		
 		Siento que Freddy lo explico mejor xD!
 
-* **Adriana del Pilar Martinez Bautista** (2)
+* **Adriana del Pilar Martinez Bautista** (2) [979529](https://platzi.com/comentario/979529/) 
 
-	
 	Excelente explicación.
 
-* **Efraín Hernández García** (2)
+* **Efraín Hernández García** (2) [900473](https://platzi.com/comentario/900473/) 
 
-	
 	Estaria cool ver como se aplica a un videojuego
 
-* **Abner Paul Ccari Lindo** (2)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Greedy_algorithm_36_cents.svg/1200px-Greedy_algorithm_36_cents.svg.png)
-
-* **Walter Alvarado** (1)
-
+* **Abner Paul Ccari Lindo** (2) [819067](https://platzi.com/comentario/819067/) 
 	
+	![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Greedy_algorithm_36_cents.svg/1200px-Greedy_algorithm_36_cents.svg.png)
+
+* **Walter Alvarado** (1) [1094923](https://platzi.com/comentario/1094923/) 
+
 	numero x cualquiera para dividirlo en monedas de 20, 10, 5, 1  
 	(siendo n20=numero de monedas de 20)  
 	n20= int (x/20) y esto tiene un residuo que seria  
@@ -39190,61 +37172,51 @@ Estos son algunos ejemplos de problemas que se resolverían con _Greedy Algorith
 	y r =0  
 	y seria el fin del algoritmo
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1083839](https://platzi.com/comentario/1083839/) 
 
-	
 	la explicación es muy buena y con el ejemplo grafico queda mas claro,
 
-* **Cristian Fabian Tovar** (1)
+* **Cristian Fabian Tovar** (1) [970270](https://platzi.com/comentario/970270/) 
 
-	
 	Eso de “más óptima” suena como decir “la más mejor”. Óptimo solo hay uno y el hecho de que una solución sea óptima le quita el calificativo de óptimo a las demás.
 
-	* **Miguel Torres** (1)
+	* **Miguel Torres** [970270] (1)
 
-		
 		No necesariamente, óptimo también significa extremadamente bueno, y sí puede haber mejor que eso. 😃
 
-	* **Cristian Fabian Tovar** (5)
+	* **Cristian Fabian Tovar** [970270] (5)
 
-		
 		No compañero, el concepto de óptimo se usa cuando en un problema se tienen múltiples soluciones (varias maneras de resolverlo), se habla que existe una solución óptima cuando esta consigue el máximo beneficio posible, con el menor gasto de recursos.  
 		A lo que voy es que ya de por sí “optimo” es un superlativo de “bueno” o “mejor”, con solo decir óptimo esta bien. “El más óptimo” es como decir el “el más mejor” que es redundante.(No me las quiero dar de profesor “super O” ni mucho menos, solo quiero aportar con una pequeña corrección ✌)
 
-* **rc_catunta** (1)
+* **rc_catunta** (1) [917189](https://platzi.com/comentario/917189/) 
 
-	
 	Como dijo el profesor en este caso de dar cambio, el algoritmo greedy no siempre funciona. [En este enlace](https://www.geeksforgeeks.org/coin-change-dp-7/) se puede ver la solución general al problema usando programación dinámica.
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [768435](https://platzi.com/comentario/768435/) 
 
-	
 	Puede servir también para verificar cuantos objetos puedes camber en un contenedor, o se me ocurre también para asignar recursos a algún proyecto basado en los conocimientos de los mismos.
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [757666](https://platzi.com/comentario/757666/) 
 
-	
 	Explicación gráfica del _greedy algorithm_ con el proceso de dar cambio.
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [703387](https://platzi.com/comentario/703387/) 
 
-	
 	greedy “codicioso”
 
-* **Danelia Sanchez Sanchez** (1)
+* **Danelia Sanchez Sanchez** (1) [531116](https://platzi.com/comentario/531116/) 
 
-	
 	Características de los algoritmos greedy (voraces)
 
-* **Leisy Karina Algarra Fernandez** (0)
+* **Leisy Karina Algarra Fernandez** (0) [81311](https://platzi.com/comentario/978685/) 
 Pero finalmente devolvió 26 de los 27 dólares. Al finalizar indico 1- 1 = 0 ¿esto es correcto?
 
-	* **Maria_Perez** (1)
+	* **Maria_Perez** [81311] (1)
 
-		
 		Según lo que entendí el profesor supuso que habían dos monedas de 1, así que se pudieron entregar los 27 dólares
 
-## 0370. Ejercicio de programación greedy
+## 0370. Ejercicio de programación greedy [17028](https://platzi.com/clases/1469-algoritmos/17028-ejercicio-de-programacion-greedy/)
 
 ### Descripción:
 
@@ -39266,64 +37238,56 @@ Ahora es momento de implementar el **greedy algorithm** que diseñamos en la cla
 
 ### Comentarios:
 
-* **vmgabriel** (7)
+* **vmgabriel** (7) [536814](https://platzi.com/comentario/536814/) 
 
-	
 	No se si platzi tenga actualmente un curso de ciencias de la computación, en ciencias para la computación se hablan en mas detalle de:
 	
-	  * Cada uno de los métodos de ordenamiento para listas(Por lo menos con mas detalle).
-	  * Temas de Matemáticas Discretas para optimización de algoritmos 
-	    * En el caso de Conjuntos potencia y Teorema de Cantor
-	    * Complejidad algorítmica
-	    * Consumo en Memoria
-	  * Grafos y Arboles 
-	    * Cada uno de los tipos de arboles y su forma de uso
-	    * Teoria de Grafos
-	    * Arboles B
-	    * Arboles B+
-	    * Arboles Binarios Simples
-	    * Arboles AVL
-	    * Arboles Roji-negros
-	  * Operaciones pre-orden y pos-orden para compiladores
+	* Cada uno de los métodos de ordenamiento para listas(Por lo menos con mas detalle).
+	* Temas de Matemáticas Discretas para optimización de algoritmos 
+	  * En el caso de Conjuntos potencia y Teorema de Cantor
+	  * Complejidad algorítmica
+	  * Consumo en Memoria
+	* Grafos y Arboles 
+	  * Cada uno de los tipos de arboles y su forma de uso
+	  * Teoria de Grafos
+	  * Arboles B
+	  * Arboles B+
+	  * Arboles Binarios Simples
+	  * Arboles AVL
+	  * Arboles Roji-negros
+	* Operaciones pre-orden y pos-orden para compiladores
 	
 	
 
-	* **ricardocelis (Platzi)** (7)
+	* **ricardocelis (Platzi)** [536814] (7)
 
-		
 		Todavía no lo tenemos pero la idea es llegar al punto de tener todo ese contenido explicado con la metodología de platzi!
 
-	* **Luis Eduardo Quiroga Esparza** (1)
+	* **Luis Eduardo Quiroga Esparza** [536814] (1)
 
-		
 		De casualidad ya salió algún curso con todo esto?
 
-* **luis martinez** (5)
+* **luis martinez** (5) [968035](https://platzi.com/comentario/968035/) 
 
-	
 	sería bueno hacer los ejemplos con buenas prácticas de nomenclatura de variables y no poner nombres como: “res” o “n” y “N”
 
-	* **Eduardo Zamarron Muñoz** (1)
+	* **Eduardo Zamarron Muñoz** [968035] (1)
 Totalmente de acuerdo, tener variables así hace que uno se pueda perder en el código
 
-* **Gabriel De Andrade (Platzi)** (3)
+* **Gabriel De Andrade (Platzi)** (3) [542266](https://platzi.com/comentario/542266/) 
 
-	
 	En Venezuela 🇻🇪 se le dice vuelto!
 
-* **Azael Ortega** (2)
+* **Azael Ortega** (2) [1033792](https://platzi.com/comentario/1033792/) 
 
-	
 	Como bien dices Celis, en México se le dice “cambio”, en tiempos pasados era casi como “oro”, cuando era el resultado de ir por las tortillas y pasabas por un lugar de maquinitas (Arcades, videojuegos) 😄
 
-* **megadelt** (2)
+* **megadelt** (2) [1001696](https://platzi.com/comentario/1001696/) 
 
-	
 	El Chile al cambio le llamamos vuelto, sería interesante en el ejercicio poder aplicar una ley nueva en mi pais llamada “ley del vuelto”, que sirve para redondear los vueltos ya que las monedas de 1 y 5 casi están fuera de circulación, por su nulo valor.
 
-* **andresflm** (2)
+* **andresflm** (2) [881806](https://platzi.com/comentario/881806/) 
 
-	
 	Lo desarrollé de la siguiente manera en Python:
 	``` 
 	    import random
@@ -39350,34 +37314,31 @@ Totalmente de acuerdo, tener variables así hace que uno se pueda perder en el c
 	    
 	```
 
-* **Wandy Rafael Santana Evangelista** (2)
+* **Wandy Rafael Santana Evangelista** (2) [673265](https://platzi.com/comentario/673265/) 
 
-	
 	Vaya, estoy listo, por cierto, el código es arte.🤩  
 	![Screen Shot 2019-08-01 at 9.44.04 PM.png](https://static.platzi.com/media/user_upload/Screen%20Shot%202019-08-01%20at%209.44.04%20PM-d54b173b-f1a7-47d8-a7d1-d31917001769.jpg)
 
-* **akivosimcho** (2)
+* **akivosimcho** (2) [661798](https://platzi.com/comentario/661798/) 
 
-	
 	En El Salvador se dice “el vuelto” o " el cambio"
 
-* **Christian Gómez** (2)
+* **Christian Gómez** (2) [77280](https://platzi.com/comentario/901524/) 
 No entiendo como en el código, la variable coinSet empieza por el mayor valor osea el 20 para irle restando a N. Este for no lo entiendo:...
 
-* **William Andres Dussan Gonzalez** (2)
+* **William Andres Dussan Gonzalez** (2) [62479](https://platzi.com/comentario/640857/) 
 Aquí entonces el segundo if del greedyChange, es cuando el resultado se pasa del cambio completo que el usuario revise, si estoy en lo co...
 
-* **Adriana del Pilar Martinez Bautista** (1)
-![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-4d7bf9e8-939a-4e17-b423-444d86363e0b.jpg)
-
-* **Oslan Enrique Villalobos  Piña** (1)
-
+* **Adriana del Pilar Martinez Bautista** (1) [992803](https://platzi.com/comentario/992803/) 
 	
+	![Screenshot_1.png](https://static.platzi.com/media/user_upload/Screenshot_1-4d7bf9e8-939a-4e17-b423-444d86363e0b.jpg)
+
+* **Oslan Enrique Villalobos  Piña** (1) [986897](https://platzi.com/comentario/986897/) 
+
 	En mi país es Vuelto, aquí en Colombia donde vivo actualmente es vueltas.
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [902179](https://platzi.com/comentario/902179/) 
 
-	
 	 **Me emociona mucho hacer codigo en las clases:**
 	``` 
 	    #include <iostream>
@@ -39409,85 +37370,74 @@ Aquí entonces el segundo if del greedyChange, es cuando el resultado se pasa de
 	    
 	```
 
-	* **juancamiloruiznieto** (1)
+	* **juancamiloruiznieto** [902179] (1)
 
-		
 		jum
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [830642](https://platzi.com/comentario/830642/) 
 
-	
 	en python el int_max se puede hacer con float(‘inf’)
 
-* **manuelvlza** (1)
+* **manuelvlza** (1) [696481](https://platzi.com/comentario/696481/) 
 
-	
 	En Mexico se dice, “cambio”, o “feria” xd
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [673268](https://platzi.com/comentario/673268/) 
 
-	
 	En **República Dominicana** se dice: _Devuelta._
 
-* **Luis Rodrigo Alvarez Herrera** (1)
+* **Luis Rodrigo Alvarez Herrera** (1) [649500](https://platzi.com/comentario/649500/) 
 
-	
 	aqui hya una explicacion de las librerias limits
 	
 	<https://www.tutorialspoint.com/c_standard_library/limits_h>
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [611339](https://platzi.com/comentario/611339/) 
 
-	
 	Me gustaría ver algoritmos como el de Dijkstra programado, o algo parecido apra encontrar el camino más corto. :9
 
-	* **Danilo Toro** (2)
+	* **Danilo Toro** [611339] (2)
 
-		
 		lo enseñaban en el anterior curso de algoritmos, el que era con C
 
-* **SamDad** (1)
+* **SamDad** (1) [604545](https://platzi.com/comentario/604545/) 
 
-	
 	En españa tanto el cambio, como la vuelta se utiliza.
 
-* **Juan David Castro (Platzi)** (1)
+* **Juan David Castro (Platzi)** (1) [522607](https://platzi.com/comentario/522607/) 
 
-	
 	 _en 🇨🇴 se dice “vueltas”_
 
-* **Johann Enrique Moreno Calixto** (1)
+* **Johann Enrique Moreno Calixto** (1) [83285](https://platzi.com/comentario/1023718/) 
 Hola, ¿Para que sirve la función min?
 
-	* **Diego Alexander Forero Higuera (Platzi)** (1)
+	* **Diego Alexander Forero Higuera (Platzi)** [83285] (1)
 
-		
 		<https://www.cplusplus.com/reference/algorithm/min/> la función min retorna el menor valor de los dos que recibe como parámetro.
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [82509](https://platzi.com/comentario/1006756/) 
 En Nicaragua le decimos “vuelto” 😛
 
-* **alexander garcia castañeda** (1)
+* **alexander garcia castañeda** (1) [73225](https://platzi.com/comentario/830745/) 
 no entiendo como saca el resultado de 4, según yo el res vale vale 0 cuando por fin se logra completar el algoritmo y luego al definir el...
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [63596](https://platzi.com/comentario/661799/) 
 INT_MAX es una palabra reservada de C++? Que hace?
 
-	* **manuelvlza** (1)
+	* **manuelvlza** [63596] (1)
 
-		
 		INT_MAX es una funcion de la libreria LIMITS de c++, lo que hace es regresar el objeto tipo INT de mas valor
 
-## 0380. Ejercio de programación greedy main code
+## 0380. Ejercio de programación greedy main code [17024](https://platzi.com/clases/1469-algoritmos/17024-ejercio-de-programacion-greedy-main-code/)
 
 ### Descripción:
 
 
 Vamos a replicar nuestro ejemplo de hace 2 clases programando **nuestro main** en donde:
 
-  * Tenemos un cambio **N de $27**
-  * Nuestras denominaciones **coinSet son 1,5,10,15 y 20**
-  * Nos regrese **cuántas monedas** dar de cambio
+* Tenemos un cambio **N de $27**
+* Nuestras denominaciones **coinSet son 1,5,10,15 y 20**
+* Nos regrese **cuántas monedas** dar de cambio
 
 
 
@@ -39495,9 +37445,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 
 ### Comentarios:
 
-* **Valakyr** (4)
+* **Valakyr** (4) [862122](https://platzi.com/comentario/862122/) 
 
-	
 	Mi algoritmo greedy en Javascript
 	``` 
 	    functiongreedyCoins(deuda,i,billete,nb){
@@ -39536,25 +37485,21 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **gloria-lopez** (4)
+* **gloria-lopez** (4) [847786](https://platzi.com/comentario/847786/) 
 
-	
 	No comprendí la lógica de este algoritmo.  
 	Alguien tan amable que me lo pueda explicar
 
-	* **Rygel** (1)
+	* **Rygel** [847786] (1)
 
-		
 		Me pasa lo mismo con varios de los vídeos del profesor Ricardo Celis
 
-	* **arlex_ee10** (1)
+	* **arlex_ee10** [847786] (1)
 
-		
 		que parte no entendiste, ya sabes que es una Función recursiva?
 
-* **GibsPM** (4)
+* **GibsPM** (4) [595768](https://platzi.com/comentario/595768/) 
 
-	
 	No recursivo, pero es codicioso.  
 	Made in C++:
 	``` 
@@ -39589,14 +37534,13 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	
 	Ver [funcionamiento](https://repl.it/@GibranPM/Greedy-algorithm).
 
-* **vmgabriel** (4)
+* **vmgabriel** (4) [536990](https://platzi.com/comentario/536990/) 
 
-	
 	## Dar un cambio Exacto Algoritmo Voraz con Elixir
 	
-	  * Se puede ingresar cualquier valor
-	  * Uso de recursividad
-	  * Algoritmo Voraz
+	* Se puede ingresar cualquier valor
+	* Uso de recursividad
+	* Algoritmo Voraz
 	
 	
 	``` 
@@ -39659,16 +37603,14 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	
 	![Ejecución Algoritmo Cambio Exacto](https://gitlab.com/vmgabriel/cambioexacto-elixir/raw/master/img/cambioMonedas_algoritmo.png)
 
-* **Mateo Gonzales Navarrete** (1)
+* **Mateo Gonzales Navarrete** (1) [1059255](https://platzi.com/comentario/1059255/) 
 
-	
 	Creo que el problema esta planteado de manera muy irreal. En la vida real, puede que nos quedemos sin monedas de 5. O, por ejemplo, digamos que queremos entregar $26 y nuestro coinset es [2, 5, 20].  
 	En este caso, entregar 20 y luego 5 nos deja sin solucion; sin embargo, si damos 20, 2, 2, 2, entonces estaria solucionado.  
 	Buen problema para practicar!
 
-	* **Walter Alvarado** (1)
+	* **Walter Alvarado** [1059255] (1)
 
-		
 		wow no me lo había planteado podríamos crear un array que nos diga el numero de monedas disponibles en ese momento  
 		"int M[4]" (donde M[0] son la cantidad de monedas disponibles de 20$, M[1] de 10, M[2] de 5 y M[3] de 1)  
 		y que verifique si tenemos monedas disponibles antes de hacer el calculo (m[2] != 0) si esto es verdad continua normal el algoritmo y le restamos las monedas utilizadas y si no, simplemente nos saltamos el paso de las monedas de 5 y seguimos con las de 1.  
@@ -39676,9 +37618,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 		
 		y el des coinset [2,5,20] pues va a haber casos en los que nunca haya solución como el “21$” pues es difícil trabajar sin que haya moneda de 1$
 
-* **Jesús Adrián Arroyo Ceja** (1)
+* **Jesús Adrián Arroyo Ceja** (1) [1012413](https://platzi.com/comentario/1012413/) 
 
-	
 	Les dejo la implementación del algoritmo en JS devolviendo que monedas se usaron en vez del número, son 3:  
 	1.-Tiene que estar ordenado de Mayor a Menor (si no basta con agregar un sort al coinSet en la primer llamada).  
 	2.- No requiere ordenación pero es más tardado.  
@@ -39744,9 +37685,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **Luis Arturo Lira Cerda** (1)
+* **Luis Arturo Lira Cerda** (1) [913598](https://platzi.com/comentario/913598/) 
 
-	
 	Este es mi código con Python, algo así muy básico para una tiendita
 	``` 
 	    defgreedy_change(res, coins, client_coins):
@@ -39812,9 +37752,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **Steve Anthony Luzquiños Agama** (1)
+* **Steve Anthony Luzquiños Agama** (1) [908996](https://platzi.com/comentario/908996/) 
 
-	
 	Mi solución en C++:
 	``` 
 	    #include<iostream>
@@ -39849,9 +37788,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [902228](https://platzi.com/comentario/902228/) 
 
-	
 	Yo lo hice asi:
 	``` 
 	    #include <iostream>
@@ -39903,9 +37841,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **Iair Poloniecki** (1)
+* **Iair Poloniecki** (1) [825346](https://platzi.com/comentario/825346/) 
 
-	
 	La verdad que para este ejercicio me perdí porque no sé C++. Pero hice esto en JavaScript que no sé si está bien, pero anda:
 	``` 
 	    constresult = [0, 0, 0, 0, 0];
@@ -39924,7 +37861,7 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **alexromo** (1)
+* **alexromo** (1) [811471](https://platzi.com/comentario/811471/) 
 
 	```
 	    COINS = [50, 25, 15, 10, 5, 2, 1]
@@ -39948,9 +37885,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **manuelvlza** (1)
+* **manuelvlza** (1) [698740](https://platzi.com/comentario/698740/) 
 
-	
 	Solucion al problema en **JAVA** , lo que hice para entenderle mejor a la recursividad del problema fue solucionar el problema de manera _ITERATIVA_ con un bucle for y despues hacer otro metodo que lo solucione de manera _RECURSIVA_ ambas formas implementando un algoritmo _GREEDY_
 	``` 
 	    //Este metodo (1) (de manera iterativa) regresa la cantidad de monedas 
@@ -40051,9 +37987,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **kikega** (1)
+* **kikega** (1) [686892](https://platzi.com/comentario/686892/) 
 
-	
 	Esta clase se podría catalogar como algoritmo greedy. El objetivo es dar de un cajero, la cantidad minima de billetes
 	``` 
 	    """Algoritmo Greedy, busca el mínimo de billetas para dar en un cajero"""
@@ -40107,9 +38042,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **hernan__giraldo** (1)
+* **hernan__giraldo** (1) [636535](https://platzi.com/comentario/636535/) 
 
-	
 	Codicioso, no recursivo XD
 	``` 
 	    //set de monedas
@@ -40130,9 +38064,8 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-* **Manuel Alejandro Aguilar Téllez Girón** (1)
+* **Manuel Alejandro Aguilar Téllez Girón** (1) [611466](https://platzi.com/comentario/611466/) 
 
-	
 	Es recursivo, no codicioso xD.  
 	Lo hice yo ❤️
 	``` 
@@ -40214,19 +38147,17 @@ No olvides **optimizar el código** para mostrarnos cómo podrías imprimir las 
 	    
 	```
 
-	* **Jecsham Castillo** (2)
+	* **Jecsham Castillo** [611466] (2)
 
-		
 		Buena
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (0)
+	* **Manuel Alejandro Aguilar Téllez Girón** [611466] (0)
 
-		
 		Gracias 😄
 
-# Grafos y árboles
+# Grafos y árboles [3363]
 
-## 0390. Grafos y sus aplicaciones
+## 0390. Grafos y sus aplicaciones [16922](https://platzi.com/clases/1469-algoritmos/16922-grafos-y-sus-aplicaciones/)
 
 ### Descripción:
 
@@ -40237,17 +38168,17 @@ Los graphos no tienen estructura de cascada como los árboles binarios, pero com
 
 Los graphos son definidos por **G=(V,E)** , donde:
 
-  * **G** = Representación del grapho
-  * **V** = Set de nodos ( **vértices** )
-  * **E** = Enlaces ( **edges** )
+* **G** = Representación del grapho
+* **V** = Set de nodos ( **vértices** )
+* **E** = Enlaces ( **edges** )
 
 
 
 Los graphos son el pilar o los fundamentos que se ocupan en bases de datos modernas como es el caso de la base de datos de:
 
-  * Las relaciones de amistad de Facebook
-  * Las recomendaciones de Amazon
-  * Los seguidores de Twitter
+* Las relaciones de amistad de Facebook
+* Las recomendaciones de Amazon
+* Los seguidores de Twitter
 
 
 
@@ -40257,112 +38188,97 @@ Los graphos son el pilar o los fundamentos que se ocupan en bases de datos moder
 
 ### Comentarios:
 
-* **Pablo Trinidad** (7)
+* **Pablo Trinidad** (7) [533555](https://platzi.com/comentario/533555/) 
 
-	
 	Teoría de grafos es un tema súper bonito en matemáticas que vale mucho la pena estudiar ya que provee una nueva manera de modelar matemáticamente problemas del día a día. Dicho lo anterior, dejo la definición formal de un árbol y un grafo esperando que le despierte la curiosidad a algún estudiante de éste curso:
 	
-	  * Formalmente un grafo G (gráfica o graph) consiste en un conjunto finito no vacío **V** de objetos llamados vértices (nodos) y un conjunto **E** , posiblemente vacío, de subconjuntos de pares de **V** llamado aristas. Por lo tanto un grafo **G** es un par ordenado de conjuntos **V** y **E** que representan a sus vértices y aristas respectivamente y usualmente se escribe como **G=(V,E)**. En algunos casos se incluyen funciones disjuntas que agregan más información sobre las aristas, como menciona Ricardo, como pesos, propiedades o dirección.
+	* Formalmente un grafo G (gráfica o graph) consiste en un conjunto finito no vacío **V** de objetos llamados vértices (nodos) y un conjunto **E** , posiblemente vacío, de subconjuntos de pares de **V** llamado aristas. Por lo tanto un grafo **G** es un par ordenado de conjuntos **V** y **E** que representan a sus vértices y aristas respectivamente y usualmente se escribe como **G=(V,E)**. En algunos casos se incluyen funciones disjuntas que agregan más información sobre las aristas, como menciona Ricardo, como pesos, propiedades o dirección.
 	
-	  * Se dice que una gráfica G es un árbol si es acíclica y conexa. Esto implica propiedades como que toda arista de un árbol es un puente o que dan origen a teoremas como “Para todo par de vértices u, v en V(T), donde T es un árbol, existe un uv-camino en T que es único” y “En todo árbol T, si **n** es el número de vértices (órden), entonces existen **n-1** aristas (tamaño) en T”
+	* Se dice que una gráfica G es un árbol si es acíclica y conexa. Esto implica propiedades como que toda arista de un árbol es un puente o que dan origen a teoremas como “Para todo par de vértices u, v en V(T), donde T es un árbol, existe un uv-camino en T que es único” y “En todo árbol T, si **n** es el número de vértices (órden), entonces existen **n-1** aristas (tamaño) en T”
 	
 	
 	
 	
 	**Links:**
 	
-	  * <https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)>
-	  * [https://en.wikipedia.org/wiki/Connectivity_(graph_theory)](https://en.wikipedia.org/wiki/Connectivity_%28graph_theory%29)
-	  * <https://en.wikipedia.org/wiki/Cycle_(graph_theory)>
+	* <https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)>
+	* [https://en.wikipedia.org/wiki/Connectivity_(graph_theory)](https://en.wikipedia.org/wiki/Connectivity_%28graph_theory%29)
+	* <https://en.wikipedia.org/wiki/Cycle_(graph_theory)>
 	
 	
 	
 	Saludos!
 
-	* **Manuel Alejandro Aguilar Téllez Girón** (0)
+	* **Manuel Alejandro Aguilar Téllez Girón** [533555] (0)
 
-		
 		Muchas gracias profe Pablo 😄
 
-* **Juan David Castro (Platzi)** (7)
+* **Juan David Castro (Platzi)** (7) [522623](https://platzi.com/comentario/522623/) 
 
-	
-	  * 🍀 **Árboles** : Todas las partes nacen y tienen conexión (directa o indirecta) con un mismo tronco papá 👴👵
-	  * 🔁 **Grafos** : Todas las partes pueden salir de donde sea y sin ninguna lógica aparente. La única regla es que todos deben tener al menos una conexión con alguna otra parte 💠💫.
+	* 🍀 **Árboles** : Todas las partes nacen y tienen conexión (directa o indirecta) con un mismo tronco papá 👴👵
+	* 🔁 **Grafos** : Todas las partes pueden salir de donde sea y sin ninguna lógica aparente. La única regla es que todos deben tener al menos una conexión con alguna otra parte 💠💫.
 	
 	
 
-	* **Juan David Castro (Platzi)** (1)
+	* **Juan David Castro (Platzi)** [522623] (1)
 
-		  * [Qué es una red neuronal - Platzi Live](https://youtu.be/Es7HAzFsW1M)
-		  * [Todos podemos aprender Machine learning - Platzi Conf](https://youtu.be/7ClLKBUvmRk)
+		* [Qué es una red neuronal - Platzi Live](https://youtu.be/Es7HAzFsW1M)
+		* [Todos podemos aprender Machine learning - Platzi Conf](https://youtu.be/7ClLKBUvmRk)
 		
 		
 
-* **ChuyVillalobos** (2)
+* **ChuyVillalobos** (2) [1034256](https://platzi.com/comentario/1034256/) 
 
-	
 	Si les interesa este tema, tomen el curso de matematicas discretas, esta muy interesante.
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [979856](https://platzi.com/comentario/979856/) 
 
-	
 	Un grafo en su totalidad es un par ordenado compuesto por vértices (v) y aristas (e); donde en la gran mayoría de los casos los vértices son de cuantificación finita. El número de vértices que componen al grafo, son las que conocemos como orden. Existe también el concepto de grado que se corresponde al número de arcos al que pertenecen de forma externa y en cuanto a las aristas también conseguimos el concepto de bucle que no es más que una arista relacionada de diversas formas con el mismo nodo.
 
-* **Jecsham Castillo** (2)
+* **Jecsham Castillo** (2) [618947](https://platzi.com/comentario/618947/) 
 
-	
 	Se dice uvee!! 🤣 Un saludo, buen curso!
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1074947](https://platzi.com/comentario/1074947/) 
 
-	
 	Me gusta el tema para problemas de transporte…
 
-* **Hanier Steve Morales Pérez** (1)
+* **Hanier Steve Morales Pérez** (1) [1006801](https://platzi.com/comentario/1006801/) 
 
-	
 	Jajajaja estaba tranquilamente escuchando la explicación y tomando una taza de café cuando de repente en el minuto 2:25 aparece la cara de Ricardo jajajajaja me hizo derramarlo xD
 
-* **Mayfra Useche** (1)
+* **Mayfra Useche** (1) [990412](https://platzi.com/comentario/990412/) 
 
-	
 	Excelente expliaciôn!
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [939134](https://platzi.com/comentario/939134/) 
 Árboles para árboles de decisión.
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [908910](https://platzi.com/comentario/908910/) 
 
-	
 	jajaj 😃 lo explicaste muy sencillo y si le entendí y lo bueno que usas ejemplos de casos reales
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [902334](https://platzi.com/comentario/902334/) 
 
-	
 	La verdad si me quede picado con esta clase!
 
-* **jonathan2138** (1)
+* **jonathan2138** (1) [717362](https://platzi.com/comentario/717362/) 
 
-	
 	Gracias Ricardo muy buena explicación
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [673296](https://platzi.com/comentario/673296/) 
 
-	
 	Excelente curso, totalmente recomendado; muy buena sección de Grafos.😎
 
-* **oswaldorueda** (1)
+* **oswaldorueda** (1) [666821](https://platzi.com/comentario/666821/) 
 
-	
 	Muy buena curso
 
-* **miguel-angel-baquero** (1)
+* **miguel-angel-baquero** (1) [593716](https://platzi.com/comentario/593716/) 
 
-	
 	El algoritmo Dijkstra es muy similar al concepto y al funcionamiento del protocolo de enrutamiento OSPF, inclusive tiene en cuenta los costos de cada enlace. Imagino que OSPF se basa originalmente en la idea de este algoritmo.
 
-## 0400. Árboles
+## 0400. Árboles [16923](https://platzi.com/clases/1469-algoritmos/16923-arboles/)
 
 ### Descripción:
 
@@ -40374,30 +38290,29 @@ Los árboles también funcionan como un tipo de datos abstracto que cuenta con s
 
 ![tree.PNG](https://static.platzi.com/media/user_upload/tree-3e090f89-3e28-4e59-a021-3397c2ef99e4.jpg)
 
-  * La raíz (root) de un árbol es el nodo sin nodos padres, un árbol puede tener máximo una raíz, como el nodo A en el ejemplo anterior.
-  * Un enlace o “edge” se refiere al enlace entre un nodo padre a un nodo hijo.
-  * Un nodo sin nodos hijos se conoce nodo “hoja” como los nodos E, J, K, H, I.
-  * Los nodos hijos del mismo padre se conocen como “hermanos” (Siblings) por ejemplo, los nodos B, C, D son nodos hermanos hijos de A.
-  * Por otro lado, los nodos anteriores a un nodo dado en la ruta hacia la raíz se conocen como ancestros, como G, C, y A para el nodo K en nuestra imágen de ejemplo.
-  * El set de todos los nodos a cualquier profundidad dada se conoce como “nivel del árbol” en nuestro ejemplo B, C, D son del mismo nivel (nivel 1) siendo la raíz el nivel 0.
+* La raíz (root) de un árbol es el nodo sin nodos padres, un árbol puede tener máximo una raíz, como el nodo A en el ejemplo anterior.
+* Un enlace o “edge” se refiere al enlace entre un nodo padre a un nodo hijo.
+* Un nodo sin nodos hijos se conoce nodo “hoja” como los nodos E, J, K, H, I.
+* Los nodos hijos del mismo padre se conocen como “hermanos” (Siblings) por ejemplo, los nodos B, C, D son nodos hermanos hijos de A.
+* Por otro lado, los nodos anteriores a un nodo dado en la ruta hacia la raíz se conocen como ancestros, como G, C, y A para el nodo K en nuestra imágen de ejemplo.
+* El set de todos los nodos a cualquier profundidad dada se conoce como “nivel del árbol” en nuestro ejemplo B, C, D son del mismo nivel (nivel 1) siendo la raíz el nivel 0.
 
 ![niveles arboles.PNG](https://static.platzi.com/media/user_upload/niveles%20arboles-0adca728-fd85-4f79-bd2f-2868f2ead420.jpg)
 
-  * La profundidad de un nodo es la longitud del camino desde la raíz hasta el nodo, por ejemplo el nodo G tiene una profundidad de 2, A(1) - C(2) - G.
-  * La altura de un nodo es el largo del camino del ndo al nodo más profundo por ejemplo en nuestra imágen la altura de B es 2, B - F(1) - J(2).
-  * La altura del árbol es la altura máxima entre todos los nodos en un árbol, para un árbol la altura y la profundidad retornará el mismo valor, pero para nodos individuales podemos tener diferentes resultados, en el caso de nuestro árbol de ejemplo la altura y profundidad son de 3.
+* La profundidad de un nodo es la longitud del camino desde la raíz hasta el nodo, por ejemplo el nodo G tiene una profundidad de 2, A(1) - C(2) - G.
+* La altura de un nodo es el largo del camino del ndo al nodo más profundo por ejemplo en nuestra imágen la altura de B es 2, B - F(1) - J(2).
+* La altura del árbol es la altura máxima entre todos los nodos en un árbol, para un árbol la altura y la profundidad retornará el mismo valor, pero para nodos individuales podemos tener diferentes resultados, en el caso de nuestro árbol de ejemplo la altura y profundidad son de 3.
 
 
 
 ### Comentarios:
 
-* **vmgabriel** (9)
+* **vmgabriel** (9) [537010](https://platzi.com/comentario/537010/) 
 
-	
 	También hay que saber que los arboles se puede dividir dependiendo sus reglas y pueden haber arboles que al agregarle un nuevo nodo este se equilibra automáticamente(quiere decir que cada una de las hijas tiene una profundidad similar) como lo son:
 	
-	  * Arbol AVL
-	  * Arbol Roji-Negro
+	* Arbol AVL
+	* Arbol Roji-Negro
 	
 	
 	
@@ -40405,9 +38320,8 @@ Los árboles también funcionan como un tipo de datos abstracto que cuenta con s
 	
 	PD-2: El arbol de la segunda imagen es un arbol binario ya que cada uno de sus nodos tiene como máximo 2 hijas, sin faltar a la regla
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [979915](https://platzi.com/comentario/979915/) 
 
-	
 	Nodos: Se le llama Nodo a cada elemento que contiene un Árbol.
 	
 	Nodo Raíz: Se refiere al primer nodo de un Árbol, Solo un nodo del Árbol puede ser la Raíz.
@@ -40422,88 +38336,73 @@ Los árboles también funcionan como un tipo de datos abstracto que cuenta con s
 	
 	Nodo Rama: Estos son todos aquellos nodos que no son la raíz y que ademas tiene al menos un hijo.
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1094945](https://platzi.com/comentario/1094945/) 
 
-	
 	técnicamente una lista es un árbol y un árbol es un grafo
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1074960](https://platzi.com/comentario/1074960/) 
 
-	
 	Estos temas son cruciales para llega Analitycs, IA, ML…
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [985254](https://platzi.com/comentario/985254/) 
 
-	
 	Me parece super interesante. Sobre todo los grafos, encuentro que tienen un potencial de desarrollo en muchas áreas para aplicar. Estoy emocionado por llegar a IA y poder explorar mucho más…
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [902357](https://platzi.com/comentario/902357/) 
 
-	
 	Tengo el vago recuerdo de haber visto algo asi en redes, pero se ocupa más en bases de datos no?
 
-* **Carlos Santaniello** (1)
+* **Carlos Santaniello** (1) [883658](https://platzi.com/comentario/883658/) 
 
-	
 	Tengo entendido que la red Blockchain de Bitcoin funciona como un árbol Merkle. ¿Qué características en particular tiene ese tipo de árbol?
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [883658] (2)
 
-		
 		En el caso de Blockchain, los nodos que están más debajo deben pasar la información de abajo hacia arriba, es decir desde el nodo n al no A o el root. De manera que si se rompe un enlace o nodo los demás conservan la misma informacion
 
-* **José B. Méndez Padín** (1)
+* **José B. Méndez Padín** (1) [757680](https://platzi.com/comentario/757680/) 
 
-	
 	Buen contenido introductorio a los árboles.
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [707787](https://platzi.com/comentario/707787/) 
 
-	
 	genial
 
-* **Manuel_Herrera** (1)
+* **Manuel_Herrera** (1) [706603](https://platzi.com/comentario/706603/) 
 
-	
 	Muy buena introducción.
 
-* **José Padrón** (1)
+* **José Padrón** (1) [694396](https://platzi.com/comentario/694396/) 
 
-	
 	Excelente material, muy claro toda la explicación.
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [673328](https://platzi.com/comentario/673328/) 
 
-	
 	Me encantó este material, muy claro.💚
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [661995](https://platzi.com/comentario/661995/) 
 
-	
 	Excelente material, muchas gracias!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [661995] (2)
 
-		
 		gracias Wilson!
 
-* **SamDad** (1)
+* **SamDad** (1) [604612](https://platzi.com/comentario/604612/) 
 
-	
 	Muy util para manejar html con codigo de programación entender los arboles.
 
-# ¿Cómo comparar Algoritmos?
+# ¿Cómo comparar Algoritmos? [3362]
 
-## 0410. Cómo comparar algoritmos y ritmo de crecimiento
+## 0410. Cómo comparar algoritmos y ritmo de crecimiento [16919](https://platzi.com/clases/1469-algoritmos/16919-analisis-de-algoritmos-introduccion-a-la-notacion-/)
 
 ### Descripción:
 
 
 ### Comentarios:
 
-* **Gschwind** (9)
+* **Gschwind** (9) [523831](https://platzi.com/comentario/523831/) 
 
-	
 	++Tipos de análisis de ejecución de un programa: ++
 	
 	**Análisis empírico:** (poco recomendado)
@@ -40527,14 +38426,12 @@ Los árboles también funcionan como un tipo de datos abstracto que cuenta con s
 	
 	_**Fuente:** Introduction to Algorithms Ed. The MIT Press. (Capitulo 3 The Growth of Function)_
 
-	* **ricardocelis (Platzi)** (4)
+	* **ricardocelis (Platzi)** [523831] (4)
 
-		
 		Excelente aporte Gschwind
 
-	* **Gschwind** (2)
+	* **Gschwind** [523831] (2)
 
-		
 		Para el que le interesa la definición matemática, pero básicamente es establecer una cota superior (peor caso) al tiempo de ejecución del programa.
 		
 		**Notación Big-Oh: **
@@ -40543,100 +38440,82 @@ Los árboles también funcionan como un tipo de datos abstracto que cuenta con s
 		
 		![Selección_122.png](https://static.platzi.com/media/user_upload/Selecci%C3%B3n_122-5e65a026-b834-45e2-a82e-da130f95b4ca.jpg)
 
-* **Pablo Trinidad** (5)
+* **Pablo Trinidad** (5) [527917](https://platzi.com/comentario/527917/) 
 
-	
 	Me parece genial que hablen acerca de estos temas, son vitales en el conocimiento de cualquier programador. Si quieren leer más a fondo sobre el tema, les comparto este post que escribí acerca de Complejidad Computacional, la disciplina encargada del **análisis de algoritmos** :
 	
 	<https://pablotrinidad.me/edd-2-complejidad-computacional/>
 	
 	Saludos y happy hacking!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [527917] (2)
 
-		
 		es un gran articulo! muchas gracias pablo!!! P.D. ando aprendiendo Django y te tengo un par de dudas!
 
-* **megadelt** (4)
+* **megadelt** (4) [1001755](https://platzi.com/comentario/1001755/) 
 
-	
 	soy yo o creo que este video es de otro curso o de una versión anterior del mismo? habla de cosas que no aplican al curso actual
 
-* **luis-gabriel-cazzullo** (4)
+* **luis-gabriel-cazzullo** (4) [982822](https://platzi.com/comentario/982822/) 
 
-	
 	Estaría genial ver algoritmos enfocados en Javascript. Más allá de que se pueden extrapolar los ejemplos que diste. Genial el curso.
 
-* **charl-barrera** (4)
+* **charl-barrera** (4) [898386](https://platzi.com/comentario/898386/) 
 
-	
 	me da la impresion de que este video, debería ir al principio, nombra clases que ya vimos al principio
 
-* **Joshval97** (4)
+* **Joshval97** (4) [541531](https://platzi.com/comentario/541531/) 
 
-	
 	Me percate de que esta clase forma parte del curso anterior y me puse a revisar. Hay cosas interesantes en el curso del 2017.  
 	Les aconsejo que le den una mirada.  
 	[Curso de Algoritmos con C 2017](https://platzi.com/clases/algoritmos-2017/)
 
-	* **akivosimcho** (1)
+	* **akivosimcho** [541531] (1)
 
-		
 		Gracias por el aporte amigo!
 
-	* **vegadevh** (1)
+	* **vegadevh** [541531] (1)
 
-		
 		Wow, muchas gracias!
 
-* **Hmorales** (3)
+* **Hmorales** (3) [575052](https://platzi.com/comentario/575052/) 
 
-	
 	Les comparto [otra aproximación al tema](https://hipolitomorales.com/algoritmos-para-optimizar-tu-vida-ordenamiento/) por si les ayuda a entenderlo mejor y no dejen de revisar Introducción a los algoritmos de Cormen 😃
 
-* **Gschwind** (3)
+* **Gschwind** (3) [523856](https://platzi.com/comentario/523856/) 
 
-	
 	“ El análisis de eficiencia sera importante mas allá de los avances tecnológicos. ” - David Harel (2012)
 
-* **Luis Angel José Portillo Arévalo** (2)
+* **Luis Angel José Portillo Arévalo** (2) [952724](https://platzi.com/comentario/952724/) 
 
-	
 	Donde estan los materiales de apoyo?
 
-* **Kim Alejandro Mora Trujillo** (2)
+* **Kim Alejandro Mora Trujillo** (2) [823114](https://platzi.com/comentario/823114/) 
 
-	
 	saben cuando suben el curso de algoritmos avanzado?
 
-* **jonathan2138** (2)
+* **jonathan2138** (2) [717403](https://platzi.com/comentario/717403/) 
 
-	
 	Pienso que este tema debería ser mas profundo, constantemente como desarrolladores nos están preguntando por esto y es de vital importancia
 
-* **Nonintula34** (1)
+* **Nonintula34** (1) [979741](https://platzi.com/comentario/979741/) 
 
-	
 	vea ppues , cosas que una piensa que nada qeu ver …
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [902393](https://platzi.com/comentario/902393/) 
 
-	
 	Me surgio la duda… Escribir más lineas de codigo aumenta la cantidad de procesos y uso de recursos del ordenador? o eso no influye tanto?
 
-	* **arlex_ee10** (2)
+	* **arlex_ee10** [902393] (2)
 
-		
 		dependiendo, si colocas un código que ayude a minimizar las repeticiones que realice el algoritmo para poder llegar al resultado final.
 
-	* **Nicolas Restrepo** (1)
+	* **Nicolas Restrepo** [902393] (1)
 
-		
 		No, la cantidad de lineas no influye, lo que influye son los pasos que uses. Por ejemplo un loop se tarda muhco, un loop dentro de otro loop mucho más. Para que entiendas muy bien esto te recomiendo el curso de algoritmos con python
 
-	* **Walter Alvarado** (1)
+	* **Walter Alvarado** [902393] (1)
 
-		
 		la cantidad de lineas no influye lo que influye es la cantidad de iteraciones .
 		
 		por ejemplo el bubble sort tiene una complejidad de O(n^2) mientras que en el Qicksort es de O(n*log(n))  
@@ -40647,48 +38526,40 @@ Los árboles también funcionan como un tipo de datos abstracto que cuenta con s
 		burble = 1000000  
 		Quicksort = 3000
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [902295](https://platzi.com/comentario/902295/) 
 
-	
 	Para tener referencias de la magnitud de datos del problema a resolver con la del algoritmo. Se puede utilizar la tabla de ratio de algoritmos.
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [902294](https://platzi.com/comentario/902294/) 
 
-	
 	El tiempo de ejecución y cantidad de lineas de código del algoritmo seleccionado. No son buenas métricas para escoger un algoritmo eficiente. La métrica correcta sería comparar los algoritmos dependiendo de la envergadura de entradas de datos.
 
-* **Christian Gómez** (1)
+* **Christian Gómez** (1) [902293](https://platzi.com/comentario/902293/) 
 
-	
 	El tiempo de ejecución y cantidad de lineas de código del algoritmo seleccionado. No son buenas métricas para escoger un algoritmo eficiente. La métrica correcta sería comparar los algoritmos dependiendo de la envergadura de entradas de datos.
 
-* **Jaziel David Flores Rodríguez** (1)
+* **Jaziel David Flores Rodríguez** (1) [878662](https://platzi.com/comentario/878662/) 
 
-	
 	El Ratio de crecimiento es igual que la complejidad?
 
-	* **rc_catunta** (1)
+	* **rc_catunta** [878662] (1)
 
-		
 		Al parecer el lo toma como igual, y en sentido práctico si lo es pues vemos el orden de crecimiento de un algoritmo (e.g. Polinomial, exponencial, logarítmico). Sin embargo tambien recuerda que teoricamente la complejidad puede ser medida segun distintas metricas y notaciones.
 
-* **Luis Fernando Zarazua Aguilar** (1)
+* **Luis Fernando Zarazua Aguilar** (1) [838308](https://platzi.com/comentario/838308/) 
 Me parece genial que seas ingeniero mecatrónico en México, yo también soy ingeniero en mecatrónica y me siento muy identificado con la descripción que diste al inico, por cierto ¿qué es un mecatrónico sin saber microcontroladores? Saludos
 
-* **Demetrio** (1)
+* **Demetrio** (1) [774143](https://platzi.com/comentario/774143/) 
 
-	
 	El escalamiento de un cálculo es el dolor de cabeza de todo computer science.
 
-* **Ernesto Jose Gabriel Lopez Bravo** (1)
+* **Ernesto Jose Gabriel Lopez Bravo** (1) [768539](https://platzi.com/comentario/768539/) 
 
-	
 	Un poco de información que conseguí sobre evaluación de algoritmos:  
 	<http://verso.mat.uam.es/~pablo.angulo/doc/laboratorio/b2s2.html>
 
-* **vegadevh** (1)
+* **vegadevh** (1) [738610](https://platzi.com/comentario/738610/) 
 
-	
 	Este tema me parece que es muy interesante y al igual muchos considero que debe profundizar un poco más.
 	
 	Aqui les dejo unos video con los que pueden aprender cómo analizar un algoritmo por el mejor y peor caso para calcular el ratio de crecimiento.
@@ -40696,9 +38567,9 @@ Me parece genial que seas ingeniero mecatrónico en México, yo también soy ing
 	InsertionSort: [https://www.youtube.com/watch?v=ZD9yICbSyBQ](InsertionSort)  
 	MergeSort: [https://www.youtube.com/watch?v=yKVjojlx8f4](MergeSort)
 
-# ¿Qué sigue?
+# ¿Qué sigue? [3383]
 
-## 0420. Cierre del curso y siguientes pasos
+## 0420. Cierre del curso y siguientes pasos [17025](https://platzi.com/clases/1469-algoritmos/17025-cierre-del-curso-y-siguientes-pasos/)
 
 ### Descripción:
 
@@ -40715,333 +38586,271 @@ No olvides darnos todo tu feedback, hacer las preguntas que necesites y resolver
 
 ### Comentarios:
 
-* **EPadronU23** (9)
+* **EPadronU23** (9) [885815](https://platzi.com/comentario/885815/) 
 
-	
 	El examen no solo tiene **múltiples errores** , si no que además exige la memorización de pedazos de código vistos en el curso, que nada ayuda para indicar si el tema se domina o si quiera se conoce… Solo el examen superó la triste calidad de este curso tan fundamental.
 	
 	Aconsejo rehacer este curso y de verdad verificar el contenido del mismo.
 
-	* **Efraín Hernández García** (2)
+	* **Efraín Hernández García** [885815] (2)
 
-		
 		La verdad si, este curso “básico” no lo es tanto. Me tomo mucho entender un par de clases
 
-* **Ivan Castillo de la Torre** (5)
+* **Ivan Castillo de la Torre** (5) [64952](https://platzi.com/comentario/684090/) 
 El siguiente curso de este, como se llama?
 
-* **Luis Nilson Palma Campos** (4)
+* **Luis Nilson Palma Campos** (4) [529821](https://platzi.com/comentario/529821/) 
 
-	
 	Excelente curso me recordo mis primeros ciclos en la universiada y los temas que no entendia en ese entonces ,con este curso pude porfin entenderlos y recordar las bases que todo programador debe de conocer  
 	arigato arigatou gozaimasu sensei @celismx
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [529821] (1)
 
-		
 		Excelente! No te olvides que aún te queda un reto que es el exámen y espero ver tu review de 5 estrellas y obvio nos vemos en el siguiente curso Palmex! un honor que te haya gustado
 
-	* **ChristopherChi** (2)
+	* **ChristopherChi** [529821] (2)
 
-		
 		Esto me ayudo al igual que ati a refrescar y entender muchos conocimientos, muy bueno el curso.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [529821] (1)
 
-		
 		Gracias gracias Christopher!
 
-* **David Behar** (3)
+* **David Behar** (3) [523993](https://platzi.com/comentario/523993/) 
 
-	
 	Me encantó el curso, recordé cuando me enseñaron algoritmos en la carrera, la verdad ya se me habían olvidado todos (menos el ordenamiento de burbuja, ja), fue un placer tomar este recorrido con el excelente profe @celismx.
 	
 	Tengo una combinación de emoción y nervios para el siguiente curso, nos vemos a la próxima.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [523993] (2)
 
-		
 		Muchisimas gracias David, nos vemos en el proximo curso!
 
-* **Leisy Karina Algarra Fernandez** (2)
+* **Leisy Karina Algarra Fernandez** (2) [980145](https://platzi.com/comentario/980145/) 
 
-	
 	Aprendí de algoritmos, estructuras de datos. Vi bastantes conceptos nuevos, realmente no fue fácil comprender, tuve que dedicar varias horas para entender la lógica que se requiere para solucionar un problema por medio de código. Gracias por ayudarnos a cambiar el mundo por medio del conocimiento.
 
-* **Davic64** (2)
+* **Davic64** (2) [847378](https://platzi.com/comentario/847378/) 
 
-	
 	El más dificil para mi fue mergeSort 😒 pero entenidendolo, siento que descubri algo nuevo :3
 
-	* **David Santiago González Ramos** (1)
+	* **David Santiago González Ramos** [847378] (1)
 
-		
 		Si a mi tambien, se me complico muchisimo! D:
 
-* **alexander garcia castañeda** (2)
+* **alexander garcia castañeda** (2) [830969](https://platzi.com/comentario/830969/) 
 
-	
 	me gustó mucho el quicksort (todo el curso en general, pero ese en especifico fue mi favorito) me sacó canas unas 3 horas para tratar de entender como salía el resultado y que era lo que estaba pasando pero cuando lo entendí me pareció hermoso.
 
-* **Roger Almengor Gonzalez** (2)
+* **Roger Almengor Gonzalez** (2) [749700](https://platzi.com/comentario/749700/) 
 
-	
 	Me gustó el curso, lo único que siento que saltar de un lenguaje de programación a otro es bastante complicado. Yo solamente sé python y C++, y algo de C, y se me hacía difícil a veces tener que hacer ejercicios en JavaScript. Me gusta más la forma en que se hizo el curso en el 2017, con el lenguaje C.
 
-* **jonathan2138** (2)
+* **jonathan2138** (2) [717407](https://platzi.com/comentario/717407/) 
 
-	
 	Gracias Ricardo, buen material, hay cosas que quedaron muy por el aire(ej, Ratio de crecimiento) pero con seguridad se reforzaran en el próximo curso.
 	
 	saludos
 
-* **louismanson** (2)
+* **louismanson** (2) [682716](https://platzi.com/comentario/682716/) 
 
-	
 	Me gusto el curso, francamente siento que fue un poco superficial, muy bueno para iniciar de 0, pero como mencionas te guardas temas para el próximo curso. Uso de Arboles, grasos, tablas hash, tuplas, listas doblemente ligadas, mas algoritmos, explicación en connotación matemática estaría genial, estoy al pendiente!
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [682716] (2)
 
-		
 		Justo ese es el temario que tengo pensado para el proximo curso! Un saludo Luis!
 
-* **Manuel Alejandro Aguilar Téllez Girón** (2)
+* **Manuel Alejandro Aguilar Téllez Girón** (2) [611516](https://platzi.com/comentario/611516/) 
 
-	
 	En mi universidad usan mucho [esta página UVA](https://uhunt.onlinejudge.org/id/0) para resolver problemas, no son sólo de estructuras de datos. Hay ejercicios en los que me llevé días, espero puedas disfrutarlos tanto como yo.
 
-* **sgermosen** (2)
+* **sgermosen** (2) [596473](https://platzi.com/comentario/596473/) 
 
-	
 	besitos besitos chao chao
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [596473] (1)
 
-		
 		jajaja chao!
 
-* **miguel-angel-baquero** (2)
+* **miguel-angel-baquero** (2) [593740](https://platzi.com/comentario/593740/) 
 
-	
 	Excelente curso, espero con ansias el siguiente nivel de algoritmos.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [593740] (1)
 
-		
 		Gracias miguel, lo haremos!
 
-* **Marco Dalis** (2)
+* **Marco Dalis** (2) [567455](https://platzi.com/comentario/567455/) 
 
-	
 	Bien!!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [567455] (1)
 
-		
 		GRacias Espectrosx!!
 
-* **claoherrera** (2)
+* **claoherrera** (2) [560026](https://platzi.com/comentario/560026/) 
 
-	
 	Excelente curso, el amor y la pasion que le pone el profesor Ricardo se transmite en cada clase.
 
-	* **ricardocelis (Platzi)** (2)
+	* **ricardocelis (Platzi)** [560026] (2)
 
-		
 		Muchas gracias Clao! Qué bueno que te gustó el curso, nos vemos en el próximo!
 
-* **Nagcely Mendoza** (2)
+* **Nagcely Mendoza** (2) [531313](https://platzi.com/comentario/531313/) 
 
-	
 	Gracias Prof. Celis, excelente curso representa un update de mis estudios en la universidad. En espera del siguiente curso.
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [531313] (1)
 
-		
 		Hola Nagcely! Qué bueno que te haya gustado el curso! Espero ver tu revise de 5 estrellas y que compartas el diploma!
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [531313] (1)
 
-		
 		Nos vemos en el siguiente!!!
 
-* **Walter Alvarado** (1)
+* **Walter Alvarado** (1) [1094953](https://platzi.com/comentario/1094953/) 
 
-	
 	un curso bastante básico pero bueno para empezar
 
-* **Mauricio Alejandro leal** (1)
+* **Mauricio Alejandro leal** (1) [1090341](https://platzi.com/comentario/1090341/) 
 
-	
 	Gracias ricardo no fue un tema facil pero las clases excelentes me ayudaron demasiado
 
-* **keila martinez** (1)
+* **keila martinez** (1) [1087476](https://platzi.com/comentario/1087476/) 
 
-	
 	gracias Ricardo muy buen curso, se nota que eres un duro en programación, sabes arto. Gracias por transmitir tus conocimientos con tanto entusiasmo porque eso lleva al estudiante a querer aprender mas.  
 	y la verdad es un reto muy fuerte porque quiero dejar el paradigma que tuve en la universidad “las mujeres no son buenas para desarrollar”. Quiero demostrarme a mi misma que si puedo
 
-* **Henry Gutierrez Mora** (1)
+* **Henry Gutierrez Mora** (1) [1074979](https://platzi.com/comentario/1074979/) 
 
-	
 	Gracias Ricardo, Muy pilo… sabes un montón… pero no me ha gustado la metodología…
 
-* **SteffiG** (1)
+* **SteffiG** (1) [1045766](https://platzi.com/comentario/1045766/) 
 
-	
 	Excelente el curso, me gusto mucho la parte de recursividad y grafos
 
-* **megadelt** (1)
+* **megadelt** (1) [1002115](https://platzi.com/comentario/1002115/) 
 
-	
 	Fue bastante bien explicado, aún para los que no conocemos lenguajes de programación, quizá en la ruta de aprendizaje esté curso pudo estar después de los cursos de lenguajes.
 
-* **CesarABN** (1)
+* **CesarABN** (1) [1001336](https://platzi.com/comentario/1001336/) 
 
-	
 	Ricardo, gracias por las clases, es muy complicado tratar de dar clases sobre desarrollo de algoritmos, ya que todo ser humano tiene una lógica diferente, como sugerencia o comentario, existe un libro o material donde te guían a desarrollar algoritmos , no me acuerdo el nombre en este momento pero seria bueno poder tenerlo.
 
-* **Angie Garcia** (1)
+* **Angie Garcia** (1) [994620](https://platzi.com/comentario/994620/) 
 Muchas gracias, aunque nunca he visto sobre c , creo que algo quedó, gracias por cada uno de los videos y
 
-* **Adriana del Pilar Martinez Bautista** (1)
+* **Adriana del Pilar Martinez Bautista** (1) [993434](https://platzi.com/comentario/993434/) 
 
-	
 	Un reto bastante fuerte, pero valió la pena, fue necesario requerir de fuentes adicionales para entender bastantes temas.
 
-* **henrycaicedov** (1)
+* **henrycaicedov** (1) [985273](https://platzi.com/comentario/985273/) 
 
-	
 	Fue un reto…pero satisfactorio. El Éxito en mi caso, fue profundizar y buscar fuentes adicionales y seguir buscando hasta entender. Por ahora se me Dificulta exponer estos conocimientos en código, pero seguimos practicando.
 
-* **Mayo Prieto** (1)
+* **Mayo Prieto** (1) [978515](https://platzi.com/comentario/978515/) 
 
-	
 	Muchos temas para mí no fueron básicos, cada tema visto tuvo bastante complejidad, y me esmere para entender. gracias al instructor, mucha información nueva.
 
-* **Oscar Garcia** (1)
+* **Oscar Garcia** (1) [967619](https://platzi.com/comentario/967619/) 
 
-	
 	Las estructuras de datos siempre me han gustado, son dificiles de entender, pero cuando las comprendes la satisfaccion que se siente es lo mejor!
 
-* **Oscar Garcia** (1)
+* **Oscar Garcia** (1) [967617](https://platzi.com/comentario/967617/) 
 
-	
 	Con este curso me dieron ganas de aprender python !!
 
-* **BotDrako** (1)
+* **BotDrako** (1) [966452](https://platzi.com/comentario/966452/) 
 
-	
 	Gracias por el curso, , se aprendió mucho, pero también se sufrió, y eso que es el básico, pero muy chevere toda la lógica que se debe de desarrollar para solucionar algo, gracias
 
-* **Juan Camilo García Mesa** (1)
+* **Juan Camilo García Mesa** (1) [939189](https://platzi.com/comentario/939189/) 
 
-	
 	Gracias por el curso, sin embargo, debo decir que no fue tan fácil ni básico.
 
-* **Efraín Hernández García** (1)
+* **Efraín Hernández García** (1) [902406](https://platzi.com/comentario/902406/) 
 
-	
 	También soy fan de entender todo de los lengiajes de bajo nivel, pero mergeSort me voló la cabeza jajaja!
 
-* **Cristhian Franco** (1)
+* **Cristhian Franco** (1) [866628](https://platzi.com/comentario/866628/) 
 
-	
 	Buenisimo el curso Celis, el merge sort me volo la cabeza, tuve que leer bastante y correrlo en debugger para poder entenderlo paso a paso, tambien me costo entender un poco el greedy pero fue porque no he aprendido C aun 😛
 
-* **David Santiago González Ramos** (1)
+* **David Santiago González Ramos** (1) [852946](https://platzi.com/comentario/852946/) 
 
-	
 	Los algoritmos de ordenamiento me fueron difíciles de entender pero no tanto como el mergeSort, ese si me dió duro. Sin embargo siento que aprendí un montón y que fortalezco mis bases lógicas para seguir en la ruta del mundo de la programación. Sin dominar el tema, me atrevo a decir que (como en cualquier otra área) dominar y ser experto en estos temas, depende de implementarlos en nuestro día a día
 
-	* **Cristhian Franco** (2)
+	* **Cristhian Franco** [852946] (2)
 
-		
 		Ese mismo fue el que mas me costo entender, tuve que leer un poco de teoria de afuera para lograr entenderlo.
 
-* **Abner Paul Ccari Lindo** (1)
+* **Abner Paul Ccari Lindo** (1) [819321](https://platzi.com/comentario/819321/) 
 
-	
 	Muy buen contenido, gracias Ricardo!
 
-* **luiggi antonio** (1)
+* **luiggi antonio** (1) [818991](https://platzi.com/comentario/818991/) 
 
-	
 	Me gusto mucho, excelente curso. Felicitaciones Ricardo Celis.
 
-* **Félix Andersson** (1)
+* **Félix Andersson** (1) [804448](https://platzi.com/comentario/804448/) 
 
-	
 	Ya sacaron otro curso?
 
-* **Luis Eduardo Quiroga Esparza** (1)
+* **Luis Eduardo Quiroga Esparza** (1) [713967](https://platzi.com/comentario/713967/) 
 
-	
 	Hay fecha para el curso de algoritmos avanzados?
 
-* **Camilo Alexander Velandia Velandia** (1)
+* **Camilo Alexander Velandia Velandia** (1) [709468](https://platzi.com/comentario/709468/) 
 
-	
 	genial muy buen curso, gracias
 
-* **Manuel_Herrera** (1)
+* **Manuel_Herrera** (1) [707057](https://platzi.com/comentario/707057/) 
 
-	
 	Que buen curso introductorio !! Me ayudó mucho para mi materia de algoritmos.
 
-* **Ramiro williams  Alva Garcia** (1)
+* **Ramiro williams  Alva Garcia** (1) [702251](https://platzi.com/comentario/702251/) 
 
-	
 	Tienen fecha para el próximo curso?
 
-	* **ricardocelis (Platzi)** (3)
+	* **ricardocelis (Platzi)** [702251] (3)
 
-		
 		no, pero si te gustaría que fuera pronto manda un tweet a @platzi y comenta que te gustaría ver más! Qué te pareció el curso?
 
-* **VHugoBarnes** (1)
+* **VHugoBarnes** (1) [675455](https://platzi.com/comentario/675455/) 
 
-	
 	Me gustó mucho el curso. Me gustaría que en el curso avanzado se explicaran también los algoritmos de compresión y búsqueda 😄
 
-* **Wandy Rafael Santana Evangelista** (1)
+* **Wandy Rafael Santana Evangelista** (1) [673362](https://platzi.com/comentario/673362/) 
 
-	
 	Lo mejor de lo mejor Ricardo, muchísimas gracias por darnos esta entrega.😁💚
 
-* **akivosimcho** (1)
+* **akivosimcho** (1) [668666](https://platzi.com/comentario/668666/) 
 
-	
 	Está muy bueno el curso, solo que me dejo picado como se dice en El Salvador (es decir ansioso de ir al siguiente) Muchas gracias por tu entrega!
 
-* **Claudio Jesus Vázquez Villanueva** (1)
+* **Claudio Jesus Vázquez Villanueva** (1) [666557](https://platzi.com/comentario/666557/) 
 
-	
 	Que buen curso Ricardo, mucha nostalgia entre todo 😃
 
-* **Carlos Nicolas Gonzalez Cabrera** (1)
+* **Carlos Nicolas Gonzalez Cabrera** (1) [621159](https://platzi.com/comentario/621159/) 
 Muy buen curso me gustó mucho! :)
 
-* **Bernardino Villagra Baez** (1)
+* **Bernardino Villagra Baez** (1) [600156](https://platzi.com/comentario/600156/) 
 
-	
 	Excelente curso Ricardo Celis. Felicidades
 
-	* **ricardocelis (Platzi)** (1)
+	* **ricardocelis (Platzi)** [600156] (1)
 
-		
 		Muchas gracias!
 
-* **arlex_ee10** (1)
+* **arlex_ee10** (1) [77738](https://platzi.com/comentario/908948/) 
 Que curso me tocaría después de este ?
 
-	* **Aldo-Salas** (3)
+	* **Aldo-Salas** [77738] (3)
 
-		
 		Depende de lo que quieras aprender. Te recomiendo que veas todas las rutas en este [link](https://platzi.com/categorias/desarrollo/) y decidas en que especializarte 😉.
 
-* **Sergio** (0)
+* **Sergio** (0) [820810](https://platzi.com/comentario/820810/) 
 
-	
 	Jajaja, cuando dijiste que hace tiempo no entendías muy bien sobre la recursividad sentí un alivio intenso. A mi todavía me cuesta entender un poco sobre la recursividad, pero eso sé que lo entenderé con la práctica y el tiempo. Gran curso.
 
