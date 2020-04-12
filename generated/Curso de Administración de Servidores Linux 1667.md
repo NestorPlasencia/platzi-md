@@ -5,7 +5,9 @@
 ## 0010. Introducción [22904](https://platzi.com/clases/1667-linux/22904-introduccion/)
 
 ### Descripción:
-**¡Te damos la bienvenida al Curso de Administración de Servidores Linux!**
+
+
+ **¡Te damos la bienvenida al Curso de Administración de Servidores Linux!**
 
 Durante el curso estudiaremos instalación y monitoreo de servicios, comandos, scripts, gestión de usuarios y muchas otras herramientas para que nuestros servidores funcionen correctamente. O, en caso de encontrar algún problema, tener las herramientas necesarias para solucionarlo.
 

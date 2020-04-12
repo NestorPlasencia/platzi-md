@@ -5,8 +5,6 @@
 ## 0010. Cómo funcionan las computadoras y los teléfonos móviles [6548](https://platzi.com/clases/1098-ingenieria/6548-como-funcionan-las-computadoras-y-los-telefonos-mo/)
 
 ### Descripción:
-
-
 Aprende cómo es el proceso de enviar un email, todo su recorrido desde tu computadora, servidores y notificaciones hasta que llega al destinatario.
 
 ### Comentarios:
