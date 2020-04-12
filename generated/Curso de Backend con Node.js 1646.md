@@ -7,7 +7,7 @@
 ### Descripción:
 
 
-**Guillermo Rodas** será tu profesor en este curso, él tiene más 6 años dedicado a programar sólo en JavaScript y forma parte del equipo de **Auth0** , además de ser **Google Developer Expert** (GDE) en Web Technologies y organizador de eventos como Medellin CSS y CSS Conf.
+ **Guillermo Rodas** será tu profesor en este curso, él tiene más 6 años dedicado a programar sólo en JavaScript y forma parte del equipo de **Auth0** , además de ser **Google Developer Expert** (GDE) en Web Technologies y organizador de eventos como Medellin CSS y CSS Conf.
 
 Requisitos antes de iniciar:
 

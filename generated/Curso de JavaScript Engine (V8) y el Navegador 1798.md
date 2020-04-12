@@ -231,7 +231,9 @@
 	JavaScript Engine: Es el motor de JS, siempre corre en el navegador.  
 	Su función es interpretar el código JavaScript y convertirlo a Machine Code para que la máquina pueda entenderlo.
 	
-	  * Just in time compiler: Es la compilación en tiempo real que sucede en el proceso del Engine.
+	* Just in time compiler: Es la compilación en tiempo real que sucede en el proceso del Engine.
+	
+	
 
 * **JarlLuis** (2) [1074061](https://platzi.com/comentario/1074061/) 
 
@@ -270,7 +272,8 @@
 
 * **Marcos Facundo Espinosa Maiolino** (1) [1001582](https://platzi.com/comentario/1001582/) 
 
-	```    <Video3-JavaScriptEngine>
+	```
+	    <Video3-JavaScriptEngine>
 	            JavaScript Engine es el motor de JavaScript.
 	            Listas de tareas. ?? tomar curso de fundamentos generales de software
 	            El motor sirve como un compilador intermedio. Interpreta el lenguaje y lo pasa a lenguaje Maquina. En el Just in time Copiler  
@@ -375,8 +378,10 @@
 
 	Cada navegador tiene un motor diferente, pero como V8 es open source otros navegadores están migrando a él.
 	
-	  * V8 ayuda a que JS corra de manera más rápida, con esto podemos crear aplicaciones más robustas y rápidas.  
+	* V8 ayuda a que JS corra de manera más rápida, con esto podemos crear aplicaciones más robustas y rápidas.  
 	-V8 nació para que Google Maps funcione de manera óptima.
+	
+	
 
 * **Manuel Rivera** (1) [1006244](https://platzi.com/comentario/1006244/) 
 
@@ -419,18 +424,22 @@ Brave tiene V8???
 
 * **Iván Darío Sánchez Jiménez** (4) [1047139](https://platzi.com/comentario/1047139/) 
 
-	  * Una vez el motor recibe un archivo JS genera un Global enviroment
-	  * En el Global enviroment se genera un Global object que es igual a window
-	  * También se genera una variable this
-	  * this depende del contexto, en el entorno global this es igual al objeto global
-	  * Ya despues de generado el entorno global, comienza a correr nuestro código en el contexto de ejecucion, a través de un stack de tareas apiladas
-	  * Una vez que el motor comienza a interactuar con el navegador, genera un parseo del documento completo, para encontrar las keywords y las pasa al AST (abstract syntax tree)
+	* Una vez el motor recibe un archivo JS genera un Global enviroment
+	* En el Global enviroment se genera un Global object que es igual a window
+	* También se genera una variable this
+	* this depende del contexto, en el entorno global this es igual al objeto global
+	* Ya despues de generado el entorno global, comienza a correr nuestro código en el contexto de ejecucion, a través de un stack de tareas apiladas
+	* Una vez que el motor comienza a interactuar con el navegador, genera un parseo del documento completo, para encontrar las keywords y las pasa al AST (abstract syntax tree)
+	
+	
 	
 	[AST Explorer](https://astexplorer.net/)
 	
-	  * Una vez se tiene el AST, el motor lo pasa al interpreter para retornar bytecode puede ser entendido por la máquina
-	  * Si en la interpretación del AST ve mucho código que se repite y que se puede optimizar entra el profiler o monitor, y optimiza el codigo y lo regresa compilado como bytecode para que la máquina lo pueda comprender. Es justo en este paso donde aparece el hoisting, donde el motor en su función de optimizacion reinterpreta el código de una mejor forma y se pueden presentar errores de programacón.
-	  * El hoisting solo sucede con variables y funciones que se mandan a llamar.
+	* Una vez se tiene el AST, el motor lo pasa al interpreter para retornar bytecode puede ser entendido por la máquina
+	* Si en la interpretación del AST ve mucho código que se repite y que se puede optimizar entra el profiler o monitor, y optimiza el codigo y lo regresa compilado como bytecode para que la máquina lo pueda comprender. Es justo en este paso donde aparece el hoisting, donde el motor en su función de optimizacion reinterpreta el código de una mejor forma y se pueden presentar errores de programacón.
+	* El hoisting solo sucede con variables y funciones que se mandan a llamar.
+	
+	
 
 * **Miguel Angel Morales Larriega** (3) [935824](https://platzi.com/comentario/935824/) 
 
@@ -537,10 +546,12 @@ Brave tiene V8???
 
 	 **Hoisting**
 	
-	  * Si llamamos una variable antes de ser declarada, el compiler crea la variable en la memory heap y la inicializa como undefined
-	  * En el caso de las funciones es distinto, primero mandamos a llamar a las funciones antes de ejecutarlas.
-	  * El hoisting a veces funciona pero no tenemos control de las variables que se van a cambiar
-	  * Si llamamos a una constante (const) antes de inicializar retorna un error de tipo: Uncaught ReferenceError, que corresponde a variables que son referenciadas pero no pudieron ser capturadas
+	* Si llamamos una variable antes de ser declarada, el compiler crea la variable en la memory heap y la inicializa como undefined
+	* En el caso de las funciones es distinto, primero mandamos a llamar a las funciones antes de ejecutarlas.
+	* El hoisting a veces funciona pero no tenemos control de las variables que se van a cambiar
+	* Si llamamos a una constante (const) antes de inicializar retorna un error de tipo: Uncaught ReferenceError, que corresponde a variables que son referenciadas pero no pudieron ser capturadas
+	
+	
 
 	* **Gabriel De Andrade (Platzi)** [1047203] (4)
 
@@ -563,7 +574,8 @@ Brave tiene V8???
 * **Yadiel Vélez** (3) [934747](https://platzi.com/comentario/934747/) 
 
 	Lo que escribes:
-	```     console.log(nombre);
+	``` 
+	    console.log(nombre);
 	    apellido();
 	    
 	    var nombre = "Diego";
@@ -575,7 +587,8 @@ Brave tiene V8???
 	```
 	
 	Como el motor de JavaScript lo interpreta:
-	```     var nombre = undefined;
+	``` 
+	    var nombre = undefined;
 	    functionapellido(){
 	    	console.log("De Grada");
 	    }
@@ -588,7 +601,8 @@ Brave tiene V8???
 	
 	Si te preguntas cuál pone más arriba, ¿Las variables o las funciones?  
 	La respuesta es las variables. Probemos esto:
-	```     var nombre;
+	``` 
+	    var nombre;
 	    functionnombre(){}
 	    
 	    typeof nombre; // Output: "function"
@@ -596,7 +610,8 @@ Brave tiene V8???
 	```
 	
 	¿Y si ponemos primero la función y luego la variable?
-	```     functionnombre(){}
+	``` 
+	    functionnombre(){}
 	    var nombre;
 	    
 	    typeof nombre; // Output: "function"
@@ -604,7 +619,8 @@ Brave tiene V8???
 	```
 	
 	Pero, si declaras una variable y le asignas un valor en la misma linea el resultado es diferente:
-	```     var nombre = "Platzi";
+	``` 
+	    var nombre = "Platzi";
 	    functionnombre(){}
 	    
 	    typeof nombre; // Output: "string"
@@ -612,18 +628,21 @@ Brave tiene V8???
 	```
 	
 	Esto es porque JavaScript hace hoisting solo de la declaración de la variable. JavaScript trata la declaración y asignación en una sola linea como dos pasos, por lo que si escribimos:
-	```     var nombre = "Platzi";
+	``` 
+	    var nombre = "Platzi";
 	    
 	```
 	
 	El motor lo interpreta así:
-	```     var nombre = undefined;
+	``` 
+	    var nombre = undefined;
 	    nombre = "Plazi";
 	    
 	```
 	
 	Así que cuando escribimos:
-	```     var nombre = "Platzi";
+	``` 
+	    var nombre = "Platzi";
 	    functionnombre(){}
 	    
 	    typeof nombre; // Output: "string"
@@ -631,7 +650,8 @@ Brave tiene V8???
 	```
 	
 	Como lo interpreta el motor de JavaScript es así:
-	```     var nombre = undefined;
+	``` 
+	    var nombre = undefined;
 	    functionnombre(){}
 	    
 	    nombre = "Platzi";
@@ -678,9 +698,11 @@ Brave tiene V8???
 
 	A manera de resumen para evitar el hoisting es necesario:
 	
-	    1. Declarar variables y/o funciones
-	    2. Inicializar variables y/o funciones (en caso de ser arrow functions)
-	    3. Llamar o usar variables y/o funciones
+	  1. Declarar variables y/o funciones
+	  2. Inicializar variables y/o funciones (en caso de ser arrow functions)
+	  3. Llamar o usar variables y/o funciones
+	
+	
 
 * **Danilo Morales** (2) [928556](https://platzi.com/comentario/928556/) 
 
@@ -844,14 +866,18 @@ Por qué razón un desarrollador usaría los “beneficios” del hoisting?
 
 	 **Memory Heap**
 	
-	  * Donde se almacena los valores de las variables y las funciones
-	  * Se destina un espacio en memoria para las variables.
-	  * La información en el memory heap, No se guarda de manera lineal
+	* Donde se almacena los valores de las variables y las funciones
+	* Se destina un espacio en memoria para las variables.
+	* La información en el memory heap, No se guarda de manera lineal
+	
+	
 
 * **Jhon Alexander Romero Gonzaga** (2) [1057490](https://platzi.com/comentario/1057490/) 
 
-	  * Guarda las variables y funciones de manera no lineal en la memoria como si se tratara de una repisa  
+	* Guarda las variables y funciones de manera no lineal en la memoria como si se tratara de una repisa  
 	![DeepinScreenshot_Seleccionar área_20200323110908.png](https://static.platzi.com/media/user_upload/DeepinScreenshot_Seleccionar%20%C3%A1rea_20200323110908-435fffa6-c8d4-4b18-9e3d-3fd27b76f2a8.jpg)
+	
+	
 
 * **SebastianMedinaDonoso** (2) [934292](https://platzi.com/comentario/934292/) 
 
@@ -867,9 +893,12 @@ Por qué razón un desarrollador usaría los “beneficios” del hoisting?
 
 	El motor de Javascript hace mucho trabajo por nosotros. Pero lo más importante es leer nuestro código y ejecutarlo. Las dos cosas importantes principales en este paso son:
 	
-	  * Necesitamos un lugar para almacenar y escribir información: datos para nuestra aplicación (variables, objetos, etc.)
+	* Necesitamos un lugar para almacenar y escribir información: datos para nuestra aplicación (variables, objetos, etc.)
 	
-	  * Necesitamos hacer un seguimiento de lo que sucede con nuestro código línea por línea.
+	* Necesitamos hacer un seguimiento de lo que sucede con nuestro código línea por línea.
+	
+	
+	
 	
 	**By:<https://bit.ly/2UDxera>**
 
@@ -943,7 +972,8 @@ Por qué razón un desarrollador usaría los “beneficios” del hoisting?
 * **Iván Darío Sánchez Jiménez** (3) [1048373](https://platzi.com/comentario/1048373/) 
 
 	Para que copien en sus pruebas
-	```     functionrestarDos(num){
+	``` 
+	    functionrestarDos(num){
 	        return num-2;
 	    }
 	    functioncalcular(){
@@ -962,14 +992,16 @@ Por qué razón un desarrollador usaría los “beneficios” del hoisting?
 
 	**Callstack**
 	
-	  * Como se mandan a llamar las variables y las funciones
-	  * Las tareas en el callstack se apilan de abajo hacia arriba.
-	  * Se llaman de la última que mandamos a llamar hacia abajo
-	  * En la base de la pila reposa el Global Object
-	  * Si una función llama a otra, la pone encima de la pila.
-	  * Se ejecuta una tarea a la vez (sincronía)
-	  * Una vez que se van ejecutando las tareas se van retirando de la pila
-	  * Al ejecutar todas las tareas se retira el Global object.
+	* Como se mandan a llamar las variables y las funciones
+	* Las tareas en el callstack se apilan de abajo hacia arriba.
+	* Se llaman de la última que mandamos a llamar hacia abajo
+	* En la base de la pila reposa el Global Object
+	* Si una función llama a otra, la pone encima de la pila.
+	* Se ejecuta una tarea a la vez (sincronía)
+	* Una vez que se van ejecutando las tareas se van retirando de la pila
+	* Al ejecutar todas las tareas se retira el Global object.
+	
+	
 
 * **Marcos Facundo Espinosa Maiolino** (3) [1004483](https://platzi.com/comentario/1004483/) 
 
@@ -984,15 +1016,17 @@ Por qué razón un desarrollador usaría los “beneficios” del hoisting?
 
 		Sería más preciso llamarlo LIFO (last in, first out). Ya que no siempre el primero en entrar es el último en salir. Por ejemplo si tienes la secuencia:
 		
-		  * push(1)
-		  * push(2)
-		  * pop()
-		  * pop()
-		  * push(3)
-		  * pop()  
+		* push(1)
+		* push(2)
+		* pop()
+		* pop()
+		* push(3)
+		* pop()  
 		El orden de entrada al stack es: 1, 2 ,3  
 		El orden de salida del stack es: 2, 1, 3  
 		El primero en entrar fue el “1” y último en salir fue el “3”.
+		
+		
 
 * **David Flores** (3) [929797](https://platzi.com/comentario/929797/) 
 
@@ -1011,13 +1045,16 @@ Por qué razón un desarrollador usaría los “beneficios” del hoisting?
 
 	 **Call Stack** es un mecanismo para que un intérprete (como el intérprete de JavaScript en un navegador web) realice un seguimiento de su lugar en un script que llama a múltiples funciones : qué función se está ejecutando actualmente y qué funciones se invocan desde esa función, etc. .
 	
-	  * Cuando un script llama a una función, el intérprete la agrega a la pila de llamadas y luego comienza a llevar a cabo la función.
+	* Cuando un script llama a una función, el intérprete la agrega a la pila de llamadas y luego comienza a llevar a cabo la función.
 	
-	  * Cualquier función llamada por esa función se agrega a la pila de llamadas más arriba y se ejecuta donde se alcanzan sus llamadas.
+	* Cualquier función llamada por esa función se agrega a la pila de llamadas más arriba y se ejecuta donde se alcanzan sus llamadas.
 	
-	  * Cuando finaliza la función actual, el intérprete la quita de la pila y reanuda la ejecución donde la dejó en la última lista de códigos.
+	* Cuando finaliza la función actual, el intérprete la quita de la pila y reanuda la ejecución donde la dejó en la última lista de códigos.
 	
-	  * Si la pila ocupa más espacio del que le había asignado, se produce un error de “desbordamiento de pila”.
+	* Si la pila ocupa más espacio del que le había asignado, se produce un error de “desbordamiento de pila”.
+	
+	
+	
 	
 	**By:<https://mzl.la/33S28jQ>**
 
@@ -1188,7 +1225,8 @@ tengo una duda, el garbage collection ayuda a limpiar memoria de cosas que ya no
 	Un desbordamiento de pila ocurre cuando hay una función recursiva (una función que se llama a sí misma) sin un punto de salida. El navegador (entorno de alojamiento) tiene una llamada de pila máxima que puede acomodar antes de lanzar un error de pila.
 	
 	**Aquí hay un ejemplo:**
-	```     functioncallMyself(){  callMyself();}callMyself();```
+	``` 
+	    functioncallMyself(){  callMyself();}callMyself();```
 	    
 	```
 
@@ -1300,7 +1338,8 @@ tengo una duda, el garbage collection ayuda a limpiar memoria de cosas que ya no
 * **Iván Darío Sánchez Jiménez** (3) [1042486](https://platzi.com/comentario/1042486/) 
 
 	Antes que copien y peguen el siguiente script reflexionen sobre su output:
-	```     console.log('taco 1')
+	``` 
+	    console.log('taco 1')
 	    console.log('taco 2')
 	    console.log('taco 3')
 	    setTimeout(()=>{

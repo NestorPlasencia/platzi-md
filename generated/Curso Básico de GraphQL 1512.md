@@ -5,6 +5,8 @@
 ## 0010. Introducción al curso y prerequisitos del curso [19899](https://platzi.com/clases/1512-graphql/19899-introduccion-al-curso-y-prerequisitos-del-curso/)
 
 ### Descripción:
+
+
 Bienvenido al Curso Básico de GraphQL. En este curso el profesor Adrián Estrada, desarrollador Node.js trabajando para NodeSource, te mostrará las bases de GraphQL y por qué es tan importante en el mundo.
 
 Para este curso es necesario tener buenas bases de Node y conocimientos de bases de datos no relacionales como MongoDB. Puedes checar el [Curso Básico de Node.js](https://platzi.com/clases/basico-nodejs/) y el [Curso Básico de MongoDB](https://platzi.com/clases/mongodb/).

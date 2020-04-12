@@ -112,14 +112,17 @@
 	
 	**Global Scope** : No están dentro de funciones o bloques, por lo tanto se puede acceder a ellas de manera global.
 	
-	  * Con var podemos re-asignar una variable pero es una mala práctica.
+	* Con var podemos re-asignar una variable pero es una mala práctica.
 	
-	  * Con let y const no podemos, aparecerá un error.
+	* Con let y const no podemos, aparecerá un error.
 	
-	  * Es una mala práctica crear una variable sin las palabras reservadas: var, let y const.  
+	* Es una mala práctica crear una variable sin las palabras reservadas: var, let y const.  
 	Si se asigna una variable dentro de una función sin las palabras reservadas será una variable global.
 	
-	  * La doble asignación de una variable también es una mala práctica.
+	* La doble asignación de una variable también es una mala práctica.
+	
+	
+	
 
 	* **Nathaly Stefani Riaño Bejarano** [1015223] (2)
 
@@ -155,9 +158,11 @@
 
 	Scopes de:
 	
-	  * **var** puede sobrescribir la declaración y asignación de una variable y alterar su valor
-	  * **let** no permite volver a declarar una variable con el mismo nombre pero permite la asignación de un nuevo valor
-	  * **const** tampoco permite reasignar una declaración ni asignación de un nuevo valor
+	* **var** puede sobrescribir la declaración y asignación de una variable y alterar su valor
+	* **let** no permite volver a declarar una variable con el mismo nombre pero permite la asignación de un nuevo valor
+	* **const** tampoco permite reasignar una declaración ni asignación de un nuevo valor
+	
+	
 	
 	Una variable **sin var, let o const** , dentro de una función puede ser reconocida como una variable global pero esto es una mala práctica.
 
@@ -208,7 +213,8 @@
 
 * **lmoran** (1) [1109790](https://platzi.com/comentario/1109790/) 
 
-	```    //MALAS PRACTICAS:
+	```
+	    //MALAS PRACTICAS:
 	    // Declarar solo nombre de variables sin su  tipo.
 	    const helloWorlds = () => {
 	      global = 'helloooo'
@@ -246,7 +252,8 @@
 * **joaquin-fontela** (1) [1036988](https://platzi.com/comentario/1036988/) 
 
 	Al intentar ejecutar dentro de Visual Studio me aparece lo siguiente:
-	```     [Running] node "c:\Users\jocaf\desktop\joaquin\platzi\Platzi - Curso de Closures y Scope en JavaScript\src\Scope\tempCodeRunnerFile.js"
+	``` 
+	    [Running] node "c:\Users\jocaf\desktop\joaquin\platzi\Platzi - Curso de Closures y Scope en JavaScript\src\Scope\tempCodeRunnerFile.js"
 	    'node' isnot recognized as an internal or external command,
 	    operable program or batch file.
 	    
@@ -269,7 +276,8 @@
 	* **miguelangelsoler** [1024568] (2)
 
 		A las variables declaradas con **let** , tambien podemos reasignarles un valor, pero a diferencia de **var** no podemos volver a declarar una variable con el mismo nombre, algo asi:
-		```     letmyVariable = 9
+		``` 
+		    letmyVariable = 9
 		    const myBoolean = true
 		    if(myBoolean){
 		      myVariable = "Im reasigned value"
@@ -340,14 +348,16 @@ var permite volver a declarar y reasignar una variable, let permite reasignar el
 	* **César Oswaldo Mandamiento Salas** [977807] (3)
 
 		No te confundas, lo que quiere decir Oscar es que con **var** tu puedes usar el mismo nombre de variable N veces e igual va a funcionar (tomando siempre el último valor en el orden de ejecución):
-		```     var code = 'javascript';
+		``` 
+		    var code = 'javascript';
 		    var code = 'js';
 		    // code = js
 		    
 		```
 		
 		Mientras que con **let** , si tu haz declarado una variable con let, no puedes volver a declarar la misma variable. Puedes cambiar su valor, pero no volverla a declarar.
-		```     let code = 'javascript';
+		``` 
+		    let code = 'javascript';
 		    let code = 'js';
 		    // ERROR! code ya existe.
 		    // Si deseas obtener el mismo resultado que en **var**, sería:
@@ -423,7 +433,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 
 * **lmoran** (1) [1109838](https://platzi.com/comentario/1109838/) 
 
-	```    //ambito lexico:
+	```
+	    //ambito lexico:
 	    var global = 'I am global'
 	    const helloWorld = () => {
 	      var global = 'I am local'
@@ -446,7 +457,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 * **Nathaly Stefani Riaño Bejarano** (1) [1022112](https://platzi.com/comentario/1022112/) 
 
 	Para que el código no se reviente, podemos agregar un try…catch
-	```     const helloWorld = () => {
+	``` 
+	    const helloWorld = () => {
 	      const hello = "Hello World!";
 	      console.log("local hello:::: ", hello);
 	    };
@@ -488,17 +500,23 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 
 	Un pequeño resumen sobre como actúan las diferentes variables:
 	
-	  * Las variables escritas con la palabra clave **var** pueden ser redeclaradas, pero esto a futuro puede darnos problemas, así que es mejor no usarla.
+	* Las variables escritas con la palabra clave **var** pueden ser redeclaradas, pero esto a futuro puede darnos problemas, así que es mejor no usarla.
 	
-	  * Las variables escritas con la palabra clave **let** no pueden ser redeclaradas, si lo haces mostrara un _**“error: esta variable ya ha sido declarada”**_ , pero su valor puede ser reasignado:
-	```     let fruit = "apple";
+	* Las variables escritas con la palabra clave **let** no pueden ser redeclaradas, si lo haces mostrara un _**“error: esta variable ya ha sido declarada”**_ , pero su valor puede ser reasignado:
+	
+	
+	
+	``` 
+	    let fruit = "apple";
 	    fruit = "banana";
 	    
 	    console.log(fruit); // banana
 	    
 	```
 	
-	  * Las variables escritas con la palabra clave **const** no pueden ser redeclaradas o reasignadas, ya que const quiere decir que su valor será constante, es decir que no va a cambiar.
+	* Las variables escritas con la palabra clave **const** no pueden ser redeclaradas o reasignadas, ya que const quiere decir que su valor será constante, es decir que no va a cambiar.
+	
+	
 
 * **Camilo Ernesto Hurtado Cataño** (2) [1103753](https://platzi.com/comentario/1103753/) 
 
@@ -511,7 +529,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 * **lmoran** (1) [1109910](https://platzi.com/comentario/1109910/) 
 
 	Tener en cuenta let a = 3 let a = 4 no funciona, pero si colocamos let a = 3 y a = 4 si va funcionar:
-	```     //otro ejemplo de reasinacion:
+	``` 
+	    //otro ejemplo de reasinacion:
 	    const antotherFunction = () => {
 	      var x = 1
 	      var x = 2
@@ -542,7 +561,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 * **Manuel Rivera** (1) [1010136](https://platzi.com/comentario/1010136/) 
 
 	Cuando declaramos una variable
-	```     var example = 1
+	``` 
+	    var example = 1
 	    example = 2
 	    
 	    letexample1 = 1
@@ -609,7 +629,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 * **lmoran** (2) [1110002](https://platzi.com/comentario/1110002/) 
 
 	En for no debemos utilizar var i = 0 porque al imprimir va imprimir 10 veces el ultimo valor, ejemplo:
-	```     //forno debemos utilizar var sino let
+	``` 
+	    //forno debemos utilizar var sino let
 	    const anotherFunction = () => {
 	      for (var i = 0; i < 10; i++) {
 	        setTimeout(() => {
@@ -623,7 +644,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	
 	Va imprimir: 10 10 10 10 10 10 10 10 10 10  
 	**Pero con let: **
-	```     const anotherFunction = () => {
+	``` 
+	    const anotherFunction = () => {
 	      for (let i = 0; i < 10; i++) {
 	        setTimeout(() => {
 	          console.log(i)
@@ -677,7 +699,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	* **Nathaly Stefani Riaño Bejarano** [972940] (1)
 
 		Muy buenas aclaraciones!!! La explicación de @dfloresdev es muy acertada y explicaría también el caso en el que el tiempo de espera del setTimeOut fuera 0:
-		```     for (var i = 0; i < 10; i++) {
+		``` 
+		    for (var i = 0; i < 10; i++) {
 		      setTimeout(() =>console.log(i), 0);
 		    }
 		    
@@ -725,7 +748,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 * **Roberto Bock** (9) [1000343](https://platzi.com/comentario/1000343/) 
 
 	Bueno quisiera empezar con comentar que me costó entender esto, tuve que ver el video 2 veces para poderlo entender, me gustaría empezar con cambiar un poco los nombres de funciones y variables por algo menos confuso, y quizás mas divertido…
-	```     const papa = (nuevoEngendro) =>{
+	``` 
+	    const papa = (nuevoEngendro) =>{
 	        var cantidadDeHijos = 0;
 	        const crearEngendro = (nuevoEngendro) =>{
 	            cantidadDeHijos += nuevoEngendro;
@@ -744,12 +768,14 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	Si estudiamos la función **papa** esta tiene la declaración de la variable **cantidaDeHijos** y la declaración de la función **crearEngendro** y al final retorna la función **crearEngendro** ,
 	
 	Ahora después de la declaración de la función papa viene la línea
-	```     lettraigamosHijosAlMundo = papa();
+	``` 
+	    lettraigamosHijosAlMundo = papa();
 	    
 	```
 	
 	Notese el **PARENTESIS** () de la función papa
-	```     let traigamosHijosAlMundo = papa(); // <-- este paréntesis indica que la función se está ejecutando
+	``` 
+	    let traigamosHijosAlMundo = papa(); // <-- este paréntesis indica que la función se está ejecutando
 	    
 	```
 	
@@ -760,21 +786,24 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	así que finalmente **traigamosHijosAlMundo** vale lo que haya retornado la función **papa** que es **crearEngendro** (nótese que no se ejecuta la función crearEngendro sino que simplemente se retorna la referencia a ella)
 	
 	por ende cada vez que ejecutamos
-	```     traigamosHijosAlMundo(1)
+	``` 
+	    traigamosHijosAlMundo(1)
 	    
 	```
 	
 	realmente estamos es llamando a la función **crearEngendro** con todo su ámbito que es la variable cantidadDeHijos con valor de 0, y a este le suma lo que se le pase por parámetro,
 	
 	En la segunda ejecución de
-	```     traigamosHijosAlMundo(1)
+	``` 
+	    traigamosHijosAlMundo(1)
 	    
 	```
 	
 	no se está volviendo a correr todas las líneas de la función papa, esto ya se hizo en la asignación ( let traigamosHijosAlMundo = papa(); ), sino que realmente se está volviendo a llamar a **crearEngendro()** la cual había modificado su variable cantidadDeHijos en la primera llamada
 	
 	asi que pienso que la clave es entender que en esta asignación
-	```     lettraigamosHijosAlMundo = papa();
+	``` 
+	    lettraigamosHijosAlMundo = papa();
 	    
 	```
 	
@@ -787,7 +816,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 * **eocas98** (6) [1038007](https://platzi.com/comentario/1038007/) 
 
 	He estado leyendo un poco y me gusta hacer este símil, planteemos una situación parecida al ejemplo del moneyBox sin usar closure y solo una función:
-	```     let saveCoins = 0
+	``` 
+	    let saveCoins = 0
 	    
 	    const moneyBox = (coins) => {
 	    	saveCoins += coins
@@ -801,7 +831,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	```
 	
 	En el código de arriba, alteramos la variable global saveCoins desde la función moneyBox() pero al hacer esto, podemos reasignar la variable saveCoins fuera de la función. Acá entra closure, donde utilizamos la función moneyBox para declarar e inicializar la variable saveCoins y retornar la función countCoins(coins) que incrementa saveCoins en coins.
-	```     const moneyBox = () => {
+	``` 
+	    const moneyBox = () => {
 	        let saveCoins = 0
 	        const countCoins = (coins) => {
 	            saveCoins += coins
@@ -823,13 +854,16 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	
 	Fuentes:
 	
-	    1. <https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6>
-	    2. <https://www.w3schools.com/js/js_function_closures.asp>
+	  1. <https://medium.com/@sergiodxa/definiendo-conceptos-closure-y-scope-en-javascript-9081f1e113e6>
+	  2. <https://www.w3schools.com/js/js_function_closures.asp>
+	
+	
 
 * **Jose Daniel Barría Reyes** (4) [972351](https://platzi.com/comentario/972351/) 
 
 	Codigo de la clase
-	```     // const moneyBox = (coins) =>{
+	``` 
+	    // const moneyBox = (coins) =>{
 	    //     var saveCoins = 0;
 	    //     saveCoins += coins;
 	    //console.log(`Money box: $${saveCoins}`)
@@ -855,7 +889,8 @@ Al declarar una variable sin las palabras reservadas var, let o const , como lo 
 	Closure: Es la combinación de una función y el ámbito léxico en la cual ha sido declarada dicha función. Un closure recuerda el ámbito en el cual ha sido creado.
 	
 	El closure recuerda la asignación del valor anterior porque queda en la memoria, al pasarle un nuevo valor nos dará como resultado la suma de estos elementos porque estamos usando la asignación de adición.
-	```     const moneyBox = () => {
+	``` 
+	    const moneyBox = () => {
 	      var saveCoins = 0;
 	      const countCoins = coins => {
 	        saveCoins += coins;
@@ -908,7 +943,8 @@ Esta vez no estoy comprendiendo bien me revuelve mucho 😅
 
 		moneyBox es una funcion que devuelve otra funcion.  
 		en la linea
-		```     letmyMoneyBox = moneyBox()
+		``` 
+		    letmyMoneyBox = moneyBox()
 		    
 		```
 		
@@ -986,7 +1022,8 @@ Esta vez no estoy comprendiendo bien me revuelve mucho 😅
 		Hola Cristobal, cuando empecé a profundizar temas de Javascript me costaba entender algunas cosas pero con la práctica uno lo va entendiendo, además de complementarse con repasar algunos fundamentos.
 		
 		Nose si ya te haya quedado del todo claro pero puedo tratar de explicarte
-		```     const buildCount = i => {
+		``` 
+		    const buildCount = i => {
 		      let count = i;
 		      const displayCount = () => {
 		        console.log(count++);
@@ -1038,7 +1075,8 @@ Esta vez no estoy comprendiendo bien me revuelve mucho 😅
 	**Si quieres hacer que el closure recuerde cualquier resultado, pasa el argumento también a la segunda función:  
 	**  
 	Ejemplo
-	```     const llevaLaCuenta = (numero) => {
+	``` 
+	    const llevaLaCuenta = (numero) => {
 	      const cuenta = 0;
 	      const aumentarcuenta = (numero) => {
 	        cuenta+=numero
@@ -1069,7 +1107,8 @@ Esta vez no estoy comprendiendo bien me revuelve mucho 😅
 	Esto significa que podemos acceder al valor “count” dentro de la función porque es el alcance donde está asignado.
 	
 	Podemos tener varias formas de manejar la constante “buildCount”, significa que la podemos asignar a myCount y myOtherCount. Trabajaremos con el scope(alcance) que tiene esta variable, poder ejecutarla y empezar a contar desde donde necesitemos.
-	```     const buildCount = i => {
+	``` 
+	    const buildCount = i => {
 	      let count = i;
 	      const displayCount = () => {
 	        console.log(count++);
@@ -1091,7 +1130,8 @@ Esta vez no estoy comprendiendo bien me revuelve mucho 😅
 * **Ernesto Briceño** (2) [976964](https://platzi.com/comentario/976964/) 
 
 	## Código de la clase
-	```     const buildCount = i => {
+	``` 
+	    const buildCount = i => {
 	      let count = i;
 	      const displayCount = () => {
 	        console.log(count++);
@@ -1118,7 +1158,8 @@ Esta vez no estoy comprendiendo bien me revuelve mucho 😅
 
 * **Gerardo Nava Pereda** (1) [1021741](https://platzi.com/comentario/1021741/) 
 
-	```    const buildSum = (n) => {
+	```
+	    const buildSum = (n) => {
 	    	returnsum(n + n);
 	    	function sum(a, b) {
 	    		return a + b
@@ -1177,7 +1218,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 
 * **edanfesi** (3) [973374](https://platzi.com/comentario/973374/) 
 
-	```    const person = () => {
+	```
+	    const person = () => {
 	      let saveName = "Name";
 	      return {
 	        getName: () => saveName,
@@ -1196,7 +1238,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 
 * **jesus-cruz-dominguez** (2) [1098867](https://platzi.com/comentario/1098867/) 
 
-	```    <
+	```
+	    <
 	    const perro = ( nombre, raza ) => {
 	        let _nombre = nombre;
 	        let _raza = raza;
@@ -1253,7 +1296,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 	De igual manera es similar el uso al respecto de funciones dentro del return para cambiar los datos y leerlo, esto no es la misma manera de hacerlo directamente dentro del scope para la persona ?
 	
 	Tambien esta a una forma para gregar las funciones y se vean mejores ademas que se parecen al exportar modulos de nodejs 💚:
-	```     const person = () => {
+	``` 
+	    const person = () => {
 	        // Convertir a una variable "privada"
 	        // hacer que solo mediante la funcion se pueda cambiar el estado y no desde afuera sin funciones osea practicamente directamente cambiarle su valor
 	        let guardarNombre = "Name";
@@ -1291,7 +1335,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 
 * **Mildred Guerra Rodríguez** (2) [970759](https://platzi.com/comentario/970759/) 
 
-	```    const person = () => {
+	```
+	    const person = () => {
 	      var saveName = 'Name';
 	      return {
 	        getname: () => {
@@ -1313,7 +1358,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 * **Paola Zarate** (1) [1103875](https://platzi.com/comentario/1103875/) 
 
 	Una pequena prueba intentando a acceder a las variable encapsulada saveName, por fuera de person.
-	```     const person = () => {
+	``` 
+	    const person = () => {
 	        var saveName = "Name";
 	    
 	        const getName = () => {
@@ -1353,7 +1399,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 	
 	El patrón Módulo encapsula “privacidad”, estado y organización mediante closures.  
 	El patrón de módulo se usa para emular el concepto de clases de tal manera que podamos incluir tanto métodos públicos / privados como variables dentro de un solo objeto, asi todo lo que esta afuera puede acceder a los closures privados.
-	```     <functiontesModule () {
+	``` 
+	    <functiontesModule () {
 	        var counter = 0;
 	    
 	        return {
@@ -1386,7 +1433,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 * **Anibal Fernando Ortega Piedrahita** (1) [1077165](https://platzi.com/comentario/1077165/) 
 
 	Me genera una duda. Si es para crear variables privadas con el closure, porque cuando creo accedo directamente a la variable sin el get o el set funciona.
-	```     newPerson = person();
+	``` 
+	    newPerson = person();
 	    newPerson.saveName = 'Anibal';
 	    console.log(newPerson.saveName);
 	    
@@ -1445,7 +1493,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 		En cambio, al declararlar con let, la variable i sólo existe en el scope del bloque del for, entonces, al iterarse, sí o sí, toma el valor actual de i.
 		
 		Poniéndolo en código. Declararla con var es lo mismo que hacer esto:
-		```     const anotherFunction = () => {
+		``` 
+		    const anotherFunction = () => {
 		      let i = 0
 		      for(i; i < 10; i++) {
 		        setTimeout(() => {
@@ -1534,11 +1583,14 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 	El ‘levantamiento’ del que hablan es mas a fines didácticos y está bien, pero no es tan así, no es que FISICAMENTE levanta las declaraciones y las pone al principio como muchos explican. Lo que se hace en realidad es tomar ‘registros’ en memoria de donde está cada declaración(todo esto previo a que se ejecute el código en sí) y depende si es var, let, const o una función, JS va a asignarle referencias a cada una.  
 	Si es:
 	
-	  * var : asigna la referencia undefined (si de acá viene el famoso undefined)
+	* var : asigna la referencia undefined (si de acá viene el famoso undefined)
 	
-	  * let/const: asigna la referencia uninitialized(declarado pero no inicializado)
+	* let/const: asigna la referencia uninitialized(declarado pero no inicializado)
 	
-	  * función: guarda un registro con la función entera(por eso la podemos llamar antes de que este creada)
+	* función: guarda un registro con la función entera(por eso la podemos llamar antes de que este creada)
+	
+	
+	
 
 * **metta** (3) [1039988](https://platzi.com/comentario/1039988/) 
 
@@ -1563,7 +1615,8 @@ Es una característica… interesante, y me queda claro cómo funciona… pero n
 * **René Sanchez** (2) [982452](https://platzi.com/comentario/982452/) 
 
 	Aporte 💚
-	```     // Hoisting
+	``` 
+	    // Hoisting
 	    // Levantamiento de variables (ayuda que da javascript por defecto)
 	    // cada identidificador sinuna declaracion si es una variable(var),let,const se terminara por convertir enuna var a; a = 2
 	    a = 2;
@@ -1621,7 +1674,8 @@ Por qué "a" se declara sin var ni let ni const? Que significa esto
 * **Jose Daniel Barría Reyes** (1) [982357](https://platzi.com/comentario/982357/) 
 
 	Codigo de la clase
-	```     //Hoisting : elevamiento de las declaraciones
+	``` 
+	    //Hoisting : elevamiento de las declaraciones
 	    //Solo en declaraciones, no en inicializaciones
 	    
 	    a = 2;
@@ -1662,7 +1716,8 @@ Por qué "a" se declara sin var ni let ni const? Que significa esto
 	Herramientas modernas para debuggear…
 	
 	**Yo:**
-	```     console.log(menu)
+	``` 
+	    console.log(menu)
 	    console.log(menu.firstChild)
 	    console.log(e)
 	    console.log(e.toElement)
