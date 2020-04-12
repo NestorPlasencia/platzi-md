@@ -6,6 +6,7 @@
 
 ### Descripción:
 
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -15,18 +16,22 @@
 
 * **Wigilabs S.A.S** (5) [621398](https://platzi.com/comentario/621398/) 
 Te amo Anahí 🤓🙈
+	  *[CI]: Integración Continua
 
 * **melendez-kevin** (3) [888510](https://platzi.com/comentario/888510/) 
 
 	Ojala en todos los cursos mostraran el proyecto final, a mi en lo personal me motiva mucho desde el inicio.
+	  *[CI]: Integración Continua
 
 * **DanielEvokando** (3) [600069](https://platzi.com/comentario/600069/) 
 
 	El curso más esperado!
+	  *[CI]: Integración Continua
 
 * **Everson Vidal Mamani Huayta** (3) [600065](https://platzi.com/comentario/600065/) 
 
 	Listo a empezar a estudiar…
+	  *[CI]: Integración Continua
 
 * **jlquichimbo** (2) [780323](https://platzi.com/comentario/780323/) 
 
@@ -34,63 +39,78 @@ Te amo Anahí 🤓🙈
 	Muchas gracias por continuar el curso. Ahora consumiremos datos de APIs?  
 	Tengo un servidor montado con Django. Puedo generar los esquemas de datos en json para consumirlos desde mobile?  
 	Gracias Anahí.
+	  *[CI]: Integración Continua
 
 * **jesus-olivares661** (2) [647677](https://platzi.com/comentario/647677/) 
 
 	Acabo de terminar el de dart y el basico de flutter.  
 	Será que comiendo con este de una vez ó practico un poco mas de flutter basico…?
+	  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (2) [610813](https://platzi.com/comentario/610813/) 
 
 	Empezando con el curso
+	  *[CI]: Integración Continua
 
 * **MAGIN DIEGO LUNA POMA** (2) [600087](https://platzi.com/comentario/600087/) 
 
 	SIIII Q EMOCION… 😄 SALUDOS DESDE BOLIVIA
+	  *[CI]: Integración Continua
 
 * **José Colmenares** (2) [600084](https://platzi.com/comentario/600084/) 
 
 	Al fin , el curso… Un saludo desde Venezuela !
+	  *[CI]: Integración Continua
 
 * **JOSE REYES PALACIO** (1) [1059876](https://platzi.com/comentario/1059876/) 
 
 	El curso de flutter me gustó, ahora espero quedar encantado con el curso avanzado.
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1019660](https://platzi.com/comentario/1019660/) 
 
 	Ahora si El curso avanzado.
+	  *[CI]: Integración Continua
 
 * **sergio-medina93** (1) [1018584](https://platzi.com/comentario/1018584/) 
 
 	Ahora los vídeos vienen con Transcripción…¡Super!
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1002370](https://platzi.com/comentario/1002370/) 
 
 	Vamos con toda! Excelente profe
+	  *[CI]: Integración Continua
 
 * **RewelME** (1) [976642](https://platzi.com/comentario/976642/) 
 
 	Excellente Anahi la super profe 😄
+	  *[CI]: Integración Continua
 
 * **RewelME** (1) [976641](https://platzi.com/comentario/976641/) 
 
 	Excellente Anahi la super profe 😄
+	  *[CI]: Integración Continua
 
 * **Gonzalo Alonso Arrieta Chujutalli** (1) [919611](https://platzi.com/comentario/919611/) 
 
 	Con muchas ganas de empezar el curso, a por todo 😃 !!
+	  *[CI]: Integración Continua
 
 * **Santiago Rhenals** (1) [918855](https://platzi.com/comentario/918855/) 
 
 	Ansioso por empezar!
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [911104](https://platzi.com/comentario/911104/) 
 
 	Excelente a darle !
+	  *[CI]: Integración Continua
 
 * **David Galicia** (1) [904786](https://platzi.com/comentario/904786/) 
 
 	En el curso básico aprendí mucho, este también se ve interesante.
+	  *[CI]: Integración Continua
 
 * **Andres Felipe Jacquin Burgos** (1) [795607](https://platzi.com/comentario/795607/) 
 
@@ -98,111 +118,139 @@ Te amo Anahí 🤓🙈
 	Una consulta… Tengo un cliente que quiere ver los cambios que le voy realizando a la aplicación constantemente, pero no conozco si hay alguna manera que no sea publicarla en la tienda para que la pueda ver, con el fin de evitarme ir y sincronizar los cambios con la app que esta instalada en su teléfono.  
 	Por si alguno conoce, o si sabe como hacer el proceso en la tienda para que no este publica a todos.  
 	Les agradezco por su repuesta.
+	  *[CI]: Integración Continua
 
 	* **Demian Arenas (Platzi)** [795607] (1)
 
 		Hola Andres, podrías lanzar la aplicación en modo beta limitada a algunos usuarios y dentro de estos usuarios añades a tu cliente.
+		  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [795607] (1)
 Como lo comentó el compañero Demian lo puedes realizar de esa manera y cada vez que lances una actualización le dices al cliente que actualice la App desde la Play Store
+		  *[CI]: Integración Continua
 
 * **nelsonfacundo** (1) [775746](https://platzi.com/comentario/775746/) 
 
 	cual es el curso donde crearon esos diseños ?  
 	el el primer video
+	  *[CI]: Integración Continua
 
 	* **Sebastian Alberto Bordi** [775746] (1)
 
 		En el curso básico de flutter
+		  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [775746] (1)
 ¡Hola Nelson! En el Curso Básico de Flutter realizamos el primer setup de la app, si no quieres ir a ese curso puedes descargar el repositorio de este curso y continuar con el aprendizaje 💪
+		  *[CI]: Integración Continua
 
 	* **Sebastian Chicoma Sandmann** [775746] (1)
 
 		Cuál es el enlace para hacer el fork del proyecto ?
+		  *[CI]: Integración Continua
 
 * **nelsonfacundo** (1) [775743](https://platzi.com/comentario/775743/) 
 
 	gracias por el curso
+	  *[CI]: Integración Continua
 
 * **Camilo Alexander Velandia Velandia** (1) [763278](https://platzi.com/comentario/763278/) 
 
 	vamoss!!
+	  *[CI]: Integración Continua
 
 * **ahmedhamdan** (1) [707703](https://platzi.com/comentario/707703/) 
 
 	Genial!! Empezamos de nuevo
+	  *[CI]: Integración Continua
 
 * **Lcapde** (1) [695598](https://platzi.com/comentario/695598/) 
 
 	Genial, continuando con flutter!!! 😄
+	  *[CI]: Integración Continua
 
 * **Karito Vargas Cruz** (1) [669318](https://platzi.com/comentario/669318/) 
 
 	El primer curso que inicio en platzi, me encanto la bienvenida… todos los cursos son así de impactantes?
+	  *[CI]: Integración Continua
 
 	* **Gustavo Antonio** [669318] (2)
 
 		sí
+		  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [669318] (1)
 ¡Hola Marito! En Platzi nos esforzamos porque tengas la mejor calidad y a los mejores profesores, nos encanta que te esté gustando el curso, ¡Sigue y nunca pares! 💪
+		  *[CI]: Integración Continua
 
 * **freddy0fh** (1) [665398](https://platzi.com/comentario/665398/) 
 
 	Me parece excelente este curso, lo esperaba hace rato
+	  *[CI]: Integración Continua
 
 * **Julián Andrés Vela Salazar** (1) [657969](https://platzi.com/comentario/657969/) 
 
 	Cuales son todos los cursos que da anncode?
+	  *[CI]: Integración Continua
 
 	* **Diego Alexander Forero Higuera (Platzi)** [657969] (2)
 
 		Hola, da el curso de Java SE, también da el curso de Programación Orientada a Objetos, Curso básico de Kotlin, Curso de Bases Técnicas de Android, que recuerde en estos momentos.
+		  *[CI]: Integración Continua
 
 * **Alexis Olveres** (1) [613018](https://platzi.com/comentario/613018/) 
 
 	Este curso se va a poner buenísimo.
+	  *[CI]: Integración Continua
 
 * **A2274346** (1) [604595](https://platzi.com/comentario/604595/) 
 
 	Listo para iniciar
+	  *[CI]: Integración Continua
 
 * **Walter Ugalde A** (1) [604133](https://platzi.com/comentario/604133/) 
 
 	Hola, Aún no termino el curso, pero hacer la versión avanzada del curso es excelente, Felicidades.
+	  *[CI]: Integración Continua
 
 * **gabino18** (1) [600426](https://platzi.com/comentario/600426/) 
 
 	Woow por fin llegó el curso! muy esperado! A estudiar!!
+	  *[CI]: Integración Continua
 
 * **Nicolas Beltrami** (1) [600284](https://platzi.com/comentario/600284/) 
 
 	Esperé mucho este curso!
+	  *[CI]: Integración Continua
 
 * **darwin1111** (1) [600208](https://platzi.com/comentario/600208/) 
 
 	Gracias… 😄
+	  *[CI]: Integración Continua
 
 * **Fernando Mellone** (1) [600165](https://platzi.com/comentario/600165/) 
 
 	Por finnnn!
+	  *[CI]: Integración Continua
 
 * **iariza** (1) [600095](https://platzi.com/comentario/600095/) 
 
 	excelente!!
+	  *[CI]: Integración Continua
 
 * **JanethM** (1) [600089](https://platzi.com/comentario/600089/) 
 
 	Lista para comenzar !!
+	  *[CI]: Integración Continua
 
 * **Alejandro Barrios** (1) [600075](https://platzi.com/comentario/600075/) 
 
 	De lujo, este curso parece que estará interesante
+	  *[CI]: Integración Continua
 
 * **Sergio Gutierrez** (0) [983019](https://platzi.com/comentario/983019/) 
 Muy bueno
+	  *[CI]: Integración Continua
 
 ## 0020. ¿Qué es una Arquitectura de software [20218](https://platzi.com/clases/1603-flutter-avanzado/20218-que-es-una-arquitectura-de-software/)
 
@@ -210,77 +258,95 @@ Muy bueno
 
 
 Una arquitectura de software se encargará de estructurar, diseñar y proyectar un proyecto. Indica la estructura, funcionamiento e interacción entre las partes del software; nos ayuda a tener el código organizado para que todo el equipo pueda verlo.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Fernando Mellone** (11) [600184](https://platzi.com/comentario/600184/) 
 
 	Acá hay un post muy interesante, de dos partes, sobre la arquitectura BLoC. (Incluye links del post original que está escrito en inglés) [Link](https://medium.com/comunidad-flutter/implementa-arquitectura-a-tu-proyecto-flutter-usando-el-patr%C3%B3n-bloc-2cb031722166)
+	  *[CI]: Integración Continua
 
 	* **banuelos-diaz-edgar-raul** [600184] (2)
 
 		Excelente aporte!
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [600184] (1)
 
 		Buen aporte!
+		  *[CI]: Integración Continua
 
 	* **Luis Alfredo Hernandez** [600184] (1)
 
 		El contenido compartido , es muy bueno y entendible
+		  *[CI]: Integración Continua
 
 	* **David Galicia** [600184] (1)
 
 		Muy buen aporte sirve como introducción a esta arquitectura
+		  *[CI]: Integración Continua
 
 * **Rodrigo Alexander Saraguro Bravo** (2) [949125](https://platzi.com/comentario/949125/) 
 
 	¿Dónde encontrar plantillas para facilitar el diseño de ventanas?
+	  *[CI]: Integración Continua
 
 	* **angel-mambel** [949125] (1)
 
 		No son plantillas pero si tiene mucho material para facilitar el trabajo importando dependencias, la pag se llama flutterawesome y brinda mucho material.
+		  *[CI]: Integración Continua
 
 	* **phvillegas** [949125] (1)
 
 		Este es el ejemplo por el cual se guía en el diseño [link](https://www.uplabs.com/posts/ui7-kit)
+		  *[CI]: Integración Continua
 
 * **Lordpanther** (2) [631326](https://platzi.com/comentario/631326/) 
 
 	Tener ordenado el área de trabajo es la mejor forma de enfrentarse a los más grandes retos de la humanidad. (Y de la programación) 😃
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (2) [611055](https://platzi.com/comentario/611055/) 
 
 	A veces es un poco dificil convencer a algunos PM de la necesidad de la arquitectura, lo triste realmente es cuando incluso los devs del equipo no ven la necesidad de la misma.
+	  *[CI]: Integración Continua
 
 	* **Joshval97** [611055] (1)
 
 		Algunos dicen incluso que es una perdida de tiempo y dinero… luego cae encima la deuda técnica y la culpa es incluso de los que querían hacer las cosas bien.
+		  *[CI]: Integración Continua
 
 * **jpupo** (1) [1075253](https://platzi.com/comentario/1075253/) 
 
 	Muchas gracias por tus aclaraciones, que opinas sobre la tecnología React Native, Flutter es mejor?  
 	Saludos
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1024807](https://platzi.com/comentario/1024807/) 
 
 	vamos con todo
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1004498](https://platzi.com/comentario/1004498/) 
 
 	Vamos con toda, excelente clase
+	  *[CI]: Integración Continua
 
 * **danntastico** (1) [878797](https://platzi.com/comentario/878797/) 
 
 	Se encarga de estructurar y diseñar el proyecto. Mantener el código organizado y todas las partes del software bien estructuradas.
+	  *[CI]: Integración Continua
 
 * **robertmezagarcia** (1) [800796](https://platzi.com/comentario/800796/) 
 
 	Interesante!!
+	  *[CI]: Integración Continua
 
 * **Camilo Alexander Velandia Velandia** (1) [763283](https://platzi.com/comentario/763283/) 
 
 	BLoC
+	  *[CI]: Integración Continua
 
 * **Juan Puerta Montoya** (1) [762842](https://platzi.com/comentario/762842/) 
 
@@ -289,18 +355,22 @@ Una arquitectura de software se encargará de estructurar, diseñar y proyectar 
 	Estilos arquitecturales, patrones arquitectónicos,SOLID aplicados a  
 	la arquitectura etc.  
 	Y como lo dice @anncode cada proyecto tiene su propia arquitectura.
+	  *[CI]: Integración Continua
 
 * **Germán Arevalo Jerez** (1) [653896](https://platzi.com/comentario/653896/) 
 
 	La arquitectura de software nos permite tener el código para que todo el equipo pueda verlo.
+	  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (1) [611329](https://platzi.com/comentario/611329/) 
 
 	Tenemos también a Provider.
+	  *[CI]: Integración Continua
 
 	* **Nimrod_r** [611329] (1)
 
 		BLoC + Provider + Service Locator
+		  *[CI]: Integración Continua
 
 ## 0030. Tipos de Arquitecturas para Flutter [20219](https://platzi.com/clases/1603-flutter-avanzado/20219-tipos-de-arquitecturas-para-flutter/)
 
@@ -356,6 +426,7 @@ Este es una librería de terceros [Puedes encontrar toda la información aquí](
 En esta arquitectura cuando un Widget cambia de estado se reconstruye el árbol completo (Toda la pantalla). En realidad esto no es tan conveniente pues lo que quisiéramos que sucediera idealmente es reconstruir solo el widget que está cambiando y no los otros.
 
 Esta arquitectura es buena pues cumple con el Principio de Single Responsability pues separa la lógica del negocio de la UI, pero en general el mantenimiento de este se vuelve complejo por la grande dependencia entre Widgets, debes controlar muchos casos para lograr el efecto que quires dar a tu aplicación.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -366,75 +437,93 @@ Esta arquitectura es buena pues cumple con el Principio de Single Responsability
 	
 	**Scoped Model**  
 	Librería de terceros sacada del código base de Fuchsia (OS). Aquí si un widget cambia de estado se reconstruye todo el árbol/pantalla. Cumple con el Single Responsability, separa lógica y UI. Pero la dependencia de Widgets la hacen difícil de mantener.
+	  *[CI]: Integración Continua
 
 * **AndrsDev** (6) [609344](https://platzi.com/comentario/609344/) 
 
 	No estoy totalmente de acuerdo con la descripción de la arquitectura de Scoped Model en cuanto se refiere a reconstruir el árbol completo (toda la pantalla). **Esto no es cierto**.
 	
 	Como lo pueden encontrar en su [documentación](https://pub.flutter-io.cn/packages/scoped_model) Solo se reconstruye el widget englobado dentro de ScopedModelDescendant.
+	  *[CI]: Integración Continua
 
 * **JanethM** (3) [670468](https://platzi.com/comentario/670468/) 
 
 	Aqui les dejo [una guía completa para la arquitectura ScopedModel](https://medium.com/comunidad-flutter/arquitectura-flutter-scopedmodel-una-gu%C3%ADa-completa-para-la-arquitectura-del-mundo-real-7301285e0d0d)  
 	incluye un pequeño tutorial para que lo chequen.
+	  *[CI]: Integración Continua
 
 	* **JanethM** [670468] (2)
 
 		Tambien en este articulo realizan la implementación y comparación de manera practica de las 3 arquitecturas.  
 		[Flutter app architecture 101: Vanilla, Scoped Model, BLoC](https://medium.com/comunidad-flutter/flutter-app-architecture-101-vanilla-scoped-model-bloc-5a488f880d9f)
+		  *[CI]: Integración Continua
 
 * **fabian82** (3) [600395](https://platzi.com/comentario/600395/) 
 
 	Hola falta la explicación de Bloc !!!
+	  *[CI]: Integración Continua
 
 	* **jobcoronadoduran** [600395] (3)
 Lo explican a profundidad en los siguientes vídeos.
+		  *[CI]: Integración Continua
 
 * **Fernando Mellone** (3) [600188](https://platzi.com/comentario/600188/) 
 
 	El saber lo mucho que voy a agradecer estas clases en futuras prácticas es increíble!
+	  *[CI]: Integración Continua
 
 * **lsolares** (2) [676363](https://platzi.com/comentario/676363/) 
 
 	Pienso que se debería hablar de Provider ya que este simplifica mucho más más el manejo de la información en los Widgets
+	  *[CI]: Integración Continua
 
 * **José Colmenares** (2) [601000](https://platzi.com/comentario/601000/) 
 
 	Excelente comparación este curso promete mucho !
+	  *[CI]: Integración Continua
 
 * **Alexander Mateo** (2) [600162](https://platzi.com/comentario/600162/) 
 
 	¡Genial! 😄
+	  *[CI]: Integración Continua
 
 * **bryant M** (2) [600124](https://platzi.com/comentario/600124/) 
 
 	Espere mucho para este curso
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1074992](https://platzi.com/comentario/1074992/) 
 
 	Genial, Es bueno conocer otras arquitecturas
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [825791](https://platzi.com/comentario/825791/) 
 
 	Oki doki!
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (1) [611063](https://platzi.com/comentario/611063/) 
 
 	No veo la información sobre BLoC… @anncode podrias agregarla.
+	  *[CI]: Integración Continua
 
 	* **We Connect Dev Team Corp** [611063] (2)
 
 		en el siguiente capitulo
+		  *[CI]: Integración Continua
 
 * **de-jesus-meza-esteban** (1) [605606](https://platzi.com/comentario/605606/) 
 
 	base de datos en firebase
+	  *[CI]: Integración Continua
 
 * **fabian82** (1) [60077](https://platzi.com/comentario/600395/) 
 Hola falta la explicación de Bloc !!!
+	  *[CI]: Integración Continua
 
 	* **jobcoronadoduran** [60077] (3)
 Lo explican a profundidad en los siguientes vídeos.
+		  *[CI]: Integración Continua
 
 ## 0040. Arquitectura BLoC en Flutter [20220](https://platzi.com/clases/1603-flutter-avanzado/20220-arquitectura-bloc-en-flutter/)
 
@@ -455,6 +544,7 @@ Lo explican a profundidad en los siguientes vídeos.
 
 
 
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -474,20 +564,24 @@ Lo explican a profundidad en los siguientes vídeos.
 	Entonces en C serian POCOS?,  
 	Y en C# POSHOS?,  
 	Que me dicen de Python?
+	  *[CI]: Integración Continua
 
 	* **ricindigus** [889247] (1)
 
 		"Que me dicen de Python?"  
 		jajajajjajajaja…Mori! 😄 😄 😄
+		  *[CI]: Integración Continua
 
 	* **Christian Quispe Bonilla** [889247] (1)
 
 		Jajaja 😛
+		  *[CI]: Integración Continua
 
 	* **william andres rodriguez borja** [889247] (1)
 
 		en c# tambien se les dice pocos. realmente C no es orientado a objetos.  
 		jajaj en python y php serian popos 😃
+		  *[CI]: Integración Continua
 
 * **anncode** (7) [610112](https://platzi.com/comentario/610112/) 
 
@@ -502,12 +596,14 @@ Lo explican a profundidad en los siguientes vídeos.
 	
 	**Respondo a todas tus preguntas**  
 	Para eso estoy 🥰
+	  *[CI]: Integración Continua
 
 	* **Pablo Domínguez Durán** [610112] (1)
 
 		No me quedó tan claro los límites entre los Views y el BLoC.
 		
 		Si un componente de UI no tiene negocio no tiene BLoC, pero sí lo tiene tendría BLoC, Repo y Model?
+		  *[CI]: Integración Continua
 
 * **danntastico** (6) [878821](https://platzi.com/comentario/878821/) 
 
@@ -521,116 +617,144 @@ Lo explican a profundidad en los siguientes vídeos.
 	* Data/ Model: Modelos de manejo de datos PODO, Plain Old Dart Object.
 	
 	
+	  *[CI]: Integración Continua
 
 	* **bynico** [878821] (2)
 
 		Gracias por el aporte
+		  *[CI]: Integración Continua
 
 * **Alvaro Ruben Hurtado Maldonado** (5) [600199](https://platzi.com/comentario/600199/) 
 
 	Aqui un articulo bastante completo acerca de la arquitectura BLoC: [https://medium.com/comunidad-flutter/implementa-arquitectura-a-tu-proyecto-flutter-usando-el-patrón-bloc-2cb031722166](https://medium.com/comunidad-flutter/implementa-arquitectura-a-tu-proyecto-flutter-usando-el-patr%C3%B3n-bloc-2cb031722166)
+	  *[CI]: Integración Continua
 
 * **Fernando Mellone** (4) [600239](https://platzi.com/comentario/600239/) 
 
 	El curso de [Fundamentos de Arquitectura de Software](https://platzi.com/clases/arquitectura-software/)
+	  *[CI]: Integración Continua
 
 	* **Fernando Mellone** [600239] (2)
 
 		Olvidé el curso de [POO](https://platzi.com/clases/oop/) y el de [Dart](https://platzi.com/clases/dart/) xD
+		  *[CI]: Integración Continua
 
 	* **Kevin Nick Pascual Tuesta** [600239] (2)
 
 		El de Dart no es tan difícil. Es mas fácil que aprender Kotlin. Hay cosas que extraño de Kotlin como son los NullSafety (? or !!) y When.
+		  *[CI]: Integración Continua
 
 * **José Colmenares** (3) [723703](https://platzi.com/comentario/723703/) 
 
 	Excelente clase Ann !
+	  *[CI]: Integración Continua
 
 * **David Galicia** (2) [904893](https://platzi.com/comentario/904893/) 
 
 	Genial! No solo aprenderé a usar mas cosas en Flutter complementando lo del anterior curso, también algo de arquitectura.
+	  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (2) [611813](https://platzi.com/comentario/611813/) 
 
 	Por fin pude entender como es el funcionamiento de BLoC. En otros tutos me perdía. Ahora sólamente falta es como aplicarlo.
+	  *[CI]: Integración Continua
 
 * **NILO RICARDO ABRIGATO** (2) [602689](https://platzi.com/comentario/602689/) 
 
 	Curso de fundamentos y arquitectura de software
+	  *[CI]: Integración Continua
 
 * **Jaime Ortiz** (1) [1032544](https://platzi.com/comentario/1032544/) 
 
 	Este video explica muy bien los conceptos para entender que es BLoC ([https://www.youtube.com/watch?v=vY4KmVqXEGE&t=605s](https://www.youtube.com/watch?v=vY4KmVqXEGE&t=605s))
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1024818](https://platzi.com/comentario/1024818/) 
 
 	Interesante la organizaciòn del proyecto
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1004524](https://platzi.com/comentario/1004524/) 
 
 	Excelente clase.
+	  *[CI]: Integración Continua
 
 * **RewelME** (1) [1002436](https://platzi.com/comentario/1002436/) 
 
 	Muy interesante como es la organizacion y/o posible arquitectura de los proyectos flutter
+	  *[CI]: Integración Continua
 
 * **jangove** (1) [983713](https://platzi.com/comentario/983713/) 
 
 	ESTA BUENA EL CURSO
+	  *[CI]: Integración Continua
 
 * **yuyuman** (1) [829916](https://platzi.com/comentario/829916/) 
 
 	estoy emocionado por avanzar
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [825842](https://platzi.com/comentario/825842/) 
 
 	Ok, this is new for me! 😃
+	  *[CI]: Integración Continua
 
 * **robertmezagarcia** (1) [800853](https://platzi.com/comentario/800853/) 
 
 	Gran clase, de verdad he aprendido mucho en esta plataforma
+	  *[CI]: Integración Continua
 
 * **Gerardo Montecinos** (1) [774709](https://platzi.com/comentario/774709/) 
 
 	Excelente…!  
 	Muy Puntual con la explicacion…
+	  *[CI]: Integración Continua
 
 * **Camilo Alexander Velandia Velandia** (1) [763287](https://platzi.com/comentario/763287/) 
 
 	excelente
+	  *[CI]: Integración Continua
 
 * **JAIME ALFREDO ZABALETA RAMIREZ** (1) [720364](https://platzi.com/comentario/720364/) 
 
 	Excelente clase, gracias
+	  *[CI]: Integración Continua
 
 * **Pablo Domínguez Durán** (1) [717393](https://platzi.com/comentario/717393/) 
 
 	Organización de un proyecto Flutter con BLoC pattern
+	  *[CI]: Integración Continua
 
 * **ahmedhamdan** (1) [715243](https://platzi.com/comentario/715243/) 
 
 	Gran clase y al fin estamos entrando en cosas mas interesantes
+	  *[CI]: Integración Continua
 
 * **webuser** (1) [675563](https://platzi.com/comentario/675563/) 
 
 	Que buena clase. Un concepto mas aprendido
+	  *[CI]: Integración Continua
 
 * **FerPM** (1) [635704](https://platzi.com/comentario/635704/) 
 
 	Ann:  
 	Gran clase! Muchas gracias.  
 	Me esta gustando mucho más este curso respecto al anterior.
+	  *[CI]: Integración Continua
 
 * **AndrsDev** (1) [609353](https://platzi.com/comentario/609353/) 
 
 	Bloc es una arquitectura muy buena y robusta! En mi opinión personal me gusta un poquito más implementar una arquitectura con el paquete [Provider](https://pub.dev/packages/provider)
+	  *[CI]: Integración Continua
 
 * **NILO RICARDO ABRIGATO** (1) [602693](https://platzi.com/comentario/602693/) 
 
 	curso de Dart
+	  *[CI]: Integración Continua
 
 * **zkmark9999** (1) [84358](https://platzi.com/comentario/1049182/) 
 mobx es una aquitectura? https://github.com/mobxjs/mobx.dart
+	  *[CI]: Integración Continua
 
 ## 0050. BLoC + Clean Architecture en Flutter [20221](https://platzi.com/clases/1603-flutter-avanzado/20221-bloc-clean-architecture-en-flutter/)
 
@@ -640,6 +764,7 @@ mobx es una aquitectura? https://github.com/mobxjs/mobx.dart
 En la clase anterior vimos que es **BLoC** , **BLoC Pattern** y cómo aplicarlo. En esta clase te explicaremos como hacer que el proyecto hable por sí solo de cómo funciona usando **BLoC + Clean Architecture**.
 
 Debemos recordar que nuestro proyecto debe ser legible para nuestros compañeros de trabajo y cualquier persona que lo lea; un plus a esto el proyecto debe ser entendible por sí solo.
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -658,92 +783,115 @@ Debemos recordar que nuestro proyecto debe ser legible para nuestros compañeros
 	Project **onboarding** is the process of enrolling resources to the project. The goal is to make sure that everyone involved in the project understands its business objectives and requirements, knows their role and the expected outcome of the project itself.  
 	This way team members can contribute fully to the project, spending less time on trying to figure it out and more actually completing their tasks.  
 	-[Fuente](https://teamdeck.io/project-management/project-onboarding/)
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [600265] (1)
 
 		Great!
+		  *[CI]: Integración Continua
 
 * **alafourcadedespaigne** (4) [961138](https://platzi.com/comentario/961138/) 
 
 	Habría que evaluar que tan conveniente es exponer tus entidades como lo dice Clean , cuando tu proyecto tenga 30 relaciones por ejemplo. Tendrías 30 carpetas donde cada una representa la entidad que quieres exponer. Sin embargo si usaras solamente bloc , tendrías las mismas carpetas de siempre , lo que en ese caso tendrías muchos archivos correspondientes a las entidades. Creo que es cuestión de evaluar el proyecto , pero de manera general fue un gran video de parte de Ann
+	  *[CI]: Integración Continua
 
 * **charlieg** (3) [610450](https://platzi.com/comentario/610450/) 
 
 	Un concepto tan simple, pero que a largo plazo puede traer beneficios al proyecto y a los equipos. Excelente tener este tipo de conocimientos para aplicarlo en futuros proyectos.
+	  *[CI]: Integración Continua
 
 * **Germán Arevalo Jerez** (2) [653949](https://platzi.com/comentario/653949/) 
 
 	Clean Architecture expone las entidades.
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1075025](https://platzi.com/comentario/1075025/) 
 
 	Genial se nota el cambio encuentra a la organizacion cuando se implementa una arquitetura
+	  *[CI]: Integración Continua
 
 * **jlsumba** (1) [1051752](https://platzi.com/comentario/1051752/) 
 
 	Empieza la explicación de BLoC + Clean
+	  *[CI]: Integración Continua
 
 * **Alejandro Robleto** (1) [994695](https://platzi.com/comentario/994695/) 
 	
 	![Captura de Pantalla 2020-02-19 a la\(s\) 13.48.49.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-19%20a%20la%28s%29%2013.48.49-f544353f-25a0-49a8-a75f-eb724cb7411e.jpg)
+	  *[CI]: Integración Continua
 
 * **Alejandro Robleto** (1) [994693](https://platzi.com/comentario/994693/) 
 	
 	![Captura de Pantalla 2020-02-19 a la\(s\) 13.48.33.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-19%20a%20la%28s%29%2013.48.33-5474dc45-7bb9-4e76-8b42-d36aba5f2409.jpg)
+	  *[CI]: Integración Continua
 
 * **David Galicia** (1) [905000](https://platzi.com/comentario/905000/) 
 
 	Pero que buena forma de organizar el proyecto , esto te da un mejor contexto de lo que hace la aplicación ademas de que aun se sigue separando modular mente.
+	  *[CI]: Integración Continua
 
 * **Alexander Mateo** (1) [884242](https://platzi.com/comentario/884242/) 
 
 	Muy interesante! 😃
+	  *[CI]: Integración Continua
 
 * **robertmezagarcia** (1) [800868](https://platzi.com/comentario/800868/) 
 
 	Bloc and clean architecture, una forma de organizar el código para que sea posible compartirlo y entendible dentro del grupo de trabajo
+	  *[CI]: Integración Continua
 
 * **Camilo Alexander Velandia Velandia** (1) [763295](https://platzi.com/comentario/763295/) 
 
 	BLoC+CLEAN
+	  *[CI]: Integración Continua
 
 * **Elias Ojeda Medina** (1) [740899](https://platzi.com/comentario/740899/) 
 
 	Excelente explicación, el curso va más allá al explicar sobre arquitectura
+	  *[CI]: Integración Continua
 
 * **Pablo Domínguez Durán** (1) [717414](https://platzi.com/comentario/717414/) 
 
 	Arquitectura de flutter con BLoC + Clean Architecture
+	  *[CI]: Integración Continua
 
 * **Felipe Donoso** (1) [641842](https://platzi.com/comentario/641842/) 
 
 	Explicas muy bien muchas gracias y se que el producto quedará con calidad.
+	  *[CI]: Integración Continua
 
 * **FerPM** (1) [635711](https://platzi.com/comentario/635711/) 
 
 	Simplemente me encantó como lo explcaste. Esta clase y la anterior.  
 	Súper!
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (1) [631646](https://platzi.com/comentario/631646/) 
 
 	Excxelente 😃
+	  *[CI]: Integración Continua
 
 * **Ricardo Romero Benitez** (1) [614389](https://platzi.com/comentario/614389/) 
 
 	No se puede ver el episodio 6, se queda cargando o directamente dice que estan actualizando la web.
+	  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [614389] (1)
 ¡Hola Ricardo! ¿Sigues teniendo este problema aún? Normalmente se debe a los servidores que puedes cambiar desde los ajustes de la clase
+		  *[CI]: Integración Continua
 
 	* **Ricardo Romero Benitez** [614389] (2)
 
 		Todo bien hasta ahora
+		  *[CI]: Integración Continua
 
 * **DracoClvo** (1) [83221](https://platzi.com/comentario/1022145/) 
 Tengo 2 entidades Usuario y Tarea, Tarea tiene su archivo Tarea_Cloud_FireStore_API.dart y tengo definidas las funciones que una tarea re...
+	  *[CI]: Integración Continua
 
 * **Luis Enrique Carreño Herreño** (1) [73783](https://platzi.com/comentario/841241/) 
 Los nombres de las carpetas de cada entidad no deberían ser en minúsculas?
+	  *[CI]: Integración Continua
 
 ## 0060. Estructurando nuestro proyecto utilizando la Arquitectura BLoC [20222](https://platzi.com/clases/1603-flutter-avanzado/20222-estructurando-nuestro-proyecto-utilizando-la-arqui/)
 
@@ -755,6 +903,7 @@ En este curso vamos a tomar como base el proyecto que hicimos en el [Curso de Fl
 Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo clonaremos en nuestra computadora para empezar a estructurar nuestro proyecto.
 
 [Repositorio de esta clase](<https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi.git> <https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/1.ArquitecturaBLoC>).
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -773,10 +922,12 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 	algo que me rompió la cabeza fue cambiar la ubicación de flutter en mi Android Studio, en Mac esta en Android Studio>Preferences>Languages & Frameworks  
 	El secreto es arreglar primero la ruta de nuestra carpeta de Flutter y dar apply, esto hará que se cargue nuestro Dart, reiniciar Android Studio(es necesario, me marcó error hasta que no lo hice) y luego funcionará todo perfecto.  
 	Espero que le pueda ayudar a alguien más =D
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [619675] (1)
 
 		¡Gracias!
+		  *[CI]: Integración Continua
 
 * **Alvaro Ruben Hurtado Maldonado** (6) [600238](https://platzi.com/comentario/600238/) 
 
@@ -785,10 +936,12 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 	    git clonehttps://github.com/alvarohurtadobo/Curso-de-Flutter-Avanzado-en-Platzi.git
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Gustavo Ramírez Apache** (5) [602299](https://platzi.com/comentario/602299/) 
 
 	Los que no estén familiarizados todavía con como se manejan algunos cursos acá, recuerden que para evitar tener que hacer eso a mano de estar organizando los imports y nombres que es tedioso cámbiense a la rama 1.ArquitecturaBLoC que ya esta lista con todo solo tienen que dar git checkout 1.ArquitecturaBLoC y quedarán en esa rama, si hicieron cambios y no los deja pasarse de rama usen el git reset --hard, recuerden que ese comando borra los cambios que hayan hecho.
+	  *[CI]: Integración Continua
 
 * **daniel herrera sánchez** (4) [925982](https://platzi.com/comentario/925982/) 
 
@@ -835,6 +988,7 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 	    
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **BoomVam** [925982] (1)
 
@@ -883,6 +1037,7 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 		    Este es de un proyecto llamado flutter_smart_course
 		    [https://github.com/TheAlphamerc/flutter_smart_course/blob/master/.gitignore]
 		```
+		  *[CI]: Integración Continua
 
 * **graphics** (4) [638005](https://platzi.com/comentario/638005/) 
 
@@ -893,18 +1048,22 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 	```
 	
 	Y para los que preguntan porque esta tan pesado el proyecto, es porque alguien olvido agregar el .gitignore para los archivos no necesarios.
+	  *[CI]: Integración Continua
 
 	* **Diego Alexander Forero Higuera (Platzi)** [638005] (7)
 
 		Es importante aprender como es una buena estructura del proyecto y aprender haciendo, la práctica es la que te va a permitir al momento de iniciar un nuevo proyecto crear la estructura del proyecto de forma rápida.
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [638005] (1)
 
 		Sí, es importante aprenden como aplicar la arquitectura.
+		  *[CI]: Integración Continua
 
 	* **José Colmenares** [638005] (2)
 
 		Siempre que planees construir una aplicación que sea legible para otros desarrolladores, escalable y mantenible en el tiempo, debes utilizar alguna arquitectura de archivos, de lo contrario nos vas a poder cumplir con los requisitos que acabo de mencionar.
+		  *[CI]: Integración Continua
 
 	* **Karl Heitmann** [638005] (1)
 
@@ -913,18 +1072,22 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 		Pero me hubiera gustado que Anahí hubiera dedicado una clase más a explicar _por qué_ metió cada archivo en cada carpeta. Que explicara un poco el trabajo que se dió antes de mover los archivos. Sería mi único reparo que tengo hasta ahora con la querida Profe.
 		
 		La parte clave de un proyecto, es saber como organizar los archivos. Y tomar la decisión de por qué tal elemento va aquí y no allá. Eso se adquiere con práctica.
+		  *[CI]: Integración Continua
 
 * **yuyuman** (3) [831238](https://platzi.com/comentario/831238/) 
 
 	dure mucho tiempo sin poder hacer funcionar el codigo al final lo resolvi corriendo flutter doctor en la consola de flutter y solo accepte las licencias y listo ya me dejaba agregar librerias
+	  *[CI]: Integración Continua
 
 * **de-jesus-meza-esteban** (3) [622341](https://platzi.com/comentario/622341/) 
 
 	ami no me deja crear directorios, solo dice package
+	  *[CI]: Integración Continua
 
 	* **VHugoBarnes** [622341] (1)
 
 		Al parecer es lo mismo, a mí también me sale ‘package’ 😃
+		  *[CI]: Integración Continua
 
 	* **Diana Carolina Quintero** [622341] (15)
 
@@ -936,10 +1099,12 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 		* Verás que en la parte superior dice: Mark as: Source, Test, Resources, etc. Pues desmarca “Source”, le las OK a los cambios y listo!!
 		
 		![ejemplo.png](https://static.platzi.com/media/user_upload/ejemplo-732ddb6c-f6e9-4a78-b8d0-2f9fb0c1f5f0.jpg)
+		  *[CI]: Integración Continua
 
 	* **David Galicia** [622341] (1)
 
 		Muchas gracias , me fue util la respuesta de KaroDev
+		  *[CI]: Integración Continua
 
 * **anncode** (3) [609424](https://platzi.com/comentario/609424/) 
 
@@ -954,10 +1119,12 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 	
 	Respondo a todas tus preguntas.  
 	Para eso estoy 🥰
+	  *[CI]: Integración Continua
 
 * **bynico** (2) [884987](https://platzi.com/comentario/884987/) 
 
 	Para no refactorizar los import a mano, cuando tengan todo ordenado, solamente borran los imports, y le dan control+space y le dan el import, eso se los hace automaticamente
+	  *[CI]: Integración Continua
 
 * **jlquichimbo** (2) [783538](https://platzi.com/comentario/783538/) 
 
@@ -965,74 +1132,93 @@ Le haremos _Fork_ al repositorio para tenerlo en nuestra cuenta de GitHub y lo c
 	`File - Settings - Languages & Frameworks - Dart.`
 	
 	Podemos copiar el path usado en un proyecto anterior, o descargarlo nuevamente desde la url.
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (2) [631656](https://platzi.com/comentario/631656/) 
 
 	Veo que ahora hay muchos más objetos en el proyecto 😃
+	  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (2) [613049](https://platzi.com/comentario/613049/) 
 
 	Puedes importar más fácilmente seleccionando el widget o la clase que está en rojo y presionando ALT + ENTER y selecciona la opción de import que aparece ahí.
+	  *[CI]: Integración Continua
 
 * **José Colmenares** (2) [601904](https://platzi.com/comentario/601904/) 
 
 	Si esta pesado el repo xD, no se si es un error pero a mi me sale que tienen 49 branches y pesa sobre los 700mb.
+	  *[CI]: Integración Continua
 
 	* **Iván Felipe Velasteguí Jaramillo** [601904] (2)
 
 		Si, contiene todas las ramas con los cambios ejecutados en cada clase, durante todo el curso.
+		  *[CI]: Integración Continua
 
 * **José Colmenares** (2) [67831](https://platzi.com/comentario/729900/) 
 Como se llamara el synth wave que puso de fondo cuando hizo el fast-fordward del refactor ?
+	  *[CI]: Integración Continua
 
 	* **Juan Felipe Peralta Zapata** [67831] (1)
 
 		¡Hola! Esta es la canción que usan. La puedes encontrar en **Amazon** , traté de buscarla en **Spotify** pero no la encontré. ![Screenshot_2019-10-20-21-44-18-963_com.android.chrome.png](https://static.platzi.com/media/user_upload/Screenshot_2019-10-20-21-44-18-963_com.android.chrome-8746a015-4557-4237-9134-1fcf56341c5b.jpg)
+		  *[CI]: Integración Continua
 
 * **Webmaster El Universo** (2) [61852](https://platzi.com/comentario/628716/) 
 Hola, descargue el repo… estoy tratando de ejecutarlo pero me da problemas con el kotklin uso linux y visual code, como puedo modificar p...
+	  *[CI]: Integración Continua
 
 	* **Carlos Garcia Castellanos** [61852] (1)
 
 		Que error te da ?
+		  *[CI]: Integración Continua
 
 * **Richard Eliseo Mendoza Gáfaro** (2) [61832](https://platzi.com/comentario/628328/) 
 Que version de Android Studio usan???
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1038586](https://platzi.com/comentario/1038586/) 
 
 	Buena forma de estructurar un proyecto
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1008740](https://platzi.com/comentario/1008740/) 
 Buen inicio, vamos con toda
+	  *[CI]: Integración Continua
 
 * **Alejandro Robleto** (1) [999208](https://platzi.com/comentario/999208/) 
 
 	Logrdo… ![Captura de Pantalla 2020-02-21 a la\(s\) 16.50.16.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-02-21%20a%20la%28s%29%2016.50.16-c9d7e35b-6235-4abf-abef-58e8873c19c8.jpg)
+	  *[CI]: Integración Continua
 
 * **Sebastian Alberto Bordi** (1) [958952](https://platzi.com/comentario/958952/) 
 
 	a lo 9:35 se corta el sonido del video y aparece una cancion
+	  *[CI]: Integración Continua
 
 	* **Julio Sadrash** [958952] (3)
 
 		es parte del video, hace un speed para no tener que mostrar todo(o es lo que creo)
+		  *[CI]: Integración Continua
 
 * **Sindy Johana Vergara Rodriguez** (1) [945719](https://platzi.com/comentario/945719/) 
 
 	Hola estoy revisando y android studio no me deja crear directorios dentro de lib, solo paquetes, pero no me deja crear un paquete dentro de otro
+	  *[CI]: Integración Continua
 
 	* **joserodrigomorenocordero** [945719] (1)
 
 		Intenta colocandolo en la vista de proyect Files
+		  *[CI]: Integración Continua
 
 	* **Julio Sadrash** [945719] (1)
 
 		hola, a mi me sucede lo mismo, como lo lograste?
+		  *[CI]: Integración Continua
 
 * **David Galicia** (1) [905631](https://platzi.com/comentario/905631/) 
 
 	Todo bien hasta aquí, es mejor bajar el proyecto así puedes seguir el curso sin problema.
+	  *[CI]: Integración Continua
 
 * **bynico** (1) [884959](https://platzi.com/comentario/884959/) 
 
@@ -1051,23 +1237,28 @@ Buen inicio, vamos con toda
 	
 	para saber si tienen algun otro problema.  
 	Saludos
+	  *[CI]: Integración Continua
 
 * **banuelos-diaz-edgar-raul** (1) [605685](https://platzi.com/comentario/605685/) 
 
 	Tengo duda; donde queda profile_trips.dart? yo lo puse en User/ui/widgets
+	  *[CI]: Integración Continua
 
 	* **anncode** [605685] (1)
 
 		En `User/ui/screens`
+		  *[CI]: Integración Continua
 
 * **emiibarra6** (1) [604881](https://platzi.com/comentario/604881/) 
 
 	Hola, alguien pudo descargar el proyecto? Por que pesa tanto?  
 	A mi me baja hasta los 300mb nomas 😦
+	  *[CI]: Integración Continua
 
 	* **cguascawt** [604881] (3)
 
 		Utiliza el git clone, lo acabo de descargar y perfecto <https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi.git>
+		  *[CI]: Integración Continua
 
 	* **anncode** [604881] (2)
 
@@ -1075,27 +1266,34 @@ Buen inicio, vamos con toda
 		Accede al proyecto como te está diciendo tu compañero.
 		
 		Haremos un ajuste para que sea muy sencillo descargarlo
+		  *[CI]: Integración Continua
 
 	* **Omar Jalil Fierro López** [604881] (2)
 
 		Yo también tuve problemas con el git clone, se descarga demasiado lento con el fork
+		  *[CI]: Integración Continua
 
 * **Walter Ugalde A** (1) [604221](https://platzi.com/comentario/604221/) 
 
 	Gracias, estas cosas hacen a este curso muy bueno, por que en la vida real, tenemos que aplicar todas estas tecnicas para que nuestros productos sean excelente.
+	  *[CI]: Integración Continua
 
 * **BoomVam** (1) [84720](https://platzi.com/comentario/1057309/) 
 ¿Que se debe importar a profile_place.dart? Hasta ahora tengo esto: import 'package:flutter/material.dart'; import 'package:platzi_...
+	  *[CI]: Integración Continua
 
 * **daniel herrera sánchez** (1) [78695](https://platzi.com/comentario/925963/) 
 Creo que se debería eliminar el .idea en el repo y el build ya que trae varias dependencias que hacen del repo se muy pesado. Deberíamos ...
+	  *[CI]: Integración Continua
 
 * **emiibarra6** (1) [60397](https://platzi.com/comentario/604881/) 
 Hola, alguien pudo descargar el proyecto? Por que pesa tanto? A mi me baja hasta los 300mb nomas 😦
+	  *[CI]: Integración Continua
 
 	* **cguascawt** [60397] (3)
 
 		Utiliza el git clone, lo acabo de descargar y perfecto <https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi.git>
+		  *[CI]: Integración Continua
 
 ## 0070. Haciendo BLoC Singleton en Flutter [20223](https://platzi.com/clases/1603-flutter-avanzado/20223-haciendo-bloc-singleton-en-flutter/)
 
@@ -1127,6 +1325,7 @@ Usaremos éste ejemplo para ilustrar lo que queremos hacer, recuerda que queremo
     
     
 ```
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -1141,68 +1340,83 @@ Usaremos éste ejemplo para ilustrar lo que queremos hacer, recuerda que queremo
 	Vi el curso de flutter básico y me encantó (gracia por el Ana!!), por ello seguí investigando por mi cuenta, y el camino que me tocó recorrer para entender el patrón bloc fue pasar primero por entender como funcionan los métodos propios de los stateful y stateless widgets, luego por el InheritedWidget (propio de flutter) y al final - ya habiendo entendido el tema de contexto- el patrón bloc con los respectivos streams y programación reactiva.
 	
 	Voy en orden con el curso, no sé si luego esto será topado, pero siento que faltó esa información antes de hablar sobre el patrón bloc.
+	  *[CI]: Integración Continua
 
 	* **anncode** [606172] (12)
 
 		Muchas gracias por tu feedback Robert!  
 		Lo tomo en cuenta y ya estoy pensando cómo hacer la curva más sencilla para llegar a este tema 😃
+		  *[CI]: Integración Continua
 
 	* **Emmanuel Guerra** [606172] (1)
 
 		Rostan, puedes compartir un link con la información o algún artículo?
+		  *[CI]: Integración Continua
 
 * **gabino18** (6) [601288](https://platzi.com/comentario/601288/) 
 
 	Para los que no conocen el patrón Singleton les comparto un link de una web que explica este patrón de manera bastante sencilla  
 	[SINGLETON](https://programacion.net/articulo/patrones_de_diseno_vi_patrones_de_creacion_singleton_1007)
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (5) [632710](https://platzi.com/comentario/632710/) 
 
 	Todo este tiempo desarrollando a ensayo y error para saber que NO se debe REINVENTAR la rueda.
+	  *[CI]: Integración Continua
 
 * **Sebastián Valencia Zapata** (4) [940830](https://platzi.com/comentario/940830/) 
 
 	**El proyecto no me corría **😦 me aparecíann un montón de errores y al final me marcaba **Gradle task assembleDebug failed with exit 1**. Después de probar muchas cosas, me funcionó cambiar el **minSdkVersion a 21** y el **targetSdkVersion a 28**. Esto en la ruta **android/app/build.gradle**.
 	
 	También pueden probar con el comando flutter clean en la consola, estando en el directorio de la aplicación.
+	  *[CI]: Integración Continua
 
 	* **william andres rodriguez borja** [940830] (3)
 
 		efectivamente yo tuve adicional a los pasos que tu hiciste hacer la migracion a androidX
 		
 		hay que abrir la carpeta de android de flutter directamente en android estudio luego refactor> migrate android X
+		  *[CI]: Integración Continua
 
 * **MitoCodeII** (2) [1012503](https://platzi.com/comentario/1012503/) 
 
 	Gran clase
+	  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (2) [617607](https://platzi.com/comentario/617607/) 
 
 	Gracias a este video entendí el patrón Singleton.
+	  *[CI]: Integración Continua
 
 * **gabino18** (2) [601279](https://platzi.com/comentario/601279/) 
 
 	Les comparto la URL del paquete de generic_bloc_provider  
 	[BLOC_PROVIDER](https://pub.dev/packages/generic_bloc_provider)
+	  *[CI]: Integración Continua
 
 * **Angel Bejarano** (1) [1059143](https://platzi.com/comentario/1059143/) 
 
 	Muchas Views relacionados a un mismo Bloc no creo alto acoplamiento y podria causar problemas a futuro? no hay forma de hacer Bloc y View mas descontraidas?
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [826075](https://platzi.com/comentario/826075/) 
 
 	Ok
+	  *[CI]: Integración Continua
 
 * **robertmezagarcia** (1) [805766](https://platzi.com/comentario/805766/) 
 
 	Genial!
+	  *[CI]: Integración Continua
 
 * **NILO RICARDO ABRIGATO** (1) [60736](https://platzi.com/comentario/610040/) 
 Cómo agrego el generic_bloc_provider al Android Studio?
+	  *[CI]: Integración Continua
 
 	* **AndresArdilaB** [60736] (1)
 
 		Cuando lo agregas al en **dependencies** Android Studio lo importa automáticamente.
+		  *[CI]: Integración Continua
 
 ## 0080. Aplicando Providers al Proyecto [20224](https://platzi.com/clases/1603-flutter-avanzado/20224-aplicando-providers-al-proyecto/)
 
@@ -1212,6 +1426,7 @@ Cómo agrego el generic_bloc_provider al Android Studio?
 Para instalar _generic_bloc_provider_ debemos dirigirnos a nuestro archivo `pubspec.yaml` que se encuentra en la raíz de nuestro proyecto y en la parte de `dependencies` agregamos la línea `generic_bloc_provider: ^1.0.9`, **recuerda dejar una correcta indentación en el documento para que no genere errores**. Luego en nuestro Android Studio le damos click a “Packages get” para integrar la librería a nuestro proyecto.
 
 Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/2.BLoCProviders).
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -1255,39 +1470,48 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	    )
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [640894] (3)
 
 		Interesante, buen aporte!
+		  *[CI]: Integración Continua
 
 * **Jose Carlo Rojas Mora** (6) [621659](https://platzi.com/comentario/621659/) 
 
 	Para windows no me funciono el ctrl + n, pero con ctrl + i les motrara la pantalla directa para implementar.
+	  *[CI]: Integración Continua
 
 	* **bynico** [621659] (1)
 
 		Gracias por el aporte, me sirvió para Ubuntu 😄
+		  *[CI]: Integración Continua
 
 	* **Santiago Rhenals** [621659] (1)
 
 		Muy buen aporte!
+		  *[CI]: Integración Continua
 
 * **israelhuaman** (4) [668984](https://platzi.com/comentario/668984/) 
 
 	los de VS que no les sale el crtl+n usen crtl+.
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1038734](https://platzi.com/comentario/1038734/) 
 
 	En proceso de entender el proceso de bloC
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1012560](https://platzi.com/comentario/1012560/) 
 
 	Aun no entnede muy bien el concepto de bloC, espero que en la siguientes clase se afiance mas este concepto, he leido bastante pero sigo sin entender por completo, Gran Clase
+	  *[CI]: Integración Continua
 
 	* **Jaime Ortiz** [1012560] (2)
 
 		Es que los conceptos son complicados porque no enseñaron las bases. El patron de BLoC se centra en el paradigma reactivo (programación asíncrona).  
 		Puedes ver este [video](https://www.youtube.com/watch?v=vY4KmVqXEGE&t=605s) para comprender los conceptos básicos de la programacion reactiva y asi poder entender el BLoC, que básicamente es lo mismo que explica en el vídeo, pero de una forma más fácil de aplicar.
+		  *[CI]: Integración Continua
 
 * **Alvaro Ruben Hurtado Maldonado** (1) [653754](https://platzi.com/comentario/653754/) 
 
@@ -1302,32 +1526,39 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	               child: MaterialApp()
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **federicomontero** (1) [644920](https://platzi.com/comentario/644920/) 
 
 	Yo tengo algo mal pero no se que es porque tengo todos los archivos en rojo y ya descargue e instale el Dart, el Flutter, actualice todo y no anda 😦
+	  *[CI]: Integración Continua
 
 	* **Diego Alexander Forero Higuera (Platzi)** [644920] (1)
 
 		Hola, tienes una captura de pantalla para entender mejor lo que te pasa.
+		  *[CI]: Integración Continua
 
 	* **Cristian Caballero** [644920] (1)
 
 		revisa las url en los import package
+		  *[CI]: Integración Continua
 
 	* **Karito Vargas Cruz** [644920] (2)
 
 		te falta importar los packetes,te recomiendo instalar el plugin Pubspec Assist para que automatices ese proceso
+		  *[CI]: Integración Continua
 
 	* **gianfrancogonzalez** [644920] (1)
 
 		Si alguien más tiene este problema, se solucions escribiendo en la paleta de comandos(Ctrl + shift + p): “Flutter: Get packages”
+		  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [644920] (1)
 
 		Me pasó lo mismo y después de probar muchas cosas, me funcionó cambiar el **minSdkVersion a 21** y el **targetSdkVersion a 28**. Esto en la ruta **android/app/build.gradle**
 		
 		También pueden probar con el **comando flutter clean** en la consola, estando en el directorio de la aplicación.
+		  *[CI]: Integración Continua
 
 * **federicomontero** (1) [644918](https://platzi.com/comentario/644918/) 
 
@@ -1340,21 +1571,26 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	_Flutter users should run`flutter pub get` instead of `pub get`.  
 	Process finished with exit code 69_  
 	Sabrian que es lo que estoy haciendo mal?
+	  *[CI]: Integración Continua
 
 	* **Diego Alexander Forero Higuera (Platzi)** [644918] (1)
 
 		El error indica que no tienes instalado el sdk de flutter.
+		  *[CI]: Integración Continua
 
 	* **Cristian Caballero** [644918] (1)
 
 		Tienes que ir a settings del proyecto y apuntar hacia la ruta de tu Flutter SDK
+		  *[CI]: Integración Continua
 
 * **Mario Vizcaino** (1) [626580](https://platzi.com/comentario/626580/) 
 
 	tengo una duda, que pasa en el caso de que sean más vistas ?, se debería tener cada bloc en el main o hay alguna forma de ir agregando cada provider?
+	  *[CI]: Integración Continua
 
 * **Christian Leonardo Marin Feo** (1) [80531](https://platzi.com/comentario/960773/) 
 No me queda claro como el Bloc provider llama a los distintos bloc de las diferentes vistas si la forma de aplicarlo es utilizando un úni...
+	  *[CI]: Integración Continua
 
 # Firebase y Flutter [4056]
 
@@ -1370,6 +1606,7 @@ Vamos a añadir un proyecto a Firebase, le colocaremos un nombre y finalmente cr
 Luego descargaremos un archivo llamado `google-services.json` el cual pondremos en la carpeta `app` de nuestro proyecto. Debemos cambiar la directiva `minSdkVersion` en el archivo `build.gradle` que está en la carpeta app al valor 21 para tener una mayor compatibilidad.
 
 Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar con él, iremos al archivo `build.gradle` que se encuentra en la raíz de nuestro proyecto, iremos a la parte de dependencias y añadiremos la línea de código que nos dice; ahora iremos al archivo `build.gradle` en la carpeta app para añadir otra implementación en la parte de dependencias, y nada más, cualquier otra configuración que diga Firebase para el SDK ya no es necesario para nuestro proyecto.
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -1385,10 +1622,12 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 * **Juan Luis Sánchez Cardoza** (5) [773990](https://platzi.com/comentario/773990/) 
 
 	[Acá ](https://stackoverflow.com/questions/51845559/generate-sha-1-for-flutter-app)tiene una forma de obtener el SHA01 directamente desde AndroidStudio.
+	  *[CI]: Integración Continua
 
 	* **David Galicia** [773990] (2)
 
 		Gracias me ayudo tu respuesta
+		  *[CI]: Integración Continua
 
 * **Joshval97** (5) [668297](https://platzi.com/comentario/668297/) 
 
@@ -1410,6 +1649,7 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	
 	
 	Ojo! si no quieren seguir los pasos pueden ver [este vídeo](https://www.youtube.com/watch?v=QvTdiwmq5cs) donde se explica paso a paso. Yo lamentablemente lo encontré luego de arreglarlo por mi cuenta después de ratos de investigar y probar varias cosas. 😉
+	  *[CI]: Integración Continua
 
 * **pedrogomezgutierrez** (4) [867940](https://platzi.com/comentario/867940/) 
 
@@ -1418,6 +1658,7 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	Una vez alli, en la parte superior derecha de la pantalla hay un boton con el elefatito de gradle, al presionarlo se desplagara una lista de los diferentes archivos gradle en nuestro proyecto.
 	
 	Al seleccionar el gradle(root), buscamos en Task -> android -> signingReports. Damos doble click alli, y esperamos a que por consola nos impriman todos los MD5 y SHA-01 relaccionados con nuestro proyecto
+	  *[CI]: Integración Continua
 
 * **graphics** (4) [657000](https://platzi.com/comentario/657000/) 
 
@@ -1426,41 +1667,50 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	    keytool -exportcert -keystore C:\Users\<your_user>\.android\debug.keystore -list -v
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **dgaribayr** [657000] (1)
 
 		Esto me funcionó, muchas gracias.
 		
 		Aclaro que solo me funcionó utilizando PowerShell, en los otros me mostraba un error.
+		  *[CI]: Integración Continua
 
 	* **Elias Ojeda Medina** [657000] (1)
 
 		Excelente, me funciono el comando
+		  *[CI]: Integración Continua
 
 	* **Pablo Domínguez Durán** [657000] (1)
 
 		En el git bash basta con poner ‘~/.android/debug.keystore’
+		  *[CI]: Integración Continua
 
 * **Martín Chalén Chang** (4) [629725](https://platzi.com/comentario/629725/) 
 
 	Ya existe una documentación oficial en Firebase para Integrarlo con Flutter, les recomiendo revisarlo.  
 	[https://firebase.google.com/docs/flutter/setup](url)
+	  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [629725] (1)
 
 		😱 Entonces se desactualizo el curso???..
+		  *[CI]: Integración Continua
 
 * **Luis Enrique Carreño Herreño** (3) [844873](https://platzi.com/comentario/844873/) 
 
 	Guia de Firebase para Flutter: <https://codelabs.developers.google.com/codelabs/flutter-firebase/>, si se hace exactamente al pie de la letra funciona pero con la versión 0.9.13 que menciona Anahí en el siguiente vídeo al incluir la dependencia cloud_firestore en el archivo pubspec.yaml
+	  *[CI]: Integración Continua
 
 * **strongo** (3) [774846](https://platzi.com/comentario/774846/) 
 
 	Hola chicos, en ciertas ocasiones desde windows no es tan fácil, sin embargo pueden acceder al folder de proyecto/android y ejecutar en la consola el comando ´´´gradlew signinReport´´´ allí en la consola podrán ver el SHA-1 asignado tanto al release como al debug.
+	  *[CI]: Integración Continua
 
 	* **enmacastillo** [774846] (1)
 
 		Jamas le doy un like a nadie pero te lo mereces. Gracias.
+		  *[CI]: Integración Continua
 
 * **Abdías Estrada** (2) [918586](https://platzi.com/comentario/918586/) 
 
@@ -1472,39 +1722,47 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	```
 	
 	Pueden usar las versiones que genera el proyecto de Flutter [updated minSdkVersion to API level 16](https://firebase.google.com/support/release-notes/android) Pueden leer más al respecto en [Google Play services distribution policy](https://android-developers.googleblog.com/2018/12/google-play-services-discontinuing.html)
+	  *[CI]: Integración Continua
 
 * **Diego Vicuna** (2) [824523](https://platzi.com/comentario/824523/) 
 
 	para crear tuve que usar: keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000  
 	y me funciono
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [824523] (1)
 
 		¡Gracias! Me ayudó.
+		  *[CI]: Integración Continua
 
 * **nelsonfacundo** (2) [783802](https://platzi.com/comentario/783802/) 
 
 	ami me funciono posicionandme en la ubicacion del keytoll eliminando la \ y listo me salio contrase;a pero solo presione enter y ya  
 	keytool -list -v  
 	-alias androiddebugkey -keystore C:\Users"PROGRAMADOR V 4.3".android\debug.keystore
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [783802] (1)
 
 		¡Mil gracias! Me sirvió.
+		  *[CI]: Integración Continua
 
 * **Pablo Domínguez Durán** (2) [745952](https://platzi.com/comentario/745952/) 
 
 	 **SPOILER ALERT** : Es **importantisímo **que generen el SHA-1 para al autenticación con GoogleSignIn
+	  *[CI]: Integración Continua
 
 	* **Juan Luis Sánchez Cardoza** [745952] (1)
 
 		¡Gracias!
+		  *[CI]: Integración Continua
 
 * **de-jesus-meza-esteban** (2) [617322](https://platzi.com/comentario/617322/) 
 
 	“keytool” no se reconoce como un comando interno o externo,  
 	programa o archivo por lotes ejecutable!  
 	Me sale este mensaje al momento de poner el comando, en windows!!!
+	  *[CI]: Integración Continua
 
 	* **We Connect Dev Team Corp** [617322] (1)
 
@@ -1512,6 +1770,7 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 		C:\Program Files\Java\jdk1.6.0_26\bin\keytool.exe
 		
 		y en esa carpeta abre el cmd y podras usar el comando
+		  *[CI]: Integración Continua
 
 	* **Alvaro Ruben Hurtado Maldonado** [617322] (2)
 
@@ -1521,30 +1780,37 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 		sudo apt-get install default-jre
 		
 		y ya tengran keytools
+		  *[CI]: Integración Continua
 
 * **elbuendaza** (2) [605216](https://platzi.com/comentario/605216/) 
 
 	tambien puedes sacar la huella sha1 en el mismo android studio en la parte derecha donde dice dradle->app->signingReport
+	  *[CI]: Integración Continua
 
 	* **Gustavo Ramírez Apache** [605216] (1)
 
 		No veo ningun dradle -> app
+		  *[CI]: Integración Continua
 
 * **Everson Vidal Mamani Huayta** (2) [604112](https://platzi.com/comentario/604112/) 
 
 	Ese forma de obtener el nombre del paquete de Android yo lo obtenía de otra forma que vi en videos de Youtube… app ->src ->main ->AndroidManifest.xml -> Package=“Nombre de la app” Pero la forma que lo hace Anncode es mas mejor grax…
+	  *[CI]: Integración Continua
 
 * **hansiruting** (1) [1066685](https://platzi.com/comentario/1066685/) 
 
 	Mmm… ya cuando hay que andar haciendo hacks, no me gusta, mas en el caso de productos de una misma empresa. Estas cosas me la “bajan”. Seguiré soñando con un mundo mejor.
+	  *[CI]: Integración Continua
 
 	* **Sergio Domínguez** [1066685] (1)
 
 		En qué momento hizo algo que no debería estar permitido?
+		  *[CI]: Integración Continua
 
 * **zkmark9999** (1) [1049358](https://platzi.com/comentario/1049358/) 
 
 	Seria bueno un curso de flutter + laravel como alternativa a firebase
+	  *[CI]: Integración Continua
 
 * **BoomVam** (1) [1031664](https://platzi.com/comentario/1031664/) 
 
@@ -1557,6 +1823,7 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	**Config:**  
 	**Store:**  
 	Y en una de esas va a aparecer **SHA1:** Alli encontraran el certificado de firma de depuracion SHA1 solo lo copian y lo pegan.
+	  *[CI]: Integración Continua
 
 * **BoomVam** (1) [1031637](https://platzi.com/comentario/1031637/) 
 
@@ -1565,36 +1832,44 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	    bash: keytool: command not found```
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Oscar Ortiz Valle** [1031637] (2)
 
 		No has integrado a tu computadora los comandos de keytool, mas abajo hay un vídeo donde te explican como agregarlo
+		  *[CI]: Integración Continua
 
 * **sergio-medina93** (1) [1019933](https://platzi.com/comentario/1019933/) 
 
 	No pude con el Shell de Windows. Entonces me acorde que la consola de Git es Linux por lo que la use y puse el código tal como lo puso Anahí y listo funcionó.
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1012845](https://platzi.com/comentario/1012845/) 
 
 	Casi no logro sacar la clave, a mi me funcion abriendo PowerShell como administrador y llendo a la ruta C:\Program Files\Java\jdk1.8.0_144\bin y ahi puse el comendo .\keytool -exportcert -keystore C:\Users\crisa.android\debug.keystore -list -v y funciono por si alguien tiene problemas, gran clase, vamos por vamas
+	  *[CI]: Integración Continua
 
 * **Luis Jose Altamirano** (1) [1010575](https://platzi.com/comentario/1010575/) 
 
 	<https://stackoverflow.com/questions/51845559/generate-sha-1-for-flutter-app>
 	
 	Esta pagina resolvio mis problemas
+	  *[CI]: Integración Continua
 
 * **Gabriel Rivera** (1) [1002784](https://platzi.com/comentario/1002784/) 
 
 	Esto del Keytool en Windows 10 lo resolví primero agregando la carpeta bin de java a las variables de entorno y luego con el comando keytool -exportcert -keystore C:\Users<USERNAME>.android\debug.keystore -list -v
+	  *[CI]: Integración Continua
 
 	* **zkmark9999** [1002784] (1)
 
 		ejemplo de como quedaron las veriables?
+		  *[CI]: Integración Continua
 
 * **Alejandro Endo** (1) [992225](https://platzi.com/comentario/992225/) 
 
 	Para los que tengan problema con que no les reconoce keytool tienen que agregar la carpeta bin del jdk de java a sus variables de entorno y después generar la clave.
+	  *[CI]: Integración Continua
 
 * **carlosarturocarlosarturo** (1) [950927](https://platzi.com/comentario/950927/) 
 
@@ -1603,16 +1878,19 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	## keytool -list -v -keystore “C:\Users\yourusernamehere.android\debug.keystore” -alias androiddebugkey -storepass android -keypass android
 	
 	Claro, donde dice yourusernamehere, va el nombre de su usuario !!
+	  *[CI]: Integración Continua
 
 	* **rony** [950927] (1)
 
 		bien gracias me ayudo
+		  *[CI]: Integración Continua
 
 * **joserodrigomorenocordero** (1) [950147](https://platzi.com/comentario/950147/) 
 
 	Casi no lo logro esto fue lo que funciono para mi
 	
 	keytool -list -v -alias androiddebugkey -keystore C:\Users\usuario.android\debug.keystore
+	  *[CI]: Integración Continua
 
 * **Jeffersson Muñoz Torres** (1) [946742](https://platzi.com/comentario/946742/) 
 
@@ -1620,15 +1898,18 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	<https://firebase.google.com/docs/flutter/setup>  
 	.  
 	_*Este es un aporte del compañero **Martín Chalén Chang** , recuperado para que no quede en el olvido_ 😅. _Porque es muy buena información._ 👍
+	  *[CI]: Integración Continua
 
 * **lucasleonelbloise** (1) [938830](https://platzi.com/comentario/938830/) 
 
 	Para los que tienen problemas en windows o les dice que no reconoce el keytool, este video me soluciono todos los problemas:  
 	[](https://www.youtube.com/watch?v=QvTdiwmq5cs)
+	  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [938830] (1)
 
 		No esta el vídeo compañero 😅
+		  *[CI]: Integración Continua
 
 * **walter** (1) [915788](https://platzi.com/comentario/915788/) 
 
@@ -1658,31 +1939,38 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	El operador ‘<’ está reservado para uso futuro.  
 	\+ CategoryInfo : ParserError: (😃 [], ParentContainsErrorRecordException  
 	\+ FullyQualifiedErrorId : RedirectionNotSupported
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [826124](https://platzi.com/comentario/826124/) 
 
 	todo bien por ahora 😃
+	  *[CI]: Integración Continua
 
 * **Silvia Valdespino Gutierrez** (1) [714620](https://platzi.com/comentario/714620/) 
 
 	En windows lo que me funciono fue:  
 	keytool -list -v -keystore C:\Users\TUUSUARIO.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+	  *[CI]: Integración Continua
 
 * **eder_ese** (1) [661714](https://platzi.com/comentario/661714/) 
 
 	No me permite escribir la contraseña “android”. Al llegar a este punto el teclado no escribe nada. Alguna sugerencia?
+	  *[CI]: Integración Continua
 
 	* **joshuaenriquezz** [661714] (2)
 
 		Es normal, cuando es una contraseña no se muestra pero si se escribe es como cuando sale **** en una interfaz gráfica
+		  *[CI]: Integración Continua
 
 	* **eder_ese** [661714] (1)
 
 		Cierto Joshua, mil gracias.
+		  *[CI]: Integración Continua
 
 	* **jangove** [661714] (1)
 
 		Por que algunos archivos de flutter cuando lo abro aparacen dañados
+		  *[CI]: Integración Continua
 
 * **Francisco Javier Vázquez Paredes** (1) [635060](https://platzi.com/comentario/635060/) 
 
@@ -1715,41 +2003,52 @@ Ahora añadiremos el SDK de Firebase en nuestro proyecto para empezar a trabajar
 	```
 	
 	y obtuve la clave SHA-01
+	  *[CI]: Integración Continua
 
 * **Mario Vizcaino** (1) [627392](https://platzi.com/comentario/627392/) 
 
 	por si a alguno le presento problemas al general la clave este [link](https://stackoverflow.com/questions/46958548/im-having-trouble-getting-sha1-certificate-with-keytool) me soluciono el problema.
+	  *[CI]: Integración Continua
 
 	* **Felipe Donoso** [627392] (1)
 
 		Vaya que sirvió saludosç11
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [627392] (1)
 
 		Gracias!
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [627392] (1)
 
 		Pero en clases posteriores ese sha1 no me sirve, debido a que me presenta error.
+		  *[CI]: Integración Continua
 
 * **zkmark9999** (1) [84372](https://platzi.com/comentario/1049382/) 
 Al ejecutar el comando de Authenticating Your Client Me sale El término ‘keytool’ no se reconoce como nombre de un cmdlet, función, archi...
+	  *[CI]: Integración Continua
 
 * **zkmark9999** (1) [84370](https://platzi.com/comentario/1049377/) 
 Al ejecutar le comando de aqui https://developers.google.com/android/g...
+	  *[CI]: Integración Continua
 
 * **Luna** (1) [81879](https://platzi.com/comentario/992052/) 
 Actualmente implemente login con Google y firebase para Android, sin embargo no logro hacerlo funcionar para login con Google para la we...
+	  *[CI]: Integración Continua
 
 	* **Juan Felipe Peralta Zapata** [81879] (1)
 
 		¡Hola! Cuando intentas esto ¿Te sale algún error? También, te comento que aquí en Platzi tenemos un curso de [Firebase para Web](https://platzi.com/clases/firebase-web/).
+		  *[CI]: Integración Continua
 
 * **Pablo Zenteno** (1) [81743](https://platzi.com/comentario/988796/) 
 Me da este error al ejecutar el comando para crear las key para android keytool -list -v \ -alias androiddebugkey -keystore ~/.and...
+	  *[CI]: Integración Continua
 
 * **robertmezagarcia** (1) [71898](https://platzi.com/comentario/805816/) 
 Tuve un problema que me decía “Error occurred during initialization of VM”
+	  *[CI]: Integración Continua
 
 	* **Moisés Cedeño** [71898] (1)
 
@@ -1760,13 +2059,16 @@ Tuve un problema que me decía “Error occurred during initialization of VM”
 		Java me dio a mi muchos problemas al momento de trabajar con Flutter, sería interesante desarrollar con Flutter pero desde Docker. Creo que esto nos libraría de problemas, lo voy a revisar.
 		
 		Espero puedas solucionar.
+		  *[CI]: Integración Continua
 
 * **ALOBO222** (1) [68998](https://platzi.com/comentario/749560/) 
 Me da este error: keytool error: java.lang.Exception: Only one command is allowed: both -exportcert and -list were specified.
+	  *[CI]: Integración Continua
 
 	* **strongo** [68998] (1)
 
 		Intenta quitando el flag -exportcert, si esto no te funciona intenta cambiando a la version 8 del JRE
+		  *[CI]: Integración Continua
 
 ## 0100. Integrando Firebase a Flutter para Android [20226](https://platzi.com/clases/1603-flutter-avanzado/20226-integrando-firebase-a-flutter-para-android/)
 
@@ -1799,6 +2101,7 @@ Repasemos los puntos que haremos con Android:
 Ahora iremos a nuestro archivo `pubspect.yaml` y vamos a colocar las siguientes dependencias: Firebase_auth, google_sign_in, firebase_storage y cloud_firestore; las cuales puedes encontrar en el [repositorio de paquetes de Dart](https://pub.dev/packages)
 
 Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/3.FirebaseAndroid).
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -1829,18 +2132,22 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	<https://docs.google.com/document/d/16Csy9CEjTx9Bt6vcTJY4DpLtCe2DOCKdDkogXAHu9iw/edit>
 	
 	Espero les sirva 😉
+	  *[CI]: Integración Continua
 
 	* **Omar Jalil Fierro López** [826186] (2)
 
 		Rifado, gracias
+		  *[CI]: Integración Continua
 
 	* **Alexis** [826186] (2)
 
 		Muchas gracias!!
+		  *[CI]: Integración Continua
 
 	* **dsacchileacademia** [826186] (1)
 
 		Muchas gracias !!!, que raro que no se exponga esto en el grupo de platzi
+		  *[CI]: Integración Continua
 
 * **Arley Hernández Rodríguez** (6) [600246](https://platzi.com/comentario/600246/) 
 
@@ -1858,22 +2165,27 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	`google_sign_in:`  
 	`firebase_storage: ^2.1.0`  
 	`cloud_firestore: ^0.9.13`
+	  *[CI]: Integración Continua
 
 * **Mario Vizcaino** (4) [627833](https://platzi.com/comentario/627833/) 
 
 	Si a alguien le presenta problemas la app para correr, puede intentar abrir el proyecto de android desde android studio y este mismo le pedirá las dependencias faltantes para correr.
+	  *[CI]: Integración Continua
 
 	* **Felipe Concha Almeida** [627833] (2)
 
 		Si pero hay dependencias que se agregan a nivel de Flutter y no de Android.
+		  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [627833] (1)
 
 		Muy buen tip , pero recomiendo conocer el porque de los cambios se están implementando para así corregir issues futuros.
+		  *[CI]: Integración Continua
 
 * **yuyuman** (2) [832576](https://platzi.com/comentario/832576/) 
 
 	ya pasaron algunos meses del curso y hay algunos packages que no funcionan ya con la version de flutter si quieren que no les pase eso busquenlos en esta pagina y la opcion de install lo copian y lo pegan en las dependencias [zelda](https://pub.dev/packages/)
+	  *[CI]: Integración Continua
 
 * **JCMeza** (2) [776549](https://platzi.com/comentario/776549/) 
 
@@ -1882,10 +2194,12 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	Lo que tuve que hacer es bajar de nuevo una copia del repositorio, reemplazarlos y cualquier modificación que requiero hacer, mejor lo abro en Sublime.
 	
 	Este detalle me llevo medio día.
+	  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [776549] (1)
 
 		Derrepente necesitas actualizar el Android Studio
+		  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (2) [619174](https://platzi.com/comentario/619174/) 
 
@@ -1894,18 +2208,22 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	flutter clean
 	
 	Esto se hace mas que todo cuando se baja un proyecto de un repositorio o se hace un git clone.
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (2) [611907](https://platzi.com/comentario/611907/) 
 
 	Agreguen la libreria de firebase_core, si bien no da problema a simple vista hara que algunas cosas no funcionen al 100
+	  *[CI]: Integración Continua
 
 * **banuelos-diaz-edgar-raul** (2) [60516](https://platzi.com/comentario/606755/) 
 Estoy utilizando VSC, como le hago para bajar los SDK de android?
+	  *[CI]: Integración Continua
 
 	* **Manuel Ojeda** [60516] (1)
 
 		Puedes consultar aquí:  
 		<https://docs.elementscompiler.com/VisualStudio/Setup/AndroidSDK/>
+		  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1076910](https://platzi.com/comentario/1076910/) 
 
@@ -1913,6 +2231,7 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	
 	compileSdkVersion 28  
 	targetSdkVersion 28
+	  *[CI]: Integración Continua
 
 * **graph** (1) [1074961](https://platzi.com/comentario/1074961/) 
 
@@ -1934,6 +2253,7 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	    Exited (sigterm)
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **BoomVam** (1) [1068726](https://platzi.com/comentario/1068726/) 
 
@@ -1991,10 +2311,12 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	2020-03-26 21:53:19.572 1153-1816/? E/ExecutionCriteria: Package unavailable for task: com.wordviewer.word.docx.reader/com.firebase.jobdispatcher.GooglePlayReceiver{u=0 tag=“com.wordviewer.word.docx.reader-job” trigger=window{start=0s,end=1500s,earliest=-21695561s,latest=-21694061s} requirements=[NET_ANY] attributes=[PERSISTED,RECURRING] scheduled=-21695561s last_run=N/A jid=N/A status=PENDING retries=0 client_lib=FIREBASE_JOB_DISPATCHER-1}  
 	2020-03-26 21:53:20.282 1153-1816/? E/ExecutionCriteria: Package unavailable for task: com.wordviewer.word.docx.reader/com.firebase.jobdispatcher.GooglePlayReceiver{u=0 tag=“com.wordviewer.word.docx.reader-job” trigger=window{start=0s,end=1500s,earliest=-21695562s,latest=-21694062s} requirements=[NET_ANY] attributes=[PERSISTED,RECURRING] scheduled=-21695562s last_run=N/A jid=N/A status=PENDING retries=0 client_lib=FIREBASE_JOB_DISPATCHER-1}  
 	2020-03-26 21:53:20.324 1153-1816/? E/ExecutionCriteria: Package unavailable for task: com.wordviewer.word.docx.reader/com.firebase.jobdispatcher.GooglePlayReceiver{u=0 tag=“com.wordviewer.word.docx.reader-job” trigger=window{start=0s,end=1500s,earliest=-21695562s,latest=-21694062s} requirements=[NET_ANY] attributes=[PERSISTED,RECURRING] scheduled=-21695562s last_run=N/A jid=N/A status=PENDING retries=0 client_lib=FIREBASE_JOB_DISPATCHER-1}
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1051315](https://platzi.com/comentario/1051315/) 
 
 	Integrando FIrebase
+	  *[CI]: Integración Continua
 
 * **Oscar Ortiz Valle** (1) [1028565](https://platzi.com/comentario/1028565/) 
 
@@ -2022,30 +2344,37 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	
 	BUILD FAILED in 2s  
 	Finished with error: Gradle task assembleDebug failed with exit code 1
+	  *[CI]: Integración Continua
 
 	* **operez12** [1028565] (1)
 
 		hola tienes que actualizar las dependencia de firebase y luego revisar la version del sdk que esta compilando al celular, eso me paso ayer.
+		  *[CI]: Integración Continua
 
 	* **BoomVam** [1028565] (1)
 
 		Hola operez12, como se hace eso?
+		  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1012904](https://platzi.com/comentario/1012904/) 
 
 	Perfecto, reinicie Android Studio y funciono para mi, gran clase
+	  *[CI]: Integración Continua
 
 * **davidsc34** (1) [990695](https://platzi.com/comentario/990695/) 
 
 	Esta configuracion apartir de que version de android funcionaria, yo en mi cel tengo la version 7, funcionaria? o como puedo hacer que sea compatible con mas veriones de android?. Saludos espero me puedan ayudar compañeros. GRacias
+	  *[CI]: Integración Continua
 
 	* **happiestack** [990695] (1)
 
 		A partir de lollipop, pero esto es por agregar Firestore, si usas la base de datos json normal de firebase puedes en versiones anteriores a lollipop
+		  *[CI]: Integración Continua
 
 	* **davidsc34** [990695] (1)
 
 		Muchas gracias amigo,por la ayuda
+		  *[CI]: Integración Continua
 
 * **Julio Sadrash** (1) [973403](https://platzi.com/comentario/973403/) 
 
@@ -2080,16 +2409,19 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	Finished with error: Please review your Gradle project setup in the android/ folder.`
 	
 	![](!%5BImagen1.png%5D\(https://static.platzi.com/media/user_upload/Imagen1-c467a11e-da4e-46c8-bce0-eb939eabb677.jpg\))
+	  *[CI]: Integración Continua
 
 * **Sindy Johana Vergara Rodriguez** (1) [955586](https://platzi.com/comentario/955586/) 
 
 	Tengo el siguiente error para android, desde windows  
 	E/flutter ( 2035): [ERROR:flutter/lib/ui/ui_dart_state.cc(157)] Unhandled Exception: PlatformException(sign_in_failed, com.google.android.gms.common.api.ApiException: 12500: , null)
+	  *[CI]: Integración Continua
 
 * **joserodrigomorenocordero** (1) [950242](https://platzi.com/comentario/950242/) 
 
 	No hay solución que sea compatible con versiones anteriores a la 28?? esto limita a unos pocos dispositivos  
 	😦
+	  *[CI]: Integración Continua
 
 * **Jaime Mena** (1) [904716](https://platzi.com/comentario/904716/) 
 
@@ -2097,10 +2429,12 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	Este es el error:  
 	Module ‘cloud_firestore’ not found  
 	GeneratedPluginRegistrant.m
+	  *[CI]: Integración Continua
 
 * **ErikaPM** (1) [860742](https://platzi.com/comentario/860742/) 
 
 	Me presentaba este error al correr ERROR: [TAG] Failed to resolve variable ‘${animal.sniffer.version}’, pude resolverlo invalidando los cachés en el menú File de Android Studio. 😃
+	  *[CI]: Integración Continua
 
 	* **Sebastian Chicoma Sandmann** [860742] (3)
 
@@ -2120,6 +2454,7 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 		
 		
 		Y listo, problema resuelto 😃
+		  *[CI]: Integración Continua
 
 * **robertmezagarcia** (1) [810484](https://platzi.com/comentario/810484/) 
 
@@ -2127,10 +2462,12 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	Ayuda por favor  
 	Running Gradle task ‘assembleDebug’…  
 	Finished with error: Gradle task assembleDebug failed with exit code 1
+	  *[CI]: Integración Continua
 
 	* **Diego Vicuna** [810484] (1)
 
 		que version de kotlin usas? yo solucione actualizando mi version a la 1.3.10 en el build.gradle
+		  *[CI]: Integración Continua
 
 * **nelsonfacundo** (1) [799552](https://platzi.com/comentario/799552/) 
 
@@ -2161,6 +2498,7 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	    
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **jlquichimbo** (1) [784178](https://platzi.com/comentario/784178/) 
 
@@ -2171,22 +2509,27 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	    A GlobalKey was used multiple times inside one widget's child list.
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **jlquichimbo** [784178] (2)
 
 		Se corrigió reiniciando todo. 😄
+		  *[CI]: Integración Continua
 
 	* **nelsonfacundo** [784178] (1)
 
 		alguien me puede ayuda
+		  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [784178] (1)
 
 		Típico de Android Studio aveces se cuelga jeje
+		  *[CI]: Integración Continua
 
 * **Pablo Domínguez Durán** (1) [742058](https://platzi.com/comentario/742058/) 
 
 	Súper trucos! Por mi cuenta y con los builds de Firebase fallando mi proyecto se detuvo 2 semanas
+	  *[CI]: Integración Continua
 
 * **Alejandro** (1) [731846](https://platzi.com/comentario/731846/) 
 
@@ -2195,26 +2538,31 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	    ERROR: [TAG] Failed toresolvevariable'${animal.sniffer.version}'
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Silvia Valdespino Gutierrez** (1) [714661](https://platzi.com/comentario/714661/) 
 
 	Ya viene en el archivo gradle.properties estas  
 	android.useAndroidX=true  
 	android.enableJetifier=true
+	  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [714661] (1)
 
 		Es que depende del numero de commit que hayas descargado el proyecto 😅
+		  *[CI]: Integración Continua
 
 * **Carlos Andrés Millan Satizabal** (1) [619136](https://platzi.com/comentario/619136/) 
 
 	La nueva dirección de los paquetes es:
 	
 	<https://pub.dev/packages/>
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (1) [611900](https://platzi.com/comentario/611900/) 
 
 	Al abrir el proyecto en android studio pueden decirle que habra solo la parte de android y despues decirle que lo migre a AndroidX.
+	  *[CI]: Integración Continua
 
 * **Gustavo Ramírez Apache** (1) [610094](https://platzi.com/comentario/610094/) 
 
@@ -2287,42 +2635,53 @@ Estoy utilizando VSC, como le hago para bajar los SDK de android?
 	    #50     _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:172:5)
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **José Mauricio Chavarría** (1) [603397](https://platzi.com/comentario/603397/) 
 
 	Por qué a firebase_auth y google_sign_in no se le pone número de versión?
+	  *[CI]: Integración Continua
 
 	* **farick mena** [603397] (4)
 
 		No se le pone numero de versión, para que Flutter utilice la ultima versión de ese plugin.
+		  *[CI]: Integración Continua
 
 	* **José Mauricio Chavarría** [603397] (1)
 
 		Gracias!
+		  *[CI]: Integración Continua
 
 	* **Everson Vidal Mamani Huayta** [603397] (1)
 
 		se puede aplicar lo mismo en las demas packages… te lo permite, no siempre son esos 2 ejemplos…
+		  *[CI]: Integración Continua
 
 * **David Galicia** (1) [77644](https://platzi.com/comentario/907230/) 
 Todo bien hasta aquí solo me queda la duda de ¿Hay alguna razón por la cual cambiar a un dispositivo físico a partir de esta clase o pod...
+	  *[CI]: Integración Continua
 
 * **DracoClvo** (1) [72686](https://platzi.com/comentario/820550/) 
 me salio este error alguien sabe que hacer? Because platzi_trips depends on google_sing_in any which doesn't exist (could not find ...
+	  *[CI]: Integración Continua
 
 * **davidcobacasas** (1) [65148](https://platzi.com/comentario/686714/) 
 Hola. Como puedo saber si mi app de flutter se conecto a firebase, parece que la página de firebase a cambiado y la no muestra que la app...
+	  *[CI]: Integración Continua
 
 	* **Nicolas Beltrami** [65148] (2)
 
 		Lo que hice yo, fue luego de instalar las dependencias, levanté la app y revisé que la consola de depuración no me entregara ningún error, también noté que cambió pero al menos te avisa cuando no se pudo conectar.
+		  *[CI]: Integración Continua
 
 * **José Mauricio Chavarría** (1) [60287](https://platzi.com/comentario/603397/) 
 Por qué a firebase_auth y google_sign_in no se le pone número de versión?
+	  *[CI]: Integración Continua
 
 	* **farick mena** [60287] (4)
 
 		No se le pone numero de versión, para que Flutter utilice la ultima versión de ese plugin.
+		  *[CI]: Integración Continua
 
 * **Lenin Ramiro Torres Larco** (0) [1026993](https://platzi.com/comentario/1026993/) 
 
@@ -2330,15 +2689,18 @@ Por qué a firebase_auth y google_sign_in no se le pone número de versión?
 	build.gradle  
 	(40, 12) // TODO: Specify your own unique Application ID (<https://developer.android.com/studio/build/application-id.html>).  
 	(52, 16) // TODO: Add your own signing config for the release build.
+	  *[CI]: Integración Continua
 
 * **Alvaro Ruben Hurtado Maldonado** (0) [861503](https://platzi.com/comentario/861503/) 
 
 	que pasos se debe seguir para configurar.  
 	que otro colaborador tenga acceso al proyecto firebase y proyecto flutter?
+	  *[CI]: Integración Continua
 
 	* **Jeffersson Muñoz Torres** [861503] (1)
 
 		Si deseas que otro colaborador tenga visualización de la data en la plataforma de Firebase existe una sección donde puedes agregarlos como Editor de en la misma plataforma. Si lo que deseas es que todos consuman de la misma base de datos tendrías que compartir tus credenciales del proyecto como APIKey, etc. Si deseas un espacio colaborativo para el desarrollo de la aplicación de Flutter te recomiendo los cursos de GitLab y GitHub de Platzi para que los implementes adecuadamente a tus necesidades. Exitos ! 👍
+		  *[CI]: Integración Continua
 
 ## 0110. Integrando Firebase a Flutter para iOS [20227](https://platzi.com/clases/1603-flutter-avanzado/20227-integrando-firebase-a-flutter-para-ios/)
 
@@ -2361,6 +2723,7 @@ Repasemos los puntos que irán en este vídeo:
 
 
 Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/4.FirebaseiOS).
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -2377,12 +2740,14 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	Considero que hay otras cosas mas sobre Flutter que se puede hablar (estoy siguiendo a la par el 3er curso de la otra plataforma tambien), antes de empezar a verlo integrada con una tecnologia como Firebase, y hasta me parece que podria ir como un curso a parte.
 	
 	o en su defecto tendria que ir al final de todo el curso avanzado como algo agregado, asi como hicieron con Dart , no tan atinado pero bueno, al menos lo pusieron al final de todo. Igual acabaré el curso ,la app y aprobaré el examen mas adelante como lo hice con los 2 anteriores, pero debo hacer un alto acá para ir a la otra plataforma a continuar con lo que considero el camino correcto antes de ver integracion con firebase, me parece se comieron una gran parte de temas a tratar antes de tocar Flutter con Firebase. Como digo incluso podría hacerse como un curso a parte, incluso despues de aprender a trabajar con BD, luego de aprender a consumir servicios en general, etc. Me encanto ver el tema de arquitectura, pero luego creo que se salieron del camino. Con lo cual tanto el curso de Dart y Flutter me parecieron muy ordenados, pero este desafortunadamente no. 👎 . No me afecta mucho el tema de firebase ya que ya lo he manejado en mis apps android y uso mi mac sin problemas para IOS, pero a alguien que recien empieza podria serle confuso y ni siquiera tener una mac para probar que todo lo que esta haciendo le va bien (de hecho la profesora lo comenta antes de iniciar con Firebase), de hecho lo he leido en los comentarios de algunos compañeros. Es una critica con buena onda. Volvi a Platzi despues de mucho tiempo, por una oferta de Freddy(gracias freddy 😄) y me lleve un buen sabor de boca con los 2 primeros cursos que hicieron interesarme mas en la tecnologia Flutter y aprenderlo ahora si de verdad, tanto que adquiri tambien una suscripcion en otra plataforma para complementar todo Flutter, (de hecho voy a continuar con mi suscripcion en platzi por los cursos de IOS), pero el tercer curso de Flutter (Flutter avanzado) me parece fuera de tiempo en la linea de aprendizaje de esta tecnologia, hay mas cosas que se podrian ver antes de juntarlo con Firebase.
+	  *[CI]: Integración Continua
 
 * **Francisco Javier Vázquez Paredes** (4) [635535](https://platzi.com/comentario/635535/) 
 
 	En mi caso, para poder ejecutar el pod update Firebase tuve que ejecutar primero la aplicación en el simulador de iOS.
 	
 	Con eso se crea el archivo Podfile y ya se puede ejecutar el comando para actualizar Firebase.
+	  *[CI]: Integración Continua
 
 * **AndresArdilaB** (4) [607716](https://platzi.com/comentario/607716/) 
 
@@ -2391,10 +2756,12 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	<https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/4.FirebaseiOS/ios>
 	
 	Después si podrán ejecutarlo.
+	  *[CI]: Integración Continua
 
 * **Mario Vizcaino** (3) [627888](https://platzi.com/comentario/627888/) 
 
 	se debe ejecutar pod install antes de pod update Firebase
+	  *[CI]: Integración Continua
 
 * **Amaru Ugaz** (2) [1040679](https://platzi.com/comentario/1040679/) 
 
@@ -2417,32 +2784,40 @@ Aquí puedes acceder al [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	    	bytes in/out: 0/0, packets in/out: 0/0, rtt: 0.000s, retransmitted packets: 0, out-of-order packets: 0```
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Maria Isabel Orozco R** [1040679] (1)
 
 		Hola! Me está pasando lo mismo, exactamente igual, ¿cómo lo solucionaste?
+		  *[CI]: Integración Continua
 
 	* **Angel Bejarano** [1040679] (1)
 
 		Bro no se si solucionaste, pero me paso lo mismo y que hice fue eliminar las app que ya tenia del proyecto en el simulador y volvi a compilar.
+		  *[CI]: Integración Continua
 
 * **jangove** (2) [990010](https://platzi.com/comentario/990010/) 
 
 	me sale desabilitare la opcion de fluuter con IOS CUAL SERIA EL PROBLEMA?
+	  *[CI]: Integración Continua
 
 * **IACORTEZ** (2) [62884](https://platzi.com/comentario/647736/) 
 me he quedado atorado en la parte de actualizar Firebase, me dice que el command not found!! ayuda porfavor.
+	  *[CI]: Integración Continua
 
 	* **Diego Alexander Forero Higuera (Platzi)** [62884] (1)
 
 		Qué comando estas ejecutando exactamente?, puedes compartir una captura de pantalla de la terminal/consola
+		  *[CI]: Integración Continua
 
 * **cryptt3r** (2) [61144](https://platzi.com/comentario/617048/) 
 ¿Si estoy desarrollando en VS Code cómo puedo hacer para generar los archivos Podfile y Podfile.lock si...
+	  *[CI]: Integración Continua
 
 	* **fabian82** [61144] (1)
 
 		Tengo la misma pregunta !!!
+		  *[CI]: Integración Continua
 
 * **Guillermo Granda** (1) [1076050](https://platzi.com/comentario/1076050/) 
 
@@ -2477,14 +2852,17 @@ me he quedado atorado en la parte de actualizar Firebase, me dice que el command
 	    Syncing files to device SM G9650...
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **webuser** (1) [997083](https://platzi.com/comentario/997083/) 
 
 	Hola Estoy siguiendo el curso al pie de la letas. Hasta ahora todo al 100%, pero yo tengo Ubuntu. Como puedo identificar los datos para registrar el producto en firebase?
+	  *[CI]: Integración Continua
 
 	* **Gabriel De Andrade** [997083] (1)
 
 		La verdad es que el desarrollo iOS es exclusivo para Mac 😦
+		  *[CI]: Integración Continua
 
 * **daniel herrera sánchez** (1) [927769](https://platzi.com/comentario/927769/) 
 
@@ -2498,10 +2876,12 @@ me he quedado atorado en la parte de actualizar Firebase, me dice que el command
 	```
 	
 	luego si les debe funcionar pero recuerden cerrar la terminal
+	  *[CI]: Integración Continua
 
 * **Carlos Andrés Ruiz Barrera** (1) [879116](https://platzi.com/comentario/879116/) 
 
 	Recomiendo cuando hagan estos cambios tan criticos hacer un flutter clean dentro del directorio del proyecto ya que así te puedes evitar errores del entorno de programación (En mi caso Visual Studio Code)
+	  *[CI]: Integración Continua
 
 * **jorge-hernandez** (1) [839697](https://platzi.com/comentario/839697/) 
 
@@ -2514,18 +2894,22 @@ me he quedado atorado en la parte de actualizar Firebase, me dice que el command
 	Es como un gradle pero para iOS , el update sirve para actualizar el firebase y realmente yo recomendaría en lugar de hacer el update hacer un :  
 	pod install  
 	posiblemente sirva mejor =)
+	  *[CI]: Integración Continua
 
 * **javierriofrio** (1) [803615](https://platzi.com/comentario/803615/) 
 
 	En mi caso me toco crear el archivo Podfile.lock a partir del repositorio de github <https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/4.FirebaseiOS/ios>
+	  *[CI]: Integración Continua
 
 * **de-jesus-meza-esteban** (1) [618794](https://platzi.com/comentario/618794/) 
 
 	yo no tengo una mac, como puedo emular mi aplicación para ios.!!!
+	  *[CI]: Integración Continua
 
 	* **Francisco Javier Morales Jiménez** [618794] (2)
 
 		No se puede, se necesita por fuerza el sistema operativo iOS. Tal vez puedes bajar alguna maquina virtual de iOS y correr todo el proyecto desde ahí, pero no hay muchas y no se que tan estables (recomendadas) sean.
+		  *[CI]: Integración Continua
 
 	* **Joshval97** [618794] (5)
 
@@ -2536,21 +2920,26 @@ me he quedado atorado en la parte de actualizar Firebase, me dice que el command
 		servidores MacinCloud desde cualquier lugar con acceso a Internet para desarrollar aplicaciones y realizar tareas que requieren una Mac.”
 		
 		Esta opción no la he usado realmente, pero de parte de algunos desarrolladores amigos he escuchado que es un buen servicio si no tienes intención o dinero para una Mac.
+		  *[CI]: Integración Continua
 
 	* **ricindigus** [618794] (1)
 
 		Una MAC seria lo mejor, no se si bastara con una solucion en la nube.  
 		Yo que tu me concentraria que corra todo por ahora en Android.
+		  *[CI]: Integración Continua
 
 * **webuser** (1) [82087](https://platzi.com/comentario/997107/) 
 Hola Estoy siguiendo el curso al pie de la letra. Hasta ahora todo al 100%, pero yo tengo Ubuntu. Como puedo identificar los datos para r...
+	  *[CI]: Integración Continua
 
 	* **Gabriel De Andrade** [82087] (1)
 
 		Hola! La verdad es que el desarrollo de iOS está exclusivo para Mac, no lo puedes hacer en otro sistema operativo 😞
+		  *[CI]: Integración Continua
 
 * **David Galicia** (1) [77652](https://platzi.com/comentario/907359/) 
 ¿Es posible hacer la parte en que utiliza XCode si estoy en Windows usando Android Studio?
+	  *[CI]: Integración Continua
 
 ## 0120. Creación de Pantalla de Login con Flutter [20228](https://platzi.com/clases/1603-flutter-avanzado/20228-creacion-de-pantalla-de-login-con-flutter/)
 
@@ -2558,32 +2947,39 @@ Hola Estoy siguiendo el curso al pie de la letra. Hasta ahora todo al 100%, pero
 
 
 Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/5.SignInScreen).
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **charlieg** (18) [620097](https://platzi.com/comentario/620097/) 
 
 	Para crear StatefulWidgets en Android Studio es más rápido hacerlo escribiendo: **stful**. Igual para el caso de StatelessWidget hacerlo escribiendo: **stless**
+	  *[CI]: Integración Continua
 
 	* **Omar Jesus Hernández Bastos** [620097] (2)
 
 		Donde puedo tener mas de estos atajos? esta buenisimo
+		  *[CI]: Integración Continua
 
 	* **VladDark** [620097] (2)
 
 		Tenga su like buen hombre! :thu
+		  *[CI]: Integración Continua
 
 * **Lordpanther** (6) [633116](https://platzi.com/comentario/633116/) 
 
 	A mi me encanta trabajar con Visual Studio Code y el hot reload que es simplemente genial.
+	  *[CI]: Integración Continua
 
 * **Omar Jesus Hernández Bastos** (2) [809128](https://platzi.com/comentario/809128/) 
 
 	Mas atajos en flutter y sobre todo la utilidad del Alt+Enter [](https://medium.com/comunidad-flutter/flutter-atajos-del-ide-para-desarrollo-r%C3%A1pido-20f0ea1d7ce4)
+	  *[CI]: Integración Continua
 
 * **MitoCodeII** (1) [1077006](https://platzi.com/comentario/1077006/) 
 
 	Genial
+	  *[CI]: Integración Continua
 
 ## 0130. Creando botones reutilizables en Flutter [20229](https://platzi.com/clases/1603-flutter-avanzado/20229-creando-botones-reutilizables-en-flutter/)
 
@@ -2591,6 +2987,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 
 
 Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/6.ButtonSignIn).
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -2600,46 +2997,57 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	
 	Tiene para agregar un metodo onTap como queremos aca con nuestro widget personalizado, es solo una opcion mas pero me parece muy buena para futuros proyectos  
 	![](https://i.imgur.com/Ria2QZi.png)
+	  *[CI]: Integración Continua
 
 * **eder_ese** (5) [709975](https://platzi.com/comentario/709975/) 
 
 	Esta clase debe ir después de la clase 13 “Creación de Pantalla de Login con Flutter”.
+	  *[CI]: Integración Continua
 
 * **versouzz** (3) [744325](https://platzi.com/comentario/744325/) 
 
 	El VoidCallback no retorna nada ni recibe parámetros.  
 	Si hay parámetros se debería usa Function
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (3) [611926](https://platzi.com/comentario/611926/) 
 
 	En una columna el MainAxisAlignment es alineado vertical y el CrossAxisAlignment el alineado horizontal. En el caso de las filas es viceversa.
+	  *[CI]: Integración Continua
 
 * **webuser** (2) [682085](https://platzi.com/comentario/682085/) 
 
 	Al parecer el BorderRadius.circula(15.0) esta bien. Modifique lo alto del boton a 60 y creo que esta mucho mejor
+	  *[CI]: Integración Continua
 
 * **elbuendaza** (2) [605622](https://platzi.com/comentario/605622/) 
 
 	Sera que cabellos de fuego no explicara alguna vez como implementar firebase ui auth?
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1072340](https://platzi.com/comentario/1072340/) 
 
 	Buenas clases
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [826225](https://platzi.com/comentario/826225/) 
 
 	Va quedando genial!
+	  *[CI]: Integración Continua
 
 * **Edward Acu** (1) [707966](https://platzi.com/comentario/707966/) 
 
 	y en que momento creo el archivo SingIn??? como que faltan videos!
+	  *[CI]: Integración Continua
 
 	* **eder_ese** [707966] (1)
 
 		En la descripción de la clase puedes encontrar el link al repositorio.
+		  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [707966] (2)
 ¡Hola! Recuerda que está aplicación ya está preconstruida del Curso Básico de Flutter
+		  *[CI]: Integración Continua
 
 * **Germán Arevalo Jerez** (1) [656833](https://platzi.com/comentario/656833/) 
 
@@ -2648,15 +3056,18 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	    borderRadius: BorderRadius.circular(15.0)
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Felipe Donoso** (1) [653731](https://platzi.com/comentario/653731/) 
 
 	Hola a todos al escuchar el video se menciona que es genial como flutter indica en que párrafo se termina una sintaxis por ejemplo:
 	
 	En el minuto 09:15 " ), // BoxDecoration " => eso a mí no me aparece en el IDE y debo mirar el cierre de paréntesis lo que lo hace engorroso ¿Hay que activar algo quizás? saludos!
+	  *[CI]: Integración Continua
 
 * **versouzz** (1) [68690](https://platzi.com/comentario/744323/) 
 No entiendo porque dice que es casi obligatorio que extienda de StatefulWidget si no le ha añadido ningún control de estado.
+	  *[CI]: Integración Continua
 
 ## 0140. Autenticación de Firebase con Google [20230](https://platzi.com/clases/1603-flutter-avanzado/20230-autenticacion-de-firebase-con-google/)
 
@@ -2666,6 +3077,7 @@ No entiendo porque dice que es casi obligatorio que extienda de StatefulWidget s
 En esta clase veremos como implementar la autenticación con Firebase. Debemos entrar a [firebase](https://console.firebase.com/) entrar en nuestro proyecto, ir al apartado de “Authentication” y activar la autenticación con Google.
 
 Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/7.FrebaseAuthRepository).
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -2730,37 +3142,46 @@ Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	      }
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **lucia9896** [704767] (1)
 
 		Hola miguel me sirvió mucho tu solución, sabes como hacer una autentifiacion anónima y que esta se vuelva permanente, o me puedes explicar mejor como integrar facebook también estoy confundido implementando mas de una autentificacion al mismo tiempo se me rompe el código no se donde poner bien las cosas.
+		  *[CI]: Integración Continua
 
 	* **Emmanuel Guerra** [704767] (1)
 
 		@lucia9896 [Aquí](https://firebase.google.com/docs/auth/android/anonymous-auth#convert-an-anonymous-account-to-a-permanent-account) puedes ver como implementarlo en Android. Los métodos tienen el mismo nombre, lo que cambia es el código
+		  *[CI]: Integración Continua
 
 	* **Pablo Domínguez Durán** [704767] (2)
 
 		Súper aporte. En los último meses Firebase ha cambiado mucho. Saludos!
+		  *[CI]: Integración Continua
 
 	* **Fabian Siatama** [704767] (1)
 
 		Me sirvio un monton, gracias.
+		  *[CI]: Integración Continua
 
 	* **Sandra Fabiola Ramírez Martínez** [704767] (1)
 
 		Muy buen aporte, Gracias!
+		  *[CI]: Integración Continua
 
 	* **Amaru Ugaz** [704767] (1)
 
 		muchas gracias
+		  *[CI]: Integración Continua
 
 	* **Codehero** [704767] (1)
 
 		que paquete utilizaste de facebook login para implementar en el pubspec.yaml, es que estoy buscando y hay muchos, pero ninguno con el codigo que has agregado
+		  *[CI]: Integración Continua
 
 * **Heinz Sohm** (2) [61540](https://platzi.com/comentario/623455/) 
 Como puedo realiza la autenticación con facebook?
+	  *[CI]: Integración Continua
 
 	* **Francisco Javier Padrón Luis** [61540] (4)
 
@@ -2779,14 +3200,17 @@ Como puedo realiza la autenticación con facebook?
 		Saludos ^^
 		
 		P.D: No puedo darte más indicaciones por que no lo implementado aun pero espero ayudarte con esto 😉
+		  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1072399](https://platzi.com/comentario/1072399/) 
 
 	Muy claro todo
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1072342](https://platzi.com/comentario/1072342/) 
 
 	Empezando la autenticaciòn
+	  *[CI]: Integración Continua
 
 * **Codehero** (1) [1062866](https://platzi.com/comentario/1062866/) 
 
@@ -2801,6 +3225,7 @@ Como puedo realiza la autenticación con facebook?
 	Lo que a mi se me ocurre, es que cuando se hace el llamado, pasar por parametro el tipo de login, ej. userBloc.signIn(‘google’) o userBloc.signIn(‘anon’), e ir pasando los parametros desde el screen_widget -> bloc -> auth_repository -> firebase_auth_api, pero creo que esto es algo engorroso, la verdad preferiria llamar el metodo desde el widget directo de firebase_auth_api
 	
 	No se si alguien puede orientarme con esta parte, se lo agradeceria de antemano
+	  *[CI]: Integración Continua
 
 * **Julian Sanchez** (1) [891707](https://platzi.com/comentario/891707/) 
 
@@ -2814,60 +3239,74 @@ Como puedo realiza la autenticación con facebook?
 	    }
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **jorge-hernandez** (1) [840703](https://platzi.com/comentario/840703/) 
 
 	Aquí no importa si el nombre de archivo esta con mayusculas?
+	  *[CI]: Integración Continua
 
 * **JCMeza** (1) [70596](https://platzi.com/comentario/778283/) 
 ¿ Como se puede implementar los otros métodos de autenticación que da Firebase ?
+	  *[CI]: Integración Continua
 
 	* **Jose Padron (Platzi)** [70596] (1)
 
 		¿A cuáles métodos te refieres?
+		  *[CI]: Integración Continua
 
 ## 0150. Implementando Firebase Authentication en BLoC Pattern [20231](https://platzi.com/clases/1603-flutter-avanzado/20231-implementando-firebase-authentication-en-bloc-patt/)
 
 ### Descripción:
 
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Javier Batres** (5) [611937](https://platzi.com/comentario/611937/) 
 
 	En el metodo then puedes no poner el tipo de objeto y lo heredara en base al Future. De esta forma evitamos importaciones extra.
+	  *[CI]: Integración Continua
 
 	* **Joshval97** [611937] (1)
 
 		Gracias por el dato!!
+		  *[CI]: Integración Continua
 
 * **bryant M** (4) [601997](https://platzi.com/comentario/601997/) 
 
 	Realmente me quede perdido en cuanto la implementacion y como poder adaptar todo con cualquier api y no solo con firebase, voy a repasar varias veces esto pero si creo que esta muy generalizada la explicacion, no veo como poder adaptar esto…
+	  *[CI]: Integración Continua
 
 	* **happiestack** [601997] (2)
 
 		Es confuso pero no imposible, sigue practicando que vale mucho la pena saber implementar bloc en flutter ya que es la arquitectura modelo que Google utiliza.
+		  *[CI]: Integración Continua
 
 * **Alexander Mateo** (2) [886794](https://platzi.com/comentario/886794/) 
 
 	¡Excelente, he aprendido bastante de BLoC Pattern! 😄
+	  *[CI]: Integración Continua
 
 * **VladDark** (2) [826264](https://platzi.com/comentario/826264/) 
 
 	ya casi, ya casi 😉
+	  *[CI]: Integración Continua
 
 * **Alejandro** (2) [733468](https://platzi.com/comentario/733468/) 
 
 	a mi me sale userBloc es indefinido 😦
+	  *[CI]: Integración Continua
 
 	* **Jorge Luis Hernández Núñez Luis Hernández Núñez** [733468] (0)
 
 		:c yo tengo el mismo error y no se como solucionarlo , que mal que nadie te haya ayudado pues tambien podría ayudarme a mi ahora u_u
+		  *[CI]: Integración Continua
 
 * **carlos1128** (2) [640778](https://platzi.com/comentario/640778/) 
 
 	Solo como aclaración hasta este punto, en el patrón BLoC, el BLoC no debe devolver el dato como tal sino un Stream, pero como el siguiente video se trata de Streams creo que en ese vídeo se cubre ese tema
+	  *[CI]: Integración Continua
 
 * **Jorge Luis Hernández Núñez Luis Hernández Núñez** (1) [995014](https://platzi.com/comentario/995014/) 
 
@@ -2876,26 +3315,33 @@ Como puedo realiza la autenticación con facebook?
 	
 	Y al compilar me aparece una pantalla roja con letras amaarillas que dice:  
 	Unable to find BloC of type _BlocProvider<UserBloc>.
+	  *[CI]: Integración Continua
 
 * **Nick1125** (1) [990142](https://platzi.com/comentario/990142/) 
 
 	Cual seria el ejemplo cuando quiero implementar facebook y google gracias
+	  *[CI]: Integración Continua
 
 * **Omar Jalil Fierro López** (1) [83675](https://platzi.com/comentario/1032002/) 
 ¿Que pasa cuando queremos pasar parámetros en los repositories? los arrastramos a lo largo de muchas pantallas?
+	  *[CI]: Integración Continua
 
 * **Jorge Luis Hernández Núñez Luis Hernández Núñez** (1) [82004](https://platzi.com/comentario/995106/) 
 Me sale el siguiente error y no se porque:. ════════ Exception caught by widgets library ═══════════════════════════════════ `The followi...
+	  *[CI]: Integración Continua
 
 * **JOSE PEREZ** (1) [79138](https://platzi.com/comentario/934546/) 
 Buenas tardes estimados, queria saber como puedo hacer uso del provider cuando utilizo futurebuilder, ya que es necesario hacer el llamad...
+	  *[CI]: Integración Continua
 
 * **Francisco Javier Vázquez Paredes** (1) [62257](https://platzi.com/comentario/636842/) 
 Como puedo utilizar un único método signIn() en el repository si quiero utilizar varias fuentes de datos (Ejem. Google, Facebook, Twitter...
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [62257] (1)
 
 		Firebase permite el inicio de sesión con diferentes proveedores de inicio de sesión. Dicha lógica se colocaría en firebase_auth_api.dart donde se elegiría de acuerdo al proveedor seleccionado.
+		  *[CI]: Integración Continua
 
 ## 0160. Streams en Flutter [20232](https://platzi.com/clases/1603-flutter-avanzado/20232-streams-en-flutter/)
 
@@ -2905,6 +3351,7 @@ Como puedo utilizar un único método signIn() en el repository si quiero utiliz
 Vamos a empezar a transmitir datos en nuestra aplicación, que en este caso será con Firebase; para esto Flutter usa _Streams_ : son datos que vivirán en un flujo, una corriente de datos para llegar un servidor o regresar de un servidor. Podrían ser textos, imágenes, archivos e incluso un Stream puede ser otro Stream.
 
 Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/8.FirebaseAuthBLoC).
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -2915,52 +3362,65 @@ Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 * **aviloncho** (4) [620319](https://platzi.com/comentario/620319/) 
 
 	[Mas información](https://medium.com/comunidad-flutter/fundamentos-de-streams-en-dart-3a4030636516) sobre Streams en Dart.
+	  *[CI]: Integración Continua
 
 	* **Francisco Javier Vázquez Paredes** [620319] (2)
 
 		Dejo esta documentación sobre Streams en Dart  
 		<https://medium.com/comunidad-flutter/fundamentos-de-streams-en-dart-3a4030636516>
+		  *[CI]: Integración Continua
 
 	* **bynico** [620319] (2)
 
 		Gracias por el aporte
+		  *[CI]: Integración Continua
 
 	* **David Galicia** [620319] (2)
 
 		Gracias por la información
+		  *[CI]: Integración Continua
 
 * **kingofking999** (3) [661309](https://platzi.com/comentario/661309/) 
 
 	un stream se podria considerar como un observable ? …
+	  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [661309] (1)
 ¡Hola Kingo! En efecto los Streams son el equivalente al Observable de Java 🤓
+		  *[CI]: Integración Continua
 
 	* **Esteban Toledo Jaramillo** [661309] (1)
 
 		un Stream es un flujo de datos pero no son reactivos, reactive Streams si lo son y los observables son el patron que usa la librería ReactiveX (JS: RxJS, Python: RxPY, Java, RxJava) para implementarlos.
+		  *[CI]: Integración Continua
 
 * **VladDark** (2) [827826](https://platzi.com/comentario/827826/) 
 
 	Stream = Corriente de datos 😉
+	  *[CI]: Integración Continua
 
 * **Emmanuel Guerra** (2) [785327](https://platzi.com/comentario/785327/) 
 
 	StreamBuilder es un widget más de Flutter
+	  *[CI]: Integración Continua
 
 * **MatiasHarder** (2) [77862](https://platzi.com/comentario/911101/) 
 Como se llama la pizarra que utiliza anahi salgado en el minuto 2:05?
+	  *[CI]: Integración Continua
 
 * **jcalderon.sys** (1) [1072415](https://platzi.com/comentario/1072415/) 
 
 	Muy Buena explicaciòn
+	  *[CI]: Integración Continua
 
 * **Ignacio Francisco Muñoz Hernández** (1) [1022816](https://platzi.com/comentario/1022816/) 
 
 	Excelente explicacion
+	  *[CI]: Integración Continua
 
 * **Alexis** (1) [77422](https://platzi.com/comentario/904003/) 
 si esto fuera android: ¿cual seria el equivalente de stream streamControler, builder y otros?
+	  *[CI]: Integración Continua
 
 ## 0170. Manejando una sesión con Firebase Authentication y Flutter [20233](https://platzi.com/clases/1603-flutter-avanzado/20233-manejando-una-sesion-con-firebase-authentication-y/)
 
@@ -2968,6 +3428,7 @@ si esto fuera android: ¿cual seria el equivalente de stream streamControler, bu
 
 
 Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/9.FirebaseAuthAndroidiOS).
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -3010,20 +3471,24 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	        );```
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [922242] (1)
 
 		¡Muy teso! Super útil.
+		  *[CI]: Integración Continua
 
 * **anncode** (4) [609419](https://platzi.com/comentario/609419/) 
 
 	No olviden agregar el _SHA1_ de Android `debug.keystore` porque a pesar de que dice que es opcional, si no lo hacen les traerá problemas como:
 	
 	`platformexception(sign_in failed com.google.android.gms.common.api.apiexception xxx, null)`
+	  *[CI]: Integración Continua
 
 	* **Julio Gutierrez** [609419] (1)
 
 		En mi caso, me sale ese error a pesar de haber puesto correctamente el sha1 y de hecho firebase console me confirma que si se conecto con mi celular.
+		  *[CI]: Integración Continua
 
 	* **anncode** [609419] (2)
 
@@ -3035,6 +3500,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		Pero si es **Release** debes poner el SHA1 obtenido de tu app  
 		Como se muestra a continuación  
 		![](https://i.stack.imgur.com/VsBvL.png)
+		  *[CI]: Integración Continua
 
 	* **miguelleon27** [609419] (1)
 
@@ -3042,10 +3508,12 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		
 		![](https://drive.google.com/file/d/1V5CTscW0b_R21BpgQhQn2QPWJwLlqzag/view?usp=sharing)  
 		<https://drive.google.com/file/d/1V5CTscW0b_R21BpgQhQn2QPWJwLlqzag/view?usp=sharing>
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [609419] (1)
 
 		Tengo el SHA1 pero igual me sigue apareciendo el error.
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [609419] (1)
 
@@ -3053,14 +3521,17 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		    E/flutter (17455): [ERROR:flutter/lib/ui/ui_dart_state.cc(148)] UnhandledException: PlatformException(sign_in_failed, com.google.android.gms.common.api.ApiException: 12500: , null)```
 		    
 		```
+		  *[CI]: Integración Continua
 
 * **Eduardo Ortiz** (4) [601099](https://platzi.com/comentario/601099/) 
 
 	Hola, escribo por que al momento de hacer la prueba e iniciar sesión obtenía un una excepción un PlatformException(sign_in_failed… , específicamente, y la manera de solucionarlo fue que en la consola de firebase tuve que agregar el SHA1 y SHA256, si solo agregaba el SHA1 saltaba la excepción, espero que sirva este comentario y no tengan que perder tiempo buscando la solución 😉
+	  *[CI]: Integración Continua
 
 	* **farick mena** [601099] (1)
 
 		Hola, la solución debe ser una casualidad porque FirebaseAuth en android solo solicita el SHA1, incluso cuando lo haces automaticamente por el asistente de Firebase en AndroidStudio, estaria bien si pudieras poner el codigo que muestra la expecion en la consola.
+		  *[CI]: Integración Continua
 
 	* **miguelleon27** [601099] (1)
 
@@ -3068,6 +3539,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		(<https://drive.google.com/open?id=1V5CTscW0b_R21BpgQhQn2QPWJwLlqzag>)
 		
 		![](https://drive.google.com/file/d/1V5CTscW0b_R21BpgQhQn2QPWJwLlqzag/view?usp=sharing)
+		  *[CI]: Integración Continua
 
 * **Israel Yance** (3) [657343](https://platzi.com/comentario/657343/) 
 
@@ -3075,6 +3547,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	<https://console.developers.google.com/apis/credentials/consent>  
 	En iOS me salía el error pero en Android no, solo tenía que habilitar con el enlace de arriba.  
 	Para que me deje guardar solo agregue cualquier url. Yo puse una de las que me salía en dominio autorizado y le agregué el http.
+	  *[CI]: Integración Continua
 
 * **Alejandro** (2) [734473](https://platzi.com/comentario/734473/) 
 
@@ -3161,6 +3634,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	    
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Luis Miguel Copa DIaz** [734473] (3)
 
@@ -3182,16 +3656,19 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		    Sete olvido colocar en el if el de diferente o el de negacion !
 		    
 		```
+		  *[CI]: Integración Continua
 
 * **Alvaro Ruben Hurtado Maldonado** (2) [709589](https://platzi.com/comentario/709589/) 
 
 	No se olviden de tener google play services instalado en el emulador o en el phone a la hora de utilizar el sigin con google.
+	  *[CI]: Integración Continua
 
 * **u1802261** (2) [672610](https://platzi.com/comentario/672610/) 
 
 	Es importante que esten el el projecto que firebase crea automáticamente en google cloud platform <https://console.developers.google.com/apis/credentials/consent>  
 	y usar las urls de http://<id-project>.firebaseapp.com  
 	y el id lo pueden obtener en las propiedades del proyecto
+	  *[CI]: Integración Continua
 
 * **marceloandresacosta** (2) [667187](https://platzi.com/comentario/667187/) 
 
@@ -3202,6 +3679,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	completar los enlaces con el dominio: http://<id_project>.firebaseapp.com  
 	ver ejemplo:  
 	<https://github.com/flutter/flutter/issues/33393>
+	  *[CI]: Integración Continua
 
 * **Edgar Barragan** (2) [618301](https://platzi.com/comentario/618301/) 
 
@@ -3212,10 +3690,12 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	En mi caso particular, tenia el platformException(…12500), estoy intentando generar un nuevo keystore, actualizar el sha1 en Firebase, descargar el nuevo JSON y ahora tengo un platformException(…10).
 	
 	Alguna idea que me puedan dar?
+	  *[CI]: Integración Continua
 
 	* **Nestor  de Valais** [618301] (2)
 
 		Lo pudieron resolver ? tengo la misma excepción.
+		  *[CI]: Integración Continua
 
 	* **Mario Avila** [618301] (2)
 
@@ -3224,24 +3704,29 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		2.- Luego actualice el correo electrónico de asistencia en la consola de Firebase (Ya que estaba en blanco)  
 		3.- Y por último tuve que actualizar el google play services de mi emulador  
 		Saludos y ojalá les sirva a ustedes!
+		  *[CI]: Integración Continua
 
 	* **fabian82** [618301] (1)
 
 		Hola tengo la misma excepcion, e hice todo lo que marioavila recomendo y aun asi sigo en la misma situacion. Si alguien tiene una solucion que avise porque no sirve seguir con el curso sin poder pasar esta clase.
+		  *[CI]: Integración Continua
 
 	* **aleramirezsj** [618301] (1)
 
 		Hola a todos, comento mi pequeña experiencia, probé la ejecución en 2 emuladores, uno genymotion y otro el que instala visual studio, siempre me daban este mismo error, probé debugearlo directamente en mi teléfono y corrió perfecto sin ningún tipo de inconveniente, observé que Ann lo está corriendo en su teléfono también, saludos.
+		  *[CI]: Integración Continua
 
 	* **Felipe Donoso** [618301] (1)
 
 		Hola ami me mando el mismo error revise la configuración en Firebase sobre la autentificación y luego seguí los pasos al momento de levantarlo en IOS me indico un error y ver detalle y seguí los pasos agregue mi correo gmail y luego volví a presionar el botón login y lo tomo.
 		
 		No saque imagenes vere si puedo replicarlo y las subo, suerte
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [618301] (1)
 
 		yo lo estoy probando en mi celular y me sale el mismo error.
+		  *[CI]: Integración Continua
 
 	* **kike-acosta** [618301] (1)
 
@@ -3256,14 +3741,17 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		3.- (La parte más importante) rellenar y guardar todos los datos solicitados en la sección de “Pantalla de consentimiento de OAuth” del siguiente enlace: <https://console.developers.google.com/apis/credentials>
 		
 		Una vez hecho esto ya se podría iniciar sesión sin ningún problema.
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [618301] (1)
 
 		@kike-acosta gracias, me sirvió.
+		  *[CI]: Integración Continua
 
 	* **kikeRC** [618301] (1)
 
 		En mi caso, tuve que colocar tanto el SHA-1 y el SHA-256, ademas de lo ya mencionado, para poder evitar las excepciones 12500 y 10 de la librería de firebase.
+		  *[CI]: Integración Continua
 
 * **kaster** (1) [1016422](https://platzi.com/comentario/1016422/) 
 
@@ -3278,14 +3766,17 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	
 	No he podido quitarlo, pero si pulsas el boton (Flutter Hot Restart) te permite cargar usuario y registrarte.  
 	Un saludo
+	  *[CI]: Integración Continua
 
 * **Jhon Jairo Portillo Camayo** (1) [971432](https://platzi.com/comentario/971432/) 
 
 	wtFF Creí que no funcionaria a la primera!!!
+	  *[CI]: Integración Continua
 
 	* **emmanuel mazo** [971432] (1)
 
 		También creí lo mismo. Efectivamente no funciono xD
+		  *[CI]: Integración Continua
 
 * **Alexis** (1) [904882](https://platzi.com/comentario/904882/) 
 
@@ -3294,6 +3785,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	PlatformException (PlatformException(sign_in_failed, com.google.android.gms.common.api.ApiException:10: , null))
 	
 	Buscando solucion. Resulta que hice mal el Sha-1 porque aunque me arrojo un codigo no es el codigo de java, agrego la imagen de como se debe hacer en windows por si alguien mas le ocurre![muestra.png](https://static.platzi.com/media/user_upload/muestra-4f29392b-c793-4b80-ab9e-744bcebdcebf.jpg)
+	  *[CI]: Integración Continua
 
 * **Alexander Mateo** (1) [887287](https://platzi.com/comentario/887287/) 
 
@@ -3302,6 +3794,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	    final appBloc = BlocProvider.of<BlocUser>(context);
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [828056](https://platzi.com/comentario/828056/) 
 
@@ -3321,10 +3814,12 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	```
 	
 	Saludos 😉
+	  *[CI]: Integración Continua
 
 * **JCMeza** (1) [780583](https://platzi.com/comentario/780583/) 
 
 	Antes de correr la aplicación para iOS, les recomiendo hacer un borrado, antes de hacer esto me marcaba errores en la consola. En donde decía que no se podía abrir el emulador de iOS. Desde el root de la app correr “flutter clean”
+	  *[CI]: Integración Continua
 
 * **Pablo Domínguez Durán** (1) [745956](https://platzi.com/comentario/745956/) 
 
@@ -3338,26 +3833,31 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	```
 	
 	Después de eso me funcionó sin más problemas. Aunque no lo crean es un error común según veo por todo StackOverflow
+	  *[CI]: Integración Continua
 
 * **kingofking999** (1) [661325](https://platzi.com/comentario/661325/) 
 
 	en esta parte del curso estoy un poco estresado no se si yo no veo los videos bien o definitivamente hay partes que se omtiten ( por ejemplo el metodo al boton de google sign in no se en que momento lo pusieron ) pero esta bien el problema que me encuentro actualmente es el que todos tienes ApiException 12500 …
 	
 	ya elimine el .android volvi a generar otro nuevo , volvi a generar otro .json agregue el 256 y 1 ( sha) volvi a generar el json y nada que funciona . ya tengo registrado un correo . y tambien 2 claves al mismo tiempo alguna idea sugerencia o recomenacion ya que ya hice actualmente todo lo que se menciona en las preguntas
+	  *[CI]: Integración Continua
 
 	* **Luis Rogelio Reyes Hernández** [661325] (2)
 
 		A mi se me soluciono el problema tras ponerle un nombre a la aplicacion y guardarlo en la seccion " Pantalla de consentimiento de OAuth " de las apis de google <https://console.developers.google.com/apis/credentials>
+		  *[CI]: Integración Continua
 
 * **Francisco Javier Vázquez Paredes** (1) [639105](https://platzi.com/comentario/639105/) 
 
 	Para entender un poco mejor el tema de los Streams dejo el siguiente enlace  
 	<https://medium.com/comunidad-flutter/fundamentos-de-streams-en-dart-3a4030636516>
+	  *[CI]: Integración Continua
 
 * **Francisco Javier Vázquez Paredes** (1) [637685](https://platzi.com/comentario/637685/) 
 
 	Para aquellos que quieran entender un poco mejor el tema de async-await les dejo el siguiente video:  
 	<https://www.youtube.com/watch?v=u2axmPnxUoo>
+	  *[CI]: Integración Continua
 
 * **Cristian Ramanzin** (1) [614467](https://platzi.com/comentario/614467/) 
 
@@ -3525,6 +4025,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	}
 	
 	}```
+	  *[CI]: Integración Continua
 
 	* **Alex93mm** [614467] (4)
 
@@ -3537,26 +4038,31 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		Pruebalo y comenta si funcionó.
 		
 		Un saludo.
+		  *[CI]: Integración Continua
 
 * **bryant M** (1) [607422](https://platzi.com/comentario/607422/) 
 
 	Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann es super buena para ensenar por que aproveche al esperar a meterme a otros cursos de ella, pero en este especificamente creo que solo esta repasando lo que ella ya aprendio al hacer este proyecto, definitivamente aun no comprendo Bloc que es la Unica razon por la que estoy en Platzi.
 	
 	Espero poder encontrar ayuda…
+	  *[CI]: Integración Continua
 
 	* **happiestack** [607422] (0)
 
 		El curso esta claro e interesante, el problema es que si solo vienes del curso anterior no tienes las bases solidas para complementar con este curso. Entiendo tu punto y estoy a favor, el salto de nivel es amplio de un curso a otro. Te recomiendo que juegues un poco mas con flutter o que te animes a meter una app sencilla a la playstore, cuando tengas mas experiencia este curso te caerá de maravilla.
+		  *[CI]: Integración Continua
 
 	* **AndresArdilaB** [607422] (1)
 
 		El curso de Dart antes de este ayuda muchísimo.
+		  *[CI]: Integración Continua
 
 	* **anncode** [607422] (1)
 
 		Hola Bryan, estoy segura que ya pasaste por la clase de BloC  
 		Cuéntame qué parte es la que entendiste mejor y cuál es la que menos.  
 		Encantada de ayudarte.
+		  *[CI]: Integración Continua
 
 * **José Mauricio Chavarría** (1) [604294](https://platzi.com/comentario/604294/) 
 
@@ -3564,6 +4070,7 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	Este sucede cuando en iOS o en Android cancelo el proceso de iniciar sesión.
 	
 	![Captura de Pantalla 2019-06-03 a la\(s\) 12.04.07.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202019-06-03%20a%20la%28s%29%2012.04.07-5176fc77-3971-4162-9008-b60f34876d7b.jpg)
+	  *[CI]: Integración Continua
 
 	* **José Mauricio Chavarría** [604294] (1)
 
@@ -3589,26 +4096,33 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		    }
 		    
 		```
+		  *[CI]: Integración Continua
 
 	* **anncode** [604294] (2)
 
 		Intenta agregar el SHA1 de Android `debug.keystore` en Firebase
+		  *[CI]: Integración Continua
 
 * **Jorge Eliecer Castaño Valencia** (1) [84361](https://platzi.com/comentario/1049239/) 
 ¿La clase bloc_user no debería ser genérica e indiferente a tipos de datos del repositorio? Lo pregunto porque en el método signIn, se re...
+	  *[CI]: Integración Continua
 
 * **JanethM** (1) [64240](https://platzi.com/comentario/672814/) 
 Hola, la aplicacion se ejecuta bien, pero cuando presiono el boton para iniciar sesion y elijo la cuenta despues se queda en la misma pan...
+	  *[CI]: Integración Continua
 
 	* **Luis Rogelio Reyes Hernández** [64240] (1)
 
 		Revisa el log de la aplicacion puede ser que no se este iniciando sesion correctamente revisa si existe algun mensaje de error
+		  *[CI]: Integración Continua
 
 * **fabian82** (1) [61624](https://platzi.com/comentario/624869/) 
 Hola Como estan ?? No puedo solucionar este error PlatformException(sign_in_failed, com.google.android.gms.common.api.ApiException: 10: ,...
+	  *[CI]: Integración Continua
 
 * **bryant M** (1) [60556](https://platzi.com/comentario/607433/) 
 Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann es super buena para ensenar por que aproveche al esperar...
+	  *[CI]: Integración Continua
 
 	* **anncode** [60556] (2)
 
@@ -3620,9 +4134,11 @@ Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann
 		  2. ¿Qué fue lo que no entendiste para nada?
 		
 		
+		  *[CI]: Integración Continua
 
 * **José Mauricio Chavarría** (1) [60352](https://platzi.com/comentario/604294/) 
 ¿Cómo puedo manejar un error en el inicio de sesión? Este sucede cuando en iOS o en Android cancelo el proceso de iniciar sesión.
+	  *[CI]: Integración Continua
 
 	* **José Mauricio Chavarría** [60352] (1)
 
@@ -3648,6 +4164,7 @@ Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann
 		    }
 		    
 		```
+		  *[CI]: Integración Continua
 
 * **happiestack** (0) [607388](https://platzi.com/comentario/607388/) 
 
@@ -3656,24 +4173,29 @@ Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann
 	Unhandled Exception: PlatformException(sign_in_failed, com.google.android.gms.common.api.ApiException: 16: , null)
 	
 	Tengo ya rato investigando pero no doy con los que pueda ser pero nada, tampoco pude solucionando agregando el SHA256 y actualizando el google-services.json.
+	  *[CI]: Integración Continua
 
 	* **anncode** [607388] (1)
 
 		Agregaste el SHA1 de Android `debug.keystore` en Firebase?
+		  *[CI]: Integración Continua
 
 	* **happiestack** [607388] (1)
 
 		Claro que si, ya genere un nuevo debug.keystore, cree un nuevo proyecto, revincule a firebase y trate con otra cuenta firebase y google
+		  *[CI]: Integración Continua
 
 	* **happiestack** [607388] (1)
 
 		@anncode despues de dias de estar en llamas google se apiado de mi y simplemente el error desaparecio (No he movido nada el dia de hoy). Simplemente abri el proyecto y lo corri sin esperanzas y ya no arrojo el error.
+		  *[CI]: Integración Continua
 
 	* **anncode** [607388] (1)
 
 		Me alegra mucho esta noticia!!!  
 		Sí Firebase da un poco de problemas, pero en cuanto eso queda todo sigue fluído.  
 		No te rindas! Termina el curso!
+		  *[CI]: Integración Continua
 
 	* **miguelleon27** [607388] (1)
 
@@ -3682,6 +4204,7 @@ Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann
 		![](https://drive.google.com/file/d/1EIRaKIeHbuhdNa_QaMEsnMvaY3z297Qo/view?usp=sharing)
 		
 		(<https://drive.google.com/file/d/1EIRaKIeHbuhdNa_QaMEsnMvaY3z297Qo/view?usp=sharing>)
+		  *[CI]: Integración Continua
 
 ## 0180. Implementando Google SignOut en BLoC [20234](https://platzi.com/clases/1603-flutter-avanzado/20234-implementando-google-signout-en-bloc/)
 
@@ -3689,28 +4212,34 @@ Yo estoy pagando Platzi especificamente para aprender Flutter, considero que Ann
 
 
 Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/10.FirebaseSignOutBLoC).
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Germán Arevalo Jerez** (4) [661699](https://platzi.com/comentario/661699/) 
 
 	No se si lo de cambiar la contraseña aplica en el caso de la cuenta de Google, ya que se puede cambiar desde el mismo Google.
+	  *[CI]: Integración Continua
 
 * **Germán Arevalo Jerez** (4) [661694](https://platzi.com/comentario/661694/) 
 
 	Vamos a hacer magia.
+	  *[CI]: Integración Continua
 
 * **jlquichimbo** (2) [791431](https://platzi.com/comentario/791431/) 
 
 	Qué es una lamda? 😄
+	  *[CI]: Integración Continua
 
 	* **Demian Arenas (Platzi)** [791431] (2)
 
 		Hola, dentro de Flutter una función lambda se puede entender como una función anónima. En la clase lo que hace es declarar una función lambda dentro del signOut().then ya que no vuelve a reutilizar la lógica de esta función, entonces no es necesario declarar una nueva función completa para el método then.
+		  *[CI]: Integración Continua
 
 * **Daniel Pereira** (1) [1012977](https://platzi.com/comentario/1012977/) 
 
 	Cambiar contraseña en google authentication? 🤔
+	  *[CI]: Integración Continua
 
 ## 0190. Implementando Google SignOut en View [20235](https://platzi.com/clases/1603-flutter-avanzado/20235-implementando-google-signout-en-view/)
 
@@ -3718,38 +4247,46 @@ Aquí puedes ver el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 
 
 Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/11.FirebaseSignOutView) de la clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Miguel Nieto Illescas** (4) [806367](https://platzi.com/comentario/806367/) 
 
 	Un poco confuso… creo esto es lo dificil de bloc…
+	  *[CI]: Integración Continua
 
 * **Julian Sanchez** (3) [891932](https://platzi.com/comentario/891932/) 
 
 	Algo para corregir, cuando se pone los parámetros entre llaves no necesariamente hay que poner el Key. De hecho el parámetro Key se puede colocar incluso en los parámetros sin llaves.  
 	El parameter Key es para tener una referencia al Widget y también se usa para hacer la app mas fluida.  
 	Los parámetros entre llaves se conocen como “Named Parameters” o “Parámetros Nombrados”.
+	  *[CI]: Integración Continua
 
 * **JanethM** (3) [678055](https://platzi.com/comentario/678055/) 
 
 	Todo bien hasta aqui 😄
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (2) [633659](https://platzi.com/comentario/633659/) 
 
 	Me gusta mucho avanzar en e aprendizaje. Aun falta bastante en el camino de la excelencia.
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [633659] (2)
 
 		A seguir aprendiendo!
+		  *[CI]: Integración Continua
 
 * **tabufell** (1) [857667](https://platzi.com/comentario/857667/) 
 
 	Gente, que otros cursos recomiendan para entender a mayor profundidad todo. Que yo pues lo puedo ir copiando pero no lo entiendo muy bien
+	  *[CI]: Integración Continua
 
 	* **fernandajofili** [857667] (2)
 
 		¡Hola Jessica! Si disfrutaste de esta clase y te gusta el desarrollo de aplicaciones, Platzi tiene dos rutas de aprendizaje similares: [Desarrollo de Aplicaciones Android](https://platzi.com/desarrollo-android/) y [Desarrollo de Apps multiplataforma](https://platzi.com/multiplataforma/)! Tienes cursos desde básico hasta avanzado!
+		  *[CI]: Integración Continua
 
 * **Omar Jesus Hernández Bastos** (1) [809971](https://platzi.com/comentario/809971/) 
 
@@ -3762,9 +4299,11 @@ Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	                  break;```
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **JanethM** (1) [64552](https://platzi.com/comentario/678057/) 
 Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya esta quedando registrado en nuestra app con la primera ve...
+	  *[CI]: Integración Continua
 
 ## 0200. Monitoreando y validando la conexión al Sign con Google [20236](https://platzi.com/clases/1603-flutter-avanzado/20236-monitoreando-y-validando-la-conexion-al-sign-con-g/)
 
@@ -3772,12 +4311,14 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/12.SessionMonitoring) encuentras el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **robertmezagarcia** (2) [820100](https://platzi.com/comentario/820100/) 
 
 	Wao este curso se pone cada vez más interesante
+	  *[CI]: Integración Continua
 
 * **Edgar Barragan** (2) [630508](https://platzi.com/comentario/630508/) 
 
@@ -3789,14 +4330,17 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 	bloc: UserBloc(),  
 	child: YourWidget(),  
 	);
+	  *[CI]: Integración Continua
 
 	* **lucia9896** [630508] (1)
 
 		yo tengo implementado el bloc provider de esa manera y sigue el error nose donde se estara perdiendo la conexion entonces 😕
+		  *[CI]: Integración Continua
 
 	* **lucia9896** [630508] (1)
 
 		retiro mi comentario ya lo solucione el error era mio, invertí el código de cuando no había data lo puse en cuando si recibía data y viceversa por eso no me aparecía ajajaj
+		  *[CI]: Integración Continua
 
 ## 0210. Mostrando los datos de usuario de Google en la interfaz en Flutter [20237](https://platzi.com/clases/1603-flutter-avanzado/20237-mostrando-los-datos-de-usuario-de-google-en-la-int/)
 
@@ -3804,37 +4348,45 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/13.SignOut) encuentras el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Nicolás Neira** (7) [614239](https://platzi.com/comentario/614239/) 
 
 	Sólo quería decir que hasta ahora el curso ha cumplido 100% con mis expectativas, Anahí es una buenísima profesora y tenemos la suerte de tenerla en Platzi; gracias por todo!
+	  *[CI]: Integración Continua
 
 * **aleramirezsj** (5) [645148](https://platzi.com/comentario/645148/) 
 
 	Genial el curso!, solo que es logueado no logeado.  
 	Se tenía que decir y se dijo! 😃
+	  *[CI]: Integración Continua
 
 * **jhon rodriguez** (3) [761475](https://platzi.com/comentario/761475/) 
 
 	el curso va genial, pero en este paso siempre que intento cargar la info de mi usuario logueado siempre esta en modo waiting y solo se ve el CircularProgressIndicator() … alguien sabe que puede estar pasando ? AYUDAAA!!
+	  *[CI]: Integración Continua
 
 	* **Alejandro** [761475] (1)
 
 		A mi me pasa lo mismo
+		  *[CI]: Integración Continua
 
 	* **Leonardo Valencia** [761475] (1)
 
 		Yo tuve el mismo error en otra app, descargue el repositorio de la clase (el link esta debajo del video), compare con lo que tenia implementado y me di cuenta que tenia un error en mi código. Puedes hacer lo mismo para corregir tu error.
+		  *[CI]: Integración Continua
 
 	* **Mijahil Barra Li** [761475] (1)
 
 		Tengo el mismo problema, como puedo solucionarlo :’(
+		  *[CI]: Integración Continua
 
 * **oscarjaj94** (3) [761154](https://platzi.com/comentario/761154/) 
 
 	amamos a anahi
+	  *[CI]: Integración Continua
 
 * **melendez-kevin** (2) [904049](https://platzi.com/comentario/904049/) 
 
@@ -3849,12 +4401,14 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 	        .
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **jangove** (1) [991911](https://platzi.com/comentario/991911/) 
 
 	2020-02-18 09:35:11.759 3992-30143/? E/FA: Missing google_app_id. Firebase Analytics disabled. See
 	
 	Tengo este error al compilar hasta esta clase por que sera?
+	  *[CI]: Integración Continua
 
 * **Nick1125** (1) [991323](https://platzi.com/comentario/991323/) 
 
@@ -3864,6 +4418,7 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 	PlatformException (PlatformException(sign_in_canceled, com.google.android.gms.common.api.ApiException: 12501: , null))
 	
 	alguna ayuda?? gracias
+	  *[CI]: Integración Continua
 
 * **daniel herrera sánchez** (1) [930159](https://platzi.com/comentario/930159/) 
 
@@ -3875,10 +4430,12 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 	              )
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Bruno Diharce** (1) [844270](https://platzi.com/comentario/844270/) 
 
 	A mi me pasa que se queda en waiting, pero al darle al hot reaload, en la consola se ve que pasa por waiting y enseguida a active. Alguien que le haya pasado lo mismo?
+	  *[CI]: Integración Continua
 
 	* **Bruno Diharce** [844270] (1)
 
@@ -3889,21 +4446,26 @@ Tengo una duda acerca de este tema de iniciar Sesion con google. ¿El usuario ya
 		Pero esto no me dejo claro algo, yo pense que ya desde el main, estabamos proviendo del UserBloc , entonces di por sentado que para ver los datos del usuario iba apoder utilizar el UserBloc, y claro, pasaba que se me quedaba el snapshot en waiting…
 		
 		Supongo que esto puede ser un tema relacionado con el Scaffold…
+		  *[CI]: Integración Continua
 
 	* **PedroRafa26** [844270] (1)
 
 		Hola Bruno, puedes ser un poco más específico? tengo el mismo problema y no entiendo dónde debo instanciar el BlocProvider para que los datos se mantengan.
+		  *[CI]: Integración Continua
 
 * **VladDark** (1) [828271](https://platzi.com/comentario/828271/) 
 
 	Genial! parece que vamos bien 😃
+	  *[CI]: Integración Continua
 
 * **elbuendaza** (1) [60465](https://platzi.com/comentario/605812/) 
 en el caso por puede que pase cual seria la mejor forma de evitar un null en la photoUrl? ya que se puede presentar si el usuaurio no ha ...
+	  *[CI]: Integración Continua
 
 	* **Mario Vizcaino** [60465] (2)
 
 		En lo personal siempre utilizo una imagen base(local) para evitar estos problemas.
+		  *[CI]: Integración Continua
 
 # Cloud Firestore de Firebase en Flutter [4057]
 
@@ -3917,6 +4479,7 @@ Tener persistencia en nuestros datos es una realidad que poco a poco en nuestras
 Nos vamos a dirigir a nuestra console de Firebase, iremos a Database, crearemos una Database y haremos los siguientes pasos: locked enable, cambiaremos las reglas a `allow read, write: if reques.auth != null`.
 
 No vamos a utilizar tablas ni relaciones, utilizaremos un modelos de bases de datos no relacional, la llamamos colecciones que dentro pueden tener documentos.
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -3928,12 +4491,14 @@ No vamos a utilizar tablas ni relaciones, utilizaremos un modelos de bases de da
 
 	interesante el manejo de datos de firebase/firestore.  
 	a darle! 😃
+	  *[CI]: Integración Continua
 
 * **jangove** (1) [992141](https://platzi.com/comentario/992141/) 
 
 	Missing google_app_id. Firebase Analytics disabled
 	
 	sigo con este error
+	  *[CI]: Integración Continua
 
 ## 0230. Analizando un modelo de datos no relacional [20239](https://platzi.com/clases/1603-flutter-avanzado/20239-analizando-un-modelo-de-datos-no-relacional/)
 
@@ -3941,20 +4506,24 @@ No vamos a utilizar tablas ni relaciones, utilizaremos un modelos de bases de da
 
 
 Crearemos nuestro modelo de datos para nuestra aplicación Platzi Trips, recuerda que debemos analizar nuestra aplicación para saber cuales son las colecciones y los campos que tendrá los documentos para un mayor entendimiento de nuestra _database_.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **VladDark** (1) [828281](https://platzi.com/comentario/828281/) 
 
 	:th
+	  *[CI]: Integración Continua
 
 * **bryan.a.sanchez.98** (1) [603014](https://platzi.com/comentario/603014/) 
 
 	que es una collection? también es una entidad?
+	  *[CI]: Integración Continua
 
 	* **Fabian Arlex  Pe Perdomo Romero** [603014] (2)
 
 		Un Collection es semejante a una tabla de una BD y una entidad es un objeto
+		  *[CI]: Integración Continua
 
 	* **ThAlan** [603014] (2)
 
@@ -3970,13 +4539,16 @@ Crearemos nuestro modelo de datos para nuestra aplicación Platzi Trips, recuerd
 		
 		
 		
+		  *[CI]: Integración Continua
 
 * **bryan.a.sanchez.98** (1) [60261](https://platzi.com/comentario/603014/) 
 que es una collection? también es una entidad?
+	  *[CI]: Integración Continua
 
 	* **Fabian Arlex  Pe Perdomo Romero** [60261] (2)
 
 		Un Collection es semejante a una tabla de una BD y una entidad es un objeto
+		  *[CI]: Integración Continua
 
 ## 0240. Creando un Modelo de datos en Cloud Firestore [20240](https://platzi.com/clases/1603-flutter-avanzado/20240-creando-un-modelo-de-datos-en-cloud-firestore/)
 
@@ -3984,32 +4556,39 @@ que es una collection? también es una entidad?
 
 
 Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/14.FirestoreDataModel) de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Julián Andrés Vela Salazar** (3) [660707](https://platzi.com/comentario/660707/) 
 
 	Porque no hacerlo con una API independiente? algo en Nodejs
+	  *[CI]: Integración Continua
 
 	* **Daniel Esteves** [660707] (1)
 Porque vamos a usar algo preconstruido y que va muy bien con aplicaciones móviles como lo es Firebase y Firestore, muy recomendados como base de datos para dispositivos móviles
+		  *[CI]: Integración Continua
 
 	* **jlquichimbo** [660707] (1)
 
 		Hola Julián.  
 		Encontraste un tutorial correcto para conectar con una API en NodeJS?
+		  *[CI]: Integración Continua
 
 	* **Amaru Ugaz** [660707] (1)
 
 		Firebase es una base de datos en tiempo real, tiene sus propias formas de trabajar para poder hacer uso de esta característica. Con una API pierdes esas cosas. De todas formas una API es una excelente opción también.
+		  *[CI]: Integración Continua
 
 * **PedroRafa26** (2) [956261](https://platzi.com/comentario/956261/) 
 
 	En el [curso de Fundamentos de Base de Datos](https://platzi.com/clases/bd/) de Platzi profundizan mucho mas acerca de las colecciones y los documentos y del cómo estructurar la base de datos para tu proyecto 100% recomendado 😄
+	  *[CI]: Integración Continua
 
 * **MatiasHarder** (2) [913815](https://platzi.com/comentario/913815/) 
 
 	Genial ya me falta poco por terminar! 😄 mucho animo chicos
+	  *[CI]: Integración Continua
 
 * **sebastian-lara** (2) [645254](https://platzi.com/comentario/645254/) 
 
@@ -4018,24 +4597,30 @@ Porque vamos a usar algo preconstruido y que va muy bien con aplicaciones móvil
 	“PREFER using lowerCamelCase for constant names.”
 	
 	Ref: <https://dart.dev/guides/language/effective-dart/style#prefer-using-lowercamelcase-for-constant-names>
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [645254] (1)
 
 		Gracias por el aporte.
+		  *[CI]: Integración Continua
 
 * **VladDark** (1) [828289](https://platzi.com/comentario/828289/) 
 
 	allá vamos! 😃
+	  *[CI]: Integración Continua
 
 * **Pablo Zenteno** (1) [81915](https://platzi.com/comentario/993190/) 
 Es correcto usar modelos o entidades de otros dominios en clean arquitecture??
+	  *[CI]: Integración Continua
 
 * **Miguel Eduardo Langarano Guerrero** (1) [74529](https://platzi.com/comentario/854551/) 
 Por qué utiliza final en las variables de la clase user y en la clase place no?
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [74529] (1)
 
 		Creo que se puede usar cualquiera y no influte en el resultado.
+		  *[CI]: Integración Continua
 
 ## 0250. Enviando datos a Cloud Firestore [20241](https://platzi.com/clases/1603-flutter-avanzado/20241-enviando-datos-a-cloud-firestore/)
 
@@ -4043,20 +4628,24 @@ Por qué utiliza final en las variables de la clase user y en la clase place no?
 
 
 Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/15.FirestoreDataInsert) de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **davidsc34** (2) [1005727](https://platzi.com/comentario/1005727/) 
 
 	Que tal amigos, alguien sabe por que apesar de no pasar userOwner, que es un parametro requerido, aun asi funciono la app?. Saludos, espero no sea muy tonta la pregunta
+	  *[CI]: Integración Continua
 
 * **Sebastián Valencia Zapata** (2) [955587](https://platzi.com/comentario/955587/) 
 
 	Este curso es bastante robusto, pero por sobre todo ¡Es genial!
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (2) [634318](https://platzi.com/comentario/634318/) 
 
 	mmm NO encontré los objetos para pegar 😦
+	  *[CI]: Integración Continua
 
 	* **Hugo Andrade** [634318] (9)
 
@@ -4076,32 +4665,39 @@ Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 		likes: 10
 		
 		);
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [634318] (1)
 
 		Gracias!
+		  *[CI]: Integración Continua
 
 * **Amaru Ugaz** (1) [1075605](https://platzi.com/comentario/1075605/) 
 
 	Agradezco mucho que vas mostrando los errores que cometes (como todos) y cómo los vas resolviendo, es de los mejores aspectos de este curso 😃
+	  *[CI]: Integración Continua
 
 * **David Galicia** (1) [922751](https://platzi.com/comentario/922751/) 
 
 	Todo bien hasta ahora, muy claro el video la verdad
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [828510](https://platzi.com/comentario/828510/) 
 
 	Ok, datos guardados! 😉
+	  *[CI]: Integración Continua
 
 * **Diego A. S. Cabrera** (1) [823560](https://platzi.com/comentario/823560/) 
 
 	Buenas, a mi me hace todo correctamente pero no me esta insertando los datos en firestore, alguien sabe que puedo hacer???  
 	Revise el codigo por todos lados y lo veo similar al de la clase.  
 	Aguardo comentarios.
+	  *[CI]: Integración Continua
 
 	* **ErikaPM** [823560] (1)
 
 		Hola, si te esta corriendo normal y no te genera error en la app debes tener algún problema en el servicio de almacenaje en la BD; para solucionar el inconveniente revisa que el repositorio de Cloud firestore te este almacenando la data correspondiente al User dentro del método del update (me pasó lo mismo y tenía un dato mal ahí) _ 😃
+		  *[CI]: Integración Continua
 
 * **jlquichimbo** (1) [817744](https://platzi.com/comentario/817744/) 
 
@@ -4110,25 +4706,30 @@ Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 	    [ERROR:flutter/lib/ui/ui_dart_state.cc(148)] UnhandledException: PlatformException(ErrorperformingsetData, PERMISSION_DENIED: Missingorinsufficientpermissions., null)```
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **davidsc34** [817744] (2)
 
 		Hola amigo parece ser que es algo sobre los permisos de escritura o lectura.  
 		Espero aun te sirva saludo.s
+		  *[CI]: Integración Continua
 
 	* **jlquichimbo** [817744] (1)
 
 		Gracias amigos, pasó que tuve que formatear la máquina y cambió el key de autenticación, así que tuve que generarlo de nuevo para tener los permisos correctos y ponerlo nuevamente en FireBase. Espero les sirva.
+		  *[CI]: Integración Continua
 
 * **Emmanuel Guerra** (1) [787177](https://platzi.com/comentario/787177/) 
 
 	Mi cloud firestore se bugeo y no insertaba…no se si fue porque incluí la dependencia de firebase_core o porque estaba usando una version con un ‘+number’ al final. La UI de Firebase tampoco me dejaba nukear la DB! tuve que borrar todo desde Firebase CLI
 	
 	<https://firebase.google.com/docs/firestore/manage-data/delete-data>
+	  *[CI]: Integración Continua
 
 * **Edward Acu** (1) [709286](https://platzi.com/comentario/709286/) 
 
 	El curso anterior no me gusto, era muy teórico pero este curso va supero bien, esta lo máximo.
+	  *[CI]: Integración Continua
 
 ## 0260. Creando un Widget gradiente personalizado [20242](https://platzi.com/clases/1603-flutter-avanzado/20242-creando-un-widget-gradiente-personalizado/)
 
@@ -4136,6 +4737,7 @@ Aquí encuentras el [repositorio](https://github.com/anncode1/Curso-de-Flutter-A
 
 
 Aquí puedes conocer el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/16.GenericGradientWidget) de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4145,23 +4747,29 @@ Aquí puedes conocer el [repositorio](https://github.com/anncode1/Curso-de-Flutt
 	gradient_back.dart  
 	sign_in_screen.dart  
 	header_appbar.dart
+	  *[CI]: Integración Continua
 
 * **Nick1125** (2) [993151](https://platzi.com/comentario/993151/) 
 
 	Mi pregunta es como puedo implementar firebase sin conexion ??
+	  *[CI]: Integración Continua
 
 * **Nick1125** (1) [82564](https://platzi.com/comentario/1007872/) 
 Porque el constructor lleva keys??
+	  *[CI]: Integración Continua
 
 * **Julian Sanchez** (1) [76771](https://platzi.com/comentario/892790/) 
 En clases anteriores seteaba en null el height o el width para que adopte el conteiner toda la altura o todo el ancho de la pantalla resp...
+	  *[CI]: Integración Continua
 
 * **fabian82** (1) [62494](https://platzi.com/comentario/641092/) 
 Buenas, Como estan? Les hago una consulta, no logro hacer que me quede igual a como lo hizo ann, el gradiente me queda ovalado, sabran cu...
+	  *[CI]: Integración Continua
 
 	* **Felipe Donoso** [62494] (1)
 
 		Hola yo no puedo mostrar los datos de la persona que ha sido registrada en Firebase? la duda hay soporte en Platzi? o solamente tenemos que ayudarnos entre nosotros cuek
+		  *[CI]: Integración Continua
 
 ## 0270. Manejo de Desbordamiendo de Texto de Widget Text [20243](https://platzi.com/clases/1603-flutter-avanzado/20243-manejo-de-desbordamiendo-de-texto-de-widget-text/)
 
@@ -4169,16 +4777,19 @@ Buenas, Como estan? Les hago una consulta, no logro hacer que me quede igual a c
 
 
 Aquí puedes conocer el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/17.TextOverloading) de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Guillermo López** (3) [627683](https://platzi.com/comentario/627683/) 
 
 	Creo que también se podría haber puesto en el width la propiedad double.infinity en lugar de hacer el MediaQuery y de esa manera también hacemos que ocupe todo el ancho
+	  *[CI]: Integración Continua
 
 	* **Lordpanther** [627683] (5)
 
 		Es cierto pero para análisis más complejos es necesaria la precisión matemática de la definición del ancho 😉
+		  *[CI]: Integración Continua
 
 ## 0280. Botón de Back en un Appbar en Flutter [20244](https://platzi.com/clases/1603-flutter-avanzado/20244-boton-de-back-en-un-appbar-en-flutter/)
 
@@ -4201,6 +4812,7 @@ Si queremos ir de _Pantalla1_ a _Pantalla2_ utilizaremos el método _push_ , ten
 ```
 
 Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/18.BackButton) de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4212,10 +4824,12 @@ Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flu
 	Archivos modificados:  
 	button_bar.dart  
 	circle_button.dart
+	  *[CI]: Integración Continua
 
 * **Leonardo Valencia** (3) [772847](https://platzi.com/comentario/772847/) 
 
 	Hola, aun no he podido entender muy bn para que se coloca Key key en el constructor o en cualquier otro metodo, me pueden explicar un poco mejor, gracias.
+	  *[CI]: Integración Continua
 
 	* **Omar Jesus Hernández Bastos** [772847] (2)
 
@@ -4228,6 +4842,7 @@ Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flu
 		    dameTuAltura(height: 1.8);
 		    
 		```
+		  *[CI]: Integración Continua
 
 * **jangove** (1) [998675](https://platzi.com/comentario/998675/) 
 
@@ -4235,6 +4850,7 @@ Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flu
 	
 	EdgeInsets.all  
 	cual es la diferencia ?
+	  *[CI]: Integración Continua
 
 	* **davidsc34** [998675] (3)
 
@@ -4251,18 +4867,22 @@ Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flu
 		padding : 15px;  
 		}  
 		Espero te sirva, saludos
+		  *[CI]: Integración Continua
 
 	* **jangove** [998675] (1)
 
 		si gracias amigo
+		  *[CI]: Integración Continua
 
 * **Omar Guadarrama** (1) [744745](https://platzi.com/comentario/744745/) 
 
 	Lógica de Navegación
+	  *[CI]: Integración Continua
 
 * **aviloncho** (1) [620347](https://platzi.com/comentario/620347/) 
 
 	Explicación de la Navegación en Flutter
+	  *[CI]: Integración Continua
 
 ## 0290. Navegación entre pantallas en Flutter [20600](https://platzi.com/clases/1603-flutter-avanzado/20600-navegacion-entre-pantallas-en-flutter/)
 
@@ -4364,20 +4984,24 @@ Y regresar a la pantalla anterior usando la misma sentencia `pop`
     Navigator.pop(context);
     
 ```
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **waldirrocabado** (3) [777942](https://platzi.com/comentario/777942/) 
 
 	Esta navegacion solo se usa para las screens que llevan datos? y como se diferencia de la navegacion que estabamos teniendo de ir de home a profile. y the el sign in a home.
+	  *[CI]: Integración Continua
 
 	* **ErikaPM** [777942] (1)
 
 		La diferencia es que en el código que teníamos anteriormente para navegar entre pestañas se hacía llamando los screen desde la barra de navegación de Cupertino, en la documentación que nos presentan ahora explican como navegar en múltiples pestañas que van a estar “apiladas” una sobre otra, así puedes acceder a ellas por su posición, es similar al uso de un array.
+		  *[CI]: Integración Continua
 
 * **MatiasHarder** (2) [923847](https://platzi.com/comentario/923847/) 
 
 	Buen contenido! Muchas gracias por este gran curso! 😄
+	  *[CI]: Integración Continua
 
 ## 0300. Widget Text Appbar personalizado en Flutter [20245](https://platzi.com/clases/1603-flutter-avanzado/20245-widget-text-appbar-personalizado-en-flutter/)
 
@@ -4385,6 +5009,7 @@ Y regresar a la pantalla anterior usando la misma sentencia `pop`
 
 
 Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/19.CustomAppbarText) de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4392,10 +5017,12 @@ Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flu
 
 	Se creo el archivo title_header.dart  
 	Modificamos el archivo add_place_screen.dart y sacamos información del archivo gradient_back.dart
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (3) [634407](https://platzi.com/comentario/634407/) 
 
 	Una enorme responsabilidad conlleva unas veces una recompensa.
+	  *[CI]: Integración Continua
 
 * **Emmanuel Guerra** (1) [787741](https://platzi.com/comentario/787741/) 
 
@@ -4411,9 +5038,11 @@ Aquí puedes encontrar el [repositorio](https://github.com/anncode1/Curso-de-Flu
 	    TitleHeader(title:'Add a new place', padding: EdgeInsets.only(top:45.0, left:20.0, right:10.0))
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **MatiasHarder** (1) [78588](https://platzi.com/comentario/923863/) 
 De que sirve el Key key?
+	  *[CI]: Integración Continua
 
 ## 0310. Widget TextField personalizado en Flutter [20246](https://platzi.com/clases/1603-flutter-avanzado/20246-widget-textfield-personalizado-en-flutter/)
 
@@ -4421,32 +5050,39 @@ De que sirve el Key key?
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/20.CustomTextField) encuentras el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **josericardoperezperez** (8) [839556](https://platzi.com/comentario/839556/) 
 
 	A esta altura creo que ando prefiriendo Flutter contra React Native 😃
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (5) [634428](https://platzi.com/comentario/634428/) 
 
 	I loved flutter.
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [634428] (1)
 
 		Me too.
+		  *[CI]: Integración Continua
 
 * **JCMeza** (4) [784566](https://platzi.com/comentario/784566/) 
 
 	Se hizo el archivo text_input.dart
+	  *[CI]: Integración Continua
 
 * **Israel Muñoz Rivas** (2) [974827](https://platzi.com/comentario/974827/) 
 
 	Y aquí empiezo a ver menos comentarios que en las clases anteriores, da miedo tanta soledad, salu3
+	  *[CI]: Integración Continua
 
 * **VladDark** (1) [829084](https://platzi.com/comentario/829084/) 
 
 	súper!
+	  *[CI]: Integración Continua
 
 ## 0320. Creando una Safe Area para una interfaz que tiene un AppBar [20247](https://platzi.com/clases/1603-flutter-avanzado/20247-creando-una-safe-area-para-una-interfaz-que-tiene-/)
 
@@ -4454,6 +5090,7 @@ De que sirve el Key key?
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/21.SafeArea) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4463,22 +5100,27 @@ De que sirve el Key key?
 	( • _ • ) Toma una galleta extraño, y sigue en tu viaje  
 	/ >  
 	🍪
+	  *[CI]: Integración Continua
 
 * **Nick1125** (3) [1008303](https://platzi.com/comentario/1008303/) 
 
 	Si lees esto no te rindas … continua pase lo que pase  
 	"Todo camino empieza por el genesis terminando en una revelacion"  
 	Nujabes
+	  *[CI]: Integración Continua
 
 * **icazqui** (1) [83288](https://platzi.com/comentario/1023801/) 
 Tengo una duda: Porque el inputType de title se iguala a null y el inputType de description se iguala a TextInputType.multiline?
+	  *[CI]: Integración Continua
 
 * **Francisco Javier Vázquez Paredes** (1) [62811](https://platzi.com/comentario/646684/) 
 Tengo una duda Ann: En la clase de hoy nos comentas que las variables del tipo TextEditingController deberán declararse ...
+	  *[CI]: Integración Continua
 
 	* **Omar Guadarrama** [62811] (1)
 
 		Tienes mucha razón.
+		  *[CI]: Integración Continua
 
 ## 0330. Widget TextField con iconos en Flutter [20248](https://platzi.com/clases/1603-flutter-avanzado/20248-widget-textfield-con-iconos-en-flutter/)
 
@@ -4486,6 +5128,7 @@ Tengo una duda Ann: En la clase de hoy nos comentas que las variables del tipo T
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/22.CustomTextFielWithIcon) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4514,21 +5157,26 @@ Tengo una duda Ann: En la clase de hoy nos comentas que las variables del tipo T
 	                    )
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **pablo nicoli** (1) [1038939](https://platzi.com/comentario/1038939/) 
 
 	Como haces para que este “Add Location” cuando vas escribiendo la Location te levante googleMaps para seleccionar de una lista de lugares ?
+	  *[CI]: Integración Continua
 
 * **MatiasHarder** (1) [931531](https://platzi.com/comentario/931531/) 
 
 	Genial excelente curso!
+	  *[CI]: Integración Continua
 
 * **JCMeza** (1) [785454](https://platzi.com/comentario/785454/) 
 
 	Generamos el archivo title_input_location.dart y copiamos código del archivo text_input.dart e implementamos el archivo creado en el archivo add_place_screen.dart
+	  *[CI]: Integración Continua
 
 * **Evelin Lorena Flores García** (0) [81934](https://platzi.com/comentario/993491/) 
 Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el siguiente error: Exception has occurred. PlatformExceptio...
+	  *[CI]: Integración Continua
 
 	* **davidsc34** [81934] (1)
 
@@ -4536,6 +5184,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 		sign_in_failed, com.google.android.gms.common.api.ApiException: 7
 		
 		Saludos.
+		  *[CI]: Integración Continua
 
 ## 0340. Retocando el CardView [20249](https://platzi.com/clases/1603-flutter-avanzado/20249-retocando-el-cardview/)
 
@@ -4543,6 +5192,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/23.CustomCardView) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4553,6 +5203,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	    CardImage({Key key, this.height=250, ...})
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **JCMeza** (6) [785653](https://platzi.com/comentario/785653/) 
 
@@ -4564,6 +5215,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	* floating_action_button_green.dart
 	
 	
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (3) [615468](https://platzi.com/comentario/615468/) 
 
@@ -4572,10 +5224,12 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	    const CardImage({Key key, ...}) : super(key: key);
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **pablo nicoli** (0) [1038946](https://platzi.com/comentario/1038946/) 
 
 	porque la variable onPressedFabIcon es de tipo VoidCallback ?
+	  *[CI]: Integración Continua
 
 ## 0350. Mostrando imágenes en un CardView [20250](https://platzi.com/clases/1603-flutter-avanzado/20250-mostrando-imagenes-en-un-cardview/)
 
@@ -4583,20 +5237,24 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/24.ShowImageCardView) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **jlquichimbo** (2) [858386](https://platzi.com/comentario/858386/) 
 
 	Qué widget era el que definìa la “zona segura” que menciona al final?
+	  *[CI]: Integración Continua
 
 	* **bynico** [858386] (2)
 
 		Flexible
+		  *[CI]: Integración Continua
 
 * **VladDark** (1) [829258](https://platzi.com/comentario/829258/) 
 
 	Listo, ajustado!
+	  *[CI]: Integración Continua
 
 * **carlos1128** (1) [643785](https://platzi.com/comentario/643785/) 
 
@@ -4617,14 +5275,17 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	
 	Y se ve de la siguiente manera:  
 	![](https://lh3.googleusercontent.com/bLw5fuLAHTEY0kWTkkVfwiLXCXsA_z4jRHHlwFvoI-D6pjOd7YkzKN6DDdl6rZkx8kLDNhBJLlzjUIq3OlsQoyWz2naLJ7-EVcXQXmV53plNWfEWXAhZuc-SQMg6G0I9GAOiKwB8zSU5FEfO665NjOboCIsysJfa31zSL9Oo3p1JIcFquJi5WqNgqBBH7mvVXBxnYfR0kt_HWC9hziwU7IZqtnkowlFEstgmDPV2Rs_N4-xQ1sx6v7wsgzL-BchYyWdsOnFRCT374Duc92FJD9NxiBI2DX-iv9J_yrW67VvBp1dORZyh_3eyQ9YFAqclEaRanRlxKgxs8RA1VJACUD_MZ1ArZ5VlP6CIq06msfyj3pUGXEzEGqdiC3t0qOYiD7JoTrNOjFAMdHAtAon_Qc7PjH90K-m190K4kB1g-oIxz-iHO42h3bqsWzH_uput4nE1LPMYd9SvqJcnGi9rWnbFiimB5ZabCqA_vXu83fA1tluDv-x0laX_cn-BA8AyrHlmqhKtgvHfnWywElLBR2dU1uqs5gAVWGmvG0DA8F10mVBFg46GhRKHcDSEBFnal2R41nlVgpqcFXOLjke9cvpdCB-hxPW1qzvUywkeUBIWrSoalwmPLej0SfwgW63fTG9d89KGPrPYWil-DyLYCWZiYC8KS6Y=w491-h981-no)
+	  *[CI]: Integración Continua
 
 * **MateriaGris02** (1) [635465](https://platzi.com/comentario/635465/) 
 
 	CTL + ALT + L = Reformat Code
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (1) [635378](https://platzi.com/comentario/635378/) 
 
 	Casi que NO 😉
+	  *[CI]: Integración Continua
 
 ## 0360. Creando un botón de Submit en Flutter [20251](https://platzi.com/clases/1603-flutter-avanzado/20251-creando-un-boton-de-submit-en-flutter/)
 
@@ -4632,6 +5293,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/25.SubmitButton) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4644,10 +5306,12 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	Y arreglamos el archivo description_place.dart
 	
 	
+	  *[CI]: Integración Continua
 
 * **elbuendaza** (1) [608074](https://platzi.com/comentario/608074/) 
 
 	String pathImage = (widget.image == null) ? “assets/img/beach_palm.jpeg”:widget.image.path;
+	  *[CI]: Integración Continua
 
 ## 0370. Envío de datos de un fórmulario en Flutter [20252](https://platzi.com/clases/1603-flutter-avanzado/20252-envio-de-datos-de-un-formulario-en-flutter/)
 
@@ -4655,6 +5319,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/26.UploadPlace) puedes conocer el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4673,17 +5338,21 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	        });
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [643838] (1)
 
 		¿Qué beneficio tiene no anidar el código?
+		  *[CI]: Integración Continua
 
 	* **carlos1128** [643838] (2)
 
 		Hola @sebas.nop, en este caso específico pareciera que no tenemos ningún beneficio al anidar, pero conforme trabajas en proyectos mucho más grandes te puedes encontrar con un problema bastante común en programación asíncrona llamado Promise hell (en el caso de JavaScript), y Future Hell en el caso específico de Dart, que es la anidación excesiva de código y al leerlo es menos intuitivo. Ojo, no quiero decir que nunca debas usar la anidación, pero si visualmente ese código se ve muy complicado muy probablemente se puede resolver mediante el uso de async/await, recuerda que mientras más intuitivo sea nuestro código mejor porque nosotros escribimos código para otros programadores, o incluso para nosotros mismo, ya que en el futuro puede que tengas que dar mantenimiento a un determinado proyecto.
+		  *[CI]: Integración Continua
 
 * **Miguel Eduardo Langarano Guerrero** (2) [74594](https://platzi.com/comentario/855888/) 
 ¿Por qué no utilizamos el repository de Places para consumir el servicio? Estamos mezclando las cosas
+	  *[CI]: Integración Continua
 
 ## 0380. Subiendo datos a Firestore de Firebase [20253](https://platzi.com/clases/1603-flutter-avanzado/20253-subiendo-datos-a-firestore-de-firebase/)
 
@@ -4691,6 +5360,7 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/26.UploadPlace) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -4711,56 +5381,69 @@ Hola, cada vez que quiero compilar el proyecto en un dispositivo móvil me da el
 	      }
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [615482] (1)
 
 		Gracias por el aporte.
+		  *[CI]: Integración Continua
 
 	* **davidsc34** [615482] (1)
 
 		Que tal se ve bien esta funcion solo me qued una duda, si el Future<void> dice que regresa vacio, por que usas return _ref.ad …
 		
 		Saludos.
+		  *[CI]: Integración Continua
 
 * **AndresArdilaB** (3) [611734](https://platzi.com/comentario/611734/) 
 
 	Si al hacer la prueba el campo se les resetea cuando pasan al siguiente deben definir los controllers afuera del build method.
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [611734] (1)
 
 		Gracias por el aporte.
+		  *[CI]: Integración Continua
 
 	* **JanethM** [611734] (1)
 
 		En mi caso no se resetea, sino que no me abre el teclado del TextInput para ingresar la informacion, alguna idea de por que?
+		  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [611734] (2)
 
 		Te recomendaría que revisaras el repositorio del proyecto que se compartió en las primeras clase y revisa si te falta algo.
+		  *[CI]: Integración Continua
 
 	* **JanethM** [611734] (1)
 
 		Lo checare, gracias
+		  *[CI]: Integración Continua
 
 * **Nick1125** (1) [1010200](https://platzi.com/comentario/1010200/) 
 
 	Esta libreria que encontre esta actualizada para usar mas bloc en un mismo arbol <https://pub.dev/packages/bloc_provider#-readme-tab->
+	  *[CI]: Integración Continua
 
 * **jangove** (1) [1005290](https://platzi.com/comentario/1005290/) 
 
 	Como puedo justificar un parrafo en flutter?
+	  *[CI]: Integración Continua
 
 * **jangove** (1) [1003297](https://platzi.com/comentario/1003297/) 
 
 	Tengo problema con la consola de firebase no me muestra nada
+	  *[CI]: Integración Continua
 
 * **Pablo Zenteno** (1) [1001481](https://platzi.com/comentario/1001481/) 
 
 	Esta bien hacer cosas de places en el bloc de user??? segun clean arquitecture???
+	  *[CI]: Integración Continua
 
 	* **davidsc34** [1001481] (1)
 
 		Yo pense lo mismo, pense que habria un bloc nuevo para places.
+		  *[CI]: Integración Continua
 
 ## 0390. Formularios en Flutter [20594](https://platzi.com/clases/1603-flutter-avanzado/20594-formularios-en-flutter/)
 
@@ -4938,12 +5621,14 @@ Y por último para generar consistencia debemos poner `_formKey.currentState.sav
     }
     
 ```
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Javier Batres** (15) [615847](https://platzi.com/comentario/615847/) 
 
 	Si no tienen casos de uso muy particulares en los formularios de la aplicación, entiendase tanto de lógica como de vista. Pueden usar la libreria [flutter form builder](https://pub.dev/packages/flutter_form_builder) para crear un formulario y vlaidarlo rápido.
+	  *[CI]: Integración Continua
 
 # Acceso al Hardware con Flutter [4058]
 
@@ -4957,6 +5642,7 @@ Ahora que estamos en esta clase debemos entender cómo es que Android y iOS mane
 Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar en la sección de enlaces para encontrar la versión más actualizada.
 
 [Aquí ](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/27.OpenCamera) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -4994,36 +5680,44 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	    }
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Diego A. S. Cabrera** [823294] (1)
 
 		Sos un genio, no me funcionaba pero con tu ayuda si.  
 		Muchas gracias por compartir tu solución.
+		  *[CI]: Integración Continua
 
 	* **gabrielalfonso** [823294] (1)
 
 		gracias
+		  *[CI]: Integración Continua
 
 	* **jlquichimbo** [823294] (1)
 
 		Hola. Teng una duda, con cuàl versión de la librería lo dejaste?  
 		Muchas gracias.
+		  *[CI]: Integración Continua
 
 	* **Diego A. S. Cabrera** [823294] (2)
 
 		image_picker: ^0.6.2+1
+		  *[CI]: Integración Continua
 
 	* **Mauricio Alejandro Palomera Rodriguez** [823294] (1)
 
 		Wooooo muchas gracias!!
+		  *[CI]: Integración Continua
 
 	* **MitoCodeII** [823294] (1)
 
 		Increíble, tal cual como dijiste funciono, estoy en el trabajo y requería utilizar esta opción para un app que estoy haciendo y me salvaste de una, muchaaaaaas gracias Enserio ♥
+		  *[CI]: Integración Continua
 
 	* **Eliana Mejia Santander** [823294] (1)
 
 		muchas gracias, estaba con ese mismo problema
+		  *[CI]: Integración Continua
 
 * **David Galicia** (4) [936382](https://platzi.com/comentario/936382/) 
 
@@ -5041,10 +5735,12 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	              ),
 	    
 	```
+	  *[CI]: Integración Continua
 
 	* **Darien Breiner Romero Leiva** [936382] (1)
 
 		Gracias, me funcionó
+		  *[CI]: Integración Continua
 
 * **Omar Jesus Hernández Bastos** (4) [811922](https://platzi.com/comentario/811922/) 
 
@@ -5105,10 +5801,12 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	Con esto conseguiremos enviar la foto tomada como archivo del android y no una ruta que por supuesto flutter no puede leer pues no se ha declarado dentro del yaml.
 	
 	Espero les sirva probe otras soluciones como el await o rebajar la resolucion pero nada sirvio al 100%
+	  *[CI]: Integración Continua
 
 	* **Sebastián Valencia Zapata** [811922] (1)
 
 		¡Muchas gracias! De verdad fue muy útil ese aporte.
+		  *[CI]: Integración Continua
 
 	* **bynico** [811922] (2)
 
@@ -5193,6 +5891,7 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 		```
 		
 		Espero que les sea util
+		  *[CI]: Integración Continua
 
 * **Iván Felipe Velasteguí Jaramillo** (4) [610193](https://platzi.com/comentario/610193/) 
 
@@ -5213,6 +5912,7 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	De esta manera flutter reconstruirá el build de la aplicación desde 0 y refrescará la implementación de las distintas librerías.
 	
 	Luego ejecutar la aplicación nuevamente y listo!
+	  *[CI]: Integración Continua
 
 * **Sebastián Valencia Zapata** (3) [960971](https://platzi.com/comentario/960971/) 
 
@@ -5236,6 +5936,7 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	                      });```
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (3) [615879](https://platzi.com/comentario/615879/) 
 
@@ -5249,6 +5950,7 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	    	<string>Platzi Trips reuiere tomar una foto. ¿Podemos user tú cámara?</string>
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **melendez-kevin** (2) [917983](https://platzi.com/comentario/917983/) 
 
@@ -5257,6 +5959,7 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	[Toma una imagen usando la cámara](https://flutter-es.io/docs/cookbook/plugins/picture-using-camera)  
 	La diferencia es notable en el rendimiento de la app.  
 	![Screenshot_2020-01-11-21-28-49-749_com.example.proyect_course.png](https://static.platzi.com/media/user_upload/Screenshot_2020-01-11-21-28-49-749_com.example.proyect_course-8934794c-5c2b-4cb4-8323-49e781665599.jpg)
+	  *[CI]: Integración Continua
 
 * **Julian Sanchez** (1) [893382](https://platzi.com/comentario/893382/) 
 
@@ -5270,6 +5973,7 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	        <string>Platzi Trips quiere tomar una foto. ¿Podemos usar tucámara?</string>
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **jlquichimbo** (1) [863773](https://platzi.com/comentario/863773/) 
 
@@ -5280,24 +5984,29 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 	    
 	    Estoy depurando directamente en un dispositivo Samsung Galaxy J2.
 	```
+	  *[CI]: Integración Continua
 
 	* **JOSE PEREZ** [863773] (1)
 
 		tengo el mismo problema, alguna solución?
+		  *[CI]: Integración Continua
 
 * **pablopsdigital** (1) [818055](https://platzi.com/comentario/818055/) 
 
 	Hola, alguien sabe como solucionar el error: **I/flutter ( 9676): PlatformException(already_active, Image picker is already active, null)** he intentado lo que aparece por las diferentes webs: reinstalar, añadir async y await, etc. pero no consigo solucionar el problema.
+	  *[CI]: Integración Continua
 
 	* **Bruno Diharce** [818055] (1)
 
 		En un principio usando camara como source, me tiraba varios logs sobre que tiene que ser en el thread principal y cosas por el estilo, y por lo tanto, no me iba hacia la pantalla del formulario. Y si le daba devuelta al boton, me aparecia el mismo mensaje que a ti.
 		
 		Lo que hice para seguir avanzando en el curso, es usar gallery, pasar el File imagen, y a CardImage le agrege una variable tipo File imagen y a la hora dl image decorator, un operador ternario para saber si es un FileImage o un AssetImage.
+		  *[CI]: Integración Continua
 
 * **Leonardo Valencia** (1) [782376](https://platzi.com/comentario/782376/) 
 
 	Hola compañeros, alguno de ustedes ha hecho algún choose source para seleccionar de que fuente quiero obtener la imagen, me puede explicar como hacerlo, gracias.
+	  *[CI]: Integración Continua
 
 	* **Emmanuel Guerra** [782376] (1)
 
@@ -5362,19 +6071,23 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 		```
 		
 		Aclaro que no probe este código en iOS porque no tengo un a Mac.
+		  *[CI]: Integración Continua
 
 * **u1802261** (1) [674966](https://platzi.com/comentario/674966/) 
 
 	Hola a todos, tengo un problema logro tomar la foto pero hacer que se vea en add new place pero cuando vuelvo a intentar tomar la foto se sale de app y la pantalla esta en blanco(en la app), alguien sabe por que pasa?!
+	  *[CI]: Integración Continua
 
 * **fabian82** (1) [659452](https://platzi.com/comentario/659452/) 
 
 	Hola a todos  
 	Tengo el siguiente problema, al presionar el botón para ir a “Add new place” y tomar la foto, logro tomar la foto pero vuelve a la pantalla de profile, no da error pero no puedo ir a “new place”, hay alguna forma de debugear la libreria. Se que es muy vago la descripción que doy pero no tengo mas que eso
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [659452] (1)
 
 		Depronto te falto arreglar el push a la nueva ventana.
+		  *[CI]: Integración Continua
 
 	* **u1802261** [659452] (2)
 
@@ -5385,10 +6098,12 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 		                    Navigator.push(context, MaterialPageRoute(builder: (BuildContext context) => addPlaceScreen(image: image)));
 		    
 		```
+		  *[CI]: Integración Continua
 
 	* **Edward Acu** [659452] (1)
 
 		Hola tengo el mismo problema, al parecer es problema del tama;o de la fotografía pue, si pruebas poner el source a la gallery si te va a funcionar, de momento yo lo he dejado así pero investigaré, si sé algo más lo publicaré por acá.
+		  *[CI]: Integración Continua
 
 	* **Omar Jesus Hernández Bastos** [659452] (1)
 
@@ -5402,17 +6117,21 @@ Debemos agregar el paquete `image_picker` a nuestro proyecto, puedes consultar e
 		    Baja la resolucion pero puede escogerse desde la camara, estoy con un redmi note 6 pro
 		    
 		```
+		  *[CI]: Integración Continua
 
 * **Lordpanther** (1) [635943](https://platzi.com/comentario/635943/) 
 
 	No están los permisos en la descripción.
+	  *[CI]: Integración Continua
 
 	* **camilabs (Platzi)** [635943] (1)
 
 		Hola Lordpanther, el enlace lo encuentras en la pestaña de [Archivos y Enlaces](https://pub.dev/packages/image_pickerl).
+		  *[CI]: Integración Continua
 
 * **davidcobacasas** (1) [65901](https://platzi.com/comentario/699804/) 
 Estimados Tengo un problema, cuando tomo la foto no se direcciona al screen para completar los datos del place screen(add_place_screen.da...
+	  *[CI]: Integración Continua
 
 	* **antonagency** [65901] (1)
 
@@ -5467,6 +6186,7 @@ Estimados Tengo un problema, cuando tomo la foto no se direcciona al screen para
 		    }
 		    
 		```
+		  *[CI]: Integración Continua
 
 ## 0410. Librerías de acceso a Hardware en Flutter [20595](https://platzi.com/clases/1603-flutter-avanzado/20595-librerias-de-acceso-a-hardware-en-flutter/)
 
@@ -5537,16 +6257,19 @@ Sus usos son tan variados como la imaginación lo diga. Puede emitir, fotografí
 En Flutter tenemos soporte para Beacons con el plugin Flutter Beacon que soporta especialmente a los iBeacons que viste en el video.
 
 Mira la documentación aquí: <https://pub.dev/packages/flutter_beacon>
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **VladDark** (2) [866597](https://platzi.com/comentario/866597/) 
 
 	muy buenos tips
+	  *[CI]: Integración Continua
 
 * **eder_ese** (1) [671667](https://platzi.com/comentario/671667/) 
 
 	De lujo!!
+	  *[CI]: Integración Continua
 
 # Firebase Storage en Flutter [4059]
 
@@ -5558,6 +6281,7 @@ Mira la documentación aquí: <https://pub.dev/packages/flutter_beacon>
 El Firebase Storage es un aditamento que Firebase nos proporciona para poder almacenar archivos, ya sean fotografías, vídeos, PDF y más; incluso podemos guardarlos en carpetas específicas. Nos va a ayudar a manejar estos documentos multimedias y poder persistirlos cuando nuestra aplicación está desinstalada.
 
 Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le damos click a empezar y esto es lo que haremos: organizaremos los datos por carpeta y las carpetas serán los identificadores de los usuarios.
+  *[CI]: Integración Continua
 
 ### Links:
 
@@ -5568,6 +6292,7 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 * **JCMeza** (1) [786947](https://platzi.com/comentario/786947/) 
 
 	Muy interesante la forma en que podemos hacer actualizaciones de imágenes por medio de Firebase (banners, imagen destacada, una imagen de fondo, etc etc) con esto se le puede dar más dinamismo a nuestra App.
+	  *[CI]: Integración Continua
 
 ## 0430. Subiendo una imagen a Firebase Storage desde Flutter [20256](https://platzi.com/clases/1603-flutter-avanzado/20256-subiendo-una-imagen-a-firebase-storage-desde-flutt/)
 
@@ -5575,6 +6300,7 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/28.ImageUploadFirebase) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -5583,14 +6309,17 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 	{_ _/}  
 	( •_ •) No puedo dar más galletas, pero, ten una estrellita viajero  
 	/>★>
+	  *[CI]: Integración Continua
 
 * **bynico** (1) [1034097](https://platzi.com/comentario/1034097/) 
 
 	Porque tanta redundancia en la creación de los blocs?
+	  *[CI]: Integración Continua
 
 	* **Jorge Luis Hernández Núñez Luis Hernández Núñez** [1034097] (2)
 
 		Se hace tanta redundancia debido a que lo que se hace es que se sigue la arquitectura CLEAN el cual demanda crear varios archivos para poder mantener una lógica independiente a lo largo del proyecto, puedes encontrar más información aqui: [](https://medium.com/@rodrigolmti/clean-architecture-no-flutter-1888c4baa6bc)
+		  *[CI]: Integración Continua
 
 # Querys avanzados en Cloud Firestore de Firebase en Flutter [4060]
 
@@ -5600,6 +6329,7 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/29.ManageImageFirebaseStorage) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -5620,18 +6350,22 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 	      }```
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Lordpanther** (3) [636009](https://platzi.com/comentario/636009/) 
 
 	Hay que informarle al usuario mientras se carga la imagen 😃
+	  *[CI]: Integración Continua
 
 * **Bruno Diharce** (2) [872837](https://platzi.com/comentario/872837/) 
 
 	Para el emulador de IOS uno puede cambiar, en ves de tomar una foto con la camara, cambiar el source y abrir la galeria
+	  *[CI]: Integración Continua
 
 	* **pablo nicoli** [872837] (1)
 
 		como haces eso ?
+		  *[CI]: Integración Continua
 
 * **Emmanuel Guerra** (2) [788744](https://platzi.com/comentario/788744/) 
 
@@ -5682,12 +6416,14 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 	    
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Luis Miguel Copa DIaz** (1) [796043](https://platzi.com/comentario/796043/) 
 
 	Bueno desde ya hace un rato me sale el error de que no muestra la imagen que tomo con la camara me aparece asi:![qemu-system-x86_64_M2a14CIJZE.png](https://static.platzi.com/media/user_upload/qemu-system-x86_64_M2a14CIJZE-cd9a4480-4bf8-45d6-b908-6472a60340da.jpg)  
 	luego para verificar que pasaba le puse en vez camara con gallery y me funciono perfecto pero aun asi no me muestra o lo visualiza la imagen despues de seleccionar la foto:  
 	pero al guardarlo si me aparece eso demuestra que realmente si esta guardando pero si lo coloco con camara no me muestra nada solo la pantalla de Profile![chrome_RRolWmD2jN.png](https://static.platzi.com/media/user_upload/chrome_RRolWmD2jN-9ac84228-c0b9-4501-8865-7777ffeaf0fd.jpg)
+	  *[CI]: Integración Continua
 
 	* **Omar Jesus Hernández Bastos** [796043] (3)
 
@@ -5703,15 +6439,18 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 		    
 		                    }),```
 		```
+		  *[CI]: Integración Continua
 
 	* **Diego A. S. Cabrera** [796043] (1)
 
 		Buenas, encontraste la solución al problema?
+		  *[CI]: Integración Continua
 
 	* **Jaime Mena** [796043] (1)
 ![Captura de Pantalla 2020-01-11 a la\(s\) 09.42.29.png](https://static.platzi.com/media/user_upload/Captura%20de%20Pantalla%202020-01-11%20a%20la%28s%29%2009.42.29-523038be-3576-4a0e-a557-f2bb031526aa.jpg)
 		
 		**salta esta excepción **
+		  *[CI]: Integración Continua
 
 	* **davidsc34** [796043] (1)
 
@@ -5719,15 +6458,18 @@ Vamos a dirigirnos a la console de firebase, luego al apartado de _Storage_ , le
 		
 		Mi duda seria como logro obtener para android el apk “de produccion” y hacer pruebas?  
 		Saludos.
+		  *[CI]: Integración Continua
 
 	* **PedroRafa26** [796043] (1)
 
 		personalmente me estaba sucediendo lo mismo, y lo solucione trabajando la propiedad image: como FileImage en lugar de Asset Image en la card al momento de mostrar la imagen
 		
 		`Sería suplantar image: AssetImage(image) por image: FileImage(image) en la variable card que contiene a la imagen mostrada`
+		  *[CI]: Integración Continua
 
 * **eder_ese** (1) [67325](https://platzi.com/comentario/721390/) 
 Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pantalla de perfil y no a la de agregar nuevo lugar. Ya revisé...
+	  *[CI]: Integración Continua
 
 ## 0450. Cloud Firestore insertando referencias y arrays en la base de datos [20258](https://platzi.com/clases/1603-flutter-avanzado/20258-cloud-firestore-insertando-referencias-y-arrays-en/)
 
@@ -5735,12 +6477,14 @@ Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pant
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/30.FirestoreInsertReference) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Lordpanther** (6) [636376](https://platzi.com/comentario/636376/) 
 
 	Falta informar al usuario que se esta subiendo la imagen, mediante un CircularProgressIndicator() 😃
+	  *[CI]: Integración Continua
 
 * **carlos1128** (3) [644113](https://platzi.com/comentario/644113/) 
 
@@ -5767,24 +6511,29 @@ Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pant
 	    });
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **davidsc34** (1) [1011283](https://platzi.com/comentario/1011283/) 
 
 	Compañeros, tuve un problema con el metodo FieldValue.arrayUnion(), me arrojhaba un error de que no puedo insertar un DOcumentReference, y vi una solucion al problema en la liga ; <https://github.com/FirebaseExtended/flutterfire/issues/1986>
 	
 	Sugieren usar cloud_firestore: ^0.13.2+2 , para corregir ese error y pude solucionar despues de tanto buscar, ya me iba dar por vencido
+	  *[CI]: Integración Continua
 
 * **nelsonfacundo** (1) [801218](https://platzi.com/comentario/801218/) 
 
 	como sacar la barrita de busqueda para usuarios de windows
+	  *[CI]: Integración Continua
 
 	* **Makinox** [801218] (1)
 
 		ctrl + p
+		  *[CI]: Integración Continua
 
 * **Fabian Siatama** (1) [767987](https://platzi.com/comentario/767987/) 
 
 	En una aplicación real, toda esta lógica debería ir en una cloud Function?
+	  *[CI]: Integración Continua
 
 ## 0460. Descargar imágenes de Firebase Storage y mostrarlas en Flutter [20259](https://platzi.com/clases/1603-flutter-avanzado/20259-descargar-imagenes-de-firebase-storage-y-mostrarla/)
 
@@ -5792,12 +6541,14 @@ Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pant
 
 
 [Aquí ](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/31.FirestoreBuildPlaces)está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **jangove** (4) [1007340](https://platzi.com/comentario/1007340/) 
 
 	Buena clase ojala hay otro curso de flutter
+	  *[CI]: Integración Continua
 
 ## 0470. Procesando datos con BLoC Pattern [20260](https://platzi.com/clases/1603-flutter-avanzado/20260-procesando-datos-con-bloc-pattern/)
 
@@ -5805,6 +6556,7 @@ Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pant
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/31.FirestoreBuildPlaces) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -5817,17 +6569,21 @@ Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pant
 	```
 	
 	Es a la hora de hacer la llamada a `userBloc.buildPlaces(snapshot.data.documents);`
+	  *[CI]: Integración Continua
 
 	* **gabrielalfonso** [769579] (1)
 
 		revise si en el modelo User este incluido esa propiedad
+		  *[CI]: Integración Continua
 
 * **Luis Rogelio Reyes Hernández** (1) [66129](https://platzi.com/comentario/703366/) 
 ¿Falta alguna clase? , veo codigo que se dice es de la clase anterior pero no esta allí
+	  *[CI]: Integración Continua
 
 	* **Pablo Domínguez Durán** [66129] (1)
 
 		Me parece que ya lo corrigieron 😃
+		  *[CI]: Integración Continua
 
 ## 0480. Trayendo datos de Cloud Firestore [20261](https://platzi.com/clases/1603-flutter-avanzado/20261-trayendo-datos-de-cloud-firestore/)
 
@@ -5835,28 +6591,34 @@ Alguien sabe que puede estar mal? Después de tomar la foto me regresa a la pant
 
 
 [Aquí ](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/32.FiresotreShowData)está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Lordpanther** (3) [637577](https://platzi.com/comentario/637577/) 
 
 	Falta indicarle al usuario que se esta subiendo la imagen e impedir que suba miles de imágenes por NO desactivar el botón de agregar el lugar 😃
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [637577] (1)
 
 		Toda la razón. A mí me paso, termine subiendo dos veces la misma imagen.
+		  *[CI]: Integración Continua
 
 	* **DracoClvo** [637577] (1)
 
 		esas ya son validaciones, pero si faltan muchas 😄
+		  *[CI]: Integración Continua
 
 * **elbuendaza** (1) [60665](https://platzi.com/comentario/609069/) 
 tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde de memoria importante sharedmem_gpumem_alloc: mmap failed...
+	  *[CI]: Integración Continua
 
 	* **anncode** [60665] (1)
 
 		Prueba optimizando las imagenes en Caché justo como lo dice en esta lectura:  
 		<https://platzi.com/clases/1603-flutter-avanzado/20598-usando-el-cache-para-cargar-imagenes-mas-rapido/>
+		  *[CI]: Integración Continua
 
 ## 0490. Persistiendo datos de un usuario logueado [20262](https://platzi.com/clases/1603-flutter-avanzado/20262-persistiendo-datos-de-un-usuario-logueado/)
 
@@ -5864,6 +6626,7 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/33.LoggedUserPersist) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -5874,6 +6637,7 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 	\----/""""""""""""|  
 	/"""""""""""""""""""""""   
 	(@) (@) (@) (@) (@)
+	  *[CI]: Integración Continua
 
 ## 0500. Aplicando Filtros en Cloud Firestore [20263](https://platzi.com/clases/1603-flutter-avanzado/20263-aplicando-filtros-en-cloud-firestore/)
 
@@ -5881,23 +6645,27 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/34.FirestoreFilters) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **jccd1996** (3) [949850](https://platzi.com/comentario/949850/) 
 
 	Excelente curso
+	  *[CI]: Integración Continua
 
 * **pablo nicoli** (1) [1059400](https://platzi.com/comentario/1059400/) 
 
 	a esta altura ya no se entiende nada.  
 	recomiendo si llegaste hasta aca y no entedes, hace un parate y fijate donde te perdistes
+	  *[CI]: Integración Continua
 
 * **Pablo Zenteno** (1) [1025132](https://platzi.com/comentario/1025132/) 
 
 	Clone el proyecto del repositorio pero falla al ejecutarlo.  
 	hice flutter clean y flutter pub get pero sigue fallando  
 	puedes revisarlo
+	  *[CI]: Integración Continua
 
 ## 0510. Construyendo los Places en la pantalla de Home [20264](https://platzi.com/clases/1603-flutter-avanzado/20264-construyendo-los-places-en-la-pantalla-de-home/)
 
@@ -5905,12 +6673,14 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 
 
 [Aquí ](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/35.BuildPlaces)está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Jorge Teofanes Vicuña Valle** (1) [1065327](https://platzi.com/comentario/1065327/) 
 
 	Cada vez se siente más vacío los comentarios :c psdt: El mejor curso de Platzi :3
+	  *[CI]: Integración Continua
 
 ## 0520. Mostrando los Places en la pantalla de Home [20265](https://platzi.com/clases/1603-flutter-avanzado/20265-mostrando-los-places-en-la-pantalla-de-home/)
 
@@ -5918,12 +6688,14 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 
 
 [Aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/36.ShowPlaces) está el repositorio de esta clase.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **Luis Miguel Copa DIaz** (4) [798717](https://platzi.com/comentario/798717/) 
 
 	Al cambiar por NetworkImage no dejaria que guarde de manera local cuando se tome una foto cuando haga el caso de uso de Add Place debido que anteriormente se tuvo problema porque se guardaba la foto de manera local.
+	  *[CI]: Integración Continua
 
 	* **David Galicia** [798717] (2)
 
@@ -5932,11 +6704,13 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 		    image: pathImage.contains('http')? NetworkImage(pathImage):new FileImage(new File(pathImage))
 		    
 		```
+		  *[CI]: Integración Continua
 
 ## 0530. Actualizando datos en tiempo real [20266](https://platzi.com/clases/1603-flutter-avanzado/20266-actualizando-datos-en-tiempo-real/)
 
 ### Descripción:
 
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -5952,6 +6726,7 @@ tengo alto problema al cargar mas de 4 imagenes con su descripcion hay desborde 
 	      }
 	    
 	```
+	  *[CI]: Integración Continua
 
 ## 0540. Manejando la lógica de likes, como botón toggle. [20596](https://platzi.com/clases/1603-flutter-avanzado/20596-manejando-la-logica-de-likes-como-boton-toggle/)
 
@@ -6185,6 +6960,7 @@ Lo que estamos haciendo aquí es darle el comportamiento de un toggle o un switc
 [Mira el código completo en este enlace.](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/39.ToggleButtonLike)
 
 Vamos a la siguiente clase terminar la implementación del comportamiento del botón like y la inserción del usuario que le dio _like_ como referencia.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -6192,6 +6968,7 @@ Vamos a la siguiente clase terminar la implementación del comportamiento del bo
 
 	Buena dia, un consulta estoy haciendo un proyecto donde en unos de los puntos recargar el componente listview al seleccion un DropdownMenuItem.  
 	Donde el listview cargaria distintos arrays sera que se puede en flutter un ayuda porfavor
+	  *[CI]: Integración Continua
 
 ## 0550. Insertando y obteniendo referencias en datos de Firestore. [20597](https://platzi.com/clases/1603-flutter-avanzado/20597-insertando-y-obteniendo-referencias-en-datos-de-fi/)
 
@@ -6355,6 +7132,7 @@ Por último como est método `buildPlaces` es llamado en el Stream hacemos lo si
 ![](http://g.recordit.co/WXojzWoig1.gif)
 
 Ahora vamos a la siguiente clase para hacer que la carga de imágenes sea mucho más ágil.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -6431,6 +7209,7 @@ Aplícalo también para la lista de fotos de perfil en el archivo `profile_place
 [Mira el proyecto completo aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/)
 
 Notarás inmediatamente cómo cambia la velocidad en la carga de las imágenes
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -6459,6 +7238,7 @@ Notarás inmediatamente cómo cambia la velocidad en la carga de las imágenes
 	    bool internet = true;
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **Javier Batres** (1) [616158](https://platzi.com/comentario/616158/) 
 
@@ -6476,6 +7256,7 @@ Notarás inmediatamente cómo cambia la velocidad en la carga de las imágenes
 	          : super(key: key);
 	    
 	```
+	  *[CI]: Integración Continua
 
 ## 0570. StreamController, sink, add y StreamBuilder [20599](https://platzi.com/clases/1603-flutter-avanzado/20599-streamcontroller-sink-add-y-streambuilder/)
 
@@ -6721,12 +7502,14 @@ Notaste que los Widgets ahora están en forma de funciones `titleStars` y `descr
 [Mira el archivo completo aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/blob/41.StreamControllerSinkAdd/lib/Place/ui/widgets/description_place.dart)
 
 [Mira el proyecto completo aquí](https://github.com/anncode1/Curso-de-Flutter-Avanzado-en-Platzi/tree/41.StreamControllerSinkAdd)
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
 * **davidsc34** (2) [1017841](https://platzi.com/comentario/1017841/) 
 
 	Amigos, hasta aqui ya casi me doy por vencido, solo una pregunta, como puedo hacer esta publicacion un archivo de produccion uno pára Andrid y otro para IOs, espero me puedan ayudar. Saludos.
+	  *[CI]: Integración Continua
 
 * **Emmanuel Guerra** (2) [790941](https://platzi.com/comentario/790941/) 
 
@@ -6738,22 +7521,27 @@ Notaste que los Widgets ahora están en forma de funciones `titleStars` y `descr
 	      }
 	    
 	```
+	  *[CI]: Integración Continua
 
 * **davidsc34** (1) [1031686](https://platzi.com/comentario/1031686/) 
 
 	Hola que tal, una pregunta amigos, ya que no pose una mac para poder probar al mismo tiempo la versin en iOS, puedo hacer la app primero en androidy luego probar su avance en una Mac prestada?. o Saben de alguna forma de desarrollar en estos casos. Gracias
+	  *[CI]: Integración Continua
 
 * **Germán Arevalo Jerez** (1) [672550](https://platzi.com/comentario/672550/) 
 
 	El like en en los places que muestra en Profile no esta programado.
+	  *[CI]: Integración Continua
 
 * **Matias Niz** (1) [614304](https://platzi.com/comentario/614304/) 
 
 	Que paso con PlaceBloc? Solo se puede implentar un bloc?
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [614304] (1)
 
 		Tal vez, estos Stream harían parte del PlaceBloc.
+		  *[CI]: Integración Continua
 
 * **Iván Felipe Velasteguí Jaramillo** (1) [613170](https://platzi.com/comentario/613170/) 
 
@@ -6831,6 +7619,7 @@ Notaste que los Widgets ahora están en forma de funciones `titleStars` y `descr
 	```
 	
 	En conclusión, comunicamos 2 vistas pasando cualquier dato, sin importar el nivel jerárquico que tengan en el árbol de Widgets.
+	  *[CI]: Integración Continua
 
 # Conclusiones [4061]
 
@@ -6844,6 +7633,7 @@ Notaste que los Widgets ahora están en forma de funciones `titleStars` y `descr
 Le dimos vida a la aplicación de nuestro Curso Básico de Flutter, vimos autenticación con Google, arquitectura, BLoC Pattern, trabajamos con el hardware del dispositivo, le dimos soporte a la aplicación para manejar persistencia de manera online en una base de datos realtime usando Cloud Firestore, manejamos persistencia de imágenes con Firestorage y más. ¡Felicidades, eres un desarrollador avanzado de Flutter!
 
 Sabemos que fue un largo camino pero estamos más que seguros que valió la pena y **nunca vas a parar de aprender**.
+  *[CI]: Integración Continua
 
 ### Comentarios:
 
@@ -6856,33 +7646,41 @@ Sabemos que fue un largo camino pero estamos más que seguros que valió la pena
 	
 	Para @anncode:  
 	Me gustaría profundizar mas temas de Flutter como integrar Mapas, Procesos Asíncronos, Geolocalizaciones, Animaciones y mas…
+	  *[CI]: Integración Continua
 
 * **Leonardo Valencia** (3) [867617](https://platzi.com/comentario/867617/) 
 
 	Hola me pueden ayudar como se hace para colocar el logo de la app y como se publica una app de flutter en play store ?
+	  *[CI]: Integración Continua
 
 	* **davidsc34** [867617] (1)
 
 		Yo tambien tengo esa duda pero creo que hay que investigar amigo. Saludos
+		  *[CI]: Integración Continua
 
 * **PedroRafa26** (2) [1048037](https://platzi.com/comentario/1048037/) 
 
 	Muchas gracias, este curso realmente me ayudo a interesarme y apasionarme por el desarrollo movil, me gustaría ver un futuro curso sobre el paso siguiente al tener lista nuestra aplicación, que toque temas como: Cambiar la imagen de presentación de la app, maneras de testear y cómo prepara nuestra app para lanzarla a la PlayStore, junto con las guias de todo ese proceso, un saludo gigante desde Venezuela, muchisimas gracias por todo
+	  *[CI]: Integración Continua
 
 * **David Galicia** (2) [949849](https://platzi.com/comentario/949849/) 
 
 	Gracias, fue un buen curso . Ahora a seguir aprendiendo y mejorar en lo que vimos aquí ya que fue mucha información para asimilarla si es que esta es la primera ocasión que desarrollas en móvil.
+	  *[CI]: Integración Continua
 
 * **Nicolás Neira** (2) [625284](https://platzi.com/comentario/625284/) 
 
 	Muchas gracias Ann, excelente curso 😃
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [625284] (2)
 
 		X2
+		  *[CI]: Integración Continua
 
 * **Nelson Andres Jaramillo Diaz** (1) [60557](https://platzi.com/comentario/607435/) 
 Buenas tardes, alguien que ayude hacer funcionar las notificaciones push en ios? actualmente me llegan las notificaciones si la app esta ...
+	  *[CI]: Integración Continua
 
 	* **Javier Batres** [60557] (1)
 
@@ -6904,6 +7702,7 @@ Buenas tardes, alguien que ayude hacer funcionar las notificaciones push en ios?
 		      }
 		    
 		```
+		  *[CI]: Integración Continua
 
 * **Jesús Enrique Quevedo Torres** (0) [647588](https://platzi.com/comentario/647588/) 
 
@@ -6912,8 +7711,10 @@ Buenas tardes, alguien que ayude hacer funcionar las notificaciones push en ios?
 	Yo quisiera saber como realizar la creación de nuestra apk en modo debug para probarla en un celular físico.
 	
 	Saludos
+	  *[CI]: Integración Continua
 
 	* **Germán Arevalo Jerez** [647588] (2)
 
 		Solo tienes que conectar tu dispositivo(asegurándote que este en modo debug), y la aplicación quedara instalado en tu dispositivo con los últimos cambio que le hayas hecho.
+		  *[CI]: Integración Continua
 

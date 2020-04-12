@@ -5,8 +5,6 @@
 ## 0010. Introducción y Bienvenida [18014](https://platzi.com/clases/1502-dart/18014-introduccion-y-bienvenida4094/)
 
 ### Descripción:
-
-
 Bienvenido al **curso de Dart** , a lo largo de estas clases aprenderemos junto al profesor **Argel Bejarano** el uso básico de este lenguaje. Dart es un lenguaje de **propósito general** para que puedas empezar a crear aplicaciones multiplataforma.
 
 ### Links:
