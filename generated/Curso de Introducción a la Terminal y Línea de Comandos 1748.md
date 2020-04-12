@@ -11,7 +11,7 @@
 
 * **Christian Gómez** (10) [912256](https://platzi.com/comentario/912256/) 
 
-	 **Comandos:**  
+	**Comandos:**  
 	Su estructura esta dada por:  
 	[Nombre de un programa] _[Parámetros]_ [Modificadores]  
 	La diferencia entre los parámetros y modificadores es: Que los modificadores alteran **que es lo que el programa va hacer** , mientras que los parámetros, son información adicional para la ejecución del programa.
