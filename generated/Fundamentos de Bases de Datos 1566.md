@@ -3,8 +3,6 @@
 ## 0010. Bienvenida conceptos básicos y contexto histórico de las Bases de Datos
 
 ### Descripción:
-
-
 Tu profesor será Israel Vázquez, senior web developer en San Francisco, seminarista de bases de datos y entusiasta data engineering.  
 El almacenamiento en la nube tiene un gran pro comparada con los otros métodos de almacenamiento ya que es accesible desde cualquier parte del mundo. Además es centralizada y puede ser usada por varias personas al mismo tiempo.
 
