@@ -5,6 +5,8 @@
 ## 0010. Presentación del curso [12913](https://platzi.com/clases/1338-php/12913-presentacion-del-curso8561/)
 
 ### Descripción:
+
+
 Bienvenido al **Curso de Introducción a PHP ** en este curso el profesor Héctor Benitez, @HectorBenitez en Twitter, te ira enseñando los fundamentos de PHP mientras desarrollas un proyecto que servirá de sitio web personal.
 
 En este curso veremos:
