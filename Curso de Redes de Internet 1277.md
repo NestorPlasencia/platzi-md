@@ -4642,7 +4642,8 @@ _Por defecto SSH usa el puerto 22 y Telnet utiliza el puerto 23, una medida bás
 		gracias por el aporte
 
 	* **teo-quezada** [299975] (1)
-Graviaa por el aporte
+		
+		Graviaa por el aporte
 
 	* **Luis Garcia** [299975] (1)
 
@@ -5241,7 +5242,68 @@ telnet y ssh son protocolos o servicios
 
 Aquí les dejo una lista con los comandos que usamos en la clase, espero que les sea de utilidad muchachos.  
 
-![](https://i.imgur.com/zSk5a5p.png)
+| Modo                                     | Comando                              | Funcion                                            |
+|------------------------------------------|--------------------------------------|----------------------------------------------------|
+| Usuario '>'                              | enable                               | Accede al modo EXEC Pivilegiado                    |
+| Usuario '>'                              | Exit                                 | Salir del nodo privilegiado                        |
+| Privilegiado '#'                         | configure terminal                   | Accede al modo de configuracion global             |
+| Configuracion Global '(config)#'         | Exit o Ctrl + Z                      | Regresar al modo privilegiado                      |
+| Configuracion Global '(config)#'         | interface vlan1                      | Accede al modo de configuracion de interfaz        |
+| Configuracion de Interfaz '(config-if)#' | Exit                                 | Regresar al modo de configuracion global           |
+| Configuracion de Interfaz '(config-if)#' | Ctrl + Z                             | Regresar al modo privilegiado                      |
+| Privilegiado '#'                         | show running-config                  | Muestra la configuracion del dispositivo           |
+| Configuracion Global '(config)#'         | hostname PlatziS1                    | Configura el nombre del dispositivo                |
+| Configuracion Global '(config)#'         | enable secret password               | Asignar como contraseña del dispositivo "password" |
+| Configuracion Global '(config)#'         | banner motd # Hola bienvenido #      | Configurar un mensaje de bienvenida                |
+| Configuracion de Interfaz '(config-if)#' | ip address 192.168.1.2 255.255.255.0 | Configuracion de la ip de la interfaz              |
+| Configuracion de Interfaz '(config-if)#' | no shutdown                          | Encender la interfaz                               |
+| Privilegiado '#'                         | copy run startup-config              | Guarda la configuracion actual                     |
+
+
+![Acceso CISCO.png](https://static.platzi.com/media/user_upload/Acceso%20CISCO-846d2a9e-ba2a-44bd-a66b-c9d9ca9e339b.jpg)
+
+ 
+>  Conectarse al Switch por consola
+```bash
+S1>
+```
+
+> Para ir al modo EXEC privilegiado:  
+> introducir “enable” 
+
+```bash
+S1>enable  
+S1#
+```
+> Para ir al modo Configuración Global:  
+>  introducir “configure terminal” en el modo EXEC privilegiado (Este es un modo de configuración) 
+ 
+```bash
+S1#configure terminal   
+S1(config)#
+```
+
+> Para ir al modo de configuración de puertos (desde el modo de configuración global):  
+>  Se accede con el comando “interface” espacio y el puerto o VLAN a configurar, una vez dentro del modo interface meteríamos los comandos a realizar para ese Puerto o VLAN. 
+
+```bash
+S1(config)#interface VLAN1   
+S1(config-if)#
+```
+```bash
+S1(config)#interface fa0/18  
+S1(config-if)#
+```
+
+Para salir del modo de configuración se utiliza el comando “end” o “exit”
+
+* **Adrián Castillo** (2) [81801](https://platzi.com/comentario/990046/) 
+	
+	Alguien me podría explicar porque siempre que recién configuras un equipo al hacer ping la primera vez se pierde 1 de los 4 paquetes envi...
+
+	* **caniculari** [81801] (3)
+
+		Generalmente sucede en los switches que el primer paque se pierde por que no lo tiene en su tabla de MAC Address. Al hacer ping, al mismo tiempo lanza un mesaje de broadcast para ver quien tiene esa dirección y en que puerto está. Una vez que el equipo con la IP en cuestión responde, ya se perdio el primer paquete ICMP, pero el switch ya sabrá en que puerto se encuentra conectado y ahí mandará el resto de los pings.
 
 ### Comentarios:
 
@@ -5279,7 +5341,8 @@ Aquí les dejo una lista con los comandos que usamos en la clase, espero que les
 		Me pregunto justamente lo mismo!
 
 	* **GT7** [762186] (1)
-Igual 🧐🤔
+		
+		Igual 🧐🤔
 
 	* **David Acosta** [762186] (2)
 
@@ -5528,24 +5591,28 @@ Para guardar la configuración fuera de enable sirve el comando " do wr "
 	Gracias a los compañeros que nos ayuda con sus apuntes… es de mucha ayuda para los que no tenemos mucho tiempo…
 
 * **Adrián Castillo** (2) [81801](https://platzi.com/comentario/990046/) 
-Alguien me podría explicar porque siempre que recién configuras un equipo al hacer ping la primera vez se pierde 1 de los 4 paquetes envi...
+	
+	Alguien me podría explicar porque siempre que recién configuras un equipo al hacer ping la primera vez se pierde 1 de los 4 paquetes envi...
 
 	* **caniculari** [81801] (3)
 
 		Generalmente sucede en los switches que el primer paque se pierde por que no lo tiene en su tabla de MAC Address. Al hacer ping, al mismo tiempo lanza un mesaje de broadcast para ver quien tiene esa dirección y en que puerto está. Una vez que el equipo con la IP en cuestión responde, ya se perdio el primer paquete ICMP, pero el switch ya sabrá en que puerto se encuentra conectado y ahí mandará el resto de los pings.
 
 * **calisaya-joel-misael** (2) [80846](https://platzi.com/comentario/967806/) 
-Alguien tiene material para complementar el curso que sea en español. ?
+	
+	Alguien tiene material para complementar el curso que sea en español. ?
 
 	* **Gabriel De Andrade (Platzi)** [80846] (3)
 
 		Hola! Se que no es lo ideal, pero la mayoría del contenido de tecnología está en inglés, es muy importante que lo domines si quieres crecer en esta industria. Por suerte dentro de Platzi hay toda una [Carrera de Inglés](https://platzi.com/clases/learning-path/idioma-ingles/) 😄
 
 * **Braian Fernandez** (2) [80788](https://platzi.com/comentario/966772/) 
-Buenas noches, tengo una duda cuando yo hago tal cual los pasos en las configurariones de las terminales solo me marca la 1 y la 2 solame...
+	
+	Buenas noches, tengo una duda cuando yo hago tal cual los pasos en las configurariones de las terminales solo me marca la 1 y la 2 solame...
 
 * **Christian puentes Daza** (2) [77594](https://platzi.com/comentario/906677/) 
-Hola buenos dias como puedo ver la ip y la mascara de red del dispositivo
+	
+	Hola buenos dias como puedo ver la ip y la mascara de red del dispositivo
 
 	* **CarlosAlba** [77594] (1)
 
@@ -5894,28 +5961,32 @@ Hola buenos dias como puedo ver la ip y la mascara de red del dispositivo
 		Cada mensaje que da es un paquete enviado lo que pesa el paquete y lo que se tardo en enviar, ping para probar la comunicación envía paquetes que los paquetes básicamente son información.
 
 * **William Atef Tadrous** (1) [86973](https://platzi.com/comentario/1109600/) 
-Alguien sabe porque en mi teclado (español) no me deja escribir “#” en Cisco? En cualquier otro sitio si puedo pulsar shift + 3 y aparece
+	
+	Alguien sabe porque en mi teclado (español) no me deja escribir “#” en Cisco? En cualquier otro sitio si puedo pulsar shift + 3 y aparece
 
 	* **Luisfbarba** [86973] (1)
 
 		intenta utilizando Alt+35, a mi me pasaba lo mismo y asi lo solucione
 
 * **Patricio Gutiérrez Sakowicz** (1) [85655](https://platzi.com/comentario/1078570/) 
-la ip que escribimos de donde la sacamos?
+	
+	la ip que escribimos de donde la sacamos?
 
 	* **Alejandro Monroy Avelino** [85655] (0)
 
 		Una ip está formada por 4 octetos. Existen diferentes clases de ip: clase A, clase B, clase C, clase D y clase E. La clase D se utiliza para multicasting y la E para investigación, solo se utilizan las clases A, B y C para comunicaciones. La clase A utiliza el primer octeto como identificador de red y los otros 3 para host. La clase B utiliza los primeros 2 octetos como identificador de red y los últimos dos para host y la clase C utilica los primeros 3 octetos como idnetificador de red y el último para host. Dentro de cada clase existen direcciones públicas y privadas, las públicas se utilizan para redes WAN e internet y las privadas se utilizan en las LAN. La IP´s que se están utilizando para este ejercicio son privadas clase C. ![clases ip.jpg](https://static.platzi.com/media/user_upload/clases%20ip-b2d231bc-8785-4515-8aa4-5fd33cf493b8.jpg)![internet-ud3-direccionamiento-ip-16-638.jpg](https://static.platzi.com/media/user_upload/internet-ud3-direccionamiento-ip-16-638-a7e24183-d939-46d7-aca8-7f1a869e1e2e.jpg)
 
 * **Lenis-Torres-Ruiz** (1) [84804](https://platzi.com/comentario/1059178/) 
-Que puedo hacer cuando me sale Comando Invalido luego de colocar #ip address?
+	
+	Que puedo hacer cuando me sale Comando Invalido luego de colocar #ip address?
 
 	* **Brallan Leandro** [84804] (1)
 
 		Me pasa igual
 
 * **bruno raul guerra solano** (1) [84359](https://platzi.com/comentario/1049207/) 
-comprendo este entorno de practica hay algún curso que lo muestre ya practicando con un swiich real ?
+	
+	comprendo este entorno de practica hay algún curso que lo muestre ya practicando con un swiich real ?
 
 	* **Erik Ochoa (Platzi)** [84359] (1)
 
@@ -5949,17 +6020,18 @@ comprendo este entorno de practica hay algún curso que lo muestre ya practicand
 		tengo el mismo problema si me pudieran ayudar a solucionarlo seria genial. Gracias
 
 * **Leonardo** (0) [85698](https://platzi.com/comentario/1079579/) 
-Que tal comunidad Platzi. He seguido todos los pasos pero llegó a un punto en el que el PC1, esta conectado al Switch, el cable se pone d...
+	
+	Que tal comunidad Platzi. He seguido todos los pasos pero llegó a un punto en el que el PC1, esta conectado al Switch, el cable se pone d...
 
 * **Patricio Gutiérrez Sakowicz** (0) [85657](https://platzi.com/comentario/1078603/) 
-porque me aparece esto?? C:>ping 192.160.1.2 Pinging 192.160.1.2 with 32 bytes of data: Request timed out. Request timed out. Request ...
+	
+	porque me aparece esto?? C:>ping 192.160.1.2 Pinging 192.160.1.2 with 32 bytes of data: Request timed out. Request timed out. Request ...
 
 # Protocolos y comunicaciones de red [2026]
 
 ## 0100. Suites de protocolos [11158](https://platzi.com/clases/1277-redes/11158-suites-de-protocolos/)
 
 ### Descripción:
-
 
 Una suite de protocolos es un conjunto de protocolos que nos ayudan desde las diferentes capas y servicios de la red a garantizar que la información viaja de un lugar a otro, de forma segura y confiable, algunos de estos sirven para garantizar que la información es entregada o no como lo son TCP y UDP.
 
